@@ -64231,6 +64231,11 @@
    "model": "itel A15R"
   },
   {
+   "brand": "Nuu",
+   "device": "S6512LA",
+   "model": "S6512L"
+  },
+  {
    "brand": "TVB",
    "device": "A151",
    "model": "A15"
@@ -153947,6 +153952,11 @@
    "brand": "Oppo",
    "device": "OP5989",
    "model": "OPD2201"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP59BBL1",
+   "model": "OPD2202"
   }
  ],
  "OPPO Pad Air": [
@@ -158328,6 +158338,13 @@
    "brand": "Packard Bell",
    "device": "SILVERSTONE-T10",
    "model": "SILVERSTONE-T10"
+  }
+ ],
+ "SILVERSTONE-T11": [
+  {
+   "brand": "Packard Bell",
+   "device": "SILVERSTONE-T11",
+   "model": "BL.9UEEP.209"
   }
  ],
  "T1000": [
@@ -200629,6 +200646,18 @@
    "model": "XQ-CQ72"
   }
  ],
+ "Xperia 5 V": [
+  {
+   "brand": "Sony",
+   "device": "XQ-DE54",
+   "model": "XQ-DE54"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-DE72",
+   "model": "XQ-DE72"
+  }
+ ],
  "Xperia 8": [
   {
    "brand": "Sony",
@@ -232840,6 +232869,13 @@
    "brand": "Vivo",
    "device": "I2216",
    "model": "I2216"
+  }
+ ],
+ "iQOO Z8x": [
+  {
+   "brand": "Vivo",
+   "device": "PD2312",
+   "model": "V2312A"
   }
  ],
  "vivo  1907": [

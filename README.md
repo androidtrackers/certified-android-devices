@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-01
+Last sync is 2023-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22050,6 +22050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A10L|N5502LA|N5502L|
 |Nuu|A11L|S5502LA|S5502L|
 |Nuu|A12L|S5504LA|S5504L|
+|Nuu|A15|S6512LA|S6512L|
 |Nuu|A19L|S6303LA_Go|S6303L|
 |Nuu|A3|NUU_A3|NUU_A3|
 |Nuu|A3L|NUU_A3L|NUU_A3L|
@@ -22782,6 +22783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
 |Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
+|Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
@@ -23464,6 +23466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|PB101|PB101|PB101|
 |Packard Bell|PB9000-32|PB9000-32|PB9000-32|
 |Packard Bell|SILVERSTONE-T10|SILVERSTONE-T10|SILVERSTONE-T10|
+|Packard Bell|SILVERSTONE-T11|SILVERSTONE-T11|BL.9UEEP.209|
 |Packard Bell|T1000|T1000|T1000|
 |PadBook|PadBook|PadBook|PadBook|
 |Palm|PVG100|Pepito|PVG100|
@@ -30634,6 +30637,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 IV|XQ-CQ54|XQ-CQ54|
 |Sony|Xperia 5 IV|XQ-CQ62|XQ-CQ62|
 |Sony|Xperia 5 IV|XQ-CQ72|XQ-CQ72|
+|Sony|Xperia 5 V|XQ-DE54|XQ-DE54|
+|Sony|Xperia 5 V|XQ-DE72|XQ-DE72|
 |Sony|Xperia 8|902SO|902SO|
 |Sony|Xperia 8|SOV42|SOV42|
 |Sony|Xperia 8|SOV42-u|SOV42-u|
@@ -36138,6 +36143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7x|PD2272|V2272A|
 |Vivo|iQOO Z7x (m)|PD2272|V2272A|
 |Vivo|iQOO Z7x 5G|I2216|I2216|
+|Vivo|iQOO Z8x|PD2312|V2312A|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|

@@ -152084,6 +152084,13 @@
    "device": "S5504LA"
   }
  ],
+ "S6512L": [
+  {
+   "brand": "Nuu",
+   "name": "A15",
+   "device": "S6512LA"
+  }
+ ],
  "S6303L": [
   {
    "brand": "Nuu",
@@ -156744,6 +156751,13 @@
    "device": "OP5989"
   }
  ],
+ "OPD2202": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad 2",
+   "device": "OP59BBL1"
+  }
+ ],
  "OPD2102": [
   {
    "brand": "Oppo",
@@ -161075,6 +161089,13 @@
    "brand": "Packard Bell",
    "name": "SILVERSTONE-T10",
    "device": "SILVERSTONE-T10"
+  }
+ ],
+ "BL.9UEEP.209": [
+  {
+   "brand": "Packard Bell",
+   "name": "SILVERSTONE-T11",
+   "device": "SILVERSTONE-T11"
   }
  ],
  "T1000": [
@@ -208584,6 +208605,20 @@
    "device": "XQ-CQ72"
   }
  ],
+ "XQ-DE54": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 V",
+   "device": "XQ-DE54"
+  }
+ ],
+ "XQ-DE72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 V",
+   "device": "XQ-DE72"
+  }
+ ],
  "902SO": [
   {
    "brand": "Sony",
@@ -243889,6 +243924,13 @@
    "brand": "Vivo",
    "name": "iQOO Z7x 5G",
    "device": "I2216"
+  }
+ ],
+ "V2312A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z8x",
+   "device": "PD2312"
   }
  ],
  "vivo 1907": [

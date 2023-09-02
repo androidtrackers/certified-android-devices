@@ -113420,6 +113420,11 @@
    "model": "S5504L"
   },
   {
+   "device": "S6512LA",
+   "name": "A15",
+   "model": "S6512L"
+  },
+  {
    "device": "S6303LA_Go",
    "name": "A19L",
    "model": "S6303L"
@@ -117198,6 +117203,11 @@
    "model": "OPD2201"
   },
   {
+   "device": "OP59BBL1",
+   "name": "OPPO Pad 2",
+   "model": "OPD2202"
+  },
+  {
    "device": "OP5225",
    "name": "OPPO Pad Air",
    "model": "OPD2102"
@@ -120706,6 +120716,11 @@
    "device": "SILVERSTONE-T10",
    "name": "SILVERSTONE-T10",
    "model": "SILVERSTONE-T10"
+  },
+  {
+   "device": "SILVERSTONE-T11",
+   "name": "SILVERSTONE-T11",
+   "model": "BL.9UEEP.209"
   },
   {
    "device": "T1000",
@@ -157258,6 +157273,16 @@
    "model": "XQ-CQ72"
   },
   {
+   "device": "XQ-DE54",
+   "name": "Xperia 5 V",
+   "model": "XQ-DE54"
+  },
+  {
+   "device": "XQ-DE72",
+   "name": "Xperia 5 V",
+   "model": "XQ-DE72"
+  },
+  {
    "device": "902SO",
    "name": "Xperia 8",
    "model": "902SO"
@@ -185532,6 +185557,11 @@
    "device": "I2216",
    "name": "iQOO Z7x 5G",
    "model": "I2216"
+  },
+  {
+   "device": "PD2312",
+   "name": "iQOO Z8x",
+   "model": "V2312A"
   },
   {
    "device": "1907",
