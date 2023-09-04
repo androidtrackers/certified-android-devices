@@ -100038,6 +100038,13 @@
    "model": "N672"
   }
  ],
+ "MicroTouch": [
+  {
+   "device": "IDC_Series",
+   "name": "IDC_Series",
+   "model": "IDC_Series"
+  }
+ ],
  "Micromax": [
   {
    "device": "ikebukuro",
@@ -101415,11 +101422,6 @@
    "device": "ETW101GT_EEA",
    "name": "ETW101GT_EEA",
    "model": "ETW101GT"
-  },
-  {
-   "device": "IDC_Series",
-   "name": "IDC_Series",
-   "model": "IDC_Series"
   },
   {
    "device": "Microtech_etabStyle",
@@ -152792,6 +152794,11 @@
    "model": "A204SH"
   },
   {
+   "device": "SH-53D",
+   "name": "AQUOS wish3",
+   "model": "SH-53D"
+  },
+  {
    "device": "SX3",
    "name": "AQUOS wish3",
    "model": "A302SH"
@@ -179436,6 +179443,11 @@
    "model": "MP38"
   },
   {
+   "device": "UMIDIGI_G5A",
+   "name": "UMIDIGI G5A EEA",
+   "model": "MP38"
+  },
+  {
    "device": "UMIDIGI_X",
    "name": "UMIDIGI X",
    "model": "UMIDIGI X"
@@ -187037,6 +187049,11 @@
    "device": "HD60",
    "name": "HD60",
    "model": "HD60"
+  },
+  {
+   "device": "HD60L",
+   "name": "HD60L",
+   "model": "HD60L"
   },
   {
    "device": "HD60i",
@@ -202372,6 +202389,11 @@
    "device": "TC26",
    "name": "TC26",
    "model": "TC26"
+  },
+  {
+   "device": "TC27",
+   "name": "TC27",
+   "model": "TC27"
   },
   {
    "device": "TC51",

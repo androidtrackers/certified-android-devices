@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-03
+Last sync is 2023-09-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19442,6 +19442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MiTAC|N650|prometheus|N650|
 |MiTAC|N651|centaur|N651|
 |MiTAC|N672|hera_pro|N672|
+|MicroTouch|IDC_Series|IDC_Series|IDC_Series|
 |Micromax|32CAM6SHD|ikebukuro|AI PONT|
 |Micromax|A110|s9081|Micromax A110|
 |Micromax|A111|A111|A111|
@@ -19717,7 +19718,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Microtech|ETL101GB|ETL101GB|ETL101GB|
 |Microtech|ETW101GT_C_EEA|ETW101GT_C_EEA|ETW101GT_C|
 |Microtech|ETW101GT_EEA|ETW101GT_EEA|ETW101GT|
-|Microtech|IDC_Series|IDC_Series|IDC_Series|
 |Microtech|Microtech_e-tab_Style|Microtech_etabStyle|Microtech_etabStyle|
 |Microtech|e-tab_Style|e-tab_Style|e-tab_Style|
 |Microtech|e-tab_style_rev.3|e-tab_style_REV3|e-tab_style_REV3|
@@ -29762,6 +29762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish2|ANK|SHG08|
 |Sharp|AQUOS wish2|SH-51C|SH-51C|
 |Sharp|AQUOS wish2|SXI|A204SH|
+|Sharp|AQUOS wish3|SH-53D|SH-53D|
 |Sharp|AQUOS wish3|SX3|A302SH|
 |Sharp|AQUOS wish3|SX3|A303SH|
 |Sharp|AQUOS wish3|SX3|SH-M25|
@@ -34958,6 +34959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI G5|UMIDIGI_G5|MP27|
 |Umidigi|UMIDIGI G5 EEA|UMIDIGI_G5|MP27|
 |Umidigi|UMIDIGI G5A|UMIDIGI_G5A|MP38|
+|Umidigi|UMIDIGI G5A EEA|UMIDIGI_G5A|MP38|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
@@ -36433,6 +36435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vortex|Beat 8|BEAT8|BEAT 8|
 |Vortex|G8|G8|G8|
 |Vortex|HD60|HD60|HD60|
+|Vortex|HD60L|HD60L|HD60L|
 |Vortex|HD60i|HD60i|HD60i|
 |Vortex|HD65|HD65|HD65|
 |Vortex|MUV|MUV|MUV|
@@ -39440,6 +39443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC22|TC22|TC22|
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC26|TC26|TC26|
+|Zebra|TC27|TC27|TC27|
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
 |Zebra|TC52ax|TC52X|TC52AX|

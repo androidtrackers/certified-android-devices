@@ -135599,6 +135599,13 @@
    "device": "hera_pro"
   }
  ],
+ "IDC_Series": [
+  {
+   "brand": "MicroTouch",
+   "name": "IDC_Series",
+   "device": "IDC_Series"
+  }
+ ],
  "Micromax A110": [
   {
    "brand": "Micromax",
@@ -137413,13 +137420,6 @@
    "brand": "Microtech",
    "name": "ETW101GT_EEA",
    "device": "ETW101GT_EEA"
-  }
- ],
- "IDC_Series": [
-  {
-   "brand": "Microtech",
-   "name": "IDC_Series",
-   "device": "IDC_Series"
   }
  ],
  "Microtech_etabStyle": [
@@ -203020,6 +203020,13 @@
    "device": "SXI"
   }
  ],
+ "SH-53D": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
+   "device": "SH-53D"
+  }
+ ],
  "A302SH": [
   {
    "brand": "Sharp",
@@ -236369,6 +236376,11 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G5A",
    "device": "UMIDIGI_G5A"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5A EEA",
+   "device": "UMIDIGI_G5A"
   }
  ],
  "UMIDIGI X": [
@@ -245756,6 +245768,13 @@
    "brand": "Vortex",
    "name": "HD60",
    "device": "HD60"
+  }
+ ],
+ "HD60L": [
+  {
+   "brand": "Vortex",
+   "name": "HD60L",
+   "device": "HD60L"
   }
  ],
  "HD60i": [
@@ -265030,6 +265049,13 @@
    "brand": "Zebra",
    "name": "Zebra Technologies TC26",
    "device": "TC26"
+  }
+ ],
+ "TC27": [
+  {
+   "brand": "Zebra",
+   "name": "TC27",
+   "device": "TC27"
   }
  ],
  "TC51": [
