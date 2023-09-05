@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-04
+Last sync is 2023-09-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7225,6 +7225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|V917G|GK-MID9022|V917G|
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|EF-12/EH-LS300|sti6200d101|Projector|
+|Epson|EH-LS650|sti6290d101|projector|
 |Epson|EH-LS800|sti6202d101|HA90|
 |Epson|ELPAP12|Bushi|STI6110|
 |Epson|Epson|embt4|EMBT4|
@@ -14329,6 +14330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P40|itel-P662L|itel P662L|
 |Itel|itel P40+|itel-P683L|itel P683L|
 |Itel|itel P41|itel_P41|itel P41|
+|Itel|itel P55 5G|itel-P661N|itel P661N|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
 |Itel|itel PrimeTab 1|itel-W7002P|itel W7002P|
@@ -29680,6 +29682,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R8|SH-52D|SH-52D|
 |Sharp|AQUOS R8 pro|Kamille|A301SH|
 |Sharp|AQUOS R8 pro|SH-51D|SH-51D|
+|Sharp|AQUOS R8s|FaYuiry|SH-R80|
+|Sharp|AQUOS R8s pro|Kamille|SH-R80P|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -37939,6 +37943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|009Z|bladeplus|ZTE V882|
 |ZTE|009Z|bladeplus|ZTE V886J|
 |ZTE|402ZT|ZTE-402ZT|402ZT|
+|ZTE|5G UG Phone U23|P720F02|5G UG Phone U23|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
 |ZTE|A001ZT|Z6202S|A001ZT|
@@ -39104,6 +39109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8040N|P633S05|ZTE 8040N|
 |ZTE|ZTE 8045|P606F02|ZTE 8045|
 |ZTE|ZTE 8046|P616F01|ZTE 8046|
+|ZTE|ZTE 8050|P606F08|ZTE 8050|
 |ZTE|ZTE 8140N|P633F10|ZTE 8140N|
 |ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
@@ -39115,6 +39121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 9045RU|P618F06|ZTE 9045RU|
 |ZTE|ZTE 9046|P618F07|ZTE 9046|
 |ZTE|ZTE 9047|P618F08|ZTE 9047|
+|ZTE|ZTE 9050N|P720F05|ZTE 9050N|
 |ZTE|ZTE 9100N|P633F05|ZTE 9100N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
@@ -39143,6 +39150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A31 Lite|Z3052O|ZTE A31 Lite|
 |ZTE|ZTE A51|P963F60|ZTE A51|
 |ZTE|ZTE A520S|P809S10|ZTE A520S|
+|ZTE|ZTE A53|P963F62|ZTE A53|
 |ZTE|ZTE A530|P639T10|ZTE A530|
 |ZTE|ZTE A606|P639S10|ZTE A606|
 |ZTE|ZTE A7000|P671S02|ZTE A7000|
@@ -39307,6 +39315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
 |ZTE|ZTE Blade V2020 Vita|P671F70|ZTE 8000|
+|ZTE|ZTE Blade V41 Smart|P606F05|ZTE A7050|
 |ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
@@ -39361,6 +39370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|Amazing_P5|
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
+|ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia Z5|NX501|nubia Z5|
@@ -39925,6 +39935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBall|iT-KSA0012|iT-KSA0012|iT-KSA0012|
 |iBall|iT-KSA0066|iT-KSA0066|iT-KSA0066|
 |iBao|iS1|iS1|iS1|
+|iBoard|IFPD|TE_QS|TE_QS|
 |iCare|iCare07|iCare07|iCare07|
 |iCare|iCare10|iCare10|iCare10|
 |iCraig|CLP288|ICRAIG_CLP288|ICRAIG_CLP288|

@@ -54640,6 +54640,13 @@
    "device": "sti6200d101"
   }
  ],
+ "projector": [
+  {
+   "brand": "Epson",
+   "name": "EH-LS650",
+   "device": "sti6290d101"
+  }
+ ],
  "HA90": [
   {
    "brand": "Epson",
@@ -102258,6 +102265,13 @@
    "brand": "Itel",
    "name": "itel P41",
    "device": "itel_P41"
+  }
+ ],
+ "itel P661N": [
+  {
+   "brand": "Itel",
+   "name": "itel P55 5G",
+   "device": "itel-P661N"
   }
  ],
  "itel W7002": [
@@ -202441,6 +202455,20 @@
    "device": "SH-51D"
   }
  ],
+ "SH-R80": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8s",
+   "device": "FaYuiry"
+  }
+ ],
+ "SH-R80P": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8s pro",
+   "device": "Kamille"
+  }
+ ],
  "SHL25": [
   {
    "brand": "Sharp",
@@ -255314,6 +255342,13 @@
    "device": "ZTE-402ZT"
   }
  ],
+ "5G UG Phone U23": [
+  {
+   "brand": "ZTE",
+   "name": "5G UG Phone U23",
+   "device": "P720F02"
+  }
+ ],
  "901ZT": [
   {
    "brand": "ZTE",
@@ -263048,6 +263083,13 @@
    "device": "P616F01"
   }
  ],
+ "ZTE 8050": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8050",
+   "device": "P606F08"
+  }
+ ],
  "ZTE 8140N": [
   {
    "brand": "ZTE",
@@ -263123,6 +263165,13 @@
    "brand": "ZTE",
    "name": "ZTE 9047",
    "device": "P618F08"
+  }
+ ],
+ "ZTE 9050N": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9050N",
+   "device": "P720F05"
   }
  ],
  "ZTE 9100N": [
@@ -263289,6 +263338,13 @@
    "device": "P809S10"
   }
  ],
+ "ZTE A53": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A53",
+   "device": "P963F62"
+  }
+ ],
  "ZTE A530": [
   {
    "brand": "ZTE",
@@ -263359,6 +263415,11 @@
   {
    "brand": "ZTE",
    "name": "ZTE Blade A72s",
+   "device": "P606F05"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V41 Smart",
    "device": "P606F05"
   }
  ],
@@ -264521,6 +264582,13 @@
    "brand": "ZTE",
    "name": "nubia  Z30 Pro",
    "device": "P875N02"
+  }
+ ],
+ "nubia 8150N": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Neo 5G",
+   "device": "P720F03_A"
   }
  ],
  "nubia Z5": [
@@ -267875,6 +267943,13 @@
    "brand": "iBao",
    "name": "iS1",
    "device": "iS1"
+  }
+ ],
+ "TE_QS": [
+  {
+   "brand": "iBoard",
+   "name": "IFPD",
+   "device": "TE_QS"
   }
  ],
  "iCare07": [

@@ -37485,6 +37485,11 @@
    "model": "Projector"
   },
   {
+   "device": "sti6290d101",
+   "name": "EH-LS650",
+   "model": "projector"
+  },
+  {
    "device": "sti6202d101",
    "name": "EH-LS800",
    "model": "HA90"
@@ -73801,6 +73806,11 @@
    "device": "itel_P41",
    "name": "itel P41",
    "model": "itel P41"
+  },
+  {
+   "device": "itel-P661N",
+   "name": "itel P55 5G",
+   "model": "itel P661N"
   },
   {
    "device": "itel_Prime4",
@@ -152384,6 +152394,16 @@
    "model": "SH-51D"
   },
   {
+   "device": "FaYuiry",
+   "name": "AQUOS R8s",
+   "model": "SH-R80"
+  },
+  {
+   "device": "Kamille",
+   "name": "AQUOS R8s pro",
+   "model": "SH-R80P"
+  },
+  {
    "device": "SHL25",
    "name": "AQUOS SERIE SHL25",
    "model": "SHL25"
@@ -194855,6 +194875,11 @@
    "model": "402ZT"
   },
   {
+   "device": "P720F02",
+   "name": "5G UG Phone U23",
+   "model": "5G UG Phone U23"
+  },
+  {
    "device": "P450A01",
    "name": "901ZT",
    "model": "901ZT"
@@ -200680,6 +200705,11 @@
    "model": "ZTE 8046"
   },
   {
+   "device": "P606F08",
+   "name": "ZTE 8050",
+   "model": "ZTE 8050"
+  },
+  {
    "device": "P633F10",
    "name": "ZTE 8140N",
    "model": "ZTE 8140N"
@@ -200733,6 +200763,11 @@
    "device": "P618F08",
    "name": "ZTE 9047",
    "model": "ZTE 9047"
+  },
+  {
+   "device": "P720F05",
+   "name": "ZTE 9050N",
+   "model": "ZTE 9050N"
   },
   {
    "device": "P633F05",
@@ -200873,6 +200908,11 @@
    "device": "P809S10",
    "name": "ZTE A520S",
    "model": "ZTE A520S"
+  },
+  {
+   "device": "P963F62",
+   "name": "ZTE A53",
+   "model": "ZTE A53"
   },
   {
    "device": "P639T10",
@@ -201695,6 +201735,11 @@
    "model": "ZTE 8000"
   },
   {
+   "device": "P606F05",
+   "name": "ZTE Blade V41 Smart",
+   "model": "ZTE A7050"
+  },
+  {
    "device": "P720F03",
    "name": "ZTE Blade V50 Design 5G",
    "model": "ZTE 8150N"
@@ -201963,6 +202008,11 @@
    "device": "P875N02",
    "name": "nubia  Z30 Pro",
    "model": "NX667J"
+  },
+  {
+   "device": "P720F03_A",
+   "name": "nubia Neo 5G",
+   "model": "nubia 8150N"
   },
   {
    "device": "LumePad",
@@ -204933,6 +204983,13 @@
    "device": "iS1",
    "name": "iS1",
    "model": "iS1"
+  }
+ ],
+ "iBoard": [
+  {
+   "device": "TE_QS",
+   "name": "IFPD",
+   "model": "TE_QS"
   }
  ],
  "iCare": [

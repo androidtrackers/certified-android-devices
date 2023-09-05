@@ -58928,6 +58928,13 @@
    "model": "Projector"
   }
  ],
+ "sti6290d101": [
+  {
+   "brand": "Epson",
+   "name": "EH-LS650",
+   "model": "projector"
+  }
+ ],
  "sti6202d101": [
   {
    "brand": "Epson",
@@ -102829,6 +102836,13 @@
    "brand": "Itel",
    "name": "itel P41",
    "model": "itel P41"
+  }
+ ],
+ "itel-P661N": [
+  {
+   "brand": "Itel",
+   "name": "itel P55 5G",
+   "model": "itel P661N"
   }
  ],
  "itel-W7002": [
@@ -196718,6 +196732,11 @@
    "brand": "Sharp",
    "name": "AQUOS R8 pro",
    "model": "A301SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8s pro",
+   "model": "SH-R80P"
   }
  ],
  "SH-51D": [
@@ -196725,6 +196744,13 @@
    "brand": "Sharp",
    "name": "AQUOS R8 pro",
    "model": "SH-51D"
+  }
+ ],
+ "FaYuiry": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8s",
+   "model": "SH-R80"
   }
  ],
  "SHL25": [
@@ -245661,6 +245687,18 @@
    "model": "402ZT"
   }
  ],
+ "P720F02": [
+  {
+   "brand": "ZTE",
+   "name": "5G UG Phone U23",
+   "model": "5G UG Phone U23"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 7160N",
+   "model": "ZTE 7160N"
+  }
+ ],
  "P450A01": [
   {
    "brand": "ZTE",
@@ -249489,6 +249527,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A72s",
    "model": "ZTE A7050"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V41 Smart",
+   "model": "ZTE A7050"
   }
  ],
  "Orange_Hi_4G": [
@@ -251869,13 +251912,6 @@
    "model": "ZTE 7060"
   }
  ],
- "P720F02": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE 7160N",
-   "model": "ZTE 7160N"
-  }
- ],
  "P633S07": [
   {
    "brand": "ZTE",
@@ -251944,6 +251980,13 @@
    "brand": "ZTE",
    "name": "ZTE 8046",
    "model": "ZTE 8046"
+  }
+ ],
+ "P606F08": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8050",
+   "model": "ZTE 8050"
   }
  ],
  "P633F10": [
@@ -252017,6 +252060,13 @@
    "brand": "ZTE",
    "name": "ZTE 9047",
    "model": "ZTE 9047"
+  }
+ ],
+ "P720F05": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9050N",
+   "model": "ZTE 9050N"
   }
  ],
  "P633F05": [
@@ -252160,6 +252210,28 @@
    "brand": "ZTE",
    "name": "ZTE A2322G",
    "model": "ZTE A2322G"
+  }
+ ],
+ "P963F62": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A53",
+   "model": "ZTE A53"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53",
+   "model": "ZTE Blade A53"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53+",
+   "model": "P630"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53+",
+   "model": "ZTE Blade A53+"
   }
  ],
  "P639T10": [
@@ -252618,23 +252690,6 @@
    "model": "ZTE Blade A52 Lite"
   }
  ],
- "P963F62": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A53",
-   "model": "ZTE Blade A53"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A53+",
-   "model": "P630"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A53+",
-   "model": "ZTE Blade A53+"
-  }
- ],
  "P963F63": [
   {
    "brand": "ZTE",
@@ -253040,6 +253095,13 @@
    "brand": "ZTE",
    "name": "nubia  Z30 Pro",
    "model": "NX667J"
+  }
+ ],
+ "P720F03_A": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Neo 5G",
+   "model": "nubia 8150N"
   }
  ],
  "NX651J": [
@@ -256336,6 +256398,13 @@
    "brand": "iBao",
    "name": "iS1",
    "model": "iS1"
+  }
+ ],
+ "TE_QS": [
+  {
+   "brand": "iBoard",
+   "name": "IFPD",
+   "model": "TE_QS"
   }
  ],
  "iCare07": [

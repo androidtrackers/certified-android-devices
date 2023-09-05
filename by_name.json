@@ -6956,6 +6956,11 @@
    "brand": "AHA(A)",
    "device": "AHA_ULTRA_RK3588",
    "model": "Hybrid_8600"
+  },
+  {
+   "brand": "iBoard",
+   "device": "TE_QS",
+   "model": "TE_QS"
   }
  ],
  "ADT1012L": [
@@ -61386,6 +61391,13 @@
    "model": "Projector"
   }
  ],
+ "EH-LS650": [
+  {
+   "brand": "Epson",
+   "device": "sti6290d101",
+   "model": "projector"
+  }
+ ],
  "EH-LS800": [
   {
    "brand": "Epson",
@@ -104462,6 +104474,13 @@
    "brand": "Itel",
    "device": "itel_P41",
    "model": "itel P41"
+  }
+ ],
+ "itel P55 5G": [
+  {
+   "brand": "Itel",
+   "device": "itel-P661N",
+   "model": "itel P661N"
   }
  ],
  "itel Prime 4": [
@@ -194767,6 +194786,20 @@
    "model": "SH-51D"
   }
  ],
+ "AQUOS R8s": [
+  {
+   "brand": "Sharp",
+   "device": "FaYuiry",
+   "model": "SH-R80"
+  }
+ ],
+ "AQUOS R8s pro": [
+  {
+   "brand": "Sharp",
+   "device": "Kamille",
+   "model": "SH-R80P"
+  }
+ ],
  "AQUOS SERIE SHL25": [
   {
    "brand": "Sharp",
@@ -242465,6 +242498,13 @@
    "model": "402ZT"
   }
  ],
+ "5G UG Phone U23": [
+  {
+   "brand": "ZTE",
+   "device": "P720F02",
+   "model": "5G UG Phone U23"
+  }
+ ],
  "901ZT": [
   {
    "brand": "ZTE",
@@ -249322,6 +249362,13 @@
    "model": "ZTE 8046"
   }
  ],
+ "ZTE 8050": [
+  {
+   "brand": "ZTE",
+   "device": "P606F08",
+   "model": "ZTE 8050"
+  }
+ ],
  "ZTE 8140N": [
   {
    "brand": "ZTE",
@@ -249397,6 +249444,13 @@
    "brand": "ZTE",
    "device": "P618F08",
    "model": "ZTE 9047"
+  }
+ ],
+ "ZTE 9050N": [
+  {
+   "brand": "ZTE",
+   "device": "P720F05",
+   "model": "ZTE 9050N"
   }
  ],
  "ZTE 9100N": [
@@ -249591,6 +249645,13 @@
    "brand": "ZTE",
    "device": "P809S10",
    "model": "ZTE A520S"
+  }
+ ],
+ "ZTE A53": [
+  {
+   "brand": "ZTE",
+   "device": "P963F62",
+   "model": "ZTE A53"
   }
  ],
  "ZTE A530": [
@@ -250659,6 +250720,13 @@
    "model": "ZTE 8000"
   }
  ],
+ "ZTE Blade V41 Smart": [
+  {
+   "brand": "ZTE",
+   "device": "P606F05",
+   "model": "ZTE A7050"
+  }
+ ],
  "ZTE Blade V50 Design 5G": [
   {
    "brand": "ZTE",
@@ -251019,6 +251087,13 @@
    "brand": "ZTE",
    "device": "P875N02",
    "model": "NX667J"
+  }
+ ],
+ "nubia Neo 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P720F03_A",
+   "model": "nubia 8150N"
   }
  ],
  "nubia Pad 3D": [
