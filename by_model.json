@@ -37747,7 +37747,7 @@
  "Impact_Lux_Display": [
   {
    "brand": "Clevertouch",
-   "name": "\"Clevertouch 65\"\" Impact LUX\"",
+   "name": "IMPACT Lux",
    "device": "rk3588_t"
   }
  ],
@@ -152122,6 +152122,13 @@
    "device": "S6303LA_Go"
   }
  ],
+ "S6703L": [
+  {
+   "brand": "Nuu",
+   "name": "A25",
+   "device": "S6703LA"
+  }
+ ],
  "NUU_A3": [
   {
    "brand": "Nuu",
@@ -215258,6 +215265,13 @@
    "device": "HotelTV"
   }
  ],
+ "T608G": [
+  {
+   "brand": "TCL",
+   "name": "Jitterbug Smart4",
+   "device": "Sonata_BBH"
+  }
+ ],
  "movo_la": [
   {
    "brand": "TCL",
@@ -243931,6 +243945,13 @@
    "brand": "Vivo",
    "name": "iQOO Z7 5G",
    "device": "I2213"
+  }
+ ],
+ "I2301": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7 Pro 5G",
+   "device": "I2301"
   }
  ],
  "V2230EA": [

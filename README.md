@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-05
+Last sync is 2023-09-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4839,7 +4839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|My first Clempad 4.4 Basic Special|MFC2_Special|MFC2_Special|
 |Clementoni|My first Clempad 4.4 Plus|MFC2_Plus|MFC2_Plus|
 |Clementoni|Neo_Clempad_2021|Neo_Clempad_2021|Neo_Clempad_2021|
-|Clevertouch|"Clevertouch 65"" Impact LUX"|rk3588_t|Impact_Lux_Display|
+|Clevertouch|IMPACT Lux|rk3588_t|Impact_Lux_Display|
 |Click|M9021G|M9021G|M9021G|
 |Click|S7043G|S7043G|S7043G|
 |Click|"Tab 7"""|I7043G|I7043G|
@@ -22054,6 +22054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A12L|S5504LA|S5504L|
 |Nuu|A15|S6512LA|S6512L|
 |Nuu|A19L|S6303LA_Go|S6303L|
+|Nuu|A25|S6703LA|S6703L|
 |Nuu|A3|NUU_A3|NUU_A3|
 |Nuu|A3L|NUU_A3L|NUU_A3L|
 |Nuu|A4L|N5001L|N5001L|
@@ -31720,6 +31721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G08|G08|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
+|TCL|Jitterbug Smart4|Sonata_BBH|T608G|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
 |TCL|LT10|U3A_10_WIFI|8182|
@@ -36144,6 +36146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7|PD2270|V2270A|
 |Vivo|iQOO Z7 5G|I2207|I2207|
 |Vivo|iQOO Z7 5G|I2213|I2213|
+|Vivo|iQOO Z7 Pro 5G|I2301|I2301|
 |Vivo|iQOO Z7i|PD2230|V2230EA|
 |Vivo|iQOO Z7s 5G|I2223|I2223|
 |Vivo|iQOO Z7x|PD2272|V2272A|

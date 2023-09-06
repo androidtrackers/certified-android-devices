@@ -43863,7 +43863,7 @@
    "model": "Neo_Clempad_2021"
   }
  ],
- "\"Clevertouch 65\"\" Impact LUX\"": [
+ "IMPACT Lux": [
   {
    "brand": "Clevertouch",
    "device": "rk3588_t",
@@ -98388,6 +98388,11 @@
    "brand": "Itel",
    "device": "itel-L5002",
    "model": "itel L5002"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6703LA",
+   "model": "S6703L"
   },
   {
    "brand": "Trident",
@@ -206986,6 +206991,13 @@
    "model": "WelcomeTV"
   }
  ],
+ "Jitterbug Smart4": [
+  {
+   "brand": "TCL",
+   "device": "Sonata_BBH",
+   "model": "T608G"
+  }
+ ],
  "L55E6700UDS": [
   {
    "brand": "TCL",
@@ -232879,6 +232891,13 @@
    "brand": "Vivo",
    "device": "I2213",
    "model": "I2213"
+  }
+ ],
+ "iQOO Z7 Pro 5G": [
+  {
+   "brand": "Vivo",
+   "device": "I2301",
+   "model": "I2301"
   }
  ],
  "iQOO Z7i": [

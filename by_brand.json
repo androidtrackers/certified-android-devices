@@ -25052,7 +25052,7 @@
  "Clevertouch": [
   {
    "device": "rk3588_t",
-   "name": "\"Clevertouch 65\"\" Impact LUX\"",
+   "name": "IMPACT Lux",
    "model": "Impact_Lux_Display"
   }
  ],
@@ -113442,6 +113442,11 @@
    "model": "S6303L"
   },
   {
+   "device": "S6703LA",
+   "name": "A25",
+   "model": "S6703L"
+  },
+  {
    "device": "NUU_A3",
    "name": "A3",
    "model": "NUU_A3"
@@ -162842,6 +162847,11 @@
    "model": "WelcomeTV"
   },
   {
+   "device": "Sonata_BBH",
+   "name": "Jitterbug Smart4",
+   "model": "T608G"
+  },
+  {
    "device": "movo_la",
    "name": "L55E6700UDS",
    "model": "movo_la"
@@ -185564,6 +185574,11 @@
    "device": "I2213",
    "name": "iQOO Z7 5G",
    "model": "I2213"
+  },
+  {
+   "device": "I2301",
+   "name": "iQOO Z7 Pro 5G",
+   "model": "I2301"
   },
   {
    "device": "PD2230",
