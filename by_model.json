@@ -8115,6 +8115,13 @@
    "device": "SP7248"
   }
  ],
+ "SP7348": [
+  {
+   "brand": "Advance",
+   "name": "SP7348",
+   "device": "SP7348"
+  }
+ ],
  "Sp5730": [
   {
    "brand": "Advance",
@@ -48852,6 +48859,13 @@
    "brand": "Dish",
    "name": "EVOLVE",
    "device": "dish_cable_bcm"
+  }
+ ],
+ "EVOLVE 2": [
+  {
+   "brand": "Dish",
+   "name": "EVOLVE 2",
+   "device": "m377_dish"
   }
  ],
  "Hopper Plus": [
@@ -94712,6 +94726,13 @@
    "device": "IMO_Q4_Pro"
   }
  ],
+ "IMO Q5": [
+  {
+   "brand": "IMO(In My Opinion)",
+   "name": "IMO Q5",
+   "device": "IMO_Q5"
+  }
+ ],
  "IMO S2": [
   {
    "brand": "IMO(In My Opinion)",
@@ -100814,6 +100835,13 @@
    "brand": "Itel",
    "name": "A05S",
    "device": "itel-A663L"
+  }
+ ],
+ "itel A663LC": [
+  {
+   "brand": "Itel",
+   "name": "A05s",
+   "device": "itel-A663LC"
   }
  ],
  "itel A11": [
@@ -129748,6 +129776,18 @@
    "device": "M_bot_52"
   }
  ],
+ "ONIX": [
+  {
+   "brand": "Logicom",
+   "name": "ONIX",
+   "device": "ONIX"
+  },
+  {
+   "brand": "Zuum",
+   "name": "ONIX",
+   "device": "ONIX"
+  }
+ ],
  "POWER BOT": [
   {
    "brand": "Logicom",
@@ -132859,6 +132899,13 @@
    "brand": "Masstel",
    "name": "Tab10_Edu",
    "device": "Tab10_Edu"
+  }
+ ],
+ "Tab10_Edu": [
+  {
+   "brand": "Masstel",
+   "name": "Tab10_Edu",
+   "device": "Tab10_EduV2"
   }
  ],
  "Masstel_Tab7LTE": [
@@ -138941,6 +138988,13 @@
    "brand": "Mobicell",
    "name": "RUSH",
    "device": "RUSH"
+  }
+ ],
+ "RX PRO": [
+  {
+   "brand": "Mobicell",
+   "name": "RX PRO",
+   "device": "RX_PRO"
   }
  ],
  "Retro": [
@@ -160879,6 +160933,13 @@
    "brand": "POSSAFE",
    "name": "OrderGo5_EEA",
    "device": "OrderGo5"
+  }
+ ],
+ "PT7EduPad": [
+  {
+   "brand": "PRAZteck",
+   "name": "PT7EduPad",
+   "device": "PT7EduPad"
   }
  ],
  "PRIMA 2K Android TV": [
@@ -202441,6 +202502,13 @@
    "device": "SH-52C"
   }
  ],
+ "SH-R80": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8",
+   "device": "FaYuiry"
+  }
+ ],
  "SH-52D": [
   {
    "brand": "Sharp",
@@ -202455,25 +202523,18 @@
    "device": "Kamille"
   }
  ],
+ "SH-R80P": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8 pro",
+   "device": "Kamille"
+  }
+ ],
  "SH-51D": [
   {
    "brand": "Sharp",
    "name": "AQUOS R8 pro",
    "device": "SH-51D"
-  }
- ],
- "SH-R80": [
-  {
-   "brand": "Sharp",
-   "name": "AQUOS R8s",
-   "device": "FaYuiry"
-  }
- ],
- "SH-R80P": [
-  {
-   "brand": "Sharp",
-   "name": "AQUOS R8s pro",
-   "device": "Kamille"
   }
  ],
  "SHL25": [
@@ -215350,6 +215411,13 @@
    "brand": "TCL",
    "name": "Smartphone",
    "device": "A5A_INFINI"
+  }
+ ],
+ "T607DL": [
+  {
+   "brand": "TCL",
+   "name": "T607DL",
+   "device": "Bora_TF"
   }
  ],
  "9081X": [
@@ -266353,13 +266421,6 @@
    "brand": "Zuum",
    "name": "Magno Pro",
    "device": "Magno_Pro"
-  }
- ],
- "ONIX": [
-  {
-   "brand": "Zuum",
-   "name": "ONIX",
-   "device": "ONIX"
   }
  ],
  "ONIX S": [

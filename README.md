@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-06
+Last sync is 2023-09-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -730,6 +730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|SP5776|SP5776|SP5776|
 |Advance|SP5782|SP5782|SP5782|
 |Advance|SP7248|SP7248|SP7248|
+|Advance|SP7348|SP7348|SP7348|
 |Advance|Sp5730|Sp5730|Sp5730|
 |Advance|TR3947|TR3947|TR3947|
 |Advance|TR4986|Tablet_adv_v1|ADVANCE|
@@ -6390,6 +6391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|Celero 5G|Jupiter|WTCELERO5G|
 |Dish|Celero 5G 2.0|DSH98123|Celero5G|
 |Dish|EVOLVE|dish_cable_bcm|SH960C-DS|
+|Dish|EVOLVE 2|m377_dish|EVOLVE 2|
 |Dish|Hopper Plus|SNAP2|Hopper Plus|
 |Dish|Joey 4|ATVMJ4|Joey 4|
 |Dish|SL201D|SL201D|SL201D|
@@ -13183,6 +13185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMO(In My Opinion)|IMO Q2 Pro|IMO_Q2_Pro|IMO Q2 Pro|
 |IMO(In My Opinion)|IMO Q3 Plus|IMO_Q3_Plus|IMO Q3 Plus|
 |IMO(In My Opinion)|IMO Q4 Pro|IMO_Q4_Pro|IMO Q4 Pro|
+|IMO(In My Opinion)|IMO Q5|IMO_Q5|IMO Q5|
 |IMO(In My Opinion)|IMO S2|S2|IMO S2|
 |IMPECCA|4K Smart TV|gangbyeon|IMPECCA 4K Smart TV|
 |IMPECCA|Smart TV|kanda|IMPECCA 2K Smart TV|
@@ -14116,6 +14119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iskon|Iskon.TV|wh220_iskon|Iskon.TV|
 |Iskon|wh220_iskon|wh220_iskon|Iskon.TV|
 |Itel|A05S|itel-A663L|itel A663L|
+|Itel|A05s|itel-A663LC|itel A663LC|
 |Itel|A11|itel_A11|itel A11|
 |Itel|A12|itel_A12|itel A12|
 |Itel|A13|itel_A13|itel A13|
@@ -18533,6 +18537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|M bot tab 101|MBOTTAB101|M BOT TAB 101|
 |Logicom|M bot tab 70|M_BOT_TAB_70|M BOT TAB 70|
 |Logicom|M_ bot_ 52|M_bot_52|M bot 52|
+|Logicom|ONIX|ONIX|ONIX|
 |Logicom|POWER bot|POWERBOT|POWER BOT|
 |Logicom|Playtab 10|LOGICOM_PLAYTAB_10|LOGICOM_PLAYTAB_10|
 |Logicom|S1052|S1052|S1052|
@@ -19018,6 +19023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Masstel_X9|Masstel_X9|Masstel_X9|
 |Masstel|N535|Masstel_N535|Masstel N535|
 |Masstel|Tab10_Edu|Tab10_Edu|Masstel Tab10 Edu|
+|Masstel|Tab10_Edu|Tab10_EduV2|Tab10_Edu|
 |Masstel|Tab7LTE|Masstel_Tab7LTE|Masstel_Tab7LTE|
 |Masstel|Tab7Plus|Tab7Plus|Tab7Plus|
 |Masstel|Tab8N|Tab8N|Masstel Tab8N|
@@ -19960,6 +19966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|RIO_ZAM|RIO_ZAM|RIO_ZAM|
 |Mobicell|RUBY|RUBY|RUBY|
 |Mobicell|RUSH|RUSH|RUSH|
+|Mobicell|RX PRO|RX_PRO|RX PRO|
 |Mobicell|Retro|Retro|Retro|
 |Mobicell|SHIFT|SHIFT|SHIFT|
 |Mobicell|STAR|STAR|STAR|
@@ -23434,6 +23441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
+|PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
 |PRIMA|PRIMA 4K Android TV|kenton|PRIMA 4K Android TV|
 |PRISMPLUS|PrismPlus 2KA|umeda|PrismPlus 2KA|
@@ -29680,11 +29688,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R6|SH-51B|SH-51B|
 |Sharp|AQUOS R7|Mineva|A202SH|
 |Sharp|AQUOS R7|SH-52C|SH-52C|
+|Sharp|AQUOS R8|FaYuiry|SH-R80|
 |Sharp|AQUOS R8|SH-52D|SH-52D|
 |Sharp|AQUOS R8 pro|Kamille|A301SH|
+|Sharp|AQUOS R8 pro|Kamille|SH-R80P|
 |Sharp|AQUOS R8 pro|SH-51D|SH-51D|
-|Sharp|AQUOS R8s|FaYuiry|SH-R80|
-|Sharp|AQUOS R8s pro|Kamille|SH-R80P|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -31735,6 +31743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|T607DL|Bora_TF|T607DL|
 |TCL|TAB 10s 2022|Odin2|9081X|
 |TCL|TAB 10s 4G 2022|Odin2|9080G|
 |TCL|TAB 10s 4G New|Odin2|9080G|

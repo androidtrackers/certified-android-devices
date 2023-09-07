@@ -3830,6 +3830,11 @@
    "model": "SP7248"
   },
   {
+   "device": "SP7348",
+   "name": "SP7348",
+   "model": "SP7348"
+  },
+  {
    "device": "Sp5730",
    "name": "Sp5730",
    "model": "Sp5730"
@@ -33078,6 +33083,11 @@
    "device": "dish_cable_bcm",
    "name": "EVOLVE",
    "model": "SH960C-DS"
+  },
+  {
+   "device": "m377_dish",
+   "name": "EVOLVE 2",
+   "model": "EVOLVE 2"
   },
   {
    "device": "SNAP2",
@@ -67929,6 +67939,11 @@
    "model": "IMO Q4 Pro"
   },
   {
+   "device": "IMO_Q5",
+   "name": "IMO Q5",
+   "model": "IMO Q5"
+  },
+  {
    "device": "S2",
    "name": "IMO S2",
    "model": "IMO S2"
@@ -72736,6 +72751,11 @@
    "device": "itel-A663L",
    "name": "A05S",
    "model": "itel A663L"
+  },
+  {
+   "device": "itel-A663LC",
+   "name": "A05s",
+   "model": "itel A663LC"
   },
   {
    "device": "itel_A11",
@@ -95261,6 +95281,11 @@
    "model": "M bot 52"
   },
   {
+   "device": "ONIX",
+   "name": "ONIX",
+   "model": "ONIX"
+  },
+  {
    "device": "POWERBOT",
    "name": "POWER bot",
    "model": "POWER BOT"
@@ -97848,6 +97873,11 @@
    "device": "Tab10_Edu",
    "name": "Tab10_Edu",
    "model": "Masstel Tab10 Edu"
+  },
+  {
+   "device": "Tab10_EduV2",
+   "name": "Tab10_Edu",
+   "model": "Tab10_Edu"
   },
   {
    "device": "Masstel_Tab7LTE",
@@ -102670,6 +102700,11 @@
    "device": "RUSH",
    "name": "RUSH",
    "model": "RUSH"
+  },
+  {
+   "device": "RX_PRO",
+   "name": "RX PRO",
+   "model": "RX PRO"
   },
   {
    "device": "Retro",
@@ -120544,6 +120579,13 @@
    "device": "OrderGo5",
    "name": "OrderGo5_EEA",
    "model": "OrderGo5"
+  }
+ ],
+ "PRAZteck": [
+  {
+   "device": "PT7EduPad",
+   "name": "PT7EduPad",
+   "model": "PT7EduPad"
   }
  ],
  "PRIMA": [
@@ -152384,6 +152426,11 @@
    "model": "SH-52C"
   },
   {
+   "device": "FaYuiry",
+   "name": "AQUOS R8",
+   "model": "SH-R80"
+  },
+  {
    "device": "SH-52D",
    "name": "AQUOS R8",
    "model": "SH-52D"
@@ -152394,19 +152441,14 @@
    "model": "A301SH"
   },
   {
+   "device": "Kamille",
+   "name": "AQUOS R8 pro",
+   "model": "SH-R80P"
+  },
+  {
    "device": "SH-51D",
    "name": "AQUOS R8 pro",
    "model": "SH-51D"
-  },
-  {
-   "device": "FaYuiry",
-   "name": "AQUOS R8s",
-   "model": "SH-R80"
-  },
-  {
-   "device": "Kamille",
-   "name": "AQUOS R8s pro",
-   "model": "SH-R80P"
   },
   {
    "device": "SHL25",
@@ -162915,6 +162957,11 @@
    "device": "tcl",
    "name": "South America",
    "model": "Percee TV"
+  },
+  {
+   "device": "Bora_TF",
+   "name": "T607DL",
+   "model": "T607DL"
   },
   {
    "device": "Odin2",

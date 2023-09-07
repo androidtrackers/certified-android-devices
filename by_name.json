@@ -13472,6 +13472,13 @@
    "model": "SP7248"
   }
  ],
+ "SP7348": [
+  {
+   "brand": "Advance",
+   "device": "SP7348",
+   "model": "SP7348"
+  }
+ ],
  "Sp5730": [
   {
    "brand": "Advance",
@@ -55079,6 +55086,13 @@
    "brand": "Motorola Solutions",
    "device": "EVOLVE",
    "model": "EVOLVE"
+  }
+ ],
+ "EVOLVE 2": [
+  {
+   "brand": "Dish",
+   "device": "m377_dish",
+   "model": "EVOLVE 2"
   }
  ],
  "Hopper Plus": [
@@ -97230,6 +97244,13 @@
    "model": "IMO Q4 Pro"
   }
  ],
+ "IMO Q5": [
+  {
+   "brand": "IMO(In My Opinion)",
+   "device": "IMO_Q5",
+   "model": "IMO Q5"
+  }
+ ],
  "IMO S2": [
   {
    "brand": "IMO(In My Opinion)",
@@ -103146,6 +103167,13 @@
    "brand": "Itel",
    "device": "itel-A663L",
    "model": "itel A663L"
+  }
+ ],
+ "A05s": [
+  {
+   "brand": "Itel",
+   "device": "itel-A663LC",
+   "model": "itel A663LC"
   }
  ],
  "A13": [
@@ -128751,6 +128779,18 @@
    "model": "M bot 52"
   }
  ],
+ "ONIX": [
+  {
+   "brand": "Logicom",
+   "device": "ONIX",
+   "model": "ONIX"
+  },
+  {
+   "brand": "Zuum",
+   "device": "ONIX",
+   "model": "ONIX"
+  }
+ ],
  "POWER bot": [
   {
    "brand": "Logicom",
@@ -131812,6 +131852,11 @@
    "brand": "Masstel",
    "device": "Tab10_Edu",
    "model": "Masstel Tab10 Edu"
+  },
+  {
+   "brand": "Masstel",
+   "device": "Tab10_EduV2",
+   "model": "Tab10_Edu"
   }
  ],
  "Tab7LTE": [
@@ -137549,6 +137594,13 @@
    "brand": "Mobicell",
    "device": "RUSH",
    "model": "RUSH"
+  }
+ ],
+ "RX PRO": [
+  {
+   "brand": "Mobicell",
+   "device": "RX_PRO",
+   "model": "RX PRO"
   }
  ],
  "Retro": [
@@ -158131,6 +158183,13 @@
    "brand": "POSSAFE",
    "device": "OrderGo5",
    "model": "OrderGo5"
+  }
+ ],
+ "PT7EduPad": [
+  {
+   "brand": "PRAZteck",
+   "device": "PT7EduPad",
+   "model": "PT7EduPad"
   }
  ],
  "PRIMA 2K Android TV": [
@@ -194775,6 +194834,11 @@
  "AQUOS R8": [
   {
    "brand": "Sharp",
+   "device": "FaYuiry",
+   "model": "SH-R80"
+  },
+  {
+   "brand": "Sharp",
    "device": "SH-52D",
    "model": "SH-52D"
   }
@@ -194787,22 +194851,13 @@
   },
   {
    "brand": "Sharp",
-   "device": "SH-51D",
-   "model": "SH-51D"
-  }
- ],
- "AQUOS R8s": [
-  {
-   "brand": "Sharp",
-   "device": "FaYuiry",
-   "model": "SH-R80"
-  }
- ],
- "AQUOS R8s pro": [
-  {
-   "brand": "Sharp",
    "device": "Kamille",
    "model": "SH-R80P"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SH-51D",
+   "model": "SH-51D"
   }
  ],
  "AQUOS SERIE SHL25": [
@@ -207068,6 +207123,13 @@
    "brand": "TCL",
    "device": "A5A_INFINI",
    "model": "5186D"
+  }
+ ],
+ "T607DL": [
+  {
+   "brand": "TCL",
+   "device": "Bora_TF",
+   "model": "T607DL"
   }
  ],
  "TAB 10s 2022": [
@@ -252862,13 +252924,6 @@
    "brand": "Zuum",
    "device": "Magno_Pro",
    "model": "Magno Pro"
-  }
- ],
- "ONIX": [
-  {
-   "brand": "Zuum",
-   "device": "ONIX",
-   "model": "ONIX"
   }
  ],
  "ONIX S": [
