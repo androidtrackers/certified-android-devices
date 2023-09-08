@@ -193764,6 +193764,45 @@
    "model": "SM-R930"
   }
  ],
+ "fresh6ul": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R9450"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R945F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R945N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R945U"
+  }
+ ],
+ "fresh6us": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R935F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R935N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "model": "SM-R935U"
+  }
+ ],
  "wise6bl": [
   {
    "brand": "Samsung",
@@ -193776,6 +193815,45 @@
    "brand": "Samsung",
    "name": "Galaxy Watch6 Classic",
    "model": "SM-R950"
+  }
+ ],
+ "wise6ul": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R9650"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R965F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R965N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R965U"
+  }
+ ],
+ "wise6us": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R955F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R955N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "model": "SM-R955U"
   }
  ],
  "on7nlteskt": [

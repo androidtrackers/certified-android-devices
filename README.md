@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-07
+Last sync is 2023-09-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29204,8 +29204,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925U|
 |Samsung|Galaxy Watch6|fresh6bl|SM-R940|
 |Samsung|Galaxy Watch6|fresh6bs|SM-R930|
+|Samsung|Galaxy Watch6|fresh6ul|SM-R9450|
+|Samsung|Galaxy Watch6|fresh6ul|SM-R945F|
+|Samsung|Galaxy Watch6|fresh6ul|SM-R945N|
+|Samsung|Galaxy Watch6|fresh6ul|SM-R945U|
+|Samsung|Galaxy Watch6|fresh6us|SM-R935F|
+|Samsung|Galaxy Watch6|fresh6us|SM-R935N|
+|Samsung|Galaxy Watch6|fresh6us|SM-R935U|
 |Samsung|Galaxy Watch6 Classic|wise6bl|SM-R960|
 |Samsung|Galaxy Watch6 Classic|wise6bs|SM-R950|
+|Samsung|Galaxy Watch6 Classic|wise6ul|SM-R9650|
+|Samsung|Galaxy Watch6 Classic|wise6ul|SM-R965F|
+|Samsung|Galaxy Watch6 Classic|wise6ul|SM-R965N|
+|Samsung|Galaxy Watch6 Classic|wise6ul|SM-R965U|
+|Samsung|Galaxy Watch6 Classic|wise6us|SM-R955F|
+|Samsung|Galaxy Watch6 Classic|wise6us|SM-R955N|
+|Samsung|Galaxy Watch6 Classic|wise6us|SM-R955U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
