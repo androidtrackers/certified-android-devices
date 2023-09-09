@@ -190375,6 +190375,11 @@
    "model": "Nano6"
   },
   {
+   "device": "T2",
+   "name": "T2",
+   "model": "T2"
+  },
+  {
    "device": "Tech-A1",
    "name": "Tech-A1",
    "model": "Tech A1"

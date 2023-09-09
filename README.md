@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-08
+Last sync is 2023-09-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -37077,6 +37077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wise-Tech|Tech_A1_Plus|Tech_A1_Plus|Tech_A1_Plus|
 |Wise-Tech|Wise-Tech_M1|Wise-Tech_M1|Wise-Tech_M1|
 |Wiseasy|Nano 6|Nano6|Nano6|
+|Wiseasy|T2|T2|T2|
 |Wiseasy|Tech-A1|Tech-A1|Tech A1|
 |Wiseasy|WISENET5|WISENET5|WISENET5|
 |Wiseasy|Wiseasy P5|P5|P5|
