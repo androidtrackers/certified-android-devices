@@ -53980,6 +53980,13 @@
    "device": "EM9"
   }
  ],
+ "E5mini": [
+  {
+   "brand": "Emporia",
+   "name": "E5mini",
+   "device": "E5mini"
+  }
+ ],
  "S3mini": [
   {
    "brand": "Emporia",
@@ -100839,6 +100846,11 @@
   {
    "brand": "Itel",
    "name": "A05S",
+   "device": "itel-A663L"
+  },
+  {
+   "brand": "Itel",
+   "name": "A05s",
    "device": "itel-A663L"
   }
  ],
@@ -156843,6 +156855,13 @@
    "brand": "Oppo",
    "name": "OPPO Pad Air",
    "device": "OP5225"
+  }
+ ],
+ "PHU110": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno10 Pro+ 5G",
+   "device": "OP564B"
   }
  ],
  "A101OP": [

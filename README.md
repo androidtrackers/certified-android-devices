@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-11
+Last sync is 2023-09-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7140,6 +7140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emdoor|EM_I8180|em_i8180|em_i8180|
 |Emerson|EM749/748|EM749_748|EM749_748|
 |Emerson|EM9|EM9|EM9|
+|Emporia|E5mini|E5mini|E5mini|
 |Emporia|E6_EEA|E6|E6|
 |Emporia|Emporia SMART 3|S3|S3|
 |Emporia|S3mini|S3mini|S3mini|
@@ -14119,6 +14120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iskon|Iskon.TV|wh220_iskon|Iskon.TV|
 |Iskon|wh220_iskon|wh220_iskon|Iskon.TV|
 |Itel|A05S|itel-A663L|itel A663L|
+|Itel|A05s|itel-A663L|itel A663L|
 |Itel|A05s|itel-A663LC|itel A663LC|
 |Itel|A11|itel_A11|itel A11|
 |Itel|A12|itel_A12|itel A12|
@@ -22795,6 +22797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
+|Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|

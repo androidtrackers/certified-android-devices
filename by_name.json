@@ -60898,6 +60898,13 @@
    "model": "EM9"
   }
  ],
+ "E5mini": [
+  {
+   "brand": "Emporia",
+   "device": "E5mini",
+   "model": "E5mini"
+  }
+ ],
  "E6_EEA": [
   {
    "brand": "Emporia",
@@ -103175,6 +103182,11 @@
   }
  ],
  "A05s": [
+  {
+   "brand": "Itel",
+   "device": "itel-A663L",
+   "model": "itel A663L"
+  },
   {
    "brand": "Itel",
    "device": "itel-A663LC",
@@ -154045,6 +154057,13 @@
    "brand": "Oppo",
    "device": "OP5225",
    "model": "OPD2102"
+  }
+ ],
+ "OPPO Reno10 Pro+ 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP564B",
+   "model": "PHU110"
   }
  ],
  "OPPO Reno5 A": [
