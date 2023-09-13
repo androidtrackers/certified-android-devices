@@ -10159,6 +10159,13 @@
    "model": "ATAB1021E"
   }
  ],
+ "ATAB1024E": [
+  {
+   "brand": "Acer",
+   "device": "ATAB1024E",
+   "model": "ATAB1024E"
+  }
+ ],
  "ATAB1422E": [
   {
    "brand": "Acer",
@@ -17716,6 +17723,11 @@
   {
    "brand": "Apex",
    "device": "U10",
+   "model": "U10"
+  },
+  {
+   "brand": "Doogee",
+   "device": "RK1",
    "model": "U10"
   },
   {
@@ -27886,6 +27898,11 @@
    "brand": "Lava",
    "device": "X11",
    "model": "X11"
+  },
+  {
+   "brand": "Techpad",
+   "device": "X11",
+   "model": "X11"
   }
  ],
  "B_TAB1021": [
@@ -29909,6 +29926,13 @@
    "brand": "BeLeno",
    "device": "BeLeno_Neod_8",
    "model": "BeLeno_Neod_8"
+  }
+ ],
+ "BeLeno_Turbo_101": [
+  {
+   "brand": "BeLeno",
+   "device": "BeLeno_Turbo_101",
+   "model": "BeLeno_Turbo_101"
   }
  ],
  "Convex 430": [
@@ -35131,6 +35155,11 @@
   {
    "brand": "Blu",
    "device": "G0850_IW",
+   "model": "G53"
+  },
+  {
+   "brand": "Blu",
+   "device": "G0851",
    "model": "G53"
   }
  ],
@@ -43394,6 +43423,13 @@
    "model": "RK25WO"
   }
  ],
+ "RK26": [
+  {
+   "brand": "Cipherlab",
+   "device": "RK26",
+   "model": "RK26"
+  }
+ ],
  "RK95": [
   {
    "brand": "Cipherlab",
@@ -44672,6 +44708,18 @@
    "brand": "Compaq",
    "device": "zhongshan",
    "model": "SMART TV"
+  }
+ ],
+ "COMPAQ SMART TV": [
+  {
+   "brand": "Compaq",
+   "device": "marina",
+   "model": "COMPAQ SMART TV"
+  },
+  {
+   "brand": "Compaq",
+   "device": "nagata",
+   "model": "COMPAQ SMART TV"
   }
  ],
  "CT101": [
@@ -56308,6 +56356,11 @@
    "brand": "LGE",
    "device": "elsa",
    "model": "VS995"
+  },
+  {
+   "brand": "VILLAON",
+   "device": "V20",
+   "model": "V20"
   }
  ],
  "V20Pro": [
@@ -60031,6 +60084,13 @@
    "brand": "Edong",
    "device": "LOL_775",
    "model": "LOL-775"
+  }
+ ],
+ "Defender": [
+  {
+   "brand": "Ehlel",
+   "device": "Ehlel_Defender_D23",
+   "model": "Defender D23"
   }
  ],
  "Ehlel C7 PRO": [
@@ -73636,6 +73696,13 @@
    "model": "A770_XL7"
   }
  ],
+ "Delta_14": [
+  {
+   "brand": "Gtel",
+   "device": "Delta_14",
+   "model": "Delta_14"
+  }
+ ],
  "Gtel Infinity 8s": [
   {
    "brand": "Gtel",
@@ -74203,6 +74270,11 @@
    "brand": "HKC Elec",
    "device": "lakeside",
    "model": "4K US Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "device": "nagai",
+   "model": "2K PA Google TV"
   },
   {
    "brand": "HKC Elec",
@@ -97956,6 +98028,13 @@
    "model": "TE082M2"
   }
  ],
+ "TE083M3": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "device": "TE083M3",
+   "model": "TE083"
+  }
+ ],
  "TE101N1": [
   {
    "brand": "IRIS_OHYAMA",
@@ -106569,21 +106648,7 @@
    "model": "DX-A400"
   }
  ],
- "DX-A400_": [
-  {
-   "brand": "KEYENCE",
-   "device": "DX-A400",
-   "model": "DX-A400"
-  }
- ],
  "DX-A600": [
-  {
-   "brand": "KEYENCE",
-   "device": "DX-A600",
-   "model": "DX-A600"
-  }
- ],
- "DX-A600_": [
   {
    "brand": "KEYENCE",
    "device": "DX-A600",
@@ -107235,6 +107300,13 @@
    "brand": "KTC (PD)",
    "device": "BLISS_8",
    "model": "BLISS_8"
+  }
+ ],
+ "ADSUN": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "AP": [
@@ -121577,6 +121649,11 @@
    "brand": "Lava",
    "device": "Z3_UP_2",
    "model": "LAVA Z3 UP 2"
+  },
+  {
+   "brand": "Mobicell",
+   "device": "RX17",
+   "model": "Z3"
   },
   {
    "brand": "Sharp",
@@ -143570,6 +143647,11 @@
   },
   {
    "brand": "Multilaser",
+   "device": "ML_SO0R_M7_WIFI",
+   "model": "M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO1E_M7_Wifi",
    "model": "M7_WIFI"
   },
@@ -151920,6 +152002,13 @@
    "model": "DN2103"
   }
  ],
+ "OnePlus Pad": [
+  {
+   "brand": "OnePlus",
+   "device": "OP59BCL1",
+   "model": "OPD2203"
+  }
+ ],
  "OnePlus2": [
   {
    "brand": "OnePlus",
@@ -157895,6 +157984,13 @@
    "brand": "PIXPRO",
    "device": "T3",
    "model": "PIXPRO T3"
+  }
+ ],
+ "PLDT-GMB8260": [
+  {
+   "brand": "PLDT",
+   "device": "DS8942-KPP",
+   "model": "PLDT-GMB8260"
   }
  ],
  "Smart Page 8 Pro": [
@@ -171815,6 +171911,11 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "irobot",
+   "model": "MiTV-MOSR4"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "machuca",
    "model": "MiTV-MSSP3"
   },
@@ -171850,8 +171951,18 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "venom",
+   "model": "MiTV-MOOR6"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "volver",
    "model": "MiTV-MSSP2"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "watchmen",
+   "model": "MiTV-AXFR2"
   }
  ],
  "Redmi  7A": [
@@ -173013,6 +173124,11 @@
    "brand": "Redmi",
    "device": "xun",
    "model": "23073RPBFG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "xun",
+   "model": "23073RPBFL"
   }
  ],
  "redway10": [
@@ -200179,6 +200295,13 @@
    "model": "BRAVIA VU31"
   }
  ],
+ "BRAVIA_VU31": [
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_VU31_4K",
+   "model": "BRAVIA VU31"
+  }
+ ],
  "Ericsson Live with Walkman": [
   {
    "brand": "Sony",
@@ -203750,6 +203873,13 @@
    "brand": "SparX",
    "device": "Neo_7_Ultra",
    "model": "Sparx Neo 7 Ultra"
+  }
+ ],
+ "Sparx": [
+  {
+   "brand": "SparX",
+   "device": "Neo_8",
+   "model": "Neo 8"
   }
  ],
  "Sparx Neo 7": [
@@ -225684,6 +225814,13 @@
   }
  ],
  "UMIDIGI A15 EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_A15",
+   "model": "MP33"
+  }
+ ],
+ "UMIDIGI A15 RU": [
   {
    "brand": "Umidigi",
    "device": "UMIDIGI_A15",
@@ -257686,6 +257823,13 @@
    "brand": "rephone",
    "device": "rephone",
    "model": "2000_000170_00"
+  }
+ ],
+ "rephone5G": [
+  {
+   "brand": "rephone",
+   "device": "rephone5G",
+   "model": "2000_000176_00"
   }
  ],
  "10_1Q205": [

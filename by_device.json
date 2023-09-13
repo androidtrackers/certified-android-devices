@@ -1593,6 +1593,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ADSUN",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "AP",
    "model": "40D"
   },
@@ -7381,6 +7386,13 @@
    "brand": "Acer",
    "name": "ATAB1021E",
    "model": "ATAB1021E"
+  }
+ ],
+ "ATAB1024E": [
+  {
+   "brand": "Acer",
+   "name": "ATAB1024E",
+   "model": "ATAB1024E"
   }
  ],
  "ATAB1422E": [
@@ -15251,6 +15263,11 @@
    "brand": "CAIXUN",
    "name": "South of America",
    "model": "Apollo Pro4K TV"
+  },
+  {
+   "brand": "Compaq",
+   "name": "COMPAQ SMART TV",
+   "model": "COMPAQ SMART TV"
   },
   {
    "brand": "Continental Edison",
@@ -29014,6 +29031,13 @@
    "model": "BeLeno_Neod_8"
   }
  ],
+ "BeLeno_Turbo_101": [
+  {
+   "brand": "BeLeno",
+   "name": "BeLeno_Turbo_101",
+   "model": "BeLeno_Turbo_101"
+  }
+ ],
  "granite": [
   {
    "brand": "Becrypt",
@@ -32604,6 +32628,11 @@
    "model": "MAXWELL SMART TV"
   },
   {
+   "brand": "Compaq",
+   "name": "COMPAQ SMART TV",
+   "model": "COMPAQ SMART TV"
+  },
+  {
    "brand": "Continental Edison",
    "name": "CDI SMART TV",
    "model": "CDI SMART TV"
@@ -33974,6 +34003,13 @@
   }
  ],
  "G0850_IW": [
+  {
+   "brand": "Blu",
+   "name": "G53",
+   "model": "G53"
+  }
+ ],
+ "G0851": [
   {
    "brand": "Blu",
    "name": "G53",
@@ -41569,6 +41605,13 @@
    "brand": "Cipherlab",
    "name": "RK25WO",
    "model": "RK25WO"
+  }
+ ],
+ "RK26": [
+  {
+   "brand": "Cipherlab",
+   "name": "RK26",
+   "model": "RK26"
   }
  ],
  "RK95": [
@@ -53451,6 +53494,11 @@
    "brand": "Lava",
    "name": "X11",
    "model": "X11"
+  },
+  {
+   "brand": "Techpad",
+   "name": "X11",
+   "model": "X11"
   }
  ],
  "X11S": [
@@ -54604,6 +54652,13 @@
    "model": "T5S"
   }
  ],
+ "RK1": [
+  {
+   "brand": "Doogee",
+   "name": "U10",
+   "model": "U10"
+  }
+ ],
  "M23H": [
   {
    "brand": "Doogee",
@@ -54619,6 +54674,11 @@
  "V20": [
   {
    "brand": "Doogee",
+   "name": "V20",
+   "model": "V20"
+  },
+  {
+   "brand": "VILLAON",
    "name": "V20",
    "model": "V20"
   }
@@ -57650,6 +57710,13 @@
    "brand": "Edong",
    "name": "LOL-775",
    "model": "LOL-775"
+  }
+ ],
+ "Ehlel_Defender_D23": [
+  {
+   "brand": "Ehlel",
+   "name": "Defender",
+   "model": "Defender D23"
   }
  ],
  "Ehlel-C7PRO": [
@@ -71036,6 +71103,13 @@
    "model": "A770_XL7"
   }
  ],
+ "Delta_14": [
+  {
+   "brand": "Gtel",
+   "name": "Delta_14",
+   "model": "Delta_14"
+  }
+ ],
  "Gtel_Infinity_8s": [
   {
    "brand": "Gtel",
@@ -71536,6 +71610,11 @@
   }
  ],
  "nagai": [
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "model": "2K PA Google TV"
+  },
   {
    "brand": "HKC Elec",
    "name": "Google TV",
@@ -96169,6 +96248,13 @@
    "model": "TM152"
   }
  ],
+ "TE083M3": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "TE083M3",
+   "model": "TE083"
+  }
+ ],
  "Aquaman_10_Smart_WIFI": [
   {
    "brand": "IRIS_OHYAMA",
@@ -104782,22 +104868,12 @@
    "brand": "KEYENCE",
    "name": "DX-A400",
    "model": "DX-A400"
-  },
-  {
-   "brand": "KEYENCE",
-   "name": "DX-A400_",
-   "model": "DX-A400"
   }
  ],
  "DX-A600": [
   {
    "brand": "KEYENCE",
    "name": "DX-A600",
-   "model": "DX-A600"
-  },
-  {
-   "brand": "KEYENCE",
-   "name": "DX-A600_",
    "model": "DX-A600"
   }
  ],
@@ -137640,6 +137716,13 @@
    "model": "VX20 PRO"
   }
  ],
+ "RX17": [
+  {
+   "brand": "Mobicell",
+   "name": "Z3",
+   "model": "Z3"
+  }
+ ],
  "ZEN": [
   {
    "brand": "Mobicell",
@@ -143731,6 +143814,13 @@
   }
  ],
  "ML_SO0P_M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
+ "ML_SO0R_M7_WIFI": [
   {
    "brand": "Multilaser",
    "name": "M7 WIFI",
@@ -152233,6 +152323,13 @@
    "model": "DN2103"
   }
  ],
+ "OP59BCL1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Pad",
+   "model": "OPD2203"
+  }
+ ],
  "OnePlus3T": [
   {
    "brand": "OnePlus",
@@ -158288,6 +158385,13 @@
    "brand": "PIXPRO",
    "name": "PIXPRO L1 PRO",
    "model": "PIXPRO L1 PRO"
+  }
+ ],
+ "DS8942-KPP": [
+  {
+   "brand": "PLDT",
+   "name": "PLDT-GMB8260",
+   "model": "PLDT-GMB8260"
   }
  ],
  "Smart_Page_8_Pro": [
@@ -172799,6 +172903,11 @@
    "brand": "Redmi",
    "name": "Redmi Pad SE",
    "model": "23073RPBFG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE",
+   "model": "23073RPBFL"
   }
  ],
  "tarzan": [
@@ -202199,6 +202308,11 @@
    "brand": "Sony",
    "name": "BRAVIA_VU3.1",
    "model": "BRAVIA VU31"
+  },
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU31",
+   "model": "BRAVIA VU31"
   }
  ],
  "WT19a": [
@@ -206366,6 +206480,13 @@
    "brand": "SparX",
    "name": "S7",
    "model": "Sparx S7"
+  }
+ ],
+ "Neo_8": [
+  {
+   "brand": "SparX",
+   "name": "Sparx",
+   "model": "Neo 8"
   }
  ],
  "Neo_7": [
@@ -227657,6 +227778,11 @@
    "brand": "Umidigi",
    "name": "UMIDIGI A15 EEA",
    "model": "MP33"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15 RU",
+   "model": "MP33"
   }
  ],
  "UMIDIGI_A15C": [
@@ -242267,6 +242393,13 @@
    "model": "MiTV-MOSR1"
   }
  ],
+ "irobot": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOSR4"
+  }
+ ],
  "machuca": [
   {
    "brand": "Xiaomi",
@@ -242300,6 +242433,11 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "model": "MiTV-MOOR0"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOOR6"
   }
  ],
  "volver": [
@@ -242307,6 +242445,13 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "model": "MiTV-MSSP2"
+  }
+ ],
+ "watchmen": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-AXFR2"
   }
  ],
  "entrapment": [
@@ -259498,6 +259643,13 @@
    "brand": "rephone",
    "name": "rephone",
    "model": "2000_000170_00"
+  }
+ ],
+ "rephone5G": [
+  {
+   "brand": "rephone",
+   "name": "rephone5G",
+   "model": "2000_000176_00"
   }
  ],
  "BingeStick": [
