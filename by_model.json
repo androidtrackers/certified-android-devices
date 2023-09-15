@@ -65438,6 +65438,11 @@
    "brand": "Gionee",
    "name": "X1S",
    "device": "GIONEE_SWW1627"
+  },
+  {
+   "brand": "Lanix",
+   "name": "X1S",
+   "device": "X1S"
   }
  ],
  "BW819E_CR": [
@@ -78362,6 +78367,13 @@
    "device": "HS7731ESP"
   }
  ],
+ "Hisense U607": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HLTE106E_02"
+  }
+ ],
  "HWCD100E": [
   {
    "brand": "Hisense",
@@ -81065,6 +81077,11 @@
   {
    "brand": "Honeywell",
    "name": "EDA10A",
+   "device": "EDA10A"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "EDA10A-1",
    "device": "EDA10A"
   }
  ],
@@ -243685,6 +243702,13 @@
    "brand": "Vivo",
    "name": "vivo 2010",
    "device": "1902"
+  }
+ ],
+ "V2310": [
+  {
+   "brand": "Vivo",
+   "name": "Y17s",
+   "device": "V2310"
   }
  ],
  "vivo Y21": [

@@ -72149,6 +72149,11 @@
    "model": "X1S"
   },
   {
+   "brand": "Lanix",
+   "device": "X1S",
+   "model": "X1S"
+  },
+  {
    "brand": "QMobile",
    "device": "Noir_X1S",
    "model": "Noir X1S"
@@ -84049,6 +84054,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE106E_02",
+   "model": "Hisense U607"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE106E_02",
    "model": "Hisense U964"
   },
   {
@@ -86955,6 +86965,13 @@
   }
  ],
  "EDA10A": [
+  {
+   "brand": "Honeywell",
+   "device": "EDA10A",
+   "model": "EDA10A"
+  }
+ ],
+ "EDA10A-1": [
   {
    "brand": "Honeywell",
    "device": "EDA10A",
@@ -232589,6 +232606,13 @@
    "brand": "Vivo",
    "device": "1902D",
    "model": "vivo 1902"
+  }
+ ],
+ "Y17s": [
+  {
+   "brand": "Vivo",
+   "device": "V2310",
+   "model": "V2310"
   }
  ],
  "Y21": [

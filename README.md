@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-14
+Last sync is 2023-09-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10700,6 +10700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HLTE106E_01|Hisense U60|
 |Hisense|Hisense U964|HLTE106E_01|Hisense U964|
 |Hisense|Hisense U964|HLTE106E_02|Hisense E32 Lite|
+|Hisense|Hisense U964|HLTE106E_02|Hisense U607|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U964|
 |Hisense|Hisense U964|HS7731ESP|HWCD100E|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
@@ -11152,6 +11153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Dolphin CT50|CT50LFN-CS13S|CT50|
 |Honeywell|Dolphin CT50|CT50LUN-CS13S|CT50|
 |Honeywell|EDA10A|EDA10A|EDA10A|
+|Honeywell|EDA10A-1|EDA10A|EDA10A|
 |Honeywell|EDA40|EDA40-0|EDA40|
 |Honeywell|EDA40|EDA40-1|EDA40|
 |Honeywell|EDA50|eda50-011|EDA50|
@@ -17116,6 +17118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|RX8|Ilium_PAD_RX8|Ilium_PAD_RX8v4|
 |Lanix|X100|ILIUM_X100|ILIUM_X100|
 |Lanix|X120C|X120C|X120C|
+|Lanix|X1S|X1S|X1S|
 |Lanix|X230|X230|X230|
 |Lanix|X230A|X230A|X230A|
 |Lanix|X240|X240|X240|
@@ -36101,6 +36104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y16|V2204|V2214|
 |Vivo|Y16|V2204|V2305|
 |Vivo|Y17|1902D|vivo 1902|
+|Vivo|Y17s|V2310|V2310|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
 |Vivo|Y21L|Y21L|vivo Y21L|

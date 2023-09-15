@@ -55422,6 +55422,11 @@
   {
    "device": "HLTE106E_02",
    "name": "Hisense U964",
+   "model": "Hisense U607"
+  },
+  {
+   "device": "HLTE106E_02",
+   "name": "Hisense U964",
    "model": "Hisense U964"
   },
   {
@@ -57701,6 +57706,11 @@
   {
    "device": "EDA10A",
    "name": "EDA10A",
+   "model": "EDA10A"
+  },
+  {
+   "device": "EDA10A",
+   "name": "EDA10A-1",
    "model": "EDA10A"
   },
   {
@@ -88092,6 +88102,11 @@
    "device": "X120C",
    "name": "X120C",
    "model": "X120C"
+  },
+  {
+   "device": "X1S",
+   "name": "X1S",
+   "model": "X1S"
   },
   {
    "device": "X230",
@@ -185353,6 +185368,11 @@
    "device": "1902D",
    "name": "Y17",
    "model": "vivo 1902"
+  },
+  {
+   "device": "V2310",
+   "name": "Y17s",
+   "model": "V2310"
   },
   {
    "device": "Y21",

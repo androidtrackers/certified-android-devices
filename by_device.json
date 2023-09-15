@@ -81443,6 +81443,11 @@
   {
    "brand": "Hisense",
    "name": "Hisense U964",
+   "model": "Hisense U607"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
    "model": "Hisense U964"
   }
  ],
@@ -83755,6 +83760,11 @@
   {
    "brand": "Honeywell",
    "name": "EDA10A",
+   "model": "EDA10A"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "EDA10A-1",
    "model": "EDA10A"
   }
  ],
@@ -118894,6 +118904,13 @@
    "brand": "Lanix",
    "name": "X100",
    "model": "ILIUM_X100"
+  }
+ ],
+ "X1S": [
+  {
+   "brand": "Lanix",
+   "name": "X1S",
+   "model": "X1S"
   }
  ],
  "X230": [
@@ -234466,6 +234483,13 @@
    "brand": "Vivo",
    "name": "Y17",
    "model": "vivo 1902"
+  }
+ ],
+ "V2310": [
+  {
+   "brand": "Vivo",
+   "name": "Y17s",
+   "model": "V2310"
   }
  ],
  "Y21": [
