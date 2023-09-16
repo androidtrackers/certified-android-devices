@@ -39677,6 +39677,11 @@
    "model": "FP2"
   },
   {
+   "device": "FP5",
+   "name": "Fairphone 5 5G",
+   "model": "FP5"
+  },
+  {
    "device": "FP3",
    "name": "Fairphone3",
    "model": "FP3"
@@ -69477,6 +69482,11 @@
    "device": "Infinix_X510",
    "name": "HOT 2",
    "model": "Infinix X510"
+  },
+  {
+   "device": "Infinix-X6825",
+   "name": "HOT 20 PLAY",
+   "model": "Infinix X6825"
   },
   {
    "device": "Infinix-X6827",
@@ -103496,6 +103506,11 @@
    "device": "Smart_N12",
    "name": "Smart N12",
    "model": "SmartN12"
+  },
+  {
+   "device": "Smart_P24",
+   "name": "Smart P24",
+   "model": "Smart_P24"
   },
   {
    "device": "Smart_T23",
@@ -163482,6 +163497,11 @@
    "device": "Cruze",
    "name": "TCL 30E",
    "model": "6127I"
+  },
+  {
+   "device": "Ladybird_Pro",
+   "name": "TCL 40 NXTPAPER",
+   "model": "T612B"
   },
   {
    "device": "Firefly",

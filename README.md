@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-15
+Last sync is 2023-09-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7637,6 +7637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FaceVsion|OC1020A|OC1020A|FV-FG6|
 |Facime|FLEET_7|FLEET_7|FLEET_7|
 |Fairphone|FP2|FP2|FP2|
+|Fairphone|Fairphone 5 5G|FP5|FP5|
 |Fairphone|Fairphone3|FP3|FP3|
 |Fairphone|Fairphone4|FP4|FP4|
 |Famous Fones|Famous Red 5+|Famous_Red_5Plus|Famous Red 5+|
@@ -13475,6 +13476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 12i|Infinix-X665|Infinix X665|
 |Infinix|HOT 12i|Infinix-X665B|Infinix X665B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
+|Infinix|HOT 20 PLAY|Infinix-X6825|Infinix X6825|
 |Infinix|HOT 20S|Infinix-X6827|Infinix X6827|
 |Infinix|HOT 20i|Infinix-X665C|Infinix X665C|
 |Infinix|HOT 20i|Infinix-X665E|Infinix X665E|
@@ -20122,6 +20124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Smart Green|MobiWire_Verda|Vodafone Lite 4G|
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
 |Mobiwire|Smart N12|Smart_N12|SmartN12|
+|Mobiwire|Smart P24|Smart_P24|Smart_P24|
 |Mobiwire|SmartT23|Smart_T23|SmartT23|
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
@@ -31848,6 +31851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 305|Cruze_Lite|6102D|
 |TCL|TCL 306|Cruze_Lite_S|6102H|
 |TCL|TCL 30E|Cruze|6127I|
+|TCL|TCL 40 NXTPAPER|Ladybird_Pro|T612B|
 |TCL|TCL 40 NXTPAPER 5G|Firefly|T771K|
 |TCL|TCL 40 R 5G|Levin|T771H|
 |TCL|TCL 40 SE|Model_3|T610E|

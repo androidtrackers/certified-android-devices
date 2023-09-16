@@ -64409,6 +64409,13 @@
    "model": "FP2"
   }
  ],
+ "Fairphone 5 5G": [
+  {
+   "brand": "Fairphone",
+   "device": "FP5",
+   "model": "FP5"
+  }
+ ],
  "Fairphone3": [
   {
    "brand": "Fairphone",
@@ -99163,6 +99170,13 @@
    "brand": "Infinix",
    "device": "Infinix_X510",
    "model": "Infinix X510"
+  }
+ ],
+ "HOT 20 PLAY": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6825",
+   "model": "Infinix X6825"
   }
  ],
  "HOT 20S": [
@@ -138594,6 +138608,13 @@
    "brand": "Mobiwire",
    "device": "Smart_N12",
    "model": "SmartN12"
+  }
+ ],
+ "Smart P24": [
+  {
+   "brand": "Mobiwire",
+   "device": "Smart_P24",
+   "model": "Smart_P24"
   }
  ],
  "SmartT23": [
@@ -207767,6 +207788,13 @@
    "brand": "TCT (Alcatel)",
    "device": "Cruze",
    "model": "6127A"
+  }
+ ],
+ "TCL 40 NXTPAPER": [
+  {
+   "brand": "TCL",
+   "device": "Ladybird_Pro",
+   "model": "T612B"
   }
  ],
  "TCL 40 NXTPAPER 5G": [

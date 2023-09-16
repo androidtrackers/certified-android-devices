@@ -61838,6 +61838,13 @@
    "model": "FP2"
   }
  ],
+ "FP5": [
+  {
+   "brand": "Fairphone",
+   "name": "Fairphone 5 5G",
+   "model": "FP5"
+  }
+ ],
  "FP3": [
   {
    "brand": "Fairphone",
@@ -97318,6 +97325,13 @@
    "brand": "Infinix",
    "name": "HOT 2",
    "model": "Infinix X510"
+  }
+ ],
+ "Infinix-X6825": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20 PLAY",
+   "model": "Infinix X6825"
   }
  ],
  "Infinix-X6827": [
@@ -138435,6 +138449,13 @@
    "brand": "Mobiwire",
    "name": "Smart N12",
    "model": "SmartN12"
+  }
+ ],
+ "Smart_P24": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart P24",
+   "model": "Smart_P24"
   }
  ],
  "Smart_T23": [
@@ -210525,6 +210546,13 @@
    "brand": "TCT (Alcatel)",
    "name": "TCL 30E",
    "model": "6127A"
+  }
+ ],
+ "Ladybird_Pro": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 NXTPAPER",
+   "model": "T612B"
   }
  ],
  "Firefly": [
