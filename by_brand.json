@@ -1727,6 +1727,11 @@
    "device": "K749B",
    "name": "K749B",
    "model": "K749B"
+  },
+  {
+   "device": "K750",
+   "name": "K750",
+   "model": "K750"
   }
  ],
  "Aamra WE": [
@@ -3808,6 +3813,11 @@
    "device": "SP5735",
    "name": "SP5735",
    "model": "SP5735"
+  },
+  {
+   "device": "SP5736",
+   "name": "SP5736",
+   "model": "SP5736"
   },
   {
    "device": "SP5760",
@@ -39518,6 +39528,11 @@
    "model": "A5Pro"
   },
   {
+   "device": "FOXXD_C65",
+   "name": "FOXXD C65",
+   "model": "FOXXD C65"
+  },
+  {
    "device": "L590A",
    "name": "MIRO",
    "model": "L590A"
@@ -46863,6 +46878,13 @@
    "device": "SmartEdu",
    "name": "T432",
    "model": "T432"
+  }
+ ],
+ "HANKOOK_CREA": [
+  {
+   "device": "HANKOOK_CREA_RK3588",
+   "name": "HANKOOK_CREA_IFPD",
+   "model": "CREA_86135_Series"
   }
  ],
  "HANYEAL": [
@@ -133517,6 +133539,13 @@
    "device": "NovaTab_R10",
    "name": "NovaTab_R10",
    "model": "NovaTab_R10"
+  }
+ ],
+ "RoadQuest": [
+  {
+   "device": "RQ-G",
+   "name": "RQ-G",
+   "model": "RQ-G"
   }
  ],
  "RockTek": [

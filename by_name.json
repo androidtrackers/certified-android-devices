@@ -9559,6 +9559,13 @@
    "model": "K749B"
   }
  ],
+ "K750": [
+  {
+   "brand": "AZPEN",
+   "device": "K750",
+   "model": "K750"
+  }
+ ],
  "A10": [
   {
    "brand": "Aamra WE",
@@ -13442,6 +13449,13 @@
    "brand": "Advance",
    "device": "SP5735",
    "model": "SP5735"
+  }
+ ],
+ "SP5736": [
+  {
+   "brand": "Advance",
+   "device": "SP5736",
+   "model": "SP5736"
   }
  ],
  "SP5760": [
@@ -64116,6 +64130,13 @@
    "model": "A5Pro"
   }
  ],
+ "FOXXD C65": [
+  {
+   "brand": "FOXXD",
+   "device": "FOXXD_C65",
+   "model": "FOXXD C65"
+  }
+ ],
  "MIRO": [
   {
    "brand": "FOXXD",
@@ -73929,6 +73950,13 @@
    "brand": "HANET",
    "device": "SmartEdu",
    "model": "T432"
+  }
+ ],
+ "HANKOOK_CREA_IFPD": [
+  {
+   "brand": "HANKOOK_CREA",
+   "device": "HANKOOK_CREA_RK3588",
+   "model": "CREA_86135_Series"
   }
  ],
  "E108GC4G": [
@@ -174054,6 +174082,13 @@
    "brand": "Rizzen",
    "device": "NovaTab_R10",
    "model": "NovaTab_R10"
+  }
+ ],
+ "RQ-G": [
+  {
+   "brand": "RoadQuest",
+   "device": "RQ-G",
+   "model": "RQ-G"
   }
  ],
  "RT-G1": [

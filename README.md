@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-17
+Last sync is 2023-09-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -317,6 +317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AZPEN|G800|G800|G800|
 |AZPEN|K749|K749|K749|
 |AZPEN|K749B|K749B|K749B|
+|AZPEN|K750|K750|K750|
 |Aamra WE|A10|A10|WE A10|
 |Aamra WE|A50|A50|WE A50|
 |Aamra WE|E2|E2|WE E2|
@@ -726,6 +727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|SP5733|SP5733|SP5733|
 |Advance|SP5733|SP5733A|SP5733|
 |Advance|SP5735|SP5735|SP5735|
+|Advance|SP5736|SP5736|SP5736|
 |Advance|SP5760|SP5760|SP5760|
 |Advance|SP5775|SP5775|SP5775|
 |Advance|SP5776|SP5776|SP5776|
@@ -7608,6 +7610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXX|T8C|T8C|T8C|
 |FOXXD|A2023|A2023|A2023|
 |FOXXD|A5Pro|A5Pro|A5Pro|
+|FOXXD|FOXXD C65|FOXXD_C65|FOXXD C65|
 |FOXXD|MIRO|L590A|L590A|
 |FOXXD|N5|N5|N5|
 |FOXXD|P10|P10|P10|
@@ -9015,6 +9018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |H133|Betacrux|Betacrux|Betacrux|
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HANET|T432|SmartEdu|T432|
+|HANKOOK_CREA|HANKOOK_CREA_IFPD|HANKOOK_CREA_RK3588|CREA_86135_Series|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
 |HAOVM|HP10|HP10|P10|
@@ -25959,6 +25963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Rixun|T107|T107|T107|
 |Rizzen|NovaTab_R10|NovaTab_R10|NovaTab_R10|
+|RoadQuest|RQ-G|RQ-G|RQ-G|
 |RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
