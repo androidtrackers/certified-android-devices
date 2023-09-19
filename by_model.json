@@ -4572,6 +4572,13 @@
    "device": "ACTAB821_A"
   }
  ],
+ "ACTABKID": [
+  {
+   "brand": "Acer",
+   "name": "ACTABKID",
+   "device": "ACTABKID"
+  }
+ ],
  "AK330S": [
   {
    "brand": "Acer",
@@ -6726,6 +6733,11 @@
    "brand": "Soneview",
    "name": "SONEVIEW",
    "device": "stanford"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "2K SMART TV",
+   "device": "nagata"
   },
   {
    "brand": "Vivax",
@@ -52216,6 +52228,13 @@
    "device": "CHOTT0102"
   }
  ],
+ "CHSTB02": [
+  {
+   "brand": "EONSmartBox",
+   "name": "CHSTB02",
+   "device": "CHSTB02"
+  }
+ ],
  "SDOTT0202": [
   {
    "brand": "EONSmartBox",
@@ -77861,6 +77880,13 @@
    "device": "HLTE235E_20"
   }
  ],
+ "Hisense E70": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E70",
+   "device": "HLTE262E"
+  }
+ ],
  "Hisense E76MINIM": [
   {
    "brand": "Hisense",
@@ -94051,6 +94077,13 @@
    "device": "keoneae"
   }
  ],
+ "Hyundai 2K Smart TV": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI SMART 2K TV",
+   "device": "nagata"
+  }
+ ],
  "HYUNDAI SMART TV": [
   {
    "brand": "Hyundai",
@@ -94127,6 +94160,13 @@
    "brand": "Hyundai",
    "name": "Hyundai 2K TV",
    "device": "shinjuku"
+  }
+ ],
+ "Hyundai 4K Smart TV": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai 4K Smart TV",
+   "device": "marina"
   }
  ],
  "Hyundai_Eternity_G50L": [
@@ -102683,6 +102723,13 @@
    "brand": "Itel",
    "name": "itel W5503",
    "device": "itel-W5503"
+  }
+ ],
+ "IKP-31": [
+  {
+   "brand": "Itel",
+   "name": "itel-IKP-31",
+   "device": "itel-IKP-31"
   }
  ],
  "SC40": [
@@ -144293,6 +144340,25 @@
    "device": "penang"
   }
  ],
+ "moto g54 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g54 5G",
+   "device": "cancunf"
+  }
+ ],
+ "moto g73 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g54 5G",
+   "device": "cancunf"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g73 5G",
+   "device": "devonf"
+  }
+ ],
  "moto g62 5G": [
   {
    "brand": "Motorola",
@@ -144332,13 +144398,6 @@
    "brand": "Motorola",
    "name": "moto g72",
    "device": "vicky"
-  }
- ],
- "moto g73 5G": [
-  {
-   "brand": "Motorola",
-   "name": "moto g73 5G",
-   "device": "devonf"
   }
  ],
  "XT2169-2": [
@@ -203821,6 +203880,13 @@
   }
  ],
  "AQUOS-TVT23A": [
+  {
+   "brand": "Sharp",
+   "name": "FV1",
+   "device": "sandiego"
+  }
+ ],
+ "AQUOS-TVU23A": [
   {
    "brand": "Sharp",
    "name": "FV1",
@@ -270943,25 +271009,25 @@
    "device": "RE54E4L1"
   }
  ],
+ "RMX3709": [
+  {
+   "brand": "realme",
+   "name": "realme GT3 240W",
+   "device": "REE2B2L1"
+  }
+ ],
  "RMX3820": [
   {
    "brand": "realme",
-   "name": "realme GT Neo5",
+   "name": "realme GT5",
    "device": "RE5C33"
   }
  ],
  "RMX3823": [
   {
    "brand": "realme",
-   "name": "realme GT Neo5 240W",
+   "name": "realme GT5 240W",
    "device": "RE5C33"
-  }
- ],
- "RMX3709": [
-  {
-   "brand": "realme",
-   "name": "realme GT3 240W",
-   "device": "REE2B2L1"
   }
  ],
  "RMX2117": [

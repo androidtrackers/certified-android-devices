@@ -10138,6 +10138,13 @@
    "model": "ACTAB821_A"
   }
  ],
+ "ACTABKID": [
+  {
+   "brand": "Acer",
+   "device": "ACTABKID",
+   "model": "ACTABKID"
+  }
+ ],
  "AK330s": [
   {
    "brand": "Acer",
@@ -59121,6 +59128,13 @@
    "model": "CHOTT0102"
   }
  ],
+ "CHSTB02": [
+  {
+   "brand": "EONSmartBox",
+   "device": "CHSTB02",
+   "model": "CHSTB02"
+  }
+ ],
  "SDOTT0202": [
   {
    "brand": "EONSmartBox",
@@ -83585,6 +83599,13 @@
    "model": "Hisense E60 Lite"
   }
  ],
+ "Hisense E70": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE262E",
+   "model": "Hisense E70"
+  }
+ ],
  "Hisense E76MINIM": [
   {
    "brand": "Hisense",
@@ -96612,6 +96633,13 @@
    "model": "HYUNDAI 4K Google TV"
   }
  ],
+ "HYUNDAI SMART 2K TV": [
+  {
+   "brand": "Hyundai",
+   "device": "nagata",
+   "model": "Hyundai 2K Smart TV"
+  }
+ ],
  "HYUNDAI SMART TV": [
   {
    "brand": "Hyundai",
@@ -96672,6 +96700,13 @@
    "brand": "Hyundai",
    "device": "shinjuku",
    "model": "Hyundai 2K TV"
+  }
+ ],
+ "Hyundai 4K Smart TV": [
+  {
+   "brand": "Hyundai",
+   "device": "marina",
+   "model": "Hyundai 4K Smart TV"
   }
  ],
  "Hyundai Eternity G50L": [
@@ -104943,6 +104978,13 @@
    "brand": "Itel",
    "device": "itel-A510W",
    "model": "itel A510W"
+  }
+ ],
+ "itel-IKP-31": [
+  {
+   "brand": "Itel",
+   "device": "itel-IKP-31",
+   "model": "IKP-31"
   }
  ],
  "itel-L5007S": [
@@ -142136,6 +142178,18 @@
    "brand": "Motorola",
    "device": "penang",
    "model": "moto g53y 5G"
+  }
+ ],
+ "moto g54 5G": [
+  {
+   "brand": "Motorola",
+   "device": "cancunf",
+   "model": "moto g54 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cancunf",
+   "model": "moto g73 5G"
   }
  ],
  "moto g6 play": [
@@ -196039,6 +196093,11 @@
   {
    "brand": "Sharp",
    "device": "sandiego",
+   "model": "AQUOS-TVU23A"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sandiego",
    "model": "AQUOS-TVX23A"
   }
  ],
@@ -230275,6 +230334,13 @@
    "model": "V1"
   }
  ],
+ "2K SMART TV": [
+  {
+   "brand": "Vision Technology",
+   "device": "nagata",
+   "model": "2K SMART TV"
+  }
+ ],
  "100011885": [
   {
    "brand": "Visiontech",
@@ -257481,25 +257547,25 @@
    "model": "RMX3371"
   }
  ],
- "realme GT Neo5": [
+ "realme GT3 240W": [
+  {
+   "brand": "realme",
+   "device": "REE2B2L1",
+   "model": "RMX3709"
+  }
+ ],
+ "realme GT5": [
   {
    "brand": "realme",
    "device": "RE5C33",
    "model": "RMX3820"
   }
  ],
- "realme GT Neo5 240W": [
+ "realme GT5 240W": [
   {
    "brand": "realme",
    "device": "RE5C33",
    "model": "RMX3823"
-  }
- ],
- "realme GT3 240W": [
-  {
-   "brand": "realme",
-   "device": "REE2B2L1",
-   "model": "RMX3709"
   }
  ],
  "realme Narzo 30 Pro 5G": [

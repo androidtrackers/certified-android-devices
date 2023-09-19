@@ -7374,6 +7374,13 @@
    "model": "ACTAB821_A"
   }
  ],
+ "ACTABKID": [
+  {
+   "brand": "Acer",
+   "name": "ACTABKID",
+   "model": "ACTABKID"
+  }
+ ],
  "AS10W": [
   {
    "brand": "Acer",
@@ -15302,6 +15309,11 @@
    "brand": "Hyundai",
    "name": "BOLIVIA",
    "model": "HYUNDAI SMART 4K TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai 4K Smart TV",
+   "model": "Hyundai 4K Smart TV"
   },
   {
    "brand": "IMPEX",
@@ -32657,6 +32669,11 @@
    "model": "GRUNKEL SMART TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI SMART 2K TV",
+   "model": "Hyundai 2K Smart TV"
+  },
+  {
    "brand": "IMPEX",
    "name": "IMPEX evoQ 2K",
    "model": "IMPEX evoQ 2K"
@@ -32730,6 +32747,11 @@
    "brand": "Vision",
    "name": "VISION 2K SMART TV",
    "model": "VISION 2K SMART TV"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "2K SMART TV",
+   "model": "2K SMART TV"
   },
   {
    "brand": "XENON",
@@ -56768,6 +56790,13 @@
    "brand": "EONSmartBox",
    "name": "CHOTT0102",
    "model": "CHOTT0102"
+  }
+ ],
+ "CHSTB02": [
+  {
+   "brand": "EONSmartBox",
+   "name": "CHSTB02",
+   "model": "CHSTB02"
   }
  ],
  "DV8519": [
@@ -81039,6 +81068,13 @@
    "model": "Hisense E60 Lite"
   }
  ],
+ "HLTE262E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E70",
+   "model": "Hisense E70"
+  }
+ ],
  "HS6580MT": [
   {
    "brand": "Hisense",
@@ -103257,6 +103293,13 @@
    "brand": "Itel",
    "name": "itel W5503",
    "model": "itel W5503"
+  }
+ ],
+ "itel-IKP-31": [
+  {
+   "brand": "Itel",
+   "name": "itel-IKP-31",
+   "model": "IKP-31"
   }
  ],
  "TM705": [
@@ -142392,6 +142435,18 @@
    "brand": "Motorola",
    "name": "moto g52j 5G",
    "model": "moto g52j 5G"
+  }
+ ],
+ "cancunf": [
+  {
+   "brand": "Motorola",
+   "name": "moto g54 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g54 5G",
+   "model": "moto g73 5G"
   }
  ],
  "rhodec": [
@@ -198008,6 +198063,11 @@
    "brand": "Sharp",
    "name": "FV1",
    "model": "AQUOS-TVT23A"
+  },
+  {
+   "brand": "Sharp",
+   "name": "FV1",
+   "model": "AQUOS-TVU23A"
   },
   {
    "brand": "Sharp",
@@ -259324,23 +259384,23 @@
    "model": "RMX3371"
   }
  ],
- "RE5C33": [
-  {
-   "brand": "realme",
-   "name": "realme GT Neo5",
-   "model": "RMX3820"
-  },
-  {
-   "brand": "realme",
-   "name": "realme GT Neo5 240W",
-   "model": "RMX3823"
-  }
- ],
  "REE2B2L1": [
   {
    "brand": "realme",
    "name": "realme GT3 240W",
    "model": "RMX3709"
+  }
+ ],
+ "RE5C33": [
+  {
+   "brand": "realme",
+   "name": "realme GT5",
+   "model": "RMX3820"
+  },
+  {
+   "brand": "realme",
+   "name": "realme GT5 240W",
+   "model": "RMX3823"
   }
  ],
  "RMX2117L1": [

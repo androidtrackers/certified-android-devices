@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-18
+Last sync is 2023-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -392,6 +392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ACTAB721|ACTAB721|ACTAB721|
 |Acer|ACTAB723|ACTAB723|ACTAB723|
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
+|Acer|ACTABKID|ACTABKID|ACTABKID|
 |Acer|AK330s|C8n|AK330S|
 |Acer|AS10W|AS10W|AS10W|
 |Acer|AS8W|AS8W|AS8W|
@@ -6890,6 +6891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENIE|VT8216|VT8216|VT8216|
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
 |EONSmartBox|CHOTT0102|CHOTT0102|CHOTT0102|
+|EONSmartBox|CHSTB02|CHSTB02|CHSTB02|
 |EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
 |EONSmartBox|SDSTB01|DV8945C-KSU|SDSTB01|
 |EPI(Columbia)|TAB-001|TAB-001|TAB-001|
@@ -10621,6 +10623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E60 Lite|HLTE235E|Hisense E60 Lite|
 |Hisense|Hisense E60 Lite|HLTE235E_12|Hisense E60 Lite|
 |Hisense|Hisense E60 Lite|HLTE235E_20|Hisense E60 Lite|
+|Hisense|Hisense E70|HLTE262E|Hisense E70|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -13076,6 +13079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI 2K Google TV-E|capitolhill|HYUNDAI 2K Google TV-E|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
 |Hyundai|HYUNDAI 4K Google TV|keoneae|HYUNDAI 4K Google TV|
+|Hyundai|HYUNDAI SMART 2K TV|nagata|Hyundai 2K Smart TV|
 |Hyundai|HYUNDAI SMART TV|SW6H|HYUNDAI SMART TV|
 |Hyundai|HYUNDAI SMART TV|sunnyvale|HYUNDAI SMART TV|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
@@ -13086,6 +13090,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai|stanford|COL 2K SMART TV|
 |Hyundai|Hyundai|stanford|SA 2K SMART TV|
 |Hyundai|Hyundai 2K TV|shinjuku|Hyundai 2K TV|
+|Hyundai|Hyundai 4K Smart TV|marina|Hyundai 4K Smart TV|
 |Hyundai|Hyundai Eternity G50L|HT1G50L|Hyundai_Eternity_G50L|
 |Hyundai|Hyundai HyTab Pro 10LC1|HyTab_Pro_10LC1|HyTab Pro 10LC1|
 |Hyundai|Hyundai Koral 10W|HT1002W16|HT1002W16|
@@ -14396,6 +14401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itel|itel-A16-Plus|itel-A16-Plus|itel A16 Plus|
 |Itel|itel-A510W|itel-A510W|itel A510W|
+|Itel|itel-IKP-31|itel-IKP-31|IKP-31|
 |Itel|itel-L5007S|itel-L5007S|itel L5007S|
 |Itworks|TM705|TM705|NID_7010|
 |J-COM (cn)|SC40|SC40|SC40|
@@ -20787,6 +20793,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g53 5G|penang|moto g53 5G|
 |Motorola|moto g53j 5G|penang|moto g53j 5G|
 |Motorola|moto g53y 5G|penang|moto g53y 5G|
+|Motorola|moto g54 5G|cancunf|moto g54 5G|
+|Motorola|moto g54 5G|cancunf|moto g73 5G|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g62 5G|rhodec|moto g51 5G|
@@ -29882,6 +29890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|FK1|mongkok|AQUOS-TVX23C|
 |Sharp|FS8014|SE3|FS8014|
 |Sharp|FV1|sandiego|AQUOS-TVT23A|
+|Sharp|FV1|sandiego|AQUOS-TVU23A|
 |Sharp|FV1|sandiego|AQUOS-TVX23A|
 |Sharp|GALAPAGOS SoftBank 003SH|SBM003SH|SBM003SH|
 |Sharp|GALAPAGOS SoftBank 005SH|SBM005SH|SBM005SH|
@@ -35735,6 +35744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vision|VISION GSMART 4KTV FF|SW6H|VISION GSMART 4KTV FF|
 |Vision|VISION SMART TV|SW4H|VISION SMART TV|
 |Vision|Vision V1|VISION_V1|V1|
+|Vision Technology|2K SMART TV|nagata|2K SMART TV|
 |Vision Technology|Android TV|R1|ATV R1|
 |Vision Technology|Android TV|R2|ATV R2|
 |Vision Technology|R3|R3|R3|
@@ -40444,9 +40454,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT NEO 3T|RE54E4L1|RMX3371|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
-|realme|realme GT Neo5|RE5C33|RMX3820|
-|realme|realme GT Neo5 240W|RE5C33|RMX3823|
 |realme|realme GT3 240W|REE2B2L1|RMX3709|
+|realme|realme GT5|RE5C33|RMX3820|
+|realme|realme GT5 240W|RE5C33|RMX3823|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Pad X|RE5496|RMP2108|
 |realme|realme Pad X|RE54F2L1|RMP2107|
