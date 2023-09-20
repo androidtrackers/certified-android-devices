@@ -10208,6 +10208,13 @@
    "model": "ATAB821E"
   }
  ],
+ "ATABKD1024K": [
+  {
+   "brand": "Acer",
+   "device": "ATABKD1024K",
+   "model": "ATABKD1024K"
+  }
+ ],
  "ATL1021EA": [
   {
    "brand": "Acer",
@@ -35698,6 +35705,16 @@
   }
  ],
  "M10L PLUS": [
+  {
+   "brand": "Blu",
+   "device": "M0223",
+   "model": "M10L PLUS"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0223_EX",
+   "model": "M10L PLUS"
+  },
   {
    "brand": "Blu",
    "device": "M0223_ND",
@@ -156327,6 +156344,13 @@
    "model": "Orange Rise 55"
   }
  ],
+ "Orange ES VSB3918": [
+  {
+   "brand": "Orange",
+   "device": "m393vsb_osp",
+   "model": "Orange ES VSB3918"
+  }
+ ],
  "Orange Neva leaf": [
   {
    "brand": "Orange",
@@ -158668,6 +158692,13 @@
    "brand": "Packard Bell",
    "device": "SILVERSTONE-T11",
    "model": "BL.9UEEP.209"
+  }
+ ],
+ "SILVERSTONE-T18": [
+  {
+   "brand": "Packard Bell",
+   "device": "SILVERSTONE-T18",
+   "model": "BL.9UEEP.210"
   }
  ],
  "T1000": [
@@ -174138,7 +174169,7 @@
    "model": "NovaTab_R10"
   }
  ],
- "RQ-G": [
+ "RoadQuest": [
   {
    "brand": "RoadQuest",
    "device": "RQ-G",
@@ -187240,6 +187271,33 @@
    "model": "SM-S911W"
   }
  ],
+ "Galaxy S23 FE": [
+  {
+   "brand": "Samsung",
+   "device": "r11q",
+   "model": "SM-S7110"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r11q",
+   "model": "SM-S711U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r11q",
+   "model": "SM-S711U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r11q",
+   "model": "SM-S711W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r11s",
+   "model": "SM-S711B"
+  }
+ ],
  "Galaxy S23 Ultra": [
   {
    "brand": "Samsung",
@@ -189983,6 +190041,23 @@
    "model": "SM-X200"
   }
  ],
+ "Galaxy Tab A9": [
+  {
+   "brand": "Samsung",
+   "device": "gta9",
+   "model": "SM-X115"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta9",
+   "model": "SM-X115N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta9",
+   "model": "SM-X117"
+  }
+ ],
  "Galaxy Tab Active": [
   {
    "brand": "Samsung",
@@ -190975,6 +191050,13 @@
    "model": "SM-X716N"
   }
  ],
+ "Galaxy Tab S9 FE": [
+  {
+   "brand": "Samsung",
+   "device": "gts9fewifi",
+   "model": "SM-X510"
+  }
+ ],
  "Galaxy Tab S9 FE 5G": [
   {
    "brand": "Samsung",
@@ -190995,6 +191077,13 @@
    "brand": "Samsung",
    "device": "gts9fe",
    "model": "SM-X518U"
+  }
+ ],
+ "Galaxy Tab S9 FE+": [
+  {
+   "brand": "Samsung",
+   "device": "gts9fepwifi",
+   "model": "SM-X610"
   }
  ],
  "Galaxy Tab S9 FE+ 5G": [
@@ -201094,6 +201183,21 @@
   }
  ],
  "Xperia 5 V": [
+  {
+   "brand": "Sony",
+   "device": "SO-53D",
+   "model": "SO-53D"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG12",
+   "model": "SOG12"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-DE44",
+   "model": "XQ-DE44"
+  },
   {
    "brand": "Sony",
    "device": "XQ-DE54",
@@ -230123,6 +230227,13 @@
    "brand": "Viettel",
    "device": "HP40A",
    "model": "ViettelTV 4K Box"
+  }
+ ],
+ "IFP8652-2": [
+  {
+   "brand": "ViewSonic",
+   "device": "IFP8652-2",
+   "model": "IFP8652-2"
   }
  ],
  "VIEWSONIC": [

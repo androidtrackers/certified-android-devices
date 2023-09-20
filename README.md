@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-19
+Last sync is 2023-09-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -402,6 +402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ATAB721E|ATAB721E|ATAB721E|
 |Acer|ATAB723E|ATAB723E|ATAB723E|
 |Acer|ATAB821E|ATAB821E|ATAB821E|
+|Acer|ATABKD1024K|ATABKD1024K|ATABKD1024K|
 |Acer|ATL1021EA|ATL1021EA|ATL1021EA|
 |Acer|ATLTE1022|ATLTE1022|ATLTE1022|
 |Acer|ATLTE1022E|ATLTE1022E|ATLTE1022E|
@@ -3752,6 +3753,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Life One X3|L0150WW|Life One X3|
 |Blu|M10L|M0178_ND|M10L|
 |Blu|M10L|M0190WW|M10L|
+|Blu|M10L PLUS|M0223|M10L PLUS|
+|Blu|M10L PLUS|M0223_EX|M10L PLUS|
 |Blu|M10L PLUS|M0223_ND|M10L PLUS|
 |Blu|M10L PLUS|M0224_ND|M10L PLUS|
 |Blu|M10L Pro|M0214_ND|M10L Pro|
@@ -23139,6 +23142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Nura|M812|Orange Nura|
 |Orange|Nura2|m823_orange|Nura 2|
 |Orange|Orange|Rise_55|Orange Rise 55|
+|Orange|Orange ES VSB3918|m393vsb_osp|Orange ES VSB3918|
 |Orange|Orange Neva leaf|Neva_leaf|Orange Neva leaf|
 |Orange|Orange Neva play|Neva_play|Orange Neva play|
 |Orange|Orange Neva sparkle|Neva_sparkle|Orange Neva sparkle|
@@ -23513,6 +23517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|PB9000-32|PB9000-32|PB9000-32|
 |Packard Bell|SILVERSTONE-T10|SILVERSTONE-T10|SILVERSTONE-T10|
 |Packard Bell|SILVERSTONE-T11|SILVERSTONE-T11|BL.9UEEP.209|
+|Packard Bell|SILVERSTONE-T18|SILVERSTONE-T18|BL.9UEEP.210|
 |Packard Bell|T1000|T1000|T1000|
 |PadBook|PadBook|PadBook|PadBook|
 |Palm|PVG100|Pepito|PVG100|
@@ -25971,7 +25976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Rixun|T107|T107|T107|
 |Rizzen|NovaTab_R10|NovaTab_R10|NovaTab_R10|
-|RoadQuest|RQ-G|RQ-G|RQ-G|
+|RoadQuest|RoadQuest|RQ-G|RQ-G|
 |RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
@@ -28329,6 +28334,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23|dm1q|SM-S911U|
 |Samsung|Galaxy S23|dm1q|SM-S911U1|
 |Samsung|Galaxy S23|dm1q|SM-S911W|
+|Samsung|Galaxy S23 FE|r11q|SM-S7110|
+|Samsung|Galaxy S23 FE|r11q|SM-S711U|
+|Samsung|Galaxy S23 FE|r11q|SM-S711U1|
+|Samsung|Galaxy S23 FE|r11q|SM-S711W|
+|Samsung|Galaxy S23 FE|r11s|SM-S711B|
 |Samsung|Galaxy S23 Ultra|SC-52D|SC-52D|
 |Samsung|Galaxy S23 Ultra|SCG20|SCG20|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S9180|
@@ -28844,6 +28854,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A8|gta8|SM-X205N|
 |Samsung|Galaxy Tab A8|gta8|SM-X207|
 |Samsung|Galaxy Tab A8|gta8wifi|SM-X200|
+|Samsung|Galaxy Tab A9|gta9|SM-X115|
+|Samsung|Galaxy Tab A9|gta9|SM-X115N|
+|Samsung|Galaxy Tab A9|gta9|SM-X117|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
@@ -29026,10 +29039,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S9|gts9wifi|SM-X710|
 |Samsung|Galaxy Tab S9 5G|gts9|SM-X716B|
 |Samsung|Galaxy Tab S9 5G|gts9|SM-X716N|
+|Samsung|Galaxy Tab S9 FE|gts9fewifi|SM-X510|
 |Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516B|
 |Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516C|
 |Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516N|
 |Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X518U|
+|Samsung|Galaxy Tab S9 FE+|gts9fepwifi|SM-X610|
 |Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616B|
 |Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616C|
 |Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616N|
@@ -30704,6 +30719,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 IV|XQ-CQ54|XQ-CQ54|
 |Sony|Xperia 5 IV|XQ-CQ62|XQ-CQ62|
 |Sony|Xperia 5 IV|XQ-CQ72|XQ-CQ72|
+|Sony|Xperia 5 V|SO-53D|SO-53D|
+|Sony|Xperia 5 V|SOG12|SOG12|
+|Sony|Xperia 5 V|XQ-DE44|XQ-DE44|
 |Sony|Xperia 5 V|XQ-DE54|XQ-DE54|
 |Sony|Xperia 5 V|XQ-DE72|XQ-DE72|
 |Sony|Xperia 8|902SO|902SO|
@@ -35705,6 +35723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic||viewpad7|ViewPad7|
 |ViewSonic||viewpad7x|ViewPad7X|
 |ViewSonic||viewpad7x|ViewPad7x|
+|ViewSonic|IFP8652-2|IFP8652-2|IFP8652-2|
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
 |ViewSonic|VPC-A31-O1|VPC-A31-O1|VPC-A31-O1|

@@ -2170,6 +2170,11 @@
    "model": "ATAB821E"
   },
   {
+   "device": "ATABKD1024K",
+   "name": "ATABKD1024K",
+   "model": "ATABKD1024K"
+  },
+  {
    "device": "ATL1021EA",
    "name": "ATL1021EA",
    "model": "ATL1021EA"
@@ -19328,6 +19333,16 @@
    "device": "M0190WW",
    "name": "M10L",
    "model": "M10L"
+  },
+  {
+   "device": "M0223",
+   "name": "M10L PLUS",
+   "model": "M10L PLUS"
+  },
+  {
+   "device": "M0223_EX",
+   "name": "M10L PLUS",
+   "model": "M10L PLUS"
   },
   {
    "device": "M0223_ND",
@@ -118995,6 +119010,11 @@
    "model": "Orange Rise 55"
   },
   {
+   "device": "m393vsb_osp",
+   "name": "Orange ES VSB3918",
+   "model": "Orange ES VSB3918"
+  },
+  {
    "device": "Neva_leaf",
    "name": "Orange Neva leaf",
    "model": "Orange Neva leaf"
@@ -120957,6 +120977,11 @@
    "device": "SILVERSTONE-T11",
    "name": "SILVERSTONE-T11",
    "model": "BL.9UEEP.209"
+  },
+  {
+   "device": "SILVERSTONE-T18",
+   "name": "SILVERSTONE-T18",
+   "model": "BL.9UEEP.210"
   },
   {
    "device": "T1000",
@@ -133584,7 +133609,7 @@
  "RoadQuest": [
   {
    "device": "RQ-G",
-   "name": "RQ-G",
+   "name": "RoadQuest",
    "model": "RQ-G"
   }
  ],
@@ -145567,6 +145592,31 @@
    "model": "SM-S911W"
   },
   {
+   "device": "r11q",
+   "name": "Galaxy S23 FE",
+   "model": "SM-S7110"
+  },
+  {
+   "device": "r11q",
+   "name": "Galaxy S23 FE",
+   "model": "SM-S711U"
+  },
+  {
+   "device": "r11q",
+   "name": "Galaxy S23 FE",
+   "model": "SM-S711U1"
+  },
+  {
+   "device": "r11q",
+   "name": "Galaxy S23 FE",
+   "model": "SM-S711W"
+  },
+  {
+   "device": "r11s",
+   "name": "Galaxy S23 FE",
+   "model": "SM-S711B"
+  },
+  {
    "device": "SC-52D",
    "name": "Galaxy S23 Ultra",
    "model": "SC-52D"
@@ -148142,6 +148192,21 @@
    "model": "SM-X200"
   },
   {
+   "device": "gta9",
+   "name": "Galaxy Tab A9",
+   "model": "SM-X115"
+  },
+  {
+   "device": "gta9",
+   "name": "Galaxy Tab A9",
+   "model": "SM-X115N"
+  },
+  {
+   "device": "gta9",
+   "name": "Galaxy Tab A9",
+   "model": "SM-X117"
+  },
+  {
    "device": "rubenslte",
    "name": "Galaxy Tab Active",
    "model": "SM-T365"
@@ -149052,6 +149117,11 @@
    "model": "SM-X716N"
   },
   {
+   "device": "gts9fewifi",
+   "name": "Galaxy Tab S9 FE",
+   "model": "SM-X510"
+  },
+  {
    "device": "gts9fe",
    "name": "Galaxy Tab S9 FE 5G",
    "model": "SM-X516B"
@@ -149070,6 +149140,11 @@
    "device": "gts9fe",
    "name": "Galaxy Tab S9 FE 5G",
    "model": "SM-X518U"
+  },
+  {
+   "device": "gts9fepwifi",
+   "name": "Galaxy Tab S9 FE+",
+   "model": "SM-X610"
   },
   {
    "device": "gts9fep",
@@ -157614,6 +157689,21 @@
    "device": "XQ-CQ72",
    "name": "Xperia 5 IV",
    "model": "XQ-CQ72"
+  },
+  {
+   "device": "SO-53D",
+   "name": "Xperia 5 V",
+   "model": "SO-53D"
+  },
+  {
+   "device": "SOG12",
+   "name": "Xperia 5 V",
+   "model": "SOG12"
+  },
+  {
+   "device": "XQ-DE44",
+   "name": "Xperia 5 V",
+   "model": "XQ-DE44"
   },
   {
    "device": "XQ-DE54",
@@ -183353,6 +183443,11 @@
    "device": "viewpad7x",
    "name": "",
    "model": "ViewPad7x"
+  },
+  {
+   "device": "IFP8652-2",
+   "name": "IFP8652-2",
+   "model": "IFP8652-2"
   },
   {
    "device": "Q5",
