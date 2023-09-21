@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-20
+Last sync is 2023-09-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -218,6 +218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASTON|IDEA|IDEA|IDEA|
 |ASTON|NEO|NEO|NEO|
 |AT&T|9020A|tint8_att|9020A|
+|AT&T|AT&T Calypso® 4|U380AA|U380AA|
 |AT&T|AT&T Maestro™ Plus|v350u|V350U|
 |AT&T|AT&T Motivate™ 2|EA211002|EA211002|
 |AT&T|AT&T Propel™ 5G|U6080AA|U6080AA|
@@ -5437,6 +5438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crelander|Z103|Z103|Z103|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
 |Cricket|DEMK4120|SL100EA|SL100EA|
+|Cricket|Cricket Debut S2™|U380AC|U380AC|
 |Cricket|Cricket® Dream 5G|EC211001|EC211001|
 |Cricket|Cricket® Icon 3|EC211002|EC211002|
 |Cricket|Cricket® Icon 4|WTCKT01|WTCKT01|
@@ -6710,6 +6712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|Y88X_PRO|Y88X_PRO|Y88X_PRO|
 |Dragontouch|Y88X_PRO_EEA|Y88X_PRO|Y88X_PRO|
 |Dragontouch|Y88X__PLUS|Y88X__PLUS|Y88X__PLUS|
+|DreamMaker|DreamMaker|DPLAY|DPLAY|
 |Dreamax|DMX-ST7A|DMX-ST7A|DMX-ST7A|
 |Dtac|Phone M2|dtacPhoneM2|dtacPhoneM2|
 |Dtac|Phone S2|dtacPhoneS2|dtac_Phone_S2|
@@ -8795,6 +8798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Go Mobile|X1|X1|X1|
 |Go Mobile|X2|X2|X2|
 |Go Mobile|X6|GM|X6|
+|Go3 Baltics|Skyworth|HP44H|Go3 BOX|
 |GoClever|INSIGNIA 550i|INSIGNIA_550i|INSIGNIA_550i|
 |GoClever|QUANTUM 1010N|QUANTUM_1010N|QUANTUM_1010N|
 |GoClever|QUANTUM 400 LITE|QUANTUM_400_LITE|QUANTUM_400_LITE|
@@ -13086,6 +13090,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI SMART TV|SW6H|HYUNDAI SMART TV|
 |Hyundai|HYUNDAI SMART TV|sunnyvale|HYUNDAI SMART TV|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
+|Hyundai|HyLine_Plus|HY65PB1401NA|65PB1|
+|Hyundai|HyLine_Plus_2|HY65PB1401NA|65PB1|
+|Hyundai|HyLine_Pro_X|HY65PA1401NA|65PA1|
 |Hyundai|HyTab_Plus_10LC2|HyTab_Plus_10LC2|HyTab Plus 10LC2|
 |Hyundai|HyTab_Plus_7WA1|7WA1|7WA1|
 |Hyundai|Hyundai|bangbae|Hyundai 4K Android TV|
@@ -13199,6 +13206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IIIF150|Air1 Ultra|Air1_Ultra|Air1 Ultra|
 |IIIF150|B1|B1|B1|
 |IIIF150|B1 Pro|B1_Pro|B1 Pro|
+|IIIF150|B2 Ultra|B2_Ultra|B2 Ultra|
 |IKALL|IKALL|IKALL|IKALL|
 |IKALL|N4|N4|N4|
 |IKALL|N5|N5|N5|
@@ -22831,6 +22839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
+|Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|

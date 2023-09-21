@@ -3245,6 +3245,13 @@
    "device": "tint8_att"
   }
  ],
+ "U380AA": [
+  {
+   "brand": "AT&T",
+   "name": "AT&T Calypso® 4",
+   "device": "U380AA"
+  }
+ ],
  "V350U": [
   {
    "brand": "AT&T",
@@ -41986,6 +41993,13 @@
    "device": "SL100EA"
   }
  ],
+ "U380AC": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket Debut S2™",
+   "device": "U380AC"
+  }
+ ],
  "EC211001": [
   {
    "brand": "Cricket",
@@ -51014,6 +51028,13 @@
    "brand": "Dragontouch",
    "name": "Y88X__PLUS",
    "device": "Y88X__PLUS"
+  }
+ ],
+ "DPLAY": [
+  {
+   "brand": "DreamMaker",
+   "name": "DreamMaker",
+   "device": "DPLAY"
   }
  ],
  "DMX-ST7A": [
@@ -65778,6 +65799,13 @@
    "brand": "X-TEK",
    "name": "X2",
    "device": "X2"
+  }
+ ],
+ "Go3 BOX": [
+  {
+   "brand": "Go3 Baltics",
+   "name": "Skyworth",
+   "device": "HP44H"
   }
  ],
  "INSIGNIA_550i": [
@@ -94120,6 +94148,25 @@
    "device": "HY_BDL163G_001_EEA"
   }
  ],
+ "65PB1": [
+  {
+   "brand": "Hyundai",
+   "name": "HyLine_Plus",
+   "device": "HY65PB1401NA"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HyLine_Plus_2",
+   "device": "HY65PB1401NA"
+  }
+ ],
+ "65PA1": [
+  {
+   "brand": "Hyundai",
+   "name": "HyLine_Pro_X",
+   "device": "HY65PA1401NA"
+  }
+ ],
  "HyTab Plus 10LC2": [
   {
    "brand": "Hyundai",
@@ -94837,6 +94884,13 @@
    "brand": "IIIF150",
    "name": "Air1 Ultra",
    "device": "Air1_Ultra"
+  }
+ ],
+ "B2 Ultra": [
+  {
+   "brand": "IIIF150",
+   "name": "B2 Ultra",
+   "device": "B2_Ultra"
   }
  ],
  "IKALL": [
@@ -157092,6 +157146,13 @@
    "brand": "Oppo",
    "name": "OPPO Pad Air",
    "device": "OP5225"
+  }
+ ],
+ "PHW110": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno10 5G",
+   "device": "OP5655"
   }
  ],
  "PHU110": [

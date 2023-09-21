@@ -1186,6 +1186,11 @@
    "model": "9020A"
   },
   {
+   "device": "U380AA",
+   "name": "AT&T Calypso® 4",
+   "model": "U380AA"
+  },
+  {
    "device": "v350u",
    "name": "AT&T Maestro™ Plus",
    "model": "V350U"
@@ -28123,6 +28128,11 @@
    "model": "SL100EA"
   },
   {
+   "device": "U380AC",
+   "name": "Cricket Debut S2™",
+   "model": "U380AC"
+  },
+  {
    "device": "EC211001",
    "name": "Cricket® Dream 5G",
    "model": "EC211001"
@@ -34716,6 +34726,13 @@
    "device": "Y88X__PLUS",
    "name": "Y88X__PLUS",
    "model": "Y88X__PLUS"
+  }
+ ],
+ "DreamMaker": [
+  {
+   "device": "DPLAY",
+   "name": "DreamMaker",
+   "model": "DPLAY"
   }
  ],
  "Dreamax": [
@@ -45707,6 +45724,13 @@
    "device": "GM",
    "name": "X6",
    "model": "X6"
+  }
+ ],
+ "Go3 Baltics": [
+  {
+   "device": "HP44H",
+   "name": "Skyworth",
+   "model": "Go3 BOX"
   }
  ],
  "GoClever": [
@@ -67414,6 +67438,21 @@
    "model": "HY-BDL163G-001"
   },
   {
+   "device": "HY65PB1401NA",
+   "name": "HyLine_Plus",
+   "model": "65PB1"
+  },
+  {
+   "device": "HY65PB1401NA",
+   "name": "HyLine_Plus_2",
+   "model": "65PB1"
+  },
+  {
+   "device": "HY65PA1401NA",
+   "name": "HyLine_Pro_X",
+   "model": "65PA1"
+  },
+  {
    "device": "HyTab_Plus_10LC2",
    "name": "HyTab_Plus_10LC2",
    "model": "HyTab Plus 10LC2"
@@ -68003,6 +68042,11 @@
    "device": "B1_Pro",
    "name": "B1 Pro",
    "model": "B1 Pro"
+  },
+  {
+   "device": "B2_Ultra",
+   "name": "B2 Ultra",
+   "model": "B2 Ultra"
   }
  ],
  "IKALL": [
@@ -117445,6 +117489,11 @@
    "device": "OP5225",
    "name": "OPPO Pad Air",
    "model": "OPD2102"
+  },
+  {
+   "device": "OP5655",
+   "name": "OPPO Reno10 5G",
+   "model": "PHW110"
   },
   {
    "device": "OP564B",

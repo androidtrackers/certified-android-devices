@@ -8737,6 +8737,13 @@
    "model": "9020A"
   }
  ],
+ "AT&T Calypso® 4": [
+  {
+   "brand": "AT&T",
+   "device": "U380AA",
+   "model": "U380AA"
+  }
+ ],
  "AT&T Maestro™ Plus": [
   {
    "brand": "AT&T",
@@ -48171,6 +48178,13 @@
    "model": "SL100EA"
   }
  ],
+ "Cricket Debut S2™": [
+  {
+   "brand": "Cricket",
+   "device": "U380AC",
+   "model": "U380AC"
+  }
+ ],
  "Cricket® Dream 5G": [
   {
    "brand": "Cricket",
@@ -57674,6 +57688,13 @@
    "brand": "Dragontouch",
    "device": "Y88X__PLUS",
    "model": "Y88X__PLUS"
+  }
+ ],
+ "DreamMaker": [
+  {
+   "brand": "DreamMaker",
+   "device": "DPLAY",
+   "model": "DPLAY"
   }
  ],
  "DMX-ST7A": [
@@ -72455,6 +72476,18 @@
    "brand": "X-TEK",
    "device": "X2",
    "model": "X2"
+  }
+ ],
+ "Skyworth": [
+  {
+   "brand": "Go3 Baltics",
+   "device": "HP44H",
+   "model": "Go3 BOX"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "grape",
+   "model": "HPA02"
   }
  ],
  "INSIGNIA 550i": [
@@ -96676,6 +96709,27 @@
    "model": "HY-BDL163G-001"
   }
  ],
+ "HyLine_Plus": [
+  {
+   "brand": "Hyundai",
+   "device": "HY65PB1401NA",
+   "model": "65PB1"
+  }
+ ],
+ "HyLine_Plus_2": [
+  {
+   "brand": "Hyundai",
+   "device": "HY65PB1401NA",
+   "model": "65PB1"
+  }
+ ],
+ "HyLine_Pro_X": [
+  {
+   "brand": "Hyundai",
+   "device": "HY65PA1401NA",
+   "model": "65PA1"
+  }
+ ],
  "HyTab_Plus_10LC2": [
   {
    "brand": "Hyundai",
@@ -97343,6 +97397,13 @@
    "brand": "IIIF150",
    "device": "Air1_Ultra",
    "model": "Air1 Ultra"
+  }
+ ],
+ "B2 Ultra": [
+  {
+   "brand": "IIIF150",
+   "device": "B2_Ultra",
+   "model": "B2 Ultra"
   }
  ],
  "IKALL": [
@@ -154285,6 +154346,13 @@
    "model": "OPD2102"
   }
  ],
+ "OPPO Reno10 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5655",
+   "model": "PHW110"
+  }
+ ],
  "OPPO Reno10 Pro+ 5G": [
   {
    "brand": "Oppo",
@@ -199501,13 +199569,6 @@
    "brand": "Skyworth",
    "device": "HP40A",
    "model": "NT-01"
-  }
- ],
- "Skyworth": [
-  {
-   "brand": "Skyworth",
-   "device": "grape",
-   "model": "HPA02"
   }
  ],
  "UrTV1": [
