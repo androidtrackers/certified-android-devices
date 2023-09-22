@@ -27878,6 +27878,11 @@
    "model": "Gplus X10"
   },
   {
+   "brand": "HOLO",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
    "brand": "Kenxinda",
    "device": "X10",
    "model": "X10"
@@ -154466,6 +154471,13 @@
    "model": "CPH2357"
   }
  ],
+ "OPPO Reno8 T": [
+  {
+   "brand": "Oppo",
+   "device": "OP5709L1",
+   "model": "CPH2481"
+  }
+ ],
  "OPPO Reno9 Pro 5G": [
   {
    "brand": "Oppo",
@@ -158536,6 +158548,13 @@
    "brand": "PRIMA",
    "device": "kenton",
    "model": "PRIMA 4K Android TV"
+  }
+ ],
+ "4K Smart TV Plus": [
+  {
+   "brand": "PRISMPLUS",
+   "device": "anaheim",
+   "model": "4K Smart TV Plus"
   }
  ],
  "PrismPlus 2KA": [
@@ -178198,6 +178217,28 @@
    "model": "SM-A055M"
   }
  ],
+ "Galaxy A05s": [
+  {
+   "brand": "Samsung",
+   "device": "a05s",
+   "model": "SM-A057F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a05s",
+   "model": "SM-A057G"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a05s",
+   "model": "SM-E145F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a05s",
+   "model": "SM-M145F"
+  }
+ ],
  "Galaxy A10": [
   {
    "brand": "Samsung",
@@ -190124,6 +190165,11 @@
    "brand": "Samsung",
    "device": "gta9",
    "model": "SM-X117"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta9wifi",
+   "model": "SM-X110"
   }
  ],
  "Galaxy Tab Active": [
@@ -257375,6 +257421,13 @@
    "model": "RMX3636"
   }
  ],
+ "realme 11 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C6CL1",
+   "model": "RMX3780"
+  }
+ ],
  "realme 11 Pro 5G": [
   {
    "brand": "realme",
@@ -257387,6 +257440,13 @@
    "brand": "realme",
    "device": "RE58B6L1",
    "model": "RMX3741"
+  }
+ ],
+ "realme 11x 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C6CL1",
+   "model": "RMX3785"
   }
  ],
  "realme 4K G Smart TV": [
@@ -257747,6 +257807,18 @@
    "model": "RMX2117"
   }
  ],
+ "realme Pad 2": [
+  {
+   "brand": "realme",
+   "device": "RE5C6EL1",
+   "model": "RMP2204"
+  },
+  {
+   "brand": "realme",
+   "device": "RE5C70L1",
+   "model": "RMP2205"
+  }
+ ],
  "realme Pad X": [
   {
    "brand": "realme",
@@ -257969,6 +258041,13 @@
    "brand": "realme",
    "device": "RE58B1L1",
    "model": "RMX3750"
+  }
+ ],
+ "realme narzo 60x 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C6CL1",
+   "model": "RMX3782"
   }
  ],
  "realme narzo N53": [

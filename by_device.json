@@ -53520,6 +53520,11 @@
    "model": "Gplus X10"
   },
   {
+   "brand": "HOLO",
+   "name": "X10",
+   "model": "X10"
+  },
+  {
    "brand": "Kenxinda",
    "name": "X10",
    "model": "X10"
@@ -154849,6 +154854,13 @@
    "model": "CPH2357"
   }
  ],
+ "OP5709L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno8 T",
+   "model": "CPH2481"
+  }
+ ],
  "OP5601": [
   {
    "brand": "Oppo",
@@ -159082,6 +159094,38 @@
    "brand": "PRAZteck",
    "name": "PT7EduPad",
    "model": "PT7EduPad"
+  }
+ ],
+ "anaheim": [
+  {
+   "brand": "PRISMPLUS",
+   "name": "4K Smart TV Plus",
+   "model": "4K Smart TV Plus"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE-4K",
+   "model": "SWTV-22AE-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22HK-4K NF",
+   "model": "SWTV-22HK-4K NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22NA-4K",
+   "model": "SWTV-22NA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22SA-4K",
+   "model": "SWTV-22SA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22TGS-4K",
+   "model": "SWTV-22TGS-4K"
   }
  ],
  "K726": [
@@ -176984,33 +177028,6 @@
    "model": "S66"
   }
  ],
- "anaheim": [
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22AE-4K",
-   "model": "SWTV-22AE-4K"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22HK-4K NF",
-   "model": "SWTV-22HK-4K NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22NA-4K",
-   "model": "SWTV-22NA-4K"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22SA-4K",
-   "model": "SWTV-22SA-4K"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22TGS-4K",
-   "model": "SWTV-22TGS-4K"
-  }
- ],
  "SLTDVD1024_B": [
   {
    "brand": "SYLVANIA",
@@ -177993,6 +178010,28 @@
    "brand": "Samsung",
    "name": "Galaxy A05",
    "model": "SM-A055M"
+  }
+ ],
+ "a05s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05s",
+   "model": "SM-A057F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05s",
+   "model": "SM-A057G"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05s",
+   "model": "SM-E145F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05s",
+   "model": "SM-M145F"
   }
  ],
  "a10e": [
@@ -191756,6 +191795,13 @@
    "brand": "Samsung",
    "name": "Galaxy Tab A9",
    "model": "SM-X117"
+  }
+ ],
+ "gta9wifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A9",
+   "model": "SM-X110"
   }
  ],
  "rubenslte": [
@@ -259280,6 +259326,23 @@
    "model": "RMX3636"
   }
  ],
+ "RE5C6CL1": [
+  {
+   "brand": "realme",
+   "name": "realme 11 5G",
+   "model": "RMX3780"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 11x 5G",
+   "model": "RMX3785"
+  },
+  {
+   "brand": "realme",
+   "name": "realme narzo 60x 5G",
+   "model": "RMX3782"
+  }
+ ],
  "RE58B6L1": [
   {
    "brand": "realme",
@@ -259590,6 +259653,20 @@
    "brand": "realme",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
+  }
+ ],
+ "RE5C6EL1": [
+  {
+   "brand": "realme",
+   "name": "realme Pad 2",
+   "model": "RMP2204"
+  }
+ ],
+ "RE5C70L1": [
+  {
+   "brand": "realme",
+   "name": "realme Pad 2",
+   "model": "RMP2205"
   }
  ],
  "RE5496": [

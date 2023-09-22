@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-21
+Last sync is 2023-09-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9090,6 +9090,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HMR NETWORKS|HMR NETWORKS (PTY) LTD|HMR5012|HMR5012|
 |HOLO|USA|VE1983|VE1983|
 |HOLO|VE0319|VE0319|VE0319|
+|HOLO|X10|X10|X10|
 |HOMII|HOMII M6|M6|M6|
 |HOMII|XBOOK|XBOOK|XBOOK|
 |HOMII|XBOOK_PRO|XBOOK_PRO|XBOOK_PRO|
@@ -22857,6 +22858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno7/F21 Pro|OP533FL1|CPH2363|
 |Oppo|OPPO Reno8 5G|OP5339L1|CPH2359|
 |Oppo|OPPO Reno8 Pro 5G|OP5335L1|CPH2357|
+|Oppo|OPPO Reno8 T|OP5709L1|CPH2481|
 |Oppo|OPPO Reno9 Pro 5G|OP5601|PGX110|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
@@ -23492,6 +23494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
 |PRIMA|PRIMA 4K Android TV|kenton|PRIMA 4K Android TV|
+|PRISMPLUS|4K Smart TV Plus|anaheim|4K Smart TV Plus|
 |PRISMPLUS|PrismPlus 2KA|umeda|PrismPlus 2KA|
 |PRISMPLUS|PrismPlus 4K Android TV|SW4H|PrismPlus 4K Android TV|
 |PRISMPLUS|PrismPlus 4K Pro Android TV|SW4H_FF|PrismPlus 4K Pro Android TV|
@@ -26671,6 +26674,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A04s|a04s|SM-A047M|
 |Samsung|Galaxy A05|a05m|SM-A055F|
 |Samsung|Galaxy A05|a05m|SM-A055M|
+|Samsung|Galaxy A05s|a05s|SM-A057F|
+|Samsung|Galaxy A05s|a05s|SM-A057G|
+|Samsung|Galaxy A05s|a05s|SM-E145F|
+|Samsung|Galaxy A05s|a05s|SM-M145F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -28866,6 +28873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A9|gta9|SM-X115|
 |Samsung|Galaxy Tab A9|gta9|SM-X115N|
 |Samsung|Galaxy Tab A9|gta9|SM-X117|
+|Samsung|Galaxy Tab A9|gta9wifi|SM-X110|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
@@ -40412,8 +40420,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 10s|RE5851|RMX3617|
 |realme|realme 11|RE5852|RMX3751|
 |realme|realme 11|RE5C7CL1|RMX3636|
+|realme|realme 11 5G|RE5C6CL1|RMX3780|
 |realme|realme 11 Pro 5G|RE58B8L1|RMX3771|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
+|realme|realme 11x 5G|RE5C6CL1|RMX3785|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -40486,6 +40496,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT5|RE5C33|RMX3820|
 |realme|realme GT5 240W|RE5C33|RMX3823|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
+|realme|realme Pad 2|RE5C6EL1|RMP2204|
+|realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad X|RE5496|RMP2108|
 |realme|realme Pad X|RE54F2L1|RMP2107|
 |realme|realme Pad X|RE54F2L1|RMP2108|
@@ -40526,6 +40538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 50i|RED8FA|RMX3235|
 |realme|realme narzo 50i Prime|RE588E|RMX3506|
 |realme|realme narzo 60 5G|RE58B1L1|RMX3750|
+|realme|realme narzo 60x 5G|RE5C6CL1|RMX3782|
 |realme|realme narzo N53|RE58C6|RMX3761|
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
