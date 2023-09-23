@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-22
+Last sync is 2023-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14308,6 +14308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A16 Plus|itel-A16-Plus-BD|itel A16 Plus|
 |Itel|itel A17|itel-W5006X|itel W5006X|
 |Itel|itel A18|itel-A512W|itel A512W|
+|Itel|itel A18s|itel-A513W|itel A513W|
 |Itel|itel A20|itel-A20|itel A20|
 |Itel|itel A23|itel-A23|itel A23|
 |Itel|itel A23|itel-A23|itel A23R|
@@ -22836,6 +22837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
+|Oppo|OPPO K11 5G|OP591D|PJC110|
 |Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
@@ -25818,6 +25820,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12S|ocean|2303ERA42L|
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
 |Redmi|Redmi Note 12T Pro|pearl|23054RA19C|
+|Redmi|Redmi Note 13 5G|gold|2312DRAABC|
+|Redmi|Redmi Note 13 Pro+|zircon|23090RA98C|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|

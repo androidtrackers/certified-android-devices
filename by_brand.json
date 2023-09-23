@@ -73704,6 +73704,11 @@
    "model": "itel A512W"
   },
   {
+   "device": "itel-A513W",
+   "name": "itel A18s",
+   "model": "itel A513W"
+  },
+  {
    "device": "itel-A20",
    "name": "itel A20",
    "model": "itel A20"
@@ -117476,6 +117481,11 @@
    "model": "CPH2341"
   },
   {
+   "device": "OP591D",
+   "name": "OPPO K11 5G",
+   "model": "PJC110"
+  },
+  {
    "device": "OP5223",
    "name": "OPPO Pad",
    "model": "OPD2101"
@@ -132776,6 +132786,16 @@
    "device": "pearl",
    "name": "Redmi Note 12T Pro",
    "model": "23054RA19C"
+  },
+  {
+   "device": "gold",
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABC"
+  },
+  {
+   "device": "zircon",
+   "name": "Redmi Note 13 Pro+",
+   "model": "23090RA98C"
   },
   {
    "device": "lavender",

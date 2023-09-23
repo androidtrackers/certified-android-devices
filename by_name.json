@@ -104354,6 +104354,13 @@
    "model": "VIMOQ A512WS"
   }
  ],
+ "itel A18s": [
+  {
+   "brand": "Itel",
+   "device": "itel-A513W",
+   "model": "itel A513W"
+  }
+ ],
  "itel A20": [
   {
    "brand": "Itel",
@@ -154325,6 +154332,13 @@
    "model": "CPH2341"
   }
  ],
+ "OPPO K11 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP591D",
+   "model": "PJC110"
+  }
+ ],
  "OPPO Pad": [
   {
    "brand": "Oppo",
@@ -173194,6 +173208,20 @@
    "brand": "Redmi",
    "device": "pearl",
    "model": "23054RA19C"
+  }
+ ],
+ "Redmi Note 13 5G": [
+  {
+   "brand": "Redmi",
+   "device": "gold",
+   "model": "2312DRAABC"
+  }
+ ],
+ "Redmi Note 13 Pro+": [
+  {
+   "brand": "Redmi",
+   "device": "zircon",
+   "model": "23090RA98C"
   }
  ],
  "Redmi Note 7": [

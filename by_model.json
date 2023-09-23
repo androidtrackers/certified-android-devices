@@ -102174,6 +102174,13 @@
    "device": "itel-A16-Plus"
   }
  ],
+ "itel A513W": [
+  {
+   "brand": "Itel",
+   "name": "itel A18s",
+   "device": "itel-A513W"
+  }
+ ],
  "itel A20": [
   {
    "brand": "Itel",
@@ -157125,6 +157132,13 @@
    "device": "OP532FL1"
   }
  ],
+ "PJC110": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO K11 5G",
+   "device": "OP591D"
+  }
+ ],
  "OPD2101": [
   {
    "brand": "Oppo",
@@ -176381,6 +176395,20 @@
    "brand": "Redmi",
    "name": "Redmi Note 12T Pro",
    "device": "pearl"
+  }
+ ],
+ "2312DRAABC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 5G",
+   "device": "gold"
+  }
+ ],
+ "23090RA98C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro+",
+   "device": "zircon"
   }
  ],
  "M1908C3JGG": [
