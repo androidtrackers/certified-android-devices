@@ -697,6 +697,11 @@
    "model": "AGM_H5_PRO"
   },
   {
+   "device": "AGM_H6",
+   "name": "AGM_H6",
+   "model": "AGM_H6"
+  },
+  {
    "device": "AGM_Note_N1",
    "name": "AGM_Note_N1",
    "model": "AGM_Note_N1"
@@ -67348,6 +67353,11 @@
    "device": "HT10LC1MBKLTM",
    "name": "HT10LC1MBKLTM",
    "model": "HT10LC1MBKLTM"
+  },
+  {
+   "device": "HT10LC1MBKLTM01",
+   "name": "HT10LC1MBKLTM01",
+   "model": "HT10LC1MBKLTM01"
   },
   {
    "device": "HT10LC1MBKWW01",
@@ -185819,6 +185829,11 @@
    "model": "V2254"
   },
   {
+   "device": "V2254",
+   "name": "Y02t",
+   "model": "V2325"
+  },
+  {
    "device": "V2239",
    "name": "Y100",
    "model": "V2239"
@@ -204480,6 +204495,13 @@
    "model": "M815"
   }
  ],
+ "bbox": [
+  {
+   "device": "bbox-M752A",
+   "name": "bbox",
+   "model": "bbox-M752A"
+  }
+ ],
  "beafon": [
   {
    "device": "Class_C250",
@@ -205264,6 +205286,13 @@
    "device": "play2",
    "name": "play2",
    "model": "play2"
+  }
+ ],
+ "galneoscreen": [
+  {
+   "device": "galneoscreen_V5",
+   "name": "wende.interaktiv GmbH",
+   "model": "galneoscreen_V5"
   }
  ],
  "geaneePro": [
@@ -207755,6 +207784,11 @@
    "model": "RMX3771"
   },
   {
+   "device": "RE5854",
+   "name": "realme 10 Pro+",
+   "model": "RMX3687"
+  },
+  {
    "device": "RE58A5L1",
    "name": "realme 10 Pro+ 5G",
    "model": "RMX3686"
@@ -207788,6 +207822,11 @@
    "device": "RE58B8L1",
    "name": "realme 11 Pro 5G",
    "model": "RMX3771"
+  },
+  {
+   "device": "RE5865",
+   "name": "realme 11 Pro+",
+   "model": "RMX3740"
   },
   {
    "device": "RE58B6L1",
@@ -208410,11 +208449,6 @@
    "model": "RMX3770"
   },
   {
-   "device": "RE5865",
-   "name": "真我 11 Pro+",
-   "model": "RMX3740"
-  },
-  {
    "device": "RE5489",
    "name": "真我 GT NEO  3  150W",
    "model": "RMX3562"
@@ -208448,11 +208482,6 @@
    "device": "RE584B",
    "name": "真我 V20",
    "model": "RMX3611"
-  },
-  {
-   "device": "RE5854",
-   "name": "真我10 Pro+",
-   "model": "RMX3687"
   },
   {
    "device": "RE5471",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-24
+Last sync is 2023-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -133,6 +133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM H3|AGM_H3|AGM_H3|
 |AGM Mobile|AGM H5|AGM_H5|AGM_H5|
 |AGM Mobile|AGM_H5_PRO|AGM_H5_PRO|AGM_H5_PRO|
+|AGM Mobile|AGM_H6|AGM_H6|AGM_H6|
 |AGM Mobile|AGM_Note_N1|AGM_Note_N1|AGM_Note_N1|
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
 |AHA(A)|IFPD|AHA_ULTRA_RK3588|Hybrid_8600|
@@ -13072,6 +13073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10LB3MBKLTM|HT10LB3MBKLTM|HT10LB3MBKLTM|
 |Hyundai|HT10LB3MBKWW|HT10LB3MBKWW|HT10LB3MBKWW|
 |Hyundai|HT10LC1MBKLTM|HT10LC1MBKLTM|HT10LC1MBKLTM|
+|Hyundai|HT10LC1MBKLTM01|HT10LC1MBKLTM01|HT10LC1MBKLTM01|
 |Hyundai|HT10LC1MBKWW01|HT10LC1MBKWW01|HT10LC1MBKWW01|
 |Hyundai|HT10LC2MBKLTM|HT10LC2MBKLTM|HT10LC2MBKLTM|
 |Hyundai|HT10LC2MBKWW01|HT10LC2MBKWW01|HT10LC2MBKWW01|
@@ -36191,6 +36193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y02s|V2204|V2229|
 |Vivo|Y02t|V2254|V2252|
 |Vivo|Y02t|V2254|V2254|
+|Vivo|Y02t|V2254|V2325|
 |Vivo|Y100|V2239|V2239|
 |Vivo|Y100A|V2222|V2222|
 |Vivo|Y11|PD2236|V2236A|
@@ -39846,6 +39849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |aoson|M753|M753|M753|
 |aoson|R103|R103|R103|
 |aoson|aoson|M815|M815|
+|bbox|bbox|bbox-M752A|bbox-M752A|
 |beafon|Class_C250|Class_C250|Class_C250|
 |beafon|M5|M5|M5|
 |beafon|M6|M6|M6|
@@ -39992,6 +39996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |g-mee|connect_2|connect_2|connect 2|
 |g-mee|connect_2|connect_2V|connect 2|
 |g-mee|play2|play2|play2|
+|galneoscreen|wende.interaktiv GmbH|galneoscreen_V5|galneoscreen_V5|
 |geaneePro|JT08-X1|JT08-X1|JT08-X1|
 |geaneePro|JT10-X|JT10-X|JT10-X|
 |geaneePro|JT10-X1|JT10-X1|JT10-X1|
@@ -40459,6 +40464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 10 Pro 5G|RE588BL1|RMX3660|
 |realme|realme 10 Pro 5G|RE588BL1|RMX3661|
 |realme|realme 10 Pro 5G|RE58B8L1|RMX3771|
+|realme|realme 10 Pro+|RE5854|RMX3687|
 |realme|realme 10 Pro+ 5G|RE58A5L1|RMX3686|
 |realme|realme 10 Pro+ 5G|RE58A6L1|RMX3686|
 |realme|realme 10s|RE5851|RMX3617|
@@ -40466,6 +40472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11|RE5C7CL1|RMX3636|
 |realme|realme 11 5G|RE5C6CL1|RMX3780|
 |realme|realme 11 Pro 5G|RE58B8L1|RMX3771|
+|realme|realme 11 Pro+|RE5865|RMX3740|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
@@ -40590,7 +40597,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realmeGT Neo5|RE5860|RMX3706|
 |realme|realmeGT Neo5 240W|RE5860|RMX3708|
 |realme|真我 10 Pro|RE5869|RMX3770|
-|realme|真我 11 Pro+|RE5865|RMX3740|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 GT2 大师探索版|RE5465|RMX3551|
@@ -40598,7 +40604,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我 Q5|RE547D|RMX3478|
 |realme|真我 V20|RE584B|RMX3610|
 |realme|真我 V20|RE584B|RMX3611|
-|realme|真我10 Pro+|RE5854|RMX3687|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|

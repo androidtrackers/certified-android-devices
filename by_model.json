@@ -1178,6 +1178,13 @@
    "device": "AGM_H5_PRO"
   }
  ],
+ "AGM_H6": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM_H6",
+   "device": "AGM_H6"
+  }
+ ],
  "AGM_Note_N1": [
   {
    "brand": "AGM Mobile",
@@ -94054,6 +94061,13 @@
    "brand": "Hyundai",
    "name": "HT10LC1MBKLTM",
    "device": "HT10LC1MBKLTM"
+  }
+ ],
+ "HT10LC1MBKLTM01": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10LC1MBKLTM01",
+   "device": "HT10LC1MBKLTM01"
   }
  ],
  "HT10LC1MBKWW01": [
@@ -244261,6 +244275,13 @@
    "device": "V2254"
   }
  ],
+ "V2325": [
+  {
+   "brand": "Vivo",
+   "name": "Y02t",
+   "device": "V2254"
+  }
+ ],
  "V2239": [
   {
    "brand": "Vivo",
@@ -267608,6 +267629,13 @@
    "device": "M815"
   }
  ],
+ "bbox-M752A": [
+  {
+   "brand": "bbox",
+   "name": "bbox",
+   "device": "bbox-M752A"
+  }
+ ],
  "Class_C250": [
   {
    "brand": "beafon",
@@ -268413,6 +268441,13 @@
    "brand": "g-mee",
    "name": "play2",
    "device": "play2"
+  }
+ ],
+ "galneoscreen_V5": [
+  {
+   "brand": "galneoscreen",
+   "name": "wende.interaktiv GmbH",
+   "device": "galneoscreen_V5"
   }
  ],
  "JT08-X1": [
@@ -271161,6 +271196,13 @@
    "device": "RE588BL1"
   }
  ],
+ "RMX3687": [
+  {
+   "brand": "realme",
+   "name": "realme 10 Pro+",
+   "device": "RE5854"
+  }
+ ],
  "RMX3686": [
   {
    "brand": "realme",
@@ -271199,6 +271241,13 @@
    "brand": "realme",
    "name": "realme 11 5G",
    "device": "RE5C6CL1"
+  }
+ ],
+ "RMX3740": [
+  {
+   "brand": "realme",
+   "name": "realme 11 Pro+",
+   "device": "RE5865"
   }
  ],
  "RMX3741": [
@@ -271857,13 +271906,6 @@
    "device": "RE5869"
   }
  ],
- "RMX3740": [
-  {
-   "brand": "realme",
-   "name": "真我 11 Pro+",
-   "device": "RE5865"
-  }
- ],
  "RMX3562": [
   {
    "brand": "realme",
@@ -271911,13 +271953,6 @@
    "brand": "realme",
    "name": "真我 V20",
    "device": "RE584B"
-  }
- ],
- "RMX3687": [
-  {
-   "brand": "realme",
-   "name": "真我10 Pro+",
-   "device": "RE5854"
   }
  ],
  "RMX3310": [
