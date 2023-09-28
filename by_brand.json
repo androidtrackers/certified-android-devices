@@ -16045,6 +16045,11 @@
    "model": "RM7504"
   },
   {
+   "device": "RP8604",
+   "name": "RP8604",
+   "model": "RP8604"
+  },
+  {
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -80269,6 +80274,11 @@
    "model": "KYV46"
   },
   {
+   "device": "KY23M-RG100",
+   "name": "TORQUE G06",
+   "model": "KYG03"
+  },
+  {
    "device": "KC-S701",
    "name": "TORQUE(KC-S701)",
    "model": "KC-S701"
@@ -102720,6 +102730,13 @@
    "device": "MOT102",
    "name": "MOT102",
    "model": "MOT102"
+  }
+ ],
+ "MobiVista": [
+  {
+   "device": "VisioTab_10",
+   "name": "VisioTab_10",
+   "model": "VisioTab 10"
   }
  ],
  "Mobicell": [
@@ -208016,11 +208033,6 @@
    "device": "REE2ADL1",
    "name": "RMX3710",
    "model": "RMX3710"
-  },
-  {
-   "device": "RE58B8L1",
-   "name": "RMX3771",
-   "model": "RMX3771"
   },
   {
    "device": "mateo",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-27
+Last sync is 2023-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3107,6 +3107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
 |BenQ|RM7504|RM7504|RM7504|
+|BenQ|RP8604|RP8604|RP8604|
 |BenQ|Smart TV|longshan|AI PONT|
 |BenQ|Smart TV|redwood|AI PONT|
 |BenQ|T3|T3|BenQ T3|
@@ -15567,6 +15568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|TORQUE G02|KYV35|KYV35|
 |Kyocera|TORQUE G03|KYV41|KYV41|
 |Kyocera|TORQUE G04|KYV46|KYV46|
+|Kyocera|TORQUE G06|KY23M-RG100|KYG03|
 |Kyocera|TORQUE(KC-S701)|KC-S701|KC-S701|
 |Kyocera|TORQUE(R) 5G|KYG01|KYG01|
 |Kyocera|Torque|E6710|Torque|
@@ -19968,6 +19970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|Mobigo2|MobiGo2|MobiGo2|
 |MobiIoT|Mobigo2L|MobiGo2L|MobiGo2L|
 |MobiOcean|MOT102|MOT102|MOT102|
+|MobiVista|VisioTab_10|VisioTab_10|VisioTab 10|
 |Mobicell|4U|4U|4U|
 |Mobicell|ARC|ARC|ARC|
 |Mobicell|ASTRO|ASTRO|ASTRO|
@@ -40510,7 +40513,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3612|RE588DL1|RMX3612|
 |realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|
-|realme|RMX3771|RE58B8L1|RMX3771|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|

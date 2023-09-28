@@ -30627,6 +30627,13 @@
    "model": "RM7504"
   }
  ],
+ "RP8604": [
+  {
+   "brand": "BenQ",
+   "device": "RP8604",
+   "model": "RP8604"
+  }
+ ],
  "T3_08": [
   {
    "brand": "BenQ",
@@ -112336,6 +112343,13 @@
    "model": "KYV46"
   }
  ],
+ "TORQUE G06": [
+  {
+   "brand": "Kyocera",
+   "device": "KY23M-RG100",
+   "model": "KYG03"
+  }
+ ],
  "TORQUE(KC-S701)": [
   {
    "brand": "Kyocera",
@@ -137639,6 +137653,13 @@
    "brand": "MobiOcean",
    "device": "MOT102",
    "model": "MOT102"
+  }
+ ],
+ "VisioTab_10": [
+  {
+   "brand": "MobiVista",
+   "device": "VisioTab_10",
+   "model": "VisioTab 10"
   }
  ],
  "4U": [
@@ -258034,13 +258055,6 @@
    "brand": "realme",
    "device": "REE2ADL1",
    "model": "RMX3710"
-  }
- ],
- "RMX3771": [
-  {
-   "brand": "realme",
-   "device": "RE58B8L1",
-   "model": "RMX3771"
   }
  ],
  "narzo 50 5G": [

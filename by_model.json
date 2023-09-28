@@ -25180,6 +25180,13 @@
    "device": "RM7504"
   }
  ],
+ "RP8604": [
+  {
+   "brand": "BenQ",
+   "name": "RP8604",
+   "device": "RP8604"
+  }
+ ],
  "BenQ T3": [
   {
    "brand": "BenQ",
@@ -110138,6 +110145,13 @@
    "device": "KYV46"
   }
  ],
+ "KYG03": [
+  {
+   "brand": "Kyocera",
+   "name": "TORQUE G06",
+   "device": "KY23M-RG100"
+  }
+ ],
  "KC-S701": [
   {
    "brand": "Kyocera",
@@ -139035,6 +139049,13 @@
    "brand": "MobiOcean",
    "name": "MOT102",
    "device": "MOT102"
+  }
+ ],
+ "VisioTab 10": [
+  {
+   "brand": "MobiVista",
+   "name": "VisioTab_10",
+   "device": "VisioTab_10"
   }
  ],
  "4U": [
@@ -271484,23 +271505,6 @@
    "device": "REE2ADL1"
   }
  ],
- "RMX3771": [
-  {
-   "brand": "realme",
-   "name": "RMX3771",
-   "device": "RE58B8L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 10 Pro 5G",
-   "device": "RE58B8L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 11 Pro 5G",
-   "device": "RE58B8L1"
-  }
- ],
  "RMX3571": [
   {
    "brand": "realme",
@@ -271627,6 +271631,18 @@
    "brand": "realme",
    "name": "realme 10 Pro 5G",
    "device": "RE588BL1"
+  }
+ ],
+ "RMX3771": [
+  {
+   "brand": "realme",
+   "name": "realme 10 Pro 5G",
+   "device": "RE58B8L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 11 Pro 5G",
+   "device": "RE58B8L1"
   }
  ],
  "RMX3687": [
