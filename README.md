@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-09-28
+Last sync is 2023-09-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -35968,6 +35968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T1x|2135|V2143|
 |Vivo|T2|V2237|V2320|
 |Vivo|T2 5G|V2222|V2240|
+|Vivo|T2 Pro 5G|V2321|V2321|
 |Vivo|T2x 5G|V2225|V2253|
 |Vivo|T2x 5G|V2225|V2312|
 |Vivo|U5x|PD2180|V2180GA|
