@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-02
+Last sync is 2023-10-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -39544,6 +39544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V2020 Vita|P671F70|ZTE 8000|
 |ZTE|ZTE Blade V41 Smart|P606F05|ZTE A7050|
 |ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
+|ZTE|ZTE Blade V50 Vita|P606F09|ZTE 8550|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
