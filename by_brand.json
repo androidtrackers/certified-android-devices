@@ -201,9 +201,19 @@
    "model": "A1 Alpha 20+"
   },
   {
+   "device": "A1_B866V2F02",
+   "name": "A1 Hrvatska B866V2F02",
+   "model": "B866V2F02"
+  },
+  {
    "device": "VFD720",
    "name": "A1 Smart N9",
    "model": "VFD 720"
+  },
+  {
+   "device": "DV9161-KBA",
+   "name": "A1-Smart-Box-DV9161",
+   "model": "A1-Smart-Box-DV9161"
   },
   {
    "device": "adt3",
@@ -4421,6 +4431,11 @@
    "device": "JA3-TBA1005",
    "name": "JA3-TBA1005",
    "model": "JA3-TBA1005"
+  },
+  {
+   "device": "JA3-TBA1007",
+   "name": "JA3-TBA1007",
+   "model": "JA3-TBA1007"
   },
   {
    "device": "R3",
@@ -19462,6 +19477,11 @@
    "model": "J7"
   },
   {
+   "device": "J0170",
+   "name": "J8L",
+   "model": "J8L"
+  },
+  {
    "device": "J0080WW",
    "name": "J9L",
    "model": "J9L"
@@ -25954,6 +25974,11 @@
    "device": "Qtab10",
    "name": "Qtab 10.1 with keyboard",
    "model": "Qtab 10.1 with keyboard"
+  },
+  {
+   "device": "Qtab10Plus",
+   "name": "Qtab10Plus",
+   "model": "Qtab10Plus"
   }
  ],
  "Concord": [
@@ -30809,6 +30834,13 @@
    "device": "DH-B301K",
    "name": "DH-B301K",
    "model": "DH-B301K"
+  }
+ ],
+ "Daelim_System": [
+  {
+   "device": "Daelim_System_RK3588",
+   "name": "Daelim System_IFPD",
+   "model": "ULTRA_DS11386"
   }
  ],
  "Daewoo": [
@@ -35668,9 +35700,19 @@
    "model": "EKO 4K Android TV"
   },
   {
+   "device": "capitolhill",
+   "name": "EKO 2K Google TV",
+   "model": "EKO 2K Google TV"
+  },
+  {
    "device": "keoneae",
    "name": "EKO 4K Google TV",
    "model": "EKO 4K Google TV"
+  },
+  {
+   "device": "bandra",
+   "name": "EKO Google TV",
+   "model": "EKO Google TV"
   },
   {
    "device": "EKO_OMEGA_LTE_Q60",
@@ -37162,6 +37204,13 @@
    "device": "T7",
    "name": "Winnovo",
    "model": "T7"
+  }
+ ],
+ "Elisa": [
+  {
+   "device": "STB_ELISA_B866V2F01",
+   "name": "B866V2F01",
+   "model": "B866V2F01"
   }
  ],
  "Elitelux": [
@@ -47527,6 +47576,13 @@
    "model": "OC101"
   }
  ],
+ "HIKVISION": [
+  {
+   "device": "DS_D5C65RB_A",
+   "name": "DS-D5C65RB_A",
+   "model": "DS_D5C65RB_A"
+  }
+ ],
  "HIMADE": [
   {
    "device": "shilin",
@@ -57785,6 +57841,11 @@
    "device": "pl0a",
    "name": "Gathers",
    "model": "22M Gathers"
+  },
+  {
+   "device": "pr3a_arm64",
+   "name": "Gathers",
+   "model": "Gathers PR3A"
   },
   {
    "device": "emu_pub_h_30a_g_car",
@@ -76956,6 +77017,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "zhongshan",
+   "name": "ADSUN",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "AP",
    "model": "40D"
@@ -77041,9 +77107,29 @@
    "model": "CSV4K"
   },
   {
+   "device": "stanford",
+   "name": "DREAMVIEW",
+   "model": "SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "DYANORA",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "DYANORA",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "ELEMENT",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "ESLEY",
+   "model": "4K SMART TV"
   },
   {
    "device": "lavender",
@@ -77134,6 +77220,16 @@
    "device": "zhongshan",
    "name": "INNOVA",
    "model": "CSV4K"
+  },
+  {
+   "device": "stanford",
+   "name": "KIUNIT",
+   "model": "SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "KIUNIT",
+   "model": "Smart UHD TV"
   },
   {
    "device": "stanford",
@@ -96595,6 +96691,11 @@
   }
  ],
  "MAG": [
+  {
+   "device": "lavender",
+   "name": "MAG",
+   "model": "4K SMART TV"
+  },
   {
    "device": "MAG425A",
    "name": "MAG425A",
@@ -124241,6 +124342,11 @@
    "model": "Philips Google TV TA1"
   },
   {
+   "device": "PH1M_WW_9972",
+   "name": "Philips Google TV TA2",
+   "model": "Philips Google TV TA2"
+  },
+  {
    "device": "kujo",
    "name": "Philips Google TV TA6",
    "model": "Philips Google TV TA6"
@@ -131301,6 +131407,11 @@
    "model": "RC8T3G21"
   },
   {
+   "device": "hongkong",
+   "name": "RCA",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "RCA",
    "model": "4K SMART TV"
@@ -133548,6 +133659,16 @@
    "device": "gold",
    "name": "Redmi Note 13 5G",
    "model": "2312DRAABC"
+  },
+  {
+   "device": "garnet",
+   "name": "Redmi Note 13 Pro",
+   "model": "2312CRAD3C"
+  },
+  {
+   "device": "garnet",
+   "name": "Redmi Note 13 Pro",
+   "model": "2312DRA50C"
   },
   {
    "device": "zircon",
@@ -149086,6 +149207,11 @@
    "device": "gta9wifi",
    "name": "Galaxy Tab A9",
    "model": "SM-X110"
+  },
+  {
+   "device": "gta9pwifi",
+   "name": "Galaxy Tab A9+",
+   "model": "SM-X210"
   },
   {
    "device": "gta9p",
@@ -170941,6 +171067,11 @@
    "device": "Levin",
    "name": "TCL 40 R 5G",
    "model": "T771K"
+  },
+  {
+   "device": "Encore_TF",
+   "name": "TCL 40 XE 5G",
+   "model": "T609DL"
   },
   {
    "device": "Bremen_TF",
@@ -194128,6 +194259,16 @@
    "model": "MiTV-AYFR0"
   },
   {
+   "device": "axolotl",
+   "name": "Xiaomi Watch 2 Pro",
+   "model": "Xiaomi Watch 2 Pro"
+  },
+  {
+   "device": "axolotlte",
+   "name": "Xiaomi Watch 2 Pro",
+   "model": "Xiaomi Watch 2 Pro"
+  },
+  {
    "device": "yuechu",
    "name": "Xiaomi civi 3",
    "model": "23046PNC9C"
@@ -208007,6 +208148,11 @@
    "device": "keoneae",
    "name": "innos 4K Google TV",
    "model": "innos 4K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "innos 4K Google TV-A",
+   "model": "innos 4K Google TV-A"
   }
  ],
  "intelkom": [

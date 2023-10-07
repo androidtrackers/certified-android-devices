@@ -330,6 +330,13 @@
    "device": "P671F60"
   }
  ],
+ "B866V2F02": [
+  {
+   "brand": "A1",
+   "name": "A1 Hrvatska B866V2F02",
+   "device": "A1_B866V2F02"
+  }
+ ],
  "VFD 720": [
   {
    "brand": "A1",
@@ -340,6 +347,13 @@
    "brand": "Vodafone",
    "name": "Vodafone Smart N9",
    "device": "VFD720"
+  }
+ ],
+ "A1-Smart-Box-DV9161": [
+  {
+   "brand": "A1",
+   "name": "A1-Smart-Box-DV9161",
+   "device": "DV9161-KBA"
   }
  ],
  "ADT-3": [
@@ -6706,6 +6720,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "DYANORA",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
    "name": "ELEMENT",
    "device": "mountbaker"
   },
@@ -6968,6 +6987,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ADSUN",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
    "name": "ASAANO",
    "device": "hongkong"
   },
@@ -6989,6 +7013,16 @@
   {
    "brand": "KTCtv",
    "name": "DANILUX",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DYANORA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ESLEY",
    "device": "hongkong"
   },
   {
@@ -7087,6 +7121,11 @@
    "device": "zhongshan"
   },
   {
+   "brand": "MAG",
+   "name": "MAG",
+   "device": "lavender"
+  },
+  {
    "brand": "Mango",
    "name": "MANGO",
    "device": "hongkong"
@@ -7130,6 +7169,11 @@
    "brand": "Philco",
    "name": "PHILCO",
    "device": "zhongshan"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "device": "hongkong"
   },
   {
    "brand": "RCA",
@@ -8909,7 +8953,17 @@
   },
   {
    "brand": "KTCtv",
+   "name": "DREAMVIEW",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
    "name": "ICE",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "KIUNIT",
    "device": "stanford"
   },
   {
@@ -9055,6 +9109,13 @@
    "brand": "Aiwa",
    "name": "JA3-TBA1005",
    "device": "JA3-TBA1005"
+  }
+ ],
+ "JA3-TBA1007": [
+  {
+   "brand": "Aiwa",
+   "name": "JA3-TBA1007",
+   "device": "JA3-TBA1007"
   }
  ],
  "TA-07-232": [
@@ -30079,6 +30140,13 @@
    "device": "J7"
   }
  ],
+ "J8L": [
+  {
+   "brand": "Blu",
+   "name": "J8L",
+   "device": "J0170"
+  }
+ ],
  "J9L": [
   {
    "brand": "Blu",
@@ -38989,6 +39057,13 @@
    "device": "Qtab10"
   }
  ],
+ "Qtab10Plus": [
+  {
+   "brand": "Compaq",
+   "name": "Qtab10Plus",
+   "device": "Qtab10Plus"
+  }
+ ],
  "C-708": [
   {
    "brand": "Concord",
@@ -45713,6 +45788,13 @@
    "device": "DH-B301K"
   }
  ],
+ "ULTRA_DS11386": [
+  {
+   "brand": "Daelim_System",
+   "name": "Daelim System_IFPD",
+   "device": "Daelim_System_RK3588"
+  }
+ ],
  "4K SA Smart TV": [
   {
    "brand": "Daewoo",
@@ -52283,6 +52365,11 @@
    "brand": "EKO",
    "name": "EKO",
    "device": "kaitak"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO Google TV",
+   "device": "bandra"
   }
  ],
  "EKO 2K Android TV": [
@@ -52312,6 +52399,13 @@
    "brand": "EKO",
    "name": "EKO",
    "device": "tennoji"
+  }
+ ],
+ "EKO 2K Google TV": [
+  {
+   "brand": "EKO",
+   "name": "EKO 2K Google TV",
+   "device": "capitolhill"
   }
  ],
  "EKO 4K Google TV": [
@@ -53867,6 +53961,11 @@
    "device": "zhongshan"
   },
   {
+   "brand": "KTCtv",
+   "name": "KIUNIT",
+   "device": "zhongshan"
+  },
+  {
    "brand": "Motorola",
    "name": "MOTOROLA",
    "device": "zhongshan"
@@ -54228,6 +54327,13 @@
    "brand": "Winnovo",
    "name": "T7_eea",
    "device": "T7"
+  }
+ ],
+ "B866V2F01": [
+  {
+   "brand": "Elisa",
+   "name": "B866V2F01",
+   "device": "STB_ELISA_B866V2F01"
   }
  ],
  "ElliQTablet": [
@@ -68197,6 +68303,13 @@
    "device": "OC101_EEA"
   }
  ],
+ "DS_D5C65RB_A": [
+  {
+   "brand": "HIKVISION",
+   "name": "DS-D5C65RB_A",
+   "device": "DS_D5C65RB_A"
+  }
+ ],
  "HIMADE4KAndroidTV": [
   {
    "brand": "HIMADE",
@@ -81347,6 +81460,13 @@
    "brand": "Honda",
    "name": "Gathers",
    "device": "pl0a"
+  }
+ ],
+ "Gathers PR3A": [
+  {
+   "brand": "Honda",
+   "name": "Gathers",
+   "device": "pr3a_arm64"
   }
  ],
  "IVI-SYSTEM": [
@@ -165674,6 +165794,13 @@
    "device": "PH1M_WW_9972"
   }
  ],
+ "Philips Google TV TA2": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA2",
+   "device": "PH1M_WW_9972"
+  }
+ ],
  "Philips Google TV TA6": [
   {
    "brand": "Philips",
@@ -177407,6 +177534,20 @@
    "brand": "Redmi",
    "name": "Redmi Note 13 5G",
    "device": "gold"
+  }
+ ],
+ "2312CRAD3C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro",
+   "device": "garnet"
+  }
+ ],
+ "2312DRA50C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro",
+   "device": "garnet"
   }
  ],
  "23090RA98C": [
@@ -198099,6 +198240,13 @@
    "brand": "Samsung",
    "name": "Galaxy Tab A9",
    "device": "gta9wifi"
+  }
+ ],
+ "SM-X210": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A9+",
+   "device": "gta9pwifi"
   }
  ],
  "SM-X216B": [
@@ -226423,6 +226571,13 @@
    "device": "Levin"
   }
  ],
+ "T609DL": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TCL 40 XE 5G",
+   "device": "Encore_TF"
+  }
+ ],
  "T601DL": [
   {
    "brand": "TCT (Alcatel)",
@@ -254427,6 +254582,18 @@
    "device": "soul"
   }
  ],
+ "Xiaomi Watch 2 Pro": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Watch 2 Pro",
+   "device": "axolotl"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Watch 2 Pro",
+   "device": "axolotlte"
+  }
+ ],
  "23046PNC9C": [
   {
    "brand": "Xiaomi",
@@ -271646,6 +271813,13 @@
   {
    "brand": "innos",
    "name": "innos 4K Google TV",
+   "device": "keoneae"
+  }
+ ],
+ "innos 4K Google TV-A": [
+  {
+   "brand": "innos",
+   "name": "innos 4K Google TV-A",
    "device": "keoneae"
   }
  ],
