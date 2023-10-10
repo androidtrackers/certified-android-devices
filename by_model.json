@@ -6868,6 +6868,11 @@
    "device": "stanford"
   },
   {
+   "brand": "SAELITE",
+   "name": "SAELITE",
+   "device": "mountbaker"
+  },
+  {
    "brand": "Sharp",
    "name": "SHARP",
    "device": "stanford"
@@ -7088,6 +7093,11 @@
    "brand": "KTCtv",
    "name": "SKY-ONE",
    "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "device": "lavender"
   },
   {
    "brand": "KTCtv",
@@ -9081,6 +9091,13 @@
    "brand": "Aiwa",
    "name": "Aiwa",
    "device": "KSTB6043"
+  }
+ ],
+ "AIWA 2K SMART TV": [
+  {
+   "brand": "Aiwa",
+   "name": "Aiwa",
+   "device": "mountbaker"
   }
  ],
  "JA2-SMP0601": [
@@ -33450,6 +33467,11 @@
   },
   {
    "brand": "CHAINWAY",
+   "name": "P80_B",
+   "device": "P80_PRO"
+  },
+  {
+   "brand": "CHAINWAY",
    "name": "P80_EEA",
    "device": "P80"
   },
@@ -39139,6 +39161,20 @@
    "device": "Qtab10Plus"
   }
  ],
+ "COMPAQ SMART 4K TV": [
+  {
+   "brand": "Compaq",
+   "name": "Venezuela",
+   "device": "marina"
+  }
+ ],
+ "COMPAQ SMART 2K TV": [
+  {
+   "brand": "Compaq",
+   "name": "Venezuela",
+   "device": "nagata"
+  }
+ ],
  "C-708": [
   {
    "brand": "Concord",
@@ -40132,6 +40168,11 @@
   {
    "brand": "Continental Edison",
    "name": "ContinentalEdison 4K Android",
+   "device": "kenton"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android TV",
    "device": "kenton"
   }
  ],
@@ -68436,7 +68477,7 @@
  "DS_D5C65RB_A": [
   {
    "brand": "HIKVISION",
-   "name": "DS-D5C65RB_A",
+   "name": "DS-D5C65RB/A",
    "device": "DS_D5C65RB_A"
   }
  ],
@@ -74804,6 +74845,13 @@
   {
    "brand": "Haier",
    "name": "Haier MatrixTV CE",
+   "device": "deto"
+  }
+ ],
+ "Haier MatrixTV CS": [
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV CS",
    "device": "deto"
   }
  ],
@@ -106574,6 +106622,13 @@
    "brand": "KTCtv",
    "name": "INNOVA",
    "device": "mountbaker"
+  }
+ ],
+ "EcoTV J": [
+  {
+   "brand": "KTCtv",
+   "name": "Leading Smart TV",
+   "device": "minami"
   }
  ],
  "40DNA": [
@@ -162786,6 +162841,13 @@
    "device": "keoneae"
   }
  ],
+ "PROTON Google TV": [
+  {
+   "brand": "PROTON",
+   "name": "PROTON Google TV",
+   "device": "bandra"
+  }
+ ],
  "Neo Pro": [
   {
    "brand": "PS_Mobile",
@@ -203291,6 +203353,13 @@
    "device": "uguisudani"
   }
  ],
+ "Seleco AndroidTV": [
+  {
+   "brand": "Seleco",
+   "name": "Seleco 4K Smart TV",
+   "device": "barking"
+  }
+ ],
  "T856G": [
   {
    "brand": "Selectron",
@@ -214970,6 +215039,13 @@
    "brand": "Steren",
    "name": "INTV 1000",
    "device": "INTV"
+  }
+ ],
+ "INTV_ASIST": [
+  {
+   "brand": "Steren",
+   "name": "INTV-ASIST",
+   "device": "INTV_ASIST"
   }
  ],
  "Steren INTV_1000": [
@@ -236471,6 +236547,13 @@
    "device": "TV_A01"
   }
  ],
+ "CHMT52": [
+  {
+   "brand": "TrueIDTV",
+   "name": "CHMT52",
+   "device": "GIU7AG0D"
+  }
+ ],
  "T3AMX3": [
   {
    "brand": "TrueIDTV",
@@ -240945,6 +241028,13 @@
    "brand": "Veon",
    "name": "VEON 4K Smart TV",
    "device": "SW6H"
+  }
+ ],
+ "Fios TV": [
+  {
+   "brand": "Verizon",
+   "name": "Fios TV",
+   "device": "SCSIP02"
   }
  ],
  "Stream TV": [

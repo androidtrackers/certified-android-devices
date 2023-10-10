@@ -14213,6 +14213,11 @@
    "brand": "Aiwa",
    "device": "mountbaker",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "Aiwa",
+   "device": "mountbaker",
+   "model": "AIWA 2K SMART TV"
   }
  ],
  "JA2-SMP0601": [
@@ -39373,6 +39378,13 @@
    "model": "P80"
   }
  ],
+ "P80_B": [
+  {
+   "brand": "CHAINWAY",
+   "device": "P80_PRO",
+   "model": "P80"
+  }
+ ],
  "P80_EEA": [
   {
    "brand": "CHAINWAY",
@@ -45283,6 +45295,33 @@
    "model": "Qtab10Plus"
   }
  ],
+ "Venezuela": [
+  {
+   "brand": "Compaq",
+   "device": "marina",
+   "model": "COMPAQ SMART 4K TV"
+  },
+  {
+   "brand": "Compaq",
+   "device": "nagata",
+   "model": "COMPAQ SMART 2K TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "martin",
+   "model": "Tesla 2K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "martin",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "patrick",
+   "model": "Tesla Android TV"
+  }
+ ],
  "C-708": [
   {
    "brand": "Concord",
@@ -46374,6 +46413,13 @@
    "device": "kenton",
    "model": "ContinentalEdison 4K Android"
   },
+  {
+   "brand": "Continental Edison",
+   "device": "kenton",
+   "model": "ContinentalEdison 4K Android TV"
+  }
+ ],
+ "ContinentalEdison 4K Android TV": [
   {
    "brand": "Continental Edison",
    "device": "kenton",
@@ -75082,7 +75128,7 @@
    "model": "OC101"
   }
  ],
- "DS-D5C65RB_A": [
+ "DS-D5C65RB/A": [
   {
    "brand": "HIKVISION",
    "device": "DS_D5C65RB_A",
@@ -80779,6 +80825,13 @@
    "brand": "Haier",
    "device": "deto",
    "model": "Haier MatrixTV CE"
+  }
+ ],
+ "Haier MatrixTV CS": [
+  {
+   "brand": "Haier",
+   "device": "deto",
+   "model": "Haier MatrixTV CS"
   }
  ],
  "Haier OLED TV AE": [
@@ -108639,6 +108692,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "Leading Smart TV": [
+  {
+   "brand": "KTCtv",
+   "device": "minami",
+   "model": "EcoTV J"
+  }
+ ],
  "LikeMe": [
   {
    "brand": "KTCtv",
@@ -108780,6 +108840,13 @@
   {
    "brand": "KTCtv",
    "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
+ "STAR-TRACK": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
    "model": "4K SMART TV"
   }
  ],
@@ -160057,6 +160124,13 @@
    "model": "PROTON 4K Google TV"
   }
  ],
+ "PROTON Google TV": [
+  {
+   "brand": "PROTON",
+   "device": "bandra",
+   "model": "PROTON Google TV"
+  }
+ ],
  "Neo_Pro": [
   {
    "brand": "PS_Mobile",
@@ -176286,6 +176360,13 @@
    "brand": "SAELITE",
    "device": "MD1063B",
    "model": "MD1063B"
+  }
+ ],
+ "SAELITE": [
+  {
+   "brand": "SAELITE",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "E5501": [
@@ -195693,6 +195774,13 @@
    "model": "ST5000"
   }
  ],
+ "Seleco 4K Smart TV": [
+  {
+   "brand": "Seleco",
+   "device": "barking",
+   "model": "Seleco AndroidTV"
+  }
+ ],
  "T856G": [
   {
    "brand": "Selectron",
@@ -206597,6 +206685,13 @@
    "brand": "Steren",
    "device": "INTV",
    "model": "INTV 1000"
+  }
+ ],
+ "INTV-ASIST": [
+  {
+   "brand": "Steren",
+   "device": "INTV_ASIST",
+   "model": "INTV_ASIST"
   }
  ],
  "Steren INTV_1000": [
@@ -223779,23 +223874,6 @@
    "model": "Tesla_SP9_2"
   }
  ],
- "Venezuela": [
-  {
-   "brand": "Tesla",
-   "device": "martin",
-   "model": "Tesla 2K Android TV"
-  },
-  {
-   "brand": "Tesla",
-   "device": "martin",
-   "model": "Tesla Android TV"
-  },
-  {
-   "brand": "Tesla",
-   "device": "patrick",
-   "model": "Tesla Android TV"
-  }
- ],
  "TH805": [
   {
    "brand": "Thinpad",
@@ -225558,6 +225636,13 @@
    "brand": "True",
    "device": "TrueHPH07",
    "model": "HPH07"
+  }
+ ],
+ "CHMT52": [
+  {
+   "brand": "TrueIDTV",
+   "device": "GIU7AG0D",
+   "model": "CHMT52"
   }
  ],
  "T3AMX3": [
@@ -230205,6 +230290,13 @@
    "brand": "Veon",
    "device": "SW6H",
    "model": "VEON 4K Smart TV"
+  }
+ ],
+ "Fios TV": [
+  {
+   "brand": "Verizon",
+   "device": "SCSIP02",
+   "model": "Fios TV"
   }
  ],
  "Stream TV": [

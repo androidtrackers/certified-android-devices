@@ -5192,6 +5192,11 @@
    "model": "ContinentalEdison 4K Android TV"
   },
   {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android TV",
+   "model": "ContinentalEdison 4K Android TV"
+  },
+  {
    "brand": "DigiKing",
    "name": "DigiKing 4K Android",
    "model": "DigiKing 4K Android TV"
@@ -5469,6 +5474,11 @@
    "brand": "KONKA",
    "name": "KONKA 4K OLED Google TV",
    "model": "HK Google TV"
+  },
+  {
+   "brand": "PROTON",
+   "name": "PROTON Google TV",
+   "model": "PROTON Google TV"
   }
  ],
  "IDEA": [
@@ -12012,6 +12022,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Aiwa",
+   "name": "Aiwa",
+   "model": "AIWA 2K SMART TV"
+  },
+  {
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
    "model": "2K SMART TV"
@@ -12159,6 +12174,11 @@
   {
    "brand": "Rangs",
    "name": "RANGS",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "SAELITE",
+   "name": "SAELITE",
    "model": "2K SMART TV"
   },
   {
@@ -15527,6 +15547,11 @@
    "model": "COMPAQ SMART TV"
   },
   {
+   "brand": "Compaq",
+   "name": "Venezuela",
+   "model": "COMPAQ SMART 4K TV"
+  },
+  {
    "brand": "Continental Edison",
    "name": "CDI SMART TV",
    "model": "CDI SMART TV"
@@ -16924,6 +16949,11 @@
    "brand": "Haier",
    "name": "Haier MatrixTV CE",
    "model": "Haier MatrixTV CE"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV CS",
+   "model": "Haier MatrixTV CS"
   }
  ],
  "hanyang": [
@@ -32919,6 +32949,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Kenwood",
    "name": "Kenwood",
    "model": "KENWOOD DVB 4K TV"
@@ -33127,6 +33162,11 @@
    "brand": "Compaq",
    "name": "COMPAQ SMART TV",
    "model": "COMPAQ SMART TV"
+  },
+  {
+   "brand": "Compaq",
+   "name": "Venezuela",
+   "model": "COMPAQ SMART 2K TV"
   },
   {
    "brand": "Continental Edison",
@@ -37672,6 +37712,13 @@
    "model": "P80_ROW"
   }
  ],
+ "P80_PRO": [
+  {
+   "brand": "CHAINWAY",
+   "name": "P80_B",
+   "model": "P80"
+  }
+ ],
  "HCE600": [
   {
    "brand": "CHCNAV",
@@ -39225,6 +39272,11 @@
    "brand": "Sceptre",
    "name": "A557CV-UMRBX",
    "model": "SCEPTRE AndroidTV"
+  },
+  {
+   "brand": "Seleco",
+   "name": "Seleco 4K Smart TV",
+   "model": "Seleco AndroidTV"
   },
   {
    "brand": "Syinix",
@@ -72516,7 +72568,7 @@
  "DS_D5C65RB_A": [
   {
    "brand": "HIKVISION",
-   "name": "DS-D5C65RB_A",
+   "name": "DS-D5C65RB/A",
    "model": "DS_D5C65RB_A"
   }
  ],
@@ -106568,6 +106620,13 @@
    "brand": "KTC (PD)",
    "name": "BLISS_8",
    "model": "BLISS_8"
+  }
+ ],
+ "minami": [
+  {
+   "brand": "KTCtv",
+   "name": "Leading Smart TV",
+   "model": "EcoTV J"
   }
  ],
  "TMS-KR01P": [
@@ -209248,6 +209307,13 @@
    "model": "INTV 1000"
   }
  ],
+ "INTV_ASIST": [
+  {
+   "brand": "Steren",
+   "name": "INTV-ASIST",
+   "model": "INTV_ASIST"
+  }
+ ],
  "INTV_1000": [
   {
    "brand": "Steren",
@@ -227692,6 +227758,13 @@
    "model": "STI6030_TRUE_TV_A01"
   }
  ],
+ "GIU7AG0D": [
+  {
+   "brand": "TrueIDTV",
+   "name": "CHMT52",
+   "model": "CHMT52"
+  }
+ ],
  "SEI600TID": [
   {
    "brand": "TrueIDTV",
@@ -232029,14 +232102,19 @@
    "model": "Venus V6"
   }
  ],
- "JS8V": [
+ "SCSIP02": [
+  {
+   "brand": "Verizon",
+   "name": "Fios TV",
+   "model": "Fios TV"
+  },
   {
    "brand": "Verizon",
    "name": "Stream TV",
    "model": "Stream TV"
   }
  ],
- "SCSIP02": [
+ "JS8V": [
   {
    "brand": "Verizon",
    "name": "Stream TV",

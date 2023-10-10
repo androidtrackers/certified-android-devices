@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-09
+Last sync is 2023-10-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -836,6 +836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
 |Aiwa|Aiwa|hongkong|4K SMART TV|
 |Aiwa|Aiwa|mountbaker|2K SMART TV|
+|Aiwa|Aiwa|mountbaker|AIWA 2K SMART TV|
 |Aiwa|Android TV|ikebukuro|AI PONT|
 |Aiwa|Android TV|samseong|AI PONT|
 |Aiwa|Android TV|sindorim|AI PONT|
@@ -4214,6 +4215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|MC50|MC50|MC50|
 |CHAINWAY|MC95|MC95|MC95|
 |CHAINWAY|P80|P80|P80|
+|CHAINWAY|P80_B|P80_PRO|P80|
 |CHAINWAY|P80_EEA|P80|P80|
 |CHCNAV|HCE600|HCE600|HCE600|
 |CHCNAV|LT60|LT60|LT60|
@@ -5027,6 +5029,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTab8_LTE|QTab8_LTE|QTab8_LTE|
 |Compaq|Qtab 10.1 with keyboard|Qtab10|Qtab 10.1 with keyboard|
 |Compaq|Qtab10Plus|Qtab10Plus|Qtab10Plus|
+|Compaq|Venezuela|marina|COMPAQ SMART 4K TV|
+|Compaq|Venezuela|nagata|COMPAQ SMART 2K TV|
 |Concord|A10|A10|A10|
 |Concord|C-708|C-708|C-708|
 |Concord|Concord M15|Concord_M15|Concord M15|
@@ -5181,6 +5185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continental Edison|ContinentalEdison 2K Android|lasalle|ContinentalEdison 2K Android TV|
 |Continental Edison|ContinentalEdison 4K Android|kenton|ContinentalEdison 4K Android|
 |Continental Edison|ContinentalEdison 4K Android|kenton|ContinentalEdison 4K Android TV|
+|Continental Edison|ContinentalEdison 4K Android TV|kenton|ContinentalEdison 4K Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continental Edison|EU、UK、AP|martin|Continental Edison Android TV|
 |Continental Edison|France|guandu|Continental Edison Android TV|
@@ -9169,7 +9174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
-|HIKVISION|DS-D5C65RB_A|DS_D5C65RB_A|DS_D5C65RB_A|
+|HIKVISION|DS-D5C65RB/A|DS_D5C65RB_A|DS_D5C65RB_A|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
 |HKC|A79 Tablet|EM62|A79|
@@ -10140,6 +10145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV BN|jordan|Haier MatrixTV BN|
 |Haier|Haier MatrixTV BS|jordan|Haier MatrixTV BS|
 |Haier|Haier MatrixTV CE|deto|Haier MatrixTV CE|
+|Haier|Haier MatrixTV CS|deto|Haier MatrixTV CS|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|HaierG61|HM-G701-FL|HM-G701-FL|
@@ -15009,6 +15015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KIUNIT|zhongshan|Smart UHD TV|
 |KTCtv|KTC|stanford|2K SMART TV|
 |KTCtv|KTC|zhongshan|4K SMART TV|
+|KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|NA|stanford|40DNA|
 |KTCtv|NA|zhongshan|43FNA|
@@ -15031,6 +15038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SIERA|stanford|2K Siera SMART TV|
 |KTCtv|SKY-ONE|stanford|2K SMART TV|
 |KTCtv|SKY-ONE|zhongshan|4K SMART TV|
+|KTCtv|STAR-TRACK|lavender|4K SMART TV|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Smart TV|mountbaker|EcoTV FHD|
 |KTCtv|VISTA|stanford|2K SMART TV|
@@ -23713,6 +23721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
 |PROTON|PROTON 4K Android|kenton|PROTON 4K Android|
 |PROTON|PROTON 4K Google TV|keoneae|PROTON 4K Google TV|
+|PROTON|PROTON Google TV|bandra|PROTON Google TV|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
@@ -26298,6 +26307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SABA|Smart TV|longshan|AI PONT IT|
 |SABA|Smart TV|redwood|AI PONT IT|
 |SAELITE|MD1063B|MD1063B|MD1063B|
+|SAELITE|SAELITE|mountbaker|2K SMART TV|
 |SAGI|E5501|E5501|E5501|
 |SAIET|STS502|STS502|STS502|
 |SAIET|STS550|STS550|STS550|
@@ -29810,6 +29820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seemahale Telecoms|ST5000|ST5000|ST5000|
 |Seiki|North America|hongik|Seiki Android TV|
 |Seiki|North America|uguisudani|Seiki Android TV 2K|
+|Seleco|Seleco 4K Smart TV|barking|Seleco AndroidTV|
 |Selectron|T856G|T856G|T856G|
 |Selfix|ES733|ES733|ES733|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
@@ -31618,6 +31629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|star_two|star_two|star_two|
 |Starlight|venus|venus|venus|
 |Steren|INTV 1000|INTV|INTV 1000|
+|Steren|INTV-ASIST|INTV_ASIST|INTV_ASIST|
 |Steren|Steren INTV_1000|INTV_1000|Steren INTV_1000|
 |Stofa|IC1130|IC1130|IC1130|
 |Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2021|
@@ -34919,6 +34931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|True ID TV|TrueHPH07|HPH07|
 |True|TrueID TV|TV_A01|STI6030_TRUE_TV_A01|
 |True|TrueID TV|TrueHPH07|HPH07|
+|TrueIDTV|CHMT52|GIU7AG0D|CHMT52|
 |TrueIDTV|T3AMX3|SEI600TID|T3AMX3|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
@@ -35702,6 +35715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veon|VEON 4K Smart TV|SW6H|VEON 4K Smart TV|
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
+|Verizon|Fios TV|SCSIP02|Fios TV|
 |Verizon|Stream TV|JS8V|Stream TV|
 |Verizon|Stream TV|SCSIP02|Stream TV|
 |Verizon|Stream TV|f354|Stream TV|
