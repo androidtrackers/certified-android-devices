@@ -121018,6 +121018,11 @@
    "model": "WP27"
   },
   {
+   "device": "WP27",
+   "name": "WP27_RU",
+   "model": "WP27"
+  },
+  {
    "device": "WP5",
    "name": "WP5",
    "model": "WP5"
@@ -133302,6 +133307,16 @@
    "model": "23053RN02Y"
   },
   {
+   "device": "XIG03",
+   "name": "Redmi 12 5G",
+   "model": "XIG03"
+  },
+  {
+   "device": "river",
+   "name": "Redmi 12 5G",
+   "model": "23076RA4BR"
+  },
+  {
    "device": "aether",
    "name": "Redmi 12C",
    "model": "22126RN91Y"
@@ -136050,6 +136065,11 @@
    "device": "komodo",
    "name": "AM60 series",
    "model": "AM60 series"
+  },
+  {
+   "device": "komodo",
+   "name": "SMART AMG series",
+   "model": "AMG series"
   },
   {
    "device": "groundhog",
@@ -186753,6 +186773,11 @@
    "device": "PD2220",
    "name": "V2220A",
    "model": "V2220A"
+  },
+  {
+   "device": "PD2279J",
+   "name": "V2279A",
+   "model": "V2279A"
   },
   {
    "device": "PD2282",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-10
+Last sync is 2023-10-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23536,6 +23536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP22|S109|WP22|
 |Oukitel|WP23|S111|WP23|
 |Oukitel|WP27_EEA|WP27|WP27|
+|Oukitel|WP27_RU|WP27|WP27|
 |Oukitel|WP5|WP5|WP5|
 |Oukitel|WP5 Pro|WP5_Pro|WP5 Pro|
 |Oukitel|WP5000|WP5000|WP5000|
@@ -25918,6 +25919,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 12|fire|23053RN02I|
 |Redmi|Redmi 12|fire|23053RN02L|
 |Redmi|Redmi 12|heat|23053RN02Y|
+|Redmi|Redmi 12 5G|XIG03|XIG03|
+|Redmi|Redmi 12 5G|river|23076RA4BR|
 |Redmi|Redmi 12C|aether|22126RN91Y|
 |Redmi|Redmi 12C|earth|22120RN86G|
 |Redmi|Redmi 12C|earth|22120RN86I|
@@ -26436,6 +26439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY EVO|SA100|HY40A|SA100|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SMART Technologies|AM60 series|komodo|AM60 series|
+|SMART Technologies|SMART AMG series|komodo|AMG series|
 |SMART Technologies|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
 |SMART_KASSEL|ARGENTINA|SK3402|SK3402|
 |SMART_KASSEL|SK3403|SK3403|SK3403|
@@ -36373,6 +36377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2202A|PD2202|V2202A|
 |Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
+|Vivo|V2279A|PD2279J|V2279A|
 |Vivo|V2282A|PD2282|V2282A|
 |Vivo|V2314A|PD2314|V2314A|
 |Vivo|V25|V2202|V2202|

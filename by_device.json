@@ -143467,6 +143467,11 @@
    "brand": "Motorola",
    "name": "moto g(7)",
    "model": "moto g(7)"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12 5G",
+   "model": "23076RA4BR"
   }
  ],
  "river_n": [
@@ -159367,6 +159372,11 @@
    "brand": "Oukitel",
    "name": "WP27_EEA",
    "model": "WP27"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "WP27_RU",
+   "model": "WP27"
   }
  ],
  "WP5": [
@@ -173979,6 +173989,13 @@
    "model": "23053RN02Y"
   }
  ],
+ "XIG03": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12 5G",
+   "model": "XIG03"
+  }
+ ],
  "aether": [
   {
    "brand": "Redmi",
@@ -176760,6 +176777,11 @@
    "brand": "SMART Technologies",
    "name": "AM60 series",
    "model": "AM60 series"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "SMART AMG series",
+   "model": "AMG series"
   }
  ],
  "groundhog": [
@@ -236251,6 +236273,13 @@
    "brand": "Vivo",
    "name": "V2220A",
    "model": "V2220A"
+  }
+ ],
+ "PD2279J": [
+  {
+   "brand": "Vivo",
+   "name": "V2279A",
+   "model": "V2279A"
   }
  ],
  "PD2282": [

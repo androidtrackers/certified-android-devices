@@ -158973,6 +158973,13 @@
    "model": "WP27"
   }
  ],
+ "WP27_RU": [
+  {
+   "brand": "Oukitel",
+   "device": "WP27",
+   "model": "WP27"
+  }
+ ],
  "WP5": [
   {
    "brand": "Oukitel",
@@ -173951,6 +173958,18 @@
    "model": "23053RN02Y"
   }
  ],
+ "Redmi 12 5G": [
+  {
+   "brand": "Redmi",
+   "device": "XIG03",
+   "model": "XIG03"
+  },
+  {
+   "brand": "Redmi",
+   "device": "river",
+   "model": "23076RA4BR"
+  }
+ ],
  "Redmi 12C": [
   {
    "brand": "Redmi",
@@ -177115,6 +177134,13 @@
    "brand": "SMART Technologies",
    "device": "komodo",
    "model": "AM60 series"
+  }
+ ],
+ "SMART AMG series": [
+  {
+   "brand": "SMART Technologies",
+   "device": "komodo",
+   "model": "AMG series"
   }
  ],
  "SMART Board MX Series (V5)": [
@@ -234488,6 +234514,13 @@
    "brand": "Vivo",
    "device": "PD2220",
    "model": "V2220A"
+  }
+ ],
+ "V2279A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2279J",
+   "model": "V2279A"
   }
  ],
  "V2282A": [

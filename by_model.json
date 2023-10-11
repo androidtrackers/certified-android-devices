@@ -161696,6 +161696,11 @@
    "brand": "Oukitel",
    "name": "WP27_EEA",
    "device": "WP27"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "WP27_RU",
+   "device": "WP27"
   }
  ],
  "WP5": [
@@ -177022,6 +177027,20 @@
    "device": "heat"
   }
  ],
+ "XIG03": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12 5G",
+   "device": "XIG03"
+  }
+ ],
+ "23076RA4BR": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12 5G",
+   "device": "river"
+  }
+ ],
  "22126RN91Y": [
   {
    "brand": "Redmi",
@@ -180235,6 +180254,13 @@
   {
    "brand": "SMART Technologies",
    "name": "AM60 series",
+   "device": "komodo"
+  }
+ ],
+ "AMG series": [
+  {
+   "brand": "SMART Technologies",
+   "name": "SMART AMG series",
    "device": "komodo"
   }
  ],
@@ -245414,6 +245440,23 @@
    "device": "PD2220"
   }
  ],
+ "V2279A": [
+  {
+   "brand": "Vivo",
+   "name": "V2279A",
+   "device": "PD2279J"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y35+",
+   "device": "PD2279"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y35m+",
+   "device": "PD2279"
+  }
+ ],
  "V2282A": [
   {
    "brand": "Vivo",
@@ -246145,18 +246188,6 @@
    "brand": "Vivo",
    "name": "Y35",
    "device": "V2205"
-  }
- ],
- "V2279A": [
-  {
-   "brand": "Vivo",
-   "name": "Y35+",
-   "device": "PD2279"
-  },
-  {
-   "brand": "Vivo",
-   "name": "Y35m+",
-   "device": "PD2279"
   }
  ],
  "vivo Y35A": [
