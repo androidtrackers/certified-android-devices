@@ -2272,6 +2272,16 @@
    "model": "ATLTE1022E"
   },
   {
+   "device": "anglelake",
+   "name": "Acer",
+   "model": "DIX41RKF"
+  },
+  {
+   "device": "waiawa",
+   "name": "Acer",
+   "model": "DIX51R4KU"
+  },
+  {
    "device": "paine_cheets",
    "name": "Acer Chromebook 11 (C740)",
    "model": "Acer Chromebook 11 (C740)"
@@ -29126,6 +29136,11 @@
    "model": "TAB 40"
   },
   {
+   "device": "TAB_50",
+   "name": "TAB 50",
+   "model": "TAB 50"
+  },
+  {
    "device": "TAB_KINGKONG",
    "name": "TAB KINGKONG",
    "model": "TAB KINGKONG"
@@ -40041,6 +40056,11 @@
    "model": "A5Pro"
   },
   {
+   "device": "C10",
+   "name": "C10",
+   "model": "C10"
+  },
+  {
    "device": "FOXXD_C65",
    "name": "FOXXD C65",
    "model": "FOXXD C65"
@@ -46776,6 +46796,16 @@
    "device": "lynx",
    "name": "Pixel 7a",
    "model": "Pixel 7a"
+  },
+  {
+   "device": "shiba",
+   "name": "Pixel 8",
+   "model": "Pixel 8"
+  },
+  {
+   "device": "husky",
+   "name": "Pixel 8 Pro",
+   "model": "Pixel 8 Pro"
   },
   {
    "device": "dragon",
@@ -70727,6 +70757,11 @@
    "model": "Infinix X6516"
   },
   {
+   "device": "Infinix-X6525",
+   "name": "Infinix SMART 8",
+   "model": "Infinix X6525"
+  },
+  {
    "device": "Infinix-X5010",
    "name": "Infinix X5010",
    "model": "Infinix X5010"
@@ -73804,6 +73839,11 @@
    "device": "itel-A62",
    "name": "A62",
    "model": "itel A62"
+  },
+  {
+   "device": "itel-A665L",
+   "name": "A70",
+   "model": "itel A665L"
   },
   {
    "device": "Spice-F311",
@@ -89465,6 +89505,16 @@
    "device": "LXX503",
    "name": "BLAZE 5G",
    "model": "LAVA LXX503"
+  },
+  {
+   "device": "LZX406",
+   "name": "Blaze 2 Pro",
+   "model": "LAVA LZX406"
+  },
+  {
+   "device": "LXX506",
+   "name": "Blaze Pro 5G",
+   "model": "LAVA LXX506"
   },
   {
    "device": "era1X",
@@ -115334,6 +115384,11 @@
    "model": "X3_1"
   },
   {
+   "device": "OMIX_X4",
+   "name": "X4",
+   "model": "X4"
+  },
+  {
    "device": "X400",
    "name": "X400",
    "model": "X400"
@@ -133767,6 +133822,11 @@
    "model": "21091116C"
   },
   {
+   "device": "vida",
+   "name": "Redmi Note 11 Pro",
+   "model": "2201116TI"
+  },
+  {
    "device": "viva",
    "name": "Redmi Note 11 Pro",
    "model": "2201116TG"
@@ -150478,6 +150538,11 @@
    "device": "gts9fepwifi",
    "name": "Galaxy Tab S9 FE+",
    "model": "SM-X610"
+  },
+  {
+   "device": "SCT22",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SCT22"
   },
   {
    "device": "gts9fep",
@@ -176051,6 +176116,11 @@
    "model": "TECNO BF7s"
   },
   {
+   "device": "TECNO-BG6",
+   "name": "TECNO",
+   "model": "TECNO BG6"
+  },
+  {
    "device": "TECNO-AX8",
    "name": "TECNO AX8",
    "model": "TECNO AX8"
@@ -185285,6 +185355,11 @@
    "device": "Elite10QH",
    "name": "Elite10QH",
    "model": "Elite10QH"
+  },
+  {
+   "device": "Elite10QHPro",
+   "name": "Elite10QHPro",
+   "model": "Elite10QHPro"
   },
   {
    "device": "Elite10QI",
@@ -206403,6 +206478,11 @@
    "device": "IPBS9520",
    "name": "IPBS9520",
    "model": "IPBS9520"
+  },
+  {
+   "device": "f515",
+   "name": "du TV",
+   "model": "VIP7802"
   }
  ],
  "duraMOBI": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-12
+Last sync is 2023-10-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -422,6 +422,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ATL1021EA|ATL1021EA|ATL1021EA|
 |Acer|ATLTE1022|ATLTE1022|ATLTE1022|
 |Acer|ATLTE1022E|ATLTE1022E|ATLTE1022E|
+|Acer|Acer|anglelake|DIX41RKF|
+|Acer|Acer|waiawa|DIX51R4KU|
 |Acer|Acer Chromebook 11 (C740)|paine_cheets|Acer Chromebook 11 (C740)|
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
 |Acer|Acer Holo360|acer_c01|C01|
@@ -5634,6 +5636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|TAB 10|TAB_10|TAB 10|
 |Cubot|TAB 20|TAB_20|TAB 20|
 |Cubot|TAB 40|TAB_40|TAB 40|
+|Cubot|TAB 50|TAB_50|TAB 50|
 |Cubot|TAB KINGKONG|TAB_KINGKONG|TAB KINGKONG|
 |Cubot|X19|X19|X19|
 |Cubot|X19_S|X19_S|X19 S|
@@ -7711,6 +7714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXX|T8C|T8C|T8C|
 |FOXXD|A2023|A2023|A2023|
 |FOXXD|A5Pro|A5Pro|A5Pro|
+|FOXXD|C10|C10|C10|
 |FOXXD|FOXXD C65|FOXXD_C65|FOXXD C65|
 |FOXXD|MIRO|L590A|L590A|
 |FOXXD|N5|N5|N5|
@@ -9002,6 +9006,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 7|panther|Pixel 7|
 |Google|Pixel 7 Pro|cheetah|Pixel 7 Pro|
 |Google|Pixel 7a|lynx|Pixel 7a|
+|Google|Pixel 8|shiba|Pixel 8|
+|Google|Pixel 8 Pro|husky|Pixel 8 Pro|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Fold|felix|Pixel Fold|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
@@ -13721,6 +13727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 4 Plus|Infinix-X680D|Infinix X680D|
 |Infinix|Infinix SMART 7|Infinix-X6515|Infinix X6515|
 |Infinix|Infinix SMART 7 HD|Infinix-X6516|Infinix X6516|
+|Infinix|Infinix SMART 8|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -14326,6 +14333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A58 Lite|itel-A631W|itel A631W|
 |Itel|A58 Pro|itel-A661WP|itel A661WP|
 |Itel|A62|itel-A62|itel A62|
+|Itel|A70|itel-A665L|itel A665L|
 |Itel|F311|Spice-F311|Spice F311|
 |Itel|F3116|itel-A571WM|itel A571W|
 |Itel|F3116|itel-A571WM|itel A571WM|
@@ -17385,6 +17393,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|BE_U|Be_U|Lava Be_U|
 |Lava|BLAZE|LZX403|LAVA Blaze|
 |Lava|BLAZE 5G|LXX503|LAVA LXX503|
+|Lava|Blaze 2 Pro|LZX406|LAVA LZX406|
+|Lava|Blaze Pro 5G|LXX506|LAVA LXX506|
 |Lava|ERA 1X|era1X|era1X|
 |Lava|ERA 1X|era1X|era1Xpro|
 |Lava|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
@@ -22422,6 +22432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X3|X3|X3|
 |OMIX|X300|X300|OMIX X300|
 |OMIX|X3_1|X3|X3_1|
+|OMIX|X4|OMIX_X4|X4|
 |OMIX|X400|X400|X400|
 |OMIX|X5|X5|X5|
 |OMIX|X500|X500|OMIX X500|
@@ -26011,6 +26022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 11 4G|selene|21121119SC|
 |Redmi|Redmi Note 11 5G|evergo|21091116AC|
 |Redmi|Redmi Note 11 Pro|pissarro|21091116C|
+|Redmi|Redmi Note 11 Pro|vida|2201116TI|
 |Redmi|Redmi Note 11 Pro|viva|2201116TG|
 |Redmi|Redmi Note 11 Pro 5G|veux|2201116SG|
 |Redmi|Redmi Note 11 Pro 5G|veux|2201116SR|
@@ -29306,6 +29318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516N|
 |Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X518U|
 |Samsung|Galaxy Tab S9 FE+|gts9fepwifi|SM-X610|
+|Samsung|Galaxy Tab S9 FE+ 5G|SCT22|SCT22|
 |Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616B|
 |Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616C|
 |Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616N|
@@ -34319,6 +34332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO|TECNO-BF7|TECNO BF7|
 |Tecno|TECNO|TECNO-BF7n|TECNO BF7n|
 |Tecno|TECNO|TECNO-BF7s|TECNO BF7s|
+|Tecno|TECNO|TECNO-BG6|TECNO BG6|
 |Tecno|TECNO AX8|TECNO-AX8|TECNO AX8|
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
@@ -36081,6 +36095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|
 |Visiontouch|Life|VisionTouchLife|VisionTouchLife|
 |Visual Land|Elite10QH|Elite10QH|Elite10QH|
+|Visual Land|Elite10QHPro|Elite10QHPro|Elite10QHPro|
 |Visual Land|Prestige Elite10QI|Elite10QI|Elite10QI|
 |Visual Land|Prestige Elite10QL|Elite10QL|Elite10QL|
 |Visual Land|Prestige Elite10QS|Elite10QS|Elite10QS|
@@ -40219,6 +40234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |digITS|T1|T1|T1|
 |du (UAE)|IPBS9520|IPBS9520|IPBS9520|
+|du (UAE)|du TV|f515|VIP7802|
 |duraMOBI|DK66|DK66|DK66|
 |e4u(A)|TAB900|TAB900|TAB900|
 |eBox|EBoxTv|diw387eb|EboxTV|

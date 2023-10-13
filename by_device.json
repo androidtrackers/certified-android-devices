@@ -7652,6 +7652,20 @@
    "model": "ATLTE1022E"
   }
  ],
+ "anglelake": [
+  {
+   "brand": "Acer",
+   "name": "Acer",
+   "model": "DIX41RKF"
+  }
+ ],
+ "waiawa": [
+  {
+   "brand": "Acer",
+   "name": "Acer",
+   "model": "DIX51R4KU"
+  }
+ ],
  "paine_cheets": [
   {
    "brand": "Acer",
@@ -8919,6 +8933,11 @@
    "brand": "Acer",
    "name": "Liquid E1",
    "model": "V360"
+  },
+  {
+   "brand": "FOXXD",
+   "name": "C10",
+   "model": "C10"
   },
   {
    "brand": "Oukitel",
@@ -48145,6 +48164,13 @@
    "model": "TAB 40"
   }
  ],
+ "TAB_50": [
+  {
+   "brand": "Cubot",
+   "name": "TAB 50",
+   "model": "TAB 50"
+  }
+ ],
  "TAB_KINGKONG": [
   {
    "brand": "Cubot",
@@ -71470,6 +71496,20 @@
    "brand": "Google",
    "name": "Pixel 7a",
    "model": "Pixel 7a"
+  }
+ ],
+ "shiba": [
+  {
+   "brand": "Google",
+   "name": "Pixel 8",
+   "model": "Pixel 8"
+  }
+ ],
+ "husky": [
+  {
+   "brand": "Google",
+   "name": "Pixel 8 Pro",
+   "model": "Pixel 8 Pro"
   }
  ],
  "dragon": [
@@ -99089,6 +99129,13 @@
    "model": "Infinix X6516"
   }
  ],
+ "Infinix-X6525": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8",
+   "model": "Infinix X6525"
+  }
+ ],
  "Infinix-X5010": [
   {
    "brand": "Infinix",
@@ -103045,6 +103092,13 @@
    "brand": "Itel",
    "name": "A62",
    "model": "itel A62"
+  }
+ ],
+ "itel-A665L": [
+  {
+   "brand": "Itel",
+   "name": "A70",
+   "model": "itel A665L"
   }
  ],
  "Spice-F311": [
@@ -120799,6 +120853,20 @@
    "brand": "Lava",
    "name": "BLAZE 5G",
    "model": "LAVA LXX503"
+  }
+ ],
+ "LZX406": [
+  {
+   "brand": "Lava",
+   "name": "Blaze 2 Pro",
+   "model": "LAVA LZX406"
+  }
+ ],
+ "LXX506": [
+  {
+   "brand": "Lava",
+   "name": "Blaze Pro 5G",
+   "model": "LAVA LXX506"
   }
  ],
  "era1X": [
@@ -152591,6 +152659,13 @@
    "model": "MixTab Pro"
   }
  ],
+ "OMIX_X4": [
+  {
+   "brand": "OMIX",
+   "name": "X4",
+   "model": "X4"
+  }
+ ],
  "X600": [
   {
    "brand": "OMIX",
@@ -174459,6 +174534,13 @@
    "model": "21091116C"
   }
  ],
+ "vida": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 Pro",
+   "model": "2201116TI"
+  }
+ ],
  "viva": [
   {
    "brand": "Redmi",
@@ -194642,6 +194724,13 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S9 FE+",
    "model": "SM-X610"
+  }
+ ],
+ "SCT22": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SCT22"
   }
  ],
  "gts9fep": [
@@ -224182,6 +224271,13 @@
    "model": "TECNO BF7s"
   }
  ],
+ "TECNO-BG6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO",
+   "model": "TECNO BG6"
+  }
+ ],
  "TECNO-KC3": [
   {
    "brand": "Tecno",
@@ -234303,6 +234399,13 @@
    "brand": "Visual Land",
    "name": "Elite10QH",
    "model": "Elite10QH"
+  }
+ ],
+ "Elite10QHPro": [
+  {
+   "brand": "Visual Land",
+   "name": "Elite10QHPro",
+   "model": "Elite10QHPro"
   }
  ],
  "Elite10QI": [
@@ -258282,6 +258385,13 @@
    "brand": "du (UAE)",
    "name": "IPBS9520",
    "model": "IPBS9520"
+  }
+ ],
+ "f515": [
+  {
+   "brand": "du (UAE)",
+   "name": "du TV",
+   "model": "VIP7802"
   }
  ],
  "DK66": [
