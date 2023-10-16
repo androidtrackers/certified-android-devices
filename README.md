@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-15
+Last sync is 2023-10-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -857,6 +857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|TA-10-232|TA-10-232|TA-10-232|
 |Aiwa|TA07-2GB|TA07-2GB|TA07-2GB|
 |Aiwa|TA10-SO10|TA10-SO10|TA10-SO10|
+|Aiwa|TAB-1100|TAB-1100|TAB-1100|
 |Aiwa|TAB-1102|TAB-1102|TAB-1102|
 |Aiwa|TAB-1103|TAB-1103|TAB-1103|
 |Aiwa|TAB_1003G|TAB_1003G|TAB_1003G|
@@ -25932,6 +25933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 12|heat|23053RN02Y|
 |Redmi|Redmi 12 5G|XIG03|XIG03|
 |Redmi|Redmi 12 5G|river|23076RA4BR|
+|Redmi|Redmi 12 5G|river|23076RN8DY|
 |Redmi|Redmi 12C|aether|22126RN91Y|
 |Redmi|Redmi 12C|earth|22120RN86G|
 |Redmi|Redmi 12C|earth|22120RN86I|
@@ -31885,6 +31887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SwissMobility|Z7|Z7|Z7|
 |SwissMobility|Z72|Z72|Z72|
 |SwissMobility|Z9|Z9|Z9|
+|Swisscom|TV-Box5|IP2300|IP2300|
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
 |Swissvoice|G50|G50|G50|

@@ -9191,6 +9191,13 @@
    "device": "TA10-SO10"
   }
  ],
+ "TAB-1100": [
+  {
+   "brand": "Aiwa",
+   "name": "TAB-1100",
+   "device": "TAB-1100"
+  }
+ ],
  "TAB-1102": [
   {
    "brand": "Aiwa",
@@ -177114,6 +177121,13 @@
    "device": "river"
   }
  ],
+ "23076RN8DY": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12 5G",
+   "device": "river"
+  }
+ ],
  "22126RN91Y": [
   {
    "brand": "Redmi",
@@ -216552,6 +216566,13 @@
    "brand": "SwissMobility",
    "name": "Z72",
    "device": "Z72"
+  }
+ ],
+ "IP2300": [
+  {
+   "brand": "Swisscom",
+   "name": "TV-Box5",
+   "device": "IP2300"
   }
  ],
  "swisstone SD 510": [

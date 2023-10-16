@@ -4503,6 +4503,11 @@
    "model": "TA10-SO10"
   },
   {
+   "device": "TAB-1100",
+   "name": "TAB-1100",
+   "model": "TAB-1100"
+  },
+  {
    "device": "TAB-1102",
    "name": "TAB-1102",
    "model": "TAB-1102"
@@ -133372,6 +133377,11 @@
    "model": "23076RA4BR"
   },
   {
+   "device": "river",
+   "name": "Redmi 12 5G",
+   "model": "23076RN8DY"
+  },
+  {
    "device": "aether",
    "name": "Redmi 12C",
    "model": "22126RN91Y"
@@ -163665,6 +163675,13 @@
    "device": "Z9",
    "name": "Z9",
    "model": "Z9"
+  }
+ ],
+ "Swisscom": [
+  {
+   "device": "IP2300",
+   "name": "TV-Box5",
+   "model": "IP2300"
   }
  ],
  "Swisstone": [
