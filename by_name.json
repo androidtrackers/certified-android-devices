@@ -18211,6 +18211,13 @@
    "model": "Arcelik Google TV"
   }
  ],
+ "Arcelik Google TV UHD+": [
+  {
+   "brand": "Arcelik",
+   "device": "wanchai",
+   "model": "Arcelik Google TV UHD+"
+  }
+ ],
  "B55L 9682 5AS": [
   {
    "brand": "Arcelik",
@@ -30429,6 +30436,13 @@
    "brand": "Beko",
    "device": "wanchai",
    "model": "Beko Google TV"
+  }
+ ],
+ "Beko Google TV UHD+": [
+  {
+   "brand": "Beko",
+   "device": "wanchai",
+   "model": "Beko Google TV UHD+"
   }
  ],
  "Beko UHD Android TV": [
@@ -74488,6 +74502,13 @@
    "model": "Grundig Google TV"
   }
  ],
+ "Grundig Google TV UHD+": [
+  {
+   "brand": "Grundig",
+   "device": "wanchai",
+   "model": "Grundig Google TV UHD+"
+  }
+ ],
  "Grundig UHD Android TV": [
   {
    "brand": "Grundig",
@@ -98384,6 +98405,13 @@
    "model": "N4"
   }
  ],
+ "AIOS": [
+  {
+   "brand": "IMAGO",
+   "device": "AIOS",
+   "model": "PRIME"
+  }
+ ],
  "IMARFLEX 2K Android TV": [
   {
    "brand": "IMARFLEX",
@@ -98554,11 +98582,25 @@
    "model": "INNOVA 2K Android TV"
   }
  ],
+ "INNOVA 2K Google TV": [
+  {
+   "brand": "INNOVA",
+   "device": "capitolhill",
+   "model": "INNOVA 2K Google TV"
+  }
+ ],
  "INNOVA 4K Android TV": [
   {
    "brand": "INNOVA",
    "device": "kenton",
    "model": "INNOVA 4K Android TV"
+  }
+ ],
+ "INNOVA 4K Google TV": [
+  {
+   "brand": "INNOVA",
+   "device": "keoneae",
+   "model": "INNOVA 4K Google TV"
   }
  ],
  "A126": [
@@ -107980,6 +108022,13 @@
    "model": "HK 4K Google TV-C"
   }
  ],
+ "HK Google TV-A": [
+  {
+   "brand": "KONKA",
+   "device": "bandra",
+   "model": "HK Google TV-A"
+  }
+ ],
  "HYUNDAI 4K Google TV-E": [
   {
    "brand": "KONKA",
@@ -108565,6 +108614,11 @@
  "CHIMEI": [
   {
    "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K SMART TV"
   }
@@ -108850,6 +108904,18 @@
    "model": "2K SMART TV"
   }
  ],
+ "QRIOM": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "RENYA": [
   {
    "brand": "KTCtv",
@@ -108910,6 +108976,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "STAR-TRACK 4K SMART TV"
   }
  ],
  "Siera": [
@@ -173796,6 +173867,11 @@
   {
    "brand": "Xiaomi",
    "device": "irobot",
+   "model": "MiTV-MOOR1"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "irobot",
    "model": "MiTV-MOSR4"
   },
   {
@@ -173832,6 +173908,21 @@
    "brand": "Xiaomi",
    "device": "venom",
    "model": "MiTV-MOOR0"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "venom",
+   "model": "MiTV-MOOR2"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "venom",
+   "model": "MiTV-MOOR3"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "venom",
+   "model": "MiTV-MOOR4"
   },
   {
    "brand": "Xiaomi",
@@ -177115,6 +177206,13 @@
    "brand": "SK broadband",
    "device": "INTEKS21SI",
    "model": "BID-AI100"
+  }
+ ],
+ "BKO-UC500": [
+  {
+   "brand": "SK broadband",
+   "device": "K1100UA",
+   "model": "BKO-UC500"
   }
  ],
  "PlayZ": [
@@ -195891,6 +195989,13 @@
    "model": "ST5000"
   }
  ],
+ "Seleco 2K Smart TV": [
+  {
+   "brand": "Seleco",
+   "device": "beaudry",
+   "model": "Seleco AndroidTV"
+  }
+ ],
  "Seleco 4K Smart TV": [
   {
    "brand": "Seleco",
@@ -206451,6 +206556,13 @@
    "brand": "Star-X",
    "device": "martin",
    "model": "STAR-X 2K Android TV"
+  }
+ ],
+ "Starboard Solution Inc": [
+  {
+   "brand": "StarBoard",
+   "device": "TE_YL",
+   "model": "TE_YL"
   }
  ],
  "Android TV Set-Top Box": [
@@ -243762,6 +243874,11 @@
   {
    "brand": "Xiaomi",
    "device": "corot",
+   "model": "23088PND5R"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "corot",
    "model": "A301XM"
   }
  ],
@@ -259060,6 +259177,13 @@
    "brand": "innos",
    "device": "keoneae",
    "model": "innos 4K Google TV-A"
+  }
+ ],
+ "innos Google TV": [
+  {
+   "brand": "innos",
+   "device": "bandra",
+   "model": "innos Google TV"
   }
  ],
  "meanIT_C1": [

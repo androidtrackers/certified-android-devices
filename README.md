@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-16
+Last sync is 2023-10-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1378,6 +1378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|Arcelik Google TV|wanchai|Arcelik Google TV|
+|Arcelik|Arcelik Google TV UHD+|wanchai|Arcelik Google TV UHD+|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
@@ -3090,6 +3091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Android TV|shinagawa|Beko Android TV|
 |Beko|Beko Android TV|sinchon|Beko Android TV|
 |Beko|Beko Google TV|wanchai|Beko Google TV|
+|Beko|Beko Google TV UHD+|wanchai|Beko Google TV UHD+|
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |Bell Canada|FibeTV|vip7802_bell|FibeTV|
@@ -9088,6 +9090,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|Grundig Android TV|shinagawa|Grundig Android TV|
 |Grundig|Grundig Android TV|sinchon|Grundig Android TV|
 |Grundig|Grundig Google TV|wanchai|Grundig Google TV|
+|Grundig|Grundig Google TV UHD+|wanchai|Grundig Google TV UHD+|
 |Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
 |Grundig|TC69CA2|GTB801|GTB 801|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
@@ -13340,6 +13343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IKALL|IKALL|IKALL|IKALL|
 |IKALL|N4|N4|N4|
 |IKALL|N5|N5|N5|
+|IMAGO|AIOS|AIOS|PRIME|
 |IMARFLEX|IMARFLEX 2K Android TV|lasalle|IMARFLEX 2K Android TV|
 |IMARFLEX|IMARFLEX 4K Android TV|kenton|IMARFLEX 4K Android TV|
 |IMARFLEX|imarflex 2K Google TV|capitolhill|imarflex 2K Google TV|
@@ -13365,7 +13369,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INNOCN|32S1U Pro|32S1U_Pro|32S1U_Pro|
 |INNOCN|S1|YUL|S1|
 |INNOVA|INNOVA 2K Android TV|lasalle|INNOVA 2K Android TV|
+|INNOVA|INNOVA 2K Google TV|capitolhill|INNOVA 2K Google TV|
 |INNOVA|INNOVA 4K Android TV|kenton|INNOVA 4K Android TV|
+|INNOVA|INNOVA 4K Google TV|keoneae|INNOVA 4K Google TV|
 |INOI|A126|A126|A126|
 |INOI|A150|A150|A150|
 |INOI|A160|A160|A160|
@@ -14899,6 +14905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|HK 4K Google TV-A|keoneae|HK 4K Google TV-A|
 |KONKA|HK 4K Google TV-B|keoneae|HK 4K Google TV-B|
 |KONKA|HK 4K Google TV-C|keoneae|HK 4K Google TV-C|
+|KONKA|HK Google TV-A|bandra|HK Google TV-A|
 |KONKA|HYUNDAI 4K Google TV-E|keoneae|HYUNDAI 4K Google TV-E|
 |KONKA|KC516|KC516|KC516|
 |KONKA|KC516_Pro|KC516_Pro|KC516 Pro|
@@ -14986,6 +14993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|ASAANO|mountbaker|2K SMART TV|
 |KTCtv|Banana|stanford|2K SMART TV|
 |KTCtv|Banana|zhongshan|4K SMART TV|
+|KTCtv|CHIMEI|hongkong|4K SMART TV|
 |KTCtv|CHIMEI|zhongshan|4K SMART TV|
 |KTCtv|COL|stanford|40DCOL|
 |KTCtv|COL|zhongshan|43FCOL|
@@ -15039,6 +15047,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|POWER GREEN|zhongshan|4K SMART TV|
 |KTCtv|POWEROLOGY|hongkong|4K SMART TV|
 |KTCtv|POWER_GREEN|stanford|2K SMART TV|
+|KTCtv|QRIOM|hongkong|4K SMART TV|
+|KTCtv|QRIOM|lavender|4K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
 |KTCtv|SA|hongkong|EcoTV Plus|
@@ -15048,6 +15058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SKY-ONE|stanford|2K SMART TV|
 |KTCtv|SKY-ONE|zhongshan|4K SMART TV|
 |KTCtv|STAR-TRACK|lavender|4K SMART TV|
+|KTCtv|STAR-TRACK|lavender|STAR-TRACK 4K SMART TV|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Smart TV|mountbaker|EcoTV FHD|
 |KTCtv|VISTA|stanford|2K SMART TV|
@@ -26441,6 +26452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK broadband|AI2|BIP-AI100|BIP-AI100|
 |SK broadband|AI2 ATV|INTEKS21SI|BID-AI100|
 |SK broadband|BFX-AT100|BFX-AT100|BFX-AT100|
+|SK broadband|BKO-UC500|K1100UA|BKO-UC500|
 |SK broadband|PlayZ|BIP-EB100|BIP-EB100|
 |SK broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
@@ -29839,6 +29851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seemahale Telecoms|ST5000|ST5000|ST5000|
 |Seiki|North America|hongik|Seiki Android TV|
 |Seiki|North America|uguisudani|Seiki Android TV 2K|
+|Seleco|Seleco 2K Smart TV|beaudry|Seleco AndroidTV|
 |Seleco|Seleco 4K Smart TV|barking|Seleco AndroidTV|
 |Selectron|T856G|T856G|T856G|
 |Selfix|ES733|ES733|ES733|
@@ -31596,6 +31609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|Middle East|yeongdeungpo|STAR-X UHD Android TV|
 |Star-X|STAR-X 2K SMART TV|nagata|STAR-X 2K SMART TV|
 |Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
+|StarBoard|Starboard Solution Inc|TE_YL|TE_YL|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|
 |StarHub|StarHub TV+ Pro|m393vsb_starhub|SCSH900AT|
@@ -37825,6 +37839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
 |Xiaomi|MiTV|hermano|MiTV-MOSR0|
 |Xiaomi|MiTV|hermano|MiTV-MOSR1|
+|Xiaomi|MiTV|irobot|MiTV-MOOR1|
 |Xiaomi|MiTV|irobot|MiTV-MOSR4|
 |Xiaomi|MiTV|machuca|MiTV-MSSP3|
 |Xiaomi|MiTV|magnolia|MiTV4I|
@@ -37833,6 +37848,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|rango|MiTV-AXFR1|
 |Xiaomi|MiTV|tarzan|MiTV-MOOQ1|
 |Xiaomi|MiTV|venom|MiTV-MOOR0|
+|Xiaomi|MiTV|venom|MiTV-MOOR2|
+|Xiaomi|MiTV|venom|MiTV-MOOR3|
+|Xiaomi|MiTV|venom|MiTV-MOOR4|
 |Xiaomi|MiTV|venom|MiTV-MOOR6|
 |Xiaomi|MiTV|volver|MiTV-MSSP2|
 |Xiaomi|MiTV|watchmen|MiTV-AXFR2|
@@ -37917,6 +37935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 13T|XIG04|XIG04|
 |Xiaomi|Xiaomi 13T|aristotle|2306EPN60G|
 |Xiaomi|Xiaomi 13T Pro|corot|23078PND5G|
+|Xiaomi|Xiaomi 13T Pro|corot|23088PND5R|
 |Xiaomi|Xiaomi 13T Pro|corot|A301XM|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
@@ -40652,6 +40671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |innos|innos 2K Google TV|capitolhill|innos 2K Google TV|
 |innos|innos 4K Google TV|keoneae|innos 4K Google TV|
 |innos|innos 4K Google TV-A|keoneae|innos 4K Google TV-A|
+|innos|innos Google TV|bandra|innos Google TV|
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|

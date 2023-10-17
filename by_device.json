@@ -5135,6 +5135,11 @@
    "model": "imarflex 2K Google TV"
   },
   {
+   "brand": "INNOVA",
+   "name": "INNOVA 2K Google TV",
+   "model": "INNOVA 2K Google TV"
+  },
+  {
    "brand": "KONKA",
    "name": "HK 2K Google TV",
    "model": "HK 2K Google TV"
@@ -5369,6 +5374,11 @@
    "model": "imarflex 4K Google TV"
   },
   {
+   "brand": "INNOVA",
+   "name": "INNOVA 4K Google TV",
+   "model": "INNOVA 4K Google TV"
+  },
+  {
    "brand": "KONKA",
    "name": "HK 4K Google TV-A",
    "model": "HK 4K Google TV-A"
@@ -5472,6 +5482,11 @@
   },
   {
    "brand": "KONKA",
+   "name": "HK Google TV-A",
+   "model": "HK Google TV-A"
+  },
+  {
+   "brand": "KONKA",
    "name": "KONKA 4K OLED Google TV",
    "model": "HK Google TV"
   },
@@ -5479,6 +5494,11 @@
    "brand": "PROTON",
    "name": "PROTON Google TV",
    "model": "PROTON Google TV"
+  },
+  {
+   "brand": "innos",
+   "name": "innos Google TV",
+   "model": "innos Google TV"
   }
  ],
  "IDEA": [
@@ -11875,6 +11895,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "CHIMEI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DANILUX",
    "model": "4K SMART TV"
   },
@@ -11931,6 +11956,11 @@
   {
    "brand": "KTCtv",
    "name": "POWEROLOGY",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
    "model": "4K SMART TV"
   },
   {
@@ -17128,14 +17158,29 @@
    "model": "Arcelik Google TV"
   },
   {
+   "brand": "Arcelik",
+   "name": "Arcelik Google TV UHD+",
+   "model": "Arcelik Google TV UHD+"
+  },
+  {
    "brand": "Beko",
    "name": "Beko Google TV",
    "model": "Beko Google TV"
   },
   {
+   "brand": "Beko",
+   "name": "Beko Google TV UHD+",
+   "model": "Beko Google TV UHD+"
+  },
+  {
    "brand": "Grundig",
    "name": "Grundig Google TV",
    "model": "Grundig Google TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Google TV UHD+",
+   "model": "Grundig Google TV UHD+"
   }
  ],
  "arcelik_eu": [
@@ -32976,8 +33021,18 @@
   },
   {
    "brand": "KTCtv",
+   "name": "QRIOM",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "STAR-TRACK",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "model": "STAR-TRACK 4K SMART TV"
   },
   {
    "brand": "Kenwood",
@@ -39251,6 +39306,11 @@
    "brand": "Miramage",
    "name": "TV3223HDA11SMARTG",
    "model": "Miramage AndroidTV"
+  },
+  {
+   "brand": "Seleco",
+   "name": "Seleco 2K Smart TV",
+   "model": "Seleco AndroidTV"
   },
   {
    "brand": "Syinix",
@@ -96720,6 +96780,13 @@
    "model": "N4"
   }
  ],
+ "AIOS": [
+  {
+   "brand": "IMAGO",
+   "name": "AIOS",
+   "model": "PRIME"
+  }
+ ],
  "IMO_Q": [
   {
    "brand": "IMO(In My Opinion)",
@@ -110924,6 +110991,11 @@
    "brand": "LG HelloVision",
    "name": "K1100UA",
    "model": "K1100UA"
+  },
+  {
+   "brand": "SK broadband",
+   "name": "BKO-UC500",
+   "model": "BKO-UC500"
   },
   {
    "brand": "sky HCN",
@@ -174394,6 +174466,11 @@
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 13T Pro",
+   "model": "23088PND5R"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13T Pro",
    "model": "A301XM"
   }
  ],
@@ -209033,6 +209110,13 @@
    "brand": "SriLankaTelecom",
    "name": "DV8040",
    "model": "DV8040"
+  }
+ ],
+ "TE_YL": [
+  {
+   "brand": "StarBoard",
+   "name": "Starboard Solution Inc",
+   "model": "TE_YL"
   }
  ],
  "NVSH800H1": [
@@ -244864,6 +244948,11 @@
   {
    "brand": "Xiaomi",
    "name": "MiTV",
+   "model": "MiTV-MOOR1"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
    "model": "MiTV-MOSR4"
   }
  ],
@@ -244900,6 +244989,21 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "model": "MiTV-MOOR0"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOOR2"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOOR3"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOOR4"
   },
   {
    "brand": "Xiaomi",

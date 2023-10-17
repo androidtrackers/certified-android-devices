@@ -7041,6 +7041,11 @@
   {
    "brand": "KTCtv",
    "name": "CHIMEI",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "CHIMEI",
    "device": "zhongshan"
   },
   {
@@ -7097,6 +7102,16 @@
    "brand": "KTCtv",
    "name": "POWEROLOGY",
    "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "device": "lavender"
   },
   {
    "brand": "KTCtv",
@@ -13201,6 +13216,13 @@
   {
    "brand": "Arcelik",
    "name": "Arcelik Google TV",
+   "device": "wanchai"
+  }
+ ],
+ "Arcelik Google TV UHD+": [
+  {
+   "brand": "Arcelik",
+   "name": "Arcelik Google TV UHD+",
    "device": "wanchai"
   }
  ],
@@ -25122,6 +25144,13 @@
   {
    "brand": "Beko",
    "name": "Beko Google TV",
+   "device": "wanchai"
+  }
+ ],
+ "Beko Google TV UHD+": [
+  {
+   "brand": "Beko",
+   "name": "Beko Google TV UHD+",
    "device": "wanchai"
   }
  ],
@@ -67886,6 +67915,13 @@
    "device": "wanchai"
   }
  ],
+ "Grundig Google TV UHD+": [
+  {
+   "brand": "Grundig",
+   "name": "Grundig Google TV UHD+",
+   "device": "wanchai"
+  }
+ ],
  "Grundig Android UHD TV": [
   {
    "brand": "Grundig",
@@ -95908,6 +95944,18 @@
    "device": "N4"
   }
  ],
+ "PRIME": [
+  {
+   "brand": "IMAGO",
+   "name": "AIOS",
+   "device": "AIOS"
+  },
+  {
+   "brand": "Stylo",
+   "name": "PRIME",
+   "device": "PRIME"
+  }
+ ],
  "IMARFLEX 2K Android TV": [
   {
    "brand": "IMARFLEX",
@@ -96075,6 +96123,20 @@
    "brand": "INNOCN",
    "name": "32S1U Pro",
    "device": "32S1U_Pro"
+  }
+ ],
+ "INNOVA 2K Google TV": [
+  {
+   "brand": "INNOVA",
+   "name": "INNOVA 2K Google TV",
+   "device": "capitolhill"
+  }
+ ],
+ "INNOVA 4K Google TV": [
+  {
+   "brand": "INNOVA",
+   "name": "INNOVA 4K Google TV",
+   "device": "keoneae"
   }
  ],
  "A126": [
@@ -106049,6 +106111,13 @@
    "device": "keoneae"
   }
  ],
+ "HK Google TV-A": [
+  {
+   "brand": "KONKA",
+   "name": "HK Google TV-A",
+   "device": "bandra"
+  }
+ ],
  "HYUNDAI 4K Google TV-E": [
   {
    "brand": "KONKA",
@@ -106742,6 +106811,13 @@
    "brand": "KTCtv",
    "name": "SIERA",
    "device": "stanford"
+  }
+ ],
+ "STAR-TRACK 4K SMART TV": [
+  {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "device": "lavender"
   }
  ],
  "4K Siera SMART TV": [
@@ -180239,6 +180315,13 @@
    "device": "INTEKS21SI"
   }
  ],
+ "BKO-UC500": [
+  {
+   "brand": "SK broadband",
+   "name": "BKO-UC500",
+   "device": "K1100UA"
+  }
+ ],
  "BIP-EB100": [
   {
    "brand": "SK broadband",
@@ -203483,6 +203566,11 @@
  "Seleco AndroidTV": [
   {
    "brand": "Seleco",
+   "name": "Seleco 2K Smart TV",
+   "device": "beaudry"
+  },
+  {
+   "brand": "Seleco",
    "name": "Seleco 4K Smart TV",
    "device": "barking"
   }
@@ -214831,6 +214919,13 @@
    "device": "martin"
   }
  ],
+ "TE_YL": [
+  {
+   "brand": "StarBoard",
+   "name": "Starboard Solution Inc",
+   "device": "TE_YL"
+  }
+ ],
  "NVSH800H1": [
   {
    "brand": "StarHub",
@@ -215554,13 +215649,6 @@
    "brand": "Stylo",
    "name": "ORION PLUS TAB 10",
    "device": "DVK88"
-  }
- ],
- "PRIME": [
-  {
-   "brand": "Stylo",
-   "name": "PRIME",
-   "device": "PRIME"
   }
  ],
  "Phoenix": [
@@ -254538,6 +254626,13 @@
    "device": "hermano"
   }
  ],
+ "MiTV-MOOR1": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "irobot"
+  }
+ ],
  "MiTV-MOSR4": [
   {
    "brand": "Xiaomi",
@@ -254588,6 +254683,27 @@
   }
  ],
  "MiTV-MOOR0": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "venom"
+  }
+ ],
+ "MiTV-MOOR2": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "venom"
+  }
+ ],
+ "MiTV-MOOR3": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "venom"
+  }
+ ],
+ "MiTV-MOOR4": [
   {
    "brand": "Xiaomi",
    "name": "MiTV",
@@ -255107,6 +255223,13 @@
   }
  ],
  "23078PND5G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13T Pro",
+   "device": "corot"
+  }
+ ],
+ "23088PND5R": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 13T Pro",
@@ -272530,6 +272653,13 @@
    "brand": "innos",
    "name": "innos 4K Google TV-A",
    "device": "keoneae"
+  }
+ ],
+ "innos Google TV": [
+  {
+   "brand": "innos",
+   "name": "innos Google TV",
+   "device": "bandra"
   }
  ],
  "meanIT_C1": [

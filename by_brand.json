@@ -7194,6 +7194,11 @@
    "model": "Arcelik Google TV"
   },
   {
+   "device": "wanchai",
+   "name": "Arcelik Google TV UHD+",
+   "model": "Arcelik Google TV UHD+"
+  },
+  {
    "device": "arcelik_eu",
    "name": "B55L 9682 5AS",
    "model": "arcelik_uhd_powermax_at"
@@ -15954,6 +15959,11 @@
    "device": "wanchai",
    "name": "Beko Google TV",
    "model": "Beko Google TV"
+  },
+  {
+   "device": "wanchai",
+   "name": "Beko Google TV UHD+",
+   "model": "Beko Google TV UHD+"
   },
   {
    "device": "kunyang",
@@ -47224,6 +47234,11 @@
    "model": "Grundig Google TV"
   },
   {
+   "device": "wanchai",
+   "name": "Grundig Google TV UHD+",
+   "model": "Grundig Google TV UHD+"
+  },
+  {
    "device": "kunyang",
    "name": "Grundig UHD Android TV",
    "model": "Grundig Android UHD TV"
@@ -68728,6 +68743,13 @@
    "model": "N5"
   }
  ],
+ "IMAGO": [
+  {
+   "device": "AIOS",
+   "name": "AIOS",
+   "model": "PRIME"
+  }
+ ],
  "IMARFLEX": [
   {
    "device": "lasalle",
@@ -68869,9 +68891,19 @@
    "model": "INNOVA 2K Android TV"
   },
   {
+   "device": "capitolhill",
+   "name": "INNOVA 2K Google TV",
+   "model": "INNOVA 2K Google TV"
+  },
+  {
    "device": "kenton",
    "name": "INNOVA 4K Android TV",
    "model": "INNOVA 4K Android TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "INNOVA 4K Google TV",
+   "model": "INNOVA 4K Google TV"
   }
  ],
  "INOI": [
@@ -76795,6 +76827,11 @@
    "model": "HK 4K Google TV-C"
   },
   {
+   "device": "bandra",
+   "name": "HK Google TV-A",
+   "model": "HK Google TV-A"
+  },
+  {
    "device": "keoneae",
    "name": "HYUNDAI 4K Google TV-E",
    "model": "HYUNDAI 4K Google TV-E"
@@ -77252,6 +77289,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "hongkong",
+   "name": "CHIMEI",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "CHIMEI",
    "model": "4K SMART TV"
@@ -77517,6 +77559,16 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "hongkong",
+   "name": "QRIOM",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "QRIOM",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "RENYA",
    "model": "2K SMART TV"
@@ -77560,6 +77612,11 @@
    "device": "lavender",
    "name": "STAR-TRACK",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "STAR-TRACK",
+   "model": "STAR-TRACK 4K SMART TV"
   },
   {
    "device": "zhongshan",
@@ -136071,6 +136128,11 @@
    "model": "BFX-AT100"
   },
   {
+   "device": "K1100UA",
+   "name": "BKO-UC500",
+   "model": "BKO-UC500"
+  },
+  {
    "device": "BIP-EB100",
    "name": "PlayZ",
    "model": "BIP-EB100"
@@ -153193,6 +153255,11 @@
  ],
  "Seleco": [
   {
+   "device": "beaudry",
+   "name": "Seleco 2K Smart TV",
+   "model": "Seleco AndroidTV"
+  },
+  {
    "device": "barking",
    "name": "Seleco 4K Smart TV",
    "model": "Seleco AndroidTV"
@@ -162148,6 +162215,13 @@
    "device": "martin",
    "name": "United Arab Emirates",
    "model": "STAR-X 2K Android TV"
+  }
+ ],
+ "StarBoard": [
+  {
+   "device": "TE_YL",
+   "name": "Starboard Solution Inc",
+   "model": "TE_YL"
   }
  ],
  "StarHub": [
@@ -194223,6 +194297,11 @@
   {
    "device": "irobot",
    "name": "MiTV",
+   "model": "MiTV-MOOR1"
+  },
+  {
+   "device": "irobot",
+   "name": "MiTV",
    "model": "MiTV-MOSR4"
   },
   {
@@ -194259,6 +194338,21 @@
    "device": "venom",
    "name": "MiTV",
    "model": "MiTV-MOOR0"
+  },
+  {
+   "device": "venom",
+   "name": "MiTV",
+   "model": "MiTV-MOOR2"
+  },
+  {
+   "device": "venom",
+   "name": "MiTV",
+   "model": "MiTV-MOOR3"
+  },
+  {
+   "device": "venom",
+   "name": "MiTV",
+   "model": "MiTV-MOOR4"
   },
   {
    "device": "venom",
@@ -194679,6 +194773,11 @@
    "device": "corot",
    "name": "Xiaomi 13T Pro",
    "model": "23078PND5G"
+  },
+  {
+   "device": "corot",
+   "name": "Xiaomi 13T Pro",
+   "model": "23088PND5R"
   },
   {
    "device": "corot",
@@ -208700,6 +208799,11 @@
    "device": "keoneae",
    "name": "innos 4K Google TV-A",
    "model": "innos 4K Google TV-A"
+  },
+  {
+   "device": "bandra",
+   "name": "innos Google TV",
+   "model": "innos Google TV"
   }
  ],
  "intelkom": [
