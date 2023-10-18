@@ -6778,6 +6778,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "QRIOM",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
    "name": "RENYA",
    "device": "mountbaker"
   },
@@ -67443,6 +67448,11 @@
   {
    "brand": "Google",
    "name": "Pixel Watch 2",
+   "device": "aurora"
+  },
+  {
+   "brand": "Google",
+   "name": "Pixel Watch 2",
    "device": "eos"
   }
  ],
@@ -75995,6 +76005,13 @@
    "brand": "Hi-online",
    "name": "HMR5450",
    "device": "HMR5450"
+  }
+ ],
+ "RES102": [
+  {
+   "brand": "HiMedia",
+   "name": "RES102",
+   "device": "Station"
   }
  ],
  "STAR 1": [
@@ -154635,6 +154652,13 @@
    "device": "Magic_Q1"
   }
  ],
+ "Ocean K8": [
+  {
+   "brand": "OLAX",
+   "name": "Ocean K8",
+   "device": "Ocean_K8"
+  }
+ ],
  "Ocean F8": [
   {
    "brand": "OLAX",
@@ -232843,6 +232867,18 @@
    "device": "TECNO-BF7n"
   }
  ],
+ "TECNO BG6": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK Go 2024",
+   "device": "TECNO-BG6"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO",
+   "device": "TECNO-BG6"
+  }
+ ],
  "TECNO K9": [
   {
    "brand": "Tecno",
@@ -232881,13 +232917,6 @@
    "brand": "Tecno",
    "name": "TECNO",
    "device": "TECNO-BF7s"
-  }
- ],
- "TECNO BG6": [
-  {
-   "brand": "Tecno",
-   "name": "TECNO",
-   "device": "TECNO-BG6"
   }
  ],
  "TECNO KC3": [
@@ -254627,6 +254656,13 @@
   }
  ],
  "MiTV-MOOR1": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "irobot"
+  }
+ ],
+ "MiTV-MOSR3": [
   {
    "brand": "Xiaomi",
    "name": "MiTV",

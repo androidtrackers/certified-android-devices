@@ -46863,6 +46863,11 @@
    "model": "Google Pixel Watch"
   },
   {
+   "device": "aurora",
+   "name": "Pixel Watch 2",
+   "model": "Google Pixel Watch 2"
+  },
+  {
    "device": "eos",
    "name": "Pixel Watch 2",
    "model": "Google Pixel Watch 2"
@@ -53534,6 +53539,11 @@
   }
  ],
  "HiMedia": [
+  {
+   "device": "Station",
+   "name": "RES102",
+   "model": "RES102"
+  },
   {
    "device": "HiBox",
    "name": "S500",
@@ -77567,6 +77577,11 @@
    "device": "lavender",
    "name": "QRIOM",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "QRIOM",
+   "model": "2K SMART TV"
   },
   {
    "device": "mountbaker",
@@ -115412,6 +115427,11 @@
    "device": "Magic_Q8",
    "name": "Magic_Q8",
    "model": "Magic Q8"
+  },
+  {
+   "device": "Ocean_K8",
+   "name": "Ocean K8",
+   "model": "Ocean K8"
   },
   {
    "device": "Ocean_F8",
@@ -176172,6 +176192,11 @@
    "model": "TECNO BF7n"
   },
   {
+   "device": "TECNO-BG6",
+   "name": "SPARK Go 2024",
+   "model": "TECNO BG6"
+  },
+  {
    "device": "TECNO-BB4k",
    "name": "SPARK Go Plus",
    "model": "TECNO BB4k"
@@ -194298,6 +194323,11 @@
    "device": "irobot",
    "name": "MiTV",
    "model": "MiTV-MOOR1"
+  },
+  {
+   "device": "irobot",
+   "name": "MiTV",
+   "model": "MiTV-MOSR3"
   },
   {
    "device": "irobot",

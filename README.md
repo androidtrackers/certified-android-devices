@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-17
+Last sync is 2023-10-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9019,6 +9019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Tablet|tangorpro|Pixel Tablet|
 |Google|Pixel Watch|r11|Google Pixel Watch|
 |Google|Pixel Watch|r11btwifi|Google Pixel Watch|
+|Google|Pixel Watch 2|aurora|Google Pixel Watch 2|
 |Google|Pixel Watch 2|eos|Google Pixel Watch 2|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixelbook|atlas_cheets|Google Pixelbook Go|
@@ -10323,6 +10324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi(HMR)|Boost Hypa|Boost_Hypa|Boost Hypa|
 |Hi-online|Boost Ultra|Boost_Ultra|Boost Ultra|
 |Hi-online|HMR5450|HMR5450|HMR5450|
+|HiMedia|RES102|Station|RES102|
 |HiMedia|S500|HiBox|S500|
 |Hicel|STAR_1|STAR_1|STAR 1|
 |Hicel|SUN 1|SUN1|SUN 1|
@@ -15049,6 +15051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|POWER_GREEN|stanford|2K SMART TV|
 |KTCtv|QRIOM|hongkong|4K SMART TV|
 |KTCtv|QRIOM|lavender|4K SMART TV|
+|KTCtv|QRIOM|mountbaker|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
 |KTCtv|SA|hongkong|EcoTV Plus|
@@ -22438,6 +22441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Magic_Q1|Magic_Q1|Magic Q1|
 |OLAX|Magic_Q8|Magic_Q8|Magic Q8|
+|OLAX|Ocean K8|Ocean_K8|Ocean K8|
 |OLAX|Ocean_F8|Ocean_F8|Ocean F8|
 |OLAX|Q101_EEA|Q101_EEA|Q101_EEA|
 |OMIX|MixTab Pro|MixTab_Pro|MixTab Pro|
@@ -34342,6 +34346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK Go 2020|TECNO-KE5S|TECNO KE5S|
 |Tecno|SPARK Go 2021(SPARK 6 Go)|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go 2023|TECNO-BF7n|TECNO BF7n|
+|Tecno|SPARK Go 2024|TECNO-BG6|TECNO BG6|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -37840,6 +37845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|hermano|MiTV-MOSR0|
 |Xiaomi|MiTV|hermano|MiTV-MOSR1|
 |Xiaomi|MiTV|irobot|MiTV-MOOR1|
+|Xiaomi|MiTV|irobot|MiTV-MOSR3|
 |Xiaomi|MiTV|irobot|MiTV-MOSR4|
 |Xiaomi|MiTV|machuca|MiTV-MSSP3|
 |Xiaomi|MiTV|magnolia|MiTV4I|
