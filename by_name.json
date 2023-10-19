@@ -95299,6 +95299,11 @@
    "brand": "Huawei",
    "device": "HWCAZ",
    "model": "HUAWEI CAZ-TL20"
+  },
+  {
+   "brand": "Rhino",
+   "device": "nova",
+   "model": "C6"
   }
  ],
  "nova 2": [
@@ -175991,6 +175996,20 @@
    "brand": "Rhino",
    "device": "portal",
    "model": "PACE A1"
+  }
+ ],
+ "scout": [
+  {
+   "brand": "Rhino",
+   "device": "scout",
+   "model": "T80"
+  }
+ ],
+ "scoutxl": [
+  {
+   "brand": "Rhino",
+   "device": "scoutxl",
+   "model": "T100"
   }
  ],
  "SRT412": [

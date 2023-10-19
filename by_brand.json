@@ -134914,9 +134914,24 @@
    "model": "T8"
   },
   {
+   "device": "nova",
+   "name": "nova",
+   "model": "C6"
+  },
+  {
    "device": "portal",
    "name": "portal",
    "model": "PACE A1"
+  },
+  {
+   "device": "scout",
+   "name": "scout",
+   "model": "T80"
+  },
+  {
+   "device": "scoutxl",
+   "name": "scoutxl",
+   "model": "T100"
   }
  ],
  "RiksTV": [

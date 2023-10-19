@@ -29376,6 +29376,11 @@
    "brand": "Handheld-Wireless",
    "name": "C6_TU",
    "device": "C6"
+  },
+  {
+   "brand": "Rhino",
+   "name": "nova",
+   "device": "nova"
   }
  ],
  "C6 2020": [
@@ -52408,6 +52413,11 @@
    "brand": "EKEMP",
    "name": "T80 EEA",
    "device": "T80"
+  },
+  {
+   "brand": "Rhino",
+   "name": "scout",
+   "device": "scout"
   },
   {
    "brand": "Veidoo",
@@ -120702,6 +120712,11 @@
    "brand": "Moolah Mobile",
    "name": "T100",
    "device": "T100"
+  },
+  {
+   "brand": "Rhino",
+   "name": "scoutxl",
+   "device": "scoutxl"
   }
  ],
  "Vyper PRO": [

@@ -175763,11 +175763,32 @@
    "model": "T8"
   }
  ],
+ "nova": [
+  {
+   "brand": "Rhino",
+   "name": "nova",
+   "model": "C6"
+  }
+ ],
  "portal": [
   {
    "brand": "Rhino",
    "name": "portal",
    "model": "PACE A1"
+  }
+ ],
+ "scout": [
+  {
+   "brand": "Rhino",
+   "name": "scout",
+   "model": "T80"
+  }
+ ],
+ "scoutxl": [
+  {
+   "brand": "Rhino",
+   "name": "scoutxl",
+   "model": "T100"
   }
  ],
  "R455": [

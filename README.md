@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-18
+Last sync is 2023-10-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26234,7 +26234,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|C10|Rhino_C10|C10|
 |Rhino|M10p_001|Rhino_M10p|M10p|
 |Rhino|T8|Rhino_T8|T8|
+|Rhino|nova|nova|C6|
 |Rhino|portal|portal|PACE A1|
+|Rhino|scout|scout|T80|
+|Rhino|scoutxl|scoutxl|T100|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
 |Rindo|Smart TV|longshan|AI PONT|
