@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-20
+Last sync is 2023-10-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3134,6 +3134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Q Stick|S905Y2|QS01|
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
+|BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
 |BenQ|RP8604|RP8604|RP8604|
 |BenQ|Smart TV|longshan|AI PONT|
@@ -3753,6 +3754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G61S|G0520WW|G61S|
 |Blu|G61S|G0530WW|G61S|
 |Blu|G61S|G0630WW|G61S|
+|Blu|G63|G0860|G63|
 |Blu|G63|G0870|G63|
 |Blu|G70|G0151WW|G70|
 |Blu|G70|G0250WW|G70|
@@ -5680,6 +5682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |D-Tech|DT10-TAB4G-T101|DT10-TAB4G-T101|DT10-TAB4G-T101|
 |D-Tech|H70_G|H70_G|H70_G|
 |D-Tech|LM-01|LM_01|LM-01|
+|DABLIU|E13R|E13R_B100G|E13R|
 |DABLIU|E13R|E13R_B75G|E13R|
 |DABLIU|E13R|E13R_B86G|E13R|
 |DABLIU|E13R_B65G|rk3588_E13R|E13R|
@@ -5900,6 +5903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
 |DIALN|G10|G10|G10|
 |DIALN|G65|G65|G65|
+|DIALN|Neo|NeoA|Neo|
 |DIALN|S8|S8|S8|
 |DIALN|X10G|X10G|X10G|
 |DIALN|X10ULTRA|X10ULTRA|X10ULTRA|
@@ -14435,6 +14439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel  AC50|itel-A507LM|itel A507LM|
 |Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
 |Itel|itel 4K TV|SW4H|itel 4K TV|
+|Itel|itel A04|itel-A632W|itel A632W|
 |Itel|itel A04|itel-A632WM|itel A632WM|
 |Itel|itel A11|itel_A11|itel A11|
 |Itel|itel A14|itel-A14|itel A14|
@@ -29919,6 +29924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seuic|CRUISE2|d730|CRUISE2|
 |Seuic|CRUISE2 5G|d740|CRUISE2 5G|
 |Seuic|HHT8B|hht8b|HHT8B|
+|Shaks|Gretzky|TSA|Shaks G1|
 |Sharp||SH7218T|SH7218T|
 |Sharp||SH8268U|SH8268U|
 |Sharp||SH8288U|SH8288U|
@@ -30545,6 +30551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite 45T|Elite_45SM|Elite 45T|
 |Sky Devices|Elite 45T|Elite_45T|Elite 45T|
 |Sky Devices|Elite 5T|Elite_5T_GT|Elite 5T|
+|Sky Devices|Elite 6Max|Elite_6Max|Elite 6Max|
 |Sky Devices|Elite A5|BITA_5|Elite A5|
 |Sky Devices|Elite A5|Elite_A5|Elite A5|
 |Sky Devices|Elite A5|Elite_AMS|Elite A5|

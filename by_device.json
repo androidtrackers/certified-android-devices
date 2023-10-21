@@ -30026,6 +30026,13 @@
    "model": "i-217D1"
   }
  ],
+ "RM6504": [
+  {
+   "brand": "BenQ",
+   "name": "RM6504",
+   "model": "RM6504"
+  }
+ ],
  "RM7504": [
   {
    "brand": "BenQ",
@@ -34698,6 +34705,13 @@
    "brand": "Blu",
    "name": "G61S",
    "model": "G61S"
+  }
+ ],
+ "G0860": [
+  {
+   "brand": "Blu",
+   "name": "G63",
+   "model": "G63"
   }
  ],
  "G0870": [
@@ -48547,6 +48561,13 @@
    "model": "LM-01"
   }
  ],
+ "E13R_B100G": [
+  {
+   "brand": "DABLIU",
+   "name": "E13R",
+   "model": "E13R"
+  }
+ ],
  "E13R_B75G": [
   {
    "brand": "DABLIU",
@@ -50114,6 +50135,13 @@
    "brand": "DIALN",
    "name": "G65",
    "model": "G65"
+  }
+ ],
+ "NeoA": [
+  {
+   "brand": "DIALN",
+   "name": "Neo",
+   "model": "Neo"
   }
  ],
  "X10G": [
@@ -103772,6 +103800,13 @@
    "brand": "Itel",
    "name": "itel  V51 LTE",
    "model": "itel A507LP"
+  }
+ ],
+ "itel-A632W": [
+  {
+   "brand": "Itel",
+   "name": "itel A04",
+   "model": "itel A632W"
   }
  ],
  "itel-A632WM": [
@@ -198243,6 +198278,13 @@
    "model": "HHT8B"
   }
  ],
+ "TSA": [
+  {
+   "brand": "Shaks",
+   "name": "Gretzky",
+   "model": "Shaks G1"
+  }
+ ],
  "SH7218T": [
   {
    "brand": "Sharp",
@@ -202213,6 +202255,13 @@
    "brand": "Sky Devices",
    "name": "Elite 45T",
    "model": "Elite 45T"
+  }
+ ],
+ "Elite_6Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite 6Max",
+   "model": "Elite 6Max"
   }
  ],
  "BITA_5": [

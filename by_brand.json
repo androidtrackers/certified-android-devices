@@ -16180,6 +16180,11 @@
    "model": "QS02"
   },
   {
+   "device": "RM6504",
+   "name": "RM6504",
+   "model": "RM6504"
+  },
+  {
    "device": "RM7504",
    "name": "RM7504",
    "model": "RM7504"
@@ -19335,6 +19340,11 @@
    "device": "G0630WW",
    "name": "G61S",
    "model": "G61S"
+  },
+  {
+   "device": "G0860",
+   "name": "G63",
+   "model": "G63"
   },
   {
    "device": "G0870",
@@ -29366,6 +29376,11 @@
  ],
  "DABLIU": [
   {
+   "device": "E13R_B100G",
+   "name": "E13R",
+   "model": "E13R"
+  },
+  {
    "device": "E13R_B75G",
    "name": "E13R",
    "model": "E13R"
@@ -30490,6 +30505,11 @@
    "device": "G65",
    "name": "G65",
    "model": "G65"
+  },
+  {
+   "device": "NeoA",
+   "name": "Neo",
+   "model": "Neo"
   },
   {
    "device": "S8",
@@ -74351,6 +74371,11 @@
    "device": "SW4H",
    "name": "itel 4K TV",
    "model": "itel 4K TV"
+  },
+  {
+   "device": "itel-A632W",
+   "name": "itel A04",
+   "model": "itel A632W"
   },
   {
    "device": "itel-A632WM",
@@ -153615,6 +153640,13 @@
    "model": "HHT8B"
   }
  ],
+ "Shaks": [
+  {
+   "device": "TSA",
+   "name": "Gretzky",
+   "model": "Shaks G1"
+  }
+ ],
  "Sharp": [
   {
    "device": "SH7218T",
@@ -156787,6 +156819,11 @@
    "device": "Elite_5T_GT",
    "name": "Elite 5T",
    "model": "Elite 5T"
+  },
+  {
+   "device": "Elite_6Max",
+   "name": "Elite 6Max",
+   "model": "Elite 6Max"
   },
   {
    "device": "BITA_5",

@@ -25471,6 +25471,13 @@
    "device": "YUL"
   }
  ],
+ "RM6504": [
+  {
+   "brand": "BenQ",
+   "name": "RM6504",
+   "device": "RM6504"
+  }
+ ],
  "RM7504": [
   {
    "brand": "BenQ",
@@ -29973,6 +29980,11 @@
   }
  ],
  "G63": [
+  {
+   "brand": "Blu",
+   "name": "G63",
+   "device": "G0860"
+  },
   {
    "brand": "Blu",
    "name": "G63",
@@ -43902,6 +43914,11 @@
   {
    "brand": "DABLIU",
    "name": "E13R",
+   "device": "E13R_B100G"
+  },
+  {
+   "brand": "DABLIU",
+   "name": "E13R",
    "device": "E13R_B75G"
   },
   {
@@ -45478,6 +45495,13 @@
    "brand": "DIALN",
    "name": "G65",
    "device": "G65"
+  }
+ ],
+ "Neo": [
+  {
+   "brand": "DIALN",
+   "name": "Neo",
+   "device": "NeoA"
   }
  ],
  "X10G": [
@@ -103180,6 +103204,13 @@
    "brand": "Itel",
    "name": "itel 4K TV",
    "device": "SW4H"
+  }
+ ],
+ "itel A632W": [
+  {
+   "brand": "Itel",
+   "name": "itel A04",
+   "device": "itel-A632W"
   }
  ],
  "itel A632WM": [
@@ -203967,6 +203998,13 @@
    "device": "hht8b"
   }
  ],
+ "Shaks G1": [
+  {
+   "brand": "Shaks",
+   "name": "Gretzky",
+   "device": "TSA"
+  }
+ ],
  "SH7218T": [
   {
    "brand": "Sharp",
@@ -208155,6 +208193,13 @@
    "brand": "Sky Devices",
    "name": "ELITE_P55Max",
    "device": "ELITE_P55Max"
+  }
+ ],
+ "Elite 6Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite 6Max",
+   "device": "Elite_6Max"
   }
  ],
  "Elite A5": [
