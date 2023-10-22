@@ -99322,6 +99322,13 @@
    "model": "Infinix X6821"
   }
  ],
+ "Infinix-X6731B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO 30",
+   "model": "Infinix X6731B"
+  }
+ ],
  "Infinix-X6815B": [
   {
    "brand": "Infinix",
@@ -99484,13 +99491,6 @@
    "brand": "Infinix",
    "name": "NOTE 30i",
    "model": "Infinix X6716"
-  }
- ],
- "Infinix-X6731B": [
-  {
-   "brand": "Infinix",
-   "name": "NOTE 30i",
-   "model": "Infinix X6731B"
   }
  ],
  "Infinix-X690": [
@@ -177033,7 +177033,7 @@
   },
   {
    "brand": "SMART Technologies",
-   "name": "SMART AMG series",
+   "name": "AMG1",
    "model": "AMG series"
   }
  ],
@@ -237686,6 +237686,11 @@
    "brand": "Vivo",
    "name": "iQOO Z8x",
    "model": "V2312A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y78t",
+   "model": "V2312BA"
   }
  ],
  "1907": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-21
+Last sync is 2023-10-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13747,6 +13747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
 |Infinix|Infinix ZERO 20|Infinix-X6821|Infinix X6821|
+|Infinix|Infinix ZERO 30|Infinix-X6731B|Infinix X6731B|
 |Infinix|Infinix ZERO 5G|Infinix-X6815B|Infinix X6815B|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
 |Infinix|Infinix ZERO X|Infinix-X6811B|Infinix X6811B|
@@ -13771,7 +13772,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 30 Pro|Infinix-X678B|Infinix X678B|
 |Infinix|NOTE 30 VIP|Infinix-X6710|Infinix X6710|
 |Infinix|NOTE 30i|Infinix-X6716|Infinix X6716|
-|Infinix|NOTE 30i|Infinix-X6731B|Infinix X6731B|
 |Infinix|NOTE 4|Infinix-X572|Infinix X572|
 |Infinix|NOTE 4|Infinix-X572|Infinix X572-LTE|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571|
@@ -26477,7 +26477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY EVO|SA100|HY40A|SA100|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SMART Technologies|AM60 series|komodo|AM60 series|
-|SMART Technologies|SMART AMG series|komodo|AMG series|
+|SMART Technologies|AMG1|komodo|AMG series|
 |SMART Technologies|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
 |SMART_KASSEL|ARGENTINA|SK3402|SK3402|
 |SMART_KASSEL|SK3403|SK3403|SK3403|
@@ -36718,6 +36718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y75A|PD1718|vivo Y75A|
 |Vivo|vivo Y75s|PD2069|V2069BA|
 |Vivo|vivo Y77|PD2219|V2219A|
+|Vivo|vivo Y78t|PD2312|V2312BA|
 |Vivo|vivo Y83A|PD1803|vivo Y83A|
 |Vivo|vivo Z1i|PD1730D|vivo Y89|
 |Vivo|vivo Z1i|PD1730D|vivo Z1i|

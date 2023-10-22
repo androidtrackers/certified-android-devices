@@ -70859,6 +70859,11 @@
    "model": "Infinix X6821"
   },
   {
+   "device": "Infinix-X6731B",
+   "name": "Infinix ZERO 30",
+   "model": "Infinix X6731B"
+  },
+  {
    "device": "Infinix-X6815B",
    "name": "Infinix ZERO 5G",
    "model": "Infinix X6815B"
@@ -70977,11 +70982,6 @@
    "device": "Infinix-X6716",
    "name": "NOTE 30i",
    "model": "Infinix X6716"
-  },
-  {
-   "device": "Infinix-X6731B",
-   "name": "NOTE 30i",
-   "model": "Infinix X6731B"
   },
   {
    "device": "Infinix-X572",
@@ -136260,7 +136260,7 @@
   },
   {
    "device": "komodo",
-   "name": "SMART AMG series",
+   "name": "AMG1",
    "model": "AMG series"
   },
   {
@@ -188486,6 +188486,11 @@
    "device": "PD2219",
    "name": "vivo Y77",
    "model": "V2219A"
+  },
+  {
+   "device": "PD2312",
+   "name": "vivo Y78t",
+   "model": "V2312BA"
   },
   {
    "device": "PD1803",
