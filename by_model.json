@@ -6763,6 +6763,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "FOL",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
    "name": "KTC",
    "device": "stanford"
   },
@@ -7075,7 +7080,17 @@
   },
   {
    "brand": "KTCtv",
+   "name": "FOL",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
    "name": "FPS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "HARMON-TEC",
    "device": "hongkong"
   },
   {
@@ -7131,6 +7146,11 @@
   {
    "brand": "KTCtv",
    "name": "STAR-TRACK",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VEIRA",
    "device": "lavender"
   },
   {
@@ -22922,6 +22942,13 @@
    "brand": "BMobile",
    "name": "BL54_PRO_TG05",
    "device": "Bmobile_BL54_PRO_TG05"
+  }
+ ],
+ "BMOBILE_BL55": [
+  {
+   "brand": "BMobile",
+   "name": "BL55",
+   "device": "Bmobile_BL55"
   }
  ],
  "BL55_PRO": [
@@ -47548,6 +47575,13 @@
    "brand": "Denver Electronics",
    "name": "TIQ_1048",
    "device": "TIQ_1048"
+  }
+ ],
+ "Detco 4K Google TV": [
+  {
+   "brand": "Detco",
+   "name": "Detco 4K Google TV",
+   "device": "keoneae"
   }
  ],
  "T Phone": [
@@ -75582,6 +75616,13 @@
    "brand": "HaloBop (ShenZhen)",
    "name": "BG001",
    "device": "HelloGenius"
+  }
+ ],
+ "HamiVideo": [
+  {
+   "brand": "Hami TV",
+   "name": "HamiVideo",
+   "device": "HamiVideo"
   }
  ],
  "MIELS": [
@@ -146073,6 +146114,11 @@
    "brand": "Motorola",
    "name": "motorola edge (2022)",
    "device": "tesla"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 2023",
+   "device": "aion"
   }
  ],
  "motorola edge 20": [
@@ -146094,6 +146140,13 @@
    "brand": "Motorola",
    "name": "motorola edge 20 lite",
    "device": "kyoto"
+  }
+ ],
+ "motorola edge 2023": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 2023",
+   "device": "aion"
   }
  ],
  "motorola edge 30": [
@@ -153373,6 +153426,11 @@
   {
    "brand": "Nokia",
    "name": "Nokia TV",
+   "device": "marina"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia TV",
    "device": "nagata"
   }
  ],
@@ -156202,6 +156260,13 @@
    "device": "Oneplus_Dosa_IN"
   }
  ],
+ "CPH2551": [
+  {
+   "brand": "OnePlus",
+   "name": "Open",
+   "device": "OP5973L1"
+  }
+ ],
  "PHP110": [
   {
    "brand": "OnePlus",
@@ -158349,6 +158414,13 @@
    "brand": "Oppo",
    "name": "Find N2 Flip 中国版",
    "device": "OP5605"
+  }
+ ],
+ "CPH2499": [
+  {
+   "brand": "Oppo",
+   "name": "Find N3",
+   "device": "OP56BBL1"
   }
  ],
  "CPH1871": [
@@ -190561,6 +190633,13 @@
    "device": "m33x"
   }
  ],
+ "SM-M446K": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Jump3",
+   "device": "m44x"
+  }
+ ],
  "SHW-M130K": [
   {
    "brand": "Samsung",
@@ -218734,6 +218813,13 @@
    "device": "Sonata_Pro_OM"
   }
  ],
+ "T432J": [
+  {
+   "brand": "TCL",
+   "name": "TCL 502",
+   "device": "Rio_CAN"
+  }
+ ],
  "A600DL": [
   {
    "brand": "TCL",
@@ -231223,6 +231309,13 @@
    "device": "T40HD_T"
   }
  ],
+ "T40HD": [
+  {
+   "brand": "Teclast",
+   "name": "T40HD_ROW",
+   "device": "T40HD_ROW"
+  }
+ ],
  "T40HD_ROW": [
   {
    "brand": "Teclast",
@@ -233363,6 +233456,20 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 10C",
    "device": "TECNO-KI5m"
+  }
+ ],
+ "TECNO KJ5": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20",
+   "device": "TECNO-KJ5"
+  }
+ ],
+ "TECNO KJ5n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20",
+   "device": "TECNO-KJ5n"
   }
  ],
  "TECNO KC2": [
@@ -272693,6 +272800,13 @@
    "brand": "imiia",
    "name": "i-217D1",
    "device": "YUL"
+  }
+ ],
+ "imiia 4K Google TV-Y": [
+  {
+   "brand": "imiia",
+   "name": "imiia 4K Google TV-Y",
+   "device": "keoneae"
   }
  ],
  "BAM-II": [

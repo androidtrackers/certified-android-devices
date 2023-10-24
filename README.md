@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-23
+Last sync is 2023-10-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2759,6 +2759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54Pro_MV12|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
+|BMobile|BL55|Bmobile_BL55|BMOBILE_BL55|
 |BMobile|BL55_PRO_MV12|Bmobile_BL55_PRO_MV12|BL55_PRO|
 |BMobile|BL60|Bmobile_BL60|BL60|
 |BMobile|BL60|Bmobile_BL60_TG05B|BL60_TG05B|
@@ -6194,6 +6195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|TIQ-1049|TIQ-1049|TIQ-1049|
 |Denver Electronics|TIQ-70|TIQ-70|TIQ-70|
 |Denver Electronics|TIQ_1048|TIQ_1048|TIQ-1048|
+|Detco|Detco 4K Google TV|keoneae|Detco 4K Google TV|
 |Deutsche Telekom|T Phone|Jaguar|T Phone|
 |Deutsche Telekom|T Phone Pro|Lion|T Phone Pro|
 |DiDi (Japan)|DDT-001|DDT-001|DDT-001|
@@ -10252,6 +10254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
 |Haitech|HPAD_IP8045_1|HPAD_IP8045_1|HPAD_IP8045_1|
 |HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
+|Hami TV|HamiVideo|HamiVideo|HamiVideo|
 |Hamic|MIELS|MIELS|MIELS|
 |Hamic|POCKET|POCKET|POCKET|
 |Hamlet|Hamlet_XZPAD412W|XZPAD412W|Hamlet_XZPAD412W|
@@ -15022,12 +15025,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EcoTV Plus A|hongkong|EcoTV Plus A|
 |KTCtv|EcoTV Plus C|hongkong|EcoTV Plus C|
 |KTCtv|EcoTV Plus D|hongkong|EcoTV Plus D|
+|KTCtv|FOL|hongkong|4K SMART TV|
+|KTCtv|FOL|mountbaker|2K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
 |KTCtv|Global|hongkong|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|lavender|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|mountbaker|GLOBAL GOOGLE TV|
 |KTCtv|Global|stanford|CSV2K|
 |KTCtv|Golbal|zhongshan|CSV4K|
+|KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|ICE|stanford|SMART TV|
 |KTCtv|ICE|zhongshan|Smart UHD TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
@@ -15069,6 +15075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|STAR-TRACK|lavender|STAR-TRACK 4K SMART TV|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Smart TV|mountbaker|EcoTV FHD|
+|KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|VON|stanford|2K SMART TV|
@@ -21059,6 +21066,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 20 lite|kyoto|motorola edge 20 lite|
 |Motorola|motorola edge 20 pro|pstar|moto g(100)|
 |Motorola|motorola edge 20 pro|pstar|motorola edge 20 pro|
+|Motorola|motorola edge 2023|aion|motorola edge (2022)|
+|Motorola|motorola edge 2023|aion|motorola edge 2023|
 |Motorola|motorola edge 30|dubai|moto g200 5G|
 |Motorola|motorola edge 30|dubai|motorola edge 30|
 |Motorola|motorola edge 30 fusion|tundra|moto g200 5G|
@@ -22229,6 +22238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia T20|RDDCN|Nokia T20|
 |Nokia|Nokia T21|AGT|Nokia T21|
 |Nokia|Nokia T21|AGTA|Nokia T21|
+|Nokia|Nokia TV|marina|Nokia TV|
 |Nokia|Nokia TV|nagata|Nokia TV|
 |Nokia|Nokia X10|SCW|Nokia X10|
 |Nokia|Nokia X10|SCW_sprout|Nokia X10|
@@ -22704,6 +22714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
+|OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
@@ -23013,6 +23024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find N|OP4E75L1|PEUM00|
 |Oppo|Find N2 Flip|OP56CDL1|CPH2437|
 |Oppo|Find N2 Flip 中国版|OP5605|PGT110|
+|Oppo|Find N3|OP56BBL1|CPH2499|
 |Oppo|Find X|CPH1871|CPH1871|
 |Oppo|Find X|CPH1875|CPH1875|
 |Oppo|Find X|PAFM00|PAFM00|
@@ -27938,6 +27950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Jean|a6pltektt|SM-A605K|
 |Samsung|Galaxy Jean2|a20e|SM-A202K|
 |Samsung|Galaxy Jump2|m33x|SM-M336K|
+|Samsung|Galaxy Jump3|m44x|SM-M446K|
 |Samsung|Galaxy K|SHW-M130K|SHW-M130K|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111M|
@@ -32233,6 +32246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 408|Civic_Plus|T507U|
 |TCL|TCL 40T|Sonata_TF|T608DL|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
+|TCL|TCL 502|Rio_CAN|T432J|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -34105,6 +34119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T40Air_ROW|T40Air_ROW|T40 Air|
 |Teclast|T40Air_RUS|T40Air_RUS|T40Air_RUS|
 |Teclast|T40HD_EEA|T40HD_T|T40HD_EEA|
+|Teclast|T40HD_ROW|T40HD_ROW|T40HD|
 |Teclast|T40HD_ROW|T40HD_ROW|T40HD_ROW|
 |Teclast|T40HD_ROW|T40HD_T|T40HD_ROW|
 |Teclast|T40HD_RUS|T40HD_RUS|T40HD_RUS|
@@ -34428,6 +34443,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 10|TECNO-KI5qs|TECNO KI5qs|
 |Tecno|TECNO SPARK 10C|TECNO-KI5k|TECNO KI5k|
 |Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
+|Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|
+|Tecno|TECNO SPARK 20|TECNO-KJ5n|TECNO KJ5n|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
@@ -40678,6 +40695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imiia|4K Smart TV|pioneer|4K PA Smart TV|
 |imiia|Smart TV|mateo|2K PA Smart TV|
 |imiia|i-217D1|YUL|i-217D1|
+|imiia|imiia 4K Google TV-Y|keoneae|imiia 4K Google TV-Y|
 |imose|BAM-II|BAM-II|BAM-II|
 |imose|Omotab2|Omotab2|Omotab2|
 |imose|Omotab_2s|Omotab_2s|Omotab 2s|

@@ -5349,6 +5349,11 @@
    "model": "Decaview 4K Google TV"
   },
   {
+   "brand": "Detco",
+   "name": "Detco 4K Google TV",
+   "model": "Detco 4K Google TV"
+  },
+  {
    "brand": "Digi",
    "name": "Digiking 4K Google TV",
    "model": "Digiking 4K Google TV"
@@ -5452,6 +5457,11 @@
    "brand": "Vu Televisions",
    "name": "VU 4K Google TV",
    "model": "VU 4K Google TV"
+  },
+  {
+   "brand": "imiia",
+   "name": "imiia 4K Google TV-Y",
+   "model": "imiia 4K Google TV-Y"
   },
   {
    "brand": "innos",
@@ -11930,6 +11940,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "FOL",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "FPS",
    "model": "4K SMART TV"
   },
@@ -11937,6 +11952,11 @@
    "brand": "KTCtv",
    "name": "Global",
    "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "HARMON-TEC",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -12138,6 +12158,11 @@
   {
    "brand": "KTCtv",
    "name": "ESLEY",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "FOL",
    "model": "2K SMART TV"
   },
   {
@@ -15671,6 +15696,11 @@
    "brand": "Nano",
    "name": "Thailand",
    "model": "Nano 4K SMART TV"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia TV",
+   "model": "Nokia TV"
   },
   {
    "brand": "Profilo",
@@ -27410,6 +27440,13 @@
    "model": "BL54_PRO"
   }
  ],
+ "Bmobile_BL55": [
+  {
+   "brand": "BMobile",
+   "name": "BL55",
+   "model": "BMOBILE_BL55"
+  }
+ ],
  "Bmobile_BL55_PRO_MV12": [
   {
    "brand": "BMobile",
@@ -33045,6 +33082,11 @@
    "brand": "KTCtv",
    "name": "STAR-TRACK",
    "model": "STAR-TRACK 4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VEIRA",
+   "model": "4K SMART TV"
   },
   {
    "brand": "Kenwood",
@@ -78963,6 +79005,13 @@
    "brand": "HaloBop (ShenZhen)",
    "name": "BG001",
    "model": "BG001"
+  }
+ ],
+ "HamiVideo": [
+  {
+   "brand": "Hami TV",
+   "name": "HamiVideo",
+   "model": "HamiVideo"
   }
  ],
  "MIELS": [
@@ -144281,6 +144330,18 @@
    "model": "XT2153-1"
   }
  ],
+ "aion": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 2023",
+   "model": "motorola edge (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 2023",
+   "model": "motorola edge 2023"
+  }
+ ],
  "dubai": [
   {
    "brand": "Motorola",
@@ -154132,6 +154193,13 @@
    "model": "Oneplus_Dosa_IN"
   }
  ],
+ "OP5973L1": [
+  {
+   "brand": "OnePlus",
+   "name": "Open",
+   "model": "CPH2551"
+  }
+ ],
  "OP5927": [
   {
    "brand": "OnePlus",
@@ -156025,6 +156093,13 @@
    "brand": "Oppo",
    "name": "Find N2 Flip 中国版",
    "model": "PGT110"
+  }
+ ],
+ "OP56BBL1": [
+  {
+   "brand": "Oppo",
+   "name": "Find N3",
+   "model": "CPH2499"
   }
  ],
  "CPH1871": [
@@ -186006,6 +186081,13 @@
    "model": "SM-M336BU"
   }
  ],
+ "m44x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Jump3",
+   "model": "SM-M446K"
+  }
+ ],
  "SHW-M130K": [
   {
    "brand": "Samsung",
@@ -213007,6 +213089,13 @@
    "model": "T608M"
   }
  ],
+ "Rio_CAN": [
+  {
+   "brand": "TCL",
+   "name": "TCL 502",
+   "model": "T432J"
+  }
+ ],
  "Delhi_TF": [
   {
    "brand": "TCL",
@@ -222745,6 +222834,11 @@
   {
    "brand": "Teclast",
    "name": "T40HD_ROW",
+   "model": "T40HD"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T40HD_ROW",
    "model": "T40HD_ROW"
   }
  ],
@@ -224859,6 +224953,20 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 10C",
    "model": "TECNO KI5m"
+  }
+ ],
+ "TECNO-KJ5": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20",
+   "model": "TECNO KJ5"
+  }
+ ],
+ "TECNO-KJ5n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20",
+   "model": "TECNO KJ5n"
   }
  ],
  "TECNO-KC2": [
