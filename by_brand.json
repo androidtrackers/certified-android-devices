@@ -53047,6 +53047,11 @@
    "model": "TMK27A2"
   },
   {
+   "device": "Tablet_P20",
+   "name": "Tablet_P20",
+   "model": "Tablet_P20"
+  },
+  {
    "device": "Titan_T3_Pro",
    "name": "Titan T3 Pro",
    "model": "Titan_T3_Pro"
@@ -58751,6 +58756,16 @@
    "model": "PGT-N19"
   },
   {
+   "device": "HNALI-Q",
+   "name": "HONOR Magic6 Lite 5G",
+   "model": "ALI-NX1"
+  },
+  {
+   "device": "HNALI-Q",
+   "name": "HONOR Magic6 Lite 5G",
+   "model": "ALI-NX3"
+  },
+  {
    "device": "HNHEY-Q",
    "name": "HONOR Pad 8",
    "model": "HEY-W09"
@@ -58929,6 +58944,11 @@
    "device": "HNRMO-Q",
    "name": "HONOR X9a 5G",
    "model": "RMO-NX1"
+  },
+  {
+   "device": "HNALI-Q",
+   "name": "HONOR X9b 5G",
+   "model": "ALI-NX1"
   },
   {
    "device": "HNRBN-Q",
@@ -88596,6 +88616,11 @@
    "model": "LUNA V6 3GB"
   },
   {
+   "device": "LUNA_V6_4GB",
+   "name": "LUNA V6 4GB",
+   "model": "LUNA V6 4GB"
+  },
+  {
    "device": "G6",
    "name": "LUNA_G6",
    "model": "LUNA G6"
@@ -89220,6 +89245,11 @@
    "device": "stanford",
    "name": "NA",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "RX7_v3",
+   "name": "RX7_v3",
+   "model": "RX7_v3"
   },
   {
    "device": "Ilium_PAD_RX8",
@@ -117275,6 +117305,11 @@
    "model": "CPH2471"
   },
   {
+   "device": "OP575DL1",
+   "name": "A18",
+   "model": "CPH2591"
+  },
+  {
    "device": "OP486C",
    "name": "A1k",
    "model": "CPH1923"
@@ -117393,6 +117428,11 @@
    "device": "A37",
    "name": "A37tm",
    "model": "OPPO A37tm"
+  },
+  {
+   "device": "OP5759L1",
+   "name": "A38",
+   "model": "CPH2579"
   },
   {
    "device": "A39",
@@ -117753,6 +117793,16 @@
    "device": "A79",
    "name": "A79",
    "model": "OPPO A79"
+  },
+  {
+   "device": "OP573DL1",
+   "name": "A79 5G",
+   "model": "A303OP"
+  },
+  {
+   "device": "OP573DL1",
+   "name": "A79 5G",
+   "model": "CPH2553"
   },
   {
    "device": "A79k",
@@ -118440,9 +118490,24 @@
    "model": "PGT110"
   },
   {
+   "device": "OP55F3L1",
+   "name": "Find N3",
+   "model": "PHN110"
+  },
+  {
    "device": "OP56BBL1",
    "name": "Find N3",
    "model": "CPH2499"
+  },
+  {
+   "device": "OP5607L1",
+   "name": "Find N3 Flip",
+   "model": "PHT110"
+  },
+  {
+   "device": "OP56CFL1",
+   "name": "Find N3 Flip",
+   "model": "CPH2519"
   },
   {
    "device": "CPH1871",
@@ -135113,6 +135178,11 @@
    "device": "NovaTab_R10",
    "name": "NovaTab_R10",
    "model": "NovaTab_R10"
+  },
+  {
+   "device": "X1",
+   "name": "X1",
+   "model": "X1"
   }
  ],
  "RoadQuest": [
@@ -137083,6 +137153,11 @@
    "device": "Smooth_5_5_MAX",
    "name": "Smooth 5.5 MAX",
    "model": "Smooth 5.5 MAX"
+  },
+  {
+   "device": "Smooth_6_0",
+   "name": "Smooth 6.0",
+   "model": "Smooth 6.0"
   },
   {
    "device": "Smooth6_26_Lite",
@@ -155120,6 +155195,16 @@
   {
    "device": "mongkok",
    "name": "FK1",
+   "model": "AQUOS-TVH23C"
+  },
+  {
+   "device": "mongkok",
+   "name": "FK1",
+   "model": "AQUOS-TVT23C"
+  },
+  {
+   "device": "mongkok",
+   "name": "FK1",
    "model": "AQUOS-TVX23C"
   },
   {
@@ -157596,6 +157681,11 @@
   },
   {
    "device": "SKY_KID1",
+   "name": "SKY KID1",
+   "model": "SKY_KID1"
+  },
+  {
+   "device": "SKY_KID1us",
    "name": "SKY KID1",
    "model": "SKY_KID1"
   },

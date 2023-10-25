@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-24
+Last sync is 2023-10-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10235,6 +10235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|TAB-700|TAB_700|TAB-700|
 |Haier|TAB-700|TAB_700|TAB700MPG|
 |Haier|TMK27A2|TMK27A2|TMK27A2|
+|Haier|Tablet_P20|Tablet_P20|Tablet_P20|
 |Haier|Titan T3 Pro|Titan_T3_Pro|Titan_T3_Pro|
 |Haier|Titan_T1|Titan_T1|Titan_T1|
 |Haier|Titan_T3|Titan_T3|Titan_T3|
@@ -11357,6 +11358,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic5 Lite 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR Magic5 Lite 5G|HNRMO-Q|RMO-NX3|
 |Honor|HONOR Magic5 Pro|HNPGT|PGT-N19|
+|Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX1|
+|Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX3|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
@@ -11393,6 +11396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
+|Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
@@ -17216,6 +17220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUNA|LUNA T10|LUNA_T10|LUNA T10|
 |LUNA|LUNA V6|LUNA_V6|LUNA V6|
 |LUNA|LUNA V6 3GB|LUNA_V6_3GB|LUNA V6 3GB|
+|LUNA|LUNA V6 4GB|LUNA_V6_4GB|LUNA V6 4GB|
 |LUNA|LUNA_G6|G6|LUNA G6|
 |LUNA|LUNA_G6E|G6E|LUNA G6E|
 |LUSH_MINT|L1582C|L1582C|L1582C|
@@ -17336,6 +17341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Llium L910|Ilium_L910|Ilium L910|
 |Lanix|M1R|M1R|M1R|
 |Lanix|NA|stanford|2K SMART TV|
+|Lanix|RX7_v3|RX7_v3|RX7_v3|
 |Lanix|RX8|Ilium_PAD_RX8|Ilium_PAD_RX8v4|
 |Lanix|X100|ILIUM_X100|ILIUM_X100|
 |Lanix|X120C|X120C|X120C|
@@ -22791,6 +22797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A1603|A1603|A1603|
 |Oppo|A17|OP56F5|CPH2477|
 |Oppo|A17k|OP56F5|CPH2471|
+|Oppo|A18|OP575DL1|CPH2591|
 |Oppo|A1k|OP486C|CPH1923|
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A31|A31t|A31|
@@ -22815,6 +22822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A37m|A37|OPPO A37m|
 |Oppo|A37t|A37|OPPO A37t|
 |Oppo|A37tm|A37|OPPO A37tm|
+|Oppo|A38|OP5759L1|CPH2579|
 |Oppo|A39|A39|OPPO A39|
 |Oppo|A39m|A39|OPPO A39m|
 |Oppo|A39t|A39|OPPO A39t|
@@ -22887,6 +22895,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A78 5G|OP52F3L1|CPH2483|
 |Oppo|A78 5G|OP52F3L1|CPH2495|
 |Oppo|A79|A79|OPPO A79|
+|Oppo|A79 5G|OP573DL1|A303OP|
+|Oppo|A79 5G|OP573DL1|CPH2553|
 |Oppo|A79k|A79k|OPPO A79k|
 |Oppo|A79kt|A79kt|OPPO A79kt|
 |Oppo|A79t|A79|OPPO A79t|
@@ -23024,7 +23034,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find N|OP4E75L1|PEUM00|
 |Oppo|Find N2 Flip|OP56CDL1|CPH2437|
 |Oppo|Find N2 Flip 中国版|OP5605|PGT110|
+|Oppo|Find N3|OP55F3L1|PHN110|
 |Oppo|Find N3|OP56BBL1|CPH2499|
+|Oppo|Find N3 Flip|OP5607L1|PHT110|
+|Oppo|Find N3 Flip|OP56CFL1|CPH2519|
 |Oppo|Find X|CPH1871|CPH1871|
 |Oppo|Find X|CPH1875|CPH1875|
 |Oppo|Find X|PAFM00|PAFM00|
@@ -26271,6 +26284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Rixun|T107|T107|T107|
 |Rizzen|NovaTab_R10|NovaTab_R10|NovaTab_R10|
+|Rizzen|X1|X1|X1|
 |RoadQuest|RoadQuest|RQ-G|RQ-G|
 |RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
@@ -26633,6 +26647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSmooth|Smooth 5.0 2022|Smooth_5_0_2022|Smooth 5.0 2022|
 |SSmooth|Smooth 5.5 Lite|Smooth5_5_Lite|Smooth 5.5 Lite|
 |SSmooth|Smooth 5.5 MAX|Smooth_5_5_MAX|Smooth 5.5 MAX|
+|SSmooth|Smooth 6.0|Smooth_6_0|Smooth 6.0|
 |SSmooth|Smooth 6.26 Lite|Smooth6_26_Lite|Smooth 6.26 Lite|
 |SSmooth|Smooth 6.26 Max|Smooth6_26_Max|Smooth 6.26 Max|
 |SSmooth|Smooth 6.26 Pro|Smooth6_26_Pro|Smooth 6.26 Pro|
@@ -30218,6 +30233,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|EU|sindang|AQUOS_TVE19A|
 |Sharp|Europe|guandu|SHARP 4K EU Android TV|
 |Sharp|Europe|martin|SHARP 2K EU Android TV|
+|Sharp|FK1|mongkok|AQUOS-TVH23C|
+|Sharp|FK1|mongkok|AQUOS-TVT23C|
 |Sharp|FK1|mongkok|AQUOS-TVX23C|
 |Sharp|FS8014|SE3|FS8014|
 |Sharp|FV1|sandiego|AQUOS-TVT23A|
@@ -30706,6 +30723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY Black2|Sky_Black2gt|Sky Black2|
 |Sky Devices|SKY BlackMax|Sky_BlackMax|Sky BlackMax|
 |Sky Devices|SKY KID1|SKY_KID1|SKY_KID1|
+|Sky Devices|SKY KID1|SKY_KID1us|SKY_KID1|
 |Sky Devices|SKY PAD10Max|SKY_PAD10MaxNUS|SKY PAD10Max|
 |Sky Devices|SKY PAD10Max|SKY_PAD10MaxOPM|SKY PAD10Max|
 |Sky Devices|SKY PAD10Max|SKY_PADMaxNAL|SKY PAD10Max|

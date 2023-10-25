@@ -73037,6 +73037,11 @@
    "model": "186HS2080531"
   },
   {
+   "brand": "Rizzen",
+   "device": "X1",
+   "model": "X1"
+  },
+  {
    "brand": "SPC Mobile",
    "device": "SPC_X1",
    "model": "X1"
@@ -81495,6 +81500,13 @@
    "model": "TMK27A2"
   }
  ],
+ "Tablet_P20": [
+  {
+   "brand": "Haier",
+   "device": "Tablet_P20",
+   "model": "Tablet_P20"
+  }
+ ],
  "Titan T3 Pro": [
   {
    "brand": "Haier",
@@ -88404,6 +88416,18 @@
    "model": "PGT-N19"
   }
  ],
+ "HONOR Magic6 Lite 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNALI-Q",
+   "model": "ALI-NX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNALI-Q",
+   "model": "ALI-NX3"
+  }
+ ],
  "HONOR Pad 8": [
   {
    "brand": "Honor",
@@ -88616,6 +88640,13 @@
    "brand": "Honor",
    "device": "HNRMO-Q",
    "model": "RMO-NX1"
+  }
+ ],
+ "HONOR X9b 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNALI-Q",
+   "model": "ALI-NX1"
   }
  ],
  "RBN-NX1": [
@@ -121136,6 +121167,13 @@
    "model": "LUNA V6 3GB"
   }
  ],
+ "LUNA V6 4GB": [
+  {
+   "brand": "LUNA",
+   "device": "LUNA_V6_4GB",
+   "model": "LUNA V6 4GB"
+  }
+ ],
  "LUNA_G6": [
   {
    "brand": "LUNA",
@@ -121950,6 +121988,13 @@
    "brand": "Lanix",
    "device": "M1R",
    "model": "M1R"
+  }
+ ],
+ "RX7_v3": [
+  {
+   "brand": "Lanix",
+   "device": "RX7_v3",
+   "model": "RX7_v3"
   }
  ],
  "RX8": [
@@ -154395,6 +154440,13 @@
    "model": "CPH2471"
   }
  ],
+ "A18": [
+  {
+   "brand": "Oppo",
+   "device": "OP575DL1",
+   "model": "CPH2591"
+  }
+ ],
  "A1k": [
   {
    "brand": "Oppo",
@@ -154527,6 +154579,13 @@
    "brand": "Oppo",
    "device": "A37",
    "model": "OPPO A37tm"
+  }
+ ],
+ "A38": [
+  {
+   "brand": "Oppo",
+   "device": "OP5759L1",
+   "model": "CPH2579"
   }
  ],
  "A39": [
@@ -154806,6 +154865,18 @@
    "brand": "Oppo",
    "device": "OP52F3L1",
    "model": "CPH2495"
+  }
+ ],
+ "A79 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP573DL1",
+   "model": "A303OP"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP573DL1",
+   "model": "CPH2553"
   }
  ],
  "A79k": [
@@ -155687,8 +155758,25 @@
  "Find N3": [
   {
    "brand": "Oppo",
+   "device": "OP55F3L1",
+   "model": "PHN110"
+  },
+  {
+   "brand": "Oppo",
    "device": "OP56BBL1",
    "model": "CPH2499"
+  }
+ ],
+ "Find N3 Flip": [
+  {
+   "brand": "Oppo",
+   "device": "OP5607L1",
+   "model": "PHT110"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP56CFL1",
+   "model": "CPH2519"
   }
  ],
  "Find X": [
@@ -178377,6 +178465,13 @@
    "model": "Smooth 5.5 MAX"
   }
  ],
+ "Smooth 6.0": [
+  {
+   "brand": "SSmooth",
+   "device": "Smooth_6_0",
+   "model": "Smooth 6.0"
+  }
+ ],
  "Smooth 6.26 Lite": [
   {
    "brand": "SSmooth",
@@ -198314,6 +198409,16 @@
   {
    "brand": "Sharp",
    "device": "mongkok",
+   "model": "AQUOS-TVH23C"
+  },
+  {
+   "brand": "Sharp",
+   "device": "mongkok",
+   "model": "AQUOS-TVT23C"
+  },
+  {
+   "brand": "Sharp",
+   "device": "mongkok",
    "model": "AQUOS-TVX23C"
   }
  ],
@@ -201418,6 +201523,11 @@
   {
    "brand": "Sky Devices",
    "device": "SKY_KID1",
+   "model": "SKY_KID1"
+  },
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_KID1us",
    "model": "SKY_KID1"
   }
  ],
