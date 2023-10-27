@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-26
+Last sync is 2023-10-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3137,6 +3137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|QS02|YUL|QS02|
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
+|BenQ|RM8604|RM8604|RM8604|
 |BenQ|RP8604|RP8604|RP8604|
 |BenQ|Smart TV|longshan|AI PONT|
 |BenQ|Smart TV|redwood|AI PONT|
@@ -15495,11 +15496,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Kooda|KOODA 2K TV|shibuya|KOODA 2K TV|
+|Korea Telecom|KG3100|KG3100|KG3100|
 |Korea Telecom|KG4100|KG4100|KG4100|
 |Korea Telecom|KI1101|KI1101|KI1101|
 |Korea Telecom|KSTB6188|KSTB6188|KSTB6188|
 |Korea Telecom|MA4000|MA4000|MA4000|
 |Korea Telecom|MA4100|MA4100|MA4100|
+|Korea Telecom|MAR4510C|MAR4510C|MAR4510C|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|COLORS|COLORS|COLORS|
@@ -25173,6 +25176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize J3|TL50B10G|PSP3522DUO_RU|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO_RU|
+|Prestigio_Solutions|Virtuoso PSTA101|HE10A3L|PSTA101|
 |Prime|O9|PRIME_O9|O9|
 |Prime|PRIME Android TV|shinagawa|PRIME Android TV|
 |Prime|PRIME P1|PRIME_P1|P1|
@@ -34459,6 +34463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 10|TECNO-KI5n|TECNO KI5n|
 |Tecno|TECNO SPARK 10|TECNO-KI5q|TECNO KI5q|
 |Tecno|TECNO SPARK 10|TECNO-KI5qs|TECNO KI5qs|
+|Tecno|TECNO SPARK 10 Pro|TECNO-KI7|TECNO KI7|
 |Tecno|TECNO SPARK 10C|TECNO-KI5k|TECNO KI5k|
 |Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
 |Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|
@@ -40291,6 +40296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|Edison_3_mini|Edison_3_mini|Edison 3 mini|
 |bq|M8|Aquaris_M8|Aquaris M8|
 |care.ai|AIM H1|AIM-H1|AIM H1|
+|careai|AMS-R2O|AMS_R2O|AMS-R2O|
 |carp(IN)|carp 2K Android TV|lasalle|carp 2K Android TV|
 |carp(IN)|carp 4K Android TV|kenton|carp 4K Android TV|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|

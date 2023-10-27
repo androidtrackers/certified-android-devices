@@ -16195,6 +16195,11 @@
    "model": "RM7504"
   },
   {
+   "device": "RM8604",
+   "name": "RM8604",
+   "model": "RM8604"
+  },
+  {
    "device": "RP8604",
    "name": "RP8604",
    "model": "RP8604"
@@ -79901,6 +79906,11 @@
  ],
  "Korea Telecom": [
   {
+   "device": "KG3100",
+   "name": "KG3100",
+   "model": "KG3100"
+  },
+  {
    "device": "KG4100",
    "name": "KG4100",
    "model": "KG4100"
@@ -79924,6 +79934,11 @@
    "device": "MA4100",
    "name": "MA4100",
    "model": "MA4100"
+  },
+  {
+   "device": "MAR4510C",
+   "name": "MAR4510C",
+   "model": "MAR4510C"
   }
  ],
  "Krik Krak": [
@@ -129405,6 +129420,13 @@
    "model": "PSP3497DUO_RU"
   }
  ],
+ "Prestigio_Solutions": [
+  {
+   "device": "HE10A3L",
+   "name": "Virtuoso PSTA101",
+   "model": "PSTA101"
+  }
+ ],
  "Prime": [
   {
    "device": "PRIME_O9",
@@ -176763,6 +176785,11 @@
    "model": "TECNO KI5qs"
   },
   {
+   "device": "TECNO-KI7",
+   "name": "TECNO SPARK 10 Pro",
+   "model": "TECNO KI7"
+  },
+  {
    "device": "TECNO-KI5k",
    "name": "TECNO SPARK 10C",
    "model": "TECNO KI5k"
@@ -206761,6 +206788,13 @@
    "device": "AIM-H1",
    "name": "AIM H1",
    "model": "AIM H1"
+  }
+ ],
+ "careai": [
+  {
+   "device": "AMS_R2O",
+   "name": "AMS-R2O",
+   "model": "AMS-R2O"
   }
  ],
  "carp(IN)": [

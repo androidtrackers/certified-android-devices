@@ -25512,6 +25512,13 @@
    "device": "RM7504"
   }
  ],
+ "RM8604": [
+  {
+   "brand": "BenQ",
+   "name": "RM8604",
+   "device": "RM8604"
+  }
+ ],
  "RP8604": [
   {
    "brand": "BenQ",
@@ -109659,6 +109666,13 @@
    "device": "shibuya"
   }
  ],
+ "KG3100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KG3100",
+   "device": "KG3100"
+  }
+ ],
  "KG4100": [
   {
    "brand": "Korea Telecom",
@@ -109692,6 +109706,13 @@
    "brand": "Korea Telecom",
    "name": "MA4100",
    "device": "MA4100"
+  }
+ ],
+ "MAR4510C": [
+  {
+   "brand": "Korea Telecom",
+   "name": "MAR4510C",
+   "device": "MAR4510C"
   }
  ],
  "Freedom": [
@@ -172301,6 +172322,13 @@
    "device": "TL49B11G"
   }
  ],
+ "PSTA101": [
+  {
+   "brand": "Prestigio_Solutions",
+   "name": "Virtuoso PSTA101",
+   "device": "HE10A3L"
+  }
+ ],
  "O9": [
   {
    "brand": "Prime",
@@ -233564,6 +233592,13 @@
    "device": "TECNO-KI5qs"
   }
  ],
+ "TECNO KI7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10 Pro",
+   "device": "TECNO-KI7"
+  }
+ ],
  "TECNO KI5k": [
   {
    "brand": "Tecno",
@@ -270430,6 +270465,13 @@
    "brand": "care.ai",
    "name": "AIM H1",
    "device": "AIM-H1"
+  }
+ ],
+ "AMS-R2O": [
+  {
+   "brand": "careai",
+   "name": "AMS-R2O",
+   "device": "AMS_R2O"
   }
  ],
  "carp 2K Android TV": [
