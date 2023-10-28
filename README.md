@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-27
+Last sync is 2023-10-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -37896,6 +37896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|hermano|MiTV-MOSR0|
 |Xiaomi|MiTV|hermano|MiTV-MOSR1|
 |Xiaomi|MiTV|irobot|MiTV-MOOR1|
+|Xiaomi|MiTV|irobot|MiTV-MOSR2|
 |Xiaomi|MiTV|irobot|MiTV-MOSR3|
 |Xiaomi|MiTV|irobot|MiTV-MOSR4|
 |Xiaomi|MiTV|machuca|MiTV-MSSP3|

@@ -194590,6 +194590,11 @@
   {
    "device": "irobot",
    "name": "MiTV",
+   "model": "MiTV-MOSR2"
+  },
+  {
+   "device": "irobot",
+   "name": "MiTV",
    "model": "MiTV-MOSR3"
   },
   {
