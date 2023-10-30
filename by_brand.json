@@ -43624,6 +43624,11 @@
  ],
  "GOtv": [
   {
+   "device": "GoFreeTV",
+   "name": "GO700FR",
+   "model": "GO700FR"
+  },
+  {
    "device": "HND",
    "name": "SEI600GO",
    "model": "SEI600GO"
@@ -43914,6 +43919,18 @@
    "device": "GL9002",
    "name": "GL9002",
    "model": "GL9002"
+  }
+ ],
+ "Gangnam": [
+  {
+   "device": "anglelake",
+   "name": "GANGNAM",
+   "model": "GNG41RF"
+  },
+  {
+   "device": "waiawa",
+   "name": "Gangnam",
+   "model": "GNG51RU"
   }
  ],
  "Garad": [
@@ -187749,6 +187766,11 @@
    "model": "V2279A"
   },
   {
+   "device": "PD2318",
+   "name": "Y36",
+   "model": "V2318A"
+  },
+  {
    "device": "V2247",
    "name": "Y36",
    "model": "V2247"
@@ -187762,6 +187784,11 @@
    "device": "V2248",
    "name": "Y36 5G",
    "model": "V2248"
+  },
+  {
+   "device": "PD2318",
+   "name": "Y36m",
+   "model": "V2318A"
   },
   {
    "device": "Y51",
@@ -204075,6 +204102,11 @@
    "model": "ZTE Blade A33s"
   },
   {
+   "device": "P963F94_A",
+   "name": "ZTE Blade A34",
+   "model": "ZTE Blade A34"
+  },
+  {
    "device": "Z5157",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
@@ -204208,6 +204240,11 @@
    "device": "P932F10",
    "name": "ZTE Blade A531",
    "model": "ZTE Blade A531"
+  },
+  {
+   "device": "P963F64",
+   "name": "ZTE Blade A54",
+   "model": "ZTE Blade A54"
   },
   {
    "device": "P963F02",

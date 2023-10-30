@@ -63013,6 +63013,13 @@
    "device": "HM-G552-FL"
   }
  ],
+ "GO700FR": [
+  {
+   "brand": "GOtv",
+   "name": "GO700FR",
+   "device": "GoFreeTV"
+  }
+ ],
  "SEI600GO": [
   {
    "brand": "GOtv",
@@ -63428,6 +63435,20 @@
    "brand": "Galexia",
    "name": "GL9002",
    "device": "GL9002"
+  }
+ ],
+ "GNG41RF": [
+  {
+   "brand": "Gangnam",
+   "name": "GANGNAM",
+   "device": "anglelake"
+  }
+ ],
+ "GNG51RU": [
+  {
+   "brand": "Gangnam",
+   "name": "Gangnam",
+   "device": "waiawa"
   }
  ],
  "GARAD_fire": [
@@ -246758,6 +246779,18 @@
    "device": "PD1502A"
   }
  ],
+ "V2318A": [
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "device": "PD2318"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36m",
+   "device": "PD2318"
+  }
+ ],
  "V2247": [
   {
    "brand": "Vivo",
@@ -267299,6 +267332,13 @@
    "device": "P963F93"
   }
  ],
+ "ZTE Blade A34": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A34",
+   "device": "P963F94_A"
+  }
+ ],
  "Z5157V": [
   {
    "brand": "ZTE",
@@ -267460,6 +267500,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A531",
    "device": "P932F10"
+  }
+ ],
+ "ZTE Blade A54": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A54",
+   "device": "P963F64"
   }
  ],
  "ZTE Blade A7 2019": [

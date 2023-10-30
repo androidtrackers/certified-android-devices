@@ -7687,6 +7687,11 @@
    "brand": "Acer",
    "name": "Acer",
    "model": "DIX41RKF"
+  },
+  {
+   "brand": "Gangnam",
+   "name": "GANGNAM",
+   "model": "GNG41RF"
   }
  ],
  "waiawa": [
@@ -7694,6 +7699,11 @@
    "brand": "Acer",
    "name": "Acer",
    "model": "DIX51R4KU"
+  },
+  {
+   "brand": "Gangnam",
+   "name": "Gangnam",
+   "model": "GNG51RU"
   }
  ],
  "paine_cheets": [
@@ -67400,6 +67410,13 @@
    "brand": "GOODTEL",
    "name": "G7_EEA",
    "model": "G7"
+  }
+ ],
+ "GoFreeTV": [
+  {
+   "brand": "GOtv",
+   "name": "GO700FR",
+   "model": "GO700FR"
   }
  ],
  "YC-102D": [
@@ -237529,6 +237546,18 @@
    "model": "vivo Y35A"
   }
  ],
+ "PD2318": [
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "model": "V2318A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36m",
+   "model": "V2318A"
+  }
+ ],
  "V2247": [
   {
    "brand": "Vivo",
@@ -255945,6 +255974,13 @@
    "model": "ZTE Blade A33s"
   }
  ],
+ "P963F94_A": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A34",
+   "model": "ZTE Blade A34"
+  }
+ ],
  "Z5157": [
   {
    "brand": "ZTE",
@@ -256024,6 +256060,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A531",
    "model": "ZTE Blade A531"
+  }
+ ],
+ "P963F64": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A54",
+   "model": "ZTE Blade A54"
   }
  ],
  "P963F02": [

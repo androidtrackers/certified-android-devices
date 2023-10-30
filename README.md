@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-29
+Last sync is 2023-10-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8396,6 +8396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G6_EEA|G6_EEA|G6|
 |GOODTEL|G7|G7|G7|
 |GOODTEL|G7_EEA|G7_EEA|G7|
+|GOtv|GO700FR|GoFreeTV|GO700FR|
 |GOtv|SEI600GO|HND|SEI600GO|
 |GP-electronic|YC-102D|YC-102D|YC-102D|
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
@@ -8450,6 +8451,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Galapad|Galapad S6|GALAPAD_S6|GALAPAD_S6|
 |Galax|F5|F5|F5|
 |Galexia|GL9002|GL9002|GL9002|
+|Gangnam|GANGNAM|anglelake|GNG41RF|
+|Gangnam|Gangnam|waiawa|GNG51RU|
 |Garad|GARAD_fire|GARAD_fire|GARAD_fire|
 |Garmin||a10|Garmin-Asus A10|
 |Garmin|Monterra|monterra|Monterra|
@@ -36569,9 +36572,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y35A|PD1502A|vivo Y35A|
 |Vivo|Y35m|PD2230|V2230A|
 |Vivo|Y35m+|PD2279|V2279A|
+|Vivo|Y36|PD2318|V2318A|
 |Vivo|Y36|V2247|V2247|
 |Vivo|Y36|V2247|V2324|
 |Vivo|Y36 5G|V2248|V2248|
+|Vivo|Y36m|PD2318|V2318A|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
 |Vivo|Y53|1606|vivo 1606|
@@ -39771,6 +39776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A33+|P963F91|ZTE Blade A33+|
 |ZTE|ZTE Blade A33+ Core|P963F92|ZTE Blade A33+ Core|
 |ZTE|ZTE Blade A33s|P963F93|ZTE Blade A33s|
+|ZTE|ZTE Blade A34|P963F94_A|ZTE Blade A34|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -39798,6 +39804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A53+|P963F62|ZTE Blade A53+|
 |ZTE|ZTE Blade A53+|P963F62_A|ZTE Blade A53+|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
+|ZTE|ZTE Blade A54|P963F64|ZTE Blade A54|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
 |ZTE|ZTE Blade A7 2020|P662F02|ZTE Blade A7 2020|
