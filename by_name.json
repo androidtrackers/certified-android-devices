@@ -27921,6 +27921,11 @@
   {
    "brand": "BMobile",
    "device": "Bmobile_BL63",
+   "model": "BL63"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL63",
    "model": "BL63_TG07"
   }
  ],
@@ -38944,6 +38949,13 @@
    "model": "AiPlus4K"
   }
  ],
+ "Caixun TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "marina",
+   "model": "Caixun TV"
+  }
+ ],
  "Canada": [
   {
    "brand": "CAIXUN",
@@ -39056,6 +39068,13 @@
    "brand": "RCA",
    "device": "yeongdeungpo",
    "model": "AiPlus4K"
+  }
+ ],
+ "Newal 4K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "marina",
+   "model": "Newal 4K SMART TV"
   }
  ],
  "Sgamer": [
@@ -65149,6 +65168,13 @@
    "brand": "FOXXD",
    "device": "T8Pro",
    "model": "T8Pro"
+  }
+ ],
+ "FPD": [
+  {
+   "brand": "FPD",
+   "device": "hongkong",
+   "model": "EcoTV Pro D"
   }
  ],
  "FPT ATV Play Box": [
@@ -97279,6 +97305,11 @@
    "brand": "Hyundai",
    "device": "marina",
    "model": "HYUNDAI SMART 4K TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "nagata",
+   "model": "HYUNDAI SMART 2K TV"
   }
  ],
  "BS5002": [
@@ -100817,6 +100848,13 @@
    "model": "Infinix X669D"
   }
  ],
+ "Infinix HOT 40": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6836",
+   "model": "Infinix X6836"
+  }
+ ],
  "Infinix HOT 6X": [
   {
    "brand": "Infinix",
@@ -101043,6 +101081,13 @@
   }
  ],
  "Infinix SMART 8": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6525",
+   "model": "Infinix X6525"
+  }
+ ],
+ "Infinix SMART 8 HD": [
   {
    "brand": "Infinix",
    "device": "Infinix-X6525",
@@ -108885,6 +108930,11 @@
    "brand": "KTCtv",
    "device": "hongkong",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "ICE": [
@@ -108902,6 +108952,13 @@
    "brand": "NYX Mobile",
    "device": "ICE",
    "model": "ICE"
+  }
+ ],
+ "IMMER": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "INNOVA": [
@@ -145788,6 +145845,11 @@
    "brand": "Multilaser",
    "device": "ML_JI0T_M9_WIFI",
    "model": "M9_WIFI"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0U_M9_WIFI",
+   "model": "M9_WIFI"
   }
  ],
  "ML-JI-M7_3G_PLUS": [
@@ -178603,6 +178665,13 @@
    "model": "VARG"
   }
  ],
+ "STARSHINE": [
+  {
+   "brand": "STARSHINE",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
  "STARSHINE 2K Google TV": [
   {
    "brand": "STARSHINE",
@@ -192330,6 +192399,11 @@
    "brand": "Samsung",
    "device": "gta9p",
    "model": "SM-X218B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta9p",
+   "model": "SM-X218U"
   }
  ],
  "Galaxy Tab Active": [
@@ -199434,6 +199508,11 @@
    "brand": "Sharp",
    "device": "ewha",
    "model": "AQUOS-TVE21B"
+  },
+  {
+   "brand": "Sharp",
+   "device": "kaitak",
+   "model": "Sharp Google TV"
   },
   {
    "brand": "Sharp",
@@ -228799,6 +228878,20 @@
    "model": "MP38"
   }
  ],
+ "UMIDIGI G5C": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_G5C",
+   "model": "MP39"
+  }
+ ],
+ "UMIDIGI G5C EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_G5C",
+   "model": "MP39"
+  }
+ ],
  "UMIDIGI X": [
   {
    "brand": "Umidigi",
@@ -249797,6 +249890,13 @@
    "model": "P545"
   }
  ],
+ "P601": [
+  {
+   "brand": "ZTE",
+   "device": "P963F80",
+   "model": "P601"
+  }
+ ],
  "P609": [
   {
    "brand": "ZTE",
@@ -254882,6 +254982,13 @@
    "brand": "Zebra",
    "device": "ET55T",
    "model": "ET5X"
+  }
+ ],
+ "ET65": [
+  {
+   "brand": "Zebra",
+   "device": "ET65",
+   "model": "ET65"
   }
  ],
  "MC18": [

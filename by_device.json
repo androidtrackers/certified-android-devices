@@ -11884,6 +11884,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Pro D"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV 4K"
@@ -11966,6 +11971,11 @@
   {
    "brand": "KTCtv",
    "name": "HARMON-TEC",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IMMER",
    "model": "4K SMART TV"
   },
   {
@@ -12182,6 +12192,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "HARMON-TEC",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV"
   },
@@ -12268,6 +12283,11 @@
   {
    "brand": "SAELITE",
    "name": "SAELITE",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "STARSHINE",
+   "name": "STARSHINE",
    "model": "2K SMART TV"
   },
   {
@@ -15609,6 +15629,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Caixun TV",
+   "model": "Caixun TV"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "Columbia",
    "model": "Apollo Premium4K TV"
   },
@@ -15631,6 +15656,11 @@
    "brand": "CAIXUN",
    "name": "MAXWELL SMART TV",
    "model": "MAXWELL SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Newal 4K SMART TV",
+   "model": "Newal 4K SMART TV"
   },
   {
    "brand": "CAIXUN",
@@ -27538,6 +27568,11 @@
   {
    "brand": "BMobile",
    "name": "BL63",
+   "model": "BL63"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL63",
    "model": "BL63_TG07"
   }
  ],
@@ -33009,6 +33044,11 @@
    "model": "OK Google TV"
   },
   {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "model": "Sharp Google TV"
+  },
+  {
    "brand": "Umax",
    "name": "UMAX",
    "model": "Ultra 4K GTV"
@@ -33329,6 +33369,11 @@
    "brand": "Grunkel",
    "name": "Europe",
    "model": "GRUNKEL SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "BOLIVIA",
+   "model": "HYUNDAI SMART 2K TV"
   },
   {
    "brand": "Hyundai",
@@ -99118,6 +99163,13 @@
    "model": "Infinix X669D"
   }
  ],
+ "Infinix-X6836": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 40",
+   "model": "Infinix X6836"
+  }
+ ],
  "Infinix-X623": [
   {
    "brand": "Infinix",
@@ -99356,6 +99408,11 @@
   {
    "brand": "Infinix",
    "name": "Infinix SMART 8",
+   "model": "Infinix X6525"
+  },
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 HD",
    "model": "Infinix X6525"
   }
  ],
@@ -145986,6 +146043,13 @@
   }
  ],
  "ML_JI0T_M9_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M9_WIFI",
+   "model": "M9_WIFI"
+  }
+ ],
+ "ML_JI0U_M9_WIFI": [
   {
    "brand": "Multilaser",
    "name": "M9_WIFI",
@@ -193901,6 +193965,11 @@
    "brand": "Samsung",
    "name": "Galaxy Tab A9+ 5G",
    "model": "SM-X218B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A9+ 5G",
+   "model": "SM-X218U"
   }
  ],
  "rubenslte": [
@@ -230694,6 +230763,18 @@
    "model": "MP38"
   }
  ],
+ "UMIDIGI_G5C": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5C",
+   "model": "MP39"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5C EEA",
+   "model": "MP39"
+  }
+ ],
  "UMIDIGI_X": [
   {
    "brand": "Umidigi",
@@ -252953,6 +253034,11 @@
   },
   {
    "brand": "ZTE",
+   "name": "P601",
+   "model": "P601"
+  },
+  {
+   "brand": "ZTE",
    "name": "ZTE Blade A31 Plus",
    "model": "ZTE Blade A31 Plus"
   },
@@ -256857,6 +256943,13 @@
    "brand": "Zebra",
    "name": "ET5X",
    "model": "ET5X"
+  }
+ ],
+ "ET65": [
+  {
+   "brand": "Zebra",
+   "name": "ET65",
+   "model": "ET65"
   }
  ],
  "MC18": [

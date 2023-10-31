@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-30
+Last sync is 2023-10-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2771,6 +2771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL62|Bmobile_BL62H|BL62|
 |BMobile|BL62|Bmobile_BL62_TG|BL62_TG|
 |BMobile|BL62|Bmobile_BL62i|BL62|
+|BMobile|BL63|Bmobile_BL63|BL63|
 |BMobile|BL63|Bmobile_BL63|BL63_TG07|
 |BMobile|BL63Pro|Bmobile_BL63Pro|BL63Pro|
 |BMobile|BL65|Bmobile_BL65_OM|BL65_OM|
@@ -4158,6 +4159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|APAC|tamachi|AiPlus2K|
 |CAIXUN|Apollo Premium TV|nagata|Apollo Premium TV|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
+|CAIXUN|Caixun TV|marina|Caixun TV|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|marina|Apollo Premium4K TV|
 |CAIXUN|Columbia|patrick|Aiplus4K|
@@ -4172,6 +4174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|MAXWELL SMART TV|nagata|MAXWELL SMART TV|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
+|CAIXUN|Newal 4K SMART TV|marina|Newal 4K SMART TV|
 |CAIXUN|Sgamer|cottongreen|Sgamer|
 |CAIXUN|South of America|marina|Apollo Pro4K TV|
 |CAIXUN|South of America|martin|AiPlus2K|
@@ -7736,6 +7739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8M|T8M|T8M|
 |FOXXD|T8Plus|T8Plus|T8 Plus|
 |FOXXD|T8Pro|T8Pro|T8Pro|
+|FPD|FPD|hongkong|EcoTV Pro D|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|FPT Play Box +|SEI500FPT|FPT Play Box +|
@@ -13162,6 +13166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Android TV|redwood|AI PONT SA|
 |Hyundai|Android TV|sindorim|AI PONT|
 |Hyundai|BOLIVIA|marina|HYUNDAI SMART 4K TV|
+|Hyundai|BOLIVIA|nagata|HYUNDAI SMART 2K TV|
 |Hyundai|BS5002|redwood|AI PONT|
 |Hyundai|Blade_C5|Blade_C5|Blade_C5|
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
@@ -13717,6 +13722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 30i|Infinix-X669|Infinix X669|
 |Infinix|Infinix HOT 30i|Infinix-X669C|Infinix X669C|
 |Infinix|Infinix HOT 30i|Infinix-X669D|Infinix X669D|
+|Infinix|Infinix HOT 40|Infinix-X6836|Infinix X6836|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -13752,6 +13758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 7|Infinix-X6515|Infinix X6515|
 |Infinix|Infinix SMART 7 HD|Infinix-X6516|Infinix X6516|
 |Infinix|Infinix SMART 8|Infinix-X6525|Infinix X6525|
+|Infinix|Infinix SMART 8 HD|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -15042,8 +15049,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Global|stanford|CSV2K|
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
+|KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
 |KTCtv|ICE|stanford|SMART TV|
 |KTCtv|ICE|zhongshan|Smart UHD TV|
+|KTCtv|IMMER|hongkong|4K SMART TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|lavender|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|mountbaker|INNOVA GOOGLE TV|
@@ -21350,6 +21359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M9-3G-2|M9-3G_2|M9-3G_2|
 |Multilaser|M9S-Go|ML-JI09-M9S-GO|M9S-Go|
 |Multilaser|M9_WIFI|ML_JI0T_M9_WIFI|M9_WIFI|
+|Multilaser|M9_WIFI|ML_JI0U_M9_WIFI|M9_WIFI|
 |Multilaser|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|
 |Multilaser|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|
 |Multilaser|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|
@@ -26667,6 +26677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSmooth|Vision|Vision|Vision|
 |SSmooth|Vision Plus|Vision_Plus|Vision Plus|
 |STARK_FUTURE|VARG|VARG|VARG|
+|STARSHINE|STARSHINE|mountbaker|2K SMART TV|
 |STARSHINE|STARSHINE 2K Google TV|capitolhill|STARSHINE  2K Google TV|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
@@ -29191,6 +29202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216C|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216N|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X218B|
+|Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X218U|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
@@ -30386,6 +30398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|Sharp|bruno|Sharp 2K Android TV|
 |Sharp|Sharp|ewha|AQUOS-TVE19G|
 |Sharp|Sharp|ewha|AQUOS-TVE21B|
+|Sharp|Sharp|kaitak|Sharp Google TV|
 |Sharp|Sharp|shilin|Sharp 4K Android TV|
 |Sharp|Sharp|sindang|AQUOS-TVE19C|
 |Sharp|Sharp|sindang|AQUOS-TVE21C|
@@ -35442,6 +35455,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI G5 EEA|UMIDIGI_G5|MP27|
 |Umidigi|UMIDIGI G5A|UMIDIGI_G5A|MP38|
 |Umidigi|UMIDIGI G5A EEA|UMIDIGI_G5A|MP38|
+|Umidigi|UMIDIGI G5C|UMIDIGI_G5C|MP39|
+|Umidigi|UMIDIGI G5C EEA|UMIDIGI_G5C|MP39|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
@@ -39127,6 +39142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|P501|Z3052O|P501|
 |ZTE|P545|P545|P545|
 |ZTE|P600|P963F80|P600|
+|ZTE|P601|P963F80|P601|
 |ZTE|P609|P609|P609|
 |ZTE|P650 2021|P963F60|P650 2021|
 |ZTE|P650 Pro|Z6351O|P650 Pro|
@@ -39958,6 +39974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|
 |Zebra|ET5X|ET55T|ET5X|
+|Zebra|ET65|ET65|ET65|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
 |Zebra|MC3300ax AOSP|MC3300x|MC3300ax|
