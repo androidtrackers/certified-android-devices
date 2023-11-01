@@ -45571,6 +45571,11 @@
   {
    "brand": "DIALN",
    "name": "Neo",
+   "device": "Neo"
+  },
+  {
+   "brand": "DIALN",
+   "name": "Neo",
    "device": "NeoA"
   }
  ],
@@ -98500,6 +98505,20 @@
    "brand": "Infinix",
    "name": "Infinix HOT 40",
    "device": "Infinix-X6836"
+  }
+ ],
+ "Infinix X6837": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 40 Pro",
+   "device": "Infinix-X6837"
+  }
+ ],
+ "Infinix X6528": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 40i",
+   "device": "Infinix-X6528"
   }
  ],
  "Infinix X623": [
@@ -268518,6 +268537,13 @@
    "brand": "Zebra",
    "name": "ET5X",
    "device": "ET55T"
+  }
+ ],
+ "ET60": [
+  {
+   "brand": "Zebra",
+   "name": "ET60",
+   "device": "ET60"
   }
  ],
  "ET65": [

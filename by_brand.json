@@ -30532,6 +30532,11 @@
    "model": "G65"
   },
   {
+   "device": "Neo",
+   "name": "Neo",
+   "model": "Neo"
+  },
+  {
    "device": "NeoA",
    "name": "Neo",
    "model": "Neo"
@@ -70745,6 +70750,16 @@
    "device": "Infinix-X6836",
    "name": "Infinix HOT 40",
    "model": "Infinix X6836"
+  },
+  {
+   "device": "Infinix-X6837",
+   "name": "Infinix HOT 40 Pro",
+   "model": "Infinix X6837"
+  },
+  {
+   "device": "Infinix-X6528",
+   "name": "Infinix HOT 40i",
+   "model": "Infinix X6528"
   },
   {
    "device": "Infinix-X623",
@@ -205108,6 +205123,11 @@
    "device": "ET55T",
    "name": "ET5X",
    "model": "ET5X"
+  },
+  {
+   "device": "ET60",
+   "name": "ET60",
+   "model": "ET60"
   },
   {
    "device": "ET65",

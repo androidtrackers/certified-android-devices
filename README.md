@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-10-31
+Last sync is 2023-11-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5908,6 +5908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
 |DIALN|G10|G10|G10|
 |DIALN|G65|G65|G65|
+|DIALN|Neo|Neo|Neo|
 |DIALN|Neo|NeoA|Neo|
 |DIALN|S8|S8|S8|
 |DIALN|X10G|X10G|X10G|
@@ -13723,6 +13724,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 30i|Infinix-X669C|Infinix X669C|
 |Infinix|Infinix HOT 30i|Infinix-X669D|Infinix X669D|
 |Infinix|Infinix HOT 40|Infinix-X6836|Infinix X6836|
+|Infinix|Infinix HOT 40 Pro|Infinix-X6837|Infinix X6837|
+|Infinix|Infinix HOT 40i|Infinix-X6528|Infinix X6528|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -39974,6 +39977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|
 |Zebra|ET5X|ET55T|ET5X|
+|Zebra|ET60|ET60|ET60|
 |Zebra|ET65|ET65|ET65|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
