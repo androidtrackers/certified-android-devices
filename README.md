@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-01
+Last sync is 2023-11-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10171,6 +10171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV BN|jordan|Haier MatrixTV BN|
 |Haier|Haier MatrixTV BS|jordan|Haier MatrixTV BS|
 |Haier|Haier MatrixTV CE|deto|Haier MatrixTV CE|
+|Haier|Haier MatrixTV CN|deto|Haier MatrixTV CN|
 |Haier|Haier MatrixTV CS|deto|Haier MatrixTV CS|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
@@ -15230,6 +15231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karbonn|TitaniumS9_Plus|TitaniumS9_Plus|TitaniumS9_Plus|
 |Karbonn|Titanium_S9Plus|Titanium_S9Plus|Titanium_S9Plus|
 |Karbonn|Titanium_S9_Plus|Karbonn_Titanium_S9_Plus|Titanium_S9_Plus|
+|Karbonn|X23|X23|X23|
 |Karma|KG555 Pro|KG555_Pro|KG555 Pro|
 |Karma|KG777 Pro|KG777Pro|KG777 Pro|
 |Karvy|KA7Q3|KA7Q3|KA7Q3|
@@ -24708,6 +24710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T800|T800|T800|
 |Positivo|T800|T800|TabQ8-T800|
 |Positivo|T800|T800M|T800|
+|Positivo|T800|T800M|TabQ8-T800|
 |Positivo|T810|T810|T810|
 |Positivo|T810|T810|Tab Q8 Lite|
 |Positivo|T810C|T810C|T810|
@@ -30186,6 +30189,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense7|SH-53C|SH-53C|
 |Sharp|AQUOS sense7 plus|Quattro|A208SH|
 |Sharp|AQUOS sense7 plus|Quattro|SH-S70P|
+|Sharp|AQUOS sense8|SH-54D|SH-54D|
+|Sharp|AQUOS sense8|XIJ|SHG11|
 |Sharp|AQUOS wish|SX1|A103SH|
 |Sharp|AQUOS wish|SX1|A104SH|
 |Sharp|AQUOS wish|SX1|SH-M20|
@@ -39979,6 +39984,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET55T|ET5X|
 |Zebra|ET60|ET60|ET60|
 |Zebra|ET65|ET65|ET65|
+|Zebra|HC20|TC22|HC20|
+|Zebra|HC50|TC22|TC22|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
 |Zebra|MC3300ax AOSP|MC3300x|MC3300ax|

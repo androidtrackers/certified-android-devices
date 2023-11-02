@@ -52732,6 +52732,11 @@
   },
   {
    "device": "deto",
+   "name": "Haier MatrixTV CN",
+   "model": "Haier MatrixTV CN"
+  },
+  {
+   "device": "deto",
    "name": "Haier MatrixTV CS",
    "model": "Haier MatrixTV CS"
   },
@@ -78512,6 +78517,11 @@
    "device": "Karbonn_Titanium_S9_Plus",
    "name": "Titanium_S9_Plus",
    "model": "Titanium_S9_Plus"
+  },
+  {
+   "device": "X23",
+   "name": "X23",
+   "model": "X23"
   }
  ],
  "Karma": [
@@ -127066,6 +127076,11 @@
    "model": "T800"
   },
   {
+   "device": "T800M",
+   "name": "T800",
+   "model": "TabQ8-T800"
+  },
+  {
    "device": "T810",
    "name": "T810",
    "model": "T810"
@@ -154962,6 +154977,16 @@
    "device": "Quattro",
    "name": "AQUOS sense7 plus",
    "model": "SH-S70P"
+  },
+  {
+   "device": "SH-54D",
+   "name": "AQUOS sense8",
+   "model": "SH-54D"
+  },
+  {
+   "device": "XIJ",
+   "name": "AQUOS sense8",
+   "model": "SHG11"
   },
   {
    "device": "SX1",
@@ -205133,6 +205158,16 @@
    "device": "ET65",
    "name": "ET65",
    "model": "ET65"
+  },
+  {
+   "device": "TC22",
+   "name": "HC20",
+   "model": "HC20"
+  },
+  {
+   "device": "TC22",
+   "name": "HC50",
+   "model": "TC22"
   },
   {
    "device": "MC18",

@@ -81010,6 +81010,13 @@
    "model": "Haier MatrixTV CE"
   }
  ],
+ "Haier MatrixTV CN": [
+  {
+   "brand": "Haier",
+   "device": "deto",
+   "model": "Haier MatrixTV CN"
+  }
+ ],
  "Haier MatrixTV CS": [
   {
    "brand": "Haier",
@@ -110107,6 +110114,13 @@
    "brand": "Karbonn",
    "device": "Karbonn_Titanium_S9_Plus",
    "model": "Titanium_S9_Plus"
+  }
+ ],
+ "X23": [
+  {
+   "brand": "Karbonn",
+   "device": "X23",
+   "model": "X23"
   }
  ],
  "KG555 Pro": [
@@ -166312,6 +166326,11 @@
    "brand": "Positivo",
    "device": "T800M",
    "model": "T800"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T800M",
+   "model": "TabQ8-T800"
   }
  ],
  "T810": [
@@ -198165,6 +198184,18 @@
    "brand": "Sharp",
    "device": "Quattro",
    "model": "SH-S70P"
+  }
+ ],
+ "AQUOS sense8": [
+  {
+   "brand": "Sharp",
+   "device": "SH-54D",
+   "model": "SH-54D"
+  },
+  {
+   "brand": "Sharp",
+   "device": "XIJ",
+   "model": "SHG11"
   }
  ],
  "AQUOS wish": [
@@ -255015,6 +255046,20 @@
    "brand": "Zebra",
    "device": "ET65",
    "model": "ET65"
+  }
+ ],
+ "HC20": [
+  {
+   "brand": "Zebra",
+   "device": "TC22",
+   "model": "HC20"
+  }
+ ],
+ "HC50": [
+  {
+   "brand": "Zebra",
+   "device": "TC22",
+   "model": "TC22"
   }
  ],
  "MC18": [
