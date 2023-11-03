@@ -19557,6 +19557,11 @@
    "model": "Grand X"
   },
   {
+   "device": "J0140",
+   "name": "J10L",
+   "model": "J10L"
+  },
+  {
    "device": "J0150",
    "name": "J10L",
    "model": "J10L"
@@ -47759,6 +47764,11 @@
    "model": "H3"
   },
   {
+   "device": "Hpad5",
+   "name": "H5",
+   "model": "H5"
+  },
+  {
    "device": "HPAD1A",
    "name": "HPAD1A",
    "model": "H1A"
@@ -70765,6 +70775,11 @@
    "device": "Infinix-X6528",
    "name": "Infinix HOT 40i",
    "model": "Infinix X6528"
+  },
+  {
+   "device": "Infinix-X6528B",
+   "name": "Infinix HOT 40i",
+   "model": "Infinix X6528B"
   },
   {
    "device": "Infinix-X623",
@@ -97498,6 +97513,11 @@
    "model": "MEO TV Box 4K"
   },
   {
+   "device": "DV8985-MEO",
+   "name": "MEO TV Box 4K",
+   "model": "MEOBox 4K DV8985"
+  },
+  {
    "device": "DIW3930-MEO",
    "name": "MEO TV Box 4K (DIW3930)",
    "model": "MEO TV Box 4K (DIW3930)"
@@ -97688,6 +97708,11 @@
    "device": "TPM4G_E108_A",
    "name": "TPM4G_E108_A",
    "model": "TPM4G_E108"
+  },
+  {
+   "device": "TPM4G_E9863",
+   "name": "TPM4G_E9863",
+   "model": "TPM4G_E9863"
   }
  ],
  "MITSUSHIBA": [
@@ -99641,6 +99666,11 @@
    "model": "MX-A10R"
   },
   {
+   "device": "MX-A65",
+   "name": "ASTRO A65",
+   "model": "MX-A65"
+  },
+  {
    "device": "MX-A10WW",
    "name": "ASTRO_10",
    "model": "MX-A10"
@@ -99814,6 +99844,16 @@
    "device": "MX-A4R",
    "name": "MX-A4R",
    "model": "MX-A4R"
+  },
+  {
+   "device": "MX-NN62WW01",
+   "name": "MX-N62",
+   "model": "MX-NN62"
+  },
+  {
+   "device": "MX-NN62WW01",
+   "name": "MX-N62",
+   "model": "NITRO N62"
   },
   {
    "device": "Nitro_4N_LTE",
@@ -105047,6 +105087,13 @@
    "device": "mooneye",
    "name": "Ticwatch S Smartwatch; Ticwatch E Smartwatch",
    "model": "Ticwatch S"
+  }
+ ],
+ "MobyData": [
+  {
+   "device": "M72",
+   "name": "M72",
+   "model": "M72"
   }
  ],
  "Mode1": [
@@ -115917,6 +115964,11 @@
   {
    "device": "Pad_10_EEA",
    "name": "Pad_10_EEA",
+   "model": "Pad 10"
+  },
+  {
+   "device": "Pad_10_NEU",
+   "name": "Pad_10_NEU",
    "model": "Pad 10"
   },
   {
@@ -156994,6 +157046,11 @@
    "model": "Elite N55Max"
   },
   {
+   "device": "Elite_Octa_Plus",
+   "name": "Elite OctaPLus",
+   "model": "Elite OctaPLus"
+  },
+  {
    "device": "Elite_OctaPlus4us",
    "name": "Elite OctaPlus",
    "model": "Elite OctaPlus"
@@ -157194,6 +157251,11 @@
    "device": "Elite_C55US",
    "name": "Elite C55",
    "model": "Elite C55"
+  },
+  {
+   "device": "Elite_C63",
+   "name": "Elite C63",
+   "model": "Elite C63"
   },
   {
    "device": "Elite_D55",
@@ -157836,6 +157898,11 @@
    "model": "SKY_KID1"
   },
   {
+   "device": "SKY_PAD10",
+   "name": "SKY PAD10",
+   "model": "SKY PAD10"
+  },
+  {
    "device": "SKY_PAD10MaxNUS",
    "name": "SKY PAD10Max",
    "model": "SKY PAD10Max"
@@ -157849,6 +157916,11 @@
    "device": "SKY_PADMaxNAL",
    "name": "SKY PAD10Max",
    "model": "SKY PAD10Max"
+  },
+  {
+   "device": "SKY_PAD8",
+   "name": "SKY PAD8",
+   "model": "SKY PAD8"
   },
   {
    "device": "SKY_Pad10k",
@@ -182826,6 +182898,11 @@
  ],
  "VETOO": [
   {
+   "device": "T4GB10",
+   "name": "T4GB10",
+   "model": "T4GB10"
+  },
+  {
    "device": "V10",
    "name": "V10",
    "model": "V10"
@@ -206664,6 +206741,11 @@
    "model": "AE9120"
   },
   {
+   "device": "AE9310",
+   "name": "benco V91",
+   "model": "AE9310"
+  },
+  {
    "device": "AH9110",
    "name": "benco Y11",
    "model": "AH9110"
@@ -207989,6 +208071,11 @@
   }
  ],
  "iData": [
+  {
+   "device": "K3S",
+   "name": "K3S",
+   "model": "K3S"
+  },
   {
    "device": "K8",
    "name": "K8",

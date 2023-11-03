@@ -36025,6 +36025,11 @@
  "J10L": [
   {
    "brand": "Blu",
+   "device": "J0140",
+   "model": "J10L"
+  },
+  {
+   "brand": "Blu",
    "device": "J0150",
    "model": "J10L"
   }
@@ -75224,6 +75229,23 @@
    "model": "H3"
   }
  ],
+ "H5": [
+  {
+   "brand": "HEADWOLF",
+   "device": "Hpad5",
+   "model": "H5"
+  },
+  {
+   "brand": "HOMTOM",
+   "device": "H5",
+   "model": "H5"
+  },
+  {
+   "brand": "Hot Pepper",
+   "device": "H5",
+   "model": "H5"
+  }
+ ],
  "HPAD1A": [
   {
    "brand": "HEADWOLF",
@@ -75449,18 +75471,6 @@
    "brand": "NEWTON",
    "device": "H1",
    "model": "H1"
-  }
- ],
- "H5": [
-  {
-   "brand": "HOMTOM",
-   "device": "H5",
-   "model": "H5"
-  },
-  {
-   "brand": "Hot Pepper",
-   "device": "H5",
-   "model": "H5"
   }
  ],
  "HT16S": [
@@ -100879,6 +100889,11 @@
    "brand": "Infinix",
    "device": "Infinix-X6528",
    "model": "Infinix X6528"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6528B",
+   "model": "Infinix X6528B"
   }
  ],
  "Infinix HOT 6X": [
@@ -131653,6 +131668,11 @@
    "brand": "MEO(Portugal)",
    "device": "DV8555-MEO",
    "model": "MEO TV Box 4K"
+  },
+  {
+   "brand": "MEO(Portugal)",
+   "device": "DV8985-MEO",
+   "model": "MEOBox 4K DV8985"
   }
  ],
  "MEO TV Box 4K (DIW3930)": [
@@ -131836,6 +131856,13 @@
    "brand": "MIRAY",
    "device": "TPM4G_E108_A",
    "model": "TPM4G_E108"
+  }
+ ],
+ "TPM4G_E9863": [
+  {
+   "brand": "MIRAY",
+   "device": "TPM4G_E9863",
+   "model": "TPM4G_E9863"
   }
  ],
  "MITSUSHIBA": [
@@ -134110,6 +134137,13 @@
    "model": "MX-A10R"
   }
  ],
+ "ASTRO A65": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-A65",
+   "model": "MX-A65"
+  }
+ ],
  "ASTRO_10": [
   {
    "brand": "Maxwest",
@@ -134351,6 +134385,18 @@
    "brand": "Maxwest",
    "device": "MX-A4R",
    "model": "MX-A4R"
+  }
+ ],
+ "MX-N62": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-NN62WW01",
+   "model": "MX-NN62"
+  },
+  {
+   "brand": "Maxwest",
+   "device": "MX-NN62WW01",
+   "model": "NITRO N62"
   }
  ],
  "Nitro 4N LTE": [
@@ -140674,6 +140720,13 @@
    "brand": "Mobvoi",
    "device": "mooneye",
    "model": "Ticwatch S"
+  }
+ ],
+ "M72": [
+  {
+   "brand": "MobyData",
+   "device": "M72",
+   "model": "M72"
   }
  ],
  "MD-03P": [
@@ -152993,6 +153046,13 @@
   {
    "brand": "OSCAL",
    "device": "Pad_10_EEA",
+   "model": "Pad 10"
+  }
+ ],
+ "Pad_10_NEU": [
+  {
+   "brand": "OSCAL",
+   "device": "Pad_10_NEU",
    "model": "Pad 10"
   }
  ],
@@ -200676,6 +200736,13 @@
    "model": "Elite N55Max"
   }
  ],
+ "Elite OctaPLus": [
+  {
+   "brand": "Sky (CH)",
+   "device": "Elite_Octa_Plus",
+   "model": "Elite OctaPLus"
+  }
+ ],
  "Elite T8": [
   {
    "brand": "Sky (CH)",
@@ -200908,6 +200975,13 @@
    "brand": "Sky Devices",
    "device": "Elite_C5MS",
    "model": "Elite C5"
+  }
+ ],
+ "Elite C63": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_C63",
+   "model": "Elite C63"
   }
  ],
  "Elite D55": [
@@ -201714,6 +201788,13 @@
    "model": "SKY_KID1"
   }
  ],
+ "SKY PAD10": [
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_PAD10",
+   "model": "SKY PAD10"
+  }
+ ],
  "SKY PAD10Max": [
   {
    "brand": "Sky Devices",
@@ -201729,6 +201810,13 @@
    "brand": "Sky Devices",
    "device": "SKY_PADMaxNAL",
    "model": "SKY PAD10Max"
+  }
+ ],
+ "SKY PAD8": [
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_PAD8",
+   "model": "SKY PAD8"
   }
  ],
  "SKY Pad10": [
@@ -229844,6 +229932,13 @@
    "model": "VENSTAR2050"
   }
  ],
+ "T4GB10": [
+  {
+   "brand": "VETOO",
+   "device": "T4GB10",
+   "model": "T4GB10"
+  }
+ ],
  "Mobile360 IVT01": [
   {
    "brand": "VIA Tech",
@@ -256813,6 +256908,13 @@
    "model": "AE9120"
   }
  ],
+ "benco V91": [
+  {
+   "brand": "benco",
+   "device": "AE9310",
+   "model": "AE9310"
+  }
+ ],
  "benco Y11": [
   {
    "brand": "benco",
@@ -258309,6 +258411,13 @@
    "brand": "iCraig",
    "device": "ICRAIG_CMP_773",
    "model": "ICRAIG_CMP773"
+  }
+ ],
+ "K3S": [
+  {
+   "brand": "iData",
+   "device": "K3S",
+   "model": "K3S"
   }
  ],
  "iData 50": [

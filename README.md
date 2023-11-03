@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-02
+Last sync is 2023-11-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3797,6 +3797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand_M2|G190|Grand M2|
 |Blu|Grand_M2_LTE|G0050|Grand M2 LTE|
 |Blu|Grand_X|Grand_X|Grand X|
+|Blu|J10L|J0140|J10L|
 |Blu|J10L|J0150|J10L|
 |Blu|J6L|J0110|J6L|
 |Blu|J6S|J210EQ|J6S|
@@ -9187,6 +9188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|Fpad2|Fpad2|Fpad2|
 |HEADWOLF|Fpad3|Fpad3|F3|
 |HEADWOLF|H3|Hpad3|H3|
+|HEADWOLF|H5|Hpad5|H5|
 |HEADWOLF|HPAD1A|HPAD1A|H1A|
 |HEADWOLF|Hpad1|Hpad1|Hpad1|
 |HEADWOLF|Hpad2|Hpad2|H2|
@@ -13727,6 +13729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 40|Infinix-X6836|Infinix X6836|
 |Infinix|Infinix HOT 40 Pro|Infinix-X6837|Infinix X6837|
 |Infinix|Infinix HOT 40i|Infinix-X6528|Infinix X6528|
+|Infinix|Infinix HOT 40i|Infinix-X6528B|Infinix X6528B|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -18964,6 +18967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEFERI|ME40K|ME40K|ME40K|
 |MEFERI|ME40M|ME40K_M|ME40K|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
+|MEO(Portugal)|MEO TV Box 4K|DV8985-MEO|MEOBox 4K DV8985|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K v2|DIW377-MEO|MEO TV Box 4K (DIW377)|
@@ -18998,6 +19002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
 |MIRAY|TPM4G_E108|TPM4G_E108|TPM4G_E108|
 |MIRAY|TPM4G_E108_A|TPM4G_E108_A|TPM4G_E108|
+|MIRAY|TPM4G_E9863|TPM4G_E9863|TPM4G_E9863|
 |MITSUSHIBA|MITSUSHIBA|TP-10-0232P3G|TP-10-0232P3G|
 |MITSUSHIBA|TP-07-016|TP-07-016|TP-07-016|
 |MJS|T2702|T2702|T2702|
@@ -19365,6 +19370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|ASTRO 10R|MX-A10R1WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10R2WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10RWW|MX-A10R|
+|Maxwest|ASTRO A65|MX-A65|MX-A65|
 |Maxwest|ASTRO_10|MX-A10WW|MX-A10|
 |Maxwest|ASTRO_10_1|MX-AA10WW01|MX-A10|
 |Maxwest|ASTRO_8|MX-AA8WW01|MX-A8|
@@ -19400,6 +19406,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|MAXWEST|Black765857703671|AstroPhablet7s|
 |Maxwest|MAX_TAB_7|MAX_TAB_7|MAX_TAB_7|
 |Maxwest|MX-A4R|MX-A4R|MX-A4R|
+|Maxwest|MX-N62|MX-NN62WW01|MX-NN62|
+|Maxwest|MX-N62|MX-NN62WW01|NITRO N62|
 |Maxwest|Nitro 4N LTE|Nitro_4N_LTE|Nitro 4N LTE|
 |Maxwest|Nitro 4X|Nitro_4X|Nitro_4X|
 |Maxwest|Nitro 5 GO|Nitro_5_GO|Nitro 5 GO|
@@ -20425,6 +20433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
+|MobyData|M72|M72|M72|
 |Mode1|MD-03P|MD-03P|MD-03P|
 |Mode1|MD-04P|MD-04P|MD-04P|
 |Mode1|MD-05P|MD-05P|MD-05P|
@@ -22534,6 +22543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|Pad60_EEA|Pad60_EEA|Pad 60|
 |OSCAL|Pad60_NEU|Pad60_NEU|Pad 60|
 |OSCAL|Pad_10_EEA|Pad_10_EEA|Pad 10|
+|OSCAL|Pad_10_NEU|Pad_10_NEU|Pad 10|
 |OSCAL|Pad_10_RU|Pad_10_RU|Pad 10|
 |OSCAL|S60|S60|S60|
 |OSCAL|S60Pro|S60Pro|S60Pro|
@@ -30584,6 +30594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky (CH)|Elite A6|Elite_A6|Elite A6|
 |Sky (CH)|Elite C55|Elite_C55USA|Elite C55|
 |Sky (CH)|Elite N55Max|Elite_N55Max|Elite N55Max|
+|Sky (CH)|Elite OctaPLus|Elite_Octa_Plus|Elite OctaPLus|
 |Sky (CH)|Elite OctaPlus|Elite_OctaPlus4us|Elite OctaPlus|
 |Sky (CH)|Elite OctaPlus|Elite_OctaPlusKK1|Elite OctaPlus|
 |Sky (CH)|Elite OctaX|Elite_OctaXkk3|Elite OctaX|
@@ -30624,6 +30635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite C5|Elite_C5MS|Elite C5|
 |Sky Devices|Elite C55|Elite_C55|Elite C55|
 |Sky Devices|Elite C55|Elite_C55US|Elite C55|
+|Sky Devices|Elite C63|Elite_C63|Elite C63|
 |Sky Devices|Elite D55|Elite_D55|Elite_D55|
 |Sky Devices|Elite D55T|Elite_D55T|Elite D55T|
 |Sky Devices|Elite D5Max|Elite_D5Max|Elite D5Max|
@@ -30752,9 +30764,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY BlackMax|Sky_BlackMax|Sky BlackMax|
 |Sky Devices|SKY KID1|SKY_KID1|SKY_KID1|
 |Sky Devices|SKY KID1|SKY_KID1us|SKY_KID1|
+|Sky Devices|SKY PAD10|SKY_PAD10|SKY PAD10|
 |Sky Devices|SKY PAD10Max|SKY_PAD10MaxNUS|SKY PAD10Max|
 |Sky Devices|SKY PAD10Max|SKY_PAD10MaxOPM|SKY PAD10Max|
 |Sky Devices|SKY PAD10Max|SKY_PADMaxNAL|SKY PAD10Max|
+|Sky Devices|SKY PAD8|SKY_PAD8|SKY PAD8|
 |Sky Devices|SKY Pad10|SKY_Pad10k|SKY Pad10|
 |Sky Devices|SKY Prestige|SKY_Prestige|SKY Prestige|
 |Sky Devices|SKY Prestige2|SKY_Prestige2|SKY Prestige2|
@@ -35610,6 +35624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|TAB12_EEA|TAB12_EEA|L10|
 |VBox|XTi|DTP9539|XTi|
 |VENSTAR|VENSTAR2050|VENSTAR2050|VENSTAR2050|
+|VETOO|T4GB10|T4GB10|T4GB10|
 |VETOO|V10|V10|V10|
 |VFONE|Mix|Mix|Mix|
 |VIA Tech|Mobile360 IVT01|IVT01|Mobile360 IVT01|
@@ -40272,6 +40287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|benco S1 Plus|AEOP513|AEOP513|
 |benco|benco V62|AE9150|AE9150|
 |benco|benco V90|AE9120|AE9120|
+|benco|benco V91|AE9310|AE9310|
 |benco|benco Y11|AH9110|AH9110|
 |benco|benco Y30|AF9030|AF9030|
 |benco|benco Y40|AH9210|AH9210|
@@ -40520,6 +40536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iCraig|CMP840|CMP840|CMP840|
 |iCraig|CMP_771|ICRAIG_CMP_771|ICRAIG_CMP771|
 |iCraig|CMP_773|ICRAIG_CMP_773|ICRAIG_CMP773|
+|iData|K3S|K3S|K3S|
 |iData|K8|K8|K8|
 |iData|iData 50|iData_50_EEA|iData 50|
 |iData|iData K1|iData_K1_EEA|iData K1|
