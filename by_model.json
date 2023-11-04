@@ -4923,6 +4923,13 @@
    "device": "A60"
   }
  ],
+ "A60L": [
+  {
+   "brand": "Acer",
+   "name": "Acer_A60L",
+   "device": "Acer_A60L"
+  }
+ ],
  "A61L": [
   {
    "brand": "Acer",
@@ -35596,6 +35603,11 @@
    "brand": "Premio",
    "name": "S40",
    "device": "S40"
+  },
+  {
+   "brand": "Senwa",
+   "name": "Senwa_S40",
+   "device": "Senwa_S40"
   },
   {
    "brand": "xTouch",
@@ -152306,6 +152318,13 @@
    "brand": "Newland",
    "name": "Newland NLS-MT90",
    "device": "NLS-MT90-GL"
+  }
+ ],
+ "NLS-MT93": [
+  {
+   "brand": "Newland",
+   "name": "NLS-MT93",
+   "device": "NLS-MT93"
   }
  ],
  "NLS-NFT10": [
@@ -269697,6 +269716,13 @@
    "brand": "Zonko",
    "name": "K118",
    "device": "K118"
+  }
+ ],
+ "K150": [
+  {
+   "brand": "Zonko",
+   "name": "K150",
+   "device": "K150"
   }
  ],
  "K70_EEA": [

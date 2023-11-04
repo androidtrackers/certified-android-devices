@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-03
+Last sync is 2023-11-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -438,6 +438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
 |Acer|Acer_A60|Acer_A60|A60|
+|Acer|Acer_A60L|Acer_A60L|A60L|
 |Acer|Acer_A61L|Acer_A61L|A61L|
 |Acer|Acer_One_10_T9-1212L|Acer_One_10_T9-1212L|Acer_One_10_T9-1212L|
 |Acer|Acer_one_8_T2|Acer_one_8_T2|Acer_one_8_T2|
@@ -22046,6 +22047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT9052-GL|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9052-RU|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9055-GL|NLS-MT9055-GL|NLS-MT90|
+|Newland|NLS-MT93|NLS-MT93|NLS-MT93|
 |Newland|NLS-NFT10|NLS-NFT10-GL|NLS-NFT10|
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
@@ -29964,6 +29966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Senwa|S50|Senwa_S50|S50|
 |Senwa|Senwa_LS5018|Senwa_LS5018|LS5018|
 |Senwa|Senwa_LS5018F|Senwa_LS5018F|LS5018F|
+|Senwa|Senwa_S40|Senwa_S40|S40|
 |Senwa|Senwa_S571|Senwa_S571|S571|
 |Senwa|Telcel S6000|Telcel_S6000|S6000|
 |Senwa|Telcel_LS50|Telcel_LS50|LS50|
@@ -40164,6 +40167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonko|K113|K113|K113|
 |Zonko|K116_M|K116_M|K116_M|
 |Zonko|K118|K118|K118|
+|Zonko|K150|K150|K150|
 |Zonko|K70_EEA|K70_EEA|K70_EEA|
 |Zonko|K710|K710|K710|
 |Zonko|K710_EEA|K710_EEA|K710_EEA|

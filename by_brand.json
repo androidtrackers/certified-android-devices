@@ -2352,6 +2352,11 @@
    "model": "A60"
   },
   {
+   "device": "Acer_A60L",
+   "name": "Acer_A60L",
+   "model": "A60L"
+  },
+  {
    "device": "Acer_A61L",
    "name": "Acer_A61L",
    "model": "A61L"
@@ -113362,6 +113367,11 @@
    "model": "NLS-MT90"
   },
   {
+   "device": "NLS-MT93",
+   "name": "NLS-MT93",
+   "model": "NLS-MT93"
+  },
+  {
    "device": "NLS-NFT10-GL",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
@@ -153844,6 +153854,11 @@
    "device": "Senwa_LS5018F",
    "name": "Senwa_LS5018F",
    "model": "LS5018F"
+  },
+  {
+   "device": "Senwa_S40",
+   "name": "Senwa_S40",
+   "model": "S40"
   },
   {
    "device": "Senwa_S571",
@@ -206094,6 +206109,11 @@
    "device": "K118",
    "name": "K118",
    "model": "K118"
+  },
+  {
+   "device": "K150",
+   "name": "K150",
+   "model": "K150"
   },
   {
    "device": "K70_EEA",

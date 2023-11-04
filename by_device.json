@@ -7812,6 +7812,13 @@
    "model": "A60"
   }
  ],
+ "Acer_A60L": [
+  {
+   "brand": "Acer",
+   "name": "Acer_A60L",
+   "model": "A60L"
+  }
+ ],
  "Acer_A61L": [
   {
    "brand": "Acer",
@@ -150416,6 +150423,13 @@
    "model": "NLS-MT90"
   }
  ],
+ "NLS-MT93": [
+  {
+   "brand": "Newland",
+   "name": "NLS-MT93",
+   "model": "NLS-MT93"
+  }
+ ],
  "NLS-NFT10-GL": [
   {
    "brand": "Newland",
@@ -198532,6 +198546,13 @@
    "brand": "Senwa",
    "name": "Senwa_LS5018F",
    "model": "LS5018F"
+  }
+ ],
+ "Senwa_S40": [
+  {
+   "brand": "Senwa",
+   "name": "Senwa_S40",
+   "model": "S40"
   }
  ],
  "Senwa_S571": [
@@ -258057,6 +258078,13 @@
    "brand": "Zonko",
    "name": "K118",
    "model": "K118"
+  }
+ ],
+ "K150": [
+  {
+   "brand": "Zonko",
+   "name": "K150",
+   "model": "K150"
   }
  ],
  "K70_EEA": [
