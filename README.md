@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-05
+Last sync is 2023-11-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14385,6 +14385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
 |Itel|ITELMOBILE GP10X2019|GP10X2019|GP10X2019|
 |Itel|Itel A58 Lite|itel-A631W|itel A631W|
+|Itel|Orange Nola fun 3|Nola_fun_3|Orange Nola fun 3|
 |Itel|P11|itel_P11|itel P11|
 |Itel|P12|itel_P12|itel P12|
 |Itel|P13|itel-P13|itel P13|
@@ -20207,6 +20208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|HERO X|HERO_X|HERO_X|
 |Mobicell|HERO_DS|HERO_DS|HERO_DS|
 |Mobicell|HYPE|HYPE|HYPE|
+|Mobicell|IX PRO|IX_PRO|IX PRO|
 |Mobicell|IX-1|IX-1|IX-1|
 |Mobicell|Icon|Mobicel_Icon|Icon|
 |Mobicell|LEGEND PRO_1|LEGEND_PRO_1|LEGEND PRO_1|
@@ -24128,6 +24130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Yaris M|T31|Panasonic T31|
 |Panasonic|fz_b2dh|fz_b2d|FZ-B2D|
 |Panavox|50 google tv/58 google tv/65 google tv/75 google tv|songshan|SmartTV 4K|
+|Panavox|fushan_panavox|hamamatsucho|Panavox Android TV|
 |Panavox|xiaoyushan_panavox|xiaoyushan|Panavox Android TV|
 |Panodic|IPHDCK16H|IPHDCK16H|IPHDCK16H|
 |Pantech|ADR910L|ADR910L|ADR910L|
@@ -36535,6 +36538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V9|1727ID|vivo 1727|
 |Vivo|V9 6GB|1723CF|vivo 1723|
 |Vivo|V9 Pro|1851|vivo 1851|
+|Vivo|X100 Pro|PD2324|V2324A|
 |Vivo|X5|X5|vivo X5|
 |Vivo|X50|2004|vivo 2004|
 |Vivo|X50 Pro|2006|vivo 2006|
@@ -40619,6 +40623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|iHunt S24 PLUS|iHunt_S24_PLUS|iHunt S24 PLUS|
 |iHunt|iHunt S24 ULTRA|iHunt_S24_ULTRA|iHunt S24 ULTRA|
 |iHunt|iHunt S90 Apex|S90_Apex|S90_Apex|
+|iHunt|iHunt Tablet PC 11 Ultra|Tablet_PC_11_Ultra|iHunt Tablet PC 11 Ultra|
 |iHunt|iHuntLike12PRO|iHuntLike12PRO|iHunt Like 12 PRO|
 |iHunt|iHuntS22PLUS|iHuntS22PLUS|iHunt S22 PLUS|
 |iHunt|iHunt_Like_12_EEA|iHunt_Like_12|iHunt Like 12|

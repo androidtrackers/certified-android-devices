@@ -104964,6 +104964,13 @@
    "model": "itel A631W"
   }
  ],
+ "Orange Nola fun 3": [
+  {
+   "brand": "Itel",
+   "device": "Nola_fun_3",
+   "model": "Orange Nola fun 3"
+  }
+ ],
  "P12": [
   {
    "brand": "Itel",
@@ -139276,6 +139283,13 @@
    "model": "HYPE"
   }
  ],
+ "IX PRO": [
+  {
+   "brand": "Mobicell",
+   "device": "IX_PRO",
+   "model": "IX PRO"
+  }
+ ],
  "IX-1": [
   {
    "brand": "Mobicell",
@@ -162700,6 +162714,13 @@
    "brand": "Panavox",
    "device": "songshan",
    "model": "SmartTV 4K"
+  }
+ ],
+ "fushan_panavox": [
+  {
+   "brand": "Panavox",
+   "device": "hamamatsucho",
+   "model": "Panavox Android TV"
   }
  ],
  "xiaoyushan_panavox": [
@@ -235523,6 +235544,13 @@
    "model": "vivo 1723"
   }
  ],
+ "X100 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2324",
+   "model": "V2324A"
+  }
+ ],
  "X50 Pro": [
   {
    "brand": "Vivo",
@@ -258969,6 +258997,13 @@
    "brand": "iHunt",
    "device": "S90_Apex",
    "model": "S90_Apex"
+  }
+ ],
+ "iHunt Tablet PC 11 Ultra": [
+  {
+   "brand": "iHunt",
+   "device": "Tablet_PC_11_Ultra",
+   "model": "iHunt Tablet PC 11 Ultra"
   }
  ],
  "iHuntLike12PRO": [
