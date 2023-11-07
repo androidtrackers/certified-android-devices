@@ -4458,6 +4458,13 @@
    "model": "Listo22"
   }
  ],
+ "ARTRAN_EI101F": [
+  {
+   "brand": "ARTRAN",
+   "name": "ARTRAN _EI101F",
+   "model": "EI101F"
+  }
+ ],
  "songshan": [
   {
    "brand": "ASHIMA",
@@ -66201,6 +66208,13 @@
    "model": "ALM-001J"
   }
  ],
+ "FAS_K2150": [
+  {
+   "brand": "Funai Electric",
+   "name": "FAS_K2150",
+   "model": "FAS_K2150"
+  }
+ ],
  "daitou": [
   {
    "brand": "Funai Electric",
@@ -82688,6 +82702,11 @@
    "brand": "Hisense",
    "name": "Hisense U964",
    "model": "Hisense U60 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "model": "Hisense U61"
   },
   {
    "brand": "Hisense",

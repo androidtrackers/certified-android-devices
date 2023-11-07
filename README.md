@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-06
+Last sync is 2023-11-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -212,6 +212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARRQW|RO-55LCS|samseong|AI PONT|
 |ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
 |ARRQW|Saudi Arabia|yeongdeungpo|ARRQW UHD Android TV|
+|ARTRAN|ARTRAN _EI101F|ARTRAN_EI101F|EI101F|
 |ASHER|Smart TV|longshan|AI PONT|
 |ASHER|Smart TV|redwood|AI PONT|
 |ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
@@ -8218,6 +8219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|arrows RX|arrowsRX|arrowsRX|
 |Fujitsu|arrows Tab M01T|M01T|M01T|
 |Funai Electric||smdkv210|ALM-001J|
+|Funai Electric|FAS_K2150|FAS_K2150|FAS_K2150|
 |Funai Electric|POE-SMB400-FN1|daitou|POE-SMB400-FN1|
 |Funai Electric|Smart TV|peach|FUNAI 4K TV|
 |Funkwerk|focX2|focX2|focX2|
@@ -10867,6 +10869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U60 Lite|
+|Hisense|Hisense U964|HS7731ESP|Hisense U61|
 |Hisense|Hisense U964|HS7731ESP|Hisense U70|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|

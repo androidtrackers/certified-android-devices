@@ -8331,6 +8331,13 @@
    "model": "ARRQW UHD Android TV"
   }
  ],
+ "ARTRAN _EI101F": [
+  {
+   "brand": "ARTRAN",
+   "device": "ARTRAN_EI101F",
+   "model": "EI101F"
+  }
+ ],
  "OEM50ANDROID22/OEM55ANDROID22": [
   {
    "brand": "ASHIMA",
@@ -68431,6 +68438,13 @@
    "model": "M01T"
   }
  ],
+ "FAS_K2150": [
+  {
+   "brand": "Funai Electric",
+   "device": "FAS_K2150",
+   "model": "FAS_K2150"
+  }
+ ],
  "POE-SMB400-FN1": [
   {
    "brand": "Funai Electric",
@@ -85257,6 +85271,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "Hisense U60 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U61"
   },
   {
    "brand": "Hisense",

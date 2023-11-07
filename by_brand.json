@@ -1142,6 +1142,13 @@
    "model": "ARRQW UHD Android TV"
   }
  ],
+ "ARTRAN": [
+  {
+   "device": "ARTRAN_EI101F",
+   "name": "ARTRAN _EI101F",
+   "model": "EI101F"
+  }
+ ],
  "ASHER": [
   {
    "device": "longshan",
@@ -42674,6 +42681,11 @@
    "model": "ALM-001J"
   },
   {
+   "device": "FAS_K2150",
+   "name": "FAS_K2150",
+   "model": "FAS_K2150"
+  },
+  {
    "device": "daitou",
    "name": "POE-SMB400-FN1",
    "model": "POE-SMB400-FN1"
@@ -56277,6 +56289,11 @@
    "device": "HS7731ESP",
    "name": "Hisense U964",
    "model": "Hisense U60 Lite"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U964",
+   "model": "Hisense U61"
   },
   {
    "device": "HS7731ESP",

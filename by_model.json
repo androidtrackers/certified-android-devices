@@ -2812,6 +2812,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "EI101F": [
+  {
+   "brand": "ARTRAN",
+   "name": "ARTRAN _EI101F",
+   "device": "ARTRAN_EI101F"
+  }
+ ],
  "SmartTV 4K": [
   {
    "brand": "ASHIMA",
@@ -61854,6 +61861,13 @@
    "device": "smdkv210"
   }
  ],
+ "FAS_K2150": [
+  {
+   "brand": "Funai Electric",
+   "name": "FAS_K2150",
+   "device": "FAS_K2150"
+  }
+ ],
  "POE-SMB400-FN1": [
   {
    "brand": "Funai Electric",
@@ -79670,6 +79684,13 @@
   }
  ],
  "Hisense U60 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HS7731ESP"
+  }
+ ],
+ "Hisense U61": [
   {
    "brand": "Hisense",
    "name": "Hisense U964",
