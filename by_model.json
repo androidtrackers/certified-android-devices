@@ -1372,6 +1372,11 @@
    "device": "samseong"
   },
   {
+   "brand": "ARRQW",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
    "brand": "ASHER",
    "name": "Smart TV",
    "device": "longshan"
@@ -1450,6 +1455,11 @@
    "brand": "BPL",
    "name": "Android TV",
    "device": "samseong"
+  },
+  {
+   "brand": "BPL",
+   "name": "Smart TV",
+   "device": "redwood"
   },
   {
    "brand": "BRANDO",
@@ -1897,6 +1907,11 @@
    "device": "longshan"
   },
   {
+   "brand": "Kolin",
+   "name": "Smart TV",
+   "device": "redwood"
+  },
+  {
    "brand": "Kubo",
    "name": "Smart TV",
    "device": "samseong"
@@ -2275,6 +2290,11 @@
    "brand": "UNITED TV",
    "name": "Smart TV",
    "device": "redwood"
+  },
+  {
+   "brand": "VIOMI",
+   "name": "Smart TV",
+   "device": "longshan"
   },
   {
    "brand": "VTCNOWRINDO",
@@ -9731,6 +9751,23 @@
    "brand": "Algar",
    "name": "GIU6770",
    "device": "GIU6770"
+  }
+ ],
+ "R6G": [
+  {
+   "brand": "Alhafidh",
+   "name": "vileparle",
+   "device": "vileparle"
+  },
+  {
+   "brand": "Brandt",
+   "name": "vileparle",
+   "device": "vileparle"
+  },
+  {
+   "brand": "G-Guard",
+   "name": "vileparle",
+   "device": "vileparle"
   }
  ],
  "Aligator_S5550": [
@@ -45911,6 +45948,13 @@
    "device": "m393gena"
   }
  ],
+ "DNA Hubi Soundbox": [
+  {
+   "brand": "DNA",
+   "name": "DNA Hubi Soundbox",
+   "device": "m393vsb_dna"
+  }
+ ],
  "Mate2": [
   {
    "brand": "DO Mobile",
@@ -77283,14 +77327,12 @@
    "device": "Vision"
   }
  ],
- "HLTE700T": [
+ "HIDB 4K": [
   {
    "brand": "Hisense",
-   "name": "700T",
-   "device": "HSSDM660QC"
-  }
- ],
- "HIDB 4K": [
+   "name": "65MR6DE",
+   "device": "huanghe"
+  },
   {
    "brand": "Hisense",
    "name": "75MR6DE",
@@ -77300,6 +77342,13 @@
    "brand": "Hisense",
    "name": "86MR6DE",
    "device": "huaihe"
+  }
+ ],
+ "HLTE700T": [
+  {
+   "brand": "Hisense",
+   "name": "700T",
+   "device": "HSSDM660QC"
   }
  ],
  "SmartTV 8K FFM": [
@@ -134084,6 +134133,13 @@
    "device": "DV6067Y"
   }
  ],
+ "MagentaTV One (2. Generation)": [
+  {
+   "brand": "MagentaTV",
+   "name": "One (2. Generation)",
+   "device": "SEI804DT"
+  }
+ ],
  "JACK": [
   {
    "brand": "Majestic",
@@ -157790,6 +157846,13 @@
   }
  ],
  "CPH2553": [
+  {
+   "brand": "Oppo",
+   "name": "A79 5G",
+   "device": "OP573DL1"
+  }
+ ],
+ "CPH2557": [
   {
    "brand": "Oppo",
    "name": "A79 5G",
@@ -203559,6 +203622,13 @@
    "device": "v2q"
   }
  ],
+ "SM-W9023": [
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W23",
+   "device": "v4q"
+  }
+ ],
  "SM-W7023": [
   {
    "brand": "Samsung",
@@ -205989,6 +206059,13 @@
    "device": "Quattro"
   }
  ],
+ "SH-M26": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense8",
+   "device": "Quess"
+  }
+ ],
  "SH-54D": [
   {
    "brand": "Sharp",
@@ -207709,6 +207786,13 @@
    "brand": "Shenzhen SEI Robotics",
    "name": "SEI103V",
    "device": "SEI103"
+  }
+ ],
+ "Sensa Box 4K": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "Sensa Box 4K",
+   "device": "SEI700PTS"
   }
  ],
  "PNT-7045": [
@@ -218391,6 +218475,13 @@
    "device": "TL1B_68"
   }
  ],
+ "TB_GH": [
+  {
+   "brand": "TAMBOARD",
+   "name": "TB_GH",
+   "device": "TB_GH"
+  }
+ ],
  "TATV-8000": [
   {
    "brand": "TBC (TW)",
@@ -219173,6 +219264,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "device": "Encore_Spectrum"
+  }
+ ],
+ "T609L": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "device": "Encore_USCC"
   }
  ],
  "T609B": [
@@ -232977,6 +233075,13 @@
    "device": "TECNO-BF7h"
   }
  ],
+ "TECNO BG6h": [
+  {
+   "brand": "Tecno",
+   "name": "POP 8",
+   "device": "TECNO-BG6h"
+  }
+ ],
  "TECNO LD7": [
   {
    "brand": "Tecno",
@@ -233930,6 +234035,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 20",
    "device": "TECNO-KJ5n"
+  }
+ ],
+ "TECNO BG7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20C",
+   "device": "TECNO-BG7n"
   }
  ],
  "TECNO KC2": [
@@ -244450,6 +244562,13 @@
    "device": "Point_X503"
   }
  ],
+ "VIVAX TV": [
+  {
+   "brand": "Vivax",
+   "name": "Smart TV",
+   "device": "longshan"
+  }
+ ],
  "VIVAX TPC-102 4G": [
   {
    "brand": "Vivax",
@@ -246438,6 +246557,13 @@
    "device": "V2244"
   }
  ],
+ "V2303": [
+  {
+   "brand": "Vivo",
+   "name": "V29e",
+   "device": "V2303"
+  }
+ ],
  "V2317": [
   {
    "brand": "Vivo",
@@ -247223,6 +247349,13 @@
    "device": "PD2271"
   }
  ],
+ "V2313A": [
+  {
+   "brand": "Vivo",
+   "name": "Y79+",
+   "device": "PD2313"
+  }
+ ],
  "vivo PD1708": [
   {
    "brand": "Vivo",
@@ -247322,6 +247455,20 @@
    "brand": "Vivo",
    "name": "iQOO 11S",
    "device": "PD2304"
+  }
+ ],
+ "V2307A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 12",
+   "device": "PD2307"
+  }
+ ],
+ "V2329A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 12 Pro",
+   "device": "PD2329"
   }
  ],
  "I2022": [
@@ -255956,6 +256103,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 13T Pro",
    "device": "corot"
+  }
+ ],
+ "23127PN0CC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14",
+   "device": "houji"
+  }
+ ],
+ "23116PN5BC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Pro",
+   "device": "shennong"
   }
  ],
  "2109119BC": [

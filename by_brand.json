@@ -1140,6 +1140,11 @@
    "device": "yeongdeungpo",
    "name": "Saudi Arabia",
    "model": "ARRQW UHD Android TV"
+  },
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "ARTRAN": [
@@ -4781,6 +4786,11 @@
    "device": "R4_GTV",
    "name": "R4_GTV",
    "model": "R4G"
+  },
+  {
+   "device": "vileparle",
+   "name": "vileparle",
+   "model": "R6G"
   }
  ],
  "Aligator": [
@@ -14545,6 +14555,11 @@
    "device": "OD0M_EA_T32",
    "name": "BPL UHD TV",
    "model": "BPL UHD TV"
+  },
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "BQru": [
@@ -20984,6 +20999,11 @@
    "device": "R4_GTV",
    "name": "R4_GTV",
    "model": "R4G"
+  },
+  {
+   "device": "vileparle",
+   "name": "vileparle",
+   "model": "R6G"
   }
  ],
  "Brantel": [
@@ -30816,6 +30836,11 @@
    "device": "m393gena",
    "name": "DNA Hubi 2.0",
    "model": "DNA Hubi 2.0"
+  },
+  {
+   "device": "m393vsb_dna",
+   "name": "DNA Hubi Soundbox",
+   "model": "DNA Hubi Soundbox"
   },
   {
    "device": "dctiw384",
@@ -43007,6 +43032,11 @@
    "model": "Smart TV"
   },
   {
+   "device": "vileparle",
+   "name": "vileparle",
+   "model": "R6G"
+  },
+  {
    "device": "xiaoyushan",
    "name": "xiaoyushan_emG",
    "model": "HiSmartTV A4"
@@ -54429,6 +54459,11 @@
    "device": "Vision",
    "name": "55H6SG",
    "model": "Vision"
+  },
+  {
+   "device": "huanghe",
+   "name": "65MR6DE",
+   "model": "HIDB 4K"
   },
   {
    "device": "HSSDM660QC",
@@ -79855,6 +79890,11 @@
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "Komu": [
@@ -98701,6 +98741,11 @@
    "device": "DV6067Y",
    "name": "OTT-G1",
    "model": "OTT-G1"
+  },
+  {
+   "device": "SEI804DT",
+   "name": "One (2. Generation)",
+   "model": "MagentaTV One (2. Generation)"
   }
  ],
  "Majestic": [
@@ -118001,6 +118046,11 @@
    "device": "OP573DL1",
    "name": "A79 5G",
    "model": "CPH2553"
+  },
+  {
+   "device": "OP573DL1",
+   "name": "A79 5G",
+   "model": "CPH2557"
   },
   {
    "device": "A79k",
@@ -153176,6 +153226,11 @@
    "model": "SM-W2022"
   },
   {
+   "device": "v4q",
+   "name": "心系天下 三星 W23",
+   "model": "SM-W9023"
+  },
+  {
    "device": "e4q",
    "name": "心系天下 三星 W23 Flip",
    "model": "SM-W7023"
@@ -155078,6 +155133,11 @@
    "model": "SH-S70P"
   },
   {
+   "device": "Quess",
+   "name": "AQUOS sense8",
+   "model": "SH-M26"
+  },
+  {
    "device": "SH-54D",
    "name": "AQUOS sense8",
    "model": "SH-54D"
@@ -156397,6 +156457,11 @@
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
+  },
+  {
+   "device": "SEI700PTS",
+   "name": "Sensa Box 4K",
+   "model": "Sensa Box 4K"
   }
  ],
  "Shuttle": [
@@ -165176,6 +165241,13 @@
    "model": "TL1B_68"
   }
  ],
+ "TAMBOARD": [
+  {
+   "device": "TB_GH",
+   "name": "TB_GH",
+   "model": "TB_GH"
+  }
+ ],
  "TASKPHONE": [
   {
    "device": "T20P",
@@ -165810,6 +165882,11 @@
    "device": "Encore_Spectrum",
    "name": "TCL 40 XE 5G",
    "model": "T609V"
+  },
+  {
+   "device": "Encore_USCC",
+   "name": "TCL 40 XE 5G",
+   "model": "T609L"
   },
   {
    "device": "Encore_Visible",
@@ -176328,6 +176405,11 @@
    "model": "TECNO BF7h"
   },
   {
+   "device": "TECNO-BG6h",
+   "name": "POP 8",
+   "model": "TECNO BG6h"
+  },
+  {
    "device": "TECNO-F3",
    "name": "POP1",
    "model": "TECNO F3"
@@ -177051,6 +177133,11 @@
    "device": "TECNO-KJ5n",
    "name": "TECNO SPARK 20",
    "model": "TECNO KJ5n"
+  },
+  {
+   "device": "TECNO-BG7n",
+   "name": "TECNO SPARK 20C",
+   "model": "TECNO BG7n"
   },
   {
    "device": "TECNO-KC2",
@@ -183049,6 +183136,13 @@
    "model": "VIMOQ A512WS"
   }
  ],
+ "VIOMI": [
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "VIPER": [
   {
    "device": "SZ11MK1",
@@ -186135,6 +186229,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "VIVAX TV"
+  },
+  {
    "device": "TPC-102_4G",
    "name": "TPC-102_4G_eea",
    "model": "VIVAX TPC-102 4G"
@@ -187557,6 +187656,11 @@
    "model": "V2244"
   },
   {
+   "device": "V2303",
+   "name": "V29e",
+   "model": "V2303"
+  },
+  {
    "device": "V2317",
    "name": "V29e 5G",
    "model": "V2317"
@@ -188137,6 +188241,11 @@
    "model": "V2278A"
   },
   {
+   "device": "PD2313",
+   "name": "Y79+",
+   "model": "V2313A"
+  },
+  {
    "device": "PD1708",
    "name": "Y79A",
    "model": "vivo PD1708"
@@ -188220,6 +188329,16 @@
    "device": "PD2304",
    "name": "iQOO 11S",
    "model": "V2304A"
+  },
+  {
+   "device": "PD2307",
+   "name": "iQOO 12",
+   "model": "V2307A"
+  },
+  {
+   "device": "PD2329",
+   "name": "iQOO 12 Pro",
+   "model": "V2329A"
   },
   {
    "device": "2022",
@@ -195354,6 +195473,16 @@
    "device": "corot",
    "name": "Xiaomi 13T Pro",
    "model": "A301XM"
+  },
+  {
+   "device": "houji",
+   "name": "Xiaomi 14",
+   "model": "23127PN0CC"
+  },
+  {
+   "device": "shennong",
+   "name": "Xiaomi 14 Pro",
+   "model": "23116PN5BC"
   },
   {
    "device": "mona",

@@ -3095,6 +3095,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "ARRQW",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "ASHER",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -3325,9 +3330,19 @@
    "model": "AI PONT"
   },
   {
+   "brand": "VIOMI",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Vivax",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "brand": "Vivax",
+   "name": "Smart TV",
+   "model": "VIVAX TV"
   },
   {
    "brand": "Vu Televisions",
@@ -3368,6 +3383,11 @@
   },
   {
    "brand": "BEC-KW",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BPL",
    "name": "Smart TV",
    "model": "AI PONT"
   },
@@ -3484,6 +3504,11 @@
   {
    "brand": "Kogan",
    "name": "RF9220",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kolin",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -13063,6 +13088,23 @@
    "brand": "Algar",
    "name": "GIU6770",
    "model": "GIU6770"
+  }
+ ],
+ "vileparle": [
+  {
+   "brand": "Alhafidh",
+   "name": "vileparle",
+   "model": "R6G"
+  },
+  {
+   "brand": "Brandt",
+   "name": "vileparle",
+   "model": "R6G"
+  },
+  {
+   "brand": "G-Guard",
+   "name": "vileparle",
+   "model": "R6G"
   }
  ],
  "Aligator_S5550": [
@@ -50588,6 +50630,13 @@
    "model": "DNA Hubi 2.0"
   }
  ],
+ "m393vsb_dna": [
+  {
+   "brand": "DNA",
+   "name": "DNA Hubi Soundbox",
+   "model": "DNA Hubi Soundbox"
+  }
+ ],
  "Mate2": [
   {
    "brand": "DO Mobile",
@@ -80663,6 +80712,13 @@
    "brand": "SSmooth",
    "name": "Vision",
    "model": "Vision"
+  }
+ ],
+ "huanghe": [
+  {
+   "brand": "Hisense",
+   "name": "65MR6DE",
+   "model": "HIDB 4K"
   }
  ],
  "changjiang": [
@@ -132515,6 +132571,13 @@
    "model": "OTT-G1"
   }
  ],
+ "SEI804DT": [
+  {
+   "brand": "MagentaTV",
+   "name": "One (2. Generation)",
+   "model": "MagentaTV One (2. Generation)"
+  }
+ ],
  "JACK": [
   {
    "brand": "Majestic",
@@ -155548,6 +155611,11 @@
    "brand": "Oppo",
    "name": "A79 5G",
    "model": "CPH2553"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A79 5G",
+   "model": "CPH2557"
   }
  ],
  "A79k": [
@@ -197860,6 +197928,13 @@
    "model": "SM-W2022"
   }
  ],
+ "v4q": [
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W23",
+   "model": "SM-W9023"
+  }
+ ],
  "e4q": [
   {
    "brand": "Samsung",
@@ -200224,6 +200299,13 @@
    "model": "SH-S70P"
   }
  ],
+ "Quess": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense8",
+   "model": "SH-M26"
+  }
+ ],
  "SH-54D": [
   {
    "brand": "Sharp",
@@ -201832,6 +201914,13 @@
    "brand": "Shenzhen SEI Robotics",
    "name": "AMLogic Ref",
    "model": "planck"
+  }
+ ],
+ "SEI700PTS": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "Sensa Box 4K",
+   "model": "Sensa Box 4K"
   }
  ],
  "PNT-7045": [
@@ -212468,6 +212557,13 @@
    "model": "TL1B_68"
   }
  ],
+ "TB_GH": [
+  {
+   "brand": "TAMBOARD",
+   "name": "TB_GH",
+   "model": "TB_GH"
+  }
+ ],
  "T20P": [
   {
    "brand": "TASKPHONE",
@@ -213472,6 +213568,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "model": "T609V"
+  }
+ ],
+ "Encore_USCC": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "model": "T609L"
   }
  ],
  "Encore_Visible": [
@@ -224478,6 +224581,13 @@
    "model": "TECNO BF7h"
   }
  ],
+ "TECNO-BG6h": [
+  {
+   "brand": "Tecno",
+   "name": "POP 8",
+   "model": "TECNO BG6h"
+  }
+ ],
  "TECNO-F3": [
   {
    "brand": "Tecno",
@@ -225409,6 +225519,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 20",
    "model": "TECNO KJ5n"
+  }
+ ],
+ "TECNO-BG7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20C",
+   "model": "TECNO BG7n"
   }
  ],
  "TECNO-KC2": [
@@ -237229,6 +237346,13 @@
    "model": "V2244"
   }
  ],
+ "V2303": [
+  {
+   "brand": "Vivo",
+   "name": "V29e",
+   "model": "V2303"
+  }
+ ],
  "V2317": [
   {
    "brand": "Vivo",
@@ -237959,6 +238083,13 @@
    "model": "V2271A"
   }
  ],
+ "PD2313": [
+  {
+   "brand": "Vivo",
+   "name": "Y79+",
+   "model": "V2313A"
+  }
+ ],
  "PD1708": [
   {
    "brand": "Vivo",
@@ -238072,6 +238203,20 @@
    "brand": "Vivo",
    "name": "iQOO 11S",
    "model": "V2304A"
+  }
+ ],
+ "PD2307": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 12",
+   "model": "V2307A"
+  }
+ ],
+ "PD2329": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 12 Pro",
+   "model": "V2329A"
   }
  ],
  "2019": [
@@ -246147,6 +246292,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 13T",
    "model": "2306EPN60G"
+  }
+ ],
+ "houji": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14",
+   "model": "23127PN0CC"
+  }
+ ],
+ "shennong": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Pro",
+   "model": "23116PN5BC"
   }
  ],
  "mona": [
