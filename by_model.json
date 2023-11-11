@@ -3464,6 +3464,13 @@
    "device": "APD3"
   }
  ],
+ "A68EL": [
+  {
+   "brand": "ATEL",
+   "name": "A68EL",
+   "device": "A68EL"
+  }
+ ],
  "AT908": [
   {
    "brand": "ATID",
@@ -20235,6 +20242,13 @@
    "device": "AT_701B"
   }
  ],
+ "M87QF6-4G": [
+  {
+   "brand": "Azeyou",
+   "name": "M87QF6-4G",
+   "device": "M87QF6-4G"
+  }
+ ],
  "Azumi A4": [
   {
    "brand": "Azumi",
@@ -21201,6 +21215,11 @@
   },
   {
    "brand": "Monster",
+   "name": "M10",
+   "device": "M10"
+  },
+  {
+   "brand": "Phone Max",
    "name": "M10",
    "device": "M10"
   },
@@ -25899,6 +25918,11 @@
   },
   {
    "brand": "Rhino",
+   "name": "RHINO T8",
+   "device": "Rhino_T8"
+  },
+  {
+   "brand": "Rhino",
    "name": "T8",
    "device": "Rhino_T8"
   },
@@ -26168,6 +26192,11 @@
   },
   {
    "brand": "Lexia Mobile",
+   "name": "S1",
+   "device": "S1"
+  },
+  {
+   "brand": "Rizzen",
    "name": "S1",
    "device": "S1"
   },
@@ -29493,7 +29522,7 @@
   },
   {
    "brand": "Rhino",
-   "name": "nova",
+   "name": "RHINO C6",
    "device": "nova"
   }
  ],
@@ -34153,6 +34182,11 @@
    "device": "Rhino_C10"
   },
   {
+   "brand": "Rhino",
+   "name": "RHINO C10",
+   "device": "Rhino_C10"
+  },
+  {
    "brand": "SGIN",
    "name": "C10",
    "device": "C10"
@@ -35834,6 +35868,13 @@
    "device": "U800B"
   }
  ],
+ "Celkon C10STAR": [
+  {
+   "brand": "Celkon",
+   "name": "C10STAR",
+   "device": "C10STAR"
+  }
+ ],
  "CliQ2": [
   {
    "brand": "Celkon",
@@ -36678,6 +36719,13 @@
    "brand": "Cherry Mobile",
    "name": "A1130",
    "device": "A1130"
+  }
+ ],
+ "A1240": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "A1240",
+   "device": "A1240"
   }
  ],
  "Superion S1 Plus DTV": [
@@ -52590,7 +52638,7 @@
   },
   {
    "brand": "Rhino",
-   "name": "scout",
+   "name": "RHINO T80",
    "device": "scout"
   },
   {
@@ -53845,6 +53893,18 @@
    "brand": "EVOFORCE1",
    "name": "USA&Canada",
    "device": "SEI800MOBI"
+  }
+ ],
+ "EVOPRO": [
+  {
+   "brand": "EVOPRO",
+   "name": "EVOPRO",
+   "device": "SEI500EV"
+  },
+  {
+   "brand": "eSTREAM 4K",
+   "name": "EVOPRO",
+   "device": "SEI500EV"
   }
  ],
  "EWIS OCTA-T700M": [
@@ -56020,6 +56080,13 @@
    "brand": "Estar",
    "name": "eSTAR BEAUTY 2 HD Quad core",
    "device": "MID7388"
+  }
+ ],
+ "Digni-Smart": [
+  {
+   "brand": "Estar",
+   "name": "Digni-Smart",
+   "device": "Digni-Smart"
   }
  ],
  "eSTAR 2K Android TV": [
@@ -62905,6 +62972,11 @@
  "G200": [
   {
    "brand": "GDL(BD)",
+   "name": "G200",
+   "device": "G200"
+  },
+  {
+   "brand": "Nomu",
    "name": "G200",
    "device": "G200"
   }
@@ -101627,6 +101699,13 @@
    "device": "Y100"
   }
  ],
+ "Y300": [
+  {
+   "brand": "Ipro",
+   "name": "Y300",
+   "device": "Mobilephone"
+  }
+ ],
  "Zafiro": [
   {
    "brand": "Ipro",
@@ -104018,6 +104097,13 @@
    "brand": "Itel",
    "name": "itel P55 5G",
    "device": "itel-P661N"
+  }
+ ],
+ "itel P663L": [
+  {
+   "brand": "Itel",
+   "name": "itel P55+",
+   "device": "itel-P663L"
   }
  ],
  "itel W7002": [
@@ -121061,7 +121147,7 @@
   },
   {
    "brand": "Rhino",
-   "name": "scoutxl",
+   "name": "RHINO T100",
    "device": "scoutxl"
   }
  ],
@@ -121276,6 +121362,13 @@
    "brand": "LUNA",
    "name": "LUNA T10",
    "device": "LUNA_T10"
+  }
+ ],
+ "LUNA V10": [
+  {
+   "brand": "LUNA",
+   "name": "LUNA V10",
+   "device": "LUNA_V10"
   }
  ],
  "LUNA V6": [
@@ -131818,6 +131911,13 @@
    "device": "SOLAR"
   }
  ],
+ "Solar Pro": [
+  {
+   "brand": "Logicom",
+   "name": "Solar Pro",
+   "device": "Solar_Pro"
+  }
+ ],
  "TAB76": [
   {
    "brand": "Logicom",
@@ -132756,6 +132856,13 @@
    "brand": "MEFERI",
    "name": "ME40M",
    "device": "ME40K_M"
+  }
+ ],
+ "ME61": [
+  {
+   "brand": "MEFERI",
+   "name": "ME61",
+   "device": "ME61"
   }
  ],
  "MEO TV Box 4K": [
@@ -135564,6 +135671,13 @@
    "brand": "Maxwest",
    "name": "MX-N62",
    "device": "MX-NN62WW01"
+  }
+ ],
+ "MX-N55M": [
+  {
+   "brand": "Maxwest",
+   "name": "NITRO 55M",
+   "device": "MX-N55MWW"
   }
  ],
  "Nitro 4N LTE": [
@@ -140829,6 +140943,18 @@
    "brand": "Mobicell",
    "name": "METRO2",
    "device": "METRO2"
+  }
+ ],
+ "MX1": [
+  {
+   "brand": "Mobicell",
+   "name": "MX1",
+   "device": "MX1"
+  },
+  {
+   "brand": "beafon",
+   "name": "MX1",
+   "device": "MX1"
   }
  ],
  "MX2": [
@@ -148896,6 +149022,13 @@
    "device": "Fusion5_F803B"
   }
  ],
+ "Hammer Iron V": [
+  {
+   "brand": "Myphone",
+   "name": "HAMMER IRON V",
+   "device": "HS2302x"
+  }
+ ],
  "HAMMER_AXE_M_LTE": [
   {
    "brand": "Myphone",
@@ -155450,6 +155583,13 @@
    "device": "OX7S"
   }
  ],
+ "W50s": [
+  {
+   "brand": "OWXMobile",
+   "name": "W50s",
+   "device": "W50s"
+  }
+ ],
  "W77": [
   {
    "brand": "OWXMobile",
@@ -156885,6 +157025,13 @@
    "brand": "OpelMobile",
    "name": "Smart X6",
    "device": "SmartX6"
+  }
+ ],
+ "Smart55Q": [
+  {
+   "brand": "OpelMobile",
+   "name": "Smart55Q",
+   "device": "OMS55Q23B"
   }
  ],
  "Smart65Q": [
@@ -163580,6 +163727,13 @@
    "brand": "PS_Mobile",
    "name": "neo",
    "device": "neo"
+  }
+ ],
+ "PYUR TV BOX": [
+  {
+   "brand": "PYUR",
+   "name": "PYUR TV BOX",
+   "device": "m377genb_pyur"
   }
  ],
  "A4000": [
@@ -179653,25 +179807,25 @@
    "device": "Uko108T"
   }
  ],
- "T5se": [
-  {
-   "brand": "Rhino",
-   "name": "Atom",
-   "device": "atom"
-  }
- ],
  "M10p": [
   {
    "brand": "Rhino",
-   "name": "M10p_001",
+   "name": "RHINO M10p",
    "device": "Rhino_M10p"
   }
  ],
  "PACE A1": [
   {
    "brand": "Rhino",
-   "name": "portal",
+   "name": "RHINO PACE A1",
    "device": "portal"
+  }
+ ],
+ "T5se": [
+  {
+   "brand": "Rhino",
+   "name": "RHINO T5se",
+   "device": "atom"
   }
  ],
  "SRT412": [
@@ -209636,6 +209790,11 @@
    "brand": "Sky Devices",
    "name": "SKY PAD10",
    "device": "SKY_PAD10"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "SKY PAD10",
+   "device": "SKY_PAX10US"
   }
  ],
  "SKY PAD8": [
@@ -210961,6 +211120,13 @@
    "brand": "Sony",
    "name": "BRAVIA VH1",
    "device": "BRAVIA_VH1"
+  }
+ ],
+ "BRAVIA 2K VH2": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA VH2",
+   "device": "BRAVIA_VH2"
   }
  ],
  "BRAVIA 4K VH2": [
@@ -240456,6 +240622,13 @@
    "device": "NewPad_10"
   }
  ],
+ "Premier5Max": [
+  {
+   "brand": "UnoPhone",
+   "name": "Premier5Max",
+   "device": "Premier5Max"
+  }
+ ],
  "Premier8": [
   {
    "brand": "UnoPhone",
@@ -240832,6 +241005,13 @@
    "brand": "VENSTAR",
    "name": "VENSTAR2050",
    "device": "VENSTAR2050"
+  }
+ ],
+ "T4GB07": [
+  {
+   "brand": "VETOO",
+   "name": "T4GB07",
+   "device": "T4GB07"
   }
  ],
  "T4GB10": [
@@ -270167,6 +270347,13 @@
    "device": "AURA_Z"
   }
  ],
+ "AURA M1": [
+  {
+   "brand": "Zuum",
+   "name": "Aura M1",
+   "device": "Aura_M1"
+  }
+ ],
  "COVET": [
   {
    "brand": "Zuum",
@@ -270487,6 +270674,20 @@
    "device": "ZUUM_PAD_Lightyear"
   }
  ],
+ "abxylute_one": [
+  {
+   "brand": "abxylute",
+   "name": "abxylute_one",
+   "device": "abxylute_one"
+  }
+ ],
+ "abxylute_one_EEA": [
+  {
+   "brand": "abxylute",
+   "name": "abxylute_one",
+   "device": "abxylute_one"
+  }
+ ],
  "smart_S5": [
   {
    "brand": "afriphone",
@@ -270576,13 +270777,6 @@
    "brand": "beafon",
    "name": "M7 Lite",
    "device": "M7_Lite"
-  }
- ],
- "MX1": [
-  {
-   "brand": "beafon",
-   "name": "MX1",
-   "device": "MX1"
   }
  ],
  "TL20": [
@@ -271159,13 +271353,6 @@
    "brand": "eNOVA",
    "name": "TAE08N10",
    "device": "TAE08N10"
-  }
- ],
- "EVOPRO": [
-  {
-   "brand": "eSTREAM 4K",
-   "name": "EVOPRO",
-   "device": "SEI500EV"
   }
  ],
  "IPA1104HDW-02": [
@@ -274018,18 +274205,6 @@
    "device": "RED8D7"
   }
  ],
- "RMX3612": [
-  {
-   "brand": "realme",
-   "name": "RMX3612",
-   "device": "RE588DL1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 9i 5G",
-   "device": "RE588DL1"
-  }
- ],
  "RMX3627": [
   {
    "brand": "realme",
@@ -274404,6 +274579,13 @@
    "brand": "realme",
    "name": "realme 9i",
    "device": "RED8C1L1"
+  }
+ ],
+ "RMX3612": [
+  {
+   "brand": "realme",
+   "name": "realme 9i 5G",
+   "device": "RE588DL1"
   }
  ],
  "RMX3263": [

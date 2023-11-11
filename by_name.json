@@ -8961,6 +8961,13 @@
    "model": "APD3"
   }
  ],
+ "A68EL": [
+  {
+   "brand": "ATEL",
+   "device": "A68EL",
+   "model": "A68EL"
+  }
+ ],
  "AT908": [
   {
    "brand": "ATID",
@@ -25099,6 +25106,13 @@
    "model": "AT_701B"
   }
  ],
+ "M87QF6-4G": [
+  {
+   "brand": "Azeyou",
+   "device": "M87QF6-4G",
+   "model": "M87QF6-4G"
+  }
+ ],
  "A4": [
   {
    "brand": "Azumi",
@@ -26130,6 +26144,11 @@
   },
   {
    "brand": "Monster",
+   "device": "M10",
+   "model": "M10"
+  },
+  {
+   "brand": "Phone Max",
    "device": "M10",
    "model": "M10"
   },
@@ -31461,6 +31480,11 @@
   },
   {
    "brand": "Lexia Mobile",
+   "device": "S1",
+   "model": "S1"
+  },
+  {
+   "brand": "Rizzen",
    "device": "S1",
    "model": "S1"
   },
@@ -41795,6 +41819,13 @@
    "model": "U800B"
   }
  ],
+ "C10STAR": [
+  {
+   "brand": "Celkon",
+   "device": "C10STAR",
+   "model": "Celkon C10STAR"
+  }
+ ],
  "CliQ 2": [
   {
    "brand": "Celkon",
@@ -42644,6 +42675,13 @@
    "brand": "Cherry Mobile",
    "device": "A1130",
    "model": "A1130"
+  }
+ ],
+ "A1240": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "A1240",
+   "model": "A1240"
   }
  ],
  "A810": [
@@ -60611,6 +60649,18 @@
    "model": "MOBI-SECTV"
   }
  ],
+ "EVOPRO": [
+  {
+   "brand": "EVOPRO",
+   "device": "SEI500EV",
+   "model": "EVOPRO"
+  },
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500EV",
+   "model": "EVOPRO"
+  }
+ ],
  "OCTA-T700M": [
   {
    "brand": "EWIS",
@@ -62666,6 +62716,13 @@
    "model": "eSTAR BEAUTY 2 HD Quad core"
   }
  ],
+ "Digni-Smart": [
+  {
+   "brand": "Estar",
+   "device": "Digni-Smart",
+   "model": "Digni-Smart"
+  }
+ ],
  "GO! HD Quad core 3G": [
   {
    "brand": "Estar",
@@ -63890,11 +63947,6 @@
    "brand": "Explay",
    "device": "Atom",
    "model": "Atom"
-  },
-  {
-   "brand": "Rhino",
-   "device": "atom",
-   "model": "T5se"
   },
   {
    "brand": "Unihertz",
@@ -69524,6 +69576,11 @@
  "G200": [
   {
    "brand": "GDL(BD)",
+   "device": "G200",
+   "model": "G200"
+  },
+  {
+   "brand": "Nomu",
    "device": "G200",
    "model": "G200"
   }
@@ -94296,6 +94353,11 @@
    "brand": "Huawei",
    "device": "hwY300-0151",
    "model": "Pelephone-Y300-"
+  },
+  {
+   "brand": "Ipro",
+   "device": "Mobilephone",
+   "model": "Y300"
   }
  ],
  "Y300-0000": [
@@ -95533,11 +95595,6 @@
    "brand": "Huawei",
    "device": "HWCAZ",
    "model": "HUAWEI CAZ-TL20"
-  },
-  {
-   "brand": "Rhino",
-   "device": "nova",
-   "model": "C6"
   }
  ],
  "nova 2": [
@@ -106078,6 +106135,13 @@
    "brand": "Itel",
    "device": "itel-P661N",
    "model": "itel P661N"
+  }
+ ],
+ "itel P55+": [
+  {
+   "brand": "Itel",
+   "device": "itel-P663L",
+   "model": "itel P663L"
   }
  ],
  "itel Prime 4": [
@@ -121389,6 +121453,13 @@
    "model": "LUNA T10"
   }
  ],
+ "LUNA V10": [
+  {
+   "brand": "LUNA",
+   "device": "LUNA_V10",
+   "model": "LUNA V10"
+  }
+ ],
  "LUNA V6": [
   {
    "brand": "LUNA",
@@ -130818,6 +130889,13 @@
    "model": "SOLAR"
   }
  ],
+ "Solar Pro": [
+  {
+   "brand": "Logicom",
+   "device": "Solar_Pro",
+   "model": "Solar Pro"
+  }
+ ],
  "TAB76": [
   {
    "brand": "Logicom",
@@ -131750,6 +131828,13 @@
    "brand": "MEFERI",
    "device": "ME40K_M",
    "model": "ME40K"
+  }
+ ],
+ "ME61": [
+  {
+   "brand": "MEFERI",
+   "device": "ME61",
+   "model": "ME61"
   }
  ],
  "MEO TV Box 4K": [
@@ -134493,6 +134578,13 @@
    "brand": "Maxwest",
    "device": "MX-NN62WW01",
    "model": "NITRO N62"
+  }
+ ],
+ "NITRO 55M": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-N55MWW",
+   "model": "MX-N55M"
   }
  ],
  "Nitro 4N LTE": [
@@ -139412,6 +139504,18 @@
    "brand": "Mobicell",
    "device": "METRO2",
    "model": "MOBICEL METRO2"
+  }
+ ],
+ "MX1": [
+  {
+   "brand": "Mobicell",
+   "device": "MX1",
+   "model": "MX1"
+  },
+  {
+   "brand": "beafon",
+   "device": "MX1",
+   "model": "MX1"
   }
  ],
  "MX2": [
@@ -146855,6 +146959,13 @@
    "model": "Bolt"
   }
  ],
+ "HAMMER IRON V": [
+  {
+   "brand": "Myphone",
+   "device": "HS2302x",
+   "model": "Hammer Iron V"
+  }
+ ],
  "Hammer AXE M LTE": [
   {
    "brand": "Myphone",
@@ -153236,6 +153347,13 @@
    "model": "OX7S"
   }
  ],
+ "W50s": [
+  {
+   "brand": "OWXMobile",
+   "device": "W50s",
+   "model": "W50s"
+  }
+ ],
  "W77": [
   {
    "brand": "OWXMobile",
@@ -154520,6 +154638,13 @@
    "brand": "OpelMobile",
    "device": "SmartX6",
    "model": "Opel Mobile SmartX6"
+  }
+ ],
+ "Smart55Q": [
+  {
+   "brand": "OpelMobile",
+   "device": "OMS55Q23B",
+   "model": "Smart55Q"
   }
  ],
  "Smart65Q": [
@@ -160835,6 +160960,13 @@
    "brand": "PS_Mobile",
    "device": "neo",
    "model": "neo"
+  }
+ ],
+ "PYUR TV BOX": [
+  {
+   "brand": "PYUR",
+   "device": "m377genb_pyur",
+   "model": "PYUR TV BOX"
   }
  ],
  "A4000": [
@@ -176517,32 +176649,60 @@
    "model": "Uko108T"
   }
  ],
- "M10p_001": [
+ "RHINO C10": [
+  {
+   "brand": "Rhino",
+   "device": "Rhino_C10",
+   "model": "C10"
+  }
+ ],
+ "RHINO C6": [
+  {
+   "brand": "Rhino",
+   "device": "nova",
+   "model": "C6"
+  }
+ ],
+ "RHINO M10p": [
   {
    "brand": "Rhino",
    "device": "Rhino_M10p",
    "model": "M10p"
   }
  ],
- "portal": [
+ "RHINO PACE A1": [
   {
    "brand": "Rhino",
    "device": "portal",
    "model": "PACE A1"
   }
  ],
- "scout": [
-  {
-   "brand": "Rhino",
-   "device": "scout",
-   "model": "T80"
-  }
- ],
- "scoutxl": [
+ "RHINO T100": [
   {
    "brand": "Rhino",
    "device": "scoutxl",
    "model": "T100"
+  }
+ ],
+ "RHINO T5se": [
+  {
+   "brand": "Rhino",
+   "device": "atom",
+   "model": "T5se"
+  }
+ ],
+ "RHINO T8": [
+  {
+   "brand": "Rhino",
+   "device": "Rhino_T8",
+   "model": "T8"
+  }
+ ],
+ "RHINO T80": [
+  {
+   "brand": "Rhino",
+   "device": "scout",
+   "model": "T80"
   }
  ],
  "SRT412": [
@@ -201941,6 +202101,11 @@
    "brand": "Sky Devices",
    "device": "SKY_PAD10",
    "model": "SKY PAD10"
+  },
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_PAX10US",
+   "model": "SKY PAD10"
   }
  ],
  "SKY PAD10Max": [
@@ -203211,6 +203376,11 @@
   }
  ],
  "BRAVIA VH2": [
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_VH2",
+   "model": "BRAVIA 2K VH2"
+  },
   {
    "brand": "Sony",
    "device": "BRAVIA_VH2",
@@ -229692,6 +229862,13 @@
    "model": "NewPad 10"
   }
  ],
+ "Premier5Max": [
+  {
+   "brand": "UnoPhone",
+   "device": "Premier5Max",
+   "model": "Premier5Max"
+  }
+ ],
  "Premier8": [
   {
    "brand": "UnoPhone",
@@ -230104,6 +230281,13 @@
    "brand": "VENSTAR",
    "device": "VENSTAR2050",
    "model": "VENSTAR2050"
+  }
+ ],
+ "T4GB07": [
+  {
+   "brand": "VETOO",
+   "device": "T4GB07",
+   "model": "T4GB07"
   }
  ],
  "T4GB10": [
@@ -256603,6 +256787,13 @@
    "model": "AURA_Z"
   }
  ],
+ "Aura M1": [
+  {
+   "brand": "Zuum",
+   "device": "Aura_M1",
+   "model": "AURA M1"
+  }
+ ],
  "COVET": [
   {
    "brand": "Zuum",
@@ -256930,6 +257121,18 @@
    "model": "ZUUM PAD Lightyear"
   }
  ],
+ "abxylute_one": [
+  {
+   "brand": "abxylute",
+   "device": "abxylute_one",
+   "model": "abxylute_one"
+  },
+  {
+   "brand": "abxylute",
+   "device": "abxylute_one",
+   "model": "abxylute_one_EEA"
+  }
+ ],
  "smart_S5": [
   {
    "brand": "afriphone",
@@ -257012,13 +257215,6 @@
    "brand": "beafon",
    "device": "M7_Lite",
    "model": "M7 Lite"
-  }
- ],
- "MX1": [
-  {
-   "brand": "beafon",
-   "device": "MX1",
-   "model": "MX1"
   }
  ],
  "TL20": [
@@ -257656,13 +257852,6 @@
    "brand": "eNOVA",
    "device": "TAE08N10",
    "model": "TAE08N10"
-  }
- ],
- "EVOPRO": [
-  {
-   "brand": "eSTREAM 4K",
-   "device": "SEI500EV",
-   "model": "EVOPRO"
   }
  ],
  "IPA-1104HDH-01": [
@@ -260583,13 +260772,6 @@
    "brand": "realme",
    "device": "RED8D7",
    "model": "RMX3268"
-  }
- ],
- "RMX3612": [
-  {
-   "brand": "realme",
-   "device": "RE588DL1",
-   "model": "RMX3612"
   }
  ],
  "RMX3627": [
