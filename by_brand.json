@@ -16244,6 +16244,11 @@
    "model": "RM8604"
   },
   {
+   "device": "RP7504",
+   "name": "RP7504",
+   "model": "RP7504"
+  },
+  {
    "device": "RP8604",
    "name": "RP8604",
    "model": "RP8604"
@@ -122354,6 +122359,11 @@
    "model": "22127PC95I"
   },
   {
+   "device": "gust",
+   "name": "POCO C65",
+   "model": "2310FPCA4G"
+  },
+  {
    "device": "lmi",
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -133997,6 +134007,16 @@
    "device": "earth",
    "name": "Redmi 12C",
    "model": "2212ARNC4L"
+  },
+  {
+   "device": "gale",
+   "name": "Redmi 13C",
+   "model": "23100RN82L"
+  },
+  {
+   "device": "gale",
+   "name": "Redmi 13C",
+   "model": "23106RN0DA"
   },
   {
    "device": "cereus",
@@ -206730,6 +206750,11 @@
    "model": "MAGNO C1"
   },
   {
+   "device": "MAGNO_C2",
+   "name": "MAGNO C2",
+   "model": "MAGNO C2"
+  },
+  {
    "device": "MAGNO_MINI",
    "name": "MAGNO MINI",
    "model": "MAGNO MINI"
@@ -208993,6 +209018,11 @@
    "model": "I22T01"
   },
   {
+   "device": "Swan1Pro",
+   "name": "Swan 1 Pro",
+   "model": "I23D02"
+  },
+  {
    "device": "I22M01",
    "name": "Swift 1",
    "model": "I22M01"
@@ -210200,6 +210230,11 @@
    "model": "RMX3710"
   },
   {
+   "device": "RE5C6CL1",
+   "name": "RMX3782",
+   "model": "RMX3782"
+  },
+  {
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
@@ -210913,11 +210948,6 @@
    "device": "RE58B1L1",
    "name": "realme narzo 60 5G",
    "model": "RMX3750"
-  },
-  {
-   "device": "RE5C6CL1",
-   "name": "realme narzo 60x 5G",
-   "model": "RMX3782"
   },
   {
    "device": "RE58C6",

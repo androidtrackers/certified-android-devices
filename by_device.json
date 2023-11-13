@@ -30209,6 +30209,13 @@
    "model": "RM8604"
   }
  ],
+ "RP7504": [
+  {
+   "brand": "BenQ",
+   "name": "RP7504",
+   "model": "RP7504"
+  }
+ ],
  "RP8604": [
   {
    "brand": "BenQ",
@@ -161017,6 +161024,13 @@
    "model": "2212ARNC4L"
   }
  ],
+ "gust": [
+  {
+   "brand": "POCO",
+   "name": "POCO C65",
+   "model": "2310FPCA4G"
+  }
+ ],
  "lmi": [
   {
    "brand": "POCO",
@@ -174865,6 +174879,18 @@
    "brand": "Redmi",
    "name": "Redmi 12C",
    "model": "22126RN91Y"
+  }
+ ],
+ "gale": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 13C",
+   "model": "23100RN82L"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 13C",
+   "model": "23106RN0DA"
   }
  ],
  "cereus": [
@@ -258831,6 +258857,13 @@
    "model": "MAGNO C1"
   }
  ],
+ "MAGNO_C2": [
+  {
+   "brand": "Zuum",
+   "name": "MAGNO C2",
+   "model": "MAGNO C2"
+  }
+ ],
  "MAGNO_MINI": [
   {
    "brand": "Zuum",
@@ -261393,6 +261426,13 @@
    "model": "I22T01"
   }
  ],
+ "Swan1Pro": [
+  {
+   "brand": "iMin",
+   "name": "Swan 1 Pro",
+   "model": "I23D02"
+  }
+ ],
  "I22M01": [
   {
    "brand": "iMin",
@@ -262564,6 +262604,23 @@
    "model": "RMX3710"
   }
  ],
+ "RE5C6CL1": [
+  {
+   "brand": "realme",
+   "name": "RMX3782",
+   "model": "RMX3782"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 11 5G",
+   "model": "RMX3780"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 11x 5G",
+   "model": "RMX3785"
+  }
+ ],
  "RED8CDL1": [
   {
    "brand": "realme",
@@ -262753,23 +262810,6 @@
    "brand": "realme",
    "name": "realme 11",
    "model": "RMX3636"
-  }
- ],
- "RE5C6CL1": [
-  {
-   "brand": "realme",
-   "name": "realme 11 5G",
-   "model": "RMX3780"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 11x 5G",
-   "model": "RMX3785"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 60x 5G",
-   "model": "RMX3782"
   }
  ],
  "RE5865": [

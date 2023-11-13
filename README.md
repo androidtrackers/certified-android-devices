@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-12
+Last sync is 2023-11-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3146,6 +3146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
 |BenQ|RM8604|RM8604|RM8604|
+|BenQ|RP7504|RP7504|RP7504|
 |BenQ|RP8604|RP8604|RP8604|
 |BenQ|Smart TV|longshan|AI PONT|
 |BenQ|Smart TV|redwood|AI PONT|
@@ -23788,6 +23789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C51|water|2302EPCC4H|
 |POCO|POCO C51|water|2305EPCC4G|
 |POCO|POCO C55|earth|22127PC95I|
+|POCO|POCO C65|gust|2310FPCA4G|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -26053,6 +26055,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 12C|earth|22120RN86G|
 |Redmi|Redmi 12C|earth|22120RN86I|
 |Redmi|Redmi 12C|earth|2212ARNC4L|
+|Redmi|Redmi 13C|gale|23100RN82L|
+|Redmi|Redmi 13C|gale|23106RN0DA|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -40286,6 +40290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO C|MAGNO_C|MAGNO C|
 |Zuum|MAGNO C PLUS|Magno_C_Plus|Magno C Plus|
 |Zuum|MAGNO C1|MAGNO_C1|MAGNO C1|
+|Zuum|MAGNO C2|MAGNO_C2|MAGNO C2|
 |Zuum|MAGNO MINI|MAGNO_MINI|MAGNO MINI|
 |Zuum|Magno Pro|Magno_Pro|Magno Pro|
 |Zuum|ONIX|ONIX|ONIX|
@@ -40713,6 +40718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMESH|IM-560|IM-560|IM-560|
 |iMin|D4 Pro|D4Pro|I23D01|
 |iMin|Falcon 1|I22T01|I22T01|
+|iMin|Swan 1 Pro|Swan1Pro|I23D02|
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
@@ -40934,6 +40940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3268|RED8D7|RMX3268|
 |realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|
+|realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -41077,7 +41084,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 50i|RED8FA|RMX3235|
 |realme|realme narzo 50i Prime|RE588E|RMX3506|
 |realme|realme narzo 60 5G|RE58B1L1|RMX3750|
-|realme|realme narzo 60x 5G|RE5C6CL1|RMX3782|
 |realme|realme narzo N53|RE58C6|RMX3761|
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
