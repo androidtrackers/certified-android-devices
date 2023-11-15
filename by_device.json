@@ -5177,6 +5177,11 @@
    "model": "HK 2K Google TV"
   },
   {
+   "brand": "RCA",
+   "name": "RCA 2K Google TV-E",
+   "model": "RCA 2K Google TV-E"
+  },
+  {
    "brand": "SICON",
    "name": "SICON 2K Google TV",
    "model": "SICON 2K Google TV"
@@ -5449,6 +5454,11 @@
    "brand": "RCA",
    "name": "RCA 4K Google TV",
    "model": "RCA 4K Google TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA 4K Google TV-E",
+   "model": "RCA 4K Google TV-E"
   },
   {
    "brand": "SICON",
@@ -6736,6 +6746,11 @@
    "brand": "EKO",
    "name": "EU、UK、AP",
    "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "EPIC",
+   "name": "EPIC 2K Android TV",
+   "model": "EPIC 2K Android TV"
   },
   {
    "brand": "EPIC",
@@ -33184,6 +33199,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "COLORVIEW",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DIGGIO",
    "model": "DIGGIO GOOGLE TV 4K"
   },
@@ -33201,6 +33221,11 @@
    "brand": "KTCtv",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IQWORLD",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -33271,6 +33296,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
+  },
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXELECTRONICS",
+   "model": "4K SMART TV"
   },
   {
    "brand": "ZTE",
@@ -37674,6 +37704,11 @@
    "brand": "CAIXUN",
    "name": "Sgamer",
    "model": "Sgamer"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Kogan G7",
+   "model": "Kogan G7"
   }
  ],
  "LT5": [
@@ -81551,6 +81586,13 @@
    "model": "Hisense H40 Lite"
   }
  ],
+ "HLTE243E": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
+   "model": "Hisense E33"
+  }
+ ],
  "HSSDM636QC": [
   {
    "brand": "Hisense",
@@ -82261,6 +82303,13 @@
    "model": "Hisense E31 Lite"
   }
  ],
+ "HLTE243E_01": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E33",
+   "model": "Hisense E33"
+  }
+ ],
  "HLTE229E": [
   {
    "brand": "Hisense",
@@ -82457,6 +82506,13 @@
   }
  ],
  "HLTE262E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E70",
+   "model": "Hisense E70"
+  }
+ ],
+ "HLTE262E_01": [
   {
    "brand": "Hisense",
    "name": "Hisense E70",
@@ -82847,6 +82903,13 @@
   }
  ],
  "HLTE109E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U70 Pro"
+  }
+ ],
+ "HLTE109E_01": [
   {
    "brand": "Hisense",
    "name": "Hisense U70 Pro",
@@ -110759,6 +110822,11 @@
    "brand": "Kyocera",
    "name": "DuraSport 5G",
    "model": "C6930"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "DuraSport 5G",
+   "model": "C6931"
   }
  ],
  "KSP8000": [
@@ -160680,6 +160748,13 @@
    "model": "P60_CA"
   }
  ],
+ "P63L_PR": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P63L",
+   "model": "P63L"
+  }
+ ],
  "PCD508": [
   {
    "brand": "PCD Argentina",
@@ -200566,7 +200641,17 @@
   {
    "brand": "Sharp",
    "name": "AQUOS wish3",
+   "model": "A302SH-s"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
    "model": "A303SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
+   "model": "A303SH-y"
   },
   {
    "brand": "Sharp",

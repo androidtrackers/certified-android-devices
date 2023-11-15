@@ -36351,6 +36351,11 @@
  ],
  "EPIC": [
   {
+   "device": "martin",
+   "name": "EPIC 2K Android TV",
+   "model": "EPIC 2K Android TV"
+  },
+  {
    "device": "patrick",
    "name": "Guatemala/Honduras",
    "model": "EPIC Android TV"
@@ -55215,6 +55220,11 @@
    "model": "Hisense Infinity H40 Lite"
   },
   {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense E33"
+  },
+  {
    "device": "HS8937QC",
    "name": "HLTE300E_ 02",
    "model": "HLTE300E"
@@ -55760,6 +55770,11 @@
    "model": "Hisense E31 Lite"
   },
   {
+   "device": "HLTE243E_01",
+   "name": "Hisense E33",
+   "model": "Hisense E33"
+  },
+  {
    "device": "HLTE229E",
    "name": "Hisense E40",
    "model": "HLTE229E"
@@ -55906,6 +55921,11 @@
   },
   {
    "device": "HLTE262E",
+   "name": "Hisense E70",
+   "model": "Hisense E70"
+  },
+  {
+   "device": "HLTE262E_01",
    "name": "Hisense E70",
    "model": "Hisense E70"
   },
@@ -56271,6 +56291,11 @@
   },
   {
    "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U70 Pro"
+  },
+  {
+   "device": "HLTE109E_01",
    "name": "Hisense U70 Pro",
    "model": "Hisense U70 Pro"
   },
@@ -77588,6 +77613,11 @@
    "model": "43FCOL"
   },
   {
+   "device": "lavender",
+   "name": "COLORVIEW",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "CONTINUUS",
    "model": "SMART TV"
@@ -77766,6 +77796,11 @@
    "device": "zhongshan",
    "name": "INNOVA",
    "model": "CSV4K"
+  },
+  {
+   "device": "lavender",
+   "name": "IQWORLD",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -79919,6 +79954,11 @@
    "model": "Kogan G5"
   },
   {
+   "device": "cottongreen",
+   "name": "Kogan G7",
+   "model": "Kogan G7"
+  },
+  {
    "device": "hanyang",
    "name": "Kogan SmarterTV",
    "model": "Kogan SmarterTV"
@@ -80931,6 +80971,11 @@
    "device": "KY21L-RG100",
    "name": "DuraSport 5G",
    "model": "C6930"
+  },
+  {
+   "device": "KY21L-RG100",
+   "name": "DuraSport 5G",
+   "model": "C6931"
   },
   {
    "device": "KSP8000",
@@ -122071,6 +122116,11 @@
    "model": "P60_CA"
   },
   {
+   "device": "P63L_PR",
+   "name": "P63L",
+   "model": "P63L"
+  },
+  {
    "device": "PCD508",
    "name": "PCD508",
    "model": "PCD508"
@@ -132385,6 +132435,11 @@
    "model": "RCA 2K Android TV"
   },
   {
+   "device": "capitolhill",
+   "name": "RCA 2K Google TV-E",
+   "model": "RCA 2K Google TV-E"
+  },
+  {
    "device": "nagata",
    "name": "RCA 2K SMART TV",
    "model": "RCA 2K SMART TV"
@@ -132398,6 +132453,11 @@
    "device": "keoneae",
    "name": "RCA 4K Google TV",
    "model": "RCA 4K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "RCA 4K Google TV-E",
+   "model": "RCA 4K Google TV-E"
   },
   {
    "device": "DRP2091",
@@ -155336,7 +155396,17 @@
   {
    "device": "SX3",
    "name": "AQUOS wish3",
+   "model": "A302SH-s"
+  },
+  {
+   "device": "SX3",
+   "name": "AQUOS wish3",
    "model": "A303SH"
+  },
+  {
+   "device": "SX3",
+   "name": "AQUOS wish3",
+   "model": "A303SH-y"
   },
   {
    "device": "SX3",
@@ -183525,6 +183595,11 @@
   }
  ],
  "VOXelectronics": [
+  {
+   "device": "lavender",
+   "name": "VOXELECTRONICS",
+   "model": "4K SMART TV"
+  },
   {
    "device": "lasalle",
    "name": "VOXelectronics 2K Android TV",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-14
+Last sync is 2023-11-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7017,6 +7017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
 |EONSmartBox|SDSTB01|DV8945C-KSU|SDSTB01|
 |EPI(Columbia)|TAB-001|TAB-001|TAB-001|
+|EPIC|EPIC 2K Android TV|martin|EPIC 2K Android TV|
 |EPIC|Guatemala/Honduras|patrick|EPIC Android TV|
 |EPIC|martin|martin|EPIC Android TV|
 |EPIKONE|K400|K400|K400|
@@ -10653,6 +10654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE229E|HLTE229E_01|HLTE229E|
 |Hisense|HLTE229E|HLTE229E_01|Hisense E40|
 |Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
+|Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
 |Hisense|HLTE300E_ 02|HS8937QC|Hisense Infinity H11|
@@ -10762,6 +10764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E31 Lite|HLTE105E|Hisense E31 Lite|
 |Hisense|Hisense E31 Lite|HLTE105E_02|Hisense E31 Lite|
 |Hisense|Hisense E31 Lite|HLTE105E_03|Hisense E31 Lite|
+|Hisense|Hisense E33|HLTE243E_01|Hisense E33|
 |Hisense|Hisense E40|HLTE229E|HLTE229E|
 |Hisense|Hisense E40|HLTE229E|Hisense E40|
 |Hisense|Hisense E40|HLTE229E_10|HLTE229E|
@@ -10792,6 +10795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E60 Lite|HLTE235E_12|Hisense E60 Lite|
 |Hisense|Hisense E60 Lite|HLTE235E_20|Hisense E60 Lite|
 |Hisense|Hisense E70|HLTE262E|Hisense E70|
+|Hisense|Hisense E70|HLTE262E_01|Hisense E70|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -10865,6 +10869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U605|HS7731ESP|Hisense U606|
 |Hisense|Hisense U605|Hisense|Hisense U605|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_12|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_13|Hisense U963|
@@ -15050,6 +15055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|CHIMEI|zhongshan|4K SMART TV|
 |KTCtv|COL|stanford|40DCOL|
 |KTCtv|COL|zhongshan|43FCOL|
+|KTCtv|COLORVIEW|lavender|4K SMART TV|
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
@@ -15086,6 +15092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|INNOVA|mountbaker|INNOVA GOOGLE TV|
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
+|KTCtv|IQWORLD|lavender|4K SMART TV|
 |KTCtv|KIUNIT|stanford|SMART TV|
 |KTCtv|KIUNIT|zhongshan|Smart UHD TV|
 |KTCtv|KTC|stanford|2K SMART TV|
@@ -15499,6 +15506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Kogan|Kogan G5|marina|Kogan G5|
 |Kogan|Kogan G5|nagata|Kogan G5|
+|Kogan|Kogan G7|cottongreen|Kogan G7|
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
 |Kogan|RF9220|redwood|AI PONT|
 |Kogan|Smart TV|longshan|AI PONT|
@@ -15695,6 +15703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce XD|E6790TM|E6790TM|
 |Kyocera|DuraScout|E6782L|E6782L|
 |Kyocera|DuraSport 5G|KY21L-RG100|C6930|
+|Kyocera|DuraSport 5G|KY21L-RG100|C6931|
 |Kyocera|Echo|KSP8000|KSP8000|
 |Kyocera|Echo|M9300|M9300|
 |Kyocera|Event|C5133|Event|
@@ -23737,6 +23746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|P55|P55|P55|
 |PCD Argentina|P60 CENAM|P60_CENAM|P60 CENAM|
 |PCD Argentina|P60_CA|P60_CA|P60_CA|
+|PCD Argentina|P63L|P63L_PR|P63L|
 |PCD Argentina|PCD508|PCD508|PCD508|
 |PCD Argentina|PCD509|PCD509|PCD509|
 |PCD Argentina|PD60|P60|P60|
@@ -25745,9 +25755,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA|mountbaker|2K SMART TV|
 |RCA|RCA|seocho|RCA 4K Android TV|
 |RCA|RCA 2K Android TV|lasalle|RCA 2K Android TV|
+|RCA|RCA 2K Google TV-E|capitolhill|RCA 2K Google TV-E|
 |RCA|RCA 2K SMART TV|nagata|RCA 2K SMART TV|
 |RCA|RCA 4K Android TV|kenton|RCA 4K Android TV|
 |RCA|RCA 4K Google TV|keoneae|RCA 4K Google TV|
+|RCA|RCA 4K Google TV-E|keoneae|RCA 4K Google TV-E|
 |RCA|RCA DRP2091|DRP2091|DRP2091|
 |RCA|RCA RCT6213W22|RCT6213W22|RCT6213W22|
 |RCA|RCA RCT6213W23|RCT6213W23|RCT6213W23|
@@ -30258,7 +30270,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish2|SXI|A204SH|
 |Sharp|AQUOS wish3|SH-53D|SH-53D|
 |Sharp|AQUOS wish3|SX3|A302SH|
+|Sharp|AQUOS wish3|SX3|A302SH-s|
 |Sharp|AQUOS wish3|SX3|A303SH|
+|Sharp|AQUOS wish3|SX3|A303SH-y|
 |Sharp|AQUOS wish3|SX3|SH-M25|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
@@ -35740,6 +35754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VORCOM|SXPRO|SXPRO|SXPRO|
 |VORCOM|SXPRO_classic|SXPRO_classic|SXPRO_classic|
 |VORCOM|SXPro-P40|SXPro-P40|SXPro-P40|
+|VOXelectronics|VOXELECTRONICS|lavender|4K SMART TV|
 |VOXelectronics|VOXelectronics 2K Android TV|lasalle|VOXelectronics 2K Android TV|
 |VOXelectronics|VOXelectronics 4K Android TV|kenton|VOXelectronics 4K Android TV|
 |VSN|V.35|up11_h1_vsn|V.35|

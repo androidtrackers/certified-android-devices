@@ -60063,6 +60063,13 @@
    "model": "TAB-001"
   }
  ],
+ "EPIC 2K Android TV": [
+  {
+   "brand": "EPIC",
+   "device": "martin",
+   "model": "EPIC 2K Android TV"
+  }
+ ],
  "Guatemala/Honduras": [
   {
    "brand": "EPIC",
@@ -84022,6 +84029,13 @@
    "model": "Hisense Infinity H40 Lite"
   }
  ],
+ "HLTE243E": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE243E",
+   "model": "Hisense E33"
+  }
+ ],
  "HLTE300E_ 02": [
   {
    "brand": "Hisense",
@@ -84690,6 +84704,13 @@
    "model": "Hisense E31 Lite"
   }
  ],
+ "Hisense E33": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE243E_01",
+   "model": "Hisense E33"
+  }
+ ],
  "Hisense E40": [
   {
    "brand": "Hisense",
@@ -84853,6 +84874,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE262E",
+   "model": "Hisense E70"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE262E_01",
    "model": "Hisense E70"
   }
  ],
@@ -85296,6 +85322,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE109E",
+   "model": "Hisense U70 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE109E_01",
    "model": "Hisense U70 Pro"
   }
  ],
@@ -108997,6 +109028,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "COLORVIEW": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "CONTINUUS": [
   {
    "brand": "KTCtv",
@@ -109187,6 +109225,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "CSV4K"
+  }
+ ],
+ "IQWORLD": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "KIUNIT": [
@@ -109441,6 +109486,11 @@
    "brand": "KTCtv",
    "device": "mountbaker",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "VOXelectronics",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "XELL": [
@@ -111962,6 +112012,13 @@
    "model": "Kogan G5"
   }
  ],
+ "Kogan G7": [
+  {
+   "brand": "Kogan",
+   "device": "cottongreen",
+   "model": "Kogan G7"
+  }
+ ],
  "Kogan SmarterTV": [
   {
    "brand": "Kogan",
@@ -113253,6 +113310,11 @@
    "brand": "Kyocera",
    "device": "KY21L-RG100",
    "model": "C6930"
+  },
+  {
+   "brand": "Kyocera",
+   "device": "KY21L-RG100",
+   "model": "C6931"
   }
  ],
  "Echo": [
@@ -160255,6 +160317,13 @@
    "model": "P60_CA"
   }
  ],
+ "P63L": [
+  {
+   "brand": "PCD Argentina",
+   "device": "P63L_PR",
+   "model": "P63L"
+  }
+ ],
  "PCD508": [
   {
    "brand": "PCD Argentina",
@@ -172781,6 +172850,13 @@
    "model": "RCA 2K Android TV"
   }
  ],
+ "RCA 2K Google TV-E": [
+  {
+   "brand": "RCA",
+   "device": "capitolhill",
+   "model": "RCA 2K Google TV-E"
+  }
+ ],
  "RCA 2K SMART TV": [
   {
    "brand": "RCA",
@@ -172800,6 +172876,13 @@
    "brand": "RCA",
    "device": "keoneae",
    "model": "RCA 4K Google TV"
+  }
+ ],
+ "RCA 4K Google TV-E": [
+  {
+   "brand": "RCA",
+   "device": "keoneae",
+   "model": "RCA 4K Google TV-E"
   }
  ],
  "RCA DRP2091": [
@@ -198643,7 +198726,17 @@
   {
    "brand": "Sharp",
    "device": "SX3",
+   "model": "A302SH-s"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SX3",
    "model": "A303SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SX3",
+   "model": "A303SH-y"
   },
   {
    "brand": "Sharp",

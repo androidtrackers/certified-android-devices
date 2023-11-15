@@ -7111,6 +7111,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "COLORVIEW",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DANILUX",
    "device": "hongkong"
   },
@@ -7148,6 +7153,11 @@
    "brand": "KTCtv",
    "name": "IMMER",
    "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IQWORLD",
+   "device": "lavender"
   },
   {
    "brand": "KTCtv",
@@ -7368,6 +7378,11 @@
    "brand": "Soneview",
    "name": "SONEVIEW",
    "device": "zhongshan"
+  },
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXELECTRONICS",
+   "device": "lavender"
   },
   {
    "brand": "Visiontech",
@@ -53284,6 +53299,13 @@
    "device": "TAB-001"
   }
  ],
+ "EPIC 2K Android TV": [
+  {
+   "brand": "EPIC",
+   "name": "EPIC 2K Android TV",
+   "device": "martin"
+  }
+ ],
  "EPIC Android TV": [
   {
    "brand": "EPIC",
@@ -78442,6 +78464,18 @@
    "device": "HLTE230E_20"
   }
  ],
+ "Hisense E33": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
+   "device": "HLTE243E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E33",
+   "device": "HLTE243E_01"
+  }
+ ],
  "HLTE300E": [
   {
    "brand": "Hisense",
@@ -79233,6 +79267,11 @@
    "brand": "Hisense",
    "name": "Hisense E70",
    "device": "HLTE262E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E70",
+   "device": "HLTE262E_01"
   }
  ],
  "Hisense E76MINIM": [
@@ -79699,6 +79738,11 @@
    "brand": "Hisense",
    "name": "Hisense U70 Pro",
    "device": "HLTE109E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "device": "HLTE109E_01"
   }
  ],
  "Hisense U963": [
@@ -109726,6 +109770,13 @@
    "device": "nagata"
   }
  ],
+ "Kogan G7": [
+  {
+   "brand": "Kogan",
+   "name": "Kogan G7",
+   "device": "cottongreen"
+  }
+ ],
  "Kogan SmarterTV": [
   {
    "brand": "Kogan",
@@ -111048,6 +111099,13 @@
   }
  ],
  "C6930": [
+  {
+   "brand": "Kyocera",
+   "name": "DuraSport 5G",
+   "device": "KY21L-RG100"
+  }
+ ],
+ "C6931": [
   {
    "brand": "Kyocera",
    "name": "DuraSport 5G",
@@ -163014,6 +163072,13 @@
    "device": "P60_CA"
   }
  ],
+ "P63L": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P63L",
+   "device": "P63L_PR"
+  }
+ ],
  "PCD508": [
   {
    "brand": "PCD Argentina",
@@ -175901,6 +175966,13 @@
    "device": "lasalle"
   }
  ],
+ "RCA 2K Google TV-E": [
+  {
+   "brand": "RCA",
+   "name": "RCA 2K Google TV-E",
+   "device": "capitolhill"
+  }
+ ],
  "RCA 2K SMART TV": [
   {
    "brand": "RCA",
@@ -175912,6 +175984,13 @@
   {
    "brand": "RCA",
    "name": "RCA 4K Google TV",
+   "device": "keoneae"
+  }
+ ],
+ "RCA 4K Google TV-E": [
+  {
+   "brand": "RCA",
+   "name": "RCA 4K Google TV-E",
    "device": "keoneae"
   }
  ],
@@ -206332,7 +206411,21 @@
    "device": "SX3"
   }
  ],
+ "A302SH-s": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
+   "device": "SX3"
+  }
+ ],
  "A303SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
+   "device": "SX3"
+  }
+ ],
+ "A303SH-y": [
   {
    "brand": "Sharp",
    "name": "AQUOS wish3",
