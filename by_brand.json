@@ -4357,6 +4357,11 @@
    "model": "A81"
   },
   {
+   "device": "lavender",
+   "name": "AIWA",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "AIWA",
    "model": "SMART TV"
@@ -105028,6 +105033,11 @@
    "model": "Lonan"
   },
   {
+   "device": "WM26",
+   "name": "MobiTab",
+   "model": "WM26"
+  },
+  {
    "device": "Halona",
    "name": "MobiWire Halona",
    "model": "Halona"
@@ -113598,6 +113608,11 @@
    "device": "rk3588_t",
    "name": "Q23",
    "model": "Q23"
+  },
+  {
+   "device": "WB55860W",
+   "name": "WB55860W",
+   "model": "WB55860W"
   }
  ],
  "Newsday": [
@@ -177788,6 +177803,11 @@
    "model": "TECNO Mobile BF7n"
   },
   {
+   "device": "TECNO-Mobile-BG6",
+   "name": "SPARK Go 2024",
+   "model": "TECNO Mobile BG6"
+  },
+  {
    "device": "TECNO-Mobile-KI5q",
    "name": "TECNO SPARK 10",
    "model": "TECNO Mobile KI5q"
@@ -186194,6 +186214,11 @@
    "device": "MediaBox_B866V2",
    "name": "B866V2",
    "model": "B866V2"
+  },
+  {
+   "device": "B866V2F",
+   "name": "B866V2F",
+   "model": "B866V2F"
   },
   {
    "device": "guandu",
@@ -198241,6 +198266,11 @@
    "device": "Z6575S",
    "name": "A202ZT",
    "model": "A202ZT"
+  },
+  {
+   "device": "Z6561S",
+   "name": "A302ZT",
+   "model": "A302ZT"
   },
   {
    "device": "ZTE-A880",

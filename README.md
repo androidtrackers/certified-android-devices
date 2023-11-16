@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-15
+Last sync is 2023-11-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -827,6 +827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT701|AT701|AT701|
 |Aiuto|AT702|AT702|AT702|
 |Aiwa|A81|AIWA_A81|A81|
+|Aiwa|AIWA|lavender|4K SMART TV|
 |Aiwa|AIWA|stanford|SMART TV|
 |Aiwa|AIWA|zhongshan|4K SMART TV|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
@@ -20420,6 +20421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Kosumi|Kosumi|Kosumi|
 |Mobiwire|Kwanita|Kwanita|KWANITA|
 |Mobiwire|Lonan|Lonan|Lonan|
+|Mobiwire|MobiTab|WM26|WM26|
 |Mobiwire|MobiWire Halona|Halona|Halona|
 |Mobiwire|MobiWire Kanuna|Kanuna_MobiWire|KANUNA|
 |Mobiwire|MobiWire Kaya|Kaya_EU_SKU1|KAYA|
@@ -22092,6 +22094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newline|23QA|velvet|LGA311D2|
 |Newline|Q23|rk3588_t|Q23|
+|Newline|WB55860W|WB55860W|WB55860W|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
 |Newsday|E1|Newsday_E1|Newsday_E1|
@@ -34660,6 +34663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|POVA 5 Pro 5G|TECNO-Mobile-LH8n|TECNO Mobile LH8n|
 |Tecno Mobile|POVA Neo 2|TECNO-Mobile-LG6n|TECNO Mobile LG6n|
 |Tecno Mobile|SPARK Go 2023|TECNO-Mobile-BF7n|TECNO Mobile BF7n|
+|Tecno Mobile|SPARK Go 2024|TECNO-Mobile-BG6|TECNO Mobile BG6|
 |Tecno Mobile|TECNO SPARK 10|TECNO-Mobile-KI5q|TECNO Mobile KI5q|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
@@ -36258,6 +36262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vise|R3|R3|R3|
 |Vise|R4|R4|R4|
 |Vision|B866V2|MediaBox_B866V2|B866V2|
+|Vision|B866V2F|B866V2F|B866V2F|
 |Vision|Bangladesh|guandu|Vision Android TV|
 |Vision|Bangladesh|tamachi|Vision FHD Android TV|
 |Vision|EU、UK、AP|martin|Vision Android TV|
@@ -38601,6 +38606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A2017U|ailsa_ii|ZTE A2017U|
 |ZTE|A2018|candice|ZTE A2018|
 |ZTE|A202ZT|Z6575S|A202ZT|
+|ZTE|A302ZT|Z6561S|A302ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|

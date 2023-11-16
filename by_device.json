@@ -11741,6 +11741,163 @@
    "model": "A81"
   }
  ],
+ "lavender": [
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+   "brand": "Indurama",
+   "name": "Indurama",
+   "model": "INDURAMA GOOGLE TV 4K"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K DVB TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K ISDB TV"
+  },
+  {
+   "brand": "KTC",
+   "name": "EcoTVCOL",
+   "model": "EcoTV C"
+  },
+  {
+   "brand": "KTC",
+   "name": "EcoTVDVB",
+   "model": "EcoTV D"
+  },
+  {
+   "brand": "KTC",
+   "name": "EcoTVISDB",
+   "model": "EcoTV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ASAANO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "COLORVIEW",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DIGGIO",
+   "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ESLEY",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Global",
+   "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "INNOVA",
+   "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IQWORLD",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "NAKAMICHI",
+   "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "model": "STAR-TRACK 4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VEIRA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Kenwood",
+   "name": "Kenwood",
+   "model": "KENWOOD DVB 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "name": "Kenwood",
+   "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+   "brand": "MAG",
+   "name": "MAG",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola",
+   "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Rangs",
+   "name": "RANGS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi  Note  7",
+   "model": "Redmi Note 7"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 7",
+   "model": "Redmi Note 7"
+  },
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXELECTRONICS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Z717VL",
+   "model": "Z717VL"
+  }
+ ],
  "shinagawa": [
   {
    "brand": "Aiwa",
@@ -33154,158 +33311,6 @@
    "brand": "Umax",
    "name": "UMAX",
    "model": "Ultra 4K GTV"
-  }
- ],
- "lavender": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT GOOGLE TV 4K"
-  },
-  {
-   "brand": "Indurama",
-   "name": "Indurama",
-   "model": "INDURAMA GOOGLE TV 4K"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC 4K DVB TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC 4K ISDB TV"
-  },
-  {
-   "brand": "KTC",
-   "name": "EcoTVCOL",
-   "model": "EcoTV C"
-  },
-  {
-   "brand": "KTC",
-   "name": "EcoTVDVB",
-   "model": "EcoTV D"
-  },
-  {
-   "brand": "KTC",
-   "name": "EcoTVISDB",
-   "model": "EcoTV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ASAANO",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "COLORVIEW",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DIGGIO",
-   "model": "DIGGIO GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ESLEY",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Global",
-   "model": "GLOBAL GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "INNOVA",
-   "model": "INNOVA GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "IQWORLD",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "NAKAMICHI",
-   "model": "NAKAMICHI GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "PHIMARK",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "QRIOM",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "STAR-TRACK",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "STAR-TRACK",
-   "model": "STAR-TRACK 4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VEIRA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Kenwood",
-   "name": "Kenwood",
-   "model": "KENWOOD DVB 4K TV"
-  },
-  {
-   "brand": "Kenwood",
-   "name": "Kenwood",
-   "model": "KENWOOD ISDB 4K TV"
-  },
-  {
-   "brand": "MAG",
-   "name": "MAG",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Motorola",
-   "model": "MOTOROLA GOOGLE TV 4K"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Rangs",
-   "name": "RANGS",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi  Note  7",
-   "model": "Redmi Note 7"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 7",
-   "model": "Redmi Note 7"
-  },
-  {
-   "brand": "VOXelectronics",
-   "name": "VOXELECTRONICS",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "ZTE",
-   "name": "Z717VL",
-   "model": "Z717VL"
   }
  ],
  "sindang": [
@@ -135753,6 +135758,11 @@
    "model": "OTT Xview+ AV1"
   },
   {
+   "brand": "Vision",
+   "name": "B866V2F",
+   "model": "B866V2F"
+  },
+  {
    "brand": "Zeop",
    "name": "Zeop N9000",
    "model": "Zeop N9000"
@@ -140552,6 +140562,13 @@
    "brand": "Mobiwire",
    "name": "Lonan",
    "model": "Lonan"
+  }
+ ],
+ "WM26": [
+  {
+   "brand": "Mobiwire",
+   "name": "MobiTab",
+   "model": "WM26"
   }
  ],
  "Kanuna_MobiWire": [
@@ -150762,6 +150779,13 @@
    "brand": "Newline",
    "name": "23QA",
    "model": "LGA311D2"
+  }
+ ],
+ "WB55860W": [
+  {
+   "brand": "Newline",
+   "name": "WB55860W",
+   "model": "WB55860W"
   }
  ],
  "Newsday_A1": [
@@ -226381,6 +226405,13 @@
    "model": "TECNO Mobile BF7n"
   }
  ],
+ "TECNO-Mobile-BG6": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "SPARK Go 2024",
+   "model": "TECNO Mobile BG6"
+  }
+ ],
  "TECNO-Mobile-KI5q": [
   {
    "brand": "Tecno Mobile",
@@ -249890,6 +249921,13 @@
    "brand": "ZTE",
    "name": "A202ZT",
    "model": "A202ZT"
+  }
+ ],
+ "Z6561S": [
+  {
+   "brand": "ZTE",
+   "name": "A302ZT",
+   "model": "A302ZT"
   }
  ],
  "ZTE-A880": [

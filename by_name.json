@@ -14177,6 +14177,11 @@
  "AIWA": [
   {
    "brand": "Aiwa",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Aiwa",
    "device": "stanford",
    "model": "SMART TV"
   },
@@ -140673,6 +140678,13 @@
    "model": "Lonan"
   }
  ],
+ "MobiTab": [
+  {
+   "brand": "Mobiwire",
+   "device": "WM26",
+   "model": "WM26"
+  }
+ ],
  "MobiWire Halona": [
   {
    "brand": "Mobiwire",
@@ -150501,6 +150513,13 @@
    "brand": "Newline",
    "device": "rk3588_t",
    "model": "Q23"
+  }
+ ],
+ "WB55860W": [
+  {
+   "brand": "Newline",
+   "device": "WB55860W",
+   "model": "WB55860W"
   }
  ],
  "Newsday_N2+": [
@@ -223196,6 +223215,11 @@
    "brand": "Tecno",
    "device": "TECNO-BG6",
    "model": "TECNO BG6"
+  },
+  {
+   "brand": "Tecno Mobile",
+   "device": "TECNO-Mobile-BG6",
+   "model": "TECNO Mobile BG6"
   }
  ],
  "SPARK Go Plus": [
@@ -233735,6 +233759,13 @@
    "brand": "Virzo",
    "device": "VT701",
    "model": "VT701"
+  }
+ ],
+ "B866V2F": [
+  {
+   "brand": "Vision",
+   "device": "B866V2F",
+   "model": "B866V2F"
   }
  ],
  "Bangladesh": [
@@ -246740,6 +246771,13 @@
    "brand": "ZTE",
    "device": "Z6575S",
    "model": "A202ZT"
+  }
+ ],
+ "A302ZT": [
+  {
+   "brand": "ZTE",
+   "device": "Z6561S",
+   "model": "A302ZT"
   }
  ],
  "AV-ATB100": [

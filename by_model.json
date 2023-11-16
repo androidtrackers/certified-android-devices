@@ -7002,6 +7002,11 @@
   {
    "brand": "Aiwa",
    "name": "AIWA",
+   "device": "lavender"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
    "device": "zhongshan"
   },
   {
@@ -142098,6 +142103,13 @@
    "device": "Lonan"
   }
  ],
+ "WM26": [
+  {
+   "brand": "Mobiwire",
+   "name": "MobiTab",
+   "device": "WM26"
+  }
+ ],
  "KANUNA": [
   {
    "brand": "Mobiwire",
@@ -152647,6 +152659,13 @@
    "brand": "Newline",
    "name": "Q23",
    "device": "rk3588_t"
+  }
+ ],
+ "WB55860W": [
+  {
+   "brand": "Newline",
+   "name": "WB55860W",
+   "device": "WB55860W"
   }
  ],
  "Newsday_A1": [
@@ -234915,6 +234934,13 @@
    "device": "TECNO-Mobile-BF7n"
   }
  ],
+ "TECNO Mobile BG6": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "SPARK Go 2024",
+   "device": "TECNO-Mobile-BG6"
+  }
+ ],
  "TECNO Mobile KI5q": [
   {
    "brand": "Tecno Mobile",
@@ -244571,6 +244597,13 @@
    "brand": "Virzo",
    "name": "VT701",
    "device": "VT701"
+  }
+ ],
+ "B866V2F": [
+  {
+   "brand": "Vision",
+   "name": "B866V2F",
+   "device": "B866V2F"
   }
  ],
  "Vision Android TV": [
@@ -259669,6 +259702,13 @@
    "brand": "ZTE",
    "name": "A202ZT",
    "device": "Z6575S"
+  }
+ ],
+ "A302ZT": [
+  {
+   "brand": "ZTE",
+   "name": "A302ZT",
+   "device": "Z6561S"
   }
  ],
  "ZTE A880": [
