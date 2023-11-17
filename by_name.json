@@ -83145,6 +83145,16 @@
    "model": "SmartTV 4K FFM"
   },
   {
+   "brand": "Motorola",
+   "device": "songshan",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Motorola",
+   "device": "songshan",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "brand": "Toshiba",
    "device": "songshan",
    "model": "Toshiba TV"
@@ -136868,6 +136878,11 @@
    "brand": "Micromax",
    "device": "Micromax",
    "model": "A78"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP5745L1",
+   "model": "CPH2565"
   }
  ],
  "A84": [
@@ -225874,6 +225889,13 @@
    "brand": "Torex",
    "device": "Torex8plus",
    "model": "Torex8plus"
+  }
+ ],
+ "65Z870MS": [
+  {
+   "brand": "Toshiba",
+   "device": "hengshan",
+   "model": "SmartTV 4K FFM"
   }
  ],
  "A204": [

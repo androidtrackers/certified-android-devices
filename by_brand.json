@@ -105863,6 +105863,16 @@
    "model": "MB501"
   },
   {
+   "device": "songshan",
+   "name": "4K TV",
+   "model": "SmartTV 4K"
+  },
+  {
+   "device": "songshan",
+   "name": "4K TV",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "redwood",
    "name": "Android TV",
    "model": "AI PONT"
@@ -118175,6 +118185,11 @@
    "device": "OP52F3L1",
    "name": "A77 5G",
    "model": "CPH2339"
+  },
+  {
+   "device": "OP5745L1",
+   "name": "A78",
+   "model": "CPH2565"
   },
   {
    "device": "OP52F3L1",
@@ -179368,6 +179383,11 @@
    "device": "songshan",
    "name": "4K TV",
    "model": "Toshiba TV with MIC"
+  },
+  {
+   "device": "hengshan",
+   "name": "65Z870MS",
+   "model": "SmartTV 4K FFM"
   },
   {
    "device": "tos14ast10",

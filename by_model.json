@@ -2871,6 +2871,11 @@
    "device": "wuyishan"
   },
   {
+   "brand": "Motorola",
+   "name": "4K TV",
+   "device": "songshan"
+  },
+  {
    "brand": "Noblex",
    "name": "X7500",
    "device": "songshan"
@@ -65117,6 +65122,11 @@
    "device": "huangshan"
   },
   {
+   "brand": "Motorola",
+   "name": "4K TV",
+   "device": "songshan"
+  },
+  {
    "brand": "Noblex",
    "name": "X9500",
    "device": "songshan"
@@ -65125,6 +65135,11 @@
    "brand": "THEHAM",
    "name": "huangshan_theham",
    "device": "huangshan"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "65Z870MS",
+   "device": "hengshan"
   }
  ],
  "iliumPAD": [
@@ -158046,6 +158061,13 @@
    "brand": "Oppo",
    "name": "A77 5G",
    "device": "OP52F3L1"
+  }
+ ],
+ "CPH2565": [
+  {
+   "brand": "Oppo",
+   "name": "A78",
+   "device": "OP5745L1"
   }
  ],
  "CPH2483": [

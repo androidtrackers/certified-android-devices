@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-16
+Last sync is 2023-11-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20579,6 +20579,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola||umts_venus2|XT610|
 |Motorola||wifi_hubble|MZ604|
 |Motorola||zepp|MB501|
+|Motorola|4K TV|songshan|SmartTV 4K|
+|Motorola|4K TV|songshan|SmartTV 4K FFM|
 |Motorola|Android TV|redwood|AI PONT|
 |Motorola|Atrix|olympus|MB860|
 |Motorola|Atrix|olympus|MB861|
@@ -22969,6 +22971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A77|A77|OPPO A77|
 |Oppo|A77|A77|OPPO A77t|
 |Oppo|A77 5G|OP52F3L1|CPH2339|
+|Oppo|A78|OP5745L1|CPH2565|
 |Oppo|A78 5G|OP52F3L1|CPH2483|
 |Oppo|A78 5G|OP52F3L1|CPH2495|
 |Oppo|A79|A79|OPPO A79|
@@ -34952,6 +34955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|2K TV|songshan|2K Toshiba TV|
 |Toshiba|4K TV|songshan|Toshiba TV|
 |Toshiba|4K TV|songshan|Toshiba TV with MIC|
+|Toshiba|65Z870MS|hengshan|SmartTV 4K FFM|
 |Toshiba|A204|tos14ast10|A204|
 |Toshiba|A205|tos15ast20|A205|
 |Toshiba|AT10-A/AT15-A (Japan: AT503)|tostab12BL|AT10-A|

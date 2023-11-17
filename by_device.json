@@ -4522,6 +4522,16 @@
    "model": "SmartTV 4K"
   },
   {
+   "brand": "Motorola",
+   "name": "4K TV",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Motorola",
+   "name": "4K TV",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "brand": "Noblex",
    "name": "X7500",
    "model": "SmartTV 4K"
@@ -84119,6 +84129,11 @@
    "brand": "Hisense",
    "name": "ULED",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "65Z870MS",
+   "model": "SmartTV 4K FFM"
   }
  ],
  "VH777": [
@@ -155835,6 +155850,13 @@
    "brand": "Oppo",
    "name": "A78 5G",
    "model": "CPH2495"
+  }
+ ],
+ "OP5745L1": [
+  {
+   "brand": "Oppo",
+   "name": "A78",
+   "model": "CPH2565"
   }
  ],
  "OP573DL1": [
