@@ -757,6 +757,13 @@
    "model": "8004"
   }
  ],
+ "ADVAN_TAB_VX_LITE": [
+  {
+   "brand": "ADVAN",
+   "name": "VX_LITE",
+   "model": "1013"
+  }
+ ],
  "TK701": [
   {
    "brand": "AEEZO",
@@ -14908,6 +14915,13 @@
    "model": "X8_Soul_Style"
   }
  ],
+ "KidzPad_Pro": [
+  {
+   "brand": "Alldocube",
+   "name": "KidzPad Pro",
+   "model": "T811"
+  }
+ ],
  "Smile_1": [
   {
    "brand": "Alldocube",
@@ -15108,6 +15122,13 @@
    "model": "T802"
   }
  ],
+ "T1030X": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50",
+   "model": "iPlay50"
+  }
+ ],
  "T1030M": [
   {
    "brand": "Alldocube",
@@ -15118,6 +15139,13 @@
    "brand": "Alldocube",
    "name": "iPlay50 Pro",
    "model": "iPlay50_Pro"
+  }
+ ],
+ "T1029TA": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50S",
+   "model": "iPlay50S"
   }
  ],
  "iPlay50_SE": [
@@ -57125,6 +57153,11 @@
    "brand": "E-LEAD",
    "name": "RSE",
    "model": "EL-712"
+  },
+  {
+   "brand": "E-LEAD",
+   "name": "RSE",
+   "model": "EL-719"
   }
  ],
  "A10_SMART": [
@@ -73055,6 +73088,11 @@
    "brand": "HKC Elec",
    "name": "Google TV",
    "model": "4K PA Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "model": "4K SA Google TV"
   },
   {
    "brand": "HKC Elec",
@@ -106704,6 +106742,13 @@
    "model": "E18"
   }
  ],
+ "E28": [
+  {
+   "brand": "KENSHI",
+   "name": "E28",
+   "model": "E28"
+  }
+ ],
  "H38": [
   {
    "brand": "KENSHI",
@@ -107567,6 +107612,11 @@
   {
    "brand": "Oale",
    "name": "P5",
+   "model": "P5"
+  },
+  {
+   "brand": "Wiseasy",
+   "name": "P5_EEA",
    "model": "P5"
   },
   {
@@ -110049,6 +110099,13 @@
    "brand": "Kruger&Matz",
    "name": "Eagle_702",
    "model": "KM0702"
+  }
+ ],
+ "KM0807": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "Eagle_807",
+   "model": "Eagle_807"
   }
  ],
  "Kruger_Matz_FLOW": [
@@ -129552,6 +129609,13 @@
    "model": "FLOW"
   }
  ],
+ "Five_Pro": [
+  {
+   "brand": "Logicom",
+   "name": "Five Pro",
+   "model": "Five Pro"
+  }
+ ],
  "IDbot53": [
   {
    "brand": "Logicom",
@@ -130317,6 +130381,13 @@
    "model": "LeMoov2"
   }
  ],
+ "Le_Link": [
+  {
+   "brand": "Logicom",
+   "name": "Le_Link",
+   "model": "Le Link"
+  }
+ ],
  "Le_Pulse": [
   {
    "brand": "Logicom",
@@ -130371,6 +130442,13 @@
    "brand": "Logicom",
    "name": "Logikids_6",
    "model": "Logikids_6"
+  }
+ ],
+ "Luma": [
+  {
+   "brand": "Logicom",
+   "name": "Luma",
+   "model": "Luma"
   }
  ],
  "Lunar_Pro": [
@@ -130877,6 +130955,13 @@
    "brand": "ZTE",
    "name": "ZTE N939Sc",
    "model": "ZTE N939St"
+  }
+ ],
+ "LYF": [
+  {
+   "brand": "Lyf",
+   "name": "LS1602UW",
+   "model": "LS1602UW"
   }
  ],
  "LT-8001": [
@@ -134370,6 +134455,13 @@
    "model": "M1582C"
   }
  ],
+ "M1582C_MAX": [
+  {
+   "brand": "Maze_speed",
+   "name": "M1582C MAX",
+   "model": "M1582C_MAX"
+  }
+ ],
  "M1586K": [
   {
    "brand": "Maze_speed",
@@ -134466,6 +134558,13 @@
    "brand": "Maze_speed",
    "name": "SSB8T323",
    "model": "SSB8T323"
+  }
+ ],
+ "Grace_9": [
+  {
+   "brand": "Me_Mobile",
+   "name": "Grace 9",
+   "model": "Grace 9"
   }
  ],
  "C4": [
@@ -145790,6 +145889,13 @@
    "model": "M10-3G"
   }
  ],
+ "ML_SO0Q_M10_3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 3G",
+   "model": "M10_3G"
+  }
+ ],
  "ML-JI0A-M10-4G": [
   {
    "brand": "Multilaser",
@@ -154922,6 +155028,13 @@
    "model": "100043279"
   }
  ],
+ "M17QF21M": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "M17QF21M",
+   "model": "M17QF21M"
+  }
+ ],
  "ONA19TB002": [
   {
    "brand": "Onn (Walmart)",
@@ -159816,6 +159929,13 @@
    "model": "C35"
   }
  ],
+ "C36": [
+  {
+   "brand": "Oukitel",
+   "name": "C36_EEA",
+   "model": "C36"
+  }
+ ],
  "C8_4G": [
   {
    "brand": "Oukitel",
@@ -161040,6 +161160,13 @@
    "brand": "PIXART",
    "name": "Pixart_P20",
    "model": "Pixart_P20"
+  }
+ ],
+ "SZ10M68": [
+  {
+   "brand": "PIXART",
+   "name": "SZ10M68",
+   "model": "SZ10M68"
   }
  ],
  "PIXPRO_L1_PRO": [
@@ -177264,6 +177391,20 @@
    "model": "SCVinfi 4K"
   }
  ],
+ "S22-EEA": [
+  {
+   "brand": "SEBBE",
+   "name": "S22-EEA",
+   "model": "S22-EEA"
+  }
+ ],
+ "S22-US": [
+  {
+   "brand": "SEBBE",
+   "name": "S22-US",
+   "model": "S22-US"
+  }
+ ],
  "S22_EEA": [
   {
    "brand": "SEBBE",
@@ -177935,6 +178076,13 @@
    "brand": "SOHO STYLE",
    "name": "S1582C",
    "model": "S1582C"
+  }
+ ],
+ "S1586K": [
+  {
+   "brand": "SOHO STYLE",
+   "name": "S1586K",
+   "model": "S1586K"
   }
  ],
  "S1587K": [
@@ -203705,6 +203853,13 @@
    "model": "Elite P55"
   }
  ],
+ "Elite_PAD8USA": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_PAD8USA",
+   "model": "SKY PAD8"
+  }
+ ],
  "Elite_Q55": [
   {
    "brand": "Sky Devices",
@@ -204238,6 +204393,13 @@
    "model": "SKY Volt"
   }
  ],
+ "SKY_PAD10MXUSK2": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY_PAD10Max",
+   "model": "SKY PAD10Max"
+  }
+ ],
  "SKY_PAD10Maxk1": [
   {
    "brand": "Sky Devices",
@@ -204325,6 +204487,13 @@
    "brand": "Sky Devices",
    "name": "X2",
    "model": "X2"
+  }
+ ],
+ "X63Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "X63Max",
+   "model": "X63Max"
   }
  ],
  "X8A": [
@@ -223679,6 +223848,18 @@
    "model": "T40Air_RUS"
   }
  ],
+ "T40HD_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "T40HD_EEA",
+   "model": "T40HD"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T40HD_EEA",
+   "model": "T40HD_EEA"
+  }
+ ],
  "T40HD_T": [
   {
    "brand": "Teclast",
@@ -241250,6 +241431,13 @@
    "model": "LT750"
   }
  ],
+ "NEXG_N71": [
+  {
+   "brand": "Walton",
+   "name": "NEXG N71",
+   "model": "NEXG N71"
+  }
+ ],
  "OrbitM20": [
   {
    "brand": "Walton",
@@ -242023,6 +242211,13 @@
    "brand": "Walton",
    "name": "Walton Primo X5",
    "model": "Walton Primo X5"
+  }
+ ],
+ "XANON_X20": [
+  {
+   "brand": "Walton",
+   "name": "XANON X20",
+   "model": "XANON X20"
   }
  ],
  "Avengers": [
@@ -244229,6 +244424,13 @@
    "brand": "Wishtel",
    "name": "IRA_S2",
    "model": "IRA_S2"
+  }
+ ],
+ "T811": [
+  {
+   "brand": "Wishtel",
+   "name": "T811",
+   "model": "T811"
   }
  ],
  "DA-21": [

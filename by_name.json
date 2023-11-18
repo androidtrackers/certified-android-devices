@@ -6498,6 +6498,13 @@
    "model": "8004"
   }
  ],
+ "VX_LITE": [
+  {
+   "brand": "ADVAN",
+   "device": "ADVAN_TAB_VX_LITE",
+   "model": "1013"
+  }
+ ],
  "TK701": [
   {
    "brand": "AEEZO",
@@ -16269,6 +16276,13 @@
    "model": "X8_Soul_Style"
   }
  ],
+ "KidzPad Pro": [
+  {
+   "brand": "Alldocube",
+   "device": "KidzPad_Pro",
+   "model": "T811"
+  }
+ ],
  "Smile_1": [
   {
    "brand": "Alldocube",
@@ -16447,6 +16461,13 @@
    "model": "iPlay_8T"
   }
  ],
+ "iPlay50": [
+  {
+   "brand": "Alldocube",
+   "device": "T1030X",
+   "model": "iPlay50"
+  }
+ ],
  "iPlay50 Pro": [
   {
    "brand": "Alldocube",
@@ -16457,6 +16478,13 @@
    "brand": "Alldocube",
    "device": "T1030M",
    "model": "iPlay50_Pro"
+  }
+ ],
+ "iPlay50S": [
+  {
+   "brand": "Alldocube",
+   "device": "T1029TA",
+   "model": "iPlay50S"
   }
  ],
  "iPlay50_SE": [
@@ -58826,6 +58854,11 @@
    "brand": "E-LEAD",
    "device": "RSE",
    "model": "EL-712"
+  },
+  {
+   "brand": "E-LEAD",
+   "device": "RSE",
+   "model": "EL-719"
   }
  ],
  "A10_SMART": [
@@ -75505,6 +75538,11 @@
    "brand": "HKC Elec",
    "device": "lakeside",
    "model": "4K PA Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "device": "lakeside",
+   "model": "4K SA Google TV"
   },
   {
    "brand": "HKC Elec",
@@ -108282,6 +108320,13 @@
    "model": "E18"
   }
  ],
+ "E28": [
+  {
+   "brand": "KENSHI",
+   "device": "E28",
+   "model": "E28"
+  }
+ ],
  "H38": [
   {
    "brand": "KENSHI",
@@ -112614,6 +112659,13 @@
    "brand": "Kruger&Matz",
    "device": "Eagle_702",
    "model": "KM0702"
+  }
+ ],
+ "Eagle_807": [
+  {
+   "brand": "Kruger&Matz",
+   "device": "KM0807",
+   "model": "Eagle_807"
   }
  ],
  "FLOW": [
@@ -129977,6 +130029,13 @@
    "model": "FIVE"
   }
  ],
+ "Five Pro": [
+  {
+   "brand": "Logicom",
+   "device": "Five_Pro",
+   "model": "Five Pro"
+  }
+ ],
  "ID bot 53": [
   {
    "brand": "Logicom",
@@ -130741,6 +130800,13 @@
    "model": "LeMoov2"
   }
  ],
+ "Le_Link": [
+  {
+   "brand": "Logicom",
+   "device": "Le_Link",
+   "model": "Le Link"
+  }
+ ],
  "Le_Pulse": [
   {
    "brand": "Logicom",
@@ -130802,6 +130868,13 @@
    "brand": "Logicom",
    "device": "Logikids_6",
    "model": "Logikids_6"
+  }
+ ],
+ "Luma": [
+  {
+   "brand": "Logicom",
+   "device": "Luma",
+   "model": "Luma"
   }
  ],
  "Lunar Pro": [
@@ -131243,6 +131316,13 @@
    "brand": "Lyf",
    "device": "zx55q05_64",
    "model": "LS-5504"
+  }
+ ],
+ "LS1602UW": [
+  {
+   "brand": "Lyf",
+   "device": "LYF",
+   "model": "LS1602UW"
   }
  ],
  "LT-8001": [
@@ -134859,6 +134939,13 @@
    "model": "M1582C"
   }
  ],
+ "M1582C MAX": [
+  {
+   "brand": "Maze_speed",
+   "device": "M1582C_MAX",
+   "model": "M1582C_MAX"
+  }
+ ],
  "M1586K": [
   {
    "brand": "Maze_speed",
@@ -134955,6 +135042,13 @@
    "brand": "Maze_speed",
    "device": "SSB8T323",
    "model": "SSB8T323"
+  }
+ ],
+ "Grace 9": [
+  {
+   "brand": "Me_Mobile",
+   "device": "Grace_9",
+   "model": "Grace 9"
   }
  ],
  "MTAB32_EEA": [
@@ -145639,6 +145733,11 @@
    "brand": "Multilaser",
    "device": "ML-JI16-M10-3G",
    "model": "M10-3G"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0Q_M10_3G",
+   "model": "M10_3G"
   }
  ],
  "M10 4G": [
@@ -154598,6 +154697,13 @@
    "model": "100043279"
   }
  ],
+ "M17QF21M": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "M17QF21M",
+   "model": "M17QF21M"
+  }
+ ],
  "ONA19TB002": [
   {
    "brand": "Onn (Walmart)",
@@ -159317,6 +159423,13 @@
    "model": "C35"
   }
  ],
+ "C36_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "C36",
+   "model": "C36"
+  }
+ ],
  "C8 4G": [
   {
    "brand": "Oukitel",
@@ -160611,6 +160724,13 @@
    "brand": "PIXART",
    "device": "Pixart_P20",
    "model": "Pixart_P20"
+  }
+ ],
+ "SZ10M68": [
+  {
+   "brand": "PIXART",
+   "device": "SZ10M68",
+   "model": "SZ10M68"
   }
  ],
  "PIXPRO L1 PRO": [
@@ -177580,6 +177700,20 @@
    "model": "SCVinfi 4K"
   }
  ],
+ "S22-EEA": [
+  {
+   "brand": "SEBBE",
+   "device": "S22-EEA",
+   "model": "S22-EEA"
+  }
+ ],
+ "S22-US": [
+  {
+   "brand": "SEBBE",
+   "device": "S22-US",
+   "model": "S22-US"
+  }
+ ],
  "S22_EEA": [
   {
    "brand": "SEBBE",
@@ -178303,6 +178437,13 @@
    "brand": "SOHO STYLE",
    "device": "S1582C",
    "model": "S1582C"
+  }
+ ],
+ "S1586K": [
+  {
+   "brand": "SOHO STYLE",
+   "device": "S1586K",
+   "model": "S1586K"
   }
  ],
  "S1587K": [
@@ -201231,6 +201372,11 @@
   },
   {
    "brand": "Sky Devices",
+   "device": "SKY_PAD10MXUSK2",
+   "model": "SKY PAD10Max"
+  },
+  {
+   "brand": "Sky Devices",
    "device": "SKY_PAD10Maxk1",
    "model": "SKY PAD10Max"
   }
@@ -201841,6 +201987,13 @@
    "model": "Elite P55"
   }
  ],
+ "Elite_PAD8USA": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_PAD8USA",
+   "model": "SKY PAD8"
+  }
+ ],
  "Elite_Q55": [
   {
    "brand": "Sky Devices",
@@ -202412,6 +202565,13 @@
    "brand": "Sky Devices",
    "device": "Royale_Plus",
    "model": "UNO Royale Plus"
+  }
+ ],
+ "X63Max": [
+  {
+   "brand": "Sky Devices",
+   "device": "X63Max",
+   "model": "X63Max"
   }
  ],
  "X8A": [
@@ -221719,6 +221879,16 @@
  "T40HD_EEA": [
   {
    "brand": "Teclast",
+   "device": "T40HD_EEA",
+   "model": "T40HD"
+  },
+  {
+   "brand": "Teclast",
+   "device": "T40HD_EEA",
+   "model": "T40HD_EEA"
+  },
+  {
+   "brand": "Teclast",
    "device": "T40HD_T",
    "model": "T40HD_EEA"
   }
@@ -239698,6 +239868,13 @@
    "model": "LT750"
   }
  ],
+ "NEXG N71": [
+  {
+   "brand": "Walton",
+   "device": "NEXG_N71",
+   "model": "NEXG N71"
+  }
+ ],
  "Orbit M20": [
   {
    "brand": "Walton",
@@ -240488,6 +240665,13 @@
    "brand": "Walton",
    "device": "Primo_X5",
    "model": "Walton Primo X5"
+  }
+ ],
+ "XANON X20": [
+  {
+   "brand": "Walton",
+   "device": "XANON_X20",
+   "model": "XANON X20"
   }
  ],
  "WUD55JOA63S": [
@@ -242477,6 +242661,13 @@
    "model": "Nano6"
   }
  ],
+ "P5_EEA": [
+  {
+   "brand": "Wiseasy",
+   "device": "P5",
+   "model": "P5"
+  }
+ ],
  "Tech-A1": [
   {
    "brand": "Wiseasy",
@@ -242580,6 +242771,13 @@
    "brand": "Wishtel",
    "device": "IRA_S2",
    "model": "IRA_S2"
+  }
+ ],
+ "T811": [
+  {
+   "brand": "Wishtel",
+   "device": "T811",
+   "model": "T811"
   }
  ],
  "WISMANN": [

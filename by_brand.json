@@ -452,6 +452,11 @@
    "device": "ADVAN_TAB_A8",
    "name": "TAB A8",
    "model": "8004"
+  },
+  {
+   "device": "ADVAN_TAB_VX_LITE",
+   "name": "VX_LITE",
+   "model": "1013"
   }
  ],
  "AEEZO": [
@@ -5913,6 +5918,11 @@
  ],
  "Alldocube": [
   {
+   "device": "KidzPad_Pro",
+   "name": "KidzPad Pro",
+   "model": "T811"
+  },
+  {
    "device": "Smile_1",
    "name": "Smile_1",
    "model": "T803"
@@ -6038,6 +6048,11 @@
    "model": "iPlay_8T"
   },
   {
+   "device": "T1030X",
+   "name": "iPlay50",
+   "model": "iPlay50"
+  },
+  {
    "device": "T1030M",
    "name": "iPlay50 Pro",
    "model": "iPlay50 Pro"
@@ -6046,6 +6061,11 @@
    "device": "T1030M",
    "name": "iPlay50 Pro",
    "model": "iPlay50_Pro"
+  },
+  {
+   "device": "T1029TA",
+   "name": "iPlay50S",
+   "model": "iPlay50S"
   },
   {
    "device": "iPlay50_SE",
@@ -35518,6 +35538,11 @@
    "device": "RSE",
    "name": "RSE",
    "model": "EL-712"
+  },
+  {
+   "device": "RSE",
+   "name": "RSE",
+   "model": "EL-719"
   }
  ],
  "E-TACHI": [
@@ -47994,6 +48019,11 @@
    "device": "lakeside",
    "name": "Google TV",
    "model": "4K PA Google TV"
+  },
+  {
+   "device": "lakeside",
+   "name": "Google TV",
+   "model": "4K SA Google TV"
   },
   {
    "device": "lakeside",
@@ -77010,6 +77040,11 @@
    "model": "E18"
   },
   {
+   "device": "E28",
+   "name": "E28",
+   "model": "E28"
+  },
+  {
    "device": "H38",
    "name": "H38",
    "model": "H38"
@@ -80407,6 +80442,11 @@
    "device": "Eagle_702",
    "name": "Eagle_702",
    "model": "KM0702"
+  },
+  {
+   "device": "KM0807",
+   "name": "Eagle_807",
+   "model": "Eagle_807"
   },
   {
    "device": "Kruger_Matz_FLOW",
@@ -96174,6 +96214,11 @@
    "model": "FLOW"
   },
   {
+   "device": "Five_Pro",
+   "name": "Five Pro",
+   "model": "Five Pro"
+  },
+  {
    "device": "IDbot53",
    "name": "ID bot 53",
    "model": "ID bot 53"
@@ -96724,6 +96769,11 @@
    "model": "LeMoov2"
   },
   {
+   "device": "Le_Link",
+   "name": "Le_Link",
+   "model": "Le Link"
+  },
+  {
    "device": "Le_Pulse",
    "name": "Le_Pulse",
    "model": "Le_Pulse"
@@ -96767,6 +96817,11 @@
    "device": "Logikids_6",
    "name": "Logikids_6",
    "model": "Logikids_6"
+  },
+  {
+   "device": "Luma",
+   "name": "Luma",
+   "model": "Luma"
   },
   {
    "device": "Lunar_Pro",
@@ -97123,6 +97178,11 @@
    "device": "LS-6001",
    "name": "LS-6001",
    "model": "LS-6001"
+  },
+  {
+   "device": "LYF",
+   "name": "LS1602UW",
+   "model": "LS1602UW"
   },
   {
    "device": "LT-8001",
@@ -100184,6 +100244,11 @@
    "model": "M1582C"
   },
   {
+   "device": "M1582C_MAX",
+   "name": "M1582C MAX",
+   "model": "M1582C_MAX"
+  },
+  {
    "device": "M1586K",
    "name": "M1586K",
    "model": "M1586K"
@@ -100252,6 +100317,13 @@
    "device": "SSB8T323",
    "name": "SSB8T323",
    "model": "SSB8T323"
+  }
+ ],
+ "Me_Mobile": [
+  {
+   "device": "Grace_9",
+   "name": "Grace 9",
+   "model": "Grace 9"
   }
  ],
  "MeanIT": [
@@ -109579,6 +109651,11 @@
    "model": "M10-3G"
   },
   {
+   "device": "ML_SO0Q_M10_3G",
+   "name": "M10 3G",
+   "model": "M10_3G"
+  },
+  {
    "device": "ML-JI0A-M10-4G",
    "name": "M10 4G",
    "model": "M10-4G"
@@ -117405,6 +117482,11 @@
    "model": "100043279"
   },
   {
+   "device": "M17QF21M",
+   "name": "M17QF21M",
+   "model": "M17QF21M"
+  },
+  {
    "device": "ONA19TB002",
    "name": "ONA19TB002",
    "model": "ONA19TB002"
@@ -121281,6 +121363,11 @@
    "model": "C35"
   },
   {
+   "device": "C36",
+   "name": "C36_EEA",
+   "model": "C36"
+  },
+  {
    "device": "C6_Pro",
    "name": "C6 Pro",
    "model": "C6 Pro"
@@ -122367,6 +122454,11 @@
    "device": "Pixart_P20",
    "name": "Pixart_P20",
    "model": "Pixart_P20"
+  },
+  {
+   "device": "SZ10M68",
+   "name": "SZ10M68",
+   "model": "SZ10M68"
   }
  ],
  "PIXPRO": [
@@ -136351,6 +136443,16 @@
  ],
  "SEBBE": [
   {
+   "device": "S22-EEA",
+   "name": "S22-EEA",
+   "model": "S22-EEA"
+  },
+  {
+   "device": "S22-US",
+   "name": "S22-US",
+   "model": "S22-US"
+  },
+  {
    "device": "S22_EEA",
    "name": "S22_EEA",
    "model": "S22_EEA"
@@ -136974,6 +137076,11 @@
    "device": "S1582C",
    "name": "S1582C",
    "model": "S1582C"
+  },
+  {
+   "device": "S1586K",
+   "name": "S1586K",
+   "model": "S1586K"
   },
   {
    "device": "S1587K",
@@ -157936,6 +158043,11 @@
    "model": "Elite P55"
   },
   {
+   "device": "Elite_PAD8USA",
+   "name": "Elite_PAD8USA",
+   "model": "SKY PAD8"
+  },
+  {
    "device": "Elite_Q55",
    "name": "Elite_Q55",
    "model": "Elite_Q55"
@@ -158321,6 +158433,11 @@
    "model": "SKY Volt"
   },
   {
+   "device": "SKY_PAD10MXUSK2",
+   "name": "SKY_PAD10Max",
+   "model": "SKY PAD10Max"
+  },
+  {
    "device": "SKY_PAD10Maxk1",
    "name": "SKY_PAD10Max",
    "model": "SKY PAD10Max"
@@ -158384,6 +158501,11 @@
    "device": "Xmobile_X2_US",
    "name": "X2",
    "model": "X2"
+  },
+  {
+   "device": "X63Max",
+   "name": "X63Max",
+   "model": "X63Max"
   },
   {
    "device": "X8A",
@@ -175734,6 +175856,16 @@
    "model": "T40Air_RUS"
   },
   {
+   "device": "T40HD_EEA",
+   "name": "T40HD_EEA",
+   "model": "T40HD"
+  },
+  {
+   "device": "T40HD_EEA",
+   "name": "T40HD_EEA",
+   "model": "T40HD_EEA"
+  },
+  {
    "device": "T40HD_T",
    "name": "T40HD_EEA",
    "model": "T40HD_EEA"
@@ -190940,6 +191072,11 @@
    "model": "LT750"
   },
   {
+   "device": "NEXG_N71",
+   "name": "NEXG N71",
+   "model": "NEXG N71"
+  },
+  {
    "device": "OrbitM20",
    "name": "Orbit M20",
    "model": "Orbit M20"
@@ -191523,6 +191660,11 @@
    "device": "Primo_X5",
    "name": "Walton Primo X5",
    "model": "Walton Primo X5"
+  },
+  {
+   "device": "XANON_X20",
+   "name": "XANON X20",
+   "model": "XANON X20"
   }
  ],
  "Wansa": [
@@ -193446,6 +193588,11 @@
    "model": "Nano6"
   },
   {
+   "device": "P5",
+   "name": "P5_EEA",
+   "model": "P5"
+  },
+  {
    "device": "T2",
    "name": "T2",
    "model": "T2"
@@ -193526,6 +193673,11 @@
    "device": "IRA_S2",
    "name": "IRA_S2",
    "model": "IRA_S2"
+  },
+  {
+   "device": "T811",
+   "name": "T811",
+   "model": "T811"
   }
  ],
  "Wismann": [
