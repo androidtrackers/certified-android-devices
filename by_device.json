@@ -750,6 +750,13 @@
    "model": "ADVANNASAPro"
   }
  ],
+ "ADVAN_SKETSA3": [
+  {
+   "brand": "ADVAN",
+   "name": "Sketsa3",
+   "model": "1013"
+  }
+ ],
  "ADVAN_TAB_A8": [
   {
    "brand": "ADVAN",
@@ -9676,6 +9683,13 @@
    "model": "Kids Tab 1"
   }
  ],
+ "KidsTab3_EEA": [
+  {
+   "brand": "Achate",
+   "name": "KidsTab3_EEA",
+   "model": "KidsTab3_EEA"
+  }
+ ],
  "bruno": [
   {
    "brand": "Aconatic",
@@ -15141,11 +15155,32 @@
    "model": "iPlay50_Pro"
   }
  ],
+ "T1030T": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50 Upgraded",
+   "model": "iPlay50_Upgraded"
+  }
+ ],
  "T1029TA": [
   {
    "brand": "Alldocube",
    "name": "iPlay50S",
    "model": "iPlay50S"
+  }
+ ],
+ "U1030": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50_Lite",
+   "model": "iPlay50_Lite"
+  }
+ ],
+ "U807": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50_Mini_Lite",
+   "model": "iPlay50_Mini_Lite"
   }
  ],
  "iPlay50_SE": [
@@ -29633,6 +29668,13 @@
    "model": "BYYBUO_SmartPad_T10"
   }
  ],
+ "SmartPad_A10_EU": [
+  {
+   "brand": "BYYBUO",
+   "name": "SmartPad_A10_EU",
+   "model": "SmartPad_A10_EU"
+  }
+ ],
  "SmartPad_A10_L": [
   {
    "brand": "BYYBUO",
@@ -31882,6 +31924,13 @@
    "model": "Active 6"
   }
  ],
+ "Active6_EEA": [
+  {
+   "brand": "Blackview",
+   "name": "Active 6",
+   "model": "Active 6"
+  }
+ ],
  "Active6_RU": [
   {
    "brand": "Blackview",
@@ -32700,6 +32749,11 @@
   {
    "brand": "Blackview",
    "name": "Tab 50 WiFi",
+   "model": "Tab 50 WiFi"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab50WiFi_EEA",
    "model": "Tab 50 WiFi"
   }
  ],
@@ -39327,6 +39381,11 @@
   {
    "brand": "Hurricane",
    "name": "Blaze",
+   "model": "Blaze"
+  },
+  {
+   "brand": "Qsmart",
+   "name": "QSmart Blaze",
    "model": "Blaze"
   }
  ],
@@ -50474,6 +50533,13 @@
    "model": "X62"
   }
  ],
+ "X62B": [
+  {
+   "brand": "DIALN",
+   "name": "X62",
+   "model": "X62"
+  }
+ ],
  "X65": [
   {
    "brand": "DIALN",
@@ -50482,6 +50548,20 @@
   }
  ],
  "X65A": [
+  {
+   "brand": "DIALN",
+   "name": "X65",
+   "model": "X65"
+  }
+ ],
+ "X65B": [
+  {
+   "brand": "DIALN",
+   "name": "X65",
+   "model": "X65"
+  }
+ ],
+ "X65C": [
   {
    "brand": "DIALN",
    "name": "X65",
@@ -60227,6 +60307,13 @@
    "model": "ENT75QF620"
   }
  ],
+ "ENTG1011": [
+  {
+   "brand": "Entity",
+   "name": "ENTG1011",
+   "model": "ENTG1011"
+  }
+ ],
  "HW304_HW291": [
   {
    "brand": "Entity",
@@ -62335,6 +62422,13 @@
    "brand": "IkuMobile",
    "name": "A12",
    "model": "A12"
+  }
+ ],
+ "Q10-EEA": [
+  {
+   "brand": "FACETEL",
+   "name": "Q10-EEA",
+   "model": "Q10-EEA"
   }
  ],
  "Q10-Pro": [
@@ -67654,6 +67748,13 @@
    "brand": "GOODTEL",
    "name": "G10_US",
    "model": "G10_US"
+  }
+ ],
+ "G2-EEA": [
+  {
+   "brand": "GOODTEL",
+   "name": "G2-EEA",
+   "model": "G2-EEA"
   }
  ],
  "G2_A_EEA": [
@@ -105327,6 +105428,13 @@
    "model": "J5-EEA"
   }
  ],
+ "J5_EEA": [
+  {
+   "brand": "JUSYEA",
+   "name": "J5_EEA",
+   "model": "J5_EEA"
+  }
+ ],
  "J5_M": [
   {
    "brand": "JUSYEA",
@@ -134041,6 +134149,13 @@
    "model": "MX-A8R"
   }
  ],
+ "MX-A63": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO_A63",
+   "model": "MX-A63"
+  }
+ ],
  "MX-A81RWW": [
   {
    "brand": "Maxwest",
@@ -153560,6 +153675,13 @@
    "brand": "OMIX",
    "name": "MixTab Pro",
    "model": "MixTab Pro"
+  }
+ ],
+ "MixTab_Pro_2": [
+  {
+   "brand": "OMIX",
+   "name": "MixTab Pro 2",
+   "model": "MixTab Pro 2"
   }
  ],
  "OMIX_X4": [
@@ -202877,6 +202999,13 @@
    "model": "Hot1-z"
   }
  ],
+ "S10Y": [
+  {
+   "brand": "SimiMobile",
+   "name": "S10Y",
+   "model": "S10Y"
+  }
+ ],
  "S501plus-Z": [
   {
    "brand": "SimiMobile",
@@ -203701,6 +203830,13 @@
    "model": "Elite T10"
   }
  ],
+ "Elite_T10A": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite T10",
+   "model": "Elite T10"
+  }
+ ],
  "Elite_T4": [
   {
    "brand": "Sky Devices",
@@ -204328,6 +204464,13 @@
    "brand": "Sky Devices",
    "name": "SKY PAD8",
    "model": "SKY PAD8"
+  }
+ ],
+ "SKY_PAD8PROUSON": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY PAD8PRO",
+   "model": "SKY_PAD8PRO"
   }
  ],
  "SKY_Pad10k": [
@@ -222141,6 +222284,13 @@
    "model": "T mini"
   }
  ],
+ "T1586K": [
+  {
+   "brand": "TRUE_SLIM",
+   "name": "T1586K",
+   "model": "T1586K"
+  }
+ ],
  "MG080D1T": [
   {
    "brand": "TSUNAMi",
@@ -222392,6 +222542,20 @@
    "brand": "Tabi_by_T_GO",
    "name": "TGO_TB1001_4R",
    "model": "TGO_TB1001_4R"
+  }
+ ],
+ "TGO_TB780i": [
+  {
+   "brand": "Tabi_by_T_GO",
+   "name": "TGO_TB780i",
+   "model": "TGO_TB780i"
+  }
+ ],
+ "TGO_TB780ik": [
+  {
+   "brand": "Tabi_by_T_GO",
+   "name": "TGO_TB780ik",
+   "model": "TGO_TB780ik"
   }
  ],
  "TK80": [
@@ -229906,6 +230070,13 @@
    "model": "Armor 22"
   }
  ],
+ "Armor_24": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 24",
+   "model": "Armor 24"
+  }
+ ],
  "Armor_2S": [
   {
    "brand": "Ulefone",
@@ -235322,6 +235493,13 @@
    "brand": "Vgo Tel",
    "name": "NEW 15",
    "model": "NEW 15"
+  }
+ ],
+ "NEW_24": [
+  {
+   "brand": "Vgo Tel",
+   "name": "NEW 24",
+   "model": "NEW 24"
   }
  ],
  "NEW_7": [
@@ -247696,6 +247874,13 @@
    "model": "X2_EEA"
   }
  ],
+ "X2_US": [
+  {
+   "brand": "YesTeL",
+   "name": "X2_US",
+   "model": "X2_US"
+  }
+ ],
  "X3_EEA": [
   {
    "brand": "YesTeL",
@@ -257269,6 +257454,13 @@
    "model": "ZTE T1002"
   }
  ],
+ "P616T03_AC": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade X10 II",
+   "model": "ZTE T1006"
+  }
+ ],
  "P963T02C": [
   {
    "brand": "ZTE",
@@ -262490,6 +262682,13 @@
    "brand": "kiddoboo",
    "name": "KB101",
    "model": "KB101"
+  }
+ ],
+ "KB101B": [
+  {
+   "brand": "kiddoboo",
+   "name": "KB101B",
+   "model": "KB101B"
   }
  ],
  "KB80P": [

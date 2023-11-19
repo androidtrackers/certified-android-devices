@@ -748,6 +748,23 @@
    "device": "ADVANNASAPro"
   }
  ],
+ "1013": [
+  {
+   "brand": "ADVAN",
+   "name": "Sketsa3",
+   "device": "ADVAN_SKETSA3"
+  },
+  {
+   "brand": "ADVAN",
+   "name": "VX_LITE",
+   "device": "ADVAN_TAB_VX_LITE"
+  },
+  {
+   "brand": "Advan digital",
+   "name": "TAB VX",
+   "device": "ADVAN_TAB_VX"
+  }
+ ],
  "8004": [
   {
    "brand": "ADVAN",
@@ -758,18 +775,6 @@
    "brand": "Advan digital",
    "name": "XTAB",
    "device": "ADVAN_XTAB"
-  }
- ],
- "1013": [
-  {
-   "brand": "ADVAN",
-   "name": "VX_LITE",
-   "device": "ADVAN_TAB_VX_LITE"
-  },
-  {
-   "brand": "Advan digital",
-   "name": "TAB VX",
-   "device": "ADVAN_TAB_VX"
   }
  ],
  "TK701": [
@@ -6687,6 +6692,13 @@
    "device": "KidsTab1_EEA"
   }
  ],
+ "KidsTab3_EEA": [
+  {
+   "brand": "Achate",
+   "name": "KidsTab3_EEA",
+   "device": "KidsTab3_EEA"
+  }
+ ],
  "Aconatic 4K Android TV": [
   {
    "brand": "Aconatic",
@@ -11606,11 +11618,32 @@
    "device": "T1030M"
   }
  ],
+ "iPlay50_Upgraded": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50 Upgraded",
+   "device": "T1030T"
+  }
+ ],
  "iPlay50S": [
   {
    "brand": "Alldocube",
    "name": "iPlay50S",
    "device": "T1029TA"
+  }
+ ],
+ "iPlay50_Lite": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50_Lite",
+   "device": "U1030"
+  }
+ ],
+ "iPlay50_Mini_Lite": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50_Mini_Lite",
+   "device": "U807"
   }
  ],
  "iPlay50_SE": [
@@ -24934,6 +24967,13 @@
    "device": "BYYBUO_SmartPad_T10"
   }
  ],
+ "SmartPad_A10_EU": [
+  {
+   "brand": "BYYBUO",
+   "name": "SmartPad_A10_EU",
+   "device": "SmartPad_A10_EU"
+  }
+ ],
  "SmartPad_A10_L": [
   {
    "brand": "BYYBUO",
@@ -27310,6 +27350,11 @@
   {
    "brand": "Blackview",
    "name": "Active 6",
+   "device": "Active6_EEA"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Active 6",
    "device": "Active6_RU"
   }
  ],
@@ -28099,6 +28144,11 @@
   {
    "brand": "Blackview",
    "name": "Tab 50 WiFi",
+   "device": "Tab50WiFi"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab50WiFi_EEA",
    "device": "Tab50WiFi"
   }
  ],
@@ -34935,6 +34985,11 @@
   {
    "brand": "Hurricane",
    "name": "Blaze",
+   "device": "Blaze"
+  },
+  {
+   "brand": "Qsmart",
+   "name": "QSmart Blaze",
    "device": "Blaze"
   }
  ],
@@ -45775,6 +45830,11 @@
    "brand": "DIALN",
    "name": "X62",
    "device": "X62A"
+  },
+  {
+   "brand": "DIALN",
+   "name": "X62",
+   "device": "X62B"
   }
  ],
  "X65": [
@@ -45787,6 +45847,16 @@
    "brand": "DIALN",
    "name": "X65",
    "device": "X65A"
+  },
+  {
+   "brand": "DIALN",
+   "name": "X65",
+   "device": "X65B"
+  },
+  {
+   "brand": "DIALN",
+   "name": "X65",
+   "device": "X65C"
   }
  ],
  "X8G": [
@@ -55820,6 +55890,13 @@
    "device": "ENT75QF620"
   }
  ],
+ "ENTG1011": [
+  {
+   "brand": "Entity",
+   "name": "ENTG1011",
+   "device": "ENTG1011"
+  }
+ ],
  "HW304_HW291": [
   {
    "brand": "Entity",
@@ -57908,6 +57985,13 @@
    "brand": "IkuMobile",
    "name": "A12",
    "device": "A12"
+  }
+ ],
+ "Q10-EEA": [
+  {
+   "brand": "FACETEL",
+   "name": "Q10-EEA",
+   "device": "Q10-EEA"
   }
  ],
  "Q10-Pro": [
@@ -63245,6 +63329,13 @@
    "brand": "GOODTEL",
    "name": "G10_US",
    "device": "G10_US"
+  }
+ ],
+ "G2-EEA": [
+  {
+   "brand": "GOODTEL",
+   "name": "G2-EEA",
+   "device": "G2-EEA"
   }
  ],
  "G2_A_EEA": [
@@ -104732,6 +104823,13 @@
    "device": "J5-EEA"
   }
  ],
+ "J5_EEA": [
+  {
+   "brand": "JUSYEA",
+   "name": "J5_EEA",
+   "device": "J5_EEA"
+  }
+ ],
  "J5_M": [
   {
    "brand": "JUSYEA",
@@ -135633,6 +135731,13 @@
    "device": "MX-A82RWW"
   }
  ],
+ "MX-A63": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO_A63",
+   "device": "MX-A63"
+  }
+ ],
  "Astro 4 PRO": [
   {
    "brand": "Maxwest",
@@ -155481,6 +155586,13 @@
    "brand": "OMIX",
    "name": "MixTab Pro",
    "device": "MixTab_Pro"
+  }
+ ],
+ "MixTab Pro 2": [
+  {
+   "brand": "OMIX",
+   "name": "MixTab Pro 2",
+   "device": "MixTab_Pro_2"
   }
  ],
  "OMIX X300": [
@@ -208773,6 +208885,13 @@
    "device": "Hot1-z"
   }
  ],
+ "S10Y": [
+  {
+   "brand": "SimiMobile",
+   "name": "S10Y",
+   "device": "S10Y"
+  }
+ ],
  "S501plus-Z": [
   {
    "brand": "SimiMobile",
@@ -209575,6 +209694,11 @@
    "brand": "Sky Devices",
    "name": "Elite T10",
    "device": "Elite_T10"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite T10",
+   "device": "Elite_T10A"
   }
  ],
  "Elite T4": [
@@ -210127,6 +210251,13 @@
    "brand": "Sky Devices",
    "name": "SKY PAD10",
    "device": "SKY_PAX10US"
+  }
+ ],
+ "SKY_PAD8PRO": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY PAD8PRO",
+   "device": "SKY_PAD8PROUSON"
   }
  ],
  "SKY Pad10": [
@@ -230611,6 +230742,13 @@
    "device": "T_mini"
   }
  ],
+ "T1586K": [
+  {
+   "brand": "TRUE_SLIM",
+   "name": "T1586K",
+   "device": "T1586K"
+  }
+ ],
  "MG080D1T": [
   {
    "brand": "TSUNAMi",
@@ -230864,6 +231002,20 @@
    "brand": "Tabi_by_T_GO",
    "name": "TGO_TB1001_4R",
    "device": "TGO_TB1001_4R"
+  }
+ ],
+ "TGO_TB780i": [
+  {
+   "brand": "Tabi_by_T_GO",
+   "name": "TGO_TB780i",
+   "device": "TGO_TB780i"
+  }
+ ],
+ "TGO_TB780ik": [
+  {
+   "brand": "Tabi_by_T_GO",
+   "name": "TGO_TB780ik",
+   "device": "TGO_TB780ik"
   }
  ],
  "TK80": [
@@ -238792,6 +238944,13 @@
    "device": "Armor_22"
   }
  ],
+ "Armor 24": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 24",
+   "device": "Armor_24"
+  }
+ ],
  "Armor_2S": [
   {
    "brand": "Ulefone",
@@ -244332,6 +244491,13 @@
    "brand": "Vgo Tel",
    "name": "NEW 15",
    "device": "NEW_15"
+  }
+ ],
+ "NEW 24": [
+  {
+   "brand": "Vgo Tel",
+   "name": "NEW 24",
+   "device": "NEW_24"
   }
  ],
  "NEW 7": [
@@ -257624,6 +257790,13 @@
    "device": "X2_EEA"
   }
  ],
+ "X2_US": [
+  {
+   "brand": "YesTeL",
+   "name": "X2_US",
+   "device": "X2_US"
+  }
+ ],
  "X3_EEA": [
   {
    "brand": "YesTeL",
@@ -268785,6 +268958,13 @@
    "device": "P963T01C"
   }
  ],
+ "ZTE T1006": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade X10 II",
+   "device": "P616T03_AC"
+  }
+ ],
  "ZTE T1003": [
   {
    "brand": "ZTE",
@@ -274260,6 +274440,13 @@
    "brand": "kiddoboo",
    "name": "KB101",
    "device": "KB101"
+  }
+ ],
+ "KB101B": [
+  {
+   "brand": "kiddoboo",
+   "name": "KB101B",
+   "device": "KB101B"
   }
  ],
  "Kiddoboo Plus KB80P": [
