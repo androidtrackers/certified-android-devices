@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-19
+Last sync is 2023-11-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5935,6 +5935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIALN|G65|G65|G65|
 |DIALN|Neo|Neo|Neo|
 |DIALN|Neo|NeoA|Neo|
+|DIALN|Nova|NovaA|Nova|
 |DIALN|S8|S8|S8|
 |DIALN|X10G|X10G|X10G|
 |DIALN|X10ULTRA|X10ULTRA|X10ULTRA|
@@ -22911,6 +22912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A17k|OP56F5|CPH2471|
 |Oppo|A18|OP575DL1|CPH2591|
 |Oppo|A1k|OP486C|CPH1923|
+|Oppo|A2x 5G|OP5A0D|PJS110|
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A31|A31t|A31|
 |Oppo|A31c|A31c|A31c|
@@ -23530,6 +23532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Orange Neva sparkle|Neva_sparkle|Orange Neva sparkle|
 |Orange|Orange Neva zen|Neva_zen|Orange Neva zen|
 |Orange|Orange Nola play|Nola_play|Orange Nola play|
+|Orange|Orange Nola play plus|Nola_play_plus|Orange Nola play plus|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
 |Orange|Orange Rise 53|Rise_53|Orange Rise 53|
 |Orange|Orange_Tab_7_4G|Orange_Tab_7_4G|Orange_Tab_7_4G|
@@ -26322,6 +26325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 Max 64GB|S19_Max_64GB|S19 Max 64GB|
 |Reeder|S19 Max Pro|S19_Max_Pro|S19 Max Pro|
 |Reeder|S19 Max Pro S|S19_Max_Pro_S|S19 Max Pro S|
+|Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
 |Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
 |Reeder|T8|reeder_T8|reeder_T8|
 |Reeder|Turkcell_T_Tablet|Turkcell_T_Tablet|Turkcell_T_Tablet|
@@ -34629,6 +34633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
 |Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|
 |Tecno|TECNO SPARK 20|TECNO-KJ5n|TECNO KJ5n|
+|Tecno|TECNO SPARK 20 Pro|TECNO-KJ6|TECNO KJ6|
 |Tecno|TECNO SPARK 20C|TECNO-BG7n|TECNO BG7n|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|

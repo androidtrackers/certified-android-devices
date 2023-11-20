@@ -51962,6 +51962,18 @@
    "model": "Neo"
   }
  ],
+ "Nova": [
+  {
+   "brand": "DIALN",
+   "device": "NovaA",
+   "model": "Nova"
+  },
+  {
+   "brand": "MDC Store",
+   "device": "Nova",
+   "model": "Nova"
+  }
+ ],
  "X10G": [
   {
    "brand": "DIALN",
@@ -132028,13 +132040,6 @@
    "model": "MDC M5"
   }
  ],
- "Nova": [
-  {
-   "brand": "MDC Store",
-   "device": "Nova",
-   "model": "Nova"
-  }
- ],
  "Nova Pro": [
   {
    "brand": "MDC Store",
@@ -155206,6 +155211,13 @@
    "model": "CPH1923"
   }
  ],
+ "A2x 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5A0D",
+   "model": "PJS110"
+  }
+ ],
  "A31": [
   {
    "brand": "Oppo",
@@ -158979,6 +158991,13 @@
    "brand": "Orange",
    "device": "Nola_play",
    "model": "Orange Nola play"
+  }
+ ],
+ "Orange Nola play plus": [
+  {
+   "brand": "Orange",
+   "device": "Nola_play_plus",
+   "model": "Orange Nola play plus"
   }
  ],
  "Orange Rise 33": [
@@ -176596,6 +176615,13 @@
    "brand": "Reeder",
    "device": "S19_Max_Pro_S",
    "model": "S19 Max Pro S"
+  }
+ ],
+ "S19 Max Pro S Zoom": [
+  {
+   "brand": "Reeder",
+   "device": "S19_Max_Pro_S_Zoom",
+   "model": "S19 Max Pro S Zoom"
   }
  ],
  "S23 Pro Max": [
@@ -224052,6 +224078,13 @@
    "brand": "Tecno",
    "device": "TECNO-KJ5n",
    "model": "TECNO KJ5n"
+  }
+ ],
+ "TECNO SPARK 20 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KJ6",
+   "model": "TECNO KJ6"
   }
  ],
  "TECNO SPARK 20C": [

@@ -30671,6 +30671,11 @@
    "model": "Neo"
   },
   {
+   "device": "NovaA",
+   "name": "Nova",
+   "model": "Nova"
+  },
+  {
    "device": "S8",
    "name": "S8",
    "model": "S8"
@@ -117889,6 +117894,11 @@
    "model": "CPH1923"
   },
   {
+   "device": "OP5A0D",
+   "name": "A2x 5G",
+   "model": "PJS110"
+  },
+  {
    "device": "CPH1837",
    "name": "A3",
    "model": "CPH1837"
@@ -120990,6 +121000,11 @@
    "device": "Nola_play",
    "name": "Orange Nola play",
    "model": "Orange Nola play"
+  },
+  {
+   "device": "Nola_play_plus",
+   "name": "Orange Nola play plus",
+   "model": "Orange Nola play plus"
   },
   {
    "device": "Rise33",
@@ -135348,6 +135363,11 @@
    "device": "S19_Max_Pro_S",
    "name": "S19 Max Pro S",
    "model": "S19 Max Pro S"
+  },
+  {
+   "device": "S19_Max_Pro_S_Zoom",
+   "name": "S19 Max Pro S Zoom",
+   "model": "S19 Max Pro S Zoom"
   },
   {
    "device": "S23_Pro_Max",
@@ -177633,6 +177653,11 @@
    "device": "TECNO-KJ5n",
    "name": "TECNO SPARK 20",
    "model": "TECNO KJ5n"
+  },
+  {
+   "device": "TECNO-KJ6",
+   "name": "TECNO SPARK 20 Pro",
+   "model": "TECNO KJ6"
   },
   {
    "device": "TECNO-BG7n",
