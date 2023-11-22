@@ -39109,6 +39109,13 @@
    "device": "CTB761"
   }
  ],
+ "Dorado": [
+  {
+   "brand": "Coby",
+   "name": "Dorado",
+   "device": "Dorado"
+  }
+ ],
  "MID7052": [
   {
    "brand": "Coby",
@@ -45807,6 +45814,11 @@
   }
  ],
  "Nova": [
+  {
+   "brand": "DIALN",
+   "name": "Nova",
+   "device": "Nova"
+  },
   {
    "brand": "DIALN",
    "name": "Nova",
@@ -76454,6 +76466,13 @@
    "device": "Helio_S5"
   }
  ],
+ "Tab1000": [
+  {
+   "brand": "HemiltonPro",
+   "name": "Tab1000",
+   "device": "Tab1000"
+  }
+ ],
  "L925": [
   {
    "brand": "Hercls",
@@ -80043,6 +80062,13 @@
   }
  ],
  "Hisense U70": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HS7731ESP"
+  }
+ ],
+ "Hisense U71": [
   {
    "brand": "Hisense",
    "name": "Hisense U964",
@@ -104330,6 +104356,13 @@
    "device": "itel-P663L"
   }
  ],
+ "itel P665L": [
+  {
+   "brand": "Itel",
+   "name": "itel P55T",
+   "device": "itel-P665L"
+  }
+ ],
  "itel W7002": [
   {
    "brand": "Itel",
@@ -128332,6 +128365,18 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 Plus 3rd Gen",
    "device": "TB128XU"
+  }
+ ],
+ "TB330FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M11",
+   "device": "TB330FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K10c",
+   "device": "TB330FU"
   }
  ],
  "Lenovo TB-7305F": [
@@ -219984,6 +220029,20 @@
    "device": "Civic_S"
   }
  ],
+ "T506F": [
+  {
+   "brand": "TCL",
+   "name": "TCL 406i",
+   "device": "Civic_S_Refresh"
+  }
+ ],
+ "T506T": [
+  {
+   "brand": "TCL",
+   "name": "TCL 406s",
+   "device": "Civic_S"
+  }
+ ],
  "T507F": [
   {
    "brand": "TCL",
@@ -220570,6 +220629,11 @@
   }
  ],
  "8196G": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB10 Gen2 LTE",
+   "device": "Gaia"
+  },
   {
    "brand": "TCL",
    "name": "TCL TAB10 LTE Gen2",
@@ -232756,6 +232820,13 @@
    "device": "T50_2022_RUS"
   }
  ],
+ "TLG01_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "TLG01_EEA",
+   "device": "TLG01_EEA"
+  }
+ ],
  "X_EEA": [
   {
    "brand": "Teclast",
@@ -237606,6 +237677,13 @@
    "brand": "Toush",
    "name": "4K FF SMART TV",
    "device": "SW6H"
+  }
+ ],
+ "OTT": [
+  {
+   "brand": "Toyota",
+   "name": "Toyota",
+   "device": "TSA"
   }
  ],
  "T255": [
@@ -247389,6 +247467,13 @@
    "brand": "Vivo",
    "name": "V9 Pro",
    "device": "1851"
+  }
+ ],
+ "V2309A": [
+  {
+   "brand": "Vivo",
+   "name": "X100",
+   "device": "PD2309"
   }
  ],
  "V2324A": [
@@ -274779,6 +274864,13 @@
    "brand": "onn.",
    "name": "onn. 4k TV",
    "device": "sti6140d360"
+  }
+ ],
+ "onn. Full HD Streaming Device": [
+  {
+   "brand": "onn.",
+   "name": "onn_2k_gtv",
+   "device": "XNA"
   }
  ],
  "PNDPP44QC10": [

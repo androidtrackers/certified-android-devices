@@ -43605,6 +43605,13 @@
    "model": "CTB761"
   }
  ],
+ "Dorado": [
+  {
+   "brand": "Coby",
+   "name": "Dorado",
+   "model": "Dorado"
+  }
+ ],
  "MID7052": [
   {
    "brand": "Coby",
@@ -50505,6 +50512,18 @@
    "model": "Neo"
   }
  ],
+ "Nova": [
+  {
+   "brand": "DIALN",
+   "name": "Nova",
+   "model": "Nova"
+  },
+  {
+   "brand": "MDC Store",
+   "name": "Nova",
+   "model": "Nova"
+  }
+ ],
  "NovaA": [
   {
    "brand": "DIALN",
@@ -57174,6 +57193,11 @@
    "brand": "TCL",
    "name": "TCL TAB10 Gen2",
    "model": "8496G"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB10 Gen2 LTE",
+   "model": "8196G"
   },
   {
    "brand": "TCL",
@@ -79848,6 +79872,13 @@
    "model": "S25"
   }
  ],
+ "Tab1000": [
+  {
+   "brand": "HemiltonPro",
+   "name": "Tab1000",
+   "model": "Tab1000"
+  }
+ ],
  "A15": [
   {
    "brand": "Hercls",
@@ -83049,6 +83080,11 @@
    "brand": "Hisense",
    "name": "Hisense U964",
    "model": "Hisense U70"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "model": "Hisense U71"
   },
   {
    "brand": "Hisense",
@@ -104905,6 +104941,13 @@
    "brand": "Itel",
    "name": "itel P55+",
    "model": "itel P663L"
+  }
+ ],
+ "itel-P665L": [
+  {
+   "brand": "Itel",
+   "name": "itel P55T",
+   "model": "itel P665L"
   }
  ],
  "itel-W7002": [
@@ -126899,6 +126942,18 @@
    "model": "Lenovo TB128XU"
   }
  ],
+ "TB330FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M11",
+   "model": "TB330FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K10c",
+   "model": "TB330FU"
+  }
+ ],
  "7305F": [
   {
    "brand": "Lenovo",
@@ -131735,13 +131790,6 @@
    "brand": "MDC Store",
    "name": "MDC GrandPro",
    "model": "Grand Pro"
-  }
- ],
- "Nova": [
-  {
-   "brand": "MDC Store",
-   "name": "Nova",
-   "model": "Nova"
   }
  ],
  "Nova_Pro": [
@@ -199415,6 +199463,11 @@
    "brand": "Shaks",
    "name": "Gretzky",
    "model": "Shaks G1"
+  },
+  {
+   "brand": "Toyota",
+   "name": "Toyota",
+   "model": "OTT"
   }
  ],
  "SH7218T": [
@@ -214257,6 +214310,18 @@
    "brand": "TCL",
    "name": "TCL 406",
    "model": "T506K"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 406s",
+   "model": "T506T"
+  }
+ ],
+ "Civic_S_Refresh": [
+  {
+   "brand": "TCL",
+   "name": "TCL 406i",
+   "model": "T506F"
   }
  ],
  "Civic_Plus": [
@@ -224294,6 +224359,13 @@
    "brand": "Teclast",
    "name": "T50_ROW",
    "model": "T50_ROW"
+  }
+ ],
+ "TLG01_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "TLG01_EEA",
+   "model": "TLG01_EEA"
   }
  ],
  "X_EEA": [
@@ -238166,6 +238238,13 @@
    "brand": "Vivo",
    "name": "V9 Pro",
    "model": "vivo 1851"
+  }
+ ],
+ "PD2309": [
+  {
+   "brand": "Vivo",
+   "name": "X100",
+   "model": "V2309A"
   }
  ],
  "PD2324": [
@@ -263082,6 +263161,13 @@
    "brand": "onn.",
    "name": "onn. 4k TV",
    "model": "sti6140d360"
+  }
+ ],
+ "XNA": [
+  {
+   "brand": "onn.",
+   "name": "onn_2k_gtv",
+   "model": "onn. Full HD Streaming Device"
   }
  ],
  "PNDPP44QC10": [

@@ -45079,6 +45079,13 @@
    "model": "CTB761"
   }
  ],
+ "Dorado": [
+  {
+   "brand": "Coby",
+   "device": "Dorado",
+   "model": "Dorado"
+  }
+ ],
  "MID7052": [
   {
    "brand": "Coby",
@@ -51965,6 +51972,11 @@
  "Nova": [
   {
    "brand": "DIALN",
+   "device": "Nova",
+   "model": "Nova"
+  },
+  {
+   "brand": "DIALN",
    "device": "NovaA",
    "model": "Nova"
   },
@@ -57499,6 +57511,11 @@
    "brand": "Plimpton",
    "device": "X100",
    "model": "X100"
+  },
+  {
+   "brand": "Vivo",
+   "device": "PD2309",
+   "model": "V2309A"
   },
   {
    "brand": "Voger",
@@ -82434,6 +82451,13 @@
    "model": "Helio S5"
   }
  ],
+ "Tab1000": [
+  {
+   "brand": "HemiltonPro",
+   "device": "Tab1000",
+   "model": "Tab1000"
+  }
+ ],
  "HERCLS A15": [
   {
    "brand": "Hercls",
@@ -85587,6 +85611,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "Hisense U70"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U71"
   },
   {
    "brand": "Hisense",
@@ -106335,6 +106364,13 @@
    "brand": "Itel",
    "device": "itel-P663L",
    "model": "itel P663L"
+  }
+ ],
+ "itel P55T": [
+  {
+   "brand": "Itel",
+   "device": "itel-P665L",
+   "model": "itel P665L"
   }
  ],
  "itel Prime 4": [
@@ -127421,6 +127457,13 @@
    "model": "Lenovo TB128XU"
   }
  ],
+ "Lenovo Tab M11": [
+  {
+   "brand": "Lenovo",
+   "device": "TB330FU",
+   "model": "TB330FU"
+  }
+ ],
  "Lenovo Tab M7": [
   {
    "brand": "Lenovo",
@@ -129088,6 +129131,13 @@
    "brand": "Lenovo",
    "device": "X6C6NBX",
    "model": "Lenovo TB-X6C6NBX"
+  }
+ ],
+ "联想平板电脑 启天K10c": [
+  {
+   "brand": "Lenovo",
+   "device": "TB330FU",
+   "model": "TB330FU"
   }
  ],
  "联想平板电脑 启天K11 Gen2": [
@@ -211597,6 +211647,20 @@
    "model": "T506K"
   }
  ],
+ "TCL 406i": [
+  {
+   "brand": "TCL",
+   "device": "Civic_S_Refresh",
+   "model": "T506F"
+  }
+ ],
+ "TCL 406s": [
+  {
+   "brand": "TCL",
+   "device": "Civic_S",
+   "model": "T506T"
+  }
+ ],
  "TCL 408": [
   {
    "brand": "TCL",
@@ -212119,6 +212183,13 @@
    "brand": "TCL",
    "device": "Gaia",
    "model": "8496G"
+  }
+ ],
+ "TCL TAB10 Gen2 LTE": [
+  {
+   "brand": "TCL",
+   "device": "Gaia",
+   "model": "8196G"
   }
  ],
  "TCL TAB10 LTE Gen2": [
@@ -222302,6 +222373,13 @@
    "model": "T50_ROW"
   }
  ],
+ "TLG01_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "TLG01_EEA",
+   "model": "TLG01_EEA"
+  }
+ ],
  "X_EEA": [
   {
    "brand": "Teclast",
@@ -226724,6 +226802,13 @@
    "brand": "Toush",
    "device": "SW6H",
    "model": "4K FF SMART TV"
+  }
+ ],
+ "Toyota": [
+  {
+   "brand": "Toyota",
+   "device": "TSA",
+   "model": "OTT"
   }
  ],
  "T255": [
@@ -261319,6 +261404,13 @@
    "brand": "onn.",
    "device": "sti6140d360",
    "model": "sti6140d360"
+  }
+ ],
+ "onn_2k_gtv": [
+  {
+   "brand": "onn.",
+   "device": "XNA",
+   "model": "onn. Full HD Streaming Device"
   }
  ],
  "PNDPP44QC10": [

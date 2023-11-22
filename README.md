@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-21
+Last sync is 2023-11-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5006,6 +5006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cobia|Cobia|seocho|Cobia 4K Android TV|
 |Cobia|Cobia|sugamo|Cobia 2K Android TV|
 |Coby|CTB761|CTB761|CTB761|
+|Coby|Dorado|Dorado|Dorado|
 |Coby|MID7052|MID7052|MID7052|
 |Coby|MID8072|MID8072|MID8072|
 |Code|CR4900|cr4900|CR4900|
@@ -5935,6 +5936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIALN|G65|G65|G65|
 |DIALN|Neo|Neo|Neo|
 |DIALN|Neo|NeoA|Neo|
+|DIALN|Nova|Nova|Nova|
 |DIALN|Nova|NovaA|Nova|
 |DIALN|S8|S8|S8|
 |DIALN|X10G|X10G|X10G|
@@ -10371,6 +10373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Helio|S10|S10|S10|
 |Helio|S2|WBL7519SY|S2|
 |Helio|S25|HelioS25|S25|
+|HemiltonPro|Tab1000|Tab1000|Tab1000|
 |Hercls|HERCLS A15|A15|A15|
 |Hercls|HERCLS L925|L925|L925|
 |Hero|HERO 4ALL|HERO_4ALL|HERO 4ALL|
@@ -10912,6 +10915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HS7731ESP|Hisense U60 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U61|
 |Hisense|Hisense U964|HS7731ESP|Hisense U70|
+|Hisense|Hisense U964|HS7731ESP|Hisense U71|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
@@ -14594,6 +14598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel P55 5G|itel-P661N|itel P661N|
 |Itel|itel P55+|itel-P663L|itel P663L|
+|Itel|itel P55T|itel-P665L|itel P665L|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
 |Itel|itel PrimeTab 1|itel-W7002P|itel W7002P|
@@ -18278,6 +18283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB125FU|Lenovo TB125FU|
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB128FU|Lenovo TB128FU|
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB128XU|Lenovo TB128XU|
+|Lenovo|Lenovo Tab M11|TB330FU|TB330FU|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
@@ -18562,6 +18568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|拯救者电竞手机二代|doom|Lenovo L70081|
 |Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
+|Lenovo|联想平板电脑 启天K10c|TB330FU|TB330FU|
 |Lenovo|联想平板电脑 启天K11 Gen2|TB230FC|TB230FC|
 |Lenovo|联想平板电脑 启天K11 Gen2|TB230XC|TB230XC|
 |Lenovo|联想平板电脑 启天K12|TB240FC|TB240FC|
@@ -32422,6 +32429,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 405|Civic|T506A|
 |TCL|TCL 406|Civic_S|T506G|
 |TCL|TCL 406|Civic_S|T506K|
+|TCL|TCL 406i|Civic_S_Refresh|T506F|
+|TCL|TCL 406s|Civic_S|T506T|
 |TCL|TCL 408|Civic_Plus|T507F|
 |TCL|TCL 408|Civic_Plus|T507J|
 |TCL|TCL 408|Civic_Plus|T507U|
@@ -32506,6 +32515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TCL TAB10 Gen2|Gaia|8496G|
+|TCL|TCL TAB10 Gen2 LTE|Gaia|8196G|
 |TCL|TCL TAB10 LTE Gen2|Gaia|8196G|
 |TCL|TCL stylus 5G|Challenger_TH|T779P|
 |TCL|TCL201|Macau|5133MP|
@@ -34342,6 +34352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T50_EEA|T50_T|T50_EEA|
 |Teclast|T50_ROW|T50_T|T50_ROW|
 |Teclast|T8|T8|T8|
+|Teclast|TLG01_EEA|TLG01_EEA|TLG01_EEA|
 |Teclast|X_EEA|X_EEA|X_EEA|
 |Teclast|X_ROW|X_ROW|X_ROW|
 |Teclast|ssaemyo-inuriTab|P10S_ROW|P10S_ROW|
@@ -35087,6 +35098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
 |Toush|4K FF SMART TV|SW6H|4K FF SMART TV|
+|Toyota|Toyota|TSA|OTT|
 |Tpad|T255|T255|T255|
 |Transvision|SEI500TR|SEI500TR|TRANSVISION-Xstream|
 |Transvision|TRANSVISION-OTT-Box|UHD_I56AD_TRV|TRANSVISION-OTT-Box|
@@ -36672,6 +36684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V9|1727ID|vivo 1727|
 |Vivo|V9 6GB|1723CF|vivo 1723|
 |Vivo|V9 Pro|1851|vivo 1851|
+|Vivo|X100|PD2309|V2309A|
 |Vivo|X100 Pro|PD2324|V2324A|
 |Vivo|X5|X5|vivo X5|
 |Vivo|X50|2004|vivo 2004|
@@ -41012,6 +41025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|MID8016|mid8016_mk_32|MID8016|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
+|onn.|onn_2k_gtv|XNA|onn. Full HD Streaming Device|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |preo|PTABP10|PTABP10|PTABP10|

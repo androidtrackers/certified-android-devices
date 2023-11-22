@@ -25916,6 +25916,11 @@
    "model": "CTB761"
   },
   {
+   "device": "Dorado",
+   "name": "Dorado",
+   "model": "Dorado"
+  },
+  {
    "device": "MID7052",
    "name": "MID7052",
    "model": "MID7052"
@@ -30669,6 +30674,11 @@
    "device": "NeoA",
    "name": "Neo",
    "model": "Neo"
+  },
+  {
+   "device": "Nova",
+   "name": "Nova",
+   "model": "Nova"
   },
   {
    "device": "NovaA",
@@ -53773,6 +53783,13 @@
    "model": "S25"
   }
  ],
+ "HemiltonPro": [
+  {
+   "device": "Tab1000",
+   "name": "Tab1000",
+   "model": "Tab1000"
+  }
+ ],
  "Hercls": [
   {
    "device": "A15",
@@ -56508,6 +56525,11 @@
    "device": "HS7731ESP",
    "name": "Hisense U964",
    "model": "Hisense U70"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U964",
+   "model": "Hisense U71"
   },
   {
    "device": "HS7731ESP",
@@ -75160,6 +75182,11 @@
    "device": "itel-P663L",
    "name": "itel P55+",
    "model": "itel P663L"
+  },
+  {
+   "device": "itel-P665L",
+   "name": "itel P55T",
+   "model": "itel P665L"
   },
   {
    "device": "itel_Prime4",
@@ -93976,6 +94003,11 @@
    "model": "Lenovo TB128XU"
   },
   {
+   "device": "TB330FU",
+   "name": "Lenovo Tab M11",
+   "model": "TB330FU"
+  },
+  {
    "device": "7305F",
    "name": "Lenovo Tab M7",
    "model": "Lenovo TB-7305F"
@@ -95394,6 +95426,11 @@
    "device": "X6C6NBX",
    "name": "联想平板电脑 启天K10",
    "model": "Lenovo TB-X6C6NBX"
+  },
+  {
+   "device": "TB330FU",
+   "name": "联想平板电脑 启天K10c",
+   "model": "TB330FU"
   },
   {
    "device": "TB230FC",
@@ -166422,6 +166459,16 @@
    "model": "T506K"
   },
   {
+   "device": "Civic_S_Refresh",
+   "name": "TCL 406i",
+   "model": "T506F"
+  },
+  {
+   "device": "Civic_S",
+   "name": "TCL 406s",
+   "model": "T506T"
+  },
+  {
    "device": "Civic_Plus",
    "name": "TCL 408",
    "model": "T507F"
@@ -166840,6 +166887,11 @@
    "device": "Gaia",
    "name": "TCL TAB10 Gen2",
    "model": "8496G"
+  },
+  {
+   "device": "Gaia",
+   "name": "TCL TAB10 Gen2 LTE",
+   "model": "8196G"
   },
   {
    "device": "Gaia",
@@ -176198,6 +176250,11 @@
    "model": "T8"
   },
   {
+   "device": "TLG01_EEA",
+   "name": "TLG01_EEA",
+   "model": "TLG01_EEA"
+  },
+  {
    "device": "X_EEA",
    "name": "X_EEA",
    "model": "X_EEA"
@@ -180057,6 +180114,13 @@
    "device": "SW6H",
    "name": "4K FF SMART TV",
    "model": "4K FF SMART TV"
+  }
+ ],
+ "Toyota": [
+  {
+   "device": "TSA",
+   "name": "Toyota",
+   "model": "OTT"
   }
  ],
  "Tpad": [
@@ -188284,6 +188348,11 @@
    "device": "1851",
    "name": "V9 Pro",
    "model": "vivo 1851"
+  },
+  {
+   "device": "PD2309",
+   "name": "X100",
+   "model": "V2309A"
   },
   {
    "device": "PD2324",
@@ -210584,6 +210653,11 @@
    "device": "sti6140d360",
    "name": "onn. 4k TV",
    "model": "sti6140d360"
+  },
+  {
+   "device": "XNA",
+   "name": "onn_2k_gtv",
+   "model": "onn. Full HD Streaming Device"
   }
  ],
  "pendo": [
