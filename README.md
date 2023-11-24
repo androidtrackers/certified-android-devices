@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-23
+Last sync is 2023-11-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1393,6 +1393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|Arcelik Google TV|wanchai|Arcelik Google TV|
+|Arcelik|Arcelik Google TV QLED|wanchai|Arcelik Google TV QLED|
 |Arcelik|Arcelik Google TV UHD+|wanchai|Arcelik Google TV UHD+|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
@@ -3111,6 +3112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Android TV|shinagawa|Beko Android TV|
 |Beko|Beko Android TV|sinchon|Beko Android TV|
 |Beko|Beko Google TV|wanchai|Beko Google TV|
+|Beko|Beko Google TV QLED|wanchai|Beko Google TV QLED|
 |Beko|Beko Google TV UHD+|wanchai|Beko Google TV UHD+|
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
@@ -4248,6 +4250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C90|C90|C90|
 |CHAINWAY|MC21|MC21|MC21|
 |CHAINWAY|MC50|MC50|MC50|
+|CHAINWAY|MC62|MC62|MC62|
 |CHAINWAY|MC95|MC95|MC95|
 |CHAINWAY|P80|P80|P80|
 |CHAINWAY|P80_B|P80_PRO|P80|
@@ -9147,6 +9150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|Grundig Android TV|shinagawa|Grundig Android TV|
 |Grundig|Grundig Android TV|sinchon|Grundig Android TV|
 |Grundig|Grundig Google TV|wanchai|Grundig Google TV|
+|Grundig|Grundig Google TV QLED|wanchai|Grundig Google TV QLED|
 |Grundig|Grundig Google TV UHD+|wanchai|Grundig Google TV UHD+|
 |Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
 |Grundig|TC69CA2|GTB801|GTB 801|
@@ -13416,6 +13420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IIIF150|B2 Ultra|B2_Ultra|B2 Ultra|
 |IIIF150|Raptor LTD|Raptor|Raptor|
 |IKALL|IKALL|IKALL|IKALL|
+|IKALL|K510|K510|K510|
 |IKALL|N4|N4|N4|
 |IKALL|N5|N5|N5|
 |IMAGO|AIOS|AIOS|PRIME|
@@ -13835,7 +13840,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 11 Pro|Infinix-X697|Infinix X697|
 |Infinix|NOTE 11S|Infinix-X698|Infinix X698|
 |Infinix|NOTE 12|Infinix-X670|Infinix X670|
-|Infinix|NOTE 12 PRO|Infinix-X676B|Infinix X676B|
 |Infinix|NOTE 12 VIP|Infinix-X672|Infinix X672|
 |Infinix|NOTE 12i 2022|Infinix-X677|Infinix X677|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
@@ -15012,6 +15016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
 |KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
+|KONKA|M27S|M27S|M27S|
 |KONKA|MOON|MOON|MOON|
 |KONKA|N15|N15|N15|
 |KONKA|N17|N17|N17|
@@ -18709,6 +18714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
 |Logic Mobility|LOGIC_L60|LOGIC_L60|LOGIC L60|
 |Logic Mobility|LOGIC_L65|LOGIC_L65|LOGIC L65|
+|Logic Mobility|LOGIC_L66M|LOGIC_L66M|LOGIC L66M|
 |Logic Mobility|LOGIC_X40|LOGIC_X40|X40|
 |Logic Mobility|LOGIC_X60G|LOGIC_X60G|LOGIC_X60G|
 |Logic Mobility|T10B|T10B|T10B|
@@ -20434,6 +20440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Ahiga|Ahiga|Ahiga|
 |Mobiwire|Airtel Imagine|H5032U|Airtel Imagine|
 |Mobiwire|Altice E55|E55|E55|
+|Mobiwire|Benin|H6681_Pro|Moov Smart Pro|
 |Mobiwire|Chenoa|Chenoa|Chenoa|
 |Mobiwire|Cygnus|Cygnus45|Cygnus|
 |Mobiwire|Cygnus|Cygnus45|Cygnus45|
@@ -21249,6 +21256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11|
+|Motorola Solutions|LEX L11|lexl11g_64|LEX L11a|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11j|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11l|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
@@ -34502,7 +34510,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
-|Tecno|POVA 4|TECNO-LG7n|TECNO LG7n|
 |Tecno|POVA 5|TECNO-LH7n|TECNO LH7n|
 |Tecno|POVA 5 Pro 5G|TECNO-LH8n|TECNO LH8n|
 |Tecno|POVA Neo|TECNO-LE6|TECNO LE6|
@@ -34593,6 +34600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 20|TECNO-CK6ns|TECNO CK6ns|
 |Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON 20 Premier 5G|TECNO-CK9n|TECNO CK9n|
+|Tecno|TECNO CAMON 20s Pro 5G|TECNO-CK8nB|TECNO CK8nB|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -34645,6 +34653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|
 |Tecno|TECNO SPARK 20|TECNO-KJ5n|TECNO KJ5n|
 |Tecno|TECNO SPARK 20 Pro|TECNO-KJ6|TECNO KJ6|
+|Tecno|TECNO SPARK 20C|TECNO-BG7|TECNO BG7|
 |Tecno|TECNO SPARK 20C|TECNO-BG7n|TECNO BG7n|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
@@ -36747,6 +36756,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y27|Y27|vivo Y27|
 |Vivo|Y27 5G|V2248|V2302|
 |Vivo|Y27 5G|V2248G|V2302|
+|Vivo|Y27s|V2247|V2322|
+|Vivo|Y27s|V2247|V2335|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y31|PD1505|vivo Y31|
@@ -36995,6 +37006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vmobile|A13|A13|A13|
 |Vmobile|A13_Y|A13_Y|A13_Y|
 |Vmobile|A15|A15|A15|
+|Vocal|v0|v0|VOCAL V0|
 |Vodafone|785|Vodafone_785|Vodafone 785|
 |Vodafone|895|VF-895N|VF-895N|
 |Vodafone|GigaTV Net|diw362|GigaTV|

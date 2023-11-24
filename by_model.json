@@ -13406,6 +13406,13 @@
    "device": "wanchai"
   }
  ],
+ "Arcelik Google TV QLED": [
+  {
+   "brand": "Arcelik",
+   "name": "Arcelik Google TV QLED",
+   "device": "wanchai"
+  }
+ ],
  "Arcelik Google TV UHD+": [
   {
    "brand": "Arcelik",
@@ -25367,6 +25374,13 @@
    "device": "wanchai"
   }
  ],
+ "Beko Google TV QLED": [
+  {
+   "brand": "Beko",
+   "name": "Beko Google TV QLED",
+   "device": "wanchai"
+  }
+ ],
  "Beko Google TV UHD+": [
   {
    "brand": "Beko",
@@ -33790,6 +33804,13 @@
    "brand": "CHAINWAY",
    "name": "MC50",
    "device": "MC50"
+  }
+ ],
+ "MC62": [
+  {
+   "brand": "CHAINWAY",
+   "name": "MC62",
+   "device": "MC62"
   }
  ],
  "MC95": [
@@ -53566,6 +53587,11 @@
    "brand": "EPIKONE",
    "name": "K510",
    "device": "K510"
+  },
+  {
+   "brand": "IKALL",
+   "name": "K510",
+   "device": "K510"
   }
  ],
  "K511": [
@@ -68425,6 +68451,13 @@
   {
    "brand": "Grundig",
    "name": "Grundig Google TV",
+   "device": "wanchai"
+  }
+ ],
+ "Grundig Google TV QLED": [
+  {
+   "brand": "Grundig",
+   "name": "Grundig Google TV QLED",
    "device": "wanchai"
   }
  ],
@@ -99088,11 +99121,6 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 12 PRO",
    "device": "Infinix-X676B"
-  },
-  {
-   "brand": "Infinix",
-   "name": "NOTE 12 PRO",
-   "device": "Infinix-X676B"
   }
  ],
  "Infinix X671B": [
@@ -106950,6 +106978,13 @@
    "brand": "KONKA",
    "name": "Konka android tv",
    "device": "hanyang"
+  }
+ ],
+ "M27S": [
+  {
+   "brand": "KONKA",
+   "name": "M27S",
+   "device": "M27S"
   }
  ],
  "N15": [
@@ -131015,6 +131050,13 @@
    "device": "LOGIC_L65"
   }
  ],
+ "LOGIC L66M": [
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L66M",
+   "device": "LOGIC_L66M"
+  }
+ ],
  "X40": [
   {
    "brand": "Logic Mobility",
@@ -142209,6 +142251,13 @@
    "device": "E55"
   }
  ],
+ "Moov Smart Pro": [
+  {
+   "brand": "Mobiwire",
+   "name": "Benin",
+   "device": "H6681_Pro"
+  }
+ ],
  "Chenoa": [
   {
    "brand": "Mobiwire",
@@ -147312,6 +147361,13 @@
   }
  ],
  "LEX L11": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "device": "lexl11g_64"
+  }
+ ],
+ "LEX L11a": [
   {
    "brand": "Motorola Solutions",
    "name": "LEX L11",
@@ -233853,18 +233909,6 @@
    "device": "TECNO-LD7j"
   }
  ],
- "TECNO LG7n": [
-  {
-   "brand": "Tecno",
-   "name": "POVA 4",
-   "device": "TECNO-LG7n"
-  },
-  {
-   "brand": "Tecno",
-   "name": "TECNO POVA 4",
-   "device": "TECNO-LG7n"
-  }
- ],
  "TECNO LH7n": [
   {
    "brand": "Tecno",
@@ -234483,6 +234527,13 @@
    "device": "TECNO-CK9n"
   }
  ],
+ "TECNO CK8nB": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20s Pro 5G",
+   "device": "TECNO-CK8nB"
+  }
+ ],
  "TECNO KB2": [
   {
    "brand": "Tecno",
@@ -234675,6 +234726,13 @@
    "device": "TECNO-LF7n"
   }
  ],
+ "TECNO LG7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 4",
+   "device": "TECNO-LG7n"
+  }
+ ],
  "TECNO LG8n": [
   {
    "brand": "Tecno",
@@ -234799,6 +234857,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 20 Pro",
    "device": "TECNO-KJ6"
+  }
+ ],
+ "TECNO BG7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20C",
+   "device": "TECNO-BG7"
   }
  ],
  "TECNO BG7n": [
@@ -247933,6 +247998,20 @@
    "device": "V2248G"
   }
  ],
+ "V2322": [
+  {
+   "brand": "Vivo",
+   "name": "Y27s",
+   "device": "V2247"
+  }
+ ],
+ "V2335": [
+  {
+   "brand": "Vivo",
+   "name": "Y27s",
+   "device": "V2247"
+  }
+ ],
  "vivo Y28": [
   {
    "brand": "Vivo",
@@ -249463,6 +249542,13 @@
    "brand": "Vmobile",
    "name": "A13_Y",
    "device": "A13_Y"
+  }
+ ],
+ "VOCAL V0": [
+  {
+   "brand": "Vocal",
+   "name": "v0",
+   "device": "v0"
   }
  ],
  "Vodafone 785": [

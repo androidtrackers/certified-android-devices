@@ -17552,6 +17552,11 @@
   },
   {
    "brand": "Arcelik",
+   "name": "Arcelik Google TV QLED",
+   "model": "Arcelik Google TV QLED"
+  },
+  {
+   "brand": "Arcelik",
    "name": "Arcelik Google TV UHD+",
    "model": "Arcelik Google TV UHD+"
   },
@@ -17562,6 +17567,11 @@
   },
   {
    "brand": "Beko",
+   "name": "Beko Google TV QLED",
+   "model": "Beko Google TV QLED"
+  },
+  {
+   "brand": "Beko",
    "name": "Beko Google TV UHD+",
    "model": "Beko Google TV UHD+"
   },
@@ -17569,6 +17579,11 @@
    "brand": "Grundig",
    "name": "Grundig Google TV",
    "model": "Grundig Google TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Google TV QLED",
+   "model": "Grundig Google TV QLED"
   },
   {
    "brand": "Grundig",
@@ -38108,6 +38123,13 @@
    "model": "MC50"
   }
  ],
+ "MC62": [
+  {
+   "brand": "CHAINWAY",
+   "name": "MC62",
+   "model": "MC62"
+  }
+ ],
  "MC95": [
   {
    "brand": "CHAINWAY",
@@ -58230,6 +58252,11 @@
  "K510": [
   {
    "brand": "EPIKONE",
+   "name": "K510",
+   "model": "K510"
+  },
+  {
+   "brand": "IKALL",
    "name": "K510",
    "model": "K510"
   }
@@ -99770,11 +99797,6 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 12 PRO",
    "model": "Infinix X676B"
-  },
-  {
-   "brand": "Infinix",
-   "name": "NOTE 12 PRO",
-   "model": "Infinix X676B"
   }
  ],
  "Infinix-X671B": [
@@ -107081,6 +107103,13 @@
    "brand": "KONKA",
    "name": "KONKA  Y109",
    "model": "KONKA-Y109"
+  }
+ ],
+ "M27S": [
+  {
+   "brand": "KONKA",
+   "name": "M27S",
+   "model": "M27S"
   }
  ],
  "N15": [
@@ -129558,6 +129587,13 @@
    "model": "LOGIC L65"
   }
  ],
+ "LOGIC_L66M": [
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L66M",
+   "model": "LOGIC L66M"
+  }
+ ],
  "LOGIC_X40": [
   {
    "brand": "Logic Mobility",
@@ -140663,6 +140699,13 @@
    "model": "E55"
   }
  ],
+ "H6681_Pro": [
+  {
+   "brand": "Mobiwire",
+   "name": "Benin",
+   "model": "Moov Smart Pro"
+  }
+ ],
  "Chenoa": [
   {
    "brand": "Mobiwire",
@@ -145393,6 +145436,11 @@
    "brand": "Motorola Solutions",
    "name": "LEX L11",
    "model": "LEX L11"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "model": "LEX L11a"
   },
   {
    "brand": "Motorola Solutions",
@@ -225377,18 +225425,6 @@
    "model": "TECNO LD7j"
   }
  ],
- "TECNO-LG7n": [
-  {
-   "brand": "Tecno",
-   "name": "POVA 4",
-   "model": "TECNO LG7n"
-  },
-  {
-   "brand": "Tecno",
-   "name": "TECNO POVA 4",
-   "model": "TECNO LG7n"
-  }
- ],
  "TECNO-LH7n": [
   {
    "brand": "Tecno",
@@ -225985,6 +226021,13 @@
    "model": "TECNO CK9n"
   }
  ],
+ "TECNO-CK8nB": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20s Pro 5G",
+   "model": "TECNO CK8nB"
+  }
+ ],
  "TECNO-KB2": [
   {
    "brand": "Tecno",
@@ -226177,6 +226220,13 @@
    "model": "TECNO LF7n"
   }
  ],
+ "TECNO-LG7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 4",
+   "model": "TECNO LG7n"
+  }
+ ],
  "TECNO-LG8n": [
   {
    "brand": "Tecno",
@@ -226294,6 +226344,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 20 Pro",
    "model": "TECNO KJ6"
+  }
+ ],
+ "TECNO-BG7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20C",
+   "model": "TECNO BG7"
   }
  ],
  "TECNO-BG7n": [
@@ -238670,6 +238727,28 @@
    "model": "V2302"
   }
  ],
+ "V2247": [
+  {
+   "brand": "Vivo",
+   "name": "Y27s",
+   "model": "V2322"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y27s",
+   "model": "V2335"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "model": "V2247"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "model": "V2324"
+  }
+ ],
  "Y28": [
   {
    "brand": "Vivo",
@@ -238799,18 +238878,6 @@
    "brand": "Vivo",
    "name": "Y36m",
    "model": "V2318A"
-  }
- ],
- "V2247": [
-  {
-   "brand": "Vivo",
-   "name": "Y36",
-   "model": "V2247"
-  },
-  {
-   "brand": "Vivo",
-   "name": "Y36",
-   "model": "V2324"
   }
  ],
  "Y51": [
@@ -240152,6 +240219,13 @@
    "brand": "Vmobile",
    "name": "A13_Y",
    "model": "A13_Y"
+  }
+ ],
+ "v0": [
+  {
+   "brand": "Vocal",
+   "name": "v0",
+   "model": "VOCAL V0"
   }
  ],
  "VF-895N": [
