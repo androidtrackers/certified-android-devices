@@ -486,6 +486,13 @@
    "model": "BUZZ 4 Prime"
   }
  ],
+ "BUZZ_4_Ultra": [
+  {
+   "brand": "ACE (Global)",
+   "name": "BUZZ 4 Ultra",
+   "model": "BUZZ 4 Ultra"
+  }
+ ],
  "CLEVER_3": [
   {
    "brand": "ACE (Global)",
@@ -680,6 +687,11 @@
    "brand": "Clevertouch",
    "name": "IMPACT Lux",
    "model": "Impact_Lux_Display"
+  },
+  {
+   "brand": "Helgi",
+   "name": "HXxx10",
+   "model": "Helgi_HX10"
   },
   {
    "brand": "Newline",
@@ -16924,6 +16936,13 @@
    "model": "X700_EEA"
   }
  ],
+ "X900-US": [
+  {
+   "brand": "Aocwei",
+   "name": "X900-US",
+   "model": "X900-US"
+  }
+ ],
  "X900_EEA": [
   {
    "brand": "Aocwei",
@@ -32760,6 +32779,13 @@
    "model": "Tab 13 Pro"
   }
  ],
+ "Tab3Kids": [
+  {
+   "brand": "Blackview",
+   "name": "Tab 3 Kids",
+   "model": "Tab 3 Kids"
+  }
+ ],
  "Tab50WiFi": [
   {
    "brand": "Blackview",
@@ -32777,6 +32803,13 @@
    "brand": "Blackview",
    "name": "Tab 60",
    "model": "Tab 60"
+  }
+ ],
+ "Tab60Kids_EEA": [
+  {
+   "brand": "Blackview",
+   "name": "Tab 60 Kids",
+   "model": "Tab 60 Kids"
   }
  ],
  "Tab70WiFi": [
@@ -33366,6 +33399,11 @@
    "brand": "MGS",
    "name": "MGS",
    "model": "4K MGS Google TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "model": "4K Sharp Google TV"
   }
  ],
  "kaitak": [
@@ -38524,6 +38562,20 @@
    "brand": "COOKIE",
    "name": "YS-CK0001",
    "model": "YS-CK0001"
+  }
+ ],
+ "OC106": [
+  {
+   "brand": "COOLFAN",
+   "name": "OC106",
+   "model": "OC106"
+  }
+ ],
+ "OC106_EEA": [
+  {
+   "brand": "COOLFAN",
+   "name": "OC106",
+   "model": "OC106"
   }
  ],
  "MARTE": [
@@ -50588,6 +50640,13 @@
    "model": "X62"
   }
  ],
+ "X62C": [
+  {
+   "brand": "DIALN",
+   "name": "X62",
+   "model": "X62"
+  }
+ ],
  "X65": [
   {
    "brand": "DIALN",
@@ -59214,6 +59273,11 @@
    "model": "X6"
   },
   {
+   "brand": "OMIX",
+   "name": "X6",
+   "model": "X6"
+  },
+  {
    "brand": "Techpad",
    "name": "X6",
    "model": "X6"
@@ -62496,6 +62560,13 @@
    "model": "Q10-Pro"
   }
  ],
+ "Q10-US": [
+  {
+   "brand": "FACETEL",
+   "name": "Q10-US",
+   "model": "Q10-US"
+  }
+ ],
  "Q10_EEA": [
   {
    "brand": "FACETEL",
@@ -62550,6 +62621,13 @@
    "brand": "FACETEL",
    "name": "Q5_US",
    "model": "3W_US"
+  }
+ ],
+ "Q6_US": [
+  {
+   "brand": "FACETEL",
+   "name": "Q6_US",
+   "model": "Q6_US"
   }
  ],
  "W3_T_EEA": [
@@ -86279,6 +86357,11 @@
    "brand": "Hot Pepper",
    "name": "Chilaca",
    "model": "HPPL60A"
+  },
+  {
+   "brand": "Hot Pepper",
+   "name": "Chilaca Plus",
+   "model": "HPPL60A"
   }
  ],
  "HPPL60B": [
@@ -105416,6 +105499,18 @@
    "model": "J10PRO"
   }
  ],
+ "J11": [
+  {
+   "brand": "JREN",
+   "name": "J11",
+   "model": "J11"
+  },
+  {
+   "brand": "Jesy",
+   "name": "J11",
+   "model": "J11"
+  }
+ ],
  "J11PLUS": [
   {
    "brand": "JREN",
@@ -105747,13 +105842,6 @@
    "brand": "Jenesis",
    "name": "JT10-81B",
    "model": "JT10-81B"
-  }
- ],
- "J11": [
-  {
-   "brand": "Jesy",
-   "name": "J11",
-   "model": "J11"
   }
  ],
  "J9S": [
@@ -106934,6 +107022,20 @@
    "brand": "KENSHI",
    "name": "H38",
    "model": "H38"
+  }
+ ],
+ "KP10": [
+  {
+   "brand": "KENSHI",
+   "name": "Kenshi KP10",
+   "model": "KP10"
+  }
+ ],
+ "KP11": [
+  {
+   "brand": "KENSHI",
+   "name": "Kenshi KP11",
+   "model": "KP11"
   }
  ],
  "K-S18": [
@@ -154161,6 +154263,13 @@
    "model": "A13_US"
   }
  ],
+ "A9-EEA": [
+  {
+   "brand": "Oangcc",
+   "name": "A9-EEA",
+   "model": "A9-EEA"
+  }
+ ],
  "A9_EEA": [
   {
    "brand": "Oangcc",
@@ -160704,6 +160813,13 @@
    "model": "WP27"
   }
  ],
+ "WP30_Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "WP30_Pro_EEA",
+   "model": "WP30 Pro"
+  }
+ ],
  "WP5": [
   {
    "brand": "Oukitel",
@@ -165864,6 +165980,13 @@
    "brand": "Pixus",
    "name": "Pixus_Drive",
    "model": "Pixus_Drive"
+  }
+ ],
+ "Pixus_Folio": [
+  {
+   "brand": "Pixus",
+   "name": "Pixus_Folio",
+   "model": "Pixus_Folio"
   }
  ],
  "Pixus_Hammer": [
@@ -177862,6 +177985,20 @@
    "brand": "SFR.fr",
    "name": "Connect V3",
    "model": "Connect TV de SFR"
+  }
+ ],
+ "M1046W": [
+  {
+   "brand": "SGIN",
+   "name": "M1046W",
+   "model": "M1046W"
+  }
+ ],
+ "M806BW6": [
+  {
+   "brand": "SGIN",
+   "name": "M806BW6",
+   "model": "M806BW6"
   }
  ],
  "SGIN_E10M": [
@@ -204567,6 +204704,13 @@
    "model": "SKY PAD10"
   }
  ],
+ "SKY_PAD10MAXEXUS": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY PAD10MAX",
+   "model": "SKY_PAD10MAX"
+  }
+ ],
  "SKY_PAD10MaxNUS": [
   {
    "brand": "Sky Devices",
@@ -210175,6 +210319,13 @@
    "brand": "SparX",
    "name": "NEO_6",
    "model": "NEO_6"
+  }
+ ],
+ "Neo_11": [
+  {
+   "brand": "SparX",
+   "name": "Neo 11",
+   "model": "Neo 11"
   }
  ],
  "Neo_5_Plus": [
@@ -222250,6 +222401,20 @@
    "model": "T18-EEA"
   }
  ],
+ "T181": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T181",
+   "model": "T181"
+  }
+ ],
+ "T181-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T181-EEA",
+   "model": "T181-EEA"
+  }
+ ],
  "T20-EEA": [
   {
    "brand": "TOSCIDO",
@@ -222568,6 +222733,13 @@
    "brand": "TVPLUS",
    "name": "TV PLUS 4K BOX",
    "model": "TV PLUS 4K BOX"
+  }
+ ],
+ "TVT-T108": [
+  {
+   "brand": "TVT(A)",
+   "name": "TVT-T108",
+   "model": "TVT-T108"
   }
  ],
  "HPA12_8GB": [
@@ -230314,6 +230486,13 @@
    "model": "Armor Pad"
   }
  ],
+ "Armor_Pad_2": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor Pad 2",
+   "model": "Armor Pad 2"
+  }
+ ],
  "ArmorPadLite": [
   {
    "brand": "Ulefone",
@@ -232392,6 +232571,13 @@
    "brand": "Unnion Technologies",
    "name": "HH25",
    "model": "HH25"
+  }
+ ],
+ "UN-CT101": [
+  {
+   "brand": "Unnion Technologies",
+   "name": "UN-CT101",
+   "model": "UN-CT101"
   }
  ],
  "UNSP7": [
@@ -241804,6 +241990,13 @@
    "model": "NEXG N71"
   }
  ],
+ "NEXG_N71_Plus": [
+  {
+   "brand": "Walton",
+   "name": "NEXG N71 Plus",
+   "model": "NEXG N71 Plus"
+  }
+ ],
  "OrbitM20": [
   {
    "brand": "Walton",
@@ -247406,6 +247599,13 @@
    "brand": "Xmobile",
    "name": "X8Max",
    "model": "X8Max"
+  }
+ ],
+ "X8Pronus": [
+  {
+   "brand": "Xmobile",
+   "name": "X8Pro",
+   "model": "X8Pro"
   }
  ],
  "Xmovi_X8": [
@@ -257649,11 +257849,37 @@
    "model": "ZTE T1006"
   }
  ],
+ "P618T01C": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade X10 II Pro+",
+   "model": "ZTE T1004"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE_Blade_X10_II_Pro+",
+   "model": "ZTE T1004"
+  }
+ ],
  "P963T02C": [
   {
    "brand": "ZTE",
    "name": "ZTE Blade X10 Pro",
    "model": "ZTE T1003"
+  }
+ ],
+ "P616T02_AC": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade X8 II Pro",
+   "model": "ZTE T0805"
+  }
+ ],
+ "P616T01C": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade X8 Pro",
+   "model": "ZTE T0802"
   }
  ],
  "ZTE_E7LS": [
@@ -257776,6 +258002,20 @@
    "brand": "ZTE",
    "name": "ZTE V890",
    "model": "ZTE V890"
+  }
+ ],
+ "P616T03C": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE_Blade_X10_II_Pro",
+   "model": "ZTE T1006"
+  }
+ ],
+ "P616T02C": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE_Blade_X8_II_Pro",
+   "model": "ZTE_T0805"
   }
  ],
  "ZTE_V971LM": [
