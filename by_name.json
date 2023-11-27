@@ -39594,6 +39594,11 @@
    "brand": "CHAINWAY",
    "device": "C61P",
    "model": "C61"
+  },
+  {
+   "brand": "CHAINWAY",
+   "device": "C61P",
+   "model": "C61P"
   }
  ],
  "C66": [
@@ -181459,6 +181464,11 @@
   {
    "brand": "Samsung",
    "device": "a05s",
+   "model": "SM-A057M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a05s",
    "model": "SM-E145F"
   },
   {
@@ -231205,6 +231215,13 @@
    "model": "VZ-30"
   }
  ],
+ "A662LS": [
+  {
+   "brand": "VIMOQ",
+   "device": "VIMOQ-A662LS",
+   "model": "VIMOQ A662LS"
+  }
+ ],
  "VIMOQ  AC50": [
   {
    "brand": "VIMOQ",
@@ -262415,6 +262432,13 @@
    "model": "RMX3461"
   }
  ],
+ "realme Q5": [
+  {
+   "brand": "realme",
+   "device": "RE547D",
+   "model": "RMX3478"
+  }
+ ],
  "realme Q5 Pro": [
   {
    "brand": "realme",
@@ -262643,13 +262667,6 @@
    "brand": "realme",
    "device": "RMX2205CN",
    "model": "RMX2205"
-  }
- ],
- "真我 Q5": [
-  {
-   "brand": "realme",
-   "device": "RE547D",
-   "model": "RMX3478"
   }
  ],
  "真我 V20": [

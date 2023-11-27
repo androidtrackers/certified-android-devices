@@ -38085,6 +38085,11 @@
    "brand": "CHAINWAY",
    "name": "C61",
    "model": "C61"
+  },
+  {
+   "brand": "CHAINWAY",
+   "name": "C61",
+   "model": "C61P"
   }
  ],
  "C66": [
@@ -181206,6 +181211,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A05s",
+   "model": "SM-A057M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05s",
    "model": "SM-E145F"
   },
   {
@@ -233107,18 +233117,23 @@
    "model": "VZ-30"
   }
  ],
+ "VIMOQ-A662LS": [
+  {
+   "brand": "VIMOQ",
+   "name": "A662LS",
+   "model": "VIMOQ A662LS"
+  },
+  {
+   "brand": "VIMOQ",
+   "name": "VIMOQ A40",
+   "model": "VIMOQ A662LS"
+  }
+ ],
  "VIMOQ-A507LD": [
   {
    "brand": "VIMOQ",
    "name": "VIMOQ  AC50",
    "model": "VIMOQ A507LD"
-  }
- ],
- "VIMOQ-A662LS": [
-  {
-   "brand": "VIMOQ",
-   "name": "VIMOQ A40",
-   "model": "VIMOQ A662LS"
   }
  ],
  "VIMOQ-A507LT": [
@@ -264192,6 +264207,18 @@
    "model": "RMX3461"
   }
  ],
+ "RE547D": [
+  {
+   "brand": "realme",
+   "name": "realme Q5",
+   "model": "RMX3478"
+  },
+  {
+   "brand": "realme",
+   "name": "realme V25",
+   "model": "RMX3475"
+  }
+ ],
  "RE5477": [
   {
    "brand": "realme",
@@ -264225,18 +264252,6 @@
    "brand": "realme",
    "name": "realme V23",
    "model": "RMX3571"
-  }
- ],
- "RE547D": [
-  {
-   "brand": "realme",
-   "name": "realme V25",
-   "model": "RMX3475"
-  },
-  {
-   "brand": "realme",
-   "name": "真我 Q5",
-   "model": "RMX3478"
   }
  ],
  "RE584B": [

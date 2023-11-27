@@ -21887,6 +21887,11 @@
    "model": "C61"
   },
   {
+   "device": "C61P",
+   "name": "C61",
+   "model": "C61P"
+  },
+  {
    "device": "C66",
    "name": "C66",
    "model": "C66"
@@ -139747,6 +139752,11 @@
   {
    "device": "a05s",
    "name": "Galaxy A05s",
+   "model": "SM-A057M"
+  },
+  {
+   "device": "a05s",
+   "name": "Galaxy A05s",
    "model": "SM-E145F"
   },
   {
@@ -183911,6 +183921,11 @@
  ],
  "VIMOQ": [
   {
+   "device": "VIMOQ-A662LS",
+   "name": "A662LS",
+   "model": "VIMOQ A662LS"
+  },
+  {
    "device": "VIMOQ-A507LD",
    "name": "VIMOQ  AC50",
    "model": "VIMOQ A507LD"
@@ -211566,6 +211581,11 @@
    "model": "RMX3461"
   },
   {
+   "device": "RE547D",
+   "name": "realme Q5",
+   "model": "RMX3478"
+  },
+  {
    "device": "RE5477",
    "name": "realme Q5 Pro",
    "model": "RMX3372"
@@ -211774,11 +211794,6 @@
    "device": "RMX2205CN",
    "name": "真我 Q3 Pro 5G",
    "model": "RMX2205"
-  },
-  {
-   "device": "RE547D",
-   "name": "真我 Q5",
-   "model": "RMX3478"
   },
   {
    "device": "RE584B",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-26
+Last sync is 2023-11-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4243,6 +4243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C6000|C6000|C6000|
 |CHAINWAY|C61|C61|C61|
 |CHAINWAY|C61|C61P|C61|
+|CHAINWAY|C61|C61P|C61P|
 |CHAINWAY|C66|C66|C66|
 |CHAINWAY|C66_EEA|C66|C66|
 |CHAINWAY|C71|C71|C71|
@@ -27153,6 +27154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A05|a05m|SM-A055M|
 |Samsung|Galaxy A05s|a05s|SM-A057F|
 |Samsung|Galaxy A05s|a05s|SM-A057G|
+|Samsung|Galaxy A05s|a05s|SM-A057M|
 |Samsung|Galaxy A05s|a05s|SM-E145F|
 |Samsung|Galaxy A05s|a05s|SM-M145F|
 |Samsung|Galaxy A10|a10|SM-A105F|
@@ -35819,6 +35821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
 |VILLAON|V20|V20|V20|
+|VIMOQ|A662LS|VIMOQ-A662LS|VIMOQ A662LS|
 |VIMOQ|VIMOQ  AC50|VIMOQ-A507LD|VIMOQ A507LD|
 |VIMOQ|VIMOQ A40|VIMOQ-A662LS|VIMOQ A662LS|
 |VIMOQ|VIMOQ A507LT|VIMOQ-A507LT|VIMOQ A507LT|
@@ -41204,6 +41207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Q3 5G|RMX3161CN|RMX3161|
 |realme|realme Q3 Pro Play|RE811C|RMX3142|
 |realme|realme Q3s|RE548BL1|RMX3461|
+|realme|realme Q5|RE547D|RMX3478|
 |realme|realme Q5 Pro|RE5477|RMX3372|
 |realme|realme Q5i|RE873D|RMX3574|
 |realme|realme V15 5G|RMX3092CN|RMX3092|
@@ -41246,7 +41250,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 GT2 大师探索版|RE5465|RMX3551|
 |realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
-|realme|真我 Q5|RE547D|RMX3478|
 |realme|真我 V20|RE584B|RMX3610|
 |realme|真我 V20|RE584B|RMX3611|
 |realme|真我GT 2|RE5471|RMX3310|
