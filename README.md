@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-27
+Last sync is 2023-11-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -468,6 +468,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|B3-A32|acer_jetfirelte|B3-A32|
 |Acer|B3-A40|acer_asgard|B3-A40|
 |Acer|B3-A40FHD|acer_asgardfhd|B3-A40FHD|
+|Acer|Battlezone LTE|Battlezone_LTE|M10-12|
+|Acer|Battlezone LTE|Battlezone_LTE|M10-12_EEA|
 |Acer|Baymax|Baymax|EUT110-11A|
 |Acer|C01|acer_c01|C01|
 |Acer|C01 (PA)|acer_c01|C01|
@@ -1398,6 +1400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Arcelik|Arcelik Google TV QLED|wanchai|Arcelik Google TV QLED|
 |Arcelik|Arcelik Google TV UHD+|wanchai|Arcelik Google TV UHD+|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
+|Arcelik|Turkey|martin|Arcelik Android TV|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
 |Archos||A80S|ARCHOS 80G9|
@@ -3173,6 +3176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|T47_09|T47|T47_09|
 |BenQ|T55|T55|T55|
 |BenQ|TEY1A|TEY1A|TEY1A|
+|BenQ|TEY2A|TEY2A|TEY2A|
 |BenQ|laoshan_BenQ|laoshan|BENQANDROIDTV|
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
@@ -3577,6 +3581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt|sindang|BLAU-TVE19H|
 |Blaupunkt|Blaupunkt|tennoji|2K Blaupunkt Google TV|
 |Blaupunkt|Blaupunkt|zhongshan|Blaupunkt 4K Android TV|
+|Blaupunkt|Blaupunkt 2K Google TV|capitolhill|Blaupunkt 2K Google TV|
 |Blaupunkt|Blaupunkt 4K Google TV|keoneae|Blaupunkt 4K Google TV|
 |Blaupunkt|Blaupunkt Google TV|bandra|Blaupunkt Google TV|
 |Blaupunkt|Blaupunkt SL 01|Blaupunkt_SL_01|Blaupunkt SL 01|
@@ -3713,6 +3718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6L 2021|C0151WW|C6L 2021|
 |Blu|C6L 2021|C0152TT|C6L 2021|
 |Blu|C6L 2021|C0152WW|C6L 2021|
+|Blu|C6L MAX|C0200|C6L Max|
 |Blu|C6x|C090P|C6x|
 |Blu|C7|C250EQ|C7|
 |Blu|C7x|C290EQ|C7x|
@@ -3754,6 +3760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G0290WW|G0290WW|G80|
 |Blu|G33|G0890|G33|
 |Blu|G33|G0892|G33|
+|Blu|G33|G0892_SP|G33|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G5|G0090|G5|
@@ -7552,6 +7559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everpad|EW2022|EW2022|EW2022|
 |Everpad|HappyKids|HappyKids|HappyKids|
 |Everpad|SC730|EVERPAD-SC730|SC730|
+|Everpad|VORTEX_V10|VORTEX_V10|VORTEX_V10|
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|E8224HG|E8224HG|E8224HG|
 |Evertek|Hero|Hero|Hero|
@@ -14612,6 +14620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P40|itel-P662L|itel P662L|
 |Itel|itel P40+|itel-P683L|itel P683L|
 |Itel|itel P41|itel_P41|itel P41|
+|Itel|itel P55|itel-A666L|itel A666L|
 |Itel|itel P55 5G|itel-P661N|itel P661N|
 |Itel|itel P55+|itel-P663L|itel P663L|
 |Itel|itel P55T|itel-P665L|itel P665L|
@@ -21429,6 +21438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0P_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0R_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO0S_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO2E_M7_WIFI|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
@@ -22495,6 +22505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|B10|S6505LA|S6505L|
 |Nuu|B15|S6701LA|S6701L|
 |Nuu|B20|N6501LA|N6501L|
+|Nuu|B30 Pro|S6702XA|S6702X|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
 |Nuu|G4|N6201L|N6201L|
@@ -24852,6 +24863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T810|T810|Tab Q8 Lite|
 |Positivo|T810C|T810C|T810|
 |Positivo|TL10|TL10|Vaio TL10|
+|Positivo|TL10|TL10|Vaio TL10A|
 |Positivo|Tab Q10|T2050M|Tab Q10|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
@@ -37303,6 +37315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|LT750|LT750|LT750|
 |Walton|NEXG N71|NEXG_N71|NEXG N71|
 |Walton|NEXG N71 Plus|NEXG_N71_Plus|NEXG N71 Plus|
+|Walton|NEXG N8|NEXG_N8|NEXG N8|
 |Walton|Orbit M20|OrbitM20|Orbit M20|
 |Walton|Orbit Y11|Orbit_Y11|Orbit Y11|
 |Walton|Orbit Y20|OrbitY20|Orbit Y20|

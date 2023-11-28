@@ -5168,6 +5168,11 @@
    "model": "ASTEX 2K Google TV"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt 2K Google TV",
+   "model": "Blaupunkt 2K Google TV"
+  },
+  {
    "brand": "Decaview",
    "name": "Decaview 2K Google TV",
    "model": "Decaview  2K Google TV"
@@ -6702,6 +6707,11 @@
    "brand": "Altus",
    "name": "Turkey",
    "model": "Altus Android TV"
+  },
+  {
+   "brand": "Arcelik",
+   "name": "Turkey",
+   "model": "Arcelik Android TV"
   },
   {
    "brand": "Blaupunkt",
@@ -8581,6 +8591,18 @@
    "brand": "Acer",
    "name": "Iconia Tab 10",
    "model": "B3-A40FHD"
+  }
+ ],
+ "Battlezone_LTE": [
+  {
+   "brand": "Acer",
+   "name": "Battlezone LTE",
+   "model": "M10-12"
+  },
+  {
+   "brand": "Acer",
+   "name": "Battlezone LTE",
+   "model": "M10-12_EEA"
   }
  ],
  "Baymax": [
@@ -30562,6 +30584,13 @@
    "model": "TEY1A"
   }
  ],
+ "TEY2A": [
+  {
+   "brand": "BenQ",
+   "name": "TEY2A",
+   "model": "TEY2A"
+  }
+ ],
  "TAB-A03-BR": [
   {
    "brand": "Benesse",
@@ -34587,6 +34616,13 @@
    "model": "C6L 2021"
   }
  ],
+ "C0200": [
+  {
+   "brand": "Blu",
+   "name": "C6L MAX",
+   "model": "C6L Max"
+  }
+ ],
  "C090P": [
   {
    "brand": "Blu",
@@ -34857,6 +34893,13 @@
   }
  ],
  "G0892": [
+  {
+   "brand": "Blu",
+   "name": "G33",
+   "model": "G33"
+  }
+ ],
+ "G0892_SP": [
   {
    "brand": "Blu",
    "name": "G33",
@@ -61504,6 +61547,13 @@
    "brand": "Everpad",
    "name": "SC730",
    "model": "SC730"
+  }
+ ],
+ "VORTEX_V10": [
+  {
+   "brand": "Everpad",
+   "name": "VORTEX_V10",
+   "model": "VORTEX_V10"
   }
  ],
  "E7224HG": [
@@ -105039,6 +105089,13 @@
    "model": "itel P41"
   }
  ],
+ "itel-A666L": [
+  {
+   "brand": "Itel",
+   "name": "itel P55",
+   "model": "itel A666L"
+  }
+ ],
  "itel-P661N": [
   {
    "brand": "Itel",
@@ -146581,6 +146638,13 @@
    "model": "M7_WIFI"
   }
  ],
+ "ML_SO0S_M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
  "ML_SO1E_M7_Wifi": [
   {
    "brand": "Multilaser",
@@ -153283,6 +153347,13 @@
    "brand": "Nuu",
    "name": "B20",
    "model": "N6501L"
+  }
+ ],
+ "S6702XA": [
+  {
+   "brand": "Nuu",
+   "name": "B30 Pro",
+   "model": "S6702X"
   }
  ],
  "N5704LA": [
@@ -167743,6 +167814,11 @@
    "brand": "Positivo",
    "name": "TL10",
    "model": "Vaio TL10"
+  },
+  {
+   "brand": "Positivo",
+   "name": "TL10",
+   "model": "Vaio TL10A"
   }
  ],
  "T2050M": [
@@ -242010,6 +242086,13 @@
    "brand": "Walton",
    "name": "NEXG N71 Plus",
    "model": "NEXG N71 Plus"
+  }
+ ],
+ "NEXG_N8": [
+  {
+   "brand": "Walton",
+   "name": "NEXG N8",
+   "model": "NEXG N8"
   }
  ],
  "OrbitM20": [

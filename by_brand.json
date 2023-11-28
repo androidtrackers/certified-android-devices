@@ -2506,6 +2506,16 @@
    "model": "B3-A40FHD"
   },
   {
+   "device": "Battlezone_LTE",
+   "name": "Battlezone LTE",
+   "model": "M10-12"
+  },
+  {
+   "device": "Battlezone_LTE",
+   "name": "Battlezone LTE",
+   "model": "M10-12_EEA"
+  },
+  {
    "device": "Baymax",
    "name": "Baymax",
    "model": "EUT110-11A"
@@ -7296,6 +7306,11 @@
    "device": "arcelik_eu",
    "name": "B55L 9682 5AS",
    "model": "arcelik_uhd_powermax_at"
+  },
+  {
+   "device": "martin",
+   "name": "Turkey",
+   "model": "Arcelik Android TV"
   }
  ],
  "Archos": [
@@ -16379,6 +16394,11 @@
    "model": "TEY1A"
   },
   {
+   "device": "TEY2A",
+   "name": "TEY2A",
+   "model": "TEY2A"
+  },
+  {
    "device": "laoshan",
    "name": "laoshan_BenQ",
    "model": "BENQANDROIDTV"
@@ -18459,6 +18479,11 @@
    "model": "Blaupunkt 4K Android TV"
   },
   {
+   "device": "capitolhill",
+   "name": "Blaupunkt 2K Google TV",
+   "model": "Blaupunkt 2K Google TV"
+  },
+  {
    "device": "keoneae",
    "name": "Blaupunkt 4K Google TV",
    "model": "Blaupunkt 4K Google TV"
@@ -19141,6 +19166,11 @@
    "model": "C6L 2021"
   },
   {
+   "device": "C0200",
+   "name": "C6L MAX",
+   "model": "C6L Max"
+  },
+  {
    "device": "C090P",
    "name": "C6x",
    "model": "C6x"
@@ -19342,6 +19372,11 @@
   },
   {
    "device": "G0892",
+   "name": "G33",
+   "model": "G33"
+  },
+  {
+   "device": "G0892_SP",
    "name": "G33",
    "model": "G33"
   },
@@ -39170,6 +39205,11 @@
    "device": "EVERPAD-SC730",
    "name": "SC730",
    "model": "SC730"
+  },
+  {
+   "device": "VORTEX_V10",
+   "name": "VORTEX_V10",
+   "model": "VORTEX_V10"
   }
  ],
  "Evertek": [
@@ -75258,6 +75298,11 @@
    "model": "itel P41"
   },
   {
+   "device": "itel-A666L",
+   "name": "itel P55",
+   "model": "itel A666L"
+  },
+  {
    "device": "itel-P661N",
    "name": "itel P55 5G",
    "model": "itel P661N"
@@ -110157,6 +110202,11 @@
    "model": "M7_WIFI"
   },
   {
+   "device": "ML_SO0S_M7_WIFI",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  },
+  {
    "device": "ML_SO1E_M7_Wifi",
    "name": "M7 WIFI",
    "model": "M7_WIFI"
@@ -115695,6 +115745,11 @@
    "device": "N6501LA",
    "name": "B20",
    "model": "N6501L"
+  },
+  {
+   "device": "S6702XA",
+   "name": "B30 Pro",
+   "model": "S6702X"
   },
   {
    "device": "N5704LA",
@@ -127802,6 +127857,11 @@
    "device": "TL10",
    "name": "TL10",
    "model": "Vaio TL10"
+  },
+  {
+   "device": "TL10",
+   "name": "TL10",
+   "model": "Vaio TL10A"
   },
   {
    "device": "T2050M",
@@ -191529,6 +191589,11 @@
    "device": "NEXG_N71_Plus",
    "name": "NEXG N71 Plus",
    "model": "NEXG N71 Plus"
+  },
+  {
+   "device": "NEXG_N8",
+   "name": "NEXG N8",
+   "model": "NEXG N8"
   },
   {
    "device": "OrbitM20",

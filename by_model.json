@@ -5649,6 +5649,20 @@
    "device": "acer_asgardfhd"
   }
  ],
+ "M10-12": [
+  {
+   "brand": "Acer",
+   "name": "Battlezone LTE",
+   "device": "Battlezone_LTE"
+  }
+ ],
+ "M10-12_EEA": [
+  {
+   "brand": "Acer",
+   "name": "Battlezone LTE",
+   "device": "Battlezone_LTE"
+  }
+ ],
  "EUT110-11A": [
   {
    "brand": "Acer",
@@ -13441,6 +13455,28 @@
    "device": "arcelik_eu"
   }
  ],
+ "Arcelik Android TV": [
+  {
+   "brand": "Arcelik",
+   "name": "Turkey",
+   "device": "martin"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arcelik Android TV",
+   "device": "shinagawa"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
+   "device": "kunyang"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
+   "device": "sinchon"
+  }
+ ],
  "ARCHOS 101G9": [
   {
    "brand": "Archos",
@@ -16151,23 +16187,6 @@
    "brand": "Artizlee",
    "name": "Artizlee S9",
    "device": "Artizlee_S9"
-  }
- ],
- "Arcelik Android TV": [
-  {
-   "brand": "Arçelik",
-   "name": "Arcelik Android TV",
-   "device": "shinagawa"
-  },
-  {
-   "brand": "Arçelik",
-   "name": "Arçelik Android TV",
-   "device": "kunyang"
-  },
-  {
-   "brand": "Arçelik",
-   "name": "Arçelik Android TV",
-   "device": "sinchon"
   }
  ],
  "Arcelik Android UHD TV": [
@@ -25809,6 +25828,13 @@
    "device": "TEY1A"
   }
  ],
+ "TEY2A": [
+  {
+   "brand": "BenQ",
+   "name": "TEY2A",
+   "device": "TEY2A"
+  }
+ ],
  "BENQANDROIDTV": [
   {
    "brand": "BenQ",
@@ -28864,6 +28890,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "Blaupunkt 2K Google TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt 2K Google TV",
+   "device": "capitolhill"
+  }
+ ],
  "Blaupunkt 4K Google TV": [
   {
    "brand": "Blaupunkt",
@@ -29751,6 +29784,13 @@
    "device": "C0152WW"
   }
  ],
+ "C6L Max": [
+  {
+   "brand": "Blu",
+   "name": "C6L MAX",
+   "device": "C0200"
+  }
+ ],
  "C6x": [
   {
    "brand": "Blu",
@@ -30021,6 +30061,11 @@
    "brand": "Blu",
    "name": "G33",
    "device": "G0892"
+  },
+  {
+   "brand": "Blu",
+   "name": "G33",
+   "device": "G0892_SP"
   }
  ],
  "G40": [
@@ -57059,6 +57104,13 @@
    "brand": "Everpad",
    "name": "SC730",
    "device": "EVERPAD-SC730"
+  }
+ ],
+ "VORTEX_V10": [
+  {
+   "brand": "Everpad",
+   "name": "VORTEX_V10",
+   "device": "VORTEX_V10"
   }
  ],
  "E7224HG": [
@@ -104453,6 +104505,13 @@
    "device": "itel_P41"
   }
  ],
+ "itel A666L": [
+  {
+   "brand": "Itel",
+   "name": "itel P55",
+   "device": "itel-A666L"
+  }
+ ],
  "itel P661N": [
   {
    "brand": "Itel",
@@ -148454,6 +148513,11 @@
   {
    "brand": "Multilaser",
    "name": "M7 WIFI",
+   "device": "ML_SO0S_M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
    "device": "ML_SO1E_M7_Wifi"
   },
   {
@@ -155160,6 +155224,13 @@
    "brand": "Nuu",
    "name": "B20",
    "device": "N6501LA"
+  }
+ ],
+ "S6702X": [
+  {
+   "brand": "Nuu",
+   "name": "B30 Pro",
+   "device": "S6702XA"
   }
  ],
  "N5704L": [
@@ -170198,6 +170269,13 @@
   }
  ],
  "Vaio TL10": [
+  {
+   "brand": "Positivo",
+   "name": "TL10",
+   "device": "TL10"
+  }
+ ],
+ "Vaio TL10A": [
   {
    "brand": "Positivo",
    "name": "TL10",
@@ -251381,6 +251459,13 @@
    "brand": "Walton",
    "name": "NEXG N71 Plus",
    "device": "NEXG_N71_Plus"
+  }
+ ],
+ "NEXG N8": [
+  {
+   "brand": "Walton",
+   "name": "NEXG N8",
+   "device": "NEXG_N8"
   }
  ],
  "Orbit M20": [
