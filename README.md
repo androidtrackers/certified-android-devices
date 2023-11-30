@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-29
+Last sync is 2023-11-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5031,6 +5031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cogeco|TV|uiw4020cog|TV|
 |CoinComputers|1100AS_plus|1100AS_plus|1100AS_plus|
 |CoinComputers|1200AS|1200AS|1200AS|
+|CoinComputers|1200AS_plus|1200AS_plus|1200AS_plus|
 |CoinComputers|TF10EA2|TF10EA2_5|TF10EA2|
 |ColorsMobile|P40_Pride_1|P40_Pride_1|P40_Pride_1|
 |ColorsMobile|P45|Colors_P45|Colors P45|
@@ -14993,6 +14994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|ZKEMPLER11PRO|ZKEMPLER11PRO|ZKEMPLER11PRO|
 |KEMPLER STRAUSS|ZKEMPLER_11|ZKEMPLER_11|ZKEMPLER_11|
 |KEMPLER STRAUSS|ZKEMPLER_PLUS|ZKEMPLER_PLUS|ZKEMPLER PLUS|
+|KENSHI|Armor_P1s|Armor_P1s|Armor P1s|
 |KENSHI|E17_RU|E17|E17|
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
@@ -22721,6 +22723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Obi|OBJ SJ1.5|SJ1-5|SJ1-5|
 |Oceusnetworks|Xiphos®TMD|granite|Xiphos(R)TMD|
 |Octopus|Octopus_One|Octopus_One|Octopus_One|
+|Odido|4K TV Box|SEI800TFAS|4K TV Box|
 |Odotpad|FIRE_V7|FIRE_V7|FIRE_V7|
 |Odys|UNO X10|UNO_X10|UNO X10|
 |Odys|UNO X8|UNO_X8|UNO_X8|
@@ -35371,6 +35374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 20WT|Armor_20WT|Armor 20WT|
 |Ulefone|Armor 21|Armor_21|Armor 21|
 |Ulefone|Armor 22|Armor_22|Armor 22|
+|Ulefone|Armor 23 Ultra|Armor_23_Ultra|Armor 23 Ultra|
 |Ulefone|Armor 24|Armor_24|Armor 24|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
@@ -35436,7 +35440,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 13P|Note_13P|Note 13P|
 |Ulefone|Note 14|Note_14|Note 14|
 |Ulefone|Note 15|Note_15|Note 15|
+|Ulefone|Note 16 Pro|GQ3106|Note 16 Pro|
 |Ulefone|Note 16 Pro|Note_16_Pro|Note 16 Pro|
+|Ulefone|Note 17 Pro|Note_17_Pro|Note 17 Pro|
 |Ulefone|Note 6|Note_6|Note 6|
 |Ulefone|Note 6P|Note_6P|Note 6P|
 |Ulefone|Note 6T|Note_6T|Note 6T|
@@ -41107,6 +41113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3268|RED8D7|RMX3268|
 |realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|
+|realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|

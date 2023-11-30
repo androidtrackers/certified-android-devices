@@ -39288,6 +39288,13 @@
    "device": "1200AS"
   }
  ],
+ "1200AS_plus": [
+  {
+   "brand": "CoinComputers",
+   "name": "1200AS_plus",
+   "device": "1200AS_plus"
+  }
+ ],
  "TF10EA2": [
   {
    "brand": "CoinComputers",
@@ -106819,6 +106826,13 @@
    "device": "ZKEMPLER_PLUS"
   }
  ],
+ "Armor P1s": [
+  {
+   "brand": "KENSHI",
+   "name": "Armor_P1s",
+   "device": "Armor_P1s"
+  }
+ ],
  "E17": [
   {
    "brand": "KENSHI",
@@ -156371,6 +156385,13 @@
    "brand": "Octopus",
    "name": "Octopus_One",
    "device": "Octopus_One"
+  }
+ ],
+ "4K TV Box": [
+  {
+   "brand": "Odido",
+   "name": "4K TV Box",
+   "device": "SEI800TFAS"
   }
  ],
  "FIRE_V7": [
@@ -239384,6 +239405,13 @@
    "device": "Armor_22"
   }
  ],
+ "Armor 23 Ultra": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 23 Ultra",
+   "device": "Armor_23_Ultra"
+  }
+ ],
  "Armor 24": [
   {
    "brand": "Ulefone",
@@ -239778,7 +239806,19 @@
   {
    "brand": "Ulefone",
    "name": "Note 16 Pro",
+   "device": "GQ3106"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Note 16 Pro",
    "device": "Note_16_Pro"
+  }
+ ],
+ "Note 17 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 17 Pro",
+   "device": "Note_17_Pro"
   }
  ],
  "Note 6": [
@@ -275360,6 +275400,23 @@
    "device": "REE2ADL1"
   }
  ],
+ "RMX3771": [
+  {
+   "brand": "realme",
+   "name": "RMX3771",
+   "device": "RE58B8L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 10 Pro 5G",
+   "device": "RE58B8L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 11 Pro 5G",
+   "device": "RE58B8L1"
+  }
+ ],
  "RMX3782": [
   {
    "brand": "realme",
@@ -275493,18 +275550,6 @@
    "brand": "realme",
    "name": "realme 10 Pro 5G",
    "device": "RE588BL1"
-  }
- ],
- "RMX3771": [
-  {
-   "brand": "realme",
-   "name": "realme 10 Pro 5G",
-   "device": "RE58B8L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 11 Pro 5G",
-   "device": "RE58B8L1"
   }
  ],
  "RMX3687": [

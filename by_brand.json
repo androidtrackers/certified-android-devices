@@ -26049,6 +26049,11 @@
    "model": "1200AS"
   },
   {
+   "device": "1200AS_plus",
+   "name": "1200AS_plus",
+   "model": "1200AS_plus"
+  },
+  {
    "device": "TF10EA2_5",
    "name": "TF10EA2",
    "model": "TF10EA2"
@@ -77271,6 +77276,11 @@
  ],
  "KENSHI": [
   {
+   "device": "Armor_P1s",
+   "name": "Armor_P1s",
+   "model": "Armor P1s"
+  },
+  {
    "device": "E17",
    "name": "E17_RU",
    "model": "E17"
@@ -116899,6 +116909,13 @@
    "device": "Octopus_One",
    "name": "Octopus_One",
    "model": "Octopus_One"
+  }
+ ],
+ "Odido": [
+  {
+   "device": "SEI800TFAS",
+   "name": "4K TV Box",
+   "model": "4K TV Box"
   }
  ],
  "Odotpad": [
@@ -181583,6 +181600,11 @@
    "model": "Armor 22"
   },
   {
+   "device": "Armor_23_Ultra",
+   "name": "Armor 23 Ultra",
+   "model": "Armor 23 Ultra"
+  },
+  {
    "device": "Armor_24",
    "name": "Armor 24",
    "model": "Armor 24"
@@ -181908,9 +181930,19 @@
    "model": "Note 15"
   },
   {
+   "device": "GQ3106",
+   "name": "Note 16 Pro",
+   "model": "Note 16 Pro"
+  },
+  {
    "device": "Note_16_Pro",
    "name": "Note 16 Pro",
    "model": "Note 16 Pro"
+  },
+  {
+   "device": "Note_17_Pro",
+   "name": "Note 17 Pro",
+   "model": "Note 17 Pro"
   },
   {
    "device": "Note_6",
@@ -211079,6 +211111,11 @@
    "device": "REE2ADL1",
    "name": "RMX3710",
    "model": "RMX3710"
+  },
+  {
+   "device": "RE58B8L1",
+   "name": "RMX3771",
+   "model": "RMX3771"
   },
   {
    "device": "RE5C6CL1",
