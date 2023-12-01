@@ -57386,6 +57386,11 @@
    "model": "T20"
   },
   {
+   "brand": "Wiko",
+   "device": "T20",
+   "model": "Aix-AN00"
+  },
+  {
    "brand": "Xstar",
    "device": "T20",
    "model": "T20"
@@ -60769,6 +60774,13 @@
    "brand": "ESI Enterprises",
    "device": "Trinity_T900",
    "model": "Trinity T900"
+  }
+ ],
+ "HCB_5186": [
+  {
+   "brand": "ESOL",
+   "device": "Interactive_White_Board",
+   "model": "HCB_5186"
   }
  ],
  "HERO-SP001": [
@@ -101667,6 +101679,13 @@
    "model": "Infinix X6525"
   }
  ],
+ "Infinix SMART 8 Plus": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6526",
+   "model": "Infinix X6526"
+  }
+ ],
  "Infinix X5010": [
   {
    "brand": "Infinix",
@@ -105613,6 +105632,13 @@
    "brand": "Panasonic",
    "device": "P51",
    "model": "Panasonic P51"
+  }
+ ],
+ "Pad  1 mini": [
+  {
+   "brand": "Itel",
+   "device": "itel-IKP-31",
+   "model": "IKP-31"
   }
  ],
  "Pad1": [
@@ -226655,6 +226681,13 @@
    "model": "N8 KIDS"
   }
  ],
+ "SK210": [
+  {
+   "brand": "Topwise",
+   "device": "SK210",
+   "model": "SK210"
+  }
+ ],
  "Rugged_tablets": [
   {
    "brand": "Torex",
@@ -231084,6 +231117,13 @@
    "brand": "Urovo",
    "device": "SQ47",
    "model": "RT40"
+  }
+ ],
+ "RT40S": [
+  {
+   "brand": "Urovo",
+   "device": "RT40S",
+   "model": "RT40S"
   }
  ],
  "i6200Series": [
@@ -237230,6 +237270,13 @@
    "brand": "Vivo",
    "device": "Y28",
    "model": "vivo Y28"
+  }
+ ],
+ "Y28 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2315",
+   "model": "V2315"
   }
  ],
  "Y30 5G": [

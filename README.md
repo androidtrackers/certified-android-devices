@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-11-30
+Last sync is 2023-12-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7117,6 +7117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ESI Enterprises|Monster M7 Tablet|MONSTERM7|M7|
 |ESI Enterprises|Trinity T101|Trinity_T101|Trinity T101|
 |ESI Enterprises|Trinity T900|Trinity_T900|Trinity T900|
+|ESOL|HCB_5186|Interactive_White_Board|HCB_5186|
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
 |ETERNITY|HEROSP001|HEROSP001|SP-001|
 |ETG（G）|ETG-BT1121|ETG-BT1121|ETG-BT1121|
@@ -13841,6 +13842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 7 HD|Infinix-X6516|Infinix X6516|
 |Infinix|Infinix SMART 8|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix SMART 8 HD|Infinix-X6525|Infinix X6525|
+|Infinix|Infinix SMART 8 Plus|Infinix-X6526|Infinix X6526|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -14475,6 +14477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P37 Pro（Vision2 Plus）|itel-P681LM|itel P681LM|
 |Itel|P38|itel-P661W|itel P661W|
 |Itel|P51|P51|itel P51|
+|Itel|Pad  1 mini|itel-IKP-31|IKP-31|
 |Itel|Pad1|itel-P10001L|itel P10001L|
 |Itel|Prime 4|itel_Prime4|itel Prime 4|
 |Itel|S11|S11|itel S11|
@@ -35065,6 +35068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topsand|N10|N10_T|N10|
 |Topsand|N8|N8|N8|
 |Topsand|N8_KIDS|N8_KIDS|N8 KIDS|
+|Topwise|SK210|SK210|SK210|
 |Torex|Rugged_tablets|Torex8plus|Torex8plus|
 |Toshiba||WDPF-703TI|Hikari-iFrame/WDPF-703TI|
 |Toshiba||tosebook01|DB50|
@@ -35793,6 +35797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|DT50 5G|DT50_5G|DT50_5G|
 |Urovo|P8100|P8100|P8100|
 |Urovo|RT40|SQ47|RT40|
+|Urovo|RT40S|RT40S|RT40S|
 |Urovo|U2|SQ46M|U2|
 |Urovo|i6200Series|i6200Series|i6200Series|
 |Urovo|i6310|i6310|i6310|
@@ -36808,6 +36813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y27s|V2247|V2322|
 |Vivo|Y27s|V2247|V2335|
 |Vivo|Y28|Y28|vivo Y28|
+|Vivo|Y28 5G|V2315|V2315|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
@@ -37608,6 +37614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Sunny5 Lite|W-K211|W-K211-TH|
 |Wiko|Sunny5 Lite|W-K211|W-K211-TVM|
 |Wiko|T10|W-V673|WIKO T10|
+|Wiko|T20|T20|Aix-AN00|
 |Wiko|T3|W-V770|W-V770|
 |Wiko|T50|W-P861|WIKO T50|
 |Wiko|T60|T60|T60|

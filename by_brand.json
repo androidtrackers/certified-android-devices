@@ -36859,6 +36859,13 @@
    "model": "Trinity T900"
   }
  ],
+ "ESOL": [
+  {
+   "device": "Interactive_White_Board",
+   "name": "HCB_5186",
+   "model": "HCB_5186"
+  }
+ ],
  "ETERNITY": [
   {
    "device": "HERO-SP001",
@@ -71349,6 +71356,11 @@
    "model": "Infinix X6525"
   },
   {
+   "device": "Infinix-X6526",
+   "name": "Infinix SMART 8 Plus",
+   "model": "Infinix X6526"
+  },
+  {
    "device": "Infinix-X5010",
    "name": "Infinix X5010",
    "model": "Infinix X5010"
@@ -74571,6 +74583,11 @@
    "device": "P51",
    "name": "P51",
    "model": "itel P51"
+  },
+  {
+   "device": "itel-IKP-31",
+   "name": "Pad  1 mini",
+   "model": "IKP-31"
   },
   {
    "device": "itel-P10001L",
@@ -179945,6 +179962,13 @@
    "model": "N8 KIDS"
   }
  ],
+ "Topwise": [
+  {
+   "device": "SK210",
+   "name": "SK210",
+   "model": "SK210"
+  }
+ ],
  "Torex": [
   {
    "device": "Torex8plus",
@@ -183739,6 +183763,11 @@
    "device": "SQ47",
    "name": "RT40",
    "model": "RT40"
+  },
+  {
+   "device": "RT40S",
+   "name": "RT40S",
+   "model": "RT40S"
   },
   {
    "device": "SQ46M",
@@ -188978,6 +189007,11 @@
    "model": "vivo Y28"
   },
   {
+   "device": "V2315",
+   "name": "Y28 5G",
+   "model": "V2315"
+  },
+  {
    "device": "2160",
    "name": "Y30 5G",
    "model": "V2160"
@@ -193098,6 +193132,11 @@
    "device": "W-V673",
    "name": "T10",
    "model": "WIKO T10"
+  },
+  {
+   "device": "T20",
+   "name": "T20",
+   "model": "Aix-AN00"
   },
   {
    "device": "W-V770",

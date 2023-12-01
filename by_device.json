@@ -58712,6 +58712,13 @@
    "model": "Trinity T900"
   }
  ],
+ "Interactive_White_Board": [
+  {
+   "brand": "ESOL",
+   "name": "HCB_5186",
+   "model": "HCB_5186"
+  }
+ ],
  "HERO-SP001": [
   {
    "brand": "ETERNITY",
@@ -100046,6 +100053,13 @@
    "model": "Infinix X6525"
   }
  ],
+ "Infinix-X6526": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 Plus",
+   "model": "Infinix X6526"
+  }
+ ],
  "Infinix-X5010": [
   {
    "brand": "Infinix",
@@ -104173,6 +104187,18 @@
    "model": "Panasonic P51"
   }
  ],
+ "itel-IKP-31": [
+  {
+   "brand": "Itel",
+   "name": "Pad  1 mini",
+   "model": "IKP-31"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel-IKP-31",
+   "model": "IKP-31"
+  }
+ ],
  "itel-P10001L": [
   {
    "brand": "Itel",
@@ -105353,13 +105379,6 @@
    "brand": "Itel",
    "name": "itel W5503",
    "model": "itel W5503"
-  }
- ],
- "itel-IKP-31": [
-  {
-   "brand": "Itel",
-   "name": "itel-IKP-31",
-   "model": "IKP-31"
   }
  ],
  "TM705": [
@@ -152963,6 +152982,11 @@
    "brand": "WONGKUO",
    "name": "T20",
    "model": "T20"
+  },
+  {
+   "brand": "Wiko",
+   "name": "T20",
+   "model": "Aix-AN00"
   },
   {
    "brand": "Xstar",
@@ -228833,6 +228857,13 @@
    "model": "N8 KIDS"
   }
  ],
+ "SK210": [
+  {
+   "brand": "Topwise",
+   "name": "SK210",
+   "model": "SK210"
+  }
+ ],
  "Torex8plus": [
   {
    "brand": "Torex",
@@ -232962,6 +232993,13 @@
    "brand": "Urovo",
    "name": "RT40",
    "model": "RT40"
+  }
+ ],
+ "RT40S": [
+  {
+   "brand": "Urovo",
+   "name": "RT40S",
+   "model": "RT40S"
   }
  ],
  "SQ46M": [
@@ -239078,6 +239116,13 @@
    "brand": "Vivo",
    "name": "vivo Y28",
    "model": "vivo Y28"
+  }
+ ],
+ "V2315": [
+  {
+   "brand": "Vivo",
+   "name": "Y28 5G",
+   "model": "V2315"
   }
  ],
  "2160": [

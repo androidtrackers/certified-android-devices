@@ -54030,6 +54030,13 @@
    "device": "Trinity_T900"
   }
  ],
+ "HCB_5186": [
+  {
+   "brand": "ESOL",
+   "name": "HCB_5186",
+   "device": "Interactive_White_Board"
+  }
+ ],
  "HERO-SP001": [
   {
    "brand": "ETERNITY",
@@ -99369,6 +99376,13 @@
    "device": "Infinix-X6525"
   }
  ],
+ "Infinix X6526": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 Plus",
+   "device": "Infinix-X6526"
+  }
+ ],
  "Infinix X5010": [
   {
    "brand": "Infinix",
@@ -103553,6 +103567,18 @@
    "device": "P51"
   }
  ],
+ "IKP-31": [
+  {
+   "brand": "Itel",
+   "name": "Pad  1 mini",
+   "device": "itel-IKP-31"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel-IKP-31",
+   "device": "itel-IKP-31"
+  }
+ ],
  "itel P10001L": [
   {
    "brand": "Itel",
@@ -104759,13 +104785,6 @@
    "brand": "Itel",
    "name": "itel W5503",
    "device": "itel-W5503"
-  }
- ],
- "IKP-31": [
-  {
-   "brand": "Itel",
-   "name": "itel-IKP-31",
-   "device": "itel-IKP-31"
   }
  ],
  "SC40": [
@@ -237533,6 +237552,13 @@
    "device": "N8_KIDS"
   }
  ],
+ "SK210": [
+  {
+   "brand": "Topwise",
+   "name": "SK210",
+   "device": "SK210"
+  }
+ ],
  "Torex8plus": [
   {
    "brand": "Torex",
@@ -241855,6 +241881,13 @@
    "brand": "Urovo",
    "name": "RT40",
    "device": "SQ47"
+  }
+ ],
+ "RT40S": [
+  {
+   "brand": "Urovo",
+   "name": "RT40S",
+   "device": "RT40S"
   }
  ],
  "i6200Series": [
@@ -248347,6 +248380,13 @@
    "device": "Y28"
   }
  ],
+ "V2315": [
+  {
+   "brand": "Vivo",
+   "name": "Y28 5G",
+   "device": "V2315"
+  }
+ ],
  "V2160": [
   {
    "brand": "Vivo",
@@ -253316,6 +253356,13 @@
    "brand": "Wiko",
    "name": "T10",
    "device": "W-V673"
+  }
+ ],
+ "Aix-AN00": [
+  {
+   "brand": "Wiko",
+   "name": "T20",
+   "device": "T20"
   }
  ],
  "W-V770": [
