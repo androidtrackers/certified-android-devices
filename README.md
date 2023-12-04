@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-03
+Last sync is 2023-12-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1851,6 +1851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|GEM|GEM|GEM|
 |Aspera|JAZZ|Jazz|Jazz|
 |Aspera|Jazz_2|Jazz_2|Jazz 2|
+|Aspera|Nitro2|Nitro2|Nitro2|
 |Aspera|Wren|Wren|Wren|
 |Astak|NEOS|Wenu|NEOS|
 |Astro|Genesis_S8|Astro_Genesis_S8|Genesis_S8|
@@ -11469,6 +11470,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7a|HNRKY-M1|RKY-LX1|
 |Honor|HONOR X7a|HNRKY-M1|RKY-LX2|
 |Honor|HONOR X7a|HNRKY-M1|RKY-LX3|
+|Honor|HONOR X7b|HNCLK-Q|CLK-LX1|
+|Honor|HONOR X7b|HNCLK-Q|CLK-LX2|
+|Honor|HONOR X7b|HNCLK-Q|CLK-LX3|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -21177,6 +21181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g53 5G|penang|moto g53 5G|
 |Motorola|moto g53j 5G|penang|moto g53j 5G|
 |Motorola|moto g53y 5G|penang|moto g53y 5G|
+|Motorola|moto g54 5G|cancunf|XT2343-3|
 |Motorola|moto g54 5G|cancunf|moto g54 5G|
 |Motorola|moto g54 5G|cancunf|moto g73 5G|
 |Motorola|moto g6 play|jeter|Moto G Play|
@@ -38519,6 +38524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
 |ZMBIZI|ZMBIZI Z2|ZMBIZI_Z2|ZMBIZI Z2|
+|ZOLON|L16XX|L16XX|L16XX|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
 |ZOLON|M9200|M9200|M9200|

@@ -9601,6 +9601,11 @@
    "model": "Jazz 2"
   },
   {
+   "device": "Nitro2",
+   "name": "Nitro2",
+   "model": "Nitro2"
+  },
+  {
    "device": "Wren",
    "name": "Wren",
    "model": "Wren"
@@ -59329,6 +59334,21 @@
    "model": "RKY-LX3"
   },
   {
+   "device": "HNCLK-Q",
+   "name": "HONOR X7b",
+   "model": "CLK-LX1"
+  },
+  {
+   "device": "HNCLK-Q",
+   "name": "HONOR X7b",
+   "model": "CLK-LX2"
+  },
+  {
+   "device": "HNCLK-Q",
+   "name": "HONOR X7b",
+   "model": "CLK-LX3"
+  },
+  {
    "device": "HNTFY-Q",
    "name": "HONOR X8",
    "model": "TFY-LX1"
@@ -108861,6 +108881,11 @@
    "device": "penang",
    "name": "moto g53y 5G",
    "model": "moto g53y 5G"
+  },
+  {
+   "device": "cancunf",
+   "name": "moto g54 5G",
+   "model": "XT2343-3"
   },
   {
    "device": "cancunf",
@@ -197846,6 +197871,11 @@
   }
  ],
  "ZOLON": [
+  {
+   "device": "L16XX",
+   "name": "L16XX",
+   "model": "L16XX"
+  },
   {
    "device": "M30",
    "name": "M30",

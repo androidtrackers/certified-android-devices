@@ -21620,6 +21620,13 @@
    "model": "Jazz 2"
   }
  ],
+ "Nitro2": [
+  {
+   "brand": "Aspera",
+   "device": "Nitro2",
+   "model": "Nitro2"
+  }
+ ],
  "Wren": [
   {
    "brand": "Aspera",
@@ -89178,6 +89185,23 @@
    "model": "RKY-LX3"
   }
  ],
+ "HONOR X7b": [
+  {
+   "brand": "Honor",
+   "device": "HNCLK-Q",
+   "model": "CLK-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNCLK-Q",
+   "model": "CLK-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNCLK-Q",
+   "model": "CLK-LX3"
+  }
+ ],
  "HONOR X8": [
   {
    "brand": "Honor",
@@ -144823,6 +144847,11 @@
   }
  ],
  "moto g54 5G": [
+  {
+   "brand": "Motorola",
+   "device": "cancunf",
+   "model": "XT2343-3"
+  },
   {
    "brand": "Motorola",
    "device": "cancunf",
@@ -247571,6 +247600,13 @@
    "brand": "ZMBIZI",
    "device": "ZMBIZI_Z2",
    "model": "ZMBIZI Z2"
+  }
+ ],
+ "L16XX": [
+  {
+   "brand": "ZOLON",
+   "device": "L16XX",
+   "model": "L16XX"
   }
  ],
  "M9200": [
