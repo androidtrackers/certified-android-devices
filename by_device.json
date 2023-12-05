@@ -12065,6 +12065,293 @@
    "model": "ABMS Android TV"
   }
  ],
+ "SW6H": [
+  {
+   "brand": "Aiwa",
+   "name": "AIWA TV",
+   "model": "AIWA TV"
+  },
+  {
+   "brand": "Akai",
+   "name": "AKAI 4K SMART TV",
+   "model": "AKAI 4K SMART TV"
+  },
+  {
+   "brand": "Asanzo",
+   "name": "EX FF Series",
+   "model": "EX FF Series"
+  },
+  {
+   "brand": "Asanzo",
+   "name": "EX Series",
+   "model": "EX Series"
+  },
+  {
+   "brand": "Britania",
+   "name": "Britania Smart plus TV",
+   "model": "Britania Smart plus TV"
+  },
+  {
+   "brand": "COEX",
+   "name": "COEX 4K Smart TV",
+   "model": "COEX 4K Smart TV"
+  },
+  {
+   "brand": "COEX",
+   "name": "COEX 4K Smart TV FF",
+   "model": "COEX 4K Smart TV FF"
+  },
+  {
+   "brand": "Casper",
+   "name": "Casper 4K TV",
+   "model": "Casper 4K TV"
+  },
+  {
+   "brand": "Casper",
+   "name": "Casper Smart TV",
+   "model": "Casper Smart TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO SMART TV",
+   "model": "DAEWOO SMART TV"
+  },
+  {
+   "brand": "Dawlance",
+   "name": "DAWLANCE GSMART 4KTV",
+   "model": "DAWLANCE GSMART 4KTV"
+  },
+  {
+   "brand": "Green House",
+   "name": "GREEN HOUSE TV",
+   "model": "GREEN HOUSE TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier TV",
+   "model": "Haier TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier TV FF",
+   "model": "Haier TV FF"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI SMART TV",
+   "model": "HYUNDAI SMART TV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS 4K SmartTV",
+   "model": "IRIS 4K SmartTV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS 4K SmartTV FF",
+   "model": "IRIS 4K SmartTV FF"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC 4K Smart TV NZ",
+   "model": "JVC 4K Smart TV NZ"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "LLOYD 4K SMART TV",
+   "model": "LLOYD 4K SMART TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ 4K SMART TV",
+   "model": "MarQ 4K SMART TV"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "NSTV",
+   "model": "NSTV"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "NSTV FF",
+   "model": "NSTV FF"
+  },
+  {
+   "brand": "Noblex",
+   "name": "Smart TV 4K",
+   "model": "Smart TV 4K"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 4KA",
+   "model": "PrismPlus 4KA"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus P4KA",
+   "model": "PrismPlus P4KA"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-3SU",
+   "model": "4KTV-3SU"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-3SUF",
+   "model": "4KTV-3SUF"
+  },
+  {
+   "brand": "Philco",
+   "name": "Philco Smart plus TV",
+   "model": "Philco Smart plus TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22AE NF",
+   "model": "SW-22AE NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22HK NF",
+   "model": "SW-22HK NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22JP NF",
+   "model": "SW-22JP NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22NA",
+   "model": "SW-22NA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22NA NF",
+   "model": "SW-22NA NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22SA",
+   "model": "SW-22SA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22SA NF",
+   "model": "SW-22SA NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE",
+   "model": "SWTV-22AE"
+  },
+  {
+   "brand": "Singer",
+   "name": "Singer 4K GSMART TV",
+   "model": "Singer 4K GSMART TV"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Glory TV",
+   "model": "Glory TV"
+  },
+  {
+   "brand": "TORNADO",
+   "name": "TORNADO 4K SmartTV",
+   "model": "TORNADO 4K SmartTV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 4K GSMART TV FF",
+   "model": "TESLA 4K GSMART TV FF"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 4K SMART TV",
+   "model": "TESLA 4K SMART TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 4K SMART TV FF",
+   "model": "TESLA 4K SMART TV FF"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 4K TV FF",
+   "model": "TESLA 4K TV FF"
+  },
+  {
+   "brand": "Thomson",
+   "name": "SPPL 4K GSmartTV",
+   "model": "SPPL 4K GSmartTV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "SPPL 4K GSmartTV FF",
+   "model": "SPPL 4K GSmartTV FF"
+  },
+  {
+   "brand": "Toush",
+   "name": "4K FF SMART TV",
+   "model": "4K FF SMART TV"
+  },
+  {
+   "brand": "Veon",
+   "name": "VEON 4K Smart TV",
+   "model": "VEON 4K Smart TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION GSMART 4KTV",
+   "model": "VISION GSMART 4KTV"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION GSMART 4KTV FF",
+   "model": "VISION GSMART 4KTV FF"
+  },
+  {
+   "brand": "Walton",
+   "name": "WALTON GSMART 4KTV",
+   "model": "WALTON GSMART 4KTV"
+  },
+  {
+   "brand": "Walton",
+   "name": "WALTON GSMART 4KTV FF",
+   "model": "WALTON GSMART 4KTV FF"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "Xtreme 4K Smart TV",
+   "model": "Xtreme 4K Smart TV"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "Xtreme 4K Smart TV FF",
+   "model": "Xtreme 4K Smart TV FF"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN 4K G Smart TV",
+   "model": "YASIN 4K G Smart TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN 4K G Smart TV FF",
+   "model": "YASIN 4K G Smart TV FF"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 4K G Smart TV",
+   "model": "realme 4K G Smart TV"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 4K G Smart TV FF",
+   "model": "realme 4K G Smart TV FF"
+  }
+ ],
  "AW790": [
   {
    "brand": "Aiwa",
@@ -12194,6 +12481,11 @@
   {
    "brand": "Jam",
    "name": "JAM",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AKAI",
    "model": "4K SMART TV"
   },
   {
@@ -12441,6 +12733,11 @@
   {
    "brand": "KTCtv",
    "name": "ASAANO",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "COLORVIEW",
    "model": "2K SMART TV"
   },
   {
@@ -20615,243 +20912,6 @@
    "brand": "Yasin",
    "name": "YASIN 2K G Smart TV",
    "model": "YASIN 2K G Smart TV"
-  }
- ],
- "SW6H": [
-  {
-   "brand": "Asanzo",
-   "name": "EX FF Series",
-   "model": "EX FF Series"
-  },
-  {
-   "brand": "Asanzo",
-   "name": "EX Series",
-   "model": "EX Series"
-  },
-  {
-   "brand": "Britania",
-   "name": "Britania Smart plus TV",
-   "model": "Britania Smart plus TV"
-  },
-  {
-   "brand": "COEX",
-   "name": "COEX 4K Smart TV",
-   "model": "COEX 4K Smart TV"
-  },
-  {
-   "brand": "COEX",
-   "name": "COEX 4K Smart TV FF",
-   "model": "COEX 4K Smart TV FF"
-  },
-  {
-   "brand": "Casper",
-   "name": "Casper 4K TV",
-   "model": "Casper 4K TV"
-  },
-  {
-   "brand": "Casper",
-   "name": "Casper Smart TV",
-   "model": "Casper Smart TV"
-  },
-  {
-   "brand": "Daewoo",
-   "name": "DAEWOO SMART TV",
-   "model": "DAEWOO SMART TV"
-  },
-  {
-   "brand": "Dawlance",
-   "name": "DAWLANCE GSMART 4KTV",
-   "model": "DAWLANCE GSMART 4KTV"
-  },
-  {
-   "brand": "Green House",
-   "name": "GREEN HOUSE TV",
-   "model": "GREEN HOUSE TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI SMART TV",
-   "model": "HYUNDAI SMART TV"
-  },
-  {
-   "brand": "Iris",
-   "name": "IRIS 4K SmartTV",
-   "model": "IRIS 4K SmartTV"
-  },
-  {
-   "brand": "Iris",
-   "name": "IRIS 4K SmartTV FF",
-   "model": "IRIS 4K SmartTV FF"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC 4K Smart TV NZ",
-   "model": "JVC 4K Smart TV NZ"
-  },
-  {
-   "brand": "LLOYD",
-   "name": "LLOYD 4K SMART TV",
-   "model": "LLOYD 4K SMART TV"
-  },
-  {
-   "brand": "Noblex",
-   "name": "Smart TV 4K",
-   "model": "Smart TV 4K"
-  },
-  {
-   "brand": "PRISMPLUS",
-   "name": "PrismPlus 4KA",
-   "model": "PrismPlus 4KA"
-  },
-  {
-   "brand": "PRISMPLUS",
-   "name": "PrismPlus P4KA",
-   "model": "PrismPlus P4KA"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-3SU",
-   "model": "4KTV-3SU"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-3SUF",
-   "model": "4KTV-3SUF"
-  },
-  {
-   "brand": "Philco",
-   "name": "Philco Smart plus TV",
-   "model": "Philco Smart plus TV"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22AE NF",
-   "model": "SW-22AE NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22HK NF",
-   "model": "SW-22HK NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22JP NF",
-   "model": "SW-22JP NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22NA",
-   "model": "SW-22NA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22NA NF",
-   "model": "SW-22NA NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22SA",
-   "model": "SW-22SA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SW-22SA NF",
-   "model": "SW-22SA NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22AE",
-   "model": "SWTV-22AE"
-  },
-  {
-   "brand": "Singer",
-   "name": "Singer 4K GSMART TV",
-   "model": "Singer 4K GSMART TV"
-  },
-  {
-   "brand": "Syinix",
-   "name": "Glory TV",
-   "model": "Glory TV"
-  },
-  {
-   "brand": "TORNADO",
-   "name": "TORNADO 4K SmartTV",
-   "model": "TORNADO 4K SmartTV"
-  },
-  {
-   "brand": "Tesla",
-   "name": "TESLA 4K SMART TV",
-   "model": "TESLA 4K SMART TV"
-  },
-  {
-   "brand": "Tesla",
-   "name": "TESLA 4K SMART TV FF",
-   "model": "TESLA 4K SMART TV FF"
-  },
-  {
-   "brand": "Thomson",
-   "name": "SPPL 4K GSmartTV",
-   "model": "SPPL 4K GSmartTV"
-  },
-  {
-   "brand": "Thomson",
-   "name": "SPPL 4K GSmartTV FF",
-   "model": "SPPL 4K GSmartTV FF"
-  },
-  {
-   "brand": "Toush",
-   "name": "4K FF SMART TV",
-   "model": "4K FF SMART TV"
-  },
-  {
-   "brand": "Veon",
-   "name": "VEON 4K Smart TV",
-   "model": "VEON 4K Smart TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "VISION GSMART 4KTV",
-   "model": "VISION GSMART 4KTV"
-  },
-  {
-   "brand": "Vision",
-   "name": "VISION GSMART 4KTV FF",
-   "model": "VISION GSMART 4KTV FF"
-  },
-  {
-   "brand": "Walton",
-   "name": "WALTON GSMART 4KTV",
-   "model": "WALTON GSMART 4KTV"
-  },
-  {
-   "brand": "Walton",
-   "name": "WALTON GSMART 4KTV FF",
-   "model": "WALTON GSMART 4KTV FF"
-  },
-  {
-   "brand": "Xtreme",
-   "name": "Xtreme 4K Smart TV",
-   "model": "Xtreme 4K Smart TV"
-  },
-  {
-   "brand": "Yasin",
-   "name": "YASIN 4K G Smart TV",
-   "model": "YASIN 4K G Smart TV"
-  },
-  {
-   "brand": "Yasin",
-   "name": "YASIN 4K G Smart TV FF",
-   "model": "YASIN 4K G Smart TV FF"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 4K G Smart TV",
-   "model": "realme 4K G Smart TV"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 4K G Smart TV FF",
-   "model": "realme 4K G Smart TV FF"
   }
  ],
  "ASANZO_S3_PLUS": [
@@ -33739,11 +33799,6 @@
    "model": "Scanfrost TV"
   },
   {
-   "brand": "Smart-Tech TV",
-   "name": "Europe",
-   "model": "Apollo Premium2K TV"
-  },
-  {
    "brand": "Star-X",
    "name": "STAR-X 2K SMART TV",
    "model": "STAR-X 2K SMART TV"
@@ -36663,6 +36718,13 @@
    "brand": "Blu",
    "name": "X22",
    "model": "X22"
+  }
+ ],
+ "X0020": [
+  {
+   "brand": "Blu",
+   "name": "X5",
+   "model": "X5"
   }
  ],
  "BLUBOO_D1": [
@@ -83294,6 +83356,13 @@
    "model": "Hisense U70 Pro"
   }
  ],
+ "HLTE109E_02": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U70 Pro"
+  }
+ ],
  "HLTE100E_11": [
   {
    "brand": "Hisense",
@@ -120690,6 +120759,13 @@
    "model": "LW788"
   }
  ],
+ "LYNKNEX-PX5": [
+  {
+   "brand": "LYNKNEX",
+   "name": "LYNKNEX PX5",
+   "model": "PX5"
+  }
+ ],
  "LFi_ONE": [
   {
    "brand": "LYOTECH_LABS",
@@ -136704,6 +136780,13 @@
    "brand": "Meizu",
    "name": "meizu 20 Pro",
    "model": "MEIZU 20 Pro"
+  }
+ ],
+ "meizu21": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 21",
+   "model": "MEIZU 21"
   }
  ],
  "meizuC9": [
@@ -158730,6 +158813,13 @@
    "model": "CPH1917"
   }
  ],
+ "OP5ABFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno 10",
+   "model": "CPH2599"
+  }
+ ],
  "OP4847L1": [
   {
    "brand": "Oppo",
@@ -167517,6 +167607,13 @@
    "brand": "Posiflex",
    "name": "MK_1000",
    "model": "MK_1000"
+  }
+ ],
+ "Opera": [
+  {
+   "brand": "Posiflex",
+   "name": "MT-6208A",
+   "model": "Posiflex MT62"
   }
  ],
  "ochoMA_A_3G": [
@@ -236227,6 +236324,13 @@
    "model": "ORION"
   }
  ],
+ "S63Plus": [
+  {
+   "brand": "Vida",
+   "name": "S63Plus",
+   "model": "S63Plus"
+  }
+ ],
  "VIDA_V401": [
   {
    "brand": "Vida",
@@ -239031,6 +239135,11 @@
    "brand": "Vivo",
    "name": "Y17s",
    "model": "V2310"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y17s",
+   "model": "V2331"
   }
  ],
  "V2307": [

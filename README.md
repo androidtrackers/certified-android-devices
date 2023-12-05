@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-04
+Last sync is 2023-12-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -837,6 +837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AIWA|stanford|SMART TV|
 |Aiwa|AIWA|zhongshan|4K SMART TV|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
+|Aiwa|AIWA TV|SW6H|AIWA TV|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
 |Aiwa|AWM509|AWM509|AWM509|
@@ -876,6 +877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
 |Akai|AKAI|bangbae|AKAI 4K Android TV|
 |Akai|AKAI|stanford|2K SMART TV|
+|Akai|AKAI 4K SMART TV|SW6H|AKAI 4K SMART TV|
 |Akai|FZ101|FZ101|FZ101|
 |Akai|FZ701|FZ701|FZ701|
 |Akai|FZ702|FZ702|FZ702|
@@ -4013,6 +4015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Vivo_8_LL|V0150LL|Vivo 8|
 |Blu|Vivo_One_Plus|V0290WW|Vivo One Plus|
 |Blu|X22|X0010WW|X22|
+|Blu|X5|X0020|X5|
 |Bluboo|D1|BLUBOO_D1|D1|
 |Bluboo|D1_Pro|D1_Pro|D1_Pro|
 |Bluboo|D2 Pro|D2_Pro|D2_Pro|
@@ -10242,6 +10245,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV CN|deto|Haier MatrixTV CN|
 |Haier|Haier MatrixTV CS|deto|Haier MatrixTV CS|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
+|Haier|Haier TV|SW6H|Haier TV|
+|Haier|Haier TV FF|SW6H|Haier TV FF|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|HaierG61|HM-G701-FL|HM-G701-FL|
 |Haier|Haitech android TV|hanyang|Haitech Android TV|
@@ -10921,6 +10926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U605|Hisense|Hisense U605|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_12|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_13|Hisense U963|
@@ -15112,6 +15118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|ADSUN|stanford|2K SMART TV|
 |KTCtv|ADSUN|zhongshan|4K SMART TV|
+|KTCtv|AKAI|hongkong|4K SMART TV|
 |KTCtv|AP|stanford|40D|
 |KTCtv|ASAANO|hongkong|4K SMART TV|
 |KTCtv|ASAANO|lavender|4K SMART TV|
@@ -15123,6 +15130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|COL|stanford|40DCOL|
 |KTCtv|COL|zhongshan|43FCOL|
 |KTCtv|COLORVIEW|lavender|4K SMART TV|
+|KTCtv|COLORVIEW|mountbaker|2K SMART TV|
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
@@ -17362,6 +17370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LVILLE|TPC1013_EEA|TPC1013_EEA|TPC1013_EEA|
 |LW|LW688|LW688|LW688|
 |LW|LW788|LW788|LW788|
+|LYNKNEX|LYNKNEX PX5|LYNKNEX-PX5|PX5|
 |LYOTECH_LABS|LFi_ONE_EEA|LFi_ONE|LFi ONE|
 |Laiq|GLAM|LAIQ_Glam|LAIQ Glam|
 |Laiq|Glow|Glow|Glow|
@@ -19354,6 +19363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MarQ|DV6067H|DV6067H|DV6067H|
 |MarQ|MarQ|bangbae|MarQ 4K Android TV|
 |MarQ|MarQ|komagome|MarQ 2K Android TV|
+|MarQ|MarQ 4K SMART TV|SW6H|MarQ 4K SMART TV|
 |MarQ|MarQ_M3|GIONEE_MAX|MarQ_M3|
 |Mara Phones|Mara  Z1|Mara_Z1|Mara Phones Z1|
 |Mara Phones|Mara X1|Mara_X1|Mara Phones X1|
@@ -19819,6 +19829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu 18 Pro|meizu18Pro|MEIZU 18 Pro|
 |Meizu|meizu 20|meizu20|MEIZU 20|
 |Meizu|meizu 20 Pro|meizu20Pro|MEIZU 20 Pro|
+|Meizu|meizu 21|meizu21|MEIZU 21|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M10|meizuM10|meizu M10|
@@ -22242,6 +22253,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NobleSkiodo|32VRCHG5SP|ikebukuro|AI PONT|
 |NobleSkiodo|43UDVRCHG7H|samseong|AI PONT|
 |NobleSkiodo|NS 2K SmartTV|sunnyvale|NS 2K SmartTV|
+|NobleSkiodo|NSTV|SW6H|NSTV|
+|NobleSkiodo|NSTV FF|SW6H|NSTV FF|
 |Noblex|A50|A50UNS|A50UNS|
 |Noblex|A60|A60UNS|A60UNS|
 |Noblex|Go Action|N551|N551|
@@ -23451,6 +23464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R9tm|R9|OPPO R9tm|
 |Oppo|Reno|OP47DD|CPH1917|
 |Oppo|Reno|OP47DDL1|CPH1917|
+|Oppo|Reno 10|OP5ABFL1|CPH2599|
 |Oppo|Reno 10x Room|OP4847L1|CPH1921|
 |Oppo|Reno 10x Zoom|OP4845|CPH1919|
 |Oppo|Reno 10x Zoom|OP4845|CPH1919RU|
@@ -24812,6 +24826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Porsche|Rear  Seat  Entertainment|sdis1|Porsche Rear Seat Entertainment|
 |Porsche|SDIS1|sdis1|Porsche Rear Seat Entertainment|
 |Posiflex|MK_1000|MK_1000|MK_1000|
+|Posiflex|MT-6208A|Opera|Posiflex MT62|
 |Positivo|8MA-A|ochoMA_A_3G|8MA-A 3G|
 |Positivo|AB10PGN|AB10PGN|AB10PGN|
 |Positivo|AB7|YPY_AB7D|YPY_AB7D|
@@ -31037,7 +31052,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart-Tech TV|Aiplus4K|guandu|Aiplus4K|
 |Smart-Tech TV|EU、UK、AP|martin|AiPlus2K|
 |Smart-Tech TV|EU、UK、AP|martin|WALTON Android TV|
-|Smart-Tech TV|Europe|nagata|Apollo Premium2K TV|
 |Smart-Tech TV|France|tamachi|AiPlus2K|
 |Smart-Tech TV|Germany|yeongdeungpo|AiPlus4K|
 |Smart-Tech TV|SMART TECHNOLOGY|stanford|2K SMART TV|
@@ -34942,8 +34956,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|South American|patrick|Tesla 4K Android TV|
 |Tesla|TESLA|zhongshan|Tesla 4K Android TV|
 |Tesla|TESLA 2K SMART TV|umeda|TESLA 2K SMART TV|
+|Tesla|TESLA 4K GSMART TV FF|SW6H|TESLA 4K GSMART TV FF|
 |Tesla|TESLA 4K SMART TV|SW6H|TESLA 4K SMART TV|
 |Tesla|TESLA 4K SMART TV FF|SW6H|TESLA 4K SMART TV FF|
+|Tesla|TESLA 4K TV FF|SW6H|TESLA 4K TV FF|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
 |Tesla|Tesla 2K TV|shinagawa|Tesla 2K TV|
 |Tesla|Tesla S906|SW4H|Tesla S906|
@@ -36355,6 +36371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vida|EGO_plus|EGO_plus|EGO plus|
 |Vida|GINI_D9|GINI_D9|GINI_D9|
 |Vida|ORION|ORION|ORION|
+|Vida|S63Plus|S63Plus|S63Plus|
 |Vida|V401|VIDA_V401|VIDA-V401|
 |Vida|V555K|V555K|V555K|
 |Vida|VIDA - i512|i512|VIDA_i512|
@@ -36805,6 +36822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y16|V2204|V2305|
 |Vivo|Y17|1902D|vivo 1902|
 |Vivo|Y17s|V2310|V2310|
+|Vivo|Y17s|V2310|V2331|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
@@ -38349,6 +38367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtreme|XTREME TV|shinjuku|XTREME TV|
 |Xtreme|Xtreme 2K Smart TV|umeda|Xtreme 2K Smart TV|
 |Xtreme|Xtreme 4K Smart TV|SW6H|Xtreme 4K Smart TV|
+|Xtreme|Xtreme 4K Smart TV FF|SW6H|Xtreme 4K Smart TV FF|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YAYGO|SEI600YAY|HND|ATV-101|
 |YAYGO|SEI600YAY4|HND|ATV-101|

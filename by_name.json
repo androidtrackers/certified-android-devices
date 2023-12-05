@@ -6151,6 +6151,11 @@
    "model": "X5"
   },
   {
+   "brand": "Blu",
+   "device": "X0020",
+   "model": "X5"
+  },
+  {
    "brand": "CORN",
    "device": "X5S",
    "model": "X5"
@@ -14238,6 +14243,13 @@
    "model": "AIWA 2K TV"
   }
  ],
+ "AIWA TV": [
+  {
+   "brand": "Aiwa",
+   "device": "SW6H",
+   "model": "AIWA TV"
+  }
+ ],
  "AW790": [
   {
    "brand": "Aiwa",
@@ -14467,6 +14479,18 @@
    "brand": "Akai",
    "device": "stanford",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  }
+ ],
+ "AKAI 4K SMART TV": [
+  {
+   "brand": "Akai",
+   "device": "SW6H",
+   "model": "AKAI 4K SMART TV"
   }
  ],
  "FZ101": [
@@ -34635,11 +34659,6 @@
    "brand": "Skyworth",
    "device": "globe_eu",
    "model": "globe"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "device": "nagata",
-   "model": "Apollo Premium2K TV"
   },
   {
    "brand": "Star-X",
@@ -81522,6 +81541,20 @@
    "model": "Haier OLED TV AE"
   }
  ],
+ "Haier TV": [
+  {
+   "brand": "Haier",
+   "device": "SW6H",
+   "model": "Haier TV"
+  }
+ ],
+ "Haier TV FF": [
+  {
+   "brand": "Haier",
+   "device": "SW6H",
+   "model": "Haier TV FF"
+  }
+ ],
  "Haier Titan T5": [
   {
    "brand": "Haier",
@@ -85691,6 +85724,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE109E_01",
+   "model": "Hisense U70 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE109E_02",
    "model": "Hisense U70 Pro"
   }
  ],
@@ -109492,6 +109530,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "CONTINUUS": [
@@ -122142,6 +122185,13 @@
    "model": "LW788"
   }
  ],
+ "LYNKNEX PX5": [
+  {
+   "brand": "LYNKNEX",
+   "device": "LYNKNEX-PX5",
+   "model": "PX5"
+  }
+ ],
  "LFi_ONE_EEA": [
   {
    "brand": "LYOTECH_LABS",
@@ -134158,6 +134208,13 @@
    "model": "MarQ 2K Android TV"
   }
  ],
+ "MarQ 4K SMART TV": [
+  {
+   "brand": "MarQ",
+   "device": "SW6H",
+   "model": "MarQ 4K SMART TV"
+  }
+ ],
  "MarQ_M3": [
   {
    "brand": "MarQ",
@@ -137117,6 +137174,13 @@
    "brand": "Meizu",
    "device": "meizu20Pro",
    "model": "MEIZU 20 Pro"
+  }
+ ],
+ "meizu 21": [
+  {
+   "brand": "Meizu",
+   "device": "meizu21",
+   "model": "MEIZU 21"
   }
  ],
  "meizu C9": [
@@ -151453,6 +151517,20 @@
    "model": "NS 2K SmartTV"
   }
  ],
+ "NSTV": [
+  {
+   "brand": "NobleSkiodo",
+   "device": "SW6H",
+   "model": "NSTV"
+  }
+ ],
+ "NSTV FF": [
+  {
+   "brand": "NobleSkiodo",
+   "device": "SW6H",
+   "model": "NSTV FF"
+  }
+ ],
  "Go Action": [
   {
    "brand": "Noblex",
@@ -158412,6 +158490,13 @@
    "brand": "Oppo",
    "device": "OP47DDL1",
    "model": "CPH1917"
+  }
+ ],
+ "Reno 10": [
+  {
+   "brand": "Oppo",
+   "device": "OP5ABFL1",
+   "model": "CPH2599"
   }
  ],
  "Reno 10x Room": [
@@ -167051,6 +167136,13 @@
    "brand": "Posiflex",
    "device": "MK_1000",
    "model": "MK_1000"
+  }
+ ],
+ "MT-6208A": [
+  {
+   "brand": "Posiflex",
+   "device": "Opera",
+   "model": "Posiflex MT62"
   }
  ],
  "8MA-A": [
@@ -225928,6 +226020,13 @@
    "model": "TESLA 2K SMART TV"
   }
  ],
+ "TESLA 4K GSMART TV FF": [
+  {
+   "brand": "Tesla",
+   "device": "SW6H",
+   "model": "TESLA 4K GSMART TV FF"
+  }
+ ],
  "TESLA 4K SMART TV": [
   {
    "brand": "Tesla",
@@ -225940,6 +226039,13 @@
    "brand": "Tesla",
    "device": "SW6H",
    "model": "TESLA 4K SMART TV FF"
+  }
+ ],
+ "TESLA 4K TV FF": [
+  {
+   "brand": "Tesla",
+   "device": "SW6H",
+   "model": "TESLA 4K TV FF"
   }
  ],
  "Tablet_L7_1": [
@@ -234452,6 +234558,13 @@
    "model": "ORION"
   }
  ],
+ "S63Plus": [
+  {
+   "brand": "Vida",
+   "device": "S63Plus",
+   "model": "S63Plus"
+  }
+ ],
  "V401": [
   {
    "brand": "Vida",
@@ -237214,6 +237327,11 @@
    "brand": "Vivo",
    "device": "V2310",
    "model": "V2310"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2310",
+   "model": "V2331"
   }
  ],
  "Y200 5G": [
@@ -246486,6 +246604,13 @@
    "brand": "Xtreme",
    "device": "SW6H",
    "model": "Xtreme 4K Smart TV"
+  }
+ ],
+ "Xtreme 4K Smart TV FF": [
+  {
+   "brand": "Xtreme",
+   "device": "SW6H",
+   "model": "Xtreme 4K Smart TV FF"
   }
  ],
  "Xpad": [
