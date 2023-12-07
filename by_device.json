@@ -40863,6 +40863,11 @@
   {
    "brand": "Cello",
    "name": "Cello",
+   "model": "cello 4K Android TV"
+  },
+  {
+   "brand": "Cello",
+   "name": "Cello",
    "model": "cello UK 4K Android TV"
   },
   {
@@ -83262,6 +83267,11 @@
   {
    "brand": "Hisense",
    "name": "Hisense U605",
+   "model": "HWCD101E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
    "model": "Hisense M50 Lite"
   },
   {
@@ -84800,6 +84810,13 @@
    "model": "XOLO T1000"
   }
  ],
+ "hirano": [
+  {
+   "brand": "Hisense",
+   "name": "emeishan",
+   "model": "SmartTV"
+  }
+ ],
  "laohushan": [
   {
    "brand": "Hisense",
@@ -86013,6 +86030,13 @@
    "brand": "Honeywell",
    "name": "Thor VM3A",
    "model": "VM3A"
+  }
+ ],
+ "HNMAP": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 100 Pro",
+   "model": "MAA-AN10"
   }
  ],
  "HNNTH": [
@@ -145362,6 +145386,11 @@
    "brand": "Motorola",
    "name": "motorola razr 40",
    "model": "motorola razr 40"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40s",
+   "model": "motorola razr 40s"
   }
  ],
  "zeekr": [
@@ -150450,6 +150479,18 @@
    "brand": "Natcom",
    "name": "X1LTE",
    "model": "X1LTE"
+  }
+ ],
+ "belford": [
+  {
+   "brand": "Nautilus",
+   "name": "Digital Experience",
+   "model": "Infotainment-system"
+  },
+  {
+   "brand": "Nautilus",
+   "name": "Digital Experience",
+   "model": "SYNC"
   }
  ],
  "nftm_lar": [
@@ -176872,6 +176913,13 @@
    "model": "S19 Max Pro S"
   }
  ],
+ "S19MaxProSEdge": [
+  {
+   "brand": "Reeder",
+   "name": "S19 Max Pro S Edge",
+   "model": "S19 Max Pro S Edge"
+  }
+ ],
  "S19_Max_Pro_S_Zoom": [
   {
    "brand": "Reeder",
@@ -191849,6 +191897,11 @@
    "brand": "Samsung",
    "name": "Galaxy S23 FE",
    "model": "SM-S711B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23 FE",
+   "model": "SM-S711N"
   }
  ],
  "SC-52D": [
@@ -198494,6 +198547,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Z Flip5",
+   "model": "SM-F731Q"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip5",
    "model": "SM-F731U"
   },
   {
@@ -198665,6 +198723,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold5",
    "model": "SM-F946N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold5",
+   "model": "SM-F946Q"
   },
   {
    "brand": "Samsung",
@@ -227372,6 +227435,13 @@
    "model": "TECNO Mobile BG6"
   }
  ],
+ "TECNO-Mobile-BG7n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile SPARK 20C",
+   "model": "TECNO Mobile BG7n"
+  }
+ ],
  "TECNO-Mobile-KI5q": [
   {
    "brand": "Tecno Mobile",
@@ -234229,6 +234299,13 @@
    "model": "VeidooT30_EEA"
   }
  ],
+ "Veld_Board": [
+  {
+   "brand": "Veld",
+   "name": "Veld Board",
+   "model": "SXX01G"
+  }
+ ],
  "CX-508": [
   {
    "brand": "Venso",
@@ -239589,6 +239666,13 @@
    "brand": "Vivo",
    "name": "iQOO 11S",
    "model": "V2304A"
+  }
+ ],
+ "I2220": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 12",
+   "model": "I2220"
   }
  ],
  "PD2307": [
@@ -263791,6 +263875,13 @@
    "brand": "onn.",
    "name": "MID8016",
    "model": "MID8016"
+  }
+ ],
+ "PM82T": [
+  {
+   "brand": "onn.",
+   "name": "PM82T",
+   "model": "PM82T"
   }
  ],
  "YOC": [

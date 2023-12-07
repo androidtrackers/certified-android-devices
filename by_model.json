@@ -36394,6 +36394,13 @@
    "device": "QMobile_S4"
   }
  ],
+ "cello 4K Android TV": [
+  {
+   "brand": "Cello",
+   "name": "Cello",
+   "device": "sadang"
+  }
+ ],
  "cello UK 4K Android TV": [
   {
    "brand": "Cello",
@@ -80119,6 +80126,13 @@
    "device": "HS7731ESP"
   }
  ],
+ "HWCD101E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
+  }
+ ],
  "Hisense M50 Lite": [
   {
    "brand": "Hisense",
@@ -82053,6 +82067,18 @@
    "device": "HS8937QC"
   }
  ],
+ "SmartTV": [
+  {
+   "brand": "Hisense",
+   "name": "emeishan",
+   "device": "hirano"
+  },
+  {
+   "brand": "VT",
+   "name": "MB300",
+   "device": "MB300"
+  }
+ ],
  "HiSmart TV": [
   {
    "brand": "Hisense",
@@ -83223,6 +83249,13 @@
    "brand": "Honeywell",
    "name": "Thor VM3A",
    "device": "VM3A-L0-P"
+  }
+ ],
+ "MAA-AN10": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 100 Pro",
+   "device": "HNMAP"
   }
  ],
  "NTH-NX9": [
@@ -147616,6 +147649,13 @@
    "device": "zeekr"
   }
  ],
+ "motorola razr 40s": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40s",
+   "device": "lynkco"
+  }
+ ],
  "motorola razr 5G": [
   {
    "brand": "Motorola",
@@ -152224,6 +152264,20 @@
    "brand": "Natcom",
    "name": "X1LTE",
    "device": "X1LTE"
+  }
+ ],
+ "Infotainment-system": [
+  {
+   "brand": "Nautilus",
+   "name": "Digital Experience",
+   "device": "belford"
+  }
+ ],
+ "SYNC": [
+  {
+   "brand": "Nautilus",
+   "name": "Digital Experience",
+   "device": "belford"
   }
  ],
  "NFTM-LAR": [
@@ -180262,6 +180316,13 @@
    "device": "S19_Max_Pro_S"
   }
  ],
+ "S19 Max Pro S Edge": [
+  {
+   "brand": "Reeder",
+   "name": "S19 Max Pro S Edge",
+   "device": "S19MaxProSEdge"
+  }
+ ],
  "S19 Max Pro S Zoom": [
   {
    "brand": "Reeder",
@@ -196916,6 +196977,13 @@
    "device": "r11s"
   }
  ],
+ "SM-S711N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23 FE",
+   "device": "r11s"
+  }
+ ],
  "SC-52D": [
   {
    "brand": "Samsung",
@@ -204128,6 +204196,13 @@
    "device": "b5q"
   }
  ],
+ "SM-F731Q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip5",
+   "device": "b5q"
+  }
+ ],
  "SM-F731U": [
   {
    "brand": "Samsung",
@@ -204339,6 +204414,13 @@
   }
  ],
  "SM-F946N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold5",
+   "device": "q5q"
+  }
+ ],
+ "SM-F946Q": [
   {
    "brand": "Samsung",
    "name": "Galaxy Z Fold5",
@@ -235895,6 +235977,13 @@
    "device": "TECNO-Mobile-BG6"
   }
  ],
+ "TECNO Mobile BG7n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile SPARK 20C",
+   "device": "TECNO-Mobile-BG7n"
+  }
+ ],
  "TECNO Mobile KI5q": [
   {
    "brand": "Tecno Mobile",
@@ -242560,13 +242649,6 @@
    "device": "up11_h1_vsn"
   }
  ],
- "SmartTV": [
-  {
-   "brand": "VT",
-   "name": "MB300",
-   "device": "MB300"
-  }
- ],
  "VK802W": [
   {
    "brand": "VTEX",
@@ -243155,6 +243237,13 @@
    "brand": "Veidoo",
    "name": "VeidooT30_EEA",
    "device": "VeidooT30_EEA"
+  }
+ ],
+ "SXX01G": [
+  {
+   "brand": "Veld",
+   "name": "Veld Board",
+   "device": "Veld_Board"
   }
  ],
  "CX-508": [
@@ -248872,6 +248961,13 @@
    "brand": "Vivo",
    "name": "iQOO 11S",
    "device": "PD2304"
+  }
+ ],
+ "I2220": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 12",
+   "device": "I2220"
   }
  ],
  "V2307A": [
@@ -275534,6 +275630,13 @@
    "brand": "onn.",
    "name": "MID8016",
    "device": "mid8016_mk_32"
+  }
+ ],
+ "PM82T": [
+  {
+   "brand": "onn.",
+   "name": "PM82T",
+   "device": "PM82T"
   }
  ],
  "onn. 4K Streaming Box": [

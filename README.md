@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-06
+Last sync is 2023-12-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4613,6 +4613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellecor|S2|S2|S2|
 |Cellecor|S3|S3|S3|
 |Cellecor|S4|S4|S4|
+|Cello|Cello|sadang|cello 4K Android TV|
 |Cello|Cello|sadang|cello UK 4K Android TV|
 |Cello|Cello|tabata|cello 2K Android TV|
 |Cello|Smart TV|ueno|2K Android TV|
@@ -10917,6 +10918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U50|HLTE222E_01|Hisense U50|
 |Hisense|Hisense U50|HLTE222E_02|Hisense U50|
 |Hisense|Hisense U50|HLTE233E_10|Hisense H50 Lite|
+|Hisense|Hisense U605|HS7731ESP|HWCD101E|
 |Hisense|Hisense U605|HS7731ESP|Hisense M50 Lite|
 |Hisense|Hisense U605|HS7731ESP|Hisense M50 Lite 2021|
 |Hisense|Hisense U605|HS7731ESP|Hisense U30|
@@ -11220,6 +11222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|c20ae|HS8929QC|C20|
 |Hisense|c20fe-3|HS8929QC|Hisense C20|
 |Hisense|e76mini|HS8937QC|Hisense E76mini|
+|Hisense|emeishan|hirano|SmartTV|
 |Hisense|fushan_2|hamamatsucho|HiSmart TV|
 |Hisense|fushan_em|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|fushan_emeu|hamamatsucho|HiSmart 2K ATV4|
@@ -11434,6 +11437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
+|Honor|HONOR 100 Pro|HNMAP|MAA-AN10|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
@@ -21293,6 +21297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 40|lynkco|motorola razr 40|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 40 ultra|
+|Motorola|motorola razr 40s|lynkco|motorola razr 40s|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
@@ -22027,6 +22032,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NanoTech|Nuvola NP-1|nuvola|Nuvola NP-1|
 |Naomi Phone|Ambar|NAOMIPHONE_Ambar|NAOMIPHONE Ambar|
 |Natcom|X1LTE|X1LTE|X1LTE|
+|Nautilus|Digital Experience|belford|Infotainment-system|
+|Nautilus|Digital Experience|belford|SYNC|
 |Nautilus|NFTM-LAR|nftm_lar|NFTM-LAR|
 |Nautilus|NFTM-MED|nftm_med|NFTM-MED|
 |Nautilus|NFTM-SMA|nftm_sma|NFTM-SMA|
@@ -26397,6 +26404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 Max 64GB|S19_Max_64GB|S19 Max 64GB|
 |Reeder|S19 Max Pro|S19_Max_Pro|S19 Max Pro|
 |Reeder|S19 Max Pro S|S19_Max_Pro_S|S19 Max Pro S|
+|Reeder|S19 Max Pro S Edge|S19MaxProSEdge|S19 Max Pro S Edge|
 |Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
 |Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
 |Reeder|T8|reeder_T8|reeder_T8|
@@ -28874,6 +28882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23 FE|r11q|SM-S711U1|
 |Samsung|Galaxy S23 FE|r11q|SM-S711W|
 |Samsung|Galaxy S23 FE|r11s|SM-S711B|
+|Samsung|Galaxy S23 FE|r11s|SM-S711N|
 |Samsung|Galaxy S23 Ultra|SC-52D|SC-52D|
 |Samsung|Galaxy S23 Ultra|SCG20|SCG20|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S9180|
@@ -29928,6 +29937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip5|b5q|SM-F7310|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731B|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731N|
+|Samsung|Galaxy Z Flip5|b5q|SM-F731Q|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731U|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731U1|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731W|
@@ -29959,6 +29969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold5|q5q|SM-F9460|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946B|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946N|
+|Samsung|Galaxy Z Fold5|q5q|SM-F946Q|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946U|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946U1|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946W|
@@ -34807,6 +34818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|POVA Neo 2|TECNO-Mobile-LG6n|TECNO Mobile LG6n|
 |Tecno Mobile|SPARK Go 2023|TECNO-Mobile-BF7n|TECNO Mobile BF7n|
 |Tecno Mobile|SPARK Go 2024|TECNO-Mobile-BG6|TECNO Mobile BG6|
+|Tecno Mobile|TECNO Mobile SPARK 20C|TECNO-Mobile-BG7n|TECNO Mobile BG7n|
 |Tecno Mobile|TECNO SPARK 10|TECNO-Mobile-KI5q|TECNO Mobile KI5q|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
@@ -36036,6 +36048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|VEIDOO_T80|VEIDOO_T80|VEIDOO_T80|
 |Veidoo|VEIDOO_T80_EEA|VEIDOO_T80_EEA|VEIDOO_T80_EEA|
 |Veidoo|VeidooT30_EEA|VeidooT30_EEA|VeidooT30_EEA|
+|Veld|Veld Board|Veld_Board|SXX01G|
 |Venso|CX-508|CX-508|CX-508|
 |Venso|Venso CX-551|Venso_CX_551|Venso CX-551|
 |Venturer|CT202|CT202|CT202|
@@ -36896,6 +36909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 11|PD2243|V2243A|
 |Vivo|iQOO 11 Pro|PD2254|V2254A|
 |Vivo|iQOO 11S|PD2304|V2304A|
+|Vivo|iQOO 12|I2220|I2220|
 |Vivo|iQOO 12|PD2307|V2307A|
 |Vivo|iQOO 12 Pro|PD2329|V2329A|
 |Vivo|iQOO 9 Pro|2022|I2022|
@@ -41125,6 +41139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100092980|100092980|100092980|
 |onn.|100092988|mid7019_mr_32|100092988|
 |onn.|MID8016|mid8016_mk_32|MID8016|
+|onn.|PM82T|PM82T|PM82T|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |onn.|onn_2k_gtv|XNA|onn. Full HD Streaming Device|
