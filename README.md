@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-07
+Last sync is 2023-12-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3722,6 +3722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6L 2021|C0152TT|C6L 2021|
 |Blu|C6L 2021|C0152WW|C6L 2021|
 |Blu|C6L MAX|C0200|C6L Max|
+|Blu|C6L MAX|C0210|C6L Max|
 |Blu|C6x|C090P|C6x|
 |Blu|C7|C250EQ|C7|
 |Blu|C7x|C290EQ|C7x|
@@ -14639,6 +14640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P40+|itel-P683L|itel P683L|
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel P55|itel-A666L|itel A666L|
+|Itel|itel P55|itel-A666LN|itel A666LN|
 |Itel|itel P55 5G|itel-P661N|itel P661N|
 |Itel|itel P55+|itel-P663L|itel P663L|
 |Itel|itel P55T|itel-P665L|itel P665L|
@@ -18335,6 +18337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB128FU|Lenovo TB128FU|
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB128XU|Lenovo TB128XU|
 |Lenovo|Lenovo Tab M11|TB330FU|TB330FU|
+|Lenovo|Lenovo Tab M11|TB330XU|TB330XU|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
@@ -34818,6 +34821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|POVA Neo 2|TECNO-Mobile-LG6n|TECNO Mobile LG6n|
 |Tecno Mobile|SPARK Go 2023|TECNO-Mobile-BF7n|TECNO Mobile BF7n|
 |Tecno Mobile|SPARK Go 2024|TECNO-Mobile-BG6|TECNO Mobile BG6|
+|Tecno Mobile|TECNO Mobile SPARK 20|TECNO-Mobile-KJ5n|TECNO Mobile KJ5n|
 |Tecno Mobile|TECNO Mobile SPARK 20C|TECNO-Mobile-BG7n|TECNO Mobile BG7n|
 |Tecno Mobile|TECNO SPARK 10|TECNO-Mobile-KI5q|TECNO Mobile KI5q|
 |Tecnomaster|EDT800|EDT800|EDT800|
@@ -36784,6 +36788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V9 Pro|1851|vivo 1851|
 |Vivo|X100|PD2309|V2309A|
 |Vivo|X100 Pro|PD2324|V2324A|
+|Vivo|X100 Pro|V2309|V2309|
 |Vivo|X5|X5|vivo X5|
 |Vivo|X50|2004|vivo 2004|
 |Vivo|X50 Pro|2006|vivo 2006|
@@ -41262,6 +41267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT3 240W|REE2B2L1|RMX3709|
 |realme|realme GT5|RE5C33|RMX3820|
 |realme|realme GT5 240W|RE5C33|RMX3823|
+|realme|realme GT5 Pro|RE5C37|RMX3888|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|

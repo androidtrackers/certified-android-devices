@@ -19186,6 +19186,11 @@
    "model": "C6L Max"
   },
   {
+   "device": "C0210",
+   "name": "C6L MAX",
+   "model": "C6L Max"
+  },
+  {
    "device": "C090P",
    "name": "C6x",
    "model": "C6x"
@@ -75395,6 +75400,11 @@
    "model": "itel A666L"
   },
   {
+   "device": "itel-A666LN",
+   "name": "itel P55",
+   "model": "itel A666LN"
+  },
+  {
    "device": "itel-P661N",
    "name": "itel P55 5G",
    "model": "itel P661N"
@@ -94269,6 +94279,11 @@
    "device": "TB330FU",
    "name": "Lenovo Tab M11",
    "model": "TB330FU"
+  },
+  {
+   "device": "TB330XU",
+   "name": "Lenovo Tab M11",
+   "model": "TB330XU"
   },
   {
    "device": "7305F",
@@ -178596,6 +178611,11 @@
    "model": "TECNO Mobile BG6"
   },
   {
+   "device": "TECNO-Mobile-KJ5n",
+   "name": "TECNO Mobile SPARK 20",
+   "model": "TECNO Mobile KJ5n"
+  },
+  {
    "device": "TECNO-Mobile-BG7n",
    "name": "TECNO Mobile SPARK 20C",
    "model": "TECNO Mobile BG7n"
@@ -188864,6 +188884,11 @@
    "device": "PD2324",
    "name": "X100 Pro",
    "model": "V2324A"
+  },
+  {
+   "device": "V2309",
+   "name": "X100 Pro",
+   "model": "V2309"
   },
   {
    "device": "X5",
@@ -211864,6 +211889,11 @@
    "device": "RE5C33",
    "name": "realme GT5 240W",
    "model": "RMX3823"
+  },
+  {
+   "device": "RE5C37",
+   "name": "realme GT5 Pro",
+   "model": "RMX3888"
   },
   {
    "device": "RMX2117L1",

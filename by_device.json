@@ -34685,6 +34685,13 @@
    "model": "C6L Max"
   }
  ],
+ "C0210": [
+  {
+   "brand": "Blu",
+   "name": "C6L MAX",
+   "model": "C6L Max"
+  }
+ ],
  "C090P": [
   {
    "brand": "Blu",
@@ -105246,6 +105253,13 @@
    "model": "itel A666L"
   }
  ],
+ "itel-A666LN": [
+  {
+   "brand": "Itel",
+   "name": "itel P55",
+   "model": "itel A666LN"
+  }
+ ],
  "itel-P661N": [
   {
    "brand": "Itel",
@@ -127302,6 +127316,13 @@
    "brand": "Lenovo",
    "name": "联想平板电脑 启天K10c",
    "model": "TB330FU"
+  }
+ ],
+ "TB330XU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M11",
+   "model": "TB330XU"
   }
  ],
  "7305F": [
@@ -227435,6 +227456,13 @@
    "model": "TECNO Mobile BG6"
   }
  ],
+ "TECNO-Mobile-KJ5n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile SPARK 20",
+   "model": "TECNO Mobile KJ5n"
+  }
+ ],
  "TECNO-Mobile-BG7n": [
   {
    "brand": "Tecno Mobile",
@@ -238876,6 +238904,13 @@
    "brand": "Vivo",
    "name": "X100 Pro",
    "model": "V2324A"
+  }
+ ],
+ "V2309": [
+  {
+   "brand": "Vivo",
+   "name": "X100 Pro",
+   "model": "V2309"
   }
  ],
  "2004": [
@@ -264536,6 +264571,13 @@
    "brand": "realme",
    "name": "realme GT5 240W",
    "model": "RMX3823"
+  }
+ ],
+ "RE5C37": [
+  {
+   "brand": "realme",
+   "name": "realme GT5 Pro",
+   "model": "RMX3888"
   }
  ],
  "RMX2117L1": [
