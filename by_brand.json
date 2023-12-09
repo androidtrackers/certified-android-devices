@@ -59174,6 +59174,11 @@
  ],
  "Honor": [
   {
+   "device": "HNMAA",
+   "name": "HONOR 100",
+   "model": "MAA-AN00"
+  },
+  {
    "device": "HNMAP",
    "name": "HONOR 100 Pro",
    "model": "MAA-AN10"

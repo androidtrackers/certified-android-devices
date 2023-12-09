@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-08
+Last sync is 2023-12-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11438,6 +11438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
+|Honor|HONOR 100|HNMAA|MAA-AN00|
 |Honor|HONOR 100 Pro|HNMAP|MAA-AN10|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|

@@ -83256,6 +83256,13 @@
    "device": "VM3A-L0-P"
   }
  ],
+ "MAA-AN00": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 100",
+   "device": "HNMAA"
+  }
+ ],
  "MAA-AN10": [
   {
    "brand": "Honor",
