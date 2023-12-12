@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-11
+Last sync is 2023-12-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -828,6 +828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
 |Airtel|XStream Smart Box|hsw4026atl|XStream_Smart_Box_001|
 |Airtel|XStream Smart Box|hsw4026atl|hsw4026atl|
+|Airtel|Xstream4_AR|VIP7220SIAI|Xstream4_AR|
 |Aiuto|AT1001|AT1001|AT1001|
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
@@ -1290,6 +1291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Andersson|TBQ8322|TBQ8322|TBQ8322|
 |Andersson|TBQ_10321|TBQ_10321|TBQ_10321|
 |Andersson|TBX10|TBX10|TBX10|
+|AngelTech|P80|P80|P80|
 |Antel|DV8547|DV8547|DV8547|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
 |Anydata|Aquaris I8|bq_Aquaris|bq Aquaris|
@@ -3167,6 +3169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
 |BenQ|RM8604|RM8604|RM8604|
+|BenQ|RP6504|RP6504|RP6504|
 |BenQ|RP7504|RP7504|RP7504|
 |BenQ|RP8604|RP8604|RP8604|
 |BenQ|Smart TV|longshan|AI PONT|
@@ -3767,6 +3770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G33|G0892_SP|G33|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
+|Blu|G43|G0950|G43|
 |Blu|G5|G0090|G5|
 |Blu|G5 Plus|G0180LL|G5 Plus|
 |Blu|G5 Plus|G0190|G5 Plus|
@@ -7755,6 +7759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FELUX|X-ONE|X-ONE|X-ONE|
 |FELUX|X_Pro|X_Pro|X Pro|
 |FEONAL|D106_EEA|D106_EEA|D106_EEA|
+|FEONAL|D118_EEA|D118_EEA|D118_EEA|
 |FEONAL|K104|K104|K104|
 |FEONAL|K110_EEA|K110_EEA|K110_EEA|
 |FEONAL|K118_EEA|K118_EEA|K118_EEA|
@@ -9070,6 +9075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Mediatek MT8183 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
 |Google|Mediatek MT8186 Chromebook|corsola_cheets|corsola|
+|Google|Mediatek MT8186 Tablet|staryu_cheets|staryu|
 |Google|Mediatek MT8192 Chromebook|asurada_cheets|asurada|
 |Google|Mediatek MT8195 Chromebook|cherry_cheets|cherry|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
@@ -13929,6 +13935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART 7  or SMART 7 PLUS|Infinix-X6517|Infinix X6517|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
+|Infinix|SMRAT 8 PRO|Infinix-X6525B|Infinix X6525B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -14821,6 +14828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JabrBox|S502|S502|S502|
 |Jam|JAM|hongkong|4K SMART TV|
 |Jam|JAM|mountbaker|2K SMART TV|
+|Jambo_Technology|JamboPhone|JP1|JP1|
 |Janam|HT1|HT1|HT1|
 |Janam|XG200|XG200|XG200|
 |Janam|XG4|XG4|XG4|
@@ -18307,8 +18315,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10 PRC|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10 PRC|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
-|Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
-|Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328FU|TB328FU|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328XU|TB328XU|
@@ -18386,6 +18392,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo Tab V7|PB-6505Y|Lenovo PB-6505Y|
+|Lenovo|Lenovo Tab m11|J606F|Lenovo TB-J606F|
+|Lenovo|Lenovo Tab m11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab6|A101LV|A101LV|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
@@ -18624,6 +18632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|联想平板电脑 启天K10c|TB330FU|TB330FU|
+|Lenovo|联想平板电脑 启天K10c|TB330XC|TB330XC|
 |Lenovo|联想平板电脑 启天K11 Gen2|TB230FC|TB230FC|
 |Lenovo|联想平板电脑 启天K11 Gen2|TB230XC|TB230XC|
 |Lenovo|联想平板电脑 启天K12|TB240FC|TB240FC|
@@ -20973,6 +20982,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motorola Defy|bathena|Motorola Defy|
 |Motorola|Motorola Defy 2|BM2S1E|Defy 2|
 |Motorola|Motorola one|deen_sprout|motorola one|
+|Motorola|MotorolaTV|hayward|MotorolaTV|
 |Motorola|Motosmart|XT389|XT389|
 |Motorola|Motosmart|XT390|XT390|
 |Motorola|Motosmart|argonmini_umts|XT389|
@@ -21805,6 +21815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE T11 11QHD1|LAVIET1111QHD1|LAVIE T11 11QHD1|
 |NEC|LAVIE T8 8HD1|LAVIET88HD1|LAVIE T8 8HD1|
 |NEC|LAVIE Tab 102K1|LAVIETab102K1|LAVIE Tab 102K1|
+|NEC|LAVIE Tab 9QHD1|LAVIETab9QHD1|LAVIE Tab 9QHD1|
 |NEC|LAVIE Tab E|PC-TE410JAW|PC-TE410JAW|
 |NEC|LAVIE Tab E|PC-TE508HAW|PC-TE508HAW|
 |NEC|LAVIE Tab E|X704F|PC-TE510HAW|
@@ -23923,6 +23934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C51|water|2302EPCC4H|
 |POCO|POCO C51|water|2305EPCC4G|
 |POCO|POCO C55|earth|22127PC95I|
+|POCO|POCO C65|gale|2310FPCA4I|
 |POCO|POCO C65|gust|2310FPCA4G|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
@@ -23946,6 +23958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M5|rock|22071219CI|
 |POCO|POCO M5|stone|22071219CG|
 |POCO|POCO M5s|rosemary|2207117BPG|
+|POCO|POCO M6 Pro 5G|sky|23076PC4BI|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -26197,6 +26210,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 12C|earth|2212ARNC4L|
 |Redmi|Redmi 13C|gale|23100RN82L|
 |Redmi|Redmi 13C|gale|23106RN0DA|
+|Redmi|Redmi 13C|gale|2311DRN14I|
+|Redmi|Redmi 13C|gust|23108RN04Y|
+|Redmi|Redmi 13C 5G|air|23124RN87I|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -26322,8 +26338,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
 |Redmi|Redmi Note 12T Pro|pearl|23054RA19C|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABC|
-|Redmi|Redmi Note 13 Pro|garnet|2312CRAD3C|
-|Redmi|Redmi Note 13 Pro|garnet|2312DRA50C|
+|Redmi|Redmi Note 13 Pro 5G|garnet|2312CRAD3C|
+|Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50C|
 |Redmi|Redmi Note 13 Pro+|zircon|23090RA98C|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
@@ -36513,7 +36529,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2009|2009|I2009|
 |Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
-|Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
 |Vivo|I2202|I2202|I2202|
 |Vivo|NEX A|PD1806B|vivo NEX A|
@@ -36579,7 +36594,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1941A|PD1941|V1941A|
 |Vivo|V1945A|PD1945|V1945A|
 |Vivo|V1950A|PD1950|V1950A|
-|Vivo|V1955A|PD1955|V1955A|
 |Vivo|V1962A|PD1962|V1962A|
 |Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1965A|PD1965|V1965A|
@@ -36602,9 +36616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2023A|PD2023|V2023A|
 |Vivo|V2023EA|PD2023|V2023EA|
 |Vivo|V2024|1920|V2024|
-|Vivo|V2024A|PD2024|V2024A|
 |Vivo|V2025|2025|V2025|
-|Vivo|V2025A|PD2024|V2025A|
 |Vivo|V2026|2026|V2026|
 |Vivo|V2026_21|2026|V2026_21|
 |Vivo|V2027|2027|V2027|
@@ -36722,7 +36734,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2134A|PD2134|V2134A|
 |Vivo|V2135|2135|V2135|
 |Vivo|V2135A|PD2133|V2135A|
-|Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2136GA|PD2136|V2136GA|
 |Vivo|V2139|2120|V2139|
 |Vivo|V2140|2131|V2140|
@@ -36778,6 +36789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V29e 5G|V2317|V2317|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
+|Vivo|V30 Lite|V2317|V2314|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
 |Vivo|V3M A|PD1524B|vivo PD1524B|
 |Vivo|V3Max|V3Max|vivo V3Max|
@@ -36787,6 +36799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V9|1727ID|vivo 1727|
 |Vivo|V9 6GB|1723CF|vivo 1723|
 |Vivo|V9 Pro|1851|vivo 1851|
+|Vivo|X Flip|PD2256|V2256A|
 |Vivo|X100|PD2309|V2309A|
 |Vivo|X100 Pro|PD2324|V2324A|
 |Vivo|X100 Pro|V2309|V2309|
@@ -36833,6 +36846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y100A|V2222|V2222|
 |Vivo|Y11|PD2236|V2236A|
 |Vivo|Y11|Y11|vivo Y11|
+|Vivo|Y12|PD2317|V2317A|
 |Vivo|Y15|Y15|vivo Y15|
 |Vivo|Y15C|2120|V2212|
 |Vivo|Y15S|Y15S|vivo Y15S|
@@ -36865,6 +36879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y31i|Y31i|vivo Y31i|
 |Vivo|Y33|bbk6735_65c_l|vivo Y33|
 |Vivo|Y33t|PD2236|V2236A|
+|Vivo|Y33t|PD2317|V2317A|
 |Vivo|Y35|PD1502L|vivo Y35|
 |Vivo|Y35|PD2230|V2230A|
 |Vivo|Y35|V2205|V2205|
@@ -36887,6 +36902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y55A|PD1613|vivo Y55|
 |Vivo|Y55s|1610|vivo 1610|
 |Vivo|Y55s|PD2164|V2164A|
+|Vivo|Y55t|PD2279|V2279A|
 |Vivo|Y56 5G|V2225|V2225|
 |Vivo|Y56 5G|V2225|V2311|
 |Vivo|Y66|PD1621|vivo Y66|
@@ -36918,6 +36934,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 12|I2220|I2220|
 |Vivo|iQOO 12|PD2307|V2307A|
 |Vivo|iQOO 12 Pro|PD2329|V2329A|
+|Vivo|iQOO 3|PD1955|V1955A|
+|Vivo|iQOO 5|PD2024|V2024A|
+|Vivo|iQOO 5 Pro|PD2024|V2025A|
+|Vivo|iQOO 8|PD2136|V2136A|
+|Vivo|iQOO 8 Legend|2017|I2017|
 |Vivo|iQOO 9 Pro|2022|I2022|
 |Vivo|iQOO 9 SE|2019|I2019|
 |Vivo|iQOO 9T|I2201|I2201|
@@ -37024,12 +37045,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Pad2|DPD2221|PA2373|
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
+|Vivo|vivo S15e|PD2190|V2190A|
 |Vivo|vivo S16|PD2244|V2244A|
 |Vivo|vivo S16 Pro|PD2245|V2245A|
 |Vivo|vivo S16e|PD2239|V2239A|
 |Vivo|vivo S17e|PD2285|V2285A|
 |Vivo|vivo T2|PD2199|V2199GA|
-|Vivo|vivo X Flip|PD2256|V2256A|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
 |Vivo|vivo X Fold2|PD2266|V2266A|
@@ -39504,6 +39525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|RED MAGIC 5G|NX659J|NX659J|
 |ZTE|REDMAGIC 7|NX709J-EEA|NX709J|
 |ZTE|REDMAGIC 7Pro|NX709J-UN|NX709J|
+|ZTE|REDMAGIC 9 Pro|NX769J|NX769J|
 |ZTE|Racer|mooncake|Carl|
 |ZTE|Racer|mooncake|MTC 916|
 |ZTE|Racer|mooncake|MTS-SP100|
