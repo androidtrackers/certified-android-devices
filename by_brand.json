@@ -109129,6 +109129,16 @@
    "model": "moto g82 5G"
   },
   {
+   "device": "bangkk",
+   "name": "moto g84 5G",
+   "model": "moto g53 5G"
+  },
+  {
+   "device": "bangkk",
+   "name": "moto g84 5G",
+   "model": "moto g84 5G"
+  },
+  {
    "device": "robusta",
    "name": "moto p30",
    "model": "XT1943-1"
@@ -109307,6 +109317,16 @@
    "device": "lyriq",
    "name": "motorola edge 40",
    "model": "motorola edge 40"
+  },
+  {
+   "device": "manaus",
+   "name": "motorola edge 40 neo",
+   "model": "motorola edge (2022)"
+  },
+  {
+   "device": "manaus",
+   "name": "motorola edge 40 neo",
+   "model": "motorola edge 40 neo"
   },
   {
    "device": "rtwo",
@@ -187595,6 +187615,11 @@
    "model": "I2012"
   },
   {
+   "device": "2017",
+   "name": "I2017",
+   "model": "I2017"
+  },
+  {
    "device": "I2127",
    "name": "I2127",
    "model": "I2127"
@@ -187920,6 +187945,11 @@
    "model": "V1950A"
   },
   {
+   "device": "PD1955",
+   "name": "V1955A",
+   "model": "V1955A"
+  },
+  {
    "device": "PD1962",
    "name": "V1962A",
    "model": "V1962A"
@@ -188030,9 +188060,19 @@
    "model": "V2024"
   },
   {
+   "device": "PD2024",
+   "name": "V2024A",
+   "model": "V2024A"
+  },
+  {
    "device": "2025",
    "name": "V2025",
    "model": "V2025"
+  },
+  {
+   "device": "PD2024",
+   "name": "V2025A",
+   "model": "V2025A"
   },
   {
    "device": "2026",
@@ -188618,6 +188658,11 @@
    "device": "PD2133",
    "name": "V2135A",
    "model": "V2135A"
+  },
+  {
+   "device": "PD2136",
+   "name": "V2136A",
+   "model": "V2136A"
   },
   {
    "device": "PD2136",
@@ -189618,31 +189663,6 @@
    "device": "PD2329",
    "name": "iQOO 12 Pro",
    "model": "V2329A"
-  },
-  {
-   "device": "PD1955",
-   "name": "iQOO 3",
-   "model": "V1955A"
-  },
-  {
-   "device": "PD2024",
-   "name": "iQOO 5",
-   "model": "V2024A"
-  },
-  {
-   "device": "PD2024",
-   "name": "iQOO 5 Pro",
-   "model": "V2025A"
-  },
-  {
-   "device": "PD2136",
-   "name": "iQOO 8",
-   "model": "V2136A"
-  },
-  {
-   "device": "2017",
-   "name": "iQOO 8 Legend",
-   "model": "I2017"
   },
   {
    "device": "2022",

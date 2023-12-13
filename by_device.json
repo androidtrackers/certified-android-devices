@@ -145453,6 +145453,18 @@
    "model": "moto g82 5G"
   }
  ],
+ "bangkk": [
+  {
+   "brand": "Motorola",
+   "name": "moto g84 5G",
+   "model": "moto g53 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g84 5G",
+   "model": "moto g84 5G"
+  }
+ ],
  "robusta": [
   {
    "brand": "Motorola",
@@ -145729,6 +145741,18 @@
    "brand": "Motorola",
    "name": "motorola edge 40",
    "model": "motorola edge 40"
+  }
+ ],
+ "manaus": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 neo",
+   "model": "motorola edge (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 neo",
+   "model": "motorola edge 40 neo"
   }
  ],
  "burton": [
@@ -237187,6 +237211,13 @@
    "model": "I2012"
   }
  ],
+ "2017": [
+  {
+   "brand": "Vivo",
+   "name": "I2017",
+   "model": "I2017"
+  }
+ ],
  "I2127": [
   {
    "brand": "Vivo",
@@ -237691,6 +237722,13 @@
    "model": "V1950A"
   }
  ],
+ "PD1955": [
+  {
+   "brand": "Vivo",
+   "name": "V1955A",
+   "model": "V1955A"
+  }
+ ],
  "PD1962": [
   {
    "brand": "Vivo",
@@ -237840,6 +237878,18 @@
    "brand": "Vivo",
    "name": "V2023EA",
    "model": "V2023EA"
+  }
+ ],
+ "PD2024": [
+  {
+   "brand": "Vivo",
+   "name": "V2024A",
+   "model": "V2024A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2025A",
+   "model": "V2025A"
   }
  ],
  "2025": [
@@ -238608,13 +238658,13 @@
  "PD2136": [
   {
    "brand": "Vivo",
-   "name": "V2136GA",
-   "model": "V2136GA"
+   "name": "V2136A",
+   "model": "V2136A"
   },
   {
    "brand": "Vivo",
-   "name": "iQOO 8",
-   "model": "V2136A"
+   "name": "V2136GA",
+   "model": "V2136GA"
   }
  ],
  "PD2140": [
@@ -239834,32 +239884,6 @@
    "brand": "Vivo",
    "name": "iQOO 12 Pro",
    "model": "V2329A"
-  }
- ],
- "PD1955": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 3",
-   "model": "V1955A"
-  }
- ],
- "PD2024": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 5",
-   "model": "V2024A"
-  },
-  {
-   "brand": "Vivo",
-   "name": "iQOO 5 Pro",
-   "model": "V2025A"
-  }
- ],
- "2017": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 8 Legend",
-   "model": "I2017"
   }
  ],
  "2019": [

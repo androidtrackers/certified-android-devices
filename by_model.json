@@ -147207,6 +147207,11 @@
    "brand": "Motorola",
    "name": "moto g53 5G",
    "device": "penang"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g84 5G",
+   "device": "bangkk"
   }
  ],
  "moto g53j 5G": [
@@ -147309,6 +147314,13 @@
    "brand": "Motorola",
    "name": "moto g82 5G",
    "device": "rhodep"
+  }
+ ],
+ "moto g84 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g84 5G",
+   "device": "bangkk"
   }
  ],
  "XT1943-1": [
@@ -147416,6 +147428,11 @@
    "brand": "Motorola",
    "name": "motorola edge 2023",
    "device": "aion"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 neo",
+   "device": "manaus"
   }
  ],
  "motorola edge 20": [
@@ -147479,6 +147496,13 @@
    "brand": "Motorola",
    "name": "motorola edge 40",
    "device": "lyriq"
+  }
+ ],
+ "motorola edge 40 neo": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 neo",
+   "device": "manaus"
   }
  ],
  "motorola edge 40 pro": [
@@ -246335,6 +246359,13 @@
    "device": "2012"
   }
  ],
+ "I2017": [
+  {
+   "brand": "Vivo",
+   "name": "I2017",
+   "device": "2017"
+  }
+ ],
  "I2127": [
   {
    "brand": "Vivo",
@@ -246819,6 +246850,13 @@
    "device": "PD1950"
   }
  ],
+ "V1955A": [
+  {
+   "brand": "Vivo",
+   "name": "V1955A",
+   "device": "PD1955"
+  }
+ ],
  "V1962A": [
   {
    "brand": "Vivo",
@@ -246971,11 +247009,25 @@
    "device": "1920"
   }
  ],
+ "V2024A": [
+  {
+   "brand": "Vivo",
+   "name": "V2024A",
+   "device": "PD2024"
+  }
+ ],
  "V2025": [
   {
    "brand": "Vivo",
    "name": "V2025",
    "device": "2025"
+  }
+ ],
+ "V2025A": [
+  {
+   "brand": "Vivo",
+   "name": "V2025A",
+   "device": "PD2024"
   }
  ],
  "V2026": [
@@ -247768,6 +247820,13 @@
    "brand": "Vivo",
    "name": "V2135A",
    "device": "PD2133"
+  }
+ ],
+ "V2136A": [
+  {
+   "brand": "Vivo",
+   "name": "V2136A",
+   "device": "PD2136"
   }
  ],
  "V2136GA": [
@@ -249128,41 +249187,6 @@
    "brand": "Vivo",
    "name": "iQOO 12 Pro",
    "device": "PD2329"
-  }
- ],
- "V1955A": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 3",
-   "device": "PD1955"
-  }
- ],
- "V2024A": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 5",
-   "device": "PD2024"
-  }
- ],
- "V2025A": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 5 Pro",
-   "device": "PD2024"
-  }
- ],
- "V2136A": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 8",
-   "device": "PD2136"
-  }
- ],
- "I2017": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 8 Legend",
-   "device": "2017"
   }
  ],
  "I2022": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-12
+Last sync is 2023-12-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21229,6 +21229,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g82 5G|rhodep|XT2225-2|
 |Motorola|moto g82 5G|rhodep|moto g71 5G|
 |Motorola|moto g82 5G|rhodep|moto g82 5G|
+|Motorola|moto g84 5G|bangkk|moto g53 5G|
+|Motorola|moto g84 5G|bangkk|moto g84 5G|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto razr 40|lynkco|XT2323-3|
@@ -21265,6 +21267,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 30 ultra|eqs|motorola edge 30 ultra|
 |Motorola|motorola edge 40|lyriq|moto g 5G (2022)|
 |Motorola|motorola edge 40|lyriq|motorola edge 40|
+|Motorola|motorola edge 40 neo|manaus|motorola edge (2022)|
+|Motorola|motorola edge 40 neo|manaus|motorola edge 40 neo|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 30 pro|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 40 pro|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
@@ -36529,6 +36533,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2009|2009|I2009|
 |Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
+|Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
 |Vivo|I2202|I2202|I2202|
 |Vivo|NEX A|PD1806B|vivo NEX A|
@@ -36594,6 +36599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1941A|PD1941|V1941A|
 |Vivo|V1945A|PD1945|V1945A|
 |Vivo|V1950A|PD1950|V1950A|
+|Vivo|V1955A|PD1955|V1955A|
 |Vivo|V1962A|PD1962|V1962A|
 |Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1965A|PD1965|V1965A|
@@ -36616,7 +36622,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2023A|PD2023|V2023A|
 |Vivo|V2023EA|PD2023|V2023EA|
 |Vivo|V2024|1920|V2024|
+|Vivo|V2024A|PD2024|V2024A|
 |Vivo|V2025|2025|V2025|
+|Vivo|V2025A|PD2024|V2025A|
 |Vivo|V2026|2026|V2026|
 |Vivo|V2026_21|2026|V2026_21|
 |Vivo|V2027|2027|V2027|
@@ -36734,6 +36742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2134A|PD2134|V2134A|
 |Vivo|V2135|2135|V2135|
 |Vivo|V2135A|PD2133|V2135A|
+|Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2136GA|PD2136|V2136GA|
 |Vivo|V2139|2120|V2139|
 |Vivo|V2140|2131|V2140|
@@ -36934,11 +36943,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 12|I2220|I2220|
 |Vivo|iQOO 12|PD2307|V2307A|
 |Vivo|iQOO 12 Pro|PD2329|V2329A|
-|Vivo|iQOO 3|PD1955|V1955A|
-|Vivo|iQOO 5|PD2024|V2024A|
-|Vivo|iQOO 5 Pro|PD2024|V2025A|
-|Vivo|iQOO 8|PD2136|V2136A|
-|Vivo|iQOO 8 Legend|2017|I2017|
 |Vivo|iQOO 9 Pro|2022|I2022|
 |Vivo|iQOO 9 SE|2019|I2019|
 |Vivo|iQOO 9T|I2201|I2201|
