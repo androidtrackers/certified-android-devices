@@ -32974,6 +32974,13 @@
    "device": "M8047IU"
   }
  ],
+ "IMTM4000RA": [
+  {
+   "brand": "Brisanet",
+   "name": "brisaboxTV",
+   "device": "IMTM4000RA"
+  }
+ ],
  "Britania Smart TV": [
   {
    "brand": "Britania",
@@ -39725,6 +39732,13 @@
    "brand": "Compaq",
    "name": "QTab8_LTE",
    "device": "QTab8_LTE"
+  }
+ ],
+ "QTabPro": [
+  {
+   "brand": "Compaq",
+   "name": "QTabPro",
+   "device": "Qtab"
   }
  ],
  "Qtab 10.1 with keyboard": [
@@ -180990,6 +181004,13 @@
    "device": "NovaTab_R10"
   }
  ],
+ "R10s": [
+  {
+   "brand": "Rizzen",
+   "name": "NovaTab_R10s",
+   "device": "NovaTab_R10s"
+  }
+ ],
  "RQ-G": [
   {
    "brand": "RoadQuest",
@@ -185523,13 +185544,6 @@
    "device": "a05s"
   }
  ],
- "SM-E145F": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A05s",
-   "device": "a05s"
-  }
- ],
  "SM-M145F": [
   {
    "brand": "Samsung",
@@ -185927,6 +185941,76 @@
    "brand": "Samsung",
    "name": "Galaxy A14 5G",
    "device": "a14xm"
+  }
+ ],
+ "SM-A155F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15",
+   "device": "a15"
+  }
+ ],
+ "SM-A155M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15",
+   "device": "a15"
+  }
+ ],
+ "SM-A1560": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-A156B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-A156E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-A156M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-A156U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-A156U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-A156W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
+  }
+ ],
+ "SM-S156V": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "device": "a15x"
   }
  ],
  "SM-A260F": [
@@ -189772,6 +189856,13 @@
    "brand": "Samsung",
    "name": "Galaxy F13",
    "device": "m13"
+  }
+ ],
+ "SM-E145F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F14",
+   "device": "a05s"
   }
  ],
  "SM-E146B": [
@@ -230701,6 +230792,13 @@
    "device": "Czech"
   }
  ],
+ "ONT2HD": [
+  {
+   "brand": "TELE System",
+   "name": "ON T2 HD",
+   "device": "ONT2HD"
+  }
+ ],
  "UPT24K": [
   {
    "brand": "TELE System",
@@ -249285,11 +249383,25 @@
    "device": "PD2302"
   }
  ],
+ "V2338A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo9",
+   "device": "PD2338"
+  }
+ ],
  "iPA2375": [
   {
    "brand": "Vivo",
    "name": "iQOO Pad",
    "device": "DPD2307"
+  }
+ ],
+ "iPA2451": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Pad Air",
+   "device": "DPD2305"
   }
  ],
  "I2018": [

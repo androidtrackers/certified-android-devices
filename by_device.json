@@ -37725,6 +37725,13 @@
    "model": "M8047IU"
   }
  ],
+ "IMTM4000RA": [
+  {
+   "brand": "Brisanet",
+   "name": "brisaboxTV",
+   "model": "IMTM4000RA"
+  }
+ ],
  "BT_Home_SmartPhone_III": [
   {
    "brand": "British Telecom",
@@ -44237,6 +44244,13 @@
    "brand": "Compaq",
    "name": "QTab8_LTE",
    "model": "QTab8_LTE"
+  }
+ ],
+ "Qtab": [
+  {
+   "brand": "Compaq",
+   "name": "QTabPro",
+   "model": "QTabPro"
   }
  ],
  "Qtab10": [
@@ -177619,6 +177633,13 @@
    "model": "NovaTab_R10"
   }
  ],
+ "NovaTab_R10s": [
+  {
+   "brand": "Rizzen",
+   "name": "NovaTab_R10s",
+   "model": "R10s"
+  }
+ ],
  "RQ-G": [
   {
    "brand": "RoadQuest",
@@ -181665,12 +181686,12 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A05s",
-   "model": "SM-E145F"
+   "model": "SM-M145F"
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy A05s",
-   "model": "SM-M145F"
+   "name": "Galaxy F14",
+   "model": "SM-E145F"
   }
  ],
  "a10e": [
@@ -181947,6 +181968,60 @@
    "brand": "Samsung",
    "name": "Galaxy A14 5G",
    "model": "SM-S146VL"
+  }
+ ],
+ "a15": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15",
+   "model": "SM-A155F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15",
+   "model": "SM-A155M"
+  }
+ ],
+ "a15x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A1560"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A156B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A156E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A156M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A156U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A156U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-A156W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15 5G",
+   "model": "SM-S156V"
   }
  ],
  "a2corelte": [
@@ -222252,6 +222327,13 @@
    "model": "BeNeLux\""
   }
  ],
+ "ONT2HD": [
+  {
+   "brand": "TELE System",
+   "name": "ON T2 HD",
+   "model": "ONT2HD"
+  }
+ ],
  "UPT24K": [
   {
    "brand": "TELE System",
@@ -239975,11 +240057,30 @@
    "model": "V2302A"
   }
  ],
+ "PD2338": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo9",
+   "model": "V2338A"
+  }
+ ],
  "DPD2307": [
   {
    "brand": "Vivo",
    "name": "iQOO Pad",
    "model": "iPA2375"
+  }
+ ],
+ "DPD2305": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Pad Air",
+   "model": "iPA2451"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad Air",
+   "model": "PA2353"
   }
  ],
  "2018": [
@@ -240507,13 +240608,6 @@
    "brand": "Vivo",
    "name": "vivo NEX S",
    "model": "vivo NEX S"
-  }
- ],
- "DPD2305": [
-  {
-   "brand": "Vivo",
-   "name": "vivo Pad Air",
-   "model": "PA2353"
   }
  ],
  "DPD2221": [

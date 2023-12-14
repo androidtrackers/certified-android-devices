@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-13
+Last sync is 2023-12-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4147,6 +4147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brightside|KS_T01|KS_T01|KS_T01|
 |Brightstar|C8|C8|C8|
 |Brightstar|M8046IU|M8047IU|M8047IU|
+|Brisanet|brisaboxTV|IMTM4000RA|IMTM4000RA|
 |Britania|Britania Smart TV|sunnyvale|Britania Smart TV|
 |Britania|Britania Smart plus TV|SW6H|Britania Smart plus TV|
 |British Telecom|BT Home SmartPhone III|BT_Home_SmartPhone_III|E81|
@@ -5093,6 +5094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
 |Compaq|QTab8|QTab8|QTab8|
 |Compaq|QTab8_LTE|QTab8_LTE|QTab8_LTE|
+|Compaq|QTabPro|Qtab|QTabPro|
 |Compaq|Qtab 10.1 with keyboard|Qtab10|Qtab 10.1 with keyboard|
 |Compaq|Qtab10Plus|Qtab10Plus|Qtab10Plus|
 |Compaq|Venezuela|marina|COMPAQ SMART 4K TV|
@@ -26522,6 +26524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Rixun|T107|T107|T107|
 |Rizzen|NovaTab_R10|NovaTab_R10|NovaTab_R10|
+|Rizzen|NovaTab_R10s|NovaTab_R10s|R10s|
 |Rizzen|S1|S1|S1|
 |Rizzen|X1|X1|X1|
 |RoadQuest|RoadQuest|RQ-G|RQ-G|
@@ -27225,7 +27228,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A05s|a05s|SM-A057F|
 |Samsung|Galaxy A05s|a05s|SM-A057G|
 |Samsung|Galaxy A05s|a05s|SM-A057M|
-|Samsung|Galaxy A05s|a05s|SM-E145F|
 |Samsung|Galaxy A05s|a05s|SM-M145F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
@@ -27283,6 +27285,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A14 5G|a14xm|SM-A146U1|
 |Samsung|Galaxy A14 5G|a14xm|SM-A146W|
 |Samsung|Galaxy A14 5G|a14xm|SM-S146VL|
+|Samsung|Galaxy A15|a15|SM-A155F|
+|Samsung|Galaxy A15|a15|SM-A155M|
+|Samsung|Galaxy A15 5G|a15x|SM-A1560|
+|Samsung|Galaxy A15 5G|a15x|SM-A156B|
+|Samsung|Galaxy A15 5G|a15x|SM-A156E|
+|Samsung|Galaxy A15 5G|a15x|SM-A156M|
+|Samsung|Galaxy A15 5G|a15x|SM-A156U|
+|Samsung|Galaxy A15 5G|a15x|SM-A156U1|
+|Samsung|Galaxy A15 5G|a15x|SM-A156W|
+|Samsung|Galaxy A15 5G|a15x|SM-S156V|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -27838,6 +27850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F13|m13|SM-E135F|
+|Samsung|Galaxy F14|a05s|SM-E145F|
 |Samsung|Galaxy F14 5G|m14x|SM-E146B|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
@@ -34000,6 +34013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TEKLIO|Smart TV|redwood|AI PONT|
 |TELE System|EU、UK、AP|martin|TELESYSTEM 2K Android TV|
 |TELE System|"Italy，Poland|Czech|BeNeLux"|
+|TELE System|ON T2 HD|ONT2HD|ONT2HD|
 |TELE System|UPT24K|UPT24K|UPT24K|
 |TELOX|TE620G|TE620G|TE620G|
 |TELSTAR|TELSTAR 2K Google TV|capitolhill|TELSTAR 2K Google TV|
@@ -36957,7 +36971,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo7 竞速版|PD2232|V2232A|
 |Vivo|iQOO Neo8|PD2301|V2301A|
 |Vivo|iQOO Neo8 Pro|PD2302|V2302A|
+|Vivo|iQOO Neo9|PD2338|V2338A|
 |Vivo|iQOO Pad|DPD2307|iPA2375|
+|Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|
