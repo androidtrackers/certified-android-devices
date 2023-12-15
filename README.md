@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-14
+Last sync is 2023-12-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1228,6 +1228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|STARXTREM5|STARXTREM5|STARXTREM5|
 |Altice|SX41|HS6737MT|SX41|
 |Altice|Staractive|STARACTIVE|STARACTIVE|
+|Altice|Stream V2|DIW377AUSA|Stream|
 |Altice|T10|T10|T10|
 |Altron|BE-730|BE-730|BE-730|
 |Altron|GHIA|GH1|GH1|
@@ -7815,6 +7816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8Plus|T8Plus|T8 Plus|
 |FOXXD|T8Pro|T8Pro|T8Pro|
 |FPD|FPD|hongkong|EcoTV Pro D|
+|FPD|FPD|lavender|EcoTV Plus D|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|FPT Play Box +|SEI500FPT|FPT Play Box +|
@@ -11471,6 +11473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
+|Honor|HONOR Pad X9|HNELN-Q|ELN-L03|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
 |Honor|HONOR X5|HNVNA-M|VNA-LX2|
@@ -11501,6 +11504,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X8a|HNCRT-M1|CRT-LX2|
 |Honor|HONOR X8a|HNCRT-M1|CRT-LX3|
 |Honor|HONOR X8a 5G|HNRBN-Q|RBN-NX3|
+|Honor|HONOR X8b|HNLLY-Q|LLY-LX1|
+|Honor|HONOR X8b|HNLLY-Q|LLY-LX2|
+|Honor|HONOR X8b|HNLLY-Q|LLY-LX3|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX2|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
@@ -15226,6 +15232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VON|zhongshan|4K SMART TV|
 |KTCtv|VOXELECTRONICS|hongkong|4K SMART TV|
 |KTCtv|VOXELECTRONICS|mountbaker|2K SMART TV|
+|KTCtv|WYBOR|lavender|4K SMART TV|
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
 |KTCtv|YARA|hongkong|4K SMART TV|
@@ -35647,6 +35654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|AblePad_Pro|AblePad_Pro|MT04|
 |Umidigi|AblePad_Pro-EEA|AblePad_Pro-EEA|MT04|
 |Umidigi|Active T1|Active_T1|MT09|
+|Umidigi|Active T1 EEA|Active_T1|MT09|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|BISON 2|BISON_2|RP04|
 |Umidigi|BISON 2 EEA|BISON_2|RP04|

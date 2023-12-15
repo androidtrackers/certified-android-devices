@@ -4494,6 +4494,11 @@
    "device": "a3"
   },
   {
+   "brand": "Altice",
+   "name": "Stream V2",
+   "device": "DIW377AUSA"
+  },
+  {
    "brand": "Stream",
    "name": "Stream",
    "device": "DV8555-Altice"
@@ -7303,6 +7308,11 @@
    "brand": "KTCtv",
    "name": "VOXELECTRONICS",
    "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
+   "device": "lavender"
   },
   {
    "brand": "KTCtv",
@@ -59013,6 +59023,18 @@
    "device": "hongkong"
   }
  ],
+ "EcoTV Plus D": [
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EcoTV Plus D",
+   "device": "hongkong"
+  }
+ ],
  "FPT ATV Play Box": [
   {
    "brand": "FPT Telecom",
@@ -83510,6 +83532,13 @@
    "device": "HNAGM"
   }
  ],
+ "ELN-L03": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X9",
+   "device": "HNELN-Q"
+  }
+ ],
  "ELN-L09": [
   {
    "brand": "Honor",
@@ -83718,6 +83747,27 @@
    "brand": "Honor",
    "name": "HONOR X8a 5G",
    "device": "HNRBN-Q"
+  }
+ ],
+ "LLY-LX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8b",
+   "device": "HNLLY-Q"
+  }
+ ],
+ "LLY-LX2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8b",
+   "device": "HNLLY-Q"
+  }
+ ],
+ "LLY-LX3": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8b",
+   "device": "HNLLY-Q"
   }
  ],
  "ANY-LX2": [
@@ -107845,13 +107895,6 @@
   {
    "brand": "KTCtv",
    "name": "EcoTV Plus C",
-   "device": "hongkong"
-  }
- ],
- "EcoTV Plus D": [
-  {
-   "brand": "KTCtv",
-   "name": "EcoTV Plus D",
    "device": "hongkong"
   }
  ],
@@ -241090,6 +241133,11 @@
   {
    "brand": "Umidigi",
    "name": "Active T1",
+   "device": "Active_T1"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Active T1 EEA",
    "device": "Active_T1"
   }
  ],

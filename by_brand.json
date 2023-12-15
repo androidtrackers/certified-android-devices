@@ -6406,6 +6406,11 @@
    "model": "STARACTIVE"
   },
   {
+   "device": "DIW377AUSA",
+   "name": "Stream V2",
+   "model": "Stream"
+  },
+  {
    "device": "T10",
    "name": "T10",
    "model": "T10"
@@ -40577,6 +40582,11 @@
    "device": "hongkong",
    "name": "FPD",
    "model": "EcoTV Pro D"
+  },
+  {
+   "device": "lavender",
+   "name": "FPD",
+   "model": "EcoTV Plus D"
   }
  ],
  "FPT Telecom": [
@@ -59345,6 +59355,11 @@
   {
    "device": "HNELN-Q",
    "name": "HONOR Pad X9",
+   "model": "ELN-L03"
+  },
+  {
+   "device": "HNELN-Q",
+   "name": "HONOR Pad X9",
    "model": "ELN-L09"
   },
   {
@@ -59491,6 +59506,21 @@
    "device": "HNRBN-Q",
    "name": "HONOR X8a 5G",
    "model": "RBN-NX3"
+  },
+  {
+   "device": "HNLLY-Q",
+   "name": "HONOR X8b",
+   "model": "LLY-LX1"
+  },
+  {
+   "device": "HNLLY-Q",
+   "name": "HONOR X8b",
+   "model": "LLY-LX2"
+  },
+  {
+   "device": "HNLLY-Q",
+   "name": "HONOR X8b",
+   "model": "LLY-LX3"
   },
   {
    "device": "HNANY-Q1",
@@ -78480,6 +78510,11 @@
    "device": "mountbaker",
    "name": "VOXELECTRONICS",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "WYBOR",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -182980,6 +183015,11 @@
   {
    "device": "Active_T1",
    "name": "Active T1",
+   "model": "MT09"
+  },
+  {
+   "device": "Active_T1",
+   "name": "Active T1 EEA",
    "model": "MT09"
   },
   {

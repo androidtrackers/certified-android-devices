@@ -17022,6 +17022,13 @@
    "model": "STARACTIVE"
   }
  ],
+ "Stream V2": [
+  {
+   "brand": "Altice",
+   "device": "DIW377AUSA",
+   "model": "Stream"
+  }
+ ],
  "T10": [
   {
    "brand": "Altice",
@@ -65711,6 +65718,11 @@
    "brand": "FPD",
    "device": "hongkong",
    "model": "EcoTV Pro D"
+  },
+  {
+   "brand": "FPD",
+   "device": "lavender",
+   "model": "EcoTV Plus D"
   }
  ],
  "FPT ATV Play Box": [
@@ -89208,6 +89220,11 @@
   {
    "brand": "Honor",
    "device": "HNELN-Q",
+   "model": "ELN-L03"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNELN-Q",
    "model": "ELN-L09"
   },
   {
@@ -89376,6 +89393,23 @@
    "brand": "Honor",
    "device": "HNRBN-Q",
    "model": "RBN-NX3"
+  }
+ ],
+ "HONOR X8b": [
+  {
+   "brand": "Honor",
+   "device": "HNLLY-Q",
+   "model": "LLY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNLLY-Q",
+   "model": "LLY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNLLY-Q",
+   "model": "LLY-LX3"
   }
  ],
  "HONOR X9": [
@@ -110100,6 +110134,13 @@
   },
   {
    "brand": "VOXelectronics",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
+ "WYBOR": [
+  {
+   "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
   }
@@ -230130,6 +230171,13 @@
   }
  ],
  "Active T1": [
+  {
+   "brand": "Umidigi",
+   "device": "Active_T1",
+   "model": "MT09"
+  }
+ ],
+ "Active T1 EEA": [
   {
    "brand": "Umidigi",
    "device": "Active_T1",

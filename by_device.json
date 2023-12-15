@@ -11825,6 +11825,11 @@
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Plus D"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV 4K"
@@ -11917,6 +11922,11 @@
   {
    "brand": "KTCtv",
    "name": "VEIRA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
    "model": "4K SMART TV"
   },
   {
@@ -16055,6 +16065,13 @@
    "brand": "Mobiwire",
    "name": "STARXTREM 5",
    "model": "STARXTREM5"
+  }
+ ],
+ "DIW377AUSA": [
+  {
+   "brand": "Altice",
+   "name": "Stream V2",
+   "model": "Stream"
   }
  ],
  "T10": [
@@ -86298,6 +86315,11 @@
   {
    "brand": "Honor",
    "name": "HONOR Pad X9",
+   "model": "ELN-L03"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X9",
    "model": "ELN-L09"
   },
   {
@@ -86457,6 +86479,23 @@
    "brand": "Honor",
    "name": "HONOR X8a",
    "model": "CRT-LX3"
+  }
+ ],
+ "HNLLY-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8b",
+   "model": "LLY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8b",
+   "model": "LLY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8b",
+   "model": "LLY-LX3"
   }
  ],
  "F13": [
@@ -232146,6 +232185,11 @@
   {
    "brand": "Umidigi",
    "name": "Active T1",
+   "model": "MT09"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Active T1 EEA",
    "model": "MT09"
   }
  ],
