@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-15
+Last sync is 2023-12-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28267,6 +28267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M13|m13|SM-M135FU|
 |Samsung|Galaxy M13|m13|SM-M135M|
 |Samsung|Galaxy M13 5G|a13x|SM-M136B|
+|Samsung|Galaxy M14|a05s|SM-M145F|
 |Samsung|Galaxy M14 5G|m14x|SM-M146B|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|

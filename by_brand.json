@@ -145327,6 +145327,11 @@
    "model": "SM-M136B"
   },
   {
+   "device": "a05s",
+   "name": "Galaxy M14",
+   "model": "SM-M145F"
+  },
+  {
    "device": "m14x",
    "name": "Galaxy M14 5G",
    "model": "SM-M146B"
