@@ -11505,6 +11505,27 @@
    "model": "AIM75-WIFI"
   }
  ],
+ "dlt_v7310": [
+  {
+   "brand": "Advantech",
+   "name": "DLT-V7310AP",
+   "model": "DLT-V7310AP"
+  }
+ ],
+ "dlt_v7312": [
+  {
+   "brand": "Advantech",
+   "name": "DLT-V7312AP",
+   "model": "DLT-V7312AP"
+  }
+ ],
+ "dlt_v7312plus": [
+  {
+   "brand": "Advantech",
+   "name": "DLT-V7312AP+",
+   "model": "DLT-V7312AP+"
+  }
+ ],
  "Aelion_i8": [
   {
    "brand": "Aelion",
@@ -105379,6 +105400,13 @@
    "brand": "Itel",
    "name": "itel P55+",
    "model": "itel P663L"
+  }
+ ],
+ "itel-P663LN": [
+  {
+   "brand": "Itel",
+   "name": "itel P55+",
+   "model": "itel P663LN"
   }
  ],
  "itel-P665L": [
@@ -264866,6 +264894,13 @@
    "model": "RMX3371"
   }
  ],
+ "RE58D1L1": [
+  {
+   "brand": "realme",
+   "name": "realme GT Neo 5 SE",
+   "model": "RMX3701"
+  }
+ ],
  "REE2B2L1": [
   {
    "brand": "realme",
@@ -265177,13 +265212,6 @@
    "model": "RMX3708"
   }
  ],
- "RE5869": [
-  {
-   "brand": "realme",
-   "name": "真我 10 Pro",
-   "model": "RMX3770"
-  }
- ],
  "RE5489": [
   {
    "brand": "realme",
@@ -265208,6 +265236,13 @@
    "brand": "realme",
    "name": "真我 Q3 Pro 5G",
    "model": "RMX2205"
+  }
+ ],
+ "RE5869": [
+  {
+   "brand": "realme",
+   "name": "真我11 Pro",
+   "model": "RMX3770"
   }
  ],
  "RE5471": [
@@ -265258,6 +265293,18 @@
    "brand": "realme",
    "name": "真我V13 5G",
    "model": "RMX3043"
+  }
+ ],
+ "RE5C34": [
+  {
+   "brand": "realme",
+   "name": "真我V50",
+   "model": "RMX3783"
+  },
+  {
+   "brand": "realme",
+   "name": "真我V50s",
+   "model": "RMX3781"
   }
  ],
  "Valuer_V8": [

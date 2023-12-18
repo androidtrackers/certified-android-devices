@@ -4155,6 +4155,21 @@
    "device": "AIM75-WIFI",
    "name": "AIM75-WIFI",
    "model": "AIM75-WIFI"
+  },
+  {
+   "device": "dlt_v7310",
+   "name": "DLT-V7310AP",
+   "model": "DLT-V7310AP"
+  },
+  {
+   "device": "dlt_v7312",
+   "name": "DLT-V7312AP",
+   "model": "DLT-V7312AP"
+  },
+  {
+   "device": "dlt_v7312plus",
+   "name": "DLT-V7312AP+",
+   "model": "DLT-V7312AP+"
   }
  ],
  "Aelion": [
@@ -75497,6 +75512,11 @@
    "device": "itel-P663L",
    "name": "itel P55+",
    "model": "itel P663L"
+  },
+  {
+   "device": "itel-P663LN",
+   "name": "itel P55+",
+   "model": "itel P663LN"
   },
   {
    "device": "itel-P665L",
@@ -212132,6 +212152,11 @@
    "model": "RMX3371"
   },
   {
+   "device": "RE58D1L1",
+   "name": "realme GT Neo 5 SE",
+   "model": "RMX3701"
+  },
+  {
    "device": "RE879AL1",
    "name": "realme GT Neo2 5G",
    "model": "RMX3370"
@@ -212412,11 +212437,6 @@
    "model": "RMX3708"
   },
   {
-   "device": "RE5869",
-   "name": "真我 10 Pro",
-   "model": "RMX3770"
-  },
-  {
    "device": "RE5489",
    "name": "真我 GT NEO  3  150W",
    "model": "RMX3562"
@@ -212445,6 +212465,11 @@
    "device": "RE584B",
    "name": "真我 V20",
    "model": "RMX3611"
+  },
+  {
+   "device": "RE5869",
+   "name": "真我11 Pro",
+   "model": "RMX3770"
   },
   {
    "device": "RE5471",
@@ -212490,6 +212515,16 @@
    "device": "RE5081",
    "name": "真我V13 5G",
    "model": "RMX3043"
+  },
+  {
+   "device": "RE5C34",
+   "name": "真我V50",
+   "model": "RMX3783"
+  },
+  {
+   "device": "RE5C34",
+   "name": "真我V50s",
+   "model": "RMX3781"
   }
  ],
  "redfox": [

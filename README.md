@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-17
+Last sync is 2023-12-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -793,6 +793,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advantage Air|PIC8GS8|PIC8GS8|PIC8GS8|
 |Advantech|AIM75-LTE|AIM75-LTE|AIM75-LTE|
 |Advantech|AIM75-WIFI|AIM75-WIFI|AIM75-WIFI|
+|Advantech|DLT-V7310AP|dlt_v7310|DLT-V7310AP|
+|Advantech|DLT-V7312AP|dlt_v7312|DLT-V7312AP|
+|Advantech|DLT-V7312AP+|dlt_v7312plus|DLT-V7312AP+|
 |Aelion|i8|Aelion_i8|i8|
 |Aeon Communication (IN)|AE1020|AE1020|AE1020|
 |Affix|T737|AFFIX_T737|AFFIX T737|
@@ -14659,6 +14662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P55|itel-A666LN|itel A666LN|
 |Itel|itel P55 5G|itel-P661N|itel P661N|
 |Itel|itel P55+|itel-P663L|itel P663L|
+|Itel|itel P55+|itel-P663LN|itel P663LN|
 |Itel|itel P55T|itel-P665L|itel P665L|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
@@ -41314,6 +41318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|
 |realme|realme GT NEO 3 150W|RED8BEL1|RMX3563|
 |realme|realme GT NEO 3T|RE54E4L1|RMX3371|
+|realme|realme GT Neo 5 SE|RE58D1L1|RMX3701|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme GT3 240W|REE2B2L1|RMX3709|
@@ -41370,13 +41375,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |realme|realmeGT Neo5|RE5860|RMX3706|
 |realme|realmeGT Neo5 240W|RE5860|RMX3708|
-|realme|真我 10 Pro|RE5869|RMX3770|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 GT2 大师探索版|RE5465|RMX3551|
 |realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
 |realme|真我 V20|RE584B|RMX3610|
 |realme|真我 V20|RE584B|RMX3611|
+|realme|真我11 Pro|RE5869|RMX3770|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
@@ -41386,6 +41391,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V13 5G|RE5081|RMX3041|
 |realme|真我V13 5G|RE5081|RMX3042|
 |realme|真我V13 5G|RE5081|RMX3043|
+|realme|真我V50|RE5C34|RMX3783|
+|realme|真我V50s|RE5C34|RMX3781|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_R10S|R10S|Wizpad Valuer R10S|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
