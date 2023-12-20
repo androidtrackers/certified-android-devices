@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-19
+Last sync is 2023-12-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5094,6 +5094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|India/Srilanka/Bangladesh/GCC|guandu|COMPAQ ANDROID 4K TV|
 |Compaq|India/Srilanka/Bangladesh/GCC|martin|COMPAQ ANDROID 2K TV|
 |Compaq|Q5|Q5|Q5|
+|Compaq|Q6|Q6|Q6|
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
 |Compaq|QTab8|QTab8|QTab8|
@@ -9285,7 +9286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
-|HIKVISION|DS-D5C65RB/A|DS_D5C65RB_A|DS_D5C65RB_A|
+|HIKVISION|DS-D5C|DS_D5C65RB_A|DS_D5C65RB_A|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
 |HKC|A79 Tablet|EM62|A79|
@@ -14135,6 +14136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inovacel|INOVACEL S24|S24|S24|
 |Inrico|IRC200|IRC200|Intelligent_Multi-mode_Radio|
 |Inrico|IRC200EU|IRC200EU|Intelligent_Multi-mode_Radio|
+|Inrico|S350|S350|S350|
 |Insignia|FLEX 8’’ LTE Android Tablet|ns_15t8lte|NS-15T8LTE|
 |Insignia|Flex 10.1|ns_14t004|NS-14T004|
 |Insignia|"Flex 8"""|ns_15at08|NS-15AT08|
@@ -19111,6 +19113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEDER|MEDER|smartguide210_eea|SmartGuide_2.10|
 |MEDER|SmartGuide210-464|SmartGuide210-464|SmartGuide210-464|
 |MEDER|m60|m60|m60|
+|MEFERI|ME10|ME10|ME10|
 |MEFERI|ME40K|ME40K|ME40K|
 |MEFERI|ME40M|ME40K_M|ME40K|
 |MEFERI|ME61|ME61|ME61|
@@ -23994,6 +23997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V10|V10|V10|
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
+|POS Terminal|ACT|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
@@ -25537,6 +25541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
 |Proximus|Proximus TV|uiw4020pxm|decoder|
+|Proximus|Proximus TV|uiw4068pxm|tvbox|
 |Punos|Punos X10|PTX1022G|X10 Tablet|
 |Punos|Punos X8 PTX822G|PTX822G|X8 Tablet|
 |Punos|Punos_10|Punos_10|Punos 10|
@@ -27239,7 +27244,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A05s|a05s|SM-A057F|
 |Samsung|Galaxy A05s|a05s|SM-A057G|
 |Samsung|Galaxy A05s|a05s|SM-A057M|
-|Samsung|Galaxy A05s|a05s|SM-M145F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -27358,6 +27362,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A24|a24|SM-A245F|
 |Samsung|Galaxy A24|a24|SM-A245M|
 |Samsung|Galaxy A24|a24|SM-A245N|
+|Samsung|Galaxy A25 5G|a25x|SM-A2560|
+|Samsung|Galaxy A25 5G|a25x|SM-A256B|
+|Samsung|Galaxy A25 5G|a25x|SM-A256E|
+|Samsung|Galaxy A25 5G|a25x|SM-A256N|
+|Samsung|Galaxy A25 5G|a25x|SM-A256U|
+|Samsung|Galaxy A25 5G|a25x|SM-A256U1|
+|Samsung|Galaxy A25 5G|a25x|SM-S256VL|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -36878,6 +36889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y02t|V2254|V2252|
 |Vivo|Y02t|V2254|V2254|
 |Vivo|Y02t|V2254|V2325|
+|Vivo|Y100|PD2313|V2313A|
 |Vivo|Y100|V2239|V2239|
 |Vivo|Y100A|V2222|V2222|
 |Vivo|Y11|PD2236|V2236A|
@@ -36949,7 +36961,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y78 5G|V2244|V2244|
 |Vivo|Y78+|PD2271|V2271A|
 |Vivo|Y78m|PD2278|V2278A|
-|Vivo|Y79+|PD2313|V2313A|
 |Vivo|Y79A|PD1708|vivo PD1708|
 |Vivo|Y79A|PD1708|vivo Y79A|
 |Vivo|Y937|PD1503|vivo Y937|
@@ -37083,6 +37094,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S16 Pro|PD2245|V2245A|
 |Vivo|vivo S16e|PD2239|V2239A|
 |Vivo|vivo S17e|PD2285|V2285A|
+|Vivo|vivo S18|PD2323|V2323A|
+|Vivo|vivo S18e|PD2334|V2334A|
 |Vivo|vivo T2|PD2199|V2199GA|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
@@ -38079,6 +38092,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |XORO|Megapad_1333|XORO|Megapad_1333|
 |XPLORE|XPLORE X7U|X7U|XPLORE X7U|
+|XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
+|XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
 |XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|
 |Xcell|Enia|Xcell_Enia|Enia|
 |Xcell|View|View|View|
@@ -40610,6 +40625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |aoson|M753|M753|M753|
 |aoson|R103|R103|R103|
 |aoson|aoson|M815|M815|
+|axs+|AXS B866V2FA|B866V2FA_AXS|AXS B866V2FA|
 |bbox|bbox|bbox-M752A|bbox-M752A|
 |beafon|Class_C250|Class_C250|Class_C250|
 |beafon|M5|M5|M5|

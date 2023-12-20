@@ -26376,6 +26376,11 @@
    "model": "Q5"
   },
   {
+   "device": "Q6",
+   "name": "Q6",
+   "model": "Q6"
+  },
+  {
    "device": "QTAB",
    "name": "QTAB",
    "model": "QTAB"
@@ -48274,7 +48279,7 @@
  "HIKVISION": [
   {
    "device": "DS_D5C65RB_A",
-   "name": "DS-D5C65RB/A",
+   "name": "DS-D5C",
    "model": "DS_D5C65RB_A"
   }
  ],
@@ -72839,6 +72844,11 @@
    "device": "IRC200EU",
    "name": "IRC200EU",
    "model": "Intelligent_Multi-mode_Radio"
+  },
+  {
+   "device": "S350",
+   "name": "S350",
+   "model": "S350"
   }
  ],
  "Insignia": [
@@ -98253,6 +98263,11 @@
  ],
  "MEFERI": [
   {
+   "device": "ME10",
+   "name": "ME10",
+   "model": "ME10"
+  },
+  {
    "device": "ME40K",
    "name": "ME40K",
    "model": "ME40K"
@@ -123410,6 +123425,13 @@
    "model": "P9001"
   }
  ],
+ "POS Terminal": [
+  {
+   "device": "POS",
+   "name": "ACT",
+   "model": "pCloud"
+  }
+ ],
  "POSSAFE": [
   {
    "device": "OrderGo5",
@@ -131293,6 +131315,11 @@
    "device": "uiw4020pxm",
    "name": "Proximus TV",
    "model": "decoder"
+  },
+  {
+   "device": "uiw4068pxm",
+   "name": "Proximus TV",
+   "model": "tvbox"
   }
  ],
  "Punos": [
@@ -140187,11 +140214,6 @@
    "model": "SM-A057M"
   },
   {
-   "device": "a05s",
-   "name": "Galaxy A05s",
-   "model": "SM-M145F"
-  },
-  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -140780,6 +140802,41 @@
    "device": "a24",
    "name": "Galaxy A24",
    "model": "SM-A245N"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A2560"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256B"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256E"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256N"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256U"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256U1"
+  },
+  {
+   "device": "a25x",
+   "name": "Galaxy A25 5G",
+   "model": "SM-S256VL"
   },
   {
    "device": "a33g",
@@ -189342,6 +189399,11 @@
    "model": "V2325"
   },
   {
+   "device": "PD2313",
+   "name": "Y100",
+   "model": "V2313A"
+  },
+  {
    "device": "V2239",
    "name": "Y100",
    "model": "V2239"
@@ -189695,11 +189757,6 @@
    "device": "PD2278",
    "name": "Y78m",
    "model": "V2278A"
-  },
-  {
-   "device": "PD2313",
-   "name": "Y79+",
-   "model": "V2313A"
   },
   {
    "device": "PD1708",
@@ -190365,6 +190422,16 @@
    "device": "PD2285",
    "name": "vivo S17e",
    "model": "V2285A"
+  },
+  {
+   "device": "PD2323",
+   "name": "vivo S18",
+   "model": "V2323A"
+  },
+  {
+   "device": "PD2334",
+   "name": "vivo S18e",
+   "model": "V2334A"
   },
   {
    "device": "PD2199",
@@ -195541,6 +195608,18 @@
    "device": "X7U",
    "name": "XPLORE X7U",
    "model": "XPLORE X7U"
+  }
+ ],
+ "XPPen": [
+  {
+   "device": "Titan_XPPen",
+   "name": "XPPen_Magic_Drawing_Pad",
+   "model": "MagicDrawingPad"
+  },
+  {
+   "device": "Titan_XPPen",
+   "name": "XPPen_Magic_Drawing_Pad_RU",
+   "model": "MagicDrawingPad"
   }
  ],
  "XTRATECH_IGUANAPAD": [
@@ -208394,6 +208473,13 @@
    "device": "M815",
    "name": "aoson",
    "model": "M815"
+  }
+ ],
+ "axs+": [
+  {
+   "device": "B866V2FA_AXS",
+   "name": "AXS B866V2FA",
+   "model": "AXS B866V2FA"
   }
  ],
  "bbox": [

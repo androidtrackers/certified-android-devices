@@ -24994,6 +24994,11 @@
    "brand": "BYD",
    "name": "Solo S350",
    "device": "S350"
+  },
+  {
+   "brand": "Inrico",
+   "name": "S350",
+   "device": "S350"
   }
  ],
  "W032I": [
@@ -39735,6 +39740,18 @@
    "brand": "G-Tab",
    "name": "Q5",
    "device": "Q5"
+  }
+ ],
+ "Q6": [
+  {
+   "brand": "Compaq",
+   "name": "Q6",
+   "device": "Q6"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "Q6",
+   "device": "Q6"
   }
  ],
  "QTAB": [
@@ -63162,13 +63179,6 @@
    "device": "Q4"
   }
  ],
- "Q6": [
-  {
-   "brand": "G-Tab",
-   "name": "Q6",
-   "device": "Q6"
-  }
- ],
  "Q69": [
   {
    "brand": "G-Tab",
@@ -69405,7 +69415,7 @@
  "DS_D5C65RB_A": [
   {
    "brand": "HIKVISION",
-   "name": "DS-D5C65RB/A",
+   "name": "DS-D5C",
    "device": "DS_D5C65RB_A"
   }
  ],
@@ -133695,6 +133705,13 @@
    "device": "m60"
   }
  ],
+ "ME10": [
+  {
+   "brand": "MEFERI",
+   "name": "ME10",
+   "device": "ME10"
+  }
+ ],
  "ME40K": [
   {
    "brand": "MEFERI",
@@ -164710,6 +164727,13 @@
    "device": "P9001"
   }
  ],
+ "pCloud": [
+  {
+   "brand": "POS Terminal",
+   "name": "ACT",
+   "device": "POS"
+  }
+ ],
  "OrderGo5": [
   {
    "brand": "POSSAFE",
@@ -174623,6 +174647,13 @@
    "brand": "Proximus",
    "name": "Proximus TV",
    "device": "uiw4020pxm"
+  }
+ ],
+ "tvbox": [
+  {
+   "brand": "Proximus",
+   "name": "Proximus TV",
+   "device": "uiw4068pxm"
   }
  ],
  "X10 Tablet": [
@@ -185615,18 +185646,6 @@
    "device": "a05s"
   }
  ],
- "SM-M145F": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A05s",
-   "device": "a05s"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M14",
-   "device": "a05s"
-  }
- ],
  "SM-A105F": [
   {
    "brand": "Samsung",
@@ -186449,6 +186468,55 @@
    "brand": "Samsung",
    "name": "Galaxy A24",
    "device": "a24"
+  }
+ ],
+ "SM-A2560": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
+  }
+ ],
+ "SM-A256B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
+  }
+ ],
+ "SM-A256E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
+  }
+ ],
+ "SM-A256N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
+  }
+ ],
+ "SM-A256U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
+  }
+ ],
+ "SM-A256U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
+  }
+ ],
+ "SM-S256VL": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "device": "a25x"
   }
  ],
  "SM-A300H": [
@@ -192800,6 +192868,13 @@
    "brand": "Samsung",
    "name": "Galaxy M13 5G",
    "device": "a13x"
+  }
+ ],
+ "SM-M145F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M14",
+   "device": "a05s"
   }
  ],
  "SM-M146B": [
@@ -248786,6 +248861,13 @@
    "device": "V2254"
   }
  ],
+ "V2313A": [
+  {
+   "brand": "Vivo",
+   "name": "Y100",
+   "device": "PD2313"
+  }
+ ],
  "V2239": [
   {
    "brand": "Vivo",
@@ -249237,13 +249319,6 @@
    "brand": "Vivo",
    "name": "Y78+",
    "device": "PD2271"
-  }
- ],
- "V2313A": [
-  {
-   "brand": "Vivo",
-   "name": "Y79+",
-   "device": "PD2313"
   }
  ],
  "vivo PD1708": [
@@ -250106,6 +250181,20 @@
    "brand": "Vivo",
    "name": "vivo S17e",
    "device": "PD2285"
+  }
+ ],
+ "V2323A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S18",
+   "device": "PD2323"
+  }
+ ],
+ "V2334A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S18e",
+   "device": "PD2334"
   }
  ],
  "V2199GA": [
@@ -256175,6 +256264,18 @@
    "brand": "XPLORE",
    "name": "XPLORE X7U",
    "device": "X7U"
+  }
+ ],
+ "MagicDrawingPad": [
+  {
+   "brand": "XPPen",
+   "name": "XPPen_Magic_Drawing_Pad",
+   "device": "Titan_XPPen"
+  },
+  {
+   "brand": "XPPen",
+   "name": "XPPen_Magic_Drawing_Pad_RU",
+   "device": "Titan_XPPen"
   }
  ],
  "X8MT16": [
@@ -272616,6 +272717,13 @@
    "brand": "aoson",
    "name": "aoson",
    "device": "M815"
+  }
+ ],
+ "AXS B866V2FA": [
+  {
+   "brand": "axs+",
+   "name": "AXS B866V2FA",
+   "device": "B866V2FA_AXS"
   }
  ],
  "bbox-M752A": [

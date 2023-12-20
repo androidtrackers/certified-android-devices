@@ -29764,6 +29764,11 @@
    "brand": "Four Mobile",
    "name": "Thunder",
    "model": "Thunder"
+  },
+  {
+   "brand": "Inrico",
+   "name": "S350",
+   "model": "S350"
   }
  ],
  "W032I": [
@@ -43779,6 +43784,11 @@
    "brand": "Cobalt",
    "name": "CP101P",
    "model": "CP101P"
+  },
+  {
+   "brand": "POS Terminal",
+   "name": "ACT",
+   "model": "pCloud"
   }
  ],
  "Cobalt_T10_wifi": [
@@ -44254,6 +44264,18 @@
    "brand": "ViewSonic",
    "name": "Q5",
    "model": "Viewphone Q5"
+  }
+ ],
+ "Q6": [
+  {
+   "brand": "Compaq",
+   "name": "Q6",
+   "model": "Q6"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "Q6",
+   "model": "Q6"
   }
  ],
  "QTAB": [
@@ -67595,13 +67617,6 @@
    "model": "Q4"
   }
  ],
- "Q6": [
-  {
-   "brand": "G-Tab",
-   "name": "Q6",
-   "model": "Q6"
-  }
- ],
  "Q69": [
   {
    "brand": "G-Tab",
@@ -73558,7 +73573,7 @@
  "DS_D5C65RB_A": [
   {
    "brand": "HIKVISION",
-   "name": "DS-D5C65RB/A",
+   "name": "DS-D5C",
    "model": "DS_D5C65RB_A"
   }
  ],
@@ -132361,6 +132376,13 @@
    "model": "m60"
   }
  ],
+ "ME10": [
+  {
+   "brand": "MEFERI",
+   "name": "ME10",
+   "model": "ME10"
+  }
+ ],
  "ME40K": [
   {
    "brand": "MEFERI",
@@ -171911,6 +171933,13 @@
    "model": "decoder"
   }
  ],
+ "uiw4068pxm": [
+  {
+   "brand": "Proximus",
+   "name": "Proximus TV",
+   "model": "tvbox"
+  }
+ ],
  "PTX1022G": [
   {
    "brand": "Punos",
@@ -181752,11 +181781,6 @@
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy A05s",
-   "model": "SM-M145F"
-  },
-  {
-   "brand": "Samsung",
    "name": "Galaxy F14",
    "model": "SM-E145F"
   },
@@ -182409,6 +182433,43 @@
    "brand": "Samsung",
    "name": "Galaxy A24",
    "model": "SM-A245N"
+  }
+ ],
+ "a25x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A2560"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-A256U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A25 5G",
+   "model": "SM-S256VL"
   }
  ],
  "a33g": [
@@ -239513,6 +239574,13 @@
    "model": "V2325"
   }
  ],
+ "PD2313": [
+  {
+   "brand": "Vivo",
+   "name": "Y100",
+   "model": "V2313A"
+  }
+ ],
  "V2239": [
   {
    "brand": "Vivo",
@@ -239900,13 +239968,6 @@
    "brand": "Vivo",
    "name": "Y78+",
    "model": "V2271A"
-  }
- ],
- "PD2313": [
-  {
-   "brand": "Vivo",
-   "name": "Y79+",
-   "model": "V2313A"
   }
  ],
  "PD1708": [
@@ -240741,6 +240802,20 @@
    "brand": "Vivo",
    "name": "vivo S17e",
    "model": "V2285A"
+  }
+ ],
+ "PD2323": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S18",
+   "model": "V2323A"
+  }
+ ],
+ "PD2334": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S18e",
+   "model": "V2334A"
   }
  ],
  "PD2178": [
@@ -246614,6 +246689,18 @@
    "brand": "XPLORE",
    "name": "XPLORE X7U",
    "model": "XPLORE X7U"
+  }
+ ],
+ "Titan_XPPen": [
+  {
+   "brand": "XPPen",
+   "name": "XPPen_Magic_Drawing_Pad",
+   "model": "MagicDrawingPad"
+  },
+  {
+   "brand": "XPPen",
+   "name": "XPPen_Magic_Drawing_Pad_RU",
+   "model": "MagicDrawingPad"
   }
  ],
  "X8MT16": [
@@ -260882,6 +260969,13 @@
    "brand": "aoson",
    "name": "aoson",
    "model": "M815"
+  }
+ ],
+ "B866V2FA_AXS": [
+  {
+   "brand": "axs+",
+   "name": "AXS B866V2FA",
+   "model": "AXS B866V2FA"
   }
  ],
  "bbox-M752A": [
