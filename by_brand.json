@@ -29486,6 +29486,11 @@
    "model": "RAINBOW"
   },
   {
+   "device": "TAB_60",
+   "name": "TAB  60",
+   "model": "TAB 60"
+  },
+  {
    "device": "TAB_10",
    "name": "TAB 10",
    "model": "TAB 10"
@@ -76336,6 +76341,11 @@
    "model": "J20"
   },
   {
+   "device": "expo",
+   "name": "KR",
+   "model": "Premium 4K GTV"
+  },
+  {
    "device": "ikebukuro",
    "name": "LT-32N3115A",
    "model": "AI PONT"
@@ -122625,6 +122635,11 @@
    "device": "B866V2FA",
    "name": "B866V2FA V3.4",
    "model": "B866V2FA V3.4"
+  },
+  {
+   "device": "SEI700MRT",
+   "name": "SEI700MRT",
+   "model": "SEI700MRT"
   }
  ],
  "Oysters": [
@@ -123058,6 +123073,13 @@
    "device": "PET_8040_H464S",
    "name": "PET_8040_H464S",
    "model": "PET_8040_H464S"
+  }
+ ],
+ "PEOTV": [
+  {
+   "device": "SEI300SLT",
+   "name": "SEI300SLT",
+   "model": "SEI300SLT"
   }
  ],
  "PERSONA": [
@@ -190826,6 +190848,11 @@
    "device": "v0",
    "name": "v0",
    "model": "VOCAL V0"
+  },
+  {
+   "device": "v1",
+   "name": "v1",
+   "model": "VOCAL V1"
   }
  ],
  "Vodafone": [
@@ -208926,9 +208953,7 @@
    "device": "AIM-H1",
    "name": "AIM H1",
    "model": "AIM H1"
-  }
- ],
- "careai": [
+  },
   {
    "device": "AMS_R2O",
    "name": "AMS-R2O",

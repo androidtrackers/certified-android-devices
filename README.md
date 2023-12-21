@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-20
+Last sync is 2023-12-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5704,6 +5704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|R19|R19|R19|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
+|Cubot|TAB  60|TAB_60|TAB 60|
 |Cubot|TAB 10|TAB_10|TAB 10|
 |Cubot|TAB 20|TAB_20|TAB 20|
 |Cubot|TAB 40|TAB_40|TAB 40|
@@ -14820,6 +14821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|zhongshan|COL 4K SMART TV|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
 |JVC|JVC J20|Cunda|J20|
+|JVC|KR|expo|Premium 4K GTV|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
 |JVC|LT-40N5115A|ikebukuro|AI PONT|
 |JVC|LT-50KD507|samseong|AI PONT|
@@ -23849,6 +23851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OwnMobile|Smart 9 Pro|Smart_9_Pro|Smart 9 Pro|
 |OwnMobile|Smart Plus Lte|SMART_PLUS_LTE|SMART PLUS LTE|
 |Oxygen.id|B866V2FA V3.4|B866V2FA|B866V2FA V3.4|
+|Oxygen.id|SEI700MRT|SEI700MRT|SEI700MRT|
 |Oysters|T72HM3G|T72HM3G|T72HM3G|
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
 |PAITANRY|R16|R16|R16|
@@ -23930,6 +23933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-882-H232S|PET-882-H232S|Lightyear 2|
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
+|PEOTV|SEI300SLT|SEI300SLT|SEI300SLT|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|
 |PHILCO (ar)|P610|P610|P610|
@@ -37172,6 +37176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vmobile|A13_Y|A13_Y|A13_Y|
 |Vmobile|A15|A15|A15|
 |Vocal|v0|v0|VOCAL V0|
+|Vocal|v1|v1|VOCAL V1|
 |Vodafone|785|Vodafone_785|Vodafone 785|
 |Vodafone|895|VF-895N|VF-895N|
 |Vodafone|GigaTV Net|diw362|GigaTV|
@@ -40712,7 +40717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|Edison_3_mini|Edison_3_mini|Edison 3 mini|
 |bq|M8|Aquaris_M8|Aquaris M8|
 |care.ai|AIM H1|AIM-H1|AIM H1|
-|careai|AMS-R2O|AMS_R2O|AMS-R2O|
+|care.ai|AMS-R2O|AMS_R2O|AMS-R2O|
 |carp(IN)|carp 2K Android TV|lasalle|carp 2K Android TV|
 |carp(IN)|carp 4K Android TV|kenton|carp 4K Android TV|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|

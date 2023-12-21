@@ -33581,6 +33581,11 @@
    "model": "JVCUS 4K TV"
   },
   {
+   "brand": "JVC",
+   "name": "KR",
+   "model": "Premium 4K GTV"
+  },
+  {
    "brand": "MGS",
    "name": "MGS",
    "model": "4K MGS Google TV"
@@ -48898,6 +48903,13 @@
    "brand": "KOOLNEE",
    "name": "RAINBOW",
    "model": "RAINBOW"
+  }
+ ],
+ "TAB_60": [
+  {
+   "brand": "Cubot",
+   "name": "TAB  60",
+   "model": "TAB 60"
   }
  ],
  "TAB_10": [
@@ -117193,6 +117205,11 @@
    "brand": "LGE",
    "name": "LG Optimus L1II",
    "model": "LG-E411g"
+  },
+  {
+   "brand": "Vocal",
+   "name": "v1",
+   "model": "VOCAL V1"
   }
  ],
  "v1ds": [
@@ -161522,6 +161539,13 @@
    "model": "B866V2FA V3.4"
   }
  ],
+ "SEI700MRT": [
+  {
+   "brand": "Oxygen.id",
+   "name": "SEI700MRT",
+   "model": "SEI700MRT"
+  }
+ ],
  "T72HM3G": [
   {
    "brand": "Oysters",
@@ -161987,6 +162011,13 @@
    "brand": "PEAQ",
    "name": "PET_8040_H464S",
    "model": "PET_8040_H464S"
+  }
+ ],
+ "SEI300SLT": [
+  {
+   "brand": "PEOTV",
+   "name": "SEI300SLT",
+   "model": "SEI300SLT"
   }
  ],
  "MyTab_A8": [
@@ -261442,7 +261473,7 @@
  ],
  "AMS_R2O": [
   {
-   "brand": "careai",
+   "brand": "care.ai",
    "name": "AMS-R2O",
    "model": "AMS-R2O"
   }

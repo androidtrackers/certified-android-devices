@@ -50218,6 +50218,13 @@
    "model": "RAINBOW"
   }
  ],
+ "TAB  60": [
+  {
+   "brand": "Cubot",
+   "device": "TAB_60",
+   "model": "TAB 60"
+  }
+ ],
  "TAB 20": [
   {
    "brand": "Cubot",
@@ -107508,6 +107515,13 @@
    "model": "J20"
   }
  ],
+ "KR": [
+  {
+   "brand": "JVC",
+   "device": "expo",
+   "model": "Premium 4K GTV"
+  }
+ ],
  "LT-32N3115A": [
   {
    "brand": "JVC",
@@ -161041,6 +161055,13 @@
    "model": "B866V2FA V3.4"
   }
  ],
+ "SEI700MRT": [
+  {
+   "brand": "Oxygen.id",
+   "device": "SEI700MRT",
+   "model": "SEI700MRT"
+  }
+ ],
  "T72HM3G": [
   {
    "brand": "Oysters",
@@ -161516,6 +161537,13 @@
    "brand": "PEAQ",
    "device": "PET_8040_H464S",
    "model": "PET_8040_H464S"
+  }
+ ],
+ "SEI300SLT": [
+  {
+   "brand": "PEOTV",
+   "device": "SEI300SLT",
+   "model": "SEI300SLT"
   }
  ],
  "MyTab_A8": [
@@ -239563,6 +239591,13 @@
    "model": "VOCAL V0"
   }
  ],
+ "v1": [
+  {
+   "brand": "Vocal",
+   "device": "v1",
+   "model": "VOCAL V1"
+  }
+ ],
  "785": [
   {
    "brand": "Vodafone",
@@ -259609,7 +259644,7 @@
  ],
  "AMS-R2O": [
   {
-   "brand": "careai",
+   "brand": "care.ai",
    "device": "AMS_R2O",
    "model": "AMS-R2O"
   }
