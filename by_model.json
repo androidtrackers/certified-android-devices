@@ -69132,6 +69132,13 @@
    "device": "Betacrux"
   }
  ],
+ "MINTAKA": [
+  {
+   "brand": "H819E",
+   "name": "MINTAKA",
+   "device": "MINTAKA"
+  }
+ ],
  "HAKO mini": [
   {
    "brand": "HAKO",
@@ -99646,6 +99653,18 @@
    "device": "Infinix-X6526"
   }
  ],
+ "Infinix X6525B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 Pro",
+   "device": "Infinix-X6525B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMRAT 8 PRO",
+   "device": "Infinix-X6525B"
+  }
+ ],
  "Infinix X5010": [
   {
    "brand": "Infinix",
@@ -100113,13 +100132,6 @@
    "brand": "Infinix",
    "name": "SMART HD",
    "device": "Infinix-X612B"
-  }
- ],
- "Infinix X6525B": [
-  {
-   "brand": "Infinix",
-   "name": "SMRAT 8 PRO",
-   "device": "Infinix-X6525B"
   }
  ],
  "Infinix X511": [
@@ -136300,6 +136312,13 @@
    "device": "MX-A10RWW"
   }
  ],
+ "MX-A64": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO A64",
+   "device": "MX-A64"
+  }
+ ],
  "MX-A65": [
   {
    "brand": "Maxwest",
@@ -142856,6 +142875,13 @@
    "brand": "Mobiwire",
    "name": "Hotah",
    "device": "Hotah"
+  }
+ ],
+ "IKOSORA+": [
+  {
+   "brand": "Mobiwire",
+   "name": "IKOSORA+",
+   "device": "IKOSORA_Plus"
   }
  ],
  "Kicka_4_Plus": [

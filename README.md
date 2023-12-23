@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-22
+Last sync is 2023-12-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9243,6 +9243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
 |H133|Betacrux|Betacrux|Betacrux|
+|H819E|MINTAKA|MINTAKA|MINTAKA|
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HANET|T432|SmartEdu|T432|
 |HANKOOK_CREA|HANKOOK_CREA_IFPD|HANKOOK_CREA_RK3588|CREA_86135_Series|
@@ -13878,6 +13879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 8|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix SMART 8 HD|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix SMART 8 Plus|Infinix-X6526|Infinix X6526|
+|Infinix|Infinix SMART 8 Pro|Infinix-X6525B|Infinix X6525B|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -19525,6 +19527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|ASTRO 10R|MX-A10R1WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10R2WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10RWW|MX-A10R|
+|Maxwest|ASTRO A64|MX-A64|MX-A64|
 |Maxwest|ASTRO A65|MX-A65|MX-A65|
 |Maxwest|ASTRO_10|MX-A10WW|MX-A10|
 |Maxwest|ASTRO_10_1|MX-AA10WW01|MX-A10|
@@ -20531,6 +20534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|HALONA|Halona|Halona|
 |Mobiwire|Hawk from EE|Hawk_from_EE|Hawk_from_EE|
 |Mobiwire|Hotah|Hotah|Hotah|
+|Mobiwire|IKOSORA+|IKOSORA_Plus|IKOSORA+|
 |Mobiwire|Kicka 4 Plus|Kicka_4_Plus|Kicka_4_Plus|
 |Mobiwire|Kicka 5|Kicka_5|Kicka 5|
 |Mobiwire|Kicka 5|Kicka_5_U|Kicka 5|

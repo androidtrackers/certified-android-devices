@@ -73277,6 +73277,13 @@
    "model": "Betacrux"
   }
  ],
+ "MINTAKA": [
+  {
+   "brand": "H819E",
+   "name": "MINTAKA",
+   "model": "MINTAKA"
+  }
+ ],
  "SmartEdu": [
   {
    "brand": "HANET",
@@ -100332,6 +100339,18 @@
    "model": "Infinix X6526"
   }
  ],
+ "Infinix-X6525B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 Pro",
+   "model": "Infinix X6525B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMRAT 8 PRO",
+   "model": "Infinix X6525B"
+  }
+ ],
  "Infinix-X5010": [
   {
    "brand": "Infinix",
@@ -100800,13 +100819,6 @@
    "brand": "Infinix",
    "name": "SMART HD",
    "model": "Infinix X612B"
-  }
- ],
- "Infinix-X6525B": [
-  {
-   "brand": "Infinix",
-   "name": "SMRAT 8 PRO",
-   "model": "Infinix X6525B"
   }
  ],
  "INFINIX_X511": [
@@ -134735,6 +134747,13 @@
    "model": "MX-A10R"
   }
  ],
+ "MX-A64": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO A64",
+   "model": "MX-A64"
+  }
+ ],
  "MX-A65": [
   {
    "brand": "Maxwest",
@@ -141332,6 +141351,13 @@
    "brand": "Mobiwire",
    "name": "Hotah",
    "model": "Hotah"
+  }
+ ],
+ "IKOSORA_Plus": [
+  {
+   "brand": "Mobiwire",
+   "name": "IKOSORA+",
+   "model": "IKOSORA+"
   }
  ],
  "Kicka_4_Plus": [

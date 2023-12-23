@@ -75577,6 +75577,13 @@
    "model": "Betacrux"
   }
  ],
+ "MINTAKA": [
+  {
+   "brand": "H819E",
+   "device": "MINTAKA",
+   "model": "MINTAKA"
+  }
+ ],
  "HAKO mini": [
   {
    "brand": "HAKO",
@@ -101908,6 +101915,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6526",
    "model": "Infinix X6526"
+  }
+ ],
+ "Infinix SMART 8 Pro": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6525B",
+   "model": "Infinix X6525B"
   }
  ],
  "Infinix X5010": [
@@ -135181,6 +135195,13 @@
    "model": "MX-A10R"
   }
  ],
+ "ASTRO A64": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-A64",
+   "model": "MX-A64"
+  }
+ ],
  "ASTRO A65": [
   {
    "brand": "Maxwest",
@@ -141413,6 +141434,13 @@
    "brand": "Mobiwire",
    "device": "Hawk_from_EE",
    "model": "Hawk_from_EE"
+  }
+ ],
+ "IKOSORA+": [
+  {
+   "brand": "Mobiwire",
+   "device": "IKOSORA_Plus",
+   "model": "IKOSORA+"
   }
  ],
  "Kicka 4 Plus": [

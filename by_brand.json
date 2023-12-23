@@ -48033,6 +48033,13 @@
    "model": "Betacrux"
   }
  ],
+ "H819E": [
+  {
+   "device": "MINTAKA",
+   "name": "MINTAKA",
+   "model": "MINTAKA"
+  }
+ ],
  "HAKO": [
   {
    "device": "GMP",
@@ -71538,6 +71545,11 @@
    "device": "Infinix-X6526",
    "name": "Infinix SMART 8 Plus",
    "model": "Infinix X6526"
+  },
+  {
+   "device": "Infinix-X6525B",
+   "name": "Infinix SMART 8 Pro",
+   "model": "Infinix X6525B"
   },
   {
    "device": "Infinix-X5010",
@@ -100463,6 +100475,11 @@
    "model": "MX-A10R"
   },
   {
+   "device": "MX-A64",
+   "name": "ASTRO A64",
+   "model": "MX-A64"
+  },
+  {
    "device": "MX-A65",
    "name": "ASTRO A65",
    "model": "MX-A65"
@@ -105599,6 +105616,11 @@
    "device": "Hotah",
    "name": "Hotah",
    "model": "Hotah"
+  },
+  {
+   "device": "IKOSORA_Plus",
+   "name": "IKOSORA+",
+   "model": "IKOSORA+"
   },
   {
    "device": "Kicka_4_Plus",
