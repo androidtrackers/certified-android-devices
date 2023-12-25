@@ -39368,6 +39368,13 @@
    "model": "Apollo Premium4K TV"
   }
  ],
+ "Dreamstar 2K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "nagata",
+   "model": "Dreamstar 2K SMART TV"
+  }
+ ],
  "EXPRESS": [
   {
    "brand": "CAIXUN",
@@ -39446,6 +39453,13 @@
    "brand": "RCA",
    "device": "yeongdeungpo",
    "model": "AiPlus4K"
+  }
+ ],
+ "Newal 2K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "nagata",
+   "model": "Newal 2K SMART TV"
   }
  ],
  "Newal 4K SMART TV": [
@@ -64750,7 +64764,19 @@
    "model": "EyeOnGo"
   }
  ],
+ "FU 2K SMART TV": [
+  {
+   "brand": "F&U (Fandu)",
+   "device": "nagata",
+   "model": "FU 2K SMART TV"
+  }
+ ],
  "Greece": [
+  {
+   "brand": "F&U (Fandu)",
+   "device": "marina",
+   "model": "FU 4K SMART TV"
+  },
   {
    "brand": "F&U (Fandu)",
    "device": "tamachi",
@@ -99473,6 +99499,13 @@
    "model": "GKL089"
   }
  ],
+ "INFINITON 2K SMART TV": [
+  {
+   "brand": "INFINITON",
+   "device": "nagata",
+   "model": "INFINITON 2K Smart TV"
+  }
+ ],
  "Infiniton": [
   {
    "brand": "INFINITON",
@@ -112759,6 +112792,13 @@
    "brand": "Kogan",
    "device": "redwood",
    "model": "AI PONT"
+  }
+ ],
+ "KOLIN": [
+  {
+   "brand": "Kolin",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "K22": [
@@ -225099,6 +225139,11 @@
    "brand": "Tecno",
    "device": "TECNO-KI7",
    "model": "TECNO KI7"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KI7s",
+   "model": "TECNO KI7s"
   }
  ],
  "TECNO SPARK 10C": [

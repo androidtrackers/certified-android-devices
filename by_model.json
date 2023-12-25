@@ -7330,6 +7330,11 @@
    "device": "zhongshan"
   },
   {
+   "brand": "Kolin",
+   "name": "KOLIN",
+   "device": "hongkong"
+  },
+  {
    "brand": "LUCOMS",
    "name": "LUCMOS",
    "device": "hongkong"
@@ -33607,6 +33612,13 @@
    "device": "guandu"
   }
  ],
+ "Dreamstar 2K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "Dreamstar 2K SMART TV",
+   "device": "nagata"
+  }
+ ],
  "Fobem 4K SMART TV": [
   {
    "brand": "CAIXUN",
@@ -33666,6 +33678,13 @@
    "brand": "CAIXUN",
    "name": "Malaysia",
    "device": "yeongdeungpo"
+  }
+ ],
+ "Newal 2K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "Newal 2K SMART TV",
+   "device": "nagata"
   }
  ],
  "Newal 4K SMART TV": [
@@ -58100,6 +58119,20 @@
    "brand": "F&U (Fandu)",
    "name": "EU、UK、AP",
    "device": "martin"
+  }
+ ],
+ "FU 2K SMART TV": [
+  {
+   "brand": "F&U (Fandu)",
+   "name": "FU 2K SMART TV",
+   "device": "nagata"
+  }
+ ],
+ "FU 4K SMART TV": [
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "device": "marina"
   }
  ],
  "F and U Android TV": [
@@ -97159,6 +97192,13 @@
    "brand": "IMTO",
    "name": "GKL089",
    "device": "GKL089"
+  }
+ ],
+ "INFINITON 2K Smart TV": [
+  {
+   "brand": "INFINITON",
+   "name": "INFINITON 2K SMART TV",
+   "device": "nagata"
   }
  ],
  "Infiniton2KAndroidTV": [
@@ -235798,6 +235838,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 10 Pro",
    "device": "TECNO-KI7"
+  }
+ ],
+ "TECNO KI7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10 Pro",
+   "device": "TECNO-KI7s"
   }
  ],
  "TECNO KI5k": [

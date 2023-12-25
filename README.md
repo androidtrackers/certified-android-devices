@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-24
+Last sync is 2023-12-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4213,6 +4213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|marina|Apollo Premium4K TV|
 |CAIXUN|Columbia|patrick|Aiplus4K|
+|CAIXUN|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
 |CAIXUN|EXPRESS|marina|Apollo Premium4K TV|
 |CAIXUN|Europe|marina|Fobem 4K SMART TV|
 |CAIXUN|Europe|martin|Caixun Android TV|
@@ -4224,6 +4225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|MAXWELL SMART TV|nagata|MAXWELL SMART TV|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
+|CAIXUN|Newal 2K SMART TV|nagata|Newal 2K SMART TV|
 |CAIXUN|Newal 4K SMART TV|marina|Newal 4K SMART TV|
 |CAIXUN|Sgamer|cottongreen|Sgamer|
 |CAIXUN|South of America|marina|Apollo Pro4K TV|
@@ -7694,6 +7696,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EyePay|IG-EP100|IG-EP100|IG-EP100|
 |EyeTech|EyeOnGo10|EyeOnGo|EyeOnGo|
 |F&U (Fandu)|EU、UK、AP|martin|FandU Android TV|
+|F&U (Fandu)|FU 2K SMART TV|nagata|FU 2K SMART TV|
+|F&U (Fandu)|Greece|marina|FU 4K SMART TV|
 |F&U (Fandu)|Greece|tamachi|F and U Android TV|
 |F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
 |F-Plus|SA50_21620|SA50_21620|SA50_21620|
@@ -13500,6 +13504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMPEX|IMPEX evoQ 2K|nagata|IMPEX evoQ 2K|
 |IMPEX|IMPEX evoQ 4K|marina|IMPEX evoQ 4K|
 |IMTO|GKL089|GKL089|GKL089|
+|INFINITON|INFINITON 2K SMART TV|nagata|INFINITON 2K Smart TV|
 |INFINITON|Infiniton|bruno|Infiniton2KAndroidTV|
 |INFINITON|Infiniton|shilin|Infiniton4KAndroidTV|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
@@ -15619,6 +15624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
 |Kogan|RF9220|redwood|AI PONT|
 |Kogan|Smart TV|longshan|AI PONT|
+|Kolin|KOLIN|hongkong|4K SMART TV|
 |Kolin|Smart TV|longshan|AI PONT|
 |Kolin|Smart TV|redwood|AI PONT|
 |Komu|K22|K22|K22|
@@ -34793,6 +34799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 10|TECNO-KI5q|TECNO KI5q|
 |Tecno|TECNO SPARK 10|TECNO-KI5qs|TECNO KI5qs|
 |Tecno|TECNO SPARK 10 Pro|TECNO-KI7|TECNO KI7|
+|Tecno|TECNO SPARK 10 Pro|TECNO-KI7s|TECNO KI7s|
 |Tecno|TECNO SPARK 10C|TECNO-KI5k|TECNO KI5k|
 |Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
 |Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|

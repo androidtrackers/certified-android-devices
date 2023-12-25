@@ -12657,6 +12657,11 @@
    "model": "KENWOOD ISDB 4K TV"
   },
   {
+   "brand": "Kolin",
+   "name": "KOLIN",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "LUCOMS",
    "name": "LUCMOS",
    "model": "4K SMART TV"
@@ -16375,6 +16380,11 @@
    "brand": "Exclusiv",
    "name": "Columbia",
    "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "FU 4K SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -33799,6 +33809,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Dreamstar 2K SMART TV",
+   "model": "Dreamstar 2K SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "Europe",
    "model": "Fobem 2K SMART TV"
   },
@@ -33806,6 +33821,11 @@
    "brand": "CAIXUN",
    "name": "MAXWELL SMART TV",
    "model": "MAXWELL SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Newal 2K SMART TV",
+   "model": "Newal 2K SMART TV"
   },
   {
    "brand": "Compaq",
@@ -33821,6 +33841,11 @@
    "brand": "Continental Edison",
    "name": "CDI SMART TV",
    "model": "CDI SMART TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "FU 2K SMART TV",
+   "model": "FU 2K SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -33841,6 +33866,11 @@
    "brand": "IMPEX",
    "name": "IMPEX evoQ 2K",
    "model": "IMPEX evoQ 2K"
+  },
+  {
+   "brand": "INFINITON",
+   "name": "INFINITON 2K SMART TV",
+   "model": "INFINITON 2K Smart TV"
   },
   {
    "brand": "Invens",
@@ -227227,6 +227257,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 10 Pro",
    "model": "TECNO KI7"
+  }
+ ],
+ "TECNO-KI7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10 Pro",
+   "model": "TECNO KI7s"
   }
  ],
  "TECNO-KI5k": [
