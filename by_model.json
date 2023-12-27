@@ -2452,6 +2452,13 @@
    "device": "PD470"
   }
  ],
+ "PD602": [
+  {
+   "brand": "AMobile",
+   "name": "PD602",
+   "device": "PD602"
+  }
+ ],
  "ANAM 4K Android TV": [
   {
    "brand": "ANAM",
@@ -17660,91 +17667,84 @@
  "ASUS_I005D": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 5",
+   "name": "ROG Phone 5 series",
    "device": "ASUS_I005_1"
   }
  ],
  "ASUS_I005DA": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 5",
+   "name": "ROG Phone 5 series",
    "device": "ASUS_I005_1"
   }
  ],
  "ASUS_I005DB": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 5",
+   "name": "ROG Phone 5 series",
    "device": "ASUS_I005_1"
   }
  ],
  "ZS673KS": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 5",
+   "name": "ROG Phone 5 series",
    "device": "ASUS_I005_1"
   }
  ],
  "ZS676KS": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 5",
+   "name": "ROG Phone 5 series",
    "device": "ASUS_I005_1"
   }
  ],
  "ASUS_AI2201_A": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 6 (AI2201)",
+   "name": "ROG Phone 6 series",
    "device": "ASUS_AI2201"
   }
  ],
  "ASUS_AI2201_B": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 6 (AI2201)",
+   "name": "ROG Phone 6 series",
    "device": "ASUS_AI2201"
   }
  ],
  "ASUS_AI2201_C": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 6 (AI2201)",
+   "name": "ROG Phone 6 series",
    "device": "ASUS_AI2201"
   }
  ],
  "ASUS_AI2201_D": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 6 (AI2201)",
+   "name": "ROG Phone 6 series",
    "device": "ASUS_AI2201"
-  }
- ],
- "ASUS_AI2203_B": [
-  {
-   "brand": "Asus",
-   "name": "ROG Phone 6D Ultimate",
-   "device": "ASUS_AI2203"
   }
  ],
  "ASUS_AI2203_D": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 6D Ultimate",
+   "name": "ROG Phone 6D series",
    "device": "ASUS_AI2203"
   }
  ],
  "ASUS_AI2205_A": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 7 (AI2205)",
+   "name": "ROG Phone 7 series",
    "device": "ASUS_AI2205"
   }
  ],
  "ASUS_AI2205_C": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 7 (AI2205)",
+   "name": "ROG Phone 7 series",
    "device": "ASUS_AI2205"
   }
  ],
@@ -17774,6 +17774,13 @@
    "brand": "Asus",
    "name": "ROG Phone II",
    "device": "ASUS_I001_1"
+  }
+ ],
+ "ASUS_AI2203_B": [
+  {
+   "brand": "Asus",
+   "name": "ROG6 天玑系列",
+   "device": "ASUS_AI2203"
   }
  ],
  "RTC-tablet": [
@@ -19319,21 +19326,26 @@
  "ASUS_AI2302": [
   {
    "brand": "Asus",
-   "name": "Zenfone 10 (AI2302)",
+   "name": "Zenfone 10",
    "device": "ASUS_AI2302"
   }
  ],
  "ASUS_I006D": [
   {
    "brand": "Asus",
-   "name": "Zenfone 8 / ASUS 8Z",
+   "name": "Zenfone 8",
+   "device": "ASUS_I006D"
+  },
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 / ASUS 8z",
    "device": "ASUS_I006D"
   }
  ],
  "ZS590KS": [
   {
    "brand": "Asus",
-   "name": "Zenfone 8 / ASUS 8Z",
+   "name": "Zenfone 8",
    "device": "ASUS_I006D"
   }
  ],
@@ -25509,6 +25521,11 @@
    "brand": "Beko",
    "name": "Beko Android TV",
    "device": "sinchon"
+  },
+  {
+   "brand": "Beko",
+   "name": "Turkey",
+   "device": "martin"
   }
  ],
  "Beko Google TV": [
@@ -68777,6 +68794,11 @@
    "brand": "Grundig",
    "name": "Grundig Android TV",
    "device": "sinchon"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Turkey",
+   "device": "martin"
   }
  ],
  "Grundig Google TV": [
@@ -75321,6 +75343,20 @@
    "device": "broadway"
   }
  ],
+ "CANDY Android TV FF Pro": [
+  {
+   "brand": "Haier",
+   "name": "CANDY Android TV FF Pro",
+   "device": "daan"
+  }
+ ],
+ "CANDY Android TV PRO": [
+  {
+   "brand": "Haier",
+   "name": "CANDY Android TV PRO",
+   "device": "daan"
+  }
+ ],
  "CANDY MatrixTV BE": [
   {
    "brand": "Haier",
@@ -80340,6 +80376,11 @@
    "brand": "Hisense",
    "name": "Hisense U70 Pro",
    "device": "HLTE109E_02"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "device": "HLTE109E_03"
   }
  ],
  "Hisense U963": [
@@ -108211,6 +108252,13 @@
    "device": "KPad_U4_EEA"
   }
  ],
+ "KARAxKARA": [
+  {
+   "brand": "KYODO-TV",
+   "name": "KARAxKARA",
+   "device": "KARAxKARA"
+  }
+ ],
  "Dream one": [
   {
    "brand": "KZG (Ke Zhi Guang)",
@@ -110433,6 +110481,13 @@
    "brand": "Kodak",
    "name": "SMARTWAY_F1",
    "device": "SMARTWAY_F1"
+  }
+ ],
+ "KODAK 2K TV": [
+  {
+   "brand": "Kodak",
+   "name": "SOUTH AMERICA",
+   "device": "nagata"
   }
  ],
  "SP4": [
@@ -133311,6 +133366,13 @@
    "device": "M3SL10"
   }
  ],
+ "M3SL20K": [
+  {
+   "brand": "M3 Mobile",
+   "name": "M3SL20K",
+   "device": "M3SL20K"
+  }
+ ],
  "M4_B1": [
   {
    "brand": "M4tel",
@@ -151211,6 +151273,13 @@
    "brand": "NEC",
    "name": "LAVIE Tab T11",
    "device": "LAVIETab11QHD2"
+  }
+ ],
+ "LAVIE Tab 143K1": [
+  {
+   "brand": "NEC",
+   "name": "LAVIE Tab T14",
+   "device": "LAVIETab143K1"
   }
  ],
  "LAVIE Tab T12 12QHD1": [
@@ -181826,6 +181895,13 @@
    "device": "martin"
   }
  ],
+ "SCHNEIDER AndroidTV": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "GMS55A1G",
+   "device": "barking"
+  }
+ ],
  "SCHNEIDER 4K Android TV": [
   {
    "brand": "SCHNEIDER",
@@ -211873,6 +211949,13 @@
    "device": "SQ811G"
   }
  ],
+ "Contex TV": [
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Contex TV",
+   "device": "nagata"
+  }
+ ],
  "WALTON Android TV": [
   {
    "brand": "Smart-Tech TV",
@@ -235882,6 +235965,13 @@
    "device": "TECNO-KJ6"
   }
  ],
+ "TECNO KJ7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20 Pro+",
+   "device": "TECNO-KJ7"
+  }
+ ],
  "TECNO BG7": [
   {
    "brand": "Tecno",
@@ -241235,6 +241325,13 @@
    "brand": "Umidigi",
    "name": "A13_Tab_EEA",
    "device": "A13_Tab_EEA"
+  }
+ ],
+ "PA2310GBB": [
+  {
+   "brand": "Umidigi",
+   "name": "A15T",
+   "device": "A15T"
   }
  ],
  "A3S": [

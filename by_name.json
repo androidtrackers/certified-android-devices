@@ -7924,6 +7924,13 @@
    "model": "PD470"
   }
  ],
+ "PD602": [
+  {
+   "brand": "AMobile",
+   "device": "PD602",
+   "model": "PD602"
+  }
+ ],
  "ANAM": [
   {
    "brand": "ANAM",
@@ -17259,6 +17266,11 @@
    "model": "Arcelik Android TV"
   },
   {
+   "brand": "Beko",
+   "device": "martin",
+   "model": "Beko Android TV"
+  },
+  {
    "brand": "Blaupunkt",
    "device": "martin",
    "model": "Blaupunkt 2K Android TV"
@@ -17272,6 +17284,11 @@
    "brand": "Blaupunkt",
    "device": "yeongdeungpo",
    "model": "Blaupunkt 4K Android TV"
+  },
+  {
+   "brand": "Grundig",
+   "device": "martin",
+   "model": "Grundig Android TV"
   },
   {
    "brand": "Hometech",
@@ -22505,7 +22522,7 @@
    "model": "ZS661KS"
   }
  ],
- "ROG Phone 5": [
+ "ROG Phone 5 series": [
   {
    "brand": "Asus",
    "device": "ASUS_I005_1",
@@ -22532,7 +22549,7 @@
    "model": "ZS676KS"
   }
  ],
- "ROG Phone 6 (AI2201)": [
+ "ROG Phone 6 series": [
   {
    "brand": "Asus",
    "device": "ASUS_AI2201",
@@ -22554,19 +22571,14 @@
    "model": "ASUS_AI2201_D"
   }
  ],
- "ROG Phone 6D Ultimate": [
-  {
-   "brand": "Asus",
-   "device": "ASUS_AI2203",
-   "model": "ASUS_AI2203_B"
-  },
+ "ROG Phone 6D series": [
   {
    "brand": "Asus",
    "device": "ASUS_AI2203",
    "model": "ASUS_AI2203_D"
   }
  ],
- "ROG Phone 7 (AI2205)": [
+ "ROG Phone 7 series": [
   {
    "brand": "Asus",
    "device": "ASUS_AI2205",
@@ -22598,6 +22610,13 @@
    "brand": "Asus",
    "device": "ASUS_I001_1",
    "model": "ZS660KL"
+  }
+ ],
+ "ROG6 天玑系列": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2203",
+   "model": "ASUS_AI2203_B"
   }
  ],
  "RTC-700A": [
@@ -24135,14 +24154,14 @@
    "model": "Zenbo"
   }
  ],
- "Zenfone 10 (AI2302)": [
+ "Zenfone 10": [
   {
    "brand": "Asus",
    "device": "ASUS_AI2302",
    "model": "ASUS_AI2302"
   }
  ],
- "Zenfone 8 / ASUS 8Z": [
+ "Zenfone 8": [
   {
    "brand": "Asus",
    "device": "ASUS_I006D",
@@ -24152,6 +24171,13 @@
    "brand": "Asus",
    "device": "ASUS_I006D",
    "model": "ZS590KS"
+  }
+ ],
+ "Zenfone 8 / ASUS 8z": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I006D",
+   "model": "ASUS_I006D"
   }
  ],
  "Zenfone 8 Flip": [
@@ -81176,6 +81202,20 @@
    "model": "CANDY Android TV DVB2K"
   }
  ],
+ "CANDY Android TV FF Pro": [
+  {
+   "brand": "Haier",
+   "device": "daan",
+   "model": "CANDY Android TV FF Pro"
+  }
+ ],
+ "CANDY Android TV PRO": [
+  {
+   "brand": "Haier",
+   "device": "daan",
+   "model": "CANDY Android TV PRO"
+  }
+ ],
  "CANDY MatrixTV BE": [
   {
    "brand": "Haier",
@@ -85881,6 +85921,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE109E_02",
+   "model": "Hisense U70 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE109E_03",
    "model": "Hisense U70 Pro"
   }
  ],
@@ -110388,6 +110433,13 @@
    "model": "KPad_U4_EEA"
   }
  ],
+ "KARAxKARA": [
+  {
+   "brand": "KYODO-TV",
+   "device": "KARAxKARA",
+   "model": "KARAxKARA"
+  }
+ ],
  "Dream one": [
   {
    "brand": "KZG (Ke Zhi Guang)",
@@ -112648,6 +112700,13 @@
    "brand": "Kodak",
    "device": "SMARTWAY_F1",
    "model": "SMARTWAY_F1"
+  }
+ ],
+ "SOUTH AMERICA": [
+  {
+   "brand": "Kodak",
+   "device": "nagata",
+   "model": "KODAK 2K TV"
   }
  ],
  "SP4": [
@@ -132218,6 +132277,13 @@
    "model": "M3SL10"
   }
  ],
+ "M3SL20K": [
+  {
+   "brand": "M3 Mobile",
+   "device": "M3SL20K",
+   "model": "M3SL20K"
+  }
+ ],
  "M3SM15N": [
   {
    "brand": "M3 Mobile",
@@ -149125,6 +149191,13 @@
    "brand": "NEC",
    "device": "LAVIETab11QHD2",
    "model": "LAVIE Tab 11QHD2"
+  }
+ ],
+ "LAVIE Tab T14": [
+  {
+   "brand": "NEC",
+   "device": "LAVIETab143K1",
+   "model": "LAVIE Tab 143K1"
   }
  ],
  "LAVIETab T12 12QHD1": [
@@ -178685,6 +178758,13 @@
    "model": "Y-20"
   }
  ],
+ "GMS55A1G": [
+  {
+   "brand": "SCHNEIDER",
+   "device": "barking",
+   "model": "SCHNEIDER AndroidTV"
+  }
+ ],
  "SCHNEIDER": [
   {
    "brand": "SCHNEIDER",
@@ -204140,6 +204220,13 @@
    "model": "Aiplus4K"
   }
  ],
+ "Contex TV": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "nagata",
+   "model": "Contex TV"
+  }
+ ],
  "Germany": [
   {
    "brand": "Smart-Tech TV",
@@ -225177,6 +225264,13 @@
    "model": "TECNO KJ6"
   }
  ],
+ "TECNO SPARK 20 Pro+": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KJ7",
+   "model": "TECNO KJ7"
+  }
+ ],
  "TECNO SPARK 20C": [
   {
    "brand": "Tecno",
@@ -230263,6 +230357,13 @@
    "brand": "Umidigi",
    "device": "A13_Tab_EEA",
    "model": "MT07"
+  }
+ ],
+ "A15T": [
+  {
+   "brand": "Umidigi",
+   "device": "A15T",
+   "model": "PA2310GBB"
   }
  ],
  "A3S": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-26
+Last sync is 2023-12-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -171,6 +171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
 |AMobile|PD470|PD470|PD470|
+|AMobile|PD602|PD602|PD602|
 |ANAM|ANAM|seocho|ANAM 4K Android TV|
 |ANDDORO|B7V1-STK|B7V1-STK|B7V1-STK|
 |ANDRINO|Andrino|bangbae|andrino 4K Android TV|
@@ -1977,23 +1978,23 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 3|ASUS_I003_1|ASUS_I003D|
 |Asus|ROG Phone 3|ASUS_I003_1|ASUS_I003DD|
 |Asus|ROG Phone 3|ASUS_I003_1|ZS661KS|
-|Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005D|
-|Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DA|
-|Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DB|
-|Asus|ROG Phone 5|ASUS_I005_1|ZS673KS|
-|Asus|ROG Phone 5|ASUS_I005_1|ZS676KS|
-|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_A|
-|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_B|
-|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_C|
-|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_D|
-|Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_B|
-|Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
-|Asus|ROG Phone 7 (AI2205)|ASUS_AI2205|ASUS_AI2205_A|
-|Asus|ROG Phone 7 (AI2205)|ASUS_AI2205|ASUS_AI2205_C|
+|Asus|ROG Phone 5 series|ASUS_I005_1|ASUS_I005D|
+|Asus|ROG Phone 5 series|ASUS_I005_1|ASUS_I005DA|
+|Asus|ROG Phone 5 series|ASUS_I005_1|ASUS_I005DB|
+|Asus|ROG Phone 5 series|ASUS_I005_1|ZS673KS|
+|Asus|ROG Phone 5 series|ASUS_I005_1|ZS676KS|
+|Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_A|
+|Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_B|
+|Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_C|
+|Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_D|
+|Asus|ROG Phone 6D series|ASUS_AI2203|ASUS_AI2203_D|
+|Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_A|
+|Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_C|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DE|
 |Asus|ROG Phone II|ASUS_I001_1|ZS660KL|
+|Asus|ROG6 天玑系列|ASUS_AI2203|ASUS_AI2203_B|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
 |Asus|Smartphone for Snapdragon Insiders|ASUS_I007_1|ASUS_I007D|
 |Asus|T101TA|T10xTA|T10xTA|
@@ -2248,9 +2249,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenWatch 3|swift|ASUS ZenWatch 3|
 |Asus|Zenbo|ASUS_ZENBO|Zenbo|
 |Asus|Zenbo Qrobot|ASUS_ZENBO|Zenbo|
-|Asus|Zenfone 10 (AI2302)|ASUS_AI2302|ASUS_AI2302|
-|Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ASUS_I006D|
-|Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ZS590KS|
+|Asus|Zenfone 10|ASUS_AI2302|ASUS_AI2302|
+|Asus|Zenfone 8|ASUS_I006D|ASUS_I006D|
+|Asus|Zenfone 8|ASUS_I006D|ZS590KS|
+|Asus|Zenfone 8 / ASUS 8z|ASUS_I006D|ASUS_I006D|
 |Asus|Zenfone 8 Flip|ASUS_I004D|ASUS_I004D|
 |Asus|Zenfone 8 Flip|ASUS_I004D|ZS672KS|
 |Asus|Zenfone 9|ASUS_AI2202|ASUS_AI2202|
@@ -3129,6 +3131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Google TV QLED|wanchai|Beko Google TV QLED|
 |Beko|Beko Google TV UHD+|wanchai|Beko Google TV UHD+|
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
+|Beko|Turkey|martin|Beko Android TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |Bell Canada|FibeTV|vip7802_bell|FibeTV|
 |BenQ|A3|A3|A3|
@@ -9199,6 +9202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|Grundig Google TV UHD+|wanchai|Grundig Google TV UHD+|
 |Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
 |Grundig|TC69CA2|GTB801|GTB 801|
+|Grundig|Turkey|martin|Grundig Android TV|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
 |Grunhelm|GT9UHD|samseong|AI PONT|
 |Grunhelm|Smart TV|longshan|AI PONT|
@@ -10187,6 +10191,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|C46B2H|C46B2H|Andromax C46B2H|
 |Haier|CANDY Android TV DVB|dupont|CANDY Android TV DVB|
 |Haier|CANDY Android TV DVB2K|broadway|CANDY Android TV DVB2K|
+|Haier|CANDY Android TV FF Pro|daan|CANDY Android TV FF Pro|
+|Haier|CANDY Android TV PRO|daan|CANDY Android TV PRO|
 |Haier|CANDY MatrixTV BE|jordan|CANDY MatrixTV BE|
 |Haier|CANDY MatrixTV CE|deto|CANDY MatrixTV CE|
 |Haier|CDP7TAB4C8|CDP7TAB4C8|CDP7TAB4C8|
@@ -10950,6 +10956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E_03|Hisense U70 Pro|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_12|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_13|Hisense U963|
@@ -15269,6 +15276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KYASTER|KPad_U2_Pro_EEA|KPad_U2_Pro_EEA|KPad_U2_Pro_EEA|
 |KYASTER|KPad_U4|KPad_U4|KPad_U4|
 |KYASTER|KPad_U4_EEA|KPad_U4_EEA|KPad_U4_EEA|
+|KYODO-TV|KARAxKARA|KARAxKARA|KARAxKARA|
 |KZG (Ke Zhi Guang)|Dream one|Dream_one|Dream one|
 |KZG (Ke Zhi Guang)|KZG Scope|KZG_Scope|KZG Scope|
 |KZG (Ke Zhi Guang)|KZG_Scope|KZG_Scope|KZG Scope|
@@ -15599,6 +15607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|SMARTWAY L2|SMARTWAY_L2|SMARTWAY L2|
 |Kodak|SMARTWAY M2|SMARTWAY_M2|KODAK SMARTWAY M2|
 |Kodak|SMARTWAY_F1|SMARTWAY_F1|SMARTWAY_F1|
+|Kodak|SOUTH AMERICA|nagata|KODAK 2K TV|
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kodak|South America|marina|KODAK Smart TV|
@@ -19047,6 +19056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3 US20X|M3US20X|M3US20X|
 |M3 Mobile|M3-SL10|M3-SL10|M3-SL10|
 |M3 Mobile|M3SL10|M3SL10|M3SL10|
+|M3 Mobile|M3SL20K|M3SL20K|M3SL20K|
 |M3 Mobile|M3SM15N|M3SM15N|M3SM15N|
 |M3 Mobile|M3SM15N_EEA|M3SM15N|M3SM15N|
 |M3 Mobile|M3SM15X|M3SM15X|M3SM15X|
@@ -21858,6 +21868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab E 8HD1|LAVIETabE8HD1|LAVIE Tab E 8HD1|
 |NEC|LAVIE Tab T10|LAVIETab10FHD3|LAVIE Tab 10FHD3|
 |NEC|LAVIE Tab T11|LAVIETab11QHD2|LAVIE Tab 11QHD2|
+|NEC|LAVIE Tab T14|LAVIETab143K1|LAVIE Tab 143K1|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
 |NEC|LaVieTab PC-TE508BAW|TE508BAW|PC-TE508BAW|
 |NEC|LaVieTab PC-TE508S1W/LaVieTab PC-TE508S1L|PC-TE508S1_nec|LaVieTab PC-TE508S1|
@@ -26672,6 +26683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SCHNEIDER|Android TV|R2|ATV R2|
 |SCHNEIDER|EU、UK、AP|martin|Schneider 2K Android TV|
 |SCHNEIDER|EU、UK、AP|martin|Schneider 2K Android TV|
+|SCHNEIDER|GMS55A1G|barking|SCHNEIDER AndroidTV|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
 |SCHNEIDER|Wave 3|Wave_3|Wave 3|
@@ -31135,6 +31147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
 |Smart-Tech TV|Aiplus4K|guandu|Aiplus4K|
+|Smart-Tech TV|Contex TV|nagata|Contex TV|
 |Smart-Tech TV|EU、UK、AP|martin|AiPlus2K|
 |Smart-Tech TV|EU、UK、AP|martin|WALTON Android TV|
 |Smart-Tech TV|France|tamachi|AiPlus2K|
@@ -34805,6 +34818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|
 |Tecno|TECNO SPARK 20|TECNO-KJ5n|TECNO KJ5n|
 |Tecno|TECNO SPARK 20 Pro|TECNO-KJ6|TECNO KJ6|
+|Tecno|TECNO SPARK 20 Pro+|TECNO-KJ7|TECNO KJ7|
 |Tecno|TECNO SPARK 20C|TECNO-BG7|TECNO BG7|
 |Tecno|TECNO SPARK 20C|TECNO-BG7n|TECNO BG7n|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
@@ -35661,6 +35675,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A13S EEA|A13S|MP05|
 |Umidigi|A13_Tab|A13_Tab|MT07|
 |Umidigi|A13_Tab_EEA|A13_Tab_EEA|MT07|
+|Umidigi|A15T|A15T|PA2310GBB|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
 |Umidigi|A3S_EEA|A3S|A3S|
