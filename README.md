@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-27
+Last sync is 2023-12-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3816,6 +3816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G71_PLUS_TIGO|G0560WW|G71 PLUS|
 |Blu|G72 MAX|G0770|G72 MAX|
 |Blu|G73|G0771|G73|
+|Blu|G73L|G0930|G73L|
 |Blu|G8|G0160LL|G8|
 |Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
@@ -11300,6 +11301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|Global|YQB|Dongle R 4K|
+|Homatics|Kickpi|YYZ|KP1|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
@@ -29513,6 +29515,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T636N|
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T638B|
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T638U|
+|Samsung|Galaxy Tab Active5|gtactive5wifi|SM-X300|
+|Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X306B|
+|Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X306N|
+|Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X308B|
+|Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X308U|
 |Samsung|Galaxy Tab Advanced2|gtaxladwifikx|SM-T583|
 |Samsung|Galaxy Tab E|gtel3g|SM-T561M|
 |Samsung|Galaxy Tab E|gtelwifi|SM-T560|
@@ -30555,6 +30562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|FK1|mongkok|AQUOS-TVH23C|
 |Sharp|FK1|mongkok|AQUOS-TVT23C|
 |Sharp|FK1|mongkok|AQUOS-TVX23C|
+|Sharp|FQ|sandiego|AQUOS-TVE23A|
 |Sharp|FS8014|SE3|FS8014|
 |Sharp|FV1|sandiego|AQUOS-TVT23A|
 |Sharp|FV1|sandiego|AQUOS-TVU23A|
@@ -31935,6 +31943,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SparX|Sparx|Neo_8|Neo 8|
 |SparX|Sparx Neo 7|Neo_7|Sparx Neo 7|
 |SparX|Sparx Neo 7 Pro|Neo_7_Pro|Sparx Neo 7 Pro|
+|SparX|Sparx Neo 8 Plus|Neo_8_Plus|Sparx Neo 8 Plus|
+|SparX|Sparx Neo 8 Pro|Neo_8_Pro|Sparx Neo 8 Pro|
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
 |Spectra Geospatial|MobileMapper60_2|MM60_2|MobileMapper60_2|
 |Spectra Geospatial|Ranger 5|bcat|RGR5|
@@ -34770,6 +34780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
 |Tecno|TECNO K7|TECNO-K7|TECNO K7|
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
+|Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
 |Tecno|TECNO Mobile SPARK 8|TECNO-Mobile-KG6k|TECNO Mobile KG6k|
 |Tecno|TECNO Mobile SPARK 8C|TECNO-Mobile-KG5k|TECNO Mobile KG5k|
 |Tecno|TECNO Mobile SPARK 8T|TECNO-Mobile-KG6p|TECNO Mobile KG6p|

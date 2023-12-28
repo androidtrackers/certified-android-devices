@@ -36159,6 +36159,13 @@
    "model": "G73"
   }
  ],
+ "G73L": [
+  {
+   "brand": "Blu",
+   "device": "G0930",
+   "model": "G73L"
+  }
+ ],
  "G8": [
   {
    "brand": "Blu",
@@ -88240,6 +88247,13 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
+  }
+ ],
+ "Kickpi": [
+  {
+   "brand": "Homatics",
+   "device": "YYZ",
+   "model": "KP1"
   }
  ],
  "SEI600HM": [
@@ -194399,6 +194413,35 @@
    "model": "SM-T638U"
   }
  ],
+ "Galaxy Tab Active5": [
+  {
+   "brand": "Samsung",
+   "device": "gtactive5wifi",
+   "model": "SM-X300"
+  }
+ ],
+ "Galaxy Tab Active5 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gtactive5",
+   "model": "SM-X306B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gtactive5",
+   "model": "SM-X306N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gtactive5",
+   "model": "SM-X308B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gtactive5",
+   "model": "SM-X308U"
+  }
+ ],
  "Galaxy Tab Advanced2": [
   {
    "brand": "Samsung",
@@ -200487,6 +200530,13 @@
    "brand": "Sharp",
    "device": "mongkok",
    "model": "AQUOS-TVX23C"
+  }
+ ],
+ "FQ": [
+  {
+   "brand": "Sharp",
+   "device": "sandiego",
+   "model": "AQUOS-TVE23A"
   }
  ],
  "FS8014": [
@@ -208690,6 +208740,20 @@
    "brand": "SparX",
    "device": "Neo_7_Pro",
    "model": "Sparx Neo 7 Pro"
+  }
+ ],
+ "Sparx Neo 8 Plus": [
+  {
+   "brand": "SparX",
+   "device": "Neo_8_Plus",
+   "model": "Sparx Neo 8 Plus"
+  }
+ ],
+ "Sparx Neo 8 Pro": [
+  {
+   "brand": "SparX",
+   "device": "Neo_8_Pro",
+   "model": "Sparx Neo 8 Pro"
   }
  ],
  "Spark_Plus_3": [
@@ -224943,6 +225007,13 @@
    "brand": "Tecno",
    "device": "TECNO-K9",
    "model": "TECNO K9"
+  }
+ ],
+ "TECNO Mobile SPARK 20 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-Mobile-KJ6",
+   "model": "TECNO Mobile KJ6"
   }
  ],
  "TECNO Mobile SPARK 8": [

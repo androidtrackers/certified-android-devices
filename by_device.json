@@ -35433,6 +35433,13 @@
    "model": "G73"
   }
  ],
+ "G0930": [
+  {
+   "brand": "Blu",
+   "name": "G73L",
+   "model": "G73L"
+  }
+ ],
  "G0160LL": [
   {
    "brand": "Blu",
@@ -85144,6 +85151,13 @@
    "brand": "Homatics",
    "name": "Box R 4K Plus",
    "model": "Box R 4K Plus"
+  }
+ ],
+ "YYZ": [
+  {
+   "brand": "Homatics",
+   "name": "Kickpi",
+   "model": "KP1"
   }
  ],
  "HCA6010": [
@@ -195982,6 +195996,35 @@
    "model": "SM-T638U"
   }
  ],
+ "gtactive5wifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active5",
+   "model": "SM-X300"
+  }
+ ],
+ "gtactive5": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X306B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X306N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X308B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X308U"
+  }
+ ],
  "gtaxladwifikx": [
   {
    "brand": "Samsung",
@@ -202395,14 +202438,12 @@
    "model": "AQUOS-TVX23C"
   }
  ],
- "SE3": [
+ "sandiego": [
   {
    "brand": "Sharp",
-   "name": "FS8014",
-   "model": "FS8014"
-  }
- ],
- "sandiego": [
+   "name": "FQ",
+   "model": "AQUOS-TVE23A"
+  },
   {
    "brand": "Sharp",
    "name": "FV1",
@@ -202417,6 +202458,13 @@
    "brand": "Sharp",
    "name": "FV1",
    "model": "AQUOS-TVX23A"
+  }
+ ],
+ "SE3": [
+  {
+   "brand": "Sharp",
+   "name": "FS8014",
+   "model": "FS8014"
   }
  ],
  "SBM003SH": [
@@ -211236,6 +211284,20 @@
    "brand": "SparX",
    "name": "Sparx Neo 7 Pro",
    "model": "Sparx Neo 7 Pro"
+  }
+ ],
+ "Neo_8_Plus": [
+  {
+   "brand": "SparX",
+   "name": "Sparx Neo 8 Plus",
+   "model": "Sparx Neo 8 Plus"
+  }
+ ],
+ "Neo_8_Pro": [
+  {
+   "brand": "SparX",
+   "name": "Sparx Neo 8 Pro",
+   "model": "Sparx Neo 8 Pro"
   }
  ],
  "Spark_Plus_3": [
@@ -227068,6 +227130,13 @@
    "brand": "Tecno",
    "name": "TECNO POP 2s Pro",
    "model": "TECNO KB2j"
+  }
+ ],
+ "TECNO-Mobile-KJ6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO Mobile SPARK 20 Pro",
+   "model": "TECNO Mobile KJ6"
   }
  ],
  "TECNO-Mobile-KG6k": [

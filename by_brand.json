@@ -19658,6 +19658,11 @@
    "model": "G73"
   },
   {
+   "device": "G0930",
+   "name": "G73L",
+   "model": "G73L"
+  },
+  {
    "device": "G0160LL",
    "name": "G8",
    "model": "G8"
@@ -58472,6 +58477,11 @@
    "device": "YQB",
    "name": "Global",
    "model": "Dongle R 4K"
+  },
+  {
+   "device": "YYZ",
+   "name": "Kickpi",
+   "model": "KP1"
   },
   {
    "device": "HND",
@@ -151565,6 +151575,31 @@
    "model": "SM-T638U"
   },
   {
+   "device": "gtactive5wifi",
+   "name": "Galaxy Tab Active5",
+   "model": "SM-X300"
+  },
+  {
+   "device": "gtactive5",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X306B"
+  },
+  {
+   "device": "gtactive5",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X306N"
+  },
+  {
+   "device": "gtactive5",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X308B"
+  },
+  {
+   "device": "gtactive5",
+   "name": "Galaxy Tab Active5 5G",
+   "model": "SM-X308U"
+  },
+  {
    "device": "gtaxladwifikx",
    "name": "Galaxy Tab Advanced2",
    "model": "SM-T583"
@@ -156845,6 +156880,11 @@
    "device": "mongkok",
    "name": "FK1",
    "model": "AQUOS-TVX23C"
+  },
+  {
+   "device": "sandiego",
+   "name": "FQ",
+   "model": "AQUOS-TVE23A"
   },
   {
    "device": "SE3",
@@ -163873,6 +163913,16 @@
    "device": "Neo_7_Pro",
    "name": "Sparx Neo 7 Pro",
    "model": "Sparx Neo 7 Pro"
+  },
+  {
+   "device": "Neo_8_Plus",
+   "name": "Sparx Neo 8 Plus",
+   "model": "Sparx Neo 8 Plus"
+  },
+  {
+   "device": "Neo_8_Pro",
+   "name": "Sparx Neo 8 Pro",
+   "model": "Sparx Neo 8 Pro"
   }
  ],
  "Spark": [
@@ -178366,6 +178416,11 @@
    "device": "TECNO-K9",
    "name": "TECNO K9",
    "model": "TECNO K9"
+  },
+  {
+   "device": "TECNO-Mobile-KJ6",
+   "name": "TECNO Mobile SPARK 20 Pro",
+   "model": "TECNO Mobile KJ6"
   },
   {
    "device": "TECNO-Mobile-KG6k",
