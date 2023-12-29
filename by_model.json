@@ -36077,6 +36077,11 @@
    "device": "Senwa_S40"
   },
   {
+   "brand": "TIANYU",
+   "name": "S4",
+   "device": "S40"
+  },
+  {
    "brand": "xTouch",
    "name": "S40",
    "device": "S40"
@@ -164909,6 +164914,11 @@
    "brand": "POS Terminal",
    "name": "ACT",
    "device": "POS"
+  },
+  {
+   "brand": "POS Terminal",
+   "name": "PMGLRR99",
+   "device": "POS"
   }
  ],
  "OrderGo5": [
@@ -181832,6 +181842,13 @@
    "brand": "SAIET",
    "name": "STS600",
    "device": "STS600"
+  }
+ ],
+ "STS601": [
+  {
+   "brand": "SAIET",
+   "name": "STS601",
+   "device": "STS601"
   }
  ],
  "FP-U320-711-WIFI": [
@@ -239448,6 +239465,34 @@
    "brand": "Trio",
    "name": "Stealth-G4-7.85",
    "device": "Trio-Stealth-G4-785"
+  }
+ ],
+ "20721400": [
+  {
+   "brand": "True",
+   "name": "20721400",
+   "device": "Tablet"
+  }
+ ],
+ "20725300": [
+  {
+   "brand": "True",
+   "name": "20725300",
+   "device": "Tablet"
+  }
+ ],
+ "20726600": [
+  {
+   "brand": "True",
+   "name": "20726600",
+   "device": "Tablet"
+  }
+ ],
+ "20728200": [
+  {
+   "brand": "True",
+   "name": "20728200",
+   "device": "Tablet"
   }
  ],
  "Alpha 5G": [

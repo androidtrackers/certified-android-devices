@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-28
+Last sync is 2023-12-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24025,6 +24025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
 |POS Terminal|ACT|POS|pCloud|
+|POS Terminal|PMGLRR99|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
@@ -26665,6 +26666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAIET|STS570|STS570|STS570|
 |SAIET|STS571|STS571|STS571|
 |SAIET|STS600|STS600|STS600|
+|SAIET|STS601|STS601|STS601|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SAMPO|Android TV|R2|ATV R2|
@@ -34105,6 +34107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIANHOO|EOS Pro|EOS_Pro|EOS Pro|
+|TIANYU|S4|S40|S40|
 |TIGO|ONEtv|uiw4054mil|ONEtv|
 |TIGO|ONEtv|uiw4059mil|ONEtv|
 |TIGO|ONEtv|vip6102w|ONEtv|
@@ -35370,6 +35373,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trio|Stealth G4 7|Trio-Stealth-G4-7|Trio-Stealth-G4-7|
 |Trio|Stealth-G4-101|Trio-Stealth-G4-101|Trio-Stealth G4 10.1|
 |Trio|Stealth-G4-7.85|Trio-Stealth-G4-785|Trio-Stealth-G4-7.85|
+|True|20721400|Tablet|20721400|
+|True|20725300|Tablet|20725300|
+|True|20726600|Tablet|20726600|
+|True|20728200|Tablet|20728200|
 |True|Alpha_5G|Alpha_5G|Alpha 5G|
 |True|HCH03|TrueHCH03|HCH03|
 |True|S1|S1|S1|

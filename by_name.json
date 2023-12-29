@@ -42458,6 +42458,11 @@
    "brand": "Ruio",
    "device": "RUIO_S4",
    "model": "RUIO_S4"
+  },
+  {
+   "brand": "TIANYU",
+   "device": "S40",
+   "model": "S40"
   }
  ],
  "Cello": [
@@ -162109,6 +162114,13 @@
    "model": "P9001"
   }
  ],
+ "PMGLRR99": [
+  {
+   "brand": "POS Terminal",
+   "device": "POS",
+   "model": "pCloud"
+  }
+ ],
  "OrderGo5_EEA": [
   {
    "brand": "POSSAFE",
@@ -178721,6 +178733,13 @@
    "brand": "SAIET",
    "device": "STS600",
    "model": "STS600"
+  }
+ ],
+ "STS601": [
+  {
+   "brand": "SAIET",
+   "device": "STS601",
+   "model": "STS601"
   }
  ],
  "FP-U320-711-WIFI": [
@@ -228489,6 +228508,34 @@
    "brand": "Trio",
    "device": "Trio-Stealth-G4-785",
    "model": "Trio-Stealth-G4-7.85"
+  }
+ ],
+ "20721400": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20721400"
+  }
+ ],
+ "20725300": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20725300"
+  }
+ ],
+ "20726600": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20726600"
+  }
+ ],
+ "20728200": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20728200"
   }
  ],
  "Alpha_5G": [

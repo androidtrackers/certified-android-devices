@@ -43878,6 +43878,11 @@
    "brand": "POS Terminal",
    "name": "ACT",
    "model": "pCloud"
+  },
+  {
+   "brand": "POS Terminal",
+   "name": "PMGLRR99",
+   "model": "pCloud"
   }
  ],
  "Cobalt_T10_wifi": [
@@ -55930,6 +55935,11 @@
   {
    "brand": "Premio",
    "name": "S40",
+   "model": "S40"
+  },
+  {
+   "brand": "TIANYU",
+   "name": "S4",
    "model": "S40"
   },
   {
@@ -79915,6 +79925,26 @@
    "brand": "Noblex",
    "name": "T7A6N",
    "model": "T7A6N"
+  },
+  {
+   "brand": "True",
+   "name": "20721400",
+   "model": "20721400"
+  },
+  {
+   "brand": "True",
+   "name": "20725300",
+   "model": "20725300"
+  },
+  {
+   "brand": "True",
+   "name": "20726600",
+   "model": "20726600"
+  },
+  {
+   "brand": "True",
+   "name": "20728200",
+   "model": "20728200"
   }
  ],
  "HPAD_IP8045": [
@@ -178442,6 +178472,13 @@
    "brand": "SAIET",
    "name": "STS600",
    "model": "STS600"
+  }
+ ],
+ "STS601": [
+  {
+   "brand": "SAIET",
+   "name": "STS601",
+   "model": "STS601"
   }
  ],
  "U320-3G": [
