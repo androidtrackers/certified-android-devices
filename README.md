@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-12-29
+Last sync is 2023-12-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17857,6 +17857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leeco|LePro3|le_zl1|LEX727|
 |Leeco|LeoPro3|le_zl1|LEX725|
 |Leeco|"X Serials(X43 Pro|X55|X65)"|
+|Legamaster|EVOLVE2|ETX|ETX|
 |LegendComfortable|SEP011037|SEP011037|SEP011037|
 |LeiaInc|Lume Pad|LumePad|LPD-20W|
 |Leica|Leica CSX8|CSX8|LGT-08QA-2301|
