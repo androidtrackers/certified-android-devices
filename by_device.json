@@ -689,6 +689,11 @@
    "model": "Impact_Lux_Display"
   },
   {
+   "brand": "ESOL",
+   "name": "CCBEK",
+   "model": "CCBEK"
+  },
+  {
    "brand": "Helgi",
    "name": "HXxx10",
    "model": "Helgi_HX10"
@@ -14708,6 +14713,13 @@
    "model": "V10_Viper"
   }
  ],
+ "V10_Viper_Lite": [
+  {
+   "brand": "AllView",
+   "name": "V10 Viper Lite",
+   "model": "V10_Viper_Lite"
+  }
+ ],
  "V2_Viper": [
   {
    "brand": "AllView",
@@ -16402,6 +16414,11 @@
    "brand": "F&U (Fandu)",
    "name": "Greece",
    "model": "FU 4K SMART TV"
+  },
+  {
+   "brand": "FUEGO",
+   "name": "FUEGO 4K SMART TV",
+   "model": "FUEGO 4K SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -33880,6 +33897,11 @@
    "model": "FU 2K SMART TV"
   },
   {
+   "brand": "FUEGO",
+   "name": "FUEGO 2K SMART TV",
+   "model": "FUEGO 2K SMART TV"
+  },
+  {
    "brand": "Grunkel",
    "name": "Europe",
    "model": "GRUNKEL SMART TV"
@@ -38160,6 +38182,11 @@
    "brand": "CAIXUN",
    "name": "Sgamer",
    "model": "Sgamer"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "CDI SMART TV",
+   "model": "CDI SMART TV"
   },
   {
    "brand": "Kogan",
@@ -55939,7 +55966,7 @@
   },
   {
    "brand": "TIANYU",
-   "name": "S4",
+   "name": "S40",
    "model": "S40"
   },
   {
@@ -137190,6 +137217,13 @@
    "model": "MEIZU 21"
   }
  ],
+ "meizu21Pro": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 21 PRO",
+   "model": "MEIZU 21 Pro"
+  }
+ ],
  "meizuC9": [
   {
    "brand": "Meizu",
@@ -154108,6 +154142,13 @@
    "brand": "Nuu",
    "name": "Tab 10",
    "model": "T1001L"
+  }
+ ],
+ "T1005LAV1": [
+  {
+   "brand": "Nuu",
+   "name": "Tab 10 Plus",
+   "model": "T1005L"
   }
  ],
  "N5005LA": [
@@ -179146,6 +179187,11 @@
    "brand": "SMART Technologies",
    "name": "AM60 series",
    "model": "AM60 series"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "AM60 series",
+   "model": "SMART AM60"
   },
   {
    "brand": "SMART Technologies",
@@ -240498,6 +240544,13 @@
    "model": "V2338A"
   }
  ],
+ "PD2339": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo9 Pro",
+   "model": "V2339A"
+  }
+ ],
  "DPD2307": [
   {
    "brand": "Vivo",
@@ -240621,6 +240674,11 @@
    "brand": "Vivo",
    "name": "iQOO Z8x",
    "model": "V2312A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y100i长续航版",
+   "model": "V2312BA"
   },
   {
    "brand": "Vivo",
@@ -253068,6 +253126,13 @@
    "model": "Blade A3 2019-T"
   }
  ],
+ "Z3101T": [
+  {
+   "brand": "ZTE",
+   "name": "Blade A3 SE",
+   "model": "Blade A3 SE"
+  }
+ ],
  "Z3052T": [
   {
    "brand": "ZTE",
@@ -258018,6 +258083,11 @@
    "brand": "ZTE",
    "name": "ZTE 7060",
    "model": "ZTE 7060"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A73",
+   "model": "ZTE 7060"
   }
  ],
  "P633S07": [
@@ -258094,6 +258164,11 @@
   {
    "brand": "ZTE",
    "name": "ZTE 8050",
+   "model": "ZTE 8050"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V50 Design",
    "model": "ZTE 8050"
   }
  ],
@@ -258736,6 +258811,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A33s",
    "model": "ZTE Blade A33s"
+  }
+ ],
+ "P963F94": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A34",
+   "model": "ZTE Blade A34"
   }
  ],
  "P963F94_A": [

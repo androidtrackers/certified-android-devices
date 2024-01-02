@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-01
+Last sync is 2024-01-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1056,6 +1056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V1 Viper L|V1_Viper_L|V1_Viper_L|
 |AllView|V1 Viper S4G|V1_Viper_S4G|V1_Viper_S4G|
 |AllView|V10 Viper|V10_Viper|V10_Viper|
+|AllView|V10 Viper Lite|V10_Viper_Lite|V10_Viper_Lite|
 |AllView|V2 Viper|V2_Viper|V2_Viper|
 |AllView|V2 Viper E|V2_Viper_E|V2_Viper_E|
 |AllView|V2 Viper I|V2_Viper_I|V2_Viper_I|
@@ -5256,6 +5257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contex|Egypt|yeongdeungpo|AiPlus4K|
 |Conti|CONTI|stanford|2K SMART TV|
 |Conti|CONTI|zhongshan|4K SMART TV|
+|Continental Edison|CDI SMART TV|cottongreen|CDI SMART TV|
 |Continental Edison|CDI SMART TV|marina|CDI SMART TV|
 |Continental Edison|CDI SMART TV|nagata|CDI SMART TV|
 |Continental Edison|CE10402|CE10402|CE10402|
@@ -7141,6 +7143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ESI Enterprises|Monster M7 Tablet|MONSTERM7|M7|
 |ESI Enterprises|Trinity T101|Trinity_T101|Trinity T101|
 |ESI Enterprises|Trinity T900|Trinity_T900|Trinity T900|
+|ESOL|CCBEK|rk3588_t|CCBEK|
 |ESOL|HCB_5186|Interactive_White_Board|HCB_5186|
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
 |ETERNITY|HEROSP001|HEROSP001|SP-001|
@@ -7844,6 +7847,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPT Trading|FPT_X15|FPT_X15|FPT_X15|
 |FPT Trading|FPT_X50|FPT_X50|FPT X50|
 |FPT Trading|X50|FPT_X50|FPT X50|
+|FUEGO|FUEGO 2K SMART TV|nagata|FUEGO 2K SMART TV|
+|FUEGO|FUEGO 4K SMART TV|marina|FUEGO 4K SMART TV|
 |FUNKER|E500i|E500i|E500i|
 |FUSE4K|FUSE 4K|SEI700TV|FUSE 4K|
 |FaceVsion|OC1020A|OC1020A|FV-FG6|
@@ -19887,6 +19892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu 20|meizu20|MEIZU 20|
 |Meizu|meizu 20 Pro|meizu20Pro|MEIZU 20 Pro|
 |Meizu|meizu 21|meizu21|MEIZU 21|
+|Meizu|meizu 21 PRO|meizu21Pro|MEIZU 21 Pro|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M10|meizuM10|meizu M10|
@@ -22615,6 +22621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|NUU R1|R5001LA|R5001L|
 |Nuu|NUU_A2|S4001W|S4001W|
 |Nuu|Tab 10|T1001LA|T1001L|
+|Nuu|Tab 10 Plus|T1005LAV1|T1005L|
 |Nuu|Tab 5|N5005LA|N5005L|
 |Nuu|Tab 5|N5005LA_F|N5005L|
 |Nuu|Tab 8|T0801LAV1|T0801L|
@@ -26796,6 +26803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY EVO|SA100|HY40A|SA100|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SMART Technologies|AM60 series|komodo|AM60 series|
+|SMART Technologies|AM60 series|komodo|SMART AM60|
 |SMART Technologies|AMG1|komodo|AMG series|
 |SMART Technologies|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
 |SMART_KASSEL|ARGENTINA|SK3402|SK3402|
@@ -34108,7 +34116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIANHOO|EOS Pro|EOS_Pro|EOS Pro|
-|TIANYU|S4|S40|S40|
+|TIANYU|S40|S40|S40|
 |TIGO|ONEtv|uiw4054mil|ONEtv|
 |TIGO|ONEtv|uiw4059mil|ONEtv|
 |TIGO|ONEtv|vip6102w|ONEtv|
@@ -37045,6 +37053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo8|PD2301|V2301A|
 |Vivo|iQOO Neo8 Pro|PD2302|V2302A|
 |Vivo|iQOO Neo9|PD2338|V2338A|
+|Vivo|iQOO Neo9 Pro|PD2339|V2339A|
 |Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Z5|2018|I2018|
@@ -37171,6 +37180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X9s|PD1616B|vivo X9s|
 |Vivo|vivo X9s Plus|PD1635|vivo PD1635|
 |Vivo|vivo X9s Plus|PD1635|vivo X9s Plus|
+|Vivo|vivo Y100i长续航版|PD2312|V2312BA|
 |Vivo|vivo Y11|Y11|vivo Y11|
 |Vivo|vivo Y22|V2207|V2207|
 |Vivo|vivo Y22|V2207|V2238|
@@ -39087,6 +39097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A210|ZTE_Blade_A210|ZTE Blade A210|
 |ZTE|Blade A3 2019|Z3051T|Blade A3 2019|
 |ZTE|Blade A3 2019|Z3051T|Blade A3 2019-T|
+|ZTE|Blade A3 SE|Z3101T|Blade A3 SE|
 |ZTE|Blade A30|Z3052T|Blade A30|
 |ZTE|Blade A31|Z5351T|Blade A31|
 |ZTE|Blade A315|ZTE_Blade_A315|ZTE Blade A315|
@@ -40216,6 +40227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A33+|P963F91|ZTE Blade A33+|
 |ZTE|ZTE Blade A33+ Core|P963F92|ZTE Blade A33+ Core|
 |ZTE|ZTE Blade A33s|P963F93|ZTE Blade A33s|
+|ZTE|ZTE Blade A34|P963F94|ZTE Blade A34|
 |ZTE|ZTE Blade A34|P963F94_A|ZTE Blade A34|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
@@ -40254,6 +40266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7 2020RU|P662F02_D1|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A72s|P606F05|ZTE A7050|
+|ZTE|ZTE Blade A73|P606F07|ZTE 7060|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020RU|
@@ -40280,6 +40293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
 |ZTE|ZTE Blade V2020 Vita|P671F70|ZTE 8000|
 |ZTE|ZTE Blade V41 Smart|P606F05|ZTE A7050|
+|ZTE|ZTE Blade V50 Design|P606F08|ZTE 8050|
 |ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
 |ZTE|ZTE Blade V50 Vita|P606F09|ZTE 8550|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
