@@ -13157,6 +13157,138 @@
    "model": "Z9 PLUS"
   }
  ],
+ "umeda": [
+  {
+   "brand": "Akai",
+   "name": "AKAI SMART TV",
+   "model": "AKAI  SMART TV"
+  },
+  {
+   "brand": "Asanzo",
+   "name": "E Series",
+   "model": "E Series"
+  },
+  {
+   "brand": "Dawlance",
+   "name": "DAWLANCE GSMART 2KTV",
+   "model": "DAWLANCE GSMART 2KTV"
+  },
+  {
+   "brand": "Green House",
+   "name": "GREEN HOUSE 2K SMART",
+   "model": "GREEN HOUSE 2K SMART"
+  },
+  {
+   "brand": "Haier",
+   "name": "2K Haier TV",
+   "model": "2K Haier TV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS 2K SmartTV",
+   "model": "IRIS 2K SmartTV"
+  },
+  {
+   "brand": "Itel",
+   "name": "WOW TV",
+   "model": "WOW TV"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "LLOYD 2K SMART TV",
+   "model": "LLOYD 2K SMART TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ SMART TV",
+   "model": "MarQ SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA SMART TV",
+   "model": "MOTOROLA SMART TV"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "2K NSTV",
+   "model": "2K NSTV"
+  },
+  {
+   "brand": "Noblex",
+   "name": "Smart TV",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ok 2K TV",
+   "model": "ok 2K TV"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 2KA",
+   "model": "PrismPlus 2KA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE-FHD",
+   "model": "SWTV-22AE-FHD"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22NA-FHD",
+   "model": "SWTV-22NA-FHD"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22SA-FHD",
+   "model": "SWTV-22SA-FHD"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS-TVL23B",
+   "model": "AQUOS-TVL23B"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 2K TV",
+   "model": "SHARP 2K TV"
+  },
+  {
+   "brand": "TORNADO",
+   "name": "TORNADO 2K SMART TV",
+   "model": "TORNADO 2K SMART TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 2K SMART TV",
+   "model": "TESLA 2K SMART TV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "SPPL 2K GSmartTV",
+   "model": "SPPL 2K GSmartTV"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION GSMART 2KTV",
+   "model": "VISION GSMART 2KTV"
+  },
+  {
+   "brand": "Walton",
+   "name": "WALTON GSMART 2KTV",
+   "model": "WALTON GSMART 2KTV"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "Xtreme 2K Smart TV",
+   "model": "Xtreme 2K Smart TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN 2K G Smart TV",
+   "model": "YASIN 2K G Smart TV"
+  }
+ ],
  "FZ101": [
   {
    "brand": "Akai",
@@ -20951,98 +21083,6 @@
    "brand": "Asanzo",
    "name": "ASANZO A2",
    "model": "ASANZO A2"
-  }
- ],
- "umeda": [
-  {
-   "brand": "Asanzo",
-   "name": "E Series",
-   "model": "E Series"
-  },
-  {
-   "brand": "Dawlance",
-   "name": "DAWLANCE GSMART 2KTV",
-   "model": "DAWLANCE GSMART 2KTV"
-  },
-  {
-   "brand": "Haier",
-   "name": "2K Haier TV",
-   "model": "2K Haier TV"
-  },
-  {
-   "brand": "Iris",
-   "name": "IRIS 2K SmartTV",
-   "model": "IRIS 2K SmartTV"
-  },
-  {
-   "brand": "LLOYD",
-   "name": "LLOYD 2K SMART TV",
-   "model": "LLOYD 2K SMART TV"
-  },
-  {
-   "brand": "NobleSkiodo",
-   "name": "2K NSTV",
-   "model": "2K NSTV"
-  },
-  {
-   "brand": "Noblex",
-   "name": "Smart TV",
-   "model": "Smart TV"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "ok 2K TV",
-   "model": "ok 2K TV"
-  },
-  {
-   "brand": "PRISMPLUS",
-   "name": "PrismPlus 2KA",
-   "model": "PrismPlus 2KA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22AE-FHD",
-   "model": "SWTV-22AE-FHD"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22NA-FHD",
-   "model": "SWTV-22NA-FHD"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22SA-FHD",
-   "model": "SWTV-22SA-FHD"
-  },
-  {
-   "brand": "Tesla",
-   "name": "TESLA 2K SMART TV",
-   "model": "TESLA 2K SMART TV"
-  },
-  {
-   "brand": "Thomson",
-   "name": "SPPL 2K GSmartTV",
-   "model": "SPPL 2K GSmartTV"
-  },
-  {
-   "brand": "Vision",
-   "name": "VISION GSMART 2KTV",
-   "model": "VISION GSMART 2KTV"
-  },
-  {
-   "brand": "Walton",
-   "name": "WALTON GSMART 2KTV",
-   "model": "WALTON GSMART 2KTV"
-  },
-  {
-   "brand": "Xtreme",
-   "name": "Xtreme 2K Smart TV",
-   "model": "Xtreme 2K Smart TV"
-  },
-  {
-   "brand": "Yasin",
-   "name": "YASIN 2K G Smart TV",
-   "model": "YASIN 2K G Smart TV"
   }
  ],
  "ASANZO_S3_PLUS": [
@@ -43908,7 +43948,7 @@
   },
   {
    "brand": "POS Terminal",
-   "name": "PMGLRR99",
+   "name": "MINT",
    "model": "pCloud"
   }
  ],
@@ -52464,6 +52504,83 @@
    "brand": "Datsun",
    "name": "Datsun_D5500",
    "model": "DATSUN_D5500"
+  }
+ ],
+ "anaheim": [
+  {
+   "brand": "Dawlance",
+   "name": "DAWLANCE GSMART 4KTV",
+   "model": "DAWLANCE GSMART 4KTV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC 4K Smart TV Plus",
+   "model": "JVC 4K Smart TV Plus"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "4K Smart TV Plus",
+   "model": "4K Smart TV Plus"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-4SUH",
+   "model": "4KTV-4SUH"
+  },
+  {
+   "brand": "Philco",
+   "name": "Philco Smart Plus TV",
+   "model": "Philco Smart Plus TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE-4K",
+   "model": "SWTV-22AE-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22COL-4K",
+   "model": "SWTV-22COL-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22HK-4K NF",
+   "model": "SWTV-22HK-4K NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22NA-4K",
+   "model": "SWTV-22NA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22SA-4K",
+   "model": "SWTV-22SA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22TGS-4K",
+   "model": "SWTV-22TGS-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22TW-4K",
+   "model": "SWTV-22TW-4K"
+  },
+  {
+   "brand": "Singer",
+   "name": "Singer 4K GSMART TV FF",
+   "model": "Singer 4K GSMART TV FF"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION GSMART 4KTV FF",
+   "model": "VISION GSMART 4KTV FF"
+  },
+  {
+   "brand": "Walton",
+   "name": "WALTON GSMART 4KTV FF",
+   "model": "WALTON GSMART 4KTV FF"
   }
  ],
  "IT119345": [
@@ -130165,6 +130282,13 @@
    "model": "L55B"
   }
  ],
+ "L55S": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L55S",
+   "model": "LOGIC_L55S"
+  }
+ ],
  "L55SCLARO": [
   {
    "brand": "Logic Mobility",
@@ -159334,13 +159458,6 @@
    "model": "CPH1917"
   }
  ],
- "OP5ABFL1": [
-  {
-   "brand": "Oppo",
-   "name": "Reno 10",
-   "model": "CPH2599"
-  }
- ],
  "OP4847L1": [
   {
    "brand": "Oppo",
@@ -159384,6 +159501,13 @@
    "brand": "Oppo",
    "name": "Reno 10倍变焦版",
    "model": "PCCT00"
+  }
+ ],
+ "OP5ABFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno 11",
+   "model": "CPH2599"
   }
  ],
  "OP4A57": [
@@ -162836,38 +162960,6 @@
    "model": "PT7EduPad"
   }
  ],
- "anaheim": [
-  {
-   "brand": "PRISMPLUS",
-   "name": "4K Smart TV Plus",
-   "model": "4K Smart TV Plus"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22AE-4K",
-   "model": "SWTV-22AE-4K"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22HK-4K NF",
-   "model": "SWTV-22HK-4K NF"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22NA-4K",
-   "model": "SWTV-22NA-4K"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22SA-4K",
-   "model": "SWTV-22SA-4K"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-22TGS-4K",
-   "model": "SWTV-22TGS-4K"
-  }
- ],
  "K726": [
   {
    "brand": "PROGRACE",
@@ -165552,6 +165644,13 @@
    "brand": "Penta",
    "name": "PENTA_73AAQ1",
    "model": "PENTA_73AAQ1"
+  }
+ ],
+ "Smart-Ex03": [
+  {
+   "brand": "Pepperl_Fuchs",
+   "name": "Smart Ex-03",
+   "model": "Smart-Ex03"
   }
  ],
  "PR7RKTNF": [
@@ -264778,6 +264877,13 @@
    "brand": "preo",
    "name": "PTAB_P8",
    "model": "PTAB_P8"
+  }
+ ],
+ "ifpd": [
+  {
+   "brand": "prowise",
+   "name": "Prowise Touchscreen Ultra",
+   "model": "prowise"
   }
  ],
  "Y10_1": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-02
+Last sync is 2024-01-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -883,6 +883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Akai|AKAI|bangbae|AKAI 4K Android TV|
 |Akai|AKAI|stanford|2K SMART TV|
 |Akai|AKAI 4K SMART TV|SW6H|AKAI 4K SMART TV|
+|Akai|AKAI SMART TV|umeda|AKAI  SMART TV|
 |Akai|FZ101|FZ101|FZ101|
 |Akai|FZ701|FZ701|FZ701|
 |Akai|FZ702|FZ702|FZ702|
@@ -6170,6 +6171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datsun|Datsun_D5500|D5500|DATSUN_D5500|
 |Dawlance|DAWLANCE GSMART 2KTV|umeda|DAWLANCE GSMART 2KTV|
 |Dawlance|DAWLANCE GSMART 4KTV|SW6H|DAWLANCE GSMART 4KTV|
+|Dawlance|DAWLANCE GSMART 4KTV|anaheim|DAWLANCE GSMART 4KTV|
 |DayMark|IT119345|IT119345|IT119345|
 |DayMark|IT119411|IT119411|IT119411|
 |Dcode|Cypher|Dcode_Cypher|DS-CR1|
@@ -9176,6 +9178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Greatwall|T709GW|T709GW|Great Wall T709|
 |Greatwall|W710|W710|W710|
 |Green House|4K Smart TV|pioneer|4K SA Smart TV|
+|Green House|GREEN HOUSE 2K SMART|umeda|GREEN HOUSE 2K SMART|
 |Green House|GREEN HOUSE TV|SW6H|GREEN HOUSE TV|
 |Green House|Smart TV|mateo|2K SA Smart TV|
 |GreenLion|G-10_PRO|G-10_PRO|G-10 PRO|
@@ -14563,6 +14566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|Vision1|itel-L6005|itel L6005|
 |Itel|Vision1 Plus(P36 Pro LTE)|itel-L6501|itel L6501|
 |Itel|Vision1Pro|itel-L6502|itel L6502|
+|Itel|WOW TV|umeda|WOW TV|
 |Itel|it1355|itel_it1355|itel it1355|
 |Itel|it1355M|itel_it1355M|itel it1355M|
 |Itel|it1407|itel_it1407|itel it1407|
@@ -14841,6 +14845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|zhongshan|4K SMART TV|
 |JVC|JVC|zhongshan|COL 4K SMART TV|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
+|JVC|JVC 4K Smart TV Plus|anaheim|JVC 4K Smart TV Plus|
 |JVC|JVC J20|Cunda|J20|
 |JVC|KR|expo|Premium 4K GTV|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
@@ -18797,6 +18802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|L50 Plus|L50_PLUS|L50 PLUS|
 |Logic Mobility|L55A|L55A|L55A|
 |Logic Mobility|L55B|L55B|L55B|
+|Logic Mobility|L55S|L55S|LOGIC_L55S|
 |Logic Mobility|L55SCLARO|L55SCLARO|L55SCLARO|
 |Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
@@ -19425,6 +19431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MarQ|MarQ|bangbae|MarQ 4K Android TV|
 |MarQ|MarQ|komagome|MarQ 2K Android TV|
 |MarQ|MarQ 4K SMART TV|SW6H|MarQ 4K SMART TV|
+|MarQ|MarQ SMART TV|umeda|MarQ SMART TV|
 |MarQ|MarQ_M3|GIONEE_MAX|MarQ_M3|
 |Mara Phones|Mara  Z1|Mara_Z1|Mara Phones Z1|
 |Mara Phones|Mara X1|Mara_X1|Mara Phones X1|
@@ -20837,6 +20844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|MOTOROLA|stanford|Smart FHD TV|
 |Motorola|MOTOROLA|zhongshan|4K SMART TV|
 |Motorola|MOTOROLA|zhongshan|Smart UHD TV|
+|Motorola|MOTOROLA SMART TV|umeda|MOTOROLA SMART TV|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
 |Motorola|Milestone2|umts_milestone2|A953|
@@ -23539,7 +23547,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R9tm|R9|OPPO R9tm|
 |Oppo|Reno|OP47DD|CPH1917|
 |Oppo|Reno|OP47DDL1|CPH1917|
-|Oppo|Reno 10|OP5ABFL1|CPH2599|
 |Oppo|Reno 10x Room|OP4847L1|CPH1921|
 |Oppo|Reno 10x Zoom|OP4845|CPH1919|
 |Oppo|Reno 10x Zoom|OP4845|CPH1919RU|
@@ -23547,6 +23554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10x room|OP4847|CPH1921|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCM00|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
+|Oppo|Reno 11|OP5ABFL1|CPH2599|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
@@ -24033,7 +24041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
 |POS Terminal|ACT|POS|pCloud|
-|POS Terminal|PMGLRR99|POS|pCloud|
+|POS Terminal|MINT|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
@@ -24098,6 +24106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|4KTV-0SUW|SW4H|4KTV-0SUW|
 |Panasonic|4KTV-3SU|SW6H|4KTV-3SU|
 |Panasonic|4KTV-3SUF|SW6H|4KTV-3SUF|
+|Panasonic|4KTV-4SUH|anaheim|4KTV-4SUH|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
 |Panasonic|A-DA|balticaCA|MY21ADA|
@@ -24475,6 +24484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0552|PENTA_83AAQ2|PENTA_83AAQ2|
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
+|Pepperl_Fuchs|Smart Ex-03|Smart-Ex03|Smart-Ex03|
 |Performance|T7|T7|T7|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T9|T9|T9|
@@ -24499,6 +24509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|PTB8R|PTB8R|PTB8R|
 |Philco|PTB8R4G|PTB8R4G|PTB8R4G|
 |Philco|Philco|stanford|PHILCO SMART|
+|Philco|Philco Smart Plus TV|anaheim|Philco Smart Plus TV|
 |Philco|Philco Smart TV|sunnyvale|Philco Smart TV|
 |Philco|Philco Smart plus TV|SW6H|Philco Smart plus TV|
 |Philco|PhilcoTV|shinjuku|PhilcoTV|
@@ -27113,12 +27124,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-22AE|SW6H|SWTV-22AE|
 |SWTV|SWTV-22AE-4K|anaheim|SWTV-22AE-4K|
 |SWTV|SWTV-22AE-FHD|umeda|SWTV-22AE-FHD|
+|SWTV|SWTV-22COL-4K|anaheim|SWTV-22COL-4K|
 |SWTV|SWTV-22HK-4K NF|anaheim|SWTV-22HK-4K NF|
 |SWTV|SWTV-22NA-4K|anaheim|SWTV-22NA-4K|
 |SWTV|SWTV-22NA-FHD|umeda|SWTV-22NA-FHD|
 |SWTV|SWTV-22SA-4K|anaheim|SWTV-22SA-4K|
 |SWTV|SWTV-22SA-FHD|umeda|SWTV-22SA-FHD|
 |SWTV|SWTV-22TGS-4K|anaheim|SWTV-22TGS-4K|
+|SWTV|SWTV-22TW-4K|anaheim|SWTV-22TW-4K|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -30531,6 +30544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero6|XKH|SHG04|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|
+|Sharp|AQUOS-TVL23B|umeda|AQUOS-TVL23B|
 |Sharp|Android One S1|kaleido_sprout|S1|
 |Sharp|B10|SH-A01|SH-A01|
 |Sharp|BASIO active|DQO|SHG09|
@@ -30699,6 +30713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP|stanford|2K SMART TV|
 |Sharp|SHARP|zhongshan|4K SMART TV|
 |Sharp|SHARP 2K SMART TV|shinagawa|SHARP 2K SMART TV|
+|Sharp|SHARP 2K TV|umeda|SHARP 2K TV|
 |Sharp|SHARP A2 Lite|SJ3|FS8026|
 |Sharp|SHARP A2 Mini|HQ3|IF9009|
 |Sharp|SHARP AQUOS C10|SH-Z01|SH-Z01|
@@ -30858,6 +30873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Singer|SINGER BD SMART TV|SW4H_FF|SINGER BD SMART TV|
 |Singer|SINGER SL SMART TV|SW4H|SINGER SL SMART TV|
 |Singer|Singer 4K GSMART TV|SW6H|Singer 4K GSMART TV|
+|Singer|Singer 4K GSMART TV FF|anaheim|Singer 4K GSMART TV FF|
 |Singer|Singer Android TV|kunyang|Singer Android UHD TV|
 |Singer|SingerTV|shibuya|SingerTV|
 |Singer|Smart TV|longshan|AI PONT|
@@ -34185,6 +34201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPJOY|PNC450|PNC450|PNC450|
 |TOPJOY|SC0802|SC0802|SC0802|
 |TORNADO|TORNADO 2K SMART TV|shinagawa|TORNADO 2K SMART TV|
+|TORNADO|TORNADO 2K SMART TV|umeda|TORNADO 2K SMART TV|
 |TORNADO|TORNADO 4K SmartTV|SW6H|TORNADO 4K SmartTV|
 |TORNADO|TORNADO Android TV|SW4H|TORNADO Android TV|
 |TOSCIDO|P101|P101|P101|
@@ -36563,6 +36580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vision|VISION GSMART 2KTV|umeda|VISION GSMART 2KTV|
 |Vision|VISION GSMART 4KTV|SW6H|VISION GSMART 4KTV|
 |Vision|VISION GSMART 4KTV FF|SW6H|VISION GSMART 4KTV FF|
+|Vision|VISION GSMART 4KTV FF|anaheim|VISION GSMART 4KTV FF|
 |Vision|VISION SMART TV|SW4H|VISION SMART TV|
 |Vision|Vision V1|VISION_V1|V1|
 |Vision Technology|2K SMART TV|nagata|2K SMART TV|
@@ -37614,6 +37632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WALTON GSMART 2KTV|umeda|WALTON GSMART 2KTV|
 |Walton|WALTON GSMART 4KTV|SW6H|WALTON GSMART 4KTV|
 |Walton|WALTON GSMART 4KTV FF|SW6H|WALTON GSMART 4KTV FF|
+|Walton|WALTON GSMART 4KTV FF|anaheim|WALTON GSMART 4KTV FF|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Walton|XANON X20|XANON_X20|XANON X20|
 |Wansa|Smart TV|longshan|AI PONT|
@@ -41288,6 +41307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |preo|PTABP10|PTABP10|PTABP10|
 |preo|PTAB_P8|PTAB_P8|PTAB_P8|
+|prowise|Prowise Touchscreen Ultra|ifpd|prowise|
 |qunyiCO|Y10|Y10|Y10|
 |qunyiCO|Y10_1|Y10_1|Y10|
 |qunyiCO|Y10_1_EEA|Y10_1_EEA|Y10|

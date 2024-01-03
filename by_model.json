@@ -9493,6 +9493,13 @@
    "device": "SW6H"
   }
  ],
+ "AKAI  SMART TV": [
+  {
+   "brand": "Akai",
+   "name": "AKAI SMART TV",
+   "device": "umeda"
+  }
+ ],
  "FZ101": [
   {
    "brand": "Akai",
@@ -47505,6 +47512,11 @@
    "brand": "Dawlance",
    "name": "DAWLANCE GSMART 4KTV",
    "device": "SW6H"
+  },
+  {
+   "brand": "Dawlance",
+   "name": "DAWLANCE GSMART 4KTV",
+   "device": "anaheim"
   }
  ],
  "IT119345": [
@@ -68671,6 +68683,13 @@
    "brand": "Greatwall",
    "name": "W710",
    "device": "W710"
+  }
+ ],
+ "GREEN HOUSE 2K SMART": [
+  {
+   "brand": "Green House",
+   "name": "GREEN HOUSE 2K SMART",
+   "device": "umeda"
   }
  ],
  "GREEN HOUSE TV": [
@@ -104186,6 +104205,13 @@
    "device": "itel-L6502"
   }
  ],
+ "WOW TV": [
+  {
+   "brand": "Itel",
+   "name": "WOW TV",
+   "device": "umeda"
+  }
+ ],
  "itel it1355": [
   {
    "brand": "Itel",
@@ -105912,6 +105938,13 @@
    "brand": "JVC",
    "name": "JVC 4K Smart TV NZ",
    "device": "SW6H"
+  }
+ ],
+ "JVC 4K Smart TV Plus": [
+  {
+   "brand": "JVC",
+   "name": "JVC 4K Smart TV Plus",
+   "device": "anaheim"
   }
  ],
  "Premium 4K GTV": [
@@ -131598,6 +131631,13 @@
    "device": "L55B"
   }
  ],
+ "LOGIC_L55S": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L55S",
+   "device": "L55S"
+  }
+ ],
  "L55SCLARO": [
   {
    "brand": "Logic Mobility",
@@ -135711,6 +135751,13 @@
    "brand": "MarQ",
    "name": "MarQ 4K SMART TV",
    "device": "SW6H"
+  }
+ ],
+ "MarQ SMART TV": [
+  {
+   "brand": "MarQ",
+   "name": "MarQ SMART TV",
+   "device": "umeda"
   }
  ],
  "MarQ_M3": [
@@ -144903,6 +144950,13 @@
    "brand": "Motorola",
    "name": "Lenovo XT2091-7",
    "device": "cebu"
+  }
+ ],
+ "MOTOROLA SMART TV": [
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA SMART TV",
+   "device": "umeda"
   }
  ],
  "XT621": [
@@ -161896,13 +161950,6 @@
    "device": "OP47DDL1"
   }
  ],
- "CPH2599": [
-  {
-   "brand": "Oppo",
-   "name": "Reno 10",
-   "device": "OP5ABFL1"
-  }
- ],
  "CPH1921": [
   {
    "brand": "Oppo",
@@ -161946,6 +161993,13 @@
    "brand": "Oppo",
    "name": "Reno 10倍变焦版",
    "device": "OP46C3"
+  }
+ ],
+ "CPH2599": [
+  {
+   "brand": "Oppo",
+   "name": "Reno 11",
+   "device": "OP5ABFL1"
   }
  ],
  "PCKM00": [
@@ -164971,7 +165025,7 @@
   },
   {
    "brand": "POS Terminal",
-   "name": "PMGLRR99",
+   "name": "MINT",
    "device": "POS"
   }
  ],
@@ -165417,6 +165471,13 @@
    "brand": "Panasonic",
    "name": "4KTV-3SUF",
    "device": "SW6H"
+  }
+ ],
+ "4KTV-4SUH": [
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-4SUH",
+   "device": "anaheim"
   }
  ],
  "55AX600C": [
@@ -167827,6 +167888,13 @@
    "device": "ETBA0604"
   }
  ],
+ "Smart-Ex03": [
+  {
+   "brand": "Pepperl_Fuchs",
+   "name": "Smart Ex-03",
+   "device": "Smart-Ex03"
+  }
+ ],
  "PR7RKTNF": [
   {
    "brand": "Performance",
@@ -167970,6 +168038,13 @@
    "brand": "Philco",
    "name": "Philco",
    "device": "stanford"
+  }
+ ],
+ "Philco Smart Plus TV": [
+  {
+   "brand": "Philco",
+   "name": "Philco Smart Plus TV",
+   "device": "anaheim"
   }
  ],
  "Philco Smart TV": [
@@ -184724,6 +184799,13 @@
    "device": "umeda"
   }
  ],
+ "SWTV-22COL-4K": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22COL-4K",
+   "device": "anaheim"
+  }
+ ],
  "SWTV-22HK-4K NF": [
   {
    "brand": "SWTV",
@@ -184763,6 +184845,13 @@
   {
    "brand": "SWTV",
    "name": "SWTV-22TGS-4K",
+   "device": "anaheim"
+  }
+ ],
+ "SWTV-22TW-4K": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22TW-4K",
    "device": "anaheim"
   }
  ],
@@ -208168,6 +208257,13 @@
    "device": "SH-06G"
   }
  ],
+ "AQUOS-TVL23B": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS-TVL23B",
+   "device": "umeda"
+  }
+ ],
  "SH-A01": [
   {
    "brand": "Sharp",
@@ -209278,6 +209374,13 @@
    "device": "shinagawa"
   }
  ],
+ "SHARP 2K TV": [
+  {
+   "brand": "Sharp",
+   "name": "SHARP 2K TV",
+   "device": "umeda"
+  }
+ ],
  "FS8026": [
   {
    "brand": "Sharp",
@@ -210264,6 +210367,13 @@
    "brand": "Singer",
    "name": "Singer 4K GSMART TV",
    "device": "SW6H"
+  }
+ ],
+ "Singer 4K GSMART TV FF": [
+  {
+   "brand": "Singer",
+   "name": "Singer 4K GSMART TV FF",
+   "device": "anaheim"
   }
  ],
  "Singer Android UHD TV": [
@@ -231867,6 +231977,11 @@
    "brand": "TORNADO",
    "name": "TORNADO 2K SMART TV",
    "device": "shinagawa"
+  },
+  {
+   "brand": "TORNADO",
+   "name": "TORNADO 2K SMART TV",
+   "device": "umeda"
   }
  ],
  "TORNADO 4K SmartTV": [
@@ -246597,6 +246712,11 @@
    "brand": "Vision",
    "name": "VISION GSMART 4KTV FF",
    "device": "SW6H"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION GSMART 4KTV FF",
+   "device": "anaheim"
   }
  ],
  "VISION SMART TV": [
@@ -253473,6 +253593,11 @@
    "brand": "Walton",
    "name": "WALTON GSMART 4KTV FF",
    "device": "SW6H"
+  },
+  {
+   "brand": "Walton",
+   "name": "WALTON GSMART 4KTV FF",
+   "device": "anaheim"
   }
  ],
  "Walton Primo X5": [
@@ -276621,6 +276746,13 @@
    "brand": "preo",
    "name": "PTAB_P8",
    "device": "PTAB_P8"
+  }
+ ],
+ "prowise": [
+  {
+   "brand": "prowise",
+   "name": "Prowise Touchscreen Ultra",
+   "device": "ifpd"
   }
  ],
  "RMX3268": [
