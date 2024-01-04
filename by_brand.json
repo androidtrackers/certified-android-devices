@@ -10310,7 +10310,7 @@
   },
   {
    "device": "ASUS_AI2203",
-   "name": "ROG Phone 6D series",
+   "name": "ROG Phone 6D Ultimate",
    "model": "ASUS_AI2203_D"
   },
   {
@@ -140776,6 +140776,11 @@
    "model": "SM-A155M"
   },
   {
+   "device": "a15",
+   "name": "Galaxy A15",
+   "model": "SM-A155N"
+  },
+  {
    "device": "a15x",
    "name": "Galaxy A15 5G",
    "model": "SM-A1560"
@@ -188171,6 +188176,11 @@
    "device": "1609",
    "name": "1609",
    "model": "vivo 1609"
+  },
+  {
+   "device": "PD2318",
+   "name": "G2",
+   "model": "V2318A"
   },
   {
    "device": "I1928",

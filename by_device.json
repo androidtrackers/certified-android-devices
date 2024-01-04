@@ -22498,7 +22498,7 @@
  "ASUS_AI2203": [
   {
    "brand": "Asus",
-   "name": "ROG Phone 6D series",
+   "name": "ROG Phone 6D Ultimate",
    "model": "ASUS_AI2203_D"
   },
   {
@@ -182441,6 +182441,11 @@
    "brand": "Samsung",
    "name": "Galaxy A15",
    "model": "SM-A155M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A15",
+   "model": "SM-A155N"
   }
  ],
  "a15x": [
@@ -237839,6 +237844,23 @@
    "model": "vivo 1609"
   }
  ],
+ "PD2318": [
+  {
+   "brand": "Vivo",
+   "name": "G2",
+   "model": "V2318A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "model": "V2318A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36m",
+   "model": "V2318A"
+  }
+ ],
  "I1928": [
   {
    "brand": "Vivo",
@@ -240310,18 +240332,6 @@
    "brand": "Vivo",
    "name": "Y35A",
    "model": "vivo Y35A"
-  }
- ],
- "PD2318": [
-  {
-   "brand": "Vivo",
-   "name": "Y36",
-   "model": "V2318A"
-  },
-  {
-   "brand": "Vivo",
-   "name": "Y36m",
-   "model": "V2318A"
   }
  ],
  "Y51": [

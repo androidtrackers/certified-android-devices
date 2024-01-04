@@ -5857,6 +5857,11 @@
    "model": "MP21"
   },
   {
+   "brand": "Vivo",
+   "device": "PD2318",
+   "model": "V2318A"
+  },
+  {
    "brand": "X-Age",
    "device": "G2",
    "model": "G2"
@@ -22590,7 +22595,7 @@
    "model": "ASUS_AI2201_D"
   }
  ],
- "ROG Phone 6D series": [
+ "ROG Phone 6D Ultimate": [
   {
    "brand": "Asus",
    "device": "ASUS_AI2203",
@@ -182694,6 +182699,11 @@
    "brand": "Samsung",
    "device": "a15",
    "model": "SM-A155M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a15",
+   "model": "SM-A155N"
   }
  ],
  "Galaxy A15 5G": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-03
+Last sync is 2024-01-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1989,7 +1989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_B|
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_C|
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_D|
-|Asus|ROG Phone 6D series|ASUS_AI2203|ASUS_AI2203_D|
+|Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_A|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_C|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001D|
@@ -27354,6 +27354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A14 5G|a14xm|SM-S146VL|
 |Samsung|Galaxy A15|a15|SM-A155F|
 |Samsung|Galaxy A15|a15|SM-A155M|
+|Samsung|Galaxy A15|a15|SM-A155N|
 |Samsung|Galaxy A15 5G|a15x|SM-A1560|
 |Samsung|Galaxy A15 5G|a15x|SM-A156B|
 |Samsung|Galaxy A15 5G|a15x|SM-A156E|
@@ -36641,6 +36642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|1601|1601|vivo 1601|
 |Vivo|1601|1601|vivo 1713|
 |Vivo|1609|1609|vivo 1609|
+|Vivo|G2|PD2318|V2318A|
 |Vivo|I1927|I1928|I1927|
 |Vivo|I1928|I1928|I1928|
 |Vivo|I2009|2009|I2009|
