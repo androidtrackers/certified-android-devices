@@ -28310,6 +28310,13 @@
    "model": "Bmobile_B60Pro"
   }
  ],
+ "Bmobile_BM65Plus": [
+  {
+   "brand": "BMobile",
+   "name": "Bmobile_BM65Plus",
+   "model": "BM65Plus"
+  }
+ ],
  "Bmobile_AX683_MV04": [
   {
    "brand": "BMobile",
@@ -79034,6 +79041,13 @@
    "brand": "Hafury",
    "name": "K30 PRO",
    "model": "K30 PRO"
+  }
+ ],
+ "MEET": [
+  {
+   "brand": "Hafury",
+   "name": "MEET",
+   "model": "MEET"
   }
  ],
  "NOTE_10": [
@@ -215070,6 +215084,13 @@
    "model": "9183W"
   }
  ],
+ "ScarabLite_TMO": [
+  {
+   "brand": "TCL",
+   "name": "TBD",
+   "model": "T434W"
+  }
+ ],
  "Seattle": [
   {
    "brand": "TCL",
@@ -261569,6 +261590,13 @@
    "brand": "d.light",
    "name": "M1000D",
    "model": "M1000"
+  }
+ ],
+ "AEOP518": [
+  {
+   "brand": "benco",
+   "name": "benco S1 Max",
+   "model": "AEOP518"
   }
  ],
  "AEOP513": [

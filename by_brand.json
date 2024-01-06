@@ -14603,6 +14603,11 @@
    "model": "Bmobile_B60Pro"
   },
   {
+   "device": "Bmobile_BM65Plus",
+   "name": "Bmobile_BM65Plus",
+   "model": "BM65Plus"
+  },
+  {
    "device": "Bmobile_AX683_MV04",
    "name": "Bmoblie AX683",
    "model": "AX683"
@@ -52785,6 +52790,11 @@
    "device": "M20",
    "name": "M20",
    "model": "M20"
+  },
+  {
+   "device": "MEET",
+   "name": "MEET",
+   "model": "MEET"
   },
   {
    "device": "NOTE_10",
@@ -167124,6 +167134,11 @@
    "model": "9183W"
   },
   {
+   "device": "ScarabLite_TMO",
+   "name": "TBD",
+   "model": "T434W"
+  },
+  {
    "device": "Seattle",
    "name": "TCL 10 5G",
    "model": "T790B"
@@ -209035,6 +209050,11 @@
    "device": "M700",
    "name": "M700",
    "model": "M700"
+  },
+  {
+   "device": "AEOP518",
+   "name": "benco S1 Max",
+   "model": "AEOP518"
   },
   {
    "device": "AEOP513",

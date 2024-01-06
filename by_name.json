@@ -28387,6 +28387,13 @@
    "model": "Bmobile_B60Pro"
   }
  ],
+ "Bmobile_BM65Plus": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BM65Plus",
+   "model": "BM65Plus"
+  }
+ ],
  "Bmoblie AX683": [
   {
    "brand": "BMobile",
@@ -81131,6 +81138,13 @@
    "model": "Redmi K30 Pro 5G Zoom Edition"
   }
  ],
+ "MEET": [
+  {
+   "brand": "Hafury",
+   "device": "MEET",
+   "model": "MEET"
+  }
+ ],
  "NOTE 10": [
   {
    "brand": "Hafury",
@@ -121412,6 +121426,11 @@
    "brand": "TCL",
    "device": "Odin_5G_TMO",
    "model": "9183W"
+  },
+  {
+   "brand": "TCL",
+   "device": "ScarabLite_TMO",
+   "model": "T434W"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -259779,6 +259798,13 @@
    "brand": "d.light",
    "device": "M1000",
    "model": "M1000"
+  }
+ ],
+ "benco S1 Max": [
+  {
+   "brand": "benco",
+   "device": "AEOP518",
+   "model": "AEOP518"
   }
  ],
  "benco S1 Plus": [

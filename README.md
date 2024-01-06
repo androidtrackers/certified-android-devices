@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-05
+Last sync is 2024-01-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2829,6 +2829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_AX751_PLUS|Bmobile_AX751_PLUS|AX751+|
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmobile_B60Pro|Bmobile_B60Pro|Bmobile_B60Pro|
+|BMobile|Bmobile_BM65Plus|Bmobile_BM65Plus|BM65Plus|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BMobile|Nobu A55 Pro|Azumi_NA55_Pro|NOBU A55 PRO|
@@ -10179,6 +10180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hafury|K30|K30|K30|
 |Hafury|K30 PRO|K30_PRO|K30 PRO|
 |Hafury|M20|M20|M20|
+|Hafury|MEET|MEET|MEET|
 |Hafury|NOTE 10|NOTE_10|NOTE 10|
 |Haier|2K Haier TV|umeda|2K Haier TV|
 |Haier|A-TT00|A-TT00|A-TT00|
@@ -32556,6 +32558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TAB 10s New|Odin2|9081X|
 |TCL|TBD|Apollo84GBoostR|9132S|
 |TCL|TBD|Odin_5G_TMO|9183W|
+|TCL|TBD|ScarabLite_TMO|T434W|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
 |TCL|TCL 10 5G|Seattle|T790Y|
@@ -40733,6 +40736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|AH9910|AH9910|AH9910|
 |benco|M1000|M1000|M1000|
 |benco|M700|M700|M700|
+|benco|benco S1 Max|AEOP518|AEOP518|
 |benco|benco S1 Plus|AEOP513|AEOP513|
 |benco|benco V62|AE9150|AE9150|
 |benco|benco V90|AE9120|AE9120|

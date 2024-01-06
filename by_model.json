@@ -23475,6 +23475,13 @@
    "device": "Bmobile_B60Pro"
   }
  ],
+ "BM65Plus": [
+  {
+   "brand": "BMobile",
+   "name": "Bmobile_BM65Plus",
+   "device": "Bmobile_BM65Plus"
+  }
+ ],
  "FUN 4 2018": [
   {
    "brand": "BMobile",
@@ -75269,6 +75276,13 @@
    "brand": "Hafury",
    "name": "K30 PRO",
    "device": "K30_PRO"
+  }
+ ],
+ "MEET": [
+  {
+   "brand": "Hafury",
+   "name": "MEET",
+   "device": "MEET"
   }
  ],
  "NOTE 10": [
@@ -220858,6 +220872,13 @@
    "device": "Odin_5G_TMO"
   }
  ],
+ "T434W": [
+  {
+   "brand": "TCL",
+   "name": "TBD",
+   "device": "ScarabLite_TMO"
+  }
+ ],
  "T790B": [
   {
    "brand": "TCL",
@@ -273401,6 +273422,13 @@
    "brand": "d.light",
    "name": "M1000D",
    "device": "M1000"
+  }
+ ],
+ "AEOP518": [
+  {
+   "brand": "benco",
+   "name": "benco S1 Max",
+   "device": "AEOP518"
   }
  ],
  "AEOP513": [
