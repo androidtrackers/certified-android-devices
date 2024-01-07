@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-06
+Last sync is 2024-01-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23557,6 +23557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10倍变焦版|OP46C3|PCCM00|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
 |Oppo|Reno 11|OP5ABFL1|CPH2599|
+|Oppo|Reno 11 Pro|OP5AD3L1|CPH2607|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|

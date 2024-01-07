@@ -121145,6 +121145,11 @@
    "model": "CPH2599"
   },
   {
+   "device": "OP5AD3L1",
+   "name": "Reno 11 Pro",
+   "model": "CPH2607"
+  },
+  {
    "device": "OP4B83L1",
    "name": "Reno 2",
    "model": "CPH1907"
