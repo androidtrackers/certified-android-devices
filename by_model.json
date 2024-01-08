@@ -99104,6 +99104,13 @@
    "device": "Infinix_X510_sprout"
   }
  ],
+ "Infinix X666": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20 5G",
+   "device": "Infinix-X666"
+  }
+ ],
  "Infinix X6825": [
   {
    "brand": "Infinix",
@@ -99816,6 +99823,11 @@
   {
    "brand": "Infinix",
    "name": "Infinix SMART 8 Plus",
+   "device": "Infinix-X6526"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMART 8 Plus",
    "device": "Infinix-X6526"
   }
  ],
@@ -183009,6 +183021,13 @@
    "brand": "SPC",
    "name": "Discovery Pro",
    "device": "Discovery_Pro"
+  }
+ ],
+ "Discovery SE": [
+  {
+   "brand": "SPC",
+   "name": "Discovery SE",
+   "device": "Discovery_SE"
   }
  ],
  "SPC Android TV": [

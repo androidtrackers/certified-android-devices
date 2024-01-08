@@ -99920,6 +99920,13 @@
    "model": "Infinix X510"
   }
  ],
+ "Infinix-X666": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20 5G",
+   "model": "Infinix X666"
+  }
+ ],
  "Infinix-X6825": [
   {
    "brand": "Infinix",
@@ -100622,6 +100629,11 @@
   {
    "brand": "Infinix",
    "name": "Infinix SMART 8 Plus",
+   "model": "Infinix X6526"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMART 8 Plus",
    "model": "Infinix X6526"
   }
  ],
@@ -179535,6 +179547,13 @@
    "brand": "SPC",
    "name": "Discovery Pro",
    "model": "Discovery Pro"
+  }
+ ],
+ "Discovery_SE": [
+  {
+   "brand": "SPC",
+   "name": "Discovery SE",
+   "model": "Discovery SE"
   }
  ],
  "GRAVITY-2": [

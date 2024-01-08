@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-07
+Last sync is 2024-01-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13796,6 +13796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 12i|Infinix-X665|Infinix X665|
 |Infinix|HOT 12i|Infinix-X665B|Infinix X665B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
+|Infinix|HOT 20 5G|Infinix-X666|Infinix X666|
 |Infinix|HOT 20 PLAY|Infinix-X6825|Infinix X6825|
 |Infinix|HOT 20S|Infinix-X6827|Infinix X6827|
 |Infinix|HOT 20i|Infinix-X665C|Infinix X665C|
@@ -13972,6 +13973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART 6 PLUS|Infinix-X6823|Infinix X6823|
 |Infinix|SMART 6 PLUS|Infinix-X6823C|Infinix X6823C|
 |Infinix|SMART 7  or SMART 7 PLUS|Infinix-X6517|Infinix X6517|
+|Infinix|SMART 8 Plus|Infinix-X6526|Infinix X6526|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
 |Infinix|SMRAT 8 PRO|Infinix-X6525B|Infinix X6525B|
@@ -26852,6 +26854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOWLY|AG_1088_A133P|AG_1088_A133P|AG_1088_A133P|
 |SPC|Discovery|Discovery|Discovery|
 |SPC|Discovery Pro|Discovery_Pro|Discovery Pro|
+|SPC|Discovery SE|Discovery_SE|Discovery SE|
 |SPC|EU、UK、AP|martin|SPC Android TV|
 |SPC|GRAVITY-2|GRAVITY-2|GRAVITY 2|
 |SPC|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|

@@ -101433,6 +101433,13 @@
    "model": "Infinix X510"
   }
  ],
+ "HOT 20 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X666",
+   "model": "Infinix X666"
+  }
+ ],
  "HOT 20 PLAY": [
   {
    "brand": "Infinix",
@@ -102462,6 +102469,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6517",
    "model": "Infinix X6517"
+  }
+ ],
+ "SMART 8 Plus": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6526",
+   "model": "Infinix X6526"
   }
  ],
  "SMART HD": [
@@ -179866,6 +179880,13 @@
    "brand": "SPC",
    "device": "Discovery_Pro",
    "model": "Discovery Pro"
+  }
+ ],
+ "Discovery SE": [
+  {
+   "brand": "SPC",
+   "device": "Discovery_SE",
+   "model": "Discovery SE"
   }
  ],
  "GRAVITY-2": [

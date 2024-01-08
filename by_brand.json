@@ -71134,6 +71134,11 @@
    "model": "Infinix X510"
   },
   {
+   "device": "Infinix-X666",
+   "name": "HOT 20 5G",
+   "model": "Infinix X666"
+  },
+  {
    "device": "Infinix-X6825",
    "name": "HOT 20 PLAY",
    "model": "Infinix X6825"
@@ -72012,6 +72017,11 @@
    "device": "Infinix-X6517",
    "name": "SMART 7  or SMART 7 PLUS",
    "model": "Infinix X6517"
+  },
+  {
+   "device": "Infinix-X6526",
+   "name": "SMART 8 Plus",
+   "model": "Infinix X6526"
   },
   {
    "device": "Infinix-X612",
@@ -138210,6 +138220,11 @@
    "device": "Discovery_Pro",
    "name": "Discovery Pro",
    "model": "Discovery Pro"
+  },
+  {
+   "device": "Discovery_SE",
+   "name": "Discovery SE",
+   "model": "Discovery SE"
   },
   {
    "device": "martin",
