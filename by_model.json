@@ -7119,6 +7119,11 @@
   {
    "brand": "Dahua",
    "name": "DAHUA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Dahua",
+   "name": "DAHUA",
    "device": "zhongshan"
   },
   {
@@ -17760,6 +17765,27 @@
    "brand": "Asus",
    "name": "ROG Phone 7 series",
    "device": "ASUS_AI2205"
+  }
+ ],
+ "ASUS_AI2401_A": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 8 series",
+   "device": "ASUS_AI2401"
+  }
+ ],
+ "ASUS_AI2401_C": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 8 series",
+   "device": "ASUS_AI2401"
+  }
+ ],
+ "ASUS_AI2401_D": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 8 series",
+   "device": "ASUS_AI2401"
   }
  ],
  "ASUS_I001D": [
@@ -33621,6 +33647,11 @@
    "brand": "CAIXUN",
    "name": "Caixun TV",
    "device": "marina"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Caixun TV",
+   "device": "nagata"
   }
  ],
  "Apollo Premium4K TV": [
@@ -59159,6 +59190,13 @@
    "brand": "FOXXD",
    "name": "T8Pro",
    "device": "T8Pro"
+  }
+ ],
+ "EcoTV Pro A": [
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "device": "hongkong"
   }
  ],
  "EcoTV Pro D": [
@@ -97325,6 +97363,13 @@
    "brand": "INFINITON",
    "name": "INFINITON 2K SMART TV",
    "device": "nagata"
+  }
+ ],
+ "INFINITON 4K Smart TV": [
+  {
+   "brand": "INFINITON",
+   "name": "INITON 4K SMART TV",
+   "device": "marina"
   }
  ],
  "Infiniton2KAndroidTV": [
@@ -157459,6 +157504,13 @@
    "device": "OP5961L1"
   }
  ],
+ "PJD110": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "device": "OP5929L1"
+  }
+ ],
  "ONEPLUS A6000": [
   {
    "brand": "OnePlus",
@@ -160502,6 +160554,20 @@
    "device": "OP528BL1"
   }
  ],
+ "PHZ110": [
+  {
+   "brand": "Oppo",
+   "name": "Find X7",
+   "device": "OP5661L1"
+  }
+ ],
+ "PHY110": [
+  {
+   "brand": "Oppo",
+   "name": "Find X7 Ultra",
+   "device": "OP565FL1"
+  }
+ ],
  "X909T": [
   {
    "brand": "Oppo",
@@ -162021,17 +162087,15 @@
    "device": "OP46C3"
   }
  ],
- "CPH2599": [
-  {
-   "brand": "Oppo",
-   "name": "Reno 11",
-   "device": "OP5ABFL1"
-  }
- ],
  "CPH2607": [
   {
    "brand": "Oppo",
    "name": "Reno 11 Pro",
+   "device": "OP5AD3L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno11 Pro",
    "device": "OP5AD3L1"
   }
  ],
@@ -162143,6 +162207,27 @@
    "brand": "Oppo",
    "name": "Reno10 Pro+ 5G",
    "device": "OP56D3L1"
+  }
+ ],
+ "PJH110": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11",
+   "device": "OP59EDL1"
+  }
+ ],
+ "CPH2599": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11",
+   "device": "OP5ABFL1"
+  }
+ ],
+ "PJJ110": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11 Pro",
+   "device": "OP59EFL1"
   }
  ],
  "CPH1945": [
@@ -174984,6 +175069,13 @@
    "device": "PLT9999G"
   }
  ],
+ "PROSCAN 2K SMART TV": [
+  {
+   "brand": "Proscan",
+   "name": "PROSCAN 2K SMART TV",
+   "device": "nagata"
+  }
+ ],
  "PTBPT5QCB7": [
   {
    "brand": "Protab",
@@ -184277,6 +184369,13 @@
    "brand": "STK(Santok)",
    "name": "cayenne",
    "device": "cayenne"
+  }
+ ],
+ "HJ_TD": [
+  {
+   "brand": "STboard",
+   "name": "HJ_TD",
+   "device": "HJ_TD"
   }
  ],
  "Model_6_Pro_Max_4G": [
@@ -271738,6 +271837,13 @@
    "brand": "Zebra",
    "name": "MC40",
    "device": "MC40"
+  }
+ ],
+ "MC9400": [
+  {
+   "brand": "Zebra",
+   "name": "MC9400",
+   "device": "MC9400"
   }
  ],
  "PS20J": [

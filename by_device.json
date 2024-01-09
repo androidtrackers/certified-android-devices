@@ -12504,6 +12504,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Electroman",
    "name": "Electroman",
    "model": "Smart UHD TV"
@@ -12512,6 +12517,11 @@
    "brand": "Element",
    "name": "ELEMENT",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Pro A"
   },
   {
    "brand": "FPD",
@@ -16571,6 +16581,11 @@
    "brand": "IMPEX",
    "name": "IMPEX evoQ 4K",
    "model": "IMPEX evoQ 4K"
+  },
+  {
+   "brand": "INFINITON",
+   "name": "INITON 4K SMART TV",
+   "model": "INFINITON 4K Smart TV"
   },
   {
    "brand": "Inves",
@@ -22517,6 +22532,23 @@
    "brand": "Asus",
    "name": "ROG Phone 7 series",
    "model": "ASUS_AI2205_C"
+  }
+ ],
+ "ASUS_AI2401": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 8 series",
+   "model": "ASUS_AI2401_A"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 8 series",
+   "model": "ASUS_AI2401_C"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 8 series",
+   "model": "ASUS_AI2401_D"
   }
  ],
  "ASUS_I001_1": [
@@ -33905,6 +33937,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Caixun TV",
+   "model": "Caixun TV"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "Dreamstar 2K SMART TV",
    "model": "Dreamstar 2K SMART TV"
   },
@@ -34007,6 +34044,11 @@
    "brand": "Profilo",
    "name": "Turkey",
    "model": "Profilo Smart TV"
+  },
+  {
+   "brand": "Proscan",
+   "name": "PROSCAN 2K SMART TV",
+   "model": "PROSCAN 2K SMART TV"
   },
   {
    "brand": "Qilive",
@@ -155560,6 +155602,13 @@
    "model": "CPH2487"
   }
  ],
+ "OP5929L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "model": "PJD110"
+  }
+ ],
  "OnePlus6": [
   {
    "brand": "OnePlus",
@@ -158270,6 +158319,20 @@
    "model": "PGEM10"
   }
  ],
+ "OP5661L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X7",
+   "model": "PHZ110"
+  }
+ ],
+ "OP565FL1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X7 Ultra",
+   "model": "PHY110"
+  }
+ ],
  "PBCM30": [
   {
    "brand": "Oppo",
@@ -159529,17 +159592,15 @@
    "model": "PCCT00"
   }
  ],
- "OP5ABFL1": [
-  {
-   "brand": "Oppo",
-   "name": "Reno 11",
-   "model": "CPH2599"
-  }
- ],
  "OP5AD3L1": [
   {
    "brand": "Oppo",
    "name": "Reno 11 Pro",
+   "model": "CPH2607"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno11 Pro",
    "model": "CPH2607"
   }
  ],
@@ -159645,6 +159706,27 @@
    "brand": "Oppo",
    "name": "Reno10 Pro+ 5G",
    "model": "CPH2521"
+  }
+ ],
+ "OP59EDL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11",
+   "model": "PJH110"
+  }
+ ],
+ "OP5ABFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11",
+   "model": "CPH2599"
+  }
+ ],
+ "OP59EFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11 Pro",
+   "model": "PJJ110"
   }
  ],
  "OP4B65L1": [
@@ -180805,6 +180887,13 @@
    "brand": "STK(Santok)",
    "name": "cayenne",
    "model": "STK Ace"
+  }
+ ],
+ "HJ_TD": [
+  {
+   "brand": "STboard",
+   "name": "HJ_TD",
+   "model": "HJ_TD"
   }
  ],
  "Model_6_Pro_Max_4G": [
@@ -260009,6 +260098,13 @@
    "brand": "Zebra",
    "name": "MC40",
    "model": "MC40N0"
+  }
+ ],
+ "MC9400": [
+  {
+   "brand": "Zebra",
+   "name": "MC9400",
+   "model": "MC9400"
   }
  ],
  "PS20JB": [

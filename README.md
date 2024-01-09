@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-08
+Last sync is 2024-01-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1992,6 +1992,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_A|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_C|
+|Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_A|
+|Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_C|
+|Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_D|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DE|
@@ -4217,6 +4220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Apollo Premium TV|nagata|Apollo Premium TV|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Caixun TV|marina|Caixun TV|
+|CAIXUN|Caixun TV|nagata|Caixun TV|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|marina|Apollo Premium4K TV|
 |CAIXUN|Columbia|patrick|Aiplus4K|
@@ -6087,6 +6091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|X7|X7|X7|
 |Daewoo|X9|X9|X9|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
+|Dahua|DAHUA|hongkong|4K SMART TV|
 |Dahua|DAHUA|stanford|2K SMART TV|
 |Dahua|DAHUA|stanford|40DSA|
 |Dahua|DAHUA|zhongshan|43FCOL|
@@ -7834,6 +7839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8M|T8M|T8M|
 |FOXXD|T8Plus|T8Plus|T8 Plus|
 |FOXXD|T8Pro|T8Pro|T8Pro|
+|FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
 |FPD|FPD|lavender|EcoTV Plus D|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
@@ -13524,6 +13530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMPEX|IMPEX evoQ 4K|marina|IMPEX evoQ 4K|
 |IMTO|GKL089|GKL089|GKL089|
 |INFINITON|INFINITON 2K SMART TV|nagata|INFINITON 2K Smart TV|
+|INFINITON|INITON 4K SMART TV|marina|INFINITON 4K Smart TV|
 |INFINITON|Infiniton|bruno|Infiniton2KAndroidTV|
 |INFINITON|Infiniton|shilin|Infiniton4KAndroidTV|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
@@ -22887,6 +22894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 11 5G|OP594DL1|CPH2451|
 |OnePlus|OnePlus 11 5G 中国版|OP591BL1|PHB110|
 |OnePlus|OnePlus 11R 5G|OP5961L1|CPH2487|
+|OnePlus|OnePlus 12|OP5929L1|PJD110|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -23329,6 +23337,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X5 Pro|OP52D1L1|CPH2305|
 |Oppo|Find X6|OP528F|PGFM10|
 |Oppo|Find X6 Pro|OP528BL1|PGEM10|
+|Oppo|Find X7|OP5661L1|PHZ110|
+|Oppo|Find X7 Ultra|OP565FL1|PHY110|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
@@ -23558,7 +23568,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10x room|OP4847|CPH1921|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCM00|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
-|Oppo|Reno 11|OP5ABFL1|CPH2599|
 |Oppo|Reno 11 Pro|OP5AD3L1|CPH2607|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
@@ -23577,6 +23586,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno10 Pro 5G|OP56DBL1|CPH2525|
 |Oppo|Reno10 Pro 5G|OP56DBL1|CPH2541|
 |Oppo|Reno10 Pro+ 5G|OP56D3L1|CPH2521|
+|Oppo|Reno11|OP59EDL1|PJH110|
+|Oppo|Reno11|OP5ABFL1|CPH2599|
+|Oppo|Reno11 Pro|OP59EFL1|PJJ110|
+|Oppo|Reno11 Pro|OP5AD3L1|CPH2607|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -25591,6 +25604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9650G|PLT9650G|PLT9650G|
 |Proscan|PLT9774G|PLT9774G|PLT9774G|
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
+|Proscan|PROSCAN 2K SMART TV|nagata|PROSCAN 2K SMART TV|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
 |Proximus|Proximus TV|uiw4020pxm|decoder|
 |Proximus|Proximus TV|uiw4068pxm|tvbox|
@@ -27051,6 +27065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|X3|X3|X3|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|STboard|HJ_TD|HJ_TD|HJ_TD|
 |SUNMAX|Model 6 Pro Max 4G|Model_6_Pro_Max_4G|Model_6_Pro_Max_4G|
 |SUNMAX|Model D|Model_D|Model D|
 |SUNMAX|Model E|Model_E|Model E|
@@ -40459,6 +40474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|
 |Zebra|MC40|MC40|MC40N0|
+|Zebra|MC9400|MC9400|MC9400|
 |Zebra|PS20 (Personal Shopper)|PS20JB|PS20J|
 |Zebra|PS20(Personal Shopper)|PS20JP|PS20J|
 |Zebra|Pollux|TC70|TC700H|
