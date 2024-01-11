@@ -16755,6 +16755,13 @@
    "model": "Altibox TV"
   }
  ],
+ "ADOBox 4K (DIW377)": [
+  {
+   "brand": "Altice",
+   "device": "DIW377_ALT_DO",
+   "model": "ADOBox 4K (DIW377)"
+  }
+ ],
  "ALTICE S43": [
   {
    "brand": "Altice",
@@ -65626,6 +65633,18 @@
    "model": "YY_766_EEA"
   }
  ],
+ "Digital Experience": [
+  {
+   "brand": "FMC",
+   "device": "belford",
+   "model": "Infotainment-system"
+  },
+  {
+   "brand": "FMC",
+   "device": "belford",
+   "model": "SYNC"
+  }
+ ],
  "KS20": [
   {
    "brand": "FOLG",
@@ -90169,6 +90188,13 @@
    "model": "T5 Pro"
   }
  ],
+ "T7 EEA": [
+  {
+   "brand": "Hotwav",
+   "device": "T7",
+   "model": "T7"
+  }
+ ],
  "TAB R5": [
   {
    "brand": "Hotwav",
@@ -102122,6 +102148,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6525",
    "model": "Infinix X6525"
+  }
+ ],
+ "Infinix SMART 8 PRO": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6525B",
+   "model": "Infinix X6525B"
   }
  ],
  "Infinix SMART 8 Plus": [
@@ -132989,6 +133022,13 @@
    "model": "ME61"
   }
  ],
+ "ME65": [
+  {
+   "brand": "MEFERI",
+   "device": "ME65",
+   "model": "ME65"
+  }
+ ],
  "MEO TV Box 4K": [
   {
    "brand": "MEO(Portugal)",
@@ -146211,7 +146251,17 @@
   {
    "brand": "Motorola Solutions",
    "device": "mkz_sdm660_64",
+   "model": "MSLB-MKZ900ti"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "device": "mkz_sdm660_64",
    "model": "MSLB-MKZ920"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "device": "mkz_sdm660_64",
+   "model": "MSLB-MKZ920ti"
   }
  ],
  "TC55": [
@@ -150708,18 +150758,6 @@
    "brand": "Natcom",
    "device": "X1LTE",
    "model": "X1LTE"
-  }
- ],
- "Digital Experience": [
-  {
-   "brand": "Nautilus",
-   "device": "belford",
-   "model": "Infotainment-system"
-  },
-  {
-   "brand": "Nautilus",
-   "device": "belford",
-   "model": "SYNC"
   }
  ],
  "NFTM-LAR": [
@@ -155484,6 +155522,13 @@
    "brand": "OnePlus",
    "device": "OP5565",
    "model": "PGKM10"
+  }
+ ],
+ "OnePlus Ace 3": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5CF9L1",
+   "model": "PJE110"
   }
  ],
  "OnePlus Ace 竞速版": [
@@ -178549,6 +178594,20 @@
    "model": "PA501"
   }
  ],
+ "PA501BGR": [
+  {
+   "brand": "RuggON",
+   "device": "PA501BGR",
+   "model": "PA501BGR"
+  }
+ ],
+ "PA501BWR": [
+  {
+   "brand": "RuggON",
+   "device": "PA501BWR",
+   "model": "PA501BWR"
+  }
+ ],
  "CP250": [
   {
    "brand": "Ruggear",
@@ -185907,6 +185966,13 @@
    "model": "SM-E025F"
   }
  ],
+ "Galaxy F04": [
+  {
+   "brand": "Samsung",
+   "device": "m04",
+   "model": "SM-E045F"
+  }
+ ],
  "Galaxy F12": [
   {
    "brand": "Samsung",
@@ -188110,11 +188176,6 @@
   }
  ],
  "Galaxy M04": [
-  {
-   "brand": "Samsung",
-   "device": "m04",
-   "model": "SM-E045F"
-  },
   {
    "brand": "Samsung",
    "device": "m04",
@@ -229718,6 +229779,13 @@
    "model": "Armor 24"
   }
  ],
+ "Armor 26 Ultra": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_26_Ultra",
+   "model": "Armor 26 Ultra"
+  }
+ ],
  "Armor 2S": [
   {
    "brand": "Ulefone",
@@ -231280,6 +231348,13 @@
    "brand": "Umidigi",
    "device": "G3_Plus",
    "model": "MP25"
+  }
+ ],
+ "G3_Tab_Ultra": [
+  {
+   "brand": "Umidigi",
+   "device": "G3_Tab_Ultra",
+   "model": "MT13"
   }
  ],
  "G5 Mecha": [

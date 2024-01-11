@@ -15845,6 +15845,13 @@
    "model": "Altibox TV"
   }
  ],
+ "DIW377_ALT_DO": [
+  {
+   "brand": "Altice",
+   "name": "ADOBox 4K (DIW377)",
+   "model": "ADOBox 4K (DIW377)"
+  }
+ ],
  "S43": [
   {
    "brand": "Altice",
@@ -60139,6 +60146,11 @@
    "model": "T7"
   },
   {
+   "brand": "Hotwav",
+   "name": "T7 EEA",
+   "model": "T7"
+  },
+  {
    "brand": "Performance",
    "name": "T7",
    "model": "T7"
@@ -63643,6 +63655,18 @@
    "brand": "Vkworld",
    "name": "S9",
    "model": "S9"
+  }
+ ],
+ "belford": [
+  {
+   "brand": "FMC",
+   "name": "Digital Experience",
+   "model": "Infotainment-system"
+  },
+  {
+   "brand": "FMC",
+   "name": "Digital Experience",
+   "model": "SYNC"
   }
  ],
  "KS20": [
@@ -100667,6 +100691,23 @@
    "model": "Infinix X6525"
   }
  ],
+ "Infinix-X6525B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 PRO",
+   "model": "Infinix X6525B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8 Pro",
+   "model": "Infinix X6525B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMRAT 8 PRO",
+   "model": "Infinix X6525B"
+  }
+ ],
  "Infinix-X6526": [
   {
    "brand": "Infinix",
@@ -100677,18 +100718,6 @@
    "brand": "Infinix",
    "name": "SMART 8 Plus",
    "model": "Infinix X6526"
-  }
- ],
- "Infinix-X6525B": [
-  {
-   "brand": "Infinix",
-   "name": "Infinix SMART 8 Pro",
-   "model": "Infinix X6525B"
-  },
-  {
-   "brand": "Infinix",
-   "name": "SMRAT 8 PRO",
-   "model": "Infinix X6525B"
   }
  ],
  "Infinix-X5010": [
@@ -132801,6 +132830,13 @@
    "model": "ME61"
   }
  ],
+ "ME65": [
+  {
+   "brand": "MEFERI",
+   "name": "ME65",
+   "model": "ME65"
+  }
+ ],
  "DV8555-MEO": [
   {
    "brand": "MEO(Portugal)",
@@ -146456,7 +146492,17 @@
   {
    "brand": "Motorola Solutions",
    "name": "MOTOTRBO ION",
+   "model": "MSLB-MKZ900ti"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "MOTOTRBO ION",
    "model": "MSLB-MKZ920"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "MOTOTRBO ION",
+   "model": "MSLB-MKZ920ti"
   }
  ],
  "TC55": [
@@ -151144,18 +151190,6 @@
    "brand": "Natcom",
    "name": "X1LTE",
    "model": "X1LTE"
-  }
- ],
- "belford": [
-  {
-   "brand": "Nautilus",
-   "name": "Digital Experience",
-   "model": "Infotainment-system"
-  },
-  {
-   "brand": "Nautilus",
-   "name": "Digital Experience",
-   "model": "SYNC"
   }
  ],
  "nftm_lar": [
@@ -155927,6 +155961,13 @@
    "brand": "OnePlus",
    "name": "OnePlus Ace",
    "model": "PGKM10"
+  }
+ ],
+ "OP5CF9L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Ace 3",
+   "model": "PJE110"
   }
  ],
  "OP5911": [
@@ -178302,6 +178343,20 @@
    "model": "PA501"
   }
  ],
+ "PA501BGR": [
+  {
+   "brand": "RuggON",
+   "name": "PA501BGR",
+   "model": "PA501BGR"
+  }
+ ],
+ "PA501BWR": [
+  {
+   "brand": "RuggON",
+   "name": "PA501BWR",
+   "model": "PA501BWR"
+  }
+ ],
  "cp250_gts": [
   {
    "brand": "Ruggear",
@@ -186040,6 +186095,18 @@
    "model": "SM-G3815"
   }
  ],
+ "m04": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F04",
+   "model": "SM-E045F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M04",
+   "model": "SM-M045F"
+  }
+ ],
  "f12": [
   {
    "brand": "Samsung",
@@ -188601,18 +188668,6 @@
    "brand": "Samsung",
    "name": "Galaxy M01",
    "model": "SM-M015G"
-  }
- ],
- "m04": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M04",
-   "model": "SM-E045F"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M04",
-   "model": "SM-M045F"
   }
  ],
  "m10lte": [
@@ -231705,6 +231760,13 @@
    "model": "Armor 24"
   }
  ],
+ "Armor_26_Ultra": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 26 Ultra",
+   "model": "Armor 26 Ultra"
+  }
+ ],
  "Armor_2S": [
   {
    "brand": "Ulefone",
@@ -233186,6 +233248,13 @@
    "brand": "Umidigi",
    "name": "G3 Plus EEA",
    "model": "MP25"
+  }
+ ],
+ "G3_Tab_Ultra": [
+  {
+   "brand": "Umidigi",
+   "name": "G3_Tab_Ultra",
+   "model": "MT13"
   }
  ],
  "G5_Mecha": [

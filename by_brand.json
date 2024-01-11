@@ -6266,6 +6266,11 @@
  ],
  "Altice": [
   {
+   "device": "DIW377_ALT_DO",
+   "name": "ADOBox 4K (DIW377)",
+   "model": "ADOBox 4K (DIW377)"
+  },
+  {
    "device": "S43",
    "name": "ALTICE S43",
    "model": "ALTICE_S43"
@@ -40584,6 +40589,18 @@
    "model": "S9"
   }
  ],
+ "FMC": [
+  {
+   "device": "belford",
+   "name": "Digital Experience",
+   "model": "Infotainment-system"
+  },
+  {
+   "device": "belford",
+   "name": "Digital Experience",
+   "model": "SYNC"
+  }
+ ],
  "FOLG": [
   {
    "device": "KS20",
@@ -60110,6 +60127,11 @@
    "model": "T5 Pro"
   },
   {
+   "device": "T7",
+   "name": "T7 EEA",
+   "model": "T7"
+  },
+  {
    "device": "TAB_R5",
    "name": "TAB R5",
    "model": "TAB R5"
@@ -71702,6 +71724,11 @@
    "device": "Infinix-X6525",
    "name": "Infinix SMART 8 HD",
    "model": "Infinix X6525"
+  },
+  {
+   "device": "Infinix-X6525B",
+   "name": "Infinix SMART 8 PRO",
+   "model": "Infinix X6525B"
   },
   {
    "device": "Infinix-X6526",
@@ -98514,6 +98541,11 @@
    "device": "ME61",
    "name": "ME61",
    "model": "ME61"
+  },
+  {
+   "device": "ME65",
+   "name": "ME65",
+   "model": "ME65"
   }
  ],
  "MEO(Portugal)": [
@@ -109973,7 +110005,17 @@
   {
    "device": "mkz_sdm660_64",
    "name": "MOTOTRBO ION",
+   "model": "MSLB-MKZ900ti"
+  },
+  {
+   "device": "mkz_sdm660_64",
+   "name": "MOTOTRBO ION",
    "model": "MSLB-MKZ920"
+  },
+  {
+   "device": "mkz_sdm660_64",
+   "name": "MOTOTRBO ION",
+   "model": "MSLB-MKZ920ti"
   },
   {
    "device": "TC55",
@@ -113715,16 +113757,6 @@
   }
  ],
  "Nautilus": [
-  {
-   "device": "belford",
-   "name": "Digital Experience",
-   "model": "Infotainment-system"
-  },
-  {
-   "device": "belford",
-   "name": "Digital Experience",
-   "model": "SYNC"
-  },
   {
    "device": "nftm_lar",
    "name": "NFTM-LAR",
@@ -118085,6 +118117,11 @@
    "device": "OP5565",
    "name": "OnePlus Ace",
    "model": "PGKM10"
+  },
+  {
+   "device": "OP5CF9L1",
+   "name": "OnePlus Ace 3",
+   "model": "PJE110"
   },
   {
    "device": "OP5911",
@@ -136963,6 +137000,16 @@
    "device": "PA501BW",
    "name": "PA501",
    "model": "PA501"
+  },
+  {
+   "device": "PA501BGR",
+   "name": "PA501BGR",
+   "model": "PA501BGR"
+  },
+  {
+   "device": "PA501BWR",
+   "name": "PA501BWR",
+   "model": "PA501BWR"
   }
  ],
  "Ruggear": [
@@ -143728,6 +143775,11 @@
    "model": "SM-E025F"
   },
   {
+   "device": "m04",
+   "name": "Galaxy F04",
+   "model": "SM-E045F"
+  },
+  {
    "device": "f12",
    "name": "Galaxy F12",
    "model": "SM-F127G"
@@ -145706,11 +145758,6 @@
    "device": "a02q",
    "name": "Galaxy M02s",
    "model": "SM-M025F"
-  },
-  {
-   "device": "m04",
-   "name": "Galaxy M04",
-   "model": "SM-E045F"
   },
   {
    "device": "m04",
@@ -182615,6 +182662,11 @@
    "model": "Armor 24"
   },
   {
+   "device": "Armor_26_Ultra",
+   "name": "Armor 26 Ultra",
+   "model": "Armor 26 Ultra"
+  },
+  {
    "device": "Armor_2S",
    "name": "Armor 2S",
    "model": "Armor_2S"
@@ -183884,6 +183936,11 @@
    "device": "G3_Plus",
    "name": "G3 Plus EEA",
    "model": "MP25"
+  },
+  {
+   "device": "G3_Tab_Ultra",
+   "name": "G3_Tab_Ultra",
+   "model": "MT13"
   },
   {
    "device": "G5_Mecha",

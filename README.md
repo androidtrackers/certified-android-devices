@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-10
+Last sync is 2024-01-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1200,6 +1200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alpha|T1_Pro|T1_pro|T1_pro|
 |Alphascan|SAT2242 WorkTab|ADP_WW|G2SMNT|
 |Altibox|Altibox TV|uiw4054aib|Altibox TV|
+|Altice|ADOBox 4K (DIW377)|DIW377_ALT_DO|ADOBox 4K (DIW377)|
 |Altice|ALTICE S43|S43|ALTICE_S43|
 |Altice|ALTICE S43|S43|S43|
 |Altice|ALTICE S60|S60|S60|
@@ -7818,6 +7819,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FIVAHIVA|YY_766|YY_766|YY_766|
 |FIVAHIVA|YY_766_EEA|YY_766_EEA|YY_766_EEA|
 |FLEX MOBILE|S9|S9|S9|
+|FMC|Digital Experience|belford|Infotainment-system|
+|FMC|Digital Experience|belford|SYNC|
 |FOLG|KS20|KS20|KidS Prime 1|
 |FOSSiBOT|F101|F101|F101|
 |FOSSiBOT|F101|F101_P|F101|
@@ -11622,6 +11625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Symbol Max|Symbol_Max|Symbol Max|
 |Hotwav|Symbol X|Symbol_X|Symbol X|
 |Hotwav|T5 Pro|T5_Pro|T5 Pro|
+|Hotwav|T7 EEA|T7|T7|
 |Hotwav|TAB R5|TAB_R5|TAB R5|
 |Hotwav|TAB R6 Pro|TAB_R6_Pro|TAB R6 Pro|
 |Hotwav|TAB R6 Ultra|TAB_R6_Ultra|TAB R6 Ultra|
@@ -13910,6 +13914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 7 HD|Infinix-X6516|Infinix X6516|
 |Infinix|Infinix SMART 8|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix SMART 8 HD|Infinix-X6525|Infinix X6525|
+|Infinix|Infinix SMART 8 PRO|Infinix-X6525B|Infinix X6525B|
 |Infinix|Infinix SMART 8 Plus|Infinix-X6526|Infinix X6526|
 |Infinix|Infinix SMART 8 Pro|Infinix-X6525B|Infinix X6525B|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
@@ -19162,6 +19167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEFERI|ME40K|ME40K|ME40K|
 |MEFERI|ME40M|ME40K_M|ME40K|
 |MEFERI|ME61|ME61|ME61|
+|MEFERI|ME65|ME65|ME65|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K|DV8985-MEO|MEOBox 4K DV8985|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
@@ -21395,7 +21401,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11l|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900i|
+|Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900ti|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ920|
+|Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ920ti|
 |Motorola Solutions|TC55|TC55|TC55|
 |Motorola Solutions|TC55CH|TC55CH|TC55CH|
 |Motumation|MTab8|MTab8|MTab8|
@@ -22118,8 +22126,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NanoTech|Nuvola NP-1|nuvola|Nuvola NP-1|
 |Naomi Phone|Ambar|NAOMIPHONE_Ambar|NAOMIPHONE Ambar|
 |Natcom|X1LTE|X1LTE|X1LTE|
-|Nautilus|Digital Experience|belford|Infotainment-system|
-|Nautilus|Digital Experience|belford|SYNC|
 |Nautilus|NFTM-LAR|nftm_lar|NFTM-LAR|
 |Nautilus|NFTM-MED|nftm_med|NFTM-MED|
 |Nautilus|NFTM-SMA|nftm_sma|NFTM-SMA|
@@ -22949,6 +22955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9RT 5G|OP5154L1|MT2110|
 |OnePlus|OnePlus 9RT 5G|OP5155L1|MT2111|
 |OnePlus|OnePlus Ace|OP5565|PGKM10|
+|OnePlus|OnePlus Ace 3|OP5CF9L1|PJE110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
@@ -26627,6 +26634,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RuggON|MT7030|MT7030|MT7030|
 |RuggON|PA501|PA501BG|PA501|
 |RuggON|PA501|PA501BW|PA501|
+|RuggON|PA501BGR|PA501BGR|PA501BGR|
+|RuggON|PA501BWR|PA501BWR|PA501BWR|
 |Ruggear|CP250|cp250_gts|cp250_gts|
 |Ruggear|DEWALT MD501|md501|DeWalt MD501|
 |Ruggear|IMO S|IMO_S|IMO_S|
@@ -27944,6 +27953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express|expressziglteatt|SAMSUNG-SGH-I437Z|
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
 |Samsung|Galaxy F02s|a02q|SM-E025F|
+|Samsung|Galaxy F04|m04|SM-E045F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F13|m13|SM-E135F|
 |Samsung|Galaxy F14|a05s|SM-E145F|
@@ -28340,7 +28350,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M02|a02|SM-M022G|
 |Samsung|Galaxy M02|a02|SM-M022M|
 |Samsung|Galaxy M02s|a02q|SM-M025F|
-|Samsung|Galaxy M04|m04|SM-E045F|
 |Samsung|Galaxy M04|m04|SM-M045F|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
@@ -35571,6 +35580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 22|Armor_22|Armor 22|
 |Ulefone|Armor 23 Ultra|Armor_23_Ultra|Armor 23 Ultra|
 |Ulefone|Armor 24|Armor_24|Armor 24|
+|Ulefone|Armor 26 Ultra|Armor_26_Ultra|Armor 26 Ultra|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
@@ -35824,6 +35834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G3 EEA|UMIDIGI_G3|MP24|
 |Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
+|Umidigi|G3_Tab_Ultra|G3_Tab_Ultra|MT13|
 |Umidigi|G5 Mecha|G5_Mecha|RP08|
 |Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
 |Umidigi|G5 Mecha RU|G5_Mecha|RP08|
