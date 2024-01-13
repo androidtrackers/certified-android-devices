@@ -19288,6 +19288,11 @@
    "model": "C7"
   },
   {
+   "device": "C0220",
+   "name": "C7 MAX",
+   "model": "C7 MAX"
+  },
+  {
    "device": "C290EQ",
    "name": "C7x",
    "model": "C7x"
@@ -19488,6 +19493,11 @@
    "model": "G33"
   },
   {
+   "device": "G0892_SYN",
+   "name": "G33",
+   "model": "G33"
+  },
+  {
    "device": "G0730WW",
    "name": "G40",
    "model": "G40"
@@ -19611,6 +19621,11 @@
    "device": "G0851",
    "name": "G53",
    "model": "G53"
+  },
+  {
+   "device": "G0840",
+   "name": "G54",
+   "model": "G54"
   },
   {
    "device": "G0210",
@@ -31791,6 +31806,13 @@
    "device": "Konnect_601",
    "name": "konnect 601",
    "model": "Konnect_601"
+  }
+ ],
+ "Dangbei": [
+  {
+   "device": "himalaya",
+   "name": "DBOD02",
+   "model": "DBOD02"
   }
  ],
  "Dany": [
@@ -59479,6 +59501,11 @@
    "model": "CRT-NX3"
   },
   {
+   "device": "HNVER",
+   "name": "HONOR Magic V2",
+   "model": "VER-N49"
+  },
+  {
    "device": "HNFRI",
    "name": "HONOR Magic Vs",
    "model": "FRI-NX9"
@@ -70503,6 +70530,11 @@
    "device": "HPH65",
    "name": "HP2714",
    "model": "HP2714"
+  },
+  {
+   "device": "HP46A",
+   "name": "HP46A",
+   "model": "HP4633"
   },
   {
    "device": "B820C-A15_ZTE",
@@ -117847,6 +117879,11 @@
    "device": "OP5929L1",
    "name": "OnePlus 12",
    "model": "PJD110"
+  },
+  {
+   "device": "OP595DL1",
+   "name": "OnePlus 12",
+   "model": "CPH2581"
   },
   {
    "device": "OnePlus6",
@@ -179198,6 +179235,16 @@
    "device": "TECNO-KG5m",
    "name": "TECNO SPARK Go 2022",
    "model": "TECNO KG5m"
+  },
+  {
+   "device": "TECNO-BG6s",
+   "name": "TECNO SPARK Go 2024",
+   "model": "TECNO BG6"
+  },
+  {
+   "device": "TECNO-BG6s",
+   "name": "TECNO SPARK Go 2024",
+   "model": "TECNO BG6s"
   },
   {
    "device": "TECNO-P704",

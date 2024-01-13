@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-12
+Last sync is 2024-01-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3742,6 +3742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6L MAX|C0210|C6L Max|
 |Blu|C6x|C090P|C6x|
 |Blu|C7|C250EQ|C7|
+|Blu|C7 MAX|C0220|C7 MAX|
 |Blu|C7x|C290EQ|C7x|
 |Blu|D10|D10|D10|
 |Blu|D500|D500|D500|
@@ -3782,6 +3783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G33|G0890|G33|
 |Blu|G33|G0892|G33|
 |Blu|G33|G0892_SP|G33|
+|Blu|G33|G0892_SYN|G33|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
@@ -3807,6 +3809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G53|G0850|G53|
 |Blu|G53|G0850_IW|G53|
 |Blu|G53|G0851|G53|
+|Blu|G54|G0840|G54|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G61|G0450WW|G61|
@@ -6149,6 +6152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Surnaturel_R500|Surnaturel_R500|Surnaturel_R500|
 |Danew|TRACE ONE|T_ONE|T_ONE|
 |Danew|konnect 601|Konnect_601|Konnect_601|
+|Dangbei|DBOD02|himalaya|DBOD02|
 |Dany|MAXX_05|MAXX_05|MAXX_05|
 |Dany|Signature-S8|Signature-S8|Signature-S8|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
@@ -11497,6 +11501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 90|HNREA|REA-NX9|
 |Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX1|
 |Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX3|
+|Honor|HONOR Magic V2|HNVER|VER-N49|
 |Honor|HONOR Magic Vs|HNFRI|FRI-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
@@ -13677,6 +13682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IXTECH|IX1013|IX1013|IX1013|
 |IXTECH|IX701|IX701|IX701|
 |IZZI Telecom|HP2714|HPH65|HP2714|
+|IZZI Telecom|HP46A|HP46A|HP4633|
 |IZZI Telecom|Mexico|B820C-A15_ZTE|B820C-A15|
 |IZZI Telecom|SKYWORTH-HY4002|HY40A1|SKYWORTH-HY4002|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
@@ -22901,6 +22907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 11 5G 中国版|OP591BL1|PHB110|
 |OnePlus|OnePlus 11R 5G|OP5961L1|CPH2487|
 |OnePlus|OnePlus 12|OP5929L1|PJD110|
+|OnePlus|OnePlus 12|OP595DL1|CPH2581|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -34934,6 +34941,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5|TECNO KG5|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5h|TECNO KG5h|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5m|TECNO KG5m|
+|Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6|
+|Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6s|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
 |Tecno|TECNO Tab|TECNO-P704a|TECNO P704a|
 |Tecno|TECNO W5|TECNO-W5|TECNO-W5|

@@ -29992,6 +29992,13 @@
    "device": "C090P"
   }
  ],
+ "C7 MAX": [
+  {
+   "brand": "Blu",
+   "name": "C7 MAX",
+   "device": "C0220"
+  }
+ ],
  "C7x": [
   {
    "brand": "Blu",
@@ -30260,6 +30267,11 @@
    "brand": "Blu",
    "name": "G33",
    "device": "G0892_SP"
+  },
+  {
+   "brand": "Blu",
+   "name": "G33",
+   "device": "G0892_SYN"
   }
  ],
  "G40": [
@@ -30456,6 +30468,13 @@
    "brand": "Blu",
    "name": "G53",
    "device": "G0851"
+  }
+ ],
+ "G54": [
+  {
+   "brand": "Blu",
+   "name": "G54",
+   "device": "G0840"
   }
  ],
  "G6": [
@@ -47364,6 +47383,13 @@
    "brand": "Danew",
    "name": "konnect 601",
    "device": "Konnect_601"
+  }
+ ],
+ "DBOD02": [
+  {
+   "brand": "Dangbei",
+   "name": "DBOD02",
+   "device": "himalaya"
   }
  ],
  "MAXX_05": [
@@ -83682,6 +83708,13 @@
    "device": "HNCRT-M2"
   }
  ],
+ "VER-N49": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic V2",
+   "device": "HNVER"
+  }
+ ],
  "FRI-NX9": [
   {
    "brand": "Honor",
@@ -98323,6 +98356,13 @@
    "brand": "IZZI Telecom",
    "name": "HP2714",
    "device": "HPH65"
+  }
+ ],
+ "HP4633": [
+  {
+   "brand": "IZZI Telecom",
+   "name": "HP46A",
+   "device": "HP46A"
   }
  ],
  "B820C-A15": [
@@ -157547,6 +157587,13 @@
    "brand": "OnePlus",
    "name": "OnePlus 12",
    "device": "OP5929L1"
+  }
+ ],
+ "CPH2581": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "device": "OP595DL1"
   }
  ],
  "ONEPLUS A6000": [
@@ -235963,6 +236010,11 @@
    "brand": "Tecno",
    "name": "TECNO",
    "device": "TECNO-BG6"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK Go 2024",
+   "device": "TECNO-BG6s"
   }
  ],
  "TECNO K9": [
@@ -236749,6 +236801,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK Go 2022",
    "device": "TECNO-KG5m"
+  }
+ ],
+ "TECNO BG6s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK Go 2024",
+   "device": "TECNO-BG6s"
   }
  ],
  "TECNO P704": [
