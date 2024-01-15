@@ -14023,6 +14023,11 @@
    "model": "S10"
   },
   {
+   "brand": "DIALN",
+   "name": "S10",
+   "model": "S10"
+  },
+  {
    "brand": "DTC products",
    "name": "S10",
    "model": "S10"
@@ -39363,6 +39368,13 @@
    "brand": "CP Plus",
    "name": "CP-MUD-M721",
    "model": "CP-MUD-M721"
+  }
+ ],
+ "Droid_OPS_Module": [
+  {
+   "brand": "CTOUCH",
+   "name": "CTOUCH Droid OPS Module",
+   "model": "UGE013AM"
   }
  ],
  "M10": [
@@ -123082,6 +123094,11 @@
    "brand": "Sunmi",
    "name": "Sunmi V2s",
    "model": "V2s_TR"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "V2s",
+   "model": "V2s_EDLA_GL"
   }
  ],
  "LE9920_P": [
@@ -180240,6 +180257,13 @@
    "model": "HEAVEN 10.1"
   }
  ],
+ "MobileMapper6": [
+  {
+   "brand": "SPECTRA",
+   "name": "Spectra MobileMapper6",
+   "model": "MobileMapper6"
+  }
+ ],
  "TAP-POS": [
   {
    "brand": "SPECTRA",
@@ -199044,6 +199068,13 @@
    "model": "SM-G736W"
   }
  ],
+ "xcover7": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover7",
+   "model": "SM-G556B"
+  }
+ ],
  "GT-S5690": [
   {
    "brand": "Samsung",
@@ -213438,6 +213469,11 @@
  "SUNMI-L2HNFC": [
   {
    "brand": "Sunmi",
+   "name": "L2H_EDLA_GL",
+   "model": "L2H_EDLA_GL"
+  },
+  {
+   "brand": "Sunmi",
    "name": "Sunmi L2H",
    "model": "L2H_EEA"
   },
@@ -213453,6 +213489,11 @@
   }
  ],
  "SUNMI-L2KsNFC": [
+  {
+   "brand": "Sunmi",
+   "name": "L2Ks",
+   "model": "L2Ks_EDLA_GL"
+  },
   {
    "brand": "Sunmi",
    "name": "Sunmi L2Ks",
@@ -213474,7 +213515,19 @@
    "model": "L2Ks_TR"
   }
  ],
+ "SUNMI-L2s_PRO": [
+  {
+   "brand": "Sunmi",
+   "name": "L2s_PRO",
+   "model": "L2s_PRO"
+  }
+ ],
  "V2sNC": [
+  {
+   "brand": "Sunmi",
+   "name": "V2s",
+   "model": "V2sNC_EDLA_GL"
+  },
   {
    "brand": "Sunmi",
    "name": "V2sNC",
@@ -213497,6 +213550,11 @@
   }
  ],
  "V2sPLUSNC": [
+  {
+   "brand": "Sunmi",
+   "name": "V2sPLUS",
+   "model": "V2sPLUSNC_EDLA_GL"
+  },
   {
    "brand": "Sunmi",
    "name": "V2sPLUSNC",
@@ -227711,6 +227769,13 @@
    "model": "TECNO BF6"
   }
  ],
+ "TECNO-BG6i": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 8",
+   "model": "TECNO BG6i"
+  }
+ ],
  "TECNO-L6502S": [
   {
    "brand": "Tecno",
@@ -230946,6 +231011,13 @@
    "brand": "Trimble Navigation",
    "name": "TDI 600",
    "model": "TDI 600"
+  }
+ ],
+ "TDC6": [
+  {
+   "brand": "Trimble Navigation",
+   "name": "Trimble TDC6",
+   "model": "TDC6"
   }
  ],
  "astar-y3": [
@@ -259756,6 +259828,13 @@
    "brand": "ZTE",
    "name": "nubia Z50S Pro",
    "model": "NX713J"
+  }
+ ],
+ "PQ83A01": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z60 Ultra",
+   "model": "NX721J"
   }
  ],
  "sapphire4g": [

@@ -22757,6 +22757,13 @@
    "model": "Crown Mustang 4K Android TV"
   }
  ],
+ "CTOUCH": [
+  {
+   "device": "Droid_OPS_Module",
+   "name": "CTOUCH Droid OPS Module",
+   "model": "UGE013AM"
+  }
+ ],
  "CVTE": [
   {
    "device": "rk3588_t",
@@ -30960,6 +30967,11 @@
    "device": "NovaA",
    "name": "Nova",
    "model": "Nova"
+  },
+  {
+   "device": "S10",
+   "name": "S10",
+   "model": "S10"
   },
   {
    "device": "S8",
@@ -138782,6 +138794,11 @@
  ],
  "SPECTRA": [
   {
+   "device": "MobileMapper6",
+   "name": "Spectra MobileMapper6",
+   "model": "MobileMapper6"
+  },
+  {
    "device": "TAP-POS",
    "name": "TAP-POS",
    "model": "SAH55"
@@ -154062,6 +154079,11 @@
    "model": "SM-G736W"
   },
   {
+   "device": "xcover7",
+   "name": "Galaxy XCover7",
+   "model": "SM-G556B"
+  },
+  {
    "device": "GT-S5690",
    "name": "Galaxy Xcover",
    "model": "GT-S5690"
@@ -165726,6 +165748,21 @@
  "Sunmi": [
   {
    "device": "SUNMI-L2HNFC",
+   "name": "L2H_EDLA_GL",
+   "model": "L2H_EDLA_GL"
+  },
+  {
+   "device": "SUNMI-L2KsNFC",
+   "name": "L2Ks",
+   "model": "L2Ks_EDLA_GL"
+  },
+  {
+   "device": "SUNMI-L2s_PRO",
+   "name": "L2s_PRO",
+   "model": "L2s_PRO"
+  },
+  {
+   "device": "SUNMI-L2HNFC",
    "name": "Sunmi L2H",
    "model": "L2H_EEA"
   },
@@ -165775,6 +165812,16 @@
    "model": "V2s_TR"
   },
   {
+   "device": "V2s",
+   "name": "V2s",
+   "model": "V2s_EDLA_GL"
+  },
+  {
+   "device": "V2sNC",
+   "name": "V2s",
+   "model": "V2sNC_EDLA_GL"
+  },
+  {
    "device": "V2sNC",
    "name": "V2sNC",
    "model": "V2sNC_EEA"
@@ -165793,6 +165840,11 @@
    "device": "V2sNC",
    "name": "V2sNC",
    "model": "V2sNC_TR"
+  },
+  {
+   "device": "V2sPLUSNC",
+   "name": "V2sPLUS",
+   "model": "V2sPLUSNC_EDLA_GL"
   },
   {
    "device": "V2sPLUSNC",
@@ -178892,6 +178944,11 @@
    "model": "TECNO BF6"
   },
   {
+   "device": "TECNO-BG6i",
+   "name": "TECNO POP 8",
+   "model": "TECNO BG6i"
+  },
+  {
    "device": "TECNO-L6502S",
    "name": "TECNO POP X5",
    "model": "TECNO L6502S"
@@ -181850,6 +181907,11 @@
    "device": "DUO",
    "name": "Trimble DUO",
    "model": "DUO"
+  },
+  {
+   "device": "TDC6",
+   "name": "Trimble TDC6",
+   "model": "TDC6"
   }
  ],
  "Trio": [
@@ -207417,6 +207479,11 @@
    "device": "PQ82A02",
    "name": "nubia Z50S Pro",
    "model": "NX713J"
+  },
+  {
+   "device": "PQ83A01",
+   "name": "nubia Z60 Ultra",
+   "model": "NX721J"
   },
   {
    "device": "sapphire4g",

@@ -10099,6 +10099,11 @@
    "device": "S10"
   },
   {
+   "brand": "DIALN",
+   "name": "S10",
+   "device": "S10"
+  },
+  {
    "brand": "DTC products",
    "name": "S10",
    "device": "S10"
@@ -34870,6 +34875,13 @@
    "brand": "CROWN MUSTANG",
    "name": "Argentina",
    "device": "patrick"
+  }
+ ],
+ "UGE013AM": [
+  {
+   "brand": "CTOUCH",
+   "name": "CTOUCH Droid OPS Module",
+   "device": "Droid_OPS_Module"
   }
  ],
  "edu_v2": [
@@ -183720,6 +183732,13 @@
    "device": "heaven-10_1"
   }
  ],
+ "MobileMapper6": [
+  {
+   "brand": "SPECTRA",
+   "name": "Spectra MobileMapper6",
+   "device": "MobileMapper6"
+  }
+ ],
  "SAH55": [
   {
    "brand": "SPECTRA",
@@ -204671,6 +204690,13 @@
    "device": "xcoverpro2"
   }
  ],
+ "SM-G556B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover7",
+   "device": "xcover7"
+  }
+ ],
  "GT-S5690": [
   {
    "brand": "Samsung",
@@ -219277,6 +219303,27 @@
    "device": "SB-TM700"
   }
  ],
+ "L2H_EDLA_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "L2H_EDLA_GL",
+   "device": "SUNMI-L2HNFC"
+  }
+ ],
+ "L2Ks_EDLA_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "L2Ks",
+   "device": "SUNMI-L2KsNFC"
+  }
+ ],
+ "L2s_PRO": [
+  {
+   "brand": "Sunmi",
+   "name": "L2s_PRO",
+   "device": "SUNMI-L2s_PRO"
+  }
+ ],
  "L2H_EEA": [
   {
    "brand": "Sunmi",
@@ -219347,6 +219394,20 @@
    "device": "V2s"
   }
  ],
+ "V2s_EDLA_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "V2s",
+   "device": "V2s"
+  }
+ ],
+ "V2sNC_EDLA_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "V2s",
+   "device": "V2sNC"
+  }
+ ],
  "V2sNC_EEA": [
   {
    "brand": "Sunmi",
@@ -219373,6 +219434,13 @@
    "brand": "Sunmi",
    "name": "V2sNC",
    "device": "V2sNC"
+  }
+ ],
+ "V2sPLUSNC_EDLA_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "V2sPLUS",
+   "device": "V2sPLUSNC"
   }
  ],
  "V2sPLUSNC_EEA": [
@@ -236324,6 +236392,13 @@
    "device": "TECNO-BF6"
   }
  ],
+ "TECNO BG6i": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 8",
+   "device": "TECNO-BG6i"
+  }
+ ],
  "TECNO L6502S": [
   {
    "brand": "Tecno",
@@ -239856,6 +239931,13 @@
    "brand": "Trimble Navigation",
    "name": "TSC5",
    "device": "bcat"
+  }
+ ],
+ "TDC6": [
+  {
+   "brand": "Trimble Navigation",
+   "name": "Trimble TDC6",
+   "device": "TDC6"
   }
  ],
  "TRIO-7.85": [
@@ -271512,6 +271594,13 @@
    "brand": "ZTE",
    "name": "nubia Z50S Pro",
    "device": "PQ82A02"
+  }
+ ],
+ "NX721J": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z60 Ultra",
+   "device": "PQ83A01"
   }
  ],
  "Z3001S": [

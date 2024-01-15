@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-14
+Last sync is 2024-01-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4403,6 +4403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CRONY|Smart TV|longshan|AI PONT|
 |CROWN MUSTANG|Argentina|martin|Crown Mustang 2K Android TV|
 |CROWN MUSTANG|Argentina|patrick|Crown Mustang 4K Android TV|
+|CTOUCH|CTOUCH Droid OPS Module|Droid_OPS_Module|UGE013AM|
 |CVTE|edu_v2|rk3588_t|edu_v2|
 |CWELL|M10|M10|CWELL M10|
 |CWOWDEFU|C10G|C10G|C10G|
@@ -5992,6 +5993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIALN|Neo|NeoA|Neo|
 |DIALN|Nova|Nova|Nova|
 |DIALN|Nova|NovaA|Nova|
+|DIALN|S10|S10|S10|
 |DIALN|S8|S8|S8|
 |DIALN|X10G|X10G|X10G|
 |DIALN|X10ULTRA|X10ULTRA|X10ULTRA|
@@ -26964,6 +26966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|ZEUS_4G|ZEUS_4G|ZEUS_4G|
 |SPC Universe|ZEUS_4G_PRO|ZEUS_4G_PRO|ZEUS_4G_PRO|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SPECTRA|Spectra MobileMapper6|MobileMapper6|MobileMapper6|
 |SPECTRA|TAP-POS|TAP-POS|SAH55|
 |SPECTRA|tap-POS-AM|tap-POS-AM|SAH55AM|
 |SPJtv|Android TV|R2|ATV R2|
@@ -30010,6 +30013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U1|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736W|
+|Samsung|Galaxy XCover7|xcover7|SM-G556B|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
@@ -32289,6 +32293,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunbrite|huangshan_sunbrite|huangshan|SmartTV 4K|
+|Sunmi|L2H_EDLA_GL|SUNMI-L2HNFC|L2H_EDLA_GL|
+|Sunmi|L2Ks|SUNMI-L2KsNFC|L2Ks_EDLA_GL|
+|Sunmi|L2s_PRO|SUNMI-L2s_PRO|L2s_PRO|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_EEA|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_GL|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_TR|
@@ -32299,10 +32306,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_TR|
+|Sunmi|V2s|V2s|V2s_EDLA_GL|
+|Sunmi|V2s|V2sNC|V2sNC_EDLA_GL|
 |Sunmi|V2sNC|V2sNC|V2sNC_EEA|
 |Sunmi|V2sNC|V2sNC|V2sNC_GL|
 |Sunmi|V2sNC|V2sNC|V2sNC_RU|
 |Sunmi|V2sNC|V2sNC|V2sNC_TR|
+|Sunmi|V2sPLUS|V2sPLUSNC|V2sPLUSNC_EDLA_GL|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_EEA|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_GL|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_RU|
@@ -34872,6 +34882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 6 Go|TECNO-BE7|TECNO BE7|
 |Tecno|TECNO POP 6 Go 4G|TECNO-BE6j|TECNO BE6j|
 |Tecno|TECNO POP 7|TECNO-BF6|TECNO BF6|
+|Tecno|TECNO POP 8|TECNO-BG6i|TECNO BG6i|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
 |Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
@@ -35432,6 +35443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trimble Navigation|TSC5|bcat|TSC5|
 |Trimble Navigation|Trimble ConnectedTablet|MS5|MS5|
 |Trimble Navigation|Trimble DUO|DUO|DUO|
+|Trimble Navigation|Trimble TDC6|TDC6|TDC6|
 |Trio|7.85|astar-y3|TRIO-7.85|
 |Trio|7.85 vQ|Trio-785-vQ|Trio 7.85 vQ|
 |Trio|AXS 3G|Trio_AXS_3G|Trio AXS 3G|
@@ -40425,6 +40437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Z5|NX501|nubia Z5|
 |ZTE|nubia Z50 Ultra|PQ82A11|NX712J|
 |ZTE|nubia Z50S Pro|PQ82A02|NX713J|
+|ZTE|nubia Z60 Ultra|PQ83A01|NX721J|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|

@@ -15005,6 +15005,11 @@
    "model": "S10"
   },
   {
+   "brand": "DIALN",
+   "device": "S10",
+   "model": "S10"
+  },
+  {
    "brand": "DTC products",
    "device": "S10",
    "model": "S10"
@@ -40771,6 +40776,13 @@
    "brand": "CROWN MUSTANG",
    "device": "patrick",
    "model": "Crown Mustang 4K Android TV"
+  }
+ ],
+ "CTOUCH Droid OPS Module": [
+  {
+   "brand": "CTOUCH",
+   "device": "Droid_OPS_Module",
+   "model": "UGE013AM"
   }
  ],
  "edu_v2": [
@@ -124377,6 +124389,16 @@
    "brand": "Lava",
    "device": "V2s",
    "model": "V2s M"
+  },
+  {
+   "brand": "Sunmi",
+   "device": "V2s",
+   "model": "V2s_EDLA_GL"
+  },
+  {
+   "brand": "Sunmi",
+   "device": "V2sNC",
+   "model": "V2sNC_EDLA_GL"
   }
  ],
  "V7": [
@@ -180568,6 +180590,13 @@
    "model": "HEAVEN 10.1"
   }
  ],
+ "Spectra MobileMapper6": [
+  {
+   "brand": "SPECTRA",
+   "device": "MobileMapper6",
+   "model": "MobileMapper6"
+  }
+ ],
  "TAP-POS": [
   {
    "brand": "SPECTRA",
@@ -197211,6 +197240,13 @@
    "model": "SM-G736W"
   }
  ],
+ "Galaxy XCover7": [
+  {
+   "brand": "Samsung",
+   "device": "xcover7",
+   "model": "SM-G556B"
+  }
+ ],
  "Galaxy Xcover": [
   {
    "brand": "Samsung",
@@ -210897,6 +210933,27 @@
    "model": "SmartTV 4K"
   }
  ],
+ "L2H_EDLA_GL": [
+  {
+   "brand": "Sunmi",
+   "device": "SUNMI-L2HNFC",
+   "model": "L2H_EDLA_GL"
+  }
+ ],
+ "L2Ks": [
+  {
+   "brand": "Sunmi",
+   "device": "SUNMI-L2KsNFC",
+   "model": "L2Ks_EDLA_GL"
+  }
+ ],
+ "L2s_PRO": [
+  {
+   "brand": "Sunmi",
+   "device": "SUNMI-L2s_PRO",
+   "model": "L2s_PRO"
+  }
+ ],
  "Sunmi L2H": [
   {
    "brand": "Sunmi",
@@ -210973,6 +211030,13 @@
    "brand": "Sunmi",
    "device": "V2sNC",
    "model": "V2sNC_TR"
+  }
+ ],
+ "V2sPLUS": [
+  {
+   "brand": "Sunmi",
+   "device": "V2sPLUSNC",
+   "model": "V2sPLUSNC_EDLA_GL"
   }
  ],
  "V2sPLUSNC": [
@@ -225616,6 +225680,13 @@
    "model": "TECNO BF6"
   }
  ],
+ "TECNO POP 8": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BG6i",
+   "model": "TECNO BG6i"
+  }
+ ],
  "TECNO POP X5": [
   {
    "brand": "Tecno",
@@ -228899,6 +228970,13 @@
    "brand": "Trimble Navigation",
    "device": "DUO",
    "model": "DUO"
+  }
+ ],
+ "Trimble TDC6": [
+  {
+   "brand": "Trimble Navigation",
+   "device": "TDC6",
+   "model": "TDC6"
   }
  ],
  "7.85": [
@@ -257877,6 +257955,13 @@
    "brand": "ZTE",
    "device": "PQ82A02",
    "model": "NX713J"
+  }
+ ],
+ "nubia Z60 Ultra": [
+  {
+   "brand": "ZTE",
+   "device": "PQ83A01",
+   "model": "NX721J"
   }
  ],
  "sapphire lte": [
