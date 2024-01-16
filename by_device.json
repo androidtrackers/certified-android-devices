@@ -12665,6 +12665,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "WYBOR",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "XELL",
    "model": "4K SMART TV"
   },
@@ -12752,6 +12757,11 @@
    "brand": "THEHAM",
    "name": "THEHAM",
    "model": "Smart UHD TV"
+  },
+  {
+   "brand": "thehaam",
+   "name": "THEHAAM",
+   "model": "4K SMART TV"
   }
  ],
  "mountbaker": [
@@ -35440,6 +35450,13 @@
   }
  ],
  "G0850_IW": [
+  {
+   "brand": "Blu",
+   "name": "G53",
+   "model": "G53"
+  }
+ ],
+ "G0850_TIGO": [
   {
    "brand": "Blu",
    "name": "G53",
@@ -78942,6 +78959,11 @@
    "model": "T-Mobile myTouch 3G"
   },
   {
+   "brand": "Redmi",
+   "name": "Redmi Note 13",
+   "model": "23129RA5FL"
+  },
+  {
    "brand": "ZTE",
    "name": "Sapphire 3G",
    "model": "N818S"
@@ -80676,6 +80698,13 @@
    "brand": "HexaByte",
    "name": "HB_X7",
    "model": "HB_X7"
+  }
+ ],
+ "HBook-Prime": [
+  {
+   "brand": "Hezire",
+   "name": "HBook-Prime",
+   "model": "HBook-Prime"
   }
  ],
  "HTB801": [
@@ -86624,6 +86653,13 @@
    "brand": "Honor",
    "name": "HONOR 90",
    "model": "REA-NX9"
+  }
+ ],
+ "HNMAG": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 90 GT",
+   "model": "MAG-AN00"
   }
  ],
  "HNCRT-M2": [
@@ -120901,6 +120937,25 @@
    "brand": "SPC Mobile",
    "name": "L60",
    "model": "L60"
+  }
+ ],
+ "L80": [
+  {
+   "brand": "LNMBBS",
+   "name": "L80",
+   "model": "L80"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "L80",
+   "model": "L80"
+  }
+ ],
+ "L80-EEA": [
+  {
+   "brand": "LNMBBS",
+   "name": "L80-EEA",
+   "model": "L80-EEA"
   }
  ],
  "P40-EEA": [
@@ -177205,11 +177260,30 @@
    "model": "23054RA19C"
   }
  ],
+ "sapphiren": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13",
+   "model": "23124RA7EO"
+  }
+ ],
  "gold": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 13 5G",
    "model": "2312DRAABC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABI"
+  }
+ ],
+ "iron": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABG"
   }
  ],
  "garnet": [
@@ -180040,13 +180114,6 @@
    "brand": "SPC Mobile",
    "name": "L70_PRO",
    "model": "L70_PRO"
-  }
- ],
- "L80": [
-  {
-   "brand": "SPC Mobile",
-   "name": "L80",
-   "model": "L80"
   }
  ],
  "L80_S": [
@@ -263429,6 +263496,13 @@
    "brand": "iData",
    "name": "iData P1",
    "model": "iData P1"
+  }
+ ],
+ "iData_P1_mini": [
+  {
+   "brand": "iData",
+   "name": "iData P1 mini",
+   "model": "iData P1 mini"
   }
  ],
  "iData_T2": [

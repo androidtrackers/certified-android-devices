@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-15
+Last sync is 2024-01-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3808,6 +3808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G52L|G0830WW|G52L|
 |Blu|G53|G0850|G53|
 |Blu|G53|G0850_IW|G53|
+|Blu|G53|G0850_TIGO|G53|
 |Blu|G53|G0851|G53|
 |Blu|G54|G0840|G54|
 |Blu|G6|G0210|G6|
@@ -10464,6 +10465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hero|HERO 4ALL|HERO_4ALL|HERO 4ALL|
 |Hero|HERO B1|HERO_B1|HERO B1|
 |HexaByte|HB_X7|HB_X7|HB_X7|
+|Hezire|HBook-Prime|HBook-Prime|HBook-Prime|
 |Hezire|HTB801|HTB801|HTB801|
 |Hi TFG|Boost Max|Boost_Max|Boost_Max|
 |Hi TFG|Crusader|Crusader|Crusader|
@@ -11501,6 +11503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
 |Honor|HONOR 90|HNREA|REA-NX9|
+|Honor|HONOR 90 GT|HNMAG|MAG-AN00|
 |Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX1|
 |Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX3|
 |Honor|HONOR Magic V2|HNVER|VER-N49|
@@ -15290,6 +15293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VON|zhongshan|4K SMART TV|
 |KTCtv|VOXELECTRONICS|hongkong|4K SMART TV|
 |KTCtv|VOXELECTRONICS|mountbaker|2K SMART TV|
+|KTCtv|WYBOR|hongkong|4K SMART TV|
 |KTCtv|WYBOR|lavender|4K SMART TV|
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
@@ -17375,6 +17379,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LNMBBS|L28-EEA|L28-EEA|L28-EEA|
 |LNMBBS|L301|L301|L301|
 |LNMBBS|L60|L60|L60|
+|LNMBBS|L80|L80|L80|
+|LNMBBS|L80-EEA|L80-EEA|L80-EEA|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOOQS|F102-EEA|F102-EEA|F102-EEA|
@@ -26441,7 +26447,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12S|ocean|2303ERA42L|
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
 |Redmi|Redmi Note 12T Pro|pearl|23054RA19C|
+|Redmi|Redmi Note 13|sapphire|23129RA5FL|
+|Redmi|Redmi Note 13|sapphiren|23124RA7EO|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABC|
+|Redmi|Redmi Note 13 5G|gold|2312DRAABI|
+|Redmi|Redmi Note 13 5G|iron|2312DRAABG|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312CRAD3C|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50C|
 |Redmi|Redmi Note 13 Pro+|zircon|23090RA98C|
@@ -41047,6 +41057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iData|iData 50|iData_50_EEA|iData 50|
 |iData|iData K1|iData_K1_EEA|iData K1|
 |iData|iData P1|iData_P1|iData P1|
+|iData|iData P1 mini|iData_P1_mini|iData P1 mini|
 |iData|iData T1|T1|iData T1|
 |iData|iData T2|iData_T2|iData_T2|
 |iData|iData i2|i2|iData i2|
@@ -41597,6 +41608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |techBITE|Flix  TV  Box|DV8219|Flix TV Box|
 |techBITE|SmartBoard 10 LTE|SmartBoard_10_LTE|SmartBoard_10_LTE|
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
+|thehaam|THEHAAM|hongkong|4K SMART TV|
 |trueslim|5516D|5516D|5516D|
 |truevisions|HCH03|TrueHCH03|HCH03|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|

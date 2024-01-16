@@ -7324,6 +7324,11 @@
   {
    "brand": "KTCtv",
    "name": "WYBOR",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
    "device": "lavender"
   },
   {
@@ -7505,6 +7510,11 @@
    "brand": "eNOVA",
    "name": "Enova",
    "device": "zhongshan"
+  },
+  {
+   "brand": "thehaam",
+   "name": "THEHAAM",
+   "device": "hongkong"
   }
  ],
  "ACONATIC FHD TV": [
@@ -30468,6 +30478,11 @@
    "brand": "Blu",
    "name": "G53",
    "device": "G0850_IW"
+  },
+  {
+   "brand": "Blu",
+   "name": "G53",
+   "device": "G0850_TIGO"
   },
   {
    "brand": "Blu",
@@ -77110,6 +77125,13 @@
    "device": "HB_X7"
   }
  ],
+ "HBook-Prime": [
+  {
+   "brand": "Hezire",
+   "name": "HBook-Prime",
+   "device": "HBook-Prime"
+  }
+ ],
  "HTB801": [
   {
    "brand": "Hezire",
@@ -83704,6 +83726,13 @@
    "brand": "Honor",
    "name": "HONOR 90",
    "device": "HNREA"
+  }
+ ],
+ "MAG-AN00": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 90 GT",
+   "device": "HNMAG"
   }
  ],
  "CRT-NX1": [
@@ -122170,6 +122199,25 @@
    "brand": "SPC Mobile",
    "name": "L60",
    "device": "SPC_L60"
+  }
+ ],
+ "L80": [
+  {
+   "brand": "LNMBBS",
+   "name": "L80",
+   "device": "L80"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "L80",
+   "device": "L80"
+  }
+ ],
+ "L80-EEA": [
+  {
+   "brand": "LNMBBS",
+   "name": "L80-EEA",
+   "device": "L80-EEA"
   }
  ],
  "P40-EEA": [
@@ -180572,11 +180620,39 @@
    "device": "pearl"
   }
  ],
+ "23129RA5FL": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13",
+   "device": "sapphire"
+  }
+ ],
+ "23124RA7EO": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13",
+   "device": "sapphiren"
+  }
+ ],
  "2312DRAABC": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 13 5G",
    "device": "gold"
+  }
+ ],
+ "2312DRAABI": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 5G",
+   "device": "gold"
+  }
+ ],
+ "2312DRAABG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 5G",
+   "device": "iron"
   }
  ],
  "2312CRAD3C": [
@@ -183512,13 +183588,6 @@
    "brand": "SPC Mobile",
    "name": "L70_PRO",
    "device": "L70_PRO"
-  }
- ],
- "L80": [
-  {
-   "brand": "SPC Mobile",
-   "name": "L80",
-   "device": "L80"
   }
  ],
  "L80_S": [
@@ -275262,6 +275331,13 @@
    "brand": "iData",
    "name": "iData P1",
    "device": "iData_P1"
+  }
+ ],
+ "iData P1 mini": [
+  {
+   "brand": "iData",
+   "name": "iData P1 mini",
+   "device": "iData_P1_mini"
   }
  ],
  "iData T1": [

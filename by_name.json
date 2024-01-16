@@ -36100,6 +36100,11 @@
   },
   {
    "brand": "Blu",
+   "device": "G0850_TIGO",
+   "model": "G53"
+  },
+  {
+   "brand": "Blu",
    "device": "G0851",
    "model": "G53"
   }
@@ -83070,6 +83075,13 @@
    "model": "HB_X7"
   }
  ],
+ "HBook-Prime": [
+  {
+   "brand": "Hezire",
+   "device": "HBook-Prime",
+   "model": "HBook-Prime"
+  }
+ ],
  "HTB801": [
   {
    "brand": "Hezire",
@@ -89405,6 +89417,13 @@
    "brand": "Honor",
    "device": "HNREA",
    "model": "REA-NX9"
+  }
+ ],
+ "HONOR 90 GT": [
+  {
+   "brand": "Honor",
+   "device": "HNMAG",
+   "model": "MAG-AN00"
   }
  ],
  "HONOR 90 Lite": [
@@ -110537,6 +110556,11 @@
  "WYBOR": [
   {
    "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
   }
@@ -122209,6 +122233,25 @@
    "brand": "Senseit",
    "device": "SENSEIT-L301",
    "model": "SENSEIT L301"
+  }
+ ],
+ "L80": [
+  {
+   "brand": "LNMBBS",
+   "device": "L80",
+   "model": "L80"
+  },
+  {
+   "brand": "SPC Mobile",
+   "device": "L80",
+   "model": "L80"
+  }
+ ],
+ "L80-EEA": [
+  {
+   "brand": "LNMBBS",
+   "device": "L80-EEA",
+   "model": "L80-EEA"
   }
  ],
  "P40-EEA": [
@@ -177390,11 +177433,33 @@
    "model": "23054RA19C"
   }
  ],
+ "Redmi Note 13": [
+  {
+   "brand": "Redmi",
+   "device": "sapphire",
+   "model": "23129RA5FL"
+  },
+  {
+   "brand": "Redmi",
+   "device": "sapphiren",
+   "model": "23124RA7EO"
+  }
+ ],
  "Redmi Note 13 5G": [
   {
    "brand": "Redmi",
    "device": "gold",
    "model": "2312DRAABC"
+  },
+  {
+   "brand": "Redmi",
+   "device": "gold",
+   "model": "2312DRAABI"
+  },
+  {
+   "brand": "Redmi",
+   "device": "iron",
+   "model": "2312DRAABG"
   }
  ],
  "Redmi Note 13 Pro 5G": [
@@ -180368,13 +180433,6 @@
    "brand": "SPC Mobile",
    "device": "L70_PRO",
    "model": "L70_PRO"
-  }
- ],
- "L80": [
-  {
-   "brand": "SPC Mobile",
-   "device": "L80",
-   "model": "L80"
   }
  ],
  "L80_S": [
@@ -261697,6 +261755,13 @@
    "model": "iData P1"
   }
  ],
+ "iData P1 mini": [
+  {
+   "brand": "iData",
+   "device": "iData_P1_mini",
+   "model": "iData P1 mini"
+  }
+ ],
  "iData T1": [
   {
    "brand": "iData",
@@ -264907,6 +264972,13 @@
    "brand": "tecmobile",
    "device": "OmnisOne",
    "model": "Omnis One"
+  }
+ ],
+ "THEHAAM": [
+  {
+   "brand": "thehaam",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "5516D": [

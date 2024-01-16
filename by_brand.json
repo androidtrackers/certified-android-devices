@@ -19618,6 +19618,11 @@
    "model": "G53"
   },
   {
+   "device": "G0850_TIGO",
+   "name": "G53",
+   "model": "G53"
+  },
+  {
    "device": "G0851",
    "name": "G53",
    "model": "G53"
@@ -54268,6 +54273,11 @@
  ],
  "Hezire": [
   {
+   "device": "HBook-Prime",
+   "name": "HBook-Prime",
+   "model": "HBook-Prime"
+  },
+  {
    "device": "HTB801",
    "name": "HTB801",
    "model": "HTB801"
@@ -59501,6 +59511,11 @@
    "device": "HNREA",
    "name": "HONOR 90",
    "model": "REA-NX9"
+  },
+  {
+   "device": "HNMAG",
+   "name": "HONOR 90 GT",
+   "model": "MAG-AN00"
   },
   {
    "device": "HNCRT-M2",
@@ -78812,6 +78827,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "hongkong",
+   "name": "WYBOR",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "WYBOR",
    "model": "4K SMART TV"
@@ -89407,6 +89427,16 @@
    "device": "L60",
    "name": "L60",
    "model": "L60"
+  },
+  {
+   "device": "L80",
+   "name": "L80",
+   "model": "L80"
+  },
+  {
+   "device": "L80-EEA",
+   "name": "L80-EEA",
+   "model": "L80-EEA"
   },
   {
    "device": "P40-EEA",
@@ -135979,9 +136009,29 @@
    "model": "23054RA19C"
   },
   {
+   "device": "sapphire",
+   "name": "Redmi Note 13",
+   "model": "23129RA5FL"
+  },
+  {
+   "device": "sapphiren",
+   "name": "Redmi Note 13",
+   "model": "23124RA7EO"
+  },
+  {
    "device": "gold",
    "name": "Redmi Note 13 5G",
    "model": "2312DRAABC"
+  },
+  {
+   "device": "gold",
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABI"
+  },
+  {
+   "device": "iron",
+   "name": "Redmi Note 13 5G",
+   "model": "2312DRAABG"
   },
   {
    "device": "garnet",
@@ -210699,6 +210749,11 @@
    "model": "iData P1"
   },
   {
+   "device": "iData_P1_mini",
+   "name": "iData P1 mini",
+   "model": "iData P1 mini"
+  },
+  {
    "device": "T1",
    "name": "iData T1",
    "model": "iData T1"
@@ -213601,6 +213656,13 @@
    "device": "OmnisOne",
    "name": "OmnisOne",
    "model": "Omnis One"
+  }
+ ],
+ "thehaam": [
+  {
+   "device": "hongkong",
+   "name": "THEHAAM",
+   "model": "4K SMART TV"
   }
  ],
  "trueslim": [
