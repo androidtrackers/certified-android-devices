@@ -1795,6 +1795,11 @@
    "model": "A1080"
   },
   {
+   "device": "A1083",
+   "name": "A1083",
+   "model": "A1083"
+  },
+  {
    "device": "wing-inet",
    "name": "A720",
    "model": "A720"
@@ -19174,6 +19179,11 @@
   },
   {
    "device": "C0175",
+   "name": "C5L Max",
+   "model": "C5L Max"
+  },
+  {
+   "device": "C0176",
    "name": "C5L Max",
    "model": "C5L Max"
   },
@@ -48744,6 +48754,11 @@
    "device": "yeongdeungpo",
    "name": "EU",
    "model": "HORIZON Android TV"
+  },
+  {
+   "device": "Interactive_White_Board",
+   "name": "ID65HZA3B1_C",
+   "model": "ID65HZA3B1_C"
   }
  ],
  "HOT (il)": [
@@ -54067,6 +54082,11 @@
  ],
  "HannSpree": [
   {
+   "device": "Reader",
+   "name": "HSD0001",
+   "model": "HannsNote2"
+  },
+  {
    "device": "HANNSpad",
    "name": "HSG1279",
    "model": "HSG1279"
@@ -58625,6 +58645,11 @@
    "device": "YYZ",
    "name": "Kickpi",
    "model": "KP1"
+  },
+  {
+   "device": "YYZ",
+   "name": "Nova",
+   "model": "Nova"
   },
   {
    "device": "HND",
@@ -78739,6 +78764,16 @@
   {
    "device": "hongkong",
    "name": "REYNA",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "RZTK",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "RZTK",
    "model": "4K SMART TV"
   },
   {
@@ -106364,6 +106399,13 @@
    "model": "Moja TV"
   }
  ],
+ "Moka": [
+  {
+   "device": "POS_Device",
+   "name": "POS_Device_Moka_Prime",
+   "model": "Moka_Prime"
+  }
+ ],
  "Mola TV": [
   {
    "device": "DV8235_P",
@@ -117928,6 +117970,11 @@
    "model": "CPH2581"
   },
   {
+   "device": "OP595DL1",
+   "name": "OnePlus 12",
+   "model": "CPH2583"
+  },
+  {
    "device": "OnePlus6",
    "name": "OnePlus 6",
    "model": "ONEPLUS A6000"
@@ -123328,6 +123375,11 @@
    "device": "P60_CA",
    "name": "P60_CA",
    "model": "P60_CA"
+  },
+  {
+   "device": "P63L_CA",
+   "name": "P63L",
+   "model": "P63L"
   },
   {
    "device": "P63L_PR",
@@ -165116,6 +165168,11 @@
    "device": "LAS",
    "name": "LEAP-S1",
    "model": "LEAP-S1"
+  },
+  {
+   "device": "YDA",
+   "name": "Leap-S3",
+   "model": "4K Google TV Box"
   },
   {
    "device": "YYT",
@@ -212535,6 +212592,11 @@
    "model": "RMX3268"
   },
   {
+   "device": "RE588DL1",
+   "name": "RMX3612",
+   "model": "RMX3612"
+  },
+  {
    "device": "RE58AF",
    "name": "RMX3627",
    "model": "RMX3627"
@@ -212988,6 +213050,11 @@
    "device": "REE2ADL1",
    "name": "realme C55",
    "model": "RMX3710"
+  },
+  {
+   "device": "RE5C91L1",
+   "name": "realme C67",
+   "model": "RMX3890"
   },
   {
    "device": "RE58B2L1",

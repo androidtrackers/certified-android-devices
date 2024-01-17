@@ -1368,6 +1368,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "RZTK",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "SA",
    "model": "43FSA"
   },
@@ -1776,6 +1781,11 @@
   {
    "brand": "KTCtv",
    "name": "POWER_GREEN",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "RZTK",
    "model": "2K SMART TV"
   },
   {
@@ -6424,6 +6434,13 @@
    "brand": "AZPEN",
    "name": "A1080",
    "model": "A1080"
+  }
+ ],
+ "A1083": [
+  {
+   "brand": "AZPEN",
+   "name": "A1083",
+   "model": "A1083"
   }
  ],
  "wing-inet": [
@@ -34858,6 +34875,13 @@
    "model": "C5L Max"
   }
  ],
+ "C0176": [
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "model": "C5L Max"
+  }
+ ],
  "C0130UU": [
   {
    "brand": "Blu",
@@ -59261,6 +59285,11 @@
    "brand": "ESOL",
    "name": "HCB_5186",
    "model": "HCB_5186"
+  },
+  {
+   "brand": "HORIZON",
+   "name": "ID65HZA3B1_C",
+   "model": "ID65HZA3B1_C"
   }
  ],
  "HERO-SP001": [
@@ -80467,6 +80496,13 @@
    "model": "HTA11"
   }
  ],
+ "Reader": [
+  {
+   "brand": "HannSpree",
+   "name": "HSD0001",
+   "model": "HannsNote2"
+  }
+ ],
  "HANNSpad": [
   {
    "brand": "HannSpree",
@@ -85481,6 +85517,11 @@
    "brand": "Homatics",
    "name": "Kickpi",
    "model": "KP1"
+  },
+  {
+   "brand": "Homatics",
+   "name": "Nova",
+   "model": "Nova"
   }
  ],
  "HCA6010": [
@@ -142357,6 +142398,13 @@
    "model": "Moja TV"
   }
  ],
+ "POS_Device": [
+  {
+   "brand": "Moka",
+   "name": "POS_Device_Moka_Prime",
+   "model": "Moka_Prime"
+  }
+ ],
  "DV8235_P": [
   {
    "brand": "Mola TV",
@@ -155762,6 +155810,11 @@
    "brand": "OnePlus",
    "name": "OnePlus 12",
    "model": "CPH2581"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "model": "CPH2583"
   }
  ],
  "OnePlus6": [
@@ -162436,6 +162489,13 @@
    "brand": "PCD Argentina",
    "name": "P60_CA",
    "model": "P60_CA"
+  }
+ ],
+ "P63L_CA": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P63L",
+   "model": "P63L"
   }
  ],
  "P63L_PR": [
@@ -212743,6 +212803,13 @@
    "brand": "Stream",
    "name": "Stream",
    "model": "Stream"
+  }
+ ],
+ "YDA": [
+  {
+   "brand": "Strong",
+   "name": "Leap-S3",
+   "model": "4K Google TV Box"
   }
  ],
  "HP40A1": [
@@ -265378,6 +265445,18 @@
    "model": "RMX3268"
   }
  ],
+ "RE588DL1": [
+  {
+   "brand": "realme",
+   "name": "RMX3612",
+   "model": "RMX3612"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9i 5G",
+   "model": "RMX3612"
+  }
+ ],
  "RE58AF": [
   {
    "brand": "realme",
@@ -265712,13 +265791,6 @@
    "model": "RMX3461"
   }
  ],
- "RE588DL1": [
-  {
-   "brand": "realme",
-   "name": "realme 9i 5G",
-   "model": "RMX3612"
-  }
- ],
  "RMX2195L1": [
   {
    "brand": "realme",
@@ -265868,6 +265940,13 @@
    "brand": "realme",
    "name": "realme C53",
    "model": "RMX3762"
+  }
+ ],
+ "RE5C91L1": [
+  {
+   "brand": "realme",
+   "name": "realme C67",
+   "model": "RMX3890"
   }
  ],
  "RE58B2L1": [

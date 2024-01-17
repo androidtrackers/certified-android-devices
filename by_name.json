@@ -9676,6 +9676,13 @@
    "model": "A1080"
   }
  ],
+ "A1083": [
+  {
+   "brand": "AZPEN",
+   "device": "A1083",
+   "model": "A1083"
+  }
+ ],
  "A720": [
   {
    "brand": "AZPEN",
@@ -35510,6 +35517,11 @@
    "brand": "Blu",
    "device": "C0175",
    "model": "C5L Max"
+  },
+  {
+   "brand": "Blu",
+   "device": "C0176",
+   "model": "C5L Max"
   }
  ],
  "C5L+ 2021": [
@@ -52375,6 +52387,11 @@
   {
    "brand": "DIALN",
    "device": "NovaA",
+   "model": "Nova"
+  },
+  {
+   "brand": "Homatics",
+   "device": "YYZ",
    "model": "Nova"
   },
   {
@@ -76466,6 +76483,13 @@
    "model": "C1"
   }
  ],
+ "ID65HZA3B1_C": [
+  {
+   "brand": "HORIZON",
+   "device": "Interactive_White_Board",
+   "model": "ID65HZA3B1_C"
+  }
+ ],
  "HOT ONE": [
   {
    "brand": "HOT (il)",
@@ -82844,6 +82868,13 @@
    "brand": "Handtop",
    "device": "HTA11",
    "model": "HTA11"
+  }
+ ],
+ "HSD0001": [
+  {
+   "brand": "HannSpree",
+   "device": "Reader",
+   "model": "HannsNote2"
   }
  ],
  "HSG1279": [
@@ -110442,6 +110473,18 @@
   {
    "brand": "KTCtv",
    "device": "hongkong",
+   "model": "4K SMART TV"
+  }
+ ],
+ "RZTK": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
    "model": "4K SMART TV"
   }
  ],
@@ -142406,6 +142449,13 @@
    "model": "Moja TV"
   }
  ],
+ "POS_Device_Moka_Prime": [
+  {
+   "brand": "Moka",
+   "device": "POS_Device",
+   "model": "Moka_Prime"
+  }
+ ],
  "PDBM11ADL": [
   {
    "brand": "Mola TV",
@@ -155326,6 +155376,11 @@
    "brand": "OnePlus",
    "device": "OP595DL1",
    "model": "CPH2581"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2583"
   }
  ],
  "OnePlus 6": [
@@ -161879,6 +161934,11 @@
   }
  ],
  "P63L": [
+  {
+   "brand": "PCD Argentina",
+   "device": "P63L_CA",
+   "model": "P63L"
+  },
   {
    "brand": "PCD Argentina",
    "device": "P63L_PR",
@@ -210180,6 +210240,13 @@
    "brand": "Stream",
    "device": "DV8555-Altice",
    "model": "Stream"
+  }
+ ],
+ "Leap-S3": [
+  {
+   "brand": "Strong",
+   "device": "YDA",
+   "model": "4K Google TV Box"
   }
  ],
  "SRT41": [
@@ -263711,6 +263778,13 @@
    "model": "RMX3268"
   }
  ],
+ "RMX3612": [
+  {
+   "brand": "realme",
+   "device": "RE588DL1",
+   "model": "RMX3612"
+  }
+ ],
  "RMX3627": [
   {
    "brand": "realme",
@@ -264200,6 +264274,13 @@
    "brand": "realme",
    "device": "REE2ADL1",
    "model": "RMX3710"
+  }
+ ],
+ "realme C67": [
+  {
+   "brand": "realme",
+   "device": "RE5C91L1",
+   "model": "RMX3890"
   }
  ],
  "realme GT 2": [

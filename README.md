@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-16
+Last sync is 2024-01-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -329,6 +329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AZPEN|A1046G|A1046G|A1046G|
 |AZPEN|A1052|A1052|A1052|
 |AZPEN|A1080|mid1032_mk_32|A1080|
+|AZPEN|A1083|A1083|A1083|
 |AZPEN|A720|wing-inet|A720|
 |AZPEN|A780|A780|A780|
 |AZPEN|A780B|A780B|A780B|
@@ -3720,6 +3721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L Max|C0170WW|C5L Max|
 |Blu|C5L Max|C0173WW|C5L Max|
 |Blu|C5L Max|C0175|C5L Max|
+|Blu|C5L Max|C0176|C5L Max|
 |Blu|C5L PLUS|C0130UU|C5L PLUS|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
@@ -9374,6 +9376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|c1|C1|C1|
 |HORIZON|EU|tamachi|HORIZON Android TV|
 |HORIZON|EU|yeongdeungpo|HORIZON Android TV|
+|HORIZON|ID65HZA3B1_C|Interactive_White_Board|ID65HZA3B1_C|
 |HOT (il)|HOT ONE|VSB3918_ALT_ME|HOT ONE|
 |HOT (il)|HOT Streamer|DV8555-KIH|HOT Streamer|
 |HOT (il)|StreamerV3|DIW377_ALT_ME|HOT Streamer V3|
@@ -10429,6 +10432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld-Wireless|X6|X6|X6|
 |Handsfree|R5|R5|R5|
 |Handtop|HTA11|HTA11|HTA11|
+|HannSpree|HSD0001|Reader|HannsNote2|
 |HannSpree|HSG1279|HANNSpad|HSG1279|
 |HannSpree|HSG1341|mid1024_e|HSG1341|
 |HannSpree|HSG1351|HSG1351|HSG1351|
@@ -11329,6 +11333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|Global|YQB|Dongle R 4K|
 |Homatics|Kickpi|YYZ|KP1|
+|Homatics|Nova|YYZ|Nova|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
@@ -15276,6 +15281,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
+|KTCtv|RZTK|stanford|2K SMART TV|
+|KTCtv|RZTK|zhongshan|4K SMART TV|
 |KTCtv|SA|hongkong|EcoTV Plus|
 |KTCtv|SA|stanford|40DSA|
 |KTCtv|SA|zhongshan|43FSA|
@@ -20678,6 +20685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Modecom|Xino Z46 X4+|xino_z46|Xino Z46 X4+|
 |Mohu|MH-CHANNELS|MH-CHANNELS|MH-CHANNELS|
 |MojaTV|MojaTV|SEI530BHT|Moja TV|
+|Moka|POS_Device_Moka_Prime|POS_Device|Moka_Prime|
 |Mola TV|PDBM11ADL|DV8235_P|PDBM11ADL|
 |Molvu|M10PRO|M10PRO|M10PRO|
 |Molvu|V7S|V7S|V7S|
@@ -22916,6 +22924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 11R 5G|OP5961L1|CPH2487|
 |OnePlus|OnePlus 12|OP5929L1|PJD110|
 |OnePlus|OnePlus 12|OP595DL1|CPH2581|
+|OnePlus|OnePlus 12|OP595DL1|CPH2583|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -23982,6 +23991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|P55|P55|P55|
 |PCD Argentina|P60 CENAM|P60_CENAM|P60 CENAM|
 |PCD Argentina|P60_CA|P60_CA|P60_CA|
+|PCD Argentina|P63L|P63L_CA|P63L|
 |PCD Argentina|P63L|P63L_PR|P63L|
 |PCD Argentina|PCD508|PCD508|PCD508|
 |PCD Argentina|PCD509|PCD509|PCD509|
@@ -32172,6 +32182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|Android TV|R2|ATV R2|
 |Strong|Android TV|redwood|AI PONT|
 |Strong|LEAP-S1|LAS|LEAP-S1|
+|Strong|Leap-S3|YDA|4K Google TV Box|
 |Strong|SRT41|YYT|4K Google TV Stick|
 |Strong|Smart TV|longshan|AI PONT|
 |Strong|Strong|bangbae|Strong 4K Android TV|
@@ -41389,6 +41400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
 |realme|RMX3268|RED8D7|RMX3268|
+|realme|RMX3612|RE588DL1|RMX3612|
 |realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|
 |realme|RMX3771|RE58B8L1|RMX3771|
@@ -41480,6 +41492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C53|RE58C2|RMX3760|
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
+|realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
