@@ -11977,6 +11977,11 @@
    "device": "S70"
   },
   {
+   "brand": "Bluebird",
+   "name": "S70",
+   "device": "S70"
+  },
+  {
    "brand": "Doogee",
    "name": "S70",
    "device": "S70"
@@ -28900,6 +28905,13 @@
    "device": "lavender"
   }
  ],
+ "BLAUPUNKT 4K TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "lavender"
+  }
+ ],
  "CSV2K": [
   {
    "brand": "Blaupunkt",
@@ -29964,6 +29976,11 @@
    "brand": "Blu",
    "name": "C6L",
    "device": "C0030"
+  },
+  {
+   "brand": "Blu",
+   "name": "C6L",
+   "device": "C0190"
   }
  ],
  "C6L 2020": [
@@ -30303,12 +30320,22 @@
   {
    "brand": "Blu",
    "name": "G33",
+   "device": "G0892_MXT"
+  },
+  {
+   "brand": "Blu",
+   "name": "G33",
    "device": "G0892_SP"
   },
   {
    "brand": "Blu",
    "name": "G33",
    "device": "G0892_SYN"
+  },
+  {
+   "brand": "Blu",
+   "name": "G33",
+   "device": "G0894"
   }
  ],
  "G40": [
@@ -32507,6 +32534,48 @@
    "brand": "Bluebird",
    "name": "RT103",
    "device": "RT103"
+  }
+ ],
+ "S50": [
+  {
+   "brand": "Bluebird",
+   "name": "S50",
+   "device": "S50"
+  },
+  {
+   "brand": "Cat",
+   "name": "S50",
+   "device": "CatS50"
+  },
+  {
+   "brand": "Doogee",
+   "name": "S50",
+   "device": "t758_dg_m3t_n"
+  },
+  {
+   "brand": "Evercoss",
+   "name": "S50",
+   "device": "EVERCOSS_S50"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "S50",
+   "device": "S50"
+  },
+  {
+   "brand": "Senwa",
+   "name": "S50",
+   "device": "Senwa_S50"
+  },
+  {
+   "brand": "Southern Telecom",
+   "name": "Polaroid Snap S50",
+   "device": "S50"
+  },
+  {
+   "brand": "Stylo",
+   "name": "S50",
+   "device": "STYLO_S50_Granite"
   }
  ],
  "SF550": [
@@ -36212,43 +36281,6 @@
    "brand": "xTouch",
    "name": "S40",
    "device": "S40"
-  }
- ],
- "S50": [
-  {
-   "brand": "Cat",
-   "name": "S50",
-   "device": "CatS50"
-  },
-  {
-   "brand": "Doogee",
-   "name": "S50",
-   "device": "t758_dg_m3t_n"
-  },
-  {
-   "brand": "Evercoss",
-   "name": "S50",
-   "device": "EVERCOSS_S50"
-  },
-  {
-   "brand": "G-Tab",
-   "name": "S50",
-   "device": "S50"
-  },
-  {
-   "brand": "Senwa",
-   "name": "S50",
-   "device": "Senwa_S50"
-  },
-  {
-   "brand": "Southern Telecom",
-   "name": "Polaroid Snap S50",
-   "device": "S50"
-  },
-  {
-   "brand": "Stylo",
-   "name": "S50",
-   "device": "STYLO_S50_Granite"
   }
  ],
  "AS01M": [
@@ -53396,6 +53428,11 @@
   {
    "brand": "EKO",
    "name": "EKO",
+   "device": "lavender"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
    "device": "shilin"
   },
   {
@@ -53748,6 +53785,13 @@
    "brand": "ELO Touch",
    "name": "I-Series 3.0 for Android",
    "device": "Elo-i3-22Std"
+  }
+ ],
+ "7in-I-Series-Pay": [
+  {
+   "brand": "ELO Touch",
+   "name": "\"I-Series Pay 7\"\"\"",
+   "device": "7in-I-Series-Pay"
   }
  ],
  "M50C": [
@@ -63624,6 +63668,11 @@
  "V1": [
   {
    "brand": "G-TiDE",
+   "name": "V1",
+   "device": "V1"
+  },
+  {
+   "brand": "Hafury",
    "name": "V1",
    "device": "V1"
   },
@@ -83868,6 +83917,13 @@
    "device": "HNPGT"
   }
  ],
+ "BVL-AN00": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic6",
+   "device": "HNBVL-AN00"
+  }
+ ],
  "ALI-NX1": [
   {
    "brand": "Honor",
@@ -83885,6 +83941,13 @@
    "brand": "Honor",
    "name": "HONOR Magic6 Lite 5G",
    "device": "HNALI-Q"
+  }
+ ],
+ "BVL-AN16": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic6 Pro",
+   "device": "HNBVL"
   }
  ],
  "HEY-W09": [
@@ -98433,6 +98496,13 @@
    "device": "IX701"
   }
  ],
+ "B866V2FI": [
+  {
+   "brand": "IZZI Telecom",
+   "name": "B866V2FI",
+   "device": "B866V2Fi"
+  }
+ ],
  "HP2714": [
   {
    "brand": "IZZI Telecom",
@@ -99934,6 +100004,20 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 30 5G",
    "device": "Infinix-X6711"
+  }
+ ],
+ "Infinix X6853": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40",
+   "device": "Infinix-X6853"
+  }
+ ],
+ "Infinix X6850": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40 Pro",
+   "device": "Infinix-X6850"
   }
  ],
  "Infinix X604": [
@@ -112153,6 +112237,13 @@
    "brand": "Kyocera",
    "name": "DuraForce",
    "device": "E6762"
+  }
+ ],
+ "KY-51D": [
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce EX",
+   "device": "KY-51D"
   }
  ],
  "KYOCERA-E6820": [
@@ -131928,6 +132019,13 @@
    "device": "L66_LITE"
   }
  ],
+ "LOGIC L66 PRO": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L66 PRO",
+   "device": "L66_PRO"
+  }
+ ],
  "LOGIC L68": [
   {
    "brand": "Logic Mobility",
@@ -148566,6 +148664,13 @@
    "brand": "Moveby",
    "name": "LINNEX",
    "device": "LX50"
+  }
+ ],
+ "Ranger2": [
+  {
+   "brand": "Movfast",
+   "name": "Ranger2",
+   "device": "MFT1522"
   }
  ],
  "MOVIC-W5": [
@@ -198242,6 +198347,132 @@
    "device": "dm2q"
   }
  ],
+ "SM-S9210": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "e1q"
+  }
+ ],
+ "SM-S921U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "e1q"
+  }
+ ],
+ "SM-S921U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "e1q"
+  }
+ ],
+ "SM-S921W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "e1q"
+  }
+ ],
+ "SM-S921B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "e1s"
+  }
+ ],
+ "SM-S921N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "e1s"
+  }
+ ],
+ "SM-S9280": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "e3q"
+  }
+ ],
+ "SM-S928B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "e3q"
+  }
+ ],
+ "SM-S928N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "e3q"
+  }
+ ],
+ "SM-S928U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "e3q"
+  }
+ ],
+ "SM-S928U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "e3q"
+  }
+ ],
+ "SM-S928W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "e3q"
+  }
+ ],
+ "SM-S9260": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24+",
+   "device": "e2q"
+  }
+ ],
+ "SM-S926U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24+",
+   "device": "e2q"
+  }
+ ],
+ "SM-S926U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24+",
+   "device": "e2q"
+  }
+ ],
+ "SM-S926W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24+",
+   "device": "e2q"
+  }
+ ],
+ "SM-S926B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24+",
+   "device": "e2s"
+  }
+ ],
+ "SM-S926N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24+",
+   "device": "e2s"
+  }
+ ],
  "SC-03E": [
   {
    "brand": "Samsung",
@@ -242383,6 +242614,13 @@
    "device": "BISON_X10S_NFC"
   }
  ],
+ "PR4JBX20A": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON X20",
+   "device": "BISON_X20"
+  }
+ ],
  "RP03": [
   {
    "brand": "Umidigi",
@@ -243192,6 +243430,13 @@
    "device": "EA630_Plus"
   }
  ],
+ "EA660": [
+  {
+   "brand": "Unitech",
+   "name": "EA660",
+   "device": "EA660"
+  }
+ ],
  "HT330": [
   {
    "brand": "Unitech",
@@ -243228,6 +243473,13 @@
    "brand": "Unitech",
    "name": "PA768",
    "device": "PA768"
+  }
+ ],
+ "RT112": [
+  {
+   "brand": "Unitech",
+   "name": "RT112",
+   "device": "RT112"
   }
  ],
  "TB85": [
@@ -249593,6 +249845,13 @@
    "brand": "Vivo",
    "name": "X100",
    "device": "PD2309"
+  }
+ ],
+ "V2308": [
+  {
+   "brand": "Vivo",
+   "name": "X100",
+   "device": "V2308"
   }
  ],
  "V2324A": [

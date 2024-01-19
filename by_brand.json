@@ -18476,6 +18476,11 @@
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
+   "device": "lavender",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT 4K TV"
+  },
+  {
    "device": "stanford",
    "name": "BLAUPUNKT",
    "model": "CSV2K"
@@ -19238,6 +19243,11 @@
    "model": "C6L"
   },
   {
+   "device": "C0190",
+   "name": "C6L",
+   "model": "C6L"
+  },
+  {
    "device": "C0090WW",
    "name": "C6L 2020",
    "model": "C6L 2020"
@@ -19498,12 +19508,22 @@
    "model": "G33"
   },
   {
+   "device": "G0892_MXT",
+   "name": "G33",
+   "model": "G33"
+  },
+  {
    "device": "G0892_SP",
    "name": "G33",
    "model": "G33"
   },
   {
    "device": "G0892_SYN",
+   "name": "G33",
+   "model": "G33"
+  },
+  {
+   "device": "G0894",
    "name": "G33",
    "model": "G33"
   },
@@ -20977,6 +20997,16 @@
    "device": "RT103",
    "name": "RT103",
    "model": "RT103"
+  },
+  {
+   "device": "S50",
+   "name": "S50",
+   "model": "S50"
+  },
+  {
+   "device": "S70",
+   "name": "S70",
+   "model": "S70"
   },
   {
    "device": "SF550",
@@ -36351,6 +36381,11 @@
    "model": "EKO 2K Android TV"
   },
   {
+   "device": "lavender",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
    "device": "shilin",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -36626,6 +36661,11 @@
    "device": "Elo-i3-22Std",
    "name": "I-Series 3.0 for Android",
    "model": "Elo-i3-22Std"
+  },
+  {
+   "device": "7in-I-Series-Pay",
+   "name": "\"I-Series Pay 7\"\"\"",
+   "model": "7in-I-Series-Pay"
   },
   {
    "device": "M50",
@@ -52901,6 +52941,11 @@
    "device": "NOTE_10",
    "name": "NOTE 10",
    "model": "NOTE 10"
+  },
+  {
+   "device": "V1",
+   "name": "V1",
+   "model": "V1"
   }
  ],
  "Haier": [
@@ -59598,6 +59643,11 @@
    "model": "PGT-N19"
   },
   {
+   "device": "HNBVL-AN00",
+   "name": "HONOR Magic6",
+   "model": "BVL-AN00"
+  },
+  {
    "device": "HNALI-Q",
    "name": "HONOR Magic6 Lite 5G",
    "model": "ALI-NX1"
@@ -59606,6 +59656,11 @@
    "device": "HNALI-Q",
    "name": "HONOR Magic6 Lite 5G",
    "model": "ALI-NX3"
+  },
+  {
+   "device": "HNBVL",
+   "name": "HONOR Magic6 Pro",
+   "model": "BVL-AN16"
   },
   {
    "device": "HNHEY-Q",
@@ -70579,6 +70634,11 @@
  ],
  "IZZI Telecom": [
   {
+   "device": "B866V2Fi",
+   "name": "B866V2FI",
+   "model": "B866V2FI"
+  },
+  {
    "device": "HPH65",
    "name": "HP2714",
    "model": "HP2714"
@@ -71748,6 +71808,16 @@
    "device": "Infinix-X6711",
    "name": "Infinix NOTE 30 5G",
    "model": "Infinix X6711"
+  },
+  {
+   "device": "Infinix-X6853",
+   "name": "Infinix NOTE 40",
+   "model": "Infinix X6853"
+  },
+  {
+   "device": "Infinix-X6850",
+   "name": "Infinix NOTE 40 Pro",
+   "model": "Infinix X6850"
   },
   {
    "device": "Infinix-X604_sprout",
@@ -81777,6 +81847,11 @@
    "device": "E6762",
    "name": "DuraForce",
    "model": "USCC-E6762"
+  },
+  {
+   "device": "KY-51D",
+   "name": "DuraForce EX",
+   "model": "KY-51D"
   },
   {
    "device": "E6820",
@@ -96892,6 +96967,11 @@
    "model": "L66 LITE"
   },
   {
+   "device": "L66_PRO",
+   "name": "L66 PRO",
+   "model": "LOGIC L66 PRO"
+  },
+  {
    "device": "LOGIC_L68",
    "name": "L68",
    "model": "LOGIC L68"
@@ -110183,6 +110263,13 @@
    "device": "LX50",
    "name": "LINNEX",
    "model": "LX50"
+  }
+ ],
+ "Movfast": [
+  {
+   "device": "MFT1522",
+   "name": "Ranger2",
+   "model": "Ranger2"
   }
  ],
  "Movic": [
@@ -149371,6 +149458,96 @@
    "model": "SM-S916W"
   },
   {
+   "device": "e1q",
+   "name": "Galaxy S24",
+   "model": "SM-S9210"
+  },
+  {
+   "device": "e1q",
+   "name": "Galaxy S24",
+   "model": "SM-S921U"
+  },
+  {
+   "device": "e1q",
+   "name": "Galaxy S24",
+   "model": "SM-S921U1"
+  },
+  {
+   "device": "e1q",
+   "name": "Galaxy S24",
+   "model": "SM-S921W"
+  },
+  {
+   "device": "e1s",
+   "name": "Galaxy S24",
+   "model": "SM-S921B"
+  },
+  {
+   "device": "e1s",
+   "name": "Galaxy S24",
+   "model": "SM-S921N"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S9280"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928B"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928N"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928U"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928U1"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928W"
+  },
+  {
+   "device": "e2q",
+   "name": "Galaxy S24+",
+   "model": "SM-S9260"
+  },
+  {
+   "device": "e2q",
+   "name": "Galaxy S24+",
+   "model": "SM-S926U"
+  },
+  {
+   "device": "e2q",
+   "name": "Galaxy S24+",
+   "model": "SM-S926U1"
+  },
+  {
+   "device": "e2q",
+   "name": "Galaxy S24+",
+   "model": "SM-S926W"
+  },
+  {
+   "device": "e2s",
+   "name": "Galaxy S24+",
+   "model": "SM-S926B"
+  },
+  {
+   "device": "e2s",
+   "name": "Galaxy S24+",
+   "model": "SM-S926N"
+  },
+  {
    "device": "SC-03E",
    "name": "Galaxy S3",
    "model": "SC-03E"
@@ -183979,6 +184156,11 @@
    "model": "RP05"
   },
   {
+   "device": "BISON_X20",
+   "name": "BISON X20",
+   "model": "PR4JBX20A"
+  },
+  {
    "device": "BISON_GT",
    "name": "BISON_GT",
    "model": "BISON GT"
@@ -184748,6 +184930,11 @@
    "model": "EA630_Plus"
   },
   {
+   "device": "EA660",
+   "name": "EA660",
+   "model": "EA660"
+  },
+  {
    "device": "HT330",
    "name": "HT330",
    "model": "HT330"
@@ -184776,6 +184963,11 @@
    "device": "PA768",
    "name": "PA768",
    "model": "PA768"
+  },
+  {
+   "device": "RT112",
+   "name": "RT112",
+   "model": "RT112"
   },
   {
    "device": "TB85",
@@ -189976,6 +190168,11 @@
    "device": "PD2309",
    "name": "X100",
    "model": "V2309A"
+  },
+  {
+   "device": "V2308",
+   "name": "X100",
+   "model": "V2308"
   },
   {
    "device": "PD2324",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-18
+Last sync is 2024-01-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3580,6 +3580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BLAUPUNKT|bruno|BLAUPUNKT 2K Android TV|
 |Blaupunkt|BLAUPUNKT|hongkong|4K SMART TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT GOOGLE TV 4K|
+|Blaupunkt|BLAUPUNKT|lavender|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|stanford|CSV2K|
 |Blaupunkt|BLAUPUNKT|zhongshan|CSV4K|
 |Blaupunkt|BLAUPUNKT2K|nippori|BP 2K Android TV|
@@ -3732,6 +3733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6  2020|C230EQ|C6 2020|
 |Blu|C6 2019|C090EQ|C6 2019|
 |Blu|C6L|C0030|C6L|
+|Blu|C6L|C0190|C6L|
 |Blu|C6L 2020|C0090WW|C6L 2020|
 |Blu|C6L 2021|C0140TT|C6L 2021|
 |Blu|C6L 2021|C0141TT|C6L 2021|
@@ -3784,8 +3786,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G0290WW|G0290WW|G80|
 |Blu|G33|G0890|G33|
 |Blu|G33|G0892|G33|
+|Blu|G33|G0892_MXT|G33|
 |Blu|G33|G0892_SP|G33|
 |Blu|G33|G0892_SYN|G33|
+|Blu|G33|G0894|G33|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
@@ -4079,6 +4083,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|RP350|RP350|RP350|
 |Bluebird|RT080|RT080|RT080|
 |Bluebird|RT103|RT103|RT103|
+|Bluebird|S50|S50|S50|
+|Bluebird|S70|S70|S70|
 |Bluebird|SF550|SF550|SF550|
 |Bluebird|SF650|SF650|SF650|
 |Bluebird|ST080|ST080|ST080|
@@ -7021,6 +7027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO|expo|4K EKO Google TV|
 |EKO|EKO|kaitak|EKO Google TV|
 |EKO|EKO|komagome|EKO 2K Android TV|
+|EKO|EKO|lavender|EKO 4K Android TV|
 |EKO|EKO|shilin|EKO 4K Android TV|
 |EKO|EKO|tennoji|2K EKO Google TV|
 |EKO|EKO|zhongshan|EKO 4K Android TV|
@@ -7074,6 +7081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|Elo-i3-PUCK|Elo-i3-PUCK|Elo-i3-PUCK|
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-10Std|Elo-i3-10Std|
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-22Std|Elo-i3-22Std|
+|ELO Touch|"I-Series Pay 7"""|7in-I-Series-Pay|7in-I-Series-Pay|
 |ELO Touch|M50|M50|M50|
 |ELO Touch|M50C|M50C|M50C|
 |ELO Touch|M60-Pay|M60-Pay|M60-Pay|
@@ -10201,6 +10209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hafury|M20|M20|M20|
 |Hafury|MEET|MEET|MEET|
 |Hafury|NOTE 10|NOTE_10|NOTE 10|
+|Hafury|V1|V1|V1|
 |Haier|2K Haier TV|umeda|2K Haier TV|
 |Haier|A-TT00|A-TT00|A-TT00|
 |Haier|A36C5H|A36C5H|Andromax A36C5H|
@@ -11520,8 +11529,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic5 Lite 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR Magic5 Lite 5G|HNRMO-Q|RMO-NX3|
 |Honor|HONOR Magic5 Pro|HNPGT|PGT-N19|
+|Honor|HONOR Magic6|HNBVL-AN00|BVL-AN00|
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX1|
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX3|
+|Honor|HONOR Magic6 Pro|HNBVL|BVL-AN16|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
@@ -13691,6 +13702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IXTECH|IX1012|IX1012|IX1012|
 |IXTECH|IX1013|IX1013|IX1013|
 |IXTECH|IX701|IX701|IX701|
+|IZZI Telecom|B866V2FI|B866V2Fi|B866V2FI|
 |IZZI Telecom|HP2714|HPH65|HP2714|
 |IZZI Telecom|HP46A|HP46A|HP4633|
 |IZZI Telecom|Mexico|B820C-A15_ZTE|B820C-A15|
@@ -13918,6 +13930,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 12i|Infinix-X6819|Infinix X6819|
 |Infinix|Infinix NOTE 30|Infinix-X6833B|Infinix X6833B|
 |Infinix|Infinix NOTE 30 5G|Infinix-X6711|Infinix X6711|
+|Infinix|Infinix NOTE 40|Infinix-X6853|Infinix X6853|
+|Infinix|Infinix NOTE 40 Pro|Infinix-X6850|Infinix X6850|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -15859,6 +15873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce|E6560L|E6560L|
 |Kyocera|DuraForce|E6560T|E6560T|
 |Kyocera|DuraForce|E6762|USCC-E6762|
+|Kyocera|DuraForce EX|KY-51D|KY-51D|
 |Kyocera|DuraForce PRO|E6820|KYOCERA-E6820|
 |Kyocera|DuraForce PRO|E6820TM_3GB|E6820TM|
 |Kyocera|DuraForce PRO|E6820_3GB|KYOCERA-E6820|
@@ -18846,6 +18861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|L63A|L63A|LOGIC L63|
 |Logic Mobility|L66|L66|L66|
 |Logic Mobility|L66 LITE|L66_LITE|L66 LITE|
+|Logic Mobility|L66 PRO|L66_PRO|LOGIC L66 PRO|
 |Logic Mobility|L68|LOGIC_L68|LOGIC L68|
 |Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
 |Logic Mobility|LOGIC L61|LOGIC_L61|LOGIC L61|
@@ -21435,6 +21451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Movado Connect|stargazer|Stargazer|
 |Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
 |Moveby|LINNEX|LX50|LX50|
+|Movfast|Ranger2|MFT1522|Ranger2|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
 |Movienet|M7|SFO|M7|
 |Moviltelco Trade|A58B|A58B|A58B|
@@ -29071,6 +29088,24 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23+|dm2q|SM-S916U|
 |Samsung|Galaxy S23+|dm2q|SM-S916U1|
 |Samsung|Galaxy S23+|dm2q|SM-S916W|
+|Samsung|Galaxy S24|e1q|SM-S9210|
+|Samsung|Galaxy S24|e1q|SM-S921U|
+|Samsung|Galaxy S24|e1q|SM-S921U1|
+|Samsung|Galaxy S24|e1q|SM-S921W|
+|Samsung|Galaxy S24|e1s|SM-S921B|
+|Samsung|Galaxy S24|e1s|SM-S921N|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S9280|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S928B|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S928N|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S928U|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S928U1|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S928W|
+|Samsung|Galaxy S24+|e2q|SM-S9260|
+|Samsung|Galaxy S24+|e2q|SM-S926U|
+|Samsung|Galaxy S24+|e2q|SM-S926U1|
+|Samsung|Galaxy S24+|e2q|SM-S926W|
+|Samsung|Galaxy S24+|e2s|SM-S926B|
+|Samsung|Galaxy S24+|e2s|SM-S926N|
 |Samsung|Galaxy S3|SC-03E|SC-03E|
 |Samsung|Galaxy S3|c1att|SGH-I748|
 |Samsung|Galaxy S3|c1ktt|SHV-E210K|
@@ -35841,6 +35876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON X10S|BISON_X10S|RP05|
 |Umidigi|BISON X10S EEA|BISON_X10S|RP05|
 |Umidigi|BISON X10S NFC|BISON_X10S_NFC|RP05|
+|Umidigi|BISON X20|BISON_X20|PR4JBX20A|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|BISON_GT2|BISON_GT2|RP03|
 |Umidigi|BISON_GT2_5G|BISON_GT2_5G|RP02|
@@ -35990,12 +36026,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|EA630|EA630|EA630|
 |Unitech|EA630Plus|EA630Plus|EA630Plus|
 |Unitech|EA630_Plus|EA630_Plus|EA630_Plus|
+|Unitech|EA660|EA660|EA660|
 |Unitech|HT330|HT330|HT330|
 |Unitech|HT730|HT730|HT730|
 |Unitech|PA760|PA760|PA760|
 |Unitech|PA760_EE|PA760|PA760|
 |Unitech|PA760_FP|PA760|PA760|
 |Unitech|PA768|PA768|PA768|
+|Unitech|RT112|RT112|RT112|
 |Unitech|TB85|TB85|TB85|
 |Unitech|TB85Plus|TB85Plus|TB85Plus|
 |Unitech|WD200|wd200|WD200|
@@ -37000,6 +37038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V9 Pro|1851|vivo 1851|
 |Vivo|X Flip|PD2256|V2256A|
 |Vivo|X100|PD2309|V2309A|
+|Vivo|X100|V2308|V2308|
 |Vivo|X100 Pro|PD2324|V2324A|
 |Vivo|X100 Pro|V2309|V2309|
 |Vivo|X5|X5|vivo X5|
