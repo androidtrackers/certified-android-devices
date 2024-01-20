@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-19
+Last sync is 2024-01-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15114,6 +15114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E17_RU|E17|E17|
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
+|KENSHI|H21|H21|H21|
 |KENSHI|H38|H38|H38|
 |KENSHI|Kenshi KP10|KP10|KP10|
 |KENSHI|Kenshi KP11|KP11|KP11|
