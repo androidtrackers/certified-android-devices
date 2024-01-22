@@ -7429,6 +7429,11 @@
    "device": "zhongshan"
   },
   {
+   "brand": "PEL (PAK)",
+   "name": "PEL",
+   "device": "lavender"
+  },
+  {
    "brand": "Philco",
    "name": "PHILCO",
    "device": "zhongshan"
@@ -51110,6 +51115,18 @@
    "device": "P3Mini_Kid"
   }
  ],
+ "R10 Pro": [
+  {
+   "brand": "Doogee",
+   "name": "R10",
+   "device": "PT1"
+  },
+  {
+   "brand": "EUDORA",
+   "name": "R10 Pro",
+   "device": "R10_Pro"
+  }
+ ],
  "S100": [
   {
    "brand": "Doogee",
@@ -54454,13 +54471,6 @@
    "brand": "ETOE",
    "name": "D1221",
    "device": "YUL"
-  }
- ],
- "R10 Pro": [
-  {
-   "brand": "EUDORA",
-   "name": "R10 Pro",
-   "device": "R10_Pro"
   }
  ],
  "DC-1032": [
@@ -80757,6 +80767,18 @@
    "device": "HLTE106E_02"
   }
  ],
+ "Hisense U965": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HLTE106E_02"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U965",
+   "device": "HS6580MT"
+  }
+ ],
  "HWCD100E": [
   {
    "brand": "Hisense",
@@ -80814,13 +80836,6 @@
   }
  ],
  "Hisense Hi 1 PRO": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense U965",
-   "device": "HS6580MT"
-  }
- ],
- "Hisense U965": [
   {
    "brand": "Hisense",
    "name": "Hisense U965",
@@ -157821,6 +157836,27 @@
    "brand": "OnePlus",
    "name": "OnePlus 12",
    "device": "OP595DL1"
+  }
+ ],
+ "CPH2585": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "device": "OP5D35L1"
+  }
+ ],
+ "CPH2609": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "device": "OP5D35L1"
+  }
+ ],
+ "CPH2611": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "device": "OP5D35L1"
   }
  ],
  "ONEPLUS A6000": [

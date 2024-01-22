@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-21
+Last sync is 2024-01-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6677,6 +6677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N60Pro|1919|N60Pro|
 |Doogee|P3Mini Kid|P3Mini_Kid|T20Mini Kid|
 |Doogee|R10|PT1|R10|
+|Doogee|R10|PT1|R10 Pro|
 |Doogee|S100|M22|S100|
 |Doogee|S100Pro|M22H|S100Pro|
 |Doogee|S110|M22P|S110|
@@ -11011,6 +11012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HLTE106E_02|Hisense E32 Lite|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U607|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U964|
+|Hisense|Hisense U964|HLTE106E_02|Hisense U965|
 |Hisense|Hisense U964|HS7731ESP|HWCD100E|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 Lite|
@@ -22943,6 +22945,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 12|OP5929L1|PJD110|
 |OnePlus|OnePlus 12|OP595DL1|CPH2581|
 |OnePlus|OnePlus 12|OP595DL1|CPH2583|
+|OnePlus|OnePlus 12R|OP5D35L1|CPH2585|
+|OnePlus|OnePlus 12R|OP5D35L1|CPH2609|
+|OnePlus|OnePlus 12R|OP5D35L1|CPH2611|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -24040,6 +24045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-882-H232S|PET-882-H232S|Lightyear 2|
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
+|PEL (PAK)|PEL|lavender|4K SMART TV|
 |PEOTV|SEI300SLT|SEI300SLT|SEI300SLT|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|

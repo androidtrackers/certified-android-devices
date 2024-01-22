@@ -12020,6 +12020,11 @@
    "model": "MOTOROLA GOOGLE TV 4K"
   },
   {
+   "brand": "PEL (PAK)",
+   "name": "PEL",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "RCA",
    "name": "RCA",
    "model": "4K SMART TV"
@@ -56179,6 +56184,11 @@
    "brand": "Doogee",
    "name": "R10",
    "model": "R10"
+  },
+  {
+   "brand": "Doogee",
+   "name": "R10",
+   "model": "R10 Pro"
   }
  ],
  "M22": [
@@ -84069,6 +84079,11 @@
    "brand": "Hisense",
    "name": "Hisense U964",
    "model": "Hisense U964"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "model": "Hisense U965"
   }
  ],
  "HLTE229E_13": [
@@ -155951,6 +155966,23 @@
    "brand": "OnePlus",
    "name": "OnePlus 12",
    "model": "CPH2583"
+  }
+ ],
+ "OP5D35L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "model": "CPH2585"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "model": "CPH2609"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "model": "CPH2611"
   }
  ],
  "OnePlus6": [

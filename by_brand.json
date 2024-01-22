@@ -34561,6 +34561,11 @@
    "model": "R10"
   },
   {
+   "device": "PT1",
+   "name": "R10",
+   "model": "R10 Pro"
+  },
+  {
    "device": "M22",
    "name": "S100",
    "model": "S100"
@@ -57025,6 +57030,11 @@
    "device": "HLTE106E_02",
    "name": "Hisense U964",
    "model": "Hisense U964"
+  },
+  {
+   "device": "HLTE106E_02",
+   "name": "Hisense U964",
+   "model": "Hisense U965"
   },
   {
    "device": "HS7731ESP",
@@ -118067,6 +118077,21 @@
    "model": "CPH2583"
   },
   {
+   "device": "OP5D35L1",
+   "name": "OnePlus 12R",
+   "model": "CPH2585"
+  },
+  {
+   "device": "OP5D35L1",
+   "name": "OnePlus 12R",
+   "model": "CPH2609"
+  },
+  {
+   "device": "OP5D35L1",
+   "name": "OnePlus 12R",
+   "model": "CPH2611"
+  },
+  {
    "device": "OnePlus6",
    "name": "OnePlus 6",
    "model": "ONEPLUS A6000"
@@ -123626,6 +123651,13 @@
    "device": "PET_8040_H464S",
    "name": "PET_8040_H464S",
    "model": "PET_8040_H464S"
+  }
+ ],
+ "PEL (PAK)": [
+  {
+   "device": "lavender",
+   "name": "PEL",
+   "model": "4K SMART TV"
   }
  ],
  "PEOTV": [

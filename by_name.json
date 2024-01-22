@@ -40662,6 +40662,11 @@
    "model": "R10"
   },
   {
+   "brand": "Doogee",
+   "device": "PT1",
+   "model": "R10 Pro"
+  },
+  {
    "brand": "KGTEL",
    "device": "R10A",
    "model": "R10"
@@ -86263,6 +86268,11 @@
    "brand": "Hisense",
    "device": "HLTE106E_02",
    "model": "Hisense U964"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE106E_02",
+   "model": "Hisense U965"
   },
   {
    "brand": "Hisense",
@@ -155498,6 +155508,23 @@
    "model": "CPH2583"
   }
  ],
+ "OnePlus 12R": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2585"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2609"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2611"
+  }
+ ],
  "OnePlus 6": [
   {
    "brand": "OnePlus",
@@ -162257,6 +162284,13 @@
    "brand": "PEAQ",
    "device": "PET_8040_H464S",
    "model": "PET_8040_H464S"
+  }
+ ],
+ "PEL": [
+  {
+   "brand": "PEL (PAK)",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "SEI300SLT": [
