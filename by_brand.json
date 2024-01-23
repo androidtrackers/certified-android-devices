@@ -7361,6 +7361,11 @@
   },
   {
    "device": "wanchai",
+   "name": "Arcelik Google TV OLED",
+   "model": "Arcelik Google TV OLED"
+  },
+  {
+   "device": "wanchai",
    "name": "Arcelik Google TV QLED",
    "model": "Arcelik Google TV QLED"
   },
@@ -16190,6 +16195,11 @@
    "device": "wanchai",
    "name": "Beko Google TV",
    "model": "Beko Google TV"
+  },
+  {
+   "device": "wanchai",
+   "name": "Beko Google TV OLED",
+   "model": "Beko Google TV OLED"
   },
   {
    "device": "wanchai",
@@ -31581,6 +31591,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "DAHUA",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "DAHUA",
    "model": "2K SMART TV"
@@ -34148,6 +34163,16 @@
    "device": "DSH98123",
    "name": "Celero 5G 2.0",
    "model": "Celero5G"
+  },
+  {
+   "device": "U653DS",
+   "name": "Celero3 5G",
+   "model": "Celero3 5G"
+  },
+  {
+   "device": "U695DS",
+   "name": "Celero3 5G+",
+   "model": "Celero3 5G+"
   },
   {
    "device": "dish_cable_bcm",
@@ -40823,6 +40848,16 @@
    "device": "lavender",
    "name": "FPD",
    "model": "EcoTV Plus D"
+  },
+  {
+   "device": "mountbaker",
+   "name": "FPD",
+   "model": "EcoTV A"
+  },
+  {
+   "device": "mountbaker",
+   "name": "FPD",
+   "model": "EcoTV D"
   }
  ],
  "FPT Telecom": [
@@ -47681,6 +47716,11 @@
    "model": "Rockchip RK3288 Chromebook"
   },
   {
+   "device": "emu64xa",
+   "name": "emulator",
+   "model": "sdk_gphone64_x86_64"
+  },
+  {
    "device": "generic_64bitonly_x86_64",
    "name": "gcar emulator",
    "model": "Automotive SDK built for x86_64"
@@ -47985,6 +48025,11 @@
    "device": "wanchai",
    "name": "Grundig Google TV",
    "model": "Grundig Google TV"
+  },
+  {
+   "device": "wanchai",
+   "name": "Grundig Google TV OLED",
+   "model": "Grundig Google TV OLED"
   },
   {
    "device": "wanchai",
@@ -68610,6 +68655,11 @@
    "device": "HOT_MINI",
    "name": "HOT MINI",
    "model": "HOT MINI"
+  },
+  {
+   "device": "M30A",
+   "name": "M30A",
+   "model": "M30A"
   }
  ],
  "Hytera": [
@@ -78443,6 +78493,11 @@
  ],
  "KTC": [
   {
+   "device": "catlins",
+   "name": "EcoTV1 J",
+   "model": "EcoTV1 J"
+  },
+  {
    "device": "lavender",
    "name": "EcoTVCOL",
    "model": "EcoTV C"
@@ -78912,9 +78967,19 @@
    "model": "EcoTV FHD"
   },
   {
+   "device": "mountbaker",
+   "name": "TRIBOSS",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "VEIRA",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "VEIRA",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -78947,6 +79012,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "WESTWAY",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "WYBOR",
    "model": "4K SMART TV"
@@ -78955,6 +79025,11 @@
    "device": "lavender",
    "name": "WYBOR",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "WYBOR",
+   "model": "2K SMART TV"
   },
   {
    "device": "hongkong",
@@ -82520,6 +82595,11 @@
    "device": "K1100UA",
    "name": "K1100UA",
    "model": "K1100UA"
+  },
+  {
+   "device": "K1200UA",
+   "name": "K1200UA",
+   "model": "K1200UA"
   },
   {
    "device": "uce4027cjh",
@@ -89819,6 +89899,11 @@
    "device": "hongkong",
    "name": "LUCMOS",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "LUCOMS",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -121480,6 +121565,11 @@
    "model": "PCCT00"
   },
   {
+   "device": "OP5ABFL1",
+   "name": "Reno 11",
+   "model": "CPH2599"
+  },
+  {
    "device": "OP5AD3L1",
    "name": "Reno 11 Pro",
    "model": "CPH2607"
@@ -121575,19 +121665,9 @@
    "model": "PJH110"
   },
   {
-   "device": "OP5ABFL1",
-   "name": "Reno11",
-   "model": "CPH2599"
-  },
-  {
    "device": "OP59EFL1",
    "name": "Reno11 Pro",
    "model": "PJJ110"
-  },
-  {
-   "device": "OP5AD3L1",
-   "name": "Reno11 Pro",
-   "model": "CPH2607"
   },
   {
    "device": "OP4B65L1",
@@ -123931,6 +124011,11 @@
    "model": "2207117BPG"
   },
   {
+   "device": "emerald",
+   "name": "POCO M6 Pro",
+   "model": "2312FPCA6G"
+  },
+  {
    "device": "sky",
    "name": "POCO M6 Pro 5G",
    "model": "23076PC4BI"
@@ -123974,6 +124059,16 @@
    "device": "veux",
    "name": "POCO X4 Pro 5G",
    "model": "2201116PG"
+  },
+  {
+   "device": "garnet",
+   "name": "POCO X6 5G",
+   "model": "23122PCD1G"
+  },
+  {
+   "device": "garnet",
+   "name": "POCO X6 5G",
+   "model": "23122PCD1I"
   }
  ],
  "POOLS": [
@@ -126307,7 +126402,7 @@
  "Pepperl_Fuchs": [
   {
    "device": "Smart-Ex03",
-   "name": "Smart Ex-03",
+   "name": "Smart-Ex 03",
    "model": "Smart-Ex03"
   }
  ],
@@ -136210,6 +136305,11 @@
    "model": "2312DRAABG"
   },
   {
+   "device": "emerald",
+   "name": "Redmi Note 13 Pro",
+   "model": "23117RA68G"
+  },
+  {
    "device": "garnet",
    "name": "Redmi Note 13 Pro 5G",
    "model": "2312CRAD3C"
@@ -136220,9 +136320,29 @@
    "model": "2312DRA50C"
   },
   {
+   "device": "garnet",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50G"
+  },
+  {
+   "device": "garnet",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50I"
+  },
+  {
    "device": "zircon",
    "name": "Redmi Note 13 Pro+",
    "model": "23090RA98C"
+  },
+  {
+   "device": "zircon",
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "23090RA98G"
+  },
+  {
+   "device": "zircon",
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "23090RA98I"
   },
   {
    "device": "lavender",
@@ -190152,6 +190272,11 @@
    "model": "V2314"
   },
   {
+   "device": "V2327",
+   "name": "V30 Lite 5G",
+   "model": "V2327"
+  },
+  {
    "device": "V3Lite",
    "name": "V3Lite",
    "model": "vivo V3Lite"
@@ -190425,6 +190550,11 @@
    "device": "V2239",
    "name": "Y100",
    "model": "V2239"
+  },
+  {
+   "device": "V2327",
+   "name": "Y100 5G",
+   "model": "V2327"
   },
   {
    "device": "V2222",
@@ -198115,6 +198245,11 @@
    "model": "23116PN5BC"
   },
   {
+   "device": "shennong",
+   "name": "Xiaomi 14 Pro",
+   "model": "2311BPN23C"
+  },
+  {
    "device": "mona",
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -201647,6 +201782,11 @@
    "model": "ZTE Blade A515"
   },
   {
+   "device": "Z5201T",
+   "name": "Blade A52 Pro",
+   "model": "Blade A52 Pro"
+  },
+  {
    "device": "ZTE_T617",
    "name": "Blade A570",
    "model": "ZTE Blade A570"
@@ -203880,6 +204020,11 @@
    "device": "Z3052O",
    "name": "P501",
    "model": "P501"
+  },
+  {
+   "device": "Z3101T",
+   "name": "P503",
+   "model": "P503"
   },
   {
    "device": "P545",
@@ -206382,6 +206527,11 @@
    "model": "ZTE 8012N"
   },
   {
+   "device": "P720F05",
+   "name": "ZTE 8030",
+   "model": "ZTE 9050N"
+  },
+  {
    "device": "P963F06",
    "name": "ZTE 8030",
    "model": "ZTE 8030"
@@ -207128,6 +207278,11 @@
   },
   {
    "device": "P932F23",
+   "name": "ZTE Blade A33 Cor",
+   "model": "ZTE Blade A33 Core"
+  },
+  {
+   "device": "P932F23",
    "name": "ZTE Blade A33 Core",
    "model": "ZTE Blade A33 Core"
   },
@@ -207792,6 +207947,11 @@
    "model": "NX667J"
   },
   {
+   "device": "Z6255",
+   "name": "nubia Blade A72",
+   "model": "Z6255CA"
+  },
+  {
    "device": "P720F03_A",
    "name": "nubia Neo 5G",
    "model": "nubia 8150N"
@@ -207850,6 +208010,11 @@
    "device": "YXE",
    "name": "zBox 1",
    "model": "zBox 1"
+  },
+  {
+   "device": "P898A25",
+   "name": "中兴Axon 50 Ultra 5G",
+   "model": "ZTE A2024H"
   },
   {
    "device": "P963S71",

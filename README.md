@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-22
+Last sync is 2024-01-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1410,6 +1410,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|Arcelik Google TV|wanchai|Arcelik Google TV|
+|Arcelik|Arcelik Google TV OLED|wanchai|Arcelik Google TV OLED|
 |Arcelik|Arcelik Google TV QLED|wanchai|Arcelik Google TV QLED|
 |Arcelik|Arcelik Google TV UHD+|wanchai|Arcelik Google TV UHD+|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
@@ -3136,6 +3137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Android TV|shinagawa|Beko Android TV|
 |Beko|Beko Android TV|sinchon|Beko Android TV|
 |Beko|Beko Google TV|wanchai|Beko Google TV|
+|Beko|Beko Google TV OLED|wanchai|Beko Google TV OLED|
 |Beko|Beko Google TV QLED|wanchai|Beko Google TV QLED|
 |Beko|Beko Google TV UHD+|wanchai|Beko Google TV UHD+|
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
@@ -6107,6 +6109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|X9|X9|X9|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
 |Dahua|DAHUA|hongkong|4K SMART TV|
+|Dahua|DAHUA|mountbaker|2K SMART TV|
 |Dahua|DAHUA|stanford|2K SMART TV|
 |Dahua|DAHUA|stanford|40DSA|
 |Dahua|DAHUA|zhongshan|43FCOL|
@@ -6600,6 +6603,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|CSSL104DBL16|SL104D|SL104D|
 |Dish|Celero 5G|Jupiter|WTCELERO5G|
 |Dish|Celero 5G 2.0|DSH98123|Celero5G|
+|Dish|Celero3 5G|U653DS|Celero3 5G|
+|Dish|Celero3 5G+|U695DS|Celero3 5G+|
 |Dish|EVOLVE|dish_cable_bcm|SH960C-DS|
 |Dish|EVOLVE 2|m377_dish|EVOLVE 2|
 |Dish|Hopper Plus|SNAP2|Hopper Plus|
@@ -7863,6 +7868,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
 |FPD|FPD|lavender|EcoTV Plus D|
+|FPD|FPD|mountbaker|EcoTV A|
+|FPD|FPD|mountbaker|EcoTV D|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|FPT Play Box +|SEI500FPT|FPT Play Box +|
@@ -9177,6 +9184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
+|Google|emulator|emu64xa|sdk_gphone64_x86_64|
 |Google|gcar emulator|generic_64bitonly_x86_64|Automotive SDK built for x86_64|
 |Google|gcar emulator|generic_x86|AOSP on x86|
 |Google|gcar emulator|generic_x86|Automotive SDK built for x86|
@@ -9235,6 +9243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|Grundig Android TV|shinagawa|Grundig Android TV|
 |Grundig|Grundig Android TV|sinchon|Grundig Android TV|
 |Grundig|Grundig Google TV|wanchai|Grundig Google TV|
+|Grundig|Grundig Google TV OLED|wanchai|Grundig Google TV OLED|
 |Grundig|Grundig Google TV QLED|wanchai|Grundig Google TV QLED|
 |Grundig|Grundig Google TV UHD+|wanchai|Grundig Google TV UHD+|
 |Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
@@ -13316,6 +13325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyjoy|P11_EEA|P11_EEA|P11_EEA|
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
 |Hytel|HOT MINI|HOT_MINI|HOT MINI|
+|Hytel|M30A|M30A|M30A|
 |Hytera|PDC550|PDC550|PDC550|
 |Hytera|PDC680|PDC680|PDC680|
 |Hytera|PDC760|PDC760|PDC760|
@@ -15217,6 +15227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KT Tech||s330|KM-S330|
 |KT Tech|EV-S100|s100|EV-S100|
 |KT Tech|TAKE SUIT|e100|KM-E100|
+|KTC|EcoTV1 J|catlins|EcoTV1 J|
 |KTC|EcoTVCOL|lavender|EcoTV C|
 |KTC|EcoTVDVB|lavender|EcoTV D|
 |KTC|EcoTVISDB|lavender|EcoTV|
@@ -15310,15 +15321,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|STAR-TRACK|lavender|STAR-TRACK 4K SMART TV|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Smart TV|mountbaker|EcoTV FHD|
+|KTCtv|TRIBOSS|mountbaker|2K SMART TV|
 |KTCtv|VEIRA|lavender|4K SMART TV|
+|KTCtv|VEIRA|mountbaker|2K SMART TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|VON|stanford|2K SMART TV|
 |KTCtv|VON|zhongshan|4K SMART TV|
 |KTCtv|VOXELECTRONICS|hongkong|4K SMART TV|
 |KTCtv|VOXELECTRONICS|mountbaker|2K SMART TV|
+|KTCtv|WESTWAY|mountbaker|2K SMART TV|
 |KTCtv|WYBOR|hongkong|4K SMART TV|
 |KTCtv|WYBOR|lavender|4K SMART TV|
+|KTCtv|WYBOR|mountbaker|2K SMART TV|
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
 |KTCtv|YARA|hongkong|4K SMART TV|
@@ -16002,6 +16017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEVEL TV|Smart TV|osaki|2K AI Smart TV|
 |LEYO|EY-TAB8161G|EY-TAB8161G|EY-TAB8161G|
 |LG HelloVision|K1100UA|K1100UA|K1100UA|
+|LG HelloVision|K1200UA|K1200UA|K1200UA|
 |LG HelloVision|T1100UA|uce4027cjh|T1100UA|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
@@ -17455,6 +17471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
 |LUCOMS|LUCMOS|hongkong|4K SMART TV|
+|LUCOMS|LUCOMS|mountbaker|2K SMART TV|
 |LUCOMS|LUCOMS|stanford|2K SMART TV|
 |LUCOMS|LUCOMS|zhongshan|4K SMART TV|
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
@@ -23622,6 +23639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10x room|OP4847|CPH1921|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCM00|
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
+|Oppo|Reno 11|OP5ABFL1|CPH2599|
 |Oppo|Reno 11 Pro|OP5AD3L1|CPH2607|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
@@ -23641,9 +23659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno10 Pro 5G|OP56DBL1|CPH2541|
 |Oppo|Reno10 Pro+ 5G|OP56D3L1|CPH2521|
 |Oppo|Reno11|OP59EDL1|PJH110|
-|Oppo|Reno11|OP5ABFL1|CPH2599|
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
-|Oppo|Reno11 Pro|OP5AD3L1|CPH2607|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -24095,6 +24111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M5|rock|22071219CI|
 |POCO|POCO M5|stone|22071219CG|
 |POCO|POCO M5s|rosemary|2207117BPG|
+|POCO|POCO M6 Pro|emerald|2312FPCA6G|
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
@@ -24104,6 +24121,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X4 GT|xaga|22041216G|
 |POCO|POCO X4 Pro 5G|peux|2201116PI|
 |POCO|POCO X4 Pro 5G|veux|2201116PG|
+|POCO|POCO X6 5G|garnet|23122PCD1G|
+|POCO|POCO X6 5G|garnet|23122PCD1I|
 |POOLS|POOLS The DOLLAR|POOLS_The_DOLLAR|POOLS_The_DOLLAR|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
 |POPTEL|P60|P60|P60|
@@ -24558,7 +24577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0552|PENTA_83AAQ2|PENTA_83AAQ2|
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
-|Pepperl_Fuchs|Smart Ex-03|Smart-Ex03|Smart-Ex03|
+|Pepperl_Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
 |Performance|T7|T7|T7|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T9|T9|T9|
@@ -26486,9 +26505,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 5G|gold|2312DRAABC|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABI|
 |Redmi|Redmi Note 13 5G|iron|2312DRAABG|
+|Redmi|Redmi Note 13 Pro|emerald|23117RA68G|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312CRAD3C|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50C|
+|Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50G|
+|Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50I|
 |Redmi|Redmi Note 13 Pro+|zircon|23090RA98C|
+|Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98G|
+|Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98I|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -37034,6 +37058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V30 Lite|V2317|V2314|
+|Vivo|V30 Lite 5G|V2327|V2327|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
 |Vivo|V3M A|PD1524B|vivo PD1524B|
 |Vivo|V3Max|V3Max|vivo V3Max|
@@ -37089,6 +37114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y02t|V2254|V2325|
 |Vivo|Y100|PD2313|V2313A|
 |Vivo|Y100|V2239|V2239|
+|Vivo|Y100 5G|V2327|V2327|
 |Vivo|Y100A|V2222|V2222|
 |Vivo|Y11|PD2236|V2236A|
 |Vivo|Y11|Y11|vivo Y11|
@@ -38585,6 +38611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 13T Pro|corot|A301XM|
 |Xiaomi|Xiaomi 14|houji|23127PN0CC|
 |Xiaomi|Xiaomi 14 Pro|shennong|23116PN5BC|
+|Xiaomi|Xiaomi 14 Pro|shennong|2311BPN23C|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|
@@ -39269,6 +39296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A511|ZTE_Blade_A511|Blade A511|
 |ZTE|Blade A511|ZTE_Blade_A511|ZTE Blade A511|
 |ZTE|Blade A515|ZTE_Blade_A511|ZTE Blade A515|
+|ZTE|Blade A52 Pro|Z5201T|Blade A52 Pro|
 |ZTE|Blade A570|ZTE_T617|ZTE Blade A570|
 |ZTE|Blade A7 2019-T|Z6100T|Blade A7 2019-T|
 |ZTE|Blade A7S 2020-T|Z6350T|Blade A7S 2020-T|
@@ -39716,6 +39744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Orange Zali|nice|Orange Zali|
 |ZTE|Own One|P635A20|Own One|
 |ZTE|P501|Z3052O|P501|
+|ZTE|P503|Z3101T|P503|
 |ZTE|P545|P545|P545|
 |ZTE|P600|P963F80|P600|
 |ZTE|P601|P963F80|P601|
@@ -40216,6 +40245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE 8010RU|P963F05|ZTE 8010RU|
 |ZTE|ZTE 8012N|P653S06|ZTE 8012N|
+|ZTE|ZTE 8030|P720F05|ZTE 9050N|
 |ZTE|ZTE 8030|P963F06|ZTE 8030|
 |ZTE|ZTE 8030|P963F06|ZTE 8031|
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
@@ -40365,6 +40395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A31RU|P963F71|ZTE Blade A31RU|
 |ZTE|ZTE Blade A32|P963F90W|ZTE Blade A32|
 |ZTE|ZTE Blade A33|P932F22|ZTE Blade A33|
+|ZTE|ZTE Blade A33 Cor|P932F23|ZTE Blade A33 Core|
 |ZTE|ZTE Blade A33 Core|P932F23|ZTE Blade A33 Core|
 |ZTE|ZTE Blade A33+|P963F91|ZTE Blade A33+|
 |ZTE|ZTE Blade A33+ Core|P963F92|ZTE Blade A33+ Core|
@@ -40498,6 +40529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|Amazing_P5|
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
+|ZTE|nubia Blade A72|Z6255|Z6255CA|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Play|NX651J|NX651J|
@@ -40510,6 +40542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a60|kiska|tmn smart a60|
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
 |ZTE|zBox 1|YXE|zBox 1|
+|ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
 |ZUKU|A151|A155|A151|

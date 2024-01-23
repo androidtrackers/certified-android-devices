@@ -12823,6 +12823,21 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV A"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV D"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV"
@@ -12924,7 +12939,27 @@
   },
   {
    "brand": "KTCtv",
+   "name": "TRIBOSS",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VEIRA",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "VOXELECTRONICS",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WESTWAY",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
    "model": "2K SMART TV"
   },
   {
@@ -12946,6 +12981,11 @@
    "brand": "Kenwood",
    "name": "Kenwood",
    "model": "KENWOOD ISDB 2K TV"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "model": "2K SMART TV"
   },
   {
    "brand": "Mango",
@@ -18227,6 +18267,11 @@
   },
   {
    "brand": "Arcelik",
+   "name": "Arcelik Google TV OLED",
+   "model": "Arcelik Google TV OLED"
+  },
+  {
+   "brand": "Arcelik",
    "name": "Arcelik Google TV QLED",
    "model": "Arcelik Google TV QLED"
   },
@@ -18242,6 +18287,11 @@
   },
   {
    "brand": "Beko",
+   "name": "Beko Google TV OLED",
+   "model": "Beko Google TV OLED"
+  },
+  {
+   "brand": "Beko",
    "name": "Beko Google TV QLED",
    "model": "Beko Google TV QLED"
   },
@@ -18254,6 +18304,11 @@
    "brand": "Grundig",
    "name": "Grundig Google TV",
    "model": "Grundig Google TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Google TV OLED",
+   "model": "Grundig Google TV OLED"
   },
   {
    "brand": "Grundig",
@@ -55611,6 +55666,20 @@
    "model": "Celero5G"
   }
  ],
+ "U653DS": [
+  {
+   "brand": "Dish",
+   "name": "Celero3 5G",
+   "model": "Celero3 5G"
+  }
+ ],
+ "U695DS": [
+  {
+   "brand": "Dish",
+   "name": "Celero3 5G+",
+   "model": "Celero3 5G+"
+  }
+ ],
  "dish_cable_bcm": [
   {
    "brand": "Dish",
@@ -73105,6 +73174,13 @@
    "brand": "Google",
    "name": "Rockchip RK3288 Chromebook",
    "model": "Rockchip RK3288 Chromebook"
+  }
+ ],
+ "emu64xa": [
+  {
+   "brand": "Google",
+   "name": "emulator",
+   "model": "sdk_gphone64_x86_64"
   }
  ],
  "generic_64bitonly_x86_64": [
@@ -97168,6 +97244,13 @@
    "model": "HOT MINI"
   }
  ],
+ "M30A": [
+  {
+   "brand": "Hytel",
+   "name": "M30A",
+   "model": "M30A"
+  }
+ ],
  "PDC550": [
   {
    "brand": "Hytera",
@@ -108607,6 +108690,13 @@
    "model": "KM-E100"
   }
  ],
+ "catlins": [
+  {
+   "brand": "KTC",
+   "name": "EcoTV1 J",
+   "model": "EcoTV1 J"
+  }
+ ],
  "BLISS503": [
   {
    "brand": "KTC (PD)",
@@ -112924,6 +113014,13 @@
    "brand": "sky HCN",
    "name": "KSTB1157",
    "model": "KSTB1157"
+  }
+ ],
+ "K1200UA": [
+  {
+   "brand": "LG HelloVision",
+   "name": "K1200UA",
+   "model": "K1200UA"
   }
  ],
  "uce4027cjh": [
@@ -159975,15 +160072,17 @@
    "model": "PCCT00"
   }
  ],
+ "OP5ABFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno 11",
+   "model": "CPH2599"
+  }
+ ],
  "OP5AD3L1": [
   {
    "brand": "Oppo",
    "name": "Reno 11 Pro",
-   "model": "CPH2607"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno11 Pro",
    "model": "CPH2607"
   }
  ],
@@ -160096,13 +160195,6 @@
    "brand": "Oppo",
    "name": "Reno11",
    "model": "PJH110"
-  }
- ],
- "OP5ABFL1": [
-  {
-   "brand": "Oppo",
-   "name": "Reno11",
-   "model": "CPH2599"
   }
  ],
  "OP59EFL1": [
@@ -163328,6 +163420,18 @@
    "model": "2207117BPG"
   }
  ],
+ "emerald": [
+  {
+   "brand": "POCO",
+   "name": "POCO M6 Pro",
+   "model": "2312FPCA6G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro",
+   "model": "23117RA68G"
+  }
+ ],
  "sky": [
   {
    "brand": "POCO",
@@ -163414,6 +163518,38 @@
    "brand": "Redmi",
    "name": "Redmi Note 11E Pro",
    "model": "2201116SC"
+  }
+ ],
+ "garnet": [
+  {
+   "brand": "POCO",
+   "name": "POCO X6 5G",
+   "model": "23122PCD1G"
+  },
+  {
+   "brand": "POCO",
+   "name": "POCO X6 5G",
+   "model": "23122PCD1I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312CRAD3C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "2312DRA50I"
   }
  ],
  "POOLS_The_DOLLAR": [
@@ -166154,7 +166290,7 @@
  "Smart-Ex03": [
   {
    "brand": "Pepperl_Fuchs",
-   "name": "Smart Ex-03",
+   "name": "Smart-Ex 03",
    "model": "Smart-Ex03"
   }
  ],
@@ -177514,23 +177650,21 @@
    "model": "2312DRAABG"
   }
  ],
- "garnet": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 13 Pro 5G",
-   "model": "2312CRAD3C"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 13 Pro 5G",
-   "model": "2312DRA50C"
-  }
- ],
  "zircon": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 13 Pro+",
    "model": "23090RA98C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "23090RA98G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "23090RA98I"
   }
  ],
  "biloba": [
@@ -240389,6 +240523,18 @@
    "model": "vivo V3"
   }
  ],
+ "V2327": [
+  {
+   "brand": "Vivo",
+   "name": "V30 Lite 5G",
+   "model": "V2327"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y100 5G",
+   "model": "V2327"
+  }
+ ],
  "V3Lite": [
   {
    "brand": "Vivo",
@@ -249482,6 +249628,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 14 Pro",
    "model": "23116PN5BC"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Pro",
+   "model": "2311BPN23C"
   }
  ],
  "mona": [
@@ -253986,6 +254137,11 @@
    "brand": "ZTE",
    "name": "Blade A3 SE",
    "model": "Blade A3 SE"
+  },
+  {
+   "brand": "ZTE",
+   "name": "P503",
+   "model": "P503"
   }
  ],
  "Z3052T": [
@@ -254155,6 +254311,13 @@
    "brand": "ZTE",
    "name": "Blade A515",
    "model": "ZTE Blade A515"
+  }
+ ],
+ "Z5201T": [
+  {
+   "brand": "ZTE",
+   "name": "Blade A52 Pro",
+   "model": "Blade A52 Pro"
   }
  ],
  "ZTE_T617": [
@@ -258987,6 +259150,18 @@
    "model": "ZTE 8012N"
   }
  ],
+ "P720F05": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030",
+   "model": "ZTE 9050N"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9050N",
+   "model": "ZTE 9050N"
+  }
+ ],
  "P633S01": [
   {
    "brand": "ZTE",
@@ -259098,13 +259273,6 @@
    "brand": "ZTE",
    "name": "ZTE 9047",
    "model": "ZTE 9047"
-  }
- ],
- "P720F05": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE 9050N",
-   "model": "ZTE 9050N"
   }
  ],
  "P633F05": [
@@ -259641,6 +259809,11 @@
   }
  ],
  "P932F23": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33 Cor",
+   "model": "ZTE Blade A33 Core"
+  },
   {
    "brand": "ZTE",
    "name": "ZTE Blade A33 Core",
@@ -260210,6 +260383,13 @@
    "model": "NX667J"
   }
  ],
+ "Z6255": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Blade A72",
+   "model": "Z6255CA"
+  }
+ ],
  "P720F03_A": [
   {
    "brand": "ZTE",
@@ -260257,6 +260437,13 @@
    "brand": "ZTE",
    "name": "zBox 1",
    "model": "zBox 1"
+  }
+ ],
+ "P898A25": [
+  {
+   "brand": "ZTE",
+   "name": "中兴Axon 50 Ultra 5G",
+   "model": "ZTE A2024H"
   }
  ],
  "P963S71": [
