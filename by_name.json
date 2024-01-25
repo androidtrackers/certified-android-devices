@@ -34374,6 +34374,11 @@
   {
    "brand": "Blaupunkt",
    "device": "ewha",
+   "model": "AQUOS-TVE19I"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "ewha",
    "model": "BLAU-TVE19I"
   },
   {
@@ -39359,6 +39364,11 @@
   {
    "brand": "Bush",
    "device": "ewha",
+   "model": "AQUOS-TVE19L"
+  },
+  {
+   "brand": "Bush",
+   "device": "ewha",
    "model": "BUSH-TVE19L"
   }
  ],
@@ -39725,16 +39735,6 @@
    "brand": "CAIXUN",
    "device": "yeongdeungpo",
    "model": "AiPlus4K"
-  },
-  {
-   "brand": "EVOFORCE1",
-   "device": "SEI800MOBI",
-   "model": "FRC1-MOBI"
-  },
-  {
-   "brand": "EVOFORCE1",
-   "device": "SEI800MOBI",
-   "model": "MOBI-Buckeye"
   },
   {
    "brand": "Ematic",
@@ -60127,6 +60127,11 @@
   {
    "brand": "JVC",
    "device": "bruno",
+   "model": "JVC UK 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "bruno",
    "model": "JVC2KAndroid TV"
   },
   {
@@ -61332,7 +61337,19 @@
    "model": "FRC1-TDS"
   }
  ],
- "USA&Canada": [
+ "MOBI-Buckeye": [
+  {
+   "brand": "EVOFORCE1",
+   "device": "SEI800MOBI",
+   "model": "FRC1-MOBI"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "device": "SEI800MOBI",
+   "model": "MOBI-Buckeye"
+  }
+ ],
+ "MOBI-SECTV": [
   {
    "brand": "EVOFORCE1",
    "device": "SEI800MOBI",
@@ -66071,6 +66088,11 @@
    "brand": "FPD",
    "device": "lavender",
    "model": "EcoTV Plus D"
+  },
+  {
+   "brand": "FPD",
+   "device": "lavender",
+   "model": "EcoTV Plus I"
   },
   {
    "brand": "FPD",
@@ -110308,6 +110330,13 @@
    "model": "SMART TV"
   }
  ],
+ "DAIWA": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "DANILUX": [
   {
    "brand": "KTCtv",
@@ -111597,6 +111626,13 @@
    "brand": "Karbonn",
    "device": "ST101",
    "model": "ST101"
+  }
+ ],
+ "ST102": [
+  {
+   "brand": "Karbonn",
+   "device": "ST102",
+   "model": "ST102"
   }
  ],
  "Sparkle V": [
@@ -142117,6 +142153,13 @@
    "model": "Halona"
   }
  ],
+ "H5111": [
+  {
+   "brand": "Mobiwire",
+   "device": "H5111",
+   "model": "H5111"
+  }
+ ],
  "H6511": [
   {
    "brand": "Mobiwire",
@@ -142395,6 +142438,13 @@
    "brand": "Mobiwire",
    "device": "Telstra_Lite_Plus",
    "model": "Telstra Lite Plus"
+  }
+ ],
+ "V Smart 2": [
+  {
+   "brand": "Mobiwire",
+   "device": "V_Smart_2",
+   "model": "V Smart 2"
   }
  ],
  "V.40": [
@@ -155455,6 +155505,40 @@
    "model": "OneLernDB010"
   }
  ],
+ "12": [
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2573"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2581"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2583"
+  }
+ ],
+ "12R": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2585"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2609"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2611"
+  }
+ ],
  "2": [
   {
    "brand": "OnePlus",
@@ -155608,33 +155692,13 @@
    "brand": "OnePlus",
    "device": "OP5929L1",
    "model": "PJD110"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP595DL1",
-   "model": "CPH2581"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP595DL1",
-   "model": "CPH2583"
   }
  ],
  "OnePlus 12R": [
   {
    "brand": "OnePlus",
    "device": "OP5D35L1",
-   "model": "CPH2585"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP5D35L1",
    "model": "CPH2609"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP5D35L1",
-   "model": "CPH2611"
   }
  ],
  "OnePlus 6": [
@@ -165970,6 +166034,11 @@
    "brand": "Philips",
    "device": "TLE722G",
    "model": "TLE722G"
+  },
+  {
+   "brand": "Philips",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "PHILIPS TV": [
@@ -168135,6 +168204,11 @@
    "brand": "Polaroid",
    "device": "bruno",
    "model": "Polaroid 2K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "device": "ewha",
+   "model": "AQUOS-TVE19K"
   },
   {
    "brand": "Polaroid",
@@ -172668,6 +172742,11 @@
   }
  ],
  "QBELL": [
+  {
+   "brand": "QBell",
+   "device": "lavender",
+   "model": "QBELL 4K Android TV"
+  },
   {
    "brand": "QBell",
    "device": "stanford",
@@ -179411,6 +179490,11 @@
   }
  ],
  "SVISION": [
+  {
+   "brand": "S Vision",
+   "device": "lavender",
+   "model": "SVISION 4K Android TV"
+  },
   {
    "brand": "S Vision",
    "device": "zhongshan",
@@ -211588,6 +211672,13 @@
    "model": "V2sPLUSNC_TR"
   }
  ],
+ "V3 MIX": [
+  {
+   "brand": "Sunmi",
+   "device": "V3_MIX",
+   "model": "V3_MIX_EDLA_GL"
+  }
+ ],
  "SN01DNGL300": [
   {
    "brand": "Sunny",
@@ -226371,6 +226462,11 @@
    "brand": "Tecno",
    "device": "TECNO-KJ5n",
    "model": "TECNO KJ5n"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KJ5s",
+   "model": "TECNO KJ5s"
   }
  ],
  "TECNO SPARK 20 Pro": [
@@ -227704,6 +227800,11 @@
   }
  ],
  "Technika": [
+  {
+   "brand": "Tesco",
+   "device": "ewha",
+   "model": "AQUOS-TVE19J"
+  },
   {
    "brand": "Tesco",
    "device": "ewha",
@@ -249908,6 +250009,13 @@
    "brand": "ZTE",
    "device": "Z6561S",
    "model": "A302ZT"
+  }
+ ],
+ "A303ZT": [
+  {
+   "brand": "ZTE",
+   "device": "Z6576S",
+   "model": "A303ZT"
   }
  ],
  "AV-ATB100": [

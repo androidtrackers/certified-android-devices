@@ -9802,6 +9802,11 @@
   {
    "brand": "JVC",
    "name": "JVC",
+   "model": "JVC UK 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
    "model": "JVC2KAndroid TV"
   },
   {
@@ -11900,6 +11905,11 @@
    "model": "EcoTV Plus D"
   },
   {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Plus I"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV 4K"
@@ -11937,6 +11947,11 @@
   {
    "brand": "KTCtv",
    "name": "COLORVIEW",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAIWA",
    "model": "4K SMART TV"
   },
   {
@@ -12025,6 +12040,16 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "QBELL",
+   "model": "QBELL 4K Android TV"
+  },
+  {
    "brand": "RCA",
    "name": "RCA",
    "model": "4K SMART TV"
@@ -12043,6 +12068,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
+  },
+  {
+   "brand": "S Vision",
+   "name": "SVISION",
+   "model": "SVISION 4K Android TV"
   },
   {
    "brand": "VOXelectronics",
@@ -33768,12 +33798,27 @@
   {
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
+   "model": "AQUOS-TVE19I"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
    "model": "BLAU-TVE19I"
   },
   {
    "brand": "Bush",
    "name": "BUSH",
+   "model": "AQUOS-TVE19L"
+  },
+  {
+   "brand": "Bush",
+   "name": "BUSH",
    "model": "BUSH-TVE19L"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "AQUOS-TVE19K"
   },
   {
    "brand": "Polaroid",
@@ -33794,6 +33839,11 @@
    "brand": "Sharp",
    "name": "Sharp",
    "model": "AQUOS-TVE21B"
+  },
+  {
+   "brand": "Tesco",
+   "name": "Technika",
+   "model": "AQUOS-TVE19J"
   },
   {
    "brand": "Tesco",
@@ -59554,22 +59604,22 @@
   },
   {
    "brand": "EVOFORCE1",
-   "name": "USA",
+   "name": "MOBI-Buckeye",
    "model": "FRC1-MOBI"
   },
   {
    "brand": "EVOFORCE1",
-   "name": "USA",
+   "name": "MOBI-Buckeye",
    "model": "MOBI-Buckeye"
   },
   {
    "brand": "EVOFORCE1",
-   "name": "USA&Canada",
+   "name": "MOBI-SECTV",
    "model": "FRC1-MOBI"
   },
   {
    "brand": "EVOFORCE1",
-   "name": "USA&Canada",
+   "name": "MOBI-SECTV",
    "model": "MOBI-SECTV"
   }
  ],
@@ -109449,6 +109499,13 @@
    "model": "ST101"
   }
  ],
+ "ST102": [
+  {
+   "brand": "Karbonn",
+   "name": "ST102",
+   "model": "ST102"
+  }
+ ],
  "Sparkle_V_sprout": [
   {
    "brand": "Karbonn",
@@ -142132,6 +142189,13 @@
    "model": "Halona"
   }
  ],
+ "H5111": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111",
+   "model": "H5111"
+  }
+ ],
  "H6511": [
   {
    "brand": "Mobiwire",
@@ -142384,6 +142448,13 @@
    "brand": "Mobiwire",
    "name": "Telstra Lite Plus",
    "model": "Telstra Lite Plus"
+  }
+ ],
+ "V_Smart_2": [
+  {
+   "brand": "Mobiwire",
+   "name": "V Smart 2",
+   "model": "V Smart 2"
   }
  ],
  "Nextel": [
@@ -155864,6 +155935,45 @@
    "model": "OneLernDB010"
   }
  ],
+ "OP595DL1": [
+  {
+   "brand": "OnePlus",
+   "name": "12",
+   "model": "CPH2573"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "12",
+   "model": "CPH2581"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "12",
+   "model": "CPH2583"
+  }
+ ],
+ "OP5D35L1": [
+  {
+   "brand": "OnePlus",
+   "name": "12R",
+   "model": "CPH2585"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "12R",
+   "model": "CPH2609"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "12R",
+   "model": "CPH2611"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "model": "CPH2609"
+  }
+ ],
  "OnePlus2": [
   {
    "brand": "OnePlus",
@@ -156051,35 +156161,6 @@
    "brand": "OnePlus",
    "name": "OnePlus 12",
    "model": "PJD110"
-  }
- ],
- "OP595DL1": [
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 12",
-   "model": "CPH2581"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 12",
-   "model": "CPH2583"
-  }
- ],
- "OP5D35L1": [
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 12R",
-   "model": "CPH2585"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 12R",
-   "model": "CPH2609"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 12R",
-   "model": "CPH2611"
   }
  ],
  "OnePlus6": [
@@ -214090,6 +214171,13 @@
    "model": "V2sPLUSNC_TR"
   }
  ],
+ "V3_MIX": [
+  {
+   "brand": "Sunmi",
+   "name": "V3 MIX",
+   "model": "V3_MIX_EDLA_GL"
+  }
+ ],
  "SN10016": [
   {
    "brand": "Sunny",
@@ -228449,6 +228537,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 20",
    "model": "TECNO KJ5n"
+  }
+ ],
+ "TECNO-KJ5s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20",
+   "model": "TECNO KJ5s"
   }
  ],
  "TECNO-KJ6": [
@@ -252954,6 +253049,13 @@
    "brand": "ZTE",
    "name": "A302ZT",
    "model": "A302ZT"
+  }
+ ],
+ "Z6576S": [
+  {
+   "brand": "ZTE",
+   "name": "A303ZT",
+   "model": "A303ZT"
   }
  ],
  "ZTE-A880": [

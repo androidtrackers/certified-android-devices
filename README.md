@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-24
+Last sync is 2024-01-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3594,6 +3594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BP_T6110X|BP_T6110X|BP_T6110X|
 |Blaupunkt|Blaupunk|stanford|Blaupunkt 2K Android TV|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
+|Blaupunkt|Blaupunkt|ewha|AQUOS-TVE19I|
 |Blaupunkt|Blaupunkt|ewha|BLAU-TVE19I|
 |Blaupunkt|Blaupunkt|expo|4K Blaupunkt Google TV|
 |Blaupunkt|Blaupunkt|kaitak|Blaupunkt Google TV|
@@ -4205,6 +4206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bunbungame|MiSS|MiSS|MiSS|
 |Bundy Mobile|BTOUCH7_PLUS|BTOUCH7_PLUS|BTOUCH7_PLUS|
 |Bush|5 android|ac50cpl|Bush 5 Android|
+|Bush|BUSH|ewha|AQUOS-TVE19L|
 |Bush|BUSH|ewha|BUSH-TVE19L|
 |Bush|BUSH SPIRA B3 10 TABLET|ac101boxv2|BUSH SPIRA B3 10 TABLET|
 |Bush|BUSH SPIRA B3 10 TABLET|ac101boxv3|BUSH SPIRA B3 10 TABLET|
@@ -7198,10 +7200,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
 |EVOFORCE1|FRC1-SECV|SEI800SECV|FRC1-SECV|
 |EVOFORCE1|FRC1-TDS|SEI800TDS|FRC1-TDS|
-|EVOFORCE1|USA|SEI800MOBI|FRC1-MOBI|
-|EVOFORCE1|USA|SEI800MOBI|MOBI-Buckeye|
-|EVOFORCE1|USA&Canada|SEI800MOBI|FRC1-MOBI|
-|EVOFORCE1|USA&Canada|SEI800MOBI|MOBI-SECTV|
+|EVOFORCE1|MOBI-Buckeye|SEI800MOBI|FRC1-MOBI|
+|EVOFORCE1|MOBI-Buckeye|SEI800MOBI|MOBI-Buckeye|
+|EVOFORCE1|MOBI-SECTV|SEI800MOBI|FRC1-MOBI|
+|EVOFORCE1|MOBI-SECTV|SEI800MOBI|MOBI-SECTV|
 |EVOPRO|EVOPRO|SEI500EV|EVOPRO|
 |EVVO|Android TV|R1|ATV R1|
 |EVVO|Android TV|R2|ATV R2|
@@ -7868,6 +7870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
 |FPD|FPD|lavender|EcoTV Plus D|
+|FPD|FPD|lavender|EcoTV Plus I|
 |FPD|FPD|mountbaker|EcoTV A|
 |FPD|FPD|mountbaker|EcoTV D|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
@@ -14867,6 +14870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bangbae|JVC 4K Android TV|
 |JVC|JVC|bangbae|JVC EU 4K Android TV|
 |JVC|JVC|bruno|JVC PA 2K Android TV|
+|JVC|JVC|bruno|JVC UK 2K Android TV|
 |JVC|JVC|bruno|JVC2KAndroid TV|
 |JVC|JVC|expo|JVCPA 4KAndroid TV|
 |JVC|JVC|expo|JVCSA 4KGoogle TV|
@@ -15249,6 +15253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|COLORVIEW|lavender|4K SMART TV|
 |KTCtv|COLORVIEW|mountbaker|2K SMART TV|
 |KTCtv|CONTINUUS|stanford|SMART TV|
+|KTCtv|DAIWA|lavender|4K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
 |KTCtv|DIGGIO|hongkong|DIGGIO GOOGLE TV 4K|
@@ -15454,6 +15459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karbonn|Platinum P9|Platinum_P9|Platinum P9|
 |Karbonn|Platinum P9 Pro|Platinum_P9_Pro|Platinum P9 Pro|
 |Karbonn|ST101|ST101|ST101|
+|Karbonn|ST102|ST102|ST102|
 |Karbonn|Sparkle V|Sparkle_V_sprout|Sparkle V|
 |Karbonn|Titanium Frames S7|Titanium_Frames_S7|Titanium Frames S7|
 |Karbonn|Titanium Jumbo|Titanium_Jumbo|Titanium Jumbo|
@@ -20635,6 +20641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Cygnus mini|Cygnus_mini|Cygnus mini|
 |Mobiwire|Cygnus mini|Cygnus_mini|Cygnus_mini|
 |Mobiwire|H|Halona|Halona|
+|Mobiwire|H5111|H5111|H5111|
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6821|H6821|H6821|
 |Mobiwire|HALONA|Halona|Halona|
@@ -20679,6 +20686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
 |Mobiwire|Telstra Lite Plus|Telstra_Lite_Plus|Telstra Lite Plus|
+|Mobiwire|V Smart 2|V_Smart_2|V Smart 2|
 |Mobiwire|V.40|Nextel|V.40|
 |Mobiwire|V.45|VSN|V.45S|
 |Mobiwire|VSN V.45|up06_h26_v45|V.45|
@@ -22932,6 +22940,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OneClick|X1|X1|X1|
 |OneLern|OneLernDB009|OneLernDB009|OneLernDB009|
 |OneLern|OneLernDB010|OneLernDB010|OneLernDB010|
+|OnePlus|12|OP595DL1|CPH2573|
+|OnePlus|12|OP595DL1|CPH2581|
+|OnePlus|12|OP595DL1|CPH2583|
+|OnePlus|12R|OP5D35L1|CPH2585|
+|OnePlus|12R|OP5D35L1|CPH2609|
+|OnePlus|12R|OP5D35L1|CPH2611|
 |OnePlus|2|OnePlus2|ONE A2003|
 |OnePlus|3|OnePlus3|ONEPLUS A3000|
 |OnePlus|C00|Cebu|C00|
@@ -22960,11 +22974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 11 5G 中国版|OP591BL1|PHB110|
 |OnePlus|OnePlus 11R 5G|OP5961L1|CPH2487|
 |OnePlus|OnePlus 12|OP5929L1|PJD110|
-|OnePlus|OnePlus 12|OP595DL1|CPH2581|
-|OnePlus|OnePlus 12|OP595DL1|CPH2583|
-|OnePlus|OnePlus 12R|OP5D35L1|CPH2585|
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2609|
-|OnePlus|OnePlus 12R|OP5D35L1|CPH2611|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -24634,6 +24644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Mediasuite|PH8M_HE_5596|TPM191HN|
 |Philips|NeoViu D1|GMP|NeoViu D1|
 |Philips|PHILIPS|TLE722G|TLE722G|
+|Philips|PHILIPS|lavender|4K SMART TV|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
 |Philips|PHP-S231C4AFD|G3SMNTS23|G3SMNTS23|
@@ -24974,6 +24985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|Phantom 5|Phantom5|PRO5023|
 |Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
 |Polaroid|Polaroid|bruno|Polaroid 2K Android TV|
+|Polaroid|Polaroid|ewha|AQUOS-TVE19K|
 |Polaroid|Polaroid|ewha|POLA-TVE19K|
 |Polaroid|Polaroid|komagome|Polaroid 2K Android TV|
 |Polaroid|Polaroid|shilin|Polaroid4KAndroidTV|
@@ -25696,6 +25708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QBell|Italy|guandu|Qbell 4K Android TV|
 |QBell|Italy|tamachi|Qbell FHD Android TV|
 |QBell|Italy|yeongdeungpo|Qbell UHD Android TV|
+|QBell|QBELL|lavender|QBELL 4K Android TV|
 |QBell|QBELL|stanford|QBELL 2K Android TV|
 |QBell|QBELL|zhongshan|QBELL 4K Android TV|
 |QBell|QBell|bangbae|QBell 4K Android TV|
@@ -26765,6 +26778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S Vision|EU、UK、AP|martin|SVISION 2K Android TV|
 |S Vision|"Japan|USA|Australia|
 |S Vision|S android TV|hanyang|Svision Android TV|
+|S Vision|SVISION|lavender|SVISION 4K Android TV|
 |S Vision|SVISION|zhongshan|4K SMART TV|
 |S&T Global|8788_7|8788_7|8788_7|
 |S&T Global|C20|C20|C20|
@@ -32404,6 +32418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_GL|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_RU|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_TR|
+|Sunmi|V3 MIX|V3_MIX|V3_MIX_EDLA_GL|
 |Sunny|SN01DNGL300|YQB|SN01DNGL300|
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
@@ -34994,6 +35009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
 |Tecno|TECNO SPARK 20|TECNO-KJ5|TECNO KJ5|
 |Tecno|TECNO SPARK 20|TECNO-KJ5n|TECNO KJ5n|
+|Tecno|TECNO SPARK 20|TECNO-KJ5s|TECNO KJ5s|
 |Tecno|TECNO SPARK 20 Pro|TECNO-KJ6|TECNO KJ6|
 |Tecno|TECNO SPARK 20 Pro+|TECNO-KJ7|TECNO KJ7|
 |Tecno|TECNO SPARK 20C|TECNO-BG7|TECNO BG7|
@@ -35220,6 +35236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesco|Hudl 2|HTF8A4|Hudl 2|
 |Tesco|Hudl HT7S3|ht7s3|Hudl HT7S3|
 |Tesco|Hudl HT7S3|ht7s3|hudl ht7s3|
+|Tesco|Technika|ewha|AQUOS-TVE19J|
 |Tesco|Technika|ewha|TECH-TVE19J|
 |Tesco|W032I_C3|w032i_c3|W032I_C3|
 |Tesco|hudl 2|HTF8A4|Hudl 2|
@@ -39100,6 +39117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A2018|candice|ZTE A2018|
 |ZTE|A202ZT|Z6575S|A202ZT|
 |ZTE|A302ZT|Z6561S|A302ZT|
+|ZTE|A303ZT|Z6576S|A303ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|
