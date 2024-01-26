@@ -10329,6 +10329,11 @@
    "model": "ASUS_AI2203_D"
   },
   {
+   "device": "ASUS_AI2203",
+   "name": "ROG Phone 6D series",
+   "model": "ASUS_AI2203_B"
+  },
+  {
    "device": "ASUS_AI2205",
    "name": "ROG Phone 7 series",
    "model": "ASUS_AI2205_A"
@@ -10372,11 +10377,6 @@
    "device": "ASUS_I001_1",
    "name": "ROG Phone II",
    "model": "ZS660KL"
-  },
-  {
-   "device": "ASUS_AI2203",
-   "name": "ROG6 天玑系列",
-   "model": "ASUS_AI2203_B"
   },
   {
    "device": "RTC-tablet",
@@ -58770,6 +58770,11 @@
    "device": "HND",
    "name": "SEI600HM",
    "model": "Box Q"
+  },
+  {
+   "device": "SEI700HMG",
+   "name": "SEI700HMG",
+   "model": "Dongle 4K"
   }
  ],
  "Home Elite": [
@@ -70734,6 +70739,18 @@
    "model": "SKYWORTH-HY4002"
   }
  ],
+ "Ice": [
+  {
+   "device": "stanford",
+   "name": "ICE",
+   "model": "SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "ICE",
+   "model": "Smart UHD TV"
+  }
+ ],
  "Ice Phone": [
   {
    "device": "ice_phone_mini",
@@ -78767,16 +78784,6 @@
    "model": "2K SMART TV"
   },
   {
-   "device": "stanford",
-   "name": "ICE",
-   "model": "SMART TV"
-  },
-  {
-   "device": "zhongshan",
-   "name": "ICE",
-   "model": "Smart UHD TV"
-  },
-  {
    "device": "hongkong",
    "name": "IMMER",
    "model": "4K SMART TV"
@@ -78892,19 +78899,9 @@
    "model": "2K SMART TV"
   },
   {
-   "device": "zhongshan",
-   "name": "POWER GREEN",
-   "model": "4K SMART TV"
-  },
-  {
    "device": "hongkong",
    "name": "POWEROLOGY",
    "model": "4K SMART TV"
-  },
-  {
-   "device": "stanford",
-   "name": "POWER_GREEN",
-   "model": "2K SMART TV"
   },
   {
    "device": "hongkong",
@@ -129567,6 +129564,18 @@
    "device": "YPY_L700",
    "name": "Ypy Kids",
    "model": "Positivo BGH Ypy L700 Kids"
+  }
+ ],
+ "Power Green": [
+  {
+   "device": "zhongshan",
+   "name": "POWER GREEN",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "POWER_GREEN",
+   "model": "2K SMART TV"
   }
  ],
  "Powerway": [

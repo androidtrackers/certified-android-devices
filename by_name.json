@@ -22628,6 +22628,13 @@
    "model": "ASUS_AI2203_D"
   }
  ],
+ "ROG Phone 6D series": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2203",
+   "model": "ASUS_AI2203_B"
+  }
+ ],
  "ROG Phone 7 series": [
   {
    "brand": "Asus",
@@ -22677,13 +22684,6 @@
    "brand": "Asus",
    "device": "ASUS_I001_1",
    "model": "ZS660KL"
-  }
- ],
- "ROG6 天玑系列": [
-  {
-   "brand": "Asus",
-   "device": "ASUS_AI2203",
-   "model": "ASUS_AI2203_B"
   }
  ],
  "RTC-700A": [
@@ -88612,6 +88612,13 @@
    "model": "Box Q"
   }
  ],
+ "SEI700HMG": [
+  {
+   "brand": "Homatics",
+   "device": "SEI700HMG",
+   "model": "Dongle 4K"
+  }
+ ],
  "HCA6010": [
   {
    "brand": "Homeplustv",
@@ -100926,6 +100933,23 @@
    "model": "SKYWORTH-HY4002"
   }
  ],
+ "ICE": [
+  {
+   "brand": "Ice",
+   "device": "stanford",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "Ice",
+   "device": "zhongshan",
+   "model": "Smart UHD TV"
+  },
+  {
+   "brand": "NYX Mobile",
+   "device": "ICE",
+   "model": "ICE"
+  }
+ ],
  "Mini": [
   {
    "brand": "Ice Phone",
@@ -110471,23 +110495,6 @@
    "model": "2K SMART TV"
   }
  ],
- "ICE": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "Smart UHD TV"
-  },
-  {
-   "brand": "NYX Mobile",
-   "device": "ICE",
-   "model": "ICE"
-  }
- ],
  "IMMER": [
   {
    "brand": "KTCtv",
@@ -110628,25 +110635,11 @@
    "model": "2K SMART TV"
   }
  ],
- "POWER GREEN": [
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
  "POWEROLOGY": [
   {
    "brand": "KTCtv",
    "device": "hongkong",
    "model": "4K SMART TV"
-  }
- ],
- "POWER_GREEN": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
   }
  ],
  "QRIOM": [
@@ -169489,6 +169482,20 @@
    "brand": "Positivo BGH",
    "device": "YPY_L700",
    "model": "Positivo BGH Ypy L700"
+  }
+ ],
+ "POWER GREEN": [
+  {
+   "brand": "Power Green",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
+ "POWER_GREEN": [
+  {
+   "brand": "Power Green",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "DRN": [

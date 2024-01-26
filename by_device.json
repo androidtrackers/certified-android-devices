@@ -1262,6 +1262,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "Ice",
+   "name": "ICE",
+   "model": "Smart UHD TV"
+  },
+  {
    "brand": "Indurama",
    "name": "INDURAMA",
    "model": "INDURAMA SMART TV 4K"
@@ -1328,11 +1333,6 @@
   },
   {
    "brand": "KTCtv",
-   "name": "ICE",
-   "model": "Smart UHD TV"
-  },
-  {
-   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "CSV4K"
   },
@@ -1360,11 +1360,6 @@
    "brand": "KTCtv",
    "name": "NAKAMICHI",
    "model": "CSV4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "POWER GREEN",
-   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -1464,6 +1459,11 @@
   {
    "brand": "Philco",
    "name": "PHILCO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Power Green",
+   "name": "POWER GREEN",
    "model": "4K SMART TV"
   },
   {
@@ -1674,6 +1674,11 @@
    "model": "SMART TV"
   },
   {
+   "brand": "Ice",
+   "name": "ICE",
+   "model": "SMART TV"
+  },
+  {
    "brand": "Indurama",
    "name": "INDURAMA",
    "model": "INDURAMA SMART TV 2K"
@@ -1750,11 +1755,6 @@
   },
   {
    "brand": "KTCtv",
-   "name": "ICE",
-   "model": "SMART TV"
-  },
-  {
-   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "CSV2K"
   },
@@ -1777,11 +1777,6 @@
    "brand": "KTCtv",
    "name": "NAKAMICHI",
    "model": "CSV2K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "POWER_GREEN",
-   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -1897,6 +1892,11 @@
    "brand": "Philco",
    "name": "Philco",
    "model": "PHILCO SMART"
+  },
+  {
+   "brand": "Power Green",
+   "name": "POWER_GREEN",
+   "model": "2K SMART TV"
   },
   {
    "brand": "Prometheus",
@@ -22662,7 +22662,7 @@
   },
   {
    "brand": "Asus",
-   "name": "ROG6 天玑系列",
+   "name": "ROG Phone 6D series",
    "model": "ASUS_AI2203_B"
   }
  ],
@@ -85716,6 +85716,13 @@
    "brand": "Homatics",
    "name": "Nova",
    "model": "Nova"
+  }
+ ],
+ "SEI700HMG": [
+  {
+   "brand": "Homatics",
+   "name": "SEI700HMG",
+   "model": "Dongle 4K"
   }
  ],
  "HCA6010": [

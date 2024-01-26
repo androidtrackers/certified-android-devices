@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-25
+Last sync is 2024-01-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1993,6 +1993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_C|
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_D|
 |Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
+|Asus|ROG Phone 6D series|ASUS_AI2203|ASUS_AI2203_B|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_A|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_C|
 |Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_A|
@@ -2002,7 +2003,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DE|
 |Asus|ROG Phone II|ASUS_I001_1|ZS660KL|
-|Asus|ROG6 天玑系列|ASUS_AI2203|ASUS_AI2203_B|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
 |Asus|Smartphone for Snapdragon Insiders|ASUS_I007_1|ASUS_I007D|
 |Asus|T101TA|T10xTA|T10xTA|
@@ -11358,6 +11358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Kickpi|YYZ|KP1|
 |Homatics|Nova|YYZ|Nova|
 |Homatics|SEI600HM|HND|Box Q|
+|Homatics|SEI700HMG|SEI700HMG|Dongle 4K|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
 |Home Planet|R4|R4|R4|
@@ -13722,6 +13723,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IZZI Telecom|HP46A|HP46A|HP4633|
 |IZZI Telecom|Mexico|B820C-A15_ZTE|B820C-A15|
 |IZZI Telecom|SKYWORTH-HY4002|HY40A1|SKYWORTH-HY4002|
+|Ice|ICE|stanford|SMART TV|
+|Ice|ICE|zhongshan|Smart UHD TV|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
 |Icon|Portal_10i|Portal_10i|NTMC17|
 |IguanaPad|XM14G|XM14G|XM14G|
@@ -15281,8 +15284,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
-|KTCtv|ICE|stanford|SMART TV|
-|KTCtv|ICE|zhongshan|Smart UHD TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|lavender|INNOVA GOOGLE TV 4K|
@@ -15306,9 +15307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|PHIMARK|hongkong|4K SMART TV|
 |KTCtv|PHIMARK|lavender|4K SMART TV|
 |KTCtv|PHIMARK|mountbaker|2K SMART TV|
-|KTCtv|POWER GREEN|zhongshan|4K SMART TV|
 |KTCtv|POWEROLOGY|hongkong|4K SMART TV|
-|KTCtv|POWER_GREEN|stanford|2K SMART TV|
 |KTCtv|QRIOM|hongkong|4K SMART TV|
 |KTCtv|QRIOM|lavender|4K SMART TV|
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
@@ -25197,6 +25196,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo BGH|Ypy|T701_AR|L701 TV|
 |Positivo BGH|Ypy|YPY_L700|Positivo BGH Ypy L700|
 |Positivo BGH|Ypy Kids|YPY_L700|Positivo BGH Ypy L700 Kids|
+|Power Green|POWER GREEN|zhongshan|4K SMART TV|
+|Power Green|POWER_GREEN|stanford|2K SMART TV|
 |Powerway|DRN|DRN|DRN|
 |Powerway|DRN_EEA|DRN_EEA|DRN_EEA|
 |Pozzi|Pozzi Neo 1|Pozzi_Neo_1|Neo 1|

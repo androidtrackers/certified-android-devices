@@ -6908,11 +6908,6 @@
   },
   {
    "brand": "KTCtv",
-   "name": "POWER_GREEN",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
    "name": "QRIOM",
    "device": "mountbaker"
   },
@@ -7029,6 +7024,11 @@
   {
    "brand": "Next-G",
    "name": "NEXT_G",
+   "device": "stanford"
+  },
+  {
+   "brand": "Power Green",
+   "name": "POWER_GREEN",
    "device": "stanford"
   },
   {
@@ -7315,11 +7315,6 @@
   },
   {
    "brand": "KTCtv",
-   "name": "POWER GREEN",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
    "name": "POWEROLOGY",
    "device": "hongkong"
   },
@@ -7477,6 +7472,11 @@
    "brand": "Philips",
    "name": "PHILIPS",
    "device": "lavender"
+  },
+  {
+   "brand": "Power Green",
+   "name": "POWER GREEN",
+   "device": "zhongshan"
   },
   {
    "brand": "RCA",
@@ -9281,6 +9281,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Ice",
+   "name": "ICE",
+   "device": "stanford"
+  },
+  {
    "brand": "Itel",
    "name": "ITEL",
    "device": "stanford"
@@ -9293,11 +9298,6 @@
   {
    "brand": "KTCtv",
    "name": "DREAMVIEW",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ICE",
    "device": "stanford"
   },
   {
@@ -17849,6 +17849,13 @@
    "device": "ASUS_AI2203"
   }
  ],
+ "ASUS_AI2203_B": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6D series",
+   "device": "ASUS_AI2203"
+  }
+ ],
  "ASUS_AI2205_A": [
   {
    "brand": "Asus",
@@ -17910,13 +17917,6 @@
    "brand": "Asus",
    "name": "ROG Phone II",
    "device": "ASUS_I001_1"
-  }
- ],
- "ASUS_AI2203_B": [
-  {
-   "brand": "Asus",
-   "name": "ROG6 天玑系列",
-   "device": "ASUS_AI2203"
   }
  ],
  "RTC-tablet": [
@@ -55186,7 +55186,7 @@
    "device": "zhongshan"
   },
   {
-   "brand": "KTCtv",
+   "brand": "Ice",
    "name": "ICE",
    "device": "zhongshan"
   },
@@ -82911,6 +82911,13 @@
    "brand": "Homatics",
    "name": "Kickpi",
    "device": "YYZ"
+  }
+ ],
+ "Dongle 4K": [
+  {
+   "brand": "Homatics",
+   "name": "SEI700HMG",
+   "device": "SEI700HMG"
   }
  ],
  "HCA-6010": [
