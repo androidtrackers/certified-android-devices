@@ -9608,6 +9608,11 @@
    "model": "A4G"
   },
   {
+   "device": "AS-10",
+   "name": "AS-10",
+   "model": "AS-10"
+  },
+  {
    "device": "AS5",
    "name": "AS5",
    "model": "AS5"
@@ -40969,6 +40974,11 @@
   }
  ],
  "FUSE4K": [
+  {
+   "device": "SEI700L",
+   "name": "FUSE 4K",
+   "model": "FUSE 4K"
+  },
   {
    "device": "SEI700TV",
    "name": "FUSE 4K",
@@ -89552,9 +89562,19 @@
  ],
  "LLA": [
   {
+   "device": "SEI700L",
+   "name": "Gasobi region",
+   "model": "FUSE 4K"
+  },
+  {
    "device": "SEI500L",
    "name": "Orion",
    "model": "Orion"
+  },
+  {
+   "device": "SEI700L",
+   "name": "Panama",
+   "model": "FUSE 4K"
   },
   {
    "device": "vip6102w",
@@ -109652,6 +109672,16 @@
    "device": "devon",
    "name": "moto g32",
    "model": "moto g32"
+  },
+  {
+   "device": "fogos",
+   "name": "moto g34 5G",
+   "model": "moto g34 5G"
+  },
+  {
+   "device": "fogos",
+   "name": "moto g34 5G",
+   "model": "moto g53 5G"
   },
   {
    "device": "hanoip",
@@ -159001,6 +159031,11 @@
    "device": "SL1022",
    "name": "SL1022",
    "model": "SL1022"
+  },
+  {
+   "device": "SL1046",
+   "name": "SL1046",
+   "model": "SL1046"
   },
   {
    "device": "SL1068",

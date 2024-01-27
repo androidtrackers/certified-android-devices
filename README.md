@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-26
+Last sync is 2024-01-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1852,6 +1852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|A45|A45|A45|
 |Aspera|A45|A45_1|A45|
 |Aspera|A4G|A4G|A4G|
+|Aspera|AS-10|AS-10|AS-10|
 |Aspera|AS5|AS5|AS5|
 |Aspera|AS57|AS57|AS57|
 |Aspera|AS6|AS6|AS6|
@@ -7890,6 +7891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FUEGO|FUEGO 2K SMART TV|nagata|FUEGO 2K SMART TV|
 |FUEGO|FUEGO 4K SMART TV|marina|FUEGO 4K SMART TV|
 |FUNKER|E500i|E500i|E500i|
+|FUSE4K|FUSE 4K|SEI700L|FUSE 4K|
 |FUSE4K|FUSE 4K|SEI700TV|FUSE 4K|
 |FaceVsion|OC1020A|OC1020A|FV-FG6|
 |Facime|FLEET_7|FLEET_7|FLEET_7|
@@ -17404,7 +17406,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LISTO|"France|Belgium|Germany|
 |LISTO|Rumania|tamachi|LISTO Android TV|
+|LLA|Gasobi region|SEI700L|FUSE 4K|
 |LLA|Orion|SEI500L|Orion|
+|LLA|Panama|SEI700L|FUSE 4K|
 |LLA|VIP6102W LLA-PA|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
@@ -21330,6 +21334,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g31|coful|motorola|
 |Motorola|moto g32|devon|moto g(100)|
 |Motorola|moto g32|devon|moto g32|
+|Motorola|moto g34 5G|fogos|moto g34 5G|
+|Motorola|moto g34 5G|fogos|moto g53 5G|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g41|corfu|moto g41|
 |Motorola|moto g41|corfu|motorola|
@@ -30977,6 +30983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Silo|SILO|mountbaker|2K SMART TV|
 |Silver line|SL1021|SL1021|SL1021|
 |Silver line|SL1022|SL1022|SL1022|
+|Silver line|SL1046|SL1046|SL1046|
 |Silver line|SL1068|SL1068|SL1068|
 |Silver line|SL1069|SL1069|SL1069|
 |Silver line|SL721|SL721|SL721|

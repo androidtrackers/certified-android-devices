@@ -21493,6 +21493,13 @@
    "model": "A4G"
   }
  ],
+ "AS-10": [
+  {
+   "brand": "Aspera",
+   "name": "AS-10",
+   "model": "AS-10"
+  }
+ ],
  "AS5": [
   {
    "brand": "Aspera",
@@ -64221,6 +64228,23 @@
    "brand": "FUNKER",
    "name": "E500i",
    "model": "E500i"
+  }
+ ],
+ "SEI700L": [
+  {
+   "brand": "FUSE4K",
+   "name": "FUSE 4K",
+   "model": "FUSE 4K"
+  },
+  {
+   "brand": "LLA",
+   "name": "Gasobi region",
+   "model": "FUSE 4K"
+  },
+  {
+   "brand": "LLA",
+   "name": "Panama",
+   "model": "FUSE 4K"
   }
  ],
  "SEI700TV": [
@@ -146322,6 +146346,18 @@
    "model": "moto g32"
   }
  ],
+ "fogos": [
+  {
+   "brand": "Motorola",
+   "name": "moto g34 5G",
+   "model": "moto g34 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g34 5G",
+   "model": "moto g53 5G"
+  }
+ ],
  "corfu": [
   {
    "brand": "Motorola",
@@ -205047,6 +205083,13 @@
    "brand": "Silver line",
    "name": "SL1022",
    "model": "SL1022"
+  }
+ ],
+ "SL1046": [
+  {
+   "brand": "Silver line",
+   "name": "SL1046",
+   "model": "SL1046"
   }
  ],
  "SL1068": [

@@ -16774,6 +16774,13 @@
    "device": "A4G"
   }
  ],
+ "AS-10": [
+  {
+   "brand": "Aspera",
+   "name": "AS-10",
+   "device": "AS-10"
+  }
+ ],
  "AS5": [
   {
    "brand": "Aspera",
@@ -59621,7 +59628,22 @@
   {
    "brand": "FUSE4K",
    "name": "FUSE 4K",
+   "device": "SEI700L"
+  },
+  {
+   "brand": "FUSE4K",
+   "name": "FUSE 4K",
    "device": "SEI700TV"
+  },
+  {
+   "brand": "LLA",
+   "name": "Gasobi region",
+   "device": "SEI700L"
+  },
+  {
+   "brand": "LLA",
+   "name": "Panama",
+   "device": "SEI700L"
   }
  ],
  "FV-FG6": [
@@ -148053,6 +148075,30 @@
    "device": "devon"
   }
  ],
+ "moto g34 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g34 5G",
+   "device": "fogos"
+  }
+ ],
+ "moto g53 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g34 5G",
+   "device": "fogos"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g53 5G",
+   "device": "penang"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g84 5G",
+   "device": "bangkk"
+  }
+ ],
  "moto g(40) fusion": [
   {
    "brand": "Motorola",
@@ -148112,18 +148158,6 @@
    "brand": "Motorola",
    "name": "moto g52j 5G",
    "device": "cypfr"
-  }
- ],
- "moto g53 5G": [
-  {
-   "brand": "Motorola",
-   "name": "moto g53 5G",
-   "device": "penang"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g84 5G",
-   "device": "bangkk"
   }
  ],
  "moto g53j 5G": [
@@ -211072,6 +211106,13 @@
    "brand": "Silver line",
    "name": "SL1022",
    "device": "SL1022"
+  }
+ ],
+ "SL1046": [
+  {
+   "brand": "Silver line",
+   "name": "SL1046",
+   "device": "SL1046"
   }
  ],
  "SL1068": [

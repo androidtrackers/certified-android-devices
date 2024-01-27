@@ -21662,6 +21662,13 @@
    "model": "A4G"
   }
  ],
+ "AS-10": [
+  {
+   "brand": "Aspera",
+   "device": "AS-10",
+   "model": "AS-10"
+  }
+ ],
  "AS5": [
   {
    "brand": "Aspera",
@@ -66241,6 +66248,11 @@
   }
  ],
  "FUSE 4K": [
+  {
+   "brand": "FUSE4K",
+   "device": "SEI700L",
+   "model": "FUSE 4K"
+  },
   {
    "brand": "FUSE4K",
    "device": "SEI700TV",
@@ -113216,6 +113228,11 @@
    "brand": "Kodak",
    "device": "marina",
    "model": "KODAK 4K Smart TV"
+  },
+  {
+   "brand": "LLA",
+   "device": "SEI700L",
+   "model": "FUSE 4K"
   }
  ],
  "SMARTWAY L2": [
@@ -122401,6 +122418,13 @@
    "brand": "Starlight",
    "device": "yeongdeungpo",
    "model": "STARLIGHT Android TV"
+  }
+ ],
+ "Gasobi region": [
+  {
+   "brand": "LLA",
+   "device": "SEI700L",
+   "model": "FUSE 4K"
   }
  ],
  "Orion": [
@@ -145833,6 +145857,18 @@
    "brand": "Motorola",
    "device": "devon",
    "model": "moto g32"
+  }
+ ],
+ "moto g34 5G": [
+  {
+   "brand": "Motorola",
+   "device": "fogos",
+   "model": "moto g34 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "fogos",
+   "model": "moto g53 5G"
   }
  ],
  "moto g40 fusion": [
@@ -203236,6 +203272,13 @@
    "brand": "Silver line",
    "device": "SL1022",
    "model": "SL1022"
+  }
+ ],
+ "SL1046": [
+  {
+   "brand": "Silver line",
+   "device": "SL1046",
+   "model": "SL1046"
   }
  ],
  "SL1068": [
