@@ -78510,6 +78510,11 @@
    "brand": "Hisense",
    "name": "86MR6DE",
    "device": "huaihe"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "TD-E757TS",
+   "device": "ligen"
   }
  ],
  "HLTE700T": [
@@ -152480,6 +152485,18 @@
    "device": "LAVIET77SD1"
   }
  ],
+ "TAB8V": [
+  {
+   "brand": "NELATECH",
+   "name": "TAB8V1",
+   "device": "TAB8V1"
+  },
+  {
+   "brand": "Vortex",
+   "name": "TAB8V",
+   "device": "TAB8V"
+  }
+ ],
  "TAB8V1": [
   {
    "brand": "NELATECH",
@@ -154405,6 +154422,13 @@
    "brand": "Newland",
    "name": "NLS-MT93",
    "device": "NLS-MT93"
+  }
+ ],
+ "NLS-MT95": [
+  {
+   "brand": "Newland",
+   "name": "NLS-MT95",
+   "device": "NLS-MT95"
   }
  ],
  "NLS-NFT10": [
@@ -250130,6 +250154,13 @@
    "device": "V2327"
   }
  ],
+ "V2349": [
+  {
+   "brand": "Vivo",
+   "name": "V30 SE",
+   "device": "V2327"
+  }
+ ],
  "vivo V3Lite": [
   {
    "brand": "Vivo",
@@ -250163,6 +250194,13 @@
    "brand": "Vivo",
    "name": "V3Max A",
    "device": "PD1523"
+  }
+ ],
+ "V2337": [
+  {
+   "brand": "Vivo",
+   "name": "V40 SE 5G",
+   "device": "V2327"
   }
  ],
  "vivo V5Plus": [
@@ -250646,6 +250684,13 @@
    "brand": "Vivo",
    "name": "Y200 5G",
    "device": "V2307"
+  }
+ ],
+ "V2336": [
+  {
+   "brand": "Vivo",
+   "name": "Y200e 5G",
+   "device": "V2327"
   }
  ],
  "vivo Y21": [
@@ -253227,13 +253272,6 @@
    "brand": "Vortex",
    "name": "T10M_Pro",
    "device": "T10M_Pro"
-  }
- ],
- "TAB8V": [
-  {
-   "brand": "Vortex",
-   "name": "TAB8V",
-   "device": "TAB8V"
   }
  ],
  "V22": [

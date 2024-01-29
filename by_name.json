@@ -150360,6 +150360,11 @@
   {
    "brand": "NELATECH",
    "device": "TAB8V1",
+   "model": "TAB8V"
+  },
+  {
+   "brand": "NELATECH",
+   "device": "TAB8V1",
    "model": "TAB8V1"
   }
  ],
@@ -152226,6 +152231,13 @@
    "brand": "Newland",
    "device": "NLS-MT93",
    "model": "NLS-MT93"
+  }
+ ],
+ "NLS-MT95": [
+  {
+   "brand": "Newland",
+   "device": "NLS-MT95",
+   "model": "NLS-MT95"
   }
  ],
  "NLS-NFT10": [
@@ -229019,6 +229031,13 @@
    "model": "TOSPASB"
   }
  ],
+ "TD-E757TS": [
+  {
+   "brand": "Toshiba",
+   "device": "ligen",
+   "model": "HIDB 4K"
+  }
+ ],
  "Thrive 7": [
   {
    "brand": "Toshiba",
@@ -239046,6 +239065,13 @@
    "model": "V2327"
   }
  ],
+ "V30 SE": [
+  {
+   "brand": "Vivo",
+   "device": "V2327",
+   "model": "V2349"
+  }
+ ],
  "V3Lite": [
   {
    "brand": "Vivo",
@@ -239079,6 +239105,13 @@
    "brand": "Vivo",
    "device": "PD1523",
    "model": "vivo PD1523A"
+  }
+ ],
+ "V40 SE 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2327",
+   "model": "V2337"
   }
  ],
  "V9 6GB": [
@@ -239400,6 +239433,13 @@
    "brand": "Vivo",
    "device": "V2307",
    "model": "V2307"
+  }
+ ],
+ "Y200e 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2327",
+   "model": "V2336"
   }
  ],
  "Y21": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-28
+Last sync is 2024-01-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22050,6 +22050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|PC-TE510JAW|PC-TE510JAW|PC-TE510JAW|
 |NEC|PC-TE510N1B|LaVieTab|LaVieTab PC-TE510N1B|
 |NEC|Tab M7 3rd Gen|LAVIET77SD1|LAVIE T7 7SD1|
+|NELATECH|TAB8V1|TAB8V1|TAB8V|
 |NELATECH|TAB8V1|TAB8V1|TAB8V1|
 |NELATECH|V22S1|V22S1|V22S|
 |NEO|GF214-NEO|GF214-NEO|GF214-NEO|
@@ -22354,6 +22355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT9052-RU|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9055-GL|NLS-MT9055-GL|NLS-MT90|
 |Newland|NLS-MT93|NLS-MT93|NLS-MT93|
+|Newland|NLS-MT95|NLS-MT95|NLS-MT95|
 |Newland|NLS-NFT10|NLS-NFT10-GL|NLS-NFT10|
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
@@ -35449,6 +35451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|L9450|l9450|l9450|
 |Toshiba|Mozart|Mozart|Mozart|
 |Toshiba|STB10|TOSPASB|TOSPASB|
+|Toshiba|TD-E757TS|ligen|HIDB 4K|
 |Toshiba|Thrive 7|tostab04|AT1S0|
 |Toshiba|Toshiba Chromebook 2 (2015 Edition)|gandof_cheets|Toshiba Chromebook 2 (2015 Edition)|
 |Toshiba|Toshiba_TV|MTK9632|Toshiba_TV|
@@ -37084,11 +37087,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V3|V3|vivo V3|
 |Vivo|V30 Lite|V2317|V2314|
 |Vivo|V30 Lite 5G|V2327|V2327|
+|Vivo|V30 SE|V2327|V2349|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
 |Vivo|V3M A|PD1524B|vivo PD1524B|
 |Vivo|V3Max|V3Max|vivo V3Max|
 |Vivo|V3Max + A|PD1523B|vivo V3Max+ A|
 |Vivo|V3Max A|PD1523|vivo PD1523A|
+|Vivo|V40 SE 5G|V2327|V2337|
 |Vivo|V5Plus|V5Plus|vivo V5Plus|
 |Vivo|V9|1727ID|vivo 1727|
 |Vivo|V9 6GB|1723CF|vivo 1723|
@@ -37154,6 +37159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y17s|V2310|V2310|
 |Vivo|Y17s|V2310|V2331|
 |Vivo|Y200 5G|V2307|V2307|
+|Vivo|Y200e 5G|V2327|V2336|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
 |Vivo|Y21L|Y21L|vivo Y21L|

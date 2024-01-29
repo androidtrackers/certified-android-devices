@@ -113338,6 +113338,11 @@
   {
    "device": "TAB8V1",
    "name": "TAB8V1",
+   "model": "TAB8V"
+  },
+  {
+   "device": "TAB8V1",
+   "name": "TAB8V1",
    "model": "TAB8V1"
   },
   {
@@ -114944,6 +114949,11 @@
    "device": "NLS-MT93",
    "name": "NLS-MT93",
    "model": "NLS-MT93"
+  },
+  {
+   "device": "NLS-MT95",
+   "name": "NLS-MT95",
+   "model": "NLS-MT95"
   },
   {
    "device": "NLS-NFT10-GL",
@@ -181915,6 +181925,11 @@
    "model": "TOSPASB"
   },
   {
+   "device": "ligen",
+   "name": "TD-E757TS",
+   "model": "HIDB 4K"
+  },
+  {
    "device": "tostab04",
    "name": "Thrive 7",
    "model": "AT1S0"
@@ -190406,6 +190421,11 @@
    "model": "V2327"
   },
   {
+   "device": "V2327",
+   "name": "V30 SE",
+   "model": "V2349"
+  },
+  {
    "device": "V3Lite",
    "name": "V3Lite",
    "model": "vivo V3Lite"
@@ -190429,6 +190449,11 @@
    "device": "PD1523",
    "name": "V3Max A",
    "model": "vivo PD1523A"
+  },
+  {
+   "device": "V2327",
+   "name": "V40 SE 5G",
+   "model": "V2337"
   },
   {
    "device": "V5Plus",
@@ -190754,6 +190779,11 @@
    "device": "V2307",
    "name": "Y200 5G",
    "model": "V2307"
+  },
+  {
+   "device": "V2327",
+   "name": "Y200e 5G",
+   "model": "V2336"
   },
   {
    "device": "Y21",

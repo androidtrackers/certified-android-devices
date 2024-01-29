@@ -150849,6 +150849,11 @@
   {
    "brand": "NELATECH",
    "name": "TAB8V1",
+   "model": "TAB8V"
+  },
+  {
+   "brand": "NELATECH",
+   "name": "TAB8V1",
    "model": "TAB8V1"
   }
  ],
@@ -152663,6 +152668,13 @@
    "brand": "Newland",
    "name": "NLS-MT93",
    "model": "NLS-MT93"
+  }
+ ],
+ "NLS-MT95": [
+  {
+   "brand": "Newland",
+   "name": "NLS-MT95",
+   "model": "NLS-MT95"
   }
  ],
  "NLS-NFT10-GL": [
@@ -231146,6 +231158,13 @@
    "model": "TOSPASB"
   }
  ],
+ "ligen": [
+  {
+   "brand": "Toshiba",
+   "name": "TD-E757TS",
+   "model": "HIDB 4K"
+  }
+ ],
  "tostab04": [
   {
    "brand": "Toshiba",
@@ -240676,8 +240695,23 @@
   },
   {
    "brand": "Vivo",
+   "name": "V30 SE",
+   "model": "V2349"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 SE 5G",
+   "model": "V2337"
+  },
+  {
+   "brand": "Vivo",
    "name": "Y100 5G",
    "model": "V2327"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y200e 5G",
+   "model": "V2336"
   }
  ],
  "V3Lite": [
