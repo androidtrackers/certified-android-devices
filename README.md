@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-30
+Last sync is 2024-01-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3045,6 +3045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRIGMTON|Spain|BTPC-801QC|BTPC-801QC|
 |BRUHM|BTF-43SG|ikebukuro|AI PONT|
 |BRUHM|BTF-75TG|samseong|AI PONT|
+|BTC Mobile|S5548|S5548|S5548|
 |BTC Mobile|Touch|Touch|Touch|
 |BULSATCOM|UPD-BJ00R|UPD-BJ00R|UPD-BJ00R|
 |BULSATCOM|b-box|HP44H|b-box|
@@ -6181,6 +6182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 11|m11|Memor 11|
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
+|Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
 |Datalogic|Memor K|memor_k|Memor K|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
@@ -7870,6 +7872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8Pro|T8Pro|T8Pro|
 |FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
+|FPD|FPD|hongkong|EcoTV Pro I|
 |FPD|FPD|lavender|EcoTV Plus D|
 |FPD|FPD|lavender|EcoTV Plus I|
 |FPD|FPD|mountbaker|EcoTV A|
@@ -13601,6 +13604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI 3 LITE|INOI_3_LITE|INOI_3_LITE|
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI A151|A151|A151|
+|INOI|INOI A34|INOI_A34|A340|
 |INOI|INOI A52 Lite 32GB|A150|A150|
 |INOI|INOI A62 64GB|A161|A161|
 |INOI|INOI A62 64GB|A161_Plus|A161_Plus|
@@ -15258,6 +15262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|COLORVIEW|lavender|4K SMART TV|
 |KTCtv|COLORVIEW|mountbaker|2K SMART TV|
 |KTCtv|CONTINUUS|stanford|SMART TV|
+|KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
@@ -17949,6 +17954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leeco|LeoPro3|le_zl1|LEX725|
 |Leeco|"X Serials(X43 Pro|X55|X65)"|
 |Legamaster|EVOLVE2|ETX|ETX|
+|Legamaster|NAVIGATOR|NAV_RK|NAV|
 |LegendComfortable|SEP011037|SEP011037|SEP011037|
 |LeiaInc|Lume Pad|LumePad|LPD-20W|
 |Leica|Leica CSX8|CSX8|LGT-08QA-2301|
@@ -20645,6 +20651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Cygnus mini|Cygnus_mini|Cygnus_mini|
 |Mobiwire|H|Halona|Halona|
 |Mobiwire|H5111|H5111|H5111|
+|Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6821|H6821|H6821|
 |Mobiwire|HALONA|Halona|Halona|
@@ -20670,6 +20677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|MobiWire Kanuna|Kanuna_MobiWire|KANUNA|
 |Mobiwire|MobiWire Kaya|Kaya_EU_SKU1|KAYA|
 |Mobiwire|MobiWire Kosumi|Kosumi|Kosumi|
+|Mobiwire|Mobiwire Verda|Verda|Mobiwire Verda|
 |Mobiwire|ONE|H5032U|ONE|
 |Mobiwire|Pegasus|Pegasus|Pegasus|
 |Mobiwire|S4040|S4040|S4040|
@@ -22563,6 +22571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G10|ROGA_sprout|Nokia G10|
 |Nokia|Nokia G100|DPT|N150DL|
 |Nokia|Nokia G100|DPT|Nokia G100|
+|Nokia|Nokia G11|SCTA_sprout|Nokia G11|
 |Nokia|Nokia G11|SCT_sprout|Nokia G11|
 |Nokia|Nokia G11 Plus|MGKA|Nokia G11 Plus|
 |Nokia|Nokia G11 Plus|MGKA_sprout|Nokia G11 Plus|
@@ -23085,6 +23094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|PHP110|OP5927|PHP110|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
+|OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
@@ -23833,6 +23843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orbic|Wonder|RC555L|RC555L|
 |OrbitWorld|OrbitWorld_Tablet|OrbitWorld_Tablet|OrbitWorld_Tablet|
 |Ordissimo|Celia|Celia|Celia|
+|Ordissimo|LeNumero2Mini EEA|LeNumero2Mini|LeNumero2Mini|
 |Ordissimo|Ordissimo LeNumero2|LeNumero2|LeNumero2|
 |Ordissimo|PixStarTouch|PixStarTouch|PixStarTouch|
 |Orient|Android TV|R1|ATV R1|
@@ -27298,6 +27309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
+|Sagemcom|polsat soundbox 4K|m391_polsat|polsat soundbox 4K|
 |Saltillo|CF10|CF10|CF10|
 |Samsung||GT-I5510M|GT-I5510M|
 |Samsung||GT-I5510T|GT-I5510T|
@@ -35003,6 +35015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 4|TECNO-LG7n|TECNO LG7n|
 |Tecno|TECNO POVA 4 Pro|TECNO-LG8n|TECNO LG8n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
+|Tecno|TECNO POVA 6 Pro 5G|TECNO-LI9|TECNO LI9|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
@@ -35889,6 +35902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A13_Tab|A13_Tab|MT07|
 |Umidigi|A13_Tab_EEA|A13_Tab_EEA|MT07|
 |Umidigi|A15T|A15T|PA2310GBB|
+|Umidigi|A15T EEA|A15T|PA2310GBB|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
 |Umidigi|A3S_EEA|A3S|A3S|
@@ -41492,6 +41506,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100092988|mid7019_mr_32|100092988|
 |onn.|MID8016|mid8016_mk_32|MID8016|
 |onn.|PM82T|PM82T|PM82T|
+|onn.|Tablet Gen 4|100135923|100135923|
+|onn.|Tablet Gen 4|100135925|100135925|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |onn.|onn_2k_gtv|XNA|onn. Full HD Streaming Device|
@@ -41545,6 +41561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11 Pro+|RE5865|RMX3740|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
+|realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|

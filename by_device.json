@@ -12591,6 +12591,11 @@
    "model": "EcoTV Pro D"
   },
   {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Pro I"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV 4K"
@@ -12628,6 +12633,11 @@
   {
    "brand": "KTCtv",
    "name": "CHIMEI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAIWA",
    "model": "4K SMART TV"
   },
   {
@@ -29876,6 +29886,13 @@
    "brand": "BRIGMTON",
    "name": "Spain",
    "model": "BTPC-801QC"
+  }
+ ],
+ "S5548": [
+  {
+   "brand": "BTC Mobile",
+   "name": "S5548",
+   "model": "S5548"
   }
  ],
  "Touch": [
@@ -52699,6 +52716,13 @@
    "brand": "Datalogic",
    "name": "Memor 20",
    "model": "Memor 20"
+  }
+ ],
+ "nebula_pda": [
+  {
+   "brand": "Datalogic",
+   "name": "Memor 30/30X",
+   "model": "Memor 30/30X"
   }
  ],
  "memor_k": [
@@ -98764,6 +98788,13 @@
    "model": "A15"
   }
  ],
+ "INOI_A34": [
+  {
+   "brand": "INOI",
+   "name": "INOI A34",
+   "model": "A340"
+  }
+ ],
  "A161": [
   {
    "brand": "INOI",
@@ -124794,6 +124825,13 @@
    "model": "ETX"
   }
  ],
+ "NAV_RK": [
+  {
+   "brand": "Legamaster",
+   "name": "NAVIGATOR",
+   "model": "NAV"
+  }
+ ],
  "SEP011037": [
   {
    "brand": "LegendComfortable",
@@ -142227,6 +142265,13 @@
    "model": "H5111"
   }
  ],
+ "H5112": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5112",
+   "model": "H5112"
+  }
+ ],
  "H6511": [
   {
    "brand": "Mobiwire",
@@ -142375,6 +142420,13 @@
    "brand": "Mobiwire",
    "name": "MobiWire Kaya",
    "model": "KAYA"
+  }
+ ],
+ "Verda": [
+  {
+   "brand": "Mobiwire",
+   "name": "Mobiwire Verda",
+   "model": "Mobiwire Verda"
   }
  ],
  "Pegasus": [
@@ -153847,6 +153899,13 @@
    "model": "Nokia G100"
   }
  ],
+ "SCTA_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G11",
+   "model": "Nokia G11"
+  }
+ ],
  "SCT_sprout": [
   {
    "brand": "Nokia",
@@ -156819,6 +156878,13 @@
    "brand": "OnePlus",
    "name": "PHP110",
    "model": "PHP110"
+  }
+ ],
+ "OneScreen-OPS-LF": [
+  {
+   "brand": "OneScreen",
+   "name": "OPS LF with Android",
+   "model": "OneScreen-OPS-LFA"
   }
  ],
  "AT101-1118": [
@@ -161633,6 +161699,13 @@
    "brand": "Ordissimo",
    "name": "Celia",
    "model": "Celia"
+  }
+ ],
+ "LeNumero2Mini": [
+  {
+   "brand": "Ordissimo",
+   "name": "LeNumero2Mini EEA",
+   "model": "LeNumero2Mini"
   }
  ],
  "LeNumero2": [
@@ -182093,6 +182166,13 @@
    "brand": "Wibox",
    "name": "WiboxTv",
    "model": "m384wb"
+  }
+ ],
+ "m391_polsat": [
+  {
+   "brand": "Sagemcom",
+   "name": "polsat soundbox 4K",
+   "model": "polsat soundbox 4K"
   }
  ],
  "CF10": [
@@ -228496,6 +228576,13 @@
    "model": "TECNO LE8"
   }
  ],
+ "TECNO-LI9": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 6 Pro 5G",
+   "model": "TECNO LI9"
+  }
+ ],
  "TECNO-LH6n": [
   {
    "brand": "Tecno",
@@ -233625,6 +233712,11 @@
   {
    "brand": "Umidigi",
    "name": "A15T",
+   "model": "PA2310GBB"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A15T EEA",
    "model": "PA2310GBB"
   }
  ],
@@ -265987,6 +266079,20 @@
    "model": "PM82T"
   }
  ],
+ "100135923": [
+  {
+   "brand": "onn.",
+   "name": "Tablet Gen 4",
+   "model": "100135923"
+  }
+ ],
+ "100135925": [
+  {
+   "brand": "onn.",
+   "name": "Tablet Gen 4",
+   "model": "100135925"
+  }
+ ],
  "YOC": [
   {
    "brand": "onn.",
@@ -266353,6 +266459,13 @@
    "brand": "realme",
    "name": "realme 11 Pro+ 5G",
    "model": "RMX3741"
+  }
+ ],
+ "RE5C82L1": [
+  {
+   "brand": "realme",
+   "name": "realme 12 Pro+ 5G",
+   "model": "RMX3840"
   }
  ],
  "RMX2061L1": [
