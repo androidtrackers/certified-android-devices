@@ -106099,6 +106099,11 @@
    "brand": "Itel",
    "device": "itel-A14",
    "model": "itel A14RU"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6007LA",
+   "model": "S6007L"
   }
  ],
  "A17": [
@@ -142229,6 +142234,13 @@
    "model": "H6511"
   }
  ],
+ "H6682": [
+  {
+   "brand": "Mobiwire",
+   "device": "H6682",
+   "model": "H6682"
+  }
+ ],
  "H6821": [
   {
    "brand": "Mobiwire",
@@ -145909,6 +145921,13 @@
    "brand": "Motorola",
    "device": "devon",
    "model": "moto g32"
+  }
+ ],
+ "moto g34": [
+  {
+   "brand": "Motorola",
+   "device": "fogos",
+   "model": "XT2363-4"
   }
  ],
  "moto g34 5G": [
@@ -154327,6 +154346,11 @@
   {
    "brand": "Nuu",
    "device": "S6303LA",
+   "model": "S6303L"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6303LAT_Go",
    "model": "S6303L"
   },
   {
@@ -212945,6 +212969,13 @@
    "model": "innova10"
   }
  ],
+ "innova20": [
+  {
+   "brand": "Symphony",
+   "device": "innova20",
+   "model": "innova20"
+  }
+ ],
  "roarV95": [
   {
    "brand": "Symphony",
@@ -229116,6 +229147,13 @@
    "model": "TOSPASB"
   }
  ],
+ "TD-E657TS": [
+  {
+   "brand": "Toshiba",
+   "device": "xinnong",
+   "model": "HIDB 4K"
+  }
+ ],
  "TD-E757TS": [
   {
    "brand": "Toshiba",
@@ -232065,6 +232103,13 @@
   }
  ],
  "BISON X20": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X20",
+   "model": "PR4JBX20A"
+  }
+ ],
+ "BISON X20 EEA": [
   {
    "brand": "Umidigi",
    "device": "BISON_X20",

@@ -142279,6 +142279,13 @@
    "model": "H6511"
   }
  ],
+ "H6682": [
+  {
+   "brand": "Mobiwire",
+   "name": "H6682",
+   "model": "H6682"
+  }
+ ],
  "H6821": [
   {
    "brand": "Mobiwire",
@@ -146399,6 +146406,11 @@
   }
  ],
  "fogos": [
+  {
+   "brand": "Motorola",
+   "name": "moto g34",
+   "model": "XT2363-4"
+  },
   {
    "brand": "Motorola",
    "name": "moto g34 5G",
@@ -154689,6 +154701,13 @@
    "model": "S5504L"
   }
  ],
+ "S6007LA": [
+  {
+   "brand": "Nuu",
+   "name": "A14",
+   "model": "S6007L"
+  }
+ ],
  "S6512LA": [
   {
    "brand": "Nuu",
@@ -154807,6 +154826,13 @@
   }
  ],
  "S6303LA": [
+  {
+   "brand": "Nuu",
+   "name": "A9L",
+   "model": "S6303L"
+  }
+ ],
+ "S6303LAT_Go": [
   {
    "brand": "Nuu",
    "name": "A9L",
@@ -215376,6 +215402,13 @@
    "model": "innova10"
   }
  ],
+ "innova20": [
+  {
+   "brand": "Symphony",
+   "name": "innova20",
+   "model": "innova20"
+  }
+ ],
  "roarV95": [
   {
    "brand": "Symphony",
@@ -231245,6 +231278,13 @@
    "model": "TOSPASB"
   }
  ],
+ "xinnong": [
+  {
+   "brand": "Toshiba",
+   "name": "TD-E657TS",
+   "model": "HIDB 4K"
+  }
+ ],
  "ligen": [
   {
    "brand": "Toshiba",
@@ -233990,6 +234030,11 @@
   {
    "brand": "Umidigi",
    "name": "BISON X20",
+   "model": "PR4JBX20A"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON X20 EEA",
    "model": "PR4JBX20A"
   }
  ],

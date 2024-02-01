@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-01-31
+Last sync is 2024-02-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20653,6 +20653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H5111|H5111|H5111|
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
+|Mobiwire|H6682|H6682|H6682|
 |Mobiwire|H6821|H6821|H6821|
 |Mobiwire|HALONA|Halona|Halona|
 |Mobiwire|Hawk from EE|Hawk_from_EE|Hawk_from_EE|
@@ -21342,6 +21343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g31|coful|motorola|
 |Motorola|moto g32|devon|moto g(100)|
 |Motorola|moto g32|devon|moto g32|
+|Motorola|moto g34|fogos|XT2363-4|
 |Motorola|moto g34 5G|fogos|moto g34 5G|
 |Motorola|moto g34 5G|fogos|moto g53 5G|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
@@ -22689,6 +22691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A10L|N5502LA|N5502L|
 |Nuu|A11L|S5502LA|S5502L|
 |Nuu|A12L|S5504LA|S5504L|
+|Nuu|A14|S6007LA|S6007L|
 |Nuu|A15|S6512LA|S6512L|
 |Nuu|A19L|S6303LA_Go|S6303L|
 |Nuu|A23 Plus|S6304LA|S6304L|
@@ -22706,6 +22709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A7L|N5002LE|N5002L|
 |Nuu|A8L|S5503LA|S5503L|
 |Nuu|A9L|S6303LA|S6303L|
+|Nuu|A9L|S6303LAT_Go|S6303L|
 |Nuu|A9L|S6303LA_Go|S6303L|
 |Nuu|B10|S6505LA|S6505L|
 |Nuu|B15|S6701LA|S6701L|
@@ -32630,6 +32634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i98|i98|i98|
 |Symphony|i99|i99|i99|
 |Symphony|innova10|innova10|innova10|
+|Symphony|innova20|innova20|innova20|
 |Symphony|roarV95|roarV95|roarV95|
 |Symphony|roar_V150|roar_V150|roar_V150|
 |Synetech|Synetech Elite Taurus|rk3588_t|Synetech_T35|
@@ -35464,6 +35469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|L9450|l9450|l9450|
 |Toshiba|Mozart|Mozart|Mozart|
 |Toshiba|STB10|TOSPASB|TOSPASB|
+|Toshiba|TD-E657TS|xinnong|HIDB 4K|
 |Toshiba|TD-E757TS|ligen|HIDB 4K|
 |Toshiba|Thrive 7|tostab04|AT1S0|
 |Toshiba|Toshiba Chromebook 2 (2015 Edition)|gandof_cheets|Toshiba Chromebook 2 (2015 Edition)|
@@ -35950,6 +35956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON X10S EEA|BISON_X10S|RP05|
 |Umidigi|BISON X10S NFC|BISON_X10S_NFC|RP05|
 |Umidigi|BISON X20|BISON_X20|PR4JBX20A|
+|Umidigi|BISON X20 EEA|BISON_X20|PR4JBX20A|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|BISON_GT2|BISON_GT2|RP03|
 |Umidigi|BISON_GT2_5G|BISON_GT2_5G|RP02|

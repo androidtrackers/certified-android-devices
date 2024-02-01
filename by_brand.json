@@ -106227,6 +106227,11 @@
    "model": "H6511"
   },
   {
+   "device": "H6682",
+   "name": "H6682",
+   "model": "H6682"
+  },
+  {
    "device": "H6821",
    "name": "H6821",
    "model": "H6821"
@@ -109712,6 +109717,11 @@
    "device": "devon",
    "name": "moto g32",
    "model": "moto g32"
+  },
+  {
+   "device": "fogos",
+   "name": "moto g34",
+   "model": "XT2363-4"
   },
   {
    "device": "fogos",
@@ -116697,6 +116707,11 @@
    "model": "S5504L"
   },
   {
+   "device": "S6007LA",
+   "name": "A14",
+   "model": "S6007L"
+  },
+  {
    "device": "S6512LA",
    "name": "A15",
    "model": "S6512L"
@@ -116778,6 +116793,11 @@
   },
   {
    "device": "S6303LA",
+   "name": "A9L",
+   "model": "S6303L"
+  },
+  {
+   "device": "S6303LAT_Go",
    "name": "A9L",
    "model": "S6303L"
   },
@@ -167488,6 +167508,11 @@
    "model": "innova10"
   },
   {
+   "device": "innova20",
+   "name": "innova20",
+   "model": "innova20"
+  },
+  {
    "device": "roarV95",
    "name": "roarV95",
    "model": "roarV95"
@@ -181992,6 +182017,11 @@
    "model": "TOSPASB"
   },
   {
+   "device": "xinnong",
+   "name": "TD-E657TS",
+   "model": "HIDB 4K"
+  },
+  {
    "device": "ligen",
    "name": "TD-E757TS",
    "model": "HIDB 4K"
@@ -184531,6 +184561,11 @@
   {
    "device": "BISON_X20",
    "name": "BISON X20",
+   "model": "PR4JBX20A"
+  },
+  {
+   "device": "BISON_X20",
+   "name": "BISON X20 EEA",
    "model": "PR4JBX20A"
   },
   {
