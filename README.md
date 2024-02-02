@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-01
+Last sync is 2024-02-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20698,6 +20698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
 |Mobiwire|Telstra Lite Plus|Telstra_Lite_Plus|Telstra Lite Plus|
+|Mobiwire|V Lite 2|V_Lite_2|V Lite 2|
 |Mobiwire|V Smart 2|V_Smart_2|V Smart 2|
 |Mobiwire|V.40|Nextel|V.40|
 |Mobiwire|V.45|VSN|V.45S|
@@ -24080,6 +24081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL571|PL571|PL571|
 |PCD Argentina|PL571US|PL571US|PL571US|
 |PCD Argentina|PL620|PL620|PL620|
+|PCD LLC|Bengal_Max|Bengal_Max|Bengal Max|
 |PCD LLC|P41PR|P41PR|P41PR|
 |PEAQ|PET-1008-F464E|PET-1008-F464E|PET 1008-F464E|
 |PEAQ|PET-1008-H332E|PET-1008-H332E|PET 1008-H332E|

@@ -106452,6 +106452,11 @@
    "model": "Telstra Lite Plus"
   },
   {
+   "device": "V_Lite_2",
+   "name": "V Lite 2",
+   "model": "V Lite 2"
+  },
+  {
    "device": "V_Smart_2",
    "name": "V Smart 2",
    "model": "V Smart 2"
@@ -123829,6 +123834,11 @@
   }
  ],
  "PCD LLC": [
+  {
+   "device": "Bengal_Max",
+   "name": "Bengal_Max",
+   "model": "Bengal Max"
+  },
   {
    "device": "P41PR",
    "name": "P41PR",

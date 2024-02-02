@@ -142540,6 +142540,13 @@
    "model": "Telstra Lite Plus"
   }
  ],
+ "V_Lite_2": [
+  {
+   "brand": "Mobiwire",
+   "name": "V Lite 2",
+   "model": "V Lite 2"
+  }
+ ],
  "V_Smart_2": [
   {
    "brand": "Mobiwire",
@@ -163103,6 +163110,13 @@
    "brand": "PCD Argentina",
    "name": "PL620",
    "model": "PL620"
+  }
+ ],
+ "Bengal_Max": [
+  {
+   "brand": "PCD LLC",
+   "name": "Bengal_Max",
+   "model": "Bengal Max"
   }
  ],
  "P41PR": [
