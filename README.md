@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-02
+Last sync is 2024-02-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21363,6 +21363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g53 5G|penang|moto g stylus 5G (2022)|
 |Motorola|moto g53 5G|penang|moto g53 5G|
 |Motorola|moto g53j 5G|penang|moto g53j 5G|
+|Motorola|moto g53s 5G|penang|moto g53s 5G|
 |Motorola|moto g53y 5G|penang|moto g53y 5G|
 |Motorola|moto g54 5G|cancunf|XT2343-3|
 |Motorola|moto g54 5G|cancunf|moto g54 5G|
