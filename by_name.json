@@ -86366,6 +86366,11 @@
   },
   {
    "brand": "Hisense",
+   "device": "HLTE106E_01",
+   "model": "Hisense U965"
+  },
+  {
+   "brand": "Hisense",
    "device": "HLTE106E_02",
    "model": "Hisense E32 Lite"
   },
@@ -107528,6 +107533,13 @@
    "brand": "Itel",
    "device": "itel-S681LN",
    "model": "itel S681LN"
+  }
+ ],
+ "itel S24": [
+  {
+   "brand": "Itel",
+   "device": "itel-S667LN",
+   "model": "itel S667LN"
   }
  ],
  "itel S32LTE": [

@@ -80945,14 +80945,12 @@
    "device": "HS7731ESP"
   }
  ],
- "Hisense U607": [
+ "Hisense U965": [
   {
    "brand": "Hisense",
    "name": "Hisense U964",
-   "device": "HLTE106E_02"
-  }
- ],
- "Hisense U965": [
+   "device": "HLTE106E_01"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense U964",
@@ -80962,6 +80960,13 @@
    "brand": "Hisense",
    "name": "Hisense U965",
    "device": "HS6580MT"
+  }
+ ],
+ "Hisense U607": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HLTE106E_02"
   }
  ],
  "HWCD100E": [
@@ -105618,6 +105623,13 @@
    "brand": "Itel",
    "name": "itel S23+",
    "device": "itel-S681LN"
+  }
+ ],
+ "itel S667LN": [
+  {
+   "brand": "Itel",
+   "name": "itel S24",
+   "device": "itel-S667LN"
   }
  ],
  "itel S32LTE": [

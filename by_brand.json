@@ -57102,6 +57102,11 @@
    "model": "Hisense U964"
   },
   {
+   "device": "HLTE106E_01",
+   "name": "Hisense U964",
+   "model": "Hisense U965"
+  },
+  {
    "device": "HLTE106E_02",
    "name": "Hisense U964",
    "model": "Hisense E32 Lite"
@@ -76084,6 +76089,11 @@
    "device": "itel-S681LN",
    "name": "itel S23+",
    "model": "itel S681LN"
+  },
+  {
+   "device": "itel-S667LN",
+   "name": "itel S24",
+   "model": "itel S667LN"
   },
   {
    "device": "itel-S32LTE",

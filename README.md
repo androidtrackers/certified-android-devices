@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-03
+Last sync is 2024-02-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11026,6 +11026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HLTE106E_01|Hisense E32 Lite|
 |Hisense|Hisense U964|HLTE106E_01|Hisense U60|
 |Hisense|Hisense U964|HLTE106E_01|Hisense U964|
+|Hisense|Hisense U964|HLTE106E_01|Hisense U965|
 |Hisense|Hisense U964|HLTE106E_02|Hisense E32 Lite|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U607|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U964|
@@ -14774,6 +14775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S23|itel-S665L|itel S665L|
 |Itel|itel S23|itel-S665LN|itel S665LN|
 |Itel|itel S23+|itel-S681LN|itel S681LN|
+|Itel|itel S24|itel-S667LN|itel S667LN|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
