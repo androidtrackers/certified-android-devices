@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-04
+Last sync is 2024-02-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29142,6 +29142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23|dm1q|SM-S911U|
 |Samsung|Galaxy S23|dm1q|SM-S911U1|
 |Samsung|Galaxy S23|dm1q|SM-S911W|
+|Samsung|Galaxy S23 FE|SCG24|SCG24|
 |Samsung|Galaxy S23 FE|r11q|SM-S7110|
 |Samsung|Galaxy S23 FE|r11q|SM-S711U|
 |Samsung|Galaxy S23 FE|r11q|SM-S711U1|
@@ -35137,6 +35138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|SPARK Go 2023|TECNO-Mobile-BF7n|TECNO Mobile BF7n|
 |Tecno Mobile|SPARK Go 2024|TECNO-Mobile-BG6|TECNO Mobile BG6|
 |Tecno Mobile|TECNO Mobile SPARK 20|TECNO-Mobile-KJ5n|TECNO Mobile KJ5n|
+|Tecno Mobile|TECNO Mobile SPARK 20 Pro+|TECNO-Mobile-KJ7|TECNO Mobile KJ7|
 |Tecno Mobile|TECNO Mobile SPARK 20C|TECNO-Mobile-BG7n|TECNO Mobile BG7n|
 |Tecno Mobile|TECNO SPARK 10|TECNO-Mobile-KI5q|TECNO Mobile KI5q|
 |Tecnomaster|EDT800|EDT800|EDT800|

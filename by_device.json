@@ -193561,6 +193561,13 @@
    "model": "SM-S911W"
   }
  ],
+ "SCG24": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23 FE",
+   "model": "SCG24"
+  }
+ ],
  "r11q": [
   {
    "brand": "Samsung",
@@ -229387,6 +229394,13 @@
    "brand": "Tecno Mobile",
    "name": "TECNO Mobile SPARK 20",
    "model": "TECNO Mobile KJ5n"
+  }
+ ],
+ "TECNO-Mobile-KJ7": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile SPARK 20 Pro+",
+   "model": "TECNO Mobile KJ7"
   }
  ],
  "TECNO-Mobile-BG7n": [

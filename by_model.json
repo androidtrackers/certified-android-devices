@@ -198696,6 +198696,13 @@
    "device": "dm1q"
   }
  ],
+ "SCG24": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23 FE",
+   "device": "SCG24"
+  }
+ ],
  "SM-S7110": [
   {
    "brand": "Samsung",
@@ -238096,6 +238103,13 @@
    "brand": "Tecno Mobile",
    "name": "TECNO Mobile SPARK 20",
    "device": "TECNO-Mobile-KJ5n"
+  }
+ ],
+ "TECNO Mobile KJ7": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile SPARK 20 Pro+",
+   "device": "TECNO-Mobile-KJ7"
   }
  ],
  "TECNO Mobile BG7n": [

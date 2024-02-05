@@ -149736,6 +149736,11 @@
    "model": "SM-S911W"
   },
   {
+   "device": "SCG24",
+   "name": "Galaxy S23 FE",
+   "model": "SCG24"
+  },
+  {
    "device": "r11q",
    "name": "Galaxy S23 FE",
    "model": "SM-S7110"
@@ -180231,6 +180236,11 @@
    "device": "TECNO-Mobile-KJ5n",
    "name": "TECNO Mobile SPARK 20",
    "model": "TECNO Mobile KJ5n"
+  },
+  {
+   "device": "TECNO-Mobile-KJ7",
+   "name": "TECNO Mobile SPARK 20 Pro+",
+   "model": "TECNO Mobile KJ7"
   },
   {
    "device": "TECNO-Mobile-BG7n",
