@@ -830,6 +830,13 @@
    "model": "TG996"
   }
  ],
+ "AKUVOX": [
+  {
+   "device": "S567",
+   "name": "S567",
+   "model": "S567"
+  }
+ ],
  "ALBADEEL": [
   {
    "device": "samseong",
@@ -12397,6 +12404,13 @@
    "device": "Avvio_Q503",
    "name": "Q503",
    "model": "Avvio_Q503"
+  }
+ ],
+ "Axen": [
+  {
+   "device": "capitolhill",
+   "name": "AXEN 2K Google TV",
+   "model": "AXEN 2K Google TV"
   }
  ],
  "Axioo": [
@@ -31966,11 +31980,6 @@
    "model": "Memor 20"
   },
   {
-   "device": "nebula_pda",
-   "name": "Memor 30/30X",
-   "model": "Memor 30/30X"
-  },
-  {
    "device": "memor_k",
    "name": "Memor K",
    "model": "Memor K"
@@ -34257,6 +34266,11 @@
    "device": "ICN",
    "name": "SV11",
    "model": "SV11"
+  },
+  {
+   "device": "IAD",
+   "name": "SV11HD",
+   "model": "SV11HD"
   }
  ],
  "Disney": [
@@ -37566,6 +37580,11 @@
   }
  ],
  "Echolink": [
+  {
+   "device": "IAD",
+   "name": "ENOVA STICK",
+   "model": "ENOVA STICK"
+  },
   {
    "device": "shinagawa",
    "name": "Echolink TV",
@@ -48661,6 +48680,11 @@
   {
    "device": "lakeside",
    "name": "Google TV",
+   "model": "4K COL Google TV"
+  },
+  {
+   "device": "lakeside",
+   "name": "Google TV",
    "model": "4K PA Google TV"
   },
   {
@@ -48672,6 +48696,11 @@
    "device": "lakeside",
    "name": "Google TV",
    "model": "4K US Google TV"
+  },
+  {
+   "device": "nagai",
+   "name": "Google TV",
+   "model": "2K COL Google TV"
   },
   {
    "device": "nagai",
@@ -58762,6 +58791,11 @@
  ],
  "Homatics": [
   {
+   "device": "MIA",
+   "name": "Box HD",
+   "model": "Box HD"
+  },
+  {
    "device": "HND",
    "name": "Box Q",
    "model": "Box Q"
@@ -58805,6 +58839,11 @@
    "device": "SEI700HMG",
    "name": "SEI700HMG",
    "model": "Dongle 4K"
+  },
+  {
+   "device": "IAD",
+   "name": "Stick HD",
+   "model": "Stick HD"
   }
  ],
  "Home Elite": [
@@ -60092,6 +60131,11 @@
  ],
  "Hot Pepper": [
   {
+   "device": "AJI",
+   "name": "AJI",
+   "model": "HPPR10A"
+  },
+  {
    "device": "AP17",
    "name": "AP17",
    "model": "AP17"
@@ -60309,6 +60353,11 @@
    "device": "Magic_5_Plus",
    "name": "Magic_5_Plus",
    "model": "Magic 5 Plus"
+  },
+  {
+   "device": "Note_15",
+   "name": "Note 15 EEA",
+   "model": "Note 15"
   },
   {
    "device": "Pearl_K1",
@@ -102799,6 +102848,11 @@
    "model": "PRO 7-S"
   },
   {
+   "device": "PolestarPhone",
+   "name": "Polestar Phone",
+   "model": "Polestar Phone"
+  },
+  {
    "device": "meizu16Xs",
    "name": "meizu 16Xs",
    "model": "meizu 16Xs"
@@ -103003,6 +103057,11 @@
    "device": "hera_pro",
    "name": "N672",
    "model": "N672"
+  },
+  {
+   "device": "phaeton",
+   "name": "phaeton",
+   "model": "N722"
   }
  ],
  "MicroTouch": [
@@ -116209,6 +116268,11 @@
    "model": "Nokia Streaming Box 8000"
   },
   {
+   "device": "IAD",
+   "name": "Nokia Streaming Stick 800",
+   "model": "Nokia Streaming Stick 800"
+  },
+  {
    "device": "PGN",
    "name": "Nokia T10",
    "model": "Nokia T10"
@@ -117159,6 +117223,11 @@
    "device": "TA2C-DR94G",
    "name": "TA2C-DR94G",
    "model": "TA2C-DR94G"
+  },
+  {
+   "device": "TA2C-NF8",
+   "name": "TA2C-NF8",
+   "model": "TA2C-NF8"
   }
  ],
  "ODYS": [
@@ -140496,6 +140565,11 @@
    "model": "SYLVOX 4K Google TV-E"
   },
   {
+   "device": "bandra",
+   "name": "SYLVOX Google TV-A",
+   "model": "SYLVOX Google TV-A"
+  },
+  {
    "device": "lasalle",
    "name": "Smart TV 2K",
    "model": "Smart TV 2K"
@@ -161631,6 +161705,11 @@
    "model": "BRAVIA 4K VH22"
   },
   {
+   "device": "BRAVIA_BF1",
+   "name": "BRAVIA_BF1",
+   "model": "BRAVIA BF1"
+  },
+  {
    "device": "BRAVIA_VH21",
    "name": "BRAVIA_VH21",
    "model": "BRAVIA 4K VH21"
@@ -165052,6 +165131,16 @@
    "device": "VC92",
    "name": "Versity 92-Series",
    "model": "VC9253"
+  },
+  {
+   "device": "Versity",
+   "name": "Versity 9740",
+   "model": "Versity 9740"
+  },
+  {
+   "device": "Versity",
+   "name": "Versity 9753",
+   "model": "Versity 9753"
   }
  ],
  "Speedata": [
@@ -166574,6 +166663,11 @@
    "device": "SN7032",
    "name": "SN7032",
    "model": "SN7032"
+  },
+  {
+   "device": "capitolhill",
+   "name": "SUNNY 2K Google TV",
+   "model": "SUNNY 2K Google TV"
   }
  ],
  "Sunstech": [
@@ -185659,6 +185753,11 @@
    "model": "P8100"
   },
   {
+   "device": "P8100P",
+   "name": "P8100P",
+   "model": "P8100P 4G"
+  },
+  {
    "device": "SQ47",
    "name": "RT40",
    "model": "RT40"
@@ -194271,6 +194370,11 @@
    "device": "anaheim",
    "name": "WALTON GSMART 4KTV FF",
    "model": "WALTON GSMART 4KTV FF"
+  },
+  {
+   "device": "IAD",
+   "name": "WAS2KA11",
+   "model": "WAS2KA11"
   },
   {
    "device": "Primo_X5",
@@ -209964,6 +210068,13 @@
    "model": "smart_S5"
   }
  ],
+ "aigo": [
+  {
+   "device": "A18",
+   "name": "A18",
+   "model": "A18"
+  }
+ ],
  "alter": [
   {
    "device": "MIG",
@@ -210145,6 +210256,11 @@
    "device": "AEOP513",
    "name": "benco S1 Plus",
    "model": "AEOP513"
+  },
+  {
+   "device": "AE9260",
+   "name": "benco S1 Pro",
+   "model": "AE9260"
   },
   {
    "device": "AE9150",
@@ -212086,6 +212202,11 @@
    "device": "I22M01",
    "name": "Swift 1",
    "model": "Swift_1"
+  },
+  {
+   "device": "Swift2Pro",
+   "name": "Swift 2 Pro",
+   "model": "I23M02"
   }
  ],
  "iMuz": [
@@ -212743,6 +212864,11 @@
    "device": "YUL",
    "name": "i-217D1",
    "model": "i-217D1"
+  },
+  {
+   "device": "IAD",
+   "name": "imiia 2k stick",
+   "model": "imiia 2k stick"
   },
   {
    "device": "keoneae",
@@ -214616,6 +214742,11 @@
   }
  ],
  "waiputv": [
+  {
+   "device": "SEI730WP",
+   "name": "Hybrid Stick",
+   "model": "Hybrid Stick"
+  },
   {
    "device": "SEI700WP",
    "name": "waipu tv stick",

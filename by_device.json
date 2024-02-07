@@ -2655,6 +2655,13 @@
    "model": "TG996"
   }
  ],
+ "S567": [
+  {
+   "brand": "AKUVOX",
+   "name": "S567",
+   "model": "S567"
+  }
+ ],
  "samseong": [
   {
    "brand": "ALBADEEL",
@@ -5190,6 +5197,11 @@
    "model": "ASTEX 2K Google TV"
   },
   {
+   "brand": "Axen",
+   "name": "AXEN 2K Google TV",
+   "model": "AXEN 2K Google TV"
+  },
+  {
    "brand": "Blaupunkt",
    "name": "Blaupunkt 2K Google TV",
    "model": "Blaupunkt 2K Google TV"
@@ -5263,6 +5275,11 @@
    "brand": "Stream",
    "name": "STREAM 2K Google TV",
    "model": "STREAM 2K Google TV"
+  },
+  {
+   "brand": "Sunny",
+   "name": "SUNNY 2K Google TV",
+   "model": "SUNNY 2K Google TV"
   },
   {
    "brand": "TELSTAR",
@@ -5609,6 +5626,11 @@
    "brand": "PROTON",
    "name": "PROTON Google TV",
    "model": "PROTON Google TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX Google TV-A",
+   "model": "SYLVOX Google TV-A"
   },
   {
    "brand": "innos",
@@ -52718,13 +52740,6 @@
    "model": "Memor 20"
   }
  ],
- "nebula_pda": [
-  {
-   "brand": "Datalogic",
-   "name": "Memor 30/30X",
-   "model": "Memor 30/30X"
-  }
- ],
  "memor_k": [
   {
    "brand": "Datalogic",
@@ -55827,6 +55842,38 @@
    "brand": "DishTV-NZ",
    "name": "A7070",
    "model": "A7070"
+  }
+ ],
+ "IAD": [
+  {
+   "brand": "DishTV-NZ",
+   "name": "SV11HD",
+   "model": "SV11HD"
+  },
+  {
+   "brand": "Echolink",
+   "name": "ENOVA STICK",
+   "model": "ENOVA STICK"
+  },
+  {
+   "brand": "Homatics",
+   "name": "Stick HD",
+   "model": "Stick HD"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia Streaming Stick 800",
+   "model": "Nokia Streaming Stick 800"
+  },
+  {
+   "brand": "Walton",
+   "name": "WAS2KA11",
+   "model": "WAS2KA11"
+  },
+  {
+   "brand": "imiia",
+   "name": "imiia 2k stick",
+   "model": "imiia 2k stick"
   }
  ],
  "Frozen_G9": [
@@ -74234,6 +74281,11 @@
   {
    "brand": "HKC Elec",
    "name": "Google TV",
+   "model": "4K COL Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
    "model": "4K PA Google TV"
   },
   {
@@ -74248,6 +74300,11 @@
   }
  ],
  "nagai": [
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "model": "2K COL Google TV"
+  },
   {
    "brand": "HKC Elec",
    "name": "Google TV",
@@ -85752,6 +85809,13 @@
    "model": "HOFFMANN X-Prime"
   }
  ],
+ "MIA": [
+  {
+   "brand": "Homatics",
+   "name": "Box HD",
+   "model": "Box HD"
+  }
+ ],
  "YYJ": [
   {
    "brand": "Homatics",
@@ -87430,6 +87494,13 @@
    "model": "YK_P30_EEA"
   }
  ],
+ "AJI": [
+  {
+   "brand": "Hot Pepper",
+   "name": "AJI",
+   "model": "HPPR10A"
+  }
+ ],
  "AP17": [
   {
    "brand": "Hot Pepper",
@@ -87697,6 +87768,18 @@
    "brand": "Hotwav",
    "name": "Magic_5_Plus",
    "model": "Magic 5 Plus"
+  }
+ ],
+ "Note_15": [
+  {
+   "brand": "Hotwav",
+   "name": "Note 15 EEA",
+   "model": "Note 15"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Note 15",
+   "model": "Note 15"
   }
  ],
  "Pearl_K1": [
@@ -137930,6 +138013,13 @@
    "model": "PRO 7 Plus"
   }
  ],
+ "PolestarPhone": [
+  {
+   "brand": "Meizu",
+   "name": "Polestar Phone",
+   "model": "Polestar Phone"
+  }
+ ],
  "meizu16Xs": [
   {
    "brand": "Meizu",
@@ -138152,6 +138242,13 @@
    "brand": "MiTAC",
    "name": "N672",
    "model": "N672"
+  }
+ ],
+ "phaeton": [
+  {
+   "brand": "MiTAC",
+   "name": "phaeton",
+   "model": "N722"
   }
  ],
  "IDC_Series": [
@@ -155281,6 +155378,13 @@
    "brand": "ODS Corporation",
    "name": "TA2C-DR94G",
    "model": "TA2C-DR94G"
+  }
+ ],
+ "TA2C-NF8": [
+  {
+   "brand": "ODS Corporation",
+   "name": "TA2C-NF8",
+   "model": "TA2C-NF8"
   }
  ],
  "GOAL_10_PLUS_3G": [
@@ -208237,6 +208341,13 @@
    "model": "BRAVIA 4K VH22"
   }
  ],
+ "BRAVIA_BF1": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_BF1",
+   "model": "BRAVIA BF1"
+  }
+ ],
  "BRAVIA_VU1": [
   {
    "brand": "Sony",
@@ -212683,6 +212794,16 @@
    "brand": "Spectralink",
    "name": "Versity",
    "model": "Versity 9653"
+  },
+  {
+   "brand": "Spectralink",
+   "name": "Versity 9740",
+   "model": "Versity 9740"
+  },
+  {
+   "brand": "Spectralink",
+   "name": "Versity 9753",
+   "model": "Versity 9753"
   }
  ],
  "VC92": [
@@ -233138,13 +233259,6 @@
    "model": "Note 14"
   }
  ],
- "Note_15": [
-  {
-   "brand": "Ulefone",
-   "name": "Note 15",
-   "model": "Note 15"
-  }
- ],
  "GQ3106": [
   {
    "brand": "Ulefone",
@@ -235228,6 +235342,13 @@
    "brand": "Urovo",
    "name": "P8100",
    "model": "P8100"
+  }
+ ],
+ "P8100P": [
+  {
+   "brand": "Urovo",
+   "name": "P8100P",
+   "model": "P8100P 4G"
   }
  ],
  "SQ47": [
@@ -262717,6 +262838,13 @@
    "model": "smart_S5"
   }
  ],
+ "A18": [
+  {
+   "brand": "aigo",
+   "name": "A18",
+   "model": "A18"
+  }
+ ],
  "MIG": [
   {
    "brand": "alter",
@@ -262898,6 +263026,13 @@
    "brand": "benco",
    "name": "benco S1 Plus",
    "model": "AEOP513"
+  }
+ ],
+ "AE9260": [
+  {
+   "brand": "benco",
+   "name": "benco S1 Pro",
+   "model": "AE9260"
   }
  ],
  "AE9150": [
@@ -265109,6 +265244,13 @@
    "brand": "iMin",
    "name": "Swift 1",
    "model": "Swift_1"
+  }
+ ],
+ "Swift2Pro": [
+  {
+   "brand": "iMin",
+   "name": "Swift 2 Pro",
+   "model": "I23M02"
   }
  ],
  "EG104": [
@@ -267680,6 +267822,13 @@
    "brand": "videocon",
    "name": "Starr 100",
    "model": "V406018"
+  }
+ ],
+ "SEI730WP": [
+  {
+   "brand": "waiputv",
+   "name": "Hybrid Stick",
+   "model": "Hybrid Stick"
   }
  ],
  "SEI700WP": [
