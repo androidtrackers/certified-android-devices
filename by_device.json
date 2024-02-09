@@ -87857,6 +87857,18 @@
    "model": "T5 Pro"
   }
  ],
+ "T7_Pro": [
+  {
+   "brand": "Hotwav",
+   "name": "T7 Pro EEA",
+   "model": "T7 Pro"
+  },
+  {
+   "brand": "MAGCH",
+   "name": "T7",
+   "model": "T7"
+  }
+ ],
  "TAB_R5": [
   {
    "brand": "Hotwav",
@@ -133119,13 +133131,6 @@
    "brand": "MAGCH",
    "name": "M910",
    "model": "M910"
-  }
- ],
- "T7_Pro": [
-  {
-   "brand": "MAGCH",
-   "name": "T7",
-   "model": "T7"
   }
  ],
  "MG715": [

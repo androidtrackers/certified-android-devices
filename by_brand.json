@@ -60420,6 +60420,11 @@
    "model": "T7"
   },
   {
+   "device": "T7_Pro",
+   "name": "T7 Pro EEA",
+   "model": "T7 Pro"
+  },
+  {
    "device": "TAB_R5",
    "name": "TAB R5",
    "model": "TAB R5"

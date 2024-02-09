@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-08
+Last sync is 2024-02-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11682,6 +11682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Symbol X|Symbol_X|Symbol X|
 |Hotwav|T5 Pro|T5_Pro|T5 Pro|
 |Hotwav|T7 EEA|T7|T7|
+|Hotwav|T7 Pro EEA|T7_Pro|T7 Pro|
 |Hotwav|TAB R5|TAB_R5|TAB R5|
 |Hotwav|TAB R6 Pro|TAB_R6_Pro|TAB R6 Pro|
 |Hotwav|TAB R6 Ultra|TAB_R6_Ultra|TAB R6 Ultra|
