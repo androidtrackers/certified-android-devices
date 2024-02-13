@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-12
+Last sync is 2024-02-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17804,6 +17804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Xolo Era X|era_X|era_X|
 |Lava|Xolo era 2|era_2|era 2|
 |Lava|Y50|AF9020|AF9020|
+|Lava|YUVA 3|LZX415|LZX415|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
 |Lava|Z10|LAVA_Z10|Z10|
