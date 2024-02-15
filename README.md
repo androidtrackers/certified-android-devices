@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-14
+Last sync is 2024-02-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15916,6 +15916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce|E6560T|E6560T|
 |Kyocera|DuraForce|E6762|USCC-E6762|
 |Kyocera|DuraForce EX|KY-51D|KY-51D|
+|Kyocera|DuraForce EX|KY23L-RG100|KC-S703|
 |Kyocera|DuraForce PRO|E6820|KYOCERA-E6820|
 |Kyocera|DuraForce PRO|E6820TM_3GB|E6820TM|
 |Kyocera|DuraForce PRO|E6820_3GB|KYOCERA-E6820|
@@ -17631,6 +17632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|LANIX_PAD_E7|ILIUM_PADE7V11|LANIX_PAD_E7|
 |Lanix|Llium L910|Ilium_L910|Ilium L910|
 |Lanix|M1R|M1R|M1R|
+|Lanix|M5e|M5e|M5e|
 |Lanix|NA|stanford|2K SMART TV|
 |Lanix|RX7_v3|RX7_v3|RX7_v3|
 |Lanix|RX8|Ilium_PAD_RX8|Ilium_PAD_RX8v4|
@@ -27652,6 +27654,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A34 5G|a34x|SM-A346E|
 |Samsung|Galaxy A34 5G|a34x|SM-A346M|
 |Samsung|Galaxy A34 5G|a34x|SM-A346N|
+|Samsung|Galaxy A35 5G|a35x|SM-A3560|
+|Samsung|Galaxy A35 5G|a35x|SM-A356B|
+|Samsung|Galaxy A35 5G|a35x|SM-A356E|
+|Samsung|Galaxy A35 5G|a35x|SM-A356N|
+|Samsung|Galaxy A35 5G|a35x|SM-A356U|
+|Samsung|Galaxy A35 5G|a35x|SM-A356U1|
+|Samsung|Galaxy A35 5G|a35x|SM-A356W|
+|Samsung|Galaxy A35 5G|a35x|SM-S356V|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -37540,6 +37550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Volkano|VK_740_12|VK_740_12|VK_740_12|
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
 |Volt Mobile|v7|v7|v7|
+|Volvo|EX30|habanero|EX30|
 |Volvo|Volvo|ihu_abl_car|Volvo|
 |Volvo|Volvo XC40 Emulator|ihu_emulator|Volvo XC40|
 |Vonino|Druid_L10|Druid_L10|Druid_L10|
@@ -40680,6 +40691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET60|ET60|ET60|
 |Zebra|ET65|ET65|ET65|
 |Zebra|HC20|TC22|HC20|
+|Zebra|HC50|TC22|HC50|
 |Zebra|HC50|TC22|TC22|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
@@ -40699,6 +40711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC20|TC20RT|TC20|
 |Zebra|TC20KB|TC20KB|TC20|
 |Zebra|TC21|TC21|TC21|
+|Zebra|TC22|TC22|HC50|
 |Zebra|TC22|TC22|TC22|
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC26|TC26|TC26|

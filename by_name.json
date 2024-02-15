@@ -114721,6 +114721,11 @@
    "brand": "Kyocera",
    "device": "KY-51D",
    "model": "KY-51D"
+  },
+  {
+   "brand": "Kyocera",
+   "device": "KY23L-RG100",
+   "model": "KC-S703"
   }
  ],
  "DuraForce PRO": [
@@ -123923,6 +123928,13 @@
    "brand": "Lanix",
    "device": "M1R",
    "model": "M1R"
+  }
+ ],
+ "M5e": [
+  {
+   "brand": "Lanix",
+   "device": "M5e",
+   "model": "M5e"
   }
  ],
  "RX7_v3": [
@@ -184487,6 +184499,48 @@
    "model": "SM-A346N"
   }
  ],
+ "Galaxy A35 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A3560"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A356B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A356E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A356N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A356U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A356U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-A356W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a35x",
+   "model": "SM-S356V"
+  }
+ ],
  "Galaxy A40": [
   {
    "brand": "Samsung",
@@ -241932,6 +241986,13 @@
    "model": "v7"
   }
  ],
+ "EX30": [
+  {
+   "brand": "Volvo",
+   "device": "habanero",
+   "model": "EX30"
+  }
+ ],
  "Volvo": [
   {
    "brand": "Volvo",
@@ -259505,6 +259566,11 @@
   {
    "brand": "Zebra",
    "device": "TC22",
+   "model": "HC50"
+  },
+  {
+   "brand": "Zebra",
+   "device": "TC22",
    "model": "TC22"
   }
  ],
@@ -259629,6 +259695,11 @@
   }
  ],
  "TC22": [
+  {
+   "brand": "Zebra",
+   "device": "TC22",
+   "model": "HC50"
+  },
   {
    "brand": "Zebra",
    "device": "TC22",

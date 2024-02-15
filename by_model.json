@@ -112568,6 +112568,13 @@
    "device": "KY-51D"
   }
  ],
+ "KC-S703": [
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce EX",
+   "device": "KY23L-RG100"
+  }
+ ],
  "KYOCERA-E6820": [
   {
    "brand": "Kyocera",
@@ -123875,6 +123882,13 @@
    "brand": "Lanix",
    "name": "M1R",
    "device": "M1R"
+  }
+ ],
+ "M5e": [
+  {
+   "brand": "Lanix",
+   "name": "M5e",
+   "device": "M5e"
   }
  ],
  "RX7_v3": [
@@ -188407,6 +188421,62 @@
    "brand": "Samsung",
    "name": "Galaxy A34 5G",
    "device": "a34x"
+  }
+ ],
+ "SM-A3560": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-A356B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-A356E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-A356N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-A356U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-A356U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-A356W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
+  }
+ ],
+ "SM-S356V": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A35 5G",
+   "device": "a35x"
   }
  ],
  "SM-A405FM": [
@@ -253068,6 +253138,13 @@
    "device": "v7"
   }
  ],
+ "EX30": [
+  {
+   "brand": "Volvo",
+   "name": "EX30",
+   "device": "habanero"
+  }
+ ],
  "Volvo": [
   {
    "brand": "Volvo",
@@ -273170,6 +273247,18 @@
   {
    "brand": "Zebra",
    "name": "HC20",
+   "device": "TC22"
+  }
+ ],
+ "HC50": [
+  {
+   "brand": "Zebra",
+   "name": "HC50",
+   "device": "TC22"
+  },
+  {
+   "brand": "Zebra",
+   "name": "TC22",
    "device": "TC22"
   }
  ],

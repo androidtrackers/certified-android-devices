@@ -82070,6 +82070,11 @@
    "model": "KY-51D"
   },
   {
+   "device": "KY23L-RG100",
+   "name": "DuraForce EX",
+   "model": "KC-S703"
+  },
+  {
    "device": "E6820",
    "name": "DuraForce PRO",
    "model": "KYOCERA-E6820"
@@ -90739,6 +90744,11 @@
    "device": "M1R",
    "name": "M1R",
    "model": "M1R"
+  },
+  {
+   "device": "M5e",
+   "name": "M5e",
+   "model": "M5e"
   },
   {
    "device": "stanford",
@@ -142290,6 +142300,46 @@
    "model": "SM-A346N"
   },
   {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A3560"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A356B"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A356E"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A356N"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A356U"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A356U1"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-A356W"
+  },
+  {
+   "device": "a35x",
+   "name": "Galaxy A35 5G",
+   "model": "SM-S356V"
+  },
+  {
    "device": "a40",
    "name": "Galaxy A40",
    "model": "SM-A405FM"
@@ -192716,6 +192766,11 @@
  ],
  "Volvo": [
   {
+   "device": "habanero",
+   "name": "EX30",
+   "model": "EX30"
+  },
+  {
    "device": "ihu_abl_car",
    "name": "Volvo",
    "model": "Volvo"
@@ -208730,6 +208785,11 @@
   {
    "device": "TC22",
    "name": "HC50",
+   "model": "HC50"
+  },
+  {
+   "device": "TC22",
+   "name": "HC50",
    "model": "TC22"
   },
   {
@@ -208821,6 +208881,11 @@
    "device": "TC21",
    "name": "TC21",
    "model": "TC21"
+  },
+  {
+   "device": "TC22",
+   "name": "TC22",
+   "model": "HC50"
   },
   {
    "device": "TC22",
