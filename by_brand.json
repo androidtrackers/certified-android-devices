@@ -94942,6 +94942,11 @@
    "model": "Lenovo TB-X6E6N"
   },
   {
+   "device": "TB330FUP",
+   "name": "Lenovo Tab K11",
+   "model": "TB330FUP"
+  },
+  {
    "device": "TB-8506F",
    "name": "Lenovo Tab K8",
    "model": "Lenovo TB-8506F"
@@ -95080,6 +95085,11 @@
    "device": "TB128XU",
    "name": "Lenovo Tab M10 Plus 3rd Gen",
    "model": "Lenovo TB128XU"
+  },
+  {
+   "device": "LET02",
+   "name": "Lenovo Tab M10a 5G",
+   "model": "LET02"
   },
   {
    "device": "TB330FU",

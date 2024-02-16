@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-15
+Last sync is 2024-02-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18464,6 +18464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10 PRC|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10 PRC|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
+|Lenovo|Lenovo Tab K11|TB330FUP|TB330FUP|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328FU|TB328FU|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328XU|TB328XU|
@@ -18492,6 +18493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB125FU|Lenovo TB125FU|
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB128FU|Lenovo TB128FU|
 |Lenovo|Lenovo Tab M10 Plus 3rd Gen|TB128XU|Lenovo TB128XU|
+|Lenovo|Lenovo Tab M10a 5G|LET02|LET02|
 |Lenovo|Lenovo Tab M11|TB330FU|TB330FU|
 |Lenovo|Lenovo Tab M11|TB330XU|TB330XU|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|

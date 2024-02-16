@@ -129544,6 +129544,13 @@
    "device": "TB-X6E6N"
   }
  ],
+ "TB330FUP": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11",
+   "device": "TB330FUP"
+  }
+ ],
  "Lenovo TB-8506F": [
   {
    "brand": "Lenovo",
@@ -129748,6 +129755,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 Plus 3rd Gen",
    "device": "TB128XU"
+  }
+ ],
+ "LET02": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10a 5G",
+   "device": "LET02"
   }
  ],
  "TB330FU": [
