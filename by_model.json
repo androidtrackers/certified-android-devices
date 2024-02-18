@@ -25367,6 +25367,13 @@
    "device": "SmartPad_T20_EEA"
   }
  ],
+ "1008": [
+  {
+   "brand": "Babal",
+   "name": "1008",
+   "device": "Babal_1008"
+  }
+ ],
  "QM153E": [
   {
    "brand": "Bang & Olufsen",
@@ -113394,6 +113401,13 @@
    "brand": "LEOMO",
    "name": "LEM-TS1",
    "device": "LMS"
+  }
+ ],
+ "LEXA SMART 2K TV": [
+  {
+   "brand": "LEXA",
+   "name": "Uruguay",
+   "device": "nagata"
   }
  ],
  "EY-TAB8161G": [
@@ -233307,6 +233321,20 @@
    "device": "T847_EEA"
   }
  ],
+ "TOKYO SMART 4K TV": [
+  {
+   "brand": "TOKYO",
+   "name": "Paraguay",
+   "device": "marina"
+  }
+ ],
+ "TOKYO SMART 2K TV": [
+  {
+   "brand": "TOKYO",
+   "name": "Paraguay",
+   "device": "nagata"
+  }
+ ],
  "TONE e20": [
   {
    "brand": "TONE",
@@ -278554,6 +278582,18 @@
    "device": "RE5C6CL1"
   }
  ],
+ "RMX3834": [
+  {
+   "brand": "realme",
+   "name": "RMX3834",
+   "device": "RE5C9F"
+  },
+  {
+   "brand": "realme",
+   "name": "realme Note 50",
+   "device": "RE5C9F"
+  }
+ ],
  "RMX3571": [
   {
    "brand": "realme",
@@ -278750,10 +278790,22 @@
    "device": "RE5C6CL1"
   }
  ],
+ "RMX3842": [
+  {
+   "brand": "realme",
+   "name": "realme 12 Pro 5G",
+   "device": "RE5C84L1"
+  }
+ ],
  "RMX3840": [
   {
    "brand": "realme",
    "name": "realme 12 Pro+ 5G",
+   "device": "RE5C82L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 12 Pro+5G",
    "device": "RE5C82L1"
   }
  ],

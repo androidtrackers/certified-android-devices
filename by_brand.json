@@ -15949,6 +15949,13 @@
    "model": "SmartPad_T20"
   }
  ],
+ "Babal": [
+  {
+   "device": "Babal_1008",
+   "name": "1008",
+   "model": "1008"
+  }
+ ],
  "Bang & Olufsen": [
   {
    "device": "bno_MT5593Uplus_EU",
@@ -82712,6 +82719,13 @@
    "device": "osaki",
    "name": "Smart TV",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "LEXA": [
+  {
+   "device": "nagata",
+   "name": "Uruguay",
+   "model": "LEXA SMART 2K TV"
   }
  ],
  "LEYO": [
@@ -176434,6 +176448,18 @@
    "model": "T847_EEA"
   }
  ],
+ "TOKYO": [
+  {
+   "device": "marina",
+   "name": "Paraguay",
+   "model": "TOKYO SMART 4K TV"
+  },
+  {
+   "device": "nagata",
+   "name": "Paraguay",
+   "model": "TOKYO SMART 2K TV"
+  }
+ ],
  "TONE": [
   {
    "device": "TONE_e20",
@@ -213543,6 +213569,11 @@
    "model": "RMX3782"
   },
   {
+   "device": "RE5C9F",
+   "name": "RMX3834",
+   "model": "RMX3834"
+  },
+  {
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
@@ -213688,8 +213719,18 @@
    "model": "RMX3785"
   },
   {
+   "device": "RE5C84L1",
+   "name": "realme 12 Pro 5G",
+   "model": "RMX3842"
+  },
+  {
    "device": "RE5C82L1",
    "name": "realme 12 Pro+ 5G",
+   "model": "RMX3840"
+  },
+  {
+   "device": "RE5C82L1",
+   "name": "realme 12 Pro+5G",
    "model": "RMX3840"
   },
   {
@@ -214066,6 +214107,11 @@
    "device": "RMX2117L1",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
+  },
+  {
+   "device": "RE5C9F",
+   "name": "realme Note 50",
+   "model": "RMX3834"
   },
   {
    "device": "RE5C6EL1",

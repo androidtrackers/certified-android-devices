@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-17
+Last sync is 2024-02-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3091,6 +3091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BYYBUO|SmartPad_T10_EU|SmartPad_T10_EU|SmartPad_T10_EU|
 |BYYBUO|SmartPad_T20|SmartPad_T20|SmartPad_T20|
 |BYYBUO|SmartPad_T20_EEA|SmartPad_T20_EEA|SmartPad_T20|
+|Babal|1008|Babal_1008|1008|
 |Bang & Olufsen|BeoVision|bno_MT5593Uplus_EU|QM153E|
 |Bangho|Bangho_AERO7|Bangho_AERO7|Bangho_AERO7|
 |Barel|Base_7_2_Quad|Base_7_2_Quad|Cavion Base 7.2 Quad|
@@ -16040,6 +16041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEVEL TV|Smart TV|osaki|2K AI Smart TV|
+|LEXA|Uruguay|nagata|LEXA SMART 2K TV|
 |LEYO|EY-TAB8161G|EY-TAB8161G|EY-TAB8161G|
 |LG HelloVision|K1100UA|K1100UA|K1100UA|
 |LG HelloVision|K1200UA|K1200UA|K1200UA|
@@ -34398,6 +34400,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOCHMOBILE|ANGEL_SMART|ANGEL_SMART|ANGEL_SMART|
 |TOKECY|T847|T847|T847|
 |TOKECY|T847_EEA|T847_EEA|T847_EEA|
+|TOKYO|Paraguay|marina|TOKYO SMART 4K TV|
+|TOKYO|Paraguay|nagata|TOKYO SMART 2K TV|
 |TONE|TONE e20|TONE_e20|TONE e20|
 |TONE|TONE_e21|TONE_e21|TONE_e21|
 |TONE|TONE_e22|TONE_e22|TONE_e22|
@@ -41587,6 +41591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3710|REE2ADL1|RMX3710|
 |realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
+|realme|RMX3834|RE5C9F|RMX3834|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -41616,7 +41621,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11 Pro+|RE5865|RMX3740|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
+|realme|realme 12 Pro 5G|RE5C84L1|RMX3842|
 |realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
+|realme|realme 12 Pro+5G|RE5C82L1|RMX3840|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -41692,6 +41699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT5 240W|RE5C33|RMX3823|
 |realme|realme GT5 Pro|RE5C37|RMX3888|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
+|realme|realme Note 50|RE5C9F|RMX3834|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad X|RE5496|RMP2108|
