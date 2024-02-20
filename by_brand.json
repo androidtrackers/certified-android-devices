@@ -1030,6 +1030,11 @@
    "model": "A831L-D"
   },
   {
+   "device": "hongkong",
+   "name": "AOC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "PH0M_EA_T32",
    "name": "AOC Android TV",
    "model": "AOC Android TV"
@@ -18510,6 +18515,11 @@
    "device": "hongkong",
    "name": "BLAUPUNKT",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT 4K TV"
   },
   {
    "device": "hongkong",
@@ -36447,6 +36457,11 @@
    "model": "4K EKO Google TV"
   },
   {
+   "device": "hongkong",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
    "device": "kaitak",
    "name": "EKO",
    "model": "EKO Google TV"
@@ -40624,6 +40639,11 @@
    "model": "F3T10B1"
   },
   {
+   "device": "F3T10WD4",
+   "name": "F3T10WD4",
+   "model": "F3T10WD4"
+  },
+  {
    "device": "F3T7B1",
    "name": "F3T7B1",
    "model": "F3T7B1"
@@ -40919,6 +40939,11 @@
    "device": "mountbaker",
    "name": "FPD",
    "model": "EcoTV D"
+  },
+  {
+   "device": "mountbaker",
+   "name": "FPD",
+   "model": "EcoTV I"
   }
  ],
  "FPT Telecom": [
@@ -60203,6 +60228,11 @@
    "model": "Pulla"
   },
   {
+   "device": "ROJO",
+   "name": "ROJO",
+   "model": "HPPR20A"
+  },
+  {
    "device": "HPP-L55",
    "name": "Serrano",
    "model": "HPP-L55"
@@ -70541,6 +70571,11 @@
    "model": "IRABIO"
   },
   {
+   "device": "IRA_DUO_PRO",
+   "name": "IRADUO_PRO",
+   "model": "IRA_DUO_PRO"
+  },
+  {
    "device": "IRA_DUO_PLUS",
    "name": "IRA_DUO_PLUS",
    "model": "IRA_DUO_PLUS"
@@ -79083,6 +79118,11 @@
    "device": "lavender",
    "name": "STAR-TRACK",
    "model": "STAR-TRACK 4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "SVISION",
+   "model": "SVISION 4K Android TV"
   },
   {
    "device": "zhongshan",
@@ -102847,6 +102887,11 @@
    "model": "MEIZU 20 Inf"
   },
   {
+   "device": "meizu20Infsat",
+   "name": "MEIZU 20 Inf.sat",
+   "model": "MEIZU 20 Inf.sat"
+  },
+  {
    "device": "Meizu6T",
    "name": "Meizu 6T",
    "model": "Meizu 6T"
@@ -113827,6 +113872,13 @@
    "device": "Smart5Plus",
    "name": "Smart5Plus",
    "model": "Smart5Plus"
+  }
+ ],
+ "NIKAI_PRO": [
+  {
+   "device": "hongkong",
+   "name": "NIKAI_PRO",
+   "model": "4K SMART TV"
   }
  ],
  "NOA Mobile": [
@@ -126996,6 +127048,11 @@
    "model": "TLE722G"
   },
   {
+   "device": "hongkong",
+   "name": "PHILIPS",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "PHILIPS",
    "model": "4K SMART TV"
@@ -128247,6 +128304,11 @@
    "device": "pm80",
    "name": "PM80",
    "model": "PM80"
+  },
+  {
+   "device": "PM84",
+   "name": "PM84",
+   "model": "PM84"
   },
   {
    "device": "pm85",
@@ -132446,6 +132508,11 @@
    "device": "yeongdeungpo",
    "name": "Italy",
    "model": "Qbell UHD Android TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "QBELL",
+   "model": "QBELL 4K Android TV"
   },
   {
    "device": "lavender",
@@ -139116,6 +139183,11 @@
    "device": "GRAVITY_3_SE",
    "name": "GRAVITY_3_SE",
    "model": "GRAVITY_3_SE"
+  },
+  {
+   "device": "GRAVITY_5_SE_EEA",
+   "name": "GRAVITY_5_SE_EEA",
+   "model": "GRAVITY 5 SE"
   },
   {
    "device": "Gravity_Max",
@@ -185842,6 +185914,11 @@
    "device": "DT50_5G",
    "name": "DT50 5G",
    "model": "DT50_5G"
+  },
+  {
+   "device": "DT66",
+   "name": "DT66",
+   "model": "DT66"
   },
   {
    "device": "P8100",

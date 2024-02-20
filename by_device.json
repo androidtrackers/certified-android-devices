@@ -4301,6 +4301,333 @@
    "model": "A831L-D"
   }
  ],
+ "hongkong": [
+  {
+   "brand": "AOC",
+   "name": "AOC",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "Aiwa",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT 4K TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+   "brand": "DIJITSU",
+   "name": "DIJITSU",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "Electroman",
+   "name": "Electroman",
+   "model": "Smart UHD TV"
+  },
+  {
+   "brand": "Element",
+   "name": "ELEMENT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Pro A"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Pro D"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV Pro I"
+  },
+  {
+   "brand": "Indurama",
+   "name": "Indurama",
+   "model": "INDURAMA GOOGLE TV 4K"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K ATSC TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K DVB TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K ISDB TV"
+  },
+  {
+   "brand": "Jam",
+   "name": "JAM",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AKAI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ASAANO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "CHIMEI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAIWA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DANILUX",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DIGGIO",
+   "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ESLEY",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EcoTV Plus A",
+   "model": "EcoTV Plus A"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EcoTV Plus C",
+   "model": "EcoTV Plus C"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EcoTV Plus D",
+   "model": "EcoTV Plus D"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "FOL",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "FPS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Global",
+   "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "HARMON-TEC",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IMMER",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "INNOVA",
+   "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "NAKAMICHI",
+   "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWEROLOGY",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "REYNA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SA",
+   "model": "EcoTV Plus"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SVISION",
+   "model": "SVISION 4K Android TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VOXELECTRONICS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "XELL",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "YARA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Kenwood",
+   "name": "Kenwood",
+   "model": "KENWOOD ATSC 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "name": "Kenwood",
+   "model": "KENWOOD DVB 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "name": "Kenwood",
+   "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+   "brand": "Kolin",
+   "name": "KOLIN",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCMOS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Mango",
+   "name": "MANGO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Master-G",
+   "name": "Master-G",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola",
+   "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola",
+   "model": "MOTOROLA GOOGLE TV 4K ATSC"
+  },
+  {
+   "brand": "NIKAI_PRO",
+   "name": "NIKAI_PRO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "QBELL",
+   "model": "QBELL 4K Android TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Rangs",
+   "name": "RANGS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Royal-rahmani",
+   "name": "ROYALRAHMANI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Samview",
+   "name": "SAMVIEW",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Silo",
+   "name": "SILO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Siragon",
+   "name": "Siragon",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "THEHAM",
+   "model": "Smart UHD TV"
+  },
+  {
+   "brand": "thehaam",
+   "name": "THEHAAM",
+   "model": "4K SMART TV"
+  }
+ ],
  "PH0M_EA_T32": [
   {
    "brand": "AOC",
@@ -12566,298 +12893,6 @@
    "model": "KSTB6043"
   }
  ],
- "hongkong": [
-  {
-   "brand": "Aiwa",
-   "name": "Aiwa",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "BLAUPUNKT",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "BLAUPUNKT",
-   "model": "BLAUPUNKT GOOGLE TV 4K"
-  },
-  {
-   "brand": "DIJITSU",
-   "name": "DIJITSU",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Dahua",
-   "name": "DAHUA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Electroman",
-   "name": "Electroman",
-   "model": "Smart UHD TV"
-  },
-  {
-   "brand": "Element",
-   "name": "ELEMENT",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "FPD",
-   "name": "FPD",
-   "model": "EcoTV Pro A"
-  },
-  {
-   "brand": "FPD",
-   "name": "FPD",
-   "model": "EcoTV Pro D"
-  },
-  {
-   "brand": "FPD",
-   "name": "FPD",
-   "model": "EcoTV Pro I"
-  },
-  {
-   "brand": "Indurama",
-   "name": "Indurama",
-   "model": "INDURAMA GOOGLE TV 4K"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC 4K ATSC TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC 4K DVB TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC 4K ISDB TV"
-  },
-  {
-   "brand": "Jam",
-   "name": "JAM",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "AKAI",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ASAANO",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "CHIMEI",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DAIWA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DANILUX",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DIGGIO",
-   "model": "DIGGIO GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ESLEY",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "EcoTV Plus A",
-   "model": "EcoTV Plus A"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "EcoTV Plus C",
-   "model": "EcoTV Plus C"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "EcoTV Plus D",
-   "model": "EcoTV Plus D"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "FOL",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "FPS",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Global",
-   "model": "GLOBAL GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "HARMON-TEC",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "IMMER",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "INNOVA",
-   "model": "INNOVA GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "NAKAMICHI",
-   "model": "NAKAMICHI GOOGLE TV 4K"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "PHIMARK",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "POWEROLOGY",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "QRIOM",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "REYNA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "SA",
-   "model": "EcoTV Plus"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VOXELECTRONICS",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "WYBOR",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "XELL",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "YARA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Kenwood",
-   "name": "Kenwood",
-   "model": "KENWOOD ATSC 4K TV"
-  },
-  {
-   "brand": "Kenwood",
-   "name": "Kenwood",
-   "model": "KENWOOD DVB 4K TV"
-  },
-  {
-   "brand": "Kenwood",
-   "name": "Kenwood",
-   "model": "KENWOOD ISDB 4K TV"
-  },
-  {
-   "brand": "Kolin",
-   "name": "KOLIN",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "LUCMOS",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Mango",
-   "name": "MANGO",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Master-G",
-   "name": "Master-G",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Motorola",
-   "model": "MOTOROLA GOOGLE TV 4K"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Motorola",
-   "model": "MOTOROLA GOOGLE TV 4K ATSC"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Rangs",
-   "name": "RANGS",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Royal-rahmani",
-   "name": "ROYALRAHMANI",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Samview",
-   "name": "SAMVIEW",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Silo",
-   "name": "SILO",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "Siragon",
-   "name": "Siragon",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "THEHAM",
-   "name": "THEHAM",
-   "model": "Smart UHD TV"
-  },
-  {
-   "brand": "thehaam",
-   "name": "THEHAAM",
-   "model": "4K SMART TV"
-  }
- ],
  "mountbaker": [
   {
    "brand": "Aiwa",
@@ -12898,6 +12933,11 @@
    "brand": "FPD",
    "name": "FPD",
    "model": "EcoTV D"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "model": "EcoTV I"
   },
   {
    "brand": "Indurama",
@@ -63802,6 +63842,13 @@
    "model": "F3T10B1"
   }
  ],
+ "F3T10WD4": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "F3T10WD4",
+   "model": "F3T10WD4"
+  }
+ ],
  "F3T7B1": [
   {
    "brand": "FFFSMARTLIFE",
@@ -87598,6 +87645,13 @@
    "model": "Pulla"
   }
  ],
+ "ROJO": [
+  {
+   "brand": "Hot Pepper",
+   "name": "ROJO",
+   "model": "HPPR20A"
+  }
+ ],
  "HPP-L55": [
   {
    "brand": "Hot Pepper",
@@ -99377,6 +99431,13 @@
    "brand": "IRA (explore more)",
    "name": "IRABIO",
    "model": "IRABIO"
+  }
+ ],
+ "IRA_DUO_PRO": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRADUO_PRO",
+   "model": "IRA_DUO_PRO"
   }
  ],
  "IRA_DUO_PLUS": [
@@ -138018,6 +138079,13 @@
    "model": "MEIZU 20 Inf"
   }
  ],
+ "meizu20Infsat": [
+  {
+   "brand": "Meizu",
+   "name": "MEIZU 20 Inf.sat",
+   "model": "MEIZU 20 Inf.sat"
+  }
+ ],
  "Meizu6T": [
   {
    "brand": "Meizu",
@@ -168588,6 +168656,13 @@
    "model": "PM80"
   }
  ],
+ "PM84": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM84",
+   "model": "PM84"
+  }
+ ],
  "pm85": [
   {
    "brand": "Point Mobile",
@@ -180681,6 +180756,13 @@
    "brand": "SPC",
    "name": "GRAVITY_3_SE",
    "model": "GRAVITY_3_SE"
+  }
+ ],
+ "GRAVITY_5_SE_EEA": [
+  {
+   "brand": "SPC",
+   "name": "GRAVITY_5_SE_EEA",
+   "model": "GRAVITY 5 SE"
   }
  ],
  "Gravity_Max": [
@@ -235439,6 +235521,13 @@
    "brand": "Urovo",
    "name": "DT50 5G",
    "model": "DT50_5G"
+  }
+ ],
+ "DT66": [
+  {
+   "brand": "Urovo",
+   "name": "DT66",
+   "model": "DT66"
   }
  ],
  "P8100": [

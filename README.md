@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-19
+Last sync is 2024-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -192,6 +192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|AOC|A731-H1|A731-H1|
 |AOC|AOC|A732G|A732G|
 |AOC|AOC|AOC_A831L-D|A831L-D|
+|AOC|AOC|hongkong|4K SMART TV|
 |AOC|AOC Android TV|PH0M_EA_T32|AOC Android TV|
 |AOC|AOC Google TV TA7|PH3M_AL_T32|AOC Google TV TA7|
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
@@ -3586,6 +3587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BATV10|ICN|BATV10|
 |Blaupunkt|BLAUPUNKT|bruno|BLAUPUNKT 2K Android TV|
 |Blaupunkt|BLAUPUNKT|hongkong|4K SMART TV|
+|Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT GOOGLE TV 4K|
 |Blaupunkt|BLAUPUNKT|lavender|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|stanford|CSV2K|
@@ -7039,6 +7041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|"Australia|Japan|Germany|
 |EKO|EKO|bangbae|EKO 4K Android TV|
 |EKO|EKO|expo|4K EKO Google TV|
+|EKO|EKO|hongkong|EKO 4K Android TV|
 |EKO|EKO|kaitak|EKO Google TV|
 |EKO|EKO|komagome|EKO 2K Android TV|
 |EKO|EKO|lavender|EKO 4K Android TV|
@@ -7826,6 +7829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEONAL|K711_EEA|K711_EEA|K711_EEA|
 |FFFSMARTLIFE|F3T10A3|F3T10A3|F3T10A3|
 |FFFSMARTLIFE|F3T10B1|F3T10B1|F3T10B1|
+|FFFSMARTLIFE|F3T10WD4|F3T10WD4|F3T10WD4|
 |FFFSMARTLIFE|F3T7B1|F3T7B1|F3T7B1|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
 |FFFSMARTLIFE|FFFTAB10a0|FFFTAB10a0|FFFTAB10a0|
@@ -7881,6 +7885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|lavender|EcoTV Plus I|
 |FPD|FPD|mountbaker|EcoTV A|
 |FPD|FPD|mountbaker|EcoTV D|
+|FPD|FPD|mountbaker|EcoTV I|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|FPT Play Box +|SEI500FPT|FPT Play Box +|
@@ -11639,6 +11644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hot Pepper|KT10|KT10|KT10|
 |Hot Pepper|KT10_EEA|KT10_EEA|KT10_EEA|
 |Hot Pepper|Pulla|Pulla|Pulla|
+|Hot Pepper|ROJO|ROJO|HPPR20A|
 |Hot Pepper|Serrano|HPP-L55|HPP-L55|
 |Hot Pepper|Serrano|HPP-L55B|HPP-L55B|
 |Hot Pepper|VLE5|VLE5|VLE5|
@@ -13687,6 +13693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQU_GROUP|SMARTEasy_Q50|SMARTEasy_Q50|SMARTEasy_Q50|
 |IRA (explore more)|IRA801|IRA801|IRA801|
 |IRA (explore more)|IRABIO|IRABIO|IRABIO|
+|IRA (explore more)|IRADUO_PRO|IRA_DUO_PRO|IRA_DUO_PRO|
 |IRA (explore more)|IRA_DUO_PLUS|IRA_DUO_PLUS|IRA_DUO_PLUS|
 |IRA (explore more)|IRA_W801|IRA_W801|IRA_W801|
 |IRA (explore more)|T1021|T1021|T1021|
@@ -15343,6 +15350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SKY-ONE|zhongshan|4K SMART TV|
 |KTCtv|STAR-TRACK|lavender|4K SMART TV|
 |KTCtv|STAR-TRACK|lavender|STAR-TRACK 4K SMART TV|
+|KTCtv|SVISION|hongkong|SVISION 4K Android TV|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Smart TV|mountbaker|EcoTV FHD|
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
@@ -19991,6 +19999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|MEIZU 18s|meizu18s|MEIZU 18s|
 |Meizu|MEIZU 18s Pro|meizu18sPro|MEIZU 18s Pro|
 |Meizu|MEIZU 20 Inf|meizu20Inf|MEIZU 20 Inf|
+|Meizu|MEIZU 20 Inf.sat|meizu20Infsat|MEIZU 20 Inf.sat|
 |Meizu|Meizu 6T|Meizu6T|Meizu 6T|
 |Meizu|Meizu S6|MeizuS6|M712C|
 |Meizu|Meizu S6|MeizuS6|Meizu S6|
@@ -22143,6 +22152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NGM Italia SRL|Smart5.5|Smart55|Smart5.5|
 |NGM Italia SRL|Smart5.5Plus|Smart55Plus|Smart5.5Plus32GB|
 |NGM Italia SRL|Smart5Plus|Smart5Plus|Smart5Plus|
+|NIKAI_PRO|NIKAI_PRO|hongkong|4K SMART TV|
 |NOA Mobile|Forte_se|Forte_se|Forte_se|
 |NOA Mobile|Fresh 4G|Fresh_4G|Fresh_4G|
 |NOA Mobile|Hummer|Hummer|Hummer|
@@ -24692,6 +24702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Mediasuite|PH8M_HE_5596|TPM191HN|
 |Philips|NeoViu D1|GMP|NeoViu D1|
 |Philips|PHILIPS|TLE722G|TLE722G|
+|Philips|PHILIPS|hongkong|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
@@ -24935,6 +24946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM70|pm70|PM70|
 |Point Mobile|PM75|PM75|PM75|
 |Point Mobile|PM80|pm80|PM80|
+|Point Mobile|PM84|PM84|PM84|
 |Point Mobile|PM85|pm85|PM85|
 |Point Mobile|PM85|pm85e|PM85E|
 |Point Mobile|PM85R|pm85r|PM85R|
@@ -25758,6 +25770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QBell|Italy|guandu|Qbell 4K Android TV|
 |QBell|Italy|tamachi|Qbell FHD Android TV|
 |QBell|Italy|yeongdeungpo|Qbell UHD Android TV|
+|QBell|QBELL|hongkong|QBELL 4K Android TV|
 |QBell|QBELL|lavender|QBELL 4K Android TV|
 |QBell|QBELL|stanford|QBELL 2K Android TV|
 |QBell|QBELL|zhongshan|QBELL 4K Android TV|
@@ -27028,6 +27041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|GRAVITY_3_MINI|GRAVITY_3_MINI|GRAVITY_3_MINI|
 |SPC|GRAVITY_3_PRO|GRAVITY_3_PRO|GRAVITY 3 PRO|
 |SPC|GRAVITY_3_SE|GRAVITY_3_SE|GRAVITY_3_SE|
+|SPC|GRAVITY_5_SE_EEA|GRAVITY_5_SE_EEA|GRAVITY 5 SE|
 |SPC|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC|Indonesia|guandu|SPC Android TV|
 |SPC|LIGHTYEAR-2|LIGHTYEAR-2|LIGHTYEAR 2|
@@ -36202,6 +36216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|DT50|DT50|DT50|
 |Urovo|DT50|DT50S|DT50|
 |Urovo|DT50 5G|DT50_5G|DT50_5G|
+|Urovo|DT66|DT66|DT66|
 |Urovo|P8100|P8100|P8100|
 |Urovo|P8100P|P8100P|P8100P 4G|
 |Urovo|RT40|SQ47|RT40|

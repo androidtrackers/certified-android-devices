@@ -8091,6 +8091,11 @@
    "brand": "AOC",
    "device": "AOC_A831L-D",
    "model": "A831L-D"
+  },
+  {
+   "brand": "AOC",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "AOC Android TV": [
@@ -34326,6 +34331,11 @@
   {
    "brand": "Blaupunkt",
    "device": "hongkong",
+   "model": "BLAUPUNKT 4K TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "hongkong",
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
@@ -60048,6 +60058,11 @@
   },
   {
    "brand": "EKO",
+   "device": "hongkong",
+   "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "EKO",
    "device": "kaitak",
    "model": "EKO Google TV"
   },
@@ -65661,6 +65676,13 @@
    "model": "F3T10B1"
   }
  ],
+ "F3T10WD4": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "F3T10WD4",
+   "model": "F3T10WD4"
+  }
+ ],
  "F3T7B1": [
   {
    "brand": "FFFSMARTLIFE",
@@ -66157,6 +66179,11 @@
    "brand": "FPD",
    "device": "mountbaker",
    "model": "EcoTV D"
+  },
+  {
+   "brand": "FPD",
+   "device": "mountbaker",
+   "model": "EcoTV I"
   }
  ],
  "FPT ATV Play Box": [
@@ -90267,6 +90294,13 @@
    "model": "Pulla"
   }
  ],
+ "ROJO": [
+  {
+   "brand": "Hot Pepper",
+   "device": "ROJO",
+   "model": "HPPR20A"
+  }
+ ],
  "Serrano": [
   {
    "brand": "Hot Pepper",
@@ -100678,6 +100712,13 @@
    "model": "IRABIO"
   }
  ],
+ "IRADUO_PRO": [
+  {
+   "brand": "IRA (explore more)",
+   "device": "IRA_DUO_PRO",
+   "model": "IRA_DUO_PRO"
+  }
+ ],
  "IRA_DUO_PLUS": [
   {
    "brand": "IRA (explore more)",
@@ -110869,6 +110910,23 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "STAR-TRACK 4K SMART TV"
+  }
+ ],
+ "SVISION": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "SVISION 4K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "device": "lavender",
+   "model": "SVISION 4K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "Siera": [
@@ -138250,6 +138308,13 @@
    "model": "MEIZU 20 Inf"
   }
  ],
+ "MEIZU 20 Inf.sat": [
+  {
+   "brand": "Meizu",
+   "device": "meizu20Infsat",
+   "model": "MEIZU 20 Inf.sat"
+  }
+ ],
  "Meizu 6T": [
   {
    "brand": "Meizu",
@@ -150939,6 +151004,13 @@
    "brand": "NGM Italia SRL",
    "device": "Smart5Plus",
    "model": "Smart5Plus"
+  }
+ ],
+ "NIKAI_PRO": [
+  {
+   "brand": "NIKAI_PRO",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "Forte_se": [
@@ -166352,6 +166424,11 @@
   },
   {
    "brand": "Philips",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Philips",
    "device": "lavender",
    "model": "4K SMART TV"
   }
@@ -167888,6 +167965,13 @@
    "brand": "Point Mobile",
    "device": "pm80",
    "model": "PM80"
+  }
+ ],
+ "PM84": [
+  {
+   "brand": "Point Mobile",
+   "device": "PM84",
+   "model": "PM84"
   }
  ],
  "PM85": [
@@ -173071,6 +173155,11 @@
   }
  ],
  "QBELL": [
+  {
+   "brand": "QBell",
+   "device": "hongkong",
+   "model": "QBELL 4K Android TV"
+  },
   {
    "brand": "QBell",
    "device": "lavender",
@@ -179818,18 +179907,6 @@
    "model": "Svision Android TV"
   }
  ],
- "SVISION": [
-  {
-   "brand": "S Vision",
-   "device": "lavender",
-   "model": "SVISION 4K Android TV"
-  },
-  {
-   "brand": "S Vision",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
  "8788_7": [
   {
    "brand": "S&T Global",
@@ -180997,6 +181074,13 @@
    "brand": "SPC",
    "device": "GRAVITY_3_SE",
    "model": "GRAVITY_3_SE"
+  }
+ ],
+ "GRAVITY_5_SE_EEA": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_5_SE_EEA",
+   "model": "GRAVITY 5 SE"
   }
  ],
  "Gravity_Max_EEA": [
@@ -233683,6 +233767,13 @@
    "brand": "Urovo",
    "device": "DT50_5G",
    "model": "DT50_5G"
+  }
+ ],
+ "DT66": [
+  {
+   "brand": "Urovo",
+   "device": "DT66",
+   "model": "DT66"
   }
  ],
  "P8100": [

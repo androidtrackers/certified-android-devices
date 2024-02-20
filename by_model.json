@@ -2624,6 +2624,503 @@
    "device": "AOC_A831L-D"
   }
  ],
+ "4K SMART TV": [
+  {
+   "brand": "AOC",
+   "name": "AOC",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
+   "device": "lavender"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "Aiwa",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Azatech",
+   "name": "AZATECH",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "BOTECH",
+   "name": "BOTECH",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Bauf",
+   "name": "BAUF",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Conti",
+   "name": "CONTI",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "DIJITSU",
+   "name": "DIJITSU",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Dyon",
+   "name": "DYON",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Element",
+   "name": "ELEMENT",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Gazer",
+   "name": "GAZER",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Ghia",
+   "name": "GHIA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Itel",
+   "name": "ITEL",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Jam",
+   "name": "JAM",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ADSUN",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AKAI",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ASAANO",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ASAANO",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Banana",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "CHIMEI",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "CHIMEI",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "COLORVIEW",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAIWA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAIWA",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DANILUX",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DYANORA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ESLEY",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ESLEY",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "FOL",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "FPS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "HARMON-TEC",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IMMER",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IQWORLD",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "KTC",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "LikeMe",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWEROLOGY",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "REYNA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "RZTK",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SKY-ONE",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "STAR-TRACK",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VEIRA",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VISTA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VON",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VOXELECTRONICS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "XELL",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "YARA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Kolin",
+   "name": "KOLIN",
+   "device": "hongkong"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCMOS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Lanix",
+   "name": "LANIX",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "MAG",
+   "name": "MAG",
+   "device": "lavender"
+  },
+  {
+   "brand": "Mango",
+   "name": "MANGO",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Master-G",
+   "name": "Master-G",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Maxsonic Elite",
+   "name": "Maxsonic_elite",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "MULTILASER",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "NIKAI_PRO",
+   "name": "NIKAI_PRO",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Next",
+   "name": "NEXT",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Next-G",
+   "name": "NEXT_G",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "PEL (PAK)",
+   "name": "PEL",
+   "device": "lavender"
+  },
+  {
+   "brand": "Philco",
+   "name": "PHILCO",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "device": "lavender"
+  },
+  {
+   "brand": "Power Green",
+   "name": "POWER GREEN",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "device": "lavender"
+  },
+  {
+   "brand": "Rangs",
+   "name": "RANGS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Rangs",
+   "name": "RANGS",
+   "device": "lavender"
+  },
+  {
+   "brand": "Rosso",
+   "name": "ROSSO",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Royal-rahmani",
+   "name": "ROYALRAHMANI",
+   "device": "hongkong"
+  },
+  {
+   "brand": "S Vision",
+   "name": "SVISION",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Samview",
+   "name": "SAMVIEW",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Silo",
+   "name": "SILO",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Siragon",
+   "name": "Siragon",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SMART TEcHNOLGY",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXELECTRONICS",
+   "device": "lavender"
+  },
+  {
+   "brand": "Visiontech",
+   "name": "4K SMART TV",
+   "device": "marina"
+  },
+  {
+   "brand": "Vivax",
+   "name": "VIVAX",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Wismann",
+   "name": "WISMANN",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Xitrix",
+   "name": "XITRIX",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "eNOVA",
+   "name": "Enova",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "thehaam",
+   "name": "THEHAAM",
+   "device": "hongkong"
+  }
+ ],
  "AOC Android TV": [
   {
    "brand": "AOC",
@@ -7107,488 +7604,6 @@
    "brand": "Wismann",
    "name": "WISMANN",
    "device": "stanford"
-  }
- ],
- "4K SMART TV": [
-  {
-   "brand": "Aconatic",
-   "name": "ACONATIC",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Admiral Overseas Corporation",
-   "name": "ADMIRAL",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AIWA",
-   "device": "lavender"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AIWA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "Aiwa",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Azatech",
-   "name": "AZATECH",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "BOTECH",
-   "name": "BOTECH",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Bauf",
-   "name": "BAUF",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "BLAUPUNKT",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Conti",
-   "name": "CONTI",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "DIJITSU",
-   "name": "DIJITSU",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Dahua",
-   "name": "DAHUA",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Dahua",
-   "name": "DAHUA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Dyon",
-   "name": "DYON",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Element",
-   "name": "ELEMENT",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Gazer",
-   "name": "GAZER",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Ghia",
-   "name": "GHIA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Itel",
-   "name": "ITEL",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Jam",
-   "name": "JAM",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ADSUN",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "AKAI",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ASAANO",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ASAANO",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Banana",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "CHIMEI",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "CHIMEI",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "COLORVIEW",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DAIWA",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DAIWA",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DANILUX",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DYANORA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ESLEY",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ESLEY",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "FOL",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "FPS",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "HARMON-TEC",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "IMMER",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "IQWORLD",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "KTC",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "LikeMe",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "PHIMARK",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "PHIMARK",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "POWEROLOGY",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "QRIOM",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "QRIOM",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "REYNA",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "RZTK",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "SKY-ONE",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "STAR-TRACK",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VEIRA",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VISTA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VON",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VOXELECTRONICS",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "WYBOR",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "WYBOR",
-   "device": "lavender"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "XELL",
-   "device": "hongkong"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "YARA",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Kiowa",
-   "name": "KIOWA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Kolin",
-   "name": "KOLIN",
-   "device": "hongkong"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "LUCMOS",
-   "device": "hongkong"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "LUCOMS",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Lanix",
-   "name": "LANIX",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "MAG",
-   "name": "MAG",
-   "device": "lavender"
-  },
-  {
-   "brand": "Mango",
-   "name": "MANGO",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Master-G",
-   "name": "Master-G",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Maxsonic Elite",
-   "name": "Maxsonic_elite",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Motorola",
-   "name": "MOTOROLA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Mtek",
-   "name": "MTEK",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "MULTILASER",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Next",
-   "name": "NEXT",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Next-G",
-   "name": "NEXT_G",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "PEL (PAK)",
-   "name": "PEL",
-   "device": "lavender"
-  },
-  {
-   "brand": "Philco",
-   "name": "PHILCO",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Philips",
-   "name": "PHILIPS",
-   "device": "lavender"
-  },
-  {
-   "brand": "Power Green",
-   "name": "POWER GREEN",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "device": "hongkong"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "device": "lavender"
-  },
-  {
-   "brand": "Rangs",
-   "name": "RANGS",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Rangs",
-   "name": "RANGS",
-   "device": "lavender"
-  },
-  {
-   "brand": "Rosso",
-   "name": "ROSSO",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Royal-rahmani",
-   "name": "ROYALRAHMANI",
-   "device": "hongkong"
-  },
-  {
-   "brand": "S Vision",
-   "name": "SVISION",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Samview",
-   "name": "SAMVIEW",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Sharp",
-   "name": "SHARP",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Silo",
-   "name": "SILO",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Siragon",
-   "name": "Siragon",
-   "device": "hongkong"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SMART TEcHNOLGY",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Soneview",
-   "name": "SONEVIEW",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "VOXelectronics",
-   "name": "VOXELECTRONICS",
-   "device": "lavender"
-  },
-  {
-   "brand": "Visiontech",
-   "name": "4K SMART TV",
-   "device": "marina"
-  },
-  {
-   "brand": "Vivax",
-   "name": "VIVAX",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Wismann",
-   "name": "WISMANN",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Xitrix",
-   "name": "XITRIX",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "eNOVA",
-   "name": "Enova",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "thehaam",
-   "name": "THEHAAM",
-   "device": "hongkong"
   }
  ],
  "ACONATIC FHD TV": [
@@ -28992,6 +29007,18 @@
    "device": "martin"
   }
  ],
+ "BLAUPUNKT 4K TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "lavender"
+  }
+ ],
  "BLAUPUNKT GOOGLE TV 4K": [
   {
    "brand": "Blaupunkt",
@@ -29001,13 +29028,6 @@
   {
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
-   "device": "lavender"
-  }
- ],
- "BLAUPUNKT 4K TV": [
-  {
-   "brand": "Blaupunkt",
-   "name": "BLAUPUNKT",
    "device": "lavender"
   }
  ],
@@ -53579,6 +53599,11 @@
   {
    "brand": "EKO",
    "name": "EKO",
+   "device": "hongkong"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
    "device": "lavender"
   },
   {
@@ -59052,6 +59077,13 @@
    "device": "F3T10B1"
   }
  ],
+ "F3T10WD4": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "F3T10WD4",
+   "device": "F3T10WD4"
+  }
+ ],
  "F3T7B1": [
   {
    "brand": "FFFSMARTLIFE",
@@ -59550,6 +59582,13 @@
    "brand": "KTC",
    "name": "EcoTVDVB",
    "device": "lavender"
+  }
+ ],
+ "EcoTV I": [
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "device": "mountbaker"
   }
  ],
  "FPT ATV Play Box": [
@@ -84713,6 +84752,13 @@
    "device": "Pulla"
   }
  ],
+ "HPPR20A": [
+  {
+   "brand": "Hot Pepper",
+   "name": "ROJO",
+   "device": "ROJO"
+  }
+ ],
  "HPP-L55": [
   {
    "brand": "Hot Pepper",
@@ -98481,6 +98527,13 @@
    "device": "IRABIO"
   }
  ],
+ "IRA_DUO_PRO": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRADUO_PRO",
+   "device": "IRA_DUO_PRO"
+  }
+ ],
  "IRA_DUO_PLUS": [
   {
    "brand": "IRA (explore more)",
@@ -108854,6 +108907,18 @@
   {
    "brand": "KTCtv",
    "name": "STAR-TRACK",
+   "device": "lavender"
+  }
+ ],
+ "SVISION 4K Android TV": [
+  {
+   "brand": "KTCtv",
+   "name": "SVISION",
+   "device": "hongkong"
+  },
+  {
+   "brand": "S Vision",
+   "name": "SVISION",
    "device": "lavender"
   }
  ],
@@ -139425,6 +139490,13 @@
    "brand": "Meizu",
    "name": "MEIZU 20 Inf",
    "device": "meizu20Inf"
+  }
+ ],
+ "MEIZU 20 Inf.sat": [
+  {
+   "brand": "Meizu",
+   "name": "MEIZU 20 Inf.sat",
+   "device": "meizu20Infsat"
   }
  ],
  "Meizu 6T": [
@@ -170815,6 +170887,13 @@
    "device": "pm80"
   }
  ],
+ "PM84": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM84",
+   "device": "PM84"
+  }
+ ],
  "PM85": [
   {
    "brand": "Point Mobile",
@@ -176100,6 +176179,11 @@
   }
  ],
  "QBELL 4K Android TV": [
+  {
+   "brand": "QBell",
+   "name": "QBELL",
+   "device": "hongkong"
+  },
   {
    "brand": "QBell",
    "name": "QBELL",
@@ -182953,13 +183037,6 @@
    "device": "hanyang"
   }
  ],
- "SVISION 4K Android TV": [
-  {
-   "brand": "S Vision",
-   "name": "SVISION",
-   "device": "lavender"
-  }
- ],
  "8788_7": [
   {
    "brand": "S&T Global",
@@ -184188,6 +184265,13 @@
    "brand": "SPC",
    "name": "GRAVITY_3_SE",
    "device": "GRAVITY_3_SE"
+  }
+ ],
+ "GRAVITY 5 SE": [
+  {
+   "brand": "SPC",
+   "name": "GRAVITY_5_SE_EEA",
+   "device": "GRAVITY_5_SE_EEA"
   }
  ],
  "Gravity Max": [
@@ -244581,6 +244665,13 @@
    "brand": "Urovo",
    "name": "DT50 5G",
    "device": "DT50_5G"
+  }
+ ],
+ "DT66": [
+  {
+   "brand": "Urovo",
+   "name": "DT66",
+   "device": "DT66"
   }
  ],
  "P8100": [
