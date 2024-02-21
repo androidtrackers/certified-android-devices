@@ -3121,6 +3121,358 @@
    "device": "hongkong"
   }
  ],
+ "2K SMART TV": [
+  {
+   "brand": "AOC",
+   "name": "AOC",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "device": "stanford"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL",
+   "device": "stanford"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "Aiwa",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Akai",
+   "name": "AKAI",
+   "device": "stanford"
+  },
+  {
+   "brand": "BOTECH",
+   "name": "BOTECH",
+   "device": "stanford"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Conti",
+   "name": "CONTI",
+   "device": "stanford"
+  },
+  {
+   "brand": "DIJITSU",
+   "name": "DIJITSU",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "device": "stanford"
+  },
+  {
+   "brand": "Englaon",
+   "name": "ENGLAON",
+   "device": "stanford"
+  },
+  {
+   "brand": "Gazer",
+   "name": "GAZER",
+   "device": "stanford"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "device": "stanford"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "stanford"
+  },
+  {
+   "brand": "Jam",
+   "name": "JAM",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ADSUN",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ASAANO",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Banana",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "COLORVIEW",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DANILUX",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DYANORA",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ELEMENT",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ESLEY",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "FOL",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "HARMON-TEC",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "KTC",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "RENYA",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "RZTK",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SKY-ONE",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "TRIBOSS",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VEIRA",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VISTA",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VON",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VOXELECTRONICS",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WESTWAY",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WYBOR",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "XELL",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Kenstar",
+   "name": "KENSTAR",
+   "device": "stanford"
+  },
+  {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "device": "stanford"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "device": "stanford"
+  },
+  {
+   "brand": "Lanix",
+   "name": "NA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Mango",
+   "name": "Mango",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Master-G",
+   "name": "Master-G",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Maxsonic Elite",
+   "name": "Maxsonic_elite",
+   "device": "stanford"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "device": "stanford"
+  },
+  {
+   "brand": "Next",
+   "name": "NEXT",
+   "device": "stanford"
+  },
+  {
+   "brand": "Next-G",
+   "name": "NEXT_G",
+   "device": "stanford"
+  },
+  {
+   "brand": "PEL (PAK)",
+   "name": "PEL",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Power Green",
+   "name": "POWER_GREEN",
+   "device": "stanford"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Rangs",
+   "name": "RANGS",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Royal-rahmani",
+   "name": "ROYALRAHMANI",
+   "device": "stanford"
+  },
+  {
+   "brand": "S Vision",
+   "name": "AP",
+   "device": "stanford"
+  },
+  {
+   "brand": "SAELITE",
+   "name": "SAELITE",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "STARSHINE",
+   "name": "STARSHINE",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
+   "device": "stanford"
+  },
+  {
+   "brand": "Silo",
+   "name": "SILO",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Siragon",
+   "name": "Siragon",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SMART TECHNOLOGY",
+   "device": "stanford"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
+   "device": "stanford"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "2K SMART TV",
+   "device": "nagata"
+  },
+  {
+   "brand": "Vivax",
+   "name": "VIVAX",
+   "device": "stanford"
+  },
+  {
+   "brand": "Wismann",
+   "name": "WISMANN",
+   "device": "stanford"
+  }
+ ],
  "AOC Android TV": [
   {
    "brand": "AOC",
@@ -5739,6 +6091,11 @@
    "device": "R1"
   },
   {
+   "brand": "SPJtv",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Sanyo",
    "name": "Android TV",
    "device": "R1"
@@ -7267,343 +7624,6 @@
    "brand": "Aconatic",
    "name": "ACONATIC",
    "device": "shilin"
-  }
- ],
- "2K SMART TV": [
-  {
-   "brand": "Aconatic",
-   "name": "ACONATIC",
-   "device": "stanford"
-  },
-  {
-   "brand": "Admiral Overseas Corporation",
-   "name": "ADMIRAL",
-   "device": "stanford"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "Aiwa",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Akai",
-   "name": "AKAI",
-   "device": "stanford"
-  },
-  {
-   "brand": "BOTECH",
-   "name": "BOTECH",
-   "device": "stanford"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Conti",
-   "name": "CONTI",
-   "device": "stanford"
-  },
-  {
-   "brand": "DIJITSU",
-   "name": "DIJITSU",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Dahua",
-   "name": "DAHUA",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Dahua",
-   "name": "DAHUA",
-   "device": "stanford"
-  },
-  {
-   "brand": "Dyon",
-   "name": "Dyon",
-   "device": "stanford"
-  },
-  {
-   "brand": "Englaon",
-   "name": "ENGLAON",
-   "device": "stanford"
-  },
-  {
-   "brand": "Gazer",
-   "name": "GAZER",
-   "device": "stanford"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI",
-   "device": "stanford"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "device": "stanford"
-  },
-  {
-   "brand": "Jam",
-   "name": "JAM",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ADSUN",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ASAANO",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Banana",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "COLORVIEW",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DANILUX",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "DYANORA",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ELEMENT",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ESLEY",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "FOL",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "HARMON-TEC",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "KTC",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "PHIMARK",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "QRIOM",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "RENYA",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "RZTK",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "SKY-ONE",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "TRIBOSS",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VEIRA",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VISTA",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VON",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VOXELECTRONICS",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "WESTWAY",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "WYBOR",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "XELL",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Kenstar",
-   "name": "KENSTAR",
-   "device": "stanford"
-  },
-  {
-   "brand": "Kiowa",
-   "name": "KIOWA",
-   "device": "stanford"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "LUCOMS",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "LUCOMS",
-   "device": "stanford"
-  },
-  {
-   "brand": "Lanix",
-   "name": "NA",
-   "device": "stanford"
-  },
-  {
-   "brand": "Mango",
-   "name": "Mango",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Master-G",
-   "name": "Master-G",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Maxsonic Elite",
-   "name": "Maxsonic_elite",
-   "device": "stanford"
-  },
-  {
-   "brand": "Motorola",
-   "name": "MOTOROLA",
-   "device": "stanford"
-  },
-  {
-   "brand": "Mtek",
-   "name": "MTEK",
-   "device": "stanford"
-  },
-  {
-   "brand": "Next",
-   "name": "NEXT",
-   "device": "stanford"
-  },
-  {
-   "brand": "Next-G",
-   "name": "NEXT_G",
-   "device": "stanford"
-  },
-  {
-   "brand": "Power Green",
-   "name": "POWER_GREEN",
-   "device": "stanford"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Rangs",
-   "name": "RANGS",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Royal-rahmani",
-   "name": "ROYALRAHMANI",
-   "device": "stanford"
-  },
-  {
-   "brand": "S Vision",
-   "name": "AP",
-   "device": "stanford"
-  },
-  {
-   "brand": "SAELITE",
-   "name": "SAELITE",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "STARSHINE",
-   "name": "STARSHINE",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Sharp",
-   "name": "SHARP",
-   "device": "stanford"
-  },
-  {
-   "brand": "Silo",
-   "name": "SILO",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Siragon",
-   "name": "Siragon",
-   "device": "mountbaker"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SMART TECHNOLOGY",
-   "device": "stanford"
-  },
-  {
-   "brand": "Soneview",
-   "name": "SONEVIEW",
-   "device": "stanford"
-  },
-  {
-   "brand": "Vision Technology",
-   "name": "2K SMART TV",
-   "device": "nagata"
-  },
-  {
-   "brand": "Vivax",
-   "name": "VIVAX",
-   "device": "stanford"
-  },
-  {
-   "brand": "Wismann",
-   "name": "WISMANN",
-   "device": "stanford"
   }
  ],
  "ACONATIC FHD TV": [
@@ -29029,6 +29049,13 @@
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
    "device": "lavender"
+  }
+ ],
+ "BLAUPUNKT 2K TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "mountbaker"
   }
  ],
  "CSV2K": [
@@ -53649,6 +53676,11 @@
   },
   {
    "brand": "EKO",
+   "name": "EKO",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "EKO",
    "name": "EU、UK、AP",
    "device": "martin"
   },
@@ -55258,6 +55290,33 @@
    "device": "NASCO_Allure"
   }
  ],
+ "Smart FHD TV": [
+  {
+   "brand": "Electroman",
+   "name": "ELECTROMAN",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Electroman",
+   "name": "Electroman",
+   "device": "stanford"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Nobrand",
+   "name": "Nobrand",
+   "device": "stanford"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "THEHAM",
+   "device": "stanford"
+  }
+ ],
  "Smart UHD TV": [
   {
    "brand": "Electroman",
@@ -55293,28 +55352,6 @@
    "brand": "THEHAM",
    "name": "THEHAM",
    "device": "zhongshan"
-  }
- ],
- "Smart FHD TV": [
-  {
-   "brand": "Electroman",
-   "name": "Electroman",
-   "device": "stanford"
-  },
-  {
-   "brand": "Motorola",
-   "name": "MOTOROLA",
-   "device": "stanford"
-  },
-  {
-   "brand": "Nobrand",
-   "name": "Nobrand",
-   "device": "stanford"
-  },
-  {
-   "brand": "THEHAM",
-   "name": "THEHAM",
-   "device": "stanford"
   }
  ],
  "electroneumM1": [
@@ -59388,6 +59425,18 @@
    "brand": "FOXXD",
    "name": "A2023",
    "device": "A2023"
+  }
+ ],
+ "A56": [
+  {
+   "brand": "FOXXD",
+   "name": "A56",
+   "device": "A56"
+  },
+  {
+   "brand": "KGTEL",
+   "name": "A56",
+   "device": "A56"
   }
  ],
  "A5Pro": [
@@ -99011,6 +99060,20 @@
    "device": "IK-1028"
   }
  ],
+ "IKON 2K Google TV": [
+  {
+   "brand": "Ikon",
+   "name": "IKON 2K Google TV",
+   "device": "capitolhill"
+  }
+ ],
+ "IKON 4K Google TV": [
+  {
+   "brand": "Ikon",
+   "name": "IKON 4K Google TV",
+   "device": "keoneae"
+  }
+ ],
  "A10s": [
   {
    "brand": "IkuMobile",
@@ -102874,6 +102937,18 @@
    "brand": "Invens",
    "name": "WE1",
    "device": "WE1"
+  }
+ ],
+ "CT7": [
+  {
+   "brand": "Inventus",
+   "name": "CT7",
+   "device": "Aqua"
+  },
+  {
+   "brand": "iDeaUSA",
+   "name": "CT7",
+   "device": "CT7"
   }
  ],
  "EP172BZ": [
@@ -108086,13 +108161,6 @@
    "brand": "KEYENCE",
    "name": "DX-A600",
    "device": "DX-A600"
-  }
- ],
- "A56": [
-  {
-   "brand": "KGTEL",
-   "name": "A56",
-   "device": "A56"
   }
  ],
  "Better10": [
@@ -132551,6 +132619,13 @@
    "brand": "Logic Mobility",
    "name": "LOGIC_L65",
    "device": "LOGIC_L65"
+  }
+ ],
+ "L66M": [
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L66M",
+   "device": "LOGIC_L66M"
   }
  ],
  "LOGIC L66M": [
@@ -172074,6 +172149,13 @@
    "device": "T2050C"
   }
  ],
+ "Vision Tab 10": [
+  {
+   "brand": "Positivo",
+   "name": "T3010D",
+   "device": "T3010D"
+  }
+ ],
  "T705": [
   {
    "brand": "Positivo",
@@ -176196,6 +176278,11 @@
   }
  ],
  "QBELL 2K Android TV": [
+  {
+   "brand": "QBell",
+   "name": "QBELL",
+   "device": "mountbaker"
+  },
   {
    "brand": "QBell",
    "name": "QBELL",
@@ -183021,6 +183108,11 @@
    "brand": "S Vision",
    "name": "EU、UK、AP",
    "device": "martin"
+  },
+  {
+   "brand": "S Vision",
+   "name": "SVISION",
+   "device": "mountbaker"
   }
  ],
  "SVISION 2K Android TV": [
@@ -219895,6 +219987,13 @@
    "brand": "Stylo",
    "name": "LIFE_2",
    "device": "LIFE_2"
+  }
+ ],
+ "MAVERICK": [
+  {
+   "brand": "Stylo",
+   "name": "MAVERICK",
+   "device": "MAVERICK"
   }
  ],
  "MOSCOW": [
@@ -276736,13 +276835,6 @@
    "device": "CT10"
   }
  ],
- "CT7": [
-  {
-   "brand": "iDeaUSA",
-   "name": "CT7",
-   "device": "CT7"
-  }
- ],
  "Uzbekistan": [
   {
    "brand": "iDevice",
@@ -278154,6 +278246,13 @@
   {
    "brand": "innos",
    "name": "innos 2K Google TV",
+   "device": "capitolhill"
+  }
+ ],
+ "innos 2K Google TV-A": [
+  {
+   "brand": "innos",
+   "name": "innos 2K Google TV-A",
    "device": "capitolhill"
   }
  ],

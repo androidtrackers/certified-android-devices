@@ -1035,6 +1035,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "AOC",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "PH0M_EA_T32",
    "name": "AOC Android TV",
    "model": "AOC Android TV"
@@ -18530,6 +18535,11 @@
    "device": "lavender",
    "name": "BLAUPUNKT",
    "model": "BLAUPUNKT 4K TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT 2K TV"
   },
   {
    "device": "stanford",
@@ -36477,6 +36487,11 @@
    "model": "EKO 4K Android TV"
   },
   {
+   "device": "mountbaker",
+   "name": "EKO",
+   "model": "EKO 2K Android TV"
+  },
+  {
    "device": "shilin",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -37776,6 +37791,11 @@
   }
  ],
  "Electroman": [
+  {
+   "device": "mountbaker",
+   "name": "ELECTROMAN",
+   "model": "Smart FHD TV"
+  },
   {
    "device": "hongkong",
    "name": "Electroman",
@@ -40837,6 +40857,11 @@
    "device": "A2023",
    "name": "A2023",
    "model": "A2023"
+  },
+  {
+   "device": "A56",
+   "name": "A56",
+   "model": "A56"
   },
   {
    "device": "A5Pro",
@@ -70980,6 +71005,16 @@
    "device": "IK-1028",
    "name": "IKON",
    "model": "IK-1028"
+  },
+  {
+   "device": "capitolhill",
+   "name": "IKON 2K Google TV",
+   "model": "IKON 2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "IKON 4K Google TV",
+   "model": "IKON 4K Google TV"
   }
  ],
  "IkuMobile": [
@@ -74047,6 +74082,13 @@
    "device": "WE1",
    "name": "WE1",
    "model": "WE1"
+  }
+ ],
+ "Inventus": [
+  {
+   "device": "Aqua",
+   "name": "CT7",
+   "model": "CT7"
   }
  ],
  "Inverse Net": [
@@ -97350,6 +97392,11 @@
    "device": "LOGIC_L65",
    "name": "LOGIC_L65",
    "model": "LOGIC L65"
+  },
+  {
+   "device": "LOGIC_L66M",
+   "name": "LOGIC_L66M",
+   "model": "L66M"
   },
   {
    "device": "LOGIC_L66M",
@@ -124092,6 +124139,11 @@
    "device": "lavender",
    "name": "PEL",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "PEL",
+   "model": "2K SMART TV"
   }
  ],
  "PEOTV": [
@@ -127058,6 +127110,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "PHILIPS",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "cocina",
    "name": "PHILIPS TV",
    "model": "PHILIPS TV"
@@ -129244,6 +129301,11 @@
    "device": "T2050C",
    "name": "T2050C",
    "model": "Tab Q10"
+  },
+  {
+   "device": "T3010D",
+   "name": "T3010D",
+   "model": "Vision Tab 10"
   },
   {
    "device": "T701",
@@ -132518,6 +132580,11 @@
    "device": "lavender",
    "name": "QBELL",
    "model": "QBELL 4K Android TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "QBELL",
+   "model": "QBELL 2K Android TV"
   },
   {
    "device": "stanford",
@@ -138080,6 +138147,11 @@
    "model": "SVISION 4K Android TV"
   },
   {
+   "device": "mountbaker",
+   "name": "SVISION",
+   "model": "SVISION 2K Android TV"
+  },
+  {
    "device": "zhongshan",
    "name": "SVISION",
    "model": "4K SMART TV"
@@ -139562,6 +139634,11 @@
   }
  ],
  "SPJtv": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
   {
    "device": "R2",
    "name": "Android TV",
@@ -166164,6 +166241,11 @@
    "device": "Luna",
    "name": "Luna",
    "model": "Luna"
+  },
+  {
+   "device": "MAVERICK",
+   "name": "MAVERICK",
+   "model": "MAVERICK"
   },
   {
    "device": "MOSCOW",
@@ -213108,6 +213190,11 @@
    "device": "capitolhill",
    "name": "innos 2K Google TV",
    "model": "innos 2K Google TV"
+  },
+  {
+   "device": "capitolhill",
+   "name": "innos 2K Google TV-A",
+   "model": "innos 2K Google TV-A"
   },
   {
    "device": "keoneae",

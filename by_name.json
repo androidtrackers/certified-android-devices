@@ -8096,6 +8096,11 @@
    "brand": "AOC",
    "device": "hongkong",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "AOC",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "AOC Android TV": [
@@ -11161,6 +11166,11 @@
    "brand": "SCHNEIDER",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "SPJtv",
+   "device": "R1",
+   "model": "ATV R1"
   },
   {
    "brand": "SPJtv",
@@ -34342,6 +34352,11 @@
    "brand": "Blaupunkt",
    "device": "lavender",
    "model": "BLAUPUNKT 4K TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "mountbaker",
+   "model": "BLAUPUNKT 2K TV"
   },
   {
    "brand": "Blaupunkt",
@@ -60078,6 +60093,11 @@
   },
   {
    "brand": "EKO",
+   "device": "mountbaker",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "EKO",
    "device": "shilin",
    "model": "EKO 4K Android TV"
   },
@@ -61932,6 +61952,13 @@
    "brand": "Electroland Ghana",
    "device": "NASCO_Allure",
    "model": "NASCO_Allure"
+  }
+ ],
+ "ELECTROMAN": [
+  {
+   "brand": "Electroman",
+   "device": "mountbaker",
+   "model": "Smart FHD TV"
   }
  ],
  "Electroman": [
@@ -65950,6 +65977,23 @@
    "brand": "FOXXD",
    "device": "A2023",
    "model": "A2023"
+  }
+ ],
+ "A56": [
+  {
+   "brand": "FOXXD",
+   "device": "A56",
+   "model": "A56"
+  },
+  {
+   "brand": "KGTEL",
+   "device": "A56",
+   "model": "A56"
+  },
+  {
+   "brand": "Micromax",
+   "device": "A56",
+   "model": "Micromax A56"
   }
  ],
  "A5Pro": [
@@ -101253,6 +101297,20 @@
    "model": "IK-1028"
   }
  ],
+ "IKON 2K Google TV": [
+  {
+   "brand": "Ikon",
+   "device": "capitolhill",
+   "model": "IKON 2K Google TV"
+  }
+ ],
+ "IKON 4K Google TV": [
+  {
+   "brand": "Ikon",
+   "device": "keoneae",
+   "model": "IKON 4K Google TV"
+  }
+ ],
  "A10s": [
   {
    "brand": "IkuMobile",
@@ -104909,6 +104967,18 @@
    "brand": "Invens",
    "device": "WE1",
    "model": "WE1"
+  }
+ ],
+ "CT7": [
+  {
+   "brand": "Inventus",
+   "device": "Aqua",
+   "model": "CT7"
+  },
+  {
+   "brand": "iDeaUSA",
+   "device": "CT7",
+   "model": "CT7"
   }
  ],
  "EP172BZ": [
@@ -109771,18 +109841,6 @@
    "model": "DX-A600"
   }
  ],
- "A56": [
-  {
-   "brand": "KGTEL",
-   "device": "A56",
-   "model": "A56"
-  },
-  {
-   "brand": "Micromax",
-   "device": "A56",
-   "model": "Micromax A56"
-  }
- ],
  "Better10": [
   {
    "brand": "KGTEL",
@@ -110922,6 +110980,11 @@
    "brand": "S Vision",
    "device": "lavender",
    "model": "SVISION 4K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "device": "mountbaker",
+   "model": "SVISION 2K Android TV"
   },
   {
    "brand": "S Vision",
@@ -131485,6 +131548,11 @@
   }
  ],
  "LOGIC_L66M": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_L66M",
+   "model": "L66M"
+  },
   {
    "brand": "Logic Mobility",
    "device": "LOGIC_L66M",
@@ -162851,6 +162919,11 @@
    "brand": "PEL (PAK)",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "PEL (PAK)",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "SEI300SLT": [
@@ -166431,6 +166504,11 @@
    "brand": "Philips",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "PHILIPS TV": [
@@ -169095,6 +169173,13 @@
    "brand": "Positivo",
    "device": "T2050C",
    "model": "Tab Q10"
+  }
+ ],
+ "T3010D": [
+  {
+   "brand": "Positivo",
+   "device": "T3010D",
+   "model": "Vision Tab 10"
   }
  ],
  "T701 TV": [
@@ -173164,6 +173249,11 @@
    "brand": "QBell",
    "device": "lavender",
    "model": "QBELL 4K Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "mountbaker",
+   "model": "QBELL 2K Android TV"
   },
   {
    "brand": "QBell",
@@ -211434,6 +211524,13 @@
    "brand": "Stylo",
    "device": "LIFE_2",
    "model": "LIFE_2"
+  }
+ ],
+ "MAVERICK": [
+  {
+   "brand": "Stylo",
+   "device": "MAVERICK",
+   "model": "MAVERICK"
   }
  ],
  "MOSCOW": [
@@ -263104,13 +263201,6 @@
    "model": "CT10"
   }
  ],
- "CT7": [
-  {
-   "brand": "iDeaUSA",
-   "device": "CT7",
-   "model": "CT7"
-  }
- ],
  "Uzbekistan": [
   {
    "brand": "iDevice",
@@ -264512,6 +264602,13 @@
    "brand": "innos",
    "device": "capitolhill",
    "model": "innos 2K Google TV"
+  }
+ ],
+ "innos 2K Google TV-A": [
+  {
+   "brand": "innos",
+   "device": "capitolhill",
+   "model": "innos 2K Google TV-A"
   }
  ],
  "innos 4K Google TV": [

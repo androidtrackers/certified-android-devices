@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-20
+Last sync is 2024-02-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -193,6 +193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|AOC|A732G|A732G|
 |AOC|AOC|AOC_A831L-D|A831L-D|
 |AOC|AOC|hongkong|4K SMART TV|
+|AOC|AOC|mountbaker|2K SMART TV|
 |AOC|AOC Android TV|PH0M_EA_T32|AOC Android TV|
 |AOC|AOC Google TV TA7|PH3M_AL_T32|AOC Google TV TA7|
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
@@ -3590,6 +3591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT GOOGLE TV 4K|
 |Blaupunkt|BLAUPUNKT|lavender|BLAUPUNKT 4K TV|
+|Blaupunkt|BLAUPUNKT|mountbaker|BLAUPUNKT 2K TV|
 |Blaupunkt|BLAUPUNKT|stanford|CSV2K|
 |Blaupunkt|BLAUPUNKT|zhongshan|CSV4K|
 |Blaupunkt|BLAUPUNKT2K|nippori|BP 2K Android TV|
@@ -7045,6 +7047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO|kaitak|EKO Google TV|
 |EKO|EKO|komagome|EKO 2K Android TV|
 |EKO|EKO|lavender|EKO 4K Android TV|
+|EKO|EKO|mountbaker|EKO 2K Android TV|
 |EKO|EKO|shilin|EKO 4K Android TV|
 |EKO|EKO|tennoji|2K EKO Google TV|
 |EKO|EKO|zhongshan|EKO 4K Android TV|
@@ -7287,6 +7290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elecost|QuadTab E10.1|QuadTab_E101|QuadTab E10.1|
 |Elecson|Meeplus_1|Meeplus_1|Meeplus_1|
 |Electroland Ghana|NASCO_Allure|NASCO_Allure|NASCO_Allure|
+|Electroman|ELECTROMAN|mountbaker|Smart FHD TV|
 |Electroman|Electroman|hongkong|Smart UHD TV|
 |Electroman|Electroman|stanford|Smart FHD TV|
 |Electroman|Electroman|zhongshan|Smart UHD TV|
@@ -7865,6 +7869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F102 ROW|F102|F102|
 |FOXX|T8C|T8C|T8C|
 |FOXXD|A2023|A2023|A2023|
+|FOXXD|A56|A56|A56|
 |FOXXD|A5Pro|A5Pro|A5Pro|
 |FOXXD|C10|C10|C10|
 |FOXXD|FOXXD C65|FOXXD_C65|FOXXD C65|
@@ -13768,6 +13773,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-WT1080|IK-WT1080|IK-WT1080|
 |Ikon|IK-WT1088|IK-WT1088|IK-WT1088|
 |Ikon|IKON|IK-1028|IK-1028|
+|Ikon|IKON 2K Google TV|capitolhill|IKON 2K Google TV|
+|Ikon|IKON 4K Google TV|keoneae|IKON 4K Google TV|
 |IkuMobile|A10|A10|A10|
 |IkuMobile|A10s|A10s|A10s|
 |IkuMobile|A11|A11|A11|
@@ -14369,6 +14376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|Spain|nagata|INVES SMART TV|
 |Invens|UNO|UNO|UNO|
 |Invens|WE1|WE1|WE1|
+|Inventus|CT7|Aqua|CT7|
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
@@ -18936,6 +18944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
 |Logic Mobility|LOGIC_L60|LOGIC_L60|LOGIC L60|
 |Logic Mobility|LOGIC_L65|LOGIC_L65|LOGIC L65|
+|Logic Mobility|LOGIC_L66M|LOGIC_L66M|L66M|
 |Logic Mobility|LOGIC_L66M|LOGIC_L66M|LOGIC L66M|
 |Logic Mobility|LOGIC_X40|LOGIC_X40|X40|
 |Logic Mobility|LOGIC_X60G|LOGIC_X60G|LOGIC_X60G|
@@ -24130,6 +24139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEL (PAK)|PEL|lavender|4K SMART TV|
+|PEL (PAK)|PEL|mountbaker|2K SMART TV|
 |PEOTV|SEI300SLT|SEI300SLT|SEI300SLT|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|
@@ -24704,6 +24714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PHILIPS|TLE722G|TLE722G|
 |Philips|PHILIPS|hongkong|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV|
+|Philips|PHILIPS|mountbaker|2K SMART TV|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
 |Philips|PHP-S231C4AFD|G3SMNTS23|G3SMNTS23|
@@ -25130,6 +25141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T2040|T2040B|T2040|
 |Positivo|T2050C|T2050C|T2050C|
 |Positivo|T2050C|T2050C|Tab Q10|
+|Positivo|T3010D|T3010D|Vision Tab 10|
 |Positivo|T701 TV|T701|T701|
 |Positivo|T705|T705|T705|
 |Positivo|T705|T705|T705/T708|
@@ -25772,6 +25784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QBell|Italy|yeongdeungpo|Qbell UHD Android TV|
 |QBell|QBELL|hongkong|QBELL 4K Android TV|
 |QBell|QBELL|lavender|QBELL 4K Android TV|
+|QBell|QBELL|mountbaker|QBELL 2K Android TV|
 |QBell|QBELL|stanford|QBELL 2K Android TV|
 |QBell|QBELL|zhongshan|QBELL 4K Android TV|
 |QBell|QBell|bangbae|QBell 4K Android TV|
@@ -26842,6 +26855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S Vision|"Japan|USA|Australia|
 |S Vision|S android TV|hanyang|Svision Android TV|
 |S Vision|SVISION|lavender|SVISION 4K Android TV|
+|S Vision|SVISION|mountbaker|SVISION 2K Android TV|
 |S Vision|SVISION|zhongshan|4K SMART TV|
 |S&T Global|8788_7|8788_7|8788_7|
 |S&T Global|C20|C20|C20|
@@ -27115,6 +27129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPECTRA|Spectra MobileMapper6|MobileMapper6|MobileMapper6|
 |SPECTRA|TAP-POS|TAP-POS|SAH55|
 |SPECTRA|tap-POS-AM|tap-POS-AM|SAH55AM|
+|SPJtv|Android TV|R1|ATV R1|
 |SPJtv|Android TV|R2|ATV R2|
 |SPJtv|R3|R3|R3|
 |SPJtv|R4|R4|R4|
@@ -32376,6 +32391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Jupiter|DQR22|DQR22|
 |Stylo|LIFE_2|LIFE_2|LIFE_2|
 |Stylo|Luna|Luna|Luna|
+|Stylo|MAVERICK|MAVERICK|MAVERICK|
 |Stylo|MOSCOW|MOSCOW|MOSCOW|
 |Stylo|ORION PLUS TAB 10|DVK88|ORION PLUS TAB 10|
 |Stylo|Onyx|Onyx|Onyx|
@@ -41510,6 +41526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |innos|Innos|shilin|Innos4KAndroidTV|
 |innos|innos|bruno|Innos2KAndroidTV|
 |innos|innos 2K Google TV|capitolhill|innos 2K Google TV|
+|innos|innos 2K Google TV-A|capitolhill|innos 2K Google TV-A|
 |innos|innos 4K Google TV|keoneae|innos 4K Google TV|
 |innos|innos 4K Google TV-A|keoneae|innos 4K Google TV-A|
 |innos|innos Google TV|bandra|innos Google TV|
