@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-21
+Last sync is 2024-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2306,6 +2306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|YQ10S_MAX|YQ10S_MAX|YQ10S_MAX|
 |Atria Convergence Technologies|ACT|B860H_V1|B860H|
 |Attila|Magic_1|Magic_1|Magic_1|
+|Attila|WTATTRW2|WTATTRW2|WTATTRW2|
 |Auchan|AUCHAN|Q7T9INK|Q7T9INK|
 |Auchan|LI12210IN|LI12210IN|LI12210IN|
 |Auchan|LI902T9IN|LI902T9IN|LI902T9IN|
@@ -3901,6 +3902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M10L PLUS|M0223_ND|M10L PLUS|
 |Blu|M10L PLUS|M0224_ND|M10L PLUS|
 |Blu|M10L Pro|M0214_ND|M10L Pro|
+|Blu|M10L Pro|M0215_MXT|M10L Pro|
 |Blu|M10L Pro|M0215_ND|M10L Pro|
 |Blu|M6|M0030TT|M6|
 |Blu|M6|M030P|M6|
@@ -6318,6 +6320,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Detco|Detco 4K Google TV|keoneae|Detco 4K Google TV|
 |Deutsche Telekom|T Phone|Jaguar|T Phone|
 |Deutsche Telekom|T Phone Pro|Lion|T Phone Pro|
+|Deutsche Telekom|T Phone Pro (2023)|Tiger|T Phone Pro (2023)|
+|Deutsche Telekom|T Phone （2023）|Leopard|T Phone (2023)|
+|Deutsche Telekom|T Tablet|Hubbs|T Tablet|
 |DiDi (Japan)|DDT-001|DDT-001|DDT-001|
 |DiMora Mobile|Adrenalin Pro|Adrenalin_Pro|Adrenalin Pro|
 |DiMora Mobile|DiMora_LUX|DiMora_LUX|DiMora_LUX|
@@ -7755,6 +7760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F&U (Fandu)|Greece|marina|FU 4K SMART TV|
 |F&U (Fandu)|Greece|tamachi|F and U Android TV|
 |F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
+|F-Plus|R570E|R570E|R570E|
 |F-Plus|SA50_21620|SA50_21620|SA50_21620|
 |F-Plus|SA55_21624|SA55_21624|SA55 2GB/16GB 2400mAh GMS|
 |F-Plus|SH60_23230|SH60_23230|SH60_23230|
@@ -14698,6 +14704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1702|itel_it1702|itel it1702|
 |Itel|it1703|itel_it1703|itel it1703|
 |Itel|itel  A24|itel-A507LN|itel A507LN|
+|Itel|itel  A24 2023|itel-A507LX|itel A507LX|
 |Itel|itel  A58 Lite|itel-A631W-R2|itel A631W|
 |Itel|itel  AC50|itel-A507LM|itel A507LM|
 |Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
@@ -19271,11 +19278,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEDER|MEDER|smartguide210_eea|SmartGuide_2.10|
 |MEDER|SmartGuide210-464|SmartGuide210-464|SmartGuide210-464|
 |MEDER|m60|m60|m60|
+|MEFERI|CIAO|CIAO|CIAO|
 |MEFERI|ME10|ME10|ME10|
 |MEFERI|ME40K|ME40K|ME40K|
 |MEFERI|ME40M|ME40K_M|ME40K|
 |MEFERI|ME61|ME61|ME61|
 |MEFERI|ME65|ME65|ME65|
+|MEFERI|ME74|ME74|ME74|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K|DV8985-MEO|MEOBox 4K DV8985|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
@@ -21611,6 +21620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mpman|PH60|PH60|PH60|
 |Mpman|PH604|PH604|PH604|
 |Mswipe|WiseposGo|L200|L200|
+|Mtek|MTEK|lavender|4K SMART TV|
 |Mtek|MTEK|stanford|2K SMART TV|
 |Mtek|MTEK|zhongshan|4K SMART TV|
 |Multilaser|Brazil|martin|Multilaser Android TV|
@@ -22926,6 +22936,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|S70 Pro|S70_Pro|S70 Pro|
 |OSCAL|S80|S80|S80|
 |OSCAL|S80_RU|S80|S80|
+|OSCAL|TIGER 12|Tiger12|TIGER 12|
+|OSCAL|Tiger 12|Tiger12|TIGER 12|
 |OSN tv|NGB22-OSN|HY45N|NGB22-OSN|
 |OTHO|T1|T1|T1|
 |OTHO|T3|T3|T3|
@@ -23220,6 +23232,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A17k|OP56F5|CPH2471|
 |Oppo|A18|OP575DL1|CPH2591|
 |Oppo|A1k|OP486C|CPH1923|
+|Oppo|A2 5G|OP5647|PJB110|
+|Oppo|A2m 5G|OP5A0D|PJU110|
 |Oppo|A2x 5G|OP5A0D|PJS110|
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A31|A31t|A31|
@@ -23297,6 +23311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A59|A59|OPPO A59|
 |Oppo|A59|A59|OPPO A59m|
 |Oppo|A59|A59|OPPO A59s|
+|Oppo|A59 5G|OP5AD5L1|CPH2617|
 |Oppo|A59m|A59|OPPO A59m|
 |Oppo|A59st|A59|OPPO A59st|
 |Oppo|A59t|A59|OPPO A59t|
@@ -24655,7 +24670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0552|PENTA_83AAQ2|PENTA_83AAQ2|
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
-|Pepperl_Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
+|Pepperl+Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
 |Performance|T7|T7|T7|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T9|T9|T9|
@@ -24714,6 +24729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PHILIPS|TLE722G|TLE722G|
 |Philips|PHILIPS|hongkong|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV|
+|Philips|PHILIPS|lavender|4K SMART TV PH|
 |Philips|PHILIPS|mountbaker|2K SMART TV|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
@@ -32719,6 +32735,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 5G|Seattle_5G|T790Z|
 |T-Mobile|REVVL 6|Bethpage|TMAF025G|
 |T-Mobile|REVVL 6 Pro|Augusta|TMAF035G|
+|T-Mobile|REVVL 6x 5G|TorreyPines|TMRV065G|
+|T-Mobile|REVVL 6x PRO 5G|SouthernDunes|TMRV06P5G|
+|T-Mobile|REVVL TAB 5G|REVVLTAB5G|TMRV5GTB|
 |T-Mobile|REVVL V|Newcastle|TMRVL4G|
 |T-Mobile|REVVL V+ 5G|Sprout|REVVL V+ 5G|
 |T-Mobile|REVVLRY|channel|REVVLRY|
@@ -32961,6 +32980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB 8 Plus|Luna_8_4G_VZW|9138S|
+|TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136R|
 |TCL|TCL TAB 8 V|Luna|9132X|
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
@@ -35112,6 +35132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 20|TECNO-KJ5s|TECNO KJ5s|
 |Tecno|TECNO SPARK 20 Pro|TECNO-KJ6|TECNO KJ6|
 |Tecno|TECNO SPARK 20 Pro+|TECNO-KJ7|TECNO KJ7|
+|Tecno|TECNO SPARK 20 Pro+|TECNO-KJ7s|TECNO KJ7s|
 |Tecno|TECNO SPARK 20C|TECNO-BG7|TECNO BG7|
 |Tecno|TECNO SPARK 20C|TECNO-BG7n|TECNO BG7n|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
@@ -37347,6 +37368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo8|PD2301|V2301A|
 |Vivo|iQOO Neo8 Pro|PD2302|V2302A|
 |Vivo|iQOO Neo9|PD2338|V2338A|
+|Vivo|iQOO Neo9 Pro|I2304|I2304|
 |Vivo|iQOO Neo9 Pro|PD2339|V2339A|
 |Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|

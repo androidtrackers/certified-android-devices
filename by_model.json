@@ -2973,6 +2973,11 @@
   {
    "brand": "Mtek",
    "name": "MTEK",
+   "device": "lavender"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
    "device": "zhongshan"
   },
   {
@@ -19825,6 +19830,13 @@
    "device": "Magic_1"
   }
  ],
+ "WTATTRW2": [
+  {
+   "brand": "Attila",
+   "name": "WTATTRW2",
+   "device": "WTATTRW2"
+  }
+ ],
  "Q7T9INK": [
   {
    "brand": "Auchan",
@@ -31216,6 +31228,11 @@
    "brand": "Blu",
    "name": "M10L Pro",
    "device": "M0214_ND"
+  },
+  {
+   "brand": "Blu",
+   "name": "M10L Pro",
+   "device": "M0215_MXT"
   },
   {
    "brand": "Blu",
@@ -48586,6 +48603,27 @@
    "device": "Lion"
   }
  ],
+ "T Phone Pro (2023)": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Phone Pro (2023)",
+   "device": "Tiger"
+  }
+ ],
+ "T Phone (2023)": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Phone （2023）",
+   "device": "Leopard"
+  }
+ ],
+ "T Tablet": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Tablet",
+   "device": "Hubbs"
+  }
+ ],
  "DDT-001": [
   {
    "brand": "DiDi (Japan)",
@@ -58592,6 +58630,13 @@
    "brand": "F&U (Fandu)",
    "name": "Greece",
    "device": "yeongdeungpo"
+  }
+ ],
+ "R570E": [
+  {
+   "brand": "F-Plus",
+   "name": "R570E",
+   "device": "R570E"
   }
  ],
  "SA50_21620": [
@@ -105177,6 +105222,13 @@
    "device": "itel-A507LN"
   }
  ],
+ "itel A507LX": [
+  {
+   "brand": "Itel",
+   "name": "itel  A24 2023",
+   "device": "itel-A507LX"
+  }
+ ],
  "itel A507LM": [
   {
    "brand": "Itel",
@@ -134798,6 +134850,13 @@
    "device": "m60"
   }
  ],
+ "CIAO": [
+  {
+   "brand": "MEFERI",
+   "name": "CIAO",
+   "device": "CIAO"
+  }
+ ],
  "ME10": [
   {
    "brand": "MEFERI",
@@ -134829,6 +134888,13 @@
    "brand": "MEFERI",
    "name": "ME65",
    "device": "ME65"
+  }
+ ],
+ "ME74": [
+  {
+   "brand": "MEFERI",
+   "name": "ME74",
+   "device": "ME74"
   }
  ],
  "MEO TV Box 4K": [
@@ -157862,6 +157928,18 @@
    "device": "S70_Pro"
   }
  ],
+ "TIGER 12": [
+  {
+   "brand": "OSCAL",
+   "name": "TIGER 12",
+   "device": "Tiger12"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Tiger 12",
+   "device": "Tiger12"
+  }
+ ],
  "NGB22-OSN": [
   {
    "brand": "OSN tv",
@@ -159729,6 +159807,20 @@
    "device": "OP486C"
   }
  ],
+ "PJB110": [
+  {
+   "brand": "Oppo",
+   "name": "A2 5G",
+   "device": "OP5647"
+  }
+ ],
+ "PJU110": [
+  {
+   "brand": "Oppo",
+   "name": "A2m 5G",
+   "device": "OP5A0D"
+  }
+ ],
  "PJS110": [
   {
    "brand": "Oppo",
@@ -160280,6 +160372,13 @@
    "brand": "Oppo",
    "name": "A59",
    "device": "A59"
+  }
+ ],
+ "CPH2617": [
+  {
+   "brand": "Oppo",
+   "name": "A59 5G",
+   "device": "OP5AD5L1"
   }
  ],
  "OPPO A59st": [
@@ -169059,7 +169158,7 @@
  ],
  "Smart-Ex03": [
   {
-   "brand": "Pepperl_Fuchs",
+   "brand": "Pepperl+Fuchs",
    "name": "Smart-Ex 03",
    "device": "Smart-Ex03"
   }
@@ -169425,6 +169524,13 @@
    "brand": "Philips",
    "name": "TLE722G",
    "device": "TLE722G"
+  }
+ ],
+ "4K SMART TV PH": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "device": "lavender"
   }
  ],
  "PHILIPS TV": [
@@ -222024,6 +222130,27 @@
    "device": "Augusta"
   }
  ],
+ "TMRV065G": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 6x 5G",
+   "device": "TorreyPines"
+  }
+ ],
+ "TMRV06P5G": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 6x PRO 5G",
+   "device": "SouthernDunes"
+  }
+ ],
+ "TMRV5GTB": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL TAB 5G",
+   "device": "REVVLTAB5G"
+  }
+ ],
  "TMRVL4G": [
   {
    "brand": "T-Mobile",
@@ -223627,6 +223754,13 @@
    "brand": "TCL",
    "name": "TCL TAB 8 Plus",
    "device": "Luna_8_4G_VZW"
+  }
+ ],
+ "9136R": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 SE",
+   "device": "Luna_8_4G_ATT"
   }
  ],
  "9050S": [
@@ -237926,6 +238060,13 @@
    "device": "TECNO-KJ7"
   }
  ],
+ "TECNO KJ7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20 Pro+",
+   "device": "TECNO-KJ7s"
+  }
+ ],
  "TECNO BG7": [
   {
    "brand": "Tecno",
@@ -251854,6 +251995,13 @@
    "brand": "Vivo",
    "name": "iQOO Neo9",
    "device": "PD2338"
+  }
+ ],
+ "I2304": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo9 Pro",
+   "device": "I2304"
   }
  ],
  "V2339A": [

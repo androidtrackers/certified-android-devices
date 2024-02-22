@@ -12691,6 +12691,11 @@
    "model": "MOTOROLA GOOGLE TV 4K"
   },
   {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "PEL (PAK)",
    "name": "PEL",
    "model": "4K SMART TV"
@@ -12699,6 +12704,11 @@
    "brand": "Philips",
    "name": "PHILIPS",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "model": "4K SMART TV PH"
   },
   {
    "brand": "QBell",
@@ -24833,6 +24843,13 @@
    "model": "Magic_1"
   }
  ],
+ "WTATTRW2": [
+  {
+   "brand": "Attila",
+   "name": "WTATTRW2",
+   "model": "WTATTRW2"
+  }
+ ],
  "Q7T9INK": [
   {
    "brand": "Auchan",
@@ -36307,6 +36324,13 @@
   }
  ],
  "M0214_ND": [
+  {
+   "brand": "Blu",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  }
+ ],
+ "M0215_MXT": [
   {
    "brand": "Blu",
    "name": "M10L Pro",
@@ -53747,6 +53771,32 @@
    "model": "T Phone Pro"
   }
  ],
+ "Tiger": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Phone Pro (2023)",
+   "model": "T Phone Pro (2023)"
+  },
+  {
+   "brand": "Vertex",
+   "name": "Impress Tiger",
+   "model": "Tiger"
+  }
+ ],
+ "Leopard": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Phone （2023）",
+   "model": "T Phone (2023)"
+  }
+ ],
+ "Hubbs": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Tablet",
+   "model": "T Tablet"
+  }
+ ],
  "DDT-001": [
   {
    "brand": "DiDi (Japan)",
@@ -63393,6 +63443,13 @@
    "brand": "EyeTech",
    "name": "EyeOnGo10",
    "model": "EyeOnGo"
+  }
+ ],
+ "R570E": [
+  {
+   "brand": "F-Plus",
+   "name": "R570E",
+   "model": "R570E"
   }
  ],
  "SA50_21620": [
@@ -105971,6 +106028,13 @@
    "model": "itel A507LN"
   }
  ],
+ "itel-A507LX": [
+  {
+   "brand": "Itel",
+   "name": "itel  A24 2023",
+   "model": "itel A507LX"
+  }
+ ],
  "itel-A631W-R2": [
   {
    "brand": "Itel",
@@ -133629,6 +133693,13 @@
    "model": "m60"
   }
  ],
+ "CIAO": [
+  {
+   "brand": "MEFERI",
+   "name": "CIAO",
+   "model": "CIAO"
+  }
+ ],
  "ME10": [
   {
    "brand": "MEFERI",
@@ -133662,6 +133733,13 @@
    "brand": "MEFERI",
    "name": "ME65",
    "model": "ME65"
+  }
+ ],
+ "ME74": [
+  {
+   "brand": "MEFERI",
+   "name": "ME74",
+   "model": "ME74"
   }
  ],
  "DV8555-MEO": [
@@ -156048,6 +156126,18 @@
    "model": "S70 Pro"
   }
  ],
+ "Tiger12": [
+  {
+   "brand": "OSCAL",
+   "name": "TIGER 12",
+   "model": "TIGER 12"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Tiger 12",
+   "model": "TIGER 12"
+  }
+ ],
  "HY45N": [
   {
    "brand": "OSN tv",
@@ -157772,7 +157862,19 @@
    "model": "CPH1923"
   }
  ],
+ "OP5647": [
+  {
+   "brand": "Oppo",
+   "name": "A2 5G",
+   "model": "PJB110"
+  }
+ ],
  "OP5A0D": [
+  {
+   "brand": "Oppo",
+   "name": "A2m 5G",
+   "model": "PJU110"
+  },
   {
    "brand": "Oppo",
    "name": "A2x 5G",
@@ -158224,6 +158326,13 @@
    "brand": "Oppo",
    "name": "A59tm",
    "model": "OPPO A59tm"
+  }
+ ],
+ "OP5AD5L1": [
+  {
+   "brand": "Oppo",
+   "name": "A59 5G",
+   "model": "CPH2617"
   }
  ],
  "CPH1901": [
@@ -166876,7 +166985,7 @@
  ],
  "Smart-Ex03": [
   {
-   "brand": "Pepperl_Fuchs",
+   "brand": "Pepperl+Fuchs",
    "name": "Smart-Ex 03",
    "model": "Smart-Ex03"
   }
@@ -215931,6 +216040,27 @@
    "model": "TMAF035G"
   }
  ],
+ "TorreyPines": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 6x 5G",
+   "model": "TMRV065G"
+  }
+ ],
+ "SouthernDunes": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 6x PRO 5G",
+   "model": "TMRV06P5G"
+  }
+ ],
+ "REVVLTAB5G": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL TAB 5G",
+   "model": "TMRV5GTB"
+  }
+ ],
  "Newcastle": [
   {
    "brand": "T-Mobile",
@@ -218300,6 +218430,13 @@
    "brand": "TCL",
    "name": "TCL TAB Disney Edition 2",
    "model": "9150S"
+  }
+ ],
+ "Luna_8_4G_ATT": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 SE",
+   "model": "9136R"
   }
  ],
  "Challenger_TH": [
@@ -229176,6 +229313,13 @@
    "model": "TECNO KJ7"
   }
  ],
+ "TECNO-KJ7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 20 Pro+",
+   "model": "TECNO KJ7s"
+  }
+ ],
  "TECNO-BG7": [
   {
    "brand": "Tecno",
@@ -237467,13 +237611,6 @@
    "model": "Sun"
   }
  ],
- "Tiger": [
-  {
-   "brand": "Vertex",
-   "name": "Impress Tiger",
-   "model": "Tiger"
-  }
- ],
  "Impress_Tor": [
   {
    "brand": "Vertex",
@@ -242307,6 +242444,13 @@
    "brand": "Vivo",
    "name": "iQOO Neo9",
    "model": "V2338A"
+  }
+ ],
+ "I2304": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo9 Pro",
+   "model": "I2304"
   }
  ],
  "PD2339": [

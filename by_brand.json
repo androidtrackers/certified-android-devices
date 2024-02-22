@@ -11906,6 +11906,11 @@
    "device": "Magic_1",
    "name": "Magic_1",
    "model": "Magic_1"
+  },
+  {
+   "device": "WTATTRW2",
+   "name": "WTATTRW2",
+   "model": "WTATTRW2"
   }
  ],
  "Auchan": [
@@ -20085,6 +20090,11 @@
   },
   {
    "device": "M0214_ND",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  },
+  {
+   "device": "M0215_MXT",
    "name": "M10L Pro",
    "model": "M10L Pro"
   },
@@ -32688,6 +32698,21 @@
    "device": "Lion",
    "name": "T Phone Pro",
    "model": "T Phone Pro"
+  },
+  {
+   "device": "Tiger",
+   "name": "T Phone Pro (2023)",
+   "model": "T Phone Pro (2023)"
+  },
+  {
+   "device": "Leopard",
+   "name": "T Phone （2023）",
+   "model": "T Phone (2023)"
+  },
+  {
+   "device": "Hubbs",
+   "name": "T Tablet",
+   "model": "T Tablet"
   }
  ],
  "DiDi (Japan)": [
@@ -40238,6 +40263,11 @@
   }
  ],
  "F-Plus": [
+  {
+   "device": "R570E",
+   "name": "R570E",
+   "model": "R570E"
+  },
   {
    "device": "SA50_21620",
    "name": "SA50_21620",
@@ -75714,6 +75744,11 @@
    "model": "itel A507LN"
   },
   {
+   "device": "itel-A507LX",
+   "name": "itel  A24 2023",
+   "model": "itel A507LX"
+  },
+  {
    "device": "itel-A631W-R2",
    "name": "itel  A58 Lite",
    "model": "itel A631W"
@@ -99079,6 +99114,11 @@
  ],
  "MEFERI": [
   {
+   "device": "CIAO",
+   "name": "CIAO",
+   "model": "CIAO"
+  },
+  {
    "device": "ME10",
    "name": "ME10",
    "model": "ME10"
@@ -99102,6 +99142,11 @@
    "device": "ME65",
    "name": "ME65",
    "model": "ME65"
+  },
+  {
+   "device": "ME74",
+   "name": "ME74",
+   "model": "ME74"
   }
  ],
  "MEO(Portugal)": [
@@ -111105,6 +111150,11 @@
  ],
  "Mtek": [
   {
+   "device": "lavender",
+   "name": "MTEK",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "MTEK",
    "model": "2K SMART TV"
@@ -117936,6 +117986,16 @@
    "device": "S80",
    "name": "S80_RU",
    "model": "S80"
+  },
+  {
+   "device": "Tiger12",
+   "name": "TIGER 12",
+   "model": "TIGER 12"
+  },
+  {
+   "device": "Tiger12",
+   "name": "Tiger 12",
+   "model": "TIGER 12"
   }
  ],
  "OSN tv": [
@@ -119486,6 +119546,16 @@
    "model": "CPH1923"
   },
   {
+   "device": "OP5647",
+   "name": "A2 5G",
+   "model": "PJB110"
+  },
+  {
+   "device": "OP5A0D",
+   "name": "A2m 5G",
+   "model": "PJU110"
+  },
+  {
    "device": "OP5A0D",
    "name": "A2x 5G",
    "model": "PJS110"
@@ -119869,6 +119939,11 @@
    "device": "A59",
    "name": "A59",
    "model": "OPPO A59s"
+  },
+  {
+   "device": "OP5AD5L1",
+   "name": "A59 5G",
+   "model": "CPH2617"
   },
   {
    "device": "A59",
@@ -126805,7 +126880,7 @@
    "model": "PENTA_73AAQ1"
   }
  ],
- "Pepperl_Fuchs": [
+ "Pepperl+Fuchs": [
   {
    "device": "Smart-Ex03",
    "name": "Smart-Ex 03",
@@ -127108,6 +127183,11 @@
    "device": "lavender",
    "name": "PHILIPS",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "PHILIPS",
+   "model": "4K SMART TV PH"
   },
   {
    "device": "mountbaker",
@@ -167949,6 +168029,21 @@
    "model": "TMAF035G"
   },
   {
+   "device": "TorreyPines",
+   "name": "REVVL 6x 5G",
+   "model": "TMRV065G"
+  },
+  {
+   "device": "SouthernDunes",
+   "name": "REVVL 6x PRO 5G",
+   "model": "TMRV06P5G"
+  },
+  {
+   "device": "REVVLTAB5G",
+   "name": "REVVL TAB 5G",
+   "model": "TMRV5GTB"
+  },
+  {
    "device": "Newcastle",
    "name": "REVVL V",
    "model": "TMRVL4G"
@@ -169179,6 +169274,11 @@
    "device": "Luna_8_4G_VZW",
    "name": "TCL TAB 8 Plus",
    "model": "9138S"
+  },
+  {
+   "device": "Luna_8_4G_ATT",
+   "name": "TCL TAB 8 SE",
+   "model": "9136R"
   },
   {
    "device": "Luna",
@@ -180118,6 +180218,11 @@
    "device": "TECNO-KJ7",
    "name": "TECNO SPARK 20 Pro+",
    "model": "TECNO KJ7"
+  },
+  {
+   "device": "TECNO-KJ7s",
+   "name": "TECNO SPARK 20 Pro+",
+   "model": "TECNO KJ7s"
   },
   {
    "device": "TECNO-BG7",
@@ -191735,6 +191840,11 @@
    "device": "PD2338",
    "name": "iQOO Neo9",
    "model": "V2338A"
+  },
+  {
+   "device": "I2304",
+   "name": "iQOO Neo9 Pro",
+   "model": "I2304"
   },
   {
    "device": "PD2339",
