@@ -333,6 +333,11 @@
  "B866V2F02": [
   {
    "brand": "A1",
+   "name": "A1 Bulgaria B866V2F02",
+   "device": "A1_B866V2F02"
+  },
+  {
+   "brand": "A1",
    "name": "A1 Hrvatska B866V2F02",
    "device": "A1_B866V2F02"
   }
@@ -277240,6 +277245,13 @@
    "brand": "iHunt",
    "name": "Like_Hi5",
    "device": "Like_Hi5"
+  }
+ ],
+ "Titan P8000 Ultra Carbon": [
+  {
+   "brand": "iHunt",
+   "name": "P8000_Ultra_EEA",
+   "device": "P8000_Ultra"
   }
  ],
  "S10 Tank 2020": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-22
+Last sync is 2024-02-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -39,6 +39,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |9mobile|DM_T901|DM_T901|DM_T901|
 |A.O.I. ELECTRONICS FACTORY|A.O.I.|TR10CS1_11|TR10CS1|
 |A1|A1 Alpha 20+|P671F60|A1 Alpha 20+|
+|A1|A1 Bulgaria B866V2F02|A1_B866V2F02|B866V2F02|
 |A1|A1 Hrvatska B866V2F02|A1_B866V2F02|B866V2F02|
 |A1|A1 Smart N9|VFD720|VFD 720|
 |A1|A1-Smart-Box-DV9161|DV9161-KBA|A1-Smart-Box-DV9161|
@@ -41351,6 +41352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|Like_7|Like_7|Like_7|
 |iHunt|Like_Hi10_2021|Like_Hi10_2021|Like_Hi10_2021|
 |iHunt|Like_Hi5|Like_Hi5|Like Hi5|
+|iHunt|P8000_Ultra_EEA|P8000_Ultra|Titan P8000 Ultra Carbon|
 |iHunt|S10 Tank 2020|S10_Tank_2020|S10 Tank 2020|
 |iHunt|S10 Tank PRO 2020|S10_Tank_PRO_2020|S10 Tank PRO 2020|
 |iHunt|S100ApeX|S100ApeX|S100ApeX|

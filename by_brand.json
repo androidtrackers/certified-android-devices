@@ -202,6 +202,11 @@
   },
   {
    "device": "A1_B866V2F02",
+   "name": "A1 Bulgaria B866V2F02",
+   "model": "B866V2F02"
+  },
+  {
+   "device": "A1_B866V2F02",
    "name": "A1 Hrvatska B866V2F02",
    "model": "B866V2F02"
   },
@@ -212257,6 +212262,11 @@
    "device": "Like_Hi5",
    "name": "Like_Hi5",
    "model": "Like Hi5"
+  },
+  {
+   "device": "P8000_Ultra",
+   "name": "P8000_Ultra_EEA",
+   "model": "Titan P8000 Ultra Carbon"
   },
   {
    "device": "S10_Tank_2020",
