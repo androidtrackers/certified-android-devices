@@ -185447,6 +185447,23 @@
    "model": "SM-S546VL"
   }
  ],
+ "Galaxy A55 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a55x",
+   "model": "SM-A5560"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a55x",
+   "model": "SM-A556B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a55x",
+   "model": "SM-A556E"
+  }
+ ],
  "Galaxy A6": [
   {
    "brand": "Samsung",

@@ -143153,6 +143153,21 @@
    "model": "SM-S546VL"
   },
   {
+   "device": "a55x",
+   "name": "Galaxy A55 5G",
+   "model": "SM-A5560"
+  },
+  {
+   "device": "a55x",
+   "name": "Galaxy A55 5G",
+   "model": "SM-A556B"
+  },
+  {
+   "device": "a55x",
+   "name": "Galaxy A55 5G",
+   "model": "SM-A556E"
+  },
+  {
    "device": "a6elteaio",
    "name": "Galaxy A6",
    "model": "SM-A600AZ"

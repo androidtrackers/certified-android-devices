@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-23
+Last sync is 2024-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27823,6 +27823,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A54 5G|a54x|SM-A546V|
 |Samsung|Galaxy A54 5G|a54x|SM-A546W|
 |Samsung|Galaxy A54 5G|a54x|SM-S546VL|
+|Samsung|Galaxy A55 5G|a55x|SM-A5560|
+|Samsung|Galaxy A55 5G|a55x|SM-A556B|
+|Samsung|Galaxy A55 5G|a55x|SM-A556E|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|

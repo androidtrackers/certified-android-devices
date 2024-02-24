@@ -189565,6 +189565,27 @@
    "device": "a54x"
   }
  ],
+ "SM-A5560": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "device": "a55x"
+  }
+ ],
+ "SM-A556B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "device": "a55x"
+  }
+ ],
+ "SM-A556E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "device": "a55x"
+  }
+ ],
  "SM-A600AZ": [
   {
    "brand": "Samsung",
