@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-25
+Last sync is 2024-02-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3800,6 +3800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G0290WW|G0290WW|G80|
 |Blu|G33|G0890|G33|
 |Blu|G33|G0892|G33|
+|Blu|G33|G0892_GMOB|G33|
 |Blu|G33|G0892_MXT|G33|
 |Blu|G33|G0892_SP|G33|
 |Blu|G33|G0892_SYN|G33|
@@ -13587,6 +13588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IIIF150|B2|B2|B2|
 |IIIF150|B2 Ultra|B2_Ultra|B2 Ultra|
 |IIIF150|Raptor LTD|Raptor|Raptor|
+|IKALL|I KALL Z13|I_KALL_Z13|Z13|
 |IKALL|IKALL|IKALL|IKALL|
 |IKALL|K510|K510|K510|
 |IKALL|N4|N4|N4|
@@ -19291,6 +19293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K v2|DIW377-MEO|MEO TV Box 4K (DIW377)|
+|METHOD_XI|KW_IWB|KW_RK3588|METHOD_XI_8600|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
 |MG series|Any 302|TR10CS2_2|TR10CS2|
@@ -19424,6 +19427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Hansung|shilin|Hansung4KAndroidTV|
 |MTC|Infiniton|bangbae|Infiniton 4K Android TV|
 |MTC|Infiniton|komagome|Infiniton 2K Android TV|
+|MTC|JVC|shilin|JVC TV Ultra|
 |MTC|JVC|shilin|JVC US 4K Android TV|
 |MTC|KIVI|shilin|KIVI 4K Android TV|
 |MTC|KLEINZ|shilin|KLEINZ4KAndroidTV|

@@ -36048,6 +36048,11 @@
   },
   {
    "brand": "Blu",
+   "device": "G0892_GMOB",
+   "model": "G33"
+  },
+  {
+   "brand": "Blu",
    "device": "G0892_MXT",
    "model": "G33"
   },
@@ -60420,6 +60425,11 @@
    "brand": "JVC",
    "device": "zhongshan",
    "model": "COL 4K SMART TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "JVC TV Ultra"
   },
   {
    "brand": "MTC",
@@ -100047,6 +100057,13 @@
    "model": "Raptor"
   }
  ],
+ "I KALL Z13": [
+  {
+   "brand": "IKALL",
+   "device": "I_KALL_Z13",
+   "model": "Z13"
+  }
+ ],
  "IKALL": [
   {
    "brand": "IKALL",
@@ -133848,6 +133865,13 @@
    "brand": "MEO(Portugal)",
    "device": "DIW377-MEO",
    "model": "MEO TV Box 4K (DIW377)"
+  }
+ ],
+ "KW_IWB": [
+  {
+   "brand": "METHOD_XI",
+   "device": "KW_RK3588",
+   "model": "METHOD_XI_8600"
   }
  ],
  "Any 302": [

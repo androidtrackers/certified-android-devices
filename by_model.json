@@ -30490,6 +30490,11 @@
   {
    "brand": "Blu",
    "name": "G33",
+   "device": "G0892_GMOB"
+  },
+  {
+   "brand": "Blu",
+   "name": "G33",
    "device": "G0892_MXT"
   },
   {
@@ -97846,6 +97851,18 @@
    "device": "Raptor"
   }
  ],
+ "Z13": [
+  {
+   "brand": "IKALL",
+   "name": "I KALL Z13",
+   "device": "I_KALL_Z13"
+  },
+  {
+   "brand": "Leagoo",
+   "name": "Z13",
+   "device": "Z13"
+  }
+ ],
  "IKALL": [
   {
    "brand": "IKALL",
@@ -126180,13 +126197,6 @@
    "device": "Z10-E"
   }
  ],
- "Z13": [
-  {
-   "brand": "Leagoo",
-   "name": "Z13",
-   "device": "Z13"
-  }
- ],
  "Z7": [
   {
    "brand": "Leagoo",
@@ -134935,6 +134945,13 @@
    "device": "DIW377-MEO"
   }
  ],
+ "METHOD_XI_8600": [
+  {
+   "brand": "METHOD_XI",
+   "name": "KW_IWB",
+   "device": "KW_RK3588"
+  }
+ ],
  "TR10CS2": [
   {
    "brand": "MG Series",
@@ -135769,6 +135786,13 @@
    "brand": "MTC",
    "name": "Infiniton",
    "device": "komagome"
+  }
+ ],
+ "JVC TV Ultra": [
+  {
+   "brand": "MTC",
+   "name": "JVC",
+   "device": "shilin"
   }
  ],
  "KLEINZ4KAndroidTV": [

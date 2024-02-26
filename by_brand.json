@@ -19584,6 +19584,11 @@
    "model": "G33"
   },
   {
+   "device": "G0892_GMOB",
+   "name": "G33",
+   "model": "G33"
+  },
+  {
    "device": "G0892_MXT",
    "name": "G33",
    "model": "G33"
@@ -70005,6 +70010,11 @@
  ],
  "IKALL": [
   {
+   "device": "I_KALL_Z13",
+   "name": "I KALL Z13",
+   "model": "Z13"
+  },
+  {
    "device": "IKALL",
    "name": "IKALL",
    "model": "IKALL"
@@ -99181,6 +99191,13 @@
    "model": "MEO TV Box 4K (DIW377)"
   }
  ],
+ "METHOD_XI": [
+  {
+   "device": "KW_RK3588",
+   "name": "KW_IWB",
+   "model": "METHOD_XI_8600"
+  }
+ ],
  "MG Series": [
   {
    "device": "TR10CS2_3",
@@ -99904,6 +99921,11 @@
    "device": "komagome",
    "name": "Infiniton",
    "model": "Infiniton 2K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "JVC",
+   "model": "JVC TV Ultra"
   },
   {
    "device": "shilin",

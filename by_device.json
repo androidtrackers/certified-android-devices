@@ -10610,6 +10610,11 @@
   {
    "brand": "MTC",
    "name": "JVC",
+   "model": "JVC TV Ultra"
+  },
+  {
+   "brand": "MTC",
+   "name": "JVC",
    "model": "JVC US 4K Android TV"
   },
   {
@@ -35614,6 +35619,13 @@
   }
  ],
  "G0892": [
+  {
+   "brand": "Blu",
+   "name": "G33",
+   "model": "G33"
+  }
+ ],
+ "G0892_GMOB": [
   {
    "brand": "Blu",
    "name": "G33",
@@ -98911,6 +98923,13 @@
    "model": "Raptor"
   }
  ],
+ "I_KALL_Z13": [
+  {
+   "brand": "IKALL",
+   "name": "I KALL Z13",
+   "model": "Z13"
+  }
+ ],
  "IKALL": [
   {
    "brand": "IKALL",
@@ -133778,6 +133797,13 @@
    "brand": "MEO(Portugal)",
    "name": "MEOBox 4K v2",
    "model": "MEO TV Box 4K (DIW377)"
+  }
+ ],
+ "KW_RK3588": [
+  {
+   "brand": "METHOD_XI",
+   "name": "KW_IWB",
+   "model": "METHOD_XI_8600"
   }
  ],
  "TR10CS2_3": [
