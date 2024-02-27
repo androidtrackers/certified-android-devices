@@ -2842,6 +2842,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "OZON",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
    "name": "PHIMARK",
    "device": "hongkong"
   },
@@ -3270,6 +3275,11 @@
   {
    "brand": "KTCtv",
    "name": "KTC",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "OZON",
    "device": "stanford"
   },
   {
@@ -16481,6 +16491,11 @@
    "device": "A1"
   },
   {
+   "brand": "Cubot",
+   "name": "A1_EEA",
+   "device": "A1"
+  },
+  {
    "brand": "Haier",
    "name": "Alpha A1",
    "device": "A1"
@@ -20556,6 +20571,13 @@
    "brand": "Axen",
    "name": "AXEN 2K Google TV",
    "device": "capitolhill"
+  }
+ ],
+ "AXEN 4K Google TV": [
+  {
+   "brand": "Axen",
+   "name": "AXEN 4K Google TV",
+   "device": "keoneae"
   }
  ],
  "Axioo_AX4": [
@@ -31230,6 +31252,11 @@
   {
    "brand": "Blu",
    "name": "M10L PLUS",
+   "device": "M0224"
+  },
+  {
+   "brand": "Blu",
+   "name": "M10L PLUS",
    "device": "M0224_ND"
   }
  ],
@@ -31248,6 +31275,11 @@
    "brand": "Blu",
    "name": "M10L Pro",
    "device": "M0215_ND"
+  },
+  {
+   "brand": "Blu",
+   "name": "M10L Pro",
+   "device": "M0215_NDSK"
   }
  ],
  "M6": [
@@ -32278,6 +32310,13 @@
    "brand": "Blu",
    "name": "VIVO XL",
    "device": "BLU_VIVO_XL"
+  }
+ ],
+ "B170D": [
+  {
+   "brand": "Blu",
+   "name": "View 5 Pro",
+   "device": "B170D"
   }
  ],
  "Vivo 12 Pro": [
@@ -84361,11 +84400,25 @@
    "device": "HNBVL"
   }
  ],
+ "BVL-N49": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic6 Pro",
+   "device": "HNBVL"
+  }
+ ],
  "HEY-W09": [
   {
    "brand": "Honor",
    "name": "HONOR Pad 8",
    "device": "HNHEY-Q"
+  }
+ ],
+ "HEY2-W09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 9",
+   "device": "HNHEY2-Q"
   }
  ],
  "AGM3-AL09HN": [
@@ -166424,6 +166477,13 @@
    "device": "lasalle"
   }
  ],
+ "PROTON 2K Google TV": [
+  {
+   "brand": "PROTON",
+   "name": "PROTON 2K Google TV",
+   "device": "capitolhill"
+  }
+ ],
  "PROTON 4K Android": [
   {
    "brand": "PROTON",
@@ -186359,6 +186419,13 @@
    "brand": "SYLVOX",
    "name": "SYLVOX 4K Google TV-E",
    "device": "keoneae"
+  }
+ ],
+ "SYLVOX Google TV": [
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX Google TV",
+   "device": "bandra"
   }
  ],
  "SYLVOX Google TV-A": [
@@ -220972,6 +221039,13 @@
    "device": "capitolhill"
   }
  ],
+ "SUNNY 4K Google TV": [
+  {
+   "brand": "Sunny",
+   "name": "SUNNY 4K Google TV",
+   "device": "keoneae"
+  }
+ ],
  "SUNSTECH SD ANDROID TV": [
   {
    "brand": "Sunstech",
@@ -237741,6 +237815,20 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 20s Pro 5G",
    "device": "TECNO-CK8nB"
+  }
+ ],
+ "TECNO CL6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30",
+   "device": "TECNO-CL6"
+  }
+ ],
+ "TECNO CL6k": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30",
+   "device": "TECNO-CL6k"
   }
  ],
  "TECNO KB2": [
@@ -260888,6 +260976,13 @@
    "device": "TravelPad_A10"
   }
  ],
+ "Xming Google TV": [
+  {
+   "brand": "Xming",
+   "name": "Page One Smart Projector",
+   "device": "tianshan"
+  }
+ ],
  "X10Max": [
   {
    "brand": "Xmobile",
@@ -278396,6 +278491,13 @@
    "brand": "imiia",
    "name": "imiia 2k stick",
    "device": "IAD"
+  }
+ ],
+ "imiia 4K Google TV": [
+  {
+   "brand": "imiia",
+   "name": "imiia 4K Google TV",
+   "device": "keoneae"
   }
  ],
  "imiia 4K Google TV-Y": [

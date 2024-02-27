@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-26
+Last sync is 2024-02-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2407,6 +2407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avvio|Mint_M353|Mint_M353|Mint_M353|
 |Avvio|Q503|Avvio_Q503|Avvio_Q503|
 |Axen|AXEN 2K Google TV|capitolhill|AXEN 2K Google TV|
+|Axen|AXEN 4K Google TV|keoneae|AXEN 4K Google TV|
 |Axioo|Axioo AX4|Axioo_AX4|Axioo_AX4|
 |Axioo|MH|MH|MH|
 |Axioo|PICOpad-7H|PICOpad-7H|PICOpad-7H|
@@ -3902,10 +3903,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M10L PLUS|M0223|M10L PLUS|
 |Blu|M10L PLUS|M0223_EX|M10L PLUS|
 |Blu|M10L PLUS|M0223_ND|M10L PLUS|
+|Blu|M10L PLUS|M0224|M10L PLUS|
 |Blu|M10L PLUS|M0224_ND|M10L PLUS|
 |Blu|M10L Pro|M0214_ND|M10L Pro|
 |Blu|M10L Pro|M0215_MXT|M10L Pro|
 |Blu|M10L Pro|M0215_ND|M10L Pro|
+|Blu|M10L Pro|M0215_NDSK|M10L Pro|
 |Blu|M6|M0030TT|M6|
 |Blu|M6|M030P|M6|
 |Blu|M6 2021|M0080WW|M6 2021|
@@ -4044,6 +4047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|VIVO VI+|V0310WW|Vivo XI+|
 |Blu|VIVO XI|V0330WW|Vivo XI|
 |Blu|VIVO XL|BLU_VIVO_XL|VIVO XL|
+|Blu|View 5 Pro|B170D|B170D|
 |Blu|Vivo 12 Pro|V0670LL|Vivo 12 Pro|
 |Blu|Vivo 5 Mini|Vivo_5_Mini|Vivo 5 Mini|
 |Blu|Vivo 8|V0150UU|Vivo 8|
@@ -5683,6 +5687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|SNOOK-X10|SNOOK-X10|SNOOK-X10|
 |Ctroniq|SNOOK-X75|SNOOK-X75|SNOOK-X75|
 |Ctroniq|SNOOK-X80|SNOOK-X80|SNOOK-X80|
+|Cubot|A1_EEA|A1|A1|
 |Cubot|C20|C20|C20|
 |Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
@@ -11580,7 +11585,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX1|
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX3|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-AN16|
+|Honor|HONOR Magic6 Pro|HNBVL|BVL-N49|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
+|Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
@@ -15349,6 +15356,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|NAKAMICHI|mountbaker|NAKAMICHI GOOGLE TV|
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|NAKAMICHI|zhongshan|CSV4K|
+|KTCtv|OZON|stanford|2K SMART TV|
+|KTCtv|OZON|zhongshan|4K SMART TV|
 |KTCtv|PHIMARK|hongkong|4K SMART TV|
 |KTCtv|PHIMARK|lavender|4K SMART TV|
 |KTCtv|PHIMARK|mountbaker|2K SMART TV|
@@ -24247,6 +24256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
+|PROTON|PROTON 2K Google TV|capitolhill|PROTON 2K Google TV|
 |PROTON|PROTON 4K Android|kenton|PROTON 4K Android|
 |PROTON|PROTON 4K Google TV|keoneae|PROTON 4K Google TV|
 |PROTON|PROTON Google TV|bandra|PROTON Google TV|
@@ -27367,6 +27377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SYLVOX|SYLVOX 4K Google TV-B|keoneae|SYLVOX 4K Google TV-B|
 |SYLVOX|SYLVOX 4K Google TV-D|keoneae|SYLVOX 4K Google TV-D|
 |SYLVOX|SYLVOX 4K Google TV-E|keoneae|SYLVOX 4K Google TV-E|
+|SYLVOX|SYLVOX Google TV|bandra|SYLVOX Google TV|
 |SYLVOX|SYLVOX Google TV-A|bandra|SYLVOX Google TV-A|
 |SYLVOX|Smart TV 2K|lasalle|Smart TV 2K|
 |SYLVOX|Smart TV 2K-A|lasalle|Smart TV 2K-A|
@@ -32544,6 +32555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunny|SN7016|SN7016|SN7016|
 |Sunny|SN7032|SN7032|SN7032|
 |Sunny|SUNNY 2K Google TV|capitolhill|SUNNY 2K Google TV|
+|Sunny|SUNNY 4K Google TV|keoneae|SUNNY 4K Google TV|
 |Sunstech|Spain / Portugal|martin|SUNSTECH SD ANDROID TV|
 |Sunstech|TAB1011|TAB1011|TAB1011|
 |Sunstech|TAB1081|TAB1081|TAB1081|
@@ -35082,6 +35094,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON 20 Premier 5G|TECNO-CK9n|TECNO CK9n|
 |Tecno|TECNO CAMON 20s Pro 5G|TECNO-CK8nB|TECNO CK8nB|
+|Tecno|TECNO CAMON 30|TECNO-CL6|TECNO CL6|
+|Tecno|TECNO CAMON 30|TECNO-CL6k|TECNO CL6k|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -38798,6 +38812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xitrix|TravelPad A10|TravelPad_A10|TravelPad A10|
 |Xitrix|XITRIX|stanford|SMART TV|
 |Xitrix|XITRIX|zhongshan|4K SMART TV|
+|Xming|Page One Smart Projector|tianshan|Xming Google TV|
 |Xmobile|X1|X1|X1|
 |Xmobile|X10|XMOBILE|X10|
 |Xmobile|X10Max|X10Max|X10Max|
@@ -41548,6 +41563,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imiia|Smart TV|mateo|2K PA Smart TV|
 |imiia|i-217D1|YUL|i-217D1|
 |imiia|imiia 2k stick|IAD|imiia 2k stick|
+|imiia|imiia 4K Google TV|keoneae|imiia 4K Google TV|
 |imiia|imiia 4K Google TV-Y|keoneae|imiia 4K Google TV-Y|
 |imose|BAM-II|BAM-II|BAM-II|
 |imose|Omotab2|Omotab2|Omotab2|

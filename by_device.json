@@ -1368,6 +1368,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "OZON",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "RZTK",
    "model": "4K SMART TV"
   },
@@ -1782,6 +1787,11 @@
    "brand": "KTCtv",
    "name": "NAKAMICHI",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "OZON",
+   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -5876,6 +5886,11 @@
    "model": "HK 2K Google TV"
   },
   {
+   "brand": "PROTON",
+   "name": "PROTON 2K Google TV",
+   "model": "PROTON 2K Google TV"
+  },
+  {
    "brand": "RCA",
    "name": "RCA 2K Google TV-E",
    "model": "RCA 2K Google TV-E"
@@ -6085,6 +6100,11 @@
    "model": "ASTEX 4K Google TV"
   },
   {
+   "brand": "Axen",
+   "name": "AXEN 4K Google TV",
+   "model": "AXEN 4K Google TV"
+  },
+  {
    "brand": "Blaupunkt",
    "name": "Blaupunkt 4K Google TV",
    "model": "Blaupunkt 4K Google TV"
@@ -6205,6 +6225,11 @@
    "model": "STREAM 4K Google TV"
   },
   {
+   "brand": "Sunny",
+   "name": "SUNNY 4K Google TV",
+   "model": "SUNNY 4K Google TV"
+  },
+  {
    "brand": "TELSTAR",
    "name": "TELSTAR 4K Google TV",
    "model": "TELSTAR 4K Google TV"
@@ -6213,6 +6238,11 @@
    "brand": "Vu Televisions",
    "name": "VU 4K Google TV",
    "model": "VU 4K Google TV"
+  },
+  {
+   "brand": "imiia",
+   "name": "imiia 4K Google TV",
+   "model": "imiia 4K Google TV"
   },
   {
    "brand": "imiia",
@@ -6260,6 +6290,11 @@
    "brand": "PROTON",
    "name": "PROTON Google TV",
    "model": "PROTON Google TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX Google TV",
+   "model": "SYLVOX Google TV"
   },
   {
    "brand": "SYLVOX",
@@ -21349,6 +21384,11 @@
    "model": "A1"
   },
   {
+   "brand": "Cubot",
+   "name": "A1_EEA",
+   "model": "A1"
+  },
+  {
    "brand": "Foxconn",
    "name": "",
    "model": "MUCHTEL A1"
@@ -36333,6 +36373,13 @@
    "model": "M10L PLUS"
   }
  ],
+ "M0224": [
+  {
+   "brand": "Blu",
+   "name": "M10L PLUS",
+   "model": "M10L PLUS"
+  }
+ ],
  "M0224_ND": [
   {
    "brand": "Blu",
@@ -36355,6 +36402,13 @@
   }
  ],
  "M0215_ND": [
+  {
+   "brand": "Blu",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  }
+ ],
+ "M0215_NDSK": [
   {
    "brand": "Blu",
    "name": "M10L Pro",
@@ -37349,6 +37403,13 @@
    "brand": "Blu",
    "name": "VIVO XL",
    "model": "VIVO XL"
+  }
+ ],
+ "B170D": [
+  {
+   "brand": "Blu",
+   "name": "View 5 Pro",
+   "model": "B170D"
   }
  ],
  "V0670LL": [
@@ -87366,6 +87427,11 @@
    "brand": "Honor",
    "name": "HONOR Magic6 Pro",
    "model": "BVL-AN16"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic6 Pro",
+   "model": "BVL-N49"
   }
  ],
  "HNHEY-Q": [
@@ -87373,6 +87439,13 @@
    "brand": "Honor",
    "name": "HONOR Pad 8",
    "model": "HEY-W09"
+  }
+ ],
+ "HNHEY2-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 9",
+   "model": "HEY2-W09"
   }
  ],
  "HNAGM3": [
@@ -229001,6 +229074,20 @@
    "model": "TECNO CK8nB"
   }
  ],
+ "TECNO-CL6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30",
+   "model": "TECNO CL6"
+  }
+ ],
+ "TECNO-CL6k": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30",
+   "model": "TECNO CL6k"
+  }
+ ],
  "TECNO-KB2": [
   {
    "brand": "Tecno",
@@ -250749,6 +250836,13 @@
    "brand": "Xitrix",
    "name": "TravelPad A10",
    "model": "TravelPad A10"
+  }
+ ],
+ "tianshan": [
+  {
+   "brand": "Xming",
+   "name": "Page One Smart Projector",
+   "model": "Xming Google TV"
   }
  ],
  "XMOBILE": [
