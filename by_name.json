@@ -18473,6 +18473,11 @@
    "brand": "Haier",
    "device": "nippori",
    "model": "CANDY Android TV 2K"
+  },
+  {
+   "brand": "Infinix",
+   "device": "kualakai",
+   "model": "Infinix Google TV"
   }
  ],
  "AQUA Android TV DVB": [
@@ -21884,6 +21889,11 @@
    "brand": "Symphony",
    "device": "G10",
    "model": "Symphony G10"
+  },
+  {
+   "brand": "TCL",
+   "device": "G10",
+   "model": "Smart TV"
   },
   {
    "brand": "iMuz",
@@ -48656,6 +48666,13 @@
    "brand": "Coolpad",
    "device": "CP05",
    "model": "CP05"
+  }
+ ],
+ "Cool 20s 5G": [
+  {
+   "brand": "Coolpad",
+   "device": "CP07",
+   "model": "CP07"
   }
  ],
  "Cool C1": [
@@ -124774,6 +124791,13 @@
    "model": "LAVA LZX406"
   }
  ],
+ "Blaze Curve": [
+  {
+   "brand": "Lava",
+   "device": "LXX505",
+   "model": "LAVA LXX505"
+  }
+ ],
  "Blaze Pro 5G": [
   {
    "brand": "Lava",
@@ -125045,6 +125069,13 @@
    "brand": "Lava",
    "device": "iris90",
    "model": "iris90"
+  }
+ ],
+ "Storm 5G": [
+  {
+   "brand": "Lava",
+   "device": "LXX508",
+   "model": "LAVA LXX508"
   }
  ],
  "T101N": [
@@ -152292,6 +152323,20 @@
    "model": "D2421"
   }
  ],
+ "Nebula_Capsule_2_V2": [
+  {
+   "brand": "Nebula",
+   "device": "taihang",
+   "model": "D2425"
+  }
+ ],
+ "Nebula_Mars_2_V2": [
+  {
+   "brand": "Nebula",
+   "device": "taihang",
+   "model": "D2325"
+  }
+ ],
  "3L-2": [
   {
    "brand": "Necnon",
@@ -166693,6 +166738,11 @@
    "brand": "Philips",
    "device": "hongkong",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "hongkong",
+   "model": "4K SMART TV PH"
   },
   {
    "brand": "Philips",
@@ -234162,6 +234212,13 @@
    "model": "P8100P 4G"
   }
  ],
+ "P8100P 5G": [
+  {
+   "brand": "Urovo",
+   "device": "P8100P_5G",
+   "model": "P8100P_5G"
+  }
+ ],
  "RT40": [
   {
    "brand": "Urovo",
@@ -259617,6 +259674,13 @@
    "brand": "ZTE",
    "device": "Z6255",
    "model": "Z6255CA"
+  }
+ ],
+ "nubia Neo 2 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P820F03",
+   "model": "Z2352N"
   }
  ],
  "nubia Neo 5G": [

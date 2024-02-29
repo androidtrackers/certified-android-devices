@@ -9792,6 +9792,11 @@
    "device": "G07"
   },
   {
+   "brand": "TCL",
+   "name": "G10",
+   "device": "G10"
+  },
+  {
    "brand": "Toshiba",
    "name": "fushan_euT",
    "device": "hamamatsucho"
@@ -42504,6 +42509,11 @@
   {
    "brand": "Coolpad",
    "name": "COOL 20S 5G",
+   "device": "CP07"
+  },
+  {
+   "brand": "Coolpad",
+   "name": "Cool 20s 5G",
    "device": "CP07"
   }
  ],
@@ -99738,6 +99748,13 @@
    "device": "barking"
   }
  ],
+ "Infinix Google TV": [
+  {
+   "brand": "Infinix",
+   "name": "APAC",
+   "device": "kualakai"
+  }
+ ],
  "Infinix X6739": [
   {
    "brand": "Infinix",
@@ -124717,6 +124734,13 @@
    "device": "LZX406"
   }
  ],
+ "LAVA LXX505": [
+  {
+   "brand": "Lava",
+   "name": "Blaze Curve",
+   "device": "LXX505"
+  }
+ ],
  "LAVA LXX506": [
   {
    "brand": "Lava",
@@ -124979,6 +125003,13 @@
    "brand": "Lava",
    "name": "R2",
    "device": "R2"
+  }
+ ],
+ "LAVA LXX508": [
+  {
+   "brand": "Lava",
+   "name": "Storm 5G",
+   "device": "LXX508"
   }
  ],
  "LTN10RT": [
@@ -154455,6 +154486,20 @@
    "device": "DM8261"
   }
  ],
+ "D2425": [
+  {
+   "brand": "Nebula",
+   "name": "Nebula_Capsule_2_V2",
+   "device": "taihang"
+  }
+ ],
+ "D2325": [
+  {
+   "brand": "Nebula",
+   "name": "Nebula_Mars_2_V2",
+   "device": "taihang"
+  }
+ ],
  "3L-2": [
   {
    "brand": "Necnon",
@@ -169616,6 +169661,11 @@
   }
  ],
  "4K SMART TV PH": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "device": "hongkong"
+  },
   {
    "brand": "Philips",
    "name": "PHILIPS",
@@ -245066,6 +245116,13 @@
    "device": "P8100P"
   }
  ],
+ "P8100P_5G": [
+  {
+   "brand": "Urovo",
+   "name": "P8100P 5G",
+   "device": "P8100P_5G"
+  }
+ ],
  "RT40": [
   {
    "brand": "Urovo",
@@ -273348,6 +273405,13 @@
    "brand": "ZTE",
    "name": "nubia Blade A72",
    "device": "Z6255"
+  }
+ ],
+ "Z2352N": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Neo 2 5G",
+   "device": "P820F03"
   }
  ],
  "nubia 8150N": [

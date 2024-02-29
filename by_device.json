@@ -4598,6 +4598,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "model": "4K SMART TV PH"
+  },
+  {
    "brand": "QBell",
    "name": "QBELL",
    "model": "QBELL 4K Android TV"
@@ -21963,6 +21968,11 @@
    "brand": "Symphony",
    "name": "G10",
    "model": "Symphony G10"
+  },
+  {
+   "brand": "TCL",
+   "name": "G10",
+   "model": "Smart TV"
   },
   {
    "brand": "iMuz",
@@ -47173,6 +47183,11 @@
   {
    "brand": "Coolpad",
    "name": "COOL 20S 5G",
+   "model": "CP07"
+  },
+  {
+   "brand": "Coolpad",
+   "name": "Cool 20s 5G",
    "model": "CP07"
   }
  ],
@@ -100654,6 +100669,13 @@
    "model": "Infinity"
   }
  ],
+ "kualakai": [
+  {
+   "brand": "Infinix",
+   "name": "APAC",
+   "model": "Infinix Google TV"
+  }
+ ],
  "Infinix-X6739": [
   {
    "brand": "Infinix",
@@ -123599,6 +123621,13 @@
    "model": "LAVA LZX406"
   }
  ],
+ "LXX505": [
+  {
+   "brand": "Lava",
+   "name": "Blaze Curve",
+   "model": "LAVA LXX505"
+  }
+ ],
  "LXX506": [
   {
    "brand": "Lava",
@@ -123879,6 +123908,13 @@
    "brand": "iLa Mobile",
    "name": "R1 Lite",
    "model": "R1 Lite"
+  }
+ ],
+ "LXX508": [
+  {
+   "brand": "Lava",
+   "name": "Storm 5G",
+   "model": "LAVA LXX508"
   }
  ],
  "LTN10RT": [
@@ -152846,6 +152882,18 @@
    "brand": "Nebula",
    "name": "D2421",
    "model": "D2421"
+  }
+ ],
+ "taihang": [
+  {
+   "brand": "Nebula",
+   "name": "Nebula_Capsule_2_V2",
+   "model": "D2425"
+  },
+  {
+   "brand": "Nebula",
+   "name": "Nebula_Mars_2_V2",
+   "model": "D2325"
   }
  ],
  "3L-2": [
@@ -235912,6 +235960,13 @@
    "model": "P8100P 4G"
   }
  ],
+ "P8100P_5G": [
+  {
+   "brand": "Urovo",
+   "name": "P8100P 5G",
+   "model": "P8100P_5G"
+  }
+ ],
  "SQ47": [
   {
    "brand": "Urovo",
@@ -261452,6 +261507,13 @@
    "brand": "ZTE",
    "name": "nubia Blade A72",
    "model": "Z6255CA"
+  }
+ ],
+ "P820F03": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Neo 2 5G",
+   "model": "Z2352N"
   }
  ],
  "P720F03_A": [

@@ -28438,6 +28438,11 @@
    "model": "CP05"
   },
   {
+   "device": "CP07",
+   "name": "Cool 20s 5G",
+   "model": "CP07"
+  },
+  {
    "device": "cool_c1",
    "name": "Cool C1",
    "model": "C106"
@@ -71573,6 +71578,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "kualakai",
+   "name": "APAC",
+   "model": "Infinix Google TV"
+  },
+  {
    "device": "Infinix-X6739",
    "name": "GT 10 Pro",
    "model": "Infinix X6739"
@@ -91383,6 +91393,11 @@
    "model": "LAVA LZX406"
   },
   {
+   "device": "LXX505",
+   "name": "Blaze Curve",
+   "model": "LAVA LXX505"
+  },
+  {
    "device": "LXX506",
    "name": "Blaze Pro 5G",
    "model": "LAVA LXX506"
@@ -91576,6 +91591,11 @@
    "device": "iris90",
    "name": "R3 Prime",
    "model": "iris90"
+  },
+  {
+   "device": "LXX508",
+   "name": "Storm 5G",
+   "model": "LAVA LXX508"
   },
   {
    "device": "LTN10RT",
@@ -114942,6 +114962,16 @@
    "device": "DM8261",
    "name": "D2421",
    "model": "D2421"
+  },
+  {
+   "device": "taihang",
+   "name": "Nebula_Capsule_2_V2",
+   "model": "D2425"
+  },
+  {
+   "device": "taihang",
+   "name": "Nebula_Mars_2_V2",
+   "model": "D2325"
   }
  ],
  "Necnon": [
@@ -127255,6 +127285,11 @@
    "device": "hongkong",
    "name": "PHILIPS",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "PHILIPS",
+   "model": "4K SMART TV PH"
   },
   {
    "device": "lavender",
@@ -168468,6 +168503,11 @@
    "model": "Smart TV Pro"
   },
   {
+   "device": "G10",
+   "name": "G10",
+   "model": "Smart TV"
+  },
+  {
    "device": "U3A_PLUS_4G",
    "name": "GO5c",
    "model": "5033E"
@@ -186228,6 +186268,11 @@
    "device": "P8100P",
    "name": "P8100P",
    "model": "P8100P 4G"
+  },
+  {
+   "device": "P8100P_5G",
+   "name": "P8100P 5G",
+   "model": "P8100P_5G"
   },
   {
    "device": "SQ47",
@@ -208849,6 +208894,11 @@
    "device": "Z6255",
    "name": "nubia Blade A72",
    "model": "Z6255CA"
+  },
+  {
+   "device": "P820F03",
+   "name": "nubia Neo 2 5G",
+   "model": "Z2352N"
   },
   {
    "device": "P720F03_A",

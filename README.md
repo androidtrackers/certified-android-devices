@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-02-28
+Last sync is 2024-02-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5500,6 +5500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Cool 12A|Coolpad_2042_U0|2042|
 |Coolpad|Cool 20|k69v1_64|CP03|
 |Coolpad|Cool 20 pro|CP05|CP05|
+|Coolpad|Cool 20s 5G|CP07|CP07|
 |Coolpad|Cool C1|cool_c1|C106|
 |Coolpad|Cool C1|cool_c1|C106-6|
 |Coolpad|Cool C1|cool_c1|C106-7|
@@ -13881,6 +13882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|50X3|barking|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
+|Infinix|APAC|kualakai|Infinix Google TV|
 |Infinix|GT 10 Pro|Infinix-X6739|Infinix X6739|
 |Infinix|HOT|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
@@ -17757,6 +17759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|BLAZE|LZX403|LAVA Blaze|
 |Lava|BLAZE 5G|LXX503|LAVA LXX503|
 |Lava|Blaze 2 Pro|LZX406|LAVA LZX406|
+|Lava|Blaze Curve|LXX505|LAVA LXX505|
 |Lava|Blaze Pro 5G|LXX506|LAVA LXX506|
 |Lava|ERA 1X|era1X|era1X|
 |Lava|ERA 1X|era1X|era1Xpro|
@@ -17796,6 +17799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R2|R2|R2|
 |Lava|R3|R3|R3|
 |Lava|R3 Prime|iris90|iris90|
+|Lava|Storm 5G|LXX508|LAVA LXX508|
 |Lava|T101|LTN10RT|LTN10RT|
 |Lava|T101|T101|T101|
 |Lava|T101N|T101N|T101N|
@@ -22356,6 +22360,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nebula|D2160|D2140-Cosmos|D2160|
 |Nebula|D2241|DM8260|D2241|
 |Nebula|D2421|DM8261|D2421|
+|Nebula|Nebula_Capsule_2_V2|taihang|D2425|
+|Nebula|Nebula_Mars_2_V2|taihang|D2325|
 |Necnon|3L-2|3L-2|3L-2|
 |Necnon|M002K-2|M002K-2|M002K-2|
 |Necnon|M002K-2|M002K_2|M002K-2|
@@ -24743,6 +24749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|NeoViu D1|GMP|NeoViu D1|
 |Philips|PHILIPS|TLE722G|TLE722G|
 |Philips|PHILIPS|hongkong|4K SMART TV|
+|Philips|PHILIPS|hongkong|4K SMART TV PH|
 |Philips|PHILIPS|lavender|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV PH|
 |Philips|PHILIPS|mountbaker|2K SMART TV|
@@ -32818,6 +32825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G06_2K_US|G06|Smart TV|
 |TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|G08|G08|Smart TV Pro|
+|TCL|G10|G10|Smart TV|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|Jitterbug Smart4|Sonata_BBH|T608G|
@@ -36278,6 +36286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|DT66|DT66|DT66|
 |Urovo|P8100|P8100|P8100|
 |Urovo|P8100P|P8100P|P8100P 4G|
+|Urovo|P8100P 5G|P8100P_5G|P8100P_5G|
 |Urovo|RT40|SQ47|RT40|
 |Urovo|RT40S|RT40S|RT40S|
 |Urovo|U2|SQ46M|U2|
@@ -40705,6 +40714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia Blade A72|Z6255|Z6255CA|
+|ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Play|NX651J|NX651J|
