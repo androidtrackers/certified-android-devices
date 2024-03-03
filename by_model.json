@@ -55854,6 +55854,11 @@
    "device": "T7_Pro"
   },
   {
+   "brand": "OneScreen",
+   "name": "OneScreen T7",
+   "device": "rk3588_t"
+  },
+  {
    "brand": "Performance",
    "name": "T7",
    "device": "T7"

@@ -119372,6 +119372,11 @@
    "device": "OneScreen-OPS-LF",
    "name": "OPS LF with Android",
    "model": "OneScreen-OPS-LFA"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "OneScreen T7",
+   "model": "T7"
   }
  ],
  "Onix": [

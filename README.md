@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-02
+Last sync is 2024-03-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23200,6 +23200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
+|OneScreen|OneScreen T7|rk3588_t|T7|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|

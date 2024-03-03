@@ -157124,6 +157124,13 @@
    "model": "OneScreen-OPS-LFA"
   }
  ],
+ "OneScreen T7": [
+  {
+   "brand": "OneScreen",
+   "device": "rk3588_t",
+   "model": "T7"
+  }
+ ],
  "AT101-1118": [
   {
    "brand": "Onix",
