@@ -21975,11 +21975,6 @@
    "model": "Apollo Premium4K TV"
   },
   {
-   "device": "marina",
-   "name": "Europe",
-   "model": "Fobem 4K SMART TV"
-  },
-  {
    "device": "martin",
    "name": "Europe",
    "model": "Caixun Android TV"
@@ -21993,11 +21988,6 @@
    "device": "martin",
    "name": "Europe",
    "model": "Smarttech Android Monitor"
-  },
-  {
-   "device": "nagata",
-   "name": "Europe",
-   "model": "Fobem 2K SMART TV"
   },
   {
    "device": "marina",
@@ -24504,6 +24494,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "lavender",
+   "name": "CHALLENGER",
+   "model": "4K SMART TV"
   },
   {
    "device": "R3",
@@ -31700,6 +31695,11 @@
    "device": "pioneer",
    "name": "4K Smart TV",
    "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
+   "device": "lavender",
+   "name": "DAEWOO",
+   "model": "4K SMART TV"
   },
   {
    "device": "SW6H",
@@ -42331,6 +42331,18 @@
    "device": "T101",
    "name": "T101",
    "model": "T101"
+  }
+ ],
+ "Fobem": [
+  {
+   "device": "nagata",
+   "name": "2K SMART TV",
+   "model": "Fobem 2K SMART TV"
+  },
+  {
+   "device": "marina",
+   "name": "4K SMART TV",
+   "model": "Fobem 4K SMART TV"
   }
  ],
  "Fone Haus": [
@@ -79161,6 +79173,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "lavender",
+   "name": "INNO-HIT",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV 4K"
@@ -79308,6 +79325,11 @@
   {
    "device": "hongkong",
    "name": "REYNA",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "ROOMI",
    "model": "4K SMART TV"
   },
   {
@@ -115781,6 +115803,13 @@
    "model": "COOLPIX S810c"
   }
  ],
+ "Nissan": [
+  {
+   "device": "aivi2_b",
+   "name": "NissanConnect",
+   "model": "AIVI2 B"
+  }
+ ],
  "Nixon": [
   {
    "device": "sculpin",
@@ -147147,6 +147176,16 @@
    "device": "m14x",
    "name": "Galaxy M14 5G",
    "model": "SM-M146B"
+  },
+  {
+   "device": "m15x",
+   "name": "Galaxy M15 5G",
+   "model": "SM-E156B"
+  },
+  {
+   "device": "m15x",
+   "name": "Galaxy M15 5G",
+   "model": "SM-M156B"
   },
   {
    "device": "m20",
@@ -199459,6 +199498,11 @@
    "device": "soul",
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  },
+  {
+   "device": "axolotlaxie",
+   "name": "Xiaomi Watch 2",
+   "model": "Xiaomi Watch 2"
   },
   {
    "device": "axolotl",

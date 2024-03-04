@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-03
+Last sync is 2024-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4263,11 +4263,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Columbia|patrick|Aiplus4K|
 |CAIXUN|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
 |CAIXUN|EXPRESS|marina|Apollo Premium4K TV|
-|CAIXUN|Europe|marina|Fobem 4K SMART TV|
 |CAIXUN|Europe|martin|Caixun Android TV|
 |CAIXUN|Europe|martin|SE 2K Android Monitor|
 |CAIXUN|Europe|martin|Smarttech Android Monitor|
-|CAIXUN|Europe|nagata|Fobem 2K SMART TV|
 |CAIXUN|Korea|marina|DWsummus 4K SMART TV|
 |CAIXUN|MAXWELL SMART TV|marina|MAXWELL SMART TV|
 |CAIXUN|MAXWELL SMART TV|nagata|MAXWELL SMART TV|
@@ -4736,6 +4734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Challenger|4K Smart TV|gangbyeon|Challenger 4K AI Smart TV|
 |Challenger|Android TV|R1|ATV R1|
 |Challenger|Android TV|R2|ATV R2|
+|Challenger|CHALLENGER|lavender|4K SMART TV|
 |Challenger|R3|R3|R3|
 |Challenger|R4|R4|R4|
 |Challenger|Smart TV|osaki|2K AI Smart TV|
@@ -6130,6 +6129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daelim_System|Daelim System_IFPD|Daelim_System_RK3588|ULTRA_DS11386|
 |Daewoo|4K Smart TV|pioneer|4K SA Smart TV|
 |Daewoo|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
+|Daewoo|DAEWOO|lavender|4K SMART TV|
 |Daewoo|DAEWOO SMART TV|SW6H|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
@@ -8151,6 +8151,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|Tornado One|IQ4511_Octa|IQ4511 TR|
 |Fly|View|View|View|
 |Fly_Tech|T101|T101|T101|
+|Fobem|2K SMART TV|nagata|Fobem 2K SMART TV|
+|Fobem|4K SMART TV|marina|Fobem 4K SMART TV|
 |Fone Haus|Blaze|Blaze|Blaze|
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fone Haus|CoolminttTribe|CoolMinttTribe|CoolMinttTribe|
@@ -15357,6 +15359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
+|KTCtv|INNO-HIT|lavender|4K SMART TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|lavender|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|mountbaker|INNOVA GOOGLE TV|
@@ -15387,6 +15390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
+|KTCtv|ROOMI|hongkong|4K SMART TV|
 |KTCtv|RZTK|stanford|2K SMART TV|
 |KTCtv|RZTK|zhongshan|4K SMART TV|
 |KTCtv|SA|hongkong|EcoTV Plus|
@@ -22511,6 +22515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nikkei|NI43UG7NA9|samseong|AI PONT|
 |Nikon|COOLPIX|S800c|COOLPIX S800c|
 |Nikon|COOLPIX S810c|s810c|COOLPIX S810c|
+|Nissan|NissanConnect|aivi2_b|AIVI2 B|
 |Nixon|The Mission|sculpin|The Mission|
 |Njoy|Arcas 7|Arcas_7|nJoy_Arcas_7|
 |Njoy|Chronos 10|Chronos_10|Chronos_10|
@@ -28621,6 +28626,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M13 5G|a13x|SM-M136B|
 |Samsung|Galaxy M14|a05s|SM-M145F|
 |Samsung|Galaxy M14 5G|m14x|SM-M146B|
+|Samsung|Galaxy M15 5G|m15x|SM-E156B|
+|Samsung|Galaxy M15 5G|m15x|SM-M156B|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -38849,6 +38856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 6 Max 14|yudi|2307BRPDCC|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
+|Xiaomi|Xiaomi Watch 2|axolotlaxie|Xiaomi Watch 2|
 |Xiaomi|Xiaomi Watch 2 Pro|axolotl|Xiaomi Watch 2 Pro|
 |Xiaomi|Xiaomi Watch 2 Pro|axolotlte|Xiaomi Watch 2 Pro|
 |Xiaomi|Xiaomi civi 3|yuechu|23046PNC9C|

@@ -2681,6 +2681,11 @@
    "device": "hongkong"
   },
   {
+   "brand": "Challenger",
+   "name": "CHALLENGER",
+   "device": "lavender"
+  },
+  {
    "brand": "Conti",
    "name": "CONTI",
    "device": "zhongshan"
@@ -2689,6 +2694,11 @@
    "brand": "DIJITSU",
    "name": "DIJITSU",
    "device": "hongkong"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO",
+   "device": "lavender"
   },
   {
    "brand": "Dahua",
@@ -2827,6 +2837,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "INNO-HIT",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
    "name": "IQWORLD",
    "device": "lavender"
   },
@@ -2873,6 +2888,11 @@
   {
    "brand": "KTCtv",
    "name": "REYNA",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ROOMI",
    "device": "hongkong"
   },
   {
@@ -34084,13 +34104,6 @@
    "device": "nagata"
   }
  ],
- "Fobem 4K SMART TV": [
-  {
-   "brand": "CAIXUN",
-   "name": "Europe",
-   "device": "marina"
-  }
- ],
  "Caixun Android TV": [
   {
    "brand": "CAIXUN",
@@ -34110,13 +34123,6 @@
    "brand": "CAIXUN",
    "name": "Europe",
    "device": "martin"
-  }
- ],
- "Fobem 2K SMART TV": [
-  {
-   "brand": "CAIXUN",
-   "name": "Europe",
-   "device": "nagata"
   }
  ],
  "DWsummus 4K SMART TV": [
@@ -61552,6 +61558,20 @@
    "brand": "Xcell",
    "name": "View",
    "device": "View"
+  }
+ ],
+ "Fobem 2K SMART TV": [
+  {
+   "brand": "Fobem",
+   "name": "2K SMART TV",
+   "device": "nagata"
+  }
+ ],
+ "Fobem 4K SMART TV": [
+  {
+   "brand": "Fobem",
+   "name": "4K SMART TV",
+   "device": "marina"
   }
  ],
  "Bolt": [
@@ -155427,6 +155447,13 @@
    "device": "s810c"
   }
  ],
+ "AIVI2 B": [
+  {
+   "brand": "Nissan",
+   "name": "NissanConnect",
+   "device": "aivi2_b"
+  }
+ ],
  "The Mission": [
   {
    "brand": "Nixon",
@@ -195111,6 +195138,20 @@
    "brand": "Samsung",
    "name": "Galaxy M14 5G",
    "device": "m14x"
+  }
+ ],
+ "SM-E156B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M15 5G",
+   "device": "m15x"
+  }
+ ],
+ "SM-M156B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M15 5G",
+   "device": "m15x"
   }
  ],
  "SM-M205N": [
@@ -261238,6 +261279,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi TV stick 4K",
    "device": "soul"
+  }
+ ],
+ "Xiaomi Watch 2": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Watch 2",
+   "device": "axolotlaxie"
   }
  ],
  "Xiaomi Watch 2 Pro": [

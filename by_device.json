@@ -4519,6 +4519,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ROOMI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "SA",
    "model": "EcoTV Plus"
   },
@@ -12606,6 +12611,16 @@
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
+   "brand": "Challenger",
+   "name": "CHALLENGER",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "EKO",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -12679,6 +12694,11 @@
    "brand": "KTCtv",
    "name": "Global",
    "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "INNO-HIT",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -16835,11 +16855,6 @@
   },
   {
    "brand": "CAIXUN",
-   "name": "Europe",
-   "model": "Fobem 4K SMART TV"
-  },
-  {
-   "brand": "CAIXUN",
    "name": "Korea",
    "model": "DWsummus 4K SMART TV"
   },
@@ -16887,6 +16902,11 @@
    "brand": "FUEGO",
    "name": "FUEGO 4K SMART TV",
    "model": "FUEGO 4K SMART TV"
+  },
+  {
+   "brand": "Fobem",
+   "name": "4K SMART TV",
+   "model": "Fobem 4K SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -34372,11 +34392,6 @@
   },
   {
    "brand": "CAIXUN",
-   "name": "Europe",
-   "model": "Fobem 2K SMART TV"
-  },
-  {
-   "brand": "CAIXUN",
    "name": "MAXWELL SMART TV",
    "model": "MAXWELL SMART TV"
   },
@@ -34409,6 +34424,11 @@
    "brand": "FUEGO",
    "name": "FUEGO 2K SMART TV",
    "model": "FUEGO 2K SMART TV"
+  },
+  {
+   "brand": "Fobem",
+   "name": "2K SMART TV",
+   "model": "Fobem 2K SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -153742,6 +153762,13 @@
    "model": "COOLPIX S810c"
   }
  ],
+ "aivi2_b": [
+  {
+   "brand": "Nissan",
+   "name": "NissanConnect",
+   "model": "AIVI2 B"
+  }
+ ],
  "sculpin": [
   {
    "brand": "Nixon",
@@ -190362,6 +190389,18 @@
    "brand": "Samsung",
    "name": "Galaxy M12",
    "model": "SM-M127N"
+  }
+ ],
+ "m15x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M15 5G",
+   "model": "SM-E156B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M15 5G",
+   "model": "SM-M156B"
   }
  ],
  "m20": [
@@ -251108,6 +251147,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  }
+ ],
+ "axolotlaxie": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Watch 2",
+   "model": "Xiaomi Watch 2"
   }
  ],
  "axolotlte": [

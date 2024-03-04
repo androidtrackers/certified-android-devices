@@ -34890,11 +34890,6 @@
   },
   {
    "brand": "CAIXUN",
-   "device": "marina",
-   "model": "Fobem 4K SMART TV"
-  },
-  {
-   "brand": "CAIXUN",
    "device": "martin",
    "model": "Caixun Android TV"
   },
@@ -34907,11 +34902,6 @@
    "brand": "CAIXUN",
    "device": "martin",
    "model": "Smarttech Android Monitor"
-  },
-  {
-   "brand": "CAIXUN",
-   "device": "nagata",
-   "model": "Fobem 2K SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -43187,6 +43177,13 @@
    "brand": "CenturyLink",
    "device": "ctl_iptv_mrvl",
    "model": "S60CLI"
+  }
+ ],
+ "CHALLENGER": [
+  {
+   "brand": "Challenger",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "challenger": [
@@ -53248,6 +53245,13 @@
    "brand": "Daelim_System",
    "device": "Daelim_System_RK3588",
    "model": "ULTRA_DS11386"
+  }
+ ],
+ "DAEWOO": [
+  {
+   "brand": "Daewoo",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "DAEWOO SMART TV": [
@@ -68091,6 +68095,30 @@
    "brand": "Xcell",
    "device": "View",
    "model": "View"
+  }
+ ],
+ "2K SMART TV": [
+  {
+   "brand": "Fobem",
+   "device": "nagata",
+   "model": "Fobem 2K SMART TV"
+  },
+  {
+   "brand": "Vision Technology",
+   "device": "nagata",
+   "model": "2K SMART TV"
+  }
+ ],
+ "4K SMART TV": [
+  {
+   "brand": "Fobem",
+   "device": "marina",
+   "model": "Fobem 4K SMART TV"
+  },
+  {
+   "brand": "Visiontech",
+   "device": "marina",
+   "model": "4K SMART TV"
   }
  ],
  "Bolt": [
@@ -110987,6 +111015,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "INNO-HIT": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "INNOVA": [
   {
    "brand": "KTCtv",
@@ -111164,6 +111199,13 @@
   }
  ],
  "REYNA": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  }
+ ],
+ "ROOMI": [
   {
    "brand": "KTCtv",
    "device": "hongkong",
@@ -153249,6 +153291,13 @@
    "model": "COOLPIX S810c"
   }
  ],
+ "NissanConnect": [
+  {
+   "brand": "Nissan",
+   "device": "aivi2_b",
+   "model": "AIVI2 B"
+  }
+ ],
  "The Mission": [
   {
    "brand": "Nixon",
@@ -189901,6 +189950,18 @@
    "brand": "Samsung",
    "device": "m14x",
    "model": "SM-M146B"
+  }
+ ],
+ "Galaxy M15 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m15x",
+   "model": "SM-E156B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m15x",
+   "model": "SM-M156B"
   }
  ],
  "Galaxy M20": [
@@ -238109,13 +238170,6 @@
    "model": "V1"
   }
  ],
- "2K SMART TV": [
-  {
-   "brand": "Vision Technology",
-   "device": "nagata",
-   "model": "2K SMART TV"
-  }
- ],
  "100011885": [
   {
    "brand": "Visiontech",
@@ -238126,13 +238180,6 @@
    "brand": "onn.",
    "device": "100011885",
    "model": "100011885"
-  }
- ],
- "4K SMART TV": [
-  {
-   "brand": "Visiontech",
-   "device": "marina",
-   "model": "4K SMART TV"
   }
  ],
  "PVT-8-A50-R1": [
@@ -249701,6 +249748,13 @@
    "brand": "Xiaomi",
    "device": "soul",
    "model": "MiTV-AYFR0"
+  }
+ ],
+ "Xiaomi Watch 2": [
+  {
+   "brand": "Xiaomi",
+   "device": "axolotlaxie",
+   "model": "Xiaomi Watch 2"
   }
  ],
  "Xiaomi Watch 2 Pro": [
