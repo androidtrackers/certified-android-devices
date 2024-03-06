@@ -12009,6 +12009,13 @@
    "device": "T1016"
   }
  ],
+ "iPlay_50_Pro": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay_50_Pro",
+   "device": "T1030MAN"
+  }
+ ],
  "iPlay_60": [
   {
    "brand": "Alldocube",
@@ -28360,6 +28367,13 @@
    "device": "BV9300"
   }
  ],
+ "BV9300 Pro": [
+  {
+   "brand": "Blackview",
+   "name": "BV9300 Pro",
+   "device": "BV9300_Pro"
+  }
+ ],
  "BV9600": [
   {
    "brand": "Blackview",
@@ -32872,6 +32886,38 @@
    "device": "RT103"
   }
  ],
+ "S20": [
+  {
+   "brand": "Bluebird",
+   "name": "S20",
+   "device": "S20"
+  },
+  {
+   "brand": "Casper",
+   "name": "S20",
+   "device": "S20"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "S20",
+   "device": "S20"
+  },
+  {
+   "brand": "NEWSUN",
+   "name": "S20",
+   "device": "S20"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "S20",
+   "device": "S20"
+  },
+  {
+   "brand": "xTouch",
+   "name": "S20",
+   "device": "S20"
+  }
+ ],
  "S50": [
   {
    "brand": "Bluebird",
@@ -36128,33 +36174,6 @@
    "brand": "iRulu",
    "name": "L20",
    "device": "L20"
-  }
- ],
- "S20": [
-  {
-   "brand": "Casper",
-   "name": "S20",
-   "device": "S20"
-  },
-  {
-   "brand": "G-Tab",
-   "name": "S20",
-   "device": "S20"
-  },
-  {
-   "brand": "NEWSUN",
-   "name": "S20",
-   "device": "S20"
-  },
-  {
-   "brand": "Vankyo",
-   "name": "S20",
-   "device": "S20"
-  },
-  {
-   "brand": "xTouch",
-   "name": "S20",
-   "device": "S20"
   }
  ],
  "Casper_S38": [
@@ -51604,6 +51623,13 @@
    "device": "1918Y"
   }
  ],
+ "N50S": [
+  {
+   "brand": "Doogee",
+   "name": "N50S",
+   "device": "1918D"
+  }
+ ],
  "N60Pro": [
   {
    "brand": "Doogee",
@@ -51616,6 +51642,13 @@
    "brand": "Doogee",
    "name": "P3Mini Kid",
    "device": "P3Mini_Kid"
+  }
+ ],
+ "R08": [
+  {
+   "brand": "Doogee",
+   "name": "R08",
+   "device": "PT3"
   }
  ],
  "R10 Pro": [
@@ -51714,6 +51747,13 @@
    "brand": "Doogee",
    "name": "S41T",
    "device": "M21T"
+  }
+ ],
+ "S41T": [
+  {
+   "brand": "Doogee",
+   "name": "S41T",
+   "device": "M21TE"
   }
  ],
  "S55_Lite": [
@@ -54991,6 +55031,13 @@
    "brand": "EUDORA",
    "name": "E10Pro",
    "device": "E10Pro"
+  }
+ ],
+ "E65 Pro": [
+  {
+   "brand": "EUDORA",
+   "name": "EudoraE65Pro",
+   "device": "E65Pro"
   }
  ],
  "DC-1032": [
@@ -68357,6 +68404,11 @@
    "device": "X1"
   },
   {
+   "brand": "NELATECH",
+   "name": "X1",
+   "device": "X1_Pro"
+  },
+  {
    "brand": "OneClick",
    "name": "X1",
    "device": "X1"
@@ -70424,6 +70476,13 @@
    "brand": "HIKVISION",
    "name": "DS-D5C",
    "device": "DS_D5C65RB_A"
+  }
+ ],
+ "DS-MDT301": [
+  {
+   "brand": "HIKVISION",
+   "name": "DS-MDT301",
+   "device": "DS-MDT301"
   }
  ],
  "HIMADE4KAndroidTV": [
@@ -123811,6 +123870,11 @@
    "brand": "LYNKNEX",
    "name": "LYNKNEX PX5",
    "device": "LYNKNEX-PX5"
+  },
+  {
+   "brand": "LYNKNEX",
+   "name": "PX5",
+   "device": "LYNKNEX-PX5"
   }
  ],
  "LFi ONE": [
@@ -138199,11 +138263,25 @@
    "device": "MX-NN62WW01"
   }
  ],
+ "MX-A65T": [
+  {
+   "brand": "Maxwest",
+   "name": "Maxwest ASTRO_65T",
+   "device": "MX-A65T"
+  }
+ ],
  "MX-N55M": [
   {
    "brand": "Maxwest",
    "name": "NITRO 55M",
    "device": "MX-N55MWW"
+  }
+ ],
+ "NITRO N6": [
+  {
+   "brand": "Maxwest",
+   "name": "NITRO N6",
+   "device": "MX-NN6"
   }
  ],
  "Nitro 4N LTE": [
@@ -149840,6 +149918,13 @@
    "device": "MFT1522"
   }
  ],
+ "Ranger2K": [
+  {
+   "brand": "Movfast",
+   "name": "Ranger2K",
+   "device": "MFT1621"
+  }
+ ],
  "MOVIC-W5": [
   {
    "brand": "Movic",
@@ -155387,6 +155472,18 @@
    "device": "NLS-MT95"
   }
  ],
+ "NLS-N7": [
+  {
+   "brand": "Newland",
+   "name": "NLS-N7",
+   "device": "NLS-N7"
+  },
+  {
+   "brand": "Newland",
+   "name": "Newland NLS-N7",
+   "device": "NLS-N7-GL"
+  }
+ ],
  "NLS-NFT10": [
   {
    "brand": "Newland",
@@ -155399,11 +155496,11 @@
    "device": "NLS-NFT10-RU"
   }
  ],
- "NLS-N7": [
+ "NLS-NQuire": [
   {
    "brand": "Newland",
-   "name": "Newland NLS-N7",
-   "device": "NLS-N7-GL"
+   "name": "Newland NLS-NQuir",
+   "device": "NLS-NQuire"
   }
  ],
  "LGA311D2": [
@@ -157247,6 +157344,13 @@
    "brand": "Nothing",
    "name": "Nothing Phone (2)",
    "device": "Pong"
+  }
+ ],
+ "A142": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing Phone (2a)",
+   "device": "Pacman"
   }
  ],
  "NS5005": [
@@ -165734,6 +165838,13 @@
    "brand": "Oukitel",
    "name": "WP30_Pro_EEA",
    "device": "WP30_Pro"
+  }
+ ],
+ "WP36": [
+  {
+   "brand": "Oukitel",
+   "name": "WP36_EEA",
+   "device": "WP36"
   }
  ],
  "WP5": [
@@ -184256,6 +184367,13 @@
    "brand": "SEWOO",
    "name": "NBP_65",
    "device": "NBP_65"
+  }
+ ],
+ "NBP-75": [
+  {
+   "brand": "SEWOO",
+   "name": "SEWOO NBP-75",
+   "device": "NBP-75"
   }
  ],
  "SFR-G8800": [
@@ -219621,6 +219739,13 @@
    "device": "Neo_X"
   }
  ],
+ "Note 20": [
+  {
+   "brand": "SparX",
+   "name": "Note_20",
+   "device": "Note_20"
+  }
+ ],
  "Sparx S7": [
   {
    "brand": "SparX",
@@ -244699,6 +244824,13 @@
    "device": "G5_Mecha"
   }
  ],
+ "TG2404GBA": [
+  {
+   "brand": "Umidigi",
+   "name": "G6_Tab",
+   "device": "G6_Tab"
+  }
+ ],
  "AblePad": [
   {
    "brand": "Umidigi",
@@ -245406,6 +245538,13 @@
    "brand": "United Group",
    "name": "KSTB6020",
    "device": "KSTB6020"
+  }
+ ],
+ "EPIC-E55": [
+  {
+   "brand": "UnityWireless",
+   "name": "EPIC E55",
+   "device": "EPIC-E55"
   }
  ],
  "QUATTRO_M-3": [
@@ -254881,6 +255020,13 @@
    "device": "CM62"
   }
  ],
+ "VORTEX K65": [
+  {
+   "brand": "Vortex",
+   "name": "VORTEX_K65",
+   "device": "VORTEX_K65"
+  }
+ ],
  "Z22": [
   {
    "brand": "Vortex",
@@ -261689,6 +261835,11 @@
    "brand": "Xmobile",
    "name": "X63Pro",
    "device": "X63Pro"
+  },
+  {
+   "brand": "Xmobile",
+   "name": "X63Pro",
+   "device": "X_63_ProA"
   }
  ],
  "XMOBILE X7": [
@@ -277431,6 +277582,11 @@
    "device": "i2"
   },
   {
+   "brand": "iMACHINE",
+   "name": "iMachine i2",
+   "device": "i2"
+  },
+  {
    "brand": "iVOOMi",
    "name": "i2",
    "device": "i2"
@@ -277869,6 +278025,13 @@
    "brand": "iData",
    "name": "iData T2",
    "device": "iData_T2"
+  }
+ ],
+ "T3_Pro": [
+  {
+   "brand": "iData",
+   "name": "iData T3 Pro",
+   "device": "T3_Pro"
   }
  ],
  "iData i2": [
@@ -278534,6 +278697,11 @@
    "brand": "iMACHINE",
    "name": "MobilePOSTerminal",
    "device": "MobilePOSTerminal"
+  },
+  {
+   "brand": "iMACHINE",
+   "name": "iMachine AP12",
+   "device": "AP12"
   }
  ],
  "IM-560": [

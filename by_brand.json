@@ -6234,6 +6234,11 @@
    "model": "iPlay40_5G"
   },
   {
+   "device": "T1030MAN",
+   "name": "iPlay_50_Pro",
+   "model": "iPlay_50_Pro"
+  },
+  {
    "device": "T1102T",
    "name": "iPlay_60",
    "model": "iPlay_60"
@@ -17991,6 +17996,11 @@
    "model": "BV9300"
   },
   {
+   "device": "BV9300_Pro",
+   "name": "BV9300 Pro",
+   "model": "BV9300 Pro"
+  },
+  {
    "device": "BV9600",
    "name": "BV9600",
    "model": "BV9600"
@@ -21164,6 +21174,11 @@
    "device": "RT103",
    "name": "RT103",
    "model": "RT103"
+  },
+  {
+   "device": "S20",
+   "name": "S20",
+   "model": "S20"
   },
   {
    "device": "S50",
@@ -34851,6 +34866,11 @@
    "model": "N50"
   },
   {
+   "device": "1918D",
+   "name": "N50S",
+   "model": "N50S"
+  },
+  {
    "device": "1919",
    "name": "N60Pro",
    "model": "N60Pro"
@@ -34859,6 +34879,11 @@
    "device": "P3Mini_Kid",
    "name": "P3Mini Kid",
    "model": "T20Mini Kid"
+  },
+  {
+   "device": "PT3",
+   "name": "R08",
+   "model": "R08"
   },
   {
    "device": "PT1",
@@ -34944,6 +34969,11 @@
    "device": "M21T",
    "name": "S41T",
    "model": "S41Pro"
+  },
+  {
+   "device": "M21TE",
+   "name": "S41T",
+   "model": "S41T"
   },
   {
    "device": "t758_dg_m3t_n",
@@ -37490,6 +37520,11 @@
    "device": "E10Pro",
    "name": "E10Pro",
    "model": "E10Pro"
+  },
+  {
+   "device": "E65Pro",
+   "name": "EudoraE65Pro",
+   "model": "E65 Pro"
   },
   {
    "device": "R10_Pro",
@@ -48948,6 +48983,11 @@
    "device": "DS_D5C65RB_A",
    "name": "DS-D5C",
    "model": "DS_D5C65RB_A"
+  },
+  {
+   "device": "DS-MDT301",
+   "name": "DS-MDT301",
+   "model": "DS-MDT301"
   }
  ],
  "HIMADE": [
@@ -90682,6 +90722,11 @@
    "device": "LYNKNEX-PX5",
    "name": "LYNKNEX PX5",
    "model": "PX5"
+  },
+  {
+   "device": "LYNKNEX-PX5",
+   "name": "PX5",
+   "model": "PX5"
   }
  ],
  "LYOTECH_LABS": [
@@ -101892,9 +101937,19 @@
    "model": "NITRO N62"
   },
   {
+   "device": "MX-A65T",
+   "name": "Maxwest ASTRO_65T",
+   "model": "MX-A65T"
+  },
+  {
    "device": "MX-N55MWW",
    "name": "NITRO 55M",
    "model": "MX-N55M"
+  },
+  {
+   "device": "MX-NN6",
+   "name": "NITRO N6",
+   "model": "NITRO N6"
   },
   {
    "device": "Nitro_4N_LTE",
@@ -111130,6 +111185,11 @@
    "device": "MFT1522",
    "name": "Ranger2",
    "model": "Ranger2"
+  },
+  {
+   "device": "MFT1621",
+   "name": "Ranger2K",
+   "model": "Ranger2K"
   }
  ],
  "Movic": [
@@ -114052,6 +114112,11 @@
    "device": "V22S1",
    "name": "V22S1",
    "model": "V22S"
+  },
+  {
+   "device": "X1_Pro",
+   "name": "X1",
+   "model": "X1"
   }
  ],
  "NEO": [
@@ -115676,6 +115741,11 @@
    "model": "NLS-MT95"
   },
   {
+   "device": "NLS-N7",
+   "name": "NLS-N7",
+   "model": "NLS-N7"
+  },
+  {
    "device": "NLS-NFT10-GL",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
@@ -115694,6 +115764,11 @@
    "device": "NLS-N7-GL",
    "name": "Newland NLS-N7",
    "model": "NLS-N7"
+  },
+  {
+   "device": "NLS-NQuire",
+   "name": "Newland NLS-NQuir",
+   "model": "NLS-NQuire"
   }
  ],
  "Newline": [
@@ -117284,6 +117359,11 @@
    "device": "Pong",
    "name": "Nothing Phone (2)",
    "model": "AIN065"
+  },
+  {
+   "device": "Pacman",
+   "name": "Nothing Phone (2a)",
+   "model": "A142"
   }
  ],
  "Nous": [
@@ -124068,6 +124148,11 @@
    "device": "WP30_Pro",
    "name": "WP30_Pro_EEA",
    "model": "WP30 Pro"
+  },
+  {
+   "device": "WP36",
+   "name": "WP36_EEA",
+   "model": "WP36"
   },
   {
    "device": "WP5",
@@ -139147,6 +139232,11 @@
    "device": "NBP_65",
    "name": "NBP_65",
    "model": "NBP-65"
+  },
+  {
+   "device": "NBP-75",
+   "name": "SEWOO NBP-75",
+   "model": "NBP-75"
   }
  ],
  "SFR": [
@@ -165833,6 +165923,11 @@
    "model": "Neo X"
   },
   {
+   "device": "Note_20",
+   "name": "Note_20",
+   "model": "Note 20"
+  },
+  {
    "device": "S3",
    "name": "S3",
    "model": "S3"
@@ -185845,6 +185940,11 @@
    "model": "RP08"
   },
   {
+   "device": "G6_Tab",
+   "name": "G6_Tab",
+   "model": "TG2404GBA"
+  },
+  {
    "device": "MT02_EEA",
    "name": "MT02_EEA",
    "model": "AblePad"
@@ -186479,6 +186579,13 @@
    "device": "KSTB6020",
    "name": "KSTB6020",
    "model": "KSTB6020"
+  }
+ ],
+ "UnityWireless": [
+  {
+   "device": "EPIC-E55",
+   "name": "EPIC E55",
+   "model": "EPIC-E55"
   }
  ],
  "Unnecto": [
@@ -194156,6 +194263,11 @@
    "model": "VORTEX CM62"
   },
   {
+   "device": "VORTEX_K65",
+   "name": "VORTEX_K65",
+   "model": "VORTEX K65"
+  },
+  {
    "device": "Z22",
    "name": "Vortex Z22",
    "model": "Z22"
@@ -199841,6 +199953,11 @@
   },
   {
    "device": "X63Pro",
+   "name": "X63Pro",
+   "model": "X63Pro"
+  },
+  {
+   "device": "X_63_ProA",
    "name": "X63Pro",
    "model": "X63Pro"
   },
@@ -212744,6 +212861,11 @@
    "model": "iData_T2"
   },
   {
+   "device": "T3_Pro",
+   "name": "iData T3 Pro",
+   "model": "T3_Pro"
+  },
+  {
    "device": "i2",
    "name": "iData i2",
    "model": "iData i2"
@@ -213275,6 +213397,16 @@
    "device": "MobilePOSTerminal",
    "name": "MobilePOSTerminal",
    "model": "AP12"
+  },
+  {
+   "device": "AP12",
+   "name": "iMachine AP12",
+   "model": "AP12"
+  },
+  {
+   "device": "i2",
+   "name": "iMachine i2",
+   "model": "i2"
   }
  ],
  "iMESH": [
