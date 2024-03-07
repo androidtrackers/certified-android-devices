@@ -18000,6 +18000,13 @@
    "device": "ASUS_AI2201"
   }
  ],
+ "ASUS_AI2203_C": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6D Ultimate",
+   "device": "ASUS_AI2203"
+  }
+ ],
  "ASUS_AI2203_D": [
   {
    "brand": "Asus",
@@ -55742,6 +55749,13 @@
    "brand": "Element",
    "name": "Element",
    "device": "bruno"
+  }
+ ],
+ "ElementDeluxe4k": [
+  {
+   "brand": "Element",
+   "name": "Element",
+   "device": "expo"
   }
  ],
  "ElementPlatiumTV": [
@@ -125714,6 +125728,13 @@
    "device": "LZX415"
   }
  ],
+ "LAVA LZX414": [
+  {
+   "brand": "Lava",
+   "name": "Yuva 3 Pro",
+   "device": "LZX414"
+  }
+ ],
  "Z1": [
   {
    "brand": "Lava",
@@ -151151,6 +151172,13 @@
    "device": "ML_SO09_MLX8_4G"
   }
  ],
+ "ML_GW0C_M10_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "ML_GW0C_M10_4G",
+   "device": "ML_GW0C_M10_4G"
+  }
+ ],
  "M9S_GO": [
   {
    "brand": "Multilaser",
@@ -170225,6 +170253,13 @@
    "brand": "Philips",
    "name": "PHILIPS",
    "device": "lavender"
+  }
+ ],
+ "2K SMART TV PH": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "device": "mountbaker"
   }
  ],
  "PHILIPS TV": [
@@ -271746,6 +271781,13 @@
    "brand": "ZTE",
    "name": "Z2020N3",
    "device": "Z8850K"
+  }
+ ],
+ "Z2351N": [
+  {
+   "brand": "ZTE",
+   "name": "Z2351N",
+   "device": "P720F08"
   }
  ],
  "Z3153V": [

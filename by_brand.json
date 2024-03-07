@@ -10392,6 +10392,11 @@
   {
    "device": "ASUS_AI2203",
    "name": "ROG Phone 6D Ultimate",
+   "model": "ASUS_AI2203_C"
+  },
+  {
+   "device": "ASUS_AI2203",
+   "name": "ROG Phone 6D Ultimate",
    "model": "ASUS_AI2203_D"
   },
   {
@@ -38083,6 +38088,11 @@
    "device": "bruno",
    "name": "Element",
    "model": "Element2KAndroidTV"
+  },
+  {
+   "device": "expo",
+   "name": "Element",
+   "model": "ElementDeluxe4k"
   },
   {
    "device": "kaitak",
@@ -92144,6 +92154,11 @@
    "model": "LZX415"
   },
   {
+   "device": "LZX414",
+   "name": "Yuva 3 Pro",
+   "model": "LAVA LZX414"
+  },
+  {
    "device": "Z1",
    "name": "Z1",
    "model": "Z1"
@@ -112235,6 +112250,11 @@
    "model": "MLX8_4G"
   },
   {
+   "device": "ML_GW0C_M10_4G",
+   "name": "ML_GW0C_M10_4G",
+   "model": "ML_GW0C_M10_4G"
+  },
+  {
    "device": "ML_JI1C_M7S_PLUS",
    "name": "ML_JI1C_M7S_PLUS",
    "model": "M7S_PLUS"
@@ -127738,6 +127758,11 @@
    "device": "mountbaker",
    "name": "PHILIPS",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "PHILIPS",
+   "model": "2K SMART TV PH"
   },
   {
    "device": "cocina",
@@ -207525,6 +207550,11 @@
    "device": "Z8850K",
    "name": "Z2020N3",
    "model": "A2020N3"
+  },
+  {
+   "device": "P720F08",
+   "name": "Z2351N",
+   "model": "Z2351N"
   },
   {
    "device": "Z3153",

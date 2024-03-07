@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-06
+Last sync is 2024-03-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2004,6 +2004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_B|
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_C|
 |Asus|ROG Phone 6 series|ASUS_AI2201|ASUS_AI2201_D|
+|Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_C|
 |Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
 |Asus|ROG Phone 6D series|ASUS_AI2203|ASUS_AI2203_B|
 |Asus|ROG Phone 7 series|ASUS_AI2205|ASUS_AI2205_A|
@@ -7345,6 +7346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Electroneum|electroneumM1|electroneumM1|electroneumM1|
 |Element|ELEMENT|hongkong|4K SMART TV|
 |Element|Element|bruno|Element2KAndroidTV|
+|Element|Element|expo|ElementDeluxe4k|
 |Element|Element|kaitak|ElementPlatiumTV|
 |Element|Element|shilin|Element4KAndroidTV|
 |Element|Element|tennoji|ElementDeluxe2K|
@@ -17906,6 +17908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Xolo era 2|era_2|era 2|
 |Lava|Y50|AF9020|AF9020|
 |Lava|YUVA 3|LZX415|LZX415|
+|Lava|Yuva 3 Pro|LZX414|LAVA LZX414|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
 |Lava|Z10|LAVA_Z10|Z10|
@@ -21833,6 +21836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MLX8|MLX8|MLX8|
 |Multilaser|MLX8 4G|MLX8_4G|MLX8_4G|
 |Multilaser|MLX8_4G|ML_SO09_MLX8_4G|MLX8_4G|
+|Multilaser|ML_GW0C_M10_4G|ML_GW0C_M10_4G|ML_GW0C_M10_4G|
 |Multilaser|ML_JI1C_M7S_PLUS|ML_JI1C_M7S_PLUS|M7S_PLUS|
 |Multilaser|ML_JI29_M9S_GO|ML_JI29_M9S_GO|M9S_GO|
 |Multilaser|ML_JI37_M7S_LITE|ML_JI37_M7S_LITE|M7S_LITE|
@@ -24836,6 +24840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PHILIPS|lavender|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV PH|
 |Philips|PHILIPS|mountbaker|2K SMART TV|
+|Philips|PHILIPS|mountbaker|2K SMART TV PH|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
 |Philips|PHP-S231C4AFD|G3SMNTS23|G3SMNTS23|
@@ -40435,6 +40440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
 |ZTE|Z2020N3|Z8850K|A2020N3|
+|ZTE|Z2351N|P720F08|Z2351N|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|

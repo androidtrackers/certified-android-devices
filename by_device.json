@@ -4922,6 +4922,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Philips",
+   "name": "PHILIPS",
+   "model": "2K SMART TV PH"
+  },
+  {
    "brand": "QBell",
    "name": "QBELL",
    "model": "QBELL 2K Android TV"
@@ -22981,6 +22986,11 @@
   {
    "brand": "Asus",
    "name": "ROG Phone 6D Ultimate",
+   "model": "ASUS_AI2203_C"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6D Ultimate",
    "model": "ASUS_AI2203_D"
   },
   {
@@ -34245,6 +34255,11 @@
    "brand": "ELEXIA",
    "name": "ELEXIA",
    "model": "4K ELEXIA Google TV"
+  },
+  {
+   "brand": "Element",
+   "name": "Element",
+   "model": "ElementDeluxe4k"
   },
   {
    "brand": "JVC",
@@ -124620,6 +124635,13 @@
    "model": "LZX415"
   }
  ],
+ "LZX414": [
+  {
+   "brand": "Lava",
+   "name": "Yuva 3 Pro",
+   "model": "LAVA LZX414"
+  }
+ ],
  "LZG401": [
   {
    "brand": "Lava",
@@ -149501,6 +149523,13 @@
    "brand": "Multilaser",
    "name": "MLX8_4G",
    "model": "MLX8_4G"
+  }
+ ],
+ "ML_GW0C_M10_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "ML_GW0C_M10_4G",
+   "model": "ML_GW0C_M10_4G"
   }
  ],
  "ML_JI1C_M7S_PLUS": [
@@ -260405,6 +260434,13 @@
    "brand": "ZTE",
    "name": "Z2020N3",
    "model": "A2020N3"
+  }
+ ],
+ "P720F08": [
+  {
+   "brand": "ZTE",
+   "name": "Z2351N",
+   "model": "Z2351N"
   }
  ],
  "Z3153": [
