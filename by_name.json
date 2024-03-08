@@ -21587,6 +21587,13 @@
    "model": "Ascom Myco 3 DECT Wi-Fi"
   }
  ],
+ "AT14": [
+  {
+   "brand": "Ascom",
+   "device": "AT14",
+   "model": "AT14P464"
+  }
+ ],
  "Ascom Myco 4": [
   {
    "brand": "Ascom",
@@ -33242,6 +33249,13 @@
    "model": "BV5300"
   }
  ],
+ "BV5300 Plus": [
+  {
+   "brand": "Blackview",
+   "device": "BV5300_Plus",
+   "model": "BV5300 Plus"
+  }
+ ],
  "BV5300 Pro": [
   {
    "brand": "Blackview",
@@ -41147,6 +41161,13 @@
    "brand": "CTOUCH",
    "device": "Droid_OPS_Module",
    "model": "UGE013AM"
+  }
+ ],
+ "CVTE SA12": [
+  {
+   "brand": "CVTE",
+   "device": "rk3588_t",
+   "model": "SA12 series"
   }
  ],
  "edu_v2": [
@@ -53635,6 +53656,11 @@
   {
    "brand": "Daiwa",
    "device": "keoneae",
+   "model": "4K DATV"
+  },
+  {
+   "brand": "Daiwa",
+   "device": "keoneae",
    "model": "Daiwa 4K Google TV"
   }
  ],
@@ -58256,6 +58282,13 @@
    "model": "U10Kid"
   }
  ],
+ "U8 Kid": [
+  {
+   "brand": "Doogee",
+   "device": "RK3KID",
+   "model": "U8 Kid"
+  }
+ ],
  "V MAX": [
   {
    "brand": "Doogee",
@@ -60624,6 +60657,11 @@
   {
    "brand": "JVC",
    "device": "kaitak",
+   "model": "JVCSA 4KGoogle TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "kaitak",
    "model": "JVCSA 4KGoogleTV"
   },
   {
@@ -61710,6 +61748,13 @@
    "brand": "EVEREST-EVERPAD",
    "device": "DC-M700",
    "model": "DC-M700"
+  }
+ ],
+ "EVO FUSE 4K": [
+  {
+   "brand": "EVO FUSE 4K",
+   "device": "SEI700L",
+   "model": "FUSE 4K"
   }
  ],
  "FRC1-ABB": [
@@ -66795,11 +66840,6 @@
   }
  ],
  "FUSE 4K": [
-  {
-   "brand": "FUSE4K",
-   "device": "SEI700L",
-   "model": "FUSE 4K"
-  },
   {
    "brand": "FUSE4K",
    "device": "SEI700TV",
@@ -103088,6 +103128,13 @@
    "model": "Infinix X6850"
   }
  ],
+ "Infinix NOTE 40 Pro 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6851",
+   "model": "Infinix X6851"
+  }
+ ],
  "Infinix NOTE 5": [
   {
    "brand": "Infinix",
@@ -106667,6 +106714,11 @@
    "brand": "Isafe",
    "device": "IS330",
    "model": "IS330"
+  },
+  {
+   "brand": "i.safe MOBILE",
+   "device": "IS330",
+   "model": "IS330"
   }
  ],
  "IS520": [
@@ -106688,13 +106740,11 @@
    "brand": "Isafe",
    "device": "IS530",
    "model": "IS530"
-  }
- ],
- "IS540": [
+  },
   {
-   "brand": "Isafe",
-   "device": "IS540",
-   "model": "IS540"
+   "brand": "i.safe MOBILE",
+   "device": "IS530",
+   "model": "IS530"
   }
  ],
  "IS655": [
@@ -106714,6 +106764,11 @@
  "IS930": [
   {
    "brand": "Isafe",
+   "device": "IS930",
+   "model": "IS930"
+  },
+  {
+   "brand": "i.safe MOBILE",
    "device": "IS930",
    "model": "IS930"
   }
@@ -109041,6 +109096,13 @@
    "brand": "Janam",
    "device": "XM75P",
    "model": "XM75"
+  }
+ ],
+ "XR2": [
+  {
+   "brand": "Janam",
+   "device": "XR2",
+   "model": "XR2"
   }
  ],
  "XT100": [
@@ -114021,11 +114083,6 @@
    "brand": "Kodak",
    "device": "marina",
    "model": "KODAK 4K Smart TV"
-  },
-  {
-   "brand": "LLA",
-   "device": "SEI700L",
-   "model": "FUSE 4K"
   }
  ],
  "SMARTWAY L2": [
@@ -123225,13 +123282,6 @@
    "model": "STARLIGHT Android TV"
   }
  ],
- "Gasobi region": [
-  {
-   "brand": "LLA",
-   "device": "SEI700L",
-   "model": "FUSE 4K"
-  }
- ],
  "Orion": [
   {
    "brand": "LLA",
@@ -125326,6 +125376,13 @@
    "brand": "Lava",
    "device": "iris90",
    "model": "iris90"
+  }
+ ],
+ "LAVA AGNI 2 5G": [
+  {
+   "brand": "Lava",
+   "device": "LXX504",
+   "model": "LAVA LXX504"
   }
  ],
  "LAVA AGNI 5G": [
@@ -173772,6 +173829,13 @@
    "model": "APPC-10SLBe"
   }
  ],
+ "SMIG_VI": [
+  {
+   "brand": "ProGLP",
+   "device": "SMIG_VI",
+   "model": "SMIG_VI"
+  }
+ ],
  "Prodigi Connect 12": [
   {
    "brand": "Prodigi Connect12",
@@ -200256,6 +200320,23 @@
    "model": "SM-W2018X"
   }
  ],
+ "Samsung Interactive Display": [
+  {
+   "brand": "Samsung",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "model": "WA65D"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "model": "WA75D"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "model": "WA86D"
+  }
+ ],
  "Sidekick": [
   {
    "brand": "Samsung",
@@ -204533,6 +204614,13 @@
    "brand": "Sigma Mobile",
    "device": "TabA1020",
    "model": "Tab A1020"
+  }
+ ],
+ "Tab A1025 X-treme 2": [
+  {
+   "brand": "Sigma Mobile",
+   "device": "Tab_A1025_2",
+   "model": "Tab A1025 X-treme 2"
   }
  ],
  "Tab A802": [
@@ -228024,6 +228112,13 @@
    "model": "TECNO LE8"
   }
  ],
+ "TECNO POVA 6": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LI7",
+   "model": "TECNO LI7"
+  }
+ ],
  "TECNO POVA 6 Pro 5G": [
   {
    "brand": "Tecno",
@@ -234091,6 +234186,13 @@
    "brand": "Umidigi",
    "device": "UMIDIGI_A15",
    "model": "MP33"
+  }
+ ],
+ "UMIDIGI A15 Ultra": [
+  {
+   "brand": "Umidigi",
+   "device": "A15_Ultra",
+   "model": "MP32"
   }
  ],
  "UMIDIGI A15C": [
@@ -240799,6 +240901,13 @@
    "brand": "Vivo",
    "device": "V2327",
    "model": "V2327"
+  }
+ ],
+ "V30 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "V2319",
+   "model": "V2319"
   }
  ],
  "V30 SE": [
@@ -263861,6 +263970,13 @@
    "brand": "iPlus",
    "device": "NU70",
    "model": "Nu70"
+  }
+ ],
+ "IS540": [
+  {
+   "brand": "i.safe MOBILE",
+   "device": "IS540",
+   "model": "IS540"
   }
  ],
  "TABLET_PC": [

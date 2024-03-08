@@ -16718,6 +16718,13 @@
    "device": "ADAA"
   }
  ],
+ "AT14P464": [
+  {
+   "brand": "Ascom",
+   "name": "AT14",
+   "device": "AT14"
+  }
+ ],
  "Ascom Myco 3 Wi-Fi": [
   {
    "brand": "Ascom",
@@ -28050,6 +28057,13 @@
    "device": "BV5300"
   }
  ],
+ "BV5300 Plus": [
+  {
+   "brand": "Blackview",
+   "name": "BV5300 Plus",
+   "device": "BV5300_Plus"
+  }
+ ],
  "BV5300 Pro": [
   {
    "brand": "Blackview",
@@ -35370,6 +35384,13 @@
    "brand": "CTOUCH",
    "name": "CTOUCH Droid OPS Module",
    "device": "Droid_OPS_Module"
+  }
+ ],
+ "SA12 series": [
+  {
+   "brand": "CVTE",
+   "name": "CVTE SA12",
+   "device": "rk3588_t"
   }
  ],
  "edu_v2": [
@@ -47594,6 +47615,13 @@
    "device": "capitolhill"
   }
  ],
+ "4K DATV": [
+  {
+   "brand": "Daiwa",
+   "name": "4K DATV",
+   "device": "keoneae"
+  }
+ ],
  "Daiwa 4K Google TV": [
   {
    "brand": "Daiwa",
@@ -52102,6 +52130,13 @@
    "device": "RK1KID"
   }
  ],
+ "U8 Kid": [
+  {
+   "brand": "Doogee",
+   "name": "U8 Kid",
+   "device": "RK3KID"
+  }
+ ],
  "V Max": [
   {
    "brand": "Doogee",
@@ -55066,6 +55101,18 @@
    "brand": "EVEREST-EVERPAD",
    "name": "DC-M700",
    "device": "DC-M700"
+  }
+ ],
+ "FUSE 4K": [
+  {
+   "brand": "EVO FUSE 4K",
+   "name": "EVO FUSE 4K",
+   "device": "SEI700L"
+  },
+  {
+   "brand": "FUSE4K",
+   "name": "FUSE 4K",
+   "device": "SEI700TV"
   }
  ],
  "FRC1-ABB": [
@@ -60199,28 +60246,6 @@
    "brand": "FUNKER",
    "name": "E500i",
    "device": "E500i"
-  }
- ],
- "FUSE 4K": [
-  {
-   "brand": "FUSE4K",
-   "name": "FUSE 4K",
-   "device": "SEI700L"
-  },
-  {
-   "brand": "FUSE4K",
-   "name": "FUSE 4K",
-   "device": "SEI700TV"
-  },
-  {
-   "brand": "LLA",
-   "name": "Gasobi region",
-   "device": "SEI700L"
-  },
-  {
-   "brand": "LLA",
-   "name": "Panama",
-   "device": "SEI700L"
   }
  ],
  "FV-FG6": [
@@ -100951,6 +100976,13 @@
    "device": "Infinix-X6850"
   }
  ],
+ "Infinix X6851": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40 Pro 5G",
+   "device": "Infinix-X6851"
+  }
+ ],
  "Infinix X604": [
   {
    "brand": "Infinix",
@@ -104643,6 +104675,11 @@
    "brand": "Isafe",
    "name": "IS330",
    "device": "IS330"
+  },
+  {
+   "brand": "i.safe MOBILE",
+   "name": "IS330",
+   "device": "IS330"
   }
  ],
  "IS520": [
@@ -104664,13 +104701,11 @@
    "brand": "Isafe",
    "name": "IS530",
    "device": "IS530"
-  }
- ],
- "IS540": [
+  },
   {
-   "brand": "Isafe",
-   "name": "IS540",
-   "device": "IS540"
+   "brand": "i.safe MOBILE",
+   "name": "IS530",
+   "device": "IS530"
   }
  ],
  "IS655": [
@@ -104690,6 +104725,11 @@
  "IS930": [
   {
    "brand": "Isafe",
+   "name": "IS930",
+   "device": "IS930"
+  },
+  {
+   "brand": "i.safe MOBILE",
    "name": "IS930",
    "device": "IS930"
   }
@@ -107020,6 +107060,11 @@
    "brand": "JVC",
    "name": "JVC",
    "device": "expo"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "kaitak"
   }
  ],
  "JVCUS 4K TV": [
@@ -107328,6 +107373,13 @@
    "brand": "Janam",
    "name": "XT75",
    "device": "XM75"
+  }
+ ],
+ "XR2": [
+  {
+   "brand": "Janam",
+   "name": "XR2",
+   "device": "XR2"
   }
  ],
  "XT100": [
@@ -125258,6 +125310,13 @@
    "brand": "Lava",
    "name": "R3 Prime",
    "device": "iris90"
+  }
+ ],
+ "LAVA LXX504": [
+  {
+   "brand": "Lava",
+   "name": "LAVA AGNI 2 5G",
+   "device": "LXX504"
   }
  ],
  "LAVA LXX501": [
@@ -176702,6 +176761,13 @@
    "device": "rk3399_Android11"
   }
  ],
+ "SMIG_VI": [
+  {
+   "brand": "ProGLP",
+   "name": "SMIG_VI",
+   "device": "SMIG_VI"
+  }
+ ],
  "Prodigi Connect 12": [
   {
    "brand": "Prodigi Connect12",
@@ -207956,6 +208022,27 @@
    "device": "kellyltechn"
   }
  ],
+ "WA65D": [
+  {
+   "brand": "Samsung",
+   "name": "Samsung Interactive Display",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY"
+  }
+ ],
+ "WA75D": [
+  {
+   "brand": "Samsung",
+   "name": "Samsung Interactive Display",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY"
+  }
+ ],
+ "WA86D": [
+  {
+   "brand": "Samsung",
+   "name": "Samsung Interactive Display",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY"
+  }
+ ],
  "SGH-T839": [
   {
    "brand": "Samsung",
@@ -212407,6 +212494,13 @@
    "brand": "Sigma Mobile",
    "name": "Tab A1020",
    "device": "TabA1020"
+  }
+ ],
+ "Tab A1025 X-treme 2": [
+  {
+   "brand": "Sigma Mobile",
+   "name": "Tab A1025 X-treme 2",
+   "device": "Tab_A1025_2"
   }
  ],
  "Tab A802": [
@@ -238807,6 +238901,13 @@
    "device": "TECNO-LE8"
   }
  ],
+ "TECNO LI7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 6",
+   "device": "TECNO-LI7"
+  }
+ ],
  "TECNO LI9": [
   {
    "brand": "Tecno",
@@ -245009,6 +245110,13 @@
    "brand": "Umidigi",
    "name": "UMIDIGI A15 RU",
    "device": "UMIDIGI_A15"
+  }
+ ],
+ "MP32": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15 Ultra",
+   "device": "A15_Ultra"
   }
  ],
  "MP34": [
@@ -251898,6 +252006,13 @@
    "brand": "Vivo",
    "name": "Y100 5G",
    "device": "V2327"
+  }
+ ],
+ "V2319": [
+  {
+   "brand": "Vivo",
+   "name": "V30 Pro",
+   "device": "V2319"
   }
  ],
  "V2349": [
@@ -277491,6 +277606,13 @@
    "brand": "iPlus",
    "name": "Nu70",
    "device": "NU70"
+  }
+ ],
+ "IS540": [
+  {
+   "brand": "i.safe MOBILE",
+   "name": "IS540",
+   "device": "IS540"
   }
  ],
  "10080": [

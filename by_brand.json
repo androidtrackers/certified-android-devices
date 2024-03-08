@@ -9524,6 +9524,11 @@
    "model": "Ascom Myco 3 DECT Wi-Fi EU"
   },
   {
+   "device": "AT14",
+   "name": "AT14",
+   "model": "AT14P464"
+  },
+  {
    "device": "ABAA",
    "name": "Ascom Myco 3",
    "model": "Ascom Myco 3 Wi-Fi"
@@ -17761,6 +17766,11 @@
    "model": "BV5300"
   },
   {
+   "device": "BV5300_Plus",
+   "name": "BV5300 Plus",
+   "model": "BV5300 Plus"
+  },
+  {
    "device": "BV5300_Pro",
    "name": "BV5300 Pro",
    "model": "BV5300 Pro"
@@ -22992,6 +23002,11 @@
   }
  ],
  "CVTE": [
+  {
+   "device": "rk3588_t",
+   "name": "CVTE SA12",
+   "model": "SA12 series"
+  },
   {
    "device": "rk3588_t",
    "name": "edu_v2",
@@ -31895,6 +31910,11 @@
   {
    "device": "keoneae",
    "name": "4K DATV",
+   "model": "4K DATV"
+  },
+  {
+   "device": "keoneae",
+   "name": "4K DATV",
    "model": "Daiwa 4K Google TV"
   },
   {
@@ -35246,6 +35266,11 @@
    "model": "U10Kid"
   },
   {
+   "device": "RK3KID",
+   "name": "U8 Kid",
+   "model": "U8 Kid"
+  },
+  {
    "device": "M23H",
    "name": "V MAX",
    "model": "V Max"
@@ -37552,6 +37577,13 @@
    "device": "DC-M700",
    "name": "DC-M700",
    "model": "DC-M700"
+  }
+ ],
+ "EVO FUSE 4K": [
+  {
+   "device": "SEI700L",
+   "name": "EVO FUSE 4K",
+   "model": "FUSE 4K"
   }
  ],
  "EVOFORCE1": [
@@ -41354,11 +41386,6 @@
   }
  ],
  "FUSE4K": [
-  {
-   "device": "SEI700L",
-   "name": "FUSE 4K",
-   "model": "FUSE 4K"
-  },
   {
    "device": "SEI700TV",
    "name": "FUSE 4K",
@@ -72444,6 +72471,11 @@
    "model": "Infinix X6850"
   },
   {
+   "device": "Infinix-X6851",
+   "name": "Infinix NOTE 40 Pro 5G",
+   "model": "Infinix X6851"
+  },
+  {
    "device": "Infinix-X604_sprout",
    "name": "Infinix NOTE 5",
    "model": "Infinix X604"
@@ -75351,11 +75383,6 @@
    "model": "IS530"
   },
   {
-   "device": "IS540",
-   "name": "IS540",
-   "model": "IS540"
-  },
-  {
    "device": "IS655",
    "name": "IS655",
    "model": "IS655"
@@ -77214,6 +77241,11 @@
   {
    "device": "kaitak",
    "name": "JVC",
+   "model": "JVCSA 4KGoogle TV"
+  },
+  {
+   "device": "kaitak",
+   "name": "JVC",
    "model": "JVCSA 4KGoogleTV"
   },
   {
@@ -77510,6 +77542,11 @@
    "device": "XM75P",
    "name": "XM75",
    "model": "XM75"
+  },
+  {
+   "device": "XR2",
+   "name": "XR2",
+   "model": "XR2"
   },
   {
    "device": "XT100",
@@ -90153,19 +90190,9 @@
  ],
  "LLA": [
   {
-   "device": "SEI700L",
-   "name": "Gasobi region",
-   "model": "FUSE 4K"
-  },
-  {
    "device": "SEI500L",
    "name": "Orion",
    "model": "Orion"
-  },
-  {
-   "device": "SEI700L",
-   "name": "Panama",
-   "model": "FUSE 4K"
   },
   {
    "device": "vip6102w",
@@ -91782,6 +91809,11 @@
    "device": "iris90",
    "name": "Iris90",
    "model": "iris90"
+  },
+  {
+   "device": "LXX504",
+   "name": "LAVA AGNI 2 5G",
+   "model": "LAVA LXX504"
   },
   {
    "device": "LXX501",
@@ -132894,6 +132926,13 @@
    "model": "APPC-10SLBe"
   }
  ],
+ "ProGLP": [
+  {
+   "device": "SMIG_VI",
+   "name": "SMIG_VI",
+   "model": "SMIG_VI"
+  }
+ ],
  "Prodigi Connect12": [
   {
    "device": "connect",
@@ -156563,6 +156602,21 @@
    "model": "SM-W2018X"
   },
   {
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "name": "Samsung Interactive Display",
+   "model": "WA65D"
+  },
+  {
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "name": "Samsung Interactive Display",
+   "model": "WA75D"
+  },
+  {
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "name": "Samsung Interactive Display",
+   "model": "WA86D"
+  },
+  {
    "device": "SGH-T839",
    "name": "Sidekick",
    "model": "SGH-T839"
@@ -160024,6 +160078,11 @@
    "device": "TabA1020",
    "name": "Tab A1020",
    "model": "Tab A1020"
+  },
+  {
+   "device": "Tab_A1025_2",
+   "name": "Tab A1025 X-treme 2",
+   "model": "Tab A1025 X-treme 2"
   },
   {
    "device": "Tab_A802",
@@ -180810,6 +180869,11 @@
    "model": "TECNO LE8"
   },
   {
+   "device": "TECNO-LI7",
+   "name": "TECNO POVA 6",
+   "model": "TECNO LI7"
+  },
+  {
    "device": "TECNO-LI9",
    "name": "TECNO POVA 6 Pro 5G",
    "model": "TECNO LI9"
@@ -186123,6 +186187,11 @@
    "device": "UMIDIGI_A15",
    "name": "UMIDIGI A15 RU",
    "model": "MP33"
+  },
+  {
+   "device": "A15_Ultra",
+   "name": "UMIDIGI A15 Ultra",
+   "model": "MP32"
   },
   {
    "device": "UMIDIGI_A15C",
@@ -191779,6 +191848,11 @@
    "device": "V2327",
    "name": "V30 Lite 5G",
    "model": "V2327"
+  },
+  {
+   "device": "V2319",
+   "name": "V30 Pro",
+   "model": "V2319"
   },
   {
    "device": "V2327",
@@ -212433,6 +212507,28 @@
    "device": "Nu70",
    "name": "Nu70",
    "model": "Nu70"
+  }
+ ],
+ "i.safe MOBILE": [
+  {
+   "device": "IS330",
+   "name": "IS330",
+   "model": "IS330"
+  },
+  {
+   "device": "IS530",
+   "name": "IS530",
+   "model": "IS530"
+  },
+  {
+   "device": "IS540",
+   "name": "IS540",
+   "model": "IS540"
+  },
+  {
+   "device": "IS930",
+   "name": "IS930",
+   "model": "IS930"
   }
  ],
  "i5 (dza)": [
