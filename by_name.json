@@ -107160,6 +107160,11 @@
    "brand": "Itel",
    "device": "itel-W5005P",
    "model": "itel W5005P"
+  },
+  {
+   "brand": "Pastigio",
+   "device": "M10T2_P15",
+   "model": "P15"
   }
  ],
  "P31": [
@@ -254591,6 +254596,18 @@
    "brand": "ZTE",
    "device": "roamer2",
    "model": "Leopard MF800"
+  }
+ ],
+ "Libero Flip": [
+  {
+   "brand": "ZTE",
+   "device": "Z8888S",
+   "model": "A304ZT"
+  },
+  {
+   "brand": "ZTE",
+   "device": "Z8888S",
+   "model": "XXXX"
   }
  ],
  "Light Tab 2": [

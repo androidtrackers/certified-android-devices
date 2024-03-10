@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-09
+Last sync is 2024-03-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24764,6 +24764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Partner|PartnerTV-Box|uzw4054ptn|PartnerTV-Box|
 |Partner|Partner_Evolution|Partner_Evolution|Partner Evolution|
 |Partner|S70PCI|Batman|S70PCI|
+|Pastigio|P15|M10T2_P15|P15|
 |Pastigio|SMY_17_M07R6_EEA|SMY-17-M07R6|SMY-17-M07R6|
 |Pavapro|PavaPro7bk|Pavapro7bk|Pavapro7bk|
 |Pavapro|Pavapro10|Pavapro10bk|Pavapro10bk|
@@ -39873,6 +39874,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|LS-5503|P839F50|ZTE Blade S6 Plus|
 |ZTE|Lannister|weeper|Z863DL|
 |ZTE|Leopard MF800|roamer2|Leopard MF800|
+|ZTE|Libero Flip|Z8888S|A304ZT|
+|ZTE|Libero Flip|Z8888S|XXXX|
 |ZTE|Light Tab 2|v9plus|Light Tab 2|
 |ZTE|M8402|roamer2|M8402|
 |ZTE|M901C|P692N60|ZTE M901C|

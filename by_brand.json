@@ -127360,6 +127360,11 @@
  ],
  "Pastigio": [
   {
+   "device": "M10T2_P15",
+   "name": "P15",
+   "model": "P15"
+  },
+  {
    "device": "SMY-17-M07R6",
    "name": "SMY_17_M07R6_EEA",
    "model": "SMY-17-M07R6"
@@ -204719,6 +204724,16 @@
    "device": "roamer2",
    "name": "Leopard MF800",
    "model": "Leopard MF800"
+  },
+  {
+   "device": "Z8888S",
+   "name": "Libero Flip",
+   "model": "A304ZT"
+  },
+  {
+   "device": "Z8888S",
+   "name": "Libero Flip",
+   "model": "XXXX"
   },
   {
    "device": "v9plus",

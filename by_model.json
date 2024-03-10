@@ -169807,6 +169807,13 @@
    "device": "Partner_Evolution"
   }
  ],
+ "P15": [
+  {
+   "brand": "Pastigio",
+   "name": "P15",
+   "device": "M10T2_P15"
+  }
+ ],
  "SMY-17-M07R6": [
   {
    "brand": "Pastigio",
@@ -268254,6 +268261,20 @@
    "brand": "ZTE",
    "name": "Leopard MF800",
    "device": "roamer2"
+  }
+ ],
+ "A304ZT": [
+  {
+   "brand": "ZTE",
+   "name": "Libero Flip",
+   "device": "Z8888S"
+  }
+ ],
+ "XXXX": [
+  {
+   "brand": "ZTE",
+   "name": "Libero Flip",
+   "device": "Z8888S"
   }
  ],
  "M8402": [
