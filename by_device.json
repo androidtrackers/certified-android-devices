@@ -74116,6 +74116,13 @@
    "model": "GTB_106"
   }
  ],
+ "WP856": [
+  {
+   "brand": "Grandstream",
+   "name": "Grandstream WP856",
+   "model": "WP856"
+  }
+ ],
  "tablet": [
   {
    "brand": "Greatwall",
@@ -148240,6 +148247,11 @@
   }
  ],
  "MFT1621": [
+  {
+   "brand": "Movfast",
+   "name": "Ranger2 Lite",
+   "model": "Ranger2K"
+  },
   {
    "brand": "Movfast",
    "name": "Ranger2K",
@@ -242904,6 +242916,23 @@
    "model": "V2325"
   }
  ],
+ "V2333": [
+  {
+   "brand": "Vivo",
+   "name": "Y03",
+   "model": "V2332"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y03",
+   "model": "V2406"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y18e",
+   "model": "V2350"
+  }
+ ],
  "PD2313": [
   {
    "brand": "Vivo",
@@ -243667,6 +243696,13 @@
    "brand": "Vivo",
    "name": "vivo Y78t",
    "model": "V2312BA"
+  }
+ ],
+ "I2302": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z9 5G",
+   "model": "I2302"
   }
  ],
  "1907": [

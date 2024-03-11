@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-10
+Last sync is 2024-03-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9293,6 +9293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gradiente|GTB_106|GTB_106|GTB_106|
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
 |Gradiente|iphone C600|bravo|iphone C600|
+|Grandstream|Grandstream WP856|WP856|WP856|
 |Greatwall|100011886|tablet|100011886|
 |Greatwall|100011886_GTW|tablet|100011886_GTW|
 |Greatwall|K701|K701|K701|
@@ -21638,6 +21639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
 |Moveby|LINNEX|LX50|LX50|
 |Movfast|Ranger2|MFT1522|Ranger2|
+|Movfast|Ranger2 Lite|MFT1621|Ranger2K|
 |Movfast|Ranger2K|MFT1621|Ranger2K|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
 |Movienet|M7|SFO|M7|
@@ -37421,6 +37423,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y02t|V2254|V2252|
 |Vivo|Y02t|V2254|V2254|
 |Vivo|Y02t|V2254|V2325|
+|Vivo|Y03|V2333|V2332|
+|Vivo|Y03|V2333|V2406|
 |Vivo|Y100|PD2313|V2313A|
 |Vivo|Y100|V2239|V2239|
 |Vivo|Y100 5G|V2327|V2327|
@@ -37437,6 +37441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y17|1902D|vivo 1902|
 |Vivo|Y17s|V2310|V2310|
 |Vivo|Y17s|V2310|V2331|
+|Vivo|Y18e|V2333|V2350|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200e 5G|V2327|V2336|
 |Vivo|Y21|Y21|vivo Y21|
@@ -37551,6 +37556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7x (m)|PD2272|V2272A|
 |Vivo|iQOO Z7x 5G|I2216|I2216|
 |Vivo|iQOO Z8x|PD2312|V2312A|
+|Vivo|iQOO Z9 5G|I2302|I2302|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|

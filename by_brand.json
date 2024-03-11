@@ -48289,6 +48289,13 @@
    "model": "iphone C600"
   }
  ],
+ "Grandstream": [
+  {
+   "device": "WP856",
+   "name": "Grandstream WP856",
+   "model": "WP856"
+  }
+ ],
  "Greatwall": [
   {
    "device": "tablet",
@@ -111232,6 +111239,11 @@
    "device": "MFT1522",
    "name": "Ranger2",
    "model": "Ranger2"
+  },
+  {
+   "device": "MFT1621",
+   "name": "Ranger2 Lite",
+   "model": "Ranger2K"
   },
   {
    "device": "MFT1621",
@@ -192135,6 +192147,16 @@
    "model": "V2325"
   },
   {
+   "device": "V2333",
+   "name": "Y03",
+   "model": "V2332"
+  },
+  {
+   "device": "V2333",
+   "name": "Y03",
+   "model": "V2406"
+  },
+  {
    "device": "PD2313",
    "name": "Y100",
    "model": "V2313A"
@@ -192213,6 +192235,11 @@
    "device": "V2310",
    "name": "Y17s",
    "model": "V2331"
+  },
+  {
+   "device": "V2333",
+   "name": "Y18e",
+   "model": "V2350"
   },
   {
    "device": "V2307",
@@ -192783,6 +192810,11 @@
    "device": "PD2312",
    "name": "iQOO Z8x",
    "model": "V2312A"
+  },
+  {
+   "device": "I2302",
+   "name": "iQOO Z9 5G",
+   "model": "I2302"
   },
   {
    "device": "1907",

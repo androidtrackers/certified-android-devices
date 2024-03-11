@@ -75966,6 +75966,13 @@
    "model": "iphone C600"
   }
  ],
+ "Grandstream WP856": [
+  {
+   "brand": "Grandstream",
+   "device": "WP856",
+   "model": "WP856"
+  }
+ ],
  "100011886": [
   {
    "brand": "Greatwall",
@@ -147881,6 +147888,13 @@
    "brand": "Movfast",
    "device": "MFT1522",
    "model": "Ranger2"
+  }
+ ],
+ "Ranger2 Lite": [
+  {
+   "brand": "Movfast",
+   "device": "MFT1621",
+   "model": "Ranger2K"
   }
  ],
  "Ranger2K": [
@@ -241207,6 +241221,18 @@
    "model": "V2325"
   }
  ],
+ "Y03": [
+  {
+   "brand": "Vivo",
+   "device": "V2333",
+   "model": "V2332"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2333",
+   "model": "V2406"
+  }
+ ],
  "Y100 5G": [
   {
    "brand": "Vivo",
@@ -241276,6 +241302,13 @@
    "brand": "Vivo",
    "device": "V2310",
    "model": "V2331"
+  }
+ ],
+ "Y18e": [
+  {
+   "brand": "Vivo",
+   "device": "V2333",
+   "model": "V2350"
   }
  ],
  "Y200 5G": [
@@ -242022,6 +242055,13 @@
    "brand": "Vivo",
    "device": "PD2312",
    "model": "V2312A"
+  }
+ ],
+ "iQOO Z9 5G": [
+  {
+   "brand": "Vivo",
+   "device": "I2302",
+   "model": "I2302"
   }
  ],
  "vivo  1907": [
