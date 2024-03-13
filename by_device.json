@@ -679,6 +679,11 @@
    "model": "ADOCEX650"
   },
   {
+   "brand": "COMBUSTECH",
+   "name": "Customer need debug",
+   "model": "COMBUS_IB"
+  },
+  {
    "brand": "CVTE",
    "name": "CVTE SA12",
    "model": "SA12 series"
@@ -709,9 +714,29 @@
    "model": "Helgi_HX10"
   },
   {
+   "brand": "JTWORKS",
+   "name": "JTWORKS-IFPD",
+   "model": "JTW"
+  },
+  {
+   "brand": "MPORT",
+   "name": "MPORT-IFPD",
+   "model": "e_Smarter"
+  },
+  {
+   "brand": "NURIBOM",
+   "name": "NRB-IFPD",
+   "model": "MP_Series"
+  },
+  {
    "brand": "Newline",
    "name": "Q23",
    "model": "Q23"
+  },
+  {
+   "brand": "OMAX",
+   "name": "OMAX-IFPD",
+   "model": "HANJI"
   },
   {
    "brand": "OneScreen",
@@ -724,9 +749,19 @@
    "model": "Synetech_T35"
   },
   {
+   "brand": "UNITRADING",
+   "name": "UNITRADING-IFPD",
+   "model": "UNIDEAS"
+  },
+  {
    "brand": "V7",
    "name": "IFPXX03-V7PRO",
    "model": "IFPO3V7PRO"
+  },
+  {
+   "brand": "VECT",
+   "name": "VECT-IFPD",
+   "model": "UIT"
   }
  ],
  "ADOC_TCAT10": [
@@ -4969,6 +5004,11 @@
   {
    "brand": "Siragon",
    "name": "Siragon",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
    "model": "2K SMART TV"
   }
  ],
@@ -36599,6 +36639,13 @@
    "model": "M10L Pro"
   }
  ],
+ "M0215": [
+  {
+   "brand": "Blu",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  }
+ ],
  "M0215_MXT": [
   {
    "brand": "Blu",
@@ -36614,6 +36661,13 @@
   }
  ],
  "M0215_NDSK": [
+  {
+   "brand": "Blu",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  }
+ ],
+ "M0215_SYN": [
   {
    "brand": "Blu",
    "name": "M10L Pro",
@@ -73866,6 +73920,11 @@
    "brand": "Google",
    "name": "Pixel Watch 2",
    "model": "Google Pixel Watch 2"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Ultra",
+   "model": "Xiaomi for arm64"
   }
  ],
  "eos": [
@@ -84501,6 +84560,13 @@
    "brand": "Hisense",
    "name": "Hisense E70",
    "model": "Hisense E70"
+  }
+ ],
+ "HLTE263E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E70 Pro",
+   "model": "Hisense E70 Pro"
   }
  ],
  "HS6580MT": [
@@ -99977,6 +100043,13 @@
    "brand": "INSYS",
    "name": "WH2-9832",
    "model": "WH2-9832"
+  }
+ ],
+ "INUTAB21": [
+  {
+   "brand": "INUSUAL",
+   "name": "INUTAB21",
+   "model": "INUTAB21"
   }
  ],
  "Gravity": [
@@ -146919,6 +146992,18 @@
    "model": "moto g play (XT2093DL)"
   }
  ],
+ "fogona": [
+  {
+   "brand": "Motorola",
+   "name": "moto g play - 2024",
+   "model": "moto g play - 2024"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g play - 2024",
+   "model": "motorola edge 40 pro"
+  }
+ ],
  "sofia": [
   {
    "brand": "Motorola",
@@ -147246,6 +147331,11 @@
    "brand": "Redmi",
    "name": "Redmi 12 5G",
    "model": "23076RN8DY"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12 5G",
+   "model": "A401XM"
   }
  ],
  "river_n": [
@@ -153918,7 +154008,7 @@
  "NLS-NQuire": [
   {
    "brand": "Newland",
-   "name": "Newland NLS-NQuir",
+   "name": "Newland NLS-NQuire",
    "model": "NLS-NQuire"
   }
  ],
@@ -160581,6 +160671,20 @@
    "model": "OPPO Watch"
   }
  ],
+ "OWWE231": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Watch X",
+   "model": "OWWE231"
+  }
+ ],
+ "OPWWE231": [
+  {
+   "brand": "Oppo",
+   "name": "OnePlus Watch 2",
+   "model": "OPWWE231"
+  }
+ ],
  "OP4AB5": [
   {
    "brand": "Oppo",
@@ -164631,6 +164735,28 @@
    "brand": "Redmi",
    "name": "Redmi 12C",
    "model": "2212ARNC4L"
+  }
+ ],
+ "blue": [
+  {
+   "brand": "POCO",
+   "name": "POCO C61",
+   "model": "2312BPC51H"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A3",
+   "model": "23129RN51H"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A3",
+   "model": "23129RN51X"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A3",
+   "model": "2312CRNCCL"
   }
  ],
  "gale": [
@@ -240931,6 +241057,13 @@
    "brand": "Vivo",
    "name": "Y56 5G",
    "model": "V2311"
+  }
+ ],
+ "V2334": [
+  {
+   "brand": "Vivo",
+   "name": "T3 5G",
+   "model": "V2334"
   }
  ],
  "PD2180": [

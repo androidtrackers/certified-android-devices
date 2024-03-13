@@ -36938,6 +36938,11 @@
   },
   {
    "brand": "Blu",
+   "device": "M0215",
+   "model": "M10L Pro"
+  },
+  {
+   "brand": "Blu",
    "device": "M0215_MXT",
    "model": "M10L Pro"
   },
@@ -36949,6 +36954,11 @@
   {
    "brand": "Blu",
    "device": "M0215_NDSK",
+   "model": "M10L Pro"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0215_SYN",
    "model": "M10L Pro"
   }
  ],
@@ -40703,6 +40713,18 @@
    "brand": "Oukitel",
    "device": "K12",
    "model": "K12"
+  }
+ ],
+ "Customer need debug": [
+  {
+   "brand": "COMBUSTECH",
+   "device": "rk3588_t",
+   "model": "COMBUS_IB"
+  },
+  {
+   "brand": "Condor",
+   "device": "TB108W",
+   "model": "TB108W"
   }
  ],
  "BLUEPAD10": [
@@ -46573,13 +46595,6 @@
    "brand": "Condor",
    "device": "u970_5",
    "model": "C-6"
-  }
- ],
- "Customer need debug": [
-  {
-   "brand": "Condor",
-   "device": "TB108W",
-   "model": "TB108W"
   }
  ],
  "G6 Pro": [
@@ -86442,6 +86457,13 @@
    "model": "Hisense E70"
   }
  ],
+ "Hisense E70 Pro": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE263E",
+   "model": "Hisense E70 Pro"
+  }
+ ],
  "Hisense E76MINIM": [
   {
    "brand": "Hisense",
@@ -101211,6 +101233,13 @@
    "model": "WH2-9832"
   }
  ],
+ "INUTAB21": [
+  {
+   "brand": "INUSUAL",
+   "device": "INUTAB21",
+   "model": "INUTAB21"
+  }
+ ],
  "Kids": [
   {
    "brand": "ION ELECTRONICS",
@@ -108761,6 +108790,13 @@
    "brand": "JREN",
    "device": "JR_J7",
    "model": "JR_J7"
+  }
+ ],
+ "JTWORKS-IFPD": [
+  {
+   "brand": "JTWORKS",
+   "device": "rk3588_t",
+   "model": "JTW"
   }
  ],
  "J10_EEA": [
@@ -135157,6 +135193,13 @@
    "model": "P63"
   }
  ],
+ "MPORT-IFPD": [
+  {
+   "brand": "MPORT",
+   "device": "rk3588_t",
+   "model": "e_Smarter"
+  }
+ ],
  "MPDC1006": [
   {
    "brand": "MPman",
@@ -146368,6 +146411,18 @@
    "model": "moto g play (XT2093DL)"
   }
  ],
+ "moto g play - 2024": [
+  {
+   "brand": "Motorola",
+   "device": "fogona",
+   "model": "moto g play - 2024"
+  },
+  {
+   "brand": "Motorola",
+   "device": "fogona",
+   "model": "motorola edge 40 pro"
+  }
+ ],
  "moto g power": [
   {
    "brand": "Motorola",
@@ -152032,6 +152087,13 @@
    "model": "NX-20PRO1"
   }
  ],
+ "NRB-IFPD": [
+  {
+   "brand": "NURIBOM",
+   "device": "rk3588_t",
+   "model": "MP_Series"
+  }
+ ],
  "SHIELD Android TV": [
   {
    "brand": "NVIDIA",
@@ -153423,7 +153485,7 @@
    "model": "NLS-N7"
   }
  ],
- "Newland NLS-NQuir": [
+ "Newland NLS-NQuire": [
   {
    "brand": "Newland",
    "device": "NLS-NQuire",
@@ -156140,6 +156202,13 @@
    "brand": "OLAX",
    "device": "Q101_EEA",
    "model": "Q101_EEA"
+  }
+ ],
+ "OMAX-IFPD": [
+  {
+   "brand": "OMAX",
+   "device": "rk3588_t",
+   "model": "HANJI"
   }
  ],
  "MixTab Pro": [
@@ -159959,6 +160028,20 @@
    "brand": "Oppo",
    "device": "orca",
    "model": "OPPO Watch"
+  }
+ ],
+ "OPPO Watch X": [
+  {
+   "brand": "Oppo",
+   "device": "OWWE231",
+   "model": "OWWE231"
+  }
+ ],
+ "OnePlus Watch 2": [
+  {
+   "brand": "Oppo",
+   "device": "OPWWE231",
+   "model": "OPWWE231"
   }
  ],
  "PCRT01": [
@@ -163988,6 +164071,13 @@
    "brand": "POCO",
    "device": "earth",
    "model": "22127PC95I"
+  }
+ ],
+ "POCO C61": [
+  {
+   "brand": "POCO",
+   "device": "blue",
+   "model": "2312BPC51H"
   }
  ],
  "POCO C65": [
@@ -178468,6 +178558,11 @@
    "brand": "Redmi",
    "device": "river",
    "model": "23076RN8DY"
+  },
+  {
+   "brand": "Redmi",
+   "device": "river",
+   "model": "A401XM"
   }
  ],
  "Redmi 12C": [
@@ -178768,6 +178863,23 @@
    "brand": "Redmi",
    "device": "water",
    "model": "23028RNCAG"
+  }
+ ],
+ "Redmi A3": [
+  {
+   "brand": "Redmi",
+   "device": "blue",
+   "model": "23129RN51H"
+  },
+  {
+   "brand": "Redmi",
+   "device": "blue",
+   "model": "23129RN51X"
+  },
+  {
+   "brand": "Redmi",
+   "device": "blue",
+   "model": "2312CRNCCL"
   }
  ],
  "Redmi K20": [
@@ -207507,6 +207619,11 @@
  "SONEVIEW": [
   {
    "brand": "Soneview",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Soneview",
    "device": "stanford",
    "model": "2K SMART TV"
   },
@@ -232032,6 +232149,13 @@
    "model": "AI PONT"
   }
  ],
+ "UNITRADING-IFPD": [
+  {
+   "brand": "UNITRADING",
+   "device": "rk3588_t",
+   "model": "UNIDEAS"
+  }
+ ],
  "K626_EEA": [
   {
    "brand": "UNIWA",
@@ -235296,6 +235420,13 @@
    "brand": "VBox",
    "device": "DTP9539",
    "model": "XTi"
+  }
+ ],
+ "VECT-IFPD": [
+  {
+   "brand": "VECT",
+   "device": "rk3588_t",
+   "model": "UIT"
   }
  ],
  "VENSTAR2050": [
@@ -239280,6 +239411,13 @@
    "brand": "Vivo",
    "device": "V2225",
    "model": "V2312"
+  }
+ ],
+ "T3 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2334",
+   "model": "V2334"
   }
  ],
  "U5x": [
@@ -250297,6 +250435,13 @@
    "brand": "Xiaomi",
    "device": "shennong",
    "model": "2311BPN23C"
+  }
+ ],
+ "Xiaomi 14 Ultra": [
+  {
+   "brand": "Xiaomi",
+   "device": "aurora",
+   "model": "Xiaomi for arm64"
   }
  ],
  "Xiaomi Civi": [

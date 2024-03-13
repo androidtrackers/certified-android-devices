@@ -20200,6 +20200,11 @@
    "model": "M10L Pro"
   },
   {
+   "device": "M0215",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  },
+  {
    "device": "M0215_MXT",
    "name": "M10L Pro",
    "model": "M10L Pro"
@@ -20211,6 +20216,11 @@
   },
   {
    "device": "M0215_NDSK",
+   "name": "M10L Pro",
+   "model": "M10L Pro"
+  },
+  {
+   "device": "M0215_SYN",
    "name": "M10L Pro",
    "model": "M10L Pro"
   },
@@ -22672,6 +22682,13 @@
    "device": "K12",
    "name": "K12",
    "model": "K12"
+  }
+ ],
+ "COMBUSTECH": [
+  {
+   "device": "rk3588_t",
+   "name": "Customer need debug",
+   "model": "COMBUS_IB"
   }
  ],
  "COMPUMAX": [
@@ -57098,6 +57115,11 @@
    "model": "Hisense E70"
   },
   {
+   "device": "HLTE263E",
+   "name": "Hisense E70 Pro",
+   "model": "Hisense E70 Pro"
+  },
+  {
    "device": "HS8937QC",
    "name": "Hisense E76MINIM",
    "model": "Hisense E76MINIM"
@@ -70911,6 +70933,13 @@
    "model": "WH2-9832"
   }
  ],
+ "INUSUAL": [
+  {
+   "device": "INUTAB21",
+   "name": "INUTAB21",
+   "model": "INUTAB21"
+  }
+ ],
  "ION ELECTRONICS": [
   {
    "device": "Gravity",
@@ -77008,6 +77037,13 @@
    "device": "JR_J7",
    "name": "JR_J7",
    "model": "JR_J7"
+  }
+ ],
+ "JTWORKS": [
+  {
+   "device": "rk3588_t",
+   "name": "JTWORKS-IFPD",
+   "model": "JTW"
   }
  ],
  "JTYPDA": [
@@ -100235,6 +100271,13 @@
    "model": "P63"
   }
  ],
+ "MPORT": [
+  {
+   "device": "rk3588_t",
+   "name": "MPORT-IFPD",
+   "model": "e_Smarter"
+  }
+ ],
  "MPman": [
   {
    "device": "MPDC1006",
@@ -109991,6 +110034,16 @@
    "model": "moto g play (XT2093DL)"
   },
   {
+   "device": "fogona",
+   "name": "moto g play - 2024",
+   "model": "moto g play - 2024"
+  },
+  {
+   "device": "fogona",
+   "name": "moto g play - 2024",
+   "model": "motorola edge 40 pro"
+  },
+  {
    "device": "sofia",
    "name": "moto g power",
    "model": "moto g power"
@@ -114647,6 +114700,13 @@
    "model": "NX-20PRO1"
   }
  ],
+ "NURIBOM": [
+  {
+   "device": "rk3588_t",
+   "name": "NRB-IFPD",
+   "model": "MP_Series"
+  }
+ ],
  "NVIDIA": [
   {
    "device": "foster",
@@ -115831,7 +115891,7 @@
   },
   {
    "device": "NLS-NQuire",
-   "name": "Newland NLS-NQuir",
+   "name": "Newland NLS-NQuire",
    "model": "NLS-NQuire"
   }
  ],
@@ -118242,6 +118302,13 @@
    "device": "Q101_EEA",
    "name": "Q101_EEA",
    "model": "Q101_EEA"
+  }
+ ],
+ "OMAX": [
+  {
+   "device": "rk3588_t",
+   "name": "OMAX-IFPD",
+   "model": "HANJI"
   }
  ],
  "OMIX": [
@@ -121760,6 +121827,16 @@
    "model": "OPPO Watch"
   },
   {
+   "device": "OWWE231",
+   "name": "OPPO Watch X",
+   "model": "OWWE231"
+  },
+  {
+   "device": "OPWWE231",
+   "name": "OnePlus Watch 2",
+   "model": "OPWWE231"
+  },
+  {
    "device": "OP4AB5",
    "name": "PCRT01",
    "model": "PCRT01"
@@ -124969,6 +125046,11 @@
    "device": "earth",
    "name": "POCO C55",
    "model": "22127PC95I"
+  },
+  {
+   "device": "blue",
+   "name": "POCO C61",
+   "model": "2312BPC51H"
   },
   {
    "device": "gale",
@@ -136794,6 +136876,11 @@
    "model": "23076RN8DY"
   },
   {
+   "device": "river",
+   "name": "Redmi 12 5G",
+   "model": "A401XM"
+  },
+  {
    "device": "aether",
    "name": "Redmi 12C",
    "model": "22126RN91Y"
@@ -137027,6 +137114,21 @@
    "device": "water",
    "name": "Redmi A2+",
    "model": "23028RNCAG"
+  },
+  {
+   "device": "blue",
+   "name": "Redmi A3",
+   "model": "23129RN51H"
+  },
+  {
+   "device": "blue",
+   "name": "Redmi A3",
+   "model": "23129RN51X"
+  },
+  {
+   "device": "blue",
+   "name": "Redmi A3",
+   "model": "2312CRNCCL"
   },
   {
    "device": "davinci",
@@ -162498,6 +162600,11 @@
  ],
  "Soneview": [
   {
+   "device": "mountbaker",
+   "name": "SONEVIEW",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "SONEVIEW",
    "model": "2K SMART TV"
@@ -184441,6 +184548,13 @@
    "model": "AI PONT"
   }
  ],
+ "UNITRADING": [
+  {
+   "device": "rk3588_t",
+   "name": "UNITRADING-IFPD",
+   "model": "UNIDEAS"
+  }
+ ],
  "UNIWA": [
   {
    "device": "K626",
@@ -187130,6 +187244,13 @@
    "device": "DTP9539",
    "name": "XTi",
    "model": "XTi"
+  }
+ ],
+ "VECT": [
+  {
+   "device": "rk3588_t",
+   "name": "VECT-IFPD",
+   "model": "UIT"
   }
  ],
  "VENSTAR": [
@@ -190645,6 +190766,11 @@
    "device": "V2225",
    "name": "T2x 5G",
    "model": "V2312"
+  },
+  {
+   "device": "V2334",
+   "name": "T3 5G",
+   "model": "V2334"
   },
   {
    "device": "PD2180",
@@ -199913,6 +200039,11 @@
    "device": "shennong",
    "name": "Xiaomi 14 Pro",
    "model": "2311BPN23C"
+  },
+  {
+   "device": "aurora",
+   "name": "Xiaomi 14 Ultra",
+   "model": "Xiaomi for arm64"
   },
   {
    "device": "mona",
