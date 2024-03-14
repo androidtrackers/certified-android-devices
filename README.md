@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-13
+Last sync is 2024-03-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -846,6 +846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT701|AT701|AT701|
 |Aiuto|AT702|AT702|AT702|
 |Aiwa|A81|AIWA_A81|A81|
+|Aiwa|A8_LTE|A8_LTE|A8_LTE|
 |Aiwa|AIWA|lavender|4K SMART TV|
 |Aiwa|AIWA|stanford|SMART TV|
 |Aiwa|AIWA|zhongshan|4K SMART TV|
@@ -8188,7 +8189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|View|View|View|
 |Fly_Tech|T101|T101|T101|
 |Fobem|2K SMART TV|nagata|Fobem 2K SMART TV|
-|Fobem|4K SMART TV|marina|Fobem 4K SMART TV|
+|Fobem|Fobem 4K SMART TV|marina|Fobem 4K SMART TV|
 |Fone Haus|Blaze|Blaze|Blaze|
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fone Haus|CoolminttTribe|CoolMinttTribe|CoolMinttTribe|
@@ -21764,6 +21765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G T3|ML-WI1C-M10-4G-T3|M10-4G-T3|
 |Multilaser|M10 4G TERE|ML_JI0B_M10_4G_TERE|M10_4G_TERESOPOLIS|
 |Multilaser|M10 4G TERESOPOLIS|ML_SO0G_M10_4G_T|M10_4G_TERESOPOLIS|
+|Multilaser|M10 WIFI|ML_SO0U_M10_WIFI|M10_WIFI|
 |Multilaser|M10-3G|ML-JI06-M10-3G|M10-3G|
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
@@ -23136,12 +23138,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OneClick|X1|X1|X1|
 |OneLern|OneLernDB009|OneLernDB009|OneLernDB009|
 |OneLern|OneLernDB010|OneLernDB010|OneLernDB010|
-|OnePlus|12|OP595DL1|CPH2573|
-|OnePlus|12|OP595DL1|CPH2581|
-|OnePlus|12|OP595DL1|CPH2583|
-|OnePlus|12R|OP5D35L1|CPH2585|
-|OnePlus|12R|OP5D35L1|CPH2609|
-|OnePlus|12R|OP5D35L1|CPH2611|
 |OnePlus|2|OnePlus2|ONE A2003|
 |OnePlus|3|OnePlus3|ONEPLUS A3000|
 |OnePlus|C00|Cebu|C00|
@@ -23170,7 +23166,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 11 5G 中国版|OP591BL1|PHB110|
 |OnePlus|OnePlus 11R 5G|OP5961L1|CPH2487|
 |OnePlus|OnePlus 12|OP5929L1|PJD110|
+|OnePlus|OnePlus 12|OP595DL1|CPH2573|
+|OnePlus|OnePlus 12|OP595DL1|CPH2581|
+|OnePlus|OnePlus 12|OP595DL1|CPH2583|
+|OnePlus|OnePlus 12R|OP5D35L1|CPH2585|
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2609|
+|OnePlus|OnePlus 12R|OP5D35L1|CPH2611|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -31113,6 +31114,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SH8128U|msm7627|SH8128U|
 |Sharp|SH8188U|SH8188U|SH8188U|
 |Sharp|SH825wi|SH825Wi|SH825Wi|
+|Sharp|SHARP|lavender|4K SMART TV|
+|Sharp|SHARP|mountbaker|2K SMART TV|
 |Sharp|SHARP|stanford|2K SMART TV|
 |Sharp|SHARP|zhongshan|4K SMART TV|
 |Sharp|SHARP 2K SMART TV|shinagawa|SHARP 2K SMART TV|

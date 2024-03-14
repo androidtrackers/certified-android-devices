@@ -4458,6 +4458,11 @@
    "model": "A81"
   },
   {
+   "device": "A8_LTE",
+   "name": "A8_LTE",
+   "model": "A8_LTE"
+  },
+  {
    "device": "lavender",
    "name": "AIWA",
    "model": "4K SMART TV"
@@ -42535,7 +42540,7 @@
   },
   {
    "device": "marina",
-   "name": "4K SMART TV",
+   "name": "Fobem 4K SMART TV",
    "model": "Fobem 4K SMART TV"
   }
  ],
@@ -111902,6 +111907,11 @@
    "model": "M10_4G_TERESOPOLIS"
   },
   {
+   "device": "ML_SO0U_M10_WIFI",
+   "name": "M10 WIFI",
+   "model": "M10_WIFI"
+  },
+  {
    "device": "ML-JI06-M10-3G",
    "name": "M10-3G",
    "model": "M10-3G"
@@ -119082,36 +119092,6 @@
  ],
  "OnePlus": [
   {
-   "device": "OP595DL1",
-   "name": "12",
-   "model": "CPH2573"
-  },
-  {
-   "device": "OP595DL1",
-   "name": "12",
-   "model": "CPH2581"
-  },
-  {
-   "device": "OP595DL1",
-   "name": "12",
-   "model": "CPH2583"
-  },
-  {
-   "device": "OP5D35L1",
-   "name": "12R",
-   "model": "CPH2585"
-  },
-  {
-   "device": "OP5D35L1",
-   "name": "12R",
-   "model": "CPH2609"
-  },
-  {
-   "device": "OP5D35L1",
-   "name": "12R",
-   "model": "CPH2611"
-  },
-  {
    "device": "OnePlus2",
    "name": "2",
    "model": "ONE A2003"
@@ -119252,9 +119232,34 @@
    "model": "PJD110"
   },
   {
+   "device": "OP595DL1",
+   "name": "OnePlus 12",
+   "model": "CPH2573"
+  },
+  {
+   "device": "OP595DL1",
+   "name": "OnePlus 12",
+   "model": "CPH2581"
+  },
+  {
+   "device": "OP595DL1",
+   "name": "OnePlus 12",
+   "model": "CPH2583"
+  },
+  {
+   "device": "OP5D35L1",
+   "name": "OnePlus 12R",
+   "model": "CPH2585"
+  },
+  {
    "device": "OP5D35L1",
    "name": "OnePlus 12R",
    "model": "CPH2609"
+  },
+  {
+   "device": "OP5D35L1",
+   "name": "OnePlus 12R",
+   "model": "CPH2611"
   },
   {
    "device": "OnePlus6",
@@ -159711,6 +159716,16 @@
    "device": "SH825Wi",
    "name": "SH825wi",
    "model": "SH825Wi"
+  },
+  {
+   "device": "lavender",
+   "name": "SHARP",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "SHARP",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",

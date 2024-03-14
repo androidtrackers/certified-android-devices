@@ -14321,6 +14321,13 @@
    "model": "A81"
   }
  ],
+ "A8_LTE": [
+  {
+   "brand": "Aiwa",
+   "device": "A8_LTE",
+   "model": "A8_LTE"
+  }
+ ],
  "AIWA": [
   {
    "brand": "Aiwa",
@@ -68363,16 +68370,11 @@
    "model": "2K SMART TV"
   }
  ],
- "4K SMART TV": [
+ "Fobem 4K SMART TV": [
   {
    "brand": "Fobem",
    "device": "marina",
    "model": "Fobem 4K SMART TV"
-  },
-  {
-   "brand": "Visiontech",
-   "device": "marina",
-   "model": "4K SMART TV"
   }
  ],
  "Bolt": [
@@ -148653,6 +148655,13 @@
    "model": "M10_4G_TERESOPOLIS"
   }
  ],
+ "M10 WIFI": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0U_M10_WIFI",
+   "model": "M10_WIFI"
+  }
+ ],
  "M10-3G": [
   {
    "brand": "Multilaser",
@@ -156859,40 +156868,6 @@
    "model": "OneLernDB010"
   }
  ],
- "12": [
-  {
-   "brand": "OnePlus",
-   "device": "OP595DL1",
-   "model": "CPH2573"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP595DL1",
-   "model": "CPH2581"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP595DL1",
-   "model": "CPH2583"
-  }
- ],
- "12R": [
-  {
-   "brand": "OnePlus",
-   "device": "OP5D35L1",
-   "model": "CPH2585"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP5D35L1",
-   "model": "CPH2609"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OP5D35L1",
-   "model": "CPH2611"
-  }
- ],
  "2": [
   {
    "brand": "OnePlus",
@@ -157046,13 +157021,38 @@
    "brand": "OnePlus",
    "device": "OP5929L1",
    "model": "PJD110"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2573"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2581"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP595DL1",
+   "model": "CPH2583"
   }
  ],
  "OnePlus 12R": [
   {
    "brand": "OnePlus",
    "device": "OP5D35L1",
+   "model": "CPH2585"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
    "model": "CPH2609"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5D35L1",
+   "model": "CPH2611"
   }
  ],
  "OnePlus 6": [
@@ -204157,6 +204157,16 @@
  "SHARP": [
   {
    "brand": "Sharp",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Sharp",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Sharp",
    "device": "stanford",
    "model": "2K SMART TV"
   },
@@ -238917,6 +238927,13 @@
    "brand": "onn.",
    "device": "100011885",
    "model": "100011885"
+  }
+ ],
+ "4K SMART TV": [
+  {
+   "brand": "Visiontech",
+   "device": "marina",
+   "model": "4K SMART TV"
   }
  ],
  "PVT-8-A50-R1": [

@@ -3105,6 +3105,11 @@
   {
    "brand": "Sharp",
    "name": "SHARP",
+   "device": "lavender"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
    "device": "zhongshan"
   },
   {
@@ -3477,6 +3482,11 @@
   {
    "brand": "STARSHINE",
    "name": "STARSHINE",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
    "device": "mountbaker"
   },
   {
@@ -9355,6 +9365,13 @@
    "brand": "Aiwa",
    "name": "A81",
    "device": "AIWA_A81"
+  }
+ ],
+ "A8_LTE": [
+  {
+   "brand": "Aiwa",
+   "name": "A8_LTE",
+   "device": "A8_LTE"
   }
  ],
  "SMART TV": [
@@ -61826,7 +61843,7 @@
  "Fobem 4K SMART TV": [
   {
    "brand": "Fobem",
-   "name": "4K SMART TV",
+   "name": "Fobem 4K SMART TV",
    "device": "marina"
   }
  ],
@@ -150797,6 +150814,13 @@
    "device": "ML_SO0G_M10_4G_T"
   }
  ],
+ "M10_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 WIFI",
+   "device": "ML_SO0U_M10_WIFI"
+  }
+ ],
  "M10A-Lite": [
   {
    "brand": "Multilaser",
@@ -159157,53 +159181,6 @@
    "device": "OneLernDB010"
   }
  ],
- "CPH2573": [
-  {
-   "brand": "OnePlus",
-   "name": "12",
-   "device": "OP595DL1"
-  }
- ],
- "CPH2581": [
-  {
-   "brand": "OnePlus",
-   "name": "12",
-   "device": "OP595DL1"
-  }
- ],
- "CPH2583": [
-  {
-   "brand": "OnePlus",
-   "name": "12",
-   "device": "OP595DL1"
-  }
- ],
- "CPH2585": [
-  {
-   "brand": "OnePlus",
-   "name": "12R",
-   "device": "OP5D35L1"
-  }
- ],
- "CPH2609": [
-  {
-   "brand": "OnePlus",
-   "name": "12R",
-   "device": "OP5D35L1"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 12R",
-   "device": "OP5D35L1"
-  }
- ],
- "CPH2611": [
-  {
-   "brand": "OnePlus",
-   "name": "12R",
-   "device": "OP5D35L1"
-  }
- ],
  "ONE A2003": [
   {
    "brand": "OnePlus",
@@ -159411,6 +159388,48 @@
    "brand": "OnePlus",
    "name": "OnePlus 12",
    "device": "OP5929L1"
+  }
+ ],
+ "CPH2573": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "device": "OP595DL1"
+  }
+ ],
+ "CPH2581": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "device": "OP595DL1"
+  }
+ ],
+ "CPH2583": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12",
+   "device": "OP595DL1"
+  }
+ ],
+ "CPH2585": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "device": "OP5D35L1"
+  }
+ ],
+ "CPH2609": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "device": "OP5D35L1"
+  }
+ ],
+ "CPH2611": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 12R",
+   "device": "OP5D35L1"
   }
  ],
  "ONEPLUS A6000": [
