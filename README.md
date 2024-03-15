@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-14
+Last sync is 2024-03-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2273,6 +2273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|Zenbo|ASUS_ZENBO|Zenbo|
 |Asus|Zenbo Qrobot|ASUS_ZENBO|Zenbo|
 |Asus|Zenfone 10|ASUS_AI2302|ASUS_AI2302|
+|Asus|Zenfone 11 Ultra|ASUS_AI2401|ASUS_AI2401_H|
 |Asus|Zenfone 8|ASUS_I006D|ASUS_I006D|
 |Asus|Zenfone 8|ASUS_I006D|ZS590KS|
 |Asus|Zenfone 8 / ASUS 8z|ASUS_I006D|ASUS_I006D|
@@ -11688,6 +11689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
+|Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
@@ -18581,6 +18583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10 PRC|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
 |Lenovo|Lenovo Tab K11|TB330FUP|TB330FUP|
+|Lenovo|Lenovo Tab K11|TB330XUP|TB330XUP|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328FU|TB328FU|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328XU|TB328XU|
@@ -18612,6 +18615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10a 5G|LET02|LET02|
 |Lenovo|Lenovo Tab M11|TB330FU|TB330FU|
 |Lenovo|Lenovo Tab M11|TB330XU|TB330XU|
+|Lenovo|Lenovo Tab M11|TB330XUP|TB330XUP|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|

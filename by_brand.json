@@ -11735,6 +11735,11 @@
    "model": "ASUS_AI2302"
   },
   {
+   "device": "ASUS_AI2401",
+   "name": "Zenfone 11 Ultra",
+   "model": "ASUS_AI2401_H"
+  },
+  {
    "device": "ASUS_I006D",
    "name": "Zenfone 8",
    "model": "ASUS_I006D"
@@ -60466,6 +60471,11 @@
    "model": "ALI-NX1"
   },
   {
+   "device": "HNVER",
+   "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
+   "model": "VER-N49DP"
+  },
+  {
    "device": "HNRBN-Q",
    "name": "RBN-NX1",
    "model": "RBN-NX1"
@@ -95559,6 +95569,11 @@
    "model": "TB330FUP"
   },
   {
+   "device": "TB330XUP",
+   "name": "Lenovo Tab K11",
+   "model": "TB330XUP"
+  },
+  {
    "device": "TB-8506F",
    "name": "Lenovo Tab K8",
    "model": "Lenovo TB-8506F"
@@ -95712,6 +95727,11 @@
    "device": "TB330XU",
    "name": "Lenovo Tab M11",
    "model": "TB330XU"
+  },
+  {
+   "device": "TB330XUP",
+   "name": "Lenovo Tab M11",
+   "model": "TB330XUP"
   },
   {
    "device": "7305F",

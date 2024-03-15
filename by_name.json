@@ -24342,6 +24342,13 @@
    "model": "ASUS_AI2302"
   }
  ],
+ "Zenfone 11 Ultra": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2401",
+   "model": "ASUS_AI2401_H"
+  }
+ ],
  "Zenfone 8": [
   {
    "brand": "Asus",
@@ -90644,6 +90651,13 @@
    "model": "ALI-NX1"
   }
  ],
+ "PORSCHE DESIGN HONOR Magic V2 RSR": [
+  {
+   "brand": "Honor",
+   "device": "HNVER",
+   "model": "VER-N49DP"
+  }
+ ],
  "RBN-NX1": [
   {
    "brand": "Honor",
@@ -129520,6 +129534,11 @@
    "brand": "Lenovo",
    "device": "TB330FUP",
    "model": "TB330FUP"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB330XUP",
+   "model": "TB330XUP"
   }
  ],
  "Lenovo Tab M10 (3rd Gen)": [
@@ -129694,6 +129713,11 @@
    "brand": "Lenovo",
    "device": "TB330XU",
    "model": "TB330XU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB330XUP",
+   "model": "TB330XUP"
   }
  ],
  "Lenovo Tab M7": [

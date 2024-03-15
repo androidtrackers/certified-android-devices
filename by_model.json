@@ -19660,6 +19660,13 @@
    "device": "ASUS_AI2302"
   }
  ],
+ "ASUS_AI2401_H": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 11 Ultra",
+   "device": "ASUS_AI2401"
+  }
+ ],
  "ASUS_I006D": [
   {
    "brand": "Asus",
@@ -85124,6 +85131,13 @@
    "device": "HNANY-Q1"
   }
  ],
+ "VER-N49DP": [
+  {
+   "brand": "Honor",
+   "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
+   "device": "HNVER"
+  }
+ ],
  "F13": [
   {
    "brand": "Hoozo",
@@ -130390,6 +130404,18 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K11",
    "device": "TB330FUP"
+  }
+ ],
+ "TB330XUP": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11",
+   "device": "TB330XUP"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M11",
+   "device": "TB330XUP"
   }
  ],
  "Lenovo TB-8506F": [

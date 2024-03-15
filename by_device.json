@@ -23100,6 +23100,11 @@
    "brand": "Asus",
    "name": "ROG Phone 8 series",
    "model": "ASUS_AI2401_D"
+  },
+  {
+   "brand": "Asus",
+   "name": "Zenfone 11 Ultra",
+   "model": "ASUS_AI2401_H"
   }
  ],
  "ASUS_I001_1": [
@@ -87795,6 +87800,11 @@
    "brand": "Honor",
    "name": "HONOR Magic V2",
    "model": "VER-N49"
+  },
+  {
+   "brand": "Honor",
+   "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
+   "model": "VER-N49DP"
   }
  ],
  "HNFRI": [
@@ -129207,6 +129217,18 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K11",
    "model": "TB330FUP"
+  }
+ ],
+ "TB330XUP": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11",
+   "model": "TB330XUP"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M11",
+   "model": "TB330XUP"
   }
  ],
  "TB-8506F": [
