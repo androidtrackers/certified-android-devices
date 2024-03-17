@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-16
+Last sync is 2024-03-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1203,6 +1203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Allducube|T1001|T1001|T1001|
 |Allente|Allente 1|OnePlace2|Allente 1|
 |Allente|Allente Streaming Hub|SEI700ALLG|Allente Streaming Hub|
+|Allente|PrimeOne|PrimeOne|PrimeOne|
 |Allfine|M721|86S|M721|
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Alliance|DTP9731|DTP9731|DTP9731|
@@ -2297,6 +2298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|Athesi AP5702|AP5702|AP5702|
 |Athesi|Athesi AP5706|AP5706|Athesi_AP5706|
 |Athesi|Athesi professional AP5705S|AP5705S|AP5705S|
+|Athesi|E55|E55|E55|
 |Athesi|E6A|E6A|E6A|
 |Athesi|RT101A|RT101A|RT101A9|
 |Athesi|RT4500_EEA|RT4500|RT4500|
@@ -8792,6 +8794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GeoMax|GeoMax Zenius08|Zenius08|GMT-08QA-2301|
 |Geoelectron|P9IV|P9IV_Handheld|P9IV|
 |Geoelectron|P9IV_Handheld_EEA|P9IV_Handheld|P9IV|
+|Gertec|SK-210|SK-210|SK-210|
 |Gesellschaft für SMK mBH|Tough Mobile|granite|CP600|
 |Geshem|GS0882T|GS0882T|GS0882T|
 |Geshem|GS0883T|GS0883T|GS0883T|
@@ -16135,6 +16138,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
 |LAMINA|LTT8A4G_EEA|LTT8A4G_EEA|LTT8A4G|
 |LAMZIEN|LAMZIEN_P2|LAMZIEN_P2|LAMZIEN_P2|
+|LANDI|M20|M20|M20|
+|LANDI|M20SE|M20SE|M20SE|
 |LARVAND|M863TabH8|M863TabH8|M863TabH8|
 |LARVAND|M863TabH8|M863TabH8|TabH8|
 |LAUNCH|X-431 PAD VII|X-431PADVII|AI System EN P133-01|
@@ -22522,6 +22527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NewBridge|NBTB101|NBTB101|NBTB101|
 |NewBridge|NBTB102|NBTB102|NBTB102|
 |Newings|T18|T18|T18|
+|Newland|N950|SmartPOS|N950|
 |Newland|NLS-MT6550-AM|NLS-MT6550-AM|NLS-MT65|
 |Newland|NLS-MT6552-EEA|NLS-MT6552-EEA|NLS-MT65|
 |Newland|NLS-MT6552-GL|NLS-MT6552-GL|NLS-MT65|
@@ -23027,6 +23033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONYX|BOOX|BOOX|BOOX|
 |ONYX|BOOX Tab|BOOX_Tab|BOOX Tab|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
+|ONYX|TabBoox|TabBoox|TabBoox|
 |ORBYS|F20|F20|F20|
 |ORBYS|F21|F21|F21|
 |ORCA|Kuwait|tamachi|ORCA FHD Android TV|
@@ -23266,6 +23273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2101|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2103|
 |OnePlus|OnePlus Pad|OP59BCL1|OPD2203|
+|OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -23687,7 +23695,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|OPPO Watch X|OWWE231|OWWE231|
-|Oppo|OnePlus Watch 2|OPWWE231|OPWWE231|
 |Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
 |Oppo|PDKT00|OP4ABB|PDKT00|
@@ -34573,6 +34580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIANHOO|EOS Pro|EOS_Pro|EOS Pro|
 |TIANYU|S40|S40|S40|
+|TIANYU|S40E|S40|S40|
 |TIGO|ONEtv|uiw4054mil|ONEtv|
 |TIGO|ONEtv|uiw4059mil|ONEtv|
 |TIGO|ONEtv|vip6102w|ONEtv|
@@ -35859,9 +35867,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trio|Stealth-G4-101|Trio-Stealth-G4-101|Trio-Stealth G4 10.1|
 |Trio|Stealth-G4-7.85|Trio-Stealth-G4-785|Trio-Stealth-G4-7.85|
 |True|20721400|Tablet|20721400|
+|True|20721400E_EEA|Tablet|20721400E|
 |True|20725300|Tablet|20725300|
 |True|20726600|Tablet|20726600|
 |True|20728200|Tablet|20728200|
+|True|20728200E_EEA|Tablet|20728200E|
 |True|Alpha_5G|Alpha_5G|Alpha 5G|
 |True|HCH03|TrueHCH03|HCH03|
 |True|S1|S1|S1|
@@ -41643,6 +41653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|
 |iMin|Swift 2 Pro|Swift2Pro|I23M02|
+|iMin|Swift2_GL|Swift2|I23M01_GL|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
 |iMuz|"Foryou Digital Co.|Ltd"|EG125|

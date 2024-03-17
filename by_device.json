@@ -16279,6 +16279,13 @@
    "model": "Allente Streaming Hub"
   }
  ],
+ "PrimeOne": [
+  {
+   "brand": "Allente",
+   "name": "PrimeOne",
+   "model": "PrimeOne"
+  }
+ ],
  "86S": [
   {
    "brand": "Allfine",
@@ -24932,6 +24939,18 @@
    "brand": "Athesi",
    "name": "Athesi professional AP5705S",
    "model": "AP5705S"
+  }
+ ],
+ "E55": [
+  {
+   "brand": "Athesi",
+   "name": "E55",
+   "model": "E55"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Altice E55",
+   "model": "E55"
   }
  ],
  "E6A": [
@@ -57160,6 +57179,11 @@
    "model": "S40"
   },
   {
+   "brand": "TIANYU",
+   "name": "S40E",
+   "model": "S40"
+  },
+  {
    "brand": "xTouch",
    "name": "S40",
    "model": "S40"
@@ -63195,6 +63219,11 @@
   },
   {
    "brand": "Hafury",
+   "name": "M20",
+   "model": "M20"
+  },
+  {
+   "brand": "LANDI",
    "name": "M20",
    "model": "M20"
   },
@@ -70661,6 +70690,13 @@
    "brand": "Geoelectron",
    "name": "P9IV_Handheld_EEA",
    "model": "P9IV"
+  }
+ ],
+ "SK-210": [
+  {
+   "brand": "Gertec",
+   "name": "SK-210",
+   "model": "SK-210"
   }
  ],
  "GS0882T": [
@@ -81297,6 +81333,11 @@
   },
   {
    "brand": "True",
+   "name": "20721400E_EEA",
+   "model": "20721400E"
+  },
+  {
+   "brand": "True",
    "name": "20725300",
    "model": "20725300"
   },
@@ -81309,6 +81350,11 @@
    "brand": "True",
    "name": "20728200",
    "model": "20728200"
+  },
+  {
+   "brand": "True",
+   "name": "20728200E_EEA",
+   "model": "20728200E"
   }
  ],
  "HPAD_IP8045": [
@@ -114037,6 +114083,13 @@
    "model": "LAMZIEN_P2"
   }
  ],
+ "M20SE": [
+  {
+   "brand": "LANDI",
+   "name": "M20SE",
+   "model": "M20SE"
+  }
+ ],
  "M863TabH8": [
   {
    "brand": "LARVAND",
@@ -143363,13 +143416,6 @@
    "model": "ONE"
   }
  ],
- "E55": [
-  {
-   "brand": "Mobiwire",
-   "name": "Altice E55",
-   "model": "E55"
-  }
- ],
  "H6681_Pro": [
   {
    "brand": "Mobiwire",
@@ -153931,6 +153977,13 @@
    "model": "T18"
   }
  ],
+ "SmartPOS": [
+  {
+   "brand": "Newland",
+   "name": "N950",
+   "model": "N950"
+  }
+ ],
  "NLS-MT6550-AM": [
   {
    "brand": "Newland",
@@ -156903,6 +156956,13 @@
    "model": "QuartzT10-3"
   }
  ],
+ "TabBoox": [
+  {
+   "brand": "ONYX",
+   "name": "TabBoox",
+   "model": "TabBoox"
+  }
+ ],
  "F20": [
   {
    "brand": "ORBYS",
@@ -158188,6 +158248,13 @@
    "brand": "OnePlus",
    "name": "OnePlus Pad",
    "model": "OPD2203"
+  }
+ ],
+ "OPWWE231": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Watch 2",
+   "model": "OPWWE231"
   }
  ],
  "OnePlus3T": [
@@ -160717,13 +160784,6 @@
    "brand": "Oppo",
    "name": "OPPO Watch X",
    "model": "OWWE231"
-  }
- ],
- "OPWWE231": [
-  {
-   "brand": "Oppo",
-   "name": "OnePlus Watch 2",
-   "model": "OPWWE231"
   }
  ],
  "OP4AB5": [
@@ -267149,6 +267209,13 @@
    "brand": "iMin",
    "name": "Swift 2 Pro",
    "model": "I23M02"
+  }
+ ],
+ "Swift2": [
+  {
+   "brand": "iMin",
+   "name": "Swift2_GL",
+   "model": "I23M01_GL"
   }
  ],
  "EG104": [

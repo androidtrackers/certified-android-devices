@@ -6271,6 +6271,11 @@
    "device": "SEI700ALLG",
    "name": "Allente Streaming Hub",
    "model": "Allente Streaming Hub"
+  },
+  {
+   "device": "PrimeOne",
+   "name": "PrimeOne",
+   "model": "PrimeOne"
   }
  ],
  "Allfine": [
@@ -11859,6 +11864,11 @@
    "device": "AP5705S",
    "name": "Athesi professional AP5705S",
    "model": "AP5705S"
+  },
+  {
+   "device": "E55",
+   "name": "E55",
+   "model": "E55"
   },
   {
    "device": "E6A",
@@ -45718,6 +45728,13 @@
    "device": "P9IV_Handheld",
    "name": "P9IV_Handheld_EEA",
    "model": "P9IV"
+  }
+ ],
+ "Gertec": [
+  {
+   "device": "SK-210",
+   "name": "SK-210",
+   "model": "SK-210"
   }
  ],
  "Gesellschaft für SMK mBH": [
@@ -83203,6 +83220,18 @@
    "model": "LAMZIEN_P2"
   }
  ],
+ "LANDI": [
+  {
+   "device": "M20",
+   "name": "M20",
+   "model": "M20"
+  },
+  {
+   "device": "M20SE",
+   "name": "M20SE",
+   "model": "M20SE"
+  }
+ ],
  "LARVAND": [
   {
    "device": "M863TabH8",
@@ -115830,6 +115859,11 @@
  ],
  "Newland": [
   {
+   "device": "SmartPOS",
+   "name": "N950",
+   "model": "N950"
+  },
+  {
    "device": "NLS-MT6550-AM",
    "name": "NLS-MT6550-AM",
    "model": "NLS-MT65"
@@ -118469,6 +118503,11 @@
    "device": "QuartzT10-3",
    "name": "QuartzT10-3",
    "model": "QuartzT10-3"
+  },
+  {
+   "device": "TabBoox",
+   "name": "TabBoox",
+   "model": "TabBoox"
   }
  ],
  "ORBYS": [
@@ -119730,6 +119769,11 @@
    "device": "OP59BCL1",
    "name": "OnePlus Pad",
    "model": "OPD2203"
+  },
+  {
+   "device": "OPWWE231",
+   "name": "OnePlus Watch 2",
+   "model": "OPWWE231"
   },
   {
    "device": "OnePlus2",
@@ -121855,11 +121899,6 @@
    "device": "OWWE231",
    "name": "OPPO Watch X",
    "model": "OWWE231"
-  },
-  {
-   "device": "OPWWE231",
-   "name": "OnePlus Watch 2",
-   "model": "OPWWE231"
   },
   {
    "device": "OP4AB5",
@@ -177327,6 +177366,11 @@
    "device": "S40",
    "name": "S40",
    "model": "S40"
+  },
+  {
+   "device": "S40",
+   "name": "S40E",
+   "model": "S40"
   }
  ],
  "TIGO": [
@@ -184060,6 +184104,11 @@
   },
   {
    "device": "Tablet",
+   "name": "20721400E_EEA",
+   "model": "20721400E"
+  },
+  {
+   "device": "Tablet",
    "name": "20725300",
    "model": "20725300"
   },
@@ -184072,6 +184121,11 @@
    "device": "Tablet",
    "name": "20728200",
    "model": "20728200"
+  },
+  {
+   "device": "Tablet",
+   "name": "20728200E_EEA",
+   "model": "20728200E"
   },
   {
    "device": "Alpha_5G",
@@ -213785,6 +213839,11 @@
    "device": "Swift2Pro",
    "name": "Swift 2 Pro",
    "model": "I23M02"
+  },
+  {
+   "device": "Swift2",
+   "name": "Swift2_GL",
+   "model": "I23M01_GL"
   }
  ],
  "iMuz": [

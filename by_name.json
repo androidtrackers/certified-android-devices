@@ -16782,6 +16782,13 @@
    "model": "Allente Streaming Hub"
   }
  ],
+ "PrimeOne": [
+  {
+   "brand": "Allente",
+   "device": "PrimeOne",
+   "model": "PrimeOne"
+  }
+ ],
  "M721": [
   {
    "brand": "Allfine",
@@ -24502,6 +24509,13 @@
    "brand": "Athesi",
    "device": "AP5705S",
    "model": "AP5705S"
+  }
+ ],
+ "E55": [
+  {
+   "brand": "Athesi",
+   "device": "E55",
+   "model": "E55"
   }
  ],
  "E6A": [
@@ -64830,6 +64844,11 @@
    "model": "M20"
   },
   {
+   "brand": "LANDI",
+   "device": "M20",
+   "model": "M20"
+  },
+  {
    "brand": "Pritom",
    "device": "M10_A05",
    "model": "M10"
@@ -72342,6 +72361,13 @@
    "brand": "Geoelectron",
    "device": "P9IV_Handheld",
    "model": "P9IV"
+  }
+ ],
+ "SK-210": [
+  {
+   "brand": "Gertec",
+   "device": "SK-210",
+   "model": "SK-210"
   }
  ],
  "GS0882T": [
@@ -116203,6 +116229,13 @@
    "model": "LAMZIEN_P2"
   }
  ],
+ "M20SE": [
+  {
+   "brand": "LANDI",
+   "device": "M20SE",
+   "model": "M20SE"
+  }
+ ],
  "M863TabH8": [
   {
    "brand": "LARVAND",
@@ -153394,6 +153427,13 @@
    "model": "T18"
   }
  ],
+ "N950": [
+  {
+   "brand": "Newland",
+   "device": "SmartPOS",
+   "model": "N950"
+  }
+ ],
  "NLS-MT6550-AM": [
   {
    "brand": "Newland",
@@ -156354,6 +156394,13 @@
    "model": "QuartzT10-3"
   }
  ],
+ "TabBoox": [
+  {
+   "brand": "ONYX",
+   "device": "TabBoox",
+   "model": "TabBoox"
+  }
+ ],
  "F21": [
   {
    "brand": "ORBYS",
@@ -157595,6 +157642,13 @@
    "brand": "OnePlus",
    "device": "OP59BCL1",
    "model": "OPD2203"
+  }
+ ],
+ "OnePlus Watch 2": [
+  {
+   "brand": "OnePlus",
+   "device": "OPWWE231",
+   "model": "OPWWE231"
   }
  ],
  "OnePlus2": [
@@ -160059,13 +160113,6 @@
    "brand": "Oppo",
    "device": "OWWE231",
    "model": "OWWE231"
-  }
- ],
- "OnePlus Watch 2": [
-  {
-   "brand": "Oppo",
-   "device": "OPWWE231",
-   "model": "OPWWE231"
   }
  ],
  "PCRT01": [
@@ -223861,6 +223908,13 @@
    "model": "EOS Pro"
   }
  ],
+ "S40E": [
+  {
+   "brand": "TIANYU",
+   "device": "S40",
+   "model": "S40"
+  }
+ ],
  "ONEtv": [
   {
    "brand": "TIGO",
@@ -231649,6 +231703,13 @@
    "model": "20721400"
   }
  ],
+ "20721400E_EEA": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20721400E"
+  }
+ ],
  "20725300": [
   {
    "brand": "True",
@@ -231668,6 +231729,13 @@
    "brand": "True",
    "device": "Tablet",
    "model": "20728200"
+  }
+ ],
+ "20728200E_EEA": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20728200E"
   }
  ],
  "Alpha_5G": [
@@ -265507,6 +265575,13 @@
    "brand": "iMin",
    "device": "Swift2Pro",
    "model": "I23M02"
+  }
+ ],
+ "Swift2_GL": [
+  {
+   "brand": "iMin",
+   "device": "Swift2",
+   "model": "I23M01_GL"
   }
  ],
  "EG104": [

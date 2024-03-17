@@ -12076,6 +12076,13 @@
    "device": "SEI700ALLG"
   }
  ],
+ "PrimeOne": [
+  {
+   "brand": "Allente",
+   "name": "PrimeOne",
+   "device": "PrimeOne"
+  }
+ ],
  "M721": [
   {
    "brand": "Allfine",
@@ -19813,6 +19820,18 @@
    "brand": "Athesi",
    "name": "Athesi professional AP5705S",
    "device": "AP5705S"
+  }
+ ],
+ "E55": [
+  {
+   "brand": "Athesi",
+   "name": "E55",
+   "device": "E55"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Altice E55",
+   "device": "E55"
   }
  ],
  "E6A": [
@@ -36725,6 +36744,11 @@
   {
    "brand": "TIANYU",
    "name": "S40",
+   "device": "S40"
+  },
+  {
+   "brand": "TIANYU",
+   "name": "S40E",
    "device": "S40"
   },
   {
@@ -58297,6 +58321,11 @@
    "device": "M20"
   },
   {
+   "brand": "LANDI",
+   "name": "M20",
+   "device": "M20"
+  },
+  {
    "brand": "Pritom",
    "name": "M20",
    "device": "M10_A05"
@@ -65951,6 +65980,13 @@
    "brand": "Geoelectron",
    "name": "P9IV_Handheld_EEA",
    "device": "P9IV_Handheld"
+  }
+ ],
+ "SK-210": [
+  {
+   "brand": "Gertec",
+   "name": "SK-210",
+   "device": "SK-210"
   }
  ],
  "CP600": [
@@ -114103,6 +114139,13 @@
    "device": "LAMZIEN_P2"
   }
  ],
+ "M20SE": [
+  {
+   "brand": "LANDI",
+   "name": "M20SE",
+   "device": "M20SE"
+  }
+ ],
  "M863TabH8": [
   {
    "brand": "LARVAND",
@@ -144703,13 +144746,6 @@
    "device": "H5032U"
   }
  ],
- "E55": [
-  {
-   "brand": "Mobiwire",
-   "name": "Altice E55",
-   "device": "E55"
-  }
- ],
  "Moov Smart Pro": [
   {
    "brand": "Mobiwire",
@@ -155610,6 +155646,13 @@
    "device": "T18"
   }
  ],
+ "N950": [
+  {
+   "brand": "Newland",
+   "name": "N950",
+   "device": "SmartPOS"
+  }
+ ],
  "NLS-MT65": [
   {
    "brand": "Newland",
@@ -158651,6 +158694,13 @@
    "device": "QuartzT10-3"
   }
  ],
+ "TabBoox": [
+  {
+   "brand": "ONYX",
+   "name": "TabBoox",
+   "device": "TabBoox"
+  }
+ ],
  "F21": [
   {
    "brand": "ORBYS",
@@ -160074,6 +160124,13 @@
    "brand": "OnePlus",
    "name": "OnePlus Pad",
    "device": "OP59BCL1"
+  }
+ ],
+ "OPWWE231": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Watch 2",
+   "device": "OPWWE231"
   }
  ],
  "ONEPLUS A5000": [
@@ -162935,13 +162992,6 @@
    "brand": "Oppo",
    "name": "OPPO Watch X",
    "device": "OWWE231"
-  }
- ],
- "OPWWE231": [
-  {
-   "brand": "Oppo",
-   "name": "OnePlus Watch 2",
-   "device": "OPWWE231"
   }
  ],
  "PCRT01": [
@@ -242701,6 +242751,13 @@
    "device": "Tablet"
   }
  ],
+ "20721400E": [
+  {
+   "brand": "True",
+   "name": "20721400E_EEA",
+   "device": "Tablet"
+  }
+ ],
  "20725300": [
   {
    "brand": "True",
@@ -242719,6 +242776,13 @@
   {
    "brand": "True",
    "name": "20728200",
+   "device": "Tablet"
+  }
+ ],
+ "20728200E": [
+  {
+   "brand": "True",
+   "name": "20728200E_EEA",
    "device": "Tablet"
   }
  ],
@@ -279174,6 +279238,13 @@
    "brand": "iMin",
    "name": "Swift 2 Pro",
    "device": "Swift2Pro"
+  }
+ ],
+ "I23M01_GL": [
+  {
+   "brand": "iMin",
+   "name": "Swift2_GL",
+   "device": "Swift2"
   }
  ],
  "EG104": [
