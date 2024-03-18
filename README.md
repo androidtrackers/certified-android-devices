@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-17
+Last sync is 2024-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1838,7 +1838,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Asanzo|S6|S6|S6|
 |Ascom|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi EU|
-|Ascom|AT14|AT14|AT14P464|
 |Ascom|Ascom Myco 3|ABAA|Ascom Myco 3 Wi-Fi|
 |Ascom|Ascom Myco 3|ABBA|Ascom Myco 3 Wi-Fi EU|
 |Ascom|Ascom Myco 3|ACAA|Ascom Myco 3 Cellular Wi-Fi|
@@ -11421,6 +11420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|laoshan_emH|laoshan|HAT4KDTV|
 |Hisense|laoshan_laser|laoshan|HAT4KDTV|
 |Hisense|lt971|LT971|LT971|
+|Hisense|lushan|lushan|SmartTV 4K FFM|
 |Hisense|songshan|songshan|SmartTV 4K|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
@@ -11714,6 +11714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|T10A|T10A|T10A|
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
+|Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
 |Hot Pepper|AJI|AJI|HPPR10A|
 |Hot Pepper|AP17|AP17|AP17|
 |Hot Pepper|Bola|Bola|Bola|
@@ -11725,6 +11726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hot Pepper|H5|H5|H5|
 |Hot Pepper|HPPAP16|HPPAP16|HPPAP16|
 |Hot Pepper|HPPH82A|HPPH82A|HPPH82A|
+|Hot Pepper|K82A|K82A|K82A|
 |Hot Pepper|KR10|KR10|KR10|
 |Hot Pepper|KT10|KT10|KT10|
 |Hot Pepper|KT10_EEA|KT10_EEA|KT10_EEA|
@@ -11732,6 +11734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hot Pepper|ROJO|ROJO|HPPR20A|
 |Hot Pepper|Serrano|HPP-L55|HPP-L55|
 |Hot Pepper|Serrano|HPP-L55B|HPP-L55B|
+|Hot Pepper|Stylo 7plus|Stylo_7plus|Stylo 7plus|
 |Hot Pepper|VLE5|VLE5|VLE5|
 |Hot Pepper|VLE5|VLE5A|VLE5A|
 |HotLight|TP1003|TP1003|TP1003|
@@ -21808,6 +21811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 WIFI|ML_SO0R_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0S_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO1S_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO2E_M7_WIFI|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7-3G PLUS|ML-WI-M7_3G_PLUS|ML-WI-M7_3G_PLUS|
@@ -21840,6 +21844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M8 4G|ML-WI0G-M8-4G|M8-4G|
 |Multilaser|M8 4G|ML_JI0I_M8_4G|M8_4G|
 |Multilaser|M8 4G|ML_SO0J_M8_4G|M8_4G|
+|Multilaser|M8 4G|ML_SO0T_M8_WIFI|M8_WIFI|
 |Multilaser|M8 4G|ML_SO1J_M8_4G|M8_4G|
 |Multilaser|M8 4G|ML_SO4J_M8_4G_T3|M8_4G_T3|
 |Multilaser|M8 Wifi|ML_SO0F_M8_WIFI|M8_WIFI|
@@ -23671,6 +23676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
+|Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro 5G|OP561F|PHV110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
@@ -35869,6 +35875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|20721400|Tablet|20721400|
 |True|20721400E_EEA|Tablet|20721400E|
 |True|20725300|Tablet|20725300|
+|True|20725300E_EEA|Tablet|20725300E|
 |True|20726600|Tablet|20726600|
 |True|20728200|Tablet|20728200|
 |True|20728200E_EEA|Tablet|20728200E|
@@ -41251,6 +41258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |aoson|M753|M753|M753|
 |aoson|R103|R103|R103|
 |aoson|aoson|M815|M815|
+|ascon|AT14|AT14|AT14P464|
 |axs+|AXS B866V2FA|B866V2FA_AXS|AXS B866V2FA|
 |bbox|bbox|bbox-M752A|bbox-M752A|
 |beafon|Class_C250|Class_C250|Class_C250|
@@ -41884,6 +41892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
+|realme|NARZO 70 Pro|RE5C86L1|RMX3868|
 |realme|RMX3268|RED8D7|RMX3268|
 |realme|RMX3612|RE588DL1|RMX3612|
 |realme|RMX3627|RE58AF|RMX3627|
@@ -41920,9 +41929,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11 Pro+|RE5865|RMX3740|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
+|realme|realme 12 5G|RE5C94L1|RMX3999|
 |realme|realme 12 Pro 5G|RE5C84L1|RMX3842|
+|realme|realme 12 Pro+|RE5C3B|RMX3841|
 |realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
-|realme|realme 12 Pro+5G|RE5C82L1|RMX3840|
+|realme|realme 12+ 5G|RE5C86L1|RMX3867|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -41978,6 +41989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C35|RE87BAL1|RMX3512|
 |realme|realme C35|RE87BAL1|RMX3513|
 |realme|realme C51|RE58BC|RMX3830|
+|realme|realme C51s|RE5C51|RMX3765|
 |realme|realme C53|RE58C2|RMX3760|
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|

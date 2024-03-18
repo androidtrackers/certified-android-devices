@@ -21601,13 +21601,6 @@
    "model": "Ascom Myco 3 DECT Wi-Fi"
   }
  ],
- "AT14": [
-  {
-   "brand": "Ascom",
-   "device": "AT14",
-   "model": "AT14P464"
-  }
- ],
  "Ascom Myco 4": [
   {
    "brand": "Ascom",
@@ -89079,6 +89072,13 @@
    "model": "LT971"
   }
  ],
+ "lushan": [
+  {
+   "brand": "Hisense",
+   "device": "lushan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "songshan": [
   {
    "brand": "Hisense",
@@ -90831,6 +90831,13 @@
    "model": "YK_P30_EEA"
   }
  ],
+ "15 Pro Max": [
+  {
+   "brand": "Hot Pepper",
+   "device": "15_Pro_Max",
+   "model": "15 Pro Max"
+  }
+ ],
  "AJI": [
   {
    "brand": "Hot Pepper",
@@ -90892,6 +90899,13 @@
    "model": "HPPH82A"
   }
  ],
+ "K82A": [
+  {
+   "brand": "Hot Pepper",
+   "device": "K82A",
+   "model": "K82A"
+  }
+ ],
  "KR10": [
   {
    "brand": "Hot Pepper",
@@ -90937,6 +90951,13 @@
    "brand": "Hot Pepper",
    "device": "HPP-L55B",
    "model": "HPP-L55B"
+  }
+ ],
+ "Stylo 7plus": [
+  {
+   "brand": "Hot Pepper",
+   "device": "Stylo_7plus",
+   "model": "Stylo 7plus"
   }
  ],
  "VLE5": [
@@ -148910,6 +148931,11 @@
   },
   {
    "brand": "Multilaser",
+   "device": "ML_SO1S_M7_WIFI",
+   "model": "M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO2E_M7_WIFI",
    "model": "M7_WIFI"
   }
@@ -149101,6 +149127,11 @@
    "brand": "Multilaser",
    "device": "ML_SO0J_M8_4G",
    "model": "M8_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0T_M8_WIFI",
+   "model": "M8_WIFI"
   },
   {
    "brand": "Multilaser",
@@ -159953,6 +159984,13 @@
    "brand": "Oppo",
    "device": "OP5225",
    "model": "OPD2102"
+  }
+ ],
+ "OPPO Pad Neo": [
+  {
+   "brand": "Oppo",
+   "device": "OP5DA3L1",
+   "model": "OPD2302"
   }
  ],
  "OPPO Reno10 5G": [
@@ -231717,6 +231755,13 @@
    "model": "20725300"
   }
  ],
+ "20725300E_EEA": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20725300E"
+  }
+ ],
  "20726600": [
   {
    "brand": "True",
@@ -263126,6 +263171,13 @@
    "model": "M815"
   }
  ],
+ "AT14": [
+  {
+   "brand": "ascon",
+   "device": "AT14",
+   "model": "AT14P464"
+  }
+ ],
  "AXS B866V2FA": [
   {
    "brand": "axs+",
@@ -266870,6 +266922,13 @@
    "model": "4K Google TV Stick"
   }
  ],
+ "NARZO 70 Pro": [
+  {
+   "brand": "realme",
+   "device": "RE5C86L1",
+   "model": "RMX3868"
+  }
+ ],
  "RMX3268": [
   {
    "brand": "realme",
@@ -267087,11 +267146,25 @@
    "model": "RMX3785"
   }
  ],
+ "realme 12 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C94L1",
+   "model": "RMX3999"
+  }
+ ],
  "realme 12 Pro 5G": [
   {
    "brand": "realme",
    "device": "RE5C84L1",
    "model": "RMX3842"
+  }
+ ],
+ "realme 12 Pro+": [
+  {
+   "brand": "realme",
+   "device": "RE5C3B",
+   "model": "RMX3841"
   }
  ],
  "realme 12 Pro+ 5G": [
@@ -267101,11 +267174,11 @@
    "model": "RMX3840"
   }
  ],
- "realme 12 Pro+5G": [
+ "realme 12+ 5G": [
   {
    "brand": "realme",
-   "device": "RE5C82L1",
-   "model": "RMX3840"
+   "device": "RE5C86L1",
+   "model": "RMX3867"
   }
  ],
  "realme 4K G Smart TV": [
@@ -267382,6 +267455,13 @@
    "brand": "realme",
    "device": "RE58BC",
    "model": "RMX3830"
+  }
+ ],
+ "realme C51s": [
+  {
+   "brand": "realme",
+   "device": "RE5C51",
+   "model": "RMX3765"
   }
  ],
  "realme C53": [

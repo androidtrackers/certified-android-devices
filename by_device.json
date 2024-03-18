@@ -21690,13 +21690,6 @@
    "model": "Ascom Myco 3 DECT Wi-Fi"
   }
  ],
- "AT14": [
-  {
-   "brand": "Ascom",
-   "name": "AT14",
-   "model": "AT14P464"
-  }
- ],
  "ABAA": [
   {
    "brand": "Ascom",
@@ -81343,6 +81336,11 @@
   },
   {
    "brand": "True",
+   "name": "20725300E_EEA",
+   "model": "20725300E"
+  },
+  {
+   "brand": "True",
    "name": "20726600",
    "model": "20726600"
   },
@@ -86526,6 +86524,13 @@
    "model": "LT971"
   }
  ],
+ "lushan": [
+  {
+   "brand": "Hisense",
+   "name": "lushan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "vision2_1": [
   {
    "brand": "Hisense",
@@ -88326,6 +88331,13 @@
    "model": "YK_P30_EEA"
   }
  ],
+ "15_Pro_Max": [
+  {
+   "brand": "Hot Pepper",
+   "name": "15 Pro Max",
+   "model": "15 Pro Max"
+  }
+ ],
  "AJI": [
   {
    "brand": "Hot Pepper",
@@ -88394,6 +88406,13 @@
    "model": "HPPH82A"
   }
  ],
+ "K82A": [
+  {
+   "brand": "Hot Pepper",
+   "name": "K82A",
+   "model": "K82A"
+  }
+ ],
  "KR10": [
   {
    "brand": "Hot Pepper",
@@ -88441,6 +88460,13 @@
    "brand": "Hot Pepper",
    "name": "Serrano",
    "model": "HPP-L55B"
+  }
+ ],
+ "Stylo_7plus": [
+  {
+   "brand": "Hot Pepper",
+   "name": "Stylo 7plus",
+   "model": "Stylo 7plus"
   }
  ],
  "VLE5": [
@@ -149401,6 +149427,13 @@
    "model": "M7_WIFI"
   }
  ],
+ "ML_SO1S_M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
  "ML_SO2E_M7_WIFI": [
   {
    "brand": "Multilaser",
@@ -149611,6 +149644,13 @@
    "brand": "Multilaser",
    "name": "M8 4G",
    "model": "M8_4G"
+  }
+ ],
+ "ML_SO0T_M8_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 4G",
+   "model": "M8_WIFI"
   }
  ],
  "ML_SO1J_M8_4G": [
@@ -160661,6 +160701,13 @@
    "brand": "Oppo",
    "name": "OPPO Pad Air",
    "model": "OPD2102"
+  }
+ ],
+ "OP5DA3L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad Neo",
+   "model": "OPD2302"
   }
  ],
  "OP5655": [
@@ -264833,6 +264880,13 @@
    "model": "M815"
   }
  ],
+ "AT14": [
+  {
+   "brand": "ascon",
+   "name": "AT14",
+   "model": "AT14P464"
+  }
+ ],
  "B866V2FA_AXS": [
   {
    "brand": "axs+",
@@ -268423,6 +268477,18 @@
    "model": "Y7"
   }
  ],
+ "RE5C86L1": [
+  {
+   "brand": "realme",
+   "name": "NARZO 70 Pro",
+   "model": "RMX3868"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 12+ 5G",
+   "model": "RMX3867"
+  }
+ ],
  "RED8D7": [
   {
    "brand": "realme",
@@ -268705,6 +268771,13 @@
    "model": "RMX3741"
   }
  ],
+ "RE5C94L1": [
+  {
+   "brand": "realme",
+   "name": "realme 12 5G",
+   "model": "RMX3999"
+  }
+ ],
  "RE5C84L1": [
   {
    "brand": "realme",
@@ -268712,15 +268785,17 @@
    "model": "RMX3842"
   }
  ],
+ "RE5C3B": [
+  {
+   "brand": "realme",
+   "name": "realme 12 Pro+",
+   "model": "RMX3841"
+  }
+ ],
  "RE5C82L1": [
   {
    "brand": "realme",
    "name": "realme 12 Pro+ 5G",
-   "model": "RMX3840"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 12 Pro+5G",
    "model": "RMX3840"
   }
  ],
@@ -268942,6 +269017,13 @@
    "brand": "realme",
    "name": "realme C51",
    "model": "RMX3830"
+  }
+ ],
+ "RE5C51": [
+  {
+   "brand": "realme",
+   "name": "realme C51s",
+   "model": "RMX3765"
   }
  ],
  "RE58C2": [
