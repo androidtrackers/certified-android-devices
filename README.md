@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-19
+Last sync is 2024-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -452,6 +452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L|AcerOne8T4-82Lxi|Acer One 8 T4-82L|
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
+|Acer|Acer education whiteboard|DT3K_F|DT3K_F|
 |Acer|Acer_A60|Acer_A60|A60|
 |Acer|Acer_A60L|Acer_A60L|A60L|
 |Acer|Acer_A61L|Acer_A61L|A61L|
@@ -4121,6 +4122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|HF450|HF450|HF450|
 |Bluebird|HF550|HF550|HF550|
 |Bluebird|HF550|HF550|HF550_RU|
+|Bluebird|HF550X|EF550|HF550x|
 |Bluebird|RP350|RP350|RP350|
 |Bluebird|RT080|RT080|RT080|
 |Bluebird|RT103|RT103|RT103|
@@ -9449,6 +9451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|lakeside|4K PA Google TV|
 |HKC Elec|Google TV|lakeside|4K SA Google TV|
 |HKC Elec|Google TV|lakeside|4K US Google TV|
+|HKC Elec|Google TV|lakeside|POLYTRON 4K|
 |HKC Elec|Google TV|nagai|2K COL Google TV|
 |HKC Elec|Google TV|nagai|2K PA Google TV|
 |HKC Elec|Google TV|nagai|2K SA Google TV|
@@ -10409,6 +10412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier MatrixTV AE|irvine|Haier MatrixTV AE|
 |Haier|Haier MatrixTV AEL|irvine|Haier MatrixTV AEL|
+|Haier|Haier MatrixTV AR|yongchun|Haier MatrixTV AR|
 |Haier|Haier MatrixTV AS|irvine|Haier MatrixTV AS|
 |Haier|Haier MatrixTV AS|irvine|Haier OLED TV AS|
 |Haier|Haier MatrixTV BE|jordan|Haier MatrixTV BE|
@@ -11633,6 +11637,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 90 GT|HNMAG|MAG-AN00|
 |Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX1|
 |Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX3|
+|Honor|HONOR 90 Smart|HNCLK-M1|CLK-NX1|
+|Honor|HONOR 90 Smart|HNCLK-M1|CLK-NX3|
 |Honor|HONOR Magic V2|HNVER|VER-N49|
 |Honor|HONOR Magic Vs|HNFRI|FRI-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
@@ -11675,6 +11681,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX1|
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX2|
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX3|
+|Honor|HONOR X7b 5G|HNCLK-M1|CLK-NX1|
+|Honor|HONOR X7b 5G|HNCLK-M1|CLK-NX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -14122,6 +14130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 4|Infinix-X572|Infinix X572-LTE|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571-LTE|
+|Infinix|NOTE 40 Pro+ 5G|Infinix-X6851B|Infinix X6851B|
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
@@ -20650,6 +20659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|HERO X|HERO_X|HERO_X|
 |Mobicell|HERO_DS|HERO_DS|HERO_DS|
 |Mobicell|HYPE|HYPE|HYPE|
+|Mobicell|IX|IX|IX|
 |Mobicell|IX PRO|IX_PRO|IX PRO|
 |Mobicell|IX-1|IX-1|IX-1|
 |Mobicell|Icon|Mobicel_Icon|Icon|
@@ -22958,6 +22968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OASYS|OAS_9301|OAS_9301|OAS_9301|
 |OASYS|TEG9300|TEG9300|TEG9300|
 |OASYS|TEG9300-4|TEG9300-4|TEG9300-4|
+|OASYS|TEG9300-4A|TEG9300-4A|TEG9300-4A|
 |OASYS|TEG9300-5|TEG9300-5|TEG9300-5|
 |OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
 |OBOX|OBOX4K.20|DV8519-BOX|OBOX4k.20|
@@ -23275,9 +23286,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200TMO|DE2118|
 |OnePlus|OnePlus Nord N30 5G|OP5958L1|CPH2513|
 |OnePlus|OnePlus Nord N30 5G|OP5958L1|CPH2515|
+|OnePlus|OnePlus Nord N30 SE 5G|OP5955L1|CPH2605|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2101|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2103|
 |OnePlus|OnePlus Pad|OP59BCL1|OPD2203|
+|OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
@@ -23660,8 +23673,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPD2102A|OP5226L1|OPD2102A|
 |Oppo|OPG02_jp_kdi|OP4F39L1|OPG02|
 |Oppo|OPPO A1 5G|OP561D|PHS110|
+|Oppo|OPPO A18|OP575DL1|CPH2591|
 |Oppo|OPPO A33|OP4EEA|CPH2137|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
+|Oppo|OPPO A38|OP5759L1|CPH2579|
 |Oppo|OPPO A53 5G|OP4E49|PECM30|
 |Oppo|OPPO A53 5G|OP4E49|PECT30|
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
@@ -23677,6 +23692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
+|Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
 |Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro 5G|OP561F|PHV110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
@@ -26959,6 +26975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rizzen|S1|S1|S1|
 |Rizzen|X1|X1|X1|
 |RoadQuest|RoadQuest|RQ-G|RQ-G|
+|RockTek|Gretzky|TSA|TVDongle|
 |RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
@@ -28766,6 +28783,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M52 5G|m52xq|SM-M526BR|
 |Samsung|Galaxy M53 5G|m53x|SM-M536B|
 |Samsung|Galaxy M54 5G|m54x|SM-M546B|
+|Samsung|Galaxy M55 5G|m55xq|SM-C5560|
+|Samsung|Galaxy M55 5G|m55xq|SM-E556B|
+|Samsung|Galaxy M55 5G|m55xq|SM-M556B|
+|Samsung|Galaxy M55 5G|m55xq|SM-M556E|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -30083,6 +30104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615C|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P617|
+|Samsung|Galaxy Tab S6 Lite|gta4xls|SM-P625|
 |Samsung|Galaxy Tab S6 Lite|gta4xlve|SM-P619|
 |Samsung|Galaxy Tab S6 Lite|gta4xlve|SM-P619N|
 |Samsung|Galaxy Tab S6 Lite|gta4xlvewifi|SM-P613|
@@ -35262,6 +35284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 20s Pro 5G|TECNO-CK8nB|TECNO CK8nB|
 |Tecno|TECNO CAMON 30|TECNO-CL6|TECNO CL6|
 |Tecno|TECNO CAMON 30|TECNO-CL6k|TECNO CL6k|
+|Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -35301,6 +35324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 4 Pro|TECNO-LG8n|TECNO LG8n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
 |Tecno|TECNO POVA 6|TECNO-LI7|TECNO LI7|
+|Tecno|TECNO POVA 6 Neo|TECNO-LI6|TECNO LI6|
 |Tecno|TECNO POVA 6 Pro 5G|TECNO-LI9|TECNO LI9|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
@@ -38029,6 +38053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|LT750|LT750|LT750|
 |Walton|NEXG N71|NEXG_N71|NEXG N71|
 |Walton|NEXG N71 Plus|NEXG_N71_Plus|NEXG N71 Plus|
+|Walton|NEXG N73|NEXG_N73|NEXG N73|
 |Walton|NEXG N8|NEXG_N8|NEXG N8|
 |Walton|NEXG_N25|NEXG_N25|NEXG N25|
 |Walton|ORBIT Y70|ORBIT_Y70|ORBIT Y70|
@@ -41892,7 +41917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
-|realme|NARZO 70 Pro|RE5C86L1|RMX3868|
+|realme|NARZO 70 Pro 5G|RE5C86L1|RMX3868|
 |realme|RMX3268|RED8D7|RMX3268|
 |realme|RMX3612|RE588DL1|RMX3612|
 |realme|RMX3627|RE58AF|RMX3627|
@@ -41931,7 +41956,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
 |realme|realme 12 5G|RE5C94L1|RMX3999|
 |realme|realme 12 Pro 5G|RE5C84L1|RMX3842|
-|realme|realme 12 Pro+|RE5C3B|RMX3841|
 |realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
 |realme|realme 12+ 5G|RE5C86L1|RMX3867|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
@@ -42067,6 +42091,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我 V20|RE584B|RMX3610|
 |realme|真我 V20|RE584B|RMX3611|
 |realme|真我11 Pro|RE5869|RMX3770|
+|realme|真我12 Pro|RE5C3C|RMX3843|
+|realme|真我12 Pro+|RE5C3B|RMX3841|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
