@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-21
+Last sync is 2024-03-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1117,6 +1117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva i701G|Viva_i701G|Viva_i701G_TM|
 |AllView|Viva i7G|Viva_i7G|Viva_i7G|
 |AllView|Viva_H701_LTE|Viva_H701_LTE|Viva_H701_LTE|
+|AllView|X10_Soul_Lite|X10_Soul_Lite|X10_Soul_Lite|
 |AllView|X2 Soul Lite|X2_Soul_Lite|X2_Soul_Lite|
 |AllView|X2 Soul Lite|X2_Soul_Lite|X2_Soul_Lite_TM|
 |AllView|X2 Soul Mini|X2_Soul_Mini|X2_Soul_Mini|
@@ -18490,6 +18491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo K8 Plus|marino_f|Lenovo K|
 |Lenovo|Lenovo K8 Plus|marino_f|Lenovo K8 Plus|
 |Lenovo|Lenovo K9|K9|Lenovo L38043|
+|Lenovo|Lenovo Legion Tab|TB320FC|TB320FC|
 |Lenovo|Lenovo Mirage Solo|vega|VR-1541F|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Braswell Chrome OS Device|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Intel Braswell Chromebook|
@@ -19055,6 +19057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
 |Logic Mobility|LOGIC L61|LOGIC_L61|LOGIC L61|
 |Logic Mobility|LOGIC L63|LOGIC_L63|LOGIC L63|
+|Logic Mobility|LOGIC L63M|LOGIC_L63M|L63M|
 |Logic Mobility|LOGIC L65 LITE|LOGIC_L65_LITE|LOGIC L65 LITE|
 |Logic Mobility|LOGIC MV01|LOGIC_MV01|LOGIC MV01|
 |Logic Mobility|LOGIC MV02|LOGIC_MV02|LOGIC MV02|
@@ -20637,6 +20640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|DANDY_ZAM|DANDY_ZAM|DANDY_ZAM|
 |Mobicell|ECHO|ECHO|ECHO|
 |Mobicell|EGO|EGO|EGO|
+|Mobicell|EPIC MAX|EPIC_MAX|EPIC MAX|
 |Mobicell|EPIC PRO 1|EPIC_PRO_1|EPIC PRO_1|
 |Mobicell|EPIC PRO_2|EPIC_PRO_2|EPIC PRO_2|
 |Mobicell|EPIC_1|EPIC_1|EPIC_1|
@@ -20699,6 +20703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|R3|R3|R3|
 |Mobicell|R4|R4|R4|
 |Mobicell|R4 LTE|R4_LTE|R4 LTE|
+|Mobicell|R6_PLUS|R6_PLUS|R6 PLUS|
 |Mobicell|R7|R7|R7|
 |Mobicell|R7|R7_1|R7_1|
 |Mobicell|R7_2|R7_2|R7_2|
@@ -20716,6 +20721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|RUBY|RUBY|RUBY|
 |Mobicell|RUSH|RUSH|RUSH|
 |Mobicell|RX PRO|RX_PRO|RX PRO|
+|Mobicell|RX Plus|RX_Plus|RX Plus|
 |Mobicell|RX17|RX17|RX17|
 |Mobicell|Retro|Retro|Retro|
 |Mobicell|SHIFT|SHIFT|SHIFT|
@@ -31392,6 +31398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite A5|Elite_A5|Elite A5|
 |Sky Devices|Elite A5|Elite_AMS|Elite A5|
 |Sky Devices|Elite A55|Elite_A55|Elite_A55|
+|Sky Devices|Elite A55Max|Elite_A55Max|Elite A55Max|
 |Sky Devices|Elite A6|Elite_A6|Elite A6|
 |Sky Devices|Elite A63|Elite_A63|Elite A63|
 |Sky Devices|Elite A63Max|Elite_A63MUS|Elite A63Max|

@@ -16195,6 +16195,13 @@
    "model": "Viva_H701_LTE"
   }
  ],
+ "X10_Soul_Lite": [
+  {
+   "brand": "AllView",
+   "device": "X10_Soul_Lite",
+   "model": "X10_Soul_Lite"
+  }
+ ],
  "X2 Soul Lite": [
   {
    "brand": "AllView",
@@ -129013,6 +129020,13 @@
    "model": "Lenovo L38043"
   }
  ],
+ "Lenovo Legion Tab": [
+  {
+   "brand": "Lenovo",
+   "device": "TB320FC",
+   "model": "TB320FC"
+  }
+ ],
  "Lenovo Mirage Solo": [
   {
    "brand": "Lenovo",
@@ -132324,6 +132338,13 @@
    "brand": "Logic Mobility",
    "device": "LOGIC_L63",
    "model": "LOGIC L63"
+  }
+ ],
+ "LOGIC L63M": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_L63M",
+   "model": "L63M"
   }
  ],
  "LOGIC L65 LITE": [
@@ -142194,6 +142215,13 @@
    "model": "EGO"
   }
  ],
+ "EPIC MAX": [
+  {
+   "brand": "Mobicell",
+   "device": "EPIC_MAX",
+   "model": "EPIC MAX"
+  }
+ ],
  "EPIC PRO 1": [
   {
    "brand": "Mobicell",
@@ -142607,6 +142635,13 @@
    "model": "R4 LTE"
   }
  ],
+ "R6_PLUS": [
+  {
+   "brand": "Mobicell",
+   "device": "R6_PLUS",
+   "model": "R6 PLUS"
+  }
+ ],
  "R7": [
   {
    "brand": "Mobicell",
@@ -142737,6 +142772,13 @@
    "brand": "Mobicell",
    "device": "RX_PRO",
    "model": "RX PRO"
+  }
+ ],
+ "RX Plus": [
+  {
+   "brand": "Mobicell",
+   "device": "RX_Plus",
+   "model": "RX Plus"
   }
  ],
  "RX17": [
@@ -205906,6 +205948,13 @@
    "brand": "Sky Devices",
    "device": "Elite_A55",
    "model": "Elite_A55"
+  }
+ ],
+ "Elite A55Max": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_A55Max",
+   "model": "Elite A55Max"
   }
  ],
  "Elite A63": [

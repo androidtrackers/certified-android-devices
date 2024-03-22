@@ -5837,6 +5837,11 @@
    "model": "Viva_H701_LTE"
   },
   {
+   "device": "X10_Soul_Lite",
+   "name": "X10_Soul_Lite",
+   "model": "X10_Soul_Lite"
+  },
+  {
    "device": "X2_Soul_Lite",
    "name": "X2 Soul Lite",
    "model": "X2_Soul_Lite"
@@ -95108,6 +95113,11 @@
    "model": "Lenovo L38043"
   },
   {
+   "device": "TB320FC",
+   "name": "Lenovo Legion Tab",
+   "model": "TB320FC"
+  },
+  {
    "device": "vega",
    "name": "Lenovo Mirage Solo",
    "model": "VR-1541F"
@@ -97977,6 +97987,11 @@
    "device": "LOGIC_L63",
    "name": "LOGIC L63",
    "model": "LOGIC L63"
+  },
+  {
+   "device": "LOGIC_L63M",
+   "name": "LOGIC L63M",
+   "model": "L63M"
   },
   {
    "device": "LOGIC_L65_LITE",
@@ -106175,6 +106190,11 @@
    "model": "EGO"
   },
   {
+   "device": "EPIC_MAX",
+   "name": "EPIC MAX",
+   "model": "EPIC MAX"
+  },
+  {
    "device": "EPIC_PRO_1",
    "name": "EPIC PRO 1",
    "model": "EPIC PRO_1"
@@ -106485,6 +106505,11 @@
    "model": "R4 LTE"
   },
   {
+   "device": "R6_PLUS",
+   "name": "R6_PLUS",
+   "model": "R6 PLUS"
+  },
+  {
    "device": "R7",
    "name": "R7",
    "model": "R7"
@@ -106568,6 +106593,11 @@
    "device": "RX_PRO",
    "name": "RX PRO",
    "model": "RX PRO"
+  },
+  {
+   "device": "RX_Plus",
+   "name": "RX Plus",
+   "model": "RX Plus"
   },
   {
    "device": "RX17",
@@ -161152,6 +161182,11 @@
    "device": "Elite_A55",
    "name": "Elite A55",
    "model": "Elite_A55"
+  },
+  {
+   "device": "Elite_A55Max",
+   "name": "Elite A55Max",
+   "model": "Elite A55Max"
   },
   {
    "device": "Elite_A6",
