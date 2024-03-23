@@ -7461,6 +7461,11 @@
    "model": "arcelik_uhd_powermax_at"
   },
   {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "device": "martin",
    "name": "Turkey",
    "model": "Arcelik Android TV"
@@ -16367,6 +16372,11 @@
    "device": "kunyang",
    "name": "Beko UHD Android TV",
    "model": "Beko Android UHD TV"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   },
   {
    "device": "martin",
@@ -47864,6 +47874,11 @@
    "model": "sdk_gphone_x86"
   },
   {
+   "device": "emulator_car64_x86_64",
+   "name": "Google Automotive Emulator",
+   "model": "Android SDK built for x86_64"
+  },
+  {
    "device": "vsoc_kiwi_x86_64",
    "name": "Google Play Games on PC",
    "model": "HPE device"
@@ -48555,6 +48570,11 @@
    "device": "kunyang",
    "name": "Grundig UHD Android TV",
    "model": "Grundig Android UHD TV"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   },
   {
    "device": "GTB801",
@@ -82000,6 +82020,11 @@
  ],
  "Korea Telecom": [
   {
+   "device": "KG2100",
+   "name": "KG2100",
+   "model": "KG2100"
+  },
+  {
    "device": "KG3100",
    "name": "KG3100",
    "model": "KG3100"
@@ -91973,6 +91998,11 @@
    "model": "LAVA LXX501"
   },
   {
+   "device": "LZX414",
+   "name": "LAVA LZX414",
+   "model": "LAVA LZX414"
+  },
+  {
    "device": "Z66",
    "name": "LAVA Z66",
    "model": "Lava Z66"
@@ -92336,11 +92366,6 @@
    "device": "LZX415",
    "name": "YUVA 3",
    "model": "LZX415"
-  },
-  {
-   "device": "LZX414",
-   "name": "Yuva 3 Pro",
-   "model": "LAVA LZX414"
   },
   {
    "device": "Z1",
@@ -119936,6 +119961,11 @@
    "model": "ONEPLUS A6013"
   },
   {
+   "device": "OP5943L1",
+   "name": "Oneplus Ace 2 Pro",
+   "model": "PJA110"
+  },
+  {
    "device": "Oneplus_Dosa_IN",
    "name": "Oneplus_Dosa_IN",
    "model": "Oneplus_Dosa_IN"
@@ -145225,6 +145255,11 @@
    "model": "SM-C5018"
   },
   {
+   "device": "m55xq",
+   "name": "Galaxy C55 5G",
+   "model": "SM-C5560"
+  },
+  {
    "device": "c7ltechn",
    "name": "Galaxy C7",
    "model": "SM-C7000"
@@ -145843,6 +145878,11 @@
    "device": "m54x",
    "name": "Galaxy F54 5G",
    "model": "SM-E546B"
+  },
+  {
+   "device": "m55xq",
+   "name": "Galaxy F55 5G",
+   "model": "SM-E556B"
   },
   {
    "device": "f62",
@@ -148023,16 +148063,6 @@
    "device": "m54x",
    "name": "Galaxy M54 5G",
    "model": "SM-M546B"
-  },
-  {
-   "device": "m55xq",
-   "name": "Galaxy M55 5G",
-   "model": "SM-C5560"
-  },
-  {
-   "device": "m55xq",
-   "name": "Galaxy M55 5G",
-   "model": "SM-E556B"
   },
   {
    "device": "m55xq",
@@ -160908,6 +160938,11 @@
    "model": "SMART TV"
   },
   {
+   "device": "lavender",
+   "name": "SIRAGON",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "SIRAGON",
    "model": "SMART TV"
@@ -162849,6 +162884,11 @@
  ],
  "Soneview": [
   {
+   "device": "lavender",
+   "name": "SONEVIEW",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "SONEVIEW",
    "model": "2K SMART TV"
@@ -163218,6 +163258,11 @@
    "device": "icx1240",
    "name": "NWZ-ZX1",
    "model": "WALKMAN"
+  },
+  {
+   "device": "PDT-FP1",
+   "name": "PDT-FP1",
+   "model": "PDT-FP1"
   },
   {
    "device": "tetra",
@@ -170026,6 +170071,11 @@
    "device": "Sonata_Pro_OM",
    "name": "TCL 40XL",
    "model": "T608M"
+  },
+  {
+   "device": "Dragonfly",
+   "name": "TCL 50 5G",
+   "model": "T613K"
   },
   {
    "device": "Rio_CAN",
@@ -181055,6 +181105,11 @@
    "device": "TECNO-CL6k",
    "name": "TECNO CAMON 30",
    "model": "TECNO CL6k"
+  },
+  {
+   "device": "TECNO-CL7",
+   "name": "TECNO CAMON 30 5G",
+   "model": "TECNO CL7"
   },
   {
    "device": "TECNO-CL8",
@@ -192650,6 +192705,16 @@
    "device": "V2307",
    "name": "Y200 5G",
    "model": "V2307"
+  },
+  {
+   "device": "V2303",
+   "name": "Y200 Pro 5G",
+   "model": "V2303"
+  },
+  {
+   "device": "V2303",
+   "name": "Y200 Pro 5G",
+   "model": "V2401"
   },
   {
    "device": "V2327",
@@ -212003,6 +212068,11 @@
    "device": "AE9950",
    "name": "AE9950",
    "model": "AE9950"
+  },
+  {
+   "device": "AEOP519",
+   "name": "AEOP519",
+   "model": "AEOP519"
   },
   {
    "device": "AF9010_F",

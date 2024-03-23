@@ -5579,12 +5579,22 @@
    "model": "R4"
   },
   {
+   "brand": "Arcelik",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Artel",
    "name": "R4",
    "model": "R4"
   },
   {
    "brand": "BLACKLINE",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Beko",
    "name": "R4",
    "model": "R4"
   },
@@ -5635,6 +5645,11 @@
   },
   {
    "brand": "Fresh",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Grundig",
    "name": "R4",
    "model": "R4"
   },
@@ -12948,6 +12963,16 @@
   {
    "brand": "Sharp",
    "name": "SHARP",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Siragon",
+   "name": "SIRAGON",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
    "model": "4K SMART TV"
   },
   {
@@ -73607,6 +73632,13 @@
    "model": "GT-I9505G"
   }
  ],
+ "emulator_car64_x86_64": [
+  {
+   "brand": "Google",
+   "name": "Google Automotive Emulator",
+   "model": "Android SDK built for x86_64"
+  }
+ ],
  "vsoc_kiwi_x86_64": [
   {
    "brand": "Google",
@@ -112429,6 +112461,13 @@
    "model": "Smartfive"
   }
  ],
+ "KG2100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KG2100",
+   "model": "KG2100"
+  }
+ ],
  "KG3100": [
   {
    "brand": "Korea Telecom",
@@ -124451,6 +124490,13 @@
    "model": "LAVA LXX501"
   }
  ],
+ "LZX414": [
+  {
+   "brand": "Lava",
+   "name": "LAVA LZX414",
+   "model": "LAVA LZX414"
+  }
+ ],
  "Z66": [
   {
    "brand": "Lava",
@@ -124934,13 +124980,6 @@
    "brand": "Lava",
    "name": "YUVA 3",
    "model": "LZX415"
-  }
- ],
- "LZX414": [
-  {
-   "brand": "Lava",
-   "name": "Yuva 3 Pro",
-   "model": "LAVA LZX414"
   }
  ],
  "LZG401": [
@@ -158458,6 +158497,13 @@
    "model": "ONEPLUS A6013"
   }
  ],
+ "OP5943L1": [
+  {
+   "brand": "OnePlus",
+   "name": "Oneplus Ace 2 Pro",
+   "model": "PJA110"
+  }
+ ],
  "Oneplus_Dosa_IN": [
   {
    "brand": "OnePlus",
@@ -187932,6 +187978,28 @@
    "model": "SM-C5018"
   }
  ],
+ "m55xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy C55 5G",
+   "model": "SM-C5560"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F55 5G",
+   "model": "SM-E556B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M55 5G",
+   "model": "SM-M556B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M55 5G",
+   "model": "SM-M556E"
+  }
+ ],
  "c7ltechn": [
   {
    "brand": "Samsung",
@@ -191454,28 +191522,6 @@
    "brand": "Samsung",
    "name": "Galaxy Quantum3",
    "model": "SM-M536S"
-  }
- ],
- "m55xq": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M55 5G",
-   "model": "SM-C5560"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M55 5G",
-   "model": "SM-E556B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M55 5G",
-   "model": "SM-M556B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M55 5G",
-   "model": "SM-M556E"
   }
  ],
  "m62": [
@@ -210294,6 +210340,13 @@
    "model": "NW-ZX700Series"
   }
  ],
+ "PDT-FP1": [
+  {
+   "brand": "Sony",
+   "name": "PDT-FP1",
+   "model": "PDT-FP1"
+  }
+ ],
  "tetra": [
   {
    "brand": "Sony",
@@ -218704,6 +218757,13 @@
    "brand": "TCL",
    "name": "TCL 40XL",
    "model": "T608M"
+  }
+ ],
+ "Dragonfly": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 5G",
+   "model": "T613K"
   }
  ],
  "Rio_CAN": [
@@ -230383,6 +230443,13 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 30",
    "model": "TECNO CL6k"
+  }
+ ],
+ "TECNO-CL7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30 5G",
+   "model": "TECNO CL7"
   }
  ],
  "TECNO-CL8": [
@@ -242939,6 +243006,16 @@
    "brand": "Vivo",
    "name": "V29e",
    "model": "V2303"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y200 Pro 5G",
+   "model": "V2303"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y200 Pro 5G",
+   "model": "V2401"
   }
  ],
  "V2317": [
@@ -265172,6 +265249,13 @@
    "brand": "benco",
    "name": "AE9950",
    "model": "AE9950"
+  }
+ ],
+ "AEOP519": [
+  {
+   "brand": "benco",
+   "name": "AEOP519",
+   "model": "AEOP519"
   }
  ],
  "AH9130": [

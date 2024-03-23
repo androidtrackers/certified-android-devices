@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-22
+Last sync is 2024-03-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1429,6 +1429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Arcelik|Arcelik Google TV QLED|wanchai|Arcelik Google TV QLED|
 |Arcelik|Arcelik Google TV UHD+|wanchai|Arcelik Google TV UHD+|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
+|Arcelik|R4|R4|R4|
 |Arcelik|Turkey|martin|Arcelik Android TV|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
@@ -3169,6 +3170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Google TV QLED|wanchai|Beko Google TV QLED|
 |Beko|Beko Google TV UHD+|wanchai|Beko Google TV UHD+|
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
+|Beko|R4|R4|R4|
 |Beko|Turkey|martin|Beko Android TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |Bell Canada|FibeTV|vip7802_bell|FibeTV|
@@ -9208,6 +9210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Emulator|generic_x86_64|Android SDK built for x86_64|
 |Google|Galaxy S4 Google Play edition|jgedlte|GT-I9505G|
 |Google|Google Android Emulator|generic_x86_arm|sdk_gphone_x86|
+|Google|Google Automotive Emulator|emulator_car64_x86_64|Android SDK built for x86_64|
 |Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
 |Google|Intel Alder Lake Chromebox|brask_cheets|brask|
@@ -9343,6 +9346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|Grundig Google TV QLED|wanchai|Grundig Google TV QLED|
 |Grundig|Grundig Google TV UHD+|wanchai|Grundig Google TV UHD+|
 |Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
+|Grundig|R4|R4|R4|
 |Grundig|TC69CA2|GTB801|GTB 801|
 |Grundig|Turkey|martin|Grundig Android TV|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
@@ -15900,6 +15904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Kooda|KOODA 2K TV|shibuya|KOODA 2K TV|
+|Korea Telecom|KG2100|KG2100|KG2100|
 |Korea Telecom|KG3100|KG3100|KG3100|
 |Korea Telecom|KG4100|KG4100|KG4100|
 |Korea Telecom|KI1101|KI1101|KI1101|
@@ -17869,6 +17874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris90|iris90|iris90|
 |Lava|LAVA AGNI 2 5G|LXX504|LAVA LXX504|
 |Lava|LAVA AGNI 5G|LXX501|LAVA LXX501|
+|Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA Z66|Z66|Lava Z66|
 |Lava|LE000Z93P|LE000Z93P|LE000Z93P|
 |Lava|LE9810|LE9810|LAVA LE9810|
@@ -17942,7 +17948,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Xolo era 2|era_2|era 2|
 |Lava|Y50|AF9020|AF9020|
 |Lava|YUVA 3|LZX415|LZX415|
-|Lava|Yuva 3 Pro|LZX414|LAVA LZX414|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
 |Lava|Z10|LAVA_Z10|Z10|
@@ -23306,6 +23311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
+|OnePlus|Oneplus Ace 2 Pro|OP5943L1|PJA110|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
@@ -28229,6 +28235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy C5|c5pltechn|SM-C5000|
 |Samsung|Galaxy C5 Pro|c5proltechn|SM-C5010|
 |Samsung|Galaxy C5 Pro|c5proltechn|SM-C5018|
+|Samsung|Galaxy C55 5G|m55xq|SM-C5560|
 |Samsung|Galaxy C7|c7ltechn|SM-C7000|
 |Samsung|Galaxy C7|c7ltechn|SM-C700X|
 |Samsung|Galaxy C7|c7proltechn|SM-C701X|
@@ -28353,6 +28360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F42 5G|f42x|SM-E426B|
 |Samsung|Galaxy F52 5G|f52x|SM-E5260|
 |Samsung|Galaxy F54 5G|m54x|SM-E546B|
+|Samsung|Galaxy F55 5G|m55xq|SM-E556B|
 |Samsung|Galaxy F62|f62|SM-E625F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
@@ -28789,8 +28797,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M52 5G|m52xq|SM-M526BR|
 |Samsung|Galaxy M53 5G|m53x|SM-M536B|
 |Samsung|Galaxy M54 5G|m54x|SM-M546B|
-|Samsung|Galaxy M55 5G|m55xq|SM-C5560|
-|Samsung|Galaxy M55 5G|m55xq|SM-E556B|
 |Samsung|Galaxy M55 5G|m55xq|SM-M556B|
 |Samsung|Galaxy M55 5G|m55xq|SM-M556E|
 |Samsung|Galaxy M62|m62|SM-M625F|
@@ -31344,6 +31350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SinoGNSS|R60 Data Collector|R60|R60|
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Siragon|SA|zhongshan|SMART TV|
+|Siragon|SIRAGON|lavender|4K SMART TV|
 |Siragon|SIRAGON|stanford|SMART TV|
 |Siragon|SP 6200|SP-6200|SP-6200|
 |Siragon|SP-5000|SP-5000|Siragon SP-5000|
@@ -31719,6 +31726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Solone|E1457|E1457|E1457|
 |Solone|W1450|W1450|W1450|
 |Solone|W1452|W1452|W1452|
+|Soneview|SONEVIEW|lavender|4K SMART TV|
 |Soneview|SONEVIEW|mountbaker|2K SMART TV|
 |Soneview|SONEVIEW|stanford|2K SMART TV|
 |Soneview|SONEVIEW|zhongshan|4K SMART TV|
@@ -31792,6 +31800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|NW-ZX700Series|icx1302|NW-ZX700Series|
 |Sony|NWZ-Z1000|icx1216|NWZ-Z1000Series|
 |Sony|NWZ-ZX1|icx1240|WALKMAN|
+|Sony|PDT-FP1|PDT-FP1|PDT-FP1|
 |Sony|SmartWatch 3|tetra|SmartWatch 3|
 |Sony|Smartphone Z Ultra Google Play edition|C6806|C6806|
 |Sony|Smartphone Z Ultra Google Play edition|C6806|C6806_GPe|
@@ -33122,6 +33131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 408|Civic_Plus|T507U|
 |TCL|TCL 40T|Sonata_TF|T608DL|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
+|TCL|TCL 50 5G|Dragonfly|T613K|
 |TCL|TCL 502|Rio_CAN|T432J|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
@@ -35291,6 +35301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 20s Pro 5G|TECNO-CK8nB|TECNO CK8nB|
 |Tecno|TECNO CAMON 30|TECNO-CL6|TECNO CL6|
 |Tecno|TECNO CAMON 30|TECNO-CL6k|TECNO CL6k|
+|Tecno|TECNO CAMON 30 5G|TECNO-CL7|TECNO CL7|
 |Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -37520,6 +37531,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y17s|V2310|V2331|
 |Vivo|Y18e|V2333|V2350|
 |Vivo|Y200 5G|V2307|V2307|
+|Vivo|Y200 Pro 5G|V2303|V2303|
+|Vivo|Y200 Pro 5G|V2303|V2401|
 |Vivo|Y200e 5G|V2327|V2336|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
@@ -41307,6 +41320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|AE9240|AE9240|AE9240|
 |benco|AE9310|AE9310|AE9310|
 |benco|AE9950|AE9950|AE9950|
+|benco|AEOP519|AEOP519|AEOP519|
 |benco|AF9010_F|AF9010_F|AF9010_F|
 |benco|AF9020|AF9020|AF9020|
 |benco|AF9030|AF9030|AF9030|

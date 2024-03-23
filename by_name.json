@@ -8655,12 +8655,22 @@
    "model": "R4"
   },
   {
+   "brand": "Arcelik",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Artel",
    "device": "R4",
    "model": "R4"
   },
   {
    "brand": "BLACKLINE",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Beko",
    "device": "R4",
    "model": "R4"
   },
@@ -8711,6 +8721,11 @@
   },
   {
    "brand": "Fresh",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Grundig",
    "device": "R4",
    "model": "R4"
   },
@@ -75402,6 +75417,13 @@
    "model": "sdk_gphone_x86"
   }
  ],
+ "Google Automotive Emulator": [
+  {
+   "brand": "Google",
+   "device": "emulator_car64_x86_64",
+   "model": "Android SDK built for x86_64"
+  }
+ ],
  "Google Play Games on PC": [
   {
    "brand": "Google",
@@ -114687,6 +114709,13 @@
    "model": "KOODA 2K TV"
   }
  ],
+ "KG2100": [
+  {
+   "brand": "Korea Telecom",
+   "device": "KG2100",
+   "model": "KG2100"
+  }
+ ],
  "KG3100": [
   {
    "brand": "Korea Telecom",
@@ -125574,6 +125603,13 @@
    "model": "LAVA LXX501"
   }
  ],
+ "LAVA LZX414": [
+  {
+   "brand": "Lava",
+   "device": "LZX414",
+   "model": "LAVA LZX414"
+  }
+ ],
  "LAVA Z66": [
   {
    "brand": "Lava",
@@ -126004,13 +126040,6 @@
    "brand": "Lava",
    "device": "LZX415",
    "model": "LZX415"
-  }
- ],
- "Yuva 3 Pro": [
-  {
-   "brand": "Lava",
-   "device": "LZX414",
-   "model": "LAVA LZX414"
   }
  ],
  "Z1": [
@@ -157861,6 +157890,13 @@
    "model": "ONEPLUS A6013"
   }
  ],
+ "Oneplus Ace 2 Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5943L1",
+   "model": "PJA110"
+  }
+ ],
  "Oneplus_Dosa_IN": [
   {
    "brand": "OnePlus",
@@ -187883,6 +187919,13 @@
    "model": "SM-C5018"
   }
  ],
+ "Galaxy C55 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m55xq",
+   "model": "SM-C5560"
+  }
+ ],
  "Galaxy C7": [
   {
    "brand": "Samsung",
@@ -188587,6 +188630,13 @@
    "brand": "Samsung",
    "device": "m54x",
    "model": "SM-E546B"
+  }
+ ],
+ "Galaxy F55 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m55xq",
+   "model": "SM-E556B"
   }
  ],
  "Galaxy F62": [
@@ -191028,16 +191078,6 @@
   }
  ],
  "Galaxy M55 5G": [
-  {
-   "brand": "Samsung",
-   "device": "m55xq",
-   "model": "SM-C5560"
-  },
-  {
-   "brand": "Samsung",
-   "device": "m55xq",
-   "model": "SM-E556B"
-  },
   {
    "brand": "Samsung",
    "device": "m55xq",
@@ -205577,6 +205617,11 @@
  "SIRAGON": [
   {
    "brand": "Siragon",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Siragon",
    "device": "stanford",
    "model": "SMART TV"
   }
@@ -207923,6 +207968,11 @@
  "SONEVIEW": [
   {
    "brand": "Soneview",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Soneview",
    "device": "mountbaker",
    "model": "2K SMART TV"
   },
@@ -208335,6 +208385,13 @@
    "brand": "Sony",
    "device": "icx1240",
    "model": "WALKMAN"
+  }
+ ],
+ "PDT-FP1": [
+  {
+   "brand": "Sony",
+   "device": "PDT-FP1",
+   "model": "PDT-FP1"
   }
  ],
  "SmartWatch 3": [
@@ -216103,6 +216160,13 @@
    "brand": "TCL",
    "device": "Sonata_Pro_OM",
    "model": "T608M"
+  }
+ ],
+ "TCL 50 5G": [
+  {
+   "brand": "TCL",
+   "device": "Dragonfly",
+   "model": "T613K"
   }
  ],
  "TCL 502": [
@@ -228303,6 +228367,13 @@
    "brand": "Tecno",
    "device": "TECNO-CL6k",
    "model": "TECNO CL6k"
+  }
+ ],
+ "TECNO CAMON 30 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CL7",
+   "model": "TECNO CL7"
   }
  ],
  "TECNO CAMON 30 Pro 5G": [
@@ -241807,6 +241878,18 @@
    "brand": "Vivo",
    "device": "V2307",
    "model": "V2307"
+  }
+ ],
+ "Y200 Pro 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2303",
+   "model": "V2303"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2303",
+   "model": "V2401"
   }
  ],
  "Y200e 5G": [
@@ -263459,6 +263542,13 @@
    "brand": "benco",
    "device": "AE9950",
    "model": "AE9950"
+  }
+ ],
+ "AEOP519": [
+  {
+   "brand": "benco",
+   "device": "AEOP519",
+   "model": "AEOP519"
   }
  ],
  "AF9010_F": [

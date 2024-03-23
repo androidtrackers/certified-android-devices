@@ -3119,6 +3119,11 @@
   },
   {
    "brand": "Siragon",
+   "name": "SIRAGON",
+   "device": "lavender"
+  },
+  {
+   "brand": "Siragon",
    "name": "Siragon",
    "device": "hongkong"
   },
@@ -3126,6 +3131,11 @@
    "brand": "Smart-Tech TV",
    "name": "SMART TEcHNOLGY",
    "device": "zhongshan"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
+   "device": "lavender"
   },
   {
    "brand": "Soneview",
@@ -4061,12 +4071,22 @@
    "device": "R4"
   },
   {
+   "brand": "Arcelik",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "Artel",
    "name": "R4",
    "device": "R4"
   },
   {
    "brand": "BLACKLINE",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "Beko",
    "name": "R4",
    "device": "R4"
   },
@@ -4117,6 +4137,11 @@
   },
   {
    "brand": "Fresh",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "Grundig",
    "name": "R4",
    "device": "R4"
   },
@@ -69012,6 +69037,11 @@
    "brand": "Google",
    "name": "Emulator",
    "device": "generic_x86_64"
+  },
+  {
+   "brand": "Google",
+   "name": "Google Automotive Emulator",
+   "device": "emulator_car64_x86_64"
   }
  ],
  "GT-I9505G": [
@@ -112525,6 +112555,13 @@
    "device": "shibuya"
   }
  ],
+ "KG2100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KG2100",
+   "device": "KG2100"
+  }
+ ],
  "KG3100": [
   {
    "brand": "Korea Telecom",
@@ -125537,6 +125574,13 @@
    "device": "LXX501"
   }
  ],
+ "LAVA LZX414": [
+  {
+   "brand": "Lava",
+   "name": "LAVA LZX414",
+   "device": "LZX414"
+  }
+ ],
  "Lava Z66": [
   {
    "brand": "Lava",
@@ -125996,13 +126040,6 @@
    "brand": "Lava",
    "name": "YUVA 3",
    "device": "LZX415"
-  }
- ],
- "LAVA LZX414": [
-  {
-   "brand": "Lava",
-   "name": "Yuva 3 Pro",
-   "device": "LZX414"
   }
  ],
  "Z1": [
@@ -160324,6 +160361,13 @@
    "device": "OnePlus6TSingle"
   }
  ],
+ "PJA110": [
+  {
+   "brand": "OnePlus",
+   "name": "Oneplus Ace 2 Pro",
+   "device": "OP5943L1"
+  }
+ ],
  "Oneplus_Dosa_IN": [
   {
    "brand": "OnePlus",
@@ -192375,6 +192419,13 @@
    "device": "c5proltechn"
   }
  ],
+ "SM-C5560": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy C55 5G",
+   "device": "m55xq"
+  }
+ ],
  "SM-C7000": [
   {
    "brand": "Samsung",
@@ -193226,6 +193277,13 @@
    "brand": "Samsung",
    "name": "Galaxy F54 5G",
    "device": "m54x"
+  }
+ ],
+ "SM-E556B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F55 5G",
+   "device": "m55xq"
   }
  ],
  "SM-E625F": [
@@ -196276,20 +196334,6 @@
    "brand": "Samsung",
    "name": "Galaxy M54 5G",
    "device": "m54x"
-  }
- ],
- "SM-C5560": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M55 5G",
-   "device": "m55xq"
-  }
- ],
- "SM-E556B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M55 5G",
-   "device": "m55xq"
   }
  ],
  "SM-M556B": [
@@ -216278,6 +216322,13 @@
    "device": "icx1216"
   }
  ],
+ "PDT-FP1": [
+  {
+   "brand": "Sony",
+   "name": "PDT-FP1",
+   "device": "PDT-FP1"
+  }
+ ],
  "SmartWatch 3": [
   {
    "brand": "Sony",
@@ -224664,6 +224715,13 @@
    "brand": "TCL",
    "name": "TCL 40XL",
    "device": "Sonata_Pro_OM"
+  }
+ ],
+ "T613K": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 5G",
+   "device": "Dragonfly"
   }
  ],
  "T432J": [
@@ -239144,6 +239202,13 @@
    "device": "TECNO-CL6k"
   }
  ],
+ "TECNO CL7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30 5G",
+   "device": "TECNO-CL7"
+  }
+ ],
  "TECNO CL8": [
   {
    "brand": "Tecno",
@@ -252494,6 +252559,11 @@
    "brand": "Vivo",
    "name": "V29e",
    "device": "V2303"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y200 Pro 5G",
+   "device": "V2303"
   }
  ],
  "V2317": [
@@ -253092,6 +253162,13 @@
    "brand": "Vivo",
    "name": "Y200 5G",
    "device": "V2307"
+  }
+ ],
+ "V2401": [
+  {
+   "brand": "Vivo",
+   "name": "Y200 Pro 5G",
+   "device": "V2303"
   }
  ],
  "V2336": [
@@ -277215,6 +277292,13 @@
    "brand": "benco",
    "name": "AE9950",
    "device": "AE9950"
+  }
+ ],
+ "AEOP519": [
+  {
+   "brand": "benco",
+   "name": "AEOP519",
+   "device": "AEOP519"
   }
  ],
  "AF9030": [
