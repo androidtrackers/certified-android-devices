@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-24
+Last sync is 2024-03-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24910,6 +24910,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PHILIPS|lavender|4K SMART TV PH|
 |Philips|PHILIPS|mountbaker|2K SMART TV|
 |Philips|PHILIPS|mountbaker|2K SMART TV PH|
+|Philips|PHILIPS S6210|PHILIPS-S6210|PHILIPS S6210|
+|Philips|PHILIPS S6310|PHILIPS-S6310|PHILIPS S6310|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
 |Philips|PHP-S231C4AFD|G3SMNTS23|G3SMNTS23|
@@ -31766,6 +31768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K UR2|BRAVIA_UR2_4K|BRAVIA 4K UR2|
 |Sony|BRAVIA 4K UR3|BRAVIA_UR3|BRAVIA 4K UR3|
 |Sony|BRAVIA AE M6L|BRAVIA_AE_M6L|BRAVIA 4K AE1|
+|Sony|BRAVIA AE2|BRAVIA_AE2|BRAVIA 4K AE2|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
 |Sony|BRAVIA TL|OD0M_EA_T32|BRAVIA TL|
 |Sony|BRAVIA TL2|OD0M_EA_T32|BRAVIA TL2|

@@ -128130,6 +128130,16 @@
    "model": "2K SMART TV PH"
   },
   {
+   "device": "PHILIPS-S6210",
+   "name": "PHILIPS S6210",
+   "model": "PHILIPS S6210"
+  },
+  {
+   "device": "PHILIPS-S6310",
+   "name": "PHILIPS S6310",
+   "model": "PHILIPS S6310"
+  },
+  {
    "device": "cocina",
    "name": "PHILIPS TV",
    "model": "PHILIPS TV"
@@ -163088,6 +163098,11 @@
    "device": "BRAVIA_AE_M6L",
    "name": "BRAVIA AE M6L",
    "model": "BRAVIA 4K AE1"
+  },
+  {
+   "device": "BRAVIA_AE2",
+   "name": "BRAVIA AE2",
+   "model": "BRAVIA 4K AE2"
   },
   {
    "device": "NSZGU1",

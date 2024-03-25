@@ -168564,6 +168564,20 @@
    "model": "TLE722G"
   }
  ],
+ "PHILIPS-S6210": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS S6210",
+   "model": "PHILIPS S6210"
+  }
+ ],
+ "PHILIPS-S6310": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS S6310",
+   "model": "PHILIPS S6310"
+  }
+ ],
  "cocina": [
   {
    "brand": "Philips",
@@ -210096,6 +210110,13 @@
    "brand": "Sony",
    "name": "BRAVIA AE M6L",
    "model": "BRAVIA 4K AE1"
+  }
+ ],
+ "BRAVIA_AE2": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA AE2",
+   "model": "BRAVIA 4K AE2"
   }
  ],
  "NSZGU1": [

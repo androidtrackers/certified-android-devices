@@ -170758,6 +170758,20 @@
    "device": "mountbaker"
   }
  ],
+ "PHILIPS S6210": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS S6210",
+   "device": "PHILIPS-S6210"
+  }
+ ],
+ "PHILIPS S6310": [
+  {
+   "brand": "Philips",
+   "name": "PHILIPS S6310",
+   "device": "PHILIPS-S6310"
+  }
+ ],
  "PHILIPS TV": [
   {
    "brand": "Philips",
@@ -216070,6 +216084,13 @@
    "brand": "Sony",
    "name": "BRAVIA AE M6L",
    "device": "BRAVIA_AE_M6L"
+  }
+ ],
+ "BRAVIA 4K AE2": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA AE2",
+   "device": "BRAVIA_AE2"
   }
  ],
  "NSZ-GU1": [

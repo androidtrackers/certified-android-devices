@@ -167826,6 +167826,20 @@
    "model": "2K SMART TV PH"
   }
  ],
+ "PHILIPS S6210": [
+  {
+   "brand": "Philips",
+   "device": "PHILIPS-S6210",
+   "model": "PHILIPS S6210"
+  }
+ ],
+ "PHILIPS S6310": [
+  {
+   "brand": "Philips",
+   "device": "PHILIPS-S6310",
+   "model": "PHILIPS S6310"
+  }
+ ],
  "PHILIPS TV": [
   {
    "brand": "Philips",
@@ -208159,6 +208173,13 @@
    "brand": "Sony",
    "device": "BRAVIA_AE_M6L",
    "model": "BRAVIA 4K AE1"
+  }
+ ],
+ "BRAVIA AE2": [
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_AE2",
+   "model": "BRAVIA 4K AE2"
   }
  ],
  "BRAVIA Smart Stick": [
