@@ -49199,6 +49199,11 @@
    "model": "2K US Google TV"
   },
   {
+   "device": "nagai",
+   "name": "Google TV",
+   "model": "POLYTRON 2K"
+  },
+  {
    "device": "mateo",
    "name": "Smart Monitor",
    "model": "2K Smart Monitor"
@@ -71909,6 +71914,11 @@
    "model": "B860H V5.0"
   },
   {
+   "device": "B866FV1_1",
+   "name": "B866F V1.1",
+   "model": "B866F V1.1"
+  },
+  {
    "device": "HG680",
    "name": "HG680_FJ",
    "model": "HG680_FJ"
@@ -72037,6 +72047,11 @@
    "device": "Infinix-X6739",
    "name": "GT 10 Pro",
    "model": "Infinix X6739"
+  },
+  {
+   "device": "Infinix-X6871",
+   "name": "GT 20 Pro",
+   "model": "Infinix X6871"
   },
   {
    "device": "Infinix-X689F",
@@ -154675,6 +154690,11 @@
    "model": "SM-P625"
   },
   {
+   "device": "gta4xlswifi",
+   "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P620"
+  },
+  {
    "device": "gta4xlve",
    "name": "Galaxy Tab S6 Lite",
    "model": "SM-P619"
@@ -157911,6 +157931,11 @@
    "device": "d740",
    "name": "CRUISE2 5G",
    "model": "CRUISE2 5G"
+  },
+  {
+   "device": "d740p",
+   "name": "CRUISE2 5GA",
+   "model": "CRUISE2 5GA"
   },
   {
    "device": "hht8b",
@@ -181125,6 +181150,11 @@
    "device": "TECNO-CL7",
    "name": "TECNO CAMON 30 5G",
    "model": "TECNO CL7"
+  },
+  {
+   "device": "TECNO-CL9",
+   "name": "TECNO CAMON 30 Premier 5G",
+   "model": "TECNO CL9"
   },
   {
    "device": "TECNO-CL8",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-25
+Last sync is 2024-03-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9461,6 +9461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|nagai|2K PA Google TV|
 |HKC Elec|Google TV|nagai|2K SA Google TV|
 |HKC Elec|Google TV|nagai|2K US Google TV|
+|HKC Elec|Google TV|nagai|POLYTRON 2K|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
 |HKC Elec|Smart TV|mateo|2K US Smart TV|
@@ -13945,6 +13946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inco|Rouge1|Rouge1|Rouge1|
 |Inco|eco_s|eco_s|eco_s|
 |IndiHome|B860H V5.0|B860HV5_Telkom|B860H V5.0|
+|IndiHome|B866F V1.1|B866FV1_1|B866F V1.1|
 |IndiHome|HG680_FJ|HG680|HG680_FJ|
 |Indurama|INDURAMA|stanford|INDURAMA SMART TV 2K|
 |Indurama|INDURAMA|zhongshan|INDURAMA SMART TV 4K|
@@ -13969,6 +13971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|55X1|samseong|AI PONT|
 |Infinix|APAC|kualakai|Infinix Google TV|
 |Infinix|GT 10 Pro|Infinix-X6739|Infinix X6739|
+|Infinix|GT 20 Pro|Infinix-X6871|Infinix X6871|
 |Infinix|HOT|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
@@ -30119,6 +30122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P617|
 |Samsung|Galaxy Tab S6 Lite|gta4xls|SM-P625|
+|Samsung|Galaxy Tab S6 Lite|gta4xlswifi|SM-P620|
 |Samsung|Galaxy Tab S6 Lite|gta4xlve|SM-P619|
 |Samsung|Galaxy Tab S6 Lite|gta4xlve|SM-P619N|
 |Samsung|Galaxy Tab S6 Lite|gta4xlvewifi|SM-P613|
@@ -30753,6 +30757,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seuic|CRUISE1|d700s|CRUISE1|
 |Seuic|CRUISE2|d730|CRUISE2|
 |Seuic|CRUISE2 5G|d740|CRUISE2 5G|
+|Seuic|CRUISE2 5GA|d740p|CRUISE2 5GA|
 |Seuic|HHT8B|hht8b|HHT8B|
 |Shaks|Gretzky|TSA|Shaks G1|
 |Sharp||SH7218T|SH7218T|
@@ -35305,6 +35310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30|TECNO-CL6|TECNO CL6|
 |Tecno|TECNO CAMON 30|TECNO-CL6k|TECNO CL6k|
 |Tecno|TECNO CAMON 30 5G|TECNO-CL7|TECNO CL7|
+|Tecno|TECNO CAMON 30 Premier 5G|TECNO-CL9|TECNO CL9|
 |Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|

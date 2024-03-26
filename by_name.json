@@ -77091,6 +77091,11 @@
    "brand": "HKC Elec",
    "device": "nagai",
    "model": "2K US Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "device": "nagai",
+   "model": "POLYTRON 2K"
   }
  ],
  "Smart Monitor": [
@@ -102442,6 +102447,13 @@
    "model": "B860H V5.0"
   }
  ],
+ "B866F V1.1": [
+  {
+   "brand": "IndiHome",
+   "device": "B866FV1_1",
+   "model": "B866F V1.1"
+  }
+ ],
  "HG680_FJ": [
   {
    "brand": "IndiHome",
@@ -102606,6 +102618,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6739",
    "model": "Infinix X6739"
+  }
+ ],
+ "GT 20 Pro": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6871",
+   "model": "Infinix X6871"
   }
  ],
  "HOT": [
@@ -198206,6 +198225,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "gta4xlswifi",
+   "model": "SM-P620"
+  },
+  {
+   "brand": "Samsung",
    "device": "gta4xlve",
    "model": "SM-P619"
   },
@@ -201831,6 +201855,13 @@
    "brand": "Seuic",
    "device": "d740",
    "model": "CRUISE2 5G"
+  }
+ ],
+ "CRUISE2 5GA": [
+  {
+   "brand": "Seuic",
+   "device": "d740p",
+   "model": "CRUISE2 5GA"
   }
  ],
  "HHT8B": [
@@ -228395,6 +228426,13 @@
    "brand": "Tecno",
    "device": "TECNO-CL7",
    "model": "TECNO CL7"
+  }
+ ],
+ "TECNO CAMON 30 Premier 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CL9",
+   "model": "TECNO CL9"
   }
  ],
  "TECNO CAMON 30 Pro 5G": [
