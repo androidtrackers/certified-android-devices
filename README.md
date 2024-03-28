@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-27
+Last sync is 2024-03-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4400,7 +4400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COEX|COEX 4K Smart TV|SW6H|COEX 4K Smart TV|
 |COEX|COEX 4K Smart TV FF|SW6H|COEX 4K Smart TV FF|
 |COLORROOM|K12|K12|K12|
-|COMBUSTECH|Customer need debug|rk3588_t|COMBUS_IB|
+|COMBUSTECH|COMBUSTECH-IFPD|rk3588_t|COMBUS_IB|
 |COMPUMAX|BLUEPAD10|BLUEPAD10|BLUEPAD10|
 |COMPUMAX|BlueS10|COMPUMAX|BlueS10|
 |COMTECO|DV8535|DV8535-KBC|DV8535|
@@ -11660,6 +11660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-AN16|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-N49|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
+|Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
@@ -11707,6 +11708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
+|Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
@@ -14900,6 +14902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
 |Itel|itel PrimeTab 1|itel-W7002P|itel W7002P|
+|Itel|itel RS4|itel-S666LN|itel S666LN|
 |Itel|itel S12|itel-S12|itel S12|
 |Itel|itel S16 Pro|itel-W6503|itel W6503|
 |Itel|itel S16 Pro（Vision 2）|itel-L6503|itel L6503|
@@ -37477,6 +37480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V9 6GB|1723CF|vivo 1723|
 |Vivo|V9 Pro|1851|vivo 1851|
 |Vivo|X Flip|PD2256|V2256A|
+|Vivo|X Fold3 Pro|PD2337|V2337A|
 |Vivo|X100|PD2309|V2309A|
 |Vivo|X100|V2308|V2308|
 |Vivo|X100 Pro|PD2324|V2324A|
@@ -37741,6 +37745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
 |Vivo|vivo X Fold2|PD2266|V2266A|
+|Vivo|vivo X Fold3|PD2303|V2303A|
 |Vivo|vivo X Note|PD2170|V2170A|
 |Vivo|vivo X20|PD1709|vivo PD1709|
 |Vivo|vivo X20|PD1709|vivo X20A|
@@ -40968,6 +40973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia Blade A72|Z6255|Z6255CA|
+|ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|

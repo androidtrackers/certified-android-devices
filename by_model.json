@@ -35043,7 +35043,7 @@
  "COMBUS_IB": [
   {
    "brand": "COMBUSTECH",
-   "name": "Customer need debug",
+   "name": "COMBUSTECH-IFPD",
    "device": "rk3588_t"
   }
  ],
@@ -84976,6 +84976,13 @@
    "device": "HNHEY-Q"
   }
  ],
+ "HEY2-N09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 9",
+   "device": "HNHEY2-Q"
+  }
+ ],
  "HEY2-W09": [
   {
    "brand": "Honor",
@@ -85268,6 +85275,13 @@
    "brand": "Honor",
    "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
    "device": "HNVER"
+  }
+ ],
+ "BVL-AN20": [
+  {
+   "brand": "Honor",
+   "name": "PORSCHE DESIGN HONOR Magic6 RSR",
+   "device": "HNBVL"
   }
  ],
  "F13": [
@@ -106579,6 +106593,13 @@
    "brand": "Itel",
    "name": "itel PrimeTab 1",
    "device": "itel-W7002P"
+  }
+ ],
+ "itel S666LN": [
+  {
+   "brand": "Itel",
+   "name": "itel RS4",
+   "device": "itel-S666LN"
   }
  ],
  "itel S12": [
@@ -252768,6 +252789,13 @@
    "device": "PD2256"
   }
  ],
+ "V2337A": [
+  {
+   "brand": "Vivo",
+   "name": "X Fold3 Pro",
+   "device": "PD2337"
+  }
+ ],
  "V2309A": [
   {
    "brand": "Vivo",
@@ -254475,6 +254503,13 @@
    "brand": "Vivo",
    "name": "vivo X Fold2",
    "device": "PD2266"
+  }
+ ],
+ "V2303A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X Fold3",
+   "device": "PD2303"
   }
  ],
  "V2170A": [
@@ -275114,6 +275149,13 @@
    "brand": "ZTE",
    "name": "nubia Blade A72",
    "device": "Z6255"
+  }
+ ],
+ "NX724J": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Flip 5G",
+   "device": "Z8888S"
   }
  ],
  "Z2352N": [

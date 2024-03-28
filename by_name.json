@@ -40772,16 +40772,11 @@
    "model": "K12"
   }
  ],
- "Customer need debug": [
+ "COMBUSTECH-IFPD": [
   {
    "brand": "COMBUSTECH",
    "device": "rk3588_t",
    "model": "COMBUS_IB"
-  },
-  {
-   "brand": "Condor",
-   "device": "TB108W",
-   "model": "TB108W"
   }
  ],
  "BLUEPAD10": [
@@ -46652,6 +46647,13 @@
    "brand": "Condor",
    "device": "u970_5",
    "model": "C-6"
+  }
+ ],
+ "Customer need debug": [
+  {
+   "brand": "Condor",
+   "device": "TB108W",
+   "model": "TB108W"
   }
  ],
  "G6 Pro": [
@@ -90493,6 +90495,11 @@
   {
    "brand": "Honor",
    "device": "HNHEY2-Q",
+   "model": "HEY2-N09"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNHEY2-Q",
    "model": "HEY2-W09"
   }
  ],
@@ -90766,6 +90773,13 @@
    "brand": "Honor",
    "device": "HNVER",
    "model": "VER-N49DP"
+  }
+ ],
+ "PORSCHE DESIGN HONOR Magic6 RSR": [
+  {
+   "brand": "Honor",
+   "device": "HNBVL",
+   "model": "BVL-AN20"
   }
  ],
  "RBN-NX1": [
@@ -108431,6 +108445,13 @@
    "brand": "Itel",
    "device": "itel-W7002P",
    "model": "itel W7002P"
+  }
+ ],
+ "itel RS4": [
+  {
+   "brand": "Itel",
+   "device": "itel-S666LN",
+   "model": "itel S666LN"
   }
  ],
  "itel S12": [
@@ -241613,6 +241634,13 @@
    "model": "V2256A"
   }
  ],
+ "X Fold3 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2337",
+   "model": "V2337A"
+  }
+ ],
  "X100 Pro": [
   {
    "brand": "Vivo",
@@ -243274,6 +243302,13 @@
    "brand": "Vivo",
    "device": "PD2266",
    "model": "V2266A"
+  }
+ ],
+ "vivo X Fold3": [
+  {
+   "brand": "Vivo",
+   "device": "PD2303",
+   "model": "V2303A"
   }
  ],
  "vivo X Note": [
@@ -261361,6 +261396,13 @@
    "brand": "ZTE",
    "device": "Z6255",
    "model": "Z6255CA"
+  }
+ ],
+ "nubia Flip 5G": [
+  {
+   "brand": "ZTE",
+   "device": "Z8888S",
+   "model": "NX724J"
   }
  ],
  "nubia Neo 2 5G": [
