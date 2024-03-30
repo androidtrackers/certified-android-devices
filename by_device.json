@@ -719,6 +719,11 @@
    "model": "JTW"
   },
   {
+   "brand": "MCTV",
+   "name": "MCIFPD",
+   "model": "MCIFPD"
+  },
+  {
    "brand": "MPORT",
    "name": "MPORT-IFPD",
    "model": "e_Smarter"
@@ -4752,6 +4757,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Daewoo",
+   "name": "DAEWOO",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "Dahua",
    "name": "DAHUA",
    "model": "2K SMART TV"
@@ -4853,6 +4863,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "INNO-HIT",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV"
   },
@@ -4950,6 +4965,11 @@
    "brand": "Motorola",
    "name": "Motorola",
    "model": "MOTOROLA GOOGLE TV NA"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "model": "2K SMART TV"
   },
   {
    "brand": "PEL (PAK)",
@@ -8488,6 +8508,13 @@
    "brand": "Acer",
    "name": "A3-A40",
    "model": "A3-A40"
+  }
+ ],
+ "AKREI13": [
+  {
+   "brand": "Acer",
+   "name": "ACER ALTOS EZA",
+   "model": "ACER_ALTOS_EZA"
   }
  ],
  "ACTAB1021_A": [
@@ -243115,6 +243142,18 @@
    "model": "vivo V3"
   }
  ],
+ "V2342": [
+  {
+   "brand": "Vivo",
+   "name": "V30 Lite",
+   "model": "V2342"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y100",
+   "model": "V2342"
+  }
+ ],
  "V2327": [
   {
    "brand": "Vivo",
@@ -244760,6 +244799,13 @@
    "brand": "Vivo",
    "name": "vivo Pad2",
    "model": "PA2373"
+  }
+ ],
+ "DPD2329": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad3 Pro",
+   "model": "PA2473"
   }
  ],
  "PD1831": [
@@ -263888,6 +263934,13 @@
    "model": "TC73"
   }
  ],
+ "TC73T": [
+  {
+   "brand": "Zebra",
+   "name": "TC73",
+   "model": "TC73"
+  }
+ ],
  "TC75x": [
   {
    "brand": "Zebra",
@@ -263903,6 +263956,13 @@
   }
  ],
  "TC78": [
+  {
+   "brand": "Zebra",
+   "name": "TC78",
+   "model": "TC78"
+  }
+ ],
+ "TC78T": [
   {
    "brand": "Zebra",
    "name": "TC78",

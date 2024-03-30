@@ -2232,6 +2232,11 @@
    "model": "A3-A40"
   },
   {
+   "device": "AKREI13",
+   "name": "ACER ALTOS EZA",
+   "model": "ACER_ALTOS_EZA"
+  },
+  {
    "device": "ACTAB1021_A",
    "name": "ACTAB1021_A",
    "model": "ACTAB1021_A"
@@ -31860,6 +31865,11 @@
    "device": "lavender",
    "name": "DAEWOO",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "DAEWOO",
+   "model": "2K SMART TV"
   },
   {
    "device": "SW6H",
@@ -79585,6 +79595,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "INNO-HIT",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV 4K"
@@ -99718,6 +99733,13 @@
    "model": "SSB700T"
   }
  ],
+ "MCTV": [
+  {
+   "device": "rk3588_t",
+   "name": "MCIFPD",
+   "model": "MCIFPD"
+  }
+ ],
  "MDC Store": [
   {
    "device": "Grand",
@@ -111917,6 +111939,11 @@
    "device": "lavender",
    "name": "MTEK",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "MTEK",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -192382,6 +192409,11 @@
    "model": "V2314"
   },
   {
+   "device": "V2342",
+   "name": "V30 Lite",
+   "model": "V2342"
+  },
+  {
    "device": "V2327",
    "name": "V30 Lite 5G",
    "model": "V2327"
@@ -192690,6 +192722,11 @@
    "device": "V2239",
    "name": "Y100",
    "model": "V2239"
+  },
+  {
+   "device": "V2342",
+   "name": "Y100",
+   "model": "V2342"
   },
   {
    "device": "V2327",
@@ -193710,6 +193747,11 @@
    "device": "DPD2221",
    "name": "vivo Pad2",
    "model": "PA2373"
+  },
+  {
+   "device": "DPD2329",
+   "name": "vivo Pad3 Pro",
+   "model": "PA2473"
   },
   {
    "device": "PD1831",
@@ -210784,6 +210826,11 @@
    "model": "TC73"
   },
   {
+   "device": "TC73T",
+   "name": "TC73",
+   "model": "TC73"
+  },
+  {
    "device": "TC75x",
    "name": "TC75x",
    "model": "TC75x"
@@ -210795,6 +210842,11 @@
   },
   {
    "device": "TC78",
+   "name": "TC78",
+   "model": "TC78"
+  },
+  {
+   "device": "TC78T",
    "name": "TC78",
    "model": "TC78"
   },

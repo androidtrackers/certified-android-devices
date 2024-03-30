@@ -3225,6 +3225,11 @@
    "device": "mountbaker"
   },
   {
+   "brand": "Daewoo",
+   "name": "DAEWOO",
+   "device": "mountbaker"
+  },
+  {
    "brand": "Dahua",
    "name": "DAHUA",
    "device": "mountbaker"
@@ -3312,6 +3317,11 @@
   {
    "brand": "KTCtv",
    "name": "HARMON-TEC",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "INNO-HIT",
    "device": "mountbaker"
   },
   {
@@ -3433,6 +3443,11 @@
    "brand": "Motorola",
    "name": "MOTOROLA",
    "device": "stanford"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "device": "mountbaker"
   },
   {
    "brand": "Mtek",
@@ -5664,6 +5679,13 @@
    "brand": "Acer",
    "name": "A3-A40",
    "device": "acer_jetfirefhd"
+  }
+ ],
+ "ACER_ALTOS_EZA": [
+  {
+   "brand": "Acer",
+   "name": "ACER ALTOS EZA",
+   "device": "AKREI13"
   }
  ],
  "ACTAB1021_A": [
@@ -135663,6 +135685,13 @@
    "device": "SSB700T"
   }
  ],
+ "MCIFPD": [
+  {
+   "brand": "MCTV",
+   "name": "MCIFPD",
+   "device": "rk3588_t"
+  }
+ ],
  "Grand": [
   {
    "brand": "MDC Store",
@@ -252676,6 +252705,18 @@
    "device": "V2317"
   }
  ],
+ "V2342": [
+  {
+   "brand": "Vivo",
+   "name": "V30 Lite",
+   "device": "V2342"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y100",
+   "device": "V2342"
+  }
+ ],
  "V2327": [
   {
    "brand": "Vivo",
@@ -254412,6 +254453,13 @@
    "brand": "Vivo",
    "name": "vivo Pad2",
    "device": "DPD2221"
+  }
+ ],
+ "PA2473": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad3 Pro",
+   "device": "DPD2329"
   }
  ],
  "V1831A": [
@@ -275828,6 +275876,11 @@
    "brand": "Zebra",
    "name": "TC73",
    "device": "TC73"
+  },
+  {
+   "brand": "Zebra",
+   "name": "TC73",
+   "device": "TC73T"
   }
  ],
  "TC75x": [
@@ -275847,6 +275900,11 @@
    "brand": "Zebra",
    "name": "TC78",
    "device": "TC78"
+  },
+  {
+   "brand": "Zebra",
+   "name": "TC78",
+   "device": "TC78T"
   }
  ],
  "TC8000": [

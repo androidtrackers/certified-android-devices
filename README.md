@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-03-29
+Last sync is 2024-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -412,6 +412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A3-A20FHD|acer_harleyfhd|A3-A20FHD|
 |Acer|A3-A30|omega|A3-A30|
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
+|Acer|ACER ALTOS EZA|AKREI13|ACER_ALTOS_EZA|
 |Acer|ACTAB1021_A|ACTAB1021_A|ACTAB1021_A|
 |Acer|ACTAB1022|ACTAB1022|ACTAB1022|
 |Acer|ACTAB1024|ACTAB1024|ACTAB1024|
@@ -6160,6 +6161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|4K Smart TV|pioneer|4K SA Smart TV|
 |Daewoo|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
 |Daewoo|DAEWOO|lavender|4K SMART TV|
+|Daewoo|DAEWOO|mountbaker|2K SMART TV|
 |Daewoo|DAEWOO SMART TV|SW6H|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
@@ -15437,6 +15439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
 |KTCtv|INNO-HIT|lavender|4K SMART TV|
+|KTCtv|INNO-HIT|mountbaker|2K SMART TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|lavender|INNOVA GOOGLE TV 4K|
 |KTCtv|INNOVA|mountbaker|INNOVA GOOGLE TV|
@@ -19394,6 +19397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAZE|SSB5518R|SSB5518R|SSB5518R|
 |MAZE|SSB558R|SSB558R|SSB558R|
 |MAZE|SSB700T|SSB700T|SSB700T|
+|MCTV|MCIFPD|rk3588_t|MCIFPD|
 |MDC Store|Grand|Grand|Grand|
 |MDC Store|M100|M100|M100|
 |MDC Store|M200|M200|M200|
@@ -21767,6 +21771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mpman|PH604|PH604|PH604|
 |Mswipe|WiseposGo|L200|L200|
 |Mtek|MTEK|lavender|4K SMART TV|
+|Mtek|MTEK|mountbaker|2K SMART TV|
 |Mtek|MTEK|stanford|2K SMART TV|
 |Mtek|MTEK|zhongshan|4K SMART TV|
 |Multilaser|Brazil|martin|Multilaser Android TV|
@@ -37466,6 +37471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V30 Lite|V2317|V2314|
+|Vivo|V30 Lite|V2342|V2342|
 |Vivo|V30 Lite 5G|V2327|V2327|
 |Vivo|V30 Pro|V2319|V2319|
 |Vivo|V30 SE|V2327|V2349|
@@ -37528,6 +37534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y03|V2333|V2406|
 |Vivo|Y100|PD2313|V2313A|
 |Vivo|Y100|V2239|V2239|
+|Vivo|Y100|V2342|V2342|
 |Vivo|Y100 5G|V2327|V2327|
 |Vivo|Y100A|V2222|V2222|
 |Vivo|Y11|PD2236|V2236A|
@@ -37732,6 +37739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo Pad Air|DPD2305|PA2353|
 |Vivo|vivo Pad2|DPD2221|PA2373|
+|Vivo|vivo Pad3 Pro|DPD2329|PA2473|
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo S15e|PD2190|V2190A|
@@ -41078,9 +41086,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC58|TC58|TC58|
 |Zebra|TC70x|TC70x|TC70x|
 |Zebra|TC73|TC73|TC73|
+|Zebra|TC73|TC73T|TC73|
 |Zebra|TC75x|TC75x|TC75x|
 |Zebra|TC75xDF|TC75xDF|TC75x|
 |Zebra|TC78|TC78|TC78|
+|Zebra|TC78|TC78T|TC78|
 |Zebra|TC8000|TC8000|TC8000|
 |Zebra|TN28|TN28|TN28|
 |Zebra|VC80x|VC80x|VC80x|

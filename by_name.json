@@ -10322,6 +10322,13 @@
    "model": "A3-A40"
   }
  ],
+ "ACER ALTOS EZA": [
+  {
+   "brand": "Acer",
+   "device": "AKREI13",
+   "model": "ACER_ALTOS_EZA"
+  }
+ ],
  "ACTAB1021_A": [
   {
    "brand": "Acer",
@@ -53466,6 +53473,11 @@
    "brand": "Daewoo",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Daewoo",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "DAEWOO SMART TV": [
@@ -106107,6 +106119,11 @@
    "brand": "Vivo",
    "device": "V2239",
    "model": "V2239"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2342",
+   "model": "V2342"
   }
  ],
  "Zafiro": [
@@ -111563,6 +111580,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "INNOVA": [
@@ -134556,6 +134578,13 @@
    "model": "SSB700T"
   }
  ],
+ "MCIFPD": [
+  {
+   "brand": "MCTV",
+   "device": "rk3588_t",
+   "model": "MCIFPD"
+  }
+ ],
  "Grand": [
   {
    "brand": "MDC Store",
@@ -148693,6 +148722,11 @@
    "brand": "Mtek",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Mtek",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   },
   {
    "brand": "Mtek",
@@ -241555,6 +241589,11 @@
    "brand": "Vivo",
    "device": "V2317",
    "model": "V2314"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2342",
+   "model": "V2342"
   }
  ],
  "V30 Lite 5G": [
@@ -243211,6 +243250,13 @@
    "brand": "Vivo",
    "device": "DPD2221",
    "model": "PA2373"
+  }
+ ],
+ "vivo Pad3 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "DPD2329",
+   "model": "PA2473"
   }
  ],
  "vivo S1": [
@@ -262094,6 +262140,11 @@
    "brand": "Zebra",
    "device": "TC73",
    "model": "TC73"
+  },
+  {
+   "brand": "Zebra",
+   "device": "TC73T",
+   "model": "TC73"
   }
  ],
  "TC75x": [
@@ -262114,6 +262165,11 @@
   {
    "brand": "Zebra",
    "device": "TC78",
+   "model": "TC78"
+  },
+  {
+   "brand": "Zebra",
+   "device": "TC78T",
    "model": "TC78"
   }
  ],
