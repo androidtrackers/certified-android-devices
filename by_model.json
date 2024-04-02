@@ -2845,6 +2845,11 @@
   {
    "brand": "KTCtv",
    "name": "INNO-HIT",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "INNO-HIT",
    "device": "lavender"
   },
   {
@@ -3006,6 +3011,11 @@
    "brand": "Motorola",
    "name": "MOTOROLA",
    "device": "zhongshan"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "device": "hongkong"
   },
   {
    "brand": "Mtek",
@@ -3788,6 +3798,13 @@
    "brand": "ARBOR",
    "name": "HT10",
    "device": "HT10"
+  }
+ ],
+ "Arguest Android UHD TV": [
+  {
+   "brand": "ARGUEST",
+   "name": "Arguest Android UHD TV",
+   "device": "kunyang"
   }
  ],
  "Listo22": [
@@ -5908,6 +5925,13 @@
    "device": "acer_c01"
   }
  ],
+ "Acer_Iconia_T10-21M": [
+  {
+   "brand": "Acer",
+   "name": "Acer Iconia T10-21M",
+   "device": "Acer_Iconia_T10-21M"
+  }
+ ],
  "Acer One 10 T4-129L": [
   {
    "brand": "Acer",
@@ -7612,6 +7636,13 @@
    "brand": "Acer",
    "name": "N3-2200",
    "device": "da2"
+  }
+ ],
+ "P11-11": [
+  {
+   "brand": "Acer",
+   "name": "P11",
+   "device": "P11"
   }
  ],
  "TPA60W": [
@@ -9426,6 +9457,13 @@
    "brand": "Aiwa",
    "name": "A8_LTE",
    "device": "A8_LTE"
+  }
+ ],
+ "AIWA 4K GOOGLE TV": [
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
+   "device": "hongkong"
   }
  ],
  "SMART TV": [
@@ -55295,6 +55333,13 @@
    "device": "SEI800ESTL"
   }
  ],
+ "FRC1-Eastlink": [
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-Eastlink",
+   "device": "SEI800ESTL"
+  }
+ ],
  "FRC1-MDCOM": [
   {
    "brand": "EVOFORCE1",
@@ -68099,6 +68144,11 @@
    "device": "P5"
   },
   {
+   "brand": "Mobicel",
+   "name": "P5",
+   "device": "P5"
+  },
+  {
    "brand": "Oale",
    "name": "P5",
    "device": "P5"
@@ -69210,6 +69260,13 @@
    "brand": "Google",
    "name": "Intel Kaby Lake U Chromebook",
    "device": "nami_cheets"
+  }
+ ],
+ "rex": [
+  {
+   "brand": "Google",
+   "name": "Intel Meteorlake-U Chromebook",
+   "device": "rex_cheets"
   }
  ],
  "volteer": [
@@ -100420,13 +100477,6 @@
    "device": "barking"
   }
  ],
- "Infinix Google TV": [
-  {
-   "brand": "Infinix",
-   "name": "APAC",
-   "device": "kualakai"
-  }
- ],
  "Infinix X6739": [
   {
    "brand": "Infinix",
@@ -100900,6 +100950,13 @@
    "brand": "Infinix",
    "name": "Infinix X559",
    "device": "Infinix-X559"
+  }
+ ],
+ "Infinix Google TV": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix Google TV",
+   "device": "kualakai"
   }
  ],
  "Infinix X689": [
@@ -109151,6 +109208,13 @@
   {
    "brand": "KONKA",
    "name": "HK 4K Google TV-C",
+   "device": "keoneae"
+  }
+ ],
+ "HK 4K Google TV-D": [
+  {
+   "brand": "KONKA",
+   "name": "HK 4K Google TV-D",
    "device": "keoneae"
   }
  ],
@@ -133505,6 +133569,13 @@
    "brand": "Logic Mobility",
    "name": "L68",
    "device": "LOGIC_L68"
+  }
+ ],
+ "L68_Ultra": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L68 Ultra",
+   "device": "L68_Ultra"
   }
  ],
  "LOGIC L50T": [
@@ -211436,6 +211507,13 @@
    "device": "DQO"
   }
  ],
+ "SHG12": [
+  {
+   "brand": "Sharp",
+   "name": "BASIO active2",
+   "device": "ZKO"
+  }
+ ],
  "SHV36": [
   {
    "brand": "Sharp",
@@ -221483,6 +221561,13 @@
    "brand": "Strong",
    "name": "Leap-S3",
    "device": "YDA"
+  }
+ ],
+ "4K Hybrid STB": [
+  {
+   "brand": "Strong",
+   "name": "SRT420",
+   "device": "ZRH"
   }
  ],
  "Strong 4K Android TV": [
@@ -256652,6 +256737,13 @@
    "brand": "Walton",
    "name": "NEXG_N25",
    "device": "NEXG_N25"
+  }
+ ],
+ "ORBIT Y12": [
+  {
+   "brand": "Walton",
+   "name": "ORBIT Y12",
+   "device": "ORBIT_Y12"
   }
  ],
  "ORBIT Y70": [

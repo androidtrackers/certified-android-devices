@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-01
+Last sync is 2024-04-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -217,6 +217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARBOR|G47|G47|G47|
 |ARBOR|GT78-VN|GT78-VN|GT78-VN|
 |ARBOR|HT10|HT10|HT10|
+|ARGUEST|Arguest Android UHD TV|kunyang|Arguest Android UHD TV|
 |ARMADILOS|Listo22|Listo22|Listo22|
 |ARRQW|RO-55LCS|samseong|AI PONT|
 |ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
@@ -443,6 +444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Chromebook 11 (C740)|paine_cheets|Acer Chromebook 11 (C740)|
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
 |Acer|Acer Holo360|acer_c01|C01|
+|Acer|Acer Iconia T10-21M|Acer_Iconia_T10-21M|Acer_Iconia_T10-21M|
 |Acer|Acer One 10 T4-129L|AcerO10T4129L|Acer One 10 T4-129L|
 |Acer|Acer One 10 T4-129L|AcerOne10T4129LIx|Acer One 10 T4-129LIx|
 |Acer|Acer One 10 T4-129LI|AcerO10T412LI|Acer One 10 T4-129LI|
@@ -610,6 +612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|M3-2200|da2|M3-2200|
 |Acer|MWND1|MW1|MWND1|
 |Acer|N3-2200|da2|N3-2200|
+|Acer|P11|P11|P11-11|
 |Acer|Picasso|picasso|A501|
 |Acer|Picasso|ventana|A500|
 |Acer|Picasso|ventana|G100W|
@@ -849,6 +852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT702|AT702|AT702|
 |Aiwa|A81|AIWA_A81|A81|
 |Aiwa|A8_LTE|A8_LTE|A8_LTE|
+|Aiwa|AIWA|hongkong|AIWA 4K GOOGLE TV|
 |Aiwa|AIWA|lavender|4K SMART TV|
 |Aiwa|AIWA|stanford|SMART TV|
 |Aiwa|AIWA|zhongshan|4K SMART TV|
@@ -7274,6 +7278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVOFORCE1|FRC1-CBT|SEI800CB|FRC1-CBT|
 |EVOFORCE1|FRC1-CableCo|SEI800TV|FRC1-CableCo|
 |EVOFORCE1|FRC1-Eastlink|SEI800ESTL|FRC1-ESTL|
+|EVOFORCE1|FRC1-Eastlink|SEI800ESTL|FRC1-Eastlink|
 |EVOFORCE1|FRC1-MDCOM|SEI800MDCOM|FRC1-MDCOM|
 |EVOFORCE1|FRC1-MOBI|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|FRC1-Midco|SEI800MC|FRC1-Midco|
@@ -9230,6 +9235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Jasper Lake Chromebook|dedede_cheets|dedede|
 |Google|Intel Jasper Lake Chromebook|keeby_cheets|keeby|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
+|Google|Intel Meteorlake-U Chromebook|rex_cheets|rex|
 |Google|Intel Tiger Lake Chromebook|volteer_cheets|volteer|
 |Google|Mediatek MT8183 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
@@ -13973,7 +13979,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|50X3|barking|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
-|Infinix|APAC|kualakai|Infinix Google TV|
 |Infinix|GT 10 Pro|Infinix-X6739|Infinix X6739|
 |Infinix|GT 20 Pro|Infinix-X6871|Infinix X6871|
 |Infinix|HOT|Infinix-X689F|Infinix X689F|
@@ -14041,6 +14046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT5 Lite|Infinix-X559|Infinix X559|
 |Infinix|HOT5 Lite|X557|Infinix HOT 4|
 |Infinix|Hot 4 Pro|Infinix-X5511-13M|Infinix HOT 4 Pro|
+|Infinix|Infinix Google TV|kualakai|Infinix Google TV|
 |Infinix|Infinix HOT 10 Lite|Infinix-X657B|Infinix X657B|
 |Infinix|Infinix HOT 10S|Infinix-X689|Infinix X689|
 |Infinix|Infinix HOT 10S|Infinix-X689B|Infinix X689B|
@@ -15310,6 +15316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|HK 4K Google TV-A|keoneae|HK 4K Google TV-A|
 |KONKA|HK 4K Google TV-B|keoneae|HK 4K Google TV-B|
 |KONKA|HK 4K Google TV-C|keoneae|HK 4K Google TV-C|
+|KONKA|HK 4K Google TV-D|keoneae|HK 4K Google TV-D|
 |KONKA|HK Google TV-A|bandra|HK Google TV-A|
 |KONKA|HYUNDAI 4K Google TV-E|keoneae|HYUNDAI 4K Google TV-E|
 |KONKA|KC516|KC516|KC516|
@@ -15438,6 +15445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
+|KTCtv|INNO-HIT|hongkong|4K SMART TV|
 |KTCtv|INNO-HIT|lavender|4K SMART TV|
 |KTCtv|INNO-HIT|mountbaker|2K SMART TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
@@ -19068,6 +19076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|L66 LITE|L66_LITE|L66 LITE|
 |Logic Mobility|L66 PRO|L66_PRO|LOGIC L66 PRO|
 |Logic Mobility|L68|LOGIC_L68|LOGIC L68|
+|Logic Mobility|L68 Ultra|L68_Ultra|L68_Ultra|
 |Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
 |Logic Mobility|LOGIC L61|LOGIC_L61|LOGIC L61|
 |Logic Mobility|LOGIC L63|LOGIC_L63|LOGIC L63|
@@ -20625,6 +20634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|Mobigo2L|MobiGo2L|MobiGo2L|
 |MobiOcean|MOT102|MOT102|MOT102|
 |MobiVista|VisioTab_10|VisioTab_10|VisioTab 10|
+|Mobicel|P5|P5|P5|
 |Mobicell|4U|4U|4U|
 |Mobicell|ARC|ARC|ARC|
 |Mobicell|ASTRO|ASTRO|ASTRO|
@@ -21770,6 +21780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mpman|PH60|PH60|PH60|
 |Mpman|PH604|PH604|PH604|
 |Mswipe|WiseposGo|L200|L200|
+|Mtek|MTEK|hongkong|4K SMART TV|
 |Mtek|MTEK|lavender|4K SMART TV|
 |Mtek|MTEK|mountbaker|2K SMART TV|
 |Mtek|MTEK|stanford|2K SMART TV|
@@ -31018,6 +31029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|Android One S1|kaleido_sprout|S1|
 |Sharp|B10|SH-A01|SH-A01|
 |Sharp|BASIO active|DQO|SHG09|
+|Sharp|BASIO active2|ZKO|SHG12|
 |Sharp|BASIO2 SHV36|SHV36|SHV36|
 |Sharp|BG/BE|ebisu|AQUOS-TVX19A|
 |Sharp|BG/BE/CG|meguro|AQUOS-TVX19C|
@@ -32611,6 +32623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|Leap-S3|YDA|4K Google TV Box|
 |Strong|SRT41|YYT|4K Google TV Stick|
+|Strong|SRT420|ZRH|4K Hybrid STB|
 |Strong|Smart TV|longshan|AI PONT|
 |Strong|Strong|bangbae|Strong 4K Android TV|
 |Strong|Strong|komagome|Strong 2K Android TV|
@@ -38098,6 +38111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|NEXG N73|NEXG_N73|NEXG N73|
 |Walton|NEXG N8|NEXG_N8|NEXG N8|
 |Walton|NEXG_N25|NEXG_N25|NEXG N25|
+|Walton|ORBIT Y12|ORBIT_Y12|ORBIT Y12|
 |Walton|ORBIT Y70|ORBIT_Y70|ORBIT Y70|
 |Walton|Orbit M20|OrbitM20|Orbit M20|
 |Walton|Orbit Y11|Orbit_Y11|Orbit Y11|

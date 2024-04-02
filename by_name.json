@@ -8399,6 +8399,13 @@
    "model": "HT10"
   }
  ],
+ "Arguest Android UHD TV": [
+  {
+   "brand": "ARGUEST",
+   "device": "kunyang",
+   "model": "Arguest Android UHD TV"
+  }
+ ],
  "Listo22": [
   {
    "brand": "ARMADILOS",
@@ -10537,6 +10544,13 @@
    "model": "C01"
   }
  ],
+ "Acer Iconia T10-21M": [
+  {
+   "brand": "Acer",
+   "device": "Acer_Iconia_T10-21M",
+   "model": "Acer_Iconia_T10-21M"
+  }
+ ],
  "Acer One 10 T4-129L": [
   {
    "brand": "Acer",
@@ -12321,6 +12335,43 @@
    "brand": "Acer",
    "device": "da2",
    "model": "N3-2200"
+  }
+ ],
+ "P11": [
+  {
+   "brand": "Acer",
+   "device": "P11",
+   "model": "P11-11"
+  },
+  {
+   "brand": "DEXP",
+   "device": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Elephone",
+   "device": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Hyjoy",
+   "device": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel_P11",
+   "model": "itel P11"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "P11",
+   "model": "Panasonic P11"
+  },
+  {
+   "brand": "Symphony",
+   "device": "P11",
+   "model": "P11"
   }
  ],
  "Picasso": [
@@ -14358,6 +14409,11 @@
   }
  ],
  "AIWA": [
+  {
+   "brand": "Aiwa",
+   "device": "hongkong",
+   "model": "AIWA 4K GOOGLE TV"
+  },
   {
    "brand": "Aiwa",
    "device": "lavender",
@@ -18572,11 +18628,6 @@
    "brand": "Haier",
    "device": "nippori",
    "model": "CANDY Android TV 2K"
-  },
-  {
-   "brand": "Infinix",
-   "device": "kualakai",
-   "model": "Infinix Google TV"
   }
  ],
  "AQUA Android TV DVB": [
@@ -52476,38 +52527,6 @@
    "model": "N570"
   }
  ],
- "P11": [
-  {
-   "brand": "DEXP",
-   "device": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Elephone",
-   "device": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Hyjoy",
-   "device": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Itel",
-   "device": "itel_P11",
-   "model": "itel P11"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "P11",
-   "model": "Panasonic P11"
-  },
-  {
-   "brand": "Symphony",
-   "device": "P11",
-   "model": "P11"
-  }
- ],
  "P280": [
   {
    "brand": "DEXP",
@@ -61890,6 +61909,11 @@
    "brand": "EVOFORCE1",
    "device": "SEI800ESTL",
    "model": "FRC1-ESTL"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "device": "SEI800ESTL",
+   "model": "FRC1-Eastlink"
   }
  ],
  "FRC1-MDCOM": [
@@ -75543,6 +75567,13 @@
    "brand": "Google",
    "device": "nami_cheets",
    "model": "nami"
+  }
+ ],
+ "Intel Meteorlake-U Chromebook": [
+  {
+   "brand": "Google",
+   "device": "rex_cheets",
+   "model": "rex"
   }
  ],
  "Intel Tiger Lake Chromebook": [
@@ -103026,6 +103057,13 @@
    "model": "Infinix HOT 4 Pro"
   }
  ],
+ "Infinix Google TV": [
+  {
+   "brand": "Infinix",
+   "device": "kualakai",
+   "model": "Infinix Google TV"
+  }
+ ],
  "Infinix HOT 10 Lite": [
   {
    "brand": "Infinix",
@@ -110788,6 +110826,13 @@
    "model": "HK 4K Google TV-C"
   }
  ],
+ "HK 4K Google TV-D": [
+  {
+   "brand": "KONKA",
+   "device": "keoneae",
+   "model": "HK 4K Google TV-D"
+  }
+ ],
  "HK Google TV-A": [
   {
    "brand": "KONKA",
@@ -111576,6 +111621,11 @@
   }
  ],
  "INNO-HIT": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
   {
    "brand": "KTCtv",
    "device": "lavender",
@@ -132410,6 +132460,13 @@
    "model": "LOGIC L68"
   }
  ],
+ "L68 Ultra": [
+  {
+   "brand": "Logic Mobility",
+   "device": "L68_Ultra",
+   "model": "L68_Ultra"
+  }
+ ],
  "LOGIC L50T": [
   {
    "brand": "Logic Mobility",
@@ -142116,6 +142173,23 @@
    "model": "VisioTab 10"
   }
  ],
+ "P5": [
+  {
+   "brand": "Mobicel",
+   "device": "P5",
+   "model": "P5"
+  },
+  {
+   "brand": "Oale",
+   "device": "P5",
+   "model": "P5"
+  },
+  {
+   "brand": "Tecno",
+   "device": "up08_tecno_p5s",
+   "model": "TECNO P5S"
+  }
+ ],
  "4U": [
   {
    "brand": "Mobicell",
@@ -148718,6 +148792,11 @@
   }
  ],
  "MTEK": [
+  {
+   "brand": "Mtek",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
   {
    "brand": "Mtek",
    "device": "lavender",
@@ -156915,18 +156994,6 @@
    "brand": "Oale",
    "device": "Apex3",
    "model": "Apex3"
-  }
- ],
- "P5": [
-  {
-   "brand": "Oale",
-   "device": "P5",
-   "model": "P5"
-  },
-  {
-   "brand": "Tecno",
-   "device": "up08_tecno_p5s",
-   "model": "TECNO P5S"
   }
  ],
  "P5S": [
@@ -203543,6 +203610,13 @@
    "model": "SHG09"
   }
  ],
+ "BASIO active2": [
+  {
+   "brand": "Sharp",
+   "device": "ZKO",
+   "model": "SHG12"
+  }
+ ],
  "BASIO2 SHV36": [
   {
    "brand": "Sharp",
@@ -213014,6 +213088,13 @@
    "brand": "Strong",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "SRT420": [
+  {
+   "brand": "Strong",
+   "device": "ZRH",
+   "model": "4K Hybrid STB"
   }
  ],
  "Strong": [
@@ -245559,6 +245640,13 @@
    "brand": "Walton",
    "device": "NEXG_N25",
    "model": "NEXG N25"
+  }
+ ],
+ "ORBIT Y12": [
+  {
+   "brand": "Walton",
+   "device": "ORBIT_Y12",
+   "model": "ORBIT Y12"
   }
  ],
  "ORBIT Y70": [

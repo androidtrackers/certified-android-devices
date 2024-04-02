@@ -4391,6 +4391,11 @@
   },
   {
    "brand": "Aiwa",
+   "name": "AIWA",
+   "model": "AIWA 4K GOOGLE TV"
+  },
+  {
+   "brand": "Aiwa",
    "name": "Aiwa",
    "model": "4K SMART TV"
   },
@@ -4551,6 +4556,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "INNO-HIT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV 4K"
   },
@@ -4658,6 +4668,11 @@
    "brand": "Motorola",
    "name": "Motorola",
    "model": "MOTOROLA GOOGLE TV 4K ATSC"
+  },
+  {
+   "brand": "Mtek",
+   "name": "MTEK",
+   "model": "4K SMART TV"
   },
   {
    "brand": "NIKAI_PRO",
@@ -5265,6 +5280,58 @@
    "brand": "ARBOR",
    "name": "HT10",
    "model": "HT10"
+  }
+ ],
+ "kunyang": [
+  {
+   "brand": "ARGUEST",
+   "name": "Arguest Android UHD TV",
+   "model": "Arguest Android UHD TV"
+  },
+  {
+   "brand": "Altus",
+   "name": "Altus Android TV",
+   "model": "4K Pro TV"
+  },
+  {
+   "brand": "Altus",
+   "name": "Altus UHD Android TV",
+   "model": "UHD Pro TV"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik UHD Android TV",
+   "model": "Arcelik Android UHD TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko UHD Android TV",
+   "model": "Beko Android UHD TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig UHD Android TV",
+   "model": "Grundig Android UHD TV"
+  },
+  {
+   "brand": "Singer",
+   "name": "Singer Android TV",
+   "model": "Singer Android UHD TV"
   }
  ],
  "Listo22": [
@@ -6310,6 +6377,11 @@
    "brand": "KONKA",
    "name": "HK 4K Google TV-C",
    "model": "HK 4K Google TV-C"
+  },
+  {
+   "brand": "KONKA",
+   "name": "HK 4K Google TV-D",
+   "model": "HK 4K Google TV-D"
   },
   {
    "brand": "KONKA",
@@ -8740,6 +8812,13 @@
    "model": "C01"
   }
  ],
+ "Acer_Iconia_T10-21M": [
+  {
+   "brand": "Acer",
+   "name": "Acer Iconia T10-21M",
+   "model": "Acer_Iconia_T10-21M"
+  }
+ ],
  "AcerO10T4129L": [
   {
    "brand": "Acer",
@@ -10418,6 +10497,43 @@
    "brand": "Acer",
    "name": "MWND1",
    "model": "MWND1"
+  }
+ ],
+ "P11": [
+  {
+   "brand": "Acer",
+   "name": "P11",
+   "model": "P11-11"
+  },
+  {
+   "brand": "DEXP",
+   "name": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Elephone",
+   "name": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Haier",
+   "name": "Power P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Hyjoy",
+   "name": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "P11",
+   "model": "Panasonic P11"
+  },
+  {
+   "brand": "Symphony",
+   "name": "P11",
+   "model": "P11"
   }
  ],
  "ventana": [
@@ -16978,53 +17094,6 @@
    "brand": "Altron",
    "name": "OB_628",
    "model": "OB_628"
-  }
- ],
- "kunyang": [
-  {
-   "brand": "Altus",
-   "name": "Altus Android TV",
-   "model": "4K Pro TV"
-  },
-  {
-   "brand": "Altus",
-   "name": "Altus UHD Android TV",
-   "model": "UHD Pro TV"
-  },
-  {
-   "brand": "Arçelik",
-   "name": "Arçelik Android TV",
-   "model": "Arcelik Android TV"
-  },
-  {
-   "brand": "Arçelik",
-   "name": "Arçelik UHD Android TV",
-   "model": "Arcelik Android UHD TV"
-  },
-  {
-   "brand": "Beko",
-   "name": "Beko Android TV",
-   "model": "Beko Android TV"
-  },
-  {
-   "brand": "Beko",
-   "name": "Beko UHD Android TV",
-   "model": "Beko Android UHD TV"
-  },
-  {
-   "brand": "Grundig",
-   "name": "Grundig Android TV",
-   "model": "Grundig Android TV"
-  },
-  {
-   "brand": "Grundig",
-   "name": "Grundig UHD Android TV",
-   "model": "Grundig Android UHD TV"
-  },
-  {
-   "brand": "Singer",
-   "name": "Singer Android TV",
-   "model": "Singer Android UHD TV"
   }
  ],
  "sinchon": [
@@ -51614,38 +51683,6 @@
    "model": "N570"
   }
  ],
- "P11": [
-  {
-   "brand": "DEXP",
-   "name": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Elephone",
-   "name": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Haier",
-   "name": "Power P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Hyjoy",
-   "name": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "P11",
-   "model": "Panasonic P11"
-  },
-  {
-   "brand": "Symphony",
-   "name": "P11",
-   "model": "P11"
-  }
- ],
  "P280": [
   {
    "brand": "DEXP",
@@ -60464,6 +60501,11 @@
    "brand": "EVOFORCE1",
    "name": "FRC1-Eastlink",
    "model": "FRC1-ESTL"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-Eastlink",
+   "model": "FRC1-Eastlink"
   }
  ],
  "SEI800MDCOM": [
@@ -73777,6 +73819,13 @@
    "brand": "Google",
    "name": "Intel Kaby Lake U Chromebook",
    "model": "nami"
+  }
+ ],
+ "rex_cheets": [
+  {
+   "brand": "Google",
+   "name": "Intel Meteorlake-U Chromebook",
+   "model": "rex"
   }
  ],
  "volteer_cheets": [
@@ -101383,13 +101432,6 @@
    "model": "Infinity"
   }
  ],
- "kualakai": [
-  {
-   "brand": "Infinix",
-   "name": "APAC",
-   "model": "Infinix Google TV"
-  }
- ],
  "Infinix-X6739": [
   {
    "brand": "Infinix",
@@ -101852,6 +101894,13 @@
    "brand": "Infinix",
    "name": "Infinix X559",
    "model": "Infinix X559"
+  }
+ ],
+ "kualakai": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix Google TV",
+   "model": "Infinix Google TV"
   }
  ],
  "Infinix-X689": [
@@ -110348,6 +110397,11 @@
   {
    "brand": "Kalley",
    "name": "Silver P5",
+   "model": "P5"
+  },
+  {
+   "brand": "Mobicel",
+   "name": "P5",
    "model": "P5"
   },
   {
@@ -132294,6 +132348,13 @@
    "brand": "Logic Mobility",
    "name": "L68",
    "model": "LOGIC L68"
+  }
+ ],
+ "L68_Ultra": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L68 Ultra",
+   "model": "L68_Ultra"
   }
  ],
  "LOGIC_L50T": [
@@ -205497,6 +205558,13 @@
    "model": "SHG09"
   }
  ],
+ "ZKO": [
+  {
+   "brand": "Sharp",
+   "name": "BASIO active2",
+   "model": "SHG12"
+  }
+ ],
  "SHV36": [
   {
    "brand": "Sharp",
@@ -215539,6 +215607,13 @@
    "brand": "Strong",
    "name": "Leap-S3",
    "model": "4K Google TV Box"
+  }
+ ],
+ "ZRH": [
+  {
+   "brand": "Strong",
+   "name": "SRT420",
+   "model": "4K Hybrid STB"
   }
  ],
  "HP40A1": [
@@ -246933,6 +247008,13 @@
    "brand": "Walton",
    "name": "NEXG_N25",
    "model": "NEXG N25"
+  }
+ ],
+ "ORBIT_Y12": [
+  {
+   "brand": "Walton",
+   "name": "ORBIT Y12",
+   "model": "ORBIT Y12"
   }
  ],
  "ORBIT_Y70": [
