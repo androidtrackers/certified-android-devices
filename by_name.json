@@ -66540,6 +66540,13 @@
    "model": "F102"
   }
  ],
+ "F106 Pro ROW": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "F106_Pro",
+   "model": "F106 Pro"
+  }
+ ],
  "T8C": [
   {
    "brand": "FOXX",
@@ -100151,6 +100158,13 @@
    "brand": "Hyundai",
    "device": "HT0701L16",
    "model": "HT0701L16"
+  }
+ ],
+ "Hyundai Smartboard": [
+  {
+   "brand": "Hyundai",
+   "device": "HDIT_IFPD",
+   "model": "HDP"
   }
  ],
  "Hyundai TV": [
@@ -157837,6 +157851,13 @@
    "brand": "OnePlus",
    "device": "OnePlusNordCE",
    "model": "EB2103"
+  }
+ ],
+ "OnePlus Nord CE4": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5D3FL1",
+   "model": "CPH2613"
   }
  ],
  "OnePlus Nord N10 5G": [

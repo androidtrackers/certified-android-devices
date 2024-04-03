@@ -64951,6 +64951,13 @@
    "model": "F102"
   }
  ],
+ "F106_Pro": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "F106 Pro ROW",
+   "model": "F106 Pro"
+  }
+ ],
  "T8C": [
   {
    "brand": "FOXX",
@@ -99111,6 +99118,13 @@
    "brand": "Hyundai",
    "name": "Hyundai Koral_7XL",
    "model": "HT0701L16"
+  }
+ ],
+ "HDIT_IFPD": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai Smartboard",
+   "model": "HDP"
   }
  ],
  "HT1G50K": [
@@ -158439,6 +158453,13 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord CE 5G",
    "model": "EB2103"
+  }
+ ],
+ "OP5D3FL1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE4",
+   "model": "CPH2613"
   }
  ],
  "OnePlusN10": [

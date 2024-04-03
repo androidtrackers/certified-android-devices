@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-02
+Last sync is 2024-04-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7944,6 +7944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F101 Pro|F101_Pro|F101 Pro|
 |FOSSiBOT|F102|F102|F102|
 |FOSSiBOT|F102 ROW|F102|F102|
+|FOSSiBOT|F106 Pro ROW|F106_Pro|F106 Pro|
 |FOXX|T8C|T8C|T8C|
 |FOXXD|A2023|A2023|A2023|
 |FOXXD|A56|A56|A56|
@@ -13586,6 +13587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai Koral 7M3X|HT0703K|HT0703K16|
 |Hyundai|Hyundai Koral_7M4|HT0704K08|HT0704K08|
 |Hyundai|Hyundai Koral_7XL|HT0701L16|HT0701L16|
+|Hyundai|Hyundai Smartboard|HDIT_IFPD|HDP|
 |Hyundai|Hyundai TV|SW4H|Hyundai TV|
 |Hyundai|Hyundai android TV|hanyang|HYUNDAI 4K Android TV|
 |Hyundai|Hyundai_Eternity_G50|HT1G50K|Hyundai_Eternity_G50|
@@ -23301,6 +23303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord CE 3 Lite 5G|OP5958L1|CPH2467|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
+|OnePlus|OnePlus Nord CE4|OP5D3FL1|CPH2613|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2028|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2029|
