@@ -86420,6 +86420,11 @@
    "brand": "Toshiba",
    "name": "65Z870MS",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "55QMP",
+   "model": "VU TV FFM"
   }
  ],
  "VH777": [
@@ -195724,6 +195729,20 @@
    "model": "SM-S916W"
   }
  ],
+ "SC-51E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "model": "SC-51E"
+  }
+ ],
+ "SCG25": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "model": "SCG25"
+  }
+ ],
  "e1s": [
   {
    "brand": "Samsung",
@@ -195734,6 +195753,20 @@
    "brand": "Samsung",
    "name": "Galaxy S24",
    "model": "SM-S921N"
+  }
+ ],
+ "SC-52E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "model": "SC-52E"
+  }
+ ],
+ "SCG26": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "model": "SCG26"
   }
  ],
  "e3q": [

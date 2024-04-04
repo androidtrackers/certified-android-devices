@@ -151431,6 +151431,16 @@
    "model": "SM-S916W"
   },
   {
+   "device": "SC-51E",
+   "name": "Galaxy S24",
+   "model": "SC-51E"
+  },
+  {
+   "device": "SCG25",
+   "name": "Galaxy S24",
+   "model": "SCG25"
+  },
+  {
    "device": "e1q",
    "name": "Galaxy S24",
    "model": "SM-S9210"
@@ -151459,6 +151469,16 @@
    "device": "e1s",
    "name": "Galaxy S24",
    "model": "SM-S921N"
+  },
+  {
+   "device": "SC-52E",
+   "name": "Galaxy S24 Ultra",
+   "model": "SC-52E"
+  },
+  {
+   "device": "SCG26",
+   "name": "Galaxy S24 Ultra",
+   "model": "SCG26"
   },
   {
    "device": "e3q",
@@ -195305,6 +195325,11 @@
   {
    "device": "songshan",
    "name": "50CLED/55CLED/65CLED",
+   "model": "VU TV FFM"
+  },
+  {
+   "device": "hengshan",
+   "name": "55QMP",
    "model": "VU TV FFM"
   },
   {

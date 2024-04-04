@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-03
+Last sync is 2024-04-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29469,12 +29469,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23+|dm2q|SM-S916U|
 |Samsung|Galaxy S23+|dm2q|SM-S916U1|
 |Samsung|Galaxy S23+|dm2q|SM-S916W|
+|Samsung|Galaxy S24|SC-51E|SC-51E|
+|Samsung|Galaxy S24|SCG25|SCG25|
 |Samsung|Galaxy S24|e1q|SM-S9210|
 |Samsung|Galaxy S24|e1q|SM-S921U|
 |Samsung|Galaxy S24|e1q|SM-S921U1|
 |Samsung|Galaxy S24|e1q|SM-S921W|
 |Samsung|Galaxy S24|e1s|SM-S921B|
 |Samsung|Galaxy S24|e1s|SM-S921N|
+|Samsung|Galaxy S24 Ultra|SC-52E|SC-52E|
+|Samsung|Galaxy S24 Ultra|SCG26|SCG26|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S9280|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928B|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928N|
@@ -38042,6 +38046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vu Televisions|43UA|ikebukuro|AI PONT|
 |Vu Televisions|50CA|samseong|AI PONT|
 |Vu Televisions|50CLED/55CLED/65CLED|songshan|VU TV FFM|
+|Vu Televisions|55QMP|hengshan|VU TV FFM|
 |Vu Televisions|Android TV|longshan|AI PONT|
 |Vu Televisions|ULED|wuyishan|VU TV FFM|
 |Vu Televisions|VU 4K Google TV|keoneae|VU 4K Google TV|

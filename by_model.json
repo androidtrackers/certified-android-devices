@@ -200917,6 +200917,20 @@
    "device": "dm2q"
   }
  ],
+ "SC-51E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "SC-51E"
+  }
+ ],
+ "SCG25": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
+   "device": "SCG25"
+  }
+ ],
  "SM-S9210": [
   {
    "brand": "Samsung",
@@ -200957,6 +200971,20 @@
    "brand": "Samsung",
    "name": "Galaxy S24",
    "device": "e1s"
+  }
+ ],
+ "SC-52E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "SC-52E"
+  }
+ ],
+ "SCG26": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "device": "SCG26"
   }
  ],
  "SM-S9280": [
@@ -256337,6 +256365,11 @@
    "brand": "Vu Televisions",
    "name": "50CLED/55CLED/65CLED",
    "device": "songshan"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "55QMP",
+   "device": "hengshan"
   },
   {
    "brand": "Vu Televisions",

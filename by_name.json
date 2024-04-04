@@ -194761,6 +194761,16 @@
  "Galaxy S24": [
   {
    "brand": "Samsung",
+   "device": "SC-51E",
+   "model": "SC-51E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG25",
+   "model": "SCG25"
+  },
+  {
+   "brand": "Samsung",
    "device": "e1q",
    "model": "SM-S9210"
   },
@@ -194791,6 +194801,16 @@
   }
  ],
  "Galaxy S24 Ultra": [
+  {
+   "brand": "Samsung",
+   "device": "SC-52E",
+   "model": "SC-52E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG26",
+   "model": "SCG26"
+  },
   {
    "brand": "Samsung",
    "device": "e3q",
@@ -245216,6 +245236,13 @@
   {
    "brand": "Vu Televisions",
    "device": "songshan",
+   "model": "VU TV FFM"
+  }
+ ],
+ "55QMP": [
+  {
+   "brand": "Vu Televisions",
+   "device": "hengshan",
    "model": "VU TV FFM"
   }
  ],
