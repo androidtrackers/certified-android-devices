@@ -3858,6 +3858,11 @@
   },
   {
    "brand": "Hisense",
+   "name": "lushan-NF",
+   "device": "lushan"
+  },
+  {
+   "brand": "Hisense",
    "name": "songshan",
    "device": "songshan"
   },
@@ -8011,6 +8016,13 @@
    "brand": "Adonis",
    "name": "Adonis",
    "device": "seocho"
+  }
+ ],
+ "KidsPad10X": [
+  {
+   "brand": "Adreamer (Shenzhen)",
+   "name": "KidsPad10X",
+   "device": "KidsPad10X"
   }
  ],
  "KidsPad_7": [
@@ -17263,6 +17275,11 @@
    "device": "K10"
   },
   {
+   "brand": "Blu",
+   "name": "K10",
+   "device": "K0110"
+  },
+  {
    "brand": "FATARUS",
    "name": "K10",
    "device": "K10"
@@ -20914,6 +20931,38 @@
    "brand": "Azeyou",
    "name": "AT1014U",
    "device": "AT1014U"
+  }
+ ],
+ "T50": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1016BBK",
+   "device": "AT1016BBK"
+  },
+  {
+   "brand": "Kenxinda",
+   "name": "T50",
+   "device": "T50"
+  },
+  {
+   "brand": "TOSCIDO",
+   "name": "T50",
+   "device": "T50"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T50",
+   "device": "Teclast_T50_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T50",
+   "device": "Teclast_T50_ROW"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T50",
+   "device": "Teclast_T50_RUS"
   }
  ],
  "AT1031E": [
@@ -31385,6 +31434,23 @@
    "brand": "Blu",
    "name": "J10L",
    "device": "J0150"
+  }
+ ],
+ "J5": [
+  {
+   "brand": "Blu",
+   "name": "J5",
+   "device": "J0210"
+  },
+  {
+   "brand": "Cubot",
+   "name": "J5",
+   "device": "J5"
+  },
+  {
+   "brand": "QMobile",
+   "name": "J5",
+   "device": "J5"
   }
  ],
  "J6L": [
@@ -44579,18 +44645,6 @@
    "brand": "JVC",
    "name": "JVC J20",
    "device": "Cunda"
-  }
- ],
- "J5": [
-  {
-   "brand": "Cubot",
-   "name": "J5",
-   "device": "J5"
-  },
-  {
-   "brand": "QMobile",
-   "name": "J5",
-   "device": "J5"
   }
  ],
  "J8": [
@@ -111122,33 +111176,6 @@
    "device": "Nitro_55R"
   }
  ],
- "T50": [
-  {
-   "brand": "Kenxinda",
-   "name": "T50",
-   "device": "T50"
-  },
-  {
-   "brand": "TOSCIDO",
-   "name": "T50",
-   "device": "T50"
-  },
-  {
-   "brand": "Teclast",
-   "name": "T50",
-   "device": "Teclast_T50_EEA"
-  },
-  {
-   "brand": "Teclast",
-   "name": "T50",
-   "device": "Teclast_T50_ROW"
-  },
-  {
-   "brand": "Teclast",
-   "name": "T50",
-   "device": "Teclast_T50_RUS"
-  }
- ],
  "T50Y": [
   {
    "brand": "Kenxinda",
@@ -136949,6 +136976,13 @@
    "brand": "MTC",
    "name": "chile",
    "device": "S2000"
+  }
+ ],
+ "S5012": [
+  {
+   "brand": "MTN",
+   "name": "S5012",
+   "device": "S5012"
   }
  ],
  "MTN-TBW5982C3": [
@@ -222419,6 +222453,20 @@
    "brand": "Sunbio",
    "name": "SB-TM700",
    "device": "SB-TM700"
+  }
+ ],
+ "Mountain M8": [
+  {
+   "brand": "Sunelan",
+   "name": "Mountain M8",
+   "device": "Mountain_M8"
+  }
+ ],
+ "River X3": [
+  {
+   "brand": "Sunelan",
+   "name": "River X3",
+   "device": "River_X3"
   }
  ],
  "L2H_EDLA_GL": [

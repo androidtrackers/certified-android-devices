@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-06
+Last sync is 2024-04-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -667,6 +667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Admiral Overseas Corporation|O7|O7|O7|
 |Admiral Overseas Corporation|One|One|One|
 |Adonis|Adonis|seocho|Adonis 4K Android TV|
+|Adreamer (Shenzhen)|KidsPad10X|KidsPad10X|KidsPad10X|
 |Adreamer (Shenzhen)|KidsPad_7|KidsPad_7|KidsPad_7|
 |Adreamer (Shenzhen)|LeoPad 10X|LeoPad_10X|LeoPad 10X|
 |Adreamer (Shenzhen)|Libra PAD|Libra_PAD|Libra PAD|
@@ -2445,6 +2446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azeyou|AT1012U|AT1012U|AT1012U|
 |Azeyou|AT1014|AT1014|AT1014|
 |Azeyou|AT1014U|AT1014U|AT1014U|
+|Azeyou|AT1016BBK|AT1016BBK|T50|
 |Azeyou|AT1031E|AT1031E|AT1031E|
 |Azeyou|AT1031U|AT1031U|AT1031U|
 |Azeyou|AT701E|AT701E|AT701E|
@@ -3910,6 +3912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand_X|Grand_X|Grand X|
 |Blu|J10L|J0140|J10L|
 |Blu|J10L|J0150|J10L|
+|Blu|J5|J0210|J5|
 |Blu|J6L|J0110|J6L|
 |Blu|J6S|J210EQ|J6S|
 |Blu|J7|J0000LL_ATT_MX|J7|
@@ -3918,6 +3921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|J9L|J0082WW|J9L|
 |Blu|J9L|J0090WW|J9L|
 |Blu|J9L|J0092WW|J9L|
+|Blu|K10|K0110|K10|
 |Blu|LIFE ONE X|BLU_LIFE_ONE_X|BLU LIFE ONE X|
 |Blu|LIFE ONE X|Life_One_X|Life One X|
 |Blu|LIFE ONE X2|Life_One_X2|Life One X2|
@@ -11440,6 +11444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|laoshan_laser|laoshan|HAT4KDTV|
 |Hisense|lt971|LT971|LT971|
 |Hisense|lushan|lushan|SmartTV 4K FFM|
+|Hisense|lushan-NF|lushan|SmartTV 4K|
 |Hisense|songshan|songshan|SmartTV 4K|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
@@ -19592,6 +19597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
 |MTC|WasabiMango|shilin|WasabiMango4KAndroidTV|
 |MTC|chile|S2000|S2000-Z0C11|
+|MTN|S5012|S5012|S5012|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
 |MTN Group|8978P|MTN-8978P|MTN-8978P|
 |MTN Group|K919|K919|K919|
@@ -32762,6 +32768,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunbrite|huangshan_sunbrite|huangshan|SmartTV 4K|
+|Sunelan|Mountain M8|Mountain_M8|Mountain M8|
+|Sunelan|River X3|River_X3|River X3|
 |Sunmi|L2H_EDLA_GL|SUNMI-L2HNFC|L2H_EDLA_GL|
 |Sunmi|L2Ks|SUNMI-L2KsNFC|L2Ks_EDLA_GL|
 |Sunmi|L2s_PRO|SUNMI-L2s_PRO|L2s_PRO|

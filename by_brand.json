@@ -3525,6 +3525,11 @@
  ],
  "Adreamer (Shenzhen)": [
   {
+   "device": "KidsPad10X",
+   "name": "KidsPad10X",
+   "model": "KidsPad10X"
+  },
+  {
    "device": "KidsPad_7",
    "name": "KidsPad_7",
    "model": "KidsPad_7"
@@ -12639,6 +12644,11 @@
    "model": "AT1014U"
   },
   {
+   "device": "AT1016BBK",
+   "name": "AT1016BBK",
+   "model": "T50"
+  },
+  {
    "device": "AT1031E",
    "name": "AT1031E",
    "model": "AT1031E"
@@ -20142,6 +20152,11 @@
    "model": "J10L"
   },
   {
+   "device": "J0210",
+   "name": "J5",
+   "model": "J5"
+  },
+  {
    "device": "J0110",
    "name": "J6L",
    "model": "J6L"
@@ -20180,6 +20195,11 @@
    "device": "J0092WW",
    "name": "J9L",
    "model": "J9L"
+  },
+  {
+   "device": "K0110",
+   "name": "K10",
+   "model": "K10"
   },
   {
    "device": "BLU_LIFE_ONE_X",
@@ -59202,6 +59222,11 @@
    "device": "lushan",
    "name": "lushan",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "device": "lushan",
+   "name": "lushan-NF",
+   "model": "SmartTV 4K"
   },
   {
    "device": "songshan",
@@ -100782,6 +100807,13 @@
    "device": "S2000",
    "name": "chile",
    "model": "S2000-Z0C11"
+  }
+ ],
+ "MTN": [
+  {
+   "device": "S5012",
+   "name": "S5012",
+   "model": "S5012"
   }
  ],
  "MTN Group": [
@@ -168160,6 +168192,18 @@
    "device": "huangshan",
    "name": "huangshan_sunbrite",
    "model": "SmartTV 4K"
+  }
+ ],
+ "Sunelan": [
+  {
+   "device": "Mountain_M8",
+   "name": "Mountain M8",
+   "model": "Mountain M8"
+  },
+  {
+   "device": "River_X3",
+   "name": "River X3",
+   "model": "River X3"
   }
  ],
  "Sunmi": [

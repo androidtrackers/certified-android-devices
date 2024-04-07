@@ -11542,6 +11542,13 @@
    "model": "One"
   }
  ],
+ "KidsPad10X": [
+  {
+   "brand": "Adreamer (Shenzhen)",
+   "name": "KidsPad10X",
+   "model": "KidsPad10X"
+  }
+ ],
  "KidsPad_7": [
   {
    "brand": "Adreamer (Shenzhen)",
@@ -26077,6 +26084,13 @@
    "model": "AT1014U"
   }
  ],
+ "AT1016BBK": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1016BBK",
+   "model": "T50"
+  }
+ ],
  "AT1031E": [
   {
    "brand": "Azeyou",
@@ -36640,6 +36654,13 @@
    "model": "J10L"
   }
  ],
+ "J0210": [
+  {
+   "brand": "Blu",
+   "name": "J5",
+   "model": "J5"
+  }
+ ],
  "J0110": [
   {
    "brand": "Blu",
@@ -36694,6 +36715,13 @@
    "brand": "Blu",
    "name": "J9L",
    "model": "J9L"
+  }
+ ],
+ "K0110": [
+  {
+   "brand": "Blu",
+   "name": "K10",
+   "model": "K10"
   }
  ],
  "BLU_LIFE_ONE_X": [
@@ -86685,6 +86713,11 @@
    "brand": "Hisense",
    "name": "lushan",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "lushan-NF",
+   "model": "SmartTV 4K"
   }
  ],
  "vision2_1": [
@@ -135663,6 +135696,13 @@
    "brand": "MTC",
    "name": "chile",
    "model": "S2000-Z0C11"
+  }
+ ],
+ "S5012": [
+  {
+   "brand": "MTN",
+   "name": "S5012",
+   "model": "S5012"
   }
  ],
  "MTN-TBW5982C3": [
@@ -216463,6 +216503,20 @@
    "brand": "Sunbio",
    "name": "SB-TM700",
    "model": "SB-TM700"
+  }
+ ],
+ "Mountain_M8": [
+  {
+   "brand": "Sunelan",
+   "name": "Mountain M8",
+   "model": "Mountain M8"
+  }
+ ],
+ "River_X3": [
+  {
+   "brand": "Sunelan",
+   "name": "River X3",
+   "model": "River X3"
   }
  ],
  "SUNMI-L2HNFC": [

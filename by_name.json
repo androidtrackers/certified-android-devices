@@ -12882,6 +12882,13 @@
    "model": "Adonis 4K Android TV"
   }
  ],
+ "KidsPad10X": [
+  {
+   "brand": "Adreamer (Shenzhen)",
+   "device": "KidsPad10X",
+   "model": "KidsPad10X"
+  }
+ ],
  "KidsPad_7": [
   {
    "brand": "Adreamer (Shenzhen)",
@@ -22058,6 +22065,11 @@
    "model": "K10"
   },
   {
+   "brand": "Blu",
+   "device": "K0110",
+   "model": "K10"
+  },
+  {
    "brand": "FATARUS",
    "device": "K10",
    "model": "K10"
@@ -25585,6 +25597,13 @@
    "brand": "Azeyou",
    "device": "AT1014U",
    "model": "AT1014U"
+  }
+ ],
+ "AT1016BBK": [
+  {
+   "brand": "Azeyou",
+   "device": "AT1016BBK",
+   "model": "T50"
   }
  ],
  "AT1031E": [
@@ -36873,6 +36892,28 @@
    "brand": "Blu",
    "device": "J0150",
    "model": "J10L"
+  }
+ ],
+ "J5": [
+  {
+   "brand": "Blu",
+   "device": "J0210",
+   "model": "J5"
+  },
+  {
+   "brand": "Cubot",
+   "device": "J5",
+   "model": "J5"
+  },
+  {
+   "brand": "QMobile",
+   "device": "J5",
+   "model": "J5"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-J5",
+   "model": "TECNO-J5"
   }
  ],
  "J6L": [
@@ -50486,23 +50527,6 @@
    "brand": "Cubot",
    "device": "J20",
    "model": "J20"
-  }
- ],
- "J5": [
-  {
-   "brand": "Cubot",
-   "device": "J5",
-   "model": "J5"
-  },
-  {
-   "brand": "QMobile",
-   "device": "J5",
-   "model": "J5"
-  },
-  {
-   "brand": "Tecno",
-   "device": "TECNO-J5",
-   "model": "TECNO-J5"
   }
  ],
  "J8": [
@@ -89189,6 +89213,13 @@
    "brand": "Hisense",
    "device": "lushan",
    "model": "SmartTV 4K FFM"
+  }
+ ],
+ "lushan-NF": [
+  {
+   "brand": "Hisense",
+   "device": "lushan",
+   "model": "SmartTV 4K"
   }
  ],
  "songshan": [
@@ -135782,6 +135813,13 @@
    "brand": "MTC",
    "device": "S2000",
    "model": "S2000-Z0C11"
+  }
+ ],
+ "S5012": [
+  {
+   "brand": "MTN",
+   "device": "S5012",
+   "model": "S5012"
   }
  ],
  "5982C3": [
@@ -213945,6 +213983,20 @@
    "brand": "Sunbrite",
    "device": "huangshan",
    "model": "SmartTV 4K"
+  }
+ ],
+ "Mountain M8": [
+  {
+   "brand": "Sunelan",
+   "device": "Mountain_M8",
+   "model": "Mountain M8"
+  }
+ ],
+ "River X3": [
+  {
+   "brand": "Sunelan",
+   "device": "River_X3",
+   "model": "River X3"
   }
  ],
  "L2H_EDLA_GL": [
