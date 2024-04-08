@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-07
+Last sync is 2024-04-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -35345,6 +35345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 20s Pro 5G|TECNO-CK8nB|TECNO CK8nB|
 |Tecno|TECNO CAMON 30|TECNO-CL6|TECNO CL6|
 |Tecno|TECNO CAMON 30|TECNO-CL6k|TECNO CL6k|
+|Tecno|TECNO CAMON 30|TECNO-CL6s|TECNO CL6s|
 |Tecno|TECNO CAMON 30 5G|TECNO-CL7|TECNO CL7|
 |Tecno|TECNO CAMON 30 Premier 5G|TECNO-CL9|TECNO CL9|
 |Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
@@ -41982,6 +41983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |preo|PTABP10|PTABP10|PTABP10|
 |preo|PTAB_P8|PTAB_P8|PTAB_P8|
+|prowise|Prowise Touchscreen Ten|ifpd|prowise|
 |prowise|Prowise Touchscreen Ultra|ifpd|prowise|
 |qunyiCO|Y10|Y10|Y10|
 |qunyiCO|Y10_1|Y10_1|Y10|

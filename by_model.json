@@ -239490,6 +239490,13 @@
    "device": "TECNO-CL6k"
   }
  ],
+ "TECNO CL6s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30",
+   "device": "TECNO-CL6s"
+  }
+ ],
  "TECNO CL7": [
   {
    "brand": "Tecno",
@@ -281181,6 +281188,11 @@
   }
  ],
  "prowise": [
+  {
+   "brand": "prowise",
+   "name": "Prowise Touchscreen Ten",
+   "device": "ifpd"
+  },
   {
    "brand": "prowise",
    "name": "Prowise Touchscreen Ultra",

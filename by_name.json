@@ -228648,6 +228648,11 @@
    "brand": "Tecno",
    "device": "TECNO-CL6k",
    "model": "TECNO CL6k"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CL6s",
+   "model": "TECNO CL6s"
   }
  ],
  "TECNO CAMON 30 5G": [
@@ -267519,6 +267524,13 @@
    "brand": "preo",
    "device": "PTAB_P8",
    "model": "PTAB_P8"
+  }
+ ],
+ "Prowise Touchscreen Ten": [
+  {
+   "brand": "prowise",
+   "device": "ifpd",
+   "model": "prowise"
   }
  ],
  "Prowise Touchscreen Ultra": [
