@@ -23,6 +23,11 @@
    "model": "DIW362P 1U1"
   },
   {
+   "device": "DIW377-1u1",
+   "name": "1&1 TV BOX",
+   "model": "DIW377 1u1"
+  },
+  {
    "device": "diw387_1u1",
    "name": "1&1 TV Box",
    "model": "DIW387 1U1"
@@ -6899,6 +6904,11 @@
   }
  ],
  "AngelTech": [
+  {
+   "device": "E109GCM",
+   "name": "E109GCM",
+   "model": "E109GCM"
+  },
   {
    "device": "P80",
    "name": "P80",
@@ -22141,6 +22151,11 @@
    "device": "nagata",
    "name": "Dreamstar 2K SMART TV",
    "model": "Dreamstar 2K SMART TV"
+  },
+  {
+   "device": "marina",
+   "name": "Dreamstar 4K SMART TV",
+   "model": "Dreamstar 4K SMART TV"
   },
   {
    "device": "marina",
@@ -105963,6 +105978,11 @@
   },
   {
    "device": "beaudry",
+   "name": "Miramage Smart Display",
+   "model": "Miramage Smart Display"
+  },
+  {
+   "device": "beaudry",
    "name": "TV3223HDA11SMARTG",
    "model": "Miramage AndroidTV"
   },
@@ -139669,6 +139689,11 @@
    "model": "SCHNEIDER 2K Android TV"
   },
   {
+   "device": "beaudry",
+   "name": "SCHNEIDER AndroidTV",
+   "model": "SCHNEIDER AndroidTV"
+  },
+  {
    "device": "Wave_3",
    "name": "Wave 3",
    "model": "Wave 3"
@@ -146018,6 +146043,11 @@
    "model": "SM-E146B"
   },
   {
+   "device": "m15x",
+   "name": "Galaxy F15 5G",
+   "model": "SM-E156B"
+  },
+  {
    "device": "f22",
    "name": "Galaxy F22",
    "model": "SM-E225F"
@@ -151480,6 +151510,11 @@
   {
    "device": "e1q",
    "name": "Galaxy S24",
+   "model": "SM-S921Q"
+  },
+  {
+   "device": "e1q",
+   "name": "Galaxy S24",
    "model": "SM-S921U"
   },
   {
@@ -151526,6 +151561,11 @@
    "device": "e3q",
    "name": "Galaxy S24 Ultra",
    "model": "SM-S928N"
+  },
+  {
+   "device": "e3q",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928Q"
   },
   {
    "device": "e3q",
@@ -189781,6 +189821,11 @@
    "model": "CONSTELLATION X"
   },
   {
+   "device": "VTL-202302",
+   "name": "METAFLIP",
+   "model": "VTL-202302"
+  },
+  {
    "device": "odin",
    "name": "Signature Touch",
    "model": "Signature Touch"
@@ -203188,6 +203233,11 @@
    "model": "5G UG Phone U23"
   },
   {
+   "device": "P720F02",
+   "name": "5G UG Phone U23",
+   "model": "ZTE 7160N"
+  },
+  {
    "device": "P450A01",
    "name": "901ZT",
    "model": "901ZT"
@@ -206403,6 +206453,11 @@
    "model": "Nubia 8031"
   },
   {
+   "device": "P745F01",
+   "name": "Nubia Flip 5G",
+   "model": "NX724J"
+  },
+  {
    "device": "P731F50",
    "name": "Nubia N11",
    "model": "Nubia N11"
@@ -206816,6 +206871,11 @@
    "device": "NX709J-UN",
    "name": "REDMAGIC 7Pro",
    "model": "NX709J"
+  },
+  {
+   "device": "NX769J",
+   "name": "REDMAGIC 9",
+   "model": "NX769J"
   },
   {
    "device": "NX769J",
@@ -208548,6 +208608,11 @@
    "model": "Z6530V"
   },
   {
+   "device": "Z6561S",
+   "name": "Z6561J",
+   "model": "Z6561J"
+  },
+  {
    "device": "nice",
    "name": "Z660G",
    "model": "Z660G"
@@ -209423,6 +209488,11 @@
    "model": "ZTE A2022PG"
   },
   {
+   "device": "P616F02",
+   "name": "ZTE Axon 60",
+   "model": "Z2356"
+  },
+  {
    "device": "msm8952_64",
    "name": "ZTE B2017",
    "model": "ZTE B2017"
@@ -209808,6 +209878,11 @@
    "model": "ZTE Blade A34"
   },
   {
+   "device": "P963F10",
+   "name": "ZTE Blade A35 Lite",
+   "model": "ZTE Blade A35 Lite"
+  },
+  {
    "device": "Z5157",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
@@ -210133,6 +210208,11 @@
    "model": "ZTE 8050"
   },
   {
+   "device": "P606F08",
+   "name": "ZTE Blade V50 Design",
+   "model": "nubia 8050"
+  },
+  {
    "device": "P720F03",
    "name": "ZTE Blade V50 Design 5G",
    "model": "ZTE 8150N"
@@ -210453,6 +210533,11 @@
    "model": "NX724J"
   },
   {
+   "device": "P963F11",
+   "name": "nubia Music",
+   "model": "Z2353"
+  },
+  {
    "device": "P820F03",
    "name": "nubia Neo 2 5G",
    "model": "Z2352N"
@@ -210473,6 +210558,11 @@
    "model": "NX651J"
   },
   {
+   "device": "P606F09",
+   "name": "nubia V50 Vita",
+   "model": "nubia 8550"
+  },
+  {
    "device": "NX501",
    "name": "nubia Z5",
    "model": "nubia Z5"
@@ -210489,6 +210579,11 @@
   },
   {
    "device": "PQ83A01",
+   "name": "nubia Z60 Ultra",
+   "model": "NX721J"
+  },
+  {
+   "device": "PQ83F01",
    "name": "nubia Z60 Ultra",
    "model": "NX721J"
   },

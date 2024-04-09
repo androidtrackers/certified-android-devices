@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-08
+Last sync is 2024-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9,6 +9,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |||FJL21|FJL21|
 |||hws7721g|MediaPad 7 Youth 2|
 |1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
+|1&1|1&1 TV BOX|DIW377-1u1|DIW377 1u1|
 |1&1|1&1 TV Box|diw387_1u1|DIW387 1U1|
 |1&1|DIW387-1&1|diw387_1u1|DIW387 1U1|
 |10.or|10or_G2|G2|10or G2|
@@ -1320,6 +1321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Andersson|TBQ8322|TBQ8322|TBQ8322|
 |Andersson|TBQ_10321|TBQ_10321|TBQ_10321|
 |Andersson|TBX10|TBX10|TBX10|
+|AngelTech|E109GCM|E109GCM|E109GCM|
 |AngelTech|P80|P80|P80|
 |Antel|DV8547|DV8547|DV8547|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
@@ -4295,6 +4297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Columbia|marina|Apollo Premium4K TV|
 |CAIXUN|Columbia|patrick|Aiplus4K|
 |CAIXUN|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
+|CAIXUN|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
 |CAIXUN|EXPRESS|marina|Apollo Premium4K TV|
 |CAIXUN|Europe|martin|Caixun Android TV|
 |CAIXUN|Europe|martin|SE 2K Android Monitor|
@@ -20596,6 +20599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mirage|MI-SO-81T|MI-SO-81T|MI-SO-81T|
 |Miramage|MF3D2211|MF3D2211|MF3D2211|
 |Miramage|MTJ-X43FLS|barking|Miramage Smart Display|
+|Miramage|Miramage Smart Display|beaudry|Miramage Smart Display|
 |Miramage|TV3223HDA11SMARTG|beaudry|Miramage AndroidTV|
 |Miramage|TV5023UHDA11SMARTG|barking|Miramage AndroidTV|
 |Mito|4K Smart TV|pioneer|4K PA Smart TV|
@@ -27143,6 +27147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SCHNEIDER|GMS55A1G|barking|SCHNEIDER AndroidTV|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
+|SCHNEIDER|SCHNEIDER AndroidTV|beaudry|SCHNEIDER AndroidTV|
 |SCHNEIDER|Wave 3|Wave_3|Wave 3|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
 |SCIENTIA|eWs10164T|eWs10164T|eWs10164T|
@@ -28386,6 +28391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F13|m13|SM-E135F|
 |Samsung|Galaxy F14|a05s|SM-E145F|
 |Samsung|Galaxy F14 5G|m14x|SM-E146B|
+|Samsung|Galaxy F15 5G|m15x|SM-E156B|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F34 5G|m34x|SM-E346B|
@@ -29478,6 +29484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S24|SC-51E|SC-51E|
 |Samsung|Galaxy S24|SCG25|SCG25|
 |Samsung|Galaxy S24|e1q|SM-S9210|
+|Samsung|Galaxy S24|e1q|SM-S921Q|
 |Samsung|Galaxy S24|e1q|SM-S921U|
 |Samsung|Galaxy S24|e1q|SM-S921U1|
 |Samsung|Galaxy S24|e1q|SM-S921W|
@@ -29488,6 +29495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S24 Ultra|e3q|SM-S9280|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928B|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928N|
+|Samsung|Galaxy S24 Ultra|e3q|SM-S928Q|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928U|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928U1|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S928W|
@@ -36953,6 +36961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertu|Aster T|alexa|Aster T|
 |Vertu|Constellation V|gambit|Constellation V|
 |Vertu|Constellation X|tron|CONSTELLATION X|
+|Vertu|METAFLIP|VTL-202302|VTL-202302|
 |Vertu|Signature Touch|odin|Signature Touch|
 |Vertu|Signature Touch|titan|Signature Touch|
 |Vertu|Signature Touch|titan|Signature Touch L|
@@ -39560,6 +39569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|009Z|bladeplus|ZTE V886J|
 |ZTE|402ZT|ZTE-402ZT|402ZT|
 |ZTE|5G UG Phone U23|P720F02|5G UG Phone U23|
+|ZTE|5G UG Phone U23|P720F02|ZTE 7160N|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
 |ZTE|A001ZT|Z6202S|A001ZT|
@@ -40203,6 +40213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Nubia 6010|P963F07|Nubia 6010|
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia 8031|P963F06|Nubia 8031|
+|ZTE|Nubia Flip 5G|P745F01|NX724J|
 |ZTE|Nubia N11|P731F50|Nubia N11|
 |ZTE|Nubia N40|P963F50_A|Nubia N40|
 |ZTE|Nubia N40|P963F50_A|ZTE Blade A51 Lite|
@@ -40286,6 +40297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|RED MAGIC 5G|NX659J|NX659J|
 |ZTE|REDMAGIC 7|NX709J-EEA|NX709J|
 |ZTE|REDMAGIC 7Pro|NX709J-UN|NX709J|
+|ZTE|REDMAGIC 9|NX769J|NX769J|
 |ZTE|REDMAGIC 9 Pro|NX769J|NX769J|
 |ZTE|Racer|mooncake|Carl|
 |ZTE|Racer|mooncake|MTC 916|
@@ -40632,6 +40644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z6530M|Z6530|Z6530M|
 |ZTE|Z6530V|Z6530|Z6530V|
+|ZTE|Z6561J|Z6561S|Z6561J|
 |ZTE|Z660G|nice|Z660G|
 |ZTE|Z6621O|Z6621O|Z6621O|
 |ZTE|Z665C|seanplus|Z665C|
@@ -40807,6 +40820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Axon 20 5G|P725A02|ZTE A2121G|
 |ZTE|ZTE Axon 30 Pro 5G|P875A12|ZTE A2022P|
 |ZTE|ZTE Axon 30 Ultra 5G|P875A11|ZTE A2022PG|
+|ZTE|ZTE Axon 60|P616F02|Z2356|
 |ZTE|ZTE B2017|msm8952_64|ZTE B2017|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
@@ -40884,6 +40898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A33s|P963F93|ZTE Blade A33s|
 |ZTE|ZTE Blade A34|P963F94|ZTE Blade A34|
 |ZTE|ZTE Blade A34|P963F94_A|ZTE Blade A34|
+|ZTE|ZTE Blade A35 Lite|P963F10|ZTE Blade A35 Lite|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -40949,6 +40964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V2020 Vita|P671F70|ZTE 8000|
 |ZTE|ZTE Blade V41 Smart|P606F05|ZTE A7050|
 |ZTE|ZTE Blade V50 Design|P606F08|ZTE 8050|
+|ZTE|ZTE Blade V50 Design|P606F08|nubia 8050|
 |ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
 |ZTE|ZTE Blade V50 Vita|P606F09|ZTE 8550|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
@@ -41013,14 +41029,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia Blade A72|Z6255|Z6255CA|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
+|ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Play|NX651J|NX651J|
+|ZTE|nubia V50 Vita|P606F09|nubia 8550|
 |ZTE|nubia Z5|NX501|nubia Z5|
 |ZTE|nubia Z50 Ultra|PQ82A11|NX712J|
 |ZTE|nubia Z50S Pro|PQ82A02|NX713J|
 |ZTE|nubia Z60 Ultra|PQ83A01|NX721J|
+|ZTE|nubia Z60 Ultra|PQ83F01|NX721J|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|

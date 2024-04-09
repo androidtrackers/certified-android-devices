@@ -5773,6 +5773,13 @@
    "model": "DIW362P 1U1"
   }
  ],
+ "1&1 TV BOX": [
+  {
+   "brand": "1&1",
+   "device": "DIW377-1u1",
+   "model": "DIW377 1u1"
+  }
+ ],
  "1&1 TV Box": [
   {
    "brand": "1&1",
@@ -17844,6 +17851,13 @@
    "brand": "Andersson",
    "device": "TBX10",
    "model": "TBX10"
+  }
+ ],
+ "E109GCM": [
+  {
+   "brand": "AngelTech",
+   "device": "E109GCM",
+   "model": "E109GCM"
   }
  ],
  "P80": [
@@ -40039,6 +40053,13 @@
    "brand": "CAIXUN",
    "device": "nagata",
    "model": "Dreamstar 2K SMART TV"
+  }
+ ],
+ "Dreamstar 4K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "marina",
+   "model": "Dreamstar 4K SMART TV"
   }
  ],
  "EXPRESS": [
@@ -141980,6 +142001,13 @@
    "model": "Miramage Smart Display"
   }
  ],
+ "Miramage Smart Display": [
+  {
+   "brand": "Miramage",
+   "device": "beaudry",
+   "model": "Miramage Smart Display"
+  }
+ ],
  "TV3223HDA11SMARTG": [
   {
    "brand": "Miramage",
@@ -181801,6 +181829,13 @@
    "model": "SCHNEIDER 2K Android TV"
   }
  ],
+ "SCHNEIDER AndroidTV": [
+  {
+   "brand": "SCHNEIDER",
+   "device": "beaudry",
+   "model": "SCHNEIDER AndroidTV"
+  }
+ ],
  "Wave 3": [
   {
    "brand": "SCHNEIDER",
@@ -188797,6 +188832,13 @@
    "model": "SM-E146B"
   }
  ],
+ "Galaxy F15 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m15x",
+   "model": "SM-E156B"
+  }
+ ],
  "Galaxy F22": [
   {
    "brand": "Samsung",
@@ -194815,6 +194857,11 @@
   {
    "brand": "Samsung",
    "device": "e1q",
+   "model": "SM-S921Q"
+  },
+  {
+   "brand": "Samsung",
+   "device": "e1q",
    "model": "SM-S921U"
   },
   {
@@ -194863,6 +194910,11 @@
    "brand": "Samsung",
    "device": "e3q",
    "model": "SM-S928N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "e3q",
+   "model": "SM-S928Q"
   },
   {
    "brand": "Samsung",
@@ -238291,6 +238343,13 @@
    "model": "CONSTELLATION X"
   }
  ],
+ "METAFLIP": [
+  {
+   "brand": "Vertu",
+   "device": "VTL-202302",
+   "model": "VTL-202302"
+  }
+ ],
  "Signature Touch": [
   {
    "brand": "Vertu",
@@ -252894,6 +252953,11 @@
    "brand": "ZTE",
    "device": "P720F02",
    "model": "5G UG Phone U23"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P720F02",
+   "model": "ZTE 7160N"
   }
  ],
  "901ZT": [
@@ -256718,6 +256782,13 @@
    "model": "Nubia 8031"
   }
  ],
+ "Nubia Flip 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P745F01",
+   "model": "NX724J"
+  }
+ ],
  "Nubia N11": [
   {
    "brand": "ZTE",
@@ -257232,6 +257303,13 @@
    "brand": "ZTE",
    "device": "NX709J-UN",
    "model": "NX709J"
+  }
+ ],
+ "REDMAGIC 9": [
+  {
+   "brand": "ZTE",
+   "device": "NX769J",
+   "model": "NX769J"
   }
  ],
  "REDMAGIC 9 Pro": [
@@ -259095,6 +259173,13 @@
    "model": "Z6530V"
   }
  ],
+ "Z6561J": [
+  {
+   "brand": "ZTE",
+   "device": "Z6561S",
+   "model": "Z6561J"
+  }
+ ],
  "Z660G": [
   {
    "brand": "ZTE",
@@ -260286,6 +260371,13 @@
    "model": "ZTE A2022PG"
   }
  ],
+ "ZTE Axon 60": [
+  {
+   "brand": "ZTE",
+   "device": "P616F02",
+   "model": "Z2356"
+  }
+ ],
  "ZTE B2017": [
   {
    "brand": "ZTE",
@@ -260795,6 +260887,13 @@
    "model": "ZTE Blade A34"
   }
  ],
+ "ZTE Blade A35 Lite": [
+  {
+   "brand": "ZTE",
+   "device": "P963F10",
+   "model": "ZTE Blade A35 Lite"
+  }
+ ],
  "ZTE Blade A3v": [
   {
    "brand": "ZTE",
@@ -261210,6 +261309,11 @@
    "brand": "ZTE",
    "device": "P606F08",
    "model": "ZTE 8050"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P606F08",
+   "model": "nubia 8050"
   }
  ],
  "ZTE Blade V50 Design 5G": [
@@ -261644,6 +261748,13 @@
    "model": "NX724J"
   }
  ],
+ "nubia Music": [
+  {
+   "brand": "ZTE",
+   "device": "P963F11",
+   "model": "Z2353"
+  }
+ ],
  "nubia Neo 2 5G": [
   {
    "brand": "ZTE",
@@ -261672,6 +261783,13 @@
    "model": "NX651J"
   }
  ],
+ "nubia V50 Vita": [
+  {
+   "brand": "ZTE",
+   "device": "P606F09",
+   "model": "nubia 8550"
+  }
+ ],
  "nubia Z5": [
   {
    "brand": "ZTE",
@@ -261697,6 +261815,11 @@
   {
    "brand": "ZTE",
    "device": "PQ83A01",
+   "model": "NX721J"
+  },
+  {
+   "brand": "ZTE",
+   "device": "PQ83F01",
    "model": "NX721J"
   }
  ],

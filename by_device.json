@@ -37,6 +37,13 @@
    "model": "DIW362P 1U1"
   }
  ],
+ "DIW377-1u1": [
+  {
+   "brand": "1&1",
+   "name": "1&1 TV BOX",
+   "model": "DIW377 1u1"
+  }
+ ],
  "diw387_1u1": [
   {
    "brand": "1&1",
@@ -17148,6 +17155,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Dreamstar 4K SMART TV",
+   "model": "Dreamstar 4K SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "EXPRESS",
    "model": "Apollo Premium4K TV"
   },
@@ -17616,6 +17628,13 @@
    "brand": "Andersson",
    "name": "TBX10",
    "model": "TBX10"
+  }
+ ],
+ "E109GCM": [
+  {
+   "brand": "AngelTech",
+   "name": "E109GCM",
+   "model": "E109GCM"
   }
  ],
  "P80": [
@@ -41156,8 +41175,18 @@
   },
   {
    "brand": "Miramage",
+   "name": "Miramage Smart Display",
+   "model": "Miramage Smart Display"
+  },
+  {
+   "brand": "Miramage",
    "name": "TV3223HDA11SMARTG",
    "model": "Miramage AndroidTV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER AndroidTV",
+   "model": "SCHNEIDER AndroidTV"
   },
   {
    "brand": "Seleco",
@@ -118691,6 +118720,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S24",
+   "model": "SM-S921Q"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24",
    "model": "SM-S921U"
   },
   {
@@ -188995,6 +189029,23 @@
    "model": "SM-M146B"
   }
  ],
+ "m15x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F15 5G",
+   "model": "SM-E156B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M15 5G",
+   "model": "SM-E156B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M15 5G",
+   "model": "SM-M156B"
+  }
+ ],
  "f22": [
   {
    "brand": "Samsung",
@@ -191573,18 +191624,6 @@
    "brand": "Samsung",
    "name": "Galaxy M12",
    "model": "SM-M127N"
-  }
- ],
- "m15x": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M15 5G",
-   "model": "SM-E156B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M15 5G",
-   "model": "SM-M156B"
   }
  ],
  "m20": [
@@ -195824,6 +195863,11 @@
    "brand": "Samsung",
    "name": "Galaxy S24 Ultra",
    "model": "SM-S928N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 Ultra",
+   "model": "SM-S928Q"
   },
   {
    "brand": "Samsung",
@@ -239919,6 +239963,13 @@
    "model": "CONSTELLATION X"
   }
  ],
+ "VTL-202302": [
+  {
+   "brand": "Vertu",
+   "name": "METAFLIP",
+   "model": "VTL-202302"
+  }
+ ],
  "titan": [
   {
    "brand": "Vertu",
@@ -255855,6 +255906,11 @@
   },
   {
    "brand": "ZTE",
+   "name": "5G UG Phone U23",
+   "model": "ZTE 7160N"
+  },
+  {
+   "brand": "ZTE",
    "name": "ZTE 7160N",
    "model": "ZTE 7160N"
   }
@@ -255961,6 +256017,11 @@
    "brand": "ZTE",
    "name": "A302ZT",
    "model": "A302ZT"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Z6561J",
+   "model": "Z6561J"
   }
  ],
  "Z6576S": [
@@ -259678,6 +259739,13 @@
    "model": "ZTE 8030RU"
   }
  ],
+ "P745F01": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia Flip 5G",
+   "model": "NX724J"
+  }
+ ],
  "P731F50": [
   {
    "brand": "ZTE",
@@ -260195,6 +260263,11 @@
   }
  ],
  "NX769J": [
+  {
+   "brand": "ZTE",
+   "name": "REDMAGIC 9",
+   "model": "NX769J"
+  },
   {
    "brand": "ZTE",
    "name": "REDMAGIC 9 Pro",
@@ -262238,6 +262311,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade V50 Design",
    "model": "ZTE 8050"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V50 Design",
+   "model": "nubia 8050"
   }
  ],
  "P633F10": [
@@ -262638,6 +262716,13 @@
    "model": "ZTE A2022P"
   }
  ],
+ "P616F02": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 60",
+   "model": "Z2356"
+  }
+ ],
  "P809F12": [
   {
    "brand": "ZTE",
@@ -262893,6 +262978,13 @@
    "model": "ZTE Blade A34"
   }
  ],
+ "P963F10": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A35 Lite",
+   "model": "ZTE Blade A35 Lite"
+  }
+ ],
  "Z5157": [
   {
    "brand": "ZTE",
@@ -263134,6 +263226,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade V50 Vita",
    "model": "ZTE 8550"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia V50 Vita",
+   "model": "nubia 8550"
   }
  ],
  "P840V80": [
@@ -263428,6 +263525,13 @@
    "model": "Z6255CA"
   }
  ],
+ "P963F11": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Music",
+   "model": "Z2353"
+  }
+ ],
  "P820F03": [
   {
    "brand": "ZTE",
@@ -263464,6 +263568,13 @@
   }
  ],
  "PQ83A01": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z60 Ultra",
+   "model": "NX721J"
+  }
+ ],
+ "PQ83F01": [
   {
    "brand": "ZTE",
    "name": "nubia Z60 Ultra",
