@@ -5874,6 +5874,13 @@
    "model": "G2"
   }
  ],
+ "2E 4K Google TV": [
+  {
+   "brand": "2E (ERC)",
+   "device": "keoneae",
+   "model": "2E 4K Google TV"
+  }
+ ],
  "G706": [
   {
    "brand": "3222222 Satelital",
@@ -7076,6 +7083,11 @@
    "brand": "AHA(A)",
    "device": "AHA_ULTRA_RK3588",
    "model": "Hybrid_8600"
+  },
+  {
+   "brand": "HORIZON",
+   "device": "65W72B",
+   "model": "W72B"
   },
   {
    "brand": "iBoard",
@@ -9050,6 +9062,13 @@
    "brand": "ATEAM",
    "device": "A801",
    "model": "A801"
+  }
+ ],
+ "A8GC": [
+  {
+   "brand": "ATEC",
+   "device": "ATEC_IWB",
+   "model": "A8GC"
   }
  ],
  "APD3": [
@@ -15133,6 +15152,13 @@
    "model": "S5710"
   }
  ],
+ "PA650": [
+  {
+   "brand": "Alited",
+   "device": "PA650",
+   "model": "PA650"
+  }
+ ],
  "AllCall_Madrid": [
   {
    "brand": "AllCall",
@@ -16888,13 +16914,6 @@
    "model": "Allente Streaming Hub"
   }
  ],
- "PrimeOne": [
-  {
-   "brand": "Allente",
-   "device": "PrimeOne",
-   "model": "PrimeOne"
-  }
- ],
  "M721": [
   {
    "brand": "Allfine",
@@ -16914,6 +16933,13 @@
    "brand": "Alliance",
    "device": "DTP9731",
    "model": "DTP9731"
+  }
+ ],
+ "PrimeOne": [
+  {
+   "brand": "Allnet",
+   "device": "PrimeOne",
+   "model": "PrimeOne"
   }
  ],
  "PSY7020SKD": [
@@ -45036,6 +45062,13 @@
    "model": "P1150"
   }
  ],
+ "CIGSEI100": [
+  {
+   "brand": "CignalPlayTV",
+   "device": "CIGSEI100",
+   "model": "CIGSEI100"
+  }
+ ],
  "CS20": [
   {
    "brand": "Ciontek",
@@ -46472,6 +46505,13 @@
    "brand": "ViewSonic",
    "device": "Q5",
    "model": "Viewphone Q5"
+  }
+ ],
+ "Q5 PRO": [
+  {
+   "brand": "Compaq",
+   "device": "Q5_PRO",
+   "model": "Q5_PRO"
   }
  ],
  "Q6": [
@@ -51238,6 +51278,13 @@
    "model": "CS45XA_EEA"
   }
  ],
+ "ORSY_Controller": [
+  {
+   "brand": "Cyrus",
+   "device": "ORSY_Controller",
+   "model": "ORSY_Controller"
+  }
+ ],
  "D5L": [
   {
    "brand": "D-Tech",
@@ -55330,6 +55377,13 @@
    "brand": "DigiKing",
    "device": "capitolhill",
    "model": "Digiking 2K Google TV"
+  }
+ ],
+ "Digiking 4K Google TV-A": [
+  {
+   "brand": "DigiKing",
+   "device": "keoneae",
+   "model": "Digiking 4K Google TV-A"
   }
  ],
  "10542843": [
@@ -100890,6 +100944,13 @@
    "model": "imarflex 4K Google TV"
   }
  ],
+ "imarflex 4K Google TV-A": [
+  {
+   "brand": "IMARFLEX",
+   "device": "keoneae",
+   "model": "imarflex 4K Google TV-A"
+  }
+ ],
  "IMO Q": [
   {
    "brand": "IMO(In My Opinion)",
@@ -134664,6 +134725,11 @@
    "brand": "MAZE",
    "device": "Comet",
    "model": "Comet"
+  },
+  {
+   "brand": "Stylo",
+   "device": "Comet",
+   "model": "EEJ55"
   }
  ],
  "SSB-408E": [
@@ -134859,6 +134925,13 @@
    "brand": "MEFERI",
    "device": "ME74",
    "model": "ME74"
+  }
+ ],
+ "AVATAR 3": [
+  {
+   "brand": "MEO(Portugal)",
+   "device": "VSB3918-MEO",
+   "model": "MEOBox 4K (VSB3918)"
   }
  ],
  "MEO TV Box 4K": [
@@ -158689,13 +158762,6 @@
    "model": "PJB110"
   }
  ],
- "A2m 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP5A0D",
-   "model": "PJU110"
-  }
- ],
  "A2x 5G": [
   {
    "brand": "Oppo",
@@ -159294,6 +159360,13 @@
    "brand": "Oppo",
    "device": "CPH1903",
    "model": "CPH1903"
+  }
+ ],
+ "A系列": [
+  {
+   "brand": "Oppo",
+   "device": "OP5A0D",
+   "model": "PJU110"
   }
  ],
  "CHP1705": [
@@ -180032,6 +180105,11 @@
    "brand": "Redmi",
    "device": "zircon",
    "model": "23090RA98I"
+  },
+  {
+   "brand": "Redmi",
+   "device": "zircon",
+   "model": "24040RA98R"
   }
  ],
  "Redmi Note 7": [
@@ -181097,6 +181175,13 @@
    "brand": "Rindo",
    "device": "ikebukuro",
    "model": "AI PONT"
+  }
+ ],
+ "RINDO 2K Android TV": [
+  {
+   "brand": "Rindo",
+   "device": "lasalle",
+   "model": "RINDO 2K Android TV"
   }
  ],
  "R455": [
@@ -251273,6 +251358,11 @@
   }
  ],
  "Xiaomi 14 Ultra": [
+  {
+   "brand": "Xiaomi",
+   "device": "aurora",
+   "model": "24030PN60G"
+  },
   {
    "brand": "Xiaomi",
    "device": "aurora",

@@ -116,6 +116,13 @@
    "device": "G2"
   }
  ],
+ "2E 4K Google TV": [
+  {
+   "brand": "2E (ERC)",
+   "name": "2E 4K Google TV",
+   "device": "keoneae"
+  }
+ ],
  "G706": [
   {
    "brand": "3222222 Satelital",
@@ -4483,6 +4490,13 @@
    "brand": "ATEAM",
    "name": "A801",
    "device": "A801"
+  }
+ ],
+ "A8GC": [
+  {
+   "brand": "ATEC",
+   "name": "A8GC",
+   "device": "ATEC_IWB"
   }
  ],
  "APD3": [
@@ -10387,6 +10401,13 @@
    "device": "S5710"
   }
  ],
+ "PA650": [
+  {
+   "brand": "Alited",
+   "name": "PA650",
+   "device": "PA650"
+  }
+ ],
  "AllCall_Madrid": [
   {
    "brand": "AllCall",
@@ -12194,13 +12215,6 @@
    "device": "SEI700ALLG"
   }
  ],
- "PrimeOne": [
-  {
-   "brand": "Allente",
-   "name": "PrimeOne",
-   "device": "PrimeOne"
-  }
- ],
  "M721": [
   {
    "brand": "Allfine",
@@ -12220,6 +12234,13 @@
    "brand": "Alliance",
    "name": "DTP9731",
    "device": "DTP9731"
+  }
+ ],
+ "PrimeOne": [
+  {
+   "brand": "Allnet",
+   "name": "PrimeOne",
+   "device": "PrimeOne"
   }
  ],
  "PSY7020SKD": [
@@ -39298,6 +39319,13 @@
    "device": "P1150"
   }
  ],
+ "CIGSEI100": [
+  {
+   "brand": "CignalPlayTV",
+   "name": "CIGSEI100",
+   "device": "CIGSEI100"
+  }
+ ],
  "CS20": [
   {
    "brand": "Ciontek",
@@ -40621,6 +40649,13 @@
    "brand": "G-Tab",
    "name": "Q5",
    "device": "Q5"
+  }
+ ],
+ "Q5_PRO": [
+  {
+   "brand": "Compaq",
+   "name": "Q5 PRO",
+   "device": "Q5_PRO"
   }
  ],
  "Q6": [
@@ -45312,6 +45347,13 @@
    "device": "CS45XA_EEA"
   }
  ],
+ "ORSY_Controller": [
+  {
+   "brand": "Cyrus",
+   "name": "ORSY_Controller",
+   "device": "ORSY_Controller"
+  }
+ ],
  "D5-L": [
   {
    "brand": "D-Tech",
@@ -49499,6 +49541,13 @@
    "brand": "DigiKing",
    "name": "Digiking 2K Google TV",
    "device": "capitolhill"
+  }
+ ],
+ "Digiking 4K Google TV-A": [
+  {
+   "brand": "DigiKing",
+   "name": "Digiking 4K Google TV-A",
+   "device": "keoneae"
   }
  ],
  "10542843": [
@@ -71132,6 +71181,13 @@
    "brand": "HORIZON",
    "name": "ID65HZA3B1_C",
    "device": "Interactive_White_Board"
+  }
+ ],
+ "W72B": [
+  {
+   "brand": "HORIZON",
+   "name": "IFPD",
+   "device": "65W72B"
   }
  ],
  "HOT ONE": [
@@ -98791,6 +98847,13 @@
   {
    "brand": "IMARFLEX",
    "name": "imarflex 4K Google TV",
+   "device": "keoneae"
+  }
+ ],
+ "imarflex 4K Google TV-A": [
+  {
+   "brand": "IMARFLEX",
+   "name": "imarflex 4K Google TV-A",
    "device": "keoneae"
   }
  ],
@@ -135969,6 +136032,13 @@
    "device": "ME74"
   }
  ],
+ "MEOBox 4K (VSB3918)": [
+  {
+   "brand": "MEO(Portugal)",
+   "name": "AVATAR 3",
+   "device": "VSB3918-MEO"
+  }
+ ],
  "MEO TV Box 4K": [
   {
    "brand": "MEO(Portugal)",
@@ -161168,13 +161238,6 @@
    "device": "OP5647"
   }
  ],
- "PJU110": [
-  {
-   "brand": "Oppo",
-   "name": "A2m 5G",
-   "device": "OP5A0D"
-  }
- ],
  "PJS110": [
   {
    "brand": "Oppo",
@@ -162078,6 +162141,13 @@
    "brand": "Oppo",
    "name": "CPH1903",
    "device": "CPH1903"
+  }
+ ],
+ "PJU110": [
+  {
+   "brand": "Oppo",
+   "name": "A系列",
+   "device": "OP5A0D"
   }
  ],
  "CPH1705fw": [
@@ -183263,6 +183333,13 @@
    "device": "zircon"
   }
  ],
+ "24040RA98R": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 13 Pro+ 5G",
+   "device": "zircon"
+  }
+ ],
  "M1908C3JGG": [
   {
    "brand": "Redmi",
@@ -184284,6 +184361,13 @@
    "brand": "RiksTV",
    "name": "SRT412",
    "device": "HP40A3"
+  }
+ ],
+ "RINDO 2K Android TV": [
+  {
+   "brand": "Rindo",
+   "name": "RINDO 2K Android TV",
+   "device": "lasalle"
   }
  ],
  "R455": [
@@ -221830,6 +221914,13 @@
    "brand": "Stylo",
    "name": "BRAVE",
    "device": "BRAVE"
+  }
+ ],
+ "EEJ55": [
+  {
+   "brand": "Stylo",
+   "name": "Comet",
+   "device": "Comet"
   }
  ],
  "DVK82 Mercury": [
@@ -262830,6 +262921,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 14 Pro",
    "device": "shennong"
+  }
+ ],
+ "24030PN60G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Ultra",
+   "device": "aurora"
   }
  ],
  "Xiaomi for arm64": [

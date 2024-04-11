@@ -65,6 +65,13 @@
    "model": "G2"
   }
  ],
+ "2E (ERC)": [
+  {
+   "device": "keoneae",
+   "name": "2E 4K Google TV",
+   "model": "2E 4K Google TV"
+  }
+ ],
  "3222222 Satelital": [
   {
    "device": "G706",
@@ -1387,6 +1394,11 @@
   }
  ],
  "ATEC": [
+  {
+   "device": "ATEC_IWB",
+   "name": "A8GC",
+   "model": "A8GC"
+  },
   {
    "device": "APD3",
    "name": "APD3",
@@ -5070,6 +5082,13 @@
    "model": "S5710"
   }
  ],
+ "Alited": [
+  {
+   "device": "PA650",
+   "name": "PA650",
+   "model": "PA650"
+  }
+ ],
  "AllCall": [
   {
    "device": "AllCall_Madrid",
@@ -6318,11 +6337,6 @@
    "device": "SEI700ALLG",
    "name": "Allente Streaming Hub",
    "model": "Allente Streaming Hub"
-  },
-  {
-   "device": "PrimeOne",
-   "name": "PrimeOne",
-   "model": "PrimeOne"
   }
  ],
  "Allfine": [
@@ -6342,6 +6356,13 @@
    "device": "DTP9731",
    "name": "DTP9731",
    "model": "DTP9731"
+  }
+ ],
+ "Allnet": [
+  {
+   "device": "PrimeOne",
+   "name": "PrimeOne",
+   "model": "PrimeOne"
   }
  ],
  "Allouette": [
@@ -25846,6 +25867,13 @@
    "model": "P1150"
   }
  ],
+ "CignalPlayTV": [
+  {
+   "device": "CIGSEI100",
+   "name": "CIGSEI100",
+   "model": "CIGSEI100"
+  }
+ ],
  "Ciontek": [
   {
    "device": "CS20",
@@ -26864,6 +26892,11 @@
    "device": "Q5",
    "name": "Q5",
    "model": "Q5"
+  },
+  {
+   "device": "Q5_PRO",
+   "name": "Q5 PRO",
+   "model": "Q5_PRO"
   },
   {
    "device": "Q6",
@@ -30185,6 +30218,11 @@
    "device": "CS45XA_EEA",
    "name": "CS45XA_EEA",
    "model": "CS45XA_EEA"
+  },
+  {
+   "device": "ORSY_Controller",
+   "name": "ORSY_Controller",
+   "model": "ORSY_Controller"
   }
  ],
  "D-Tech": [
@@ -33298,6 +33336,11 @@
    "device": "capitolhill",
    "name": "Digiking 2K Google TV",
    "model": "Digiking 2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "Digiking 4K Google TV-A",
+   "model": "Digiking 4K Google TV-A"
   }
  ],
  "DigiLand": [
@@ -49486,6 +49529,11 @@
    "device": "Interactive_White_Board",
    "name": "ID65HZA3B1_C",
    "model": "ID65HZA3B1_C"
+  },
+  {
+   "device": "65W72B",
+   "name": "IFPD",
+   "model": "W72B"
   }
  ],
  "HOT (il)": [
@@ -70648,6 +70696,11 @@
    "device": "keoneae",
    "name": "imarflex 4K Google TV",
    "model": "imarflex 4K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "imarflex 4K Google TV-A",
+   "model": "imarflex 4K Google TV-A"
   }
  ],
  "IMO(In My Opinion)": [
@@ -99945,6 +99998,11 @@
  ],
  "MEO(Portugal)": [
   {
+   "device": "VSB3918-MEO",
+   "name": "AVATAR 3",
+   "model": "MEOBox 4K (VSB3918)"
+  },
+  {
    "device": "DV8555-MEO",
    "name": "MEO TV Box 4K",
    "model": "MEO TV Box 4K"
@@ -120595,11 +120653,6 @@
   },
   {
    "device": "OP5A0D",
-   "name": "A2m 5G",
-   "model": "PJU110"
-  },
-  {
-   "device": "OP5A0D",
    "name": "A2x 5G",
    "model": "PJS110"
   },
@@ -121232,6 +121285,11 @@
    "device": "CPH1903",
    "name": "AX7",
    "model": "CPH1903"
+  },
+  {
+   "device": "OP5A0D",
+   "name": "A系列",
+   "model": "PJU110"
   },
   {
    "device": "CPH1705",
@@ -138053,6 +138111,11 @@
    "model": "23090RA98I"
   },
   {
+   "device": "zircon",
+   "name": "Redmi Note 13 Pro+ 5G",
+   "model": "24040RA98R"
+  },
+  {
    "device": "lavender",
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -138910,6 +138973,11 @@
    "device": "ikebukuro",
    "name": "R-32B6600",
    "model": "AI PONT"
+  },
+  {
+   "device": "lasalle",
+   "name": "RINDO 2K Android TV",
+   "model": "RINDO 2K Android TV"
   },
   {
    "device": "longshan",
@@ -167661,6 +167729,11 @@
    "device": "BRAVE",
    "name": "BRAVE",
    "model": "BRAVE"
+  },
+  {
+   "device": "Comet",
+   "name": "Comet",
+   "model": "EEJ55"
   },
   {
    "device": "DVK82_Mercury",
@@ -200708,6 +200781,11 @@
    "device": "shennong",
    "name": "Xiaomi 14 Pro",
    "model": "2311BPN23C"
+  },
+  {
+   "device": "aurora",
+   "name": "Xiaomi 14 Ultra",
+   "model": "24030PN60G"
   },
   {
    "device": "aurora",

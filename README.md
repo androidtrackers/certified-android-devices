@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-10
+Last sync is 2024-04-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17,6 +17,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |10.or|E|E|E|
 |10.or|G|G|G|
 |10.or|G2|G2|G2|
+|2E (ERC)|2E 4K Google TV|keoneae|2E 4K Google TV|
 |3222222 Satelital|G706|G706|G706|
 |3BBTV|3BBTV|S3000|S3000-T0C08|
 |3BBTV|TBBTV01|TBBTV01|TBBTV01|
@@ -256,6 +257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|U705AA|U705AA|U705AA|
 |ATEAM|A1010|A1010|A1010|
 |ATEAM|A801|A801|A801|
+|ATEC|A8GC|ATEC_IWB|A8GC|
 |ATEC|APD3|APD3|APD3|
 |ATEL|A68EL|A68EL|A68EL|
 |ATID|AT908|AT908|AT908|
@@ -964,6 +966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aligator|S5065|ALIGATORS5065|ALIGATOR S5065|
 |Aligator|S5068|S5068|S5068|
 |Aligator|S5710|S5710|S5710|
+|Alited|PA650|PA650|PA650|
 |AllCall|AllCall_Madrid|AllCall_Madrid|AllCall_Madrid|
 |AllCall|AllCall_S1|AllCall_S1|AllCall_S1|
 |AllCall|AllCall_S1_X|AllCall_S1_X|AllCall_S1_X|
@@ -1212,10 +1215,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Allducube|T1001|T1001|T1001|
 |Allente|Allente 1|OnePlace2|Allente 1|
 |Allente|Allente Streaming Hub|SEI700ALLG|Allente Streaming Hub|
-|Allente|PrimeOne|PrimeOne|PrimeOne|
 |Allfine|M721|86S|M721|
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Alliance|DTP9731|DTP9731|DTP9731|
+|Allnet|PrimeOne|PrimeOne|PrimeOne|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
 |Alpha|Alpha 43G7NUA|samseong|AI PONT|
 |Alpha|M8T|ikebukuro|AI PONT|
@@ -4996,6 +4999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cidea|CM91_EEA|CM91_EEA|CM91_EEA|
 |Cidea|P1100|P1100|P1100|
 |Cidea|P1150|P1150|P1150|
+|CignalPlayTV|CIGSEI100|CIGSEI100|CIGSEI100|
 |Ciontek|CS20|CS20|CS20|
 |Ciontek|CS30|CS30|CS30|
 |Ciontek|CS50|CS50|CS50|
@@ -5188,6 +5192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|India/Srilanka/Bangladesh/GCC|guandu|COMPAQ ANDROID 4K TV|
 |Compaq|India/Srilanka/Bangladesh/GCC|martin|COMPAQ ANDROID 2K TV|
 |Compaq|Q5|Q5|Q5|
+|Compaq|Q5 PRO|Q5_PRO|Q5_PRO|
 |Compaq|Q6|Q6|Q6|
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
@@ -5839,6 +5844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cyrus|CS45XA|CS45XA2|CS45XA|
 |Cyrus|CS45XA_EEA|CS45XA2|CS45XA_EEA|
 |Cyrus|CS45XA_EEA|CS45XA_EEA|CS45XA_EEA|
+|Cyrus|ORSY_Controller|ORSY_Controller|ORSY_Controller|
 |D-Tech|D5L|D5-L|D5-L|
 |D-Tech|D5L|D5L|D5L|
 |D-Tech|D5S|D5S|D5S|
@@ -6432,6 +6438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiKing|DigiKing 2K Android|lasalle|DigiKing 2K Android TV|
 |DigiKing|DigiKing 4K Android|kenton|DigiKing 4K Android TV|
 |DigiKing|Digiking 2K Google TV|capitolhill|Digiking 2K Google TV|
+|DigiKing|Digiking 4K Google TV-A|keoneae|Digiking 4K Google TV-A|
 |DigiLand|10542843|10542843|10542843|
 |DigiLand|206886-01|mdt9003|206886-01|
 |DigiLand|Compumax Blue|mid1016_ma|Compumax Blue|
@@ -9516,6 +9523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HORIZON|EU|tamachi|HORIZON Android TV|
 |HORIZON|EU|yeongdeungpo|HORIZON Android TV|
 |HORIZON|ID65HZA3B1_C|Interactive_White_Board|ID65HZA3B1_C|
+|HORIZON|IFPD|65W72B|W72B|
 |HOT (il)|HOT ONE|VSB3918_ALT_ME|HOT ONE|
 |HOT (il)|HOT Streamer|DV8555-KIH|HOT Streamer|
 |HOT (il)|StreamerV3|DIW377_ALT_ME|HOT Streamer V3|
@@ -13710,6 +13718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMARFLEX|IMARFLEX 4K Android TV|kenton|IMARFLEX 4K Android TV|
 |IMARFLEX|imarflex 2K Google TV|capitolhill|imarflex 2K Google TV|
 |IMARFLEX|imarflex 4K Google TV|keoneae|imarflex 4K Google TV|
+|IMARFLEX|imarflex 4K Google TV-A|keoneae|imarflex 4K Google TV-A|
 |IMO(In My Opinion)|IMO Q|IMO_Q|IMO Q|
 |IMO(In My Opinion)|IMO Q2 Plus|IMO_Q2_Plus|IMO Q2 Plus|
 |IMO(In My Opinion)|IMO Q2 Pro|IMO_Q2_Pro|IMO Q2 Pro|
@@ -19437,6 +19446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEFERI|ME61|ME61|ME61|
 |MEFERI|ME65|ME65|ME65|
 |MEFERI|ME74|ME74|ME74|
+|MEO(Portugal)|AVATAR 3|VSB3918-MEO|MEOBox 4K (VSB3918)|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K|DV8985-MEO|MEOBox 4K DV8985|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
@@ -23432,7 +23442,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A18|OP575DL1|CPH2591|
 |Oppo|A1k|OP486C|CPH1923|
 |Oppo|A2 5G|OP5647|PJB110|
-|Oppo|A2m 5G|OP5A0D|PJU110|
 |Oppo|A2x 5G|OP5A0D|PJS110|
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A31|A31t|A31|
@@ -23560,6 +23569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|
 |Oppo|AX7|CPH1903|CPH1903|
+|Oppo|A系列|OP5A0D|PJU110|
 |Oppo|CHP1705|CPH1705|CPH1705fw|
 |Oppo|CPH1605|CPH1605|CPH1605|
 |Oppo|CPH1605|CPH1605|OPPO CPH1605|
@@ -26841,6 +26851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 Pro+|zircon|23090RA98C|
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98G|
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98I|
+|Redmi|Redmi Note 13 Pro+ 5G|zircon|24040RA98R|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -27006,6 +27017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|T8|Rhino_T8|T8|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
+|Rindo|RINDO 2K Android TV|lasalle|RINDO 2K Android TV|
 |Rindo|Smart TV|longshan|AI PONT|
 |Rindo|Smart TV|redwood|AI PONT|
 |Rindo|Smart TV|samseong|AI PONT|
@@ -32665,6 +32677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|BOLD PLUS|BOLD_PLUS|BOLD_PLUS|
 |Stylo|BOLD_PLUS|BOLD_PLUS|BOLD_PLUS|
 |Stylo|BRAVE|BRAVE|BRAVE|
+|Stylo|Comet|Comet|EEJ55|
 |Stylo|DVK82 Mercury|DVK82_Mercury|DVK82 Mercury|
 |Stylo|DVK87_Orion 8_Tab|DVK87_Orion_8_Tab|DVK87 Orion 8 Tab|
 |Stylo|Destiny|Destiny|Destiny|
@@ -39088,6 +39101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14|houji|23127PN0CC|
 |Xiaomi|Xiaomi 14 Pro|shennong|23116PN5BC|
 |Xiaomi|Xiaomi 14 Pro|shennong|2311BPN23C|
+|Xiaomi|Xiaomi 14 Ultra|aurora|24030PN60G|
 |Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi for arm64|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
