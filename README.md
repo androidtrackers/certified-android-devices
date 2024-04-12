@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-11
+Last sync is 2024-04-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13574,6 +13574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT8WB1RBK03|HT8WB1RBK03|HT8WB1RBK03|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
+|Hyundai|HYUNDAI|bruno|HYUNDAI2KAndroidTV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 2K Android TV-A|lasalle|HYUNDAI 2K Android TV-A|
@@ -15463,6 +15464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
+|KTCtv|IBG|lavender|4K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
 |KTCtv|INNO-HIT|hongkong|4K SMART TV|
 |KTCtv|INNO-HIT|lavender|4K SMART TV|
@@ -23309,6 +23311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9RT 5G|OP5155L1|MT2111|
 |OnePlus|OnePlus Ace|OP5565|PGKM10|
 |OnePlus|OnePlus Ace 3|OP5CF9L1|PJE110|
+|OnePlus|OnePlus Ace 3V|OP5CFBL1|PJF110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
@@ -26878,6 +26881,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9T|cannong|A001XM|
 |Redmi|Redmi Note 9T|cannong|M2007J22G|
 |Redmi|Redmi Pad|yunluo|22081283G|
+|Redmi|Redmi Pad Pro|dizi|2405CRPFDC|
+|Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
+|Redmi|Redmi Pad SE|xun|23073RPBFC|
 |Redmi|Redmi Pad SE|xun|23073RPBFG|
 |Redmi|Redmi Pad SE|xun|23073RPBFL|
 |Redmi|Smart TV|tarzan|MiTV-MOOQ3|
@@ -31190,6 +31196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|LYNX 3D SH-03C|SH03C|SH-03C|
 |Sharp|LYNX SH-10B|SH10B|SH-10B|
 |Sharp|Leitz Phone 2|MinevaL|LP-02|
+|Sharp|Leitz Phone 3|KamilleL|LP-03|
 |Sharp|Leitz Phone1|JudauL|LP-01|
 |Sharp|Media Tablet|EB-L76G-B|EB-L76G-B|
 |Sharp|PANTONE 5 SoftBank 107SH|SBM107SH|SBM107SH|
@@ -32804,6 +32811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_TR|
+|Sunmi|T3 PRO MAX|T3_PRO|T3 Pro Max|
 |Sunmi|V2s|V2s|V2s_EDLA_GL|
 |Sunmi|V2s|V2sNC|V2sNC_EDLA_GL|
 |Sunmi|V2sNC|V2sNC|V2sNC_EEA|
@@ -37267,6 +37275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1731D|PD1731D|vivo Y71A|
 |Vivo|S17|PD2283|V2283A|
 |Vivo|S17 Pro|PD2284|V2284A|
+|Vivo|S18 Pro|PD2344|V2344A|
 |Vivo|T1|V2154|V2153|
 |Vivo|T1|V2154|V2154|
 |Vivo|T1|V2154|V2168|
@@ -37521,6 +37530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V29e 5G|V2317|V2317|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
+|Vivo|V30|V2318|V2318|
 |Vivo|V30 Lite|V2317|V2314|
 |Vivo|V30 Lite|V2342|V2342|
 |Vivo|V30 Lite 5G|V2327|V2327|
@@ -37600,6 +37610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y17|1902D|vivo 1902|
 |Vivo|Y17s|V2310|V2310|
 |Vivo|Y17s|V2310|V2331|
+|Vivo|Y18|V2333|V2333|
 |Vivo|Y18e|V2333|V2350|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 Pro 5G|V2303|V2303|
@@ -42208,6 +42219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
 |realme|真我GT Neo|RMX3031CN|RMX3031|
+|realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|

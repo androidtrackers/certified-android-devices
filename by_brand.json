@@ -69946,6 +69946,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "bruno",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI2KAndroidTV"
+  },
+  {
    "device": "stanford",
    "name": "HYUNDAI",
    "model": "2K SMART TV"
@@ -79723,6 +79728,11 @@
    "device": "mountbaker",
    "name": "HARMON-TEC",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "IBG",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -119967,6 +119977,11 @@
    "model": "PJE110"
   },
   {
+   "device": "OP5CFBL1",
+   "name": "OnePlus Ace 3V",
+   "model": "PJF110"
+  },
+  {
    "device": "OP5911",
    "name": "OnePlus Ace 竞速版",
    "model": "PGZ110"
@@ -138244,6 +138259,21 @@
    "device": "yunluo",
    "name": "Redmi Pad",
    "model": "22081283G"
+  },
+  {
+   "device": "dizi",
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDC"
+  },
+  {
+   "device": "dizi",
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDG"
+  },
+  {
+   "device": "xun",
+   "name": "Redmi Pad SE",
+   "model": "23073RPBFC"
   },
   {
    "device": "xun",
@@ -160118,6 +160148,11 @@
    "model": "LP-02"
   },
   {
+   "device": "KamilleL",
+   "name": "Leitz Phone 3",
+   "model": "LP-03"
+  },
+  {
    "device": "JudauL",
    "name": "Leitz Phone1",
    "model": "LP-01"
@@ -168384,6 +168419,11 @@
    "device": "V2s",
    "name": "Sunmi V2s",
    "model": "V2s_TR"
+  },
+  {
+   "device": "T3_PRO",
+   "name": "T3 PRO MAX",
+   "model": "T3 Pro Max"
   },
   {
    "device": "V2s",
@@ -191405,6 +191445,11 @@
    "model": "V2284A"
   },
   {
+   "device": "PD2344",
+   "name": "S18 Pro",
+   "model": "V2344A"
+  },
+  {
    "device": "V2154",
    "name": "T1",
    "model": "V2153"
@@ -192675,6 +192720,11 @@
    "model": "vivo V3"
   },
   {
+   "device": "V2318",
+   "name": "V30",
+   "model": "V2318"
+  },
+  {
    "device": "V2317",
    "name": "V30 Lite",
    "model": "V2314"
@@ -193068,6 +193118,11 @@
    "device": "V2310",
    "name": "Y17s",
    "model": "V2331"
+  },
+  {
+   "device": "V2333",
+   "name": "Y18",
+   "model": "V2333"
   },
   {
    "device": "V2333",
@@ -216738,6 +216793,11 @@
    "device": "RMX3031CN",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  },
+  {
+   "device": "RE5C39L1",
+   "name": "真我GT Neo6 SE",
+   "model": "RMX3850"
   },
   {
    "device": "RE548B",

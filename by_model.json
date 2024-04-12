@@ -2853,6 +2853,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "IBG",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
    "name": "IMMER",
    "device": "hongkong"
   },
@@ -97923,6 +97928,13 @@
    "device": "HY1_5085"
   }
  ],
+ "HYUNDAI2KAndroidTV": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "device": "bruno"
+  }
+ ],
  "HYUNDAI 2K Android TV-A": [
   {
    "brand": "Hyundai",
@@ -160356,6 +160368,13 @@
    "device": "OP5CF9L1"
   }
  ],
+ "PJF110": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Ace 3V",
+   "device": "OP5CFBL1"
+  }
+ ],
  "PGZ110": [
   {
    "brand": "OnePlus",
@@ -183498,6 +183517,27 @@
    "brand": "Redmi",
    "name": "Redmi Pad",
    "device": "yunluo"
+  }
+ ],
+ "2405CRPFDC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad Pro",
+   "device": "dizi"
+  }
+ ],
+ "2405CRPFDG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad Pro",
+   "device": "dizi"
+  }
+ ],
+ "23073RPBFC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE",
+   "device": "xun"
   }
  ],
  "23073RPBFG": [
@@ -212586,6 +212626,13 @@
    "device": "MinevaL"
   }
  ],
+ "LP-03": [
+  {
+   "brand": "Sharp",
+   "name": "Leitz Phone 3",
+   "device": "KamilleL"
+  }
+ ],
  "LP-01": [
   {
    "brand": "Sharp",
@@ -222699,6 +222746,13 @@
    "brand": "Sunmi",
    "name": "Sunmi V2s",
    "device": "V2s"
+  }
+ ],
+ "T3 Pro Max": [
+  {
+   "brand": "Sunmi",
+   "name": "T3 PRO MAX",
+   "device": "T3_PRO"
   }
  ],
  "V2s_EDLA_GL": [
@@ -251255,6 +251309,13 @@
    "device": "PD2284"
   }
  ],
+ "V2344A": [
+  {
+   "brand": "Vivo",
+   "name": "S18 Pro",
+   "device": "PD2344"
+  }
+ ],
  "V2153": [
   {
    "brand": "Vivo",
@@ -253035,6 +253096,13 @@
    "device": "V3"
   }
  ],
+ "V2318": [
+  {
+   "brand": "Vivo",
+   "name": "V30",
+   "device": "V2318"
+  }
+ ],
  "V2314": [
   {
    "brand": "Vivo",
@@ -253617,6 +253685,13 @@
    "brand": "Vivo",
    "name": "Y17s",
    "device": "V2310"
+  }
+ ],
+ "V2333": [
+  {
+   "brand": "Vivo",
+   "name": "Y18",
+   "device": "V2333"
   }
  ],
  "V2350": [
@@ -282471,6 +282546,13 @@
    "brand": "realme",
    "name": "真我GT 2 Pro",
    "device": "RE547F"
+  }
+ ],
+ "RMX3850": [
+  {
+   "brand": "realme",
+   "name": "真我GT Neo6 SE",
+   "device": "RE5C39L1"
   }
  ],
  "RMX3462": [

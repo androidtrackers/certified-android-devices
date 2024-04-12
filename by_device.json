@@ -10816,6 +10816,11 @@
    "model": "Element2KAndroidTV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI2KAndroidTV"
+  },
+  {
    "brand": "INFINITON",
    "name": "Infiniton",
    "model": "Infiniton2KAndroidTV"
@@ -13023,6 +13028,11 @@
    "brand": "KTCtv",
    "name": "Global",
    "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IBG",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -158517,6 +158527,13 @@
    "model": "PJE110"
   }
  ],
+ "OP5CFBL1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Ace 3V",
+   "model": "PJF110"
+  }
+ ],
  "OP5911": [
   {
    "brand": "OnePlus",
@@ -180119,7 +180136,24 @@
    "model": "22081283G"
   }
  ],
+ "dizi": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDG"
+  }
+ ],
  "xun": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE",
+   "model": "23073RPBFC"
+  },
   {
    "brand": "Redmi",
    "name": "Redmi Pad SE",
@@ -206562,6 +206596,13 @@
    "model": "LP-02"
   }
  ],
+ "KamilleL": [
+  {
+   "brand": "Sharp",
+   "name": "Leitz Phone 3",
+   "model": "LP-03"
+  }
+ ],
  "JudauL": [
   {
    "brand": "Sharp",
@@ -216701,6 +216742,13 @@
    "brand": "Sunmi",
    "name": "L2s_PRO",
    "model": "L2s_PRO"
+  }
+ ],
+ "T3_PRO": [
+  {
+   "brand": "Sunmi",
+   "name": "T3 PRO MAX",
+   "model": "T3 Pro Max"
   }
  ],
  "V2sNC": [
@@ -241781,6 +241829,13 @@
    "model": "V2284A"
   }
  ],
+ "PD2344": [
+  {
+   "brand": "Vivo",
+   "name": "S18 Pro",
+   "model": "V2344A"
+  }
+ ],
  "V2154": [
   {
    "brand": "Vivo",
@@ -243467,6 +243522,13 @@
    "model": "vivo V3"
   }
  ],
+ "V2318": [
+  {
+   "brand": "Vivo",
+   "name": "V30",
+   "model": "V2318"
+  }
+ ],
  "V2342": [
   {
    "brand": "Vivo",
@@ -243924,6 +243986,11 @@
    "brand": "Vivo",
    "name": "Y03",
    "model": "V2406"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y18",
+   "model": "V2333"
   },
   {
    "brand": "Vivo",
@@ -270305,6 +270372,13 @@
    "brand": "realme",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  }
+ ],
+ "RE5C39L1": [
+  {
+   "brand": "realme",
+   "name": "真我GT Neo6 SE",
+   "model": "RMX3850"
   }
  ],
  "RE548B": [
