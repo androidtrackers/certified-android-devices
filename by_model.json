@@ -143789,6 +143789,13 @@
    "device": "HotahOTG_V"
   }
  ],
+ "WM19": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiGo",
+   "device": "WM19"
+  }
+ ],
  "MobiGo2P": [
   {
    "brand": "MobiIoT",
@@ -211937,6 +211944,13 @@
    "brand": "Sharp",
    "name": "EQ3/DN5",
    "device": "banqiao"
+  }
+ ],
+ "AQUOS-TVE19A": [
+  {
+   "brand": "Sharp",
+   "name": "EU",
+   "device": "sindang"
   }
  ],
  "AQUOS-TVE19C": [

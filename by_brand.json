@@ -106248,6 +106248,11 @@
    "model": "HotahOTG"
   },
   {
+   "device": "WM19",
+   "name": "MobiGo",
+   "model": "WM19"
+  },
+  {
    "device": "MobiGo2P",
    "name": "MobiGo 2+",
    "model": "MobiGo2P"
@@ -159666,6 +159671,11 @@
    "device": "banqiao",
    "name": "EQ3/DN5",
    "model": "AQUOS-TVE21A"
+  },
+  {
+   "device": "sindang",
+   "name": "EU",
+   "model": "AQUOS-TVE19A"
   },
   {
    "device": "sindang",

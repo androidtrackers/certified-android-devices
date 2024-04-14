@@ -34678,6 +34678,11 @@
   {
    "brand": "Sharp",
    "name": "EU",
+   "model": "AQUOS-TVE19A"
+  },
+  {
+   "brand": "Sharp",
+   "name": "EU",
    "model": "AQUOS-TVE19C"
   },
   {
@@ -142409,6 +142414,13 @@
    "brand": "MobiIoT",
    "name": "Hotah",
    "model": "HotahOTG"
+  }
+ ],
+ "WM19": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiGo",
+   "model": "WM19"
   }
  ],
  "MobiGo2P": [

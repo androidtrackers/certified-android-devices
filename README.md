@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-13
+Last sync is 2024-04-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20650,6 +20650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobell|S61|S61|S61|
 |MobiIoT|Hotah|HotahOTG_N|HotahOTG|
 |MobiIoT|Hotah|HotahOTG_V|HotahOTG|
+|MobiIoT|MobiGo|WM19|WM19|
 |MobiIoT|MobiGo 2+|MobiGo2P|MobiGo2P|
 |MobiIoT|MobiGo 2+|MobiGo2PQV|MobiGo2P|
 |MobiIoT|MobiGo 2+ Pro|MobiGo2PP|MobiGo2PP|
@@ -31100,6 +31101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|EG1|namba|AQUOS-TVX22A|
 |Sharp|EN3/EL3|banqiao|AQUOS-TVE21F|
 |Sharp|EQ3/DN5|banqiao|AQUOS-TVE21A|
+|Sharp|EU|sindang|AQUOS-TVE19A|
 |Sharp|EU|sindang|AQUOS-TVE19C|
 |Sharp|EU|sindang|AQUOS-TVE21A2|
 |Sharp|EU|sindang|AQUOS_TVE19A|

@@ -34937,6 +34937,11 @@
   {
    "brand": "Sharp",
    "device": "sindang",
+   "model": "AQUOS-TVE19A"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sindang",
    "model": "AQUOS-TVE19C"
   },
   {
@@ -142287,6 +142292,13 @@
    "brand": "Mobiwire",
    "device": "Hotah",
    "model": "Hotah"
+  }
+ ],
+ "MobiGo": [
+  {
+   "brand": "MobiIoT",
+   "device": "WM19",
+   "model": "WM19"
   }
  ],
  "MobiGo 2+": [
