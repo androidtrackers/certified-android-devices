@@ -74241,6 +74241,11 @@
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 14 Ultra",
+   "model": "24031PN0DC"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Ultra",
    "model": "Xiaomi for arm64"
   }
  ],
@@ -154137,7 +154142,7 @@
  "taihang": [
   {
    "brand": "Nebula",
-   "name": "Nebula_Capsule_2_V2",
+   "name": "Nebula_Capsule_3",
    "model": "D2425"
   },
   {
@@ -159859,6 +159864,13 @@
    "brand": "Oppo",
    "name": "A59 5G",
    "model": "CPH2617"
+  }
+ ],
+ "OP5AE7L1": [
+  {
+   "brand": "Oppo",
+   "name": "A60",
+   "model": "CPH2631"
   }
  ],
  "CPH1901": [
@@ -219235,6 +219247,13 @@
    "model": "T613K"
   }
  ],
+ "Ladybird": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 SE",
+   "model": "T611B"
+  }
+ ],
  "Rio_CAN": [
   {
    "brand": "TCL",
@@ -248280,6 +248299,13 @@
    "brand": "Westgate",
    "name": "Westgate_T801",
    "model": "T801"
+  }
+ ],
+ "T805": [
+  {
+   "brand": "Westgate Resorts",
+   "name": "T805",
+   "model": "T805"
   }
  ],
  "W10TWF19": [

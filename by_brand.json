@@ -115890,7 +115890,7 @@
   },
   {
    "device": "taihang",
-   "name": "Nebula_Capsule_2_V2",
+   "name": "Nebula_Capsule_3",
    "model": "D2425"
   },
   {
@@ -121080,6 +121080,11 @@
    "device": "A59",
    "name": "A59tm",
    "model": "OPPO A59tm"
+  },
+  {
+   "device": "OP5AE7L1",
+   "name": "A60",
+   "model": "CPH2631"
   },
   {
    "device": "CPH1901",
@@ -170471,6 +170476,11 @@
    "model": "T613K"
   },
   {
+   "device": "Ladybird",
+   "name": "TCL 50 SE",
+   "model": "T611B"
+  },
+  {
    "device": "Rio_CAN",
    "name": "TCL 502",
    "model": "T432J"
@@ -196776,6 +196786,11 @@
    "device": "T803",
    "name": "T803",
    "model": "T803"
+  },
+  {
+   "device": "T805",
+   "name": "T805",
+   "model": "T805"
   }
  ],
  "Westinghouse": [
@@ -200851,6 +200866,11 @@
    "device": "aurora",
    "name": "Xiaomi 14 Ultra",
    "model": "24030PN60G"
+  },
+  {
+   "device": "aurora",
+   "name": "Xiaomi 14 Ultra",
+   "model": "24031PN0DC"
   },
   {
    "device": "aurora",

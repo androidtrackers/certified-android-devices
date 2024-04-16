@@ -155688,7 +155688,7 @@
  "D2425": [
   {
    "brand": "Nebula",
-   "name": "Nebula_Capsule_2_V2",
+   "name": "Nebula_Capsule_3",
    "device": "taihang"
   }
  ],
@@ -161848,6 +161848,13 @@
    "brand": "Oppo",
    "name": "A59tm",
    "device": "A59"
+  }
+ ],
+ "CPH2631": [
+  {
+   "brand": "Oppo",
+   "name": "A60",
+   "device": "OP5AE7L1"
   }
  ],
  "CPH1901": [
@@ -225221,6 +225228,13 @@
    "device": "Dragonfly"
   }
  ],
+ "T611B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 SE",
+   "device": "Ladybird"
+  }
+ ],
  "T432J": [
   {
    "brand": "TCL",
@@ -258071,6 +258085,13 @@
    "device": "T802"
   }
  ],
+ "T805": [
+  {
+   "brand": "Westgate Resorts",
+   "name": "T805",
+   "device": "T805"
+  }
+ ],
  "W10TWF19": [
   {
    "brand": "Westinghouse",
@@ -263013,6 +263034,13 @@
   }
  ],
  "24030PN60G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Ultra",
+   "device": "aurora"
+  }
+ ],
+ "24031PN0DC": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 14 Ultra",

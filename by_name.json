@@ -33152,6 +33152,11 @@
    "model": "A60UNS"
   },
   {
+   "brand": "Oppo",
+   "device": "OP5AE7L1",
+   "model": "CPH2631"
+  },
+  {
    "brand": "Trident",
    "device": "A60",
    "model": "A60"
@@ -153541,7 +153546,7 @@
    "model": "D2421"
   }
  ],
- "Nebula_Capsule_2_V2": [
+ "Nebula_Capsule_3": [
   {
    "brand": "Nebula",
    "device": "taihang",
@@ -216654,6 +216659,13 @@
    "model": "T613K"
   }
  ],
+ "TCL 50 SE": [
+  {
+   "brand": "TCL",
+   "device": "Ladybird",
+   "model": "T611B"
+  }
+ ],
  "TCL 502": [
   {
    "brand": "TCL",
@@ -246979,6 +246991,13 @@
    "model": "T801"
   }
  ],
+ "T805": [
+  {
+   "brand": "Westgate Resorts",
+   "device": "T805",
+   "model": "T805"
+  }
+ ],
  "W10TWF19": [
   {
    "brand": "Westinghouse",
@@ -251443,6 +251462,11 @@
    "brand": "Xiaomi",
    "device": "aurora",
    "model": "24030PN60G"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "aurora",
+   "model": "24031PN0DC"
   },
   {
    "brand": "Xiaomi",

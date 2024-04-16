@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-15
+Last sync is 2024-04-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22535,7 +22535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nebula|D2160|D2140-Cosmos|D2160|
 |Nebula|D2241|DM8260|D2241|
 |Nebula|D2421|DM8261|D2421|
-|Nebula|Nebula_Capsule_2_V2|taihang|D2425|
+|Nebula|Nebula_Capsule_3|taihang|D2425|
 |Nebula|Nebula_Mars_2_V2|taihang|D2325|
 |Necnon|3L-2|3L-2|3L-2|
 |Necnon|M002K-2|M002K-2|M002K-2|
@@ -23528,6 +23528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A59st|A59|OPPO A59st|
 |Oppo|A59t|A59|OPPO A59t|
 |Oppo|A59tm|A59|OPPO A59tm|
+|Oppo|A60|OP5AE7L1|CPH2631|
 |Oppo|A7|CPH1901|CPH1901|
 |Oppo|A7|CPH1905|CPH1905|
 |Oppo|A7|PBFM00|PBFM00|
@@ -33207,6 +33208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40T|Sonata_TF|T608DL|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL 50 5G|Dragonfly|T613K|
+|TCL|TCL 50 SE|Ladybird|T611B|
 |TCL|TCL 502|Rio_CAN|T432J|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
@@ -38320,6 +38322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Westgate|Westgate_T801|Westgate-T801|T801|
 |Westgate Resorts|T802|T802|T802|
 |Westgate Resorts|T803|T803|T803|
+|Westgate Resorts|T805|T805|T805|
 |Westinghouse|Smart TV|ueno|2K Android TV|
 |Westinghouse|W10TWF19|W10TWF19|W10TWF19|
 |Westinghouse|W7T3G19|W7T3G19|W7T3G19|
@@ -39115,6 +39118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14 Pro|shennong|23116PN5BC|
 |Xiaomi|Xiaomi 14 Pro|shennong|2311BPN23C|
 |Xiaomi|Xiaomi 14 Ultra|aurora|24030PN60G|
+|Xiaomi|Xiaomi 14 Ultra|aurora|24031PN0DC|
 |Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi for arm64|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
