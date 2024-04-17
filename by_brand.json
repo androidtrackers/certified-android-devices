@@ -36805,6 +36805,13 @@
    "model": "P803"
   }
  ],
+ "EGOBOO": [
+  {
+   "device": "EB101",
+   "name": "EB101",
+   "model": "EB101"
+  }
+ ],
  "EGOTEK": [
   {
    "device": "Mars8",
@@ -44999,6 +45006,13 @@
    "device": "YC-83T",
    "name": "YC-83T",
    "model": "YC-83T"
+  }
+ ],
+ "GPOA": [
+  {
+   "device": "UAI_PRO",
+   "name": "UAI PRO",
+   "model": "UAI_Series"
   }
  ],
  "GREATASIA": [
@@ -112157,6 +112171,11 @@
    "model": "Multilaser Android TV"
   },
   {
+   "device": "DI01_M7_WIFI",
+   "name": "DI01_M7_WIFI",
+   "model": "DI01_M7_WIFI"
+  },
+  {
    "device": "Discovery",
    "name": "Discovery",
    "model": "Discovery"
@@ -138281,6 +138300,11 @@
    "model": "2405CRPFDG"
   },
   {
+   "device": "ruan",
+   "name": "Redmi Pad Pro 5G",
+   "model": "24074RPD2C"
+  },
+  {
    "device": "xun",
    "name": "Redmi Pad SE",
    "model": "23073RPBFC"
@@ -138294,6 +138318,11 @@
    "device": "xun",
    "name": "Redmi Pad SE",
    "model": "23073RPBFL"
+  },
+  {
+   "device": "peridot",
+   "name": "Redmi Turbo 3",
+   "model": "24069RA21C"
   },
   {
    "device": "tarzan",
@@ -162857,6 +162886,13 @@
    "device": "Smartpad-V10",
    "name": "Smartpad-V10",
    "model": "Smartpad-V10"
+  }
+ ],
+ "Smart_Touch": [
+  {
+   "device": "STG_IR13",
+   "name": "ST IR13",
+   "model": "STG_Series"
   }
  ],
  "Smartab": [
@@ -200886,6 +200922,11 @@
    "device": "zijin",
    "name": "Xiaomi Civi 1S",
    "model": "2109119BC"
+  },
+  {
+   "device": "chenfeng",
+   "name": "Xiaomi Civi 4",
+   "model": "24053PY09C"
   },
   {
    "device": "cetus",

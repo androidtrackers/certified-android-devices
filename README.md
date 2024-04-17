@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-16
+Last sync is 2024-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7107,6 +7107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EDENWOOD|EDENWOOD 4K Android TV|kenton|EDENWOOD 4K Android TV|
 |EDUTAB|ELITE_10|ELITE_10|ELITE_10|
 |EGBOK|P803|P803|P803|
+|EGOBOO|EB101|EB101|EB101|
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
@@ -8659,6 +8660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
 |GP-electronic|YC-83P|YC-83P|YC-83P|
 |GP-electronic|YC-83T|YC-83T|YC-83T|
+|GPOA|UAI PRO|UAI_PRO|UAI_Series|
 |GREATASIA|E101GC|E101GC|E101GC|
 |GREATASIA|E101GC4G|E101GC4G|E101GC4G|
 |GREATASIA|E101GCM|E101GCM|E101GCM|
@@ -21811,6 +21813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mtek|MTEK|stanford|2K SMART TV|
 |Mtek|MTEK|zhongshan|4K SMART TV|
 |Multilaser|Brazil|martin|Multilaser Android TV|
+|Multilaser|DI01_M7_WIFI|DI01_M7_WIFI|DI01_M7_WIFI|
 |Multilaser|Discovery|Discovery|Discovery|
 |Multilaser|F Max 2|Multilaser_F_Max_2|Multilaser_F_Max_2|
 |Multilaser|G 3|Multilaser_G_3|Multilaser_G_3|
@@ -26885,9 +26888,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Pad|yunluo|22081283G|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDC|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
+|Redmi|Redmi Pad Pro 5G|ruan|24074RPD2C|
 |Redmi|Redmi Pad SE|xun|23073RPBFC|
 |Redmi|Redmi Pad SE|xun|23073RPBFG|
 |Redmi|Redmi Pad SE|xun|23073RPBFL|
+|Redmi|Redmi Turbo 3|peridot|24069RA21C|
 |Redmi|Smart TV|tarzan|MiTV-MOOQ3|
 |Redway|redway10|redway10|redway10|
 |Redway|redway10_lite|redway10_lite|redway10_lite|
@@ -31725,6 +31730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
+|Smart_Touch|ST IR13|STG_IR13|STG_Series|
 |Smartab|SRF79|SRF79|SRF79|
 |Smartab|ST1009X|ST1009X|ST1009X|
 |Smartab|ST1020|ST1020|ST1020|
@@ -39122,6 +39128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi for arm64|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
+|Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
 |Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|
 |Xiaomi|Xiaomi MIX Fold 2|zizhan|22061218C|
 |Xiaomi|Xiaomi MIX Fold 3|babylon|2308CPXD0C|

@@ -60542,6 +60542,13 @@
    "model": "P803"
   }
  ],
+ "EB101": [
+  {
+   "brand": "EGOBOO",
+   "device": "EB101",
+   "model": "EB101"
+  }
+ ],
  "Mars8": [
   {
    "brand": "EGOTEK",
@@ -71508,6 +71515,13 @@
    "brand": "GP-electronic",
    "device": "YC-83T",
    "model": "YC-83T"
+  }
+ ],
+ "UAI PRO": [
+  {
+   "brand": "GPOA",
+   "device": "UAI_PRO",
+   "model": "UAI_Series"
   }
  ],
  "E101GC": [
@@ -149005,6 +149019,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "DI01_M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "device": "DI01_M7_WIFI",
+   "model": "DI01_M7_WIFI"
+  }
+ ],
  "F Max 2": [
   {
    "brand": "Multilaser",
@@ -180326,6 +180347,13 @@
    "model": "2405CRPFDG"
   }
  ],
+ "Redmi Pad Pro 5G": [
+  {
+   "brand": "Redmi",
+   "device": "ruan",
+   "model": "24074RPD2C"
+  }
+ ],
  "Redmi Pad SE": [
   {
    "brand": "Redmi",
@@ -180341,6 +180369,13 @@
    "brand": "Redmi",
    "device": "xun",
    "model": "23073RPBFL"
+  }
+ ],
+ "Redmi Turbo 3": [
+  {
+   "brand": "Redmi",
+   "device": "peridot",
+   "model": "24069RA21C"
   }
  ],
  "redway10": [
@@ -207955,6 +207990,13 @@
    "brand": "SmartPad",
    "device": "Smartpad-V10",
    "model": "Smartpad-V10"
+  }
+ ],
+ "ST IR13": [
+  {
+   "brand": "Smart_Touch",
+   "device": "STG_IR13",
+   "model": "STG_Series"
   }
  ],
  "SRF79": [
@@ -251486,6 +251528,13 @@
    "brand": "Xiaomi",
    "device": "zijin",
    "model": "2109119BC"
+  }
+ ],
+ "Xiaomi Civi 4": [
+  {
+   "brand": "Xiaomi",
+   "device": "chenfeng",
+   "model": "24053PY09C"
   }
  ],
  "Xiaomi MIX Fold": [
