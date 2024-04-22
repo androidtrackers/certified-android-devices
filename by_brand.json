@@ -19738,6 +19738,11 @@
    "model": "C7x"
   },
   {
+   "device": "C0230",
+   "name": "C9",
+   "model": "C9"
+  },
+  {
    "device": "D10",
    "name": "D10",
    "model": "D10"
@@ -73249,6 +73254,11 @@
    "device": "Infinix-X6853",
    "name": "Infinix NOTE 40",
    "model": "Infinix X6853"
+  },
+  {
+   "device": "Infinix-X6852",
+   "name": "Infinix NOTE 40 5G",
+   "model": "Infinix X6852"
   },
   {
    "device": "Infinix-X6850",

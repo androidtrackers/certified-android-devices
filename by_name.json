@@ -36368,6 +36368,43 @@
    "model": "C7x"
   }
  ],
+ "C9": [
+  {
+   "brand": "Blu",
+   "device": "C0230",
+   "model": "C9"
+  },
+  {
+   "brand": "DEWSOD",
+   "device": "C9",
+   "model": "C9"
+  },
+  {
+   "brand": "G-Tab",
+   "device": "C9",
+   "model": "C9"
+  },
+  {
+   "brand": "HOMTOM",
+   "device": "C9",
+   "model": "C9"
+  },
+  {
+   "brand": "Oukitel",
+   "device": "C9",
+   "model": "C9"
+  },
+  {
+   "brand": "TCL",
+   "device": "A3A_XL_4G",
+   "model": "5199I"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-C9",
+   "model": "TECNO-C9"
+  }
+ ],
  "D10": [
   {
    "brand": "Blu",
@@ -51893,38 +51930,6 @@
    "brand": "DEPLAY",
    "device": "BS801_EEA",
    "model": "BS801"
-  }
- ],
- "C9": [
-  {
-   "brand": "DEWSOD",
-   "device": "C9",
-   "model": "C9"
-  },
-  {
-   "brand": "G-Tab",
-   "device": "C9",
-   "model": "C9"
-  },
-  {
-   "brand": "HOMTOM",
-   "device": "C9",
-   "model": "C9"
-  },
-  {
-   "brand": "Oukitel",
-   "device": "C9",
-   "model": "C9"
-  },
-  {
-   "brand": "TCL",
-   "device": "A3A_XL_4G",
-   "model": "5199I"
-  },
-  {
-   "brand": "Tecno",
-   "device": "TECNO-C9",
-   "model": "TECNO-C9"
   }
  ],
  "A.350": [
@@ -104162,6 +104167,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6853",
    "model": "Infinix X6853"
+  }
+ ],
+ "Infinix NOTE 40 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6852",
+   "model": "Infinix X6852"
   }
  ],
  "Infinix NOTE 40 Pro": [

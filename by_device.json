@@ -36195,6 +36195,13 @@
    "model": "C7x"
   }
  ],
+ "C0230": [
+  {
+   "brand": "Blu",
+   "name": "C9",
+   "model": "C9"
+  }
+ ],
  "D10": [
   {
    "brand": "Blu",
@@ -103110,6 +103117,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 40",
    "model": "Infinix X6853"
+  }
+ ],
+ "Infinix-X6852": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40 5G",
+   "model": "Infinix X6852"
   }
  ],
  "Infinix-X6850": [

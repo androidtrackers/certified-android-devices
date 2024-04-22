@@ -30965,6 +30965,33 @@
    "device": "C290EQ"
   }
  ],
+ "C9": [
+  {
+   "brand": "Blu",
+   "name": "C9",
+   "device": "C0230"
+  },
+  {
+   "brand": "DEWSOD",
+   "name": "C9",
+   "device": "C9"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "C9",
+   "device": "C9"
+  },
+  {
+   "brand": "HOMTOM",
+   "name": "C9",
+   "device": "C9"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "C9",
+   "device": "C9"
+  }
+ ],
  "D10": [
   {
    "brand": "Blu",
@@ -45950,28 +45977,6 @@
    "brand": "DEPLAY",
    "name": "BS801",
    "device": "BS801_EEA"
-  }
- ],
- "C9": [
-  {
-   "brand": "DEWSOD",
-   "name": "C9",
-   "device": "C9"
-  },
-  {
-   "brand": "G-Tab",
-   "name": "C9",
-   "device": "C9"
-  },
-  {
-   "brand": "HOMTOM",
-   "name": "C9",
-   "device": "C9"
-  },
-  {
-   "brand": "Oukitel",
-   "name": "C9",
-   "device": "C9"
   }
  ],
  "A350": [
@@ -102189,6 +102194,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 40",
    "device": "Infinix-X6853"
+  }
+ ],
+ "Infinix X6852": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40 5G",
+   "device": "Infinix-X6852"
   }
  ],
  "Infinix X6850": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-21
+Last sync is 2024-04-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3826,6 +3826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C7|C250EQ|C7|
 |Blu|C7 MAX|C0220|C7 MAX|
 |Blu|C7x|C290EQ|C7x|
+|Blu|C9|C0230|C9|
 |Blu|D10|D10|D10|
 |Blu|D500|D500|D500|
 |Blu|D510|D510|D510|
@@ -14205,6 +14206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 30|Infinix-X6833B|Infinix X6833B|
 |Infinix|Infinix NOTE 30 5G|Infinix-X6711|Infinix X6711|
 |Infinix|Infinix NOTE 40|Infinix-X6853|Infinix X6853|
+|Infinix|Infinix NOTE 40 5G|Infinix-X6852|Infinix X6852|
 |Infinix|Infinix NOTE 40 Pro|Infinix-X6850|Infinix X6850|
 |Infinix|Infinix NOTE 40 Pro 5G|Infinix-X6851|Infinix X6851|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
