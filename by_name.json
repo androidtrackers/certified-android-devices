@@ -5874,6 +5874,13 @@
    "model": "G2"
   }
  ],
+ "2E 2K Google TV": [
+  {
+   "brand": "2E (ERC)",
+   "device": "capitolhill",
+   "model": "2E 2K Google TV"
+  }
+ ],
  "2E 4K Google TV": [
   {
    "brand": "2E (ERC)",
@@ -41329,6 +41336,13 @@
    "brand": "COOKIE",
    "device": "YS-CK0001",
    "model": "YS-CK0001"
+  }
+ ],
+ "C107": [
+  {
+   "brand": "COOLFAN",
+   "device": "C107",
+   "model": "C107"
   }
  ],
  "OC106": [
@@ -100729,6 +100743,21 @@
   },
   {
    "brand": "Hyundai",
+   "device": "hongkong",
+   "model": "4K SMART ATSC TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "hongkong",
+   "model": "4K SMART COL TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "hongkong",
+   "model": "4K SMART ISDB TV"
+  },
+  {
+   "brand": "Hyundai",
    "device": "lavender",
    "model": "4K SMART COL TV"
   },
@@ -110009,6 +110038,13 @@
    "model": "JVC 4K Smart TV Plus"
   }
  ],
+ "JVC G24 TV": [
+  {
+   "brand": "JVC",
+   "device": "anaheim",
+   "model": "JVC G24 TV"
+  }
+ ],
  "JVC J20": [
   {
    "brand": "JVC",
@@ -112458,6 +112494,13 @@
   {
    "brand": "KTCtv",
    "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
+ "IHOME": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
    "model": "4K SMART TV"
   }
  ],
@@ -116069,6 +116112,20 @@
    "brand": "Kruger&Matz",
    "device": "Flow_9",
    "model": "Flow 9"
+  }
+ ],
+ "KM 2K TV": [
+  {
+   "brand": "Kruger&Matz",
+   "device": "capitolhill",
+   "model": "KM 2K TV"
+  }
+ ],
+ "KM 4K TV": [
+  {
+   "brand": "Kruger&Matz",
+   "device": "keoneae",
+   "model": "KM 4K TV"
   }
  ],
  "KM1066": [
@@ -157702,6 +157759,13 @@
    "model": "ORCA 4K Android TV"
   }
  ],
+ "Doshisha 2K Smart TV": [
+  {
+   "brand": "ORION",
+   "device": "umeda",
+   "model": "Doshisha 2K Smart TV"
+  }
+ ],
  "C20 Pro": [
   {
    "brand": "OSCAL",
@@ -178192,6 +178256,20 @@
    "model": "Reno Max"
   }
  ],
+ "RCA TV 2K-A": [
+  {
+   "brand": "RCA",
+   "device": "lasalle",
+   "model": "RCA TV 2K-A"
+  }
+ ],
+ "RCA TV 4K G": [
+  {
+   "brand": "RCA",
+   "device": "keoneae",
+   "model": "RCA TV 4K G"
+  }
+ ],
  "RCARENO5011619": [
   {
    "brand": "RCA",
@@ -185681,6 +185759,13 @@
    "brand": "SWTV",
    "device": "anaheim",
    "model": "SWTV-22COL-4K"
+  }
+ ],
+ "SWTV-22HK-4K": [
+  {
+   "brand": "SWTV",
+   "device": "anaheim",
+   "model": "SWTV-22HK-4K"
   }
  ],
  "SWTV-22HK-4K NF": [
@@ -205961,6 +206046,32 @@
    "model": "SHARP 2K TV"
   }
  ],
+ "SHARP 4K TV": [
+  {
+   "brand": "Sharp",
+   "device": "anaheim",
+   "model": "SHARP 4K TV"
+  }
+ ],
+ "SHARP 4K TVH": [
+  {
+   "brand": "Sharp",
+   "device": "anaheim",
+   "model": "SHARP 4K TVH"
+  }
+ ],
+ "SHARP 4K TVT": [
+  {
+   "brand": "Sharp",
+   "device": "anaheim",
+   "model": "SHARP 4K TV"
+  },
+  {
+   "brand": "Sharp",
+   "device": "anaheim",
+   "model": "SHARP 4K TVT"
+  }
+ ],
  "SHARP A2 Lite": [
   {
    "brand": "Sharp",
@@ -209434,6 +209545,11 @@
   }
  ],
  "SONEVIEW": [
+  {
+   "brand": "Soneview",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
   {
    "brand": "Soneview",
    "device": "lavender",
@@ -215769,6 +215885,11 @@
   {
    "brand": "Syinix",
    "device": "SW6H",
+   "model": "Glory TV"
+  },
+  {
+   "brand": "Syinix",
+   "device": "umeda",
    "model": "Glory TV"
   }
  ],
@@ -269173,6 +269294,13 @@
    "brand": "realme",
    "device": "RE5C9F",
    "model": "RMX3834"
+  }
+ ],
+ "RMX3998": [
+  {
+   "brand": "realme",
+   "device": "RE5C94L1",
+   "model": "RMX3998"
   }
  ],
  "narzo 50 5G": [

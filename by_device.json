@@ -104,6 +104,138 @@
    "model": "G"
   }
  ],
+ "capitolhill": [
+  {
+   "brand": "2E (ERC)",
+   "name": "2E 2K Google TV",
+   "model": "2E 2K Google TV"
+  },
+  {
+   "brand": "ASTEX",
+   "name": "ASTEX 2K Google TV",
+   "model": "ASTEX 2K Google TV"
+  },
+  {
+   "brand": "Axen",
+   "name": "AXEN 2K Google TV",
+   "model": "AXEN 2K Google TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt 2K Google TV",
+   "model": "Blaupunkt 2K Google TV"
+  },
+  {
+   "brand": "Daiwa",
+   "name": "2K DATV",
+   "model": "Daiwa 2K Google TV"
+  },
+  {
+   "brand": "Decaview",
+   "name": "Decaview 2K Google TV",
+   "model": "Decaview  2K Google TV"
+  },
+  {
+   "brand": "DigiKing",
+   "name": "Digiking 2K Google TV",
+   "model": "Digiking 2K Google TV"
+  },
+  {
+   "brand": "Dyon",
+   "name": "DYON 2K Google TV",
+   "model": "DYON 2K Google TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO 2K Google TV",
+   "model": "EKO 2K Google TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 2K Google TV",
+   "model": "HYUNDAI  2K Google TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 2K Google TV-E",
+   "model": "HYUNDAI 2K Google TV-E"
+  },
+  {
+   "brand": "IMARFLEX",
+   "name": "imarflex 2K Google TV",
+   "model": "imarflex 2K Google TV"
+  },
+  {
+   "brand": "INNOVA",
+   "name": "INNOVA 2K Google TV",
+   "model": "INNOVA 2K Google TV"
+  },
+  {
+   "brand": "Ikon",
+   "name": "IKON 2K Google TV",
+   "model": "IKON 2K Google TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "HK 2K Google TV",
+   "model": "HK 2K Google TV"
+  },
+  {
+   "brand": "Kruger&Matz",
+   "name": "KM 2K TV",
+   "model": "KM 2K TV"
+  },
+  {
+   "brand": "PROTON",
+   "name": "PROTON 2K Google TV",
+   "model": "PROTON 2K Google TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA 2K Google TV-E",
+   "model": "RCA 2K Google TV-E"
+  },
+  {
+   "brand": "SICON",
+   "name": "SICON 2K Google TV",
+   "model": "SICON 2K Google TV"
+  },
+  {
+   "brand": "STARSHINE",
+   "name": "STARSHINE 2K Google TV",
+   "model": "STARSHINE  2K Google TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 2K Google TV",
+   "model": "SYLVOX  2K Google TV"
+  },
+  {
+   "brand": "Stream",
+   "name": "STREAM 2K Google TV",
+   "model": "STREAM 2K Google TV"
+  },
+  {
+   "brand": "Sunny",
+   "name": "SUNNY 2K Google TV",
+   "model": "SUNNY 2K Google TV"
+  },
+  {
+   "brand": "TELSTAR",
+   "name": "TELSTAR 2K Google TV",
+   "model": "TELSTAR 2K Google TV"
+  },
+  {
+   "brand": "innos",
+   "name": "innos 2K Google TV",
+   "model": "innos 2K Google TV"
+  },
+  {
+   "brand": "innos",
+   "name": "innos 2K Google TV-A",
+   "model": "innos 2K Google TV-A"
+  }
+ ],
  "keoneae": [
   {
    "brand": "2E (ERC)",
@@ -226,6 +358,11 @@
    "model": "HK 4K Google TV"
   },
   {
+   "brand": "Kruger&Matz",
+   "name": "KM 4K TV",
+   "model": "KM 4K TV"
+  },
+  {
    "brand": "PROTON",
    "name": "PROTON 4K Google TV",
    "model": "PROTON 4K Google TV"
@@ -239,6 +376,11 @@
    "brand": "RCA",
    "name": "RCA 4K Google TV-E",
    "model": "RCA 4K Google TV-E"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA TV 4K G",
+   "model": "RCA TV 4K G"
   },
   {
    "brand": "SICON",
@@ -4671,6 +4813,21 @@
    "model": "EcoTV Pro I"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "4K SMART ATSC TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "4K SMART COL TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "4K SMART ISDB TV"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV 4K"
@@ -4763,6 +4920,11 @@
   {
    "brand": "KTCtv",
    "name": "HARMON-TEC",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IHOME",
    "model": "4K SMART TV"
   },
   {
@@ -4938,6 +5100,11 @@
   {
    "brand": "Siragon",
    "name": "Siragon",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
    "model": "4K SMART TV"
   },
   {
@@ -6231,6 +6398,11 @@
    "model": "RCA 2K Android TV"
   },
   {
+   "brand": "RCA",
+   "name": "RCA TV 2K-A",
+   "model": "RCA TV 2K-A"
+  },
+  {
    "brand": "Rindo",
    "name": "RINDO 2K Android TV",
    "model": "RINDO 2K Android TV"
@@ -6269,128 +6441,6 @@
    "brand": "simfer",
    "name": "simfer 2K Android TV",
    "model": "simfer 2K Android TV"
-  }
- ],
- "capitolhill": [
-  {
-   "brand": "ASTEX",
-   "name": "ASTEX 2K Google TV",
-   "model": "ASTEX 2K Google TV"
-  },
-  {
-   "brand": "Axen",
-   "name": "AXEN 2K Google TV",
-   "model": "AXEN 2K Google TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt 2K Google TV",
-   "model": "Blaupunkt 2K Google TV"
-  },
-  {
-   "brand": "Daiwa",
-   "name": "2K DATV",
-   "model": "Daiwa 2K Google TV"
-  },
-  {
-   "brand": "Decaview",
-   "name": "Decaview 2K Google TV",
-   "model": "Decaview  2K Google TV"
-  },
-  {
-   "brand": "DigiKing",
-   "name": "Digiking 2K Google TV",
-   "model": "Digiking 2K Google TV"
-  },
-  {
-   "brand": "Dyon",
-   "name": "DYON 2K Google TV",
-   "model": "DYON 2K Google TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EKO 2K Google TV",
-   "model": "EKO 2K Google TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI 2K Google TV",
-   "model": "HYUNDAI  2K Google TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI 2K Google TV-E",
-   "model": "HYUNDAI 2K Google TV-E"
-  },
-  {
-   "brand": "IMARFLEX",
-   "name": "imarflex 2K Google TV",
-   "model": "imarflex 2K Google TV"
-  },
-  {
-   "brand": "INNOVA",
-   "name": "INNOVA 2K Google TV",
-   "model": "INNOVA 2K Google TV"
-  },
-  {
-   "brand": "Ikon",
-   "name": "IKON 2K Google TV",
-   "model": "IKON 2K Google TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "HK 2K Google TV",
-   "model": "HK 2K Google TV"
-  },
-  {
-   "brand": "PROTON",
-   "name": "PROTON 2K Google TV",
-   "model": "PROTON 2K Google TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA 2K Google TV-E",
-   "model": "RCA 2K Google TV-E"
-  },
-  {
-   "brand": "SICON",
-   "name": "SICON 2K Google TV",
-   "model": "SICON 2K Google TV"
-  },
-  {
-   "brand": "STARSHINE",
-   "name": "STARSHINE 2K Google TV",
-   "model": "STARSHINE  2K Google TV"
-  },
-  {
-   "brand": "SYLVOX",
-   "name": "SYLVOX 2K Google TV",
-   "model": "SYLVOX  2K Google TV"
-  },
-  {
-   "brand": "Stream",
-   "name": "STREAM 2K Google TV",
-   "model": "STREAM 2K Google TV"
-  },
-  {
-   "brand": "Sunny",
-   "name": "SUNNY 2K Google TV",
-   "model": "SUNNY 2K Google TV"
-  },
-  {
-   "brand": "TELSTAR",
-   "name": "TELSTAR 2K Google TV",
-   "model": "TELSTAR 2K Google TV"
-  },
-  {
-   "brand": "innos",
-   "name": "innos 2K Google TV",
-   "model": "innos 2K Google TV"
-  },
-  {
-   "brand": "innos",
-   "name": "innos 2K Google TV-A",
-   "model": "innos 2K Google TV-A"
   }
  ],
  "kenton": [
@@ -14053,6 +14103,11 @@
    "model": "ok 2K TV"
   },
   {
+   "brand": "ORION",
+   "name": "Doshisha 2K Smart TV",
+   "model": "Doshisha 2K Smart TV"
+  },
+  {
    "brand": "PRISMPLUS",
    "name": "PrismPlus 2KA",
    "model": "PrismPlus 2KA"
@@ -14081,6 +14136,11 @@
    "brand": "Sharp",
    "name": "SHARP 2K TV",
    "model": "SHARP 2K TV"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Glory TV",
+   "model": "Glory TV"
   },
   {
    "brand": "TORNADO",
@@ -40340,6 +40400,13 @@
    "model": "YS-CK0001"
   }
  ],
+ "C107": [
+  {
+   "brand": "COOLFAN",
+   "name": "C107",
+   "model": "C107"
+  }
+ ],
  "OC106": [
   {
    "brand": "COOLFAN",
@@ -54125,6 +54192,11 @@
    "model": "JVC 4K Smart TV Plus"
   },
   {
+   "brand": "JVC",
+   "name": "JVC G24 TV",
+   "model": "JVC G24 TV"
+  },
+  {
    "brand": "PRISMPLUS",
    "name": "4K Smart TV Plus",
    "model": "4K Smart TV Plus"
@@ -54151,6 +54223,11 @@
   },
   {
    "brand": "SWTV",
+   "name": "SWTV-22HK-4K",
+   "model": "SWTV-22HK-4K"
+  },
+  {
+   "brand": "SWTV",
    "name": "SWTV-22HK-4K NF",
    "model": "SWTV-22HK-4K NF"
   },
@@ -54173,6 +54250,26 @@
    "brand": "SWTV",
    "name": "SWTV-22TW-4K",
    "model": "SWTV-22TW-4K"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TV",
+   "model": "SHARP 4K TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TVH",
+   "model": "SHARP 4K TVH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TVT",
+   "model": "SHARP 4K TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TVT",
+   "model": "SHARP 4K TVT"
   },
   {
    "brand": "Singer",
@@ -270747,6 +270844,18 @@
    "model": "RMX3834"
   }
  ],
+ "RE5C94L1": [
+  {
+   "brand": "realme",
+   "name": "RMX3998",
+   "model": "RMX3998"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 12 5G",
+   "model": "RMX3999"
+  }
+ ],
  "RED8CDL1": [
   {
    "brand": "realme",
@@ -270938,13 +271047,6 @@
    "brand": "realme",
    "name": "realme 11 Pro+ 5G",
    "model": "RMX3741"
-  }
- ],
- "RE5C94L1": [
-  {
-   "brand": "realme",
-   "name": "realme 12 5G",
-   "model": "RMX3999"
   }
  ],
  "RE5C84L1": [

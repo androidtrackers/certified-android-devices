@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-22
+Last sync is 2024-04-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17,6 +17,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |10.or|E|E|E|
 |10.or|G|G|G|
 |10.or|G2|G2|G2|
+|2E (ERC)|2E 2K Google TV|capitolhill|2E 2K Google TV|
 |2E (ERC)|2E 4K Google TV|keoneae|2E 4K Google TV|
 |3222222 Satelital|G706|G706|G706|
 |3BBTV|3BBTV|S3000|S3000-T0C08|
@@ -4455,6 +4456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CONVERGE|T7045PS|T7045PS|T7045PS|
 |CONVERGE|T8045PS|T8045PS|T8045PS|
 |COOKIE|YS-CK0001|YS-CK0001|YS-CK0001|
+|COOLFAN|C107|C107|C107|
 |COOLFAN|OC106|OC106|OC106|
 |COOLFAN|OC106|OC106_EEA|OC106|
 |COOP|MARTE|MARTE|MARTE|
@@ -13663,6 +13665,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYUNDAI|bruno|HYUNDAI2KAndroidTV|
+|Hyundai|HYUNDAI|hongkong|4K SMART ATSC TV|
+|Hyundai|HYUNDAI|hongkong|4K SMART COL TV|
+|Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|lavender|4K SMART COL TV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
@@ -15178,6 +15183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|zhongshan|COL 4K SMART TV|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
 |JVC|JVC 4K Smart TV Plus|anaheim|JVC 4K Smart TV Plus|
+|JVC|JVC G24 TV|anaheim|JVC G24 TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|KR|expo|Premium 4K GTV|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
@@ -15561,6 +15567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
 |KTCtv|IBG|lavender|4K SMART TV|
+|KTCtv|IHOME|hongkong|4K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
 |KTCtv|INNO-HIT|hongkong|4K SMART TV|
 |KTCtv|INNO-HIT|lavender|4K SMART TV|
@@ -16096,6 +16103,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|FLOW7|FLOW7|FLOW7|
 |Kruger&Matz|Flow_7S_EEA|Flow_7S|Flow 7S|
 |Kruger&Matz|Flow_9_EEA|Flow_9|Flow 9|
+|Kruger&Matz|KM 2K TV|capitolhill|KM 2K TV|
+|Kruger&Matz|KM 4K TV|keoneae|KM 4K TV|
 |Kruger&Matz|KM1066|EAGLE_1066|KM1066|
 |Kruger&Matz|KM1067|EAGLE_1067|KM1067|
 |Kruger&Matz|KM1072|EAGLE_1072|KM1072|
@@ -23225,6 +23234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ORCA|OR-50UX400S|samseong|AI PONT|
 |ORCA|ORCA 2K Android TV|lasalle|ORCA 2K Android TV|
 |ORCA|ORCA 4K Android TV|kenton|ORCA 4K Android TV|
+|ORION|Doshisha 2K Smart TV|umeda|Doshisha 2K Smart TV|
 |ORION|Smart TV|longshan|AI PONT|
 |ORION|Smart TV|redwood|AI PONT|
 |OSCAL|C20|C20|C20|
@@ -26554,6 +26564,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6S03W12|RCT6S03W12|RCT6S03W12|
 |RCA|RCA RCT6S03W14|RCT6S03W14|RCT6S03W14|
 |RCA|RCA Reno Max|RCA_Reno_Max|Reno Max|
+|RCA|RCA TV 2K-A|lasalle|RCA TV 2K-A|
+|RCA|RCA TV 4K G|keoneae|RCA TV 4K G|
 |RCA|RCARENO5011619|RCARENO5011619|RCARENO5011619|
 |RCA|RCA_G2|RCA_G2|RCA G2|
 |RCA|RCS13101T|RCS13101T|RCS13101T|
@@ -27736,6 +27748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-22AE-4K|anaheim|SWTV-22AE-4K|
 |SWTV|SWTV-22AE-FHD|umeda|SWTV-22AE-FHD|
 |SWTV|SWTV-22COL-4K|anaheim|SWTV-22COL-4K|
+|SWTV|SWTV-22HK-4K|anaheim|SWTV-22HK-4K|
 |SWTV|SWTV-22HK-4K NF|anaheim|SWTV-22HK-4K NF|
 |SWTV|SWTV-22NA-4K|anaheim|SWTV-22NA-4K|
 |SWTV|SWTV-22NA-FHD|umeda|SWTV-22NA-FHD|
@@ -31386,6 +31399,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP|zhongshan|4K SMART TV|
 |Sharp|SHARP 2K SMART TV|shinagawa|SHARP 2K SMART TV|
 |Sharp|SHARP 2K TV|umeda|SHARP 2K TV|
+|Sharp|SHARP 4K TV|anaheim|SHARP 4K TV|
+|Sharp|SHARP 4K TVH|anaheim|SHARP 4K TVH|
+|Sharp|SHARP 4K TVT|anaheim|SHARP 4K TV|
+|Sharp|SHARP 4K TVT|anaheim|SHARP 4K TVT|
 |Sharp|SHARP A2 Lite|SJ3|FS8026|
 |Sharp|SHARP A2 Mini|HQ3|IF9009|
 |Sharp|SHARP AQUOS C10|SH-Z01|SH-Z01|
@@ -31945,6 +31962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Solone|E1457|E1457|E1457|
 |Solone|W1450|W1450|W1450|
 |Solone|W1452|W1452|W1452|
+|Soneview|SONEVIEW|hongkong|4K SMART TV|
 |Soneview|SONEVIEW|lavender|4K SMART TV|
 |Soneview|SONEVIEW|mountbaker|2K SMART TV|
 |Soneview|SONEVIEW|stanford|2K SMART TV|
@@ -33045,6 +33063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Syinix|55U51|barking|Syinix AndroidTV|
 |Syinix|Africa|yeongdeungpo|Syinix UHD Android TV|
 |Syinix|Glory TV|SW6H|Glory TV|
+|Syinix|Glory TV|umeda|Glory TV|
 |Syinix|Smart TV|longshan|AI PONT|
 |Syinix|Smart TV|redwood|AI PONT|
 |Symphony|ATOM|ATOM|ATOM|
@@ -42237,6 +42256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
+|realme|RMX3998|RE5C94L1|RMX3998|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|

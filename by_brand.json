@@ -67,6 +67,11 @@
  ],
  "2E (ERC)": [
   {
+   "device": "capitolhill",
+   "name": "2E 2K Google TV",
+   "model": "2E 2K Google TV"
+  },
+  {
    "device": "keoneae",
    "name": "2E 4K Google TV",
    "model": "2E 4K Google TV"
@@ -23032,6 +23037,11 @@
   }
  ],
  "COOLFAN": [
+  {
+   "device": "C107",
+   "name": "C107",
+   "model": "C107"
+  },
   {
    "device": "OC106",
    "name": "OC106",
@@ -70413,6 +70423,21 @@
    "model": "HYUNDAI2KAndroidTV"
   },
   {
+   "device": "hongkong",
+   "name": "HYUNDAI",
+   "model": "4K SMART ATSC TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "HYUNDAI",
+   "model": "4K SMART COL TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "HYUNDAI",
+   "model": "4K SMART ISDB TV"
+  },
+  {
    "device": "lavender",
    "name": "HYUNDAI",
    "model": "4K SMART COL TV"
@@ -78206,6 +78231,11 @@
    "model": "JVC 4K Smart TV Plus"
   },
   {
+   "device": "anaheim",
+   "name": "JVC G24 TV",
+   "model": "JVC G24 TV"
+  },
+  {
    "device": "Cunda",
    "name": "JVC J20",
    "model": "J20"
@@ -80234,6 +80264,11 @@
   {
    "device": "lavender",
    "name": "IBG",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "IHOME",
    "model": "4K SMART TV"
   },
   {
@@ -83018,6 +83053,16 @@
    "device": "Flow_9",
    "name": "Flow_9_EEA",
    "model": "Flow 9"
+  },
+  {
+   "device": "capitolhill",
+   "name": "KM 2K TV",
+   "model": "KM 2K TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "KM 4K TV",
+   "model": "KM 4K TV"
   },
   {
    "device": "EAGLE_1066",
@@ -119509,6 +119554,11 @@
  ],
  "ORION": [
   {
+   "device": "umeda",
+   "name": "Doshisha 2K Smart TV",
+   "model": "Doshisha 2K Smart TV"
+  },
+  {
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -136576,6 +136626,16 @@
    "model": "Reno Max"
   },
   {
+   "device": "lasalle",
+   "name": "RCA TV 2K-A",
+   "model": "RCA TV 2K-A"
+  },
+  {
+   "device": "keoneae",
+   "name": "RCA TV 4K G",
+   "model": "RCA TV 4K G"
+  },
+  {
    "device": "RCARENO5011619",
    "name": "RCARENO5011619",
    "model": "RCARENO5011619"
@@ -142788,6 +142848,11 @@
    "device": "anaheim",
    "name": "SWTV-22COL-4K",
    "model": "SWTV-22COL-4K"
+  },
+  {
+   "device": "anaheim",
+   "name": "SWTV-22HK-4K",
+   "model": "SWTV-22HK-4K"
   },
   {
    "device": "anaheim",
@@ -161126,6 +161191,26 @@
    "model": "SHARP 2K TV"
   },
   {
+   "device": "anaheim",
+   "name": "SHARP 4K TV",
+   "model": "SHARP 4K TV"
+  },
+  {
+   "device": "anaheim",
+   "name": "SHARP 4K TVH",
+   "model": "SHARP 4K TVH"
+  },
+  {
+   "device": "anaheim",
+   "name": "SHARP 4K TVT",
+   "model": "SHARP 4K TV"
+  },
+  {
+   "device": "anaheim",
+   "name": "SHARP 4K TVT",
+   "model": "SHARP 4K TVT"
+  },
+  {
    "device": "SJ3",
    "name": "SHARP A2 Lite",
    "model": "FS8026"
@@ -164024,6 +164109,11 @@
   }
  ],
  "Soneview": [
+  {
+   "device": "hongkong",
+   "name": "SONEVIEW",
+   "model": "4K SMART TV"
+  },
   {
    "device": "lavender",
    "name": "SONEVIEW",
@@ -169659,6 +169749,11 @@
   },
   {
    "device": "SW6H",
+   "name": "Glory TV",
+   "model": "Glory TV"
+  },
+  {
+   "device": "umeda",
    "name": "Glory TV",
    "model": "Glory TV"
   },
@@ -216915,6 +217010,11 @@
    "device": "RE5C9F",
    "name": "RMX3834",
    "model": "RMX3834"
+  },
+  {
+   "device": "RE5C94L1",
+   "name": "RMX3998",
+   "model": "RMX3998"
   },
   {
    "device": "mateo",

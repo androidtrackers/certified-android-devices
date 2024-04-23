@@ -116,6 +116,13 @@
    "device": "G2"
   }
  ],
+ "2E 2K Google TV": [
+  {
+   "brand": "2E (ERC)",
+   "name": "2E 2K Google TV",
+   "device": "capitolhill"
+  }
+ ],
  "2E 4K Google TV": [
   {
    "brand": "2E (ERC)",
@@ -2865,6 +2872,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "IHOME",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
    "name": "IMMER",
    "device": "hongkong"
   },
@@ -3167,6 +3179,11 @@
    "brand": "Smart-Tech TV",
    "name": "SMART TEcHNOLGY",
    "device": "zhongshan"
+  },
+  {
+   "brand": "Soneview",
+   "name": "SONEVIEW",
+   "device": "hongkong"
   },
   {
    "brand": "Soneview",
@@ -35650,6 +35667,13 @@
    "brand": "COOKIE",
    "name": "YS-CK0001",
    "device": "YS-CK0001"
+  }
+ ],
+ "C107": [
+  {
+   "brand": "COOLFAN",
+   "name": "C107",
+   "device": "C107"
   }
  ],
  "OC106": [
@@ -98657,11 +98681,30 @@
    "device": "bruno"
   }
  ],
+ "4K SMART ATSC TV": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "device": "hongkong"
+  }
+ ],
  "4K SMART COL TV": [
   {
    "brand": "Hyundai",
    "name": "HYUNDAI",
+   "device": "hongkong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
    "device": "lavender"
+  }
+ ],
+ "4K SMART ISDB TV": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "device": "hongkong"
   }
  ],
  "HYUNDAI 2K Android TV-A": [
@@ -108533,6 +108576,13 @@
    "device": "anaheim"
   }
  ],
+ "JVC G24 TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC G24 TV",
+   "device": "anaheim"
+  }
+ ],
  "Premium 4K GTV": [
   {
    "brand": "JVC",
@@ -113986,6 +114036,20 @@
    "brand": "Kruger&Matz",
    "name": "Flow_9_EEA",
    "device": "Flow_9"
+  }
+ ],
+ "KM 2K TV": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "KM 2K TV",
+   "device": "capitolhill"
+  }
+ ],
+ "KM 4K TV": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "KM 4K TV",
+   "device": "keoneae"
   }
  ],
  "KM1066": [
@@ -160017,6 +160081,13 @@
    "device": "kenton"
   }
  ],
+ "Doshisha 2K Smart TV": [
+  {
+   "brand": "ORION",
+   "name": "Doshisha 2K Smart TV",
+   "device": "umeda"
+  }
+ ],
  "C20 Pro": [
   {
    "brand": "OSCAL",
@@ -181331,6 +181402,20 @@
    "device": "RCA_Reno_Max"
   }
  ],
+ "RCA TV 2K-A": [
+  {
+   "brand": "RCA",
+   "name": "RCA TV 2K-A",
+   "device": "lasalle"
+  }
+ ],
+ "RCA TV 4K G": [
+  {
+   "brand": "RCA",
+   "name": "RCA TV 4K G",
+   "device": "keoneae"
+  }
+ ],
  "RCARENO5011619": [
   {
    "brand": "RCA",
@@ -188901,6 +188986,13 @@
   {
    "brand": "SWTV",
    "name": "SWTV-22COL-4K",
+   "device": "anaheim"
+  }
+ ],
+ "SWTV-22HK-4K": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22HK-4K",
    "device": "anaheim"
   }
  ],
@@ -213888,6 +213980,32 @@
    "device": "umeda"
   }
  ],
+ "SHARP 4K TV": [
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TV",
+   "device": "anaheim"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TVT",
+   "device": "anaheim"
+  }
+ ],
+ "SHARP 4K TVH": [
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TVH",
+   "device": "anaheim"
+  }
+ ],
+ "SHARP 4K TVT": [
+  {
+   "brand": "Sharp",
+   "name": "SHARP 4K TVT",
+   "device": "anaheim"
+  }
+ ],
  "FS8026": [
   {
    "brand": "Sharp",
@@ -224247,6 +224365,11 @@
    "brand": "Syinix",
    "name": "Glory TV",
    "device": "SW6H"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Glory TV",
+   "device": "umeda"
   }
  ],
  "ATOM": [
@@ -282813,6 +282936,13 @@
    "brand": "realme",
    "name": "realme Note 50",
    "device": "RE5C9F"
+  }
+ ],
+ "RMX3998": [
+  {
+   "brand": "realme",
+   "name": "RMX3998",
+   "device": "RE5C94L1"
   }
  ],
  "RMX3571": [
