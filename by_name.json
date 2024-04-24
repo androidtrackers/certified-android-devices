@@ -7934,6 +7934,13 @@
    "model": "A97GT_Pro"
   }
  ],
+ "Intelligent vehicle network system": [
+  {
+   "brand": "ALPINE",
+   "device": "INE-AW409S",
+   "model": "INE-AW409S"
+  }
+ ],
  "ODIN Kids Phone": [
   {
    "brand": "ALT(IN)",
@@ -76829,6 +76836,13 @@
    "model": "iphone C600"
   }
  ],
+ "GRAETZ": [
+  {
+   "brand": "Graetz",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "Grandstream WP856": [
   {
    "brand": "Grandstream",
@@ -87747,6 +87761,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "HWCD101E"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "HWCD102E"
   },
   {
    "brand": "Hisense",
@@ -265197,6 +265216,13 @@
    "model": "ROCKET III"
   }
  ],
+ "SENS_CURVE": [
+  {
+   "brand": "Zuum",
+   "device": "SENS_CURVE",
+   "model": "SENS CURVE"
+  }
+ ],
  "STELLAR": [
   {
    "brand": "Zuum",
@@ -269296,6 +269322,13 @@
    "model": "RMX3834"
   }
  ],
+ "RMX3997": [
+  {
+   "brand": "realme",
+   "device": "RE5C9AL1",
+   "model": "RMX3997"
+  }
+ ],
  "RMX3998": [
   {
    "brand": "realme",
@@ -269478,6 +269511,13 @@
    "model": "RMX3999"
   }
  ],
+ "realme 12 Lite": [
+  {
+   "brand": "realme",
+   "device": "RE5C91L1",
+   "model": "RMX3890"
+  }
+ ],
  "realme 12 Pro 5G": [
   {
    "brand": "realme",
@@ -269497,6 +269537,13 @@
    "brand": "realme",
    "device": "RE5C86L1",
    "model": "RMX3867"
+  }
+ ],
+ "realme 12x 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C9AL1",
+   "model": "RMX3997"
   }
  ],
  "realme 4K G Smart TV": [
@@ -269801,6 +269848,13 @@
    "model": "RMX3710"
   }
  ],
+ "realme C65": [
+  {
+   "brand": "realme",
+   "device": "RE5C42",
+   "model": "RMX3910"
+  }
+ ],
  "realme C67": [
   {
    "brand": "realme",
@@ -269890,6 +269944,20 @@
    "brand": "realme",
    "device": "RE5C9F",
    "model": "RMX3834"
+  }
+ ],
+ "realme P1 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C86L1",
+   "model": "RMX3870"
+  }
+ ],
+ "realme P1 Pro 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C84L1",
+   "model": "RMX3844"
   }
  ],
  "realme Pad 2": [
@@ -270222,6 +270290,13 @@
    "brand": "realme",
    "device": "RE5C3B",
    "model": "RMX3841"
+  }
+ ],
+ "真我12x": [
+  {
+   "brand": "realme",
+   "device": "RE5C3F",
+   "model": "RMX3993"
   }
  ],
  "真我GT 2": [

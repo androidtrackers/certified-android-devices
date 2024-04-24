@@ -4137,6 +4137,13 @@
    "model": "A97GT_Pro"
   }
  ],
+ "INE-AW409S": [
+  {
+   "brand": "ALPINE",
+   "name": "Intelligent vehicle network system",
+   "model": "INE-AW409S"
+  }
+ ],
  "odin": [
   {
    "brand": "ALT(IN)",
@@ -13149,6 +13156,11 @@
    "brand": "FPD",
    "name": "FPD",
    "model": "EcoTV Plus I"
+  },
+  {
+   "brand": "Graetz",
+   "name": "GRAETZ",
+   "model": "4K SMART TV"
   },
   {
    "brand": "Hyundai",
@@ -86018,6 +86030,11 @@
    "brand": "Hisense",
    "name": "Hisense U605",
    "model": "HWCD101E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "model": "HWCD102E"
   },
   {
    "brand": "Hisense",
@@ -266863,6 +266880,13 @@
    "model": "ROCKET III"
   }
  ],
+ "SENS_CURVE": [
+  {
+   "brand": "Zuum",
+   "name": "SENS_CURVE",
+   "model": "SENS CURVE"
+  }
+ ],
  "STELLAR": [
   {
    "brand": "Zuum",
@@ -270753,6 +270777,11 @@
    "brand": "realme",
    "name": "realme 12+ 5G",
    "model": "RMX3867"
+  },
+  {
+   "brand": "realme",
+   "name": "realme P1 5G",
+   "model": "RMX3870"
   }
  ],
  "RED8D7": [
@@ -270842,6 +270871,18 @@
    "brand": "realme",
    "name": "realme Note 50",
    "model": "RMX3834"
+  }
+ ],
+ "RE5C9AL1": [
+  {
+   "brand": "realme",
+   "name": "RMX3997",
+   "model": "RMX3997"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 12x 5G",
+   "model": "RMX3997"
   }
  ],
  "RE5C94L1": [
@@ -271049,11 +271090,28 @@
    "model": "RMX3741"
   }
  ],
+ "RE5C91L1": [
+  {
+   "brand": "realme",
+   "name": "realme 12 Lite",
+   "model": "RMX3890"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C67",
+   "model": "RMX3890"
+  }
+ ],
  "RE5C84L1": [
   {
    "brand": "realme",
    "name": "realme 12 Pro 5G",
    "model": "RMX3842"
+  },
+  {
+   "brand": "realme",
+   "name": "realme P1 Pro 5G",
+   "model": "RMX3844"
   }
  ],
  "RE5C82L1": [
@@ -271304,11 +271362,11 @@
    "model": "RMX3762"
   }
  ],
- "RE5C91L1": [
+ "RE5C42": [
   {
    "brand": "realme",
-   "name": "realme C67",
-   "model": "RMX3890"
+   "name": "realme C65",
+   "model": "RMX3910"
   }
  ],
  "RE58B2L1": [
@@ -271719,6 +271777,13 @@
    "brand": "realme",
    "name": "真我12 Pro+",
    "model": "RMX3841"
+  }
+ ],
+ "RE5C3F": [
+  {
+   "brand": "realme",
+   "name": "真我12x",
+   "model": "RMX3993"
   }
  ],
  "RE5471": [

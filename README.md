@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-23
+Last sync is 2024-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -171,6 +171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
 |ALPHA_LING|A97GT|A97GT|A97GT|
 |ALPHA_LING|A97GT_Pro|A97GT_Pro|A97GT_Pro|
+|ALPINE|Intelligent vehicle network system|INE-AW409S|INE-AW409S|
 |ALT(IN)|ODIN Kids Phone|odin|AT-M130|
 |ALT.STYLEFOLDER|Style Folder|thor|AT-M120|
 |AMGx13e|ASPE2201|ASPE2201|ASPE2201|
@@ -9414,6 +9415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gradiente|GTB_106|GTB_106|GTB_106|
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
 |Gradiente|iphone C600|bravo|iphone C600|
+|Graetz|GRAETZ|lavender|4K SMART TV|
 |Grandstream|Grandstream WP856|WP856|WP856|
 |Greatwall|100011886|tablet|100011886|
 |Greatwall|100011886_GTW|tablet|100011886_GTW|
@@ -11216,6 +11218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U50|HLTE222E_02|Hisense U50|
 |Hisense|Hisense U50|HLTE233E_10|Hisense H50 Lite|
 |Hisense|Hisense U605|HS7731ESP|HWCD101E|
+|Hisense|Hisense U605|HS7731ESP|HWCD102E|
 |Hisense|Hisense U605|HS7731ESP|Hisense M50 Lite|
 |Hisense|Hisense U605|HS7731ESP|Hisense M50 Lite 2021|
 |Hisense|Hisense U605|HS7731ESP|Hisense U30|
@@ -41571,6 +41574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|ONIX S|ONIX_S|ONIX S|
 |Zuum|ROCKET II|ROCKET_II|ROCKET II|
 |Zuum|ROCKET III|ROCKET_III|ROCKET III|
+|Zuum|SENS_CURVE|SENS_CURVE|SENS CURVE|
 |Zuum|STELLAR|STELLAR|STELLAR|
 |Zuum|STELLAR M1|STELLAR_M1|STELLAR M1|
 |Zuum|STELLAR M2|STELLAR_M2|STELLAR M2|
@@ -42256,6 +42260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
+|realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
@@ -42287,9 +42292,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
 |realme|realme 12 5G|RE5C94L1|RMX3999|
+|realme|realme 12 Lite|RE5C91L1|RMX3890|
 |realme|realme 12 Pro 5G|RE5C84L1|RMX3842|
 |realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
 |realme|realme 12+ 5G|RE5C86L1|RMX3867|
+|realme|realme 12x 5G|RE5C9AL1|RMX3997|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -42349,6 +42356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C53|RE58C2|RMX3760|
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
+|realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
@@ -42367,6 +42375,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT5 Pro|RE5C37|RMX3888|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Note 50|RE5C9F|RMX3834|
+|realme|realme P1 5G|RE5C86L1|RMX3870|
+|realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad X|RE5496|RMP2108|
@@ -42425,6 +42435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我11 Pro|RE5869|RMX3770|
 |realme|真我12 Pro|RE5C3C|RMX3843|
 |realme|真我12 Pro+|RE5C3B|RMX3841|
+|realme|真我12x|RE5C3F|RMX3993|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|

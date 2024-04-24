@@ -905,6 +905,13 @@
    "model": "A97GT_Pro"
   }
  ],
+ "ALPINE": [
+  {
+   "device": "INE-AW409S",
+   "name": "Intelligent vehicle network system",
+   "model": "INE-AW409S"
+  }
+ ],
  "ALT(IN)": [
   {
    "device": "odin",
@@ -48928,6 +48935,13 @@
    "model": "iphone C600"
   }
  ],
+ "Graetz": [
+  {
+   "device": "lavender",
+   "name": "GRAETZ",
+   "model": "4K SMART TV"
+  }
+ ],
  "Grandstream": [
   {
    "device": "WP856",
@@ -58112,6 +58126,11 @@
    "device": "HS7731ESP",
    "name": "Hisense U605",
    "model": "HWCD101E"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U605",
+   "model": "HWCD102E"
   },
   {
    "device": "HS7731ESP",
@@ -213345,6 +213364,11 @@
    "model": "ROCKET III"
   },
   {
+   "device": "SENS_CURVE",
+   "name": "SENS_CURVE",
+   "model": "SENS CURVE"
+  },
+  {
    "device": "STELLAR",
    "name": "STELLAR",
    "model": "STELLAR"
@@ -217012,6 +217036,11 @@
    "model": "RMX3834"
   },
   {
+   "device": "RE5C9AL1",
+   "name": "RMX3997",
+   "model": "RMX3997"
+  },
+  {
    "device": "RE5C94L1",
    "name": "RMX3998",
    "model": "RMX3998"
@@ -217167,6 +217196,11 @@
    "model": "RMX3999"
   },
   {
+   "device": "RE5C91L1",
+   "name": "realme 12 Lite",
+   "model": "RMX3890"
+  },
+  {
    "device": "RE5C84L1",
    "name": "realme 12 Pro 5G",
    "model": "RMX3842"
@@ -217180,6 +217214,11 @@
    "device": "RE5C86L1",
    "name": "realme 12+ 5G",
    "model": "RMX3867"
+  },
+  {
+   "device": "RE5C9AL1",
+   "name": "realme 12x 5G",
+   "model": "RMX3997"
   },
   {
    "device": "SW6H",
@@ -217477,6 +217516,11 @@
    "model": "RMX3710"
   },
   {
+   "device": "RE5C42",
+   "name": "realme C65",
+   "model": "RMX3910"
+  },
+  {
    "device": "RE5C91L1",
    "name": "realme C67",
    "model": "RMX3890"
@@ -217565,6 +217609,16 @@
    "device": "RE5C9F",
    "name": "realme Note 50",
    "model": "RMX3834"
+  },
+  {
+   "device": "RE5C86L1",
+   "name": "realme P1 5G",
+   "model": "RMX3870"
+  },
+  {
+   "device": "RE5C84L1",
+   "name": "realme P1 Pro 5G",
+   "model": "RMX3844"
   },
   {
    "device": "RE5C6EL1",
@@ -217855,6 +217909,11 @@
    "device": "RE5C3B",
    "name": "真我12 Pro+",
    "model": "RMX3841"
+  },
+  {
+   "device": "RE5C3F",
+   "name": "真我12x",
+   "model": "RMX3993"
   },
   {
    "device": "RE5471",

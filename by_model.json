@@ -2450,6 +2450,13 @@
    "device": "A97GT_Pro"
   }
  ],
+ "INE-AW409S": [
+  {
+   "brand": "ALPINE",
+   "name": "Intelligent vehicle network system",
+   "device": "INE-AW409S"
+  }
+ ],
  "AT-M130": [
   {
    "brand": "ALT(IN)",
@@ -2764,6 +2771,11 @@
    "brand": "Ghia",
    "name": "GHIA",
    "device": "zhongshan"
+  },
+  {
+   "brand": "Graetz",
+   "name": "GRAETZ",
+   "device": "lavender"
   },
   {
    "brand": "Itel",
@@ -82530,6 +82542,13 @@
   }
  ],
  "HWCD101E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
+  }
+ ],
+ "HWCD102E": [
   {
    "brand": "Hisense",
    "name": "Hisense U605",
@@ -278942,6 +278961,13 @@
    "device": "ROCKET_III"
   }
  ],
+ "SENS CURVE": [
+  {
+   "brand": "Zuum",
+   "name": "SENS_CURVE",
+   "device": "SENS_CURVE"
+  }
+ ],
  "STELLAR": [
   {
    "brand": "Zuum",
@@ -282938,6 +282964,18 @@
    "device": "RE5C9F"
   }
  ],
+ "RMX3997": [
+  {
+   "brand": "realme",
+   "name": "RMX3997",
+   "device": "RE5C9AL1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 12x 5G",
+   "device": "RE5C9AL1"
+  }
+ ],
  "RMX3998": [
   {
    "brand": "realme",
@@ -283146,6 +283184,18 @@
    "brand": "realme",
    "name": "realme 12 5G",
    "device": "RE5C94L1"
+  }
+ ],
+ "RMX3890": [
+  {
+   "brand": "realme",
+   "name": "realme 12 Lite",
+   "device": "RE5C91L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C67",
+   "device": "RE5C91L1"
   }
  ],
  "RMX3842": [
@@ -283467,11 +283517,11 @@
    "device": "RE58CE"
   }
  ],
- "RMX3890": [
+ "RMX3910": [
   {
    "brand": "realme",
-   "name": "realme C67",
-   "device": "RE5C91L1"
+   "name": "realme C65",
+   "device": "RE5C42"
   }
  ],
  "RMX3312": [
@@ -283568,6 +283618,20 @@
    "brand": "realme",
    "name": "realme Q2 5G",
    "device": "RMX2117CN"
+  }
+ ],
+ "RMX3870": [
+  {
+   "brand": "realme",
+   "name": "realme P1 5G",
+   "device": "RE5C86L1"
+  }
+ ],
+ "RMX3844": [
+  {
+   "brand": "realme",
+   "name": "realme P1 Pro 5G",
+   "device": "RE5C84L1"
   }
  ],
  "RMP2204": [
@@ -283893,6 +283957,13 @@
    "brand": "realme",
    "name": "真我12 Pro+",
    "device": "RE5C3B"
+  }
+ ],
+ "RMX3993": [
+  {
+   "brand": "realme",
+   "name": "真我12x",
+   "device": "RE5C3F"
   }
  ],
  "RMX3310": [
