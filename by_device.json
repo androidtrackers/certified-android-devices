@@ -28069,6 +28069,13 @@
    "model": "I9_Plus"
   }
  ],
+ "I9_Plus_Wlanonly_EEA": [
+  {
+   "brand": "BMAX",
+   "name": "I9_Plus_Wlanonly_EEA",
+   "model": "I9_Plus"
+  }
+ ],
  "BMPRO7DI": [
   {
    "brand": "BMPRO",
@@ -34762,6 +34769,13 @@
    "brand": "Blackview",
    "name": "Tab_7_WiFi_NEU",
    "model": "Tab 7 WiFi"
+  }
+ ],
+ "Tab_90_WiFi": [
+  {
+   "brand": "Blackview",
+   "name": "Tab_90_WiFi_NEU",
+   "model": "Tab 90 WiFi"
   }
  ],
  "GMP": [
@@ -59803,6 +59817,18 @@
    "model": "DMX-ST7A"
   }
  ],
+ "YYZ": [
+  {
+   "brand": "Dreamstar",
+   "name": "Nova",
+   "model": "Nova"
+  },
+  {
+   "brand": "Homatics",
+   "name": "Kickpi",
+   "model": "KP1"
+  }
+ ],
  "dtacPhoneM2": [
   {
    "brand": "Dtac",
@@ -70675,6 +70701,13 @@
    "brand": "GOODTEL",
    "name": "G2_U_EEA",
    "model": "G2_U_EEA"
+  }
+ ],
+ "G2_U_US": [
+  {
+   "brand": "GOODTEL",
+   "name": "G2_U_US",
+   "model": "G2_U_US"
   }
  ],
  "G3_EEA": [
@@ -82513,6 +82546,11 @@
    "model": "T7A6N"
   },
   {
+   "brand": "PIXPEAK",
+   "name": "Tablet",
+   "model": "P7-EEA"
+  },
+  {
    "brand": "True",
    "name": "20721400",
    "model": "20721400"
@@ -87857,18 +87895,6 @@
    "brand": "Homatics",
    "name": "Box R 4K Plus",
    "model": "Box R 4K Plus"
-  }
- ],
- "YYZ": [
-  {
-   "brand": "Homatics",
-   "name": "Kickpi",
-   "model": "KP1"
-  },
-  {
-   "brand": "Homatics",
-   "name": "Nova",
-   "model": "Nova"
   }
  ],
  "SEI700HMG": [
@@ -145789,6 +145815,20 @@
    "model": "SUMMIT LITE"
   }
  ],
+ "M-764": [
+  {
+   "brand": "Mookia",
+   "name": "M-764",
+   "model": "M-764"
+  }
+ ],
+ "MM-35_EEA": [
+  {
+   "brand": "Mookia",
+   "name": "MM-35_EEA",
+   "model": "MM-35_EEA"
+  }
+ ],
  "MM10A": [
   {
    "brand": "Mookia",
@@ -162042,6 +162082,11 @@
   {
    "brand": "Oppo",
    "name": "Reno11 F 5G",
+   "model": "CPH2603"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno11 F 5G/Reno11 A",
    "model": "CPH2603"
   }
  ],
@@ -245927,6 +245972,13 @@
    "model": "V2307"
   }
  ],
+ "PD2354": [
+  {
+   "brand": "Vivo",
+   "name": "Y200i",
+   "model": "V2354A"
+  }
+ ],
  "Y21": [
   {
    "brand": "Vivo",
@@ -255521,6 +255573,13 @@
    "brand": "YesTeL",
    "name": "T13_US",
    "model": "T13_US"
+  }
+ ],
+ "T15_U_US": [
+  {
+   "brand": "YesTeL",
+   "name": "T15_U_US",
+   "model": "T15_U_US"
   }
  ],
  "T5-plus": [
@@ -268264,6 +268323,13 @@
    "brand": "duraMOBI",
    "name": "DK66",
    "model": "DK66"
+  }
+ ],
+ "ETPad": [
+  {
+   "brand": "e10 ETPad",
+   "name": "ETPad",
+   "model": "ETPad"
   }
  ],
  "TAB900": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-25
+Last sync is 2024-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2690,6 +2690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I9_Plus_ROW|I9_Plus_ROW|I9_Plus_ROW|
 |BMAX|I9_Plus_WLAN|I9_Plus_WLAN|I9_Plus|
 |BMAX|I9_Plus_WLAN_EEA|I9_Plus_WLAN_EEA|I9_Plus|
+|BMAX|I9_Plus_Wlanonly_EEA|I9_Plus_Wlanonly_EEA|I9_Plus|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
 |BMXC|BM108|BM108|BM108|
 |BMXC|JR-M802|JR-M802|JR-M802|
@@ -3643,6 +3644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab_7_NEU|Tab_7_NEU|Tab 7|
 |Blackview|Tab_7_WiFi_EEA|Tab_7_WiFi_EEA|Tab 7 WiFi|
 |Blackview|Tab_7_WiFi_NEU|Tab_7_WiFi_NEU|Tab 7 WiFi|
+|Blackview|Tab_90_WiFi_NEU|Tab_90_WiFi|Tab 90 WiFi|
 |Blaupunkt|A-STREAM|GMP|A-STREAM|
 |Blaupunkt|"AUSTRALIA|EU|JAPAN|
 |Blaupunkt|"AUSTRALIA|MIDDLE EAST|JAPAN"|
@@ -7098,6 +7100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|Y88X__PLUS|Y88X__PLUS|Y88X__PLUS|
 |DreamMaker|DreamMaker|DPLAY|DPLAY|
 |Dreamax|DMX-ST7A|DMX-ST7A|DMX-ST7A|
+|Dreamstar|Nova|YYZ|Nova|
 |Dtac|Phone M2|dtacPhoneM2|dtacPhoneM2|
 |Dtac|Phone S2|dtacPhoneS2|dtac_Phone_S2|
 |Dtac|Phone S3|dtacPhoneS3|dtacPhoneS3|
@@ -8742,6 +8745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G2_A_EEA|G2_A_EEA|G2_A_EEA|
 |GOODTEL|G2_EEA|G2_EEA|G2_EEA|
 |GOODTEL|G2_U_EEA|G2_U_EEA|G2_U_EEA|
+|GOODTEL|G2_U_US|G2_U_US|G2_U_US|
 |GOODTEL|G3_EEA|G3_EEA|G3_EEA|
 |GOODTEL|G6|G6|G6|
 |GOODTEL|G6_EEA|G6_EEA|G6|
@@ -11594,7 +11598,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|Global|YQB|Dongle R 4K|
 |Homatics|Kickpi|YYZ|KP1|
-|Homatics|Nova|YYZ|Nova|
 |Homatics|SEI600HM|HND|Box Q|
 |Homatics|SEI700HMG|SEI700HMG|Dongle 4K|
 |Homatics|Stick HD|IAD|Stick HD|
@@ -21150,6 +21153,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Montblanc|Summit|lionfish|MB SUMMIT|
 |Montblanc|Summit 2+|coralia|Summit 2+|
 |Montblanc|Summit Lite|icefish|SUMMIT LITE|
+|Mookia|M-764|M-764|M-764|
+|Mookia|MM-35_EEA|MM-35_EEA|MM-35_EEA|
 |Mookia|MM10A|MM10A|MM10A|
 |Moolah Mobile|T10|T10|T10|
 |Moolah Mobile|T100|T100|T100|
@@ -24148,6 +24153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno10 Pro+ 5G|OP56D3L1|CPH2521|
 |Oppo|Reno11|OP59EDL1|PJH110|
 |Oppo|Reno11 F 5G|OP5A0BL1|CPH2603|
+|Oppo|Reno11 F 5G/Reno11 A|OP5A0BL1|CPH2603|
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
@@ -24582,6 +24588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PIPO|IconX_P109|IconX_P109|IconX_P109|
 |PIXART|Pixart_P20|Pixart_P20|Pixart_P20|
 |PIXART|SZ10M68|SZ10M68|SZ10M68|
+|PIXPEAK|Tablet|Tablet|P7-EEA|
 |PIXPRO|PIXPRO L1 PRO|PIXPRO_L1_PRO|PIXPRO L1 PRO|
 |PIXPRO|PIXPRO T3|T3|PIXPRO T3|
 |PLDT|PLDT-GMB8260|DS8942-KPP|PLDT-GMB8260|
@@ -37900,6 +37907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y200 Pro 5G|V2303|V2303|
 |Vivo|Y200 Pro 5G|V2303|V2401|
 |Vivo|Y200e 5G|V2327|V2336|
+|Vivo|Y200i|PD2354|V2354A|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
 |Vivo|Y21L|Y21L|vivo Y21L|
@@ -39571,6 +39579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|T13-US|T13-US|T13-US|
 |YesTeL|T13_EEA|T13_EEA|T13_EEA|
 |YesTeL|T13_US|T13_US|T13_US|
+|YesTeL|T15_U_US|T15_U_US|T15_U_US|
 |YesTeL|T5|T5|T5|
 |YesTeL|T5-plus|T5-plus|T5-plus|
 |YesTeL|T5_0|T5_0|T5_0|
@@ -41811,6 +41820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |du (UAE)|IPBS9520|IPBS9520|IPBS9520|
 |du (UAE)|du TV|f515|VIP7802|
 |duraMOBI|DK66|DK66|DK66|
+|e10 ETPad|ETPad|ETPad|ETPad|
 |e4u(A)|TAB900|TAB900|TAB900|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eBox|Ebox|diw387eb|EboxTV|

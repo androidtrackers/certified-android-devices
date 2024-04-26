@@ -23031,6 +23031,11 @@
    "brand": "BMAX",
    "name": "I9_Plus_WLAN_EEA",
    "device": "I9_Plus_WLAN_EEA"
+  },
+  {
+   "brand": "BMAX",
+   "name": "I9_Plus_Wlanonly_EEA",
+   "device": "I9_Plus_Wlanonly_EEA"
   }
  ],
  "I9_Plus_EEA": [
@@ -29748,6 +29753,13 @@
    "brand": "Blackview",
    "name": "Tab_7_WiFi_NEU",
    "device": "Tab_7_WiFi_NEU"
+  }
+ ],
+ "Tab 90 WiFi": [
+  {
+   "brand": "Blackview",
+   "name": "Tab_90_WiFi_NEU",
+   "device": "Tab_90_WiFi"
   }
  ],
  "A-STREAM": [
@@ -47579,7 +47591,7 @@
    "device": "NovaA"
   },
   {
-   "brand": "Homatics",
+   "brand": "Dreamstar",
    "name": "Nova",
    "device": "YYZ"
   },
@@ -65895,6 +65907,13 @@
    "brand": "GOODTEL",
    "name": "G2_U_EEA",
    "device": "G2_U_EEA"
+  }
+ ],
+ "G2_U_US": [
+  {
+   "brand": "GOODTEL",
+   "name": "G2_U_US",
+   "device": "G2_U_US"
   }
  ],
  "G3_EEA": [
@@ -147154,6 +147173,20 @@
    "device": "icefish"
   }
  ],
+ "M-764": [
+  {
+   "brand": "Mookia",
+   "name": "M-764",
+   "device": "M-764"
+  }
+ ],
+ "MM-35_EEA": [
+  {
+   "brand": "Mookia",
+   "name": "MM-35_EEA",
+   "device": "MM-35_EEA"
+  }
+ ],
  "MM10A": [
   {
    "brand": "Mookia",
@@ -164139,6 +164172,11 @@
    "brand": "Oppo",
    "name": "Reno11 F 5G",
    "device": "OP5A0BL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno11 F 5G/Reno11 A",
+   "device": "OP5A0BL1"
   }
  ],
  "CPH1819": [
@@ -168750,6 +168788,13 @@
    "brand": "PIXART",
    "name": "SZ10M68",
    "device": "SZ10M68"
+  }
+ ],
+ "P7-EEA": [
+  {
+   "brand": "PIXPEAK",
+   "name": "Tablet",
+   "device": "Tablet"
   }
  ],
  "PIXPRO L1 PRO": [
@@ -255570,6 +255615,13 @@
    "device": "V2327"
   }
  ],
+ "V2354A": [
+  {
+   "brand": "Vivo",
+   "name": "Y200i",
+   "device": "PD2354"
+  }
+ ],
  "vivo Y21": [
   {
    "brand": "Vivo",
@@ -265872,6 +265924,13 @@
    "brand": "YesTeL",
    "name": "T13_US",
    "device": "T13_US"
+  }
+ ],
+ "T15_U_US": [
+  {
+   "brand": "YesTeL",
+   "name": "T15_U_US",
+   "device": "T15_U_US"
   }
  ],
  "T5-plus": [
@@ -280381,6 +280440,13 @@
    "brand": "duraMOBI",
    "name": "DK66",
    "device": "DK66"
+  }
+ ],
+ "ETPad": [
+  {
+   "brand": "e10 ETPad",
+   "name": "ETPad",
+   "device": "ETPad"
   }
  ],
  "TAB900": [

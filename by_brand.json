@@ -13926,6 +13926,11 @@
    "device": "I9_Plus_WLAN_EEA",
    "name": "I9_Plus_WLAN_EEA",
    "model": "I9_Plus"
+  },
+  {
+   "device": "I9_Plus_Wlanonly_EEA",
+   "name": "I9_Plus_Wlanonly_EEA",
+   "model": "I9_Plus"
   }
  ],
  "BMPRO": [
@@ -18819,6 +18824,11 @@
    "device": "Tab_7_WiFi_NEU",
    "name": "Tab_7_WiFi_NEU",
    "model": "Tab 7 WiFi"
+  },
+  {
+   "device": "Tab_90_WiFi",
+   "name": "Tab_90_WiFi_NEU",
+   "model": "Tab 90 WiFi"
   }
  ],
  "Blaupunkt": [
@@ -36730,6 +36740,13 @@
    "model": "DMX-ST7A"
   }
  ],
+ "Dreamstar": [
+  {
+   "device": "YYZ",
+   "name": "Nova",
+   "model": "Nova"
+  }
+ ],
  "Dtac": [
   {
    "device": "dtacPhoneM2",
@@ -45430,6 +45447,11 @@
    "device": "G2_U_EEA",
    "name": "G2_U_EEA",
    "model": "G2_U_EEA"
+  },
+  {
+   "device": "G2_U_US",
+   "name": "G2_U_US",
+   "model": "G2_U_US"
   },
   {
    "device": "G3_EEA",
@@ -60020,11 +60042,6 @@
    "device": "YYZ",
    "name": "Kickpi",
    "model": "KP1"
-  },
-  {
-   "device": "YYZ",
-   "name": "Nova",
-   "model": "Nova"
   },
   {
    "device": "HND",
@@ -108838,6 +108855,16 @@
  ],
  "Mookia": [
   {
+   "device": "M-764",
+   "name": "M-764",
+   "model": "M-764"
+  },
+  {
+   "device": "MM-35_EEA",
+   "name": "MM-35_EEA",
+   "model": "MM-35_EEA"
+  },
+  {
    "device": "MM10A",
    "name": "MM10A",
    "model": "MM10A"
@@ -124224,6 +124251,11 @@
    "model": "CPH2603"
   },
   {
+   "device": "OP5A0BL1",
+   "name": "Reno11 F 5G/Reno11 A",
+   "model": "CPH2603"
+  },
+  {
    "device": "OP59EFL1",
    "name": "Reno11 Pro",
    "model": "PJJ110"
@@ -126470,6 +126502,13 @@
    "device": "SZ10M68",
    "name": "SZ10M68",
    "model": "SZ10M68"
+  }
+ ],
+ "PIXPEAK": [
+  {
+   "device": "Tablet",
+   "name": "Tablet",
+   "model": "P7-EEA"
   }
  ],
  "PIXPRO": [
@@ -194622,6 +194661,11 @@
    "model": "V2336"
   },
   {
+   "device": "PD2354",
+   "name": "Y200i",
+   "model": "V2354A"
+  },
+  {
    "device": "Y21",
    "name": "Y21",
    "model": "vivo Y21"
@@ -203253,6 +203297,11 @@
    "device": "T13_US",
    "name": "T13_US",
    "model": "T13_US"
+  },
+  {
+   "device": "T15_U_US",
+   "name": "T15_U_US",
+   "model": "T15_U_US"
   },
   {
    "device": "T5",
@@ -214621,6 +214670,13 @@
    "device": "DK66",
    "name": "DK66",
    "model": "DK66"
+  }
+ ],
+ "e10 ETPad": [
+  {
+   "device": "ETPad",
+   "name": "ETPad",
+   "model": "ETPad"
   }
  ],
  "e4u(A)": [
