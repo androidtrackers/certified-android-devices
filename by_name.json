@@ -58635,6 +58635,11 @@
    "brand": "Doogee",
    "device": "M22G",
    "model": "S108"
+  },
+  {
+   "brand": "Doogee",
+   "device": "M22G",
+   "model": "S118"
   }
  ],
  "S110": [
@@ -161558,6 +161563,13 @@
    "model": "PHY110"
   }
  ],
+ "Find X7 Ultra 卫星通信版": [
+  {
+   "brand": "Oppo",
+   "device": "OP5660L1",
+   "model": "PHY120"
+  }
+ ],
  "Find5": [
   {
    "brand": "Oppo",
@@ -228645,6 +228657,13 @@
   {
    "brand": "Teclast",
    "device": "P50S_EEA",
+   "model": "P50S"
+  }
+ ],
+ "P50S_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P50S_ROW",
    "model": "P50S"
   }
  ],

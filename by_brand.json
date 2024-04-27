@@ -35424,6 +35424,11 @@
    "model": "S108"
   },
   {
+   "device": "M22G",
+   "name": "S108",
+   "model": "S118"
+  },
+  {
    "device": "M22P",
    "name": "S110",
    "model": "S110"
@@ -122976,6 +122981,11 @@
    "model": "PHY110"
   },
   {
+   "device": "OP5660L1",
+   "name": "Find X7 Ultra 卫星通信版",
+   "model": "PHY120"
+  },
+  {
    "device": "FIND5",
    "name": "Find5",
    "model": "X909"
@@ -181221,6 +181231,11 @@
   {
    "device": "P50S_EEA",
    "name": "P50S_EEA",
+   "model": "P50S"
+  },
+  {
+   "device": "P50S_ROW",
+   "name": "P50S_ROW",
    "model": "P50S"
   },
   {

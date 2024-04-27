@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-26
+Last sync is 2024-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6840,6 +6840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|S100|M22|S100|
 |Doogee|S100Pro|M22H|S100Pro|
 |Doogee|S108|M22G|S108|
+|Doogee|S108|M22G|S118|
 |Doogee|S110|M22P|S110|
 |Doogee|S30|S30|S30|
 |Doogee|S35|S35|S35|
@@ -23898,6 +23899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X6 Pro|OP528BL1|PGEM10|
 |Oppo|Find X7|OP5661L1|PHZ110|
 |Oppo|Find X7 Ultra|OP565FL1|PHY110|
+|Oppo|Find X7 Ultra 卫星通信版|OP5660L1|PHY120|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
@@ -35310,6 +35312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P40HD_T_EEA|P40HD_T_EEA|P40HD_T_EEA|
 |Teclast|P40HD_T_ROW|P40HD_T_ROW|P40HD_T_ROW|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
+|Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P80T_EEA|P80T|P80T_EEA|
 |Teclast|P80T_ROW|P80T|P80T_ROW|
 |Teclast|P80T_Y_EEA|P80T_Y_EEA|P80T_EEA|
