@@ -5357,6 +5357,11 @@
    "device": "C014"
   },
   {
+   "brand": "COLORROOM",
+   "name": "C5",
+   "device": "C5"
+  },
+  {
    "brand": "CORN",
    "name": "C5",
    "device": "C5"
@@ -110283,6 +110288,13 @@
    "device": "ZKEMPLER_PLUS"
   }
  ],
+ "Armor C1s": [
+  {
+   "brand": "KENSHI",
+   "name": "Armor C1s",
+   "device": "Armor_C1s"
+  }
+ ],
  "Armor H1s": [
   {
    "brand": "KENSHI",
@@ -136266,6 +136278,13 @@
    "brand": "Logicom",
    "name": "Volt-R",
    "device": "Volt-R"
+  }
+ ],
+ "Wave 2": [
+  {
+   "brand": "Logicom",
+   "name": "Wave 2",
+   "device": "Wave_2"
   }
  ],
  "LeMoov": [
@@ -162567,6 +162586,13 @@
    "device": "CPH1837"
   }
  ],
+ "PJY110": [
+  {
+   "brand": "Oppo",
+   "name": "A3 Pro 5G",
+   "device": "OP59FB"
+  }
+ ],
  "A31": [
   {
    "brand": "Oppo",
@@ -164475,6 +164501,13 @@
    "brand": "Oppo",
    "name": "K1",
    "device": "PBCM30"
+  }
+ ],
+ "PJR110": [
+  {
+   "brand": "Oppo",
+   "name": "K12 5G",
+   "device": "OP5A15L1"
   }
  ],
  "PCGM00": [
@@ -211508,6 +211541,13 @@
    "device": "d500b"
   }
  ],
+ "AUTOIDQ9": [
+  {
+   "brand": "Seuic",
+   "name": "AUTOIDQ9",
+   "device": "D360"
+  }
+ ],
  "CRUISE1": [
   {
    "brand": "Seuic",
@@ -215979,7 +216019,17 @@
   {
    "brand": "Sky Devices",
    "name": "Elite A63Max",
+   "device": "Elite_A63CMaxC"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite A63Max",
    "device": "Elite_A63MUS"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite A63Max",
+   "device": "Elite_A63_A_MaxA"
   },
   {
    "brand": "Sky Devices",
@@ -266006,6 +266056,13 @@
    "brand": "YesTeL",
    "name": "X2_US",
    "device": "X2_US"
+  }
+ ],
+ "X2_U_US": [
+  {
+   "brand": "YesTeL",
+   "name": "X2_U_US",
+   "device": "X2_U_US"
   }
  ],
  "X3_EEA": [

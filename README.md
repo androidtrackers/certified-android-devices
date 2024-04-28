@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-27
+Last sync is 2024-04-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4449,6 +4449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COEX|COEX 2K Smart TV|sunnyvale|COEX 2K Smart TV|
 |COEX|COEX 4K Smart TV|SW6H|COEX 4K Smart TV|
 |COEX|COEX 4K Smart TV FF|SW6H|COEX 4K Smart TV FF|
+|COLORROOM|C5|C5|C5|
 |COLORROOM|K12|K12|K12|
 |COMBUSTECH|COMBUSTECH-IFPD|rk3588_t|COMBUS_IB|
 |COMPUMAX|BLUEPAD10|BLUEPAD10|BLUEPAD10|
@@ -15449,6 +15450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|ZKEMPLERMAX|ZKEMPLERMAX|ZKEMPLERMAX|
 |KEMPLER STRAUSS|ZKEMPLER_11|ZKEMPLER_11|ZKEMPLER_11|
 |KEMPLER STRAUSS|ZKEMPLER_PLUS|ZKEMPLER_PLUS|ZKEMPLER PLUS|
+|KENSHI|Armor C1s|Armor_C1s|Armor C1s|
 |KENSHI|Armor H1s|Armor_H1s|Armor H1s|
 |KENSHI|Armor I1 Slim|Armor_I1_Slim|Armor I1 Slim|
 |KENSHI|Armor I1w|Armor_I1w|Armor I1w|
@@ -19453,6 +19455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|VRBOT552|VRBOT552|VR BOT 552|
 |Logicom|VRBOT552PLUS|VRBOT552PLUS|VR BOT 552 PLUS|
 |Logicom|Volt-R|Volt-R|Volt-R|
+|Logicom|Wave 2|Wave_2|Wave 2|
 |Logicom|le Moov|LeMoov|LeMoov|
 |Logik|LOGIK|sadang|LOGIK 4K Android TV|
 |Logik|LOGIK|tabata|LOGIK 2K Android TV|
@@ -23632,6 +23635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A2 5G|OP5647|PJB110|
 |Oppo|A2x 5G|OP5A0D|PJS110|
 |Oppo|A3|CPH1837|CPH1837|
+|Oppo|A3 Pro 5G|OP59FB|PJY110|
 |Oppo|A31|A31t|A31|
 |Oppo|A31c|A31c|A31c|
 |Oppo|A31u|A31u|A31u|
@@ -23903,6 +23907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
+|Oppo|K12 5G|OP5A15L1|PJR110|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -31044,6 +31049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seuic|AUTOID11|d310x|AUTOID11|
 |Seuic|AUTOID9N|d500b|AUTIOD9N|
 |Seuic|AUTOID9N|d500b|AUTOID9N|
+|Seuic|AUTOIDQ9|D360|AUTOIDQ9|
 |Seuic|AUTOIDQ9G|d550|AUTOID Q9|
 |Seuic|CRUISE1|d700s|CRUISE1|
 |Seuic|CRUISE2|d730|CRUISE2|
@@ -31715,7 +31721,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite A6|Elite_A6|Elite A6|
 |Sky Devices|Elite A63|Elite_A63|Elite A63|
 |Sky Devices|Elite A63Max|Elite_A63B_Max_B|Elite A63Max|
+|Sky Devices|Elite A63Max|Elite_A63CMaxC|Elite A63Max|
 |Sky Devices|Elite A63Max|Elite_A63MUS|Elite A63Max|
+|Sky Devices|Elite A63Max|Elite_A63_A_MaxA|Elite A63Max|
 |Sky Devices|Elite A63Max|Elite_A63_D_Max_D|Elite A63Max|
 |Sky Devices|Elite A63Mxca|Elite_A63Mxca|Elite A63Mxca|
 |Sky Devices|Elite B5|Elite_B5|Elite_B5|
@@ -39592,6 +39600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|X11_EEA|X11_EEA|X11_EEA|
 |YesTeL|X2_EEA|X2_EEA|X2_EEA|
 |YesTeL|X2_US|X2_US|X2_US|
+|YesTeL|X2_U_US|X2_U_US|X2_U_US|
 |YesTeL|X3|X3|X3|
 |YesTeL|X3_EEA|X3_EEA|X3_EEA|
 |YesTeL|X7_EEA|X7_EEA|X7_EEA|

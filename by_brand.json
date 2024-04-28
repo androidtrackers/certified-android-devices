@@ -22989,6 +22989,11 @@
  ],
  "COLORROOM": [
   {
+   "device": "C5",
+   "name": "C5",
+   "model": "C5"
+  },
+  {
    "device": "K12",
    "name": "K12",
    "model": "K12"
@@ -79651,6 +79656,11 @@
  ],
  "KENSHI": [
   {
+   "device": "Armor_C1s",
+   "name": "Armor C1s",
+   "model": "Armor C1s"
+  },
+  {
    "device": "Armor_H1s",
    "name": "Armor H1s",
    "model": "Armor H1s"
@@ -100015,6 +100025,11 @@
    "device": "Volt-R",
    "name": "Volt-R",
    "model": "Volt-R"
+  },
+  {
+   "device": "Wave_2",
+   "name": "Wave 2",
+   "model": "Wave 2"
   },
   {
    "device": "LeMoov",
@@ -121646,6 +121661,11 @@
    "model": "CPH1837"
   },
   {
+   "device": "OP59FB",
+   "name": "A3 Pro 5G",
+   "model": "PJY110"
+  },
+  {
    "device": "A31t",
    "name": "A31",
    "model": "A31"
@@ -122999,6 +123019,11 @@
    "device": "PBCM30",
    "name": "K1",
    "model": "PBCM30"
+  },
+  {
+   "device": "OP5A15L1",
+   "name": "K12 5G",
+   "model": "PJR110"
   },
   {
    "device": "OP4679",
@@ -159438,6 +159463,11 @@
    "model": "AUTOID9N"
   },
   {
+   "device": "D360",
+   "name": "AUTOIDQ9",
+   "model": "AUTOIDQ9"
+  },
+  {
    "device": "d550",
    "name": "AUTOIDQ9G",
    "model": "AUTOID Q9"
@@ -162839,7 +162869,17 @@
    "model": "Elite A63Max"
   },
   {
+   "device": "Elite_A63CMaxC",
+   "name": "Elite A63Max",
+   "model": "Elite A63Max"
+  },
+  {
    "device": "Elite_A63MUS",
+   "name": "Elite A63Max",
+   "model": "Elite A63Max"
+  },
+  {
+   "device": "Elite_A63_A_MaxA",
    "name": "Elite A63Max",
    "model": "Elite A63Max"
   },
@@ -203362,6 +203402,11 @@
    "device": "X2_US",
    "name": "X2_US",
    "model": "X2_US"
+  },
+  {
+   "device": "X2_U_US",
+   "name": "X2_U_US",
+   "model": "X2_U_US"
   },
   {
    "device": "X3",
