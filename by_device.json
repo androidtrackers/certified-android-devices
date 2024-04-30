@@ -12147,6 +12147,13 @@
    "model": "1013"
   }
  ],
+ "ADVAN_TAB_A8_PLUS": [
+  {
+   "brand": "Advan digital",
+   "name": "TAB_A8_PLUS",
+   "model": "8004"
+  }
+ ],
  "X7_Max": [
   {
    "brand": "Advan digital",
@@ -22541,6 +22548,13 @@
    "brand": "Astro",
    "name": "Nova_Phab_M9",
    "model": "Nova_Phab_M9"
+  }
+ ],
+ "sooka-TV_v1": [
+  {
+   "brand": "Astro",
+   "name": "sooka-TV-v1",
+   "model": "sooka-TV-v1"
   }
  ],
  "A712": [
@@ -36476,6 +36490,13 @@
    "model": "E100"
   }
  ],
+ "E0010": [
+  {
+   "brand": "Blu",
+   "name": "E15",
+   "model": "E15"
+  }
+ ],
  "E20": [
   {
    "brand": "Blu",
@@ -46049,6 +46070,13 @@
    "model": "Q6"
   }
  ],
+ "Compaq_QT10": [
+  {
+   "brand": "Compaq",
+   "name": "QT10",
+   "model": "QT10"
+  }
+ ],
  "QTAB": [
   {
    "brand": "Compaq",
@@ -53194,6 +53222,13 @@
    "brand": "Remdun",
    "name": "RD86QE",
    "model": "RD86QE"
+  }
+ ],
+ "MO_Pro": [
+  {
+   "brand": "DSTechnology",
+   "name": "MATE ONE",
+   "model": "MO_Series"
   }
  ],
  "S30": [
@@ -81276,6 +81311,13 @@
    "model": "Wildfire R70"
   }
  ],
+ "htc_enodugls": [
+  {
+   "brand": "HTC",
+   "name": "enodugls_00709",
+   "model": "2QDA100"
+  }
+ ],
  "mystul": [
   {
    "brand": "HTC",
@@ -99654,6 +99696,13 @@
    "model": "HOT MINI"
   }
  ],
+ "M15A": [
+  {
+   "brand": "Hytel",
+   "name": "M15A",
+   "model": "M15A"
+  }
+ ],
  "M30A": [
   {
    "brand": "Hytel",
@@ -110942,6 +110991,13 @@
    "brand": "KISA phone",
    "name": "KPAU04",
    "model": "KPAU04"
+  }
+ ],
+ "KJG_IR13": [
+  {
+   "brand": "KJ_Board",
+   "name": "KJG IR13",
+   "model": "KJG_Series"
   }
  ],
  "TPC_XTE10D": [
@@ -149507,6 +149563,16 @@
    "brand": "Motorola",
    "name": "moto g54 5G",
    "model": "moto g73 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g64 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g64 5G",
+   "model": "moto g64 5G"
   }
  ],
  "rhodec": [
@@ -183974,6 +184040,11 @@
    "brand": "SMART Technologies",
    "name": "SMART Board MX Series (V5)",
    "model": "SMART Board MX Series (V5)"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "SMART Board® RX Series",
+   "model": "SMART Board Interactive Display"
   }
  ],
  "SK3402": [
@@ -211482,6 +211553,13 @@
    "brand": "Smart_Touch",
    "name": "ST IR13",
    "model": "STG_Series"
+  }
+ ],
+ "WTC_Pro": [
+  {
+   "brand": "Smart_Touch",
+   "name": "WTC Series",
+   "model": "Smartedu_WTC_Series"
   }
  ],
  "SRF79": [
@@ -245970,6 +246048,11 @@
   },
   {
    "brand": "Vivo",
+   "name": "Y18",
+   "model": "V2345"
+  },
+  {
+   "brand": "Vivo",
    "name": "Y18e",
    "model": "V2350"
   }
@@ -255646,6 +255729,13 @@
    "brand": "YesTeL",
    "name": "T13_US",
    "model": "T13_US"
+  }
+ ],
+ "T15_U_EEA": [
+  {
+   "brand": "YesTeL",
+   "name": "T15_U_EEA",
+   "model": "T15_U_EEA"
   }
  ],
  "T15_U_US": [

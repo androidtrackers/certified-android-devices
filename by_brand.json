@@ -3875,6 +3875,11 @@
    "model": "1010"
   },
   {
+   "device": "ADVAN_TAB_A8_PLUS",
+   "name": "TAB_A8_PLUS",
+   "model": "8004"
+  },
+  {
    "device": "X7_Max",
    "name": "X7 Max",
    "model": "7301"
@@ -9949,6 +9954,11 @@
    "device": "Nova_Phab_M9",
    "name": "Nova_Phab_M9",
    "model": "Nova_Phab_M9"
+  },
+  {
+   "device": "sooka-TV_v1",
+   "name": "sooka-TV-v1",
+   "model": "sooka-TV-v1"
   }
  ],
  "Astro Queo": [
@@ -19895,6 +19905,11 @@
    "model": "E100"
   },
   {
+   "device": "E0010",
+   "name": "E15",
+   "model": "E15"
+  },
+  {
    "device": "E20",
    "name": "E20",
    "model": "E20"
@@ -27118,6 +27133,11 @@
    "model": "Q6"
   },
   {
+   "device": "Compaq_QT10",
+   "name": "QT10",
+   "model": "QT10"
+  },
+  {
    "device": "QTAB",
    "name": "QTAB",
    "model": "QTAB"
@@ -32117,6 +32137,13 @@
    "device": "RD86QE",
    "name": "RD86QE",
    "model": "RD86QE"
+  }
+ ],
+ "DSTechnology": [
+  {
+   "device": "MO_Pro",
+   "name": "MATE ONE",
+   "model": "MO_Series"
   }
  ],
  "DTC products": [
@@ -54073,6 +54100,11 @@
    "model": "HTC Desire X"
   },
   {
+   "device": "htc_enodugls",
+   "name": "enodugls_00709",
+   "model": "2QDA100"
+  },
+  {
    "device": "mystul",
    "name": "first",
    "model": "HTC first"
@@ -70091,6 +70123,11 @@
    "model": "HOT MINI"
   },
   {
+   "device": "M15A",
+   "name": "M15A",
+   "model": "M15A"
+  },
+  {
    "device": "M30A",
    "name": "M30A",
    "model": "M30A"
@@ -79794,6 +79831,13 @@
    "device": "KPAU04",
    "name": "KPAU04",
    "model": "KPAU04"
+  }
+ ],
+ "KJ_Board": [
+  {
+   "device": "KJG_IR13",
+   "name": "KJG IR13",
+   "model": "KJG_Series"
   }
  ],
  "KNC (LK)": [
@@ -111987,6 +112031,16 @@
    "model": "moto g71 5G"
   },
   {
+   "device": "cancunf",
+   "name": "moto g64 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "device": "cancunf",
+   "name": "moto g64 5G",
+   "model": "moto g64 5G"
+  },
+  {
    "device": "corfur",
    "name": "moto g71 5G",
    "model": "moto g(50)"
@@ -141592,6 +141646,11 @@
    "device": "groundhog",
    "name": "SMART Board MX Series (V5)",
    "model": "SMART Board MX Series (V5)"
+  },
+  {
+   "device": "groundhog",
+   "name": "SMART Board® RX Series",
+   "model": "SMART Board Interactive Display"
   }
  ],
  "SMART_KASSEL": [
@@ -164153,6 +164212,11 @@
    "device": "STG_IR13",
    "name": "ST IR13",
    "model": "STG_Series"
+  },
+  {
+   "device": "WTC_Pro",
+   "name": "WTC Series",
+   "model": "Smartedu_WTC_Series"
   }
  ],
  "Smartab": [
@@ -194692,6 +194756,11 @@
   },
   {
    "device": "V2333",
+   "name": "Y18",
+   "model": "V2345"
+  },
+  {
+   "device": "V2333",
    "name": "Y18e",
    "model": "V2350"
   },
@@ -203352,6 +203421,11 @@
    "device": "T13_US",
    "name": "T13_US",
    "model": "T13_US"
+  },
+  {
+   "device": "T15_U_EEA",
+   "name": "T15_U_EEA",
+   "model": "T15_U_EEA"
   },
   {
    "device": "T15_U_US",

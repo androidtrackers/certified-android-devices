@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-04-29
+Last sync is 2024-04-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -735,6 +735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|TAB Gallilea|ADVAN_TAB_Gallilea|8003|
 |Advan digital|TAB VX|ADVAN_TAB_VX|1013|
 |Advan digital|TAB_10|ADVAN_TAB_10|1010|
+|Advan digital|TAB_A8_PLUS|ADVAN_TAB_A8_PLUS|8004|
 |Advan digital|X7 Max|X7_Max|7301|
 |Advan digital|X7 Pro|ADVAN_7008|7008|
 |Advan digital|X7 Pro|ADVAN_X7_Pro|X7 Pro|
@@ -1915,6 +1916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Astak|NEOS|Wenu|NEOS|
 |Astro|Genesis_S8|Astro_Genesis_S8|Genesis_S8|
 |Astro|Nova_Phab_M9|Nova_Phab_M9|Nova_Phab_M9|
+|Astro|sooka-TV-v1|sooka-TV_v1|sooka-TV-v1|
 |Astro Queo|A712|A712|A712|
 |Astro mobile|Smart _A1_Plus|Smart_A1_Plus|Smart A1 Plus|
 |AstroQueo|polaris_wifionly|polaris-wifionly|A912|
@@ -3857,6 +3859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Dash XL|Dash_XL|Studio M5 Plus|
 |Blu|Dash_L3|Dash_L3|Dash L3|
 |Blu|E100|E_100|E100|
+|Blu|E15|E0010|E15|
 |Blu|E20|E20|E20|
 |Blu|ENERGY  XL|BLU_ENERGY_XL|ENERGY XL|
 |Blu|ENERGY DIAMOND|BLU_ENERGY_DIAMOND|BLU ENERGY DIAMOND|
@@ -5234,6 +5237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|Q5|Q5|Q5|
 |Compaq|Q5 PRO|Q5_PRO|Q5_PRO|
 |Compaq|Q6|Q6|Q6|
+|Compaq|QT10|Compaq_QT10|QT10|
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10.1|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10_1|
@@ -6209,6 +6213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DREAMTECH|STARPAD|STARPAD|STARPAD|
 |DSIC|Mobilebase DS6|ds6|DS6|
 |DSIC|RD86QE|RD86QE|RD86QE|
+|DSTechnology|MATE ONE|MO_Pro|MO_Series|
 |DTC products|S10|S10|S10|
 |DTC products|S30|S30|S30|
 |DTV (Thai)|P3|Digital_Life_P3|P3|
@@ -10423,6 +10428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|desire 608t|cp3dtg|HTC 608t|
 |HTC|desire 610|htc_a3qhdul|HTC Desire 610|
 |HTC|desire x|protou|HTC Desire X|
+|HTC|enodugls_00709|htc_enodugls|2QDA100|
 |HTC|first|mystul|HTC first|
 |HTC|myTouch 3G|sapphire|HTC Magic|
 |HTC|myTouch 3G|sapphire|T-Mobile myTouch 3G|
@@ -13597,6 +13603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
 |Hyper|Hera|Hyper|Hyper|
 |Hytel|HOT MINI|HOT_MINI|HOT MINI|
+|Hytel|M15A|M15A|M15A|
 |Hytel|M30A|M30A|M30A|
 |Hytera|PDC550|PDC550|PDC550|
 |Hytera|PDC680|PDC680|PDC680|
@@ -15476,6 +15483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KGTEL|X55E|X55E|X55E|
 |KIRISUN|KIRISUN T650|T650|T650|
 |KISA phone|KPAU04|KPAU04|KPAU04|
+|KJ_Board|KJG IR13|KJG_IR13|KJG_Series|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
 |KONDE|KD2|KD2|KD2|
 |KONDE|KIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
@@ -21777,6 +21785,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g62 5G|rhodec|moto g62 5G|
 |Motorola|moto g62 5G|rhodei|moto g62 5G|
 |Motorola|moto g62 5G|rhodei|moto g71 5G|
+|Motorola|moto g64 5G|cancunf|moto g54 5G|
+|Motorola|moto g64 5G|cancunf|moto g64 5G|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto g72|vicky|moto g(50) 5G|
@@ -27506,6 +27516,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMART Technologies|AMG1|komodo|AMG series|
 |SMART Technologies|SMART AMG series|komodo|SMART AMG1|
 |SMART Technologies|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
+|SMART Technologies|SMART Board® RX Series|groundhog|SMART Board Interactive Display|
 |SMART_KASSEL|ARGENTINA|SK3402|SK3402|
 |SMART_KASSEL|SK3403|SK3403|SK3403|
 |SMART_KASSEL|SK3404|SK3404|SK3404|
@@ -31973,6 +31984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
 |Smart_Touch|ST IR13|STG_IR13|STG_Series|
+|Smart_Touch|WTC Series|WTC_Pro|Smartedu_WTC_Series|
 |Smartab|SRF79|SRF79|SRF79|
 |Smartab|ST1009X|ST1009X|ST1009X|
 |Smartab|ST1020|ST1020|ST1020|
@@ -37913,6 +37925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y17s|V2310|V2310|
 |Vivo|Y17s|V2310|V2331|
 |Vivo|Y18|V2333|V2333|
+|Vivo|Y18|V2333|V2345|
 |Vivo|Y18e|V2333|V2350|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 Pro 5G|V2303|V2303|
@@ -39590,6 +39603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|T13-US|T13-US|T13-US|
 |YesTeL|T13_EEA|T13_EEA|T13_EEA|
 |YesTeL|T13_US|T13_US|T13_US|
+|YesTeL|T15_U_EEA|T15_U_EEA|T15_U_EEA|
 |YesTeL|T15_U_US|T15_U_US|T15_U_US|
 |YesTeL|T5|T5|T5|
 |YesTeL|T5-plus|T5-plus|T5-plus|

@@ -830,6 +830,11 @@
   },
   {
    "brand": "Advan digital",
+   "name": "TAB_A8_PLUS",
+   "device": "ADVAN_TAB_A8_PLUS"
+  },
+  {
+   "brand": "Advan digital",
    "name": "XTAB",
    "device": "ADVAN_XTAB"
   }
@@ -17478,6 +17483,13 @@
    "device": "Nova_Phab_M9"
   }
  ],
+ "sooka-TV-v1": [
+  {
+   "brand": "Astro",
+   "name": "sooka-TV-v1",
+   "device": "sooka-TV_v1"
+  }
+ ],
  "A712": [
   {
    "brand": "Astro Queo",
@@ -31246,6 +31258,13 @@
    "device": "E_100"
   }
  ],
+ "E15": [
+  {
+   "brand": "Blu",
+   "name": "E15",
+   "device": "E0010"
+  }
+ ],
  "E20": [
   {
    "brand": "Blu",
@@ -41160,6 +41179,13 @@
    "device": "Q6"
   }
  ],
+ "QT10": [
+  {
+   "brand": "Compaq",
+   "name": "QT10",
+   "device": "Compaq_QT10"
+  }
+ ],
  "QTAB": [
   {
    "brand": "Compaq",
@@ -48082,6 +48108,13 @@
    "brand": "Remdun",
    "name": "RD86QE",
    "device": "RD86QE"
+  }
+ ],
+ "MO_Series": [
+  {
+   "brand": "DSTechnology",
+   "name": "MATE ONE",
+   "device": "MO_Pro"
   }
  ],
  "10 Plus": [
@@ -77341,6 +77374,13 @@
    "device": "cp2dug"
   }
  ],
+ "2QDA100": [
+  {
+   "brand": "HTC",
+   "name": "enodugls_00709",
+   "device": "htc_enodugls"
+  }
+ ],
  "HTC first": [
   {
    "brand": "HTC",
@@ -98305,6 +98345,13 @@
    "device": "HOT_MINI"
   }
  ],
+ "M15A": [
+  {
+   "brand": "Hytel",
+   "name": "M15A",
+   "device": "M15A"
+  }
+ ],
  "M30A": [
   {
    "brand": "Hytel",
@@ -110440,6 +110487,13 @@
    "brand": "KISA phone",
    "name": "KPAU04",
    "device": "KPAU04"
+  }
+ ],
+ "KJG_Series": [
+  {
+   "brand": "KJ_Board",
+   "name": "KJG IR13",
+   "device": "KJG_IR13"
   }
  ],
  "TPC_XTE10D": [
@@ -151153,6 +151207,11 @@
    "brand": "Motorola",
    "name": "moto g54 5G",
    "device": "cancunf"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g64 5G",
+   "device": "cancunf"
   }
  ],
  "moto g73 5G": [
@@ -151199,6 +151258,13 @@
    "brand": "Motorola",
    "name": "motorola edge 30 neo",
    "device": "miami"
+  }
+ ],
+ "moto g64 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g64 5G",
+   "device": "cancunf"
   }
  ],
  "moto g72": [
@@ -187412,6 +187478,13 @@
    "device": "groundhog"
   }
  ],
+ "SMART Board Interactive Display": [
+  {
+   "brand": "SMART Technologies",
+   "name": "SMART Board® RX Series",
+   "device": "groundhog"
+  }
+ ],
  "SK3402": [
   {
    "brand": "SMART_KASSEL",
@@ -217455,6 +217528,13 @@
    "brand": "Smart_Touch",
    "name": "ST IR13",
    "device": "STG_IR13"
+  }
+ ],
+ "Smartedu_WTC_Series": [
+  {
+   "brand": "Smart_Touch",
+   "name": "WTC Series",
+   "device": "WTC_Pro"
   }
  ],
  "SRF79": [
@@ -255656,6 +255736,13 @@
    "device": "V2333"
   }
  ],
+ "V2345": [
+  {
+   "brand": "Vivo",
+   "name": "Y18",
+   "device": "V2333"
+  }
+ ],
  "V2350": [
   {
    "brand": "Vivo",
@@ -265993,6 +266080,13 @@
    "brand": "YesTeL",
    "name": "T13_US",
    "device": "T13_US"
+  }
+ ],
+ "T15_U_EEA": [
+  {
+   "brand": "YesTeL",
+   "name": "T15_U_EEA",
+   "device": "T15_U_EEA"
   }
  ],
  "T15_U_US": [
