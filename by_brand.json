@@ -1424,14 +1424,14 @@
  ],
  "ATEC": [
   {
-   "device": "ATEC_IWB",
-   "name": "A8GC",
-   "model": "A8GC"
-  },
-  {
    "device": "APD3",
    "name": "APD3",
    "model": "APD3"
+  },
+  {
+   "device": "ATEC_IWB",
+   "name": "ATEC GRANDE",
+   "model": "A8GC"
   }
  ],
  "ATEL": [
@@ -16783,6 +16783,11 @@
    "model": "QS02"
   },
   {
+   "device": "RE04_series",
+   "name": "RE04_series",
+   "model": "RE04_series"
+  },
+  {
    "device": "RM6504",
    "name": "RM6504",
    "model": "RM6504"
@@ -23003,6 +23008,11 @@
   }
  ],
  "COLORROOM": [
+  {
+   "device": "C3_Pro_ROW",
+   "name": "C3_Pro_ROW",
+   "model": "C3_Pro"
+  },
   {
    "device": "C5",
    "name": "C5",
@@ -31811,6 +31821,13 @@
    "device": "yeongdeungpo",
    "name": "EU",
    "model": "DIAMANT Android TV"
+  }
+ ],
+ "DIDIK_TAB": [
+  {
+   "device": "DT24",
+   "name": "DT24",
+   "model": "DT24"
   }
  ],
  "DIFRNCE": [
@@ -50133,6 +50150,11 @@
    "device": "Interactive_White_Board",
    "name": "ID75HZA3B1_C",
    "model": "ID75HZA3B1_C"
+  },
+  {
+   "device": "Interactive_White_Board",
+   "name": "ID86HZA3B1_C",
+   "model": "ID86HZA3B1_C"
   },
   {
    "device": "65W72B",
@@ -70112,7 +70134,7 @@
  "Hyper": [
   {
    "device": "Hyper",
-   "name": "Hera",
+   "name": "Hyper Board",
    "model": "Hyper"
   }
  ],
@@ -78415,6 +78437,11 @@
    "model": "JVC 2K ISDB TV"
   },
   {
+   "device": "mountbaker",
+   "name": "JVC",
+   "model": "JVC 2K TV"
+  },
+  {
    "device": "seocho",
    "name": "JVC",
    "model": "JVC 4K Android TV"
@@ -80558,9 +80585,19 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "IBG",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "IHOME",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "IHOME",
+   "model": "2K SMART TV"
   },
   {
    "device": "hongkong",
@@ -81734,6 +81771,11 @@
  ],
  "Kenwood": [
   {
+   "device": "mountbaker",
+   "name": "KENWOOD",
+   "model": "KENWOOD 2K TV"
+  },
+  {
    "device": "XP8800",
    "name": "KWSA80K",
    "model": "KWSA80K"
@@ -82166,6 +82208,11 @@
    "device": "A5_CRISTAL",
    "name": "A5_CRISTAL",
    "model": "A5_CRISTAL"
+  },
+  {
+   "device": "mountbaker",
+   "name": "KIOWA",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -100572,6 +100619,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "MAG",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "MAG425A",
    "name": "MAG425A",
    "model": "MAG425A"
@@ -100884,6 +100936,13 @@
    "device": "ME74",
    "name": "ME74",
    "model": "ME74"
+  }
+ ],
+ "MEIZE": [
+  {
+   "device": "D105",
+   "name": "D105",
+   "model": "D105"
   }
  ],
  "MEO(Portugal)": [
@@ -120392,6 +120451,16 @@
  ],
  "Odea": [
   {
+   "device": "A10_EEA",
+   "name": "A10_EEA",
+   "model": "A10"
+  },
+  {
+   "device": "A10_ROW",
+   "name": "A10_ROW",
+   "model": "A10"
+  },
+  {
    "device": "S11_ROW",
    "name": "S11_ROW",
    "model": "S11"
@@ -125587,6 +125656,11 @@
    "device": "OT5",
    "name": "OT5_EEA",
    "model": "OT5"
+  },
+  {
+   "device": "OT5_S",
+   "name": "OT5_S_EEA",
+   "model": "OT5 S"
   },
   {
    "device": "OT7",
@@ -141900,6 +141974,11 @@
    "device": "GRAVITY_5_EEA",
    "name": "GRAVITY_5_EEA",
    "model": "GRAVITY_5_EEA"
+  },
+  {
+   "device": "GRAVITY_5_PRO",
+   "name": "GRAVITY_5_PRO",
+   "model": "GRAVITY 5 PRO"
   },
   {
    "device": "GRAVITY_5_SE_EEA",
@@ -159285,6 +159364,11 @@
    "model": "M_766"
   },
   {
+   "device": "S-764",
+   "name": "S-764",
+   "model": "S-764"
+  },
+  {
    "device": "SS1010",
    "name": "SS1010",
    "model": "SS1010"
@@ -164212,11 +164296,6 @@
    "device": "STG_IR13",
    "name": "ST IR13",
    "model": "STG_Series"
-  },
-  {
-   "device": "WTC_Pro",
-   "name": "WTC Series",
-   "model": "Smartedu_WTC_Series"
   }
  ],
  "Smartab": [
@@ -164325,6 +164404,13 @@
    "device": "SmartabS4",
    "name": "SmartabS4",
    "model": "SmartabS4"
+  }
+ ],
+ "Smartedu_Touch": [
+  {
+   "device": "WTC_Pro",
+   "name": "WTC Series",
+   "model": "Smartedu_WTC_Series"
   }
  ],
  "Smartek": [
@@ -216373,6 +216459,11 @@
    "device": "Swift2Pro",
    "name": "Swift 2 Pro",
    "model": "I23M02"
+  },
+  {
+   "device": "Swift1Pro",
+   "name": "Swift1Pro",
+   "model": "I23M03"
   },
   {
    "device": "Swift2",

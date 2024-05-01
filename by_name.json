@@ -9134,18 +9134,18 @@
    "model": "A801"
   }
  ],
- "A8GC": [
-  {
-   "brand": "ATEC",
-   "device": "ATEC_IWB",
-   "model": "A8GC"
-  }
- ],
  "APD3": [
   {
    "brand": "ATEC",
    "device": "APD3",
    "model": "APD3"
+  }
+ ],
+ "ATEC GRANDE": [
+  {
+   "brand": "ATEC",
+   "device": "ATEC_IWB",
+   "model": "A8GC"
   }
  ],
  "A68EL": [
@@ -31832,6 +31832,13 @@
    "model": "QS02"
   }
  ],
+ "RE04_series": [
+  {
+   "brand": "BenQ",
+   "device": "RE04_series",
+   "model": "RE04_series"
+  }
+ ],
  "RM6504": [
   {
    "brand": "BenQ",
@@ -41320,6 +41327,13 @@
    "brand": "COEX",
    "device": "SW6H",
    "model": "COEX 4K Smart TV FF"
+  }
+ ],
+ "C3_Pro_ROW": [
+  {
+   "brand": "COLORROOM",
+   "device": "C3_Pro_ROW",
+   "model": "C3_Pro"
   }
  ],
  "K12": [
@@ -53623,6 +53637,13 @@
    "model": "X8ULTRA"
   }
  ],
+ "DT24": [
+  {
+   "brand": "DIDIK_TAB",
+   "device": "DT24",
+   "model": "DT24"
+  }
+ ],
  "DIT702201": [
   {
    "brand": "DIFRNCE",
@@ -61726,6 +61747,11 @@
    "brand": "JVC",
    "device": "mountbaker",
    "model": "JVC 2K ISDB TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "mountbaker",
+   "model": "JVC 2K TV"
   },
   {
    "brand": "JVC",
@@ -78322,6 +78348,13 @@
    "brand": "HORIZON",
    "device": "Interactive_White_Board",
    "model": "ID75HZA3B1_C"
+  }
+ ],
+ "ID86HZA3B1_C": [
+  {
+   "brand": "HORIZON",
+   "device": "Interactive_White_Board",
+   "model": "ID86HZA3B1_C"
   }
  ],
  "HOT ONE": [
@@ -100367,7 +100400,7 @@
    "model": "Smart Box Android TV"
   }
  ],
- "Hera": [
+ "Hyper Board": [
   {
    "brand": "Hyper",
    "device": "Hyper",
@@ -112861,6 +112894,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "IHOME": [
@@ -112868,6 +112906,11 @@
    "brand": "KTCtv",
    "device": "hongkong",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "IMMER": [
@@ -114362,6 +114405,13 @@
    "model": "2K SMART TV"
   }
  ],
+ "KENWOOD": [
+  {
+   "brand": "Kenwood",
+   "device": "mountbaker",
+   "model": "KENWOOD 2K TV"
+  }
+ ],
  "KWSA80K": [
   {
    "brand": "Kenwood",
@@ -114897,6 +114947,11 @@
   }
  ],
  "KIOWA": [
+  {
+   "brand": "Kiowa",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
   {
    "brand": "Kiowa",
    "device": "stanford",
@@ -135725,6 +135780,11 @@
    "brand": "MAG",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "MAG",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "MAG425A": [
@@ -136104,6 +136164,18 @@
    "brand": "MEFERI",
    "device": "ME74",
    "model": "ME74"
+  }
+ ],
+ "D105": [
+  {
+   "brand": "MEIZE",
+   "device": "D105",
+   "model": "D105"
+  },
+  {
+   "brand": "Zonko",
+   "device": "D105",
+   "model": "D105"
   }
  ],
  "AVATAR 3": [
@@ -158635,6 +158707,20 @@
    "model": "Octopus_One"
   }
  ],
+ "A10_EEA": [
+  {
+   "brand": "Odea",
+   "device": "A10_EEA",
+   "model": "A10"
+  }
+ ],
+ "A10_ROW": [
+  {
+   "brand": "Odea",
+   "device": "A10_ROW",
+   "model": "A10"
+  }
+ ],
  "S11_ROW": [
   {
    "brand": "Odea",
@@ -164851,6 +164937,13 @@
    "brand": "Oukitel",
    "device": "OT5",
    "model": "OT5"
+  }
+ ],
+ "OT5_S_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "OT5_S",
+   "model": "OT5 S"
   }
  ],
  "OT7_EEA": [
@@ -184610,6 +184703,13 @@
    "model": "GRAVITY_5_EEA"
   }
  ],
+ "GRAVITY_5_PRO": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_5_PRO",
+   "model": "GRAVITY 5 PRO"
+  }
+ ],
  "GRAVITY_5_SE_EEA": [
   {
    "brand": "SPC",
@@ -203629,6 +203729,13 @@
    "model": "M_766"
   }
  ],
+ "S-764": [
+  {
+   "brand": "Semeakoko",
+   "device": "S-764",
+   "model": "S-764"
+  }
+ ],
  "SS1010": [
   {
    "brand": "Semeakoko",
@@ -209713,13 +209820,6 @@
    "model": "STG_Series"
   }
  ],
- "WTC Series": [
-  {
-   "brand": "Smart_Touch",
-   "device": "WTC_Pro",
-   "model": "Smartedu_WTC_Series"
-  }
- ],
  "SRF79": [
   {
    "brand": "Smartab",
@@ -209851,6 +209951,13 @@
    "brand": "Smartec",
    "device": "SmartabS4",
    "model": "SmartabS4"
+  }
+ ],
+ "WTC Series": [
+  {
+   "brand": "Smartedu_Touch",
+   "device": "WTC_Pro",
+   "model": "Smartedu_WTC_Series"
   }
  ],
  "MR_POTATO_HEAD": [
@@ -265518,13 +265625,6 @@
    "model": "AWM533"
   }
  ],
- "D105": [
-  {
-   "brand": "Zonko",
-   "device": "D105",
-   "model": "D105"
-  }
- ],
  "D106": [
   {
    "brand": "Zonko",
@@ -268782,6 +268882,13 @@
    "brand": "iMin",
    "device": "Swift2Pro",
    "model": "I23M02"
+  }
+ ],
+ "Swift1Pro": [
+  {
+   "brand": "iMin",
+   "device": "Swift1Pro",
+   "model": "I23M03"
   }
  ],
  "Swift2_GL": [

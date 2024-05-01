@@ -5229,6 +5229,11 @@
    "model": "JVC 2K ISDB TV"
   },
   {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 2K TV"
+  },
+  {
    "brand": "Jam",
    "name": "JAM",
    "model": "2K SMART TV"
@@ -5276,6 +5281,16 @@
   {
    "brand": "KTCtv",
    "name": "HARMON-TEC",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IBG",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "IHOME",
    "model": "2K SMART TV"
   },
   {
@@ -5345,6 +5360,11 @@
   },
   {
    "brand": "Kenwood",
+   "name": "KENWOOD",
+   "model": "KENWOOD 2K TV"
+  },
+  {
+   "brand": "Kenwood",
    "name": "Kenwood",
    "model": "KENWOOD ATSC 2K TV"
   },
@@ -5359,8 +5379,18 @@
    "model": "KENWOOD ISDB 2K TV"
   },
   {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "LUCOMS",
    "name": "LUCOMS",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "MAG",
+   "name": "MAG",
    "model": "2K SMART TV"
   },
   {
@@ -6802,18 +6832,18 @@
    "model": "A801"
   }
  ],
- "ATEC_IWB": [
-  {
-   "brand": "ATEC",
-   "name": "A8GC",
-   "model": "A8GC"
-  }
- ],
  "APD3": [
   {
    "brand": "ATEC",
    "name": "APD3",
    "model": "APD3"
+  }
+ ],
+ "ATEC_IWB": [
+  {
+   "brand": "ATEC",
+   "name": "ATEC GRANDE",
+   "model": "A8GC"
   }
  ],
  "A68EL": [
@@ -31934,6 +31964,13 @@
    "model": "i-217D1"
   }
  ],
+ "RE04_series": [
+  {
+   "brand": "BenQ",
+   "name": "RE04_series",
+   "model": "RE04_series"
+  }
+ ],
  "RM6504": [
   {
    "brand": "BenQ",
@@ -40392,6 +40429,13 @@
    "brand": "COCOMM",
    "name": "F910B0101",
    "model": "F910"
+  }
+ ],
+ "C3_Pro_ROW": [
+  {
+   "brand": "COLORROOM",
+   "name": "C3_Pro_ROW",
+   "model": "C3_Pro"
   }
  ],
  "K12": [
@@ -52851,6 +52895,13 @@
    "model": "X8ULTRA"
   }
  ],
+ "DT24": [
+  {
+   "brand": "DIDIK_TAB",
+   "name": "DT24",
+   "model": "DT24"
+  }
+ ],
  "DIT702201": [
   {
    "brand": "DIFRNCE",
@@ -61407,6 +61458,11 @@
    "brand": "HORIZON",
    "name": "ID75HZA3B1_C",
    "model": "ID75HZA3B1_C"
+  },
+  {
+   "brand": "HORIZON",
+   "name": "ID86HZA3B1_C",
+   "model": "ID86HZA3B1_C"
   }
  ],
  "HERO-SP001": [
@@ -99685,7 +99741,7 @@
  "Hyper": [
   {
    "brand": "Hyper",
-   "name": "Hera",
+   "name": "Hyper Board",
    "model": "Hyper"
   }
  ],
@@ -136203,6 +136259,18 @@
    "model": "ME74"
   }
  ],
+ "D105": [
+  {
+   "brand": "MEIZE",
+   "name": "D105",
+   "model": "D105"
+  },
+  {
+   "brand": "Zonko",
+   "name": "D105",
+   "model": "D105"
+  }
+ ],
  "VSB3918-MEO": [
   {
    "brand": "MEO(Portugal)",
@@ -159233,6 +159301,20 @@
    "model": "Octopus_One"
   }
  ],
+ "A10_EEA": [
+  {
+   "brand": "Odea",
+   "name": "A10_EEA",
+   "model": "A10"
+  }
+ ],
+ "A10_ROW": [
+  {
+   "brand": "Odea",
+   "name": "A10_ROW",
+   "model": "A10"
+  }
+ ],
  "S11_ROW": [
   {
    "brand": "Odea",
@@ -165632,6 +165714,13 @@
    "brand": "Oukitel",
    "name": "OT5_EEA",
    "model": "OT5"
+  }
+ ],
+ "OT5_S": [
+  {
+   "brand": "Oukitel",
+   "name": "OT5_S_EEA",
+   "model": "OT5 S"
   }
  ],
  "OT7": [
@@ -184340,6 +184429,13 @@
    "brand": "SPC",
    "name": "GRAVITY_5_EEA",
    "model": "GRAVITY_5_EEA"
+  }
+ ],
+ "GRAVITY_5_PRO": [
+  {
+   "brand": "SPC",
+   "name": "GRAVITY_5_PRO",
+   "model": "GRAVITY 5 PRO"
   }
  ],
  "GRAVITY_5_SE_EEA": [
@@ -205468,6 +205564,13 @@
    "model": "M_766"
   }
  ],
+ "S-764": [
+  {
+   "brand": "Semeakoko",
+   "name": "S-764",
+   "model": "S-764"
+  }
+ ],
  "SS1010": [
   {
    "brand": "Semeakoko",
@@ -211555,13 +211658,6 @@
    "model": "STG_Series"
   }
  ],
- "WTC_Pro": [
-  {
-   "brand": "Smart_Touch",
-   "name": "WTC Series",
-   "model": "Smartedu_WTC_Series"
-  }
- ],
  "SRF79": [
   {
    "brand": "Smartab",
@@ -211686,6 +211782,13 @@
    "brand": "Smartec",
    "name": "SmartabS4",
    "model": "SmartabS4"
+  }
+ ],
+ "WTC_Pro": [
+  {
+   "brand": "Smartedu_Touch",
+   "name": "WTC Series",
+   "model": "Smartedu_WTC_Series"
   }
  ],
  "MR_POTATO_HEAD": [
@@ -267150,13 +267253,6 @@
    "model": "AWM533"
   }
  ],
- "D105": [
-  {
-   "brand": "Zonko",
-   "name": "D105",
-   "model": "D105"
-  }
- ],
  "D106": [
   {
    "brand": "Zonko",
@@ -270332,6 +270428,13 @@
    "brand": "iMin",
    "name": "Swift 2 Pro",
    "model": "I23M02"
+  }
+ ],
+ "Swift1Pro": [
+  {
+   "brand": "iMin",
+   "name": "Swift1Pro",
+   "model": "I23M03"
   }
  ],
  "Swift2": [
