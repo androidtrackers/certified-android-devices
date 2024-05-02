@@ -49888,6 +49888,11 @@
    "model": "HKC 4K SA Smart TV"
   },
   {
+   "device": "kannai",
+   "name": "Google TV",
+   "model": "2K JP Google TV"
+  },
+  {
    "device": "lakeside",
    "name": "Google TV",
    "model": "4K COL Google TV"

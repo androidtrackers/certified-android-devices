@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-01
+Last sync is 2024-05-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9590,6 +9590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|4K Smart TV|pioneer|4K PA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|4K SA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|HKC 4K SA Smart TV|
+|HKC Elec|Google TV|kannai|2K JP Google TV|
 |HKC Elec|Google TV|lakeside|4K COL Google TV|
 |HKC Elec|Google TV|lakeside|4K PA Google TV|
 |HKC Elec|Google TV|lakeside|4K SA Google TV|

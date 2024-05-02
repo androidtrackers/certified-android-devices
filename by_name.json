@@ -78038,6 +78038,11 @@
  "Google TV": [
   {
    "brand": "HKC Elec",
+   "device": "kannai",
+   "model": "2K JP Google TV"
+  },
+  {
+   "brand": "HKC Elec",
    "device": "lakeside",
    "model": "4K COL Google TV"
   },
