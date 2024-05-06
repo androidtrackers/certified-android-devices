@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-05
+Last sync is 2024-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2433,6 +2433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avaya|Vantage|K175|K175|
 |Avaya|Vantage|Vantage|Avaya Vantage|
 |Avaya|Vantage|Vantage|K165|
+|AvidPad|A30PRO|A30PRO|A30PRO|
 |Avion|Avion A10|Avion_A10|Avion A10|
 |Avion|Avion A10 Pro|Avion_A10_Pro|Avion A10 Pro|
 |Avion|m2|Avion_M2|M2|
@@ -19871,6 +19872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Majestic|TAB_915_4G|TAB_915_4G|TAB_915_4G|
 |Majestic|TAB_916_4G|TAB_916_4G|TAB_916_4G|
 |Majestic|TAB_918_PRO_4G|TAB_918_PRO_4G|TAB_918_PRO_4G|
+|Majestic|TAB_920_PLUS_4G|TAB_920_PLUS_4G|TAB_920_PLUS_4G|
 |Making Life Simple|Brace|iQM801|iQM801|
 |Making Life Simple|MLS Novel 3G|iQ181011N|iQ181011N|
 |Making Life Simple|MLS iQ1452aN|iQ1452aN|iQ1452aN|
@@ -24266,6 +24268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Opticon|H-31|h31|h31|
 |Opticon|H-33|h33|h33|
 |Opticon|H-35|H-35|H-35|
+|Optoma|IFP5Gen3|rk3588_t|UXXSRK|
 |Oraimo|R401|oraimo-R401|oraimo R401|
 |Oraimo|R402|oraimo-R402|oraimo R402|
 |Oraimo|oraimo R401S|oraimo-R401|oraimo R401S|
@@ -36205,6 +36208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TM-TAB1085|TM-TAB1085|TM-TAB1085|
 |Touchmate|TM_MID792WP|TM_MID792WP|TM-MID792WP|
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
+|Touchview Interactive|TVULTRA98_G5|TVULTRA98_G5|TVULTRA98_G5|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
 |Toush|4K FF SMART TV|SW6H|4K FF SMART TV|
@@ -36711,6 +36715,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G5 Mecha|G5_Mecha|RP08|
 |Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
 |Umidigi|G5 Mecha RU|G5_Mecha|RP08|
+|Umidigi|G5_Tab|G5_Tab|MT16|
+|Umidigi|G5_Tab_EEA|G5_Tab_EEA|MT16|
 |Umidigi|G6_Tab|G6_Tab|TG2404GBA|
 |Umidigi|G6_Tab_EEA|G6_Tab_EEA|TG2404GBA|
 |Umidigi|G7_Tab_Mini|G7_Tab_Mini|TG2405GBA|
@@ -37985,6 +37991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y36 5G|V2248|V2248|
 |Vivo|Y36m|PD2318|V2318A|
 |Vivo|Y36s|PD2318|V2318A|
+|Vivo|Y38 5G|V2343|V2343|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
 |Vivo|Y53|1606|vivo 1606|
@@ -39631,6 +39638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|X11_EEA|X11_EEA|X11_EEA|
 |YesTeL|X2_EEA|X2_EEA|X2_EEA|
 |YesTeL|X2_US|X2_US|X2_US|
+|YesTeL|X2_U_EEA|X2_U_EEA|X2_U_EEA|
 |YesTeL|X2_U_US|X2_U_US|X2_U_US|
 |YesTeL|X3|X3|X3|
 |YesTeL|X3_EEA|X3_EEA|X3_EEA|
@@ -41420,6 +41428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
+|ZTLEKE|S8Plus|S8Plus|S8Plus|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |ZUOPU|JH105|JH105|ZER A10|
@@ -41503,6 +41512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC52ax|TC52X|TC52AX|
 |Zebra|TC53|TC53|TC53|
 |Zebra|TC53A|TC53|TC53|
+|Zebra|TC53E|TC53E|TC53E|
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC58|TC58|TC58|
@@ -42295,6 +42305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imose|Omotab_2s|Omotab_2s|Omotab 2s|
 |imose|SEMPE|SEMPE|SEMPE|
 |indigi|G4i|G4i|G4i|
+|inefi|SlimPOS319|SlimPOS319|SlimPOS319|
 |innos|Android TV|R2|ATV R2|
 |innos|Innos|shilin|Innos4KAndroidTV|
 |innos|innos|bruno|Innos2KAndroidTV|
@@ -42377,6 +42388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|Tablet Gen 4|100135925|100135925|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
+|onn.|onn. Streaming Device 4K pro|SNA|onn. Streaming Device 4K pro|
 |onn.|onn_2k_gtv|XNA|onn. Full HD Streaming Device|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|

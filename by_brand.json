@@ -12577,6 +12577,13 @@
    "model": "K165"
   }
  ],
+ "AvidPad": [
+  {
+   "device": "A30PRO",
+   "name": "A30PRO",
+   "model": "A30PRO"
+  }
+ ],
  "Avion": [
   {
    "device": "Avion_A10",
@@ -102261,6 +102268,11 @@
    "device": "TAB_918_PRO_4G",
    "name": "TAB_918_PRO_4G",
    "model": "TAB_918_PRO_4G"
+  },
+  {
+   "device": "TAB_920_PLUS_4G",
+   "name": "TAB_920_PLUS_4G",
+   "model": "TAB_920_PLUS_4G"
   }
  ],
  "Making Life Simple": [
@@ -124826,6 +124838,13 @@
    "device": "H-35",
    "name": "H-35",
    "model": "H-35"
+  }
+ ],
+ "Optoma": [
+  {
+   "device": "rk3588_t",
+   "name": "IFP5Gen3",
+   "model": "UXXSRK"
   }
  ],
  "Oraimo": [
@@ -185843,6 +185862,13 @@
    "model": "TOUCHMATE-TM-MID811A"
   }
  ],
+ "Touchview Interactive": [
+  {
+   "device": "TVULTRA98_G5",
+   "name": "TVULTRA98_G5",
+   "model": "TVULTRA98_G5"
+  }
+ ],
  "Toughshield": [
   {
    "device": "R200",
@@ -188481,6 +188507,16 @@
    "device": "G5_Mecha",
    "name": "G5 Mecha RU",
    "model": "RP08"
+  },
+  {
+   "device": "G5_Tab",
+   "name": "G5_Tab",
+   "model": "MT16"
+  },
+  {
+   "device": "G5_Tab_EEA",
+   "name": "G5_Tab_EEA",
+   "model": "MT16"
   },
   {
    "device": "G6_Tab",
@@ -195059,6 +195095,11 @@
    "device": "PD2318",
    "name": "Y36s",
    "model": "V2318A"
+  },
+  {
+   "device": "V2343",
+   "name": "Y38 5G",
+   "model": "V2343"
   },
   {
    "device": "Y51",
@@ -203567,6 +203608,11 @@
    "device": "X2_US",
    "name": "X2_US",
    "model": "X2_US"
+  },
+  {
+   "device": "X2_U_EEA",
+   "name": "X2_U_EEA",
+   "model": "X2_U_EEA"
   },
   {
    "device": "X2_U_US",
@@ -212564,6 +212610,13 @@
    "model": "ZTE 7541N"
   }
  ],
+ "ZTLEKE": [
+  {
+   "device": "S8Plus",
+   "name": "S8Plus",
+   "model": "S8Plus"
+  }
+ ],
  "ZUKU": [
   {
    "device": "A155",
@@ -212993,6 +213046,11 @@
    "device": "TC53",
    "name": "TC53A",
    "model": "TC53"
+  },
+  {
+   "device": "TC53E",
+   "name": "TC53E",
+   "model": "TC53E"
   },
   {
    "device": "TC55",
@@ -217187,6 +217245,13 @@
    "model": "G4i"
   }
  ],
+ "inefi": [
+  {
+   "device": "SlimPOS319",
+   "name": "SlimPOS319",
+   "model": "SlimPOS319"
+  }
+ ],
  "innos": [
   {
    "device": "R2",
@@ -217643,6 +217708,11 @@
    "device": "sti6140d360",
    "name": "onn. 4k TV",
    "model": "sti6140d360"
+  },
+  {
+   "device": "SNA",
+   "name": "onn. Streaming Device 4K pro",
+   "model": "onn. Streaming Device 4K pro"
   },
   {
    "device": "XNA",

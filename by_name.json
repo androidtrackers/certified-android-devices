@@ -25614,6 +25614,13 @@
    "model": "K165"
   }
  ],
+ "A30PRO": [
+  {
+   "brand": "AvidPad",
+   "device": "A30PRO",
+   "model": "A30PRO"
+  }
+ ],
  "Avion A10": [
   {
    "brand": "Avion",
@@ -137663,6 +137670,13 @@
    "model": "TAB_918_PRO_4G"
   }
  ],
+ "TAB_920_PLUS_4G": [
+  {
+   "brand": "Majestic",
+   "device": "TAB_920_PLUS_4G",
+   "model": "TAB_920_PLUS_4G"
+  }
+ ],
  "Brace": [
   {
    "brand": "Making Life Simple",
@@ -163930,6 +163944,13 @@
    "brand": "Opticon",
    "device": "H-35",
    "model": "H-35"
+  }
+ ],
+ "IFP5Gen3": [
+  {
+   "brand": "Optoma",
+   "device": "rk3588_t",
+   "model": "UXXSRK"
   }
  ],
  "R401": [
@@ -234017,6 +234038,13 @@
    "model": "TOUCHMATE-TM-MID811A"
   }
  ],
+ "TVULTRA98_G5": [
+  {
+   "brand": "Touchview Interactive",
+   "device": "TVULTRA98_G5",
+   "model": "TVULTRA98_G5"
+  }
+ ],
  "R200": [
   {
    "brand": "Toughshield",
@@ -237096,6 +237124,20 @@
    "brand": "Umidigi",
    "device": "G5_Mecha",
    "model": "RP08"
+  }
+ ],
+ "G5_Tab": [
+  {
+   "brand": "Umidigi",
+   "device": "G5_Tab",
+   "model": "MT16"
+  }
+ ],
+ "G5_Tab_EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "G5_Tab_EEA",
+   "model": "MT16"
   }
  ],
  "G6_Tab": [
@@ -244869,6 +244911,13 @@
    "brand": "Vivo",
    "device": "PD2318",
    "model": "V2318A"
+  }
+ ],
+ "Y38 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2343",
+   "model": "V2343"
   }
  ],
  "Y51": [
@@ -254759,6 +254808,13 @@
    "model": "X2_US"
   }
  ],
+ "X2_U_EEA": [
+  {
+   "brand": "YesTeL",
+   "device": "X2_U_EEA",
+   "model": "X2_U_EEA"
+  }
+ ],
  "X2_U_US": [
   {
    "brand": "YesTeL",
@@ -264335,6 +264391,13 @@
    "model": "ZTE 7541N"
   }
  ],
+ "S8Plus": [
+  {
+   "brand": "ZTLEKE",
+   "device": "S8Plus",
+   "model": "S8Plus"
+  }
+ ],
  "A151": [
   {
    "brand": "ZUKU",
@@ -264884,6 +264947,13 @@
    "brand": "Zebra",
    "device": "TC53",
    "model": "TC53"
+  }
+ ],
+ "TC53E": [
+  {
+   "brand": "Zebra",
+   "device": "TC53E",
+   "model": "TC53E"
   }
  ],
  "TC56": [
@@ -269638,6 +269708,13 @@
    "model": "G4i"
   }
  ],
+ "SlimPOS319": [
+  {
+   "brand": "inefi",
+   "device": "SlimPOS319",
+   "model": "SlimPOS319"
+  }
+ ],
  "Innos": [
   {
    "brand": "innos",
@@ -270110,6 +270187,13 @@
    "brand": "onn.",
    "device": "sti6140d360",
    "model": "sti6140d360"
+  }
+ ],
+ "onn. Streaming Device 4K pro": [
+  {
+   "brand": "onn.",
+   "device": "SNA",
+   "model": "onn. Streaming Device 4K pro"
   }
  ],
  "onn_2k_gtv": [
