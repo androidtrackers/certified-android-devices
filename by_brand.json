@@ -4635,6 +4635,11 @@
    "model": "AIWA TV"
   },
   {
+   "device": "SW6H",
+   "name": "AIWA TV",
+   "model": "AIWA UHD SMART TV"
+  },
+  {
    "device": "AW790",
    "name": "AW790",
    "model": "AW790"
@@ -22639,6 +22644,16 @@
   }
  ],
  "CHAINWAY": [
+  {
+   "device": "C5",
+   "name": "C5_EEA",
+   "model": "C5"
+  },
+  {
+   "device": "C5",
+   "name": "C5_GL",
+   "model": "C5"
+  },
   {
    "device": "C60",
    "name": "C60",
@@ -54134,11 +54149,6 @@
    "model": "HTC Desire X"
   },
   {
-   "device": "htc_enodugls",
-   "name": "enodugls_00709",
-   "model": "2QDA100"
-  },
-  {
    "device": "mystul",
    "name": "first",
    "model": "HTC first"
@@ -55393,6 +55403,11 @@
    "device": "Hammer_Expl_Pro",
    "name": "Hammer Explorer Pro",
    "model": "Hammer_Explorer_Pro"
+  },
+  {
+   "device": "HS2401x",
+   "name": "Hammer_Iron_Va_EEA",
+   "model": "Iron Va"
   }
  ],
  "Handheld Group": [
@@ -61354,6 +61369,16 @@
    "device": "HNALI-Q",
    "name": "HONOR X9b 5G",
    "model": "ALI-NX1"
+  },
+  {
+   "device": "HNLLY-M1",
+   "name": "Honor 200 Lite",
+   "model": "LLY-NX1"
+  },
+  {
+   "device": "HNLLY-M1",
+   "name": "Honor 200 Lite",
+   "model": "LLY-NX3"
   },
   {
    "device": "HNVER",
@@ -79117,6 +79142,11 @@
    "device": "EZpad_M11_Pro",
    "name": "EZpad_M11_Pro",
    "model": "EZpad M11 Pro"
+  },
+  {
+   "device": "Z1",
+   "name": "Z1",
+   "model": "Z1"
   }
  ],
  "Juniper Systems": [
@@ -102051,6 +102081,13 @@
    "model": "MULTYNET UHD Android TV"
   }
  ],
+ "MUNGYO": [
+  {
+   "device": "MGEB",
+   "name": "MUNGYO MGEB",
+   "model": "MGEB"
+  }
+ ],
  "Mach Speed": [
   {
    "device": "X_treme_Play_Tab",
@@ -119833,6 +119870,11 @@
  ],
  "OMAX": [
   {
+   "device": "7PAN",
+   "name": "7PAN",
+   "model": "7PAN"
+  },
+  {
    "device": "rk3588_t",
    "name": "OMAX-IFPD",
    "model": "HANJI"
@@ -119923,6 +119965,11 @@
   }
  ],
  "ONERugged": [
+  {
+   "device": "M86XE",
+   "name": "M86XE",
+   "model": "M86XE"
+  },
   {
    "device": "MPC10T",
    "name": "MPC10T",
@@ -126162,6 +126209,13 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
+  }
+ ],
+ "PANORAMA": [
+  {
+   "device": "kualakai",
+   "name": "Smart TV",
+   "model": "Smart TV"
   }
  ],
  "PAPAGO": [
@@ -217236,6 +217290,13 @@
    "device": "SEMPE",
    "name": "SEMPE",
    "model": "SEMPE"
+  }
+ ],
+ "imozen": [
+  {
+   "device": "TC605",
+   "name": "TC605AN",
+   "model": "TC605"
   }
  ],
  "indigi": [

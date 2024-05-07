@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-06
+Last sync is 2024-05-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -879,6 +879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AIWA|zhongshan|4K SMART TV|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
 |Aiwa|AIWA TV|SW6H|AIWA TV|
+|Aiwa|AIWA TV|SW6H|AIWA UHD SMART TV|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
 |Aiwa|AWM509|AWM509|AWM509|
@@ -4386,6 +4387,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CG Mobile|OMEGA 8|CG_Omega_8|Omega 8|
 |CG Mobile|Omega6|OMEGA6|CG_OMEGA6|
 |CGV (France)|Ultimate T8|Ultimate_T8|CGV_Ultimate T8|
+|CHAINWAY|C5_EEA|C5|C5|
+|CHAINWAY|C5_GL|C5|C5|
 |CHAINWAY|C60|C60|C60|
 |CHAINWAY|C6000|C6000|C6000|
 |CHAINWAY|C61|C61|C61|
@@ -10434,7 +10437,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|desire 608t|cp3dtg|HTC 608t|
 |HTC|desire 610|htc_a3qhdul|HTC Desire 610|
 |HTC|desire x|protou|HTC Desire X|
-|HTC|enodugls_00709|htc_enodugls|2QDA100|
 |HTC|first|mystul|HTC first|
 |HTC|myTouch 3G|sapphire|HTC Magic|
 |HTC|myTouch 3G|sapphire|T-Mobile myTouch 3G|
@@ -10681,6 +10683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hammer|Hammer Energy 2 2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Hammer|Hammer Explorer Plus|Explorer_Plus|Hammer_Explorer_Plus|
 |Hammer|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
+|Hammer|Hammer_Iron_Va_EEA|HS2401x|Iron Va|
 |Handheld Group|ALGIZ RT10|ALGIZ_RT10|ALGIZ_RT10|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
@@ -11856,6 +11859,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
+|Honor|Honor 200 Lite|HNLLY-M1|LLY-NX1|
+|Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
@@ -15349,6 +15354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jumper|EZpad_M10_EEA|EZpad_M10|EZpad M10|
 |Jumper|EZpad_M11|EZpad_M11|EZpad_M11|
 |Jumper|EZpad_M11_Pro|EZpad_M11_Pro|EZpad M11 Pro|
+|Jumper|Z1|Z1|Z1|
 |Juniper Systems|Cedar CT8|CT8|Cedar CT8|
 |Juniper Systems|Mesa3|MS3A|MS3A|
 |Just5|CF8|CF8|CF8|
@@ -19831,6 +19837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MULTYNET|Pakistan|nagata|MULTYNET 2K SMART TV|
 |MULTYNET|Pakistan|tamachi|MULTYNET FHD Android TV|
 |MULTYNET|Pakistan|yeongdeungpo|MULTYNET UHD Android TV|
+|MUNGYO|MUNGYO MGEB|MGEB|MGEB|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
 |MachSpeed (Apollo Brands)|Trio Stealth_10 Tablet|D_10AL|Trio Stealth_10|
@@ -23287,6 +23294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OLAX|Ocean K8|Ocean_K8|Ocean K8|
 |OLAX|Ocean_F8|Ocean_F8|Ocean F8|
 |OLAX|Q101_EEA|Q101_EEA|Q101_EEA|
+|OMAX|7PAN|7PAN|7PAN|
 |OMAX|OMAX-IFPD|rk3588_t|HANJI|
 |OMIX|MixTab Pro|MixTab_Pro|MixTab Pro|
 |OMIX|MixTab Pro 2|MixTab_Pro_2|MixTab Pro 2|
@@ -23304,6 +23312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
+|ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
@@ -24526,6 +24535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
 |PAITANRY|R16|R16|R16|
 |PALSONIC|Android TV|R1|ATV R1|
+|PANORAMA|Smart TV|kualakai|Smart TV|
 |PAPAGO|GoPad8|GoPad8|GoPad8|
 |PARTNER MOBILE|E22|E22|E22|
 |PARTNER MOBILE|EV1_PRO|EV1_PRO|EV1 PRO|
@@ -42304,6 +42314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imose|Omotab2|Omotab2|Omotab2|
 |imose|Omotab_2s|Omotab_2s|Omotab 2s|
 |imose|SEMPE|SEMPE|SEMPE|
+|imozen|TC605AN|TC605|TC605|
 |indigi|G4i|G4i|G4i|
 |inefi|SlimPOS319|SlimPOS319|SlimPOS319|
 |innos|Android TV|R2|ATV R2|

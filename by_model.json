@@ -5382,6 +5382,16 @@
    "device": "C014"
   },
   {
+   "brand": "CHAINWAY",
+   "name": "C5_EEA",
+   "device": "C5"
+  },
+  {
+   "brand": "CHAINWAY",
+   "name": "C5_GL",
+   "device": "C5"
+  },
+  {
    "brand": "COLORROOM",
    "name": "C5",
    "device": "C5"
@@ -9840,6 +9850,13 @@
    "device": "SW6H"
   }
  ],
+ "AIWA UHD SMART TV": [
+  {
+   "brand": "Aiwa",
+   "name": "AIWA TV",
+   "device": "SW6H"
+  }
+ ],
  "AW790": [
   {
    "brand": "Aiwa",
@@ -10160,6 +10177,11 @@
    "brand": "Noblex",
    "name": "Smart TV",
    "device": "umeda"
+  },
+  {
+   "brand": "PANORAMA",
+   "name": "Smart TV",
+   "device": "kualakai"
   },
   {
    "brand": "Riviera",
@@ -77446,13 +77468,6 @@
    "device": "cp2dug"
   }
  ],
- "2QDA100": [
-  {
-   "brand": "HTC",
-   "name": "enodugls_00709",
-   "device": "htc_enodugls"
-  }
- ],
  "HTC first": [
   {
    "brand": "HTC",
@@ -79065,6 +79080,13 @@
    "brand": "Hammer",
    "name": "Hammer Explorer Pro",
    "device": "Hammer_Expl_Pro"
+  }
+ ],
+ "Iron Va": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer_Iron_Va_EEA",
+   "device": "HS2401x"
   }
  ],
  "ALGIZ_RT10": [
@@ -86525,6 +86547,20 @@
    "brand": "Honor",
    "name": "HONOR X9",
    "device": "HNANY-Q1"
+  }
+ ],
+ "LLY-NX1": [
+  {
+   "brand": "Honor",
+   "name": "Honor 200 Lite",
+   "device": "HNLLY-M1"
+  }
+ ],
+ "LLY-NX3": [
+  {
+   "brand": "Honor",
+   "name": "Honor 200 Lite",
+   "device": "HNLLY-M1"
   }
  ],
  "VER-N49DP": [
@@ -109622,6 +109658,48 @@
    "device": "EZpad_M11_Pro"
   }
  ],
+ "Z1": [
+  {
+   "brand": "Jumper",
+   "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Lava",
+   "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Mafe",
+   "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "Z12",
+   "device": "Z1"
+  },
+  {
+   "brand": "ZOOMME",
+   "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Zong 4G",
+   "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Zuk",
+   "name": "Z1",
+   "device": "Z1"
+  }
+ ],
  "Cedar CT8": [
   {
    "brand": "Juniper Systems",
@@ -127632,43 +127710,6 @@
    "device": "LZX415"
   }
  ],
- "Z1": [
-  {
-   "brand": "Lava",
-   "name": "Z1",
-   "device": "Z1"
-  },
-  {
-   "brand": "Mafe",
-   "name": "Z1",
-   "device": "Z1"
-  },
-  {
-   "brand": "Vankyo",
-   "name": "Z1",
-   "device": "Z1"
-  },
-  {
-   "brand": "Vankyo",
-   "name": "Z12",
-   "device": "Z1"
-  },
-  {
-   "brand": "ZOOMME",
-   "name": "Z1",
-   "device": "Z1"
-  },
-  {
-   "brand": "Zong 4G",
-   "name": "Z1",
-   "device": "Z1"
-  },
-  {
-   "brand": "Zuk",
-   "name": "Z1",
-   "device": "Z1"
-  }
- ],
  "LAVA LZG401": [
   {
    "brand": "Lava",
@@ -138655,6 +138696,13 @@
    "brand": "MULTYNET",
    "name": "Pakistan",
    "device": "yeongdeungpo"
+  }
+ ],
+ "MGEB": [
+  {
+   "brand": "MUNGYO",
+   "name": "MUNGYO MGEB",
+   "device": "MGEB"
   }
  ],
  "X-treme Play Tab": [
@@ -160491,6 +160539,13 @@
    "device": "Q101_EEA"
   }
  ],
+ "7PAN": [
+  {
+   "brand": "OMAX",
+   "name": "7PAN",
+   "device": "7PAN"
+  }
+ ],
  "HANJI": [
   {
    "brand": "OMAX",
@@ -160566,6 +160621,13 @@
    "brand": "ONDA TLC",
    "name": "T9 S",
    "device": "T9S"
+  }
+ ],
+ "M86XE": [
+  {
+   "brand": "ONERugged",
+   "name": "M86XE",
+   "device": "M86XE"
   }
  ],
  "MPC10T": [
@@ -283332,6 +283394,13 @@
    "brand": "imose",
    "name": "SEMPE",
    "device": "SEMPE"
+  }
+ ],
+ "TC605": [
+  {
+   "brand": "imozen",
+   "name": "TC605AN",
+   "device": "TC605"
   }
  ],
  "G4i": [

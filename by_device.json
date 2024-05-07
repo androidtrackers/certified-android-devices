@@ -8189,6 +8189,16 @@
    "model": "C5"
   },
   {
+   "brand": "CHAINWAY",
+   "name": "C5_EEA",
+   "model": "C5"
+  },
+  {
+   "brand": "CHAINWAY",
+   "name": "C5_GL",
+   "model": "C5"
+  },
+  {
    "brand": "COLORROOM",
    "name": "C5",
    "model": "C5"
@@ -10859,6 +10869,11 @@
    "brand": "Acer",
    "name": "Z110",
    "model": "Z110"
+  },
+  {
+   "brand": "Jumper",
+   "name": "Z1",
+   "model": "Z1"
   },
   {
    "brand": "Lava",
@@ -13544,6 +13559,11 @@
    "brand": "Aiwa",
    "name": "AIWA TV",
    "model": "AIWA TV"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AIWA TV",
+   "model": "AIWA UHD SMART TV"
   },
   {
    "brand": "Akai",
@@ -81386,13 +81406,6 @@
    "model": "Wildfire R70"
   }
  ],
- "htc_enodugls": [
-  {
-   "brand": "HTC",
-   "name": "enodugls_00709",
-   "model": "2QDA100"
-  }
- ],
  "mystul": [
   {
    "brand": "HTC",
@@ -82837,6 +82850,13 @@
    "brand": "Hammer",
    "name": "Hammer Explorer Pro",
    "model": "Hammer_Explorer_Pro"
+  }
+ ],
+ "HS2401x": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer_Iron_Va_EEA",
+   "model": "Iron Va"
   }
  ],
  "ALGIZ_RT10": [
@@ -89604,6 +89624,18 @@
    "brand": "Honor",
    "name": "HONOR X8b",
    "model": "LLY-LX3"
+  }
+ ],
+ "HNLLY-M1": [
+  {
+   "brand": "Honor",
+   "name": "Honor 200 Lite",
+   "model": "LLY-NX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "Honor 200 Lite",
+   "model": "LLY-NX3"
   }
  ],
  "F13": [
@@ -103187,6 +103219,11 @@
    "brand": "Infinix",
    "name": "Infinix Google TV",
    "model": "Infinix Google TV"
+  },
+  {
+   "brand": "PANORAMA",
+   "name": "Smart TV",
+   "model": "Smart TV"
   }
  ],
  "Infinix-X689": [
@@ -137373,6 +137410,13 @@
    "model": "mu6"
   }
  ],
+ "MGEB": [
+  {
+   "brand": "MUNGYO",
+   "name": "MUNGYO MGEB",
+   "model": "MGEB"
+  }
+ ],
  "X_treme_Play_Tab": [
   {
    "brand": "Mach Speed",
@@ -158810,6 +158854,13 @@
    "model": "Q101_EEA"
   }
  ],
+ "7PAN": [
+  {
+   "brand": "OMAX",
+   "name": "7PAN",
+   "model": "7PAN"
+  }
+ ],
  "MixTab_Pro": [
   {
    "brand": "OMIX",
@@ -158869,6 +158920,13 @@
    "brand": "ONDA TLC",
    "name": "T9 S",
    "model": "T9S"
+  }
+ ],
+ "M86XE": [
+  {
+   "brand": "ONERugged",
+   "name": "M86XE",
+   "model": "M86XE"
   }
  ],
  "MPC10T": [
@@ -271177,6 +271235,13 @@
    "brand": "imose",
    "name": "SEMPE",
    "model": "SEMPE"
+  }
+ ],
+ "TC605": [
+  {
+   "brand": "imozen",
+   "name": "TC605AN",
+   "model": "TC605"
   }
  ],
  "G4i": [
