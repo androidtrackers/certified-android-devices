@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-07
+Last sync is 2024-05-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5933,6 +5933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEPLAY|BS101_EEA|BS101_EEA|BS101_EEA|
 |DEPLAY|BS703_EEA|BS703_EEA|BS703_EEA|
 |DEPLAY|BS801|BS801_EEA|BS801|
+|DEPLAY|E108GCM|E108GCM|E108GCM|
 |DEWSOD|C9|C9|C9|
 |DEXP|A.350|A350|A350|
 |DEXP|A150|A150|A150|
@@ -23135,6 +23136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NoonEast|Smart TV|longshan|AI PONT|
 |NorthTech|NT-P70|NT-P70|NT-P70|
 |NorthTech|NT-S10|NT-S10|NT-S10|
+|Noryox|Handheld_POS|Handheld_POS|NB55|
 |Nothing|Nothing Phone (1)|Spacewar|A063|
 |Nothing|Nothing Phone (2)|Pong|A065|
 |Nothing|Nothing Phone (2)|Pong|AIN065|
@@ -23346,6 +23348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|Pad 16|Pad16|Pad 16|
 |OSCAL|Pad 7|Pad_7|Pad 7|
 |OSCAL|Pad 70|Pad70_NEU|Pad 70|
+|OSCAL|Pad 70 WiFi|Pad_70_WiFi|Pad 70 WiFi|
 |OSCAL|Pad 80 WiFi|Pad_80_WiFi|Pad 80 WiFi|
 |OSCAL|Pad13_EEA|Pad13_EEA|Pad 13|
 |OSCAL|Pad13_NEU|Pad13_NEU|Pad 13|
@@ -25460,6 +25463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM85R|pm85r|PM85R|
 |Point Mobile|PM86|PM86|PM86|
 |Point Mobile|PM90|pm90|PM90|
+|Point Mobile|PM95|PM95|PM95|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-7232-3G|TAB_7232_3G_EEA|TAB-7232-3G-V2|
 |Point of view|TAB-P10232-3G|TAB-P10232-3G|TAB-P10232-3G|
@@ -35688,6 +35692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30|TECNO-CL6s|TECNO CL6s|
 |Tecno|TECNO CAMON 30 5G|TECNO-CL7|TECNO CL7|
 |Tecno|TECNO CAMON 30 5G|TECNO-CL7k|TECNO CL7k|
+|Tecno|TECNO CAMON 30 5G|TECNO-CL7s|TECNO CL7s|
 |Tecno|TECNO CAMON 30 Premier 5G|TECNO-CL9|TECNO CL9|
 |Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
@@ -38080,6 +38085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7x 5G|I2216|I2216|
 |Vivo|iQOO Z8x|PD2312|V2312A|
 |Vivo|iQOO Z9 5G|I2302|I2302|
+|Vivo|iQOO Z9 Turbo|PD2352|V2352A|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|
@@ -39469,6 +39475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 13T Pro|corot|23088PND5R|
 |Xiaomi|Xiaomi 13T Pro|corot|A301XM|
 |Xiaomi|Xiaomi 14|houji|23127PN0CC|
+|Xiaomi|Xiaomi 14|houji|23127PN0CG|
 |Xiaomi|Xiaomi 14 Pro|shennong|23116PN5BC|
 |Xiaomi|Xiaomi 14 Pro|shennong|2311BPN23C|
 |Xiaomi|Xiaomi 14 Ultra|aurora|24030PN60G|
@@ -41503,6 +41510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|MC36|cardhu|MC36|
 |Zebra|MC40|MC40|MC40N0|
 |Zebra|MC9400|MC9400|MC9400|
+|Zebra|MC9450|MC9450|MC9450|
 |Zebra|PS20 (Personal Shopper)|PS20JB|PS20J|
 |Zebra|PS20(Personal Shopper)|PS20JP|PS20J|
 |Zebra|Pollux|TC70|TC700H|

@@ -30699,6 +30699,11 @@
    "device": "BS801_EEA",
    "name": "BS801",
    "model": "BS801"
+  },
+  {
+   "device": "E108GCM",
+   "name": "E108GCM",
+   "model": "E108GCM"
   }
  ],
  "DEWSOD": [
@@ -119027,6 +119032,13 @@
    "model": "NT-S10"
   }
  ],
+ "Noryox": [
+  {
+   "device": "Handheld_POS",
+   "name": "Handheld_POS",
+   "model": "NB55"
+  }
+ ],
  "Nothing": [
   {
    "device": "Spacewar",
@@ -120146,6 +120158,11 @@
    "device": "Pad70_NEU",
    "name": "Pad 70",
    "model": "Pad 70"
+  },
+  {
+   "device": "Pad_70_WiFi",
+   "name": "Pad 70 WiFi",
+   "model": "Pad 70 WiFi"
   },
   {
    "device": "Pad_80_WiFi",
@@ -130996,6 +131013,11 @@
    "device": "pm90",
    "name": "PM90",
    "model": "PM90"
+  },
+  {
+   "device": "PM95",
+   "name": "PM95",
+   "model": "PM95"
   }
  ],
  "Point of view": [
@@ -183134,6 +183156,11 @@
    "model": "TECNO CL7k"
   },
   {
+   "device": "TECNO-CL7s",
+   "name": "TECNO CAMON 30 5G",
+   "model": "TECNO CL7s"
+  },
+  {
    "device": "TECNO-CL9",
    "name": "TECNO CAMON 30 Premier 5G",
    "model": "TECNO CL9"
@@ -195546,6 +195573,11 @@
    "model": "I2302"
   },
   {
+   "device": "PD2352",
+   "name": "iQOO Z9 Turbo",
+   "model": "V2352A"
+  },
+  {
    "device": "1907",
    "name": "vivo  1907",
    "model": "vivo 1907"
@@ -202699,6 +202731,11 @@
    "device": "houji",
    "name": "Xiaomi 14",
    "model": "23127PN0CC"
+  },
+  {
+   "device": "houji",
+   "name": "Xiaomi 14",
+   "model": "23127PN0CG"
   },
   {
    "device": "shennong",
@@ -213005,6 +213042,11 @@
    "device": "MC9400",
    "name": "MC9400",
    "model": "MC9400"
+  },
+  {
+   "device": "MC9450",
+   "name": "MC9450",
+   "model": "MC9450"
   },
   {
    "device": "PS20JB",

@@ -46206,6 +46206,13 @@
    "device": "BS801_EEA"
   }
  ],
+ "E108GCM": [
+  {
+   "brand": "DEPLAY",
+   "name": "E108GCM",
+   "device": "E108GCM"
+  }
+ ],
  "A350": [
   {
    "brand": "DEXP",
@@ -159557,6 +159564,13 @@
    "device": "NT-S10"
   }
  ],
+ "NB55": [
+  {
+   "brand": "Noryox",
+   "name": "Handheld_POS",
+   "device": "Handheld_POS"
+  }
+ ],
  "A063": [
   {
    "brand": "Nothing",
@@ -160801,6 +160815,13 @@
    "brand": "OSCAL",
    "name": "Pad 70",
    "device": "Pad70_NEU"
+  }
+ ],
+ "Pad 70 WiFi": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad 70 WiFi",
+   "device": "Pad_70_WiFi"
   }
  ],
  "Pad 80 WiFi": [
@@ -174396,6 +174417,13 @@
    "brand": "Point Mobile",
    "name": "PM90",
    "device": "pm90"
+  }
+ ],
+ "PM95": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM95",
+   "device": "PM95"
   }
  ],
  "PVT-R78-3288": [
@@ -241752,6 +241780,13 @@
    "device": "TECNO-CL7k"
   }
  ],
+ "TECNO CL7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30 5G",
+   "device": "TECNO-CL7s"
+  }
+ ],
  "TECNO CL9": [
   {
    "brand": "Tecno",
@@ -256687,6 +256722,13 @@
    "device": "I2302"
   }
  ],
+ "V2352A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z9 Turbo",
+   "device": "PD2352"
+  }
+ ],
  "vivo 1907": [
   {
    "brand": "Vivo",
@@ -265307,6 +265349,13 @@
   }
  ],
  "23127PN0CC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14",
+   "device": "houji"
+  }
+ ],
+ "23127PN0CG": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 14",
@@ -278588,6 +278637,13 @@
    "brand": "Zebra",
    "name": "MC9400",
    "device": "MC9400"
+  }
+ ],
+ "MC9450": [
+  {
+   "brand": "Zebra",
+   "name": "MC9450",
+   "device": "MC9450"
   }
  ],
  "PS20J": [
