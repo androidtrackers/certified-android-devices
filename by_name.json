@@ -9961,6 +9961,11 @@
    "brand": "SGIN",
    "device": "A10",
    "model": "A10"
+  },
+  {
+   "brand": "iYOU",
+   "device": "A10",
+   "model": "A10"
   }
  ],
  "A50": [
@@ -18683,6 +18688,13 @@
    "brand": "Apolosign",
    "device": "K109A",
    "model": "K109A"
+  }
+ ],
+ "K109_Pro": [
+  {
+   "brand": "Apolosign",
+   "device": "K109_Pro",
+   "model": "K109_Pro"
   }
  ],
  "K709A": [
@@ -72425,6 +72437,13 @@
    "model": "TK-E8765"
   }
  ],
+ "TK-P86": [
+  {
+   "brand": "GREATASIA",
+   "device": "TK-P86",
+   "model": "TK-P86"
+  }
+ ],
  "Z8": [
   {
    "brand": "GREATASIA",
@@ -91857,6 +91876,13 @@
    "model": "LLY-NX3"
   }
  ],
+ "Honor X9b 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNALI-Q",
+   "model": "ALI-NX3P"
+  }
+ ],
  "PORSCHE DESIGN HONOR Magic V2 RSR": [
   {
    "brand": "Honor",
@@ -91876,6 +91902,13 @@
    "brand": "Honor",
    "device": "HNRBN-Q",
    "model": "RBN-NX1"
+  }
+ ],
+ "荣耀V Purse": [
+  {
+   "brand": "Honor",
+   "device": "HNVCA-Q",
+   "model": "VCA-AN00"
   }
  ],
  "F13": [
@@ -128515,6 +128548,11 @@
    "model": "M15"
   },
   {
+   "brand": "MARVUE",
+   "device": "M15",
+   "model": "M15"
+  },
+  {
    "brand": "Meizu",
    "device": "M15",
    "model": "M15"
@@ -157761,6 +157799,13 @@
    "model": "S5704L"
   }
  ],
+ "X7 Plus": [
+  {
+   "brand": "Nuu",
+   "device": "S6601LA",
+   "model": "S6601L"
+  }
+ ],
  "TM101A530L": [
   {
    "brand": "Nuvision",
@@ -158302,6 +158347,13 @@
    "brand": "ONDA TLC",
    "device": "T9S",
    "model": "T9S"
+  }
+ ],
+ "M195T": [
+  {
+   "brand": "ONERugged",
+   "device": "M195T",
+   "model": "M195T"
   }
  ],
  "M86XE": [
@@ -163443,13 +163495,6 @@
   }
  ],
  "Reno11 F 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP5A0BL1",
-   "model": "CPH2603"
-  }
- ],
- "Reno11 F 5G/Reno11 A": [
   {
    "brand": "Oppo",
    "device": "OP5A0BL1",
@@ -193318,6 +193363,13 @@
    "brand": "Samsung",
    "device": "m34x",
    "model": "SM-M346B2"
+  }
+ ],
+ "Galaxy M35 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m35x",
+   "model": "SM-M356B"
   }
  ],
  "Galaxy M40": [
@@ -227496,6 +227548,13 @@
    "brand": "TRUE_SLIM",
    "device": "T1586K",
    "model": "T1586K"
+  }
+ ],
+ "TRUFON FLEX": [
+  {
+   "brand": "TRUFON",
+   "device": "TRUFON_FLEX",
+   "model": "TRUFON FLEX"
   }
  ],
  "Tablet Tsunami TSTA080D1": [
@@ -267271,6 +267330,13 @@
    "brand": "eNOVA",
    "device": "zhongshan",
    "model": "4K SMART TV"
+  }
+ ],
+ "N50E": [
+  {
+   "brand": "eNOVA",
+   "device": "N50",
+   "model": "N50"
   }
  ],
  "TAE08N10": [

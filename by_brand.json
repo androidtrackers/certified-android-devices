@@ -7483,6 +7483,11 @@
    "model": "K109A"
   },
   {
+   "device": "K109_Pro",
+   "name": "K109_Pro",
+   "model": "K109_Pro"
+  },
+  {
    "device": "K709A",
    "name": "K709A",
    "model": "K709A"
@@ -45668,6 +45673,11 @@
    "model": "TK-E8765"
   },
   {
+   "device": "TK-P86",
+   "name": "TK-P86",
+   "model": "TK-P86"
+  },
+  {
    "device": "Z8",
    "name": "Z8",
    "model": "Z8"
@@ -61386,6 +61396,11 @@
    "model": "LLY-NX3"
   },
   {
+   "device": "HNALI-Q",
+   "name": "Honor X9b 5G",
+   "model": "ALI-NX3P"
+  },
+  {
    "device": "HNVER",
    "name": "PORSCHE DESIGN HONOR Magic V2 RSR",
    "model": "VER-N49DP"
@@ -61399,6 +61414,11 @@
    "device": "HNRBN-Q",
    "name": "RBN-NX1",
    "model": "RBN-NX1"
+  },
+  {
+   "device": "HNVCA-Q",
+   "name": "荣耀V Purse",
+   "model": "VCA-AN00"
   }
  ],
  "Hoozo": [
@@ -100779,6 +100799,11 @@
    "model": "M12"
   },
   {
+   "device": "M15",
+   "name": "M15",
+   "model": "M15"
+  },
+  {
    "device": "M8",
    "name": "M8",
    "model": "M8"
@@ -119454,6 +119479,11 @@
    "model": "S5704L"
   },
   {
+   "device": "S6601LA",
+   "name": "X7 Plus",
+   "model": "S6601L"
+  },
+  {
    "device": "Z8",
    "name": "Z8",
    "model": "Z8"
@@ -119977,6 +120007,11 @@
   }
  ],
  "ONERugged": [
+  {
+   "device": "M195T",
+   "name": "M195T",
+   "model": "M195T"
+  },
   {
    "device": "M86XE",
    "name": "M86XE",
@@ -124487,11 +124522,6 @@
   {
    "device": "OP5A0BL1",
    "name": "Reno11 F 5G",
-   "model": "CPH2603"
-  },
-  {
-   "device": "OP5A0BL1",
-   "name": "Reno11 F 5G/Reno11 A",
    "model": "CPH2603"
   },
   {
@@ -149801,6 +149831,11 @@
    "device": "m34x",
    "name": "Galaxy M34 5G",
    "model": "SM-M346B2"
+  },
+  {
+   "device": "m35x",
+   "name": "Galaxy M35 5G",
+   "model": "SM-M356B"
   },
   {
    "device": "m40",
@@ -180224,6 +180259,13 @@
    "device": "T1586K",
    "name": "T1586K",
    "model": "T1586K"
+  }
+ ],
+ "TRUFON": [
+  {
+   "device": "TRUFON_FLEX",
+   "name": "TRUFON FLEX",
+   "model": "TRUFON FLEX"
   }
  ],
  "TSUNAMi": [
@@ -215089,6 +215131,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "N50",
+   "name": "N50E",
+   "model": "N50"
+  },
+  {
    "device": "TAE08N10",
    "name": "TAE08N10",
    "model": "TAE08N10"
@@ -217252,6 +217299,11 @@
   }
  ],
  "iYOU": [
+  {
+   "device": "A10",
+   "name": "A10",
+   "model": "A10"
+  },
   {
    "device": "iYOU_M1",
    "name": "iYOU_M1",

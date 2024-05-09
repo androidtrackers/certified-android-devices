@@ -7674,6 +7674,11 @@
    "brand": "SGIN",
    "name": "A10",
    "model": "A10"
+  },
+  {
+   "brand": "iYOU",
+   "name": "A10",
+   "model": "A10"
   }
  ],
  "A50": [
@@ -18637,6 +18642,13 @@
    "brand": "Apolosign",
    "name": "K109A",
    "model": "K109A"
+  }
+ ],
+ "K109_Pro": [
+  {
+   "brand": "Apolosign",
+   "name": "K109_Pro",
+   "model": "K109_Pro"
   }
  ],
  "K709A": [
@@ -71026,6 +71038,13 @@
    "model": "TK-E8765"
   }
  ],
+ "TK-P86": [
+  {
+   "brand": "GREATASIA",
+   "name": "TK-P86",
+   "model": "TK-P86"
+  }
+ ],
  "Z8": [
   {
    "brand": "GREATASIA",
@@ -89389,6 +89408,11 @@
    "brand": "Honor",
    "name": "HONOR X9b 5G",
    "model": "ALI-NX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "Honor X9b 5G",
+   "model": "ALI-NX3P"
   }
  ],
  "HNBVL": [
@@ -89643,6 +89667,13 @@
    "brand": "Honor",
    "name": "Honor 200 Lite",
    "model": "LLY-NX3"
+  }
+ ],
+ "HNVCA-Q": [
+  {
+   "brand": "Honor",
+   "name": "荣耀V Purse",
+   "model": "VCA-AN00"
   }
  ],
  "F13": [
@@ -127475,6 +127506,11 @@
    "model": "M15"
   },
   {
+   "brand": "MARVUE",
+   "name": "M15",
+   "model": "M15"
+  },
+  {
    "brand": "Meizu",
    "name": "M15",
    "model": "M15"
@@ -158456,6 +158492,13 @@
    "model": "S5704L"
   }
  ],
+ "S6601LA": [
+  {
+   "brand": "Nuu",
+   "name": "X7 Plus",
+   "model": "S6601L"
+  }
+ ],
  "TM101A530L": [
   {
    "brand": "Nuvision",
@@ -158934,6 +158977,13 @@
    "brand": "ONDA TLC",
    "name": "T9 S",
    "model": "T9S"
+  }
+ ],
+ "M195T": [
+  {
+   "brand": "ONERugged",
+   "name": "M195T",
+   "model": "M195T"
   }
  ],
  "M86XE": [
@@ -162366,11 +162416,6 @@
   {
    "brand": "Oppo",
    "name": "Reno11 F 5G",
-   "model": "CPH2603"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno11 F 5G/Reno11 A",
    "model": "CPH2603"
   }
  ],
@@ -193766,6 +193811,13 @@
    "brand": "Samsung",
    "name": "Galaxy M32",
    "model": "SM-M325FV"
+  }
+ ],
+ "m35x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M35 5G",
+   "model": "SM-M356B"
   }
  ],
  "m40": [
@@ -229335,6 +229387,13 @@
    "brand": "TRUE_SLIM",
    "name": "T1586K",
    "model": "T1586K"
+  }
+ ],
+ "TRUFON_FLEX": [
+  {
+   "brand": "TRUFON",
+   "name": "TRUFON FLEX",
+   "model": "TRUFON FLEX"
   }
  ],
  "MG080D1T": [
@@ -268802,6 +268861,13 @@
    "brand": "eBox",
    "name": "Ebox",
    "model": "EboxTV"
+  }
+ ],
+ "N50": [
+  {
+   "brand": "eNOVA",
+   "name": "N50E",
+   "model": "N50"
   }
  ],
  "TAE08N10": [

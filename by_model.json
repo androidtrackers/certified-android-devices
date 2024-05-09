@@ -14077,6 +14077,13 @@
    "device": "K109A"
   }
  ],
+ "K109_Pro": [
+  {
+   "brand": "Apolosign",
+   "name": "K109_Pro",
+   "device": "K109_Pro"
+  }
+ ],
  "K709A": [
   {
    "brand": "Apolosign",
@@ -29143,6 +29150,11 @@
   },
   {
    "brand": "SGIN",
+   "name": "A10",
+   "device": "A10"
+  },
+  {
+   "brand": "iYOU",
    "name": "A10",
    "device": "A10"
   }
@@ -52693,6 +52705,11 @@
    "brand": "Doogee",
    "name": "N50",
    "device": "1918Y"
+  },
+  {
+   "brand": "eNOVA",
+   "name": "N50E",
+   "device": "N50"
   }
  ],
  "N50 Plus": [
@@ -66215,6 +66232,13 @@
    "brand": "GREATASIA",
    "name": "TK-E8765",
    "device": "TK-E8765"
+  }
+ ],
+ "TK-P86": [
+  {
+   "brand": "GREATASIA",
+   "name": "TK-P86",
+   "device": "TK-P86"
   }
  ],
  "Z8": [
@@ -86570,6 +86594,13 @@
    "device": "HNLLY-M1"
   }
  ],
+ "ALI-NX3P": [
+  {
+   "brand": "Honor",
+   "name": "Honor X9b 5G",
+   "device": "HNALI-Q"
+  }
+ ],
  "VER-N49DP": [
   {
    "brand": "Honor",
@@ -86582,6 +86613,13 @@
    "brand": "Honor",
    "name": "PORSCHE DESIGN HONOR Magic6 RSR",
    "device": "HNBVL"
+  }
+ ],
+ "VCA-AN00": [
+  {
+   "brand": "Honor",
+   "name": "荣耀V Purse",
+   "device": "HNVCA-Q"
   }
  ],
  "F13": [
@@ -128549,6 +128587,11 @@
    "device": "M15"
   },
   {
+   "brand": "MARVUE",
+   "name": "M15",
+   "device": "M15"
+  },
+  {
    "brand": "Meizu",
    "name": "M15",
    "device": "M15"
@@ -160095,6 +160138,13 @@
    "device": "S5704LE"
   }
  ],
+ "S6601L": [
+  {
+   "brand": "Nuu",
+   "name": "X7 Plus",
+   "device": "S6601LA"
+  }
+ ],
  "TM101A530L": [
   {
    "brand": "Nuvision",
@@ -160635,6 +160685,13 @@
    "brand": "ONDA TLC",
    "name": "T9 S",
    "device": "T9S"
+  }
+ ],
+ "M195T": [
+  {
+   "brand": "ONERugged",
+   "name": "M195T",
+   "device": "M195T"
   }
  ],
  "M86XE": [
@@ -164458,11 +164515,6 @@
   {
    "brand": "Oppo",
    "name": "Reno11 F 5G",
-   "device": "OP5A0BL1"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno11 F 5G/Reno11 A",
    "device": "OP5A0BL1"
   }
  ],
@@ -198538,6 +198590,13 @@
    "brand": "Samsung",
    "name": "Galaxy M34 5G",
    "device": "m34x"
+  }
+ ],
+ "SM-M356B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M35 5G",
+   "device": "m35x"
   }
  ],
  "SM-M405F": [
@@ -238066,6 +238125,13 @@
    "brand": "TRUE_SLIM",
    "name": "T1586K",
    "device": "T1586K"
+  }
+ ],
+ "TRUFON FLEX": [
+  {
+   "brand": "TRUFON",
+   "name": "TRUFON FLEX",
+   "device": "TRUFON_FLEX"
   }
  ],
  "MG080D1T": [

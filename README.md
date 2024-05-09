@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-08
+Last sync is 2024-05-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1431,6 +1431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|EM101A|EM101A|EM101A|
 |Apolosign|EM103A|EM103A|EM103A|
 |Apolosign|K109A|K109A|K109A|
+|Apolosign|K109_Pro|K109_Pro|K109_Pro|
 |Apolosign|K709A|K709A|K709A|
 |Apolosign|NW1495T_ROW|NW1495T|NW1495T|
 |Apolosign|elcnw tablet|NW1495T|NW1495T_EEA|
@@ -8786,6 +8787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GREATASIA|Kidpad_M7|Kidpa_M7|Kidpa_M7|
 |GREATASIA|Pad_M30|Pad_M30|Pad_M30|
 |GREATASIA|TK-E8765|TK-E8765|TK-E8765|
+|GREATASIA|TK-P86|TK-P86|TK-P86|
 |GREATASIA|Z8|Z8|Z8|
 |GRID Communications (SG)|GS6100|GRID_GS6100|GS6100|
 |GSmart|Akta A4|Akta_A4|Akta_A4|
@@ -11862,9 +11864,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX1|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
+|Honor|Honor X9b 5G|HNALI-Q|ALI-NX3P|
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
+|Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -19597,6 +19601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAGNUMTECH|MG715|MG715|MG715|
 |MARVUE|M11|M11|M11|
 |MARVUE|M12|M12|M12|
+|MARVUE|M15|M15|M15|
 |MARVUE|M8|M8|M8|
 |MARVUE|M81|M81|M81|
 |MARVUE|Pad_M10|Pad_M10|Pad_M10|
@@ -23216,6 +23221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|X6 Plus|S6003LA|S6003L|
 |Nuu|X6mini|S5702LA|S5702L|
 |Nuu|X6mini|S5704LE|S5704L|
+|Nuu|X7 Plus|S6601LA|S6601L|
 |Nuu|Z8|Z8|Z8|
 |Nuvision|TM101A530L|TM101A530L|TM101A530L|
 |Nuvision|TM101A540N|mid1008a-l|TM101A540N|
@@ -23314,6 +23320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
+|ONERugged|M195T|M195T|M195T|
 |ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
@@ -24198,7 +24205,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno10 Pro+ 5G|OP56D3L1|CPH2521|
 |Oppo|Reno11|OP59EDL1|PJH110|
 |Oppo|Reno11 F 5G|OP5A0BL1|CPH2603|
-|Oppo|Reno11 F 5G/Reno11 A|OP5A0BL1|CPH2603|
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
@@ -29127,6 +29133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M34 5G|m34x|SM-M346B|
 |Samsung|Galaxy M34 5G|m34x|SM-M346B1|
 |Samsung|Galaxy M34 5G|m34x|SM-M346B2|
+|Samsung|Galaxy M35 5G|m35x|SM-M356B|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|
@@ -35122,6 +35129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TREQ|SmarTab-8|SmarTab-8|SmarTab-8|
 |TRIPLTEK|T mini|T_mini|T mini|
 |TRUE_SLIM|T1586K|T1586K|T1586K|
+|TRUFON|TRUFON FLEX|TRUFON_FLEX|TRUFON FLEX|
 |TSUNAMi|Tablet Tsunami TSTA080D1|MG080D1T|MG080D1T|
 |TTS-group|IT10268|IT10268|IT10268|
 |TTfone|TT20_eea|TTfone_TT20|TTfone TT20|
@@ -41897,6 +41905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eBox|Ebox|diw387eb|EboxTV|
 |eNOVA|ENOVA|stanford|SA 2K SMART TV|
 |eNOVA|Enova|zhongshan|4K SMART TV|
+|eNOVA|N50E|N50|N50|
 |eNOVA|TAE08N10|TAE08N10|TAE08N10|
 |eSTREAM 4K|EVOPRO|SEI500EV|EVOPRO|
 |eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
@@ -42307,6 +42316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC601B|TC601B_GWL|TC601B_GWL|
 |iWaylink|TC603B|TC603B_GWL|TC603B_GWL|
 |iWaylink|TC603B_P|TC603B_GWL|TC603B_GWL|
+|iYOU|A10|A10|A10|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |ibowin|M10ES11|M10ES11|M130s|
 |imiia|4K Smart TV|gangbyeon|imiia 4K AI Smart TV|
