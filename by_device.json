@@ -50695,6 +50695,13 @@
    "model": "KINGKONG STAR"
   }
  ],
+ "KINGKONG_X": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG X",
+   "model": "KINGKONG X"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -57431,6 +57438,11 @@
    "model": "X11"
   },
   {
+   "brand": "PicassoTab",
+   "name": "PicassoTab_X11",
+   "model": "PicassoTab X11"
+  },
+  {
    "brand": "Techpad",
    "name": "X11",
    "model": "X11"
@@ -62985,6 +62997,13 @@
    "brand": "Emdoor",
    "name": "EM_I8180",
    "model": "em_i8180"
+  }
+ ],
+ "EID-1400": [
+  {
+   "brand": "Emerson",
+   "name": "EID-1400",
+   "model": "EID-1400"
   }
  ],
  "EM749_748": [
@@ -234575,6 +234594,13 @@
    "model": "TECNO Mobile BG6"
   }
  ],
+ "TECNO-Mobile-LI6": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile POVA 6 Neo",
+   "model": "TECNO Mobile LI6"
+  }
+ ],
  "TECNO-Mobile-KJ5n": [
   {
    "brand": "Tecno Mobile",
@@ -246594,6 +246620,18 @@
    "model": "V2309"
   }
  ],
+ "PD2366": [
+  {
+   "brand": "Vivo",
+   "name": "X100 Ultra",
+   "model": "V2366GA"
+  },
+  {
+   "brand": "Vivo",
+   "name": "X100 Ultra",
+   "model": "V2366HA"
+  }
+ ],
  "2004": [
   {
    "brand": "Vivo",
@@ -246915,6 +246953,11 @@
    "brand": "Vivo",
    "name": "Y18e",
    "model": "V2350"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y18s",
+   "model": "V2410"
   }
  ],
  "PD2313": [

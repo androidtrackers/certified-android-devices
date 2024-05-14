@@ -45560,6 +45560,13 @@
    "device": "KINGKONG_STAR"
   }
  ],
+ "KINGKONG X": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG X",
+   "device": "KINGKONG_X"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -57938,6 +57945,13 @@
    "brand": "Emdoor",
    "name": "EM_I8180",
    "device": "em_i8180"
+  }
+ ],
+ "EID-1400": [
+  {
+   "brand": "Emerson",
+   "name": "EID-1400",
+   "device": "EID-1400"
   }
  ],
  "EM749_748": [
@@ -173966,6 +173980,13 @@
    "device": "X1_Pro"
   }
  ],
+ "PicassoTab X11": [
+  {
+   "brand": "PicassoTab",
+   "name": "PicassoTab_X11",
+   "device": "X11"
+  }
+ ],
  "Jupiter": [
   {
    "brand": "Pioneer",
@@ -243367,6 +243388,13 @@
    "device": "TECNO-Mobile-BG6"
   }
  ],
+ "TECNO Mobile LI6": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile POVA 6 Neo",
+   "device": "TECNO-Mobile-LI6"
+  }
+ ],
  "TECNO Mobile KJ5n": [
   {
    "brand": "Tecno Mobile",
@@ -256158,6 +256186,20 @@
    "device": "V2309"
   }
  ],
+ "V2366GA": [
+  {
+   "brand": "Vivo",
+   "name": "X100 Ultra",
+   "device": "PD2366"
+  }
+ ],
+ "V2366HA": [
+  {
+   "brand": "Vivo",
+   "name": "X100 Ultra",
+   "device": "PD2366"
+  }
+ ],
  "vivo X5": [
   {
    "brand": "Vivo",
@@ -256600,6 +256642,13 @@
   {
    "brand": "Vivo",
    "name": "Y18e",
+   "device": "V2333"
+  }
+ ],
+ "V2410": [
+  {
+   "brand": "Vivo",
+   "name": "Y18s",
    "device": "V2333"
   }
  ],

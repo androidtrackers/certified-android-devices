@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-13
+Last sync is 2024-05-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5846,6 +5846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG_MINI2_Pro|
 |Cubot|KINGKONG STAR|KINGKONG_STAR|KINGKONG STAR|
+|Cubot|KINGKONG X|KINGKONG_X|KINGKONG X|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
@@ -7602,6 +7603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|Sprout Channel Cubby|Cubby|SproutChannelCubby|
 |Ematic|USA|Jetstream|AGT418|
 |Emdoor|EM_I8180|em_i8180|em_i8180|
+|Emerson|EID-1400|EID-1400|EID-1400|
 |Emerson|EM749/748|EM749_748|EM749_748|
 |Emerson|EM9|EM9|EM9|
 |Emporia|E5mini|E5mini|E5mini|
@@ -25374,6 +25376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phone Max|S4G|S4G|S4G|
 |Phone Max|X1|X1|X1|
 |Phone Max|X1_Pro|X1_Pro|X1 Pro|
+|PicassoTab|PicassoTab_X11|X11|PicassoTab X11|
 |Pioneer|AV Receiver|AVH_W4400NEX|Jupiter|
 |Pioneer|Android TV|R2|ATV R2|
 |Pioneer|B.PROカーナビ|AVIC_BX500|jupiter|
@@ -35929,6 +35932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|POVA Neo 2|TECNO-Mobile-LG6n|TECNO Mobile LG6n|
 |Tecno Mobile|SPARK Go 2023|TECNO-Mobile-BF7n|TECNO Mobile BF7n|
 |Tecno Mobile|SPARK Go 2024|TECNO-Mobile-BG6|TECNO Mobile BG6|
+|Tecno Mobile|TECNO Mobile POVA 6 Neo|TECNO-Mobile-LI6|TECNO Mobile LI6|
 |Tecno Mobile|TECNO Mobile SPARK 20|TECNO-Mobile-KJ5n|TECNO Mobile KJ5n|
 |Tecno Mobile|TECNO Mobile SPARK 20 Pro+|TECNO-Mobile-KJ7|TECNO Mobile KJ7|
 |Tecno Mobile|TECNO Mobile SPARK 20C|TECNO-Mobile-BG7n|TECNO Mobile BG7n|
@@ -37995,6 +37999,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|X100|V2308|V2308|
 |Vivo|X100 Pro|PD2324|V2324A|
 |Vivo|X100 Pro|V2309|V2309|
+|Vivo|X100 Ultra|PD2366|V2366GA|
+|Vivo|X100 Ultra|PD2366|V2366HA|
 |Vivo|X5|X5|vivo X5|
 |Vivo|X50|2004|vivo 2004|
 |Vivo|X50 Pro|2006|vivo 2006|
@@ -38057,6 +38063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18|V2333|V2333|
 |Vivo|Y18|V2333|V2345|
 |Vivo|Y18e|V2333|V2350|
+|Vivo|Y18s|V2333|V2410|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 GT|PD2361|V2361GA|
 |Vivo|Y200 Pro 5G|V2303|V2303|

@@ -51371,6 +51371,13 @@
    "model": "KINGKONG STAR"
   }
  ],
+ "KINGKONG X": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_X",
+   "model": "KINGKONG X"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -64403,6 +64410,13 @@
    "brand": "Emdoor",
    "device": "em_i8180",
    "model": "em_i8180"
+  }
+ ],
+ "EID-1400": [
+  {
+   "brand": "Emerson",
+   "device": "EID-1400",
+   "model": "EID-1400"
   }
  ],
  "EM749/748": [
@@ -170962,6 +170976,13 @@
    "model": "X1 Pro"
   }
  ],
+ "PicassoTab_X11": [
+  {
+   "brand": "PicassoTab",
+   "device": "X11",
+   "model": "PicassoTab X11"
+  }
+ ],
  "AV Receiver": [
   {
    "brand": "Pioneer",
@@ -232465,6 +232486,13 @@
    "model": "TECNO Mobile CH6i"
   }
  ],
+ "TECNO Mobile POVA 6 Neo": [
+  {
+   "brand": "Tecno Mobile",
+   "device": "TECNO-Mobile-LI6",
+   "model": "TECNO Mobile LI6"
+  }
+ ],
  "TECNO Mobile SPARK 20": [
   {
    "brand": "Tecno Mobile",
@@ -245062,6 +245090,18 @@
    "model": "V2309"
   }
  ],
+ "X100 Ultra": [
+  {
+   "brand": "Vivo",
+   "device": "PD2366",
+   "model": "V2366GA"
+  },
+  {
+   "brand": "Vivo",
+   "device": "PD2366",
+   "model": "V2366HA"
+  }
+ ],
  "X50 Pro": [
   {
    "brand": "Vivo",
@@ -245379,6 +245419,13 @@
    "brand": "Vivo",
    "device": "V2333",
    "model": "V2350"
+  }
+ ],
+ "Y18s": [
+  {
+   "brand": "Vivo",
+   "device": "V2333",
+   "model": "V2410"
   }
  ],
  "Y200 5G": [

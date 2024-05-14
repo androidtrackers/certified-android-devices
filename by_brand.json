@@ -30240,6 +30240,11 @@
    "model": "KINGKONG STAR"
   },
   {
+   "device": "KINGKONG_X",
+   "name": "KINGKONG X",
+   "model": "KINGKONG X"
+  },
+  {
    "device": "KINGKONG_MINI",
    "name": "KINGKONG_MINI",
    "model": "KINGKONG_MINI"
@@ -39431,6 +39436,11 @@
   }
  ],
  "Emerson": [
+  {
+   "device": "EID-1400",
+   "name": "EID-1400",
+   "model": "EID-1400"
+  },
   {
    "device": "EM749_748",
    "name": "EM749/748",
@@ -130542,6 +130552,13 @@
    "model": "X1 Pro"
   }
  ],
+ "PicassoTab": [
+  {
+   "device": "X11",
+   "name": "PicassoTab_X11",
+   "model": "PicassoTab X11"
+  }
+ ],
  "Pioneer": [
   {
    "device": "AVH_W4400NEX",
@@ -184357,6 +184374,11 @@
    "model": "TECNO Mobile BG6"
   },
   {
+   "device": "TECNO-Mobile-LI6",
+   "name": "TECNO Mobile POVA 6 Neo",
+   "model": "TECNO Mobile LI6"
+  },
+  {
    "device": "TECNO-Mobile-KJ5n",
    "name": "TECNO Mobile SPARK 20",
    "model": "TECNO Mobile KJ5n"
@@ -195137,6 +195159,16 @@
    "model": "V2309"
   },
   {
+   "device": "PD2366",
+   "name": "X100 Ultra",
+   "model": "V2366GA"
+  },
+  {
+   "device": "PD2366",
+   "name": "X100 Ultra",
+   "model": "V2366HA"
+  },
+  {
    "device": "X5",
    "name": "X5",
    "model": "vivo X5"
@@ -195445,6 +195477,11 @@
    "device": "V2333",
    "name": "Y18e",
    "model": "V2350"
+  },
+  {
+   "device": "V2333",
+   "name": "Y18s",
+   "model": "V2410"
   },
   {
    "device": "V2307",
