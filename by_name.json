@@ -9872,6 +9872,13 @@
    "model": "A1080"
   }
  ],
+ "A1080G": [
+  {
+   "brand": "AZPEN",
+   "device": "A1080G",
+   "model": "A1080G"
+  }
+ ],
  "A1083": [
   {
    "brand": "AZPEN",
@@ -22194,6 +22201,13 @@
    "model": "Nitro"
   }
  ],
+ "Buzz": [
+  {
+   "brand": "Aspera",
+   "device": "Buzz",
+   "model": "Buzz"
+  }
+ ],
  "GEM": [
   {
    "brand": "Aspera",
@@ -24928,6 +24942,20 @@
    "brand": "Atozee",
    "device": "AT10K",
    "model": "AT10K"
+  }
+ ],
+ "AT11K": [
+  {
+   "brand": "Atozee",
+   "device": "AT11K",
+   "model": "AT11K"
+  }
+ ],
+ "AT12K": [
+  {
+   "brand": "Atozee",
+   "device": "AT12K",
+   "model": "AT12K"
   }
  ],
  "AT70K": [
@@ -33448,6 +33476,11 @@
    "model": "A55"
   },
   {
+   "brand": "FOXXD",
+   "device": "A55",
+   "model": "A55"
+  },
+  {
    "brand": "Hiking",
    "device": "A55",
    "model": "A55"
@@ -34570,6 +34603,13 @@
    "model": "Tab 3 Kids"
   }
  ],
+ "Tab 50 Kids": [
+  {
+   "brand": "Blackview",
+   "device": "Tab50Kids_TUR",
+   "model": "Tab 50 Kids"
+  }
+ ],
  "Tab 50 WiFi": [
   {
    "brand": "Blackview",
@@ -34587,7 +34627,17 @@
  "Tab 60 Kids": [
   {
    "brand": "Blackview",
+   "device": "Tab60Kids",
+   "model": "Tab 60 Kids"
+  },
+  {
+   "brand": "Blackview",
    "device": "Tab60Kids_EEA",
+   "model": "Tab 60 Kids"
+  },
+  {
+   "brand": "Blackview",
+   "device": "Tab60Kids_RU",
    "model": "Tab 60 Kids"
   }
  ],
@@ -48443,6 +48493,13 @@
    "model": "K103"
   }
  ],
+ "K103A": [
+  {
+   "brand": "Contixo",
+   "device": "K103A",
+   "model": "K103A"
+  }
+ ],
  "K4": [
   {
    "brand": "Contixo",
@@ -54545,6 +54602,11 @@
   {
    "brand": "Daiwa",
    "device": "capitolhill",
+   "model": "2K DATV"
+  },
+  {
+   "brand": "Daiwa",
+   "device": "capitolhill",
    "model": "Daiwa 2K Google TV"
   }
  ],
@@ -59239,6 +59301,13 @@
    "model": "T10E"
   }
  ],
+ "T10Plus": [
+  {
+   "brand": "Doogee",
+   "device": "P1T",
+   "model": "T10Plus"
+  }
+ ],
  "T10Pro": [
   {
    "brand": "Doogee",
@@ -59375,6 +59444,13 @@
    "model": "T5S"
   }
  ],
+ "U10 Pro": [
+  {
+   "brand": "Doogee",
+   "device": "RK1S",
+   "model": "U10 Pro"
+  }
+ ],
  "U10KID": [
   {
    "brand": "Doogee",
@@ -59399,6 +59475,20 @@
    "brand": "Doogee",
    "device": "RK3KID",
    "model": "U8 Kid"
+  }
+ ],
+ "U9": [
+  {
+   "brand": "Doogee",
+   "device": "RK2",
+   "model": "U9"
+  }
+ ],
+ "U9 Kid": [
+  {
+   "brand": "Doogee",
+   "device": "RK2KID",
+   "model": "U9 Kid"
   }
  ],
  "V MAX": [
@@ -66870,6 +66960,13 @@
    "model": "R570E"
   }
  ],
+ "RT800": [
+  {
+   "brand": "F-Plus",
+   "device": "RT800",
+   "model": "RT800"
+  }
+ ],
  "SA50_21620": [
   {
    "brand": "F-Plus",
@@ -67659,6 +67756,13 @@
    "model": "F101"
   }
  ],
+ "F101 P": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "F101_P",
+   "model": "F101 P"
+  }
+ ],
  "F101 Pro": [
   {
    "brand": "FOSSiBOT",
@@ -67745,6 +67849,28 @@
    "brand": "FOXXD",
    "device": "A5Pro",
    "model": "A5Pro"
+  }
+ ],
+ "A62": [
+  {
+   "brand": "FOXXD",
+   "device": "A62",
+   "model": "A62"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-A62",
+   "model": "itel A62"
+  },
+  {
+   "brand": "Micromax",
+   "device": "A62",
+   "model": "Micromax A62"
+  },
+  {
+   "brand": "Mito",
+   "device": "A62",
+   "model": "A62"
   }
  ],
  "A63": [
@@ -73820,6 +73946,34 @@
    "model": "GK133"
   }
  ],
+ "GK133M3": [
+  {
+   "brand": "Ghia",
+   "device": "GK133M3",
+   "model": "GK133M3"
+  }
+ ],
+ "GK133N3": [
+  {
+   "brand": "Ghia",
+   "device": "GK133N3",
+   "model": "GK133N3"
+  }
+ ],
+ "GK133S3": [
+  {
+   "brand": "Ghia",
+   "device": "GK133S3",
+   "model": "GK133S3"
+  }
+ ],
+ "GK133T3": [
+  {
+   "brand": "Ghia",
+   "device": "GK133T3",
+   "model": "GK133T3"
+  }
+ ],
  "GPND133": [
   {
    "brand": "Ghia",
@@ -76958,6 +77112,13 @@
    "model": "Pixel 8 Pro"
   }
  ],
+ "Pixel 8a": [
+  {
+   "brand": "Google",
+   "device": "akita",
+   "model": "Pixel 8a"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",
@@ -78279,6 +78440,13 @@
    "brand": "HIMADE",
    "device": "shilin",
    "model": "HIMADE4KAndroidTV"
+  }
+ ],
+ "T10P": [
+  {
+   "brand": "HISORL",
+   "device": "T10P",
+   "model": "T10P"
   }
  ],
  "TAB10_EEA": [
@@ -101327,6 +101495,11 @@
   },
   {
    "brand": "Hyundai",
+   "device": "lavender",
+   "model": "4K SMART ISDB TV"
+  },
+  {
+   "brand": "Hyundai",
    "device": "stanford",
    "model": "2K SMART TV"
   }
@@ -108710,23 +108883,6 @@
    "model": "itel A631W"
   }
  ],
- "A62": [
-  {
-   "brand": "Itel",
-   "device": "itel-A62",
-   "model": "itel A62"
-  },
-  {
-   "brand": "Micromax",
-   "device": "A62",
-   "model": "Micromax A62"
-  },
-  {
-   "brand": "Mito",
-   "device": "A62",
-   "model": "A62"
-  }
- ],
  "F311": [
   {
    "brand": "Itel",
@@ -113298,6 +113454,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "INCLO": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  }
+ ],
  "INNO-HIT": [
   {
    "brand": "KTCtv",
@@ -113429,6 +113592,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "CSV4K"
+  }
+ ],
+ "NEXUS": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "OZON": [
@@ -113597,6 +113767,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K Siera SMART TV"
+  }
+ ],
+ "THEUHD": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "TRIBOSS": [
@@ -116203,6 +116380,13 @@
    "brand": "Kogan",
    "device": "ikebukuro",
    "model": "AI PONT"
+  }
+ ],
+ "KATB1064WGRY": [
+  {
+   "brand": "Kogan",
+   "device": "KATB1064WGRY",
+   "model": "KATB1064WGRY"
   }
  ],
  "KATB21064CPA": [
@@ -131930,6 +132114,13 @@
    "brand": "Lenovo",
    "device": "Q706Z",
    "model": "Lenovo TB-Q706Z"
+  }
+ ],
+ "Lenovo Tab Plus": [
+  {
+   "brand": "Lenovo",
+   "device": "TB351FU",
+   "model": "TB351FU"
   }
  ],
  "Lenovo Tab QT K11": [
@@ -151397,6 +151588,11 @@
   },
   {
    "brand": "Multilaser",
+   "device": "ML_SO0V_M8_4G",
+   "model": "M8_4G"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO1J_M8_4G",
    "model": "M8_4G"
   },
@@ -156135,6 +156331,11 @@
    "brand": "Nissan",
    "device": "aivi2_b",
    "model": "AIVI2 B"
+  },
+  {
+   "brand": "Nissan",
+   "device": "aivi2_n_full",
+   "model": "AIVI2_N_FULL"
   }
  ],
  "The Mission": [
@@ -165569,6 +165770,13 @@
    "model": "RT6"
   }
  ],
+ "RT7_TITAN_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "RT7_TITAN",
+   "model": "RT7 TITAN"
+  }
+ ],
  "RT8_EEA": [
   {
    "brand": "Oukitel",
@@ -165913,6 +166121,13 @@
    "brand": "Oukitel",
    "device": "WP30_Pro",
    "model": "WP30 Pro"
+  }
+ ],
+ "WP32_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP32",
+   "model": "WP32"
   }
  ],
  "WP33_Pro_EEA": [
@@ -171517,6 +171732,13 @@
    "model": "DCTIW362_PLAY"
   }
  ],
+ "Kids20": [
+  {
+   "brand": "Plimpton",
+   "device": "Kids20",
+   "model": "Kids20"
+  }
+ ],
  "Kids20_EEA": [
   {
    "brand": "Plimpton",
@@ -176569,6 +176791,13 @@
    "model": "M10"
   }
  ],
+ "M10_A06": [
+  {
+   "brand": "Pritom",
+   "device": "M10_A06",
+   "model": "M10"
+  }
+ ],
  "M10_A06_EEA": [
   {
    "brand": "Pritom",
@@ -178558,6 +178787,13 @@
    "brand": "Qsmart",
    "device": "Rocket",
    "model": "QSmart Rocket"
+  }
+ ],
+ "QSmart Ultra": [
+  {
+   "brand": "Qsmart",
+   "device": "Ultra",
+   "model": "Ultra"
   }
  ],
  "QSmart X10": [
@@ -210418,6 +210654,11 @@
  "Contex TV": [
   {
    "brand": "Smart-Tech TV",
+   "device": "cottongreen",
+   "model": "Contex TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
    "device": "nagata",
    "model": "Contex TV"
   }
@@ -211642,6 +211883,38 @@
    "model": "XQ-DQ72"
   }
  ],
+ "Xperia 1 VI": [
+  {
+   "brand": "Sony",
+   "device": "A401SO",
+   "model": "A401SO"
+  },
+  {
+   "brand": "Sony",
+   "device": "SO-51E",
+   "model": "SO-51E"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG13",
+   "model": "SOG13"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-EC44",
+   "model": "XQ-EC44"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-EC54",
+   "model": "XQ-EC54"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-EC72",
+   "model": "XQ-EC72"
+  }
+ ],
  "Xperia 10": [
   {
    "brand": "Sony",
@@ -211809,6 +212082,13 @@
    "brand": "Sony",
    "device": "XQ-DC72",
    "model": "XQ-DC72"
+  }
+ ],
+ "Xperia 10 VI": [
+  {
+   "brand": "Sony",
+   "device": "SO-52E",
+   "model": "SO-52E"
   }
  ],
  "Xperia 5": [
@@ -229241,6 +229521,13 @@
    "model": "M50"
   }
  ],
+ "M50HD_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "M50HD_T",
+   "model": "M50HD_ROW"
+  }
+ ],
  "M50Pro_EEA": [
   {
    "brand": "Teclast",
@@ -229529,6 +229816,13 @@
    "brand": "Teclast",
    "device": "P30S_W_ROW",
    "model": "P30S_W_ROW"
+  }
+ ],
+ "P30T_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "P30T",
+   "model": "P30T"
   }
  ],
  "P30T_ROW": [
@@ -230015,6 +230309,20 @@
    "brand": "Teclast",
    "device": "T40",
    "model": "TLA001"
+  }
+ ],
+ "T45HD_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "T45HD_T",
+   "model": "T45HD_EEA"
+  }
+ ],
+ "T45HD_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "T45HD_T",
+   "model": "T45HD_ROW"
   }
  ],
  "T50Air_EEA": [
@@ -234538,6 +234846,13 @@
    "brand": "Toshiba",
    "device": "gandof_cheets",
    "model": "Toshiba Chromebook 2 (2015 Edition)"
+  }
+ ],
+ "ToshibaTV": [
+  {
+   "brand": "Toshiba",
+   "device": "hayward",
+   "model": "ToshibaTV"
   }
  ],
  "fushan_Toshiba": [
@@ -239447,6 +239762,13 @@
    "brand": "VIMOQ",
    "device": "VIMOQ-A661WS",
    "model": "VIMOQ A661WS"
+  }
+ ],
+ "VTAB7": [
+  {
+   "brand": "VIOS",
+   "device": "VTAB7",
+   "model": "VTAB7"
   }
  ],
  "SZ11MK1": [
@@ -245015,6 +245337,13 @@
    "model": "V2349"
   }
  ],
+ "V30e": [
+  {
+   "brand": "Vivo",
+   "device": "V2339",
+   "model": "V2339"
+  }
+ ],
  "V3Lite": [
   {
    "brand": "Vivo",
@@ -245048,6 +245377,18 @@
    "brand": "Vivo",
    "device": "PD1523",
    "model": "vivo PD1523A"
+  }
+ ],
+ "V40 Lite": [
+  {
+   "brand": "Vivo",
+   "device": "V2339",
+   "model": "V2340"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2339",
+   "model": "V2341"
   }
  ],
  "V40 SE 5G": [
@@ -245100,6 +245441,20 @@
    "brand": "Vivo",
    "device": "PD2366",
    "model": "V2366HA"
+  }
+ ],
+ "X100s": [
+  {
+   "brand": "Vivo",
+   "device": "PD2309",
+   "model": "V2359A"
+  }
+ ],
+ "X100s Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2324",
+   "model": "V2324HA"
   }
  ],
  "X50 Pro": [
@@ -248287,6 +248642,13 @@
    "brand": "Vortex",
    "device": "V50LTE",
    "model": "V50LTE"
+  }
+ ],
+ "VORTEX BTAB10": [
+  {
+   "brand": "Vortex",
+   "device": "BTAB10",
+   "model": "BTAB10"
   }
  ],
  "VORTEX CM62": [
@@ -267509,6 +267871,13 @@
    "brand": "benco",
    "device": "AE9310",
    "model": "AE9310"
+  }
+ ],
+ "benco V92": [
+  {
+   "brand": "benco",
+   "device": "AEOP517",
+   "model": "AEOP517"
   }
  ],
  "benco Y11": [
