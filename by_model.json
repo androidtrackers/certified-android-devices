@@ -13434,6 +13434,11 @@
    "brand": "Cubot",
    "name": "P80",
    "device": "P80"
+  },
+  {
+   "brand": "HISORL",
+   "name": "P80-ROW",
+   "device": "P80-ROW"
   }
  ],
  "ASP320Q_ANDi": [
@@ -40406,6 +40411,13 @@
    "brand": "Claro",
    "name": "S4KW3",
    "device": "m393_4l"
+  }
+ ],
+ "CTI_NEXT_TDED_S10": [
+  {
+   "brand": "ClearTouch",
+   "name": "NEXT_TDED",
+   "device": "rk3588_t"
   }
  ],
  "UX_Pro_Edge_Display": [
@@ -72399,6 +72411,18 @@
    "device": "pioneer"
   }
  ],
+ "4K PA Google TV": [
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "device": "burbank"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "device": "lakeside"
+  }
+ ],
  "2K JP Google TV": [
   {
    "brand": "HKC Elec",
@@ -72407,13 +72431,6 @@
   }
  ],
  "4K COL Google TV": [
-  {
-   "brand": "HKC Elec",
-   "name": "Google TV",
-   "device": "lakeside"
-  }
- ],
- "4K PA Google TV": [
   {
    "brand": "HKC Elec",
    "name": "Google TV",
@@ -147610,6 +147627,13 @@
    "device": "V_Lite_2"
   }
  ],
+ "V Pro 2": [
+  {
+   "brand": "Mobiwire",
+   "name": "V Pro 2 4G",
+   "device": "V_Pro_2"
+  }
+ ],
  "V Smart 2": [
   {
    "brand": "Mobiwire",
@@ -193892,6 +193916,20 @@
    "device": "a54x"
   }
  ],
+ "SC-53E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "device": "SC-53E"
+  }
+ ],
+ "SCG27": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "device": "SCG27"
+  }
+ ],
  "SM-A5560": [
   {
    "brand": "Samsung",
@@ -212833,6 +212871,20 @@
    "brand": "Sharp",
    "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
    "device": "tcvenruj"
+  }
+ ],
+ "AQUOS-4KTVJ23-1": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**GP1/GS1/GQ1/GN1",
+   "device": "tcmar1uj"
+  }
+ ],
+ "AQUOS-4KTVJ23-2": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**GP2/GQ2/GN2",
+   "device": "tcmar1uj"
   }
  ],
  "LCD_50FOCAG1T": [
@@ -239543,6 +239595,11 @@
    "brand": "Technicolor",
    "name": "Agile TV",
    "device": "dwt765mm"
+  },
+  {
+   "brand": "Technicolor",
+   "name": "Agile TV",
+   "device": "uzw4060mm"
   }
  ],
  "Elisa Elamus": [

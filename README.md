@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-16
+Last sync is 2024-05-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5114,6 +5114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
 |Classpro|G7N|redwood|AI PONT|
 |Classpro|Smart TV|longshan|AI PONT|
+|ClearTouch|NEXT_TDED|rk3588_t|CTI_NEXT_TDED_S10|
 |ClearTouch|UX Pro Edge|rk3588_t|UX_Pro_Edge_Display|
 |ClearTouch|six_zero_XXAplus|rk3588_t|six_zero_XXAplus|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
@@ -9640,6 +9641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
+|HISORL|P80-ROW|P80-ROW|P80|
 |HISORL|T10P|T10P|T10P|
 |HISORL|TAB10_EEA|TAB10_EEA|TAB10_EEA|
 |HISORL|TAB_10|TAB_10|TAB_10|
@@ -9649,6 +9651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|4K Smart TV|pioneer|4K PA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|4K SA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|HKC 4K SA Smart TV|
+|HKC Elec|Google TV|burbank|4K PA Google TV|
 |HKC Elec|Google TV|kannai|2K JP Google TV|
 |HKC Elec|Google TV|lakeside|4K COL Google TV|
 |HKC Elec|Google TV|lakeside|4K PA Google TV|
@@ -21200,6 +21203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
 |Mobiwire|Telstra Lite Plus|Telstra_Lite_Plus|Telstra Lite Plus|
 |Mobiwire|V Lite 2|V_Lite_2|V Lite 2|
+|Mobiwire|V Pro 2 4G|V_Pro_2|V Pro 2|
 |Mobiwire|V Smart 2|V_Smart_2|V Smart 2|
 |Mobiwire|V.40|Nextel|V.40|
 |Mobiwire|V.45|VSN|V.45S|
@@ -28464,6 +28468,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A54 5G|a54x|SM-A546V|
 |Samsung|Galaxy A54 5G|a54x|SM-A546W|
 |Samsung|Galaxy A54 5G|a54x|SM-S546VL|
+|Samsung|Galaxy A55 5G|SC-53E|SC-53E|
+|Samsung|Galaxy A55 5G|SCG27|SCG27|
 |Samsung|Galaxy A55 5G|a55x|SM-A5560|
 |Samsung|Galaxy A55 5G|a55x|SM-A556B|
 |Samsung|Galaxy A55 5G|a55x|SM-A556E|
@@ -31240,6 +31246,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**DS1/DN1/DP1|tcvenuj|AQUOS-TVJ21|
 |Sharp|4T-C**EN1/EQ1/ES1/EU1/EP1/FN1|tcvenruj|AQUOS-4KTVJ22|
 |Sharp|4T-C**EN2/EL1/EQ2/FN2/FL1|tcvenruj|AQUOS-4KTVJ22-2|
+|Sharp|4T-C**GP1/GS1/GQ1/GN1|tcmar1uj|AQUOS-4KTVJ23-1|
+|Sharp|4T-C**GP2/GQ2/GN2|tcmar1uj|AQUOS-4KTVJ23-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -35353,6 +35361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tech 4u|Tech4U S8|S8|S8|
 |Technicolor||omap4_WT3|T-Hub2|
 |Technicolor|Agile TV|dwt765mm|AgileTV|
+|Technicolor|Agile TV|uzw4060mm|AgileTV|
 |Technicolor|Elisa Elamus|uzw4026ele|Elisa Elamus|
 |Technicolor|Euskaltel|dci765ekt|cooper|
 |Technicolor|LMT viedtelevīzijas iekārta|dwt765lmt|skipper|

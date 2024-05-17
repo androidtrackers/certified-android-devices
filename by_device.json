@@ -1079,6 +1079,11 @@
   },
   {
    "brand": "ClearTouch",
+   "name": "NEXT_TDED",
+   "model": "CTI_NEXT_TDED_S10"
+  },
+  {
+   "brand": "ClearTouch",
    "name": "UX Pro Edge",
    "model": "UX_Pro_Edge_Display"
   },
@@ -76817,6 +76822,13 @@
    "model": "DS-MDT301"
   }
  ],
+ "P80-ROW": [
+  {
+   "brand": "HISORL",
+   "name": "P80-ROW",
+   "model": "P80"
+  }
+ ],
  "T10P": [
   {
    "brand": "HISORL",
@@ -76829,6 +76841,13 @@
    "brand": "HISORL",
    "name": "TAB10_EEA",
    "model": "TAB10_EEA"
+  }
+ ],
+ "burbank": [
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "model": "4K PA Google TV"
   }
  ],
  "kannai": [
@@ -146237,6 +146256,13 @@
    "model": "V Lite 2"
   }
  ],
+ "V_Pro_2": [
+  {
+   "brand": "Mobiwire",
+   "name": "V Pro 2 4G",
+   "model": "V Pro 2"
+  }
+ ],
  "V_Smart_2": [
   {
    "brand": "Mobiwire",
@@ -189625,6 +189651,20 @@
    "model": "SM-A546S"
   }
  ],
+ "SC-53E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "model": "SC-53E"
+  }
+ ],
+ "SCG27": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A55 5G",
+   "model": "SCG27"
+  }
+ ],
  "a55x": [
   {
    "brand": "Samsung",
@@ -206962,6 +207002,18 @@
    "brand": "Sharp",
    "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
    "model": "AQUOS-4KTVJ22-2"
+  }
+ ],
+ "tcmar1uj": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**GP1/GS1/GQ1/GN1",
+   "model": "AQUOS-4KTVJ23-1"
+  },
+  {
+   "brand": "Sharp",
+   "name": "4T-C**GP2/GQ2/GN2",
+   "model": "AQUOS-4KTVJ23-2"
   }
  ],
  "LCD_50FOCAG1T": [
@@ -230800,6 +230852,13 @@
   }
  ],
  "dwt765mm": [
+  {
+   "brand": "Technicolor",
+   "name": "Agile TV",
+   "model": "AgileTV"
+  }
+ ],
+ "uzw4060mm": [
   {
    "brand": "Technicolor",
    "name": "Agile TV",
