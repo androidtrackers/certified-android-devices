@@ -58127,6 +58127,11 @@
   {
    "brand": "Doogee",
    "name": "F10S",
+   "model": "Blade10 Pro"
+  },
+  {
+   "brand": "Doogee",
+   "name": "F10S",
    "model": "F10S"
   }
  ],
@@ -150890,6 +150895,11 @@
   {
    "brand": "Motorola Solutions",
    "name": "LEX L11",
+   "model": "LEX L11e"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
    "model": "LEX L11j"
   },
   {
@@ -231442,6 +231452,13 @@
    "model": "M50HD_ROW"
   }
  ],
+ "M50Mini_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "M50Mini_ROW",
+   "model": "M50Mini"
+  }
+ ],
  "M50Pro_EEA": [
   {
    "brand": "Teclast",
@@ -231798,6 +231815,13 @@
    "brand": "Teclast",
    "name": "P50S_ROW",
    "model": "P50S"
+  }
+ ],
+ "P50_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P50_EEA",
+   "model": "P50"
   }
  ],
  "P80T": [

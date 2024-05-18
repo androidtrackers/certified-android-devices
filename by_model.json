@@ -45837,6 +45837,11 @@
    "brand": "QPS Digital Electronics",
    "name": "P50",
    "device": "P50"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P50_EEA",
+   "device": "P50_EEA"
   }
  ],
  "POCKET 3": [
@@ -52789,6 +52794,13 @@
    "brand": "NOA Mobile",
    "name": "NOA_F10_Pro_EEA",
    "device": "NOA_F10_Pro"
+  }
+ ],
+ "Blade10 Pro": [
+  {
+   "brand": "Doogee",
+   "name": "F10S",
+   "device": "F1C"
   }
  ],
  "F10S": [
@@ -152629,6 +152641,13 @@
    "device": "lexl11g_64"
   }
  ],
+ "LEX L11e": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "device": "lexl11g_64"
+  }
+ ],
  "LEX L11j": [
   {
    "brand": "Motorola Solutions",
@@ -240159,6 +240178,13 @@
    "brand": "Teclast",
    "name": "M50HD_ROW",
    "device": "M50HD_T"
+  }
+ ],
+ "M50Mini": [
+  {
+   "brand": "Teclast",
+   "name": "M50Mini_ROW",
+   "device": "M50Mini_ROW"
   }
  ],
  "M50 Pro": [

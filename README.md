@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-17
+Last sync is 2024-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6850,6 +6850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|BL7000|BL7000|BL7000|
 |Doogee|F10|F1|F10|
 |Doogee|F10 Pro|F1S|F10 Pro|
+|Doogee|F10S|F1C|Blade10 Pro|
 |Doogee|F10S|F1C|F10S|
 |Doogee|MIX|t766_dg_n_mix|MIX|
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
@@ -22002,6 +22003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11a|
+|Motorola Solutions|LEX L11|lexl11g_64|LEX L11e|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11j|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11l|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
@@ -35452,6 +35454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M40_ROW|M40_ROW|M40_ROW|
 |Teclast|M50-EEA|M50-EEA|M50|
 |Teclast|M50HD_ROW|M50HD_T|M50HD_ROW|
+|Teclast|M50Mini_ROW|M50Mini_ROW|M50Mini|
 |Teclast|M50Pro_EEA|M50Pro_EEA|M50 Pro|
 |Teclast|M50Pro_ROW|M50Pro_ROW|M50 Pro|
 |Teclast|P10HD_N5H6|P10S_ROW|P10S_ROW|
@@ -35506,6 +35509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P40HD_T_ROW|P40HD_T_ROW|P40HD_T_ROW|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
+|Teclast|P50_EEA|P50_EEA|P50|
 |Teclast|P80T_EEA|P80T|P80T_EEA|
 |Teclast|P80T_ROW|P80T|P80T_ROW|
 |Teclast|P80T_Y_EEA|P80T_Y_EEA|P80T_EEA|

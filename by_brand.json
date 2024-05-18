@@ -35482,6 +35482,11 @@
   {
    "device": "F1C",
    "name": "F10S",
+   "model": "Blade10 Pro"
+  },
+  {
+   "device": "F1C",
+   "name": "F10S",
    "model": "F10S"
   },
   {
@@ -113132,6 +113137,11 @@
   {
    "device": "lexl11g_64",
    "name": "LEX L11",
+   "model": "LEX L11e"
+  },
+  {
+   "device": "lexl11g_64",
+   "name": "LEX L11",
    "model": "LEX L11j"
   },
   {
@@ -181970,6 +181980,11 @@
    "model": "M50HD_ROW"
   },
   {
+   "device": "M50Mini_ROW",
+   "name": "M50Mini_ROW",
+   "model": "M50Mini"
+  },
+  {
    "device": "M50Pro_EEA",
    "name": "M50Pro_EEA",
    "model": "M50 Pro"
@@ -182238,6 +182253,11 @@
    "device": "P50S_ROW",
    "name": "P50S_ROW",
    "model": "P50S"
+  },
+  {
+   "device": "P50_EEA",
+   "name": "P50_EEA",
+   "model": "P50"
   },
   {
    "device": "P80T",
