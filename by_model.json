@@ -226963,6 +226963,11 @@
    "brand": "Synetech",
    "name": "Synetech Elite Taurus",
    "device": "rk3588_t"
+  },
+  {
+   "brand": "Synetech",
+   "name": "Synetech_Elite_Taurus",
+   "device": "rk3588_t"
   }
  ],
  "REVVL 2": [

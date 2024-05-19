@@ -171805,6 +171805,11 @@
    "device": "rk3588_t",
    "name": "Synetech Elite Taurus",
    "model": "Synetech_T35"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "Synetech_Elite_Taurus",
+   "model": "Synetech_T35"
   }
  ],
  "T-Mobile": [

@@ -218457,6 +218457,13 @@
    "model": "Synetech_T35"
   }
  ],
+ "Synetech_Elite_Taurus": [
+  {
+   "brand": "Synetech",
+   "device": "rk3588_t",
+   "model": "Synetech_T35"
+  }
+ ],
  "REVVL 2": [
   {
    "brand": "T-Mobile",

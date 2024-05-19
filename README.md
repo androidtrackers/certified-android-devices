@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-18
+Last sync is 2024-05-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -33461,6 +33461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|roarV95|roarV95|roarV95|
 |Symphony|roar_V150|roar_V150|roar_V150|
 |Synetech|Synetech Elite Taurus|rk3588_t|Synetech_T35|
+|Synetech|Synetech_Elite_Taurus|rk3588_t|Synetech_T35|
 |T-Mobile|REVVL 2|A30ATMO|REVVL 2|
 |T-Mobile|REVVL 2|A30ATMO|REVVL_2_5052W|
 |T-Mobile|REVVL 2 PLUS|A70AXLTMO|REVVL 2 PLUS|
