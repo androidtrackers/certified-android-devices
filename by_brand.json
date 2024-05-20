@@ -22528,16 +22528,6 @@
    "model": "AiPlus4K"
   },
   {
-   "device": "nagata",
-   "name": "Newal 2K SMART TV",
-   "model": "Newal 2K SMART TV"
-  },
-  {
-   "device": "marina",
-   "name": "Newal 4K SMART TV",
-   "model": "Newal 4K SMART TV"
-  },
-  {
    "device": "cottongreen",
    "name": "Sgamer",
    "model": "Sgamer"
@@ -30513,6 +30503,11 @@
    "device": "X70",
    "name": "X70",
    "model": "X70"
+  },
+  {
+   "device": "X90",
+   "name": "X90",
+   "model": "X90"
   },
   {
    "device": "NOTE_9",
@@ -112863,6 +112858,16 @@
    "model": "motorola edge 50 pro"
   },
   {
+   "device": "ctwo",
+   "name": "motorola edge 50 ultra",
+   "model": "motorola edge 40 pro"
+  },
+  {
+   "device": "ctwo",
+   "name": "motorola edge 50 ultra",
+   "model": "motorola edge 50 ultra"
+  },
+  {
    "device": "berlna",
    "name": "motorola edge 5G UW (2021)",
    "model": "motorola edge 5G UW"
@@ -117770,6 +117775,18 @@
    "device": "NBTB102",
    "name": "NBTB102",
    "model": "NBTB102"
+  }
+ ],
+ "Newal": [
+  {
+   "device": "nagata",
+   "name": "Newal 2K SMART TV",
+   "model": "Newal 2K SMART TV"
+  },
+  {
+   "device": "marina",
+   "name": "Newal 4K SMART TV",
+   "model": "Newal 4K SMART TV"
   }
  ],
  "Newings": [
@@ -218060,6 +218077,13 @@
    "device": "iSWAG_ACTIV",
    "name": "iSWAG ACTIV",
    "model": "iSWAG ACTIV"
+  }
+ ],
+ "iSolution": [
+  {
+   "device": "AKMEI14",
+   "name": "OPS_RK3588_B",
+   "model": "ACER_ALTOS_EZB"
   }
  ],
  "iTab XPLUS": [

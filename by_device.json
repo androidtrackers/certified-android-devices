@@ -17589,11 +17589,6 @@
   },
   {
    "brand": "CAIXUN",
-   "name": "Newal 4K SMART TV",
-   "model": "Newal 4K SMART TV"
-  },
-  {
-   "brand": "CAIXUN",
    "name": "South of America",
    "model": "Apollo Pro4K TV"
   },
@@ -17686,6 +17681,11 @@
    "brand": "Nano",
    "name": "Thailand",
    "model": "Nano 4K SMART TV"
+  },
+  {
+   "brand": "Newal",
+   "name": "Newal 4K SMART TV",
+   "model": "Newal 4K SMART TV"
   },
   {
    "brand": "Nokia",
@@ -35493,11 +35493,6 @@
    "model": "MAXWELL SMART TV"
   },
   {
-   "brand": "CAIXUN",
-   "name": "Newal 2K SMART TV",
-   "model": "Newal 2K SMART TV"
-  },
-  {
    "brand": "Compaq",
    "name": "COMPAQ SMART TV",
    "model": "COMPAQ SMART TV"
@@ -35581,6 +35576,11 @@
    "brand": "Nano",
    "name": "Thailand",
    "model": "Nano 2K SMART TV"
+  },
+  {
+   "brand": "Newal",
+   "name": "Newal 2K SMART TV",
+   "model": "Newal 2K SMART TV"
   },
   {
    "brand": "Nokia",
@@ -51195,6 +51195,23 @@
    "model": "X70"
   }
  ],
+ "X90": [
+  {
+   "brand": "Cubot",
+   "name": "X90",
+   "model": "X90"
+  },
+  {
+   "brand": "Doogee",
+   "name": "X90",
+   "model": "X90"
+  },
+  {
+   "brand": "Premio",
+   "name": "X90",
+   "model": "X90"
+  }
+ ],
  "Ares": [
   {
    "brand": "Custom",
@@ -59302,18 +59319,6 @@
    "brand": "Doogee",
    "name": "X9 Pro",
    "model": "X9pro"
-  }
- ],
- "X90": [
-  {
-   "brand": "Doogee",
-   "name": "X90",
-   "model": "X90"
-  },
-  {
-   "brand": "Premio",
-   "name": "X90",
-   "model": "X90"
   }
  ],
  "X90L": [
@@ -150740,6 +150745,18 @@
    "brand": "Motorola",
    "name": "motorola edge 50 pro",
    "model": "motorola edge 50 pro"
+  }
+ ],
+ "ctwo": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 ultra",
+   "model": "motorola edge 40 pro"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 ultra",
+   "model": "motorola edge 50 ultra"
   }
  ],
  "burton": [
@@ -272285,6 +272302,13 @@
    "brand": "iSWAG",
    "name": "iSWAG ACTIV",
    "model": "iSWAG ACTIV"
+  }
+ ],
+ "AKMEI14": [
+  {
+   "brand": "iSolution",
+   "name": "OPS_RK3588_B",
+   "model": "ACER_ALTOS_EZB"
   }
  ],
  "ITAB_X38T": [

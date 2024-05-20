@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-19
+Last sync is 2024-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4368,8 +4368,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|MAXWELL SMART TV|nagata|MAXWELL SMART TV|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
-|CAIXUN|Newal 2K SMART TV|nagata|Newal 2K SMART TV|
-|CAIXUN|Newal 4K SMART TV|marina|Newal 4K SMART TV|
 |CAIXUN|Sgamer|cottongreen|Sgamer|
 |CAIXUN|South of America|marina|Apollo Pro4K TV|
 |CAIXUN|South of America|martin|AiPlus2K|
@@ -5901,6 +5899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|X30P|X30P|X30P|
 |Cubot|X50|X50|X50|
 |Cubot|X70|X70|X70|
+|Cubot|X90|X90|X90|
 |Cubot|note_9|NOTE_9|NOTE 9|
 |Custom|Ares|Ares|Ares|
 |Custom|K-Ranger|K-Ranger|K-Ranger|
@@ -21949,6 +21948,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 40 pro|
 |Motorola|motorola edge 50 pro|eqe|motorola edge 40 pro|
 |Motorola|motorola edge 50 pro|eqe|motorola edge 50 pro|
+|Motorola|motorola edge 50 ultra|ctwo|motorola edge 40 pro|
+|Motorola|motorola edge 50 ultra|ctwo|motorola edge 50 ultra|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
@@ -22896,6 +22897,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |New Balance|Run IQ|shasta|NB RunIQ|
 |NewBridge|NBTB101|NBTB101|NBTB101|
 |NewBridge|NBTB102|NBTB102|NBTB102|
+|Newal|Newal 2K SMART TV|nagata|Newal 2K SMART TV|
+|Newal|Newal 4K SMART TV|marina|Newal 4K SMART TV|
 |Newings|T18|T18|T18|
 |Newland|N950|SmartPOS|N950|
 |Newland|NLS-MT6550-AM|NLS-MT6550-AM|NLS-MT65|
@@ -42466,6 +42469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iSWAG|STREAM7|STREAM7|STREAM7|
 |iSWAG|STREAM7Plus|STREAM7Plus|STREAM7|
 |iSWAG|iSWAG ACTIV|iSWAG_ACTIV|iSWAG ACTIV|
+|iSolution|OPS_RK3588_B|AKMEI14|ACER_ALTOS_EZB|
 |iTab XPLUS|ITAB_X38T|ITAB_X38T|ITAB_X38T|
 |iTab XPLUS|iTAB-A1|iTAB-A1|iTAB-A1|
 |iTab XPLUS|iTab_XPLUS_10_1|iTab_XPLUS_10_1|iTab_XPLUS_10_1|

@@ -40741,20 +40741,6 @@
    "model": "AiPlus4K"
   }
  ],
- "Newal 2K SMART TV": [
-  {
-   "brand": "CAIXUN",
-   "device": "nagata",
-   "model": "Newal 2K SMART TV"
-  }
- ],
- "Newal 4K SMART TV": [
-  {
-   "brand": "CAIXUN",
-   "device": "marina",
-   "model": "Newal 4K SMART TV"
-  }
- ],
  "Sgamer": [
   {
    "brand": "CAIXUN",
@@ -51879,6 +51865,33 @@
    "model": "X70"
   }
  ],
+ "X90": [
+  {
+   "brand": "Cubot",
+   "device": "X90",
+   "model": "X90"
+  },
+  {
+   "brand": "Doogee",
+   "device": "X90",
+   "model": "X90"
+  },
+  {
+   "brand": "EL (Africa)",
+   "device": "X90a",
+   "model": "X90"
+  },
+  {
+   "brand": "Premio",
+   "device": "X90",
+   "model": "X90"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2218",
+   "model": "V2218"
+  }
+ ],
  "note_9": [
   {
    "brand": "Cubot",
@@ -59882,28 +59895,6 @@
    "brand": "Doogee",
    "device": "X9pro",
    "model": "X9pro"
-  }
- ],
- "X90": [
-  {
-   "brand": "Doogee",
-   "device": "X90",
-   "model": "X90"
-  },
-  {
-   "brand": "EL (Africa)",
-   "device": "X90a",
-   "model": "X90"
-  },
-  {
-   "brand": "Premio",
-   "device": "X90",
-   "model": "X90"
-  },
-  {
-   "brand": "Vivo",
-   "device": "V2218",
-   "model": "V2218"
   }
  ],
  "X90L": [
@@ -150043,6 +150034,18 @@
    "model": "motorola edge 50 pro"
   }
  ],
+ "motorola edge 50 ultra": [
+  {
+   "brand": "Motorola",
+   "device": "ctwo",
+   "model": "motorola edge 40 pro"
+  },
+  {
+   "brand": "Motorola",
+   "device": "ctwo",
+   "model": "motorola edge 50 ultra"
+  }
+ ],
  "motorola edge 5G UW (2021)": [
   {
    "brand": "Motorola",
@@ -155945,6 +155948,20 @@
    "brand": "NewBridge",
    "device": "NBTB102",
    "model": "NBTB102"
+  }
+ ],
+ "Newal 2K SMART TV": [
+  {
+   "brand": "Newal",
+   "device": "nagata",
+   "model": "Newal 2K SMART TV"
+  }
+ ],
+ "Newal 4K SMART TV": [
+  {
+   "brand": "Newal",
+   "device": "marina",
+   "model": "Newal 4K SMART TV"
   }
  ],
  "T18": [
@@ -270797,6 +270814,13 @@
    "brand": "iSWAG",
    "device": "iSWAG_ACTIV",
    "model": "iSWAG ACTIV"
+  }
+ ],
+ "OPS_RK3588_B": [
+  {
+   "brand": "iSolution",
+   "device": "AKMEI14",
+   "model": "ACER_ALTOS_EZB"
   }
  ],
  "ITAB_X38T": [
