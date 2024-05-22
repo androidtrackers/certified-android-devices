@@ -1770,6 +1770,16 @@
    "model": "CreaPad_1009_EEA"
   },
   {
+   "device": "Funtab_1001",
+   "name": "Funtab_1001",
+   "model": "Funtab_1001"
+  },
+  {
+   "device": "Funtab_1001_EEA",
+   "name": "Funtab_1001_EEA",
+   "model": "Funtab_1001_EEA"
+  },
+  {
    "device": "Funtab_801_I",
    "name": "Funtab_801_I",
    "model": "Funtab_801_I"
@@ -2320,6 +2330,11 @@
    "device": "AKREI13",
    "name": "ACER ALTOS EZA",
    "model": "ACER_ALTOS_EZA"
+  },
+  {
+   "device": "AKMEI14",
+   "name": "ACER_ALTOS_EZB",
+   "model": "ACER_ALTOS_EZB"
   },
   {
    "device": "ACTAB1021_A",
@@ -8564,6 +8579,11 @@
    "device": "ARCHOST963G",
    "name": "ARCHOST963G",
    "model": "ARCHOS T96 3G"
+  },
+  {
+   "device": "act101fhd2wf",
+   "name": "AT101FHD2WF_EEA",
+   "model": "ARCHOS T101 FHD2 WIFI"
   },
   {
    "device": "ac101cplv3",
@@ -18596,6 +18616,11 @@
    "device": "Tab3Kids",
    "name": "Tab 3 Kids",
    "model": "Tab 3 Kids"
+  },
+  {
+   "device": "Tab50Kids",
+   "name": "Tab 50 Kids",
+   "model": "Tab 50 Kids"
   },
   {
    "device": "Tab50Kids_TUR",
@@ -42045,6 +42070,11 @@
  "FOSSiBOT": [
   {
    "device": "DT1_Lite",
+   "name": "DT1 Lite",
+   "model": "DT1 Lite"
+  },
+  {
+   "device": "DT1_Lite",
    "name": "DT1_Lite",
    "model": "DT1 Lite"
   },
@@ -46929,6 +46959,11 @@
    "device": "GK133T3",
    "name": "GK133T3",
    "model": "GK133T3"
+  },
+  {
+   "device": "GK133V3",
+   "name": "GK133V3",
+   "model": "GK133V3"
   },
   {
    "device": "GPND133",
@@ -105274,6 +105309,11 @@
    "model": "MEIZU 20 Inf.sat"
   },
   {
+   "device": "Meizu21Note",
+   "name": "MEIZU 21 Note",
+   "model": "MEIZU 21 Note"
+  },
+  {
    "device": "Meizu6T",
    "name": "Meizu 6T",
    "model": "Meizu 6T"
@@ -120626,6 +120666,11 @@
    "model": "Pad 15"
   },
   {
+   "device": "Pad15_RU",
+   "name": "Pad 15",
+   "model": "Pad 15"
+  },
+  {
    "device": "Pad16",
    "name": "Pad 16",
    "model": "Pad 16"
@@ -127166,6 +127211,11 @@
    "device": "PET-1081-LH332S",
    "name": "PET-1081-LH332S",
    "model": "PET 1081-LH332S"
+  },
+  {
+   "device": "PET-10980-F628E",
+   "name": "PET-10980-F628E",
+   "model": "PET-10980-F628E"
   },
   {
    "device": "PET-882-H232S",
@@ -180801,6 +180851,11 @@
    "model": "T21-EEA"
   },
   {
+   "device": "T21-EEA",
+   "name": "T21-EEA",
+   "model": "X10"
+  },
+  {
    "device": "T211-EEA",
    "name": "T211-EEA",
    "model": "T211-EEA"
@@ -181823,6 +181878,11 @@
    "model": "X7"
   },
   {
+   "device": "X9_PLUS",
+   "name": "X9",
+   "model": "X9"
+  },
+  {
    "device": "i700",
    "name": "i700",
    "model": "Tech Pad i700"
@@ -181998,6 +182058,11 @@
   },
   {
    "device": "M50HD_T",
+   "name": "M50HD_EEA",
+   "model": "M50HD_EEA"
+  },
+  {
+   "device": "M50HD_T",
    "name": "M50HD_ROW",
    "model": "M50HD_ROW"
   },
@@ -182015,6 +182080,16 @@
    "device": "M50Pro_ROW",
    "name": "M50Pro_ROW",
    "model": "M50 Pro"
+  },
+  {
+   "device": "M50_T",
+   "name": "M50_EEA",
+   "model": "M50_EEA"
+  },
+  {
+   "device": "M50_T",
+   "name": "M50_ROW",
+   "model": "M50_ROW"
   },
   {
    "device": "P10S_ROW",
@@ -204006,6 +204081,11 @@
  ],
  "Xsmart": [
   {
+   "device": "CORE_X",
+   "name": "CORE_X",
+   "model": "CORE_X"
+  },
+  {
    "device": "Mate_10",
    "name": "Mate_10",
    "model": "Mate 10"
@@ -215976,6 +216056,13 @@
    "model": "dazen 6E"
   }
  ],
+ "denver": [
+  {
+   "device": "TIO_80",
+   "name": "TIO_80",
+   "model": "TIO-80"
+  }
+ ],
  "digITS": [
   {
    "device": "T1",
@@ -217221,6 +217308,11 @@
    "model": "Like Hi5"
   },
   {
+   "device": "P11000_Pro",
+   "name": "P11000 Pro",
+   "model": "P11000 Pro"
+  },
+  {
    "device": "P25000_Pro",
    "name": "P25000 Pro",
    "model": "iHunt Titan P25000 Xtreme"
@@ -217284,6 +217376,11 @@
    "device": "Tablet_P15000",
    "name": "Strong Tablet P15000 Pro",
    "model": "Strong Tablet P15000 Pro"
+  },
+  {
+   "device": "P15000_Ultra",
+   "name": "Strong Tablet P15000 Ultra",
+   "model": "Strong Tablet P15000 Ultra"
   },
   {
    "device": "TITAN_P11000_PRO",
@@ -218077,13 +218174,6 @@
    "device": "iSWAG_ACTIV",
    "name": "iSWAG ACTIV",
    "model": "iSWAG ACTIV"
-  }
- ],
- "iSolution": [
-  {
-   "device": "AKMEI14",
-   "name": "OPS_RK3588_B",
-   "model": "ACER_ALTOS_EZB"
   }
  ],
  "iTab XPLUS": [
@@ -218894,6 +218984,11 @@
    "device": "gangbyeon",
    "name": "4K Smart TV",
    "model": "4K AI Smart TV"
+  },
+  {
+   "device": "RE5C86L1",
+   "name": "NARZO 70 5G",
+   "model": "RMX3869"
   },
   {
    "device": "RE5C86L1",
@@ -219741,6 +219836,11 @@
    "model": "RMX3761"
   },
   {
+   "device": "RE5C9F",
+   "name": "realme note 50",
+   "model": "RMX3834"
+  },
+  {
    "device": "RE54C1L1",
    "name": "realme pad",
    "model": "RMP2102"
@@ -219834,6 +219934,11 @@
    "device": "RMX3031CN",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  },
+  {
+   "device": "RE5C46L1",
+   "name": "真我GT Neo6",
+   "model": "RMX3852"
   },
   {
    "device": "RE5C39L1",

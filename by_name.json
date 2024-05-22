@@ -8449,6 +8449,11 @@
    "brand": "MINDEO",
    "device": "M50_EEA",
    "model": "M50_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "device": "M50_T",
+   "model": "M50_EEA"
   }
  ],
  "TAB-A8": [
@@ -9614,6 +9619,20 @@
    "model": "CreaPad_1009_EEA"
   }
  ],
+ "Funtab_1001": [
+  {
+   "brand": "AWOW",
+   "device": "Funtab_1001",
+   "model": "Funtab_1001"
+  }
+ ],
+ "Funtab_1001_EEA": [
+  {
+   "brand": "AWOW",
+   "device": "Funtab_1001_EEA",
+   "model": "Funtab_1001_EEA"
+  }
+ ],
  "Funtab_801_I": [
   {
    "brand": "AWOW",
@@ -10487,6 +10506,13 @@
    "brand": "Acer",
    "device": "AKREI13",
    "model": "ACER_ALTOS_EZA"
+  }
+ ],
+ "ACER_ALTOS_EZB": [
+  {
+   "brand": "Acer",
+   "device": "AKMEI14",
+   "model": "ACER_ALTOS_EZB"
   }
  ],
  "ACTAB1021_A": [
@@ -20202,6 +20228,13 @@
    "brand": "Archos",
    "device": "ARCHOST963G",
    "model": "ARCHOS T96 3G"
+  }
+ ],
+ "AT101FHD2WF_EEA": [
+  {
+   "brand": "Archos",
+   "device": "act101fhd2wf",
+   "model": "ARCHOS T101 FHD2 WIFI"
   }
  ],
  "Alba 10": [
@@ -34604,6 +34637,11 @@
   }
  ],
  "Tab 50 Kids": [
+  {
+   "brand": "Blackview",
+   "device": "Tab50Kids",
+   "model": "Tab 50 Kids"
+  },
   {
    "brand": "Blackview",
    "device": "Tab50Kids_TUR",
@@ -54482,6 +54520,11 @@
    "model": "X9"
   },
   {
+   "brand": "Techpad",
+   "device": "X9_PLUS",
+   "model": "X9"
+  },
+  {
    "brand": "Vivo",
    "device": "PD1616",
    "model": "vivo X9"
@@ -67728,6 +67771,13 @@
    "model": "KidS Prime 1"
   }
  ],
+ "DT1 Lite": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "DT1_Lite",
+   "model": "DT1 Lite"
+  }
+ ],
  "DT1_Lite": [
   {
    "brand": "FOSSiBOT",
@@ -73975,6 +74025,13 @@
    "brand": "Ghia",
    "device": "GK133T3",
    "model": "GK133T3"
+  }
+ ],
+ "GK133V3": [
+  {
+   "brand": "Ghia",
+   "device": "GK133V3",
+   "model": "GK133V3"
   }
  ],
  "GPND133": [
@@ -141467,6 +141524,13 @@
    "model": "MEIZU 20 Inf.sat"
   }
  ],
+ "MEIZU 21 Note": [
+  {
+   "brand": "Meizu",
+   "device": "Meizu21Note",
+   "model": "MEIZU 21 Note"
+  }
+ ],
  "Meizu 6T": [
   {
    "brand": "Meizu",
@@ -159117,6 +159181,11 @@
    "brand": "OSCAL",
    "device": "Pad15_EEA",
    "model": "Pad 15"
+  },
+  {
+   "brand": "OSCAL",
+   "device": "Pad15_RU",
+   "model": "Pad 15"
   }
  ],
  "Pad 16": [
@@ -166878,6 +166947,13 @@
    "brand": "PEAQ",
    "device": "PET-1081-LH332S",
    "model": "PET 1081-LH332S"
+  }
+ ],
+ "PET-10980-F628E": [
+  {
+   "brand": "PEAQ",
+   "device": "PET-10980-F628E",
+   "model": "PET-10980-F628E"
   }
  ],
  "PET-882-H232S": [
@@ -228250,6 +228326,11 @@
    "brand": "TOSCIDO",
    "device": "T21-EEA",
    "model": "T21-EEA"
+  },
+  {
+   "brand": "TOSCIDO",
+   "device": "T21-EEA",
+   "model": "X10"
   }
  ],
  "T211-EEA": [
@@ -229610,6 +229691,13 @@
    "model": "M50"
   }
  ],
+ "M50HD_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "M50HD_T",
+   "model": "M50HD_EEA"
+  }
+ ],
  "M50HD_ROW": [
   {
    "brand": "Teclast",
@@ -229636,6 +229724,13 @@
    "brand": "Teclast",
    "device": "M50Pro_ROW",
    "model": "M50 Pro"
+  }
+ ],
+ "M50_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "M50_T",
+   "model": "M50_ROW"
   }
  ],
  "P10HD_N5H6": [
@@ -255423,6 +255518,13 @@
    "model": "iX101D1-FIOS"
   }
  ],
+ "CORE_X": [
+  {
+   "brand": "Xsmart",
+   "device": "CORE_X",
+   "model": "CORE_X"
+  }
+ ],
  "Mate_10": [
   {
    "brand": "Xsmart",
@@ -268433,6 +268535,13 @@
    "model": "dazen 6E"
   }
  ],
+ "TIO_80": [
+  {
+   "brand": "denver",
+   "device": "TIO_80",
+   "model": "TIO-80"
+  }
+ ],
  "IPBS9520": [
   {
    "brand": "du (UAE)",
@@ -269850,6 +269959,13 @@
    "model": "Like Hi5"
   }
  ],
+ "P11000 Pro": [
+  {
+   "brand": "iHunt",
+   "device": "P11000_Pro",
+   "model": "P11000 Pro"
+  }
+ ],
  "P25000 Pro": [
   {
    "brand": "iHunt",
@@ -269939,6 +270055,13 @@
    "brand": "iHunt",
    "device": "Tablet_P15000",
    "model": "Strong Tablet P15000 Pro"
+  }
+ ],
+ "Strong Tablet P15000 Ultra": [
+  {
+   "brand": "iHunt",
+   "device": "P15000_Ultra",
+   "model": "Strong Tablet P15000 Ultra"
   }
  ],
  "TITAN P11000 PRO": [
@@ -270816,13 +270939,6 @@
    "model": "iSWAG ACTIV"
   }
  ],
- "OPS_RK3588_B": [
-  {
-   "brand": "iSolution",
-   "device": "AKMEI14",
-   "model": "ACER_ALTOS_EZB"
-  }
- ],
  "ITAB_X38T": [
   {
    "brand": "iTab XPLUS",
@@ -271650,6 +271766,13 @@
    "brand": "realme",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "NARZO 70 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5C86L1",
+   "model": "RMX3869"
   }
  ],
  "NARZO 70 Pro 5G": [
@@ -272596,6 +272719,13 @@
    "model": "RMX3761"
   }
  ],
+ "realme note 50": [
+  {
+   "brand": "realme",
+   "device": "RE5C9F",
+   "model": "RMX3834"
+  }
+ ],
  "realme  X7 Pro": [
   {
    "brand": "realme",
@@ -272709,6 +272839,13 @@
    "brand": "realme",
    "device": "RMX3031CN",
    "model": "RMX3031"
+  }
+ ],
+ "真我GT Neo6": [
+  {
+   "brand": "realme",
+   "device": "RE5C46L1",
+   "model": "RMX3852"
   }
  ],
  "真我GT Neo6 SE": [
