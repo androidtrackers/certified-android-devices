@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-25
+Last sync is 2024-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -38411,6 +38411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo9|PD2338|V2338A|
 |Vivo|iQOO Neo9 Pro|I2304|I2304|
 |Vivo|iQOO Neo9 Pro|PD2339|V2339A|
+|Vivo|iQOO Neo9S Pro|PD2339|V2339FA|
 |Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Z5|2018|I2018|
