@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-26
+Last sync is 2024-05-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6891,6 +6891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|BL5000|BL5000|BL5000|
 |Doogee|BL5500_Lite|BL5500_Lite|BL5500_Lite|
 |Doogee|BL7000|BL7000|BL7000|
+|Doogee|DK10|ZN138|DK10|
 |Doogee|F10|F1|F10|
 |Doogee|F10 Pro|F1S|F10 Pro|
 |Doogee|F10S|F1C|Blade10 Pro|
@@ -6913,6 +6914,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N50 Plus|1918P|N50 Plus|
 |Doogee|N50Pro|1918N|N50Pro|
 |Doogee|N50S|1918D|N50S|
+|Doogee|N53|1928D|N53|
+|Doogee|N55|1928|N55|
+|Doogee|N56|1928E|N56|
+|Doogee|N56 Max|1928N|N56 Max|
+|Doogee|N56 Plus|1928P|N55 Pro|
+|Doogee|N56 Plus|1928P|N56 Plus|
+|Doogee|N56 Pro|1928T|N56 Pro|
 |Doogee|N60Pro|1919|N60Pro|
 |Doogee|N70|1925T|N70|
 |Doogee|P3Mini Kid|P3Mini_Kid|T20Mini Kid|
@@ -6991,8 +6999,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T20Mini Pro|P3MiniS|T20Mini Pro|
 |Doogee|T20S|P2D|T20S|
 |Doogee|T20Ultra|P2T|T20Ultra|
+|Doogee|T30 Max|P3T|T30 Max|
 |Doogee|T30 Mini|P3MiniTE_2|T30 Mini|
 |Doogee|T30 Mini Pro|P3MiniT|T30 Mini Pro|
+|Doogee|T30 SE|P3C|T30 SE|
 |Doogee|T30Pro|P3Pro|T30Pro|
 |Doogee|T30S|P3D|T30S|
 |Doogee|T30S|P3D_2|T30S|
@@ -15282,6 +15292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |J:COM|XA401|XA401|XA401|
 |J:COM|XA402|XA402|XA402|
 |J:COM|XA403|sti6260d195|XA403|
+|JAV Smart-box|Smart-box|rk3588_t|BOX_1|
 |JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
 |JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
@@ -15878,6 +15889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kaicom|K901|K901|K901|
 |Kaicom|K901|K901_2|K901|
 |Kaicom|KAICOM W660|W660|W660|
+|Kaliho|H3|H3|H3|
 |Kalley|Silver Max Pro|Silver_Max_Pro|Silver Max Pro|
 |Kalley|Android TV|R1|ATV R1|
 |Kalley|Android TV|R2|ATV R2|
@@ -24197,6 +24209,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro 5G|OP561F|PHV110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
+|Oppo|OPPO Reno12|OP5A29L1|PJV110|
+|Oppo|OPPO Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
@@ -24941,6 +24955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
+|PTCL SHOQ TV|PTCL B866V2F|PTCLBox_B866V2F|B866V2F|
 |PYUR|PYUR TV BOX|m377genb_pyur|PYUR TV BOX|
 |Packard Bell|A4000|A4000|A4000|
 |Packard Bell|A5000|A5000|A5000|
@@ -25626,6 +25641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
 |Plimpton|Kids20|Kids20|Kids20|
+|Plimpton|Kids20A14|Kids20A14|Kids20|
 |Plimpton|Kids20_EEA|Kids20_EEA|Kids20|
 |Plimpton|Kids_10|Kids_10|Kids_10|
 |Plimpton|Kids_10_EEA|Kids_10_EEA|Kids 10|
@@ -27273,6 +27289,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi A3|blue|23129RN51H|
 |Redmi|Redmi A3|blue|23129RN51X|
 |Redmi|Redmi A3|blue|2312CRNCCL|
+|Redmi|Redmi A3x|klein|24048RN6CG|
+|Redmi|Redmi A3x|klein|24048RN6CI|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -42034,6 +42052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zong 4G|Z1|Z1|Z1|
 |Zong 4G|Z2|Z2|Z2|
 |Zonko|D105|D105|D105|
+|Zonko|D105_EEA|D105_EEA|D105_EEA|
 |Zonko|D106|D106|D106|
 |Zonko|D118|D118|D118|
 |Zonko|D136|D136|D136|

@@ -35695,6 +35695,11 @@
    "model": "BL7000"
   },
   {
+   "device": "ZN138",
+   "name": "DK10",
+   "model": "DK10"
+  },
+  {
    "device": "F1",
    "name": "F10",
    "model": "F10"
@@ -35803,6 +35808,41 @@
    "device": "1918D",
    "name": "N50S",
    "model": "N50S"
+  },
+  {
+   "device": "1928D",
+   "name": "N53",
+   "model": "N53"
+  },
+  {
+   "device": "1928",
+   "name": "N55",
+   "model": "N55"
+  },
+  {
+   "device": "1928E",
+   "name": "N56",
+   "model": "N56"
+  },
+  {
+   "device": "1928N",
+   "name": "N56 Max",
+   "model": "N56 Max"
+  },
+  {
+   "device": "1928P",
+   "name": "N56 Plus",
+   "model": "N55 Pro"
+  },
+  {
+   "device": "1928P",
+   "name": "N56 Plus",
+   "model": "N56 Plus"
+  },
+  {
+   "device": "1928T",
+   "name": "N56 Pro",
+   "model": "N56 Pro"
   },
   {
    "device": "1919",
@@ -36195,6 +36235,11 @@
    "model": "T20Ultra"
   },
   {
+   "device": "P3T",
+   "name": "T30 Max",
+   "model": "T30 Max"
+  },
+  {
    "device": "P3MiniTE_2",
    "name": "T30 Mini",
    "model": "T30 Mini"
@@ -36203,6 +36248,11 @@
    "device": "P3MiniT",
    "name": "T30 Mini Pro",
    "model": "T30 Mini Pro"
+  },
+  {
+   "device": "P3C",
+   "name": "T30 SE",
+   "model": "T30 SE"
   },
   {
    "device": "P3Pro",
@@ -78732,6 +78782,13 @@
    "model": "XA403"
   }
  ],
+ "JAV Smart-box": [
+  {
+   "device": "rk3588_t",
+   "name": "Smart-box",
+   "model": "BOX_1"
+  }
+ ],
  "JAY-TECH": [
   {
    "device": "TPC-G1010_EEA",
@@ -81878,6 +81935,13 @@
    "device": "W660",
    "name": "KAICOM W660",
    "model": "W660"
+  }
+ ],
+ "Kaliho": [
+  {
+   "device": "H3",
+   "name": "H3",
+   "model": "H3"
   }
  ],
  "Kalley": [
@@ -124509,6 +124573,16 @@
    "model": "PHU110"
   },
   {
+   "device": "OP5A29L1",
+   "name": "OPPO Reno12",
+   "model": "PJV110"
+  },
+  {
+   "device": "OP5A2BL1",
+   "name": "OPPO Reno12 Pro",
+   "model": "PJW110"
+  },
+  {
    "device": "OP4F2BL1",
    "name": "OPPO Reno5 A",
    "model": "A101OP"
@@ -128349,6 +128423,13 @@
    "model": "P10"
   }
  ],
+ "PTCL SHOQ TV": [
+  {
+   "device": "PTCLBox_B866V2F",
+   "name": "PTCL B866V2F",
+   "model": "B866V2F"
+  }
+ ],
  "PYUR": [
   {
    "device": "m377genb_pyur",
@@ -131843,6 +131924,11 @@
   {
    "device": "Kids20",
    "name": "Kids20",
+   "model": "Kids20"
+  },
+  {
+   "device": "Kids20A14",
+   "name": "Kids20A14",
    "model": "Kids20"
   },
   {
@@ -140317,6 +140403,16 @@
    "device": "blue",
    "name": "Redmi A3",
    "model": "2312CRNCCL"
+  },
+  {
+   "device": "klein",
+   "name": "Redmi A3x",
+   "model": "24048RN6CG"
+  },
+  {
+   "device": "klein",
+   "name": "Redmi A3x",
+   "model": "24048RN6CI"
   },
   {
    "device": "davinci",
@@ -215748,6 +215844,11 @@
    "device": "D105",
    "name": "D105",
    "model": "D105"
+  },
+  {
+   "device": "D105_EEA",
+   "name": "D105_EEA",
+   "model": "D105_EEA"
   },
   {
    "device": "D106",

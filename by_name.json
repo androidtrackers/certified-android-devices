@@ -59042,6 +59042,13 @@
    "model": "BL7000"
   }
  ],
+ "DK10": [
+  {
+   "brand": "Doogee",
+   "device": "ZN138",
+   "model": "DK10"
+  }
+ ],
  "F10": [
   {
    "brand": "Doogee",
@@ -59285,6 +59292,53 @@
    "brand": "Doogee",
    "device": "1918D",
    "model": "N50S"
+  }
+ ],
+ "N53": [
+  {
+   "brand": "Doogee",
+   "device": "1928D",
+   "model": "N53"
+  }
+ ],
+ "N55": [
+  {
+   "brand": "Doogee",
+   "device": "1928",
+   "model": "N55"
+  }
+ ],
+ "N56": [
+  {
+   "brand": "Doogee",
+   "device": "1928E",
+   "model": "N56"
+  }
+ ],
+ "N56 Max": [
+  {
+   "brand": "Doogee",
+   "device": "1928N",
+   "model": "N56 Max"
+  }
+ ],
+ "N56 Plus": [
+  {
+   "brand": "Doogee",
+   "device": "1928P",
+   "model": "N55 Pro"
+  },
+  {
+   "brand": "Doogee",
+   "device": "1928P",
+   "model": "N56 Plus"
+  }
+ ],
+ "N56 Pro": [
+  {
+   "brand": "Doogee",
+   "device": "1928T",
+   "model": "N56 Pro"
   }
  ],
  "N60Pro": [
@@ -59827,6 +59881,13 @@
    "model": "T20Ultra"
   }
  ],
+ "T30 Max": [
+  {
+   "brand": "Doogee",
+   "device": "P3T",
+   "model": "T30 Max"
+  }
+ ],
  "T30 Mini": [
   {
    "brand": "Doogee",
@@ -59839,6 +59900,13 @@
    "brand": "Doogee",
    "device": "P3MiniT",
    "model": "T30 Mini Pro"
+  }
+ ],
+ "T30 SE": [
+  {
+   "brand": "Doogee",
+   "device": "P3C",
+   "model": "T30 SE"
   }
  ],
  "T30Pro": [
@@ -78776,6 +78844,11 @@
   },
   {
    "brand": "HOMTOM",
+   "device": "H3",
+   "model": "H3"
+  },
+  {
+   "brand": "Kaliho",
    "device": "H3",
    "model": "H3"
   }
@@ -111187,6 +111260,13 @@
    "brand": "J:COM",
    "device": "sti6260d195",
    "model": "XA403"
+  }
+ ],
+ "Smart-box": [
+  {
+   "brand": "JAV Smart-box",
+   "device": "rk3588_t",
+   "model": "BOX_1"
   }
  ],
  "TPC-G1010": [
@@ -163598,6 +163678,20 @@
    "model": "PHU110"
   }
  ],
+ "OPPO Reno12": [
+  {
+   "brand": "Oppo",
+   "device": "OP5A29L1",
+   "model": "PJV110"
+  }
+ ],
+ "OPPO Reno12 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP5A2BL1",
+   "model": "PJW110"
+  }
+ ],
  "OPPO Reno5 A": [
   {
    "brand": "Oppo",
@@ -168382,6 +168476,13 @@
    "model": "neo"
   }
  ],
+ "PTCL B866V2F": [
+  {
+   "brand": "PTCL SHOQ TV",
+   "device": "PTCLBox_B866V2F",
+   "model": "B866V2F"
+  }
+ ],
  "PYUR TV BOX": [
   {
    "brand": "PYUR",
@@ -172665,6 +172766,13 @@
   {
    "brand": "Plimpton",
    "device": "Kids20",
+   "model": "Kids20"
+  }
+ ],
+ "Kids20A14": [
+  {
+   "brand": "Plimpton",
+   "device": "Kids20A14",
    "model": "Kids20"
   }
  ],
@@ -183067,6 +183175,18 @@
    "brand": "Redmi",
    "device": "blue",
    "model": "2312CRNCCL"
+  }
+ ],
+ "Redmi A3x": [
+  {
+   "brand": "Redmi",
+   "device": "klein",
+   "model": "24048RN6CG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "klein",
+   "model": "24048RN6CI"
   }
  ],
  "Redmi K20": [
@@ -268303,6 +268423,13 @@
    "brand": "Zonda",
    "device": "AWM533",
    "model": "AWM533"
+  }
+ ],
+ "D105_EEA": [
+  {
+   "brand": "Zonko",
+   "device": "D105_EEA",
+   "model": "D105_EEA"
   }
  ],
  "D118": [
