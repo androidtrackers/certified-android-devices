@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-27
+Last sync is 2024-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -845,9 +845,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aelion|i8|Aelion_i8|i8|
 |Aeon Communication (IN)|AE1020|AE1020|AE1020|
 |Aermoo|CM08|PT3_2|CM08|
+|Aermoo|CM10|PT1E_2|CM10|
+|Aermoo|CM20|PT2_1|CM20|
 |Aermoo|DF10|M22PE|DF10|
 |Aermoo|DF10 Pro|M22G_2|DF10 Pro|
 |Aermoo|PF10|M23HE_2|PF10|
+|Aermoo|PF10 Pro|M23HT_2|PF10 Pro|
 |Aermoo|PF20|ZN133SE|PF 20|
 |Aermoo|PF20 Pro|ZN133TE|PF20 Pro|
 |Aermoo|RG Mini|ZN137E|RG Mini|
@@ -1174,6 +1177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X2 Soul Style|X2_Soul_Style|X2_Soul_Style_TM|
 |AllView|X2 Soul Style+|X2_Soul_Style_Plus|X2_Soul_Style_Plus|
 |AllView|X2 Soul Xtreme|X2_Soul_Xtreme|X2_Soul_Xtreme|
+|AllView|X20_Soul_EEA|X20_Soul|X20_Soul|
 |AllView|X3 Soul Lite|X3_Soul_Lite|X3_Soul_Lite|
 |AllView|X3 Soul Lite|X3_Soul_Lite|X3_Soul_Lite_TM|
 |AllView|X3 Soul Plus|X3_Soul_PLUS|X3_Soul_PLUS|
@@ -6988,13 +6992,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Smini|ZN137|Smini|
 |Doogee|T10|P1|T10|
 |Doogee|T10|P1_2|T10|
+|Doogee|T10 Pro|P1S_2|T10Pro|
 |Doogee|T10E|P4|T10E|
 |Doogee|T10Plus|P1T|T10Plus|
 |Doogee|T10Pro|P1_2|T10Pro|
 |Doogee|T10S|P1D|T10S|
 |Doogee|T10SE|P4|T10E|
+|Doogee|T10W|P1TC|T10W|
 |Doogee|T20|P2|T20|
 |Doogee|T20|P2_2|T20|
+|Doogee|T20 Pro|P2TE|T20 Pro|
 |Doogee|T20Mini|P3Mini|T20Mini|
 |Doogee|T20Mini Pro|P3MiniS|T20Mini Pro|
 |Doogee|T20S|P2D|T20S|
@@ -7017,9 +7024,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|U8 Kid|RK3KID|U8 Kid|
 |Doogee|U9|RK2|U9|
 |Doogee|U9 Kid|RK2KID|U9 Kid|
+|Doogee|U9Pro|T1|U9 Pro|
 |Doogee|V MAX|M23H|V Max|
 |Doogee|V Max|M23H|V Max|
 |Doogee|V Max|M23HR|V Max|
+|Doogee|V Max Plus|M23HT|V Max Plus|
 |Doogee|V Max Pro|M23HC|V Max Pro|
 |Doogee|V10|V10|V10|
 |Doogee|V10|V10|V11|
@@ -7088,9 +7097,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|shoot 2|t591_dga57_we|Shoot_2|
 |Doopro|C1|C1|C1|
 |Doopro|C1_Pro|C1_Pro|C1_Pro|
+|Doopro|G10|T1_2|G10|
 |Doopro|G11|P4_2|G11|
 |Doopro|G20|P1TE|G20|
 |Doopro|G8|RK3_2|G8|
+|Doopro|G8 Kid|RK3KID_2|G8 Kid|
 |Doopro|P1|P1|P1|
 |Doopro|P1_Pro|P1_Pro|P1_Pro|
 |Doopro|P2|br6580_weg_n|P2|
@@ -24209,8 +24220,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro 5G|OP561F|PHV110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
-|Oppo|OPPO Reno12|OP5A29L1|PJV110|
-|Oppo|OPPO Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
@@ -24423,6 +24432,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno11|OP59EDL1|PJH110|
 |Oppo|Reno11 F 5G|OP5A0BL1|CPH2603|
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
+|Oppo|Reno12|OP5A29L1|PJV110|
+|Oppo|Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -27289,6 +27300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi A3|blue|23129RN51H|
 |Redmi|Redmi A3|blue|23129RN51X|
 |Redmi|Redmi A3|blue|2312CRNCCL|
+|Redmi|Redmi A3x|klein|24044RN32L|
 |Redmi|Redmi A3x|klein|24048RN6CG|
 |Redmi|Redmi A3x|klein|24048RN6CI|
 |Redmi|Redmi K20|davinci|Mi 9T|
@@ -33176,6 +33188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|STAR-X 2K SMART TV|nagata|STAR-X 2K SMART TV|
 |Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
 |StarBoard|Starboard Solution Inc|TE_YL|TE_YL|
+|StarBoard|TE_QS|TE_QS|TE_QS|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|
 |StarHub|StarHub TV+ Pro|m393vsb_starhub|SCSH900AT|
@@ -38384,6 +38397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y55t|PD2279|V2279A|
 |Vivo|Y56 5G|V2225|V2225|
 |Vivo|Y56 5G|V2225|V2311|
+|Vivo|Y58 5G|V2355|V2355|
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
@@ -38432,6 +38446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo9S Pro|PD2339|V2339FA|
 |Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
+|Vivo|iQOO Pad2|DPD2345|iPA2453|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|
@@ -38525,6 +38540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo Pad Air|DPD2305|PA2353|
 |Vivo|vivo Pad2|DPD2221|PA2373|
+|Vivo|vivo Pad3|DPD2345|PA2455|
 |Vivo|vivo Pad3 Pro|DPD2329|PA2473|
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
@@ -43112,6 +43128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Starr 100|V406018|V406018|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
+|weelikeit|C19W|C19W|C19W|
 |weelikeit|C72W|C72W|C72W|
 |weelikeit|C72W_EEA|C72W_EEA|C72W_EEA|
 |weelikeit|C74W_EEA|C74W_EEA|C74W_EEA|

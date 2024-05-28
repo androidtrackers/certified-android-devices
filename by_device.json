@@ -7729,6 +7729,11 @@
    "model": "AYYA T1"
   },
   {
+   "brand": "Doogee",
+   "name": "U9Pro",
+   "model": "U9 Pro"
+  },
+  {
    "brand": "IkuMobile",
    "name": "T1",
    "model": "iKU T1"
@@ -13153,6 +13158,20 @@
    "model": "CM08"
   }
  ],
+ "PT1E_2": [
+  {
+   "brand": "Aermoo",
+   "name": "CM10",
+   "model": "CM10"
+  }
+ ],
+ "PT2_1": [
+  {
+   "brand": "Aermoo",
+   "name": "CM20",
+   "model": "CM20"
+  }
+ ],
  "M22PE": [
   {
    "brand": "Aermoo",
@@ -13172,6 +13191,13 @@
    "brand": "Aermoo",
    "name": "PF10",
    "model": "PF10"
+  }
+ ],
+ "M23HT_2": [
+  {
+   "brand": "Aermoo",
+   "name": "PF10 Pro",
+   "model": "PF10 Pro"
   }
  ],
  "ZN133SE": [
@@ -16579,6 +16605,13 @@
    "brand": "AllView",
    "name": "X2 Soul Xtreme",
    "model": "X2_Soul_Xtreme"
+  }
+ ],
+ "X20_Soul": [
+  {
+   "brand": "AllView",
+   "name": "X20_Soul_EEA",
+   "model": "X20_Soul"
   }
  ],
  "X3_Soul_Lite": [
@@ -33542,6 +33575,11 @@
    "brand": "Blackshark",
    "name": "KLE-H0",
    "model": "SHARK KLE-H0"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A3x",
+   "model": "24044RN32L"
   },
   {
    "brand": "Redmi",
@@ -59323,6 +59361,13 @@
    "model": "T10Pro"
   }
  ],
+ "P1S_2": [
+  {
+   "brand": "Doogee",
+   "name": "T10 Pro",
+   "model": "T10Pro"
+  }
+ ],
  "P4": [
   {
    "brand": "Doogee",
@@ -59369,11 +59414,25 @@
    "model": "T10S"
   }
  ],
+ "P1TC": [
+  {
+   "brand": "Doogee",
+   "name": "T10W",
+   "model": "T10W"
+  }
+ ],
  "P2_2": [
   {
    "brand": "Doogee",
    "name": "T20",
    "model": "T20"
+  }
+ ],
+ "P2TE": [
+  {
+   "brand": "Doogee",
+   "name": "T20 Pro",
+   "model": "T20 Pro"
   }
  ],
  "P3Mini": [
@@ -59558,6 +59617,13 @@
    "brand": "Doogee",
    "name": "V Max",
    "model": "V Max"
+  }
+ ],
+ "M23HT": [
+  {
+   "brand": "Doogee",
+   "name": "V Max Plus",
+   "model": "V Max Plus"
   }
  ],
  "M23HC": [
@@ -60048,6 +60114,13 @@
    "model": "C1_Pro"
   }
  ],
+ "T1_2": [
+  {
+   "brand": "Doopro",
+   "name": "G10",
+   "model": "G10"
+  }
+ ],
  "P4_2": [
   {
    "brand": "Doopro",
@@ -60067,6 +60140,13 @@
    "brand": "Doopro",
    "name": "G8",
    "model": "G8"
+  }
+ ],
+ "RK3KID_2": [
+  {
+   "brand": "Doopro",
+   "name": "G8 Kid",
+   "model": "G8 Kid"
   }
  ],
  "P1_Pro": [
@@ -164440,20 +164520,6 @@
    "model": "PHU110"
   }
  ],
- "OP5A29L1": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno12",
-   "model": "PJV110"
-  }
- ],
- "OP5A2BL1": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno12 Pro",
-   "model": "PJW110"
-  }
- ],
  "OP4F2BL1": [
   {
    "brand": "Oppo",
@@ -165638,6 +165704,20 @@
    "brand": "Oppo",
    "name": "Reno11 Pro",
    "model": "PJJ110"
+  }
+ ],
+ "OP5A29L1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12",
+   "model": "PJV110"
+  }
+ ],
+ "OP5A2BL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12 Pro",
+   "model": "PJW110"
   }
  ],
  "OP4B65L1": [
@@ -219378,6 +219458,18 @@
    "model": "TE_YL"
   }
  ],
+ "TE_QS": [
+  {
+   "brand": "StarBoard",
+   "name": "TE_QS",
+   "model": "TE_QS"
+  },
+  {
+   "brand": "iBoard",
+   "name": "IFPD",
+   "model": "TE_QS"
+  }
+ ],
  "NVSH800H1": [
   {
    "brand": "StarHub",
@@ -249076,6 +249168,13 @@
    "model": "vivo 1610"
   }
  ],
+ "V2355": [
+  {
+   "brand": "Vivo",
+   "name": "Y58 5G",
+   "model": "V2355"
+  }
+ ],
  "PD1621": [
   {
    "brand": "Vivo",
@@ -249382,6 +249481,18 @@
    "brand": "Vivo",
    "name": "vivo Pad Air",
    "model": "PA2353"
+  }
+ ],
+ "DPD2345": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Pad2",
+   "model": "iPA2453"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad3",
+   "model": "PA2455"
   }
  ],
  "2018": [
@@ -272300,13 +272411,6 @@
    "model": "iS1"
   }
  ],
- "TE_QS": [
-  {
-   "brand": "iBoard",
-   "name": "IFPD",
-   "model": "TE_QS"
-  }
- ],
  "iCare07": [
   {
    "brand": "iCare",
@@ -276075,6 +276179,13 @@
    "brand": "waiputv",
    "name": "waipu tv stick",
    "model": "waipu tv stick"
+  }
+ ],
+ "C19W": [
+  {
+   "brand": "weelikeit",
+   "name": "C19W",
+   "model": "C19W"
   }
  ],
  "C72W": [

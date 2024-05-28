@@ -14548,6 +14548,20 @@
    "model": "CM08"
   }
  ],
+ "CM10": [
+  {
+   "brand": "Aermoo",
+   "device": "PT1E_2",
+   "model": "CM10"
+  }
+ ],
+ "CM20": [
+  {
+   "brand": "Aermoo",
+   "device": "PT2_1",
+   "model": "CM20"
+  }
+ ],
  "DF10": [
   {
    "brand": "Aermoo",
@@ -14567,6 +14581,13 @@
    "brand": "Aermoo",
    "device": "M23HE_2",
    "model": "PF10"
+  }
+ ],
+ "PF10 Pro": [
+  {
+   "brand": "Aermoo",
+   "device": "M23HT_2",
+   "model": "PF10 Pro"
   }
  ],
  "PF20": [
@@ -16829,6 +16850,13 @@
    "brand": "AllView",
    "device": "X2_Soul_Xtreme",
    "model": "X2_Soul_Xtreme"
+  }
+ ],
+ "X20_Soul_EEA": [
+  {
+   "brand": "AllView",
+   "device": "X20_Soul",
+   "model": "X20_Soul"
   }
  ],
  "X3 Soul Lite": [
@@ -22526,6 +22554,11 @@
   {
    "brand": "DIALN",
    "device": "G10",
+   "model": "G10"
+  },
+  {
+   "brand": "Doopro",
+   "device": "T1_2",
    "model": "G10"
   },
   {
@@ -59778,6 +59811,13 @@
    "model": "Smini"
   }
  ],
+ "T10 Pro": [
+  {
+   "brand": "Doogee",
+   "device": "P1S_2",
+   "model": "T10Pro"
+  }
+ ],
  "T10E": [
   {
    "brand": "Doogee",
@@ -59804,6 +59844,23 @@
    "brand": "Doogee",
    "device": "P4",
    "model": "T10E"
+  }
+ ],
+ "T10W": [
+  {
+   "brand": "Doogee",
+   "device": "P1TC",
+   "model": "T10W"
+  },
+  {
+   "brand": "Logic Mobility",
+   "device": "T10W",
+   "model": "LOGIC T10W"
+  },
+  {
+   "brand": "iQual",
+   "device": "T10W",
+   "model": "T10W"
   }
  ],
  "T20": [
@@ -59851,6 +59908,13 @@
    "brand": "bontel",
    "device": "T20",
    "model": "T20"
+  }
+ ],
+ "T20 Pro": [
+  {
+   "brand": "Doogee",
+   "device": "P2TE",
+   "model": "T20 Pro"
   }
  ],
  "T20Mini": [
@@ -59989,6 +60053,13 @@
    "model": "U9 Kid"
   }
  ],
+ "U9Pro": [
+  {
+   "brand": "Doogee",
+   "device": "T1",
+   "model": "U9 Pro"
+  }
+ ],
  "V MAX": [
   {
    "brand": "Doogee",
@@ -60006,6 +60077,13 @@
    "brand": "Doogee",
    "device": "M23HR",
    "model": "V Max"
+  }
+ ],
+ "V Max Plus": [
+  {
+   "brand": "Doogee",
+   "device": "M23HT",
+   "model": "V Max Plus"
   }
  ],
  "V Max Pro": [
@@ -60717,6 +60795,13 @@
    "brand": "Hafury",
    "device": "G20",
    "model": "G20"
+  }
+ ],
+ "G8 Kid": [
+  {
+   "brand": "Doopro",
+   "device": "RK3KID_2",
+   "model": "G8 Kid"
   }
  ],
  "P1_Pro": [
@@ -135298,18 +135383,6 @@
    "model": "T10L"
   }
  ],
- "T10W": [
-  {
-   "brand": "Logic Mobility",
-   "device": "T10W",
-   "model": "LOGIC T10W"
-  },
-  {
-   "brand": "iQual",
-   "device": "T10W",
-   "model": "T10W"
-  }
- ],
  "T3G": [
   {
    "brand": "Logic Mobility",
@@ -163678,20 +163751,6 @@
    "model": "PHU110"
   }
  ],
- "OPPO Reno12": [
-  {
-   "brand": "Oppo",
-   "device": "OP5A29L1",
-   "model": "PJV110"
-  }
- ],
- "OPPO Reno12 Pro": [
-  {
-   "brand": "Oppo",
-   "device": "OP5A2BL1",
-   "model": "PJW110"
-  }
- ],
  "OPPO Reno5 A": [
   {
    "brand": "Oppo",
@@ -165052,6 +165111,20 @@
    "brand": "Oppo",
    "device": "OP59EFL1",
    "model": "PJJ110"
+  }
+ ],
+ "Reno12": [
+  {
+   "brand": "Oppo",
+   "device": "OP5A29L1",
+   "model": "PJV110"
+  }
+ ],
+ "Reno12 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP5A2BL1",
+   "model": "PJW110"
   }
  ],
  "Reno2 Z": [
@@ -183178,6 +183251,11 @@
   }
  ],
  "Redmi A3x": [
+  {
+   "brand": "Redmi",
+   "device": "klein",
+   "model": "24044RN32L"
+  },
   {
    "brand": "Redmi",
    "device": "klein",
@@ -216885,6 +216963,13 @@
    "model": "TE_YL"
   }
  ],
+ "TE_QS": [
+  {
+   "brand": "StarBoard",
+   "device": "TE_QS",
+   "model": "TE_QS"
+  }
+ ],
  "Android TV Set-Top Box": [
   {
    "brand": "StarHub",
@@ -247548,6 +247633,13 @@
    "model": "V2311"
   }
  ],
+ "Y58 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2355",
+   "model": "V2355"
+  }
+ ],
  "Y66": [
   {
    "brand": "Vivo",
@@ -247852,6 +247944,13 @@
    "brand": "Vivo",
    "device": "DPD2305",
    "model": "iPA2451"
+  }
+ ],
+ "iQOO Pad2": [
+  {
+   "brand": "Vivo",
+   "device": "DPD2345",
+   "model": "iPA2453"
   }
  ],
  "iQOO Z5": [
@@ -248481,6 +248580,13 @@
    "brand": "Vivo",
    "device": "DPD2221",
    "model": "PA2373"
+  }
+ ],
+ "vivo Pad3": [
+  {
+   "brand": "Vivo",
+   "device": "DPD2345",
+   "model": "PA2455"
   }
  ],
  "vivo Pad3 Pro": [
@@ -274729,6 +274835,13 @@
    "brand": "waiputv",
    "device": "SEI700WP",
    "model": "waipu tv stick"
+  }
+ ],
+ "C19W": [
+  {
+   "brand": "weelikeit",
+   "device": "C19W",
+   "model": "C19W"
   }
  ],
  "C72W": [

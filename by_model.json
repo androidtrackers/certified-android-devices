@@ -9499,6 +9499,20 @@
    "device": "PT3_2"
   }
  ],
+ "CM10": [
+  {
+   "brand": "Aermoo",
+   "name": "CM10",
+   "device": "PT1E_2"
+  }
+ ],
+ "CM20": [
+  {
+   "brand": "Aermoo",
+   "name": "CM20",
+   "device": "PT2_1"
+  }
+ ],
  "DF10": [
   {
    "brand": "Aermoo",
@@ -9518,6 +9532,13 @@
    "brand": "Aermoo",
    "name": "PF10",
    "device": "M23HE_2"
+  }
+ ],
+ "PF10 Pro": [
+  {
+   "brand": "Aermoo",
+   "name": "PF10 Pro",
+   "device": "M23HT_2"
   }
  ],
  "PF 20": [
@@ -12120,6 +12141,13 @@
    "brand": "AllView",
    "name": "X2 Soul Xtreme",
    "device": "X2_Soul_Xtreme"
+  }
+ ],
+ "X20_Soul": [
+  {
+   "brand": "AllView",
+   "name": "X20_Soul_EEA",
+   "device": "X20_Soul"
   }
  ],
  "X3_Soul_Lite": [
@@ -17845,6 +17873,11 @@
    "brand": "DIALN",
    "name": "G10",
    "device": "G10"
+  },
+  {
+   "brand": "Doopro",
+   "name": "G10",
+   "device": "T1_2"
   },
   {
    "brand": "iMuz",
@@ -53867,6 +53900,18 @@
    "device": "ZN137"
   }
  ],
+ "T10Pro": [
+  {
+   "brand": "Doogee",
+   "name": "T10 Pro",
+   "device": "P1S_2"
+  },
+  {
+   "brand": "Doogee",
+   "name": "T10Pro",
+   "device": "P1_2"
+  }
+ ],
  "T10E": [
   {
    "brand": "Doogee",
@@ -53886,11 +53931,16 @@
    "device": "P1T"
   }
  ],
- "T10Pro": [
+ "T10W": [
   {
    "brand": "Doogee",
-   "name": "T10Pro",
-   "device": "P1_2"
+   "name": "T10W",
+   "device": "P1TC"
+  },
+  {
+   "brand": "iQual",
+   "name": "T10W",
+   "device": "T10W"
   }
  ],
  "T20": [
@@ -53933,6 +53983,13 @@
    "brand": "bontel",
    "name": "T20",
    "device": "T20"
+  }
+ ],
+ "T20 Pro": [
+  {
+   "brand": "Doogee",
+   "name": "T20 Pro",
+   "device": "P2TE"
   }
  ],
  "T20Mini": [
@@ -54073,6 +54130,13 @@
    "device": "RK2KID"
   }
  ],
+ "U9 Pro": [
+  {
+   "brand": "Doogee",
+   "name": "U9Pro",
+   "device": "T1"
+  }
+ ],
  "V Max": [
   {
    "brand": "Doogee",
@@ -54088,6 +54152,13 @@
    "brand": "Doogee",
    "name": "V Max",
    "device": "M23HR"
+  }
+ ],
+ "V Max Plus": [
+  {
+   "brand": "Doogee",
+   "name": "V Max Plus",
+   "device": "M23HT"
   }
  ],
  "V Max Pro": [
@@ -54591,6 +54662,13 @@
    "brand": "Hafury",
    "name": "G20",
    "device": "G20"
+  }
+ ],
+ "G8 Kid": [
+  {
+   "brand": "Doopro",
+   "name": "G8 Kid",
+   "device": "RK3KID_2"
   }
  ],
  "P1_Pro": [
@@ -166651,20 +166729,6 @@
    "device": "OP564B"
   }
  ],
- "PJV110": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno12",
-   "device": "OP5A29L1"
-  }
- ],
- "PJW110": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno12 Pro",
-   "device": "OP5A2BL1"
-  }
- ],
  "A101OP": [
   {
    "brand": "Oppo",
@@ -168070,6 +168134,20 @@
    "brand": "Oppo",
    "name": "Reno11 Pro",
    "device": "OP59EFL1"
+  }
+ ],
+ "PJV110": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12",
+   "device": "OP5A29L1"
+  }
+ ],
+ "PJW110": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12 Pro",
+   "device": "OP5A2BL1"
   }
  ],
  "CPH1945": [
@@ -186294,6 +186372,13 @@
    "brand": "Redmi",
    "name": "Redmi A3",
    "device": "blue"
+  }
+ ],
+ "24044RN32L": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi A3x",
+   "device": "klein"
   }
  ],
  "24048RN6CG": [
@@ -225379,6 +225464,18 @@
    "device": "TE_YL"
   }
  ],
+ "TE_QS": [
+  {
+   "brand": "StarBoard",
+   "name": "TE_QS",
+   "device": "TE_QS"
+  },
+  {
+   "brand": "iBoard",
+   "name": "IFPD",
+   "device": "TE_QS"
+  }
+ ],
  "NVSH800H1": [
   {
    "brand": "StarHub",
@@ -258702,6 +258799,13 @@
    "device": "V2225"
   }
  ],
+ "V2355": [
+  {
+   "brand": "Vivo",
+   "name": "Y58 5G",
+   "device": "V2355"
+  }
+ ],
  "vivo Y66": [
   {
    "brand": "Vivo",
@@ -258998,6 +259102,13 @@
    "brand": "Vivo",
    "name": "iQOO Pad Air",
    "device": "DPD2305"
+  }
+ ],
+ "iPA2453": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Pad2",
+   "device": "DPD2345"
   }
  ],
  "I2018": [
@@ -259600,6 +259711,13 @@
    "brand": "Vivo",
    "name": "vivo Pad2",
    "device": "DPD2221"
+  }
+ ],
+ "PA2455": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad3",
+   "device": "DPD2345"
   }
  ],
  "PA2473": [
@@ -284367,13 +284485,6 @@
    "device": "iS1"
   }
  ],
- "TE_QS": [
-  {
-   "brand": "iBoard",
-   "name": "IFPD",
-   "device": "TE_QS"
-  }
- ],
  "iCare07": [
   {
    "brand": "iCare",
@@ -285547,13 +285658,6 @@
    "brand": "iQual",
    "name": "T10G",
    "device": "T10G"
-  }
- ],
- "T10W": [
-  {
-   "brand": "iQual",
-   "name": "T10W",
-   "device": "T10W"
   }
  ],
  "T10W2": [
@@ -288321,6 +288425,13 @@
    "brand": "waiputv",
    "name": "waipu tv stick",
    "device": "SEI700WP"
+  }
+ ],
+ "C19W": [
+  {
+   "brand": "weelikeit",
+   "name": "C19W",
+   "device": "C19W"
   }
  ],
  "C72W": [

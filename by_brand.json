@@ -4445,6 +4445,16 @@
    "model": "CM08"
   },
   {
+   "device": "PT1E_2",
+   "name": "CM10",
+   "model": "CM10"
+  },
+  {
+   "device": "PT2_1",
+   "name": "CM20",
+   "model": "CM20"
+  },
+  {
    "device": "M22PE",
    "name": "DF10",
    "model": "DF10"
@@ -4458,6 +4468,11 @@
    "device": "M23HE_2",
    "name": "PF10",
    "model": "PF10"
+  },
+  {
+   "device": "M23HT_2",
+   "name": "PF10 Pro",
+   "model": "PF10 Pro"
   },
   {
    "device": "ZN133SE",
@@ -6140,6 +6155,11 @@
    "device": "X2_Soul_Xtreme",
    "name": "X2 Soul Xtreme",
    "model": "X2_Soul_Xtreme"
+  },
+  {
+   "device": "X20_Soul",
+   "name": "X20_Soul_EEA",
+   "model": "X20_Soul"
   },
   {
    "device": "X3_Soul_Lite",
@@ -36180,6 +36200,11 @@
    "model": "T10"
   },
   {
+   "device": "P1S_2",
+   "name": "T10 Pro",
+   "model": "T10Pro"
+  },
+  {
    "device": "P4",
    "name": "T10E",
    "model": "T10E"
@@ -36205,6 +36230,11 @@
    "model": "T10E"
   },
   {
+   "device": "P1TC",
+   "name": "T10W",
+   "model": "T10W"
+  },
+  {
    "device": "P2",
    "name": "T20",
    "model": "T20"
@@ -36213,6 +36243,11 @@
    "device": "P2_2",
    "name": "T20",
    "model": "T20"
+  },
+  {
+   "device": "P2TE",
+   "name": "T20 Pro",
+   "model": "T20 Pro"
   },
   {
    "device": "P3Mini",
@@ -36325,6 +36360,11 @@
    "model": "U9 Kid"
   },
   {
+   "device": "T1",
+   "name": "U9Pro",
+   "model": "U9 Pro"
+  },
+  {
    "device": "M23H",
    "name": "V MAX",
    "model": "V Max"
@@ -36338,6 +36378,11 @@
    "device": "M23HR",
    "name": "V Max",
    "model": "V Max"
+  },
+  {
+   "device": "M23HT",
+   "name": "V Max Plus",
+   "model": "V Max Plus"
   },
   {
    "device": "M23HC",
@@ -36682,6 +36727,11 @@
    "model": "C1_Pro"
   },
   {
+   "device": "T1_2",
+   "name": "G10",
+   "model": "G10"
+  },
+  {
    "device": "P4_2",
    "name": "G11",
    "model": "G11"
@@ -36695,6 +36745,11 @@
    "device": "RK3_2",
    "name": "G8",
    "model": "G8"
+  },
+  {
+   "device": "RK3KID_2",
+   "name": "G8 Kid",
+   "model": "G8 Kid"
   },
   {
    "device": "P1",
@@ -124573,16 +124628,6 @@
    "model": "PHU110"
   },
   {
-   "device": "OP5A29L1",
-   "name": "OPPO Reno12",
-   "model": "PJV110"
-  },
-  {
-   "device": "OP5A2BL1",
-   "name": "OPPO Reno12 Pro",
-   "model": "PJW110"
-  },
-  {
    "device": "OP4F2BL1",
    "name": "OPPO Reno5 A",
    "model": "A101OP"
@@ -125641,6 +125686,16 @@
    "device": "OP59EFL1",
    "name": "Reno11 Pro",
    "model": "PJJ110"
+  },
+  {
+   "device": "OP5A29L1",
+   "name": "Reno12",
+   "model": "PJV110"
+  },
+  {
+   "device": "OP5A2BL1",
+   "name": "Reno12 Pro",
+   "model": "PJW110"
   },
   {
    "device": "OP4B65L1",
@@ -140403,6 +140458,11 @@
    "device": "blue",
    "name": "Redmi A3",
    "model": "2312CRNCCL"
+  },
+  {
+   "device": "klein",
+   "name": "Redmi A3x",
+   "model": "24044RN32L"
   },
   {
    "device": "klein",
@@ -170318,6 +170378,11 @@
    "device": "TE_YL",
    "name": "Starboard Solution Inc",
    "model": "TE_YL"
+  },
+  {
+   "device": "TE_QS",
+   "name": "TE_QS",
+   "model": "TE_QS"
   }
  ],
  "StarHub": [
@@ -197120,6 +197185,11 @@
    "model": "V2311"
   },
   {
+   "device": "V2355",
+   "name": "Y58 5G",
+   "model": "V2355"
+  },
+  {
    "device": "PD1621",
    "name": "Y66",
    "model": "vivo Y66"
@@ -197358,6 +197428,11 @@
    "device": "DPD2305",
    "name": "iQOO Pad Air",
    "model": "iPA2451"
+  },
+  {
+   "device": "DPD2345",
+   "name": "iQOO Pad2",
+   "model": "iPA2453"
   },
   {
    "device": "2018",
@@ -197823,6 +197898,11 @@
    "device": "DPD2221",
    "name": "vivo Pad2",
    "model": "PA2373"
+  },
+  {
+   "device": "DPD2345",
+   "name": "vivo Pad3",
+   "model": "PA2455"
   },
   {
    "device": "DPD2329",
@@ -221463,6 +221543,11 @@
   }
  ],
  "weelikeit": [
+  {
+   "device": "C19W",
+   "name": "C19W",
+   "model": "C19W"
+  },
   {
    "device": "C72W",
    "name": "C72W",
