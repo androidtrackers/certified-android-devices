@@ -605,6 +605,13 @@
    "model": "TANK2"
   }
  ],
+ "TANK2PRO": [
+  {
+   "brand": "8849",
+   "name": "TANK2pro",
+   "model": "TANK 2 PRO"
+  }
+ ],
  "TANK3": [
   {
    "brand": "8849",
@@ -4210,6 +4217,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "POCO",
+   "name": "POCO X5 Pro 5G",
+   "model": "22101320G"
+  },
+  {
    "brand": "Polaroid",
    "name": "G5N",
    "model": "AI PONT"
@@ -6963,6 +6975,13 @@
    "model": "NEO"
   }
  ],
+ "VegaPro": [
+  {
+   "brand": "ASTREX",
+   "name": "VegaPro",
+   "model": "VegaPro"
+  }
+ ],
  "tint8_att": [
   {
    "brand": "AT&T",
@@ -7727,6 +7746,11 @@
    "brand": "AYYA",
    "name": "T1",
    "model": "AYYA T1"
+  },
+  {
+   "brand": "Doogee",
+   "name": "T10W",
+   "model": "T10W"
   },
   {
    "brand": "Doogee",
@@ -14418,6 +14442,13 @@
    "model": "JA3-TBA1007"
   }
  ],
+ "JA4-TBA1008": [
+  {
+   "brand": "Aiwa",
+   "name": "JA4-TBA1008",
+   "model": "JA4-TBA1008"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -15826,6 +15857,11 @@
    "brand": "AllView",
    "name": "P10 Pro",
    "model": "P10_Pro"
+  },
+  {
+   "brand": "HAOVM",
+   "name": "P10_Pro",
+   "model": "P10_Pro"
   }
  ],
  "P10_Style": [
@@ -16546,6 +16582,13 @@
    "brand": "AllView",
    "name": "Viva i7G",
    "model": "Viva_i7G"
+  }
+ ],
+ "X10_Soul": [
+  {
+   "brand": "AllView",
+   "name": "X10_Soul_EEA",
+   "model": "X10_Soul"
   }
  ],
  "X10_Soul_Lite": [
@@ -34380,6 +34423,13 @@
    "model": "BV8000Pro_RU"
   }
  ],
+ "BV8100": [
+  {
+   "brand": "Blackview",
+   "name": "BV8100",
+   "model": "BV8100"
+  }
+ ],
  "BV8800": [
   {
    "brand": "Blackview",
@@ -34992,6 +35042,13 @@
    "brand": "Blackview",
    "name": "Tab 80",
    "model": "Tab 80"
+  }
+ ],
+ "Tab_80_Kids": [
+  {
+   "brand": "Blackview",
+   "name": "Tab 80 Kids",
+   "model": "Tab 80 Kids"
   }
  ],
  "Tab_9_WiFi": [
@@ -41022,6 +41079,18 @@
    "model": "C3_Pro"
   }
  ],
+ "C5_EEA": [
+  {
+   "brand": "COLORROOM",
+   "name": "C5_EEA",
+   "model": "C5"
+  },
+  {
+   "brand": "COLORROOM",
+   "name": "C5_EEA",
+   "model": "C5_EEA"
+  }
+ ],
  "K12": [
   {
    "brand": "COLORROOM",
@@ -45323,6 +45392,20 @@
    "brand": "Cidea",
    "name": "P1150",
    "model": "P1150"
+  }
+ ],
+ "P1300": [
+  {
+   "brand": "Cidea",
+   "name": "P1300",
+   "model": "P1300"
+  }
+ ],
+ "P1350": [
+  {
+   "brand": "Cidea",
+   "name": "P1350",
+   "model": "P1350"
   }
  ],
  "CIGSEI100": [
@@ -54863,6 +54946,13 @@
    "model": "DBOD02"
   }
  ],
+ "DBPADGO1": [
+  {
+   "brand": "Dangbei",
+   "name": "DBPADGO1",
+   "model": "DBPADGO1"
+  }
+ ],
  "MAXX_05": [
   {
    "brand": "Dany",
@@ -58778,6 +58868,23 @@
    "model": "N55"
   }
  ],
+ "1928P": [
+  {
+   "brand": "Doogee",
+   "name": "N55 Pro",
+   "model": "N55 Pro"
+  },
+  {
+   "brand": "Doogee",
+   "name": "N56 Plus",
+   "model": "N55 Pro"
+  },
+  {
+   "brand": "Doogee",
+   "name": "N56 Plus",
+   "model": "N56 Plus"
+  }
+ ],
  "1928E": [
   {
    "brand": "Doogee",
@@ -58790,18 +58897,6 @@
    "brand": "Doogee",
    "name": "N56 Max",
    "model": "N56 Max"
-  }
- ],
- "1928P": [
-  {
-   "brand": "Doogee",
-   "name": "N56 Plus",
-   "model": "N55 Pro"
-  },
-  {
-   "brand": "Doogee",
-   "name": "N56 Plus",
-   "model": "N56 Plus"
   }
  ],
  "1928T": [
@@ -58894,6 +58989,13 @@
    "brand": "Doogee",
    "name": "S110",
    "model": "S110"
+  }
+ ],
+ "M22C": [
+  {
+   "brand": "Doogee",
+   "name": "S120",
+   "model": "S punk"
   }
  ],
  "S35": [
@@ -59489,6 +59591,13 @@
    "brand": "Doogee",
    "name": "T30 SE",
    "model": "T30 SE"
+  }
+ ],
+ "P3G": [
+  {
+   "brand": "Doogee",
+   "name": "T30E",
+   "model": "T30E"
   }
  ],
  "P3Pro": [
@@ -63720,6 +63829,13 @@
    "model": "EID-1400"
   }
  ],
+ "EID_1061": [
+  {
+   "brand": "Emerson",
+   "name": "EID_1061",
+   "model": "EID-1061"
+  }
+ ],
  "EM749_748": [
   {
    "brand": "Emerson",
@@ -66666,6 +66782,18 @@
    "model": "X-ONE"
   }
  ],
+ "D105_EEA": [
+  {
+   "brand": "FEONAL",
+   "name": "D105_EEA",
+   "model": "D105_EEA"
+  },
+  {
+   "brand": "Zonko",
+   "name": "D105_EEA",
+   "model": "D105_EEA"
+  }
+ ],
  "D118_EEA": [
   {
    "brand": "FEONAL",
@@ -66962,6 +67090,13 @@
    "brand": "FMC",
    "name": "Digital Experience",
    "model": "SYNC"
+  }
+ ],
+ "FOLG_Tab_10s": [
+  {
+   "brand": "FOLG",
+   "name": "FOLG_Tab_10s",
+   "model": "S20"
   }
  ],
  "KS20": [
@@ -68003,6 +68138,18 @@
    "brand": "FirstNationalBank",
    "name": "FNB",
    "model": "SP5045V"
+  }
+ ],
+ "p11": [
+  {
+   "brand": "Fitbit",
+   "name": "Fitbit Ace LTE",
+   "model": "Fitbit Ace LTE"
+  },
+  {
+   "brand": "Fitbit",
+   "name": "Fitbit Ace LTE",
+   "model": "P11"
   }
  ],
  "Ivory": [
@@ -77450,6 +77597,13 @@
    "model": "DS-MDT301"
   }
  ],
+ "P80-EEA": [
+  {
+   "brand": "HISORL",
+   "name": "P80-EEA",
+   "model": "P80"
+  }
+ ],
  "P80-ROW": [
   {
    "brand": "HISORL",
@@ -77617,6 +77771,13 @@
    "brand": "HOLO",
    "name": "VE0319",
    "model": "VE0319"
+  }
+ ],
+ "XULTRA2": [
+  {
+   "brand": "HOLO",
+   "name": "XULTRA2",
+   "model": "XULTRA2"
   }
  ],
  "XULTRAPLUS": [
@@ -113067,6 +113228,13 @@
    "model": "Black"
   }
  ],
+ "Black_1": [
+  {
+   "brand": "Kalley",
+   "name": "Black 1",
+   "model": "Black 1"
+  }
+ ],
  "Black_G": [
   {
    "brand": "Kalley",
@@ -115138,6 +115306,13 @@
    "brand": "Kogan",
    "name": "Agora 6 Plus",
    "model": "Kogan Agora 6Plus"
+  }
+ ],
+ "KATB10128WPA": [
+  {
+   "brand": "Kogan",
+   "name": "KATB10128WPA",
+   "model": "KATB10128WPA"
   }
  ],
  "KATB1064WGRY": [
@@ -146782,6 +146957,11 @@
   },
   {
    "brand": "Mobiwire",
+   "name": "Celtiis Smart 1",
+   "model": "Smart 1"
+  },
+  {
+   "brand": "Mobiwire",
    "name": "Kicka 5 Plus 4G",
    "model": "Kicka 5 Plus 4G"
   },
@@ -160608,6 +160788,13 @@
    "model": "C70"
   }
  ],
+ "ELITE_1": [
+  {
+   "brand": "OSCAL",
+   "name": "ELITE 1",
+   "model": "ELITE 1"
+  }
+ ],
  "FLAT1C": [
   {
    "brand": "OSCAL",
@@ -160620,6 +160807,13 @@
    "brand": "OSCAL",
    "name": "MODERN 8",
    "model": "MODERN 8"
+  }
+ ],
+ "PILOT_2": [
+  {
+   "brand": "OSCAL",
+   "name": "PILOT 2",
+   "model": "PILOT 2"
   }
  ],
  "Pad15": [
@@ -160655,6 +160849,20 @@
    "brand": "OSCAL",
    "name": "Pad 18",
    "model": "Pad 18"
+  }
+ ],
+ "Pad_5": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad 5",
+   "model": "Pad 5"
+  }
+ ],
+ "Pad_5_Kids": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad 5 Kids",
+   "model": "Pad 5 Kids"
   }
  ],
  "Pad_7": [
@@ -162644,11 +162852,55 @@
    "model": "CPH1837"
   }
  ],
+ "OP5B05L1": [
+  {
+   "brand": "Oppo",
+   "name": "A3 5G",
+   "model": "A402OP"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3 Pro 5G",
+   "model": "CPH2667"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3 Pro/A3/A80 5G",
+   "model": "CPH2639"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A80 5G",
+   "model": "CPH2639"
+  },
+  {
+   "brand": "Oppo",
+   "name": "K12x 5G",
+   "model": "CPH2665"
+  }
+ ],
  "OP59FB": [
   {
    "brand": "Oppo",
    "name": "A3 Pro 5G",
    "model": "PJY110"
+  }
+ ],
+ "OP5A47": [
+  {
+   "brand": "Oppo",
+   "name": "A3 energy 5G",
+   "model": "PKD110"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3m 5G",
+   "model": "PKD120"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3x 5G",
+   "model": "PKD130"
   }
  ],
  "A31c": [
@@ -164019,7 +164271,17 @@
   },
   {
    "brand": "Oppo",
+   "name": "Reno11 A",
+   "model": "A401OP"
+  },
+  {
+   "brand": "Oppo",
    "name": "Reno11 F 5G",
+   "model": "CPH2603"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno11 F 5G/Reno11 A",
    "model": "CPH2603"
   }
  ],
@@ -167941,6 +168203,13 @@
    "model": "WP33 Pro"
   }
  ],
+ "WP35": [
+  {
+   "brand": "Oukitel",
+   "name": "WP35_EEA",
+   "model": "WP35"
+  }
+ ],
  "WP36": [
   {
    "brand": "Oukitel",
@@ -169254,6 +169523,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 11E Pro",
    "model": "2201116SC"
+  }
+ ],
+ "redwoodin": [
+  {
+   "brand": "POCO",
+   "name": "POCO X5 Pro 5G",
+   "model": "22101320I"
   }
  ],
  "garnet": [
@@ -173680,6 +173956,13 @@
   {
    "brand": "Plimpton",
    "name": "P70_14",
+   "model": "P70"
+  }
+ ],
+ "P70_14_EEA": [
+  {
+   "brand": "Plimpton",
+   "name": "P70_14_EEA",
    "model": "P70"
   }
  ],
@@ -178238,6 +178521,11 @@
   }
  ],
  "L10_T07": [
+  {
+   "brand": "Pritom",
+   "name": "L10_T07",
+   "model": "L10"
+  },
   {
    "brand": "Pritom",
    "name": "L10_T07_EEA",
@@ -242628,6 +242916,20 @@
    "model": "L10"
   }
  ],
+ "L10_A03_EEA": [
+  {
+   "brand": "VASOUN",
+   "name": "L10_A03_EEA",
+   "model": "L10"
+  }
+ ],
+ "L10_T08": [
+  {
+   "brand": "VASOUN",
+   "name": "L10_T08",
+   "model": "L10_T08"
+  }
+ ],
  "M7_EEA": [
   {
    "brand": "VASOUN",
@@ -248416,6 +248718,13 @@
    "brand": "Vivo",
    "name": "X Fold3 Pro",
    "model": "V2337A"
+  }
+ ],
+ "V2330": [
+  {
+   "brand": "Vivo",
+   "name": "X Fold3 Pro",
+   "model": "V2330"
   }
  ],
  "PD2309": [
@@ -270145,13 +270454,6 @@
    "model": "AWM533"
   }
  ],
- "D105_EEA": [
-  {
-   "brand": "Zonko",
-   "name": "D105_EEA",
-   "model": "D105_EEA"
-  }
- ],
  "D118": [
   {
    "brand": "Zonko",
@@ -270456,6 +270758,13 @@
    "brand": "Zuum",
    "name": "AURA Z",
    "model": "AURA_Z"
+  }
+ ],
+ "Aura_Z1": [
+  {
+   "brand": "Zuum",
+   "name": "AURA Z1",
+   "model": "AURA Z1"
   }
  ],
  "Aura_M1": [

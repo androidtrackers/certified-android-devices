@@ -277,6 +277,13 @@
    "device": "TANK2"
   }
  ],
+ "TANK 2 PRO": [
+  {
+   "brand": "8849",
+   "name": "TANK2pro",
+   "device": "TANK2PRO"
+  }
+ ],
  "TANK 3": [
   {
    "brand": "8849",
@@ -4738,6 +4745,13 @@
    "device": "NEO"
   }
  ],
+ "VegaPro": [
+  {
+   "brand": "ASTREX",
+   "name": "VegaPro",
+   "device": "VegaPro"
+  }
+ ],
  "9020A": [
   {
    "brand": "AT&T",
@@ -5634,6 +5648,11 @@
    "brand": "COLORROOM",
    "name": "C5",
    "device": "C5"
+  },
+  {
+   "brand": "COLORROOM",
+   "name": "C5_EEA",
+   "device": "C5_EEA"
   },
   {
    "brand": "CORN",
@@ -10217,6 +10236,13 @@
    "device": "JA3-TBA1007"
   }
  ],
+ "JA4-TBA1008": [
+  {
+   "brand": "Aiwa",
+   "name": "JA4-TBA1008",
+   "device": "JA4-TBA1008"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -11336,6 +11362,11 @@
    "brand": "AllView",
    "name": "P10 Pro",
    "device": "P10_Pro"
+  },
+  {
+   "brand": "HAOVM",
+   "name": "P10_Pro",
+   "device": "P10_Pro"
   }
  ],
  "P10_Style": [
@@ -12078,6 +12109,13 @@
    "brand": "AllView",
    "name": "Viva_H701_LTE",
    "device": "Viva_H701_LTE"
+  }
+ ],
+ "X10_Soul": [
+  {
+   "brand": "AllView",
+   "name": "X10_Soul_EEA",
+   "device": "X10_Soul"
   }
  ],
  "X10_Soul_Lite": [
@@ -13651,6 +13689,11 @@
    "brand": "Cubot",
    "name": "P80",
    "device": "P80"
+  },
+  {
+   "brand": "HISORL",
+   "name": "P80-EEA",
+   "device": "P80-EEA"
   },
   {
    "brand": "HISORL",
@@ -22657,6 +22700,11 @@
   },
   {
    "brand": "Pritom",
+   "name": "L10_T07",
+   "device": "L10_T07"
+  },
+  {
+   "brand": "Pritom",
    "name": "L10_T07_EEA",
    "device": "L10_T07"
   },
@@ -22689,6 +22737,11 @@
    "brand": "VASOUN",
    "name": "L10_A03",
    "device": "L10_A03"
+  },
+  {
+   "brand": "VASOUN",
+   "name": "L10_A03_EEA",
+   "device": "L10_A03_EEA"
   },
   {
    "brand": "VASOUN",
@@ -29375,6 +29428,13 @@
    "device": "BV8000Pro_RU"
   }
  ],
+ "BV8100": [
+  {
+   "brand": "Blackview",
+   "name": "BV8100",
+   "device": "BV8100"
+  }
+ ],
  "BV8800": [
   {
    "brand": "Blackview",
@@ -29982,6 +30042,13 @@
    "brand": "Blackview",
    "name": "Tab 80",
    "device": "Tab80_RU"
+  }
+ ],
+ "Tab 80 Kids": [
+  {
+   "brand": "Blackview",
+   "name": "Tab 80 Kids",
+   "device": "Tab_80_Kids"
   }
  ],
  "Tab 9 WiFi": [
@@ -34195,6 +34262,11 @@
    "device": "S20"
   },
   {
+   "brand": "FOLG",
+   "name": "FOLG_Tab_10s",
+   "device": "FOLG_Tab_10s"
+  },
+  {
    "brand": "G-Tab",
    "name": "S20",
    "device": "S20"
@@ -36239,6 +36311,13 @@
    "brand": "COLORROOM",
    "name": "C3_Pro_ROW",
    "device": "C3_Pro_ROW"
+  }
+ ],
+ "C5_EEA": [
+  {
+   "brand": "COLORROOM",
+   "name": "C5_EEA",
+   "device": "C5_EEA"
   }
  ],
  "K12": [
@@ -40410,6 +40489,20 @@
    "brand": "Cidea",
    "name": "P1150",
    "device": "P1150"
+  }
+ ],
+ "P1300": [
+  {
+   "brand": "Cidea",
+   "name": "P1300",
+   "device": "P1300"
+  }
+ ],
+ "P1350": [
+  {
+   "brand": "Cidea",
+   "name": "P1350",
+   "device": "P1350"
   }
  ],
  "CIGSEI100": [
@@ -47946,6 +48039,11 @@
    "device": "P11"
   },
   {
+   "brand": "Fitbit",
+   "name": "Fitbit Ace LTE",
+   "device": "p11"
+  },
+  {
    "brand": "Haier",
    "name": "Power P11",
    "device": "P11"
@@ -49640,6 +49738,13 @@
    "brand": "Dangbei",
    "name": "DBOD02",
    "device": "himalaya"
+  }
+ ],
+ "DBPADGO1": [
+  {
+   "brand": "Dangbei",
+   "name": "DBPADGO1",
+   "device": "DBPADGO1"
   }
  ],
  "MAXX_05": [
@@ -53451,6 +53556,18 @@
    "device": "1928"
   }
  ],
+ "N55 Pro": [
+  {
+   "brand": "Doogee",
+   "name": "N55 Pro",
+   "device": "1928P"
+  },
+  {
+   "brand": "Doogee",
+   "name": "N56 Plus",
+   "device": "1928P"
+  }
+ ],
  "N56": [
   {
    "brand": "Doogee",
@@ -53463,13 +53580,6 @@
    "brand": "Doogee",
    "name": "N56 Max",
    "device": "1928N"
-  }
- ],
- "N55 Pro": [
-  {
-   "brand": "Doogee",
-   "name": "N56 Plus",
-   "device": "1928P"
   }
  ],
  "N56 Plus": [
@@ -53574,6 +53684,13 @@
    "brand": "Doogee",
    "name": "S108",
    "device": "M22G"
+  }
+ ],
+ "S punk": [
+  {
+   "brand": "Doogee",
+   "name": "S120",
+   "device": "M22C"
   }
  ],
  "S35": [
@@ -53938,6 +54055,11 @@
    "device": "P1TC"
   },
   {
+   "brand": "Doogee",
+   "name": "T10W",
+   "device": "T1"
+  },
+  {
    "brand": "iQual",
    "name": "T10W",
    "device": "T10W"
@@ -54046,6 +54168,13 @@
    "brand": "Doogee",
    "name": "T30 SE",
    "device": "P3C"
+  }
+ ],
+ "T30E": [
+  {
+   "brand": "Doogee",
+   "name": "T30E",
+   "device": "P3G"
   }
  ],
  "T30Pro": [
@@ -58650,6 +58779,13 @@
    "device": "EID-1400"
   }
  ],
+ "EID-1061": [
+  {
+   "brand": "Emerson",
+   "name": "EID_1061",
+   "device": "EID_1061"
+  }
+ ],
  "EM749_748": [
   {
    "brand": "Emerson",
@@ -61736,6 +61872,18 @@
    "device": "X-ONE"
   }
  ],
+ "D105_EEA": [
+  {
+   "brand": "FEONAL",
+   "name": "D105_EEA",
+   "device": "D105_EEA"
+  },
+  {
+   "brand": "Zonko",
+   "name": "D105_EEA",
+   "device": "D105_EEA"
+  }
+ ],
  "D118_EEA": [
   {
    "brand": "FEONAL",
@@ -63003,6 +63151,13 @@
    "brand": "FirstNationalBank",
    "name": "FNB",
    "device": "SP5045V"
+  }
+ ],
+ "Fitbit Ace LTE": [
+  {
+   "brand": "Fitbit",
+   "name": "Fitbit Ace LTE",
+   "device": "p11"
   }
  ],
  "Ivory": [
@@ -73212,6 +73367,13 @@
    "brand": "HOLO",
    "name": "VE0319",
    "device": "VE0319"
+  }
+ ],
+ "XULTRA2": [
+  {
+   "brand": "HOLO",
+   "name": "XULTRA2",
+   "device": "XULTRA2"
   }
  ],
  "XULTRAPLUS": [
@@ -112939,6 +113101,13 @@
    "device": "Black"
   }
  ],
+ "Black 1": [
+  {
+   "brand": "Kalley",
+   "name": "Black 1",
+   "device": "Black_1"
+  }
+ ],
  "Black G": [
   {
    "brand": "Kalley",
@@ -115182,6 +115351,13 @@
    "brand": "Kogan",
    "name": "Australia and New Zeeland",
    "device": "guandu"
+  }
+ ],
+ "KATB10128WPA": [
+  {
+   "brand": "Kogan",
+   "name": "KATB10128WPA",
+   "device": "KATB10128WPA"
   }
  ],
  "KATB1064WGRY": [
@@ -148151,6 +148327,13 @@
    "device": "H6681_Pro"
   }
  ],
+ "Smart 1": [
+  {
+   "brand": "Mobiwire",
+   "name": "Celtiis Smart 1",
+   "device": "H5032U"
+  }
+ ],
  "Chenoa": [
   {
    "brand": "Mobiwire",
@@ -162417,6 +162600,13 @@
    "device": "C70"
   }
  ],
+ "ELITE 1": [
+  {
+   "brand": "OSCAL",
+   "name": "ELITE 1",
+   "device": "ELITE_1"
+  }
+ ],
  "FLAT 1C": [
   {
    "brand": "OSCAL",
@@ -162429,6 +162619,13 @@
    "brand": "OSCAL",
    "name": "MODERN 8",
    "device": "MODERN_8"
+  }
+ ],
+ "PILOT 2": [
+  {
+   "brand": "OSCAL",
+   "name": "PILOT 2",
+   "device": "PILOT_2"
   }
  ],
  "Pad 15": [
@@ -162460,6 +162657,20 @@
    "brand": "OSCAL",
    "name": "Pad 18",
    "device": "Pad18"
+  }
+ ],
+ "Pad 5": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad 5",
+   "device": "Pad_5"
+  }
+ ],
+ "Pad 5 Kids": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad 5 Kids",
+   "device": "Pad_5_Kids"
   }
  ],
  "Pad 7": [
@@ -164558,11 +164769,44 @@
    "device": "CPH1837"
   }
  ],
+ "A402OP": [
+  {
+   "brand": "Oppo",
+   "name": "A3 5G",
+   "device": "OP5B05L1"
+  }
+ ],
  "PJY110": [
   {
    "brand": "Oppo",
    "name": "A3 Pro 5G",
    "device": "OP59FB"
+  }
+ ],
+ "CPH2667": [
+  {
+   "brand": "Oppo",
+   "name": "A3 Pro 5G",
+   "device": "OP5B05L1"
+  }
+ ],
+ "CPH2639": [
+  {
+   "brand": "Oppo",
+   "name": "A3 Pro/A3/A80 5G",
+   "device": "OP5B05L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A80 5G",
+   "device": "OP5B05L1"
+  }
+ ],
+ "PKD110": [
+  {
+   "brand": "Oppo",
+   "name": "A3 energy 5G",
+   "device": "OP5A47"
   }
  ],
  "A31": [
@@ -164749,6 +164993,13 @@
    "device": "A39"
   }
  ],
+ "PKD120": [
+  {
+   "brand": "Oppo",
+   "name": "A3m 5G",
+   "device": "OP5A47"
+  }
+ ],
  "CPH1803": [
   {
    "brand": "Oppo",
@@ -164771,6 +165022,13 @@
    "brand": "Oppo",
    "name": "CPH1853",
    "device": "CPH1853"
+  }
+ ],
+ "PKD130": [
+  {
+   "brand": "Oppo",
+   "name": "A3x 5G",
+   "device": "OP5A47"
   }
  ],
  "PADM00": [
@@ -166177,6 +166435,11 @@
    "brand": "Oppo",
    "name": "Reno11 F 5G",
    "device": "OP5A0BL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno11 F 5G/Reno11 A",
+   "device": "OP5A0BL1"
   }
  ],
  "CPH1819": [
@@ -166475,6 +166738,13 @@
    "brand": "Oppo",
    "name": "K12 5G",
    "device": "OP5A15L1"
+  }
+ ],
+ "CPH2665": [
+  {
+   "brand": "Oppo",
+   "name": "K12x 5G",
+   "device": "OP5B05L1"
   }
  ],
  "PCGM00": [
@@ -168127,6 +168397,13 @@
    "brand": "Oppo",
    "name": "Reno11",
    "device": "OP59EDL1"
+  }
+ ],
+ "A401OP": [
+  {
+   "brand": "Oppo",
+   "name": "Reno11 A",
+   "device": "OP5A0BL1"
   }
  ],
  "PJJ110": [
@@ -170105,6 +170382,13 @@
    "device": "WP33_Pro"
   }
  ],
+ "WP35": [
+  {
+   "brand": "Oukitel",
+   "name": "WP35_EEA",
+   "device": "WP35"
+  }
+ ],
  "WP36": [
   {
    "brand": "Oukitel",
@@ -171240,6 +171524,20 @@
    "brand": "POCO",
    "name": "POCO X4 Pro 5G",
    "device": "veux"
+  }
+ ],
+ "22101320G": [
+  {
+   "brand": "POCO",
+   "name": "POCO X5 Pro 5G",
+   "device": "redwood"
+  }
+ ],
+ "22101320I": [
+  {
+   "brand": "POCO",
+   "name": "POCO X5 Pro 5G",
+   "device": "redwoodin"
   }
  ],
  "23122PCD1G": [
@@ -175904,6 +176202,11 @@
    "brand": "Plimpton",
    "name": "P70_14",
    "device": "P70_14"
+  },
+  {
+   "brand": "Plimpton",
+   "name": "P70_14_EEA",
+   "device": "P70_14_EEA"
   }
  ],
  "P8Pro": [
@@ -251786,6 +252089,13 @@
    "device": "L10-T02"
   }
  ],
+ "L10_T08": [
+  {
+   "brand": "VASOUN",
+   "name": "L10_T08",
+   "device": "L10_T08"
+  }
+ ],
  "M7_EEA": [
   {
    "brand": "VASOUN",
@@ -257974,6 +258284,13 @@
    "brand": "Vivo",
    "name": "X Fold3 Pro",
    "device": "PD2337"
+  }
+ ],
+ "V2330": [
+  {
+   "brand": "Vivo",
+   "name": "X Fold3 Pro",
+   "device": "V2330"
   }
  ],
  "V2309A": [
@@ -282219,13 +282536,6 @@
    "device": "AWM533"
   }
  ],
- "D105_EEA": [
-  {
-   "brand": "Zonko",
-   "name": "D105_EEA",
-   "device": "D105_EEA"
-  }
- ],
  "D118": [
   {
    "brand": "Zonko",
@@ -282542,6 +282852,13 @@
    "brand": "Zuum",
    "name": "AURA Z",
    "device": "AURA_Z"
+  }
+ ],
+ "AURA Z1": [
+  {
+   "brand": "Zuum",
+   "name": "AURA Z1",
+   "device": "Aura_Z1"
   }
  ],
  "AURA M1": [
