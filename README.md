@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-30
+Last sync is 2024-05-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5158,7 +5158,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Classpro|G7N|redwood|AI PONT|
 |Classpro|Smart TV|longshan|AI PONT|
 |ClearTouch|NEXT_TDED|rk3588_t|CTI_NEXT_TDED_S10|
-|ClearTouch|UX Pro Edge|rk3588_t|UX_Pro_Edge_Display|
 |ClearTouch|six_zero_XXAplus|rk3588_t|six_zero_XXAplus|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
 |Clementoni|Clempad 4.4 Basic Special|Clempad2_special|Clempad2_special|
@@ -5189,6 +5188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|Neo_Clempad_2021|Neo_Clempad_2021|Neo_Clempad_2021|
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini_Module|
 |Clevertouch|IMPACT Lux|rk3588_t|Impact_Lux_Display|
+|Clevertouch|UX Pro Edge|rk3588_t|UX_Pro_Edge_Display|
 |Click|M9021G|M9021G|M9021G|
 |Click|S7043G|S7043G|S7043G|
 |Click|"Tab 7"""|I7043G|I7043G|
@@ -9765,6 +9765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Smart TV|mateo|HKC 2K SA Smart TV|
 |HKC Elec|Smart TV|pioneer|4K PA Smart TV|
 |HKT|eye3|UY3-PCW|eye3|
+|HMD|HMD Aura|RCK|HMD Aura|
 |HMD|HMD Pulse|LGD|HMD Pulse|
 |HMD|HMD Pulse Pro|LGR|HMD Pulse Pro|
 |HMD|HMD Pulse+|LGP|HMD Pulse Plus|
@@ -14441,6 +14442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 40 5G|Infinix-X6852|Infinix X6852|
 |Infinix|Infinix NOTE 40 Pro|Infinix-X6850|Infinix X6850|
 |Infinix|Infinix NOTE 40 Pro 5G|Infinix-X6851|Infinix X6851|
+|Infinix|Infinix NOTE 40S|Infinix-X6850B|Infinix X6850B|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -21295,6 +21297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Ahiga|Ahiga|Ahiga|
 |Mobiwire|Airtel Imagine|H5032U|Airtel Imagine|
 |Mobiwire|Altice E55|E55|E55|
+|Mobiwire|Awadjidjè|H5111|Awadjidje|
 |Mobiwire|Benin|H6681_Pro|Moov Smart Pro|
 |Mobiwire|Celtiis Smart 1|H5032U|Smart 1|
 |Mobiwire|Chenoa|Chenoa|Chenoa|
@@ -22098,6 +22101,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 40 neo|manaus|motorola edge 40 neo|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 30 pro|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 40 pro|
+|Motorola|motorola edge 50 fusion|cusco|moto g stylus 5G - 2023|
+|Motorola|motorola edge 50 fusion|cusco|motorola edge 50 fusion|
+|Motorola|motorola edge 50 fusion|cuscoi|moto g stylus 5G - 2023|
+|Motorola|motorola edge 50 fusion|cuscoi|motorola edge 50 fusion|
 |Motorola|motorola edge 50 pro|eqe|motorola edge 40 pro|
 |Motorola|motorola edge 50 pro|eqe|motorola edge 50 pro|
 |Motorola|motorola edge 50 ultra|ctwo|motorola edge 40 pro|
@@ -23296,6 +23303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G22|SFI|Nokia G22|
 |Nokia|Nokia G22|SFIA|Nokia G22|
 |Nokia|Nokia G300|AKT|N1374DL|
+|Nokia|Nokia G310 5G|SDT|Nokia G310 5G|
 |Nokia|Nokia G400 5G|STM|Nokia G400 5G|
 |Nokia|Nokia G400 5G|STO|Nokia G400 5G|
 |Nokia|Nokia G42 5G|SDW|Nokia G42 5G|
@@ -24947,6 +24955,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F4 GT|ingres|21121210G|
 |POCO|POCO F5|marble|23049PCD8G|
 |POCO|POCO F5|marble|23049PCD8I|
+|POCO|POCO F6|peridot|24069PC21G|
+|POCO|POCO F6|peridot|24069PC21I|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -27476,6 +27486,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Pad|yunluo|22081283G|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDC|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
+|Redmi|Redmi Pad Pro|dizi|2405CRPFDI|
 |Redmi|Redmi Pad Pro 5G|ruan|24074RPD2C|
 |Redmi|Redmi Pad SE|xun|23073RPBFC|
 |Redmi|Redmi Pad SE|xun|23073RPBFG|
@@ -38042,6 +38053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|S17|PD2283|V2283A|
 |Vivo|S17 Pro|PD2284|V2284A|
 |Vivo|S18 Pro|PD2344|V2344A|
+|Vivo|S19 Pro|PD2362|V2362A|
 |Vivo|T1|V2154|V2153|
 |Vivo|T1|V2154|V2154|
 |Vivo|T1|V2154|V2168|
@@ -38431,6 +38443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y36 5G|V2248|V2248|
 |Vivo|Y36m|PD2318|V2318A|
 |Vivo|Y36s|PD2318|V2318A|
+|Vivo|Y36t|PD2327|V2327A|
 |Vivo|Y38 5G|V2343|V2343|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
@@ -38599,6 +38612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S17e|PD2285|V2285A|
 |Vivo|vivo S18|PD2323|V2323A|
 |Vivo|vivo S18e|PD2334|V2334A|
+|Vivo|vivo S19|PD2364|V2364A|
 |Vivo|vivo T2|PD2199|V2199GA|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
@@ -41905,6 +41919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
+|ZTLEKE|P10MAX|P10MAX|P10MAX|
 |ZTLEKE|S8Plus|S8Plus|S8Plus|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
@@ -43178,6 +43193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
 |weelikeit|C19W|C19W|C19W|
+|weelikeit|C19W_EEA|C19W_EEA|C19W_EEA|
 |weelikeit|C72W|C72W|C72W|
 |weelikeit|C72W_EEA|C72W_EEA|C72W_EEA|
 |weelikeit|C74W_EEA|C74W_EEA|C74W_EEA|

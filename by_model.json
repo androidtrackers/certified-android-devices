@@ -40845,13 +40845,6 @@
    "device": "rk3588_t"
   }
  ],
- "UX_Pro_Edge_Display": [
-  {
-   "brand": "ClearTouch",
-   "name": "UX Pro Edge",
-   "device": "rk3588_t"
-  }
- ],
  "six_zero_XXAplus": [
   {
    "brand": "ClearTouch",
@@ -41059,6 +41052,13 @@
   {
    "brand": "Clevertouch",
    "name": "IMPACT Lux",
+   "device": "rk3588_t"
+  }
+ ],
+ "UX_Pro_Edge_Display": [
+  {
+   "brand": "Clevertouch",
+   "name": "UX Pro Edge",
    "device": "rk3588_t"
   }
  ],
@@ -73294,6 +73294,13 @@
    "device": "UY3-PCW"
   }
  ],
+ "HMD Aura": [
+  {
+   "brand": "HMD",
+   "name": "HMD Aura",
+   "device": "RCK"
+  }
+ ],
  "HMD Pulse": [
   {
    "brand": "HMD",
@@ -104002,6 +104009,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 40 Pro 5G",
    "device": "Infinix-X6851"
+  }
+ ],
+ "Infinix X6850B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40S",
+   "device": "Infinix-X6850B"
   }
  ],
  "Infinix X604": [
@@ -148320,6 +148334,13 @@
    "device": "H5032U"
   }
  ],
+ "Awadjidje": [
+  {
+   "brand": "Mobiwire",
+   "name": "Awadjidjè",
+   "device": "H5111"
+  }
+ ],
  "Moov Smart Pro": [
   {
    "brand": "Mobiwire",
@@ -152540,6 +152561,16 @@
    "brand": "Motorola",
    "name": "moto g stylus 5G - 2023",
    "device": "genevn"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "device": "cusco"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "device": "cuscoi"
   }
  ],
  "moto g stylus 5g": [
@@ -153397,6 +153428,18 @@
    "brand": "Motorola",
    "name": "motorola edge 40 neo",
    "device": "manaus"
+  }
+ ],
+ "motorola edge 50 fusion": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "device": "cusco"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "device": "cuscoi"
   }
  ],
  "motorola edge 50 pro": [
@@ -160861,6 +160904,13 @@
    "brand": "Nokia",
    "name": "Nokia G300",
    "device": "AKT"
+  }
+ ],
+ "Nokia G310 5G": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G310 5G",
+   "device": "SDT"
   }
  ],
  "Nokia G400 5G": [
@@ -171351,6 +171401,20 @@
    "brand": "Redmi",
    "name": "POCO F5",
    "device": "marblein"
+  }
+ ],
+ "24069PC21G": [
+  {
+   "brand": "POCO",
+   "name": "POCO F6",
+   "device": "peridot"
+  }
+ ],
+ "24069PC21I": [
+  {
+   "brand": "POCO",
+   "name": "POCO F6",
+   "device": "peridot"
   }
  ],
  "M2004J19PI": [
@@ -187551,6 +187615,13 @@
   }
  ],
  "2405CRPFDG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad Pro",
+   "device": "dizi"
+  }
+ ],
+ "2405CRPFDI": [
   {
    "brand": "Redmi",
    "name": "Redmi Pad Pro",
@@ -256339,6 +256410,13 @@
    "device": "PD2344"
   }
  ],
+ "V2362A": [
+  {
+   "brand": "Vivo",
+   "name": "S19 Pro",
+   "device": "PD2362"
+  }
+ ],
  "V2153": [
   {
    "brand": "Vivo",
@@ -259046,6 +259124,13 @@
    "device": "V2248"
   }
  ],
+ "V2327A": [
+  {
+   "brand": "Vivo",
+   "name": "Y36t",
+   "device": "PD2327"
+  }
+ ],
  "V2343": [
   {
    "brand": "Vivo",
@@ -260105,6 +260190,13 @@
    "brand": "Vivo",
    "name": "vivo S18e",
    "device": "PD2334"
+  }
+ ],
+ "V2364A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S19",
+   "device": "PD2364"
   }
  ],
  "V2199GA": [
@@ -281222,6 +281314,13 @@
    "device": "P720S11"
   }
  ],
+ "P10MAX": [
+  {
+   "brand": "ZTLEKE",
+   "name": "P10MAX",
+   "device": "P10MAX"
+  }
+ ],
  "S8Plus": [
   {
    "brand": "ZTLEKE",
@@ -288749,6 +288848,13 @@
    "brand": "weelikeit",
    "name": "C19W",
    "device": "C19W"
+  }
+ ],
+ "C19W_EEA": [
+  {
+   "brand": "weelikeit",
+   "name": "C19W_EEA",
+   "device": "C19W_EEA"
   }
  ],
  "C72W": [

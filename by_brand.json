@@ -26707,11 +26707,6 @@
   },
   {
    "device": "rk3588_t",
-   "name": "UX Pro Edge",
-   "model": "UX_Pro_Edge_Display"
-  },
-  {
-   "device": "rk3588_t",
    "name": "six_zero_XXAplus",
    "model": "six_zero_XXAplus"
   }
@@ -26863,6 +26858,11 @@
    "device": "rk3588_t",
    "name": "IMPACT Lux",
    "model": "Impact_Lux_Display"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "UX Pro Edge",
+   "model": "UX_Pro_Edge_Display"
   }
  ],
  "Click": [
@@ -50787,6 +50787,11 @@
  ],
  "HMD": [
   {
+   "device": "RCK",
+   "name": "HMD Aura",
+   "model": "HMD Aura"
+  },
+  {
    "device": "LGD",
    "name": "HMD Pulse",
    "model": "HMD Pulse"
@@ -74467,6 +74472,11 @@
    "device": "Infinix-X6851",
    "name": "Infinix NOTE 40 Pro 5G",
    "model": "Infinix X6851"
+  },
+  {
+   "device": "Infinix-X6850B",
+   "name": "Infinix NOTE 40S",
+   "model": "Infinix X6850B"
   },
   {
    "device": "Infinix-X604_sprout",
@@ -109575,6 +109585,11 @@
    "model": "E55"
   },
   {
+   "device": "H5111",
+   "name": "Awadjidjè",
+   "model": "Awadjidje"
+  },
+  {
    "device": "H6681_Pro",
    "name": "Benin",
    "model": "Moov Smart Pro"
@@ -113630,6 +113645,26 @@
    "device": "rtwo",
    "name": "motorola edge 40 pro",
    "model": "motorola edge 40 pro"
+  },
+  {
+   "device": "cusco",
+   "name": "motorola edge 50 fusion",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "device": "cusco",
+   "name": "motorola edge 50 fusion",
+   "model": "motorola edge 50 fusion"
+  },
+  {
+   "device": "cuscoi",
+   "name": "motorola edge 50 fusion",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "device": "cuscoi",
+   "name": "motorola edge 50 fusion",
+   "model": "motorola edge 50 fusion"
   },
   {
    "device": "eqe",
@@ -119852,6 +119887,11 @@
    "device": "AKT",
    "name": "Nokia G300",
    "model": "N1374DL"
+  },
+  {
+   "device": "SDT",
+   "name": "Nokia G310 5G",
+   "model": "Nokia G310 5G"
   },
   {
    "device": "STM",
@@ -128361,6 +128401,16 @@
    "device": "marble",
    "name": "POCO F5",
    "model": "23049PCD8I"
+  },
+  {
+   "device": "peridot",
+   "name": "POCO F6",
+   "model": "24069PC21G"
+  },
+  {
+   "device": "peridot",
+   "name": "POCO F6",
+   "model": "24069PC21I"
   },
   {
    "device": "shiva",
@@ -141342,6 +141392,11 @@
    "device": "dizi",
    "name": "Redmi Pad Pro",
    "model": "2405CRPFDG"
+  },
+  {
+   "device": "dizi",
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDI"
   },
   {
    "device": "ruan",
@@ -195414,6 +195469,11 @@
    "model": "V2344A"
   },
   {
+   "device": "PD2362",
+   "name": "S19 Pro",
+   "model": "V2362A"
+  },
+  {
    "device": "V2154",
    "name": "T1",
    "model": "V2153"
@@ -197359,6 +197419,11 @@
    "model": "V2318A"
   },
   {
+   "device": "PD2327",
+   "name": "Y36t",
+   "model": "V2327A"
+  },
+  {
    "device": "V2343",
    "name": "Y38 5G",
    "model": "V2343"
@@ -198197,6 +198262,11 @@
    "device": "PD2334",
    "name": "vivo S18e",
    "model": "V2334A"
+  },
+  {
+   "device": "PD2364",
+   "name": "vivo S19",
+   "model": "V2364A"
   },
   {
    "device": "PD2199",
@@ -215065,6 +215135,11 @@
  ],
  "ZTLEKE": [
   {
+   "device": "P10MAX",
+   "name": "P10MAX",
+   "model": "P10MAX"
+  },
+  {
    "device": "S8Plus",
    "name": "S8Plus",
    "model": "S8Plus"
@@ -221796,6 +221871,11 @@
    "device": "C19W",
    "name": "C19W",
    "model": "C19W"
+  },
+  {
+   "device": "C19W_EEA",
+   "name": "C19W_EEA",
+   "model": "C19W_EEA"
   },
   {
    "device": "C72W",

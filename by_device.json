@@ -1188,11 +1188,6 @@
   },
   {
    "brand": "ClearTouch",
-   "name": "UX Pro Edge",
-   "model": "UX_Pro_Edge_Display"
-  },
-  {
-   "brand": "ClearTouch",
    "name": "six_zero_XXAplus",
    "model": "six_zero_XXAplus"
   },
@@ -1205,6 +1200,11 @@
    "brand": "Clevertouch",
    "name": "IMPACT Lux",
    "model": "Impact_Lux_Display"
+  },
+  {
+   "brand": "Clevertouch",
+   "name": "UX Pro Edge",
+   "model": "UX_Pro_Edge_Display"
   },
   {
    "brand": "ESOL",
@@ -77700,6 +77700,13 @@
    "model": "eye3"
   }
  ],
+ "RCK": [
+  {
+   "brand": "HMD",
+   "name": "HMD Aura",
+   "model": "HMD Aura"
+  }
+ ],
  "LGD": [
   {
    "brand": "HMD",
@@ -105011,6 +105018,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 40 Pro 5G",
    "model": "Infinix X6851"
+  }
+ ],
+ "Infinix-X6850B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40S",
+   "model": "Infinix X6850B"
   }
  ],
  "Infinix-X604_sprout": [
@@ -146976,6 +146990,18 @@
    "model": "ONE"
   }
  ],
+ "H5111": [
+  {
+   "brand": "Mobiwire",
+   "name": "Awadjidjè",
+   "model": "Awadjidje"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "H5111",
+   "model": "H5111"
+  }
+ ],
  "H6681_Pro": [
   {
    "brand": "Mobiwire",
@@ -147044,13 +147070,6 @@
    "brand": "Mobiwire",
    "name": "MobiWire Halona",
    "model": "Halona"
-  }
- ],
- "H5111": [
-  {
-   "brand": "Mobiwire",
-   "name": "H5111",
-   "model": "H5111"
   }
  ],
  "H5112": [
@@ -151814,6 +151833,30 @@
    "brand": "Motorola",
    "name": "motorola edge 40 neo",
    "model": "motorola edge 40 neo"
+  }
+ ],
+ "cusco": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "model": "motorola edge 50 fusion"
+  }
+ ],
+ "cuscoi": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 fusion",
+   "model": "motorola edge 50 fusion"
   }
  ],
  "eqe": [
@@ -159104,6 +159147,13 @@
    "brand": "Nokia",
    "name": "Nokia G300",
    "model": "N1374DL"
+  }
+ ],
+ "SDT": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G310 5G",
+   "model": "Nokia G310 5G"
   }
  ],
  "STM": [
@@ -169242,6 +169292,23 @@
    "brand": "Redmi",
    "name": "Redmi Note 12 Turbo",
    "model": "23049RAD8C"
+  }
+ ],
+ "peridot": [
+  {
+   "brand": "POCO",
+   "name": "POCO F6",
+   "model": "24069PC21G"
+  },
+  {
+   "brand": "POCO",
+   "name": "POCO F6",
+   "model": "24069PC21I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Turbo 3",
+   "model": "24069RA21C"
   }
  ],
  "shiva": [
@@ -184195,6 +184262,11 @@
    "brand": "Redmi",
    "name": "Redmi Pad Pro",
    "model": "2405CRPFDG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad Pro",
+   "model": "2405CRPFDI"
   }
  ],
  "ruan": [
@@ -184219,13 +184291,6 @@
    "brand": "Redmi",
    "name": "Redmi Pad SE",
    "model": "23073RPBFL"
-  }
- ],
- "peridot": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi Turbo 3",
-   "model": "24069RA21C"
   }
  ],
  "tarzan": [
@@ -246882,6 +246947,13 @@
    "model": "V2344A"
   }
  ],
+ "PD2362": [
+  {
+   "brand": "Vivo",
+   "name": "S19 Pro",
+   "model": "V2362A"
+  }
+ ],
  "V2154": [
   {
    "brand": "Vivo",
@@ -249421,6 +249493,13 @@
    "model": "vivo Y35A"
   }
  ],
+ "PD2327": [
+  {
+   "brand": "Vivo",
+   "name": "Y36t",
+   "model": "V2327A"
+  }
+ ],
  "V2343": [
   {
    "brand": "Vivo",
@@ -250432,6 +250511,13 @@
    "brand": "Vivo",
    "name": "vivo S18e",
    "model": "V2334A"
+  }
+ ],
+ "PD2364": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S19",
+   "model": "V2364A"
   }
  ],
  "PD2178": [
@@ -269179,6 +269265,13 @@
    "model": "ZTE 7541N"
   }
  ],
+ "P10MAX": [
+  {
+   "brand": "ZTLEKE",
+   "name": "P10MAX",
+   "model": "P10MAX"
+  }
+ ],
  "S8Plus": [
   {
    "brand": "ZTLEKE",
@@ -276495,6 +276588,13 @@
    "brand": "weelikeit",
    "name": "C19W",
    "model": "C19W"
+  }
+ ],
+ "C19W_EEA": [
+  {
+   "brand": "weelikeit",
+   "name": "C19W_EEA",
+   "model": "C19W_EEA"
   }
  ],
  "C72W": [

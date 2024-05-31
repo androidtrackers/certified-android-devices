@@ -46444,13 +46444,6 @@
    "model": "CTI_NEXT_TDED_S10"
   }
  ],
- "UX Pro Edge": [
-  {
-   "brand": "ClearTouch",
-   "device": "rk3588_t",
-   "model": "UX_Pro_Edge_Display"
-  }
- ],
  "six_zero_XXAplus": [
   {
    "brand": "ClearTouch",
@@ -46659,6 +46652,13 @@
    "brand": "Clevertouch",
    "device": "rk3588_t",
    "model": "Impact_Lux_Display"
+  }
+ ],
+ "UX Pro Edge": [
+  {
+   "brand": "Clevertouch",
+   "device": "rk3588_t",
+   "model": "UX_Pro_Edge_Display"
   }
  ],
  "M9021G": [
@@ -79330,6 +79330,13 @@
    "model": "eye3"
   }
  ],
+ "HMD Aura": [
+  {
+   "brand": "HMD",
+   "device": "RCK",
+   "model": "HMD Aura"
+  }
+ ],
  "HMD Pulse": [
   {
    "brand": "HMD",
@@ -105904,6 +105911,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6851",
    "model": "Infinix X6851"
+  }
+ ],
+ "Infinix NOTE 40S": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6850B",
+   "model": "Infinix X6850B"
   }
  ],
  "Infinix NOTE 5": [
@@ -146742,6 +146756,13 @@
    "model": "E55"
   }
  ],
+ "Awadjidjè": [
+  {
+   "brand": "Mobiwire",
+   "device": "H5111",
+   "model": "Awadjidje"
+  }
+ ],
  "Benin": [
   {
    "brand": "Mobiwire",
@@ -151118,6 +151139,28 @@
    "brand": "Motorola",
    "device": "rtwo",
    "model": "motorola edge 40 pro"
+  }
+ ],
+ "motorola edge 50 fusion": [
+  {
+   "brand": "Motorola",
+   "device": "cusco",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cusco",
+   "model": "motorola edge 50 fusion"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cuscoi",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cuscoi",
+   "model": "motorola edge 50 fusion"
   }
  ],
  "motorola edge 50 pro": [
@@ -158562,6 +158605,13 @@
    "brand": "Nokia",
    "device": "AKT",
    "model": "N1374DL"
+  }
+ ],
+ "Nokia G310 5G": [
+  {
+   "brand": "Nokia",
+   "device": "SDT",
+   "model": "Nokia G310 5G"
   }
  ],
  "Nokia G400 5G": [
@@ -168462,6 +168512,18 @@
    "brand": "Redmi",
    "device": "marblein",
    "model": "23049PCD8I"
+  }
+ ],
+ "POCO F6": [
+  {
+   "brand": "POCO",
+   "device": "peridot",
+   "model": "24069PC21G"
+  },
+  {
+   "brand": "POCO",
+   "device": "peridot",
+   "model": "24069PC21I"
   }
  ],
  "POCO M2": [
@@ -184370,6 +184432,11 @@
    "brand": "Redmi",
    "device": "dizi",
    "model": "2405CRPFDG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "dizi",
+   "model": "2405CRPFDI"
   }
  ],
  "Redmi Pad Pro 5G": [
@@ -245424,6 +245491,13 @@
    "model": "V2344A"
   }
  ],
+ "S19 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2362",
+   "model": "V2362A"
+  }
+ ],
  "T1 5G": [
   {
    "brand": "Vivo",
@@ -247858,6 +247932,13 @@
    "model": "V2318A"
   }
  ],
+ "Y36t": [
+  {
+   "brand": "Vivo",
+   "device": "PD2327",
+   "model": "V2327A"
+  }
+ ],
  "Y38 5G": [
   {
    "brand": "Vivo",
@@ -248984,6 +249065,13 @@
    "brand": "Vivo",
    "device": "PD2334",
    "model": "V2334A"
+  }
+ ],
+ "vivo S19": [
+  {
+   "brand": "Vivo",
+   "device": "PD2364",
+   "model": "V2364A"
   }
  ],
  "vivo T2": [
@@ -267542,6 +267630,13 @@
    "model": "ZTE 7541N"
   }
  ],
+ "P10MAX": [
+  {
+   "brand": "ZTLEKE",
+   "device": "P10MAX",
+   "model": "P10MAX"
+  }
+ ],
  "S8Plus": [
   {
    "brand": "ZTLEKE",
@@ -275169,6 +275264,13 @@
    "brand": "weelikeit",
    "device": "C19W",
    "model": "C19W"
+  }
+ ],
+ "C19W_EEA": [
+  {
+   "brand": "weelikeit",
+   "device": "C19W_EEA",
+   "model": "C19W_EEA"
   }
  ],
  "C72W": [
