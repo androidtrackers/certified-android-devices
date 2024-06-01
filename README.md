@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-05-31
+Last sync is 2024-06-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6343,6 +6343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daiwa|2K DATV|capitolhill|Daiwa 2K Google TV|
 |Daiwa|4K DATV|keoneae|4K DATV|
 |Daiwa|4K DATV|keoneae|Daiwa 4K Google TV|
+|Daiwa|4K DATV-Z|keoneae|4K DATV-Z|
 |Daiwa|4K DATV-Z|keoneae|Daiwa 4K Google TV-Z|
 |Danew|D809ProPlus|D809ProPlus|D809ProPlus|
 |Danew|DSlide 710|Dslide710|Dslide710|
@@ -33245,6 +33246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
 |StarBoard|Starboard Solution Inc|TE_YL|TE_YL|
 |StarBoard|TE_QS|TE_QS|TE_QS|
+|StarBoard|YL|YL|YL|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|
 |StarHub|StarHub TV+ Pro|m393vsb_starhub|SCSH900AT|
@@ -36715,11 +36717,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trio|Stealth-G4-7.85|Trio-Stealth-G4-785|Trio-Stealth-G4-7.85|
 |True|20721400|Tablet|20721400|
 |True|20721400E_EEA|Tablet|20721400E|
+|True|20721400R|Tablet|20721400R|
 |True|20725300|Tablet|20725300|
 |True|20725300E_EEA|Tablet|20725300E|
+|True|20725300R|Tablet|20725300R|
 |True|20726600|Tablet|20726600|
 |True|20728200|Tablet|20728200|
 |True|20728200E_EEA|Tablet|20728200E|
+|True|20728200R|Tablet|20728200R|
 |True|Alpha_5G|Alpha_5G|Alpha 5G|
 |True|HCH03|TrueHCH03|HCH03|
 |True|S1|S1|S1|
@@ -42812,6 +42817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imose|Omotab_2s|Omotab_2s|Omotab 2s|
 |imose|SEMPE|SEMPE|SEMPE|
 |imozen|TC605AN|TC605|TC605|
+|imozen|TC605AW|TC605|TC605|
 |indigi|G4i|G4i|G4i|
 |inefi|SlimPOS319|SlimPOS319|SlimPOS319|
 |innos|Android TV|R2|ATV R2|

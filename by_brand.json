@@ -32829,6 +32829,11 @@
   {
    "device": "keoneae",
    "name": "4K DATV-Z",
+   "model": "4K DATV-Z"
+  },
+  {
+   "device": "keoneae",
+   "name": "4K DATV-Z",
    "model": "Daiwa 4K Google TV-Z"
   }
  ],
@@ -170667,6 +170672,11 @@
    "device": "TE_QS",
    "name": "TE_QS",
    "model": "TE_QS"
+  },
+  {
+   "device": "YL",
+   "name": "YL",
+   "model": "YL"
   }
  ],
  "StarHub": [
@@ -188490,6 +188500,11 @@
   },
   {
    "device": "Tablet",
+   "name": "20721400R",
+   "model": "20721400R"
+  },
+  {
+   "device": "Tablet",
    "name": "20725300",
    "model": "20725300"
   },
@@ -188497,6 +188512,11 @@
    "device": "Tablet",
    "name": "20725300E_EEA",
    "model": "20725300E"
+  },
+  {
+   "device": "Tablet",
+   "name": "20725300R",
+   "model": "20725300R"
   },
   {
    "device": "Tablet",
@@ -188512,6 +188532,11 @@
    "device": "Tablet",
    "name": "20728200E_EEA",
    "model": "20728200E"
+  },
+  {
+   "device": "Tablet",
+   "name": "20728200R",
+   "model": "20728200R"
   },
   {
    "device": "Alpha_5G",
@@ -219849,6 +219874,11 @@
   {
    "device": "TC605",
    "name": "TC605AN",
+   "model": "TC605"
+  },
+  {
+   "device": "TC605",
+   "name": "TC605AW",
    "model": "TC605"
   }
  ],

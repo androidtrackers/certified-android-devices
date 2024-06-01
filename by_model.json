@@ -49364,6 +49364,13 @@
    "device": "keoneae"
   }
  ],
+ "4K DATV-Z": [
+  {
+   "brand": "Daiwa",
+   "name": "4K DATV-Z",
+   "device": "keoneae"
+  }
+ ],
  "Daiwa 4K Google TV-Z": [
   {
    "brand": "Daiwa",
@@ -225850,6 +225857,13 @@
    "device": "TE_QS"
   }
  ],
+ "YL": [
+  {
+   "brand": "StarBoard",
+   "name": "YL",
+   "device": "YL"
+  }
+ ],
  "NVSH800H1": [
   {
    "brand": "StarHub",
@@ -248364,6 +248378,13 @@
    "device": "Tablet"
   }
  ],
+ "20721400R": [
+  {
+   "brand": "True",
+   "name": "20721400R",
+   "device": "Tablet"
+  }
+ ],
  "20725300": [
   {
    "brand": "True",
@@ -248375,6 +248396,13 @@
   {
    "brand": "True",
    "name": "20725300E_EEA",
+   "device": "Tablet"
+  }
+ ],
+ "20725300R": [
+  {
+   "brand": "True",
+   "name": "20725300R",
    "device": "Tablet"
   }
  ],
@@ -248396,6 +248424,13 @@
   {
    "brand": "True",
    "name": "20728200E_EEA",
+   "device": "Tablet"
+  }
+ ],
+ "20728200R": [
+  {
+   "brand": "True",
+   "name": "20728200R",
    "device": "Tablet"
   }
  ],
@@ -286628,6 +286663,11 @@
   {
    "brand": "imozen",
    "name": "TC605AN",
+   "device": "TC605"
+  },
+  {
+   "brand": "imozen",
+   "name": "TC605AW",
    "device": "TC605"
   }
  ],

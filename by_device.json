@@ -275,6 +275,11 @@
   {
    "brand": "Daiwa",
    "name": "4K DATV-Z",
+   "model": "4K DATV-Z"
+  },
+  {
+   "brand": "Daiwa",
+   "name": "4K DATV-Z",
    "model": "Daiwa 4K Google TV-Z"
   },
   {
@@ -84043,6 +84048,11 @@
   },
   {
    "brand": "True",
+   "name": "20721400R",
+   "model": "20721400R"
+  },
+  {
+   "brand": "True",
    "name": "20725300",
    "model": "20725300"
   },
@@ -84050,6 +84060,11 @@
    "brand": "True",
    "name": "20725300E_EEA",
    "model": "20725300E"
+  },
+  {
+   "brand": "True",
+   "name": "20725300R",
+   "model": "20725300R"
   },
   {
    "brand": "True",
@@ -84065,6 +84080,11 @@
    "brand": "True",
    "name": "20728200E_EEA",
    "model": "20728200E"
+  },
+  {
+   "brand": "True",
+   "name": "20728200R",
+   "model": "20728200R"
   }
  ],
  "HPAD_IP8045": [
@@ -219823,6 +219843,13 @@
    "model": "TE_QS"
   }
  ],
+ "YL": [
+  {
+   "brand": "StarBoard",
+   "name": "YL",
+   "model": "YL"
+  }
+ ],
  "NVSH800H1": [
   {
    "brand": "StarHub",
@@ -274465,6 +274492,11 @@
   {
    "brand": "imozen",
    "name": "TC605AN",
+   "model": "TC605"
+  },
+  {
+   "brand": "imozen",
+   "name": "TC605AW",
    "model": "TC605"
   }
  ],

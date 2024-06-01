@@ -55138,6 +55138,11 @@
   {
    "brand": "Daiwa",
    "device": "keoneae",
+   "model": "4K DATV-Z"
+  },
+  {
+   "brand": "Daiwa",
+   "device": "keoneae",
    "model": "Daiwa 4K Google TV-Z"
   }
  ],
@@ -217345,6 +217350,13 @@
    "model": "TE_QS"
   }
  ],
+ "YL": [
+  {
+   "brand": "StarBoard",
+   "device": "YL",
+   "model": "YL"
+  }
+ ],
  "Android TV Set-Top Box": [
   {
    "brand": "StarHub",
@@ -237360,6 +237372,13 @@
    "model": "20721400E"
   }
  ],
+ "20721400R": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20721400R"
+  }
+ ],
  "20725300": [
   {
    "brand": "True",
@@ -237372,6 +237391,13 @@
    "brand": "True",
    "device": "Tablet",
    "model": "20725300E"
+  }
+ ],
+ "20725300R": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20725300R"
   }
  ],
  "20726600": [
@@ -237393,6 +237419,13 @@
    "brand": "True",
    "device": "Tablet",
    "model": "20728200E"
+  }
+ ],
+ "20728200R": [
+  {
+   "brand": "True",
+   "device": "Tablet",
+   "model": "20728200R"
   }
  ],
  "Alpha_5G": [
@@ -273032,6 +273065,13 @@
   }
  ],
  "TC605AN": [
+  {
+   "brand": "imozen",
+   "device": "TC605",
+   "model": "TC605"
+  }
+ ],
+ "TC605AW": [
   {
    "brand": "imozen",
    "device": "TC605",
