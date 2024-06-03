@@ -104333,6 +104333,11 @@
    "model": "MX-A10"
   },
   {
+   "device": "MX-A10WW",
+   "name": "ASTRO_10_A",
+   "model": "MX-A10"
+  },
+  {
    "device": "MX-AA8WW01",
    "name": "ASTRO_8",
    "model": "MX-A8"
@@ -124655,6 +124660,11 @@
    "device": "OP5A15L1",
    "name": "K12 5G",
    "model": "PJR110"
+  },
+  {
+   "device": "OP5A1F",
+   "name": "K12x 5G",
+   "model": "PJT110"
   },
   {
    "device": "OP5B05L1",
@@ -186661,6 +186671,11 @@
    "device": "TE590P_O",
    "name": "TE590P",
    "model": "TE590P_O"
+  },
+  {
+   "device": "TE590P_U",
+   "name": "TE590P",
+   "model": "TE590P"
   },
   {
    "device": "TELO_TE610",

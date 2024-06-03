@@ -140303,6 +140303,11 @@
    "brand": "Maxwest",
    "name": "ASTRO_10",
    "model": "MX-A10"
+  },
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO_10_A",
+   "model": "MX-A10"
   }
  ],
  "MX-AA10WW01": [
@@ -164633,6 +164638,13 @@
    "brand": "Oppo",
    "name": "K12 5G",
    "model": "PJR110"
+  }
+ ],
+ "OP5A1F": [
+  {
+   "brand": "Oppo",
+   "name": "K12x 5G",
+   "model": "PJT110"
   }
  ],
  "OP4679": [
@@ -237468,6 +237480,13 @@
    "brand": "TeloSystems",
    "name": "TE590P",
    "model": "TE590P_O"
+  }
+ ],
+ "TE590P_U": [
+  {
+   "brand": "TeloSystems",
+   "name": "TE590P",
+   "model": "TE590P"
   }
  ],
  "TELO_TE610": [

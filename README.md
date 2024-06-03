@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-02
+Last sync is 2024-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20269,6 +20269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|ASTRO A65|MX-A65|MX-A65|
 |Maxwest|ASTRO_10|MX-A10WW|MX-A10|
 |Maxwest|ASTRO_10_1|MX-AA10WW01|MX-A10|
+|Maxwest|ASTRO_10_A|MX-A10WW|MX-A10|
 |Maxwest|ASTRO_8|MX-AA8WW01|MX-A8|
 |Maxwest|ASTRO_8R|MX-A80RWW|MX-A8R|
 |Maxwest|ASTRO_A63|MX-A63|MX-A63|
@@ -24225,6 +24226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
 |Oppo|K12 5G|OP5A15L1|PJR110|
+|Oppo|K12x 5G|OP5A1F|PJT110|
 |Oppo|K12x 5G|OP5B05L1|CPH2665|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
@@ -36371,6 +36373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|TE580PS|TE580PS|TE580PS|
 |TeloSystems|TE590P|TE590P_E|TE590P_E|
 |TeloSystems|TE590P|TE590P_O|TE590P_O|
+|TeloSystems|TE590P|TE590P_U|TE590P|
 |TeloSystems|TELO_TE610|TELO_TE610|TELO_TE610|
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
 |Telpo|C1|C1|C1|
