@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-05
+Last sync is 2024-06-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23166,6 +23166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newline|23QA|velvet|LGA311D2|
 |Newline|Q23|rk3588_t|Q23|
 |Newline|WB55860W|WB55860W|WB55860W|
+|Newline|Z Pro Series|Z24|24ZPro|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
 |Newsday|E1|Newsday_E1|Newsday_E1|
@@ -25077,6 +25078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X5 Pro 5G|redwoodin|22101320I|
 |POCO|POCO X6 5G|garnet|23122PCD1G|
 |POCO|POCO X6 5G|garnet|23122PCD1I|
+|POCO|POCO X6 Pro 5G|duchamp|2311DRK48I|
 |POOLS|POOLS The DOLLAR|POOLS_The_DOLLAR|POOLS_The_DOLLAR|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
 |POPTEL|P60|P60|P60|
@@ -33597,6 +33599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunbrite|huangshan_sunbrite|huangshan|SmartTV 4K|
 |Sunelan|Mountain M8|Mountain_M8|Mountain M8|
+|Sunelan|River X1|River_X1|River X1|
 |Sunelan|River X3|River_X3|River X3|
 |Sunmi|L2H_EDLA_GL|SUNMI-L2HNFC|L2H_EDLA_GL|
 |Sunmi|L2Ks|SUNMI-L2KsNFC|L2Ks_EDLA_GL|

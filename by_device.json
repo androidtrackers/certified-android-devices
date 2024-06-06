@@ -158449,6 +158449,13 @@
    "model": "WB55860W"
   }
  ],
+ "Z24": [
+  {
+   "brand": "Newline",
+   "name": "Z Pro Series",
+   "model": "24ZPro"
+  }
+ ],
  "Newsday_A1": [
   {
    "brand": "Newsday",
@@ -170268,6 +170275,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 13 Pro 5G",
    "model": "2312DRA50I"
+  }
+ ],
+ "duchamp": [
+  {
+   "brand": "POCO",
+   "name": "POCO X6 Pro 5G",
+   "model": "2311DRK48I"
   }
  ],
  "POOLS_The_DOLLAR": [
@@ -222043,6 +222057,13 @@
    "brand": "Sunelan",
    "name": "Mountain M8",
    "model": "Mountain M8"
+  }
+ ],
+ "River_X1": [
+  {
+   "brand": "Sunelan",
+   "name": "River X1",
+   "model": "River X1"
   }
  ],
  "River_X3": [

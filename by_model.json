@@ -160162,6 +160162,13 @@
    "device": "WB55860W"
   }
  ],
+ "24ZPro": [
+  {
+   "brand": "Newline",
+   "name": "Z Pro Series",
+   "device": "Z24"
+  }
+ ],
  "Newsday_A1": [
   {
    "brand": "Newsday",
@@ -172238,6 +172245,13 @@
    "brand": "POCO",
    "name": "POCO X6 5G",
    "device": "garnet"
+  }
+ ],
+ "2311DRK48I": [
+  {
+   "brand": "POCO",
+   "name": "POCO X6 Pro 5G",
+   "device": "duchamp"
   }
  ],
  "POOLS_The_DOLLAR": [
@@ -228025,6 +228039,13 @@
    "brand": "Sunelan",
    "name": "Mountain M8",
    "device": "Mountain_M8"
+  }
+ ],
+ "River X1": [
+  {
+   "brand": "Sunelan",
+   "name": "River X1",
+   "device": "River_X1"
   }
  ],
  "River X3": [

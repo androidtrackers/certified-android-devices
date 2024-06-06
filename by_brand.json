@@ -119174,6 +119174,11 @@
    "device": "WB55860W",
    "name": "WB55860W",
    "model": "WB55860W"
+  },
+  {
+   "device": "Z24",
+   "name": "Z Pro Series",
+   "model": "24ZPro"
   }
  ],
  "Newsday": [
@@ -129035,6 +129040,11 @@
    "device": "garnet",
    "name": "POCO X6 5G",
    "model": "23122PCD1I"
+  },
+  {
+   "device": "duchamp",
+   "name": "POCO X6 Pro 5G",
+   "model": "2311DRK48I"
   }
  ],
  "POOLS": [
@@ -172497,6 +172507,11 @@
    "device": "Mountain_M8",
    "name": "Mountain M8",
    "model": "Mountain M8"
+  },
+  {
+   "device": "River_X1",
+   "name": "River X1",
+   "model": "River X1"
   },
   {
    "device": "River_X3",
