@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-06
+Last sync is 2024-06-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4904,6 +4904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CenturyLink|PureTV|ctl_iptv_mrvl|CTLPlayer|
 |CenturyLink|PureTV|ctl_iptv_mrvl|S60CLI|
 |Challenger|4K Smart TV|gangbyeon|Challenger 4K AI Smart TV|
+|Challenger|55BO67|barking|CHALLENGER AndroidTV|
 |Challenger|Android TV|R1|ATV R1|
 |Challenger|Android TV|R2|ATV R2|
 |Challenger|CHALLENGER|lavender|4K SMART TV|
@@ -7041,6 +7042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T10|P1_2|T10|
 |Doogee|T10 Pro|P1S_2|T10Pro|
 |Doogee|T10E|P4|T10E|
+|Doogee|T10E|P4|T40|
 |Doogee|T10Plus|P1T|T10Plus|
 |Doogee|T10Pro|P1_2|T10Pro|
 |Doogee|T10S|P1D|T10S|
@@ -11726,6 +11728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Sero7|rk3168|E2171SS|
 |Hisense|Sero7 LE|rk3026|E2371|
 |Hisense|Sero8|rk3188|E2281SS|
+|Hisense|SmartLaser 4K|hengshan|SmartLaser 4K|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -15655,6 +15658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KAGIS|Australia|tamachi|KAGIS Android TV|
 |KAGIS|Australia|yeongdeungpo|KAGIS Android TV|
 |KAKTIN|D08|D08|D08|
+|KAKTIN|D9|D9|D9|
 |KANSELIR|KTB-168|KTB-168|KTB-168|
 |KAT(AF)|SM1_Tablet|SM1_Tablet|SM1|
 |KAZAM|TROOPER X3.5|KAZAM|Trooper_X35|
@@ -25640,6 +25644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips Google TV TA6|kujo|Philips Google TV TA6|
 |Philips|Philips Google TV TA6|kujo|Philips Google TV TA6 LT|
 |Philips|Philips Google TV TA7|PH3M_AL_T32|Philips Google TV TA7|
+|Philips|Philips Google TV TB3|PH1M_WW_9687|Philips Google TV TB3|
 |Philips|Philips S257|S257|Philips S257|
 |Philips|Philips S260|Philips_S260|Philips_S260|
 |Philips|Philips S310X|Philips_S310X|Philips S310X|
@@ -33845,6 +33850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 6 Pro|Augusta|TMAF035G|
 |T-Mobile|REVVL 6x 5G|TorreyPines|TMRV065G|
 |T-Mobile|REVVL 6x PRO 5G|SouthernDunes|TMRV06P5G|
+|T-Mobile|REVVL 7 Pro|Pinehurst|TMRV07P5G|
 |T-Mobile|REVVL TAB 5G|REVVLTAB5G|TMRV5GTB|
 |T-Mobile|REVVL V|Newcastle|TMRVL4G|
 |T-Mobile|REVVL V+ 5G|Sprout|REVVL V+ 5G|
@@ -36220,6 +36226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO|TECNO-BF7n|TECNO BF7n|
 |Tecno|TECNO|TECNO-BF7s|TECNO BF7s|
 |Tecno|TECNO|TECNO-BG6|TECNO BG6|
+|Tecno|TECNO|TECNO-BG6m|TECNO BG6m|
 |Tecno|TECNO AX8|TECNO-AX8|TECNO AX8|
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
@@ -36521,6 +36528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|TE590P|TE590P_U|TE590P|
 |TeloSystems|TELO_TE610|TELO_TE610|TELO_TE610|
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
+|TeloSystems|Telo_TE590P|TE590P_U|TE590P|
 |Telpo|C1|C1|C1|
 |Telpo|M1|M1s|M1s|
 |Telpo|M1K|M1K|M1K|
@@ -37160,6 +37168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|10C_LTE|10C_LTE|10C_LTE|
 |Umax|10L-PLUS|10L-PLUS|10L-PLUS|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
+|Umax|10T-LTE_EEA|10T-LTE_EEA|10T-LTE|
 |Umax|11T-LTE-Pro_EEA|11T-LTE-Pro_EEA|11T-LTE-Pro|
 |Umax|7A_3G|7A_3G|7A_3G|
 |Umax|7A_Plus_eea|7A_Plus|7A_Plus|

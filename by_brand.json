@@ -25394,6 +25394,11 @@
    "model": "Challenger 4K AI Smart TV"
   },
   {
+   "device": "barking",
+   "name": "55BO67",
+   "model": "CHALLENGER AndroidTV"
+  },
+  {
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
@@ -36453,6 +36458,11 @@
    "device": "P4",
    "name": "T10E",
    "model": "T10E"
+  },
+  {
+   "device": "P4",
+   "name": "T10E",
+   "model": "T40"
   },
   {
    "device": "P1T",
@@ -60716,6 +60726,11 @@
    "model": "E2281SS"
   },
   {
+   "device": "hengshan",
+   "name": "SmartLaser 4K",
+   "model": "SmartLaser 4K"
+  },
+  {
    "device": "rk3028a",
    "name": "SoundTab MA-317",
    "model": "Hisense SoundTab MA-317"
@@ -80709,6 +80724,11 @@
    "device": "D08",
    "name": "D08",
    "model": "D08"
+  },
+  {
+   "device": "D9",
+   "name": "D9",
+   "model": "D9"
   }
  ],
  "KANSELIR": [
@@ -131922,6 +131942,11 @@
    "model": "Philips Google TV TA7"
   },
   {
+   "device": "PH1M_WW_9687",
+   "name": "Philips Google TV TB3",
+   "model": "Philips Google TV TB3"
+  },
+  {
    "device": "S257",
    "name": "Philips S257",
    "model": "Philips S257"
@@ -173789,6 +173814,11 @@
    "model": "TMRV06P5G"
   },
   {
+   "device": "Pinehurst",
+   "name": "REVVL 7 Pro",
+   "model": "TMRV07P5G"
+  },
+  {
    "device": "REVVLTAB5G",
    "name": "REVVL TAB 5G",
    "model": "TMRV5GTB"
@@ -185872,6 +185902,11 @@
    "model": "TECNO BG6"
   },
   {
+   "device": "TECNO-BG6m",
+   "name": "TECNO",
+   "model": "TECNO BG6m"
+  },
+  {
    "device": "TECNO-AX8",
    "name": "TECNO AX8",
    "model": "TECNO AX8"
@@ -187437,6 +187472,11 @@
    "device": "TELO_TE610_O",
    "name": "TELO_TE610_O",
    "model": "TELO_TE610_O"
+  },
+  {
+   "device": "TE590P_U",
+   "name": "Telo_TE590P",
+   "model": "TE590P"
   }
  ],
  "Telpo": [
@@ -190816,6 +190856,11 @@
    "device": "10Qa_3G",
    "name": "10Qa_3G",
    "model": "VisionBook_10Qa_3G"
+  },
+  {
+   "device": "10T-LTE_EEA",
+   "name": "10T-LTE_EEA",
+   "model": "10T-LTE"
   },
   {
    "device": "11T-LTE-Pro_EEA",

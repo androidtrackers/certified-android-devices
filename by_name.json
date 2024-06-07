@@ -44699,6 +44699,13 @@
    "model": "S60CLI"
   }
  ],
+ "55BO67": [
+  {
+   "brand": "Challenger",
+   "device": "barking",
+   "model": "CHALLENGER AndroidTV"
+  }
+ ],
  "CHALLENGER": [
   {
    "brand": "Challenger",
@@ -60165,6 +60172,11 @@
    "brand": "Doogee",
    "device": "P4",
    "model": "T10E"
+  },
+  {
+   "brand": "Doogee",
+   "device": "P4",
+   "model": "T40"
   }
  ],
  "T10Plus": [
@@ -91355,6 +91367,13 @@
    "model": "E2281SS"
   }
  ],
+ "SmartLaser 4K": [
+  {
+   "brand": "Hisense",
+   "device": "hengshan",
+   "model": "SmartLaser 4K"
+  }
+ ],
  "SoundTab MA-317": [
   {
    "brand": "Hisense",
@@ -113328,6 +113347,13 @@
    "brand": "KAKTIN",
    "device": "D08",
    "model": "D08"
+  }
+ ],
+ "D9": [
+  {
+   "brand": "KAKTIN",
+   "device": "D9",
+   "model": "D9"
   }
  ],
  "KTB-168": [
@@ -172826,6 +172852,13 @@
    "model": "Philips Google TV TA7"
   }
  ],
+ "Philips Google TV TB3": [
+  {
+   "brand": "Philips",
+   "device": "PH1M_WW_9687",
+   "model": "Philips Google TV TB3"
+  }
+ ],
  "Philips S257": [
   {
    "brand": "Philips",
@@ -221051,6 +221084,13 @@
    "model": "TMRV06P5G"
   }
  ],
+ "REVVL 7 Pro": [
+  {
+   "brand": "T-Mobile",
+   "device": "Pinehurst",
+   "model": "TMRV07P5G"
+  }
+ ],
  "REVVL TAB 5G": [
   {
    "brand": "T-Mobile",
@@ -234512,6 +234552,11 @@
    "brand": "Tecno",
    "device": "TECNO-BG6",
    "model": "TECNO BG6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BG6m",
+   "model": "TECNO BG6m"
   }
  ],
  "TECNO AX8": [
@@ -236344,6 +236389,13 @@
    "brand": "TeloSystems",
    "device": "TELO_TE610_O",
    "model": "TELO_TE610_O"
+  }
+ ],
+ "Telo_TE590P": [
+  {
+   "brand": "TeloSystems",
+   "device": "TE590P_U",
+   "model": "TE590P"
   }
  ],
  "M1K": [
@@ -240170,6 +240222,13 @@
    "brand": "Umax",
    "device": "10Qa_3G",
    "model": "VisionBook_10Qa_3G"
+  }
+ ],
+ "10T-LTE_EEA": [
+  {
+   "brand": "Umax",
+   "device": "10T-LTE_EEA",
+   "model": "10T-LTE"
   }
  ],
  "11T-LTE-Pro_EEA": [

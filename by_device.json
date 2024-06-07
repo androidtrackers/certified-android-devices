@@ -42605,6 +42605,11 @@
    "model": "Casper AndroidTV"
   },
   {
+   "brand": "Challenger",
+   "name": "55BO67",
+   "model": "CHALLENGER AndroidTV"
+  },
+  {
    "brand": "Infinix",
    "name": "50X3",
    "model": "Infinix AndroidTV"
@@ -59726,6 +59731,11 @@
    "brand": "Doogee",
    "name": "T10E",
    "model": "T10E"
+  },
+  {
+   "brand": "Doogee",
+   "name": "T10E",
+   "model": "T40"
   },
   {
    "brand": "Doogee",
@@ -89246,6 +89256,28 @@
    "model": "E2281SS"
   }
  ],
+ "hengshan": [
+  {
+   "brand": "Hisense",
+   "name": "SmartLaser 4K",
+   "model": "SmartLaser 4K"
+  },
+  {
+   "brand": "Hisense",
+   "name": "ULED",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "65Z870MS",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "55QMP",
+   "model": "VU TV FFM"
+  }
+ ],
  "rk3028a": [
   {
    "brand": "Hisense",
@@ -89419,23 +89451,6 @@
    "brand": "Hisense",
    "name": "U988E-2",
    "model": "HS-U988"
-  }
- ],
- "hengshan": [
-  {
-   "brand": "Hisense",
-   "name": "ULED",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "65Z870MS",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "55QMP",
-   "model": "VU TV FFM"
   }
  ],
  "VH777": [
@@ -112370,6 +112385,13 @@
    "brand": "KAKTIN",
    "name": "D08",
    "model": "D08"
+  }
+ ],
+ "D9": [
+  {
+   "brand": "KAKTIN",
+   "name": "D9",
+   "model": "D9"
   }
  ],
  "KTB-168": [
@@ -173574,6 +173596,13 @@
    "model": "Philips Google TV TA6 LT"
   }
  ],
+ "PH1M_WW_9687": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TB3",
+   "model": "Philips Google TV TB3"
+  }
+ ],
  "S257": [
   {
    "brand": "Philips",
@@ -223414,6 +223443,13 @@
    "model": "TMRV06P5G"
   }
  ],
+ "Pinehurst": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 7 Pro",
+   "model": "TMRV07P5G"
+  }
+ ],
  "REVVLTAB5G": [
   {
    "brand": "T-Mobile",
@@ -236543,6 +236579,13 @@
    "model": "TECNO BF7s"
   }
  ],
+ "TECNO-BG6m": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO",
+   "model": "TECNO BG6m"
+  }
+ ],
  "TECNO-KC3": [
   {
    "brand": "Tecno",
@@ -238451,6 +238494,11 @@
   {
    "brand": "TeloSystems",
    "name": "TE590P",
+   "model": "TE590P"
+  },
+  {
+   "brand": "TeloSystems",
+   "name": "Telo_TE590P",
    "model": "TE590P"
   }
  ],
@@ -241973,6 +242021,13 @@
    "brand": "Umax",
    "name": "10Qa_3G",
    "model": "VisionBook_10Qa_3G"
+  }
+ ],
+ "10T-LTE_EEA": [
+  {
+   "brand": "Umax",
+   "name": "10T-LTE_EEA",
+   "model": "10T-LTE"
   }
  ],
  "11T-LTE-Pro_EEA": [

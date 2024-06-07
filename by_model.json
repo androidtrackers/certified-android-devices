@@ -39182,6 +39182,13 @@
    "device": "gangbyeon"
   }
  ],
+ "CHALLENGER AndroidTV": [
+  {
+   "brand": "Challenger",
+   "name": "55BO67",
+   "device": "barking"
+  }
+ ],
  "2K AI Smart TV": [
   {
    "brand": "Challenger",
@@ -54345,6 +54352,18 @@
    "brand": "Doogee",
    "name": "T10SE",
    "device": "P4"
+  }
+ ],
+ "T40": [
+  {
+   "brand": "Doogee",
+   "name": "T10E",
+   "device": "P4"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "T40",
+   "device": "T40"
   }
  ],
  "T10Plus": [
@@ -86193,6 +86212,13 @@
    "device": "rk3188"
   }
  ],
+ "SmartLaser 4K": [
+  {
+   "brand": "Hisense",
+   "name": "SmartLaser 4K",
+   "device": "hengshan"
+  }
+ ],
  "Hisense SoundTab MA-317": [
   {
    "brand": "Hisense",
@@ -111895,6 +111921,13 @@
    "brand": "KAKTIN",
    "name": "D08",
    "device": "D08"
+  }
+ ],
+ "D9": [
+  {
+   "brand": "KAKTIN",
+   "name": "D9",
+   "device": "D9"
   }
  ],
  "KTB-168": [
@@ -175852,6 +175885,13 @@
    "device": "PH3M_AL_T32"
   }
  ],
+ "Philips Google TV TB3": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TB3",
+   "device": "PH1M_WW_9687"
+  }
+ ],
  "Philips S257": [
   {
    "brand": "Philips",
@@ -229563,6 +229603,13 @@
    "device": "SouthernDunes"
   }
  ],
+ "TMRV07P5G": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 7 Pro",
+   "device": "Pinehurst"
+  }
+ ],
  "TMRV5GTB": [
   {
    "brand": "T-Mobile",
@@ -245295,6 +245342,13 @@
    "device": "TECNO-BF7s"
   }
  ],
+ "TECNO BG6m": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO",
+   "device": "TECNO-BG6m"
+  }
+ ],
  "TECNO KC3": [
   {
    "brand": "Tecno",
@@ -247267,6 +247321,11 @@
   {
    "brand": "TeloSystems",
    "name": "TE590P",
+   "device": "TE590P_U"
+  },
+  {
+   "brand": "TeloSystems",
+   "name": "Telo_TE590P",
    "device": "TE590P_U"
   }
  ],
@@ -251161,6 +251220,13 @@
    "device": "10Qa_3G"
   }
  ],
+ "10T-LTE": [
+  {
+   "brand": "Umax",
+   "name": "10T-LTE_EEA",
+   "device": "10T-LTE_EEA"
+  }
+ ],
  "11T-LTE-Pro": [
   {
    "brand": "Umax",
@@ -254292,13 +254358,6 @@
    "brand": "Veidoo",
    "name": "T30_Plus_EEA",
    "device": "T30_Plus_EEA"
-  }
- ],
- "T40": [
-  {
-   "brand": "Veidoo",
-   "name": "T40",
-   "device": "T40"
   }
  ],
  "T7S": [
