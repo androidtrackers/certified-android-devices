@@ -54824,6 +54824,13 @@
    "model": "Tablet_DL_3910"
   }
  ],
+ "D3_EEA": [
+  {
+   "brand": "DMOAO",
+   "device": "D3_EEA",
+   "model": "D3_EEA"
+  }
+ ],
  "D5-EEA": [
   {
    "brand": "DMOAO",
@@ -91374,6 +91381,13 @@
    "model": "SmartLaser 4K"
   }
  ],
+ "SmartTV 4K": [
+  {
+   "brand": "Hisense",
+   "device": "hengshan",
+   "model": "SmartTV 4K"
+  }
+ ],
  "SoundTab MA-317": [
   {
    "brand": "Hisense",
@@ -106477,6 +106491,11 @@
    "brand": "Infinix",
    "device": "Infinix-X6525",
    "model": "Infinix X6525"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6525D",
+   "model": "Infinix X6525D"
   }
  ],
  "Infinix SMART 8 HD": [
@@ -256256,6 +256275,13 @@
    "brand": "X-View",
    "device": "AMBER_KIDS",
    "model": "AMBER_KIDS"
+  }
+ ],
+ "Bears": [
+  {
+   "brand": "X-View",
+   "device": "Bears",
+   "model": "Bears"
   }
  ],
  "PROTON_AMBER_HD": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-07
+Last sync is 2024-06-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6305,6 +6305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DL|X_Quad_Pro|X_Quad_Pro|Tablet DL 3410|
 |DL|YZU_DS53|Smartphone_YZU_DS53|Smartphone_YZU_DS53|
 |DL|i-Player_KIDS|Tablet_DL_3910|Tablet_DL_3910|
+|DMOAO|D3_EEA|D3_EEA|D3_EEA|
 |DMOAO|D5-EEA|D5-EEA|D5-EEA|
 |DMOAO|D5-T-EEA|D5-T-EEA|D5-T-EEA|
 |DMOAO|D5-T-US|D5-T-US|D5-T-US|
@@ -11729,6 +11730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Sero7 LE|rk3026|E2371|
 |Hisense|Sero8|rk3188|E2281SS|
 |Hisense|SmartLaser 4K|hengshan|SmartLaser 4K|
+|Hisense|SmartTV 4K|hengshan|SmartTV 4K|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -14525,6 +14527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 7|Infinix-X6515|Infinix X6515|
 |Infinix|Infinix SMART 7 HD|Infinix-X6516|Infinix X6516|
 |Infinix|Infinix SMART 8|Infinix-X6525|Infinix X6525|
+|Infinix|Infinix SMART 8|Infinix-X6525D|Infinix X6525D|
 |Infinix|Infinix SMART 8 HD|Infinix-X6525|Infinix X6525|
 |Infinix|Infinix SMART 8 PRO|Infinix-X6525B|Infinix X6525B|
 |Infinix|Infinix SMART 8 Plus|Infinix-X6526|Infinix X6526|
@@ -39793,6 +39796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|X_TIGI_V16_LTE|X_TIGI_V16_LTE|X_TIGI_V16_LTE|
 |X-TIGI|Y10|Y10|Y10|
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
+|X-View|Bears|Bears|Bears|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
 |X-View|PRO_BOOK|PRO_BOOK|PRO_BOOK|
 |X-View|Proton_Helium_Max|Proton_Helium_Max|Proton_Helium_Max|

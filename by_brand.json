@@ -32607,6 +32607,11 @@
  ],
  "DMOAO": [
   {
+   "device": "D3_EEA",
+   "name": "D3_EEA",
+   "model": "D3_EEA"
+  },
+  {
    "device": "D5-EEA",
    "name": "D5-EEA",
    "model": "D5-EEA"
@@ -60731,6 +60736,11 @@
    "model": "SmartLaser 4K"
   },
   {
+   "device": "hengshan",
+   "name": "SmartTV 4K",
+   "model": "SmartTV 4K"
+  },
+  {
    "device": "rk3028a",
    "name": "SoundTab MA-317",
    "model": "Hisense SoundTab MA-317"
@@ -74907,6 +74917,11 @@
    "device": "Infinix-X6525",
    "name": "Infinix SMART 8",
    "model": "Infinix X6525"
+  },
+  {
+   "device": "Infinix-X6525D",
+   "name": "Infinix SMART 8",
+   "model": "Infinix X6525D"
   },
   {
    "device": "Infinix-X6525",
@@ -204385,6 +204400,11 @@
    "device": "AMBER_KIDS",
    "name": "AMBER_KIDS",
    "model": "AMBER_KIDS"
+  },
+  {
+   "device": "Bears",
+   "name": "Bears",
+   "model": "Bears"
   },
   {
    "device": "Proton_Amber_HD",

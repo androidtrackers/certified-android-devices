@@ -54157,6 +54157,13 @@
    "model": "Tablet_DL_3910"
   }
  ],
+ "D3_EEA": [
+  {
+   "brand": "DMOAO",
+   "name": "D3_EEA",
+   "model": "D3_EEA"
+  }
+ ],
  "D5-EEA": [
   {
    "brand": "DMOAO",
@@ -89264,6 +89271,11 @@
   },
   {
    "brand": "Hisense",
+   "name": "SmartTV 4K",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Hisense",
    "name": "ULED",
    "model": "SmartTV 4K FFM"
   },
@@ -105585,6 +105597,13 @@
    "brand": "Infinix",
    "name": "Infinix SMART 8 HD",
    "model": "Infinix X6525"
+  }
+ ],
+ "Infinix-X6525D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 8",
+   "model": "Infinix X6525D"
   }
  ],
  "Infinix-X6525B": [
@@ -257582,6 +257601,13 @@
    "brand": "X-View",
    "name": "AMBER_KIDS",
    "model": "AMBER_KIDS"
+  }
+ ],
+ "Bears": [
+  {
+   "brand": "X-View",
+   "name": "Bears",
+   "model": "Bears"
   }
  ],
  "Proton_Amber_HD": [
