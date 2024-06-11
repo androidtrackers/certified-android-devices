@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-10
+Last sync is 2024-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -51,6 +51,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |A1|A1-Smart-Box-DV9161|DV9161-KBA|A1-Smart-Box-DV9161|
 |A1|ADT-3|adt3|ADT-3|
 |A1|Ai-ES1059|Ai-ES1059|Ai-ES1059|
+|AAUW|M50|M50|M50|
 |AAUW|T10|T10|T10|
 |AAUW|T50_2023|T50_2023|T50_2023|
 |AAUW|T60PRO|T60PRO_ROW|T60PRO_ROW|
@@ -8233,6 +8234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F101 Pro|F101_Pro|F101 Pro|
 |FOSSiBOT|F102|F102|F102|
 |FOSSiBOT|F102 ROW|F102|F102|
+|FOSSiBOT|F106 Pro EEA|F106_Pro|F106 Pro|
 |FOSSiBOT|F106 Pro ROW|F106_Pro|F106 Pro|
 |FOSSiBOT|Tab 11|Tab_11|Tab 11|
 |FOXX|T8C|T8C|T8C|
@@ -10953,6 +10955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HannSpree|HSG1472|HSG1472|HSG1472|
 |HannSpree|Hannspad|Hannspad|Hannspad|
 |HannSpree|HannspadPro|HannspadPro|HannspadPro|
+|Hanshow|VisCart|Clip-on_Smart_Trolley|CT10-W0C3|
 |Haoqin|SpaceTab_H20|SpaceTab_H20|SpaceTab_H20|
 |Haoqin|SpaceTab_H20_EEA|SpaceTab_H20_EEA|SpaceTab_H20_EEA|
 |Harman TV|JBL link bar|atom|JBL LINK BAR|
@@ -18050,6 +18053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGU+|UHD4K|UHD4K|UHD4K|
 |LGU+|UHD4T|uie4057lgu|uie4057lgu|
 |LGU+|WA-U420D|WA-U420D|WA-U420D|
+|LG_Electronics|TR3DK|TR3DK|TR3DK|
 |LG_Electronics|TR3PN|rk3588_t|TR3PN|
 |LIAONING YIYATONG|DISNEY_Tablet_PC|DISNEY_Tablet_PC|DS2310-70LP|
 |LIAONING YIYATONG|IRULU_MID|IRULU_MID|X10|
@@ -36947,6 +36951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tvera|Tvera|seocho|Tvera 4K Android TV|
 |Tvstar|TVSTAR|seocho|TVSTAR 4K Android TV|
 |TwinMOS|MQ703G|MQ703G|MQ703G|
+|UAUU|M10|M10|M10|
 |UAUU|T30|T30|T30|
 |UAUU|T60|T60|T60|
 |UAUU|T90_NEW|T90_NEW|T90_NEW|
@@ -38692,6 +38697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Pad2|DPD2345|iPA2453|
+|Vivo|iQOO Pad2 Pro|DPD2329|iPA2475|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|

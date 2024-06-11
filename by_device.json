@@ -700,6 +700,38 @@
    "model": "Ai-ES1059"
   }
  ],
+ "M50": [
+  {
+   "brand": "AAUW",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "AOYODKG",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "Bitel",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "ELO Touch",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "Smart",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "ZOLON",
+   "name": "M50",
+   "model": "M50"
+  }
+ ],
  "T10": [
   {
    "brand": "AAUW",
@@ -5873,33 +5905,6 @@
    "brand": "Umidigi",
    "name": "A7",
    "model": "A7"
-  }
- ],
- "M50": [
-  {
-   "brand": "AOYODKG",
-   "name": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "Bitel",
-   "name": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "ELO Touch",
-   "name": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "Smart",
-   "name": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "ZOLON",
-   "name": "M50",
-   "model": "M50"
   }
  ],
  "M50_EEA": [
@@ -41793,6 +41798,11 @@
    "brand": "Snopow",
    "name": "M10",
    "model": "M10"
+  },
+  {
+   "brand": "UAUU",
+   "name": "M10",
+   "model": "M10"
   }
  ],
  "C10G": [
@@ -67481,6 +67491,11 @@
  "F106_Pro": [
   {
    "brand": "FOSSiBOT",
+   "name": "F106 Pro EEA",
+   "model": "F106 Pro"
+  },
+  {
+   "brand": "FOSSiBOT",
    "name": "F106 Pro ROW",
    "model": "F106 Pro"
   }
@@ -84829,6 +84844,13 @@
    "brand": "HannSpree",
    "name": "HannspadPro",
    "model": "HannspadPro"
+  }
+ ],
+ "Clip-on_Smart_Trolley": [
+  {
+   "brand": "Hanshow",
+   "name": "VisCart",
+   "model": "CT10-W0C3"
   }
  ],
  "SpaceTab_H20": [
@@ -126059,6 +126081,13 @@
    "brand": "Welgate",
    "name": "WA-U420D",
    "model": "WA-U420D"
+  }
+ ],
+ "TR3DK": [
+  {
+   "brand": "LG_Electronics",
+   "name": "TR3DK",
+   "model": "TR3DK"
   }
  ],
  "DISNEY_Tablet_PC": [
@@ -251099,6 +251128,18 @@
    "model": "PA2455"
   }
  ],
+ "DPD2329": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Pad2 Pro",
+   "model": "iPA2475"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad3 Pro",
+   "model": "PA2473"
+  }
+ ],
  "2018": [
   {
    "brand": "Vivo",
@@ -251657,13 +251698,6 @@
    "brand": "Vivo",
    "name": "vivo Pad2",
    "model": "PA2373"
-  }
- ],
- "DPD2329": [
-  {
-   "brand": "Vivo",
-   "name": "vivo Pad3 Pro",
-   "model": "PA2473"
   }
  ],
  "PD1831": [

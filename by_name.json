@@ -6122,6 +6122,48 @@
    "model": "Ai-ES1059"
   }
  ],
+ "M50": [
+  {
+   "brand": "AAUW",
+   "device": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "AOYODKG",
+   "device": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "Bitel",
+   "device": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "ELO Touch",
+   "device": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "Evercoss",
+   "device": "EVERCOSS_M50",
+   "model": "M50"
+  },
+  {
+   "brand": "PAX (CN)",
+   "device": "PAXM50",
+   "model": "M50"
+  },
+  {
+   "brand": "Smart",
+   "device": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "ZOLON",
+   "device": "M50",
+   "model": "M50"
+  }
+ ],
  "T10": [
   {
    "brand": "AAUW",
@@ -8550,43 +8592,6 @@
    "brand": "Umidigi",
    "device": "A7_EEA",
    "model": "A7"
-  }
- ],
- "M50": [
-  {
-   "brand": "AOYODKG",
-   "device": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "Bitel",
-   "device": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "ELO Touch",
-   "device": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "Evercoss",
-   "device": "EVERCOSS_M50",
-   "model": "M50"
-  },
-  {
-   "brand": "PAX (CN)",
-   "device": "PAXM50",
-   "model": "M50"
-  },
-  {
-   "brand": "Smart",
-   "device": "M50",
-   "model": "M50"
-  },
-  {
-   "brand": "ZOLON",
-   "device": "M50",
-   "model": "M50"
   }
  ],
  "M50_EEA": [
@@ -27478,6 +27483,11 @@
    "brand": "Southern Telecom",
    "device": "ST1009",
    "model": "M10/Q1010"
+  },
+  {
+   "brand": "UAUU",
+   "device": "M10",
+   "model": "M10"
   },
   {
    "brand": "VOLENTEX",
@@ -68825,6 +68835,13 @@
    "model": "F102"
   }
  ],
+ "F106 Pro EEA": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "F106_Pro",
+   "model": "F106 Pro"
+  }
+ ],
  "F106 Pro ROW": [
   {
    "brand": "FOSSiBOT",
@@ -86608,6 +86625,13 @@
    "brand": "HannSpree",
    "device": "HannspadPro",
    "model": "HannspadPro"
+  }
+ ],
+ "VisCart": [
+  {
+   "brand": "Hanshow",
+   "device": "Clip-on_Smart_Trolley",
+   "model": "CT10-W0C3"
   }
  ],
  "SpaceTab_H20": [
@@ -126985,6 +127009,13 @@
    "brand": "Welgate",
    "device": "WA-U420D",
    "model": "WA-U420D"
+  }
+ ],
+ "TR3DK": [
+  {
+   "brand": "LG_Electronics",
+   "device": "TR3DK",
+   "model": "TR3DK"
   }
  ],
  "TR3PN": [
@@ -249589,6 +249620,13 @@
    "brand": "Vivo",
    "device": "DPD2345",
    "model": "iPA2453"
+  }
+ ],
+ "iQOO Pad2 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "DPD2329",
+   "model": "iPA2475"
   }
  ],
  "iQOO Z5": [

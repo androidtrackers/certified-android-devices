@@ -265,6 +265,11 @@
  ],
  "AAUW": [
   {
+   "device": "M50",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
    "device": "T10",
    "name": "T10",
    "model": "T10"
@@ -42756,6 +42761,11 @@
   },
   {
    "device": "F106_Pro",
+   "name": "F106 Pro EEA",
+   "model": "F106 Pro"
+  },
+  {
+   "device": "F106_Pro",
    "name": "F106 Pro ROW",
    "model": "F106 Pro"
   },
@@ -56799,6 +56809,13 @@
    "device": "HannspadPro",
    "name": "HannspadPro",
    "model": "HannspadPro"
+  }
+ ],
+ "Hanshow": [
+  {
+   "device": "Clip-on_Smart_Trolley",
+   "name": "VisCart",
+   "model": "CT10-W0C3"
   }
  ],
  "Haoqin": [
@@ -92909,6 +92926,11 @@
   }
  ],
  "LG_Electronics": [
+  {
+   "device": "TR3DK",
+   "name": "TR3DK",
+   "model": "TR3DK"
+  },
   {
    "device": "rk3588_t",
    "name": "TR3PN",
@@ -189699,6 +189721,11 @@
  ],
  "UAUU": [
   {
+   "device": "M10",
+   "name": "M10",
+   "model": "M10"
+  },
+  {
    "device": "T30",
    "name": "T30",
    "model": "T30"
@@ -198692,6 +198719,11 @@
    "device": "DPD2345",
    "name": "iQOO Pad2",
    "model": "iPA2453"
+  },
+  {
+   "device": "DPD2329",
+   "name": "iQOO Pad2 Pro",
+   "model": "iPA2475"
   },
   {
    "device": "2018",
