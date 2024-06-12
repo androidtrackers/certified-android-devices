@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-11
+Last sync is 2024-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7045,6 +7045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T10 Pro|P1S_2|T10Pro|
 |Doogee|T10E|P4|T10E|
 |Doogee|T10E|P4|T40|
+|Doogee|T10Plus|P1T|T10PLUS|
 |Doogee|T10Plus|P1T|T10Plus|
 |Doogee|T10Pro|P1_2|T10Pro|
 |Doogee|T10S|P1D|T10S|
@@ -7360,6 +7361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EDUTAB|ELITE_10|ELITE_10|ELITE_10|
 |EGBOK|P803|P803|P803|
 |EGOBOO|EB101|EB101|EB101|
+|EGOBOO|EB104|EB104|EB104|
 |EGOTEK|AK10|AK10|AK10|
 |EGOTEK|EGO1003|EGO1003|EGO1003|
 |EGOTEK|Mars8|Mars8|Mars8|
@@ -19932,11 +19934,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEFERI|ME74|ME74|ME74|
 |MEIZE|D105|D105|D105|
 |MEIZE|D106|D106|D106|
-|MEO(Portugal)|AVATAR 3|VSB3918-MEO|MEOBox 4K (VSB3918)|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K|DV8985-MEO|MEOBox 4K DV8985|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
+|MEO(Portugal)|MEOBox 4K VSB|VSB3918-MEO|MEOBox 4K (VSB3918)|
 |MEO(Portugal)|MEOBox 4K v2|DIW377-MEO|MEO TV Box 4K (DIW377)|
 |METHOD_XI|KW_IWB|KW_RK3588|METHOD_XI_8600|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
@@ -24580,6 +24582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
 |Oppo|Reno12|OP5A29L1|PJV110|
 |Oppo|Reno12 Pro|OP5A2BL1|PJW110|
+|Oppo|Reno12 Pro 5G|OP5AE1L1|CPH2629|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -27191,6 +27194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Smart TV|osaki|2K AI Smart TV|
 |RCA|Smart TV|osaki|Treeview 2K AI Smart TV|
 |RCA|Smart TV|ueno|2K Android TV|
+|RCA|Tab_Pro|Tab_Pro|Tab_Pro|
 |RCA|US|marina|RCA 4K SMART TV|
 |RCA|Voyager|RCT6873W42BMF8|RCT6873W42BMF8|
 |RCA|Voyager|RCT6873W42BMF9E|RCT6873W42BMF9E|
@@ -41284,7 +41288,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Nubia 6010|P963F07|Nubia 6010|
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia 8031|P963F06|Nubia 8031|
-|ZTE|Nubia Flip 5G|P745F01|NX724J|
 |ZTE|Nubia N11|P731F50|Nubia N11|
 |ZTE|Nubia N40|P963F50_A|Nubia N40|
 |ZTE|Nubia N40|P963F50_A|ZTE Blade A51 Lite|
@@ -42099,6 +42102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia Blade A72|Z6255|Z6255CA|
+|ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|

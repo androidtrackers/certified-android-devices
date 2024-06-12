@@ -60200,6 +60200,11 @@
   {
    "brand": "Doogee",
    "device": "P1T",
+   "model": "T10PLUS"
+  },
+  {
+   "brand": "Doogee",
+   "device": "P1T",
    "model": "T10Plus"
   }
  ],
@@ -62586,6 +62591,13 @@
    "brand": "EGOBOO",
    "device": "EB101",
    "model": "EB101"
+  }
+ ],
+ "EB104": [
+  {
+   "brand": "EGOBOO",
+   "device": "EB104",
+   "model": "EB104"
   }
  ],
  "AK10": [
@@ -138358,13 +138370,6 @@
    "model": "D106"
   }
  ],
- "AVATAR 3": [
-  {
-   "brand": "MEO(Portugal)",
-   "device": "VSB3918-MEO",
-   "model": "MEOBox 4K (VSB3918)"
-  }
- ],
  "MEO TV Box 4K": [
   {
    "brand": "MEO(Portugal)",
@@ -138389,6 +138394,13 @@
    "brand": "MEO(Portugal)",
    "device": "DIW3930-MEO",
    "model": "MEO TV Box 4K (DIW3930)"
+  }
+ ],
+ "MEOBox 4K VSB": [
+  {
+   "brand": "MEO(Portugal)",
+   "device": "VSB3918-MEO",
+   "model": "MEOBox 4K (VSB3918)"
   }
  ],
  "MEOBox 4K v2": [
@@ -166103,6 +166115,13 @@
    "model": "PJW110"
   }
  ],
+ "Reno12 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5AE1L1",
+   "model": "CPH2629"
+  }
+ ],
  "Reno2 Z": [
   {
    "brand": "Oppo",
@@ -182491,6 +182510,13 @@
    "brand": "RCA",
    "device": "Reno_Pro",
    "model": "Reno Pro"
+  }
+ ],
+ "Tab_Pro": [
+  {
+   "brand": "RCA",
+   "device": "Tab_Pro",
+   "model": "Tab_Pro"
   }
  ],
  "US": [
@@ -263871,13 +263897,6 @@
    "model": "Nubia 8031"
   }
  ],
- "Nubia Flip 5G": [
-  {
-   "brand": "ZTE",
-   "device": "P745F01",
-   "model": "NX724J"
-  }
- ],
  "Nubia N11": [
   {
    "brand": "ZTE",
@@ -268831,6 +268850,11 @@
   }
  ],
  "nubia Flip 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P745F01",
+   "model": "NX724J"
+  },
   {
    "brand": "ZTE",
    "device": "Z8888S",

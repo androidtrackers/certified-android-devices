@@ -36477,6 +36477,11 @@
   {
    "device": "P1T",
    "name": "T10Plus",
+   "model": "T10PLUS"
+  },
+  {
+   "device": "P1T",
+   "name": "T10Plus",
    "model": "T10Plus"
   },
   {
@@ -38114,6 +38119,11 @@
    "device": "EB101",
    "name": "EB101",
    "model": "EB101"
+  },
+  {
+   "device": "EB104",
+   "name": "EB104",
+   "model": "EB104"
   }
  ],
  "EGOTEK": [
@@ -102524,11 +102534,6 @@
  ],
  "MEO(Portugal)": [
   {
-   "device": "VSB3918-MEO",
-   "name": "AVATAR 3",
-   "model": "MEOBox 4K (VSB3918)"
-  },
-  {
    "device": "DV8555-MEO",
    "name": "MEO TV Box 4K",
    "model": "MEO TV Box 4K"
@@ -102547,6 +102552,11 @@
    "device": "DIW3930-MEO",
    "name": "MEOBox 4K",
    "model": "MEO TV Box 4K (DIW3930)"
+  },
+  {
+   "device": "VSB3918-MEO",
+   "name": "MEOBox 4K VSB",
+   "model": "MEOBox 4K (VSB3918)"
   },
   {
    "device": "DIW377-MEO",
@@ -126458,6 +126468,11 @@
    "model": "PJW110"
   },
   {
+   "device": "OP5AE1L1",
+   "name": "Reno12 Pro 5G",
+   "model": "CPH2629"
+  },
+  {
    "device": "OP4B65L1",
    "name": "Reno2 Z",
    "model": "CPH1945"
@@ -139871,6 +139886,11 @@
    "device": "ueno",
    "name": "Smart TV",
    "model": "2K Android TV"
+  },
+  {
+   "device": "Tab_Pro",
+   "name": "Tab_Pro",
+   "model": "Tab_Pro"
   },
   {
    "device": "marina",
@@ -211994,11 +212014,6 @@
    "model": "Nubia 8031"
   },
   {
-   "device": "P745F01",
-   "name": "Nubia Flip 5G",
-   "model": "NX724J"
-  },
-  {
    "device": "P731F50",
    "name": "Nubia N11",
    "model": "Nubia N11"
@@ -216067,6 +216082,11 @@
    "device": "Z6255",
    "name": "nubia Blade A72",
    "model": "Z6255CA"
+  },
+  {
+   "device": "P745F01",
+   "name": "nubia Flip 5G",
+   "model": "NX724J"
   },
   {
    "device": "Z8888S",
