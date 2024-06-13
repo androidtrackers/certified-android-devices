@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-12
+Last sync is 2024-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1346,6 +1346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AM535|AM535|AM535|
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
+|Amino|Amigo7Y|Amigo7Y|Amigo 7Y|
 |Amino|DFN-Amigo7x|Amigo7x3|DFN-Amigo7x|
 |Aminocom|Amigo|Amigo|Amigo7|
 |Aminocom|Amigo7x|Amigo7x|Amigo7x|
@@ -12029,6 +12030,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
 |Honor|HONOR 100|HNMAA|MAA-AN00|
 |Honor|HONOR 100 Pro|HNMAP|MAA-AN10|
+|Honor|HONOR 200|HNELIX|ELI-NX9|
+|Honor|HONOR 200 Pro|HNELPX|ELP-NX9|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
@@ -25077,6 +25080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M5|rock|22071219CI|
 |POCO|POCO M5|stone|22071219CG|
 |POCO|POCO M5s|rosemary|2207117BPG|
+|POCO|POCO M6|moon|2404APC5FG|
 |POCO|POCO M6 Plus 5G|breeze|24066PC95I|
 |POCO|POCO M6 Pro|emerald|2312FPCA6G|
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
@@ -25092,6 +25096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X5 Pro 5G|redwoodin|22101320I|
 |POCO|POCO X6 5G|garnet|23122PCD1G|
 |POCO|POCO X6 5G|garnet|23122PCD1I|
+|POCO|POCO X6 Pro 5G|duchamp|2311DRK48G|
 |POCO|POCO X6 Pro 5G|duchamp|2311DRK48I|
 |POOLS|POOLS The DOLLAR|POOLS_The_DOLLAR|POOLS_The_DOLLAR|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
@@ -27433,6 +27438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 12C|earth|22120RN86G|
 |Redmi|Redmi 12C|earth|22120RN86I|
 |Redmi|Redmi 12C|earth|2212ARNC4L|
+|Redmi|Redmi 13|moon|24040RN64Y|
 |Redmi|Redmi 13 5G|breeze|2406ERN9CI|
 |Redmi|Redmi 13C|gale|23100RN82L|
 |Redmi|Redmi 13C|gale|23106RN0DA|
@@ -27508,6 +27514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K60 Pro|socrates|22127RK46C|
 |Redmi|Redmi K60 Ultra|corot|23078RKD5C|
 |Redmi|Redmi K60E|rembrandt|22122RK93C|
+|Redmi|Redmi K70E|duchamp|2311DRK48C|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
@@ -28321,6 +28328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
 |SUPERSONIC|USA|yeongdeungpo|SUPERSONIC UHD Android TV|
 |SUPOIN|S66|S66|S66|
+|SUXI|T700|T700|T700|
 |SWTV|Asia|SW3_ATV|SWTV|
 |SWTV|Europe|SW3H_ATV|SWTV|
 |SWTV|North America|SW3_ATV|SWTV|
@@ -38611,6 +38619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y27 5G|V2248G|V2302|
 |Vivo|Y27s|V2247|V2322|
 |Vivo|Y27s|V2247|V2335|
+|Vivo|Y28|V2352|V2352|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y28 5G|V2315|V2315|
 |Vivo|Y30 5G|2160|V2160|

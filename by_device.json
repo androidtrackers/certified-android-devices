@@ -18185,6 +18185,13 @@
    "model": "AM518"
   }
  ],
+ "Amigo7Y": [
+  {
+   "brand": "Amino",
+   "name": "Amigo7Y",
+   "model": "Amigo 7Y"
+  }
+ ],
  "Amigo7x3": [
   {
    "brand": "Amino",
@@ -62525,6 +62532,11 @@
    "brand": "EPIKONE",
    "name": "T700",
    "model": "T700"
+  },
+  {
+   "brand": "SUXI",
+   "name": "T700",
+   "model": "T700"
   }
  ],
  "TX1000": [
@@ -91015,6 +91027,20 @@
    "brand": "Honor",
    "name": "HONOR 100 Pro",
    "model": "MAA-AN10"
+  }
+ ],
+ "HNELIX": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200",
+   "model": "ELI-NX9"
+  }
+ ],
+ "HNELPX": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200 Pro",
+   "model": "ELP-NX9"
   }
  ],
  "HNNTH": [
@@ -170210,6 +170236,23 @@
    "model": "2207117BPG"
   }
  ],
+ "moon": [
+  {
+   "brand": "POCO",
+   "name": "POCO M6",
+   "model": "2404APC5FG"
+  },
+  {
+   "brand": "Pantech",
+   "name": "Crossover",
+   "model": "PantechP8000"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 13",
+   "model": "24040RN64Y"
+  }
+ ],
  "breeze": [
   {
    "brand": "POCO",
@@ -170370,7 +170413,17 @@
   {
    "brand": "POCO",
    "name": "POCO X6 Pro 5G",
+   "model": "2311DRK48G"
+  },
+  {
+   "brand": "POCO",
+   "name": "POCO X6 Pro 5G",
    "model": "2311DRK48I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi K70E",
+   "model": "2311DRK48C"
   }
  ],
  "POOLS_The_DOLLAR": [
@@ -172443,13 +172496,6 @@
    "brand": "Pantech",
    "name": "Burst",
    "model": "PantechP9070"
-  }
- ],
- "moon": [
-  {
-   "brand": "Pantech",
-   "name": "Crossover",
-   "model": "PantechP8000"
   }
  ],
  "ef33s": [
@@ -250631,6 +250677,13 @@
    "brand": "Vivo",
    "name": "Y36",
    "model": "V2324"
+  }
+ ],
+ "V2352": [
+  {
+   "brand": "Vivo",
+   "name": "Y28",
+   "model": "V2352"
   }
  ],
  "Y28": [

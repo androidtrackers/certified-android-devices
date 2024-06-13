@@ -18195,6 +18195,13 @@
    "model": "AM518"
   }
  ],
+ "Amigo7Y": [
+  {
+   "brand": "Amino",
+   "device": "Amigo7Y",
+   "model": "Amigo 7Y"
+  }
+ ],
  "DFN-Amigo7x": [
   {
    "brand": "Amino",
@@ -63777,6 +63784,11 @@
    "brand": "EPIKONE",
    "device": "T700",
    "model": "T700"
+  },
+  {
+   "brand": "SUXI",
+   "device": "T700",
+   "model": "T700"
   }
  ],
  "TX1000": [
@@ -93189,6 +93201,20 @@
    "brand": "Honor",
    "device": "HNMAP",
    "model": "MAA-AN10"
+  }
+ ],
+ "HONOR 200": [
+  {
+   "brand": "Honor",
+   "device": "HNELIX",
+   "model": "ELI-NX9"
+  }
+ ],
+ "HONOR 200 Pro": [
+  {
+   "brand": "Honor",
+   "device": "HNELPX",
+   "model": "ELP-NX9"
   }
  ],
  "HONOR 50": [
@@ -169324,6 +169350,13 @@
    "model": "2207117BPG"
   }
  ],
+ "POCO M6": [
+  {
+   "brand": "POCO",
+   "device": "moon",
+   "model": "2404APC5FG"
+  }
+ ],
  "POCO M6 Plus 5G": [
   {
    "brand": "POCO",
@@ -169422,6 +169455,11 @@
   }
  ],
  "POCO X6 Pro 5G": [
+  {
+   "brand": "POCO",
+   "device": "duchamp",
+   "model": "2311DRK48G"
+  },
   {
    "brand": "POCO",
    "device": "duchamp",
@@ -184158,6 +184196,13 @@
    "model": "2212ARNC4L"
   }
  ],
+ "Redmi 13": [
+  {
+   "brand": "Redmi",
+   "device": "moon",
+   "model": "24040RN64Y"
+  }
+ ],
  "Redmi 13 5G": [
   {
    "brand": "Redmi",
@@ -184640,6 +184685,13 @@
    "brand": "Redmi",
    "device": "rembrandt",
    "model": "22122RK93C"
+  }
+ ],
+ "Redmi K70E": [
+  {
+   "brand": "Redmi",
+   "device": "duchamp",
+   "model": "2311DRK48C"
   }
  ],
  "Redmi Note 10": [
@@ -249061,6 +249113,11 @@
   }
  ],
  "Y28": [
+  {
+   "brand": "Vivo",
+   "device": "V2352",
+   "model": "V2352"
+  },
   {
    "brand": "Vivo",
    "device": "Y28",

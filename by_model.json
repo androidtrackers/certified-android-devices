@@ -13518,6 +13518,13 @@
    "device": "AM518"
   }
  ],
+ "Amigo 7Y": [
+  {
+   "brand": "Amino",
+   "name": "Amigo7Y",
+   "device": "Amigo7Y"
+  }
+ ],
  "DFN-Amigo7x": [
   {
    "brand": "Amino",
@@ -57460,6 +57467,11 @@
    "device": "T700"
   },
   {
+   "brand": "SUXI",
+   "name": "T700",
+   "device": "T700"
+  },
+  {
    "brand": "Toughshield",
    "name": "T700_TABLET",
    "device": "T700_TABLET"
@@ -87888,6 +87900,20 @@
    "brand": "Honor",
    "name": "HONOR 100 Pro",
    "device": "HNMAP"
+  }
+ ],
+ "ELI-NX9": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200",
+   "device": "HNELIX"
+  }
+ ],
+ "ELP-NX9": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200 Pro",
+   "device": "HNELPX"
   }
  ],
  "NTH-NX9": [
@@ -172244,6 +172270,13 @@
    "device": "rosemary"
   }
  ],
+ "2404APC5FG": [
+  {
+   "brand": "POCO",
+   "name": "POCO M6",
+   "device": "moon"
+  }
+ ],
  "24066PC95I": [
   {
    "brand": "POCO",
@@ -172347,6 +172380,13 @@
    "brand": "POCO",
    "name": "POCO X6 5G",
    "device": "garnet"
+  }
+ ],
+ "2311DRK48G": [
+  {
+   "brand": "POCO",
+   "name": "POCO X6 Pro 5G",
+   "device": "duchamp"
   }
  ],
  "2311DRK48I": [
@@ -187261,6 +187301,13 @@
    "device": "earth"
   }
  ],
+ "24040RN64Y": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 13",
+   "device": "moon"
+  }
+ ],
  "2406ERN9CI": [
   {
    "brand": "Redmi",
@@ -187768,6 +187815,13 @@
    "brand": "Redmi",
    "name": "Redmi K60E",
    "device": "rembrandt"
+  }
+ ],
+ "2311DRK48C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K70E",
+   "device": "duchamp"
   }
  ],
  "M2103K19C": [
@@ -260223,6 +260277,13 @@
    "brand": "Vivo",
    "name": "Y27s",
    "device": "V2247"
+  }
+ ],
+ "V2352": [
+  {
+   "brand": "Vivo",
+   "name": "Y28",
+   "device": "V2352"
   }
  ],
  "vivo Y28": [
