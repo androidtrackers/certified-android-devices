@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-13
+Last sync is 2024-06-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3303,6 +3303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
 |BenQ|RE04_series|RE04_series|RE04_series|
+|BenQ|RE6504N|RE04N_series|RE04N_series|
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
 |BenQ|RM8604|RM8604|RM8604|
@@ -6579,6 +6580,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|TIQ_1048|TIQ_1048|TIQ-1048|
 |Detco|Detco 4K Google TV|keoneae|Detco 4K Google TV|
 |Deutsche Telekom|T Phone|Jaguar|T Phone|
+|Deutsche Telekom|T Phone 2|PUMA|T Phone 2|
+|Deutsche Telekom|T Phone 2 Pro|CHEETAH|T Phone 2 Pro|
 |Deutsche Telekom|T Phone Pro|Lion|T Phone Pro|
 |Deutsche Telekom|T Phone Pro (2023)|Tiger|T Phone Pro (2023)|
 |Deutsche Telekom|T Phone （2023）|Leopard|T Phone (2023)|
@@ -8191,6 +8194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FELUX|X_Pro|X_Pro|X Pro|
 |FEONAL|D105_EEA|D105_EEA|D105_EEA|
 |FEONAL|D106_EEA|D106_EEA|D106_EEA|
+|FEONAL|D109_EEA|D109_EEA|D109_EEA|
 |FEONAL|D118_EEA|D118_EEA|D118_EEA|
 |FEONAL|K104|K104|K104|
 |FEONAL|K110_EEA|K110_EEA|K110_EEA|
@@ -12024,13 +12028,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|RT10A|TA60A-L0-C|TA60A|
 |Honeywell|RT10A|TA60A-L1-C|RT10A|
 |Honeywell|RT10A|TA60A-L1-C|TA60A|
+|Honeywell|RT60A|TA60A-L1-C|TA60A|
 |Honeywell|Thor VM1A|VM1A-L0-N|VM1A|
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
 |Honor|HONOR 100|HNMAA|MAA-AN00|
 |Honor|HONOR 100 Pro|HNMAP|MAA-AN10|
+|Honor|HONOR 200|HNELI|ELI-AN00|
 |Honor|HONOR 200|HNELIX|ELI-NX9|
+|Honor|HONOR 200 Pro|HNELP|ELP-AN00|
 |Honor|HONOR 200 Pro|HNELPX|ELP-NX9|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
@@ -24358,6 +24365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
+|Oppo|OPPO F27 Pro+ 5G|OP5B19L1|CPH2643|
 |Oppo|OPPO K11 5G|OP591D|PJC110|
 |Oppo|OPPO K11x 5G|OP5925|PHF110|
 |Oppo|OPPO Pad|OP5223|OPD2101|
@@ -33869,6 +33877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 6 Pro|Augusta|TMAF035G|
 |T-Mobile|REVVL 6x 5G|TorreyPines|TMRV065G|
 |T-Mobile|REVVL 6x PRO 5G|SouthernDunes|TMRV06P5G|
+|T-Mobile|REVVL 7|CypressPoint|TMRV075G|
 |T-Mobile|REVVL 7 Pro|Pinehurst|TMRV07P5G|
 |T-Mobile|REVVL TAB 5G|REVVLTAB5G|TMRV5GTB|
 |T-Mobile|REVVL V|Newcastle|TMRVL4G|
@@ -36375,6 +36384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5|TECNO KG5|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5h|TECNO KG5h|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5m|TECNO KG5m|
+|Tecno|TECNO SPARK Go 2024|TECNO-BG6m|TECNO BG6m|
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6|
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6s|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
@@ -39863,6 +39873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xgody|N02_A|N02_A|N02_A|
 |Xgody|N02_ProA|N02_ProA|N02_ProA|
 |Xgody|P60Pro|P60Pro|P60Pro|
+|Xgody|Q16|Q16|Q16|
 |Xgody|R15_EEA|R15_EEA|R15_EEA|
 |Xgody|T702|T702|T702|
 |Xgody|T702A|T702A|T702A|

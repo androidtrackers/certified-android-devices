@@ -17075,6 +17075,11 @@
    "model": "RE04_series"
   },
   {
+   "device": "RE04N_series",
+   "name": "RE6504N",
+   "model": "RE04N_series"
+  },
+  {
    "device": "RM6504",
    "name": "RM6504",
    "model": "RM6504"
@@ -34063,6 +34068,16 @@
    "model": "T Phone"
   },
   {
+   "device": "PUMA",
+   "name": "T Phone 2",
+   "model": "T Phone 2"
+  },
+  {
+   "device": "CHEETAH",
+   "name": "T Phone 2 Pro",
+   "model": "T Phone 2 Pro"
+  },
+  {
    "device": "Lion",
    "name": "T Phone Pro",
    "model": "T Phone Pro"
@@ -42525,6 +42540,11 @@
    "device": "D106_EEA",
    "name": "D106_EEA",
    "model": "D106_EEA"
+  },
+  {
+   "device": "D109_EEA",
+   "name": "D109_EEA",
+   "model": "D109_EEA"
   },
   {
    "device": "D118_EEA",
@@ -62232,6 +62252,11 @@
    "model": "TA60A"
   },
   {
+   "device": "TA60A-L1-C",
+   "name": "RT60A",
+   "model": "TA60A"
+  },
+  {
    "device": "VM1A-L0-N",
    "name": "Thor VM1A",
    "model": "VM1A"
@@ -62264,9 +62289,19 @@
    "model": "MAA-AN10"
   },
   {
+   "device": "HNELI",
+   "name": "HONOR 200",
+   "model": "ELI-AN00"
+  },
+  {
    "device": "HNELIX",
    "name": "HONOR 200",
    "model": "ELI-NX9"
+  },
+  {
+   "device": "HNELP",
+   "name": "HONOR 200 Pro",
+   "model": "ELP-AN00"
   },
   {
    "device": "HNELPX",
@@ -125348,6 +125383,11 @@
    "model": "CPH2341"
   },
   {
+   "device": "OP5B19L1",
+   "name": "OPPO F27 Pro+ 5G",
+   "model": "CPH2643"
+  },
+  {
    "device": "OP591D",
    "name": "OPPO K11 5G",
    "model": "PJC110"
@@ -173913,6 +173953,11 @@
    "model": "TMRV06P5G"
   },
   {
+   "device": "CypressPoint",
+   "name": "REVVL 7",
+   "model": "TMRV075G"
+  },
+  {
    "device": "Pinehurst",
    "name": "REVVL 7 Pro",
    "model": "TMRV07P5G"
@@ -186649,6 +186694,11 @@
    "device": "TECNO-KG5m",
    "name": "TECNO SPARK Go 2022",
    "model": "TECNO KG5m"
+  },
+  {
+   "device": "TECNO-BG6m",
+   "name": "TECNO SPARK Go 2024",
+   "model": "TECNO BG6m"
   },
   {
    "device": "TECNO-BG6s",
@@ -204765,6 +204815,11 @@
    "device": "P60Pro",
    "name": "P60Pro",
    "model": "P60Pro"
+  },
+  {
+   "device": "Q16",
+   "name": "Q16",
+   "model": "Q16"
   },
   {
    "device": "R15_EEA",

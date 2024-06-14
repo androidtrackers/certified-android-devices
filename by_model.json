@@ -27484,6 +27484,13 @@
    "device": "RE04_series"
   }
  ],
+ "RE04N_series": [
+  {
+   "brand": "BenQ",
+   "name": "RE6504N",
+   "device": "RE04N_series"
+  }
+ ],
  "RM6504": [
   {
    "brand": "BenQ",
@@ -51053,6 +51060,20 @@
    "device": "Jaguar"
   }
  ],
+ "T Phone 2": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Phone 2",
+   "device": "PUMA"
+  }
+ ],
+ "T Phone 2 Pro": [
+  {
+   "brand": "Deutsche Telekom",
+   "name": "T Phone 2 Pro",
+   "device": "CHEETAH"
+  }
+ ],
  "T Phone Pro": [
   {
    "brand": "Deutsche Telekom",
@@ -62295,6 +62316,13 @@
    "brand": "Zonko",
    "name": "D105_EEA",
    "device": "D105_EEA"
+  }
+ ],
+ "D109_EEA": [
+  {
+   "brand": "FEONAL",
+   "name": "D109_EEA",
+   "device": "D109_EEA"
   }
  ],
  "D118_EEA": [
@@ -87862,6 +87890,11 @@
    "brand": "Honeywell",
    "name": "RT10A",
    "device": "TA60A-L1-C"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "RT60A",
+   "device": "TA60A-L1-C"
   }
  ],
  "VM1A": [
@@ -87902,11 +87935,25 @@
    "device": "HNMAP"
   }
  ],
+ "ELI-AN00": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200",
+   "device": "HNELI"
+  }
+ ],
  "ELI-NX9": [
   {
    "brand": "Honor",
    "name": "HONOR 200",
    "device": "HNELIX"
+  }
+ ],
+ "ELP-AN00": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200 Pro",
+   "device": "HNELP"
   }
  ],
  "ELP-NX9": [
@@ -167682,6 +167729,13 @@
    "device": "OP532FL1"
   }
  ],
+ "CPH2643": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO F27 Pro+ 5G",
+   "device": "OP5B19L1"
+  }
+ ],
  "PJC110": [
   {
    "brand": "Oppo",
@@ -229733,6 +229787,13 @@
    "device": "SouthernDunes"
   }
  ],
+ "TMRV075G": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL 7",
+   "device": "CypressPoint"
+  }
+ ],
  "TMRV07P5G": [
   {
    "brand": "T-Mobile",
@@ -245476,6 +245537,11 @@
   {
    "brand": "Tecno",
    "name": "TECNO",
+   "device": "TECNO-BG6m"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK Go 2024",
    "device": "TECNO-BG6m"
   }
  ],
@@ -267864,6 +267930,13 @@
    "brand": "Xgody",
    "name": "P60Pro",
    "device": "P60Pro"
+  }
+ ],
+ "Q16": [
+  {
+   "brand": "Xgody",
+   "name": "Q16",
+   "device": "Q16"
   }
  ],
  "R15_EEA": [
