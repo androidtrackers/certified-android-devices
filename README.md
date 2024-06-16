@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-15
+Last sync is 2024-06-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -166,6 +166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
 |AGM Mobile|Android_Rugged|Android_Rugged|Android_Rugged|
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
+|AG_Neovo|MeetBoard_4|MeetBoard_4|MeetBoard_4|
 |AHA(A)|IFPD|AHA_ULTRA_RK3588|Hybrid_8600|
 |AIDATA|ADT-R10TME|ADT-R10TME|ADT-R10TME|
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
@@ -23004,6 +23005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nabi|Fisher Price Learning Tablet|NBFP07PMKG|NBFP07PMKG|
 |Nabi|Hot Wheels Tablet|NBTY07SMKG|NBTY07SMKG|
 |Nabi|TOY 7|NBTY07SMKG|NBTY07SMKG|
+|Nakamichi|Nakamichi NA3615|NA3615|NA3615|
 |Nanho|F101|F101|F101|
 |Nano|4K Smart TV|gangbyeon|nano 4K AI Smart TV|
 |Nano|EU、UK、AP|martin|Nano Android TV|

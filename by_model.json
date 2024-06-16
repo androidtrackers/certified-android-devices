@@ -1580,6 +1580,13 @@
    "device": "Android_Tablet"
   }
  ],
+ "MeetBoard_4": [
+  {
+   "brand": "AG_Neovo",
+   "name": "MeetBoard_4",
+   "device": "MeetBoard_4"
+  }
+ ],
  "Hybrid_8600": [
   {
    "brand": "AHA(A)",
@@ -159112,6 +159119,13 @@
    "brand": "Nabi",
    "name": "Fisher Price Learning Tablet",
    "device": "NBFP07PMKG"
+  }
+ ],
+ "NA3615": [
+  {
+   "brand": "Nakamichi",
+   "name": "Nakamichi NA3615",
+   "device": "NA3615"
   }
  ],
  "nano 4K AI Smart TV": [

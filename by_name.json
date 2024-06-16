@@ -7293,6 +7293,13 @@
    "model": "Android_Tablet"
   }
  ],
+ "MeetBoard_4": [
+  {
+   "brand": "AG_Neovo",
+   "device": "MeetBoard_4",
+   "model": "MeetBoard_4"
+  }
+ ],
  "IFPD": [
   {
    "brand": "AHA(A)",
@@ -156834,6 +156841,13 @@
    "brand": "Nabi",
    "device": "NBTY07SMKG",
    "model": "NBTY07SMKG"
+  }
+ ],
+ "Nakamichi NA3615": [
+  {
+   "brand": "Nakamichi",
+   "device": "NA3615",
+   "model": "NA3615"
   }
  ],
  "Thailand": [

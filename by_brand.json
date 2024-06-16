@@ -864,6 +864,13 @@
    "model": "Android_Tablet"
   }
  ],
+ "AG_Neovo": [
+  {
+   "device": "MeetBoard_4",
+   "name": "MeetBoard_4",
+   "model": "MeetBoard_4"
+  }
+ ],
  "AHA(A)": [
   {
    "device": "AHA_ULTRA_RK3588",
@@ -118312,6 +118319,13 @@
    "device": "NBTY07SMKG",
    "name": "TOY 7",
    "model": "NBTY07SMKG"
+  }
+ ],
+ "Nakamichi": [
+  {
+   "device": "NA3615",
+   "name": "Nakamichi NA3615",
+   "model": "NA3615"
   }
  ],
  "Nanho": [

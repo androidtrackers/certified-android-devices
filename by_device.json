@@ -3239,6 +3239,13 @@
    "model": "Android_Tablet"
   }
  ],
+ "MeetBoard_4": [
+  {
+   "brand": "AG_Neovo",
+   "name": "MeetBoard_4",
+   "model": "MeetBoard_4"
+  }
+ ],
  "AHA_ULTRA_RK3588": [
   {
    "brand": "AHA(A)",
@@ -157543,6 +157550,13 @@
    "brand": "Nabi",
    "name": "Fisher Price Learning Tablet",
    "model": "NBFP07PMKG"
+  }
+ ],
+ "NA3615": [
+  {
+   "brand": "Nakamichi",
+   "name": "Nakamichi NA3615",
+   "model": "NA3615"
   }
  ],
  "nuvola": [
