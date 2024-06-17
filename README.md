@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-16
+Last sync is 2024-06-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4807,6 +4807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ceibal|A81G_Ibi|A81G_Ibi|A81G_Ibi|
 |Ceibal|ACRUX|ACRUX|ACRUX|
 |Ceibal|BETELGEUSE|BETELGEUSE|BETELGEUSE|
+|Ceibal|CEIBAL_HFP_LT|CEIBAL_HFP_LT|CEIBAL_HFP_LT|
 |Ceibal|GACRUX|GACRUX|GACRUX|
 |Ceibal|Ibirapita|A81F|A81F|
 |Ceibal|KIL-TAB82WIFI|KIL-TAB82WIFI|KIL-TAB82WIFI|
@@ -9158,6 +9159,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
 |Getac|ZX70G2|zx70g2|ZX70G2|
+|Getac|ZX80|zx80|ZX80|
+|Getac|zx80|zx80|ZX80|
 |Getnord|LYNX|LYNX|LYNX|
 |Gfast|MD_97_S464A|MD_97_S464A|MD_97_S464A|
 |Ghia|A7LED2|A7LED2|A7LED2|
@@ -27774,6 +27777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|RHINO T8|Rhino_T8|T8|
 |Rhino|RHINO T80|scout|T80|
 |Rhino|T8|Rhino_T8|T8|
+|Ricoh|AXX10|AXX10|AXX10|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
 |Rindo|RINDO 2K Android TV|lasalle|RINDO 2K Android TV|
@@ -33635,6 +33639,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunelan|Mountain M8|Mountain_M8|Mountain M8|
 |Sunelan|River X1|River_X1|River X1|
 |Sunelan|River X3|River_X3|River X3|
+|Sunmi|D3 MINI|D3MINI|D3 MINI|
+|Sunmi|D3 PRO|D3_PRO|D3 PRO|
 |Sunmi|L2H_EDLA_GL|SUNMI-L2HNFC|L2H_EDLA_GL|
 |Sunmi|L2Ks|SUNMI-L2KsNFC|L2Ks_EDLA_GL|
 |Sunmi|L2s_PRO|SUNMI-L2s_PRO|L2s_PRO|
@@ -43248,6 +43254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C53|RE58C2|RMX3760|
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
+|realme|realme C61|RE6054|RMX3939|
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme GT 2|RE58B2L1|RMX3312|

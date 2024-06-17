@@ -43988,6 +43988,13 @@
    "model": "BETELGEUSE"
   }
  ],
+ "CEIBAL_HFP_LT": [
+  {
+   "brand": "Ceibal",
+   "device": "CEIBAL_HFP_LT",
+   "model": "CEIBAL_HFP_LT"
+  }
+ ],
  "GACRUX": [
   {
    "brand": "Ceibal",
@@ -75038,6 +75045,20 @@
    "brand": "Getac",
    "device": "zx70g2",
    "model": "ZX70G2"
+  }
+ ],
+ "ZX80": [
+  {
+   "brand": "Getac",
+   "device": "zx80",
+   "model": "ZX80"
+  }
+ ],
+ "zx80": [
+  {
+   "brand": "Getac",
+   "device": "zx80",
+   "model": "ZX80"
   }
  ],
  "LYNX": [
@@ -186339,6 +186360,13 @@
    "model": "T80"
   }
  ],
+ "AXX10": [
+  {
+   "brand": "Ricoh",
+   "device": "AXX10",
+   "model": "AXX10"
+  }
+ ],
  "SRT412": [
   {
    "brand": "RiksTV",
@@ -219817,6 +219845,20 @@
    "brand": "Sunelan",
    "device": "River_X3",
    "model": "River X3"
+  }
+ ],
+ "D3 MINI": [
+  {
+   "brand": "Sunmi",
+   "device": "D3MINI",
+   "model": "D3 MINI"
+  }
+ ],
+ "D3 PRO": [
+  {
+   "brand": "Sunmi",
+   "device": "D3_PRO",
+   "model": "D3 PRO"
   }
  ],
  "L2H_EDLA_GL": [
@@ -275722,6 +275764,13 @@
    "brand": "realme",
    "device": "REE2ADL1",
    "model": "RMX3710"
+  }
+ ],
+ "realme C61": [
+  {
+   "brand": "realme",
+   "device": "RE6054",
+   "model": "RMX3939"
   }
  ],
  "realme C65": [

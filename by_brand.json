@@ -24887,6 +24887,11 @@
    "model": "BETELGEUSE"
   },
   {
+   "device": "CEIBAL_HFP_LT",
+   "name": "CEIBAL_HFP_LT",
+   "model": "CEIBAL_HFP_LT"
+  },
+  {
    "device": "GACRUX",
    "name": "GACRUX",
    "model": "GACRUX"
@@ -47630,6 +47635,16 @@
    "device": "zx70g2",
    "name": "ZX70G2",
    "model": "ZX70G2"
+  },
+  {
+   "device": "zx80",
+   "name": "ZX80",
+   "model": "ZX80"
+  },
+  {
+   "device": "zx80",
+   "name": "zx80",
+   "model": "ZX80"
   }
  ],
  "Getnord": [
@@ -142896,6 +142911,13 @@
    "model": "T8"
   }
  ],
+ "Ricoh": [
+  {
+   "device": "AXX10",
+   "name": "AXX10",
+   "model": "AXX10"
+  }
+ ],
  "RiksTV": [
   {
    "device": "HP40A3",
@@ -172698,6 +172720,16 @@
   }
  ],
  "Sunmi": [
+  {
+   "device": "D3MINI",
+   "name": "D3 MINI",
+   "model": "D3 MINI"
+  },
+  {
+   "device": "D3_PRO",
+   "name": "D3 PRO",
+   "model": "D3 PRO"
+  },
   {
    "device": "SUNMI-L2HNFC",
    "name": "L2H_EDLA_GL",
@@ -222138,6 +222170,11 @@
    "device": "REE2ADL1",
    "name": "realme C55",
    "model": "RMX3710"
+  },
+  {
+   "device": "RE6054",
+   "name": "realme C61",
+   "model": "RMX3939"
   },
   {
    "device": "RE5C42",
