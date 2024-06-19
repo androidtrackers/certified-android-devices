@@ -14458,6 +14458,13 @@
    "model": "TR7998"
   }
  ],
+ "TR8990": [
+  {
+   "brand": "Advance",
+   "device": "TR8990",
+   "model": "TR8990"
+  }
+ ],
  "Tablet_Advance": [
   {
    "brand": "Advance",
@@ -15118,6 +15125,13 @@
    "brand": "Aiwa",
    "device": "JA3-SMP0602",
    "model": "JA3-SMP0602"
+  }
+ ],
+ "JA3-TBA0802": [
+  {
+   "brand": "Aiwa",
+   "device": "JA3-TBA0802",
+   "model": "JA3-TBA0802"
   }
  ],
  "JA3-TBA1005": [
@@ -25449,11 +25463,6 @@
    "model": "B860H"
   },
   {
-   "brand": "POS Terminal",
-   "device": "POS",
-   "model": "pCloud"
-  },
-  {
    "brand": "ZTE",
    "device": "B860H_V1",
    "model": "B860H"
@@ -26068,6 +26077,48 @@
    "brand": "AvidPad",
    "device": "A30PRO",
    "model": "A30PRO"
+  }
+ ],
+ "S30": [
+  {
+   "brand": "AvidPad",
+   "device": "S30",
+   "model": "S30"
+  },
+  {
+   "brand": "Bullitt Group",
+   "device": "CatS30",
+   "model": "S30"
+  },
+  {
+   "brand": "Cat",
+   "device": "CatS30",
+   "model": "S30"
+  },
+  {
+   "brand": "DTC products",
+   "device": "S30",
+   "model": "S30"
+  },
+  {
+   "brand": "DUODUOGO",
+   "device": "S30",
+   "model": "S30"
+  },
+  {
+   "brand": "Doogee",
+   "device": "S30",
+   "model": "S30"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "S30",
+   "model": "S30"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "S30_2020",
+   "model": "S30"
   }
  ],
  "Avion A10": [
@@ -32371,18 +32422,18 @@
    "model": "QS02"
   }
  ],
+ "RE04N_series": [
+  {
+   "brand": "BenQ",
+   "device": "RE04N_series",
+   "model": "RE04N_series"
+  }
+ ],
  "RE04_series": [
   {
    "brand": "BenQ",
    "device": "RE04_series",
    "model": "RE04_series"
-  }
- ],
- "RE6504N": [
-  {
-   "brand": "BenQ",
-   "device": "RE04N_series",
-   "model": "RE04N_series"
   }
  ],
  "RM6504": [
@@ -40811,43 +40862,6 @@
    "model": "S31"
   }
  ],
- "S30": [
-  {
-   "brand": "Bullitt Group",
-   "device": "CatS30",
-   "model": "S30"
-  },
-  {
-   "brand": "Cat",
-   "device": "CatS30",
-   "model": "S30"
-  },
-  {
-   "brand": "DTC products",
-   "device": "S30",
-   "model": "S30"
-  },
-  {
-   "brand": "DUODUOGO",
-   "device": "S30",
-   "model": "S30"
-  },
-  {
-   "brand": "Doogee",
-   "device": "S30",
-   "model": "S30"
-  },
-  {
-   "brand": "Vankyo",
-   "device": "S30",
-   "model": "S30"
-  },
-  {
-   "brand": "Vankyo",
-   "device": "S30_2020",
-   "model": "S30"
-  }
- ],
  "KALOS": [
   {
    "brand": "Bunbungame",
@@ -42586,11 +42600,11 @@
    "model": "SA12 series"
   }
  ],
- "edu_v2": [
+ "\"Guangzhou Shirui Electronics Co.": [
   {
    "brand": "CVTE",
-   "device": "rk3588_t",
-   "model": "edu_v2"
+   "device": "Ltd\"",
+   "model": "rk3588_t"
   }
  ],
  "C10G": [
@@ -42750,6 +42764,20 @@
    "brand": "CWOWDEFU",
    "device": "F81L",
    "model": "F81L"
+  }
+ ],
+ "P12W": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "P12W",
+   "model": "P12W"
+  }
+ ],
+ "P12W_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "P12W_EEA",
+   "model": "P12W_EEA"
   }
  ],
  "P15W": [
@@ -54390,6 +54418,13 @@
    "model": "DEYI10M18A53"
   }
  ],
+ "DG101HSTB": [
+  {
+   "brand": "DGTEC",
+   "device": "DG101HSTB",
+   "model": "DG101HSTB"
+  }
+ ],
  "DG101TBIPS": [
   {
    "brand": "DGTEC",
@@ -55154,6 +55189,11 @@
    "brand": "Daewoo",
    "device": "mountbaker",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "Daewoo",
+   "device": "mountbaker",
+   "model": "DAEWOO SMART TV"
   }
  ],
  "DAEWOO SMART TV": [
@@ -55448,6 +55488,23 @@
    "model": "Daiwa 4K Google TV-Z"
   }
  ],
+ "DAIWA": [
+  {
+   "brand": "Daiwa",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "D809ProPlus": [
   {
    "brand": "Danew",
@@ -55626,6 +55683,13 @@
    "brand": "Danew",
    "device": "Dslide_1020M",
    "model": "Dslide_1020M"
+  }
+ ],
+ "Dslide_1020Pro_EEA": [
+  {
+   "brand": "Danew",
+   "device": "Dslide_1020Pro",
+   "model": "Dslide_1020Pro"
   }
  ],
  "Dslide_1021C": [
@@ -56146,6 +56210,13 @@
    "brand": "Decaview",
    "device": "keoneae",
    "model": "Decaview 4K Google TV"
+  }
+ ],
+ "DeepHub Ultimate": [
+  {
+   "brand": "DeepHub",
+   "device": "rk3588_t",
+   "model": "MC480-U"
   }
  ],
  "\"Chang Co.": [
@@ -59354,6 +59425,13 @@
    "brand": "Dixon",
    "device": "TS-M704F-1",
    "model": "TS-M704F-1"
+  }
+ ],
+ "TS-M704G": [
+  {
+   "brand": "Dixon",
+   "device": "TS-M704G",
+   "model": "TS-M704G"
   }
  ],
  "TS_M103A": [
@@ -62846,6 +62924,11 @@
    "brand": "EKO",
    "device": "zhongshan",
    "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "POS Terminal",
+   "device": "POS",
+   "model": "pCloud"
   }
  ],
  "EKO 2K Google TV": [
@@ -78706,6 +78789,11 @@
    "brand": "Graetz",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Graetz",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "Grandstream WP856": [
@@ -113510,6 +113598,13 @@
    "model": "D9"
   }
  ],
+ "SM1": [
+  {
+   "brand": "KAKTIN",
+   "device": "SM1",
+   "model": "SM1"
+  }
+ ],
  "KTB-168": [
   {
    "brand": "KANSELIR",
@@ -114923,18 +115018,6 @@
    "model": "SMART TV"
   }
  ],
- "DAIWA": [
-  {
-   "brand": "KTCtv",
-   "device": "hongkong",
-   "model": "4K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "lavender",
-   "model": "4K SMART TV"
-  }
- ],
  "DANILUX": [
   {
    "brand": "KTCtv",
@@ -115245,6 +115328,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "OZON": [
@@ -118267,6 +118355,13 @@
    "brand": "Konrow",
    "device": "KONROW_701X",
    "model": "KONROW_701X"
+  }
+ ],
+ "KTAB704": [
+  {
+   "brand": "Konrow",
+   "device": "KTAB704",
+   "model": "KTAB704"
   }
  ],
  "KTAB_1003": [
@@ -146734,6 +146829,11 @@
    "brand": "ROVER",
    "device": "R8",
    "model": "R8"
+  },
+  {
+   "brand": "YINOCHE",
+   "device": "R8",
+   "model": "R8"
   }
  ],
  "R9 Pro": [
@@ -148910,6 +149010,11 @@
   }
  ],
  "MOTOROLA": [
+  {
+   "brand": "Motorola",
+   "device": "mountbaker",
+   "model": "MOTOROLA GOOGLE TV 2K"
+  },
   {
    "brand": "Motorola",
    "device": "stanford",
@@ -153530,6 +153635,11 @@
    "brand": "Multilaser",
    "device": "ML_JI0E_M9_WIFI",
    "model": "M9_WIFI"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0W_M9_WIFI",
+   "model": "M9_WIFI"
   }
  ],
  "M9 Wifi": [
@@ -155247,6 +155357,13 @@
    "brand": "N-one",
    "device": "Npad_mini",
    "model": "TAB011"
+  }
+ ],
+ "Npadplus": [
+  {
+   "brand": "N-one",
+   "device": "Npadplus",
+   "model": "Npadplus"
   }
  ],
  "Allure_Plus": [
@@ -157057,6 +157174,13 @@
    "brand": "Navitel",
    "device": "T737PRO",
    "model": "T737PRO"
+  }
+ ],
+ "T787-4G": [
+  {
+   "brand": "Navitel",
+   "device": "T787-4G",
+   "model": "T787-4G"
   }
  ],
  "D455": [
@@ -159916,6 +160040,13 @@
    "brand": "Nous",
    "device": "NS5008",
    "model": "NS5008"
+  }
+ ],
+ "Pro_K10": [
+  {
+   "brand": "Novey",
+   "device": "Pro_K10",
+   "model": "Pro K10"
   }
  ],
  "N11": [
@@ -162969,6 +163100,13 @@
    "brand": "Oppo",
    "device": "A1603",
    "model": "A1603"
+  }
+ ],
+ "A16K": [
+  {
+   "brand": "Oppo",
+   "device": "OP5321",
+   "model": "CPH2351"
   }
  ],
  "A17k": [
@@ -181162,6 +181300,13 @@
    "model": "QT22101B"
   }
  ],
+ "QT23109BP": [
+  {
+   "brand": "Qilive",
+   "device": "QT23109BP",
+   "model": "QT23109BP"
+  }
+ ],
  "Qilive SMART TV": [
   {
    "brand": "Qilive",
@@ -184774,6 +184919,13 @@
    "model": "22122RK93C"
   }
  ],
+ "Redmi K70 Pro": [
+  {
+   "brand": "Redmi",
+   "device": "manet",
+   "model": "23117RK66C"
+  }
+ ],
  "Redmi K70E": [
   {
    "brand": "Redmi",
@@ -188203,6 +188355,20 @@
    "brand": "SPC",
    "device": "GRAVITY_3_SE",
    "model": "GRAVITY_3_SE"
+  }
+ ],
+ "GRAVITY_4": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_4",
+   "model": "GRAVITY_4"
+  }
+ ],
+ "GRAVITY_4_PLUS": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_4_PLUS",
+   "model": "GRAVITY_4_PLUS"
   }
  ],
  "GRAVITY_5_EEA": [
@@ -196575,11 +196741,6 @@
   }
  ],
  "Galaxy M15 5G": [
-  {
-   "brand": "Samsung",
-   "device": "m15x",
-   "model": "SM-E156B"
-  },
   {
    "brand": "Samsung",
    "device": "m15x",
@@ -220073,6 +220234,13 @@
    "model": "TAB1011"
   }
  ],
+ "TAB1012": [
+  {
+   "brand": "Sunstech",
+   "device": "TAB1012",
+   "model": "TAB1012"
+  }
+ ],
  "TAB1081": [
   {
    "brand": "Sunstech",
@@ -232986,6 +233154,13 @@
    "brand": "Teclast",
    "device": "P85Pro_ROW",
    "model": "P85Pro_ROW"
+  }
+ ],
+ "P85T_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P85T",
+   "model": "P85T_ROW"
   }
  ],
  "P85_EEA": [
@@ -252744,6 +252919,20 @@
    "model": "3W_US"
   }
  ],
+ "W10_EEA": [
+  {
+   "brand": "WOZIFAN",
+   "device": "W10_EEA",
+   "model": "W10_EEA"
+  }
+ ],
+ "W10_US": [
+  {
+   "brand": "WOZIFAN",
+   "device": "W10_US",
+   "model": "W10_US"
+  }
+ ],
  "W500 _EEA": [
   {
    "brand": "WOZIFAN",
@@ -256539,6 +256728,20 @@
    "model": "PRO_BOOK"
   }
  ],
+ "Probook_E_L-10": [
+  {
+   "brand": "X-View",
+   "device": "Probook_E_L-10",
+   "model": "Probook_E_L-10"
+  }
+ ],
+ "Probook_E_M-10": [
+  {
+   "brand": "X-View",
+   "device": "Probook_E_M-10",
+   "model": "Probook_E_M-10"
+  }
+ ],
  "Proton_Helium_Max": [
   {
    "brand": "X-View",
@@ -256614,6 +256817,13 @@
    "brand": "X-View",
    "device": "X_ViewTablet10",
    "model": "X-ViewTablet"
+  }
+ ],
+ "Xview_tablet_7": [
+  {
+   "brand": "X-View",
+   "device": "Xview_tablet_7",
+   "model": "Xview_tablet_7"
   }
  ],
  "X-mobile SmartWiFi": [
@@ -268424,6 +268634,13 @@
    "model": "ZTE 7060"
   }
  ],
+ "ZTE Blade A75 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P720F09",
+   "model": "Z2357N"
+  }
+ ],
  "ZTE Blade A7s": [
   {
    "brand": "ZTE",
@@ -274815,6 +275032,13 @@
    "model": "miracle_tap_10"
   }
  ],
+ "16MBTW+": [
+  {
+   "brand": "mirarel",
+   "device": "ksr",
+   "model": "mirarel JTB Google TV"
+  }
+ ],
  "TK807": [
   {
    "brand": "moderness.online",
@@ -276210,6 +276434,13 @@
    "model": "RMX3770"
   }
  ],
+ "真我12": [
+  {
+   "brand": "realme",
+   "device": "RE5C3F",
+   "model": "RMX3992"
+  }
+ ],
  "真我12 Pro": [
   {
    "brand": "realme",
@@ -276936,6 +277167,20 @@
    "brand": "weelikeit",
    "device": "F83W",
    "model": "F83W"
+  }
+ ],
+ "P11W": [
+  {
+   "brand": "weelikeit",
+   "device": "P11W",
+   "model": "P11W"
+  }
+ ],
+ "P11W_EEA": [
+  {
+   "brand": "weelikeit",
+   "device": "P11W_EEA",
+   "model": "P11W_EEA"
   }
  ],
  "P16W": [
