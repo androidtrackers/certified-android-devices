@@ -1589,6 +1589,11 @@
  ],
  "ATMPC": [
   {
+   "device": "IT-801B",
+   "name": "IT-801B",
+   "model": "IT-801B"
+  },
+  {
    "device": "IT_701A",
    "name": "IT_701A",
    "model": "IT_701A"
@@ -18770,6 +18775,11 @@
    "device": "P6000",
    "name": "P6000",
    "model": "P6000"
+  },
+  {
+   "device": "PILOT_2",
+   "name": "PILOT 2",
+   "model": "PILOT 2"
   },
   {
    "device": "Pad8_EEA",
@@ -36244,6 +36254,11 @@
    "model": "R20"
   },
   {
+   "device": "M22C",
+   "name": "S punk",
+   "model": "S punk"
+  },
+  {
    "device": "M22",
    "name": "S100",
    "model": "S100"
@@ -36267,6 +36282,11 @@
    "device": "M22P",
    "name": "S110",
    "model": "S110"
+  },
+  {
+   "device": "M22G",
+   "name": "S118",
+   "model": "S118"
   },
   {
    "device": "M22C",
@@ -40248,6 +40268,11 @@
    "model": "EID-1061"
   },
   {
+   "device": "EID_9000",
+   "name": "EID_9000",
+   "model": "EID-9000"
+  },
+  {
    "device": "EM749_748",
    "name": "EM749/748",
    "model": "EM749_748"
@@ -42862,6 +42887,11 @@
    "device": "F102",
    "name": "F102 ROW",
    "model": "F102"
+  },
+  {
+   "device": "F105",
+   "name": "F105",
+   "model": "F105"
   },
   {
    "device": "F106_Pro",
@@ -63106,6 +63136,11 @@
    "model": "HOT 6"
   },
   {
+   "device": "Hyper_7_Pro",
+   "name": "Hyper 7 Pro",
+   "model": "Hyper 7 Pro"
+  },
+  {
    "device": "M5",
    "name": "M5",
    "model": "M5"
@@ -78989,6 +79024,11 @@
    "device": "itel-A667L",
    "name": "itel A50",
    "model": "itel A667L"
+  },
+  {
+   "device": "itel-A667LP",
+   "name": "itel A50",
+   "model": "itel A667LP"
   },
   {
    "device": "itel-A669L",
@@ -100344,6 +100384,16 @@
    "device": "LT10EN_09",
    "name": "LT10EN_09",
    "model": "LT10EN_09"
+  },
+  {
+   "device": "LT10_01_EEA",
+   "name": "LT10_01_EEA",
+   "model": "LT10_01_EEA"
+  },
+  {
+   "device": "LT10_10",
+   "name": "LT10_10",
+   "model": "LT10_10"
   },
   {
    "device": "MFC512",
@@ -128008,6 +128058,11 @@
   },
   {
    "device": "RT3",
+   "name": "RT3_T",
+   "model": "RT3"
+  },
+  {
+   "device": "RT3",
    "name": "RT3_T_EEA",
    "model": "RT3"
   },
@@ -128302,6 +128357,11 @@
    "model": "WP38"
   },
   {
+   "device": "WP39",
+   "name": "WP39_EEA",
+   "model": "WP39"
+  },
+  {
    "device": "WP5",
    "name": "WP5",
    "model": "WP5"
@@ -128315,6 +128375,11 @@
    "device": "WP5000",
    "name": "WP5000",
    "model": "WP5000"
+  },
+  {
+   "device": "WP50",
+   "name": "WP50_EEA",
+   "model": "WP50"
   },
   {
    "device": "WP5_Pro",
@@ -133030,6 +133095,11 @@
    "model": "Kids20"
   },
   {
+   "device": "Kids20A14_EEA",
+   "name": "Kids20A14_EEA",
+   "model": "Kids20"
+  },
+  {
    "device": "Kids20_EEA",
    "name": "Kids20_EEA",
    "model": "Kids20"
@@ -133050,6 +133120,16 @@
    "model": "Kids 10"
   },
   {
+   "device": "Kids_10_ver14",
+   "name": "Kids_10_ver14",
+   "model": "Kids 10"
+  },
+  {
+   "device": "Kids_10_ver14_EEA",
+   "name": "Kids_10_ver14_EEA",
+   "model": "Kids 10"
+  },
+  {
    "device": "Kids_8",
    "name": "Kids_8",
    "model": "Kids_8"
@@ -133058,6 +133138,11 @@
    "device": "P60Plus",
    "name": "P60Plus",
    "model": "P60Plus"
+  },
+  {
+   "device": "P60Pro",
+   "name": "P60Pro",
+   "model": "P60_Pro"
   },
   {
    "device": "P60_Pro",
@@ -133082,6 +133167,11 @@
   {
    "device": "P8ProA14",
    "name": "P8ProA14",
+   "model": "P8Pro"
+  },
+  {
+   "device": "P8ProA14_EEA",
+   "name": "P8ProA14_EEA",
    "model": "P8Pro"
   },
   {
@@ -137181,6 +137271,16 @@
    "model": "M10"
   },
   {
+   "device": "M10_B05",
+   "name": "M10_B05",
+   "model": "M10"
+  },
+  {
+   "device": "M10_B05_EEA",
+   "name": "M10_B05_EEA",
+   "model": "M10"
+  },
+  {
    "device": "M10_C01",
    "name": "M10_C01",
    "model": "M10_C01"
@@ -137358,6 +137458,11 @@
   {
    "device": "P7_A04_EEA",
    "name": "P7_A04_EEA",
+   "model": "P7"
+  },
+  {
+   "device": "P7_A05",
+   "name": "P7_A05",
    "model": "P7"
   },
   {
@@ -162218,6 +162323,13 @@
    "device": "SS10A_EEA",
    "name": "SS10A_EEA",
    "model": "SS10A_EEA"
+  }
+ ],
+ "SenlinTech": [
+  {
+   "device": "pad6_EEA",
+   "name": "pad6_EEA",
+   "model": "pad6_EEA"
   }
  ],
  "Senseit": [
@@ -193110,6 +193222,11 @@
    "model": "L10_T08"
   },
   {
+   "device": "L10_T10",
+   "name": "L10_T10",
+   "model": "L10_T10"
+  },
+  {
    "device": "M7",
    "name": "M7",
    "model": "M7"
@@ -204870,6 +204987,13 @@
    "model": "XD 2K Andriod TV"
   }
  ],
+ "XD-Enjoy": [
+  {
+   "device": "XDDGM99PM",
+   "name": "XDDGM99PM",
+   "model": "XDDGM99PM"
+  }
+ ],
  "XENON": [
   {
    "device": "marina",
@@ -212368,6 +212492,16 @@
    "model": "Blade A72s"
   },
   {
+   "device": "P720F02",
+   "name": "Optus X Pro 5G",
+   "model": "A73 Pro 5G"
+  },
+  {
+   "device": "P606F10",
+   "name": "Optus X Tap 3",
+   "model": "P660"
+  },
+  {
    "device": "Orange_Hi_4G",
    "name": "Orange Hi 4G",
    "model": "Orange Hi 4G"
@@ -214363,6 +214497,11 @@
    "model": "Z2351N"
   },
   {
+   "device": "P606F13",
+   "name": "Z2359",
+   "model": "Z2359"
+  },
+  {
    "device": "Z3153",
    "name": "Z3153V",
    "model": "Z3153V"
@@ -215363,6 +215502,11 @@
    "model": "Z2356"
   },
   {
+   "device": "P606F10",
+   "name": "ZTE Axon 60 Lite",
+   "model": "Z2350"
+  },
+  {
    "device": "msm8952_64",
    "name": "ZTE B2017",
    "model": "ZTE B2017"
@@ -215749,6 +215893,11 @@
   },
   {
    "device": "P963F10",
+   "name": "ZTE Blade A35 Core",
+   "model": "ZTE Blade A35 Core"
+  },
+  {
+   "device": "P963F10",
    "name": "ZTE Blade A35 Lite",
    "model": "ZTE Blade A35 Lite"
   },
@@ -216098,6 +216247,11 @@
    "model": "ZTE 8550"
   },
   {
+   "device": "P606F10",
+   "name": "ZTE Blade V60 Design",
+   "model": "Z2350"
+  },
+  {
    "device": "P852F52",
    "name": "ZTE Blade V770",
    "model": "ZTE Blade V770"
@@ -216398,6 +216552,11 @@
    "model": "NX667J"
   },
   {
+   "device": "P616F01",
+   "name": "nubia 8046",
+   "model": "nubia 8046"
+  },
+  {
    "device": "Z6255",
    "name": "nubia Blade A72",
    "model": "Z6255CA"
@@ -216441,6 +216600,16 @@
    "device": "P606F09",
    "name": "nubia V50 Vita",
    "model": "nubia 8550"
+  },
+  {
+   "device": "P616F02",
+   "name": "nubia V60",
+   "model": "Z2356"
+  },
+  {
+   "device": "P606F10",
+   "name": "nubia V60 Design",
+   "model": "Z2350"
   },
   {
    "device": "NX501",

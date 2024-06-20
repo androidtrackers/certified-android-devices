@@ -4993,6 +4993,13 @@
    "device": "R5_Pro"
   }
  ],
+ "IT-801B": [
+  {
+   "brand": "ATMPC",
+   "name": "IT-801B",
+   "device": "IT-801B"
+  }
+ ],
  "IT_701A": [
   {
    "brand": "ATMPC",
@@ -23074,6 +23081,16 @@
   },
   {
    "brand": "Pritom",
+   "name": "M10_B05",
+   "device": "M10_B05"
+  },
+  {
+   "brand": "Pritom",
+   "name": "M10_B05_EEA",
+   "device": "M10_B05_EEA"
+  },
+  {
+   "brand": "Pritom",
    "name": "M10_C04",
    "device": "M10_C04"
   },
@@ -30087,6 +30104,18 @@
    "brand": "Blackview",
    "name": "P6000",
    "device": "P6000"
+  }
+ ],
+ "PILOT 2": [
+  {
+   "brand": "Blackview",
+   "name": "PILOT 2",
+   "device": "PILOT_2"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "PILOT 2",
+   "device": "PILOT_2"
   }
  ],
  "Pad8": [
@@ -54106,6 +54135,18 @@
    "device": "R20"
   }
  ],
+ "S punk": [
+  {
+   "brand": "Doogee",
+   "name": "S punk",
+   "device": "M22C"
+  },
+  {
+   "brand": "Doogee",
+   "name": "S120",
+   "device": "M22C"
+  }
+ ],
  "S100": [
   {
    "brand": "Doogee",
@@ -54142,13 +54183,11 @@
    "brand": "Doogee",
    "name": "S108",
    "device": "M22G"
-  }
- ],
- "S punk": [
+  },
   {
    "brand": "Doogee",
-   "name": "S120",
-   "device": "M22C"
+   "name": "S118",
+   "device": "M22G"
   }
  ],
  "S35": [
@@ -59301,6 +59340,13 @@
    "device": "EID_1061"
   }
  ],
+ "EID-9000": [
+  {
+   "brand": "Emerson",
+   "name": "EID_9000",
+   "device": "EID_9000"
+  }
+ ],
  "EM749_748": [
   {
    "brand": "Emerson",
@@ -62792,6 +62838,18 @@
    "brand": "Innjoo",
    "name": "F102",
    "device": "F102"
+  }
+ ],
+ "F105": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "F105",
+   "device": "F105"
+  },
+  {
+   "brand": "Gionee",
+   "name": "F105",
+   "device": "GiONEE_GBL7335"
   }
  ],
  "F106 Pro": [
@@ -70426,13 +70484,6 @@
    "device": "GiONEE_F103S"
   }
  ],
- "F105": [
-  {
-   "brand": "Gionee",
-   "name": "F105",
-   "device": "GiONEE_GBL7335"
-  }
- ],
  "F105L": [
   {
    "brand": "Gionee",
@@ -71190,6 +71241,11 @@
    "brand": "Pritom",
    "name": "P7_A04_EEA",
    "device": "P7_A04_EEA"
+  },
+  {
+   "brand": "Pritom",
+   "name": "P7_A05",
+   "device": "P7_A05"
   },
   {
    "brand": "Symphony",
@@ -89009,6 +89065,13 @@
    "brand": "Hotwav",
    "name": "HOT 6",
    "device": "HOT_6"
+  }
+ ],
+ "Hyper 7 Pro": [
+  {
+   "brand": "Hotwav",
+   "name": "Hyper 7 Pro",
+   "device": "Hyper_7_Pro"
   }
  ],
  "M5 2021": [
@@ -109972,6 +110035,13 @@
    "brand": "Itel",
    "name": "itel A50",
    "device": "itel-A667L"
+  }
+ ],
+ "itel A667LP": [
+  {
+   "brand": "Itel",
+   "name": "itel A50",
+   "device": "itel-A667LP"
   }
  ],
  "itel A669L": [
@@ -136867,6 +136937,20 @@
    "device": "LT10EN_09"
   }
  ],
+ "LT10_01_EEA": [
+  {
+   "brand": "Lexibook",
+   "name": "LT10_01_EEA",
+   "device": "LT10_01_EEA"
+  }
+ ],
+ "LT10_10": [
+  {
+   "brand": "Lexibook",
+   "name": "LT10_10",
+   "device": "LT10_10"
+  }
+ ],
  "MFC512FR": [
   {
    "brand": "Lexibook",
@@ -163585,13 +163669,6 @@
    "device": "MODERN_8"
   }
  ],
- "PILOT 2": [
-  {
-   "brand": "OSCAL",
-   "name": "PILOT 2",
-   "device": "PILOT_2"
-  }
- ],
  "Pad 15": [
   {
    "brand": "OSCAL",
@@ -171031,6 +171108,11 @@
   },
   {
    "brand": "Oukitel",
+   "name": "RT3_T",
+   "device": "RT3"
+  },
+  {
+   "brand": "Oukitel",
    "name": "RT3_T_EEA",
    "device": "RT3"
   }
@@ -171428,6 +171510,13 @@
    "device": "WP38"
   }
  ],
+ "WP39": [
+  {
+   "brand": "Oukitel",
+   "name": "WP39_EEA",
+   "device": "WP39"
+  }
+ ],
  "WP5": [
   {
    "brand": "Oukitel",
@@ -171452,6 +171541,13 @@
    "brand": "Oukitel",
    "name": "WP5000",
    "device": "WP5000"
+  }
+ ],
+ "WP50": [
+  {
+   "brand": "Oukitel",
+   "name": "WP50_EEA",
+   "device": "WP50"
   }
  ],
  "WP6": [
@@ -177220,6 +177316,11 @@
   },
   {
    "brand": "Plimpton",
+   "name": "Kids20A14_EEA",
+   "device": "Kids20A14_EEA"
+  },
+  {
+   "brand": "Plimpton",
    "name": "Kids20_EEA",
    "device": "Kids20_EEA"
   }
@@ -177241,6 +177342,16 @@
    "brand": "Plimpton",
    "name": "Kids_10_ver13",
    "device": "Kids_10_ver13"
+  },
+  {
+   "brand": "Plimpton",
+   "name": "Kids_10_ver14",
+   "device": "Kids_10_ver14"
+  },
+  {
+   "brand": "Plimpton",
+   "name": "Kids_10_ver14_EEA",
+   "device": "Kids_10_ver14_EEA"
   }
  ],
  "Kids_8": [
@@ -177255,6 +177366,13 @@
    "brand": "Plimpton",
    "name": "P60Plus",
    "device": "P60Plus"
+  }
+ ],
+ "P60_Pro": [
+  {
+   "brand": "Plimpton",
+   "name": "P60Pro",
+   "device": "P60Pro"
   }
  ],
  "PlimPad_P60_Pro": [
@@ -177281,6 +177399,11 @@
    "brand": "Plimpton",
    "name": "P8ProA14",
    "device": "P8ProA14"
+  },
+  {
+   "brand": "Plimpton",
+   "name": "P8ProA14_EEA",
+   "device": "P8ProA14_EEA"
   },
   {
    "brand": "Plimpton",
@@ -215170,6 +215293,13 @@
    "brand": "Semeakoko",
    "name": "SS10A_EEA",
    "device": "SS10A_EEA"
+  }
+ ],
+ "pad6_EEA": [
+  {
+   "brand": "SenlinTech",
+   "name": "pad6_EEA",
+   "device": "pad6_EEA"
   }
  ],
  "SENSEIT_A109": [
@@ -253726,6 +253856,13 @@
    "device": "L10_T08"
   }
  ],
+ "L10_T10": [
+  {
+   "brand": "VASOUN",
+   "name": "L10_T10",
+   "device": "L10_T10"
+  }
+ ],
  "M7_EEA": [
   {
    "brand": "VASOUN",
@@ -268029,6 +268166,13 @@
    "device": "martin"
   }
  ],
+ "XDDGM99PM": [
+  {
+   "brand": "XD-Enjoy",
+   "name": "XDDGM99PM",
+   "device": "XDDGM99PM"
+  }
+ ],
  "XENON ANDROID TV": [
   {
    "brand": "XENON",
@@ -277958,6 +278102,20 @@
    "device": "P606F05"
   }
  ],
+ "A73 Pro 5G": [
+  {
+   "brand": "ZTE",
+   "name": "Optus X Pro 5G",
+   "device": "P720F02"
+  }
+ ],
+ "P660": [
+  {
+   "brand": "ZTE",
+   "name": "Optus X Tap 3",
+   "device": "P606F10"
+  }
+ ],
  "Orange Hi 4G": [
   {
    "brand": "ZTE",
@@ -280381,6 +280539,13 @@
    "device": "P720F08"
   }
  ],
+ "Z2359": [
+  {
+   "brand": "ZTE",
+   "name": "Z2359",
+   "device": "P606F13"
+  }
+ ],
  "Z3153V": [
   {
    "brand": "ZTE",
@@ -281743,6 +281908,28 @@
    "brand": "ZTE",
    "name": "ZTE Axon 60",
    "device": "P616F02"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia V60",
+   "device": "P616F02"
+  }
+ ],
+ "Z2350": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 60 Lite",
+   "device": "P606F10"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V60 Design",
+   "device": "P606F10"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia V60 Design",
+   "device": "P606F10"
   }
  ],
  "ZTE B2017": [
@@ -282132,6 +282319,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A34",
    "device": "P963F94_A"
+  }
+ ],
+ "ZTE Blade A35 Core": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A35 Core",
+   "device": "P963F10"
   }
  ],
  "ZTE Blade A35 Lite": [
@@ -282889,6 +283083,13 @@
    "brand": "ZTE",
    "name": "nubia  Z30 Pro",
    "device": "P875N02"
+  }
+ ],
+ "nubia 8046": [
+  {
+   "brand": "ZTE",
+   "name": "nubia 8046",
+   "device": "P616F01"
   }
  ],
  "Z6255CA": [
