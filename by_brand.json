@@ -19846,6 +19846,11 @@
    "model": "BOLD K10"
   },
   {
+   "device": "K0130",
+   "name": "BOLD K50",
+   "model": "BOLD K50"
+  },
+  {
    "device": "M0100WW",
    "name": "BOLD M7",
    "model": "BOLD M7"
@@ -62651,6 +62656,26 @@
    "device": "HNWDY-M",
    "name": "HONOR X6a",
    "model": "WDY-LX3"
+  },
+  {
+   "device": "HNJDY-M1",
+   "name": "HONOR X6b",
+   "model": "JDY-LX1"
+  },
+  {
+   "device": "HNJDY-M1",
+   "name": "HONOR X6b",
+   "model": "JDY-LX2"
+  },
+  {
+   "device": "HNJDY-M1",
+   "name": "HONOR X6b",
+   "model": "JDY-LX3P"
+  },
+  {
+   "device": "HNJDY-M1",
+   "name": "HONOR X6b Plus",
+   "model": "JDY-LX3"
   },
   {
    "device": "HNCMA-Q",
@@ -198190,6 +198215,11 @@
    "model": "vivo PD1523A"
   },
   {
+   "device": "V2348",
+   "name": "V40",
+   "model": "V2348"
+  },
+  {
    "device": "V2339",
    "name": "V40 Lite",
    "model": "V2340"
@@ -198693,6 +198723,16 @@
    "device": "V2315",
    "name": "Y28 5G",
    "model": "V2315"
+  },
+  {
+   "device": "V2346",
+   "name": "Y28s 5G",
+   "model": "V2346"
+  },
+  {
+   "device": "V2346",
+   "name": "Y28s 5G",
+   "model": "V2351"
   },
   {
    "device": "2160",
@@ -220705,6 +220745,11 @@
    "device": "G10",
    "name": "G10E",
    "model": "G10"
+  },
+  {
+   "device": "IM-H261",
+   "name": "IM-H261",
+   "model": "IM-H261"
   },
   {
    "device": "IMH101",

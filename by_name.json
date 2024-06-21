@@ -36687,6 +36687,13 @@
    "model": "BOLD K10"
   }
  ],
+ "BOLD K50": [
+  {
+   "brand": "Blu",
+   "device": "K0130",
+   "model": "BOLD K50"
+  }
+ ],
  "BOLD M7": [
   {
    "brand": "Blu",
@@ -60838,6 +60845,11 @@
    "brand": "Doogee",
    "device": "ZN138N",
    "model": "V40"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2348",
+   "model": "V2348"
   }
  ],
  "X100": [
@@ -93717,6 +93729,30 @@
    "brand": "Honor",
    "device": "HNWDY-M",
    "model": "WDY-LX3"
+  }
+ ],
+ "HONOR X6b": [
+  {
+   "brand": "Honor",
+   "device": "HNJDY-M1",
+   "model": "JDY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNJDY-M1",
+   "model": "JDY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNJDY-M1",
+   "model": "JDY-LX3P"
+  }
+ ],
+ "HONOR X6b Plus": [
+  {
+   "brand": "Honor",
+   "device": "HNJDY-M1",
+   "model": "JDY-LX3"
   }
  ],
  "HONOR X7": [
@@ -249596,6 +249632,18 @@
    "model": "V2315"
   }
  ],
+ "Y28s 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2346",
+   "model": "V2346"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2346",
+   "model": "V2351"
+  }
+ ],
  "Y30 5G": [
   {
    "brand": "Vivo",
@@ -274306,6 +274354,13 @@
    "brand": "iMuz",
    "device": "G10",
    "model": "G10"
+  }
+ ],
+ "IM-H261": [
+  {
+   "brand": "iMuz",
+   "device": "IM-H261",
+   "model": "IM-H261"
   }
  ],
  "IMH101": [

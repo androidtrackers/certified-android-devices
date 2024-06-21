@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-20
+Last sync is 2024-06-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3844,6 +3844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
 |Blu|BOLD K10|K0110|BOLD K10|
+|Blu|BOLD K50|K0130|BOLD K50|
 |Blu|BOLD M7|M0100WW|BOLD M7|
 |Blu|BOLD M7|M0110WW|BOLD M7|
 |Blu|BOLD M8|M0120WW|BOLD M8|
@@ -12107,6 +12108,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X6a|HNWDY-M|WDY-LX1|
 |Honor|HONOR X6a|HNWDY-M|WDY-LX2|
 |Honor|HONOR X6a|HNWDY-M|WDY-LX3|
+|Honor|HONOR X6b|HNJDY-M1|JDY-LX1|
+|Honor|HONOR X6b|HNJDY-M1|JDY-LX2|
+|Honor|HONOR X6b|HNJDY-M1|JDY-LX3P|
+|Honor|HONOR X6b Plus|HNJDY-M1|JDY-LX3|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -38588,6 +38593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V3Max|V3Max|vivo V3Max|
 |Vivo|V3Max + A|PD1523B|vivo V3Max+ A|
 |Vivo|V3Max A|PD1523|vivo PD1523A|
+|Vivo|V40|V2348|V2348|
 |Vivo|V40 Lite|V2339|V2340|
 |Vivo|V40 Lite|V2339|V2341|
 |Vivo|V40 SE 5G|V2327|V2337|
@@ -38689,6 +38695,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y28|V2352|V2352|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y28 5G|V2315|V2315|
+|Vivo|Y28s 5G|V2346|V2346|
+|Vivo|Y28s 5G|V2346|V2351|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
@@ -42981,6 +42989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMuz|"Foryou Digital Co.|Ltd"|EG125|
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|
+|iMuz|IM-H261|IM-H261|IM-H261|
 |iMuz|IMH101|IMH101|IMH101|
 |iMuz|L101|G10|L101|
 |iMuz|M101|G10|M101|

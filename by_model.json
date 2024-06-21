@@ -31512,6 +31512,13 @@
    "device": "K0110"
   }
  ],
+ "BOLD K50": [
+  {
+   "brand": "Blu",
+   "name": "BOLD K50",
+   "device": "K0130"
+  }
+ ],
  "BOLD M7": [
   {
    "brand": "Blu",
@@ -88476,6 +88483,34 @@
    "brand": "Honor",
    "name": "HONOR X6a",
    "device": "HNWDY-M"
+  }
+ ],
+ "JDY-LX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X6b",
+   "device": "HNJDY-M1"
+  }
+ ],
+ "JDY-LX2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X6b",
+   "device": "HNJDY-M1"
+  }
+ ],
+ "JDY-LX3P": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X6b",
+   "device": "HNJDY-M1"
+  }
+ ],
+ "JDY-LX3": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X6b Plus",
+   "device": "HNJDY-M1"
   }
  ],
  "CMA-LX1": [
@@ -260008,6 +260043,13 @@
    "device": "PD1523"
   }
  ],
+ "V2348": [
+  {
+   "brand": "Vivo",
+   "name": "V40",
+   "device": "V2348"
+  }
+ ],
  "V2340": [
   {
    "brand": "Vivo",
@@ -260735,6 +260777,20 @@
    "brand": "Vivo",
    "name": "Y28 5G",
    "device": "V2315"
+  }
+ ],
+ "V2346": [
+  {
+   "brand": "Vivo",
+   "name": "Y28s 5G",
+   "device": "V2346"
+  }
+ ],
+ "V2351": [
+  {
+   "brand": "Vivo",
+   "name": "Y28s 5G",
+   "device": "V2346"
   }
  ],
  "V2160": [
@@ -287829,6 +287885,13 @@
    "brand": "iMuz",
    "name": "\"Foryou Digital Co.",
    "device": "Ltd\""
+  }
+ ],
+ "IM-H261": [
+  {
+   "brand": "iMuz",
+   "name": "IM-H261",
+   "device": "IM-H261"
   }
  ],
  "IMH101": [
