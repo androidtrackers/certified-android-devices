@@ -102930,6 +102930,13 @@
    "model": "DV8553"
   }
  ],
+ "MIRAI_TOUCH": [
+  {
+   "device": "PE3S_Series",
+   "name": "IFP MIRAI TOUCH",
+   "model": "PE3S_Series"
+  }
+ ],
  "MIRAY": [
   {
    "device": "R1",
@@ -114283,6 +114290,16 @@
    "device": "aion",
    "name": "motorola edge 2023",
    "model": "motorola edge 2023"
+  },
+  {
+   "device": "avatrn",
+   "name": "motorola edge 2024",
+   "model": "motorola edge 2023"
+  },
+  {
+   "device": "avatrn",
+   "name": "motorola edge 2024",
+   "model": "motorola edge 2024"
   },
   {
    "device": "dubai",
@@ -216292,6 +216309,11 @@
    "model": "Z2350"
   },
   {
+   "device": "P606F10",
+   "name": "ZTE Blade V60 Vita",
+   "model": "Z2350"
+  },
+  {
    "device": "P852F52",
    "name": "ZTE Blade V770",
    "model": "ZTE Blade V770"
@@ -222592,6 +222614,16 @@
    "device": "RMX2202L1",
    "name": "realme GT 5G",
    "model": "RMX2202"
+  },
+  {
+   "device": "RE5CA6L1",
+   "name": "realme GT 6",
+   "model": "RMX3851"
+  },
+  {
+   "device": "RE606FL1",
+   "name": "realme GT 6T",
+   "model": "RMX3853"
   },
   {
    "device": "RE507C",

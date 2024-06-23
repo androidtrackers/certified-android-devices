@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-22
+Last sync is 2024-06-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20008,6 +20008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MINDEO|MS8589|MS8589|MS8589|
 |MINDEO|MS8589_RU|MS8589RU|MS8589|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
+|MIRAI_TOUCH|IFP MIRAI TOUCH|PE3S_Series|PE3S_Series|
 |MIRAY|Android TV|R1|ATV R1|
 |MIRAY|Android TV|R2|ATV R2|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
@@ -22223,6 +22224,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 20 pro|pstar|motorola edge 20 pro|
 |Motorola|motorola edge 2023|aion|motorola edge (2022)|
 |Motorola|motorola edge 2023|aion|motorola edge 2023|
+|Motorola|motorola edge 2024|avatrn|motorola edge 2023|
+|Motorola|motorola edge 2024|avatrn|motorola edge 2024|
 |Motorola|motorola edge 30|dubai|moto g200 5G|
 |Motorola|motorola edge 30|dubai|motorola edge 30|
 |Motorola|motorola edge 30 fusion|tundra|moto g200 5G|
@@ -42140,6 +42143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
 |ZTE|ZTE Blade V50 Vita|P606F09|ZTE 8550|
 |ZTE|ZTE Blade V60 Design|P606F10|Z2350|
+|ZTE|ZTE Blade V60 Vita|P606F10|Z2350|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
@@ -43336,6 +43340,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
+|realme|realme GT 6|RE5CA6L1|RMX3851|
+|realme|realme GT 6T|RE606FL1|RMX3853|
 |realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|
