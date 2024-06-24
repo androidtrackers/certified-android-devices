@@ -32007,6 +32007,11 @@
    "brand": "UNIQ-CELL",
    "name": "D10",
    "device": "D10"
+  },
+  {
+   "brand": "ZOFYWNAS",
+   "name": "D10",
+   "device": "D10"
   }
  ],
  "D500": [
@@ -219677,6 +219682,13 @@
    "device": "iTab"
   }
  ],
+ "VIP7702": [
+  {
+   "brand": "Singtel TV",
+   "name": "VIP7702",
+   "device": "f561"
+  }
+ ],
  "R60": [
   {
    "brand": "SinoGNSS",
@@ -280619,6 +280631,13 @@
    "brand": "ZTE",
    "name": "Z2359",
    "device": "P606F13"
+  }
+ ],
+ "Z2450": [
+  {
+   "brand": "ZTE",
+   "name": "Z2450",
+   "device": "P963F65"
   }
  ],
  "Z3153V": [

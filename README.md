@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-23
+Last sync is 2024-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32267,6 +32267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Singtech|SAPPHIRE H51|H51|H51|
 |Singtech|Z500|Z500|Z500|
 |Singtech|i-Tab Mini 3|iTab|i-Tab Mini 3|
+|Singtel TV|VIP7702|f561|VIP7702|
 |SinoGNSS|R60 Data Collector|R60|R60|
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Siragon|SA|zhongshan|SMART TV|
@@ -40518,6 +40519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
 |ZMBIZI|ZMBIZI Z2|ZMBIZI_Z2|ZMBIZI Z2|
 |ZMOOTH|ZMOOTH ZTAB020|Zkai-study-Tab|ZTAB020|
+|ZOFYWNAS|D10|D10|D10|
 |ZOLON|L16XX|L16XX|L16XX|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
@@ -41793,6 +41795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2020N3|Z8850K|A2020N3|
 |ZTE|Z2351N|P720F08|Z2351N|
 |ZTE|Z2359|P606F13|Z2359|
+|ZTE|Z2450|P963F65|Z2450|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|

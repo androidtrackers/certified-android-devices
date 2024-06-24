@@ -37207,6 +37207,11 @@
    "brand": "UNIQ-CELL",
    "name": "D10",
    "model": "D10"
+  },
+  {
+   "brand": "ZOFYWNAS",
+   "name": "D10",
+   "model": "D10"
   }
  ],
  "D500": [
@@ -213526,6 +213531,13 @@
    "model": "i-Tab Mini 3"
   }
  ],
+ "f561": [
+  {
+   "brand": "Singtel TV",
+   "name": "VIP7702",
+   "model": "VIP7702"
+  }
+ ],
  "SINTEL_X1": [
   {
    "brand": "Sintel",
@@ -269214,6 +269226,13 @@
    "brand": "ZTE",
    "name": "Z2359",
    "model": "Z2359"
+  }
+ ],
+ "P963F65": [
+  {
+   "brand": "ZTE",
+   "name": "Z2450",
+   "model": "Z2450"
   }
  ],
  "Z3153": [

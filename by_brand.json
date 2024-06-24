@@ -165695,6 +165695,13 @@
    "model": "i-Tab Mini 3"
   }
  ],
+ "Singtel TV": [
+  {
+   "device": "f561",
+   "name": "VIP7702",
+   "model": "VIP7702"
+  }
+ ],
  "SinoGNSS": [
   {
    "device": "R60",
@@ -208174,6 +208181,13 @@
    "model": "ZTAB020"
   }
  ],
+ "ZOFYWNAS": [
+  {
+   "device": "D10",
+   "name": "D10",
+   "model": "D10"
+  }
+ ],
  "ZOLON": [
   {
    "device": "L16XX",
@@ -214557,6 +214571,11 @@
    "device": "P606F13",
    "name": "Z2359",
    "model": "Z2359"
+  },
+  {
+   "device": "P963F65",
+   "name": "Z2450",
+   "model": "Z2450"
   },
   {
    "device": "Z3153",
