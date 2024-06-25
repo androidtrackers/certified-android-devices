@@ -1332,6 +1332,11 @@
    "brand": "VIVITEK",
    "name": "NovoTouch",
    "model": "EK4"
+  },
+  {
+   "brand": "iiyama",
+   "name": "TEXX14MIS-B2AG",
+   "model": "TEXX14MIS-B2AG"
   }
  ],
  "ADOC_TCAT10": [
@@ -90091,6 +90096,18 @@
    "model": "Dongle 4K"
   }
  ],
+ "YZF": [
+  {
+   "brand": "Homatics",
+   "name": "Stick 4K",
+   "model": "Stick 4K"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Thomson 140G",
+   "model": "Thomson 140G"
+  }
+ ],
  "HCA6010": [
   {
    "brand": "Homeplustv",
@@ -170787,6 +170804,13 @@
    "model": "2311DRK48C"
   }
  ],
+ "m391_polsat": [
+  {
+   "brand": "POLSAT",
+   "name": "polsat soundbox 4K",
+   "model": "polsat soundbox 4K"
+  }
+ ],
  "POOLS_The_DOLLAR": [
   {
    "brand": "POOLS",
@@ -182843,6 +182867,13 @@
    "model": "RAKR30824"
   }
  ],
+ "RATM30846": [
+  {
+   "brand": "RCA",
+   "name": "RATM30846",
+   "model": "RATM30846"
+  }
+ ],
  "RATR30824": [
   {
    "brand": "RCA",
@@ -189989,13 +190020,6 @@
    "brand": "Wibox",
    "name": "WiboxTv",
    "model": "m384wb"
-  }
- ],
- "m391_polsat": [
-  {
-   "brand": "Sagemcom",
-   "name": "polsat soundbox 4K",
-   "model": "polsat soundbox 4K"
   }
  ],
  "CF10": [
@@ -239447,6 +239471,13 @@
    "model": "T13M4BK64LTE"
   }
  ],
+ "YXQ": [
+  {
+   "brand": "Thomson",
+   "name": "T240G",
+   "model": "Thomson 240G"
+  }
+ ],
  "TEO8LTE32": [
   {
    "brand": "Thomson",
@@ -258500,6 +258531,13 @@
    "brand": "XPPen",
    "name": "XPPen_Magic_Drawing_Pad_RU",
    "model": "MagicDrawingPad"
+  }
+ ],
+ "X4000": [
+  {
+   "brand": "XREAL",
+   "name": "Beam Pro",
+   "model": "X4000"
   }
  ],
  "X8MT16": [

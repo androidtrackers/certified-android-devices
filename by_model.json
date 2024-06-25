@@ -87096,6 +87096,13 @@
    "device": "SEI700HMG"
   }
  ],
+ "Stick 4K": [
+  {
+   "brand": "Homatics",
+   "name": "Stick 4K",
+   "device": "YZF"
+  }
+ ],
  "Stick HD": [
   {
    "brand": "Homatics",
@@ -172776,6 +172783,13 @@
    "device": "duchamp"
   }
  ],
+ "polsat soundbox 4K": [
+  {
+   "brand": "POLSAT",
+   "name": "polsat soundbox 4K",
+   "device": "m391_polsat"
+  }
+ ],
  "POOLS_The_DOLLAR": [
   {
    "brand": "POOLS",
@@ -185544,6 +185558,13 @@
    "device": "RAKR30824"
   }
  ],
+ "RATM30846": [
+  {
+   "brand": "RCA",
+   "name": "RATM30846",
+   "device": "RATM30846"
+  }
+ ],
  "RATR30824": [
   {
    "brand": "RCA",
@@ -193793,13 +193814,6 @@
    "brand": "Wibox",
    "name": "WiboxTv",
    "device": "dtiw384wb"
-  }
- ],
- "polsat soundbox 4K": [
-  {
-   "brand": "Sagemcom",
-   "name": "polsat soundbox 4K",
-   "device": "m391_polsat"
   }
  ],
  "CF10": [
@@ -248419,6 +248433,13 @@
    "device": "TEO13M"
   }
  ],
+ "Thomson 240G": [
+  {
+   "brand": "Thomson",
+   "name": "T240G",
+   "device": "YXQ"
+  }
+ ],
  "TEO8LTE": [
   {
    "brand": "Thomson",
@@ -248530,6 +248551,13 @@
    "brand": "Thomson",
    "name": "TLink 455",
    "device": "TLINK455"
+  }
+ ],
+ "Thomson 140G": [
+  {
+   "brand": "Thomson",
+   "name": "Thomson 140G",
+   "device": "YZF"
   }
  ],
  "Thomson T50": [
@@ -268371,6 +268399,13 @@
    "brand": "XPPen",
    "name": "XPPen_Magic_Drawing_Pad_RU",
    "device": "Titan_XPPen"
+  }
+ ],
+ "X4000": [
+  {
+   "brand": "XREAL",
+   "name": "Beam Pro",
+   "device": "X4000"
   }
  ],
  "X8MT16": [
@@ -288565,6 +288600,13 @@
    "brand": "ibowin",
    "name": "M10ES11",
    "device": "M10ES11"
+  }
+ ],
+ "TEXX14MIS-B2AG": [
+  {
+   "brand": "iiyama",
+   "name": "TEXX14MIS-B2AG",
+   "device": "rk3588_t"
   }
  ],
  "imiia 4K AI Smart TV": [

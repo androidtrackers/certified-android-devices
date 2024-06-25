@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-24
+Last sync is 2024-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11888,6 +11888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Kickpi|YYZ|KP1|
 |Homatics|SEI600HM|HND|Box Q|
 |Homatics|SEI700HMG|SEI700HMG|Dongle 4K|
+|Homatics|Stick 4K|YZF|Stick 4K|
 |Homatics|Stick HD|IAD|Stick HD|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
@@ -25153,6 +25154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X6 5G|garnet|23122PCD1I|
 |POCO|POCO X6 Pro 5G|duchamp|2311DRK48G|
 |POCO|POCO X6 Pro 5G|duchamp|2311DRK48I|
+|POLSAT|polsat soundbox 4K|m391_polsat|polsat soundbox 4K|
 |POOLS|POOLS The DOLLAR|POOLS_The_DOLLAR|POOLS_The_DOLLAR|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
 |POPTEL|P60|P60|P60|
@@ -27175,6 +27177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Pro12|RCT6223W87|RCT6223W87|
 |RCA|Q2|Q2|Q2|
 |RCA|RAKR30824|RAKR30824|RAKR30824|
+|RCA|RATM30846|RATM30846|RATM30846|
 |RCA|RATR30824|RATR30824|RATR30824|
 |RCA|RATR31024|RATR31024|RATR31024|
 |RCA|RC10T3G21|RC10T3G21|RC10T3G21|
@@ -28469,7 +28472,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
 |SafeGear_Mobile|SG390|SG390|SG390|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
-|Sagemcom|polsat soundbox 4K|m391_polsat|polsat soundbox 4K|
 |Saltillo|CF10|CF10|CF10|
 |Samsung||GT-I5510M|GT-I5510M|
 |Samsung||GT-I5510T|GT-I5510T|
@@ -36702,6 +36704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|SPPL 4K GSmartTV FF|SW6H|SPPL 4K GSmartTV FF|
 |Thomson|Smart TV|redwood|AI PONT|
 |Thomson|T13M4BK64LTE|TEO13M|T13M4BK64LTE|
+|Thomson|T240G|YXQ|Thomson 240G|
 |Thomson|TEO 8|TEO8LTE32|TEO8LTE|
 |Thomson|TEO10|TEO10|SPTEO10BK16|
 |Thomson|TEO104G|TEO104G|TEO104G|
@@ -36718,6 +36721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
 |Thomson|THOMSON_TEO10S|TEO10S|TEO10S|
 |Thomson|TLink 455|TLINK455|TLINK455|
+|Thomson|Thomson 140G|YZF|Thomson 140G|
 |Thomson|Thomson T50|Thomson_T50|Thomson T50|
 |Thomson|Thomson TV|marina|Thomson TV|
 |Thomson|Thomson TV|nagata|Thomson TV|
@@ -39939,6 +39943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XPLORE|XPLORE X7U|X7U|XPLORE X7U|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
+|XREAL|Beam Pro|X4000|X4000|
 |XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|
 |Xcell|Enia|Xcell_Enia|Enia|
 |Xcell|View|View|View|
@@ -43112,6 +43117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iYOU|A10|A10|A10|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |ibowin|M10ES11|M10ES11|M130s|
+|iiyama|TEXX14MIS-B2AG|rk3588_t|TEXX14MIS-B2AG|
 |imiia|4K Smart TV|gangbyeon|imiia 4K AI Smart TV|
 |imiia|4K Smart TV|pioneer|4K PA Smart TV|
 |imiia|Smart TV|mateo|2K PA Smart TV|

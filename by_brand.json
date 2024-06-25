@@ -61542,6 +61542,11 @@
    "model": "Dongle 4K"
   },
   {
+   "device": "YZF",
+   "name": "Stick 4K",
+   "model": "Stick 4K"
+  },
+  {
    "device": "IAD",
    "name": "Stick HD",
    "model": "Stick HD"
@@ -129429,6 +129434,13 @@
    "model": "2311DRK48I"
   }
  ],
+ "POLSAT": [
+  {
+   "device": "m391_polsat",
+   "name": "polsat soundbox 4K",
+   "model": "polsat soundbox 4K"
+  }
+ ],
  "POOLS": [
   {
    "device": "POOLS_The_DOLLAR",
@@ -139803,6 +139815,11 @@
    "model": "RAKR30824"
   },
   {
+   "device": "RATM30846",
+   "name": "RATM30846",
+   "model": "RATM30846"
+  },
+  {
    "device": "RATR30824",
    "name": "RATR30824",
    "model": "RATR30824"
@@ -146595,11 +146612,6 @@
    "device": "dtiw384wb",
    "name": "Wibox",
    "model": "m384wb"
-  },
-  {
-   "device": "m391_polsat",
-   "name": "polsat soundbox 4K",
-   "model": "polsat soundbox 4K"
   }
  ],
  "Saltillo": [
@@ -188380,6 +188392,11 @@
    "model": "T13M4BK64LTE"
   },
   {
+   "device": "YXQ",
+   "name": "T240G",
+   "model": "Thomson 240G"
+  },
+  {
    "device": "TEO8LTE32",
    "name": "TEO 8",
    "model": "TEO8LTE"
@@ -188458,6 +188475,11 @@
    "device": "TLINK455",
    "name": "TLink 455",
    "model": "TLINK455"
+  },
+  {
+   "device": "YZF",
+   "name": "Thomson 140G",
+   "model": "Thomson 140G"
   },
   {
    "device": "Thomson_T50",
@@ -205157,6 +205179,13 @@
    "model": "MagicDrawingPad"
   }
  ],
+ "XREAL": [
+  {
+   "device": "X4000",
+   "name": "Beam Pro",
+   "model": "X4000"
+  }
+ ],
  "XTRATECH_IGUANAPAD": [
   {
    "device": "X8MT16",
@@ -221404,6 +221433,13 @@
    "device": "M10ES11",
    "name": "M10ES11",
    "model": "M130s"
+  }
+ ],
+ "iiyama": [
+  {
+   "device": "rk3588_t",
+   "name": "TEXX14MIS-B2AG",
+   "model": "TEXX14MIS-B2AG"
   }
  ],
  "imiia": [
