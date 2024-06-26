@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-25
+Last sync is 2024-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4608,6 +4608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COSMOTE TV|TV Box|HY44G|TV Box|
 |COSTEL|M16|M16|M16|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
+|CRAIG|CMP846|CMP846|CMP846|
 |CRONY|Smart TV|longshan|AI PONT|
 |CROWN MUSTANG|Argentina|martin|Crown Mustang 2K Android TV|
 |CROWN MUSTANG|Argentina|patrick|Crown Mustang 4K Android TV|
@@ -5960,6 +5961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|MAX|x6069_cubot_5365u|CUBOT MAX|
 |Cubot|MAX  2|MAX_2|MAX 2|
 |Cubot|MAX 3|MAX_3|MAX 3|
+|Cubot|MAX 5|MAX_5|MAX 5|
 |Cubot|NOTE 20|NOTE_20|NOTE 20|
 |Cubot|NOTE 20 PRO|NOTE_20_PRO|NOTE 20 PRO|
 |Cubot|NOTE 30|NOTE_30|NOTE 30|
@@ -19162,6 +19164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
 |Lenovo|Lenovo Tab K11|TB330FUP|TB330FUP|
 |Lenovo|Lenovo Tab K11|TB330XUP|TB330XUP|
+|Lenovo|Lenovo Tab K11e|TB330XUP|TB330XUP|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328FU|TB328FU|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328XU|TB328XU|
@@ -40525,6 +40528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZMBIZI|ZMBIZI Z2|ZMBIZI_Z2|ZMBIZI Z2|
 |ZMOOTH|ZMOOTH ZTAB020|Zkai-study-Tab|ZTAB020|
 |ZOFYWNAS|D10|D10|D10|
+|ZOFYWNAS|D10_EEA|D10|D10|
 |ZOLON|L16XX|L16XX|L16XX|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
@@ -43136,6 +43140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |incar|E38_RU|E38|E38|
 |indigi|G4i|G4i|G4i|
 |inefi|SlimPOS319|SlimPOS319|SlimPOS319|
+|innex|Meeting_hub_EU|EU_3588|EU|
 |innos|Android TV|R2|ATV R2|
 |innos|Innos|shilin|Innos4KAndroidTV|
 |innos|innos|bruno|Innos2KAndroidTV|
@@ -43247,6 +43252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
+|realme|RMX3939|RE6054|RMX3939|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|Smart TV|mateo|2K PA Smart TV|

@@ -42605,6 +42605,13 @@
    "model": "CP-MUD-M721"
   }
  ],
+ "CMP846": [
+  {
+   "brand": "CRAIG",
+   "device": "CMP846",
+   "model": "CMP846"
+  }
+ ],
  "Argentina": [
   {
    "brand": "CROWN MUSTANG",
@@ -52288,6 +52295,13 @@
    "brand": "Cubot",
    "device": "MAX_3",
    "model": "MAX 3"
+  }
+ ],
+ "MAX 5": [
+  {
+   "brand": "Cubot",
+   "device": "MAX_5",
+   "model": "MAX 5"
   }
  ],
  "NOTE 20": [
@@ -133619,6 +133633,13 @@
    "device": "TB330FUP",
    "model": "TB330FUP"
   },
+  {
+   "brand": "Lenovo",
+   "device": "TB330XUP",
+   "model": "TB330XUP"
+  }
+ ],
+ "Lenovo Tab K11e": [
   {
    "brand": "Lenovo",
    "device": "TB330XUP",
@@ -260675,6 +260696,13 @@
    "model": "ZTAB020"
   }
  ],
+ "D10_EEA": [
+  {
+   "brand": "ZOFYWNAS",
+   "device": "D10",
+   "model": "D10"
+  }
+ ],
  "L16XX": [
   {
    "brand": "ZOLON",
@@ -275192,6 +275220,13 @@
    "model": "SlimPOS319"
   }
  ],
+ "Meeting_hub_EU": [
+  {
+   "brand": "innex",
+   "device": "EU_3588",
+   "model": "EU"
+  }
+ ],
  "Innos": [
   {
    "brand": "innos",
@@ -275825,6 +275860,13 @@
    "brand": "realme",
    "device": "RE5C9F",
    "model": "RMX3834"
+  }
+ ],
+ "RMX3939": [
+  {
+   "brand": "realme",
+   "device": "RE6054",
+   "model": "RMX3939"
   }
  ],
  "RMX3997": [

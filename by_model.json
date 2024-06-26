@@ -32012,6 +32012,11 @@
    "brand": "ZOFYWNAS",
    "name": "D10",
    "device": "D10"
+  },
+  {
+   "brand": "ZOFYWNAS",
+   "name": "D10_EEA",
+   "device": "D10"
   }
  ],
  "D500": [
@@ -37129,6 +37134,13 @@
    "brand": "CP Plus",
    "name": "CP-MUD-M721",
    "device": "CP-MUD-M721"
+  }
+ ],
+ "CMP846": [
+  {
+   "brand": "CRAIG",
+   "name": "CMP846",
+   "device": "CMP846"
   }
  ],
  "Crown Mustang 2K Android TV": [
@@ -46619,6 +46631,13 @@
    "brand": "Cubot",
    "name": "MAX 3",
    "device": "MAX_3"
+  }
+ ],
+ "MAX 5": [
+  {
+   "brand": "Cubot",
+   "name": "MAX 5",
+   "device": "MAX_5"
   }
  ],
  "NOTE 20": [
@@ -134692,6 +134711,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab K11",
+   "device": "TB330XUP"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11e",
    "device": "TB330XUP"
   },
   {
@@ -288719,6 +288743,13 @@
    "device": "SlimPOS319"
   }
  ],
+ "EU": [
+  {
+   "brand": "innex",
+   "name": "Meeting_hub_EU",
+   "device": "EU_3588"
+  }
+ ],
  "Innos4KAndroidTV": [
   {
    "brand": "innos",
@@ -289334,6 +289365,18 @@
    "device": "RE5C9F"
   }
  ],
+ "RMX3939": [
+  {
+   "brand": "realme",
+   "name": "RMX3939",
+   "device": "RE6054"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C61",
+   "device": "RE6054"
+  }
+ ],
  "RMX3997": [
   {
    "brand": "realme",
@@ -289885,13 +289928,6 @@
    "brand": "realme",
    "name": "realme C53",
    "device": "RE58CE"
-  }
- ],
- "RMX3939": [
-  {
-   "brand": "realme",
-   "name": "realme C61",
-   "device": "RE6054"
   }
  ],
  "RMX3910": [

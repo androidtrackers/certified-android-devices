@@ -37217,6 +37217,11 @@
    "brand": "ZOFYWNAS",
    "name": "D10",
    "model": "D10"
+  },
+  {
+   "brand": "ZOFYWNAS",
+   "name": "D10_EEA",
+   "model": "D10"
   }
  ],
  "D500": [
@@ -41867,6 +41872,13 @@
    "brand": "CP Plus",
    "name": "CP-MUD-M721",
    "model": "CP-MUD-M721"
+  }
+ ],
+ "CMP846": [
+  {
+   "brand": "CRAIG",
+   "name": "CMP846",
+   "model": "CMP846"
   }
  ],
  "Droid_OPS_Module": [
@@ -51790,6 +51802,13 @@
    "brand": "Cubot",
    "name": "MAX 3",
    "model": "MAX 3"
+  }
+ ],
+ "MAX_5": [
+  {
+   "brand": "Cubot",
+   "name": "MAX 5",
+   "model": "MAX 5"
   }
  ],
  "NOTE_20": [
@@ -133484,6 +133503,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab K11",
+   "model": "TB330XUP"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11e",
    "model": "TB330XUP"
   },
   {
@@ -276580,6 +276604,13 @@
    "model": "SlimPOS319"
   }
  ],
+ "EU_3588": [
+  {
+   "brand": "innex",
+   "name": "Meeting_hub_EU",
+   "model": "EU"
+  }
+ ],
  "meanIT_C1": [
   {
    "brand": "intelkom",
@@ -277253,6 +277284,18 @@
    "model": "RMX3834"
   }
  ],
+ "RE6054": [
+  {
+   "brand": "realme",
+   "name": "RMX3939",
+   "model": "RMX3939"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C61",
+   "model": "RMX3939"
+  }
+ ],
  "RE5C9AL1": [
   {
    "brand": "realme",
@@ -277740,13 +277783,6 @@
    "brand": "realme",
    "name": "realme C53",
    "model": "RMX3762"
-  }
- ],
- "RE6054": [
-  {
-   "brand": "realme",
-   "name": "realme C61",
-   "model": "RMX3939"
   }
  ],
  "RE5C42": [

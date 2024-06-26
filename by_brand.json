@@ -23832,6 +23832,13 @@
    "model": "CP-MUD-M721"
   }
  ],
+ "CRAIG": [
+  {
+   "device": "CMP846",
+   "name": "CMP846",
+   "model": "CMP846"
+  }
+ ],
  "CRONY": [
   {
    "device": "longshan",
@@ -30828,6 +30835,11 @@
    "device": "MAX_3",
    "name": "MAX 3",
    "model": "MAX 3"
+  },
+  {
+   "device": "MAX_5",
+   "name": "MAX 5",
+   "model": "MAX 5"
   },
   {
    "device": "NOTE_20",
@@ -98573,6 +98585,11 @@
   {
    "device": "TB330XUP",
    "name": "Lenovo Tab K11",
+   "model": "TB330XUP"
+  },
+  {
+   "device": "TB330XUP",
+   "name": "Lenovo Tab K11e",
    "model": "TB330XUP"
   },
   {
@@ -208215,6 +208232,11 @@
    "device": "D10",
    "name": "D10",
    "model": "D10"
+  },
+  {
+   "device": "D10",
+   "name": "D10_EEA",
+   "model": "D10"
   }
  ],
  "ZOLON": [
@@ -221544,6 +221566,13 @@
    "model": "SlimPOS319"
   }
  ],
+ "innex": [
+  {
+   "device": "EU_3588",
+   "name": "Meeting_hub_EU",
+   "model": "EU"
+  }
+ ],
  "innos": [
   {
    "device": "R2",
@@ -222159,6 +222188,11 @@
    "device": "RE5C9F",
    "name": "RMX3834",
    "model": "RMX3834"
+  },
+  {
+   "device": "RE6054",
+   "name": "RMX3939",
+   "model": "RMX3939"
   },
   {
    "device": "RE5C9AL1",
