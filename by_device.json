@@ -37759,6 +37759,13 @@
    "model": "G63"
   }
  ],
+ "G1010": [
+  {
+   "brand": "Blu",
+   "name": "G64",
+   "model": "G64"
+  }
+ ],
  "G0151WW": [
   {
    "brand": "Blu",
@@ -186648,23 +186655,6 @@
    "model": "RQ-G"
   }
  ],
- "TSA": [
-  {
-   "brand": "RockTek",
-   "name": "Gretzky",
-   "model": "TVDongle"
-  },
-  {
-   "brand": "Shaks",
-   "name": "Gretzky",
-   "model": "Shaks G1"
-  },
-  {
-   "brand": "Toyota",
-   "name": "Toyota",
-   "model": "OTT"
-  }
- ],
  "RTBox": [
   {
    "brand": "RockTek",
@@ -209819,6 +209809,18 @@
    "model": "HHT8B"
   }
  ],
+ "TSA": [
+  {
+   "brand": "Shaks",
+   "name": "Gretzky",
+   "model": "Shaks G1"
+  },
+  {
+   "brand": "Toyota",
+   "name": "Toyota",
+   "model": "OTT"
+  }
+ ],
  "SH7218T": [
   {
    "brand": "Sharp",
@@ -225370,6 +225372,13 @@
    "brand": "TCL",
    "name": "TCL 50 XL 5G",
    "model": "T702W"
+  }
+ ],
+ "Goldfinch_Pro_CS": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 XL NXTPAPER 5G",
+   "model": "T702M"
   }
  ],
  "Rio_CAN": [
@@ -242566,6 +242575,13 @@
    "brand": "Ulefone",
    "name": "T1",
    "model": "T1"
+  }
+ ],
+ "UF1103": [
+  {
+   "brand": "Ulefone",
+   "name": "Tab A11 Pro",
+   "model": "Tab A11 Pro"
   }
  ],
  "Ulefone_Tab_A7": [

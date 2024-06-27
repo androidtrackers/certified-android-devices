@@ -20586,6 +20586,11 @@
    "model": "G63"
   },
   {
+   "device": "G1010",
+   "name": "G64",
+   "model": "G64"
+  },
+  {
    "device": "G0151WW",
    "name": "G70",
    "model": "G70"
@@ -143339,11 +143344,6 @@
  ],
  "RockTek": [
   {
-   "device": "TSA",
-   "name": "Gretzky",
-   "model": "TVDongle"
-  },
-  {
    "device": "RTBox",
    "name": "RT-G1",
    "model": "RT-G1"
@@ -175225,6 +175225,11 @@
    "model": "T702W"
   },
   {
+   "device": "Goldfinch_Pro_CS",
+   "name": "TCL 50 XL NXTPAPER 5G",
+   "model": "T702M"
+  },
+  {
    "device": "Rio_CAN",
    "name": "TCL 502",
    "model": "T432J"
@@ -191281,6 +191286,11 @@
    "device": "T2",
    "name": "T2",
    "model": "T2"
+  },
+  {
+   "device": "UF1103",
+   "name": "Tab A11 Pro",
+   "model": "Tab A11 Pro"
   },
   {
    "device": "Ulefone_Tab_A7",

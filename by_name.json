@@ -37732,6 +37732,13 @@
    "model": "G63"
   }
  ],
+ "G64": [
+  {
+   "brand": "Blu",
+   "device": "G1010",
+   "model": "G64"
+  }
+ ],
  "G70": [
   {
    "brand": "Blu",
@@ -186875,18 +186882,6 @@
    "model": "RQ-G"
   }
  ],
- "Gretzky": [
-  {
-   "brand": "RockTek",
-   "device": "TSA",
-   "model": "TVDongle"
-  },
-  {
-   "brand": "Shaks",
-   "device": "TSA",
-   "model": "Shaks G1"
-  }
- ],
  "RT-G1": [
   {
    "brand": "RockTek",
@@ -208036,6 +208031,13 @@
    "model": "HHT8B"
   }
  ],
+ "Gretzky": [
+  {
+   "brand": "Shaks",
+   "device": "TSA",
+   "model": "Shaks G1"
+  }
+ ],
  "2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3": [
   {
    "brand": "Sharp",
@@ -222844,6 +222846,13 @@
    "brand": "TCL",
    "device": "Goldfinch_TMO",
    "model": "T702W"
+  }
+ ],
+ "TCL 50 XL NXTPAPER 5G": [
+  {
+   "brand": "TCL",
+   "device": "Goldfinch_Pro_CS",
+   "model": "T702M"
   }
  ],
  "TCL 502": [
@@ -240783,6 +240792,13 @@
    "brand": "Ulefone",
    "device": "S9_Pro",
    "model": "S9_Pro"
+  }
+ ],
+ "Tab A11 Pro": [
+  {
+   "brand": "Ulefone",
+   "device": "UF1103",
+   "model": "Tab A11 Pro"
   }
  ],
  "Tab A7": [

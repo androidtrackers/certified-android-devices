@@ -32580,6 +32580,13 @@
    "device": "G0870"
   }
  ],
+ "G64": [
+  {
+   "brand": "Blu",
+   "name": "G64",
+   "device": "G1010"
+  }
+ ],
  "G70": [
   {
    "brand": "Blu",
@@ -189976,13 +189983,6 @@
    "device": "RQ-G"
   }
  ],
- "TVDongle": [
-  {
-   "brand": "RockTek",
-   "name": "Gretzky",
-   "device": "TSA"
-  }
- ],
  "RT-G1": [
   {
    "brand": "RockTek",
@@ -231368,6 +231368,13 @@
    "device": "Goldfinch_TMO"
   }
  ],
+ "T702M": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 XL NXTPAPER 5G",
+   "device": "Goldfinch_Pro_CS"
+  }
+ ],
  "T432J": [
   {
    "brand": "TCL",
@@ -251766,6 +251773,13 @@
    "brand": "Ulefone",
    "name": "S9_Pro",
    "device": "S9_Pro"
+  }
+ ],
+ "Tab A11 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Tab A11 Pro",
+   "device": "UF1103"
   }
  ],
  "Ulefone Tab A7": [

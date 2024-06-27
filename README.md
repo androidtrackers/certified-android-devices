@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-26
+Last sync is 2024-06-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3992,6 +3992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G61S|G0630WW|G61S|
 |Blu|G63|G0860|G63|
 |Blu|G63|G0870|G63|
+|Blu|G64|G1010|G64|
 |Blu|G70|G0151WW|G70|
 |Blu|G70|G0250WW|G70|
 |Blu|G70|G0251WW|G70|
@@ -27857,7 +27858,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rizzen|S1|S1|S1|
 |Rizzen|X1|X1|X1|
 |RoadQuest|RoadQuest|RQ-G|RQ-G|
-|RockTek|Gretzky|TSA|TVDongle|
 |RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
@@ -34123,6 +34123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 5G|Dragonfly|T613K|
 |TCL|TCL 50 SE|Ladybird|T611B|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
+|TCL|TCL 50 XL NXTPAPER 5G|Goldfinch_Pro_CS|T702M|
 |TCL|TCL 502|Rio_CAN|T432J|
 |TCL|TCL 505|Ant|T509A|
 |TCL|TCL 505|Ant|T509K|
@@ -37249,6 +37250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|S9_Pro|S9_Pro|S9_Pro|
 |Ulefone|T1|Ulefone_T1|T1|
 |Ulefone|T2|T2|T2|
+|Ulefone|Tab A11 Pro|UF1103|Tab A11 Pro|
 |Ulefone|Tab A7|Ulefone_Tab_A7|Ulefone Tab A7|
 |Ulefone|Tab A8|GQ3286|Tab A8|
 |Ulefone|Tab A8|Tab_A8|Tab A8|
