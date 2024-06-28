@@ -27782,6 +27782,11 @@
    "model": "QTab8_LTE"
   },
   {
+   "device": "QTabPro",
+   "name": "QTabPro",
+   "model": "QTabPro"
+  },
+  {
    "device": "Qtab",
    "name": "QTabPro",
    "model": "QTabPro"
@@ -42615,6 +42620,21 @@
    "device": "FCG01",
    "name": "arrows We FCG01",
    "model": "FCG01"
+  },
+  {
+   "device": "F52E",
+   "name": "arrows We2 F-52E",
+   "model": "F-52E"
+  },
+  {
+   "device": "FCG02",
+   "name": "arrows We2 FCG02",
+   "model": "FCG02"
+  },
+  {
+   "device": "F51E",
+   "name": "arrows We2 Plus F-51E",
+   "model": "F-51E"
   }
  ],
  "FEITIAN": [
@@ -101926,6 +101946,11 @@
    "model": "Tab Link 104"
   },
   {
+   "device": "Tab_XL_14",
+   "name": "Tab_XL_14",
+   "model": "Tab_XL_14"
+  },
+  {
    "device": "CT730",
    "name": "Touch Tablet CT730",
    "model": "CT730"
@@ -114649,6 +114674,16 @@
    "model": "motorola razr 2023"
   },
   {
+   "device": "aito",
+   "name": "motorola razr 2024",
+   "model": "motorola razr 2023"
+  },
+  {
+   "device": "aito",
+   "name": "motorola razr 2024",
+   "model": "motorola razr 2024"
+  },
+  {
    "device": "lynkco",
    "name": "motorola razr 40",
    "model": "motorola razr 2022"
@@ -114674,6 +114709,26 @@
    "model": "motorola razr 40s"
   },
   {
+   "device": "aito",
+   "name": "motorola razr 50",
+   "model": "motorola razr 40"
+  },
+  {
+   "device": "aito",
+   "name": "motorola razr 50",
+   "model": "motorola razr 50"
+  },
+  {
+   "device": "arcfox",
+   "name": "motorola razr 50 ultra",
+   "model": "motorola razr 40 ultra"
+  },
+  {
+   "device": "arcfox",
+   "name": "motorola razr 50 ultra",
+   "model": "motorola razr 50 ultra"
+  },
+  {
    "device": "smith",
    "name": "motorola razr 5G",
    "model": "motorola razr 5G"
@@ -114687,6 +114742,16 @@
    "device": "zeekr",
    "name": "motorola razr plus 2023",
    "model": "motorola razr plus 2023"
+  },
+  {
+   "device": "arcfox",
+   "name": "motorola razr plus 2024",
+   "model": "motorola razr plus 2023"
+  },
+  {
+   "device": "arcfox",
+   "name": "motorola razr plus 2024",
+   "model": "motorola razr plus 2024"
   }
  ],
  "Motorola Solutions": [
@@ -124092,7 +124157,7 @@
   {
    "device": "OP5B05L1",
    "name": "A3 Pro 5G",
-   "model": "CPH2667"
+   "model": "CPH2665"
   },
   {
    "device": "OP5B05L1",
@@ -125487,7 +125552,7 @@
   {
    "device": "OP5B05L1",
    "name": "K12x 5G",
-   "model": "CPH2665"
+   "model": "CPH2667"
   },
   {
    "device": "OP4679",
@@ -126773,6 +126838,11 @@
    "device": "OP5A29L1",
    "name": "Reno12",
    "model": "PJV110"
+  },
+  {
+   "device": "OP5ADDL1",
+   "name": "Reno12 5G",
+   "model": "CPH2625"
   },
   {
    "device": "OP5A2BL1",
@@ -163819,6 +163889,21 @@
    "model": "SH-M25"
   },
   {
+   "device": "SH-52E",
+   "name": "AQUOS wish4",
+   "model": "SD0L4"
+  },
+  {
+   "device": "SH-52E",
+   "name": "AQUOS wish4",
+   "model": "SH-52E"
+  },
+  {
+   "device": "SX4",
+   "name": "AQUOS wish4",
+   "model": "A402SH"
+  },
+  {
    "device": "SG801SH",
    "name": "AQUOS zero",
    "model": "801SH"
@@ -165082,6 +165167,11 @@
    "device": "Levil",
    "name": "シンプルスマホ６",
    "model": "A201SH"
+  },
+  {
+   "device": "Levil5",
+   "name": "シンプルスマホ７",
+   "model": "A404SH"
   },
   {
    "device": "SR01MW",
@@ -200176,6 +200266,11 @@
   }
  ],
  "Vocal": [
+  {
+   "device": "V01",
+   "name": "V01",
+   "model": "VOCAL V01"
+  },
   {
    "device": "v0",
    "name": "v0",

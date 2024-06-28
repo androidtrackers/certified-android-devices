@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-27
+Last sync is 2024-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5362,6 +5362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
 |Compaq|QTab8|QTab8|QTab8|
 |Compaq|QTab8_LTE|QTab8_LTE|QTab8_LTE|
+|Compaq|QTabPro|QTabPro|QTabPro|
 |Compaq|QTabPro|Qtab|QTabPro|
 |Compaq|Qtab 10.1 with keyboard|Qtab10|Qtab 10.1 with keyboard|
 |Compaq|Qtab10Plus|Qtab10Plus|Qtab10Plus|
@@ -8209,6 +8210,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows We A101FC|A101FC|A101FC|
 |FCNT|arrows We F-51B|F51B|F-51B|
 |FCNT|arrows We FCG01|FCG01|FCG01|
+|FCNT|arrows We2 F-52E|F52E|F-52E|
+|FCNT|arrows We2 FCG02|FCG02|FCG02|
+|FCNT|arrows We2 Plus F-51E|F51E|F-51E|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
@@ -19822,6 +19826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Solar Pro|Solar_Pro|Solar Pro|
 |Logicom|TAB76|TAB76|TAB76|
 |Logicom|TABLINK104|Tab_Link_104|Tab Link 104|
+|Logicom|Tab_XL_14|Tab_XL_14|Tab_XL_14|
 |Logicom|Touch Tablet CT730|CT730|CT730|
 |Logicom|VRBOT552|VRBOT552|VR BOT 552|
 |Logicom|VRBOT552PLUS|VRBOT552PLUS|VR BOT 552 PLUS|
@@ -22295,14 +22300,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 2022|oneli|motorola razr 2022|
 |Motorola|motorola razr 2023|lynkco|motorola razr 2022|
 |Motorola|motorola razr 2023|lynkco|motorola razr 2023|
+|Motorola|motorola razr 2024|aito|motorola razr 2023|
+|Motorola|motorola razr 2024|aito|motorola razr 2024|
 |Motorola|motorola razr 40|lynkco|motorola razr 2022|
 |Motorola|motorola razr 40|lynkco|motorola razr 40|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 40 ultra|
 |Motorola|motorola razr 40s|lynkco|motorola razr 40s|
+|Motorola|motorola razr 50|aito|motorola razr 40|
+|Motorola|motorola razr 50|aito|motorola razr 50|
+|Motorola|motorola razr 50 ultra|arcfox|motorola razr 40 ultra|
+|Motorola|motorola razr 50 ultra|arcfox|motorola razr 50 ultra|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
+|Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2023|
+|Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2024|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -24104,7 +24117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A3 5G|OP5B05L1|A402OP|
 |Oppo|A3 Pro 5G|OP59FB|PJY110|
-|Oppo|A3 Pro 5G|OP5B05L1|CPH2667|
+|Oppo|A3 Pro 5G|OP5B05L1|CPH2665|
 |Oppo|A3 Pro/A3/A80 5G|OP5B05L1|CPH2639|
 |Oppo|A3 energy 5G|OP5A47|PKD110|
 |Oppo|A31|A31t|A31|
@@ -24383,7 +24396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K1|PBCM30|PBCM30|
 |Oppo|K12 5G|OP5A15L1|PJR110|
 |Oppo|K12x 5G|OP5A1F|PJT110|
-|Oppo|K12x 5G|OP5B05L1|CPH2665|
+|Oppo|K12x 5G|OP5B05L1|CPH2667|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -24641,6 +24654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno11 F 5G/Reno11 A|OP5A0BL1|CPH2603|
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
 |Oppo|Reno12|OP5A29L1|PJV110|
+|Oppo|Reno12 5G|OP5ADDL1|CPH2625|
 |Oppo|Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|Reno12 Pro 5G|OP5AE1L1|CPH2629|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
@@ -31897,6 +31911,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish3|SX3|A303SH|
 |Sharp|AQUOS wish3|SX3|A303SH-y|
 |Sharp|AQUOS wish3|SX3|SH-M25|
+|Sharp|AQUOS wish4|SH-52E|SD0L4|
+|Sharp|AQUOS wish4|SH-52E|SH-52E|
+|Sharp|AQUOS wish4|SX4|A402SH|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -32150,6 +32167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|シンプルスマホ４|SG704SH|704SH|
 |Sharp|シンプルスマホ５|OI6|A001SH|
 |Sharp|シンプルスマホ６|Levil|A201SH|
+|Sharp|シンプルスマホ７|Levil5|A404SH|
 |Sharp|ロボホン|SR01MW|SR01MW|
 |Sharp|ロボホン|SR02MW|SR02MW|
 |Sharp|ロボホン|SRX002|SRX002|
@@ -38981,6 +38999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vmobile|A13|A13|A13|
 |Vmobile|A13_Y|A13_Y|A13_Y|
 |Vmobile|A15|A15|A15|
+|Vocal|V01|V01|VOCAL V01|
 |Vocal|v0|v0|VOCAL V0|
 |Vocal|v1|v1|VOCAL V1|
 |Vodafone|785|Vodafone_785|Vodafone 785|
