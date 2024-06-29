@@ -86993,6 +86993,28 @@
    "model": "HS-EG981"
   }
  ],
+ "hirano": [
+  {
+   "brand": "Hisense",
+   "name": "Emeishanph",
+   "model": "Hisense TV"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense TV HK",
+   "model": "Hisense TV HK"
+  },
+  {
+   "brand": "Hisense",
+   "name": "emeishan",
+   "model": "SmartTV"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "TOSHIBA TV",
+   "model": "TOSHIBA TV"
+  }
+ ],
  "F270BW": [
   {
    "brand": "Hisense",
@@ -89995,13 +90017,6 @@
    "model": "XOLO T1000"
   }
  ],
- "hirano": [
-  {
-   "brand": "Hisense",
-   "name": "emeishan",
-   "model": "SmartTV"
-  }
- ],
  "laohushan": [
   {
    "brand": "Hisense",
@@ -90036,6 +90051,13 @@
    "brand": "Toshiba",
    "name": "lushan-Toshiba-FFM",
    "model": "SmartTV 4K FFM"
+  }
+ ],
+ "moeraki": [
+  {
+   "brand": "Hisense",
+   "name": "qingshan_hisense",
+   "model": "HJ4KAndroidTV"
   }
  ],
  "vision2_1": [
@@ -151897,6 +151919,18 @@
    "model": "moto g stylus 5g"
   }
  ],
+ "boston": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus 5G - 2024",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus 5G - 2024",
+   "model": "moto g stylus 5G - 2024"
+  }
+ ],
  "nio": [
   {
    "brand": "Motorola",
@@ -164095,23 +164129,6 @@
    "model": "PJY110"
   }
  ],
- "OP5A47": [
-  {
-   "brand": "Oppo",
-   "name": "A3 energy 5G",
-   "model": "PKD110"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A3m 5G",
-   "model": "PKD120"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A3x 5G",
-   "model": "PKD130"
-  }
- ],
  "A31c": [
   {
    "brand": "Oppo",
@@ -164240,6 +164257,23 @@
    "brand": "Oppo",
    "name": "OPPO A38",
    "model": "CPH2579"
+  }
+ ],
+ "OP5A47": [
+  {
+   "brand": "Oppo",
+   "name": "A3m 5G",
+   "model": "PKD120"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3x 5G",
+   "model": "PKD130"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3活力版 5G",
+   "model": "PKD110"
   }
  ],
  "CPH1803": [
@@ -248887,6 +248921,13 @@
    "model": "I2202"
   }
  ],
+ "I2306": [
+  {
+   "brand": "Vivo",
+   "name": "I2306",
+   "model": "I2306"
+  }
+ ],
  "PD1806B": [
   {
    "brand": "Vivo",
@@ -249086,6 +249127,28 @@
    "brand": "Vivo",
    "name": "T3 5G",
    "model": "V2334"
+  }
+ ],
+ "V2346": [
+  {
+   "brand": "Vivo",
+   "name": "T3 Lite 5G",
+   "model": "V2356"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y28e 5G",
+   "model": "V2407"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y28s 5G",
+   "model": "V2346"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y28s 5G",
+   "model": "V2351"
   }
  ],
  "PD2180": [
@@ -251406,18 +251469,6 @@
    "brand": "Vivo",
    "name": "Y28 5G",
    "model": "V2315"
-  }
- ],
- "V2346": [
-  {
-   "brand": "Vivo",
-   "name": "Y28s 5G",
-   "model": "V2346"
-  },
-  {
-   "brand": "Vivo",
-   "name": "Y28s 5G",
-   "model": "V2351"
   }
  ],
  "2160": [

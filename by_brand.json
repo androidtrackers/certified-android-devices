@@ -58439,6 +58439,11 @@
    "model": "HS-EG981"
   },
   {
+   "device": "hirano",
+   "name": "Emeishanph",
+   "model": "Hisense TV"
+  },
+  {
    "device": "HS6737MT",
    "name": "F10",
    "model": "BM001"
@@ -59657,6 +59662,11 @@
    "device": "HS6580MT",
    "name": "Hisense T965",
    "model": "Hisense T965"
+  },
+  {
+   "device": "hirano",
+   "name": "Hisense TV HK",
+   "model": "Hisense TV HK"
   },
   {
    "device": "HLTE100E_20",
@@ -61397,6 +61407,11 @@
    "device": "lushan",
    "name": "lushan-NF",
    "model": "SmartTV 4K"
+  },
+  {
+   "device": "moeraki",
+   "name": "qingshan_hisense",
+   "model": "HJ4KAndroidTV"
   },
   {
    "device": "songshan",
@@ -113619,6 +113634,16 @@
    "model": "moto g stylus 5g"
   },
   {
+   "device": "boston",
+   "name": "moto g stylus 5G - 2024",
+   "model": "moto g stylus 5G - 2023"
+  },
+  {
+   "device": "boston",
+   "name": "moto g stylus 5G - 2024",
+   "model": "moto g stylus 5G - 2024"
+  },
+  {
    "device": "capri",
    "name": "moto g(10)",
    "model": "moto e(7) plus"
@@ -124165,11 +124190,6 @@
    "model": "CPH2639"
   },
   {
-   "device": "OP5A47",
-   "name": "A3 energy 5G",
-   "model": "PKD110"
-  },
-  {
    "device": "A31t",
    "name": "A31",
    "model": "A31"
@@ -124333,6 +124353,11 @@
    "device": "PADT00",
    "name": "A3中国版",
    "model": "PADT00"
+  },
+  {
+   "device": "OP5A47",
+   "name": "A3活力版 5G",
+   "model": "PKD110"
   },
   {
    "device": "CPH1809",
@@ -189277,6 +189302,11 @@
    "model": "HIDB 4K"
   },
   {
+   "device": "hirano",
+   "name": "TOSHIBA TV",
+   "model": "TOSHIBA TV"
+  },
+  {
    "device": "tostab04",
    "name": "Thrive 7",
    "model": "AT1S0"
@@ -196993,6 +197023,11 @@
    "model": "I2202"
   },
   {
+   "device": "I2306",
+   "name": "I2306",
+   "model": "I2306"
+  },
+  {
    "device": "PD1806B",
    "name": "NEX A",
    "model": "vivo NEX A"
@@ -197106,6 +197141,11 @@
    "device": "V2334",
    "name": "T3 5G",
    "model": "V2334"
+  },
+  {
+   "device": "V2346",
+   "name": "T3 Lite 5G",
+   "model": "V2356"
   },
   {
    "device": "PD2180",
@@ -198886,6 +198926,11 @@
    "device": "V2315",
    "name": "Y28 5G",
    "model": "V2315"
+  },
+  {
+   "device": "V2346",
+   "name": "Y28e 5G",
+   "model": "V2407"
   },
   {
    "device": "V2346",

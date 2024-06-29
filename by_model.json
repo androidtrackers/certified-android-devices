@@ -83287,6 +83287,13 @@
    "device": "EG981"
   }
  ],
+ "Hisense TV": [
+  {
+   "brand": "Hisense",
+   "name": "Emeishanph",
+   "device": "hirano"
+  }
+ ],
  "BM001": [
   {
    "brand": "Hisense",
@@ -84850,6 +84857,13 @@
    "brand": "Hisense",
    "name": "Hisense T965",
    "device": "HS6580MT"
+  }
+ ],
+ "Hisense TV HK": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense TV HK",
+   "device": "hirano"
   }
  ],
  "Hisense U3 2021": [
@@ -86974,6 +86988,13 @@
    "brand": "Hisense",
    "name": "lt971",
    "device": "LT971"
+  }
+ ],
+ "HJ4KAndroidTV": [
+  {
+   "brand": "Hisense",
+   "name": "qingshan_hisense",
+   "device": "moeraki"
   }
  ],
  "U972": [
@@ -153623,6 +153644,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g stylus 5G - 2024",
+   "device": "boston"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola edge 50 fusion",
    "device": "cusco"
   },
@@ -153637,6 +153663,13 @@
    "brand": "Motorola",
    "name": "moto g stylus 5G - 2023",
    "device": "genevn"
+  }
+ ],
+ "moto g stylus 5G - 2024": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus 5G - 2024",
+   "device": "boston"
   }
  ],
  "moto g(10)": [
@@ -166028,13 +166061,6 @@
    "device": "OP5B05L1"
   }
  ],
- "PKD110": [
-  {
-   "brand": "Oppo",
-   "name": "A3 energy 5G",
-   "device": "OP5A47"
-  }
- ],
  "A31": [
   {
    "brand": "Oppo",
@@ -166269,6 +166295,13 @@
    "brand": "Oppo",
    "name": "A3中国版",
    "device": "PADT00"
+  }
+ ],
+ "PKD110": [
+  {
+   "brand": "Oppo",
+   "name": "A3活力版 5G",
+   "device": "OP5A47"
   }
  ],
  "CPH1809": [
@@ -249519,6 +249552,13 @@
    "device": "TOSPASB"
   }
  ],
+ "TOSHIBA TV": [
+  {
+   "brand": "Toshiba",
+   "name": "TOSHIBA TV",
+   "device": "hirano"
+  }
+ ],
  "AT1S0": [
   {
    "brand": "Toshiba",
@@ -258290,6 +258330,13 @@
    "device": "I2202"
   }
  ],
+ "I2306": [
+  {
+   "brand": "Vivo",
+   "name": "I2306",
+   "device": "I2306"
+  }
+ ],
  "vivo NEX A": [
   {
    "brand": "Vivo",
@@ -258474,6 +258521,13 @@
    "brand": "Vivo",
    "name": "T3 5G",
    "device": "V2334"
+  }
+ ],
+ "V2356": [
+  {
+   "brand": "Vivo",
+   "name": "T3 Lite 5G",
+   "device": "V2346"
   }
  ],
  "V2180GA": [
@@ -260990,6 +261044,13 @@
    "brand": "Vivo",
    "name": "Y28 5G",
    "device": "V2315"
+  }
+ ],
+ "V2407": [
+  {
+   "brand": "Vivo",
+   "name": "Y28e 5G",
+   "device": "V2346"
   }
  ],
  "V2346": [

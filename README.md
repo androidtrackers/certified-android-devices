@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-28
+Last sync is 2024-06-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11269,6 +11269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|EG98|EG98|EG98|
 |Hisense|EG98|EG98TW|EG98|
 |Hisense|EG981|EG981|HS-EG981|
+|Hisense|Emeishanph|hirano|Hisense TV|
 |Hisense|F10|HS6737MT|BM001|
 |Hisense|F10|HS6737MT|Hisense F10|
 |Hisense|F10|HS6737MT|Hisense L675 PRO|
@@ -11513,6 +11514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense T5|HS6737MT|Hisense T5|
 |Hisense|Hisense T5 Pro|HS6737MT|Hisense T5 Pro|
 |Hisense|Hisense T965|HS6580MT|Hisense T965|
+|Hisense|Hisense TV HK|hirano|Hisense TV HK|
 |Hisense|Hisense U3 2021|HLTE100E_20|Hisense U3 2021|
 |Hisense|Hisense U3 2021|HLTE100E_21|Hisense U3 2021|
 |Hisense|Hisense U3 2021|HLTE100E_22|Hisense U3 2021|
@@ -11861,6 +11863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|lt971|LT971|LT971|
 |Hisense|lushan|lushan|SmartTV 4K FFM|
 |Hisense|lushan-NF|lushan|SmartTV 4K|
+|Hisense|qingshan_hisense|moeraki|HJ4KAndroidTV|
 |Hisense|songshan|songshan|SmartTV 4K|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
@@ -22089,6 +22092,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus 5G (2022)|milanf|moto g(50)|
 |Motorola|moto g stylus 5G - 2023|genevn|moto g stylus 5G - 2023|
 |Motorola|moto g stylus 5G - 2023|genevn|moto g stylus 5g|
+|Motorola|moto g stylus 5G - 2024|boston|moto g stylus 5G - 2023|
+|Motorola|moto g stylus 5G - 2024|boston|moto g stylus 5G - 2024|
 |Motorola|moto g(10)|capri|moto e(7) plus|
 |Motorola|moto g(10)|capri|moto g(10)|
 |Motorola|moto g(100)|nio|moto g(100)|
@@ -24119,7 +24124,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3 Pro 5G|OP59FB|PJY110|
 |Oppo|A3 Pro 5G|OP5B05L1|CPH2665|
 |Oppo|A3 Pro/A3/A80 5G|OP5B05L1|CPH2639|
-|Oppo|A3 energy 5G|OP5A47|PKD110|
 |Oppo|A31|A31t|A31|
 |Oppo|A31c|A31c|A31c|
 |Oppo|A31u|A31u|A31u|
@@ -24153,6 +24157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3x 5G|OP5A47|PKD130|
 |Oppo|A3中国版|PADM00|PADM00|
 |Oppo|A3中国版|PADT00|PADT00|
+|Oppo|A3活力版 5G|OP5A47|PKD110|
 |Oppo|A5|CPH1809|CPH1809|
 |Oppo|A5|PBAM00|PBAM00|
 |Oppo|A5|PBAT00|PBAT00|
@@ -36871,6 +36876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|STB10|TOSPASB|TOSPASB|
 |Toshiba|TD-E657TS|xinnong|HIDB 4K|
 |Toshiba|TD-E757TS|ligen|HIDB 4K|
+|Toshiba|TOSHIBA TV|hirano|TOSHIBA TV|
 |Toshiba|Thrive 7|tostab04|AT1S0|
 |Toshiba|Toshiba Chromebook 2 (2015 Edition)|gandof_cheets|Toshiba Chromebook 2 (2015 Edition)|
 |Toshiba|ToshibaTV|hayward|ToshibaTV|
@@ -38347,6 +38353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
 |Vivo|I2202|I2202|I2202|
+|Vivo|I2306|I2306|I2306|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PA2170|DPD2106|PA2170|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
@@ -38370,6 +38377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T2x 5G|V2225|V2253|
 |Vivo|T2x 5G|V2225|V2312|
 |Vivo|T3 5G|V2334|V2334|
+|Vivo|T3 Lite 5G|V2346|V2356|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
@@ -38726,6 +38734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y28|V2352|V2352|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y28 5G|V2315|V2315|
+|Vivo|Y28e 5G|V2346|V2407|
 |Vivo|Y28s 5G|V2346|V2346|
 |Vivo|Y28s 5G|V2346|V2351|
 |Vivo|Y30 5G|2160|V2160|
