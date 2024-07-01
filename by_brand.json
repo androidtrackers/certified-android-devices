@@ -47769,11 +47769,6 @@
    "device": "zx80",
    "name": "ZX80",
    "model": "ZX80"
-  },
-  {
-   "device": "zx80",
-   "name": "zx80",
-   "model": "ZX80"
   }
  ],
  "Getnord": [
@@ -128975,6 +128970,16 @@
    "model": "P63L"
   },
   {
+   "device": "P65_CA",
+   "name": "P65",
+   "model": "P65"
+  },
+  {
+   "device": "P65_CA",
+   "name": "P65",
+   "model": "P65R"
+  },
+  {
    "device": "PCD508",
    "name": "PCD508",
    "model": "PCD508"
@@ -142873,6 +142878,11 @@
    "device": "S19_Max_Pro_S",
    "name": "S19 Max Pro S",
    "model": "S19 Max Pro S"
+  },
+  {
+   "device": "S19_Max_Pro_S_108_MP",
+   "name": "S19 Max Pro S 108 MP",
+   "model": "S19 Max Pro S 108 MP"
   },
   {
    "device": "S19MaxProSEdge",
@@ -222343,6 +222353,11 @@
    "device": "RE6054",
    "name": "RMX3939",
    "model": "RMX3939"
+  },
+  {
+   "device": "RE6054",
+   "name": "RMX3993",
+   "model": "RMX3933"
   },
   {
    "device": "RE5C9AL1",

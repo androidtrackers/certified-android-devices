@@ -69221,11 +69221,6 @@
    "brand": "Getac",
    "name": "ZX80",
    "device": "zx80"
-  },
-  {
-   "brand": "Getac",
-   "name": "zx80",
-   "device": "zx80"
   }
  ],
  "LYNX": [
@@ -172215,6 +172210,25 @@
    "device": "P63L_PR"
   }
  ],
+ "P65": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P65",
+   "device": "P65_CA"
+  },
+  {
+   "brand": "PCD LLC",
+   "name": "P65",
+   "device": "P65"
+  }
+ ],
+ "P65R": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P65",
+   "device": "P65_CA"
+  }
+ ],
  "PCD508": [
   {
    "brand": "PCD Argentina",
@@ -172344,13 +172358,6 @@
    "brand": "PCD LLC",
    "name": "P62",
    "device": "P62"
-  }
- ],
- "P65": [
-  {
-   "brand": "PCD LLC",
-   "name": "P65",
-   "device": "P65"
   }
  ],
  "PET 1008-F464E": [
@@ -189539,6 +189546,13 @@
    "brand": "Reeder",
    "name": "S19 Max Pro S",
    "device": "S19_Max_Pro_S"
+  }
+ ],
+ "S19 Max Pro S 108 MP": [
+  {
+   "brand": "Reeder",
+   "name": "S19 Max Pro S 108 MP",
+   "device": "S19_Max_Pro_S_108_MP"
   }
  ],
  "S19 Max Pro S Edge": [
@@ -289572,6 +289586,13 @@
   {
    "brand": "realme",
    "name": "realme C61",
+   "device": "RE6054"
+  }
+ ],
+ "RMX3933": [
+  {
+   "brand": "realme",
+   "name": "RMX3993",
    "device": "RE6054"
   }
  ],

@@ -73884,11 +73884,6 @@
    "brand": "Getac",
    "name": "ZX80",
    "model": "ZX80"
-  },
-  {
-   "brand": "Getac",
-   "name": "zx80",
-   "model": "ZX80"
   }
  ],
  "LYNX": [
@@ -170029,6 +170024,18 @@
    "model": "P63L"
   }
  ],
+ "P65_CA": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P65",
+   "model": "P65"
+  },
+  {
+   "brand": "PCD Argentina",
+   "name": "P65",
+   "model": "P65R"
+  }
+ ],
  "PCD508": [
   {
    "brand": "PCD Argentina",
@@ -186179,6 +186186,13 @@
    "brand": "Reeder",
    "name": "S19 Max Pro S",
    "model": "S19 Max Pro S"
+  }
+ ],
+ "S19_Max_Pro_S_108_MP": [
+  {
+   "brand": "Reeder",
+   "name": "S19 Max Pro S 108 MP",
+   "model": "S19 Max Pro S 108 MP"
   }
  ],
  "S19MaxProSEdge": [
@@ -277475,6 +277489,11 @@
    "brand": "realme",
    "name": "RMX3939",
    "model": "RMX3939"
+  },
+  {
+   "brand": "realme",
+   "name": "RMX3993",
+   "model": "RMX3933"
   },
   {
    "brand": "realme",

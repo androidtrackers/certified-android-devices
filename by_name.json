@@ -47593,6 +47593,16 @@
    "model": "itel P671L"
   },
   {
+   "brand": "PCD Argentina",
+   "device": "P65_CA",
+   "model": "P65"
+  },
+  {
+   "brand": "PCD Argentina",
+   "device": "P65_CA",
+   "model": "P65R"
+  },
+  {
    "brand": "PCD LLC",
    "device": "P65",
    "model": "P65"
@@ -75257,13 +75267,6 @@
   }
  ],
  "ZX80": [
-  {
-   "brand": "Getac",
-   "device": "zx80",
-   "model": "ZX80"
-  }
- ],
- "zx80": [
   {
    "brand": "Getac",
    "device": "zx80",
@@ -186370,6 +186373,13 @@
    "model": "S19 Max Pro S"
   }
  ],
+ "S19 Max Pro S 108 MP": [
+  {
+   "brand": "Reeder",
+   "device": "S19_Max_Pro_S_108_MP",
+   "model": "S19 Max Pro S 108 MP"
+  }
+ ],
  "S19 Max Pro S Edge": [
   {
    "brand": "Reeder",
@@ -276063,6 +276073,13 @@
    "brand": "realme",
    "device": "RE6054",
    "model": "RMX3939"
+  }
+ ],
+ "RMX3993": [
+  {
+   "brand": "realme",
+   "device": "RE6054",
+   "model": "RMX3933"
   }
  ],
  "RMX3997": [

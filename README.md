@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-06-30
+Last sync is 2024-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9185,7 +9185,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|zx70|
 |Getac|ZX70G2|zx70g2|ZX70G2|
 |Getac|ZX80|zx80|ZX80|
-|Getac|zx80|zx80|ZX80|
 |Getnord|LYNX|LYNX|LYNX|
 |Gfast|MD_97_S464A|MD_97_S464A|MD_97_S464A|
 |Ghia|A7LED2|A7LED2|A7LED2|
@@ -25069,6 +25068,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|P60_CA|P60_CA|P60_CA|
 |PCD Argentina|P63L|P63L_CA|P63L|
 |PCD Argentina|P63L|P63L_PR|P63L|
+|PCD Argentina|P65|P65_CA|P65|
+|PCD Argentina|P65|P65_CA|P65R|
 |PCD Argentina|PCD508|PCD508|PCD508|
 |PCD Argentina|PCD509|PCD509|PCD509|
 |PCD Argentina|PD60|P60|P60|
@@ -27773,6 +27774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 Max 64GB|S19_Max_64GB|S19 Max 64GB|
 |Reeder|S19 Max Pro|S19_Max_Pro|S19 Max Pro|
 |Reeder|S19 Max Pro S|S19_Max_Pro_S|S19 Max Pro S|
+|Reeder|S19 Max Pro S 108 MP|S19_Max_Pro_S_108_MP|S19 Max Pro S 108 MP|
 |Reeder|S19 Max Pro S Edge|S19MaxProSEdge|S19 Max Pro S Edge|
 |Reeder|S19 MaxL 128GB|S19_MaxL_128GB|S19 MaxL 128GB|
 |Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
@@ -43283,6 +43285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
 |realme|RMX3939|RE6054|RMX3939|
+|realme|RMX3993|RE6054|RMX3933|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|Smart TV|mateo|2K PA Smart TV|
