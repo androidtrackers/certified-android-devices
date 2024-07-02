@@ -42632,9 +42632,19 @@
    "model": "FCG02"
   },
   {
+   "device": "M07",
+   "name": "arrows We2 M07",
+   "model": "M07"
+  },
+  {
    "device": "F51E",
    "name": "arrows We2 Plus F-51E",
    "model": "F-51E"
+  },
+  {
+   "device": "M06",
+   "name": "arrows We2 Plus M06",
+   "model": "M06"
   }
  ],
  "FEITIAN": [
@@ -46317,6 +46327,11 @@
    "device": "T11_1",
    "name": "T11_1",
    "model": "T11"
+  },
+  {
+   "device": "T11_1",
+   "name": "T11_1",
+   "model": "T11_1"
   }
  ],
  "G-TiDE": [

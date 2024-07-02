@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-01
+Last sync is 2024-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8212,7 +8212,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows We FCG01|FCG01|FCG01|
 |FCNT|arrows We2 F-52E|F52E|F-52E|
 |FCNT|arrows We2 FCG02|FCG02|FCG02|
+|FCNT|arrows We2 M07|M07|M07|
 |FCNT|arrows We2 Plus F-51E|F51E|F-51E|
+|FCNT|arrows We2 Plus M06|M06|M06|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
@@ -8919,6 +8921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S8X|S8X|S8X|
 |G-Tab|T10|T10_1|T10|
 |G-Tab|T11_1|T11_1|T11|
+|G-Tab|T11_1|T11_1|T11_1|
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|

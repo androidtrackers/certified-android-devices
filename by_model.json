@@ -62473,11 +62473,25 @@
    "device": "FCG02"
   }
  ],
+ "M07": [
+  {
+   "brand": "FCNT",
+   "name": "arrows We2 M07",
+   "device": "M07"
+  }
+ ],
  "F-51E": [
   {
    "brand": "FCNT",
    "name": "arrows We2 Plus F-51E",
    "device": "F51E"
+  }
+ ],
+ "M06": [
+  {
+   "brand": "FCNT",
+   "name": "arrows We2 Plus M06",
+   "device": "M06"
   }
  ],
  "F100": [
@@ -67389,6 +67403,13 @@
    "brand": "G-Tab",
    "name": "S8X",
    "device": "S8X"
+  }
+ ],
+ "T11_1": [
+  {
+   "brand": "G-Tab",
+   "name": "T11_1",
+   "device": "T11_1"
   }
  ],
  "EX750": [
