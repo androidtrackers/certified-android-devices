@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-02
+Last sync is 2024-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4002,6 +4002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G72 MAX|G0770|G72 MAX|
 |Blu|G73|G0771|G73|
 |Blu|G73L|G0930|G73L|
+|Blu|G74|G1030|G74|
 |Blu|G8|G0160LL|G8|
 |Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
@@ -6467,6 +6468,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 11|m11|Memor 11|
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
+|Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
+|Datalogic|Memor 35/35X|nebula_pda|Memor 35/35X|
 |Datalogic|Memor K|memor_k|Memor K|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
@@ -24361,6 +24364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F1w|F1f|F1f|
 |Oppo|F1w|F1f|F1w|
 |Oppo|F25 Pro 5G|OP5A0BL1|CPH2603|
+|Oppo|F27 5G|OP5AF1L1|CPH2637|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
 |Oppo|F9|CPH1823|CPH1823|
@@ -24662,6 +24666,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
 |Oppo|Reno12|OP5A29L1|PJV110|
 |Oppo|Reno12 5G|OP5ADDL1|CPH2625|
+|Oppo|Reno12 F 5G|OP5AF2L1|CPH2637|
+|Oppo|Reno12 F/FS 5G|OP5AF2L1|CPH2637|
 |Oppo|Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|Reno12 Pro 5G|OP5AE1L1|CPH2629|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
@@ -24873,6 +24879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C36_EEA|C36|C36|
 |Oukitel|C36_T_EEA|C36|C36|
 |Oukitel|C37_EEA|C37|C37|
+|Oukitel|C38_EEA|C38|C 38|
 |Oukitel|C38_EEA|C38|C38|
 |Oukitel|C50_EEA|C50|C50|
 |Oukitel|C51_EEA|C51|C51|
@@ -27678,6 +27685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 5G|gold|2312DRAABI|
 |Redmi|Redmi Note 13 5G|iron|2312DRAABG|
 |Redmi|Redmi Note 13 Pro|emerald|23117RA68G|
+|Redmi|Redmi Note 13 Pro 5G|XIG05|XIG05|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312CRAD3C|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50C|
 |Redmi|Redmi Note 13 Pro 5G|garnet|2312DRA50G|
@@ -31924,6 +31932,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish4|SH-52E|SD0L4|
 |Sharp|AQUOS wish4|SH-52E|SH-52E|
 |Sharp|AQUOS wish4|SX4|A402SH|
+|Sharp|AQUOS wish4|SX4|SH-M27|
+|Sharp|AQUOS wish4|SX4|SM0L4|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -36624,6 +36634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Smart II|SmartII|SmartII|
 |Telenor|Smart plus II|SmartPlusII|SmartPlusII|
 |Telenor|Smart4G|Telenor_Smart_4G|Telenor_Smart_4G|
+|Telenor|Stream Dongle|DV6113Z-KST|Streaming Dongle|
 |Telenor|Telenor Mediahubb|vip5702w_tn|Telenor Mediahubb|
 |Telenor|V51|V51|Infinity_i4|
 |Telenor(HU)|Hipernet TV Box|Hipernet_TV_Box_B866V2|Hipernet TV Box|
@@ -42159,6 +42170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A72s|P606F05|ZTE A7050|
 |ZTE|ZTE Blade A73|P606F07|ZTE 7060|
 |ZTE|ZTE Blade A75 5G|P720F09|Z2357N|
+|ZTE|ZTE Blade A75 5G S|P720F09|Z2357N|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020RU|
@@ -42255,6 +42267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Blade A72|Z6255|Z6255CA|
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
+|ZTE|nubia Flip 5G S|P745F01|NX724J|
 |ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|

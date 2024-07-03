@@ -37798,6 +37798,13 @@
    "model": "G73L"
   }
  ],
+ "G74": [
+  {
+   "brand": "Blu",
+   "device": "G1030",
+   "model": "G74"
+  }
+ ],
  "G8": [
   {
    "brand": "Blu",
@@ -56029,6 +56036,20 @@
    "brand": "Datalogic",
    "device": "Q10A",
    "model": "Memor 20"
+  }
+ ],
+ "Memor 30/30X": [
+  {
+   "brand": "Datalogic",
+   "device": "nebula_pda",
+   "model": "Memor 30/30X"
+  }
+ ],
+ "Memor 35/35X": [
+  {
+   "brand": "Datalogic",
+   "device": "nebula_pda",
+   "model": "Memor 35/35X"
   }
  ],
  "Memor K": [
@@ -164800,6 +164821,13 @@
    "model": "CPH2603"
   }
  ],
+ "F27 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5AF1L1",
+   "model": "CPH2637"
+  }
+ ],
  "F7": [
   {
    "brand": "Oppo",
@@ -166671,6 +166699,20 @@
    "model": "CPH2625"
   }
  ],
+ "Reno12 F 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5AF2L1",
+   "model": "CPH2637"
+  }
+ ],
+ "Reno12 F/FS 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5AF2L1",
+   "model": "CPH2637"
+  }
+ ],
  "Reno12 Pro": [
   {
    "brand": "Oppo",
@@ -168083,6 +168125,11 @@
   }
  ],
  "C38_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "C38",
+   "model": "C 38"
+  },
   {
    "brand": "Oukitel",
    "device": "C38",
@@ -185760,6 +185807,11 @@
   }
  ],
  "Redmi Note 13 Pro 5G": [
+  {
+   "brand": "Redmi",
+   "device": "XIG05",
+   "model": "XIG05"
+  },
   {
    "brand": "Redmi",
    "device": "garnet",
@@ -209699,6 +209751,16 @@
    "brand": "Sharp",
    "device": "SX4",
    "model": "A402SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SX4",
+   "model": "SH-M27"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SX4",
+   "model": "SM0L4"
   }
  ],
  "AQUOS zero": [
@@ -237049,6 +237111,13 @@
    "brand": "Telenor",
    "device": "Telenor_Smart_4G",
    "model": "Telenor_Smart_4G"
+  }
+ ],
+ "Stream Dongle": [
+  {
+   "brand": "Telenor",
+   "device": "DV6113Z-KST",
+   "model": "Streaming Dongle"
   }
  ],
  "Telenor Mediahubb": [
@@ -269208,6 +269277,13 @@
    "model": "Z2357N"
   }
  ],
+ "ZTE Blade A75 5G S": [
+  {
+   "brand": "ZTE",
+   "device": "P720F09",
+   "model": "Z2357N"
+  }
+ ],
  "ZTE Blade A7s": [
   {
    "brand": "ZTE",
@@ -269847,6 +269923,13 @@
   {
    "brand": "ZTE",
    "device": "Z8888S",
+   "model": "NX724J"
+  }
+ ],
+ "nubia Flip 5G S": [
+  {
+   "brand": "ZTE",
+   "device": "P745F01",
    "model": "NX724J"
   }
  ],

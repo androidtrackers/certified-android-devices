@@ -20636,6 +20636,11 @@
    "model": "G73L"
   },
   {
+   "device": "G1030",
+   "name": "G74",
+   "model": "G74"
+  },
+  {
    "device": "G0160LL",
    "name": "G8",
    "model": "G8"
@@ -33467,6 +33472,16 @@
    "device": "Q10A",
    "name": "Memor 20",
    "model": "Memor 20"
+  },
+  {
+   "device": "nebula_pda",
+   "name": "Memor 30/30X",
+   "model": "Memor 30/30X"
+  },
+  {
+   "device": "nebula_pda",
+   "name": "Memor 35/35X",
+   "model": "Memor 35/35X"
   },
   {
    "device": "memor_k",
@@ -125375,6 +125390,11 @@
    "model": "CPH2603"
   },
   {
+   "device": "OP5AF1L1",
+   "name": "F27 5G",
+   "model": "CPH2637"
+  },
+  {
    "device": "CPH1819",
    "name": "F7",
    "model": "CPH1819"
@@ -126880,6 +126900,16 @@
    "model": "CPH2625"
   },
   {
+   "device": "OP5AF2L1",
+   "name": "Reno12 F 5G",
+   "model": "CPH2637"
+  },
+  {
+   "device": "OP5AF2L1",
+   "name": "Reno12 F/FS 5G",
+   "model": "CPH2637"
+  },
+  {
    "device": "OP5A2BL1",
    "name": "Reno12 Pro",
    "model": "PJW110"
@@ -127959,6 +127989,11 @@
    "device": "C37",
    "name": "C37_EEA",
    "model": "C37"
+  },
+  {
+   "device": "C38",
+   "name": "C38_EEA",
+   "model": "C 38"
   },
   {
    "device": "C38",
@@ -142394,6 +142429,11 @@
    "device": "emerald",
    "name": "Redmi Note 13 Pro",
    "model": "23117RA68G"
+  },
+  {
+   "device": "XIG05",
+   "name": "Redmi Note 13 Pro 5G",
+   "model": "XIG05"
   },
   {
    "device": "garnet",
@@ -163952,6 +163992,16 @@
    "device": "SX4",
    "name": "AQUOS wish4",
    "model": "A402SH"
+  },
+  {
+   "device": "SX4",
+   "name": "AQUOS wish4",
+   "model": "SH-M27"
+  },
+  {
+   "device": "SX4",
+   "name": "AQUOS wish4",
+   "model": "SM0L4"
   },
   {
    "device": "SG801SH",
@@ -187960,6 +188010,11 @@
    "device": "Telenor_Smart_4G",
    "name": "Smart4G",
    "model": "Telenor_Smart_4G"
+  },
+  {
+   "device": "DV6113Z-KST",
+   "name": "Stream Dongle",
+   "model": "Streaming Dongle"
   },
   {
    "device": "vip5702w_tn",
@@ -216399,6 +216454,11 @@
    "model": "Z2357N"
   },
   {
+   "device": "P720F09",
+   "name": "ZTE Blade A75 5G S",
+   "model": "Z2357N"
+  },
+  {
    "device": "P662F02",
    "name": "ZTE Blade A7s",
    "model": "ZTE Blade A7s"
@@ -216876,6 +216936,11 @@
   {
    "device": "Z8888S",
    "name": "nubia Flip 5G",
+   "model": "NX724J"
+  },
+  {
+   "device": "P745F01",
+   "name": "nubia Flip 5G S",
    "model": "NX724J"
   },
   {
