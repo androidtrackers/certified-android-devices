@@ -854,6 +854,11 @@
    "model": "AGM_PAD_P1"
   },
   {
+   "device": "AGM_PAD_T1",
+   "name": "AGM_PAD_T1",
+   "model": "AGM_PAD_T1"
+  },
+  {
    "device": "Android_Rugged",
    "name": "Android_Rugged",
    "model": "Android_Rugged"
@@ -1278,6 +1283,11 @@
   },
   {
    "device": "Marshall-8",
+   "name": "Marshall-8",
+   "model": "Marshall-8"
+  },
+  {
+   "device": "Marshall-8-Plus",
    "name": "Marshall-8",
    "model": "Marshall-8"
   }
@@ -2677,6 +2687,11 @@
    "model": "Acer_one_8_T2"
   },
   {
+   "device": "anglelake",
+   "name": "Acerpure",
+   "model": "DAC41F"
+  },
+  {
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3515,6 +3530,11 @@
    "device": "Z2",
    "name": "Z120",
    "model": "Z120"
+  },
+  {
+   "device": "waiawa",
+   "name": "acerpure",
+   "model": "DAC51U"
   }
  ],
  "Aceson": [
@@ -3692,6 +3712,16 @@
    "device": "sunnyvale",
    "name": "ADMIRAL TV",
    "model": "ADMIRAL TV"
+  },
+  {
+   "device": "anglelake",
+   "name": "Admiral",
+   "model": "ADS41F"
+  },
+  {
+   "device": "waiawa",
+   "name": "Admiral",
+   "model": "ADS51U"
   },
   {
    "device": "C7",
@@ -18950,6 +18980,11 @@
    "device": "Tab_9_WiFi",
    "name": "Tab 9 WiFi",
    "model": "Tab 9 WiFi"
+  },
+  {
+   "device": "Tab_90",
+   "name": "Tab 90",
+   "model": "Tab 90"
   },
   {
    "device": "Tab_10",
@@ -36719,6 +36754,11 @@
    "device": "P3G",
    "name": "T30E",
    "model": "T30E"
+  },
+  {
+   "device": "P3GS",
+   "name": "T30E Pro",
+   "model": "T30E Pro"
   },
   {
    "device": "P3Pro",
@@ -75167,6 +75207,11 @@
    "model": "Infinix X6850B"
   },
   {
+   "device": "Infinix-X6838",
+   "name": "Infinix NOTE 40X 5G",
+   "model": "Infinix X6838"
+  },
+  {
    "device": "Infinix-X604_sprout",
    "name": "Infinix NOTE 5",
    "model": "Infinix X604"
@@ -75875,6 +75920,16 @@
    "device": "INFINIX-X600-H533-5M",
    "name": "X600",
    "model": "Infinix-X600-LTE"
+  },
+  {
+   "device": "Infinix-X1101",
+   "name": "XPAD",
+   "model": "Infinix X1101"
+  },
+  {
+   "device": "Infinix-X1101B",
+   "name": "XPAD",
+   "model": "Infinix X1101B"
   },
   {
    "device": "Infinix-X6731",
@@ -79488,9 +79543,19 @@
    "model": "itel A507LX"
   },
   {
+   "device": "itel-A507LXU",
+   "name": "itel V52A",
+   "model": "itel A507LXU"
+  },
+  {
    "device": "itel-A507LV",
    "name": "itel V52LTE",
    "model": "itel A507LV"
+  },
+  {
+   "device": "itel-A507LVU",
+   "name": "itel V53",
+   "model": "itel A507LVU"
   },
   {
    "device": "itel-S662LCN",
@@ -110825,7 +110890,7 @@
   },
   {
    "device": "dace",
-   "name": "TicWatch Pro 5",
+   "name": "TicWatch Pro 5;TicWatch Pro 5 Enduro",
    "model": "TicWatch Pro 5"
   },
   {
@@ -114212,6 +114277,16 @@
    "device": "cancunf",
    "name": "moto g64 5G",
    "model": "moto g64 5G"
+  },
+  {
+   "device": "cancunf",
+   "name": "moto g64y 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "device": "cancunf",
+   "name": "moto g64y 5G",
+   "model": "moto g64y 5G"
   },
   {
    "device": "corfur",
@@ -137544,6 +137619,11 @@
   {
    "device": "M10_C04_EEA",
    "name": "M10_C04_EEA",
+   "model": "M10"
+  },
+  {
+   "device": "M10_C05",
+   "name": "M10_C05",
    "model": "M10"
   },
   {
@@ -193520,6 +193600,11 @@
    "model": "L10_T08"
   },
   {
+   "device": "L10_T08_EEA",
+   "name": "L10_T08_EEA",
+   "model": "L10_T08"
+  },
+  {
    "device": "L10_T10",
    "name": "L10_T10",
    "model": "L10_T10"
@@ -193683,6 +193768,11 @@
    "device": "VILLAON-V30",
    "name": "VILLAON V30",
    "model": "VILLAON V30"
+  },
+  {
+   "device": "VILLAON_V20_SE",
+   "name": "VILLAON_V20_S",
+   "model": "VILLAON V501W"
   }
  ],
  "VIMOQ": [

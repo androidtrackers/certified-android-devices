@@ -3230,6 +3230,13 @@
    "model": "AGM_PAD_P1"
   }
  ],
+ "AGM_PAD_T1": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM_PAD_T1",
+   "model": "AGM_PAD_T1"
+  }
+ ],
  "Android_Rugged": [
   {
    "brand": "AGM Mobile",
@@ -6031,6 +6038,13 @@
   }
  ],
  "Marshall-8": [
+  {
+   "brand": "ARATEK",
+   "name": "Marshall-8",
+   "model": "Marshall-8"
+  }
+ ],
+ "Marshall-8-Plus": [
   {
    "brand": "ARATEK",
    "name": "Marshall-8",
@@ -9380,6 +9394,16 @@
    "model": "DIX41RKF"
   },
   {
+   "brand": "Acer",
+   "name": "Acerpure",
+   "model": "DAC41F"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "Admiral",
+   "model": "ADS41F"
+  },
+  {
    "brand": "Gangnam",
    "name": "GANGNAM",
    "model": "GNG41RF"
@@ -9390,6 +9414,16 @@
    "brand": "Acer",
    "name": "Acer",
    "model": "DIX51R4KU"
+  },
+  {
+   "brand": "Acer",
+   "name": "acerpure",
+   "model": "DAC51U"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "Admiral",
+   "model": "ADS51U"
   },
   {
    "brand": "Gangnam",
@@ -35274,6 +35308,13 @@
    "model": "Tab 9 WiFi"
   }
  ],
+ "Tab_90": [
+  {
+   "brand": "Blackview",
+   "name": "Tab 90",
+   "model": "Tab 90"
+  }
+ ],
  "Tab11SE_EEA": [
   {
    "brand": "Blackview",
@@ -60110,6 +60151,13 @@
    "brand": "Doogee",
    "name": "T30E",
    "model": "T30E"
+  }
+ ],
+ "P3GS": [
+  {
+   "brand": "Doogee",
+   "name": "T30E Pro",
+   "model": "T30E Pro"
   }
  ],
  "P3Pro": [
@@ -105957,6 +106005,13 @@
    "model": "Infinix X6850B"
   }
  ],
+ "Infinix-X6838": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 40X 5G",
+   "model": "Infinix X6838"
+  }
+ ],
  "Infinix-X604_sprout": [
   {
    "brand": "Infinix",
@@ -106846,6 +106901,20 @@
    "brand": "Infinix",
    "name": "X600",
    "model": "Infinix-X600-LTE"
+  }
+ ],
+ "Infinix-X1101": [
+  {
+   "brand": "Infinix",
+   "name": "XPAD",
+   "model": "Infinix X1101"
+  }
+ ],
+ "Infinix-X1101B": [
+  {
+   "brand": "Infinix",
+   "name": "XPAD",
+   "model": "Infinix X1101B"
   }
  ],
  "Infinix-X6731": [
@@ -111483,6 +111552,20 @@
    "brand": "Itel",
    "name": "itel V52LTE",
    "model": "itel A507LV"
+  }
+ ],
+ "itel-A507LXU": [
+  {
+   "brand": "Itel",
+   "name": "itel V52A",
+   "model": "itel A507LXU"
+  }
+ ],
+ "itel-A507LVU": [
+  {
+   "brand": "Itel",
+   "name": "itel V53",
+   "model": "itel A507LVU"
   }
  ],
  "itel-S662LCN": [
@@ -148600,7 +148683,7 @@
  "dace": [
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 5",
+   "name": "TicWatch Pro 5;TicWatch Pro 5 Enduro",
    "model": "TicWatch Pro 5"
   }
  ],
@@ -152549,6 +152632,16 @@
    "brand": "Motorola",
    "name": "moto g64 5G",
    "model": "moto g64 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g64y 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g64y 5G",
+   "model": "moto g64y 5G"
   }
  ],
  "rhodec": [
@@ -180330,6 +180423,13 @@
   {
    "brand": "Pritom",
    "name": "M10_C04_EEA",
+   "model": "M10"
+  }
+ ],
+ "M10_C05": [
+  {
+   "brand": "Pritom",
+   "name": "M10_C05",
    "model": "M10"
   }
  ],
@@ -245109,6 +245209,13 @@
    "model": "L10_T08"
   }
  ],
+ "L10_T08_EEA": [
+  {
+   "brand": "VASOUN",
+   "name": "L10_T08_EEA",
+   "model": "L10_T08"
+  }
+ ],
  "L10_T10": [
   {
    "brand": "VASOUN",
@@ -245263,6 +245370,11 @@
   {
    "brand": "VILLAON",
    "name": "V20 SE",
+   "model": "VILLAON V501W"
+  },
+  {
+   "brand": "VILLAON",
+   "name": "VILLAON_V20_S",
    "model": "VILLAON V501W"
   }
  ],

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-03
+Last sync is 2024-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -164,6 +164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_H6|AGM_H6|AGM_H6|
 |AGM Mobile|AGM_Note_N1|AGM_Note_N1|AGM_Note_N1|
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
+|AGM Mobile|AGM_PAD_T1|AGM_PAD_T1|AGM_PAD_T1|
 |AGM Mobile|Android_Rugged|Android_Rugged|Android_Rugged|
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
 |AG_Neovo|MeetBoard_4|MeetBoard_4|MeetBoard_4|
@@ -238,6 +239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARATEK|BM5500|BM5500|BM5500|
 |ARATEK|Marshall-5|Marshall-5|Marshall-5|
 |ARATEK|Marshall-8|Marshall-8|Marshall-8|
+|ARATEK|Marshall-8|Marshall-8-Plus|Marshall-8|
 |ARBOR|G47|G47|G47|
 |ARBOR|GT78-VN|GT78-VN|GT78-VN|
 |ARBOR|HT10|HT10|HT10|
@@ -497,6 +499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer_A61L|Acer_A61L|A61L|
 |Acer|Acer_One_10_T9-1212L|Acer_One_10_T9-1212L|Acer_One_10_T9-1212L|
 |Acer|Acer_one_8_T2|Acer_one_8_T2|Acer_one_8_T2|
+|Acer|Acerpure|anglelake|DAC41F|
 |Acer|Android TV|R1|ATV R1|
 |Acer|Android TV|R2|ATV R2|
 |Acer|Aspire A3|aa3-600|AA3-600|
@@ -665,6 +668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Walle|Walle|ET-108-11AR|
 |Acer|Z110|Z1|Z110|
 |Acer|Z120|Z2|Z120|
+|Acer|acerpure|waiawa|DAC51U|
 |Aceson|R726|R726|R726|
 |Acet|X63L|X63L|X63L|
 |Achate|Kids Tab 1|KidsTab1_EEA|Kids Tab 1|
@@ -698,6 +702,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Admiral Overseas Corporation|ADMIRAL|zhongshan|4K SMART TV|
 |Admiral Overseas Corporation|ADMIRAL 4K TV|SW4H|ADMIRAL 4K TV|
 |Admiral Overseas Corporation|ADMIRAL TV|sunnyvale|ADMIRAL TV|
+|Admiral Overseas Corporation|Admiral|anglelake|ADS41F|
+|Admiral Overseas Corporation|Admiral|waiawa|ADS51U|
 |Admiral Overseas Corporation|C7|C7|C7|
 |Admiral Overseas Corporation|Fire|Fire|Fire|
 |Admiral Overseas Corporation|O7|O7|O7|
@@ -3666,6 +3672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab 80|Tab80_RU|Tab 80|
 |Blackview|Tab 80 Kids|Tab_80_Kids|Tab 80 Kids|
 |Blackview|Tab 9 WiFi|Tab_9_WiFi|Tab 9 WiFi|
+|Blackview|Tab 90|Tab_90|Tab 90|
 |Blackview|Tab10|Tab_10|Tab 10|
 |Blackview|Tab11SE_EEA|Tab11SE_EEA|Tab 11 SE|
 |Blackview|Tab11SE_NEU|Tab11SE_NEU|Tab 11 SE|
@@ -7093,6 +7100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T30 Mini Pro|P3MiniT|T30 Mini Pro|
 |Doogee|T30 SE|P3C|T30 SE|
 |Doogee|T30E|P3G|T30E|
+|Doogee|T30E Pro|P3GS|T30E Pro|
 |Doogee|T30Pro|P3Pro|T30Pro|
 |Doogee|T30S|P3D|T30S|
 |Doogee|T30S|P3D_2|T30S|
@@ -14575,6 +14583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 40 Pro|Infinix-X6850|Infinix X6850|
 |Infinix|Infinix NOTE 40 Pro 5G|Infinix-X6851|Infinix X6851|
 |Infinix|Infinix NOTE 40S|Infinix-X6850B|Infinix X6850B|
+|Infinix|Infinix NOTE 40X 5G|Infinix-X6838|Infinix X6838|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -14717,6 +14726,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|X600|INFINIX-X600-5M|INFINIX-X600|
 |Infinix|X600|INFINIX-X600-5M|Infinix-X600|
 |Infinix|X600|INFINIX-X600-H533-5M|Infinix-X600-LTE|
+|Infinix|XPAD|Infinix-X1101|Infinix X1101|
+|Infinix|XPAD|Infinix-X1101B|Infinix X1101B|
 |Infinix|ZERO 30 5G|Infinix-X6731|Infinix X6731|
 |Infinix|ZERO 5G|Infinix-X6815|Infinix X6815|
 |Infinix|ZERO 5G 2023|Infinix-X6815C|Infinix X6815C|
@@ -15428,7 +15439,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel V51 LTE|itel-L5007S|itel L5007S|
 |Itel|itel V52 lite|itel-A507LV|itel A507LV|
 |Itel|itel V52A|itel-A507LX|itel A507LX|
+|Itel|itel V52A|itel-A507LXU|itel A507LXU|
 |Itel|itel V52LTE|itel-A507LV|itel A507LV|
+|Itel|itel V53|itel-A507LVU|itel A507LVU|
 |Itel|itel VISION 5 Plus|itel-S662LCN|itel S662LCN|
 |Itel|itel Vision 3|itel-S661L|itel S661L|
 |Itel|itel Vision 3|itel-S661LN|itel S661LN|
@@ -21538,7 +21551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3 Ultra GPS|
 |Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
-|Mobvoi|TicWatch Pro 5|dace|TicWatch Pro 5|
+|Mobvoi|TicWatch Pro 5;TicWatch Pro 5 Enduro|dace|TicWatch Pro 5|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
@@ -22208,6 +22221,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g62 5G|rhodei|moto g71 5G|
 |Motorola|moto g64 5G|cancunf|moto g54 5G|
 |Motorola|moto g64 5G|cancunf|moto g64 5G|
+|Motorola|moto g64y 5G|cancunf|moto g54 5G|
+|Motorola|moto g64y 5G|cancunf|moto g64y 5G|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto g72|vicky|moto g(50) 5G|
@@ -26743,6 +26758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C03_EEA|M10_C03_EEA|M10_C03_EEA|
 |Pritom|M10_C04|M10_C04|M10|
 |Pritom|M10_C04_EEA|M10_C04_EEA|M10|
+|Pritom|M10_C05|M10_C05|M10|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
 |Pritom|M10_Max|M10_Max|M10_Max|
 |Pritom|M10_Max_EEA|M10_Max_EEA|M10_Max_EEA|
@@ -37682,6 +37698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|L10_T06|L10_T06|L10_T06|
 |VASOUN|L10_T06_EEA|L10_T06_EEA|L10_T06_EEA|
 |VASOUN|L10_T08|L10_T08|L10_T08|
+|VASOUN|L10_T08_EEA|L10_T08_EEA|L10_T08|
 |VASOUN|L10_T10|L10_T10|L10_T10|
 |VASOUN|M7|M7|M7|
 |VASOUN|M7_EEA|M7_EEA|M7_EEA|
@@ -37711,6 +37728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|V30 RS|VILLAON-V30-RS|VILLAON V6751L|
 |VILLAON|VILLAON V30|V30|VILLAON V30|
 |VILLAON|VILLAON V30|VILLAON-V30|VILLAON V30|
+|VILLAON|VILLAON_V20_S|VILLAON_V20_SE|VILLAON V501W|
 |VIMOQ|A18|VIMOQ-A512WS|VIMOQ A512WS|
 |VIMOQ|A662LS|VIMOQ-A662LS|VIMOQ A662LS|
 |VIMOQ|SE668S|VIMOQ-P662LO|VIMOQ P662LO|
