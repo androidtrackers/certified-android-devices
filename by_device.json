@@ -13676,6 +13676,11 @@
   {
    "brand": "Blaupunkt",
    "name": "BLAUPUNKT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
    "model": "BLAUPUNKT 4K TV"
   },
   {
@@ -13840,6 +13845,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "VIOTTO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "WYBOR",
    "model": "4K SMART TV"
   },
@@ -13852,6 +13862,11 @@
    "brand": "Kenwood",
    "name": "Kenwood",
    "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "model": "4K SMART TV"
   },
   {
    "brand": "MAG",
@@ -78415,6 +78430,13 @@
    "brand": "HIKVISION",
    "name": "DS-D5C",
    "model": "DS_D5C65RB_A"
+  }
+ ],
+ "DS-MDT202": [
+  {
+   "brand": "HIKVISION",
+   "name": "DS-MDT202",
+   "model": "DS-MDT202"
   }
  ],
  "DS-MDT301": [
@@ -163627,6 +163649,13 @@
    "model": "PHP110"
   }
  ],
+ "OP5D77L1": [
+  {
+   "brand": "OnePlus",
+   "name": "一加平板Pro",
+   "model": "OPD2404"
+  }
+ ],
  "OneScreen-OPS-LF": [
   {
    "brand": "OneScreen",
@@ -165657,13 +165686,6 @@
    "brand": "Oppo",
    "name": "Reno11 F 5G/Reno11 A",
    "model": "CPH2603"
-  }
- ],
- "OP5AF1L1": [
-  {
-   "brand": "Oppo",
-   "name": "F27 5G",
-   "model": "CPH2637"
   }
  ],
  "CPH1819": [
@@ -211098,6 +211120,20 @@
    "brand": "Sharp",
    "name": "AQUOS R8 pro",
    "model": "SH-51D"
+  }
+ ],
+ "Orga": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R9",
+   "model": "A401SH"
+  }
+ ],
+ "SH-51E": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R9",
+   "model": "SH-51E"
   }
  ],
  "SHL25": [

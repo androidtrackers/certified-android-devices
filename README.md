@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-04
+Last sync is 2024-07-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3745,6 +3745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BLAUPUNKT|hongkong|4K SMART TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT GOOGLE TV 4K|
+|Blaupunkt|BLAUPUNKT|lavender|4K SMART TV|
 |Blaupunkt|BLAUPUNKT|lavender|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|mountbaker|BLAUPUNKT 2K TV|
 |Blaupunkt|BLAUPUNKT|stanford|CSV2K|
@@ -9849,6 +9850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
 |HIKVISION|DS-D5C|DS_D5C65RB_A|DS_D5C65RB_A|
+|HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
@@ -16038,6 +16040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
+|KTCtv|VIOTTO|lavender|4K SMART TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|VON|stanford|2K SMART TV|
@@ -16296,6 +16299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kioto|MID1028|MID1028|MID1028|
 |Kioto|MID1036|MID1036|MID1036|
 |Kiowa|A5_CRISTAL|A5_CRISTAL|A5_CRISTAL|
+|Kiowa|KIOWA|lavender|4K SMART TV|
 |Kiowa|KIOWA|mountbaker|2K SMART TV|
 |Kiowa|KIOWA|stanford|2K SMART TV|
 |Kiowa|KIOWA|zhongshan|4K SMART TV|
@@ -24052,6 +24056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|PHP110|OP5927|PHP110|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
+|OnePlus|一加平板Pro|OP5D77L1|OPD2404|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |OneScreen|OneScreen T7|rk3588_t|T7|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
@@ -24379,7 +24384,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F1w|F1f|F1f|
 |Oppo|F1w|F1f|F1w|
 |Oppo|F25 Pro 5G|OP5A0BL1|CPH2603|
-|Oppo|F27 5G|OP5AF1L1|CPH2637|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
 |Oppo|F9|CPH1823|CPH1823|
@@ -31854,6 +31858,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R8 pro|Kamille|A301SH|
 |Sharp|AQUOS R8 pro|Kamille|SH-R80P|
 |Sharp|AQUOS R8 pro|SH-51D|SH-51D|
+|Sharp|AQUOS R9|Orga|A401SH|
+|Sharp|AQUOS R9|SH-51E|SH-51E|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|

@@ -3002,6 +3002,11 @@
    "device": "hongkong"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "lavender"
+  },
+  {
    "brand": "Challenger",
    "name": "CHALLENGER",
    "device": "lavender"
@@ -3273,6 +3278,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "VIOTTO",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
    "name": "VISTA",
    "device": "zhongshan"
   },
@@ -3305,6 +3315,11 @@
    "brand": "KTCtv",
    "name": "YARA",
    "device": "hongkong"
+  },
+  {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "device": "lavender"
   },
   {
    "brand": "Kiowa",
@@ -73953,6 +73968,13 @@
    "brand": "HIKVISION",
    "name": "DS-D5C",
    "device": "DS_D5C65RB_A"
+  }
+ ],
+ "DS-MDT202": [
+  {
+   "brand": "HIKVISION",
+   "name": "DS-MDT202",
+   "device": "DS-MDT202"
   }
  ],
  "DS-MDT301": [
@@ -165561,6 +165583,13 @@
    "device": "shibuya"
   }
  ],
+ "OPD2404": [
+  {
+   "brand": "OnePlus",
+   "name": "一加平板Pro",
+   "device": "OP5D77L1"
+  }
+ ],
  "OneScreen-OPS-LFA": [
   {
    "brand": "OneScreen",
@@ -167844,23 +167873,6 @@
    "device": "OP5A0BL1"
   }
  ],
- "CPH2637": [
-  {
-   "brand": "Oppo",
-   "name": "F27 5G",
-   "device": "OP5AF1L1"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno12 F 5G",
-   "device": "OP5AF2L1"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno12 F/FS 5G",
-   "device": "OP5AF2L1"
-  }
- ],
  "CPH1819": [
   {
    "brand": "Oppo",
@@ -169858,6 +169870,18 @@
    "brand": "Oppo",
    "name": "Reno12 5G",
    "device": "OP5ADDL1"
+  }
+ ],
+ "CPH2637": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12 F 5G",
+   "device": "OP5AF2L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno12 F/FS 5G",
+   "device": "OP5AF2L1"
   }
  ],
  "PJW110": [
@@ -217021,6 +217045,20 @@
    "brand": "Sharp",
    "name": "AQUOS R8 pro",
    "device": "SH-51D"
+  }
+ ],
+ "A401SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R9",
+   "device": "Orga"
+  }
+ ],
+ "SH-51E": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R9",
+   "device": "SH-51E"
   }
  ],
  "SHL25": [

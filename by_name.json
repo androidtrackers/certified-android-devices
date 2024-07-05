@@ -35778,6 +35778,11 @@
   {
    "brand": "Blaupunkt",
    "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "lavender",
    "model": "BLAUPUNKT 4K TV"
   },
   {
@@ -80077,6 +80082,13 @@
    "model": "DS_D5C65RB_A"
   }
  ],
+ "DS-MDT202": [
+  {
+   "brand": "HIKVISION",
+   "device": "DS-MDT202",
+   "model": "DS-MDT202"
+  }
+ ],
  "DS-MDT301": [
   {
    "brand": "HIKVISION",
@@ -115838,6 +115850,13 @@
    "model": "2K SMART TV"
   }
  ],
+ "VIOTTO": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  }
+ ],
  "VISTA": [
   {
    "brand": "KTCtv",
@@ -117569,6 +117588,11 @@
   }
  ],
  "KIOWA": [
+  {
+   "brand": "Kiowa",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
   {
    "brand": "Kiowa",
    "device": "mountbaker",
@@ -162987,6 +163011,13 @@
    "model": "Y Series"
   }
  ],
+ "一加平板Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5D77L1",
+   "model": "OPD2404"
+  }
+ ],
  "OPS LF with Android": [
   {
    "brand": "OneScreen",
@@ -164914,13 +164945,6 @@
    "brand": "Oppo",
    "device": "OP5A0BL1",
    "model": "CPH2603"
-  }
- ],
- "F27 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP5AF1L1",
-   "model": "CPH2637"
   }
  ],
  "F7": [
@@ -209255,6 +209279,18 @@
    "brand": "Sharp",
    "device": "SH-51D",
    "model": "SH-51D"
+  }
+ ],
+ "AQUOS R9": [
+  {
+   "brand": "Sharp",
+   "device": "Orga",
+   "model": "A401SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SH-51E",
+   "model": "SH-51E"
   }
  ],
  "AQUOS SERIE SHL25": [

@@ -19351,6 +19351,11 @@
   {
    "device": "lavender",
    "name": "BLAUPUNKT",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "BLAUPUNKT",
    "model": "BLAUPUNKT 4K TV"
   },
   {
@@ -51217,6 +51222,11 @@
    "model": "DS_D5C65RB_A"
   },
   {
+   "device": "DS-MDT202",
+   "name": "DS-MDT202",
+   "model": "DS-MDT202"
+  },
+  {
    "device": "DS-MDT301",
    "name": "DS-MDT301",
    "model": "DS-MDT301"
@@ -82692,6 +82702,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "lavender",
+   "name": "VIOTTO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "VISTA",
    "model": "2K SMART TV"
@@ -84064,6 +84079,11 @@
    "device": "A5_CRISTAL",
    "name": "A5_CRISTAL",
    "model": "A5_CRISTAL"
+  },
+  {
+   "device": "lavender",
+   "name": "KIOWA",
+   "model": "4K SMART TV"
   },
   {
    "device": "mountbaker",
@@ -123808,6 +123828,11 @@
    "device": "shibuya",
    "name": "Y Series",
    "model": "Y Series"
+  },
+  {
+   "device": "OP5D77L1",
+   "name": "一加平板Pro",
+   "model": "OPD2404"
   }
  ],
  "OneScreen": [
@@ -125463,11 +125488,6 @@
    "device": "OP5A0BL1",
    "name": "F25 Pro 5G",
    "model": "CPH2603"
-  },
-  {
-   "device": "OP5AF1L1",
-   "name": "F27 5G",
-   "model": "CPH2637"
   },
   {
    "device": "CPH1819",
@@ -163602,6 +163622,16 @@
    "device": "SH-51D",
    "name": "AQUOS R8 pro",
    "model": "SH-51D"
+  },
+  {
+   "device": "Orga",
+   "name": "AQUOS R9",
+   "model": "A401SH"
+  },
+  {
+   "device": "SH-51E",
+   "name": "AQUOS R9",
+   "model": "SH-51E"
   },
   {
    "device": "SHL25",
