@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-05
+Last sync is 2024-07-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -164,6 +164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_H6|AGM_H6|AGM_H6|
 |AGM Mobile|AGM_Note_N1|AGM_Note_N1|AGM_Note_N1|
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
+|AGM Mobile|AGM_PAD_P2|AGM_PAD_P2|AGM_PAD_P2|
 |AGM Mobile|AGM_PAD_T1|AGM_PAD_T1|AGM_PAD_T1|
 |AGM Mobile|Android_Rugged|Android_Rugged|Android_Rugged|
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
@@ -22336,6 +22337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 40 ultra|
 |Motorola|motorola razr 40s|lynkco|motorola razr 40s|
+|Motorola|motorola razr 50|aito|XT2453-2|
 |Motorola|motorola razr 50|aito|motorola razr 40|
 |Motorola|motorola razr 50|aito|motorola razr 50|
 |Motorola|motorola razr 50 ultra|arcfox|motorola razr 40 ultra|
@@ -23767,6 +23769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
 |ONERugged|M195T|M195T|M195T|
+|ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
@@ -24823,6 +24826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Rise_54|Rise_54|Orange Rise 54|
 |Orange|Rise_54|Rise_54|Orange Rise 54 EEA|
 |Orange|Roya|Alto45|Orange Roya|
+|Orange|Sanza plus|Sanza_plus|Orange Sanza plus|
 |Orange|Sanza_touch|Sanza_touch|Orange Sanza touch|
 |Orange|Sego|Orange_Sego|Orange Sego|
 |Orange|TV Box|zc4455v_orb|Orange TV Box|

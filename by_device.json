@@ -3230,6 +3230,13 @@
    "model": "AGM_PAD_P1"
   }
  ],
+ "AGM_PAD_P2": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM_PAD_P2",
+   "model": "AGM_PAD_P2"
+  }
+ ],
  "AGM_PAD_T1": [
   {
    "brand": "AGM Mobile",
@@ -153240,6 +153247,11 @@
   {
    "brand": "Motorola",
    "name": "motorola razr 50",
+   "model": "XT2453-2"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 50",
    "model": "motorola razr 40"
   },
   {
@@ -162072,6 +162084,13 @@
    "model": "M195T"
   }
  ],
+ "M86X": [
+  {
+   "brand": "ONERugged",
+   "name": "M86X",
+   "model": "M86X"
+  }
+ ],
  "M86XE": [
   {
    "brand": "ONERugged",
@@ -168521,6 +168540,13 @@
    "brand": "Orange",
    "name": "Rise_54",
    "model": "Orange Rise 54 EEA"
+  }
+ ],
+ "Sanza_plus": [
+  {
+   "brand": "Orange",
+   "name": "Sanza plus",
+   "model": "Orange Sanza plus"
   }
  ],
  "Sanza_touch": [

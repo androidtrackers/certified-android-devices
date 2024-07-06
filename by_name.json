@@ -7279,6 +7279,13 @@
    "model": "AGM_PAD_P1"
   }
  ],
+ "AGM_PAD_P2": [
+  {
+   "brand": "AGM Mobile",
+   "device": "AGM_PAD_P2",
+   "model": "AGM_PAD_P2"
+  }
+ ],
  "AGM_PAD_T1": [
   {
    "brand": "AGM Mobile",
@@ -152716,6 +152723,11 @@
   {
    "brand": "Motorola",
    "device": "aito",
+   "model": "XT2453-2"
+  },
+  {
+   "brand": "Motorola",
+   "device": "aito",
    "model": "motorola razr 40"
   },
   {
@@ -161443,6 +161455,13 @@
    "model": "M195T"
   }
  ],
+ "M86X": [
+  {
+   "brand": "ONERugged",
+   "device": "M86X",
+   "model": "M86X"
+  }
+ ],
  "M86XE": [
   {
    "brand": "ONERugged",
@@ -167773,6 +167792,13 @@
    "brand": "Orange",
    "device": "Alto45",
    "model": "Orange Roya"
+  }
+ ],
+ "Sanza plus": [
+  {
+   "brand": "Orange",
+   "device": "Sanza_plus",
+   "model": "Orange Sanza plus"
   }
  ],
  "Sanza_touch": [

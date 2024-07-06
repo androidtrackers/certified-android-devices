@@ -854,6 +854,11 @@
    "model": "AGM_PAD_P1"
   },
   {
+   "device": "AGM_PAD_P2",
+   "name": "AGM_PAD_P2",
+   "model": "AGM_PAD_P2"
+  },
+  {
    "device": "AGM_PAD_T1",
    "name": "AGM_PAD_T1",
    "model": "AGM_PAD_T1"
@@ -114856,6 +114861,11 @@
   {
    "device": "aito",
    "name": "motorola razr 50",
+   "model": "XT2453-2"
+  },
+  {
+   "device": "aito",
+   "name": "motorola razr 50",
    "model": "motorola razr 40"
   },
   {
@@ -122309,6 +122319,11 @@
    "model": "M195T"
   },
   {
+   "device": "M86X",
+   "name": "M86X",
+   "model": "M86X"
+  },
+  {
    "device": "M86XE",
    "name": "M86XE",
    "model": "M86XE"
@@ -127693,6 +127708,11 @@
    "device": "Alto45",
    "name": "Roya",
    "model": "Orange Roya"
+  },
+  {
+   "device": "Sanza_plus",
+   "name": "Sanza plus",
+   "model": "Orange Sanza plus"
   },
   {
    "device": "Sanza_touch",
