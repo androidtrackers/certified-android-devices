@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-07
+Last sync is 2024-07-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25786,6 +25786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S397|Philips_S397|S397|
 |Philips|Philips S561|S561|Philips S561|
 |Philips|Philips S562Z|S562Z|Philips S562Z|
+|Philips|Philips S6206|S6206|S6206|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
 |Philips|Philips SmartTV|freesia|PHILIPS 4k TV|
 |Philips|Philips V787|Philips_Xenium_V787|Philips Xenium V787|

@@ -132668,6 +132668,11 @@
    "model": "Philips S562Z"
   },
   {
+   "device": "S6206",
+   "name": "Philips S6206",
+   "model": "S6206"
+  },
+  {
    "device": "freesia",
    "name": "Philips SmartTV",
    "model": "PHILIPS 4K TV"
