@@ -37913,6 +37913,13 @@
    "model": "G8"
   }
  ],
+ "G1050": [
+  {
+   "brand": "Blu",
+   "name": "G84",
+   "model": "G84"
+  }
+ ],
  "G0130WW": [
   {
    "brand": "Blu",
@@ -41366,6 +41373,13 @@
    "model": "M811"
   }
  ],
+ "Tetris": [
+  {
+   "brand": "CMF by Nothing",
+   "name": "CMF by Nothing Phone 1",
+   "model": "A015"
+  }
+ ],
  "F900BN0101": [
   {
    "brand": "COCOMM",
@@ -42235,6 +42249,20 @@
    "brand": "CWOWDEFU",
    "name": "P20L ROW",
    "model": "P20L"
+  }
+ ],
+ "P25W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "P25W",
+   "model": "P25W"
+  }
+ ],
+ "P25W_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "P25W_EEA",
+   "model": "P25W_EEA"
   }
  ],
  "P80L": [
@@ -154148,6 +154176,13 @@
    "model": "M10_4G_PRO"
   }
  ],
+ "ML_SO5C_M10_4G_T1": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G T1",
+   "model": "M10_4G_T1"
+  }
+ ],
  "ML-WI1C-M10-4G-T3": [
   {
    "brand": "Multilaser",
@@ -156313,6 +156348,13 @@
    "brand": "Myphone",
    "name": "myXI3",
    "model": "myXI3"
+  }
+ ],
+ "MS2303x": [
+  {
+   "brand": "Myphone",
+   "name": "myphone_N23_5G_EEA",
+   "model": "myphone N23 5G"
   }
  ],
  "neocore_E1R1": [
@@ -226794,6 +226836,13 @@
    "model": "9061"
   }
  ],
+ "Optimus_5G_VZW": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10 NXTPAPER 5G",
+   "model": "9199S"
+  }
+ ],
  "Freyr_10_1_WiFi": [
   {
    "brand": "TCL",
@@ -276323,7 +276372,12 @@
  "Crane1": [
   {
    "brand": "iMin",
-   "name": "Crane1-16",
+   "name": "Crane 1",
+   "model": "Crane1-21_27_32"
+  },
+  {
+   "brand": "iMin",
+   "name": "Crane1",
    "model": "Crane1-16"
   }
  ],
@@ -278784,6 +278838,18 @@
    "brand": "realme",
    "name": "真我V50s",
    "model": "RMX3781"
+  }
+ ],
+ "RE5C44": [
+  {
+   "brand": "realme",
+   "name": "真我V60",
+   "model": "RMX3995"
+  },
+  {
+   "brand": "realme",
+   "name": "真我V60s",
+   "model": "RMX3996"
   }
  ],
  "Valuer_V8": [

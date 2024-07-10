@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-09
+Last sync is 2024-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4014,6 +4014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G74|G1030|G74|
 |Blu|G8|G0160LL|G8|
 |Blu|G8|G0170|G8|
+|Blu|G84|G1050|G84|
 |Blu|G9|G0130WW|G9|
 |Blu|G9|G0130WW_SR|G9|
 |Blu|G9 PRO|G0230WW|G9 PRO|
@@ -4537,6 +4538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CLOUD_AiR-WiFi|ATab-1|ATab-1|CAW21T101|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
+|CMF by Nothing|CMF by Nothing Phone 1|Tetris|A015|
 |COCOMM|COCOMM F900B|F900BN0101|F900B|
 |COCOMM|ENOS|ENOS|ENOS|
 |COCOMM|F900|F900N0101|F900|
@@ -4656,6 +4658,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|P15W_EEA|P15W_EEA|P15W_EEA|
 |CWOWDEFU|P20L|P20L|P20L|
 |CWOWDEFU|P20L ROW|P20L|P20L|
+|CWOWDEFU|P25W|P25W|P25W|
+|CWOWDEFU|P25W_EEA|P25W_EEA|P25W_EEA|
 |CWOWDEFU|P80L|P80L|P80L|
 |CWOWDEFU|P81L|P81L|P81L|
 |CWOWDEFU|P83L|P83L|P83L|
@@ -22487,6 +22491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_SO1G_M10_4G_PRO|M10_4G_PRO|
+|Multilaser|M10 4G T1|ML_SO5C_M10_4G_T1|M10_4G_T1|
 |Multilaser|M10 4G T3|ML-WI1C-M10-4G-T3|M10-4G-T3|
 |Multilaser|M10 4G TERE|ML_JI0B_M10_4G_TERE|M10_4G_TERESOPOLIS|
 |Multilaser|M10 4G TERESOPOLIS|ML_SO0G_M10_4G_T|M10_4G_TERESOPOLIS|
@@ -22805,6 +22810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myXI1 Plus|myXI1_Plus|myXI1 Plus|
 |Myphone|myXI1 Pro|myXI1_Pro|myXI1 Pro|
 |Myphone|myXI3|myXI3|myXI3|
+|Myphone|myphone_N23_5G_EEA|MS2303x|myphone N23 5G|
 |Myphone|neocore_E1R1|neocore_E1R1|neocore_E1R1|
 |Myria|3G MY8300|3G_MY8300|3G|
 |Myria|Classic MY8301|Classic_MY8301|Classic|
@@ -34242,6 +34248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10 FHD 4G|Aquaman_10_Pro|9060G|
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X|
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X_EEA|
+|TCL|TCL TAB 10 NXTPAPER 5G|Optimus_5G_VZW|9199S|
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_EEA|
@@ -43068,7 +43075,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMACHINE|iMachine AP12|AP12|AP12|
 |iMACHINE|iMachine i2|i2|i2|
 |iMESH|IM-560|IM-560|IM-560|
-|iMin|Crane1-16|Crane1|Crane1-16|
+|iMin|Crane 1|Crane1|Crane1-21_27_32|
+|iMin|Crane1|Crane1|Crane1-16|
 |iMin|D4 Pro|D4Pro|I23D01|
 |iMin|Falcon 1|I22T01|I22T01|
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
@@ -43525,6 +43533,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V13 5G|RE5081|RMX3043|
 |realme|真我V50|RE5C34|RMX3783|
 |realme|真我V50s|RE5C34|RMX3781|
+|realme|真我V60|RE5C44|RMX3995|
+|realme|真我V60s|RE5C44|RMX3996|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_R10S|R10S|Wizpad Valuer R10S|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
