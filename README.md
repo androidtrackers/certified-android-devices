@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-10
+Last sync is 2024-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3966,6 +3966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G33|G0892_SP|G33|
 |Blu|G33|G0892_SYN|G33|
 |Blu|G33|G0894|G33|
+|Blu|G34|G1070|G34|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
@@ -6985,9 +6986,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|BL7000|BL7000|BL7000|
 |Doogee|DK10|ZN138|DK10|
 |Doogee|F10|F1|F10|
-|Doogee|F10 Pro|F1S|F10 Pro|
 |Doogee|F10S|F1C|Blade10 Pro|
 |Doogee|F10S|F1C|F10S|
+|Doogee|Fire_6_Power|F1S|F10 Pro|
 |Doogee|MIX|t766_dg_n_mix|MIX|
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
 |Doogee|Mix|MIX|MIX|
@@ -14143,6 +14144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |I-Scream|E1012T|ET1012T|ET1012T|
 |I-Scream|i-Screamedu|HL106|HL106|
 |I3-TECHNOLOGIES|GOOGLE EDLA CERTIFIED SLOT-IN OPS|i3COMPUTER-A01-OPS|i3COMPUTER-A01-OPS|
+|I3-TECHNOLOGIES|i3TOUCH-X3|i3TOUCH-X3|i3TOUCH-X3|
 |IAIWAI|A103|A103|A103|
 |ICL-KME CS OJSC|TR10CD1|TR10CD1_7|TR10CD1|
 |ICOM|CTGED01|CTGED01|CTGED01|
@@ -21245,6 +21247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|MobiGo 2+|MobiGo2P|MobiGo2P|
 |MobiIoT|MobiGo 2+|MobiGo2PQV|MobiGo2P|
 |MobiIoT|MobiGo 2+ Pro|MobiGo2PP|MobiGo2PP|
+|MobiIoT|MobiPrint 5|MP5|MP5|
 |MobiIoT|MobiPrint4_Plus|MobiPrint4_Plus|MobiPrint4_Plus|
 |MobiIoT|Mobigo2|MobiGo2|MobiGo2|
 |MobiIoT|Mobigo2L|MobiGo2L|MobiGo2L|
@@ -43337,8 +43340,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
+|realme|RMX3933|RE6054|RMX3933|
 |realme|RMX3939|RE6054|RMX3939|
-|realme|RMX3993|RE6054|RMX3933|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|Smart TV|mateo|2K PA Smart TV|
@@ -43435,7 +43438,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C53|RE58C2|RMX3760|
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
+|realme|realme C61|RE6054|RMX3930|
 |realme|realme C61|RE6054|RMX3939|
+|realme|realme C63|RE6054|RMX3939|
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme GT 2|RE58B2L1|RMX3312|
@@ -43526,6 +43531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT Neo|RMX3031CN|RMX3031|
 |realme|真我GT Neo6|RE5C46L1|RMX3852|
 |realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
+|realme|真我GT6|RE5C4FL1|RMX3800|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|

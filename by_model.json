@@ -32371,6 +32371,13 @@
    "device": "G0894"
   }
  ],
+ "G34": [
+  {
+   "brand": "Blu",
+   "name": "G34",
+   "device": "G1070"
+  }
+ ],
  "G40": [
   {
    "brand": "Blu",
@@ -54001,18 +54008,6 @@
    "device": "F10"
   }
  ],
- "F10 Pro": [
-  {
-   "brand": "Doogee",
-   "name": "F10 Pro",
-   "device": "F1S"
-  },
-  {
-   "brand": "NOA Mobile",
-   "name": "NOA_F10_Pro_EEA",
-   "device": "NOA_F10_Pro"
-  }
- ],
  "Blade10 Pro": [
   {
    "brand": "Doogee",
@@ -54025,6 +54020,18 @@
    "brand": "Doogee",
    "name": "F10S",
    "device": "F1C"
+  }
+ ],
+ "F10 Pro": [
+  {
+   "brand": "Doogee",
+   "name": "Fire_6_Power",
+   "device": "F1S"
+  },
+  {
+   "brand": "NOA Mobile",
+   "name": "NOA_F10_Pro_EEA",
+   "device": "NOA_F10_Pro"
   }
  ],
  "MIX": [
@@ -102202,6 +102209,13 @@
    "device": "i3COMPUTER-A01-OPS"
   }
  ],
+ "i3TOUCH-X3": [
+  {
+   "brand": "I3-TECHNOLOGIES",
+   "name": "i3TOUCH-X3",
+   "device": "i3TOUCH-X3"
+  }
+ ],
  "A103": [
   {
    "brand": "IAIWAI",
@@ -148103,6 +148117,13 @@
    "brand": "MobiIoT",
    "name": "MobiGo 2+ Pro",
    "device": "MobiGo2PP"
+  }
+ ],
+ "MP5": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiPrint 5",
+   "device": "MP5"
   }
  ],
  "MobiPrint4_Plus": [
@@ -289924,6 +289945,13 @@
    "device": "RE5C9F"
   }
  ],
+ "RMX3933": [
+  {
+   "brand": "realme",
+   "name": "RMX3933",
+   "device": "RE6054"
+  }
+ ],
  "RMX3939": [
   {
    "brand": "realme",
@@ -289934,12 +289962,10 @@
    "brand": "realme",
    "name": "realme C61",
    "device": "RE6054"
-  }
- ],
- "RMX3933": [
+  },
   {
    "brand": "realme",
-   "name": "RMX3993",
+   "name": "realme C63",
    "device": "RE6054"
   }
  ],
@@ -290496,6 +290522,13 @@
    "device": "RE58CE"
   }
  ],
+ "RMX3930": [
+  {
+   "brand": "realme",
+   "name": "realme C61",
+   "device": "RE6054"
+  }
+ ],
  "RMX3910": [
   {
    "brand": "realme",
@@ -290999,6 +291032,13 @@
    "brand": "realme",
    "name": "真我GT Neo6 SE",
    "device": "RE5C39L1"
+  }
+ ],
+ "RMX3800": [
+  {
+   "brand": "realme",
+   "name": "真我GT6",
+   "device": "RE5C4FL1"
   }
  ],
  "RMX3462": [

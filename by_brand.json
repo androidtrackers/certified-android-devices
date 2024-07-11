@@ -20456,6 +20456,11 @@
    "model": "G33"
   },
   {
+   "device": "G1070",
+   "name": "G34",
+   "model": "G34"
+  },
+  {
    "device": "G0730WW",
    "name": "G40",
    "model": "G40"
@@ -36183,11 +36188,6 @@
    "model": "F10"
   },
   {
-   "device": "F1S",
-   "name": "F10 Pro",
-   "model": "F10 Pro"
-  },
-  {
    "device": "F1C",
    "name": "F10S",
    "model": "Blade10 Pro"
@@ -36196,6 +36196,11 @@
    "device": "F1C",
    "name": "F10S",
    "model": "F10S"
+  },
+  {
+   "device": "F1S",
+   "name": "Fire_6_Power",
+   "model": "F10 Pro"
   },
   {
    "device": "t766_dg_n_mix",
@@ -72883,6 +72888,11 @@
    "device": "i3COMPUTER-A01-OPS",
    "name": "GOOGLE EDLA CERTIFIED SLOT-IN OPS",
    "model": "i3COMPUTER-A01-OPS"
+  },
+  {
+   "device": "i3TOUCH-X3",
+   "name": "i3TOUCH-X3",
+   "model": "i3TOUCH-X3"
   }
  ],
  "IAIWAI": [
@@ -109333,6 +109343,11 @@
    "device": "MobiGo2PP",
    "name": "MobiGo 2+ Pro",
    "model": "MobiGo2PP"
+  },
+  {
+   "device": "MP5",
+   "name": "MobiPrint 5",
+   "model": "MP5"
   },
   {
    "device": "MobiPrint4_Plus",
@@ -222618,13 +222633,13 @@
   },
   {
    "device": "RE6054",
-   "name": "RMX3939",
-   "model": "RMX3939"
+   "name": "RMX3933",
+   "model": "RMX3933"
   },
   {
    "device": "RE6054",
-   "name": "RMX3993",
-   "model": "RMX3933"
+   "name": "RMX3939",
+   "model": "RMX3939"
   },
   {
    "device": "RE5C9AL1",
@@ -223109,6 +223124,16 @@
   {
    "device": "RE6054",
    "name": "realme C61",
+   "model": "RMX3930"
+  },
+  {
+   "device": "RE6054",
+   "name": "realme C61",
+   "model": "RMX3939"
+  },
+  {
+   "device": "RE6054",
+   "name": "realme C63",
    "model": "RMX3939"
   },
   {
@@ -223560,6 +223585,11 @@
    "device": "RE5C39L1",
    "name": "真我GT Neo6 SE",
    "model": "RMX3850"
+  },
+  {
+   "device": "RE5C4FL1",
+   "name": "真我GT6",
+   "model": "RMX3800"
   },
   {
    "device": "RE548B",

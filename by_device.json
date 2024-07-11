@@ -37572,6 +37572,13 @@
    "model": "G33"
   }
  ],
+ "G1070": [
+  {
+   "brand": "Blu",
+   "name": "G34",
+   "model": "G34"
+  }
+ ],
  "G0730WW": [
   {
    "brand": "Blu",
@@ -59268,13 +59275,6 @@
    "model": "F1"
   }
  ],
- "F1S": [
-  {
-   "brand": "Doogee",
-   "name": "F10 Pro",
-   "model": "F10 Pro"
-  }
- ],
  "F1C": [
   {
    "brand": "Doogee",
@@ -59285,6 +59285,13 @@
    "brand": "Doogee",
    "name": "F10S",
    "model": "F10S"
+  }
+ ],
+ "F1S": [
+  {
+   "brand": "Doogee",
+   "name": "Fire_6_Power",
+   "model": "F10 Pro"
   }
  ],
  "t766_dg_n_mix": [
@@ -103347,6 +103354,13 @@
    "model": "i3COMPUTER-A01-OPS"
   }
  ],
+ "i3TOUCH-X3": [
+  {
+   "brand": "I3-TECHNOLOGIES",
+   "name": "i3TOUCH-X3",
+   "model": "i3TOUCH-X3"
+  }
+ ],
  "A103": [
   {
    "brand": "IAIWAI",
@@ -146668,6 +146682,13 @@
    "brand": "MobiIoT",
    "name": "MobiGo 2+ Pro",
    "model": "MobiGo2PP"
+  }
+ ],
+ "MP5": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiPrint 5",
+   "model": "MP5"
   }
  ],
  "MobiPrint4_Plus": [
@@ -277818,17 +277839,27 @@
  "RE6054": [
   {
    "brand": "realme",
+   "name": "RMX3933",
+   "model": "RMX3933"
+  },
+  {
+   "brand": "realme",
    "name": "RMX3939",
    "model": "RMX3939"
   },
   {
    "brand": "realme",
-   "name": "RMX3993",
-   "model": "RMX3933"
+   "name": "realme C61",
+   "model": "RMX3930"
   },
   {
    "brand": "realme",
    "name": "realme C61",
+   "model": "RMX3939"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C63",
    "model": "RMX3939"
   }
  ],
@@ -278797,6 +278828,13 @@
    "brand": "realme",
    "name": "真我GT Neo6 SE",
    "model": "RMX3850"
+  }
+ ],
+ "RE5C4FL1": [
+  {
+   "brand": "realme",
+   "name": "真我GT6",
+   "model": "RMX3800"
   }
  ],
  "RE548B": [
