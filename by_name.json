@@ -10306,6 +10306,11 @@
    "brand": "PAX (CN)",
    "device": "A50",
    "model": "A50"
+  },
+  {
+   "brand": "Wintouch",
+   "device": "A50",
+   "model": "A50"
   }
  ],
  "E2": [
@@ -19085,6 +19090,20 @@
    "model": "EM103A"
   }
  ],
+ "EM103B_EEA": [
+  {
+   "brand": "Apolosign",
+   "device": "EP103B_EEA",
+   "model": "EP103B_EEA"
+  }
+ ],
+ "EP103B": [
+  {
+   "brand": "Apolosign",
+   "device": "EP103B",
+   "model": "EP103B"
+  }
+ ],
  "EP1095T": [
   {
    "brand": "Apolosign",
@@ -27693,6 +27712,13 @@
    "model": "T3"
   }
  ],
+ "BARTEC SP9EX1 Smartphone": [
+  {
+   "brand": "BARTEC",
+   "device": "SP9EX1",
+   "model": "SP9EX1"
+  }
+ ],
  "Pixavi Phone": [
   {
    "brand": "BARTEC",
@@ -35238,10 +35264,22 @@
    "model": "Tab 60 Kids"
   }
  ],
+ "Tab 60 WiFi": [
+  {
+   "brand": "Blackview",
+   "device": "Tab_60_WiFi",
+   "model": "Tab 60 WiFi"
+  }
+ ],
  "Tab 70 WiFi": [
   {
    "brand": "Blackview",
    "device": "Tab70WiFi",
+   "model": "Tab 70 WiFi"
+  },
+  {
+   "brand": "Blackview",
+   "device": "Tab_70_WiFi_14",
    "model": "Tab 70 WiFi"
   }
  ],
@@ -42569,6 +42607,13 @@
    "brand": "CORN",
    "device": "Star8_3G",
    "model": "Star8_3G"
+  }
+ ],
+ "Star9_Pro": [
+  {
+   "brand": "CORN",
+   "device": "Star9_Pro",
+   "model": "Star9_Pro"
   }
  ],
  "Tronik 13S": [
@@ -59567,6 +59612,11 @@
    "brand": "Dixon",
    "device": "L1",
    "model": "L1"
+  },
+  {
+   "brand": "HEADWOLF",
+   "device": "L1",
+   "model": "Lpad1"
   }
  ],
  "S5790": [
@@ -59725,6 +59775,13 @@
    "brand": "Doogee",
    "device": "BL7000",
    "model": "BL7000"
+  }
+ ],
+ "Blade10 Pro": [
+  {
+   "brand": "Doogee",
+   "device": "F1C",
+   "model": "Blade10 Pro"
   }
  ],
  "DK10": [
@@ -60059,6 +60116,13 @@
    "brand": "Doogee",
    "device": "PT3",
    "model": "R08"
+  }
+ ],
+ "S cyber": [
+  {
+   "brand": "Doogee",
+   "device": "M22GS",
+   "model": "S cyber"
   }
  ],
  "S punk": [
@@ -68692,6 +68756,13 @@
    "model": "UJ_1098"
   }
  ],
+ "L231-EEA": [
+  {
+   "brand": "FASTWD",
+   "device": "L231-EEA",
+   "model": "L231-EEA"
+  }
+ ],
  "M24IS810": [
   {
    "brand": "FBC",
@@ -75578,6 +75649,13 @@
    "brand": "Ghia",
    "device": "GK133V3",
    "model": "GK133V3"
+  }
+ ],
+ "GK523A24": [
+  {
+   "brand": "Ghia",
+   "device": "GK523A24",
+   "model": "GK523A24"
   }
  ],
  "GPND133": [
@@ -161394,6 +161472,13 @@
    "model": "GT1001"
   }
  ],
+ "IFP": [
+  {
+   "brand": "OKView",
+   "device": "rk3588_t",
+   "model": "IFP"
+  }
+ ],
  "PI Plus": [
   {
    "brand": "OKWU",
@@ -163056,6 +163141,13 @@
    "brand": "OnePlus",
    "device": "OP5943L1",
    "model": "PJA110"
+  }
+ ],
+ "Oneplus Ace 3 Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5D06L1",
+   "model": "PJX110"
   }
  ],
  "Oneplus_Dosa_IN": [
@@ -169053,6 +169145,13 @@
    "model": "WP33 Pro"
   }
  ],
+ "WP33_Pro_U_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP33_Pro",
+   "model": "WP33 Pro"
+  }
+ ],
  "WP35_EEA": [
   {
    "brand": "Oukitel",
@@ -169107,6 +169206,13 @@
    "brand": "Oukitel",
    "device": "WP50",
    "model": "WP50"
+  }
+ ],
+ "WP52_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP52",
+   "model": "WP52"
   }
  ],
  "WP5_Pro_row": [
@@ -170347,6 +170453,13 @@
    "brand": "POSSAFE",
    "device": "OrderGo_6",
    "model": "OrderGo 6"
+  }
+ ],
+ "L211-EEA": [
+  {
+   "brand": "POWMUS",
+   "device": "L211-EEA",
+   "model": "L211-EEA"
   }
  ],
  "PT7EduPad": [
@@ -206026,6 +206139,35 @@
    "model": "SM-T255S"
   }
  ],
+ "Galaxy Watch FE": [
+  {
+   "brand": "Samsung",
+   "device": "lucky7bs",
+   "model": "SM-R861"
+  }
+ ],
+ "Galaxy Watch Ultra": [
+  {
+   "brand": "Samsung",
+   "device": "projectx2ul",
+   "model": "SM-L7050"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectx2ul",
+   "model": "SM-L705F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectx2ul",
+   "model": "SM-L705N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectx2ul",
+   "model": "SM-L705U"
+  }
+ ],
  "Galaxy Watch4": [
   {
    "brand": "Samsung",
@@ -206276,6 +206418,53 @@
    "brand": "Samsung",
    "device": "wise6us",
    "model": "SM-R955U"
+  }
+ ],
+ "Galaxy Watch7": [
+  {
+   "brand": "Samsung",
+   "device": "fresh7bl",
+   "model": "SM-L310"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7bs",
+   "model": "SM-L300"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7ul",
+   "model": "SM-L3150"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7ul",
+   "model": "SM-L315F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7ul",
+   "model": "SM-L315N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7ul",
+   "model": "SM-L315U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7us",
+   "model": "SM-L305F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7us",
+   "model": "SM-L305N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh7us",
+   "model": "SM-L305U"
   }
  ],
  "Galaxy Wide": [
@@ -206947,6 +207136,38 @@
    "model": "SM-F731W"
   }
  ],
+ "Galaxy Z Flip6": [
+  {
+   "brand": "Samsung",
+   "device": "b6q",
+   "model": "SM-F7410"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b6q",
+   "model": "SM-F741B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b6q",
+   "model": "SM-F741N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b6q",
+   "model": "SM-F741U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b6q",
+   "model": "SM-F741U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b6q",
+   "model": "SM-F741W"
+  }
+ ],
  "Galaxy Z Fold2 5G": [
   {
    "brand": "Samsung",
@@ -207113,6 +207334,38 @@
    "brand": "Samsung",
    "device": "q5q",
    "model": "SM-F946W"
+  }
+ ],
+ "Galaxy Z Fold6": [
+  {
+   "brand": "Samsung",
+   "device": "q6q",
+   "model": "SM-F9560"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q6q",
+   "model": "SM-F956B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q6q",
+   "model": "SM-F956N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q6q",
+   "model": "SM-F956U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q6q",
+   "model": "SM-F956U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q6q",
+   "model": "SM-F956W"
   }
  ],
  "Galaxy player 70 Plus": [
@@ -223302,6 +223555,11 @@
    "brand": "TCL",
    "device": "Dragonfly",
    "model": "T613K"
+  },
+  {
+   "brand": "TCL",
+   "device": "Dragonfly",
+   "model": "T613P"
   }
  ],
  "TCL 50 SE": [
@@ -244905,6 +245163,13 @@
    "model": "VEIDOO_T30_PLUS_EEA"
   }
  ],
+ "VEIDOO_T40": [
+  {
+   "brand": "Veidoo",
+   "device": "VEIDOO_T40",
+   "model": "VEIDOO_T40"
+  }
+ ],
  "VEIDOO_T40_EEA": [
   {
    "brand": "Veidoo",
@@ -250817,6 +251082,13 @@
    "brand": "Vivo",
    "device": "PD2339",
    "model": "V2339FA"
+  }
+ ],
+ "iQOO Neo9S Pro+": [
+  {
+   "brand": "Vivo",
+   "device": "PD2403",
+   "model": "V2403A"
   }
  ],
  "iQOO Pad": [
@@ -277572,6 +277844,13 @@
    "brand": "realme",
    "device": "RE5C44",
    "model": "RMX3996"
+  }
+ ],
+ "redbeatA2": [
+  {
+   "brand": "redbeat",
+   "device": "redbeatA2",
+   "model": "redbeatA2"
   }
  ],
  "Valuer_V8": [

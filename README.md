@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-11
+Last sync is 2024-07-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1475,6 +1475,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|Z4PRO|Z4PRO|Z4PRO|
 |Apolosign|EM101A|EM101A|EM101A|
 |Apolosign|EM103A|EM103A|EM103A|
+|Apolosign|EM103B_EEA|EP103B_EEA|EP103B_EEA|
+|Apolosign|EP103B|EP103B|EP103B|
 |Apolosign|EP1095T|EP1095T|EP1095T|
 |Apolosign|K109A|K109A|K109A|
 |Apolosign|K109_Pro|K109_Pro|K109_Pro|
@@ -2668,6 +2670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BALMUDA|BALMUDA Phone|X01A|X01A|
 |BAMtelecoms|N3|N3|N3|
 |BAMtelecoms|T3|T3|T3|
+|BARTEC|BARTEC SP9EX1 Smartphone|SP9EX1|SP9EX1|
 |BARTEC|Pixavi Phone|PixaviPhone|Pixavi Phone|
 |BARTEC|Pixavi Thermal|PixaviThermal|Pixavi Thermal|
 |BATMAN|TM-MID1065BT|TM-MID1065BT|TM-MID1065BT|
@@ -3665,7 +3668,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab 60 Kids|Tab60Kids|Tab 60 Kids|
 |Blackview|Tab 60 Kids|Tab60Kids_EEA|Tab 60 Kids|
 |Blackview|Tab 60 Kids|Tab60Kids_RU|Tab 60 Kids|
+|Blackview|Tab 60 WiFi|Tab_60_WiFi|Tab 60 WiFi|
 |Blackview|Tab 70 WiFi|Tab70WiFi|Tab 70 WiFi|
+|Blackview|Tab 70 WiFi|Tab_70_WiFi_14|Tab 70 WiFi|
 |Blackview|Tab 8 WiFi|Tab8_WiFi_EEA|Tab 8 WiFi|
 |Blackview|Tab 8 WiFi|Tab8_WiFi_ROW|Tab 8 WiFi|
 |Blackview|Tab 80|Tab80|Tab 80|
@@ -4612,6 +4617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star8|Corn_Star8|CORN Star8|
 |CORN|Star8|Star8|Star8|
 |CORN|Star8_3G|Star8_3G|Star8_3G|
+|CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
 |CORN|Tronik_12S|Tronik_12S|Tronik_12S|
@@ -6984,6 +6990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|BL5000|BL5000|BL5000|
 |Doogee|BL5500_Lite|BL5500_Lite|BL5500_Lite|
 |Doogee|BL7000|BL7000|BL7000|
+|Doogee|Blade10 Pro|F1C|Blade10 Pro|
 |Doogee|DK10|ZN138|DK10|
 |Doogee|F10|F1|F10|
 |Doogee|F10S|F1C|Blade10 Pro|
@@ -7022,6 +7029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|R10|PT1|R10|
 |Doogee|R10|PT1|R10 Pro|
 |Doogee|R20|PT2|R20|
+|Doogee|S cyber|M22GS|S cyber|
 |Doogee|S punk|M22C|S punk|
 |Doogee|S100|M22|S100|
 |Doogee|S100Pro|M22H|S100Pro|
@@ -8210,6 +8218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FANGOR|F-C10|F-C10|F-C10|
 |FANGOR|F-X10|F-X10|F-X10|
 |FANGOR|UJ_1098|UJ_1098|UJ_1098|
+|FASTWD|L231-EEA|L231-EEA|L231-EEA|
 |FATARUS|K10|K10|K10|
 |FAVORITT|R3|R3|R3|
 |FAVORITT|R4|R4|R4|
@@ -9233,6 +9242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GK133S3|GK133S3|GK133S3|
 |Ghia|GK133T3|GK133T3|GK133T3|
 |Ghia|GK133V3|GK133V3|GK133V3|
+|Ghia|GK523A24|GK523A24|GK523A24|
 |Ghia|GPND133|GPND133|GPND133|
 |Ghia|GS3G|GS3G|GS3G|
 |Ghia|GTA7PLUS|GTA7PLUS|GTA7PLUS|
@@ -9844,6 +9854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|Hpad1|Hpad1|Hpad1|
 |HEADWOLF|Hpad2|Hpad2|H2|
 |HEADWOLF|Hpad2|Hpad2|H2A|
+|HEADWOLF|L1|L1|Lpad1|
 |HEADWOLF|W5A|W5A|W5A|
 |HEADWOLF|WPAD2|WPAD2|W2|
 |HEADWOLF|Wpad1|Wpad1|W1|
@@ -23752,6 +23763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKAPI|Tab10|Tab10|Tab10|
 |OKSI|GEN-10|GEN-10|GEN-10|
 |OKSI|GT1001|GT1001|GT1001|
+|OKView|IFP|rk3588_t|IFP|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Magic_Q1|Magic_Q1|Magic Q1|
 |OLAX|Magic_Q8|Magic_Q8|Magic Q8|
@@ -24063,6 +24075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
 |OnePlus|Oneplus Ace 2 Pro|OP5943L1|PJA110|
+|OnePlus|Oneplus Ace 3 Pro|OP5D06L1|PJX110|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
@@ -25023,6 +25036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP30_Pro_EEA|WP30_Pro|WP30 Pro|
 |Oukitel|WP32_EEA|WP32|WP32|
 |Oukitel|WP33_Pro_EEA|WP33_Pro|WP33 Pro|
+|Oukitel|WP33_Pro_U_EEA|WP33_Pro|WP33 Pro|
 |Oukitel|WP35_EEA|WP35|WP35|
 |Oukitel|WP36_EEA|WP36|WP36|
 |Oukitel|WP38_EEA|WP38|WP38|
@@ -25031,6 +25045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP5 Pro|WP5_Pro|WP5 Pro|
 |Oukitel|WP5000|WP5000|WP5000|
 |Oukitel|WP50_EEA|WP50|WP50|
+|Oukitel|WP52_EEA|WP52|WP52|
 |Oukitel|WP5_Pro_row|WP5_Pro|WP5 Pro|
 |Oukitel|WP6|WP6|WP6|
 |Oukitel|WP6_EEA|WP6|WP6|
@@ -25235,6 +25250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POS Terminal|MINT|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
+|POWMUS|L211-EEA|L211-EEA|L211-EEA|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
 |PRIMA|PRIMA 4K Android TV|kenton|PRIMA 4K Android TV|
@@ -31316,6 +31332,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy W|GT-I8150T|GT-I8150T|
 |Samsung|Galaxy W|SGH-T679M|SGH-T679M|
 |Samsung|Galaxy W|q7lteskt|SM-T255S|
+|Samsung|Galaxy Watch FE|lucky7bs|SM-R861|
+|Samsung|Galaxy Watch Ultra|projectx2ul|SM-L7050|
+|Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705F|
+|Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705N|
+|Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705U|
 |Samsung|Galaxy Watch4|freshbl|SM-R870|
 |Samsung|Galaxy Watch4|freshbs|SM-R860|
 |Samsung|Galaxy Watch4|freshul|SM-R875F|
@@ -31364,6 +31385,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch6 Classic|wise6us|SM-R955F|
 |Samsung|Galaxy Watch6 Classic|wise6us|SM-R955N|
 |Samsung|Galaxy Watch6 Classic|wise6us|SM-R955U|
+|Samsung|Galaxy Watch7|fresh7bl|SM-L310|
+|Samsung|Galaxy Watch7|fresh7bs|SM-L300|
+|Samsung|Galaxy Watch7|fresh7ul|SM-L3150|
+|Samsung|Galaxy Watch7|fresh7ul|SM-L315F|
+|Samsung|Galaxy Watch7|fresh7ul|SM-L315N|
+|Samsung|Galaxy Watch7|fresh7ul|SM-L315U|
+|Samsung|Galaxy Watch7|fresh7us|SM-L305F|
+|Samsung|Galaxy Watch7|fresh7us|SM-L305N|
+|Samsung|Galaxy Watch7|fresh7us|SM-L305U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
@@ -31483,6 +31513,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip5|b5q|SM-F731U|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731U1|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731W|
+|Samsung|Galaxy Z Flip6|b6q|SM-F7410|
+|Samsung|Galaxy Z Flip6|b6q|SM-F741B|
+|Samsung|Galaxy Z Flip6|b6q|SM-F741N|
+|Samsung|Galaxy Z Flip6|b6q|SM-F741U|
+|Samsung|Galaxy Z Flip6|b6q|SM-F741U1|
+|Samsung|Galaxy Z Flip6|b6q|SM-F741W|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
@@ -31515,6 +31551,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold5|q5q|SM-F946U|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946U1|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946W|
+|Samsung|Galaxy Z Fold6|q6q|SM-F9560|
+|Samsung|Galaxy Z Fold6|q6q|SM-F956B|
+|Samsung|Galaxy Z Fold6|q6q|SM-F956N|
+|Samsung|Galaxy Z Fold6|q6q|SM-F956U|
+|Samsung|Galaxy Z Fold6|q6q|SM-F956U1|
+|Samsung|Galaxy Z Fold6|q6q|SM-F956W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -34195,6 +34237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40T|Sonata_TF|T608DL|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL 50 5G|Dragonfly|T613K|
+|TCL|TCL 50 5G|Dragonfly|T613P|
 |TCL|TCL 50 SE|Ladybird|T611B|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
 |TCL|TCL 50 XL NXTPAPER 5G|Goldfinch_Pro_CS|T702M|
@@ -37930,6 +37973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|V88|V88|V88|
 |Veidoo|VEIDOO_T30_PLUS|VEIDOO_T30_PLUS|VEIDOO_T30_PLUS|
 |Veidoo|VEIDOO_T30_PLUS_EEA|VEIDOO_T30_PLUS_EEA|VEIDOO_T30_PLUS_EEA|
+|Veidoo|VEIDOO_T40|VEIDOO_T40|VEIDOO_T40|
 |Veidoo|VEIDOO_T40_EEA|VEIDOO_T40_EEA|VEIDOO_T40_EEA|
 |Veidoo|VEIDOO_T50|VEIDOO_T50|VEIDOO_T50|
 |Veidoo|VEIDOO_T60|VEIDOO_T60|VEIDOO_T60|
@@ -38877,6 +38921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo9 Pro|I2304|I2304|
 |Vivo|iQOO Neo9 Pro|PD2339|V2339A|
 |Vivo|iQOO Neo9S Pro|PD2339|V2339FA|
+|Vivo|iQOO Neo9S Pro+|PD2403|V2403A|
 |Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Pad2|DPD2345|iPA2453|
@@ -39848,6 +39893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintec|T730|T730|Clear|
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
+|Wintouch|A50|A50|A50|
 |Wintouch|K19|K19|K19|
 |Wintouch|K72P|K72P|K72P|
 |Wintouch|Q705|Q705|Q705|
@@ -43541,6 +43587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V50s|RE5C34|RMX3781|
 |realme|真我V60|RE5C44|RMX3995|
 |realme|真我V60s|RE5C44|RMX3996|
+|redbeat|redbeatA2|redbeatA2|redbeatA2|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_R10S|R10S|Wizpad Valuer R10S|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
