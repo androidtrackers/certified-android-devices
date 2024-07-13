@@ -130342,6 +130342,13 @@
    "model": "era 2"
   }
  ],
+ "YUVA 2 PRO": [
+  {
+   "brand": "Lava",
+   "device": "LZX408",
+   "model": "LAVA LZX408"
+  }
+ ],
  "YUVA 3": [
   {
    "brand": "Lava",
@@ -152237,6 +152244,18 @@
    "brand": "Motorola",
    "device": "bangkk",
    "model": "moto g84 5G"
+  }
+ ],
+ "moto g85 5G": [
+  {
+   "brand": "Motorola",
+   "device": "malmo",
+   "model": "moto g85 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "malmo",
+   "model": "motorola edge 40 pro"
   }
  ],
  "moto p30": [
@@ -236138,6 +236157,13 @@
    "model": "TECNO CL8"
   }
  ],
+ "TECNO CAMON 30S Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CLA6",
+   "model": "TECNO CLA6"
+  }
+ ],
  "TECNO CAMON iACE 2": [
   {
    "brand": "Tecno",
@@ -278503,6 +278529,20 @@
    "brand": "weelikeit",
    "device": "P16W_EEA",
    "model": "P16W_EEA"
+  }
+ ],
+ "P26W": [
+  {
+   "brand": "weelikeit",
+   "device": "P26W",
+   "model": "P26W"
+  }
+ ],
+ "P26W_EEA": [
+  {
+   "brand": "weelikeit",
+   "device": "P26W_EEA",
+   "model": "P26W_EEA"
   }
  ],
  "P82L": [

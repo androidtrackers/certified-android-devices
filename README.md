@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-12
+Last sync is 2024-07-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18551,6 +18551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Xolo Era X|era_X|era_X|
 |Lava|Xolo era 2|era_2|era 2|
 |Lava|Y50|AF9020|AF9020|
+|Lava|YUVA 2 PRO|LZX408|LAVA LZX408|
 |Lava|YUVA 3|LZX415|LZX415|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
@@ -22258,6 +22259,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g82 5G|rhodep|moto g82 5G|
 |Motorola|moto g84 5G|bangkk|moto g53 5G|
 |Motorola|moto g84 5G|bangkk|moto g84 5G|
+|Motorola|moto g85 5G|malmo|moto g85 5G|
+|Motorola|moto g85 5G|malmo|motorola edge 40 pro|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto razr 40|lynkco|XT2323-3|
@@ -36468,6 +36471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30 5G|TECNO-CL7s|TECNO CL7s|
 |Tecno|TECNO CAMON 30 Premier 5G|TECNO-CL9|TECNO CL9|
 |Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
+|Tecno|TECNO CAMON 30S Pro|TECNO-CLA6|TECNO CLA6|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -43686,6 +43690,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |weelikeit|P11W_EEA|P11W_EEA|P11W_EEA|
 |weelikeit|P16W|P16W|P16W|
 |weelikeit|P16W_EEA|P16W_EEA|P16W_EEA|
+|weelikeit|P26W|P26W|P26W|
+|weelikeit|P26W_EEA|P26W_EEA|P26W_EEA|
 |weelikeit|P82L|P82L|P82L|
 |xTouch|A4|XTOUCH_A4|A4|
 |xTouch|A5|A5|XTOUCH_A5|
