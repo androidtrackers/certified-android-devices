@@ -24156,6 +24156,11 @@
    "device": "P83L",
    "name": "P83L",
    "model": "P83L"
+  },
+  {
+   "device": "S18",
+   "name": "S18 EEA",
+   "model": "S18"
   }
  ],
  "CX Argentina": [
@@ -32853,6 +32858,13 @@
    "device": "dctiw384",
    "name": "DNA TV-hubi",
    "model": "DNA Android TV"
+  }
+ ],
+ "DNS:NET": [
+  {
+   "device": "DNSNETB866VW",
+   "name": "DNSNETB866VW",
+   "model": "DNSNETB866VW"
   }
  ],
  "DO Mobile": [
@@ -63072,6 +63084,11 @@
    "device": "HNVCA-Q",
    "name": "荣耀V Purse",
    "model": "VCA-AN00"
+  },
+  {
+   "device": "HNROD2-Q",
+   "name": "荣耀平板MagicPad2",
+   "model": "ROD2-W09"
   }
  ],
  "Hoozo": [
@@ -82260,6 +82277,11 @@
    "device": "lavender",
    "name": "EcoTVISDB",
    "model": "EcoTV"
+  },
+  {
+   "device": "Capricorn",
+   "name": "SD_GM01",
+   "model": "Eco Smart Display"
   }
  ],
  "KTC (PD)": [
@@ -133049,6 +133071,11 @@
    "device": "Philips_V377",
    "name": "Xenium V377",
    "model": "Philips V377"
+  },
+  {
+   "device": "whitefield",
+   "name": "whitefield",
+   "model": "R8G"
   }
  ],
  "Phoenix": [
@@ -145994,6 +146021,11 @@
   }
  ],
  "STARK_FUTURE": [
+  {
+   "device": "ARKENSTONE",
+   "name": "ARKENSTONE",
+   "model": "ARKENSTONE"
+  },
   {
    "device": "VARG",
    "name": "VARG",
@@ -198954,6 +198986,11 @@
    "device": "V2339",
    "name": "V40 Lite",
    "model": "V2341"
+  },
+  {
+   "device": "V2342",
+   "name": "V40 SE",
+   "model": "V2342"
   },
   {
    "device": "V2327",

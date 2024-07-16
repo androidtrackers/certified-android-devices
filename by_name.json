@@ -43018,6 +43018,13 @@
    "model": "P83L"
   }
  ],
+ "S18 EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "S18",
+   "model": "S18"
+  }
+ ],
  "CX9011": [
   {
    "brand": "CX Argentina",
@@ -55169,6 +55176,13 @@
    "brand": "DNA",
    "device": "dctiw384",
    "model": "DNA Android TV"
+  }
+ ],
+ "DNSNETB866VW": [
+  {
+   "brand": "DNS:NET",
+   "device": "DNSNETB866VW",
+   "model": "DNSNETB866VW"
   }
  ],
  "DO_Mate2": [
@@ -94275,6 +94289,13 @@
    "model": "VCA-AN00"
   }
  ],
+ "荣耀平板MagicPad2": [
+  {
+   "brand": "Honor",
+   "device": "HNROD2-Q",
+   "model": "ROD2-W09"
+  }
+ ],
  "F13": [
   {
    "brand": "Hoozo",
@@ -115366,6 +115387,13 @@
    "brand": "KTC",
    "device": "lavender",
    "model": "EcoTV"
+  }
+ ],
+ "SD_GM01": [
+  {
+   "brand": "KTC",
+   "device": "Capricorn",
+   "model": "Eco Smart Display"
   }
  ],
  "BLISS503": [
@@ -174291,6 +174319,13 @@
    "model": "Philips V377"
   }
  ],
+ "whitefield": [
+  {
+   "brand": "Philips",
+   "device": "whitefield",
+   "model": "R8G"
+  }
+ ],
  "PHONETABPRO": [
   {
    "brand": "Phoenix",
@@ -189914,6 +189949,13 @@
    "brand": "SSmooth",
    "device": "Vision_Plus",
    "model": "Vision Plus"
+  }
+ ],
+ "ARKENSTONE": [
+  {
+   "brand": "STARK_FUTURE",
+   "device": "ARKENSTONE",
+   "model": "ARKENSTONE"
   }
  ],
  "VARG": [
@@ -250009,6 +250051,13 @@
    "brand": "Vivo",
    "device": "V2339",
    "model": "V2341"
+  }
+ ],
+ "V40 SE": [
+  {
+   "brand": "Vivo",
+   "device": "V2342",
+   "model": "V2342"
   }
  ],
  "V40 SE 5G": [

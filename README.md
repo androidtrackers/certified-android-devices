@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-15
+Last sync is 2024-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4670,6 +4670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|P80L|P80L|P80L|
 |CWOWDEFU|P81L|P81L|P81L|
 |CWOWDEFU|P83L|P83L|P83L|
+|CWOWDEFU|S18 EEA|S18|S18|
 |CX Argentina|CX9011|CX9011|CX9011|
 |CYX Group|A7008|A7008|A7008|
 |CYX Group|Retailer Stores|A7009|A7009|
@@ -6353,6 +6354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DNA|DNA Hubi 2.0|m393gena|DNA Hubi 2.0|
 |DNA|DNA Hubi Soundbox|m393vsb_dna|DNA Hubi Soundbox|
 |DNA|DNA TV-hubi|dctiw384|DNA Android TV|
+|DNS:NET|DNSNETB866VW|DNSNETB866VW|DNSNETB866VW|
 |DO Mobile|DO_Mate2|Mate2|Mate2|
 |DO Mobile|Mate1|Mate1|DO_S1|
 |DO Mobile|Mate1|Mate1|Mate1|
@@ -12190,6 +12192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
+|Honor|荣耀平板MagicPad2|HNROD2-Q|ROD2-W09|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -15952,6 +15955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|EcoTVCOL|lavender|EcoTV C|
 |KTC|EcoTVDVB|lavender|EcoTV D|
 |KTC|EcoTVISDB|lavender|EcoTV|
+|KTC|SD_GM01|Capricorn|Eco Smart Display|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|ADSUN|stanford|2K SMART TV|
@@ -25861,6 +25865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Xenium S386|S386|Philips S386|
 |Philips|Xenium S566|S566|Xenium S566|
 |Philips|Xenium V377|Philips_V377|Philips V377|
+|Philips|whitefield|whitefield|R8G|
 |Phoenix|PHONETABPRO|PHONETABPRO|PHONETABPRO|
 |Phoenix Note|M701A|M701A|M701A|
 |Phoenix Note|PPS2022-P156|PPS2022-P156|PPS2022-P156|
@@ -28355,6 +28360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSmooth|Smooth_8GT|Smooth_8GT|Smooth 8GT|
 |SSmooth|Vision|Vision|Vision|
 |SSmooth|Vision Plus|Vision_Plus|Vision Plus|
+|STARK_FUTURE|ARKENSTONE|ARKENSTONE|ARKENSTONE|
 |STARK_FUTURE|VARG|VARG|VARG|
 |STARSHINE|STARSHINE|mountbaker|2K SMART TV|
 |STARSHINE|STARSHINE 2K Google TV|capitolhill|STARSHINE  2K Google TV|
@@ -38738,6 +38744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V40|V2348|V2348|
 |Vivo|V40 Lite|V2339|V2340|
 |Vivo|V40 Lite|V2339|V2341|
+|Vivo|V40 SE|V2342|V2342|
 |Vivo|V40 SE 5G|V2327|V2337|
 |Vivo|V5Plus|V5Plus|vivo V5Plus|
 |Vivo|V9|1727ID|vivo 1727|
