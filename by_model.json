@@ -4483,6 +4483,11 @@
    "device": "R3"
   },
   {
+   "brand": "MASTERTECH",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
    "brand": "MIRAY",
    "name": "R3",
    "device": "R3"
@@ -4671,6 +4676,11 @@
   },
   {
    "brand": "Kalley",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "MASTERTECH",
    "name": "R4",
    "device": "R4"
   },
@@ -14540,6 +14550,13 @@
    "brand": "Apolosign",
    "name": "EM101A",
    "device": "EM101A"
+  }
+ ],
+ "EM101B_EEA": [
+  {
+   "brand": "Apolosign",
+   "name": "EM101B_EEA",
+   "device": "EM101B_EEA"
   }
  ],
  "EM103A": [
@@ -32438,6 +32455,13 @@
    "brand": "Blu",
    "name": "G43",
    "device": "G0950"
+  }
+ ],
+ "G44": [
+  {
+   "brand": "Blu",
+   "name": "G44",
+   "device": "G0970"
   }
  ],
  "G5": [
@@ -66671,6 +66695,13 @@
    "device": "FMP181L"
   }
  ],
+ "IWxx2_DX": [
+  {
+   "brand": "Fujitsu",
+   "name": "INTERACTIVE_PANEL",
+   "device": "rk3588_t"
+  }
+ ],
  "M02": [
   {
    "brand": "Fujitsu",
@@ -74335,6 +74366,20 @@
    "brand": "HMD",
    "name": "HMD Pulse+",
    "device": "LGP"
+  }
+ ],
+ "HMD Skyline": [
+  {
+   "brand": "HMD",
+   "name": "HMD Skyline",
+   "device": "TCT"
+  }
+ ],
+ "HMD Skyline Business Edition": [
+  {
+   "brand": "HMD",
+   "name": "HMD Skyline Business Edition",
+   "device": "TCT"
   }
  ],
  "HMD T21": [
@@ -109589,6 +109634,11 @@
    "brand": "Itel",
    "name": "P65",
    "device": "itel-P671L"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel P65",
+   "device": "itel-P671L"
   }
  ],
  "IKP-31": [
@@ -111944,6 +111994,13 @@
    "brand": "Jawwy TV",
    "name": "JAWWY-TV-2.0",
    "device": "HP40A"
+  }
+ ],
+ "KT1016": [
+  {
+   "brand": "Jeazans",
+   "name": "KT1016_EEA",
+   "device": "KT1016"
   }
  ],
  "A94GT_Plus": [
@@ -170093,6 +170150,13 @@
    "device": "OP5ADDL1"
   }
  ],
+ "CPH2687": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12 F",
+   "device": "OP5EB1L1"
+  }
+ ],
  "CPH2637": [
   {
    "brand": "Oppo",
@@ -173147,6 +173211,13 @@
    "brand": "POCO",
    "name": "POCO F6",
    "device": "peridot"
+  }
+ ],
+ "23113RKC6G": [
+  {
+   "brand": "POCO",
+   "name": "POCO F6 Pro",
+   "device": "vermeer"
   }
  ],
  "M2004J19PI": [
@@ -179196,6 +179267,11 @@
    "brand": "Polytron",
    "name": "PLD43UG5959/PLD43BUG5959/PLD50UG5959/PLD50BUG5959/PLD55UG5959/",
    "device": "songshan"
+  },
+  {
+   "brand": "Polytron",
+   "name": "POLYTRON4K",
+   "device": "lushan"
   }
  ],
  "POLYTRON_P552": [
@@ -188866,6 +188942,13 @@
    "brand": "Redmi",
    "name": "Redmi K60E",
    "device": "rembrandt"
+  }
+ ],
+ "23113RKC6C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K70",
+   "device": "vermeer"
   }
  ],
  "23117RK66C": [
@@ -214875,6 +214958,13 @@
    "device": "b6q"
   }
  ],
+ "SM-F741Q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip6",
+   "device": "b6q"
+  }
+ ],
  "SM-F741U": [
   {
    "brand": "Samsung",
@@ -215135,6 +215225,13 @@
   }
  ],
  "SM-F956N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold6",
+   "device": "q6q"
+  }
+ ],
+ "SM-F956Q": [
   {
    "brand": "Samsung",
    "name": "Galaxy Z Fold6",
@@ -217498,6 +217595,13 @@
   }
  ],
  "A401SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R9",
+   "device": "Orga"
+  }
+ ],
+ "SH-M28": [
   {
    "brand": "Sharp",
    "name": "AQUOS R9",
@@ -271326,6 +271430,13 @@
    "device": "houji"
   }
  ],
+ "24053PY09I": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Civi",
+   "device": "chenfeng"
+  }
+ ],
  "23116PN5BC": [
   {
    "brand": "Xiaomi",
@@ -288921,25 +289032,25 @@
    "device": "I22M01"
   }
  ],
- "I23M02": [
-  {
-   "brand": "iMin",
-   "name": "Swift 2 Pro",
-   "device": "Swift2Pro"
-  }
- ],
  "I23M03": [
   {
    "brand": "iMin",
-   "name": "Swift1Pro",
+   "name": "Swift 1 Pro",
    "device": "Swift1Pro"
   }
  ],
  "I23M01_GL": [
   {
    "brand": "iMin",
-   "name": "Swift2_GL",
+   "name": "Swift 2",
    "device": "Swift2"
+  }
+ ],
+ "I23M02": [
+  {
+   "brand": "iMin",
+   "name": "Swift 2 Pro",
+   "device": "Swift2Pro"
   }
  ],
  "EG104": [
@@ -289809,6 +289920,13 @@
    "brand": "jAC-EG",
    "name": "55JB832",
    "device": "barking"
+  }
+ ],
+ "H800": [
+  {
+   "brand": "jHon",
+   "name": "H800",
+   "device": "H800"
   }
  ],
  "MS4GSA02": [

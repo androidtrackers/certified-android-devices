@@ -7708,6 +7708,11 @@
    "model": "EM101A"
   },
   {
+   "device": "EM101B_EEA",
+   "name": "EM101B_EEA",
+   "model": "EM101B_EEA"
+  },
+  {
    "device": "EM103A",
    "name": "EM103A",
    "model": "EM103A"
@@ -20499,6 +20504,11 @@
    "device": "G0950",
    "name": "G43",
    "model": "G43"
+  },
+  {
+   "device": "G0970",
+   "name": "G44",
+   "model": "G44"
   },
   {
    "device": "G0090",
@@ -45668,6 +45678,11 @@
    "model": "FMP181L"
   },
   {
+   "device": "rk3588_t",
+   "name": "INTERACTIVE_PANEL",
+   "model": "IWxx2_DX"
+  },
+  {
    "device": "M02",
    "name": "M02",
    "model": "M02"
@@ -51518,6 +51533,16 @@
    "device": "LGP",
    "name": "HMD Pulse+",
    "model": "HMD Pulse Plus"
+  },
+  {
+   "device": "TCT",
+   "name": "HMD Skyline",
+   "model": "HMD Skyline"
+  },
+  {
+   "device": "TCT",
+   "name": "HMD Skyline Business Edition",
+   "model": "HMD Skyline Business Edition"
   },
   {
    "device": "AGTAH",
@@ -79564,6 +79589,11 @@
    "model": "itel P665L"
   },
   {
+   "device": "itel-P671L",
+   "name": "itel P65",
+   "model": "itel P671L"
+  },
+  {
    "device": "itel_Prime4",
    "name": "itel Prime 4",
    "model": "itel Prime 4"
@@ -80669,6 +80699,13 @@
    "device": "HP40A",
    "name": "JAWWY-TV-2.0",
    "model": "JAWWY-TV-2.0"
+  }
+ ],
+ "Jeazans": [
+  {
+   "device": "KT1016",
+   "name": "KT1016_EEA",
+   "model": "KT1016"
   }
  ],
  "Jenesis": [
@@ -102871,6 +102908,16 @@
    "device": "M2M-3T",
    "name": "M2M-3T",
    "model": "M2M-3T"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "MAXX": [
@@ -127163,6 +127210,11 @@
    "model": "CPH2625"
   },
   {
+   "device": "OP5EB1L1",
+   "name": "Reno12 F",
+   "model": "CPH2687"
+  },
+  {
    "device": "OP5AF2L1",
    "name": "Reno12 F 5G",
    "model": "CPH2637"
@@ -129722,6 +129774,11 @@
    "device": "peridot",
    "name": "POCO F6",
    "model": "24069PC21I"
+  },
+  {
+   "device": "vermeer",
+   "name": "POCO F6 Pro",
+   "model": "23113RKC6G"
   },
   {
    "device": "shiva",
@@ -134590,6 +134647,11 @@
    "device": "POLYTRON_R250A",
    "name": "POLYTRON R250A",
    "model": "POLYTRON R250A"
+  },
+  {
+   "device": "lushan",
+   "name": "POLYTRON4K",
+   "model": "POLYTRON4K"
   },
   {
    "device": "POLYTRON_T553",
@@ -142379,6 +142441,11 @@
    "device": "rembrandt",
    "name": "Redmi K60E",
    "model": "22122RK93C"
+  },
+  {
+   "device": "vermeer",
+   "name": "Redmi K70",
+   "model": "23113RKC6C"
   },
   {
    "device": "manet",
@@ -161897,6 +161964,11 @@
   {
    "device": "b6q",
    "name": "Galaxy Z Flip6",
+   "model": "SM-F741Q"
+  },
+  {
+   "device": "b6q",
+   "name": "Galaxy Z Flip6",
    "model": "SM-F741U"
   },
   {
@@ -162083,6 +162155,11 @@
    "device": "q6q",
    "name": "Galaxy Z Fold6",
    "model": "SM-F956N"
+  },
+  {
+   "device": "q6q",
+   "name": "Galaxy Z Fold6",
+   "model": "SM-F956Q"
   },
   {
    "device": "q6q",
@@ -163962,6 +164039,11 @@
    "device": "Orga",
    "name": "AQUOS R9",
    "model": "A401SH"
+  },
+  {
+   "device": "Orga",
+   "name": "AQUOS R9",
+   "model": "SH-M28"
   },
   {
    "device": "SH-51E",
@@ -207413,6 +207495,11 @@
    "model": "23127PN0CG"
   },
   {
+   "device": "chenfeng",
+   "name": "Xiaomi 14 Civi",
+   "model": "24053PY09I"
+  },
+  {
    "device": "shennong",
    "name": "Xiaomi 14 Pro",
    "model": "23116PN5BC"
@@ -221532,19 +221619,19 @@
    "model": "Swift_1"
   },
   {
-   "device": "Swift2Pro",
-   "name": "Swift 2 Pro",
-   "model": "I23M02"
-  },
-  {
    "device": "Swift1Pro",
-   "name": "Swift1Pro",
+   "name": "Swift 1 Pro",
    "model": "I23M03"
   },
   {
    "device": "Swift2",
-   "name": "Swift2_GL",
+   "name": "Swift 2",
    "model": "I23M01_GL"
+  },
+  {
+   "device": "Swift2Pro",
+   "name": "Swift 2 Pro",
+   "model": "I23M02"
   }
  ],
  "iMuz": [
@@ -222389,6 +222476,13 @@
    "device": "barking",
    "name": "55JB832",
    "model": "jAC AndroidTV"
+  }
+ ],
+ "jHon": [
+  {
+   "device": "H800",
+   "name": "H800",
+   "model": "H800"
   }
  ],
  "jetfon": [

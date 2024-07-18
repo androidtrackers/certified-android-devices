@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-17
+Last sync is 2024-07-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1474,6 +1474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|U10PRO|U10PRO|U10PRO|
 |Apex|Z4PRO|Z4PRO|Z4PRO|
 |Apolosign|EM101A|EM101A|EM101A|
+|Apolosign|EM101B_EEA|EM101B_EEA|EM101B_EEA|
 |Apolosign|EM103A|EM103A|EM103A|
 |Apolosign|EM103B_EEA|EP103B_EEA|EP103B_EEA|
 |Apolosign|EP103B|EP103B|EP103B|
@@ -3975,6 +3976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
+|Blu|G44|G0970|G44|
 |Blu|G5|G0090|G5|
 |Blu|G5 Plus|G0180LL|G5 Plus|
 |Blu|G5 Plus|G0190|G5 Plus|
@@ -8792,6 +8794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|FHMD001|FHMD001|FHMD001|
 |Fujitsu|FMP179R|FMP179R|FMP179R|
 |Fujitsu|FMP181L|FMP181L|FMP181L|
+|Fujitsu|INTERACTIVE_PANEL|rk3588_t|IWxx2_DX|
 |Fujitsu|M02|M02|M02|
 |Fujitsu|M305|M305|M305|
 |Fujitsu|M305|M305SB|M305|
@@ -9906,6 +9909,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HMD|HMD Pulse|LGD|HMD Pulse|
 |HMD|HMD Pulse Pro|LGR|HMD Pulse Pro|
 |HMD|HMD Pulse+|LGP|HMD Pulse Plus|
+|HMD|HMD Skyline|TCT|HMD Skyline|
+|HMD|HMD Skyline Business Edition|TCT|HMD Skyline Business Edition|
 |HMD|HMD T21|AGTAH|HMD T21|
 |HMD|HMD T21|AGTH|HMD T21|
 |HMD|HMD XR21|SNT|HMD XR21|
@@ -15442,6 +15447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P55+|itel-P663L|itel P663L|
 |Itel|itel P55+|itel-P663LN|itel P663LN|
 |Itel|itel P55T|itel-P665L|itel P665L|
+|Itel|itel P65|itel-P671L|itel P671L|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
 |Itel|itel PrimeTab 1|itel-W7002P|itel W7002P|
@@ -15653,6 +15659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jawwy TV|JAWWY-TV-2.0|HP40A|JAWWY-TV-2.0|
+|Jeazans|KT1016_EEA|KT1016|KT1016|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
@@ -20003,6 +20010,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
 |MASTERTECH|77-EV|77-EV|77-EV|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
+|MASTERTECH|R3|R3|R3|
+|MASTERTECH|R4|R4|R4|
 |MAXX|Grand Prime|Grand_Prime|Grand Prime|
 |MAYA|P4|P4|P4|
 |MAZE|Alpha|Alpha|Alpha|
@@ -24717,6 +24726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno11 Pro|OP59EFL1|PJJ110|
 |Oppo|Reno12|OP5A29L1|PJV110|
 |Oppo|Reno12 5G|OP5ADDL1|CPH2625|
+|Oppo|Reno12 F|OP5EB1L1|CPH2687|
 |Oppo|Reno12 F 5G|OP5AF2L1|CPH2637|
 |Oppo|Reno12 F/FS 5G|OP5AF2L1|CPH2637|
 |Oppo|Reno12 Pro|OP5A2BL1|PJW110|
@@ -25210,6 +25220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F5|marble|23049PCD8I|
 |POCO|POCO F6|peridot|24069PC21G|
 |POCO|POCO F6|peridot|24069PC21I|
+|POCO|POCO F6 Pro|vermeer|23113RKC6G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -26158,6 +26169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polytron|POLYTRON R2509|POLYTRON_R2509|POLYTRON R2509|
 |Polytron|POLYTRON R2509SE|POLYTRON_R2509SE|POLYTRON R2509SE|
 |Polytron|POLYTRON R250A|POLYTRON_R250A|POLYTRON R250A|
+|Polytron|POLYTRON4K|lushan|POLYTRON4K|
 |Polytron|POLYTRON_T553|POLYTRON_T553|POLYTRON_T553|
 |Polytron|PRIME A8|POLYTRON_A552|A552|
 |Polytron|PRIME T8|POLYTRON_R255B|R255B|
@@ -27673,6 +27685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K60 Pro|socrates|22127RK46C|
 |Redmi|Redmi K60 Ultra|corot|23078RKD5C|
 |Redmi|Redmi K60E|rembrandt|22122RK93C|
+|Redmi|Redmi K70|vermeer|23113RKC6C|
 |Redmi|Redmi K70 Pro|manet|23117RK66C|
 |Redmi|Redmi K70E|duchamp|2311DRK48C|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
@@ -31525,6 +31538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip6|b6q|SM-F7410|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741B|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741N|
+|Samsung|Galaxy Z Flip6|b6q|SM-F741Q|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U1|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741W|
@@ -31563,6 +31577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold6|q6q|SM-F9560|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956B|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956N|
+|Samsung|Galaxy Z Fold6|q6q|SM-F956Q|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956U|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956U1|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956W|
@@ -31924,6 +31939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R8 pro|Kamille|SH-R80P|
 |Sharp|AQUOS R8 pro|SH-51D|SH-51D|
 |Sharp|AQUOS R9|Orga|A401SH|
+|Sharp|AQUOS R9|Orga|SH-M28|
 |Sharp|AQUOS R9|SH-51E|SH-51E|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
@@ -40385,6 +40401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 13T Pro|corot|A301XM|
 |Xiaomi|Xiaomi 14|houji|23127PN0CC|
 |Xiaomi|Xiaomi 14|houji|23127PN0CG|
+|Xiaomi|Xiaomi 14 Civi|chenfeng|24053PY09I|
 |Xiaomi|Xiaomi 14 Pro|shennong|23116PN5BC|
 |Xiaomi|Xiaomi 14 Pro|shennong|2311BPN23C|
 |Xiaomi|Xiaomi 14 Ultra|aurora|24030PN60G|
@@ -43142,9 +43159,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|
+|iMin|Swift 1 Pro|Swift1Pro|I23M03|
+|iMin|Swift 2|Swift2|I23M01_GL|
 |iMin|Swift 2 Pro|Swift2Pro|I23M02|
-|iMin|Swift1Pro|Swift1Pro|I23M03|
-|iMin|Swift2_GL|Swift2|I23M01_GL|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
 |iMuz|"Foryou Digital Co.|Ltd"|EG125|
@@ -43301,6 +43318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ioutdoor|Polar3_EEA|Polar3|Polar3|
 |jAC-EG|43JB822|beaudry|jAC AndroidTV|
 |jAC-EG|55JB832|barking|jAC AndroidTV|
+|jHon|H800|H800|H800|
 |jetfon|MT1|MT1|MS4GSA02|
 |kiddoboo|KB101|KB101|KB101|
 |kiddoboo|KB101B|KB101B|KB101B|

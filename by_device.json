@@ -1249,6 +1249,11 @@
    "model": "CCBEK"
   },
   {
+   "brand": "Fujitsu",
+   "name": "INTERACTIVE_PANEL",
+   "model": "IWxx2_DX"
+  },
+  {
    "brand": "Helgi",
    "name": "HXxx10",
    "model": "Helgi_HX10"
@@ -6368,6 +6373,11 @@
    "model": "R3"
   },
   {
+   "brand": "MASTERTECH",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "MIRAY",
    "name": "R3",
    "model": "R3"
@@ -6571,6 +6581,11 @@
   },
   {
    "brand": "Kalley",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "MASTERTECH",
    "name": "R4",
    "model": "R4"
   },
@@ -19161,6 +19176,13 @@
    "brand": "Apolosign",
    "name": "EM101A",
    "model": "EM101A"
+  }
+ ],
+ "EM101B_EEA": [
+  {
+   "brand": "Apolosign",
+   "name": "EM101B_EEA",
+   "model": "EM101B_EEA"
   }
  ],
  "EM103A": [
@@ -37643,6 +37665,13 @@
    "brand": "Blu",
    "name": "G43",
    "model": "G43"
+  }
+ ],
+ "G0970": [
+  {
+   "brand": "Blu",
+   "name": "G44",
+   "model": "G44"
   }
  ],
  "G0090": [
@@ -78726,6 +78755,18 @@
    "model": "HMD Pulse Plus"
   }
  ],
+ "TCT": [
+  {
+   "brand": "HMD",
+   "name": "HMD Skyline",
+   "model": "HMD Skyline"
+  },
+  {
+   "brand": "HMD",
+   "name": "HMD Skyline Business Edition",
+   "model": "HMD Skyline Business Edition"
+  }
+ ],
  "AGTAH": [
   {
    "brand": "HMD",
@@ -90288,6 +90329,11 @@
    "brand": "Hisense",
    "name": "lushan-NF",
    "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Polytron",
+   "name": "POLYTRON4K",
+   "model": "POLYTRON4K"
   },
   {
    "brand": "Toshiba",
@@ -110487,6 +110533,11 @@
    "brand": "Itel",
    "name": "P65",
    "model": "itel P671L"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel P65",
+   "model": "itel P671L"
   }
  ],
  "itel-IKP-31": [
@@ -112432,6 +112483,13 @@
    "brand": "JapanTaxi",
    "name": "IRIS ITAB05",
    "model": "IRIS_ITAB05"
+  }
+ ],
+ "KT1016": [
+  {
+   "brand": "Jeazans",
+   "name": "KT1016_EEA",
+   "model": "KT1016"
   }
  ],
  "A94GT_Plus": [
@@ -167618,6 +167676,13 @@
    "model": "CPH2625"
   }
  ],
+ "OP5EB1L1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno12 F",
+   "model": "CPH2687"
+  }
+ ],
  "OP5AF2L1": [
   {
    "brand": "Oppo",
@@ -171004,6 +171069,18 @@
    "brand": "Redmi",
    "name": "Redmi Turbo 3",
    "model": "24069RA21C"
+  }
+ ],
+ "vermeer": [
+  {
+   "brand": "POCO",
+   "name": "POCO F6 Pro",
+   "model": "23113RKC6G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi K70",
+   "model": "23113RKC6C"
   }
  ],
  "shiva": [
@@ -209044,6 +209121,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Z Flip6",
+   "model": "SM-F741Q"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip6",
    "model": "SM-F741U"
   },
   {
@@ -209252,6 +209334,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold6",
    "model": "SM-F956N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold6",
+   "model": "SM-F956Q"
   },
   {
    "brand": "Samsung",
@@ -211539,6 +211626,11 @@
    "brand": "Sharp",
    "name": "AQUOS R9",
    "model": "A401SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R9",
+   "model": "SH-M28"
   }
  ],
  "SH-51E": [
@@ -261060,6 +261152,18 @@
    "model": "23127PN0CG"
   }
  ],
+ "chenfeng": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 14 Civi",
+   "model": "24053PY09I"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Civi 4",
+   "model": "24053PY09C"
+  }
+ ],
  "shennong": [
   {
    "brand": "Xiaomi",
@@ -261084,13 +261188,6 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Civi 1S",
    "model": "2109119BC"
-  }
- ],
- "chenfeng": [
-  {
-   "brand": "Xiaomi",
-   "name": "Xiaomi Civi 4",
-   "model": "24053PY09C"
   }
  ],
  "cetus": [
@@ -276782,25 +276879,25 @@
    "model": "Swift_1"
   }
  ],
- "Swift2Pro": [
-  {
-   "brand": "iMin",
-   "name": "Swift 2 Pro",
-   "model": "I23M02"
-  }
- ],
  "Swift1Pro": [
   {
    "brand": "iMin",
-   "name": "Swift1Pro",
+   "name": "Swift 1 Pro",
    "model": "I23M03"
   }
  ],
  "Swift2": [
   {
    "brand": "iMin",
-   "name": "Swift2_GL",
+   "name": "Swift 2",
    "model": "I23M01_GL"
+  }
+ ],
+ "Swift2Pro": [
+  {
+   "brand": "iMin",
+   "name": "Swift 2 Pro",
+   "model": "I23M02"
   }
  ],
  "EG104": [
@@ -277541,6 +277638,13 @@
    "brand": "ioutdoor",
    "name": "Polar3_EEA",
    "model": "Polar3"
+  }
+ ],
+ "H800": [
+  {
+   "brand": "jHon",
+   "name": "H800",
+   "model": "H800"
   }
  ],
  "MT1": [
