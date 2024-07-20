@@ -31230,6 +31230,13 @@
    "model": "BQ-6645L"
   }
  ],
+ "BQ6761": [
+  {
+   "brand": "BQru",
+   "name": "BQ-6761",
+   "model": "BQ-6761"
+  }
+ ],
  "BQru-6868L": [
   {
    "brand": "BQru",
@@ -106415,6 +106422,13 @@
    "model": "Infinix X6731B"
   }
  ],
+ "Infinix-X6860": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO 40",
+   "model": "Infinix X6860"
+  }
+ ],
  "Infinix-X6815B": [
   {
    "brand": "Infinix",
@@ -148701,6 +148715,13 @@
    "model": "SmartE11"
   }
  ],
+ "Smart_E25": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart E25",
+   "model": "Smart E25"
+  }
+ ],
  "MobiWire_Verda": [
   {
    "brand": "Mobiwire",
@@ -173301,6 +173322,20 @@
    "brand": "Panasonic",
    "name": "SPU-A05-SWG",
    "model": "SPU-A05-SWG"
+  }
+ ],
+ "SPU-A06L-LWG": [
+  {
+   "brand": "Panasonic",
+   "name": "SPU-A06L-LWG",
+   "model": "SPU-A06L-LWG"
+  }
+ ],
+ "SPU-A07-LSG": [
+  {
+   "brand": "Panasonic",
+   "name": "SPU-A07-LSG",
+   "model": "SPU-A07-LSG"
   }
  ],
  "T31": [

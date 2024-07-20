@@ -16028,6 +16028,11 @@
    "model": "BQ-6645L"
   },
   {
+   "device": "BQ6761",
+   "name": "BQ-6761",
+   "model": "BQ-6761"
+  },
+  {
    "device": "BQru-6868L",
    "name": "BQ-6868L",
    "model": "BQru-6868L"
@@ -75473,6 +75478,11 @@
    "model": "Infinix X6731B"
   },
   {
+   "device": "Infinix-X6860",
+   "name": "Infinix ZERO 40",
+   "model": "Infinix X6860"
+  },
+  {
    "device": "Infinix-X6815B",
    "name": "Infinix ZERO 5G",
    "model": "Infinix X6815B"
@@ -110900,6 +110910,11 @@
    "model": "SmartE11"
   },
   {
+   "device": "Smart_E25",
+   "name": "Smart E25",
+   "model": "Smart E25"
+  },
+  {
    "device": "MobiWire_Verda",
    "name": "Smart Green",
    "model": "Smart_Green"
@@ -131554,6 +131569,16 @@
    "device": "SPU-A05-SWG",
    "name": "SPU-A05-SWG",
    "model": "SPU-A05-SWG"
+  },
+  {
+   "device": "SPU-A06L-LWG",
+   "name": "SPU-A06L-LWG",
+   "model": "SPU-A06L-LWG"
+  },
+  {
+   "device": "SPU-A07-LSG",
+   "name": "SPU-A07-LSG",
+   "model": "SPU-A07-LSG"
   },
   {
    "device": "K1",

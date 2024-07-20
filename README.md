@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-19
+Last sync is 2024-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3104,6 +3104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6424L|BQru-6424L|BQ-6424L|
 |BQru|BQ-6630L|BQru-6630L|BQ-6630L|
 |BQru|BQ-6645L Element|BQru-6645L|BQ-6645L|
+|BQru|BQ-6761|BQ6761|BQ-6761|
 |BQru|BQ-6868L|BQru-6868L|BQru-6868L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
 |BQru|BQ-7000G|BQru-7000G_2020|BQ-7000G|
@@ -14635,6 +14636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
 |Infinix|Infinix ZERO 20|Infinix-X6821|Infinix X6821|
 |Infinix|Infinix ZERO 30|Infinix-X6731B|Infinix X6731B|
+|Infinix|Infinix ZERO 40|Infinix-X6860|Infinix X6860|
 |Infinix|Infinix ZERO 5G|Infinix-X6815B|Infinix X6815B|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
 |Infinix|Infinix ZERO X|Infinix-X6811B|Infinix X6811B|
@@ -21552,6 +21554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Smart C11|Kicka_5_U|Smart C11|
 |Mobiwire|Smart E11|Smart_E11|SmartE11|
 |Mobiwire|Smart E11|Smart_E11_1|SmartE11|
+|Mobiwire|Smart E25|Smart_E25|Smart E25|
 |Mobiwire|Smart Green|MobiWire_Verda|Smart_Green|
 |Mobiwire|Smart Green|MobiWire_Verda|Vodafone Lite 4G|
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
@@ -25568,6 +25571,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|SM17|SM17|Smart Monitor 17|
 |Panasonic|SMLK2A|SMLK2A|SMLK2A|
 |Panasonic|SPU-A05-SWG|SPU-A05-SWG|SPU-A05-SWG|
+|Panasonic|SPU-A06L-LWG|SPU-A06L-LWG|SPU-A06L-LWG|
+|Panasonic|SPU-A07-LSG|SPU-A07-LSG|SPU-A07-LSG|
 |Panasonic|SV-ME1000|K1|Panasonic SV-ME1000|
 |Panasonic|SmartTVBox|C01AS|SMARTTVBOX|
 |Panasonic|T11|T11|Panasonic T11|

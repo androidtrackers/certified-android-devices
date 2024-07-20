@@ -30672,6 +30672,13 @@
    "model": "BQ-6645L"
   }
  ],
+ "BQ-6761": [
+  {
+   "brand": "BQru",
+   "device": "BQ6761",
+   "model": "BQ-6761"
+  }
+ ],
  "BQ-6868L": [
   {
    "brand": "BQru",
@@ -107283,6 +107290,13 @@
    "model": "Infinix X6731B"
   }
  ],
+ "Infinix ZERO 40": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6860",
+   "model": "Infinix X6860"
+  }
+ ],
  "Infinix ZERO 5G": [
   {
    "brand": "Infinix",
@@ -148468,6 +148482,13 @@
    "model": "SmartE11"
   }
  ],
+ "Smart E25": [
+  {
+   "brand": "Mobiwire",
+   "device": "Smart_E25",
+   "model": "Smart E25"
+  }
+ ],
  "Smart Green": [
   {
    "brand": "Mobiwire",
@@ -172473,6 +172494,20 @@
    "brand": "Panasonic",
    "device": "SPU-A05-SWG",
    "model": "SPU-A05-SWG"
+  }
+ ],
+ "SPU-A06L-LWG": [
+  {
+   "brand": "Panasonic",
+   "device": "SPU-A06L-LWG",
+   "model": "SPU-A06L-LWG"
+  }
+ ],
+ "SPU-A07-LSG": [
+  {
+   "brand": "Panasonic",
+   "device": "SPU-A07-LSG",
+   "model": "SPU-A07-LSG"
   }
  ],
  "SV-ME1000": [
