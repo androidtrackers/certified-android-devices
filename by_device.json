@@ -13807,6 +13807,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "DANILUX",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DIGGIO",
    "model": "DIGGIO GOOGLE TV 4K"
   },
@@ -13874,6 +13879,11 @@
    "brand": "KTCtv",
    "name": "VEIRA",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIOTTO",
+   "model": "4K SMART ISDB TV"
   },
   {
    "brand": "KTCtv",
@@ -34120,6 +34130,11 @@
    "brand": "Blackview",
    "name": "A52 Pro",
    "model": "A52 Pro"
+  },
+  {
+   "brand": "Blackview",
+   "name": "A52 Pro",
+   "model": "A52 Pro(6+128GB)"
   }
  ],
  "A53": [
@@ -78411,6 +78426,13 @@
    "brand": "HDC S.A.",
    "name": "HDC",
    "model": "TK718"
+  }
+ ],
+ "T10I-4128": [
+  {
+   "brand": "HDC S.A.",
+   "name": "T10I-4128",
+   "model": "T10I-4128"
   }
  ],
  "T10_232": [
@@ -136795,6 +136817,23 @@
    "model": "LOGIC L66 PRO"
   }
  ],
+ "LOGIC_L66M": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L66M",
+   "model": "L66M"
+  },
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L66M",
+   "model": "L66M"
+  },
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L66M",
+   "model": "LOGIC L66M"
+  }
+ ],
  "LOGIC_L68": [
   {
    "brand": "Logic Mobility",
@@ -136905,18 +136944,6 @@
    "brand": "Logic Mobility",
    "name": "LOGIC_L65",
    "model": "LOGIC L65"
-  }
- ],
- "LOGIC_L66M": [
-  {
-   "brand": "Logic Mobility",
-   "name": "LOGIC_L66M",
-   "model": "L66M"
-  },
-  {
-   "brand": "Logic Mobility",
-   "name": "LOGIC_L66M",
-   "model": "LOGIC L66M"
   }
  ],
  "LOGIC_T10M": [
@@ -148509,6 +148536,13 @@
    "brand": "Mobiwire",
    "name": "MobiWire Halona",
    "model": "Halona"
+  }
+ ],
+ "H5111L": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L",
+   "model": "H5111L"
   }
  ],
  "H5112": [
@@ -161698,6 +161732,13 @@
    "brand": "Nuu",
    "name": "M6",
    "model": "S6503L"
+  }
+ ],
+ "S6514LA": [
+  {
+   "brand": "Nuu",
+   "name": "N13",
+   "model": "S6514L"
   }
  ],
  "N4L": [

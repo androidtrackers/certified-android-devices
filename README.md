@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-20
+Last sync is 2024-07-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3513,6 +3513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|A50|A50|A50|
 |Blackview|A52|A52|A52|
 |Blackview|A52 Pro|A52Pro|A52 Pro|
+|Blackview|A52 Pro|A52Pro|A52 Pro(6+128GB)|
 |Blackview|A53|A53|A53|
 |Blackview|A53 Pro|A53_Pro|A53 Pro|
 |Blackview|A55|A55|A55|
@@ -9844,6 +9845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
 |HDC S.A.|H7_ONE|H7_ONE|H7_ONE|
 |HDC S.A.|HDC|TK718|TK718|
+|HDC S.A.|T10I-4128|T10I-4128|T10I-4128|
 |HDC S.A.|T10_232|T10_232|T10_232|
 |HDC S.A.|T700B|T700B|T700B|
 |HDC S.A.|T7I_232|T7I_232|T7I_232|
@@ -15986,6 +15988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
+|KTCtv|DANILUX|lavender|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
 |KTCtv|DIGGIO|hongkong|DIGGIO GOOGLE TV 4K|
 |KTCtv|DIGGIO|lavender|DIGGIO GOOGLE TV 4K|
@@ -16071,6 +16074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
+|KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
@@ -19682,6 +19686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|L66|L66|L66|
 |Logic Mobility|L66 LITE|L66_LITE|L66 LITE|
 |Logic Mobility|L66 PRO|L66_PRO|LOGIC L66 PRO|
+|Logic Mobility|L66M|LOGIC_L66M|L66M|
 |Logic Mobility|L68|LOGIC_L68|LOGIC L68|
 |Logic Mobility|L68 Ultra|L68_Ultra|L68_Ultra|
 |Logic Mobility|LOGIC  L55V  PLUS|LOGIC_L55V_PLUS|LOGIC L55V PLUS|
@@ -21515,6 +21520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H|Halona|Halona|
 |Mobiwire|H5111|H5111|H5111|
 |Mobiwire|H5111|H5111|Kicka 6 Plus 4G|
+|Mobiwire|H5111L|H5111L|H5111L|
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6682|H6682|H6682|
@@ -23683,6 +23689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|M2|NUU_M2|NUU_M2|
 |Nuu|M3|NUU_M3|NUU_M3|
 |Nuu|M6|S6503LE|S6503L|
+|Nuu|N13|S6514LA|S6514L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
 |Nuu|N6001L|N6001LA|N6001L|

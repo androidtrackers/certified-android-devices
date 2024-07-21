@@ -34083,6 +34083,11 @@
    "brand": "Blackview",
    "device": "A52Pro",
    "model": "A52 Pro"
+  },
+  {
+   "brand": "Blackview",
+   "device": "A52Pro",
+   "model": "A52 Pro(6+128GB)"
   }
  ],
  "A53 Pro": [
@@ -80049,6 +80054,13 @@
    "model": "TK718"
   }
  ],
+ "T10I-4128": [
+  {
+   "brand": "HDC S.A.",
+   "device": "T10I-4128",
+   "model": "T10I-4128"
+  }
+ ],
  "T10_232": [
   {
    "brand": "HDC S.A.",
@@ -115575,6 +115587,11 @@
   },
   {
    "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "mountbaker",
    "model": "2K SMART TV"
   }
@@ -116079,6 +116096,11 @@
   }
  ],
  "VIOTTO": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART ISDB TV"
+  },
   {
    "brand": "KTCtv",
    "device": "lavender",
@@ -136759,6 +136781,13 @@
    "model": "LOGIC L66 PRO"
   }
  ],
+ "L66M": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_L66M",
+   "model": "L66M"
+  }
+ ],
  "L68": [
   {
    "brand": "Logic Mobility",
@@ -148233,6 +148262,13 @@
    "brand": "Mobiwire",
    "device": "H5111",
    "model": "Kicka 6 Plus 4G"
+  }
+ ],
+ "H5111L": [
+  {
+   "brand": "Mobiwire",
+   "device": "H5111L",
+   "model": "H5111L"
   }
  ],
  "H5112": [
@@ -161015,6 +161051,13 @@
    "brand": "Nuu",
    "device": "S5501LE",
    "model": "S5501L"
+  }
+ ],
+ "N13": [
+  {
+   "brand": "Nuu",
+   "device": "S6514LA",
+   "model": "S6514L"
   }
  ],
  "N4L": [

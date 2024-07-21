@@ -3140,6 +3140,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "DANILUX",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DYANORA",
    "device": "zhongshan"
   },
@@ -29256,6 +29261,13 @@
   }
  ],
  "A52 Pro": [
+  {
+   "brand": "Blackview",
+   "name": "A52 Pro",
+   "device": "A52Pro"
+  }
+ ],
+ "A52 Pro(6+128GB)": [
   {
    "brand": "Blackview",
    "name": "A52 Pro",
@@ -73965,6 +73977,13 @@
    "device": "TK718"
   }
  ],
+ "T10I-4128": [
+  {
+   "brand": "HDC S.A.",
+   "name": "T10I-4128",
+   "device": "T10I-4128"
+  }
+ ],
  "T10_232": [
   {
    "brand": "HDC S.A.",
@@ -101625,6 +101644,11 @@
   {
    "brand": "Hyundai",
    "name": "HYUNDAI",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIOTTO",
    "device": "lavender"
   }
  ],
@@ -138038,6 +138062,18 @@
    "device": "L66_PRO"
   }
  ],
+ "L66M": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L66M",
+   "device": "LOGIC_L66M"
+  },
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L66M",
+   "device": "LOGIC_L66M"
+  }
+ ],
  "LOGIC L68": [
   {
    "brand": "Logic Mobility",
@@ -138141,13 +138177,6 @@
    "brand": "Logic Mobility",
    "name": "LOGIC_L65",
    "device": "LOGIC_L65"
-  }
- ],
- "L66M": [
-  {
-   "brand": "Logic Mobility",
-   "name": "LOGIC_L66M",
-   "device": "LOGIC_L66M"
   }
  ],
  "LOGIC L66M": [
@@ -149878,6 +149907,13 @@
    "brand": "Mobiwire",
    "name": "Kicka 6 Plus 4G",
    "device": "H5032U"
+  }
+ ],
+ "H5111L": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L",
+   "device": "H5111L"
   }
  ],
  "H5112": [
@@ -163456,6 +163492,13 @@
    "brand": "Nuu",
    "name": "M6",
    "device": "S6503LE"
+  }
+ ],
+ "S6514L": [
+  {
+   "brand": "Nuu",
+   "name": "N13",
+   "device": "S6514LA"
   }
  ],
  "N4L": [

@@ -18187,6 +18187,11 @@
    "model": "A52 Pro"
   },
   {
+   "device": "A52Pro",
+   "name": "A52 Pro",
+   "model": "A52 Pro(6+128GB)"
+  },
+  {
    "device": "A53",
    "name": "A53",
    "model": "A53"
@@ -51184,6 +51189,11 @@
    "model": "TK718"
   },
   {
+   "device": "T10I-4128",
+   "name": "T10I-4128",
+   "model": "T10I-4128"
+  },
+  {
    "device": "T10_232",
    "name": "T10_232",
    "model": "T10_232"
@@ -82440,6 +82450,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "lavender",
+   "name": "DANILUX",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "DANILUX",
    "model": "2K SMART TV"
@@ -82863,6 +82878,11 @@
    "device": "mountbaker",
    "name": "VEIRA",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "VIOTTO",
+   "model": "4K SMART ISDB TV"
   },
   {
    "device": "lavender",
@@ -101232,6 +101252,11 @@
    "model": "LOGIC L66 PRO"
   },
   {
+   "device": "LOGIC_L66M",
+   "name": "L66M",
+   "model": "L66M"
+  },
+  {
    "device": "LOGIC_L68",
    "name": "L68",
    "model": "LOGIC L68"
@@ -110713,6 +110738,11 @@
    "device": "H5111",
    "name": "H5111",
    "model": "Kicka 6 Plus 4G"
+  },
+  {
+   "device": "H5111L",
+   "name": "H5111L",
+   "model": "H5111L"
   },
   {
    "device": "H5112",
@@ -121861,6 +121891,11 @@
    "device": "S6503LE",
    "name": "M6",
    "model": "S6503L"
+  },
+  {
+   "device": "S6514LA",
+   "name": "N13",
+   "model": "S6514L"
   },
   {
    "device": "N4L",
