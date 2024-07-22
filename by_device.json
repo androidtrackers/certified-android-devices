@@ -163713,6 +163713,18 @@
    "model": "CPH2493"
   }
  ],
+ "OP5E93L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord 4",
+   "model": "CPH2661"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord 4",
+   "model": "CPH2663"
+  }
+ ],
  "OP555BL1": [
   {
    "brand": "OnePlus",
@@ -209178,6 +209190,20 @@
    "model": "SM-F731W"
   }
  ],
+ "SC-54E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip6",
+   "model": "SC-54E"
+  }
+ ],
+ "SCG29": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip6",
+   "model": "SCG29"
+  }
+ ],
  "b6q": [
   {
    "brand": "Samsung",
@@ -209393,6 +209419,20 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold5",
    "model": "SM-F946W"
+  }
+ ],
+ "SC-55E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold6",
+   "model": "SC-55E"
+  }
+ ],
+ "SCG28": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold6",
+   "model": "SCG28"
   }
  ],
  "q6q": [
@@ -244829,6 +244869,13 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G7_5G",
    "model": "PG3NBG7YB"
+  }
+ ],
+ "G9_5G": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G9 5G",
+   "model": "UMIDIGI G9 5G"
   }
  ],
  "UMIDIGI_X": [

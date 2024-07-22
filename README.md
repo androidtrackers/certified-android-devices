@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-21
+Last sync is 2024-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24060,6 +24060,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2401|
 |OnePlus|OnePlus Nord 3 5G|OP556FL1|CPH2491|
 |OnePlus|OnePlus Nord 3 5G|OP556FL1|CPH2493|
+|OnePlus|OnePlus Nord 4|OP5E93L1|CPH2661|
+|OnePlus|OnePlus Nord 4|OP5E93L1|CPH2663|
 |OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
@@ -31547,6 +31549,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip5|b5q|SM-F731U|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731U1|
 |Samsung|Galaxy Z Flip5|b5q|SM-F731W|
+|Samsung|Galaxy Z Flip6|SC-54E|SC-54E|
+|Samsung|Galaxy Z Flip6|SCG29|SCG29|
 |Samsung|Galaxy Z Flip6|b6q|SM-F7410|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741B|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741N|
@@ -31586,6 +31590,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold5|q5q|SM-F946U|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946U1|
 |Samsung|Galaxy Z Fold5|q5q|SM-F946W|
+|Samsung|Galaxy Z Fold6|SC-55E|SC-55E|
+|Samsung|Galaxy Z Fold6|SCG28|SCG28|
 |Samsung|Galaxy Z Fold6|q6q|SM-F9560|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956B|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956N|
@@ -37638,6 +37644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI G7|G7|PG3NBG7YA|
 |Umidigi|UMIDIGI G7_5G|G7_5G|PG3NBG7YB|
 |Umidigi|UMIDIGI G7_EEA|G7|PG3NBG7YA|
+|Umidigi|UMIDIGI G9 5G|G9_5G|UMIDIGI G9 5G|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|

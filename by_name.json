@@ -163064,6 +163064,18 @@
    "model": "CPH2493"
   }
  ],
+ "OnePlus Nord 4": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5E93L1",
+   "model": "CPH2661"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5E93L1",
+   "model": "CPH2663"
+  }
+ ],
  "OnePlus Nord CE 2": [
   {
    "brand": "OnePlus",
@@ -207365,6 +207377,16 @@
  "Galaxy Z Flip6": [
   {
    "brand": "Samsung",
+   "device": "SC-54E",
+   "model": "SC-54E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG29",
+   "model": "SCG29"
+  },
+  {
+   "brand": "Samsung",
    "device": "b6q",
    "model": "SM-F7410"
   },
@@ -207568,6 +207590,16 @@
   }
  ],
  "Galaxy Z Fold6": [
+  {
+   "brand": "Samsung",
+   "device": "SC-55E",
+   "model": "SC-55E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG28",
+   "model": "SCG28"
+  },
   {
    "brand": "Samsung",
    "device": "q6q",
@@ -243254,6 +243286,13 @@
    "brand": "Umidigi",
    "device": "G7",
    "model": "PG3NBG7YA"
+  }
+ ],
+ "UMIDIGI G9 5G": [
+  {
+   "brand": "Umidigi",
+   "device": "G9_5G",
+   "model": "UMIDIGI G9 5G"
   }
  ],
  "UMIDIGI X": [
