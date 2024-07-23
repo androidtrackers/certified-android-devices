@@ -73004,6 +73004,11 @@
    "model": "i3COMPUTER-A01-OPS"
   },
   {
+   "device": "i3SIXTY-3",
+   "name": "i3SIXTY-3",
+   "model": "i3SIXTY-3"
+  },
+  {
    "device": "i3TOUCH-X3",
    "name": "i3TOUCH-X3",
    "model": "i3TOUCH-X3"
@@ -176042,6 +176047,16 @@
    "model": "T702M"
   },
   {
+   "device": "Bee_One",
+   "name": "TCL 501",
+   "model": "T433D"
+  },
+  {
+   "device": "Bee_One",
+   "name": "TCL 501",
+   "model": "T433E"
+  },
+  {
    "device": "Rio_CAN",
    "name": "TCL 502",
    "model": "T432J"
@@ -222969,14 +222984,14 @@
    "model": "sti6140d360"
   },
   {
+   "device": "XNA",
+   "name": "onn. Full HD Streaming Device",
+   "model": "onn. Full HD Streaming Device"
+  },
+  {
    "device": "SNA",
    "name": "onn. Streaming Device 4K pro",
    "model": "onn. Streaming Device 4K pro"
-  },
-  {
-   "device": "XNA",
-   "name": "onn_2k_gtv",
-   "model": "onn. Full HD Streaming Device"
   }
  ],
  "pendo": [
@@ -223112,6 +223127,11 @@
    "device": "RE5C9F",
    "name": "RMX3834",
    "model": "RMX3834"
+  },
+  {
+   "device": "RE6063L1",
+   "name": "RMX3871",
+   "model": "RMX3871"
   },
   {
    "device": "RE6054",
@@ -223277,6 +223297,11 @@
    "device": "RE5C6CL1",
    "name": "realme 11x 5G",
    "model": "RMX3785"
+  },
+  {
+   "device": "RE6063L1",
+   "name": "realme 12",
+   "model": "RMX3871"
   },
   {
    "device": "RE5C94L1",

@@ -104289,6 +104289,13 @@
    "model": "i3COMPUTER-A01-OPS"
   }
  ],
+ "i3SIXTY-3": [
+  {
+   "brand": "I3-TECHNOLOGIES",
+   "device": "i3SIXTY-3",
+   "model": "i3SIXTY-3"
+  }
+ ],
  "i3TOUCH-X3": [
   {
    "brand": "I3-TECHNOLOGIES",
@@ -223856,6 +223863,18 @@
    "model": "T702M"
   }
  ],
+ "TCL 501": [
+  {
+   "brand": "TCL",
+   "device": "Bee_One",
+   "model": "T433D"
+  },
+  {
+   "brand": "TCL",
+   "device": "Bee_One",
+   "model": "T433E"
+  }
+ ],
  "TCL 502": [
   {
    "brand": "TCL",
@@ -276856,18 +276875,18 @@
    "model": "sti6140d360"
   }
  ],
+ "onn. Full HD Streaming Device": [
+  {
+   "brand": "onn.",
+   "device": "XNA",
+   "model": "onn. Full HD Streaming Device"
+  }
+ ],
  "onn. Streaming Device 4K pro": [
   {
    "brand": "onn.",
    "device": "SNA",
    "model": "onn. Streaming Device 4K pro"
-  }
- ],
- "onn_2k_gtv": [
-  {
-   "brand": "onn.",
-   "device": "XNA",
-   "model": "onn. Full HD Streaming Device"
   }
  ],
  "PNDPP44QC10": [
@@ -277008,6 +277027,13 @@
    "brand": "realme",
    "device": "RE5C9F",
    "model": "RMX3834"
+  }
+ ],
+ "RMX3871": [
+  {
+   "brand": "realme",
+   "device": "RE6063L1",
+   "model": "RMX3871"
   }
  ],
  "RMX3933": [
@@ -277204,6 +277230,13 @@
    "brand": "realme",
    "device": "RE5C6CL1",
    "model": "RMX3785"
+  }
+ ],
+ "realme 12": [
+  {
+   "brand": "realme",
+   "device": "RE6063L1",
+   "model": "RMX3871"
   }
  ],
  "realme 12 5G": [

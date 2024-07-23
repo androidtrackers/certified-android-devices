@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-22
+Last sync is 2024-07-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14166,6 +14166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |I-Scream|E1012T|ET1012T|ET1012T|
 |I-Scream|i-Screamedu|HL106|HL106|
 |I3-TECHNOLOGIES|GOOGLE EDLA CERTIFIED SLOT-IN OPS|i3COMPUTER-A01-OPS|i3COMPUTER-A01-OPS|
+|I3-TECHNOLOGIES|i3SIXTY-3|i3SIXTY-3|i3SIXTY-3|
 |I3-TECHNOLOGIES|i3TOUCH-X3|i3TOUCH-X3|i3TOUCH-X3|
 |IAIWAI|A103|A103|A103|
 |ICL-KME CS OJSC|TR10CD1|TR10CD1_7|TR10CD1|
@@ -34284,6 +34285,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 SE|Ladybird|T611B|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
 |TCL|TCL 50 XL NXTPAPER 5G|Goldfinch_Pro_CS|T702M|
+|TCL|TCL 501|Bee_One|T433D|
+|TCL|TCL 501|Bee_One|T433E|
 |TCL|TCL 502|Rio_CAN|T432J|
 |TCL|TCL 505|Ant|T509A|
 |TCL|TCL 505|Ant|T509K|
@@ -43407,8 +43410,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|Tablet Gen 4|100135925|100135925|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
+|onn.|onn. Full HD Streaming Device|XNA|onn. Full HD Streaming Device|
 |onn.|onn. Streaming Device 4K pro|SNA|onn. Streaming Device 4K pro|
-|onn.|onn_2k_gtv|XNA|onn. Full HD Streaming Device|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |preo|PTABP10|PTABP10|PTABP10|
@@ -43434,6 +43437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3771|RE58B8L1|RMX3771|
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
+|realme|RMX3871|RE6063L1|RMX3871|
 |realme|RMX3933|RE6054|RMX3933|
 |realme|RMX3939|RE6054|RMX3939|
 |realme|RMX3997|RE5C9AL1|RMX3997|
@@ -43467,6 +43471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 11 Pro+|RE5865|RMX3740|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 11x 5G|RE5C6CL1|RMX3785|
+|realme|realme 12|RE6063L1|RMX3871|
 |realme|realme 12 5G|RE5C94L1|RMX3999|
 |realme|realme 12 Lite|RE5C91L1|RMX3890|
 |realme|realme 12 Pro 5G|RE5C84L1|RMX3842|
