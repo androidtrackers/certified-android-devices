@@ -44203,6 +44203,18 @@
    "model": "H1010"
   }
  ],
+ "A10_EEA": [
+  {
+   "brand": "Caxilysh",
+   "device": "A10",
+   "model": "A10"
+  },
+  {
+   "brand": "Odea",
+   "device": "A10_EEA",
+   "model": "A10"
+  }
+ ],
  "Cedar CT8X2": [
   {
    "brand": "Cedar",
@@ -162353,13 +162365,6 @@
    "model": "Octopus_One"
   }
  ],
- "A10_EEA": [
-  {
-   "brand": "Odea",
-   "device": "A10_EEA",
-   "model": "A10"
-  }
- ],
  "A10_ROW": [
   {
    "brand": "Odea",
@@ -185952,6 +185957,13 @@
    "brand": "Redmi",
    "device": "manet",
    "model": "23117RK66C"
+  }
+ ],
+ "Redmi K70 Ultra": [
+  {
+   "brand": "Redmi",
+   "device": "rothko",
+   "model": "2407FRK8EC"
   }
  ],
  "Redmi K70E": [
@@ -260153,6 +260165,18 @@
    "model": "24053PY09C"
   }
  ],
+ "Xiaomi MIX Flip": [
+  {
+   "brand": "Xiaomi",
+   "device": "ruyi",
+   "model": "2405CPX3DC"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "ruyi",
+   "model": "2405CPX3DG"
+  }
+ ],
  "Xiaomi MIX Fold": [
   {
    "brand": "Xiaomi",
@@ -260172,6 +260196,13 @@
    "brand": "Xiaomi",
    "device": "babylon",
    "model": "2308CPXD0C"
+  }
+ ],
+ "Xiaomi MIX Fold 4": [
+  {
+   "brand": "Xiaomi",
+   "device": "goku",
+   "model": "Xiaomi for arm64"
   }
  ],
  "Xiaomi Pad 5": [
@@ -273586,6 +273617,13 @@
    "model": "AMS-R2O"
   }
  ],
+ "AMS_R2C": [
+  {
+   "brand": "careai",
+   "device": "AMS_R2C",
+   "model": "AMS-R2C"
+  }
+ ],
  "carp 2K Android TV": [
   {
    "brand": "carp(IN)",
@@ -278597,6 +278635,25 @@
    "brand": "ucall",
    "device": "EASY1",
    "model": "EASY1"
+  }
+ ],
+ "UT1Lite_NOEEA": [
+  {
+   "brand": "ugee",
+   "device": "ugeeUT1Lite_NOEEA",
+   "model": "UT2"
+  }
+ ],
+ "UT2": [
+  {
+   "brand": "ugee",
+   "device": "ugeeUT1Lite_EEA",
+   "model": "UT2"
+  },
+  {
+   "brand": "ugee",
+   "device": "ugeeUT1Lite_RU",
+   "model": "UT2"
   }
  ],
  "U901": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-23
+Last sync is 2024-07-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4837,6 +4837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cavion|Base_72_GO|Base_72_GO|Base_72_GO|
 |Cavion|M1092Q|M1092Q|M1092Q|
 |Cavion|base10.3g silver|base10_3g_silver|base10_3g_silver|
+|Caxilysh|A10_EEA|A10|A10|
 |Cedar|Cedar CT8X2|CT8X2|CT8X2|
 |Cedar|Cedar CT8X2|CT8XEU|CT8XEU|
 |Ceibal|A102|A102|A102|
@@ -27702,6 +27703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K60E|rembrandt|22122RK93C|
 |Redmi|Redmi K70|vermeer|23113RKC6C|
 |Redmi|Redmi K70 Pro|manet|23117RK66C|
+|Redmi|Redmi K70 Ultra|rothko|2407FRK8EC|
 |Redmi|Redmi K70E|duchamp|2311DRK48C|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
@@ -40432,9 +40434,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
+|Xiaomi|Xiaomi MIX Flip|ruyi|2405CPX3DC|
+|Xiaomi|Xiaomi MIX Flip|ruyi|2405CPX3DG|
 |Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|
 |Xiaomi|Xiaomi MIX Fold 2|zizhan|22061218C|
 |Xiaomi|Xiaomi MIX Fold 3|babylon|2308CPXD0C|
+|Xiaomi|Xiaomi MIX Fold 4|goku|Xiaomi for arm64|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182G|
 |Xiaomi|Xiaomi Pad 5 Pro|dagu|22081281AC|
@@ -42857,6 +42862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|M8|Aquaris_M8|Aquaris M8|
 |care.ai|AIM H1|AIM-H1|AIM H1|
 |care.ai|AMS-R2O|AMS_R2O|AMS-R2O|
+|careai|AMS_R2C|AMS_R2C|AMS-R2C|
 |carp(IN)|carp 2K Android TV|lasalle|carp 2K Android TV|
 |carp(IN)|carp 4K Android TV|kenton|carp 4K Android TV|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|
@@ -43702,6 +43708,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |uLesson|uLesson_Education_Tab|uLesson_Education_Tab|uLesson_Education_Tab|
 |uLesson|uLesson_Education_Tab_V2|uLesson_Tab_V2|uLesson_Education_Tab_V2|
 |ucall|EASY1|EASY1|EASY1|
+|ugee|UT1Lite_NOEEA|ugeeUT1Lite_NOEEA|UT2|
+|ugee|UT2|ugeeUT1Lite_EEA|UT2|
+|ugee|UT2|ugeeUT1Lite_RU|UT2|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|
 |unitel|U902|U902|U902|

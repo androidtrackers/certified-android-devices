@@ -25037,6 +25037,13 @@
    "model": "base10_3g_silver"
   }
  ],
+ "Caxilysh": [
+  {
+   "device": "A10",
+   "name": "A10_EEA",
+   "model": "A10"
+  }
+ ],
  "Cedar": [
   {
    "device": "CT8X2",
@@ -142528,6 +142535,11 @@
    "model": "23117RK66C"
   },
   {
+   "device": "rothko",
+   "name": "Redmi K70 Ultra",
+   "model": "2407FRK8EC"
+  },
+  {
    "device": "duchamp",
    "name": "Redmi K70E",
    "model": "2311DRK48C"
@@ -207650,6 +207662,16 @@
    "model": "24053PY09C"
   },
   {
+   "device": "ruyi",
+   "name": "Xiaomi MIX Flip",
+   "model": "2405CPX3DC"
+  },
+  {
+   "device": "ruyi",
+   "name": "Xiaomi MIX Flip",
+   "model": "2405CPX3DG"
+  },
+  {
    "device": "cetus",
    "name": "Xiaomi MIX Fold",
    "model": "M2011J18C"
@@ -207663,6 +207685,11 @@
    "device": "babylon",
    "name": "Xiaomi MIX Fold 3",
    "model": "2308CPXD0C"
+  },
+  {
+   "device": "goku",
+   "name": "Xiaomi MIX Fold 4",
+   "model": "Xiaomi for arm64"
   },
   {
    "device": "nabu",
@@ -220005,6 +220032,13 @@
    "model": "AMS-R2O"
   }
  ],
+ "careai": [
+  {
+   "device": "AMS_R2C",
+   "name": "AMS_R2C",
+   "model": "AMS-R2C"
+  }
+ ],
  "carp(IN)": [
   {
    "device": "lasalle",
@@ -224496,6 +224530,23 @@
    "device": "EASY1",
    "name": "EASY1",
    "model": "EASY1"
+  }
+ ],
+ "ugee": [
+  {
+   "device": "ugeeUT1Lite_NOEEA",
+   "name": "UT1Lite_NOEEA",
+   "model": "UT2"
+  },
+  {
+   "device": "ugeeUT1Lite_EEA",
+   "name": "UT2",
+   "model": "UT2"
+  },
+  {
+   "device": "ugeeUT1Lite_RU",
+   "name": "UT2",
+   "model": "UT2"
   }
  ],
  "unitel": [

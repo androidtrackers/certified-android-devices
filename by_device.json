@@ -8051,6 +8051,11 @@
    "model": "A10"
   },
   {
+   "brand": "Caxilysh",
+   "name": "A10_EEA",
+   "model": "A10"
+  },
+  {
    "brand": "Concord",
    "name": "A10",
    "model": "A10"
@@ -185947,6 +185952,13 @@
    "model": "23117RK66C"
   }
  ],
+ "rothko": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K70 Ultra",
+   "model": "2407FRK8EC"
+  }
+ ],
  "sunny": [
   {
    "brand": "Redmi",
@@ -261332,6 +261344,18 @@
    "model": "2109119BC"
   }
  ],
+ "ruyi": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Flip",
+   "model": "2405CPX3DC"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Flip",
+   "model": "2405CPX3DG"
+  }
+ ],
  "cetus": [
   {
    "brand": "Xiaomi",
@@ -261351,6 +261375,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi MIX Fold 3",
    "model": "2308CPXD0C"
+  }
+ ],
+ "goku": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Fold 4",
+   "model": "Xiaomi for arm64"
   }
  ],
  "nabu": [
@@ -275065,6 +275096,13 @@
    "model": "AMS-R2O"
   }
  ],
+ "AMS_R2C": [
+  {
+   "brand": "careai",
+   "name": "AMS_R2C",
+   "model": "AMS-R2C"
+  }
+ ],
  "SDA_700TAB": [
   {
    "brand": "carrozzeria",
@@ -279841,6 +279879,27 @@
    "brand": "ucall",
    "name": "EASY1",
    "model": "EASY1"
+  }
+ ],
+ "ugeeUT1Lite_NOEEA": [
+  {
+   "brand": "ugee",
+   "name": "UT1Lite_NOEEA",
+   "model": "UT2"
+  }
+ ],
+ "ugeeUT1Lite_EEA": [
+  {
+   "brand": "ugee",
+   "name": "UT2",
+   "model": "UT2"
+  }
+ ],
+ "ugeeUT1Lite_RU": [
+  {
+   "brand": "ugee",
+   "name": "UT2",
+   "model": "UT2"
   }
  ],
  "P45": [

@@ -30001,6 +30001,11 @@
    "device": "A10"
   },
   {
+   "brand": "Caxilysh",
+   "name": "A10_EEA",
+   "device": "A10"
+  },
+  {
    "brand": "Concord",
    "name": "A10",
    "device": "A10"
@@ -189057,6 +189062,13 @@
    "device": "manet"
   }
  ],
+ "2407FRK8EC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K70 Ultra",
+   "device": "rothko"
+  }
+ ],
  "2311DRK48C": [
   {
    "brand": "Redmi",
@@ -271618,6 +271630,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 14 Ultra",
    "device": "aurora"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Fold 4",
+   "device": "goku"
   }
  ],
  "2109119BC": [
@@ -271637,6 +271654,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Civi 4",
    "device": "chenfeng"
+  }
+ ],
+ "2405CPX3DC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Flip",
+   "device": "ruyi"
+  }
+ ],
+ "2405CPX3DG": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Flip",
+   "device": "ruyi"
   }
  ],
  "M2011J18C": [
@@ -287240,6 +287271,13 @@
    "device": "AMS_R2O"
   }
  ],
+ "AMS-R2C": [
+  {
+   "brand": "careai",
+   "name": "AMS_R2C",
+   "device": "AMS_R2C"
+  }
+ ],
  "carp 2K Android TV": [
   {
    "brand": "carp(IN)",
@@ -292166,6 +292204,23 @@
    "brand": "ucall",
    "name": "EASY1",
    "device": "EASY1"
+  }
+ ],
+ "UT2": [
+  {
+   "brand": "ugee",
+   "name": "UT1Lite_NOEEA",
+   "device": "ugeeUT1Lite_NOEEA"
+  },
+  {
+   "brand": "ugee",
+   "name": "UT2",
+   "device": "ugeeUT1Lite_EEA"
+  },
+  {
+   "brand": "ugee",
+   "name": "UT2",
+   "device": "ugeeUT1Lite_RU"
   }
  ],
  "P45": [
