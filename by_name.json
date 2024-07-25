@@ -10894,6 +10894,13 @@
    "model": "AK330S"
   }
  ],
+ "AS10L": [
+  {
+   "brand": "Acer",
+   "device": "AS10L",
+   "model": "AS10L"
+  }
+ ],
  "AS10W": [
   {
    "brand": "Acer",
@@ -19091,6 +19098,13 @@
    "brand": "Apolosign",
    "device": "EM101A",
    "model": "EM101A"
+  }
+ ],
+ "EM101B": [
+  {
+   "brand": "Apolosign",
+   "device": "EM101B",
+   "model": "EM101B"
   }
  ],
  "EM101B_EEA": [
@@ -37877,6 +37891,13 @@
    "model": "G64"
   }
  ],
+ "G64L": [
+  {
+   "brand": "Blu",
+   "device": "G0990",
+   "model": "G64L"
+  }
+ ],
  "G70": [
   {
    "brand": "Blu",
@@ -48171,6 +48192,13 @@
    "brand": "Compaq",
    "device": "QTAB10_1",
    "model": "QTAB10_1"
+  }
+ ],
+ "QTAB10_PLUS": [
+  {
+   "brand": "Compaq",
+   "device": "QTAB10_PLUS",
+   "model": "QTAB10_PLUS"
   }
  ],
  "QTAB8": [
@@ -112410,6 +112438,13 @@
    "model": "itel P671L"
   }
  ],
+ "itel P65C": [
+  {
+   "brand": "Itel",
+   "device": "itel-P666L",
+   "model": "itel P666L"
+  }
+ ],
  "itel Prime 4": [
   {
    "brand": "Itel",
@@ -164186,6 +164221,11 @@
    "brand": "Oppo",
    "device": "OP5A47",
    "model": "PKD130"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP5EA7L1",
+   "model": "CPH2681"
   }
  ],
  "A3中国版": [
@@ -273619,7 +273659,7 @@
  ],
  "AMS_R2C": [
   {
-   "brand": "careai",
+   "brand": "care.ai",
    "device": "AMS_R2C",
    "model": "AMS-R2C"
   }

@@ -9333,6 +9333,13 @@
    "model": "ACTABKID"
   }
  ],
+ "AS10L": [
+  {
+   "brand": "Acer",
+   "name": "AS10L",
+   "model": "AS10L"
+  }
+ ],
  "AS10W": [
   {
    "brand": "Acer",
@@ -19191,6 +19198,13 @@
    "brand": "Apolosign",
    "name": "EM101A",
    "model": "EM101A"
+  }
+ ],
+ "EM101B": [
+  {
+   "brand": "Apolosign",
+   "name": "EM101B",
+   "model": "EM101B"
   }
  ],
  "EM101B_EEA": [
@@ -37937,6 +37951,13 @@
    "model": "G64"
   }
  ],
+ "G0990": [
+  {
+   "brand": "Blu",
+   "name": "G64L",
+   "model": "G64L"
+  }
+ ],
  "G0151WW": [
   {
    "brand": "Blu",
@@ -47488,6 +47509,13 @@
    "brand": "Compaq",
    "name": "QTAB10_1",
    "model": "QTAB10_1"
+  }
+ ],
+ "QTAB10_PLUS": [
+  {
+   "brand": "Compaq",
+   "name": "QTAB10_PLUS",
+   "model": "QTAB10_PLUS"
   }
  ],
  "QTAB8": [
@@ -111718,6 +111746,13 @@
    "model": "itel P665L"
   }
  ],
+ "itel-P666L": [
+  {
+   "brand": "Itel",
+   "name": "itel P65C",
+   "model": "itel P666L"
+  }
+ ],
  "itel-W7002": [
   {
    "brand": "Itel",
@@ -164821,6 +164856,13 @@
    "brand": "Oppo",
    "name": "CPH1853",
    "model": "CPH1853"
+  }
+ ],
+ "OP5EA7L1": [
+  {
+   "brand": "Oppo",
+   "name": "A3x 5G",
+   "model": "CPH2681"
   }
  ],
  "PADM00": [
@@ -275098,7 +275140,7 @@
  ],
  "AMS_R2C": [
   {
-   "brand": "careai",
+   "brand": "care.ai",
    "name": "AMS_R2C",
    "model": "AMS-R2C"
   }

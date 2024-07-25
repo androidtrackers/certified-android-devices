@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-24
+Last sync is 2024-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -465,6 +465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
 |Acer|ACTABKID|ACTABKID|ACTABKID|
 |Acer|AK330s|C8n|AK330S|
+|Acer|AS10L|AS10L|AS10L|
 |Acer|AS10W|AS10W|AS10W|
 |Acer|AS8W|AS8W|AS8W|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
@@ -1474,6 +1475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|U10PRO|U10PRO|U10PRO|
 |Apex|Z4PRO|Z4PRO|Z4PRO|
 |Apolosign|EM101A|EM101A|EM101A|
+|Apolosign|EM101B|EM101B|EM101B|
 |Apolosign|EM101B_EEA|EM101B_EEA|EM101B_EEA|
 |Apolosign|EM103A|EM103A|EM103A|
 |Apolosign|EM103B_EEA|EP103B_EEA|EP103B_EEA|
@@ -4012,6 +4014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G63|G0860|G63|
 |Blu|G63|G0870|G63|
 |Blu|G64|G1010|G64|
+|Blu|G64L|G0990|G64L|
 |Blu|G70|G0151WW|G70|
 |Blu|G70|G0250WW|G70|
 |Blu|G70|G0251WW|G70|
@@ -5385,6 +5388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10.1|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10_1|
+|Compaq|QTAB10_PLUS|QTAB10_PLUS|QTAB10_PLUS|
 |Compaq|QTAB8|QTAB8|QTAB8|
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
 |Compaq|QTab8|QTab8|QTab8|
@@ -15454,6 +15458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P55+|itel-P663LN|itel P663LN|
 |Itel|itel P55T|itel-P665L|itel P665L|
 |Itel|itel P65|itel-P671L|itel P671L|
+|Itel|itel P65C|itel-P666L|itel P666L|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
 |Itel|itel PrimeTab 1|itel-W7002P|itel W7002P|
@@ -24235,6 +24240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3s|CPH1803|CPH1803|
 |Oppo|A3s|CPH1853|CPH1853|
 |Oppo|A3x 5G|OP5A47|PKD130|
+|Oppo|A3x 5G|OP5EA7L1|CPH2681|
 |Oppo|A3中国版|PADM00|PADM00|
 |Oppo|A3中国版|PADT00|PADT00|
 |Oppo|A3活力版 5G|OP5A47|PKD110|
@@ -42862,7 +42868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|M8|Aquaris_M8|Aquaris M8|
 |care.ai|AIM H1|AIM-H1|AIM H1|
 |care.ai|AMS-R2O|AMS_R2O|AMS-R2O|
-|careai|AMS_R2C|AMS_R2C|AMS-R2C|
+|care.ai|AMS_R2C|AMS_R2C|AMS-R2C|
 |carp(IN)|carp 2K Android TV|lasalle|carp 2K Android TV|
 |carp(IN)|carp 4K Android TV|kenton|carp 4K Android TV|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|

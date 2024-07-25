@@ -2517,6 +2517,11 @@
    "model": "AK330S"
   },
   {
+   "device": "AS10L",
+   "name": "AS10L",
+   "model": "AS10L"
+  },
+  {
    "device": "AS10W",
    "name": "AS10W",
    "model": "AS10W"
@@ -7706,6 +7711,11 @@
    "device": "EM101A",
    "name": "EM101A",
    "model": "EM101A"
+  },
+  {
+   "device": "EM101B",
+   "name": "EM101B",
+   "model": "EM101B"
   },
   {
    "device": "EM101B_EEA",
@@ -20686,6 +20696,11 @@
    "model": "G64"
   },
   {
+   "device": "G0990",
+   "name": "G64L",
+   "model": "G64L"
+  },
+  {
    "device": "G0151WW",
    "name": "G70",
    "model": "G70"
@@ -27899,6 +27914,11 @@
    "device": "QTAB10_1",
    "name": "QTAB10_1",
    "model": "QTAB10_1"
+  },
+  {
+   "device": "QTAB10_PLUS",
+   "name": "QTAB10_PLUS",
+   "model": "QTAB10_PLUS"
   },
   {
    "device": "QTAB8",
@@ -79626,6 +79646,11 @@
    "model": "itel P671L"
   },
   {
+   "device": "itel-P666L",
+   "name": "itel P65C",
+   "model": "itel P666L"
+  },
+  {
    "device": "itel_Prime4",
    "name": "itel Prime 4",
    "model": "itel Prime 4"
@@ -124755,6 +124780,11 @@
    "device": "OP5A47",
    "name": "A3x 5G",
    "model": "PKD130"
+  },
+  {
+   "device": "OP5EA7L1",
+   "name": "A3x 5G",
+   "model": "CPH2681"
   },
   {
    "device": "PADM00",
@@ -220030,9 +220060,7 @@
    "device": "AMS_R2O",
    "name": "AMS-R2O",
    "model": "AMS-R2O"
-  }
- ],
- "careai": [
+  },
   {
    "device": "AMS_R2C",
    "name": "AMS_R2C",
