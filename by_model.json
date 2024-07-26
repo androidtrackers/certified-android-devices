@@ -2262,6 +2262,11 @@
   {
    "brand": "LIBERTON",
    "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
+   "brand": "LIBERTON",
+   "name": "Smart TV",
    "device": "redwood"
   },
   {
@@ -2825,6 +2830,13 @@
    "brand": "ANEE",
    "name": "A1 Neo",
    "device": "A1_Neo"
+  }
+ ],
+ "ANEXA Android TV": [
+  {
+   "brand": "ANEXA",
+   "name": "Smart TV",
+   "device": "redwood"
   }
  ],
  "L50": [
@@ -4281,6 +4293,13 @@
    "brand": "ARRQW",
    "name": "Saudi Arabia",
    "device": "yeongdeungpo"
+  }
+ ],
+ "ARTEQLED Android TV": [
+  {
+   "brand": "ARTEQLED",
+   "name": "Smart TV",
+   "device": "redwood"
   }
  ],
  "EI101F": [
@@ -74662,13 +74681,6 @@
    "device": "Interactive_White_Board"
   }
  ],
- "W72B": [
-  {
-   "brand": "HORIZON",
-   "name": "IFPD",
-   "device": "65W72B"
-  }
- ],
  "HOT ONE": [
   {
    "brand": "HOT (il)",
@@ -89302,6 +89314,13 @@
    "brand": "Hoozo",
    "name": "YK_P30_EEA",
    "device": "YK_P30_EEA"
+  }
+ ],
+ "W72B": [
+  {
+   "brand": "Horion",
+   "name": "IFPD",
+   "device": "65W72B"
   }
  ],
  "15 Pro Max": [
@@ -154875,6 +154894,13 @@
    "device": "zeekr"
   }
  ],
+ "XT2451-4": [
+  {
+   "brand": "Motorola",
+   "name": "moto razr 50",
+   "device": "arcfox"
+  }
+ ],
  "moto tab g20": [
   {
    "brand": "Motorola",
@@ -173656,6 +173682,13 @@
    "device": "L211-EEA"
   }
  ],
+ "PT116LPREduPad": [
+  {
+   "brand": "PRAZteck",
+   "name": "PT116LPREduPad",
+   "device": "Laptop"
+  }
+ ],
  "PT7EduPad": [
   {
    "brand": "PRAZteck",
@@ -189193,6 +189226,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 10S",
    "device": "maltose"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "device": "rosemary"
   }
  ],
  "M2101K7BNY": [
@@ -290510,6 +290548,13 @@
    "brand": "onn.",
    "name": "Tablet Gen 4",
    "device": "100135925"
+  }
+ ],
+ "100146663": [
+  {
+   "brand": "onn.",
+   "name": "onn. 12 Tablet  Pro",
+   "device": "onn12TabletPro"
   }
  ],
  "onn. 4K Streaming Box": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-25
+Last sync is 2024-07-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -202,6 +202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ANDRINO|Andrino|bangbae|andrino 4K Android TV|
 |ANDRINO|Andrino|komagome|andrino 2K Android TV|
 |ANEE|A1 Neo|A1_Neo|A1_Neo|
+|ANEXA|Smart TV|redwood|ANEXA Android TV|
 |ANS|L50|L50|L50|
 |ANS|L51|L51|L51|
 |ANS|Trailblazer|rugged-smartphone|H450R|
@@ -250,6 +251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
 |ARRQW|Saudi Arabia|yeongdeungpo|ARRQW UHD Android TV|
 |ARRQW|Smart TV|longshan|AI PONT|
+|ARTEQLED|Smart TV|redwood|ARTEQLED Android TV|
 |ARTRAN|ARTRAN _EI101F|ARTRAN_EI101F|EI101F|
 |ARZOPA|P1S|P1S|P1S|
 |ASHER|Smart TV|longshan|AI PONT|
@@ -9961,7 +9963,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HORIZON|ID65HZA3B1_C|Interactive_White_Board|ID65HZA3B1_C|
 |HORIZON|ID75HZA3B1_C|Interactive_White_Board|ID75HZA3B1_C|
 |HORIZON|ID86HZA3B1_C|Interactive_White_Board|ID86HZA3B1_C|
-|HORIZON|IFPD|65W72B|W72B|
 |HOT (il)|HOT ONE|VSB3918_ALT_ME|HOT ONE|
 |HOT (il)|HOT Streamer|DV8555-KIH|HOT Streamer|
 |HOT (il)|StreamerV3|DIW377_ALT_ME|HOT Streamer V3|
@@ -12227,6 +12228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|T10A|T10A|T10A|
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
+|Horion|IFPD|65W72B|W72B|
 |Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
 |Hot Pepper|AJI|AJI|HPPR10A|
 |Hot Pepper|AP17|AP17|AP17|
@@ -18176,6 +18178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LG_Electronics|TR3PN|rk3588_t|TR3PN|
 |LIAONING YIYATONG|DISNEY_Tablet_PC|DISNEY_Tablet_PC|DS2310-70LP|
 |LIAONING YIYATONG|IRULU_MID|IRULU_MID|X10|
+|LIBERTON|Smart TV|longshan|AI PONT|
 |LIBERTON|Smart TV|redwood|AI PONT|
 |LIFE Digital|K3102_4G|K3102_4G|ITELL K3102 4G|
 |LIFE Digital|K3102_W|K3102_W|K3102_W|
@@ -22294,6 +22297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto razr 40|lynkco|XT2323-3|
 |Motorola|moto razr 40 Ultra|zeekr|XT2321-2|
+|Motorola|moto razr 50|arcfox|XT2451-4|
 |Motorola|moto tab g20|mototabg20|moto tab g20|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
@@ -25289,6 +25293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
 |POWMUS|L211-EEA|L211-EEA|L211-EEA|
+|PRAZteck|PT116LPREduPad|Laptop|PT116LPREduPad|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
 |PRIMA|PRIMA 4K Android TV|kenton|PRIMA 4K Android TV|
@@ -27722,6 +27727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
 |Redmi|Redmi Note 10 pro|chopin|M2104K10AC|
 |Redmi|Redmi Note 10S|maltose|M2101K7BL|
+|Redmi|Redmi Note 10S|rosemary|M2101K7BL|
 |Redmi|Redmi Note 10S|rosemary|M2101K7BNY|
 |Redmi|Redmi Note 10S|secret|M2101K7BG|
 |Redmi|Redmi Note 10S|secret|M2101K7BI|
@@ -43420,6 +43426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PM82T|PM82T|PM82T|
 |onn.|Tablet Gen 4|100135923|100135923|
 |onn.|Tablet Gen 4|100135925|100135925|
+|onn.|onn. 12 Tablet  Pro|onn12TabletPro|100146663|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |onn.|onn. Full HD Streaming Device|XNA|onn. Full HD Streaming Device|

@@ -1082,6 +1082,13 @@
    "model": "A1_Neo"
   }
  ],
+ "ANEXA": [
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "ANEXA Android TV"
+  }
+ ],
  "ANS": [
   {
    "device": "L50",
@@ -1348,6 +1355,13 @@
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
+  }
+ ],
+ "ARTEQLED": [
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "ARTEQLED Android TV"
   }
  ],
  "ARTRAN": [
@@ -51807,11 +51821,6 @@
    "device": "Interactive_White_Board",
    "name": "ID86HZA3B1_C",
    "model": "ID86HZA3B1_C"
-  },
-  {
-   "device": "65W72B",
-   "name": "IFPD",
-   "model": "W72B"
   }
  ],
  "HOT (il)": [
@@ -63263,6 +63272,13 @@
    "device": "YK_P30_EEA",
    "name": "YK_P30_EEA",
    "model": "YK_P30_EEA"
+  }
+ ],
+ "Horion": [
+  {
+   "device": "65W72B",
+   "name": "IFPD",
+   "model": "W72B"
   }
  ],
  "Hot Pepper": [
@@ -93562,6 +93578,11 @@
  ],
  "LIBERTON": [
   {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -114654,6 +114675,11 @@
    "model": "XT2321-2"
   },
   {
+   "device": "arcfox",
+   "name": "moto razr 50",
+   "model": "XT2451-4"
+  },
+  {
    "device": "mototabg20",
    "name": "moto tab g20",
    "model": "moto tab g20"
@@ -130139,6 +130165,11 @@
  ],
  "PRAZteck": [
   {
+   "device": "Laptop",
+   "name": "PT116LPREduPad",
+   "model": "PT116LPREduPad"
+  },
+  {
    "device": "PT7EduPad",
    "name": "PT7EduPad",
    "model": "PT7EduPad"
@@ -142626,6 +142657,11 @@
   },
   {
    "device": "maltose",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BL"
+  },
+  {
+   "device": "rosemary",
    "name": "Redmi Note 10S",
    "model": "M2101K7BL"
   },
@@ -223034,6 +223070,11 @@
    "device": "100135925",
    "name": "Tablet Gen 4",
    "model": "100135925"
+  },
+  {
+   "device": "onn12TabletPro",
+   "name": "onn. 12 Tablet  Pro",
+   "model": "100146663"
   },
   {
    "device": "YOC",

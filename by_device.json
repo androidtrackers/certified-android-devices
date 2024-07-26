@@ -3960,6 +3960,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "LIBERTON",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "MAGICworld",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -4115,6 +4120,16 @@
    "brand": "ALBADEEL",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "brand": "ANEXA",
+   "name": "Smart TV",
+   "model": "ANEXA Android TV"
+  },
+  {
+   "brand": "ARTEQLED",
+   "name": "Smart TV",
+   "model": "ARTEQLED Android TV"
   },
   {
    "brand": "ASHER",
@@ -79060,13 +79075,6 @@
    "model": "EV10"
   }
  ],
- "65W72B": [
-  {
-   "brand": "HORIZON",
-   "name": "IFPD",
-   "model": "W72B"
-  }
- ],
  "VSB3918_ALT_ME": [
   {
    "brand": "HOT (il)",
@@ -92367,6 +92375,13 @@
    "brand": "Hoozo",
    "name": "YK_P30_EEA",
    "model": "YK_P30_EEA"
+  }
+ ],
+ "65W72B": [
+  {
+   "brand": "Horion",
+   "name": "IFPD",
+   "model": "W72B"
   }
  ],
  "15_Pro_Max": [
@@ -153179,6 +153194,33 @@
    "model": "motorola razr plus 2023"
   }
  ],
+ "arcfox": [
+  {
+   "brand": "Motorola",
+   "name": "moto razr 50",
+   "model": "XT2451-4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 50 ultra",
+   "model": "motorola razr 40 ultra"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 50 ultra",
+   "model": "motorola razr 50 ultra"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr plus 2024",
+   "model": "motorola razr plus 2023"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr plus 2024",
+   "model": "motorola razr plus 2024"
+  }
+ ],
  "mototabg20": [
   {
    "brand": "Motorola",
@@ -153597,28 +153639,6 @@
    "brand": "Motorola",
    "name": "motorola razr 50",
    "model": "motorola razr 50"
-  }
- ],
- "arcfox": [
-  {
-   "brand": "Motorola",
-   "name": "motorola razr 50 ultra",
-   "model": "motorola razr 40 ultra"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola razr 50 ultra",
-   "model": "motorola razr 50 ultra"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola razr plus 2024",
-   "model": "motorola razr plus 2023"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola razr plus 2024",
-   "model": "motorola razr plus 2024"
   }
  ],
  "EVOLVE": [
@@ -171384,6 +171404,11 @@
   {
    "brand": "Redmi",
    "name": "Redmi Note 10S",
+   "model": "M2101K7BL"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
    "model": "M2101K7BNY"
   },
   {
@@ -171643,6 +171668,13 @@
    "brand": "POWMUS",
    "name": "L211-EEA",
    "model": "L211-EEA"
+  }
+ ],
+ "Laptop": [
+  {
+   "brand": "PRAZteck",
+   "name": "PT116LPREduPad",
+   "model": "PT116LPREduPad"
   }
  ],
  "PT7EduPad": [
@@ -278281,6 +278313,13 @@
    "brand": "onn.",
    "name": "Tablet Gen 4",
    "model": "100135925"
+  }
+ ],
+ "onn12TabletPro": [
+  {
+   "brand": "onn.",
+   "name": "onn. 12 Tablet  Pro",
+   "model": "100146663"
   }
  ],
  "YOC": [

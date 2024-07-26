@@ -7321,7 +7321,7 @@
    "model": "Hybrid_8600"
   },
   {
-   "brand": "HORIZON",
+   "brand": "Horion",
    "device": "65W72B",
    "model": "W72B"
   },
@@ -7432,9 +7432,19 @@
    "model": "AI PONT"
   },
   {
+   "brand": "ANEXA",
+   "device": "redwood",
+   "model": "ANEXA Android TV"
+  },
+  {
    "brand": "ARRQW",
    "device": "longshan",
    "model": "AI PONT"
+  },
+  {
+   "brand": "ARTEQLED",
+   "device": "redwood",
+   "model": "ARTEQLED Android TV"
   },
   {
    "brand": "ASHER",
@@ -7730,6 +7740,11 @@
    "brand": "LEVEL TV",
    "device": "osaki",
    "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "LIBERTON",
+   "device": "longshan",
+   "model": "AI PONT"
   },
   {
    "brand": "LIBERTON",
@@ -152484,6 +152499,13 @@
    "model": "XT2321-2"
   }
  ],
+ "moto razr 50": [
+  {
+   "brand": "Motorola",
+   "device": "arcfox",
+   "model": "XT2451-4"
+  }
+ ],
  "moto tab g20": [
   {
    "brand": "Motorola",
@@ -170710,6 +170732,13 @@
    "model": "L211-EEA"
   }
  ],
+ "PT116LPREduPad": [
+  {
+   "brand": "PRAZteck",
+   "device": "Laptop",
+   "model": "PT116LPREduPad"
+  }
+ ],
  "PT7EduPad": [
   {
    "brand": "PRAZteck",
@@ -186079,6 +186108,11 @@
   {
    "brand": "Redmi",
    "device": "maltose",
+   "model": "M2101K7BL"
+  },
+  {
+   "brand": "Redmi",
+   "device": "rosemary",
    "model": "M2101K7BL"
   },
   {
@@ -276937,6 +276971,13 @@
    "brand": "onn.",
    "device": "100135925",
    "model": "100135925"
+  }
+ ],
+ "onn. 12 Tablet  Pro": [
+  {
+   "brand": "onn.",
+   "device": "onn12TabletPro",
+   "model": "100146663"
   }
  ],
  "onn. 4K Streaming Box": [
