@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-27
+Last sync is 2024-07-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5984,6 +5984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG 9|KINGKONG_9|KINGKONG 9|
 |Cubot|KINGKONG ACE 3|KINGKONG_ACE_3|KINGKONG ACE 3|
 |Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
+|Cubot|KINGKONG ES|KINGKONG_ES|KINGKONG_ES|
 |Cubot|KINGKONG MINI 3|KINGKONGMINI3|KINGKONG MINI 3|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
@@ -14647,6 +14648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix ZERO 20|Infinix-X6821|Infinix X6821|
 |Infinix|Infinix ZERO 30|Infinix-X6731B|Infinix X6731B|
 |Infinix|Infinix ZERO 40|Infinix-X6860|Infinix X6860|
+|Infinix|Infinix ZERO 40 5G|Infinix-X6861|Infinix X6861|
 |Infinix|Infinix ZERO 5G|Infinix-X6815B|Infinix X6815B|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
 |Infinix|Infinix ZERO X|Infinix-X6811B|Infinix X6811B|
@@ -24105,6 +24107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Pad|OP59BCL1|OPD2203|
 |OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
+|OnePlus|OnePlus Watch 2R|OPWWE234|OPWWE234|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|

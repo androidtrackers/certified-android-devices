@@ -51994,6 +51994,13 @@
    "model": "KINGKONG ACE 3"
   }
  ],
+ "KINGKONG_ES": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG ES",
+   "model": "KINGKONG_ES"
+  }
+ ],
  "KINGKONGMINI3": [
   {
    "brand": "Cubot",
@@ -106504,6 +106511,13 @@
    "brand": "Infinix",
    "name": "Infinix ZERO 40",
    "model": "Infinix X6860"
+  }
+ ],
+ "Infinix-X6861": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO 40 5G",
+   "model": "Infinix X6861"
   }
  ],
  "Infinix-X6815B": [
@@ -163990,6 +164004,13 @@
    "brand": "OnePlus",
    "name": "OnePlus Watch 2",
    "model": "OPWWE231"
+  }
+ ],
+ "OPWWE234": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Watch 2R",
+   "model": "OPWWE234"
   }
  ],
  "OnePlus3T": [

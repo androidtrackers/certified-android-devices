@@ -30960,6 +30960,11 @@
    "model": "KING KONG CS"
   },
   {
+   "device": "KINGKONG_ES",
+   "name": "KINGKONG ES",
+   "model": "KINGKONG_ES"
+  },
+  {
    "device": "KINGKONGMINI3",
    "name": "KINGKONG MINI 3",
    "model": "KINGKONG MINI 3"
@@ -75539,6 +75544,11 @@
    "device": "Infinix-X6860",
    "name": "Infinix ZERO 40",
    "model": "Infinix X6860"
+  },
+  {
+   "device": "Infinix-X6861",
+   "name": "Infinix ZERO 40 5G",
+   "model": "Infinix X6861"
   },
   {
    "device": "Infinix-X6815B",
@@ -124091,6 +124101,11 @@
    "device": "OPWWE231",
    "name": "OnePlus Watch 2",
    "model": "OPWWE231"
+  },
+  {
+   "device": "OPWWE234",
+   "name": "OnePlus Watch 2R",
+   "model": "OPWWE234"
   },
   {
    "device": "OnePlus2",
