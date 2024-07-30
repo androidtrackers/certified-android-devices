@@ -2467,6 +2467,11 @@
   },
   {
    "device": "AKMEI14",
+   "name": "ACER ALTOS EZBA",
+   "model": "ACER_ALTOS_EZBA"
+  },
+  {
+   "device": "AKMEI14",
    "name": "ACER_ALTOS_EZB",
    "model": "ACER_ALTOS_EZB"
   },
@@ -33307,6 +33312,11 @@
    "device": "mountbaker",
    "name": "DAIWA",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "DAIWA",
+   "model": "DAIWA 2K SMART TV"
   }
  ],
  "Danew": [
@@ -40744,6 +40754,11 @@
  ],
  "Englaon": [
   {
+   "device": "mountbaker",
+   "name": "ENGLAON",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "ENGLAON",
    "model": "2K SMART TV"
@@ -44654,6 +44669,13 @@
    "device": "GTV",
    "name": "GTV",
    "model": "GTV"
+  }
+ ],
+ "Foryoudigital": [
+  {
+   "device": "IWB_FYD_F",
+   "name": "IWB_FYD_F",
+   "model": "IWB_FYD_F"
   }
  ],
  "Fossil": [
@@ -82399,6 +82421,11 @@
    "model": "EcoTV"
   },
   {
+   "device": "mountbaker",
+   "name": "KTC",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "Capricorn",
    "name": "SD_GM01",
    "model": "Eco Smart Display"
@@ -82951,6 +82978,11 @@
    "device": "lavender",
    "name": "VIOTTO",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "VIOTTO",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -98994,6 +99026,11 @@
    "model": "TB330XUP"
   },
   {
+   "device": "TB352FU",
+   "name": "Lenovo Tab K11 Plus",
+   "model": "TB352FU"
+  },
+  {
    "device": "TB330XUP",
    "name": "Lenovo Tab K11e",
    "model": "TB330XUP"
@@ -110813,6 +110850,11 @@
    "model": "H5111L"
   },
   {
+   "device": "H5111L",
+   "name": "H5111L_common",
+   "model": "H5111L_MTN"
+  },
+  {
    "device": "H5112",
    "name": "H5112",
    "model": "H5112"
@@ -118809,6 +118851,13 @@
    "device": "DV8935-KPN",
    "name": "DV 8935 X4",
    "model": "DV 8935 X4"
+  }
+ ],
+ "NSDEVIL": [
+  {
+   "device": "ET1095A",
+   "name": "ET1095A",
+   "model": "ET1095A"
   }
  ],
  "NSPRE": [
@@ -145347,6 +145396,13 @@
    "device": "HY40A",
    "name": "SA100",
    "model": "SA100"
+  }
+ ],
+ "SKY Perfect JSAT": [
+  {
+   "device": "SKP-IS401",
+   "name": "SKP-IS401",
+   "model": "SKP-IS401"
   }
  ],
  "SKY_Brasil": [
@@ -187531,6 +187587,11 @@
    "model": "TECNO AD10"
   },
   {
+   "device": "TECNO-AE10",
+   "name": "TECNO PHANTOM V Fold2 5G",
+   "model": "TECNO AE10"
+  },
+  {
    "device": "TECNO-SC7S",
    "name": "TECNO POP 2 Air",
    "model": "TECNO SC7S"
@@ -195428,6 +195489,11 @@
    "model": "VEIDOO_T70"
   },
   {
+   "device": "VEIDOO_T70_PLUS",
+   "name": "VEIDOO_T70_PLUS",
+   "model": "VEIDOO_T70_PLUS"
+  },
+  {
    "device": "VEIDOO_T8",
    "name": "VEIDOO_T8",
    "model": "T8"
@@ -199563,6 +199629,16 @@
    "model": "V2406"
   },
   {
+   "device": "V2344",
+   "name": "Y03t",
+   "model": "V2344"
+  },
+  {
+   "device": "V2344",
+   "name": "Y03t",
+   "model": "V2409"
+  },
+  {
    "device": "PD2313",
    "name": "Y100",
    "model": "V2313A"
@@ -199668,9 +199744,19 @@
    "model": "V2350"
   },
   {
+   "device": "V2344",
+   "name": "Y18i",
+   "model": "V2414"
+  },
+  {
    "device": "V2333",
    "name": "Y18s",
    "model": "V2410"
+  },
+  {
+   "device": "V2344",
+   "name": "Y18t",
+   "model": "V2408"
   },
   {
    "device": "V2307",
@@ -200926,6 +201012,16 @@
    "device": "Y28",
    "name": "vivo Y28",
    "model": "vivo Y28"
+  },
+  {
+   "device": "PD2357",
+   "name": "vivo Y37",
+   "model": "V2357A"
+  },
+  {
+   "device": "PD2357",
+   "name": "vivo Y37m",
+   "model": "V2357EA"
   },
   {
    "device": "1719",
@@ -221465,6 +221561,11 @@
    "device": "P11000_Pro",
    "name": "P11000 Pro",
    "model": "P11000 Pro"
+  },
+  {
+   "device": "P22000_Ultra",
+   "name": "P22000 Ultra",
+   "model": "P22000 Ultra"
   },
   {
    "device": "P25000_Pro",

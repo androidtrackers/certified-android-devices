@@ -3650,6 +3650,11 @@
   {
    "brand": "Englaon",
    "name": "ENGLAON",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "Englaon",
+   "name": "ENGLAON",
    "device": "stanford"
   },
   {
@@ -3675,6 +3680,11 @@
   {
    "brand": "Jam",
    "name": "JAM",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTC",
+   "name": "KTC",
    "device": "mountbaker"
   },
   {
@@ -3790,6 +3800,11 @@
   {
    "brand": "KTCtv",
    "name": "VEIRA",
+   "device": "mountbaker"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIOTTO",
    "device": "mountbaker"
   },
   {
@@ -6327,6 +6342,13 @@
    "brand": "Acer",
    "name": "ACER ALTOS EZA",
    "device": "AKREI13"
+  }
+ ],
+ "ACER_ALTOS_EZBA": [
+  {
+   "brand": "Acer",
+   "name": "ACER ALTOS EZBA",
+   "device": "AKMEI14"
   }
  ],
  "ACER_ALTOS_EZB": [
@@ -50143,6 +50165,13 @@
    "device": "keoneae"
   }
  ],
+ "DAIWA 2K SMART TV": [
+  {
+   "brand": "Daiwa",
+   "name": "DAIWA",
+   "device": "mountbaker"
+  }
+ ],
  "D809ProPlus": [
   {
    "brand": "Danew",
@@ -65277,6 +65306,13 @@
    "brand": "Formuler",
    "name": "GTV",
    "device": "GTV"
+  }
+ ],
+ "IWB_FYD_F": [
+  {
+   "brand": "Foryoudigital",
+   "name": "IWB_FYD_F",
+   "device": "IWB_FYD_F"
   }
  ],
  "Fossil G5L": [
@@ -135268,6 +135304,13 @@
    "device": "TB330XUP"
   }
  ],
+ "TB352FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11 Plus",
+   "device": "TB352FU"
+  }
+ ],
  "Lenovo TB-8506F": [
   {
    "brand": "Lenovo",
@@ -149996,6 +150039,13 @@
    "device": "H5111L"
   }
  ],
+ "H5111L_MTN": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L_common",
+   "device": "H5111L"
+  }
+ ],
  "H5112": [
   {
    "brand": "Mobiwire",
@@ -159798,6 +159848,13 @@
    "brand": "NOWO",
    "name": "DV 8935 X4",
    "device": "DV8935-KPN"
+  }
+ ],
+ "ET1095A": [
+  {
+   "brand": "NSDEVIL",
+   "name": "ET1095A",
+   "device": "ET1095A"
   }
  ],
  "NX-20PRO1": [
@@ -192291,6 +192348,13 @@
    "brand": "SKY EVO",
    "name": "SA100",
    "device": "HY40A"
+  }
+ ],
+ "SKP-IS401": [
+  {
+   "brand": "SKY Perfect JSAT",
+   "name": "SKP-IS401",
+   "device": "SKP-IS401"
   }
  ],
  "SKR02": [
@@ -247444,6 +247508,13 @@
    "device": "TECNO-Mobile-KG6p"
   }
  ],
+ "TECNO AE10": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO PHANTOM V Fold2 5G",
+   "device": "TECNO-AE10"
+  }
+ ],
  "TECNO SC7S": [
   {
    "brand": "Tecno",
@@ -256392,6 +256463,13 @@
    "device": "VEIDOO_T70"
   }
  ],
+ "VEIDOO_T70_PLUS": [
+  {
+   "brand": "Veidoo",
+   "name": "VEIDOO_T70_PLUS",
+   "device": "VEIDOO_T70_PLUS"
+  }
+ ],
  "VEIDOO_T80": [
   {
    "brand": "Veidoo",
@@ -261850,6 +261928,20 @@
    "device": "V2333"
   }
  ],
+ "V2344": [
+  {
+   "brand": "Vivo",
+   "name": "Y03t",
+   "device": "V2344"
+  }
+ ],
+ "V2409": [
+  {
+   "brand": "Vivo",
+   "name": "Y03t",
+   "device": "V2344"
+  }
+ ],
  "V2313A": [
   {
    "brand": "Vivo",
@@ -262008,11 +262100,25 @@
    "device": "V2333"
   }
  ],
+ "V2414": [
+  {
+   "brand": "Vivo",
+   "name": "Y18i",
+   "device": "V2344"
+  }
+ ],
  "V2410": [
   {
    "brand": "Vivo",
    "name": "Y18s",
    "device": "V2333"
+  }
+ ],
+ "V2408": [
+  {
+   "brand": "Vivo",
+   "name": "Y18t",
+   "device": "V2344"
   }
  ],
  "V2307": [
@@ -263590,6 +263696,20 @@
    "brand": "Vivo",
    "name": "vivo Y22",
    "device": "V2207"
+  }
+ ],
+ "V2357A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y37",
+   "device": "PD2357"
+  }
+ ],
+ "V2357EA": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y37m",
+   "device": "PD2357"
   }
  ],
  "vivo 1719": [
@@ -288843,6 +288963,13 @@
    "brand": "iHunt",
    "name": "P11000 Pro",
    "device": "P11000_Pro"
+  }
+ ],
+ "P22000 Ultra": [
+  {
+   "brand": "iHunt",
+   "name": "P22000 Ultra",
+   "device": "P22000_Ultra"
   }
  ],
  "iHunt Titan P25000 Xtreme": [

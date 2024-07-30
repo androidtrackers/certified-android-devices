@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-29
+Last sync is 2024-07-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -454,6 +454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A3-A30|omega|A3-A30|
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
 |Acer|ACER ALTOS EZA|AKREI13|ACER_ALTOS_EZA|
+|Acer|ACER ALTOS EZBA|AKMEI14|ACER_ALTOS_EZBA|
 |Acer|ACER_ALTOS_EZB|AKMEI14|ACER_ALTOS_EZB|
 |Acer|ACTAB1021_A|ACTAB1021_A|ACTAB1021_A|
 |Acer|ACTAB1022|ACTAB1022|ACTAB1022|
@@ -6435,6 +6436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daiwa|4K DATV-Z|keoneae|4K DATV-Z|
 |Daiwa|4K DATV-Z|keoneae|Daiwa 4K Google TV-Z|
 |Daiwa|DAIWA|mountbaker|2K SMART TV|
+|Daiwa|DAIWA|mountbaker|DAIWA 2K SMART TV|
 |Danew|D809ProPlus|D809ProPlus|D809ProPlus|
 |Danew|DSlide 710|Dslide710|Dslide710|
 |Danew|DSlide 750|Danew_DSlide750|DSlide750|
@@ -7854,6 +7856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Engel|ENGEL|bangbae|Engel 4K Android TV|
 |Engel|Smart TV|mateo|2K PA Smart TV|
 |Engel|Smart TV|osaki|2K AI Smart TV|
+|Englaon|ENGLAON|mountbaker|2K SMART TV|
 |Englaon|ENGLAON|stanford|2K SMART TV|
 |Enspert||E-TAB|E-TAB|
 |Enspert||ESP_E301|ESP_E301BK|
@@ -8594,6 +8597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fonos|O3_EEA|O3|O3|
 |Ford|Omni 8|Omni8|Omni8|
 |Formuler|GTV|GTV|GTV|
+|Foryoudigital|IWB_FYD_F|IWB_FYD_F|IWB_FYD_F|
 |Fossil|Fossil Gen 5 LTE|gila|Fossil G5L|
 |Fossil|Fossil Gen 5 LTE|gila|Fossil Gen 5 LTE|
 |Fossil|Fossil Gen 5e|sole|Fossil 5e|
@@ -15977,6 +15981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|EcoTVCOL|lavender|EcoTV C|
 |KTC|EcoTVDVB|lavender|EcoTV D|
 |KTC|EcoTVISDB|lavender|EcoTV|
+|KTC|KTC|mountbaker|2K SMART TV|
 |KTC|SD_GM01|Capricorn|Eco Smart Display|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
@@ -16087,6 +16092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
 |KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
+|KTCtv|VIOTTO|mountbaker|2K SMART TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|VON|stanford|2K SMART TV|
@@ -19242,6 +19248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
 |Lenovo|Lenovo Tab K11|TB330FUP|TB330FUP|
 |Lenovo|Lenovo Tab K11|TB330XUP|TB330XUP|
+|Lenovo|Lenovo Tab K11 Plus|TB352FU|TB352FU|
 |Lenovo|Lenovo Tab K11e|TB330XUP|TB330XUP|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328FU|TB328FU|
@@ -21533,6 +21540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H5111|H5111|H5111|
 |Mobiwire|H5111|H5111|Kicka 6 Plus 4G|
 |Mobiwire|H5111L|H5111L|H5111L|
+|Mobiwire|H5111L_common|H5111L|H5111L_MTN|
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6682|H6682|H6682|
@@ -23101,6 +23109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOVOJOY|NV10|NV10|NV10|
 |NOWO|DV 8535 4K|DV8535-KPN|DV 8535 4K|
 |NOWO|DV 8935 X4|DV8935-KPN|DV 8935 X4|
+|NSDEVIL|ET1095A|ET1095A|ET1095A|
 |NSPRE|NX-20PRO1|NX-20PRO1|NX-20PRO1|
 |NURIBOM|NRB-IFPD|rk3588_t|MP_Series|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
@@ -28233,6 +28242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY EVO|Elite OctaX|Elite_OctaXK2|Elite OctaX|
 |SKY EVO|Elite_OctaXS|Elite_OctaXS|Elite_OctaXS|
 |SKY EVO|SA100|HY40A|SA100|
+|SKY Perfect JSAT|SKP-IS401|SKP-IS401|SKP-IS401|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SMART Technologies|AM60 series|komodo|AM60 series|
 |SMART Technologies|AM60 series|komodo|SMART AM60|
@@ -36543,6 +36553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO Mobile SPARK 8T|TECNO-Mobile-KG6p|TECNO Mobile KG6p|
 |Tecno|TECNO P904|TECNO-P904|TECNO P904|
 |Tecno|TECNO PHANTOM V Fold|TECNO-AD10|TECNO AD10|
+|Tecno|TECNO PHANTOM V Fold2 5G|TECNO-AE10|TECNO AE10|
 |Tecno|TECNO POP 2 Air|TECNO-SC7S|TECNO SC7S|
 |Tecno|TECNO POP 2F|TECNO-B1g|TECNO B1g|
 |Tecno|TECNO POP 2X Plus|TECNO-RB8S|TECNO RB8S|
@@ -38044,6 +38055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|VEIDOO_T60|VEIDOO_T60|VEIDOO_T60|
 |Veidoo|VEIDOO_T60_EEA|VEIDOO_T60_EEA|VEIDOO_T60_EEA|
 |Veidoo|VEIDOO_T70|VEIDOO_T70|VEIDOO_T70|
+|Veidoo|VEIDOO_T70_PLUS|VEIDOO_T70_PLUS|VEIDOO_T70_PLUS|
 |Veidoo|VEIDOO_T8|VEIDOO_T8|T8|
 |Veidoo|VEIDOO_T80|VEIDOO_T80|VEIDOO_T80|
 |Veidoo|VEIDOO_T80_EEA|VEIDOO_T80_EEA|VEIDOO_T80_EEA|
@@ -38857,6 +38869,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y02t|V2254|V2325|
 |Vivo|Y03|V2333|V2332|
 |Vivo|Y03|V2333|V2406|
+|Vivo|Y03t|V2344|V2344|
+|Vivo|Y03t|V2344|V2409|
 |Vivo|Y100|PD2313|V2313A|
 |Vivo|Y100|V2239|V2239|
 |Vivo|Y100|V2342|V2342|
@@ -38878,7 +38892,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18|V2333|V2333|
 |Vivo|Y18|V2333|V2345|
 |Vivo|Y18e|V2333|V2350|
+|Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
+|Vivo|Y18t|V2344|V2408|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 GT|PD2361|V2361GA|
 |Vivo|Y200 Pro 5G|V2303|V2303|
@@ -39130,6 +39146,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y22|V2207|V2238|
 |Vivo|vivo Y22|Y22|vivo Y22|
 |Vivo|vivo Y28|Y28|vivo Y28|
+|Vivo|vivo Y37|PD2357|V2357A|
+|Vivo|vivo Y37m|PD2357|V2357EA|
 |Vivo|vivo Y65|1719|vivo 1719|
 |Vivo|vivo Y66i A|PD1621B|vivo Y66i A|
 |Vivo|vivo Y69A|PD1705|vivo Y69A|
@@ -43129,6 +43147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|Like_Hi10_2021|Like_Hi10_2021|Like_Hi10_2021|
 |iHunt|Like_Hi5|Like_Hi5|Like Hi5|
 |iHunt|P11000 Pro|P11000_Pro|P11000 Pro|
+|iHunt|P22000 Ultra|P22000_Ultra|P22000 Ultra|
 |iHunt|P25000 Pro|P25000_Pro|iHunt Titan P25000 Xtreme|
 |iHunt|P32000_Ultra_EEA|P32000_Ultra|Strong Tablet P32000 Ultra 5G|
 |iHunt|P8000_Ultra_EEA|P8000_Ultra|Titan P8000 Ultra Carbon|

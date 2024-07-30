@@ -10818,6 +10818,13 @@
    "model": "ACER_ALTOS_EZA"
   }
  ],
+ "ACER ALTOS EZBA": [
+  {
+   "brand": "Acer",
+   "device": "AKMEI14",
+   "model": "ACER_ALTOS_EZBA"
+  }
+ ],
  "ACER_ALTOS_EZB": [
   {
    "brand": "Acer",
@@ -55818,6 +55825,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Daiwa",
+   "device": "mountbaker",
+   "model": "DAIWA 2K SMART TV"
+  },
+  {
    "brand": "KTCtv",
    "device": "hongkong",
    "model": "4K SMART TV"
@@ -66322,6 +66334,11 @@
  "ENGLAON": [
   {
    "brand": "Englaon",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Englaon",
    "device": "stanford",
    "model": "2K SMART TV"
   }
@@ -71676,6 +71693,13 @@
    "brand": "Formuler",
    "device": "GTV",
    "model": "GTV"
+  }
+ ],
+ "IWB_FYD_F": [
+  {
+   "brand": "Foryoudigital",
+   "device": "IWB_FYD_F",
+   "model": "IWB_FYD_F"
   }
  ],
  "Fossil Gen 5 LTE": [
@@ -115557,6 +115581,23 @@
    "model": "EcoTV"
   }
  ],
+ "KTC": [
+  {
+   "brand": "KTC",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "SD_GM01": [
   {
    "brand": "KTC",
@@ -115902,18 +115943,6 @@
    "model": "Smart UHD TV"
   }
  ],
- "KTC": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
  "Leading Smart TV": [
   {
    "brand": "KTCtv",
@@ -116188,6 +116217,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "VISTA": [
@@ -134183,6 +134217,13 @@
    "model": "TB330XUP"
   }
  ],
+ "Lenovo Tab K11 Plus": [
+  {
+   "brand": "Lenovo",
+   "device": "TB352FU",
+   "model": "TB352FU"
+  }
+ ],
  "Lenovo Tab K11e": [
   {
    "brand": "Lenovo",
@@ -148354,6 +148395,13 @@
    "model": "H5111L"
   }
  ],
+ "H5111L_common": [
+  {
+   "brand": "Mobiwire",
+   "device": "H5111L",
+   "model": "H5111L_MTN"
+  }
+ ],
  "H5112": [
   {
    "brand": "Mobiwire",
@@ -157531,6 +157579,13 @@
    "brand": "NOWO",
    "device": "DV8935-KPN",
    "model": "DV 8935 X4"
+  }
+ ],
+ "ET1095A": [
+  {
+   "brand": "NSDEVIL",
+   "device": "ET1095A",
+   "model": "ET1095A"
   }
  ],
  "NX-20PRO1": [
@@ -189167,6 +189222,13 @@
    "brand": "SKY EVO",
    "device": "HY40A",
    "model": "SA100"
+  }
+ ],
+ "SKP-IS401": [
+  {
+   "brand": "SKY Perfect JSAT",
+   "device": "SKP-IS401",
+   "model": "SKP-IS401"
   }
  ],
  "Sky Brazil": [
@@ -236621,6 +236683,13 @@
    "model": "TECNO AD10"
   }
  ],
+ "TECNO PHANTOM V Fold2 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-AE10",
+   "model": "TECNO AE10"
+  }
+ ],
  "TECNO POP 2 Air": [
   {
    "brand": "Tecno",
@@ -245618,6 +245687,13 @@
    "model": "VEIDOO_T70"
   }
  ],
+ "VEIDOO_T70_PLUS": [
+  {
+   "brand": "Veidoo",
+   "device": "VEIDOO_T70_PLUS",
+   "model": "VEIDOO_T70_PLUS"
+  }
+ ],
  "VEIDOO_T8": [
   {
    "brand": "Veidoo",
@@ -250705,6 +250781,18 @@
    "model": "V2406"
   }
  ],
+ "Y03t": [
+  {
+   "brand": "Vivo",
+   "device": "V2344",
+   "model": "V2344"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2344",
+   "model": "V2409"
+  }
+ ],
  "Y100 5G": [
   {
    "brand": "Vivo",
@@ -250795,11 +250883,25 @@
    "model": "V2350"
   }
  ],
+ "Y18i": [
+  {
+   "brand": "Vivo",
+   "device": "V2344",
+   "model": "V2414"
+  }
+ ],
  "Y18s": [
   {
    "brand": "Vivo",
    "device": "V2333",
    "model": "V2410"
+  }
+ ],
+ "Y18t": [
+  {
+   "brand": "Vivo",
+   "device": "V2344",
+   "model": "V2408"
   }
  ],
  "Y200 5G": [
@@ -252467,6 +252569,20 @@
    "brand": "Vivo",
    "device": "Y28",
    "model": "vivo Y28"
+  }
+ ],
+ "vivo Y37": [
+  {
+   "brand": "Vivo",
+   "device": "PD2357",
+   "model": "V2357A"
+  }
+ ],
+ "vivo Y37m": [
+  {
+   "brand": "Vivo",
+   "device": "PD2357",
+   "model": "V2357EA"
   }
  ],
  "vivo Y65": [
@@ -275239,6 +275355,13 @@
    "brand": "iHunt",
    "device": "P11000_Pro",
    "model": "P11000 Pro"
+  }
+ ],
+ "P22000 Ultra": [
+  {
+   "brand": "iHunt",
+   "device": "P22000_Ultra",
+   "model": "P22000 Ultra"
   }
  ],
  "P25000 Pro": [

@@ -5498,6 +5498,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Daiwa",
+   "name": "DAIWA",
+   "model": "DAIWA 2K SMART TV"
+  },
+  {
    "brand": "EKO",
    "name": "EKO",
    "model": "EKO 2K Android TV"
@@ -5506,6 +5511,11 @@
    "brand": "Electroman",
    "name": "ELECTROMAN",
    "model": "Smart FHD TV"
+  },
+  {
+   "brand": "Englaon",
+   "name": "ENGLAON",
+   "model": "2K SMART TV"
   },
   {
    "brand": "FPD",
@@ -5555,6 +5565,11 @@
   {
    "brand": "Jam",
    "name": "JAM",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTC",
+   "name": "KTC",
    "model": "2K SMART TV"
   },
   {
@@ -5660,6 +5675,11 @@
   {
    "brand": "KTCtv",
    "name": "VEIRA",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIOTTO",
    "model": "2K SMART TV"
   },
   {
@@ -9265,6 +9285,11 @@
   }
  ],
  "AKMEI14": [
+  {
+   "brand": "Acer",
+   "name": "ACER ALTOS EZBA",
+   "model": "ACER_ALTOS_EZBA"
+  },
   {
    "brand": "Acer",
    "name": "ACER_ALTOS_EZB",
@@ -70120,6 +70145,13 @@
    "brand": "Formuler",
    "name": "GTV",
    "model": "GTV"
+  }
+ ],
+ "IWB_FYD_F": [
+  {
+   "brand": "Foryoudigital",
+   "name": "IWB_FYD_F",
+   "model": "IWB_FYD_F"
   }
  ],
  "gila": [
@@ -134053,6 +134085,13 @@
    "model": "TB330XUP"
   }
  ],
+ "TB352FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11 Plus",
+   "model": "TB352FU"
+  }
+ ],
  "TB-8506F": [
   {
    "brand": "Lenovo",
@@ -148619,6 +148658,11 @@
    "brand": "Mobiwire",
    "name": "H5111L",
    "model": "H5111L"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L_common",
+   "model": "H5111L_MTN"
   }
  ],
  "H5112": [
@@ -158203,6 +158247,13 @@
    "brand": "NOWO",
    "name": "DV 8935 X4",
    "model": "DV 8935 X4"
+  }
+ ],
+ "ET1095A": [
+  {
+   "brand": "NSDEVIL",
+   "name": "ET1095A",
+   "model": "ET1095A"
   }
  ],
  "NX-20PRO1": [
@@ -188792,6 +188843,13 @@
    "brand": "SKY EVO",
    "name": "SA100",
    "model": "SA100"
+  }
+ ],
+ "SKP-IS401": [
+  {
+   "brand": "SKY Perfect JSAT",
+   "name": "SKP-IS401",
+   "model": "SKP-IS401"
   }
  ],
  "usw8052skb": [
@@ -238615,6 +238673,13 @@
    "model": "TECNO Mobile KG6p"
   }
  ],
+ "TECNO-AE10": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO PHANTOM V Fold2 5G",
+   "model": "TECNO AE10"
+  }
+ ],
  "TECNO-SC7S": [
   {
    "brand": "Tecno",
@@ -247112,6 +247177,13 @@
    "model": "VEIDOO_T70"
   }
  ],
+ "VEIDOO_T70_PLUS": [
+  {
+   "brand": "Veidoo",
+   "name": "VEIDOO_T70_PLUS",
+   "model": "VEIDOO_T70_PLUS"
+  }
+ ],
  "VEIDOO_T8": [
   {
    "brand": "Veidoo",
@@ -252292,6 +252364,28 @@
    "model": "V2410"
   }
  ],
+ "V2344": [
+  {
+   "brand": "Vivo",
+   "name": "Y03t",
+   "model": "V2344"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y03t",
+   "model": "V2409"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y18i",
+   "model": "V2414"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y18t",
+   "model": "V2408"
+  }
+ ],
  "PD2313": [
   {
    "brand": "Vivo",
@@ -253834,6 +253928,18 @@
    "brand": "Vivo",
    "name": "vivo Y22",
    "model": "V2238"
+  }
+ ],
+ "PD2357": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y37",
+   "model": "V2357A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y37m",
+   "model": "V2357EA"
   }
  ],
  "1719": [
@@ -276687,6 +276793,13 @@
    "brand": "iHunt",
    "name": "P11000 Pro",
    "model": "P11000 Pro"
+  }
+ ],
+ "P22000_Ultra": [
+  {
+   "brand": "iHunt",
+   "name": "P22000 Ultra",
+   "model": "P22000 Ultra"
   }
  ],
  "P25000_Pro": [
