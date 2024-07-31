@@ -59262,6 +59262,11 @@
   {
    "brand": "HEADWOLF",
    "name": "L1",
+   "model": "L1"
+  },
+  {
+   "brand": "HEADWOLF",
+   "name": "L1",
    "model": "Lpad1"
   }
  ],
@@ -63328,6 +63333,11 @@
    "model": "HCB_5186"
   },
   {
+   "brand": "ESOL",
+   "name": "HCB_52series",
+   "model": "HCB_52series"
+  },
+  {
    "brand": "HORIZON",
    "name": "ID65HZA3B1_C",
    "model": "ID65HZA3B1_C"
@@ -66564,11 +66574,6 @@
    "brand": "Inhon",
    "name": "V6",
    "model": "Inhon_V6"
-  },
-  {
-   "brand": "TWZ Corporation PLC",
-   "name": "V6",
-   "model": "V6"
   },
   {
    "brand": "Venus",
@@ -112630,6 +112635,11 @@
   }
  ],
  "KT1016": [
+  {
+   "brand": "Jeazans",
+   "name": "KT1016",
+   "model": "KT1016"
+  },
   {
    "brand": "Jeazans",
    "name": "KT1016_EEA",
@@ -241684,6 +241694,13 @@
    "brand": "Touch plus",
    "name": "AS1000",
    "model": "AS1000"
+  }
+ ],
+ "Nexus": [
+  {
+   "brand": "Touch plus",
+   "name": "Nexus",
+   "model": "Nexus"
   }
  ],
  "TM-MID1010": [

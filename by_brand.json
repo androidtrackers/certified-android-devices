@@ -39393,6 +39393,11 @@
    "device": "Interactive_White_Board",
    "name": "HCB_5186",
    "model": "HCB_5186"
+  },
+  {
+   "device": "Interactive_White_Board",
+   "name": "HCB_52series",
+   "model": "HCB_52series"
   }
  ],
  "ETERNITY": [
@@ -51344,6 +51349,11 @@
    "device": "Hpad2",
    "name": "Hpad2",
    "model": "H2A"
+  },
+  {
+   "device": "L1",
+   "name": "L1",
+   "model": "L1"
   },
   {
    "device": "L1",
@@ -80807,6 +80817,11 @@
   }
  ],
  "Jeazans": [
+  {
+   "device": "KT1016",
+   "name": "KT1016",
+   "model": "KT1016"
+  },
   {
    "device": "KT1016",
    "name": "KT1016_EEA",
@@ -184632,11 +184647,6 @@
    "device": "V10",
    "name": "V10",
    "model": "V10"
-  },
-  {
-   "device": "V6",
-   "name": "V6",
-   "model": "V6"
   }
  ],
  "Tabi_by_T_GO": [
@@ -190300,6 +190310,11 @@
    "device": "AS1000",
    "name": "AS1000",
    "model": "AS1000"
+  },
+  {
+   "device": "Nexus",
+   "name": "Nexus",
+   "model": "Nexus"
   }
  ],
  "Touchmate": [

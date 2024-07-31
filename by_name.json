@@ -27561,11 +27561,6 @@
    "model": "Inhon_V6"
   },
   {
-   "brand": "TWZ Corporation PLC",
-   "device": "V6",
-   "model": "V6"
-  },
-  {
    "brand": "Venus",
    "device": "V6",
    "model": "V6"
@@ -59740,6 +59735,11 @@
   {
    "brand": "HEADWOLF",
    "device": "L1",
+   "model": "L1"
+  },
+  {
+   "brand": "HEADWOLF",
+   "device": "L1",
    "model": "Lpad1"
   }
  ],
@@ -64546,6 +64546,13 @@
    "brand": "ESOL",
    "device": "Interactive_White_Board",
    "model": "HCB_5186"
+  }
+ ],
+ "HCB_52series": [
+  {
+   "brand": "ESOL",
+   "device": "Interactive_White_Board",
+   "model": "HCB_52series"
   }
  ],
  "HERO-SP001": [
@@ -113548,6 +113555,13 @@
    "brand": "Jawwy TV",
    "device": "HP40A",
    "model": "JAWWY-TV-2.0"
+  }
+ ],
+ "KT1016": [
+  {
+   "brand": "Jeazans",
+   "device": "KT1016",
+   "model": "KT1016"
   }
  ],
  "KT1016_EEA": [
@@ -239737,6 +239751,13 @@
    "brand": "Touch plus",
    "device": "AS1000",
    "model": "AS1000"
+  }
+ ],
+ "Nexus": [
+  {
+   "brand": "Touch plus",
+   "device": "Nexus",
+   "model": "Nexus"
   }
  ],
  "TM-MID1010": [

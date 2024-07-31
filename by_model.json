@@ -54009,6 +54009,11 @@
    "brand": "Dixon",
    "name": "L1",
    "device": "L1"
+  },
+  {
+   "brand": "HEADWOLF",
+   "name": "L1",
+   "device": "L1"
   }
  ],
  "S5790": [
@@ -58249,6 +58254,13 @@
    "device": "Interactive_White_Board"
   }
  ],
+ "HCB_52series": [
+  {
+   "brand": "ESOL",
+   "name": "HCB_52series",
+   "device": "Interactive_White_Board"
+  }
+ ],
  "HERO-SP001": [
   {
    "brand": "ETERNITY",
@@ -61644,11 +61656,6 @@
  "V6": [
   {
    "brand": "Evertek",
-   "name": "V6",
-   "device": "V6"
-  },
-  {
-   "brand": "TWZ Corporation PLC",
    "name": "V6",
    "device": "V6"
   },
@@ -112151,6 +112158,11 @@
   }
  ],
  "KT1016": [
+  {
+   "brand": "Jeazans",
+   "name": "KT1016",
+   "device": "KT1016"
+  },
   {
    "brand": "Jeazans",
    "name": "KT1016_EEA",
@@ -250779,6 +250791,13 @@
    "brand": "Touch plus",
    "name": "AS1000",
    "device": "AS1000"
+  }
+ ],
+ "Nexus": [
+  {
+   "brand": "Touch plus",
+   "name": "Nexus",
+   "device": "Nexus"
   }
  ],
  "TM-MID1010": [

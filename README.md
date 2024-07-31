@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-30
+Last sync is 2024-07-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7603,6 +7603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ESI Enterprises|Trinity T900|Trinity_T900|Trinity T900|
 |ESOL|CCBEK|rk3588_t|CCBEK|
 |ESOL|HCB_5186|Interactive_White_Board|HCB_5186|
+|ESOL|HCB_52series|Interactive_White_Board|HCB_52series|
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
 |ETERNITY|HEROSP001|HEROSP001|SP-001|
 |ETG（G）|ETG-BT1121|ETG-BT1121|ETG-BT1121|
@@ -9874,6 +9875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|Hpad1|Hpad1|Hpad1|
 |HEADWOLF|Hpad2|Hpad2|H2|
 |HEADWOLF|Hpad2|Hpad2|H2A|
+|HEADWOLF|L1|L1|L1|
 |HEADWOLF|L1|L1|Lpad1|
 |HEADWOLF|W5A|W5A|W5A|
 |HEADWOLF|WPAD2|WPAD2|W2|
@@ -15678,6 +15680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jawwy TV|JAWWY-TV-2.0|HP40A|JAWWY-TV-2.0|
+|Jeazans|KT1016|KT1016|KT1016|
 |Jeazans|KT1016_EEA|KT1016|KT1016|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
@@ -35972,7 +35975,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWZ Corporation PLC|Tab-PLAY125|Tab-PLAY125|Tab-PLAY125|
 |TWZ Corporation PLC|U18|U18|U18|
 |TWZ Corporation PLC|V10|V10|V10|
-|TWZ Corporation PLC|V6|V6|V6|
 |Tabi_by_T_GO|EUTB_758G|EUTB_758G|EUTB_758G_TABI_Argos_KIDS|
 |Tabi_by_T_GO|EUTB_758_Argos|EUTB_758_Argos|EUTB-758 TABI Argos|
 |Tabi_by_T_GO|TGO_TB1001_2R|TGO_TB1001_2R|TGO_TB1001_2R|
@@ -37070,6 +37072,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touch plus|770G|770G|770G|
 |Touch plus|770N|770N|770N|
 |Touch plus|AS1000|AS1000|AS1000|
+|Touch plus|Nexus|Nexus|Nexus|
 |Touchmate|TM-MID1010|TM-MID1010|TM-MID1010|
 |Touchmate|TM-MID1010NB|TM-MID1010NB|TM-MID1010NB|
 |Touchmate|TM-MID1050B|TM-MID1050B|TM-MID1050B|
