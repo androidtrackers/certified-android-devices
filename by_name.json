@@ -10251,6 +10251,11 @@
    "model": "WE A10"
   },
   {
+   "brand": "Caxilysh",
+   "device": "A10",
+   "model": "A10"
+  },
+  {
    "brand": "Concord",
    "device": "A10",
    "model": "A10"
@@ -48394,6 +48399,11 @@
   },
   {
    "brand": "Kenxinda",
+   "device": "A9",
+   "model": "A9"
+  },
+  {
+   "brand": "MUJENYZ",
    "device": "A9",
    "model": "A9"
   },
@@ -129452,6 +129462,13 @@
    "brand": "Lanix",
    "device": "M5e",
    "model": "M5e"
+  }
+ ],
+ "RX7V4": [
+  {
+   "brand": "Lanix",
+   "device": "RX7V4",
+   "model": "RX7V4"
   }
  ],
  "RX7_v3": [
@@ -223475,6 +223492,13 @@
    "brand": "TCL",
    "device": "Odin2",
    "model": "9081X"
+  }
+ ],
+ "TCL": [
+  {
+   "brand": "TCL",
+   "device": "Scarab_Pro_TF",
+   "model": "T510D"
   }
  ],
  "TCL 10 5G": [

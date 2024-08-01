@@ -30057,6 +30057,11 @@
   },
   {
    "brand": "Caxilysh",
+   "name": "A10",
+   "device": "A10"
+  },
+  {
+   "brand": "Caxilysh",
    "name": "A10_EEA",
    "device": "A10"
   },
@@ -64078,6 +64083,11 @@
   },
   {
    "brand": "Kenxinda",
+   "name": "A9",
+   "device": "A9"
+  },
+  {
+   "brand": "MUJENYZ",
    "name": "A9",
    "device": "A9"
   },
@@ -129614,6 +129624,13 @@
    "brand": "Lanix",
    "name": "M5e",
    "device": "M5e"
+  }
+ ],
+ "RX7V4": [
+  {
+   "brand": "Lanix",
+   "name": "RX7V4",
+   "device": "RX7V4"
   }
  ],
  "RX7_v3": [
@@ -231997,6 +232014,13 @@
    "brand": "TCL",
    "name": "TBD",
    "device": "ScarabLite_TMO"
+  }
+ ],
+ "T510D": [
+  {
+   "brand": "TCL",
+   "name": "TCL",
+   "device": "Scarab_Pro_TF"
   }
  ],
  "T790B": [

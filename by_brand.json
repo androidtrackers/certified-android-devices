@@ -25074,6 +25074,11 @@
  "Caxilysh": [
   {
    "device": "A10",
+   "name": "A10",
+   "model": "A10"
+  },
+  {
+   "device": "A10",
    "name": "A10_EEA",
    "model": "A10"
   }
@@ -94810,6 +94815,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "RX7V4",
+   "name": "RX7V4",
+   "model": "RX7V4"
+  },
+  {
    "device": "RX7_v3",
    "name": "RX7_v3",
    "model": "RX7_v3"
@@ -104338,6 +104348,13 @@
    "device": "mu6",
    "name": "mu6",
    "model": "mu6"
+  }
+ ],
+ "MUJENYZ": [
+  {
+   "device": "A9",
+   "name": "A9",
+   "model": "A9"
   }
  ],
  "MULTYNET": [
@@ -175754,6 +175771,11 @@
    "device": "ScarabLite_TMO",
    "name": "TBD",
    "model": "T434W"
+  },
+  {
+   "device": "Scarab_Pro_TF",
+   "name": "TCL",
+   "model": "T510D"
   },
   {
    "device": "Seattle",

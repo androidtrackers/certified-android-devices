@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-07-31
+Last sync is 2024-08-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4843,6 +4843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cavion|Base_72_GO|Base_72_GO|Base_72_GO|
 |Cavion|M1092Q|M1092Q|M1092Q|
 |Cavion|base10.3g silver|base10_3g_silver|base10_3g_silver|
+|Caxilysh|A10|A10|A10|
 |Caxilysh|A10_EEA|A10|A10|
 |Cedar|Cedar CT8X2|CT8X2|CT8X2|
 |Cedar|Cedar CT8X2|CT8XEU|CT8XEU|
@@ -18412,6 +18413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|M5|M5|M5|
 |Lanix|M5e|M5e|M5e|
 |Lanix|NA|stanford|2K SMART TV|
+|Lanix|RX7V4|RX7V4|RX7V4|
 |Lanix|RX7_v3|RX7_v3|RX7_v3|
 |Lanix|RX8|Ilium_PAD_RX8|Ilium_PAD_RX8v4|
 |Lanix|X100|ILIUM_X100|ILIUM_X100|
@@ -20274,6 +20276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MU (TH)|8|8|8|
 |MU (TH)|mu 1|mu_1|1|
 |MU (TH)|mu6|mu6|mu6|
+|MUJENYZ|A9|A9|A9|
 |MULTYNET|Pakistan|marina|MULTYNET 4K SMART TV|
 |MULTYNET|Pakistan|nagata|MULTYNET 2K SMART TV|
 |MULTYNET|Pakistan|tamachi|MULTYNET FHD Android TV|
@@ -34224,6 +34227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TBD|Apollo84GBoostR|9132S|
 |TCL|TBD|Odin_5G_TMO|9183W|
 |TCL|TBD|ScarabLite_TMO|T434W|
+|TCL|TCL|Scarab_Pro_TF|T510D|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
 |TCL|TCL 10 5G|Seattle|T790Y|

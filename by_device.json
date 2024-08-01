@@ -8087,6 +8087,11 @@
   },
   {
    "brand": "Caxilysh",
+   "name": "A10",
+   "model": "A10"
+  },
+  {
+   "brand": "Caxilysh",
    "name": "A10_EEA",
    "model": "A10"
   },
@@ -68992,6 +68997,11 @@
    "model": "A9"
   },
   {
+   "brand": "MUJENYZ",
+   "name": "A9",
+   "model": "A9"
+  },
+  {
    "brand": "Umidigi",
    "name": "A9",
    "model": "A9"
@@ -128405,6 +128415,13 @@
    "brand": "Lanix",
    "name": "M5e",
    "model": "M5e"
+  }
+ ],
+ "RX7V4": [
+  {
+   "brand": "Lanix",
+   "name": "RX7V4",
+   "model": "RX7V4"
   }
  ],
  "RX7_v3": [
@@ -225944,6 +225961,13 @@
    "brand": "TCL",
    "name": "TBD",
    "model": "T434W"
+  }
+ ],
+ "Scarab_Pro_TF": [
+  {
+   "brand": "TCL",
+   "name": "TCL",
+   "model": "T510D"
   }
  ],
  "Seattle": [
