@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-01
+Last sync is 2024-08-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3324,6 +3324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Q Stick|S905Y2|QS01|
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
+|BenQ|RE04N1_series|RE04N1_series|RE04N1_series|
 |BenQ|RE04N_series|RE04N_series|RE04N_series|
 |BenQ|RE04_series|RE04_series|RE04_series|
 |BenQ|RM6504|RM6504|RM6504|
@@ -5955,6 +5956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|SNOOK-X80|SNOOK-X80|SNOOK-X80|
 |Cubot|A10|A10|A10|
 |Cubot|A1_EEA|A1|A1|
+|Cubot|A20|A20|A20|
 |Cubot|C20|C20|C20|
 |Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
@@ -14356,6 +14358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TE102M3|TE102M3|TE102|
 |IRIS_OHYAMA|TE103M3|TE103M3|TE103|
 |ISCED|ISCEDTAB21|ISCEDTAB21|ISCEDTAB21|
+|ISCS|QA3O_M110|QA3O_M110|QA3O_M110|
 |ITAB|ITAB_X40L_Plus|ITAB_X40L_Plus|ITAB_X40L_Plus|
 |ITAB|X40L|X40L|X40L|
 |ITOS|IC-51|IC_51|IC_51|
@@ -14814,6 +14817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infocus|InFocus M6S|AH2|IF9003|
 |Infocus|InFocus M7 Lite|A02|IF9031|
 |Infocus|InFocus M7S|A08|IF9031|
+|Infocus|JTouch Series 13|D011|JTouch_Series_13|
 |Infocus|LE5039|BX2|LE5039|
 |Infocus|M2|LSO|InFocus M2|
 |Infocus|M2+|LSC|InFocus M2PLUS|
@@ -16094,6 +16098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
+|KTCtv|VIMEEL|lavender|VIMEEL GOOGLE TV 4K|
 |KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
 |KTCtv|VIOTTO|mountbaker|2K SMART TV|
@@ -20645,6 +20650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM6|KM6|KM6|
 |Mecool|KM7|KM7|KM7|
+|Mecool|KM7 PLUS|YDA|4K Google TV Box|
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
 |Mecool|KT1|KT1|KT1|
@@ -21546,6 +21552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H5111|H5111|H5111|
 |Mobiwire|H5111|H5111|Kicka 6 Plus 4G|
 |Mobiwire|H5111L|H5111L|H5111L|
+|Mobiwire|H5111L|H5111L|IKOSORA+|
 |Mobiwire|H5111L_common|H5111L|H5111L_MTN|
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
@@ -23843,6 +23850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
+|ONERugged|M10XE|M10XE|M10XE|
 |ONERugged|M195T|M195T|M195T|
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
@@ -35963,6 +35971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TVCore|ts401l|ts401|TV StickL|
 |TVPLUS|TV PLUS 4K BOX|DV6069Y_TVPLUS|TV PLUS 4K BOX|
 |TVT(A)|TVT-T108|TVT-T108|TVT-T108|
+|TVUp|Denali|Denali_B866V2F|Denali|
 |TVUp|HP5116|HPA12_8GB|HP5116|
 |TVUp|Mediacenter 6G 4K|SEI300T|Mediacenter 6G 4K|
 |TVision|SEI400TM|SEI400TM|TVision|
@@ -42559,6 +42568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC58|TC58|TC58|
+|Zebra|TC58E|TC58E|TC58E|
 |Zebra|TC70x|TC70x|TC70x|
 |Zebra|TC73|TC73|TC73|
 |Zebra|TC73|TC73T|TC73|
@@ -43455,6 +43465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PM82T|PM82T|PM82T|
 |onn.|Tablet Gen 4|100135923|100135923|
 |onn.|Tablet Gen 4|100135925|100135925|
+|onn.|onn. 11  Tablet Pro|onn11TabletPro|100146660|
 |onn.|onn. 12 Tablet  Pro|onn12TabletPro|100146663|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
@@ -43526,6 +43537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
 |realme|realme 12+ 5G|RE5C86L1|RMX3867|
 |realme|realme 12x 5G|RE5C9AL1|RMX3997|
+|realme|realme 13 Pro+ 5G|RE5CA3L1|RMX3921|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|

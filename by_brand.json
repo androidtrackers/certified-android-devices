@@ -17186,6 +17186,11 @@
    "model": "QS02"
   },
   {
+   "device": "RE04N1_series",
+   "name": "RE04N1_series",
+   "model": "RE04N1_series"
+  },
+  {
    "device": "RE04N_series",
    "name": "RE04N_series",
    "model": "RE04N_series"
@@ -30813,6 +30818,11 @@
    "device": "A1",
    "name": "A1_EEA",
    "model": "A1"
+  },
+  {
+   "device": "A20",
+   "name": "A20",
+   "model": "A20"
   },
   {
    "device": "C20",
@@ -74032,6 +74042,13 @@
    "model": "ISCEDTAB21"
   }
  ],
+ "ISCS": [
+  {
+   "device": "QA3O_M110",
+   "name": "QA3O_M110",
+   "model": "QA3O_M110"
+  }
+ ],
  "ITAB": [
   {
    "device": "ITAB_X40L_Plus",
@@ -76378,6 +76395,11 @@
    "device": "A08",
    "name": "InFocus M7S",
    "model": "IF9031"
+  },
+  {
+   "device": "D011",
+   "name": "JTouch Series 13",
+   "model": "JTouch_Series_13"
   },
   {
    "device": "BX2",
@@ -82988,6 +83010,11 @@
    "device": "mountbaker",
    "name": "VEIRA",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "VIMEEL",
+   "model": "VIMEEL GOOGLE TV 4K"
   },
   {
    "device": "lavender",
@@ -106277,6 +106304,11 @@
    "model": "KM7"
   },
   {
+   "device": "YDA",
+   "name": "KM7 PLUS",
+   "model": "4K Google TV Box"
+  },
+  {
    "device": "KM8",
    "name": "KM8",
    "model": "KM8"
@@ -110880,6 +110912,11 @@
    "device": "H5111L",
    "name": "H5111L",
    "model": "H5111L"
+  },
+  {
+   "device": "H5111L",
+   "name": "H5111L",
+   "model": "IKOSORA+"
   },
   {
    "device": "H5111L",
@@ -122712,6 +122749,11 @@
   }
  ],
  "ONERugged": [
+  {
+   "device": "M10XE",
+   "name": "M10XE",
+   "model": "M10XE"
+  },
   {
    "device": "M195T",
    "name": "M195T",
@@ -184585,6 +184627,11 @@
  ],
  "TVUp": [
   {
+   "device": "Denali_B866V2F",
+   "name": "Denali",
+   "model": "Denali"
+  },
+  {
    "device": "HPA12_8GB",
    "name": "HP5116",
    "model": "HP5116"
@@ -218445,6 +218492,11 @@
    "model": "TC58"
   },
   {
+   "device": "TC58E",
+   "name": "TC58E",
+   "model": "TC58E"
+  },
+  {
    "device": "TC70x",
    "name": "TC70x",
    "model": "TC70x"
@@ -223225,6 +223277,11 @@
    "model": "100135925"
   },
   {
+   "device": "onn11TabletPro",
+   "name": "onn. 11  Tablet Pro",
+   "model": "100146660"
+  },
+  {
    "device": "onn12TabletPro",
    "name": "onn. 12 Tablet  Pro",
    "model": "100146663"
@@ -223588,6 +223645,11 @@
    "device": "RE5C9AL1",
    "name": "realme 12x 5G",
    "model": "RMX3997"
+  },
+  {
+   "device": "RE5CA3L1",
+   "name": "realme 13 Pro+ 5G",
+   "model": "RMX3921"
   },
   {
    "device": "SW6H",

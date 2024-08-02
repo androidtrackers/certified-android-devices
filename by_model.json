@@ -27754,6 +27754,13 @@
    "device": "YUL"
   }
  ],
+ "RE04N1_series": [
+  {
+   "brand": "BenQ",
+   "name": "RE04N1_series",
+   "device": "RE04N1_series"
+  }
+ ],
  "RE04N_series": [
   {
    "brand": "BenQ",
@@ -29248,6 +29255,11 @@
  "A20": [
   {
    "brand": "Blackview",
+   "name": "A20",
+   "device": "A20"
+  },
+  {
+   "brand": "Cubot",
    "name": "A20",
    "device": "A20"
   },
@@ -103594,6 +103606,13 @@
    "device": "ISCEDTAB21"
   }
  ],
+ "QA3O_M110": [
+  {
+   "brand": "ISCS",
+   "name": "QA3O_M110",
+   "device": "QA3O_M110"
+  }
+ ],
  "ITAB_X40L_Plus": [
   {
    "brand": "ITAB",
@@ -106591,6 +106610,13 @@
    "brand": "Infocus",
    "name": "InFocus M7S",
    "device": "A08"
+  }
+ ],
+ "JTouch_Series_13": [
+  {
+   "brand": "Infocus",
+   "name": "JTouch Series 13",
+   "device": "D011"
   }
  ],
  "LE5039": [
@@ -114447,6 +114473,13 @@
    "brand": "KTCtv",
    "name": "Smart TV",
    "device": "mountbaker"
+  }
+ ],
+ "VIMEEL GOOGLE TV 4K": [
+  {
+   "brand": "KTCtv",
+   "name": "VIMEEL",
+   "device": "lavender"
   }
  ],
  "TMS-KR01P": [
@@ -144189,6 +144222,18 @@
    "device": "KM7"
   }
  ],
+ "4K Google TV Box": [
+  {
+   "brand": "Mecool",
+   "name": "KM7 PLUS",
+   "device": "YDA"
+  },
+  {
+   "brand": "Strong",
+   "name": "Leap-S3",
+   "device": "YDA"
+  }
+ ],
  "KM8": [
   {
    "brand": "Mecool",
@@ -150068,6 +150113,18 @@
    "device": "H5111L"
   }
  ],
+ "IKOSORA+": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L",
+   "device": "H5111L"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "IKOSORA+",
+   "device": "IKOSORA_Plus"
+  }
+ ],
  "H5111L_MTN": [
   {
    "brand": "Mobiwire",
@@ -150115,13 +150172,6 @@
    "brand": "Mobiwire",
    "name": "Hotah",
    "device": "Hotah"
-  }
- ],
- "IKOSORA+": [
-  {
-   "brand": "Mobiwire",
-   "name": "IKOSORA+",
-   "device": "IKOSORA_Plus"
   }
  ],
  "Kicka_4_Plus": [
@@ -164376,6 +164426,13 @@
    "brand": "ONDA TLC",
    "name": "T9 S",
    "device": "T9S"
+  }
+ ],
+ "M10XE": [
+  {
+   "brand": "ONERugged",
+   "name": "M10XE",
+   "device": "M10XE"
   }
  ],
  "M195T": [
@@ -229137,13 +229194,6 @@
    "device": "keoneae"
   }
  ],
- "4K Google TV Box": [
-  {
-   "brand": "Strong",
-   "name": "Leap-S3",
-   "device": "YDA"
-  }
- ],
  "4K Hybrid STB": [
   {
    "brand": "Strong",
@@ -243693,6 +243743,13 @@
    "brand": "TVT(A)",
    "name": "TVT-T108",
    "device": "TVT-T108"
+  }
+ ],
+ "Denali": [
+  {
+   "brand": "TVUp",
+   "name": "Denali",
+   "device": "Denali_B866V2F"
   }
  ],
  "HP5116": [
@@ -285488,6 +285545,13 @@
    "device": "TC58"
   }
  ],
+ "TC58E": [
+  {
+   "brand": "Zebra",
+   "name": "TC58E",
+   "device": "TC58E"
+  }
+ ],
  "TC70x": [
   {
    "brand": "Zebra",
@@ -290741,6 +290805,13 @@
    "device": "100135925"
   }
  ],
+ "100146660": [
+  {
+   "brand": "onn.",
+   "name": "onn. 11  Tablet Pro",
+   "device": "onn11TabletPro"
+  }
+ ],
  "100146663": [
   {
    "brand": "onn.",
@@ -291203,6 +291274,13 @@
    "brand": "realme",
    "name": "realme 12+ 5G",
    "device": "RE5C86L1"
+  }
+ ],
+ "RMX3921": [
+  {
+   "brand": "realme",
+   "name": "realme 13 Pro+ 5G",
+   "device": "RE5CA3L1"
   }
  ],
  "realme 4K G Smart TV": [

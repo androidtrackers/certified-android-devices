@@ -32560,6 +32560,13 @@
    "model": "QS02"
   }
  ],
+ "RE04N1_series": [
+  {
+   "brand": "BenQ",
+   "device": "RE04N1_series",
+   "model": "RE04N1_series"
+  }
+ ],
  "RE04N_series": [
   {
    "brand": "BenQ",
@@ -33952,6 +33959,11 @@
  "A20": [
   {
    "brand": "Blackview",
+   "device": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "Cubot",
    "device": "A20",
    "model": "A20"
   },
@@ -105490,6 +105502,13 @@
    "model": "ISCEDTAB21"
   }
  ],
+ "QA3O_M110": [
+  {
+   "brand": "ISCS",
+   "device": "QA3O_M110",
+   "model": "QA3O_M110"
+  }
+ ],
  "ITAB_X40L_Plus": [
   {
    "brand": "ITAB",
@@ -108350,6 +108369,13 @@
    "brand": "Infocus",
    "device": "A08",
    "model": "IF9031"
+  }
+ ],
+ "JTouch Series 13": [
+  {
+   "brand": "Infocus",
+   "device": "D011",
+   "model": "JTouch_Series_13"
   }
  ],
  "LE5039": [
@@ -116229,6 +116255,13 @@
    "brand": "KTCtv",
    "device": "mountbaker",
    "model": "2K SMART TV"
+  }
+ ],
+ "VIMEEL": [
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "VIMEEL GOOGLE TV 4K"
   }
  ],
  "VIOTTO": [
@@ -142882,6 +142915,13 @@
    "model": "KM7"
   }
  ],
+ "KM7 PLUS": [
+  {
+   "brand": "Mecool",
+   "device": "YDA",
+   "model": "4K Google TV Box"
+  }
+ ],
  "KM8": [
   {
    "brand": "Mecool",
@@ -148424,6 +148464,11 @@
    "brand": "Mobiwire",
    "device": "H5111L",
    "model": "H5111L"
+  },
+  {
+   "brand": "Mobiwire",
+   "device": "H5111L",
+   "model": "IKOSORA+"
   }
  ],
  "H5111L_common": [
@@ -161940,6 +161985,13 @@
    "brand": "ONDA TLC",
    "device": "T9S",
    "model": "T9S"
+  }
+ ],
+ "M10XE": [
+  {
+   "brand": "ONERugged",
+   "device": "M10XE",
+   "model": "M10XE"
   }
  ],
  "M195T": [
@@ -233064,6 +233116,13 @@
    "model": "TVT-T108"
   }
  ],
+ "Denali": [
+  {
+   "brand": "TVUp",
+   "device": "Denali_B866V2F",
+   "model": "Denali"
+  }
+ ],
  "HP5116": [
   {
    "brand": "TVUp",
@@ -271810,6 +271869,13 @@
    "model": "TC58"
   }
  ],
+ "TC58E": [
+  {
+   "brand": "Zebra",
+   "device": "TC58E",
+   "model": "TC58E"
+  }
+ ],
  "TC70x": [
   {
    "brand": "Zebra",
@@ -277162,6 +277228,13 @@
    "model": "100135925"
   }
  ],
+ "onn. 11  Tablet Pro": [
+  {
+   "brand": "onn.",
+   "device": "onn11TabletPro",
+   "model": "100146660"
+  }
+ ],
  "onn. 12 Tablet  Pro": [
   {
    "brand": "onn.",
@@ -277587,6 +277660,13 @@
    "brand": "realme",
    "device": "RE5C9AL1",
    "model": "RMX3997"
+  }
+ ],
+ "realme 13 Pro+ 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5CA3L1",
+   "model": "RMX3921"
   }
  ],
  "realme 4K G Smart TV": [

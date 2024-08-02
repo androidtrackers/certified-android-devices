@@ -13939,6 +13939,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "VIMEEL",
+   "model": "VIMEEL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
    "name": "VIOTTO",
    "model": "4K SMART ISDB TV"
   },
@@ -32858,6 +32863,13 @@
    "model": "i-217D1"
   }
  ],
+ "RE04N1_series": [
+  {
+   "brand": "BenQ",
+   "name": "RE04N1_series",
+   "model": "RE04N1_series"
+  }
+ ],
  "RE04N_series": [
   {
    "brand": "BenQ",
@@ -34144,6 +34156,11 @@
  "A20": [
   {
    "brand": "Blackview",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "Cubot",
    "name": "A20",
    "model": "A20"
   },
@@ -104677,6 +104694,13 @@
    "model": "ISCEDTAB21"
   }
  ],
+ "QA3O_M110": [
+  {
+   "brand": "ISCS",
+   "name": "QA3O_M110",
+   "model": "QA3O_M110"
+  }
+ ],
  "ITAB_X40L_Plus": [
   {
    "brand": "ITAB",
@@ -107521,6 +107545,13 @@
    "brand": "Infocus",
    "name": "InFocus M7 Lite",
    "model": "IF9031"
+  }
+ ],
+ "D011": [
+  {
+   "brand": "Infocus",
+   "name": "JTouch Series 13",
+   "model": "JTouch_Series_13"
   }
  ],
  "BX2": [
@@ -142840,6 +142871,18 @@
    "model": "KM7"
   }
  ],
+ "YDA": [
+  {
+   "brand": "Mecool",
+   "name": "KM7 PLUS",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "Strong",
+   "name": "Leap-S3",
+   "model": "4K Google TV Box"
+  }
+ ],
  "KM8": [
   {
    "brand": "Mecool",
@@ -148685,6 +148728,11 @@
    "brand": "Mobiwire",
    "name": "H5111L",
    "model": "H5111L"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L",
+   "model": "IKOSORA+"
   },
   {
    "brand": "Mobiwire",
@@ -162547,6 +162595,13 @@
    "brand": "ONDA TLC",
    "name": "T9 S",
    "model": "T9S"
+  }
+ ],
+ "M10XE": [
+  {
+   "brand": "ONERugged",
+   "name": "M10XE",
+   "model": "M10XE"
   }
  ],
  "M195T": [
@@ -223088,13 +223143,6 @@
    "model": "Stream"
   }
  ],
- "YDA": [
-  {
-   "brand": "Strong",
-   "name": "Leap-S3",
-   "model": "4K Google TV Box"
-  }
- ],
  "ZRH": [
   {
    "brand": "Strong",
@@ -234854,6 +234902,13 @@
    "brand": "TVT(A)",
    "name": "TVT-T108",
    "model": "TVT-T108"
+  }
+ ],
+ "Denali_B866V2F": [
+  {
+   "brand": "TVUp",
+   "name": "Denali",
+   "model": "Denali"
   }
  ],
  "HPA12_8GB": [
@@ -273414,6 +273469,13 @@
    "model": "TC58"
   }
  ],
+ "TC58E": [
+  {
+   "brand": "Zebra",
+   "name": "TC58E",
+   "model": "TC58E"
+  }
+ ],
  "TC70x": [
   {
    "brand": "Zebra",
@@ -278490,6 +278552,13 @@
    "model": "100135925"
   }
  ],
+ "onn11TabletPro": [
+  {
+   "brand": "onn.",
+   "name": "onn. 11  Tablet Pro",
+   "model": "100146660"
+  }
+ ],
  "onn12TabletPro": [
   {
    "brand": "onn.",
@@ -279008,6 +279077,13 @@
    "brand": "realme",
    "name": "realme 12 Pro+ 5G",
    "model": "RMX3840"
+  }
+ ],
+ "RE5CA3L1": [
+  {
+   "brand": "realme",
+   "name": "realme 13 Pro+ 5G",
+   "model": "RMX3921"
   }
  ],
  "RMX2061L1": [
