@@ -25455,6 +25455,28 @@
    "device": "HND"
   }
  ],
+ "4K Android TV Box": [
+  {
+   "brand": "BOXY",
+   "name": "BOXY",
+   "device": "YYC"
+  },
+  {
+   "brand": "Mecool",
+   "name": "KM2 PLUS",
+   "device": "YYC"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Leap-S4",
+   "device": "YYC"
+  },
+  {
+   "brand": "Strong",
+   "name": "HP4423",
+   "device": "YYC"
+  }
+ ],
  "BPL FHD TV": [
   {
    "brand": "BPL",
@@ -36307,6 +36329,11 @@
    "device": "BOS"
   },
   {
+   "brand": "Skyworth",
+   "name": "Leap-L1",
+   "device": "BOS"
+  },
+  {
    "brand": "TVCore",
    "name": "TV Stick",
    "device": "ts401"
@@ -36999,6 +37026,38 @@
    "brand": "CONVERGE",
    "name": "T8045PS",
    "device": "T8045PS"
+  }
+ ],
+ "4K Google TV Box": [
+  {
+   "brand": "COOCAA",
+   "name": "ATBOX001 THE ULTRA",
+   "device": "YDA"
+  },
+  {
+   "brand": "Mecool",
+   "name": "KM7 PLUS",
+   "device": "YDA"
+  },
+  {
+   "brand": "Next",
+   "name": "Start-4K",
+   "device": "YDA"
+  },
+  {
+   "brand": "QVWI",
+   "name": "Leap-S3",
+   "device": "YDA"
+  },
+  {
+   "brand": "Strong",
+   "name": "Leap-S3",
+   "device": "YDA"
+  },
+  {
+   "brand": "Thomson",
+   "name": "LEAP-S3+",
+   "device": "YDA"
   }
  ],
  "YS-CK0001": [
@@ -63513,6 +63572,18 @@
    "device": "hongkong"
   }
  ],
+ "EcoTV Plus C": [
+  {
+   "brand": "FPD",
+   "name": "FPD",
+   "device": "lavender"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EcoTV Plus C",
+   "device": "hongkong"
+  }
+ ],
  "EcoTV Plus D": [
   {
    "brand": "FPD",
@@ -89227,6 +89298,13 @@
    "device": "HNVER"
   }
  ],
+ "BVL-N59": [
+  {
+   "brand": "Honor",
+   "name": "PORSCHE DESIGN HONOR Magic6",
+   "device": "HNBVL"
+  }
+ ],
  "BVL-AN20": [
   {
    "brand": "Honor",
@@ -109702,6 +109780,13 @@
    "device": "GP10X2019"
   }
  ],
+ "Orange Nola up": [
+  {
+   "brand": "Itel",
+   "name": "Orange Nola Up",
+   "device": "Nola_Up"
+  }
+ ],
  "Orange Nola fun 3": [
   {
    "brand": "Itel",
@@ -114340,13 +114425,6 @@
   {
    "brand": "KTCtv",
    "name": "EcoTV Plus A",
-   "device": "hongkong"
-  }
- ],
- "EcoTV Plus C": [
-  {
-   "brand": "KTCtv",
-   "name": "EcoTV Plus C",
    "device": "hongkong"
   }
  ],
@@ -130239,6 +130317,13 @@
    "device": "LXX506"
   }
  ],
+ "LXX513": [
+  {
+   "brand": "Lava",
+   "name": "Blaze X 5G",
+   "device": "LXX513"
+  }
+ ],
  "era1X": [
   {
    "brand": "Lava",
@@ -130828,6 +130913,20 @@
    "brand": "Lava",
    "name": "YUVA 3",
    "device": "LZX415"
+  }
+ ],
+ "LAVA LXX510": [
+  {
+   "brand": "Lava",
+   "name": "Yuva 5G",
+   "device": "LXX510"
+  }
+ ],
+ "LAVA LZG409": [
+  {
+   "brand": "Lava",
+   "name": "Yuva Star",
+   "device": "LZG409"
   }
  ],
  "LAVA LZG401": [
@@ -144194,13 +144293,6 @@
    "device": "LAS"
   }
  ],
- "4K Android TV Box": [
-  {
-   "brand": "Mecool",
-   "name": "KM2 PLUS",
-   "device": "YYC"
-  }
- ],
  "KM3": [
   {
    "brand": "Mecool",
@@ -144220,18 +144312,6 @@
    "brand": "Mecool",
    "name": "KM7",
    "device": "KM7"
-  }
- ],
- "4K Google TV Box": [
-  {
-   "brand": "Mecool",
-   "name": "KM7 PLUS",
-   "device": "YDA"
-  },
-  {
-   "brand": "Strong",
-   "name": "Leap-S3",
-   "device": "YDA"
   }
  ],
  "KM8": [
@@ -166793,6 +166873,23 @@
    "device": "CPH1837"
   }
  ],
+ "CPH2669": [
+  {
+   "brand": "Oppo",
+   "name": "A3",
+   "device": "OP5B16L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A40/A3/A40m",
+   "device": "OP5B16L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A40/A40m",
+   "device": "OP5B16L1"
+  }
+ ],
  "A402OP": [
   {
    "brand": "Oppo",
@@ -167039,6 +167136,18 @@
    "brand": "Oppo",
    "name": "CPH1853",
    "device": "CPH1853"
+  }
+ ],
+ "CPH2641": [
+  {
+   "brand": "Oppo",
+   "name": "A3x",
+   "device": "OP5B16L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3x/A20",
+   "device": "OP5B16L1"
   }
  ],
  "PKD130": [
@@ -167431,6 +167540,13 @@
    "brand": "Oppo",
    "name": "A60",
    "device": "OP5AE7L1"
+  }
+ ],
+ "CPH3669": [
+  {
+   "brand": "Oppo",
+   "name": "A60",
+   "device": "OP5B16L1"
   }
  ],
  "CPH1901": [

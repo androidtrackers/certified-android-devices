@@ -13795,6 +13795,11 @@
   {
    "brand": "FPD",
    "name": "FPD",
+   "model": "EcoTV Plus C"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
    "model": "EcoTV Plus D"
   },
   {
@@ -30489,6 +30494,28 @@
    "model": "YOU-BOX"
   }
  ],
+ "YYC": [
+  {
+   "brand": "BOXY",
+   "name": "BOXY",
+   "model": "4K Android TV Box"
+  },
+  {
+   "brand": "Mecool",
+   "name": "KM2 PLUS",
+   "model": "4K Android TV Box"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Leap-S4",
+   "model": "4K Android TV Box"
+  },
+  {
+   "brand": "Strong",
+   "name": "HP4423",
+   "model": "4K Android TV Box"
+  }
+ ],
  "BQru-5060": [
   {
    "brand": "BQru",
@@ -41748,6 +41775,38 @@
    "brand": "CONVERGE",
    "name": "T8045PS",
    "model": "T8045PS"
+  }
+ ],
+ "YDA": [
+  {
+   "brand": "COOCAA",
+   "name": "ATBOX001 THE ULTRA",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "Mecool",
+   "name": "KM7 PLUS",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "Next",
+   "name": "Start-4K",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "QVWI",
+   "name": "Leap-S3",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "Strong",
+   "name": "Leap-S3",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "Thomson",
+   "name": "LEAP-S3+",
+   "model": "4K Google TV Box"
   }
  ],
  "YS-CK0001": [
@@ -92009,6 +92068,11 @@
   },
   {
    "brand": "Honor",
+   "name": "PORSCHE DESIGN HONOR Magic6",
+   "model": "BVL-N59"
+  },
+  {
+   "brand": "Honor",
    "name": "PORSCHE DESIGN HONOR Magic6 RSR",
    "model": "BVL-AN20"
   }
@@ -110589,6 +110653,13 @@
    "model": "GP10X2019"
   }
  ],
+ "Nola_Up": [
+  {
+   "brand": "Itel",
+   "name": "Orange Nola Up",
+   "model": "Orange Nola up"
+  }
+ ],
  "Nola_fun_3": [
   {
    "brand": "Itel",
@@ -129078,6 +129149,13 @@
    "model": "LAVA LXX506"
   }
  ],
+ "LXX513": [
+  {
+   "brand": "Lava",
+   "name": "Blaze X 5G",
+   "model": "LXX513"
+  }
+ ],
  "era1X": [
   {
    "brand": "Lava",
@@ -129689,6 +129767,20 @@
    "brand": "Lava",
    "name": "YUVA 3",
    "model": "LZX415"
+  }
+ ],
+ "LXX510": [
+  {
+   "brand": "Lava",
+   "name": "Yuva 5G",
+   "model": "LAVA LXX510"
+  }
+ ],
+ "LZG409": [
+  {
+   "brand": "Lava",
+   "name": "Yuva Star",
+   "model": "LAVA LZG409"
   }
  ],
  "LZG401": [
@@ -142799,6 +142891,11 @@
    "model": "TV Stick"
   },
   {
+   "brand": "Skyworth",
+   "name": "Leap-L1",
+   "model": "TV Stick"
+  },
+  {
    "brand": "eroc",
    "name": "F1",
    "model": "TV Stick"
@@ -142843,13 +142940,6 @@
    "model": "LEAP-S1"
   }
  ],
- "YYC": [
-  {
-   "brand": "Mecool",
-   "name": "KM2 PLUS",
-   "model": "4K Android TV Box"
-  }
- ],
  "KM3": [
   {
    "brand": "Mecool",
@@ -142869,18 +142959,6 @@
    "brand": "Mecool",
    "name": "KM7",
    "model": "KM7"
-  }
- ],
- "YDA": [
-  {
-   "brand": "Mecool",
-   "name": "KM7 PLUS",
-   "model": "4K Google TV Box"
-  },
-  {
-   "brand": "Strong",
-   "name": "Leap-S3",
-   "model": "4K Google TV Box"
   }
  ],
  "KM8": [
@@ -164825,6 +164903,38 @@
    "brand": "Oppo",
    "name": "A3",
    "model": "CPH1837"
+  }
+ ],
+ "OP5B16L1": [
+  {
+   "brand": "Oppo",
+   "name": "A3",
+   "model": "CPH2669"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3x",
+   "model": "CPH2641"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A3x/A20",
+   "model": "CPH2641"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A40/A3/A40m",
+   "model": "CPH2669"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A40/A40m",
+   "model": "CPH2669"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A60",
+   "model": "CPH3669"
   }
  ],
  "OP5B05L1": [

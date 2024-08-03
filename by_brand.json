@@ -15443,6 +15443,13 @@
    "model": "WZONE"
   }
  ],
+ "BOXY": [
+  {
+   "device": "YYC",
+   "name": "BOXY",
+   "model": "4K Android TV Box"
+  }
+ ],
  "BPL": [
   {
    "device": "ikebukuro",
@@ -23713,6 +23720,13 @@
    "device": "T8045PS",
    "name": "T8045PS",
    "model": "T8045PS"
+  }
+ ],
+ "COOCAA": [
+  {
+   "device": "YDA",
+   "name": "ATBOX001 THE ULTRA",
+   "model": "4K Google TV Box"
   }
  ],
  "COOKIE": [
@@ -43357,6 +43371,11 @@
    "device": "hongkong",
    "name": "FPD",
    "model": "EcoTV Pro I"
+  },
+  {
+   "device": "lavender",
+   "name": "FPD",
+   "model": "EcoTV Plus C"
   },
   {
    "device": "lavender",
@@ -63200,6 +63219,11 @@
   },
   {
    "device": "HNBVL",
+   "name": "PORSCHE DESIGN HONOR Magic6",
+   "model": "BVL-N59"
+  },
+  {
+   "device": "HNBVL",
    "name": "PORSCHE DESIGN HONOR Magic6 RSR",
    "model": "BVL-AN20"
   },
@@ -78769,6 +78793,11 @@
    "device": "itel-A631W",
    "name": "Itel A58 Lite",
    "model": "itel A631W"
+  },
+  {
+   "device": "Nola_Up",
+   "name": "Orange Nola Up",
+   "model": "Orange Nola up"
   },
   {
    "device": "Nola_fun_3",
@@ -95298,6 +95327,11 @@
    "model": "LAVA LXX506"
   },
   {
+   "device": "LXX513",
+   "name": "Blaze X 5G",
+   "model": "LXX513"
+  },
+  {
    "device": "era1X",
    "name": "ERA 1X",
    "model": "era1X"
@@ -95746,6 +95780,16 @@
    "device": "LZX415",
    "name": "YUVA 3",
    "model": "LZX415"
+  },
+  {
+   "device": "LXX510",
+   "name": "Yuva 5G",
+   "model": "LAVA LXX510"
+  },
+  {
+   "device": "LZG409",
+   "name": "Yuva Star",
+   "model": "LAVA LZG409"
   },
   {
    "device": "Z1",
@@ -120236,6 +120280,11 @@
    "device": "zhongshan",
    "name": "NEXT",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "YDA",
+   "name": "Start-4K",
+   "model": "4K Google TV Box"
   }
  ],
  "Next Learning": [
@@ -124771,6 +124820,11 @@
    "model": "CPH1837"
   },
   {
+   "device": "OP5B16L1",
+   "name": "A3",
+   "model": "CPH2669"
+  },
+  {
    "device": "OP5B05L1",
    "name": "A3 5G",
    "model": "A402OP"
@@ -124941,6 +124995,11 @@
    "model": "CPH1853"
   },
   {
+   "device": "OP5B16L1",
+   "name": "A3x",
+   "model": "CPH2641"
+  },
+  {
    "device": "OP5A47",
    "name": "A3x 5G",
    "model": "PKD130"
@@ -124949,6 +125008,11 @@
    "device": "OP5EA7L1",
    "name": "A3x 5G",
    "model": "CPH2681"
+  },
+  {
+   "device": "OP5B16L1",
+   "name": "A3x/A20",
+   "model": "CPH2641"
   },
   {
    "device": "PADM00",
@@ -124964,6 +125028,16 @@
    "device": "OP5A47",
    "name": "A3活力版 5G",
    "model": "PKD110"
+  },
+  {
+   "device": "OP5B16L1",
+   "name": "A40/A3/A40m",
+   "model": "CPH2669"
+  },
+  {
+   "device": "OP5B16L1",
+   "name": "A40/A40m",
+   "model": "CPH2669"
   },
   {
    "device": "CPH1809",
@@ -125214,6 +125288,11 @@
    "device": "OP5AE7L1",
    "name": "A60",
    "model": "CPH2631"
+  },
+  {
+   "device": "OP5B16L1",
+   "name": "A60",
+   "model": "CPH3669"
   },
   {
    "device": "CPH1901",
@@ -139695,6 +139774,13 @@
    "device": "U55",
    "name": "U55",
    "model": "U55"
+  }
+ ],
+ "QVWI": [
+  {
+   "device": "YDA",
+   "name": "Leap-S3",
+   "model": "4K Google TV Box"
   }
  ],
  "QVY TV": [
@@ -168096,9 +168182,19 @@
    "model": "LEAP-S1"
   },
   {
+   "device": "BOS",
+   "name": "Leap-L1",
+   "model": "TV Stick"
+  },
+  {
    "device": "YYT",
    "name": "Leap-S2",
    "model": "4K Google TV Stick"
+  },
+  {
+   "device": "YYC",
+   "name": "Leap-S4",
+   "model": "4K Android TV Box"
   },
   {
    "device": "shinagawa",
@@ -173337,6 +173433,11 @@
    "device": "redwood",
    "name": "Android TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "YYC",
+   "name": "HP4423",
+   "model": "4K Android TV Box"
   },
   {
    "device": "LAS",
@@ -189437,6 +189538,11 @@
    "device": "LAS",
    "name": "LEAP-S1",
    "model": "LEAP-S1"
+  },
+  {
+   "device": "YDA",
+   "name": "LEAP-S3+",
+   "model": "4K Google TV Box"
   },
   {
    "device": "Origin_679",

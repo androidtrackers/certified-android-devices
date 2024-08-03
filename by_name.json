@@ -29899,6 +29899,13 @@
    "model": "WZONE"
   }
  ],
+ "BOXY": [
+  {
+   "brand": "BOXY",
+   "device": "YYC",
+   "model": "4K Android TV Box"
+  }
+ ],
  "BPL FHD TV": [
   {
    "brand": "BPL",
@@ -32217,6 +32224,11 @@
    "model": "CPH1837"
   },
   {
+   "brand": "Oppo",
+   "device": "OP5B16L1",
+   "model": "CPH2669"
+  },
+  {
    "brand": "TCT (Alcatel)",
    "device": "mickey6",
    "model": "5046A"
@@ -34209,6 +34221,11 @@
    "brand": "Oppo",
    "device": "OP5AE7L1",
    "model": "CPH2631"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP5B16L1",
+   "model": "CPH3669"
   },
   {
    "brand": "Trident",
@@ -42401,6 +42418,13 @@
    "brand": "CONVERGE",
    "device": "T8045PS",
    "model": "T8045PS"
+  }
+ ],
+ "ATBOX001 THE ULTRA": [
+  {
+   "brand": "COOCAA",
+   "device": "YDA",
+   "model": "4K Google TV Box"
   }
  ],
  "YS-CK0001": [
@@ -69770,6 +69794,11 @@
   {
    "brand": "FPD",
    "device": "lavender",
+   "model": "EcoTV Plus C"
+  },
+  {
+   "brand": "FPD",
+   "device": "lavender",
    "model": "EcoTV Plus D"
   },
   {
@@ -94447,6 +94476,13 @@
    "model": "VER-N49DP"
   }
  ],
+ "PORSCHE DESIGN HONOR Magic6": [
+  {
+   "brand": "Honor",
+   "device": "HNBVL",
+   "model": "BVL-N59"
+  }
+ ],
  "PORSCHE DESIGN HONOR Magic6 RSR": [
   {
    "brand": "Honor",
@@ -111305,6 +111341,13 @@
    "brand": "Itel",
    "device": "itel-A631W",
    "model": "itel A631W"
+  }
+ ],
+ "Orange Nola Up": [
+  {
+   "brand": "Itel",
+   "device": "Nola_Up",
+   "model": "Orange Nola up"
   }
  ],
  "Orange Nola fun 3": [
@@ -130101,6 +130144,13 @@
    "model": "LAVA LXX506"
   }
  ],
+ "Blaze X 5G": [
+  {
+   "brand": "Lava",
+   "device": "LXX513",
+   "model": "LXX513"
+  }
+ ],
  "ERA 1X": [
   {
    "brand": "Lava",
@@ -130658,6 +130708,20 @@
    "brand": "Lava",
    "device": "LZX415",
    "model": "LZX415"
+  }
+ ],
+ "Yuva 5G": [
+  {
+   "brand": "Lava",
+   "device": "LXX510",
+   "model": "LAVA LXX510"
+  }
+ ],
+ "Yuva Star": [
+  {
+   "brand": "Lava",
+   "device": "LZG409",
+   "model": "LAVA LZG409"
   }
  ],
  "Z1 Pro": [
@@ -159179,6 +159243,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "Start-4K": [
+  {
+   "brand": "Next",
+   "device": "YDA",
+   "model": "4K Google TV Box"
+  }
+ ],
  "Nexttab N3": [
   {
    "brand": "Next Learning",
@@ -164397,6 +164468,13 @@
    "model": "CPH1853"
   }
  ],
+ "A3x": [
+  {
+   "brand": "Oppo",
+   "device": "OP5B16L1",
+   "model": "CPH2641"
+  }
+ ],
  "A3x 5G": [
   {
    "brand": "Oppo",
@@ -164407,6 +164485,13 @@
    "brand": "Oppo",
    "device": "OP5EA7L1",
    "model": "CPH2681"
+  }
+ ],
+ "A3x/A20": [
+  {
+   "brand": "Oppo",
+   "device": "OP5B16L1",
+   "model": "CPH2641"
   }
  ],
  "A3中国版": [
@@ -164426,6 +164511,20 @@
    "brand": "Oppo",
    "device": "OP5A47",
    "model": "PKD110"
+  }
+ ],
+ "A40/A3/A40m": [
+  {
+   "brand": "Oppo",
+   "device": "OP5B16L1",
+   "model": "CPH2669"
+  }
+ ],
+ "A40/A40m": [
+  {
+   "brand": "Oppo",
+   "device": "OP5B16L1",
+   "model": "CPH2669"
   }
  ],
  "A5 2020": [
@@ -182398,6 +182497,18 @@
    "brand": "Viwa",
    "device": "VIWA_VISION",
    "model": "VISION"
+  }
+ ],
+ "Leap-S3": [
+  {
+   "brand": "QVWI",
+   "device": "YDA",
+   "model": "4K Google TV Box"
+  },
+  {
+   "brand": "Strong",
+   "device": "YDA",
+   "model": "4K Google TV Box"
   }
  ],
  "huangshan_QVY": [
@@ -214780,11 +214891,25 @@
    "model": "LEAP-S1"
   }
  ],
+ "Leap-L1": [
+  {
+   "brand": "Skyworth",
+   "device": "BOS",
+   "model": "TV Stick"
+  }
+ ],
  "Leap-S2": [
   {
    "brand": "Skyworth",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "Leap-S4": [
+  {
+   "brand": "Skyworth",
+   "device": "YYC",
+   "model": "4K Android TV Box"
   }
  ],
  "METZ 2K TV": [
@@ -220665,11 +220790,11 @@
    "model": "Stream"
   }
  ],
- "Leap-S3": [
+ "HP4423": [
   {
    "brand": "Strong",
-   "device": "YDA",
-   "model": "4K Google TV Box"
+   "device": "YYC",
+   "model": "4K Android TV Box"
   }
  ],
  "SRT41": [
@@ -238774,6 +238899,13 @@
    "brand": "Thomson",
    "device": "HERO10RK",
    "model": "HERO10RK"
+  }
+ ],
+ "LEAP-S3+": [
+  {
+   "brand": "Thomson",
+   "device": "YDA",
+   "model": "4K Google TV Box"
   }
  ],
  "Origin_679": [

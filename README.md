@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-02
+Last sync is 2024-08-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2987,6 +2987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOTECH|BOTECH|stanford|2K SMART TV|
 |BOTECH|BOTECH|zhongshan|4K SMART TV|
 |BOTECH|WZONE|HND|WZONE|
+|BOXY|BOXY|YYC|4K Android TV Box|
 |BPL|Android TV|ikebukuro|AI PONT|
 |BPL|Android TV|longshan|AI PONT|
 |BPL|Android TV|samseong|AI PONT|
@@ -4587,6 +4588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CONSUNG|N101A|N101A|N101A|
 |CONVERGE|T7045PS|T7045PS|T7045PS|
 |CONVERGE|T8045PS|T8045PS|T8045PS|
+|COOCAA|ATBOX001 THE ULTRA|YDA|4K Google TV Box|
 |COOKIE|YS-CK0001|YS-CK0001|YS-CK0001|
 |COOLFAN|C107|C107|C107|
 |COOLFAN|C107_EEA|C107|C107|
@@ -8349,6 +8351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
 |FPD|FPD|hongkong|EcoTV Pro I|
+|FPD|FPD|lavender|EcoTV Plus C|
 |FPD|FPD|lavender|EcoTV Plus D|
 |FPD|FPD|lavender|EcoTV Plus I|
 |FPD|FPD|mountbaker|EcoTV A|
@@ -12213,6 +12216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
 |Honor|Honor X9b 5G|HNALI-Q|ALI-NX3P|
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
+|Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
@@ -15281,6 +15285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
 |Itel|ITELMOBILE GP10X2019|GP10X2019|GP10X2019|
 |Itel|Itel A58 Lite|itel-A631W|itel A631W|
+|Itel|Orange Nola Up|Nola_Up|Orange Nola up|
 |Itel|Orange Nola fun 3|Nola_fun_3|Orange Nola fun 3|
 |Itel|P11|itel_P11|itel P11|
 |Itel|P12|itel_P12|itel P12|
@@ -18508,6 +18513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Blaze 2 Pro|LZX406|LAVA LZX406|
 |Lava|Blaze Curve|LXX505|LAVA LXX505|
 |Lava|Blaze Pro 5G|LXX506|LAVA LXX506|
+|Lava|Blaze X 5G|LXX513|LXX513|
 |Lava|ERA 1X|era1X|era1X|
 |Lava|ERA 1X|era1X|era1Xpro|
 |Lava|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
@@ -18598,6 +18604,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Y50|AF9020|AF9020|
 |Lava|YUVA 2 PRO|LZX408|LAVA LZX408|
 |Lava|YUVA 3|LZX415|LZX415|
+|Lava|Yuva 5G|LXX510|LAVA LXX510|
+|Lava|Yuva Star|LZG409|LAVA LZG409|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
 |Lava|Z10|LAVA_Z10|Z10|
@@ -23370,6 +23378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Next|4K TV Stick|YYT|4K Google TV Stick|
 |Next|NEXT|stanford|2K SMART TV|
 |Next|NEXT|zhongshan|4K SMART TV|
+|Next|Start-4K|YDA|4K Google TV Box|
 |Next Learning|Nexttab N3|N3|N3|
 |Next Technologies|GO7BSC|GO7BSC|GO7BSC|
 |Next Technologies|N7526|N7526|N7526|
@@ -24235,6 +24244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A2 5G|OP5647|PJB110|
 |Oppo|A2x 5G|OP5A0D|PJS110|
 |Oppo|A3|CPH1837|CPH1837|
+|Oppo|A3|OP5B16L1|CPH2669|
 |Oppo|A3 5G|OP5B05L1|A402OP|
 |Oppo|A3 Pro 5G|OP59FB|PJY110|
 |Oppo|A3 Pro 5G|OP5B05L1|CPH2665|
@@ -24269,11 +24279,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3m 5G|OP5A47|PKD120|
 |Oppo|A3s|CPH1803|CPH1803|
 |Oppo|A3s|CPH1853|CPH1853|
+|Oppo|A3x|OP5B16L1|CPH2641|
 |Oppo|A3x 5G|OP5A47|PKD130|
 |Oppo|A3x 5G|OP5EA7L1|CPH2681|
+|Oppo|A3x/A20|OP5B16L1|CPH2641|
 |Oppo|A3中国版|PADM00|PADM00|
 |Oppo|A3中国版|PADT00|PADT00|
 |Oppo|A3活力版 5G|OP5A47|PKD110|
+|Oppo|A40/A3/A40m|OP5B16L1|CPH2669|
+|Oppo|A40/A40m|OP5B16L1|CPH2669|
 |Oppo|A5|CPH1809|CPH1809|
 |Oppo|A5|PBAM00|PBAM00|
 |Oppo|A5|PBAT00|PBAT00|
@@ -24324,6 +24338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A59t|A59|OPPO A59t|
 |Oppo|A59tm|A59|OPPO A59tm|
 |Oppo|A60|OP5AE7L1|CPH2631|
+|Oppo|A60|OP5B16L1|CPH3669|
 |Oppo|A7|CPH1901|CPH1901|
 |Oppo|A7|CPH1905|CPH1905|
 |Oppo|A7|PBFM00|PBFM00|
@@ -27155,6 +27170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUEST|VISION|VISION|VISION|
 |QUEST|Vibe|Vibe|Vibe|
 |QUICK|U55|U55|U55|
+|QVWI|Leap-S3|YDA|4K Google TV Box|
 |QVY TV|huangshan_QVY|huangshan|QVY 4K Laser Home Theatre|
 |QWILI|pula|Pula|Pula|
 |Qilive|Europe|tamachi|Qilive FHD Android TV|
@@ -32736,7 +32752,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|Hong Kong|open_uhd_hk|open_uhd|
 |Skyworth|LEAP-S1|LAS|LEAP-S1|
+|Skyworth|Leap-L1|BOS|TV Stick|
 |Skyworth|Leap-S2|YYT|4K Google TV Stick|
+|Skyworth|Leap-S4|YYC|4K Android TV Box|
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|NT-01|HP40A|NT-01|
 |Skyworth|North America|globe_na|globe|
@@ -33759,6 +33777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
 |Strong|Android TV|redwood|AI PONT|
+|Strong|HP4423|YYC|4K Android TV Box|
 |Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|Leap-S3|YDA|4K Google TV Box|
 |Strong|SRT41|YYT|4K Google TV Stick|
@@ -36907,6 +36926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|HERO10RK|HERO10RK_EEA|HERO10RK|
 |Thomson|Hero10RK|HERO10RK|HERO10RK|
 |Thomson|LEAP-S1|LAS|LEAP-S1|
+|Thomson|LEAP-S3+|YDA|4K Google TV Box|
 |Thomson|Origin_679|Origin_679|Origin_679|
 |Thomson|PRIMO7 Tablet|PRIMO7|PRIMO7|
 |Thomson|PRIMO8 Tablet|AMLMY8306P|PRIMO8|
