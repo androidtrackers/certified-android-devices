@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-04
+Last sync is 2024-08-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -357,6 +357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|MID_1089IPS_EEA|MID_1089IPS_EEA|MID_1089IPS_EEA|
 |AWOW|UTBook|UTBook|UTBook|
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
+|AX-META|AX_META_Tab_7|AX_META_Tab_7|AX_META_Tab_7|
 |AXEL|AX_PRO|AX_PRO|AX_PRO|
 |AXON|Evolution|Evolution|Evolution|
 |AXSTV|AXSTV130|SEI130PTS|AXSTV130|
@@ -470,6 +471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|AK330s|C8n|AK330S|
 |Acer|AS10L|AS10L|AS10L|
 |Acer|AS10W|AS10W|AS10W|
+|Acer|AS10WF|AS10WF|AS10WF|
 |Acer|AS8W|AS8W|AS8W|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
 |Acer|ATAB1024E|ATAB1024E|ATAB1024E|
@@ -16568,6 +16570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|NET_R7|NET_R7|NET_R7|
 |Krono|NET_TITAN|NET_TITAN|NET_TITAN|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
+|Krono|NET_X2|NET_X2|NET_X2|
 |Krono|Net_Max_Go|Net_Max_Go|Net_Max_Go|
 |Krono|SKY|SKY|SKY|
 |Krono|ULTRA|ULTRA|ULTRA|
@@ -18695,6 +18698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Le Pan|TC1020|FG6Q|Le Pan TC1020|
 |Le Pan|TC802A|UY8|Le Pan TC802A|
 |LeBest|A1|A1|A1|
+|LeBest|LeBest L2|L2|L2|
 |LeBest|S1|S1|S1|
 |LeTV|Le 2|le_s2|Le X520|
 |LeTV|Le 2|le_s2_ww|Le X526|
@@ -20066,6 +20070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAZE|SSB5518R|SSB5518R|SSB5518R|
 |MAZE|SSB558R|SSB558R|SSB558R|
 |MAZE|SSB700T|SSB700T|SSB700T|
+|MBO(Aolixin)|16A Pro|16A_Pro|16A_Pro|
 |MCTV|MCIFPD|rk3588_t|MCIFPD|
 |MDC Store|Grand|Grand|Grand|
 |MDC Store|M100|M100|M100|
@@ -23681,6 +23686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nothing|Nothing Phone (2)|Pong|A065|
 |Nothing|Nothing Phone (2)|Pong|AIN065|
 |Nothing|Nothing Phone (2a)|Pacman|A142|
+|Nothing|Nothing Phone (2a) Plus|PacmanPro|A142P|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
@@ -25334,6 +25340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
 |POWMUS|L211-EEA|L211-EEA|L211-EEA|
+|PRAZteck|2-IN-1_Tablet_PC|PT10EduPad21|PT10EduPad21|
 |PRAZteck|PT116LPREduPad|Laptop|PT116LPREduPad|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
@@ -39229,6 +39236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vmobile|A13_Y|A13_Y|A13_Y|
 |Vmobile|A15|A15|A15|
 |Vocal|V01|V01|VOCAL V01|
+|Vocal|V0Core|V0Core|VOCAL V0Core|
 |Vocal|v0|v0|VOCAL V0|
 |Vocal|v1|v1|VOCAL V1|
 |Vodafone|785|Vodafone_785|Vodafone 785|
@@ -39378,6 +39386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vortex|HD65|HD65|HD65|
 |Vortex|HD67|HD67|HD67|
 |Vortex|MUV|MUV|MUV|
+|Vortex|PG65|PG65|PG65|
 |Vortex|SYNQ|SYNQ|SYNQ|
 |Vortex|Sync|Sync|Sync|
 |Vortex|T101|T101|T101|

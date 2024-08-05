@@ -1949,6 +1949,13 @@
    "model": "UTBook_EEA"
   }
  ],
+ "AX-META": [
+  {
+   "device": "AX_META_Tab_7",
+   "name": "AX_META_Tab_7",
+   "model": "AX_META_Tab_7"
+  }
+ ],
  "AXEL": [
   {
    "device": "AX_PRO",
@@ -2544,6 +2551,11 @@
    "device": "AS10W",
    "name": "AS10W",
    "model": "AS10W"
+  },
+  {
+   "device": "AS10WF",
+   "name": "AS10WF",
+   "model": "AS10WF"
   },
   {
    "device": "AS8W",
@@ -85476,6 +85488,11 @@
    "model": "NET_VOLT"
   },
   {
+   "device": "NET_X2",
+   "name": "NET_X2",
+   "model": "NET_X2"
+  },
+  {
    "device": "Net_Max_Go",
    "name": "Net_Max_Go",
    "model": "Net_Max_Go"
@@ -96245,6 +96262,11 @@
    "model": "A1"
   },
   {
+   "device": "L2",
+   "name": "LeBest L2",
+   "model": "L2"
+  },
+  {
    "device": "S1",
    "name": "S1",
    "model": "S1"
@@ -103210,6 +103232,13 @@
    "device": "SSB700T",
    "name": "SSB700T",
    "model": "SSB700T"
+  }
+ ],
+ "MBO(Aolixin)": [
+  {
+   "device": "16A_Pro",
+   "name": "16A Pro",
+   "model": "16A_Pro"
   }
  ],
  "MCTV": [
@@ -121851,6 +121880,11 @@
    "device": "Pacman",
    "name": "Nothing Phone (2a)",
    "model": "A142"
+  },
+  {
+   "device": "PacmanPro",
+   "name": "Nothing Phone (2a) Plus",
+   "model": "A142P"
   }
  ],
  "Nous": [
@@ -130381,6 +130415,11 @@
   }
  ],
  "PRAZteck": [
+  {
+   "device": "PT10EduPad21",
+   "name": "2-IN-1_Tablet_PC",
+   "model": "PT10EduPad21"
+  },
   {
    "device": "Laptop",
    "name": "PT116LPREduPad",
@@ -201453,6 +201492,11 @@
    "model": "VOCAL V01"
   },
   {
+   "device": "V0Core",
+   "name": "V0Core",
+   "model": "VOCAL V0Core"
+  },
+  {
    "device": "v0",
    "name": "v0",
    "model": "VOCAL V0"
@@ -202214,6 +202258,11 @@
    "device": "MUV",
    "name": "MUV",
    "model": "MUV"
+  },
+  {
+   "device": "PG65",
+   "name": "PG65",
+   "model": "PG65"
   },
   {
    "device": "SYNQ",

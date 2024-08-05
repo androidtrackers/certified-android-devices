@@ -7815,6 +7815,13 @@
    "model": "UTBook_EEA"
   }
  ],
+ "AX_META_Tab_7": [
+  {
+   "brand": "AX-META",
+   "name": "AX_META_Tab_7",
+   "model": "AX_META_Tab_7"
+  }
+ ],
  "AX_PRO": [
   {
    "brand": "AXEL",
@@ -9390,6 +9397,13 @@
    "brand": "Acer",
    "name": "AS10W",
    "model": "AS10W"
+  }
+ ],
+ "AS10WF": [
+  {
+   "brand": "Acer",
+   "name": "AS10WF",
+   "model": "AS10WF"
   }
  ],
  "AS8W": [
@@ -117329,6 +117343,13 @@
    "model": "NET_VOLT"
   }
  ],
+ "NET_X2": [
+  {
+   "brand": "Krono",
+   "name": "NET_X2",
+   "model": "NET_X2"
+  }
+ ],
  "Net_Max_Go": [
   {
    "brand": "Krono",
@@ -130406,6 +130427,13 @@
    "model": "Le Pan TC1010"
   }
  ],
+ "L2": [
+  {
+   "brand": "LeBest",
+   "name": "LeBest L2",
+   "model": "L2"
+  }
+ ],
  "le_s2": [
   {
    "brand": "LeTV",
@@ -139412,6 +139440,13 @@
    "brand": "MAZE",
    "name": "SSB700T",
    "model": "SSB700T"
+  }
+ ],
+ "16A_Pro": [
+  {
+   "brand": "MBO(Aolixin)",
+   "name": "16A Pro",
+   "model": "16A_Pro"
   }
  ],
  "Grand": [
@@ -161622,6 +161657,13 @@
    "model": "A142"
   }
  ],
+ "PacmanPro": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing Phone (2a) Plus",
+   "model": "A142P"
+  }
+ ],
  "NS5005": [
   {
    "brand": "Nous",
@@ -171932,6 +171974,13 @@
    "brand": "POWMUS",
    "name": "L211-EEA",
    "model": "L211-EEA"
+  }
+ ],
+ "PT10EduPad21": [
+  {
+   "brand": "PRAZteck",
+   "name": "2-IN-1_Tablet_PC",
+   "model": "PT10EduPad21"
   }
  ],
  "Laptop": [
@@ -254412,6 +254461,13 @@
    "model": "VOCAL V01"
   }
  ],
+ "V0Core": [
+  {
+   "brand": "Vocal",
+   "name": "V0Core",
+   "model": "VOCAL V0Core"
+  }
+ ],
  "v0": [
   {
    "brand": "Vocal",
@@ -255322,6 +255378,13 @@
    "brand": "Vortex",
    "name": "MUV",
    "model": "MUV"
+  }
+ ],
+ "PG65": [
+  {
+   "brand": "Vortex",
+   "name": "PG65",
+   "model": "PG65"
   }
  ],
  "SYNQ": [
