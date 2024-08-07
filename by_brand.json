@@ -1618,6 +1618,11 @@
  ],
  "ATMPC": [
   {
+   "device": "A9",
+   "name": "A9_EEA",
+   "model": "A9"
+  },
+  {
    "device": "IT-801B",
    "name": "IT-801B",
    "model": "IT-801B"
@@ -50167,6 +50172,11 @@
    "model": "Android SDK built for x86_64"
   },
   {
+   "device": "emulator_car64_x86_64",
+   "name": "Google Automotive Emulator",
+   "model": "Car on x86_64 emulator"
+  },
+  {
    "device": "vsoc_kiwi_x86_64",
    "name": "Google Play Games on PC",
    "model": "HPE device"
@@ -62278,6 +62288,11 @@
    "model": "CK65"
   },
   {
+   "device": "CK67",
+   "name": "CK67",
+   "model": "CK67"
+  },
+  {
    "device": "CK75",
    "name": "CK75",
    "model": "CX75 AC0"
@@ -62426,6 +62441,11 @@
    "device": "CT30P",
    "name": "CT30XP",
    "model": "CT30P"
+  },
+  {
+   "device": "CT37",
+   "name": "CT37",
+   "model": "CT37"
   },
   {
    "device": "CT40-L0-C",
@@ -63098,6 +63118,11 @@
    "device": "HNRKY-M1",
    "name": "HONOR X7a",
    "model": "RKY-LX3"
+  },
+  {
+   "device": "",
+   "name": "HONOR X7b",
+   "model": "CLK-LX1"
   },
   {
    "device": "HNCLK-Q",
@@ -80243,6 +80268,11 @@
    "device": "JR-802",
    "name": "JR-802",
    "model": "JR-802"
+  },
+  {
+   "device": "JR-J10A",
+   "name": "JR-J10A",
+   "model": "JR-J10A"
   },
   {
    "device": "JR-J71",
@@ -107090,6 +107120,11 @@
    "device": "ucw4046meg",
    "name": "XView+",
    "model": "Xview+"
+  },
+  {
+   "device": "uiw4059meg",
+   "name": "XView+",
+   "model": "XView+"
   }
  ],
  "Megahouse": [
@@ -140758,6 +140793,11 @@
    "device": "RATM30846",
    "name": "RATM30846",
    "model": "RATM30846"
+  },
+  {
+   "device": "RATM3144B",
+   "name": "RATM3144B",
+   "model": "RATM3144B"
   },
   {
    "device": "RATR30824",
@@ -187906,6 +187946,11 @@
    "model": "TECNO BG6i"
   },
   {
+   "device": "TECNO-KL4",
+   "name": "TECNO POP 9",
+   "model": "TECNO KL4"
+  },
+  {
    "device": "TECNO-L6502S",
    "name": "TECNO POP X5",
    "model": "TECNO L6502S"
@@ -188264,6 +188309,11 @@
    "device": "TECNO-KC1",
    "name": "TECNO SPARK Go",
    "model": "TECNO KC1"
+  },
+  {
+   "device": "TECNO-KL4",
+   "name": "TECNO SPARK Go 1",
+   "model": "TECNO KL4"
   },
   {
    "device": "TECNO-KG5",
@@ -191996,6 +192046,11 @@
    "device": "ArmorPad3Pro",
    "name": "Armor Pad 3 Pro",
    "model": "Armor Pad 3 Pro"
+  },
+  {
+   "device": "GQ3121AF1",
+   "name": "Armor Pad 4 Ultra",
+   "model": "Armor Pad 4 Ultra"
   },
   {
    "device": "ArmorPadLite",
@@ -214939,6 +214994,11 @@
    "model": "TURKCELL T80"
   },
   {
+   "device": "YEV",
+   "name": "TV Stick 4K",
+   "model": "TV Stick 4K"
+  },
+  {
    "device": "blade2",
    "name": "Telenor Touch Plus",
    "model": "Telenor Touch Plus"
@@ -223800,6 +223860,11 @@
    "device": "RE5C9AL1",
    "name": "realme 12x 5G",
    "model": "RMX3997"
+  },
+  {
+   "device": "RE5CA3L1",
+   "name": "realme 13 Pro 5G",
+   "model": "RMX3990"
   },
   {
    "device": "RE5CA3L1",

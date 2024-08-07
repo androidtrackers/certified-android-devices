@@ -5076,6 +5076,43 @@
    "device": "R5_Pro"
   }
  ],
+ "A9": [
+  {
+   "brand": "ATMPC",
+   "name": "A9_EEA",
+   "device": "A9"
+  },
+  {
+   "brand": "Figo",
+   "name": "A9",
+   "device": "A9"
+  },
+  {
+   "brand": "Greentel",
+   "name": "A9",
+   "device": "A9"
+  },
+  {
+   "brand": "Kenxinda",
+   "name": "A9",
+   "device": "A9"
+  },
+  {
+   "brand": "MUJENYZ",
+   "name": "A9",
+   "device": "A9"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A9",
+   "device": "A9"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A9 EEA",
+   "device": "A9"
+  }
+ ],
  "IT-801B": [
   {
    "brand": "ATMPC",
@@ -64167,38 +64204,6 @@
    "device": "Note_7_Pro"
   }
  ],
- "A9": [
-  {
-   "brand": "Figo",
-   "name": "A9",
-   "device": "A9"
-  },
-  {
-   "brand": "Greentel",
-   "name": "A9",
-   "device": "A9"
-  },
-  {
-   "brand": "Kenxinda",
-   "name": "A9",
-   "device": "A9"
-  },
-  {
-   "brand": "MUJENYZ",
-   "name": "A9",
-   "device": "A9"
-  },
-  {
-   "brand": "Umidigi",
-   "name": "A9",
-   "device": "A9"
-  },
-  {
-   "brand": "Umidigi",
-   "name": "A9 EEA",
-   "device": "A9"
-  }
- ],
  "ATRIUM II F55L2": [
   {
    "brand": "Figo",
@@ -72703,6 +72708,13 @@
    "brand": "Google",
    "name": "Google Android Emulator",
    "device": "generic_x86_arm"
+  }
+ ],
+ "Car on x86_64 emulator": [
+  {
+   "brand": "Google",
+   "name": "Google Automotive Emulator",
+   "device": "emulator_car64_x86_64"
   }
  ],
  "HPE device": [
@@ -88072,6 +88084,13 @@
    "device": "CK65-L0-N"
   }
  ],
+ "CK67": [
+  {
+   "brand": "Honeywell",
+   "name": "CK67",
+   "device": "CK67"
+  }
+ ],
  "CX75 AC0": [
   {
    "brand": "Honeywell",
@@ -88294,6 +88313,13 @@
    "brand": "Honeywell",
    "name": "CT30XP",
    "device": "CT30P"
+  }
+ ],
+ "CT37": [
+  {
+   "brand": "Honeywell",
+   "name": "CT37",
+   "device": "CT37"
   }
  ],
  "CT40": [
@@ -89166,6 +89192,11 @@
   }
  ],
  "CLK-LX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X7b",
+   "device": ""
+  },
   {
    "brand": "Honor",
    "name": "HONOR X7b",
@@ -111599,6 +111630,13 @@
    "brand": "JREN",
    "name": "JR-802",
    "device": "JR-802"
+  }
+ ],
+ "JR-J10A": [
+  {
+   "brand": "JREN",
+   "name": "JR-J10A",
+   "device": "JR-J10A"
   }
  ],
  "JR-J71": [
@@ -145318,6 +145356,13 @@
    "brand": "Megacable",
    "name": "OTT Xview+ AV1",
    "device": "B866V2F"
+  }
+ ],
+ "XView+": [
+  {
+   "brand": "Megacable",
+   "name": "XView+",
+   "device": "uiw4059meg"
   }
  ],
  "CP-D403": [
@@ -186763,6 +186808,13 @@
    "brand": "RCA",
    "name": "RATM30846",
    "device": "RATM30846"
+  }
+ ],
+ "RATM3144B": [
+  {
+   "brand": "RCA",
+   "name": "RATM3144B",
+   "device": "RATM3144B"
   }
  ],
  "RATR30824": [
@@ -247897,6 +247949,18 @@
    "device": "TECNO-BG6i"
   }
  ],
+ "TECNO KL4": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 9",
+   "device": "TECNO-KL4"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK Go 1",
+   "device": "TECNO-KL4"
+  }
+ ],
  "TECNO L6502S": [
   {
    "brand": "Tecno",
@@ -252734,6 +252798,13 @@
    "brand": "Ulefone",
    "name": "ArmorPad3Pro_EEA",
    "device": "ArmorPad3Pro"
+  }
+ ],
+ "Armor Pad 4 Ultra": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor Pad 4 Ultra",
+   "device": "GQ3121AF1"
   }
  ],
  "Armor Pad Lite": [
@@ -281178,6 +281249,13 @@
    "device": "P840F14"
   }
  ],
+ "TV Stick 4K": [
+  {
+   "brand": "ZTE",
+   "name": "TV Stick 4K",
+   "device": "YEV"
+  }
+ ],
  "Telenor Touch Plus": [
   {
    "brand": "ZTE",
@@ -291453,6 +291531,13 @@
    "brand": "realme",
    "name": "realme 12+ 5G",
    "device": "RE5C86L1"
+  }
+ ],
+ "RMX3990": [
+  {
+   "brand": "realme",
+   "name": "realme 13 Pro 5G",
+   "device": "RE5CA3L1"
   }
  ],
  "RMX3921": [

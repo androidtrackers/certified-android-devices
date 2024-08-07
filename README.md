@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-06
+Last sync is 2024-08-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -296,6 +296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATM (Brazil)|R5|R5|R5|
 |ATM (Brazil)|R5Plus|R5Plus|R5Plus|
 |ATM (Brazil)|R5_Pro|R5_Pro|R5 Pro|
+|ATMPC|A9_EEA|A9|A9|
 |ATMPC|IT-801B|IT-801B|IT-801B|
 |ATMPC|IT_701A|IT_701A|IT_701A|
 |ATMPC|IT_701A_EEA|IT_701A_EEA|IT_701A|
@@ -9649,6 +9650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Galaxy S4 Google Play edition|jgedlte|GT-I9505G|
 |Google|Google Android Emulator|generic_x86_arm|sdk_gphone_x86|
 |Google|Google Automotive Emulator|emulator_car64_x86_64|Android SDK built for x86_64|
+|Google|Google Automotive Emulator|emulator_car64_x86_64|Car on x86_64 emulator|
 |Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
 |Google|Intel Alder Lake Chromebox|brask_cheets|brask|
@@ -12028,6 +12030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|70eLWN|dblack_wn|Dolphin 70e Black|
 |Honeywell|CK65|CK65-L0-C|CK65|
 |Honeywell|CK65|CK65-L0-N|CK65|
+|Honeywell|CK67|CK67|CK67|
 |Honeywell|CK75|CK75|CX75 AC0|
 |Honeywell|CK75|CK75|CX75 AN0|
 |Honeywell|CN51|CN51_NC0|CN51 NC0|
@@ -12058,6 +12061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN85|CN85-L0-C|CN85|
 |Honeywell|CN85|CN85-L1-C|CN85|
 |Honeywell|CT30XP|CT30P|CT30P|
+|Honeywell|CT37|CT37|CT37|
 |Honeywell|CT40|CT40-L0-C|CT40|
 |Honeywell|CT40|CT40-L0-CA|CT40|
 |Honeywell|CT40|CT40-L1-C|CT40|
@@ -12192,6 +12196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7a|HNRKY-M1|RKY-LX1|
 |Honor|HONOR X7a|HNRKY-M1|RKY-LX2|
 |Honor|HONOR X7a|HNRKY-M1|RKY-LX3|
+|Honor|HONOR X7b||CLK-LX1|
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX1|
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX2|
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX3|
@@ -15569,6 +15574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JREN|J7|J7|J7|
 |JREN|JR-101|JR-101|JR-101|
 |JREN|JR-802|JR-802|JR-802|
+|JREN|JR-J10A|JR-J10A|JR-J10A|
 |JREN|JR-J71|JR-J71|JR-J71|
 |JREN|JR-J8|JR-J8|JR-J8|
 |JREN|JR_J1063|JR_J1063|JR_J1063|
@@ -20804,6 +20810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Megacable|Mexico|B866V2_ZTE|Xview+|
 |Megacable|OTT Xview+ AV1|B866V2F|OTT Xview+ AV1|
 |Megacable|XView+|ucw4046meg|Xview+|
+|Megacable|XView+|uiw4059meg|XView+|
 |Megahouse|CP-D403|CP-D403|CP-D403|
 |Meiigoo|S8|MEIIGOO_S8|S8|
 |Meiigoo|S9|S9|S9|
@@ -27358,6 +27365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Q2|Q2|Q2|
 |RCA|RAKR30824|RAKR30824|RAKR30824|
 |RCA|RATM30846|RATM30846|RATM30846|
+|RCA|RATM3144B|RATM3144B|RATM3144B|
 |RCA|RATR30824|RATR30824|RATR30824|
 |RCA|RATR31024|RATR31024|RATR31024|
 |RCA|RC10T3G21|RC10T3G21|RC10T3G21|
@@ -36614,6 +36622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 6 Go 4G|TECNO-BE6j|TECNO BE6j|
 |Tecno|TECNO POP 7|TECNO-BF6|TECNO BF6|
 |Tecno|TECNO POP 8|TECNO-BG6i|TECNO BG6i|
+|Tecno|TECNO POP 9|TECNO-KL4|TECNO KL4|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
 |Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
@@ -36686,6 +36695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 9 Pro|TECNO-KH7n|TECNO KH7n|
 |Tecno|TECNO SPARK 9T|TECNO-KH6|TECNO KH6|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
+|Tecno|TECNO SPARK Go 1|TECNO-KL4|TECNO KL4|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5|TECNO KG5|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5h|TECNO KG5h|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5m|TECNO KG5m|
@@ -37384,6 +37394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor Pad|Armor_Pad|Armor Pad|
 |Ulefone|Armor Pad 2|Armor_Pad_2|Armor Pad 2|
 |Ulefone|Armor Pad 3 Pro|ArmorPad3Pro|Armor Pad 3 Pro|
+|Ulefone|Armor Pad 4 Ultra|GQ3121AF1|Armor Pad 4 Ultra|
 |Ulefone|Armor Pad Lite|ArmorPadLite|Armor Pad Lite|
 |Ulefone|Armor Pad Pro|ArmorPadPro|Armor Pad Pro|
 |Ulefone|Armor X|Armor_X|Armor_X|
@@ -41859,6 +41870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|TURKCELL T60|msm8916_32|TURKCELL T60|
 |ZTE|TURKCELL T70|P809T70|TURKCELL T70|
 |ZTE|TURKCELL T80|P840F14|TURKCELL T80|
+|ZTE|TV Stick 4K|YEV|TV Stick 4K|
 |ZTE|Telenor Touch Plus|blade2|Telenor Touch Plus|
 |ZTE|Telstra Tough Max 3|T86|T86|
 |ZTE|Tempo|xray45|N9131|
@@ -43566,6 +43578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 12 Pro+ 5G|RE5C82L1|RMX3840|
 |realme|realme 12+ 5G|RE5C86L1|RMX3867|
 |realme|realme 12x 5G|RE5C9AL1|RMX3997|
+|realme|realme 13 Pro 5G|RE5CA3L1|RMX3990|
 |realme|realme 13 Pro+ 5G|RE5CA3L1|RMX3921|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
