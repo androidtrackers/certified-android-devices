@@ -192441,6 +192441,18 @@
    "model": "SM-A057M"
   }
  ],
+ "Galaxy A06": [
+  {
+   "brand": "Samsung",
+   "device": "a06",
+   "model": "SM-A065F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a06",
+   "model": "SM-A065M"
+  }
+ ],
  "Galaxy A10": [
   {
    "brand": "Samsung",

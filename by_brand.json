@@ -148275,6 +148275,16 @@
    "model": "SM-A057M"
   },
   {
+   "device": "a06",
+   "name": "Galaxy A06",
+   "model": "SM-A065F"
+  },
+  {
+   "device": "a06",
+   "name": "Galaxy A06",
+   "model": "SM-A065M"
+  },
+  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"

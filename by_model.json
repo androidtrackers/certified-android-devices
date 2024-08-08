@@ -196046,6 +196046,20 @@
    "device": "a05s"
   }
  ],
+ "SM-A065F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A06",
+   "device": "a06"
+  }
+ ],
+ "SM-A065M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A06",
+   "device": "a06"
+  }
+ ],
  "SM-A105F": [
   {
    "brand": "Samsung",

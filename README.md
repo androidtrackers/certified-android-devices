@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-07
+Last sync is 2024-08-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28795,6 +28795,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A05s|a05s|SM-A057F|
 |Samsung|Galaxy A05s|a05s|SM-A057G|
 |Samsung|Galaxy A05s|a05s|SM-A057M|
+|Samsung|Galaxy A06|a06|SM-A065F|
+|Samsung|Galaxy A06|a06|SM-A065M|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
