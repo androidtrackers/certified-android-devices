@@ -14782,6 +14782,13 @@
    "model": "TAB-1103"
   }
  ],
+ "TABLETAWTH801": [
+  {
+   "brand": "Aiwa",
+   "name": "TABLETAWTH801",
+   "model": "AWTH801"
+  }
+ ],
  "TAB_1003G": [
   {
    "brand": "Aiwa",
@@ -64814,6 +64821,13 @@
    "brand": "Ematic",
    "name": "USA",
    "model": "AGT418"
+  }
+ ],
+ "ARKENSTONE_US": [
+  {
+   "brand": "Emdoor",
+   "name": "ARKENSTONE",
+   "model": "ARKENSTONE"
   }
  ],
  "em_i8180": [
@@ -245126,6 +245140,13 @@
    "model": "TG2403GBA"
   }
  ],
+ "G9_Tab": [
+  {
+   "brand": "Umidigi",
+   "name": "G9 Tab",
+   "model": "TG4FBG9TA"
+  }
+ ],
  "MT02_EEA": [
   {
    "brand": "Umidigi",
@@ -252273,6 +252294,13 @@
    "model": "V2348"
   }
  ],
+ "V2347": [
+  {
+   "brand": "Vivo",
+   "name": "V40 Pro",
+   "model": "V2347"
+  }
+ ],
  "V5Plus": [
   {
    "brand": "Vivo",
@@ -259167,6 +259195,13 @@
    "brand": "Wintec",
    "name": "T750",
    "model": "Clear"
+  }
+ ],
+ "A60_EEA": [
+  {
+   "brand": "Wintouch",
+   "name": "A60_EEA",
+   "model": "A60"
   }
  ],
  "K19": [
@@ -276078,6 +276113,13 @@
    "model": "H8502"
   }
  ],
+ "T30A_SY07PC01": [
+  {
+   "brand": "hitabt",
+   "name": "T30A_SY07PC01",
+   "model": "SY07-PC01"
+  }
+ ],
  "TA10CA1": [
   {
    "brand": "i-Buddie",
@@ -278507,6 +278549,13 @@
    "model": "K10"
   }
  ],
+ "P18": [
+  {
+   "brand": "kozen",
+   "name": "P18",
+   "model": "P18"
+  }
+ ],
  "T05": [
   {
    "brand": "kozen",
@@ -279080,11 +279129,6 @@
    "brand": "realme",
    "name": "realme C61",
    "model": "RMX3930"
-  },
-  {
-   "brand": "realme",
-   "name": "realme C61",
-   "model": "RMX3939"
   },
   {
    "brand": "realme",

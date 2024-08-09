@@ -15331,6 +15331,13 @@
    "model": "TAB-1103"
   }
  ],
+ "TABLETAWTH801": [
+  {
+   "brand": "Aiwa",
+   "device": "TABLETAWTH801",
+   "model": "AWTH801"
+  }
+ ],
  "TAB_1003G": [
   {
    "brand": "Aiwa",
@@ -66095,6 +66102,18 @@
    "brand": "Ematic",
    "device": "Cubby",
    "model": "SproutChannelCubby"
+  }
+ ],
+ "ARKENSTONE": [
+  {
+   "brand": "Emdoor",
+   "device": "ARKENSTONE_US",
+   "model": "ARKENSTONE"
+  },
+  {
+   "brand": "STARK_FUTURE",
+   "device": "ARKENSTONE",
+   "model": "ARKENSTONE"
   }
  ],
  "EM_I8180": [
@@ -190595,13 +190614,6 @@
    "model": "Vision Plus"
   }
  ],
- "ARKENSTONE": [
-  {
-   "brand": "STARK_FUTURE",
-   "device": "ARKENSTONE",
-   "model": "ARKENSTONE"
-  }
- ],
  "VARG": [
   {
    "brand": "STARK_FUTURE",
@@ -243478,6 +243490,13 @@
    "model": "TG2403GBA"
   }
  ],
+ "G9 Tab": [
+  {
+   "brand": "Umidigi",
+   "device": "G9_Tab",
+   "model": "TG4FBG9TA"
+  }
+ ],
  "MT02_EEA": [
   {
    "brand": "Umidigi",
@@ -250840,6 +250859,13 @@
    "model": "V2341"
   }
  ],
+ "V40 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "V2347",
+   "model": "V2347"
+  }
+ ],
  "V40 SE": [
   {
    "brand": "Vivo",
@@ -257893,6 +257919,13 @@
    "brand": "Winnovo",
    "device": "WinnovoT5",
    "model": "WinnovoT5"
+  }
+ ],
+ "A60_EEA": [
+  {
+   "brand": "Wintouch",
+   "device": "A60_EEA",
+   "model": "A60"
   }
  ],
  "K19": [
@@ -274695,6 +274728,13 @@
    "model": "H8502"
   }
  ],
+ "T30A_SY07PC01": [
+  {
+   "brand": "hitabt",
+   "device": "T30A_SY07PC01",
+   "model": "SY07-PC01"
+  }
+ ],
  "TA10CA1": [
   {
    "brand": "i-Buddie",
@@ -277205,6 +277245,13 @@
    "model": "S12"
   }
  ],
+ "P18": [
+  {
+   "brand": "kozen",
+   "device": "P18",
+   "model": "P18"
+  }
+ ],
  "S19_EEA": [
   {
    "brand": "leaderhub",
@@ -278266,11 +278313,6 @@
    "brand": "realme",
    "device": "RE6054",
    "model": "RMX3930"
-  },
-  {
-   "brand": "realme",
-   "device": "RE6054",
-   "model": "RMX3939"
   }
  ],
  "realme C63": [

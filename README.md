@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-08
+Last sync is 2024-08-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -960,6 +960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|TAB-1100|TAB-1100|TAB-1100|
 |Aiwa|TAB-1102|TAB-1102|TAB-1102|
 |Aiwa|TAB-1103|TAB-1103|TAB-1103|
+|Aiwa|TABLETAWTH801|TABLETAWTH801|AWTH801|
 |Aiwa|TAB_1003G|TAB_1003G|TAB_1003G|
 |Aiwa|Z9|AIWA_Z9|Z9|
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
@@ -7817,6 +7818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|PBSKD7201|PBSKD7201|PBSKD7201|
 |Ematic|Sprout Channel Cubby|Cubby|SproutChannelCubby|
 |Ematic|USA|Jetstream|AGT418|
+|Emdoor|ARKENSTONE|ARKENSTONE_US|ARKENSTONE|
 |Emdoor|EM_I8180|em_i8180|em_i8180|
 |Emerson|EID-1400|EID-1400|EID-1400|
 |Emerson|EID_1061|EID_1061|EID-1061|
@@ -37674,6 +37676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G7_Tab_Mini|G7_Tab_Mini|TG2405GBA|
 |Umidigi|G7_Tab_Mini_EEA|G7_Tab_Mini_EEA|TG2405GBA|
 |Umidigi|G7_Tab_Pro|G7_Tab_Pro|TG2403GBA|
+|Umidigi|G9 Tab|G9_Tab|TG4FBG9TA|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|
@@ -38867,6 +38870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V40|V2348|V2348|
 |Vivo|V40 Lite|V2339|V2340|
 |Vivo|V40 Lite|V2339|V2341|
+|Vivo|V40 Pro|V2347|V2347|
 |Vivo|V40 SE|V2342|V2342|
 |Vivo|V40 SE 5G|V2327|V2337|
 |Vivo|V5Plus|V5Plus|vivo V5Plus|
@@ -40036,6 +40040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
 |Wintouch|A50|A50|A50|
+|Wintouch|A60_EEA|A60_EEA|A60|
 |Wintouch|K19|K19|K19|
 |Wintouch|K72P|K72P|K72P|
 |Wintouch|Q705|Q705|Q705|
@@ -43034,6 +43039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |generaltouch|ERGO22|ERGO22|ERGO22|
 |generaltouch|ERGO22|ERGO22|ERGO22_eea|
 |halotel|H8502|H8502|H8502|
+|hitabt|T30A_SY07PC01|T30A_SY07PC01|SY07-PC01|
 |homez|Smart TV|redwood|AI PONT|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|
 |i-Buddie|TA10CA2|TA10CA2|TA10CA2|
@@ -43458,6 +43464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |koobee|koobee_K10|koobee_K10|K10|
 |koobee|koobee_S12|koobee_S12|S12|
 |kozen|D1|D1|D1|
+|kozen|P18|P18|P18|
 |kozen|T5|T05|T5|
 |leaderhub|S19_EEA|S19_EEA|S19|
 |mMax|mMax M55|M55|M55|
@@ -43642,7 +43649,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
 |realme|realme C61|RE6054|RMX3930|
-|realme|realme C61|RE6054|RMX3939|
 |realme|realme C63|RE6054|RMX3939|
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|

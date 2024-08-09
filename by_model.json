@@ -6734,6 +6734,11 @@
    "brand": "Trident",
    "name": "A60",
    "device": "A60"
+  },
+  {
+   "brand": "Wintouch",
+   "name": "A60_EEA",
+   "device": "A60_EEA"
   }
  ],
  "A60L": [
@@ -10546,6 +10551,13 @@
    "brand": "Aiwa",
    "name": "TAB-1103",
    "device": "TAB-1103"
+  }
+ ],
+ "AWTH801": [
+  {
+   "brand": "Aiwa",
+   "name": "TABLETAWTH801",
+   "device": "TABLETAWTH801"
   }
  ],
  "TAB_1003G": [
@@ -59838,6 +59850,18 @@
    "brand": "Ematic",
    "name": "USA",
    "device": "Jetstream"
+  }
+ ],
+ "ARKENSTONE": [
+  {
+   "brand": "Emdoor",
+   "name": "ARKENSTONE",
+   "device": "ARKENSTONE_US"
+  },
+  {
+   "brand": "STARK_FUTURE",
+   "name": "ARKENSTONE",
+   "device": "ARKENSTONE"
   }
  ],
  "em_i8180": [
@@ -193751,13 +193775,6 @@
    "device": "Vision_Plus"
   }
  ],
- "ARKENSTONE": [
-  {
-   "brand": "STARK_FUTURE",
-   "name": "ARKENSTONE",
-   "device": "ARKENSTONE"
-  }
- ],
  "VARG": [
   {
    "brand": "STARK_FUTURE",
@@ -254398,6 +254415,13 @@
    "device": "G7_Tab_Pro"
   }
  ],
+ "TG4FBG9TA": [
+  {
+   "brand": "Umidigi",
+   "name": "G9 Tab",
+   "device": "G9_Tab"
+  }
+ ],
  "AblePad": [
   {
    "brand": "Umidigi",
@@ -261867,6 +261891,13 @@
    "brand": "Vivo",
    "name": "V40 Lite",
    "device": "V2339"
+  }
+ ],
+ "V2347": [
+  {
+   "brand": "Vivo",
+   "name": "V40 Pro",
+   "device": "V2347"
   }
  ],
  "V2337": [
@@ -288307,6 +288338,13 @@
    "device": "H8502"
   }
  ],
+ "SY07-PC01": [
+  {
+   "brand": "hitabt",
+   "name": "T30A_SY07PC01",
+   "device": "T30A_SY07PC01"
+  }
+ ],
  "TA10CA3": [
   {
    "brand": "i-Buddie",
@@ -290782,6 +290820,13 @@
    "device": "SL004T"
   }
  ],
+ "P18": [
+  {
+   "brand": "kozen",
+   "name": "P18",
+   "device": "P18"
+  }
+ ],
  "HaierP8B": [
   {
    "brand": "menfop",
@@ -291279,11 +291324,6 @@
   {
    "brand": "realme",
    "name": "RMX3939",
-   "device": "RE6054"
-  },
-  {
-   "brand": "realme",
-   "name": "realme C61",
    "device": "RE6054"
   },
   {
