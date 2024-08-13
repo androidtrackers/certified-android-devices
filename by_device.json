@@ -3254,6 +3254,20 @@
    "model": "AGM_PAD_T1"
   }
  ],
+ "AGM_X6_EEA": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM_X6",
+   "model": "AGM_X6"
+  }
+ ],
+ "AGM_X6_RU": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM_X6",
+   "model": "AGM_X6"
+  }
+ ],
  "Android_Rugged": [
   {
    "brand": "AGM Mobile",
@@ -5473,6 +5487,11 @@
    "model": "BLAUPUNKT GOOGLE TV"
   },
   {
+   "brand": "Challenger",
+   "name": "CHALLENGER",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "DIJITSU",
    "name": "DIJITSU",
    "model": "2K SMART TV"
@@ -5676,6 +5695,11 @@
    "brand": "KTCtv",
    "name": "VEIRA",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIOTTO",
+   "model": "2K SMART ISDB TV"
   },
   {
    "brand": "KTCtv",
@@ -47161,7 +47185,7 @@
   },
   {
    "brand": "POS Terminal",
-   "name": "EKO",
+   "name": "ACT",
    "model": "pCloud"
   },
   {
@@ -56119,6 +56143,11 @@
   },
   {
    "brand": "SWTV",
+   "name": "SWTV-22AE-4K NF",
+   "model": "SWTV-22AE-4K NF"
+  },
+  {
+   "brand": "SWTV",
    "name": "SWTV-22COL-4K",
    "model": "SWTV-22COL-4K"
   },
@@ -56176,6 +56205,21 @@
    "brand": "Singer",
    "name": "Singer 4K GSMART TV FF",
    "model": "Singer 4K GSMART TV FF"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 4K GSMART TV",
+   "model": "TESLA 4K GSMART TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 4K SMART TV FF",
+   "model": "TESLA 4K SMART TV FF"
+  },
+  {
+   "brand": "Thomson",
+   "name": "THOMSON GS-SMART",
+   "model": "THOMSON GS-SMART"
   },
   {
    "brand": "Vision",
@@ -78891,6 +78935,11 @@
   {
    "brand": "HKC Elec",
    "name": "Google TV",
+   "model": "4K KR Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
    "model": "4K PA Google TV"
   }
  ],
@@ -89053,6 +89102,13 @@
    "model": "Hisense U605"
   }
  ],
+ "HLTE121E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U62 Pro",
+   "model": "Hisense U62 Pro"
+  }
+ ],
  "HLTE109E": [
   {
    "brand": "Hisense",
@@ -89079,6 +89135,20 @@
    "brand": "Hisense",
    "name": "Hisense U70 Pro",
    "model": "Hisense U70 Pro"
+  }
+ ],
+ "HLTE120E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U71 Pro",
+   "model": "Hisense U71 Pro"
+  }
+ ],
+ "HLTE120E_01": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U71 Pro",
+   "model": "Hisense U71 Pro"
   }
  ],
  "HLTE100E_11": [
@@ -191276,6 +191346,13 @@
    "model": "CF10"
   }
  ],
+ "A1250": [
+  {
+   "brand": "Samsonix",
+   "name": "A1250",
+   "model": "A1250"
+  }
+ ],
  "GT-I5510M": [
   {
    "brand": "Samsung",
@@ -193879,6 +193956,11 @@
    "brand": "Samsung",
    "name": "Galaxy A55 5G",
    "model": "SM-A556E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum5",
+   "model": "SM-A556S"
   }
  ],
  "a6elteaio": [

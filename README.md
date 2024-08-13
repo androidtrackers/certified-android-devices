@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-12
+Last sync is 2024-08-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -166,6 +166,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
 |AGM Mobile|AGM_PAD_P2|AGM_PAD_P2|AGM_PAD_P2|
 |AGM Mobile|AGM_PAD_T1|AGM_PAD_T1|AGM_PAD_T1|
+|AGM Mobile|AGM_X6|AGM_X6_EEA|AGM_X6|
+|AGM Mobile|AGM_X6|AGM_X6_RU|AGM_X6|
 |AGM Mobile|Android_Rugged|Android_Rugged|Android_Rugged|
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
 |AG_Neovo|MeetBoard_4|MeetBoard_4|MeetBoard_4|
@@ -4964,6 +4966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Challenger|Android TV|R1|ATV R1|
 |Challenger|Android TV|R2|ATV R2|
 |Challenger|CHALLENGER|lavender|4K SMART TV|
+|Challenger|CHALLENGER|mountbaker|2K SMART TV|
 |Challenger|R3|R3|R3|
 |Challenger|R4|R4|R4|
 |Challenger|Smart TV|osaki|2K AI Smart TV|
@@ -9916,6 +9919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|4K Smart TV|pioneer|4K PA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|4K SA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|HKC 4K SA Smart TV|
+|HKC Elec|Google TV|burbank|4K KR Google TV|
 |HKC Elec|Google TV|burbank|4K PA Google TV|
 |HKC Elec|Google TV|kannai|2K JP Google TV|
 |HKC Elec|Google TV|lakeside|4K COL Google TV|
@@ -11607,10 +11611,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U605|HS7731ESP|Hisense U605|
 |Hisense|Hisense U605|HS7731ESP|Hisense U606|
 |Hisense|Hisense U605|Hisense|Hisense U605|
+|Hisense|Hisense U62 Pro|HLTE121E|Hisense U62 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_03|Hisense U70 Pro|
+|Hisense|Hisense U71 Pro|HLTE120E|Hisense U71 Pro|
+|Hisense|Hisense U71 Pro|HLTE120E_01|Hisense U71 Pro|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_12|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_13|Hisense U963|
@@ -16116,6 +16123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VIMEEL|lavender|VIMEEL GOOGLE TV 4K|
 |KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
+|KTCtv|VIOTTO|mountbaker|2K SMART ISDB TV|
 |KTCtv|VIOTTO|mountbaker|2K SMART TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
@@ -25344,7 +25352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V10|V10|V10|
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
-|POS Terminal|EKO|POS|pCloud|
+|POS Terminal|ACT|POS|pCloud|
 |POS Terminal|MINT|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
@@ -28620,6 +28628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-21SA|sunnyvale|SWTV-21SA|
 |SWTV|SWTV-22AE|SW6H|SWTV-22AE|
 |SWTV|SWTV-22AE-4K|anaheim|SWTV-22AE-4K|
+|SWTV|SWTV-22AE-4K NF|anaheim|SWTV-22AE-4K NF|
 |SWTV|SWTV-22AE-FHD|umeda|SWTV-22AE-FHD|
 |SWTV|SWTV-22COL-4K|anaheim|SWTV-22COL-4K|
 |SWTV|SWTV-22HK-4K|anaheim|SWTV-22HK-4K|
@@ -28669,6 +28678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SafeGear_Mobile|SG390|SG390|SG390|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
 |Saltillo|CF10|CF10|CF10|
+|Samsonix|A1250|A1250|A1250|
 |Samsung||GT-I5510M|GT-I5510M|
 |Samsung||GT-I5510T|GT-I5510T|
 |Samsung||GT-I5800L|GT-I5800L|
@@ -30286,6 +30296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Quantum2|a82xq|SM-A826S|
 |Samsung|Galaxy Quantum3|m53x|SM-M536S|
 |Samsung|Galaxy Quantum4|a54x|SM-A546S|
+|Samsung|Galaxy Quantum5|a55x|SM-A556S|
 |Samsung|Galaxy R-Style|jaguark|SHV-E170K|
 |Samsung|Galaxy R-Style|jaguarl|SHV-E170L|
 |Samsung|Galaxy R-Style|jaguars|SHV-E170S|
@@ -36909,9 +36920,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|South American|patrick|Tesla 4K Android TV|
 |Tesla|TESLA|zhongshan|Tesla 4K Android TV|
 |Tesla|TESLA 2K SMART TV|umeda|TESLA 2K SMART TV|
+|Tesla|TESLA 4K GSMART TV|anaheim|TESLA 4K GSMART TV|
 |Tesla|TESLA 4K GSMART TV FF|SW6H|TESLA 4K GSMART TV FF|
 |Tesla|TESLA 4K SMART TV|SW6H|TESLA 4K SMART TV|
 |Tesla|TESLA 4K SMART TV FF|SW6H|TESLA 4K SMART TV FF|
+|Tesla|TESLA 4K SMART TV FF|anaheim|TESLA 4K SMART TV FF|
 |Tesla|TESLA 4K TV FF|SW6H|TESLA 4K TV FF|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
 |Tesla|Tesla 2K TV|shinagawa|Tesla 2K TV|
@@ -36972,6 +36985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|TEO8M2BK32LTE|TEO8M2BK32LTE|TEO8M|
 |Thomson|TEOX102|TEOX102|TEOX102|
 |Thomson|TEOX103|TEOX103|TEOX103|
+|Thomson|THOMSON GS-SMART|anaheim|THOMSON GS-SMART|
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
 |Thomson|THOMSON_TEO10S|TEO10S|TEO10S|
 |Thomson|TLink 455|TLINK455|TLINK455|

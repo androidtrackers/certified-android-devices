@@ -864,6 +864,16 @@
    "model": "AGM_PAD_T1"
   },
   {
+   "device": "AGM_X6_EEA",
+   "name": "AGM_X6",
+   "model": "AGM_X6"
+  },
+  {
+   "device": "AGM_X6_RU",
+   "name": "AGM_X6",
+   "model": "AGM_X6"
+  },
+  {
    "device": "Android_Rugged",
    "name": "Android_Rugged",
    "model": "Android_Rugged"
@@ -25710,6 +25720,11 @@
    "device": "lavender",
    "name": "CHALLENGER",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "CHALLENGER",
+   "model": "2K SMART TV"
   },
   {
    "device": "R3",
@@ -51582,6 +51597,11 @@
   {
    "device": "burbank",
    "name": "Google TV",
+   "model": "4K KR Google TV"
+  },
+  {
+   "device": "burbank",
+   "name": "Google TV",
    "model": "4K PA Google TV"
   },
   {
@@ -60149,6 +60169,11 @@
    "model": "Hisense U605"
   },
   {
+   "device": "HLTE121E",
+   "name": "Hisense U62 Pro",
+   "model": "Hisense U62 Pro"
+  },
+  {
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
    "model": "Hisense U70 Pro"
@@ -60167,6 +60192,16 @@
    "device": "HLTE109E_03",
    "name": "Hisense U70 Pro",
    "model": "Hisense U70 Pro"
+  },
+  {
+   "device": "HLTE120E",
+   "name": "Hisense U71 Pro",
+   "model": "Hisense U71 Pro"
+  },
+  {
+   "device": "HLTE120E_01",
+   "name": "Hisense U71 Pro",
+   "model": "Hisense U71 Pro"
   },
   {
    "device": "HLTE100E_11",
@@ -83106,6 +83141,11 @@
    "device": "lavender",
    "name": "VIOTTO",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "VIOTTO",
+   "model": "2K SMART ISDB TV"
   },
   {
    "device": "mountbaker",
@@ -130431,7 +130471,7 @@
  "POS Terminal": [
   {
    "device": "POS",
-   "name": "EKO",
+   "name": "ACT",
    "model": "pCloud"
   },
   {
@@ -147384,6 +147424,11 @@
    "model": "SWTV-22AE-4K"
   },
   {
+   "device": "anaheim",
+   "name": "SWTV-22AE-4K NF",
+   "model": "SWTV-22AE-4K NF"
+  },
+  {
    "device": "umeda",
    "name": "SWTV-22AE-FHD",
    "model": "SWTV-22AE-FHD"
@@ -147641,6 +147686,13 @@
    "device": "CF10",
    "name": "CF10",
    "model": "CF10"
+  }
+ ],
+ "Samsonix": [
+  {
+   "device": "A1250",
+   "name": "A1250",
+   "model": "A1250"
   }
  ],
  "Samsung": [
@@ -155728,6 +155780,11 @@
    "device": "a54x",
    "name": "Galaxy Quantum4",
    "model": "SM-A546S"
+  },
+  {
+   "device": "a55x",
+   "name": "Galaxy Quantum5",
+   "model": "SM-A556S"
   },
   {
    "device": "jaguark",
@@ -189453,6 +189510,11 @@
    "model": "TESLA 2K SMART TV"
   },
   {
+   "device": "anaheim",
+   "name": "TESLA 4K GSMART TV",
+   "model": "TESLA 4K GSMART TV"
+  },
+  {
    "device": "SW6H",
    "name": "TESLA 4K GSMART TV FF",
    "model": "TESLA 4K GSMART TV FF"
@@ -189464,6 +189526,11 @@
   },
   {
    "device": "SW6H",
+   "name": "TESLA 4K SMART TV FF",
+   "model": "TESLA 4K SMART TV FF"
+  },
+  {
+   "device": "anaheim",
    "name": "TESLA 4K SMART TV FF",
    "model": "TESLA 4K SMART TV FF"
   },
@@ -189772,6 +189839,11 @@
    "device": "TEOX103",
    "name": "TEOX103",
    "model": "TEOX103"
+  },
+  {
+   "device": "anaheim",
+   "name": "THOMSON GS-SMART",
+   "model": "THOMSON GS-SMART"
   },
   {
    "device": "L35_A",

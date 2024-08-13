@@ -7293,6 +7293,18 @@
    "model": "AGM_PAD_T1"
   }
  ],
+ "AGM_X6": [
+  {
+   "brand": "AGM Mobile",
+   "device": "AGM_X6_EEA",
+   "model": "AGM_X6"
+  },
+  {
+   "brand": "AGM Mobile",
+   "device": "AGM_X6_RU",
+   "model": "AGM_X6"
+  }
+ ],
  "Android_Rugged": [
   {
    "brand": "AGM Mobile",
@@ -25623,6 +25635,11 @@
    "brand": "Atria Convergence Technologies",
    "device": "B860H_V1",
    "model": "B860H"
+  },
+  {
+   "brand": "POS Terminal",
+   "device": "POS",
+   "model": "pCloud"
   },
   {
    "brand": "ZTE",
@@ -45133,6 +45150,11 @@
    "brand": "Challenger",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "Challenger",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "challenger": [
@@ -63407,11 +63429,6 @@
    "brand": "EKO",
    "device": "zhongshan",
    "model": "EKO 4K Android TV"
-  },
-  {
-   "brand": "POS Terminal",
-   "device": "POS",
-   "model": "pCloud"
   }
  ],
  "EKO 2K Google TV": [
@@ -80520,6 +80537,11 @@
   {
    "brand": "HKC Elec",
    "device": "burbank",
+   "model": "4K KR Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "device": "burbank",
    "model": "4K PA Google TV"
   },
   {
@@ -90623,6 +90645,13 @@
    "model": "Hisense U605"
   }
  ],
+ "Hisense U62 Pro": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE121E",
+   "model": "Hisense U62 Pro"
+  }
+ ],
  "Hisense U70 Pro": [
   {
    "brand": "Hisense",
@@ -90643,6 +90672,18 @@
    "brand": "Hisense",
    "device": "HLTE109E_03",
    "model": "Hisense U70 Pro"
+  }
+ ],
+ "Hisense U71 Pro": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE120E",
+   "model": "Hisense U71 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE120E_01",
+   "model": "Hisense U71 Pro"
   }
  ],
  "Hisense U963": [
@@ -116393,6 +116434,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART ISDB TV"
   },
   {
    "brand": "KTCtv",
@@ -191644,6 +191690,13 @@
    "model": "SWTV-22AE-4K"
   }
  ],
+ "SWTV-22AE-4K NF": [
+  {
+   "brand": "SWTV",
+   "device": "anaheim",
+   "model": "SWTV-22AE-4K NF"
+  }
+ ],
  "SWTV-22AE-FHD": [
   {
    "brand": "SWTV",
@@ -191943,6 +191996,13 @@
    "brand": "Saltillo",
    "device": "CF10",
    "model": "CF10"
+  }
+ ],
+ "A1250": [
+  {
+   "brand": "Samsonix",
+   "device": "A1250",
+   "model": "A1250"
   }
  ],
  "Galaxy A7(2016)": [
@@ -200597,6 +200657,13 @@
    "brand": "Samsung",
    "device": "a54x",
    "model": "SM-A546S"
+  }
+ ],
+ "Galaxy Quantum5": [
+  {
+   "brand": "Samsung",
+   "device": "a55x",
+   "model": "SM-A556S"
   }
  ],
  "Galaxy R-Style": [
@@ -238833,6 +238900,13 @@
    "model": "TESLA 2K SMART TV"
   }
  ],
+ "TESLA 4K GSMART TV": [
+  {
+   "brand": "Tesla",
+   "device": "anaheim",
+   "model": "TESLA 4K GSMART TV"
+  }
+ ],
  "TESLA 4K GSMART TV FF": [
   {
    "brand": "Tesla",
@@ -238851,6 +238925,11 @@
   {
    "brand": "Tesla",
    "device": "SW6H",
+   "model": "TESLA 4K SMART TV FF"
+  },
+  {
+   "brand": "Tesla",
+   "device": "anaheim",
    "model": "TESLA 4K SMART TV FF"
   }
  ],
@@ -239189,6 +239268,13 @@
    "brand": "Thomson",
    "device": "TEOX103",
    "model": "TEOX103"
+  }
+ ],
+ "THOMSON GS-SMART": [
+  {
+   "brand": "Thomson",
+   "device": "anaheim",
+   "model": "THOMSON GS-SMART"
   }
  ],
  "THOMSON SEREA500": [
