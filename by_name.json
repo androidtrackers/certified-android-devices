@@ -26300,6 +26300,28 @@
    "model": "S30"
   }
  ],
+ "S80": [
+  {
+   "brand": "AvidPad",
+   "device": "S80",
+   "model": "S80"
+  },
+  {
+   "brand": "Doogee",
+   "device": "S80",
+   "model": "S80"
+  },
+  {
+   "brand": "OSCAL",
+   "device": "S80",
+   "model": "S80"
+  },
+  {
+   "brand": "Premio",
+   "device": "S80",
+   "model": "S80"
+  }
+ ],
  "Avion A10": [
   {
    "brand": "Avion",
@@ -33385,6 +33407,13 @@
    "brand": "Bitel",
    "device": "BPRO",
    "model": "BPRO"
+  }
+ ],
+ "Bitel B866V2FAS": [
+  {
+   "brand": "Bitel",
+   "device": "B866V2FAS_Bitel",
+   "model": "Bitel B866V2FAS"
   }
  ],
  "Pro 9": [
@@ -52622,6 +52651,13 @@
    "model": "KINGKONG STAR"
   }
  ],
+ "KINGKONG STAR 2": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_STAR_2",
+   "model": "KINGKONG STAR 2"
+  }
+ ],
  "KINGKONG X": [
   {
    "brand": "Cubot",
@@ -55917,6 +55953,11 @@
  "DAIWA": [
   {
    "brand": "Daiwa",
+   "device": "hongkong",
+   "model": "4K DVB SMART TV"
+  },
+  {
+   "brand": "Daiwa",
    "device": "mountbaker",
    "model": "2K SMART TV"
   },
@@ -56449,6 +56490,13 @@
    "brand": "Datamini",
    "device": "T104G_T610",
    "model": "T104G_T610"
+  }
+ ],
+ "T104G_T618": [
+  {
+   "brand": "Datamini",
+   "device": "T104G",
+   "model": "T104G"
   }
  ],
  "T74G": [
@@ -60609,23 +60657,6 @@
    "brand": "Doogee",
    "device": "S70Lite",
    "model": "S70Lite"
-  }
- ],
- "S80": [
-  {
-   "brand": "Doogee",
-   "device": "S80",
-   "model": "S80"
-  },
-  {
-   "brand": "OSCAL",
-   "device": "S80",
-   "model": "S80"
-  },
-  {
-   "brand": "Premio",
-   "device": "S80",
-   "model": "S80"
   }
  ],
  "S80Lite": [
@@ -69692,6 +69723,13 @@
    "model": "A6 Plus"
   }
  ],
+ "AS65U": [
+  {
+   "brand": "FOXXD",
+   "device": "AS65U",
+   "model": "AS65U"
+  }
+ ],
  "C10": [
   {
    "brand": "FOXXD",
@@ -70122,6 +70160,13 @@
    "brand": "Fantec",
    "device": "M300H",
    "model": "FAN-M300H"
+  }
+ ],
+ "W638C": [
+  {
+   "brand": "Fanvil",
+   "device": "W638C",
+   "model": "W638C"
   }
  ],
  "Smart 403": [
@@ -80543,6 +80588,11 @@
    "brand": "HKC Elec",
    "device": "burbank",
    "model": "4K PA Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "device": "burbank",
+   "model": "4K SA Google TV"
   },
   {
    "brand": "HKC Elec",
@@ -104926,6 +104976,13 @@
    "model": "32S1U_Pro"
   }
  ],
+ "32S2U_Pro": [
+  {
+   "brand": "INNOCN",
+   "device": "32S2U_Pro",
+   "model": "32S2U Pro"
+  }
+ ],
  "INNOVA 2K Android TV": [
   {
    "brand": "INNOVA",
@@ -107219,6 +107276,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6528B",
    "model": "Infinix X6528B"
+  }
+ ],
+ "Infinix HOT 50": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6882",
+   "model": "Infinix X6882"
   }
  ],
  "Infinix HOT 6X": [
@@ -115513,6 +115577,13 @@
    "brand": "KONKA",
    "device": "TP701",
    "model": "TP701"
+  }
+ ],
+ "VISION E1 Series": [
+  {
+   "brand": "KONKA",
+   "device": "VISION_E1_Series",
+   "model": "VISION_E1_Series"
   }
  ],
  "sp6": [
@@ -144728,6 +144799,13 @@
    "model": "MACH_10"
   }
  ],
+ "M1_IC0_N702_MP": [
+  {
+   "brand": "MicroTouch",
+   "device": "MACH_MP",
+   "model": "MACH_MP"
+  }
+ ],
  "M1_IC1_N700_4G": [
   {
    "brand": "MicroTouch",
@@ -151958,6 +152036,11 @@
  "moto g pro": [
   {
    "brand": "Motorola",
+   "device": "fogona",
+   "model": "motorola edge 40 pro"
+  },
+  {
+   "brand": "Motorola",
    "device": "sofiap_sprout",
    "model": "moto g pro"
   }
@@ -156553,6 +156636,13 @@
    "model": "TAB011"
   }
  ],
+ "Npad_ultra": [
+  {
+   "brand": "N-one",
+   "device": "Npad_ultra",
+   "model": "TAB012"
+  }
+ ],
  "Npadplus": [
   {
    "brand": "N-one",
@@ -157398,6 +157488,11 @@
   },
   {
    "brand": "OTOT",
+   "device": "H10",
+   "model": "H10"
+  },
+  {
+   "brand": "SENRAISE",
    "device": "H10",
    "model": "H10"
   },
@@ -162281,13 +162376,6 @@
    "brand": "ONYX",
    "device": "BOOX",
    "model": "BOOX"
-  }
- ],
- "BOOX Tab": [
-  {
-   "brand": "ONYX",
-   "device": "BOOX_Tab",
-   "model": "BOOX Tab"
   }
  ],
  "QuartzT10-3": [
@@ -173284,6 +173372,13 @@
    "brand": "Panavox",
    "device": "songshan",
    "model": "SmartTV 4K"
+  }
+ ],
+ "Panavox Android TV": [
+  {
+   "brand": "Panavox",
+   "device": "lushan",
+   "model": "Panavox Android TV"
   }
  ],
  "fushan_panavox": [
@@ -189031,6 +189126,13 @@
    "brand": "SEMP TCL",
    "device": "GO5E",
    "model": "GO5E"
+  }
+ ],
+ "H10_EEA": [
+  {
+   "brand": "SENRAISE",
+   "device": "H10",
+   "model": "H10"
   }
  ],
  "TW102": [
@@ -222326,6 +222428,13 @@
    "model": "Z72"
   }
  ],
+ "IP1800": [
+  {
+   "brand": "Swisscom",
+   "device": "IP1800",
+   "model": "IP1800"
+  }
+ ],
  "TV-Box5": [
   {
    "brand": "Swisscom",
@@ -224414,11 +224523,25 @@
    "model": "T613P"
   }
  ],
+ "TCL 50 LE": [
+  {
+   "brand": "TCL",
+   "device": "Scarab_Pro_VZW",
+   "model": "T510SP"
+  }
+ ],
  "TCL 50 SE": [
   {
    "brand": "TCL",
    "device": "Ladybird",
    "model": "T611B"
+  }
+ ],
+ "TCL 50 XE 5G": [
+  {
+   "brand": "TCL",
+   "device": "Dragonfly_VZW",
+   "model": "T614SP"
   }
  ],
  "TCL 50 XL 5G": [
@@ -254739,6 +254862,13 @@
    "model": "VU TV FFM"
   }
  ],
+ "VU 4K": [
+  {
+   "brand": "Vu Televisions",
+   "device": "lushan",
+   "model": "VU 4K"
+  }
+ ],
  "VU 4K Google TV": [
   {
    "brand": "Vu Televisions",
@@ -276377,6 +276507,13 @@
    "brand": "iMin",
    "device": "Swift2Pro",
    "model": "I23M02"
+  }
+ ],
+ "Swift2_EEA": [
+  {
+   "brand": "iMin",
+   "device": "Swift2",
+   "model": "I23M01_EEA"
   }
  ],
  "EG104": [
