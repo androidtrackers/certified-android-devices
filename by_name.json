@@ -187252,6 +187252,27 @@
    "model": "23073RPBFL"
   }
  ],
+ "Redmi Pad SE 4G": [
+  {
+   "brand": "Redmi",
+   "device": "spark",
+   "model": "24076RP19I"
+  }
+ ],
+ "Redmi Pad SE 8.7": [
+  {
+   "brand": "Redmi",
+   "device": "flare",
+   "model": "24075RP89G"
+  }
+ ],
+ "Redmi Pad SE 8.7 4G": [
+  {
+   "brand": "Redmi",
+   "device": "spark",
+   "model": "24076RP19G"
+  }
+ ],
  "Redmi Turbo 3": [
   {
    "brand": "Redmi",
@@ -224587,6 +224608,13 @@
    "brand": "TCL",
    "device": "Ant",
    "model": "T509K"
+  }
+ ],
+ "TCL 505 S": [
+  {
+   "brand": "TCL",
+   "device": "Ant",
+   "model": "T509A"
   }
  ],
  "TCL A3X": [

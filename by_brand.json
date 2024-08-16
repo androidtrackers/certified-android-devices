@@ -143591,6 +143591,21 @@
    "model": "23073RPBFL"
   },
   {
+   "device": "spark",
+   "name": "Redmi Pad SE 4G",
+   "model": "24076RP19I"
+  },
+  {
+   "device": "flare",
+   "name": "Redmi Pad SE 8.7",
+   "model": "24075RP89G"
+  },
+  {
+   "device": "spark",
+   "name": "Redmi Pad SE 8.7 4G",
+   "model": "24076RP19G"
+  },
+  {
    "device": "peridot",
    "name": "Redmi Turbo 3",
    "model": "24069RA21C"
@@ -176654,6 +176669,11 @@
    "device": "Ant",
    "name": "TCL 505",
    "model": "T509K"
+  },
+  {
+   "device": "Ant",
+   "name": "TCL 505 S",
+   "model": "T509A"
   },
   {
    "device": "Delhi_TF",

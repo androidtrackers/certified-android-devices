@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-15
+Last sync is 2024-08-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27909,6 +27909,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Pad SE|xun|23073RPBFC|
 |Redmi|Redmi Pad SE|xun|23073RPBFG|
 |Redmi|Redmi Pad SE|xun|23073RPBFL|
+|Redmi|Redmi Pad SE 4G|spark|24076RP19I|
+|Redmi|Redmi Pad SE 8.7|flare|24075RP89G|
+|Redmi|Redmi Pad SE 8.7 4G|spark|24076RP19G|
 |Redmi|Redmi Turbo 3|peridot|24069RA21C|
 |Redmi|Smart TV|tarzan|MiTV-MOOQ3|
 |Redway|redway10|redway10|redway10|
@@ -34400,6 +34403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 502|Rio_CAN|T432J|
 |TCL|TCL 505|Ant|T509A|
 |TCL|TCL 505|Ant|T509K|
+|TCL|TCL 505 S|Ant|T509A|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|

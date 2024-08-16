@@ -187069,6 +187069,25 @@
    "model": "23073RPBFL"
   }
  ],
+ "spark": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE 4G",
+   "model": "24076RP19I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE 8.7 4G",
+   "model": "24076RP19G"
+  }
+ ],
+ "flare": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE 8.7",
+   "model": "24075RP89G"
+  }
+ ],
  "tarzan": [
   {
    "brand": "Redmi",
@@ -227103,6 +227122,11 @@
    "brand": "TCL",
    "name": "TCL 505",
    "model": "T509K"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 505 S",
+   "model": "T509A"
   }
  ],
  "Delhi_TF": [
