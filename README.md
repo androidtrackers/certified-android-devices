@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-16
+Last sync is 2024-08-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -52,6 +52,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |A1|ADT-3|adt3|ADT-3|
 |A1|Ai-ES1059|Ai-ES1059|Ai-ES1059|
 |AAUW|M50|M50|M50|
+|AAUW|M50_NEW|M50_NEW|M50_NEW|
+|AAUW|M60_NEW|M60_NEW|M60_NEW|
 |AAUW|T10|T10|T10|
 |AAUW|T50_2023|T50_2023|T50_2023|
 |AAUW|T60PRO|T60PRO_ROW|T60PRO_ROW|
@@ -1194,6 +1196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva i701G|Viva_i701G|Viva_i701G_TM|
 |AllView|Viva i7G|Viva_i7G|Viva_i7G|
 |AllView|Viva_H701_LTE|Viva_H701_LTE|Viva_H701_LTE|
+|AllView|Viva_Play_804_EEA|Viva_Play_804|Viva_Play_804|
 |AllView|X10_Soul_EEA|X10_Soul|X10_Soul|
 |AllView|X10_Soul_Lite|X10_Soul_Lite|X10_Soul_Lite|
 |AllView|X2 Soul Lite|X2_Soul_Lite|X2_Soul_Lite|
@@ -1853,7 +1856,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Qilive7V2|ql70v2|Qilive 70v2|
 |Archos|Quechua Phone 5|A50RG11|Quechua Phone 5|
 |Archos|Quechua Tablet 8|A80RG11|A80RG11|
+|Archos|SPAC101SOXUL_EEA|ac101soxul|ARCHOS 101S Oxygen Ultra|
 |Archos|SPAT101FHDW_EEA|at101fhdw|ARCHOS T101 FHD WiFi|
+|Archos|SPAZA101SOXUL_EEA|aza101soxul|Tikeasy 10d|
 |Archos|Smart Home Tablet|hometablet|Archos Smart Home Tablet|
 |Archos|Smarthome La Poste|hometablet|Archos Smart Home Tablet|
 |Archos|TV Connect|LUDO|ARCHOS LUDOG10|
@@ -2409,6 +2414,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|AT70K_EEA|AT70K_EEA|AT70K_EEA|
 |Atozee|AT71K|AT71K|AT71K|
 |Atozee|AT81K|AT81K|AT81K|
+|Atozee|CP20S|CP20S|CP20S|
+|Atozee|CP20_GOLD|CP20_GOLD|CP20_GOLD|
 |Atozee|CP20_MAX|CP20_MAX|CP20_MAX|
 |Atozee|CP20_PRO|CP20_PRO|CP20_PRO|
 |Atozee|CP30|CP30|CP30|
@@ -2416,6 +2423,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|P12|P12|P12|
 |Atozee|P70W|P70W|P70W|
 |Atozee|P80W|P80W|P80W|
+|Atozee|P81W|P81W|P81W|
 |Atozee|YQ10S_Gold|YQ10S_Gold|YQ10S_Gold|
 |Atozee|YQ10S_MAX|YQ10S_MAX|YQ10S_MAX|
 |Atozee|YQ10S_PRO|YQ10S_PRO|YQ10S_PRO|
@@ -2750,6 +2758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLUEWORLD|TM12|TM12|TM12|
 |BMAX|BMAX_I9|BMAX_I9|BMAX_I9|
 |BMAX|I10|I10|I10|
+|BMAX|I10Pro_LTE|I10Pro_LTE|I10Pro|
 |BMAX|I10_EEA|I10_EEA|I10_EEA|
 |BMAX|I10_LTE|I10_LTE|I10_LTE|
 |BMAX|I10_Plus|I10_Plus|I10_Plus|
@@ -2764,6 +2773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I11_LTE_EEA|I11_LTE_EEA|I11_LTE|
 |BMAX|I11_Plus|I11_Plus|I11_Plus|
 |BMAX|I11_Plus_EEA|I11_Plus_EEA|I11_Plus_EEA|
+|BMAX|I11_Plus_LTE|I11_Plus_LTE|I11_Plus|
 |BMAX|I11_Plus_LTE_EEA|I11_Plus_LTE_EEA|I11_Plus|
 |BMAX|I11_Power|I11_Power|I11_Power|
 |BMAX|I11_Power_LTE|I11_Power_LTE|I11_Power_LTE|
@@ -3556,6 +3566,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Active 6|Active6_EEA|Active 6|
 |Blackview|Active 6|Active6_RU|Active 6|
 |Blackview|Active 8 Pro|Active8Pro|Active 8 Pro|
+|Blackview|Active8_EEA|Active8|Active 8|
+|Blackview|Active8_NEU|Active8|Active 8|
+|Blackview|Active8_RU|Active8|Active 8|
 |Blackview|BL5000|BL5000|BL5000|
 |Blackview|BL6000Pro|BL6000Pro|BL6000Pro|
 |Blackview|BL8000|BL8000|BL8000|
@@ -4572,6 +4585,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COEX|COEX 2K Smart TV|sunnyvale|COEX 2K Smart TV|
 |COEX|COEX 4K Smart TV|SW6H|COEX 4K Smart TV|
 |COEX|COEX 4K Smart TV FF|SW6H|COEX 4K Smart TV FF|
+|COLORROOM|C1|C1|C1|
+|COLORROOM|C2|C2|C2|
 |COLORROOM|C3_EEA|C3_EEA|C3|
 |COLORROOM|C3_Pro_EEA|C3_Pro_EEA|C3_Pro|
 |COLORROOM|C3_Pro_ROW|C3_Pro_ROW|C3_Pro|
@@ -4581,6 +4596,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COLORROOM|C5_EEA|C5_EEA|C5_EEA|
 |COLORROOM|K07-pro|K07-pro_EEA|K07-pro|
 |COLORROOM|K07-pro_EEA|K07-pro_EEA|K07-pro|
+|COLORROOM|K08|K08|K08|
+|COLORROOM|K10|K10|K10|
 |COLORROOM|K10C|K10C|K10C|
 |COLORROOM|K10C_EEA|K10C|K10C|
 |COLORROOM|K12|K12|K12|
@@ -5180,6 +5197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|HiPad_XPro|HiPad_XPro|HiPad XPro|
 |Chuwi|HiPad_XPro_EEA|HiPad_XPro_EEA|HiPad XPro|
 |Chuwi|HiPad_XPro_EEA13|HiPad_XPro|HiPad XPro|
+|Chuwi|HiPad_XPro_ROW13|HiPad_XPro|HiPad XPro|
 |Chuwi|HiPad_XPro_RU|HiPad_XPro|HiPad XPro|
 |Chuwi|HiPad_Xpro_Pad|HiPad_Xpro_Pad|HiPad XPro|
 |Chuwi|HipadX|HipadX|HiPad X|
@@ -5279,6 +5297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|My first Clempad 4.4 Basic Special|MFC2_Special|MFC2_Special|
 |Clementoni|My first Clempad 4.4 Plus|MFC2_Plus|MFC2_Plus|
 |Clementoni|Neo_Clempad_2021|Neo_Clempad_2021|Neo_Clempad_2021|
+|Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini|
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini_Module|
 |Clevertouch|IMPACT Lux|rk3588_t|Impact_Lux_Display|
 |Clevertouch|UX Pro Edge|rk3588_t|UX_Pro_Edge_Display|
@@ -9775,6 +9794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Green House|Smart TV|mateo|2K SA Smart TV|
 |GreenLion|G-10_PRO|G-10_PRO|G-10 PRO|
 |GreenLion|G-10_ULTRA|G-10_ULTRA|G-10 ULTRA|
+|GreenLion|G-20ULTRA|G-20ULTRA|G-20ULTRA|
 |GreenLion|G-8_PRO|G-8_PRO|G-8 PRO|
 |Greentel|A10_premium|A10_premium|A10_premium|
 |Greentel|A8|A8|A8|
@@ -11099,6 +11119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hero|HERO B1|HERO_B1|HERO B1|
 |HexaByte|HB_X7|HB_X7|HB_X7|
 |Hezire|HBook-Prime|HBook-Prime|HBook-Prime|
+|Hezire|HBook-Pro|HBook-Pro|HBook-Pro|
 |Hezire|HTB801|HTB801|HTB801|
 |Hi TFG|Boost Max|Boost_Max|Boost_Max|
 |Hi TFG|Crusader|Crusader|Crusader|
@@ -20080,6 +20101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MARVUE|M15|M15|M15|
 |MARVUE|M8|M8|M8|
 |MARVUE|M81|M81|M81|
+|MARVUE|M8_Pro|M8_Pro|M8_Pro|
 |MARVUE|Pad_M10|Pad_M10|Pad_M10|
 |MARVUE|Pad_M11_EEA|Pad_M11|Pad_M11|
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
@@ -23955,6 +23977,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|S70 Pro|S70_Pro|S70 Pro|
 |OSCAL|S80|S80|S80|
 |OSCAL|S80_RU|S80|S80|
+|OSCAL|Spider8_EEA|Spider8|Spider 8|
+|OSCAL|Spider8_NEU|Spider8|Spider 8|
+|OSCAL|Spider8_RU|Spider8|Spider 8|
 |OSCAL|TIGER 10|Tiger10|TIGER 10|
 |OSCAL|TIGER 12|Tiger12|TIGER 12|
 |OSCAL|Tiger 10|Tiger10|TIGER 10|
@@ -25408,6 +25433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|M11550|M11550|M11550|
 |Packard Bell|M7500|M7500|M7500|
 |Packard Bell|M7600-D|M7600-D|M7600-D|
+|Packard Bell|MONZA-T5|MONZA-T5|MONZA-T5|
 |Packard Bell|MONZA-T7|MONZA-T7|MONZA-T7|
 |Packard Bell|PB1009|PB1009|PB1009|
 |Packard Bell|PB101|PB101|PB101|
@@ -34240,6 +34266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG-TECH|TAG Phone|TAG_Phone|TAG_Phone|
 |TAG-TECH|TAG-TAB-III|TAG-TAB-III|TAG-TAB-III|
 |TAG-TECH|TAG-TABKIDS|TAG-TABKIDS|TT-III|
+|TAG-TECH|TAG_Pluto_TAB_II|TAG_Pluto_TAB_II|TAG_Pluto_TAB_II|
 |TAG-TECH|TAG_TAB_II|TAG_TAB_II|TAG TAB II|
 |TAG-TECH|Tagphone plus|Tagphone_plus|Tagphone plus|
 |TAGITAL|K88|K88|K88|
@@ -35859,6 +35886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
 |TECHcomputer|F102-T610-EEA|F102-T610-EEA|F102-T610-EEA|
 |TECHcomputer|F102-T610-EEA-GG5|F102-T610-EEA-GG5|F102-T610-EEA-GG5|
+|TECHcomputer|F102-T618-EEA|F102-T618-EEA|F102-T618-EEA|
 |TECHcomputer|TEC-M1310|TEC-M1310|TEC-M1310|
 |TECO|Android TV|longshan|AI PONT|
 |TECO|K5T|ikebukuro|AI PONT|
@@ -36217,16 +36245,26 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M40_ROW|M40_ROW|M40_ROW|
 |Teclast|M50-EEA|M50-EEA|M50|
 |Teclast|M50-ROW|M50-ROW|M50|
+|Teclast|M50HD_EEA|M50HD_EEA|M50HD|
+|Teclast|M50HD_EEA|M50HD_EEA|M50HD_EEA|
 |Teclast|M50HD_EEA|M50HD_T|M50HD_EEA|
+|Teclast|M50HD_ROW|M50HD_ROW|M50HD|
+|Teclast|M50HD_ROW|M50HD_ROW|M50HD_ROW|
 |Teclast|M50HD_ROW|M50HD_T|M50HD_ROW|
 |Teclast|M50HD_RUS|M50HD_RUS|M50HD_RUS|
 |Teclast|M50Mini_EEA|M50Mini_EEA|M50Mini|
 |Teclast|M50Mini_ROW|M50Mini_ROW|M50Mini|
 |Teclast|M50Pro_EEA|M50Pro_EEA|M50 Pro|
 |Teclast|M50Pro_ROW|M50Pro_ROW|M50 Pro|
+|Teclast|M50Pro_RUS|M50Pro_RUS|M50 Pro_RUS|
 |Teclast|M50S_ROW|M50S_ROW|M50S|
 |Teclast|M50_EEA|M50_T|M50_EEA|
+|Teclast|M50_EU|M50_EU|M50|
+|Teclast|M50_EU|M50_EU|M50_EU|
+|Teclast|M50_ROW|M50_ROW|M50|
+|Teclast|M50_ROW|M50_ROW|M50_ROW|
 |Teclast|M50_ROW|M50_T|M50_ROW|
+|Teclast|M50_RUS|M50_RUS|M50_RUS|
 |Teclast|P10HD_N5H6|P10S_ROW|P10S_ROW|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|
 |Teclast|P10SE_ROW|P10SE_ROW|P10SE_ROW|
@@ -36277,6 +36315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P40HD_RUS|P40HD_RUS|P40HD|
 |Teclast|P40HD_T_EEA|P40HD_T_EEA|P40HD_T_EEA|
 |Teclast|P40HD_T_ROW|P40HD_T_ROW|P40HD_T_ROW|
+|Teclast|P40HD_T_RUS|P40HD_T_RUS|P40HD_RUS|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50_EEA|P50_EEA|P50|
@@ -37337,6 +37376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TwinMOS|MQ703G|MQ703G|MQ703G|
 |UAUU|M10|M10|M10|
 |UAUU|T30|T30|T30|
+|UAUU|T30Pro|T30Pro|T30Pro|
 |UAUU|T60|T60|T60|
 |UAUU|T90_NEW|T90_NEW|T90_NEW|
 |UAUU|U10_RU|U10|U10|
@@ -37424,6 +37464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 23 Ultra|Armor_23_Ultra|Armor 23 Ultra|
 |Ulefone|Armor 24|Armor_24|Armor 24|
 |Ulefone|Armor 26 Ultra|Armor_26_Ultra|Armor 26 Ultra|
+|Ulefone|Armor 27 Pro|GQ5010AH1|Armor Mini 20T Pro|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
@@ -37609,6 +37650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A15_Pro_5G|A15_Pro_5G|MP36|
 |Umidigi|A15_Pro_5G_EEA|A15_Pro_5G|MP36|
 |Umidigi|A15_Pro_EEA|A15_Pro|PA3NB15PA|
+|Umidigi|A15_Tab|A15_Tab|MT08|
 |Umidigi|A15_Tab_EEA|A15_Tab_EEA|MT08|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
@@ -37685,7 +37727,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max RU|G1_Max|MP18|
 |Umidigi|G1 Plus|G1_Plus|MP28|
 |Umidigi|G1 Plus EEA|G1_Plus|MP28|
+|Umidigi|G1_Tab|G1_Tab|MT10|
+|Umidigi|G1_Tab_EEA|G1_Tab_EEA|MT10|
 |Umidigi|G1_Tab_Kids|G1_Tab_Kids|MT10|
+|Umidigi|G1_Tab_Kids_EEA|G1_Tab_Kids_EEA|MT10|
 |Umidigi|G1_Tab_Mini|G1_Tab_Mini|TG3DBG1MA|
 |Umidigi|G1_Tab_Mini_EEA|G1_Tab_Mini_EEA|TG3DBG1MA|
 |Umidigi|G1_Tab_Mini_GO|G1_Tab_Mini_GO|TG3DBG1MA|
@@ -37693,7 +37738,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1_Tab_Mini_Kids_EEA|G1_Tab_Mini_Kids_EEA|TG3DBG1MA|
 |Umidigi|G2|UMIDIGI_G2|MP21|
 |Umidigi|G2 EEA|UMIDIGI_G2|MP21|
+|Umidigi|G2_Tab|G2_Tab|MT11|
+|Umidigi|G2_Tab_EEA|G2_Tab_EEA|MT11|
 |Umidigi|G2_Tab_Kids|G2_Tab_Kids|MT11|
+|Umidigi|G2_Tab_Kids_EEA|G2_Tab_Kids_EEA|MT11|
 |Umidigi|G3|UMIDIGI_G3|MP24|
 |Umidigi|G3 EEA|UMIDIGI_G3|MP24|
 |Umidigi|G3 Plus|G3_Plus|MP25|
@@ -37923,6 +37971,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VANTEC|telma_i401|G4|G4|
 |VASOUN|L10-T01|L10-T01|L10-T01|
 |VASOUN|L10-T02|L10-T02|L10-T02|
+|VASOUN|L10-T02-EEA|L10-T02-EEA|L10-T02|
+|VASOUN|L10-T02-EEA|L10-T02-EEA|L10-T02-EEA|
 |VASOUN|L10_A01|L10_A01|L10|
 |VASOUN|L10_A01_EEA|L10_A01_EEA|L10|
 |VASOUN|L10_A02|L10_A02|L10|
@@ -43224,6 +43274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_L102|iGET_SMART_L102|SMART_L102|
 |iGet|SMART_L103_eea|SMART_L103|SMART_L103_eea|
 |iGet|SMART_L104_eea|SMART_L104_eea|SMART_L104_eea|
+|iGet|SMART_L11|SMART_L11|SMART L11|
 |iGet|SMART_L206|SMART_L206|SMART_L206|
 |iGet|SMART_L20X|SMART_L20X|SMART_L20X|
 |iGet|SMART_L30|SMART_L30|SMART L30|
@@ -43235,6 +43286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_W202|SMART_W202|SMART_W202|
 |iGet|SMART_W203|SMART_W203|SMART_W203|
 |iGet|SMART_W20X|SMART_W20X|SMART_W20X|
+|iGet|SMART_W32|SMART_W32|SMART W32|
 |iGet|SMART_W8X|SMART_W8X|SMART_W8X|
 |iHunt|Alien X|Alien_X|Alien_X|
 |iHunt|Alien X Apex 2020|Alien_X_Apex_2020|Alien_X_Apex_2020|
@@ -43551,6 +43603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100092988|mid7019_mr_32|100092988|
 |onn.|M17QF21W|M17QF21W|M17QF21W|
 |onn.|MID8016|mid8016_mk_32|MID8016|
+|onn.|PM1042T-W|PM1042T-W|PM1042T-W|
 |onn.|PM82T|PM82T|PM82T|
 |onn.|Tablet Gen 4|100135923|100135923|
 |onn.|Tablet Gen 4|100135925|100135925|

@@ -732,6 +732,20 @@
    "model": "M50"
   }
  ],
+ "M50_NEW": [
+  {
+   "brand": "AAUW",
+   "name": "M50_NEW",
+   "model": "M50_NEW"
+  }
+ ],
+ "M60_NEW": [
+  {
+   "brand": "AAUW",
+   "name": "M60_NEW",
+   "model": "M60_NEW"
+  }
+ ],
  "T10": [
   {
    "brand": "AAUW",
@@ -1222,6 +1236,11 @@
    "brand": "ClearTouch",
    "name": "six_zero_XXAplus",
    "model": "six_zero_XXAplus"
+  },
+  {
+   "brand": "Clevertouch",
+   "name": "Clevertouch LUX Mini",
+   "model": "LUX_Mini"
   },
   {
    "brand": "Clevertouch",
@@ -16904,6 +16923,13 @@
    "model": "Viva_i7G"
   }
  ],
+ "Viva_Play_804": [
+  {
+   "brand": "AllView",
+   "name": "Viva_Play_804_EEA",
+   "model": "Viva_Play_804"
+  }
+ ],
  "X10_Soul": [
   {
    "brand": "AllView",
@@ -22330,11 +22356,25 @@
    "model": "A80RG11"
   }
  ],
+ "ac101soxul": [
+  {
+   "brand": "Archos",
+   "name": "SPAC101SOXUL_EEA",
+   "model": "ARCHOS 101S Oxygen Ultra"
+  }
+ ],
  "at101fhdw": [
   {
    "brand": "Archos",
    "name": "SPAT101FHDW_EEA",
    "model": "ARCHOS T101 FHD WiFi"
+  }
+ ],
+ "aza101soxul": [
+  {
+   "brand": "Archos",
+   "name": "SPAZA101SOXUL_EEA",
+   "model": "Tikeasy 10d"
   }
  ],
  "hometablet": [
@@ -23480,6 +23520,11 @@
  "K10": [
   {
    "brand": "Astro_Tab",
+   "name": "K10",
+   "model": "K10"
+  },
+  {
+   "brand": "COLORROOM",
    "name": "K10",
    "model": "K10"
   },
@@ -26333,6 +26378,20 @@
    "model": "AT81K"
   }
  ],
+ "CP20S": [
+  {
+   "brand": "Atozee",
+   "name": "CP20S",
+   "model": "CP20S"
+  }
+ ],
+ "CP20_GOLD": [
+  {
+   "brand": "Atozee",
+   "name": "CP20_GOLD",
+   "model": "CP20_GOLD"
+  }
+ ],
  "CP20_MAX": [
   {
    "brand": "Atozee",
@@ -26425,6 +26484,13 @@
    "brand": "Atozee",
    "name": "P80W",
    "model": "P80W"
+  }
+ ],
+ "P81W": [
+  {
+   "brand": "Atozee",
+   "name": "P81W",
+   "model": "P81W"
   }
  ],
  "YQ10S_Gold": [
@@ -28944,6 +29010,13 @@
    "model": "I10"
   }
  ],
+ "I10Pro_LTE": [
+  {
+   "brand": "BMAX",
+   "name": "I10Pro_LTE",
+   "model": "I10Pro"
+  }
+ ],
  "I10_EEA": [
   {
    "brand": "BMAX",
@@ -29040,6 +29113,13 @@
    "brand": "BMAX",
    "name": "I11_Plus_EEA",
    "model": "I11_Plus_EEA"
+  }
+ ],
+ "I11_Plus_LTE": [
+  {
+   "brand": "BMAX",
+   "name": "I11_Plus_LTE",
+   "model": "I11_Plus"
   }
  ],
  "I11_Plus_LTE_EEA": [
@@ -34605,6 +34685,23 @@
    "brand": "Blackview",
    "name": "Active 8 Pro",
    "model": "Active 8 Pro"
+  }
+ ],
+ "Active8": [
+  {
+   "brand": "Blackview",
+   "name": "Active8_EEA",
+   "model": "Active 8"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Active8_NEU",
+   "model": "Active 8"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Active8_RU",
+   "model": "Active 8"
   }
  ],
  "BL5000": [
@@ -41747,6 +41844,60 @@
    "model": "F910"
   }
  ],
+ "C1": [
+  {
+   "brand": "COLORROOM",
+   "name": "C1",
+   "model": "C1"
+  },
+  {
+   "brand": "Doopro",
+   "name": "C1",
+   "model": "C1"
+  },
+  {
+   "brand": "HOMTOM",
+   "name": "c1",
+   "model": "C1"
+  },
+  {
+   "brand": "LUXO",
+   "name": "LUXO C1",
+   "model": "C1"
+  },
+  {
+   "brand": "Micromax",
+   "name": "Micromax C1",
+   "model": "Micromax C1"
+  },
+  {
+   "brand": "Micromax",
+   "name": "Micromax Canvas 1",
+   "model": "Micromax C1"
+  },
+  {
+   "brand": "Telpo",
+   "name": "C1",
+   "model": "C1"
+  }
+ ],
+ "C2": [
+  {
+   "brand": "COLORROOM",
+   "name": "C2",
+   "model": "C2"
+  },
+  {
+   "brand": "HOMTOM",
+   "name": "C2",
+   "model": "C2"
+  },
+  {
+   "brand": "Lesia",
+   "name": "C2",
+   "model": "C2"
+  }
+ ],
  "C3_EEA": [
   {
    "brand": "COLORROOM",
@@ -41797,6 +41948,13 @@
    "brand": "COLORROOM",
    "name": "K07-pro_EEA",
    "model": "K07-pro"
+  }
+ ],
+ "K08": [
+  {
+   "brand": "COLORROOM",
+   "name": "K08",
+   "model": "K08"
   }
  ],
  "K10C": [
@@ -46174,6 +46332,11 @@
   {
    "brand": "Chuwi",
    "name": "HiPad_XPro_EEA13",
+   "model": "HiPad XPro"
+  },
+  {
+   "brand": "Chuwi",
+   "name": "HiPad_XPro_ROW13",
    "model": "HiPad XPro"
   },
   {
@@ -61230,38 +61393,6 @@
    "brand": "Doogee",
    "name": "shoot 2",
    "model": "Shoot_2"
-  }
- ],
- "C1": [
-  {
-   "brand": "Doopro",
-   "name": "C1",
-   "model": "C1"
-  },
-  {
-   "brand": "HOMTOM",
-   "name": "c1",
-   "model": "C1"
-  },
-  {
-   "brand": "LUXO",
-   "name": "LUXO C1",
-   "model": "C1"
-  },
-  {
-   "brand": "Micromax",
-   "name": "Micromax C1",
-   "model": "Micromax C1"
-  },
-  {
-   "brand": "Micromax",
-   "name": "Micromax Canvas 1",
-   "model": "Micromax C1"
-  },
-  {
-   "brand": "Telpo",
-   "name": "C1",
-   "model": "C1"
   }
  ],
  "C1_Pro": [
@@ -78082,6 +78213,13 @@
    "model": "G-10 ULTRA"
   }
  ],
+ "G-20ULTRA": [
+  {
+   "brand": "GreenLion",
+   "name": "G-20ULTRA",
+   "model": "G-20ULTRA"
+  }
+ ],
  "G-8_PRO": [
   {
    "brand": "GreenLion",
@@ -79198,18 +79336,6 @@
    "brand": "HOMTOM",
    "name": "C13",
    "model": "C13"
-  }
- ],
- "C2": [
-  {
-   "brand": "HOMTOM",
-   "name": "C2",
-   "model": "C2"
-  },
-  {
-   "brand": "Lesia",
-   "name": "C2",
-   "model": "C2"
   }
  ],
  "H1": [
@@ -85929,6 +86055,13 @@
    "brand": "Hezire",
    "name": "HBook-Prime",
    "model": "HBook-Prime"
+  }
+ ],
+ "HBook-Pro": [
+  {
+   "brand": "Hezire",
+   "name": "HBook-Pro",
+   "model": "HBook-Pro"
   }
  ],
  "HTB801": [
@@ -139493,6 +139626,18 @@
    "model": "M81"
   }
  ],
+ "M8_Pro": [
+  {
+   "brand": "MARVUE",
+   "name": "M8_Pro",
+   "model": "M8_Pro"
+  },
+  {
+   "brand": "Vernee",
+   "name": "M8 Pro",
+   "model": "M8 Pro"
+  }
+ ],
  "Pad_M10": [
   {
    "brand": "MARVUE",
@@ -163230,6 +163375,23 @@
    "model": "S70 Pro"
   }
  ],
+ "Spider8": [
+  {
+   "brand": "OSCAL",
+   "name": "Spider8_EEA",
+   "model": "Spider 8"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Spider8_NEU",
+   "model": "Spider 8"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Spider8_RU",
+   "model": "Spider 8"
+  }
+ ],
  "Tiger10": [
   {
    "brand": "OSCAL",
@@ -172349,6 +172511,13 @@
    "brand": "Packard Bell",
    "name": "M7600-D",
    "model": "M7600-D"
+  }
+ ],
+ "MONZA-T5": [
+  {
+   "brand": "Packard Bell",
+   "name": "MONZA-T5",
+   "model": "MONZA-T5"
   }
  ],
  "MONZA-T7": [
@@ -225915,6 +226084,13 @@
    "model": "TT-III"
   }
  ],
+ "TAG_Pluto_TAB_II": [
+  {
+   "brand": "TAG-TECH",
+   "name": "TAG_Pluto_TAB_II",
+   "model": "TAG_Pluto_TAB_II"
+  }
+ ],
  "TAG_TAB_II": [
   {
    "brand": "TAG-TECH",
@@ -234358,6 +234534,13 @@
    "model": "F102-T610-EEA-GG5"
   }
  ],
+ "F102-T618-EEA": [
+  {
+   "brand": "TECHcomputer",
+   "name": "F102-T618-EEA",
+   "model": "F102-T618-EEA"
+  }
+ ],
  "TEC-M1310": [
   {
    "brand": "TECHcomputer",
@@ -236456,11 +236639,35 @@
    "model": "M50"
   }
  ],
+ "M50HD_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "M50HD_EEA",
+   "model": "M50HD"
+  },
+  {
+   "brand": "Teclast",
+   "name": "M50HD_EEA",
+   "model": "M50HD_EEA"
+  }
+ ],
  "M50HD_T": [
   {
    "brand": "Teclast",
    "name": "M50HD_EEA",
    "model": "M50HD_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "name": "M50HD_ROW",
+   "model": "M50HD_ROW"
+  }
+ ],
+ "M50HD_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "M50HD_ROW",
+   "model": "M50HD"
   },
   {
    "brand": "Teclast",
@@ -236503,6 +236710,13 @@
    "model": "M50 Pro"
   }
  ],
+ "M50Pro_RUS": [
+  {
+   "brand": "Teclast",
+   "name": "M50Pro_RUS",
+   "model": "M50 Pro_RUS"
+  }
+ ],
  "M50S_ROW": [
   {
    "brand": "Teclast",
@@ -236520,6 +236734,37 @@
    "brand": "Teclast",
    "name": "M50_ROW",
    "model": "M50_ROW"
+  }
+ ],
+ "M50_EU": [
+  {
+   "brand": "Teclast",
+   "name": "M50_EU",
+   "model": "M50"
+  },
+  {
+   "brand": "Teclast",
+   "name": "M50_EU",
+   "model": "M50_EU"
+  }
+ ],
+ "M50_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "M50_ROW",
+   "model": "M50"
+  },
+  {
+   "brand": "Teclast",
+   "name": "M50_ROW",
+   "model": "M50_ROW"
+  }
+ ],
+ "M50_RUS": [
+  {
+   "brand": "Teclast",
+   "name": "M50_RUS",
+   "model": "M50_RUS"
   }
  ],
  "P10S_ROW": [
@@ -236850,6 +237095,13 @@
    "brand": "Teclast",
    "name": "P40HD_T_ROW",
    "model": "P40HD_T_ROW"
+  }
+ ],
+ "P40HD_T_RUS": [
+  {
+   "brand": "Teclast",
+   "name": "P40HD_T_RUS",
+   "model": "P40HD_RUS"
   }
  ],
  "P50S_EEA": [
@@ -243183,6 +243435,13 @@
    "model": "E4"
   }
  ],
+ "T30Pro": [
+  {
+   "brand": "UAUU",
+   "name": "T30Pro",
+   "model": "T30Pro"
+  }
+ ],
  "T90_NEW": [
   {
    "brand": "UAUU",
@@ -243654,6 +243913,13 @@
    "brand": "Ulefone",
    "name": "Armor 26 Ultra",
    "model": "Armor 26 Ultra"
+  }
+ ],
+ "GQ5010AH1": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 27 Pro",
+   "model": "Armor Mini 20T Pro"
   }
  ],
  "Armor_2S": [
@@ -244782,6 +245048,13 @@
    "model": "MP36"
   }
  ],
+ "A15_Tab": [
+  {
+   "brand": "Umidigi",
+   "name": "A15_Tab",
+   "model": "MT08"
+  }
+ ],
  "A15_Tab_EEA": [
   {
    "brand": "Umidigi",
@@ -245184,10 +245457,31 @@
    "model": "MP28"
   }
  ],
+ "G1_Tab": [
+  {
+   "brand": "Umidigi",
+   "name": "G1_Tab",
+   "model": "MT10"
+  }
+ ],
+ "G1_Tab_EEA": [
+  {
+   "brand": "Umidigi",
+   "name": "G1_Tab_EEA",
+   "model": "MT10"
+  }
+ ],
  "G1_Tab_Kids": [
   {
    "brand": "Umidigi",
    "name": "G1_Tab_Kids",
+   "model": "MT10"
+  }
+ ],
+ "G1_Tab_Kids_EEA": [
+  {
+   "brand": "Umidigi",
+   "name": "G1_Tab_Kids_EEA",
    "model": "MT10"
   }
  ],
@@ -245238,10 +245532,31 @@
    "model": "MP21"
   }
  ],
+ "G2_Tab": [
+  {
+   "brand": "Umidigi",
+   "name": "G2_Tab",
+   "model": "MT11"
+  }
+ ],
+ "G2_Tab_EEA": [
+  {
+   "brand": "Umidigi",
+   "name": "G2_Tab_EEA",
+   "model": "MT11"
+  }
+ ],
  "G2_Tab_Kids": [
   {
    "brand": "Umidigi",
    "name": "G2_Tab_Kids",
+   "model": "MT11"
+  }
+ ],
+ "G2_Tab_Kids_EEA": [
+  {
+   "brand": "Umidigi",
+   "name": "G2_Tab_Kids_EEA",
    "model": "MT11"
   }
  ],
@@ -246588,6 +246903,18 @@
    "brand": "VASOUN",
    "name": "L10-T02",
    "model": "L10-T02"
+  }
+ ],
+ "L10-T02-EEA": [
+  {
+   "brand": "VASOUN",
+   "name": "L10-T02-EEA",
+   "model": "L10-T02"
+  },
+  {
+   "brand": "VASOUN",
+   "name": "L10-T02-EEA",
+   "model": "L10-T02-EEA"
   }
  ],
  "L10_A01": [
@@ -248187,13 +248514,6 @@
    "brand": "Vernee",
    "name": "M5",
    "model": "vernee_M5"
-  }
- ],
- "M8_Pro": [
-  {
-   "brand": "Vernee",
-   "name": "M8 Pro",
-   "model": "M8 Pro"
   }
  ],
  "M2_PRO": [
@@ -277242,6 +277562,13 @@
    "model": "SMART_L104_eea"
   }
  ],
+ "SMART_L11": [
+  {
+   "brand": "iGet",
+   "name": "SMART_L11",
+   "model": "SMART L11"
+  }
+ ],
  "SMART_L206": [
   {
    "brand": "iGet",
@@ -277315,6 +277642,13 @@
    "brand": "iGet",
    "name": "SMART_W20X",
    "model": "SMART_W20X"
+  }
+ ],
+ "SMART_W32": [
+  {
+   "brand": "iGet",
+   "name": "SMART_W32",
+   "model": "SMART W32"
   }
  ],
  "SMART_W8X": [
@@ -279079,6 +279413,13 @@
    "brand": "onn.",
    "name": "MID8016",
    "model": "MID8016"
+  }
+ ],
+ "PM1042T-W": [
+  {
+   "brand": "onn.",
+   "name": "PM1042T-W",
+   "model": "PM1042T-W"
   }
  ],
  "100135923": [
