@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-17
+Last sync is 2024-08-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -34501,7 +34501,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8|Luna|9132G|
 |TCL|TCL TAB 8|Luna|9132X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
+|TCL|TCL TAB 8 Gen2|Venus_WiFi_GL|8188X|
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
+|TCL|TCL TAB 8 LTE Gen2|Venus_4G_GL|8188G|
 |TCL|TCL TAB 8 Plus|Luna_8_4G_VZW|9138S|
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136K|
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136R|

@@ -225233,11 +225233,25 @@
    "model": "9032X"
   }
  ],
+ "TCL TAB 8 Gen2": [
+  {
+   "brand": "TCL",
+   "device": "Venus_WiFi_GL",
+   "model": "8188X"
+  }
+ ],
  "TCL TAB 8 LE": [
   {
    "brand": "TCL",
    "device": "Luna_8_4G_TMO",
    "model": "9137W"
+  }
+ ],
+ "TCL TAB 8 LTE Gen2": [
+  {
+   "brand": "TCL",
+   "device": "Venus_4G_GL",
+   "model": "8188G"
   }
  ],
  "TCL TAB 8 Plus": [

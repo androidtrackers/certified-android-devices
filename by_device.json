@@ -228425,11 +228425,25 @@
    "model": "9032X_TR"
   }
  ],
+ "Venus_WiFi_GL": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 Gen2",
+   "model": "8188X"
+  }
+ ],
  "Luna_8_4G_TMO": [
   {
    "brand": "TCL",
    "name": "TCL TAB 8 LE",
    "model": "9137W"
+  }
+ ],
+ "Venus_4G_GL": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 LTE Gen2",
+   "model": "8188G"
   }
  ],
  "Luna_8_4G_VZW": [
