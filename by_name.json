@@ -9721,6 +9721,13 @@
    "model": "RX2"
   }
  ],
+ "AVT015": [
+  {
+   "brand": "AVACOM",
+   "device": "AVT015",
+   "model": "AVT015"
+  }
+ ],
  "DV8547_Avatel": [
   {
    "brand": "AVATEL",
@@ -25538,6 +25545,13 @@
    "model": "AT81K"
   }
  ],
+ "CP10S": [
+  {
+   "brand": "Atozee",
+   "device": "CP10S",
+   "model": "CP10S"
+  }
+ ],
  "CP20S": [
   {
    "brand": "Atozee",
@@ -25571,6 +25585,13 @@
    "brand": "Atozee",
    "device": "CP30",
    "model": "CP30"
+  }
+ ],
+ "NV10S": [
+  {
+   "brand": "Atozee",
+   "device": "NV10S",
+   "model": "NV10S"
   }
  ],
  "P10": [
@@ -26361,6 +26382,43 @@
    "model": "S30"
   }
  ],
+ "S60": [
+  {
+   "brand": "AvidPad",
+   "device": "S60",
+   "model": "S60"
+  },
+  {
+   "brand": "Doogee",
+   "device": "S60",
+   "model": "S60"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "sisleylr",
+   "model": "Lenovo S60-a"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "sisleylt",
+   "model": "Lenovo S60-t"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "sisleylw",
+   "model": "Lenovo S60-w"
+  },
+  {
+   "brand": "Mobell",
+   "device": "mobell_S60",
+   "model": "S60"
+  },
+  {
+   "brand": "OSCAL",
+   "device": "S60",
+   "model": "S60"
+  }
+ ],
  "S80": [
   {
    "brand": "AvidPad",
@@ -26381,6 +26439,28 @@
    "brand": "Premio",
    "device": "S80",
    "model": "S80"
+  }
+ ],
+ "S90": [
+  {
+   "brand": "AvidPad",
+   "device": "S90",
+   "model": "S90"
+  },
+  {
+   "brand": "Dixon",
+   "device": "S90",
+   "model": "S90"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "sisleye",
+   "model": "Lenovo S90-e"
+  },
+  {
+   "brand": "Premio",
+   "device": "S90",
+   "model": "S90"
   }
  ],
  "Avion A10": [
@@ -28381,6 +28461,13 @@
   {
    "brand": "BMAX",
    "device": "I10Pro_LTE",
+   "model": "I10Pro"
+  }
+ ],
+ "I10Pro_LTE_EEA": [
+  {
+   "brand": "BMAX",
+   "device": "I10Pro_LTE_EEA",
    "model": "I10Pro"
   }
  ],
@@ -34036,6 +34123,13 @@
    "brand": "Blackshark",
    "device": "mobius",
    "model": "SHARK MBU-H0"
+  }
+ ],
+ "Pad6": [
+  {
+   "brand": "Blackshark",
+   "device": "Pad6",
+   "model": "Pad6"
   }
  ],
  "SHARK KSR-A0": [
@@ -42462,6 +42556,20 @@
    "model": "COEX 4K Smart TV FF"
   }
  ],
+ "C10_EEA": [
+  {
+   "brand": "COLORROOM",
+   "device": "C10_EEA",
+   "model": "C10"
+  }
+ ],
+ "C10_ROW": [
+  {
+   "brand": "COLORROOM",
+   "device": "C10_ROW",
+   "model": "C10"
+  }
+ ],
  "C3_EEA": [
   {
    "brand": "COLORROOM",
@@ -44522,6 +44630,13 @@
    "brand": "Ceibal",
    "device": "ACRUX",
    "model": "ACRUX"
+  }
+ ],
+ "Alfard": [
+  {
+   "brand": "Ceibal",
+   "device": "Alfard",
+   "model": "Alfard"
   }
  ],
  "BETELGEUSE": [
@@ -46600,6 +46715,13 @@
   {
    "brand": "Chuwi",
    "device": "Hi10_XPro_Pad",
+   "model": "Hi10_XPro_Pad"
+  }
+ ],
+ "Hi10_XPro_Pad_EEA": [
+  {
+   "brand": "Chuwi",
+   "device": "Hi10_XPro_Pad_EEA",
    "model": "Hi10_XPro_Pad"
   }
  ],
@@ -53657,6 +53779,13 @@
    "model": "E108GCM"
   }
  ],
+ "PRO4": [
+  {
+   "brand": "DEPLAY",
+   "device": "PRO4",
+   "model": "PRO4"
+  }
+ ],
  "A.350": [
   {
    "brand": "DEXP",
@@ -60024,23 +60153,6 @@
    "model": "S5790"
   }
  ],
- "S90": [
-  {
-   "brand": "Dixon",
-   "device": "S90",
-   "model": "S90"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "sisleye",
-   "model": "Lenovo S90-e"
-  },
-  {
-   "brand": "Premio",
-   "device": "S90",
-   "model": "S90"
-  }
- ],
  "TS-M105G-1": [
   {
    "brand": "Dixon",
@@ -60715,38 +60827,6 @@
    "brand": "Doogee",
    "device": "S59Pro",
    "model": "S59Pro"
-  }
- ],
- "S60": [
-  {
-   "brand": "Doogee",
-   "device": "S60",
-   "model": "S60"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "sisleylr",
-   "model": "Lenovo S60-a"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "sisleylt",
-   "model": "Lenovo S60-t"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "sisleylw",
-   "model": "Lenovo S60-w"
-  },
-  {
-   "brand": "Mobell",
-   "device": "mobell_S60",
-   "model": "S60"
-  },
-  {
-   "brand": "OSCAL",
-   "device": "S60",
-   "model": "S60"
   }
  ],
  "S60 Lite": [
@@ -63995,6 +64075,13 @@
    "brand": "EL(elongmobile)",
    "device": "Pad_S7",
    "model": "Pad_S7"
+  }
+ ],
+ "Pad_S8": [
+  {
+   "brand": "EL(elongmobile)",
+   "device": "Pad_S8",
+   "model": "Pad_S8"
   }
  ],
  "M108": [
@@ -74041,6 +74128,13 @@
    "brand": "G-Tab",
    "device": "PAD10",
    "model": "PAD10"
+  }
+ ],
+ "PAD10_PRO": [
+  {
+   "brand": "G-Tab",
+   "device": "PAD10_PRO",
+   "model": "PAD10_PRO"
   }
  ],
  "PL1000B": [
@@ -105477,6 +105571,13 @@
    "brand": "INOI",
    "device": "INOI_A14",
    "model": "A140"
+  }
+ ],
+ "T107_Plus": [
+  {
+   "brand": "INOI",
+   "device": "T107_Plus",
+   "model": "inoiPad Pro"
   }
  ],
  "easyphone": [
@@ -140008,6 +140109,13 @@
    "model": "TM4G_1006"
   }
  ],
+ "TM4G_806": [
+  {
+   "brand": "MIRAY",
+   "device": "TM4G_806",
+   "model": "TM4G_806"
+  }
+ ],
  "TPM4G_105": [
   {
    "brand": "MIRAY",
@@ -152187,11 +152295,6 @@
  "moto g pro": [
   {
    "brand": "Motorola",
-   "device": "fogona",
-   "model": "motorola edge 40 pro"
-  },
-  {
-   "brand": "Motorola",
    "device": "sofiap_sprout",
    "model": "moto g pro"
   }
@@ -163060,6 +163163,13 @@
    "model": "A10"
   }
  ],
+ "A11_ROW": [
+  {
+   "brand": "Odea",
+   "device": "A11_ROW",
+   "model": "A11"
+  }
+ ],
  "S11_EEA": [
   {
    "brand": "Odea",
@@ -169588,6 +169698,13 @@
    "model": "OT11"
   }
  ],
+ "OT12_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "OT12",
+   "model": "OT12"
+  }
+ ],
  "OT5_EEA": [
   {
    "brand": "Oukitel",
@@ -169624,6 +169741,13 @@
   }
  ],
  "OT8_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "OT8",
+   "model": "OT8"
+  }
+ ],
+ "OT8_ROW": [
   {
    "brand": "Oukitel",
    "device": "OT8",
@@ -181084,6 +181208,13 @@
    "model": "L8"
   }
  ],
+ "L8_PRO_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "L8_PRO_EEA",
+   "model": "L8"
+  }
+ ],
  "M10-EEA": [
   {
    "brand": "Pritom",
@@ -188005,6 +188136,13 @@
    "model": "T618"
   }
  ],
+ "T618_WIFI": [
+  {
+   "brand": "Relndoo",
+   "device": "T618_WIFI",
+   "model": "T618"
+  }
+ ],
  "TB02": [
   {
    "brand": "Relndoo",
@@ -190696,6 +190834,13 @@
    "model": "SAH55AM"
   }
  ],
+ "Sprange_L8": [
+  {
+   "brand": "SPRANGE",
+   "device": "Sprange_L8",
+   "model": "Sprange_L8"
+  }
+ ],
  "Spurt_K800": [
   {
    "brand": "SPURT",
@@ -191816,6 +191961,27 @@
    "brand": "SUPOIN",
    "device": "S66",
    "model": "S66"
+  }
+ ],
+ "T900": [
+  {
+   "brand": "SUXI",
+   "device": "T900",
+   "model": "T900"
+  }
+ ],
+ "SWA310": [
+  {
+   "brand": "SWACONNECT",
+   "device": "SWA310",
+   "model": "SWA310"
+  }
+ ],
+ "SWA310_NEU": [
+  {
+   "brand": "SWACONNECT",
+   "device": "SWA310",
+   "model": "SWA310"
   }
  ],
  "North America": [
@@ -233471,6 +233637,58 @@
    "model": "T22-EEA"
   }
  ],
+ "T221": [
+  {
+   "brand": "TOSCIDO",
+   "device": "T221",
+   "model": "T221"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "Blade C341"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "DIGICEL DL755"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "KIS C341"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "ZTE Blade A5"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "ZTE Blade AF5"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "ZTE Blade C341"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "ZTE Blade C342"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "ZTE T221"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P731A20",
+   "model": "ZTE T230"
+  }
+ ],
  "T26": [
   {
    "brand": "TOSCIDO",
@@ -234919,6 +235137,13 @@
    "model": "M50 Pro_RUS"
   }
  ],
+ "M50S_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "M50S_EEA",
+   "model": "M50S"
+  }
+ ],
  "M50S_ROW": [
   {
    "brand": "Teclast",
@@ -235250,6 +235475,16 @@
    "brand": "Teclast",
    "device": "P30T",
    "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P30T_ROW",
+   "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P30T_ROW",
+   "model": "P30T_ROW"
   }
  ],
  "P30_ROW": [
@@ -235892,6 +236127,13 @@
    "brand": "Teclast",
    "device": "T50_Y_ROW",
    "model": "T50_Y_ROW"
+  }
+ ],
+ "T50_Y_RUS": [
+  {
+   "brand": "Teclast",
+   "device": "T50_Y_RUS",
+   "model": "T50_Y_RUS"
   }
  ],
  "T60-EEA": [
@@ -241705,6 +241947,13 @@
    "model": "UTAB"
   }
  ],
+ "U3_EEA": [
+  {
+   "brand": "UJJ(SZ)",
+   "device": "U3_EEA",
+   "model": "U3_EEA"
+  }
+ ],
  "KIDS705-701A": [
   {
    "brand": "UJoyFeel",
@@ -244023,6 +244272,13 @@
    "brand": "Umidigi",
    "device": "G6_Tab_EEA",
    "model": "TG2404GBA"
+  }
+ ],
+ "G7_Tab": [
+  {
+   "brand": "Umidigi",
+   "device": "G7_Tab",
+   "model": "TG4FBG7TA"
   }
  ],
  "G7_Tab_EEA": [
@@ -261408,6 +261664,11 @@
   {
    "brand": "Xiaomi",
    "device": "goku",
+   "model": "24072PX77C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "goku",
    "model": "Xiaomi for arm64"
   }
  ],
@@ -267871,53 +268132,6 @@
    "brand": "ZTE",
    "device": "blade2",
    "model": "T-Mobile Vivacity"
-  }
- ],
- "T221": [
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "Blade C341"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "DIGICEL DL755"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "KIS C341"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "ZTE Blade A5"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "ZTE Blade AF5"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "ZTE Blade C341"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "ZTE Blade C342"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "ZTE T221"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P731A20",
-   "model": "ZTE T230"
   }
  ],
  "T325": [
@@ -276282,6 +276496,13 @@
    "model": "SMART_W8X"
   }
  ],
+ "SMART_W8_Kids": [
+  {
+   "brand": "iGet",
+   "device": "SMART_W8_Kids",
+   "model": "SMART W8 Kids"
+  }
+ ],
  "Alien X": [
   {
    "brand": "iHunt",
@@ -279520,6 +279741,18 @@
    "brand": "redbeat",
    "device": "redbeatA2",
    "model": "redbeatA2"
+  }
+ ],
+ "redbeatM2": [
+  {
+   "brand": "redbeat",
+   "device": "redbeatM2",
+   "model": "M2"
+  },
+  {
+   "brand": "redbeat",
+   "device": "redbeatM2",
+   "model": "redbeatM2"
   }
  ],
  "Valuer_V8": [
