@@ -74355,6 +74355,11 @@
    "model": "TE083"
   },
   {
+   "device": "TE08D2M64",
+   "name": "TE08D2M64",
+   "model": "TE08D2M64"
+  },
+  {
    "device": "Aquaman_10_Smart_WIFI",
    "name": "TE101N1",
    "model": "TE101"
@@ -80586,6 +80591,13 @@
    "device": "X20L",
    "name": "X20L",
    "model": "X20L"
+  }
+ ],
+ "JUEDUR": [
+  {
+   "device": "R800_U_EEA",
+   "name": "R800_U_EEA",
+   "model": "R800_U_EEA"
   }
  ],
  "JUSYEA": [
@@ -129269,6 +129281,11 @@
    "model": "OT12"
   },
   {
+   "device": "OT12",
+   "name": "OT12_ROW",
+   "model": "OT12"
+  },
+  {
    "device": "OT5",
    "name": "OT5_EEA",
    "model": "OT5"
@@ -144145,6 +144162,11 @@
    "device": "S23_Pro_Max",
    "name": "S23 Pro Max",
    "model": "S23 Pro Max"
+  },
+  {
+   "device": "S71",
+   "name": "S71",
+   "model": "S71"
   },
   {
    "device": "reeder_T8",

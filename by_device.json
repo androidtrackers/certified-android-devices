@@ -105096,6 +105096,13 @@
    "model": "TE083"
   }
  ],
+ "TE08D2M64": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "TE08D2M64",
+   "model": "TE08D2M64"
+  }
+ ],
  "Aquaman_10_Smart_WIFI": [
   {
    "brand": "IRIS_OHYAMA",
@@ -112907,6 +112914,13 @@
    "brand": "JREN",
    "name": "JR_J7",
    "model": "JR_J7"
+  }
+ ],
+ "R800_U_EEA": [
+  {
+   "brand": "JUEDUR",
+   "name": "R800_U_EEA",
+   "model": "R800_U_EEA"
   }
  ],
  "J10_EEA": [
@@ -170470,6 +170484,11 @@
    "brand": "Oukitel",
    "name": "OT12_EEA",
    "model": "OT12"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "OT12_ROW",
+   "model": "OT12"
   }
  ],
  "OT5": [
@@ -179316,6 +179335,11 @@
  "S71": [
   {
    "brand": "Premio",
+   "name": "S71",
+   "model": "S71"
+  },
+  {
+   "brand": "Reeder",
    "name": "S71",
    "model": "S71"
   }

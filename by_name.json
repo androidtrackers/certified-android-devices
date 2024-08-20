@@ -105922,6 +105922,13 @@
    "model": "TE083"
   }
  ],
+ "TE08D2M64": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "device": "TE08D2M64",
+   "model": "TE08D2M64"
+  }
+ ],
  "TE101N1": [
   {
    "brand": "IRIS_OHYAMA",
@@ -113629,6 +113636,13 @@
    "brand": "JTWORKS",
    "device": "rk3588_t",
    "model": "JTW"
+  }
+ ],
+ "R800_U_EEA": [
+  {
+   "brand": "JUEDUR",
+   "device": "R800_U_EEA",
+   "model": "R800_U_EEA"
   }
  ],
  "J10_EEA": [
@@ -169705,6 +169719,13 @@
    "model": "OT12"
   }
  ],
+ "OT12_ROW": [
+  {
+   "brand": "Oukitel",
+   "device": "OT12",
+   "model": "OT12"
+  }
+ ],
  "OT5_EEA": [
   {
    "brand": "Oukitel",
@@ -178695,6 +178716,11 @@
  "S71": [
   {
    "brand": "Premio",
+   "device": "S71",
+   "model": "S71"
+  },
+  {
+   "brand": "Reeder",
    "device": "S71",
    "model": "S71"
   }

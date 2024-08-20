@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-19
+Last sync is 2024-08-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14419,6 +14419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|R4|R4|R4|
 |IRIS_OHYAMA|TE082M2|Luna|TE082M2|
 |IRIS_OHYAMA|TE083M3|TE083M3|TE083|
+|IRIS_OHYAMA|TE08D2M64|TE08D2M64|TE08D2M64|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
 |IRIS_OHYAMA|TE102M3|TE102M3|TE102|
 |IRIS_OHYAMA|TE103M3|TE103M3|TE103|
@@ -15636,6 +15637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JREN|JR_J7|JR_J7|JR_J7|
 |JTWORKS|JTWORKS-IFPD|rk3588_t|JTW|
 |JTYPDA|X20L|X20L|X20L|
+|JUEDUR|R800_U_EEA|R800_U_EEA|R800_U_EEA|
 |JUSYEA|J10_EEA|J10_EEA|J10_EEA|
 |JUSYEA|J10_US|J10_US|J10_US|
 |JUSYEA|J3|JUSYEA_J3|J3|
@@ -25127,6 +25129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|OT11|OT11|OT11|
 |Oukitel|OT11_ROW|OT11|OT11|
 |Oukitel|OT12_EEA|OT12|OT12|
+|Oukitel|OT12_ROW|OT12|OT12|
 |Oukitel|OT5_EEA|OT5|OT5|
 |Oukitel|OT5_S_EEA|OT5_S|OT5 S|
 |Oukitel|OT6_EEA|OT6|OT6|
@@ -28019,6 +28022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 MaxL 128GB|S19_MaxL_128GB|S19 MaxL 128GB|
 |Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
 |Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
+|Reeder|S71|S71|S71|
 |Reeder|T8|reeder_T8|reeder_T8|
 |Reeder|Turkcell_T_Tablet|Turkcell_T_Tablet|Turkcell_T_Tablet|
 |Reeder|reeder M10 Plus|reeder_M10_Plus|reeder_M10 Plus|
