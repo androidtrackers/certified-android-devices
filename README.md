@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-20
+Last sync is 2024-08-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2717,6 +2717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BEISTA|X108|X108|X108|
 |BEISTA|X80-EEA|X80-EEA|X80-EEA|
 |BERGSTROM|H634_BLK|H634_BLK|H634 BLK|
+|BESTTAB|A20_EEA|A20|A20|
 |BGH S.A.|BGH 2K Android TV|lasalle|BGH 2K Android TV|
 |BGH S.A.|BGH 4K Android TV|kenton|BGH 4K Android TV|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
@@ -4717,6 +4718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|P80L|P80L|P80L|
 |CWOWDEFU|P81L|P81L|P81L|
 |CWOWDEFU|P83L|P83L|P83L|
+|CWOWDEFU|S18|S18|S18|
 |CWOWDEFU|S18 EEA|S18|S18|
 |CX Argentina|CX9011|CX9011|CX9011|
 |CYX Group|A7008|A7008|A7008|
@@ -5434,6 +5436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10.1|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10_1|
+|Compaq|QTAB10_PLUS|QTAB10_PLUS|QTAB10 PLUS|
 |Compaq|QTAB10_PLUS|QTAB10_PLUS|QTAB10_PLUS|
 |Compaq|QTAB8|QTAB8|QTAB8|
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
@@ -9746,6 +9749,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 8|shiba|Pixel 8|
 |Google|Pixel 8 Pro|husky|Pixel 8 Pro|
 |Google|Pixel 8a|akita|Pixel 8a|
+|Google|Pixel 9|tokay|Pixel 9|
+|Google|Pixel 9 Pro XL|komodo|Pixel 9 Pro XL|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Fold|felix|Pixel Fold|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
@@ -12224,6 +12229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
+|Honor|HONOR Pad X8a|HNNDL-Q|NDL-W09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L03|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
@@ -12302,6 +12308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
 |Horion|IFPD|65W72B|W72B|
+|Horion|M6APro|M6APro|M6APro|
 |Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
 |Hot Pepper|AJI|AJI|HPPR10A|
 |Hot Pepper|AP17|AP17|AP17|
@@ -25966,6 +25973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191L|
 |Philips|Philips Google TV TA1|PH1M_WW_9972|Philips Google TV TA1|
 |Philips|Philips Google TV TA2|PH1M_WW_9972|Philips Google TV TA2|
+|Philips|Philips Google TV TA5|PH1M_WW_9972|Philips Google TV TA5|
 |Philips|Philips Google TV TA6|kujo|Philips Google TV TA6|
 |Philips|Philips Google TV TA6|kujo|Philips Google TV TA6 LT|
 |Philips|Philips Google TV TA7|PH3M_AL_T32|Philips Google TV TA7|
@@ -27090,6 +27098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QCELL|Qsmart|QSmart_Plus|QSmart Plus|
 |QFX USA|TLW-100|PhonePad|TLW-100|
 |QIN(cn)|F22 Pro|F22Pro|F22Pro|
+|QIUWOKY|C10S|C10S|C10S|
 |QLA|C600|GBC_bravo|C600|
 |QLA (tw)|T1|QLA|T1|
 |QMobile|A1|QMobile_Noir_A1|Noir A1|
@@ -28022,6 +28031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 MaxL 128GB|S19_MaxL_128GB|S19 MaxL 128GB|
 |Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
 |Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
+|Reeder|S53|S53|S53|
 |Reeder|S71|S71|S71|
 |Reeder|T8|reeder_T8|reeder_T8|
 |Reeder|Turkcell_T_Tablet|Turkcell_T_Tablet|Turkcell_T_Tablet|
@@ -36064,6 +36074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOSCIDO|T501-EEA|T501-EEA|T501-EEA|
 |TOSCIDO|X102|X102|X102|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
+|TOUCH_DYNAMIC|Nexus|Nexus|Nexus|
 |TOUMAI|MI_1|MI_1|MI_1|
 |TOYA|Poland|DTC974x|DTC974x|
 |TOYIN|RJ TOYIN|RJ_TOYIN|RJ TOYIN|
@@ -36341,6 +36352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30T_ROW|P30T|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T_ROW|
+|Teclast|P30_EEA|P30_EEA|P30_EEA|
 |Teclast|P30_ROW|P30|P30|
 |Teclast|P40HD_EEA|P40HD_EEA|P40HD|
 |Teclast|P40HD_EEA|P40HD_T|P40HD_EEA|
@@ -37237,7 +37249,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touch plus|770G|770G|770G|
 |Touch plus|770N|770N|770N|
 |Touch plus|AS1000|AS1000|AS1000|
-|Touch plus|Nexus|Nexus|Nexus|
 |Touchmate|TM-MID1010|TM-MID1010|TM-MID1010|
 |Touchmate|TM-MID1010NB|TM-MID1010NB|TM-MID1010NB|
 |Touchmate|TM-MID1050B|TM-MID1050B|TM-MID1050B|
@@ -37421,6 +37432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UCM(M)|T12|T12|T12|
 |UD (EU)|Smart TV|longshan|AI PONT|
 |UD (EU)|Smart TV|redwood|AI PONT|
+|UGRIHACH|MB1001|MB1001|MB1001|
 |UJJ(SZ)|U3_EEA|U3_EEA|U3_EEA|
 |UJoyFeel|KIDS705-701A|KIDS705_701A|KIDS705-701A|
 |UJoyFeel|KIDS705_701|KIDS705-701|KIDS705-701|
@@ -43559,6 +43571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imozen|TC605AW|TC605|TC605|
 |incar|E38_RU|E38|E38|
 |indigi|G4i|G4i|G4i|
+|inefi|Android_G17|Android_G17|Android_G17|
 |inefi|SlimPOS319|SlimPOS319|SlimPOS319|
 |innex|Meeting_hub_EU|EU_3588|EU|
 |innos|Android TV|R2|ATV R2|

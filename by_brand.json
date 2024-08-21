@@ -14059,6 +14059,13 @@
    "model": "H634 BLK"
   }
  ],
+ "BESTTAB": [
+  {
+   "device": "A20",
+   "name": "A20_EEA",
+   "model": "A20"
+  }
+ ],
  "BGH S.A.": [
   {
    "device": "lasalle",
@@ -24406,6 +24413,11 @@
   },
   {
    "device": "S18",
+   "name": "S18",
+   "model": "S18"
+  },
+  {
+   "device": "S18",
    "name": "S18 EEA",
    "model": "S18"
   }
@@ -28156,6 +28168,11 @@
    "device": "QTAB10_1",
    "name": "QTAB10_1",
    "model": "QTAB10_1"
+  },
+  {
+   "device": "QTAB10_PLUS",
+   "name": "QTAB10_PLUS",
+   "model": "QTAB10 PLUS"
   },
   {
    "device": "QTAB10_PLUS",
@@ -50656,6 +50673,16 @@
    "model": "Pixel 8a"
   },
   {
+   "device": "tokay",
+   "name": "Pixel 9",
+   "model": "Pixel 9"
+  },
+  {
+   "device": "komodo",
+   "name": "Pixel 9 Pro XL",
+   "model": "Pixel 9 Pro XL"
+  },
+  {
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
@@ -63264,6 +63291,11 @@
    "model": "AGM-W09HN"
   },
   {
+   "device": "HNNDL-Q",
+   "name": "HONOR Pad X8a",
+   "model": "NDL-W09"
+  },
+  {
    "device": "HNELN-Q",
    "name": "HONOR Pad X9",
    "model": "ELN-L03"
@@ -63656,6 +63688,11 @@
    "device": "65W72B",
    "name": "IFPD",
    "model": "W72B"
+  },
+  {
+   "device": "M6APro",
+   "name": "M6APro",
+   "model": "M6APro"
   }
  ],
  "Hot Pepper": [
@@ -133610,6 +133647,11 @@
    "model": "Philips Google TV TA2"
   },
   {
+   "device": "PH1M_WW_9972",
+   "name": "Philips Google TV TA5",
+   "model": "Philips Google TV TA5"
+  },
+  {
    "device": "kujo",
    "name": "Philips Google TV TA6",
    "model": "Philips Google TV TA6"
@@ -139366,6 +139408,13 @@
    "model": "F22Pro"
   }
  ],
+ "QIUWOKY": [
+  {
+   "device": "C10S",
+   "name": "C10S",
+   "model": "C10S"
+  }
+ ],
  "QLA": [
   {
    "device": "GBC_bravo",
@@ -144162,6 +144211,11 @@
    "device": "S23_Pro_Max",
    "name": "S23 Pro Max",
    "model": "S23 Pro Max"
+  },
+  {
+   "device": "S53",
+   "name": "S53",
+   "model": "S53"
   },
   {
    "device": "S71",
@@ -185074,6 +185128,13 @@
    "model": "Quicktab"
   }
  ],
+ "TOUCH_DYNAMIC": [
+  {
+   "device": "Nexus",
+   "name": "Nexus",
+   "model": "Nexus"
+  }
+ ],
  "TOUMAI": [
   {
    "device": "MI_1",
@@ -186551,6 +186612,11 @@
    "device": "P30T_ROW",
    "name": "P30T_ROW",
    "model": "P30T_ROW"
+  },
+  {
+   "device": "P30_EEA",
+   "name": "P30_EEA",
+   "model": "P30_EEA"
   },
   {
    "device": "P30",
@@ -191163,11 +191229,6 @@
    "device": "AS1000",
    "name": "AS1000",
    "model": "AS1000"
-  },
-  {
-   "device": "Nexus",
-   "name": "Nexus",
-   "model": "Nexus"
   }
  ],
  "Touchmate": [
@@ -192153,6 +192214,13 @@
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
+  }
+ ],
+ "UGRIHACH": [
+  {
+   "device": "MB1001",
+   "name": "MB1001",
+   "model": "MB1001"
   }
  ],
  "UJJ(SZ)": [
@@ -223718,6 +223786,11 @@
   }
  ],
  "inefi": [
+  {
+   "device": "Android_G17",
+   "name": "Android_G17",
+   "model": "Android_G17"
+  },
   {
    "device": "SlimPOS319",
    "name": "SlimPOS319",

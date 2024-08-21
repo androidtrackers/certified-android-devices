@@ -28717,6 +28717,38 @@
    "model": "H634 BLK"
   }
  ],
+ "A20": [
+  {
+   "brand": "BESTTAB",
+   "name": "A20_EEA",
+   "model": "A20"
+  },
+  {
+   "brand": "Blackview",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "Cubot",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "Hiking",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "IkuMobile",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "TVB",
+   "name": "A20",
+   "model": "A20"
+  }
+ ],
  "BGH_Joy_303": [
   {
    "brand": "BGH S.A.",
@@ -34436,33 +34468,6 @@
    "brand": "Blacksonic",
    "name": "BS9",
    "model": "BS9"
-  }
- ],
- "A20": [
-  {
-   "brand": "Blackview",
-   "name": "A20",
-   "model": "A20"
-  },
-  {
-   "brand": "Cubot",
-   "name": "A20",
-   "model": "A20"
-  },
-  {
-   "brand": "Hiking",
-   "name": "A20",
-   "model": "A20"
-  },
-  {
-   "brand": "IkuMobile",
-   "name": "A20",
-   "model": "A20"
-  },
-  {
-   "brand": "TVB",
-   "name": "A20",
-   "model": "A20"
   }
  ],
  "A200Pro": [
@@ -42896,6 +42901,11 @@
  "S18": [
   {
    "brand": "CWOWDEFU",
+   "name": "S18",
+   "model": "S18"
+  },
+  {
+   "brand": "CWOWDEFU",
    "name": "S18 EEA",
    "model": "S18"
   }
@@ -48002,6 +48012,11 @@
   }
  ],
  "QTAB10_PLUS": [
+  {
+   "brand": "Compaq",
+   "name": "QTAB10_PLUS",
+   "model": "QTAB10 PLUS"
+  },
   {
    "brand": "Compaq",
    "name": "QTAB10_PLUS",
@@ -77919,6 +77934,40 @@
    "model": "Pixel 8a"
   }
  ],
+ "tokay": [
+  {
+   "brand": "Google",
+   "name": "Pixel 9",
+   "model": "Pixel 9"
+  }
+ ],
+ "komodo": [
+  {
+   "brand": "Google",
+   "name": "Pixel 9 Pro XL",
+   "model": "Pixel 9 Pro XL"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "AM60 series",
+   "model": "AM60 series"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "AM60 series",
+   "model": "SMART AM60"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "AMG1",
+   "model": "AMG series"
+  },
+  {
+   "brand": "SMART Technologies",
+   "name": "SMART AMG series",
+   "model": "SMART AMG1"
+  }
+ ],
  "dragon": [
   {
    "brand": "Google",
@@ -92527,6 +92576,13 @@
    "model": "AGM-W09HN"
   }
  ],
+ "HNNDL-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X8a",
+   "model": "NDL-W09"
+  }
+ ],
  "HNELN-Q": [
   {
    "brand": "Honor",
@@ -92929,6 +92985,13 @@
    "brand": "Horion",
    "name": "IFPD",
    "model": "W72B"
+  }
+ ],
+ "M6APro": [
+  {
+   "brand": "Horion",
+   "name": "M6APro",
+   "model": "M6APro"
   }
  ],
  "15_Pro_Max": [
@@ -175762,6 +175825,11 @@
    "brand": "Philips",
    "name": "Philips Google TV TA2",
    "model": "Philips Google TV TA2"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA5",
+   "model": "Philips Google TV TA5"
   }
  ],
  "kujo": [
@@ -179316,6 +179384,11 @@
    "brand": "Premio",
    "name": "S53",
    "model": "S53"
+  },
+  {
+   "brand": "Reeder",
+   "name": "S53",
+   "model": "S53"
   }
  ],
  "S54": [
@@ -182502,6 +182575,13 @@
    "brand": "QIN(cn)",
    "name": "F22 Pro",
    "model": "F22Pro"
+  }
+ ],
+ "C10S": [
+  {
+   "brand": "QIUWOKY",
+   "name": "C10S",
+   "model": "C10S"
   }
  ],
  "QLA": [
@@ -189681,28 +189761,6 @@
    "brand": "SKY_Brasil",
    "name": "Sky Brazil",
    "model": "SKR02"
-  }
- ],
- "komodo": [
-  {
-   "brand": "SMART Technologies",
-   "name": "AM60 series",
-   "model": "AM60 series"
-  },
-  {
-   "brand": "SMART Technologies",
-   "name": "AM60 series",
-   "model": "SMART AM60"
-  },
-  {
-   "brand": "SMART Technologies",
-   "name": "AMG1",
-   "model": "AMG series"
-  },
-  {
-   "brand": "SMART Technologies",
-   "name": "SMART AMG series",
-   "model": "SMART AMG1"
   }
  ],
  "groundhog": [
@@ -235528,6 +235586,13 @@
    "model": "Quicktab"
   }
  ],
+ "Nexus": [
+  {
+   "brand": "TOUCH_DYNAMIC",
+   "name": "Nexus",
+   "model": "Nexus"
+  }
+ ],
  "MI_1": [
   {
    "brand": "TOUMAI",
@@ -237274,6 +237339,13 @@
    "brand": "Teclast",
    "name": "P30T_ROW",
    "model": "P30T_ROW"
+  }
+ ],
+ "P30_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P30_EEA",
+   "model": "P30_EEA"
   }
  ],
  "P40HD_EEA": [
@@ -242735,13 +242807,6 @@
    "model": "AS1000"
   }
  ],
- "Nexus": [
-  {
-   "brand": "Touch plus",
-   "name": "Nexus",
-   "model": "Nexus"
-  }
- ],
  "TM-MID1010": [
   {
    "brand": "Touchmate",
@@ -243687,6 +243752,13 @@
    "brand": "UBOS",
    "name": "UTAB",
    "model": "UTAB"
+  }
+ ],
+ "MB1001": [
+  {
+   "brand": "UGRIHACH",
+   "name": "MB1001",
+   "model": "MB1001"
   }
  ],
  "U3_EEA": [
@@ -279209,6 +279281,13 @@
    "brand": "indigi",
    "name": "G4i",
    "model": "G4i"
+  }
+ ],
+ "Android_G17": [
+  {
+   "brand": "inefi",
+   "name": "Android_G17",
+   "model": "Android_G17"
   }
  ],
  "SlimPOS319": [
