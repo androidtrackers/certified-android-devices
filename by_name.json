@@ -32641,6 +32641,11 @@
    "model": "BenQ F5"
   },
   {
+   "brand": "Blu",
+   "device": "F0090",
+   "model": "F5"
+  },
+  {
    "brand": "Galax",
    "device": "F5",
    "model": "F5"
@@ -79442,6 +79447,28 @@
    "model": "Pixel XL"
   }
  ],
+ "Pixel watch 3": [
+  {
+   "brand": "Google",
+   "device": "helios",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "brand": "Google",
+   "device": "luna",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "brand": "Google",
+   "device": "selene",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "brand": "Google",
+   "device": "sol",
+   "model": "Pixel Watch 3"
+  }
+ ],
  "Pixelbook": [
   {
    "brand": "Google",
@@ -126128,6 +126155,11 @@
    "brand": "LGE",
    "device": "jettalt",
    "model": "10A30Q"
+  },
+  {
+   "brand": "LGE",
+   "device": "solemiolt",
+   "model": "10AWM20S"
   }
  ],
  "LG V35 ThinQ": [
@@ -162621,6 +162653,13 @@
    "brand": "ONDA TLC",
    "device": "T9S",
    "model": "T9S"
+  }
+ ],
+ "M10X": [
+  {
+   "brand": "ONERugged",
+   "device": "M10X",
+   "model": "M10X"
   }
  ],
  "M10XE": [
@@ -253111,6 +253150,13 @@
    "model": "V2352A"
   }
  ],
+ "iQOO Z9s 5G": [
+  {
+   "brand": "Vivo",
+   "device": "I2403",
+   "model": "I2403"
+  }
+ ],
  "vivo  1907": [
   {
    "brand": "Vivo",
@@ -253898,6 +253944,13 @@
    "brand": "Vivo",
    "device": "Y28",
    "model": "vivo Y28"
+  }
+ ],
+ "vivo Y36c": [
+  {
+   "brand": "Vivo",
+   "device": "PD2357",
+   "model": "V2357A"
   }
  ],
  "vivo Y37": [
@@ -280181,6 +280234,13 @@
    "brand": "techBITE",
    "device": "SmartBoard_10_LTE",
    "model": "SmartBoard_10_LTE"
+  }
+ ],
+ "Smartboard_III_12_EEA": [
+  {
+   "brand": "techBITE",
+   "device": "TT2401x",
+   "model": "Smartboard III 12"
   }
  ],
  "OmnisOne": [

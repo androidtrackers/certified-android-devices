@@ -20643,6 +20643,11 @@
    "model": "Energy X LTE"
   },
   {
+   "device": "F0090",
+   "name": "F5",
+   "model": "F5"
+  },
+  {
    "device": "F0030UU",
    "name": "F91 5G",
    "model": "F91 5G"
@@ -50736,6 +50741,26 @@
    "device": "marlin",
    "name": "Pixel XL",
    "model": "Pixel XL"
+  },
+  {
+   "device": "helios",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "device": "luna",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "device": "selene",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "device": "sol",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
   },
   {
    "device": "atlas_cheets",
@@ -91788,6 +91813,11 @@
    "model": "10A30Q"
   },
   {
+   "device": "solemiolt",
+   "name": "LG Ultra Tab",
+   "model": "10AWM20S"
+  },
+  {
    "device": "judyp",
    "name": "LG V35 ThinQ",
    "model": "LM-V350"
@@ -123225,6 +123255,11 @@
   }
  ],
  "ONERugged": [
+  {
+   "device": "M10X",
+   "name": "M10X",
+   "model": "M10X"
+  },
   {
    "device": "M10XE",
    "name": "M10XE",
@@ -201447,6 +201482,11 @@
    "model": "V2352A"
   },
   {
+   "device": "I2403",
+   "name": "iQOO Z9s 5G",
+   "model": "I2403"
+  },
+  {
    "device": "1907",
    "name": "vivo  1907",
    "model": "vivo 1907"
@@ -202030,6 +202070,11 @@
    "device": "Y28",
    "name": "vivo Y28",
    "model": "vivo Y28"
+  },
+  {
+   "device": "PD2357",
+   "name": "vivo Y36c",
+   "model": "V2357A"
   },
   {
    "device": "PD2357",
@@ -225741,6 +225786,11 @@
    "device": "SmartBoard_10_LTE",
    "name": "SmartBoard 10 LTE",
    "model": "SmartBoard_10_LTE"
+  },
+  {
+   "device": "TT2401x",
+   "name": "Smartboard_III_12_EEA",
+   "model": "Smartboard III 12"
   }
  ],
  "tecmobile": [

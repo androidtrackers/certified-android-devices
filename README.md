@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-21
+Last sync is 2024-08-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4001,6 +4001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|
 |Blu|Energy X 2|BLU_Energy_X_2|Energy X 2|
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
+|Blu|F5|F0090|F5|
 |Blu|F91 5G|F0030UU|F91 5G|
 |Blu|G0290WW|G0290WW|G80|
 |Blu|G33|G0890|G33|
@@ -9762,6 +9763,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Watch 2|aurora|Google Pixel Watch 2|
 |Google|Pixel Watch 2|eos|Google Pixel Watch 2|
 |Google|Pixel XL|marlin|Pixel XL|
+|Google|Pixel watch 3|helios|Pixel Watch 3|
+|Google|Pixel watch 3|luna|Pixel Watch 3|
+|Google|Pixel watch 3|selene|Pixel Watch 3|
+|Google|Pixel watch 3|sol|Pixel Watch 3|
 |Google|Pixelbook|atlas_cheets|Google Pixelbook Go|
 |Google|Pixelbook|atlas_cheets|atlas|
 |Google|Pixelbook|eve_cheets|Google Pixelbook|
@@ -17818,6 +17823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Tribute Royal|mmh5lm|LM-X320|
 |LGE|LG U|bbg|LG-F820L|
 |LGE|LG Ultra Tab|jettalt|10A30Q|
+|LGE|LG Ultra Tab|solemiolt|10AWM20S|
 |LGE|LG V35 ThinQ|judyp|LM-V350|
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
 |LGE|LG V50 ThinQ|flashlmdd|LM-V500|
@@ -23942,6 +23948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
+|ONERugged|M10X|M10X|M10X|
 |ONERugged|M10XE|M10XE|M10XE|
 |ONERugged|M195T|M195T|M195T|
 |ONERugged|M86X|M86X|M86X|
@@ -39225,6 +39232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z9 5G|I2218|I2218|
 |Vivo|iQOO Z9 5G|I2302|I2302|
 |Vivo|iQOO Z9 Turbo|PD2352|V2352A|
+|Vivo|iQOO Z9s 5G|I2403|I2403|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|
@@ -39342,6 +39350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y22|V2207|V2238|
 |Vivo|vivo Y22|Y22|vivo Y22|
 |Vivo|vivo Y28|Y28|vivo Y28|
+|Vivo|vivo Y36c|PD2357|V2357A|
 |Vivo|vivo Y37|PD2357|V2357A|
 |Vivo|vivo Y37m|PD2357|V2357EA|
 |Vivo|vivo Y65|1719|vivo 1719|
@@ -43943,6 +43952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |teXet|Texet TM-5584|TM-5584|TM-5584|
 |techBITE|Flix  TV  Box|DV8219|Flix TV Box|
 |techBITE|SmartBoard 10 LTE|SmartBoard_10_LTE|SmartBoard_10_LTE|
+|techBITE|Smartboard_III_12_EEA|TT2401x|Smartboard III 12|
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
 |thehaam|THEHAAM|hongkong|4K SMART TV|
 |trueslim|5516D|5516D|5516D|

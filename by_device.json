@@ -37986,6 +37986,13 @@
    "model": "Energy X LTE"
   }
  ],
+ "F0090": [
+  {
+   "brand": "Blu",
+   "name": "F5",
+   "model": "F5"
+  }
+ ],
  "F0030UU": [
   {
    "brand": "Blu",
@@ -78079,6 +78086,69 @@
    "brand": "Google",
    "name": "Pixel XL",
    "model": "Pixel XL"
+  }
+ ],
+ "helios": [
+  {
+   "brand": "Google",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
+  }
+ ],
+ "luna": [
+  {
+   "brand": "Google",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
+  }
+ ],
+ "selene": [
+  {
+   "brand": "Google",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
+  },
+  {
+   "brand": "Radger",
+   "name": "Redmi 10 Prime",
+   "model": "21061119BI"
+  },
+  {
+   "brand": "Radger",
+   "name": "Redmi 10 Prime",
+   "model": "22011119TI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "21061119AG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "21061119AL"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "21121119SG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "21121119VL"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 4G",
+   "model": "21121119SC"
+  }
+ ],
+ "sol": [
+  {
+   "brand": "Google",
+   "name": "Pixel watch 3",
+   "model": "Pixel Watch 3"
   }
  ],
  "atlas_cheets": [
@@ -125497,6 +125567,13 @@
    "model": "10A30Q"
   }
  ],
+ "solemiolt": [
+  {
+   "brand": "LGE",
+   "name": "LG Ultra Tab",
+   "model": "10AWM20S"
+  }
+ ],
  "judyp": [
   {
    "brand": "LGE",
@@ -163277,6 +163354,13 @@
    "model": "T9S"
   }
  ],
+ "M10X": [
+  {
+   "brand": "ONERugged",
+   "name": "M10X",
+   "model": "M10X"
+  }
+ ],
  "M10XE": [
   {
    "brand": "ONERugged",
@@ -185365,43 +185449,6 @@
    "brand": "Radger",
    "name": "IMP-F01K",
    "model": "IMP-F01K"
-  }
- ],
- "selene": [
-  {
-   "brand": "Radger",
-   "name": "Redmi 10 Prime",
-   "model": "21061119BI"
-  },
-  {
-   "brand": "Radger",
-   "name": "Redmi 10 Prime",
-   "model": "22011119TI"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 2022",
-   "model": "21061119AG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 2022",
-   "model": "21061119AL"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 2022",
-   "model": "21121119SG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 2022",
-   "model": "21121119VL"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 11 4G",
-   "model": "21121119SC"
   }
  ],
  "fog": [
@@ -254484,6 +254531,13 @@
    "model": "V2352A"
   }
  ],
+ "I2403": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z9s 5G",
+   "model": "I2403"
+  }
+ ],
  "1907": [
   {
    "brand": "Vivo",
@@ -255160,6 +255214,11 @@
   }
  ],
  "PD2357": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y36c",
+   "model": "V2357A"
+  },
   {
    "brand": "Vivo",
    "name": "vivo Y37",
@@ -281387,6 +281446,13 @@
    "brand": "techBITE",
    "name": "SmartBoard 10 LTE",
    "model": "SmartBoard_10_LTE"
+  }
+ ],
+ "TT2401x": [
+  {
+   "brand": "techBITE",
+   "name": "Smartboard_III_12_EEA",
+   "model": "Smartboard III 12"
   }
  ],
  "OmnisOne": [
