@@ -22930,6 +22930,11 @@
    "brand": "Surfans",
    "device": "K10",
    "model": "K10"
+  },
+  {
+   "brand": "okulaku",
+   "device": "K10",
+   "model": "K10"
   }
  ],
  "AST707G": [
@@ -29852,6 +29857,13 @@
    "model": "BL70"
   }
  ],
+ "BM65 Pro": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BM65Pro_TG05",
+   "model": "BM65Pro_TG05"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -29990,6 +30002,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "PIXO7",
+   "model": "T70"
+  },
+  {
+   "brand": "Veidoo",
+   "device": "T70",
    "model": "T70"
   }
  ],
@@ -31447,6 +31464,13 @@
    "brand": "Inves",
    "device": "yeongdeungpo",
    "model": "INVES UHD Android TV"
+  }
+ ],
+ "AZ101FB": [
+  {
+   "brand": "BROJ",
+   "device": "AZ101FB",
+   "model": "AZ101FB"
   }
  ],
  "BTF-43SG": [
@@ -35708,6 +35732,13 @@
    "model": "Tab 90"
   }
  ],
+ "Tab A5 Kids": [
+  {
+   "brand": "Blackview",
+   "device": "Tab_A5_Kids",
+   "model": "Tab A5 Kids"
+  }
+ ],
  "Tab10": [
   {
    "brand": "Blackview",
@@ -36501,6 +36532,11 @@
    "brand": "Sharp",
    "device": "sindang",
    "model": "AQUOS_TVE19A"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "device": "cottongreen",
+   "model": "Gameplay"
   },
   {
    "brand": "Tesla",
@@ -41869,6 +41905,13 @@
    "brand": "CAST",
    "device": "CAST",
    "model": "CAST"
+  }
+ ],
+ "AZ101FCN": [
+  {
+   "brand": "CATCHTABLE",
+   "device": "AZ101FCN",
+   "model": "AZ101FCN"
   }
  ],
  "connect": [
@@ -52915,6 +52958,13 @@
    "model": "KINGKONG_MINI2_Pro"
   }
  ],
+ "KINGKONG POWER 3": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_POWER_3",
+   "model": "KINGKONG POWER 3"
+  }
+ ],
  "KINGKONG STAR": [
   {
    "brand": "Cubot",
@@ -53127,6 +53177,11 @@
  "P50": [
   {
    "brand": "Cubot",
+   "device": "P50",
+   "model": "P50"
+  },
+  {
+   "brand": "HISORL",
    "device": "P50",
    "model": "P50"
   },
@@ -55630,6 +55685,20 @@
    "model": "Tablet_DL_3910"
   }
  ],
+ "D2_EEA": [
+  {
+   "brand": "DMOAO",
+   "device": "D2_EEA",
+   "model": "D2_EEA"
+  }
+ ],
+ "D2_US": [
+  {
+   "brand": "DMOAO",
+   "device": "D2_US",
+   "model": "D2_US"
+  }
+ ],
  "D3_EEA": [
   {
    "brand": "DMOAO",
@@ -55785,6 +55854,13 @@
    "brand": "DOMATON",
    "device": "Ocean_K10",
    "model": "Ocean K10"
+  }
+ ],
+ "VT502A": [
+  {
+   "brand": "DOMO",
+   "device": "VT502A",
+   "model": "VT502A"
   }
  ],
  "DTB": [
@@ -60584,6 +60660,13 @@
    "model": "N55"
   }
  ],
+ "N55 Plus": [
+  {
+   "brand": "Doogee",
+   "device": "1928Y",
+   "model": "N55 Plus"
+  }
+ ],
  "N55 Pro": [
   {
    "brand": "Doogee",
@@ -60731,6 +60814,13 @@
    "brand": "Doogee",
    "device": "M22C",
    "model": "S punk"
+  }
+ ],
+ "S200": [
+  {
+   "brand": "Doogee",
+   "device": "M24P",
+   "model": "S200"
   }
  ],
  "S35": [
@@ -69483,6 +69573,13 @@
    "model": "D109_EEA"
   }
  ],
+ "D115": [
+  {
+   "brand": "FEONAL",
+   "device": "D115",
+   "model": "D115"
+  }
+ ],
  "D118_EEA": [
   {
    "brand": "FEONAL",
@@ -72354,6 +72451,13 @@
    "brand": "GFive",
    "device": "Thunder",
    "model": "Thunder"
+  }
+ ],
+ "KidstabletOne": [
+  {
+   "brand": "Fox_and_Sheep",
+   "device": "KidstabletOne",
+   "model": "KidstabletOne"
   }
  ],
  "CSL Spice MI700": [
@@ -80853,6 +80957,11 @@
    "brand": "HISORL",
    "device": "T10P",
    "model": "T10P"
+  },
+  {
+   "brand": "Relndoo",
+   "device": "T10P",
+   "model": "T10P"
   }
  ],
  "TAB10_EEA": [
@@ -80860,6 +80969,20 @@
    "brand": "HISORL",
    "device": "TAB10_EEA",
    "model": "TAB10_EEA"
+  }
+ ],
+ "TB02_EEA": [
+  {
+   "brand": "HISORL",
+   "device": "TB02_EEA",
+   "model": "TB02"
+  }
+ ],
+ "TB02_ROW": [
+  {
+   "brand": "HISORL",
+   "device": "TB02_ROW",
+   "model": "TB02"
   }
  ],
  "A79 Tablet": [
@@ -86772,6 +86895,20 @@
    "brand": "Haier",
    "device": "deto",
    "model": "Haier MatrixTV CS"
+  }
+ ],
+ "Haier MatrixTV DE": [
+  {
+   "brand": "Haier",
+   "device": "omonia",
+   "model": "Haier MatrixTV DE"
+  }
+ ],
+ "Haier MatrixTV EE": [
+  {
+   "brand": "Haier",
+   "device": "omonia",
+   "model": "Haier MatrixTV EE"
   }
  ],
  "Haier OLED TV AE": [
@@ -107611,6 +107748,18 @@
    "model": "Infinix X6882"
   }
  ],
+ "Infinix HOT 50 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6720",
+   "model": "Infinix X6720"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6720B",
+   "model": "Infinix X6720B"
+  }
+ ],
  "Infinix HOT 6X": [
   {
    "brand": "Infinix",
@@ -115427,6 +115576,13 @@
    "model": "Armor I1w"
   }
  ],
+ "Armor V1s": [
+  {
+   "brand": "KENSHI",
+   "device": "Armor_V1s",
+   "model": "Armor V1s"
+  }
+ ],
  "Armor_C1w_RU": [
   {
    "brand": "KENSHI",
@@ -119221,6 +119377,13 @@
    "model": "IM5"
   }
  ],
+ "KD10112TB": [
+  {
+   "brand": "Kodak",
+   "device": "KD10112TB",
+   "model": "KD10112TB"
+  }
+ ],
  "KODAK": [
   {
    "brand": "Kodak",
@@ -120256,6 +120419,27 @@
    "brand": "Kruger&Matz",
    "device": "keoneae",
    "model": "KM 4K TV"
+  }
+ ],
+ "KM0708": [
+  {
+   "brand": "Kruger&Matz",
+   "device": "KM0708",
+   "model": "KM0708"
+  }
+ ],
+ "KM0808": [
+  {
+   "brand": "Kruger&Matz",
+   "device": "KM0808",
+   "model": "KM0808"
+  }
+ ],
+ "KM1008": [
+  {
+   "brand": "Kruger&Matz",
+   "device": "KM1008",
+   "model": "KM1008"
   }
  ],
  "KM1066": [
@@ -143919,6 +144103,13 @@
    "brand": "Mediacom",
    "device": "SP8MXA",
    "model": "M-SP8MXA"
+  }
+ ],
+ "SP1AZ4_P": [
+  {
+   "brand": "Mediacom",
+   "device": "SP1AZ4_P",
+   "model": "AZIMUT_4_PRO"
   }
  ],
  "E1050X": [
@@ -188274,6 +188465,23 @@
    "model": "T618"
   }
  ],
+ "T88": [
+  {
+   "brand": "Relndoo",
+   "device": "T88",
+   "model": "T88"
+  },
+  {
+   "brand": "YOBANSE",
+   "device": "T88",
+   "model": "T88"
+  },
+  {
+   "brand": "ZTE",
+   "device": "msm8226",
+   "model": "ZTE T88"
+  }
+ ],
  "TB02": [
   {
    "brand": "Relndoo",
@@ -222537,6 +222745,11 @@
   {
    "brand": "Sunmi",
    "device": "T3_PRO",
+   "model": "T3 PRO"
+  },
+  {
+   "brand": "Sunmi",
+   "device": "T3_PRO",
    "model": "T3 Pro Max"
   }
  ],
@@ -235715,6 +235928,11 @@
  "P50_ROW": [
   {
    "brand": "Teclast",
+   "device": "P50",
+   "model": "P50_ROW"
+  },
+  {
+   "brand": "Teclast",
    "device": "P50_ROW",
    "model": "P50"
   }
@@ -246024,6 +246242,13 @@
    "model": "VZ-30"
   }
  ],
+ "VZ-30Pro": [
+  {
+   "brand": "VIKUSHA",
+   "device": "VZ-30Pro",
+   "model": "VZ-30"
+  }
+ ],
  "V20 SE": [
   {
    "brand": "VILLAON",
@@ -255991,6 +256216,20 @@
    "model": "W10_US"
   }
  ],
+ "W11_EEA": [
+  {
+   "brand": "WOZIFAN",
+   "device": "W11_EEA",
+   "model": "W11_EEA"
+  }
+ ],
+ "W11_US": [
+  {
+   "brand": "WOZIFAN",
+   "device": "W11_US",
+   "model": "W11_US"
+  }
+ ],
  "W500 _EEA": [
   {
    "brand": "WOZIFAN",
@@ -256017,6 +256256,13 @@
    "brand": "WS(SZ)",
    "device": "TD-TP010G-2",
    "model": "TD-TP010G-2"
+  }
+ ],
+ "WS-T01": [
+  {
+   "brand": "WS(SZ)",
+   "device": "WS-T01",
+   "model": "WS-T01"
   }
  ],
  "Cintiq Companion Hybrid 13HD": [
@@ -258324,6 +258570,13 @@
    "brand": "Wiko",
    "device": "VHEM",
    "model": "VHEM"
+  }
+ ],
+ "WIKO T40": [
+  {
+   "brand": "Wiko",
+   "device": "T40",
+   "model": "ArkF-AF00"
   }
  ],
  "WIKO VOIX": [
@@ -262315,18 +262568,6 @@
    "model": "Pad6 PLUS"
   }
  ],
- "T88": [
-  {
-   "brand": "YOBANSE",
-   "device": "T88",
-   "model": "T88"
-  },
-  {
-   "brand": "ZTE",
-   "device": "msm8226",
-   "model": "ZTE T88"
-  }
- ],
  "Y101": [
   {
    "brand": "YOBANSE",
@@ -263469,6 +263710,13 @@
    "brand": "ZIOVO",
    "device": "Z118-US",
    "model": "Z118-US"
+  }
+ ],
+ "Z128_T_EEA": [
+  {
+   "brand": "ZIOVO",
+   "device": "Z128_T_EEA",
+   "model": "Z128_T_EEA"
   }
  ],
  "ZLINE_Z_742": [
@@ -273877,6 +274125,13 @@
    "model": "AWM533"
   }
  ],
+ "D115_EEA": [
+  {
+   "brand": "Zonko",
+   "device": "D115_EEA",
+   "model": "D115_EEA"
+  }
+ ],
  "D118": [
   {
    "brand": "Zonko",
@@ -279798,6 +280053,20 @@
    "model": "RMX3993"
   }
  ],
+ "真我13 Pro+": [
+  {
+   "brand": "realme",
+   "device": "RE5C49L1",
+   "model": "RMX3920"
+  }
+ ],
+ "真我13 Pro至尊版": [
+  {
+   "brand": "realme",
+   "device": "RE5C49L1",
+   "model": "RMX3989"
+  }
+ ],
  "真我GT 2": [
   {
    "brand": "realme",
@@ -280571,6 +280840,20 @@
    "model": "F83W"
   }
  ],
+ "P10W": [
+  {
+   "brand": "weelikeit",
+   "device": "P10W",
+   "model": "P10W"
+  }
+ ],
+ "P10W_EEA": [
+  {
+   "brand": "weelikeit",
+   "device": "P10W_EEA",
+   "model": "P10W_EEA"
+  }
+ ],
  "P11W": [
   {
    "brand": "weelikeit",
@@ -280611,6 +280894,13 @@
    "brand": "weelikeit",
    "device": "P26W_EEA",
    "model": "P26W_EEA"
+  }
+ ],
+ "P51L_EEA": [
+  {
+   "brand": "weelikeit",
+   "device": "P51L_EEA",
+   "model": "P51L_EEA"
   }
  ],
  "P82L": [
