@@ -13136,6 +13136,13 @@
    "model": "KidsTab3_EEA"
   }
  ],
+ "Kids_Tab_2": [
+  {
+   "brand": "Achate",
+   "device": "Kids_Tab_2",
+   "model": "Kids_Tab_2"
+  }
+ ],
  "ACONATIC": [
   {
    "brand": "Aconatic",
@@ -260538,6 +260545,13 @@
    "brand": "X-View",
    "device": "Bears",
    "model": "Bears"
+  }
+ ],
+ "FTB13": [
+  {
+   "brand": "X-View",
+   "device": "FTB13",
+   "model": "FTB13"
   }
  ],
  "PROTON_AMBER_HD": [

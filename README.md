@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-25
+Last sync is 2024-08-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -690,6 +690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acet|X63L|X63L|X63L|
 |Achate|Kids Tab 1|KidsTab1_EEA|Kids Tab 1|
 |Achate|KidsTab3_EEA|KidsTab3_EEA|KidsTab3_EEA|
+|Achate|Kids_Tab_2|Kids_Tab_2|Kids_Tab_2|
 |Aconatic|ACONATIC|bangbae|Aconatic 4K Android TV|
 |Aconatic|ACONATIC|bruno|ACONATIC 2K Android TV|
 |Aconatic|ACONATIC|shilin|ACONATIC 4K Android TV|
@@ -40438,6 +40439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|Y10|Y10|Y10|
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|Bears|Bears|Bears|
+|X-View|FTB13|FTB13|FTB13|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
 |X-View|PRO_BOOK|PRO_BOOK|PRO_BOOK|
 |X-View|Probook_E_L-10|Probook_E_L-10|Probook_E_L-10|

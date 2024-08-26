@@ -3654,6 +3654,11 @@
    "device": "KidsTab3_EEA",
    "name": "KidsTab3_EEA",
    "model": "KidsTab3_EEA"
+  },
+  {
+   "device": "Kids_Tab_2",
+   "name": "Kids_Tab_2",
+   "model": "Kids_Tab_2"
   }
  ],
  "Aconatic": [
@@ -207716,6 +207721,11 @@
    "device": "Bears",
    "name": "Bears",
    "model": "Bears"
+  },
+  {
+   "device": "FTB13",
+   "name": "FTB13",
+   "model": "FTB13"
   },
   {
    "device": "Proton_Amber_HD",

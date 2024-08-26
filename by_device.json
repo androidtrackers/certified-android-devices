@@ -11648,6 +11648,13 @@
    "model": "KidsTab3_EEA"
   }
  ],
+ "Kids_Tab_2": [
+  {
+   "brand": "Achate",
+   "name": "Kids_Tab_2",
+   "model": "Kids_Tab_2"
+  }
+ ],
  "bruno": [
   {
    "brand": "Aconatic",
@@ -261721,6 +261728,13 @@
    "brand": "X-View",
    "name": "Bears",
    "model": "Bears"
+  }
+ ],
+ "FTB13": [
+  {
+   "brand": "X-View",
+   "name": "FTB13",
+   "model": "FTB13"
   }
  ],
  "Proton_Amber_HD": [
