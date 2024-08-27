@@ -18797,6 +18797,13 @@
    "model": "P80_ROW"
   }
  ],
+ "Antel_B866V2FAS": [
+  {
+   "brand": "Antel",
+   "name": "Antel Box2.0",
+   "model": "Antel Box2.0"
+  }
+ ],
  "ASP320Q_GSM": [
   {
    "brand": "Anydata",
@@ -23572,6 +23579,11 @@
    "brand": "TCL",
    "name": "G10",
    "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "G10_4K_US",
+   "model": "Smart TV Pro"
   },
   {
    "brand": "iMuz",
@@ -42992,6 +43004,13 @@
    "brand": "CWOWDEFU",
    "name": "P15W_EEA",
    "model": "P15W_EEA"
+  }
+ ],
+ "P16-C": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "P16-C",
+   "model": "P16-C"
   }
  ],
  "P20L": [
@@ -140095,6 +140114,13 @@
    "model": "M3-SL10"
   }
  ],
+ "M3PC10": [
+  {
+   "brand": "M3 Mobile",
+   "name": "M3PC10",
+   "model": "M3PC10"
+  }
+ ],
  "M3SL10": [
   {
    "brand": "M3 Mobile",
@@ -162144,6 +162170,13 @@
    "model": "Nokia C30"
   }
  ],
+ "ORO": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C300",
+   "model": "Nokia C300"
+  }
+ ],
  "ORT": [
   {
    "brand": "Nokia",
@@ -166418,6 +166451,16 @@
    "brand": "Oppo",
    "name": "A3x 5G",
    "model": "CPH2681"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A3 5G",
+   "model": "CPH2693"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A60 5G",
+   "model": "CPH2683"
   }
  ],
  "PADM00": [
@@ -166652,6 +166695,28 @@
   {
    "brand": "Oppo",
    "name": "A57",
+   "model": "CPH2407"
+  }
+ ],
+ "OP571F": [
+  {
+   "brand": "Oppo",
+   "name": "A57",
+   "model": "CPH2387"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A57",
+   "model": "CPH2407"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2387",
+   "model": "CPH2387"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2407",
    "model": "CPH2407"
   }
  ],
@@ -167513,18 +167578,6 @@
    "brand": "Oppo",
    "name": "CPH2385",
    "model": "CPH2385"
-  }
- ],
- "OP571F": [
-  {
-   "brand": "Oppo",
-   "name": "CPH2387",
-   "model": "CPH2387"
-  },
-  {
-   "brand": "Oppo",
-   "name": "CPH2407",
-   "model": "CPH2407"
   }
  ],
  "OP5325": [
@@ -223774,6 +223827,13 @@
    "model": "Spark Plus 3"
   }
  ],
+ "CDX": [
+  {
+   "brand": "Specktron",
+   "name": "CDX",
+   "model": "CDX"
+  }
+ ],
  "MM60_2": [
   {
    "brand": "Spectra Geospatial",
@@ -224804,6 +224864,13 @@
    "brand": "Stylo",
    "name": "AIR",
    "model": "AIR"
+  }
+ ],
+ "APEX_5G": [
+  {
+   "brand": "Stylo",
+   "name": "APEX_5G",
+   "model": "APEX_5G"
   }
  ],
  "ARCTIC": [
@@ -235575,6 +235642,13 @@
    "model": "UPT24K"
   }
  ],
+ "B866V2FA_TELECAB": [
+  {
+   "brand": "TELECAB",
+   "name": "B866V2FA",
+   "model": "B866V2FA"
+  }
+ ],
  "BN500": [
   {
    "brand": "TELOX",
@@ -240757,6 +240831,18 @@
    "model": "TECNO LI6"
   }
  ],
+ "TECNO-KL8": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 6 Neo 5G",
+   "model": "TECNO KL8"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 30 5G",
+   "model": "TECNO KL8"
+  }
+ ],
  "TECNO-LI9": [
   {
    "brand": "Tecno",
@@ -240916,6 +241002,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 20C",
    "model": "TECNO BG7n"
+  }
+ ],
+ "TECNO-KL8s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 30 5G",
+   "model": "TECNO KL8s"
   }
  ],
  "TECNO-KC2": [

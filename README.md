@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-26
+Last sync is 2024-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1409,6 +1409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AngelLira|ALFP200|ALFP200|ALFP200|
 |AngelTech|E109GCM|E109GCM|E109GCM|
 |AngelTech|P80|P80|P80|
+|Antel|Antel Box2.0|Antel_B866V2FAS|Antel Box2.0|
 |Antel|DV8547|DV8547|DV8547|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
 |Anydata|Aquaris I8|bq_Aquaris|bq Aquaris|
@@ -4730,6 +4731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|P12W_EEA|P12W_EEA|P12W_EEA|
 |CWOWDEFU|P15W|P15W|P15W|
 |CWOWDEFU|P15W_EEA|P15W_EEA|P15W_EEA|
+|CWOWDEFU|P16-C|P16-C|P16-C|
 |CWOWDEFU|P20L|P20L|P20L|
 |CWOWDEFU|P20L ROW|P20L|P20L|
 |CWOWDEFU|P25W|P25W|P25W|
@@ -20142,6 +20144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3 US20W|M3US20W|M3US20W|
 |M3 Mobile|M3 US20X|M3US20X|M3US20X|
 |M3 Mobile|M3-SL10|M3-SL10|M3-SL10|
+|M3 Mobile|M3PC10|M3PC10|M3PC10|
 |M3 Mobile|M3SL10|M3SL10|M3SL10|
 |M3 Mobile|M3SL20K|M3SL20K|M3SL20K|
 |M3 Mobile|M3SM15N|M3SM15N|M3SM15N|
@@ -23730,6 +23733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia C30|MNI|Nokia C30|
 |Nokia|Nokia C30|MNR|Nokia C30|
+|Nokia|Nokia C300|ORO|Nokia C300|
 |Nokia|Nokia C300|ORT|N155DL|
 |Nokia|Nokia C31|VSI|Nokia C31|
 |Nokia|Nokia C32|MKDA|Nokia C32|
@@ -24496,6 +24500,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A57|A57|OPPO A57t|
 |Oppo|A57|OP5355|CPH2387|
 |Oppo|A57|OP5355|CPH2407|
+|Oppo|A57|OP571F|CPH2387|
+|Oppo|A57|OP571F|CPH2407|
 |Oppo|A57s/A77|OP5353L1|CPH2385|
 |Oppo|A57t|A57|OPPO A57t|
 |Oppo|A58|OP574FL1|CPH2577|
@@ -24722,6 +24728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPG02_jp_kdi|OP4F39L1|OPG02|
 |Oppo|OPPO A1 5G|OP561D|PHS110|
 |Oppo|OPPO A18|OP575DL1|CPH2591|
+|Oppo|OPPO A3 5G|OP5EA7L1|CPH2693|
 |Oppo|OPPO A33|OP4EEA|CPH2137|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
 |Oppo|OPPO A38|OP5759L1|CPH2579|
@@ -24730,6 +24737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A57s|OP5353L1|CPH2385|
+|Oppo|OPPO A60 5G|OP5EA7L1|CPH2683|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
@@ -33838,6 +33846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SparX|V5|Sparx_V5|Sparx V5|
 |SparX|V7|Sparx_V7|V7|
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
+|Specktron|CDX|CDX|CDX|
 |Spectra Geospatial|MobileMapper60_2|MM60_2|MobileMapper60_2|
 |Spectra Geospatial|Ranger 5|bcat|RGR5|
 |SpectraPrecision|Ranger 5 Handheld|workhorse_wifi|Ranger5|
@@ -34009,6 +34018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|721|721|721|
 |Stylo|721_PRO|721_PRO|721_PRO|
 |Stylo|AIR|AIR|AIR|
+|Stylo|APEX_5G|APEX_5G|APEX_5G|
 |Stylo|ARCTIC|ARCTIC|ARCTIC|
 |Stylo|AS210291|AS210291|AS210291|
 |Stylo|ATLAS|AW230345|ATLAS|
@@ -34448,6 +34458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|G08|G08|Smart TV Pro|
 |TCL|G10|G10|Smart TV|
+|TCL|G10_4K_US|G10|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|Jitterbug Smart4|Sonata_BBH|T608G|
@@ -36039,6 +36050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TELE System|"Italy，Poland|Czech|BeNeLux"|
 |TELE System|ON T2 HD|ONT2HD|ONT2HD|
 |TELE System|UPT24K|UPT24K|UPT24K|
+|TELECAB|B866V2FA|B866V2FA_TELECAB|B866V2FA|
 |TELOX|BN500|BN500|BN500|
 |TELOX|TE620G|TE620G|TE620G|
 |TELSTAR|TELSTAR 2K Google TV|capitolhill|TELSTAR 2K Google TV|
@@ -36863,6 +36875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
 |Tecno|TECNO POVA 6|TECNO-LI7|TECNO LI7|
 |Tecno|TECNO POVA 6 Neo|TECNO-LI6|TECNO LI6|
+|Tecno|TECNO POVA 6 Neo 5G|TECNO-KL8|TECNO KL8|
 |Tecno|TECNO POVA 6 Pro 5G|TECNO-LI9|TECNO LI9|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
@@ -36887,6 +36900,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 20 Pro+|TECNO-KJ7s|TECNO KJ7s|
 |Tecno|TECNO SPARK 20C|TECNO-BG7|TECNO BG7|
 |Tecno|TECNO SPARK 20C|TECNO-BG7n|TECNO BG7n|
+|Tecno|TECNO SPARK 30 5G|TECNO-KL8|TECNO KL8|
+|Tecno|TECNO SPARK 30 5G|TECNO-KL8s|TECNO KL8s|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|

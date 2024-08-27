@@ -8722,6 +8722,16 @@
    "brand": "Oppo",
    "device": "OP5355",
    "model": "CPH2407"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP571F",
+   "model": "CPH2387"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP571F",
+   "model": "CPH2407"
   }
  ],
  "A61": [
@@ -18641,6 +18651,13 @@
    "brand": "Cubot",
    "device": "P80",
    "model": "P80"
+  }
+ ],
+ "Antel Box2.0": [
+  {
+   "brand": "Antel",
+   "device": "Antel_B866V2FAS",
+   "model": "Antel Box2.0"
   }
  ],
  "Aquaris I8": [
@@ -43545,6 +43562,13 @@
    "brand": "CWOWDEFU",
    "device": "P15W_EEA",
    "model": "P15W_EEA"
+  }
+ ],
+ "P16-C": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "P16-C",
+   "model": "P16-C"
   }
  ],
  "P20L": [
@@ -139878,6 +139902,13 @@
    "model": "M3-SL10"
   }
  ],
+ "M3PC10": [
+  {
+   "brand": "M3 Mobile",
+   "device": "M3PC10",
+   "model": "M3PC10"
+  }
+ ],
  "M3SL10": [
   {
    "brand": "M3 Mobile",
@@ -161561,6 +161592,11 @@
  "Nokia C300": [
   {
    "brand": "Nokia",
+   "device": "ORO",
+   "model": "Nokia C300"
+  },
+  {
+   "brand": "Nokia",
    "device": "ORT",
    "model": "N155DL"
   }
@@ -167156,6 +167192,13 @@
    "model": "CPH2591"
   }
  ],
+ "OPPO A3 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5EA7L1",
+   "model": "CPH2693"
+  }
+ ],
  "OPPO A33": [
   {
    "brand": "Oppo",
@@ -167208,6 +167251,13 @@
    "brand": "Oppo",
    "device": "OP5353L1",
    "model": "CPH2385"
+  }
+ ],
+ "OPPO A60 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5EA7L1",
+   "model": "CPH2683"
   }
  ],
  "OPPO A74 5G": [
@@ -221314,6 +221364,13 @@
    "model": "Spark Plus 3"
   }
  ],
+ "CDX": [
+  {
+   "brand": "Specktron",
+   "device": "CDX",
+   "model": "CDX"
+  }
+ ],
  "MobileMapper60_2": [
   {
    "brand": "Spectra Geospatial",
@@ -222347,6 +222404,13 @@
    "brand": "Stylo",
    "device": "AIR",
    "model": "AIR"
+  }
+ ],
+ "APEX_5G": [
+  {
+   "brand": "Stylo",
+   "device": "APEX_5G",
+   "model": "APEX_5G"
   }
  ],
  "ARCTIC": [
@@ -225029,6 +225093,13 @@
   {
    "brand": "TCL",
    "device": "G08",
+   "model": "Smart TV Pro"
+  }
+ ],
+ "G10_4K_US": [
+  {
+   "brand": "TCL",
+   "device": "G10",
    "model": "Smart TV Pro"
   }
  ],
@@ -233662,6 +233733,13 @@
    "model": "UPT24K"
   }
  ],
+ "B866V2FA": [
+  {
+   "brand": "TELECAB",
+   "device": "B866V2FA_TELECAB",
+   "model": "B866V2FA"
+  }
+ ],
  "BN500": [
   {
    "brand": "TELOX",
@@ -238804,6 +238882,13 @@
    "model": "TECNO LI6"
   }
  ],
+ "TECNO POVA 6 Neo 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL8",
+   "model": "TECNO KL8"
+  }
+ ],
  "TECNO POVA 6 Pro 5G": [
   {
    "brand": "Tecno",
@@ -238959,6 +239044,18 @@
    "brand": "Tecno",
    "device": "TECNO-BG7n",
    "model": "TECNO BG7n"
+  }
+ ],
+ "TECNO SPARK 30 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL8",
+   "model": "TECNO KL8"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL8s",
+   "model": "TECNO KL8s"
   }
  ],
  "TECNO SPARK 4": [
