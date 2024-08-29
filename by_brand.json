@@ -6805,6 +6805,11 @@
  ],
  "Alpha": [
   {
+   "device": "lushan",
+   "name": "ALPHA 4K",
+   "model": "ALPHA 4K"
+  },
+  {
    "device": "samseong",
    "name": "Alpha 43G7NUA",
    "model": "AI PONT"
@@ -47200,6 +47205,11 @@
    "device": "T11_1",
    "name": "T11_1",
    "model": "T11_1"
+  },
+  {
+   "device": "T8S_1",
+   "name": "T8S_1",
+   "model": "T8S"
   }
  ],
  "G-TiDE": [
@@ -74736,6 +74746,13 @@
    "device": "iMax_EC1053",
    "name": "iMax_EC1053",
    "model": "iMax_EC1053"
+  }
+ ],
+ "IQU(SZ)": [
+  {
+   "device": "IQUSMARTEASYT10W",
+   "name": "IQUSMARTEASYT10W",
+   "model": "IQUSMARTEASYT10W"
   }
  ],
  "IQU_GROUP": [
@@ -108521,6 +108538,13 @@
    "model": "M_Q58EEA"
   }
  ],
+ "Meswao": [
+  {
+   "device": "MES-B3",
+   "name": "MES-B3",
+   "model": "MES-B3"
+  }
+ ],
  "Metro": [
   {
    "device": "E2",
@@ -125502,6 +125526,11 @@
    "device": "rk3588_t",
    "name": "OneScreen T7",
    "model": "T7"
+  },
+  {
+   "device": "Wandr",
+   "name": "Wandr_W1",
+   "model": "OneScreen Wandr"
   }
  ],
  "Onix": [
@@ -199936,6 +199965,11 @@
    "model": "I2202"
   },
   {
+   "device": "I2219",
+   "name": "I2219",
+   "model": "I2219"
+  },
+  {
    "device": "I2306",
    "name": "I2306",
    "model": "I2306"
@@ -201189,6 +201223,11 @@
    "device": "PD2314",
    "name": "V2314A",
    "model": "V2314A"
+  },
+  {
+   "device": "V2338",
+   "name": "V2338",
+   "model": "V2338"
   },
   {
    "device": "PD2353",

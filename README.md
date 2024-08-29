@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-28
+Last sync is 2024-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1301,6 +1301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alliance|DTP9731|DTP9731|DTP9731|
 |Allnet|PrimeOne|PrimeOne|PrimeOne|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
+|Alpha|ALPHA 4K|lushan|ALPHA 4K|
 |Alpha|Alpha 43G7NUA|samseong|AI PONT|
 |Alpha|Alpha S6|Alpha_S6|Alpha S6|
 |Alpha|M8T|ikebukuro|AI PONT|
@@ -9086,6 +9087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|T10|T10_1|T10|
 |G-Tab|T11_1|T11_1|T11|
 |G-Tab|T11_1|T11_1|T11_1|
+|G-Tab|T8S_1|T8S_1|T8S|
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
@@ -14492,6 +14494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
 |IQ Touch|iMax_EC1053|iMax_EC1053|iMax_EC1053|
+|IQU(SZ)|IQUSMARTEASYT10W|IQUSMARTEASYT10W|IQUSMARTEASYT10W|
 |IQU_GROUP|IQU_T10_4G|IQU_T10_4G|IQU T10 4G|
 |IQU_GROUP|IQU_T8_4G|IQU_T8_4G|IQU T8 4G|
 |IQU_GROUP|SMARTEasy_Q50|SMARTEasy_Q50|SMARTEasy_Q50|
@@ -21079,6 +21082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Memorex|MTAB-09541AB|MTAB-09541AB|MTAB-09541AB|
 |MengalTab|ANZATECH|Mengaltab_Echague_anzatech|ANZATECH|
 |Mengdash|M_Q58_EEA|M_Q58_EEA|M_Q58EEA|
+|Meswao|MES-B3|MES-B3|MES-B3|
 |Metro|E2|E2|E2|
 |Metro|Pro5|Pro5|Pro5|
 |Mgt electric|Lumyai|Lumyai|Lumyai|
@@ -24376,6 +24380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|一加平板Pro|OP5D77L1|OPD2404|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |OneScreen|OneScreen T7|rk3588_t|T7|
+|OneScreen|Wandr_W1|Wandr|OneScreen Wandr|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
@@ -38914,6 +38919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
 |Vivo|I2202|I2202|I2202|
+|Vivo|I2219|I2219|I2219|
 |Vivo|I2306|I2306|I2306|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PA2170|DPD2106|PA2170|
@@ -39165,6 +39171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2279A|PD2279J|V2279A|
 |Vivo|V2282A|PD2282|V2282A|
 |Vivo|V2314A|PD2314|V2314A|
+|Vivo|V2338|V2338|V2338|
 |Vivo|V2353A|PD2353|V2353A|
 |Vivo|V2353A|PD2353|V2353DA|
 |Vivo|V25|V2202|V2202|

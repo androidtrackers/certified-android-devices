@@ -17752,6 +17752,13 @@
    "model": "PSY7020SKD"
   }
  ],
+ "ALPHA 4K": [
+  {
+   "brand": "Alpha",
+   "device": "lushan",
+   "model": "ALPHA 4K"
+  }
+ ],
  "Alpha 43G7NUA": [
   {
    "brand": "Alpha",
@@ -74736,6 +74743,13 @@
    "model": "T11_1"
   }
  ],
+ "T8S_1": [
+  {
+   "brand": "G-Tab",
+   "device": "T8S_1",
+   "model": "T8S"
+  }
+ ],
  "EX750": [
   {
    "brand": "G-TiDE",
@@ -106490,6 +106504,13 @@
    "brand": "IQ Touch",
    "device": "iMax_EC1053",
    "model": "iMax_EC1053"
+  }
+ ],
+ "IQUSMARTEASYT10W": [
+  {
+   "brand": "IQU(SZ)",
+   "device": "IQUSMARTEASYT10W",
+   "model": "IQUSMARTEASYT10W"
   }
  ],
  "IQU_T10_4G": [
@@ -145883,6 +145904,13 @@
    "model": "M_Q58EEA"
   }
  ],
+ "MES-B3": [
+  {
+   "brand": "Meswao",
+   "device": "MES-B3",
+   "model": "MES-B3"
+  }
+ ],
  "Lumyai": [
   {
    "brand": "Mgt electric",
@@ -165227,6 +165255,13 @@
    "brand": "OneScreen",
    "device": "rk3588_t",
    "model": "T7"
+  }
+ ],
+ "Wandr_W1": [
+  {
+   "brand": "OneScreen",
+   "device": "Wandr",
+   "model": "OneScreen Wandr"
   }
  ],
  "AT101-1118": [
@@ -251232,6 +251267,13 @@
    "model": "I2202"
   }
  ],
+ "I2219": [
+  {
+   "brand": "Vivo",
+   "device": "I2219",
+   "model": "I2219"
+  }
+ ],
  "I2306": [
   {
    "brand": "Vivo",
@@ -252902,6 +252944,13 @@
    "brand": "Vivo",
    "device": "PD2314",
    "model": "V2314A"
+  }
+ ],
+ "V2338": [
+  {
+   "brand": "Vivo",
+   "device": "V2338",
+   "model": "V2338"
   }
  ],
  "V2353A": [

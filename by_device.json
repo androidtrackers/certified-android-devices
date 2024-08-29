@@ -17681,6 +17681,48 @@
    "model": "PSY7020SKD"
   }
  ],
+ "lushan": [
+  {
+   "brand": "Alpha",
+   "name": "ALPHA 4K",
+   "model": "ALPHA 4K"
+  },
+  {
+   "brand": "Hisense",
+   "name": "lushan",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "lushan-NF",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Panavox",
+   "name": "Panavox Android TV",
+   "model": "Panavox Android TV"
+  },
+  {
+   "brand": "Polytron",
+   "name": "POLYTRON4K",
+   "model": "POLYTRON4K"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "lushan-Toshiba",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "lushan-Toshiba-FFM",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "VU 4K",
+   "model": "VU 4K"
+  }
+ ],
  "Alpha_S6": [
   {
    "brand": "Alpha",
@@ -73417,6 +73459,13 @@
    "model": "T11_1"
   }
  ],
+ "T8S_1": [
+  {
+   "brand": "G-Tab",
+   "name": "T8S_1",
+   "model": "T8S"
+  }
+ ],
  "EX750": [
   {
    "brand": "G-TiDE",
@@ -91616,43 +91665,6 @@
    "model": "LT971"
   }
  ],
- "lushan": [
-  {
-   "brand": "Hisense",
-   "name": "lushan",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "lushan-NF",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Panavox",
-   "name": "Panavox Android TV",
-   "model": "Panavox Android TV"
-  },
-  {
-   "brand": "Polytron",
-   "name": "POLYTRON4K",
-   "model": "POLYTRON4K"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "lushan-Toshiba",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "lushan-Toshiba-FFM",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "VU 4K",
-   "model": "VU 4K"
-  }
- ],
  "moeraki": [
   {
    "brand": "Hisense",
@@ -105705,6 +105717,13 @@
    "brand": "IQ Touch",
    "name": "iMax_EC1053",
    "model": "iMax_EC1053"
+  }
+ ],
+ "IQUSMARTEASYT10W": [
+  {
+   "brand": "IQU(SZ)",
+   "name": "IQUSMARTEASYT10W",
+   "model": "IQUSMARTEASYT10W"
   }
  ],
  "IQU_T10_4G": [
@@ -145913,6 +145932,13 @@
    "model": "M_Q58EEA"
   }
  ],
+ "MES-B3": [
+  {
+   "brand": "Meswao",
+   "name": "MES-B3",
+   "model": "MES-B3"
+  }
+ ],
  "Pro5": [
   {
    "brand": "Metro",
@@ -165928,6 +165954,13 @@
    "brand": "OneScreen",
    "name": "OPS LF with Android",
    "model": "OneScreen-OPS-LFA"
+  }
+ ],
+ "Wandr": [
+  {
+   "brand": "OneScreen",
+   "name": "Wandr_W1",
+   "model": "OneScreen Wandr"
   }
  ],
  "AT101-1118": [
@@ -252550,6 +252583,13 @@
    "model": "I2202"
   }
  ],
+ "I2219": [
+  {
+   "brand": "Vivo",
+   "name": "I2219",
+   "model": "I2219"
+  }
+ ],
  "I2306": [
   {
    "brand": "Vivo",
@@ -254250,6 +254290,13 @@
    "brand": "Vivo",
    "name": "V2314A",
    "model": "V2314A"
+  }
+ ],
+ "V2338": [
+  {
+   "brand": "Vivo",
+   "name": "V2338",
+   "model": "V2338"
   }
  ],
  "PD2353": [
