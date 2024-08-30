@@ -4480,7 +4480,7 @@
  ],
  "odin": [
   {
-   "brand": "ALT(IN)",
+   "brand": "ALT.mive",
    "name": "Kids Phone",
    "model": "AT-M130"
   },
@@ -4497,7 +4497,7 @@
  ],
  "thor": [
   {
-   "brand": "ALT.STYLEFOLDER",
+   "brand": "ALT.mive",
    "name": "Style Folder",
    "model": "AT-M120"
   },
@@ -35292,6 +35292,13 @@
    "model": "BV6200 Pro"
   }
  ],
+ "BV6200_Pro_14": [
+  {
+   "brand": "Blackview",
+   "name": "BV6200 Pro",
+   "model": "BV6200 Pro"
+  }
+ ],
  "BV6300": [
   {
    "brand": "Blackview",
@@ -35707,6 +35714,11 @@
    "brand": "Blackview",
    "name": "P10000 Pro",
    "model": "P10000_Pro"
+  },
+  {
+   "brand": "iHunt",
+   "name": "iHunt Titan P10000 Pro",
+   "model": "iHunt Titan P10000 Pro"
   }
  ],
  "P2Lite": [
@@ -43201,6 +43213,13 @@
    "brand": "CWOWDEFU",
    "name": "P38W_EEA",
    "model": "P38W_EEA"
+  }
+ ],
+ "P50L_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "P50L_EEA",
+   "model": "P50L_EEA"
   }
  ],
  "P80L": [
@@ -60379,6 +60398,13 @@
    "model": "F10S"
   }
  ],
+ "F1CT": [
+  {
+   "brand": "Doogee",
+   "name": "Blade10 Ultra",
+   "model": "Blade10 Ultra"
+  }
+ ],
  "ZN138": [
   {
    "brand": "Doogee",
@@ -64621,6 +64647,13 @@
    "brand": "EXO S.A.",
    "name": "Wave_i101G",
    "model": "Wave_i101G"
+  }
+ ],
+ "Wave_i101MC": [
+  {
+   "brand": "EXO S.A.",
+   "name": "Wave_i101MC",
+   "model": "Wave_i101MC"
   }
  ],
  "Wave_i101u": [
@@ -69076,6 +69109,13 @@
    "brand": "FOSSiBOT",
    "name": "Tab 11",
    "model": "Tab 11"
+  }
+ ],
+ "Tab_12": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "Tab_12",
+   "model": "Tab 12"
   }
  ],
  "T8C": [
@@ -93087,6 +93127,13 @@
    "model": "VER-N49DP"
   }
  ],
+ "HNFCPX": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic V3",
+   "model": "FCP-N49"
+  }
+ ],
  "HNFRI": [
   {
    "brand": "Honor",
@@ -93275,13 +93322,6 @@
    "brand": "Honor",
    "name": "HONOR Pad X9",
    "model": "ELN-W09"
-  }
- ],
- "HNFCPX": [
-  {
-   "brand": "Honor",
-   "name": "HONOR V3",
-   "model": "FCP-N49"
   }
  ],
  "HNVNA-M": [
@@ -115291,6 +115331,13 @@
    "model": "Armor I1w"
   }
  ],
+ "Armor_P1_Pro": [
+  {
+   "brand": "KENSHI",
+   "name": "Armor P1 Pro",
+   "model": "Armor P1 Pro"
+  }
+ ],
  "Armor_V1s": [
   {
    "brand": "KENSHI",
@@ -129198,6 +129245,13 @@
    "model": "LFi ONE"
   }
  ],
+ "D113": [
+  {
+   "brand": "LZU_lzu",
+   "name": "D113",
+   "model": "D113"
+  }
+ ],
  "LAIQ_Glam": [
   {
    "brand": "Laiq",
@@ -129877,6 +129931,13 @@
    "brand": "Lanix",
    "name": "M5e",
    "model": "M5e"
+  }
+ ],
+ "RX10v8": [
+  {
+   "brand": "Lanix",
+   "name": "RX10v8",
+   "model": "RX10v8"
   }
  ],
  "RX7V4": [
@@ -142878,6 +142939,18 @@
    "brand": "Masstel",
    "name": "Masstel_Tab10_WiFi",
    "model": "Masstel_Tab10_WiFi"
+  }
+ ],
+ "Masstel_Tab11_Pro_4G": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Tab11_Pro_4G",
+   "model": "Masstel Tab 11 Pro 4G"
+  },
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Tab11_Pro_4G",
+   "model": "Masstel Tab11 Pro 4G"
   }
  ],
  "Masstel_Tab8_4G": [
@@ -172067,6 +172140,13 @@
    "model": "WP32"
   }
  ],
+ "WP32_Pro_U": [
+  {
+   "brand": "Oukitel",
+   "name": "WP32_Pro_U_EEA",
+   "model": "WP32_Pro"
+  }
+ ],
  "WP33_Pro": [
   {
    "brand": "Oukitel",
@@ -183002,6 +183082,13 @@
    "model": "M10"
   }
  ],
+ "M10_C05_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "M10_C05_EEA",
+   "model": "M10"
+  }
+ ],
  "M10_Lite": [
   {
    "brand": "Pritom",
@@ -185124,6 +185211,13 @@
    "brand": "Qtouch",
    "name": "Q05A",
    "model": "Q05A"
+  }
+ ],
+ "Q624": [
+  {
+   "brand": "Qtouch",
+   "name": "Q624",
+   "model": "Q624"
   }
  ],
  "QS31": [
@@ -188723,6 +188817,11 @@
    "brand": "Reeder",
    "name": "P10S",
    "model": "P10S"
+  },
+  {
+   "brand": "Wainyok",
+   "name": "P10S_EEA",
+   "model": "P10S"
   }
  ],
  "P10SE": [
@@ -189418,6 +189517,13 @@
    "brand": "Renault",
    "name": "OpenR Link",
    "model": "AIVI2 R FULL DOM"
+  }
+ ],
+ "4Pro": [
+  {
+   "brand": "RetroidPocket",
+   "name": "4Pro",
+   "model": "Retroid Pocket 4 Pro"
   }
  ],
  "rk3399_reveal16i_box": [
@@ -190985,6 +191091,13 @@
    "brand": "SMART_KASSEL",
    "name": "ARGENTINA",
    "model": "SK3402"
+  }
+ ],
+ "SK-5503AR": [
+  {
+   "brand": "SMART_KASSEL",
+   "name": "SK-5503AR",
+   "model": "SK-5503AR"
   }
  ],
  "SK3403": [
@@ -219514,6 +219627,13 @@
    "model": "Smart-Ex 01"
   }
  ],
+ "X800": [
+  {
+   "brand": "Sonimtech",
+   "name": "XP Pro 5G",
+   "model": "X800"
+  }
+ ],
  "XP9900": [
   {
    "brand": "Sonimtech",
@@ -230313,6 +230433,11 @@
    "model": "onetouch T60"
   },
   {
+   "brand": "Teclast",
+   "name": "T60",
+   "model": "T60"
+  },
+  {
    "brand": "UAUU",
    "name": "T60",
    "model": "T60"
@@ -236128,6 +236253,13 @@
    "model": "TE620G"
   }
  ],
+ "TAB_A10": [
+  {
+   "brand": "TENCH",
+   "name": "TAB_A10",
+   "model": "ADVAN TAB A10"
+  }
+ ],
  "GPAD702": [
   {
    "brand": "TERRA",
@@ -237774,6 +237906,11 @@
  "K13": [
   {
    "brand": "Techpad",
+   "name": "K13",
+   "model": "K13"
+  },
+  {
+   "brand": "Trayoo",
    "name": "K13",
    "model": "K13"
   }
@@ -241029,6 +241166,13 @@
    "model": "TECNO CL8"
   }
  ],
+ "TECNO-CLA5": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 30S",
+   "model": "TECNO CLA5"
+  }
+ ],
  "TECNO-CLA6": [
   {
    "brand": "Tecno",
@@ -241474,6 +241618,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 30 5G",
    "model": "TECNO KL8s"
+  }
+ ],
+ "TECNO-KL5n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 30C",
+   "model": "TECNO KL5n"
   }
  ],
  "TECNO-KC2": [
@@ -243127,6 +243278,13 @@
    "brand": "Thomson",
    "name": "Hero10RK",
    "model": "HERO10RK"
+  }
+ ],
+ "Origin_1010": [
+  {
+   "brand": "Thomson",
+   "name": "Origin_1010_EEA",
+   "model": "Origin_1010"
   }
  ],
  "Origin_679": [
@@ -262604,6 +262762,13 @@
    "brand": "Xtratech",
    "name": "X8MT16",
    "model": "X8MT16"
+  }
+ ],
+ "X_View_Q7": [
+  {
+   "brand": "X_View",
+   "name": "X_View_Q7",
+   "model": "X_View_Q7"
   }
  ],
  "Xcell_Enia": [

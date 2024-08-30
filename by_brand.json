@@ -1024,14 +1024,12 @@
    "model": "INE-AW409S"
   }
  ],
- "ALT(IN)": [
+ "ALT.mive": [
   {
    "device": "odin",
    "name": "Kids Phone",
    "model": "AT-M130"
-  }
- ],
- "ALT.STYLEFOLDER": [
+  },
   {
    "device": "thor",
    "name": "Style Folder",
@@ -18860,6 +18858,11 @@
    "model": "BV6200 Pro"
   },
   {
+   "device": "BV6200_Pro_14",
+   "name": "BV6200 Pro",
+   "model": "BV6200 Pro"
+  },
+  {
    "device": "BV6300",
    "name": "BV6300",
    "model": "BV6300"
@@ -24605,6 +24608,11 @@
    "device": "P38W_EEA",
    "name": "P38W_EEA",
    "model": "P38W_EEA"
+  },
+  {
+   "device": "P50L_EEA",
+   "name": "P50L_EEA",
+   "model": "P50L_EEA"
   },
   {
    "device": "P80L",
@@ -36851,6 +36859,11 @@
    "model": "Blade10 Pro"
   },
   {
+   "device": "F1CT",
+   "name": "Blade10 Ultra",
+   "model": "Blade10 Ultra"
+  },
+  {
    "device": "ZN138",
    "name": "DK10",
    "model": "DK10"
@@ -40277,6 +40290,11 @@
    "device": "Wave_i101G",
    "name": "Wave_i101G",
    "model": "Wave_i101G"
+  },
+  {
+   "device": "Wave_i101MC",
+   "name": "Wave_i101MC",
+   "model": "Wave_i101MC"
   },
   {
    "device": "Wave_i101u",
@@ -43791,6 +43809,11 @@
    "device": "Tab_11",
    "name": "Tab 11",
    "model": "Tab 11"
+  },
+  {
+   "device": "Tab_12",
+   "name": "Tab_12",
+   "model": "Tab 12"
   }
  ],
  "FOXX": [
@@ -63655,6 +63678,11 @@
    "model": "VER-N49"
   },
   {
+   "device": "HNFCPX",
+   "name": "HONOR Magic V3",
+   "model": "FCP-N49"
+  },
+  {
    "device": "HNFRI",
    "name": "HONOR Magic Vs",
    "model": "FRI-NX9"
@@ -63768,11 +63796,6 @@
    "device": "HNELN-Q",
    "name": "HONOR Pad X9",
    "model": "ELN-W09"
-  },
-  {
-   "device": "HNFCPX",
-   "name": "HONOR V3",
-   "model": "FCP-N49"
   },
   {
    "device": "HNVNA-M",
@@ -82792,6 +82815,11 @@
    "model": "Armor I1w"
   },
   {
+   "device": "Armor_P1_Pro",
+   "name": "Armor P1 Pro",
+   "model": "Armor P1 Pro"
+  },
+  {
    "device": "Armor_V1s",
    "name": "Armor V1s",
    "model": "Armor V1s"
@@ -95302,6 +95330,13 @@
    "model": "LFi ONE"
   }
  ],
+ "LZU_lzu": [
+  {
+   "device": "D113",
+   "name": "D113",
+   "model": "D113"
+  }
+ ],
  "Laiq": [
   {
    "device": "LAIQ_Glam",
@@ -95827,6 +95862,11 @@
    "device": "stanford",
    "name": "NA",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "RX10v8",
+   "name": "RX10v8",
+   "model": "RX10v8"
   },
   {
    "device": "RX7V4",
@@ -106162,6 +106202,16 @@
    "device": "Masstel_Tab10_WiFi",
    "name": "Masstel_Tab10_WiFi",
    "model": "Masstel_Tab10_WiFi"
+  },
+  {
+   "device": "Masstel_Tab11_Pro_4G",
+   "name": "Masstel_Tab11_Pro_4G",
+   "model": "Masstel Tab 11 Pro 4G"
+  },
+  {
+   "device": "Masstel_Tab11_Pro_4G",
+   "name": "Masstel_Tab11_Pro_4G",
+   "model": "Masstel Tab11 Pro 4G"
   },
   {
    "device": "Masstel_Tab8_4G",
@@ -130407,6 +130457,11 @@
    "model": "WP32"
   },
   {
+   "device": "WP32_Pro_U",
+   "name": "WP32_Pro_U_EEA",
+   "model": "WP32_Pro"
+  },
+  {
    "device": "WP33_Pro",
    "name": "WP33_Pro_EEA",
    "model": "WP33 Pro"
@@ -139515,6 +139570,11 @@
    "model": "M10"
   },
   {
+   "device": "M10_C05_EEA",
+   "name": "M10_C05_EEA",
+   "model": "M10"
+  },
+  {
    "device": "M10_Lite",
    "name": "M10_Lite",
    "model": "M10_Lite"
@@ -141392,6 +141452,11 @@
    "device": "Q05A",
    "name": "Q05A",
    "model": "Q05A"
+  },
+  {
+   "device": "Q624",
+   "name": "Q624",
+   "model": "Q624"
   },
   {
    "device": "QS31",
@@ -145349,6 +145414,13 @@
    "model": "AIVI2 R FULL DOM"
   }
  ],
+ "RetroidPocket": [
+  {
+   "device": "4Pro",
+   "name": "4Pro",
+   "model": "Retroid Pocket 4 Pro"
+  }
+ ],
  "Reveal 16i": [
   {
    "device": "rk3399_reveal16i_box",
@@ -147023,6 +147095,11 @@
    "device": "SK3402",
    "name": "ARGENTINA",
    "model": "SK3402"
+  },
+  {
+   "device": "SK-5503AR",
+   "name": "SK-5503AR",
+   "model": "SK-5503AR"
   },
   {
    "device": "SK3403",
@@ -170461,6 +170538,11 @@
    "model": "Smart-Ex 01"
   },
   {
+   "device": "X800",
+   "name": "XP Pro 5G",
+   "model": "X800"
+  },
+  {
    "device": "XP9900",
    "name": "XP10",
    "model": "XP9900"
@@ -185350,6 +185432,13 @@
    "model": "TELSTAR 4K Google TV"
   }
  ],
+ "TENCH": [
+  {
+   "device": "TAB_A10",
+   "name": "TAB_A10",
+   "model": "ADVAN TAB A10"
+  }
+ ],
  "TERRA": [
   {
    "device": "GPAD702",
@@ -188112,6 +188201,11 @@
    "model": "T50_Y_RUS"
   },
   {
+   "device": "T60",
+   "name": "T60",
+   "model": "T60"
+  },
+  {
    "device": "T60-EEA",
    "name": "T60-EEA",
    "model": "T60"
@@ -189399,6 +189493,11 @@
    "model": "TECNO CL8"
   },
   {
+   "device": "TECNO-CLA5",
+   "name": "TECNO CAMON 30S",
+   "model": "TECNO CLA5"
+  },
+  {
    "device": "TECNO-CLA6",
    "name": "TECNO CAMON 30S Pro",
    "model": "TECNO CLA6"
@@ -189747,6 +189846,11 @@
    "device": "TECNO-KL8s",
    "name": "TECNO SPARK 30 5G",
    "model": "TECNO KL8s"
+  },
+  {
+   "device": "TECNO-KL5n",
+   "name": "TECNO SPARK 30C",
+   "model": "TECNO KL5n"
   },
   {
    "device": "TECNO-KC2",
@@ -191272,6 +191376,11 @@
    "model": "4K Google TV Box"
   },
   {
+   "device": "Origin_1010",
+   "name": "Origin_1010_EEA",
+   "model": "Origin_1010"
+  },
+  {
    "device": "Origin_679",
    "name": "Origin_679",
    "model": "Origin_679"
@@ -192353,6 +192462,13 @@
    "device": "Sapphire_Tablet",
    "name": "Sapphire Tablet",
    "model": "S_TAB"
+  }
+ ],
+ "Trayoo": [
+  {
+   "device": "K13",
+   "name": "K13",
+   "model": "K13"
   }
  ],
  "Trecfone": [
@@ -204835,6 +204951,11 @@
  ],
  "Wainyok": [
   {
+   "device": "P10S",
+   "name": "P10S_EEA",
+   "model": "P10S"
+  },
+  {
    "device": "P10X",
    "name": "P10X",
    "model": "P10X"
@@ -208460,6 +208581,13 @@
    "device": "X8MT16",
    "name": "X8MT16",
    "model": "X8MT16"
+  }
+ ],
+ "X_View": [
+  {
+   "device": "X_View_Q7",
+   "name": "X_View_Q7",
+   "model": "X_View_Q7"
   }
  ],
  "Xcell": [
@@ -224026,6 +224154,11 @@
    "device": "Tablet_PC_11_Ultra",
    "name": "iHunt Tablet PC 11 Ultra",
    "model": "iHunt Tablet PC 11 Ultra"
+  },
+  {
+   "device": "P10000_Pro",
+   "name": "iHunt Titan P10000 Pro",
+   "model": "iHunt Titan P10000 Pro"
   },
   {
    "device": "iHuntLike12PRO",

@@ -8225,14 +8225,14 @@
  ],
  "Kids Phone": [
   {
-   "brand": "ALT(IN)",
+   "brand": "ALT.mive",
    "device": "odin",
    "model": "AT-M130"
   }
  ],
  "Style Folder": [
   {
-   "brand": "ALT.STYLEFOLDER",
+   "brand": "ALT.mive",
    "device": "thor",
    "model": "AT-M120"
   }
@@ -35168,6 +35168,11 @@
    "brand": "Blackview",
    "device": "BV6200Pro",
    "model": "BV6200 Pro"
+  },
+  {
+   "brand": "Blackview",
+   "device": "BV6200_Pro_14",
+   "model": "BV6200 Pro"
   }
  ],
  "BV6300": [
@@ -43740,6 +43745,13 @@
    "brand": "CWOWDEFU",
    "device": "P38W_EEA",
    "model": "P38W_EEA"
+  }
+ ],
+ "P50L_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "P50L_EEA",
+   "model": "P50L_EEA"
   }
  ],
  "P80L": [
@@ -60735,6 +60747,13 @@
    "model": "Blade10 Pro"
   }
  ],
+ "Blade10 Ultra": [
+  {
+   "brand": "Doogee",
+   "device": "F1CT",
+   "model": "Blade10 Ultra"
+  }
+ ],
  "DK10": [
   {
    "brand": "Doogee",
@@ -65746,6 +65765,13 @@
    "model": "Wave_i101G"
   }
  ],
+ "Wave_i101MC": [
+  {
+   "brand": "EXO S.A.",
+   "device": "Wave_i101MC",
+   "model": "Wave_i101MC"
+  }
+ ],
  "Wave_i101u": [
   {
    "brand": "EXO S.A.",
@@ -70324,6 +70350,13 @@
    "brand": "FOSSiBOT",
    "device": "Tab_11",
    "model": "Tab 11"
+  }
+ ],
+ "Tab_12": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "Tab_12",
+   "model": "Tab 12"
   }
  ],
  "T8C": [
@@ -95137,6 +95170,13 @@
    "model": "VER-N49"
   }
  ],
+ "HONOR Magic V3": [
+  {
+   "brand": "Honor",
+   "device": "HNFCPX",
+   "model": "FCP-N49"
+  }
+ ],
  "HONOR Magic Vs": [
   {
    "brand": "Honor",
@@ -95282,13 +95322,6 @@
    "brand": "Honor",
    "device": "HNELN-Q",
    "model": "ELN-W09"
-  }
- ],
- "HONOR V3": [
-  {
-   "brand": "Honor",
-   "device": "HNFCPX",
-   "model": "FCP-N49"
   }
  ],
  "HONOR X5": [
@@ -116158,6 +116191,13 @@
    "model": "Armor I1w"
   }
  ],
+ "Armor P1 Pro": [
+  {
+   "brand": "KENSHI",
+   "device": "Armor_P1_Pro",
+   "model": "Armor P1 Pro"
+  }
+ ],
  "Armor V1s": [
   {
    "brand": "KENSHI",
@@ -130166,6 +130206,13 @@
    "model": "LFi ONE"
   }
  ],
+ "D113": [
+  {
+   "brand": "LZU_lzu",
+   "device": "D113",
+   "model": "D113"
+  }
+ ],
  "GLAM": [
   {
    "brand": "Laiq",
@@ -130854,6 +130901,13 @@
    "brand": "Lanix",
    "device": "M5e",
    "model": "M5e"
+  }
+ ],
+ "RX10v8": [
+  {
+   "brand": "Lanix",
+   "device": "RX10v8",
+   "model": "RX10v8"
   }
  ],
  "RX7V4": [
@@ -142919,6 +142973,18 @@
    "brand": "Masstel",
    "device": "Masstel_Tab10_WiFi",
    "model": "Masstel_Tab10_WiFi"
+  }
+ ],
+ "Masstel_Tab11_Pro_4G": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab11_Pro_4G",
+   "model": "Masstel Tab 11 Pro 4G"
+  },
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab11_Pro_4G",
+   "model": "Masstel Tab11 Pro 4G"
   }
  ],
  "Masstel_Tab8_4G": [
@@ -171269,6 +171335,13 @@
    "model": "WP32"
   }
  ],
+ "WP32_Pro_U_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP32_Pro_U",
+   "model": "WP32_Pro"
+  }
+ ],
  "WP33_Pro_EEA": [
   {
    "brand": "Oukitel",
@@ -182506,6 +182579,13 @@
    "model": "M10"
   }
  ],
+ "M10_C05_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "M10_C05_EEA",
+   "model": "M10"
+  }
+ ],
  "M10_Lite": [
   {
    "brand": "Pritom",
@@ -184615,6 +184695,13 @@
    "brand": "Qtouch",
    "device": "Q05A",
    "model": "Q05A"
+  }
+ ],
+ "Q624": [
+  {
+   "brand": "Qtouch",
+   "device": "Q624",
+   "model": "Q624"
   }
  ],
  "QS31": [
@@ -189594,6 +189681,13 @@
    "model": "AIVI2 R FULL DOM"
   }
  ],
+ "4Pro": [
+  {
+   "brand": "RetroidPocket",
+   "device": "4Pro",
+   "model": "Retroid Pocket 4 Pro"
+  }
+ ],
  "rk3399_rvlEEA_box": [
   {
    "brand": "Reveal 16i",
@@ -191336,6 +191430,13 @@
    "brand": "SMART Technologies",
    "device": "groundhog",
    "model": "SMART Board Interactive Display"
+  }
+ ],
+ "SK-5503AR": [
+  {
+   "brand": "SMART_KASSEL",
+   "device": "SK-5503AR",
+   "model": "SK-5503AR"
   }
  ],
  "SK3403": [
@@ -217749,6 +217850,13 @@
    "model": "Smart-Ex 01"
   }
  ],
+ "XP Pro 5G": [
+  {
+   "brand": "Sonimtech",
+   "device": "X800",
+   "model": "X800"
+  }
+ ],
  "XP10": [
   {
    "brand": "Sonimtech",
@@ -234231,6 +234339,13 @@
    "model": "TELSTAR 4K Google TV"
   }
  ],
+ "TAB_A10": [
+  {
+   "brand": "TENCH",
+   "device": "TAB_A10",
+   "model": "ADVAN TAB A10"
+  }
+ ],
  "GPAD702": [
   {
    "brand": "TERRA",
@@ -236014,6 +236129,11 @@
    "brand": "Techpad",
    "device": "K13",
    "model": "K13"
+  },
+  {
+   "brand": "Trayoo",
+   "device": "K13",
+   "model": "K13"
   }
  ],
  "M55_4G": [
@@ -236585,6 +236705,11 @@
    "brand": "Teclast",
    "device": "P10S_EEA",
    "model": "P10S_EEA"
+  },
+  {
+   "brand": "Wainyok",
+   "device": "P10S",
+   "model": "P10S"
   }
  ],
  "P10S_ROW": [
@@ -237518,6 +237643,28 @@
    "brand": "Teclast",
    "device": "T50_Y_RUS",
    "model": "T50_Y_RUS"
+  }
+ ],
+ "T60": [
+  {
+   "brand": "Teclast",
+   "device": "T60",
+   "model": "T60"
+  },
+  {
+   "brand": "UAUU",
+   "device": "T60",
+   "model": "T60"
+  },
+  {
+   "brand": "Wiko",
+   "device": "T60",
+   "model": "T60"
+  },
+  {
+   "brand": "ZTE",
+   "device": "turies",
+   "model": "ZTE T60"
   }
  ],
  "T60-EEA": [
@@ -239056,6 +239203,13 @@
    "model": "TECNO CL8"
   }
  ],
+ "TECNO CAMON 30S": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CLA5",
+   "model": "TECNO CLA5"
+  }
+ ],
  "TECNO CAMON 30S Pro": [
   {
    "brand": "Tecno",
@@ -239519,6 +239673,13 @@
    "brand": "Tecno",
    "device": "TECNO-KL8s",
    "model": "TECNO KL8s"
+  }
+ ],
+ "TECNO SPARK 30C": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL5n",
+   "model": "TECNO KL5n"
   }
  ],
  "TECNO SPARK 4": [
@@ -241179,6 +241340,13 @@
    "brand": "Thomson",
    "device": "YDA",
    "model": "4K Google TV Box"
+  }
+ ],
+ "Origin_1010_EEA": [
+  {
+   "brand": "Thomson",
+   "device": "Origin_1010",
+   "model": "Origin_1010"
   }
  ],
  "Origin_679": [
@@ -243310,23 +243478,6 @@
    "brand": "Tvstar",
    "device": "seocho",
    "model": "TVSTAR 4K Android TV"
-  }
- ],
- "T60": [
-  {
-   "brand": "UAUU",
-   "device": "T60",
-   "model": "T60"
-  },
-  {
-   "brand": "Wiko",
-   "device": "T60",
-   "model": "T60"
-  },
-  {
-   "brand": "ZTE",
-   "device": "turies",
-   "model": "ZTE T60"
   }
  ],
  "T90_NEW": [
@@ -261475,6 +261626,13 @@
    "model": "X8MT16"
   }
  ],
+ "X_View_Q7": [
+  {
+   "brand": "X_View",
+   "device": "X_View_Q7",
+   "model": "X_View_Q7"
+  }
+ ],
  "Enia": [
   {
    "brand": "Xcell",
@@ -278520,6 +278678,13 @@
    "brand": "iHunt",
    "device": "Tablet_PC_11_Ultra",
    "model": "iHunt Tablet PC 11 Ultra"
+  }
+ ],
+ "iHunt Titan P10000 Pro": [
+  {
+   "brand": "iHunt",
+   "device": "P10000_Pro",
+   "model": "iHunt Titan P10000 Pro"
   }
  ],
  "iHuntLike12PRO": [
