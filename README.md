@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-08-30
+Last sync is 2024-08-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4498,6 +4498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CAIXUN|APAC|tamachi|AiPlus2K|
+|CAIXUN|Amstrong|cottongreen|Amstrong|
 |CAIXUN|Apollo Premium TV|nagata|Apollo Premium TV|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Caixun TV|marina|Caixun TV|
@@ -5028,6 +5029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellution|IRIS_EV|IRIS_EV|IRIS_EV|
 |Cellution|PADUA|PADUA|PADUA|
 |Cellution|PADUA_1|PADUA_1|PADUA_1|
+|Centerm|CTA Q7|SmartPOS|CTA Q7|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
 |Centric|G1|CM4331|CM4331|
@@ -14957,6 +14959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|ZERO 5G|Infinix-X6815|Infinix X6815|
 |Infinix|ZERO 5G 2023|Infinix-X6815C|Infinix X6815C|
 |Infinix|ZERO 5G 2023|Infinix-X6815D|Infinix X6815D|
+|Infinix|ZERO Flip|Infinix-X6962|Infinix X6962|
 |Infinix|ZERO ULTRA|Infinix-X6820|Infinix X6820|
 |Infinix|ZERO X Pro|Infinix-X6811|Infinix X6811|
 |Infinix|Zero 2|Infinix_X509|Infinix X509|
@@ -16338,6 +16341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black|Black|Black|
 |Kalley|Black 1|Black_1|Black 1|
 |Kalley|Black G|Black_G|Black G|
+|Kalley|Black G3|Black_G3|Black G3|
 |Kalley|Black_G_2|Black_G_2|Black_G_2|
 |Kalley|Black_X|Black_X|Black X|
 |Kalley|Black_Z|Black_Z|Black_Z|
@@ -24085,6 +24089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M10X|M10X|M10X|
 |ONERugged|M10XE|M10XE|M10XE|
 |ONERugged|M195T|M195T|M195T|
+|ONERugged|M19TE|M19TE|M19TE|
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|MPC10T|MPC10T|MPC10T|

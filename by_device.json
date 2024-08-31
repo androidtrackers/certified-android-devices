@@ -41453,6 +41453,38 @@
    "model": "noa_G1"
   }
  ],
+ "cottongreen": [
+  {
+   "brand": "CAIXUN",
+   "name": "Amstrong",
+   "model": "Amstrong"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Sgamer",
+   "model": "Sgamer"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "CDI SMART TV",
+   "model": "CDI SMART TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Kogan G7",
+   "model": "Kogan G7"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Contex TV",
+   "model": "Contex TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "EU",
+   "model": "Gameplay"
+  }
+ ],
  "patrick": [
   {
    "brand": "CAIXUN",
@@ -41493,33 +41525,6 @@
    "brand": "Tesla",
    "name": "Venezuela",
    "model": "Tesla Android TV"
-  }
- ],
- "cottongreen": [
-  {
-   "brand": "CAIXUN",
-   "name": "Sgamer",
-   "model": "Sgamer"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "CDI SMART TV",
-   "model": "CDI SMART TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Kogan G7",
-   "model": "Kogan G7"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "Contex TV",
-   "model": "Contex TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "EU",
-   "model": "Gameplay"
   }
  ],
  "LT5": [
@@ -45248,6 +45253,18 @@
    "brand": "Cellution",
    "name": "PADUA_1",
    "model": "PADUA_1"
+  }
+ ],
+ "SmartPOS": [
+  {
+   "brand": "Centerm",
+   "name": "CTA Q7",
+   "model": "CTA Q7"
+  },
+  {
+   "brand": "Newland",
+   "name": "N950",
+   "model": "N950"
   }
  ],
  "L3": [
@@ -108673,6 +108690,13 @@
    "model": "Infinix X6815D"
   }
  ],
+ "Infinix-X6962": [
+  {
+   "brand": "Infinix",
+   "name": "ZERO Flip",
+   "model": "Infinix X6962"
+  }
+ ],
  "Infinix-X6820": [
   {
    "brand": "Infinix",
@@ -116180,6 +116204,13 @@
    "brand": "Kalley",
    "name": "Black G",
    "model": "Black G"
+  }
+ ],
+ "Black_G3": [
+  {
+   "brand": "Kalley",
+   "name": "Black G3",
+   "model": "Black G3"
   }
  ],
  "Black_G_2": [
@@ -161299,13 +161330,6 @@
    "model": "T18"
   }
  ],
- "SmartPOS": [
-  {
-   "brand": "Newland",
-   "name": "N950",
-   "model": "N950"
-  }
- ],
  "NLS-MT6550-AM": [
   {
    "brand": "Newland",
@@ -164353,6 +164377,13 @@
    "brand": "ONERugged",
    "name": "M195T",
    "model": "M195T"
+  }
+ ],
+ "M19TE": [
+  {
+   "brand": "ONERugged",
+   "name": "M19TE",
+   "model": "M19TE"
   }
  ],
  "M86X": [

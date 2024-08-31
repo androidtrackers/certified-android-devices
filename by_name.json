@@ -41876,6 +41876,13 @@
    "model": "noa_G1"
   }
  ],
+ "Amstrong": [
+  {
+   "brand": "CAIXUN",
+   "device": "cottongreen",
+   "model": "Amstrong"
+  }
+ ],
  "Apollo Premium TV": [
   {
    "brand": "CAIXUN",
@@ -45709,6 +45716,13 @@
    "brand": "Cellution",
    "device": "PADUA_1",
    "model": "PADUA_1"
+  }
+ ],
+ "CTA Q7": [
+  {
+   "brand": "Centerm",
+   "device": "SmartPOS",
+   "model": "CTA Q7"
   }
  ],
  "Centric L3": [
@@ -109401,6 +109415,13 @@
    "model": "Infinix X6815D"
   }
  ],
+ "ZERO Flip": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6962",
+   "model": "Infinix X6962"
+  }
+ ],
  "ZERO ULTRA": [
   {
    "brand": "Infinix",
@@ -117921,6 +117942,13 @@
    "brand": "Kalley",
    "device": "Black_G",
    "model": "Black G"
+  }
+ ],
+ "Black G3": [
+  {
+   "brand": "Kalley",
+   "device": "Black_G3",
+   "model": "Black G3"
   }
  ],
  "Black_G_2": [
@@ -163664,6 +163692,13 @@
    "brand": "ONERugged",
    "device": "M195T",
    "model": "M195T"
+  }
+ ],
+ "M19TE": [
+  {
+   "brand": "ONERugged",
+   "device": "M19TE",
+   "model": "M19TE"
   }
  ],
  "M86X": [

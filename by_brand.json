@@ -23208,6 +23208,11 @@
    "model": "AiPlus2K"
   },
   {
+   "device": "cottongreen",
+   "name": "Amstrong",
+   "model": "Amstrong"
+  },
+  {
    "device": "nagata",
    "name": "Apollo Premium TV",
    "model": "Apollo Premium TV"
@@ -26036,6 +26041,13 @@
    "device": "PADUA_1",
    "name": "PADUA_1",
    "model": "PADUA_1"
+  }
+ ],
+ "Centerm": [
+  {
+   "device": "SmartPOS",
+   "name": "CTA Q7",
+   "model": "CTA Q7"
   }
  ],
  "Centric": [
@@ -77131,6 +77143,11 @@
    "model": "Infinix X6815D"
   },
   {
+   "device": "Infinix-X6962",
+   "name": "ZERO Flip",
+   "model": "Infinix X6962"
+  },
+  {
    "device": "Infinix-X6820",
    "name": "ZERO ULTRA",
    "model": "Infinix X6820"
@@ -84274,6 +84291,11 @@
    "device": "Black_G",
    "name": "Black G",
    "model": "Black G"
+  },
+  {
+   "device": "Black_G3",
+   "name": "Black G3",
+   "model": "Black G3"
   },
   {
    "device": "Black_G_2",
@@ -123973,6 +123995,11 @@
    "device": "M195T",
    "name": "M195T",
    "model": "M195T"
+  },
+  {
+   "device": "M19TE",
+   "name": "M19TE",
+   "model": "M19TE"
   },
   {
    "device": "M86X",
