@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-03
+Last sync is 2024-09-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6492,6 +6492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DSIC|Mobilebase DS6|ds6|DS6|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DSTechnology|MATE ONE|MO_Pro|MO_Series|
+|DTAB|TK-P617_3.3Ghz|TK_P617_3_3Ghz|TK_P617_3_3Ghz|
 |DTC products|S10|S10|S10|
 |DTC products|S30|S30|S30|
 |DTV (Thai)|P3|Digital_Life_P3|P3|
@@ -12318,6 +12319,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX3|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-AN16|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-N49|
+|Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
+|Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
@@ -12380,7 +12383,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
-|Honor|荣耀平板MagicPad2|HNROD2-Q|ROD2-W09|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -14779,6 +14781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 50|Infinix-X6882B|Infinix X6882B|
 |Infinix|Infinix HOT 50 5G|Infinix-X6720|Infinix X6720|
 |Infinix|Infinix HOT 50 5G|Infinix-X6720B|Infinix X6720B|
+|Infinix|Infinix HOT 50 Pro|Infinix-X6881|Infinix X6881|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -20761,6 +20764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|MX-N63|MX-N63|MX-N63|
 |Maxwest|Maxwest ASTRO_65T|MX-A65T|MX-A65T|
 |Maxwest|NITRO 55M|MX-N55MWW|MX-N55M|
+|Maxwest|NITRO G55|MX-G55|NITRO_G55|
 |Maxwest|NITRO N6|MX-NN6|NITRO N6|
 |Maxwest|NITRO_55S|MX-N55S|MX-N55S|
 |Maxwest|Nitro 4N LTE|Nitro_4N_LTE|Nitro 4N LTE|
@@ -22500,6 +22504,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g41|corfu|motorola|
 |Motorola|moto g42|hawao|moto g(100)|
 |Motorola|moto g42|hawao|moto g42|
+|Motorola|moto g45 5G|fogos|moto g34 5GP|
+|Motorola|moto g45 5G|fogos|moto g45 5G|
 |Motorola|moto g51|cypfq|XT2171-3|
 |Motorola|moto g51|cypfq|moto[SPACE]g(50)|
 |Motorola|moto g51 5G|cypfq|moto g(50)|
@@ -22516,6 +22522,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g54 5G|cancunf|XT2343-3|
 |Motorola|moto g54 5G|cancunf|moto g54 5G|
 |Motorola|moto g54 5G|cancunf|moto g73 5G|
+|Motorola|moto g55 5G|taipei|moto g54 5G|
+|Motorola|moto g55 5G|taipei|moto g55 5G|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g62 5G|rhodec|moto g51 5G|
@@ -22583,10 +22591,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 40 neo|manaus|motorola edge 40 neo|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 30 pro|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 40 pro|
+|Motorola|motorola edge 50|tank|motorola edge 50|
+|Motorola|motorola edge 50|tank|motorola razr 40|
 |Motorola|motorola edge 50 fusion|cusco|moto g stylus 5G - 2023|
 |Motorola|motorola edge 50 fusion|cusco|motorola edge 50 fusion|
 |Motorola|motorola edge 50 fusion|cuscoi|moto g stylus 5G - 2023|
 |Motorola|motorola edge 50 fusion|cuscoi|motorola edge 50 fusion|
+|Motorola|motorola edge 50 neo|vienna|motorola edge 50 neo|
 |Motorola|motorola edge 50 pro|eqe|motorola edge 40 pro|
 |Motorola|motorola edge 50 pro|eqe|motorola edge 50 pro|
 |Motorola|motorola edge 50 ultra|ctwo|motorola edge 40 pro|
@@ -24211,6 +24222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odea|A10_EEA|A10_EEA|A10|
 |Odea|A10_ROW|A10_ROW|A10|
 |Odea|A11_ROW|A11_ROW|A11|
+|Odea|A12_ROW|A12_ROW|A12|
 |Odea|S11_EEA|S11_EEA|S11|
 |Odea|S11_ROW|S11_ROW|S11|
 |Odido|4K TV Box|SEI800TFAS|4K TV Box|
@@ -36924,6 +36936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30 Pro 5G|TECNO-CL8|TECNO CL8|
 |Tecno|TECNO CAMON 30S|TECNO-CLA5|TECNO CLA5|
 |Tecno|TECNO CAMON 30S Pro|TECNO-CLA6|TECNO CLA6|
+|Tecno|TECNO CAMON 30T|TECNO-Mobile-CLA6|TECNO Mobile CLA6|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -41190,6 +41203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z118-T-US|Z118-T-US|Z118-T-US|
 |ZIOVO|Z118-US|Z118-US|Z118-US|
 |ZIOVO|Z128_EEA|Z128_EEA|Z128_EEA|
+|ZIOVO|Z128_T_EEA|Z128_T_EEA|Z128_EEA|
 |ZIOVO|Z128_T_EEA|Z128_T_EEA|Z128_T_EEA|
 |ZIOVO|Z128_US|Z128_US|Z128_US|
 |ZIOVO|Z138_EEA|Z138_EEA|Z138_EEA|

@@ -56249,6 +56249,13 @@
    "model": "MO_Series"
   }
  ],
+ "TK-P617_3.3Ghz": [
+  {
+   "brand": "DTAB",
+   "device": "TK_P617_3_3Ghz",
+   "model": "TK_P617_3_3Ghz"
+  }
+ ],
  "10 Plus": [
   {
    "brand": "DUODUOGO",
@@ -95276,6 +95283,18 @@
    "model": "BVL-N49"
   }
  ],
+ "HONOR MagicPad2": [
+  {
+   "brand": "Honor",
+   "device": "HNROD2-Q",
+   "model": "ROD2-W09"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNROD2-Q1",
+   "model": "ROD2-W09"
+  }
+ ],
  "HONOR Pad 8": [
   {
    "brand": "Honor",
@@ -95648,13 +95667,6 @@
    "brand": "Honor",
    "device": "HNVCA-Q",
    "model": "VCA-AN00"
-  }
- ],
- "荣耀平板MagicPad2": [
-  {
-   "brand": "Honor",
-   "device": "HNROD2-Q",
-   "model": "ROD2-W09"
   }
  ],
  "F13": [
@@ -108338,6 +108350,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6720B",
    "model": "Infinix X6720B"
+  }
+ ],
+ "Infinix HOT 50 Pro": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6881",
+   "model": "Infinix X6881"
   }
  ],
  "Infinix HOT 6X": [
@@ -143790,6 +143809,13 @@
    "model": "MX-N55M"
   }
  ],
+ "NITRO G55": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-G55",
+   "model": "NITRO_G55"
+  }
+ ],
  "NITRO N6": [
   {
    "brand": "Maxwest",
@@ -153979,6 +154005,18 @@
    "model": "moto g42"
   }
  ],
+ "moto g45 5G": [
+  {
+   "brand": "Motorola",
+   "device": "fogos",
+   "model": "moto g34 5GP"
+  },
+  {
+   "brand": "Motorola",
+   "device": "fogos",
+   "model": "moto g45 5G"
+  }
+ ],
  "moto g51": [
   {
    "brand": "Motorola",
@@ -154075,6 +154113,18 @@
    "brand": "Motorola",
    "device": "cancunf",
    "model": "moto g73 5G"
+  }
+ ],
+ "moto g55 5G": [
+  {
+   "brand": "Motorola",
+   "device": "taipei",
+   "model": "moto g54 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "taipei",
+   "model": "moto g55 5G"
   }
  ],
  "moto g6 play": [
@@ -154484,6 +154534,18 @@
    "model": "motorola edge 40 pro"
   }
  ],
+ "motorola edge 50": [
+  {
+   "brand": "Motorola",
+   "device": "tank",
+   "model": "motorola edge 50"
+  },
+  {
+   "brand": "Motorola",
+   "device": "tank",
+   "model": "motorola razr 40"
+  }
+ ],
  "motorola edge 50 fusion": [
   {
    "brand": "Motorola",
@@ -154504,6 +154566,13 @@
    "brand": "Motorola",
    "device": "cuscoi",
    "model": "motorola edge 50 fusion"
+  }
+ ],
+ "motorola edge 50 neo": [
+  {
+   "brand": "Motorola",
+   "device": "vienna",
+   "model": "motorola edge 50 neo"
   }
  ],
  "motorola edge 50 pro": [
@@ -164307,6 +164376,13 @@
    "brand": "Odea",
    "device": "A11_ROW",
    "model": "A11"
+  }
+ ],
+ "A12_ROW": [
+  {
+   "brand": "Odea",
+   "device": "A12_ROW",
+   "model": "A12"
   }
  ],
  "S11_EEA": [
@@ -239252,6 +239328,13 @@
    "model": "TECNO CLA6"
   }
  ],
+ "TECNO CAMON 30T": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-Mobile-CLA6",
+   "model": "TECNO Mobile CLA6"
+  }
+ ],
  "TECNO CAMON iACE 2": [
   {
    "brand": "Tecno",
@@ -265072,6 +265155,11 @@
   }
  ],
  "Z128_T_EEA": [
+  {
+   "brand": "ZIOVO",
+   "device": "Z128_T_EEA",
+   "model": "Z128_EEA"
+  },
   {
    "brand": "ZIOVO",
    "device": "Z128_T_EEA",

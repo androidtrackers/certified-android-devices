@@ -33602,6 +33602,13 @@
    "model": "MO_Series"
   }
  ],
+ "DTAB": [
+  {
+   "device": "TK_P617_3_3Ghz",
+   "name": "TK-P617_3.3Ghz",
+   "model": "TK_P617_3_3Ghz"
+  }
+ ],
  "DTC products": [
   {
    "device": "S10",
@@ -63760,6 +63767,16 @@
    "model": "BVL-N49"
   },
   {
+   "device": "HNROD2-Q",
+   "name": "HONOR MagicPad2",
+   "model": "ROD2-W09"
+  },
+  {
+   "device": "HNROD2-Q1",
+   "name": "HONOR MagicPad2",
+   "model": "ROD2-W09"
+  },
+  {
    "device": "HNHEY-Q",
    "name": "HONOR Pad 8",
    "model": "HEY-W09"
@@ -64068,11 +64085,6 @@
    "device": "HNVCA-Q",
    "name": "荣耀V Purse",
    "model": "VCA-AN00"
-  },
-  {
-   "device": "HNROD2-Q",
-   "name": "荣耀平板MagicPad2",
-   "model": "ROD2-W09"
   }
  ],
  "Hoozo": [
@@ -76241,6 +76253,11 @@
    "device": "Infinix-X6720B",
    "name": "Infinix HOT 50 5G",
    "model": "Infinix X6720B"
+  },
+  {
+   "device": "Infinix-X6881",
+   "name": "Infinix HOT 50 Pro",
+   "model": "Infinix X6881"
   },
   {
    "device": "Infinix-X623",
@@ -106895,6 +106912,11 @@
    "model": "MX-N55M"
   },
   {
+   "device": "MX-G55",
+   "name": "NITRO G55",
+   "model": "NITRO_G55"
+  },
+  {
    "device": "MX-NN6",
    "name": "NITRO N6",
    "model": "NITRO N6"
@@ -115746,6 +115768,16 @@
    "model": "moto g42"
   },
   {
+   "device": "fogos",
+   "name": "moto g45 5G",
+   "model": "moto g34 5GP"
+  },
+  {
+   "device": "fogos",
+   "name": "moto g45 5G",
+   "model": "moto g45 5G"
+  },
+  {
    "device": "cypfq",
    "name": "moto g51",
    "model": "XT2171-3"
@@ -115824,6 +115856,16 @@
    "device": "cancunf",
    "name": "moto g54 5G",
    "model": "moto g73 5G"
+  },
+  {
+   "device": "taipei",
+   "name": "moto g55 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "device": "taipei",
+   "name": "moto g55 5G",
+   "model": "moto g55 5G"
   },
   {
    "device": "jeter",
@@ -116161,6 +116203,16 @@
    "model": "motorola edge 40 pro"
   },
   {
+   "device": "tank",
+   "name": "motorola edge 50",
+   "model": "motorola edge 50"
+  },
+  {
+   "device": "tank",
+   "name": "motorola edge 50",
+   "model": "motorola razr 40"
+  },
+  {
    "device": "cusco",
    "name": "motorola edge 50 fusion",
    "model": "moto g stylus 5G - 2023"
@@ -116179,6 +116231,11 @@
    "device": "cuscoi",
    "name": "motorola edge 50 fusion",
    "model": "motorola edge 50 fusion"
+  },
+  {
+   "device": "vienna",
+   "name": "motorola edge 50 neo",
+   "model": "motorola edge 50 neo"
   },
   {
    "device": "eqe",
@@ -124651,6 +124708,11 @@
    "device": "A11_ROW",
    "name": "A11_ROW",
    "model": "A11"
+  },
+  {
+   "device": "A12_ROW",
+   "name": "A12_ROW",
+   "model": "A12"
   },
   {
    "device": "S11_EEA",
@@ -189530,6 +189592,11 @@
    "model": "TECNO CLA6"
   },
   {
+   "device": "TECNO-Mobile-CLA6",
+   "name": "TECNO CAMON 30T",
+   "model": "TECNO Mobile CLA6"
+  },
+  {
    "device": "TECNO-KB2",
    "name": "TECNO CAMON iACE 2",
    "model": "TECNO KB2"
@@ -211655,6 +211722,11 @@
   {
    "device": "Z128_EEA",
    "name": "Z128_EEA",
+   "model": "Z128_EEA"
+  },
+  {
+   "device": "Z128_T_EEA",
+   "name": "Z128_T_EEA",
    "model": "Z128_EEA"
   },
   {
