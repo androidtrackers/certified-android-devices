@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-04
+Last sync is 2024-09-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -167,6 +167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_Note_N1|AGM_Note_N1|AGM_Note_N1|
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
 |AGM Mobile|AGM_PAD_P2|AGM_PAD_P2|AGM_PAD_P2|
+|AGM Mobile|AGM_PAD_P2W_EEA|AGM_PAD_P2_ACTIVE|AGM_PAD_P2W|
 |AGM Mobile|AGM_PAD_T1|AGM_PAD_T1|AGM_PAD_T1|
 |AGM Mobile|AGM_X6|AGM_X6_EEA|AGM_X6|
 |AGM Mobile|AGM_X6|AGM_X6_RU|AGM_X6|
@@ -4506,9 +4507,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|marina|Apollo Premium4K TV|
 |CAIXUN|Columbia|patrick|Aiplus4K|
-|CAIXUN|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
-|CAIXUN|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
-|CAIXUN|EXPRESS|marina|Apollo Premium4K TV|
 |CAIXUN|Europe|martin|Caixun Android TV|
 |CAIXUN|Europe|martin|SE 2K Android Monitor|
 |CAIXUN|Europe|martin|Smarttech Android Monitor|
@@ -5261,6 +5259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|HipadX_eea_1|HipadX|HiPad X|
 |Chuwi|HipadX_ru|HipadX|HiPad X|
 |Chuwi|Surpad|Surpad|Surpad|
+|Cidea|CM14000Plus|CM14000Plus|CM14000Plus|
 |Cidea|CM76|CM76_EEA|CM76|
 |Cidea|CM77|CM77|CM77|
 |Cidea|CM81|CM81_EEA|CM81|
@@ -5938,6 +5937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|coolpad 5651|CP12p|CP12p|
 |Coolpad|coolpad COOL 20|k69v1_64|CP03|
 |Coolpad|coolpad COOL 30i|CP12Q|CP12Q|
+|Coolpad|coolpad CP12|CP12|CP12|
 |Coolpad|coolpad CP12s|CP12s|CP12s|
 |Coolpad|coolpad N7 Air|2021|2021|
 |Coolpad|coolpad N7 Plus|coolpad_N7_Plus|2032|
@@ -6465,6 +6465,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DMOAO|D5-T-EEA|D5-T-EEA|D5-T-EEA|
 |DMOAO|D5-T-US|D5-T-US|D5-T-US|
 |DMOAO|D5-US|D5-US|D5-US|
+|DMOAO|DMOAO_D2_EEA|DMOAO_D2_EEA|DMOAO_D2_EEA|
+|DMOAO|DMOAO_D2_US|DMOAO_D2_US|DMOAO_D2_US|
 |DNA|DNA|dctiw384|DNA Android TV|
 |DNA|DNA Hubi 2.0|m393gena|DNA Hubi 2.0|
 |DNA|DNA Hubi Soundbox|m393vsb_dna|DNA Hubi Soundbox|
@@ -7449,6 +7451,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|Y88X__PLUS|Y88X__PLUS|Y88X__PLUS|
 |DreamMaker|DreamMaker|DPLAY|DPLAY|
 |Dreamax|DMX-ST7A|DMX-ST7A|DMX-ST7A|
+|Dreamstar|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
+|Dreamstar|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
 |Dreamstar|Nova|YYZ|Nova|
 |Dtac|Phone M2|dtacPhoneM2|dtacPhoneM2|
 |Dtac|Phone S2|dtacPhoneS2|dtac_Phone_S2|
@@ -9831,6 +9835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 8a|akita|Pixel 8a|
 |Google|Pixel 9|tokay|Pixel 9|
 |Google|Pixel 9 Pro|caiman|Pixel 9 Pro|
+|Google|Pixel 9 Pro Fold|comet|Pixel 9 Pro Fold|
 |Google|Pixel 9 Pro XL|komodo|Pixel 9 Pro XL|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Fold|felix|Pixel Fold|
@@ -10009,6 +10014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HDC S.A.|T700B|T700B|T700B|
 |HDC S.A.|T7I_232|T7I_232|T7I_232|
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
+|HD_Plus|HD+ IP TV-Stick|SEI900HDPLUS|HD+ IP TV-Stick|
 |HEADWOLF|F2A|F2A|F2|
 |HEADWOLF|F3A|F3A|F3A|
 |HEADWOLF|F5|Fpad5|F5|
@@ -11223,6 +11229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Helio|S10|S10|S10|
 |Helio|S2|WBL7519SY|S2|
 |Helio|S25|HelioS25|S25|
+|Helio|helio 40|helio_40|helio 40|
 |Helio|helio 50|helio_50|helio 50|
 |HelloPro|PK81R|PK81R|PK81R|
 |HemiltonPro|Tab1000|Tab1000|Tab1000|
@@ -12292,6 +12299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 200|HNELIX|ELI-NX9|
 |Honor|HONOR 200 Pro|HNELP|ELP-AN00|
 |Honor|HONOR 200 Pro|HNELPX|ELP-NX9|
+|Honor|HONOR 200 Smart|HNALT-Q1|ALT-NX1|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
@@ -12345,6 +12353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X6b|HNJDY-M1|JDY-LX1|
 |Honor|HONOR X6b|HNJDY-M1|JDY-LX2|
 |Honor|HONOR X6b|HNJDY-M1|JDY-LX3P|
+|Honor|HONOR X6b 5G|HNALT-Q2|ALT-NX3|
 |Honor|HONOR X6b Plus|HNJDY-M1|JDY-LX3|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
@@ -12358,6 +12367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX3|
 |Honor|HONOR X7b 5G|HNCLK-M1|CLK-NX1|
 |Honor|HONOR X7b 5G|HNCLK-M1|CLK-NX2|
+|Honor|HONOR X7c 5G|HNALT-Q1|ALT-NX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -15215,6 +15225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|Spain|nagata|INVES SMART TV|
 |Invens|UNO|UNO|UNO|
 |Invens|WE1|WE1|WE1|
+|Inventus|CT1|Beige|CT1|
 |Inventus|CT7|Aqua|CT7|
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
@@ -15750,6 +15761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JTWORKS|JTWORKS-IFPD|rk3588_t|JTW|
 |JTYPDA|X20L|X20L|X20L|
 |JUEDUR|R800_EEA|R800_EEA|R800_EEA|
+|JUEDUR|R800_US|R800_US|R800_US|
 |JUEDUR|R800_U_EEA|R800_U_EEA|R800_U_EEA|
 |JUEDUR|R900_EEA|R900_EEA|R900_EEA|
 |JUEDUR|R900_US|R900_US|R900_US|
@@ -16061,6 +16073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|ZKEMPLERMAX|ZKEMPLERMAX|ZKEMPLERMAX|
 |KEMPLER STRAUSS|ZKEMPLER_11|ZKEMPLER_11|ZKEMPLER_11|
 |KEMPLER STRAUSS|ZKEMPLER_PLUS|ZKEMPLER_PLUS|ZKEMPLER PLUS|
+|KENSHI|Armor C1 Max|Armor_C1_Max|Armor C1 Max|
 |KENSHI|Armor C1s|Armor_C1s|Armor C1s|
 |KENSHI|Armor H1s|Armor_H1s|Armor H1s|
 |KENSHI|Armor I1 Slim|Armor_I1_Slim|Armor I1 Slim|
@@ -20076,6 +20089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Le Hola FR|Le_Hola_FR|Le Hola FR|
 |Logicom|Le Hop|Logicom_LeHop|Le Hop|
 |Logicom|Le Lift|LeLift|Le Lift|
+|Logicom|Le Link|Le_Link|Le Link|
 |Logicom|Le Must|LeMust|Le Must|
 |Logicom|Le Must 2|LeMust2|Le Must 2|
 |Logicom|Le Omega|Le_Omega|Le Omega|
@@ -20147,6 +20161,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lumigon|T3|Lumigon_T3|Lumigon_T3|
 |Lumitel|L9502|L9502|L9502|
 |Lumitel|L9503|L9503|L9503|
+|Lunnen|TL42810L01|TL42810L01|TL42810L01|
+|Lunnen|TL62810G01|TL62810G01|TL62810G01|
 |Lyf|LS-4004|LS-4004|LS-4004|
 |Lyf|LS-4006|LS-4006|LYF_LS-4006|
 |Lyf|LS-4503|LS-4503|LS-4503|
@@ -21411,6 +21427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mikona|MFHD_BT1067QC16IPS2|MFHD_BT1067QC16IPS2|MFHD_BT1067QC16IPS2|
 |Mikona|MHDBT10267|MHDBT10267|MHDBT10267|
 |Mikona|MIKONA|MSW_BT767QC8TN|MSW_BT767QC8TN|
+|Mimio|MimioPro-G XX5|rk3588_t|MimioProG5|
 |Minister|Android TV|R1|ATV R1|
 |Minister|Android TV|R2|ATV R2|
 |Mint|Clover|M4CR|M4CR|
@@ -21553,9 +21570,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicel|MX3 PLUS|MX3_PLUS|MX3 PLUS|
 |Mobicel|MiPAD|MiPAD|MiPAD|
 |Mobicel|P11|P11|P11|
+|Mobicel|P12|P12|P12|
 |Mobicel|P5|P5|P5|
 |Mobicel|RX|RX|RX|
 |Mobicel|VX21|VX21|VX21|
+|Mobicel|Vodacom Smart Tab 8|Smart_Tab_8|Vodacom Smart Tab 8|
 |Mobicel|X6|X6|X6|
 |Mobicel|Z4|Z4|Z4|
 |Mobicell|4U|4U|4U|
@@ -24442,6 +24461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OpelMobile|EasySmart 2|Easy_Smart_2|Easy_Smart_2|
 |OpelMobile|OMSJ523B|OpelMobile_OMSJ523B|Smart J5|
 |OpelMobile|Opel Mobile_Smart_J2|Smart_J2|Smart_J2|
+|OpelMobile|Opel Smart60R|OMS60R24B|Smart60R|
 |OpelMobile|Rugged60Q|OMR60Q23O|Rugged60Q|
 |OpelMobile|SMARTJ5-M|SMARTJ5-M|SMARTJ5-M|
 |OpelMobile|SMARTKIDS|SMARTKIDS|SMARTKIDS|
@@ -24498,7 +24518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3 5G|OP5B05L1|A402OP|
 |Oppo|A3 5G|OP5EA7L1|CPH2693|
 |Oppo|A3 Pro 5G|OP59FB|PJY110|
-|Oppo|A3 Pro 5G|OP5B05L1|CPH2667|
+|Oppo|A3 Pro 5G|OP5B05L1|CPH2665|
 |Oppo|A3 Pro 5G/A3 5G/A80 5G|OP5B05L1|CPH2639|
 |Oppo|A31|A31t|A31|
 |Oppo|A31c|A31c|A31c|
@@ -24786,7 +24806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K1|PBCM30|PBCM30|
 |Oppo|K12 5G|OP5A15L1|PJR110|
 |Oppo|K12x 5G|OP5A1F|PJT110|
-|Oppo|K12x 5G|OP5B05L1|CPH2665|
+|Oppo|K12x 5G|OP5B05L1|CPH2667|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -25264,6 +25284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C38_EEA|C38|C38|
 |Oukitel|C50_EEA|C50|C50|
 |Oukitel|C51_EEA|C51|C51|
+|Oukitel|C53|C53|C53|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -25626,6 +25647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|A5700|A5700|A5700|
 |Packard Bell|DAYTONA-G12|DAYTONA-G12|DAYTONA-G12|
 |Packard Bell|DAYTONA-G6|DAYTONA-G6|DAYTONA-G6|
+|Packard Bell|DAYTONA_G8|BL_9UEEP_104|DAYTONA_G8|
 |Packard Bell|INTERLAGOS-T32|INTERLAGOS-T32|INTERLAGOS-T32|
 |Packard Bell|M10400|M10400|M10400|
 |Packard Bell|M10500|M10500|M10500|
@@ -27898,6 +27920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realtime|RS405|RS405|RS405|
 |Realtime|RT503|RT503|RT503|
 |Realtime|RT8|RT8|RT8|
+|Rebecco|K50_ROW|K50_ROW|K50_ROW|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
@@ -27964,6 +27987,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 13C|gust|23108RN04Y|
 |Redmi|Redmi 13C 5G|air|23124RN87I|
 |Redmi|Redmi 13C 5G|atmos|23124RN87G|
+|Redmi|Redmi 14C|lake|2409BRN2CY|
+|Redmi|Redmi 14C|pond|2409BRN2CA|
+|Redmi|Redmi 14C|pond|2409BRN2CL|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -32018,6 +32044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Samsung Interactive Display|SAMSUNG_INTERACTIVE_DISPLAY|WA65D|
 |Samsung|Samsung Interactive Display|SAMSUNG_INTERACTIVE_DISPLAY|WA75D|
 |Samsung|Samsung Interactive Display|SAMSUNG_INTERACTIVE_DISPLAY|WA86D|
+|Samsung|Samsung WAF|SAMSUNG_INTERACTIVE_DISPLAY|WAF|
 |Samsung|Sidekick|SGH-T839|SGH-T839|
 |Samsung|Transfix|SCH-R730|SCH-R730|
 |Samsung|Transform|SPH-M920|SPH-M920|
@@ -32826,6 +32853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|SP-6150|SP-6150|SP-6150|
 |Siragon|SP-7050|SP-7050|SP-7050|
 |Siragon|SP-7100|SP-7100|SP-7100|
+|Siragon|SP_7250|SP_7250|SP_7250|
 |Siragon|Siragon|hongkong|4K SMART TV|
 |Siragon|Siragon|mountbaker|2K SMART TV|
 |Siragon|Siragon_SP_7200|Siragon_SP_7200|Siragon_SP_7200|
@@ -33115,6 +33143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
 |Smart-Tech TV|Aiplus4K|guandu|Aiplus4K|
+|Smart-Tech TV|Apollo Premium4K TV|marina|Apollo Premium4K TV|
 |Smart-Tech TV|Contex TV|cottongreen|Contex TV|
 |Smart-Tech TV|Contex TV|nagata|Contex TV|
 |Smart-Tech TV|EU|cottongreen|Gameplay|
@@ -36570,6 +36599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30T_ROW|P30T|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T_ROW|
+|Teclast|P30_EEA|P30_EEA|P30|
 |Teclast|P30_EEA|P30_EEA|P30_EEA|
 |Teclast|P30_ROW|P30|P30|
 |Teclast|P40HD_EEA|P40HD_EEA|P40HD|
@@ -37400,6 +37430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topsand|N10|N10_T|N10|
 |Topsand|N8|N8|N8|
 |Topsand|N8_KIDS|N8_KIDS|N8 KIDS|
+|Topsand|N8_Plus|N8_Plus|N8_Plus|
 |Topwise|SK210|SK210|SK210|
 |Torex|Rugged_tablets|Torex8plus|Torex8plus|
 |Toshiba||WDPF-703TI|Hikari-iFrame/WDPF-703TI|
@@ -37662,6 +37693,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UCM(M)|T12|T12|T12|
 |UD (EU)|Smart TV|longshan|AI PONT|
 |UD (EU)|Smart TV|redwood|AI PONT|
+|UGRIHACH|C11|C11|C11|
+|UGRIHACH|C11_EEA|C11|C11|
 |UGRIHACH|MB1001|MB1001|MB1001|
 |UGRIHACH|MB1001_EEA|MB1001|MB1001|
 |UJJ(SZ)|U3_EEA|U3_EEA|U3_EEA|
@@ -40055,6 +40088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WAS2KA11|IAD|WAS2KA11|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Walton|XANON X20|XANON_X20|XANON X20|
+|Walton|XANON_X90|XANON_X90|XANON X90|
 |Wansa|Smart TV|longshan|AI PONT|
 |Wansa|Smart TV|redwood|AI PONT|
 |Wansa|WUD55JOA63S|samseong|AI PONT|
@@ -42854,6 +42888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade X10 II Pro+|P618T01C|ZTE T1004|
 |ZTE|ZTE Blade X10 Pro|P963T02C|ZTE T1003|
 |ZTE|ZTE Blade X10s|P963T01C|ZTE T1002|
+|ZTE|ZTE Blade X8 II|P616T02C|ZTE T0805|
 |ZTE|ZTE Blade X8 II Pro|P616T02_AC|ZTE T0805|
 |ZTE|ZTE Blade X8 Pro|P616T01C|ZTE T0802|
 |ZTE|ZTE C2017|alice|ZTE C2017|
@@ -42919,6 +42954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia V50 Vita|P606F09|nubia 8550|
 |ZTE|nubia V60|P616F02|Z2356|
 |ZTE|nubia V60 Design|P606F10|Z2350|
+|ZTE|nubia V70 Design|P606F17|Z2458|
 |ZTE|nubia Z5|NX501|nubia Z5|
 |ZTE|nubia Z50 Ultra|PQ82A11|NX712J|
 |ZTE|nubia Z50S Pro|PQ82A02|NX713J|
@@ -42933,6 +42969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
 |ZTLEKE|P10MAX|P10MAX|P10MAX|
+|ZTLEKE|P10PRO|P10PRO|P10PRO|
 |ZTLEKE|S8Plus|S8Plus|S8Plus|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
@@ -43148,6 +43185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonko|D105|D105|D105|
 |Zonko|D105_EEA|D105_EEA|D105_EEA|
 |Zonko|D106|D106|D106|
+|Zonko|D110|D110|D110|
 |Zonko|D115_EEA|D115_EEA|D115_EEA|
 |Zonko|D118|D118|D118|
 |Zonko|D136|D136|D136|
@@ -43188,6 +43226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zpad|ZKIDS|ZKIDS|ZKIDS|
 |Zpad|ZpadX7|ZpadX7|ZpadX7|
 |Zpad|Zpad_X7|Zpad_X7|Zpad X7|
+|Zucchetti|Zpad 608|Zpad_608|Zpad 608|
 |Zuk|Lenovo Z2 Plus|z2_plus_hw|ZUK Z2132|
 |Zuk|Z1|Z1|Z1|
 |Zuk|Z1|Z1|ZUK Z1|
@@ -43950,6 +43989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|onn. Streaming Device 4K pro|SNA|onn. Streaming Device 4K pro|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
+|predia|Odin Groep|rk3588_t|general_en_bytello_edla|
 |preo|PTABP10|PTABP10|PTABP10|
 |preo|PTAB_P8|PTAB_P8|PTAB_P8|
 |prowise|Prowise Touchscreen Ten|ifpd|prowise|
