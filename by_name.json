@@ -15885,6 +15885,13 @@
    "model": "Aligator_S6550"
   }
  ],
+ "Aligator_S6600": [
+  {
+   "brand": "Aligator",
+   "device": "Aligator_S6600",
+   "model": "Aligator_S6600"
+  }
+ ],
  "RX460": [
   {
    "brand": "Aligator",
@@ -28779,6 +28786,18 @@
    "model": "I11_Power_LTE"
   }
  ],
+ "I8": [
+  {
+   "brand": "BMAX",
+   "device": "I8",
+   "model": "I8"
+  },
+  {
+   "brand": "Tech 4u",
+   "device": "I8",
+   "model": "I8"
+  }
+ ],
  "I9_Plus": [
   {
    "brand": "BMAX",
@@ -33468,6 +33487,20 @@
    "brand": "Biegedy",
    "device": "B22_US",
    "model": "B22_US"
+  }
+ ],
+ "B23_US": [
+  {
+   "brand": "Biegedy",
+   "device": "B23_US",
+   "model": "B23_US"
+  }
+ ],
+ "B23_U_US": [
+  {
+   "brand": "Biegedy",
+   "device": "B23_U_US",
+   "model": "B23_U_US"
   }
  ],
  "B29_EEA": [
@@ -41909,6 +41942,13 @@
    "model": "AiPlus4K"
   }
  ],
+ "CAIXUN SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "marina",
+   "model": "CAIXUN SMART TV"
+  }
+ ],
  "Caixun TV": [
   {
    "brand": "CAIXUN",
@@ -48556,6 +48596,11 @@
    "brand": "Itel",
    "device": "itel-P671L",
    "model": "itel P671L"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-P671LN",
+   "model": "itel P671LN"
   },
   {
    "brand": "PCD Argentina",
@@ -56937,6 +56982,11 @@
  "G27": [
   {
    "brand": "Danew",
+   "device": "G27",
+   "model": "G27"
+  },
+  {
+   "brand": "Symphony",
    "device": "G27",
    "model": "G27"
   }
@@ -67545,6 +67595,13 @@
    "brand": "Epson",
    "device": "embt4",
    "model": "EMBT4"
+  }
+ ],
+ "HB35": [
+  {
+   "brand": "Epson",
+   "device": "himalaya",
+   "model": "HB35"
   }
  ],
  "Projector": [
@@ -90410,6 +90467,11 @@
    "brand": "Hisense",
    "device": "HLTE243E",
    "model": "Hisense E33"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE243E",
+   "model": "Hisense E34"
   }
  ],
  "HLTE300E_ 02": [
@@ -91735,6 +91797,11 @@
    "brand": "Hisense",
    "device": "HLTE109E",
    "model": "Hisense U70 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE109E",
+   "model": "Hisense Y81 Pro"
   },
   {
    "brand": "Hisense",
@@ -109136,6 +109203,18 @@
    "model": "Infinix X6526"
   }
  ],
+ "SMART 9": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6532",
+   "model": "Infinix X6532"
+  },
+  {
+   "brand": "OwnMobile",
+   "device": "OWN_SMART_9",
+   "model": "OWN SMART 9"
+  }
+ ],
  "SMART HD": [
   {
    "brand": "Infinix",
@@ -113898,6 +113977,11 @@
    "brand": "Itel",
    "device": "itel-P671L",
    "model": "itel P671L"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-P671LN",
+   "model": "itel P671LN"
   }
  ],
  "itel P65C": [
@@ -140758,6 +140842,13 @@
    "model": "M2M-3T"
   }
  ],
+ "MXULTRA": [
+  {
+   "brand": "MAXRON",
+   "device": "MXULTRA",
+   "model": "MXULTRA"
+  }
+ ],
  "Grand Prime": [
   {
    "brand": "MAXX",
@@ -154098,6 +154189,13 @@
    "model": "moto g53 5G"
   }
  ],
+ "moto g35 5G": [
+  {
+   "brand": "Motorola",
+   "device": "manila",
+   "model": "moto g35 5G"
+  }
+ ],
  "moto g40 fusion": [
   {
    "brand": "Motorola",
@@ -157231,6 +157329,13 @@
    "brand": "MyPhone (PL)",
    "device": "myPhone_Prime_2",
    "model": "Prime 2"
+  }
+ ],
+ "B866V2FA V3.3": [
+  {
+   "brand": "MyRepublic",
+   "device": "B866V2FAV3",
+   "model": "B866V2FA V3.3"
   }
  ],
  "My-10-13-1": [
@@ -163281,6 +163386,13 @@
    "brand": "Nuu",
    "device": "T0805LAV1",
    "model": "T0805L"
+  }
+ ],
+ "X10 5G": [
+  {
+   "brand": "Nuu",
+   "device": "S6707XA",
+   "model": "S6707X"
   }
  ],
  "X6 Plus": [
@@ -171816,13 +171928,6 @@
    "brand": "OwnMobile",
    "device": "Smart8",
    "model": "Smart8"
-  }
- ],
- "SMART 9": [
-  {
-   "brand": "OwnMobile",
-   "device": "OWN_SMART_9",
-   "model": "OWN SMART 9"
   }
  ],
  "Smart 9 Pro": [
@@ -187587,6 +187692,11 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "ladybird",
+   "model": "MiTV-MOEU0"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "machuca",
    "model": "MiTV-MSSP3"
   },
@@ -187609,6 +187719,11 @@
    "brand": "Xiaomi",
    "device": "rango",
    "model": "MiTV-AXFR1"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "river",
+   "model": "MiTV-MZTU0"
   },
   {
    "brand": "Xiaomi",
@@ -189664,6 +189779,13 @@
    "brand": "Reliance",
    "device": "LS-5010",
    "model": "LS-5010"
+  }
+ ],
+ "P60_EEA": [
+  {
+   "brand": "Relndoo",
+   "device": "P60_EEA",
+   "model": "P60"
   }
  ],
  "T10P_ROW": [
@@ -236252,13 +236374,6 @@
    "model": "Force"
   }
  ],
- "I8": [
-  {
-   "brand": "Tech 4u",
-   "device": "I8",
-   "model": "I8"
-  }
- ],
  "Prix": [
   {
    "brand": "Tech 4u",
@@ -239603,6 +239718,13 @@
    "model": "TECNO P904"
   }
  ],
+ "TECNO PHANTOM V Flip2 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-AE11",
+   "model": "TECNO AE11"
+  }
+ ],
  "TECNO PHANTOM V Fold": [
   {
    "brand": "Tecno",
@@ -239615,6 +239737,13 @@
    "brand": "Tecno",
    "device": "TECNO-AE10",
    "model": "TECNO AE10"
+  }
+ ],
+ "TECNO PHANTOM V2 Flip 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-AE11",
+   "model": "TECNO AE11"
   }
  ],
  "TECNO POP 2 Air": [
@@ -247444,6 +247573,11 @@
   {
    "brand": "V7",
    "device": "rk3588_t",
+   "model": "IFP03V7PRO"
+  },
+  {
+   "brand": "V7",
+   "device": "rk3588_t",
    "model": "IFPO3V7PRO"
   }
  ],
@@ -254179,6 +254313,11 @@
   },
   {
    "brand": "Vivo",
+   "device": "V2352",
+   "model": "V2433"
+  },
+  {
+   "brand": "Vivo",
    "device": "Y28",
    "model": "vivo Y28"
   }
@@ -254945,6 +255084,13 @@
    "model": "I2403"
   }
  ],
+ "iQOO Z9s Pro 5G": [
+  {
+   "brand": "Vivo",
+   "device": "I2305",
+   "model": "I2305"
+  }
+ ],
  "vivo  1907": [
   {
    "brand": "Vivo",
@@ -255522,6 +255668,13 @@
    "brand": "Vivo",
    "device": "PD2199",
    "model": "V2199GA"
+  }
+ ],
+ "vivo T3 Pro 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2404",
+   "model": "V2404"
   }
  ],
  "vivo X Fold": [
@@ -261855,11 +262008,32 @@
    "model": "Halo"
   }
  ],
+ "Halo+": [
+  {
+   "brand": "XGIMI",
+   "device": "altai",
+   "model": "H0030"
+  }
+ ],
  "MoGo": [
   {
    "brand": "XGIMI",
    "device": "xgimiapollo",
    "model": "MoGo"
+  }
+ ],
+ "MoGo 2 Plus": [
+  {
+   "brand": "XGIMI",
+   "device": "altai",
+   "model": "H0031"
+  }
+ ],
+ "MoGo 3 Pro": [
+  {
+   "brand": "XGIMI",
+   "device": "altai",
+   "model": "G0035"
   }
  ],
  "MoGo Pro": [
@@ -265390,6 +265564,13 @@
    "brand": "ZIOVO",
    "device": "Z128_T_EEA",
    "model": "Z128_T_EEA"
+  }
+ ],
+ "Z128_T_US": [
+  {
+   "brand": "ZIOVO",
+   "device": "Z128_T_US",
+   "model": "Z128_T_US"
   }
  ],
  "Z128_US": [
@@ -271570,6 +271751,13 @@
    "brand": "ZTE",
    "device": "P963F65",
    "model": "Z2450"
+  }
+ ],
+ "Z2459": [
+  {
+   "brand": "ZTE",
+   "device": "P616F05",
+   "model": "Z2459"
   }
  ],
  "Z3153V": [

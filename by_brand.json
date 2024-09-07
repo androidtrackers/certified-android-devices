@@ -5456,6 +5456,11 @@
    "model": "Aligator_S6550"
   },
   {
+   "device": "Aligator_S6600",
+   "name": "Aligator_S6600",
+   "model": "Aligator_S6600"
+  },
+  {
    "device": "RX460",
    "name": "RX460",
    "model": "RX460"
@@ -14525,6 +14530,11 @@
    "model": "I11_Power_LTE"
   },
   {
+   "device": "I8",
+   "name": "I8",
+   "model": "I8"
+  },
+  {
    "device": "I9_Plus_WIFI_EEA",
    "name": "I9_Plus",
    "model": "I9_Plus"
@@ -17764,6 +17774,16 @@
    "device": "B22_US",
    "name": "B22_US",
    "model": "B22_US"
+  },
+  {
+   "device": "B23_US",
+   "name": "B23_US",
+   "model": "B23_US"
+  },
+  {
+   "device": "B23_U_US",
+   "name": "B23_U_US",
+   "model": "B23_U_US"
   },
   {
    "device": "B29_EEA",
@@ -23226,6 +23246,11 @@
    "device": "yeongdeungpo",
    "name": "Australian/EU",
    "model": "AiPlus4K"
+  },
+  {
+   "device": "marina",
+   "name": "CAIXUN SMART TV",
+   "model": "CAIXUN SMART TV"
   },
   {
    "device": "marina",
@@ -41683,6 +41708,11 @@
    "model": "EMBT4"
   },
   {
+   "device": "himalaya",
+   "name": "HB35",
+   "model": "HB35"
+  },
+  {
    "device": "sti6200d101",
    "name": "Projector",
    "model": "Projector"
@@ -59863,6 +59893,11 @@
    "model": "Hisense E33"
   },
   {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense E34"
+  },
+  {
    "device": "HS8937QC",
    "name": "HLTE300E_ 02",
    "model": "HLTE300E"
@@ -60961,6 +60996,11 @@
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
    "model": "Hisense U70 Pro"
+  },
+  {
+   "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense Y81 Pro"
   },
   {
    "device": "HLTE109E_01",
@@ -76902,6 +76942,11 @@
    "model": "Infinix X6526"
   },
   {
+   "device": "Infinix-X6532",
+   "name": "SMART 9",
+   "model": "Infinix X6532"
+  },
+  {
    "device": "Infinix-X612",
    "name": "SMART HD",
    "model": "Infinix X612"
@@ -79853,6 +79898,11 @@
    "model": "itel P671L"
   },
   {
+   "device": "itel-P671LN",
+   "name": "P65",
+   "model": "itel P671LN"
+  },
+  {
    "device": "itel-IKP-31",
    "name": "Pad  1 mini",
    "model": "IKP-31"
@@ -80726,6 +80776,11 @@
    "device": "itel-P671L",
    "name": "itel P65",
    "model": "itel P671L"
+  },
+  {
+   "device": "itel-P671LN",
+   "name": "itel P65",
+   "model": "itel P671LN"
   },
   {
    "device": "itel-P666L",
@@ -104302,6 +104357,13 @@
    "model": "R4"
   }
  ],
+ "MAXRON": [
+  {
+   "device": "MXULTRA",
+   "name": "MXULTRA",
+   "model": "MXULTRA"
+  }
+ ],
  "MAXX": [
   {
    "device": "Grand_Prime",
@@ -115844,6 +115906,11 @@
    "model": "moto g53 5G"
   },
   {
+   "device": "manila",
+   "name": "moto g35 5G",
+   "model": "moto g35 5G"
+  },
+  {
    "device": "hanoip",
    "name": "moto g40 fusion",
    "model": "moto g(40) fusion"
@@ -118449,6 +118516,13 @@
    "device": "myPhone_Prime_2",
    "name": "myPhone_Prime_2",
    "model": "Prime 2"
+  }
+ ],
+ "MyRepublic": [
+  {
+   "device": "B866V2FAV3",
+   "name": "B866V2FA V3.3",
+   "model": "B866V2FA V3.3"
   }
  ],
  "MyTab_pro": [
@@ -123567,6 +123641,11 @@
    "device": "T0805LAV1",
    "name": "Tab 8 Plus",
    "model": "T0805L"
+  },
+  {
+   "device": "S6707XA",
+   "name": "X10 5G",
+   "model": "S6707X"
   },
   {
    "device": "X4",
@@ -145416,6 +145495,11 @@
   }
  ],
  "Relndoo": [
+  {
+   "device": "P60_EEA",
+   "name": "P60_EEA",
+   "model": "P60"
+  },
   {
    "device": "T10P",
    "name": "T10P",
@@ -176635,6 +176719,11 @@
    "model": "G10+"
   },
   {
+   "device": "G27",
+   "name": "G27",
+   "model": "G27"
+  },
+  {
    "device": "G50",
    "name": "G50",
    "model": "G50"
@@ -189805,6 +189894,11 @@
    "model": "TECNO P904"
   },
   {
+   "device": "TECNO-AE11",
+   "name": "TECNO PHANTOM V Flip2 5G",
+   "model": "TECNO AE11"
+  },
+  {
    "device": "TECNO-AD10",
    "name": "TECNO PHANTOM V Fold",
    "model": "TECNO AD10"
@@ -189813,6 +189907,11 @@
    "device": "TECNO-AE10",
    "name": "TECNO PHANTOM V Fold2 5G",
    "model": "TECNO AE10"
+  },
+  {
+   "device": "TECNO-AE11",
+   "name": "TECNO PHANTOM V2 Flip 5G",
+   "model": "TECNO AE11"
   },
   {
    "device": "TECNO-SC7S",
@@ -196553,6 +196652,11 @@
   {
    "device": "rk3588_t",
    "name": "IFPXX03-V7PRO",
+   "model": "IFP03V7PRO"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "IFPXX03-V7PRO",
    "model": "IFPO3V7PRO"
   },
   {
@@ -202293,6 +202397,11 @@
    "model": "V2352"
   },
   {
+   "device": "V2352",
+   "name": "Y28",
+   "model": "V2433"
+  },
+  {
    "device": "Y28",
    "name": "Y28",
    "model": "vivo Y28"
@@ -202878,6 +202987,11 @@
    "model": "I2403"
   },
   {
+   "device": "I2305",
+   "name": "iQOO Z9s Pro 5G",
+   "model": "I2305"
+  },
+  {
    "device": "1907",
    "name": "vivo  1907",
    "model": "vivo 1907"
@@ -203301,6 +203415,11 @@
    "device": "PD2199",
    "name": "vivo T2",
    "model": "V2199GA"
+  },
+  {
+   "device": "V2404",
+   "name": "vivo T3 Pro 5G",
+   "model": "V2404"
   },
   {
    "device": "PD2178",
@@ -208761,9 +208880,24 @@
    "model": "Halo"
   },
   {
+   "device": "altai",
+   "name": "Halo+",
+   "model": "H0030"
+  },
+  {
    "device": "xgimiapollo",
    "name": "MoGo",
    "model": "MoGo"
+  },
+  {
+   "device": "altai",
+   "name": "MoGo 2 Plus",
+   "model": "H0031"
+  },
+  {
+   "device": "altai",
+   "name": "MoGo 3 Pro",
+   "model": "G0035"
   },
   {
    "device": "xgimiapollo",
@@ -209855,6 +209989,11 @@
    "model": "MiTV-MOSR4"
   },
   {
+   "device": "ladybird",
+   "name": "MiTV",
+   "model": "MiTV-MOEU0"
+  },
+  {
    "device": "machuca",
    "name": "MiTV",
    "model": "MiTV-MSSP3"
@@ -209878,6 +210017,11 @@
    "device": "rango",
    "name": "MiTV",
    "model": "MiTV-AXFR1"
+  },
+  {
+   "device": "river",
+   "name": "MiTV",
+   "model": "MiTV-MZTU0"
   },
   {
    "device": "tarzan",
@@ -211911,6 +212055,11 @@
    "device": "Z128_T_EEA",
    "name": "Z128_T_EEA",
    "model": "Z128_T_EEA"
+  },
+  {
+   "device": "Z128_T_US",
+   "name": "Z128_T_US",
+   "model": "Z128_T_US"
   },
   {
    "device": "Z128_US",
@@ -218374,6 +218523,11 @@
    "device": "P963F65",
    "name": "Z2450",
    "model": "Z2450"
+  },
+  {
+   "device": "P616F05",
+   "name": "Z2459",
+   "model": "Z2459"
   },
   {
    "device": "Z3153",
