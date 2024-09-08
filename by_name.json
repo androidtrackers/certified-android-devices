@@ -6765,6 +6765,13 @@
    "model": "8004"
   }
  ],
+ "VX NEO": [
+  {
+   "brand": "ADVAN",
+   "device": "ADVAN_VX_NEO",
+   "model": "1013"
+  }
+ ],
  "VX_LITE": [
   {
    "brand": "ADVAN",
@@ -17649,6 +17656,13 @@
    "model": "iPlay50_SE"
   }
  ],
+ "iPlay60_S": [
+  {
+   "brand": "Alldocube",
+   "device": "U1033",
+   "model": "iPlay60_S"
+  }
+ ],
  "iPlay9T": [
   {
    "brand": "Alldocube",
@@ -17972,6 +17986,11 @@
    "brand": "Itel",
    "device": "itel-S32",
    "model": "itel S32"
+  },
+  {
+   "brand": "TIOK",
+   "device": "S32",
+   "model": "S32"
   }
  ],
  "S32_NFC": [
@@ -25870,6 +25889,13 @@
    "brand": "Atozee",
    "device": "ZB10S",
    "model": "ZB10S"
+  }
+ ],
+ "ZB11S": [
+  {
+   "brand": "Atozee",
+   "device": "ZB11S",
+   "model": "ZB11S"
   }
  ],
  "ACT": [
@@ -75239,6 +75265,20 @@
    "model": "Gpad701"
   }
  ],
+ "Note_25": [
+  {
+   "brand": "GFive",
+   "device": "Note_25",
+   "model": "Note_25"
+  }
+ ],
+ "Note_25_ULTRA": [
+  {
+   "brand": "GFive",
+   "device": "Note_25_ULTRA",
+   "model": "Note_25_ULTRA"
+  }
+ ],
  "PRESIDENT_GOLD_10": [
   {
    "brand": "GFive",
@@ -75251,6 +75291,13 @@
    "brand": "GFive",
    "device": "PRESIDENT_GOLD_9",
    "model": "PRESIDENT_GOLD_9"
+  }
+ ],
+ "PRO_16": [
+  {
+   "brand": "GFive",
+   "device": "PRO_16",
+   "model": "PRO_16"
   }
  ],
  "President_Classic_9": [
@@ -75511,6 +75558,13 @@
    "brand": "GOtv",
    "device": "HND",
    "model": "SEI600GO"
+  }
+ ],
+ "YC-08P": [
+  {
+   "brand": "GP-electronic",
+   "device": "YC-08P",
+   "model": "YC-08P"
   }
  ],
  "YC-102D": [
@@ -86536,6 +86590,13 @@
    "model": "Wildfire E4"
   }
  ],
+ "Wildfire E5 Plus": [
+  {
+   "brand": "HTC",
+   "device": "Wildfire_E5_Plus",
+   "model": "Wildfire E5 Plus"
+  }
+ ],
  "Wildfire E6": [
   {
    "brand": "HTC",
@@ -86674,6 +86735,13 @@
    "brand": "HTC",
    "device": "doubleshot",
    "model": "myTouch_4G_Slide"
+  }
+ ],
+ "Cyber 13": [
+  {
+   "brand": "HTOWAV",
+   "device": "Cyber_13",
+   "model": "Cyber 13"
   }
  ],
  "Eastaeon - Mediatek": [
@@ -106777,6 +106845,13 @@
    "model": "IRA_DUO_PLUS"
   }
  ],
+ "IRA_T1029": [
+  {
+   "brand": "IRA (explore more)",
+   "device": "IRA_T1029",
+   "model": "IRA_T1029"
+  }
+ ],
  "IRA_W801": [
   {
    "brand": "IRA (explore more)",
@@ -116465,6 +116540,13 @@
    "brand": "KENSHI",
    "device": "H38",
    "model": "H38"
+  }
+ ],
+ "H44": [
+  {
+   "brand": "KENSHI",
+   "device": "H44",
+   "model": "H44"
   }
  ],
  "Kenshi KP10": [
@@ -140075,6 +140157,13 @@
    "model": "Wave 2"
   }
  ],
+ "Yuno": [
+  {
+   "brand": "Logicom",
+   "device": "Yuno",
+   "model": "Yuno"
+  }
+ ],
  "le Moov": [
   {
    "brand": "Logicom",
@@ -148804,6 +148893,13 @@
    "brand": "Mobicel",
    "device": "MiPAD",
    "model": "MiPAD"
+  }
+ ],
+ "Mobicel Mercury": [
+  {
+   "brand": "Mobicel",
+   "device": "Mobicel_Mercury",
+   "model": "Mobicel Mercury"
   }
  ],
  "P5": [
@@ -159087,6 +159183,13 @@
    "brand": "NEO",
    "device": "GF214-NEO",
    "model": "GF215-REY"
+  }
+ ],
+ "Neon Tab 11": [
+  {
+   "brand": "NEON",
+   "device": "Neon_Tab_11",
+   "model": "Neon Tab 11"
   }
  ],
  "NQT-1013GIQ": [
@@ -171687,6 +171790,20 @@
    "model": "WP27"
   }
  ],
+ "WP28_E_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP28_E",
+   "model": "WP28 E"
+  }
+ ],
+ "WP28_S_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP28_S",
+   "model": "WP28 S"
+  }
+ ],
  "WP30_Pro_EEA": [
   {
    "brand": "Oukitel",
@@ -173219,6 +173336,13 @@
    "brand": "PTCL SHOQ TV",
    "device": "PTCLBox_B866V2F",
    "model": "B866V2F"
+  }
+ ],
+ "EZ24": [
+  {
+   "brand": "PTEZ",
+   "device": "EZ24",
+   "model": "EZ24"
   }
  ],
  "PYUR TV BOX": [
@@ -177252,6 +177376,13 @@
    "brand": "Pixus",
    "device": "Pixus_Drive",
    "model": "Pixus_Drive"
+  }
+ ],
+ "Pixus_Falcon": [
+  {
+   "brand": "Pixus",
+   "device": "Pixus_Falcon",
+   "model": "Pixus_Falcon"
   }
  ],
  "Pixus_Folio": [
@@ -185764,6 +185895,13 @@
    "model": "RATM30846"
   }
  ],
+ "RATM31046": [
+  {
+   "brand": "RCA",
+   "device": "RATM31046",
+   "model": "RATM31046"
+  }
+ ],
  "RATM3144B": [
   {
    "brand": "RCA",
@@ -189634,6 +189772,13 @@
    "model": "S19 MaxL 128GB"
   }
  ],
+ "S19_Max_2_128GB": [
+  {
+   "brand": "Reeder",
+   "device": "S19_Max_2_128GB",
+   "model": "S19 Max 2/128GB"
+  }
+ ],
  "S19 Max Pro S Zoom": [
   {
    "brand": "Reeder",
@@ -191383,6 +191528,13 @@
    "model": "T10S"
   }
  ],
+ "T12S": [
+  {
+   "brand": "SGIN",
+   "device": "T12S",
+   "model": "T12S"
+  }
+ ],
  "T12S_EEA": [
   {
    "brand": "SGIN",
@@ -192244,6 +192396,13 @@
    "brand": "SPC",
    "device": "SMART_ULTIMATE",
    "model": "SMART_ULTIMATE"
+  }
+ ],
+ "WUUM S": [
+  {
+   "brand": "SPC",
+   "device": "Discovery",
+   "model": "Discovery"
   }
  ],
  "APOLO": [
@@ -216661,6 +216820,13 @@
    "model": "Elite_Q55"
   }
  ],
+ "Elite_T10_PRO": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_T10_PRO",
+   "model": "Elite T10 PRO"
+  }
+ ],
  "Elite_T8PUSA": [
   {
    "brand": "Sky Devices",
@@ -222267,6 +222433,13 @@
    "model": "Sparx Neo 7 Ultra 8GB"
   }
  ],
+ "Neo 8 Lite": [
+  {
+   "brand": "SparX",
+   "device": "Neo8Lite",
+   "model": "Neo 8 Lite"
+  }
+ ],
  "Neo_X": [
   {
    "brand": "SparX",
@@ -222870,6 +223043,20 @@
    "brand": "StarMobile",
    "device": "UP_Octa",
    "model": "UP Octa"
+  }
+ ],
+ "Alpha 100": [
+  {
+   "brand": "Starlight",
+   "device": "Alpha_100",
+   "model": "Alpha 100"
+  }
+ ],
+ "Alpha 200": [
+  {
+   "brand": "Starlight",
+   "device": "Alpha_200",
+   "model": "Alpha 200"
   }
  ],
  "C_Note": [
@@ -224848,6 +225035,13 @@
    "brand": "Symphony",
    "device": "G10plus",
    "model": "G10+"
+  }
+ ],
+ "G27 Lite": [
+  {
+   "brand": "Symphony",
+   "device": "G27_Lite",
+   "model": "G27 Lite"
   }
  ],
  "H300": [
@@ -244450,6 +244644,20 @@
    "model": "Armor 24"
   }
  ],
+ "Armor 25 Pro+": [
+  {
+   "brand": "Ulefone",
+   "device": "GQ5007AF2",
+   "model": "Armor 25T Pro"
+  }
+ ],
+ "Armor 25T 4G": [
+  {
+   "brand": "Ulefone",
+   "device": "GQ5007TF1",
+   "model": "Armor 25T"
+  }
+ ],
  "Armor 26 Ultra": [
   {
    "brand": "Ulefone",
@@ -244861,6 +245069,13 @@
    "brand": "Ulefone",
    "device": "Armor_X9",
    "model": "Armor X9"
+  }
+ ],
+ "GQ5007AF2": [
+  {
+   "brand": "Ulefone",
+   "device": "GQ5007AF2",
+   "model": "Armor 25T Pro"
   }
  ],
  "MIX S": [
@@ -257126,6 +257341,13 @@
    "model": "C24"
   }
  ],
+ "C24L": [
+  {
+   "brand": "Vortex",
+   "device": "C24L",
+   "model": "C24L"
+  }
+ ],
  "CG65_Pro": [
   {
    "brand": "Vortex",
@@ -257271,6 +257493,13 @@
    "brand": "Vortex",
    "device": "VORTEX_K65",
    "model": "VORTEX K65"
+  }
+ ],
+ "Vortex N55": [
+  {
+   "brand": "Vortex",
+   "device": "N55",
+   "model": "N55"
   }
  ],
  "Vortex Z22": [
@@ -261786,6 +262015,13 @@
    "brand": "X-View",
    "device": "FTB13",
    "model": "FTB13"
+  }
+ ],
+ "Kids10": [
+  {
+   "brand": "X-View",
+   "device": "Kids10",
+   "model": "Kids10"
   }
  ],
  "PROTON_AMBER_HD": [

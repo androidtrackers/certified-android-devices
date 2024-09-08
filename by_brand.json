@@ -561,6 +561,11 @@
    "model": "8004"
   },
   {
+   "device": "ADVAN_VX_NEO",
+   "name": "VX NEO",
+   "model": "1013"
+  },
+  {
    "device": "ADVAN_TAB_VX_LITE",
    "name": "VX_LITE",
    "model": "1013"
@@ -6714,6 +6719,11 @@
    "model": "iPlay50_SE"
   },
   {
+   "device": "U1033",
+   "name": "iPlay60_S",
+   "model": "iPlay60_S"
+  },
+  {
    "device": "U1008",
    "name": "iPlay9T",
    "model": "iPlay9T"
@@ -12665,6 +12675,11 @@
    "device": "ZB10S",
    "name": "ZB10S",
    "model": "ZB10S"
+  },
+  {
+   "device": "ZB11S",
+   "name": "ZB11S",
+   "model": "ZB11S"
   }
  ],
  "Atria Convergence Technologies": [
@@ -47562,6 +47577,16 @@
    "model": "Gpad701"
   },
   {
+   "device": "Note_25",
+   "name": "Note_25",
+   "model": "Note_25"
+  },
+  {
+   "device": "Note_25_ULTRA",
+   "name": "Note_25_ULTRA",
+   "model": "Note_25_ULTRA"
+  },
+  {
    "device": "PRESIDENT_GOLD_10",
    "name": "PRESIDENT_GOLD_10",
    "model": "PRESIDENT_GOLD_10"
@@ -47570,6 +47595,11 @@
    "device": "PRESIDENT_GOLD_9",
    "name": "PRESIDENT_GOLD_9",
    "model": "PRESIDENT_GOLD_9"
+  },
+  {
+   "device": "PRO_16",
+   "name": "PRO_16",
+   "model": "PRO_16"
   },
   {
    "device": "President_Classic_9",
@@ -47794,6 +47824,11 @@
   }
  ],
  "GP-electronic": [
+  {
+   "device": "YC-08P",
+   "name": "YC-08P",
+   "model": "YC-08P"
+  },
   {
    "device": "YC-102D",
    "name": "YC-102D",
@@ -56638,6 +56673,11 @@
    "model": "Wildfire E4"
   },
   {
+   "device": "Wildfire_E5_Plus",
+   "name": "Wildfire E5 Plus",
+   "model": "Wildfire E5 Plus"
+  },
+  {
    "device": "Wildfire_E6",
    "name": "Wildfire E6",
    "model": "Wildfire E6"
@@ -56746,6 +56786,13 @@
    "device": "doubleshot",
    "name": "myTouch 4G Slide",
    "model": "myTouch_4G_Slide"
+  }
+ ],
+ "HTOWAV": [
+  {
+   "device": "Cyber_13",
+   "name": "Cyber 13",
+   "model": "Cyber 13"
   }
  ],
  "HUAVI": [
@@ -74948,6 +74995,11 @@
    "model": "IRA_DUO_PLUS"
   },
   {
+   "device": "IRA_T1029",
+   "name": "IRA_T1029",
+   "model": "IRA_T1029"
+  },
+  {
    "device": "IRA_W801",
    "name": "IRA_W801",
    "model": "IRA_W801"
@@ -83019,6 +83071,11 @@
    "device": "H38",
    "name": "H38",
    "model": "H38"
+  },
+  {
+   "device": "H44",
+   "name": "H44",
+   "model": "H44"
   },
   {
    "device": "KP10",
@@ -103669,6 +103726,11 @@
    "model": "Wave 2"
   },
   {
+   "device": "Yuno",
+   "name": "Yuno",
+   "model": "Yuno"
+  },
+  {
    "device": "LeMoov",
    "name": "le Moov",
    "model": "LeMoov"
@@ -111099,6 +111161,11 @@
    "device": "MiPAD",
    "name": "MiPAD",
    "model": "MiPAD"
+  },
+  {
+   "device": "Mobicel_Mercury",
+   "name": "Mobicel Mercury",
+   "model": "Mobicel Mercury"
   },
   {
    "device": "P11",
@@ -119907,6 +119974,13 @@
    "device": "GF214-NEO",
    "name": "GF215-REY",
    "model": "GF215-REY"
+  }
+ ],
+ "NEON": [
+  {
+   "device": "Neon_Tab_11",
+   "name": "Neon Tab 11",
+   "model": "Neon Tab 11"
   }
  ],
  "NEONIQ": [
@@ -130726,6 +130800,16 @@
    "model": "WP27"
   },
   {
+   "device": "WP28_E",
+   "name": "WP28_E_EEA",
+   "model": "WP28 E"
+  },
+  {
+   "device": "WP28_S",
+   "name": "WP28_S_EEA",
+   "model": "WP28 S"
+  },
+  {
    "device": "WP30_Pro",
    "name": "WP30_Pro_EEA",
    "model": "WP30 Pro"
@@ -132064,6 +132148,13 @@
    "device": "PTCLBox_B866V2F",
    "name": "PTCL B866V2F",
    "model": "B866V2F"
+  }
+ ],
+ "PTEZ": [
+  {
+   "device": "EZ24",
+   "name": "EZ24",
+   "model": "EZ24"
   }
  ],
  "PYUR": [
@@ -135358,6 +135449,11 @@
    "device": "Pixus_Drive",
    "name": "Pixus_Drive",
    "model": "Pixus_Drive"
+  },
+  {
+   "device": "Pixus_Falcon",
+   "name": "Pixus_Falcon",
+   "model": "Pixus_Falcon"
   },
   {
    "device": "Pixus_Folio",
@@ -142343,6 +142439,11 @@
    "model": "RATM30846"
   },
   {
+   "device": "RATM31046",
+   "name": "RATM31046",
+   "model": "RATM31046"
+  },
+  {
    "device": "RATM3144B",
    "name": "RATM3144B",
    "model": "RATM3144B"
@@ -145368,6 +145469,11 @@
    "model": "S19 MaxL 128GB"
   },
   {
+   "device": "S19_Max_2_128GB",
+   "name": "S19_Max_2_128GB",
+   "model": "S19 Max 2/128GB"
+  },
+  {
    "device": "S19_Max_Pro_S_Zoom",
    "name": "S19 Max Pro S Zoom",
    "model": "S19 Max Pro S Zoom"
@@ -147024,6 +147130,11 @@
    "model": "T10S"
   },
   {
+   "device": "T12S",
+   "name": "T12S",
+   "model": "T12S"
+  },
+  {
    "device": "T12S_EEA",
    "name": "T12S_EEA",
    "model": "T12S_EEA"
@@ -147743,6 +147854,11 @@
    "device": "martin",
    "name": "US",
    "model": "SPC Android Monitor"
+  },
+  {
+   "device": "Discovery",
+   "name": "WUUM S",
+   "model": "Discovery"
   }
  ],
  "SPC Mobile": [
@@ -169496,6 +169612,11 @@
    "model": "Elite_Q55"
   },
   {
+   "device": "Elite_T10_PRO",
+   "name": "Elite_T10_PRO",
+   "model": "Elite T10 PRO"
+  },
+  {
    "device": "Elite_T8PUSA",
    "name": "Elite_T8PUSA",
    "model": "Elite T8Plus"
@@ -174438,6 +174559,11 @@
    "model": "Sparx Neo 7 Ultra 8GB"
   },
   {
+   "device": "Neo8Lite",
+   "name": "Neo 8 Lite",
+   "model": "Neo 8 Lite"
+  },
+  {
    "device": "Neo_X",
    "name": "Neo_X",
    "model": "Neo X"
@@ -174964,6 +175090,16 @@
   }
  ],
  "Starlight": [
+  {
+   "device": "Alpha_100",
+   "name": "Alpha 100",
+   "model": "Alpha 100"
+  },
+  {
+   "device": "Alpha_200",
+   "name": "Alpha 200",
+   "model": "Alpha 200"
+  },
   {
    "device": "C_Note",
    "name": "C_Note",
@@ -176722,6 +176858,11 @@
    "device": "G27",
    "name": "G27",
    "model": "G27"
+  },
+  {
+   "device": "G27_Lite",
+   "name": "G27 Lite",
+   "model": "G27 Lite"
   },
   {
    "device": "G50",
@@ -185983,6 +186124,13 @@
    "model": "skipper"
   }
  ],
+ "TIOK": [
+  {
+   "device": "S32",
+   "name": "S32",
+   "model": "S32"
+  }
+ ],
  "TIT(SA)": [
   {
    "device": "SW4H",
@@ -194142,6 +194290,16 @@
    "model": "Armor 24"
   },
   {
+   "device": "GQ5007AF2",
+   "name": "Armor 25 Pro+",
+   "model": "Armor 25T Pro"
+  },
+  {
+   "device": "GQ5007TF1",
+   "name": "Armor 25T 4G",
+   "model": "Armor 25T"
+  },
+  {
    "device": "Armor_26_Ultra",
    "name": "Armor 26 Ultra",
    "model": "Armor 26 Ultra"
@@ -194440,6 +194598,11 @@
    "device": "Armor_X9",
    "name": "Armor_X9",
    "model": "Armor X9"
+  },
+  {
+   "device": "GQ5007AF2",
+   "name": "GQ5007AF2",
+   "model": "Armor 25T Pro"
   },
   {
    "device": "t816_gq_ulefone",
@@ -204569,6 +204732,11 @@
    "model": "C24"
   },
   {
+   "device": "C24L",
+   "name": "C24L",
+   "model": "C24L"
+  },
+  {
    "device": "CG65_Pro",
    "name": "CG65_Pro",
    "model": "CG65 Pro"
@@ -204702,6 +204870,11 @@
    "device": "VORTEX_K65",
    "name": "VORTEX_K65",
    "model": "VORTEX K65"
+  },
+  {
+   "device": "N55",
+   "name": "Vortex N55",
+   "model": "N55"
   },
   {
    "device": "Z22",
@@ -208703,6 +208876,11 @@
    "device": "FTB13",
    "name": "FTB13",
    "model": "FTB13"
+  },
+  {
+   "device": "Kids10",
+   "name": "Kids10",
+   "model": "Kids10"
   },
   {
    "device": "Proton_Amber_HD",
