@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-08
+Last sync is 2024-09-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1383,6 +1383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AM535|AM535|AM535|
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
+|Amino|Amigo 7Y EspialTV|Amigo7Y|Amigo 7Y EspialTV|
 |Amino|Amigo7Y|Amigo7Y|Amigo 7Y|
 |Amino|DFN-Amigo7x|Amigo7x3|DFN-Amigo7x|
 |Aminocom|Amigo|Amigo|Amigo7|
@@ -11783,6 +11784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_03|Hisense U70 Pro|
+|Hisense|Hisense U70 Pro|HLTE120E_01|Hisense U71 Pro|
 |Hisense|Hisense U71 Pro|HLTE120E|Hisense U71 Pro|
 |Hisense|Hisense U71 Pro|HLTE120E_01|Hisense U71 Pro|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
@@ -12317,6 +12319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 200 Pro|HNELP|ELP-AN00|
 |Honor|HONOR 200 Pro|HNELPX|ELP-NX9|
 |Honor|HONOR 200 Smart|HNALT-Q1|ALT-NX1|
+|Honor|HONOR 200 Smart|HNALT-Q2|ALT-NX3|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
@@ -20378,6 +20381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|TPM4G_E108_A|TPM4G_E108_A|TPM4G_E108|
 |MIRAY|TPM4G_E9863|TPM4G_E9863|TPM4G_E9863|
 |MIRO|Miro A67|Miro_A67|Miro A67|
+|MIRO|Miro S67|Miro_S67|Miro S67|
 |MITSUSHIBA|MITSUSHIBA|TP-10-0232P3G|TP-10-0232P3G|
 |MITSUSHIBA|TP-07-016|TP-07-016|TP-07-016|
 |MJS|T2702|T2702|T2702|
@@ -24010,6 +24014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|B10|S6505LA|S6505L|
 |Nuu|B15|S6701LA|S6701L|
 |Nuu|B20|N6501LA|N6501L|
+|Nuu|B30|S6702XA|S6702X|
 |Nuu|B30 Pro|S6702XA|S6702X|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
@@ -37745,6 +37750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UGRIHACH|MB1001|MB1001|MB1001|
 |UGRIHACH|MB1001_EEA|MB1001|MB1001|
 |UJJ(SZ)|U3_EEA|U3_EEA|U3_EEA|
+|UJJ(SZ)|U8_EEA|U8_EEA|U8_EEA|
 |UJoyFeel|KIDS705-701A|KIDS705_701A|KIDS705-701A|
 |UJoyFeel|KIDS705_701|KIDS705-701|KIDS705-701|
 |UKA-Dream|UKA_Dream_1|UKA_Dream_1|UKA_Dream_1|
@@ -39069,6 +39075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T2x 5G|V2225|V2312|
 |Vivo|T3 5G|V2334|V2334|
 |Vivo|T3 Lite 5G|V2346|V2356|
+|Vivo|T3 Ultra|V2347|V2426|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|

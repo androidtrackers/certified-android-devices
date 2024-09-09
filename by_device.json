@@ -18693,6 +18693,11 @@
  "Amigo7Y": [
   {
    "brand": "Amino",
+   "name": "Amigo 7Y EspialTV",
+   "model": "Amigo 7Y EspialTV"
+  },
+  {
+   "brand": "Amino",
    "name": "Amigo7Y",
    "model": "Amigo 7Y"
   }
@@ -90449,14 +90454,19 @@
    "model": "Hisense U70 Pro"
   }
  ],
- "HLTE120E": [
+ "HLTE120E_01": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U71 Pro"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense U71 Pro",
    "model": "Hisense U71 Pro"
   }
  ],
- "HLTE120E_01": [
+ "HLTE120E": [
   {
    "brand": "Hisense",
    "name": "Hisense U71 Pro",
@@ -93265,6 +93275,18 @@
    "model": "ALT-NX1"
   }
  ],
+ "HNALT-Q2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 200 Smart",
+   "model": "ALT-NX3"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X6b 5G",
+   "model": "ALT-NX3"
+  }
+ ],
  "HNNTH": [
   {
    "brand": "Honor",
@@ -93665,13 +93687,6 @@
    "brand": "Honor",
    "name": "HONOR X6b Plus",
    "model": "JDY-LX3"
-  }
- ],
- "HNALT-Q2": [
-  {
-   "brand": "Honor",
-   "name": "HONOR X6b 5G",
-   "model": "ALT-NX3"
   }
  ],
  "HNCMA-Q": [
@@ -141631,6 +141646,13 @@
    "model": "Miro A67"
   }
  ],
+ "Miro_S67": [
+  {
+   "brand": "MIRO",
+   "name": "Miro S67",
+   "model": "Miro S67"
+  }
+ ],
  "TP-10-0232P3G": [
   {
    "brand": "MITSUSHIBA",
@@ -164080,6 +164102,11 @@
   }
  ],
  "S6702XA": [
+  {
+   "brand": "Nuu",
+   "name": "B30",
+   "model": "S6702X"
+  },
   {
    "brand": "Nuu",
    "name": "B30 Pro",
@@ -245910,6 +245937,13 @@
    "model": "U3_EEA"
   }
  ],
+ "U8_EEA": [
+  {
+   "brand": "UJJ(SZ)",
+   "name": "U8_EEA",
+   "model": "U8_EEA"
+  }
+ ],
  "KIDS705_701A": [
   {
    "brand": "UJoyFeel",
@@ -253642,6 +253676,18 @@
    "model": "V2351"
   }
  ],
+ "V2347": [
+  {
+   "brand": "Vivo",
+   "name": "T3 Ultra",
+   "model": "V2426"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 Pro",
+   "model": "V2347"
+  }
+ ],
  "PD2180": [
   {
    "brand": "Vivo",
@@ -255346,13 +255392,6 @@
    "brand": "Vivo",
    "name": "V40",
    "model": "V2348"
-  }
- ],
- "V2347": [
-  {
-   "brand": "Vivo",
-   "name": "V40 Pro",
-   "model": "V2347"
   }
  ],
  "V5Plus": [

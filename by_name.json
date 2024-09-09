@@ -18489,6 +18489,13 @@
    "model": "AM518"
   }
  ],
+ "Amigo 7Y EspialTV": [
+  {
+   "brand": "Amino",
+   "device": "Amigo7Y",
+   "model": "Amigo 7Y EspialTV"
+  }
+ ],
  "Amigo7Y": [
   {
    "brand": "Amino",
@@ -91885,6 +91892,11 @@
    "brand": "Hisense",
    "device": "HLTE109E_03",
    "model": "Hisense U70 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE120E_01",
+   "model": "Hisense U71 Pro"
   }
  ],
  "Hisense U71 Pro": [
@@ -95297,6 +95309,11 @@
    "brand": "Honor",
    "device": "HNALT-Q1",
    "model": "ALT-NX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNALT-Q2",
+   "model": "ALT-NX3"
   }
  ],
  "HONOR 50": [
@@ -141434,6 +141451,13 @@
    "model": "Miro A67"
   }
  ],
+ "Miro S67": [
+  {
+   "brand": "MIRO",
+   "device": "Miro_S67",
+   "model": "Miro S67"
+  }
+ ],
  "MITSUSHIBA": [
   {
    "brand": "MITSUSHIBA",
@@ -161627,6 +161651,11 @@
    "brand": "Noblex",
    "device": "NOBLEX_B30",
    "model": "B30"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6702XA",
+   "model": "S6702X"
   }
  ],
  "Go Action": [
@@ -244175,6 +244204,13 @@
    "model": "U3_EEA"
   }
  ],
+ "U8_EEA": [
+  {
+   "brand": "UJJ(SZ)",
+   "device": "U8_EEA",
+   "model": "U8_EEA"
+  }
+ ],
  "KIDS705-701A": [
   {
    "brand": "UJoyFeel",
@@ -252238,6 +252274,13 @@
    "brand": "Vivo",
    "device": "V2346",
    "model": "V2356"
+  }
+ ],
+ "T3 Ultra": [
+  {
+   "brand": "Vivo",
+   "device": "V2347",
+   "model": "V2426"
   }
  ],
  "U5x": [

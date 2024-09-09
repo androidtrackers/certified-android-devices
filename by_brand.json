@@ -7230,6 +7230,11 @@
  "Amino": [
   {
    "device": "Amigo7Y",
+   "name": "Amigo 7Y EspialTV",
+   "model": "Amigo 7Y EspialTV"
+  },
+  {
+   "device": "Amigo7Y",
    "name": "Amigo7Y",
    "model": "Amigo 7Y"
   },
@@ -61065,6 +61070,11 @@
    "model": "Hisense U70 Pro"
   },
   {
+   "device": "HLTE120E_01",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U71 Pro"
+  },
+  {
    "device": "HLTE120E",
    "name": "Hisense U71 Pro",
    "model": "Hisense U71 Pro"
@@ -63759,6 +63769,11 @@
    "device": "HNALT-Q1",
    "name": "HONOR 200 Smart",
    "model": "ALT-NX1"
+  },
+  {
+   "device": "HNALT-Q2",
+   "name": "HONOR 200 Smart",
+   "model": "ALT-NX3"
   },
   {
    "device": "HNNTH",
@@ -104862,6 +104877,11 @@
    "device": "Miro_A67",
    "name": "Miro A67",
    "model": "Miro A67"
+  },
+  {
+   "device": "Miro_S67",
+   "name": "Miro S67",
+   "model": "Miro S67"
   }
  ],
  "MITSUSHIBA": [
@@ -123580,6 +123600,11 @@
    "device": "N6501LA",
    "name": "B20",
    "model": "N6501L"
+  },
+  {
+   "device": "S6702XA",
+   "name": "B30",
+   "model": "S6702X"
   },
   {
    "device": "S6702XA",
@@ -193861,6 +193886,11 @@
    "device": "U3_EEA",
    "name": "U3_EEA",
    "model": "U3_EEA"
+  },
+  {
+   "device": "U8_EEA",
+   "name": "U8_EEA",
+   "model": "U8_EEA"
   }
  ],
  "UJoyFeel": [
@@ -200743,6 +200773,11 @@
    "device": "V2346",
    "name": "T3 Lite 5G",
    "model": "V2356"
+  },
+  {
+   "device": "V2347",
+   "name": "T3 Ultra",
+   "model": "V2426"
   },
   {
    "device": "PD2180",
