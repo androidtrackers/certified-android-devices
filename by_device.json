@@ -7934,6 +7934,13 @@
    "model": "Funtab_1001_EEA"
   }
  ],
+ "Funtab_1002_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "Funtab_1002_EEA",
+   "model": "Funtab_1002_EEA"
+  }
+ ],
  "Funtab_801_I": [
   {
    "brand": "AWOW",
@@ -43185,6 +43192,11 @@
    "model": "M10"
   },
   {
+   "brand": "Telpo",
+   "name": "M10P",
+   "model": "M10 for arm64"
+  },
+  {
    "brand": "UAUU",
    "name": "M10",
    "model": "M10"
@@ -53111,6 +53123,13 @@
    "brand": "Cubot",
    "name": "KINGKONG 9",
    "model": "KINGKONG 9"
+  }
+ ],
+ "KINGKONG_ACE_2": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG ACE 2",
+   "model": "KINGKONG ACE 2"
   }
  ],
  "KINGKONG_ACE_3": [
@@ -107712,6 +107731,13 @@
    "model": "Infinix HOT 4 Pro"
   }
  ],
+ "Infinix-X6880": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 50 Pro+",
+   "model": "Infinix X6880"
+  }
+ ],
  "Infinix-X606": [
   {
    "brand": "Infinix",
@@ -114288,6 +114314,13 @@
    "brand": "JREN",
    "name": "JR_J7",
    "model": "JR_J7"
+  }
+ ],
+ "R500_EEA": [
+  {
+   "brand": "JUEDUR",
+   "name": "R500 EEA",
+   "model": "R500_EEA"
   }
  ],
  "R800_EEA": [
@@ -151127,6 +151160,11 @@
    "brand": "Mobiwire",
    "name": "H6682",
    "model": "H6682"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "H6682_VDC_TZ",
+   "model": "H6682_VDC_TZ"
   }
  ],
  "H6821": [
@@ -162441,6 +162479,13 @@
    "brand": "Nextgear",
    "name": "Nextgear n1",
    "model": "Nextgear n1"
+  }
+ ],
+ "T8metal": [
+  {
+   "brand": "Nextlife",
+   "name": "T8metal",
+   "model": "T8metal"
   }
  ],
  "N380": [
@@ -187309,6 +187354,20 @@
    "brand": "RCA",
    "name": "Reno_Pro",
    "model": "Reno Pro"
+  }
+ ],
+ "TAB_One": [
+  {
+   "brand": "RCA",
+   "name": "TAB_One",
+   "model": "TAB_One"
+  }
+ ],
+ "TAB_One_Plus": [
+  {
+   "brand": "RCA",
+   "name": "TAB_One_Plus",
+   "model": "TAB_One_Plus"
   }
  ],
  "Tab_Pro": [
@@ -267371,6 +267430,11 @@
    "brand": "ZIOVO",
    "name": "Z128_T_US",
    "model": "Z128_T_US"
+  },
+  {
+   "brand": "ZIOVO",
+   "name": "Z128_T_US",
+   "model": "Z128_US"
   }
  ],
  "Z128_US": [

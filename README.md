@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-10
+Last sync is 2024-09-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -364,6 +364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|CreaPad_1009_EEA|CreaPad_1009_EEA|CreaPad_1009_EEA|
 |AWOW|Funtab_1001|Funtab_1001|Funtab_1001|
 |AWOW|Funtab_1001_EEA|Funtab_1001_EEA|Funtab_1001_EEA|
+|AWOW|Funtab_1002_EEA|Funtab_1002_EEA|Funtab_1002_EEA|
 |AWOW|Funtab_801_I|Funtab_801_I|Funtab_801_I|
 |AWOW|Funtab_801_K|Funtab_801_K|Funtab_801_K|
 |AWOW|Funtab_801_K|Funtab_801_K_EEA|Funtab_801_K_EEA|
@@ -6103,6 +6104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG 7|KINGKONG_7|KINGKONG 7|
 |Cubot|KINGKONG 8|KINGKONG_8|KINGKONG 8|
 |Cubot|KINGKONG 9|KINGKONG_9|KINGKONG 9|
+|Cubot|KINGKONG ACE 2|KINGKONG_ACE_2|KINGKONG ACE 2|
 |Cubot|KINGKONG ACE 3|KINGKONG_ACE_3|KINGKONG ACE 3|
 |Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG ES|KINGKONG_ES|KINGKONG_ES|
@@ -14787,6 +14789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 4 PRO|X556|Infinix_X556_LTE|
 |Infinix|HOT 4 Pro|Infinix-X5511-13M|Infinix HOT 4 Pro|
 |Infinix|HOT 4 Pro|X556|Infinix HOT 4 Pro|
+|Infinix|HOT 50 Pro+|Infinix-X6880|Infinix X6880|
 |Infinix|HOT 6|Infinix-X606|Infinix X606|
 |Infinix|HOT 6|Infinix-X606B|Infinix X606B|
 |Infinix|HOT 6|Infinix-X606C|Infinix X606C|
@@ -15814,6 +15817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JREN|JR_J7|JR_J7|JR_J7|
 |JTWORKS|JTWORKS-IFPD|rk3588_t|JTW|
 |JTYPDA|X20L|X20L|X20L|
+|JUEDUR|R500 EEA|R500_EEA|R500_EEA|
 |JUEDUR|R800_EEA|R800_EEA|R800_EEA|
 |JUEDUR|R800_US|R800_US|R800_US|
 |JUEDUR|R800_U_EEA|R800_U_EEA|R800_U_EEA|
@@ -21875,6 +21879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6682|H6682|H6682|
+|Mobiwire|H6682_VDC_TZ|H6682|H6682_VDC_TZ|
 |Mobiwire|H6821|H6821|H6821|
 |Mobiwire|HALONA|Halona|Halona|
 |Mobiwire|Hawk from EE|Hawk_from_EE|Hawk_from_EE|
@@ -23735,6 +23740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nextel|V.45|H26-VSN|NII Nextel|
 |Nextel|V.45|H26-VSN|V.45|
 |Nextgear|Nextgear n1|Nextgear_n1|Nextgear n1|
+|Nextlife|T8metal|T8metal|T8metal|
 |Nexvoo|NexFone N380|N380|N380|
 |Nexvoo|NexFone N380|N380_EEA|N380_EEA|
 |Nikkei|Android TV|longshan|AI PONT|
@@ -27834,6 +27840,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Smart TV|osaki|2K AI Smart TV|
 |RCA|Smart TV|osaki|Treeview 2K AI Smart TV|
 |RCA|Smart TV|ueno|2K Android TV|
+|RCA|TAB_One|TAB_One|TAB_One|
+|RCA|TAB_One_Plus|TAB_One_Plus|TAB_One_Plus|
 |RCA|Tab_Pro|Tab_Pro|Tab_Pro|
 |RCA|US|marina|RCA 4K SMART TV|
 |RCA|Voyager|RCT6873W42BMF8|RCT6873W42BMF8|
@@ -37384,6 +37392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|Telo_TE590P|TE590P_U|TE590P|
 |Telpo|C1|C1|C1|
 |Telpo|M1|M1s|M1s|
+|Telpo|M10P|M10|M10 for arm64|
 |Telpo|M1K|M1K|M1K|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
@@ -41398,6 +41407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z128_T_EEA|Z128_T_EEA|Z128_EEA|
 |ZIOVO|Z128_T_EEA|Z128_T_EEA|Z128_T_EEA|
 |ZIOVO|Z128_T_US|Z128_T_US|Z128_T_US|
+|ZIOVO|Z128_T_US|Z128_T_US|Z128_US|
 |ZIOVO|Z128_US|Z128_US|Z128_US|
 |ZIOVO|Z138_EEA|Z138_EEA|Z138_EEA|
 |ZIOVO|Z138_US|Z138_US|Z138_US|

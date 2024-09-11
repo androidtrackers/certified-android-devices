@@ -10034,6 +10034,13 @@
    "model": "Funtab_1001_EEA"
   }
  ],
+ "Funtab_1002_EEA": [
+  {
+   "brand": "AWOW",
+   "device": "Funtab_1002_EEA",
+   "model": "Funtab_1002_EEA"
+  }
+ ],
  "Funtab_801_I": [
   {
    "brand": "AWOW",
@@ -53429,6 +53436,13 @@
    "brand": "Cubot",
    "device": "KINGKONG_9",
    "model": "KINGKONG 9"
+  }
+ ],
+ "KINGKONG ACE 2": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_ACE_2",
+   "model": "KINGKONG ACE 2"
   }
  ],
  "KINGKONG ACE 3": [
@@ -108513,6 +108527,13 @@
    "model": "Infinix HOT 4 Pro"
   }
  ],
+ "HOT 50 Pro+": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6880",
+   "model": "Infinix X6880"
+  }
+ ],
  "HOT 6 Pro": [
   {
    "brand": "Infinix",
@@ -114958,6 +114979,13 @@
    "brand": "JTWORKS",
    "device": "rk3588_t",
    "model": "JTW"
+  }
+ ],
+ "R500 EEA": [
+  {
+   "brand": "JUEDUR",
+   "device": "R500_EEA",
+   "model": "R500_EEA"
   }
  ],
  "R800_EEA": [
@@ -150804,6 +150832,13 @@
    "model": "H6682"
   }
  ],
+ "H6682_VDC_TZ": [
+  {
+   "brand": "Mobiwire",
+   "device": "H6682",
+   "model": "H6682_VDC_TZ"
+  }
+ ],
  "H6821": [
   {
    "brand": "Mobiwire",
@@ -161790,6 +161825,13 @@
    "brand": "Nextgear",
    "device": "Nextgear_n1",
    "model": "Nextgear n1"
+  }
+ ],
+ "T8metal": [
+  {
+   "brand": "Nextlife",
+   "device": "T8metal",
+   "model": "T8metal"
   }
  ],
  "NexFone N380": [
@@ -186931,6 +186973,20 @@
    "brand": "RCA",
    "device": "Reno_Pro",
    "model": "Reno Pro"
+  }
+ ],
+ "TAB_One": [
+  {
+   "brand": "RCA",
+   "device": "TAB_One",
+   "model": "TAB_One"
+  }
+ ],
+ "TAB_One_Plus": [
+  {
+   "brand": "RCA",
+   "device": "TAB_One_Plus",
+   "model": "TAB_One_Plus"
   }
  ],
  "Tab_Pro": [
@@ -242163,6 +242219,13 @@
    "model": "TE590P"
   }
  ],
+ "M10P": [
+  {
+   "brand": "Telpo",
+   "device": "M10",
+   "model": "M10 for arm64"
+  }
+ ],
  "M1K": [
   {
    "brand": "Telpo",
@@ -266448,6 +266511,11 @@
    "brand": "ZIOVO",
    "device": "Z128_T_US",
    "model": "Z128_T_US"
+  },
+  {
+   "brand": "ZIOVO",
+   "device": "Z128_T_US",
+   "model": "Z128_US"
   }
  ],
  "Z128_US": [

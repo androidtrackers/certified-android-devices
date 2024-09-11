@@ -1984,6 +1984,11 @@
    "model": "Funtab_1001_EEA"
   },
   {
+   "device": "Funtab_1002_EEA",
+   "name": "Funtab_1002_EEA",
+   "model": "Funtab_1002_EEA"
+  },
+  {
    "device": "Funtab_801_I",
    "name": "Funtab_801_I",
    "model": "Funtab_801_I"
@@ -31575,6 +31580,11 @@
    "device": "KINGKONG_9",
    "name": "KINGKONG 9",
    "model": "KINGKONG 9"
+  },
+  {
+   "device": "KINGKONG_ACE_2",
+   "name": "KINGKONG ACE 2",
+   "model": "KINGKONG ACE 2"
   },
   {
    "device": "KINGKONG_ACE_3",
@@ -76289,6 +76299,11 @@
    "model": "Infinix HOT 4 Pro"
   },
   {
+   "device": "Infinix-X6880",
+   "name": "HOT 50 Pro+",
+   "model": "Infinix X6880"
+  },
+  {
    "device": "Infinix-X606",
    "name": "HOT 6",
    "model": "Infinix X606"
@@ -81513,6 +81528,11 @@
   }
  ],
  "JUEDUR": [
+  {
+   "device": "R500_EEA",
+   "name": "R500 EEA",
+   "model": "R500_EEA"
+  },
   {
    "device": "R800_EEA",
    "name": "R800_EEA",
@@ -112595,6 +112615,11 @@
    "model": "H6682"
   },
   {
+   "device": "H6682",
+   "name": "H6682_VDC_TZ",
+   "model": "H6682_VDC_TZ"
+  },
+  {
    "device": "H6821",
    "name": "H6821",
    "model": "H6821"
@@ -122153,6 +122178,13 @@
    "device": "Nextgear_n1",
    "name": "Nextgear n1",
    "model": "Nextgear n1"
+  }
+ ],
+ "Nextlife": [
+  {
+   "device": "T8metal",
+   "name": "T8metal",
+   "model": "T8metal"
   }
  ],
  "Nexvoo": [
@@ -143210,6 +143242,16 @@
    "device": "ueno",
    "name": "Smart TV",
    "model": "2K Android TV"
+  },
+  {
+   "device": "TAB_One",
+   "name": "TAB_One",
+   "model": "TAB_One"
+  },
+  {
+   "device": "TAB_One_Plus",
+   "name": "TAB_One_Plus",
+   "model": "TAB_One_Plus"
   },
   {
    "device": "Tab_Pro",
@@ -191928,6 +191970,11 @@
    "model": "M1s"
   },
   {
+   "device": "M10",
+   "name": "M10P",
+   "model": "M10 for arm64"
+  },
+  {
    "device": "M1K",
    "name": "M1K",
    "model": "M1K"
@@ -212730,6 +212777,11 @@
    "device": "Z128_T_US",
    "name": "Z128_T_US",
    "model": "Z128_T_US"
+  },
+  {
+   "device": "Z128_T_US",
+   "name": "Z128_T_US",
+   "model": "Z128_US"
   },
   {
    "device": "Z128_US",
