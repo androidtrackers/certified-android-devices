@@ -19657,6 +19657,20 @@
    "model": "EM101B_EEA"
   }
  ],
+ "EM101C": [
+  {
+   "brand": "Apolosign",
+   "name": "EM101C",
+   "model": "EM101C"
+  }
+ ],
+ "EM101C_EEA": [
+  {
+   "brand": "Apolosign",
+   "name": "EM101C_EEA",
+   "model": "EM101C_EEA"
+  }
+ ],
  "EM103A": [
   {
    "brand": "Apolosign",
@@ -26830,6 +26844,13 @@
    "model": "P80W"
   }
  ],
+ "P81M": [
+  {
+   "brand": "Atozee",
+   "name": "P81M",
+   "model": "P81M"
+  }
+ ],
  "P81W": [
   {
    "brand": "Atozee",
@@ -29077,6 +29098,11 @@
   },
   {
    "brand": "TVB",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "Wintouch",
    "name": "A20",
    "model": "A20"
   }
@@ -43193,7 +43219,7 @@
   },
   {
    "brand": "Telpo",
-   "name": "M10P",
+   "name": "M10",
    "model": "M10 for arm64"
   },
   {
@@ -47116,6 +47142,20 @@
    "model": "CM91_EEA"
   }
  ],
+ "CM92_EEA": [
+  {
+   "brand": "Cidea",
+   "name": "CM92_EEA",
+   "model": "CM92"
+  }
+ ],
+ "CM93": [
+  {
+   "brand": "Cidea",
+   "name": "CM93",
+   "model": "CM93"
+  }
+ ],
  "P100": [
   {
    "brand": "Cidea",
@@ -49719,6 +49759,13 @@
    "brand": "Contixo",
    "name": "K80",
    "model": "K80"
+  }
+ ],
+ "K81": [
+  {
+   "brand": "Contixo",
+   "name": "K81",
+   "model": "K81"
   }
  ],
  "LA703R": [
@@ -58081,6 +58128,13 @@
    "model": "TAB20_US"
   }
  ],
+ "TAB8_US": [
+  {
+   "brand": "Dghrti",
+   "name": "TAB8_US",
+   "model": "TAB8_US"
+  }
+ ],
  "DDT-001": [
   {
    "brand": "DiDi (Japan)",
@@ -65968,6 +66022,13 @@
    "model": "EID-1400"
   }
  ],
+ "EID_1050": [
+  {
+   "brand": "Emerson",
+   "name": "EID_1050",
+   "model": "EID-1050"
+  }
+ ],
  "EID_1061": [
   {
    "brand": "Emerson",
@@ -71742,6 +71803,13 @@
    "model": "S710 Ruby"
   }
  ],
+ "Kidstablet1": [
+  {
+   "brand": "Fox_and_Sheep",
+   "name": "Kidstablet1",
+   "model": "Kidstablet_231"
+  }
+ ],
  "KidstabletOne": [
   {
    "brand": "Fox_and_Sheep",
@@ -75891,6 +75959,20 @@
    "model": "GK133"
   }
  ],
+ "GK133D24": [
+  {
+   "brand": "Ghia",
+   "name": "GK133D24",
+   "model": "GK133D24"
+  }
+ ],
+ "GK133M24": [
+  {
+   "brand": "Ghia",
+   "name": "GK133M24",
+   "model": "GK133M24"
+  }
+ ],
  "GK133M3": [
   {
    "brand": "Ghia",
@@ -75905,6 +75987,20 @@
    "model": "GK133N3"
   }
  ],
+ "GK133P24": [
+  {
+   "brand": "Ghia",
+   "name": "GK133P24",
+   "model": "GK133P24"
+  }
+ ],
+ "GK133S24": [
+  {
+   "brand": "Ghia",
+   "name": "GK133S24",
+   "model": "GK133S24"
+  }
+ ],
  "GK133S3": [
   {
    "brand": "Ghia",
@@ -75917,6 +76013,13 @@
    "brand": "Ghia",
    "name": "GK133T3",
    "model": "GK133T3"
+  }
+ ],
+ "GK133U24": [
+  {
+   "brand": "Ghia",
+   "name": "GK133U24",
+   "model": "GK133U24"
   }
  ],
  "GK133V3": [
@@ -75938,6 +76041,13 @@
    "brand": "Ghia",
    "name": "GPND133",
    "model": "GPND133"
+  }
+ ],
+ "GPND133V4": [
+  {
+   "brand": "Ghia",
+   "name": "GPND133V4",
+   "model": "GPND133V4"
   }
  ],
  "GS3G": [
@@ -80524,6 +80634,18 @@
    "brand": "HMD",
    "name": "HMD Aura",
    "model": "HMD Aura"
+  }
+ ],
+ "NHK": [
+  {
+   "brand": "HMD",
+   "name": "HMD Fusion",
+   "model": "HMD Fusion"
+  },
+  {
+   "brand": "HMD",
+   "name": "HMD Fusion Business Edition",
+   "model": "HMD Fusion Business Edition"
   }
  ],
  "LGD": [
@@ -90676,6 +90798,11 @@
    "brand": "Hisense",
    "name": "Hisense U70 Pro",
    "model": "Hisense M71 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U62 Pro"
   },
   {
    "brand": "Hisense",
@@ -114323,6 +114450,13 @@
    "model": "R500_EEA"
   }
  ],
+ "R500_US": [
+  {
+   "brand": "JUEDUR",
+   "name": "R500 US",
+   "model": "R500_US"
+  }
+ ],
  "R800_EEA": [
   {
    "brand": "JUEDUR",
@@ -130917,6 +131051,13 @@
    "model": "MID_1090IPSV9"
   }
  ],
+ "MID_1099IPS_V13": [
+  {
+   "brand": "Laser",
+   "name": "MID_1099IPS_V13",
+   "model": "MID_1099IPS"
+  }
+ ],
  "MID_785": [
   {
    "brand": "Laser",
@@ -130970,6 +131111,13 @@
   {
    "brand": "Laser",
    "name": "MID_799IPS",
+   "model": "MID_799IPS"
+  }
+ ],
+ "MID_799IPS_V13": [
+  {
+   "brand": "Laser",
+   "name": "MID_799IPS_V13",
    "model": "MID_799IPS"
   }
  ],
@@ -164521,6 +164669,13 @@
    "model": "S6503L"
   }
  ],
+ "S6008LA": [
+  {
+   "brand": "Nuu",
+   "name": "N12",
+   "model": "S6008L"
+  }
+ ],
  "S6514LA": [
   {
    "brand": "Nuu",
@@ -165515,6 +165670,13 @@
    "brand": "OSCAL",
    "name": "Tiger 12",
    "model": "TIGER 12"
+  }
+ ],
+ "TIGER_13": [
+  {
+   "brand": "OSCAL",
+   "name": "TIGER 13",
+   "model": "TIGER 13"
   }
  ],
  "HY45N": [
@@ -179153,6 +179315,13 @@
    "model": "P70"
   }
  ],
+ "P8Pro": [
+  {
+   "brand": "Plimpton",
+   "name": "P8Pro",
+   "model": "P8Pro"
+  }
+ ],
  "P8ProA14": [
   {
    "brand": "Plimpton",
@@ -180119,6 +180288,18 @@
   }
  ],
  "ihu_abl_car": [
+  {
+   "brand": "Polestar",
+   "name": "Polestar",
+   "model": "Polestar"
+  },
+  {
+   "brand": "Volvo",
+   "name": "Volvo",
+   "model": "Volvo"
+  }
+ ],
+ "moose": [
   {
    "brand": "Polestar",
    "name": "Polestar",
@@ -183623,6 +183804,13 @@
    "model": "PC9"
   }
  ],
+ "L8_B03_Kids": [
+  {
+   "brand": "Pritom",
+   "name": "USA",
+   "model": "L8"
+  }
+ ],
  "1AZ2P_eea": [
   {
    "brand": "Pritom",
@@ -183845,6 +184033,20 @@
   {
    "brand": "Pritom",
    "name": "L8_B02_EEA",
+   "model": "L8"
+  }
+ ],
+ "L8_B03": [
+  {
+   "brand": "Pritom",
+   "name": "L8_B03",
+   "model": "L8"
+  }
+ ],
+ "L8_B03_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "L8_B03_EEA",
    "model": "L8"
   }
  ],
@@ -194157,6 +194359,13 @@
    "brand": "SUPERSONIC",
    "name": "SC_774KT",
    "model": "SC_774KT"
+  }
+ ],
+ "SC_779KT": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC_779KT",
+   "model": "SC-779KT"
   }
  ],
  "TAB7091": [
@@ -242851,6 +243060,13 @@
    "model": "TECNO BG7n"
   }
  ],
+ "TECNO-KL6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 30",
+   "model": "TECNO KL6"
+  }
+ ],
  "TECNO-KL8s": [
   {
    "brand": "Tecno",
@@ -250436,6 +250652,13 @@
    "brand": "VIOS",
    "name": "VTAB7",
    "model": "VTAB7"
+  }
+ ],
+ "VTABX": [
+  {
+   "brand": "VIOS",
+   "name": "VTABX",
+   "model": "VTABX"
   }
  ],
  "SZ11MK1": [

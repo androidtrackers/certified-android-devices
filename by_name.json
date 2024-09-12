@@ -19404,6 +19404,20 @@
    "model": "EM101B_EEA"
   }
  ],
+ "EM101C": [
+  {
+   "brand": "Apolosign",
+   "device": "EM101C",
+   "model": "EM101C"
+  }
+ ],
+ "EM101C_EEA": [
+  {
+   "brand": "Apolosign",
+   "device": "EM101C_EEA",
+   "model": "EM101C_EEA"
+  }
+ ],
  "EM103A": [
   {
    "brand": "Apolosign",
@@ -25919,6 +25933,13 @@
    "model": "P80W"
   }
  ],
+ "P81M": [
+  {
+   "brand": "Atozee",
+   "device": "P81M",
+   "model": "P81M"
+  }
+ ],
  "P81W": [
   {
    "brand": "Atozee",
@@ -28141,6 +28162,11 @@
    "brand": "Southern Telecom",
    "device": "ST1009",
    "model": "M10/Q1010"
+  },
+  {
+   "brand": "Telpo",
+   "device": "M10",
+   "model": "M10 for arm64"
   },
   {
    "brand": "UAUU",
@@ -34651,6 +34677,11 @@
   },
   {
    "brand": "TVB",
+   "device": "A20",
+   "model": "A20"
+  },
+  {
+   "brand": "Wintouch",
    "device": "A20",
    "model": "A20"
   }
@@ -42234,6 +42265,11 @@
   },
   {
    "brand": "Pritom",
+   "device": "L8_B03_Kids",
+   "model": "L8"
+  },
+  {
+   "brand": "Pritom",
    "device": "M10",
    "model": "M10 Pro"
   },
@@ -47507,6 +47543,20 @@
    "model": "CM91_EEA"
   }
  ],
+ "CM92_EEA": [
+  {
+   "brand": "Cidea",
+   "device": "CM92_EEA",
+   "model": "CM92"
+  }
+ ],
+ "CM93": [
+  {
+   "brand": "Cidea",
+   "device": "CM93",
+   "model": "CM93"
+  }
+ ],
  "P100": [
   {
    "brand": "Cidea",
@@ -50530,6 +50580,18 @@
    "brand": "Contixo",
    "device": "K80",
    "model": "K80"
+  }
+ ],
+ "K81": [
+  {
+   "brand": "Contixo",
+   "device": "K81",
+   "model": "K81"
+  },
+  {
+   "brand": "ZTE",
+   "device": "helen",
+   "model": "K81"
   }
  ],
  "LA703R": [
@@ -58249,6 +58311,13 @@
    "brand": "Dghrti",
    "device": "TAB20_US",
    "model": "TAB20_US"
+  }
+ ],
+ "TAB8_US": [
+  {
+   "brand": "Dghrti",
+   "device": "TAB8_US",
+   "model": "TAB8_US"
   }
  ],
  "DDT-001": [
@@ -67176,6 +67245,13 @@
    "model": "EID-1400"
   }
  ],
+ "EID_1050": [
+  {
+   "brand": "Emerson",
+   "device": "EID_1050",
+   "model": "EID-1050"
+  }
+ ],
  "EID_1061": [
   {
    "brand": "Emerson",
@@ -73162,6 +73238,13 @@
    "model": "Thunder"
   }
  ],
+ "Kidstablet1": [
+  {
+   "brand": "Fox_and_Sheep",
+   "device": "Kidstablet1",
+   "model": "Kidstablet_231"
+  }
+ ],
  "KidstabletOne": [
   {
    "brand": "Fox_and_Sheep",
@@ -77107,6 +77190,20 @@
    "model": "GK133"
   }
  ],
+ "GK133D24": [
+  {
+   "brand": "Ghia",
+   "device": "GK133D24",
+   "model": "GK133D24"
+  }
+ ],
+ "GK133M24": [
+  {
+   "brand": "Ghia",
+   "device": "GK133M24",
+   "model": "GK133M24"
+  }
+ ],
  "GK133M3": [
   {
    "brand": "Ghia",
@@ -77121,6 +77218,20 @@
    "model": "GK133N3"
   }
  ],
+ "GK133P24": [
+  {
+   "brand": "Ghia",
+   "device": "GK133P24",
+   "model": "GK133P24"
+  }
+ ],
+ "GK133S24": [
+  {
+   "brand": "Ghia",
+   "device": "GK133S24",
+   "model": "GK133S24"
+  }
+ ],
  "GK133S3": [
   {
    "brand": "Ghia",
@@ -77133,6 +77244,13 @@
    "brand": "Ghia",
    "device": "GK133T3",
    "model": "GK133T3"
+  }
+ ],
+ "GK133U24": [
+  {
+   "brand": "Ghia",
+   "device": "GK133U24",
+   "model": "GK133U24"
   }
  ],
  "GK133V3": [
@@ -77154,6 +77272,13 @@
    "brand": "Ghia",
    "device": "GPND133",
    "model": "GPND133"
+  }
+ ],
+ "GPND133V4": [
+  {
+   "brand": "Ghia",
+   "device": "GPND133V4",
+   "model": "GPND133V4"
   }
  ],
  "GS3G": [
@@ -81969,6 +82094,20 @@
    "brand": "HMD",
    "device": "RCK",
    "model": "HMD Aura"
+  }
+ ],
+ "HMD Fusion": [
+  {
+   "brand": "HMD",
+   "device": "NHK",
+   "model": "HMD Fusion"
+  }
+ ],
+ "HMD Fusion Business Edition": [
+  {
+   "brand": "HMD",
+   "device": "NHK",
+   "model": "HMD Fusion Business Edition"
   }
  ],
  "HMD Pulse": [
@@ -92070,6 +92209,11 @@
    "brand": "Hisense",
    "device": "HLTE109E",
    "model": "Hisense M71 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE109E",
+   "model": "Hisense U62 Pro"
   },
   {
    "brand": "Hisense",
@@ -114988,6 +115132,13 @@
    "model": "R500_EEA"
   }
  ],
+ "R500 US": [
+  {
+   "brand": "JUEDUR",
+   "device": "R500_US",
+   "model": "R500_US"
+  }
+ ],
  "R800_EEA": [
   {
    "brand": "JUEDUR",
@@ -131861,6 +132012,13 @@
    "model": "MID_1090IPSV9"
   }
  ],
+ "MID_1099IPS_V13": [
+  {
+   "brand": "Laser",
+   "device": "MID_1099IPS_V13",
+   "model": "MID_1099IPS"
+  }
+ ],
  "MID_785": [
   {
    "brand": "Laser",
@@ -131914,6 +132072,13 @@
   {
    "brand": "Laser",
    "device": "MID_799IPS",
+   "model": "MID_799IPS"
+  }
+ ],
+ "MID_799IPS_V13": [
+  {
+   "brand": "Laser",
+   "device": "MID_799IPS_V13",
    "model": "MID_799IPS"
   }
  ],
@@ -163775,6 +163940,13 @@
    "model": "S5501L"
   }
  ],
+ "N12": [
+  {
+   "brand": "Nuu",
+   "device": "S6008LA",
+   "model": "S6008L"
+  }
+ ],
  "N13": [
   {
    "brand": "Nuu",
@@ -164872,6 +165044,13 @@
    "brand": "OSCAL",
    "device": "Tiger12",
    "model": "TIGER 12"
+  }
+ ],
+ "TIGER 13": [
+  {
+   "brand": "OSCAL",
+   "device": "TIGER_13",
+   "model": "TIGER 13"
   }
  ],
  "Tiger 10": [
@@ -178288,6 +178467,13 @@
    "model": "P70"
   }
  ],
+ "P8Pro": [
+  {
+   "brand": "Plimpton",
+   "device": "P8Pro",
+   "model": "P8Pro"
+  }
+ ],
  "P8ProA14": [
   {
    "brand": "Plimpton",
@@ -179348,6 +179534,11 @@
   {
    "brand": "Polestar",
    "device": "ihu_abl_car",
+   "model": "Polestar"
+  },
+  {
+   "brand": "Polestar",
+   "device": "moose",
    "model": "Polestar"
   }
  ],
@@ -183361,6 +183552,20 @@
   {
    "brand": "Pritom",
    "device": "L8_B02_EEA",
+   "model": "L8"
+  }
+ ],
+ "L8_B03": [
+  {
+   "brand": "Pritom",
+   "device": "L8_B03",
+   "model": "L8"
+  }
+ ],
+ "L8_B03_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "L8_B03_EEA",
    "model": "L8"
   }
  ],
@@ -194479,6 +194684,13 @@
    "brand": "SUPERSONIC",
    "device": "SC_774KT",
    "model": "SC_774KT"
+  }
+ ],
+ "SC_779KT": [
+  {
+   "brand": "SUPERSONIC",
+   "device": "SC_779KT",
+   "model": "SC-779KT"
   }
  ],
  "TAB7091": [
@@ -240926,6 +241138,13 @@
    "model": "TECNO BG7n"
   }
  ],
+ "TECNO SPARK 30": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL6",
+   "model": "TECNO KL6"
+  }
+ ],
  "TECNO SPARK 30 5G": [
   {
    "brand": "Tecno",
@@ -242217,13 +242436,6 @@
    "brand": "TeloSystems",
    "device": "TE590P_U",
    "model": "TE590P"
-  }
- ],
- "M10P": [
-  {
-   "brand": "Telpo",
-   "device": "M10",
-   "model": "M10 for arm64"
   }
  ],
  "M1K": [
@@ -248937,6 +249149,13 @@
    "brand": "VIOS",
    "device": "VTAB7",
    "model": "VTAB7"
+  }
+ ],
+ "VTABX": [
+  {
+   "brand": "VIOS",
+   "device": "VTABX",
+   "model": "VTABX"
   }
  ],
  "SZ11MK1": [
@@ -257503,6 +257722,11 @@
   {
    "brand": "Volvo",
    "device": "ihu_abl_car",
+   "model": "Volvo"
+  },
+  {
+   "brand": "Volvo",
+   "device": "moose",
    "model": "Volvo"
   }
  ],
@@ -269096,13 +269320,6 @@
    "brand": "ZTE",
    "device": "crane-zte7",
    "model": "K75"
-  }
- ],
- "K81": [
-  {
-   "brand": "ZTE",
-   "device": "helen",
-   "model": "K81"
   }
  ],
  "K813": [

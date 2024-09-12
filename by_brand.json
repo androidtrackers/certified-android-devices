@@ -7919,6 +7919,16 @@
    "model": "EM101B_EEA"
   },
   {
+   "device": "EM101C",
+   "name": "EM101C",
+   "model": "EM101C"
+  },
+  {
+   "device": "EM101C_EEA",
+   "name": "EM101C_EEA",
+   "model": "EM101C_EEA"
+  },
+  {
    "device": "EM103A",
    "name": "EM103A",
    "model": "EM103A"
@@ -12695,6 +12705,11 @@
    "device": "P80W",
    "name": "P80W",
    "model": "P80W"
+  },
+  {
+   "device": "P81M",
+   "name": "P81M",
+   "model": "P81M"
   },
   {
    "device": "P81W",
@@ -27384,6 +27399,16 @@
    "model": "CM91_EEA"
   },
   {
+   "device": "CM92_EEA",
+   "name": "CM92_EEA",
+   "model": "CM92"
+  },
+  {
+   "device": "CM93",
+   "name": "CM93",
+   "model": "CM93"
+  },
+  {
    "device": "P100",
    "name": "P100",
    "model": "P100"
@@ -29492,6 +29517,11 @@
    "device": "K80",
    "name": "K80",
    "model": "K80"
+  },
+  {
+   "device": "K81",
+   "name": "K81",
+   "model": "K81"
   },
   {
    "device": "LA703R",
@@ -35134,6 +35164,11 @@
    "device": "TAB20_US",
    "name": "TAB20_US",
    "model": "TAB20_US"
+  },
+  {
+   "device": "TAB8_US",
+   "name": "TAB8_US",
+   "model": "TAB8_US"
   }
  ],
  "DiDi (Japan)": [
@@ -41292,6 +41327,11 @@
    "model": "EID-1400"
   },
   {
+   "device": "EID_1050",
+   "name": "EID_1050",
+   "model": "EID-1050"
+  },
+  {
    "device": "EID_1061",
    "name": "EID_1061",
    "model": "EID-1061"
@@ -45738,6 +45778,11 @@
  ],
  "Fox_and_Sheep": [
   {
+   "device": "Kidstablet1",
+   "name": "Kidstablet1",
+   "model": "Kidstablet_231"
+  },
+  {
    "device": "KidstabletOne",
    "name": "KidstabletOne",
    "model": "KidstabletOne"
@@ -49087,6 +49132,16 @@
    "model": "GK133"
   },
   {
+   "device": "GK133D24",
+   "name": "GK133D24",
+   "model": "GK133D24"
+  },
+  {
+   "device": "GK133M24",
+   "name": "GK133M24",
+   "model": "GK133M24"
+  },
+  {
    "device": "GK133M3",
    "name": "GK133M3",
    "model": "GK133M3"
@@ -49097,6 +49152,16 @@
    "model": "GK133N3"
   },
   {
+   "device": "GK133P24",
+   "name": "GK133P24",
+   "model": "GK133P24"
+  },
+  {
+   "device": "GK133S24",
+   "name": "GK133S24",
+   "model": "GK133S24"
+  },
+  {
    "device": "GK133S3",
    "name": "GK133S3",
    "model": "GK133S3"
@@ -49105,6 +49170,11 @@
    "device": "GK133T3",
    "name": "GK133T3",
    "model": "GK133T3"
+  },
+  {
+   "device": "GK133U24",
+   "name": "GK133U24",
+   "model": "GK133U24"
   },
   {
    "device": "GK133V3",
@@ -49120,6 +49190,11 @@
    "device": "GPND133",
    "name": "GPND133",
    "model": "GPND133"
+  },
+  {
+   "device": "GPND133V4",
+   "name": "GPND133V4",
+   "model": "GPND133V4"
   },
   {
    "device": "GS3G",
@@ -52644,6 +52719,16 @@
    "device": "RCK",
    "name": "HMD Aura",
    "model": "HMD Aura"
+  },
+  {
+   "device": "NHK",
+   "name": "HMD Fusion",
+   "model": "HMD Fusion"
+  },
+  {
+   "device": "NHK",
+   "name": "HMD Fusion Business Edition",
+   "model": "HMD Fusion Business Edition"
   },
   {
    "device": "LGD",
@@ -61178,6 +61263,11 @@
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
    "model": "Hisense M71 Pro"
+  },
+  {
+   "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U62 Pro"
   },
   {
    "device": "HLTE109E",
@@ -81534,6 +81624,11 @@
    "model": "R500_EEA"
   },
   {
+   "device": "R500_US",
+   "name": "R500 US",
+   "model": "R500_US"
+  },
+  {
    "device": "R800_EEA",
    "name": "R800_EEA",
    "model": "R800_EEA"
@@ -96558,6 +96653,11 @@
    "model": "MID_1090IPSV9"
   },
   {
+   "device": "MID_1099IPS_V13",
+   "name": "MID_1099IPS_V13",
+   "model": "MID_1099IPS"
+  },
+  {
    "device": "MID_785",
    "name": "MID_785",
    "model": "MID_785"
@@ -96595,6 +96695,11 @@
   {
    "device": "MID_799IPS",
    "name": "MID_799IPS",
+   "model": "MID_799IPS"
+  },
+  {
+   "device": "MID_799IPS_V13",
+   "name": "MID_799IPS_V13",
    "model": "MID_799IPS"
   },
   {
@@ -123900,6 +124005,11 @@
    "model": "S6503L"
   },
   {
+   "device": "S6008LA",
+   "name": "N12",
+   "model": "S6008L"
+  },
+  {
    "device": "S6514LA",
    "name": "N13",
    "model": "S6514L"
@@ -124911,6 +125021,11 @@
    "device": "Tiger12",
    "name": "TIGER 12",
    "model": "TIGER 12"
+  },
+  {
+   "device": "TIGER_13",
+   "name": "TIGER 13",
+   "model": "TIGER 13"
   },
   {
    "device": "Tiger10",
@@ -136112,6 +136227,11 @@
    "model": "P8"
   },
   {
+   "device": "P8Pro",
+   "name": "P8Pro",
+   "model": "P8Pro"
+  },
+  {
    "device": "P8ProA14",
    "name": "P8ProA14",
    "model": "P8Pro"
@@ -136957,6 +137077,11 @@
  "Polestar": [
   {
    "device": "ihu_abl_car",
+   "name": "Polestar",
+   "model": "Polestar"
+  },
+  {
+   "device": "moose",
    "name": "Polestar",
    "model": "Polestar"
   },
@@ -139960,6 +140085,11 @@
  ],
  "Pritom": [
   {
+   "device": "L8_B03_Kids",
+   "name": "USA",
+   "model": "L8"
+  },
+  {
    "device": "1AZ2P_eea",
    "name": "1AZ2P_eea",
    "model": "1AZ2P_eea"
@@ -140127,6 +140257,16 @@
   {
    "device": "L8_B02_EEA",
    "name": "L8_B02_EEA",
+   "model": "L8"
+  },
+  {
+   "device": "L8_B03",
+   "name": "L8_B03",
+   "model": "L8"
+  },
+  {
+   "device": "L8_B03_EEA",
+   "name": "L8_B03_EEA",
    "model": "L8"
   },
   {
@@ -149486,6 +149626,11 @@
    "device": "SC_774KT",
    "name": "SC_774KT",
    "model": "SC_774KT"
+  },
+  {
+   "device": "SC_779KT",
+   "name": "SC_779KT",
+   "model": "SC-779KT"
   },
   {
    "device": "kanda",
@@ -190796,6 +190941,11 @@
    "model": "TECNO BG7n"
   },
   {
+   "device": "TECNO-KL6",
+   "name": "TECNO SPARK 30",
+   "model": "TECNO KL6"
+  },
+  {
    "device": "TECNO-KL8",
    "name": "TECNO SPARK 30 5G",
    "model": "TECNO KL8"
@@ -191971,7 +192121,7 @@
   },
   {
    "device": "M10",
-   "name": "M10P",
+   "name": "M10",
    "model": "M10 for arm64"
   },
   {
@@ -197795,6 +197945,11 @@
    "device": "VTAB7",
    "name": "VTAB7",
    "model": "VTAB7"
+  },
+  {
+   "device": "VTABX",
+   "name": "VTABX",
+   "model": "VTABX"
   }
  ],
  "VIPER": [
@@ -204863,6 +205018,11 @@
    "model": "Volvo"
   },
   {
+   "device": "moose",
+   "name": "Volvo",
+   "model": "Volvo"
+  },
+  {
    "device": "ihu_emulator",
    "name": "Volvo XC40 Emulator",
    "model": "Volvo XC40"
@@ -208656,6 +208816,11 @@
   }
  ],
  "Wintouch": [
+  {
+   "device": "A20",
+   "name": "A20",
+   "model": "A20"
+  },
   {
    "device": "A50",
    "name": "A50",
