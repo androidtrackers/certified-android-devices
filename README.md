@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-13
+Last sync is 2024-09-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -174,9 +174,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_PAD_T1|AGM_PAD_T1|AGM_PAD_T1|
 |AGM Mobile|AGM_PAD_T1_WIFI|AGM_PAD_T1_WIFI|AGM_PAD_T1|
 |AGM Mobile|AGM_X6|AGM_X6_EEA|AGM_X6|
+|AGM Mobile|AGM_X6|AGM_X6_ROW|AGM_X6|
 |AGM Mobile|AGM_X6|AGM_X6_RU|AGM_X6|
 |AGM Mobile|Android_Rugged|Android_Rugged|Android_Rugged|
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
+|AGNO|TAIG717A|TAIG717A|TA_G717|
 |AG_Neovo|MeetBoard_4|MeetBoard_4|MeetBoard_4|
 |AHA(A)|IFPD|AHA_ULTRA_RK3588|Hybrid_8600|
 |AIDATA|ADT-R10TME|ADT-R10TME|ADT-R10TME|
@@ -198,6 +200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALPHA_LING|A97GT|A97GT|A97GT|
 |ALPHA_LING|A97GT_Pro|A97GT_Pro|A97GT_Pro|
 |ALPHA_LING|P10SU_PLUS|P10SU_PLUS|P10SU_PLUS|
+|ALPINE|INE-AX809|INE-AX809|INE-AX809|
 |ALPINE|Intelligent vehicle network system|INE-AW409S|INE-AW409S|
 |ALT.mive|Kids Phone|odin|AT-M130|
 |ALT.mive|Style Folder|thor|AT-M120|
@@ -4774,6 +4777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|P12W_EEA|P12W_EEA|P12W_EEA|
 |CWOWDEFU|P15W|P15W|P15W|
 |CWOWDEFU|P15W_EEA|P15W_EEA|P15W_EEA|
+|CWOWDEFU|P16-C|P16-C|P16|
 |CWOWDEFU|P16-C|P16-C|P16-C|
 |CWOWDEFU|P20L|P20L|P20L|
 |CWOWDEFU|P20L ROW|P20L|P20L|
@@ -6057,6 +6061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-Z5|L790|Core-Z5|
 |Crosscall|Core-Z5|L790_02|Core-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
+|Crosscall|Stellar-M6|L768|Stellar-M6|
 |Crosscall|Stellar-X5|L780|Stellar-X5|
 |Crosscall|TREKKER- X3|HS8952QC|TREKKER-X3|
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
@@ -9838,6 +9843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Google Automotive Emulator|emulator_car64_x86_64|Android SDK built for x86_64|
 |Google|Google Automotive Emulator|emulator_car64_x86_64|Car on x86_64 emulator|
 |Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
+|Google|Google TV Streamer|kirkwood|Google TV Streamer|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
 |Google|Intel Alder Lake Chromebox|brask_cheets|brask|
 |Google|Intel Alder Lake-N Chromebook|nissa_cheets|nissa|
@@ -12251,6 +12257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|70eLGN|dblack_go|Dolphin 70e Black|
 |Honeywell|70eLW0|dblack_wo|Dolphin 70e Black|
 |Honeywell|70eLWN|dblack_wn|Dolphin 70e Black|
+|Honeywell|CK62|CK62|CK62|
 |Honeywell|CK65|CK65-L0-C|CK65|
 |Honeywell|CK65|CK65-L0-N|CK65|
 |Honeywell|CK67|CK67|CK67|
@@ -16276,6 +16283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|EcoTVISDB|lavender|EcoTV|
 |KTC|KTC|mountbaker|2K SMART TV|
 |KTC|SD_GM01|Capricorn|Eco Smart Display|
+|KTC|W83B-LANGO3576|W83B-F2-RK3576|W83B-F2-RK3576|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|ADSUN|stanford|2K SMART TV|
@@ -16931,6 +16939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kurio|K01023|K01023|K01023|
 |Kurio|K01023|K01023|KURIO_01023|
 |Kurio|K01023US|K01023US|K01023US|
+|Kurio|K01524|K01524|K01524|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S2|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S2_EEA|
@@ -25436,6 +25445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|OT11_ROW|OT11|OT11|
 |Oukitel|OT12_EEA|OT12|OT12|
 |Oukitel|OT12_ROW|OT12|OT12|
+|Oukitel|OT15_EEA|OT15|OT15|
 |Oukitel|OT5_EEA|OT5|OT5|
 |Oukitel|OT5_S_EEA|OT5_S|OT5 S|
 |Oukitel|OT6_EEA|OT6|OT6|
@@ -34938,6 +34948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s 4G|Odin|9080X|
 |TCL|TCL TAB 10s 5G|Odin_5G|9183G|
 |TCL|TCL TAB 11|Eternals11|9466X|
+|TCL|TCL TAB 11 FE|Ares_11_WIFI|9465X|
 |TCL|TCL TAB 11 LTE|Eternals11|9166G|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X2|
@@ -37203,6 +37214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 30 5G|TECNO-KL8|TECNO KL8|
 |Tecno|TECNO SPARK 30 5G|TECNO-KL8s|TECNO KL8s|
 |Tecno|TECNO SPARK 30C|TECNO-KL5n|TECNO KL5n|
+|Tecno|TECNO SPARK 30C|TECNO-KL5s|TECNO KL5s|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
@@ -37687,6 +37699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TM-TAB1085|TM-TAB1085|TM-TAB1085|
 |Touchmate|TM_MID792WP|TM_MID792WP|TM-MID792WP|
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
+|Touchview Interactive|SD_ODMGM02|TouchView_Companion|TouchView Companion|
 |Touchview Interactive|TVULTRA98_G5|TVULTRA98_G5|TVULTRA98_G5|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
@@ -40279,6 +40292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WALTON GSMART 4KTV FF|SW6H|WALTON GSMART 4KTV FF|
 |Walton|WALTON GSMART 4KTV FF|anaheim|WALTON GSMART 4KTV FF|
 |Walton|WAS2KA11|IAD|WAS2KA11|
+|Walton|Walpad10HProMax|Walpad10HProMax|Walpad10HProMax|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Walton|XANON X20|XANON_X20|XANON X20|
 |Walton|XANON_X90|XANON_X90|XANON X90|
@@ -43165,6 +43179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Z50S Pro|PQ82A02|NX713J|
 |ZTE|nubia Z60 Ultra|PQ83A01|NX721J|
 |ZTE|nubia Z60 Ultra|PQ83F01|NX721J|
+|ZTE|nubia Z60S Pro|PQ82A04|NX725J|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|
@@ -44346,6 +44361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Note 50|RE5C9F|RMX3834|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
+|realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad X|RE5496|RMP2108|

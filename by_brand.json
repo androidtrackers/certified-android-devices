@@ -904,6 +904,11 @@
    "model": "AGM_X6"
   },
   {
+   "device": "AGM_X6_ROW",
+   "name": "AGM_X6",
+   "model": "AGM_X6"
+  },
+  {
    "device": "AGM_X6_RU",
    "name": "AGM_X6",
    "model": "AGM_X6"
@@ -917,6 +922,13 @@
    "device": "Android_Tablet",
    "name": "Android_Tablet",
    "model": "Android_Tablet"
+  }
+ ],
+ "AGNO": [
+  {
+   "device": "TAIG717A",
+   "name": "TAIG717A",
+   "model": "TA_G717"
   }
  ],
  "AG_Neovo": [
@@ -1043,6 +1055,11 @@
   }
  ],
  "ALPINE": [
+  {
+   "device": "INE-AX809",
+   "name": "INE-AX809",
+   "model": "INE-AX809"
+  },
   {
    "device": "INE-AW409S",
    "name": "Intelligent vehicle network system",
@@ -24702,6 +24719,11 @@
   {
    "device": "P16-C",
    "name": "P16-C",
+   "model": "P16"
+  },
+  {
+   "device": "P16-C",
+   "name": "P16-C",
    "model": "P16-C"
   },
   {
@@ -31337,6 +31359,11 @@
    "device": "ODYSSEY3G",
    "name": "ODYSSEY",
    "model": "ODYSSEY"
+  },
+  {
+   "device": "L768",
+   "name": "Stellar-M6",
+   "model": "Stellar-M6"
   },
   {
    "device": "L780",
@@ -51142,6 +51169,11 @@
    "model": "HPE device"
   },
   {
+   "device": "kirkwood",
+   "name": "Google TV Streamer",
+   "model": "Google TV Streamer"
+  },
+  {
    "device": "brya_cheets",
    "name": "Intel Alder Lake Chromebook",
    "model": "brya"
@@ -63427,6 +63459,11 @@
    "device": "dblack_wn",
    "name": "70eLWN",
    "model": "Dolphin 70e Black"
+  },
+  {
+   "device": "CK62",
+   "name": "CK62",
+   "model": "CK62"
   },
   {
    "device": "CK65-L0-C",
@@ -83942,6 +83979,11 @@
    "device": "Capricorn",
    "name": "SD_GM01",
    "model": "Eco Smart Display"
+  },
+  {
+   "device": "W83B-F2-RK3576",
+   "name": "W83B-LANGO3576",
+   "model": "W83B-F2-RK3576"
   }
  ],
  "KTC (PD)": [
@@ -87349,6 +87391,11 @@
    "device": "K01023US",
    "name": "K01023US",
    "model": "K01023US"
+  },
+  {
+   "device": "K01524",
+   "name": "K01524",
+   "model": "K01524"
   },
   {
    "device": "U3A_7_WIFI_Refresh_KD",
@@ -130876,6 +130923,11 @@
    "device": "OT12",
    "name": "OT12_ROW",
    "model": "OT12"
+  },
+  {
+   "device": "OT15",
+   "name": "OT15_EEA",
+   "model": "OT15"
   },
   {
    "device": "OT5",
@@ -179440,6 +179492,11 @@
    "model": "9466X"
   },
   {
+   "device": "Ares_11_WIFI",
+   "name": "TCL TAB 11 FE",
+   "model": "9465X"
+  },
+  {
    "device": "Eternals11",
    "name": "TCL TAB 11 LTE",
    "model": "9166G"
@@ -190961,6 +191018,11 @@
    "model": "TECNO KL5n"
   },
   {
+   "device": "TECNO-KL5s",
+   "name": "TECNO SPARK 30C",
+   "model": "TECNO KL5s"
+  },
+  {
    "device": "TECNO-KC2",
    "name": "TECNO SPARK 4",
    "model": "TECNO KC2"
@@ -193514,6 +193576,11 @@
   }
  ],
  "Touchview Interactive": [
+  {
+   "device": "TouchView_Companion",
+   "name": "SD_ODMGM02",
+   "model": "TouchView Companion"
+  },
   {
    "device": "TVULTRA98_G5",
    "name": "TVULTRA98_G5",
@@ -206889,6 +206956,11 @@
    "device": "IAD",
    "name": "WAS2KA11",
    "model": "WAS2KA11"
+  },
+  {
+   "device": "Walpad10HProMax",
+   "name": "Walpad10HProMax",
+   "model": "Walpad10HProMax"
   },
   {
    "device": "Primo_X5",
@@ -221587,6 +221659,11 @@
    "model": "NX721J"
   },
   {
+   "device": "PQ82A04",
+   "name": "nubia Z60S Pro",
+   "model": "NX725J"
+  },
+  {
    "device": "sapphire4g",
    "name": "sapphire lte",
    "model": "Z3001S"
@@ -227826,6 +227903,11 @@
    "device": "RE5C84L1",
    "name": "realme P1 Pro 5G",
    "model": "RMX3844"
+  },
+  {
+   "device": "RE5CA3L1",
+   "name": "realme P2 Pro 5G",
+   "model": "RMX3987"
   },
   {
    "device": "RE5C6EL1",

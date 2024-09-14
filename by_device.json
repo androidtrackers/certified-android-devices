@@ -3335,6 +3335,13 @@
    "model": "AGM_X6"
   }
  ],
+ "AGM_X6_ROW": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM_X6",
+   "model": "AGM_X6"
+  }
+ ],
  "AGM_X6_RU": [
   {
    "brand": "AGM Mobile",
@@ -3354,6 +3361,13 @@
    "brand": "AGM Mobile",
    "name": "Android_Tablet",
    "model": "Android_Tablet"
+  }
+ ],
+ "TAIG717A": [
+  {
+   "brand": "AGNO",
+   "name": "TAIG717A",
+   "model": "TA_G717"
   }
  ],
  "MeetBoard_4": [
@@ -4524,6 +4538,13 @@
    "brand": "ALPHA_LING",
    "name": "P10SU_PLUS",
    "model": "P10SU_PLUS"
+  }
+ ],
+ "INE-AX809": [
+  {
+   "brand": "ALPINE",
+   "name": "INE-AX809",
+   "model": "INE-AX809"
   }
  ],
  "INE-AW409S": [
@@ -43418,6 +43439,11 @@
   {
    "brand": "CWOWDEFU",
    "name": "P16-C",
+   "model": "P16"
+  },
+  {
+   "brand": "CWOWDEFU",
+   "name": "P16-C",
    "model": "P16-C"
   }
  ],
@@ -52564,6 +52590,13 @@
    "brand": "Crosscall",
    "name": "ODYSSEY",
    "model": "ODYSSEY"
+  }
+ ],
+ "L768": [
+  {
+   "brand": "Crosscall",
+   "name": "Stellar-M6",
+   "model": "Stellar-M6"
   }
  ],
  "L780": [
@@ -78756,6 +78789,13 @@
    "model": "HPE device"
   }
  ],
+ "kirkwood": [
+  {
+   "brand": "Google",
+   "name": "Google TV Streamer",
+   "model": "Google TV Streamer"
+  }
+ ],
  "brya_cheets": [
   {
    "brand": "Google",
@@ -92879,6 +92919,13 @@
    "brand": "Honeywell",
    "name": "Dolphin 70e Black",
    "model": "Dolphin 70e Black"
+  }
+ ],
+ "CK62": [
+  {
+   "brand": "Honeywell",
+   "name": "CK62",
+   "model": "CK62"
   }
  ],
  "CK65-L0-C": [
@@ -116725,6 +116772,13 @@
    "model": "Eco Smart Display"
   }
  ],
+ "W83B-F2-RK3576": [
+  {
+   "brand": "KTC",
+   "name": "W83B-LANGO3576",
+   "model": "W83B-F2-RK3576"
+  }
+ ],
  "BLISS503": [
   {
    "brand": "KTC (PD)",
@@ -119956,6 +120010,13 @@
    "brand": "Kurio",
    "name": "K01023US",
    "model": "K01023US"
+  }
+ ],
+ "K01524": [
+  {
+   "brand": "Kurio",
+   "name": "K01524",
+   "model": "K01524"
   }
  ],
  "U3A_7_WIFI_Refresh_KD": [
@@ -172728,6 +172789,13 @@
    "brand": "Oukitel",
    "name": "OT12_ROW",
    "model": "OT12"
+  }
+ ],
+ "OT15": [
+  {
+   "brand": "Oukitel",
+   "name": "OT15_EEA",
+   "model": "OT15"
   }
  ],
  "OT5": [
@@ -231410,6 +231478,13 @@
    "model": "9183G"
   }
  ],
+ "Ares_11_WIFI": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11 FE",
+   "model": "9465X"
+  }
+ ],
  "U3A_7_WIFI_Refresh": [
   {
    "brand": "TCL",
@@ -243081,6 +243156,13 @@
    "model": "TECNO KL5n"
   }
  ],
+ "TECNO-KL5s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 30C",
+   "model": "TECNO KL5s"
+  }
+ ],
  "TECNO-KC2": [
   {
    "brand": "Tecno",
@@ -245835,6 +245917,13 @@
    "brand": "Touchmate",
    "name": "TOUCHMATE-TM-MID811A",
    "model": "TOUCHMATE-TM-MID811A"
+  }
+ ],
+ "TouchView_Companion": [
+  {
+   "brand": "Touchview Interactive",
+   "name": "SD_ODMGM02",
+   "model": "TouchView Companion"
   }
  ],
  "TVULTRA98_G5": [
@@ -261146,6 +261235,13 @@
    "brand": "Walton",
    "name": "WALPAD 8G",
    "model": "WALPAD_8G"
+  }
+ ],
+ "Walpad10HProMax": [
+  {
+   "brand": "Walton",
+   "name": "Walpad10HProMax",
+   "model": "Walpad10HProMax"
   }
  ],
  "Primo_X5": [
@@ -277340,6 +277436,13 @@
    "model": "NX721J"
   }
  ],
+ "PQ82A04": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z60S Pro",
+   "model": "NX725J"
+  }
+ ],
  "sapphire4g": [
   {
    "brand": "ZTE",
@@ -283794,6 +283897,11 @@
    "brand": "realme",
    "name": "realme 13 Pro+ 5G",
    "model": "RMX3921"
+  },
+  {
+   "brand": "realme",
+   "name": "realme P2 Pro 5G",
+   "model": "RMX3987"
   }
  ],
  "RMX2061L1": [
