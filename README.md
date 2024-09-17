@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-16
+Last sync is 2024-09-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16978,6 +16978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO SANGA edition|KC-S304|KC-S304|
 |Kyocera|DIGNO SX2|KY21L-ST100|KC-S302|
 |Kyocera|DIGNO SX3|KY22L-ST200|KYG02|
+|Kyocera|DIGNO SX4 Wi-Fi|KY24L-ST300|KC-S205|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
 |Kyocera|DIGNO V|KYV42|KYV42_u|
@@ -24356,6 +24357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odea|A10_EEA|A10_EEA|A10|
 |Odea|A10_ROW|A10_ROW|A10|
 |Odea|A11_ROW|A11_ROW|A11|
+|Odea|A12_EEA|A12_EEA|A12|
 |Odea|A12_ROW|A12_ROW|A12|
 |Odea|S11_EEA|S11_EEA|S11|
 |Odea|S11_ROW|S11_ROW|S11|

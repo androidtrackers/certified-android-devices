@@ -120327,6 +120327,13 @@
    "model": "KYG02"
   }
  ],
+ "KY24L-ST300": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO SX4 Wi-Fi",
+   "model": "KC-S205"
+  }
+ ],
  "302KC": [
   {
    "brand": "Kyocera",
@@ -166023,6 +166030,13 @@
    "brand": "Odea",
    "name": "A11_ROW",
    "model": "A11"
+  }
+ ],
+ "A12_EEA": [
+  {
+   "brand": "Odea",
+   "name": "A12_EEA",
+   "model": "A12"
   }
  ],
  "A12_ROW": [

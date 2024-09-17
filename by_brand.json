@@ -87590,6 +87590,11 @@
    "model": "KYG02"
   },
   {
+   "device": "KY24L-ST300",
+   "name": "DIGNO SX4 Wi-Fi",
+   "model": "KC-S205"
+  },
+  {
    "device": "302KC",
    "name": "DIGNO T",
    "model": "302KC"
@@ -125402,6 +125407,11 @@
    "device": "A11_ROW",
    "name": "A11_ROW",
    "model": "A11"
+  },
+  {
+   "device": "A12_EEA",
+   "name": "A12_EEA",
+   "model": "A12"
   },
   {
    "device": "A12_ROW",
