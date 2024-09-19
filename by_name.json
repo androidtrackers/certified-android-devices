@@ -10060,6 +10060,13 @@
    "model": "Funtab_1002_EEA"
   }
  ],
+ "Funtab_1003_US": [
+  {
+   "brand": "AWOW",
+   "device": "Funtab_1003_US",
+   "model": "Funtab_1003_US"
+  }
+ ],
  "Funtab_801_I": [
   {
    "brand": "AWOW",
@@ -10847,6 +10854,13 @@
    "brand": "Acepad",
    "device": "A170",
    "model": "A170"
+  }
+ ],
+ "A171_14": [
+  {
+   "brand": "Acepad",
+   "device": "A171_14",
+   "model": "A171_14"
   }
  ],
  "AX1": [
@@ -28279,6 +28293,13 @@
    "model": "T3"
   }
  ],
+ "BARTEC SC9EX1 Smartscanner": [
+  {
+   "brand": "BARTEC",
+   "device": "SC9EX1",
+   "model": "SC9EX1"
+  }
+ ],
  "BARTEC SP9EX1 Smartphone": [
   {
    "brand": "BARTEC",
@@ -33669,6 +33690,11 @@
   {
    "brand": "Biegedy",
    "device": "B23_U_US",
+   "model": "B23_US"
+  },
+  {
+   "brand": "Biegedy",
+   "device": "B23_U_US",
    "model": "B23_U_US"
   }
  ],
@@ -35962,6 +35988,13 @@
    "model": "SHARK 8"
   }
  ],
+ "SHARK 9": [
+  {
+   "brand": "Blackview",
+   "device": "SHARK_9",
+   "model": "SHARK 9"
+  }
+ ],
  "SOLID-4G3": [
   {
    "brand": "Blackview",
@@ -36168,6 +36201,13 @@
    "brand": "Blackview",
    "device": "Tab_A5_Kids",
    "model": "Tab A5 Kids"
+  }
+ ],
+ "Tab A6 Kids": [
+  {
+   "brand": "Blackview",
+   "device": "Tab_A6_Kids",
+   "model": "Tab A6 Kids"
   }
  ],
  "Tab10": [
@@ -37168,12 +37208,12 @@
   {
    "brand": "CAIXUN",
    "device": "martin",
-   "model": "SE 2K Android Monitor"
+   "model": "Smarttech Android Monitor"
   },
   {
-   "brand": "CAIXUN",
+   "brand": "EQUINOXE",
    "device": "martin",
-   "model": "Smarttech Android Monitor"
+   "model": "SE 2K Android Monitor"
   },
   {
    "brand": "Grunkel",
@@ -43186,6 +43226,13 @@
    "brand": "COLORROOM",
    "device": "K12-EEA",
    "model": "K12-ROW"
+  }
+ ],
+ "K12E": [
+  {
+   "brand": "COLORROOM",
+   "device": "K12E",
+   "model": "K12E"
   }
  ],
  "COMBUSTECH-IFPD": [
@@ -54462,6 +54509,13 @@
    "model": "DC-WT15"
   }
  ],
+ "E10_US": [
+  {
+   "brand": "DEERTiME",
+   "device": "E10_US",
+   "model": "E10_US"
+  }
+ ],
  "E15_EEA": [
   {
    "brand": "DEERTiME",
@@ -56402,6 +56456,13 @@
    "brand": "DMOAO",
    "device": "D5-US",
    "model": "D5-US"
+  }
+ ],
+ "D6_EEA": [
+  {
+   "brand": "DMOAO",
+   "device": "D6_EEA",
+   "model": "D6_EEA"
   }
  ],
  "DMOAO_D2_EEA": [
@@ -61111,6 +61172,13 @@
    "model": "BL7000"
   }
  ],
+ "Blade10": [
+  {
+   "brand": "Doogee",
+   "device": "F1CK",
+   "model": "Blade10"
+  }
+ ],
  "Blade10 Pro": [
   {
    "brand": "Doogee",
@@ -65004,6 +65072,13 @@
    "brand": "ELITESOFT",
    "device": "Tab101",
    "model": "Tab101"
+  }
+ ],
+ "ELXXR5G": [
+  {
+   "brand": "ELMO",
+   "device": "ELXXR5G",
+   "model": "ELXXR5X"
   }
  ],
  "10in-I-Series-4": [
@@ -109047,6 +109122,13 @@
    "model": "Infinix X6881"
   }
  ],
+ "Infinix HOT 50i": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6531B",
+   "model": "Infinix X6531B"
+  }
+ ],
  "Infinix HOT 6X": [
   {
    "brand": "Infinix",
@@ -112953,6 +113035,13 @@
    "model": "IS655"
   }
  ],
+ "IS880": [
+  {
+   "brand": "Isafe",
+   "device": "IS880",
+   "model": "IS880"
+  }
+ ],
  "IS910.1": [
   {
    "brand": "Isafe",
@@ -115184,6 +115273,13 @@
    "model": "R500_US"
   }
  ],
+ "R700_US": [
+  {
+   "brand": "JUEDUR",
+   "device": "R700_US",
+   "model": "R700_US"
+  }
+ ],
  "R800_EEA": [
   {
    "brand": "JUEDUR",
@@ -115573,6 +115669,13 @@
    "brand": "Jambo_Technology",
    "device": "JP1",
    "model": "JP1"
+  }
+ ],
+ "JamboPhone2": [
+  {
+   "brand": "Jambo_Technology",
+   "device": "JP2",
+   "model": "JP2"
   }
  ],
  "HT1": [
@@ -149429,6 +149532,13 @@
    "model": "MobiGo2L"
   }
  ],
+ "MO-T3": [
+  {
+   "brand": "MobiOcean",
+   "device": "MO-T3",
+   "model": "MO-T3"
+  }
+ ],
  "MOT102": [
   {
    "brand": "MobiOcean",
@@ -151440,6 +151550,13 @@
    "brand": "Mobiwire",
    "device": "Vodafone_Pro",
    "model": "Vodafone Pro 4G"
+  }
+ ],
+ "Éɖjròmi": [
+  {
+   "brand": "Mobiwire",
+   "device": "Edjromi",
+   "model": "Edjromi"
   }
  ],
  "TicWatch C2": [
@@ -164918,6 +165035,13 @@
    "brand": "OSCAL",
    "device": "FLAT1C",
    "model": "FLAT 1C"
+  }
+ ],
+ "FLAT 2": [
+  {
+   "brand": "OSCAL",
+   "device": "FLAT_2",
+   "model": "FLAT 2"
   }
  ],
  "MODERN 8": [
@@ -188468,6 +188592,13 @@
    "brand": "Realtime",
    "device": "RT8",
    "model": "RT8"
+  }
+ ],
+ "K50_EEA": [
+  {
+   "brand": "Rebecco",
+   "device": "K50_EEA",
+   "model": "K50_EEA"
   }
  ],
  "K50_ROW": [
@@ -240828,6 +240959,13 @@
    "model": "TECNO Mobile KG6p"
   }
  ],
+ "TECNO Mobile SPARK Go 1": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-Mobile-KL4",
+   "model": "TECNO Mobile KL4"
+  }
+ ],
  "TECNO P904": [
   {
    "brand": "Tecno",
@@ -242331,6 +242469,13 @@
    "brand": "Teleone",
    "device": "I06",
    "model": "I06"
+  }
+ ],
+ "MH700": [
+  {
+   "brand": "Telev8",
+   "device": "MH700",
+   "model": "MH700"
   }
  ],
  "DV8919X-KET": [
@@ -247914,6 +248059,20 @@
    "brand": "Umidigi",
    "device": "G9_5G",
    "model": "UMIDIGI G9 5G"
+  }
+ ],
+ "UMIDIGI G9A": [
+  {
+   "brand": "Umidigi",
+   "device": "G9A",
+   "model": "UMIDIGI G9A"
+  }
+ ],
+ "UMIDIGI G9T": [
+  {
+   "brand": "Umidigi",
+   "device": "G9T",
+   "model": "UMIDIGI G9T"
   }
  ],
  "UMIDIGI X": [
@@ -278719,6 +278878,13 @@
    "brand": "carrozzeria",
    "device": "SDA_700TAB",
    "model": "SDA-700TAB"
+  }
+ ],
+ "RZ2408": [
+  {
+   "brand": "chocoZAP",
+   "device": "RZ2408",
+   "model": "RZ2408"
   }
  ],
  "Aries_8in": [

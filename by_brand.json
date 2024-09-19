@@ -2006,6 +2006,11 @@
    "model": "Funtab_1002_EEA"
   },
   {
+   "device": "Funtab_1003_US",
+   "name": "Funtab_1003_US",
+   "model": "Funtab_1003_US"
+  },
+  {
    "device": "Funtab_801_I",
    "name": "Funtab_801_I",
    "model": "Funtab_801_I"
@@ -2431,6 +2436,11 @@
    "device": "A170",
    "name": "A170",
    "model": "A170"
+  },
+  {
+   "device": "A171_14",
+   "name": "A171_14",
+   "model": "A171_14"
   },
   {
    "device": "AX1",
@@ -14137,6 +14147,11 @@
  ],
  "BARTEC": [
   {
+   "device": "SC9EX1",
+   "name": "BARTEC SC9EX1 Smartscanner",
+   "model": "SC9EX1"
+  },
+  {
    "device": "SP9EX1",
    "name": "BARTEC SP9EX1 Smartphone",
    "model": "SP9EX1"
@@ -17900,6 +17915,11 @@
   {
    "device": "B23_U_US",
    "name": "B23_U_US",
+   "model": "B23_US"
+  },
+  {
+   "device": "B23_U_US",
+   "name": "B23_U_US",
    "model": "B23_U_US"
   },
   {
@@ -19365,6 +19385,11 @@
    "model": "SHARK 8"
   },
   {
+   "device": "SHARK_9",
+   "name": "SHARK 9",
+   "model": "SHARK 9"
+  },
+  {
    "device": "SOLID_4G3",
    "name": "SOLID-4G3",
    "model": "SOLID_4G3"
@@ -19518,6 +19543,11 @@
    "device": "Tab_A5_Kids",
    "name": "Tab A5 Kids",
    "model": "Tab A5 Kids"
+  },
+  {
+   "device": "Tab_A6_Kids",
+   "name": "Tab A6 Kids",
+   "model": "Tab A6 Kids"
   },
   {
    "device": "Tab_10",
@@ -23402,11 +23432,6 @@
   {
    "device": "martin",
    "name": "Europe",
-   "model": "SE 2K Android Monitor"
-  },
-  {
-   "device": "martin",
-   "name": "Europe",
    "model": "Smarttech Android Monitor"
   },
   {
@@ -24174,6 +24199,11 @@
    "device": "K12-EEA",
    "name": "K12-EEA",
    "model": "K12-ROW"
+  },
+  {
+   "device": "K12E",
+   "name": "K12E",
+   "model": "K12E"
   }
  ],
  "COMBUSTECH": [
@@ -32215,6 +32245,11 @@
  ],
  "DEERTiME": [
   {
+   "device": "E10_US",
+   "name": "E10_US",
+   "model": "E10_US"
+  },
+  {
    "device": "E15_EEA",
    "name": "E15_EEA",
    "model": "E15_EEA"
@@ -33650,6 +33685,11 @@
    "device": "D5-US",
    "name": "D5-US",
    "model": "D5-US"
+  },
+  {
+   "device": "D6_EEA",
+   "name": "D6_EEA",
+   "model": "D6_EEA"
   },
   {
    "device": "DMOAO_D2_EEA",
@@ -37095,6 +37135,11 @@
    "model": "BL7000"
   },
   {
+   "device": "F1CK",
+   "name": "Blade10",
+   "model": "Blade10"
+  },
+  {
    "device": "F1C",
    "name": "Blade10 Pro",
    "model": "Blade10 Pro"
@@ -39666,6 +39711,13 @@
    "model": "Tab101"
   }
  ],
+ "ELMO": [
+  {
+   "device": "ELXXR5G",
+   "name": "ELXXR5G",
+   "model": "ELXXR5X"
+  }
+ ],
  "ELO Touch": [
   {
    "device": "10in-I-Series-4",
@@ -40156,6 +40208,13 @@
    "device": "K503",
    "name": "k503",
    "model": "K503"
+  }
+ ],
+ "EQUINOXE": [
+  {
+   "device": "martin",
+   "name": "Europe",
+   "model": "SE 2K Android Monitor"
   }
  ],
  "ER-Telecom": [
@@ -76711,6 +76770,11 @@
    "model": "Infinix X6881"
   },
   {
+   "device": "Infinix-X6531B",
+   "name": "Infinix HOT 50i",
+   "model": "Infinix X6531B"
+  },
+  {
    "device": "Infinix-X623",
    "name": "Infinix HOT 6X",
    "model": "Infinix X623"
@@ -79833,6 +79897,11 @@
    "model": "IS655"
   },
   {
+   "device": "IS880",
+   "name": "IS880",
+   "model": "IS880"
+  },
+  {
    "device": "IS910_1",
    "name": "IS910.1",
    "model": "IS910_1"
@@ -81666,6 +81735,11 @@
    "model": "R500_US"
   },
   {
+   "device": "R700_US",
+   "name": "R700_US",
+   "model": "R700_US"
+  },
+  {
    "device": "R800_EEA",
    "name": "R800_EEA",
    "model": "R800_EEA"
@@ -82231,6 +82305,11 @@
    "device": "JP1",
    "name": "JamboPhone",
    "model": "JP1"
+  },
+  {
+   "device": "JP2",
+   "name": "JamboPhone2",
+   "model": "JP2"
   }
  ],
  "Janam": [
@@ -111510,6 +111589,11 @@
  ],
  "MobiOcean": [
   {
+   "device": "MO-T3",
+   "name": "MO-T3",
+   "model": "MO-T3"
+  },
+  {
    "device": "MOT102",
    "name": "MOT102",
    "model": "MOT102"
@@ -113060,6 +113144,11 @@
    "device": "Vodafone_Smart",
    "name": "Vodafone Smart 4G",
    "model": "Vodafone Smart 4G"
+  },
+  {
+   "device": "Edjromi",
+   "name": "Éɖjròmi",
+   "model": "Edjromi"
   }
  ],
  "Mobvoi": [
@@ -124913,6 +125002,11 @@
    "device": "FLAT1C",
    "name": "FLAT 1C",
    "model": "FLAT 1C"
+  },
+  {
+   "device": "FLAT_2",
+   "name": "FLAT 2",
+   "model": "FLAT 2"
   },
   {
    "device": "MODERN_8",
@@ -144438,6 +144532,11 @@
   }
  ],
  "Rebecco": [
+  {
+   "device": "K50_EEA",
+   "name": "K50_EEA",
+   "model": "K50_EEA"
+  },
   {
    "device": "K50_ROW",
    "name": "K50_ROW",
@@ -190708,6 +190807,11 @@
    "model": "TECNO Mobile KG6p"
   },
   {
+   "device": "TECNO-Mobile-KL4",
+   "name": "TECNO Mobile SPARK Go 1",
+   "model": "TECNO Mobile KL4"
+  },
+  {
    "device": "TECNO-P904",
    "name": "TECNO P904",
    "model": "TECNO P904"
@@ -192021,6 +192125,13 @@
    "device": "I06",
    "name": "I06",
    "model": "I06"
+  }
+ ],
+ "Telev8": [
+  {
+   "device": "MH700",
+   "name": "MH700",
+   "model": "MH700"
   }
  ],
  "Telia": [
@@ -196835,6 +196946,16 @@
    "device": "G9_5G",
    "name": "UMIDIGI G9 5G",
    "model": "UMIDIGI G9 5G"
+  },
+  {
+   "device": "G9A",
+   "name": "UMIDIGI G9A",
+   "model": "UMIDIGI G9A"
+  },
+  {
+   "device": "G9T",
+   "name": "UMIDIGI G9T",
+   "model": "UMIDIGI G9T"
   },
   {
    "device": "UMIDIGI_X",
@@ -224042,6 +224163,13 @@
    "device": "SDA_700TAB",
    "name": "SDA-700TAB",
    "model": "SDA-700TAB"
+  }
+ ],
+ "chocoZAP": [
+  {
+   "device": "RZ2408",
+   "name": "RZ2408",
+   "model": "RZ2408"
   }
  ],
  "cosmos": [
