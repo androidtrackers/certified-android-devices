@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-21
+Last sync is 2024-09-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -43255,6 +43255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
+|ZTE|zBOX 2|YMA|zBOX 2|
 |ZTE|zBox 1|YXE|zBox 1|
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
