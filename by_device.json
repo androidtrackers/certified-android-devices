@@ -5658,6 +5658,11 @@
   {
    "brand": "FPD",
    "name": "FPD",
+   "model": "EcoTV C"
+  },
+  {
+   "brand": "FPD",
+   "name": "FPD",
    "model": "EcoTV D"
   },
   {
@@ -5668,6 +5673,11 @@
   {
    "brand": "Graetz",
    "name": "GRAETZ",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
    "model": "2K SMART TV"
   },
   {
@@ -5809,6 +5819,11 @@
    "brand": "KTCtv",
    "name": "VEIRA",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIMEEL",
+   "model": "VIMEEL GOOGLE TV"
   },
   {
    "brand": "KTCtv",
@@ -7546,6 +7561,13 @@
    "brand": "ATOL",
    "name": "Smart_Prime",
    "model": "Smart_Prime"
+  }
+ ],
+ "Multifunctional_Tablet": [
+  {
+   "brand": "ATOTO",
+   "name": "X10",
+   "model": "X10"
   }
  ],
  "100011886BK": [
@@ -14227,6 +14249,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "REYNA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "STAR-TRACK",
    "model": "4K SMART TV"
   },
@@ -19751,6 +19778,11 @@
    "brand": "Apolosign",
    "name": "EP1095T_EEA",
    "model": "EP1095T"
+  },
+  {
+   "brand": "Apolosign",
+   "name": "EP1095T_EEA",
+   "model": "EP1095T_EEA"
   }
  ],
  "K109A": [
@@ -48599,6 +48631,13 @@
    "brand": "Comio",
    "name": "COMIO X1",
    "model": "Comio X1"
+  }
+ ],
+ "rk3576_u": [
+  {
+   "brand": "CommBox",
+   "name": "CommBox Classic S5",
+   "model": "CommBox_Classic_S5"
   }
  ],
  "CA22": [
@@ -161005,6 +161044,13 @@
    "model": "NETTV"
   }
  ],
+ "NEW9310Pro": [
+  {
+   "brand": "NEWPOS",
+   "name": "NEW9310Pro",
+   "model": "NEW9310Pro"
+  }
+ ],
  "NexaN5a": [
   {
    "brand": "NEXA",
@@ -195880,6 +195926,16 @@
    "brand": "Samsung",
    "name": "Galaxy A05",
    "model": "SM-A055M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F05",
+   "model": "SM-E055F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M05",
+   "model": "SM-M055F"
   }
  ],
  "a05s": [
@@ -199042,6 +199098,11 @@
    "brand": "Samsung",
    "name": "Galaxy M55 5G",
    "model": "SM-M556E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M55s 5G",
+   "model": "SM-M558B"
   }
  ],
  "c7ltechn": [
@@ -206645,6 +206706,38 @@
    "brand": "Samsung",
    "name": "Galaxy S24",
    "model": "SM-S921N"
+  }
+ ],
+ "r12s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S7210"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721W"
   }
  ],
  "SC-52E": [
@@ -245873,6 +245966,13 @@
    "model": "mdt1060"
   }
  ],
+ "mdt865": [
+  {
+   "brand": "Topicon",
+   "name": "mdt865",
+   "model": "mdt865"
+  }
+ ],
  "M8_U": [
   {
    "brand": "Topsand",
@@ -280173,6 +280273,13 @@
    "brand": "benco",
    "name": "AEOP519",
    "model": "AEOP519"
+  }
+ ],
+ "AEOP520": [
+  {
+   "brand": "benco",
+   "name": "AEOP520",
+   "model": "AEOP520"
   }
  ],
  "AH9130": [

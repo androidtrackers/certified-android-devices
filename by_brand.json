@@ -1737,6 +1737,13 @@
    "model": "Smart_Prime"
   }
  ],
+ "ATOTO": [
+  {
+   "device": "Multifunctional_Tablet",
+   "name": "X10",
+   "model": "X10"
+  }
+ ],
  "ATVIO": [
   {
    "device": "100011886BK",
@@ -7991,6 +7998,11 @@
    "device": "EP1095T",
    "name": "EP1095T_EEA",
    "model": "EP1095T"
+  },
+  {
+   "device": "EP1095T",
+   "name": "EP1095T_EEA",
+   "model": "EP1095T_EEA"
   },
   {
    "device": "K109A",
@@ -28477,6 +28489,13 @@
    "model": "Comio X1"
   }
  ],
+ "CommBox": [
+  {
+   "device": "rk3576_u",
+   "name": "CommBox Classic S5",
+   "model": "CommBox_Classic_S5"
+  }
+ ],
  "Compal": [
   {
    "device": "CA22",
@@ -44387,6 +44406,11 @@
    "device": "mountbaker",
    "name": "FPD",
    "model": "EcoTV A"
+  },
+  {
+   "device": "mountbaker",
+   "name": "FPD",
+   "model": "EcoTV C"
   },
   {
    "device": "mountbaker",
@@ -74005,6 +74029,11 @@
    "model": "4K SMART ISDB TV"
   },
   {
+   "device": "mountbaker",
+   "name": "HYUNDAI",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "HYUNDAI",
    "model": "2K SMART TV"
@@ -84625,6 +84654,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "lavender",
+   "name": "REYNA",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "ROOMI",
    "model": "4K SMART TV"
@@ -84718,6 +84752,11 @@
    "device": "lavender",
    "name": "VIMEEL",
    "model": "VIMEEL GOOGLE TV 4K"
+  },
+  {
+   "device": "mountbaker",
+   "name": "VIMEEL",
+   "model": "VIMEEL GOOGLE TV"
   },
   {
    "device": "lavender",
@@ -120721,6 +120760,13 @@
    "model": "NETTV"
   }
  ],
+ "NEWPOS": [
+  {
+   "device": "NEW9310Pro",
+   "name": "NEW9310Pro",
+   "model": "NEW9310Pro"
+  }
+ ],
  "NEWSUN": [
   {
    "device": "S13",
@@ -154305,6 +154351,11 @@
    "model": "SM-E045F"
   },
   {
+   "device": "a05m",
+   "name": "Galaxy F05",
+   "model": "SM-E055F"
+  },
+  {
    "device": "f12",
    "name": "Galaxy F12",
    "model": "SM-F127G"
@@ -156300,6 +156351,11 @@
    "model": "SM-M045F"
   },
   {
+   "device": "a05m",
+   "name": "Galaxy M05",
+   "model": "SM-M055F"
+  },
+  {
    "device": "m10lte",
    "name": "Galaxy M10",
    "model": "SM-M105F"
@@ -156558,6 +156614,11 @@
    "device": "m55xq",
    "name": "Galaxy M55 5G",
    "model": "SM-M556E"
+  },
+  {
+   "device": "m55xq",
+   "name": "Galaxy M55s 5G",
+   "model": "SM-M558B"
   },
   {
    "device": "m62",
@@ -159823,6 +159884,36 @@
    "device": "e1s",
    "name": "Galaxy S24",
    "model": "SM-S921N"
+  },
+  {
+   "device": "r12s",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S7210"
+  },
+  {
+   "device": "r12s",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721B"
+  },
+  {
+   "device": "r12s",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721N"
+  },
+  {
+   "device": "r12s",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721U"
+  },
+  {
+   "device": "r12s",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721U1"
+  },
+  {
+   "device": "r12s",
+   "name": "Galaxy S24 FE",
+   "model": "SM-S721W"
   },
   {
    "device": "SC-52E",
@@ -193418,6 +193509,11 @@
    "device": "mdt1060",
    "name": "Topicon MDT1060",
    "model": "mdt1060"
+  },
+  {
+   "device": "mdt865",
+   "name": "mdt865",
+   "model": "mdt865"
   }
  ],
  "Topsand": [
@@ -223997,6 +224093,11 @@
    "device": "AEOP519",
    "name": "AEOP519",
    "model": "AEOP519"
+  },
+  {
+   "device": "AEOP520",
+   "name": "AEOP520",
+   "model": "AEOP520"
   },
   {
    "device": "AF9010_F",

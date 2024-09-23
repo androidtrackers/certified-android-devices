@@ -9691,6 +9691,83 @@
    "model": "Smart_Prime"
   }
  ],
+ "X10": [
+  {
+   "brand": "ATOTO",
+   "device": "Multifunctional_Tablet",
+   "model": "X10"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_X10_MV03",
+   "model": "X10"
+  },
+  {
+   "brand": "Dingding",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
+   "brand": "Doogee",
+   "device": "doogee-X10",
+   "model": "DOOGEE X10"
+  },
+  {
+   "brand": "Dragontouch",
+   "device": "X10A",
+   "model": "X10"
+  },
+  {
+   "brand": "Dragontouch",
+   "device": "tulip-d210",
+   "model": "X10"
+  },
+  {
+   "brand": "Gplus",
+   "device": "X10",
+   "model": "Gplus X10"
+  },
+  {
+   "brand": "HOLO",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
+   "brand": "Kenxinda",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
+   "brand": "Lava",
+   "device": "X10",
+   "model": "LavaX10"
+  },
+  {
+   "brand": "Lava",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
+   "brand": "Moxee Technologies",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "X10",
+   "model": "X10"
+  },
+  {
+   "brand": "Xmobile",
+   "device": "XMOBILE",
+   "model": "X10"
+  },
+  {
+   "brand": "xTouch",
+   "device": "X10",
+   "model": "X10"
+  }
+ ],
  "100011886BK": [
   {
    "brand": "ATVIO",
@@ -19498,6 +19575,11 @@
    "brand": "Apolosign",
    "device": "EP1095T",
    "model": "EP1095T"
+  },
+  {
+   "brand": "Apolosign",
+   "device": "EP1095T",
+   "model": "EP1095T_EEA"
   }
  ],
  "K109A": [
@@ -30430,78 +30512,6 @@
    "brand": "Stylo",
    "device": "Ultra",
    "model": "Ultra"
-  }
- ],
- "X10": [
-  {
-   "brand": "BMobile",
-   "device": "Bmobile_X10_MV03",
-   "model": "X10"
-  },
-  {
-   "brand": "Dingding",
-   "device": "X10",
-   "model": "X10"
-  },
-  {
-   "brand": "Doogee",
-   "device": "doogee-X10",
-   "model": "DOOGEE X10"
-  },
-  {
-   "brand": "Dragontouch",
-   "device": "X10A",
-   "model": "X10"
-  },
-  {
-   "brand": "Dragontouch",
-   "device": "tulip-d210",
-   "model": "X10"
-  },
-  {
-   "brand": "Gplus",
-   "device": "X10",
-   "model": "Gplus X10"
-  },
-  {
-   "brand": "HOLO",
-   "device": "X10",
-   "model": "X10"
-  },
-  {
-   "brand": "Kenxinda",
-   "device": "X10",
-   "model": "X10"
-  },
-  {
-   "brand": "Lava",
-   "device": "X10",
-   "model": "LavaX10"
-  },
-  {
-   "brand": "Lava",
-   "device": "X10",
-   "model": "X10"
-  },
-  {
-   "brand": "Moxee Technologies",
-   "device": "X10",
-   "model": "X10"
-  },
-  {
-   "brand": "Vankyo",
-   "device": "X10",
-   "model": "X10"
-  },
-  {
-   "brand": "Xmobile",
-   "device": "XMOBILE",
-   "model": "X10"
-  },
-  {
-   "brand": "xTouch",
-   "device": "X10",
-   "model": "X10"
   }
  ],
  "X11": [
@@ -49149,6 +49159,13 @@
    "brand": "Comio",
    "device": "ComioX1",
    "model": "Comio X1"
+  }
+ ],
+ "CommBox Classic S5": [
+  {
+   "brand": "CommBox",
+   "device": "rk3576_u",
+   "model": "CommBox_Classic_S5"
   }
  ],
  "TANK 4.5": [
@@ -71267,6 +71284,11 @@
    "brand": "FPD",
    "device": "mountbaker",
    "model": "EcoTV A"
+  },
+  {
+   "brand": "FPD",
+   "device": "mountbaker",
+   "model": "EcoTV C"
   },
   {
    "brand": "FPD",
@@ -105818,6 +105840,11 @@
   },
   {
    "brand": "Hyundai",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Hyundai",
    "device": "stanford",
    "model": "2K SMART TV"
   }
@@ -118554,6 +118581,11 @@
    "brand": "KTCtv",
    "device": "hongkong",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "4K SMART TV"
   }
  ],
  "ROOMI": [
@@ -118688,6 +118720,11 @@
    "brand": "KTCtv",
    "device": "lavender",
    "model": "VIMEEL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "VIMEEL GOOGLE TV"
   }
  ],
  "VIOTTO": [
@@ -160279,6 +160316,13 @@
    "model": "NETTV"
   }
  ],
+ "NEW9310Pro": [
+  {
+   "brand": "NEWPOS",
+   "device": "NEW9310Pro",
+   "model": "NEW9310Pro"
+  }
+ ],
  "NexaN5a": [
   {
    "brand": "NEXA",
@@ -199684,6 +199728,13 @@
    "model": "SM-E045F"
   }
  ],
+ "Galaxy F05": [
+  {
+   "brand": "Samsung",
+   "device": "a05m",
+   "model": "SM-E055F"
+  }
+ ],
  "Galaxy F12": [
   {
    "brand": "Samsung",
@@ -201907,6 +201958,13 @@
    "model": "SM-M045F"
   }
  ],
+ "Galaxy M05": [
+  {
+   "brand": "Samsung",
+   "device": "a05m",
+   "model": "SM-M055F"
+  }
+ ],
  "Galaxy M10": [
   {
    "brand": "Samsung",
@@ -202225,6 +202283,13 @@
    "brand": "Samsung",
    "device": "m55xq",
    "model": "SM-M556E"
+  }
+ ],
+ "Galaxy M55s 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m55xq",
+   "model": "SM-M558B"
   }
  ],
  "Galaxy M62": [
@@ -205772,6 +205837,38 @@
    "brand": "Samsung",
    "device": "e1s",
    "model": "SM-S921N"
+  }
+ ],
+ "Galaxy S24 FE": [
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S7210"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S721B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S721N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S721U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S721U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S721W"
   }
  ],
  "Galaxy S24 Ultra": [
@@ -243983,6 +244080,13 @@
    "model": "mdt1060"
   }
  ],
+ "mdt865": [
+  {
+   "brand": "Topicon",
+   "device": "mdt865",
+   "model": "mdt865"
+  }
+ ],
  "M8_U": [
   {
    "brand": "Topsand",
@@ -278710,6 +278814,13 @@
    "brand": "benco",
    "device": "AEOP519",
    "model": "AEOP519"
+  }
+ ],
+ "AEOP520": [
+  {
+   "brand": "benco",
+   "device": "AEOP520",
+   "model": "AEOP520"
   }
  ],
  "AF9010_F": [

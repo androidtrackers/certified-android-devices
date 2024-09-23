@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-22
+Last sync is 2024-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -319,6 +319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATMPC|IT_701A_EEA|IT_701A_EEA|IT_701A|
 |ATOL|Smart.Slim Plus|t50p|Smart_Slim_Plus|
 |ATOL|Smart_Prime|t150|Smart_Prime|
+|ATOTO|X10|Multifunctional_Tablet|X10|
 |ATVIO|100011886BK|100011886BK|100011886BK|
 |ATVIO|ATVIO|mid7015_mk_32|MID7015|
 |ATVIO|MID1032|mid1032_mr_32|MID1032|
@@ -1529,6 +1530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|EP103B|EP103B|EP103B|
 |Apolosign|EP1095T|EP1095T|EP1095T|
 |Apolosign|EP1095T_EEA|EP1095T|EP1095T|
+|Apolosign|EP1095T_EEA|EP1095T|EP1095T_EEA|
 |Apolosign|K109A|K109A|K109A|
 |Apolosign|K109_Pro|K109_Pro|K109_Pro|
 |Apolosign|K709A|K709A|K709A|
@@ -5495,6 +5497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Comio|COMIO S1|ComioS1|COMIO S1|
 |Comio|COMIO S1 Lite|ComioS1Lite|COMIO S1 Lite|
 |Comio|COMIO X1|ComioX1|Comio X1|
+|CommBox|CommBox Classic S5|rk3576_u|CommBox_Classic_S5|
 |Compal||CA22|COSMO DUO|
 |Compal||CAP5|A600|
 |Compal||CAP6|A600|
@@ -8547,6 +8550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|lavender|EcoTV Plus D|
 |FPD|FPD|lavender|EcoTV Plus I|
 |FPD|FPD|mountbaker|EcoTV A|
+|FPD|FPD|mountbaker|EcoTV C|
 |FPD|FPD|mountbaker|EcoTV D|
 |FPD|FPD|mountbaker|EcoTV I|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
@@ -14355,6 +14359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|lavender|4K SMART COL TV|
 |Hyundai|HYUNDAI|lavender|4K SMART ISDB TV|
+|Hyundai|HYUNDAI|mountbaker|2K SMART TV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 2K Android TV-A|lasalle|HYUNDAI 2K Android TV-A|
@@ -16409,6 +16414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
+|KTCtv|REYNA|lavender|4K SMART TV|
 |KTCtv|ROOMI|hongkong|4K SMART TV|
 |KTCtv|RZTK|stanford|2K SMART TV|
 |KTCtv|RZTK|zhongshan|4K SMART TV|
@@ -16428,6 +16434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
 |KTCtv|VIMEEL|lavender|VIMEEL GOOGLE TV 4K|
+|KTCtv|VIMEEL|mountbaker|VIMEEL GOOGLE TV|
 |KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
 |KTCtv|VIOTTO|mountbaker|2K SMART ISDB TV|
@@ -23469,6 +23476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
 |NETOGY|NOVA|YXU|NOVA|
 |NETTV|NETTV|SEI500NTV|NETTV|
+|NEWPOS|NEW9310Pro|NEW9310Pro|NEW9310Pro|
 |NEWSUN|S13|S13|S13|
 |NEWSUN|S20|S20|S20|
 |NEWSUN|S9|S9|S9|
@@ -29979,6 +29987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
 |Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F04|m04|SM-E045F|
+|Samsung|Galaxy F05|a05m|SM-E055F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F13|m13|SM-E135F|
 |Samsung|Galaxy F14|a05s|SM-E145F|
@@ -30378,6 +30387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M02|a02|SM-M022M|
 |Samsung|Galaxy M02s|a02q|SM-M025F|
 |Samsung|Galaxy M04|m04|SM-M045F|
+|Samsung|Galaxy M05|a05m|SM-M055F|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
@@ -30430,6 +30440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M54 5G|m54x|SM-M546B|
 |Samsung|Galaxy M55 5G|m55xq|SM-M556B|
 |Samsung|Galaxy M55 5G|m55xq|SM-M556E|
+|Samsung|Galaxy M55s 5G|m55xq|SM-M558B|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -31083,6 +31094,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S24|e1q|SM-S921W|
 |Samsung|Galaxy S24|e1s|SM-S921B|
 |Samsung|Galaxy S24|e1s|SM-S921N|
+|Samsung|Galaxy S24 FE|r12s|SM-S7210|
+|Samsung|Galaxy S24 FE|r12s|SM-S721B|
+|Samsung|Galaxy S24 FE|r12s|SM-S721N|
+|Samsung|Galaxy S24 FE|r12s|SM-S721U|
+|Samsung|Galaxy S24 FE|r12s|SM-S721U1|
+|Samsung|Galaxy S24 FE|r12s|SM-S721W|
 |Samsung|Galaxy S24 Ultra|SC-52E|SC-52E|
 |Samsung|Galaxy S24 Ultra|SCG26|SCG26|
 |Samsung|Galaxy S24 Ultra|e3q|SM-S9280|
@@ -37668,6 +37685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tonino Lamborghini|TL99|ailsa_ii|TL99|
 |Tonino Lamborghini|TL99G|ailsa_ii|TL99G|
 |Topicon|Topicon MDT1060|mdt1060|mdt1060|
+|Topicon|mdt865|mdt865|mdt865|
 |Topsand|M8_U|M8_U|M8|
 |Topsand|N10|N10_T|N10|
 |Topsand|N8|N8|N8|
@@ -43625,6 +43643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|AE9310|AE9310|AE9310|
 |benco|AE9950|AE9950|AE9950|
 |benco|AEOP519|AEOP519|AEOP519|
+|benco|AEOP520|AEOP520|AEOP520|
 |benco|AF9010_F|AF9010_F|AF9010_F|
 |benco|AF9020|AF9020|AF9020|
 |benco|AF9030|AF9030|AF9030|
