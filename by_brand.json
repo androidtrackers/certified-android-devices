@@ -16793,6 +16793,11 @@
    "device": "EXCEED",
    "name": "EX10SL4",
    "model": "EX10SL4"
+  },
+  {
+   "device": "T2Max",
+   "name": "T2Max",
+   "model": "T2Max"
   }
  ],
  "BRIGMTON": [
@@ -17926,6 +17931,11 @@
   }
  ],
  "Biegedy": [
+  {
+   "device": "B21_EEA",
+   "name": "B21_EEA",
+   "model": "B21_EEA"
+  },
   {
    "device": "B22_EEA",
    "name": "B22_EEA",
@@ -21466,6 +21476,11 @@
    "device": "J0150",
    "name": "J10L",
    "model": "J10L"
+  },
+  {
+   "device": "J0230",
+   "name": "J12",
+   "model": "J12"
   },
   {
    "device": "J0210",
@@ -35297,6 +35312,11 @@
    "device": "TAB20_US",
    "name": "TAB20_US",
    "model": "TAB20_US"
+  },
+  {
+   "device": "TAB8_EEA",
+   "name": "TAB8_EEA",
+   "model": "TAB8_EEA"
   },
   {
    "device": "TAB8_US",
@@ -144749,6 +144769,16 @@
   }
  ],
  "Rebecco": [
+  {
+   "device": "K30_EEA",
+   "name": "K30_EEA",
+   "model": "K30_EEA"
+  },
+  {
+   "device": "K30_ROW",
+   "name": "K30_ROW",
+   "model": "K30_ROW"
+  },
   {
    "device": "K50_EEA",
    "name": "K50_EEA",

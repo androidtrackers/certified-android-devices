@@ -32542,6 +32542,13 @@
    "model": "EX10SL4"
   }
  ],
+ "T2Max": [
+  {
+   "brand": "BRAVE",
+   "name": "T2Max",
+   "model": "T2Max"
+  }
+ ],
  "BTPC-1023OC4G": [
   {
    "brand": "BRIGMTON",
@@ -34146,6 +34153,13 @@
    "brand": "Bible-Pad",
    "name": "Bible-Pad",
    "model": "BTAB-7Q2"
+  }
+ ],
+ "B21_EEA": [
+  {
+   "brand": "Biegedy",
+   "name": "B21_EEA",
+   "model": "B21_EEA"
   }
  ],
  "B22_EEA": [
@@ -39242,6 +39256,13 @@
    "brand": "Blu",
    "name": "J10L",
    "model": "J10L"
+  }
+ ],
+ "J0230": [
+  {
+   "brand": "Blu",
+   "name": "J12",
+   "model": "J12"
   }
  ],
  "J0210": [
@@ -58335,6 +58356,13 @@
    "brand": "Dghrti",
    "name": "TAB20_US",
    "model": "TAB20_US"
+  }
+ ],
+ "TAB8_EEA": [
+  {
+   "brand": "Dghrti",
+   "name": "TAB8_EEA",
+   "model": "TAB8_EEA"
   }
  ],
  "TAB8_US": [
@@ -189286,6 +189314,20 @@
    "brand": "Realtime",
    "name": "RT503",
    "model": "RT503"
+  }
+ ],
+ "K30_EEA": [
+  {
+   "brand": "Rebecco",
+   "name": "K30_EEA",
+   "model": "K30_EEA"
+  }
+ ],
+ "K30_ROW": [
+  {
+   "brand": "Rebecco",
+   "name": "K30_ROW",
+   "model": "K30_ROW"
   }
  ],
  "K50_EEA": [

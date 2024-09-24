@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-23
+Last sync is 2024-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3253,6 +3253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRAVE|BTXS1|BTXS1|BTXS1|
 |BRAVE|BTXS1_1|BTXS1_1|BTXS1_1|
 |BRAVE|EX10SL4|EXCEED|EX10SL4|
+|BRAVE|T2Max|T2Max|T2Max|
 |BRIGMTON|BTPC-1023OC4G_EEA|BTPC-1023OC4G|BTPC-1023OC4G|
 |BRIGMTON|BTPC-1024QC|BTPC-1024QC|BTPC-1024QC|
 |BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
@@ -3465,6 +3466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beyond|SURVE|SURVE|SURVE|
 |Beyond|WIN|WIN|WIN|
 |Bible-Pad|Bible-Pad|BTAB-7Q2|BTAB-7Q2|
+|Biegedy|B21_EEA|B21_EEA|B21_EEA|
 |Biegedy|B22_EEA|B22_EEA|B22_EEA|
 |Biegedy|B22_US|B22_US|B22_US|
 |Biegedy|B23_US|B23_US|B23_US|
@@ -4164,6 +4166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand_X|Grand_X|Grand X|
 |Blu|J10L|J0140|J10L|
 |Blu|J10L|J0150|J10L|
+|Blu|J12|J0230|J12|
 |Blu|J5|J0210|J5|
 |Blu|J6L|J0110|J6L|
 |Blu|J6S|J210EQ|J6S|
@@ -6815,6 +6818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Deutsche Telekom|T Tablet|Hubbs|T Tablet|
 |Dghrti|TAB20_EEA|TAB20_EEA|TAB20_EEA|
 |Dghrti|TAB20_US|TAB20_US|TAB20_US|
+|Dghrti|TAB8_EEA|TAB8_EEA|TAB8_EEA|
 |Dghrti|TAB8_US|TAB8_US|TAB8_US|
 |DiDi (Japan)|DDT-001|DDT-001|DDT-001|
 |DiMora Mobile|Adrenalin Pro|Adrenalin_Pro|Adrenalin Pro|
@@ -28124,6 +28128,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realtime|RS405|RS405|RS405|
 |Realtime|RT503|RT503|RT503|
 |Realtime|RT8|RT8|RT8|
+|Rebecco|K30_EEA|K30_EEA|K30_EEA|
+|Rebecco|K30_ROW|K30_ROW|K30_ROW|
 |Rebecco|K50_EEA|K50_EEA|K50_EEA|
 |Rebecco|K50_ROW|K50_ROW|K50_ROW|
 |Rebecco|K70_EEA|K70_EEA|K70_EEA|
