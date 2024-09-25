@@ -1324,6 +1324,11 @@
    "model": "MCIFPD"
   },
   {
+   "brand": "MIRAI_TOUCH",
+   "name": "MXXCE3XE",
+   "model": "MXXCE3XE"
+  },
+  {
    "brand": "MPORT",
    "name": "MPORT-IFPD",
    "model": "e_Smarter"
@@ -5723,6 +5728,11 @@
   {
    "brand": "KTCtv",
    "name": "COLORVIEW",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAMASCO",
    "model": "2K SMART TV"
   },
   {
@@ -106909,6 +106919,13 @@
    "brand": "IRIE",
    "name": "FFF-TAB10H",
    "model": "FFF-TAB10H"
+  }
+ ],
+ "IB-75UED01B": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "IB-75UED01B",
+   "model": "IB-75UED01B"
   }
  ],
  "TM152M4": [
@@ -256963,6 +256980,13 @@
    "brand": "Vivo",
    "name": "V40",
    "model": "V2348"
+  }
+ ],
+ "V2403": [
+  {
+   "brand": "Vivo",
+   "name": "V40e",
+   "model": "V2403"
   }
  ],
  "V5Plus": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-24
+Last sync is 2024-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14647,6 +14647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|T803|T803|T803|
 |IRA (explore more)|T808|T808|T808|
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
+|IRIS_OHYAMA|IB-75UED01B|IB-75UED01B|IB-75UED01B|
 |IRIS_OHYAMA|LUCA Tablet TM152|TM152M4|TM152|
 |IRIS_OHYAMA|LUCA Tablet TM152|TM152M8|TM152|
 |IRIS_OHYAMA|R4|R4|R4|
@@ -16349,6 +16350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
+|KTCtv|DAMASCO|mountbaker|2K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|lavender|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
@@ -20490,6 +20492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MINDEO|MS8589_RU|MS8589RU|MS8589|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAI_TOUCH|IFP MIRAI TOUCH|PE3S_Series|PE3S_Series|
+|MIRAI_TOUCH|MXXCE3XE|rk3588_t|MXXCE3XE|
 |MIRAY|Android TV|R1|ATV R1|
 |MIRAY|Android TV|R2|ATV R2|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
@@ -39572,6 +39575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V40 Pro|V2347|V2347|
 |Vivo|V40 SE|V2342|V2342|
 |Vivo|V40 SE 5G|V2327|V2337|
+|Vivo|V40e|V2403|V2403|
 |Vivo|V5Plus|V5Plus|vivo V5Plus|
 |Vivo|V9|1727ID|vivo 1727|
 |Vivo|V9 6GB|1723CF|vivo 1723|

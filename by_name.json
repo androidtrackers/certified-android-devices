@@ -107661,6 +107661,13 @@
    "model": "FFF-TAB10H"
   }
  ],
+ "IB-75UED01B": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "device": "IB-75UED01B",
+   "model": "IB-75UED01B"
+  }
+ ],
  "LUCA Tablet TM152": [
   {
    "brand": "IRIS_OHYAMA",
@@ -118232,6 +118239,13 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "SMART TV"
+  }
+ ],
+ "DAMASCO": [
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "DANILUX": [
@@ -142319,6 +142333,13 @@
    "brand": "MIRAI_TOUCH",
    "device": "PE3S_Series",
    "model": "PE3S_Series"
+  }
+ ],
+ "MXXCE3XE": [
+  {
+   "brand": "MIRAI_TOUCH",
+   "device": "rk3588_t",
+   "model": "MXXCE3XE"
   }
  ],
  "MIDM_737": [
@@ -255605,6 +255626,13 @@
    "brand": "Vivo",
    "device": "V2327",
    "model": "V2337"
+  }
+ ],
+ "V40e": [
+  {
+   "brand": "Vivo",
+   "device": "V2403",
+   "model": "V2403"
   }
  ],
  "V9 6GB": [
