@@ -14199,6 +14199,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "DAMASCO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DANILUX",
    "model": "4K SMART TV"
   },
@@ -53769,6 +53774,13 @@
    "model": "TAB KINGKONG"
   }
  ],
+ "TAB_KINGKONG_2": [
+  {
+   "brand": "Cubot",
+   "name": "TAB KINGKONG 2",
+   "model": "TAB KINGKONG 2"
+  }
+ ],
  "X19": [
   {
    "brand": "Cubot",
@@ -62037,6 +62049,11 @@
    "brand": "Doogee",
    "name": "T30Pro",
    "model": "T30Pro"
+  },
+  {
+   "brand": "Doogee",
+   "name": "T30Pro",
+   "model": "T35"
   }
  ],
  "P3D": [
@@ -114828,6 +114845,13 @@
    "model": "R500_US"
   }
  ],
+ "R700_EEA": [
+  {
+   "brand": "JUEDUR",
+   "name": "R700_EEA",
+   "model": "R700_EEA"
+  }
+ ],
  "R700_US": [
   {
    "brand": "JUEDUR",
@@ -116561,6 +116585,18 @@
    "brand": "KEP-Tech",
    "name": "K-S18",
    "model": "K-S18"
+  }
+ ],
+ "BT-A2000": [
+  {
+   "brand": "KEYENCE",
+   "name": "BT-A2000",
+   "model": "BT-A2000"
+  },
+  {
+   "brand": "KEYENCE",
+   "name": "BT-A2000M",
+   "model": "BT-A2000M"
   }
  ],
  "BTA500": [
@@ -192818,6 +192854,13 @@
    "brand": "SK broadband",
    "name": "AI2 ATV",
    "model": "BID-AI100"
+  }
+ ],
+ "BMA-AI100": [
+  {
+   "brand": "SK broadband",
+   "name": "BMA-AI100",
+   "model": "BMA-AI100"
   }
  ],
  "BIP-EB100": [
@@ -278865,6 +278908,13 @@
    "brand": "Zebra",
    "name": "VC80x",
    "model": "VC80x"
+  }
+ ],
+ "WT5400": [
+  {
+   "brand": "Zebra",
+   "name": "WT5400",
+   "model": "WT5400"
   }
  ],
  "WT6000": [

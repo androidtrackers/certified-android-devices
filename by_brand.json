@@ -31985,6 +31985,11 @@
    "model": "TAB KINGKONG"
   },
   {
+   "device": "TAB_KINGKONG_2",
+   "name": "TAB KINGKONG 2",
+   "model": "TAB KINGKONG 2"
+  },
+  {
    "device": "X19",
    "name": "X19",
    "model": "X19"
@@ -37879,6 +37884,11 @@
    "device": "P3Pro",
    "name": "T30Pro",
    "model": "T30Pro"
+  },
+  {
+   "device": "P3Pro",
+   "name": "T30Pro",
+   "model": "T35"
   },
   {
    "device": "P3D",
@@ -81890,6 +81900,11 @@
    "model": "R500_US"
   },
   {
+   "device": "R700_EEA",
+   "name": "R700_EEA",
+   "model": "R700_EEA"
+  },
+  {
    "device": "R700_US",
    "name": "R700_US",
    "model": "R700_US"
@@ -83668,6 +83683,16 @@
  ],
  "KEYENCE": [
   {
+   "device": "BT-A2000",
+   "name": "BT-A2000",
+   "model": "BT-A2000"
+  },
+  {
+   "device": "BT-A2000",
+   "name": "BT-A2000M",
+   "model": "BT-A2000M"
+  },
+  {
    "device": "BTA500",
    "name": "BT-A500GA",
    "model": "BTA500"
@@ -84331,6 +84356,11 @@
   {
    "device": "lavender",
    "name": "DAIWA",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "DAMASCO",
    "model": "4K SMART TV"
   },
   {
@@ -148348,6 +148378,11 @@
    "device": "K1100UA",
    "name": "BKO-UC500",
    "model": "BKO-UC500"
+  },
+  {
+   "device": "BMA-AI100",
+   "name": "BMA-AI100",
+   "model": "BMA-AI100"
   },
   {
    "device": "BIP-EB100",
@@ -222750,6 +222785,11 @@
    "device": "VC80x",
    "name": "VC80x",
    "model": "VC80x"
+  },
+  {
+   "device": "WT5400",
+   "name": "WT5400",
+   "model": "WT5400"
   },
   {
    "device": "WT6000",

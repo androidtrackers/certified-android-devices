@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-25
+Last sync is 2024-09-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6183,6 +6183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|TAB 40|TAB_40|TAB 40|
 |Cubot|TAB 50|TAB_50|TAB 50|
 |Cubot|TAB KINGKONG|TAB_KINGKONG|TAB KINGKONG|
+|Cubot|TAB KINGKONG 2|TAB_KINGKONG_2|TAB KINGKONG 2|
 |Cubot|X19|X19|X19|
 |Cubot|X19_S|X19_S|X19 S|
 |Cubot|X20|X20|X20|
@@ -7315,6 +7316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T30E|P3G|T30E|
 |Doogee|T30E Pro|P3GS|T30E Pro|
 |Doogee|T30Pro|P3Pro|T30Pro|
+|Doogee|T30Pro|P3Pro|T35|
 |Doogee|T30S|P3D|T30S|
 |Doogee|T30S|P3D_2|T30S|
 |Doogee|T30Ultra|P3|T30Ultra|
@@ -15886,6 +15888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JTYPDA|X20L|X20L|X20L|
 |JUEDUR|R500 EEA|R500_EEA|R500_EEA|
 |JUEDUR|R500 US|R500_US|R500_US|
+|JUEDUR|R700_EEA|R700_EEA|R700_EEA|
 |JUEDUR|R700_US|R700_US|R700_US|
 |JUEDUR|R800_EEA|R800_EEA|R800_EEA|
 |JUEDUR|R800_US|R800_US|R800_US|
@@ -16224,6 +16227,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|Pad_Lite_E48|Pad_Lite_E48|Pad Lite E48|
 |KENSHI|Pad_Lite_E58|Pad_Lite_E58|Pad Lite E58|
 |KEP-Tech|K-S18|K-S18|K-S18|
+|KEYENCE|BT-A2000|BT-A2000|BT-A2000|
+|KEYENCE|BT-A2000M|BT-A2000|BT-A2000M|
 |KEYENCE|BT-A500GA|BTA500|BTA500|
 |KEYENCE|BTA700|BTA700|BTA700|
 |KEYENCE|DX-A400|DX-A400|DX-A400|
@@ -16350,6 +16355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
+|KTCtv|DAMASCO|lavender|4K SMART TV|
 |KTCtv|DAMASCO|mountbaker|2K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|lavender|4K SMART TV|
@@ -28810,6 +28816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK broadband|AI2 ATV|INTEKS21SI|BID-AI100|
 |SK broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK broadband|BKO-UC500|K1100UA|BKO-UC500|
+|SK broadband|BMA-AI100|BMA-AI100|BMA-AI100|
 |SK broadband|PlayZ|BIP-EB100|BIP-EB100|
 |SK broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
@@ -43390,6 +43397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC8000|TC8000|TC8000|
 |Zebra|TN28|TN28|TN28|
 |Zebra|VC80x|VC80x|VC80x|
+|Zebra|WT5400|WT5400|WT5400|
 |Zebra|WT6000|WT6000|WT6000|
 |Zebra|WT6400|WT6400|WT6400|
 |Zebra|Zebra Technologies ET51|ET51L|ET51|
