@@ -1289,6 +1289,11 @@
    "model": "MC480-U"
   },
   {
+   "brand": "EJBOARD",
+   "name": "EJ_IFPD",
+   "model": "EP_Series"
+  },
+  {
    "brand": "ESOL",
    "name": "CCBEK",
    "model": "CCBEK"
@@ -43654,6 +43659,13 @@
    "model": "P38W_EEA"
   }
  ],
+ "P50L": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "P50L",
+   "model": "P50L"
+  }
+ ],
  "P50L_EEA": [
   {
    "brand": "CWOWDEFU",
@@ -60632,6 +60644,13 @@
    "model": "A7070"
   }
  ],
+ "SEI730BSVU": [
+  {
+   "brand": "DishTV-NZ",
+   "name": "A7080",
+   "model": "A7080"
+  }
+ ],
  "IAD": [
   {
    "brand": "DishTV-NZ",
@@ -63453,6 +63472,13 @@
    "brand": "Dunns",
    "name": "Smarty II",
    "model": "Smarty_II"
+  }
+ ],
+ "DG3200RTV": [
+  {
+   "brand": "DuraGo",
+   "name": "DG3200RTV",
+   "model": "DG3200RTV"
   }
  ],
  "Gaia": [
@@ -80394,6 +80420,11 @@
  "H14": [
   {
    "brand": "HANDELSON",
+   "name": "H14",
+   "model": "H14"
+  },
+  {
+   "brand": "KENSHI",
    "name": "H14",
    "model": "H14"
   }
@@ -136011,6 +136042,13 @@
    "model": "Lenovo L10041"
   }
  ],
+ "TB373FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Idea Tab Pro",
+   "model": "TB373FU"
+  }
+ ],
  "L38083": [
   {
    "brand": "Lenovo",
@@ -166573,6 +166611,11 @@
   },
   {
    "brand": "iLa Mobile",
+   "name": "E3",
+   "model": "E3"
+  },
+  {
+   "brand": "redbeat",
    "name": "E3",
    "model": "E3"
   }
@@ -210739,6 +210782,54 @@
    "model": "SM-T700"
   }
  ],
+ "gts10uwifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10 Ultra",
+   "model": "SM-X920"
+  }
+ ],
+ "gts10u": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10 Ultra 5G",
+   "model": "SM-X926B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10 Ultra 5G",
+   "model": "SM-X926C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10 Ultra 5G",
+   "model": "SM-X926N"
+  }
+ ],
+ "gts10pwifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10+",
+   "model": "SM-X820"
+  }
+ ],
+ "gts10p": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10+ 5G",
+   "model": "SM-X826B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10+ 5G",
+   "model": "SM-X826N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S10+ 5G",
+   "model": "SM-X828U"
+  }
+ ],
  "gts210lte": [
   {
    "brand": "Samsung",
@@ -212564,6 +212655,13 @@
    "brand": "Samsung",
    "name": "Galaxy Watch FE",
    "model": "SM-R861"
+  }
+ ],
+ "lucky7us": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch FE",
+   "model": "SM-R866U"
   }
  ],
  "projectx2ul": [
@@ -249764,6 +249862,13 @@
   }
  ],
  "G9_Tab": [
+  {
+   "brand": "Umidigi",
+   "name": "G9 Tab",
+   "model": "TG4FBG9TA"
+  }
+ ],
+ "G9_Tab_EEA": [
   {
    "brand": "Umidigi",
    "name": "G9 Tab",

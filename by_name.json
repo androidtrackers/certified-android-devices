@@ -44104,6 +44104,13 @@
    "model": "P38W_EEA"
   }
  ],
+ "P50L": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "P50L",
+   "model": "P50L"
+  }
+ ],
  "P50L_EEA": [
   {
    "brand": "CWOWDEFU",
@@ -60813,6 +60820,13 @@
    "model": "A7070"
   }
  ],
+ "A7080": [
+  {
+   "brand": "DishTV-NZ",
+   "device": "SEI730BSVU",
+   "model": "A7080"
+  }
+ ],
  "SV11HD": [
   {
    "brand": "DishTV-NZ",
@@ -64031,6 +64045,13 @@
    "model": "Smarty_II"
   }
  ],
+ "DG3200RTV": [
+  {
+   "brand": "DuraGo",
+   "device": "DG3200RTV",
+   "model": "DG3200RTV"
+  }
+ ],
  "Central America": [
   {
    "brand": "Durabrand",
@@ -64612,6 +64633,13 @@
    "brand": "EGOTEK",
    "device": "Venus10",
    "model": "Venus10"
+  }
+ ],
+ "EJ_IFPD": [
+  {
+   "brand": "EJBOARD",
+   "device": "rk3588_t",
+   "model": "EP_Series"
   }
  ],
  "T80 EEA": [
@@ -81741,6 +81769,11 @@
  "H14": [
   {
    "brand": "HANDELSON",
+   "device": "H14",
+   "model": "H14"
+  },
+  {
+   "brand": "KENSHI",
    "device": "H14",
    "model": "H14"
   }
@@ -136249,6 +136282,13 @@
    "model": "Lenovo L10041"
   }
  ],
+ "Lenovo Idea Tab Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "TB373FU",
+   "model": "TB373FU"
+  }
+ ],
  "Lenovo K11": [
   {
    "brand": "Lenovo",
@@ -146972,6 +147012,11 @@
   },
   {
    "brand": "iLa Mobile",
+   "device": "E3",
+   "model": "E3"
+  },
+  {
+   "brand": "redbeat",
    "device": "E3",
    "model": "E3"
   }
@@ -209143,6 +209188,54 @@
    "model": "SM-T700"
   }
  ],
+ "Galaxy Tab S10 Ultra": [
+  {
+   "brand": "Samsung",
+   "device": "gts10uwifi",
+   "model": "SM-X920"
+  }
+ ],
+ "Galaxy Tab S10 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts10u",
+   "model": "SM-X926B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts10u",
+   "model": "SM-X926C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts10u",
+   "model": "SM-X926N"
+  }
+ ],
+ "Galaxy Tab S10+": [
+  {
+   "brand": "Samsung",
+   "device": "gts10pwifi",
+   "model": "SM-X820"
+  }
+ ],
+ "Galaxy Tab S10+ 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts10p",
+   "model": "SM-X826B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts10p",
+   "model": "SM-X826N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts10p",
+   "model": "SM-X828U"
+  }
+ ],
  "Galaxy Tab S2": [
   {
    "brand": "Samsung",
@@ -210836,6 +210929,11 @@
    "brand": "Samsung",
    "device": "lucky7bs",
    "model": "SM-R861"
+  },
+  {
+   "brand": "Samsung",
+   "device": "lucky7us",
+   "model": "SM-R866U"
   }
  ],
  "Galaxy Watch Ultra": [
@@ -248179,6 +248277,11 @@
   {
    "brand": "Umidigi",
    "device": "G9_Tab",
+   "model": "TG4FBG9TA"
+  },
+  {
+   "brand": "Umidigi",
+   "device": "G9_Tab_EEA",
    "model": "TG4FBG9TA"
   }
  ],

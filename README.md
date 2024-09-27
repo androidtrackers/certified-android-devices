@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-26
+Last sync is 2024-09-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4802,6 +4802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|P25W_EEA|P25W_EEA|P25W_EEA|
 |CWOWDEFU|P38W|P38W|P38W|
 |CWOWDEFU|P38W_EEA|P38W_EEA|P38W_EEA|
+|CWOWDEFU|P50L|P50L|P50L|
 |CWOWDEFU|P50L_EEA|P50L_EEA|P50L_EEA|
 |CWOWDEFU|P80L|P80L|P80L|
 |CWOWDEFU|P81L|P81L|P81L|
@@ -7131,6 +7132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|Wireless Joey 4|ATVWJ4|Wireless Joey 4|
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
 |DishTV-NZ|A7070|STB|A7070|
+|DishTV-NZ|A7080|SEI730BSVU|A7080|
 |DishTV-NZ|SV10|HiCast|SV10|
 |DishTV-NZ|SV11|ICN|SV11|
 |DishTV-NZ|SV11HD|IAD|SV11HD|
@@ -7542,6 +7544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dunns|Dunns Slinger|DunnsSlinger|Dunns Slinger|
 |Dunns|ETAB_M9041G|ETAB_M9041G|ETAB_M9041G|
 |Dunns|Smarty II|Smarty_II|Smarty_II|
+|DuraGo|DG3200RTV|DG3200RTV|DG3200RTV|
 |Durabrand|Central America|nippori|Durabrand 2K Android TV|
 |Durabrand|DB Android TV 2K|broadway|DB Android TV 2K|
 |Durabrand|DB Android TV 4K|dupont|DB Android TV 4K|
@@ -7623,6 +7626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
+|EJBOARD|EJ_IFPD|rk3588_t|EP_Series|
 |EKEMP|T80 EEA|T80|T80|
 |EKINOX|E6|E6|E6|
 |EKINOX|E8_Ultra|E8_Ultra|E8_Ultra|
@@ -16217,6 +16221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E17_RU|E17|E17|
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
+|KENSHI|H14|H14|H14|
 |KENSHI|H21|H21|H21|
 |KENSHI|H34|H34|H34|
 |KENSHI|H38|H38|H38|
@@ -19503,6 +19508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A6 Note|Lenovo_A6_Note|Lenovo L19041|
 |Lenovo|Lenovo A8|AK57|L10041|
 |Lenovo|Lenovo A8|AK57|Lenovo L10041|
+|Lenovo|Lenovo Idea Tab Pro|TB373FU|TB373FU|
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
 |Lenovo|Lenovo K12 Note|guamp|Lenovo K12 Note|
@@ -31706,6 +31712,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S 8.4|klimtlte|SM-T705Y|
 |Samsung|Galaxy Tab S 8.4|klimtltevzw|SM-T707V|
 |Samsung|Galaxy Tab S 8.4|klimtwifi|SM-T700|
+|Samsung|Galaxy Tab S10 Ultra|gts10uwifi|SM-X920|
+|Samsung|Galaxy Tab S10 Ultra 5G|gts10u|SM-X926B|
+|Samsung|Galaxy Tab S10 Ultra 5G|gts10u|SM-X926C|
+|Samsung|Galaxy Tab S10 Ultra 5G|gts10u|SM-X926N|
+|Samsung|Galaxy Tab S10+|gts10pwifi|SM-X820|
+|Samsung|Galaxy Tab S10+ 5G|gts10p|SM-X826B|
+|Samsung|Galaxy Tab S10+ 5G|gts10p|SM-X826N|
+|Samsung|Galaxy Tab S10+ 5G|gts10p|SM-X828U|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815C|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815Y|
@@ -32017,6 +32031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy W|SGH-T679M|SGH-T679M|
 |Samsung|Galaxy W|q7lteskt|SM-T255S|
 |Samsung|Galaxy Watch FE|lucky7bs|SM-R861|
+|Samsung|Galaxy Watch FE|lucky7us|SM-R866U|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L7050|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705F|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705N|
@@ -38365,6 +38380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G7_Tab_Mini_EEA|G7_Tab_Mini_EEA|TG2405GBA|
 |Umidigi|G7_Tab_Pro|G7_Tab_Pro|TG2403GBA|
 |Umidigi|G9 Tab|G9_Tab|TG4FBG9TA|
+|Umidigi|G9 Tab|G9_Tab_EEA|TG4FBG9TA|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|
@@ -44556,6 +44572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V60|RE5C44|RMX3995|
 |realme|真我V60s|RE5C44|RMX3996|
 |redbeat|D5|D5|D5|
+|redbeat|E3|E3|E3|
 |redbeat|redbeatA2|redbeatA2|redbeatA2|
 |redbeat|redbeatM2|redbeatM2|M2|
 |redbeat|redbeatM2|redbeatM2|redbeatM2|

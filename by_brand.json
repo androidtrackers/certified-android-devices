@@ -24846,6 +24846,11 @@
    "model": "P38W_EEA"
   },
   {
+   "device": "P50L",
+   "name": "P50L",
+   "model": "P50L"
+  },
+  {
    "device": "P50L_EEA",
    "name": "P50L_EEA",
    "model": "P50L_EEA"
@@ -36939,6 +36944,11 @@
    "model": "A7070"
   },
   {
+   "device": "SEI730BSVU",
+   "name": "A7080",
+   "model": "A7080"
+  },
+  {
    "device": "HiCast",
    "name": "SV10",
    "model": "SV10"
@@ -39040,6 +39050,13 @@
    "model": "Smarty_II"
   }
  ],
+ "DuraGo": [
+  {
+   "device": "DG3200RTV",
+   "name": "DG3200RTV",
+   "model": "DG3200RTV"
+  }
+ ],
  "Durabrand": [
   {
    "device": "nippori",
@@ -39487,6 +39504,13 @@
    "device": "Venus10",
    "name": "Venus10",
    "model": "Venus10"
+  }
+ ],
+ "EJBOARD": [
+  {
+   "device": "rk3588_t",
+   "name": "EJ_IFPD",
+   "model": "EP_Series"
   }
  ],
  "EKEMP": [
@@ -83629,6 +83653,11 @@
    "model": "E28"
   },
   {
+   "device": "H14",
+   "name": "H14",
+   "model": "H14"
+  },
+  {
    "device": "H21",
    "name": "H21",
    "model": "H21"
@@ -100369,6 +100398,11 @@
    "device": "AK57",
    "name": "Lenovo A8",
    "model": "Lenovo L10041"
+  },
+  {
+   "device": "TB373FU",
+   "name": "Lenovo Idea Tab Pro",
+   "model": "TB373FU"
   },
   {
    "device": "L38082",
@@ -162946,6 +162980,46 @@
    "model": "SM-T700"
   },
   {
+   "device": "gts10uwifi",
+   "name": "Galaxy Tab S10 Ultra",
+   "model": "SM-X920"
+  },
+  {
+   "device": "gts10u",
+   "name": "Galaxy Tab S10 Ultra 5G",
+   "model": "SM-X926B"
+  },
+  {
+   "device": "gts10u",
+   "name": "Galaxy Tab S10 Ultra 5G",
+   "model": "SM-X926C"
+  },
+  {
+   "device": "gts10u",
+   "name": "Galaxy Tab S10 Ultra 5G",
+   "model": "SM-X926N"
+  },
+  {
+   "device": "gts10pwifi",
+   "name": "Galaxy Tab S10+",
+   "model": "SM-X820"
+  },
+  {
+   "device": "gts10p",
+   "name": "Galaxy Tab S10+ 5G",
+   "model": "SM-X826B"
+  },
+  {
+   "device": "gts10p",
+   "name": "Galaxy Tab S10+ 5G",
+   "model": "SM-X826N"
+  },
+  {
+   "device": "gts10p",
+   "name": "Galaxy Tab S10+ 5G",
+   "model": "SM-X828U"
+  },
+  {
    "device": "gts210lte",
    "name": "Galaxy Tab S2",
    "model": "SM-T815"
@@ -164499,6 +164573,11 @@
    "device": "lucky7bs",
    "name": "Galaxy Watch FE",
    "model": "SM-R861"
+  },
+  {
+   "device": "lucky7us",
+   "name": "Galaxy Watch FE",
+   "model": "SM-R866U"
   },
   {
    "device": "projectx2ul",
@@ -197047,6 +197126,11 @@
    "model": "TG4FBG9TA"
   },
   {
+   "device": "G9_Tab_EEA",
+   "name": "G9 Tab",
+   "model": "TG4FBG9TA"
+  },
+  {
    "device": "MT02_EEA",
    "name": "MT02_EEA",
    "model": "AblePad"
@@ -228902,6 +228986,11 @@
    "device": "D5",
    "name": "D5",
    "model": "D5"
+  },
+  {
+   "device": "E3",
+   "name": "E3",
+   "model": "E3"
   },
   {
    "device": "redbeatA2",
