@@ -17836,6 +17836,13 @@
    "model": "iPlay60_S"
   }
  ],
+ "iPlay60_mini_Turbo": [
+  {
+   "brand": "Alldocube",
+   "device": "U812",
+   "model": "iPlay60 mini Turbo"
+  }
+ ],
  "iPlay9T": [
   {
    "brand": "Alldocube",
@@ -30541,6 +30548,13 @@
    "model": "X11"
   }
  ],
+ "M1_IC0_N702_BC": [
+  {
+   "brand": "BODYCRAFT",
+   "device": "CONNECT_22",
+   "model": "CONNECT_22"
+  }
+ ],
  "B_TAB1021": [
   {
    "brand": "BOLVA",
@@ -41675,6 +41689,13 @@
    "model": "Impress_Aero"
   }
  ],
+ "PRO X": [
+  {
+   "brand": "Bridgestone_Mobility_Solutions",
+   "device": "poseidon",
+   "model": "PRO X"
+  }
+ ],
  "MAL-FWTVTB": [
   {
    "brand": "Brighton",
@@ -47786,6 +47807,13 @@
    "brand": "Ciontek",
    "device": "CS50",
    "model": "CS50"
+  }
+ ],
+ "CS50C": [
+  {
+   "brand": "Ciontek",
+   "device": "CS50C",
+   "model": "CS50C"
   }
  ],
  "CS50_EEA": [
@@ -173333,6 +173361,13 @@
    "model": "T72HMs_3G"
   }
  ],
+ "Universal Phone 1": [
+  {
+   "brand": "Oysters",
+   "device": "Universal_Phone_1",
+   "model": "UBS1"
+  }
+ ],
  "CH10": [
   {
    "brand": "PAITANRY",
@@ -190527,6 +190562,13 @@
    "model": "2406ERN9CC"
   }
  ],
+ "Redmi Note 14 Pro+": [
+  {
+   "brand": "Redmi",
+   "device": "amethyst",
+   "model": "24115RA8EC"
+  }
+ ],
  "Redmi Note 7": [
   {
    "brand": "Redmi",
@@ -206007,6 +206049,11 @@
    "brand": "Samsung",
    "device": "r12s",
    "model": "SM-S721N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r12s",
+   "model": "SM-S721Q"
   },
   {
    "brand": "Samsung",
@@ -241709,6 +241756,13 @@
    "model": "TECNO KL4"
   }
  ],
+ "TECNO POP 9 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL8h",
+   "model": "TECNO KL8h"
+  }
+ ],
  "TECNO POP X5": [
   {
    "brand": "Tecno",
@@ -241975,6 +242029,13 @@
    "brand": "Tecno",
    "device": "TECNO-KL5s",
    "model": "TECNO KL5s"
+  }
+ ],
+ "TECNO SPARK 30C 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KL8h",
+   "model": "TECNO KL8h"
   }
  ],
  "TECNO SPARK 4": [
@@ -255753,6 +255814,28 @@
    "brand": "Vivo",
    "device": "V2339",
    "model": "V2341"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2417"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2418"
+  }
+ ],
+ "V40 Lite 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2417"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2418"
   }
  ],
  "V40 Pro": [
@@ -255767,6 +255850,11 @@
    "brand": "Vivo",
    "device": "V2342",
    "model": "V2342"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2418"
   }
  ],
  "V40 SE 5G": [
@@ -255774,6 +255862,13 @@
    "brand": "Vivo",
    "device": "V2327",
    "model": "V2337"
+  }
+ ],
+ "V40 SE 80W": [
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2418"
   }
  ],
  "V40e": [
@@ -256199,6 +256294,13 @@
    "model": "V2408"
   }
  ],
+ "Y200": [
+  {
+   "brand": "Vivo",
+   "device": "V2418",
+   "model": "V2417"
+  }
+ ],
  "Y200 5G": [
   {
    "brand": "Vivo",
@@ -256358,6 +256460,13 @@
    "brand": "Vivo",
    "device": "2160",
    "model": "V2160"
+  }
+ ],
+ "Y300 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2410",
+   "model": "V2410A"
   }
  ],
  "Y31": [
@@ -265889,6 +265998,20 @@
    "brand": "Xiaomi",
    "device": "aurora",
    "model": "Xiaomi for arm64"
+  }
+ ],
+ "Xiaomi 14T": [
+  {
+   "brand": "Xiaomi",
+   "device": "degas",
+   "model": "2406APNFAG"
+  }
+ ],
+ "Xiaomi 14T Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "rothko",
+   "model": "2407FPN8EG"
   }
  ],
  "Xiaomi Civi": [

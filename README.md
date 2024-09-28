@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-27
+Last sync is 2024-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1303,6 +1303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay50_Mini_Lite|U807|iPlay50_Mini_Lite|
 |Alldocube|iPlay50_SE|iPlay50_SE|iPlay50_SE|
 |Alldocube|iPlay60_S|U1033|iPlay60_S|
+|Alldocube|iPlay60_mini_Turbo|U812|iPlay60 mini Turbo|
 |Alldocube|iPlay9T|U1008|iPlay9T|
 |Alldocube|iPlay_20|iPlay_20|iPlay_20|
 |Alldocube|iPlay_30|T1012|iPlay_30|
@@ -3057,6 +3058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Ultra|Bmobile_ULTRA_TG07|ULTRA|
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
+|BODYCRAFT|M1_IC0_N702_BC|CONNECT_22|CONNECT_22|
 |BOLVA|B_TAB1021|B_TAB1021|B_TAB1021|
 |BOREAL|Android TV|R1|ATV R1|
 |BOREAL|Android TV|R2|ATV R2|
@@ -4479,6 +4481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bravis|bravis_A506|bravis_A506|bravis_A506|
 |Bravva|DM-901|DM-901|DM-901|
 |Bravva|Impress_Aero|Impress_Aero|Impress_Aero|
+|Bridgestone_Mobility_Solutions|PRO X|poseidon|PRO X|
 |Brighton|MAL-FWTVTB|MAL-FWTVTB|MAL-FWTVTB|
 |Brightside|BS101|BS101|BS101|
 |Brightside|BS701|BS701|BS701|
@@ -5327,6 +5330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ciontek|CS20|CS20|CS20|
 |Ciontek|CS30|CS30|CS30|
 |Ciontek|CS50|CS50|CS50|
+|Ciontek|CS50C|CS50C|CS50C|
 |Ciontek|CS50_EEA|CS50|CS50|
 |Cipherlab|Cipherlab RK25|RK25|RK25|
 |Cipherlab|Hera51|Hera51|Hera51|
@@ -25635,6 +25639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oxygen.id|SEI700MRT|SEI700MRT|SEI700MRT|
 |Oysters|T72HM3G|T72HM3G|T72HM3G|
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
+|Oysters|Universal Phone 1|Universal_Phone_1|UBS1|
 |PAITANRY|CH10|CH10|CH10|
 |PAITANRY|CH10PRO|CH10PRO|CH10_PRO|
 |PAITANRY|R16|R16|R16|
@@ -28368,6 +28373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98I|
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|24040RA98R|
 |Redmi|Redmi Note 13R|breeze|2406ERN9CC|
+|Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -31119,6 +31125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S24 FE|r12s|SM-S7210|
 |Samsung|Galaxy S24 FE|r12s|SM-S721B|
 |Samsung|Galaxy S24 FE|r12s|SM-S721N|
+|Samsung|Galaxy S24 FE|r12s|SM-S721Q|
 |Samsung|Galaxy S24 FE|r12s|SM-S721U|
 |Samsung|Galaxy S24 FE|r12s|SM-S721U1|
 |Samsung|Galaxy S24 FE|r12s|SM-S721W|
@@ -37284,6 +37291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 7|TECNO-BF6|TECNO BF6|
 |Tecno|TECNO POP 8|TECNO-BG6i|TECNO BG6i|
 |Tecno|TECNO POP 9|TECNO-KL4|TECNO KL4|
+|Tecno|TECNO POP 9 5G|TECNO-KL8h|TECNO KL8h|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
 |Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
@@ -37325,6 +37333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 30 Pro|TECNO-KL7|TECNO KL7|
 |Tecno|TECNO SPARK 30C|TECNO-KL5n|TECNO KL5n|
 |Tecno|TECNO SPARK 30C|TECNO-KL5s|TECNO KL5s|
+|Tecno|TECNO SPARK 30C 5G|TECNO-KL8h|TECNO KL8h|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
@@ -39595,9 +39604,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V40|V2348|V2348|
 |Vivo|V40 Lite|V2339|V2340|
 |Vivo|V40 Lite|V2339|V2341|
+|Vivo|V40 Lite|V2418|V2417|
+|Vivo|V40 Lite|V2418|V2418|
+|Vivo|V40 Lite 5G|V2418|V2417|
+|Vivo|V40 Lite 5G|V2418|V2418|
 |Vivo|V40 Pro|V2347|V2347|
 |Vivo|V40 SE|V2342|V2342|
+|Vivo|V40 SE|V2418|V2418|
 |Vivo|V40 SE 5G|V2327|V2337|
+|Vivo|V40 SE 80W|V2418|V2418|
 |Vivo|V40e|V2403|V2403|
 |Vivo|V5Plus|V5Plus|vivo V5Plus|
 |Vivo|V9|1727ID|vivo 1727|
@@ -39681,6 +39696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
+|Vivo|Y200|V2418|V2417|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 GT|PD2361|V2361GA|
 |Vivo|Y200 Pro 5G|V2303|V2303|
@@ -39706,6 +39722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y28s 5G|V2346|V2346|
 |Vivo|Y28s 5G|V2346|V2351|
 |Vivo|Y30 5G|2160|V2160|
+|Vivo|Y300 Pro|PD2410|V2410A|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
 |Vivo|Y31L|Y31L|vivo Y31L|
@@ -41289,6 +41306,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14 Ultra|aurora|24030PN60G|
 |Xiaomi|Xiaomi 14 Ultra|aurora|24031PN0DC|
 |Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi for arm64|
+|Xiaomi|Xiaomi 14T|degas|2406APNFAG|
+|Xiaomi|Xiaomi 14T Pro|rothko|2407FPN8EG|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
