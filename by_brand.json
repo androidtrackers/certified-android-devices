@@ -47420,6 +47420,11 @@
    "model": "G GuardTV"
   },
   {
+   "device": "shibuya",
+   "name": "G GuardTV",
+   "model": "GGuardTV"
+  },
+  {
    "device": "hamamatsucho",
    "name": "fushan_Guard",
    "model": "Smart TV"
@@ -57258,6 +57263,11 @@
    "device": "protou",
    "name": "desire x",
    "model": "HTC Desire X"
+  },
+  {
+   "device": "htc_enodugls",
+   "name": "enodugls_02401",
+   "model": "HTC U24 pro"
   },
   {
    "device": "mystul",
@@ -103590,6 +103600,13 @@
    "model": "LOGIC L40"
   }
  ],
+ "Logic_Controls": [
+  {
+   "device": "Elite_9550-A",
+   "name": "Elite_9550-A",
+   "model": "Elite_9550-A"
+  }
+ ],
  "Logicom": [
   {
    "device": "BBOT50",
@@ -104556,6 +104573,11 @@
    "device": "TL42810L01",
    "name": "TL42810L01",
    "model": "TL42810L01"
+  },
+  {
+   "device": "TL4648S01",
+   "name": "TL4648S01",
+   "model": "TL4648S01"
   },
   {
    "device": "TL62810G01",
@@ -130418,6 +130440,11 @@
   }
  ],
  "Optoma": [
+  {
+   "device": "SXXSRK",
+   "name": "IFP3Gen3",
+   "model": "SXXSRK"
+  },
   {
    "device": "rk3588_t",
    "name": "IFP5Gen3",
@@ -187942,6 +187969,13 @@
    "model": "RJ TOYIN"
   }
  ],
+ "TPLAY": [
+  {
+   "device": "SEI800TCT",
+   "name": "Telecentro 4K",
+   "model": "Telecentro 4K"
+  }
+ ],
  "TPS": [
   {
    "device": "ALTAB08",
@@ -192121,9 +192155,19 @@
    "model": "TECNO Mobile BG7n"
   },
   {
+   "device": "TECNO-Mobile-KL7",
+   "name": "TECNO Mobile SPARK 30 Pro",
+   "model": "TECNO Mobile KL7"
+  },
+  {
    "device": "TECNO-Mobile-KI5q",
    "name": "TECNO SPARK 10",
    "model": "TECNO Mobile KI5q"
+  },
+  {
+   "device": "TECNO-Mobile-KL8",
+   "name": "TECNO SPARK 30 5G",
+   "model": "TECNO Mobile KL8"
   }
  ],
  "Tecnomaster": [
@@ -203464,6 +203508,11 @@
    "model": "V2341"
   },
   {
+   "device": "V2342",
+   "name": "V40 Lite",
+   "model": "V2424"
+  },
+  {
    "device": "V2418",
    "name": "V40 Lite",
    "model": "V2417"
@@ -203829,6 +203878,11 @@
    "model": "V2327"
   },
   {
+   "device": "PD2354",
+   "name": "Y100+",
+   "model": "V2354A"
+  },
+  {
    "device": "V2222",
    "name": "Y100A",
    "model": "V2222"
@@ -204172,6 +204226,11 @@
    "device": "PD2327",
    "name": "Y36t",
    "model": "V2327A"
+  },
+  {
+   "device": "PD2354M",
+   "name": "Y37 Pro",
+   "model": "V2354A"
   },
   {
    "device": "V2343",
@@ -225239,6 +225298,11 @@
   }
  ],
  "hitabt": [
+  {
+   "device": "K30A",
+   "name": "K30A",
+   "model": "K30A"
+  },
   {
    "device": "T30A_SY07PC01",
    "name": "T30A_SY07PC01",

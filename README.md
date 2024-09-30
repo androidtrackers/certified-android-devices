@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-09-29
+Last sync is 2024-09-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9126,6 +9126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Anica|HL_1088_A133P|HL_1088_A133P|HL_1088_A133P|
 |G-Guard|G Guard SMART TV|SW4H|G Guard SMART TV|
 |G-Guard|G GuardTV|shibuya|G GuardTV|
+|G-Guard|G GuardTV|shibuya|GGuardTV|
 |G-Guard|fushan_Guard|hamamatsucho|Smart TV|
 |G-Guard|vileparle|vileparle|R6G|
 |G-Guard|xiaoyushan_emG|xiaoyushan|HiSmartTV A4|
@@ -11036,6 +11037,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|desire 608t|cp3dtg|HTC 608t|
 |HTC|desire 610|htc_a3qhdul|HTC Desire 610|
 |HTC|desire x|protou|HTC Desire X|
+|HTC|enodugls_02401|htc_enodugls|HTC U24 pro|
 |HTC|first|mystul|HTC first|
 |HTC|myTouch 3G|sapphire|HTC Magic|
 |HTC|myTouch 3G|sapphire|T-Mobile myTouch 3G|
@@ -20136,6 +20138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|X57A|LOGIC_X57A|LOGIC X57A|
 |Logic Mobility|X5A|LOGIC_X5A|LOGIC X5A|
 |Logic Mobility|l409|LOGIC_L40|LOGIC L40|
+|Logic_Controls|Elite_9550-A|Elite_9550-A|Elite_9550-A|
 |Logicom|B bot 50|BBOT50|B BOT 50|
 |Logicom|B bot 550|BBOT550|B BOT 550|
 |Logicom|C bot tab 100|CBotTab100|C Bot Tab 100|
@@ -20326,6 +20329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lumitel|L9502|L9502|L9502|
 |Lumitel|L9503|L9503|L9503|
 |Lunnen|TL42810L01|TL42810L01|TL42810L01|
+|Lunnen|TL4648S01|TL4648S01|TL4648S01|
 |Lunnen|TL62810G01|TL62810G01|TL62810G01|
 |Lyf|LS-4004|LS-4004|LS-4004|
 |Lyf|LS-4006|LS-4006|LYF_LS-4006|
@@ -25343,6 +25347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Opticon|H-31|h31|h31|
 |Opticon|H-33|h33|h33|
 |Opticon|H-35|H-35|H-35|
+|Optoma|IFP3Gen3|SXXSRK|SXXSRK|
 |Optoma|IFP5Gen3|rk3588_t|UXXSRK|
 |Oraimo|R401|oraimo-R401|oraimo R401|
 |Oraimo|R402|oraimo-R402|oraimo R402|
@@ -36612,6 +36617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOYA|Poland|DTC974x|DTC974x|
 |TOYA|Poland|DTC974y|DTC9740|
 |TOYIN|RJ TOYIN|RJ_TOYIN|RJ TOYIN|
+|TPLAY|Telecentro 4K|SEI800TCT|Telecentro 4K|
 |TPS|ALTAB08|ALTAB08|ALTAB08|
 |TPS|MTC 982o|MTC_982O|MTC_982O|
 |TPS|S10-9863|S10-9863|S10-9863|
@@ -37429,7 +37435,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|TECNO Mobile SPARK 20|TECNO-Mobile-KJ5n|TECNO Mobile KJ5n|
 |Tecno Mobile|TECNO Mobile SPARK 20 Pro+|TECNO-Mobile-KJ7|TECNO Mobile KJ7|
 |Tecno Mobile|TECNO Mobile SPARK 20C|TECNO-Mobile-BG7n|TECNO Mobile BG7n|
+|Tecno Mobile|TECNO Mobile SPARK 30 Pro|TECNO-Mobile-KL7|TECNO Mobile KL7|
 |Tecno Mobile|TECNO SPARK 10|TECNO-Mobile-KI5q|TECNO Mobile KI5q|
+|Tecno Mobile|TECNO SPARK 30 5G|TECNO-Mobile-KL8|TECNO Mobile KL8|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
 |Tecnomaster|TESHM8863|TESHM8863|TESHM8863|
@@ -39604,6 +39612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V40|V2348|V2348|
 |Vivo|V40 Lite|V2339|V2340|
 |Vivo|V40 Lite|V2339|V2341|
+|Vivo|V40 Lite|V2342|V2424|
 |Vivo|V40 Lite|V2418|V2417|
 |Vivo|V40 Lite|V2418|V2418|
 |Vivo|V40 Lite 5G|V2418|V2417|
@@ -39677,6 +39686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y100|V2342|V2342|
 |Vivo|Y100|V2342|V2412|
 |Vivo|Y100 5G|V2327|V2327|
+|Vivo|Y100+|PD2354|V2354A|
 |Vivo|Y100A|V2222|V2222|
 |Vivo|Y11|PD2236|V2236A|
 |Vivo|Y11|Y11|vivo Y11|
@@ -39746,6 +39756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y36m|PD2318|V2318A|
 |Vivo|Y36s|PD2318|V2318A|
 |Vivo|Y36t|PD2327|V2327A|
+|Vivo|Y37 Pro|PD2354M|V2354A|
 |Vivo|Y38 5G|V2343|V2343|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
@@ -43856,6 +43867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |generaltouch|ERGO22|ERGO22|ERGO22|
 |generaltouch|ERGO22|ERGO22|ERGO22_eea|
 |halotel|H8502|H8502|H8502|
+|hitabt|K30A|K30A|K30A|
 |hitabt|T30A_SY07PC01|T30A_SY07PC01|SY07-PC01|
 |homez|Smart TV|redwood|AI PONT|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|

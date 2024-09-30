@@ -15391,6 +15391,11 @@
    "model": "G GuardTV"
   },
   {
+   "brand": "G-Guard",
+   "name": "G GuardTV",
+   "model": "GGuardTV"
+  },
+  {
    "brand": "Itel",
    "name": "itel TV",
    "model": "itel TV"
@@ -86127,6 +86132,13 @@
    "model": "Wildfire R70"
   }
  ],
+ "htc_enodugls": [
+  {
+   "brand": "HTC",
+   "name": "enodugls_02401",
+   "model": "HTC U24 pro"
+  }
+ ],
  "mystul": [
   {
    "brand": "HTC",
@@ -140108,6 +140120,13 @@
    "model": "LOGIC L40"
   }
  ],
+ "Elite_9550-A": [
+  {
+   "brand": "Logic_Controls",
+   "name": "Elite_9550-A",
+   "model": "Elite_9550-A"
+  }
+ ],
  "BBOT50": [
   {
    "brand": "Logicom",
@@ -141383,6 +141402,13 @@
    "brand": "Lunnen",
    "name": "TL42810L01",
    "model": "TL42810L01"
+  }
+ ],
+ "TL4648S01": [
+  {
+   "brand": "Lunnen",
+   "name": "TL4648S01",
+   "model": "TL4648S01"
   }
  ],
  "TL62810G01": [
@@ -171934,6 +171960,13 @@
    "brand": "Opticon",
    "name": "H-35",
    "model": "H-35"
+  }
+ ],
+ "SXXSRK": [
+  {
+   "brand": "Optoma",
+   "name": "IFP3Gen3",
+   "model": "SXXSRK"
   }
  ],
  "oraimo-R401": [
@@ -239310,6 +239343,13 @@
    "model": "RJ TOYIN"
   }
  ],
+ "SEI800TCT": [
+  {
+   "brand": "TPLAY",
+   "name": "Telecentro 4K",
+   "model": "Telecentro 4K"
+  }
+ ],
  "ALTAB08": [
   {
    "brand": "TPS",
@@ -244577,11 +244617,25 @@
    "model": "TECNO Mobile BG7n"
   }
  ],
+ "TECNO-Mobile-KL7": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO Mobile SPARK 30 Pro",
+   "model": "TECNO Mobile KL7"
+  }
+ ],
  "TECNO-Mobile-KI5q": [
   {
    "brand": "Tecno Mobile",
    "name": "TECNO SPARK 10",
    "model": "TECNO Mobile KI5q"
+  }
+ ],
+ "TECNO-Mobile-KL8": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO SPARK 30 5G",
+   "model": "TECNO Mobile KL8"
   }
  ],
  "EDT800": [
@@ -257092,6 +257146,11 @@
   },
   {
    "brand": "Vivo",
+   "name": "V40 Lite",
+   "model": "V2424"
+  },
+  {
+   "brand": "Vivo",
    "name": "V40 SE",
    "model": "V2342"
   },
@@ -257706,6 +257765,18 @@
    "model": "V2239"
   }
  ],
+ "PD2354": [
+  {
+   "brand": "Vivo",
+   "name": "Y100+",
+   "model": "V2354A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y200i",
+   "model": "V2354A"
+  }
+ ],
  "PD2236": [
   {
    "brand": "Vivo",
@@ -257773,13 +257844,6 @@
    "brand": "Vivo",
    "name": "iQOO Z9",
    "model": "V2361A"
-  }
- ],
- "PD2354": [
-  {
-   "brand": "Vivo",
-   "name": "Y200i",
-   "model": "V2354A"
   }
  ],
  "Y21": [
@@ -258032,6 +258096,13 @@
    "brand": "Vivo",
    "name": "Y36t",
    "model": "V2327A"
+  }
+ ],
+ "PD2354M": [
+  {
+   "brand": "Vivo",
+   "name": "Y37 Pro",
+   "model": "V2354A"
   }
  ],
  "V2343": [
@@ -281474,6 +281545,13 @@
    "brand": "halotel",
    "name": "H8502",
    "model": "H8502"
+  }
+ ],
+ "K30A": [
+  {
+   "brand": "hitabt",
+   "name": "K30A",
+   "model": "K30A"
   }
  ],
  "T30A_SY07PC01": [
