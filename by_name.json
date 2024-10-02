@@ -80617,6 +80617,13 @@
    "model": "staryu"
   }
  ],
+ "Mediatek MT8188G Detachable": [
+  {
+   "brand": "Google",
+   "device": "geralt_cheets",
+   "model": "geralt"
+  }
+ ],
  "Mediatek MT8192 Chromebook": [
   {
    "brand": "Google",
@@ -118718,6 +118725,11 @@
   },
   {
    "brand": "KTCtv",
+   "device": "minami",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "mountbaker",
    "model": "2K SMART TV"
   }
@@ -154275,6 +154287,13 @@
    "model": "XT300"
   }
  ],
+ "ThinkPhone 25 by motorola": [
+  {
+   "brand": "Motorola",
+   "device": "vienna",
+   "model": "ThinkPhone 25 by motorola"
+  }
+ ],
  "ThinkPhone by Motorola": [
   {
    "brand": "Motorola",
@@ -155713,6 +155732,13 @@
    "brand": "Motorola",
    "device": "devonf",
    "model": "moto g73 5G"
+  }
+ ],
+ "moto g75 5G": [
+  {
+   "brand": "Motorola",
+   "device": "sorap",
+   "model": "moto g75 5G"
   }
  ],
  "moto g82 5G": [
@@ -213756,6 +213782,13 @@
    "brand": "Sharp",
    "device": "tcvenruj",
    "model": "AQUOS-4KTVJ22-2"
+  }
+ ],
+ "4T-C**GL1/GJ1/GJ2": [
+  {
+   "brand": "Sharp",
+   "device": "awaroa",
+   "model": "AQUOS-4KTVJ24-2"
   }
  ],
  "4T-C**GP1/GS1/GQ1/GN1": [

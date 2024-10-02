@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-01
+Last sync is 2024-10-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9912,6 +9912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
 |Google|Mediatek MT8186 Chromebook|corsola_cheets|corsola|
 |Google|Mediatek MT8186 Tablet|staryu_cheets|staryu|
+|Google|Mediatek MT8188G Detachable|geralt_cheets|geralt|
 |Google|Mediatek MT8192 Chromebook|asurada_cheets|asurada|
 |Google|Mediatek MT8195 Chromebook|cherry_cheets|cherry|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
@@ -16434,6 +16435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|POWEROLOGY|hongkong|4K SMART TV|
 |KTCtv|QRIOM|hongkong|4K SMART TV|
 |KTCtv|QRIOM|lavender|4K SMART TV|
+|KTCtv|QRIOM|minami|2K SMART TV|
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
@@ -22506,6 +22508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Razr V|umts_yangtze|XT886|
 |Motorola|Smart TV|longshan|AI PONT|
 |Motorola|Spice|sesame|XT300|
+|Motorola|ThinkPhone 25 by motorola|vienna|ThinkPhone 25 by motorola|
 |Motorola|ThinkPhone by Motorola|bronco|ThinkPhone by motorola|
 |Motorola|ThinkPhone by Motorola|bronco|motorola edge 30 pro|
 |Motorola|XOOM|stingray|Xoom|
@@ -22744,6 +22747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g72|vicky|moto g72|
 |Motorola|moto g73 5G|devonf|moto g(50) 5G|
 |Motorola|moto g73 5G|devonf|moto g73 5G|
+|Motorola|moto g75 5G|sorap|moto g75 5G|
 |Motorola|moto g82 5G|rhodep|XT2169-2|
 |Motorola|moto g82 5G|rhodep|XT2225-2|
 |Motorola|moto g82 5G|rhodep|moto g71 5G|
@@ -32517,6 +32521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**DS1/DN1/DP1|tcvenuj|AQUOS-TVJ21|
 |Sharp|4T-C**EN1/EQ1/ES1/EU1/EP1/FN1|tcvenruj|AQUOS-4KTVJ22|
 |Sharp|4T-C**EN2/EL1/EQ2/FN2/FL1|tcvenruj|AQUOS-4KTVJ22-2|
+|Sharp|4T-C**GL1/GJ1/GJ2|awaroa|AQUOS-4KTVJ24-2|
 |Sharp|4T-C**GP1/GS1/GQ1/GN1|tcmar1uj|AQUOS-4KTVJ23-1|
 |Sharp|4T-C**GP2/GQ2/GN2|tcmar1uj|AQUOS-4KTVJ23-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|

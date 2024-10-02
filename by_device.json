@@ -79302,6 +79302,13 @@
    "model": "staryu"
   }
  ],
+ "geralt_cheets": [
+  {
+   "brand": "Google",
+   "name": "Mediatek MT8188G Detachable",
+   "model": "geralt"
+  }
+ ],
  "asurada_cheets": [
   {
    "brand": "Google",
@@ -117262,6 +117269,11 @@
    "brand": "KTCtv",
    "name": "Leading Smart TV",
    "model": "EcoTV J"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "QRIOM",
+   "model": "2K SMART TV"
   }
  ],
  "TMS-KR01P": [
@@ -155072,6 +155084,18 @@
    "model": "XT300"
   }
  ],
+ "vienna": [
+  {
+   "brand": "Motorola",
+   "name": "ThinkPhone 25 by motorola",
+   "model": "ThinkPhone 25 by motorola"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 50 neo",
+   "model": "motorola edge 50 neo"
+  }
+ ],
  "bronco": [
   {
    "brand": "Motorola",
@@ -156391,6 +156415,13 @@
    "model": "moto g73 5G"
   }
  ],
+ "sorap": [
+  {
+   "brand": "Motorola",
+   "name": "moto g75 5G",
+   "model": "moto g75 5G"
+  }
+ ],
  "rhodep": [
   {
    "brand": "Motorola",
@@ -156800,13 +156831,6 @@
    "brand": "Motorola",
    "name": "motorola edge 50 fusion",
    "model": "motorola edge 50 fusion"
-  }
- ],
- "vienna": [
-  {
-   "brand": "Motorola",
-   "name": "motorola edge 50 neo",
-   "model": "motorola edge 50 neo"
   }
  ],
  "eqe": [
@@ -215562,6 +215586,13 @@
    "brand": "Sharp",
    "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
    "model": "AQUOS-4KTVJ22-2"
+  }
+ ],
+ "awaroa": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**GL1/GJ1/GJ2",
+   "model": "AQUOS-4KTVJ24-2"
   }
  ],
  "tcmar1uj": [
