@@ -168155,6 +168155,11 @@
    "model": "SH-M25"
   },
   {
+   "device": "JUD",
+   "name": "AQUOS wish4",
+   "model": "SHG13"
+  },
+  {
    "device": "SH-52E",
    "name": "AQUOS wish4",
    "model": "SD0L4"
@@ -168168,6 +168173,11 @@
    "device": "SX4",
    "name": "AQUOS wish4",
    "model": "A402SH"
+  },
+  {
+   "device": "SX4",
+   "name": "AQUOS wish4",
+   "model": "A403SH"
   },
   {
    "device": "SX4",

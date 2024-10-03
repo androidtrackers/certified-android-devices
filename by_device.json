@@ -217049,6 +217049,13 @@
    "model": "SH-M25"
   }
  ],
+ "JUD": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish4",
+   "model": "SHG13"
+  }
+ ],
  "SH-52E": [
   {
    "brand": "Sharp",
@@ -217066,6 +217073,11 @@
    "brand": "Sharp",
    "name": "AQUOS wish4",
    "model": "A402SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish4",
+   "model": "A403SH"
   },
   {
    "brand": "Sharp",

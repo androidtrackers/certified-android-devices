@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-02
+Last sync is 2024-10-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32731,9 +32731,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish3|SX3|A303SH|
 |Sharp|AQUOS wish3|SX3|A303SH-y|
 |Sharp|AQUOS wish3|SX3|SH-M25|
+|Sharp|AQUOS wish4|JUD|SHG13|
 |Sharp|AQUOS wish4|SH-52E|SD0L4|
 |Sharp|AQUOS wish4|SH-52E|SH-52E|
 |Sharp|AQUOS wish4|SX4|A402SH|
+|Sharp|AQUOS wish4|SX4|A403SH|
 |Sharp|AQUOS wish4|SX4|SH-M27|
 |Sharp|AQUOS wish4|SX4|SM0L4|
 |Sharp|AQUOS zero|SG801SH|801SH|

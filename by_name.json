@@ -215176,6 +215176,11 @@
  "AQUOS wish4": [
   {
    "brand": "Sharp",
+   "device": "JUD",
+   "model": "SHG13"
+  },
+  {
+   "brand": "Sharp",
    "device": "SH-52E",
    "model": "SD0L4"
   },
@@ -215188,6 +215193,11 @@
    "brand": "Sharp",
    "device": "SX4",
    "model": "A402SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SX4",
+   "model": "A403SH"
   },
   {
    "brand": "Sharp",
