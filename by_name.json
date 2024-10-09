@@ -26719,6 +26719,11 @@
    "model": "A30"
   },
   {
+   "brand": "Cubot",
+   "device": "A30",
+   "model": "A30"
+  },
+  {
    "brand": "Hiking",
    "device": "A30",
    "model": "A30"
@@ -88917,6 +88922,11 @@
    "model": "V3"
   },
   {
+   "brand": "Sunmi",
+   "device": "V3",
+   "model": "V3"
+  },
+  {
    "brand": "Vernee",
    "device": "V3",
    "model": "V3"
@@ -89120,6 +89130,13 @@
    "brand": "Hammer",
    "device": "Hammer_Blade_5G",
    "model": "Hammer_Blade_5G"
+  }
+ ],
+ "Hammer Blade Va 5G EEA": [
+  {
+   "brand": "Hammer",
+   "device": "HS2402",
+   "model": "Hammer Blade Va 5G"
   }
  ],
  "Hammer Construction": [
@@ -96357,6 +96374,25 @@
    "model": "WOD-LX3"
   }
  ],
+ "HONOR X5b": [
+  {
+   "brand": "Honor",
+   "device": "HNGFY-M",
+   "model": "GFY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNGFY-M",
+   "model": "GFY-LX3"
+  }
+ ],
+ "HONOR X5b Plus": [
+  {
+   "brand": "Honor",
+   "device": "HNGFY-M",
+   "model": "GFY-LX2P"
+  }
+ ],
  "HONOR X6": [
   {
    "brand": "Honor",
@@ -97211,6 +97247,13 @@
    "model": "Note 15 Pro"
   }
  ],
+ "Note _12 _EF": [
+  {
+   "brand": "Hotwav",
+   "device": "Note_12_EF",
+   "model": "Note 12 EF"
+  }
+ ],
  "Pad 11": [
   {
    "brand": "Hotwav",
@@ -97335,6 +97378,13 @@
    "brand": "Hotwav",
    "device": "TAB_R8",
    "model": "TAB R8"
+  }
+ ],
+ "TAB R9 Pro EEA": [
+  {
+   "brand": "Hotwav",
+   "device": "TAB_R9_Pro",
+   "model": "TAB R9 Pro"
   }
  ],
  "Venus": [
@@ -115627,6 +115677,11 @@
   {
    "brand": "JUEDUR",
    "device": "R800_U_EEA",
+   "model": "R800_EEA"
+  },
+  {
+   "brand": "JUEDUR",
+   "device": "R800_U_EEA",
    "model": "R800_U_EEA"
   }
  ],
@@ -122836,6 +122891,13 @@
    "brand": "Kyocera",
    "device": "KY22L-ST200",
    "model": "KYG02"
+  }
+ ],
+ "DIGNO SX4": [
+  {
+   "brand": "Kyocera",
+   "device": "KY24L-ST200",
+   "model": "KC-S305"
   }
  ],
  "DIGNO SX4 Wi-Fi": [
@@ -139692,6 +139754,13 @@
    "brand": "Logic Instrument",
    "device": "lifbn80",
    "model": "Logic Instrument Fieldbook N80"
+  }
+ ],
+ "G1L": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_G1L",
+   "model": "G1L"
   }
  ],
  "L4T": [
@@ -165980,6 +166049,13 @@
    "model": "A12"
   }
  ],
+ "A12_RUS": [
+  {
+   "brand": "Odea",
+   "device": "A12_RUS",
+   "model": "A12"
+  }
+ ],
  "S11_EEA": [
   {
    "brand": "Odea",
@@ -166971,6 +167047,13 @@
    "brand": "OnePlus",
    "device": "OP5D49L1",
    "model": "CPH2621"
+  }
+ ],
+ "Oneplus Pad2": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5DAAL1",
+   "model": "OPD2403"
   }
  ],
  "Oneplus_Dosa_IN": [
@@ -179427,6 +179510,13 @@
    "model": "PM351"
   }
  ],
+ "PM352": [
+  {
+   "brand": "Point Mobile",
+   "device": "PM352",
+   "model": "PM352"
+  }
+ ],
  "PM45": [
   {
    "brand": "Point Mobile",
@@ -179598,6 +179688,13 @@
    "brand": "Point of view",
    "device": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
+  }
+ ],
+ "PM452": [
+  {
+   "brand": "PointMobile",
+   "device": "PM452",
+   "model": "PM452"
   }
  ],
  "M600": [
@@ -239333,6 +239430,11 @@
    "brand": "Teclast",
    "device": "P30T",
    "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P30T_B",
+   "model": "P30T"
   }
  ],
  "P30T_ROW": [
@@ -256569,6 +256671,13 @@
    "model": "V2160"
   }
  ],
+ "Y300 Plus 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2422",
+   "model": "V2422"
+  }
+ ],
  "Y300 Pro": [
   {
    "brand": "Vivo",
@@ -262905,6 +263014,11 @@
    "brand": "Wileyfox",
    "device": "marmite",
    "model": "Wileyfox Swift 2 Plus"
+  },
+  {
+   "brand": "iMin",
+   "device": "Swift2",
+   "model": "I23M01_EEA"
   },
   {
    "brand": "iMin",
@@ -281850,18 +281964,23 @@
    "model": "I22T01"
   }
  ],
- "I24T01": [
+ "Falcon 2": [
   {
    "brand": "iMin",
    "device": "Falcon2",
    "model": "I24T01"
-  }
- ],
- "I24T02": [
+  },
   {
    "brand": "iMin",
    "device": "Falcon2",
    "model": "I24T02"
+  }
+ ],
+ "Lark1": [
+  {
+   "brand": "iMin",
+   "device": "Lark1",
+   "model": "I24P01"
   }
  ],
  "Swan 1 Pro": [
@@ -281895,13 +282014,6 @@
    "brand": "iMin",
    "device": "Swift2Pro",
    "model": "I23M02"
-  }
- ],
- "Swift2_EEA": [
-  {
-   "brand": "iMin",
-   "device": "Swift2",
-   "model": "I23M01_EEA"
   }
  ],
  "EG104": [

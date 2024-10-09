@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-08
+Last sync is 2024-10-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6109,6 +6109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|A10|A10|A10|
 |Cubot|A1_EEA|A1|A1|
 |Cubot|A20|A20|A20|
+|Cubot|A30|A30|A30|
 |Cubot|C20|C20|C20|
 |Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
@@ -11285,6 +11286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
 |Hammer|Hammer Blade 4|Hammer_Blade_4|Hammer_Blade_4|
 |Hammer|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
+|Hammer|Hammer Blade Va 5G EEA|HS2402|Hammer Blade Va 5G|
 |Hammer|Hammer Construction|Hammer_Construction|Hammer_Construction|
 |Hammer|Hammer Energy 2 2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Hammer|Hammer Explorer Plus|Explorer_Plus|Hammer_Explorer_Plus|
@@ -12465,6 +12467,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X5 Plus|HNWDY-M|WOD-LX1|
 |Honor|HONOR X5 Plus|HNWDY-M|WOD-LX2|
 |Honor|HONOR X5 Plus|HNWDY-M|WOD-LX3|
+|Honor|HONOR X5b|HNGFY-M|GFY-LX2|
+|Honor|HONOR X5b|HNGFY-M|GFY-LX3|
+|Honor|HONOR X5b Plus|HNGFY-M|GFY-LX2P|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|
 |Honor|HONOR X6|HNVNE-M|VNE-LX2|
 |Honor|HONOR X6|HNVNE-M|VNE-LX3|
@@ -12597,6 +12602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Note 15|Note_15|Note 15|
 |Hotwav|Note 15 EEA|Note_15|Note 15|
 |Hotwav|Note 15 Pro|Note_15_Pro|Note 15 Pro|
+|Hotwav|Note _12 _EF|Note_12_EF|Note 12 EF|
 |Hotwav|Pad 11|Pad_11_EEA|Pad 11|
 |Hotwav|Pearl K1|Pearl_K1|Pearl K1|
 |Hotwav|Pearl K2|Pearl_K2|Pearl K2|
@@ -12615,6 +12621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|TAB R6 Pro|TAB_R6_Pro|TAB R6 Pro|
 |Hotwav|TAB R6 Ultra|TAB_R6_Ultra|TAB R6 Ultra|
 |Hotwav|TAB R8|TAB_R8|TAB R8|
+|Hotwav|TAB R9 Pro EEA|TAB_R9_Pro|TAB R9 Pro|
 |Hotwav|Venus|Venus|Venus|
 |Hotwav|W10|W10|W10|
 |Hotwav|W10 Pro|W10_Pro|W10 Pro|
@@ -15903,6 +15910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JUEDUR|R700_US|R700_US|R700_US|
 |JUEDUR|R800_EEA|R800_EEA|R800_EEA|
 |JUEDUR|R800_US|R800_US|R800_US|
+|JUEDUR|R800_U_EEA|R800_U_EEA|R800_EEA|
 |JUEDUR|R800_U_EEA|R800_U_EEA|R800_U_EEA|
 |JUEDUR|R900_EEA|R900_EEA|R900_EEA|
 |JUEDUR|R900_US|R900_US|R900_US|
@@ -17046,6 +17054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO SANGA edition|KC-S304|KC-S304|
 |Kyocera|DIGNO SX2|KY21L-ST100|KC-S302|
 |Kyocera|DIGNO SX3|KY22L-ST200|KYG02|
+|Kyocera|DIGNO SX4|KY24L-ST200|KC-S305|
 |Kyocera|DIGNO SX4 Wi-Fi|KY24L-ST300|KC-S205|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
@@ -20088,6 +20097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Logic Instrument Fieldbook N101|lifbn101|Logic Instrument Fieldbook N101|
 |Logic Instrument|Logic Instrument Fieldbook N101G2|lifbn101g2|Logic Instrument Fieldbook N101G2|
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
+|Logic Mobility|G1L|LOGIC_G1L|G1L|
 |Logic Mobility|L4T|L4T|L4T|
 |Logic Mobility|L50|LOGIC_L50|LOGIC L50|
 |Logic Mobility|L50 Plus|L50_PLUS|L50 PLUS|
@@ -24443,6 +24453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odea|A11_ROW|A11_ROW|A11|
 |Odea|A12_EEA|A12_EEA|A12|
 |Odea|A12_ROW|A12_ROW|A12|
+|Odea|A12_RUS|A12_RUS|A12|
 |Odea|S11_EEA|S11_EEA|S11|
 |Odea|S11_ROW|S11_ROW|S11|
 |Odido|4K TV Box|SEI800TFAS|4K TV Box|
@@ -24619,6 +24630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|Oneplus Ace 2 Pro|OP5943L1|PJA110|
 |OnePlus|Oneplus Ace 3 Pro|OP5D06L1|PJX110|
 |OnePlus|Oneplus Nord CE4 Lite 5G|OP5D49L1|CPH2621|
+|OnePlus|Oneplus Pad2|OP5DAAL1|OPD2403|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
@@ -26613,6 +26625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pluzz|PLUZZ_PL5510|PLUZZ_PL5510|PLUZZ_PL5510|
 |Point Mobile|PM30|pm30|PM30|
 |Point Mobile|PM351|PM351|PM351|
+|Point Mobile|PM352|PM352|PM352|
 |Point Mobile|PM45|pm45|PM45|
 |Point Mobile|PM451|PM451|PM451|
 |Point Mobile|PM45E|pm45e|PM45E|
@@ -26638,6 +26651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point of view|TAB_7232_3G_A|TAB_7232_3G_A|TAB_7232_3G_A|
 |Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
 |Point of view|TAB_TS101S_LTE|TAB_TS101S_LTE|TAB_TS101S_LTE|
+|PointMobile|PM452|PM452|PM452|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -34595,6 +34609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_GL|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_RU|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_TR|
+|Sunmi|V3|V3|V3|
 |Sunmi|V3 MIX|V3_MIX|V3_MIX_EDLA_GL|
 |Sunny|SN01DNGL300|YQB|SN01DNGL300|
 |Sunny|SN10016|SN10016|SN10016|
@@ -36897,6 +36912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30S_W_EEA|P30S_W_EEA|P30S_W_EEA|
 |Teclast|P30S_W_ROW|P30S_W_ROW|P30S_W_ROW|
 |Teclast|P30T_EEA|P30T|P30T|
+|Teclast|P30T_EEA|P30T_B|P30T|
 |Teclast|P30T_ROW|P30T|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T_ROW|
@@ -39739,6 +39755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y28s 5G|V2346|V2346|
 |Vivo|Y28s 5G|V2346|V2351|
 |Vivo|Y30 5G|2160|V2160|
+|Vivo|Y300 Plus 5G|V2422|V2422|
 |Vivo|Y300 Pro|PD2410|V2410A|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
@@ -44128,15 +44145,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Crane1|Crane1|Crane1-16|
 |iMin|D4 Pro|D4Pro|I23D01|
 |iMin|Falcon 1|I22T01|I22T01|
-|iMin|I24T01|Falcon2|I24T01|
-|iMin|I24T02|Falcon2|I24T02|
+|iMin|Falcon 2|Falcon2|I24T01|
+|iMin|Falcon 2|Falcon2|I24T02|
+|iMin|Lark1|Lark1|I24P01|
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|
 |iMin|Swift 1 Pro|Swift1Pro|I23M03|
+|iMin|Swift 2|Swift2|I23M01_EEA|
 |iMin|Swift 2|Swift2|I23M01_GL|
 |iMin|Swift 2 Pro|Swift2Pro|I23M02|
-|iMin|Swift2_EEA|Swift2|I23M01_EEA|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
 |iMuz|"Foryou Digital Co.|Ltd"|EG125|

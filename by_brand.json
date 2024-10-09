@@ -31619,6 +31619,11 @@
    "model": "A20"
   },
   {
+   "device": "A30",
+   "name": "A30",
+   "model": "A30"
+  },
+  {
    "device": "C20",
    "name": "C20",
    "model": "C20"
@@ -58533,6 +58538,11 @@
    "model": "Hammer_Blade_5G"
   },
   {
+   "device": "HS2402",
+   "name": "Hammer Blade Va 5G EEA",
+   "model": "Hammer Blade Va 5G"
+  },
+  {
    "device": "Hammer_Construction",
    "name": "Hammer Construction",
    "model": "Hammer_Construction"
@@ -64523,6 +64533,21 @@
    "model": "WOD-LX3"
   },
   {
+   "device": "HNGFY-M",
+   "name": "HONOR X5b",
+   "model": "GFY-LX2"
+  },
+  {
+   "device": "HNGFY-M",
+   "name": "HONOR X5b",
+   "model": "GFY-LX3"
+  },
+  {
+   "device": "HNGFY-M",
+   "name": "HONOR X5b Plus",
+   "model": "GFY-LX2P"
+  },
+  {
    "device": "HNVNE-M",
    "name": "HONOR X6",
    "model": "VNE-LX1"
@@ -65193,6 +65218,11 @@
    "model": "Note 15 Pro"
   },
   {
+   "device": "Note_12_EF",
+   "name": "Note _12 _EF",
+   "model": "Note 12 EF"
+  },
+  {
    "device": "Pad_11_EEA",
    "name": "Pad 11",
    "model": "Pad 11"
@@ -65281,6 +65311,11 @@
    "device": "TAB_R8",
    "name": "TAB R8",
    "model": "TAB R8"
+  },
+  {
+   "device": "TAB_R9_Pro",
+   "name": "TAB R9 Pro EEA",
+   "model": "TAB R9 Pro"
   },
   {
    "device": "Venus",
@@ -81985,6 +82020,11 @@
   {
    "device": "R800_U_EEA",
    "name": "R800_U_EEA",
+   "model": "R800_EEA"
+  },
+  {
+   "device": "R800_U_EEA",
+   "name": "R800_U_EEA",
    "model": "R800_U_EEA"
   },
   {
@@ -87950,6 +87990,11 @@
    "device": "KY22L-ST200",
    "name": "DIGNO SX3",
    "model": "KYG02"
+  },
+  {
+   "device": "KY24L-ST200",
+   "name": "DIGNO SX4",
+   "model": "KC-S305"
   },
   {
    "device": "KY24L-ST300",
@@ -103349,6 +103394,11 @@
   }
  ],
  "Logic Mobility": [
+  {
+   "device": "LOGIC_G1L",
+   "name": "G1L",
+   "model": "G1L"
+  },
   {
    "device": "L4T",
    "name": "L4T",
@@ -125865,6 +125915,11 @@
    "model": "A12"
   },
   {
+   "device": "A12_RUS",
+   "name": "A12_RUS",
+   "model": "A12"
+  },
+  {
    "device": "S11_EEA",
    "name": "S11_EEA",
    "model": "S11"
@@ -126773,6 +126828,11 @@
    "device": "OP5D49L1",
    "name": "Oneplus Nord CE4 Lite 5G",
    "model": "CPH2621"
+  },
+  {
+   "device": "OP5DAAL1",
+   "name": "Oneplus Pad2",
+   "model": "OPD2403"
   },
   {
    "device": "Oneplus_Dosa_IN",
@@ -136977,6 +137037,11 @@
    "model": "PM351"
   },
   {
+   "device": "PM352",
+   "name": "PM352",
+   "model": "PM352"
+  },
+  {
    "device": "pm45",
    "name": "PM45",
    "model": "PM45"
@@ -137102,6 +137167,13 @@
    "device": "TAB_TS101S_LTE",
    "name": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
+  }
+ ],
+ "PointMobile": [
+  {
+   "device": "PM452",
+   "name": "PM452",
+   "model": "PM452"
   }
  ],
  "Pokini": [
@@ -177685,6 +177757,11 @@
    "model": "V2sPLUSNC_TR"
   },
   {
+   "device": "V3",
+   "name": "V3",
+   "model": "V3"
+  },
+  {
    "device": "V3_MIX",
    "name": "V3 MIX",
    "model": "V3_MIX_EDLA_GL"
@@ -189457,6 +189534,11 @@
   },
   {
    "device": "P30T",
+   "name": "P30T_EEA",
+   "model": "P30T"
+  },
+  {
+   "device": "P30T_B",
    "name": "P30T_EEA",
    "model": "P30T"
   },
@@ -204141,6 +204223,11 @@
    "device": "2160",
    "name": "Y30 5G",
    "model": "V2160"
+  },
+  {
+   "device": "V2422",
+   "name": "Y300 Plus 5G",
+   "model": "V2422"
   },
   {
    "device": "PD2410",
@@ -226653,13 +226740,18 @@
   },
   {
    "device": "Falcon2",
-   "name": "I24T01",
+   "name": "Falcon 2",
    "model": "I24T01"
   },
   {
    "device": "Falcon2",
-   "name": "I24T02",
+   "name": "Falcon 2",
    "model": "I24T02"
+  },
+  {
+   "device": "Lark1",
+   "name": "Lark1",
+   "model": "I24P01"
   },
   {
    "device": "Swan1Pro",
@@ -226684,17 +226776,17 @@
   {
    "device": "Swift2",
    "name": "Swift 2",
+   "model": "I23M01_EEA"
+  },
+  {
+   "device": "Swift2",
+   "name": "Swift 2",
    "model": "I23M01_GL"
   },
   {
    "device": "Swift2Pro",
    "name": "Swift 2 Pro",
    "model": "I23M02"
-  },
-  {
-   "device": "Swift2",
-   "name": "Swift2_EEA",
-   "model": "I23M01_EEA"
   }
  ],
  "iMuz": [

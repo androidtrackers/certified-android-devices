@@ -27633,6 +27633,11 @@
    "model": "A30"
   },
   {
+   "brand": "Cubot",
+   "name": "A30",
+   "model": "A30"
+  },
+  {
    "brand": "Hiking",
    "name": "A30",
    "model": "A30"
@@ -87327,6 +87332,11 @@
    "model": "V3"
   },
   {
+   "brand": "Sunmi",
+   "name": "V3",
+   "model": "V3"
+  },
+  {
    "brand": "Vernee",
    "name": "V3",
    "model": "V3"
@@ -87559,6 +87569,13 @@
    "brand": "Hammer",
    "name": "Hammer Blade 5G",
    "model": "Hammer_Blade_5G"
+  }
+ ],
+ "HS2402": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Blade Va 5G EEA",
+   "model": "Hammer Blade Va 5G"
   }
  ],
  "Hammer_Construction": [
@@ -94468,6 +94485,23 @@
    "model": "WDY-LX3"
   }
  ],
+ "HNGFY-M": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X5b",
+   "model": "GFY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X5b",
+   "model": "GFY-LX3"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X5b Plus",
+   "model": "GFY-LX2P"
+  }
+ ],
  "HNVNE-M": [
   {
    "brand": "Honor",
@@ -95202,6 +95236,13 @@
    "model": "Note 15 Pro"
   }
  ],
+ "Note_12_EF": [
+  {
+   "brand": "Hotwav",
+   "name": "Note _12 _EF",
+   "model": "Note 12 EF"
+  }
+ ],
  "Pad_11_EEA": [
   {
    "brand": "Hotwav",
@@ -95322,6 +95363,13 @@
    "brand": "Hotwav",
    "name": "TAB R8",
    "model": "TAB R8"
+  }
+ ],
+ "TAB_R9_Pro": [
+  {
+   "brand": "Hotwav",
+   "name": "TAB R9 Pro EEA",
+   "model": "TAB R9 Pro"
   }
  ],
  "Venus": [
@@ -114960,6 +115008,11 @@
   {
    "brand": "JUEDUR",
    "name": "R800_U_EEA",
+   "model": "R800_EEA"
+  },
+  {
+   "brand": "JUEDUR",
+   "name": "R800_U_EEA",
    "model": "R800_U_EEA"
   }
  ],
@@ -120801,6 +120854,13 @@
    "brand": "Kyocera",
    "name": "DIGNO SX3",
    "model": "KYG02"
+  }
+ ],
+ "KY24L-ST200": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO SX4",
+   "model": "KC-S305"
   }
  ],
  "KY24L-ST300": [
@@ -139766,6 +139826,13 @@
    "brand": "Logic Instrument",
    "name": "Logic Instrument Fieldbook N80",
    "model": "Logic Instrument Fieldbook N80"
+  }
+ ],
+ "LOGIC_G1L": [
+  {
+   "brand": "Logic Mobility",
+   "name": "G1L",
+   "model": "G1L"
   }
  ],
  "L4T": [
@@ -166618,6 +166685,13 @@
    "model": "A12"
   }
  ],
+ "A12_RUS": [
+  {
+   "brand": "Odea",
+   "name": "A12_RUS",
+   "model": "A12"
+  }
+ ],
  "S11_EEA": [
   {
    "brand": "Odea",
@@ -167670,6 +167744,13 @@
    "brand": "OnePlus",
    "name": "Oneplus Ace 3 Pro",
    "model": "PJX110"
+  }
+ ],
+ "OP5DAAL1": [
+  {
+   "brand": "OnePlus",
+   "name": "Oneplus Pad2",
+   "model": "OPD2403"
   }
  ],
  "Oneplus_Dosa_IN": [
@@ -180269,6 +180350,13 @@
    "model": "PM351"
   }
  ],
+ "PM352": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM352",
+   "model": "PM352"
+  }
+ ],
  "pm45": [
   {
    "brand": "Point Mobile",
@@ -180442,6 +180530,13 @@
    "brand": "Point of view",
    "name": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
+  }
+ ],
+ "PM452": [
+  {
+   "brand": "PointMobile",
+   "name": "PM452",
+   "model": "PM452"
   }
  ],
  "pike": [
@@ -241113,6 +241208,13 @@
    "model": "P30T"
   }
  ],
+ "P30T_B": [
+  {
+   "brand": "Teclast",
+   "name": "P30T_EEA",
+   "model": "P30T"
+  }
+ ],
  "P30T_ROW": [
   {
    "brand": "Teclast",
@@ -258020,6 +258122,13 @@
    "brand": "Vivo",
    "name": "Y30 5G",
    "model": "V2160"
+  }
+ ],
+ "V2422": [
+  {
+   "brand": "Vivo",
+   "name": "Y300 Plus 5G",
+   "model": "V2422"
   }
  ],
  "PD2410": [
@@ -283190,13 +283299,20 @@
  "Falcon2": [
   {
    "brand": "iMin",
-   "name": "I24T01",
+   "name": "Falcon 2",
    "model": "I24T01"
   },
   {
    "brand": "iMin",
-   "name": "I24T02",
+   "name": "Falcon 2",
    "model": "I24T02"
+  }
+ ],
+ "Lark1": [
+  {
+   "brand": "iMin",
+   "name": "Lark1",
+   "model": "I24P01"
   }
  ],
  "Swan1Pro": [
@@ -283229,12 +283345,12 @@
   {
    "brand": "iMin",
    "name": "Swift 2",
-   "model": "I23M01_GL"
+   "model": "I23M01_EEA"
   },
   {
    "brand": "iMin",
-   "name": "Swift2_EEA",
-   "model": "I23M01_EEA"
+   "name": "Swift 2",
+   "model": "I23M01_GL"
   }
  ],
  "Swift2Pro": [
