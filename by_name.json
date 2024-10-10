@@ -104826,6 +104826,20 @@
    "model": "Big Bang e"
   }
  ],
+ "KamvasSlate10": [
+  {
+   "brand": "Huion",
+   "device": "KamvasSlate10",
+   "model": "KamvasSlate10"
+  }
+ ],
+ "KamvasSlate10_EEA": [
+  {
+   "brand": "Huion",
+   "device": "KamvasSlate10_EEA",
+   "model": "KamvasSlate10_EEA"
+  }
+ ],
  "Connect12V21": [
   {
    "brand": "HumanWare",
@@ -284195,6 +284209,13 @@
    "brand": "realme",
    "device": "RE5C37",
    "model": "RMX3888"
+  }
+ ],
+ "realme NARZO 70 Turbo 5G": [
+  {
+   "brand": "realme",
+   "device": "RE6066L1",
+   "model": "RMX5003"
   }
  ],
  "realme Narzo 30 Pro 5G": [

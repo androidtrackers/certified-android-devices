@@ -73186,6 +73186,18 @@
    "model": "Big Bang e"
   }
  ],
+ "Huion": [
+  {
+   "device": "KamvasSlate10",
+   "name": "KamvasSlate10",
+   "model": "KamvasSlate10"
+  },
+  {
+   "device": "KamvasSlate10_EEA",
+   "name": "KamvasSlate10_EEA",
+   "model": "KamvasSlate10_EEA"
+  }
+ ],
  "HumanWare": [
   {
    "device": "Connect12V21",
@@ -228849,6 +228861,11 @@
    "device": "RE5C37",
    "name": "realme GT5 Pro",
    "model": "RMX3888"
+  },
+  {
+   "device": "RE6066L1",
+   "name": "realme NARZO 70 Turbo 5G",
+   "model": "RMX5003"
   },
   {
    "device": "RMX2117L1",

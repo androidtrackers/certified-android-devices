@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-09
+Last sync is 2024-10-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14194,6 +14194,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|麦芒5|HWMLA|MLA-AL10|
 |Hublot|Big Bang e Gen 3|turbot|BIG BANG e Gen 3|
 |Hublot|Hublot Big Bang e|halibut|Big Bang e|
+|Huion|KamvasSlate10|KamvasSlate10|KamvasSlate10|
+|Huion|KamvasSlate10_EEA|KamvasSlate10_EEA|KamvasSlate10_EEA|
 |HumanWare|Connect12V21|Connect12V21|Connect12V21|
 |HumanWare|Connect12V21_EEA|Connect12V21_EEA|Connect12V21_EEA|
 |Human_Acadaemy|HA-007|HA-007|HA-007|
@@ -44543,6 +44545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT5|RE5C33|RMX3820|
 |realme|realme GT5 240W|RE5C33|RMX3823|
 |realme|realme GT5 Pro|RE5C37|RMX3888|
+|realme|realme NARZO 70 Turbo 5G|RE6066L1|RMX5003|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Note 50|RE5C9F|RMX3834|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
