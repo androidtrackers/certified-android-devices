@@ -36863,6 +36863,13 @@
    "model": "DX_TA_SL83"
   }
  ],
+ "DingDong": [
+  {
+   "device": "IB101F_UAG",
+   "name": "IB101F_UAG",
+   "model": "IB101F_UAG"
+  }
+ ],
  "Dingding": [
   {
    "device": "X10",
@@ -48367,11 +48374,6 @@
    "device": "TK-P86",
    "name": "TK-P86",
    "model": "TK-P86"
-  },
-  {
-   "device": "Z8",
-   "name": "Z8",
-   "model": "Z8"
   }
  ],
  "GRID Communications (SG)": [
@@ -75540,6 +75542,11 @@
  ],
  "IQ Touch": [
   {
+   "device": "rk3588_t",
+   "name": "IFP",
+   "model": "IFP"
+  },
+  {
    "device": "VIATABQX1040",
    "name": "VIATABQX1040",
    "model": "VIATABQX1040"
@@ -81561,6 +81568,11 @@
    "model": "itel S667LN"
   },
   {
+   "device": "itel-S685LN",
+   "name": "itel S25",
+   "model": "itel S685LN"
+  },
+  {
    "device": "itel-S32LTE",
    "name": "itel S32LTE",
    "model": "itel S32LTE"
@@ -82686,6 +82698,11 @@
   }
  ],
  "Jeazans": [
+  {
+   "device": "A13",
+   "name": "A13",
+   "model": "A13"
+  },
   {
    "device": "KT1016",
    "name": "KT1016",
@@ -104836,6 +104853,13 @@
    "model": "Pure 3"
   }
  ],
+ "M-KOPA": [
+  {
+   "device": "S34",
+   "name": "S34",
+   "model": "S34"
+  }
+ ],
  "M-tech": [
   {
    "device": "EROS_Power",
@@ -105242,6 +105266,13 @@
    "device": "R4",
    "name": "R4",
    "model": "R4"
+  }
+ ],
+ "MAXHUB": [
+  {
+   "device": "rk3588_t",
+   "name": "U30",
+   "model": "U30"
   }
  ],
  "MAXLEGEN": [
@@ -111957,6 +111988,11 @@
    "device": "MobiGo2PP",
    "name": "MobiGo 2+ Pro",
    "model": "MobiGo2PP"
+  },
+  {
+   "device": "WM18PPv2",
+   "name": "MobiGo 2+ Pro",
+   "model": "WM18PPv2"
   },
   {
    "device": "MP5",
@@ -151750,6 +151786,41 @@
    "model": "SM-S156V"
   },
   {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A1660"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166B"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166E"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166M"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166U"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166U1"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
+   "model": "SM-S166V"
+  },
+  {
    "device": "a2corelte",
    "name": "Galaxy A2 Core",
    "model": "SM-A260F"
@@ -191442,6 +191513,11 @@
    "model": "TECNO K9"
   },
   {
+   "device": "TECNO-T1101",
+   "name": "TECNO MegaPad 11",
+   "model": "TECNO T1101"
+  },
+  {
    "device": "TECNO-Mobile-KJ6",
    "name": "TECNO Mobile SPARK 20 Pro",
    "model": "TECNO Mobile KJ6"
@@ -193893,7 +193969,12 @@
   },
   {
    "device": "mdt865",
-   "name": "mdt865",
+   "name": "mdt865_gms",
+   "model": "mdt865"
+  },
+  {
+   "device": "mdt865",
+   "name": "mdt865_row",
    "model": "mdt865"
   }
  ],

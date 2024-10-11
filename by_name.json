@@ -18204,6 +18204,11 @@
    "brand": "Altice",
    "device": "S34",
    "model": "S34"
+  },
+  {
+   "brand": "M-KOPA",
+   "device": "S34",
+   "model": "S34"
   }
  ],
  "S41": [
@@ -60697,6 +60702,13 @@
    "model": "DX_TA_SL83"
   }
  ],
+ "IB101F_UAG": [
+  {
+   "brand": "DingDong",
+   "device": "IB101F_UAG",
+   "model": "IB101F_UAG"
+  }
+ ],
  "X11S": [
   {
    "brand": "Dingding",
@@ -76339,23 +76351,6 @@
    "model": "TK-P86"
   }
  ],
- "Z8": [
-  {
-   "brand": "GREATASIA",
-   "device": "Z8",
-   "model": "Z8"
-  },
-  {
-   "brand": "HOMTOM",
-   "device": "Z8",
-   "model": "Z8"
-  },
-  {
-   "brand": "Nuu",
-   "device": "Z8",
-   "model": "Z8"
-  }
- ],
  "GS6100": [
   {
    "brand": "GRID Communications (SG)",
@@ -82806,6 +82801,18 @@
    "brand": "HOMTOM",
    "device": "S99i",
    "model": "S99i"
+  }
+ ],
+ "Z8": [
+  {
+   "brand": "HOMTOM",
+   "device": "Z8",
+   "model": "Z8"
+  },
+  {
+   "brand": "Nuu",
+   "device": "Z8",
+   "model": "Z8"
   }
  ],
  "c1": [
@@ -107653,6 +107660,18 @@
    "model": "T1144"
   }
  ],
+ "IFP": [
+  {
+   "brand": "IQ Touch",
+   "device": "rk3588_t",
+   "model": "IFP"
+  },
+  {
+   "brand": "OKView",
+   "device": "rk3588_t",
+   "model": "IFP"
+  }
+ ],
  "VIATABQX1040": [
   {
    "brand": "IQ Touch",
@@ -113501,6 +113520,11 @@
    "model": "itel A13"
   },
   {
+   "brand": "Jeazans",
+   "device": "A13",
+   "model": "A13"
+  },
+  {
    "brand": "Umidigi",
    "device": "A13",
    "model": "MP05"
@@ -115109,6 +115133,13 @@
    "brand": "Itel",
    "device": "itel-S667LN",
    "model": "itel S667LN"
+  }
+ ],
+ "itel S25": [
+  {
+   "brand": "Itel",
+   "device": "itel-S685LN",
+   "model": "itel S685LN"
   }
  ],
  "itel S32LTE": [
@@ -142108,6 +142139,13 @@
    "model": "M2M-3T"
   }
  ],
+ "U30": [
+  {
+   "brand": "MAXHUB",
+   "device": "rk3588_t",
+   "model": "U30"
+  }
+ ],
  "M621": [
   {
    "brand": "MAXLEGEN",
@@ -150030,6 +150068,11 @@
    "brand": "MobiIoT",
    "device": "MobiGo2PP",
    "model": "MobiGo2PP"
+  },
+  {
+   "brand": "MobiIoT",
+   "device": "WM18PPv2",
+   "model": "WM18PPv2"
   }
  ],
  "MobiPrint 5": [
@@ -165273,13 +165316,6 @@
    "brand": "OKSI",
    "device": "GT1001",
    "model": "GT1001"
-  }
- ],
- "IFP": [
-  {
-   "brand": "OKView",
-   "device": "rk3588_t",
-   "model": "IFP"
   }
  ],
  "PI Plus": [
@@ -196980,6 +197016,43 @@
    "brand": "Samsung",
    "device": "a15x",
    "model": "SM-S156V"
+  }
+ ],
+ "Galaxy A16 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-A1660"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-A166B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-A166E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-A166M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-A166U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-A166U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a16x",
+   "model": "SM-S166V"
   }
  ],
  "Galaxy A2 Core": [
@@ -241753,6 +241826,13 @@
    "model": "TECNO K9"
   }
  ],
+ "TECNO MegaPad 11": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-T1101",
+   "model": "TECNO T1101"
+  }
+ ],
  "TECNO Mobile SPARK 20 Pro": [
   {
    "brand": "Tecno",
@@ -244558,7 +244638,14 @@
    "model": "mdt1060"
   }
  ],
- "mdt865": [
+ "mdt865_gms": [
+  {
+   "brand": "Topicon",
+   "device": "mdt865",
+   "model": "mdt865"
+  }
+ ],
+ "mdt865_row": [
   {
    "brand": "Topicon",
    "device": "mdt865",

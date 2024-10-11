@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-10
+Last sync is 2024-10-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7117,6 +7117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dinax|DX_TASL83|DX_TASL83|DX_TASL83|
 |Dinax|DX_TA_7001|DX_TA_7001|DX_TA_7001|
 |Dinax|DX_TA_SL83|DX_TA_SL83|DX_TA_SL83|
+|DingDong|IB101F_UAG|IB101F_UAG|IB101F_UAG|
 |Dingding|X10|X10|X10|
 |Dingding|X11|X11|X11|
 |Dingding|X11S|X11S|X11S|
@@ -9305,7 +9306,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GREATASIA|Pad_M30|Pad_M30|Pad_M30|
 |GREATASIA|TK-E8765|TK-E8765|TK-E8765|
 |GREATASIA|TK-P86|TK-P86|TK-P86|
-|GREATASIA|Z8|Z8|Z8|
 |GRID Communications (SG)|GS6100|GRID_GS6100|GS6100|
 |GSmart|Akta A4|Akta_A4|Akta_A4|
 |GSmart|Aku A1|Aku_A1|GSmart Aku A1|
@@ -14646,6 +14646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ION ELECTRONICS|Kids|Kids|Kids|
 |ION ELECTRONICS|Orbit|Orbit|Orbit|
 |IPRODA|T1144|T1144|T1144|
+|IQ Touch|IFP|rk3588_t|IFP|
 |IQ Touch|VIATABQX1040|VIATABQX1040|VIATABQX1040|
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
@@ -15825,6 +15826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S23|itel-S665LN|itel S665LN|
 |Itel|itel S23+|itel-S681LN|itel S681LN|
 |Itel|itel S24|itel-S667LN|itel S667LN|
+|Itel|itel S25|itel-S685LN|itel S685LN|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
@@ -16039,6 +16041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jawwy TV|JAWWY-TV-2.0|HP40A|JAWWY-TV-2.0|
+|Jeazans|A13|A13|A13|
 |Jeazans|KT1016|KT1016|KT1016|
 |Jeazans|KT1016_EEA|KT1016|KT1016|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
@@ -20380,6 +20383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|P1|P1|P1|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
+|M-KOPA|S34|S34|S34|
 |M-tech|Eros Power|EROS_Power|EROS Power|
 |M-tech|Eros Smart|Eros_Smart|Eros Smart|
 |M-tech|Eros_Star|Eros_Star|Eros_Star|
@@ -20458,6 +20462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
 |MASTERTECH|R3|R3|R3|
 |MASTERTECH|R4|R4|R4|
+|MAXHUB|U30|rk3588_t|U30|
 |MAXLEGEN|M621|M621|M621|
 |MAXLEGEN|M621-EEA|M621-EEA|M621-EEA|
 |MAXRON|MXULTRA|MXULTRA|MXULTRA|
@@ -21747,6 +21752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|MobiGo 2+|MobiGo2P|MobiGo2P|
 |MobiIoT|MobiGo 2+|MobiGo2PQV|MobiGo2P|
 |MobiIoT|MobiGo 2+ Pro|MobiGo2PP|MobiGo2PP|
+|MobiIoT|MobiGo 2+ Pro|WM18PPv2|WM18PPv2|
 |MobiIoT|MobiPrint 5|MP5|MP5|
 |MobiIoT|MobiPrint4_Plus|MobiPrint4_Plus|MobiPrint4_Plus|
 |MobiIoT|Mobigo2|MobiGo2|MobiGo2|
@@ -29464,6 +29470,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A15 5G|a15x|SM-A156U1|
 |Samsung|Galaxy A15 5G|a15x|SM-A156W|
 |Samsung|Galaxy A15 5G|a15x|SM-S156V|
+|Samsung|Galaxy A16 5G|a16x|SM-A1660|
+|Samsung|Galaxy A16 5G|a16x|SM-A166B|
+|Samsung|Galaxy A16 5G|a16x|SM-A166E|
+|Samsung|Galaxy A16 5G|a16x|SM-A166M|
+|Samsung|Galaxy A16 5G|a16x|SM-A166U|
+|Samsung|Galaxy A16 5G|a16x|SM-A166U1|
+|Samsung|Galaxy A16 5G|a16x|SM-S166V|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -37292,6 +37305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
 |Tecno|TECNO K7|TECNO-K7|TECNO K7|
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
+|Tecno|TECNO MegaPad 11|TECNO-T1101|TECNO T1101|
 |Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
 |Tecno|TECNO Mobile SPARK 8|TECNO-Mobile-KG6k|TECNO Mobile KG6k|
 |Tecno|TECNO Mobile SPARK 8C|TECNO-Mobile-KG5k|TECNO Mobile KG5k|
@@ -37758,7 +37772,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tonino Lamborghini|TL99|ailsa_ii|TL99|
 |Tonino Lamborghini|TL99G|ailsa_ii|TL99G|
 |Topicon|Topicon MDT1060|mdt1060|mdt1060|
-|Topicon|mdt865|mdt865|mdt865|
+|Topicon|mdt865_gms|mdt865|mdt865|
+|Topicon|mdt865_row|mdt865|mdt865|
 |Topsand|M8_U|M8_U|M8|
 |Topsand|N10|N10_T|N10|
 |Topsand|N8|N8|N8|
