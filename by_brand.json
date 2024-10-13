@@ -1455,6 +1455,11 @@
  ],
  "ARZOPA": [
   {
+   "device": "ARZOPA_P1",
+   "name": "P1",
+   "model": "ARZOPA P1"
+  },
+  {
    "device": "P1S",
    "name": "P1S",
    "model": "P1S"
@@ -5067,6 +5072,11 @@
    "device": "SW6H",
    "name": "AIWA TV",
    "model": "AIWA UHD SMART TV"
+  },
+  {
+   "device": "AW-P",
+   "name": "AW-P",
+   "model": "AW-P"
   },
   {
    "device": "AW790",
@@ -23023,6 +23033,13 @@
    "model": "falcon"
   }
  ],
+ "Bosii": [
+  {
+   "device": "G2",
+   "name": "Touch-Screen-Monitor",
+   "model": "G2"
+  }
+ ],
  "Bouygues Telecom": [
   {
    "device": "HMB9213NW",
@@ -24958,6 +24975,16 @@
    "model": "C75W_EEA"
   },
   {
+   "device": "C77W",
+   "name": "C77W",
+   "model": "C77W"
+  },
+  {
+   "device": "C77W_EEA",
+   "name": "C77W_EEA",
+   "model": "C77W_EEA"
+  },
+  {
    "device": "C80W",
    "name": "C80W",
    "model": "C80W"
@@ -24981,6 +25008,16 @@
    "device": "C84W",
    "name": "C84W",
    "model": "C84W"
+  },
+  {
+   "device": "C86W",
+   "name": "C86W",
+   "model": "C86W"
+  },
+  {
+   "device": "C86W_EEA",
+   "name": "C86W_EEA",
+   "model": "C86W_EEA"
   },
   {
    "device": "F10L",
@@ -30727,6 +30764,11 @@
   },
   {
    "device": "CP32",
+   "name": "CP15",
+   "model": "CP32"
+  },
+  {
+   "device": "CP32",
    "name": "CP32",
    "model": "CP32"
   },
@@ -32690,6 +32732,11 @@
    "model": "BS801"
   },
   {
+   "device": "E101GCM",
+   "name": "E101GCM",
+   "model": "E101GCM"
+  },
+  {
    "device": "E108GCM",
    "name": "E108GCM",
    "model": "E108GCM"
@@ -34083,6 +34130,11 @@
    "device": "D3_EEA",
    "name": "D3_EEA",
    "model": "D3_EEA"
+  },
+  {
+   "device": "D3_US",
+   "name": "D3_US",
+   "model": "D3_US"
   },
   {
    "device": "D5-EEA",
@@ -42483,6 +42535,11 @@
    "model": "G10XM"
   },
   {
+   "device": "G10_2IN1_GEN2",
+   "name": "G10_2IN1_GEN2",
+   "model": "G10_2IN1_GEN2"
+  },
+  {
    "device": "HW304_HW291",
    "name": "HW304_HW291",
    "model": "HW304_HW291"
@@ -44021,6 +44078,11 @@
    "device": "SH65_23248",
    "name": "SH65_23248",
    "model": "SH65_23248"
+  },
+  {
+   "device": "T1100",
+   "name": "T1100",
+   "model": "T1100"
   }
  ],
  "F150": [
@@ -48639,6 +48701,11 @@
    "model": "G2_EEA"
   },
   {
+   "device": "G2_T_EEA",
+   "name": "G2_T_EEA",
+   "model": "G2_T_EEA"
+  },
+  {
    "device": "G2_T_US",
    "name": "G2_T_US",
    "model": "G2_T_US"
@@ -48722,6 +48789,16 @@
    "device": "G9_US",
    "name": "G9_US",
    "model": "G9_US"
+  },
+  {
+   "device": "G9_U_EEA",
+   "name": "G9_U_EEA",
+   "model": "G9_U_EEA"
+  },
+  {
+   "device": "G9_U_US",
+   "name": "G9_U_US",
+   "model": "G9_U_US"
   }
  ],
  "GOtv": [
@@ -48768,6 +48845,13 @@
    "device": "UAI_PRO",
    "name": "UAI PRO",
    "model": "UAI_Series"
+  }
+ ],
+ "GPX_US": [
+  {
+   "device": "TBDV1093",
+   "name": "TBDV1093",
+   "model": "TBDV1093"
   }
  ],
  "GREATASIA": [
@@ -76102,6 +76186,11 @@
  ],
  "IQU_GROUP": [
   {
+   "device": "IQUSMARTEASYT8W",
+   "name": "IQUSMARTEASYT8W",
+   "model": "IQU SMARTEasy T8w"
+  },
+  {
    "device": "IQU_T10_4G",
    "name": "IQU_T10_4G",
    "model": "IQU T10 4G"
@@ -76261,6 +76350,11 @@
    "device": "TE10D2M64",
    "name": "TE10D2M64",
    "model": "TE10D2M64"
+  },
+  {
+   "device": "TM153M6",
+   "name": "TM153M6",
+   "model": "TM153"
   }
  ],
  "ISCED": [
@@ -80996,6 +81090,11 @@
    "model": "itel A62"
   },
   {
+   "device": "itel-A671L",
+   "name": "A671L-OP",
+   "model": "itel A671L"
+  },
+  {
    "device": "itel-A665L",
    "name": "A70",
    "model": "itel A665L"
@@ -84152,6 +84251,13 @@
    "device": "C01AS",
    "name": "SmartTV Box",
    "model": "SMARTTVBOX"
+  }
+ ],
+ "KEFEYA": [
+  {
+   "device": "G2",
+   "name": "Touch-Screen-Monitor",
+   "model": "G2"
   }
  ],
  "KEMPLER STRAUSS": [
@@ -87799,6 +87905,11 @@
    "model": "K-TAB703"
   },
   {
+   "device": "K-TAB801",
+   "name": "K-TAB801",
+   "model": "K-TAB801"
+  },
+  {
    "device": "KONROW_701X",
    "name": "KONROW",
    "model": "KONROW_701X"
@@ -87955,6 +88066,11 @@
    "device": "COLORS",
    "name": "COLORS",
    "model": "COLORS"
+  },
+  {
+   "device": "KIDS_COLORS_PLUS",
+   "name": "KIDS_COLORS_PLUS",
+   "model": "KIDS_COLORS_PLUS"
   },
   {
    "device": "MATRIX_PRO",
@@ -103889,6 +104005,11 @@
  ],
  "Linsay": [
   {
+   "device": "F10XIPG",
+   "name": "F10XIPG",
+   "model": "F10XIPG"
+  },
+  {
    "device": "F10XIPS",
    "name": "F10XIPS",
    "model": "F10XIPS"
@@ -104166,6 +104287,11 @@
    "device": "LOGIC_L65_LITE",
    "name": "LOGIC L65 LITE",
    "model": "LOGIC L65 LITE"
+  },
+  {
+   "device": "LOGIC_L66M",
+   "name": "LOGIC L66M",
+   "model": "L66M"
   },
   {
    "device": "LOGIC_MV01",
@@ -104672,6 +104798,11 @@
    "model": "LOGIKIDS5ED"
   },
   {
+   "device": "LOGIKIDS7",
+   "name": "LOGIKIDS7",
+   "model": "LOGIKIDS7"
+  },
+  {
    "device": "LOGIKIDS_11P",
    "name": "LOGIKIDS_11P",
    "model": "LOGIKIDS_11P"
@@ -105170,6 +105301,11 @@
    "device": "TAB_STAND_PRO_2",
    "name": "TAB_STAND_PRO_2",
    "model": "TAB_STAND_PRO_2"
+  },
+  {
+   "device": "Tab_Stand_Pro",
+   "name": "Tab_Stand_Pro",
+   "model": "Tab_Stand_Pro"
   },
   {
    "device": "Tab_XL_14",
@@ -112334,6 +112470,11 @@
    "device": "MP0101788",
    "name": "MP0101788",
    "model": "MP0101788"
+  },
+  {
+   "device": "MP0101789",
+   "name": "MP0101789",
+   "model": "MP0101789"
   },
   {
    "device": "MioTab2016",
@@ -126599,6 +126740,11 @@
    "model": "A6_EEA"
   },
   {
+   "device": "A6_US",
+   "name": "A6_US",
+   "model": "A6_US"
+  },
+  {
    "device": "A9-EEA",
    "name": "A9-EEA",
    "model": "A9-EEA"
@@ -133351,6 +133497,11 @@
    "device": "ZB31",
    "name": "ZB31",
    "model": "ZB31"
+  },
+  {
+   "device": "ZB32",
+   "name": "ZB32",
+   "model": "ZB32"
   }
  ],
  "PEL (PAK)": [
@@ -146926,6 +147077,11 @@
    "device": "sapphire",
    "name": "Redmi Note 13",
    "model": "23129RA5FL"
+  },
+  {
+   "device": "sapphire",
+   "name": "Redmi Note 13",
+   "model": "23129RAA4G"
   },
   {
    "device": "sapphiren",
@@ -188240,6 +188396,13 @@
    "model": "VIP6102W"
   }
  ],
+ "TEAMGEE": [
+  {
+   "device": "G2",
+   "name": "Touch-Screen-Monitor",
+   "model": "G2"
+  }
+ ],
  "TECHLIFE": [
   {
    "device": "redwood",
@@ -188514,6 +188677,11 @@
   }
  ],
  "THTF": [
+  {
+   "device": "A21",
+   "name": "A21",
+   "model": "A21"
+  },
   {
    "device": "LTD.\"",
    "name": "\"TSINGHUA TONGFANG CO.",
@@ -195530,6 +195698,16 @@
    "device": "T255",
    "name": "T255",
    "model": "T255"
+  },
+  {
+   "device": "Tpad-F45A",
+   "name": "TPAD-F45A",
+   "model": "Tpad-F45A"
+  },
+  {
+   "device": "TPAD-T30B",
+   "name": "TPAD-T30B_EEA",
+   "model": "TPAD-T30B"
   }
  ],
  "Transvision": [
@@ -196469,6 +196647,16 @@
    "device": "U3_US",
    "name": "U3_US",
    "model": "U3_US"
+  },
+  {
+   "device": "U6_EEA",
+   "name": "U6_EEA",
+   "model": "U6_EEA"
+  },
+  {
+   "device": "U6_US",
+   "name": "U6_US",
+   "model": "U6_US"
   },
   {
    "device": "U7_EEA",
@@ -207577,9 +207765,19 @@
    "model": "HD60i"
   },
   {
+   "device": "HD62",
+   "name": "HD62",
+   "model": "HD62"
+  },
+  {
    "device": "HD65",
    "name": "HD65",
    "model": "HD65"
+  },
+  {
+   "device": "HD65_PLUS",
+   "name": "HD65_PLUS",
+   "model": "HD65_PLUS"
   },
   {
    "device": "HD65_Select",
@@ -208155,6 +208353,13 @@
    "model": "Waoo TV-boks"
   }
  ],
+ "WARP": [
+  {
+   "device": "TAB-WP11",
+   "name": "TAB-WP11",
+   "model": "TAB-WP11"
+  }
+ ],
  "WCED": [
   {
    "device": "H1010_M50",
@@ -208265,6 +208470,11 @@
    "device": "W10_EEA",
    "name": "W10_EEA",
    "model": "W10_EEA"
+  },
+  {
+   "device": "W10_T_EEA",
+   "name": "W10_T_EEA",
+   "model": "W10_T_EEA"
   },
   {
    "device": "W10_T_US",
@@ -214989,6 +215199,18 @@
    "device": "Z92",
    "name": "Z92",
    "model": "Z92"
+  }
+ ],
+ "ZDK(SZ)": [
+  {
+   "device": "ZDKMP-T30A",
+   "name": "ZDKMP-T30A_ROW",
+   "model": "ZDKMP-T30A"
+  },
+  {
+   "device": "ZDKMP-T30B",
+   "name": "ZDKMP-T30B_ROW",
+   "model": "ZDKMP-T30B"
   }
  ],
  "ZEEKER": [
@@ -231100,6 +231322,11 @@
    "device": "C74W_EEA",
    "name": "C74W_EEA",
    "model": "C74W_EEA"
+  },
+  {
+   "device": "C76W",
+   "name": "C76W",
+   "model": "C76W"
   },
   {
    "device": "C76W_EEA",
