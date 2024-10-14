@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-13
+Last sync is 2024-10-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3075,6 +3075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BMobile|NOVUS65|Bmobile_NOVUS65_TG06|NOVUS65_TG06|
+|BMobile|NOVUS65|Bmobile_NOVUS65_TG07|NOVUS65_TG07|
 |BMobile|Nobu A55 Pro|Azumi_NA55_Pro|NOBU A55 PRO|
 |BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
 |BMobile|T70|Bmobile_T70|Bmobile_T70|
@@ -7286,6 +7287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|F10S|F1C|Blade10 Pro|
 |Doogee|F10S|F1C|F10S|
 |Doogee|Fire_6_Power|F1S|F10 Pro|
+|Doogee|Fire_6_Power|F1S|Fire 6 Power|
 |Doogee|MIX|t766_dg_n_mix|MIX|
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
 |Doogee|Mix|MIX|MIX|
@@ -29479,6 +29481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
+|Safaricom|Sajipro|Sajipro|Sajipro|
 |SafeGear_Mobile|SG390|SG390|SG390|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
 |Saltillo|CF10|CF10|CF10|

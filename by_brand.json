@@ -15891,6 +15891,11 @@
    "model": "NOVUS65_TG06"
   },
   {
+   "device": "Bmobile_NOVUS65_TG07",
+   "name": "NOVUS65",
+   "model": "NOVUS65_TG07"
+  },
+  {
    "device": "Azumi_NA55_Pro",
    "name": "Nobu A55 Pro",
    "model": "NOBU A55 PRO"
@@ -37752,6 +37757,11 @@
    "device": "F1S",
    "name": "Fire_6_Power",
    "model": "F10 Pro"
+  },
+  {
+   "device": "F1S",
+   "name": "Fire_6_Power",
+   "model": "Fire 6 Power"
   },
   {
    "device": "t766_dg_n_mix",
@@ -151855,6 +151865,11 @@
    "device": "Safaricom_ET_Kimem",
    "name": "Safaricom ET Kimem",
    "model": "Safaricom ET Kimem"
+  },
+  {
+   "device": "Sajipro",
+   "name": "Sajipro",
+   "model": "Sajipro"
   }
  ],
  "SafeGear_Mobile": [

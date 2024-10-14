@@ -31441,6 +31441,13 @@
    "model": "NOVUS65_TG06"
   }
  ],
+ "Bmobile_NOVUS65_TG07": [
+  {
+   "brand": "BMobile",
+   "name": "NOVUS65",
+   "model": "NOVUS65_TG07"
+  }
+ ],
  "Azumi_NA55_Pro": [
   {
    "brand": "BMobile",
@@ -61823,6 +61830,11 @@
    "brand": "Doogee",
    "name": "Fire_6_Power",
    "model": "F10 Pro"
+  },
+  {
+   "brand": "Doogee",
+   "name": "Fire_6_Power",
+   "model": "Fire 6 Power"
   }
  ],
  "t766_dg_n_mix": [
@@ -196900,6 +196912,13 @@
    "brand": "Safaricom",
    "name": "Safaricom ET Kimem",
    "model": "Safaricom ET Kimem"
+  }
+ ],
+ "Sajipro": [
+  {
+   "brand": "Safaricom",
+   "name": "Sajipro",
+   "model": "Sajipro"
   }
  ],
  "SG390": [
