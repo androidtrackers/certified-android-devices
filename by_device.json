@@ -122036,6 +122036,16 @@
   {
    "brand": "Kyocera",
    "name": "DuraForce EX",
+   "model": "A301KC"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce EX",
+   "model": "KC-S603"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce EX",
    "model": "KC-S703"
   }
  ],
@@ -153519,6 +153529,13 @@
    "model": "Edjromi"
   }
  ],
+ "dace": [
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Atlas;TicWatch Pro 5;TicWatch Pro 5 Enduro",
+   "model": "TicWatch Pro 5"
+  }
+ ],
  "skipjack": [
   {
    "brand": "Mobvoi",
@@ -153618,13 +153635,6 @@
    "brand": "Mobvoi",
    "name": "Ticwatch Pro 4G",
    "model": "TicWatch Pro 4G"
-  }
- ],
- "dace": [
-  {
-   "brand": "Mobvoi",
-   "name": "TicWatch Pro 5;TicWatch Pro 5 Enduro",
-   "model": "TicWatch Pro 5"
   }
  ],
  "mooneye": [
@@ -259312,6 +259322,23 @@
    "model": "V2366HA"
   }
  ],
+ "PD2405": [
+  {
+   "brand": "Vivo",
+   "name": "X200 Pro",
+   "model": "V2405A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "X200 Pro 卫星通信版",
+   "model": "V2405A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "X200 Pro 卫星通信版",
+   "model": "V2405DA"
+  }
+ ],
  "2004": [
   {
    "brand": "Vivo",
@@ -272647,6 +272674,13 @@
    "model": "ZTE 7160N"
   }
  ],
+ "P720F09_U": [
+  {
+   "brand": "ZTE",
+   "name": "5G UG Phone U25",
+   "model": "5G UG Phone U25"
+  }
+ ],
  "P450A01": [
   {
    "brand": "ZTE",
@@ -272761,6 +272795,13 @@
    "brand": "ZTE",
    "name": "A303ZT",
    "model": "A303ZT"
+  }
+ ],
+ "Z5501S": [
+  {
+   "brand": "ZTE",
+   "name": "A402ZT",
+   "model": "A402ZT"
   }
  ],
  "ZTE-A880": [
@@ -276564,6 +276605,18 @@
    "model": "Z2350"
   }
  ],
+ "P963F65": [
+  {
+   "brand": "ZTE",
+   "name": "Optus X-Total",
+   "model": "P656"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Z2450",
+   "model": "Z2450"
+  }
+ ],
  "Orange_Hi_4G": [
   {
    "brand": "ZTE",
@@ -277425,6 +277478,23 @@
    "brand": "ZTE",
    "name": "TV Stick 4K",
    "model": "TV Stick 4K"
+  }
+ ],
+ "P720F09": [
+  {
+   "brand": "ZTE",
+   "name": "Telstra T-Elite 5G",
+   "model": "A75 Pro 5G"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A75 5G",
+   "model": "Z2357N"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A75 5G S",
+   "model": "Z2357N"
   }
  ],
  "T86": [
@@ -278340,11 +278410,18 @@
    "model": "Z2359"
   }
  ],
- "P963F65": [
+ "P963F95": [
   {
    "brand": "ZTE",
-   "name": "Z2450",
-   "model": "Z2450"
+   "name": "Z2453",
+   "model": "Z2453"
+  }
+ ],
+ "P963F95_A": [
+  {
+   "brand": "ZTE",
+   "name": "Z2453",
+   "model": "Z2453"
   }
  ],
  "P616F05": [
@@ -279921,18 +279998,6 @@
    "brand": "ZTE",
    "name": "ZTE Blade A7 2020",
    "model": "ZTE Blade A7 2020"
-  }
- ],
- "P720F09": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A75 5G",
-   "model": "Z2357N"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A75 5G S",
-   "model": "Z2357N"
   }
  ],
  "P731F30": [

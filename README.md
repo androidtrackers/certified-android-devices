@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-14
+Last sync is 2024-10-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17217,6 +17217,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce|E6560T|E6560T|
 |Kyocera|DuraForce|E6762|USCC-E6762|
 |Kyocera|DuraForce EX|KY-51D|KY-51D|
+|Kyocera|DuraForce EX|KY23L-RG100|A301KC|
+|Kyocera|DuraForce EX|KY23L-RG100|KC-S603|
 |Kyocera|DuraForce EX|KY23L-RG100|KC-S703|
 |Kyocera|DuraForce PRO|E6820|KYOCERA-E6820|
 |Kyocera|DuraForce PRO|E6820TM_3GB|E6820TM|
@@ -22229,6 +22231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Vodafone Pro 4G|Vodafone_Pro|Vodafone Pro 4G|
 |Mobiwire|Vodafone Smart 4G|Vodafone_Smart|Vodafone Smart 4G|
 |Mobiwire|Éɖjròmi|Edjromi|Edjromi|
+|Mobvoi|TicWatch Atlas;TicWatch Pro 5;TicWatch Pro 5 Enduro|dace|TicWatch Pro 5|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2+|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
@@ -22245,7 +22248,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3 Ultra GPS|
 |Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
-|Mobvoi|TicWatch Pro 5;TicWatch Pro 5 Enduro|dace|TicWatch Pro 5|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
@@ -39924,6 +39926,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|X100 Ultra|PD2366|V2366HA|
 |Vivo|X100s|PD2309|V2359A|
 |Vivo|X100s Pro|PD2324|V2324HA|
+|Vivo|X200 Pro|PD2405|V2405A|
+|Vivo|X200 Pro 卫星通信版|PD2405|V2405A|
+|Vivo|X200 Pro 卫星通信版|PD2405|V2405DA|
 |Vivo|X5|X5|vivo X5|
 |Vivo|X50|2004|vivo 2004|
 |Vivo|X50 Pro|2006|vivo 2006|
@@ -42144,6 +42149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|402ZT|ZTE-402ZT|402ZT|
 |ZTE|5G UG Phone U23|P720F02|5G UG Phone U23|
 |ZTE|5G UG Phone U23|P720F02|ZTE 7160N|
+|ZTE|5G UG Phone U25|P720F09_U|5G UG Phone U25|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
 |ZTE|A001ZT|Z6202S|A001ZT|
@@ -42163,6 +42169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A202ZT|Z6575S|A202ZT|
 |ZTE|A302ZT|Z6561S|A302ZT|
 |ZTE|A303ZT|Z6576S|A303ZT|
+|ZTE|A402ZT|Z5501S|A402ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|
@@ -42797,6 +42804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Optus X Max|P606F05|Blade A72s|
 |ZTE|Optus X Pro 5G|P720F02|A73 Pro 5G|
 |ZTE|Optus X Tap 3|P606F10|P660|
+|ZTE|Optus X-Total|P963F65|P656|
 |ZTE|Orange Hi 4G|Orange_Hi_4G|Orange Hi 4G|
 |ZTE|Orange Hi 4G|msm8226|Orange Hi 4G|
 |ZTE|Orange Monte Carlo|skate|Orange Monte Carlo|
@@ -42990,6 +42998,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|TURKCELL T80|P840F14|TURKCELL T80|
 |ZTE|TV Stick 4K|YEV|TV Stick 4K|
 |ZTE|Telenor Touch Plus|blade2|Telenor Touch Plus|
+|ZTE|Telstra T-Elite 5G|P720F09|A75 Pro 5G|
 |ZTE|Telstra Tough Max 3|T86|T86|
 |ZTE|Tempo|xray45|N9131|
 |ZTE|Turkcell Maxi Plus 5|nice|Turkcell Maxi Plus 5|
@@ -43199,6 +43208,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2351N|P720F08|Z2351N|
 |ZTE|Z2359|P606F13|Z2359|
 |ZTE|Z2450|P963F65|Z2450|
+|ZTE|Z2453|P963F95|Z2453|
+|ZTE|Z2453|P963F95_A|Z2453|
 |ZTE|Z2459|P616F05|Z2459|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|

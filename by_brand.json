@@ -88843,6 +88843,16 @@
   {
    "device": "KY23L-RG100",
    "name": "DuraForce EX",
+   "model": "A301KC"
+  },
+  {
+   "device": "KY23L-RG100",
+   "name": "DuraForce EX",
+   "model": "KC-S603"
+  },
+  {
+   "device": "KY23L-RG100",
+   "name": "DuraForce EX",
    "model": "KC-S703"
   },
   {
@@ -114431,6 +114441,11 @@
  ],
  "Mobvoi": [
   {
+   "device": "dace",
+   "name": "TicWatch Atlas;TicWatch Pro 5;TicWatch Pro 5 Enduro",
+   "model": "TicWatch Pro 5"
+  },
+  {
    "device": "skipjack",
    "name": "TicWatch C2",
    "model": "TicWatch C2"
@@ -114509,11 +114524,6 @@
    "device": "catshark",
    "name": "TicWatch Pro 4G",
    "model": "TicWatch Pro 4G"
-  },
-  {
-   "device": "dace",
-   "name": "TicWatch Pro 5;TicWatch Pro 5 Enduro",
-   "model": "TicWatch Pro 5"
   },
   {
    "device": "catshark",
@@ -205118,6 +205128,21 @@
    "model": "V2324HA"
   },
   {
+   "device": "PD2405",
+   "name": "X200 Pro",
+   "model": "V2405A"
+  },
+  {
+   "device": "PD2405",
+   "name": "X200 Pro 卫星通信版",
+   "model": "V2405A"
+  },
+  {
+   "device": "PD2405",
+   "name": "X200 Pro 卫星通信版",
+   "model": "V2405DA"
+  },
+  {
    "device": "X5",
    "name": "X5",
    "model": "vivo X5"
@@ -216572,6 +216597,11 @@
    "model": "ZTE 7160N"
   },
   {
+   "device": "P720F09_U",
+   "name": "5G UG Phone U25",
+   "model": "5G UG Phone U25"
+  },
+  {
    "device": "P450A01",
    "name": "901ZT",
    "model": "901ZT"
@@ -216665,6 +216695,11 @@
    "device": "Z6576S",
    "name": "A303ZT",
    "model": "A303ZT"
+  },
+  {
+   "device": "Z5501S",
+   "name": "A402ZT",
+   "model": "A402ZT"
   },
   {
    "device": "ZTE-A880",
@@ -219837,6 +219872,11 @@
    "model": "P660"
   },
   {
+   "device": "P963F65",
+   "name": "Optus X-Total",
+   "model": "P656"
+  },
+  {
    "device": "Orange_Hi_4G",
    "name": "Orange Hi 4G",
    "model": "Orange Hi 4G"
@@ -220800,6 +220840,11 @@
    "device": "blade2",
    "name": "Telenor Touch Plus",
    "model": "Telenor Touch Plus"
+  },
+  {
+   "device": "P720F09",
+   "name": "Telstra T-Elite 5G",
+   "model": "A75 Pro 5G"
   },
   {
    "device": "T86",
@@ -221845,6 +221890,16 @@
    "device": "P963F65",
    "name": "Z2450",
    "model": "Z2450"
+  },
+  {
+   "device": "P963F95",
+   "name": "Z2453",
+   "model": "Z2453"
+  },
+  {
+   "device": "P963F95_A",
+   "name": "Z2453",
+   "model": "Z2453"
   },
   {
    "device": "P616F05",
