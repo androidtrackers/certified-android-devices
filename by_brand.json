@@ -21428,6 +21428,11 @@
    "model": "G53"
   },
   {
+   "device": "E0010",
+   "name": "G54",
+   "model": "G54"
+  },
+  {
    "device": "G0840",
    "name": "G54",
    "model": "G54"
@@ -22747,6 +22752,11 @@
    "device": "CF550",
    "name": "CF550",
    "model": "CF550"
+  },
+  {
+   "device": "DXA800",
+   "name": "DXA800",
+   "model": "DXA800"
   },
   {
    "device": "EF400",
@@ -53117,6 +53127,13 @@
    "model": "CREA_86135_Series"
   }
  ],
+ "HANSUNGCOMPUTER": [
+  {
+   "device": "rk3588_t",
+   "name": "HSC-IFPD",
+   "model": "HSN_Series"
+  }
+ ],
  "HANYEAL": [
   {
    "device": "E101GC",
@@ -65460,6 +65477,26 @@
    "device": "HNVCA-Q",
    "name": "荣耀V Purse",
    "model": "VCA-AN00"
+  },
+  {
+   "device": "HNBRC-M",
+   "name": "荣耀X60",
+   "model": "BRC-AN00"
+  },
+  {
+   "device": "HNBRP-Q",
+   "name": "荣耀X60 PRO",
+   "model": "BRP-AN00"
+  },
+  {
+   "device": "HNBRP-Q",
+   "name": "荣耀X60 PRO",
+   "model": "BRP-AN80"
+  },
+  {
+   "device": "HNROD2-Q",
+   "name": "荣耀平板GT PRO",
+   "model": "ROD2-W69"
   }
  ],
  "Hoozo": [
@@ -82275,6 +82312,11 @@
    "device": "itel-S685LN",
    "name": "itel S25",
    "model": "itel S685LN"
+  },
+  {
+   "device": "itel-S686LN",
+   "name": "itel S25 Ultra",
+   "model": "itel S686LN"
   },
   {
    "device": "itel-S32LTE",
@@ -147216,11 +147258,6 @@
    "model": "23129RA5FL"
   },
   {
-   "device": "sapphire",
-   "name": "Redmi Note 13",
-   "model": "23129RAA4G"
-  },
-  {
    "device": "sapphiren",
    "name": "Redmi Note 13",
    "model": "23124RA7EO"
@@ -190951,6 +190988,11 @@
    "model": "P30T"
   },
   {
+   "device": "P30T_B",
+   "name": "P30T_ROW",
+   "model": "P30T_ROW"
+  },
+  {
    "device": "P30T_ROW",
    "name": "P30T_ROW",
    "model": "P30T"
@@ -204970,9 +205012,19 @@
    "model": "V2353DA"
   },
   {
+   "device": "PD2415",
+   "name": "V2415A",
+   "model": "V2415A"
+  },
+  {
    "device": "PD2417",
    "name": "V2417A",
    "model": "V2417A"
+  },
+  {
+   "device": "PD2419",
+   "name": "V2419A",
+   "model": "V2419A"
   },
   {
    "device": "V2202",
@@ -205743,6 +205795,11 @@
    "device": "2160",
    "name": "Y30 5G",
    "model": "V2160"
+  },
+  {
+   "device": "V2418",
+   "name": "Y300 5G",
+   "model": "V2416"
   },
   {
    "device": "V2422",
@@ -214423,6 +214480,13 @@
    "device": "Xpad",
    "name": "Xpad",
    "model": "Xpad_M9_3G"
+  }
+ ],
+ "YASHI": [
+  {
+   "device": "MARTINI",
+   "name": "MARTINI",
+   "model": "MARTINI"
   }
  ],
  "YAYGO": [
@@ -223799,6 +223863,11 @@
    "model": "Z2350"
   },
   {
+   "device": "P606F17",
+   "name": "ZTE Blade V70 Design",
+   "model": "Z2458"
+  },
+  {
    "device": "P852F52",
    "name": "ZTE Blade V770",
    "model": "ZTE Blade V770"
@@ -224120,7 +224189,7 @@
   },
   {
    "device": "Z6255",
-   "name": "nubia Blade A75",
+   "name": "nubia A75",
    "model": "Z6255CA"
   },
   {
@@ -230889,6 +230958,16 @@
    "device": "RE5C3F",
    "name": "真我12x",
    "model": "RMX3993"
+  },
+  {
+   "device": "RE5C44",
+   "name": "真我13",
+   "model": "RMX3952"
+  },
+  {
+   "device": "RE601EL1",
+   "name": "真我13 Pro",
+   "model": "RMX5002"
   },
   {
    "device": "RE5C49L1",

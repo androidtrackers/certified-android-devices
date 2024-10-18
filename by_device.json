@@ -1324,6 +1324,11 @@
    "model": "IWxx2_DX"
   },
   {
+   "brand": "HANSUNGCOMPUTER",
+   "name": "HSC-IFPD",
+   "model": "HSN_Series"
+  },
+  {
    "brand": "Helgi",
    "name": "HXxx10",
    "model": "Helgi_HX10"
@@ -38950,6 +38955,11 @@
    "brand": "Blu",
    "name": "E15",
    "model": "E15"
+  },
+  {
+   "brand": "Blu",
+   "name": "G54",
+   "model": "G54"
   }
  ],
  "E20": [
@@ -41186,6 +41196,13 @@
    "brand": "Bluebird",
    "name": "CF550",
    "model": "CF550"
+  }
+ ],
+ "DXA800": [
+  {
+   "brand": "Bluebird",
+   "name": "DXA800",
+   "model": "DXA800"
   }
  ],
  "EF400": [
@@ -87089,11 +87106,6 @@
    "model": "23129RA5FL"
   },
   {
-   "brand": "Redmi",
-   "name": "Redmi Note 13",
-   "model": "23129RAA4G"
-  },
-  {
    "brand": "ZTE",
    "name": "Sapphire 3G",
    "model": "N818S"
@@ -95334,6 +95346,11 @@
    "brand": "Honor",
    "name": "HONOR MagicPad2",
    "model": "ROD2-W09"
+  },
+  {
+   "brand": "Honor",
+   "name": "荣耀平板GT PRO",
+   "model": "ROD2-W69"
   }
  ],
  "HNROD2-Q1": [
@@ -95631,6 +95648,25 @@
    "brand": "Honor",
    "name": "荣耀V Purse",
    "model": "VCA-AN00"
+  }
+ ],
+ "HNBRC-M": [
+  {
+   "brand": "Honor",
+   "name": "荣耀X60",
+   "model": "BRC-AN00"
+  }
+ ],
+ "HNBRP-Q": [
+  {
+   "brand": "Honor",
+   "name": "荣耀X60 PRO",
+   "model": "BRP-AN00"
+  },
+  {
+   "brand": "Honor",
+   "name": "荣耀X60 PRO",
+   "model": "BRP-AN80"
   }
  ],
  "F13": [
@@ -115526,6 +115562,13 @@
    "brand": "Itel",
    "name": "itel S25",
    "model": "itel S685LN"
+  }
+ ],
+ "itel-S686LN": [
+  {
+   "brand": "Itel",
+   "name": "itel S25 Ultra",
+   "model": "itel S686LN"
   }
  ],
  "itel-S32LTE": [
@@ -243036,6 +243079,11 @@
    "brand": "Teclast",
    "name": "P30T_ROW",
    "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30T_ROW",
+   "model": "P30T_ROW"
   }
  ],
  "P30T_EEA": [
@@ -259128,11 +259176,25 @@
    "model": "V2353DA"
   }
  ],
+ "PD2415": [
+  {
+   "brand": "Vivo",
+   "name": "V2415A",
+   "model": "V2415A"
+  }
+ ],
  "PD2417": [
   {
    "brand": "Vivo",
    "name": "V2417A",
    "model": "V2417A"
+  }
+ ],
+ "PD2419": [
+  {
+   "brand": "Vivo",
+   "name": "V2419A",
+   "model": "V2419A"
   }
  ],
  "V2158": [
@@ -259390,6 +259452,11 @@
    "brand": "Vivo",
    "name": "Y200",
    "model": "V2417"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y300 5G",
+   "model": "V2416"
   }
  ],
  "V2403": [
@@ -269755,6 +269822,13 @@
    "brand": "Xwave",
    "name": "Xpad",
    "model": "Xpad_M9_3G"
+  }
+ ],
+ "MARTINI": [
+  {
+   "brand": "YASHI",
+   "name": "MARTINI",
+   "model": "MARTINI"
   }
  ],
  "YCQ_Q88": [
@@ -280281,6 +280355,18 @@
    "model": "nubia 8550"
   }
  ],
+ "P606F17": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V70 Design",
+   "model": "Z2458"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia V70 Design",
+   "model": "Z2458"
+  }
+ ],
  "P840V80": [
   {
    "brand": "ZTE",
@@ -280586,7 +280672,7 @@
  "Z6255": [
   {
    "brand": "ZTE",
-   "name": "nubia Blade A75",
+   "name": "nubia A75",
    "model": "Z6255CA"
   }
  ],
@@ -280628,13 +280714,6 @@
    "brand": "ZTE",
    "name": "nubia Play",
    "model": "NX651J"
-  }
- ],
- "P606F17": [
-  {
-   "brand": "ZTE",
-   "name": "nubia V70 Design",
-   "model": "Z2458"
   }
  ],
  "PQ82A11": [
@@ -287968,6 +288047,30 @@
    "model": "RMX3841"
   }
  ],
+ "RE5C44": [
+  {
+   "brand": "realme",
+   "name": "真我13",
+   "model": "RMX3952"
+  },
+  {
+   "brand": "realme",
+   "name": "真我V60",
+   "model": "RMX3995"
+  },
+  {
+   "brand": "realme",
+   "name": "真我V60s",
+   "model": "RMX3996"
+  }
+ ],
+ "RE601EL1": [
+  {
+   "brand": "realme",
+   "name": "真我13 Pro",
+   "model": "RMX5002"
+  }
+ ],
  "RE5C49L1": [
   {
    "brand": "realme",
@@ -288061,18 +288164,6 @@
    "brand": "realme",
    "name": "真我V50s",
    "model": "RMX3781"
-  }
- ],
- "RE5C44": [
-  {
-   "brand": "realme",
-   "name": "真我V60",
-   "model": "RMX3995"
-  },
-  {
-   "brand": "realme",
-   "name": "真我V60s",
-   "model": "RMX3996"
   }
  ],
  "redbeatA2": [

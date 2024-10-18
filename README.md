@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-17
+Last sync is 2024-10-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4154,6 +4154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G53|G0850_IW|G53|
 |Blu|G53|G0850_TIGO|G53|
 |Blu|G53|G0851|G53|
+|Blu|G54|E0010|G54|
 |Blu|G54|G0840|G54|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
@@ -4417,6 +4418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BlueTech|MID1016BT001|MID1016BT001|MID1016BT001|
 |Bluebird|BM180|BM180|BM180|
 |Bluebird|CF550|CF550|CF550|
+|Bluebird|DXA800|DXA800|DXA800|
 |Bluebird|EF400|EF400|EF400|
 |Bluebird|EF401|EF401|EF401|
 |Bluebird|EF401|EF401|EF401_RU|
@@ -10215,6 +10217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HANDELSON|H14|H14|H14|
 |HANET|T432|SmartEdu|T432|
 |HANKOOK_CREA|HANKOOK_CREA_IFPD|HANKOOK_CREA_RK3588|CREA_86135_Series|
+|HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSN_Series|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
 |HAOVM|HP10|HP10|P10|
@@ -12648,6 +12651,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
+|Honor|荣耀X60|HNBRC-M|BRC-AN00|
+|Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
+|Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
+|Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -15963,6 +15970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S23+|itel-S681LN|itel S681LN|
 |Itel|itel S24|itel-S667LN|itel S667LN|
 |Itel|itel S25|itel-S685LN|itel S685LN|
+|Itel|itel S25 Ultra|itel-S686LN|itel S686LN|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
@@ -28604,7 +28612,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
 |Redmi|Redmi Note 12T Pro|pearl|23054RA19C|
 |Redmi|Redmi Note 13|sapphire|23129RA5FL|
-|Redmi|Redmi Note 13|sapphire|23129RAA4G|
 |Redmi|Redmi Note 13|sapphiren|23124RA7EO|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABC|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABI|
@@ -37185,6 +37192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30T_EEA|P30T_EEA|P30T_EEA|
 |Teclast|P30T_ROW|P30T|P30T|
 |Teclast|P30T_ROW|P30T_B|P30T|
+|Teclast|P30T_ROW|P30T_B|P30T_ROW|
 |Teclast|P30T_ROW|P30T_ROW|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T_ROW|
 |Teclast|P30_EEA|P30_B|P30|
@@ -39894,7 +39902,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2338|V2338|V2338|
 |Vivo|V2353A|PD2353|V2353A|
 |Vivo|V2353A|PD2353|V2353DA|
+|Vivo|V2415A|PD2415|V2415A|
 |Vivo|V2417A|PD2417|V2417A|
+|Vivo|V2419A|PD2419|V2419A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
@@ -40049,6 +40059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y28s 5G|V2346|V2346|
 |Vivo|Y28s 5G|V2346|V2351|
 |Vivo|Y30 5G|2160|V2160|
+|Vivo|Y300 5G|V2418|V2416|
 |Vivo|Y300 Plus 5G|V2422|V2422|
 |Vivo|Y300 Pro|PD2410|V2410A|
 |Vivo|Y31|PD1505|vivo Y31|
@@ -41735,6 +41746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtreme|Xtreme 4K Smart TV|SW6H|Xtreme 4K Smart TV|
 |Xtreme|Xtreme 4K Smart TV FF|SW6H|Xtreme 4K Smart TV FF|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
+|YASHI|MARTINI|MARTINI|MARTINI|
 |YAYGO|SEI600YAY|HND|ATV-101|
 |YAYGO|SEI600YAY4|HND|ATV-101|
 |YCQ_SZ|YCQ_Q88|YCQ_Q88|YCQ_Q88|
@@ -43589,6 +43601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V50 Vita|P606F09|ZTE 8550|
 |ZTE|ZTE Blade V60 Design|P606F10|Z2350|
 |ZTE|ZTE Blade V60 Vita|P606F10|Z2350|
+|ZTE|ZTE Blade V70 Design|P606F17|Z2458|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
@@ -43653,7 +43666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia 8046|P616F01|nubia 8046|
-|ZTE|nubia Blade A75|Z6255|Z6255CA|
+|ZTE|nubia A75|Z6255|Z6255CA|
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
@@ -44939,6 +44952,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我12 Pro|RE5C3C|RMX3843|
 |realme|真我12 Pro+|RE5C3B|RMX3841|
 |realme|真我12x|RE5C3F|RMX3993|
+|realme|真我13|RE5C44|RMX3952|
+|realme|真我13 Pro|RE601EL1|RMX5002|
 |realme|真我13 Pro+|RE5C49L1|RMX3920|
 |realme|真我13 Pro至尊版|RE5C49L1|RMX3989|
 |realme|真我GT 2|RE5471|RMX3310|
