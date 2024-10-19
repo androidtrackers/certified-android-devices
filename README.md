@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-18
+Last sync is 2024-10-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19734,7 +19734,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Smart Tab M8 (3rd Gen)|TB-8506XS|Lenovo TB-8506XS|
 |Lenovo|Lenovo Smrat Tab M8|8505XC|Lenovo TB-8505XC|
 |Lenovo|Lenovo Smrat Tab M8|8505XS|Lenovo TB-8505XS|
-|Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
 |Lenovo|Lenovo TAB 10|TB-X103F|Lenovo TB-X103F|
 |Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F|
 |Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F_HFT|
@@ -19771,6 +19770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB3 8 Plus|TB-8703N|Lenovo TB-8703N|
 |Lenovo|Lenovo TAB3 8 Plus|TB-8703R|Lenovo TB-8703R|
 |Lenovo|Lenovo TAB3 8 Plus|TB-8703X|Lenovo TB-8703X|
+|Lenovo|Lenovo TAB3 8 Plus|TB-8803F|Lenovo TB-8803F|
 |Lenovo|Lenovo TAB4|701LV|701LV|
 |Lenovo|Lenovo TAB4|702LV|702LV|
 |Lenovo|Lenovo TAB4 10|X304F|Lenovo TB-X304F|
@@ -24400,6 +24400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|M3|NUU_M3|NUU_M3|
 |Nuu|M6|S6503LE|S6503L|
 |Nuu|N10|S6603LA|S6603L|
+|Nuu|N10 Plus|S6704LA|S6704L|
 |Nuu|N12|S6008LA|S6008L|
 |Nuu|N13|S6514LA|S6514L|
 |Nuu|N4L|N4L|N4L|
@@ -40289,6 +40290,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X9s Plus|PD1635|vivo X9s Plus|
 |Vivo|vivo Y100i长续航版|PD2312|V2312BA|
 |Vivo|vivo Y11|Y11|vivo Y11|
+|Vivo|vivo Y19s|V2419|V2419|
+|Vivo|vivo Y19s|V2419|V2423|
 |Vivo|vivo Y22|V2207|V2207|
 |Vivo|vivo Y22|V2207|V2238|
 |Vivo|vivo Y22|Y22|vivo Y22|
@@ -42208,6 +42211,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A302ZT|Z6561S|A302ZT|
 |ZTE|A303ZT|Z6576S|A303ZT|
 |ZTE|A402ZT|Z5501S|A402ZT|
+|ZTE|A403ZT|Z6701S|A403ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|

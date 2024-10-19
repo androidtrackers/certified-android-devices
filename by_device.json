@@ -137645,13 +137645,6 @@
    "model": "Lenovo TB-8505XS"
   }
  ],
- "TB-8803F": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo TAB",
-   "model": "Lenovo TB-8803F"
-  }
- ],
  "TB-X103F": [
   {
    "brand": "Lenovo",
@@ -137893,6 +137886,13 @@
    "brand": "Lenovo",
    "name": "Lenovo TAB3 8 Plus",
    "model": "Lenovo TB-8703X"
+  }
+ ],
+ "TB-8803F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo TAB3 8 Plus",
+   "model": "Lenovo TB-8803F"
   }
  ],
  "701LV": [
@@ -166781,6 +166781,13 @@
    "brand": "Nuu",
    "name": "N10",
    "model": "S6603L"
+  }
+ ],
+ "S6704LA": [
+  {
+   "brand": "Nuu",
+   "name": "N10 Plus",
+   "model": "S6704L"
   }
  ],
  "S6008LA": [
@@ -261516,6 +261523,18 @@
    "model": "vivo X9s Plus"
   }
  ],
+ "V2419": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y19s",
+   "model": "V2419"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y19s",
+   "model": "V2423"
+  }
+ ],
  "V2207": [
   {
    "brand": "Vivo",
@@ -273052,6 +273071,13 @@
    "brand": "ZTE",
    "name": "A402ZT",
    "model": "A402ZT"
+  }
+ ],
+ "Z6701S": [
+  {
+   "brand": "ZTE",
+   "name": "A403ZT",
+   "model": "A403ZT"
   }
  ],
  "ZTE-A880": [
