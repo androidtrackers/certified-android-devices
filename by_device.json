@@ -47609,6 +47609,13 @@
    "model": "kPad"
   }
  ],
+ "ChurchDeskP1": [
+  {
+   "brand": "ChurchDesk",
+   "name": "ChurchDeskP1",
+   "model": "ChurchDeskP1"
+  }
+ ],
  "Hi9Air": [
   {
    "brand": "Chuwi",
@@ -57057,6 +57064,13 @@
    "brand": "DSIC",
    "name": "Mobilebase DS6",
    "model": "DS6"
+  }
+ ],
+ "DS60S": [
+  {
+   "brand": "DSIC",
+   "name": "Mobilebase DS60S",
+   "model": "DS60S"
   }
  ],
  "RD86QE": [
@@ -72726,6 +72740,13 @@
    "brand": "Xcell",
    "name": "View",
    "model": "View"
+  }
+ ],
+ "PayTab_PT10": [
+  {
+   "brand": "Fobem",
+   "name": "PayTab_PT10",
+   "model": "PayTab_PT10"
   }
  ],
  "Bolt": [
@@ -259183,25 +259204,11 @@
    "model": "V2353DA"
   }
  ],
- "PD2415": [
-  {
-   "brand": "Vivo",
-   "name": "V2415A",
-   "model": "V2415A"
-  }
- ],
  "PD2417": [
   {
    "brand": "Vivo",
    "name": "V2417A",
    "model": "V2417A"
-  }
- ],
- "PD2419": [
-  {
-   "brand": "Vivo",
-   "name": "V2419A",
-   "model": "V2419A"
   }
  ],
  "V2158": [
@@ -260823,6 +260830,11 @@
    "brand": "Vivo",
    "name": "iQOO Z9 5G",
    "model": "I2218"
+  },
+  {
+   "brand": "iQOO",
+   "name": "iQOO Z9 5G",
+   "model": "I2218"
   }
  ],
  "I2302": [
@@ -261398,6 +261410,20 @@
    "brand": "Vivo",
    "name": "vivo X20",
    "model": "vivo X20A"
+  }
+ ],
+ "PD2415": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X200",
+   "model": "V2415A"
+  }
+ ],
+ "PD2419": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X200 Pro mini",
+   "model": "V2419A"
   }
  ],
  "PD1710": [

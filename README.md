@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-20
+Last sync is 2024-10-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5336,6 +5336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |China Mobile|n1 max|m823_cmcc|M823|
 |China Network System (CNS)|STB-9642C1|BCM72604|STB-9642C1|
 |Chosunbiz|Chosunbiz|kPad|kPad|
+|ChurchDesk|ChurchDeskP1|ChurchDeskP1|ChurchDeskP1|
 |Chuwi|CHUWI|Hi9Air|Hi9Air|
 |Chuwi|Hi10_XPro|Hi10_XPro|Hi10 XPro|
 |Chuwi|Hi10_XPro_Pad|Hi10_XPro_Pad|Hi10_XPro_Pad|
@@ -6645,6 +6646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DREAMTECH|STARPAD_PLUS|STARPAD_PLUS|STARPAD PLUS|
 |DREAMTECH|VOLTA_X|VOLTA_X|VOLTA X|
 |DSIC|Mobilebase DS6|ds6|DS6|
+|DSIC|Mobilebase DS60S|DS60S|DS60S|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DSTechnology|MATE ONE|MO_Pro|MO_Series|
 |DTAB|TK-P617_3.3Ghz|TK_P617_3_3Ghz|TK_P617_3_3Ghz|
@@ -8921,6 +8923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly_Tech|T101|T101|T101|
 |Fobem|2K SMART TV|nagata|Fobem 2K SMART TV|
 |Fobem|Fobem 4K SMART TV|marina|Fobem 4K SMART TV|
+|Fobem|PayTab_PT10|PayTab_PT10|PayTab_PT10|
 |Fone Haus|Blaze|Blaze|Blaze|
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fone Haus|CoolminttTribe|CoolMinttTribe|CoolMinttTribe|
@@ -39903,9 +39906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2338|V2338|V2338|
 |Vivo|V2353A|PD2353|V2353A|
 |Vivo|V2353A|PD2353|V2353DA|
-|Vivo|V2415A|PD2415|V2415A|
 |Vivo|V2417A|PD2417|V2417A|
-|Vivo|V2419A|PD2419|V2419A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
@@ -40269,6 +40270,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X Note|PD2170|V2170A|
 |Vivo|vivo X20|PD1709|vivo PD1709|
 |Vivo|vivo X20|PD1709|vivo X20A|
+|Vivo|vivo X200|PD2415|V2415A|
+|Vivo|vivo X200 Pro mini|PD2419|V2419A|
 |Vivo|vivo X20Plus|PD1710|vivo PD1710|
 |Vivo|vivo X20Plus|PD1710|vivo X20Plus A|
 |Vivo|vivo X20Plus UD|PD1721|vivo PD1721|
@@ -44533,6 +44536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus P1|iPlus_P1|iPlus P1|
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iPlus|iPlus_P3|iPlus_P3|iPlus P3|
+|iQOO|iQOO Z9 5G|I2218|I2218|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|

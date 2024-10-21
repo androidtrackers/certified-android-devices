@@ -27632,6 +27632,13 @@
    "model": "kPad"
   }
  ],
+ "ChurchDesk": [
+  {
+   "device": "ChurchDeskP1",
+   "name": "ChurchDeskP1",
+   "model": "ChurchDeskP1"
+  }
+ ],
  "Chuwi": [
   {
    "device": "Hi9Air",
@@ -34387,6 +34394,11 @@
    "device": "ds6",
    "name": "Mobilebase DS6",
    "model": "DS6"
+  },
+  {
+   "device": "DS60S",
+   "name": "Mobilebase DS60S",
+   "model": "DS60S"
   },
   {
    "device": "RD86QE",
@@ -46355,6 +46367,11 @@
    "device": "marina",
    "name": "Fobem 4K SMART TV",
    "model": "Fobem 4K SMART TV"
+  },
+  {
+   "device": "PayTab_PT10",
+   "name": "PayTab_PT10",
+   "model": "PayTab_PT10"
   }
  ],
  "Fone Haus": [
@@ -205017,19 +205034,9 @@
    "model": "V2353DA"
   },
   {
-   "device": "PD2415",
-   "name": "V2415A",
-   "model": "V2415A"
-  },
-  {
    "device": "PD2417",
    "name": "V2417A",
    "model": "V2417A"
-  },
-  {
-   "device": "PD2419",
-   "name": "V2419A",
-   "model": "V2419A"
   },
   {
    "device": "V2202",
@@ -206845,6 +206852,16 @@
    "device": "PD1709",
    "name": "vivo X20",
    "model": "vivo X20A"
+  },
+  {
+   "device": "PD2415",
+   "name": "vivo X200",
+   "model": "V2415A"
+  },
+  {
+   "device": "PD2419",
+   "name": "vivo X200 Pro mini",
+   "model": "V2419A"
   },
   {
    "device": "PD1710",
@@ -228753,6 +228770,13 @@
    "device": "iPlus_P3",
    "name": "iPlus_P3",
    "model": "iPlus P3"
+  }
+ ],
+ "iQOO": [
+  {
+   "device": "I2218",
+   "name": "iQOO Z9 5G",
+   "model": "I2218"
   }
  ],
  "iQandT": [
