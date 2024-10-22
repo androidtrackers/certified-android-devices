@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-21
+Last sync is 2024-10-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11556,6 +11556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|KIDS_1|KIDS_1|KIDS_1|
 |Himax|M21|M21|M21|
 |Himax|M25i|M25i|M25i|
+|Hime TV|PANZTE-0001|HIME_B866V2FAS|PANZTE-0001|
 |Hipstreet|785TB4|785TB4|785TB4|
 |Hipstreet|7DTB25|7DTB25|7DTB25|
 |Hipstreet|7DTB37|7DTB37|7DTB37|
@@ -12593,6 +12594,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
+|Honor|HONOR Pad X8a|HNNDL-Q|NDL-L03|
+|Honor|HONOR Pad X8a|HNNDL-Q|NDL-L09|
 |Honor|HONOR Pad X8a|HNNDL-Q|NDL-W09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L03|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L09|
@@ -12628,6 +12631,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7b|HNCLK-Q|CLK-LX3|
 |Honor|HONOR X7b 5G|HNCLK-M1|CLK-NX1|
 |Honor|HONOR X7b 5G|HNCLK-M1|CLK-NX2|
+|Honor|HONOR X7c|HNALT-QL|ALT-LX1|
+|Honor|HONOR X7c|HNALT-QL|ALT-LX2|
+|Honor|HONOR X7c|HNALT-QL|ALT-LX3|
 |Honor|HONOR X7c 5G|HNALT-Q1|ALT-NX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
@@ -15525,6 +15531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Amber5S|Amber5S|Amber5S|
 |Ipro|Amber5S_Pro|Amber5S_Pro|Amber5S_Pro|
 |Ipro|Amber5S_Pro|Mobilephone|Amber5S_Pro|
+|Ipro|Amber5S_Pro|Mobilephone|Y200|
 |Ipro|Amber5s Plus|Amber5s_Plus|Amber5s Plus|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
@@ -17106,6 +17113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|NET_Y|NET_Y|NET_Y|
 |Krono|Net_Max_Go|Net_Max_Go|Net_Max_Go|
 |Krono|SKY|SKY|SKY|
+|Krono|TOUCH55|TOUCH55|KONROW|
 |Krono|ULTRA|ULTRA|ULTRA|
 |Krono|kIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
 |KrossElegance|AS10LXPro|AS10LXPro|SOSPIRO-AS10LXPro|
@@ -19063,9 +19071,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|A97|A97|A97 IPS|
 |Lava|A97 2GB|A97_2GB|A97 2GB|
 |Lava|A97 2GB Plus|A97_2GB_PLUS|A97 2GB PLUS|
+|Lava|Agni 3|LXX518|LXX518|
 |Lava|Aura Plus|Lava_Aura_Plus|Aura_Plus|
 |Lava|BE_U|Be_U|Lava Be_U|
 |Lava|BLAZE|LZX403|LAVA Blaze|
+|Lava|BLAZE 3 5G|LXX511|LXX511|
 |Lava|BLAZE 5G|LXX503|LAVA LXX503|
 |Lava|Blaze 2 Pro|LZX406|LAVA LZX406|
 |Lava|Blaze Curve|LXX505|LAVA LXX505|
@@ -24539,6 +24549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M19TE|M19TE|M19TE|
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
+|ONERugged|M89T|M89T|M89T|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
@@ -29728,6 +29739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A16 5G|a16x|SM-A166U|
 |Samsung|Galaxy A16 5G|a16x|SM-A166U1|
 |Samsung|Galaxy A16 5G|a16x|SM-S166V|
+|Samsung|Galaxy A16 5G|a16xm|SM-A166P|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -32616,6 +32628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|三星W22 5G|v2q|SM-W2022|
 |Samsung|心系天下 三星 W23|v4q|SM-W9023|
 |Samsung|心系天下 三星 W23 Flip|e4q|SM-W7023|
+|Samsung|心系天下 三星 W25 Flip|b6q|SM-W7025|
 |Samsung|领世旗舰8|venenoltechn|SM-G9298|
 |Samtech|MID_M1023|MID_M1023|MID_M10|
 |Samtech|MID_M1023_EEA|MID_M1023_EEA|MID_M10|
@@ -44536,7 +44549,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus P1|iPlus_P1|iPlus P1|
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iPlus|iPlus_P3|iPlus_P3|iPlus P3|
-|iQOO|iQOO Z9 5G|I2218|I2218|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|

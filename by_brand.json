@@ -59976,6 +59976,13 @@
    "model": "M25i"
   }
  ],
+ "Hime TV": [
+  {
+   "device": "HIME_B866V2FAS",
+   "name": "PANZTE-0001",
+   "model": "PANZTE-0001"
+  }
+ ],
  "Hipstreet": [
   {
    "device": "785TB4",
@@ -65193,6 +65200,16 @@
   {
    "device": "HNNDL-Q",
    "name": "HONOR Pad X8a",
+   "model": "NDL-L03"
+  },
+  {
+   "device": "HNNDL-Q",
+   "name": "HONOR Pad X8a",
+   "model": "NDL-L09"
+  },
+  {
+   "device": "HNNDL-Q",
+   "name": "HONOR Pad X8a",
    "model": "NDL-W09"
   },
   {
@@ -65364,6 +65381,21 @@
    "device": "HNCLK-M1",
    "name": "HONOR X7b 5G",
    "model": "CLK-NX2"
+  },
+  {
+   "device": "HNALT-QL",
+   "name": "HONOR X7c",
+   "model": "ALT-LX1"
+  },
+  {
+   "device": "HNALT-QL",
+   "name": "HONOR X7c",
+   "model": "ALT-LX2"
+  },
+  {
+   "device": "HNALT-QL",
+   "name": "HONOR X7c",
+   "model": "ALT-LX3"
   },
   {
    "device": "HNALT-Q1",
@@ -80079,6 +80111,11 @@
    "model": "Amber5S_Pro"
   },
   {
+   "device": "Mobilephone",
+   "name": "Amber5S_Pro",
+   "model": "Y200"
+  },
+  {
    "device": "Amber5s_Plus",
    "name": "Amber5s Plus",
    "model": "Amber5s Plus"
@@ -88272,6 +88309,11 @@
    "device": "SKY",
    "name": "SKY",
    "model": "SKY"
+  },
+  {
+   "device": "TOUCH55",
+   "name": "TOUCH55",
+   "model": "KONROW"
   },
   {
    "device": "ULTRA",
@@ -98189,6 +98231,11 @@
    "model": "A97 2GB PLUS"
   },
   {
+   "device": "LXX518",
+   "name": "Agni 3",
+   "model": "LXX518"
+  },
+  {
    "device": "Lava_Aura_Plus",
    "name": "Aura Plus",
    "model": "Aura_Plus"
@@ -98202,6 +98249,11 @@
    "device": "LZX403",
    "name": "BLAZE",
    "model": "LAVA Blaze"
+  },
+  {
+   "device": "LXX511",
+   "name": "BLAZE 3 5G",
+   "model": "LXX511"
   },
   {
    "device": "LXX503",
@@ -126343,6 +126395,11 @@
    "model": "M86XE"
   },
   {
+   "device": "M89T",
+   "name": "M89T",
+   "model": "M89T"
+  },
+  {
    "device": "MPC10T",
    "name": "MPC10T",
    "model": "MPC10T"
@@ -153118,6 +153175,11 @@
    "model": "SM-S166V"
   },
   {
+   "device": "a16xm",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166P"
+  },
+  {
    "device": "a2corelte",
    "name": "Galaxy A2 Core",
    "model": "SM-A260F"
@@ -167556,6 +167618,11 @@
    "device": "e4q",
    "name": "心系天下 三星 W23 Flip",
    "model": "SM-W7023"
+  },
+  {
+   "device": "b6q",
+   "name": "心系天下 三星 W25 Flip",
+   "model": "SM-W7025"
   },
   {
    "device": "venenoltechn",
@@ -228770,13 +228837,6 @@
    "device": "iPlus_P3",
    "name": "iPlus_P3",
    "model": "iPlus P3"
-  }
- ],
- "iQOO": [
-  {
-   "device": "I2218",
-   "name": "iQOO Z9 5G",
-   "model": "I2218"
   }
  ],
  "iQandT": [

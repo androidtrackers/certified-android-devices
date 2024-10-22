@@ -89470,6 +89470,13 @@
    "model": "M25i"
   }
  ],
+ "HIME_B866V2FAS": [
+  {
+   "brand": "Hime TV",
+   "name": "PANZTE-0001",
+   "model": "PANZTE-0001"
+  }
+ ],
  "785TB4": [
   {
    "brand": "Hipstreet",
@@ -95423,6 +95430,16 @@
   {
    "brand": "Honor",
    "name": "HONOR Pad X8a",
+   "model": "NDL-L03"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X8a",
+   "model": "NDL-L09"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X8a",
    "model": "NDL-W09"
   }
  ],
@@ -95592,6 +95609,23 @@
    "brand": "Honor",
    "name": "HONOR X7b",
    "model": "CLK-LX3"
+  }
+ ],
+ "HNALT-QL": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X7c",
+   "model": "ALT-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X7c",
+   "model": "ALT-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X7c",
+   "model": "ALT-LX3"
   }
  ],
  "HNTFY-Q": [
@@ -112557,6 +112591,11 @@
   },
   {
    "brand": "Ipro",
+   "name": "Amber5S_Pro",
+   "model": "Y200"
+  },
+  {
+   "brand": "Ipro",
    "name": "Y300",
    "model": "Y300"
   }
@@ -121245,6 +121284,13 @@
    "brand": "Krono",
    "name": "SKY",
    "model": "SKY"
+  }
+ ],
+ "TOUCH55": [
+  {
+   "brand": "Krono",
+   "name": "TOUCH55",
+   "model": "KONROW"
   }
  ],
  "ULTRA": [
@@ -133145,6 +133191,13 @@
    "model": "A97 2GB PLUS"
   }
  ],
+ "LXX518": [
+  {
+   "brand": "Lava",
+   "name": "Agni 3",
+   "model": "LXX518"
+  }
+ ],
  "Lava_Aura_Plus": [
   {
    "brand": "Lava",
@@ -133164,6 +133217,13 @@
    "brand": "Lava",
    "name": "BLAZE",
    "model": "LAVA Blaze"
+  }
+ ],
+ "LXX511": [
+  {
+   "brand": "Lava",
+   "name": "BLAZE 3 5G",
+   "model": "LXX511"
   }
  ],
  "LXX503": [
@@ -167530,6 +167590,13 @@
    "model": "M86XE"
   }
  ],
+ "M89T": [
+  {
+   "brand": "ONERugged",
+   "name": "M89T",
+   "model": "M89T"
+  }
+ ],
  "MPC10T": [
   {
    "brand": "ONERugged",
@@ -198478,6 +198545,13 @@
    "model": "SM-S166V"
   }
  ],
+ "a16xm": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166P"
+  }
+ ],
  "a2corelte": [
   {
    "brand": "Samsung",
@@ -215805,6 +215879,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Flip6",
    "model": "SM-F741W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W25 Flip",
+   "model": "SM-W7025"
   }
  ],
  "f2q": [
@@ -260828,11 +260907,6 @@
  "I2218": [
   {
    "brand": "Vivo",
-   "name": "iQOO Z9 5G",
-   "model": "I2218"
-  },
-  {
-   "brand": "iQOO",
    "name": "iQOO Z9 5G",
    "model": "I2218"
   }
