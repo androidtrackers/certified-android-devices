@@ -5112,6 +5112,13 @@
    "model": "A1_Neo"
   }
  ],
+ "AF930": [
+  {
+   "brand": "ANFU",
+   "name": "AF930",
+   "model": "AF930"
+  }
+ ],
  "L50": [
   {
    "brand": "ANS",
@@ -9102,6 +9109,13 @@
    "brand": "Accent",
    "name": "FAST_10",
    "model": "FAST_10"
+  }
+ ],
+ "Fast10": [
+  {
+   "brand": "Accent",
+   "name": "Fast10",
+   "model": "Fast10"
   }
  ],
  "Fast17": [
@@ -26923,6 +26937,13 @@
    "brand": "Athesi",
    "name": "RT80A",
    "model": "RT80A9"
+  }
+ ],
+ "A30MAX": [
+  {
+   "brand": "Atozee",
+   "name": "A30MAX",
+   "model": "A30"
   }
  ],
  "A30MAX_EEA": [
@@ -58137,13 +58158,6 @@
    "model": "T104G_T610"
   }
  ],
- "T115G": [
-  {
-   "brand": "Datamini",
-   "name": "T115G",
-   "model": "T115G"
-  }
- ],
  "T74G": [
   {
    "brand": "Datamini",
@@ -63004,6 +63018,13 @@
   }
  ],
  "M23HC": [
+  {
+   "brand": "Doogee",
+   "name": "V Max Pro",
+   "model": "V Max Pro"
+  }
+ ],
+ "M23HC_1": [
   {
    "brand": "Doogee",
    "name": "V Max Pro",
@@ -90884,6 +90905,11 @@
    "brand": "Hisense",
    "name": "HLTE243E",
    "model": "Hisense E34"
+  },
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
+   "model": "Hisense T1 Pro"
   }
  ],
  "HSSDM636QC": [
@@ -115087,6 +115113,13 @@
    "model": "itel A507LSP"
   }
  ],
+ "itel-A507LSU": [
+  {
+   "brand": "Itel",
+   "name": "itel A24 Pro",
+   "model": "itel A507LSU"
+  }
+ ],
  "itel-A511LP2": [
   {
    "brand": "Itel",
@@ -115374,6 +115407,13 @@
    "brand": "Itel",
    "name": "itel AC50",
    "model": "itel L5007D"
+  }
+ ],
+ "itel-A507LMU": [
+  {
+   "brand": "Itel",
+   "name": "itel AC51",
+   "model": "itel A507LMU"
   }
  ],
  "itel-L6004L": [
@@ -176389,6 +176429,13 @@
    "brand": "PEAQ",
    "name": "PET_10180_H464S",
    "model": "PET_10180_H464S"
+  }
+ ],
+ "PET_11080-F628S": [
+  {
+   "brand": "PEAQ",
+   "name": "PET_11080-F628S",
+   "model": "PET_11080-F628S"
   }
  ],
  "PET_11080_H428S": [

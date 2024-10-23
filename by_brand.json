@@ -1161,6 +1161,13 @@
    "model": "ANEXA Android TV"
   }
  ],
+ "ANFU": [
+  {
+   "device": "AF930",
+   "name": "AF930",
+   "model": "AF930"
+  }
+ ],
  "ANS": [
   {
    "device": "L50",
@@ -2371,6 +2378,11 @@
    "device": "FAST_10",
    "name": "FAST_10",
    "model": "FAST_10"
+  },
+  {
+   "device": "Fast10",
+   "name": "Fast10",
+   "model": "Fast10"
   },
   {
    "device": "Fast17",
@@ -12741,6 +12753,11 @@
   }
  ],
  "Atozee": [
+  {
+   "device": "A30MAX",
+   "name": "A30MAX",
+   "model": "A30"
+  },
   {
    "device": "A30MAX_EEA",
    "name": "A30MAX_EEA",
@@ -35094,11 +35111,6 @@
    "model": "T104G"
   },
   {
-   "device": "T115G",
-   "name": "T115G",
-   "model": "T115G"
-  },
-  {
    "device": "T74G",
    "name": "T74G",
    "model": "T74G"
@@ -38549,6 +38561,11 @@
   },
   {
    "device": "M23HC",
+   "name": "V Max Pro",
+   "model": "V Max Pro"
+  },
+  {
+   "device": "M23HC_1",
    "name": "V Max Pro",
    "model": "V Max Pro"
   },
@@ -61172,6 +61189,11 @@
    "model": "Hisense E34"
   },
   {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense T1 Pro"
+  },
+  {
    "device": "HS8937QC",
    "name": "HLTE300E_ 02",
    "model": "HLTE300E"
@@ -81933,6 +81955,11 @@
    "model": "itel A507LSP"
   },
   {
+   "device": "itel-A507LSU",
+   "name": "itel A24 Pro",
+   "model": "itel A507LSU"
+  },
+  {
    "device": "itel-A511LP2",
    "name": "itel A24 Pro",
    "model": "itel A511LP"
@@ -82171,6 +82198,11 @@
    "device": "itel-A507LMO",
    "name": "itel AC50 Pro",
    "model": "itel A507LMO"
+  },
+  {
+   "device": "itel-A507LMU",
+   "name": "itel AC51",
+   "model": "itel A507LMU"
   },
   {
    "device": "itel-L6004L",
@@ -133723,6 +133755,11 @@
    "device": "PET_10180_H464S",
    "name": "PET_10180_H464S",
    "model": "PET_10180_H464S"
+  },
+  {
+   "device": "PET_11080-F628S",
+   "name": "PET_11080-F628S",
+   "model": "PET_11080-F628S"
   },
   {
    "device": "PET_11080_H428S",

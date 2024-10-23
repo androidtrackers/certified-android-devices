@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-22
+Last sync is 2024-10-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -217,6 +217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ANDRINO|Andrino|komagome|andrino 2K Android TV|
 |ANEE|A1 Neo|A1_Neo|A1_Neo|
 |ANEXA|Smart TV|redwood|ANEXA Android TV|
+|ANFU|AF930|AF930|AF930|
 |ANS|L50|L50|L50|
 |ANS|L51|L51|L51|
 |ANS|Trailblazer|rugged-smartphone|H450R|
@@ -435,6 +436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Accent|FAST7 3G|FAST7_3G|FAST7 3G|
 |Accent|FAST73G|FAST73G|FAST73G|
 |Accent|FAST_10|FAST_10|FAST_10|
+|Accent|Fast10|Fast10|Fast10|
 |Accent|Fast17|Fast17|Fast17|
 |Accent|Fasts7|Fasts7|Fasts7|
 |Accent|KIDZY70|KIDZY70|KIDZY70|
@@ -2464,6 +2466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|RT4500_EEA|RT4500|RT4500|
 |Athesi|RT55_EEA|RT55|RT55|
 |Athesi|RT80A|RT80A|RT80A9|
+|Atozee|A30MAX|A30MAX|A30|
 |Atozee|A30MAX_EEA|A30MAX_EEA|A30|
 |Atozee|AT10|AT10|AT10|
 |Atozee|AT10K|AT10K|AT10K|
@@ -6778,7 +6781,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T104G|T104G|T104G|
 |Datamini|T104G_T610|T104G_T610|T104G_T610|
 |Datamini|T104G_T618|T104G|T104G|
-|Datamini|T115G|T115G|T115G|
 |Datamini|T74G|T74G|T74G|
 |Datamini|T8004G|T8004G|T8004G|
 |Datamini|T84G|T84G|T84G|
@@ -7445,6 +7447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|V Max|M23HR|V Max|
 |Doogee|V Max Plus|M23HT|V Max Plus|
 |Doogee|V Max Pro|M23HC|V Max Pro|
+|Doogee|V Max Pro|M23HC_1|V Max Pro|
 |Doogee|V10|V10|V10|
 |Doogee|V10|V10|V11|
 |Doogee|V20|V20|V20|
@@ -11794,6 +11797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
+|Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
 |Hisense|HLTE300E_ 02|HS8937QC|Hisense Infinity H11|
@@ -15893,6 +15897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A24 2023|itel-A507LC|itel A507LC|
 |Itel|itel A24 2023|itel-A507LNP|itel A507LNP|
 |Itel|itel A24 2023|itel-A507LSP|itel A507LSP|
+|Itel|itel A24 Pro|itel-A507LSU|itel A507LSU|
 |Itel|itel A24 Pro|itel-A511LP2|itel A511LP|
 |Itel|itel A25|itel-L5002R|itel L5002|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L|itel A551L|
@@ -15941,6 +15946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel AC50|itel-A507LMO|itel A507LMO|
 |Itel|itel AC50|itel-L5007D|itel L5007D|
 |Itel|itel AC50 Pro|itel-A507LMO|itel A507LMO|
+|Itel|itel AC51|itel-A507LMU|itel A507LMU|
 |Itel|itel AC60|itel-L6004L|itel L6004L|
 |Itel|itel Alpha Lite|itel-W5008|itel W5008|
 |Itel|itel KidPad 1|Itel-W7001|Itel W7001|
@@ -25983,6 +25989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-882-H232S|PET-882-H232S|Lightyear 2|
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PEAQ|PET_10180_H464S|PET_10180_H464S|PET_10180_H464S|
+|PEAQ|PET_11080-F628S|PET_11080-F628S|PET_11080-F628S|
 |PEAQ|PET_11080_H428S|PET_11080_H428S|PET_11080_H428S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEICHENG|ZB31|ZB31|ZB31|
