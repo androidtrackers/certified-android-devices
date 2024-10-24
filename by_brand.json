@@ -17767,6 +17767,11 @@
    "model": "F5_19"
   },
   {
+   "device": "himalaya",
+   "name": "GV50",
+   "model": "BenQGV01"
+  },
+  {
    "device": "Harrier",
    "name": "Harrier",
    "model": "Harrier from EE"
@@ -22769,11 +22774,6 @@
    "device": "CF550",
    "name": "CF550",
    "model": "CF550"
-  },
-  {
-   "device": "DXA800",
-   "name": "DXA800",
-   "model": "DXA800"
   },
   {
    "device": "EF400",
@@ -84716,6 +84716,11 @@
    "device": "DX-A600",
    "name": "DX-A600",
    "model": "DX-A600"
+  },
+  {
+   "device": "DXA800",
+   "name": "DXA800",
+   "model": "DXA800"
   }
  ],
  "KGTEL": [
@@ -88193,6 +88198,11 @@
    "device": "KONROW_Smartfive",
    "name": "Smartfive",
    "model": "Smartfive"
+  },
+  {
+   "device": "TOUCH55PLUS",
+   "name": "TOUCH55PLUS",
+   "model": "KONROW"
   }
  ],
  "Kooda": [
@@ -88969,6 +88979,11 @@
    "device": "KYT34",
    "name": "DIGNO Tab",
    "model": "KYT34"
+  },
+  {
+   "device": "KY24L-TB100",
+   "name": "DIGNO Tab2 5G",
+   "model": "KYT35"
   },
   {
    "device": "KYV42",
@@ -148411,9 +148426,29 @@
    "model": "C6"
   },
   {
+   "device": "novax",
+   "name": "RHINO C6",
+   "model": "C6"
+  },
+  {
+   "device": "novad",
+   "name": "RHINO C6D",
+   "model": "C6D"
+  },
+  {
+   "device": "novar",
+   "name": "RHINO C6R",
+   "model": "C6R"
+  },
+  {
    "device": "Rhino_M10p",
    "name": "RHINO M10p",
    "model": "M10p"
+  },
+  {
+   "device": "pace",
+   "name": "RHINO PACE",
+   "model": "PACE A1"
   },
   {
    "device": "portal",
@@ -148441,9 +148476,34 @@
    "model": "T80"
   },
   {
+   "device": "scoutxlx",
+   "name": "T100",
+   "model": "T100"
+  },
+  {
+   "device": "Rhino_T5SE",
+   "name": "T5SE",
+   "model": "T5SE-001"
+  },
+  {
    "device": "Rhino_T8",
    "name": "T8",
    "model": "T8"
+  },
+  {
+   "device": "scoutx",
+   "name": "T80",
+   "model": "T80"
+  },
+  {
+   "device": "scoutx",
+   "name": "scoutp",
+   "model": "T80"
+  },
+  {
+   "device": "scoutxlx",
+   "name": "scoutpxl",
+   "model": "T100"
   }
  ],
  "Ricoh": [
@@ -148488,6 +148548,11 @@
   }
  ],
  "Rinno": [
+  {
+   "device": "K27p",
+   "name": "K27p",
+   "model": "K27p"
+  },
   {
    "device": "R455",
    "name": "R455",
@@ -191209,6 +191274,11 @@
    "model": "P40HD_RUS"
   },
   {
+   "device": "P50Case",
+   "name": "P50Case",
+   "model": "P50Case"
+  },
+  {
    "device": "P50S_EEA",
    "name": "P50S_EEA",
    "model": "P50S"
@@ -205138,6 +205208,11 @@
    "model": "V2353DA"
   },
   {
+   "device": "V2418",
+   "name": "V2417",
+   "model": "V2417"
+  },
+  {
    "device": "PD2417",
    "name": "V2417A",
    "model": "V2417A"
@@ -205781,11 +205856,6 @@
    "device": "V2344",
    "name": "Y18t",
    "model": "V2408"
-  },
-  {
-   "device": "V2418",
-   "name": "Y200",
-   "model": "V2417"
   },
   {
    "device": "V2307",
@@ -206866,6 +206936,11 @@
    "device": "PD1831",
    "name": "vivo S1",
    "model": "V1831A"
+  },
+  {
+   "device": "PD1831",
+   "name": "vivo S1",
+   "model": "V1831T"
   },
   {
    "device": "PD2207",
@@ -228731,6 +228806,11 @@
    "model": "IM-H261"
   },
   {
+   "device": "IM-L101",
+   "name": "IM-L101",
+   "model": "IM-L101"
+  },
+  {
    "device": "IMH101",
    "name": "IMH101",
    "model": "IMH101"
@@ -229456,6 +229536,11 @@
    "device": "Android_G17",
    "name": "Android_G17",
    "model": "Android_G17"
+  },
+  {
+   "device": "Android_G18",
+   "name": "Android_G18",
+   "model": "Android_G18"
   },
   {
    "device": "SlimPOS319",

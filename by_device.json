@@ -33976,6 +33976,23 @@
    "model": "BenQ F55J"
   }
  ],
+ "himalaya": [
+  {
+   "brand": "BenQ",
+   "name": "GV50",
+   "model": "BenQGV01"
+  },
+  {
+   "brand": "Dangbei",
+   "name": "DBOD02",
+   "model": "DBOD02"
+  },
+  {
+   "brand": "Epson",
+   "name": "HB35",
+   "model": "HB35"
+  }
+ ],
  "Harrier": [
   {
    "brand": "BenQ",
@@ -41217,13 +41234,6 @@
    "brand": "Bluebird",
    "name": "CF550",
    "model": "CF550"
-  }
- ],
- "DXA800": [
-  {
-   "brand": "Bluebird",
-   "name": "DXA800",
-   "model": "DXA800"
   }
  ],
  "EF400": [
@@ -57979,18 +57989,6 @@
    "brand": "Danew",
    "name": "konnect 601",
    "model": "Konnect_601"
-  }
- ],
- "himalaya": [
-  {
-   "brand": "Dangbei",
-   "name": "DBOD02",
-   "model": "DBOD02"
-  },
-  {
-   "brand": "Epson",
-   "name": "HB35",
-   "model": "HB35"
   }
  ],
  "DBPADGO1": [
@@ -117981,6 +117979,13 @@
    "model": "DX-A600"
   }
  ],
+ "DXA800": [
+  {
+   "brand": "KEYENCE",
+   "name": "DXA800",
+   "model": "DXA800"
+  }
+ ],
  "Better10": [
   {
    "brand": "KGTEL",
@@ -121137,6 +121142,13 @@
    "model": "Smartfive"
   }
  ],
+ "TOUCH55PLUS": [
+  {
+   "brand": "Konrow",
+   "name": "TOUCH55PLUS",
+   "model": "KONROW"
+  }
+ ],
  "KG2100": [
   {
    "brand": "Korea Telecom",
@@ -122173,6 +122185,13 @@
    "brand": "Kyocera",
    "name": "DIGNO Tab",
    "model": "KYT34"
+  }
+ ],
+ "KY24L-TB100": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO Tab2 5G",
+   "model": "KYT35"
   }
  ],
  "KYV42": [
@@ -193478,11 +193497,39 @@
    "model": "C6"
   }
  ],
+ "novax": [
+  {
+   "brand": "Rhino",
+   "name": "RHINO C6",
+   "model": "C6"
+  }
+ ],
+ "novad": [
+  {
+   "brand": "Rhino",
+   "name": "RHINO C6D",
+   "model": "C6D"
+  }
+ ],
+ "novar": [
+  {
+   "brand": "Rhino",
+   "name": "RHINO C6R",
+   "model": "C6R"
+  }
+ ],
  "Rhino_M10p": [
   {
    "brand": "Rhino",
    "name": "RHINO M10p",
    "model": "M10p"
+  }
+ ],
+ "pace": [
+  {
+   "brand": "Rhino",
+   "name": "RHINO PACE",
+   "model": "PACE A1"
   }
  ],
  "portal": [
@@ -193518,11 +193565,49 @@
    "model": "T80"
   }
  ],
+ "scoutxlx": [
+  {
+   "brand": "Rhino",
+   "name": "T100",
+   "model": "T100"
+  },
+  {
+   "brand": "Rhino",
+   "name": "scoutpxl",
+   "model": "T100"
+  }
+ ],
+ "Rhino_T5SE": [
+  {
+   "brand": "Rhino",
+   "name": "T5SE",
+   "model": "T5SE-001"
+  }
+ ],
+ "scoutx": [
+  {
+   "brand": "Rhino",
+   "name": "T80",
+   "model": "T80"
+  },
+  {
+   "brand": "Rhino",
+   "name": "scoutp",
+   "model": "T80"
+  }
+ ],
  "AXX10": [
   {
    "brand": "Ricoh",
    "name": "AXX10",
    "model": "AXX10"
+  }
+ ],
+ "K27p": [
+  {
+   "brand": "Rinno",
+   "name": "K27p",
+   "model": "K27p"
   }
  ],
  "R455": [
@@ -243361,6 +243446,13 @@
    "model": "P40HD_RUS"
   }
  ],
+ "P50Case": [
+  {
+   "brand": "Teclast",
+   "name": "P50Case",
+   "model": "P50Case"
+  }
+ ],
  "P50S_EEA": [
   {
    "brand": "Teclast",
@@ -259330,6 +259422,48 @@
    "model": "V2353DA"
   }
  ],
+ "V2418": [
+  {
+   "brand": "Vivo",
+   "name": "V2417",
+   "model": "V2417"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 Lite",
+   "model": "V2417"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 Lite",
+   "model": "V2418"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 Lite 5G",
+   "model": "V2417"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 Lite 5G",
+   "model": "V2418"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 SE",
+   "model": "V2418"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V40 SE 80W",
+   "model": "V2418"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y300 5G",
+   "model": "V2416"
+  }
+ ],
  "PD2417": [
   {
    "brand": "Vivo",
@@ -259555,48 +259689,6 @@
    "brand": "Vivo",
    "name": "V40",
    "model": "V2348"
-  }
- ],
- "V2418": [
-  {
-   "brand": "Vivo",
-   "name": "V40 Lite",
-   "model": "V2417"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V40 Lite",
-   "model": "V2418"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V40 Lite 5G",
-   "model": "V2417"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V40 Lite 5G",
-   "model": "V2418"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V40 SE",
-   "model": "V2418"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V40 SE 80W",
-   "model": "V2418"
-  },
-  {
-   "brand": "Vivo",
-   "name": "Y200",
-   "model": "V2417"
-  },
-  {
-   "brand": "Vivo",
-   "name": "Y300 5G",
-   "model": "V2416"
   }
  ],
  "V2403": [
@@ -261414,6 +261506,11 @@
    "brand": "Vivo",
    "name": "vivo S1",
    "model": "V1831A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo S1",
+   "model": "V1831T"
   }
  ],
  "PD2207": [
@@ -285786,6 +285883,13 @@
    "model": "IM-H261"
   }
  ],
+ "IM-L101": [
+  {
+   "brand": "iMuz",
+   "name": "IM-L101",
+   "model": "IM-L101"
+  }
+ ],
  "IMH101": [
   {
    "brand": "iMuz",
@@ -286477,6 +286581,13 @@
    "brand": "inefi",
    "name": "Android_G17",
    "model": "Android_G17"
+  }
+ ],
+ "Android_G18": [
+  {
+   "brand": "inefi",
+   "name": "Android_G18",
+   "model": "Android_G18"
   }
  ],
  "SlimPOS319": [

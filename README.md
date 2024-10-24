@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-23
+Last sync is 2024-10-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3435,6 +3435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|F5_16|F5|F5_16|
 |BenQ|F5_18|F5|F5_18|
 |BenQ|F5_19|F5|F5_19|
+|BenQ|GV50|himalaya|BenQGV01|
 |BenQ|Harrier|Harrier|Harrier from EE|
 |BenQ|Harrier Mini|harrier_mini|Harrier Mini from EE|
 |BenQ|Harrier Tab|harrier_tab|Harrier Tab from EE|
@@ -4421,7 +4422,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BlueTech|MID1016BT001|MID1016BT001|MID1016BT001|
 |Bluebird|BM180|BM180|BM180|
 |Bluebird|CF550|CF550|CF550|
-|Bluebird|DXA800|DXA800|DXA800|
 |Bluebird|EF400|EF400|EF400|
 |Bluebird|EF401|EF401|EF401|
 |Bluebird|EF401|EF401|EF401_RU|
@@ -16424,6 +16424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|BTA700|BTA700|BTA700|
 |KEYENCE|DX-A400|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
+|KEYENCE|DXA800|DXA800|DXA800|
 |KGTEL|A56|A56|A56|
 |KGTEL|Better10|Better10|Better10|
 |KGTEL|R10|R10A|R10|
@@ -17091,6 +17092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|SWEET_55|SWEET_55|SWEET 55|
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
+|Konrow|TOUCH55PLUS|TOUCH55PLUS|KONROW|
 |Kooda|KOODA 2K TV|shibuya|KOODA 2K TV|
 |Korea Telecom|KG2100|KG2100|KG2100|
 |Korea Telecom|KG3100|KG3100|KG3100|
@@ -17241,6 +17243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO SX4 Wi-Fi|KY24L-ST300|KC-S205|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
+|Kyocera|DIGNO Tab2 5G|KY24L-TB100|KYT35|
 |Kyocera|DIGNO V|KYV42|KYV42_u|
 |Kyocera|DIGNO W|KYV40|KYV40U|
 |Kyocera|DIGNO WX|KC-S303|KC-S303|
@@ -28835,13 +28838,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|C10|Rhino_C10|C10|
 |Rhino|RHINO C10|Rhino_C10|C10|
 |Rhino|RHINO C6|nova|C6|
+|Rhino|RHINO C6|novax|C6|
+|Rhino|RHINO C6D|novad|C6D|
+|Rhino|RHINO C6R|novar|C6R|
 |Rhino|RHINO M10p|Rhino_M10p|M10p|
+|Rhino|RHINO PACE|pace|PACE A1|
 |Rhino|RHINO PACE A1|portal|PACE A1|
 |Rhino|RHINO T100|scoutxl|T100|
 |Rhino|RHINO T5se|atom|T5se|
 |Rhino|RHINO T8|Rhino_T8|T8|
 |Rhino|RHINO T80|scout|T80|
+|Rhino|T100|scoutxlx|T100|
+|Rhino|T5SE|Rhino_T5SE|T5SE-001|
 |Rhino|T8|Rhino_T8|T8|
+|Rhino|T80|scoutx|T80|
+|Rhino|scoutp|scoutx|T80|
+|Rhino|scoutpxl|scoutxlx|T100|
 |Ricoh|AXX10|AXX10|AXX10|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
@@ -28849,6 +28861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rindo|Smart TV|longshan|AI PONT|
 |Rindo|Smart TV|redwood|AI PONT|
 |Rindo|Smart TV|samseong|AI PONT|
+|Rinno|K27p|K27p|K27p|
 |Rinno|R455|R455|R455|
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
@@ -37235,6 +37248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P40HD_T_EEA|P40HD_T_EEA|P40HD_T_EEA|
 |Teclast|P40HD_T_ROW|P40HD_T_ROW|P40HD_T_ROW|
 |Teclast|P40HD_T_RUS|P40HD_T_RUS|P40HD_RUS|
+|Teclast|P50Case|P50Case|P50Case|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50_EEA|P50|P50_EEA|
@@ -39926,6 +39940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2338|V2338|V2338|
 |Vivo|V2353A|PD2353|V2353A|
 |Vivo|V2353A|PD2353|V2353DA|
+|Vivo|V2417|V2418|V2417|
 |Vivo|V2417A|PD2417|V2417A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
@@ -40055,7 +40070,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
-|Vivo|Y200|V2418|V2417|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 GT|PD2361|V2361GA|
 |Vivo|Y200 Pro 5G|V2303|V2303|
@@ -40272,6 +40286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Pad3|DPD2345|PA2455|
 |Vivo|vivo Pad3 Pro|DPD2329|PA2473|
 |Vivo|vivo S1|PD1831|V1831A|
+|Vivo|vivo S1|PD1831|V1831T|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo S15e|PD2190|V2190A|
 |Vivo|vivo S16|PD2244|V2244A|
@@ -44529,6 +44544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|
 |iMuz|IM-H261|IM-H261|IM-H261|
+|iMuz|IM-L101|IM-L101|IM-L101|
 |iMuz|IMH101|IMH101|IMH101|
 |iMuz|L101|G10|L101|
 |iMuz|M101|G10|M101|
@@ -44664,6 +44680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |incar|E38_RU|E38|E38|
 |indigi|G4i|G4i|G4i|
 |inefi|Android_G17|Android_G17|Android_G17|
+|inefi|Android_G18|Android_G18|Android_G18|
 |inefi|SlimPOS319|SlimPOS319|SlimPOS319|
 |innex|Meeting_hub_EU|EU_3588|EU|
 |innos|Android TV|R2|ATV R2|
