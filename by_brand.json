@@ -34630,6 +34630,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "DAHUA",
+   "model": "EcoTV FHD"
+  },
+  {
    "device": "stanford",
    "name": "DAHUA",
    "model": "2K SMART TV"
@@ -44909,6 +44914,11 @@
    "model": "S1"
   },
   {
+   "device": "FOSSiBOT_S2",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
    "device": "Tab_11",
    "name": "Tab 11",
    "model": "Tab 11"
@@ -51666,6 +51676,13 @@
    "device": "SEI120G",
    "name": "SEI-120G",
    "model": "SEI-120G"
+  }
+ ],
+ "Globus_Infocom_Limited": [
+  {
+   "device": "GS01-Series",
+   "name": "GS01-Series",
+   "model": "GS01-Series"
   }
  ],
  "Glocalme": [
@@ -84639,6 +84656,11 @@
    "model": "H21"
   },
   {
+   "device": "H24",
+   "name": "H24",
+   "model": "H24"
+  },
+  {
    "device": "H34",
    "name": "H34",
    "model": "H34"
@@ -85622,6 +85644,11 @@
    "device": "zhongshan",
    "name": "LikeMe",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "MULTISMART",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -144897,6 +144924,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "RCA",
+   "model": "RCA SMART TV"
+  },
+  {
    "device": "seocho",
    "name": "RCA",
    "model": "RCA 4K Android TV"
@@ -168364,6 +168396,11 @@
   }
  ],
  "SenlinTech": [
+  {
+   "device": "S30-Pro",
+   "name": "S30-Pro",
+   "model": "S30-Pro"
+  },
   {
    "device": "pad6_EEA",
    "name": "pad6_EEA",
@@ -194669,6 +194706,11 @@
    "model": "TELUSTV-21T"
   },
   {
+   "device": "SER2024TLU",
+   "name": "TELUSTV-24S",
+   "model": "TELUSTV-24S"
+  },
+  {
    "device": "uiw4020tlu",
    "name": "UIW4020TLU",
    "model": "UIW4020TLU"
@@ -197637,6 +197679,11 @@
   },
   {
    "device": "Armor_X13",
+   "name": "Armor X13",
+   "model": "Armor X13"
+  },
+  {
+   "device": "GQ3117SH2_MTN",
    "name": "Armor X13",
    "model": "Armor X13"
   },
@@ -209049,6 +209096,11 @@
    "model": "LT750"
   },
   {
+   "device": "NEXG_N26",
+   "name": "NEXG N26",
+   "model": "NEXG N26"
+  },
+  {
    "device": "NEXG_N71",
    "name": "NEXG N71",
    "model": "NEXG N71"
@@ -211993,6 +212045,13 @@
    "device": "X70v2",
    "name": "X70v2",
    "model": "X70v2"
+  }
+ ],
+ "Wpawa": [
+  {
+   "device": "HT10-A",
+   "name": "HT10-A",
+   "model": "HT10-A"
   }
  ],
  "X-Age": [
@@ -224444,6 +224503,11 @@
    "model": "LPD-20W"
   },
   {
+   "device": "K68",
+   "name": "nubia Pad 3D II",
+   "model": "NP02J"
+  },
+  {
    "device": "NX651J",
    "name": "nubia Play",
    "model": "NX651J"
@@ -231802,6 +231866,13 @@
    "device": "SEI700WP",
    "name": "waipu tv stick",
    "model": "waipu tv stick"
+  }
+ ],
+ "wancheng": [
+  {
+   "device": "WC-F11",
+   "name": "WC-F11",
+   "model": "WC-F11"
   }
  ],
  "weelikeit": [

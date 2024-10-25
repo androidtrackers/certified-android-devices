@@ -5683,6 +5683,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Dahua",
+   "name": "DAHUA",
+   "model": "EcoTV FHD"
+  },
+  {
    "brand": "Daiwa",
    "name": "DAIWA",
    "model": "2K SMART TV"
@@ -5841,6 +5846,11 @@
    "brand": "KTCtv",
    "name": "INNOVA",
    "model": "INNOVA GOOGLE TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "MULTISMART",
+   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -6006,6 +6016,11 @@
    "brand": "RCA",
    "name": "RCA",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "RCA SMART TV"
   },
   {
    "brand": "Rangs",
@@ -70791,6 +70806,13 @@
    "model": "S1"
   }
  ],
+ "FOSSiBOT_S2": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "S2",
+   "model": "S2"
+  }
+ ],
  "Tab_11": [
   {
    "brand": "FOSSiBOT",
@@ -79484,6 +79506,13 @@
    "brand": "Globe Telecom",
    "name": "SEI-120G",
    "model": "SEI-120G"
+  }
+ ],
+ "GS01-Series": [
+  {
+   "brand": "Globus_Infocom_Limited",
+   "name": "GS01-Series",
+   "model": "GS01-Series"
   }
  ],
  "P3S18": [
@@ -117876,6 +117905,13 @@
    "model": "H21"
   }
  ],
+ "H24": [
+  {
+   "brand": "KENSHI",
+   "name": "H24",
+   "model": "H24"
+  }
+ ],
  "H34": [
   {
    "brand": "KENSHI",
@@ -118426,6 +118462,11 @@
    "brand": "KRIP",
    "name": "KRIP K68",
    "model": "K68"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia Pad 3D II",
+   "model": "NP02J"
   }
  ],
  "K69": [
@@ -217241,6 +217282,13 @@
    "model": "SS10A_EEA"
   }
  ],
+ "S30-Pro": [
+  {
+   "brand": "SenlinTech",
+   "name": "S30-Pro",
+   "model": "S30-Pro"
+  }
+ ],
  "pad6_EEA": [
   {
    "brand": "SenlinTech",
@@ -247736,6 +247784,13 @@
    "model": "TELUSTV-21T"
   }
  ],
+ "SER2024TLU": [
+  {
+   "brand": "Telus",
+   "name": "TELUSTV-24S",
+   "model": "TELUSTV-24S"
+  }
+ ],
  "uiw4020tlu": [
   {
    "brand": "Telus",
@@ -250739,6 +250794,13 @@
   {
    "brand": "Ulefone",
    "name": "Armor_X13",
+   "model": "Armor X13"
+  }
+ ],
+ "GQ3117SH2_MTN": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X13",
    "model": "Armor X13"
   }
  ],
@@ -263884,6 +263946,13 @@
    "model": "LT750"
   }
  ],
+ "NEXG_N26": [
+  {
+   "brand": "Walton",
+   "name": "NEXG N26",
+   "model": "NEXG N26"
+  }
+ ],
  "NEXG_N71": [
   {
    "brand": "Walton",
@@ -267211,6 +267280,13 @@
    "brand": "Woxter",
    "name": "X70v2",
    "model": "X70v2"
+  }
+ ],
+ "HT10-A": [
+  {
+   "brand": "Wpawa",
+   "name": "HT10-A",
+   "model": "HT10-A"
   }
  ],
  "ACE": [
@@ -288967,6 +289043,13 @@
    "brand": "waiputv",
    "name": "waipu tv stick",
    "model": "waipu tv stick"
+  }
+ ],
+ "WC-F11": [
+  {
+   "brand": "wancheng",
+   "name": "WC-F11",
+   "model": "WC-F11"
   }
  ],
  "C19W": [

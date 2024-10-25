@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-24
+Last sync is 2024-10-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6688,6 +6688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
 |Dahua|DAHUA|hongkong|4K SMART TV|
 |Dahua|DAHUA|mountbaker|2K SMART TV|
+|Dahua|DAHUA|mountbaker|EcoTV FHD|
 |Dahua|DAHUA|stanford|2K SMART TV|
 |Dahua|DAHUA|stanford|40DSA|
 |Dahua|DAHUA|zhongshan|43FCOL|
@@ -8645,6 +8646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F106 Pro ROW|F106_Pro|F106 Pro|
 |FOSSiBOT|F109|F109|F109|
 |FOSSiBOT|S1|S1|S1|
+|FOSSiBOT|S2|FOSSiBOT_S2|S2|
 |FOSSiBOT|Tab 11|Tab_11|Tab 11|
 |FOSSiBOT|Tab_12|Tab_12|Tab 12|
 |FOXX|A55AM|A55AM|A55AM|
@@ -9940,6 +9942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Globe Streamwatch|SEI530G|SEI530G|SEI530G|
 |Globe Telecom|Globe|SEI120G|SEI-120G|
 |Globe Telecom|SEI-120G|SEI120G|SEI-120G|
+|Globus_Infocom_Limited|GS01-Series|GS01-Series|GS01-Series|
 |Glocalme|P3S18|P3S18|P3S18|
 |Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
@@ -16409,6 +16412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E28|E28|E28|
 |KENSHI|H14|H14|H14|
 |KENSHI|H21|H21|H21|
+|KENSHI|H24|H24|H24|
 |KENSHI|H34|H34|H34|
 |KENSHI|H38|H38|H38|
 |KENSHI|H44|H44|H44|
@@ -16598,6 +16602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KTC|zhongshan|4K SMART TV|
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
+|KTCtv|MULTISMART|mountbaker|2K SMART TV|
 |KTCtv|NA|stanford|40DNA|
 |KTCtv|NA|zhongshan|43FNA|
 |KTCtv|NAKAMICHI|hongkong|NAKAMICHI GOOGLE TV 4K|
@@ -28155,6 +28160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA|hongkong|4K SMART TV|
 |RCA|RCA|lavender|4K SMART TV|
 |RCA|RCA|mountbaker|2K SMART TV|
+|RCA|RCA|mountbaker|RCA SMART TV|
 |RCA|RCA|seocho|RCA 4K Android TV|
 |RCA|RCA 2K Android TV|lasalle|RCA 2K Android TV|
 |RCA|RCA 2K Google TV-E|capitolhill|RCA 2K Google TV-E|
@@ -32765,6 +32771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Semeakoko|SS1010|SS1010|SS1010|
 |Semeakoko|SS10A|SS10A|SS10A|
 |Semeakoko|SS10A_EEA|SS10A_EEA|SS10A_EEA|
+|SenlinTech|S30-Pro|S30-Pro|S30-Pro|
 |SenlinTech|pad6_EEA|pad6_EEA|pad6_EEA|
 |Senseit|A109|SENSEIT_A109|SENSEIT_A109|
 |Senseit|C205|C205|C205|
@@ -37913,6 +37920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|TELUSTV-21T|uiw4054tlu|TELUSTV-21T|
+|Telus|TELUSTV-24S|SER2024TLU|TELUSTV-24S|
 |Telus|UIW4020TLU|uiw4020tlu|UIW4020TLU|
 |Teracube|Teracube 2e|Teracube_2e|Teracube 2e|
 |Teracube|Teracube_One|Teracube_One|Teracube One|
@@ -38471,6 +38479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X12 Pro|Armor_X12_Pro|Armor X12 Pro|
 |Ulefone|Armor X13|Armor_X12_Pro|Armor X12 Pro|
 |Ulefone|Armor X13|Armor_X13|Armor X13|
+|Ulefone|Armor X13|GQ3117SH2_MTN|Armor X13|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro|Armor X5 Pro|
@@ -40691,6 +40700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|EXPRESS|guandu|WALTON Android TV|
 |Walton|G 4K TV Dongle|YQX|G 4K TV Dongle|
 |Walton|LT750|LT750|LT750|
+|Walton|NEXG N26|NEXG_N26|NEXG N26|
 |Walton|NEXG N71|NEXG_N71|NEXG N71|
 |Walton|NEXG N71 Plus|NEXG_N71_Plus|NEXG N71 Plus|
 |Walton|NEXG N72|NEXG_N72|NEXG N72|
@@ -41261,6 +41271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Woxter|X70|X70|X70|
 |Woxter|X70_PRO|X70_PRO|X70_PRO|
 |Woxter|X70v2|X70v2|X70v2|
+|Wpawa|HT10-A|HT10-A|HT10-A|
 |X-Age|A1|A1|A1|
 |X-Age|ACE|ACE|ACE|
 |X-Age|G1|G1|G1|
@@ -43716,6 +43727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
+|ZTE|nubia Pad 3D II|K68|NP02J|
 |ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia V50 Vita|P606F09|nubia 8550|
 |ZTE|nubia V60|P616F02|Z2356|
@@ -45108,6 +45120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Starr 100|V406018|V406018|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
+|wancheng|WC-F11|WC-F11|WC-F11|
 |weelikeit|C19W|C19W|C19W|
 |weelikeit|C19W_EEA|C19W_EEA|C19W_EEA|
 |weelikeit|C72W|C72W|C72W|
