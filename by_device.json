@@ -1319,6 +1319,11 @@
    "model": "CCBEK"
   },
   {
+   "brand": "ESOL",
+   "name": "ESOL_Board",
+   "model": "HCB"
+  },
+  {
    "brand": "Fujitsu",
    "name": "INTERACTIVE_PANEL",
    "model": "IWxx2_DX"
@@ -1417,6 +1422,11 @@
    "brand": "Synetech",
    "name": "Synetech_Elite_Taurus",
    "model": "Synetech_T35"
+  },
+  {
+   "brand": "TEConnect",
+   "name": "TEC_Board",
+   "model": "CA-ET"
   },
   {
    "brand": "UNITRADING",
@@ -48608,6 +48618,13 @@
    "brand": "Clementoni",
    "name": "Neo_Clempad_2021",
    "model": "Neo_Clempad_2021"
+  }
+ ],
+ "MT9679": [
+  {
+   "brand": "Clevertouch",
+   "name": "X5",
+   "model": "X5_Display"
   }
  ],
  "M9021G": [
@@ -119736,6 +119753,11 @@
   },
   {
    "brand": "TOSCIDO",
+   "name": "T50",
+   "model": "T50"
+  },
+  {
+   "brand": "Veidoo",
    "name": "T50",
    "model": "T50"
   }
@@ -287038,6 +287060,13 @@
    "model": "ZIDS701"
   }
  ],
+ "OV2219": [
+  {
+   "brand": "oneview",
+   "name": "OV2219",
+   "model": "OV2219"
+  }
+ ],
  "mid8011": [
   {
    "brand": "onn.",
@@ -288082,6 +288111,13 @@
    "brand": "realme",
    "name": "realme Pad 2",
    "model": "RMP2205"
+  }
+ ],
+ "RE6077L1": [
+  {
+   "brand": "realme",
+   "name": "realme Pad 2 Lite",
+   "model": "RMP2402"
   }
  ],
  "RE5496": [

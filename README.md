@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-25
+Last sync is 2024-10-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5480,6 +5480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini_Module|
 |Clevertouch|IMPACT Lux|rk3588_t|Impact_Lux_Display|
 |Clevertouch|UX Pro Edge|rk3588_t|UX_Pro_Edge_Display|
+|Clevertouch|X5|MT9679|X5_Display|
 |Click|M9021G|M9021G|M9021G|
 |Click|S7043G|S7043G|S7043G|
 |Click|"Tab 7"""|I7043G|I7043G|
@@ -7909,6 +7910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ESI Enterprises|Trinity T101|Trinity_T101|Trinity T101|
 |ESI Enterprises|Trinity T900|Trinity_T900|Trinity T900|
 |ESOL|CCBEK|rk3588_t|CCBEK|
+|ESOL|ESOL_Board|rk3588_t|HCB|
 |ESOL|HCB_5186|Interactive_White_Board|HCB_5186|
 |ESOL|HCB_52series|Interactive_White_Board|HCB_52series|
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
@@ -36804,6 +36806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECO|Android TV|longshan|AI PONT|
 |TECO|K5T|ikebukuro|AI PONT|
 |TECO|TL55U12TRE|samseong|AI PONT|
+|TEConnect|TEC_Board|rk3588_t|CA-ET|
 |TEKLIO|Smart TV|redwood|AI PONT|
 |TELE System|EU、UK、AP|martin|TELESYSTEM 2K Android TV|
 |TELE System|"Italy，Poland|Czech|BeNeLux"|
@@ -39199,6 +39202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|T30_EEA|T30_EEA|T30|
 |Veidoo|T30_Plus_EEA|T30_Plus_EEA|T30_Plus_EEA|
 |Veidoo|T40|T40|T40|
+|Veidoo|T50|T50|T50|
 |Veidoo|T50|T50_EEA|T50_EEA|
 |Veidoo|T7|T7|T7|
 |Veidoo|T70|T70|T70|
@@ -44762,6 +44766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |okulaku|K10|K10|K10|
 |okulaku|UKD30|UKD30|UKD30|
 |okulaku|ZIDS701|ZIDS701|ZIDS701|
+|oneview|OV2219|OV2219|OV2219|
 |onn.|onn_100003561|mid8011|100003561|
 |onn.|10.4“ Tablet Pro|100110603|100110603|
 |onn.|100003562|mid1035_mq|100003562|
@@ -44949,6 +44954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
+|realme|realme Pad 2 Lite|RE6077L1|RMP2402|
 |realme|realme Pad X|RE5496|RMP2108|
 |realme|realme Pad X|RE54F2L1|RMP2107|
 |realme|realme Pad X|RE54F2L1|RMP2108|

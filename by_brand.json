@@ -28384,6 +28384,11 @@
    "device": "rk3588_t",
    "name": "UX Pro Edge",
    "model": "UX_Pro_Edge_Display"
+  },
+  {
+   "device": "MT9679",
+   "name": "X5",
+   "model": "X5_Display"
   }
  ],
  "Click": [
@@ -40999,6 +41004,11 @@
    "device": "rk3588_t",
    "name": "CCBEK",
    "model": "CCBEK"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "ESOL_Board",
+   "model": "HCB"
   },
   {
    "device": "Interactive_White_Board",
@@ -188878,6 +188888,13 @@
    "model": "AI PONT"
   }
  ],
+ "TEConnect": [
+  {
+   "device": "rk3588_t",
+   "name": "TEC_Board",
+   "model": "CA-ET"
+  }
+ ],
  "TEKLIO": [
   {
    "device": "redwood",
@@ -201433,6 +201450,11 @@
    "device": "T40",
    "name": "T40",
    "model": "T40"
+  },
+  {
+   "device": "T50",
+   "name": "T50",
+   "model": "T50"
   },
   {
    "device": "T50_EEA",
@@ -230006,6 +230028,13 @@
    "model": "ZIDS701"
   }
  ],
+ "oneview": [
+  {
+   "device": "OV2219",
+   "name": "OV2219",
+   "model": "OV2219"
+  }
+ ],
  "onn.": [
   {
    "device": "mid8011",
@@ -230953,6 +230982,11 @@
    "device": "RE5C70L1",
    "name": "realme Pad 2",
    "model": "RMP2205"
+  },
+  {
+   "device": "RE6077L1",
+   "name": "realme Pad 2 Lite",
+   "model": "RMP2402"
   },
   {
    "device": "RE5496",
