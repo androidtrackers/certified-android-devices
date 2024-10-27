@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-26
+Last sync is 2024-10-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -44865,6 +44865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13 Pro 5G|RE5CA3L1|RMX3990|
 |realme|realme 13 Pro+ 5G|RE5CA3L1|RMX3921|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
+|realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -44949,6 +44950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme NARZO 70 Turbo 5G|RE6066L1|RMX5003|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Note 50|RE5C9F|RMX3834|
+|realme|realme Note 60|RE6054|RMX3933|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|

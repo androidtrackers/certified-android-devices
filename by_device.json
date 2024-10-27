@@ -287456,6 +287456,11 @@
    "brand": "realme",
    "name": "realme C63",
    "model": "RMX3939"
+  },
+  {
+   "brand": "realme",
+   "name": "realme Note 60",
+   "model": "RMX3933"
   }
  ],
  "RE5C9AL1": [
@@ -287741,6 +287746,11 @@
   }
  ],
  "RE6066L1": [
+  {
+   "brand": "realme",
+   "name": "realme 13+ 5G",
+   "model": "RMX5000"
+  },
   {
    "brand": "realme",
    "name": "realme 13+ 5G",

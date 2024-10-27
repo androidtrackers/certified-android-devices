@@ -230539,6 +230539,11 @@
    "model": "RMX5000"
   },
   {
+   "device": "RE6066L1",
+   "name": "realme 13+ 5G",
+   "model": "RMX5000"
+  },
+  {
    "device": "SW6H",
    "name": "realme 4K G Smart TV",
    "model": "realme 4K G Smart TV"
@@ -230957,6 +230962,11 @@
    "device": "RE5C9F",
    "name": "realme Note 50",
    "model": "RMX3834"
+  },
+  {
+   "device": "RE6054",
+   "name": "realme Note 60",
+   "model": "RMX3933"
   },
   {
    "device": "RE5C86L1",
