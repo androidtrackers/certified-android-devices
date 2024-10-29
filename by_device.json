@@ -33289,6 +33289,13 @@
    "model": "LRNS10WIL0"
   }
  ],
+ "A10_EU": [
+  {
+   "brand": "BYYBUO",
+   "name": "A10_EU",
+   "model": "A10_EU"
+  }
+ ],
  "BYYBUO_SmartPad_A10": [
   {
    "brand": "BYYBUO",
@@ -41537,6 +41544,13 @@
    "brand": "Bluedot",
    "name": "BNT_1012W",
    "model": "BNT-1012"
+  }
+ ],
+ "BM-12WTN": [
+  {
+   "brand": "Bluemake",
+   "name": "BM-12WTN",
+   "model": "BM-12WTN"
   }
  ],
  "BSS45": [
@@ -72800,13 +72814,6 @@
    "model": "View"
   }
  ],
- "PayTab_PT10": [
-  {
-   "brand": "Fobem",
-   "name": "PayTab_PT10",
-   "model": "PayTab_PT10"
-  }
- ],
  "Bolt": [
   {
    "brand": "Fone Haus",
@@ -72874,6 +72881,13 @@
    "brand": "Formuler",
    "name": "GTV",
    "model": "GTV"
+  }
+ ],
+ "PayTab_PT10": [
+  {
+   "brand": "Fortus",
+   "name": "PayTab_PT10",
+   "model": "PayTab_PT10"
   }
  ],
  "IWB_FYD_F": [
@@ -81921,6 +81935,18 @@
   {
    "brand": "Relndoo",
    "name": "TAB10_EEA",
+   "model": "TAB10"
+  }
+ ],
+ "TAB10_ROW": [
+  {
+   "brand": "HISORL",
+   "name": "TAB10_ROW",
+   "model": "TAB10_ROW"
+  },
+  {
+   "brand": "Relndoo",
+   "name": "TAB10_ROW",
    "model": "TAB10"
   }
  ],
@@ -158668,6 +158694,11 @@
    "brand": "Motorola",
    "name": "motorola razr 50",
    "model": "motorola razr 50"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 50s",
+   "model": "motorola razr 50s"
   }
  ],
  "EVOLVE": [
@@ -193216,13 +193247,6 @@
    "model": "TAB10"
   }
  ],
- "TAB10_ROW": [
-  {
-   "brand": "Relndoo",
-   "name": "TAB10_ROW",
-   "model": "TAB10"
-  }
- ],
  "TB02": [
   {
    "brand": "Relndoo",
@@ -198733,6 +198757,11 @@
    "brand": "Samsung",
    "name": "Galaxy A16 5G",
    "model": "SM-A166U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A16 5G",
+   "model": "SM-A166W"
   },
   {
    "brand": "Samsung",
@@ -217702,6 +217731,13 @@
    "model": "AQUOS-TVX19A"
   }
  ],
+ "shonandai": [
+  {
+   "brand": "Sharp",
+   "name": "2T-C**GF1/GF2",
+   "model": "AQUOS-2KTVJ24-2"
+  }
+ ],
  "taurus_2tcxxaf": [
   {
    "brand": "Sharp",
@@ -234568,6 +234604,11 @@
    "brand": "TCL",
    "name": "TCL TAB 11 FE",
    "model": "9465X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11 Gen2",
+   "model": "9465X"
   }
  ],
  "U3A_7_WIFI_Refresh": [
@@ -243429,6 +243470,11 @@
    "brand": "Teclast",
    "name": "P30_ROW",
    "model": "P30"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30_ROW",
+   "model": "P30_ROW"
   }
  ],
  "P30_EEA": [
@@ -256056,6 +256102,13 @@
    "brand": "Vertu",
    "name": "METAFLIP",
    "model": "VTL-202302"
+  }
+ ],
+ "VTL-202301": [
+  {
+   "brand": "Vertu",
+   "name": "METAVERTU 2",
+   "model": "VTL-202301"
   }
  ],
  "titan": [
@@ -276602,6 +276655,13 @@
    "model": "NP01J"
   }
  ],
+ "PQ83P01": [
+  {
+   "brand": "ZTE",
+   "name": "NP03J",
+   "model": "NP03J"
+  }
+ ],
  "NX403A": [
   {
    "brand": "ZTE",
@@ -278112,6 +278172,16 @@
   {
    "brand": "ZTE",
    "name": "ZTE Blade A75 5G S",
+   "model": "Z2357N"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia Focus 5G",
+   "model": "Focus 5G"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia Focus 5G",
    "model": "Z2357N"
   }
  ],
@@ -281117,6 +281187,13 @@
    "brand": "ZTE",
    "name": "nubia Z60S Pro",
    "model": "NX725J"
+  }
+ ],
+ "PQ84A01": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z70 Ultra",
+   "model": "NX733J"
   }
  ],
  "sapphire4g": [
@@ -286597,6 +286674,13 @@
    "brand": "ibowin",
    "name": "M10ES11",
    "model": "M130s"
+  }
+ ],
+ "TEXX13A": [
+  {
+   "brand": "iiyama",
+   "name": "TEXX13A",
+   "model": "TEXX13A"
   }
  ],
  "BAM_III": [

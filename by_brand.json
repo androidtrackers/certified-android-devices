@@ -17237,6 +17237,11 @@
  ],
  "BYYBUO": [
   {
+   "device": "A10_EU",
+   "name": "A10_EU",
+   "model": "A10_EU"
+  },
+  {
    "device": "BYYBUO_SmartPad_A10",
    "name": "BYYBUO_SmartPad_A10",
    "model": "BYYBUO_SmartPad_A10"
@@ -22973,6 +22978,13 @@
    "device": "BNT_1012W",
    "name": "BNT_1012W",
    "model": "BNT-1012"
+  }
+ ],
+ "Bluemake": [
+  {
+   "device": "BM-12WTN",
+   "name": "BM-12WTN",
+   "model": "BM-12WTN"
   }
  ],
  "Bluesky": [
@@ -46404,11 +46416,6 @@
    "device": "marina",
    "name": "Fobem 4K SMART TV",
    "model": "Fobem 4K SMART TV"
-  },
-  {
-   "device": "PayTab_PT10",
-   "name": "PayTab_PT10",
-   "model": "PayTab_PT10"
   }
  ],
  "Fone Haus": [
@@ -46457,6 +46464,13 @@
    "device": "GTV",
    "name": "GTV",
    "model": "GTV"
+  }
+ ],
+ "Fortus": [
+  {
+   "device": "PayTab_PT10",
+   "name": "PayTab_PT10",
+   "model": "PayTab_PT10"
   }
  ],
  "Foryoudigital": [
@@ -53548,6 +53562,11 @@
    "device": "TAB10_EEA",
    "name": "TAB10_EEA",
    "model": "TAB10_EEA"
+  },
+  {
+   "device": "TAB10_ROW",
+   "name": "TAB10_ROW",
+   "model": "TAB10_ROW"
   },
   {
    "device": "TAB_10",
@@ -118853,6 +118872,11 @@
    "model": "motorola razr 50 ultra"
   },
   {
+   "device": "aito",
+   "name": "motorola razr 50s",
+   "model": "motorola razr 50s"
+  },
+  {
    "device": "smith",
    "name": "motorola razr 5G",
    "model": "motorola razr 5G"
@@ -153316,6 +153340,11 @@
   {
    "device": "a16x",
    "name": "Galaxy A16 5G",
+   "model": "SM-A166W"
+  },
+  {
+   "device": "a16x",
+   "name": "Galaxy A16 5G",
    "model": "SM-S166V"
   },
   {
@@ -168718,6 +168747,11 @@
    "model": "AQUOS-TVX19A"
   },
   {
+   "device": "shonandai",
+   "name": "2T-C**GF1/GF2",
+   "model": "AQUOS-2KTVJ24-2"
+  },
+  {
    "device": "taurus_2tcxxaf",
    "name": "2T-C12AF",
    "model": "2T-C12AF"
@@ -181868,6 +181902,11 @@
    "model": "9465X"
   },
   {
+   "device": "Ares_11_WIFI",
+   "name": "TCL TAB 11 Gen2",
+   "model": "9465X"
+  },
+  {
    "device": "Eternals11",
    "name": "TCL TAB 11 LTE",
    "model": "9166G"
@@ -191271,6 +191310,11 @@
    "device": "P30_B",
    "name": "P30_ROW",
    "model": "P30"
+  },
+  {
+   "device": "P30_B",
+   "name": "P30_ROW",
+   "model": "P30_ROW"
   },
   {
    "device": "P30_ROW",
@@ -202504,6 +202548,11 @@
    "device": "VTL-202302",
    "name": "METAFLIP",
    "model": "VTL-202302"
+  },
+  {
+   "device": "VTL-202301",
+   "name": "METAVERTU 2",
+   "model": "VTL-202301"
   },
   {
    "device": "odin",
@@ -219930,6 +219979,11 @@
    "model": "NP01J"
   },
   {
+   "device": "PQ83P01",
+   "name": "NP03J",
+   "model": "NP03J"
+  },
+  {
    "device": "NX40X",
    "name": "NX402",
    "model": "NX402"
@@ -224505,6 +224559,16 @@
    "model": "NX724J"
   },
   {
+   "device": "P720F09",
+   "name": "nubia Focus 5G",
+   "model": "Focus 5G"
+  },
+  {
+   "device": "P720F09",
+   "name": "nubia Focus 5G",
+   "model": "Z2357N"
+  },
+  {
    "device": "P963F11",
    "name": "nubia Music",
    "model": "Z2353"
@@ -224583,6 +224647,11 @@
    "device": "PQ82A04",
    "name": "nubia Z60S Pro",
    "model": "NX725J"
+  },
+  {
+   "device": "PQ84A01",
+   "name": "nubia Z70 Ultra",
+   "model": "NX733J"
   },
   {
    "device": "sapphire4g",
@@ -229511,6 +229580,11 @@
   }
  ],
  "iiyama": [
+  {
+   "device": "TEXX13A",
+   "name": "TEXX13A",
+   "model": "TEXX13A"
+  },
   {
    "device": "rk3588_t",
    "name": "TEXX14MIS-B2AG",

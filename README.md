@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-28
+Last sync is 2024-10-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3335,6 +3335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BYJUS|LRNS10WEW0|LRNS10WIFI|LRNS10WEW0|
 |BYJUS|LRNS10WIL0|LRNS10WIL0|LRNS10WIL0|
 |BYJUS|LRNS10WNW0|LRNS10WIFI|LRNS10WNW0|
+|BYYBUO|A10_EU|A10_EU|A10_EU|
 |BYYBUO|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|
 |BYYBUO|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|
 |BYYBUO|SmartPad_A10_EU|SmartPad_A10_EU|SmartPad_A10_EU|
@@ -4461,6 +4462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluedot|BNT-801W|BNT_801W|BNT-801W|
 |Bluedot|BNT-802|BNT-802|BNT-802|
 |Bluedot|BNT_1012W|BNT_1012W|BNT-1012|
+|Bluemake|BM-12WTN|BM-12WTN|BM-12WTN|
 |Bluesky|BSS45|BSS45|BSS45|
 |Bluesky|BSS50|BSS50|BSS50|
 |Bluslate|Bluslate8|Bluslate8|Bluslate8|
@@ -8930,7 +8932,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly_Tech|T101|T101|T101|
 |Fobem|2K SMART TV|nagata|Fobem 2K SMART TV|
 |Fobem|Fobem 4K SMART TV|marina|Fobem 4K SMART TV|
-|Fobem|PayTab_PT10|PayTab_PT10|PayTab_PT10|
 |Fone Haus|Blaze|Blaze|Blaze|
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fone Haus|CoolminttTribe|CoolMinttTribe|CoolMinttTribe|
@@ -8939,6 +8940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fonos|O3_EEA|O3|O3|
 |Ford|Omni 8|Omni8|Omni8|
 |Formuler|GTV|GTV|GTV|
+|Fortus|PayTab_PT10|PayTab_PT10|PayTab_PT10|
 |Foryoudigital|IWB_FYD_F|IWB_FYD_F|IWB_FYD_F|
 |Fossil|Fossil Gen 5 LTE|gila|Fossil G5L|
 |Fossil|Fossil Gen 5 LTE|gila|Fossil Gen 5 LTE|
@@ -10294,6 +10296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HISORL|T901_EEA|T901_EEA|T901|
 |HISORL|T901_ROW|T901_ROW|T901|
 |HISORL|TAB10_EEA|TAB10_EEA|TAB10_EEA|
+|HISORL|TAB10_ROW|TAB10_ROW|TAB10_ROW|
 |HISORL|TAB_10|TAB_10|TAB_10|
 |HISORL|TB02_EEA|TB02_EEA|TB02|
 |HISORL|TB02_ROW|TB02_ROW|TB02|
@@ -23103,6 +23106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 50|aito|motorola razr 50|
 |Motorola|motorola razr 50 ultra|arcfox|motorola razr 40 ultra|
 |Motorola|motorola razr 50 ultra|arcfox|motorola razr 50 ultra|
+|Motorola|motorola razr 50s|aito|motorola razr 50s|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
@@ -29766,6 +29770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A16 5G|a16x|SM-A166M|
 |Samsung|Galaxy A16 5G|a16x|SM-A166U|
 |Samsung|Galaxy A16 5G|a16x|SM-A166U1|
+|Samsung|Galaxy A16 5G|a16x|SM-A166W|
 |Samsung|Galaxy A16 5G|a16x|SM-S166V|
 |Samsung|Galaxy A16 5G|a16xm|SM-A166P|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
@@ -32832,6 +32837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp||msm7627_surf|SH8118U|
 |Sharp|2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3|Lcd_xxsffocbc_h|LCD_xxSFFOCBC_H|
 |Sharp|2T-BG1X|ebisu|AQUOS-TVX19A|
+|Sharp|2T-C**GF1/GF2|shonandai|AQUOS-2KTVJ24-2|
 |Sharp|2T-C12AF|taurus_2tcxxaf|2T-C12AF|
 |Sharp|2T-C12AP|taurus_2tcxxap|2T-C12AP|
 |Sharp|2T-C16AP|taurus_2tcfxxap|2T-C16AP|
@@ -35406,6 +35412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s 5G|Odin_5G|9183G|
 |TCL|TCL TAB 11|Eternals11|9466X|
 |TCL|TCL TAB 11 FE|Ares_11_WIFI|9465X|
+|TCL|TCL TAB 11 Gen2|Ares_11_WIFI|9465X|
 |TCL|TCL TAB 11 LTE|Eternals11|9166G|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X2|
@@ -37247,6 +37254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30_EEA|P30_EEA|P30_EEA|
 |Teclast|P30_ROW|P30|P30|
 |Teclast|P30_ROW|P30_B|P30|
+|Teclast|P30_ROW|P30_B|P30_ROW|
 |Teclast|P30_ROW|P30_ROW|P30|
 |Teclast|P30_ROW|P30_ROW|P30_ROW|
 |Teclast|P30_RUS|P30_RUS|P30_RUS|
@@ -39408,6 +39416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertu|Constellation V|gambit|Constellation V|
 |Vertu|Constellation X|tron|CONSTELLATION X|
 |Vertu|METAFLIP|VTL-202302|VTL-202302|
+|Vertu|METAVERTU 2|VTL-202301|VTL-202301|
 |Vertu|Signature Touch|odin|Signature Touch|
 |Vertu|Signature Touch|titan|Signature Touch|
 |Vertu|Signature Touch|titan|Signature Touch L|
@@ -42812,6 +42821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NOS NOVU II|P680A20|NOS NOVU II|
 |ZTE|NOS NOVU III|P637F10|NOS NOVU III|
 |ZTE|NP01J|P898P02|NP01J|
+|ZTE|NP03J|PQ83P01|NP03J|
 |ZTE|NX402|NX40X|NX402|
 |ZTE|NX403A|NX403A|NX403A|
 |ZTE|NX404H|NX404H|NX404H|
@@ -43727,6 +43737,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
+|ZTE|nubia Focus 5G|P720F09|Focus 5G|
+|ZTE|nubia Focus 5G|P720F09|Z2357N|
 |ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
@@ -43743,6 +43755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Z60 Ultra|PQ83A01|NX721J|
 |ZTE|nubia Z60 Ultra|PQ83F01|NX721J|
 |ZTE|nubia Z60S Pro|PQ82A04|NX725J|
+|ZTE|nubia Z70 Ultra|PQ84A01|NX733J|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|
@@ -44676,6 +44689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iYOU|A10|A10|A10|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |ibowin|M10ES11|M10ES11|M130s|
+|iiyama|TEXX13A|TEXX13A|TEXX13A|
 |iiyama|TEXX14MIS-B2AG|rk3588_t|TEXX14MIS-B2AG|
 |imiia|4K Smart TV|gangbyeon|imiia 4K AI Smart TV|
 |imiia|4K Smart TV|pioneer|4K PA Smart TV|
