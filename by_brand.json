@@ -148640,6 +148640,13 @@
    "model": "R550"
   }
  ],
+ "Rivian": [
+  {
+   "device": "xmm_revc_r1",
+   "name": "Rivian R1",
+   "model": "Rivian"
+  }
+ ],
  "Riviera": [
   {
    "device": "ikebukuro",
@@ -152310,6 +152317,11 @@
   }
  ],
  "Samsonix": [
+  {
+   "device": "A1250",
+   "name": "A1250",
+   "model": "A125"
+  },
   {
    "device": "A1250",
    "name": "A1250",
@@ -169815,6 +169827,36 @@
    "device": "XIJ",
    "name": "AQUOS sense8",
    "model": "SHG11"
+  },
+  {
+   "device": "Naze",
+   "name": "AQUOS sense9",
+   "model": "A405SH"
+  },
+  {
+   "device": "Naze",
+   "name": "AQUOS sense9",
+   "model": "SH-M29"
+  },
+  {
+   "device": "RCL",
+   "name": "AQUOS sense9",
+   "model": "RCL"
+  },
+  {
+   "device": "RCL",
+   "name": "AQUOS sense9",
+   "model": "SHG14"
+  },
+  {
+   "device": "SH-53E",
+   "name": "AQUOS sense9",
+   "model": "SD0C4"
+  },
+  {
+   "device": "SH-53E",
+   "name": "AQUOS sense9",
+   "model": "SH-53E"
   },
   {
    "device": "SX1",
@@ -191374,6 +191416,11 @@
   {
    "device": "P50Case",
    "name": "P50Case",
+   "model": "P50Case"
+  },
+  {
+   "device": "P50Case",
+   "name": "P50Case_EEA",
    "model": "P50Case"
   },
   {
@@ -214452,6 +214499,16 @@
    "device": "sheng",
    "name": "Xiaomi Pad 6S Pro 12.4",
    "model": "24018RPACG"
+  },
+  {
+   "device": "uke",
+   "name": "Xiaomi Pad 7",
+   "model": "2410CRP4CC"
+  },
+  {
+   "device": "muyu",
+   "name": "Xiaomi Pad 7 Pro",
+   "model": "24091RPADC"
   },
   {
    "device": "jaws",

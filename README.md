@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-29
+Last sync is 2024-10-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28878,6 +28878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Rivian|Rivian R1|xmm_revc_r1|Rivian|
 |Riviera|Android TV|ikebukuro|AI PONT|
 |Riviera|Android TV|sindorim|AI PONT|
 |Riviera|HIKA5|songshan|SmartTV 4K|
@@ -29565,6 +29566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SafeGear_Mobile|SG390|SG390|SG390|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
 |Saltillo|CF10|CF10|CF10|
+|Samsonix|A1250|A1250|A125|
 |Samsonix|A1250|A1250|A1250|
 |Samsonix|W12|W12|W12|
 |Samsung||GT-I5510M|GT-I5510M|
@@ -33051,6 +33053,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense8|Quess|SH-M26|
 |Sharp|AQUOS sense8|SH-54D|SH-54D|
 |Sharp|AQUOS sense8|XIJ|SHG11|
+|Sharp|AQUOS sense9|Naze|A405SH|
+|Sharp|AQUOS sense9|Naze|SH-M29|
+|Sharp|AQUOS sense9|RCL|RCL|
+|Sharp|AQUOS sense9|RCL|SHG14|
+|Sharp|AQUOS sense9|SH-53E|SD0C4|
+|Sharp|AQUOS sense9|SH-53E|SH-53E|
 |Sharp|AQUOS wish|SX1|A103SH|
 |Sharp|AQUOS wish|SX1|A104SH|
 |Sharp|AQUOS wish|SX1|SH-M20|
@@ -37267,6 +37275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P40HD_T_ROW|P40HD_T_ROW|P40HD_T_ROW|
 |Teclast|P40HD_T_RUS|P40HD_T_RUS|P40HD_RUS|
 |Teclast|P50Case|P50Case|P50Case|
+|Teclast|P50Case_EEA|P50Case|P50Case|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50_EEA|P50|P50_EEA|
@@ -41742,6 +41751,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34I|
 |Xiaomi|Xiaomi Pad 6 Max 14|yudi|2307BRPDCC|
 |Xiaomi|Xiaomi Pad 6S Pro 12.4|sheng|24018RPACG|
+|Xiaomi|Xiaomi Pad 7|uke|2410CRP4CC|
+|Xiaomi|Xiaomi Pad 7 Pro|muyu|24091RPADC|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi Watch 2|axolotlaxie|Xiaomi Watch 2|

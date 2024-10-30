@@ -193725,6 +193725,13 @@
    "model": "R550"
   }
  ],
+ "xmm_revc_r1": [
+  {
+   "brand": "Rivian",
+   "name": "Rivian R1",
+   "model": "Rivian"
+  }
+ ],
  "T107": [
   {
    "brand": "Rixun",
@@ -197477,6 +197484,11 @@
   }
  ],
  "A1250": [
+  {
+   "brand": "Samsonix",
+   "name": "A1250",
+   "model": "A125"
+  },
   {
    "brand": "Samsonix",
    "name": "A1250",
@@ -219229,6 +219241,42 @@
    "brand": "Sharp",
    "name": "AQUOS sense8",
    "model": "SHG11"
+  }
+ ],
+ "Naze": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense9",
+   "model": "A405SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense9",
+   "model": "SH-M29"
+  }
+ ],
+ "RCL": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense9",
+   "model": "RCL"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense9",
+   "model": "SHG14"
+  }
+ ],
+ "SH-53E": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense9",
+   "model": "SD0C4"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense9",
+   "model": "SH-53E"
   }
  ],
  "SX1": [
@@ -243566,6 +243614,11 @@
   {
    "brand": "Teclast",
    "name": "P50Case",
+   "model": "P50Case"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P50Case_EEA",
    "model": "P50Case"
   }
  ],
@@ -269906,6 +269959,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 6S Pro 12.4",
    "model": "24018RPACG"
+  }
+ ],
+ "uke": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 7",
+   "model": "2410CRP4CC"
+  }
+ ],
+ "muyu": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 7 Pro",
+   "model": "24091RPADC"
   }
  ],
  "jaws": [
