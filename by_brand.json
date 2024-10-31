@@ -5233,6 +5233,11 @@
    "model": "JA4-TBA1008"
   },
   {
+   "device": "JA4-TBA1101",
+   "name": "JA4-TBA1101",
+   "model": "JA4-TBA1101"
+  },
+  {
    "device": "R3",
    "name": "R3",
    "model": "R3"
@@ -6192,6 +6197,11 @@
    "device": "P9_Life",
    "name": "P9_Life_TM",
    "model": "P9_Life_TM"
+  },
+  {
+   "device": "Prime_H201_LTE",
+   "name": "Prime_H201_LTE_EEA",
+   "model": "Prime_H201_LTE"
   },
   {
    "device": "V1_Viper_E",
@@ -26371,6 +26381,11 @@
    "device": "S3",
    "name": "S3",
    "model": "S3"
+  },
+  {
+   "device": "S3pro",
+   "name": "S3pro",
+   "model": "S3pro"
   },
   {
    "device": "S4",
@@ -84625,6 +84640,11 @@
    "model": "Armor H1s"
   },
   {
+   "device": "Armor_H2s",
+   "name": "Armor H2s",
+   "model": "Armor H2s"
+  },
+  {
    "device": "Armor_I1_Slim",
    "name": "Armor I1 Slim",
    "model": "Armor I1 Slim"
@@ -114410,6 +114430,11 @@
    "model": "IKOSORA+"
   },
   {
+   "device": "H5111L_Mascom",
+   "name": "H5111L",
+   "model": "H5111L_Mascom"
+  },
+  {
    "device": "H5111L",
    "name": "H5111L_common",
    "model": "H5111L_MTN"
@@ -130047,6 +130072,16 @@
    "device": "OP5660L1",
    "name": "Find X7 Ultra 卫星通信版",
    "model": "PHY120"
+  },
+  {
+   "device": "OP5A3DL1",
+   "name": "Find X8",
+   "model": "PKB110"
+  },
+  {
+   "device": "OP5A41L1",
+   "name": "Find X8 Pro",
+   "model": "PKC110"
   },
   {
    "device": "FIND5",
@@ -180974,6 +181009,11 @@
    "model": "Smart TV Pro"
   },
   {
+   "device": "G08",
+   "name": "G08_4K_US_NF",
+   "model": "Smart TV"
+  },
+  {
    "device": "G10",
    "name": "G10",
    "model": "Smart TV"
@@ -181549,6 +181589,11 @@
    "model": "T613P"
   },
   {
+   "device": "Scarab_Pro_NA_OM",
+   "name": "TCL 50 LE",
+   "model": "T510WS"
+  },
+  {
    "device": "Scarab_Pro_VZW",
    "name": "TCL 50 LE",
    "model": "T510SP"
@@ -181942,6 +181987,11 @@
    "device": "Ares_11_WIFI",
    "name": "TCL TAB 11 FE",
    "model": "9465X"
+  },
+  {
+   "device": "Ares_11_4G",
+   "name": "TCL TAB 11 FE LTE",
+   "model": "9465G"
   },
   {
    "device": "Ares_11_WIFI",
@@ -208400,6 +208450,11 @@
    "model": "HD67"
   },
   {
+   "device": "J24",
+   "name": "J24",
+   "model": "J24"
+  },
+  {
    "device": "MUV",
    "name": "MUV",
    "model": "MUV"
@@ -224629,6 +224684,11 @@
    "device": "P963F11",
    "name": "nubia Music",
    "model": "Z2353"
+  },
+  {
+   "device": "P606F18",
+   "name": "nubia Music 2",
+   "model": "Z2460"
   },
   {
    "device": "P820F03",

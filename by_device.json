@@ -15214,6 +15214,13 @@
    "model": "JA4-TBA1008"
   }
  ],
+ "JA4-TBA1101": [
+  {
+   "brand": "Aiwa",
+   "name": "JA4-TBA1101",
+   "model": "JA4-TBA1101"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -16981,6 +16988,13 @@
    "brand": "AllView",
    "name": "P9_Life_TM",
    "model": "P9_Life_TM"
+  }
+ ],
+ "Prime_H201_LTE": [
+  {
+   "brand": "AllView",
+   "name": "Prime_H201_LTE_EEA",
+   "model": "Prime_H201_LTE"
   }
  ],
  "V1_Viper_E": [
@@ -45880,6 +45894,13 @@
    "brand": "Cellcom TV",
    "name": "SEI-S905X4",
    "model": "SEI-S905X4"
+  }
+ ],
+ "S3pro": [
+  {
+   "brand": "Cellecor",
+   "name": "S3pro",
+   "model": "S3pro"
   }
  ],
  "S4": [
@@ -117878,6 +117899,13 @@
    "model": "Armor H1s"
   }
  ],
+ "Armor_H2s": [
+  {
+   "brand": "KENSHI",
+   "name": "Armor H2s",
+   "model": "Armor H2s"
+  }
+ ],
  "Armor_I1_Slim": [
   {
    "brand": "KENSHI",
@@ -153547,6 +153575,13 @@
    "model": "H5111L_MTN"
   }
  ],
+ "H5111L_Mascom": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L",
+   "model": "H5111L_Mascom"
+  }
+ ],
  "H5112": [
   {
    "brand": "Mobiwire",
@@ -171854,6 +171889,20 @@
    "brand": "Oppo",
    "name": "Find X7 Ultra 卫星通信版",
    "model": "PHY120"
+  }
+ ],
+ "OP5A3DL1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X8",
+   "model": "PKB110"
+  }
+ ],
+ "OP5A41L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X8 Pro",
+   "model": "PKC110"
   }
  ],
  "PBCM30": [
@@ -232651,6 +232700,11 @@
    "brand": "TCL",
    "name": "G08",
    "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
+   "name": "G08_4K_US_NF",
+   "model": "Smart TV"
   }
  ],
  "U3A_PLUS_4G": [
@@ -233524,6 +233578,13 @@
    "brand": "TCL",
    "name": "TCL 50 5G",
    "model": "T613P"
+  }
+ ],
+ "Scarab_Pro_NA_OM": [
+  {
+   "brand": "TCL",
+   "name": "TCL 50 LE",
+   "model": "T510WS"
   }
  ],
  "Scarab_Pro_VZW": [
@@ -234657,6 +234718,13 @@
    "brand": "TCL",
    "name": "TCL TAB 11 Gen2",
    "model": "9465X"
+  }
+ ],
+ "Ares_11_4G": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11 FE LTE",
+   "model": "9465G"
   }
  ],
  "U3A_7_WIFI_Refresh": [
@@ -263223,6 +263291,13 @@
    "model": "HD67"
   }
  ],
+ "J24": [
+  {
+   "brand": "Vortex",
+   "name": "J24",
+   "model": "J24"
+  }
+ ],
  "MUV": [
   {
    "brand": "Vortex",
@@ -281198,6 +281273,13 @@
    "brand": "ZTE",
    "name": "nubia Music",
    "model": "Z2353"
+  }
+ ],
+ "P606F18": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Music 2",
+   "model": "Z2460"
   }
  ],
  "P820F03": [

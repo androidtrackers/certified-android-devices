@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-30
+Last sync is 2024-10-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -993,6 +993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|JA3-TBA1005|JA3-TBA1005|JA3-TBA1005|
 |Aiwa|JA3-TBA1007|JA3-TBA1007|JA3-TBA1007|
 |Aiwa|JA4-TBA1008|JA4-TBA1008|JA4-TBA1008|
+|Aiwa|JA4-TBA1101|JA4-TBA1101|JA4-TBA1101|
 |Aiwa|R3|R3|R3|
 |Aiwa|R4|R4|R4|
 |Aiwa|Smart TV|longshan|AI PONT|
@@ -1180,6 +1181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|P9 Energy mini|P9_Energy_mini|P9_Energy_mini|
 |AllView|P9 Life|P9_Life|P9_Life|
 |AllView|P9_Life_TM|P9_Life|P9_Life_TM|
+|AllView|Prime_H201_LTE_EEA|Prime_H201_LTE|Prime_H201_LTE|
 |AllView|V1 Viper E|V1_Viper_E|V1_Viper_E|
 |AllView|V1 Viper I4G|V1_Viper_I4G|V1_Viper_I4G|
 |AllView|V1 Viper I4G|V1_Viper_I4G|V1_Viper_I4G_PL|
@@ -5091,6 +5093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellcom TV|SEI-S905X4|SEI800CC|SEI-S905X4|
 |Cellecor|S2|S2|S2|
 |Cellecor|S3|S3|S3|
+|Cellecor|S3pro|S3pro|S3pro|
 |Cellecor|S4|S4|S4|
 |Cello|Cello|sadang|cello 4K Android TV|
 |Cello|Cello|sadang|cello UK 4K Android TV|
@@ -16405,6 +16408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|Armor C1 Max|Armor_C1_Max|Armor C1 Max|
 |KENSHI|Armor C1s|Armor_C1s|Armor C1s|
 |KENSHI|Armor H1s|Armor_H1s|Armor H1s|
+|KENSHI|Armor H2s|Armor_H2s|Armor H2s|
 |KENSHI|Armor I1 Slim|Armor_I1_Slim|Armor I1 Slim|
 |KENSHI|Armor I1w|Armor_I1w|Armor I1w|
 |KENSHI|Armor P1 Pro|Armor_P1_Pro|Armor P1 Pro|
@@ -22222,6 +22226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H5111|H5111|Kicka 6 Plus 4G|
 |Mobiwire|H5111L|H5111L|H5111L|
 |Mobiwire|H5111L|H5111L|IKOSORA+|
+|Mobiwire|H5111L|H5111L_Mascom|H5111L_Mascom|
 |Mobiwire|H5111L_common|H5111L|H5111L_MTN|
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6511|H6511|H6511|
@@ -25259,6 +25264,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X7|OP5661L1|PHZ110|
 |Oppo|Find X7 Ultra|OP565FL1|PHY110|
 |Oppo|Find X7 Ultra 卫星通信版|OP5660L1|PHY120|
+|Oppo|Find X8|OP5A3DL1|PKB110|
+|Oppo|Find X8 Pro|OP5A41L1|PKC110|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
@@ -35226,6 +35233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G06_2K_US|G06|Smart TV|
 |TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|G08|G08|Smart TV Pro|
+|TCL|G08_4K_US_NF|G08|Smart TV|
 |TCL|G10|G10|Smart TV|
 |TCL|G10_4K_US|G10|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
@@ -35341,6 +35349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL 50 5G|Dragonfly|T613K|
 |TCL|TCL 50 5G|Dragonfly|T613P|
+|TCL|TCL 50 LE|Scarab_Pro_NA_OM|T510WS|
 |TCL|TCL 50 LE|Scarab_Pro_VZW|T510SP|
 |TCL|TCL 50 NXTPAPER 5G|Goldfinch_NP|T702D|
 |TCL|TCL 50 Pro NXTPAPER 5G|Goldfinch_NP_Pro|T803D|
@@ -35420,6 +35429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s 5G|Odin_5G|9183G|
 |TCL|TCL TAB 11|Eternals11|9466X|
 |TCL|TCL TAB 11 FE|Ares_11_WIFI|9465X|
+|TCL|TCL TAB 11 FE LTE|Ares_11_4G|9465G|
 |TCL|TCL TAB 11 Gen2|Ares_11_WIFI|9465X|
 |TCL|TCL TAB 11 LTE|Eternals11|9166G|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
@@ -40570,6 +40580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vortex|HD65_Select|HD65_Select|HD65_Select|
 |Vortex|HD65_Ultra|HD65_Ultra|HD65_Ultra|
 |Vortex|HD67|HD67|HD67|
+|Vortex|J24|J24|J24|
 |Vortex|MUV|MUV|MUV|
 |Vortex|PG65|PG65|PG65|
 |Vortex|SYNQ|SYNQ|SYNQ|
@@ -43751,6 +43762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
 |ZTE|nubia Focus 5G|P720F09|Z2357N|
 |ZTE|nubia Music|P963F11|Z2353|
+|ZTE|nubia Music 2|P606F18|Z2460|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
