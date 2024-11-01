@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-10-31
+Last sync is 2024-11-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3797,6 +3797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|P10000 Pro|P10000_Pro|P10000_Pro|
 |Blackview|P2 Lite|P2Lite|P2Lite|
 |Blackview|P6000|P6000|P6000|
+|Blackview|P6000Plus|P6000Plus|P6000Plus|
 |Blackview|PILOT 2|PILOT_2|PILOT 2|
 |Blackview|Pad8_EEA|Pad8_EEA|Pad8|
 |Blackview|Pad8_ROW|Pad8_ROW|Pad8|
@@ -3890,10 +3891,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab_15_EU|Tab_15_EU|Tab 15|
 |Blackview|Tab_15_NEU|Tab_15_NEU|Tab 15|
 |Blackview|Tab_15_RU|Tab_15_RU|Tab 15|
+|Blackview|Tab_30_Kids_EEA|Tab_30_Kids|Tab 30 Kids|
+|Blackview|Tab_30_Kids_NEU|Tab_30_Kids|Tab 30 Kids|
+|Blackview|Tab_30_WiFi_EEA|Tab_30_WIFI|Tab 30 WiFi|
+|Blackview|Tab_30_WiFi_NEU|Tab_30_WIFI|Tab 30 WiFi|
+|Blackview|Tab_30_WiFi_RU|Tab_30_WIFI|Tab 30 WiFi|
+|Blackview|Tab_60_WiFi_EEA|Tab_60_WiFi|Tab 60 WiFi|
 |Blackview|Tab_7_EEA|Tab_7_EEA|Tab 7|
 |Blackview|Tab_7_NEU|Tab_7_NEU|Tab 7|
 |Blackview|Tab_7_WiFi_EEA|Tab_7_WiFi_EEA|Tab 7 WiFi|
 |Blackview|Tab_7_WiFi_NEU|Tab_7_WiFi_NEU|Tab 7 WiFi|
+|Blackview|Tab_90_WiFi_EEA|Tab_90_WiFi|Tab 90 WiFi|
 |Blackview|Tab_90_WiFi_NEU|Tab_90_WiFi|Tab 90 WiFi|
 |Blackview|WAVE 6C|WAVE6C|WAVE 6C|
 |Blackview|WAVE 8C|WAVE_8C|WAVE 8C|
@@ -8572,8 +8580,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FCC Movil|GK788|GK788|GK788|
 |FCC Movil|GK879|GK879|GK879|
+|FCNT|A401FC|A401FC|A401FC|
 |FCNT|AW02|AW02|AW02|
 |FCNT|F-52B|F52B|F-52B|
+|FCNT|MR01|MR01|MR01|
 |FCNT|SD01|SD01|SD01|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows BZ03|BZ03|BZ03|
@@ -12390,6 +12400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|Global|YQB|Dongle R 4K|
+|Homatics|Global|YQX|Dongle G 4K|
 |Homatics|Kickpi|YYZ|KP1|
 |Homatics|SEI600HM|HND|Box Q|
 |Homatics|SEI700HMG|SEI700HMG|Dongle 4K|
@@ -24626,6 +24637,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|Pad_10_EEA|Pad_10_EEA|Pad 10|
 |OSCAL|Pad_10_NEU|Pad_10_NEU|Pad 10|
 |OSCAL|Pad_10_RU|Pad_10_RU|Pad 10|
+|OSCAL|Pad_50_Kids_EEA|Pad_50_Kids|Pad 50 Kids|
+|OSCAL|Pad_50_Kids_NEU|Pad_50_Kids|Pad 50 Kids|
+|OSCAL|Pad_50_Kids_RU|Pad_50_Kids|Pad 50 Kids|
+|OSCAL|Pad_50_WiFi_EEA|Pad_50_WiFi|Pad 50 WiFi|
+|OSCAL|Pad_50_WiFi_NEU|Pad_50_WiFi|Pad 50 WiFi|
+|OSCAL|Pad_50_WiFi_RU|Pad_50_WiFi|Pad 50 WiFi|
 |OSCAL|S60|S60|S60|
 |OSCAL|S60Pro|S60Pro|S60Pro|
 |OSCAL|S70|S70|S70|
@@ -25300,6 +25317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A57s|OP5353L1|CPH2385|
+|Oppo|OPPO A60 5G/ A3 5G|OP5EA7L1|CPH2683|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
@@ -28962,6 +28980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S5006|RUIO_S5006|S5006|
 |Ruio|S6501|S6501|S6501|
 |Ruio|S6506|S6506|S6506|
+|Ruio|S6528|S6528|S6528|
 |Rumie|RT-1708|RT-1708|RT-1708|
 |Runbo|F1Plus|F1Plus|F1Plus|
 |Russound|XTS7|XTS7|XTS7|
@@ -35235,6 +35254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G08|G08|Smart TV Pro|
 |TCL|G08_4K_US_NF|G08|Smart TV|
 |TCL|G10|G10|Smart TV|
+|TCL|G10_4K_GB_NF|G10|Smart TV|
 |TCL|G10_4K_US|G10|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -38958,6 +38978,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unonu|W57A|UNONU_W57A|UNONU W57A|
 |Unonu|X4G|X4G|UNONU X4G|
 |Unonu|X4G|X4G|X4G|
+|Up_Mobile|Mover_Edition|Mover_Edition|Up_Mobile_Mover_Edition|
+|Up_Mobile|Mover_Edition_EEA|Mover_Edition|Up_Mobile_Mover_Edition|
 |Uphone|SPURT R3|SPURT_R3|SPURT R3|
 |Upserve|5-Inches|5-Inches|5-Inches|
 |Urovo|DT20|SQ57|DT20|
@@ -39227,6 +39249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|T20-Plus|T20-Plus|T20-Plus|
 |Veidoo|T20_Play_EEA|T20_Play_EEA|T20_Play|
 |Veidoo|T30_EEA|T30_EEA|T30|
+|Veidoo|T30_PLUS|T30_PLUS|T30_PLUS|
 |Veidoo|T30_Plus_EEA|T30_Plus_EEA|T30_Plus_EEA|
 |Veidoo|T40|T40|T40|
 |Veidoo|T50|T50|T50|
@@ -40206,6 +40229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 12|I2220|I2220|
 |Vivo|iQOO 12|PD2307|V2307A|
 |Vivo|iQOO 12 Pro|PD2329|V2329A|
+|Vivo|iQOO 13|PD2408|V2408A|
 |Vivo|iQOO 9 Pro|2022|I2022|
 |Vivo|iQOO 9 SE|2019|I2019|
 |Vivo|iQOO 9T|I2201|I2201|
@@ -44818,6 +44842,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100071486|100071486|100071486|
 |onn.|100092980|100092980|100092980|
 |onn.|100092988|mid7019_mr_32|100092988|
+|onn.|100135794|100135794|100135794|
+|onn.|100135920|100135920|100135920|
 |onn.|M17QF21W|M17QF21W|M17QF21W|
 |onn.|MID8016|mid8016_mk_32|MID8016|
 |onn.|PM1042T-W|PM1042T-W|PM1042T-W|

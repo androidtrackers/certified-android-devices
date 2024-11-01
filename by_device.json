@@ -24146,6 +24146,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G10_4K_GB_NF",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
    "name": "G10_4K_US",
    "model": "Smart TV Pro"
   },
@@ -36567,6 +36572,13 @@
    "model": "P6000"
   }
  ],
+ "P6000Plus": [
+  {
+   "brand": "Blackview",
+   "name": "P6000Plus",
+   "model": "P6000Plus"
+  }
+ ],
  "PILOT_2": [
   {
    "brand": "Blackview",
@@ -36831,6 +36843,11 @@
   {
    "brand": "Blackview",
    "name": "Tab 60 WiFi",
+   "model": "Tab 60 WiFi"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab_60_WiFi_EEA",
    "model": "Tab 60 WiFi"
   }
  ],
@@ -37256,6 +37273,35 @@
    "model": "Tab 15"
   }
  ],
+ "Tab_30_Kids": [
+  {
+   "brand": "Blackview",
+   "name": "Tab_30_Kids_EEA",
+   "model": "Tab 30 Kids"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab_30_Kids_NEU",
+   "model": "Tab 30 Kids"
+  }
+ ],
+ "Tab_30_WIFI": [
+  {
+   "brand": "Blackview",
+   "name": "Tab_30_WiFi_EEA",
+   "model": "Tab 30 WiFi"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab_30_WiFi_NEU",
+   "model": "Tab 30 WiFi"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab_30_WiFi_RU",
+   "model": "Tab 30 WiFi"
+  }
+ ],
  "Tab_7_EEA": [
   {
    "brand": "Blackview",
@@ -37285,6 +37331,11 @@
   }
  ],
  "Tab_90_WiFi": [
+  {
+   "brand": "Blackview",
+   "name": "Tab_90_WiFi_EEA",
+   "model": "Tab 90 WiFi"
+  },
   {
    "brand": "Blackview",
    "name": "Tab_90_WiFi_NEU",
@@ -70207,6 +70258,13 @@
    "model": "GK879"
   }
  ],
+ "A401FC": [
+  {
+   "brand": "FCNT",
+   "name": "A401FC",
+   "model": "A401FC"
+  }
+ ],
  "AW02": [
   {
    "brand": "FCNT",
@@ -70219,6 +70277,13 @@
    "brand": "FCNT",
    "name": "F-52B",
    "model": "F-52B"
+  }
+ ],
+ "MR01": [
+  {
+   "brand": "FCNT",
+   "name": "MR01",
+   "model": "MR01"
   }
  ],
  "SD01": [
@@ -94001,6 +94066,18 @@
    "brand": "Homatics",
    "name": "CTV 4K BOX",
    "model": "CTV 4K BOX"
+  }
+ ],
+ "YQX": [
+  {
+   "brand": "Homatics",
+   "name": "Global",
+   "model": "Dongle G 4K"
+  },
+  {
+   "brand": "Walton",
+   "name": "G 4K TV Dongle",
+   "model": "G 4K TV Dongle"
   }
  ],
  "SEI700HMG": [
@@ -168035,6 +168112,40 @@
    "model": "Pad 10"
   }
  ],
+ "Pad_50_Kids": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad_50_Kids_EEA",
+   "model": "Pad 50 Kids"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Pad_50_Kids_NEU",
+   "model": "Pad 50 Kids"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Pad_50_Kids_RU",
+   "model": "Pad 50 Kids"
+  }
+ ],
+ "Pad_50_WiFi": [
+  {
+   "brand": "OSCAL",
+   "name": "Pad_50_WiFi_EEA",
+   "model": "Pad 50 WiFi"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Pad_50_WiFi_NEU",
+   "model": "Pad 50 WiFi"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Pad_50_WiFi_RU",
+   "model": "Pad 50 WiFi"
+  }
+ ],
  "S60Pro": [
   {
    "brand": "OSCAL",
@@ -170199,6 +170310,11 @@
   {
    "brand": "Oppo",
    "name": "A60 5G",
+   "model": "CPH2683"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A60 5G/ A3 5G",
    "model": "CPH2683"
   }
  ],
@@ -194213,6 +194329,13 @@
    "brand": "Ruio",
    "name": "S6506",
    "model": "S6506"
+  }
+ ],
+ "S6528": [
+  {
+   "brand": "Ruio",
+   "name": "S6528",
+   "model": "S6528"
   }
  ],
  "RT-1708": [
@@ -253560,6 +253683,18 @@
    "model": "X4G"
   }
  ],
+ "Mover_Edition": [
+  {
+   "brand": "Up_Mobile",
+   "name": "Mover_Edition",
+   "model": "Up_Mobile_Mover_Edition"
+  },
+  {
+   "brand": "Up_Mobile",
+   "name": "Mover_Edition_EEA",
+   "model": "Up_Mobile_Mover_Edition"
+  }
+ ],
  "SPURT_R3": [
   {
    "brand": "Uphone",
@@ -254969,6 +255104,13 @@
    "brand": "Veidoo",
    "name": "T30_EEA",
    "model": "T30"
+  }
+ ],
+ "T30_PLUS": [
+  {
+   "brand": "Veidoo",
+   "name": "T30_PLUS",
+   "model": "T30_PLUS"
   }
  ],
  "T30_Plus_EEA": [
@@ -261020,6 +261162,13 @@
    "model": "V2329A"
   }
  ],
+ "PD2408": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 13",
+   "model": "V2408A"
+  }
+ ],
  "2019": [
   {
    "brand": "Vivo",
@@ -264133,13 +264282,6 @@
    "brand": "Walton",
    "name": "NEXG N9",
    "model": "NEXG N9"
-  }
- ],
- "YQX": [
-  {
-   "brand": "Walton",
-   "name": "G 4K TV Dongle",
-   "model": "G 4K TV Dongle"
   }
  ],
  "LT750": [
@@ -287380,6 +287522,20 @@
    "brand": "onn.",
    "name": "100092980",
    "model": "100092980"
+  }
+ ],
+ "100135794": [
+  {
+   "brand": "onn.",
+   "name": "100135794",
+   "model": "100135794"
+  }
+ ],
+ "100135920": [
+  {
+   "brand": "onn.",
+   "name": "100135920",
+   "model": "100135920"
   }
  ],
  "M17QF21W": [

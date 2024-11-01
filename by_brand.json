@@ -19641,6 +19641,11 @@
    "model": "P6000"
   },
   {
+   "device": "P6000Plus",
+   "name": "P6000Plus",
+   "model": "P6000Plus"
+  },
+  {
    "device": "PILOT_2",
    "name": "PILOT 2",
    "model": "PILOT 2"
@@ -20106,6 +20111,36 @@
    "model": "Tab 15"
   },
   {
+   "device": "Tab_30_Kids",
+   "name": "Tab_30_Kids_EEA",
+   "model": "Tab 30 Kids"
+  },
+  {
+   "device": "Tab_30_Kids",
+   "name": "Tab_30_Kids_NEU",
+   "model": "Tab 30 Kids"
+  },
+  {
+   "device": "Tab_30_WIFI",
+   "name": "Tab_30_WiFi_EEA",
+   "model": "Tab 30 WiFi"
+  },
+  {
+   "device": "Tab_30_WIFI",
+   "name": "Tab_30_WiFi_NEU",
+   "model": "Tab 30 WiFi"
+  },
+  {
+   "device": "Tab_30_WIFI",
+   "name": "Tab_30_WiFi_RU",
+   "model": "Tab 30 WiFi"
+  },
+  {
+   "device": "Tab_60_WiFi",
+   "name": "Tab_60_WiFi_EEA",
+   "model": "Tab 60 WiFi"
+  },
+  {
    "device": "Tab_7_EEA",
    "name": "Tab_7_EEA",
    "model": "Tab 7"
@@ -20124,6 +20159,11 @@
    "device": "Tab_7_WiFi_NEU",
    "name": "Tab_7_WiFi_NEU",
    "model": "Tab 7 WiFi"
+  },
+  {
+   "device": "Tab_90_WiFi",
+   "name": "Tab_90_WiFi_EEA",
+   "model": "Tab 90 WiFi"
   },
   {
    "device": "Tab_90_WiFi",
@@ -44522,6 +44562,11 @@
  ],
  "FCNT": [
   {
+   "device": "A401FC",
+   "name": "A401FC",
+   "model": "A401FC"
+  },
+  {
    "device": "AW02",
    "name": "AW02",
    "model": "AW02"
@@ -44530,6 +44575,11 @@
    "device": "F52B",
    "name": "F-52B",
    "model": "F-52B"
+  },
+  {
+   "device": "MR01",
+   "name": "MR01",
+   "model": "MR01"
   },
   {
    "device": "SD01",
@@ -64168,6 +64218,11 @@
    "device": "YQB",
    "name": "Global",
    "model": "Dongle R 4K"
+  },
+  {
+   "device": "YQX",
+   "name": "Global",
+   "model": "Dongle G 4K"
   },
   {
    "device": "YYZ",
@@ -126800,6 +126855,36 @@
    "model": "Pad 10"
   },
   {
+   "device": "Pad_50_Kids",
+   "name": "Pad_50_Kids_EEA",
+   "model": "Pad 50 Kids"
+  },
+  {
+   "device": "Pad_50_Kids",
+   "name": "Pad_50_Kids_NEU",
+   "model": "Pad 50 Kids"
+  },
+  {
+   "device": "Pad_50_Kids",
+   "name": "Pad_50_Kids_RU",
+   "model": "Pad 50 Kids"
+  },
+  {
+   "device": "Pad_50_WiFi",
+   "name": "Pad_50_WiFi_EEA",
+   "model": "Pad 50 WiFi"
+  },
+  {
+   "device": "Pad_50_WiFi",
+   "name": "Pad_50_WiFi_NEU",
+   "model": "Pad 50 WiFi"
+  },
+  {
+   "device": "Pad_50_WiFi",
+   "name": "Pad_50_WiFi_RU",
+   "model": "Pad 50 WiFi"
+  },
+  {
    "device": "S60",
    "name": "S60",
    "model": "S60"
@@ -130252,6 +130337,11 @@
    "device": "OP5353L1",
    "name": "OPPO A57s",
    "model": "CPH2385"
+  },
+  {
+   "device": "OP5EA7L1",
+   "name": "OPPO A60 5G/ A3 5G",
+   "model": "CPH2683"
   },
   {
    "device": "OP4F39L1",
@@ -149090,6 +149180,11 @@
    "device": "S6506",
    "name": "S6506",
    "model": "S6506"
+  },
+  {
+   "device": "S6528",
+   "name": "S6528",
+   "model": "S6528"
   }
  ],
  "Rumie": [
@@ -181020,6 +181115,11 @@
   },
   {
    "device": "G10",
+   "name": "G10_4K_GB_NF",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G10",
    "name": "G10_4K_US",
    "model": "Smart TV Pro"
   },
@@ -200128,6 +200228,18 @@
    "model": "X4G"
   }
  ],
+ "Up_Mobile": [
+  {
+   "device": "Mover_Edition",
+   "name": "Mover_Edition",
+   "model": "Up_Mobile_Mover_Edition"
+  },
+  {
+   "device": "Mover_Edition",
+   "name": "Mover_Edition_EEA",
+   "model": "Up_Mobile_Mover_Edition"
+  }
+ ],
  "Uphone": [
   {
    "device": "SPURT_R3",
@@ -201581,6 +201693,11 @@
    "device": "T30_EEA",
    "name": "T30_EEA",
    "model": "T30"
+  },
+  {
+   "device": "T30_PLUS",
+   "name": "T30_PLUS",
+   "model": "T30_PLUS"
   },
   {
    "device": "T30_Plus_EEA",
@@ -206546,6 +206663,11 @@
    "device": "PD2329",
    "name": "iQOO 12 Pro",
    "model": "V2329A"
+  },
+  {
+   "device": "PD2408",
+   "name": "iQOO 13",
+   "model": "V2408A"
   },
   {
    "device": "2022",
@@ -230296,6 +230418,16 @@
    "device": "mid7019_mr_32",
    "name": "100092988",
    "model": "100092988"
+  },
+  {
+   "device": "100135794",
+   "name": "100135794",
+   "model": "100135794"
+  },
+  {
+   "device": "100135920",
+   "name": "100135920",
+   "model": "100135920"
   },
   {
    "device": "M17QF21W",
