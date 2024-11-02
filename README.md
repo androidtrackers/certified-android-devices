@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-01
+Last sync is 2024-11-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17257,6 +17257,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO|KYL22|KYL22|
 |Kyocera|DIGNO BX|901KC|901KC|
 |Kyocera|DIGNO BX2|KY21L-ST100|A101KC|
+|Kyocera|DIGNO BX3|KY24L-ST100|A401KC|
+|Kyocera|DIGNO BX3 Plus|KY24L-ST100|A403KC|
+|Kyocera|DIGNO BX3 カメラレス|KY24L-ST100|A402KC|
 |Kyocera|DIGNO Dual|WX04K|WX04K|
 |Kyocera|DIGNO L|KYV36|KYV36|
 |Kyocera|DIGNO R|202K|202K|
@@ -29586,6 +29589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|NEON_RAY_PRO|NEON_RAY_PRO|NEON_RAY_PRO|
 |Safaricom|Neon Storm|Neon_Storm|Neon Storm|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2|
+|Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 H|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
 |Safaricom|Sajipro|Sajipro|Sajipro|

@@ -122306,6 +122306,23 @@
    "model": "KC-S302"
   }
  ],
+ "KY24L-ST100": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO BX3",
+   "model": "A401KC"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO BX3 Plus",
+   "model": "A403KC"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO BX3 カメラレス",
+   "model": "A402KC"
+  }
+ ],
  "WX04K": [
   {
    "brand": "Kyocera",
@@ -197606,6 +197623,11 @@
    "brand": "Safaricom",
    "name": "Neon_Smarta_2",
    "model": "Neon Smarta 2"
+  },
+  {
+   "brand": "Safaricom",
+   "name": "Neon_Smarta_2",
+   "model": "Neon Smarta 2 H"
   }
  ],
  "SFCSTB2LITE": [

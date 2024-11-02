@@ -89057,6 +89057,21 @@
    "model": "A101KC"
   },
   {
+   "device": "KY24L-ST100",
+   "name": "DIGNO BX3",
+   "model": "A401KC"
+  },
+  {
+   "device": "KY24L-ST100",
+   "name": "DIGNO BX3 Plus",
+   "model": "A403KC"
+  },
+  {
+   "device": "KY24L-ST100",
+   "name": "DIGNO BX3 カメラレス",
+   "model": "A402KC"
+  },
+  {
    "device": "WX04K",
    "name": "DIGNO Dual",
    "model": "WX04K"
@@ -152408,6 +152423,11 @@
    "device": "Neon_Smarta_2",
    "name": "Neon_Smarta_2",
    "model": "Neon Smarta 2"
+  },
+  {
+   "device": "Neon_Smarta_2",
+   "name": "Neon_Smarta_2",
+   "model": "Neon Smarta 2 H"
   },
   {
    "device": "SFCSTB2LITE",
