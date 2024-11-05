@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-04
+Last sync is 2024-11-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -362,6 +362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AVH San Luis S.A.|Vortech_3_0|Vortech_3_0|Vortech 3.0|
 |AVITA|T101|T101|T101|
 |AVITA|TS11A1|TS11A1|TS11A1|
+|AVOCOR|A_Series|A_Series|A_Series|
 |AWOW|AWOW_CreaPad_1001|AWOW_CreaPad_1001|AWOW_CreaPad_1001|
 |AWOW|AWOW_CreaPad_1003|AWOW_CreaPad_1003_EEA|AWOW_CreaPad_1003_EEA|
 |AWOW|CQA1019_EEA|CQA1019_EEA|CQA1019_EEA|
@@ -6796,6 +6797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T104G|T104G|T104G|
 |Datamini|T104G_T610|T104G_T610|T104G_T610|
 |Datamini|T104G_T618|T104G|T104G|
+|Datamini|T115G|T115G|T115G|
 |Datamini|T74G|T74G|T74G|
 |Datamini|T8004G|T8004G|T8004G|
 |Datamini|T84G|T84G|T84G|
@@ -8661,6 +8663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F105|F105|F105|
 |FOSSiBOT|F106 Pro EEA|F106_Pro|F106 Pro|
 |FOSSiBOT|F106 Pro ROW|F106_Pro|F106 Pro|
+|FOSSiBOT|F106 ROW|F106|F106|
 |FOSSiBOT|F109|F109|F109|
 |FOSSiBOT|S1|S1|S1|
 |FOSSiBOT|S2|FOSSiBOT_S2|S2|
@@ -22288,6 +22291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
 |Mobiwire|Smart N12|Smart_N12|SmartN12|
 |Mobiwire|Smart P24|Smart_P24|Smart_P24|
+|Mobiwire|Smart V25|Smart_V25|Smart V25|
 |Mobiwire|SmartT23|Smart_T23|SmartT23|
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
@@ -35205,6 +35209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
 |T-Mobile-CZ-Telekom-SK|TV Box HY4403|HY44G|TV Box|
 |TA71CA5_JP|"JP SA COUTO|S.A. _MG070A2T"|TA71CA5_1|
+|TADI|TADI_TOUCH_1_SERIES|TADI_TOUCH_1|TADI_TOUCH_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
 |TAG Heuer|Connected 2020|orbital|TAG Heuer|
 |TAG Heuer|Connected Calibre E4 42mm|oxygen42|TAG Heuer|
@@ -43033,6 +43038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|R83|demeter|ZTE R83|
 |ZTE|RACER III mini|roamer2|RACER III mini|
 |ZTE|RED MAGIC 5G|NX659J|NX659J|
+|ZTE|REDMAGIC 10 Pro|NX789J|NX789J|
 |ZTE|REDMAGIC 7|NX709J-EEA|NX709J|
 |ZTE|REDMAGIC 7Pro|NX709J-UN|NX709J|
 |ZTE|REDMAGIC 9|NX769J|NX769J|
@@ -45094,6 +45100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT Neo6|RE5C46L1|RMX3852|
 |realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
 |realme|真我GT6|RE5C4FL1|RMX3800|
+|realme|真我GT7 Pro|RE6018L1|RMX5010|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|

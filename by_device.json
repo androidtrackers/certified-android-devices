@@ -8015,6 +8015,13 @@
    "model": "TS11A1"
   }
  ],
+ "A_Series": [
+  {
+   "brand": "AVOCOR",
+   "name": "A_Series",
+   "model": "A_Series"
+  }
+ ],
  "AWOW_CreaPad_1001": [
   {
    "brand": "AWOW",
@@ -58274,6 +58281,13 @@
    "model": "T104G_T610"
   }
  ],
+ "T115G": [
+  {
+   "brand": "Datamini",
+   "name": "T115G",
+   "model": "T115G"
+  }
+ ],
  "T74G": [
   {
    "brand": "Datamini",
@@ -70867,6 +70881,18 @@
    "brand": "FOSSiBOT",
    "name": "F106 Pro ROW",
    "model": "F106 Pro"
+  }
+ ],
+ "F106": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "F106 ROW",
+   "model": "F106"
+  },
+  {
+   "brand": "Innjoo",
+   "name": "F106",
+   "model": "F106"
   }
  ],
  "F109": [
@@ -111819,13 +111845,6 @@
    "brand": "Innjoo",
    "name": "F104",
    "model": "F104"
-  }
- ],
- "F106": [
-  {
-   "brand": "Innjoo",
-   "name": "F106",
-   "model": "F106"
   }
  ],
  "F106_Plus": [
@@ -153938,6 +153957,13 @@
    "brand": "Mobiwire",
    "name": "Smart P24",
    "model": "Smart_P24"
+  }
+ ],
+ "Smart_V25": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart V25",
+   "model": "Smart V25"
   }
  ],
  "Smart_T23": [
@@ -232502,6 +232528,13 @@
    "model": "TA71CA5_1"
   }
  ],
+ "TADI_TOUCH_1": [
+  {
+   "brand": "TADI",
+   "name": "TADI_TOUCH_1_SERIES",
+   "model": "TADI_TOUCH_1"
+  }
+ ],
  "orbital": [
   {
    "brand": "TAG Heuer",
@@ -278037,6 +278070,13 @@
    "model": "NX659J"
   }
  ],
+ "NX789J": [
+  {
+   "brand": "ZTE",
+   "name": "REDMAGIC 10 Pro",
+   "model": "NX789J"
+  }
+ ],
  "NX709J-EEA": [
   {
    "brand": "ZTE",
@@ -288940,6 +288980,13 @@
    "brand": "realme",
    "name": "真我GT6",
    "model": "RMX3800"
+  }
+ ],
+ "RE6018L1": [
+  {
+   "brand": "realme",
+   "name": "真我GT7 Pro",
+   "model": "RMX5010"
   }
  ],
  "RE548B": [

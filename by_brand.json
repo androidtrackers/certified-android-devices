@@ -1980,6 +1980,13 @@
    "model": "TS11A1"
   }
  ],
+ "AVOCOR": [
+  {
+   "device": "A_Series",
+   "name": "A_Series",
+   "model": "A_Series"
+  }
+ ],
  "AWOW": [
   {
    "device": "AWOW_CreaPad_1001",
@@ -35188,6 +35195,11 @@
    "model": "T104G"
   },
   {
+   "device": "T115G",
+   "name": "T115G",
+   "model": "T115G"
+  },
+  {
    "device": "T74G",
    "name": "T74G",
    "model": "T74G"
@@ -44989,6 +45001,11 @@
    "device": "F106_Pro",
    "name": "F106 Pro ROW",
    "model": "F106 Pro"
+  },
+  {
+   "device": "F106",
+   "name": "F106 ROW",
+   "model": "F106"
   },
   {
    "device": "F109",
@@ -114740,6 +114757,11 @@
    "model": "Smart_P24"
   },
   {
+   "device": "Smart_V25",
+   "name": "Smart V25",
+   "model": "Smart V25"
+  },
+  {
    "device": "Smart_T23",
    "name": "SmartT23",
    "model": "SmartT23"
@@ -180851,6 +180873,13 @@
    "model": "TA71CA5_1"
   }
  ],
+ "TADI": [
+  {
+   "device": "TADI_TOUCH_1",
+   "name": "TADI_TOUCH_1_SERIES",
+   "model": "TADI_TOUCH_1"
+  }
+ ],
  "TAG Heuer": [
   {
    "device": "glacier",
@@ -221043,6 +221072,11 @@
    "model": "NX659J"
   },
   {
+   "device": "NX789J",
+   "name": "REDMAGIC 10 Pro",
+   "model": "NX789J"
+  },
+  {
    "device": "NX709J-EEA",
    "name": "REDMAGIC 7",
    "model": "NX709J"
@@ -231690,6 +231724,11 @@
    "device": "RE5C4FL1",
    "name": "真我GT6",
    "model": "RMX3800"
+  },
+  {
+   "device": "RE6018L1",
+   "name": "真我GT7 Pro",
+   "model": "RMX5010"
   },
   {
    "device": "RE548B",
