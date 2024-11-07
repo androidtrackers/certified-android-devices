@@ -43161,6 +43161,13 @@
    "model": "ET660"
   }
  ],
+ "Ethio Telecom": [
+  {
+   "device": "ET_B866W11A",
+   "name": "Ethio Telecom B866W11A",
+   "model": "Ethio Telecom B866W11A"
+  }
+ ],
  "Etisalat": [
   {
    "device": "KSTB6076",
@@ -48879,6 +48886,13 @@
    "device": "X23_Pro",
    "name": "X23_Pro",
    "model": "X23_Pro"
+  }
+ ],
+ "GOODEE": [
+  {
+   "device": "himalaya",
+   "name": "GD500Plus",
+   "model": "GD500Plus"
   }
  ],
  "GOODTEL": [
@@ -61322,6 +61336,11 @@
    "model": "Hisense T1 Pro"
   },
   {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense U43"
+  },
+  {
    "device": "HS8937QC",
    "name": "HLTE300E_ 02",
    "model": "HLTE300E"
@@ -65313,6 +65332,16 @@
    "model": "BVL-N49"
   },
   {
+   "device": "HNBRP-Q1",
+   "name": "HONOR Magic7 Lite",
+   "model": "BRP-NX1M"
+  },
+  {
+   "device": "HNBRP-Q1",
+   "name": "HONOR Magic7 Lite",
+   "model": "BRP-NX3"
+  },
+  {
    "device": "HNROD2-Q",
    "name": "HONOR MagicPad2",
    "model": "ROD2-W09"
@@ -65641,6 +65670,11 @@
    "device": "HNALI-Q",
    "name": "HONOR X9b 5G",
    "model": "ALI-NX1"
+  },
+  {
+   "device": "HNBRP-Q1",
+   "name": "HONOR X9c",
+   "model": "BRP-NX1"
   },
   {
    "device": "HNLLY-M1",
@@ -75077,6 +75111,11 @@
    "device": "lavender",
    "name": "HYUNDAI",
    "model": "4K SMART ISDB TV"
+  },
+  {
+   "device": "lavender",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI 4K SMART TV"
   },
   {
    "device": "mountbaker",
@@ -85767,6 +85806,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "lavender",
+   "name": "MULTISMART",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "MULTISMART",
    "model": "2K SMART TV"
@@ -88400,6 +88444,11 @@
    "device": "MAR4510C",
    "name": "MAR4510C",
    "model": "MAR4510C"
+  },
+  {
+   "device": "mau4800d",
+   "name": "MAU4800D",
+   "model": "MAU4800D"
   }
  ],
  "Krik Krak": [
@@ -130426,6 +130475,11 @@
    "model": "OPD2202"
   },
   {
+   "device": "OP5D76L1",
+   "name": "OPPO Pad 3 Pro",
+   "model": "OPD2401"
+  },
+  {
    "device": "OP5225",
    "name": "OPPO Pad Air",
    "model": "OPD2102"
@@ -167482,6 +167536,11 @@
    "model": "SM-F741W"
   },
   {
+   "device": "q6aq",
+   "name": "Galaxy Z Fold Special Edition",
+   "model": "SM-F958N"
+  },
+  {
    "device": "f2q",
    "name": "Galaxy Z Fold2 5G",
    "model": "SM-F9160"
@@ -167975,6 +168034,11 @@
    "device": "e4q",
    "name": "心系天下 三星 W23 Flip",
    "model": "SM-W7023"
+  },
+  {
+   "device": "q6aq",
+   "name": "心系天下 三星 W25",
+   "model": "SM-W9025"
   },
   {
    "device": "b6q",

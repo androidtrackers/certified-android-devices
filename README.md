@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-06
+Last sync is 2024-11-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8315,6 +8315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estla|Android TV|longshan|AI PONT NA|
 |Estla|UHD Android TV|sindorim|AI PONT|
 |Eten|ET660|ETEN|ET660|
+|Ethio Telecom|Ethio Telecom B866W11A|ET_B866W11A|Ethio Telecom B866W11A|
 |Etisalat|eLife TV|KSTB6076|KSTB6076|
 |Etuline|ETL-S4521|u939e_2|ETL-S4521|
 |Etuline|ETL-S5042|u970_4|ETL-S5042|
@@ -9403,6 +9404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GMMZ|DongleTV1|DongleTV1|DongleTV1|
 |GOMDUSA|X23|X23|X23|
 |GOMDUSA|X23_Pro|X23_Pro|X23_Pro|
+|GOODEE|GD500Plus|himalaya|GD500Plus|
 |GOODTEL|G10_EEA|G10_EEA|G10_EEA|
 |GOODTEL|G10_T_EEA|G10_T_EEA|G10_T_EEA|
 |GOODTEL|G10_T_US|G10_T_US|G10_T_US|
@@ -11822,6 +11824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
+|Hisense|HLTE243E|HLTE243E|Hisense U43|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
 |Hisense|HLTE300E_ 02|HS8937QC|Hisense Infinity H11|
@@ -12615,6 +12618,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX3|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-AN16|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-N49|
+|Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX1M|
+|Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX3|
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
@@ -12681,6 +12686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
+|Honor|HONOR X9c|HNBRP-Q1|BRP-NX1|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX1|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
 |Honor|Honor X9b 5G|HNALI-Q|ALI-NX3P|
@@ -14559,6 +14565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|lavender|4K SMART COL TV|
 |Hyundai|HYUNDAI|lavender|4K SMART ISDB TV|
+|Hyundai|HYUNDAI|lavender|HYUNDAI 4K SMART TV|
 |Hyundai|HYUNDAI|mountbaker|2K SMART TV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
@@ -16625,6 +16632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KTC|zhongshan|4K SMART TV|
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
+|KTCtv|MULTISMART|lavender|4K SMART TV|
 |KTCtv|MULTISMART|mountbaker|2K SMART TV|
 |KTCtv|NA|stanford|40DNA|
 |KTCtv|NA|zhongshan|43FNA|
@@ -17130,6 +17138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Korea Telecom|MA4000|MA4000|MA4000|
 |Korea Telecom|MA4100|MA4100|MA4100|
 |Korea Telecom|MAR4510C|MAR4510C|MAR4510C|
+|Korea Telecom|MAU4800D|mau4800d|MAU4800D|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|COLORS|COLORS|COLORS|
@@ -25334,6 +25343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
+|Oppo|OPPO Pad 3 Pro|OP5D76L1|OPD2401|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
@@ -32598,6 +32608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U1|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741W|
+|Samsung|Galaxy Z Fold Special Edition|q6aq|SM-F958N|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
@@ -32697,6 +32708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|三星W22 5G|v2q|SM-W2022|
 |Samsung|心系天下 三星 W23|v4q|SM-W9023|
 |Samsung|心系天下 三星 W23 Flip|e4q|SM-W7023|
+|Samsung|心系天下 三星 W25|q6aq|SM-W9025|
 |Samsung|心系天下 三星 W25 Flip|b6q|SM-W7025|
 |Samsung|领世旗舰8|venenoltechn|SM-G9298|
 |Samtech|MID_M1023|MID_M1023|MID_M10|

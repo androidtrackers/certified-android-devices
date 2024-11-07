@@ -14338,6 +14338,11 @@
    "model": "4K SMART ISDB TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI 4K SMART TV"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV 4K"
@@ -14425,6 +14430,11 @@
   {
    "brand": "KTCtv",
    "name": "IQWORLD",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "MULTISMART",
    "model": "4K SMART TV"
   },
   {
@@ -34049,6 +34059,11 @@
    "brand": "Epson",
    "name": "HB35",
    "model": "HB35"
+  },
+  {
+   "brand": "GOODEE",
+   "name": "GD500Plus",
+   "model": "GD500Plus"
   }
  ],
  "Harrier": [
@@ -68343,6 +68358,13 @@
    "model": "ET660"
   }
  ],
+ "ET_B866W11A": [
+  {
+   "brand": "Ethio Telecom",
+   "name": "Ethio Telecom B866W11A",
+   "model": "Ethio Telecom B866W11A"
+  }
+ ],
  "KSTB6076": [
   {
    "brand": "Etisalat",
@@ -91092,6 +91114,11 @@
    "brand": "Hisense",
    "name": "HLTE243E",
    "model": "Hisense T1 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
+   "model": "Hisense U43"
   }
  ],
  "HSSDM636QC": [
@@ -95587,6 +95614,23 @@
    "brand": "Honor",
    "name": "PORSCHE DESIGN HONOR Magic6 RSR",
    "model": "BVL-AN20"
+  }
+ ],
+ "HNBRP-Q1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic7 Lite",
+   "model": "BRP-NX1M"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic7 Lite",
+   "model": "BRP-NX3"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9c",
+   "model": "BRP-NX1"
   }
  ],
  "HNROD2-Q": [
@@ -121416,6 +121460,13 @@
    "brand": "Korea Telecom",
    "name": "MAR4510C",
    "model": "MAR4510C"
+  }
+ ],
+ "mau4800d": [
+  {
+   "brand": "Korea Telecom",
+   "name": "MAU4800D",
+   "model": "MAU4800D"
   }
  ],
  "Freedom": [
@@ -172276,6 +172327,13 @@
    "model": "OPD2202"
   }
  ],
+ "OP5D76L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad 3 Pro",
+   "model": "OPD2401"
+  }
+ ],
  "OP5225": [
   {
    "brand": "Oppo",
@@ -216340,6 +216398,18 @@
    "brand": "Samsung",
    "name": "心系天下 三星 W25 Flip",
    "model": "SM-W7025"
+  }
+ ],
+ "q6aq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold Special Edition",
+   "model": "SM-F958N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W25",
+   "model": "SM-W9025"
   }
  ],
  "f2q": [
