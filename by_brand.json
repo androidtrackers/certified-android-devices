@@ -52780,6 +52780,11 @@
    "device": "WP856",
    "name": "Grandstream WP856",
    "model": "WP856"
+  },
+  {
+   "device": "WP856",
+   "name": "WP856",
+   "model": "WP856"
   }
  ],
  "Greatwall": [
@@ -53794,6 +53799,11 @@
    "model": "4K JP ACAS Google TV"
   },
   {
+   "device": "piha",
+   "name": "Google TV",
+   "model": "4K JP BCAS Google TV"
+  },
+  {
    "device": "mateo",
    "name": "Smart Monitor",
    "model": "2K Smart Monitor"
@@ -54405,7 +54415,17 @@
   {
    "device": "Tablet_HQ_T616",
    "name": "Tablet_HQ_T616",
+   "model": "T700"
+  },
+  {
+   "device": "Tablet_HQ_T616",
+   "name": "Tablet_HQ_T616",
    "model": "Tablet_HQ_T616"
+  },
+  {
+   "device": "Tablet_HQ_T616",
+   "name": "Tablet_HQ_T616",
+   "model": "l11"
   }
  ],
  "HRSolutions": [
@@ -89817,6 +89837,16 @@
   }
  ],
  "LANDI": [
+  {
+   "device": "AN-LFC",
+   "name": "C20Pro",
+   "model": "C20Pro"
+  },
+  {
+   "device": "AN-LFC",
+   "name": "C20ProSE",
+   "model": "C20ProSE"
+  },
   {
    "device": "M20",
    "name": "M20",
@@ -125953,11 +125983,6 @@
    "model": "S6603L"
   },
   {
-   "device": "S6704LA",
-   "name": "N10 Plus",
-   "model": "S6704L"
-  },
-  {
    "device": "S6008LA",
    "name": "N12",
    "model": "S6008L"
@@ -125966,6 +125991,11 @@
    "device": "S6514LA",
    "name": "N13",
    "model": "S6514L"
+  },
+  {
+   "device": "S6704LA",
+   "name": "N30",
+   "model": "S6704L"
   },
   {
    "device": "N4L",
@@ -195058,6 +195088,11 @@
    "device": "M1K",
    "name": "M1K",
    "model": "M1K"
+  },
+  {
+   "device": "M8",
+   "name": "M8",
+   "model": "M8 for arm64"
   }
  ],
  "Telus": [

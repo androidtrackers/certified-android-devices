@@ -6160,6 +6160,11 @@
    "model": "M8"
   },
   {
+   "brand": "Telpo",
+   "name": "M8",
+   "model": "M8 for arm64"
+  },
+  {
    "brand": "Winnovo",
    "name": "M8_EEA",
    "model": "M8"
@@ -81076,6 +81081,11 @@
    "brand": "Grandstream",
    "name": "Grandstream WP856",
    "model": "WP856"
+  },
+  {
+   "brand": "Grandstream",
+   "name": "WP856",
+   "model": "WP856"
   }
  ],
  "tablet": [
@@ -82193,6 +82203,11 @@
    "brand": "HKC Elec",
    "name": "Google TV",
    "model": "4K JP ACAS Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "model": "4K JP BCAS Google TV"
   }
  ],
  "UY3-PCW": [
@@ -82935,7 +82950,17 @@
   {
    "brand": "HQ_bel",
    "name": "Tablet_HQ_T616",
+   "model": "T700"
+  },
+  {
+   "brand": "HQ_bel",
+   "name": "Tablet_HQ_T616",
    "model": "Tablet_HQ_T616"
+  },
+  {
+   "brand": "HQ_bel",
+   "name": "Tablet_HQ_T616",
+   "model": "l11"
   }
  ],
  "HRS2000": [
@@ -123293,6 +123318,18 @@
    "brand": "LAMZIEN",
    "name": "LAMZIEN_P2",
    "model": "LAMZIEN_P2"
+  }
+ ],
+ "AN-LFC": [
+  {
+   "brand": "LANDI",
+   "name": "C20Pro",
+   "model": "C20Pro"
+  },
+  {
+   "brand": "LANDI",
+   "name": "C20ProSE",
+   "model": "C20ProSE"
   }
  ],
  "M20SE": [
@@ -167223,13 +167260,6 @@
    "model": "S6603L"
   }
  ],
- "S6704LA": [
-  {
-   "brand": "Nuu",
-   "name": "N10 Plus",
-   "model": "S6704L"
-  }
- ],
  "S6008LA": [
   {
    "brand": "Nuu",
@@ -167242,6 +167272,13 @@
    "brand": "Nuu",
    "name": "N13",
    "model": "S6514L"
+  }
+ ],
+ "S6704LA": [
+  {
+   "brand": "Nuu",
+   "name": "N30",
+   "model": "S6704L"
   }
  ],
  "N4L": [

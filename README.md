@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-07
+Last sync is 2024-11-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10152,6 +10152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Graetz|GRAETZ|lavender|4K SMART TV|
 |Graetz|GRAETZ|mountbaker|2K SMART TV|
 |Grandstream|Grandstream WP856|WP856|WP856|
+|Grandstream|WP856|WP856|WP856|
 |Greatwall|100011886|tablet|100011886|
 |Greatwall|100011886_GTW|tablet|100011886_GTW|
 |Greatwall|K701|K701|K701|
@@ -10340,6 +10341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|nagai|2K US Google TV|
 |HKC Elec|Google TV|nagai|POLYTRON 2K|
 |HKC Elec|Google TV|piha|4K JP ACAS Google TV|
+|HKC Elec|Google TV|piha|4K JP BCAS Google TV|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
 |HKC Elec|Smart TV|mateo|2K US Smart TV|
@@ -10457,7 +10459,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HP|SlateBook 14|200a|HP SlateBook 14 PC|
 |HP|Tablet 10|balsa|HP_10_Tablet|
 |HP|Voice Tab 7|almond|HP Slate 7 Voice Tab|
+|HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|T700|
 |HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|Tablet_HQ_T616|
+|HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|l11|
 |HRSolutions|HRS2000|HRS2000|HRS2000|
 |HTC||express|HTC Flyer|
 |HTC||express|PG41200|
@@ -17406,6 +17410,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
 |LAMINA|LTT8A4G_EEA|LTT8A4G_EEA|LTT8A4G|
 |LAMZIEN|LAMZIEN_P2|LAMZIEN_P2|LAMZIEN_P2|
+|LANDI|C20Pro|AN-LFC|C20Pro|
+|LANDI|C20ProSE|AN-LFC|C20ProSE|
 |LANDI|M20|M20|M20|
 |LANDI|M20SE|M20SE|M20SE|
 |LARVAND|M863TabH8|M863TabH8|M863TabH8|
@@ -24465,9 +24471,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|M3|NUU_M3|NUU_M3|
 |Nuu|M6|S6503LE|S6503L|
 |Nuu|N10|S6603LA|S6603L|
-|Nuu|N10 Plus|S6704LA|S6704L|
 |Nuu|N12|S6008LA|S6008L|
 |Nuu|N13|S6514LA|S6514L|
+|Nuu|N30|S6704LA|S6704L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
 |Nuu|N6001L|N6001LA|N6001L|
@@ -37988,6 +37994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telpo|M1|M1s|M1s|
 |Telpo|M10|M10|M10 for arm64|
 |Telpo|M1K|M1K|M1K|
+|Telpo|M8|M8|M8 for arm64|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|TELUSTV-21T|uiw4054tlu|TELUSTV-21T|
