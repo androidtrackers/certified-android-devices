@@ -45109,6 +45109,11 @@
    "model": "A65Plus"
   },
   {
+   "device": "A65U",
+   "name": "A65U",
+   "model": "A65U"
+  },
+  {
    "device": "A6_Plus",
    "name": "A6_Plus",
    "model": "A6 Plus"
@@ -84831,6 +84836,16 @@
    "model": "H14"
   },
   {
+   "device": "H15",
+   "name": "H15",
+   "model": "H15"
+  },
+  {
+   "device": "H16",
+   "name": "H16",
+   "model": "H16"
+  },
+  {
    "device": "H21",
    "name": "H21",
    "model": "H21"
@@ -109070,6 +109085,11 @@
    "model": "MX-A10R"
   },
   {
+   "device": "MX-A6T",
+   "name": "ASTRO 6T",
+   "model": "MX-A6T"
+  },
+  {
    "device": "MX-A64",
    "name": "ASTRO A64",
    "model": "MX-A64"
@@ -114584,6 +114604,11 @@
    "device": "H5111",
    "name": "H5111",
    "model": "Kicka 6 Plus 4G"
+  },
+  {
+   "device": "Giyafa",
+   "name": "H5111L",
+   "model": "Giyafa"
   },
   {
    "device": "H5111L",
@@ -125782,6 +125807,11 @@
    "device": "NX503A",
    "name": "NX503A",
    "model": "NX503A"
+  },
+  {
+   "device": "P616F03",
+   "name": "nubia Focus",
+   "model": "Z2455"
   }
  ],
  "Nubio_Lite": [
@@ -130280,9 +130310,19 @@
    "model": "PKB110"
   },
   {
+   "device": "OP5AA5L1",
+   "name": "Find X8",
+   "model": "CPH2651"
+  },
+  {
    "device": "OP5A41L1",
    "name": "Find X8 Pro",
    "model": "PKC110"
+  },
+  {
+   "device": "OP5AB0L1",
+   "name": "Find X8 Pro",
+   "model": "CPH2659"
   },
   {
    "device": "FIND5",
@@ -144802,6 +144842,13 @@
    "device": "QW-800",
    "name": "QW-800",
    "model": "QW-800"
+  }
+ ],
+ "RADDY": [
+  {
+   "device": "RADDY_JANJA",
+   "name": "RADDY_JANJA",
+   "model": "R_6503"
   }
  ],
  "RAINBOX": [

@@ -71106,6 +71106,13 @@
    "model": "A65Plus"
   }
  ],
+ "A65U": [
+  {
+   "brand": "FOXXD",
+   "name": "A65U",
+   "model": "A65U"
+  }
+ ],
  "A6_Plus": [
   {
    "brand": "FOXXD",
@@ -118134,6 +118141,20 @@
    "model": "E28"
   }
  ],
+ "H15": [
+  {
+   "brand": "KENSHI",
+   "name": "H15",
+   "model": "H15"
+  }
+ ],
+ "H16": [
+  {
+   "brand": "KENSHI",
+   "name": "H16",
+   "model": "H16"
+  }
+ ],
  "H21": [
   {
    "brand": "KENSHI",
@@ -146720,6 +146741,13 @@
    "model": "MX-A10R"
   }
  ],
+ "MX-A6T": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO 6T",
+   "model": "MX-A6T"
+  }
+ ],
  "MX-A64": [
   {
    "brand": "Maxwest",
@@ -153757,6 +153785,13 @@
    "brand": "Mobiwire",
    "name": "MobiWire Halona",
    "model": "Halona"
+  }
+ ],
+ "Giyafa": [
+  {
+   "brand": "Mobiwire",
+   "name": "H5111L",
+   "model": "Giyafa"
   }
  ],
  "H5111L": [
@@ -166991,6 +167026,13 @@
    "model": "NX503A"
   }
  ],
+ "P616F03": [
+  {
+   "brand": "Nubia",
+   "name": "nubia Focus",
+   "model": "Z2455"
+  }
+ ],
  "LS032I": [
   {
    "brand": "Nubio_Lite",
@@ -172145,11 +172187,25 @@
    "model": "PKB110"
   }
  ],
+ "OP5AA5L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X8",
+   "model": "CPH2651"
+  }
+ ],
  "OP5A41L1": [
   {
    "brand": "Oppo",
    "name": "Find X8 Pro",
    "model": "PKC110"
+  }
+ ],
+ "OP5AB0L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X8 Pro",
+   "model": "CPH2659"
   }
  ],
  "PBCM30": [
@@ -189590,6 +189646,13 @@
    "brand": "Qwerty",
    "name": "QW-800",
    "model": "QW-800"
+  }
+ ],
+ "RADDY_JANJA": [
+  {
+   "brand": "RADDY",
+   "name": "RADDY_JANJA",
+   "model": "R_6503"
   }
  ],
  "K90": [

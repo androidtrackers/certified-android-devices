@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-08
+Last sync is 2024-11-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8683,6 +8683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|A65|A65|A65|
 |FOXXD|A65M|A65M|A65M|
 |FOXXD|A65Plus|A65Plus|A65Plus|
+|FOXXD|A65U|A65U|A65U|
 |FOXXD|A6_Plus|A6_Plus|A6 Plus|
 |FOXXD|AS65U|AS65U|AS65U|
 |FOXXD|C10|C10|C10|
@@ -16445,6 +16446,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
 |KENSHI|H14|H14|H14|
+|KENSHI|H15|H15|H15|
+|KENSHI|H16|H16|H16|
 |KENSHI|H21|H21|H21|
 |KENSHI|H24|H24|H24|
 |KENSHI|H34|H34|H34|
@@ -21176,6 +21179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|ASTRO 10R|MX-A10R1WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10R2WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10RWW|MX-A10R|
+|Maxwest|ASTRO 6T|MX-A6T|MX-A6T|
 |Maxwest|ASTRO A64|MX-A64|MX-A64|
 |Maxwest|ASTRO A65|MX-A65|MX-A65|
 |Maxwest|ASTRO_10|MX-A10WW|MX-A10|
@@ -22256,6 +22260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H|Halona|Halona|
 |Mobiwire|H5111|H5111|H5111|
 |Mobiwire|H5111|H5111|Kicka 6 Plus 4G|
+|Mobiwire|H5111L|Giyafa|Giyafa|
 |Mobiwire|H5111L|H5111L|H5111L|
 |Mobiwire|H5111L|H5111L|IKOSORA+|
 |Mobiwire|H5111L|H5111L_Mascom|H5111L_Mascom|
@@ -24432,6 +24437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nubia|NX401|NX40X|NX401|
 |Nubia|NX501|NX501|NX501|
 |Nubia|NX503A|NX503A|NX503A|
+|Nubia|nubia Focus|P616F03|Z2455|
 |Nubio_Lite|N2 Lite|LS032I|LS032I|
 |Nubio_Lite|N2 Lite|LS032M|LS032M|
 |Nuu|A1|NUU_A1|NUU_A1|
@@ -25304,7 +25310,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X7 Ultra|OP565FL1|PHY110|
 |Oppo|Find X7 Ultra 卫星通信版|OP5660L1|PHY120|
 |Oppo|Find X8|OP5A3DL1|PKB110|
+|Oppo|Find X8|OP5AA5L1|CPH2651|
 |Oppo|Find X8 Pro|OP5A41L1|PKC110|
+|Oppo|Find X8 Pro|OP5AB0L1|CPH2659|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
@@ -28136,6 +28144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quatro|Quatro_8|Quatro_8|Quatro 8|
 |Quickline|Quickline UHD Box|dciw387|M387_QL|
 |Qwerty|QW-800|QW-800|QW-800|
+|RADDY|RADDY_JANJA|RADDY_JANJA|R_6503|
 |RAINBOX|K90|K90|K90|
 |RAMTECHNOLOGY|RM-705|RM-705|RM-705|
 |RAMTECHNOLOGY|Star|STAR|STAR|
