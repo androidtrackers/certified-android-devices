@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-10
+Last sync is 2024-11-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3339,6 +3339,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BYJUS|LRNS10WIL0|LRNS10WIL0|LRNS10WIL0|
 |BYJUS|LRNS10WNW0|LRNS10WIFI|LRNS10WNW0|
 |BYYBUO|A10_EU|A10_EU|A10_EU|
+|BYYBUO|A10_L|A10_L|A10_L|
 |BYYBUO|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|
 |BYYBUO|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|
 |BYYBUO|SmartPad_A10_EU|SmartPad_A10_EU|SmartPad_A10_EU|
@@ -9487,6 +9488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GTPL|Inspire 4.0|Inspire_4|Inspire_4|
 |GTPL|Shockwave|Shockwave|Shockwave|
 |GTX(A)|GTX_JACULUS|GTX_JACULUS|GTX_JACULUS|
+|GUIDE_SAMJUNG|GSJ|rk3588_i|GSJ|
 |GYRO|S6001|S6001|GYRO S6001|
 |Galactic|ETAB_M7043G|ETAB_M7043G|ETAB_M7043G|
 |Galactic|Galactic_Astro|Galactic_Astro|Galactic_Astro|
@@ -24814,6 +24816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2585|
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2609|
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2611|
+|OnePlus|OnePlus 13|OP5D0DL1|PJZ110|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -37818,6 +37821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 9T|TECNO-KH6|TECNO KH6|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO SPARK Go 1|TECNO-KL4|TECNO KL4|
+|Tecno|TECNO SPARK Go 1|TECNO-KL4s|TECNO KL4s|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5|TECNO KG5|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5h|TECNO KG5h|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5m|TECNO KG5m|
@@ -38112,6 +38116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|ThomsonTV|shibuya|ThomsonTV|
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
 |TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
+|Tibuta|A40|A40|A40|
 |Tibuta|SmartPad_E220|SmartPad_E220|SmartPad_E220|
 |Tibuta|Tibuta_MasterPad-E100|Tibuta_MasterPad-E100|Tibuta_MasterPad-E100|
 |Tibuta|Tibuta_MasterPad-T100|Tibuta_MasterPad-T100|Tibuta_MasterPad-T100|

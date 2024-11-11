@@ -17259,6 +17259,11 @@
    "model": "A10_EU"
   },
   {
+   "device": "A10_L",
+   "name": "A10_L",
+   "model": "A10_L"
+  },
+  {
    "device": "BYYBUO_SmartPad_A10",
    "name": "BYYBUO_SmartPad_A10",
    "model": "BYYBUO_SmartPad_A10"
@@ -49323,6 +49328,13 @@
    "device": "GTX_JACULUS",
    "name": "GTX_JACULUS",
    "model": "GTX_JACULUS"
+  }
+ ],
+ "GUIDE_SAMJUNG": [
+  {
+   "device": "rk3588_i",
+   "name": "GSJ",
+   "model": "GSJ"
   }
  ],
  "GYRO": [
@@ -127810,6 +127822,11 @@
    "model": "CPH2611"
   },
   {
+   "device": "OP5D0DL1",
+   "name": "OnePlus 13",
+   "model": "PJZ110"
+  },
+  {
    "device": "OnePlus6",
    "name": "OnePlus 6",
    "model": "ONEPLUS A6000"
@@ -194146,6 +194163,11 @@
    "model": "TECNO KL4"
   },
   {
+   "device": "TECNO-KL4s",
+   "name": "TECNO SPARK Go 1",
+   "model": "TECNO KL4s"
+  },
+  {
    "device": "TECNO-KG5",
    "name": "TECNO SPARK Go 2022",
    "model": "TECNO KG5"
@@ -195701,6 +195723,11 @@
   }
  ],
  "Tibuta": [
+  {
+   "device": "A40",
+   "name": "A40",
+   "model": "A40"
+  },
   {
    "device": "SmartPad_E220",
    "name": "SmartPad_E220",

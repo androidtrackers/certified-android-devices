@@ -33337,6 +33337,13 @@
    "model": "A10_EU"
   }
  ],
+ "A10_L": [
+  {
+   "brand": "BYYBUO",
+   "name": "A10_L",
+   "model": "A10_L"
+  }
+ ],
  "BYYBUO_SmartPad_A10": [
   {
    "brand": "BYYBUO",
@@ -76529,6 +76536,13 @@
    "model": "GTX_JACULUS"
   }
  ],
+ "rk3588_i": [
+  {
+   "brand": "GUIDE_SAMJUNG",
+   "name": "GSJ",
+   "model": "GSJ"
+  }
+ ],
  "S6001": [
   {
    "brand": "GYRO",
@@ -89623,6 +89637,11 @@
    "brand": "IkuMobile",
    "name": "IKU A40",
    "model": "IKU A40"
+  },
+  {
+   "brand": "Tibuta",
+   "name": "A40",
+   "model": "A40"
   }
  ],
  "A42": [
@@ -169100,6 +169119,13 @@
    "model": "CPH2611"
   }
  ],
+ "OP5D0DL1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 13",
+   "model": "PJZ110"
+  }
+ ],
  "OnePlus6": [
   {
    "brand": "OnePlus",
@@ -247147,6 +247173,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK Go",
    "model": "TECNO KC1"
+  }
+ ],
+ "TECNO-KL4s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK Go 1",
+   "model": "TECNO KL4s"
   }
  ],
  "TECNO-KG5": [
