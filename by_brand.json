@@ -33865,6 +33865,11 @@
    "model": "DG101TBIPS"
   },
   {
+   "device": "DG101TBLS",
+   "name": "DG101TBLS",
+   "model": "DG101TBLS"
+  },
+  {
    "device": "DG7TBIPSBT",
    "name": "DG7TBIPSBT",
    "model": "DG7TBIPSBT"
