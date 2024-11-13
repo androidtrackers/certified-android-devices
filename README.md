@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-12
+Last sync is 2024-11-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20771,6 +20771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
 |MIAPRODUCT|AMBK290471|AMBK290471|AMBK290471|
 |MIFONE|Model 6 Pro Max 4G|Model-6-Pro-Max-4G|Model-6-Pro-Max-4G|
+|MIKITECH|MK-ES300|MK-ES300|MK-ES300|
 |MIKU|TAB63A|TAB63A|TAB63A|
 |MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
 |MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
@@ -27066,6 +27067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|polaroid|ewha|POLA-TVE19K|
 |Polaroid|polaroid|sindang|POLA-TVE19M|
 |Polestar|Polestar|ihu_abl_car|Polestar|
+|Polestar|Polestar|jalapeno|PS4|
 |Polestar|Polestar|moose|Polestar|
 |Polestar|Polestar Emu|ihu_emulator|Polestar 2|
 |Polytron|2K|hayward|POLYTRON2K|
@@ -32438,6 +32440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy W|q7lteskt|SM-T255S|
 |Samsung|Galaxy Watch FE|lucky7bs|SM-R861|
 |Samsung|Galaxy Watch FE|lucky7us|SM-R866U|
+|Samsung|Galaxy Watch Ultra|projectx2bl|SM-L700|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L7050|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705F|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705N|
@@ -37331,6 +37334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30_EEA|P30_EEA|P30|
 |Teclast|P30_EEA|P30_EEA|P30_EEA|
 |Teclast|P30_ROW|P30|P30|
+|Teclast|P30_ROW|P30|P30_ROW|
 |Teclast|P30_ROW|P30_B|P30|
 |Teclast|P30_ROW|P30_B|P30_ROW|
 |Teclast|P30_ROW|P30_ROW|P30|
@@ -39085,6 +39089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|L10_T06_EEA|L10_T06_EEA|L10_T06_EEA|
 |VASOUN|L10_T08|L10_T08|L10_T08|
 |VASOUN|L10_T08_EEA|L10_T08_EEA|L10_T08|
+|VASOUN|L10_T08_EEA|L10_T08_EEA|L10_T08_EEA|
 |VASOUN|L10_T10|L10_T10|L10_T10|
 |VASOUN|L10_T10_EEA|L10_T10_EEA|L10_T10_EEA|
 |VASOUN|M7|M7|M7|

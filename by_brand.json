@@ -106907,6 +106907,13 @@
    "model": "Model-6-Pro-Max-4G"
   }
  ],
+ "MIKITECH": [
+  {
+   "device": "MK-ES300",
+   "name": "MK-ES300",
+   "model": "MK-ES300"
+  }
+ ],
  "MIKU": [
   {
    "device": "TAB63A",
@@ -139318,6 +139325,11 @@
    "model": "Polestar"
   },
   {
+   "device": "jalapeno",
+   "name": "Polestar",
+   "model": "PS4"
+  },
+  {
    "device": "moose",
    "name": "Polestar",
    "model": "Polestar"
@@ -166690,6 +166702,11 @@
    "model": "SM-R866U"
   },
   {
+   "device": "projectx2bl",
+   "name": "Galaxy Watch Ultra",
+   "model": "SM-L700"
+  },
+  {
    "device": "projectx2ul",
    "name": "Galaxy Watch Ultra",
    "model": "SM-L7050"
@@ -191711,6 +191728,11 @@
    "model": "P30"
   },
   {
+   "device": "P30",
+   "name": "P30_ROW",
+   "model": "P30_ROW"
+  },
+  {
    "device": "P30_B",
    "name": "P30_ROW",
    "model": "P30"
@@ -200805,6 +200827,11 @@
    "device": "L10_T08_EEA",
    "name": "L10_T08_EEA",
    "model": "L10_T08"
+  },
+  {
+   "device": "L10_T08_EEA",
+   "name": "L10_T08_EEA",
+   "model": "L10_T08_EEA"
   },
   {
    "device": "L10_T10",

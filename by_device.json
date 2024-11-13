@@ -54388,6 +54388,11 @@
    "model": "P30"
   },
   {
+   "brand": "Teclast",
+   "name": "P30_ROW",
+   "model": "P30_ROW"
+  },
+  {
    "brand": "iNew",
    "name": "P30",
    "model": "P30"
@@ -144423,6 +144428,13 @@
    "model": "Model-6-Pro-Max-4G"
   }
  ],
+ "MK-ES300": [
+  {
+   "brand": "MIKITECH",
+   "name": "MK-ES300",
+   "model": "MK-ES300"
+  }
+ ],
  "TAB63A": [
   {
    "brand": "MIKU",
@@ -183247,6 +183259,13 @@
    "model": "Volvo"
   }
  ],
+ "jalapeno": [
+  {
+   "brand": "Polestar",
+   "name": "Polestar",
+   "model": "PS4"
+  }
+ ],
  "moose": [
   {
    "brand": "Polestar",
@@ -215404,6 +215423,13 @@
    "brand": "Samsung",
    "name": "Galaxy Watch FE",
    "model": "SM-R866U"
+  }
+ ],
+ "projectx2bl": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch Ultra",
+   "model": "SM-L700"
   }
  ],
  "projectx2ul": [
@@ -254342,6 +254368,11 @@
    "brand": "VASOUN",
    "name": "L10_T08_EEA",
    "model": "L10_T08"
+  },
+  {
+   "brand": "VASOUN",
+   "name": "L10_T08_EEA",
+   "model": "L10_T08_EEA"
   }
  ],
  "L10_T10": [
