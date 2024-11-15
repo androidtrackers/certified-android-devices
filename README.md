@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-14
+Last sync is 2024-11-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -389,6 +389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|MID-789A100-EEA|MID_789A100_EEA|MID-789A100-EEA|
 |AWOW|MID_1085_EEA|MID_1085_EEA|MID_1085_EEA|
 |AWOW|MID_1089IPS_EEA|MID_1089IPS_EEA|MID_1089IPS_EEA|
+|AWOW|P11_EEA|P11_EEA|P11_EEA|
 |AWOW|UTBook|UTBook|UTBook|
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
 |AX-META|AX_META_Tab_7|AX_META_Tab_7|AX_META_Tab_7|
@@ -3082,6 +3083,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_B60Pro|Bmobile_B60Pro|Bmobile_B60Pro|
 |BMobile|Bmobile_BM65Plus|Bmobile_BM65Plus|BM65Plus|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
+|BMobile|Cosmo B6|Bmobile_COSMO_B6|COSMO_B6|
+|BMobile|Cosmo B6|Bmobile_COSMO_B6_TG|COSMO_B6_TG|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BMobile|NOVUS65|Bmobile_NOVUS65_TG06|NOVUS65_TG06|
 |BMobile|NOVUS65|Bmobile_NOVUS65_TG07|NOVUS65_TG07|
@@ -14864,6 +14867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|IRAT803|IRAT803|IRAT803|
 |IRA (explore more)|IRAT803|IRAT803|Ira_bharatab_803|
 |IRA (explore more)|IRA_DUO_PLUS|IRA_DUO_PLUS|IRA_DUO_PLUS|
+|IRA (explore more)|IRA_DUO_PRO_5G|IRA_DUO_PRO_5G|IRA DUO PRO 5G|
 |IRA (explore more)|IRA_T1029|IRA_T1029|IRA_T1029|
 |IRA (explore more)|IRA_W801|IRA_W801|IRA_W801|
 |IRA (explore more)|T1015|T1015|IRA_T1015|
@@ -18935,6 +18939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUNA|LUNA V6 4GB|LUNA_V6_4GB|LUNA V6 4GB|
 |LUNA|LUNA_G6|G6|LUNA G6|
 |LUNA|LUNA_G6E|G6E|LUNA G6E|
+|LUNAR|Lunar Eclipse L1|Lunar_Eclipse_L1|Eclipse L1|
 |LUSH_MINT|L1582C|L1582C|L1582C|
 |LUSH_MINT|L1589K|L1589K|L1589K|
 |LUSH_MINT|LM5314G|LM5314G|LM5314G|
@@ -25330,9 +25335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X7 Ultra|OP565FL1|PHY110|
 |Oppo|Find X7 Ultra 卫星通信版|OP5660L1|PHY120|
 |Oppo|Find X8|OP5A3DL1|PKB110|
-|Oppo|Find X8|OP5AA5L1|CPH2651|
 |Oppo|Find X8 Pro|OP5A41L1|PKC110|
-|Oppo|Find X8 Pro|OP5AB0L1|CPH2659|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
@@ -26117,6 +26120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C61|blue|2312BPC51H|
 |POCO|POCO C65|gale|2310FPCA4I|
 |POCO|POCO C65|gust|2310FPCA4G|
+|POCO|POCO C75|lake|2410FPCC5G|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -28745,6 +28749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98I|
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|24040RA98R|
 |Redmi|Redmi Note 13R|breeze|2406ERN9CC|
+|Redmi|Redmi Note 14 5G|beryl|24094RAD4C|
 |Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
@@ -28845,6 +28850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19_Max_2_128GB|S19_Max_2_128GB|S19 Max 2/128GB|
 |Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
 |Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
+|Reeder|S23 Pro Max 256GB|S23_Pro_Max_256GB|S23 Pro Max 256GB|
 |Reeder|S53|S53|S53|
 |Reeder|S71|S71|S71|
 |Reeder|T8|reeder_T8|reeder_T8|
@@ -39134,6 +39140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VICKUN|N101C|N101C|N101C|
 |VICTUS|VRS5_Plus|VRS5_Plus|VRS5_Plus|
 |VICTUS|VRS6_Plus|VRS6_Plus|VRS6 Plus|
+|VID(CN)|GQ3107TF3|GQ3107TF3|GQ3107TF3|
 |VIKUSHA|V-E5|V-E5|V-E5|
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|

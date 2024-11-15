@@ -8214,6 +8214,18 @@
    "model": "MID_1089IPS_EEA"
   }
  ],
+ "P11_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "P11_EEA",
+   "model": "P11_EEA"
+  },
+  {
+   "brand": "Hyjoy",
+   "name": "P11_EEA",
+   "model": "P11_EEA"
+  }
+ ],
  "UTBook": [
   {
    "brand": "AWOW",
@@ -31548,6 +31560,20 @@
    "brand": "BMobile",
    "name": "Bmoblie AX683",
    "model": "AX683"
+  }
+ ],
+ "Bmobile_COSMO_B6": [
+  {
+   "brand": "BMobile",
+   "name": "Cosmo B6",
+   "model": "COSMO_B6"
+  }
+ ],
+ "Bmobile_COSMO_B6_TG": [
+  {
+   "brand": "BMobile",
+   "name": "Cosmo B6",
+   "model": "COSMO_B6_TG"
   }
  ],
  "Bmobile_FUN_4_2018": [
@@ -106395,13 +106421,6 @@
    "model": "KT1006"
   }
  ],
- "P11_EEA": [
-  {
-   "brand": "Hyjoy",
-   "name": "P11_EEA",
-   "model": "P11_EEA"
-  }
- ],
  "DV8038": [
   {
    "brand": "Hykker",
@@ -108496,6 +108515,13 @@
    "brand": "IRA (explore more)",
    "name": "IRA_DUO_PLUS",
    "model": "IRA_DUO_PLUS"
+  }
+ ],
+ "IRA_DUO_PRO_5G": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRA_DUO_PRO_5G",
+   "model": "IRA DUO PRO 5G"
   }
  ],
  "IRA_T1029": [
@@ -132298,6 +132324,13 @@
    "brand": "LUNA",
    "name": "LUNA_G6E",
    "model": "LUNA G6E"
+  }
+ ],
+ "Lunar_Eclipse_L1": [
+  {
+   "brand": "LUNAR",
+   "name": "Lunar Eclipse L1",
+   "model": "Eclipse L1"
   }
  ],
  "L1582C": [
@@ -158098,6 +158131,11 @@
    "model": "XT1965-6"
   },
   {
+   "brand": "POCO",
+   "name": "POCO C75",
+   "model": "2410FPCC5G"
+  },
+  {
    "brand": "Redmi",
    "name": "Redmi 14C",
    "model": "2409BRN2CY"
@@ -172340,25 +172378,11 @@
    "model": "PKB110"
   }
  ],
- "OP5AA5L1": [
-  {
-   "brand": "Oppo",
-   "name": "Find X8",
-   "model": "CPH2651"
-  }
- ],
  "OP5A41L1": [
   {
    "brand": "Oppo",
    "name": "Find X8 Pro",
    "model": "PKC110"
-  }
- ],
- "OP5AB0L1": [
-  {
-   "brand": "Oppo",
-   "name": "Find X8 Pro",
-   "model": "CPH2659"
   }
  ],
  "PBCM30": [
@@ -192958,6 +192982,13 @@
    "model": "24040RA98R"
   }
  ],
+ "beryl": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 14 5G",
+   "model": "24094RAD4C"
+  }
+ ],
  "amethyst": [
   {
    "brand": "Redmi",
@@ -193586,6 +193617,13 @@
    "brand": "Reeder",
    "name": "S23 Pro Max",
    "model": "S23 Pro Max"
+  }
+ ],
+ "S23_Pro_Max_256GB": [
+  {
+   "brand": "Reeder",
+   "name": "S23 Pro Max 256GB",
+   "model": "S23 Pro Max 256GB"
   }
  ],
  "reeder_T8": [
@@ -254647,6 +254685,13 @@
    "brand": "VICTUS",
    "name": "VRS6_Plus",
    "model": "VRS6 Plus"
+  }
+ ],
+ "GQ3107TF3": [
+  {
+   "brand": "VID(CN)",
+   "name": "GQ3107TF3",
+   "model": "GQ3107TF3"
   }
  ],
  "V-E5": [

@@ -2119,6 +2119,11 @@
    "model": "MID_1089IPS_EEA"
   },
   {
+   "device": "P11_EEA",
+   "name": "P11_EEA",
+   "model": "P11_EEA"
+  },
+  {
    "device": "UTBook",
    "name": "UTBook",
    "model": "UTBook"
@@ -15930,6 +15935,16 @@
    "device": "Bmobile_AX683_MV04",
    "name": "Bmoblie AX683",
    "model": "AX683"
+  },
+  {
+   "device": "Bmobile_COSMO_B6",
+   "name": "Cosmo B6",
+   "model": "COSMO_B6"
+  },
+  {
+   "device": "Bmobile_COSMO_B6_TG",
+   "name": "Cosmo B6",
+   "model": "COSMO_B6_TG"
   },
   {
    "device": "Bmobile_FUN_4_2018",
@@ -76682,6 +76697,11 @@
    "model": "IRA_DUO_PLUS"
   },
   {
+   "device": "IRA_DUO_PRO_5G",
+   "name": "IRA_DUO_PRO_5G",
+   "model": "IRA DUO PRO 5G"
+  },
+  {
    "device": "IRA_T1029",
    "name": "IRA_T1029",
    "model": "IRA_T1029"
@@ -97529,6 +97549,13 @@
    "device": "G6E",
    "name": "LUNA_G6E",
    "model": "LUNA G6E"
+  }
+ ],
+ "LUNAR": [
+  {
+   "device": "Lunar_Eclipse_L1",
+   "name": "Lunar Eclipse L1",
+   "model": "Eclipse L1"
   }
  ],
  "LUSH_MINT": [
@@ -130414,19 +130441,9 @@
    "model": "PKB110"
   },
   {
-   "device": "OP5AA5L1",
-   "name": "Find X8",
-   "model": "CPH2651"
-  },
-  {
    "device": "OP5A41L1",
    "name": "Find X8 Pro",
    "model": "PKC110"
-  },
-  {
-   "device": "OP5AB0L1",
-   "name": "Find X8 Pro",
-   "model": "CPH2659"
   },
   {
    "device": "FIND5",
@@ -134443,6 +134460,11 @@
    "device": "gust",
    "name": "POCO C65",
    "model": "2310FPCA4G"
+  },
+  {
+   "device": "lake",
+   "name": "POCO C75",
+   "model": "2410FPCC5G"
   },
   {
    "device": "lmi",
@@ -147947,6 +147969,11 @@
    "model": "2406ERN9CC"
   },
   {
+   "device": "beryl",
+   "name": "Redmi Note 14 5G",
+   "model": "24094RAD4C"
+  },
+  {
    "device": "amethyst",
    "name": "Redmi Note 14 Pro+",
    "model": "24115RA8EC"
@@ -148449,6 +148476,11 @@
    "device": "S23_Pro_Max",
    "name": "S23 Pro Max",
    "model": "S23 Pro Max"
+  },
+  {
+   "device": "S23_Pro_Max_256GB",
+   "name": "S23 Pro Max 256GB",
+   "model": "S23 Pro Max 256GB"
   },
   {
    "device": "S53",
@@ -201070,6 +201102,13 @@
    "device": "VRS6_Plus",
    "name": "VRS6_Plus",
    "model": "VRS6 Plus"
+  }
+ ],
+ "VID(CN)": [
+  {
+   "device": "GQ3107TF3",
+   "name": "GQ3107TF3",
+   "model": "GQ3107TF3"
   }
  ],
  "VIKUSHA": [
