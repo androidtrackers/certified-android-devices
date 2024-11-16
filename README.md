@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-15
+Last sync is 2024-11-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14857,6 +14857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|iMax_EC1053|iMax_EC1053|iMax_EC1053|
 |IQU(SZ)|IQUSMARTEASYT10W|IQUSMARTEASYT10W|IQUSMARTEASYT10W|
 |IQU_GROUP|IQUSMARTEASYT8W|IQUSMARTEASYT8W|IQU SMARTEasy T8w|
+|IQU_GROUP|IQUSMARTEASYT8W|IQUSMARTEASYT8W|IQU SmartEasy T8w|
 |IQU_GROUP|IQU_T10_4G|IQU_T10_4G|IQU T10 4G|
 |IQU_GROUP|IQU_T8_4G|IQU_T8_4G|IQU T8 4G|
 |IQU_GROUP|SMARTEasy_Q50|SMARTEasy_Q50|SMARTEasy_Q50|
@@ -24502,6 +24503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|N10|S6603LA|S6603L|
 |Nuu|N12|S6008LA|S6008L|
 |Nuu|N13|S6514LA|S6514L|
+|Nuu|N20|S6603LA|S6603L|
 |Nuu|N30|S6704LA|S6704L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
@@ -45100,6 +45102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Note 60|RE6054|RMX3933|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
+|realme|realme P1 Speed 5G|RE6066L1|RMX5004|
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
@@ -45167,6 +45170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我13 Pro|RE601EL1|RMX5002|
 |realme|真我13 Pro+|RE5C49L1|RMX3920|
 |realme|真我13 Pro至尊版|RE5C49L1|RMX3989|
+|realme|真我G T7 Pro|RE6018L1|RMX5010|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
@@ -45174,7 +45178,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT Neo6|RE5C46L1|RMX3852|
 |realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
 |realme|真我GT6|RE5C4FL1|RMX3800|
-|realme|真我GT7 Pro|RE6018L1|RMX5010|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|

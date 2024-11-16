@@ -108447,6 +108447,11 @@
    "brand": "IQU_GROUP",
    "name": "IQUSMARTEASYT8W",
    "model": "IQU SMARTEasy T8w"
+  },
+  {
+   "brand": "IQU_GROUP",
+   "name": "IQUSMARTEASYT8W",
+   "model": "IQU SmartEasy T8w"
   }
  ],
  "IQU_T10_4G": [
@@ -167476,6 +167481,11 @@
   {
    "brand": "Nuu",
    "name": "N10",
+   "model": "S6603L"
+  },
+  {
+   "brand": "Nuu",
+   "name": "N20",
    "model": "S6603L"
   }
  ],
@@ -288687,6 +288697,11 @@
    "brand": "realme",
    "name": "realme NARZO 70 Turbo 5G",
    "model": "RMX5003"
+  },
+  {
+   "brand": "realme",
+   "name": "realme P1 Speed 5G",
+   "model": "RMX5004"
   }
  ],
  "RMX2061L1": [
@@ -289416,6 +289431,13 @@
    "model": "RMX3989"
   }
  ],
+ "RE6018L1": [
+  {
+   "brand": "realme",
+   "name": "真我G T7 Pro",
+   "model": "RMX5010"
+  }
+ ],
  "RE5471": [
   {
    "brand": "realme",
@@ -289456,13 +289478,6 @@
    "brand": "realme",
    "name": "真我GT6",
    "model": "RMX3800"
-  }
- ],
- "RE6018L1": [
-  {
-   "brand": "realme",
-   "name": "真我GT7 Pro",
-   "model": "RMX5010"
   }
  ],
  "RE548B": [

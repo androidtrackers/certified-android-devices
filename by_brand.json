@@ -76645,6 +76645,11 @@
    "model": "IQU SMARTEasy T8w"
   },
   {
+   "device": "IQUSMARTEASYT8W",
+   "name": "IQUSMARTEASYT8W",
+   "model": "IQU SmartEasy T8w"
+  },
+  {
    "device": "IQU_T10_4G",
    "name": "IQU_T10_4G",
    "model": "IQU T10 4G"
@@ -126142,6 +126147,11 @@
    "device": "S6514LA",
    "name": "N13",
    "model": "S6514L"
+  },
+  {
+   "device": "S6603LA",
+   "name": "N20",
+   "model": "S6603L"
   },
   {
    "device": "S6704LA",
@@ -231744,6 +231754,11 @@
    "model": "RMX3844"
   },
   {
+   "device": "RE6066L1",
+   "name": "realme P1 Speed 5G",
+   "model": "RMX5004"
+  },
+  {
    "device": "RE5CA3L1",
    "name": "realme P2 Pro 5G",
    "model": "RMX3987"
@@ -232079,6 +232094,11 @@
    "model": "RMX3989"
   },
   {
+   "device": "RE6018L1",
+   "name": "真我G T7 Pro",
+   "model": "RMX5010"
+  },
+  {
    "device": "RE5471",
    "name": "真我GT 2",
    "model": "RMX3310"
@@ -232112,11 +232132,6 @@
    "device": "RE5C4FL1",
    "name": "真我GT6",
    "model": "RMX3800"
-  },
-  {
-   "device": "RE6018L1",
-   "name": "真我GT7 Pro",
-   "model": "RMX5010"
   },
   {
    "device": "RE548B",
