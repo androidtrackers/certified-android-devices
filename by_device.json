@@ -5758,6 +5758,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI 2K SMART TV"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama",
    "model": "INDURAMA GOOGLE TV"
@@ -5940,6 +5945,11 @@
   {
    "brand": "KTCtv",
    "name": "XELL",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ZITRO",
    "model": "2K SMART TV"
   },
   {
@@ -39331,6 +39341,13 @@
    "brand": "Blu",
    "name": "G34",
    "model": "G34"
+  }
+ ],
+ "G1110": [
+  {
+   "brand": "Blu",
+   "name": "G35",
+   "model": "G35"
   }
  ],
  "G0730WW": [
@@ -76631,6 +76648,13 @@
    "brand": "GSmart",
    "name": "Tuku T2",
    "model": "GSmart Tuku T2"
+  }
+ ],
+ "GTI_T60": [
+  {
+   "brand": "GTI-PRO",
+   "name": "GTI_T60",
+   "model": "GTI_T60"
   }
  ],
  "Inspire_4": [
@@ -260746,6 +260770,13 @@
    "brand": "Vivo",
    "name": "X200 Pro 卫星通信版",
    "model": "V2405DA"
+  }
+ ],
+ "V2413": [
+  {
+   "brand": "Vivo",
+   "name": "X200 Pro",
+   "model": "V2413"
   }
  ],
  "2004": [

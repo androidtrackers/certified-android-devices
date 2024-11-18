@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-17
+Last sync is 2024-11-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4151,6 +4151,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G33|G0892_SYN|G33|
 |Blu|G33|G0894|G33|
 |Blu|G34|G1070|G34|
+|Blu|G35|G1110|G35|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
@@ -9500,6 +9501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GSmart|Simba SX1|bravo|Simba SX1|
 |GSmart|T4|GSmart_T4|GSmart T4|
 |GSmart|Tuku T2|Tuku_T2|GSmart Tuku T2|
+|GTI-PRO|GTI_T60|GTI_T60|GTI_T60|
 |GTPL|Inspire 4.0|Inspire_4|Inspire_4|
 |GTPL|Shockwave|Shockwave|Shockwave|
 |GTX(A)|GTX_JACULUS|GTX_JACULUS|GTX_JACULUS|
@@ -14590,6 +14592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|lavender|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|lavender|HYUNDAI 4K SMART TV|
 |Hyundai|HYUNDAI|mountbaker|2K SMART TV|
+|Hyundai|HYUNDAI|mountbaker|HYUNDAI 2K SMART TV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 2K Android TV-A|lasalle|HYUNDAI 2K Android TV-A|
@@ -16722,6 +16725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
 |KTCtv|YARA|hongkong|4K SMART TV|
+|KTCtv|ZITRO|mountbaker|2K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
@@ -40148,6 +40152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|X100s|PD2309|V2359A|
 |Vivo|X100s Pro|PD2324|V2324HA|
 |Vivo|X200 Pro|PD2405|V2405A|
+|Vivo|X200 Pro|V2413|V2413|
 |Vivo|X200 Pro 卫星通信版|PD2405|V2405A|
 |Vivo|X200 Pro 卫星通信版|PD2405|V2405DA|
 |Vivo|X5|X5|vivo X5|

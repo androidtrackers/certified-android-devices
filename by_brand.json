@@ -21417,6 +21417,11 @@
    "model": "G34"
   },
   {
+   "device": "G1110",
+   "name": "G35",
+   "model": "G35"
+  },
+  {
    "device": "G0730WW",
    "name": "G40",
    "model": "G40"
@@ -49386,6 +49391,13 @@
    "model": "GSmart Tuku T2"
   }
  ],
+ "GTI-PRO": [
+  {
+   "device": "GTI_T60",
+   "name": "GTI_T60",
+   "model": "GTI_T60"
+  }
+ ],
  "GTPL": [
   {
    "device": "Inspire_4",
@@ -75240,6 +75252,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI 2K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "HYUNDAI",
    "model": "2K SMART TV"
@@ -86256,6 +86273,11 @@
    "device": "hongkong",
    "name": "YARA",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "mountbaker",
+   "name": "ZITRO",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -206278,6 +206300,11 @@
    "device": "PD2405",
    "name": "X200 Pro",
    "model": "V2405A"
+  },
+  {
+   "device": "V2413",
+   "name": "X200 Pro",
+   "model": "V2413"
   },
   {
    "device": "PD2405",
