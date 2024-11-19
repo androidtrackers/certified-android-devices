@@ -14550,6 +14550,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "MASTERTECH",
+   "name": "MASTERTECH",
+   "model": "MASTERTECH GOOGLE TV"
+  },
+  {
    "brand": "Motorola",
    "name": "Motorola",
    "model": "MOTOROLA GOOGLE TV 4K"
@@ -18018,6 +18023,13 @@
    "brand": "Alldocube",
    "name": "iPlay60_S",
    "model": "iPlay60_S"
+  }
+ ],
+ "iPlay60_mini_Pro": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay60_mini_Pro",
+   "model": "iPlay60_mini_Pro"
   }
  ],
  "U812": [
@@ -58449,6 +58461,11 @@
   {
    "brand": "Datamini",
    "name": "T84G_T310A14",
+   "model": "T84G"
+  },
+  {
+   "brand": "Datamini",
+   "name": "T84G_T310A14",
    "model": "T84G_T310A14"
   }
  ],
@@ -61611,6 +61628,13 @@
    "model": "Celero3 5G+"
   }
  ],
+ "SN339D": [
+  {
+   "brand": "Dish",
+   "name": "Celero5G SC",
+   "model": "SN339D"
+  }
+ ],
  "dish_cable_bcm": [
   {
    "brand": "Dish",
@@ -61644,13 +61668,6 @@
    "brand": "Dish",
    "name": "SL201D",
    "model": "SL201D"
-  }
- ],
- "SN339D": [
-  {
-   "brand": "Dish",
-   "name": "SN339D",
-   "model": "SN339D"
   }
  ],
  "HiCast": [
@@ -92682,6 +92699,11 @@
   }
  ],
  "HLTE109E_01": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U53"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense U70 Pro",
@@ -195371,6 +195393,11 @@
   {
    "brand": "SGIN",
    "name": "T12S",
+   "model": "T120G"
+  },
+  {
+   "brand": "SGIN",
+   "name": "T12S",
    "model": "T12S"
   }
  ],
@@ -231970,6 +231997,13 @@
    "model": "IP1800"
   }
  ],
+ "IP2000": [
+  {
+   "brand": "Swisscom",
+   "name": "IP2000",
+   "model": "IP2000"
+  }
+ ],
  "IP2300": [
   {
    "brand": "Swisscom",
@@ -243737,6 +243771,11 @@
    "brand": "Teclast",
    "name": "M50-ROW",
    "model": "M50"
+  },
+  {
+   "brand": "Teclast",
+   "name": "M50-ROW",
+   "model": "M50-ROW"
   }
  ],
  "M50HD_EEA": [
@@ -253691,6 +253730,13 @@
    "brand": "Uneone",
    "name": "SD80",
    "model": "SD80"
+  }
+ ],
+ "HP43A": [
+  {
+   "brand": "Unifi-TV",
+   "name": "unifi-TV",
+   "model": "unifi-TV"
   }
  ],
  "U5_Breeze": [

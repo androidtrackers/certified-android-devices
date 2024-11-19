@@ -6913,6 +6913,11 @@
    "model": "iPlay60_S"
   },
   {
+   "device": "iPlay60_mini_Pro",
+   "name": "iPlay60_mini_Pro",
+   "model": "iPlay60_mini_Pro"
+  },
+  {
    "device": "U812",
    "name": "iPlay60_mini_Turbo",
    "model": "iPlay60 mini Turbo"
@@ -35287,6 +35292,11 @@
   {
    "device": "T84G_T310A14",
    "name": "T84G_T310A14",
+   "model": "T84G"
+  },
+  {
+   "device": "T84G_T310A14",
+   "name": "T84G_T310A14",
    "model": "T84G_T310A14"
   },
   {
@@ -37588,6 +37598,11 @@
    "model": "Celero3 5G+"
   },
   {
+   "device": "SN339D",
+   "name": "Celero5G SC",
+   "model": "SN339D"
+  },
+  {
    "device": "dish_cable_bcm",
    "name": "EVOLVE",
    "model": "SH960C-DS"
@@ -37611,11 +37626,6 @@
    "device": "SL201D",
    "name": "SL201D",
    "model": "SL201D"
-  },
-  {
-   "device": "SN339D",
-   "name": "SN339D",
-   "model": "SN339D"
   },
   {
    "device": "HiCast",
@@ -62578,6 +62588,11 @@
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
    "model": "Hisense Y81 Pro"
+  },
+  {
+   "device": "HLTE109E_01",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U53"
   },
   {
    "device": "HLTE109E_01",
@@ -106681,6 +106696,11 @@
    "model": "M2M-3T"
   },
   {
+   "device": "lavender",
+   "name": "MASTERTECH",
+   "model": "MASTERTECH GOOGLE TV"
+  },
+  {
    "device": "R3",
    "name": "R3",
    "model": "R3"
@@ -150250,6 +150270,11 @@
   {
    "device": "T12S",
    "name": "T12S",
+   "model": "T120G"
+  },
+  {
+   "device": "T12S",
+   "name": "T12S",
    "model": "T12S"
   },
   {
@@ -180300,6 +180325,11 @@
    "model": "IP1800"
   },
   {
+   "device": "IP2000",
+   "name": "IP2000",
+   "model": "IP2000"
+  },
+  {
    "device": "IP2300",
    "name": "TV-Box5",
    "model": "IP2300"
@@ -191527,6 +191557,11 @@
    "model": "M50"
   },
   {
+   "device": "M50-ROW",
+   "name": "M50-ROW",
+   "model": "M50-ROW"
+  },
+  {
    "device": "M50HD_EEA",
    "name": "M50HD_EEA",
    "model": "M50HD"
@@ -200221,6 +200256,11 @@
  "Unifi-TV": [
   {
    "device": "HP40A3",
+   "name": "unifi-TV",
+   "model": "unifi-TV"
+  },
+  {
+   "device": "HP43A",
    "name": "unifi-TV",
    "model": "unifi-TV"
   }

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-18
+Last sync is 2024-11-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1323,6 +1323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay50_Mini_Lite|U807|iPlay50_Mini_Lite|
 |Alldocube|iPlay50_SE|iPlay50_SE|iPlay50_SE|
 |Alldocube|iPlay60_S|U1033|iPlay60_S|
+|Alldocube|iPlay60_mini_Pro|iPlay60_mini_Pro|iPlay60_mini_Pro|
 |Alldocube|iPlay60_mini_Turbo|U812|iPlay60 mini Turbo|
 |Alldocube|iPlay9T|U1008|iPlay9T|
 |Alldocube|iPlay_20|iPlay_20|iPlay_20|
@@ -6815,6 +6816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T8004G|T8004G|T8004G|
 |Datamini|T84G|T84G|T84G|
 |Datamini|T84G|T84G_T310|T84G|
+|Datamini|T84G_T310A14|T84G_T310A14|T84G|
 |Datamini|T84G_T310A14|T84G_T310A14|T84G_T310A14|
 |Datamini|T84G_T310_332|T84G_T310_332|T84G_T310_332|
 |Datamini|TPOS74G-IGF720|TPOS74G-IGF720|TPOS74G-IGF720|
@@ -7256,12 +7258,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|Celero 5G 2.0|DSH98123|Celero5G|
 |Dish|Celero3 5G|U653DS|Celero3 5G|
 |Dish|Celero3 5G+|U695DS|Celero3 5G+|
+|Dish|Celero5G SC|SN339D|SN339D|
 |Dish|EVOLVE|dish_cable_bcm|SH960C-DS|
 |Dish|EVOLVE 2|m377_dish|EVOLVE 2|
 |Dish|Hopper Plus|SNAP2|Hopper Plus|
 |Dish|Joey 4|ATVMJ4|Joey 4|
 |Dish|SL201D|SL201D|SL201D|
-|Dish|SN339D|SN339D|SN339D|
 |Dish|SV10|HiCast|SV10|
 |Dish|Summit 5G|SN339D-SMT|SN339D-SMT|
 |Dish|Wireless Joey 4|ATVWJ4|Wireless Joey 4|
@@ -12072,6 +12074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U62 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense Y81 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U53|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_03|Hisense U70 Pro|
@@ -20733,6 +20736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
 |MASTERTECH|77-EV|77-EV|77-EV|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
+|MASTERTECH|MASTERTECH|lavender|MASTERTECH GOOGLE TV|
 |MASTERTECH|R3|R3|R3|
 |MASTERTECH|R4|R4|R4|
 |MAXHUB|U30|rk3588_t|U30|
@@ -29176,6 +29180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SGIN|SGIN_X10_EEA|SGIN_X10_EEA|SGIN_X10_EEA|
 |SGIN|T10S|T10S|T10S|
 |SGIN|T10S_EEA|T10S|T10S|
+|SGIN|T12S|T12S|T120G|
 |SGIN|T12S|T12S|T12S|
 |SGIN|T12S_EEA|T12S_EEA|T12S_EEA|
 |SGIN|T12S_ROW|T12S_ROW|T12S_ROW|
@@ -35096,6 +35101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SwissMobility|Z72|Z72|Z72|
 |SwissMobility|Z9|Z9|Z9|
 |Swisscom|IP1800|IP1800|IP1800|
+|Swisscom|IP2000|IP2000|IP2000|
 |Swisscom|TV-Box5|IP2300|IP2300|
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
@@ -37293,6 +37299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M40_ROW|M40_ROW|M40_ROW|
 |Teclast|M50-EEA|M50-EEA|M50|
 |Teclast|M50-ROW|M50-ROW|M50|
+|Teclast|M50-ROW|M50-ROW|M50-ROW|
 |Teclast|M50HD_EEA|M50HD_EEA|M50HD|
 |Teclast|M50HD_EEA|M50HD_EEA|M50HD_EEA|
 |Teclast|M50HD_EEA|M50HD_T|M50HD_EEA|
@@ -38979,6 +38986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Uneone|SD70|SD70|SD70|
 |Uneone|SD80|SD80|SD80|
 |Unifi-TV|unifi-TV|HP40A3|unifi-TV|
+|Unifi-TV|unifi-TV|HP43A|unifi-TV|
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
