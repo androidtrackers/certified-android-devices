@@ -132,6 +132,13 @@
    "model": "VT-7GE"
   }
  ],
+ "3nStar": [
+  {
+   "device": "Nustar65",
+   "name": "Nustar65",
+   "model": "Nustar65"
+  }
+ ],
  "4good": [
   {
    "device": "4GOOD_Light_B100",
@@ -4716,6 +4723,11 @@
    "model": "PIC10GS10"
   },
   {
+   "device": "PIC10GS13",
+   "name": "PIC10GS13",
+   "model": "PIC10GS13"
+  },
+  {
    "device": "PIC10GS8",
    "name": "PIC10GS8",
    "model": "PIC10GS8"
@@ -4724,6 +4736,11 @@
    "device": "PIC7GS10-A",
    "name": "PIC7GS10-A",
    "model": "PIC7GS10-A"
+  },
+  {
+   "device": "PIC7GS13",
+   "name": "PIC7GS13",
+   "model": "PIC7GS13"
   },
   {
    "device": "PIC7GS8",
@@ -8148,6 +8165,31 @@
    "model": "NW1495T"
   },
   {
+   "device": "AP2718T",
+   "name": "Packgo",
+   "model": "AP2718T"
+  },
+  {
+   "device": "WF1589T",
+   "name": "WF1589T",
+   "model": "WF1589T"
+  },
+  {
+   "device": "WF2189T",
+   "name": "WF2189T",
+   "model": "WF2189T"
+  },
+  {
+   "device": "WF2489T",
+   "name": "WF2489T",
+   "model": "WF2489T"
+  },
+  {
+   "device": "WF3289T",
+   "name": "WF3289T",
+   "model": "WF3289T"
+  },
+  {
    "device": "NW1495T",
    "name": "elcnw tablet",
    "model": "NW1495T_EEA"
@@ -11328,6 +11370,26 @@
    "model": "ASUS_AI2401_D"
   },
   {
+   "device": "ASUSAI2501",
+   "name": "ROG Phone 9",
+   "model": "ASUSAI2501A"
+  },
+  {
+   "device": "ASUSAI2501",
+   "name": "ROG Phone 9",
+   "model": "ASUSAI2501B"
+  },
+  {
+   "device": "ASUSAI2501",
+   "name": "ROG Phone 9 Pro",
+   "model": "ASUSAI2501A"
+  },
+  {
+   "device": "ASUSAI2501",
+   "name": "ROG Phone 9 Pro",
+   "model": "ASUSAI2501C"
+  },
+  {
    "device": "ASUS_I001_1",
    "name": "ROG Phone II",
    "model": "ASUS_I001D"
@@ -12752,6 +12814,11 @@
    "device": "E55",
    "name": "E55",
    "model": "E55"
+  },
+  {
+   "device": "E65",
+   "name": "E65",
+   "model": "E65"
   },
   {
    "device": "E6A",
@@ -76667,6 +76734,11 @@
   {
    "device": "IQUSMARTEASYT10W",
    "name": "IQUSMARTEASYT10W",
+   "model": "IQU SmartEasy T10w"
+  },
+  {
+   "device": "IQUSMARTEASYT10W",
+   "name": "IQUSMARTEASYT10W",
    "model": "IQUSMARTEASYT10W"
   }
  ],
@@ -106697,6 +106769,11 @@
   },
   {
    "device": "lavender",
+   "name": "MASTERTECH",
+   "model": "MASTERTECH GOOGLE TV"
+  },
+  {
+   "device": "mountbaker",
    "name": "MASTERTECH",
    "model": "MASTERTECH GOOGLE TV"
   },
@@ -150056,6 +150133,13 @@
    "device": "SPH_650R",
    "name": "GPH-650R",
    "model": "GPH-650R"
+  }
+ ],
+ "SEGO": [
+  {
+   "device": "S_PAD",
+   "name": "S_PAD",
+   "model": "S_PAD"
   }
  ],
  "SELECLINE": [
@@ -200359,6 +200443,18 @@
    "model": "Titan pocket"
   }
  ],
+ "UnionTek": [
+  {
+   "device": "S65",
+   "name": "S65",
+   "model": "S65"
+  },
+  {
+   "device": "S65L",
+   "name": "S65L",
+   "model": "S65L"
+  }
+ ],
  "Unionaire": [
   {
    "device": "nippori",
@@ -217985,6 +218081,11 @@
    "model": "A403ZT"
   },
   {
+   "device": "Z8900S",
+   "name": "A404ZT",
+   "model": "A404ZT"
+  },
+  {
    "device": "ZTE-A880",
    "name": "A880",
    "model": "ZTE A880"
@@ -232161,11 +232262,6 @@
    "model": "RMX3989"
   },
   {
-   "device": "RE6018L1",
-   "name": "真我G T7 Pro",
-   "model": "RMX5010"
-  },
-  {
    "device": "RE5471",
    "name": "真我GT 2",
    "model": "RMX3310"
@@ -232199,6 +232295,11 @@
    "device": "RE5C4FL1",
    "name": "真我GT6",
    "model": "RMX3800"
+  },
+  {
+   "device": "RE6018L1",
+   "name": "真我GT7 Pro",
+   "model": "RMX5010"
   },
   {
    "device": "RE548B",
@@ -232239,6 +232340,11 @@
    "device": "RE5C44",
    "name": "真我V60",
    "model": "RMX3995"
+  },
+  {
+   "device": "RE6019",
+   "name": "真我V60 Pro",
+   "model": "RMX3953"
   },
   {
    "device": "RE5C44",

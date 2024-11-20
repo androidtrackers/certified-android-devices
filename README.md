@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-19
+Last sync is 2024-11-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28,6 +28,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |3Q|OC1020A|OC1020A|OC1020A|
 |3Rtablet|VT-7GA|VT-7GA|VT-7GA|
 |3Rtablet|VT-7GE|VT-7GE|VT-7GE|
+|3nStar|Nustar65|Nustar65|Nustar65|
 |4good|4GOOD Light B100|4GOOD_Light_B100|Light B100|
 |4good|A103|4GOOD_Light_A103|Light A103|
 |5STAR|5Star_Note_5|5Star_Note_5|5Star_Note_5|
@@ -896,8 +897,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|Tr4986|Tr4986|Tr4986|
 |Advantage|I101MTK|I101MTK|I101MTK|
 |Advantage Air|PIC10GS10|PIC10GS10|PIC10GS10|
+|Advantage Air|PIC10GS13|PIC10GS13|PIC10GS13|
 |Advantage Air|PIC10GS8|PIC10GS8|PIC10GS8|
 |Advantage Air|PIC7GS10-A|PIC7GS10-A|PIC7GS10-A|
+|Advantage Air|PIC7GS13|PIC7GS13|PIC7GS13|
 |Advantage Air|PIC7GS8|PIC7GS8|PIC7GS8|
 |Advantage Air|PIC8GS10|PIC8GS10|PIC8GS10|
 |Advantage Air|PIC8GS12|PIC8GS12|PIC8GS12|
@@ -1558,6 +1561,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|K109_Pro|K109_Pro|K109_Pro|
 |Apolosign|K709A|K709A|K709A|
 |Apolosign|NW1495T_ROW|NW1495T|NW1495T|
+|Apolosign|Packgo|AP2718T|AP2718T|
+|Apolosign|WF1589T|WF1589T|WF1589T|
+|Apolosign|WF2189T|WF2189T|WF2189T|
+|Apolosign|WF2489T|WF2489T|WF2489T|
+|Apolosign|WF3289T|WF3289T|WF3289T|
 |Apolosign|elcnw tablet|NW1495T|NW1495T_EEA|
 |Aprix|Aprix_Tab64_T2|Tab64_T2|Tab64_T|
 |Aprix|Phat6|Aprix_Phat6|Aprix_Phat6|
@@ -2182,6 +2190,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_A|
 |Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_C|
 |Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_D|
+|Asus|ROG Phone 9|ASUSAI2501|ASUSAI2501A|
+|Asus|ROG Phone 9|ASUSAI2501|ASUSAI2501B|
+|Asus|ROG Phone 9 Pro|ASUSAI2501|ASUSAI2501A|
+|Asus|ROG Phone 9 Pro|ASUSAI2501|ASUSAI2501C|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DE|
@@ -2466,6 +2478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|Athesi AP5706|AP5706|Athesi_AP5706|
 |Athesi|Athesi professional AP5705S|AP5705S|AP5705S|
 |Athesi|E55|E55|E55|
+|Athesi|E65|E65|E65|
 |Athesi|E6A|E6A|E6A|
 |Athesi|RT101A|RT101A|RT101A9|
 |Athesi|RT4500_EEA|RT4500|RT4500|
@@ -14861,6 +14874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
 |IQ Touch|iMax_EC1053|iMax_EC1053|iMax_EC1053|
+|IQU(SZ)|IQUSMARTEASYT10W|IQUSMARTEASYT10W|IQU SmartEasy T10w|
 |IQU(SZ)|IQUSMARTEASYT10W|IQUSMARTEASYT10W|IQUSMARTEASYT10W|
 |IQU_GROUP|IQUSMARTEASYT8W|IQUSMARTEASYT8W|IQU SMARTEasy T8w|
 |IQU_GROUP|IQUSMARTEASYT8W|IQUSMARTEASYT8W|IQU SmartEasy T8w|
@@ -20737,6 +20751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MASTERTECH|77-EV|77-EV|77-EV|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
 |MASTERTECH|MASTERTECH|lavender|MASTERTECH GOOGLE TV|
+|MASTERTECH|MASTERTECH|mountbaker|MASTERTECH GOOGLE TV|
 |MASTERTECH|R3|R3|R3|
 |MASTERTECH|R4|R4|R4|
 |MAXHUB|U30|rk3588_t|U30|
@@ -29142,6 +29157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEBBE|S23_U_EEA|S23_U_EEA|S23_U_EEA|
 |SEBBE|S23_U_US|S23_U_US|S23_U_US|
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
+|SEGO|S_PAD|S_PAD|S_PAD|
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|
 |SELECLINE|MID_9526CM|MID_9526CM|S952|
 |SEMP TCL|GO3C|GO3C|GO3C|
@@ -39005,6 +39021,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Titan|Titan|Titan|
 |Unihertz|Titan Slim|Titan_Slim|Titan Slim|
 |Unihertz|Titan pocket|Titan_pocket|Titan pocket|
+|UnionTek|S65|S65|S65|
+|UnionTek|S65L|S65L|S65L|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
 |Unionaire|UnionaireATV4K|hanyang|Unionaire Android TV|
 |Uniqcell|UNI 10X|UNI_10X|UNI 10X|
@@ -42417,6 +42435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A303ZT|Z6576S|A303ZT|
 |ZTE|A402ZT|Z5501S|A402ZT|
 |ZTE|A403ZT|Z6701S|A403ZT|
+|ZTE|A404ZT|Z8900S|A404ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|
@@ -45183,7 +45202,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我13 Pro|RE601EL1|RMX5002|
 |realme|真我13 Pro+|RE5C49L1|RMX3920|
 |realme|真我13 Pro至尊版|RE5C49L1|RMX3989|
-|realme|真我G T7 Pro|RE6018L1|RMX5010|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
@@ -45191,6 +45209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT Neo6|RE5C46L1|RMX3852|
 |realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
 |realme|真我GT6|RE5C4FL1|RMX3800|
+|realme|真我GT7 Pro|RE6018L1|RMX5010|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|
@@ -45199,6 +45218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V50|RE5C34|RMX3783|
 |realme|真我V50s|RE5C34|RMX3781|
 |realme|真我V60|RE5C44|RMX3995|
+|realme|真我V60 Pro|RE6019|RMX3953|
 |realme|真我V60s|RE5C44|RMX3996|
 |redbeat|D5|D5|D5|
 |redbeat|E3|E3|E3|

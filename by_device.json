@@ -546,6 +546,13 @@
    "model": "VT-7GE"
   }
  ],
+ "Nustar65": [
+  {
+   "brand": "3nStar",
+   "name": "Nustar65",
+   "model": "Nustar65"
+  }
+ ],
  "4GOOD_Light_B100": [
   {
    "brand": "4good",
@@ -5986,6 +5993,11 @@
    "brand": "MAG",
    "name": "MAG",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "MASTERTECH",
+   "name": "MASTERTECH",
+   "model": "MASTERTECH GOOGLE TV"
   },
   {
    "brand": "Mango",
@@ -13822,6 +13834,13 @@
    "model": "PIC10GS10"
   }
  ],
+ "PIC10GS13": [
+  {
+   "brand": "Advantage Air",
+   "name": "PIC10GS13",
+   "model": "PIC10GS13"
+  }
+ ],
  "PIC10GS8": [
   {
    "brand": "Advantage Air",
@@ -13834,6 +13853,13 @@
    "brand": "Advantage Air",
    "name": "PIC7GS10-A",
    "model": "PIC7GS10-A"
+  }
+ ],
+ "PIC7GS13": [
+  {
+   "brand": "Advantage Air",
+   "name": "PIC7GS13",
+   "model": "PIC7GS13"
   }
  ],
  "PIC7GS8": [
@@ -20122,6 +20148,41 @@
    "model": "NW1495T_EEA"
   }
  ],
+ "AP2718T": [
+  {
+   "brand": "Apolosign",
+   "name": "Packgo",
+   "model": "AP2718T"
+  }
+ ],
+ "WF1589T": [
+  {
+   "brand": "Apolosign",
+   "name": "WF1589T",
+   "model": "WF1589T"
+  }
+ ],
+ "WF2189T": [
+  {
+   "brand": "Apolosign",
+   "name": "WF2189T",
+   "model": "WF2189T"
+  }
+ ],
+ "WF2489T": [
+  {
+   "brand": "Apolosign",
+   "name": "WF2489T",
+   "model": "WF2489T"
+  }
+ ],
+ "WF3289T": [
+  {
+   "brand": "Apolosign",
+   "name": "WF3289T",
+   "model": "WF3289T"
+  }
+ ],
  "Tab64_T2": [
   {
    "brand": "Aprix",
@@ -25170,6 +25231,28 @@
    "model": "ASUS_AI2401_H"
   }
  ],
+ "ASUSAI2501": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 9",
+   "model": "ASUSAI2501A"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 9",
+   "model": "ASUSAI2501B"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 9 Pro",
+   "model": "ASUSAI2501A"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 9 Pro",
+   "model": "ASUSAI2501C"
+  }
+ ],
  "ASUS_I001_1": [
   {
    "brand": "Asus",
@@ -27007,6 +27090,13 @@
    "brand": "Mobiwire",
    "name": "Altice E55",
    "model": "E55"
+  }
+ ],
+ "E65": [
+  {
+   "brand": "Athesi",
+   "name": "E65",
+   "model": "E65"
   }
  ],
  "E6A": [
@@ -108482,6 +108572,11 @@
   }
  ],
  "IQUSMARTEASYT10W": [
+  {
+   "brand": "IQU(SZ)",
+   "name": "IQUSMARTEASYT10W",
+   "model": "IQU SmartEasy T10w"
+  },
   {
    "brand": "IQU(SZ)",
    "name": "IQUSMARTEASYT10W",
@@ -195197,6 +195292,13 @@
    "model": "GPH-650R"
   }
  ],
+ "S_PAD": [
+  {
+   "brand": "SEGO",
+   "name": "S_PAD",
+   "model": "S_PAD"
+  }
+ ],
  "MID7526CM": [
   {
    "brand": "SELECLINE",
@@ -195979,6 +196081,11 @@
  "S65": [
   {
    "brand": "SOHO STYLE",
+   "name": "S65",
+   "model": "S65"
+  },
+  {
+   "brand": "UnionTek",
    "name": "S65",
    "model": "S65"
   }
@@ -253837,6 +253944,13 @@
    "model": "Titan pocket"
   }
  ],
+ "S65L": [
+  {
+   "brand": "UnionTek",
+   "name": "S65L",
+   "model": "S65L"
+  }
+ ],
  "UNI_10X": [
   {
    "brand": "Uniqcell",
@@ -274370,6 +274484,13 @@
    "model": "A403ZT"
   }
  ],
+ "Z8900S": [
+  {
+   "brand": "ZTE",
+   "name": "A404ZT",
+   "model": "A404ZT"
+  }
+ ],
  "ZTE-A880": [
   {
    "brand": "ZTE",
@@ -289508,13 +289629,6 @@
    "model": "RMX3989"
   }
  ],
- "RE6018L1": [
-  {
-   "brand": "realme",
-   "name": "真我G T7 Pro",
-   "model": "RMX5010"
-  }
- ],
  "RE5471": [
   {
    "brand": "realme",
@@ -289557,6 +289671,13 @@
    "model": "RMX3800"
   }
  ],
+ "RE6018L1": [
+  {
+   "brand": "realme",
+   "name": "真我GT7 Pro",
+   "model": "RMX5010"
+  }
+ ],
  "RE548B": [
   {
    "brand": "realme",
@@ -289596,6 +289717,13 @@
    "brand": "realme",
    "name": "真我V50s",
    "model": "RMX3781"
+  }
+ ],
+ "RE6019": [
+  {
+   "brand": "realme",
+   "name": "真我V60 Pro",
+   "model": "RMX3953"
   }
  ],
  "redbeatA2": [
