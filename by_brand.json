@@ -33982,6 +33982,11 @@
    "model": "DG101HSTB"
   },
   {
+   "device": "DG101SVCB",
+   "name": "DG101SVCB",
+   "model": "DG101SVCB"
+  },
+  {
    "device": "DG101TBIPS",
    "name": "DG101TBIPS",
    "model": "DG101TBIPS"
@@ -50270,6 +50275,13 @@
    "device": "LYNX",
    "name": "LYNX",
    "model": "LYNX"
+  }
+ ],
+ "Gevo": [
+  {
+   "device": "Gevo_V10",
+   "name": "V10",
+   "model": "V10"
   }
  ],
  "Gfast": [
@@ -127673,6 +127685,11 @@
    "device": "A10_ROW",
    "name": "A10_ROW",
    "model": "A10"
+  },
+  {
+   "device": "A10_ROW",
+   "name": "A10_ROW",
+   "model": "A10_ROW"
   },
   {
    "device": "A11_EEA",
@@ -232544,6 +232561,13 @@
    "device": "DDT_002",
    "name": "DDT_002",
    "model": "DDT_002"
+  }
+ ],
+ "spectramobile": [
+  {
+   "device": "SpectraTab1",
+   "name": "SpectraTab1",
+   "model": "SpectraTab1"
   }
  ],
  "stc myhome": [

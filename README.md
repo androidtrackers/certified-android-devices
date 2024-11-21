@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-20
+Last sync is 2024-11-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6570,6 +6570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEYI|DEYI-10M18|DEYI-10M18|DEYI-10M18|
 |DEYI|DEYI10M18|DEYI10M18A53|DEYI10M18A53|
 |DGTEC|DG101HSTB|DG101HSTB|DG101HSTB|
+|DGTEC|DG101SVCB|DG101SVCB|DG101SVCB|
 |DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
 |DGTEC|DG101TBLS|DG101TBLS|DG101TBLS|
 |DGTEC|DG7TBIPSBT|DG7TBIPSBT|DG7TBIPSBT|
@@ -9662,6 +9663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70G2|zx70g2|ZX70G2|
 |Getac|ZX80|zx80|ZX80|
 |Getnord|LYNX|LYNX|LYNX|
+|Gevo|V10|Gevo_V10|V10|
 |Gfast|MD_97_S464A|MD_97_S464A|MD_97_S464A|
 |Ghia|A7LED2|A7LED2|A7LED2|
 |Ghia|A7_3G|A7_3G|A7_3G|
@@ -24791,6 +24793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Octopus|Octopus_One|Octopus_One|Octopus_One|
 |Odea|A10_EEA|A10_EEA|A10|
 |Odea|A10_ROW|A10_ROW|A10|
+|Odea|A10_ROW|A10_ROW|A10_ROW|
 |Odea|A11_EEA|A11_EEA|A11|
 |Odea|A11_ROW|A11_ROW|A11|
 |Odea|A12_EEA|A12_EEA|A12|
@@ -45254,6 +45257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |sky HCN|KSTB1157|K1100UA|KSTB1157|
 |sky HCN|skyhcn Android UHD STB|IMT-H6300|IMT-H6300|
 |skywooo|DDT_002|DDT_002|DDT_002|
+|spectramobile|SpectraTab1|SpectraTab1|SpectraTab1|
 |stc myhome|myHome|SEI560STC|myHome|
 |sugar_aums|QPOINT|QPI-1|QPI-1|
 |teXet|TM-4510|TM-4510|TM-4510|

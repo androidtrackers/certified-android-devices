@@ -56690,6 +56690,13 @@
    "model": "DG101HSTB"
   }
  ],
+ "DG101SVCB": [
+  {
+   "brand": "DGTEC",
+   "name": "DG101SVCB",
+   "model": "DG101SVCB"
+  }
+ ],
  "DG101TBIPS": [
   {
    "brand": "DGTEC",
@@ -77615,6 +77622,13 @@
    "brand": "Getnord",
    "name": "LYNX",
    "model": "LYNX"
+  }
+ ],
+ "Gevo_V10": [
+  {
+   "brand": "Gevo",
+   "name": "V10",
+   "model": "V10"
   }
  ],
  "MD_97_S464A": [
@@ -168999,6 +169013,11 @@
    "brand": "Odea",
    "name": "A10_ROW",
    "model": "A10"
+  },
+  {
+   "brand": "Odea",
+   "name": "A10_ROW",
+   "model": "A10_ROW"
   }
  ],
  "A11_EEA": [
@@ -289907,6 +289926,13 @@
    "brand": "skywooo",
    "name": "DDT_002",
    "model": "DDT_002"
+  }
+ ],
+ "SpectraTab1": [
+  {
+   "brand": "spectramobile",
+   "name": "SpectraTab1",
+   "model": "SpectraTab1"
   }
  ],
  "SEI560STC": [
