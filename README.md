@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-21
+Last sync is 2024-11-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1345,6 +1345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alliance|DTP9731|DTP9731|DTP9731|
 |Allnet|PrimeOne|PrimeOne|PrimeOne|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
+|Alpha|ALPHA 2K|hayward|ALPHA 2K|
 |Alpha|ALPHA 4K|lushan|ALPHA 4K|
 |Alpha|Alpha 43G7NUA|samseong|AI PONT|
 |Alpha|Alpha S6|Alpha_S6|Alpha S6|
@@ -7861,6 +7862,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|22in-I-Series-4|22in-I-Series-4|22in-I-Series-4|
 |ELO Touch|Backpack-4|Backpack-4|Backpack-4|
 |ELO Touch|Backpack-4-Value|Backpack-4-Value|Backpack-4-Value|
+|ELO Touch|EMC-M51|EMC-M51|EMC-M51|
+|ELO Touch|EMC-M51C|EMC-M51C|EMC-M51C|
 |ELO Touch|Elo-i3-15Std|Elo-i3-15Std|Elo-i3-15Std|
 |ELO Touch|Elo-i3-PUCK|Elo-i3-PUCK|Elo-i3-PUCK|
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-10Std|Elo-i3-10Std|
@@ -38623,6 +38626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 8 Pro|Armor_8_Pro|Armor 8 Pro|
 |Ulefone|Armor 9|Armor_9|Armor 9|
 |Ulefone|Armor 9E|Armor_9E|Armor 9E|
+|Ulefone|Armor Mini 20|GQ5010TH1|Armor Mini 20|
 |Ulefone|Armor Mini 20 Pro|GQ5010AH2|Armor Mini 20 Pro|
 |Ulefone|Armor Pad|Armor_Pad|Armor Pad|
 |Ulefone|Armor Pad 2|Armor_Pad_2|Armor Pad 2|

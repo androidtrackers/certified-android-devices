@@ -7039,6 +7039,11 @@
  ],
  "Alpha": [
   {
+   "device": "hayward",
+   "name": "ALPHA 2K",
+   "model": "ALPHA 2K"
+  },
+  {
    "device": "lushan",
    "name": "ALPHA 4K",
    "model": "ALPHA 4K"
@@ -40737,6 +40742,16 @@
    "device": "Backpack-4-Value",
    "name": "Backpack-4-Value",
    "model": "Backpack-4-Value"
+  },
+  {
+   "device": "EMC-M51",
+   "name": "EMC-M51",
+   "model": "EMC-M51"
+  },
+  {
+   "device": "EMC-M51C",
+   "name": "EMC-M51C",
+   "model": "EMC-M51C"
   },
   {
    "device": "Elo-i3-15Std",
@@ -198433,6 +198448,11 @@
    "device": "Armor_9E",
    "name": "Armor 9E",
    "model": "Armor 9E"
+  },
+  {
+   "device": "GQ5010TH1",
+   "name": "Armor Mini 20",
+   "model": "Armor Mini 20"
   },
   {
    "device": "GQ5010AH2",

@@ -18187,6 +18187,33 @@
    "model": "PSY7020SKD"
   }
  ],
+ "hayward": [
+  {
+   "brand": "Alpha",
+   "name": "ALPHA 2K",
+   "model": "ALPHA 2K"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MotorolaTV",
+   "model": "MotorolaTV"
+  },
+  {
+   "brand": "Polytron",
+   "name": "2K",
+   "model": "POLYTRON2K"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "ToshibaTV",
+   "model": "ToshibaTV"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "huashan_emT",
+   "model": "Toshiba TV"
+  }
+ ],
  "lushan": [
   {
    "brand": "Alpha",
@@ -65521,6 +65548,20 @@
    "brand": "ELO Touch",
    "name": "Backpack-4-Value",
    "model": "Backpack-4-Value"
+  }
+ ],
+ "EMC-M51": [
+  {
+   "brand": "ELO Touch",
+   "name": "EMC-M51",
+   "model": "EMC-M51"
+  }
+ ],
+ "EMC-M51C": [
+  {
+   "brand": "ELO Touch",
+   "name": "EMC-M51C",
+   "model": "EMC-M51C"
   }
  ],
  "Elo-i3-15Std": [
@@ -157201,28 +157242,6 @@
    "brand": "Motorola",
    "name": "motorola one",
    "model": "motorola one"
-  }
- ],
- "hayward": [
-  {
-   "brand": "Motorola",
-   "name": "MotorolaTV",
-   "model": "MotorolaTV"
-  },
-  {
-   "brand": "Polytron",
-   "name": "2K",
-   "model": "POLYTRON2K"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "ToshibaTV",
-   "model": "ToshibaTV"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "huashan_emT",
-   "model": "Toshiba TV"
   }
  ],
  "XT389": [
@@ -251686,6 +251705,13 @@
    "brand": "Ulefone",
    "name": "Armor_9E",
    "model": "Armor 9E"
+  }
+ ],
+ "GQ5010TH1": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor Mini 20",
+   "model": "Armor Mini 20"
   }
  ],
  "GQ5010AH2": [
