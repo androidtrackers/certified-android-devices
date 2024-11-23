@@ -45403,6 +45403,13 @@
    "model": "VIA G5"
   }
  ],
+ "VIA_L50": [
+  {
+   "brand": "Casper",
+   "name": "VIA L50",
+   "model": "VIA L50"
+  }
+ ],
  "CASPER_VIA_M3": [
   {
    "brand": "Casper",
@@ -45436,6 +45443,13 @@
    "brand": "Casper",
    "name": "VIA P3",
    "model": "VIA_P3"
+  }
+ ],
+ "VIA_S50": [
+  {
+   "brand": "Casper",
+   "name": "VIA S50",
+   "model": "VIA S50"
   }
  ],
  "VIA-T7D": [
@@ -82334,13 +82348,6 @@
    "model": "OC101"
   }
  ],
- "DS_D5C65RB_A": [
-  {
-   "brand": "HIKVISION",
-   "name": "DS-D5C",
-   "model": "DS_D5C65RB_A"
-  }
- ],
  "DS-MDT202": [
   {
    "brand": "HIKVISION",
@@ -82353,6 +82360,13 @@
    "brand": "HIKVISION",
    "name": "DS-MDT301",
    "model": "DS-MDT301"
+  }
+ ],
+ "DS_D5C65RB_A": [
+  {
+   "brand": "HIKVISION",
+   "name": "DS_D5C75RB_A",
+   "model": "DS_D5C65RB_A"
   }
  ],
  "P80-EEA": [

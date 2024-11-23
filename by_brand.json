@@ -25953,6 +25953,11 @@
    "model": "VIA G5"
   },
   {
+   "device": "VIA_L50",
+   "name": "VIA L50",
+   "model": "VIA L50"
+  },
+  {
    "device": "CASPER_VIA_M3",
    "name": "VIA M3",
    "model": "CASPER_VIA_M3"
@@ -25976,6 +25981,11 @@
    "device": "VIA_P3",
    "name": "VIA P3",
    "model": "VIA_P3"
+  },
+  {
+   "device": "VIA_S50",
+   "name": "VIA S50",
+   "model": "VIA S50"
   },
   {
    "device": "VIA-T7D",
@@ -53809,11 +53819,6 @@
  ],
  "HIKVISION": [
   {
-   "device": "DS_D5C65RB_A",
-   "name": "DS-D5C",
-   "model": "DS_D5C65RB_A"
-  },
-  {
    "device": "DS-MDT202",
    "name": "DS-MDT202",
    "model": "DS-MDT202"
@@ -53822,6 +53827,11 @@
    "device": "DS-MDT301",
    "name": "DS-MDT301",
    "model": "DS-MDT301"
+  },
+  {
+   "device": "DS_D5C65RB_A",
+   "name": "DS_D5C75RB_A",
+   "model": "DS_D5C65RB_A"
   }
  ],
  "HIMADE": [
