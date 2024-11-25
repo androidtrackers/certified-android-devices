@@ -4766,6 +4766,11 @@
  "Advantech": [
   {
    "device": "AIM75-LTE",
+   "name": "AIM-75",
+   "model": "AIM-75"
+  },
+  {
+   "device": "AIM75-LTE",
    "name": "AIM75-LTE",
    "model": "AIM75-LTE"
   },
@@ -53807,6 +53812,11 @@
  ],
  "HIGRACE": [
   {
+   "device": "G15",
+   "name": "G15",
+   "model": "G15"
+  },
+  {
    "device": "OC101",
    "name": "OC101",
    "model": "OC101"
@@ -84539,6 +84549,13 @@
    "device": "Touch2c",
    "name": "Touch 2C",
    "model": "K-Touch Tou ch 2c"
+  }
+ ],
+ "K3I（Indonesia）": [
+  {
+   "device": "K3I",
+   "name": "K3I",
+   "model": "K3I"
   }
  ],
  "KAAN": [
@@ -137114,6 +137131,11 @@
   }
  ],
  "Partner": [
+  {
+   "device": "A5_2_R",
+   "name": "A5_2_R",
+   "model": "A5-2-R"
+  },
   {
    "device": "Batman",
    "name": "Batman",

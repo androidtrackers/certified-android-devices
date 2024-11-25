@@ -13893,6 +13893,11 @@
  "AIM75-LTE": [
   {
    "brand": "Advantech",
+   "name": "AIM-75",
+   "model": "AIM-75"
+  },
+  {
+   "brand": "Advantech",
    "name": "AIM75-LTE",
    "model": "AIM75-LTE"
   }
@@ -82334,6 +82339,13 @@
    "model": "C-TABLET"
   }
  ],
+ "G15": [
+  {
+   "brand": "HIGRACE",
+   "name": "G15",
+   "model": "G15"
+  }
+ ],
  "OC101": [
   {
    "brand": "HIGRACE",
@@ -117840,6 +117852,13 @@
    "brand": "K-Touch",
    "name": "Touch 2C",
    "model": "K-Touch Tou ch 2c"
+  }
+ ],
+ "K3I": [
+  {
+   "brand": "K3I（Indonesia）",
+   "name": "K3I",
+   "model": "K3I"
   }
  ],
  "KAAN_A1": [
@@ -180685,6 +180704,13 @@
    "brand": "Parrot Mobile",
    "name": "Xplorer_2",
    "model": "Xplorer_2"
+  }
+ ],
+ "A5_2_R": [
+  {
+   "brand": "Partner",
+   "name": "A5_2_R",
+   "model": "A5-2-R"
   }
  ],
  "Batman": [

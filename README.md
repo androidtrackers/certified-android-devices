@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-24
+Last sync is 2024-11-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -905,6 +905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advantage Air|PIC8GS10|PIC8GS10|PIC8GS10|
 |Advantage Air|PIC8GS12|PIC8GS12|PIC8GS12|
 |Advantage Air|PIC8GS8|PIC8GS8|PIC8GS8|
+|Advantech|AIM-75|AIM75-LTE|AIM-75|
 |Advantech|AIM75-LTE|AIM75-LTE|AIM75-LTE|
 |Advantech|AIM75-WIFI|AIM75-WIFI|AIM75-WIFI|
 |Advantech|DLT-V7310AP|dlt_v7310|DLT-V7310AP|
@@ -10343,6 +10344,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEATZ|Z9910A|Z9910A|Z9910|
 |HEATZ|Z9950|Z9950|Z9950|
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
+|HIGRACE|G15|G15|G15|
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
@@ -16391,6 +16393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |K-Touch|Pace 2|Pace_2|Pace 2|
 |K-Touch|Pace 2 Lite|Pace_2_Lite|Pace 2 Lite|
 |K-Touch|Touch 2C|Touch2c|K-Touch Tou ch 2c|
+|K3I（Indonesia）|K3I|K3I|K3I|
 |KAAN|A1|KAAN_A1|KAAN_A1|
 |KAAN|KAAN_N2|KAAN_N2|KAAN_N2|
 |KAGIS|Australia|tamachi|KAGIS Android TV|
@@ -26639,6 +26642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pantech|v955|HS8929QC|Pantech V955|
 |Parrot Mobile|Prestige|Prestige|Prestige|
 |Parrot Mobile|Xplorer_2|Xplorer_2|Xplorer_2|
+|Partner|A5_2_R|A5_2_R|A5-2-R|
 |Partner|Batman|Batman|S70PCI|
 |Partner|E15 Pro|E15_Pro|E15 Pro|
 |Partner|OT-310|OT-310|OT-310|
