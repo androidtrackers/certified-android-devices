@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-25
+Last sync is 2024-11-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7863,6 +7863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|15in-I-Series-4-Value|15in-I-Series-4-Value|15in-I-Series-4-Value|
 |ELO Touch|22in-I-Series 4-Value|22in-I-Series-4-Value|22in-I-Series-4-Value|
 |ELO Touch|22in-I-Series-4|22in-I-Series-4|22in-I-Series-4|
+|ELO Touch|22in-I-Series-5|22in-I-Series-5|22in-I-Series-5|
 |ELO Touch|Backpack-4|Backpack-4|Backpack-4|
 |ELO Touch|Backpack-4-Value|Backpack-4-Value|Backpack-4-Value|
 |ELO Touch|EMC-M51|EMC-M51|EMC-M51|
@@ -12740,6 +12741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX1|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
 |Honor|Honor X9b 5G|HNALI-Q|ALI-NX3P|
+|Honor|Honor X9c Smart|HNBRC-M1|BRC-NX1|
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
@@ -39834,6 +39836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Visual Land|Prestige Prime11E|Prime11E|Prime11E|
 |Vitsmo|Zero Spin|Zero_Spin|Zero_Spin|
 |Vitumi|TV46410B01|TV46410B01|Vitumi 10.1|
+|Viture|V1231|Neckband_Pro|V1231|
 |Viumee|EV5|EV5|EV5|
 |Viumee|EV5 X|EV5_X|EV5 X|
 |Viumee|EV6|EV6|EV6|
@@ -45129,6 +45132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT 5G|RMX2202L1|RMX2202|
 |realme|realme GT 6|RE5CA6L1|RMX3851|
 |realme|realme GT 6T|RE606FL1|RMX3853|
+|realme|realme GT 7 Pro|RE605FL1|RMX5011|
 |realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|

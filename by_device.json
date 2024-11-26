@@ -65555,6 +65555,13 @@
    "model": "22in-I-Series-4"
   }
  ],
+ "22in-I-Series-5": [
+  {
+   "brand": "ELO Touch",
+   "name": "22in-I-Series-5",
+   "model": "22in-I-Series-5"
+  }
+ ],
  "Backpack-4": [
   {
    "brand": "ELO Touch",
@@ -96353,6 +96360,13 @@
    "brand": "Honor",
    "name": "Honor 200 Lite",
    "model": "LLY-NX3"
+  }
+ ],
+ "HNBRC-M1": [
+  {
+   "brand": "Honor",
+   "name": "Honor X9c Smart",
+   "model": "BRC-NX1"
   }
  ],
  "HNVCA-Q": [
@@ -258622,6 +258636,13 @@
    "model": "Vitumi 10.1"
   }
  ],
+ "Neckband_Pro": [
+  {
+   "brand": "Viture",
+   "name": "V1231",
+   "model": "V1231"
+  }
+ ],
  "EV5": [
   {
    "brand": "Viumee",
@@ -289266,6 +289287,13 @@
    "brand": "realme",
    "name": "realme GT 6T",
    "model": "RMX3853"
+  }
+ ],
+ "RE605FL1": [
+  {
+   "brand": "realme",
+   "name": "realme GT 7 Pro",
+   "model": "RMX5011"
   }
  ],
  "RE507C": [

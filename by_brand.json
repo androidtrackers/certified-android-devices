@@ -40749,6 +40749,11 @@
    "model": "22in-I-Series-4"
   },
   {
+   "device": "22in-I-Series-5",
+   "name": "22in-I-Series-5",
+   "model": "22in-I-Series-5"
+  },
+  {
    "device": "Backpack-4",
    "name": "Backpack-4",
    "model": "Backpack-4"
@@ -65948,6 +65953,11 @@
    "device": "HNALI-Q",
    "name": "Honor X9b 5G",
    "model": "ALI-NX3P"
+  },
+  {
+   "device": "HNBRC-M1",
+   "name": "Honor X9c Smart",
+   "model": "BRC-NX1"
   },
   {
    "device": "HNVER",
@@ -204716,6 +204726,13 @@
    "model": "Vitumi 10.1"
   }
  ],
+ "Viture": [
+  {
+   "device": "Neckband_Pro",
+   "name": "V1231",
+   "model": "V1231"
+  }
+ ],
  "Viumee": [
   {
    "device": "EV5",
@@ -231899,6 +231916,11 @@
    "device": "RE606FL1",
    "name": "realme GT 6T",
    "model": "RMX3853"
+  },
+  {
+   "device": "RE605FL1",
+   "name": "realme GT 7 Pro",
+   "model": "RMX5011"
   },
   {
    "device": "RE507C",
