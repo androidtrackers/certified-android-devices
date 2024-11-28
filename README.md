@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-27
+Last sync is 2024-11-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -209,6 +209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALPINE|INE-AX809|INE-AX809|INE-AX809|
 |ALPINE|Intelligent vehicle network system|INE-AW409S|INE-AW409S|
 |ALT.mive|Kids Phone|odin|AT-M130|
+|ALT.mive|Kids Phone 2|odin2|AT-M150|
 |ALT.mive|Style Folder|thor|AT-M120|
 |AMGx13e|ASPE2201|ASPE2201|ASPE2201|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
@@ -8102,6 +8103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Electroman|Electroman|zhongshan|Smart UHD TV|
 |Electroneum|electroneumM1|electroneumM1|electroneumM1|
 |Element|ELEMENT|hongkong|4K SMART TV|
+|Element|ELEMENT|khardi|4K SMART TV|
 |Element|Element|bruno|Element2KAndroidTV|
 |Element|Element|expo|ElementDeluxe4k|
 |Element|Element|kaitak|ElementPlatiumTV|
@@ -18441,6 +18443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Tribute Royal|mmh5lm|LM-X320|
 |LGE|LG U|bbg|LG-F820L|
 |LGE|LG Ultra Tab|jettalt|10A30Q|
+|LGE|LG Ultra Tab|solemiolt|10A20S|
 |LGE|LG Ultra Tab|solemiolt|10AWM20S|
 |LGE|LG V35 ThinQ|judyp|LM-V350|
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
@@ -24715,6 +24718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|M89T|M89T|M89T|
+|ONERugged|MP1TE|MP1TE|MP1TE|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
@@ -33165,6 +33169,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R9|Orga|A401SH|
 |Sharp|AQUOS R9|Orga|SH-M28|
 |Sharp|AQUOS R9|SH-51E|SH-51E|
+|Sharp|AQUOS R9 pro|Mikazuki|SH-M30|
+|Sharp|AQUOS R9 pro|SH-54E|SH-54E|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -40922,6 +40928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WAOO|Waoo TV-boks|m393gena_w|Waoo TV-boks|
 |WARP|TAB-WP11|TAB-WP11|TAB-WP11|
 |WCED|H1010_M50|H1010_M50|H1010_M50|
+|WEROCK|WEROCK Rocktab S508|S508|Rocktab S508|
 |WHOOP|TAB-8US2|TAB-8US2|TAB-8US2|
 |WHOOP|TAB_8US1|TAB_8US1|TAB_8US1|
 |WIDE|WD_PL|WD_PL|WD_PL|

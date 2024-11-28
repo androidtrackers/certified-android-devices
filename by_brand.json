@@ -1107,6 +1107,11 @@
    "model": "AT-M130"
   },
   {
+   "device": "odin2",
+   "name": "Kids Phone 2",
+   "model": "AT-M150"
+  },
+  {
    "device": "thor",
    "name": "Style Folder",
    "model": "AT-M120"
@@ -42036,6 +42041,11 @@
  "Element": [
   {
    "device": "hongkong",
+   "name": "ELEMENT",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "khardi",
    "name": "ELEMENT",
    "model": "4K SMART TV"
   },
@@ -95045,6 +95055,11 @@
   {
    "device": "solemiolt",
    "name": "LG Ultra Tab",
+   "model": "10A20S"
+  },
+  {
+   "device": "solemiolt",
+   "name": "LG Ultra Tab",
    "model": "10AWM20S"
   },
   {
@@ -127271,6 +127286,11 @@
    "device": "M89T",
    "name": "M89T",
    "model": "M89T"
+  },
+  {
+   "device": "MP1TE",
+   "name": "MP1TE",
+   "model": "MP1TE"
   },
   {
    "device": "MPC10T",
@@ -170433,6 +170453,16 @@
    "model": "SH-51E"
   },
   {
+   "device": "Mikazuki",
+   "name": "AQUOS R9 pro",
+   "model": "SH-M30"
+  },
+  {
+   "device": "SH-54E",
+   "name": "AQUOS R9 pro",
+   "model": "SH-54E"
+  },
+  {
    "device": "SHL25",
    "name": "AQUOS SERIE SHL25",
    "model": "SHL25"
@@ -210236,6 +210266,13 @@
    "device": "H1010_M50",
    "name": "H1010_M50",
    "model": "H1010_M50"
+  }
+ ],
+ "WEROCK": [
+  {
+   "device": "S508",
+   "name": "WEROCK Rocktab S508",
+   "model": "Rocktab S508"
   }
  ],
  "WHOOP": [
