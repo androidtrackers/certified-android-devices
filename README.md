@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-28
+Last sync is 2024-11-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6221,6 +6221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-Z5|L790_02|Core-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|Stellar-M6|L768|Stellar-M6|
+|Crosscall|Stellar-M6E|L768|Stellar-M6E|
 |Crosscall|Stellar-X5|L780|Stellar-X5|
 |Crosscall|TREKKER- X3|HS8952QC|TREKKER-X3|
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
@@ -7415,6 +7416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|S118|M22G|S118|
 |Doogee|S120|M22C|S punk|
 |Doogee|S200|M24P|S200|
+|Doogee|S200 X|M24PT|S200 X|
 |Doogee|S30|S30|S30|
 |Doogee|S35|S35|S35|
 |Doogee|S35|S35H|S35|
@@ -7506,6 +7508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|U10 Pro|RK1S|U10 Pro|
 |Doogee|U10KID|RK1KID|U10 Kid|
 |Doogee|U10KID|RK1KID|U10Kid|
+|Doogee|U11|T2|U11|
 |Doogee|U8|RK3|U8|
 |Doogee|U8 Kid|RK3KID|U8 Kid|
 |Doogee|U9|RK2|U9|
@@ -8658,6 +8661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows We A101FC|A101FC|A101FC|
 |FCNT|arrows We F-51B|F51B|F-51B|
 |FCNT|arrows We FCG01|FCG01|FCG01|
+|FCNT|arrows We2 A402FC|A402FC|A402FC|
 |FCNT|arrows We2 F-52E|F52E|F-52E|
 |FCNT|arrows We2 FCG02|FCG02|FCG02|
 |FCNT|arrows We2 M07|M07|M07|
@@ -24750,6 +24754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|FLAT 2|FLAT_2|FLAT 2|
 |OSCAL|FLAT 2C|FLAT_2C|FLAT 2C|
 |OSCAL|MODERN 8|MODERN_8|MODERN 8|
+|OSCAL|PILOT 1|PILOT_1|PILOT 1|
 |OSCAL|PILOT 2|PILOT_2|PILOT 2|
 |OSCAL|Pad 15|Pad15|Pad 15|
 |OSCAL|Pad 15|Pad15_EEA|Pad 15|
@@ -25695,6 +25700,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno12 F/FS 5G|OP5AF2L1|CPH2637|
 |Oppo|Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|Reno12 Pro 5G|OP5AE1L1|CPH2629|
+|Oppo|Reno13|OP5DD7L1|PKM110|
+|Oppo|Reno13 Pro|OP5DD5L1|PKK110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -27851,6 +27858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C05_Kids|M10_C05_Kids|M10|
 |Pritom|M10_C05_Kids_EEA|M10_C05_Kids_EEA|M10|
 |Pritom|M10_C06_Kids|M10_C06_Kids|M10|
+|Pritom|M10_C06_Kids_EEA|M10_C06_Kids_EEA|M10|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
 |Pritom|M10_Max|M10_Max|M10_Max|
 |Pritom|M10_Max_EEA|M10_Max_EEA|M10_Max_EEA|
@@ -28212,6 +28220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qtouch|CMC_AL10|CMC_AL10|CMC_AL10|
 |Qtouch|Q01A|Q01A|Q01A|
 |Qtouch|Q05A|Q05A|Q05A|
+|Qtouch|Q524|Q524|Q524|
 |Qtouch|Q624|Q624|Q624|
 |Qtouch|Q624H|Q624H|Q624H|
 |Qtouch|QS31|QS31|QS31|
@@ -35002,6 +35011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Jupiter|DQR22|DQR22|
 |Stylo|LIFE_2|LIFE_2|LIFE_2|
 |Stylo|Luna|Luna|Luna|
+|Stylo|MATRIX|MATRIX|MATRIX|
 |Stylo|MAVERICK|MAVERICK|MAVERICK|
 |Stylo|MIRAGE|MIRAGE|MIRAGE|
 |Stylo|MOSCOW|MOSCOW|MOSCOW|

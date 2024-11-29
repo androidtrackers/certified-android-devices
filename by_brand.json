@@ -32199,6 +32199,11 @@
    "model": "Stellar-M6"
   },
   {
+   "device": "L768",
+   "name": "Stellar-M6E",
+   "model": "Stellar-M6E"
+  },
+  {
    "device": "L780",
    "name": "Stellar-X5",
    "model": "Stellar-X5"
@@ -38417,6 +38422,11 @@
    "model": "S200"
   },
   {
+   "device": "M24PT",
+   "name": "S200 X",
+   "model": "S200 X"
+  },
+  {
    "device": "S30",
    "name": "S30",
    "model": "S30"
@@ -38870,6 +38880,11 @@
    "device": "RK1KID",
    "name": "U10KID",
    "model": "U10Kid"
+  },
+  {
+   "device": "T2",
+   "name": "U11",
+   "model": "U11"
   },
   {
    "device": "RK3",
@@ -44966,6 +44981,11 @@
    "device": "FCG01",
    "name": "arrows We FCG01",
    "model": "FCG01"
+  },
+  {
+   "device": "A402FC",
+   "name": "arrows We2 A402FC",
+   "model": "A402FC"
   },
   {
    "device": "F52E",
@@ -127460,6 +127480,11 @@
    "model": "MODERN 8"
   },
   {
+   "device": "PILOT_1",
+   "name": "PILOT 1",
+   "model": "PILOT 1"
+  },
+  {
    "device": "PILOT_2",
    "name": "PILOT 2",
    "model": "PILOT 2"
@@ -132267,6 +132292,16 @@
    "device": "OP5AE1L1",
    "name": "Reno12 Pro 5G",
    "model": "CPH2629"
+  },
+  {
+   "device": "OP5DD7L1",
+   "name": "Reno13",
+   "model": "PKM110"
+  },
+  {
+   "device": "OP5DD5L1",
+   "name": "Reno13 Pro",
+   "model": "PKK110"
   },
   {
    "device": "OP4B65L1",
@@ -143319,6 +143354,11 @@
    "model": "M10"
   },
   {
+   "device": "M10_C06_Kids_EEA",
+   "name": "M10_C06_Kids_EEA",
+   "model": "M10"
+  },
+  {
    "device": "M10_Lite",
    "name": "M10_Lite",
    "model": "M10_Lite"
@@ -145206,6 +145246,11 @@
    "device": "Q05A",
    "name": "Q05A",
    "model": "Q05A"
+  },
+  {
+   "device": "Q524",
+   "name": "Q524",
+   "model": "Q524"
   },
   {
    "device": "Q624",
@@ -179806,6 +179851,11 @@
    "device": "Luna",
    "name": "Luna",
    "model": "Luna"
+  },
+  {
+   "device": "MATRIX",
+   "name": "MATRIX",
+   "model": "MATRIX"
   },
   {
    "device": "MAVERICK",
