@@ -32737,6 +32737,11 @@
    "model": "TAB KINGKONG 2"
   },
   {
+   "device": "TAB_70",
+   "name": "TAB_70",
+   "model": "TAB_70"
+  },
+  {
    "device": "X19",
    "name": "X19",
    "model": "X19"
@@ -77557,11 +77562,6 @@
    "device": "A23",
    "name": "A23",
    "model": "A23"
-  },
-  {
-   "device": "A25",
-   "name": "A25",
-   "model": "A25"
   },
   {
    "device": "A30",
@@ -206709,6 +206709,11 @@
    "model": "V2417A"
   },
   {
+   "device": "PD2426",
+   "name": "V2426A",
+   "model": "V2426A"
+  },
+  {
    "device": "V2202",
    "name": "V25",
    "model": "V2202"
@@ -207847,6 +207852,11 @@
    "device": "I2201",
    "name": "iQOO 9T",
    "model": "I2201"
+  },
+  {
+   "device": "PD2425",
+   "name": "iQOO Neo10",
+   "model": "V2425A"
   },
   {
    "device": "PD2154",

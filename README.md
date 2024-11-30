@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-11-29
+Last sync is 2024-11-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6327,6 +6327,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|TAB 50|TAB_50|TAB 50|
 |Cubot|TAB KINGKONG|TAB_KINGKONG|TAB KINGKONG|
 |Cubot|TAB KINGKONG 2|TAB_KINGKONG_2|TAB KINGKONG 2|
+|Cubot|TAB_70|TAB_70|TAB_70|
 |Cubot|X19|X19|X19|
 |Cubot|X19_S|X19_S|X19 S|
 |Cubot|X20|X20|X20|
@@ -15027,7 +15028,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|A20|A20|A20|
 |IkuMobile|A21|A21|A21|
 |IkuMobile|A23|A23|A23|
-|IkuMobile|A25|A25|A25|
 |IkuMobile|A30|A30|A30|
 |IkuMobile|A35|A35|A35|
 |IkuMobile|A4|A4|A4|
@@ -40227,6 +40227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2353A|PD2353|V2353DA|
 |Vivo|V2417|V2418|V2417|
 |Vivo|V2417A|PD2417|V2417A|
+|Vivo|V2426A|PD2426|V2426A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
@@ -40455,6 +40456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 9 Pro|2022|I2022|
 |Vivo|iQOO 9 SE|2019|I2019|
 |Vivo|iQOO 9T|I2201|I2201|
+|Vivo|iQOO Neo10|PD2425|V2425A|
 |Vivo|iQOO Neo5S|PD2154|V2154A|
 |Vivo|iQOO Neo6|PD2196|V2196A|
 |Vivo|iQOO Neo6 SE|PD2199|V2199A|
