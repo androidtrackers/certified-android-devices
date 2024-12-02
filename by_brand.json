@@ -45498,6 +45498,11 @@
    "model": "FOXXD C65"
   },
   {
+   "device": "HTH_C67",
+   "name": "FOXXD HTH C67",
+   "model": "FOXXD HTH C67"
+  },
+  {
    "device": "L590A",
    "name": "MIRO",
    "model": "L590A"
@@ -54000,6 +54005,11 @@
   {
    "device": "G15",
    "name": "G15",
+   "model": "G15"
+  },
+  {
+   "device": "G15",
+   "name": "G15_EEA",
    "model": "G15"
   },
   {
@@ -205484,6 +205494,11 @@
    "model": "V2362A"
   },
   {
+   "device": "PD2430",
+   "name": "S20 Pro",
+   "model": "V2430A"
+  },
+  {
    "device": "V2154",
    "name": "T1",
    "model": "V2153"
@@ -210333,6 +210348,11 @@
    "device": "S508",
    "name": "WEROCK Rocktab S508",
    "model": "Rocktab S508"
+  },
+  {
+   "device": "S510",
+   "name": "WEROCK Rocktab S510",
+   "model": "Rocktab S510"
   }
  ],
  "WHOOP": [
@@ -214194,6 +214214,11 @@
    "device": "XORO",
    "name": "Megapad_1333",
    "model": "Megapad_1333"
+  },
+  {
+   "device": "Megapad_1333_Pro",
+   "name": "Megapad_1333_Pro",
+   "model": "Megapad_1333_Pro"
   }
  ],
  "XPLORE": [
@@ -226004,6 +226029,11 @@
    "model": "NX724J"
   },
   {
+   "device": "P720F11",
+   "name": "nubia Focus 2 5G",
+   "model": "Z2462N"
+  },
+  {
    "device": "P720F09",
    "name": "nubia Focus 5G",
    "model": "Focus 5G"
@@ -232420,6 +232450,11 @@
    "device": "RE5C91L1",
    "name": "realme C67",
    "model": "RMX3890"
+  },
+  {
+   "device": "RE607CL1",
+   "name": "realme C75",
+   "model": "RMX3941"
   },
   {
    "device": "RE58B2L1",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-01
+Last sync is 2024-12-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8758,6 +8758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|AS65U|AS65U|AS65U|
 |FOXXD|C10|C10|C10|
 |FOXXD|FOXXD C65|FOXXD_C65|FOXXD C65|
+|FOXXD|FOXXD HTH C67|HTH_C67|FOXXD HTH C67|
 |FOXXD|MIRO|L590A|L590A|
 |FOXXD|N5|N5|N5|
 |FOXXD|P10|P10|P10|
@@ -10379,6 +10380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEATZ|Z9950|Z9950|Z9950|
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
 |HIGRACE|G15|G15|G15|
+|HIGRACE|G15_EEA|G15|G15|
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
@@ -39982,6 +39984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|S17 Pro|PD2284|V2284A|
 |Vivo|S18 Pro|PD2344|V2344A|
 |Vivo|S19 Pro|PD2362|V2362A|
+|Vivo|S20 Pro|PD2430|V2430A|
 |Vivo|T1|V2154|V2153|
 |Vivo|T1|V2154|V2154|
 |Vivo|T1|V2154|V2168|
@@ -40941,6 +40944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WARP|TAB-WP11|TAB-WP11|TAB-WP11|
 |WCED|H1010_M50|H1010_M50|H1010_M50|
 |WEROCK|WEROCK Rocktab S508|S508|Rocktab S508|
+|WEROCK|WEROCK Rocktab S510|S510|Rocktab S510|
 |WHOOP|TAB-8US2|TAB-8US2|TAB-8US2|
 |WHOOP|TAB_8US1|TAB_8US1|TAB_8US1|
 |WIDE|WD_PL|WD_PL|WD_PL|
@@ -41682,6 +41686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XL Axiata|Siden - XL Axiata|lte_siden|SDN200|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |XORO|Megapad_1333|XORO|Megapad_1333|
+|XORO|Megapad_1333_Pro|Megapad_1333_Pro|Megapad_1333_Pro|
 |XPLORE|XPLORE X7U|X7U|XPLORE X7U|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
@@ -44014,6 +44019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
+|ZTE|nubia Focus 2 5G|P720F11|Z2462N|
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
 |ZTE|nubia Focus 5G|P720F09|Z2357N|
 |ZTE|nubia Music|P963F11|Z2353|
@@ -45228,6 +45234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C63 5G|RE6070L1|RMX3950|
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
+|realme|realme C75|RE607CL1|RMX3941|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
