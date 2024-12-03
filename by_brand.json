@@ -2879,6 +2879,11 @@
    "model": "DIX51R4KU"
   },
   {
+   "device": "Acerone_Liquid",
+   "name": "Acer Acerpure",
+   "model": "Acerone Liquid S272E4"
+  },
+  {
    "device": "paine_cheets",
    "name": "Acer Chromebook 11 (C740)",
    "model": "Acer Chromebook 11 (C740)"
@@ -148457,6 +148462,11 @@
    "model": "23129RA5FL"
   },
   {
+   "device": "sapphire",
+   "name": "Redmi Note 13",
+   "model": "23129RAA4G"
+  },
+  {
    "device": "sapphiren",
    "name": "Redmi Note 13",
    "model": "23124RA7EO"
@@ -204929,6 +204939,13 @@
    "device": "vsi8q_1_coho",
    "name": "ViewPadi8Q",
    "model": "vsi8q_1_coho"
+  }
+ ],
+ "ViewZ": [
+  {
+   "device": "VZ-24IPM",
+   "name": "VZ-24IPM",
+   "model": "VZ-24IPM"
   }
  ],
  "Virse": [

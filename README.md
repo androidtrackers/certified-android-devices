@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-02
+Last sync is 2024-12-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -533,6 +533,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ATLTE1022E|ATLTE1022E|ATLTE1022E|
 |Acer|Acer|anglelake|DIX41RKF|
 |Acer|Acer|waiawa|DIX51R4KU|
+|Acer|Acer Acerpure|Acerone_Liquid|Acerone Liquid S272E4|
 |Acer|Acer Chromebook 11 (C740)|paine_cheets|Acer Chromebook 11 (C740)|
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
 |Acer|Acer Holo360|acer_c01|C01|
@@ -28841,6 +28842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
 |Redmi|Redmi Note 12T Pro|pearl|23054RA19C|
 |Redmi|Redmi Note 13|sapphire|23129RA5FL|
+|Redmi|Redmi Note 13|sapphire|23129RAA4G|
 |Redmi|Redmi Note 13|sapphiren|23124RA7EO|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABC|
 |Redmi|Redmi Note 13 5G|gold|2312DRAABI|
@@ -39877,6 +39879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi7Q|vsi7q_1_coho|vsi7q_1_coho|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
+|ViewZ|VZ-24IPM|VZ-24IPM|VZ-24IPM|
 |Virse|E95|E95|E95|
 |Virzo|V501C|V501C|V501C|
 |Virzo|V505c|V505c|V505c|
