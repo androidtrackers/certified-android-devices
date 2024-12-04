@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-03
+Last sync is 2024-12-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10439,6 +10439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HMD|HMD Skyline Business Edition|TCT|HMD Skyline Business Edition|
 |HMD|HMD T21|AGTAH|HMD T21|
 |HMD|HMD T21|AGTH|HMD T21|
+|HMD|HMD Vibe|SHK|N159V|
 |HMD|HMD XR21|SNT|HMD XR21|
 |HMD|M-KOPA X2|LGD|M-KOPA X2|
 |HMD|M-KOPA X20|LGR|M-KOPA X20|
@@ -14783,6 +14784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IDONDRDO|Discovery-X1|Discovery-X1|Discovery-X1|
 |IDspire|IRA_Biometric|TPSeries_1|IRA_Biometric|
 |IDspire|TPSeries_1|TPSeries_1|TPSeries_1|
+|IFPD|rk3588_t|rk3588_t|MW3565-U-CE|
 |IIIF150|Air1|Air1|Air1|
 |IIIF150|Air1 Pro|Air1_Pro|Air1 Pro|
 |IIIF150|Air1 Ultra|Air1_Ultra|Air1 Ultra|
@@ -24413,6 +24415,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C21|COR|Nokia C21|
 |Nokia|Nokia C21 Plus|HPE|Hope|
 |Nokia|Nokia C21 Plus|HPE|Nokia C21 Plus|
+|Nokia|Nokia C210|RVOA|Nokia C210|
+|Nokia|Nokia C210|RVTA|Nokia C210|
 |Nokia|Nokia C22|HKEA|Nokia C22|
 |Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia C30|MNI|Nokia C30|

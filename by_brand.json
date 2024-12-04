@@ -54317,6 +54317,11 @@
    "model": "HMD T21"
   },
   {
+   "device": "SHK",
+   "name": "HMD Vibe",
+   "model": "N159V"
+  },
+  {
    "device": "SNT",
    "name": "HMD XR21",
    "model": "HMD XR21"
@@ -76249,6 +76254,13 @@
    "device": "TPSeries_1",
    "name": "TPSeries_1",
    "model": "TPSeries_1"
+  }
+ ],
+ "IFPD": [
+  {
+   "device": "rk3588_t",
+   "name": "rk3588_t",
+   "model": "MW3565-U-CE"
   }
  ],
  "IIIF150": [
@@ -125693,6 +125705,16 @@
    "device": "HPE",
    "name": "Nokia C21 Plus",
    "model": "Nokia C21 Plus"
+  },
+  {
+   "device": "RVOA",
+   "name": "Nokia C210",
+   "model": "Nokia C210"
+  },
+  {
+   "device": "RVTA",
+   "name": "Nokia C210",
+   "model": "Nokia C210"
   },
   {
    "device": "HKEA",
