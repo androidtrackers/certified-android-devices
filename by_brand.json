@@ -127345,6 +127345,11 @@
    "model": "M89T"
   },
   {
+   "device": "MP1T",
+   "name": "MP1T",
+   "model": "MP1T"
+  },
+  {
    "device": "MP1TE",
    "name": "MP1TE",
    "model": "MP1TE"
@@ -127358,6 +127363,11 @@
    "device": "MPC80T",
    "name": "MPC80T",
    "model": "MPC80T"
+  },
+  {
+   "device": "MT1E",
+   "name": "MT1E",
+   "model": "MT1E"
   }
  ],
  "ONIDA": [
@@ -154401,6 +154411,16 @@
    "model": "SM-S156V"
   },
   {
+   "device": "a16",
+   "name": "Galaxy A16",
+   "model": "SM-A165F"
+  },
+  {
+   "device": "a16",
+   "name": "Galaxy A16",
+   "model": "SM-A165N"
+  },
+  {
    "device": "a16x",
    "name": "Galaxy A16 5G",
    "model": "SM-A1660"
@@ -169058,6 +169078,11 @@
    "device": "yeongdeungpo",
    "name": "Mexio",
    "model": "AiPlus4K"
+  },
+  {
+   "device": "cottongreen",
+   "name": "NGamer",
+   "model": "NGamer"
   },
   {
    "device": "Nitro",
@@ -225708,6 +225733,11 @@
    "model": "ZTE 8550"
   },
   {
+   "device": "P616F02",
+   "name": "ZTE Blade V60",
+   "model": "Z2356"
+  },
+  {
    "device": "P606F10",
    "name": "ZTE Blade V60 Design",
    "model": "Z2350"
@@ -225806,6 +225836,11 @@
    "device": "kelly",
    "name": "ZTE Fanfare 3",
    "model": "Z852"
+  },
+  {
+   "device": "P616F03",
+   "name": "ZTE Focus",
+   "model": "Z2455"
   },
   {
    "device": "zx55q05_64",

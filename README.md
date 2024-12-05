@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-04
+Last sync is 2024-12-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24729,9 +24729,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
 |ONERugged|M89T|M89T|M89T|
+|ONERugged|MP1T|MP1T|MP1T|
 |ONERugged|MP1TE|MP1TE|MP1TE|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
+|ONERugged|MT1E|MT1E|MT1E|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
 |ONYX|AKA Model A|Model_A|Model A|
@@ -29973,6 +29975,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A15 5G|a15x|SM-A156U1|
 |Samsung|Galaxy A15 5G|a15x|SM-A156W|
 |Samsung|Galaxy A15 5G|a15x|SM-S156V|
+|Samsung|Galaxy A16|a16|SM-A165F|
+|Samsung|Galaxy A16|a16|SM-A165N|
 |Samsung|Galaxy A16 5G|a16x|SM-A1660|
 |Samsung|Galaxy A16 5G|a16x|SM-A166B|
 |Samsung|Galaxy A16 5G|a16x|SM-A166E|
@@ -32902,6 +32906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Grand|Grand|Grand|
 |Sansui|Israel|SAN-8487|SAN-8487|
 |Sansui|Mexio|yeongdeungpo|AiPlus4K|
+|Sansui|NGamer|cottongreen|NGamer|
 |Sansui|Nitro|Nitro|Nitro|
 |Sansui|SANSUI SmartTV|sunnyvale|SANSUI SmartTV|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
@@ -43954,6 +43959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V50 Design|P606F08|nubia 8050|
 |ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
 |ZTE|ZTE Blade V50 Vita|P606F09|ZTE 8550|
+|ZTE|ZTE Blade V60|P616F02|Z2356|
 |ZTE|ZTE Blade V60 Design|P606F10|Z2350|
 |ZTE|ZTE Blade V60 Vita|P606F10|Z2350|
 |ZTE|ZTE Blade V70 Design|P606F17|Z2458|
@@ -43974,6 +43980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE C2017|alice|ZTE C2017|
 |ZTE|ZTE E7LS|ZTE_E7LS|ZTE E7LS|
 |ZTE|ZTE Fanfare 3|kelly|Z852|
+|ZTE|ZTE Focus|P616F03|Z2455|
 |ZTE|ZTE N939Sc|zx55q05_64|LS-5504|
 |ZTE|ZTE N939Sc|zx55q05_64|ZTE Blade X9|
 |ZTE|ZTE N939Sc|zx55q05_64|ZTE N939Sc|
