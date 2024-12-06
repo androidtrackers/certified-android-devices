@@ -45033,6 +45033,11 @@
    "device": "F100",
    "name": "F100_EEA",
    "model": "F100"
+  },
+  {
+   "device": "F310P",
+   "name": "F310 P",
+   "model": "F310P"
   }
  ],
  "FELUX": [
@@ -86094,6 +86099,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "khardi",
+   "name": "DAMASCO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "DAMASCO",
    "model": "4K SMART TV"
@@ -86346,6 +86356,11 @@
   {
    "device": "zhongshan",
    "name": "LikeMe",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "lavender",
+   "name": "MITSUKI",
    "model": "4K SMART TV"
   },
   {
@@ -196705,6 +196720,13 @@
    "device": "TWIFI_09",
    "name": "TWIFI_09",
    "model": "TWIFI_09"
+  }
+ ],
+ "Tigorr": [
+  {
+   "device": "Z7",
+   "name": "Z7",
+   "model": "Z7"
   }
  ],
  "Tiitan": [

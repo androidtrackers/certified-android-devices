@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-05
+Last sync is 2024-12-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8671,6 +8671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows We2 Plus M06|M06|M06|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
+|FEITIAN|F310 P|F310P|F310P|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FELUX|X-ONE|X-ONE|X-ONE|
 |FELUX|X_Pro|X_Pro|X Pro|
@@ -16684,6 +16685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
+|KTCtv|DAMASCO|khardi|4K SMART TV|
 |KTCtv|DAMASCO|lavender|4K SMART TV|
 |KTCtv|DAMASCO|mountbaker|2K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
@@ -16735,6 +16737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KTC|zhongshan|4K SMART TV|
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
+|KTCtv|MITSUKI|lavender|4K SMART TV|
 |KTCtv|MULTISMART|lavender|4K SMART TV|
 |KTCtv|MULTISMART|mountbaker|2K SMART TV|
 |KTCtv|NA|stanford|40DNA|
@@ -38305,6 +38308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tigers|TIS_001|TIS_001|TIS_001|
 |Tigers|TWIFI_08|TWIFI_08|TWIFI_08|
 |Tigers|TWIFI_09|TWIFI_09|TWIFI_09|
+|Tigorr|Z7|Z7|Z7|
 |Tiitan|T54|T54|T54|
 |Time2|TIME2|TP1060J|TP1060J|
 |Time2|TIME2|TP860P|TP860B|
