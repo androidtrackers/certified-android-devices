@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-06
+Last sync is 2024-12-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18952,6 +18952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LNMBBS|L80_US|L80_US|L80_US|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
+|LOGIC|HX_Series|MTK9679|Logic_LT_IRXXHX|
 |LONG-LIFE|TabLL08_13_24|TabLL08_13_24|TabLL08_13_24|
 |LOOQS|F102-EEA|F102-EEA|F102-EEA|
 |LOOQS|F102-T610P-EEA|F102-T610P-EEA|F102-T610P-EEA|
@@ -22365,6 +22366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Altice E55|E55|E55|
 |Mobiwire|Awadjidjè|H5111|Awadjidje|
 |Mobiwire|Benin|H6681_Pro|Moov Smart Pro|
+|Mobiwire|CHAT|CHAT|CHAT|
 |Mobiwire|Celtiis Smart 1|H5032U|Smart 1|
 |Mobiwire|Chenoa|Chenoa|Chenoa|
 |Mobiwire|Cygnus|Cygnus45|Cygnus|
@@ -24737,6 +24739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
 |ONERugged|MT1E|MT1E|MT1E|
+|ONERugged|MT1MAX|MT1MAX|MT1MAX|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
 |ONYX|AKA Model A|Model_A|Model A|

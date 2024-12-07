@@ -97624,6 +97624,13 @@
    "model": "P401"
   }
  ],
+ "LOGIC": [
+  {
+   "device": "MTK9679",
+   "name": "HX_Series",
+   "model": "Logic_LT_IRXXHX"
+  }
+ ],
  "LONG-LIFE": [
   {
    "device": "TabLL08_13_24",
@@ -115167,6 +115174,11 @@
    "model": "Moov Smart Pro"
   },
   {
+   "device": "CHAT",
+   "name": "CHAT",
+   "model": "CHAT"
+  },
+  {
    "device": "H5032U",
    "name": "Celtiis Smart 1",
    "model": "Smart 1"
@@ -127383,6 +127395,11 @@
    "device": "MT1E",
    "name": "MT1E",
    "model": "MT1E"
+  },
+  {
+   "device": "MT1MAX",
+   "name": "MT1MAX",
+   "model": "MT1MAX"
   }
  ],
  "ONIDA": [
