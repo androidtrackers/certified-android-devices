@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-08
+Last sync is 2024-12-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21241,6 +21241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|"Chile|Bolivia|Peru|
 |Master-G|"Chile|Bolivia|Peru"|
 |Master-G|"Chile|Bolivia|Peru"|
+|Master-G|MASTER-G|lavender|4K SMART TV|
 |Master-G|Master-G|hongkong|4K SMART TV|
 |Master-G|Master-G|mountbaker|2K SMART TV|
 |Master-G|Smart TV|mateo|2K SA Smart TV|
@@ -24740,6 +24741,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MPC80T|MPC80T|MPC80T|
 |ONERugged|MT1E|MT1E|MT1E|
 |ONERugged|MT1MAX|MT1MAX|MT1MAX|
+|ONERugged|MT1MAXE|MT1MAXE|MT1MAXE|
+|ONERugged|MT1N|MT1N|MT1N|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
 |ONYX|AKA Model A|Model_A|Model A|

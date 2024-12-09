@@ -109411,6 +109411,11 @@
    "model": "Peru\""
   },
   {
+   "device": "lavender",
+   "name": "MASTER-G",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "Master-G",
    "model": "4K SMART TV"
@@ -127400,6 +127405,16 @@
    "device": "MT1MAX",
    "name": "MT1MAX",
    "model": "MT1MAX"
+  },
+  {
+   "device": "MT1MAXE",
+   "name": "MT1MAXE",
+   "model": "MT1MAXE"
+  },
+  {
+   "device": "MT1N",
+   "name": "MT1N",
+   "model": "MT1N"
   }
  ],
  "ONIDA": [
