@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-09
+Last sync is 2024-12-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -203,6 +203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALBADEEL|Smart TV|longshan|AI PONT|
 |ALBADEEL|Smart TV|redwood|AI PONT|
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
+|ALPHAWOLF|L2|L2|L2|
 |ALPHA_LING|A97GT|A97GT|A97GT|
 |ALPHA_LING|A97GT_Pro|A97GT_Pro|A97GT_Pro|
 |ALPHA_LING|P10SU_PLUS|P10SU_PLUS|P10SU_PLUS|
@@ -401,6 +402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
 |AX-META|AX_META_Tab_7|AX_META_Tab_7|AX_META_Tab_7|
 |AXEL|AX_PRO|AX_PRO|AX_PRO|
+|AXION|SBAA1011|SBAA1011|SBAA1011|
 |AXON|Evolution|Evolution|Evolution|
 |AXPRO|AX09|AX09|AX09|
 |AXSTV|AXSTV130|SEI130PTS|AXSTV130|
@@ -2622,6 +2624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avoca|STB7013|AVOCA|STB7013|
 |Avoca|STB8098|STB8098|STB8098|
 |Avoca|STB9097|STB9097|STB9097|
+|Avtek|TS_8_1_Mate_G|MTK9679|TS_8_1_Mate_G|
 |Avvio|A680|A680|aiworks|
 |Avvio|Avvio 4GO|Avvio_4GO|Avvio_4GO|
 |Avvio|Avvio A400|Avvio_A400|Avvio_A400|
@@ -14785,7 +14788,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IDONDRDO|Discovery-X1|Discovery-X1|Discovery-X1|
 |IDspire|IRA_Biometric|TPSeries_1|IRA_Biometric|
 |IDspire|TPSeries_1|TPSeries_1|TPSeries_1|
-|IFPD|rk3588_t|rk3588_t|MW3565-U-CE|
 |IIIF150|Air1|Air1|Air1|
 |IIIF150|Air1 Pro|Air1_Pro|Air1 Pro|
 |IIIF150|Air1 Ultra|Air1_Ultra|Air1 Ultra|
@@ -14860,6 +14862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI A72|A170|A170_Plus|
 |INOI|INOI A72|A171|A171|
 |INOI|INOI A72|A171|A171_Plus|
+|INOI|INOI A75 Elegance|INOI_A75_Elegance|A750|
 |INOI|INOI Flip|INOI_Flip|A880|
 |INOI|INOI Note 12|A180|A180|
 |INOI|INOI Note 12|A180|A180_Plus|
@@ -29070,6 +29073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|RHINO PACE|pace|PACE A1|
 |Rhino|RHINO PACE A1|portal|PACE A1|
 |Rhino|RHINO T100|scoutxl|T100|
+|Rhino|RHINO T105|stratos|T105|
 |Rhino|RHINO T5se|atom|T5se|
 |Rhino|RHINO T8|Rhino_T8|T8|
 |Rhino|RHINO T80|scout|T80|
@@ -33567,6 +33571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
+|Shenzhen SEI Robotics|AMLogic Ref|newton|newton|
 |Shenzhen SEI Robotics|AMLogic Ref|planck|planck|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shenzhen SEI Robotics|Sensa Box 4K|SEI700PTS|Sensa Box 4K|
@@ -45450,6 +45455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |unitel|U903|U903|U903|
 |unitel|UNITEL_TAB_4G_H101|UNITEL_TAB_4G_H101|UNITEL_TAB_4G_H101|
 |unitel|Unitel_Smart_1|Unitel_Smart_1|Unitel Smart 1|
+|"unv(Uniview Technologies Co.|Ltd)"|rk3588_t|rk3588_t|
 |vatenick|M03|M03|M03|
 |vatenick|v7|v7|v7|
 |vatenick|v7-EEA|v7-EEA|v7-EEA|

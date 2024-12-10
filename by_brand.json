@@ -1071,6 +1071,13 @@
    "model": "AI PONT"
   }
  ],
+ "ALPHAWOLF": [
+  {
+   "device": "L2",
+   "name": "L2",
+   "model": "L2"
+  }
+ ],
  "ALPHA_LING": [
   {
    "device": "A97GT",
@@ -2185,6 +2192,13 @@
    "device": "AX_PRO",
    "name": "AX_PRO",
    "model": "AX_PRO"
+  }
+ ],
+ "AXION": [
+  {
+   "device": "SBAA1011",
+   "name": "SBAA1011",
+   "model": "SBAA1011"
   }
  ],
  "AXON": [
@@ -13560,6 +13574,13 @@
    "device": "STB9097",
    "name": "STB9097",
    "model": "STB9097"
+  }
+ ],
+ "Avtek": [
+  {
+   "device": "MTK9679",
+   "name": "TS_8_1_Mate_G",
+   "model": "TS_8_1_Mate_G"
   }
  ],
  "Avvio": [
@@ -76261,13 +76282,6 @@
    "model": "TPSeries_1"
   }
  ],
- "IFPD": [
-  {
-   "device": "rk3588_t",
-   "name": "rk3588_t",
-   "model": "MW3565-U-CE"
-  }
- ],
  "IIIF150": [
   {
    "device": "Air1",
@@ -76662,6 +76676,11 @@
    "device": "A171",
    "name": "INOI A72",
    "model": "A171_Plus"
+  },
+  {
+   "device": "INOI_A75_Elegance",
+   "name": "INOI A75 Elegance",
+   "model": "A750"
   },
   {
    "device": "INOI_Flip",
@@ -149638,6 +149657,11 @@
    "model": "T100"
   },
   {
+   "device": "stratos",
+   "name": "RHINO T105",
+   "model": "T105"
+  },
+  {
    "device": "atom",
    "name": "RHINO T5se",
    "model": "T5se"
@@ -172451,6 +172475,11 @@
    "device": "adt2",
    "name": "ADT-2",
    "model": "ADT-2"
+  },
+  {
+   "device": "newton",
+   "name": "AMLogic Ref",
+   "model": "newton"
   },
   {
    "device": "planck",
@@ -233590,6 +233619,13 @@
    "device": "Unitel_Smart_1",
    "name": "Unitel_Smart_1",
    "model": "Unitel Smart 1"
+  }
+ ],
+ "\"unv(Uniview Technologies Co.": [
+  {
+   "device": "rk3588_t",
+   "name": "Ltd)\"",
+   "model": "rk3588_t"
   }
  ],
  "vatenick": [
