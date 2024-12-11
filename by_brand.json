@@ -54298,6 +54298,26 @@
    "model": "HMD Aura"
   },
   {
+   "device": "ARW",
+   "name": "HMD CREST",
+   "model": "Arrow"
+  },
+  {
+   "device": "ARW",
+   "name": "HMD CREST",
+   "model": "HMD CREST"
+  },
+  {
+   "device": "ARP",
+   "name": "HMD CREST MAX",
+   "model": "ArrowPro"
+  },
+  {
+   "device": "ARP",
+   "name": "HMD CREST MAX",
+   "model": "HMD CREST MAX"
+  },
+  {
    "device": "NHK",
    "name": "HMD Fusion",
    "model": "HMD Fusion"
@@ -83343,6 +83363,13 @@
    "device": "rk3588_t",
    "name": "Smart-box",
    "model": "BOX_1"
+  }
+ ],
+ "JAV Smartboard": [
+  {
+   "device": "rk3588_t",
+   "name": "Flagship model",
+   "model": "LEDxxH16S"
   }
  ],
  "JAY-TECH": [
@@ -172477,11 +172504,6 @@
    "model": "ADT-2"
   },
   {
-   "device": "newton",
-   "name": "AMLogic Ref",
-   "model": "newton"
-  },
-  {
    "device": "planck",
    "name": "AMLogic Ref",
    "model": "planck"
@@ -180526,6 +180548,13 @@
    "device": "dhe1100",
    "name": "",
    "model": "Hikari-iFrame/WDPF-703SE"
+  }
+ ],
+ "Sun_King": [
+  {
+   "device": "EZ_1",
+   "name": "EZ_1",
+   "model": "EZ 1"
   }
  ],
  "Sunbio": [
@@ -192641,6 +192670,11 @@
    "device": "P30_B",
    "name": "P30_EEA",
    "model": "P30"
+  },
+  {
+   "device": "P30_B",
+   "name": "P30_EEA",
+   "model": "P30_EEA"
   },
   {
    "device": "P30_EEA",
@@ -208851,6 +208885,11 @@
    "model": "vivo Y28"
   },
   {
+   "device": "V2420",
+   "name": "vivo Y29 5G",
+   "model": "V2420"
+  },
+  {
    "device": "PD2357",
    "name": "vivo Y36c",
    "model": "V2357A"
@@ -217631,6 +217670,11 @@
    "device": "M50",
    "name": "M50",
    "model": "M50"
+  },
+  {
+   "device": "M8100",
+   "name": "M8100_EEA",
+   "model": "M8100"
   },
   {
    "device": "M9200",
@@ -226644,6 +226688,16 @@
    "model": "TC22"
   },
   {
+   "device": "KC50L",
+   "name": "KC50 Android™ Kiosk computers",
+   "model": "KC50"
+  },
+  {
+   "device": "KC50S",
+   "name": "KC50 Android™ Kiosk computers",
+   "model": "KC50"
+  },
+  {
    "device": "MC18",
    "name": "MC18",
    "model": "MC18N0"
@@ -226674,6 +226728,11 @@
    "model": "MC33"
   },
   {
+   "device": "MC3400",
+   "name": "MC3400",
+   "model": "MC3400"
+  },
+  {
    "device": "cardhu",
    "name": "MC36",
    "model": "MC36"
@@ -226702,6 +226761,11 @@
    "device": "PS20JP",
    "name": "PS20(Personal Shopper)",
    "model": "PS20J"
+  },
+  {
+   "device": "PS30Jx",
+   "name": "PS30J",
+   "model": "PS30J"
   },
   {
    "device": "TC70",

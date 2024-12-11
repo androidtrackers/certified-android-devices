@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-10
+Last sync is 2024-12-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10434,6 +10434,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Smart TV|pioneer|4K PA Smart TV|
 |HKT|eye3|UY3-PCW|eye3|
 |HMD|HMD Aura|RCK|HMD Aura|
+|HMD|HMD CREST|ARW|Arrow|
+|HMD|HMD CREST|ARW|HMD CREST|
+|HMD|HMD CREST MAX|ARP|ArrowPro|
+|HMD|HMD CREST MAX|ARP|HMD CREST MAX|
 |HMD|HMD Fusion|NHK|HMD Fusion|
 |HMD|HMD Fusion Business Edition|NHK|HMD Fusion Business Edition|
 |HMD|HMD Pulse|LGD|HMD Pulse|
@@ -16165,6 +16169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |J:COM|XA402|XA402|XA402|
 |J:COM|XA403|sti6260d195|XA403|
 |JAV Smart-box|Smart-box|rk3588_t|BOX_1|
+|JAV Smartboard|Flagship model|rk3588_t|LEDxxH16S|
 |JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
 |JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
@@ -33571,7 +33576,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
-|Shenzhen SEI Robotics|AMLogic Ref|newton|newton|
 |Shenzhen SEI Robotics|AMLogic Ref|planck|planck|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shenzhen SEI Robotics|Sensa Box 4K|SEI700PTS|Sensa Box 4K|
@@ -35142,6 +35146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4173|ST4173|ST4173|
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
+|Sun_King|EZ_1|EZ_1|EZ 1|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunbrite|huangshan_sunbrite|huangshan|SmartTV 4K|
 |Sunelan|Mountain M8|Mountain_M8|Mountain M8|
@@ -37509,6 +37514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30T_ROW|P30T_ROW|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T_ROW|
 |Teclast|P30_EEA|P30_B|P30|
+|Teclast|P30_EEA|P30_B|P30_EEA|
 |Teclast|P30_EEA|P30_EEA|P30|
 |Teclast|P30_EEA|P30_EEA|P30_EEA|
 |Teclast|P30_ROW|P30|P30|
@@ -40653,6 +40659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y22|V2207|V2238|
 |Vivo|vivo Y22|Y22|vivo Y22|
 |Vivo|vivo Y28|Y28|vivo Y28|
+|Vivo|vivo Y29 5G|V2420|V2420|
 |Vivo|vivo Y36c|PD2357|V2357A|
 |Vivo|vivo Y37|PD2357|V2357A|
 |Vivo|vivo Y37m|PD2357|V2357EA|
@@ -42339,6 +42346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOLON|L16XX|L16XX|L16XX|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
+|ZOLON|M8100_EEA|M8100|M8100|
 |ZOLON|M9200|M9200|M9200|
 |ZOLON|M9200_ZLEEA|M9200|M9200|
 |ZONMAI|MX2|MX2|MX2|
@@ -44136,18 +44144,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|HC20|TC22|HC20|
 |Zebra|HC50|TC22|HC50|
 |Zebra|HC50|TC22|TC22|
+|Zebra|KC50 Android™ Kiosk computers|KC50L|KC50|
+|Zebra|KC50 Android™ Kiosk computers|KC50S|KC50|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
 |Zebra|MC3300ax AOSP|MC3300x|MC3300ax|
 |Zebra|MC3300axS AOSP|MC3300xC|MC3300ax|
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
+|Zebra|MC3400|MC3400|MC3400|
 |Zebra|MC36|cardhu|MC36|
 |Zebra|MC40|MC40|MC40N0|
 |Zebra|MC9400|MC9400|MC9400|
 |Zebra|MC9450|MC9450|MC9450|
 |Zebra|PS20 (Personal Shopper)|PS20JB|PS20J|
 |Zebra|PS20(Personal Shopper)|PS20JP|PS20J|
+|Zebra|PS30J|PS30Jx|PS30J|
 |Zebra|Pollux|TC70|TC700H|
 |Zebra|Pollux|TC75|TC75|
 |Zebra|TC15|TC15|TC15|
