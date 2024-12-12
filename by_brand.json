@@ -24387,6 +24387,11 @@
    "model": "C90"
   },
   {
+   "device": "C90A",
+   "name": "C90A",
+   "model": "C90A"
+  },
+  {
    "device": "MC21",
    "name": "MC21",
    "model": "MC21"
@@ -41882,6 +41887,11 @@
   }
  ],
  "EcoStar": [
+  {
+   "device": "mountbaker",
+   "name": "ECOSTAR",
+   "model": "2K SMART TV"
+  },
   {
    "device": "stanford",
    "name": "ECOSTAR",
@@ -80264,6 +80274,13 @@
    "device": "S905",
    "name": "start.ca IPBS9510",
    "model": "start.ca IPBS9510"
+  }
+ ],
+ "InstoreScreen": [
+  {
+   "device": "INFLEX156",
+   "name": "INFLEX",
+   "model": "INFLEX156"
   }
  ],
  "Instto": [
@@ -192632,6 +192649,11 @@
    "model": "P30T"
   },
   {
+   "device": "P30T_B",
+   "name": "P30T_EEA",
+   "model": "P30T_EEA"
+  },
+  {
    "device": "P30T_EEA",
    "name": "P30T_EEA",
    "model": "P30T"
@@ -226606,6 +226628,11 @@
    "device": "EC55",
    "name": "EC55SANF AOSP",
    "model": "EC55"
+  },
+  {
+   "device": "EM45",
+   "name": "EM45",
+   "model": "EM45"
   },
   {
    "device": "ET40L",

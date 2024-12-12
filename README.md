@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-11
+Last sync is 2024-12-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4721,6 +4721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C72_GL|C72|C72|
 |CHAINWAY|C75_GL|C75|C75|
 |CHAINWAY|C90|C90|C90|
+|CHAINWAY|C90A|C90A|C90A|
 |CHAINWAY|MC21|MC21|MC21|
 |CHAINWAY|MC50|MC50|MC50|
 |CHAINWAY|MC62|MC62|MC62|
@@ -8075,6 +8076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Echo Mobiles|Stellar 4G|Stellar_4G|Stellar 4G|
 |Echolink|ENOVA STICK|IAD|ENOVA STICK|
 |Echolink|Echolink TV|shinagawa|Echolink TV|
+|EcoStar|ECOSTAR|mountbaker|2K SMART TV|
 |EcoStar|ECOSTAR|stanford|40D|
 |EcoStar|ECOSTAR|zhongshan|43F|
 |EcoStar|ECOSTAR SMART TV|SW4H|ECOSTAR SMART TV|
@@ -15558,6 +15560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Insignia|NS-P16AT10|NS-P16AT10|NS-P16AT10|
 |Inspire Mobile|IMP-R01W|IMP-R01W|IMP-R01W|
 |Inspur|start.ca IPBS9510|S905|start.ca IPBS9510|
+|InstoreScreen|INFLEX|INFLEX156|INFLEX156|
 |Instto|INTP01|INTP01|INTP01|
 |Intel||SP-A20i|SP-A20i|
 |Intel||blackbay|Xolo_X900|
@@ -37506,6 +37509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30S_W_ROW|P30S_W_ROW|P30S_W_ROW|
 |Teclast|P30T_EEA|P30T|P30T|
 |Teclast|P30T_EEA|P30T_B|P30T|
+|Teclast|P30T_EEA|P30T_B|P30T_EEA|
 |Teclast|P30T_EEA|P30T_EEA|P30T|
 |Teclast|P30T_EEA|P30T_EEA|P30T_EEA|
 |Teclast|P30T_ROW|P30T|P30T|
@@ -44128,6 +44132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|EC55|EC55|EC55|
 |Zebra|EC55SA AOSP|EC55|EC55|
 |Zebra|EC55SANF AOSP|EC55|EC55|
+|Zebra|EM45|EM45|EM45|
 |Zebra|ET40|ET40L|ET40|
 |Zebra|ET40|ET40S|ET40|
 |Zebra|ET40A|ET40L|ET40|
