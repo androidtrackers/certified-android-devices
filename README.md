@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-12
+Last sync is 2024-12-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6064,6 +6064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Coolpad 3706AS|apollo|CP3706AS|
 |Coolpad|Coolpad 5370_I00|CoolpadE2|coolpad E2|
 |Coolpad|Coolpad C1-U02|C103|C1-U02|
+|Coolpad|Coolpad C16|K11|K11|
 |Coolpad|Coolpad COL-A0|Civic|COL-A0|
 |Coolpad|Coolpad COR-I0|clover|Coolpad COR-I0|
 |Coolpad|Coolpad CVC-A0|Civic|CVC-A0|
@@ -6134,6 +6135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Y91-921|Y91|Coolpad Y91-921|
 |Coolpad|Y92-9|Y92-9|Coolpad Y92-9|
 |Coolpad|coolpad 5651|CP12p|CP12p|
+|Coolpad|coolpad C16 s|K12|K12|
 |Coolpad|coolpad COOL 20|k69v1_64|CP03|
 |Coolpad|coolpad COOL 30 Play|CP36t|CP36t|
 |Coolpad|coolpad COOL 30i|CP12Q|CP12Q|
@@ -7717,6 +7719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dreamstar|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
 |Dreamstar|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
 |Dreamstar|Nova|YYZ|Nova|
+|Drei|ZTE 4K TV BOX CH1|B866VH_Hutchison|ZTE 4K TV BOX CH1|
 |Dtac|Phone M2|dtacPhoneM2|dtacPhoneM2|
 |Dtac|Phone S2|dtacPhoneS2|dtac_Phone_S2|
 |Dtac|Phone S3|dtacPhoneS3|dtacPhoneS3|
@@ -8076,6 +8079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Echo Mobiles|Stellar 4G|Stellar_4G|Stellar 4G|
 |Echolink|ENOVA STICK|IAD|ENOVA STICK|
 |Echolink|Echolink TV|shinagawa|Echolink TV|
+|EcoStar|ECOSTAR|khardi|4K SMART TV|
 |EcoStar|ECOSTAR|mountbaker|2K SMART TV|
 |EcoStar|ECOSTAR|stanford|40D|
 |EcoStar|ECOSTAR|zhongshan|43F|
@@ -16746,6 +16750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KIUNIT|zhongshan|Smart UHD TV|
 |KTCtv|KTC|stanford|2K SMART TV|
 |KTCtv|KTC|zhongshan|4K SMART TV|
+|KTCtv|LUMIO|khardi|LUMIO VISION|
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|MITSUKI|lavender|4K SMART TV|
@@ -18922,6 +18927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGU+|UHD4T|uie4057lgu|uie4057lgu|
 |LGU+|WA-U420D|WA-U420D|WA-U420D|
 |LG_Electronics|TR3DK|TR3DK|TR3DK|
+|LG_Electronics|TR3DQ-B|TR3DQ-B|TR3DQ-B|
 |LG_Electronics|TR3PN|rk3588_t|TR3PN|
 |LIAONING YIYATONG|DISNEY_Tablet_PC|DISNEY_Tablet_PC|DS2310-70LP|
 |LIAONING YIYATONG|IRULU_MID|IRULU_MID|X10|
@@ -26276,6 +26282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M6 Plus 5G|breeze|24066PC95I|
 |POCO|POCO M6 Pro|emerald|2312FPCA6G|
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
+|POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -26824,6 +26831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PHILIPS|TLE722G|TLE722G|
 |Philips|PHILIPS|hongkong|4K SMART TV|
 |Philips|PHILIPS|hongkong|4K SMART TV PH|
+|Philips|PHILIPS|khardi|4K SMART ISDB TV|
 |Philips|PHILIPS|lavender|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV PH|
 |Philips|PHILIPS|mountbaker|2K SMART TV|
@@ -28776,6 +28784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi A3x|klein|24044RN32L|
 |Redmi|Redmi A3x|klein|24048RN6CG|
 |Redmi|Redmi A3x|klein|24048RN6CI|
+|Redmi|Redmi A4 5G|warm|24116RNC1I|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -28885,6 +28894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|24040RA98R|
 |Redmi|Redmi Note 13R|breeze|2406ERN9CC|
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4C|
+|Redmi|Redmi Note 14 5G|beryl|24094RAD4I|
 |Redmi|Redmi Note 14 Pro|malachite|24090RA29C|
 |Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
@@ -31690,6 +31700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S24|e1q|SM-S921W|
 |Samsung|Galaxy S24|e1s|SM-S921B|
 |Samsung|Galaxy S24|e1s|SM-S921N|
+|Samsung|Galaxy S24 FE|SCG30|SCG30|
 |Samsung|Galaxy S24 FE|r12s|SM-S7210|
 |Samsung|Galaxy S24 FE|r12s|SM-S721B|
 |Samsung|Galaxy S24 FE|r12s|SM-S721N|
@@ -40981,6 +40992,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WAOO|Waoo TV-boks|m393gena_w|Waoo TV-boks|
 |WARP|TAB-WP11|TAB-WP11|TAB-WP11|
 |WCED|H1010_M50|H1010_M50|H1010_M50|
+|WEROCK|RockscanA260|RockscanA260|A260|
+|WEROCK|RockscanA265|RockscanA265|A265|
 |WEROCK|WEROCK Rocktab S508|S508|Rocktab S508|
 |WEROCK|WEROCK Rocktab S510|S510|Rocktab S510|
 |WHOOP|TAB-8US2|TAB-8US2|TAB-8US2|
@@ -42035,8 +42048,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14 Ultra|aurora|24030PN60G|
 |Xiaomi|Xiaomi 14 Ultra|aurora|24031PN0DC|
 |Xiaomi|Xiaomi 14 Ultra|aurora|Xiaomi for arm64|
+|Xiaomi|Xiaomi 14T|XIG07|XIG07|
 |Xiaomi|Xiaomi 14T|degas|2406APNFAG|
 |Xiaomi|Xiaomi 14T Pro|rothko|2407FPN8EG|
+|Xiaomi|Xiaomi 15|dada|24129PN74C|
+|Xiaomi|Xiaomi 15 Pro|haotian|2410DPN6CC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -45381,6 +45397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
 |realme|真我GT6|RE5C4FL1|RMX3800|
 |realme|真我GT7 Pro|RE6018L1|RMX5010|
+|realme|真我Neo7|RE6022L1|RMX5060|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|

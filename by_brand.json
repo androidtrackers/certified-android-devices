@@ -31392,6 +31392,11 @@
    "model": "C1-U02"
   },
   {
+   "device": "K11",
+   "name": "Coolpad C16",
+   "model": "K11"
+  },
+  {
    "device": "Civic",
    "name": "Coolpad COL-A0",
    "model": "COL-A0"
@@ -31740,6 +31745,11 @@
    "device": "CP12p",
    "name": "coolpad 5651",
    "model": "CP12p"
+  },
+  {
+   "device": "K12",
+   "name": "coolpad C16 s",
+   "model": "K12"
   },
   {
    "device": "k69v1_64",
@@ -39953,6 +39963,13 @@
    "model": "Nova"
   }
  ],
+ "Drei": [
+  {
+   "device": "B866VH_Hutchison",
+   "name": "ZTE 4K TV BOX CH1",
+   "model": "ZTE 4K TV BOX CH1"
+  }
+ ],
  "Dtac": [
   {
    "device": "dtacPhoneM2",
@@ -41887,6 +41904,11 @@
   }
  ],
  "EcoStar": [
+  {
+   "device": "khardi",
+   "name": "ECOSTAR",
+   "model": "4K SMART TV"
+  },
   {
    "device": "mountbaker",
    "name": "ECOSTAR",
@@ -86412,6 +86434,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "khardi",
+   "name": "LUMIO",
+   "model": "LUMIO VISION"
+  },
+  {
    "device": "minami",
    "name": "Leading Smart TV",
    "model": "EcoTV J"
@@ -97460,6 +97487,11 @@
    "device": "TR3DK",
    "name": "TR3DK",
    "model": "TR3DK"
+  },
+  {
+   "device": "TR3DQ-B",
+   "name": "TR3DQ-B",
+   "model": "TR3DQ-B"
   },
   {
    "device": "rk3588_t",
@@ -135282,6 +135314,11 @@
    "model": "23076PC4BI"
   },
   {
+   "device": "beryl",
+   "name": "POCO M7 Pro 5G",
+   "model": "2409FPCC4I"
+  },
+  {
    "device": "phoenixin",
    "name": "POCO X2",
    "model": "POCO X2"
@@ -138096,6 +138133,11 @@
    "device": "hongkong",
    "name": "PHILIPS",
    "model": "4K SMART TV PH"
+  },
+  {
+   "device": "khardi",
+   "name": "PHILIPS",
+   "model": "4K SMART ISDB TV"
   },
   {
    "device": "lavender",
@@ -148144,6 +148186,11 @@
    "model": "24048RN6CI"
   },
   {
+   "device": "warm",
+   "name": "Redmi A4 5G",
+   "model": "24116RNC1I"
+  },
+  {
    "device": "davinci",
    "name": "Redmi K20",
    "model": "Mi 9T"
@@ -148687,6 +148734,11 @@
    "device": "beryl",
    "name": "Redmi Note 14 5G",
    "model": "24094RAD4C"
+  },
+  {
+   "device": "beryl",
+   "name": "Redmi Note 14 5G",
+   "model": "24094RAD4I"
   },
   {
    "device": "malachite",
@@ -162994,6 +163046,11 @@
    "device": "e1s",
    "name": "Galaxy S24",
    "model": "SM-S921N"
+  },
+  {
+   "device": "SCG30",
+   "name": "Galaxy S24 FE",
+   "model": "SCG30"
   },
   {
    "device": "r12s",
@@ -210553,6 +210610,16 @@
  ],
  "WEROCK": [
   {
+   "device": "RockscanA260",
+   "name": "RockscanA260",
+   "model": "A260"
+  },
+  {
+   "device": "RockscanA265",
+   "name": "RockscanA265",
+   "model": "A265"
+  },
+  {
    "device": "S508",
    "name": "WEROCK Rocktab S508",
    "model": "Rocktab S508"
@@ -215997,6 +216064,11 @@
    "model": "Xiaomi for arm64"
   },
   {
+   "device": "XIG07",
+   "name": "Xiaomi 14T",
+   "model": "XIG07"
+  },
+  {
    "device": "degas",
    "name": "Xiaomi 14T",
    "model": "2406APNFAG"
@@ -216005,6 +216077,16 @@
    "device": "rothko",
    "name": "Xiaomi 14T Pro",
    "model": "2407FPN8EG"
+  },
+  {
+   "device": "dada",
+   "name": "Xiaomi 15",
+   "model": "24129PN74C"
+  },
+  {
+   "device": "haotian",
+   "name": "Xiaomi 15 Pro",
+   "model": "2410DPN6CC"
   },
   {
    "device": "mona",
@@ -233203,6 +233285,11 @@
    "device": "RE6018L1",
    "name": "真我GT7 Pro",
    "model": "RMX5010"
+  },
+  {
+   "device": "RE6022L1",
+   "name": "真我Neo7",
+   "model": "RMX5060"
   },
   {
    "device": "RE548B",
