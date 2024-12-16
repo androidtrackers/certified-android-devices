@@ -192866,6 +192866,11 @@
    "model": "P50Case"
   },
   {
+   "device": "P50Case",
+   "name": "P50Case_EEA",
+   "model": "P50Case_EEA"
+  },
+  {
    "device": "P50S_EEA",
    "name": "P50S_EEA",
    "model": "P50S"
@@ -207632,6 +207637,16 @@
    "device": "V2344",
    "name": "Y18t",
    "model": "V2408"
+  },
+  {
+   "device": "V2342",
+   "name": "Y200",
+   "model": "V2424"
+  },
+  {
+   "device": "V2342",
+   "name": "Y200",
+   "model": "V2425"
   },
   {
    "device": "V2307",

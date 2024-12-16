@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-15
+Last sync is 2024-12-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -37552,6 +37552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50Case|P50Case|N868|
 |Teclast|P50Case|P50Case|P50Case|
 |Teclast|P50Case_EEA|P50Case|P50Case|
+|Teclast|P50Case_EEA|P50Case|P50Case_EEA|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50_EEA|P50|P50_EEA|
@@ -40408,6 +40409,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
+|Vivo|Y200|V2342|V2424|
+|Vivo|Y200|V2342|V2425|
 |Vivo|Y200 5G|V2307|V2307|
 |Vivo|Y200 GT|PD2361|V2361GA|
 |Vivo|Y200 Pro 5G|V2303|V2303|
