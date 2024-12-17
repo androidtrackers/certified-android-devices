@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-16
+Last sync is 2024-12-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8306,6 +8306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Entity|ENT71QF12|ENT71QF12|ENT71QF12|
 |Entity|ENT75QF620_EEA|ENT75QF620|ENT75QF620|
 |Entity|ENTG1011|ENTG1011|ENTG1011|
+|Entity|ENTITY_G10|ENTITY_G102IN1HARDKB|ENTITY_G102IN1HARDKB|
 |Entity|G10XM|G10XM|G10XM|
 |Entity|G10_2IN1_GEN2|G10_2IN1_GEN2|G10_2IN1_GEN2|
 |Entity|HW304_HW291|HW304_HW291|HW304_HW291|
@@ -12803,6 +12804,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
 |Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
+|Honor|荣耀平板V9|HNROL-M|ROL-W00|
+|Honor|荣耀平板V9|HNROL-M|ROL-W10|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -12852,6 +12855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hot Pepper|T11 Pro|T11_Pro|T11 Pro|
 |Hot Pepper|VLE5|VLE5|VLE5|
 |Hot Pepper|VLE5|VLE5A|VLE5A|
+|HotLight|C108_EEA|C108|C108|
 |HotLight|TP1003|TP1003|TP1003|
 |HotLight|TP1003|TP1003_EEA|TP1003|
 |Hotwav|A1|A1|A1|
@@ -23283,6 +23287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 50|aito|motorola razr 50|
 |Motorola|motorola razr 50 ultra|arcfox|motorola razr 40 ultra|
 |Motorola|motorola razr 50 ultra|arcfox|motorola razr 50 ultra|
+|Motorola|motorola razr 50d M-51E|M-51E|M-51E|
 |Motorola|motorola razr 50s|aito|motorola razr 50s|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
@@ -23931,6 +23936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
 |NETOGY|NOVA|YXU|NOVA|
 |NETTV|NETTV|SEI500NTV|NETTV|
+|NEWORK|Interactive Smart Display|NewBoard|NB_XXE1D_AM_W|
 |NEWPOS|NEW9310Pro|NEW9310Pro|NEW9310Pro|
 |NEWSUN|S13|S13|S13|
 |NEWSUN|S20|S20|S20|
@@ -26250,6 +26256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C51|water|2305EPCC4G|
 |POCO|POCO C55|earth|22127PC95I|
 |POCO|POCO C61|blue|2312BPC51H|
+|POCO|POCO C61|blue|2312BPC51X|
 |POCO|POCO C65|gale|2310FPCA4I|
 |POCO|POCO C65|gust|2310FPCA4G|
 |POCO|POCO C75|lake|2410FPCC5G|
@@ -26770,6 +26777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
 |Pepperl+Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
+|Pepperl+Fuchs|Tab-IND 10 AND|Tab-IND10AND|Tab-IND 10 AND|
 |Performance|T7|T7|T7|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T9|T9|T9|

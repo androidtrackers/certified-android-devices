@@ -43110,6 +43110,11 @@
    "model": "ENTG1011"
   },
   {
+   "device": "ENTITY_G102IN1HARDKB",
+   "name": "ENTITY_G10",
+   "model": "ENTITY_G102IN1HARDKB"
+  },
+  {
    "device": "G10XM",
    "name": "G10XM",
    "model": "G10XM"
@@ -66287,6 +66292,16 @@
    "device": "HNROD2-Q",
    "name": "荣耀平板GT PRO",
    "model": "ROD2-W69"
+  },
+  {
+   "device": "HNROL-M",
+   "name": "荣耀平板V9",
+   "model": "ROL-W00"
+  },
+  {
+   "device": "HNROL-M",
+   "name": "荣耀平板V9",
+   "model": "ROL-W10"
   }
  ],
  "Hoozo": [
@@ -66541,6 +66556,11 @@
   }
  ],
  "HotLight": [
+  {
+   "device": "C108",
+   "name": "C108_EEA",
+   "model": "C108"
+  },
   {
    "device": "TP1003",
    "name": "TP1003",
@@ -119811,6 +119831,11 @@
    "model": "motorola razr 50 ultra"
   },
   {
+   "device": "M-51E",
+   "name": "motorola razr 50d M-51E",
+   "model": "M-51E"
+  },
+  {
    "device": "aito",
    "name": "motorola razr 50s",
    "model": "motorola razr 50s"
@@ -123151,6 +123176,13 @@
    "device": "SEI500NTV",
    "name": "NETTV",
    "model": "NETTV"
+  }
+ ],
+ "NEWORK": [
+  {
+   "device": "NewBoard",
+   "name": "Interactive Smart Display",
+   "model": "NB_XXE1D_AM_W"
   }
  ],
  "NEWPOS": [
@@ -135154,6 +135186,11 @@
    "model": "2312BPC51H"
   },
   {
+   "device": "blue",
+   "name": "POCO C61",
+   "model": "2312BPC51X"
+  },
+  {
    "device": "gale",
    "name": "POCO C65",
    "model": "2310FPCA4I"
@@ -137820,6 +137857,11 @@
    "device": "Smart-Ex03",
    "name": "Smart-Ex 03",
    "model": "Smart-Ex03"
+  },
+  {
+   "device": "Tab-IND10AND",
+   "name": "Tab-IND 10 AND",
+   "model": "Tab-IND 10 AND"
   }
  ],
  "Performance": [
