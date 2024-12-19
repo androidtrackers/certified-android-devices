@@ -553,6 +553,11 @@
  ],
  "ADOC": [
   {
+   "device": "ADOC_D18",
+   "name": "ADOC  D18",
+   "model": "ADOC D18"
+  },
+  {
    "device": "rk3588_t",
    "name": "ADOC EX650",
    "model": "ADOCEX650"
@@ -1076,6 +1081,11 @@
    "device": "L2",
    "name": "L2",
    "model": "L2"
+  },
+  {
+   "device": "L3",
+   "name": "L3",
+   "model": "L3"
   }
  ],
  "ALPHA_LING": [
@@ -2589,6 +2599,11 @@
    "device": "A170",
    "name": "A170",
    "model": "A170"
+  },
+  {
+   "device": "A171_14",
+   "name": "A171_14",
+   "model": "A171"
   },
   {
    "device": "A171_14",
@@ -8194,6 +8209,11 @@
    "device": "EP1095T",
    "name": "EP1095T",
    "model": "EP1095T"
+  },
+  {
+   "device": "EP1095T",
+   "name": "EP1095T_EEA",
+   "model": "A30"
   },
   {
    "device": "EP1095T",
@@ -24576,6 +24596,11 @@
    "device": "F880",
    "name": "F880",
    "model": "F880"
+  },
+  {
+   "device": "M95",
+   "name": "M95",
+   "model": "M95"
   }
  ],
  "CIMI": [
@@ -41637,6 +41662,13 @@
    "device": "SEI500EV",
    "name": "EVOPRO",
    "model": "EVOPRO"
+  }
+ ],
+ "EVOTA": [
+  {
+   "device": "MTK9679",
+   "name": "EVOTA_EP",
+   "model": "EVOTA_EP"
   }
  ],
  "EVVO": [
@@ -60603,6 +60635,11 @@
    "device": "A42",
    "name": "A42",
    "model": "A42"
+  },
+  {
+   "device": "A43",
+   "name": "A43",
+   "model": "A43"
   },
   {
    "device": "A44",
@@ -98305,6 +98342,11 @@
  ],
  "Lanix": [
   {
+   "device": "ALPHA4",
+   "name": "ALPHA4",
+   "model": "ALPHA 4"
+  },
+  {
    "device": "Alpha_1R",
    "name": "Alpha 1R",
    "model": "Alpha 1R"
@@ -111498,6 +111540,11 @@
    "model": "MEIZU E3"
   },
   {
+   "device": "Meizu21Note",
+   "name": "LynkCo Phone Note",
+   "model": "LynkCo Phone Note"
+  },
+  {
    "device": "M15",
    "name": "M15",
    "model": "M15"
@@ -118936,6 +118983,16 @@
    "model": "moto g04s"
   },
   {
+   "device": "lamul",
+   "name": "moto g05",
+   "model": "lamu_g"
+  },
+  {
+   "device": "lamul",
+   "name": "moto g05",
+   "model": "moto g05"
+  },
+  {
    "device": "capri",
    "name": "moto g10 power",
    "model": "moto g(10) power"
@@ -118959,6 +119016,16 @@
    "device": "cancun",
    "name": "moto g14",
    "model": "moto g14"
+  },
+  {
+   "device": "lamu",
+   "name": "moto g15",
+   "model": "lamu_g"
+  },
+  {
+   "device": "lamu",
+   "name": "moto g15",
+   "model": "moto g15"
   },
   {
    "device": "xpeng",
@@ -181965,6 +182032,11 @@
    "device": "rk3588_t",
    "name": "Synetech_Elite_Taurus",
    "model": "Synetech_T35"
+  },
+  {
+   "device": "Piscis",
+   "name": "infnity_Piscis_E1",
+   "model": "Pxx79"
   }
  ],
  "T-Mobile": [
@@ -198780,6 +198852,13 @@
    "model": "UNI10IN"
   }
  ],
+ "UNION99": [
+  {
+   "device": "ZLQ9",
+   "name": "ZLQ9",
+   "model": "ZLQ9"
+  }
+ ],
  "UNIQ-CELL": [
   {
    "device": "D10",
@@ -199335,6 +199414,11 @@
    "device": "Armor_X2",
    "name": "Armor X2",
    "model": "Armor_X2"
+  },
+  {
+   "device": "GQ5015AH1",
+   "name": "Armor X31 Pro",
+   "model": "Armor X31 Pro"
   },
   {
    "device": "Armor_X5_Q",
@@ -217834,6 +217918,11 @@
   },
   {
    "device": "M8100",
+   "name": "M8100",
+   "model": "M8100"
+  },
+  {
+   "device": "M8100",
    "name": "M8100_EEA",
    "model": "M8100"
   },
@@ -230076,6 +230165,11 @@
    "model": "K8"
   },
   {
+   "device": "iData_T1_UHF",
+   "name": "T1UHF",
+   "model": "iData T1 UHF"
+  },
+  {
    "device": "iData_50_EEA",
    "name": "iData 50",
    "model": "iData 50"
@@ -230104,6 +230198,11 @@
    "device": "T1",
    "name": "iData T1",
    "model": "iData T1"
+  },
+  {
+   "device": "iData_T1S",
+   "name": "iData T1S",
+   "model": "iData T1S"
   },
   {
    "device": "iData_T2",
