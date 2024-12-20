@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-19
+Last sync is 2024-12-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7890,6 +7890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELEXIA|ELEXIA|tennoji|2K ELEXIA Google TV|
 |ELITESOFT|Tab101|Tab101|Tab101|
 |ELMO|ELXXR5G|ELXXR5G|ELXXR5X|
+|ELO Touch|10-inch I-Series 5|10in-I-Series-5|10in-I-Series-5|
 |ELO Touch|10in-I-Series-4|10in-I-Series-4|10in-I-Series-4|
 |ELO Touch|10in-I-Series-4-Value|10in-I-Series-4-Value|10in-I-Series-4-Value|
 |ELO Touch|15in-I-Series-4|15in-I-Series-4|15in-I-Series-4|
@@ -7897,6 +7898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|
 |ELO Touch|15in-I-Series-4-Value|15in-I-Series-4-Value|15in-I-Series-4-Value|
 |ELO Touch|15in-I-Series-5|15in-I-Series-5|15in-I-Series-5|
+|ELO Touch|15in-I-Series-5-USB-C|15in-I-Series-5-USB-C|15in-I-Series-5-USB-C|
 |ELO Touch|22in-I-Series 4-Value|22in-I-Series-4-Value|22in-I-Series-4-Value|
 |ELO Touch|22in-I-Series-4|22in-I-Series-4|22in-I-Series-4|
 |ELO Touch|22in-I-Series-5|22in-I-Series-5|22in-I-Series-5|
@@ -8907,6 +8909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Flow|FlowBox-F1|HP40A2|FlowBox-F1|
 |Flow|FlowBox-F2|HP44H|FlowBox-F2|
 |Flow|FlowBox-S2|m250_t|FlowBox-S2|
+|Flow|FlowBox-Z3|B866V2F_FLOW|FlowBox-Z3|
 |Flow|FlowSoundBox|m393gena_teco|FlowSoundBox|
 |Flow|Flowbox-F1|HP40A2|FlowBox-F1|
 |Fluo|F|F|F|
@@ -9716,6 +9719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|MX50|mx50|mx50|
 |Getac|Z710|z710|Getac Z710|
 |Getac|ZX10|zx10|ZX10|
+|Getac|ZX10G2|zx10g2|ZX10G2|
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
 |Getac|ZX70G2|zx70g2|ZX70G2|
@@ -10424,6 +10428,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|4K Smart TV|pioneer|4K PA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|4K SA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|HKC 4K SA Smart TV|
+|HKC Elec|Google Monitor|caoya|2851F Google Monitor|
+|HKC Elec|Google Monitor|caoya|Google Monitor|
 |HKC Elec|Google TV|burbank|4K KR Google TV|
 |HKC Elec|Google TV|burbank|4K PA Google TV|
 |HKC Elec|Google TV|burbank|4K SA Google TV|
@@ -10438,6 +10444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|nagai|2K SA Google TV|
 |HKC Elec|Google TV|nagai|2K US Google TV|
 |HKC Elec|Google TV|nagai|POLYTRON 2K|
+|HKC Elec|Google TV|panormou|4K 9676 Google TV|
 |HKC Elec|Google TV|piha|4K JP ACAS Google TV|
 |HKC Elec|Google TV|piha|4K JP BCAS Google TV|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
@@ -19069,6 +19076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LW|LW688|LW688|LW688|
 |LW|LW788|LW788|LW788|
 |LYNKNEX|LYNKNEX PX5|LYNKNEX-PX5|PX5|
+|LYNKNEX|PX350|PX350|PX350|
 |LYNKNEX|PX5|LYNKNEX-PX5|PX5|
 |LYOTECH_LABS|LFi_ONE_EEA|LFi_ONE|LFi ONE|
 |LZU_lzu|D113|D113|D113|
@@ -21019,6 +21027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MPORT|MPORT-IFPD|rk3588_t|e_Smarter|
 |MPman|MPDC1006|MPDC1006|MPDC1006|
 |MPman|MPDC706|MPDC706|MPDC706|
+|MSI|Google Monitor|caoya|Google Monitor|
 |MSI|NB32-Gen2|NB32-Gen2|NB32-Gen2|
 |MSI|ND52-Gen2|ND52-Gen2|ND52-Gen2|
 |MSI|Primo73|N71J|Primo73|
@@ -25243,6 +25252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5 2020|OP4B79L1|CPH1931|
 |Oppo|A5 2020|OP4B79L1|CPH1933|
 |Oppo|A5 2020|OP4B80L1|CPH1943|
+|Oppo|A5 Pro 5G|OP5DF3|PKP110|
 |Oppo|A51|A51|A51|
 |Oppo|A51|A51|Lava A51|
 |Oppo|A51f|A51|A51f|

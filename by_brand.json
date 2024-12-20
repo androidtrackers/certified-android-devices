@@ -40900,6 +40900,11 @@
  ],
  "ELO Touch": [
   {
+   "device": "10in-I-Series-5",
+   "name": "10-inch I-Series 5",
+   "model": "10in-I-Series-5"
+  },
+  {
    "device": "10in-I-Series-4",
    "name": "10in-I-Series-4",
    "model": "10in-I-Series-4"
@@ -40933,6 +40938,11 @@
    "device": "15in-I-Series-5",
    "name": "15in-I-Series-5",
    "model": "15in-I-Series-5"
+  },
+  {
+   "device": "15in-I-Series-5-USB-C",
+   "name": "15in-I-Series-5-USB-C",
+   "model": "15in-I-Series-5-USB-C"
   },
   {
    "device": "22in-I-Series-4-Value",
@@ -46315,6 +46325,11 @@
    "model": "FlowBox-S2"
   },
   {
+   "device": "B866V2F_FLOW",
+   "name": "FlowBox-Z3",
+   "model": "FlowBox-Z3"
+  },
+  {
    "device": "m393gena_teco",
    "name": "FlowSoundBox",
    "model": "FlowSoundBox"
@@ -50564,6 +50579,11 @@
    "model": "ZX10"
   },
   {
+   "device": "zx10g2",
+   "name": "ZX10G2",
+   "model": "ZX10G2"
+  },
+  {
    "device": "zx70",
    "name": "ZX70",
    "model": "ZX70"
@@ -54248,6 +54268,16 @@
    "model": "HKC 4K SA Smart TV"
   },
   {
+   "device": "caoya",
+   "name": "Google Monitor",
+   "model": "2851F Google Monitor"
+  },
+  {
+   "device": "caoya",
+   "name": "Google Monitor",
+   "model": "Google Monitor"
+  },
+  {
    "device": "burbank",
    "name": "Google TV",
    "model": "4K KR Google TV"
@@ -54316,6 +54346,11 @@
    "device": "nagai",
    "name": "Google TV",
    "model": "POLYTRON 2K"
+  },
+  {
+   "device": "panormou",
+   "name": "Google TV",
+   "model": "4K 9676 Google TV"
   },
   {
    "device": "piha",
@@ -98261,6 +98296,11 @@
    "model": "PX5"
   },
   {
+   "device": "PX350",
+   "name": "PX350",
+   "model": "PX350"
+  },
+  {
    "device": "LYNKNEX-PX5",
    "name": "PX5",
    "model": "PX5"
@@ -108244,6 +108284,11 @@
   }
  ],
  "MSI": [
+  {
+   "device": "caoya",
+   "name": "Google Monitor",
+   "model": "Google Monitor"
+  },
   {
    "device": "NB32-Gen2",
    "name": "NB32-Gen2",
@@ -130025,6 +130070,11 @@
    "device": "OP4B80L1",
    "name": "A5 2020",
    "model": "CPH1943"
+  },
+  {
+   "device": "OP5DF3",
+   "name": "A5 Pro 5G",
+   "model": "PKP110"
   },
   {
    "device": "A51",
