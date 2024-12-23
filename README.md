@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-22
+Last sync is 2024-12-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12536,6 +12536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homeplustv|HCA6010|HCA6010|HCA-6010|
 |Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
 |Homeplustv|STB-6252C|STB6252C|STB-6252C|
+|Homeplustv|VSB-3918|vsb3918_apac|VSB-3918|
 |Hometech|ALFA10TX|ALFA10TX|ALFA10TX|
 |Hometech|7_PREMIUM_PRO|7_PREMIUM_PRO|7_PREMIUM_PRO|
 |Hometech|ALFA 10RC|ALFA_10RC|ALFA_10RC|
@@ -25765,7 +25766,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno12 Pro|OP5A2BL1|PJW110|
 |Oppo|Reno12 Pro 5G|OP5AE1L1|CPH2629|
 |Oppo|Reno13|OP5DD7L1|PKM110|
+|Oppo|Reno13 5G|OP5E9EL1|CPH2689|
+|Oppo|Reno13 F|OP5ECBL1|CPH2701|
 |Oppo|Reno13 Pro|OP5DD5L1|PKK110|
+|Oppo|Reno13 Pro 5G|OP5EC5L1|CPH2697|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|

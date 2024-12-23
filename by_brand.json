@@ -64944,6 +64944,11 @@
    "device": "STB6252C",
    "name": "STB-6252C",
    "model": "STB-6252C"
+  },
+  {
+   "device": "vsb3918_apac",
+   "name": "VSB-3918",
+   "model": "VSB-3918"
   }
  ],
  "Hometech": [
@@ -132637,9 +132642,24 @@
    "model": "PKM110"
   },
   {
+   "device": "OP5E9EL1",
+   "name": "Reno13 5G",
+   "model": "CPH2689"
+  },
+  {
+   "device": "OP5ECBL1",
+   "name": "Reno13 F",
+   "model": "CPH2701"
+  },
+  {
    "device": "OP5DD5L1",
    "name": "Reno13 Pro",
    "model": "PKK110"
+  },
+  {
+   "device": "OP5EC5L1",
+   "name": "Reno13 Pro 5G",
+   "model": "CPH2697"
   },
   {
    "device": "OP4B65L1",
