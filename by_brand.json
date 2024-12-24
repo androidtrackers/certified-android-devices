@@ -66635,6 +66635,11 @@
  "HotLight": [
   {
    "device": "C108",
+   "name": "C108",
+   "model": "C108"
+  },
+  {
+   "device": "C108",
    "name": "C108_EEA",
    "model": "C108"
   },
@@ -83530,6 +83535,13 @@
    "device": "JCB_TP231",
    "name": "JCB_TP231",
    "model": "JCB TP231"
+  }
+ ],
+ "JECTNOTE": [
+  {
+   "device": "JT_PH86TOC",
+   "name": "Interactive_whiteboard",
+   "model": "JT_PH86TOC"
   }
  ],
  "JEEMAK": [
@@ -197008,6 +197020,11 @@
    "model": "A40"
   },
   {
+   "device": "E101",
+   "name": "E101",
+   "model": "E101"
+  },
+  {
    "device": "SmartPad_E220",
    "name": "SmartPad_E220",
    "model": "SmartPad_E220"
@@ -208320,6 +208337,11 @@
    "model": "V2329A"
   },
   {
+   "device": "I2401",
+   "name": "iQOO 13",
+   "model": "I2401"
+  },
+  {
    "device": "PD2408",
    "name": "iQOO 13",
    "model": "V2408A"
@@ -213728,6 +213750,11 @@
    "model": "P55"
   },
   {
+   "device": "Tech-A1",
+   "name": "Tech-A1",
+   "model": "Tech A1"
+  },
+  {
    "device": "Tech_A1_Plus",
    "name": "Tech_A1_Plus",
    "model": "Tech_A1_Plus"
@@ -213753,11 +213780,6 @@
    "device": "T2",
    "name": "T2",
    "model": "T2"
-  },
-  {
-   "device": "Tech-A1",
-   "name": "Tech-A1",
-   "model": "Tech A1"
   },
   {
    "device": "Nano6",
@@ -229434,6 +229456,13 @@
    "model": "F8_EEA"
   }
  ],
+ "firstIT": [
+  {
+   "device": "FIT_G8613TCVR",
+   "name": "Interactive_whiteboard",
+   "model": "FIT_G8613TCVR"
+  }
+ ],
  "fplus": [
   {
    "device": "H166",
@@ -232688,6 +232717,11 @@
    "model": "RMX5000"
   },
   {
+   "device": "RE606B",
+   "name": "realme 14x 5G",
+   "model": "RMX3940"
+  },
+  {
    "device": "SW6H",
    "name": "realme 4K G Smart TV",
    "model": "realme 4K G Smart TV"
@@ -233121,6 +233155,11 @@
    "device": "RE6054",
    "name": "realme Note 60",
    "model": "RMX3933"
+  },
+  {
+   "device": "RE6095",
+   "name": "realme Note 60x",
+   "model": "RMX3938"
   },
   {
    "device": "RE5C86L1",

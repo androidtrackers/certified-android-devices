@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-23
+Last sync is 2024-12-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12870,6 +12870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hot Pepper|T11 Pro|T11_Pro|T11 Pro|
 |Hot Pepper|VLE5|VLE5|VLE5|
 |Hot Pepper|VLE5|VLE5A|VLE5A|
+|HotLight|C108|C108|C108|
 |HotLight|C108_EEA|C108|C108|
 |HotLight|TP1003|TP1003|TP1003|
 |HotLight|TP1003|TP1003_EEA|TP1003|
@@ -16200,6 +16201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JCB_UK|JCB_TP231|JCB_TP231|JCB TP231|
+|JECTNOTE|Interactive_whiteboard|JT_PH86TOC|JT_PH86TOC|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
 |JHZL|J101|J101|J101|
@@ -38362,6 +38364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
 |TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
 |Tibuta|A40|A40|A40|
+|Tibuta|E101|E101|E101|
 |Tibuta|SmartPad_E220|SmartPad_E220|SmartPad_E220|
 |Tibuta|Tibuta_MasterPad-E100|Tibuta_MasterPad-E100|Tibuta_MasterPad-E100|
 |Tibuta|Tibuta_MasterPad-T100|Tibuta_MasterPad-T100|Tibuta_MasterPad-T100|
@@ -40544,6 +40547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 12|I2220|I2220|
 |Vivo|iQOO 12|PD2307|V2307A|
 |Vivo|iQOO 12 Pro|PD2329|V2329A|
+|Vivo|iQOO 13|I2401|I2401|
 |Vivo|iQOO 13|PD2408|V2408A|
 |Vivo|iQOO 9 Pro|2022|I2022|
 |Vivo|iQOO 9 SE|2019|I2019|
@@ -41594,12 +41598,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wirele-X|MT70|MT70|MT70|
 |Wise-Tech|P33|P33|P33|
 |Wise-Tech|P55|P55|P55|
+|Wise-Tech|Tech-A1|Tech-A1|Tech A1|
 |Wise-Tech|Tech_A1_Plus|Tech_A1_Plus|Tech_A1_Plus|
 |Wise-Tech|Wise-Tech_M1|Wise-Tech_M1|Wise-Tech_M1|
 |Wiseasy|Nano 6|Nano6|Nano6|
 |Wiseasy|P5_EEA|P5|P5|
 |Wiseasy|T2|T2|T2|
-|Wiseasy|Tech-A1|Tech-A1|Tech A1|
 |Wiseasy|WISEASY N6|Nano6|Nano6|
 |Wiseasy|WISENET5|WISENET5|WISENET5|
 |Wiseasy|Wiseasy P5|P5|P5|
@@ -44664,6 +44668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |fezawio|F11_EEA|F11_EEA|F11_EEA|
 |fezawio|F11_US|F11_US|F11_US|
 |fezawio|F8_EEA|F8_EEA|F8_EEA|
+|firstIT|Interactive_whiteboard|FIT_G8613TCVR|FIT_G8613TCVR|
 |fplus|H166|H166|H166|
 |fplus|Life Tab Plus|lifetabplus|LifeTabPlus|
 |fplus|P670|P670|P670|
@@ -45276,6 +45281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13 Pro+ 5G|RE5CA3L1|RMX3921|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
+|realme|realme 14x 5G|RE606B|RMX3940|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -45363,6 +45369,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Note 50|RE5C9F|RMX3834|
 |realme|realme Note 60|RE6054|RMX3933|
+|realme|realme Note 60x|RE6095|RMX3938|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme P1 Speed 5G|RE6066L1|RMX5004|
