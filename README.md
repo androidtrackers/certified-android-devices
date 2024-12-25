@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-24
+Last sync is 2024-12-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4730,6 +4730,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|MC50|MC50|MC50|
 |CHAINWAY|MC62|MC62|MC62|
 |CHAINWAY|MC95|MC95|MC95|
+|CHAINWAY|P100|P100|P100|
+|CHAINWAY|P100S|P100S|P100S|
 |CHAINWAY|P80|P80|P80|
 |CHAINWAY|P80_B|P80_PRO|P80|
 |CHAINWAY|P80_EEA|P80|P80|
@@ -8672,6 +8674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|A401FC|A401FC|A401FC|
 |FCNT|AW02|AW02|AW02|
 |FCNT|F-52B|F52B|F-52B|
+|FCNT|F-53E|F53E|F-53E|
 |FCNT|MR01|MR01|MR01|
 |FCNT|SD01|SD01|SD01|
 |FCNT|arrows BZ02|BZ02|BZ02|
@@ -10447,6 +10450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|panormou|4K 9676 Google TV|
 |HKC Elec|Google TV|piha|4K JP ACAS Google TV|
 |HKC Elec|Google TV|piha|4K JP BCAS Google TV|
+|HKC Elec|HKC TV|kannai|2K JP Google TV|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
 |HKC Elec|Smart TV|mateo|2K US Smart TV|
@@ -16299,6 +16303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|kaitak|JVCSA 4KGoogle TV|
 |JVC|JVC|kaitak|JVCSA 4KGoogleTV|
 |JVC|JVC|kaitak|Platinum Google TV|
+|JVC|JVC|khardi|4K SMART TV|
 |JVC|JVC|komagome|EU 2K Android TV|
 |JVC|JVC|komagome|JVC 2K Android TV|
 |JVC|JVC|komagome|JVC EU 2K Android TV|
@@ -16796,6 +16801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|QRIOM|lavender|4K SMART TV|
 |KTCtv|QRIOM|minami|2K SMART TV|
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
+|KTCtv|RANCON|khardi|4K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
 |KTCtv|REYNA|lavender|4K SMART TV|
@@ -28933,6 +28939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4C|
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4I|
 |Redmi|Redmi Note 14 Pro|malachite|24090RA29C|
+|Redmi|Redmi Note 14 Pro 5G|malachite|24090RA29I|
 |Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
@@ -38363,6 +38370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|ThomsonTV|shibuya|ThomsonTV|
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
 |TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
+|Tibuta|A30|A30|A30|
 |Tibuta|A40|A40|A40|
 |Tibuta|E101|E101|E101|
 |Tibuta|SmartPad_E220|SmartPad_E220|SmartPad_E220|
@@ -45461,6 +45469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V60s|RE5C44|RMX3996|
 |redbeat|D5|D5|D5|
 |redbeat|E3|E3|E3|
+|redbeat|redbeatA2|redbeatA2|RG-TB10|
 |redbeat|redbeatA2|redbeatA2|redbeatA2|
 |redbeat|redbeatC1|redbeatC1|C1|
 |redbeat|redbeatC1|redbeatC1|redbeatC1|

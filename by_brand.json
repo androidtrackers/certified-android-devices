@@ -24432,6 +24432,16 @@
    "model": "MC95"
   },
   {
+   "device": "P100",
+   "name": "P100",
+   "model": "P100"
+  },
+  {
+   "device": "P100S",
+   "name": "P100S",
+   "model": "P100S"
+  },
+  {
    "device": "P80",
    "name": "P80",
    "model": "P80"
@@ -45048,6 +45058,11 @@
    "model": "F-52B"
   },
   {
+   "device": "F53E",
+   "name": "F-53E",
+   "model": "F-53E"
+  },
+  {
    "device": "MR01",
    "name": "MR01",
    "model": "MR01"
@@ -54361,6 +54376,11 @@
    "device": "piha",
    "name": "Google TV",
    "model": "4K JP BCAS Google TV"
+  },
+  {
+   "device": "kannai",
+   "name": "HKC TV",
+   "model": "2K JP Google TV"
   },
   {
    "device": "mateo",
@@ -84055,6 +84075,11 @@
    "model": "Platinum Google TV"
   },
   {
+   "device": "khardi",
+   "name": "JVC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "komagome",
    "name": "JVC",
    "model": "EU 2K Android TV"
@@ -86666,6 +86691,11 @@
    "device": "mountbaker",
    "name": "QRIOM",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "khardi",
+   "name": "RANCON",
+   "model": "4K SMART TV"
   },
   {
    "device": "mountbaker",
@@ -148937,6 +148967,11 @@
    "model": "24090RA29C"
   },
   {
+   "device": "malachite",
+   "name": "Redmi Note 14 Pro 5G",
+   "model": "24090RA29I"
+  },
+  {
    "device": "amethyst",
    "name": "Redmi Note 14 Pro+",
    "model": "24115RA8EC"
@@ -197015,6 +197050,11 @@
  ],
  "Tibuta": [
   {
+   "device": "A30",
+   "name": "A30",
+   "model": "A30"
+  },
+  {
    "device": "A40",
    "name": "A40",
    "model": "A40"
@@ -233617,6 +233657,11 @@
    "device": "E3",
    "name": "E3",
    "model": "E3"
+  },
+  {
+   "device": "redbeatA2",
+   "name": "redbeatA2",
+   "model": "RG-TB10"
   },
   {
    "device": "redbeatA2",
