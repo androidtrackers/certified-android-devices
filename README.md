@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-25
+Last sync is 2024-12-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6753,6 +6753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daelim_System|Daelim System_IFPD|Daelim_System_RK3588|ULTRA_DS11386|
 |Daewoo|4K Smart TV|pioneer|4K SA Smart TV|
 |Daewoo|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
+|Daewoo|DAEWOO|hongkong|4K SMART TV|
 |Daewoo|DAEWOO|lavender|4K SMART TV|
 |Daewoo|DAEWOO|mountbaker|2K SMART TV|
 |Daewoo|DAEWOO|mountbaker|DAEWOO SMART TV|
@@ -6767,6 +6768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|X9|X9|X9|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
 |Dahua|DAHUA|hongkong|4K SMART TV|
+|Dahua|DAHUA|hongkong|EcoTV Plus A|
 |Dahua|DAHUA|mountbaker|2K SMART TV|
 |Dahua|DAHUA|mountbaker|EcoTV FHD|
 |Dahua|DAHUA|stanford|2K SMART TV|
@@ -10252,6 +10254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gradiente|GTB_106|GTB_106|GTB_106|
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
 |Gradiente|iphone C600|bravo|iphone C600|
+|Graetz|GRAETZ|hongkong|4K SMART TV|
 |Graetz|GRAETZ|lavender|4K SMART TV|
 |Graetz|GRAETZ|mountbaker|2K SMART TV|
 |Grandstream|Grandstream WP856|WP856|WP856|
@@ -14692,6 +14695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|hongkong|4K SMART ATSC TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART COL TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
+|Hyundai|HYUNDAI|hongkong|HYUNDAI 4K SMART TV|
 |Hyundai|HYUNDAI|lavender|4K SMART COL TV|
 |Hyundai|HYUNDAI|lavender|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|lavender|HYUNDAI 4K SMART TV|
@@ -16703,6 +16707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|EcoTVCOL|lavender|EcoTV C|
 |KTC|EcoTVDVB|lavender|EcoTV D|
 |KTC|EcoTVISDB|lavender|EcoTV|
+|KTC|KTC|hongkong|4K SMART TV|
 |KTC|KTC|mountbaker|2K SMART TV|
 |KTC|SD_GM01|Capricorn|Eco Smart Display|
 |KTC|W83B-LANGO3576|W83B-F2-RK3576|W83B-F2-RK3576|
@@ -16726,12 +16731,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
+|KTCtv|DAMASCO|hongkong|4K SMART TV|
 |KTCtv|DAMASCO|khardi|4K SMART TV|
 |KTCtv|DAMASCO|lavender|4K SMART TV|
 |KTCtv|DAMASCO|mountbaker|2K SMART TV|
 |KTCtv|DANILUX|hongkong|4K SMART TV|
 |KTCtv|DANILUX|lavender|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
+|KTCtv|DEC|hongkong|4K SMART TV|
 |KTCtv|DIGGIO|hongkong|DIGGIO GOOGLE TV 4K|
 |KTCtv|DIGGIO|lavender|DIGGIO GOOGLE TV 4K|
 |KTCtv|DIGGIO|mountbaker|DIGGIO GOOGLE TV|
@@ -16757,6 +16764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
+|KTCtv|IBG|hongkong|4K SMART TV|
 |KTCtv|IBG|lavender|4K SMART TV|
 |KTCtv|IBG|mountbaker|2K SMART TV|
 |KTCtv|IHOME|hongkong|4K SMART TV|
@@ -16825,6 +16833,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
 |KTCtv|VIMEEL|lavender|VIMEEL GOOGLE TV 4K|
 |KTCtv|VIMEEL|mountbaker|VIMEEL GOOGLE TV|
+|KTCtv|VIOTTO|hongkong|4K SMART ISDB TV|
+|KTCtv|VIOTTO|hongkong|4K SMART TV|
 |KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
 |KTCtv|VIOTTO|mountbaker|2K SMART ISDB TV|
@@ -17093,6 +17103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kioto|MID1028|MID1028|MID1028|
 |Kioto|MID1036|MID1036|MID1036|
 |Kiowa|A5_CRISTAL|A5_CRISTAL|A5_CRISTAL|
+|Kiowa|KIOWA|hongkong|4K SMART TV|
 |Kiowa|KIOWA|lavender|4K SMART TV|
 |Kiowa|KIOWA|mountbaker|2K SMART TV|
 |Kiowa|KIOWA|stanford|2K SMART TV|
@@ -19049,6 +19060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT_Mobile|LT_mobile_S33|LT_mobile_S33|LT S33|
 |LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
+|LUCOMS|IWB|rk3588_t|siwxxf1x|
 |LUCOMS|LUCMOS|hongkong|4K SMART TV|
 |LUCOMS|LUCOMS|mountbaker|2K SMART TV|
 |LUCOMS|LUCOMS|stanford|2K SMART TV|
@@ -20949,6 +20961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|TPM4G_E108|TPM4G_E108|TPM4G_E108|
 |MIRAY|TPM4G_E108_A|TPM4G_E108_A|TPM4G_E108|
 |MIRAY|TPM4G_E9863|TPM4G_E9863|TPM4G_E9863|
+|MIRO|A1|A1|MIRO A1|
 |MIRO|Miro A67|Miro_A67|Miro A67|
 |MIRO|Miro C67|Miro_C67|Miro C67|
 |MIRO|Miro S67|Miro_S67|Miro S67|
@@ -29768,6 +29781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P08|P08|P08|
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
+|SVITOO|P11_pro|P11|P11|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SWACONNECT|SWA310|SWA310|SWA310|
 |SWACONNECT|SWA310_NEU|SWA310|SWA310|

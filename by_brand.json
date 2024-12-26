@@ -34969,6 +34969,11 @@
    "model": "DAEWOO 4K SA Smart TV"
   },
   {
+   "device": "hongkong",
+   "name": "DAEWOO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "DAEWOO",
    "model": "4K SMART TV"
@@ -35041,6 +35046,11 @@
    "device": "hongkong",
    "name": "DAHUA",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "DAHUA",
+   "model": "EcoTV Plus A"
   },
   {
    "device": "mountbaker",
@@ -53313,6 +53323,11 @@
   }
  ],
  "Graetz": [
+  {
+   "device": "hongkong",
+   "name": "GRAETZ",
+   "model": "4K SMART TV"
+  },
   {
    "device": "lavender",
    "name": "GRAETZ",
@@ -75782,6 +75797,11 @@
    "model": "4K SMART ISDB TV"
   },
   {
+   "device": "hongkong",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI 4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "HYUNDAI",
    "model": "4K SMART COL TV"
@@ -86199,6 +86219,11 @@
    "model": "EcoTV"
   },
   {
+   "device": "hongkong",
+   "name": "KTC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "KTC",
    "model": "2K SMART TV"
@@ -86318,6 +86343,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "hongkong",
+   "name": "DAMASCO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "khardi",
    "name": "DAMASCO",
    "model": "4K SMART TV"
@@ -86346,6 +86376,11 @@
    "device": "mountbaker",
    "name": "DANILUX",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "DEC",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -86471,6 +86506,11 @@
    "device": "mountbaker",
    "name": "HARMON-TEC",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "IBG",
+   "model": "4K SMART TV"
   },
   {
    "device": "lavender",
@@ -86811,6 +86851,16 @@
    "device": "mountbaker",
    "name": "VIMEEL",
    "model": "VIMEEL GOOGLE TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "VIOTTO",
+   "model": "4K SMART ISDB TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "VIOTTO",
+   "model": "4K SMART TV"
   },
   {
    "device": "lavender",
@@ -88237,6 +88287,11 @@
    "device": "A5_CRISTAL",
    "name": "A5_CRISTAL",
    "model": "A5_CRISTAL"
+  },
+  {
+   "device": "hongkong",
+   "name": "KIOWA",
+   "model": "4K SMART TV"
   },
   {
    "device": "lavender",
@@ -98139,6 +98194,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "rk3588_t",
+   "name": "IWB",
+   "model": "siwxxf1x"
+  },
+  {
    "device": "hongkong",
    "name": "LUCMOS",
    "model": "4K SMART TV"
@@ -107860,6 +107920,11 @@
   }
  ],
  "MIRO": [
+  {
+   "device": "A1",
+   "name": "A1",
+   "model": "MIRO A1"
+  },
   {
    "device": "Miro_A67",
    "name": "Miro A67",
@@ -153367,6 +153432,11 @@
   {
    "device": "P11",
    "name": "P11",
+   "model": "P11"
+  },
+  {
+   "device": "P11",
+   "name": "P11_pro",
    "model": "P11"
   },
   {
