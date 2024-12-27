@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-26
+Last sync is 2024-12-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -499,13 +499,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A1-830|ducati|A1-830|
 |Acer|A100|vangogh|A100|
 |Acer|A101|vangogh|A101|
+|Acer|A10M1|acer_A10M1|A10-21|
+|Acer|A10M1|acer_A10M1|A10-21_CUS1|
+|Acer|A10M1|acer_A10M1|A10-21_EEA|
 |Acer|A110|a110|A110|
+|Acer|A11M1|acer_A11M1|A11-11|
+|Acer|A11M1|acer_A11M1|A11-11_EEA|
 |Acer|A3-A10|zara|A3-A10|
 |Acer|A3-A11|zara|A3-A11|
 |Acer|A3-A20|acer_harley|A3-A20|
 |Acer|A3-A20FHD|acer_harleyfhd|A3-A20FHD|
 |Acer|A3-A30|omega|A3-A30|
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
+|Acer|A8M1|acer_A8M1|A8-11|
+|Acer|A8M1|acer_A8M1|A8-11_EEA|
 |Acer|ACER ALTOS EZA|AKREI13|ACER_ALTOS_EZA|
 |Acer|ACER ALTOS EZBA|AKMEI14|ACER_ALTOS_EZBA|
 |Acer|ACER_ALTOS_EZB|AKMEI14|ACER_ALTOS_EZB|
@@ -580,6 +587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|B3-A32|acer_jetfirelte|B3-A32|
 |Acer|B3-A40|acer_asgard|B3-A40|
 |Acer|B3-A40FHD|acer_asgardfhd|B3-A40FHD|
+|Acer|Battlezone|Battlezone|M10-11|
 |Acer|Battlezone LTE|Battlezone_LTE|M10-12|
 |Acer|Battlezone LTE|Battlezone_LTE|M10-12_EEA|
 |Acer|Baymax|Baymax|EUT110-11A|
@@ -612,6 +620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|DA241HL|DA241HL|DA241HL|
 |Acer|DA245HQL|da245hql|DA245HQL|
 |Acer|E380|acer_e3n|E380|
+|Acer|Frontier|Frontier|P10-11|
 |Acer|G1-715|G1-715|G1-715|
 |Acer|G100W|maya|G100W|
 |Acer|GT-810|rolex|GT-810|
@@ -711,7 +720,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|M3-2200|da2|M3-2200|
 |Acer|MWND1|MW1|MWND1|
 |Acer|N3-2200|da2|N3-2200|
+|Acer|P10M2|acer_P10M2|P10-21|
 |Acer|P11|P11|P11-11|
+|Acer|P11|P11|P11-11_EEA|
+|Acer|P11|P11|P11-11_EEA_CUS1|
+|Acer|P11|P11|P11-11_PAPAP_CUS1|
 |Acer|Picasso|picasso|A501|
 |Acer|Picasso|ventana|A500|
 |Acer|Picasso|ventana|G100W|
@@ -723,9 +736,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|TA272HUL|ta2|TA272HUL|
 |Acer|TPA60W|maya|TPA60W|
 |Acer|Tab 7|td070va1|TD070VA1|
+|Acer|Tattoo|Tattoo|A10-11|
 |Acer|Ultimo|Ultimo|EUT310A-11A|
+|Acer|V10M2|acer_V10M2|V10-21|
+|Acer|V11M1|acer_V11M1|V11-11|
+|Acer|V11M1|acer_V11M1|V11-11_EEA|
 |Acer|Walle|Walle|ET-108-11A|
 |Acer|Walle|Walle|ET-108-11AR|
+|Acer|X12M1|acer_X12M1|X12-11|
 |Acer|Z110|Z1|Z110|
 |Acer|Z120|Z2|Z120|
 |Acer|acerpure|waiawa|DAC51U|
@@ -25069,6 +25087,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Ace|OP5565|PGKM10|
 |OnePlus|OnePlus Ace 3|OP5CF9L1|PJE110|
 |OnePlus|OnePlus Ace 3V|OP5CFBL1|PJF110|
+|OnePlus|OnePlus Ace 5|OP5D2BL1|PKG110|
+|OnePlus|OnePlus Ace 5 Pro|OP60EBL1|PKR110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
@@ -27413,6 +27433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
 |Positivo|Union US2070|US2070|Positivo US2070|
+|Positivo|Vision Tab 7|T307F|T307F|
 |Positivo|X400|X400|X400|
 |Positivo|YPY 10 3G|YPY_10FTA|YPY_10FTA|
 |Positivo|YPY AB7|YPY_AB7|Positivo Ypy AB7E|
@@ -37170,6 +37191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TES (Touch Embedded Solutions)|igs-series|igs-series|igs-series|
 |TES (Touch Embedded Solutions)|igs-series-gen2|igs-series-gen2|igs-series-gen2|
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
+|TEYES|CC4PRO|CC4PRO|CC4PRO|
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
 |THANHHUNG_TECHNOLOGY|HERO 9|HERO_9|HERO 9|

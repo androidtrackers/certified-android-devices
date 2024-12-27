@@ -2713,9 +2713,34 @@
    "model": "A101"
   },
   {
+   "device": "acer_A10M1",
+   "name": "A10M1",
+   "model": "A10-21"
+  },
+  {
+   "device": "acer_A10M1",
+   "name": "A10M1",
+   "model": "A10-21_CUS1"
+  },
+  {
+   "device": "acer_A10M1",
+   "name": "A10M1",
+   "model": "A10-21_EEA"
+  },
+  {
    "device": "a110",
    "name": "A110",
    "model": "A110"
+  },
+  {
+   "device": "acer_A11M1",
+   "name": "A11M1",
+   "model": "A11-11"
+  },
+  {
+   "device": "acer_A11M1",
+   "name": "A11M1",
+   "model": "A11-11_EEA"
   },
   {
    "device": "zara",
@@ -2746,6 +2771,16 @@
    "device": "acer_jetfirefhd",
    "name": "A3-A40",
    "model": "A3-A40"
+  },
+  {
+   "device": "acer_A8M1",
+   "name": "A8M1",
+   "model": "A8-11"
+  },
+  {
+   "device": "acer_A8M1",
+   "name": "A8M1",
+   "model": "A8-11_EEA"
   },
   {
    "device": "AKREI13",
@@ -3118,6 +3153,11 @@
    "model": "B3-A40FHD"
   },
   {
+   "device": "Battlezone",
+   "name": "Battlezone",
+   "model": "M10-11"
+  },
+  {
    "device": "Battlezone_LTE",
    "name": "Battlezone LTE",
    "model": "M10-12"
@@ -3276,6 +3316,11 @@
    "device": "acer_e3n",
    "name": "E380",
    "model": "E380"
+  },
+  {
+   "device": "Frontier",
+   "name": "Frontier",
+   "model": "P10-11"
   },
   {
    "device": "G1-715",
@@ -3773,9 +3818,29 @@
    "model": "N3-2200"
   },
   {
+   "device": "acer_P10M2",
+   "name": "P10M2",
+   "model": "P10-21"
+  },
+  {
    "device": "P11",
    "name": "P11",
    "model": "P11-11"
+  },
+  {
+   "device": "P11",
+   "name": "P11",
+   "model": "P11-11_EEA"
+  },
+  {
+   "device": "P11",
+   "name": "P11",
+   "model": "P11-11_EEA_CUS1"
+  },
+  {
+   "device": "P11",
+   "name": "P11",
+   "model": "P11-11_PAPAP_CUS1"
   },
   {
    "device": "picasso",
@@ -3833,9 +3898,29 @@
    "model": "TD070VA1"
   },
   {
+   "device": "Tattoo",
+   "name": "Tattoo",
+   "model": "A10-11"
+  },
+  {
    "device": "Ultimo",
    "name": "Ultimo",
    "model": "EUT310A-11A"
+  },
+  {
+   "device": "acer_V10M2",
+   "name": "V10M2",
+   "model": "V10-21"
+  },
+  {
+   "device": "acer_V11M1",
+   "name": "V11M1",
+   "model": "V11-11"
+  },
+  {
+   "device": "acer_V11M1",
+   "name": "V11M1",
+   "model": "V11-11_EEA"
   },
   {
    "device": "Walle",
@@ -3846,6 +3931,11 @@
    "device": "Walle",
    "name": "Walle",
    "model": "ET-108-11AR"
+  },
+  {
+   "device": "acer_X12M1",
+   "name": "X12M1",
+   "model": "X12-11"
   },
   {
    "device": "Z1",
@@ -129139,6 +129229,16 @@
    "model": "PJF110"
   },
   {
+   "device": "OP5D2BL1",
+   "name": "OnePlus Ace 5",
+   "model": "PKG110"
+  },
+  {
+   "device": "OP60EBL1",
+   "name": "OnePlus Ace 5 Pro",
+   "model": "PKR110"
+  },
+  {
    "device": "OP5911",
    "name": "OnePlus Ace 竞速版",
    "model": "PGZ110"
@@ -141113,6 +141213,11 @@
    "device": "US2070",
    "name": "Union US2070",
    "model": "Positivo US2070"
+  },
+  {
+   "device": "T307F",
+   "name": "Vision Tab 7",
+   "model": "T307F"
   },
   {
    "device": "X400",
@@ -190800,6 +190905,13 @@
    "device": "Mayumi_U1",
    "name": "Mayumi U1",
    "model": "Mayumi U1"
+  }
+ ],
+ "TEYES": [
+  {
+   "device": "CC4PRO",
+   "name": "CC4PRO",
+   "model": "CC4PRO"
   }
  ],
  "TG&Co.": [
