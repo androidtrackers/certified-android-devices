@@ -199,6 +199,16 @@
  ],
  "8849": [
   {
+   "device": "OB-A98",
+   "name": "OB-A98",
+   "model": "OB-A98"
+  },
+  {
+   "device": "OB-P10",
+   "name": "OB-P10",
+   "model": "OB-P10"
+  },
+  {
    "device": "TANK_MINI_1",
    "name": "TANK MINI 1",
    "model": "TANK MINI 1"
@@ -1816,6 +1826,11 @@
    "device": "IT_701A_EEA",
    "name": "IT_701A_EEA",
    "model": "IT_701A"
+  },
+  {
+   "device": "IT_801B",
+   "name": "IT_801B",
+   "model": "IT_801B"
   }
  ],
  "ATOL": [
@@ -2183,6 +2198,11 @@
    "device": "UTBook",
    "name": "UTBook",
    "model": "UTBook"
+  },
+  {
+   "device": "UTBook_14",
+   "name": "UTBook_14",
+   "model": "UTBook_14"
   },
   {
    "device": "UTBook_EEA",
@@ -14708,6 +14728,11 @@
  ],
  "BERGSTROM": [
   {
+   "device": "666770",
+   "name": "666770",
+   "model": "666770"
+  },
+  {
    "device": "H634_BLK",
    "name": "H634_BLK",
    "model": "H634 BLK"
@@ -19933,6 +19958,11 @@
    "device": "MEGA_1",
    "name": "MEGA 1",
    "model": "MEGA 1"
+  },
+  {
+   "device": "MEGA_2",
+   "name": "MEGA 2",
+   "model": "MEGA 2"
   },
   {
    "device": "N6000",
@@ -25653,6 +25683,11 @@
    "device": "S18",
    "name": "S18 EEA",
    "model": "S18"
+  },
+  {
+   "device": "S28",
+   "name": "S28",
+   "model": "S28"
   }
  ],
  "CX Argentina": [
@@ -34916,6 +34951,11 @@
  ],
  "DSIC": [
   {
+   "device": "DS50",
+   "name": "Mobilebase DS50",
+   "model": "DS50"
+  },
+  {
    "device": "ds6",
    "name": "Mobilebase DS6",
    "model": "DS6"
@@ -38368,6 +38408,11 @@
    "model": "F10S"
   },
   {
+   "device": "F1S",
+   "name": "Fire 6 Power",
+   "model": "Fire 6 Power"
+  },
+  {
    "device": "F1SE",
    "name": "Fire_6",
    "model": "Fire 6"
@@ -38493,6 +38538,11 @@
    "model": "N55 Pro"
   },
   {
+   "device": "1928S",
+   "name": "N55S",
+   "model": "N55S"
+  },
+  {
    "device": "1928E",
    "name": "N56",
    "model": "N56"
@@ -38563,6 +38613,11 @@
    "model": "S punk"
   },
   {
+   "device": "M22CT",
+   "name": "S punk Pro",
+   "model": "S Punk Pro"
+  },
+  {
    "device": "M22",
    "name": "S100",
    "model": "S100"
@@ -38591,6 +38646,11 @@
    "device": "M22G",
    "name": "S118",
    "model": "S118"
+  },
+  {
+   "device": "F2PS",
+   "name": "S119",
+   "model": "S119"
   },
   {
    "device": "M22C",
@@ -39021,6 +39081,11 @@
    "device": "P3",
    "name": "T30Ultra",
    "model": "T30Ultra"
+  },
+  {
+   "device": "P7",
+   "name": "T36",
+   "model": "T36"
   },
   {
    "device": "P3_Plus",
@@ -45609,6 +45674,11 @@
    "model": "F109"
   },
   {
+   "device": "F112_Pro",
+   "name": "F112 Pro",
+   "model": "F112 Pro"
+  },
+  {
    "device": "S1",
    "name": "S1",
    "model": "S1"
@@ -45726,6 +45796,11 @@
    "device": "HTH_C67",
    "name": "FOXXD HTH C67",
    "model": "FOXXD HTH C67"
+  },
+  {
+   "device": "HTH_S67",
+   "name": "FOXXD HTH S67",
+   "model": "FOXXD HTH S67"
   },
   {
    "device": "L590A",
@@ -85643,6 +85718,11 @@
    "model": "Armor_H1w"
   },
   {
+   "device": "Armor_I2w",
+   "name": "Armor_I2w",
+   "model": "Armor I2w"
+  },
+  {
    "device": "Armor_P1s",
    "name": "Armor_P1s",
    "model": "Armor P1s"
@@ -87119,9 +87199,19 @@
  ],
  "KXD mobile": [
   {
+   "device": "Blus_Sea_S25_Plus",
+   "name": "Blus_Sea_S25_Plus",
+   "model": "Blus_Sea_S25_Plus"
+  },
+  {
    "device": "D68S",
    "name": "D68S",
    "model": "D68S"
+  },
+  {
+   "device": "Universe_S24_Plus",
+   "name": "Universe_S24_Plus",
+   "model": "Universe_S24_Plus"
   }
  ],
  "KYASTER": [
@@ -128629,6 +128719,11 @@
  ],
  "Okin": [
   {
+   "device": "FP2901",
+   "name": "FP2901",
+   "model": "FP2901"
+  },
+  {
    "device": "FP290101",
    "name": "Tablet_FP",
    "model": "FP290101"
@@ -134635,6 +134730,11 @@
    "model": "WP36 Pro"
   },
   {
+   "device": "OUKITEL_WP36",
+   "name": "WP36_U_EEA",
+   "model": "WP36"
+  },
+  {
    "device": "WP38",
    "name": "WP38_EEA",
    "model": "WP38"
@@ -135077,6 +135177,11 @@
    "device": "610",
    "name": "610",
    "model": "610"
+  },
+  {
+   "device": "C58_ARG",
+   "name": "C58_ARG",
+   "model": "C58"
   },
   {
    "device": "P40",
@@ -139379,6 +139484,11 @@
    "device": "Pixus_Line",
    "name": "Pixus_Line",
    "model": "Pixus_Line"
+  },
+  {
+   "device": "Pixus_Loga",
+   "name": "Pixus_Loga",
+   "model": "Pixus Loga"
   },
   {
    "device": "Sprint",
@@ -151186,6 +151296,11 @@
  ],
  "SEGO": [
   {
+   "device": "S24_Neo",
+   "name": "S24 Neo",
+   "model": "S24 Neo"
+  },
+  {
    "device": "S_PAD",
    "name": "S_PAD",
    "model": "S_PAD"
@@ -152130,6 +152245,11 @@
    "device": "guandu",
    "name": "Indonesia",
    "model": "SPC Android TV"
+  },
+  {
+   "device": "L80W",
+   "name": "L80W",
+   "model": "L80W"
   },
   {
    "device": "LIGHTYEAR-2",
@@ -175762,6 +175882,11 @@
    "model": "XP9900"
   },
   {
+   "device": "X400",
+   "name": "XP400",
+   "model": "X400"
+  },
+  {
    "device": "XP6700",
    "name": "XP6",
    "model": "Ex-Handy 209"
@@ -191651,6 +191776,11 @@
    "model": "K1091F"
   },
   {
+   "device": "KF7",
+   "name": "KF7",
+   "model": "KF7"
+  },
+  {
    "device": "MTC_982O",
    "name": "MTC 982o",
    "model": "MTC_982O"
@@ -193782,6 +193912,16 @@
    "device": "T60-ROW",
    "name": "T60-ROW",
    "model": "T60"
+  },
+  {
+   "device": "T60Ai",
+   "name": "T60Ai_EEA",
+   "model": "T60Ai_EEA"
+  },
+  {
+   "device": "T60Ai",
+   "name": "T60Ai_ROW",
+   "model": "T60Ai_ROW"
   },
   {
    "device": "T60_EEA",
@@ -199163,6 +199303,11 @@
  ],
  "UNION99": [
   {
+   "device": "UNION99_ZL833",
+   "name": "UNION99_ZL833",
+   "model": "ZL833"
+  },
+  {
    "device": "ZLQ9",
    "name": "ZLQ9",
    "model": "ZLQ9"
@@ -201469,6 +201614,11 @@
    "device": "G9T",
    "name": "UMIDIGI G9T",
    "model": "UMIDIGI G9T"
+  },
+  {
+   "device": "Note_100A",
+   "name": "UMIDIGI Note 100A",
+   "model": "UMIDIGI Note 100A"
   },
   {
    "device": "UMIDIGI_X",
@@ -233968,9 +234118,19 @@
    "model": "X50"
   },
   {
+   "device": "X50US",
+   "name": "X50US",
+   "model": "X50US"
+  },
+  {
    "device": "X_50",
    "name": "X_50",
    "model": "X_50"
+  },
+  {
+   "device": "X_50_EEA",
+   "name": "X_50_EEA",
+   "model": "X_50_EEA"
   }
  ],
  "simfer": [
