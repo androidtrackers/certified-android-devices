@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-29
+Last sync is 2024-12-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10305,6 +10305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GreenLion|G-10_ULTRA|G-10_ULTRA|G-10 ULTRA|
 |GreenLion|G-20ULTRA|G-20ULTRA|G-20ULTRA|
 |GreenLion|G-8_PRO|G-8_PRO|G-8 PRO|
+|Greentel|A10Pro|A10Pro|A10Pro|
 |Greentel|A10_premium|A10_premium|A10_premium|
 |Greentel|A8|A8|A8|
 |Greentel|A9|A9|A9|
@@ -27151,6 +27152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids_10_ver14_EEA|Kids_10_ver14_EEA|Kids 10|
 |Plimpton|Kids_8|Kids_8|Kids_8|
 |Plimpton|P1|P1|P1|
+|Plimpton|P2|P2|P2|
 |Plimpton|P60Plus|P60Plus|P60Plus|
 |Plimpton|P60Pro|P60Pro|P60_Pro|
 |Plimpton|P60_Pro|P60_Pro|PlimPad_P60_Pro|
@@ -37454,6 +37456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TazTag|Tazpad-FAP60|Tazpad-FAP60|Tazpad-FAP60|
 |Tbltaca|KIDS02|KIDS02|KIDS02|
 |Tbltaca|Y108|Y108|Y108|
+|TeachmintX|Teachmint_X_PRO|75W82B|TeachmintX_75_Pro|
 |Tech 4u|Aqua|Aqua|Aqua|
 |Tech 4u|Earth|Earth|Earth|
 |Tech 4u|Fire|Fire|Fire|

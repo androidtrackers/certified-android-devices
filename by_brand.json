@@ -53589,6 +53589,11 @@
  ],
  "Greentel": [
   {
+   "device": "A10Pro",
+   "name": "A10Pro",
+   "model": "A10Pro"
+  },
+  {
    "device": "A10_premium",
    "name": "A10_premium",
    "model": "A10_premium"
@@ -139769,6 +139774,11 @@
    "model": "P1"
   },
   {
+   "device": "P2",
+   "name": "P2",
+   "model": "P2"
+  },
+  {
    "device": "P60Plus",
    "name": "P60Plus",
    "model": "P60Plus"
@@ -192368,6 +192378,13 @@
    "device": "Y108",
    "name": "Y108",
    "model": "Y108"
+  }
+ ],
+ "TeachmintX": [
+  {
+   "device": "75W82B",
+   "name": "Teachmint_X_PRO",
+   "model": "TeachmintX_75_Pro"
   }
  ],
  "Tech 4u": [
