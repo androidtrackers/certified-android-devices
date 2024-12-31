@@ -7161,6 +7161,11 @@
    "model": "iPlay_60_Lite"
   },
   {
+   "device": "iPlay_70_mini_Ultra",
+   "name": "iPlay_70_mini_Ultra",
+   "model": "iPlay 70 mini Ultra"
+  },
+  {
    "device": "T1026",
    "name": "kPad",
    "model": "kPad"
@@ -15136,6 +15141,11 @@
    "model": "I11_S"
   },
   {
+   "device": "I11_S_EEA",
+   "name": "I11_S_EEA",
+   "model": "I11_S"
+  },
+  {
    "device": "I8",
    "name": "I8",
    "model": "I8"
@@ -16290,6 +16300,13 @@
    "device": "Bmobile_X11",
    "name": "X11",
    "model": "Bmobile X11"
+  }
+ ],
+ "BNCF": [
+  {
+   "device": "BPad",
+   "name": "BPad",
+   "model": "BPad"
   }
  ],
  "BODYCRAFT": [
@@ -21752,6 +21769,11 @@
    "device": "G0970",
    "name": "G44",
    "model": "G44"
+  },
+  {
+   "device": "G0971",
+   "name": "G44+",
+   "model": "G44+"
   },
   {
    "device": "G0090",
@@ -128682,6 +128704,11 @@
    "device": "S11_ROW",
    "name": "S11_ROW",
    "model": "S11"
+  },
+  {
+   "device": "S11_ROW",
+   "name": "S11_ROW",
+   "model": "S11_ROW"
   }
  ],
  "Odido": [

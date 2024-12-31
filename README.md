@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2024-12-30
+Last sync is 2024-12-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1371,6 +1371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay_50_Pro|T1030MAN|iPlay_50_Pro|
 |Alldocube|iPlay_60|T1102T|iPlay_60|
 |Alldocube|iPlay_60_Lite|T1103T|iPlay_60_Lite|
+|Alldocube|iPlay_70_mini_Ultra|iPlay_70_mini_Ultra|iPlay 70 mini Ultra|
 |Alldocube|kPad|T1026|kPad|
 |Allducube|T1001|T1001|T1001|
 |Allente|Allente 1|OnePlace2|Allente 1|
@@ -2922,6 +2923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I11_Power|I11_Power|I11_Power|
 |BMAX|I11_Power_LTE|I11_Power_LTE|I11_Power_LTE|
 |BMAX|I11_S|I11_S|I11_S|
+|BMAX|I11_S_EEA|I11_S_EEA|I11_S|
 |BMAX|I8|I8|I8|
 |BMAX|I9_Plus|I9_Plus_WIFI_EEA|I9_Plus|
 |BMAX|I9_Plus|I9_Plus_WIFI_ROW|I9_Plus|
@@ -3152,6 +3154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Ultra|Bmobile_ULTRA_TG07|ULTRA|
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
+|BNCF|BPad|BPad|BPad|
 |BODYCRAFT|M1_IC0_N702_BC|CONNECT_22|CONNECT_22|
 |BOLVA|B_TAB1021|B_TAB1021|B_TAB1021|
 |BOREAL|Android TV|R1|ATV R1|
@@ -4216,6 +4219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
 |Blu|G44|G0970|G44|
+|Blu|G44+|G0971|G44+|
 |Blu|G5|G0090|G5|
 |Blu|G5 Plus|G0180LL|G5 Plus|
 |Blu|G5 Plus|G0190|G5 Plus|
@@ -24984,6 +24988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odea|A12_RUS|A12_RUS|A12|
 |Odea|S11_EEA|S11_EEA|S11|
 |Odea|S11_ROW|S11_ROW|S11|
+|Odea|S11_ROW|S11_ROW|S11_ROW|
 |Odido|4K TV Box|SEI800TFAS|4K TV Box|
 |Odotpad|FIRE_V7|FIRE_V7|FIRE_V7|
 |Odys|UNO X10|UNO_X10|UNO X10|
