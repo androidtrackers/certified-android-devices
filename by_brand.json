@@ -22221,6 +22221,21 @@
    "model": "J9L"
   },
   {
+   "device": "K0010",
+   "name": "K0010",
+   "model": "BOLD K5"
+  },
+  {
+   "device": "K0150",
+   "name": "K0150",
+   "model": "BOLD K30"
+  },
+  {
+   "device": "K0170",
+   "name": "K0170",
+   "model": "BOLD K20"
+  },
+  {
    "device": "K0110",
    "name": "K10",
    "model": "K10"
@@ -45793,6 +45808,11 @@
    "device": "A65U",
    "name": "A65U",
    "model": "A65U"
+  },
+  {
+   "device": "A67W",
+   "name": "A67W",
+   "model": "A67W"
   },
   {
    "device": "A6_Plus",
@@ -121072,6 +121092,11 @@
    "model": "M10_WIFI"
   },
   {
+   "device": "ML_SO1U_M10_WIFI",
+   "name": "M10 WIFI",
+   "model": "M10_WIFI"
+  },
+  {
    "device": "ML-JI06-M10-3G",
    "name": "M10-3G",
    "model": "M10-3G"
@@ -129074,6 +129099,31 @@
    "device": "OP5D0DL1",
    "name": "OnePlus 13",
    "model": "PJZ110"
+  },
+  {
+   "device": "OP5D55L1",
+   "name": "OnePlus 13",
+   "model": "CPH2653"
+  },
+  {
+   "device": "OP5D55L1",
+   "name": "OnePlus 13",
+   "model": "CPH2655"
+  },
+  {
+   "device": "OP5D3BL1",
+   "name": "OnePlus 13R",
+   "model": "CPH2645"
+  },
+  {
+   "device": "OP5D3BL1",
+   "name": "OnePlus 13R",
+   "model": "CPH2647"
+  },
+  {
+   "device": "OP5D3BL1",
+   "name": "OnePlus 13R",
+   "model": "CPH2691"
   },
   {
    "device": "OnePlus6",
@@ -148239,6 +148289,11 @@
    "model": "23049PCD8I"
   },
   {
+   "device": "rodin",
+   "name": "REDMI Turbo 4",
+   "model": "24129RT7CC"
+  },
+  {
    "device": "pine",
    "name": "Redmi  7A",
    "model": "Redmi 7A"
@@ -149292,6 +149347,11 @@
    "device": "amethyst",
    "name": "Redmi Note 14 Pro+",
    "model": "24115RA8EC"
+  },
+  {
+   "device": "amethyst",
+   "name": "Redmi Note 14 Pro+ 5G",
+   "model": "24115RA8EI"
   },
   {
    "device": "lavender",
@@ -229172,6 +229232,11 @@
    "device": "AE9120",
    "name": "benco V90",
    "model": "AE9120"
+  },
+  {
+   "device": "AEOP526",
+   "name": "benco V90i",
+   "model": "AEOP526"
   },
   {
    "device": "AE9310",

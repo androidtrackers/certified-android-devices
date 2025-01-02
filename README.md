@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-01
+Last sync is 2025-01-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4309,6 +4309,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|J9L|J0082WW|J9L|
 |Blu|J9L|J0090WW|J9L|
 |Blu|J9L|J0092WW|J9L|
+|Blu|K0010|K0010|BOLD K5|
+|Blu|K0150|K0150|BOLD K30|
+|Blu|K0170|K0170|BOLD K20|
 |Blu|K10|K0110|K10|
 |Blu|LIFE ONE X|BLU_LIFE_ONE_X|BLU LIFE ONE X|
 |Blu|LIFE ONE X|Life_One_X|Life One X|
@@ -8815,6 +8818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|A65M|A65M|A65M|
 |FOXXD|A65Plus|A65Plus|A65Plus|
 |FOXXD|A65U|A65U|A65U|
+|FOXXD|A67W|A67W|A67W|
 |FOXXD|A6_Plus|A6_Plus|A6 Plus|
 |FOXXD|AS65U|AS65U|AS65U|
 |FOXXD|C10|C10|C10|
@@ -23526,6 +23530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G TERE|ML_JI0B_M10_4G_TERE|M10_4G_TERESOPOLIS|
 |Multilaser|M10 4G TERESOPOLIS|ML_SO0G_M10_4G_T|M10_4G_TERESOPOLIS|
 |Multilaser|M10 WIFI|ML_SO0U_M10_WIFI|M10_WIFI|
+|Multilaser|M10 WIFI|ML_SO1U_M10_WIFI|M10_WIFI|
 |Multilaser|M10-3G|ML-JI06-M10-3G|M10-3G|
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
@@ -25056,6 +25061,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2609|
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2611|
 |OnePlus|OnePlus 13|OP5D0DL1|PJZ110|
+|OnePlus|OnePlus 13|OP5D55L1|CPH2653|
+|OnePlus|OnePlus 13|OP5D55L1|CPH2655|
+|OnePlus|OnePlus 13R|OP5D3BL1|CPH2645|
+|OnePlus|OnePlus 13R|OP5D3BL1|CPH2647|
+|OnePlus|OnePlus 13R|OP5D3BL1|CPH2691|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -28793,6 +28803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|MiTV|rango|MiTV-AXFR0|
 |Redmi|POCO F5|marblein|23049PCD8I|
+|Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
@@ -29004,6 +29015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 14 Pro|malachite|24090RA29C|
 |Redmi|Redmi Note 14 Pro 5G|malachite|24090RA29I|
 |Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
+|Redmi|Redmi Note 14 Pro+ 5G|amethyst|24115RA8EI|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -44622,6 +44634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|benco S1 Pro|AE9260|AE9260|
 |benco|benco V62|AE9150|AE9150|
 |benco|benco V90|AE9120|AE9120|
+|benco|benco V90i|AEOP526|AEOP526|
 |benco|benco V91|AE9310|AE9310|
 |benco|benco V92|AEOP517|AEOP517|
 |benco|benco Y11|AH9110|AH9110|
