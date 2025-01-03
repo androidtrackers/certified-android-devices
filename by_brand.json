@@ -125265,6 +125265,11 @@
  ],
  "Newline": [
   {
+   "device": "23Q",
+   "name": "23Q",
+   "model": "23Q"
+  },
+  {
    "device": "velvet",
    "name": "23QA",
    "model": "LGA311D2"
@@ -135735,6 +135740,11 @@
    "device": "lake",
    "name": "POCO C75",
    "model": "2410FPCC5G"
+  },
+  {
+   "device": "warm",
+   "name": "POCO C75 5G",
+   "model": "24116PCC1I"
   },
   {
    "device": "lmi",
@@ -199974,6 +199984,11 @@
    "model": "Armor_X2"
   },
   {
+   "device": "GQ5015RH1",
+   "name": "Armor X31",
+   "model": "Armor X31"
+  },
+  {
    "device": "GQ5015AH1",
    "name": "Armor X31 Pro",
    "model": "Armor X31 Pro"
@@ -202783,6 +202798,11 @@
    "device": "GQ3107TF3",
    "name": "GQ3107TF3",
    "model": "GQ3107TF3"
+  },
+  {
+   "device": "GQ3117SH2_VID",
+   "name": "GQ3117SH2",
+   "model": "GQ3117SH2"
   }
  ],
  "VIKUSHA": [
@@ -227076,6 +227096,11 @@
    "device": "P820F03",
    "name": "nubia Neo 2 5G",
    "model": "Z2352N"
+  },
+  {
+   "device": "P720F10",
+   "name": "nubia Neo 3",
+   "model": "Z2461"
   },
   {
    "device": "P720F03_A",

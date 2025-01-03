@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-02
+Last sync is 2025-01-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24333,6 +24333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
+|Newline|23Q|23Q|23Q|
 |Newline|23QA|velvet|LGA311D2|
 |Newline|Q23|rk3588_t|Q23|
 |Newline|WB55860W|WB55860W|WB55860W|
@@ -26365,6 +26366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C65|gale|2310FPCA4I|
 |POCO|POCO C65|gust|2310FPCA4G|
 |POCO|POCO C75|lake|2410FPCC5G|
+|POCO|POCO C75 5G|warm|24116PCC1I|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -38920,6 +38922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X13|Armor_X13|Armor X13|
 |Ulefone|Armor X13|GQ3117SH2_MTN|Armor X13|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
+|Ulefone|Armor X31|GQ5015RH1|Armor X31|
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro|Armor X5 Pro|
@@ -39463,6 +39466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VICTUS|VRS5_Plus|VRS5_Plus|VRS5_Plus|
 |VICTUS|VRS6_Plus|VRS6_Plus|VRS6 Plus|
 |VID(CN)|GQ3107TF3|GQ3107TF3|GQ3107TF3|
+|VID(CN)|GQ3117SH2|GQ3117SH2_VID|GQ3117SH2|
 |VIKUSHA|V-E5|V-E5|V-E5|
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
@@ -44222,6 +44226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Music 2|P606F18|Z2460|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
+|ZTE|nubia Neo 3|P720F10|Z2461|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
