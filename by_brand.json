@@ -52569,6 +52569,11 @@
    "device": "GS01-Series",
    "name": "GS01-Series",
    "model": "GS01-Series"
+  },
+  {
+   "device": "MTK9679",
+   "name": "GS04-Series",
+   "model": "GS04-Series"
   }
  ],
  "Glocalme": [
@@ -67066,6 +67071,11 @@
    "device": "Note_15_Pro",
    "name": "Note 15 Pro",
    "model": "Note 15 Pro"
+  },
+  {
+   "device": "Note_16",
+   "name": "Note 16",
+   "model": "Note 16"
   },
   {
    "device": "Note_12_EF",
@@ -109197,6 +109207,13 @@
    "model": "MagentaTV One (2. Generation)"
   }
  ],
+ "Magnavox": [
+  {
+   "device": "MMP848",
+   "name": "MMP848",
+   "model": "MMP848"
+  }
+ ],
  "MagneticNorth": [
   {
    "device": "Multiple_Applications_Display_Terminal",
@@ -115888,6 +115905,11 @@
    "device": "Kicka_Zoom",
    "name": "Kicka Zoom",
    "model": "Kicka Zoom"
+  },
+  {
+   "device": "Kicka6",
+   "name": "Kicka6",
+   "model": "Kicka6"
   },
   {
    "device": "Kiona",
@@ -127940,6 +127962,11 @@
    "model": "M10XE"
   },
   {
+   "device": "M185QE",
+   "name": "M185QE",
+   "model": "M185QE"
+  },
+  {
    "device": "M195T",
    "name": "M195T",
    "model": "M195T"
@@ -129104,6 +129131,11 @@
    "device": "OP5D0DL1",
    "name": "OnePlus 13",
    "model": "PJZ110"
+  },
+  {
+   "device": "OP5D55L1",
+   "name": "OnePlus 13",
+   "model": "CPH2649"
   },
   {
    "device": "OP5D55L1",
@@ -149332,6 +149364,11 @@
    "device": "breeze",
    "name": "Redmi Note 13R",
    "model": "2406ERN9CC"
+  },
+  {
+   "device": "gold",
+   "name": "Redmi Note 13R Pro",
+   "model": "2311FRAFDC"
   },
   {
    "device": "beryl",
@@ -195560,6 +195597,11 @@
    "model": "TECNO LI7"
   },
   {
+   "device": "TECNO-KJ8s",
+   "name": "TECNO POVA 6 5G",
+   "model": "TECNO KJ8s"
+  },
+  {
    "device": "TECNO-LI6",
    "name": "TECNO POVA 6 Neo",
    "model": "TECNO LI6"
@@ -202517,6 +202559,11 @@
  ],
  "VALE": [
   {
+   "device": "V10A-4128",
+   "name": "V10A",
+   "model": "V10A"
+  },
+  {
    "device": "V10E-LTE",
    "name": "V10E-LTE",
    "model": "V10E-LTE-464"
@@ -202525,6 +202572,13 @@
    "device": "V12E-LTE",
    "name": "V12E-LTE",
    "model": "V12E-LTE-8128"
+  }
+ ],
+ "VALERION": [
+  {
+   "device": "hengshan",
+   "name": "VisionMaster",
+   "model": "VisionMaster"
   }
  ],
  "VALIFONE": [

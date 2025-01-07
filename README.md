@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-06
+Last sync is 2025-01-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10111,6 +10111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Globe Telecom|Globe|SEI120G|SEI-120G|
 |Globe Telecom|SEI-120G|SEI120G|SEI-120G|
 |Globus_Infocom_Limited|GS01-Series|GS01-Series|GS01-Series|
+|Globus_Infocom_Limited|GS04-Series|MTK9679|GS04-Series|
 |Glocalme|P3S18|P3S18|P3S18|
 |Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
@@ -12956,6 +12957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Note 15|Note_15|Note 15|
 |Hotwav|Note 15 EEA|Note_15|Note 15|
 |Hotwav|Note 15 Pro|Note_15_Pro|Note 15 Pro|
+|Hotwav|Note 16|Note_16|Note 16|
 |Hotwav|Note _12 _EF|Note_12_EF|Note 12 EF|
 |Hotwav|Pad 11|Pad_11_EEA|Pad 11|
 |Hotwav|Pearl K1|Pearl_K1|Pearl K1|
@@ -21201,6 +21203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
+|Magnavox|MMP848|MMP848|MMP848|
 |MagneticNorth|Multiple_Applications_Display_Terminal|Multiple_Applications_Display_Terminal|P7|
 |Majestic|JACK|JACK|JACK|
 |Majestic|JOE|JOE|JOE|
@@ -22506,6 +22509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Kicka 5 Plus 4G|K5P_4G_U|Kicka 5 Plus 4G|
 |Mobiwire|Kicka 6 Plus 4G|H5032U|Kicka 6 Plus 4G|
 |Mobiwire|Kicka Zoom|Kicka_Zoom|Kicka Zoom|
+|Mobiwire|Kicka6|Kicka6|Kicka6|
 |Mobiwire|Kiona|Kiona|Kiona|
 |Mobiwire|Kohana|Kohana|Kohana|
 |Mobiwire|Kosumi|Kosumi|Kosumi|
@@ -24844,6 +24848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONDA TLC|T9 S|T9S|T9S|
 |ONERugged|M10X|M10X|M10X|
 |ONERugged|M10XE|M10XE|M10XE|
+|ONERugged|M185QE|M185QE|M185QE|
 |ONERugged|M195T|M195T|M195T|
 |ONERugged|M19TE|M19TE|M19TE|
 |ONERugged|M86X|M86X|M86X|
@@ -25062,6 +25067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2609|
 |OnePlus|OnePlus 12R|OP5D35L1|CPH2611|
 |OnePlus|OnePlus 13|OP5D0DL1|PJZ110|
+|OnePlus|OnePlus 13|OP5D55L1|CPH2649|
 |OnePlus|OnePlus 13|OP5D55L1|CPH2653|
 |OnePlus|OnePlus 13|OP5D55L1|CPH2655|
 |OnePlus|OnePlus 13R|OP5D3BL1|CPH2645|
@@ -29012,6 +29018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|23090RA98I|
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|24040RA98R|
 |Redmi|Redmi Note 13R|breeze|2406ERN9CC|
+|Redmi|Redmi Note 13R Pro|gold|2311FRAFDC|
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4C|
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4I|
 |Redmi|Redmi Note 14 Pro|malachite|24090RA29C|
@@ -38088,6 +38095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 4 Pro|TECNO-LG8n|TECNO LG8n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
 |Tecno|TECNO POVA 6|TECNO-LI7|TECNO LI7|
+|Tecno|TECNO POVA 6 5G|TECNO-KJ8s|TECNO KJ8s|
 |Tecno|TECNO POVA 6 Neo|TECNO-LI6|TECNO LI6|
 |Tecno|TECNO POVA 6 Neo 5G|TECNO-KL8|TECNO KL8|
 |Tecno|TECNO POVA 6 Pro 5G|TECNO-LI9|TECNO LI9|
@@ -39415,8 +39423,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VAARAHI|TEO 8|T8LTE32G|TEO8LTE|
 |VAIO|VA-10J|VA-10J|JCI VA-10J|
 |VAIO|VPA051|VPA051|VPA051|
+|VALE|V10A|V10A-4128|V10A|
 |VALE|V10E-LTE|V10E-LTE|V10E-LTE-464|
 |VALE|V12E-LTE|V12E-LTE|V12E-LTE-8128|
+|VALERION|VisionMaster|hengshan|VisionMaster|
 |VALIFONE|M790|M790|M790|
 |VALIFONE|V200_EEA|V200|V200|
 |VALIFONE|V350|V350|V350|
