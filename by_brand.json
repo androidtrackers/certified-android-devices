@@ -35654,6 +35654,11 @@
    "model": "Memor 11"
   },
   {
+   "device": "tomcat_pda",
+   "name": "Memor 12",
+   "model": "Memor 12"
+  },
+  {
    "device": "Q10",
    "name": "Memor 20",
    "model": "Memor 20"
@@ -103947,6 +103952,11 @@
    "model": "Lenovo YT-J706X"
   },
   {
+   "device": "TB520FU",
+   "name": "Lenovo Yoga Tab Plus",
+   "model": "TB520FU"
+  },
+  {
    "device": "heart",
    "name": "Lenovo Z5 Pro",
    "model": "Lenovo L78032"
@@ -104815,6 +104825,11 @@
    "device": "YT3",
    "name": "YOGA Tab 3 PRO 10”",
    "model": "Lenovo YT3-X90Z"
+  },
+  {
+   "device": "TB520FU",
+   "name": "YOGA Tab Pro AI Yuanqi",
+   "model": "TB520FU"
   },
   {
    "device": "YT2",
@@ -113825,6 +113840,13 @@
    "device": "rk3588_t",
    "name": "MimioPro-G XX5",
    "model": "MimioProG5"
+  }
+ ],
+ "Mingtronics": [
+  {
+   "device": "RM-M6DA09",
+   "name": "RM-M6DA09",
+   "model": "RM-M6DA09"
   }
  ],
  "Minister": [
@@ -193060,6 +193082,11 @@
    "model": "M50"
   },
   {
+   "device": "M50-EEA",
+   "name": "M50-EEA",
+   "model": "M50-EEA"
+  },
+  {
    "device": "M50-ROW",
    "name": "M50-ROW",
    "model": "M50"
@@ -205964,6 +205991,13 @@
    "device": "E95",
    "name": "E95",
    "model": "E95"
+  }
+ ],
+ "Virtual": [
+  {
+   "device": "Interactive-Flat-Panel",
+   "name": "Interactive-Flat-Panel",
+   "model": "Interactive Flat Panel"
   }
  ],
  "Virzo": [
@@ -234197,6 +234231,11 @@
    "device": "redbeatC1",
    "name": "redbeatC1",
    "model": "redbeatC1"
+  },
+  {
+   "device": "redbeatM2",
+   "name": "redbeatM2",
+   "model": "I11"
   },
   {
    "device": "redbeatM2",

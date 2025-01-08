@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-07
+Last sync is 2025-01-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6886,6 +6886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datalogic|MEMOR 11|m11|Memor 11|
+|Datalogic|Memor 12|tomcat_pda|Memor 12|
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
 |Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
@@ -20195,6 +20196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
 |Lenovo|Lenovo Yoga Tab 11|YT-J706F|Lenovo YT-J706F|
 |Lenovo|Lenovo Yoga Tab 11|YT-J706X|Lenovo YT-J706X|
+|Lenovo|Lenovo Yoga Tab Plus|TB520FU|TB520FU|
 |Lenovo|Lenovo Z5 Pro|heart|Lenovo L78032|
 |Lenovo|Lenovo Z6 Pro 5G|cream|Lenovo L79041|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
@@ -20369,6 +20371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|YOGA Tab 3 PRO 10”|YT3|Lenovo YT3-X90X|
 |Lenovo|YOGA Tab 3 PRO 10”|YT3|Lenovo YT3-X90Y|
 |Lenovo|YOGA Tab 3 PRO 10”|YT3|Lenovo YT3-X90Z|
+|Lenovo|YOGA Tab Pro AI Yuanqi|TB520FU|TB520FU|
 |Lenovo|YOGA Tablet Pro-1050L/Yoga Tablet 2|YT2|YOGA Tablet 2-1050L|
 |Lenovo|YOGA Tablet Pro-1050LC/Yoga Tablet 2|YT2|YOGA Tablet 2-1050LC|
 |Lenovo|YOGA Tablet Pro-1380F/Yoga Tablet 2 Pro|YT2|YOGA Tablet 2 Pro-1380F|
@@ -22103,6 +22106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mikona|MHDBT10267|MHDBT10267|MHDBT10267|
 |Mikona|MIKONA|MSW_BT767QC8TN|MSW_BT767QC8TN|
 |Mimio|MimioPro-G XX5|rk3588_t|MimioProG5|
+|Mingtronics|RM-M6DA09|RM-M6DA09|RM-M6DA09|
 |Minister|Android TV|R1|ATV R1|
 |Minister|Android TV|R2|ATV R2|
 |Mint|Clover|M4CR|M4CR|
@@ -37588,6 +37592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M40_Plus_ROW|M40_Plus_ROW|M40_Plus_ROW|
 |Teclast|M40_ROW|M40_ROW|M40_ROW|
 |Teclast|M50-EEA|M50-EEA|M50|
+|Teclast|M50-EEA|M50-EEA|M50-EEA|
 |Teclast|M50-ROW|M50-ROW|M50|
 |Teclast|M50-ROW|M50-ROW|M50-ROW|
 |Teclast|M50HD_EEA|M50HD_EEA|M50HD|
@@ -40076,6 +40081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
 |ViewZ|VZ-24IPM|VZ-24IPM|VZ-24IPM|
 |Virse|E95|E95|E95|
+|Virtual|Interactive-Flat-Panel|Interactive-Flat-Panel|Interactive Flat Panel|
 |Virzo|V501C|V501C|V501C|
 |Virzo|V505c|V505c|V505c|
 |Virzo|V511|V511|V511|
@@ -45575,6 +45581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |redbeat|redbeatA2|redbeatA2|redbeatA2|
 |redbeat|redbeatC1|redbeatC1|C1|
 |redbeat|redbeatC1|redbeatC1|redbeatC1|
+|redbeat|redbeatM2|redbeatM2|I11|
 |redbeat|redbeatM2|redbeatM2|M2|
 |redbeat|redbeatM2|redbeatM2|redbeatM2|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
