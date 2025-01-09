@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-08
+Last sync is 2025-01-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4145,6 +4145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L PLUS|C0130UU|C5L PLUS|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
+|Blu|C5L_Mini|C0250|C5L Mini|
 |Blu|C5L_Plus|C0040TT|C5L Plus|
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
@@ -17442,6 +17443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kunfabo|F99Pro|F99Pro|F99Pro|
 |Kuori|KH3566|Kivi|KH3566|
+|Kuori|KH3588S|Graniitti|KH3588S|
 |Kuori|KH660|Nupiton|KH660|
 |Kurio|K01023|K01023|K01023|
 |Kurio|K01023|K01023|KURIO_01023|
@@ -21206,6 +21208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
+|MagentaTV|Stick2Generation|IMTM840A|MagentaTV Stick (2. Generation)|
 |Magnavox|MMP848|MMP848|MMP848|
 |MagneticNorth|Multiple_Applications_Display_Terminal|Multiple_Applications_Display_Terminal|P7|
 |Majestic|JACK|JACK|JACK|
@@ -31766,6 +31769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 Ultra 5G|p3s|SM-G998N|
 |Samsung|Galaxy S21+ 5G|SCG10|SCG10|
 |Samsung|Galaxy S21+ 5G|t2q|SM-G9960|
+|Samsung|Galaxy S21+ 5G|t2q|SM-G996U|
 |Samsung|Galaxy S21+ 5G|t2q|SM-G996U1|
 |Samsung|Galaxy S21+ 5G|t2q|SM-G996W|
 |Samsung|Galaxy S21+ 5G|t2s|SM-G996B|
@@ -38269,6 +38273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tele2|Tele2_Midi_2_0|Tele2_Midi_2_0|Tele2_Midi_2_0|
 |Tele2|Tele2fon V4|Tele2fon_v4|Tele2fon v4|
 |Tele2|Tele2fon V5|Tele2fon_v5|Tele2fon v5|
+|Tele2|Tv Hub 2|KSTB4231|Tv Hub 2|
 |Tele2|Tv Hub Mini|SEI700TE|Tv Hub Mini|
 |Telecable|tedi|dtiw384|Telecable ATV|
 |Teleepoch||MaxBravo|PMI920|
@@ -38633,6 +38638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
 |Touchview Interactive|SD_ODMGM02|TouchView_Companion|TouchView Companion|
 |Touchview Interactive|TVULTRA98_G5|TVULTRA98_G5|TVULTRA98_G5|
+|Touchview Interactive|Touchview_Interactive|TV_G5UPGRADE|TV_G5UPGRADE|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
 |Toush|4K FF SMART TV|SW6H|4K FF SMART TV|
@@ -38937,6 +38943,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X31|GQ5015RH1|Armor X31|
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|
+|Ulefone|Armor X32|GQ5021RH1|Armor X32|
+|Ulefone|Armor X32 Pro|GQ5021AH1|Armor X32 Pro|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro|Armor X5 Pro|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro_R|Armor X5 Pro|
@@ -44810,6 +44818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |heinekingmedia|Digitale_Tafel|rk3588_t|DTA13C10HM|
 |hitabt|K30A|K30A|K30A|
 |hitabt|T30A_SY07PC01|T30A_SY07PC01|SY07-PC01|
+|hitabt|T30A_SY07PC01|T30A_SY07PC01|T30A|
 |hoco|hoco_HI10|hoco_HI10|A523 PRO|
 |hoco|hoco_HI10|hoco_HI10|K108|
 |hoco|hoco_HI10|hoco_HI10|hoco_HI10|

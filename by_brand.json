@@ -21401,6 +21401,11 @@
    "model": "C5L 2020"
   },
   {
+   "device": "C0250",
+   "name": "C5L_Mini",
+   "model": "C5L Mini"
+  },
+  {
    "device": "C0040TT",
    "name": "C5L_Plus",
    "model": "C5L Plus"
@@ -90028,6 +90033,11 @@
    "model": "KH3566"
   },
   {
+   "device": "Graniitti",
+   "name": "KH3588S",
+   "model": "KH3588S"
+  },
+  {
    "device": "Nupiton",
    "name": "KH660",
    "model": "KH660"
@@ -109220,6 +109230,11 @@
    "device": "SEI804DT",
    "name": "One (2. Generation)",
    "model": "MagentaTV One (2. Generation)"
+  },
+  {
+   "device": "IMTM840A",
+   "name": "Stick2Generation",
+   "model": "MagentaTV Stick (2. Generation)"
   }
  ],
  "Magnavox": [
@@ -163392,6 +163407,11 @@
   {
    "device": "t2q",
    "name": "Galaxy S21+ 5G",
+   "model": "SM-G996U"
+  },
+  {
+   "device": "t2q",
+   "name": "Galaxy S21+ 5G",
    "model": "SM-G996U1"
   },
   {
@@ -196491,6 +196511,11 @@
    "model": "Tele2fon v5"
   },
   {
+   "device": "KSTB4231",
+   "name": "Tv Hub 2",
+   "model": "Tv Hub 2"
+  },
+  {
    "device": "SEI700TE",
    "name": "Tv Hub Mini",
    "model": "Tv Hub Mini"
@@ -198425,6 +198450,11 @@
    "device": "TVULTRA98_G5",
    "name": "TVULTRA98_G5",
    "model": "TVULTRA98_G5"
+  },
+  {
+   "device": "TV_G5UPGRADE",
+   "name": "Touchview_Interactive",
+   "model": "TV_G5UPGRADE"
   }
  ],
  "Toughshield": [
@@ -200061,6 +200091,16 @@
    "device": "GQ5015AH1",
    "name": "Armor X31 Pro",
    "model": "Armor X31 Pro"
+  },
+  {
+   "device": "GQ5021RH1",
+   "name": "Armor X32",
+   "model": "Armor X32"
+  },
+  {
+   "device": "GQ5021AH1",
+   "name": "Armor X32 Pro",
+   "model": "Armor X32 Pro"
   },
   {
    "device": "Armor_X5_Q",
@@ -230198,6 +230238,11 @@
    "device": "T30A_SY07PC01",
    "name": "T30A_SY07PC01",
    "model": "SY07-PC01"
+  },
+  {
+   "device": "T30A_SY07PC01",
+   "name": "T30A_SY07PC01",
+   "model": "T30A"
   }
  ],
  "hoco": [
