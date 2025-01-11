@@ -16307,6 +16307,11 @@
    "device": "BPad",
    "name": "BPad",
    "model": "BPad"
+  },
+  {
+   "device": "BPad_10_4G",
+   "name": "BPad_10_4G",
+   "model": "BPad_10_4G"
   }
  ],
  "BODYCRAFT": [
@@ -25808,6 +25813,13 @@
    "device": "GIU3A00",
    "name": "GIU3A00",
    "model": "GIU3A00"
+  }
+ ],
+ "Callsky": [
+  {
+   "device": "Cpad10",
+   "name": "Cpad10",
+   "model": "Cpad10"
   }
  ],
  "Caltta": [
@@ -35687,6 +35699,11 @@
    "device": "memor_k",
    "name": "Memor K",
    "model": "Memor K"
+  },
+  {
+   "device": "mk2",
+   "name": "Memor K2",
+   "model": "Memor K2"
   },
   {
    "device": "sx5",
@@ -49222,6 +49239,11 @@
    "device": "T10_1",
    "name": "T10",
    "model": "T10"
+  },
+  {
+   "device": "T11_1",
+   "name": "T11_1",
+   "model": "BBoss_1"
   },
   {
    "device": "T11_1",
@@ -66233,6 +66255,11 @@
    "model": "BRP-NX3"
   },
   {
+   "device": "HNPTPX",
+   "name": "HONOR Magic7 Pro",
+   "model": "PTP-N49"
+  },
+  {
    "device": "HNROD2-Q",
    "name": "HONOR MagicPad2",
    "model": "ROD2-W09"
@@ -66601,6 +66628,11 @@
    "device": "HNBVL",
    "name": "PORSCHE DESIGN HONOR Magic6 RSR",
    "model": "BVL-AN20"
+  },
+  {
+   "device": "HNPTPX",
+   "name": "PORSCHE DESIGN HONOR Magic7 RSR",
+   "model": "PTP-N59"
   },
   {
    "device": "HNRBN-Q",
@@ -76622,6 +76654,11 @@
    "model": "i3COMPUTER-A01-OPS"
   },
   {
+   "device": "RK3576",
+   "name": "i3CONNECT_ELM-2",
+   "model": "ELM-2"
+  },
+  {
    "device": "i3SIXTY-3",
    "name": "i3SIXTY-3",
    "model": "i3SIXTY-3"
@@ -77875,6 +77912,13 @@
    "device": "HY40A1",
    "name": "SKYWORTH-HY4002",
    "model": "SKYWORTH-HY4002"
+  }
+ ],
+ "I_KALL": [
+  {
+   "device": "S6501",
+   "name": "S6501",
+   "model": "S6501"
   }
  ],
  "Ice": [
@@ -109694,6 +109738,13 @@
    "model": "2K US Smart TV"
   }
  ],
+ "MarkaTab": [
+  {
+   "device": "Markatab-1",
+   "name": "Markatab-1",
+   "model": "Markatab-1"
+  }
+ ],
  "Marshall": [
   {
    "device": "KB-1501",
@@ -114113,6 +114164,11 @@
    "device": "CoolMintt_Rival_2",
    "name": "Rival_2",
    "model": "CoolMintt Rival 2"
+  },
+  {
+   "device": "T3",
+   "name": "T3",
+   "model": "P08"
   },
   {
    "device": "T3",
@@ -128793,6 +128849,11 @@
    "device": "S11_EEA",
    "name": "S11_EEA",
    "model": "S11"
+  },
+  {
+   "device": "S11_EEA",
+   "name": "S11_EEA",
+   "model": "S11_EEA"
   },
   {
    "device": "S11_ROW",
@@ -150070,6 +150131,11 @@
    "model": "P60"
   },
   {
+   "device": "P80_US",
+   "name": "P80_US",
+   "model": "P80"
+  },
+  {
    "device": "T10P",
    "name": "T10P",
    "model": "T10P"
@@ -150093,6 +150159,11 @@
    "device": "T618",
    "name": "T618",
    "model": "T618"
+  },
+  {
+   "device": "T618_US",
+   "name": "T618_US",
+   "model": "T618_US"
   },
   {
    "device": "T618_WIFI",
@@ -153463,6 +153534,11 @@
    "device": "G2_EEA",
    "name": "G2_S_EEA",
    "model": "G2_EEA"
+  },
+  {
+   "device": "G2_EEA",
+   "name": "G2_S_EEA",
+   "model": "G2_S_EEA"
   },
   {
    "device": "G2_US",
@@ -175172,6 +175248,13 @@
    "model": "Sky Pod"
   }
  ],
+ "Sky+": [
+  {
+   "device": "SEI800SKM",
+   "name": "Sky+",
+   "model": "Sky+"
+  }
+ ],
  "SkyLife": [
   {
    "device": "KSTB2019",
@@ -191583,6 +191666,13 @@
    "model": "Max"
   }
  ],
+ "TNT (Panalo)": [
+  {
+   "device": "TNT_PANALO_PHONE_5G",
+   "name": "TNT PANALO PHONE 5G",
+   "model": "TNT PANALO PHONE 5G"
+  }
+ ],
  "TO21COMMS": [
   {
    "device": "TOP10",
@@ -202924,6 +203014,11 @@
    "device": "GQ3117SH2_VID",
    "name": "GQ3117SH2",
    "model": "GQ3117SH2"
+  },
+  {
+   "device": "GQ3121AF1_VID",
+   "name": "GQ3121AF1",
+   "model": "GQ3121AF1"
   }
  ],
  "VIKUSHA": [

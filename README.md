@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-10
+Last sync is 2025-01-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3155,6 +3155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
 |BNCF|BPad|BPad|BPad|
+|BNCF|BPad_10_4G|BPad_10_4G|BPad_10_4G|
 |BODYCRAFT|M1_IC0_N702_BC|CONNECT_22|CONNECT_22|
 |BOLVA|B_TAB1021|B_TAB1021|B_TAB1021|
 |BOREAL|Android TV|R1|ATV R1|
@@ -4986,6 +4987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CZ Electronics|Mint_Jane|Mint_Jane|M5E01|
 |Cablecolor|CAB_TAB|CAB_TAB|CAB_TAB|
 |Cablecolor|GIU3A00|GIU3A00|GIU3A00|
+|Callsky|Cpad10|Cpad10|Cpad10|
 |Caltta|e720|e720|e720|
 |Camelus|L10|TR-10HBT|L10|
 |Camelus|L7|TR-7U|L7|
@@ -6893,6 +6895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
 |Datalogic|Memor 35/35X|nebula_pda|Memor 35/35X|
 |Datalogic|Memor K|memor_k|Memor K|
+|Datalogic|Memor K2|mk2|Memor K2|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
@@ -9474,6 +9477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S8K_2|S8K_2|S8K|
 |G-Tab|S8X|S8X|S8X|
 |G-Tab|T10|T10_1|T10|
+|G-Tab|T11_1|T11_1|BBoss_1|
 |G-Tab|T11_1|T11_1|T11|
 |G-Tab|T11_1|T11_1|T11_1|
 |G-Tab|T8S_1|T8S_1|T8S|
@@ -12791,6 +12795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-N49|
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX1M|
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX3|
+|Honor|HONOR Magic7 Pro|HNPTPX|PTP-N49|
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
@@ -12865,6 +12870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
+|Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
 |Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
@@ -14858,6 +14864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |I-Scream|E1012T|ET1012T|ET1012T|
 |I-Scream|i-Screamedu|HL106|HL106|
 |I3-TECHNOLOGIES|GOOGLE EDLA CERTIFIED SLOT-IN OPS|i3COMPUTER-A01-OPS|i3COMPUTER-A01-OPS|
+|I3-TECHNOLOGIES|i3CONNECT_ELM-2|RK3576|ELM-2|
 |I3-TECHNOLOGIES|i3SIXTY-3|i3SIXTY-3|i3SIXTY-3|
 |I3-TECHNOLOGIES|i3TOUCH-X3|i3TOUCH-X3|i3TOUCH-X3|
 |IAIWAI|A103|A103|A103|
@@ -15091,6 +15098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IZZI Telecom|HP46A|HP46A|HP4633|
 |IZZI Telecom|Mexico|B820C-A15_ZTE|B820C-A15|
 |IZZI Telecom|SKYWORTH-HY4002|HY40A1|SKYWORTH-HY4002|
+|I_KALL|S6501|S6501|S6501|
 |Ice|ICE|stanford|SMART TV|
 |Ice|ICE|zhongshan|Smart UHD TV|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
@@ -21296,6 +21304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Marcel|EU|yeongdeungpo|MARCEL Android TV|
 |Marcel|EU、UK、AP|martin|MARCEL Android TV|
 |Marcel|Smart TV|mateo|2K US Smart TV|
+|MarkaTab|Markatab-1|Markatab-1|Markatab-1|
 |Marshall|London|KB-1501|London|
 |Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|MASCOM SS289|MASCOM_SS289|MASCOM SS289|
@@ -22159,6 +22168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|MinttPoro|MinttPoro|MinttPoro|
 |Mintt|Mintt_Tab_T1|Mintt_Tab_T1|Mintt_Tab_T1|
 |Mintt|Rival_2|CoolMintt_Rival_2|CoolMintt Rival 2|
+|Mintt|T3|T3|P08|
 |Mintt|T3|T3|T3|
 |Mintt|ULTRAMINTT A5|ULTRAMINTT_A5|ULTRAMINTT A5|
 |Mintt|ULTRAMINTT Y3|ULTRAMINTT_Y3|ULTRAMINTT Y3|
@@ -25005,6 +25015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odea|A12_ROW|A12_ROW|A12|
 |Odea|A12_RUS|A12_RUS|A12|
 |Odea|S11_EEA|S11_EEA|S11|
+|Odea|S11_EEA|S11_EEA|S11_EEA|
 |Odea|S11_ROW|S11_ROW|S11|
 |Odea|S11_ROW|S11_ROW|S11_ROW|
 |Odido|4K TV Box|SEI800TFAS|4K TV Box|
@@ -29156,11 +29167,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Relndoo|P60_EEA|P60_EEA|P60|
 |Relndoo|P60_ROW|P60_ROW|P60|
+|Relndoo|P80_US|P80_US|P80|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
 |Relndoo|T10P_EEA|T10P_EEA|T10P_EEA|
 |Relndoo|T10P_ROW|T10P_ROW|T10P|
 |Relndoo|T618|T618|T618|
+|Relndoo|T618_US|T618_US|T618_US|
 |Relndoo|T618_WIFI|T618_WIFI|T618|
 |Relndoo|T618_WIFI_EEA|T618_WIFI_EEA|T618|
 |Relndoo|T88|T88|T88|
@@ -29789,6 +29802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|cayenne|cayenne|STK Ace|
 |STboard|HJ_TD|HJ_TD|HJ_TD|
 |SUAAT|G2_S_EEA|G2_EEA|G2_EEA|
+|SUAAT|G2_S_EEA|G2_EEA|G2_S_EEA|
 |SUAAT|G2_S_US|G2_US|G2_US|
 |SUAAT|S10_U_EEA|S10_U_EEA|S10_EEA|
 |SUAAT|S10_U_EEA|S10_U_EEA|S10_U_EEA|
@@ -34098,6 +34112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Xmobile X55|X55|X55|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
 |Sky NZ|Sky Pod|SEI700SKY|Sky Pod|
+|Sky+|Sky+|SEI800SKM|Sky+|
 |SkyLife|KSTB2019|KSTB2019|KSTB2019|
 |SkyLife|KSTB6165|KSTB6165|KSTB6165|
 |SkyLife|MA5000|MA5000|MA5000|
@@ -37317,6 +37332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TMB(A)|Max|Max|Max|
+|TNT (Panalo)|TNT PANALO PHONE 5G|TNT_PANALO_PHONE_5G|TNT PANALO PHONE 5G|
 |TO21COMMS|TOP10|TOP10|TOP10|
 |TOAD|Q863|Q863|Q863|
 |TOCHMOBILE|ANGEL_SMART|ANGEL_SMART|ANGEL_SMART|
@@ -39490,6 +39506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VICTUS|VRS6_Plus|VRS6_Plus|VRS6 Plus|
 |VID(CN)|GQ3107TF3|GQ3107TF3|GQ3107TF3|
 |VID(CN)|GQ3117SH2|GQ3117SH2_VID|GQ3117SH2|
+|VID(CN)|GQ3121AF1|GQ3121AF1_VID|GQ3121AF1|
 |VIKUSHA|V-E5|V-E5|V-E5|
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
