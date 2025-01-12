@@ -108939,6 +108939,11 @@
  ],
  "MTN": [
   {
+   "device": "Alola_Max",
+   "name": "Alola_Max",
+   "model": "Alola_Max"
+  },
+  {
    "device": "G56",
    "name": "G56",
    "model": "G56"
@@ -203343,6 +203348,13 @@
    "device": "VNT_Tab8",
    "name": "VNT_Tab8",
    "model": "VNT_Tab8"
+  }
+ ],
+ "VOD_Horizon": [
+  {
+   "device": "5G_Smart_Phone",
+   "name": "Web 3 Pro 8",
+   "model": "Pro 8"
   }
  ],
  "VOLENTEX": [

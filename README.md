@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-11
+Last sync is 2025-01-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21155,6 +21155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
 |MTC|WasabiMango|shilin|WasabiMango4KAndroidTV|
 |MTC|chile|S2000|S2000-Z0C11|
+|MTN|Alola_Max|Alola_Max|Alola_Max|
 |MTN|G56|G56|G56|
 |MTN|S5012|S5012|S5012|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
@@ -39567,6 +39568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VNPT Technology|VNPTTechnology|VNTTab2|VNTTab2|
 |VNPT Technology|VNT_Tab8|VNT_Tab8|VNT_Tab8|
+|VOD_Horizon|Web 3 Pro 8|5G_Smart_Phone|Pro 8|
 |VOLENTEX|M10|M10_A04|Volentex_101|
 |VOLENTEX|M10_A04_EEA|M10_A04_EEA|Volentex_101|
 |VOLENTEX|T10|T10|T10|
