@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-12
+Last sync is 2025-01-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -248,6 +248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|AOC|mountbaker|2K SMART TV|
 |AOC|AOC Android TV|PH0M_EA_T32|AOC Android TV|
 |AOC|AOC Google TV TA7|PH3M_AL_T32|AOC Google TV TA7|
+|AOC|AOC Smart Gaming Monitor|wulong|AOC Smart Gaming Monitor|
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
 |AOC|Q10107LW-ME|Q10107LW-ME|Q10107LW-ME|
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
@@ -1371,6 +1372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay_50_Pro|T1030MAN|iPlay_50_Pro|
 |Alldocube|iPlay_60|T1102T|iPlay_60|
 |Alldocube|iPlay_60_Lite|T1103T|iPlay_60_Lite|
+|Alldocube|iPlay_70_S|iPlay_70_S|iPlay_70_S|
 |Alldocube|iPlay_70_mini_Ultra|iPlay_70_mini_Ultra|iPlay 70 mini Ultra|
 |Alldocube|kPad|T1026|kPad|
 |Allducube|T1001|T1001|T1001|
@@ -2647,6 +2649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avion|Avion A10|Avion_A10|Avion A10|
 |Avion|Avion A10 Pro|Avion_A10_Pro|Avion A10 Pro|
 |Avion|m2|Avion_M2|M2|
+|Aviron|ATS|ATS|ATS|
 |Avoca|STB7012|STB7012|STB7012|
 |Avoca|STB7013|AVOCA|STB7013|
 |Avoca|STB8098|STB8098|STB8098|
@@ -6215,6 +6218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-L45s|CP-L45s|CP-L45s|
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
+|Cozyla|Calendar+|Calendar|Calendar+|
 |Creato|DVT101B|mdt1005_mk_32|DVT101B|
 |CredenceID|CredenceECO|CredenceECO|CE1-CID-16-4G-011|
 |Crelander|A101|A101|A101|
@@ -21215,9 +21219,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Magenta TV|TV box|HY44G|TV Box|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
+|MagentaTV|MagentaTV Stick (2. Gen.)|IMTM840A|MagentaTV Stick (2. Generation)|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
-|MagentaTV|Stick2Generation|IMTM840A|MagentaTV Stick (2. Generation)|
 |Magnavox|MMP848|MMP848|MMP848|
 |MagneticNorth|Multiple_Applications_Display_Terminal|Multiple_Applications_Display_Terminal|P7|
 |Majestic|JACK|JACK|JACK|
@@ -24122,6 +24126,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOWO|DV 8935 X4|DV8935-KPN|DV 8935 X4|
 |NSDEVIL|ET1095A|ET1095A|ET1095A|
 |NSPRE|NX-20PRO1|NX-20PRO1|NX-20PRO1|
+|NSVauto|UNUNI_1640P_RSE|UNUNI-1640P-RSE|UNUNI-1640P-RSE|
+|NSVauto|UNUNI_1641P_RSE|UNUNI-1641P-RSE|UNUNI-1641P-RSE|
 |NURIBOM|NRB-IFPD|rk3588_t|MP_Series|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Console|
@@ -45584,6 +45590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我13 Pro|RE601EL1|RMX5002|
 |realme|真我13 Pro+|RE5C49L1|RMX3920|
 |realme|真我13 Pro至尊版|RE5C49L1|RMX3989|
+|realme|真我14 Pro+|RE601FL1|RMX5050|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|

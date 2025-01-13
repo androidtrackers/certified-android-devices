@@ -1330,6 +1330,11 @@
    "model": "AOC Google TV TA7"
   },
   {
+   "device": "wulong",
+   "name": "AOC Smart Gaming Monitor",
+   "model": "AOC Smart Gaming Monitor"
+  },
+  {
    "device": "Q10107L-ME",
    "name": "Q10107L-ME",
    "model": "Q10107L-ME"
@@ -7159,6 +7164,11 @@
    "device": "T1103T",
    "name": "iPlay_60_Lite",
    "model": "iPlay_60_Lite"
+  },
+  {
+   "device": "iPlay_70_S",
+   "name": "iPlay_70_S",
+   "model": "iPlay_70_S"
   },
   {
    "device": "iPlay_70_mini_Ultra",
@@ -13687,6 +13697,13 @@
    "device": "Avion_M2",
    "name": "m2",
    "model": "M2"
+  }
+ ],
+ "Aviron": [
+  {
+   "device": "ATS",
+   "name": "ATS",
+   "model": "ATS"
   }
  ],
  "Avoca": [
@@ -32159,6 +32176,13 @@
    "device": "g06",
    "name": "g06+",
    "model": "g06"
+  }
+ ],
+ "Cozyla": [
+  {
+   "device": "Calendar",
+   "name": "Calendar+",
+   "model": "Calendar+"
   }
  ],
  "Creato": [
@@ -109271,6 +109295,11 @@
    "model": "MagentaTV ONE"
   },
   {
+   "device": "IMTM840A",
+   "name": "MagentaTV Stick (2. Gen.)",
+   "model": "MagentaTV Stick (2. Generation)"
+  },
+  {
    "device": "DV6067Y",
    "name": "OTT-G1",
    "model": "OTT-G1"
@@ -109279,11 +109308,6 @@
    "device": "SEI804DT",
    "name": "One (2. Generation)",
    "model": "MagentaTV One (2. Generation)"
-  },
-  {
-   "device": "IMTM840A",
-   "name": "Stick2Generation",
-   "model": "MagentaTV Stick (2. Generation)"
   }
  ],
  "Magnavox": [
@@ -124152,6 +124176,18 @@
    "device": "NX-20PRO1",
    "name": "NX-20PRO1",
    "model": "NX-20PRO1"
+  }
+ ],
+ "NSVauto": [
+  {
+   "device": "UNUNI-1640P-RSE",
+   "name": "UNUNI_1640P_RSE",
+   "model": "UNUNI-1640P-RSE"
+  },
+  {
+   "device": "UNUNI-1641P-RSE",
+   "name": "UNUNI_1641P_RSE",
+   "model": "UNUNI-1641P-RSE"
   }
  ],
  "NURIBOM": [
@@ -234256,6 +234292,11 @@
    "device": "RE5C49L1",
    "name": "真我13 Pro至尊版",
    "model": "RMX3989"
+  },
+  {
+   "device": "RE601FL1",
+   "name": "真我14 Pro+",
+   "model": "RMX5050"
   },
   {
    "device": "RE5471",
