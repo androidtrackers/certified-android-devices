@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-14
+Last sync is 2025-01-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6862,6 +6862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide_1025V2_EEA|Dslide_1025V2|Dslide_1025V2|
 |Danew|Dslide_1025V2_EEA|Dslide_1025V2|Dslide_1025v2|
 |Danew|Dslide_1025_EEA|Dslide_1025_EEA|Dslide_1025|
+|Danew|Dslide_1095_EEA|Dslide_1095|Dslide_1095|
 |Danew|Dslide_113|Dslide_113|Dslide_113|
 |Danew|Dslide_114|Dslide_114|Dslide_114|
 |Danew|Dslide_809|Dslide_809_EEA|Dslide_809|
@@ -20899,6 +20900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3UL20W_EEA|M3UL20W|M3UL20W|
 |M3 Mobile|M3UL20X_EEA|M3UL20X|M3UL20X|
 |M3 Mobile|M3US30|M3US30|M3US30|
+|M3 Mobile|M3WD10|M3WD10|M3WD10|
 |M4tel|M4 B1|M4_B1|M4_B1|
 |M4tel|M4 B2|M4_B2|M4_B2|
 |M4tel|M4 B3|M4_B3|M4_B3|
@@ -21323,6 +21325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Marcel|EU、UK、AP|martin|MARCEL Android TV|
 |Marcel|Smart TV|mateo|2K US Smart TV|
 |MarkaTab|Markatab-1|Markatab-1|Markatab-1|
+|MarkaTab|Speadtrum|Speadtrum|Speadtrum|
 |Marshall|London|KB-1501|London|
 |Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|MASCOM SS289|MASCOM_SS289|MASCOM SS289|
@@ -21735,6 +21738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MegaFon|MT3A|MT3A|MT3A|
 |Megacable|Mexico|B826C-A12_ZTE|B826C-A12|
 |Megacable|Mexico|B866V2_ZTE|Xview+|
+|Megacable|OTT Xview AV1|HP46A|OTT Xview AV1|
 |Megacable|OTT Xview+ AV1|B866V2F|OTT Xview+ AV1|
 |Megacable|XView+|ucw4046meg|Xview+|
 |Megacable|XView+|uiw4059meg|XView+|
@@ -26441,6 +26445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M6 Plus 5G|breeze|24066PC95I|
 |POCO|POCO M6 Pro|emerald|2312FPCA6G|
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
+|POCO|POCO M7 5G|flame|24108PCE2I|
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
@@ -28904,6 +28909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 14C|lake|2409BRN2CY|
 |Redmi|Redmi 14C|pond|2409BRN2CA|
 |Redmi|Redmi 14C|pond|2409BRN2CL|
+|Redmi|Redmi 14C 5G|flame|2411DRN47I|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -29058,9 +29064,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 13 Pro+ 5G|zircon|24040RA98R|
 |Redmi|Redmi Note 13R|breeze|2406ERN9CC|
 |Redmi|Redmi Note 13R Pro|gold|2311FRAFDC|
+|Redmi|Redmi Note 14|tanzanite|24117RN76E|
+|Redmi|Redmi Note 14|tanzanite|24117RN76G|
+|Redmi|Redmi Note 14|tanzanite|24117RN76L|
+|Redmi|Redmi Note 14|tanzanite|24117RN76O|
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4C|
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4I|
 |Redmi|Redmi Note 14 Pro|malachite|24090RA29C|
+|Redmi|Redmi Note 14 Pro|obsidian|24116RACCG|
 |Redmi|Redmi Note 14 Pro 5G|malachite|24090RA29I|
 |Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
 |Redmi|Redmi Note 14 Pro+ 5G|amethyst|24115RA8EI|
@@ -35590,6 +35601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|roar_V150|roar_V150|roar_V150|
 |Synetech|Synetech Elite Taurus|rk3588_t|Synetech_T35|
 |Synetech|Synetech_Elite_Taurus|rk3588_t|Synetech_T35|
+|Synetech|Synetech_Elite_Taurus_V|rk3588_t|Synetech_T35_V|
 |Synetech|infnity_Piscis_E1|Piscis|Pxx79|
 |T-Mobile|REVVL 2|A30ATMO|REVVL 2|
 |T-Mobile|REVVL 2|A30ATMO|REVVL_2_5052W|

@@ -35534,6 +35534,11 @@
    "model": "Dslide_1025"
   },
   {
+   "device": "Dslide_1095",
+   "name": "Dslide_1095_EEA",
+   "model": "Dslide_1095"
+  },
+  {
    "device": "Dslide_113",
    "name": "Dslide_113",
    "model": "Dslide_113"
@@ -107555,6 +107560,11 @@
    "device": "M3US30",
    "name": "M3US30",
    "model": "M3US30"
+  },
+  {
+   "device": "M3WD10",
+   "name": "M3WD10",
+   "model": "M3WD10"
   }
  ],
  "M4tel": [
@@ -109843,6 +109853,11 @@
    "device": "Markatab-1",
    "name": "Markatab-1",
    "model": "Markatab-1"
+  },
+  {
+   "device": "Speadtrum",
+   "name": "Speadtrum",
+   "model": "Speadtrum"
   }
  ],
  "Marshall": [
@@ -111957,6 +111972,11 @@
    "device": "B866V2_ZTE",
    "name": "Mexico",
    "model": "Xview+"
+  },
+  {
+   "device": "HP46A",
+   "name": "OTT Xview AV1",
+   "model": "OTT Xview AV1"
   },
   {
    "device": "B866V2F",
@@ -136139,6 +136159,11 @@
    "model": "23076PC4BI"
   },
   {
+   "device": "flame",
+   "name": "POCO M7 5G",
+   "model": "24108PCE2I"
+  },
+  {
    "device": "beryl",
    "name": "POCO M7 Pro 5G",
    "model": "2409FPCC4I"
@@ -148816,6 +148841,11 @@
    "model": "2409BRN2CL"
   },
   {
+   "device": "flame",
+   "name": "Redmi 14C 5G",
+   "model": "2411DRN47I"
+  },
+  {
    "device": "cereus",
    "name": "Redmi 6",
    "model": "Redmi 6"
@@ -149586,6 +149616,26 @@
    "model": "2311FRAFDC"
   },
   {
+   "device": "tanzanite",
+   "name": "Redmi Note 14",
+   "model": "24117RN76E"
+  },
+  {
+   "device": "tanzanite",
+   "name": "Redmi Note 14",
+   "model": "24117RN76G"
+  },
+  {
+   "device": "tanzanite",
+   "name": "Redmi Note 14",
+   "model": "24117RN76L"
+  },
+  {
+   "device": "tanzanite",
+   "name": "Redmi Note 14",
+   "model": "24117RN76O"
+  },
+  {
    "device": "beryl",
    "name": "Redmi Note 14 5G",
    "model": "24094RAD4C"
@@ -149599,6 +149649,11 @@
    "device": "malachite",
    "name": "Redmi Note 14 Pro",
    "model": "24090RA29C"
+  },
+  {
+   "device": "obsidian",
+   "name": "Redmi Note 14 Pro",
+   "model": "24116RACCG"
   },
   {
    "device": "malachite",
@@ -182864,6 +182919,11 @@
    "device": "rk3588_t",
    "name": "Synetech_Elite_Taurus",
    "model": "Synetech_T35"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "Synetech_Elite_Taurus_V",
+   "model": "Synetech_T35_V"
   },
   {
    "device": "Piscis",
