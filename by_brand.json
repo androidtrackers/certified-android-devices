@@ -66016,13 +66016,13 @@
    "model": "EDA52"
   },
   {
-   "device": "EDA52",
+   "device": "EDA56",
    "name": "EDA56",
    "model": "EDA56"
   },
   {
-   "device": "EDA56",
-   "name": "EDA56",
+   "device": "EDA52",
+   "name": "EDA56W6",
    "model": "EDA56"
   },
   {
@@ -66396,6 +66396,11 @@
    "device": "HNELN-Q",
    "name": "HONOR Pad X9",
    "model": "ELN-W09"
+  },
+  {
+   "device": "HNGFY-M",
+   "name": "HONOR Play9A",
+   "model": "GFY-LX3"
   },
   {
    "device": "HNVNA-M",
@@ -103091,6 +103096,11 @@
    "model": "TB320FC"
   },
   {
+   "device": "3）\"",
+   "name": "\"Lenovo Legion Tab（8.8''",
+   "model": "TB321FU"
+  },
+  {
    "device": "vega",
    "name": "Lenovo Mirage Solo",
    "model": "VR-1541F"
@@ -105219,6 +105229,11 @@
    "device": "X804F",
    "name": "小新平板",
    "model": "Lenovo TB-X804F"
+  },
+  {
+   "device": "TB321FU",
+   "name": "拯救者平板Y700",
+   "model": "TB321FU"
   },
   {
    "device": "TB570FU",
@@ -116048,6 +116063,11 @@
    "device": "H6682",
    "name": "H6682_VDC_TZ",
    "model": "H6682_VDC_TZ"
+  },
+  {
+   "device": "H67A1",
+   "name": "H67A1",
+   "model": "H67A1"
   },
   {
    "device": "H6821",
@@ -150723,6 +150743,16 @@
    "model": "T80"
   },
   {
+   "device": "Vision_12",
+   "name": "Vision_12",
+   "model": "Vision 12"
+  },
+  {
+   "device": "Vision_7",
+   "name": "Vision_7",
+   "model": "Vision 7"
+  },
+  {
    "device": "scoutx",
    "name": "scoutp",
    "model": "T80"
@@ -152332,6 +152362,11 @@
   {
    "device": "X2_US",
    "name": "X2_S_US",
+   "model": "X2_S_US"
+  },
+  {
+   "device": "X2_US",
+   "name": "X2_S_US",
    "model": "X2_US"
   }
  ],
@@ -152671,6 +152706,11 @@
    "device": "GRAVITY_5_SE_EEA",
    "name": "GRAVITY_5_SE_EEA",
    "model": "GRAVITY 5 SE"
+  },
+  {
+   "device": "GRAVITY_6_SE_11",
+   "name": "GRAVITY_6_SE_11_EEA",
+   "model": "GRAVITY 6 SE 11"
   },
   {
    "device": "Gravity_Max",
@@ -233679,6 +233719,11 @@
    "device": "RE6066L1",
    "name": "realme 13+ 5G",
    "model": "RMX5000"
+  },
+  {
+   "device": "RE6081L1",
+   "name": "realme 14 Pro 5G",
+   "model": "RMX5056"
   },
   {
    "device": "RE606B",

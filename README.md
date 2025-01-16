@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-15
+Last sync is 2025-01-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12746,8 +12746,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA51K|EDA51K-0|EDA51K|
 |Honeywell|EDA51K|EDA51K-1|EDA51K|
 |Honeywell|EDA52|EDA52|EDA52|
-|Honeywell|EDA56|EDA52|EDA56|
 |Honeywell|EDA56|EDA56|EDA56|
+|Honeywell|EDA56W6|EDA52|EDA56|
 |Honeywell|EDA57|EDA57|EDA57|
 |Honeywell|EDA5S|EDA5S|EDA5S|
 |Honeywell|EDA61K|EDA61K-0C|EDA61K|
@@ -12822,6 +12822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L03|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
+|Honor|HONOR Play9A|HNGFY-M|GFY-LX3|
 |Honor|HONOR X5|HNVNA-M|VNA-LX2|
 |Honor|HONOR X5|HNVNA-M|VNA-LX3|
 |Honor|HONOR X5 Plus|HNWDY-M|WOD-LX1|
@@ -20021,6 +20022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo K8 Plus|marino_f|Lenovo K8 Plus|
 |Lenovo|Lenovo K9|K9|Lenovo L38043|
 |Lenovo|Lenovo Legion Tab|TB320FC|TB320FC|
+|Lenovo|"Lenovo Legion Tab（8.8''|3）"|TB321FU|
 |Lenovo|Lenovo Mirage Solo|vega|VR-1541F|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Braswell Chrome OS Device|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Intel Braswell Chromebook|
@@ -20447,6 +20449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|小新学习平板|TB372FC|TB372FC|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
+|Lenovo|拯救者平板Y700|TB321FU|TB321FU|
 |Lenovo|拯救者平板Y900|TB570FU|TB570FU|
 |Lenovo|拯救者平板Y900|TB570ZU|TB570ZU|
 |Lenovo|拯救者电竞手机|moba|Lenovo L79031|
@@ -22534,6 +22537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6682|H6682|H6682|
 |Mobiwire|H6682_VDC_TZ|H6682|H6682_VDC_TZ|
+|Mobiwire|H67A1|H67A1|H67A1|
 |Mobiwire|H6821|H6821|H6821|
 |Mobiwire|HALONA|Halona|Halona|
 |Mobiwire|Hawk from EE|Hawk_from_EE|Hawk_from_EE|
@@ -29279,6 +29283,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|T5SE|Rhino_T5SE|T5SE-001|
 |Rhino|T8|Rhino_T8|T8|
 |Rhino|T80|scoutx|T80|
+|Rhino|Vision_12|Vision_12|Vision 12|
+|Rhino|Vision_7|Vision_7|Vision 7|
 |Rhino|scoutp|scoutx|T80|
 |Rhino|scoutpxl|scoutxlx|T100|
 |Ricoh|AXX10|AXX10|AXX10|
@@ -29572,6 +29578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|K15_US|K15_US|K15_US|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_EEA|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_S_EEA|
+|SKYEGG|X2_S_US|X2_US|X2_S_US|
 |SKYEGG|X2_S_US|X2_US|X2_US|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SMART Technologies|AM60 series|komodo|AM60 series|
@@ -29635,6 +29642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|GRAVITY_5_EEA|GRAVITY_5_EEA|GRAVITY_5_EEA|
 |SPC|GRAVITY_5_PRO|GRAVITY_5_PRO|GRAVITY 5 PRO|
 |SPC|GRAVITY_5_SE_EEA|GRAVITY_5_SE_EEA|GRAVITY 5 SE|
+|SPC|GRAVITY_6_SE_11_EEA|GRAVITY_6_SE_11|GRAVITY 6 SE 11|
 |SPC|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC|Indonesia|guandu|SPC Android TV|
 |SPC|L80W|L80W|L80W|
@@ -45465,6 +45473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13 Pro+ 5G|RE5CA3L1|RMX3921|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
+|realme|realme 14 Pro 5G|RE6081L1|RMX5056|
 |realme|realme 14x 5G|RE606B|RMX3940|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
