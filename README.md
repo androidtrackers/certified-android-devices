@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-16
+Last sync is 2025-01-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -264,6 +264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOZORA|A57|A57|A57|
 |AOZORA|A61|A61|A61|
 |AOZORA|K8|K8|K8 Active|
+|AOZORA|k101|K101|K101|
 |AOpen|"RK3288 10"" Chromebase"|tiger_cheets|AOpen Chromebase Mini|
 |AOpen|RK3288 Mini Chromebox|fievel_cheets|AOpen Chromebox Mini|
 |ARATEK|BM5500|BM5500|BM5500|
@@ -6998,6 +6999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denali|Etab2|DT0705W08|DT0705W08|
 |Denka|Android TV|R1|ATV R1|
 |Denka|Android TV|R2|ATV R2|
+|Dens TV|B866V2FA V5.1|B866V2FAV5_DensTV|B866V2FA V5.1|
 |Denso Wave|BHT-1600|BHT1600|BHT1600|
 |Denso Wave|BHT-1700BWB-A7|BHT-1700BWB-1-A7|BHT-1700BWB-1-A7|
 |Denso Wave|BHT-1700QLWB-A7-P|BHT-1700QLWB-P-A7|BHT-1700QLWB-P-A7|
@@ -7807,6 +7809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|DT1052|DT1052|DT1052|
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
+|Dwsummus|DWsummus|DS_RK3588|QK8635P|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
 |Dyon|DYON|zhongshan|4K SMART TV|
 |Dyon|DYON 2K Google TV|capitolhill|DYON 2K Google TV|
@@ -12747,7 +12750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA51K|EDA51K-1|EDA51K|
 |Honeywell|EDA52|EDA52|EDA52|
 |Honeywell|EDA56|EDA56|EDA56|
-|Honeywell|EDA56W6|EDA52|EDA56|
+|Honeywell|EDA56-0|EDA52|EDA56|
 |Honeywell|EDA57|EDA57|EDA57|
 |Honeywell|EDA5S|EDA5S|EDA5S|
 |Honeywell|EDA61K|EDA61K-0C|EDA61K|
@@ -12919,6 +12922,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Horion|IFPD|65W72B|W72B|
 |Horion|M6APro|M6APro|M6APro|
 |Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
+|Hot Pepper|18 Pro|18_Pro|18 Pro|
+|Hot Pepper|19 Pro Max|19_Pro_Max|19 Pro Max|
 |Hot Pepper|AJI|AJI|HPPR10A|
 |Hot Pepper|AP17|AP17|AP17|
 |Hot Pepper|Bola|Bola|Bola|
@@ -21655,6 +21660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP8KID|M-SP8KID|M-SP8KID|
 |Mediacom|M-SP8MXA|SP8MXA|M-SP8MXA|
 |Mediacom|SP1AZ4_L|SP1AZ4_L|AZIMUT_4_LITE|
+|Mediacom|SP1AZ4_L|SP1AZ4_L|S700|
 |Mediacom|SP1AZ4_P|SP1AZ4_P|AZIMUT_4_PRO|
 |Medion|E1050X|E1050X|E1050X|
 |Medion|E1051X|E1051X|E1051X|
@@ -23976,6 +23982,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab E 8FHD1|LAVIETabE8FHD1|LAVIE Tab E 8FHD1|
 |NEC|LAVIE Tab E 8HD1|LAVIETabE8HD1|LAVIE Tab E 8HD1|
 |NEC|LAVIE Tab T10|LAVIETab10FHD3|LAVIE Tab 10FHD3|
+|NEC|LAVIE Tab T11|LAVIETab112K2|LAVIE Tab 112K2|
 |NEC|LAVIE Tab T11|LAVIETab11QHD2|LAVIE Tab 11QHD2|
 |NEC|LAVIE Tab T14|LAVIETab143K1|LAVIE Tab 143K1|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
@@ -25898,6 +25905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno13|OP5DD7L1|PKM110|
 |Oppo|Reno13 5G|OP5E9EL1|CPH2689|
 |Oppo|Reno13 F|OP5ECBL1|CPH2701|
+|Oppo|Reno13 F 5G|OP5EC7L1|CPH2699|
 |Oppo|Reno13 Pro|OP5DD5L1|PKK110|
 |Oppo|Reno13 Pro 5G|OP5EC5L1|CPH2697|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
@@ -35217,6 +35225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|Android TV|redwood|AI PONT|
 |Strong|HP4423|YYC|4K Android TV Box|
 |Strong|LEAP-S1|LAS|LEAP-S1|
+|Strong|LEAP-S3 PRO|RMQ|UHD Google TV STB|
 |Strong|Leap-S3|YDA|4K Google TV Box|
 |Strong|SRT41|YYT|4K Google TV Stick|
 |Strong|SRT420|ZRH|4K Hybrid STB|
@@ -38424,6 +38433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
 |TeloSystems|Telo_TE590P|TE590P_U|TE590P|
 |Telpo|C1|C1|C1|
+|Telpo|C9|C9|C9|
 |Telpo|M1|M1s|M1s|
 |Telpo|M10|M10|M10 for arm64|
 |Telpo|M1K|M1K|M1K|

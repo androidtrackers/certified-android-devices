@@ -1416,6 +1416,11 @@
    "device": "K8",
    "name": "K8",
    "model": "K8 Active"
+  },
+  {
+   "device": "K101",
+   "name": "k101",
+   "model": "K101"
   }
  ],
  "AOpen": [
@@ -36254,6 +36259,13 @@
    "model": "ATV R2"
   }
  ],
+ "Dens TV": [
+  {
+   "device": "B866V2FAV5_DensTV",
+   "name": "B866V2FA V5.1",
+   "model": "B866V2FA V5.1"
+  }
+ ],
  "Denso Wave": [
   {
    "device": "BHT1600",
@@ -40425,6 +40437,13 @@
    "device": "W2",
    "name": "W2",
    "model": "W2"
+  }
+ ],
+ "Dwsummus": [
+  {
+   "device": "DS_RK3588",
+   "name": "DWsummus",
+   "model": "QK8635P"
   }
  ],
  "Dynalink": [
@@ -66022,7 +66041,7 @@
   },
   {
    "device": "EDA52",
-   "name": "EDA56W6",
+   "name": "EDA56-0",
    "model": "EDA56"
   },
   {
@@ -66887,6 +66906,16 @@
    "device": "15_Pro_Max",
    "name": "15 Pro Max",
    "model": "15 Pro Max"
+  },
+  {
+   "device": "18_Pro",
+   "name": "18 Pro",
+   "model": "18 Pro"
+  },
+  {
+   "device": "19_Pro_Max",
+   "name": "19 Pro Max",
+   "model": "19 Pro Max"
   },
   {
    "device": "AJI",
@@ -111553,6 +111582,11 @@
    "model": "AZIMUT_4_LITE"
   },
   {
+   "device": "SP1AZ4_L",
+   "name": "SP1AZ4_L",
+   "model": "S700"
+  },
+  {
    "device": "SP1AZ4_P",
    "name": "SP1AZ4_P",
    "model": "AZIMUT_4_PRO"
@@ -123388,6 +123422,11 @@
    "model": "LAVIE Tab 10FHD3"
   },
   {
+   "device": "LAVIETab112K2",
+   "name": "LAVIE Tab T11",
+   "model": "LAVIE Tab 112K2"
+  },
+  {
    "device": "LAVIETab11QHD2",
    "name": "LAVIE Tab T11",
    "model": "LAVIE Tab 11QHD2"
@@ -133326,6 +133365,11 @@
    "device": "OP5ECBL1",
    "name": "Reno13 F",
    "model": "CPH2701"
+  },
+  {
+   "device": "OP5EC7L1",
+   "name": "Reno13 F 5G",
+   "model": "CPH2699"
   },
   {
    "device": "OP5DD5L1",
@@ -180927,6 +180971,11 @@
    "model": "LEAP-S1"
   },
   {
+   "device": "RMQ",
+   "name": "LEAP-S3 PRO",
+   "model": "UHD Google TV STB"
+  },
+  {
    "device": "YDA",
    "name": "Leap-S3",
    "model": "4K Google TV Box"
@@ -197334,6 +197383,11 @@
    "device": "C1",
    "name": "C1",
    "model": "C1"
+  },
+  {
+   "device": "C9",
+   "name": "C9",
+   "model": "C9"
   },
   {
    "device": "M1s",
