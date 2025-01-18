@@ -5236,6 +5236,11 @@
  ],
  "Airtel": [
   {
+   "device": "H6682",
+   "name": "H6682_Airtel_DRC",
+   "model": "H6682_Airtel_DRC"
+  },
+  {
    "device": "AirtelOTTBox",
    "name": "HP2707",
    "model": "HP2707"
@@ -45850,6 +45855,11 @@
    "model": "A55AM"
   },
   {
+   "device": "G1",
+   "name": "G1",
+   "model": "FOXX G1"
+  },
+  {
    "device": "T8C",
    "name": "T8C",
    "model": "T8C"
@@ -67070,6 +67080,11 @@
    "device": "A1",
    "name": "A1",
    "model": "A1"
+  },
+  {
+   "device": "A16_Max",
+   "name": "A16 Max",
+   "model": "A16 Max"
   },
   {
    "device": "A1_Plus",
@@ -98727,6 +98742,16 @@
    "device": "S15_Pro",
    "name": "S15 Pro",
    "model": "S15 Pro"
+  },
+  {
+   "device": "S17_Pro",
+   "name": "S17 Pro",
+   "model": "S17 Pro"
+  },
+  {
+   "device": "S18_Max",
+   "name": "S18 Max",
+   "model": "S18 Max"
   }
  ],
  "LUSH_MINT": [
@@ -206578,6 +206603,11 @@
    "device": "SW4H",
    "name": "VISION SMART TV",
    "model": "VISION SMART TV"
+  },
+  {
+   "device": "VT_31",
+   "name": "VT_31",
+   "model": "VT 31"
   },
   {
    "device": "VISION_V1",

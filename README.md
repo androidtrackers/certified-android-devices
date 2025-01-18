@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-17
+Last sync is 2025-01-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -992,6 +992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airpha|Sense2|Sense2|Sense2|
 |Airpha|Sense2_Pro|Sense2_Pro|Sense2_Pro|
 |Airtab|AT8-N|AT8-N|AT8-N|
+|Airtel|H6682_Airtel_DRC|H6682|H6682_Airtel_DRC|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
 |Airtel|XStream Smart Box|hsw4026atl|XStream_Smart_Box_001|
@@ -8824,6 +8825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|Tab 11|Tab_11|Tab 11|
 |FOSSiBOT|Tab_12|Tab_12|Tab 12|
 |FOXX|A55AM|A55AM|A55AM|
+|FOXX|G1|G1|FOXX G1|
 |FOXX|T8C|T8C|T8C|
 |FOXXD|A10U|A10U|A10U|
 |FOXXD|A2023|A2023|A2023|
@@ -12954,6 +12956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HotLight|TP1003|TP1003|TP1003|
 |HotLight|TP1003|TP1003_EEA|TP1003|
 |Hotwav|A1|A1|A1|
+|Hotwav|A16 Max|A16_Max|A16 Max|
 |Hotwav|A1_Plus|A1_Plus|A1 Plus|
 |Hotwav|Cosmos|Cosmos|Cosmos|
 |Hotwav|Cosmos_U|Cosmos_U|Cosmos U|
@@ -19161,6 +19164,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUNA|LUNA_G6E|G6E|LUNA G6E|
 |LUNAR|Lunar Eclipse L1|Lunar_Eclipse_L1|Eclipse L1|
 |LUO(A)|S15 Pro|S15_Pro|S15 Pro|
+|LUO(A)|S17 Pro|S17_Pro|S17 Pro|
+|LUO(A)|S18 Max|S18_Max|S18 Max|
 |LUSH_MINT|L1582C|L1582C|L1582C|
 |LUSH_MINT|L1589K|L1589K|L1589K|
 |LUSH_MINT|LM5314G|LM5314G|LM5314G|
@@ -40190,6 +40195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vision|VISION GSMART 4KTV FF|SW6H|VISION GSMART 4KTV FF|
 |Vision|VISION GSMART 4KTV FF|anaheim|VISION GSMART 4KTV FF|
 |Vision|VISION SMART TV|SW4H|VISION SMART TV|
+|Vision|VT_31|VT_31|VT 31|
 |Vision|Vision V1|VISION_V1|V1|
 |Vision Technology|2K SMART TV|nagata|2K SMART TV|
 |Vision Technology|Android TV|R1|ATV R1|
