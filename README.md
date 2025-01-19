@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-18
+Last sync is 2025-01-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20847,8 +20847,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lumigon|T3|Lumigon_T3|Lumigon_T3|
 |Lumitel|L9502|L9502|L9502|
 |Lumitel|L9503|L9503|L9503|
+|Lunnen|TL42810L01|TL42810L01|Lunnen Ground 10.4|
 |Lunnen|TL42810L01|TL42810L01|TL42810L01|
 |Lunnen|TL4648S01|TL4648S01|TL4648S01|
+|Lunnen|TL62810G01|TL62810G01|Lunnen Ground 10.4|
 |Lunnen|TL62810G01|TL62810G01|TL62810G01|
 |Lunnen|TL85611B01|TL85611B01|Lunnen Ground 11|
 |Lyf|LS-4004|LS-4004|LS-4004|

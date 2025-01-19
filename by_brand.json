@@ -107293,12 +107293,22 @@
   {
    "device": "TL42810L01",
    "name": "TL42810L01",
+   "model": "Lunnen Ground 10.4"
+  },
+  {
+   "device": "TL42810L01",
+   "name": "TL42810L01",
    "model": "TL42810L01"
   },
   {
    "device": "TL4648S01",
    "name": "TL4648S01",
    "model": "TL4648S01"
+  },
+  {
+   "device": "TL62810G01",
+   "name": "TL62810G01",
+   "model": "Lunnen Ground 10.4"
   },
   {
    "device": "TL62810G01",
