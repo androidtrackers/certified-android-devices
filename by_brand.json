@@ -620,6 +620,13 @@
    "model": "1013"
   }
  ],
+ "ADVANTOUCH": [
+  {
+   "device": "rk3588_t",
+   "name": "Android_EDLA_OPS",
+   "model": "EO1_RK3588_08128"
+  }
+ ],
  "AEEZO": [
   {
    "device": "TK701",
@@ -1573,6 +1580,16 @@
   }
  ],
  "ASTECH": [
+  {
+   "device": "Astech_IRIS",
+   "name": "Astech_IRIS",
+   "model": "Astech IRIS"
+  },
+  {
+   "device": "Astech_S9",
+   "name": "Astech_S9",
+   "model": "Astech S9"
+  },
   {
    "device": "R3",
    "name": "R3",
@@ -3051,6 +3068,11 @@
    "device": "AcerOne8T9-422L",
    "name": "Acer One 8 T9-422L",
    "model": "Acer One 8 T9-422L"
+  },
+  {
+   "device": "AOT10-22L",
+   "name": "Acer One T10-22L",
+   "model": "Acer One T10-22L"
   },
   {
    "device": "DT3K_F",
@@ -7148,6 +7170,11 @@
    "model": "iPlay60 mini Turbo"
   },
   {
+   "device": "iPlay70_S",
+   "name": "iPlay70_S",
+   "model": "iPlay70_S"
+  },
+  {
    "device": "U1008",
    "name": "iPlay9T",
    "model": "iPlay9T"
@@ -7186,6 +7213,11 @@
    "device": "T1103T",
    "name": "iPlay_60_Lite",
    "model": "iPlay_60_Lite"
+  },
+  {
+   "device": "iPlay_70_Max",
+   "name": "iPlay_70_Max",
+   "model": "iPlay_70_Max"
   },
   {
    "device": "iPlay_70_S",
@@ -24975,6 +25007,11 @@
  ],
  "COLORROOM": [
   {
+   "device": "A5",
+   "name": "A5",
+   "model": "A5"
+  },
+  {
    "device": "C1",
    "name": "C1",
    "model": "C1"
@@ -26214,6 +26251,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "lavender",
+   "name": "CASPER",
+   "model": "4K SMART TV"
   },
   {
    "device": "CASPER_L10_4_5G",
@@ -45300,6 +45342,11 @@
    "device": "L251-EEA",
    "name": "L251-EEA",
    "model": "L251-EEA"
+  },
+  {
+   "device": "M518-EEA",
+   "name": "M518-EEA",
+   "model": "M518-EEA"
   }
  ],
  "FATARUS": [
@@ -54527,6 +54574,11 @@
    "device": "DS_D5C65RB_A",
    "name": "DS_D5C75RB_A",
    "model": "DS_D5C65RB_A"
+  },
+  {
+   "device": "HIK_9679",
+   "name": "HIK_9679",
+   "model": "HIK_9679"
   }
  ],
  "HIMADE": [
@@ -84045,7 +84097,7 @@
  "JOVI": [
   {
    "device": "V2419B",
-   "name": "Y19s",
+   "name": "JOVI Y19s",
    "model": "V2425"
   }
  ],
@@ -121401,6 +121453,11 @@
    "model": "M10_4G_T1"
   },
   {
+   "device": "ML_SO6C_M10_4G_T1",
+   "name": "M10 4G T1",
+   "model": "M10_4G_T1"
+  },
+  {
    "device": "ML-WI1C-M10-4G-T3",
    "name": "M10 4G T3",
    "model": "M10-4G-T3"
@@ -123460,6 +123517,11 @@
    "device": "LAVIETab112K2",
    "name": "LAVIE Tab T11",
    "model": "LAVIE Tab 112K2"
+  },
+  {
+   "device": "LAVIETab11FHD1",
+   "name": "LAVIE Tab T11",
+   "model": "LAVIE Tab 11FHD1"
   },
   {
    "device": "LAVIETab11QHD2",
@@ -125891,6 +125953,13 @@
    "device": "s810c",
    "name": "COOLPIX S810c",
    "model": "COOLPIX S810c"
+  }
+ ],
+ "Niotek": [
+  {
+   "device": "rk3588_t",
+   "name": "AxxNE",
+   "model": "AxxNE"
   }
  ],
  "Nissan": [
@@ -154223,6 +154292,11 @@
    "device": "P11",
    "name": "P11",
    "model": "P11"
+  },
+  {
+   "device": "P11",
+   "name": "P11",
+   "model": "P13"
   },
   {
    "device": "P11",

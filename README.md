@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-20
+Last sync is 2025-01-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -118,6 +118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ADVAN|TAB A8|ADVAN_TAB_A8|8004|
 |ADVAN|VX NEO|ADVAN_VX_NEO|1013|
 |ADVAN|VX_LITE|ADVAN_TAB_VX_LITE|1013|
+|ADVANTOUCH|Android_EDLA_OPS|rk3588_t|EO1_RK3588_08128|
 |AEEZO|TK701|TK701|TK701|
 |AEEZO|TK701_EEA|TK701_EEA|TK701_EEA|
 |AEEZO|TK801|TK801|TK801|
@@ -290,6 +291,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASHER|Smart TV|redwood|AI PONT|
 |ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
+|ASTECH|Astech_IRIS|Astech_IRIS|Astech IRIS|
+|ASTECH|Astech_S9|Astech_S9|Astech S9|
 |ASTECH|R3|R3|R3|
 |ASTECH|R4|R4|R4|
 |ASTECH|Senegal|tamachi|ASTECH FHD Android TV|
@@ -567,6 +570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L|AcerOne8T4-82Lxi|Acer One 8 T4-82L|
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
+|Acer|Acer One T10-22L|AOT10-22L|Acer One T10-22L|
 |Acer|Acer education whiteboard|DT3K_F|DT3K_F|
 |Acer|Acer_A60|Acer_A60|A60|
 |Acer|Acer_A60L|Acer_A60L|A60L|
@@ -1368,6 +1372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay60_S|U1033|iPlay60_S|
 |Alldocube|iPlay60_mini_Pro|iPlay60_mini_Pro|iPlay60_mini_Pro|
 |Alldocube|iPlay60_mini_Turbo|U812|iPlay60 mini Turbo|
+|Alldocube|iPlay70_S|iPlay70_S|iPlay70_S|
 |Alldocube|iPlay9T|U1008|iPlay9T|
 |Alldocube|iPlay_20|iPlay_20|iPlay_20|
 |Alldocube|iPlay_30|T1012|iPlay_30|
@@ -1376,6 +1381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay_50_Pro|T1030MAN|iPlay_50_Pro|
 |Alldocube|iPlay_60|T1102T|iPlay_60|
 |Alldocube|iPlay_60_Lite|T1103T|iPlay_60_Lite|
+|Alldocube|iPlay_70_Max|iPlay_70_Max|iPlay_70_Max|
 |Alldocube|iPlay_70_S|iPlay_70_S|iPlay_70_S|
 |Alldocube|iPlay_70_mini_Ultra|iPlay_70_mini_Ultra|iPlay 70 mini Ultra|
 |Alldocube|kPad|T1026|kPad|
@@ -4829,6 +4835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COEX|COEX 2K Smart TV|sunnyvale|COEX 2K Smart TV|
 |COEX|COEX 4K Smart TV|SW6H|COEX 4K Smart TV|
 |COEX|COEX 4K Smart TV FF|SW6H|COEX 4K Smart TV FF|
+|COLORROOM|A5|A5|A5|
 |COLORROOM|C1|C1|C1|
 |COLORROOM|C10_EEA|C10_EEA|C10|
 |COLORROOM|C10_ROW|C10_ROW|C10|
@@ -5060,6 +5067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|55UGA610|barking|Casper AndroidTV|
 |Casper|Android TV|R1|ATV R1|
 |Casper|Android TV|R2|ATV R2|
+|Casper|CASPER|lavender|4K SMART TV|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
 |Casper|Casper 2K Smart TV|sunnyvale|Casper 2K Smart TV|
 |Casper|Casper 4K TV|SW6H|Casper 4K TV|
@@ -8722,6 +8730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FASTWD|L231-EEA|L231-EEA|L231-EEA|
 |FASTWD|L251|L251|L251|
 |FASTWD|L251-EEA|L251-EEA|L251-EEA|
+|FASTWD|M518-EEA|M518-EEA|M518-EEA|
 |FATARUS|K10|K10|K10|
 |FAVORITT|R3|R3|R3|
 |FAVORITT|R4|R4|R4|
@@ -10479,6 +10488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIKVISION|DS_D5C75RB_A|DS_D5C65RB_A|DS_D5C65RB_A|
+|HIKVISION|HIK_9679|HIK_9679|HIK_9679|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
 |HISORL|P50|P50|P50|
@@ -16296,7 +16306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JIZHAO|JZP57|JZP57|JZP57|
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
-|JOVI|Y19s|V2419B|V2425|
+|JOVI|JOVI Y19s|V2419B|V2425|
 |JOYSURF|TB-JS100A|TB-JS100A|TB-JS100A|
 |JOYSURF|TB-JS101A|TB-JS101A|TB-JS101A|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
@@ -23587,6 +23597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_SO1G_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G T1|ML_SO5C_M10_4G_T1|M10_4G_T1|
+|Multilaser|M10 4G T1|ML_SO6C_M10_4G_T1|M10_4G_T1|
 |Multilaser|M10 4G T3|ML-WI1C-M10-4G-T3|M10-4G-T3|
 |Multilaser|M10 4G TERE|ML_JI0B_M10_4G_TERE|M10_4G_TERESOPOLIS|
 |Multilaser|M10 4G TERESOPOLIS|ML_SO0G_M10_4G_T|M10_4G_TERESOPOLIS|
@@ -23990,6 +24001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab E 8HD1|LAVIETabE8HD1|LAVIE Tab E 8HD1|
 |NEC|LAVIE Tab T10|LAVIETab10FHD3|LAVIE Tab 10FHD3|
 |NEC|LAVIE Tab T11|LAVIETab112K2|LAVIE Tab 112K2|
+|NEC|LAVIE Tab T11|LAVIETab11FHD1|LAVIE Tab 11FHD1|
 |NEC|LAVIE Tab T11|LAVIETab11QHD2|LAVIE Tab 11QHD2|
 |NEC|LAVIE Tab T14|LAVIETab143K1|LAVIE Tab 143K1|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
@@ -24447,6 +24459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nikkei|NI43UG7NA9|samseong|AI PONT|
 |Nikon|COOLPIX|S800c|COOLPIX S800c|
 |Nikon|COOLPIX S810c|s810c|COOLPIX S810c|
+|Niotek|AxxNE|rk3588_t|AxxNE|
 |Nissan|NissanConnect|aivi2_b|AIVI2 B|
 |Nissan|NissanConnect|aivi2_n_full|AIVI2_N_FULL|
 |Nixon|The Mission|sculpin|The Mission|
@@ -29933,6 +29946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P08|P08|P08|
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
+|SVITOO|P11|P11|P13|
 |SVITOO|P11_pro|P11|P11|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SWACONNECT|SWA310|SWA310|SWA310|
