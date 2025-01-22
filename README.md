@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-21
+Last sync is 2025-01-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7190,6 +7190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|DigitPad10|DigitPad10|DigitPad10|
 |Digit|Digit_Glory|Digit_Glory1|Digit Glory1|
 |Digit|Digitplay1|Digitplay1|Digitplay1|
+|Digit|NOTE 16|NOTE_16|NOTE 16|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
 |Digital2|Plus|Digital2Plus|Digital2 Plus|
@@ -10169,6 +10170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|QUANTUM_700S/QUANTUM 700S|QUANTUM_700S|QUANTUM_700S|
 |GoClever|Quantum 500 STEEL|FQ_500R|Quantum_500_STEEL|
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
+|GoMo|N11|S5506LA|S5506L|
 |GoPlus|GoPlus 4k|SEI700STL|GoPlus 4k|
 |Goally|P3_8|P3_8|P3_8|
 |Gobox|T2|T2|T2|
@@ -26391,6 +26393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD LLC|Bengal Max|Bengal_Max_iW|Bengal Max|
 |PCD LLC|Bengal_Max|Bengal_Max|Bengal Max|
 |PCD LLC|P41PR|P41PR|P41PR|
+|PCD LLC|P55 US|P55_US|P55 US|
 |PCD LLC|P62|P62|P62|
 |PCD LLC|P65|P65|P65|
 |PEAQ|PET-1008-F464E|PET-1008-F464E|PET 1008-F464E|
@@ -39499,6 +39502,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Up_Mobile|Mover_Edition_EEA|Mover_Edition|Up_Mobile_Mover_Edition|
 |Uphone|SPURT R3|SPURT_R3|SPURT R3|
 |Upserve|5-Inches|5-Inches|5-Inches|
+|Urovo|CT58S|CT58S|CT58S|
 |Urovo|DT20|SQ57|DT20|
 |Urovo|DT20 Pro|SQ57S|DT20_Pro|
 |Urovo|DT20_EEA|SQ57|DT20|
@@ -45056,6 +45060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iData|iData T3 Pro|T3_Pro|T3_Pro|
 |iData|iData i2|i2|iData i2|
 |iData|iData i3|i3|iData i3|
+|iData|iDataT2|iDataT2|iDataT2|
 |iData|iData_50|iData_50|iData 50|
 |iData|iData_K1|iData_K1|iData K1|
 |iDea USA|CT8|CT8|CT8|

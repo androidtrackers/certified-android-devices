@@ -37264,6 +37264,11 @@
    "device": "Digitplay1",
    "name": "Digitplay1",
    "model": "Digitplay1"
+  },
+  {
+   "device": "NOTE_16",
+   "name": "NOTE 16",
+   "model": "NOTE 16"
   }
  ],
  "Digital2": [
@@ -52883,6 +52888,13 @@
    "device": "TQ700",
    "name": "TQ700/QUANTUM 700/TAB",
    "model": "TQ700"
+  }
+ ],
+ "GoMo": [
+  {
+   "device": "S5506LA",
+   "name": "N11",
+   "model": "S5506L"
   }
  ],
  "GoPlus": [
@@ -135863,6 +135875,11 @@
    "model": "P41PR"
   },
   {
+   "device": "P55_US",
+   "name": "P55 US",
+   "model": "P55 US"
+  },
+  {
    "device": "P62",
    "name": "P62",
    "model": "P62"
@@ -202959,6 +202976,11 @@
  ],
  "Urovo": [
   {
+   "device": "CT58S",
+   "name": "CT58S",
+   "model": "CT58S"
+  },
+  {
    "device": "SQ57",
    "name": "DT20",
    "model": "DT20"
@@ -231494,6 +231516,11 @@
    "device": "i3",
    "name": "iData i3",
    "model": "iData i3"
+  },
+  {
+   "device": "iDataT2",
+   "name": "iDataT2",
+   "model": "iDataT2"
   },
   {
    "device": "iData_50",
