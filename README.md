@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-22
+Last sync is 2025-01-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11785,6 +11785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|KIDS_1|KIDS_1|KIDS_1|
 |Hiking|Rugged S2|Rugged_S2|Rugged S2|
 |Hiking|Rugged_S1|Rugged_S1|Rugged S1|
+|Hillpos|HT65|HT65|HT65|
 |Himax|M21|M21|M21|
 |Himax|M25i|M25i|M25i|
 |Hime TV|PANZTE-0001|HIME_B866V2FAS|PANZTE-0001|
@@ -12715,6 +12716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN85|CN85-L1-C|CN85|
 |Honeywell|CT30XP|CT30P|CT30P|
 |Honeywell|CT37|CT37|CT37|
+|Honeywell|CT37|CT37T|CT37|
 |Honeywell|CT40|CT40-L0-C|CT40|
 |Honeywell|CT40|CT40-L0-CA|CT40|
 |Honeywell|CT40|CT40-L1-C|CT40|
@@ -16696,6 +16698,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|BT-A2000|BT-A2000|BT-A2000|
 |KEYENCE|BT-A2000M|BT-A2000|BT-A2000M|
 |KEYENCE|BT-A500GA|BTA500|BTA500|
+|KEYENCE|BT-A600|BT-A600|BT-A600|
+|KEYENCE|BT-A600M|BT-A600|BT-A600M|
 |KEYENCE|BTA700|BTA700|BTA700|
 |KEYENCE|DX-A400|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
@@ -20983,6 +20987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MASTERTECH|MASTERTECH|mountbaker|MASTERTECH GOOGLE TV|
 |MASTERTECH|R3|R3|R3|
 |MASTERTECH|R4|R4|R4|
+|MAXHUB|E3|E3|maxhub_bytello_edla|
 |MAXHUB|U30|rk3588_t|U30|
 |MAXLEGEN|M621|M621|M621|
 |MAXLEGEN|M621-EEA|M621-EEA|M621-EEA|
@@ -21068,6 +21073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|TPM4G_E108_A|TPM4G_E108_A|TPM4G_E108|
 |MIRAY|TPM4G_E9863|TPM4G_E9863|TPM4G_E9863|
 |MIRO|A1|A1|MIRO A1|
+|MIRO|MIRO C1|C1|MIRO C1|
 |MIRO|Miro A67|Miro_A67|Miro A67|
 |MIRO|Miro C67|Miro_C67|Miro C67|
 |MIRO|Miro S67|Miro_S67|Miro S67|
@@ -26012,6 +26018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Opticon|H-35|H-35|H-35|
 |Optoma|IFP3Gen3|SXXSRK|SXXSRK|
 |Optoma|IFP5Gen3|rk3588_t|UXXSRK|
+|Optoma|OPS200|rk3588_t|ACONZZ|
 |Oraimo|R401|oraimo-R401|oraimo R401|
 |Oraimo|R402|oraimo-R402|oraimo R402|
 |Oraimo|oraimo R401S|oraimo-R401|oraimo R401S|
@@ -26509,6 +26516,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PORTFOLIO|P9001|P9001|P9001|
 |POS Terminal|ACT|POS|pCloud|
 |POS Terminal|MINT|POS|pCloud|
+|POS Terminal|mPOS|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
 |POWMUS|L211-EEA|L211-EEA|L211-EEA|
@@ -29207,6 +29215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 Max Pro S Edge|S19MaxProSEdge|S19 Max Pro S Edge|
 |Reeder|S19 MaxL 128GB|S19_MaxL_128GB|S19 MaxL 128GB|
 |Reeder|S19_Max_2_128GB|S19_Max_2_128GB|S19 Max 2/128GB|
+|Reeder|S19_Max_Pro_S_108_MP_N|S19_Max_Pro_S_108_MP|S19 Max Pro S 108 MP|
 |Reeder|S19 Max Pro S Zoom|S19_Max_Pro_S_Zoom|S19 Max Pro S Zoom|
 |Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
 |Reeder|S23 Pro Max 256GB|S23_Pro_Max_256GB|S23 Pro Max 256GB|
@@ -40180,6 +40189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|VSD231|VSD231-VSA|VSD231|
 |ViewSonic|VSD241 Smart Display|VSD241|VSD241|
 |ViewSonic|VSD242|VSD242|VSD242|
+|ViewSonic|VS_EDLA_Box|rk3588_t|VS_EDLA_Box|
 |ViewSonic|ViewPad I7M|VIEWPAD|VIEWPAD I7M|
 |ViewSonic|ViewPad IR7Q|IR7Q|IR7Q|
 |ViewSonic|ViewPad_M10|mid1016_ma|ViewPad_M10|
@@ -44655,6 +44665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|AKUS PRO|AKUS_PRO|AKUS PRO|
 |Zuum|AKUS Z|Akus_Z|Akus Z|
 |Zuum|AKUS Z1|AKUS_Z1|AKUS Z1|
+|Zuum|AURA M2|AURA_M2|AURA M2|
 |Zuum|AURA PLUS JLO|AURA_PLUS_JLO|AURA PLUS JLO|
 |Zuum|AURA PRO|AURA_PRO|AURA PRO|
 |Zuum|AURA PRO JLO|AURA_PRO_JLO|AURA PRO JLO|
@@ -44919,6 +44930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |halotel|H8502|H8502|H8502|
 |hanofer|Axiom 1|Axiom_1|Axiom 1|
 |heinekingmedia|Digitale_Tafel|rk3588_t|DTA13C10HM|
+|heinekingmedia|HKM_Android_Box|rk3588_t|HKM_Android_Box|
 |hitabt|K30A|K30A|K30A|
 |hitabt|T30A_SY07PC01|T30A_SY07PC01|SY07-PC01|
 |hitabt|T30A_SY07PC01|T30A_SY07PC01|T30A|

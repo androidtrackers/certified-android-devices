@@ -61187,6 +61187,13 @@
    "model": "Rugged S1"
   }
  ],
+ "Hillpos": [
+  {
+   "device": "HT65",
+   "name": "HT65",
+   "model": "HT65"
+  }
+ ],
  "Himax": [
   {
    "device": "M21",
@@ -65865,6 +65872,11 @@
   },
   {
    "device": "CT37",
+   "name": "CT37",
+   "model": "CT37"
+  },
+  {
+   "device": "CT37T",
    "name": "CT37",
    "model": "CT37"
   },
@@ -86154,6 +86166,16 @@
    "device": "BTA500",
    "name": "BT-A500GA",
    "model": "BTA500"
+  },
+  {
+   "device": "BT-A600",
+   "name": "BT-A600",
+   "model": "BT-A600"
+  },
+  {
+   "device": "BT-A600",
+   "name": "BT-A600M",
+   "model": "BT-A600M"
   },
   {
    "device": "BTA700",
@@ -108001,6 +108023,11 @@
  ],
  "MAXHUB": [
   {
+   "device": "E3",
+   "name": "E3",
+   "model": "maxhub_bytello_edla"
+  },
+  {
    "device": "rk3588_t",
    "name": "U30",
    "model": "U30"
@@ -108478,6 +108505,11 @@
    "device": "A1",
    "name": "A1",
    "model": "MIRO A1"
+  },
+  {
+   "device": "C1",
+   "name": "MIRO C1",
+   "model": "MIRO C1"
   },
   {
    "device": "Miro_A67",
@@ -133912,6 +133944,11 @@
    "device": "rk3588_t",
    "name": "IFP5Gen3",
    "model": "UXXSRK"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "OPS200",
+   "model": "ACONZZ"
   }
  ],
  "Oraimo": [
@@ -136496,6 +136533,11 @@
   {
    "device": "POS",
    "name": "MINT",
+   "model": "pCloud"
+  },
+  {
+   "device": "POS",
+   "name": "mPOS",
    "model": "pCloud"
   }
  ],
@@ -150343,6 +150385,11 @@
    "device": "S19_Max_2_128GB",
    "name": "S19_Max_2_128GB",
    "model": "S19 Max 2/128GB"
+  },
+  {
+   "device": "S19_Max_Pro_S_108_MP",
+   "name": "S19_Max_Pro_S_108_MP_N",
+   "model": "S19 Max Pro S 108 MP"
   },
   {
    "device": "S19_Max_Pro_S_Zoom",
@@ -206524,6 +206571,11 @@
    "model": "VSD242"
   },
   {
+   "device": "rk3588_t",
+   "name": "VS_EDLA_Box",
+   "model": "VS_EDLA_Box"
+  },
+  {
    "device": "VIEWPAD",
    "name": "ViewPad I7M",
    "model": "VIEWPAD I7M"
@@ -229357,6 +229409,11 @@
    "model": "AKUS Z1"
   },
   {
+   "device": "AURA_M2",
+   "name": "AURA M2",
+   "model": "AURA M2"
+  },
+  {
    "device": "AURA_PLUS_JLO",
    "name": "AURA PLUS JLO",
    "model": "AURA PLUS JLO"
@@ -230781,6 +230838,11 @@
    "device": "rk3588_t",
    "name": "Digitale_Tafel",
    "model": "DTA13C10HM"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "HKM_Android_Box",
+   "model": "HKM_Android_Box"
   }
  ],
  "hitabt": [
