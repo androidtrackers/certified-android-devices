@@ -3095,6 +3095,21 @@
    "model": "A61L"
   },
   {
+   "device": "Acer_AQ9_EU",
+   "name": "Acer_AQ9_EU",
+   "model": "AQ9"
+  },
+  {
+   "device": "Acer_C2_EUR",
+   "name": "Acer_C2_EUR",
+   "model": "C2"
+  },
+  {
+   "device": "Acer_C3_EUR",
+   "name": "Acer_C3_EUR",
+   "model": "C3"
+  },
+  {
    "device": "Acer_One_10_T9-1212L",
    "name": "Acer_One_10_T9-1212L",
    "model": "Acer_One_10_T9-1212L"
@@ -7612,6 +7627,13 @@
    "device": "martin",
    "name": "Turkey",
    "model": "Altus Android TV"
+  }
+ ],
+ "Amdox": [
+  {
+   "device": "rk3588_t",
+   "name": "X086AF",
+   "model": "X086AF"
   }
  ],
  "Americamovil": [
@@ -13784,6 +13806,11 @@
  ],
  "Avtek": [
   {
+   "device": "rk3576_u",
+   "name": "TS 8 Lite G",
+   "model": "TS_8_Lite_G"
+  },
+  {
    "device": "MTK9679",
    "name": "TS_8_1_Mate_G",
    "model": "TS_8_1_Mate_G"
@@ -13993,6 +14020,11 @@
    "device": "AT1031U",
    "name": "AT1031U",
    "model": "AT1031U"
+  },
+  {
+   "device": "AT1101",
+   "name": "AT1101",
+   "model": "AT1101"
   },
   {
    "device": "AT701E",
@@ -32259,6 +32291,18 @@
    "model": "Calendar+"
   }
  ],
+ "Crafty": [
+  {
+   "device": "rk3588_t",
+   "name": "Crafty-IFPD",
+   "model": "ELP-4391K"
+  },
+  {
+   "device": "rk3588_t",
+   "name": "Crafty-IFPD",
+   "model": "ELT-6502K"
+  }
+ ],
  "Creato": [
   {
    "device": "mdt1005_mk_32",
@@ -35889,6 +35933,13 @@
    "device": "TPOS74G-IGF720",
    "name": "TPOS74G-IGF720",
    "model": "TPOS74G-IGF720"
+  }
+ ],
+ "Datecs": [
+  {
+   "device": "BlueCash-05",
+   "name": "BlueCash-05",
+   "model": "BlueCash-05"
   }
  ],
  "Datsun": [
@@ -54266,6 +54317,11 @@
   }
  ],
  "HANSUNGCOMPUTER": [
+  {
+   "device": "rk3588_t",
+   "name": "HSC-IFPD",
+   "model": "HSG_Series"
+  },
   {
    "device": "rk3588_t",
    "name": "HSC-IFPD",
@@ -77916,6 +77972,11 @@
   {
    "device": "QA3O_M110",
    "name": "QA3O_M110",
+   "model": "QA3O-M110"
+  },
+  {
+   "device": "QA3O_M110",
+   "name": "QA3O_M110",
    "model": "QA3O_M110"
   }
  ],
@@ -98444,6 +98505,11 @@
    "device": "MTK9679",
    "name": "HX_Series",
    "model": "Logic_LT_IRXXHX"
+  },
+  {
+   "device": "rk3576_u",
+   "name": "Online Instruments India Pvt. Ltd.",
+   "model": "Logic_LT_IRXXHX"
   }
  ],
  "LONG-LIFE": [
@@ -103759,6 +103825,16 @@
    "device": "X6C6X",
    "name": "Lenovo Tab K10",
    "model": "Lenovo TB-X6C6X"
+  },
+  {
+   "device": "TB311FU",
+   "name": "Lenovo Tab K10 Gen 2/Lenovo Tab",
+   "model": "TB311FU"
+  },
+  {
+   "device": "TB311XU",
+   "name": "Lenovo Tab K10 Gen 2/Lenovo Tab",
+   "model": "TB311XU"
   },
   {
    "device": "TB-X6E6F",
@@ -136459,6 +136535,16 @@
    "device": "duchamp",
    "name": "POCO X6 Pro 5G",
    "model": "2311DRK48I"
+  },
+  {
+   "device": "rodin",
+   "name": "POCO X7 Pro",
+   "model": "2412DPC0AG"
+  },
+  {
+   "device": "rodin",
+   "name": "POCO X7 Pro",
+   "model": "2412DPC0AI"
   }
  ],
  "POLSAT": [
@@ -150784,6 +150870,13 @@
    "model": "AIVI2 R FULL DOM"
   }
  ],
+ "Reputer": [
+  {
+   "device": "idea_Board",
+   "name": "ideaBoard",
+   "model": "idea_Board"
+  }
+ ],
  "RetroidPocket": [
   {
    "device": "4Pro",
@@ -155805,6 +155898,11 @@
    "device": "a16",
    "name": "Galaxy A16",
    "model": "SM-A165F"
+  },
+  {
+   "device": "a16",
+   "name": "Galaxy A16",
+   "model": "SM-A165M"
   },
   {
    "device": "a16",
@@ -164390,6 +164488,136 @@
    "device": "e2s",
    "name": "Galaxy S24+",
    "model": "SM-S926N"
+  },
+  {
+   "device": "SC-51F",
+   "name": "Galaxy S25",
+   "model": "SC-51F"
+  },
+  {
+   "device": "SCG31",
+   "name": "Galaxy S25",
+   "model": "SCG31"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S9310"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931B"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931N"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931Q"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931U"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931U1"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931W"
+  },
+  {
+   "device": "pa1q",
+   "name": "Galaxy S25",
+   "model": "SM-S931Z"
+  },
+  {
+   "device": "SC-52F",
+   "name": "Galaxy S25 Ultra",
+   "model": "SC-52F"
+  },
+  {
+   "device": "SCG32",
+   "name": "Galaxy S25 Ultra",
+   "model": "SCG32"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S9380"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938B"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938N"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938Q"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938U"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938U1"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938W"
+  },
+  {
+   "device": "pa3q",
+   "name": "Galaxy S25 Ultra",
+   "model": "SM-S938Z"
+  },
+  {
+   "device": "pa2q",
+   "name": "Galaxy S25+",
+   "model": "SM-S9360"
+  },
+  {
+   "device": "pa2q",
+   "name": "Galaxy S25+",
+   "model": "SM-S936B"
+  },
+  {
+   "device": "pa2q",
+   "name": "Galaxy S25+",
+   "model": "SM-S936N"
+  },
+  {
+   "device": "pa2q",
+   "name": "Galaxy S25+",
+   "model": "SM-S936U"
+  },
+  {
+   "device": "pa2q",
+   "name": "Galaxy S25+",
+   "model": "SM-S936U1"
+  },
+  {
+   "device": "pa2q",
+   "name": "Galaxy S25+",
+   "model": "SM-S936W"
   },
   {
    "device": "SC-03E",
@@ -173820,6 +174048,13 @@
    "device": "SEI700PTS",
    "name": "Sensa Box 4K",
    "model": "Sensa Box 4K"
+  }
+ ],
+ "Shiarffe": [
+  {
+   "device": "rk3588_t",
+   "name": "Smart_Board",
+   "model": "SKIEDLA65"
   }
  ],
  "Shuttle": [
@@ -210428,6 +210663,16 @@
    "model": "vivo Y28"
   },
   {
+   "device": "V2434",
+   "name": "vivo Y29",
+   "model": "V2434"
+  },
+  {
+   "device": "V2434",
+   "name": "vivo Y29",
+   "model": "V2435"
+  },
+  {
    "device": "V2420",
    "name": "vivo Y29 5G",
    "model": "V2420"
@@ -219224,6 +219469,11 @@
   }
  ],
  "ZOLON": [
+  {
+   "device": "E0113",
+   "name": "E0113",
+   "model": "E0113"
+  },
   {
    "device": "L16XX",
    "name": "L16XX",
@@ -230703,6 +230953,11 @@
   }
  ],
  "firstIT": [
+  {
+   "device": "rk3588_t",
+   "name": "FIRSTIT_IFPD",
+   "model": "FIT_Series"
+  },
   {
    "device": "FIT_G8613TCVR",
    "name": "Interactive_whiteboard",
