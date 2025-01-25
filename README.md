@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-24
+Last sync is 2025-01-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -97,6 +97,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|BUZZ 4S|BUZZ_4S|BUZZ 4S|
 |ACE France|BUZZ 5 Pro|BUZZ_5_Pro|BUZZ 5 Pro|
 |ACE France|BUZZ 5 Pro PLUS|BUZZ_5_Pro_PLUS|BUZZ 5 Pro PLUS|
+|ACE France|BUZZ 6 Pro|BUZZ_6_Pro|BUZZ 6 Pro|
 |ACE France|BUZZ_1_Lite|BUZZ_1_Lite|BUZZ 1 Lite|
 |ACE France|BUZZ_1_Plus|BUZZ_1_Plus|BUZZ 1 Plus|
 |ACE France|BUZZ_3E|BUZZ_3E|BUZZ 3|
@@ -4559,6 +4560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|SF650|SF650|SF650|
 |Bluebird|ST080|ST080|ST080|
 |Bluebird|ST103|ST103|ST103|
+|Bluebird|T30|T30|T30|
 |Bluebird|VF550|VF550|VF550|
 |Bluebird|VF550|VF550|VF550_RU|
 |Bluebird|VX500|VX500|VX500|
@@ -5856,6 +5858,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|SP662|NOVA_70SE|NOVA 70SE|
 |Condor|SP663|NOVA_70i|NOVA 70i|
 |Condor|SP664|NOVA_70|NOVA 70|
+|Condor|SP665|GT_70|GT 70|
+|Condor|SP666|MATE_70|MATE 70|
 |Condor|Smart TV|redwood|AI PONT|
 |Condor|T705|TGW710G|TGW710G|
 |Condor|TB105L|TB105L|TB105L|
@@ -14995,6 +14999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI A151|A151|A151|
 |INOI|INOI A34|INOI_A34|A340|
+|INOI|INOI A35 Adventure|INOI_A35_Adventure|A350|
 |INOI|INOI A52 Lite 32GB|A150|A150|
 |INOI|INOI A62 64GB|A161|A161|
 |INOI|INOI A62 64GB|A161_Plus|A161_Plus|
@@ -20060,7 +20065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo K8 Plus|marino_f|Lenovo K8 Plus|
 |Lenovo|Lenovo K9|K9|Lenovo L38043|
 |Lenovo|Lenovo Legion Tab|TB320FC|TB320FC|
-|Lenovo|"Lenovo Legion Tab（8.8''|3）"|TB321FU|
+|Lenovo|"Lenovo Legion Tab (8.8''|3)"|TB321FU|
 |Lenovo|Lenovo Mirage Solo|vega|VR-1541F|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Braswell Chrome OS Device|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Intel Braswell Chromebook|
@@ -34241,6 +34246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Xmobile X55|X55|X55|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
 |Sky NZ|Sky Pod|SEI700SKY|Sky Pod|
+|Sky+|Sky+|B866VH|Sky+|
 |Sky+|Sky+|KSTB3226|Sky+|
 |Sky+|Sky+|SEI800SKM|Sky+|
 |SkyLife|KSTB2019|KSTB2019|KSTB2019|
@@ -38569,6 +38575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|Venezuela|martin|Tesla Android TV|
 |Tesla|Venezuela|patrick|Tesla Android TV|
 |Tetratab|TF10EA2|TF10EA2_Medical_1|CASEBOOK_3|
+|ThinkAcademy|T100|T100|T100|
 |Thinpad|TH805|TH805|TH805|
 |Thomson|32TG6A9|ikebukuro|AI PONT|
 |Thomson|5014G_EEA|5014G|5014G|
@@ -45789,6 +45796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |sky HCN|KSTB1157|K1100UA|KSTB1157|
 |sky HCN|skyhcn Android UHD STB|IMT-H6300|IMT-H6300|
 |skywooo|DDT_002|DDT_002|DDT_002|
+|spectramobile|Spectra J1 PRO|Spectra_J1P|Spectra J1 PRO|
 |spectramobile|SpectraTab1|SpectraTab1|SpectraTab1|
 |stc myhome|myHome|SEI560STC|myHome|
 |sugar_aums|QPOINT|QPI-1|QPI-1|

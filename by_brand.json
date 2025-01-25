@@ -505,6 +505,11 @@
    "model": "BUZZ 5 Pro PLUS"
   },
   {
+   "device": "BUZZ_6_Pro",
+   "name": "BUZZ 6 Pro",
+   "model": "BUZZ 6 Pro"
+  },
+  {
    "device": "BUZZ_1_Lite",
    "name": "BUZZ_1_Lite",
    "model": "BUZZ 1 Lite"
@@ -23485,6 +23490,11 @@
    "model": "ST103"
   },
   {
+   "device": "T30",
+   "name": "T30",
+   "model": "T30"
+  },
+  {
    "device": "VF550",
    "name": "VF550",
    "model": "VF550"
@@ -30340,6 +30350,16 @@
    "device": "NOVA_70",
    "name": "SP664",
    "model": "NOVA 70"
+  },
+  {
+   "device": "GT_70",
+   "name": "SP665",
+   "model": "GT 70"
+  },
+  {
+   "device": "MATE_70",
+   "name": "SP666",
+   "model": "MATE 70"
   },
   {
    "device": "redwood",
@@ -77375,6 +77395,11 @@
    "model": "A340"
   },
   {
+   "device": "INOI_A35_Adventure",
+   "name": "INOI A35 Adventure",
+   "model": "A350"
+  },
+  {
    "device": "A150",
    "name": "INOI A52 Lite 32GB",
    "model": "A150"
@@ -103302,8 +103327,8 @@
    "model": "TB320FC"
   },
   {
-   "device": "3）\"",
-   "name": "\"Lenovo Legion Tab（8.8''",
+   "device": "3)\"",
+   "name": "\"Lenovo Legion Tab (8.8''",
    "model": "TB321FU"
   },
   {
@@ -175931,6 +175956,11 @@
  ],
  "Sky+": [
   {
+   "device": "B866VH",
+   "name": "Sky+",
+   "model": "Sky+"
+  },
+  {
    "device": "KSTB3226",
    "name": "Sky+",
    "model": "Sky+"
@@ -198091,6 +198121,13 @@
    "device": "TF10EA2_Medical_1",
    "name": "TF10EA2",
    "model": "CASEBOOK_3"
+  }
+ ],
+ "ThinkAcademy": [
+  {
+   "device": "T100",
+   "name": "T100",
+   "model": "T100"
   }
  ],
  "Thinpad": [
@@ -235348,6 +235385,11 @@
   }
  ],
  "spectramobile": [
+  {
+   "device": "Spectra_J1P",
+   "name": "Spectra J1 PRO",
+   "model": "Spectra J1 PRO"
+  },
   {
    "device": "SpectraTab1",
    "name": "SpectraTab1",
