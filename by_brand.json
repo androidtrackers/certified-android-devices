@@ -108553,6 +108553,13 @@
    "model": "METHOD_XI_8600"
   }
  ],
+ "METZ": [
+  {
+   "device": "86SG1",
+   "name": "86SG1",
+   "model": "86SG1"
+  }
+ ],
  "MG Series": [
   {
    "device": "TR10CS2_3",
@@ -228400,6 +228407,11 @@
    "device": "P720F11",
    "name": "nubia Focus 2 5G",
    "model": "Z2462N"
+  },
+  {
+   "device": "P720F12",
+   "name": "nubia Focus 2 Ultra 5G",
+   "model": "Z2463N"
   },
   {
    "device": "P720F09",

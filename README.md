@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-27
+Last sync is 2025-01-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21085,6 +21085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEO(Portugal)|MEOBox 4K VSB|VSB3918-MEO|MEOBox 4K (VSB3918)|
 |MEO(Portugal)|MEOBox 4K v2|DIW377-MEO|MEO TV Box 4K (DIW377)|
 |METHOD_XI|KW_IWB|KW_RK3588|METHOD_XI_8600|
+|METZ|86SG1|86SG1|86SG1|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
 |MG series|Any 302|TR10CS2_2|TR10CS2|
@@ -44472,6 +44473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
 |ZTE|nubia Focus 2 5G|P720F11|Z2462N|
+|ZTE|nubia Focus 2 Ultra 5G|P720F12|Z2463N|
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
 |ZTE|nubia Focus 5G|P720F09|Z2357N|
 |ZTE|nubia Music|P963F11|Z2353|
