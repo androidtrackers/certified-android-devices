@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-30
+Last sync is 2025-01-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4658,6 +4658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brightside|KS_T01|KS_T01|KS_T01|
 |Brightstar|C8|C8|C8|
 |Brightstar|M8046IU|M8047IU|M8047IU|
+|Briotouch|ULTRA-PLUS-BR|ULTRA-PLUS-BR|ULTRA-PLUS-BR|
 |Brisanet|brisaboxTV|IMTM4000RA|IMTM4000RA|
 |Britania|Britania Smart TV|sunnyvale|Britania Smart TV|
 |Britania|Britania Smart plus TV|SW6H|Britania Smart plus TV|
