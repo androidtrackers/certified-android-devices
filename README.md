@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-01-31
+Last sync is 2025-02-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4709,6 +4709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bush|Spira B2 7 tablet|ac70ox|Bush Spira B2 7 tablet|
 |Bush|Spira D4 5.5|ac55bco|BUSH SPIRA D4 5.5|
 |Bush|Spira E2X 5''|ac50dis|"Bush Spira E2X 5"" Smartphone"|
+|Bytello|general_broad_3588|oversea_v|bytello_edla|
 |C&M|SH950C-CM|stb_catv_cnmuhd|SH950C-CM|
 |C&M|Smart TV II|stb_catv_cnm|SX930C-CC|
 |C5 Mobile|NOATAB|NOATAB|NOATAB|
