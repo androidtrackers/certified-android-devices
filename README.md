@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-01
+Last sync is 2025-02-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23230,6 +23230,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto edge X30|hiphic|XT2201-2|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
+|Motorola|moto g - 2025|kansas|moto g - 2025|
+|Motorola|moto g - 2025|kansas|moto g play - 2024|
 |Motorola|moto g 5G|kiev|moto g 5G|
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G (2022)|austin|moto g 5G (2022)|
