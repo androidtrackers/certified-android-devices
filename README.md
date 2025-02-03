@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-02
+Last sync is 2025-02-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4569,6 +4569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|SF650|SF650|SF650|
 |Bluebird|ST080|ST080|ST080|
 |Bluebird|ST103|ST103|ST103|
+|Bluebird|T10|T10|T10|
 |Bluebird|T30|T30|T30|
 |Bluebird|VF550|VF550|VF550|
 |Bluebird|VF550|VF550|VF550_RU|

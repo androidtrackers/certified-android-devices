@@ -23537,6 +23537,11 @@
    "model": "ST103"
   },
   {
+   "device": "T10",
+   "name": "T10",
+   "model": "T10"
+  },
+  {
    "device": "T30",
    "name": "T30",
    "model": "T30"
