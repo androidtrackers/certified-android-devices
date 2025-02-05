@@ -144587,6 +144587,11 @@
    "model": "PSTA111"
   },
   {
+   "device": "HP10A34L",
+   "name": "PSTA112",
+   "model": "PSTA112"
+  },
+  {
    "device": "HE10A3L",
    "name": "Virtuoso PSTA101",
    "model": "PSTA101"
@@ -150827,6 +150832,13 @@
    "device": "P12S",
    "name": "reeder P12S",
    "model": "P12S"
+  }
+ ],
+ "Reekoo": [
+  {
+   "device": "AllCall_60",
+   "name": "AllCall_60",
+   "model": "AllCall_60"
   }
  ],
  "Reeva": [
@@ -205069,6 +205081,13 @@
    "model": "Vectra 4K Box"
   }
  ],
+ "Vectron_Systems_AG": [
+  {
+   "device": "Vectron_K8",
+   "name": "Vectron_K8",
+   "model": "Vectron_K8"
+  }
+ ],
  "Vega": [
   {
    "device": "D2140-Cosmos",
@@ -228473,6 +228492,11 @@
    "model": "Z2461"
   },
   {
+   "device": "P780F01",
+   "name": "nubia Neo 3 5G",
+   "model": "Z2464N"
+  },
+  {
    "device": "P720F03_A",
    "name": "nubia Neo 5G",
    "model": "nubia 8150N"
@@ -232163,6 +232187,11 @@
    "device": "K8",
    "name": "K8",
    "model": "K8"
+  },
+  {
+   "device": "K8Pro",
+   "name": "K8Pro",
+   "model": "K8Pro"
   },
   {
    "device": "iData_T1_UHF",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-04
+Last sync is 2025-02-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28091,6 +28091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO_RU|
 |Prestigio_Solutions|PSTA111|HP80A33L|PSTA111|
+|Prestigio_Solutions|PSTA112|HP10A34L|PSTA112|
 |Prestigio_Solutions|Virtuoso PSTA101|HE10A3L|PSTA101|
 |Prestigio_Solutions|Vitruoso|BO11A1W|PSTA107|
 |Prime|O9|PRIME_O9|O9|
@@ -29299,6 +29300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|reeder M8 Plus|reeder_M8_Plus|reeder_M8 Plus|
 |Reeder|reeder P12|P12|P12|
 |Reeder|reeder P12S|P12S|P12S|
+|Reekoo|AllCall_60|AllCall_60|AllCall_60|
 |Reeva|Reeva_Plus|Reeva_Plus|Reeva_Plus|
 |Rego|Chocolate|chocolate|Rego|
 |Reliance|FL7008|FL7008|FL7008|
@@ -39893,6 +39895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vaxcare|VAX114|VAX114|VAX114|
 |Vaxcare|VaxHub2|VaxHub2|VaxHub2|
 |Vectra|Vectra 4K Box|DV8519-Vectra|Vectra 4K Box|
+|Vectron_Systems_AG|Vectron_K8|Vectron_K8|Vectron_K8|
 |Vega|D2120|D2140-Cosmos|D2120|
 |Vega|Europe|marina|VEGA Smart TV|
 |Vega|European and African countries|guandu|VEGA 4K Android TV|
@@ -44485,6 +44488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Music 2|P606F18|Z2460|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 3|P720F10|Z2461|
+|ZTE|nubia Neo 3 5G|P780F01|Z2464N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
@@ -45183,6 +45187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iCraig|CMP_773|ICRAIG_CMP_773|ICRAIG_CMP773|
 |iData|K3S|K3S|K3S|
 |iData|K8|K8|K8|
+|iData|K8Pro|K8Pro|K8Pro|
 |iData|T1UHF|iData_T1_UHF|iData T1 UHF|
 |iData|iData 50|iData_50_EEA|iData 50|
 |iData|iData K1|iData_K1_EEA|iData K1|
