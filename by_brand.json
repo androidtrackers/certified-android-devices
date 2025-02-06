@@ -1179,6 +1179,11 @@
    "device": "thor",
    "name": "Style Folder",
    "model": "AT-M120"
+  },
+  {
+   "device": "thor2",
+   "name": "Style Folder 2",
+   "model": "AT-M140"
   }
  ],
  "AMGx13e": [
@@ -1388,6 +1393,11 @@
   }
  ],
  "AORO": [
+  {
+   "device": "AORO_A25",
+   "name": "AORO_A25",
+   "model": "AORO_A25"
+  },
   {
    "device": "M8",
    "name": "M8",
@@ -1623,9 +1633,19 @@
  ],
  "ASTECH": [
   {
+   "device": "Astech_S7",
+   "name": "Astech S7",
+   "model": "Astech S7"
+  },
+  {
    "device": "Astech_IRIS",
    "name": "Astech_IRIS",
    "model": "Astech IRIS"
+  },
+  {
+   "device": "Astech_S8",
+   "name": "Astech_S8",
+   "model": "Astech S8"
   },
   {
    "device": "Astech_S9",
@@ -18356,6 +18376,11 @@
    "device": "YUL",
    "name": "QS02",
    "model": "QS02"
+  },
+  {
+   "device": "RE04A_series",
+   "name": "RE04A",
+   "model": "RE04A_series"
   },
   {
    "device": "RE04N1_series",
@@ -86468,6 +86493,11 @@
    "model": "Hello 10 Pro 4G"
   },
   {
+   "device": "Mate20_Pro_4G",
+   "name": "Mate_20_Pro_4G",
+   "model": "Mate 20 Pro 4G"
+  },
+  {
    "device": "R10A",
    "name": "R10",
    "model": "R10"
@@ -124778,6 +124808,13 @@
    "device": "NV10",
    "name": "NV10",
    "model": "NV10"
+  }
+ ],
+ "NOWADA": [
+  {
+   "device": "G5",
+   "name": "NWD_G5",
+   "model": "NWD_G5"
   }
  ],
  "NOWO": [
@@ -182490,6 +182527,11 @@
  ],
  "Sunmi": [
   {
+   "device": "FLEX3",
+   "name": "FLEX 3",
+   "model": "FLEX 3"
+  },
+  {
    "device": "D3MINI",
    "name": "D3 MINI",
    "model": "D3 MINI"
@@ -184312,11 +184354,6 @@
    "model": "9183W"
   },
   {
-   "device": "ScarabLite_TMO",
-   "name": "TBD",
-   "model": "T434W"
-  },
-  {
    "device": "Scarab_Pro_TF",
    "name": "TCL",
    "model": "T510D"
@@ -184880,6 +184917,11 @@
    "device": "Bora_TMO",
    "name": "TCL ION X",
    "model": "T430W"
+  },
+  {
+   "device": "ScarabLite_TMO",
+   "name": "TCL K23",
+   "model": "T434W"
   },
   {
    "device": "Faraday",
@@ -204124,6 +204166,11 @@
    "device": "GQ5008AF3_VID",
    "name": "GQ5008 AF3",
    "model": "GQ5008AF3"
+  },
+  {
+   "device": "GQ5015",
+   "name": "GQ5015",
+   "model": "GQ5015"
   }
  ],
  "VIKUSHA": [

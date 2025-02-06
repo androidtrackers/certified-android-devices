@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-05
+Last sync is 2025-02-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -223,6 +223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALT.mive|Kids Phone|odin|AT-M130|
 |ALT.mive|Kids Phone 2|odin2|AT-M150|
 |ALT.mive|Style Folder|thor|AT-M120|
+|ALT.mive|Style Folder 2|thor2|AT-M140|
 |AMGx13e|ASPE2201|ASPE2201|ASPE2201|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
@@ -259,6 +260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
 |AOC|Q10107LW-ME|Q10107LW-ME|Q10107LW-ME|
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
+|AORO|AORO_A25|AORO_A25|AORO_A25|
 |AORO|M8|M8|M8|
 |AOSKEY|F11|F11|F11|
 |AOSKEY|P21|P21|P21|
@@ -299,7 +301,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASHER|Smart TV|redwood|AI PONT|
 |ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
+|ASTECH|Astech S7|Astech_S7|Astech S7|
 |ASTECH|Astech_IRIS|Astech_IRIS|Astech IRIS|
+|ASTECH|Astech_S8|Astech_S8|Astech S8|
 |ASTECH|Astech_S9|Astech_S9|Astech S9|
 |ASTECH|R3|R3|R3|
 |ASTECH|R4|R4|R4|
@@ -3548,6 +3552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Q Stick|S905Y2|QS01|
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
+|BenQ|RE04A|RE04A_series|RE04A_series|
 |BenQ|RE04N1_series|RE04N1_series|RE04N1_series|
 |BenQ|RE04N_series|RE04N_series|RE04N_series|
 |BenQ|RE04_series|RE04_series|RE04_series|
@@ -16754,6 +16759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KGTEL|A56|A56|A56|
 |KGTEL|Better10|Better10|Better10|
 |KGTEL|Hello 10 Pro 4G|Hello_10_Pro_4G|Hello 10 Pro 4G|
+|KGTEL|Mate_20_Pro_4G|Mate20_Pro_4G|Mate 20 Pro 4G|
 |KGTEL|R10|R10A|R10|
 |KGTEL|X5|X5A|X5|
 |KGTEL|X55E|X55E|X55E|
@@ -24240,6 +24246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOGA|NOGAPAD7G|NOGAPAD7G|NOGAPAD7G|
 |NOVATAB|T10|NOVAT-10|NOVAT-10|
 |NOVOJOY|NV10|NV10|NV10|
+|NOWADA|NWD_G5|G5|NWD_G5|
 |NOWO|DV 8535 4K|DV8535-KPN|DV 8535 4K|
 |NOWO|DV 8935 X4|DV8935-KPN|DV 8935 X4|
 |NSDEVIL|ET1095A|ET1095A|ET1095A|
@@ -35516,6 +35523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunelan|Mountain M8|Mountain_M8|Mountain M8|
 |Sunelan|River X1|River_X1|River X1|
 |Sunelan|River X3|River_X3|River X3|
+|Sunmi|FLEX 3|FLEX3|FLEX 3|
 |Sunmi|D3 MINI|D3MINI|D3 MINI|
 |Sunmi|D3 PRO|D3_PRO|D3 PRO|
 |Sunmi|K2|K2|K2_A13|
@@ -35866,7 +35874,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TAB 10s New|Odin2|9081X|
 |TCL|TBD|Apollo84GBoostR|9132S|
 |TCL|TBD|Odin_5G_TMO|9183W|
-|TCL|TBD|ScarabLite_TMO|T434W|
 |TCL|TCL|Scarab_Pro_TF|T510D|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
@@ -35980,6 +35987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL ION V|Bora_NA_OM|T430M|
 |TCL|TCL ION X|Bora_NA_OM|T430WS|
 |TCL|TCL ION X|Bora_TMO|T430W|
+|TCL|TCL K23|ScarabLite_TMO|T434W|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187U|
@@ -39716,6 +39724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VID(CN)|GQ3117SH2|GQ3117SH2_VID|GQ3117SH2|
 |VID(CN)|GQ3121AF1|GQ3121AF1_VID|GQ3121AF1|
 |VID(CN)|GQ5008 AF3|GQ5008AF3_VID|GQ5008AF3|
+|VID(CN)|GQ5015|GQ5015|GQ5015|
 |VIKUSHA|V-E5|V-E5|V-E5|
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
