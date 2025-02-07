@@ -11724,6 +11724,11 @@
    "model": "ASUSAI2501B"
   },
   {
+   "device": "ASUS_AI2401",
+   "name": "ROG Phone 9 FE",
+   "model": "ASUS_AI2401_N"
+  },
+  {
    "device": "ASUSAI2501",
    "name": "ROG Phone 9 Pro",
    "model": "ASUSAI2501A"
@@ -13032,6 +13037,11 @@
    "device": "ASUS_AI2401",
    "name": "Zenfone 11 Ultra",
    "model": "ASUS_AI2401_H"
+  },
+  {
+   "device": "ASUSAI2501",
+   "name": "Zenfone 12 Ultra",
+   "model": "ASUSAI2501H"
   },
   {
    "device": "ASUS_I006D",
@@ -150834,6 +150844,11 @@
    "device": "S71",
    "name": "S71",
    "model": "S71"
+  },
+  {
+   "device": "S919",
+   "name": "S919",
+   "model": "S919"
   },
   {
    "device": "reeder_T8",

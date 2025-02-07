@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-06
+Last sync is 2025-02-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2258,6 +2258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 8 series|ASUS_AI2401|ASUS_AI2401_D|
 |Asus|ROG Phone 9|ASUSAI2501|ASUSAI2501A|
 |Asus|ROG Phone 9|ASUSAI2501|ASUSAI2501B|
+|Asus|ROG Phone 9 FE|ASUS_AI2401|ASUS_AI2401_N|
 |Asus|ROG Phone 9 Pro|ASUSAI2501|ASUSAI2501A|
 |Asus|ROG Phone 9 Pro|ASUSAI2501|ASUSAI2501C|
 |Asus|ROG Phone II|ASUS_I001_1|ASUS_I001D|
@@ -2520,6 +2521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|Zenbo Qrobot|ASUS_ZENBO|Zenbo|
 |Asus|Zenfone 10|ASUS_AI2302|ASUS_AI2302|
 |Asus|Zenfone 11 Ultra|ASUS_AI2401|ASUS_AI2401_H|
+|Asus|Zenfone 12 Ultra|ASUSAI2501|ASUSAI2501H|
 |Asus|Zenfone 8|ASUS_I006D|ASUS_I006D|
 |Asus|Zenfone 8|ASUS_I006D|ZS590KS|
 |Asus|Zenfone 8 / ASUS 8z|ASUS_I006D|ASUS_I006D|
@@ -29300,6 +29302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S23 Pro Max 256GB|S23_Pro_Max_256GB|S23 Pro Max 256GB|
 |Reeder|S53|S53|S53|
 |Reeder|S71|S71|S71|
+|Reeder|S919|S919|S919|
 |Reeder|T8|reeder_T8|reeder_T8|
 |Reeder|Turkcell_T_Tablet|Turkcell_T_Tablet|Turkcell_T_Tablet|
 |Reeder|reeder M10 Plus|reeder_M10_Plus|reeder_M10 Plus|
