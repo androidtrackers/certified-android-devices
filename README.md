@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-07
+Last sync is 2025-02-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2085,6 +2085,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ascom|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi|
 |Ascom|Ascom Myco 4|SH4-1|Myco 4 Cellular Wi-Fi|
 |Ascom|Ascom Myco 4|SH4-1|Myco 4 Cellular Wi-Fi EEA|
+|Ascom|Ascom Myco 4|SH4-1|Myco 4 Slim Cellular Wi-Fi|
+|Ascom|Ascom Myco 4|SH4-1|Myco 4 Slim Cellular Wi-Fi EEA|
+|Ascom|Ascom Myco 4|SH4-2|Myco 4 DECT Wi-Fi|
+|Ascom|Ascom Myco 4|SH4-2|Myco 4 DECT Wi-Fi EEA|
 |Ascom|Ascom Myco 4|SH4-2|Myco 4 Slim|
 |Ascom|Ascom Myco 4|SH4-2|Myco 4 Slim EEA|
 |Ascom|Ascom Myco 4|SH4-2|Myco 4 Wi-Fi|
@@ -23260,6 +23264,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g power (2021)|borneo|moto g power (2021)|
 |Motorola|moto g power (2022)|tonga|moto g power (2022)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
+|Motorola|moto g power - 2025|vegas|moto g power - 2025|
+|Motorola|moto g power - 2025|vegas|moto g power 5G - 2024|
 |Motorola|moto g power 5G - 2023|devonn|moto g power 5G - 2023|
 |Motorola|moto g power 5G - 2023|devonn|moto g(50) 5G|
 |Motorola|moto g power 5G - 2024|cancunn|moto g power 5G - 2023|
@@ -30922,6 +30928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F14|a05s|SM-E145F|
 |Samsung|Galaxy F14 5G|m14x|SM-E146B|
 |Samsung|Galaxy F15 5G|m15x|SM-E156B|
+|Samsung|Galaxy F16 5G|m16xm|SM-E166P|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F34 5G|m34x|SM-E346B|
@@ -41088,6 +41095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y29|V2434|V2434|
 |Vivo|vivo Y29|V2434|V2435|
 |Vivo|vivo Y29 5G|V2420|V2420|
+|Vivo|vivo Y300|PD2435|V2435A|
 |Vivo|vivo Y36c|PD2357|V2357A|
 |Vivo|vivo Y37|PD2357|V2357A|
 |Vivo|vivo Y37m|PD2357|V2357EA|
@@ -45619,6 +45627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3871|RE6063L1|RMX3871|
 |realme|RMX3933|RE6054|RMX3933|
 |realme|RMX3939|RE6054|RMX3939|
+|realme|RMX3940|RE606B|RMX3940|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|Smart TV|mateo|2K PA Smart TV|
@@ -45664,7 +45673,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 14 Pro 5G|RE6081L1|RMX5056|
-|realme|realme 14x 5G|RE606B|RMX3940|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|

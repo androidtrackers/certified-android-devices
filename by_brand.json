@@ -10833,6 +10833,26 @@
    "model": "Myco 4 Cellular Wi-Fi EEA"
   },
   {
+   "device": "SH4-1",
+   "name": "Ascom Myco 4",
+   "model": "Myco 4 Slim Cellular Wi-Fi"
+  },
+  {
+   "device": "SH4-1",
+   "name": "Ascom Myco 4",
+   "model": "Myco 4 Slim Cellular Wi-Fi EEA"
+  },
+  {
+   "device": "SH4-2",
+   "name": "Ascom Myco 4",
+   "model": "Myco 4 DECT Wi-Fi"
+  },
+  {
+   "device": "SH4-2",
+   "name": "Ascom Myco 4",
+   "model": "Myco 4 DECT Wi-Fi EEA"
+  },
+  {
    "device": "SH4-2",
    "name": "Ascom Myco 4",
    "model": "Myco 4 Slim"
@@ -119754,6 +119774,16 @@
    "model": "moto g power (XT2041DL)"
   },
   {
+   "device": "vegas",
+   "name": "moto g power - 2025",
+   "model": "moto g power - 2025"
+  },
+  {
+   "device": "vegas",
+   "name": "moto g power - 2025",
+   "model": "moto g power 5G - 2024"
+  },
+  {
    "device": "devonn",
    "name": "moto g power 5G - 2023",
    "model": "moto g power 5G - 2023"
@@ -159228,6 +159258,11 @@
    "device": "m15x",
    "name": "Galaxy F15 5G",
    "model": "SM-E156B"
+  },
+  {
+   "device": "m16xm",
+   "name": "Galaxy F16 5G",
+   "model": "SM-E166P"
   },
   {
    "device": "f22",
@@ -211132,6 +211167,11 @@
    "model": "V2420"
   },
   {
+   "device": "PD2435",
+   "name": "vivo Y300",
+   "model": "V2435A"
+  },
+  {
    "device": "PD2357",
    "name": "vivo Y36c",
    "model": "V2357A"
@@ -234499,6 +234539,11 @@
    "model": "RMX3939"
   },
   {
+   "device": "RE606B",
+   "name": "RMX3940",
+   "model": "RMX3940"
+  },
+  {
    "device": "RE5C9AL1",
    "name": "RMX3997",
    "model": "RMX3997"
@@ -234722,11 +234767,6 @@
    "device": "RE6081L1",
    "name": "realme 14 Pro 5G",
    "model": "RMX5056"
-  },
-  {
-   "device": "RE606B",
-   "name": "realme 14x 5G",
-   "model": "RMX3940"
   },
   {
    "device": "SW6H",
