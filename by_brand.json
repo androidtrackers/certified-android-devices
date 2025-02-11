@@ -88000,6 +88000,16 @@
    "model": "Black G3"
   },
   {
+   "device": "Black_3",
+   "name": "Black_3C",
+   "model": "Black 3"
+  },
+  {
+   "device": "Black_3",
+   "name": "Black_3CR",
+   "model": "Black 3"
+  },
+  {
    "device": "Black_5",
    "name": "Black_5",
    "model": "Black_5"
@@ -135603,6 +135613,11 @@
    "device": "WP2",
    "name": "WP2",
    "model": "WP2"
+  },
+  {
+   "device": "WP200_Pro",
+   "name": "WP200_Pro_EEA",
+   "model": "WP200 Pro"
   },
   {
    "device": "WP20",
@@ -211429,6 +211444,16 @@
    "device": "V0Core",
    "name": "V0Core",
    "model": "VOCAL V0Core"
+  },
+  {
+   "device": "V1_Core",
+   "name": "Vocal V1 Core",
+   "model": "Vocal V1 Core"
+  },
+  {
+   "device": "V2_Pro",
+   "name": "Vocal V2 Pro",
+   "model": "Vocal V2 Pro"
   },
   {
    "device": "v0",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-10
+Last sync is 2025-02-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17048,6 +17048,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black 1|Black_1|Black 1|
 |Kalley|Black G|Black_G|Black G|
 |Kalley|Black G3|Black_G3|Black G3|
+|Kalley|Black_3C|Black_3|Black 3|
+|Kalley|Black_3CR|Black_3|Black 3|
 |Kalley|Black_5|Black_5|Black_5|
 |Kalley|Black_5C|Black_5|Black_5|
 |Kalley|Black_E|Black_E|Black_E|
@@ -26341,6 +26343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP18_Pro_EEA|WP18_Pro_EEA|WP18 Pro|
 |Oukitel|WP19_EEA|WP19|WP19|
 |Oukitel|WP2|WP2|WP2|
+|Oukitel|WP200_Pro_EEA|WP200_Pro|WP200 Pro|
 |Oukitel|WP20_EEA|WP20|WP20|
 |Oukitel|WP20_Pro|WP20_Pro|WP20 Pro|
 |Oukitel|WP20_Pro_EEA|WP20_Pro|WP20 Pro|
@@ -41145,6 +41148,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vmobile|A15|A15|A15|
 |Vocal|V01|V01|VOCAL V01|
 |Vocal|V0Core|V0Core|VOCAL V0Core|
+|Vocal|Vocal V1 Core|V1_Core|Vocal V1 Core|
+|Vocal|Vocal V2 Pro|V2_Pro|Vocal V2 Pro|
 |Vocal|v0|v0|VOCAL V0|
 |Vocal|v1|v1|VOCAL V1|
 |Vodafone|785|Vodafone_785|Vodafone 785|
