@@ -24534,6 +24534,13 @@
    "model": "LT5"
   }
  ],
+ "CALUS": [
+  {
+   "device": "Note_16_Pro",
+   "name": "Note 16 Pro",
+   "model": "Note_16_Pro"
+  }
+ ],
  "CANAL-PLUS": [
   {
    "device": "HY40A2",
@@ -60732,6 +60739,11 @@
    "model": "Hammer_Construction_2_Thermal_5G"
   },
   {
+   "device": "HS2512",
+   "name": "Hammer_Iron_6",
+   "model": "Hammer_Iron_6"
+  },
+  {
    "device": "HS2401x",
    "name": "Hammer_Iron_Va_EEA",
    "model": "Iron Va"
@@ -85820,6 +85832,11 @@
    "device": "Pace_2_Lite",
    "name": "Pace 2 Lite",
    "model": "Pace 2 Lite"
+  },
+  {
+   "device": "S5",
+   "name": "S5",
+   "model": "S5"
   },
   {
    "device": "Touch2c",
@@ -139609,6 +139626,11 @@
    "device": "QM16XE_U",
    "name": "4K Ultra Slim LED TV powered by Android",
    "model": "QM163E"
+  },
+  {
+   "device": "65BDL4152E",
+   "name": "65BDL4152E",
+   "model": "BDL4152E"
   },
   {
    "device": "philipstv",
@@ -196647,6 +196669,16 @@
    "model": "TECNO Mobile CLA6"
   },
   {
+   "device": "TECNO-CM5",
+   "name": "TECNO CAMON 40",
+   "model": "TECNO CM5"
+  },
+  {
+   "device": "TECNO-CM6",
+   "name": "TECNO CAMON 40 Pro",
+   "model": "TECNO CM6"
+  },
+  {
    "device": "TECNO-KB2",
    "name": "TECNO CAMON iACE 2",
    "model": "TECNO KB2"
@@ -209820,6 +209852,16 @@
    "device": "V2344",
    "name": "Y18t",
    "model": "V2408"
+  },
+  {
+   "device": "V2419",
+   "name": "Y19s pro",
+   "model": "V2419"
+  },
+  {
+   "device": "V2419",
+   "name": "Y19s pro",
+   "model": "V2458"
   },
   {
    "device": "V2342",
@@ -228337,6 +228379,16 @@
    "device": "zx55q05_64",
    "name": "ZTE N939Sc",
    "model": "ZTE N939St"
+  },
+  {
+   "device": "Z2470C",
+   "name": "ZTE Note 13 Pro",
+   "model": "Z2470C"
+  },
+  {
+   "device": "Z2471C",
+   "name": "ZTE Note14 Pro+",
+   "model": "Z2471C"
   },
   {
    "device": "jeff",

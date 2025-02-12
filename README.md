@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-11
+Last sync is 2025-02-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4752,6 +4752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|South of America|patrick|Aipro4K|
 |CAIXUN|USA|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
+|CALUS|Note 16 Pro|Note_16_Pro|Note_16_Pro|
 |CANAL-PLUS|CANAL+ BOX|HY40A2|CANAL PLUS BOX|
 |CANAL-PLUS|CANALATV1|HY40A2|CANAL PLUS BOX|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
@@ -11702,6 +11703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hammer|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
 |Hammer|Hammer_Construction_2_5G_EEA|HS2403x|Hammer_Construction_2_5G|
 |Hammer|Hammer_Construction_2_Thermal_5G_EEA|HS2404x|Hammer_Construction_2_Thermal_5G|
+|Hammer|Hammer_Iron_6|HS2512|Hammer_Iron_6|
 |Hammer|Hammer_Iron_Va_EEA|HS2401x|Iron Va|
 |Handheld Group|ALGIZ RT10|ALGIZ_RT10|ALGIZ_RT10|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
@@ -16632,6 +16634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |K-Touch|M2s|M2s|K-Touch M2s|
 |K-Touch|Pace 2|Pace_2|Pace 2|
 |K-Touch|Pace 2 Lite|Pace_2_Lite|Pace 2 Lite|
+|K-Touch|S5|S5|S5|
 |K-Touch|Touch 2C|Touch2c|K-Touch Tou ch 2c|
 |K3I（Indonesia）|K3I|K3I|K3I|
 |KAAN|A1|KAAN_A1|KAAN_A1|
@@ -27113,6 +27116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K Razor Slim OLED TV powered by Android TV|QM16XE_UB|QM161E|
 |Philips|4K UHD Razor Slim LED TV powered by Android™|QV151E|QV151E|
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
+|Philips|65BDL4152E|65BDL4152E|BDL4152E|
 |Philips|Android 2014|philipstv|AND1E|
 |Philips|E1027|E1027|E1027|
 |Philips|FHD Ultra Slim LED TV Powered by Android|QM16XE_F|QM164E|
@@ -38291,6 +38295,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30S|TECNO-CLA5|TECNO CLA5|
 |Tecno|TECNO CAMON 30S Pro|TECNO-CLA6|TECNO CLA6|
 |Tecno|TECNO CAMON 30T|TECNO-Mobile-CLA6|TECNO Mobile CLA6|
+|Tecno|TECNO CAMON 40|TECNO-CM5|TECNO CM5|
+|Tecno|TECNO CAMON 40 Pro|TECNO-CM6|TECNO CM6|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -40826,6 +40832,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
+|Vivo|Y19s pro|V2419|V2419|
+|Vivo|Y19s pro|V2419|V2458|
 |Vivo|Y200|V2342|V2424|
 |Vivo|Y200|V2342|V2425|
 |Vivo|Y200 5G|V2307|V2307|
@@ -44457,6 +44465,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE N939Sc|zx55q05_64|ZTE Blade X9|
 |ZTE|ZTE N939Sc|zx55q05_64|ZTE N939Sc|
 |ZTE|ZTE N939Sc|zx55q05_64|ZTE N939St|
+|ZTE|ZTE Note 13 Pro|Z2470C|Z2470C|
+|ZTE|ZTE Note14 Pro+|Z2471C|Z2471C|
 |ZTE|ZTE Overture 3|jeff|Z851|
 |ZTE|ZTE PA01|P898P01|ZTE PA01|
 |ZTE|ZTE T0801|P876T01J|ZTE T0801|
