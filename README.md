@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-15
+Last sync is 2025-02-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25754,6 +25754,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find N3|OP56BBL1|CPH2499|
 |Oppo|Find N3 Flip|OP5607L1|PHT110|
 |Oppo|Find N3 Flip|OP56CFL1|CPH2519|
+|Oppo|Find N5|OP5DC1L1|PKH110|
+|Oppo|Find N5|OP5E89L1|CPH2671|
+|Oppo|Find N5 卫星通信版|OP5DC1L1|PKH120|
 |Oppo|Find X|CPH1871|CPH1871|
 |Oppo|Find X|CPH1875|CPH1875|
 |Oppo|Find X|PAFM00|PAFM00|

@@ -132648,6 +132648,21 @@
    "model": "CPH2519"
   },
   {
+   "device": "OP5DC1L1",
+   "name": "Find N5",
+   "model": "PKH110"
+  },
+  {
+   "device": "OP5E89L1",
+   "name": "Find N5",
+   "model": "CPH2671"
+  },
+  {
+   "device": "OP5DC1L1",
+   "name": "Find N5 卫星通信版",
+   "model": "PKH120"
+  },
+  {
    "device": "CPH1871",
    "name": "Find X",
    "model": "CPH1871"
