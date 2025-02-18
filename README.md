@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-17
+Last sync is 2025-02-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6126,6 +6126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|COOLPAD_C202|COOLPAD_C202|COOLPAD C202|
 |Coolpad|COOLPAD_C203|COOLPAD_C203|COOLPAD C203|
 |Coolpad|CP12|CP12|CP12|
+|Coolpad|CP12 Neo|K18|K18|
 |Coolpad|CP12P|CP12p|CP12p|
 |Coolpad|CP12p_S0|CP12p|CP12p|
 |Coolpad|CP12s|CP12s|CP12s|
@@ -10568,6 +10569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIKVISION|DS_D5C75RB_A|DS_D5C65RB_A|DS_D5C65RB_A|
+|HIKVISION|HIK_3588|HIK_3588|HIK_3588|
 |HIKVISION|HIK_9679|HIK_9679|HIK_9679|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
@@ -15527,6 +15529,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571-LTE|
 |Infinix|NOTE 40 Pro+ 5G|Infinix-X6851B|Infinix X6851B|
+|Infinix|NOTE 50|Infinix-X6858|Infinix X6858|
+|Infinix|NOTE 50 Pro|Infinix-X6855|Infinix X6855|
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
@@ -19228,6 +19232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LP (TN)|T100|T100|T100|
 |LP (TN)|VYPER PRO|Vyper_PRO|Vyper PRO|
 |LP (TN)|W55|W55|W55|
+|LSHUN|C8P4|C8P4|C8P4|
 |LT Electronics|K100|K100|K100|
 |LT Electronics|K200|K200|K200|
 |LT Electronics|K700|SPURT_K700|K700|
@@ -20267,6 +20272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K11 Plus|TB352FU|TB352FU|
 |Lenovo|Lenovo Tab K11e|TB330XUP|TB330XUP|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
+|Lenovo|Lenovo Tab K9 / Lenovo Tab One|TB305FU|TB305FU|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328FU|TB328FU|
 |Lenovo|Lenovo Tab M10 (3rd Gen)|TB328XU|TB328XU|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
@@ -25831,6 +25837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
 |Oppo|OPPO Pad 3 Pro|OP5D76L1|OPD2401|
+|Oppo|OPPO Pad 3 Pro|OP5DA8L1|OPD2402|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
@@ -25858,6 +25865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|OPPO Watch X|OWWE231|OWWE231|
+|Oppo|Oppo Pad 3 Pro|OP5DA8L1|OPD2402|
 |Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
 |Oppo|PDKT00|OP4ABB|PDKT00|
@@ -27244,6 +27252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips X596|X596|Philips X596|
 |Philips|Philips X598|Philips_X598|Philips X598|
 |Philips|Philips X818|X818_RU|Philips X818|
+|Philips|Philips-24NA-4K|eleonas|Philips-24NA-4K|
 |Philips|Philps S398|Philips_S398|Philips S398|
 |Philips|S221C3A|MMD_WW|G2SMNT|
 |Philips|S308|Philips_S308|Philips S308|
@@ -30157,6 +30166,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-22SA-FHD|umeda|SWTV-22SA-FHD|
 |SWTV|SWTV-22TGS-4K|anaheim|SWTV-22TGS-4K|
 |SWTV|SWTV-22TW-4K|anaheim|SWTV-22TW-4K|
+|SWTV|SWTV-24AE-4K|eleonas|SWTV-24AE-4K|
+|SWTV|SWTV-24AE-4K NF|eleonas|SWTV-24AE-4K NF|
+|SWTV|SWTV-24HK-4K|eleonas|SWTV-24H-4K|
+|SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24H-4K NF|
+|SWTV|SWTV-24NA-4K|eleonas|SWTV-24NA-4K|
+|SWTV|SWTV-24NA-4K NF|eleonas|SWTV-24NA-4K NF|
+|SWTV|SWTV-24SA-4K|eleonas|SWTV-24SA-4K|
+|SWTV|SWTV-24SA-4K NF|eleonas|SWTV-24SA-4K NF|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -33439,6 +33456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SecQre|ATV HD Stick|SEI100|ATV HD Stick|
 |Secureye|S-SAB220|S-SAB220|S-SAB220|
 |Secureye|SAB200_001|SAB200_001|SAB200_001|
+|Sederick|KT101|KT101|KT101|
 |Seeken|SG2|SG2|SG2|
 |Seeken|SG3|Seeken_SG3|SG3|
 |Seeken|ST-107|ST-107|ST-107|
@@ -37584,6 +37602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THOMSON_KODAK|PATH_7XPRO|LEDTV32HD|PATH_7XPRO|
 |THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
 |THTF|A21|A21|A21|
+|THTF|THT TV|SEI700THT|THT TV|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIANHOO|EOS Pro|EOS_Pro|EOS Pro|
 |TIANYU|S40|S40|S40|
@@ -40461,7 +40480,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vision|VISION GSMART 4KTV FF|SW6H|VISION GSMART 4KTV FF|
 |Vision|VISION GSMART 4KTV FF|anaheim|VISION GSMART 4KTV FF|
 |Vision|VISION SMART TV|SW4H|VISION SMART TV|
-|Vision|VT_31|VT_31|VT 31|
 |Vision|Vision V1|VISION_V1|V1|
 |Vision Technology|2K SMART TV|nagata|2K SMART TV|
 |Vision Technology|Android TV|R1|ATV R1|
@@ -40471,6 +40489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Visiontech|100011885|100011885|100011885|
 |Visiontech|4K SMART TV|marina|4K SMART TV|
 |Visiontech|PVT-8-A50-R1|PVT-8-A50-R1|PVT-8-A50-R1|
+|Visiontech|VT_31|VT_31|VT 31|
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|
 |Visiontouch|Life|VisionTouchLife|VisionTouchLife|
 |Visual Land|Elite10QH|Elite10QH|Elite10QH|
@@ -41691,6 +41710,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WALTON GSMART 4KTV|SW6H|WALTON GSMART 4KTV|
 |Walton|WALTON GSMART 4KTV FF|SW6H|WALTON GSMART 4KTV FF|
 |Walton|WALTON GSMART 4KTV FF|anaheim|WALTON GSMART 4KTV FF|
+|Walton|WALTON GSMART5.0 4KTV|eleonas|WALTON GSMART5.0 4KTV|
+|Walton|WALTON GSMART5.0 4KTV FF|eleonas|WALTON GSMART5.0 4KTV FF|
 |Walton|WAS2KA11|IAD|WAS2KA11|
 |Walton|Walpad10HProMax|Walpad10HProMax|Walpad10HProMax|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|

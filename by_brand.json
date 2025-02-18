@@ -31724,6 +31724,11 @@
    "model": "CP12"
   },
   {
+   "device": "K18",
+   "name": "CP12 Neo",
+   "model": "K18"
+  },
+  {
    "device": "CP12p",
    "name": "CP12P",
    "model": "CP12p"
@@ -54996,6 +55001,11 @@
    "device": "DS_D5C65RB_A",
    "name": "DS_D5C75RB_A",
    "model": "DS_D5C65RB_A"
+  },
+  {
+   "device": "HIK_3588",
+   "name": "HIK_3588",
+   "model": "HIK_3588"
   },
   {
    "device": "HIK_9679",
@@ -80137,6 +80147,16 @@
    "model": "Infinix X6851B"
   },
   {
+   "device": "Infinix-X6858",
+   "name": "NOTE 50",
+   "model": "Infinix X6858"
+  },
+  {
+   "device": "Infinix-X6855",
+   "name": "NOTE 50 Pro",
+   "model": "Infinix X6855"
+  },
+  {
    "device": "Infinix-X690",
    "name": "NOTE 7",
    "model": "Infinix X690"
@@ -99072,6 +99092,13 @@
    "model": "W55"
   }
  ],
+ "LSHUN": [
+  {
+   "device": "C8P4",
+   "name": "C8P4",
+   "model": "C8P4"
+  }
+ ],
  "LT Electronics": [
   {
    "device": "K100",
@@ -104349,6 +104376,11 @@
    "device": "TB-8506F",
    "name": "Lenovo Tab K8",
    "model": "Lenovo TB-8506F"
+  },
+  {
+   "device": "TB305FU",
+   "name": "Lenovo Tab K9 / Lenovo Tab One",
+   "model": "TB305FU"
   },
   {
    "device": "TB328FU",
@@ -133033,6 +133065,11 @@
    "model": "OPD2401"
   },
   {
+   "device": "OP5DA8L1",
+   "name": "OPPO Pad 3 Pro",
+   "model": "OPD2402"
+  },
+  {
    "device": "OP5225",
    "name": "OPPO Pad Air",
    "model": "OPD2102"
@@ -133166,6 +133203,11 @@
    "device": "OWWE231",
    "name": "OPPO Watch X",
    "model": "OWWE231"
+  },
+  {
+   "device": "OP5DA8L1",
+   "name": "Oppo Pad 3 Pro",
+   "model": "OPD2402"
   },
   {
    "device": "OP4AB5",
@@ -140268,6 +140310,11 @@
    "device": "X818_RU",
    "name": "Philips X818",
    "model": "Philips X818"
+  },
+  {
+   "device": "eleonas",
+   "name": "Philips-24NA-4K",
+   "model": "Philips-24NA-4K"
   },
   {
    "device": "Philips_S398",
@@ -155389,6 +155436,46 @@
    "device": "anaheim",
    "name": "SWTV-22TW-4K",
    "model": "SWTV-22TW-4K"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24AE-4K",
+   "model": "SWTV-24AE-4K"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24AE-4K NF",
+   "model": "SWTV-24AE-4K NF"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24HK-4K",
+   "model": "SWTV-24H-4K"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24HK-4K NF",
+   "model": "SWTV-24H-4K NF"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24NA-4K",
+   "model": "SWTV-24NA-4K"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24NA-4K NF",
+   "model": "SWTV-24NA-4K NF"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24SA-4K",
+   "model": "SWTV-24SA-4K"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24SA-4K NF",
+   "model": "SWTV-24SA-4K NF"
   },
   {
    "device": "SW3_ATV",
@@ -171861,6 +171948,13 @@
    "device": "SAB200_001",
    "name": "SAB200_001",
    "model": "SAB200_001"
+  }
+ ],
+ "Sederick": [
+  {
+   "device": "KT101",
+   "name": "KT101",
+   "model": "KT101"
   }
  ],
  "Seeken": [
@@ -192970,6 +193064,11 @@
    "model": "A21"
   },
   {
+   "device": "SEI700THT",
+   "name": "THT TV",
+   "model": "THT TV"
+  },
+  {
    "device": "LTD.\"",
    "name": "\"TSINGHUA TONGFANG CO.",
    "model": "TR10CD1_3"
@@ -207989,11 +208088,6 @@
    "model": "VISION SMART TV"
   },
   {
-   "device": "VT_31",
-   "name": "VT_31",
-   "model": "VT 31"
-  },
-  {
    "device": "VISION_V1",
    "name": "Vision V1",
    "model": "V1"
@@ -208041,6 +208135,11 @@
    "device": "PVT-8-A50-R1",
    "name": "PVT-8-A50-R1",
    "model": "PVT-8-A50-R1"
+  },
+  {
+   "device": "VT_31",
+   "name": "VT_31",
+   "model": "VT 31"
   }
  ],
  "Visiontouch": [
@@ -214245,6 +214344,16 @@
    "device": "anaheim",
    "name": "WALTON GSMART 4KTV FF",
    "model": "WALTON GSMART 4KTV FF"
+  },
+  {
+   "device": "eleonas",
+   "name": "WALTON GSMART5.0 4KTV",
+   "model": "WALTON GSMART5.0 4KTV"
+  },
+  {
+   "device": "eleonas",
+   "name": "WALTON GSMART5.0 4KTV FF",
+   "model": "WALTON GSMART5.0 4KTV FF"
   },
   {
    "device": "IAD",
