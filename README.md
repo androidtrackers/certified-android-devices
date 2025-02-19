@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-18
+Last sync is 2025-02-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19694,6 +19694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Le Pan|TC802A|UY8|Le Pan TC802A|
 |LeBest|A1|A1|A1|
 |LeBest|LeBest L2|L2|L2|
+|LeBest|LeBest L22025|L22025|LeBest L22025|
 |LeBest|S1|S1|S1|
 |LeTV|Le 2|le_s2|Le X520|
 |LeTV|Le 2|le_s2_ww|Le X526|
@@ -25387,6 +25388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus Watch 2R|OPWWE234|OPWWE234|
+|OnePlus|OnePlus Watch 3|OPWWE251|OPWWE251|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -26399,7 +26401,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP18_Pro_EEA|WP18_Pro_EEA|WP18 Pro|
 |Oukitel|WP19_EEA|WP19|WP19|
 |Oukitel|WP2|WP2|WP2|
-|Oukitel|WP200_Pro_EEA|WP200_Pro|WP200 Pro|
 |Oukitel|WP20_EEA|WP20|WP20|
 |Oukitel|WP20_Pro|WP20_Pro|WP20 Pro|
 |Oukitel|WP20_Pro_EEA|WP20_Pro|WP20 Pro|
@@ -29149,6 +29150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi A3|blue|23129RN51H|
 |Redmi|Redmi A3|blue|23129RN51X|
 |Redmi|Redmi A3|blue|2312CRNCCL|
+|Redmi|Redmi A3 Pro|pond|2409BRN2CG|
 |Redmi|Redmi A3x|klein|24044RN32L|
 |Redmi|Redmi A3x|klein|24048RN6CG|
 |Redmi|Redmi A3x|klein|24048RN6CI|
@@ -30356,7 +30358,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A06 5G|a06x|SM-A066B|
 |Samsung|Galaxy A06 5G|a06x|SM-A066E|
 |Samsung|Galaxy A06 5G|a06x|SM-A066M|
-|Samsung|Galaxy A06 5G|a06x|SM-E066B|
 |Samsung|Galaxy A06 5G|a06x|SM-M066B|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
@@ -30489,6 +30490,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A24|a24|SM-A245F|
 |Samsung|Galaxy A24|a24|SM-A245M|
 |Samsung|Galaxy A24|a24|SM-A245N|
+|Samsung|Galaxy A25 5G|SC-53F|SC-53F|
+|Samsung|Galaxy A25 5G|SCG33|SCG33|
+|Samsung|Galaxy A25 5G|a25ex|SM-A253Q|
+|Samsung|Galaxy A25 5G|a25ex|SM-A253Z|
 |Samsung|Galaxy A25 5G|a25x|SM-A2560|
 |Samsung|Galaxy A25 5G|a25x|SM-A256B|
 |Samsung|Galaxy A25 5G|a25x|SM-A256E|
@@ -31024,6 +31029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F04|m04|SM-E045F|
 |Samsung|Galaxy F05|a05m|SM-E055F|
+|Samsung|Galaxy F06 5G|a06x|SM-E066B|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F13|m13|SM-E135F|
 |Samsung|Galaxy F14|a05s|SM-E145F|
@@ -31425,6 +31431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M02s|a02q|SM-M025F|
 |Samsung|Galaxy M04|m04|SM-M045F|
 |Samsung|Galaxy M05|a05m|SM-M055F|
+|Samsung|Galaxy M06 5G|a06x|SM-M066B|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
@@ -31442,6 +31449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M14|a05s|SM-M145F|
 |Samsung|Galaxy M14 5G|m14x|SM-M146B|
 |Samsung|Galaxy M15 5G|m15x|SM-M156B|
+|Samsung|Galaxy M16 5G|m16xm|SM-M166P|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -39895,6 +39903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIPER|Z11MK|Z11MK|Z11MK|
 |VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
 |VISIO|VISIO TV|shinagawa|VISIO TV|
+|VISIONTEK|VT_31|VT_31|VT 31|
 |VIVIMAGE|E8|E8|E8|
 |VIVIMAGE|VIVIMAGE_A10|VIVIMAGE_A10|VIVIMAGE_A10|
 |VIVIMAGE|VIVIMAGE_A10_EEA|VIVIMAGE_A10_EEA|VIVIMAGE_A10_EEA|
@@ -40489,7 +40498,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Visiontech|100011885|100011885|100011885|
 |Visiontech|4K SMART TV|marina|4K SMART TV|
 |Visiontech|PVT-8-A50-R1|PVT-8-A50-R1|PVT-8-A50-R1|
-|Visiontech|VT_31|VT_31|VT 31|
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|
 |Visiontouch|Life|VisionTouchLife|VisionTouchLife|
 |Visual Land|Elite10QH|Elite10QH|Elite10QH|
@@ -45807,6 +45815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 14 Pro 5G|RE6081L1|RMX5056|
+|realme|realme 14 Pro+ 5G|RE6079L1|RMX5051|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
