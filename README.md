@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-19
+Last sync is 2025-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -300,6 +300,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARTRAN|IB101F_Pro|IB101F_Pro|IB101F Pro|
 |ARTRAN|IB868H|IB868H|IB868H|
 |ARZOPA|P1|ARZOPA_P1|ARZOPA P1|
+|ARZOPA|P1|P1|P1|
+|ARZOPA|P1-EEA|P1|P1-EEA|
 |ARZOPA|P1S|P1S|P1S|
 |ASHER|Smart TV|longshan|AI PONT|
 |ASHER|Smart TV|redwood|AI PONT|
@@ -21362,6 +21364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MULTYNET|Pakistan|tamachi|MULTYNET FHD Android TV|
 |MULTYNET|Pakistan|yeongdeungpo|MULTYNET UHD Android TV|
 |MUNGYO|MUNGYO MGEB|MGEB|MGEB|
+|MYCOM|COMEK C10|COMEK_C10|COMEK C10|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
 |MachSpeed (Apollo Brands)|Trio Stealth_10 Tablet|D_10AL|Trio Stealth_10|
@@ -24930,6 +24933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|N12|S6008LA|S6008L|
 |Nuu|N13|S6514LA|S6514L|
 |Nuu|N20|S6603LA|S6603L|
+|Nuu|N21|N6504LA|N6504L|
 |Nuu|N30|S6704LA|S6704L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
@@ -34059,6 +34063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
 |Shenzhen SEI Robotics|AMLogic Ref|planck|planck|
+|Shenzhen SEI Robotics|CNTV Plus Smart Box|SEI900BUQC|CNTV Plus Smart Box|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shenzhen SEI Robotics|Sensa Box 4K|SEI700PTS|Sensa Box 4K|
 |Shiarffe|Smart_Board|rk3588_t|SKIEDLA65|
@@ -35974,6 +35979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G10|G10|Smart TV|
 |TCL|G10_4K_GB_NF|G10|Smart TV|
 |TCL|G10_4K_US|G10|Smart TV Pro|
+|TCL|G13_2K_GB|G13|Smart TV|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|Jitterbug Smart4|Sonata_BBH|T608G|

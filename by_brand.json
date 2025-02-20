@@ -1620,6 +1620,16 @@
    "model": "ARZOPA P1"
   },
   {
+   "device": "P1",
+   "name": "P1",
+   "model": "P1"
+  },
+  {
+   "device": "P1",
+   "name": "P1-EEA",
+   "model": "P1-EEA"
+  },
+  {
    "device": "P1S",
    "name": "P1S",
    "model": "P1S"
@@ -110038,6 +110048,13 @@
    "model": "MGEB"
   }
  ],
+ "MYCOM": [
+  {
+   "device": "COMEK_C10",
+   "name": "COMEK C10",
+   "model": "COMEK C10"
+  }
+ ],
  "Mach Speed": [
   {
    "device": "X_treme_Play_Tab",
@@ -128396,6 +128413,11 @@
    "device": "S6603LA",
    "name": "N20",
    "model": "S6603L"
+  },
+  {
+   "device": "N6504LA",
+   "name": "N21",
+   "model": "N6504L"
   },
   {
    "device": "S6704LA",
@@ -175007,6 +175029,11 @@
    "model": "planck"
   },
   {
+   "device": "SEI900BUQC",
+   "name": "CNTV Plus Smart Box",
+   "model": "CNTV Plus Smart Box"
+  },
+  {
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
@@ -184866,6 +184893,11 @@
    "device": "G10",
    "name": "G10_4K_US",
    "model": "Smart TV Pro"
+  },
+  {
+   "device": "G13",
+   "name": "G13_2K_GB",
+   "model": "Smart TV"
   },
   {
    "device": "U3A_PLUS_4G",
