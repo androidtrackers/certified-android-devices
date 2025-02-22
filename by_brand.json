@@ -140734,6 +140734,11 @@
  ],
  "PicassoTab": [
   {
+   "device": "A10",
+   "name": "PicassoTab_A10",
+   "model": "PicassoTab A10"
+  },
+  {
    "device": "X11",
    "name": "PicassoTab_X11",
    "model": "PicassoTab X11"
@@ -211983,6 +211988,16 @@
    "model": "vivo X9s Plus"
   },
   {
+   "device": "V2430",
+   "name": "vivo Y04",
+   "model": "V2430"
+  },
+  {
+   "device": "V2430",
+   "name": "vivo Y04",
+   "model": "V2438"
+  },
+  {
    "device": "PD2312",
    "name": "vivo Y100i长续航版",
    "model": "V2312BA"
@@ -211991,6 +212006,11 @@
    "device": "Y11",
    "name": "vivo Y11",
    "model": "vivo Y11"
+  },
+  {
+   "device": "V2430",
+   "name": "vivo Y19e",
+   "model": "V2431"
   },
   {
    "device": "V2419",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-21
+Last sync is 2025-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27334,6 +27334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phone Max|T12|T12|T12|
 |Phone Max|X1|X1|X1|
 |Phone Max|X1_Pro|X1_Pro|X1 Pro|
+|PicassoTab|PicassoTab_A10|A10|PicassoTab A10|
 |PicassoTab|PicassoTab_X11|X11|PicassoTab X11|
 |Pioneer|AV Receiver|AVH_W4400NEX|Jupiter|
 |Pioneer|Android TV|R2|ATV R2|
@@ -41253,8 +41254,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X9s|PD1616B|vivo X9s|
 |Vivo|vivo X9s Plus|PD1635|vivo PD1635|
 |Vivo|vivo X9s Plus|PD1635|vivo X9s Plus|
+|Vivo|vivo Y04|V2430|V2430|
+|Vivo|vivo Y04|V2430|V2438|
 |Vivo|vivo Y100i长续航版|PD2312|V2312BA|
 |Vivo|vivo Y11|Y11|vivo Y11|
+|Vivo|vivo Y19e|V2430|V2431|
 |Vivo|vivo Y19s|V2419|V2419|
 |Vivo|vivo Y19s|V2419|V2423|
 |Vivo|vivo Y22|V2207|V2207|
