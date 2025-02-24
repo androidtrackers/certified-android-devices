@@ -82152,6 +82152,11 @@
    "model": "BennyM"
   },
   {
+   "device": "S500",
+   "name": "IPRO S500",
+   "model": "S500"
+  },
+  {
    "device": "Jade7s",
    "name": "Jade7s",
    "model": "Jade7s"
@@ -130899,6 +130904,11 @@
    "model": "OPD2203"
   },
   {
+   "device": "OP615AL1",
+   "name": "OnePlus Pad",
+   "model": "OPD2407"
+  },
+  {
    "device": "OP5DA6L1",
    "name": "OnePlus Pad Go",
    "model": "OPD2304"
@@ -133182,6 +133192,16 @@
    "device": "OP59BBL1",
    "name": "OPPO Pad 2",
    "model": "OPD2202"
+  },
+  {
+   "device": "OP6159L1",
+   "name": "OPPO Pad 3",
+   "model": "OPD2405"
+  },
+  {
+   "device": "OP618BL1",
+   "name": "OPPO Pad 3",
+   "model": "OPD2406"
   },
   {
    "device": "OP5D76L1",
@@ -228782,6 +228802,11 @@
    "model": "ZTE Blade A35 Lite"
   },
   {
+   "device": "P963F66",
+   "name": "ZTE Blade A35s",
+   "model": "Z2466"
+  },
+  {
    "device": "Z5157",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
@@ -229570,6 +229595,11 @@
    "device": "K68",
    "name": "nubia Pad 3D II",
    "model": "NP02J"
+  },
+  {
+   "device": "K99J",
+   "name": "nubia Pad SE",
+   "model": "K99J"
   },
   {
    "device": "NX651J",

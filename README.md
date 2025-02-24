@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-23
+Last sync is 2025-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15920,6 +15920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Benny|Benny|Benny|
 |Ipro|Benny10|Benny10|Benny10|
 |Ipro|BennyM|BennyM|BennyM|
+|Ipro|IPRO S500|S500|S500|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|Jade8S|Jade8S|Jade8S|
 |Ipro|KYLIN40|KYLIN40|KYLIN40|
@@ -25407,6 +25408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2101|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2103|
 |OnePlus|OnePlus Pad|OP59BCL1|OPD2203|
+|OnePlus|OnePlus Pad|OP615AL1|OPD2407|
 |OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus Watch 2R|OPWWE234|OPWWE234|
@@ -25860,6 +25862,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
+|Oppo|OPPO Pad 3|OP6159L1|OPD2405|
+|Oppo|OPPO Pad 3|OP618BL1|OPD2406|
 |Oppo|OPPO Pad 3 Pro|OP5D76L1|OPD2401|
 |Oppo|OPPO Pad 3 Pro|OP5DA8L1|OPD2402|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
@@ -44540,6 +44544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A34|P963F94_A|ZTE Blade A34|
 |ZTE|ZTE Blade A35 Core|P963F10|ZTE Blade A35 Core|
 |ZTE|ZTE Blade A35 Lite|P963F10|ZTE Blade A35 Lite|
+|ZTE|ZTE Blade A35s|P963F66|Z2466|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -44698,6 +44703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
+|ZTE|nubia Pad SE|K99J|K99J|
 |ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia V50 Vita|P606F09|nubia 8550|
 |ZTE|nubia V60|P616F02|Z2356|
