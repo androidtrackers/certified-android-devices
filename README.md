@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-24
+Last sync is 2025-02-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12928,6 +12928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
+|Honor|HONOR Pad V9|HNROL-M1|ROL-W00|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
@@ -17152,6 +17153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kanji|KJ_YUBI|KJ_YUBI|KJ_YUBI|
 |Kanji|KJ_YU_BI|KJ_YU_BI|KJ_YU_BI|
 |KaonMedia|KM_SH368AT|KM_SH368AT|KM_SH368AT|
+|KaonMedia|KSTB4252|KSTB4252|KSTB4252|
 |KaonMedia|KSTB6077|KSTB6077|KSTB6077|
 |Kapsys|SmartVision2|r889|KAP11000|
 |Kapsys|SmartVision3|SmartVision3|SmartVision3|
@@ -21378,6 +21380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MULTYNET|Pakistan|nagata|MULTYNET 2K SMART TV|
 |MULTYNET|Pakistan|tamachi|MULTYNET FHD Android TV|
 |MULTYNET|Pakistan|yeongdeungpo|MULTYNET UHD Android TV|
+|MUNBYN|AS01|AS01|AS01|
 |MUNGYO|MUNGYO MGEB|MGEB|MGEB|
 |MYCOM|COMEK C10|COMEK_C10|COMEK C10|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
@@ -25091,6 +25094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M89T|M89T|M89T|
 |ONERugged|MP1T|MP1T|MP1T|
 |ONERugged|MP1TE|MP1TE|MP1TE|
+|ONERugged|MP2ProTE|MP2ProTE|MP2ProTE|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
 |ONERugged|MT1E|MT1E|MT1E|
@@ -27426,6 +27430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Planet Computers|Astro_Slide_5G_Transformer|Astro|Astro_Slide_5G_Transformer|
 |Planet Computers|Cosmo_Communicator|Cosmo_Communicator|Cosmo_Communicator|
 |Planet Computers|Gemini|Gemini_4G|Gemini_4G|
+|PlayPoland|PLAY BOX TV 4B|PLAY_BOX_TV_4B|PLAY BOX TV 4B|
 |PlayPoland|PLAY NOW TV BOX 2|DV8545-PLAY|PLAY NOW TV BOX 2|
 |PlayPoland|PLAY NOW TV BOX 3|DV8945-KPP|PLAY NOW TV BOX 3|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|

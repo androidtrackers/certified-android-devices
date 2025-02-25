@@ -66958,6 +66958,11 @@
    "model": "HEY2-W09"
   },
   {
+   "device": "HNROL-M1",
+   "name": "HONOR Pad V9",
+   "model": "ROL-W00"
+  },
+  {
    "device": "HNAGM3",
    "name": "HONOR Pad X8",
    "model": "AGM3-AL09HN"
@@ -88530,6 +88535,11 @@
    "device": "KM_SH368AT",
    "name": "KM_SH368AT",
    "model": "KM_SH368AT"
+  },
+  {
+   "device": "KSTB4252",
+   "name": "KSTB4252",
+   "model": "KSTB4252"
   },
   {
    "device": "KSTB6077",
@@ -110118,6 +110128,13 @@
    "model": "MULTYNET UHD Android TV"
   }
  ],
+ "MUNBYN": [
+  {
+   "device": "AS01",
+   "name": "AS01",
+   "model": "AS01"
+  }
+ ],
  "MUNGYO": [
   {
    "device": "MGEB",
@@ -129243,6 +129260,11 @@
    "model": "MP1TE"
   },
   {
+   "device": "MP2ProTE",
+   "name": "MP2ProTE",
+   "model": "MP2ProTE"
+  },
+  {
    "device": "MPC10T",
    "name": "MPC10T",
    "model": "MPC10T"
@@ -141211,6 +141233,11 @@
   }
  ],
  "PlayPoland": [
+  {
+   "device": "PLAY_BOX_TV_4B",
+   "name": "PLAY BOX TV 4B",
+   "model": "PLAY BOX TV 4B"
+  },
   {
    "device": "DV8545-PLAY",
    "name": "PLAY NOW TV BOX 2",
