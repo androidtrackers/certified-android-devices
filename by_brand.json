@@ -2486,6 +2486,11 @@
    "model": "C-603"
   },
   {
+   "device": "Blaze_8",
+   "name": "G680",
+   "model": "G680"
+  },
+  {
    "device": "G800",
    "name": "G800",
    "model": "G800"
@@ -5125,6 +5130,13 @@
    "device": "dlt_v7312plus",
    "name": "DLT-V7312AP+",
    "model": "DLT-V7312AP+"
+  }
+ ],
+ "Advent": [
+  {
+   "device": "SB11MD1",
+   "name": "SB11MD1",
+   "model": "SB11MD1"
   }
  ],
  "Aelion": [
@@ -36126,7 +36138,7 @@
   },
   {
    "device": "mk2",
-   "name": "Memor K2",
+   "name": "Memor K25",
    "model": "Memor K2"
   },
   {
@@ -41891,6 +41903,11 @@
    "device": "CHSTB02",
    "name": "CHSTB02",
    "model": "CHSTB02"
+  },
+  {
+   "device": "KNSTB02",
+   "name": "EONSmartBox",
+   "model": "KNSTB02"
   },
   {
    "device": "DV8519",
@@ -47837,6 +47854,13 @@
    "device": "marina",
    "name": "Fobem 4K SMART TV",
    "model": "Fobem 4K SMART TV"
+  }
+ ],
+ "FollowMe": [
+  {
+   "device": "PM01",
+   "name": "PM01",
+   "model": "27PM01"
   }
  ],
  "Fone Haus": [
@@ -113059,6 +113083,11 @@
    "model": "LynkCo Phone Note"
   },
   {
+   "device": "meizu21Pro",
+   "name": "LynkCo Phone Pro",
+   "model": "LynkCo Phone Pro"
+  },
+  {
    "device": "M15",
    "name": "M15",
    "model": "M15"
@@ -129186,6 +129215,11 @@
    "model": "X600 NFC"
   },
   {
+   "device": "X7",
+   "name": "X7",
+   "model": "X7"
+  },
+  {
    "device": "X700",
    "name": "X700",
    "model": "OMIX X700"
@@ -131779,6 +131813,11 @@
    "device": "OP4B80L1",
    "name": "A5 2020",
    "model": "CPH1943"
+  },
+  {
+   "device": "OP5ED9L1",
+   "name": "A5 Pro",
+   "model": "CPH2711"
   },
   {
    "device": "OP5DF3",
@@ -177114,6 +177153,11 @@
  ],
  "Sky NZ": [
   {
+   "device": "SkyNZ3151",
+   "name": "Sky Box",
+   "model": "Sky Box"
+  },
+  {
    "device": "SEI700SKY",
    "name": "Sky Pod",
    "model": "Sky Pod"
@@ -198371,6 +198415,11 @@
    "device": "TECNO-Mobile-KL8",
    "name": "TECNO SPARK 30 5G",
    "model": "TECNO Mobile KL8"
+  },
+  {
+   "device": "TECNO-Mobile-KL5n",
+   "name": "TECNO SPARK 30C",
+   "model": "TECNO Mobile KL5n"
   }
  ],
  "Tecnomaster": [
@@ -212123,6 +212172,21 @@
    "device": "PD2357",
    "name": "vivo Y37m",
    "model": "V2357EA"
+  },
+  {
+   "device": "V2436",
+   "name": "vivo Y39 5G",
+   "model": "V2436"
+  },
+  {
+   "device": "V2436",
+   "name": "vivo Y39 5G",
+   "model": "V2443"
+  },
+  {
+   "device": "V2436",
+   "name": "vivo Y39 5G",
+   "model": "V2447"
   },
   {
    "device": "1719",

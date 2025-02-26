@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-25
+Last sync is 2025-02-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -456,6 +456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AZPEN|A780B|A780B|A780B|
 |AZPEN|A920|wing-ibt|A920|
 |AZPEN|C-603|C-603|C-603|
+|AZPEN|G680|Blaze_8|G680|
 |AZPEN|G800|G800|G800|
 |AZPEN|K749|K749|K749|
 |AZPEN|K749B|K749B|K749B|
@@ -975,6 +976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advantech|DLT-V7310AP|dlt_v7310|DLT-V7310AP|
 |Advantech|DLT-V7312AP|dlt_v7312|DLT-V7312AP|
 |Advantech|DLT-V7312AP+|dlt_v7312plus|DLT-V7312AP+|
+|Advent|SB11MD1|SB11MD1|SB11MD1|
 |Aelion|i8|Aelion_i8|i8|
 |Aeon Communication (IN)|AE1020|AE1020|AE1020|
 |Aermoo|CM08|PT3_2|CM08|
@@ -6975,7 +6977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
 |Datalogic|Memor 35/35X|nebula_pda|Memor 35/35X|
 |Datalogic|Memor K|memor_k|Memor K|
-|Datalogic|Memor K2|mk2|Memor K2|
+|Datalogic|Memor K25|mk2|Memor K2|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
@@ -8079,6 +8081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
 |EONSmartBox|CHOTT0102|CHOTT0102|CHOTT0102|
 |EONSmartBox|CHSTB02|CHSTB02|CHSTB02|
+|EONSmartBox|EONSmartBox|KNSTB02|KNSTB02|
 |EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
 |EONSmartBox|SDSTB01|DV8945C-KSU|SDSTB01|
 |EPI(Columbia)|TAB-001|TAB-001|TAB-001|
@@ -9203,6 +9206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly_Tech|T101|T101|T101|
 |Fobem|2K SMART TV|nagata|Fobem 2K SMART TV|
 |Fobem|Fobem 4K SMART TV|marina|Fobem 4K SMART TV|
+|FollowMe|PM01|PM01|27PM01|
 |Fone Haus|Blaze|Blaze|Blaze|
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fone Haus|CoolminttTribe|CoolMinttTribe|CoolMinttTribe|
@@ -21945,6 +21949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|16th Plus|16thPlus|16th Plus|
 |Meizu|E3|MeizuE3|MEIZU E3|
 |Meizu|LynkCo Phone Note|Meizu21Note|LynkCo Phone Note|
+|Meizu|LynkCo Phone Pro|meizu21Pro|LynkCo Phone Pro|
 |Meizu|M15|M15|M15|
 |Meizu|M1813|M1813|M1813|
 |Meizu|M1816|M1816|M1816|
@@ -25080,6 +25085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X6|X6|X6|
 |OMIX|X600|X600|X600|
 |OMIX|X600 NFC|X600_NFC|X600 NFC|
+|OMIX|X7|X7|X7|
 |OMIX|X700|X700|OMIX X700|
 |OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
@@ -25579,6 +25585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5 2020|OP4B79L1|CPH1931|
 |Oppo|A5 2020|OP4B79L1|CPH1933|
 |Oppo|A5 2020|OP4B80L1|CPH1943|
+|Oppo|A5 Pro|OP5ED9L1|CPH2711|
 |Oppo|A5 Pro 5G|OP5DF3|PKP110|
 |Oppo|A51|A51|A51|
 |Oppo|A51|A51|Lava A51|
@@ -34470,6 +34477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|X8A|X8A|X8A|
 |Sky Devices|Xmobile X55|X55|X55|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
+|Sky NZ|Sky Box|SkyNZ3151|Sky Box|
 |Sky NZ|Sky Pod|SEI700SKY|Sky Pod|
 |Sky+|Sky+|B866VH|Sky+|
 |Sky+|Sky+|KSTB3226|Sky+|
@@ -38631,6 +38639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|TECNO Mobile SPARK 30 Pro|TECNO-Mobile-KL7|TECNO Mobile KL7|
 |Tecno Mobile|TECNO SPARK 10|TECNO-Mobile-KI5q|TECNO Mobile KI5q|
 |Tecno Mobile|TECNO SPARK 30 5G|TECNO-Mobile-KL8|TECNO Mobile KL8|
+|Tecno Mobile|TECNO SPARK 30C|TECNO-Mobile-KL5n|TECNO Mobile KL5n|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
 |Tecnomaster|TESHM8863|TESHM8863|TESHM8863|
@@ -41281,6 +41290,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y36c|PD2357|V2357A|
 |Vivo|vivo Y37|PD2357|V2357A|
 |Vivo|vivo Y37m|PD2357|V2357EA|
+|Vivo|vivo Y39 5G|V2436|V2436|
+|Vivo|vivo Y39 5G|V2436|V2443|
+|Vivo|vivo Y39 5G|V2436|V2447|
 |Vivo|vivo Y65|1719|vivo 1719|
 |Vivo|vivo Y66i A|PD1621B|vivo Y66i A|
 |Vivo|vivo Y69A|PD1705|vivo Y69A|
