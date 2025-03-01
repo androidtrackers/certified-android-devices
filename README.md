@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-02-28
+Last sync is 2025-03-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19806,6 +19806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris90|iris90|iris90|
 |Lava|LAVA AGNI 2 5G|LXX504|LAVA LXX504|
 |Lava|LAVA AGNI 5G|LXX501|LAVA LXX501|
+|Lava|LAVA BLAZE DUO|LXX515|LXX515|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA Z36|LEX403|LAVA LEX403|
 |Lava|LAVA Z66|Z66|Lava Z66|
@@ -19882,6 +19883,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Y50|AF9020|AF9020|
 |Lava|YUVA 2 PRO|LZX408|LAVA LZX408|
 |Lava|YUVA 3|LZX415|LZX415|
+|Lava|Yuva 2 5G|LXX514|LAVA LXX514|
+|Lava|Yuva 4|LZX417|LZX417|
 |Lava|Yuva 5G|LXX510|LAVA LXX510|
 |Lava|Yuva Star|LZG409|LAVA LZG409|
 |Lava|Z1|Z1|Z1|
@@ -40440,6 +40443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VID(CN)|GQ5008 AF3|GQ5008AF3_VID|GQ5008AF3|
 |VID(CN)|GQ5015|GQ5015|GQ5015|
 |VID(CN)|GQ5015RH1|GQ5015RH1_VID|GQ5015RH1|
+|VID(CN)|GQ5021AH2|GQ5021AH2_VID|GQ5021AH2|
 |VIKUSHA|V-E5|V-E5|V-E5|
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
@@ -43228,6 +43232,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14T Pro|rothko|2407FPN8EG|
 |Xiaomi|Xiaomi 15|dada|24129PN74C|
 |Xiaomi|Xiaomi 15 Pro|haotian|2410DPN6CC|
+|Xiaomi|Xiaomi 15 Ultra|xuanyuan|25010PN30C|
+|Xiaomi|Xiaomi 15 Ultra|xuanyuan|25019PNF3C|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -46482,6 +46488,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
+|realme|RMX5057|RE6081L1|RMX5057|
+|realme|RMX5070|RE608EL1|RMX5070|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|

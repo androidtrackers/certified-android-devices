@@ -102064,6 +102064,11 @@
    "model": "LAVA LXX501"
   },
   {
+   "device": "LXX515",
+   "name": "LAVA BLAZE DUO",
+   "model": "LXX515"
+  },
+  {
    "device": "LZX414",
    "name": "LAVA LZX414",
    "model": "LAVA LZX414"
@@ -102442,6 +102447,16 @@
    "device": "LZX415",
    "name": "YUVA 3",
    "model": "LZX415"
+  },
+  {
+   "device": "LXX514",
+   "name": "Yuva 2 5G",
+   "model": "LAVA LXX514"
+  },
+  {
+   "device": "LZX417",
+   "name": "Yuva 4",
+   "model": "LZX417"
   },
   {
    "device": "LXX510",
@@ -207854,6 +207869,11 @@
    "device": "GQ5015RH1_VID",
    "name": "GQ5015RH1",
    "model": "GQ5015RH1"
+  },
+  {
+   "device": "GQ5021AH2_VID",
+   "name": "GQ5021AH2",
+   "model": "GQ5021AH2"
   }
  ],
  "VIKUSHA": [
@@ -222178,6 +222198,16 @@
    "device": "haotian",
    "name": "Xiaomi 15 Pro",
    "model": "2410DPN6CC"
+  },
+  {
+   "device": "xuanyuan",
+   "name": "Xiaomi 15 Ultra",
+   "model": "25010PN30C"
+  },
+  {
+   "device": "xuanyuan",
+   "name": "Xiaomi 15 Ultra",
+   "model": "25019PNF3C"
   },
   {
    "device": "mona",
@@ -238942,6 +238972,16 @@
    "device": "RE5C94L1",
    "name": "RMX3998",
    "model": "RMX3998"
+  },
+  {
+   "device": "RE6081L1",
+   "name": "RMX5057",
+   "model": "RMX5057"
+  },
+  {
+   "device": "RE608EL1",
+   "name": "RMX5070",
+   "model": "RMX5070"
   },
   {
    "device": "mateo",
