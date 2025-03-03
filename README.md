@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-02
+Last sync is 2025-03-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4955,6 +4955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COEX|COEX 2K Smart TV|sunnyvale|COEX 2K Smart TV|
 |COEX|COEX 4K Smart TV|SW6H|COEX 4K Smart TV|
 |COEX|COEX 4K Smart TV FF|SW6H|COEX 4K Smart TV FF|
+|COLORROOM|A30_Plus|A30_Plus|A30|
 |COLORROOM|A30_Plus|A30_Plus|A30_Plus|
 |COLORROOM|A5|A5|A5|
 |COLORROOM|C1|C1|C1|
@@ -6604,6 +6605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
 |DAIKO|DAIKO UHD TV|OD0M_EA_T32|DAIKO UHD TV|
 |DAIYU|MBTWDY01|Mediabox|MBTWDY01|
+|DANDOON|A2|A2|A2|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
 |DBM Maroc|Accent Speed Y3|Speed-Y3|Speed-Y3|
@@ -21860,6 +21862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxcom|MS571|MS571|MS571|
 |Maxcom|MS571|MS571_plus|MS571|
 |Maxcom|MS572|MS572|MS572|
+|Maxcom|MS601|MS601|MS601|
 |Maxcom|MS651|MS651|MS651|
 |Maxcom|RS-401|RS_401|RS-401|
 |Maxfone|MAX 1X|MAX_1X|MAX 1X|
@@ -22122,6 +22125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|SP1AZ4_L|SP1AZ4_L|AZIMUT_4_LITE|
 |Mediacom|SP1AZ4_L|SP1AZ4_L|S700|
 |Mediacom|SP1AZ4_P|SP1AZ4_P|AZIMUT_4_PRO|
+|Mediacom|SP1AZ4_PL|SP1AZ4_PL|AZIMUT 4 PLUS|
 |Medion|E1050X|E1050X|E1050X|
 |Medion|E1051X|E1051X|E1051X|
 |Medion|E1090X|E1090X|LIFETAB E1090X|
@@ -41544,6 +41548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
+|Vivo|Y19s|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2458|
 |Vivo|Y200|V2342|V2424|
@@ -45791,6 +45796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |carp(IN)|carp 2K Android TV|lasalle|carp 2K Android TV|
 |carp(IN)|carp 4K Android TV|kenton|carp 4K Android TV|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|
+|changing|F10S|F10S|F10S|
 |chocoZAP|RZ2408|RZ2408|RZ2408|
 |cosmos|Aries_8in|Aries_8in|Aries_8in|
 |cosmos|Lynx_10in|Lynx_10in|Lynx_10in|
@@ -46308,6 +46314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC603B|TC603B_GWL|TC603B_GWL|
 |iWaylink|TC603B_P|TC603B_GWL|TC603B_GWL|
 |iYOU|A10|A10|A10|
+|iYOU|A30|A30|A30|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |i_con|V1|V1|V1|
 |ibowin|M10ES11|M10ES11|M130s|
@@ -46702,6 +46709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT7 Pro|RE6018L1|RMX5010|
 |realme|真我GT7 Pro竞速版|RE602CL1|RMX5090|
 |realme|真我Neo7|RE6022L1|RMX5060|
+|realme|真我Neo7x|RE6024L1|RMX5071|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|

@@ -25641,6 +25641,11 @@
   {
    "device": "A30_Plus",
    "name": "A30_Plus",
+   "model": "A30"
+  },
+  {
+   "device": "A30_Plus",
+   "name": "A30_Plus",
    "model": "A30_Plus"
   },
   {
@@ -34192,6 +34197,13 @@
    "device": "Mediabox",
    "name": "MBTWDY01",
    "model": "MBTWDY01"
+  }
+ ],
+ "DANDOON": [
+  {
+   "device": "A2",
+   "name": "A2",
+   "model": "A2"
   }
  ],
  "DBM Maroc": [
@@ -112634,6 +112646,11 @@
    "model": "MS572"
   },
   {
+   "device": "MS601",
+   "name": "MS601",
+   "model": "MS601"
+  },
+  {
    "device": "MS651",
    "name": "MS651",
    "model": "MS651"
@@ -113976,6 +113993,11 @@
    "device": "SP1AZ4_P",
    "name": "SP1AZ4_P",
    "model": "AZIMUT_4_PRO"
+  },
+  {
+   "device": "SP1AZ4_PL",
+   "name": "SP1AZ4_PL",
+   "model": "AZIMUT 4 PLUS"
   }
  ],
  "Medion": [
@@ -213523,6 +213545,11 @@
   },
   {
    "device": "V2419",
+   "name": "Y19s",
+   "model": "V2419"
+  },
+  {
+   "device": "V2419",
    "name": "Y19s pro",
    "model": "V2419"
   },
@@ -235241,6 +235268,13 @@
    "model": "SDA-700TAB"
   }
  ],
+ "changing": [
+  {
+   "device": "F10S",
+   "name": "F10S",
+   "model": "F10S"
+  }
+ ],
  "chocoZAP": [
   {
    "device": "RZ2408",
@@ -237982,6 +238016,11 @@
    "model": "A10"
   },
   {
+   "device": "A30",
+   "name": "A30",
+   "model": "A30"
+  },
+  {
    "device": "iYOU_M1",
    "name": "iYOU_M1",
    "model": "iYOU_M1"
@@ -240042,6 +240081,11 @@
    "device": "RE6022L1",
    "name": "真我Neo7",
    "model": "RMX5060"
+  },
+  {
+   "device": "RE6024L1",
+   "name": "真我Neo7x",
+   "model": "RMX5071"
   },
   {
    "device": "RE548B",
