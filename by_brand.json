@@ -129855,6 +129855,16 @@
    "device": "PacmanPro",
    "name": "Nothing Phone (2a) Plus",
    "model": "A142P"
+  },
+  {
+   "device": "Asteroids",
+   "name": "Nothing Phone (3a)",
+   "model": "A059"
+  },
+  {
+   "device": "Asteroids",
+   "name": "Nothing Phone (3a) Pro",
+   "model": "A059P"
   }
  ],
  "Nous": [
@@ -187653,6 +187663,16 @@
    "model": "Smart TV"
   },
   {
+   "device": "G09",
+   "name": "G09",
+   "model": "Smart TV Pro"
+  },
+  {
+   "device": "G09",
+   "name": "G09_4K_GB_NF",
+   "model": "Smart TV"
+  },
+  {
    "device": "G10",
    "name": "G10",
    "model": "Smart TV"
@@ -204748,11 +204768,6 @@
    "model": "Armor 27 Pro"
   },
   {
-   "device": "GQ5010AH1",
-   "name": "Armor 27 Pro",
-   "model": "Armor Mini 20T Pro"
-  },
-  {
    "device": "GQ5008TF1",
    "name": "Armor 27T",
    "model": "Armor 27T"
@@ -204811,6 +204826,11 @@
    "device": "GQ5010AH2",
    "name": "Armor Mini 20 Pro",
    "model": "Armor Mini 20 Pro"
+  },
+  {
+   "device": "GQ5010AH1",
+   "name": "Armor Mini 20T Pro",
+   "model": "Armor Mini 20T Pro"
   },
   {
    "device": "Armor_Pad",
@@ -239238,6 +239258,16 @@
    "model": "RMX5051"
   },
   {
+   "device": "RE6079L1",
+   "name": "realme 14 Pro+ 5G",
+   "model": "RMX5054"
+  },
+  {
+   "device": "RE6092",
+   "name": "realme 14x 5G",
+   "model": "RMX3943"
+  },
+  {
    "device": "SW6H",
    "name": "realme 4K G Smart TV",
    "model": "realme 4K G Smart TV"
@@ -239696,6 +239726,11 @@
    "device": "RE5CA3L1",
    "name": "realme P2 Pro 5G",
    "model": "RMX3987"
+  },
+  {
+   "device": "RE6079L1",
+   "name": "realme P3 Pro 5G",
+   "model": "RMX5032"
   },
   {
    "device": "RE5C6EL1",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-03
+Last sync is 2025-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25213,6 +25213,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nothing|Nothing Phone (2)|Pong|AIN065|
 |Nothing|Nothing Phone (2a)|Pacman|A142|
 |Nothing|Nothing Phone (2a) Plus|PacmanPro|A142P|
+|Nothing|Nothing Phone (3a)|Asteroids|A059|
+|Nothing|Nothing Phone (3a) Pro|Asteroids|A059P|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
@@ -36513,6 +36515,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|G08|G08|Smart TV Pro|
 |TCL|G08_4K_US_NF|G08|Smart TV|
+|TCL|G09|G09|Smart TV Pro|
+|TCL|G09_4K_GB_NF|G09|Smart TV|
 |TCL|G10|G10|Smart TV|
 |TCL|G10_4K_GB_NF|G10|Smart TV|
 |TCL|G10_4K_US|G10|Smart TV Pro|
@@ -39838,7 +39842,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 26 Ultra|Armor_26_Ultra|Armor 26 Ultra|
 |Ulefone|Armor 27|GQ5008TF2|Armor 27|
 |Ulefone|Armor 27 Pro|GQ5008AF3|Armor 27 Pro|
-|Ulefone|Armor 27 Pro|GQ5010AH1|Armor Mini 20T Pro|
 |Ulefone|Armor 27T|GQ5008TF1|Armor 27T|
 |Ulefone|Armor 27T Pro|GQ5008AF2|Armor 27T Pro|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
@@ -39851,6 +39854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 9E|Armor_9E|Armor 9E|
 |Ulefone|Armor Mini 20|GQ5010TH1|Armor Mini 20|
 |Ulefone|Armor Mini 20 Pro|GQ5010AH2|Armor Mini 20 Pro|
+|Ulefone|Armor Mini 20T Pro|GQ5010AH1|Armor Mini 20T Pro|
 |Ulefone|Armor Pad|Armor_Pad|Armor Pad|
 |Ulefone|Armor Pad 2|Armor_Pad_2|Armor Pad 2|
 |Ulefone|Armor Pad 2|Armor_Pad_2|UTAB A2|
@@ -46540,6 +46544,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 14 Pro 5G|RE6081L1|RMX5056|
 |realme|realme 14 Pro+ 5G|RE6079L1|RMX5051|
+|realme|realme 14 Pro+ 5G|RE6079L1|RMX5054|
+|realme|realme 14x 5G|RE6092|RMX3943|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
@@ -46632,6 +46638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme P1 Speed 5G|RE6066L1|RMX5004|
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
+|realme|realme P3 Pro 5G|RE6079L1|RMX5032|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad 2 Lite|RE6077L1|RMP2402|
