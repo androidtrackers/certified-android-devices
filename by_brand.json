@@ -29391,6 +29391,11 @@
    "model": "RS36"
   },
   {
+   "device": "RS36PLUS",
+   "name": "RS36PLUS",
+   "model": "RS36"
+  },
+  {
    "device": "RS38",
    "name": "RS38",
    "model": "RS38"
@@ -43247,6 +43252,11 @@
    "device": "Wave_i101u",
    "name": "Wave_i101u",
    "model": "Wave_i101u"
+  },
+  {
+   "device": "i101GMC",
+   "name": "i101GMC",
+   "model": "i101GMC"
   },
   {
    "device": "i101T2",
@@ -142925,6 +142935,11 @@
    "model": "Pixus_Blast"
   },
   {
+   "device": "Pixus_Combo",
+   "name": "Pixus_Combo",
+   "model": "Pixus Combo"
+  },
+  {
    "device": "Pixus_Deon",
    "name": "Pixus_Deon",
    "model": "Pixus_Deon"
@@ -151858,6 +151873,11 @@
    "model": "K70i_EEA"
   },
   {
+   "device": "K80_ROW",
+   "name": "K80_ROW",
+   "model": "K80_ROW"
+  },
+  {
    "device": "M30_Pro",
    "name": "M30_Pro",
    "model": "M30"
@@ -155597,6 +155617,13 @@
    "device": "SWA8E2",
    "name": "SWA8E2",
    "model": "SWA8E2"
+  }
+ ],
+ "SIMI": [
+  {
+   "device": "COOL2",
+   "name": "COOL2",
+   "model": "COOL2"
   }
  ],
  "SINAL": [
@@ -185134,6 +185161,11 @@
    "device": "HP40A1",
    "name": "SKWHP40A-ZWL",
    "model": "SKWHP40A-ZWL"
+  },
+  {
+   "device": "HP44H",
+   "name": "SKWHP44H-ZWL",
+   "model": "SKWHP44H-ZWL"
   }
  ],
  "Sts-tottori": [
@@ -207971,6 +208003,11 @@
   }
  ],
  "VILLAON": [
+  {
+   "device": "VP10001L",
+   "name": "V-Pad1",
+   "model": "VP10001L"
+  },
   {
    "device": "V20",
    "name": "V20",
@@ -239033,11 +239070,6 @@
    "model": "RMX3998"
   },
   {
-   "device": "RE6081L1",
-   "name": "RMX5057",
-   "model": "RMX5057"
-  },
-  {
    "device": "RE608EL1",
    "name": "RMX5070",
    "model": "RMX5070"
@@ -239251,6 +239283,11 @@
    "device": "RE6081L1",
    "name": "realme 14 Pro 5G",
    "model": "RMX5056"
+  },
+  {
+   "device": "RE6081L1",
+   "name": "realme 14 Pro 5G",
+   "model": "RMX5057"
   },
   {
    "device": "RE6079L1",
@@ -239591,6 +239628,11 @@
    "device": "RE607CL1",
    "name": "realme C75",
    "model": "RMX3941"
+  },
+  {
+   "device": "RE6089",
+   "name": "realme C75x",
+   "model": "RMX5020"
   },
   {
    "device": "RE58B2L1",

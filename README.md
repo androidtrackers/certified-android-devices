@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-04
+Last sync is 2025-03-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5673,6 +5673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cipherlab|RS31|RS31|RS31|
 |Cipherlab|RS35|RS35|RS35|
 |Cipherlab|RS36|RS36|RS36|
+|Cipherlab|RS36PLUS|RS36PLUS|RS36|
 |Cipherlab|RS38|RS38|RS38|
 |Cipherlab|RS51_HS|RS51_HS|RS51_HS|
 |Cipherlab|Saturn|RS50|RS50|
@@ -8337,6 +8338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EXO S.A.|Wave_i101MC|Wave_i101MC|Wave_i101MC|
 |EXO S.A.|Wave_i101T4|Wave_i101T4|Wave_i101T4|
 |EXO S.A.|Wave_i101u|Wave_i101u|Wave_i101u|
+|EXO S.A.|i101GMC|i101GMC|i101GMC|
 |EXO S.A.|i101T2|i101T2|TabletEXO_Wave_i101T2|
 |EXO S.A.|wave-i007w|wave-i007w|wave-i007w|
 |Eaglesoar|E-764-EEA|E-764-EEA|E-764-EEA|
@@ -27757,6 +27759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pixus|PixusJoker|PixusJoker|PixusJoker|
 |Pixus|Pixus_Arena|Pixus_Arena|Pixus_Arena|
 |Pixus|Pixus_Blast|Pixus_Blast|Pixus_Blast|
+|Pixus|Pixus_Combo|Pixus_Combo|Pixus Combo|
 |Pixus|Pixus_Deon|Pixus_Deon|Pixus_Deon|
 |Pixus|Pixus_Drive|Pixus_Drive|Pixus_Drive|
 |Pixus|Pixus_Falcon|Pixus_Falcon|Pixus_Falcon|
@@ -29490,6 +29493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K70_EEA|K70_EEA|K70_EEA|
 |Rebecco|K70_ROW|K70_ROW|K70_ROW|
 |Rebecco|K70i_EEA|K70i_EEA|K70i_EEA|
+|Rebecco|K80_ROW|K80_ROW|K80_ROW|
 |Rebecco|M30_Pro|M30_Pro|M30|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
@@ -30203,6 +30207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SILVER MAX|ST-810|ST_810A|ST-810|
 |SILVERWIN|SWA10E5LTE|SWA10E5LTE|SWA10E5LTE|
 |SILVERWIN|SWA8E2|SWA8E2|SWA8E2|
+|SIMI|COOL2|COOL2|COOL2|
 |SINAL|SA08_310|SA08_310|SA08_310|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
@@ -36030,6 +36035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|Strong|bangbae|Strong 4K Android TV|
 |Strong|Strong|komagome|Strong 2K Android TV|
 |Strong-ZWL|SKWHP40A-ZWL|HP40A1|SKWHP40A-ZWL|
+|Strong-ZWL|SKWHP44H-ZWL|HP44H|SKWHP44H-ZWL|
 |Sts-tottori|JR-500|JR-500|JR-500|
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
 |Sts-tottori|TAB-A03|TAB-A03|TAB-A03-SD|
@@ -40462,6 +40468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
 |VIKUSHA|VZ-30Pro|VZ-30Pro|VZ-30|
 |VIKUSHA|VZ-30Pro|VZ-30Pro|VZ-30Pro|
+|VILLAON|V-Pad1|VP10001L|VP10001L|
 |VILLAON|V20|V20|V20|
 |VILLAON|V20 SE|VILLAON_V20_SE|VILLAON V501W|
 |VILLAON|V30 RS|VILLAON-V30-RS|VILLAON V6751L|
@@ -46499,7 +46506,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
-|realme|RMX5057|RE6081L1|RMX5057|
 |realme|RMX5070|RE608EL1|RMX5070|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
@@ -46543,6 +46549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 13+ 5G|RE6066L1|RMX5000|
 |realme|realme 14 Pro 5G|RE6081L1|RMX5056|
+|realme|realme 14 Pro 5G|RE6081L1|RMX5057|
 |realme|realme 14 Pro+ 5G|RE6079L1|RMX5051|
 |realme|realme 14 Pro+ 5G|RE6079L1|RMX5054|
 |realme|realme 14x 5G|RE6092|RMX3943|
@@ -46611,6 +46618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme C75|RE607CL1|RMX3941|
+|realme|realme C75x|RE6089|RMX5020|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
