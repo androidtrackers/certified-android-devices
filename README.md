@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-07
+Last sync is 2025-03-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5704,6 +5704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
 |Claro|B866V2|B866V2_V1_0_0|B866V2|
 |Claro|CLARO BOX TV|SEI810CCOA|CLARO BOX TV|
+|Claro|Claro 4k advanced|claro_vsb3918|Claro 4k advanced|
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
 |Claro|Claro STB|SEI810CPR|Claro STB|
 |Claro|ClaroTV+ Mini|SEI700CPR|Claro TV+ Mini|
@@ -30859,7 +30860,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A06 5G|a06x|SM-A066B|
 |Samsung|Galaxy A06 5G|a06x|SM-A066E|
 |Samsung|Galaxy A06 5G|a06x|SM-A066M|
-|Samsung|Galaxy A06 5G|a06x|SM-M066B|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -31002,6 +31002,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A25 5G|a25x|SM-A256U|
 |Samsung|Galaxy A25 5G|a25x|SM-A256U1|
 |Samsung|Galaxy A25 5G|a25x|SM-S256VL|
+|Samsung|Galaxy A26 5G|a26x|SM-A266B|
+|Samsung|Galaxy A26 5G|a26x|SM-A266U|
+|Samsung|Galaxy A26 5G|a26x|SM-A266U1|
+|Samsung|Galaxy A26 5G|a26x|SM-S266V|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -46071,6 +46075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iData|iData P1|iData_P1|iData P1|
 |iData|iData P1 mini|iData_P1_mini|iData P1 mini|
 |iData|iData T1|T1|iData T1|
+|iData|iData T1 Pro|T1Pro|T1Pro|
 |iData|iData T1S|iData_T1S|iData T1S|
 |iData|iData T2|iData_T2|iData_T2|
 |iData|iData T3 Pro|T3_Pro|T3_Pro|

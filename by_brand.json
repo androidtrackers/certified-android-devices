@@ -29558,6 +29558,11 @@
    "model": "CLARO BOX TV"
   },
   {
+   "device": "claro_vsb3918",
+   "name": "Claro 4k advanced",
+   "model": "Claro 4k advanced"
+  },
+  {
    "device": "SEI800CCOA",
    "name": "Claro Colombia STB",
    "model": "Claro Colombia STB"
@@ -159017,11 +159022,6 @@
    "model": "SM-A066M"
   },
   {
-   "device": "a06x",
-   "name": "Galaxy A06 5G",
-   "model": "SM-M066B"
-  },
-  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -159730,6 +159730,26 @@
    "device": "a25x",
    "name": "Galaxy A25 5G",
    "model": "SM-S256VL"
+  },
+  {
+   "device": "a26x",
+   "name": "Galaxy A26 5G",
+   "model": "SM-A266B"
+  },
+  {
+   "device": "a26x",
+   "name": "Galaxy A26 5G",
+   "model": "SM-A266U"
+  },
+  {
+   "device": "a26x",
+   "name": "Galaxy A26 5G",
+   "model": "SM-A266U1"
+  },
+  {
+   "device": "a26x",
+   "name": "Galaxy A26 5G",
+   "model": "SM-S266V"
   },
   {
    "device": "a33g",
@@ -236747,6 +236767,11 @@
    "device": "T1",
    "name": "iData T1",
    "model": "iData T1"
+  },
+  {
+   "device": "T1Pro",
+   "name": "iData T1 Pro",
+   "model": "T1Pro"
   },
   {
    "device": "iData_T1S",
