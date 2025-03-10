@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-09
+Last sync is 2025-03-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -46496,6 +46496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|M17QF21W|M17QF21W|M17QF21W|
 |onn.|MID8016|mid8016_mk_32|MID8016|
 |onn.|PM1042T-W|PM1042T-W|PM1042T-W|
+|onn.|PM1042TW|PM1042TW|PM1042TW|
 |onn.|PM116T|PM116T|PM116T|
 |onn.|PM116T_LTE|PM116T_LTE|PM116T_LTE|
 |onn.|PM82T|PM82T|PM82T|

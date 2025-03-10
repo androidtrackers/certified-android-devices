@@ -239014,6 +239014,11 @@
    "model": "PM1042T-W"
   },
   {
+   "device": "PM1042TW",
+   "name": "PM1042TW",
+   "model": "PM1042TW"
+  },
+  {
    "device": "PM116T",
    "name": "PM116T",
    "model": "PM116T"
