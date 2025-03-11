@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-10
+Last sync is 2025-03-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27599,6 +27599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
 |Philips|65BDL4152E|65BDL4152E|BDL4152E|
 |Philips|Android 2014|philipstv|AND1E|
+|Philips|BDL4252E|rk3576_u|BDL4252E|
 |Philips|E1027|E1027|E1027|
 |Philips|FHD Ultra Slim LED TV Powered by Android|QM16XE_F|QM164E|
 |Philips|HMP8100/93|HMP8100_ATV_93|HMP8100_ATV_93|
@@ -29753,6 +29754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 14 Pro+|amethyst|24115RA8EC|
 |Redmi|Redmi Note 14 Pro+ 5G|amethyst|24115RA8EG|
 |Redmi|Redmi Note 14 Pro+ 5G|amethyst|24115RA8EI|
+|Redmi|Redmi Note 14S|emerald|2502FRA65G|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -35889,6 +35891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
 |Specktron|CDX|CDX|CDX|
 |Specktron|UDX_Series|UDX_series|UDX_series|
+|Specktron|UDX_series|UDX_Pro_series|UDX_Pro_series|
 |Spectra Geospatial|MobileMapper60_2|MM60_2|MobileMapper60_2|
 |Spectra Geospatial|Ranger 5|bcat|RGR5|
 |SpectraPrecision|Ranger 5 Handheld|workhorse_wifi|Ranger5|
@@ -39371,6 +39374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|Venezuela|martin|Tesla Android TV|
 |Tesla|Venezuela|patrick|Tesla Android TV|
 |Tetratab|TF10EA2|TF10EA2_Medical_1|CASEBOOK_3|
+|TheNudge|Smartboard_Ai|oversea_v|HDJN|
 |ThinkAcademy|T100|T100|T100|
 |Thinpad|TH805|TH805|TH805|
 |Thomson|32TG6A9|ikebukuro|AI PONT|
@@ -43273,6 +43277,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 14T|XIG07|XIG07|
 |Xiaomi|Xiaomi 14T|degas|2406APNFAG|
 |Xiaomi|Xiaomi 14T Pro|rothko|2407FPN8EG|
+|Xiaomi|Xiaomi 14T Pro|rothko|2407FPN8ER|
+|Xiaomi|Xiaomi 14T Pro|rothko|A402XM|
 |Xiaomi|Xiaomi 15|dada|24129PN74C|
 |Xiaomi|Xiaomi 15|dada|24129PN74G|
 |Xiaomi|Xiaomi 15|dada|24129PN74I|
@@ -46772,6 +46778,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我V60|RE5C44|RMX3995|
 |realme|真我V60 Pro|RE6019|RMX3953|
 |realme|真我V60s|RE5C44|RMX3996|
+|realme|真我V70|RE6027|RMX3946|
+|realme|真我V70s|RE6027|RMX3948|
 |redbeat|D5|D5|D5|
 |redbeat|E3|E3|E3|
 |redbeat|redbeatA2|redbeatA2|RG-TB10|
@@ -46856,6 +46864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |uLesson|uLesson_Education_Tab_V2|uLesson_Tab_V2|uLesson_Education_Tab_V2|
 |ucall|EASY1|EASY1|EASY1|
 |ugee|DT120QH|ugeeDT120QH|DT120QH|
+|ugee|DT120QH_EEA|ugeeDT120QH|DT120QH|
 |ugee|UT1Lite_NOEEA|ugeeUT1Lite_NOEEA|UT2|
 |ugee|UT2|ugeeUT1Lite_EEA|UT2|
 |ugee|UT2|ugeeUT1Lite_RU|UT2|

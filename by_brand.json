@@ -142117,6 +142117,11 @@
    "model": "AND1E"
   },
   {
+   "device": "rk3576_u",
+   "name": "BDL4252E",
+   "model": "BDL4252E"
+  },
+  {
    "device": "E1027",
    "name": "E1027",
    "model": "E1027"
@@ -153181,6 +153186,11 @@
    "device": "amethyst",
    "name": "Redmi Note 14 Pro+ 5G",
    "model": "24115RA8EI"
+  },
+  {
+   "device": "emerald",
+   "name": "Redmi Note 14S",
+   "model": "2502FRA65G"
   },
   {
    "device": "lavender",
@@ -184389,6 +184399,11 @@
    "device": "UDX_series",
    "name": "UDX_Series",
    "model": "UDX_series"
+  },
+  {
+   "device": "UDX_Pro_series",
+   "name": "UDX_series",
+   "model": "UDX_Pro_series"
   }
  ],
  "Spectra Geospatial": [
@@ -202233,6 +202248,13 @@
    "device": "TF10EA2_Medical_1",
    "name": "TF10EA2",
    "model": "CASEBOOK_3"
+  }
+ ],
+ "TheNudge": [
+  {
+   "device": "oversea_v",
+   "name": "Smartboard_Ai",
+   "model": "HDJN"
   }
  ],
  "ThinkAcademy": [
@@ -222413,6 +222435,16 @@
    "model": "2407FPN8EG"
   },
   {
+   "device": "rothko",
+   "name": "Xiaomi 14T Pro",
+   "model": "2407FPN8ER"
+  },
+  {
+   "device": "rothko",
+   "name": "Xiaomi 14T Pro",
+   "model": "A402XM"
+  },
+  {
    "device": "dada",
    "name": "Xiaomi 15",
    "model": "24129PN74C"
@@ -240406,6 +240438,16 @@
    "device": "RE5C44",
    "name": "真我V60s",
    "model": "RMX3996"
+  },
+  {
+   "device": "RE6027",
+   "name": "真我V70",
+   "model": "RMX3946"
+  },
+  {
+   "device": "RE6027",
+   "name": "真我V70s",
+   "model": "RMX3948"
   }
  ],
  "redbeat": [
@@ -240877,6 +240919,11 @@
   {
    "device": "ugeeDT120QH",
    "name": "DT120QH",
+   "model": "DT120QH"
+  },
+  {
+   "device": "ugeeDT120QH",
+   "name": "DT120QH_EEA",
    "model": "DT120QH"
   },
   {
