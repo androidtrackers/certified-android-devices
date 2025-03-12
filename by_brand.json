@@ -5808,6 +5808,11 @@
    "model": "JA4-TBA1008"
   },
   {
+   "device": "JA4-TBA1009",
+   "name": "JA4-TBA1009",
+   "model": "JA4-TBA1009"
+  },
+  {
    "device": "JA4-TBA1101",
    "name": "JA4-TBA1101",
    "model": "JA4-TBA1101"
@@ -15294,6 +15299,11 @@
    "device": "H634_BLK",
    "name": "H634_BLK",
    "model": "H634 BLK"
+  },
+  {
+   "device": "P187",
+   "name": "P187",
+   "model": "P187"
   }
  ],
  "BESTTAB": [
@@ -26324,6 +26334,11 @@
    "model": "C18W_EEA"
   },
   {
+   "device": "C28",
+   "name": "C28",
+   "model": "C28"
+  },
+  {
    "device": "C29",
    "name": "C29",
    "model": "C29"
@@ -30473,6 +30488,11 @@
   },
   {
    "device": "Compaq_QT10",
+   "name": "QT10",
+   "model": "QT10"
+  },
+  {
+   "device": "QT10",
    "name": "QT10",
    "model": "QT10"
   },
@@ -39521,9 +39541,19 @@
    "model": "Blade GT"
   },
   {
+   "device": "ZN140",
+   "name": "Blade GT Play",
+   "model": "Blade GT Play"
+  },
+  {
    "device": "M24C",
    "name": "Blade GT Pro",
    "model": "Blade GT"
+  },
+  {
+   "device": "ZN140S",
+   "name": "Blade GT Pro",
+   "model": "Blade GT Pro"
   },
   {
    "device": "M24CT",
@@ -39539,6 +39569,11 @@
    "device": "F1P",
    "name": "Blade10 Max",
    "model": "Blade10 Max"
+  },
+  {
+   "device": "F1G",
+   "name": "Blade10 Power",
+   "model": "Blade10 Power"
   },
   {
    "device": "F1C",
@@ -39569,6 +39604,11 @@
    "device": "F1C",
    "name": "F10S",
    "model": "F10S"
+  },
+  {
+   "device": "F1SE",
+   "name": "Fire 6",
+   "model": "Fire 6"
   },
   {
    "device": "M24SE",
@@ -55078,6 +55118,21 @@
    "model": "100011886_GTW"
   },
   {
+   "device": "GWPad-S11",
+   "name": "GWPad-S11",
+   "model": "GW Pad S11"
+  },
+  {
+   "device": "GWPad-S11",
+   "name": "GWPad-S11",
+   "model": "GWPad-S11"
+  },
+  {
+   "device": "GWPad-S11-1",
+   "name": "GWPad-S11-1",
+   "model": "GWPad-S11-1"
+  },
+  {
    "device": "K701",
    "name": "K701",
    "model": "K701"
@@ -55577,6 +55632,13 @@
    "device": "MINTAKA",
    "name": "MINTAKA",
    "model": "MINTAKA"
+  }
+ ],
+ "HAEXC": [
+  {
+   "device": "FP103Ex",
+   "name": "FP103Ex",
+   "model": "FP103Ex"
   }
  ],
  "HAKO": [
@@ -56346,6 +56408,11 @@
    "device": "XULTRA2",
    "name": "XULTRA2",
    "model": "XULTRA2"
+  },
+  {
+   "device": "XULTRA3",
+   "name": "XULTRA3",
+   "model": "XULTRA3"
   },
   {
    "device": "XULTRAPLUS",
@@ -68539,6 +68606,11 @@
    "model": "DT10"
   },
   {
+   "device": "HPPL67A",
+   "name": "Datil",
+   "model": "HPPL67A"
+  },
+  {
    "device": "HPP-GS1",
    "name": "Ghost",
    "model": "HPP-GS1"
@@ -68741,6 +68813,11 @@
    "device": "HOT_6",
    "name": "HOT 6",
    "model": "HOT 6"
+  },
+  {
+   "device": "Hyper_7",
+   "name": "Hyper 7",
+   "model": "Hyper 7"
   },
   {
    "device": "Hyper_7_Pro",
@@ -79705,6 +79782,11 @@
    "model": "IC_58"
   },
   {
+   "device": "IC_59",
+   "name": "IC-59",
+   "model": "IC_59"
+  },
+  {
    "device": "IC_51R",
    "name": "IC_51R",
    "model": "IC_51"
@@ -79718,6 +79800,11 @@
    "device": "IC_56",
    "name": "IC_56_EEA",
    "model": "IC_56"
+  },
+  {
+   "device": "IC_59",
+   "name": "IC_59",
+   "model": "IC_59"
   },
   {
    "device": "IC_61",
@@ -82618,6 +82705,11 @@
    "device": "S300Plus",
    "name": "S300Plus",
    "model": "S300Plus"
+  },
+  {
+   "device": "S300Pro",
+   "name": "S300Pro",
+   "model": "S300Pro"
   },
   {
    "device": "S350",
@@ -101612,6 +101704,11 @@
    "model": "RX10v9"
   },
   {
+   "device": "RX11",
+   "name": "RX11",
+   "model": "RX11"
+  },
+  {
    "device": "RX7V4",
    "name": "RX7V4",
    "model": "RX7V4"
@@ -110667,6 +110764,11 @@
  ],
  "MINDEO": [
   {
+   "device": "D70",
+   "name": "D70",
+   "model": "D70"
+  },
+  {
    "device": "M50_EEA",
    "name": "M50_EEA",
    "model": "M50_EEA"
@@ -111724,6 +111826,11 @@
    "device": "COMEK_C10",
    "name": "COMEK C10",
    "model": "COMEK C10"
+  },
+  {
+   "device": "COMEK_smart_10",
+   "name": "COMEK smart 10",
+   "model": "COMEK smart 10"
   }
  ],
  "Mach Speed": [
@@ -114995,6 +115102,11 @@
   }
  ],
  "Mengdash": [
+  {
+   "device": "M_Q58",
+   "name": "M_Q58",
+   "model": "M_Q58"
+  },
   {
    "device": "M_Q58_EEA",
    "name": "M_Q58_EEA",
@@ -123358,6 +123470,11 @@
    "device": "MFT1621",
    "name": "Ranger2K",
    "model": "Ranger2K"
+  },
+  {
+   "device": "MFT2221",
+   "name": "Ranger2K_N",
+   "model": "Ranger2K_N"
   }
  ],
  "Movic": [
@@ -129810,6 +129927,11 @@
   }
  ],
  "Nomu": [
+  {
+   "device": "EA200",
+   "name": "EA200",
+   "model": "EA200"
+  },
   {
    "device": "G200",
    "name": "G200",
@@ -138119,6 +138241,11 @@
    "model": "WP35"
   },
   {
+   "device": "WP35_Pro",
+   "name": "WP35_Pro_EEA",
+   "model": "WP35 Pro"
+  },
+  {
    "device": "WP35_S",
    "name": "WP35_S_EEA",
    "model": "WP35 S"
@@ -138149,9 +138276,19 @@
    "model": "WP38"
   },
   {
+   "device": "OUKITEL_WP38",
+   "name": "WP38_U_EEA",
+   "model": "WP38"
+  },
+  {
    "device": "WP39",
    "name": "WP39_EEA",
    "model": "WP39"
+  },
+  {
+   "device": "WP39_Pro",
+   "name": "WP39_Pro_EEA",
+   "model": "WP39 Pro"
   },
   {
    "device": "WP39",
@@ -142512,6 +142649,11 @@
    "model": "Philips-24NA-4K"
   },
   {
+   "device": "Philips-S6020",
+   "name": "Philips-Essence 01",
+   "model": "Philips-S6020"
+  },
+  {
    "device": "Philips_S398",
    "name": "Philps S398",
    "model": "Philips S398"
@@ -143317,6 +143459,11 @@
   {
    "device": "Kids20A14_EEA",
    "name": "Kids20A14_EEA",
+   "model": "Kids20"
+  },
+  {
+   "device": "Kids20A15",
+   "name": "Kids20A15",
    "model": "Kids20"
   },
   {
@@ -151381,6 +151528,11 @@
   }
  ],
  "Realix": [
+  {
+   "device": "RxIS02",
+   "name": "RxIS02",
+   "model": "RxIS02"
+  },
   {
    "device": "RxIS201",
    "name": "RxIS201",
@@ -180074,6 +180226,11 @@
    "model": "e-PAD"
   },
   {
+   "device": "sherbet",
+   "name": "gxv4na",
+   "model": "SMART Board GX (V4) Plus Series NA"
+  },
+  {
    "device": "hero_A1",
    "name": "hero A1",
    "model": "hero A1"
@@ -196742,6 +196899,11 @@
    "model": "Quest-Handheld"
   },
   {
+   "device": "QuestGamingTablet",
+   "name": "QuestGamingTablet",
+   "model": "QuestGamingTablet"
+  },
+  {
    "device": "Vector",
    "name": "Vector",
    "model": "Vector"
@@ -206892,6 +207054,11 @@
    "model": "UMIDIGI G9T"
   },
   {
+   "device": "Note_100",
+   "name": "UMIDIGI Note 100",
+   "model": "UMIDIGI Note 100"
+  },
+  {
    "device": "Note_100_5G",
    "name": "UMIDIGI Note 100 5G",
    "model": "UMIDIGI Note 100 5G"
@@ -208200,6 +208367,11 @@
    "model": "VILLAON V30"
   },
   {
+   "device": "VILLAON-V652L",
+   "name": "VILLAON V45s",
+   "model": "VILLAON V652L"
+  },
+  {
    "device": "VILLAON_V20_SE",
    "name": "VILLAON_V20_S",
    "model": "VILLAON V501W"
@@ -208207,6 +208379,11 @@
   {
    "device": "VILLAON-V652L",
    "name": "Vodacom A06s",
+   "model": "VILLAON V652L"
+  },
+  {
+   "device": "VILLAON-V652L",
+   "name": "Vodacom Vibe 20",
    "model": "VILLAON V652L"
   }
  ],
@@ -208405,6 +208582,11 @@
   }
  ],
  "VIVITEK": [
+  {
+   "device": "rk3576_u",
+   "name": "EK5_series",
+   "model": "EK5_series"
+  },
   {
    "device": "rk3588_t",
    "name": "NovoTouch",
@@ -208939,6 +209121,11 @@
   }
  ],
  "Vantron": [
+  {
+   "device": "HMI04_RK3326S",
+   "name": "HMI04-RK3326S",
+   "model": "HMI04_RK3326S"
+  },
   {
    "device": "IBOX66",
    "name": "IBOX66",
@@ -223844,6 +224031,13 @@
    "model": "WS107"
   }
  ],
+ "Yokoscan": [
+  {
+   "device": "TC60_EEA",
+   "name": "TC60_EEA",
+   "model": "TC60_EEA"
+  }
+ ],
  "Yota Devices": [
   {
    "device": "yotaphone",
@@ -238314,6 +238508,11 @@
  ],
  "iiyama": [
   {
+   "device": "RK3576",
+   "name": "PLXX12U",
+   "model": "TEXX12MIS"
+  },
+  {
    "device": "TEXX13A",
    "name": "TEXX13A",
    "model": "TEXX13A"
@@ -238646,6 +238845,11 @@
    "device": "D1",
    "name": "D1",
    "model": "D1"
+  },
+  {
+   "device": "D8",
+   "name": "D8",
+   "model": "D8"
   },
   {
    "device": "P18",
@@ -241071,6 +241275,11 @@
    "device": "C19W_EEA",
    "name": "C19W_EEA",
    "model": "C19W_EEA"
+  },
+  {
+   "device": "C28",
+   "name": "C28",
+   "model": "C28"
   },
   {
    "device": "C72W",
