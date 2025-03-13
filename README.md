@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-12
+Last sync is 2025-03-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11977,6 +11977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HannSpree|Hannspad|Hannspad|Hannspad|
 |HannSpree|HannspadPro|HannspadPro|HannspadPro|
 |HannSpree|Product Name HSG1416A|HSG1416A|HSG1416A|
+|HannSpree|SN10HD1B|SN10HD1B|SN10HD1B|
 |HannSpree|SN10HR4B|Ambi_Paper_Tablet|HSD0008|
 |Hanshow|VisCart|Clip-on_Smart_Trolley|CT10-W0C3|
 |Haoqin|SpaceTab_H20|SpaceTab_H20|SpaceTab_H20|
@@ -26815,6 +26816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP1|OUKITEL_WP1|WP1|
 |Oukitel|WP10|WP10|WP10|
 |Oukitel|WP12|WP12|WP12|
+|Oukitel|WP12 Pro|WP12_Pro|WP12 Pro|
 |Oukitel|WP12_Pro|WP12_Pro|WP12 Pro|
 |Oukitel|WP12_Pro_EEA|WP12_Pro|WP12 Pro|
 |Oukitel|WP13_EEA|WP13|WP13|
@@ -26830,6 +26832,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP18_P_R_RU|WP18_P_R_EEA|WP18 Pro|
 |Oukitel|WP18_Pro_EEA|WP18_Pro_EEA|WP18 Pro|
 |Oukitel|WP19_EEA|WP19|WP19|
+|Oukitel|WP19_Pro|WP19_Pro|WP19 Pro|
+|Oukitel|WP19_Pro_EEA|WP19_Pro|WP19 Pro|
 |Oukitel|WP2|WP2|WP2|
 |Oukitel|WP200_Pro_EEA|WP200_Pro|WP200 Pro|
 |Oukitel|WP20_EEA|WP20|WP20|
@@ -29913,6 +29917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P60_EEA|P60_EEA|P60|
 |Relndoo|P60_ROW|P60_ROW|P60|
 |Relndoo|P80_EU|P80_EU|P80|
+|Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
@@ -46208,6 +46213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|iHunt S22  ULTRA|iHuntS22ULTRA|iHunt S22 ULTRA|
 |iHunt|iHunt S24 PLUS|iHunt_S24_PLUS|iHunt S24 PLUS|
 |iHunt|iHunt S24 ULTRA|iHunt_S24_ULTRA|iHunt S24 ULTRA|
+|iHunt|iHunt S60 Discovery Pro 2021|iHunt_S60|iHunt S60 Discovery Pro 2022|
 |iHunt|iHunt S90 Apex|S90_Apex|S90_Apex|
 |iHunt|iHunt Tablet PC 11 Ultra|Tablet_PC_11_Ultra|iHunt Tablet PC 11 Ultra|
 |iHunt|iHunt Titan P10000 Pro|P10000_Pro|iHunt Titan P10000 Pro|
@@ -46905,6 +46911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ucall|EASY1|EASY1|EASY1|
 |ugee|DT120QH|ugeeDT120QH|DT120QH|
 |ugee|DT120QH_EEA|ugeeDT120QH|DT120QH|
+|ugee|DT120QH_RU|ugeeDT120QH|DT120QH|
 |ugee|UT1Lite_NOEEA|ugeeUT1Lite_NOEEA|UT2|
 |ugee|UT2|ugeeUT1Lite_EEA|UT2|
 |ugee|UT2|ugeeUT1Lite_RU|UT2|

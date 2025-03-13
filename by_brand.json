@@ -62161,6 +62161,11 @@
    "model": "HSG1416A"
   },
   {
+   "device": "SN10HD1B",
+   "name": "SN10HD1B",
+   "model": "SN10HD1B"
+  },
+  {
    "device": "Ambi_Paper_Tablet",
    "name": "SN10HR4B",
    "model": "HSD0008"
@@ -138052,6 +138057,11 @@
   },
   {
    "device": "WP12_Pro",
+   "name": "WP12 Pro",
+   "model": "WP12 Pro"
+  },
+  {
+   "device": "WP12_Pro",
    "name": "WP12_Pro",
    "model": "WP12 Pro"
   },
@@ -138124,6 +138134,16 @@
    "device": "WP19",
    "name": "WP19_EEA",
    "model": "WP19"
+  },
+  {
+   "device": "WP19_Pro",
+   "name": "WP19_Pro",
+   "model": "WP19 Pro"
+  },
+  {
+   "device": "WP19_Pro",
+   "name": "WP19_Pro_EEA",
+   "model": "WP19 Pro"
   },
   {
    "device": "WP2",
@@ -153996,6 +154016,11 @@
   {
    "device": "P80_EU",
    "name": "P80_EU",
+   "model": "P80"
+  },
+  {
+   "device": "P80",
+   "name": "P80_EUR",
    "model": "P80"
   },
   {
@@ -237452,6 +237477,11 @@
    "model": "iHunt S24 ULTRA"
   },
   {
+   "device": "iHunt_S60",
+   "name": "iHunt S60 Discovery Pro 2021",
+   "model": "iHunt S60 Discovery Pro 2022"
+  },
+  {
    "device": "S90_Apex",
    "name": "iHunt S90 Apex",
    "model": "S90_Apex"
@@ -241128,6 +241158,11 @@
   {
    "device": "ugeeDT120QH",
    "name": "DT120QH_EEA",
+   "model": "DT120QH"
+  },
+  {
+   "device": "ugeeDT120QH",
+   "name": "DT120QH_RU",
    "model": "DT120QH"
   },
   {
