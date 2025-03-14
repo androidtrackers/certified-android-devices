@@ -151341,6 +151341,13 @@
    "model": "popper2"
   }
  ],
+ "RUGLINE": [
+  {
+   "device": "T14",
+   "name": "T14",
+   "model": "T14"
+  }
+ ],
  "RUGSTORM": [
   {
    "device": "UA100",
@@ -158245,6 +158252,11 @@
    "device": "eleonas",
    "name": "SWTV-24AE-4K NF",
    "model": "SWTV-24AE-4K NF"
+  },
+  {
+   "device": "beomil",
+   "name": "SWTV-24AE-FHD",
+   "model": "SWTV-24AE-FHD"
   },
   {
    "device": "eleonas",

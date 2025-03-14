@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-13
+Last sync is 2025-03-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29393,6 +29393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RT Project|WIDE|WIDE|WIDE|
 |RT Project|Wide|Wide|Wide|
 |RT Project|popper2|popper2|popper2|
+|RUGLINE|T14|T14|T14|
 |RUGSTORM|UA100|UA100|UA100|
 |RUGSTORM|UA80|UA80|UA80|
 |RVP(AB)|RVPVK808|RVPVK808|RVPVK808|
@@ -30709,6 +30710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-22TW-4K|anaheim|SWTV-22TW-4K|
 |SWTV|SWTV-24AE-4K|eleonas|SWTV-24AE-4K|
 |SWTV|SWTV-24AE-4K NF|eleonas|SWTV-24AE-4K NF|
+|SWTV|SWTV-24AE-FHD|beomil|SWTV-24AE-FHD|
 |SWTV|SWTV-24HK-4K|eleonas|SWTV-24H-4K|
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24H-4K NF|
 |SWTV|SWTV-24NA-4K|eleonas|SWTV-24NA-4K|
