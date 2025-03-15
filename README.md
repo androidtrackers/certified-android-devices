@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-14
+Last sync is 2025-03-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5001,6 +5001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COLORROOM|K12-EEA|K12-EEA|K12-ROW|
 |COLORROOM|K12E|K12E|K12E|
 |COLORROOM|K12E_EEA|K12E_EEA|K12E_EEA|
+|COLORROOM|K12E_ROW|K12E_ROW|K12E_ROW|
 |COLORROOM|T30E|T30E|T30|
 |COLORROOM|T30E|T30E|T30E|
 |COMBUSTECH|COMBUSTECH-IFPD|rk3588_t|COMBUS_IB|
@@ -17956,6 +17957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO SX4 Wi-Fi|KY24L-ST300|KC-S205|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
+|Kyocera|DIGNO Tab2 5G|KY24L-TB100|KC-T306|
 |Kyocera|DIGNO Tab2 5G|KY24L-TB100|KYT35|
 |Kyocera|DIGNO V|KYV42|KYV42_u|
 |Kyocera|DIGNO W|KYV40|KYV40U|
@@ -29998,13 +30000,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|RHINO T5se|atom|T5se|
 |Rhino|RHINO T8|Rhino_T8|T8|
 |Rhino|RHINO T80|scout|T80|
+|Rhino|RHINO T80|scoutx|T80|
 |Rhino|T100|scoutxlx|T100|
 |Rhino|T5SE|Rhino_T5SE|T5SE-001|
 |Rhino|T8|Rhino_T8|T8|
 |Rhino|T80|scoutx|T80|
 |Rhino|Vision_12|Vision_12|Vision 12|
 |Rhino|Vision_7|Vision_7|Vision 7|
-|Rhino|scoutp|scoutx|T80|
 |Rhino|scoutpxl|scoutxlx|T100|
 |Ricoh|AXX10|AXX10|AXX10|
 |RiksTV|SRT412|HP40A3|SRT412|
@@ -30670,6 +30672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
 |SVITOO|P11_pro|P11|P11|
+|SVITOO|P11_pro_EEA|P11_pro_EEA|P11_pro_EEA|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SWACONNECT|SWA310|SWA310|SWA310|
 |SWACONNECT|SWA310_NEU|SWA310|SWA310|
@@ -38678,6 +38681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50Mini_ROW|P50Mini_ROW|P50Mini_ROW|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
+|Teclast|P50_B_EEA|P50_B_EEA|P50_B_EEA|
 |Teclast|P50_EEA|P50|P50_EEA|
 |Teclast|P50_EEA|P50_EEA|P50|
 |Teclast|P50_ROW|P50|P50_ROW|
@@ -39047,6 +39051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30S Pro|TECNO-CLA6|TECNO CLA6|
 |Tecno|TECNO CAMON 30T|TECNO-Mobile-CLA6|TECNO Mobile CLA6|
 |Tecno|TECNO CAMON 40|TECNO-CM5|TECNO CM5|
+|Tecno|TECNO CAMON 40 5G|TECNO-CM7|TECNO CM7|
 |Tecno|TECNO CAMON 40 Pro|TECNO-CM6|TECNO CM6|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -45415,6 +45420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
+|ZTLEKE|P10|P10|P10|
 |ZTLEKE|P10MAX|P10MAX|P10MAX|
 |ZTLEKE|P10PRO|P10PRO|P10PRO|
 |ZTLEKE|S8Plus|S8Plus|S8Plus|

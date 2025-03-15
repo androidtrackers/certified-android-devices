@@ -25871,6 +25871,11 @@
    "model": "K12E_EEA"
   },
   {
+   "device": "K12E_ROW",
+   "name": "K12E_ROW",
+   "model": "K12E_ROW"
+  },
+  {
    "device": "T30E",
    "name": "T30E",
    "model": "T30"
@@ -92700,6 +92705,11 @@
   {
    "device": "KY24L-TB100",
    "name": "DIGNO Tab2 5G",
+   "model": "KC-T306"
+  },
+  {
+   "device": "KY24L-TB100",
+   "name": "DIGNO Tab2 5G",
    "model": "KYT35"
   },
   {
@@ -154448,6 +154458,11 @@
    "model": "T80"
   },
   {
+   "device": "scoutx",
+   "name": "RHINO T80",
+   "model": "T80"
+  },
+  {
    "device": "scoutxlx",
    "name": "T100",
    "model": "T100"
@@ -154476,11 +154491,6 @@
    "device": "Vision_7",
    "name": "Vision_7",
    "model": "Vision 7"
-  },
-  {
-   "device": "scoutx",
-   "name": "scoutp",
-   "model": "T80"
   },
   {
    "device": "scoutxlx",
@@ -158048,6 +158058,11 @@
    "device": "P11",
    "name": "P11_pro",
    "model": "P11"
+  },
+  {
+   "device": "P11_pro_EEA",
+   "name": "P11_pro_EEA",
+   "model": "P11_pro_EEA"
   },
   {
    "device": "SVITOO_P10",
@@ -198696,6 +198711,11 @@
    "model": "P50S"
   },
   {
+   "device": "P50_B_EEA",
+   "name": "P50_B_EEA",
+   "model": "P50_B_EEA"
+  },
+  {
    "device": "P50",
    "name": "P50_EEA",
    "model": "P50_EEA"
@@ -200541,6 +200561,11 @@
    "device": "TECNO-CM5",
    "name": "TECNO CAMON 40",
    "model": "TECNO CM5"
+  },
+  {
+   "device": "TECNO-CM7",
+   "name": "TECNO CAMON 40 5G",
+   "model": "TECNO CM7"
   },
   {
    "device": "TECNO-CM6",
@@ -233266,6 +233291,11 @@
   }
  ],
  "ZTLEKE": [
+  {
+   "device": "P10",
+   "name": "P10",
+   "model": "P10"
+  },
   {
    "device": "P10MAX",
    "name": "P10MAX",
