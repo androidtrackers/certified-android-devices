@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-16
+Last sync is 2025-03-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2649,6 +2649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|T30MAX_EEA|T30MAX_EEA|T30MAX|
 |Atozee|T30MAX_EEA|T30MAX_EEA|TAB9|
 |Atozee|YQ10M|YQ10M|YQ10M|
+|Atozee|YQ10SK|YQ10SK|YQ10S|
 |Atozee|YQ10SK|YQ10SK|YQ10SK|
 |Atozee|YQ10S_Gold|YQ10S_Gold|YQ10S_Gold|
 |Atozee|YQ10S_MAX|YQ10S_MAX|YQ10S_MAX|
@@ -7087,6 +7088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datalogic|MEMOR 11|m11|Memor 11|
 |Datalogic|Memor 12|tomcat_pda|Memor 12|
+|Datalogic|Memor 17|tomcat_pda|Memor 17|
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
 |Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
@@ -26775,6 +26777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|OT5_S_EEA|OT5_S|OT5 S|
 |Oukitel|OT6_EEA|OT6|OT6|
 |Oukitel|OT6_Kids_EEA|OT6_Kids|OT6 Kids|
+|Oukitel|OT6_Pro_EEA|OT6_Pro|OT6 Pro|
 |Oukitel|OT7_EEA|OT7|OT7|
 |Oukitel|OT8_EEA|OT8|OT8|
 |Oukitel|OT8_ROW|OT8|OT8|
@@ -46743,7 +46746,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme P1 Speed 5G|RE6066L1|RMX5004|
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
+|realme|realme P3 5G|RE608EL1|RMX5070|
 |realme|realme P3 Pro 5G|RE6079L1|RMX5032|
+|realme|realme P3 UItra 5G|RE60A4L1|RMX5030|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad 2 Lite|RE6077L1|RMP2402|

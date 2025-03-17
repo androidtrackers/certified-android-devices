@@ -13707,6 +13707,11 @@
   {
    "device": "YQ10SK",
    "name": "YQ10SK",
+   "model": "YQ10S"
+  },
+  {
+   "device": "YQ10SK",
+   "name": "YQ10SK",
    "model": "YQ10SK"
   },
   {
@@ -36709,6 +36714,11 @@
    "device": "tomcat_pda",
    "name": "Memor 12",
    "model": "Memor 12"
+  },
+  {
+   "device": "tomcat_pda",
+   "name": "Memor 17",
+   "model": "Memor 17"
   },
   {
    "device": "Q10",
@@ -137849,6 +137859,11 @@
    "device": "OT6_Kids",
    "name": "OT6_Kids_EEA",
    "model": "OT6 Kids"
+  },
+  {
+   "device": "OT6_Pro",
+   "name": "OT6_Pro_EEA",
+   "model": "OT6 Pro"
   },
   {
    "device": "OT7",
@@ -240271,9 +240286,19 @@
    "model": "RMX3987"
   },
   {
+   "device": "RE608EL1",
+   "name": "realme P3 5G",
+   "model": "RMX5070"
+  },
+  {
    "device": "RE6079L1",
    "name": "realme P3 Pro 5G",
    "model": "RMX5032"
+  },
+  {
+   "device": "RE60A4L1",
+   "name": "realme P3 UItra 5G",
+   "model": "RMX5030"
   },
   {
    "device": "RE5C6EL1",
