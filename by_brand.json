@@ -68000,6 +68000,11 @@
    "model": "BVL-N49"
   },
   {
+   "device": "HNPLPX",
+   "name": "HONOR Magic7",
+   "model": "PTP-N29"
+  },
+  {
    "device": "HNBRP-Q1",
    "name": "HONOR Magic7 Lite",
    "model": "BRP-NX1M"
@@ -88791,6 +88796,11 @@
    "device": "Capricorn",
    "name": "SD_GM01",
    "model": "Eco Smart Display"
+  },
+  {
+   "device": "Leo",
+   "name": "SD_GM02",
+   "model": "Eco Smart Display ME"
   },
   {
    "device": "W83B-F2-RK3576",
@@ -134728,6 +134738,11 @@
    "device": "OP5A0BL1",
    "name": "F25 Pro 5G",
    "model": "CPH2603"
+  },
+  {
+   "device": "OP5ECFL1",
+   "name": "F29 Pro 5G",
+   "model": "CPH2705"
   },
   {
    "device": "CPH1819",
@@ -184751,6 +184766,13 @@
    "model": "Versity 9753"
   }
  ],
+ "Speechi": [
+  {
+   "device": "RK3576",
+   "name": "ST_xx_CONNECT_PRO5",
+   "model": "ST_xx_CONNECT_PRO5"
+  }
+ ],
  "Speedata": [
   {
    "device": "FG50",
@@ -186378,6 +186400,11 @@
    "device": "V2s",
    "name": "Sunmi V2s",
    "model": "V2s_TR"
+  },
+  {
+   "device": "T3",
+   "name": "T3",
+   "model": "T3"
   },
   {
    "device": "T3_PRO",
@@ -233620,6 +233647,11 @@
    "model": "HC20"
   },
   {
+   "device": "TC27",
+   "name": "HC25",
+   "model": "HC25"
+  },
+  {
    "device": "TC22",
    "name": "HC50",
    "model": "HC50"
@@ -233628,6 +233660,11 @@
    "device": "TC22",
    "name": "HC50",
    "model": "TC22"
+  },
+  {
+   "device": "TC27-6490",
+   "name": "HC55",
+   "model": "HC55"
   },
   {
    "device": "KC50L",
@@ -239355,6 +239392,11 @@
    "device": "PM82T",
    "name": "PM82T",
    "model": "PM82T"
+  },
+  {
+   "device": "PM82TW",
+   "name": "PM82TW",
+   "model": "PM82TW"
   },
   {
    "device": "100135923",

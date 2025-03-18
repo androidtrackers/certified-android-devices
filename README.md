@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-17
+Last sync is 2025-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13128,6 +13128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic6 Lite 5G|HNALI-Q|ALI-NX3|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-AN16|
 |Honor|HONOR Magic6 Pro|HNBVL|BVL-N49|
+|Honor|HONOR Magic7|HNPLPX|PTP-N29|
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX1M|
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX3|
 |Honor|HONOR Magic7 Pro|HNPTPX|PTP-N49|
@@ -17203,6 +17204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|KTC|hongkong|4K SMART TV|
 |KTC|KTC|mountbaker|2K SMART TV|
 |KTC|SD_GM01|Capricorn|Eco Smart Display|
+|KTC|SD_GM02|Leo|Eco Smart Display ME|
 |KTC|W83B-LANGO3576|W83B-F2-RK3576|W83B-F2-RK3576|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
@@ -26156,6 +26158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F1w|F1f|F1f|
 |Oppo|F1w|F1f|F1w|
 |Oppo|F25 Pro 5G|OP5A0BL1|CPH2603|
+|Oppo|F29 Pro 5G|OP5ECFL1|CPH2705|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
 |Oppo|F9|CPH1823|CPH1823|
@@ -35959,6 +35962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|Versity 9653|Versity|Versity 9653|
 |Spectralink|Versity 9740|Versity|Versity 9740|
 |Spectralink|Versity 9753|Versity|Versity 9753|
+|Speechi|ST_xx_CONNECT_PRO5|RK3576|ST_xx_CONNECT_PRO5|
 |Speedata|FG50|FG50|FG50|
 |Speedata|FG60|FG60|FG60|
 |Speedata|FG60 EEA|FG60|FG60|
@@ -36272,6 +36276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_TR|
+|Sunmi|T3|T3|T3|
 |Sunmi|T3 PRO|T3_PRO|T3 PRO|
 |Sunmi|T3 PRO|T3_PRO|T3 Pro Max|
 |Sunmi|T3 PRO MAX|T3_PRO|T3 Pro Max|
@@ -45482,8 +45487,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET60|ET60|ET60|
 |Zebra|ET65|ET65|ET65|
 |Zebra|HC20|TC22|HC20|
+|Zebra|HC25|TC27|HC25|
 |Zebra|HC50|TC22|HC50|
 |Zebra|HC50|TC22|TC22|
+|Zebra|HC55|TC27-6490|HC55|
 |Zebra|KC50 Android™ Kiosk computers|KC50L|KC50|
 |Zebra|KC50 Android™ Kiosk computers|KC50S|KC50|
 |Zebra|MC18|MC18|MC18N0|
@@ -46563,6 +46570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PM116T|PM116T|PM116T|
 |onn.|PM116T_LTE|PM116T_LTE|PM116T_LTE|
 |onn.|PM82T|PM82T|PM82T|
+|onn.|PM82TW|PM82TW|PM82TW|
 |onn.|Tablet Gen 4|100135923|100135923|
 |onn.|Tablet Gen 4|100135925|100135925|
 |onn.|onn. 11  Tablet Pro|onn11TabletPro|100146660|
