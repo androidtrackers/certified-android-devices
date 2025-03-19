@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-18
+Last sync is 2025-03-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1057,6 +1057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airtel|XStream Smart Box|hsw4026atl|XStream_Smart_Box_001|
 |Airtel|XStream Smart Box|hsw4026atl|hsw4026atl|
 |Airtel|Xstream4_AR|VIP7220SIAI|Xstream4_AR|
+|Airtel|XstreamIPTV1|UIW4078ATL|XstreamIPTV1-VT|
 |Aiuto|AT1001|AT1001|AT1001|
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
@@ -2055,6 +2056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|SPACT101HD24G_EEA|act101hd24g|ARCHOS T101 HD2 4G|
 |Archos|SPACT105FHD4G_EEA|act105fhd4g|ARCHOS T105 FHD 4G|
 |Archos|SPACT105FHDWFUL_EEA|act105fhdwful|ARCHOS T105FHD WIFI ULTRA|
+|Archos|SPACT110FHD4GULTRA_EEA|ACT110FHD4GULTRA|ARCHOS T110 FHD 4G ULTRA|
 |Archos|SPAT101FHDW_EEA|at101fhdw|ARCHOS T101 FHD WiFi|
 |Archos|SPAZA101SOXUL_EEA|aza101soxul|Tikeasy 10d|
 |Archos|Smart Home Tablet|hometablet|Archos Smart Home Tablet|
@@ -6987,6 +6989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|DAEWOO|lavender|4K SMART TV|
 |Daewoo|DAEWOO|mountbaker|2K SMART TV|
 |Daewoo|DAEWOO|mountbaker|DAEWOO SMART TV|
+|Daewoo|DAEWOO AI SMART TV|beomil|DAEWOO AI SMART TV|
 |Daewoo|DAEWOO SMART TV|SW6H|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
@@ -16310,6 +16313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|G7060|G7060|G7060|
 |Iris|G7100|G7100|G7100|
 |Iris|G8060|G8060|G8060|
+|Iris|IRIS 2K SmartTV|beomil|IRIS 2K SmartTV|
 |Iris|IRIS 2K SmartTV|umeda|IRIS 2K SmartTV|
 |Iris|IRIS 4K Android TV|SW4H_FF|IRIS 4K Android TV|
 |Iris|IRIS 4K Smart TV Plus|anaheim|IRIS 4K Smart TV Plus|
@@ -21827,6 +21831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Marcel|EU|tamachi|MARCEL Android TV|
 |Marcel|EU|yeongdeungpo|MARCEL Android TV|
 |Marcel|EU、UK、AP|martin|MARCEL Android TV|
+|Marcel|MARCEL GSMART5.0 2KTV|beomil|MARCEL GSMART5.0 2KTV|
 |Marcel|Smart TV|mateo|2K US Smart TV|
 |MarkaTab|Markatab-1|Markatab-1|Markatab-1|
 |MarkaTab|Speadtrum|Speadtrum|Speadtrum|
@@ -28293,6 +28298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premier|TAB-7383-16G3GS|TAB-7383-16G3GS|TAB-7383-16G3GS|
 |Premier|TAB-7522-16G3G|TAB-7522-16G3G|TAB-7522-16G3G|
 |Premier|TAB-7769-32G4GS|TAB-7769-32G4GS|TAB-7769-32G4GS|
+|Premier|TAB-7887-32G3GB|TAB-7887-32G3GB|IT_701A|
 |Premier|TAB-7887-32G3GB|TAB-7887-32G3GB|TAB-7887-32G3GB|
 |Premier|TAB-7888-32G3GB|TAB-7888-32G3GB|TAB-7888-32G3GB|
 |Premio|185FT5050231|185FT5050231|185FT5050231|
@@ -30724,6 +30730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24H-4K NF|
 |SWTV|SWTV-24NA-4K|eleonas|SWTV-24NA-4K|
 |SWTV|SWTV-24NA-4K NF|eleonas|SWTV-24NA-4K NF|
+|SWTV|SWTV-24NA-FHD|beomil|SWTV-24NA-FHD|
 |SWTV|SWTV-24SA-4K|eleonas|SWTV-24SA-4K|
 |SWTV|SWTV-24SA-4K NF|eleonas|SWTV-24SA-4K NF|
 |SWTV|South America|SW3_ATV|SWTV|
@@ -40599,6 +40606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIVIMAGE|VIVIMAGE_E10|E10|E10|
 |VIVIMAGE|VIVIMAGE_E10_EEA|E10|E10_EEA|
 |VIVIMAGE|VIVIMAGE_E11|E11|VIVIMAGE_E11|
+|VIVITEK|BK3_TH3_series|rk3576_u|BK3_TH3_series|
 |VIVITEK|EK5_series|rk3576_u|EK5_series|
 |VIVITEK|NovoTouch|rk3588_t|EK4|
 |VIVIVIEW|V10|V10|V10|
@@ -42435,6 +42443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WALTON GSMART 4KTV|SW6H|WALTON GSMART 4KTV|
 |Walton|WALTON GSMART 4KTV FF|SW6H|WALTON GSMART 4KTV FF|
 |Walton|WALTON GSMART 4KTV FF|anaheim|WALTON GSMART 4KTV FF|
+|Walton|WALTON GSMART5.0 2KTV|beomil|WALTON GSMART5.0 2KTV|
 |Walton|WALTON GSMART5.0 4KTV|eleonas|WALTON GSMART5.0 4KTV|
 |Walton|WALTON GSMART5.0 4KTV FF|eleonas|WALTON GSMART5.0 4KTV FF|
 |Walton|WAS2KA11|IAD|WAS2KA11|
@@ -45490,6 +45499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|HC25|TC27|HC25|
 |Zebra|HC50|TC22|HC50|
 |Zebra|HC50|TC22|TC22|
+|Zebra|HC55|TC27|TC27|
 |Zebra|HC55|TC27-6490|HC55|
 |Zebra|KC50 Android™ Kiosk computers|KC50L|KC50|
 |Zebra|KC50 Android™ Kiosk computers|KC50S|KC50|
@@ -46756,7 +46766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
 |realme|realme P3 5G|RE608EL1|RMX5070|
 |realme|realme P3 Pro 5G|RE6079L1|RMX5032|
-|realme|realme P3 UItra 5G|RE60A4L1|RMX5030|
+|realme|realme P3 Ultra 5G|RE60A4L1|RMX5030|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad 2 Lite|RE6077L1|RMP2402|

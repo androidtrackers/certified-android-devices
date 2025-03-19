@@ -5577,6 +5577,11 @@
    "device": "VIP7220SIAI",
    "name": "Xstream4_AR",
    "model": "Xstream4_AR"
+  },
+  {
+   "device": "UIW4078ATL",
+   "name": "XstreamIPTV1",
+   "model": "XstreamIPTV1-VT"
   }
  ],
  "Aiuto": [
@@ -10671,6 +10676,11 @@
    "device": "act105fhdwful",
    "name": "SPACT105FHDWFUL_EEA",
    "model": "ARCHOS T105FHD WIFI ULTRA"
+  },
+  {
+   "device": "ACT110FHD4GULTRA",
+   "name": "SPACT110FHD4GULTRA_EEA",
+   "model": "ARCHOS T110 FHD 4G ULTRA"
   },
   {
    "device": "at101fhdw",
@@ -36191,6 +36201,11 @@
    "device": "mountbaker",
    "name": "DAEWOO",
    "model": "DAEWOO SMART TV"
+  },
+  {
+   "device": "beomil",
+   "name": "DAEWOO AI SMART TV",
+   "model": "DAEWOO AI SMART TV"
   },
   {
    "device": "SW6H",
@@ -84152,6 +84167,11 @@
    "model": "G8060"
   },
   {
+   "device": "beomil",
+   "name": "IRIS 2K SmartTV",
+   "model": "IRIS 2K SmartTV"
+  },
+  {
    "device": "umeda",
    "name": "IRIS 2K SmartTV",
    "model": "IRIS 2K SmartTV"
@@ -112455,6 +112475,11 @@
    "device": "martin",
    "name": "EU、UK、AP",
    "model": "MARCEL Android TV"
+  },
+  {
+   "device": "beomil",
+   "name": "MARCEL GSMART5.0 2KTV",
+   "model": "MARCEL GSMART5.0 2KTV"
   },
   {
    "device": "mateo",
@@ -145673,6 +145698,11 @@
   {
    "device": "TAB-7887-32G3GB",
    "name": "TAB-7887-32G3GB",
+   "model": "IT_701A"
+  },
+  {
+   "device": "TAB-7887-32G3GB",
+   "name": "TAB-7887-32G3GB",
    "model": "TAB-7887-32G3GB"
   },
   {
@@ -158322,6 +158352,11 @@
    "device": "eleonas",
    "name": "SWTV-24NA-4K NF",
    "model": "SWTV-24NA-4K NF"
+  },
+  {
+   "device": "beomil",
+   "name": "SWTV-24NA-FHD",
+   "model": "SWTV-24NA-FHD"
   },
   {
    "device": "eleonas",
@@ -208688,6 +208723,11 @@
  "VIVITEK": [
   {
    "device": "rk3576_u",
+   "name": "BK3_TH3_series",
+   "model": "BK3_TH3_series"
+  },
+  {
+   "device": "rk3576_u",
    "name": "EK5_series",
    "model": "EK5_series"
   },
@@ -218079,6 +218119,11 @@
    "device": "anaheim",
    "name": "WALTON GSMART 4KTV FF",
    "model": "WALTON GSMART 4KTV FF"
+  },
+  {
+   "device": "beomil",
+   "name": "WALTON GSMART5.0 2KTV",
+   "model": "WALTON GSMART5.0 2KTV"
   },
   {
    "device": "eleonas",
@@ -233662,6 +233707,11 @@
    "model": "TC22"
   },
   {
+   "device": "TC27",
+   "name": "HC55",
+   "model": "TC27"
+  },
+  {
    "device": "TC27-6490",
    "name": "HC55",
    "model": "HC55"
@@ -240339,7 +240389,7 @@
   },
   {
    "device": "RE60A4L1",
-   "name": "realme P3 UItra 5G",
+   "name": "realme P3 Ultra 5G",
    "model": "RMX5030"
   },
   {
