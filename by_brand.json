@@ -56093,6 +56093,11 @@
    "model": "P50"
   },
   {
+   "device": "P50",
+   "name": "P50",
+   "model": "Y101P"
+  },
+  {
    "device": "P80-EEA",
    "name": "P80-EEA",
    "model": "P80"
@@ -60733,6 +60738,11 @@
    "device": "E101",
    "name": "E101_EEA",
    "model": "E101"
+  },
+  {
+   "device": "H8",
+   "name": "H8",
+   "model": "H8"
   }
  ],
  "HYF(heyuefeng)": [
@@ -92753,6 +92763,11 @@
    "model": "KYT35"
   },
   {
+   "device": "KY24L-TB200",
+   "name": "DIGNO Tab2 5G",
+   "model": "A404KC"
+  },
+  {
    "device": "KYV42",
    "name": "DIGNO V",
    "model": "KYV42_u"
@@ -93410,6 +93425,11 @@
    "device": "Diagnostic_Tablet",
    "name": "Diagnostic_Tablet",
    "model": "AI_System_EN_P13_02"
+  },
+  {
+   "device": "Diagnostic_Tool",
+   "name": "Diagnostic_Tool",
+   "model": "AI_System_EN_P10_04"
   },
   {
    "device": "X-431PADVII",
@@ -136763,6 +136783,11 @@
    "device": "RMX1945",
    "name": "realme C2",
    "model": "RMX1945"
+  },
+  {
+   "device": "RE58BC",
+   "name": "realme C51",
+   "model": "RMX3830"
   },
   {
    "device": "RMX1831",
@@ -200645,6 +200670,11 @@
    "model": "TECNO CM7"
   },
   {
+   "device": "TECNO-CM8",
+   "name": "TECNO CAMON 40 Premier 5G",
+   "model": "TECNO CM8"
+  },
+  {
    "device": "TECNO-CM6",
    "name": "TECNO CAMON 40 Pro",
    "model": "TECNO CM6"
@@ -211910,13 +211940,6 @@
    "model": "Vitumi 10.1"
   }
  ],
- "Viture": [
-  {
-   "device": "Neckband_Pro",
-   "name": "V1231",
-   "model": "V1231"
-  }
- ],
  "Viumee": [
   {
    "device": "EV5",
@@ -214231,6 +214254,11 @@
    "device": "V2346",
    "name": "Y28s 5G",
    "model": "V2351"
+  },
+  {
+   "device": "V2446",
+   "name": "Y29s 5G",
+   "model": "V2446"
   },
   {
    "device": "2160",
@@ -240776,6 +240804,11 @@
    "device": "RE6022L1",
    "name": "真我Neo7",
    "model": "RMX5060"
+  },
+  {
+   "device": "RE6025L1",
+   "name": "真我Neo7 SE",
+   "model": "RMX5080"
   },
   {
    "device": "RE6024L1",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-19
+Last sync is 2025-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10779,6 +10779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
 |HISORL|P50|P50|P50|
+|HISORL|P50|P50|Y101P|
 |HISORL|P80-EEA|P80-EEA|P80|
 |HISORL|P80-ROW|P80-ROW|P80|
 |HISORL|T10P|T10P|T10P|
@@ -11699,6 +11700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUAVI|KHATAR H-20 PRO|KHATARH20PRO|KHATAR H-20 PRO|
 |HUAVI|SH_700|GOLD_77|GOLD_77|
 |HUGEROCK|E101_EEA|E101|E101|
+|HUGEROCK|H8|H8|H8|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPRO|S6|HYPRO_S6|HYPRO S6|
 |HYUNDAI_MAESTRO|HDT-7427GU|HDT-7427GU|HDT-7427GU|
@@ -17967,6 +17969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO Tab|KYT34|KYT34|
 |Kyocera|DIGNO Tab2 5G|KY24L-TB100|KC-T306|
 |Kyocera|DIGNO Tab2 5G|KY24L-TB100|KYT35|
+|Kyocera|DIGNO Tab2 5G|KY24L-TB200|A404KC|
 |Kyocera|DIGNO V|KYV42|KYV42_u|
 |Kyocera|DIGNO W|KYV40|KYV40U|
 |Kyocera|DIGNO WX|KC-S303|KC-S303|
@@ -18096,6 +18099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LARVAND|M863TabH8|M863TabH8|M863TabH8|
 |LARVAND|M863TabH8|M863TabH8|TabH8|
 |LAUNCH|Diagnostic_Tablet|Diagnostic_Tablet|AI_System_EN_P13_02|
+|LAUNCH|Diagnostic_Tool|Diagnostic_Tool|AI_System_EN_P10_04|
 |LAUNCH|X-431 PAD VII|X-431PADVII|AI System EN P133-01|
 |LAZOR|InfinityT10101|InfinityT10101|InfinityT10101|
 |LBQ (UK)|LbQ-F10v2|LbQ-F10v2|K102L|
@@ -26563,6 +26567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|realme C2|RMX1942|RMX1942|
 |Oppo|realme C2|RMX1943|RMX1943|
 |Oppo|realme C2|RMX1945|RMX1945|
+|Oppo|realme C51|RE58BC|RMX3830|
 |Oppo|realme U1|RMX1831|RMX1831|
 |Oppo|realme U1|RMX1833|RMX1833|
 |Oppo|realme X|RMX1901CN|RMX1901|
@@ -39067,6 +39072,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 30T|TECNO-Mobile-CLA6|TECNO Mobile CLA6|
 |Tecno|TECNO CAMON 40|TECNO-CM5|TECNO CM5|
 |Tecno|TECNO CAMON 40 5G|TECNO-CM7|TECNO CM7|
+|Tecno|TECNO CAMON 40 Premier 5G|TECNO-CM8|TECNO CM8|
 |Tecno|TECNO CAMON 40 Pro|TECNO-CM6|TECNO CM6|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -41220,7 +41226,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Visual Land|Prestige Prime11E|Prime11E|Prime11E|
 |Vitsmo|Zero Spin|Zero_Spin|Zero_Spin|
 |Vitumi|TV46410B01|TV46410B01|Vitumi 10.1|
-|Viture|V1231|Neckband_Pro|V1231|
 |Viumee|EV5|EV5|EV5|
 |Viumee|EV5 X|EV5_X|EV5 X|
 |Viumee|EV6|EV6|EV6|
@@ -41683,6 +41688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y28e 5G|V2346|V2407|
 |Vivo|Y28s 5G|V2346|V2346|
 |Vivo|Y28s 5G|V2346|V2351|
+|Vivo|Y29s 5G|V2446|V2446|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y300 5G|V2418|V2416|
 |Vivo|Y300 Plus 5G|V2422|V2422|
@@ -46844,6 +46850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT7 Pro|RE6018L1|RMX5010|
 |realme|真我GT7 Pro竞速版|RE602CL1|RMX5090|
 |realme|真我Neo7|RE6022L1|RMX5060|
+|realme|真我Neo7 SE|RE6025L1|RMX5080|
 |realme|真我Neo7x|RE6024L1|RMX5071|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
