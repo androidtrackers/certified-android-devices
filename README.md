@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-20
+Last sync is 2025-03-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12847,6 +12847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Vidaa|helium3|H7|
 |Hisense|Vision|Vision|Vision|
 |Hisense|Vision 2.5|vision2_5|vision2_5|
+|Hisense|VisionBoard|mt9679_u|WE3FE|
 |Hisense|W2|EG606_YE|W2|
 |Hisense|W270BD|W270BD|W270BD|
 |Hisense|WA912|U912ATW|WA912|
@@ -21103,6 +21104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC_L65|LOGIC_L65|LOGIC L65|
 |Logic Mobility|LOGIC_L66M|LOGIC_L66M|L66M|
 |Logic Mobility|LOGIC_L66M|LOGIC_L66M|LOGIC L66M|
+|Logic Mobility|LOGIC_T10L_PLUS|LOGIC_T10L_PLUS|LOGIC_T10L_PLUS|
 |Logic Mobility|LOGIC_T10M|LOGIC_T10M|LOGIC T10M|
 |Logic Mobility|LOGIC_X40|LOGIC_X40|X40|
 |Logic Mobility|LOGIC_X60G|LOGIC_X60G|LOGIC_X60G|
@@ -36777,6 +36779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9S|Tokyo_Lite|5107J|
 |TCL|TCL NXTPAPER 10s|Odin2|9081X|
 |TCL|TCL NXTPAPER 11|Eternals11|9466X|
+|TCL|TCL NXTPAPER 11 Plus|Bellona_WF_GL|9469X|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -41152,6 +41155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic||viewpad7|ViewPad7|
 |ViewSonic||viewpad7x|ViewPad7X|
 |ViewSonic||viewpad7x|ViewPad7x|
+|ViewSonic|IFP51_Series|IFP51|IFP51|
 |ViewSonic|IFP8652-2|IFP8652-2|IFP8652-2|
 |ViewSonic|IN02 series|IN02_series|IN02_series|
 |ViewSonic|IN03_Series|IN03|IN03|
@@ -41786,6 +41790,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Pad2|DPD2345|iPA2453|
 |Vivo|iQOO Pad2 Pro|DPD2329|iPA2475|
+|Vivo|iQOO Z10x|PD2445|V2445A|
+|Vivo|iQOO Z10x 5G|I2404|I2404|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|
@@ -41896,6 +41902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S19|PD2364|V2364A|
 |Vivo|vivo T2|PD2199|V2199GA|
 |Vivo|vivo T3 Pro 5G|V2404|V2404|
+|Vivo|vivo T4x 5G|V2437|V2437|
 |Vivo|vivo V50 Lite|V2441|V2441|
 |Vivo|vivo V50 Lite|V2441|V2453|
 |Vivo|vivo X Fold|PD2178|V2178A|
@@ -41942,6 +41949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y29 5G|V2420|V2420|
 |Vivo|vivo Y300|PD2435|V2435A|
 |Vivo|vivo Y300i|PD2444|V2444A|
+|Vivo|vivo Y300t|PD2445|V2445EA|
 |Vivo|vivo Y36c|PD2357|V2357A|
 |Vivo|vivo Y37|PD2357|V2357A|
 |Vivo|vivo Y37m|PD2357|V2357EA|
@@ -46839,6 +46847,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我13 Pro|RE601EL1|RMX5002|
 |realme|真我13 Pro+|RE5C49L1|RMX3920|
 |realme|真我13 Pro至尊版|RE5C49L1|RMX3989|
+|realme|真我14|RE6024L1|RMX5075|
+|realme|真我14 Pro|RE6020L1|RMX5055|
 |realme|真我14 Pro+|RE601FL1|RMX5050|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|

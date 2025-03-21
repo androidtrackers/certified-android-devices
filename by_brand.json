@@ -66569,6 +66569,11 @@
    "model": "vision2_5"
   },
   {
+   "device": "mt9679_u",
+   "name": "VisionBoard",
+   "model": "WE3FE"
+  },
+  {
    "device": "EG606_YE",
    "name": "W2",
    "model": "W2"
@@ -108633,6 +108638,11 @@
    "device": "LOGIC_L66M",
    "name": "LOGIC_L66M",
    "model": "LOGIC L66M"
+  },
+  {
+   "device": "LOGIC_T10L_PLUS",
+   "name": "LOGIC_T10L_PLUS",
+   "model": "LOGIC_T10L_PLUS"
   },
   {
    "device": "LOGIC_T10M",
@@ -188985,6 +188995,11 @@
    "model": "9466X"
   },
   {
+   "device": "Bellona_WF_GL",
+   "name": "TCL NXTPAPER 11 Plus",
+   "model": "9469X"
+  },
+  {
    "device": "T1",
    "name": "TCL PLEX",
    "model": "T780H"
@@ -211546,6 +211561,11 @@
    "model": "ViewPad7x"
   },
   {
+   "device": "IFP51",
+   "name": "IFP51_Series",
+   "model": "IFP51"
+  },
+  {
    "device": "IFP8652-2",
    "name": "IFP8652-2",
    "model": "IFP8652-2"
@@ -214746,6 +214766,16 @@
    "model": "iPA2475"
   },
   {
+   "device": "PD2445",
+   "name": "iQOO Z10x",
+   "model": "V2445A"
+  },
+  {
+   "device": "I2404",
+   "name": "iQOO Z10x 5G",
+   "model": "I2404"
+  },
+  {
    "device": "2018",
    "name": "iQOO Z5",
    "model": "I2018"
@@ -215296,6 +215326,11 @@
    "model": "V2404"
   },
   {
+   "device": "V2437",
+   "name": "vivo T4x 5G",
+   "model": "V2437"
+  },
+  {
    "device": "V2441",
    "name": "vivo V50 Lite",
    "model": "V2441"
@@ -215524,6 +215559,11 @@
    "device": "PD2444",
    "name": "vivo Y300i",
    "model": "V2444A"
+  },
+  {
+   "device": "PD2445",
+   "name": "vivo Y300t",
+   "model": "V2445EA"
   },
   {
    "device": "PD2357",
@@ -240749,6 +240789,16 @@
    "device": "RE5C49L1",
    "name": "真我13 Pro至尊版",
    "model": "RMX3989"
+  },
+  {
+   "device": "RE6024L1",
+   "name": "真我14",
+   "model": "RMX5075"
+  },
+  {
+   "device": "RE6020L1",
+   "name": "真我14 Pro",
+   "model": "RMX5055"
   },
   {
    "device": "RE601FL1",
