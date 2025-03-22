@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-21
+Last sync is 2025-03-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -409,6 +409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AVITA|T101|T101|T101|
 |AVITA|TS11A1|TS11A1|TS11A1|
 |AVOCOR|A_Series|A_Series|A_Series|
+|AVOCOR|Commercial_Display|S_Series|S_Series|
 |AWOW|AWOW_CreaPad_1001|AWOW_CreaPad_1001|AWOW_CreaPad_1001|
 |AWOW|AWOW_CreaPad_1003|AWOW_CreaPad_1003_EEA|AWOW_CreaPad_1003_EEA|
 |AWOW|CQA1019_EEA|CQA1019_EEA|CQA1019_EEA|
@@ -1682,6 +1683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|EP1095T_EEA|EP1095T|A30|
 |Apolosign|EP1095T_EEA|EP1095T|EP1095T|
 |Apolosign|EP1095T_EEA|EP1095T|EP1095T_EEA|
+|Apolosign|EP1095_T_EEA|EP1095_T_EEA|EP1095_T_EEA|
 |Apolosign|K109A|K109A|K109A|
 |Apolosign|K109_Pro|K109_Pro|K109_Pro|
 |Apolosign|K709A|K709A|K709A|
@@ -15445,6 +15447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|LUCA Tablet TM152|TM152M4|TM152|
 |IRIS_OHYAMA|LUCA Tablet TM152|TM152M8|TM152|
 |IRIS_OHYAMA|R4|R4|R4|
+|IRIS_OHYAMA|TA10E1W63|TA10E1W63|TA10E1W63|
 |IRIS_OHYAMA|TE082M2|Luna|TE082M2|
 |IRIS_OHYAMA|TE083M3|TE083M3|TE083|
 |IRIS_OHYAMA|TE084|TE084|TE084|
@@ -15807,6 +15810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 50|Infinix-X6858|Infinix X6858|
 |Infinix|NOTE 50 Pro|Infinix-X6855|Infinix X6855|
 |Infinix|NOTE 50 Pro+ 5G|Infinix-X6856|Infinix X6856|
+|Infinix|NOTE 50X 5G|Infinix-X6857B|Infinix X6857B|
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
@@ -16917,6 +16921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jooyon|J210A|J210A|J210A|
 |Jooyon|Q27CMA11|Q27CMA11|Q27CMA11|
 |Jooyon|UHD Android TV|sindorim|AI PONT|
+|JoyStar|J6|J6|Joystar J6|
 |JoyStar|JoyStar_J10|JoyStar_J10|JoyStar_J10|
 |Jumper|EZpad_M10S|EZpad_M10S|EZpad M10S|
 |Jumper|EZpad_M10S_ROW|EZpad_M10S_ROW|EZpad M10S|
@@ -30233,6 +30238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SENRAISE|H10|H10|H10|
 |SENRAISE|H10_EEA|H10|H10|
 |SENSE|TW102|TW102|TW102|
+|SENSES|XXIP1000|SE_9679|SE_9679|
 |SENSETALK|ACM-T01K|ACM-T01K|ACM-T01K|
 |SENSONICS|K3C_7570|K3C|K3C_7570|
 |SERVO|P20|P20|P20|
@@ -30384,6 +30390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOWLY|AG_1088_A523P|AG_1088_A523P|AG_1088_A523P|
 |SPC|DISCOVERY_2_EEA|DISCOVERY_2|DISCOVERY_2|
 |SPC|DISCOVERY_2_ME_EEA|DISCOVERY_2_ME|DISCOVERY_2_ME|
+|SPC|DISCOVERY_3|DISCOVERY_3|DISCOVERY 3|
 |SPC|DISCOVERY_3_PRO_EEA|DISCOVERY_3_PRO|DISCOVERY 3 PRO|
 |SPC|Discovery|Discovery|Discovery|
 |SPC|Discovery Pro|Discovery_Pro|Discovery Pro|
@@ -34779,6 +34786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sirin|FINNEY PHONE|SR00300-W|FINNEY U1|
 |Sirin|LABS SOLARIN|solarin|SOLARIN|
 |Sirin|LABS SOLARIN|solarin|Solarin|
+|Siyata|SD7_Ultra_S|SD7_Ultra_S|Calgary|
 |Sky (CH)|Elite A6|Elite_A6|Elite A6|
 |Sky (CH)|Elite C55|Elite_C55USA|Elite C55|
 |Sky (CH)|Elite N55Max|Elite_N55Max|Elite N55Max|
@@ -45455,6 +45463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTLEKE|P10MAX|P10MAX|P10MAX|
 |ZTLEKE|P10PRO|P10PRO|P10PRO|
 |ZTLEKE|S8Plus|S8Plus|S8Plus|
+|ZTLEKE|S8Plus2|S8Plus2|S8Plus2|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |ZULEISY|E8A|E8A|E8A|
@@ -46589,6 +46598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100135924|mid7021_mq|100135924|
 |onn.|M17QF21W|M17QF21W|M17QF21W|
 |onn.|MID8016|mid8016_mk_32|MID8016|
+|onn.|PK76A|PK76A|PK76A|
 |onn.|PM1042T-W|PM1042T-W|PM1042T-W|
 |onn.|PM1042TW|PM1042TW|PM1042TW|
 |onn.|PM116T|PM116T|PM116T|

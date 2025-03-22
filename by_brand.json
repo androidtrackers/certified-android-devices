@@ -2235,6 +2235,11 @@
    "device": "A_Series",
    "name": "A_Series",
    "model": "A_Series"
+  },
+  {
+   "device": "S_Series",
+   "name": "Commercial_Display",
+   "model": "S_Series"
   }
  ],
  "AWOW": [
@@ -8798,6 +8803,11 @@
    "device": "EP1095T",
    "name": "EP1095T_EEA",
    "model": "EP1095T_EEA"
+  },
+  {
+   "device": "EP1095_T_EEA",
+   "name": "EP1095_T_EEA",
+   "model": "EP1095_T_EEA"
   },
   {
    "device": "K109A",
@@ -79709,6 +79719,11 @@
    "model": "R4"
   },
   {
+   "device": "TA10E1W63",
+   "name": "TA10E1W63",
+   "model": "TA10E1W63"
+  },
+  {
    "device": "Luna",
    "name": "TE082M2",
    "model": "TE082M2"
@@ -81579,6 +81594,11 @@
    "device": "Infinix-X6856",
    "name": "NOTE 50 Pro+ 5G",
    "model": "Infinix X6856"
+  },
+  {
+   "device": "Infinix-X6857B",
+   "name": "NOTE 50X 5G",
+   "model": "Infinix X6857B"
   },
   {
    "device": "Infinix-X690",
@@ -87278,6 +87298,11 @@
   }
  ],
  "JoyStar": [
+  {
+   "device": "J6",
+   "name": "J6",
+   "model": "Joystar J6"
+  },
   {
    "device": "JoyStar_J10",
    "name": "JoyStar_J10",
@@ -155727,6 +155752,13 @@
    "model": "TW102"
   }
  ],
+ "SENSES": [
+  {
+   "device": "SE_9679",
+   "name": "XXIP1000",
+   "model": "SE_9679"
+  }
+ ],
  "SENSETALK": [
   {
    "device": "ACM-T01K",
@@ -156554,6 +156586,11 @@
    "device": "DISCOVERY_2_ME",
    "name": "DISCOVERY_2_ME_EEA",
    "model": "DISCOVERY_2_ME"
+  },
+  {
+   "device": "DISCOVERY_3",
+   "name": "DISCOVERY_3",
+   "model": "DISCOVERY 3"
   },
   {
    "device": "DISCOVERY_3_PRO",
@@ -178739,6 +178776,13 @@
    "device": "solarin",
    "name": "LABS SOLARIN",
    "model": "Solarin"
+  }
+ ],
+ "Siyata": [
+  {
+   "device": "SD7_Ultra_S",
+   "name": "SD7_Ultra_S",
+   "model": "Calgary"
   }
  ],
  "Sky (CH)": [
@@ -233465,6 +233509,11 @@
    "device": "S8Plus",
    "name": "S8Plus",
    "model": "S8Plus"
+  },
+  {
+   "device": "S8Plus2",
+   "name": "S8Plus2",
+   "model": "S8Plus2"
   }
  ],
  "ZUKU": [
@@ -239485,6 +239534,11 @@
    "device": "mid8016_mk_32",
    "name": "MID8016",
    "model": "MID8016"
+  },
+  {
+   "device": "PK76A",
+   "name": "PK76A",
+   "model": "PK76A"
   },
   {
    "device": "PM1042T-W",
