@@ -3,13 +3,19 @@
 
 import difflib
 import json
+import sys
 from datetime import date
 from os import rename, path, system, environ
 from time import sleep
 from requests import get, post
 
-GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
-BOT_TOKEN = environ['BOTTOKEN']
+GIT_OAUTH_TOKEN = environ.get('GIT_OAUTH_TOKEN_XFU', '')
+BOT_TOKEN = environ.get('BOTTOKEN', '')
+
+LOCAL_MODE = '--local' in sys.argv or not GIT_OAUTH_TOKEN or not BOT_TOKEN
+if LOCAL_MODE:
+    print("Running in local mode - no GitHub or Telegram updates will be performed")
+
 TODAY = str(date.today())
 
 BY_DEVICE = {}
@@ -183,8 +189,9 @@ def main():
     data_list = fetch()
     save_data(data_list)
     diff_files()
-    post_to_tg()
-    git_commit_push()
+    if not LOCAL_MODE:
+        post_to_tg()
+        git_commit_push()
 
 
 if __name__ == '__main__':
