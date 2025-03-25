@@ -3,13 +3,31 @@
 
 import difflib
 import json
+import sys
 from datetime import date
 from os import rename, path, system, environ
 from time import sleep
 from requests import get, post
 
-GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
-BOT_TOKEN = environ['BOTTOKEN']
+# Check for --local argument
+LOCAL_MODE = '--local' in sys.argv
+
+# Use environment variables or dummy tokens based on local mode
+if LOCAL_MODE:
+    GIT_OAUTH_TOKEN = 'dummy_token'
+    BOT_TOKEN = 'dummy_token'
+    print("Running in local mode - no GitHub or Telegram updates will be performed")
+else:
+    # Use environment variables if available, otherwise default to local mode
+    try:
+        GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
+        BOT_TOKEN = environ['BOTTOKEN']
+    except KeyError:
+        print("Warning: Required environment variables not found. Running in local mode.")
+        LOCAL_MODE = True
+        GIT_OAUTH_TOKEN = 'dummy_token'
+        BOT_TOKEN = 'dummy_token'
+
 TODAY = str(date.today())
 
 BY_DEVICE = {}
@@ -134,6 +152,11 @@ def post_to_tg():
     """
     post new devices to telegram channel
     """
+    # Skip if running in local mode
+    if LOCAL_MODE:
+        print("Skipping Telegram notifications (local mode)")
+        return
+        
     # tg
     telegram_chat = "@CertifiedAndroidDevices"
     with open('changes', 'r', encoding="utf-8") as changes:
@@ -172,6 +195,11 @@ def git_commit_push():
     """
     git add - git commit - git push
     """
+    # Skip if running in local mode
+    if LOCAL_MODE:
+        print("Skipping Git push (local mode)")
+        return
+        
     system("git add README.md *.json && git -c \"user.name=XiaomiFirmwareUpdater\" "
            "-c \"user.email=xiaomifirmwareupdater@gmail.com\" "
            "commit -m \"[skip ci] sync: {0}\" && "" \
