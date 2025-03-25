@@ -47,10 +47,10 @@ def save_data(data_list):
     for line in data_list[1:]:
         i = line.strip().split(",")
         try:
-            brand = i[0].strip()
-            name = i[1].strip()
-            device = i[2].strip()
-            model = i[3].strip()
+            brand = i[0].strip().strip('"')
+            name = i[1].strip().strip('"')
+            device = i[2].strip().strip('"')
+            model = i[3].strip().strip('"')
             markdown.write('|{}|{}|{}|{}|\n'.format(brand, name, device, model))
             add_device(brand, name, device, model)
             add_model(brand, name, device, model)
