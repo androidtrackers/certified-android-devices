@@ -40,13 +40,15 @@ def save_data(data_list):
             add_name(brand, name, device, model)
         except IndexError:
             pass
-    with open("by_device.json", "w") as json_file:
+    
+    # Explicitly specify UTF-8 encoding for all JSON files
+    with open("by_device.json", "w", encoding="utf-8") as json_file:
         json.dump(BY_DEVICE, json_file, indent=1, ensure_ascii=False)
-    with open("by_model.json", "w") as json_file:
+    with open("by_model.json", "w", encoding="utf-8") as json_file:
         json.dump(BY_MODEL, json_file, indent=1, ensure_ascii=False)
-    with open("by_brand.json", "w") as json_file:
+    with open("by_brand.json", "w", encoding="utf-8") as json_file:
         json.dump(BY_BRAND, json_file, indent=1, ensure_ascii=False)
-    with open("by_name.json", "w") as json_file:
+    with open("by_name.json", "w", encoding="utf-8") as json_file:
         json.dump(BY_NAME, json_file, indent=1, ensure_ascii=False)
 
 
@@ -117,14 +119,14 @@ def diff_files():
     """
     diff
     """
-    with open('old.md', 'r') as old, open('README.md', 'r') as new:
+    with open('old.md', 'r', encoding="utf-8") as old, open('README.md', 'r', encoding="utf-8") as new:
         diff = difflib.unified_diff(old.readlines(), new.readlines(), fromfile='old', tofile='new')
         changes = []
         for line in diff:
             if line.startswith('+'):
                 changes.append(str(line))
     new = ''.join(changes[2:]).replace("+", "")
-    with open('changes', 'w') as out:
+    with open('changes', 'w', encoding="utf-8") as out:
         out.write(new)
 
 
@@ -134,32 +136,36 @@ def post_to_tg():
     """
     # tg
     telegram_chat = "@CertifiedAndroidDevices"
-    with open('changes', 'r') as changes:
+    with open('changes', 'r', encoding="utf-8") as changes:
         for line in changes:
             info = line.split("|")
-            brand = info[1]
-            name = info[2]
-            codename = info[3]
-            model = info[4]
-            telegram_message = f"New certified device added!: \n" \
-                               f"Brand: *{brand}*\n" \
-                               f"Name: *{name}*\n" \
-                               f"*Codename:* `{codename}`\n" \
-                               f"Model: *{model}*"
-            params = (
-                ('chat_id', telegram_chat),
-                ('text', telegram_message),
-                ('parse_mode', "Markdown"),
-                ('disable_web_page_preview', "yes")
-            )
-            telegram_url = "https://api.telegram.org/bot" + BOT_TOKEN + "/sendMessage"
-            telegram_req = post(telegram_url, params=params)
-            telegram_status = telegram_req.status_code
-            if telegram_status == 200:
-                print("{0}: Telegram Message sent".format(name))
-            else:
-                print("Telegram Error")
-            sleep(3)
+            try:
+                brand = info[1]
+                name = info[2]
+                codename = info[3]
+                model = info[4]
+                telegram_message = f"New certified device added!: \n" \
+                                  f"Brand: *{brand}*\n" \
+                                  f"Name: *{name}*\n" \
+                                  f"*Codename:* `{codename}`\n" \
+                                  f"Model: *{model}*"
+                params = (
+                    ('chat_id', telegram_chat),
+                    ('text', telegram_message),
+                    ('parse_mode', "Markdown"),
+                    ('disable_web_page_preview', "yes")
+                )
+                telegram_url = "https://api.telegram.org/bot" + BOT_TOKEN + "/sendMessage"
+                telegram_req = post(telegram_url, params=params)
+                telegram_status = telegram_req.status_code
+                if telegram_status == 200:
+                    print(f"{name}: Telegram Message sent")
+                else:
+                    print("Telegram Error")
+                sleep(3)
+            except IndexError:
+                # Skip malformed lines
+                continue
 
 
 def git_commit_push():
@@ -178,11 +184,31 @@ def main():
     """
     certified-android-devices tracker
     """
+    # Check if README.md exists and prepare for diff
     if path.exists('README.md'):
+        # If old.md already exists, remove it
+        if path.exists('old.md'):
+            from os import remove
+            remove('old.md')
+        # Now rename README.md to old.md
         rename('README.md', 'old.md')
+    else:
+        # Create an empty old.md file if README.md doesn't exist yet
+        # This avoids diff errors on first run
+        with open('old.md', 'w', encoding="utf-8") as f:
+            f.write('# Google Play Certified Android devices\n')
+
     data_list = fetch()
     save_data(data_list)
-    diff_files()
+    
+    # Only run diff if old.md exists
+    if path.exists('old.md'):
+        diff_files()
+    else:
+        # Create empty changes file
+        with open('changes', 'w', encoding="utf-8") as f:
+            pass
+            
     post_to_tg()
     git_commit_push()
 
