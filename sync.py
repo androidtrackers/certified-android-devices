@@ -27,7 +27,7 @@ def save_data(data_list):
     markdown.write('|Retail Branding|Marketing Name|Device|Model|\n')
     markdown.write('|---|---|---|---|\n')
     for line in data_list[1:]:
-        i = line.strip().split(",")
+        i = line.strip().replace('"', '').split(",")
         try:
             brand = i[0].strip()
             name = i[1].strip()
