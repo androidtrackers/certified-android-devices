@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-28
+Last sync is 2025-03-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5781,6 +5781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini|
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini_Module|
 |Clevertouch|IMPACT Lux|rk3588_t|Impact_Lux_Display|
+|Clevertouch|Pro_Series_3|rk3576_u|Pro_Series_3_Display|
 |Clevertouch|UX Pro Edge|rk3588_t|UX_Pro_Edge_Display|
 |Clevertouch|X5|MT9679|X5_Display|
 |Click|M9021G|M9021G|M9021G|
@@ -8605,6 +8606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Engel|ENGEL|bangbae|Engel 4K Android TV|
 |Engel|Smart TV|mateo|2K PA Smart TV|
 |Engel|Smart TV|osaki|2K AI Smart TV|
+|Englaon|ENGLAON|elliniko|ENGLAON 4K GOOGLE TV|
 |Englaon|ENGLAON|mountbaker|2K SMART TV|
 |Englaon|ENGLAON|stanford|2K SMART TV|
 |Enspert||E-TAB|E-TAB|
@@ -17362,6 +17364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|MITSUKI|lavender|4K SMART TV|
+|KTCtv|MULTISMART|elliniko|4K SMART TV|
 |KTCtv|MULTISMART|lavender|4K SMART TV|
 |KTCtv|MULTISMART|mountbaker|2K SMART TV|
 |KTCtv|NA|stanford|40DNA|
@@ -31260,6 +31263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A36 5G|a36xq|SM-A3660|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366B|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366E|
+|Samsung|Galaxy A36 5G|a36xq|SM-A366N|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366U|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366U1|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366W|

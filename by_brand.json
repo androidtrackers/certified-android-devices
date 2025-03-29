@@ -29953,6 +29953,11 @@
    "model": "Impact_Lux_Display"
   },
   {
+   "device": "rk3576_u",
+   "name": "Pro_Series_3",
+   "model": "Pro_Series_3_Display"
+  },
+  {
    "device": "rk3588_t",
    "name": "UX Pro Edge",
    "model": "UX_Pro_Edge_Display"
@@ -44666,6 +44671,11 @@
   }
  ],
  "Englaon": [
+  {
+   "device": "elliniko",
+   "name": "ENGLAON",
+   "model": "ENGLAON 4K GOOGLE TV"
+  },
   {
    "device": "mountbaker",
    "name": "ENGLAON",
@@ -89599,6 +89609,11 @@
   {
    "device": "lavender",
    "name": "MITSUKI",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "MULTISMART",
    "model": "4K SMART TV"
   },
   {
@@ -161040,6 +161055,11 @@
    "device": "a36xq",
    "name": "Galaxy A36 5G",
    "model": "SM-A366E"
+  },
+  {
+   "device": "a36xq",
+   "name": "Galaxy A36 5G",
+   "model": "SM-A366N"
   },
   {
    "device": "a36xq",
