@@ -81649,6 +81649,11 @@
    "model": "Infinix X605"
   },
   {
+   "device": "Infinix-X6870",
+   "name": "Infinix NOTE 50S 5G",
+   "model": "Infinix X6870"
+  },
+  {
    "device": "Infinix-X656",
    "name": "Infinix NOTE 7 Lite",
    "model": "Infinix X656"
@@ -117818,6 +117823,11 @@
    "device": "barking",
    "name": "MTJ-X43FLS",
    "model": "Miramage Smart Display"
+  },
+  {
+   "device": "surface",
+   "name": "Miramage Google TV",
+   "model": "Smart TV"
   },
   {
    "device": "beaudry",
@@ -159008,6 +159018,11 @@
    "device": "eleonas",
    "name": "SWTV-24HK-4K NF",
    "model": "SWTV-24H-4K NF"
+  },
+  {
+   "device": "eleonas",
+   "name": "SWTV-24HK-4K NF",
+   "model": "SWTV-24HK-4K NF"
   },
   {
    "device": "eleonas",

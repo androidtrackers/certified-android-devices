@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-03-30
+Last sync is 2025-03-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15819,6 +15819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
+|Infinix|Infinix NOTE 50S 5G|Infinix-X6870|Infinix X6870|
 |Infinix|Infinix NOTE 7 Lite|Infinix-X656|Infinix X656|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
@@ -22872,6 +22873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mirage|MI-SO-81T|MI-SO-81T|MI-SO-81T|
 |Miramage|MF3D2211|MF3D2211|MF3D2211|
 |Miramage|MTJ-X43FLS|barking|Miramage Smart Display|
+|Miramage|Miramage Google TV|surface|Smart TV|
 |Miramage|Miramage Smart Display|beaudry|Miramage Smart Display|
 |Miramage|TV3223HDA11SMARTG|beaudry|Miramage AndroidTV|
 |Miramage|TV5023UHDA11SMARTG|barking|Miramage AndroidTV|
@@ -30858,6 +30860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-24AE-FHD|beomil|SWTV-24AE-FHD|
 |SWTV|SWTV-24HK-4K|eleonas|SWTV-24H-4K|
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24H-4K NF|
+|SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24HK-4K NF|
 |SWTV|SWTV-24NA-4K|eleonas|SWTV-24NA-4K|
 |SWTV|SWTV-24NA-4K NF|eleonas|SWTV-24NA-4K NF|
 |SWTV|SWTV-24NA-FHD|beomil|SWTV-24NA-FHD|
