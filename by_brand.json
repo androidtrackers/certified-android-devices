@@ -13546,6 +13546,11 @@
    "model": "P022"
   },
   {
+   "device": "dahu",
+   "name": "dahu",
+   "model": "M1G"
+  },
+  {
    "device": "ASUS_X003",
    "name": "飛馬 (T500KLC)",
    "model": "ASUS_X003"
@@ -85999,6 +86004,11 @@
    "model": "itel A671LC"
   },
   {
+   "device": "itel-A6610L",
+   "name": "itel A90",
+   "model": "itel A6610L"
+  },
+  {
    "device": "itel-A671N",
    "name": "itel A95 5G",
    "model": "itel A671N"
@@ -86492,6 +86502,11 @@
    "device": "rk3588_t",
    "name": "Flagship model",
    "model": "LEDxxH16S"
+  },
+  {
+   "device": "mt9679_u",
+   "name": "H10S_PRO-Series",
+   "model": "LEDxxH10S_PRO"
   }
  ],
  "JAY-TECH": [
@@ -111718,6 +111733,11 @@
    "device": "M6501B",
    "name": "M6501B",
    "model": "M6501"
+  },
+  {
+   "device": "M707",
+   "name": "M707",
+   "model": "M707"
   },
   {
    "device": "M761",
@@ -140175,6 +140195,11 @@
    "model": "2310FPCA4G"
   },
   {
+   "device": "serenity",
+   "name": "POCO C71",
+   "model": "25028PC03G"
+  },
+  {
    "device": "lake",
    "name": "POCO C75",
    "model": "2410FPCC5G"
@@ -153701,6 +153726,21 @@
    "model": "24116RNC1I"
   },
   {
+   "device": "serenity",
+   "name": "Redmi A5",
+   "model": "25028RN03A"
+  },
+  {
+   "device": "serenity",
+   "name": "Redmi A5",
+   "model": "25028RN03L"
+  },
+  {
+   "device": "serenity",
+   "name": "Redmi A5",
+   "model": "25028RN03Y"
+  },
+  {
    "device": "davinci",
    "name": "Redmi K20",
    "model": "Mi 9T"
@@ -155047,6 +155087,11 @@
   {
    "device": "TAB10_EEA",
    "name": "TAB10_EEA",
+   "model": "TAB10"
+  },
+  {
+   "device": "TAB10_EU",
+   "name": "TAB10_EU",
    "model": "TAB10"
   },
   {
@@ -156883,6 +156928,11 @@
    "device": "COOL2",
    "name": "COOL2",
    "model": "COOL2"
+  },
+  {
+   "device": "DREAM2",
+   "name": "DREAM2",
+   "model": "DREAM2"
   }
  ],
  "SINAL": [
@@ -160967,6 +161017,11 @@
    "device": "a26x",
    "name": "Galaxy A26 5G",
    "model": "SM-S266V"
+  },
+  {
+   "device": "a26xs",
+   "name": "Galaxy A26 5G",
+   "model": "SM-A266M"
   },
   {
    "device": "a33g",
@@ -172292,6 +172347,56 @@
    "device": "klimtwifi",
    "name": "Galaxy Tab S 8.4",
    "model": "SM-T700"
+  },
+  {
+   "device": "gts10fewifi",
+   "name": "Galaxy Tab S10 FE",
+   "model": "SM-X520"
+  },
+  {
+   "device": "gts10fe",
+   "name": "Galaxy Tab S10 FE 5G",
+   "model": "SM-X526B"
+  },
+  {
+   "device": "gts10fe",
+   "name": "Galaxy Tab S10 FE 5G",
+   "model": "SM-X526C"
+  },
+  {
+   "device": "gts10fe",
+   "name": "Galaxy Tab S10 FE 5G",
+   "model": "SM-X526E"
+  },
+  {
+   "device": "gts10fe",
+   "name": "Galaxy Tab S10 FE 5G",
+   "model": "SM-X526N"
+  },
+  {
+   "device": "gts10fe",
+   "name": "Galaxy Tab S10 FE 5G",
+   "model": "SM-X528U"
+  },
+  {
+   "device": "gts10fepwifi",
+   "name": "Galaxy Tab S10 FE+",
+   "model": "SM-X620"
+  },
+  {
+   "device": "gts10fep",
+   "name": "Galaxy Tab S10 FE+ 5G",
+   "model": "SM-X626B"
+  },
+  {
+   "device": "gts10fep",
+   "name": "Galaxy Tab S10 FE+ 5G",
+   "model": "SM-X626C"
+  },
+  {
+   "device": "gts10fep",
+   "name": "Galaxy Tab S10 FE+ 5G",
+   "model": "SM-X626N"
   },
   {
    "device": "gts10uwifi",
@@ -209791,6 +209896,13 @@
    "model": "Z11MK"
   }
  ],
+ "VIRSA": [
+  {
+   "device": "VIRSAE25",
+   "name": "Interactive_Flat_Panel",
+   "model": "VIRSAE25"
+  }
+ ],
  "VISIO": [
   {
    "device": "SW4H",
@@ -216423,6 +216535,16 @@
    "model": "V2453"
   },
   {
+   "device": "V2440",
+   "name": "vivo V50 Lite 5G",
+   "model": "V2440"
+  },
+  {
+   "device": "V2440",
+   "name": "vivo V50 Lite 5G",
+   "model": "V2450"
+  },
+  {
    "device": "V2428",
    "name": "vivo V50e",
    "model": "V2428"
@@ -216466,6 +216588,11 @@
    "device": "PD2415",
    "name": "vivo X200",
    "model": "V2415A"
+  },
+  {
+   "device": "V2415",
+   "name": "vivo X200",
+   "model": "V2415"
   },
   {
    "device": "PD2419",
@@ -223996,6 +224123,11 @@
    "device": "xuanyuan",
    "name": "Xiaomi 15 Ultra",
    "model": "25010PN30G"
+  },
+  {
+   "device": "xuanyuan",
+   "name": "Xiaomi 15 Ultra",
+   "model": "25010PN30I"
   },
   {
    "device": "xuanyuan",
@@ -233874,6 +234006,11 @@
    "model": "Z2357N"
   },
   {
+   "device": "P780F03",
+   "name": "ZTE Blade A76 5G",
+   "model": "Z2469N"
+  },
+  {
    "device": "P662F02",
    "name": "ZTE Blade A7s",
    "model": "ZTE Blade A7s"
@@ -240861,13 +240998,13 @@
   },
   {
    "device": "RE6054",
-   "name": "RMX3933",
-   "model": "RMX3933"
+   "name": "RMX3930",
+   "model": "RMX3930"
   },
   {
    "device": "RE6054",
-   "name": "RMX3939",
-   "model": "RMX3939"
+   "name": "RMX3933",
+   "model": "RMX3933"
   },
   {
    "device": "RE606B",
@@ -241417,7 +241554,7 @@
   {
    "device": "RE6054",
    "name": "realme C61",
-   "model": "RMX3930"
+   "model": "RMX3939"
   },
   {
    "device": "RE6054",
@@ -242484,6 +242621,11 @@
    "model": "SKWAMX3"
   },
   {
+   "device": "HP4CE-Truevisions",
+   "name": "SKWAMX5M",
+   "model": "SKWAMX5M"
+  },
+  {
    "device": "TV_A01",
    "name": "STI6030_TRUE_TV_A01",
    "model": "STI6030_TRUE_TV_A01"
@@ -242539,6 +242681,11 @@
   {
    "device": "ugeeDT120QH",
    "name": "DT120QH_EEA",
+   "model": "DT120QH"
+  },
+  {
+   "device": "ugeeDT120QH",
+   "name": "DT120QH_In",
    "model": "DT120QH"
   },
   {
