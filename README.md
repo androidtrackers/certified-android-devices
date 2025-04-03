@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-02
+Last sync is 2025-04-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -207,6 +207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
 |AGNO|TAIG717A|TAIG717A|TA_G717|
 |AG_Neovo|MeetBoard_4|MeetBoard_4|MeetBoard_4|
+|AHA(A)|AHA_IFPD|AHA_ULTRA_RK3576|Hybrid_8700|
 |AHA(A)|IFPD|AHA_ULTRA_RK3588|Hybrid_8600|
 |AIDATA|ADT-R10TME|ADT-R10TME|ADT-R10TME|
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
@@ -526,6 +527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acepad|A171_14|A171_14|A171|
 |Acepad|A171_14|A171_14|A171_14|
 |Acepad|AX1|AX1|AX1|
+|Acepad|Acepad_HIGH_EEA|Acepad_HIGH_EEA|Acepad HIGH|
 |Acer||C6|Acer E320|
 |Acer||C6|Acer E320-orange|
 |Acer||C7|E330|
@@ -5470,6 +5472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Challenger|R3|R3|R3|
 |Challenger|R4|R4|R4|
 |Challenger|Smart TV|osaki|2K AI Smart TV|
+|Challenger|challenger|elliniko|4K SMART TV|
 |Challenger|challenger|stanford|40DCOL|
 |Challenger|challenger|zhongshan|43FCOL|
 |Chameleon|Chameleon-H|Chameleon-H|E9XG-A05-M|
@@ -10838,6 +10841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEATZ|Z9910A|Z9910A|Z9910|
 |HEATZ|Z9950|Z9950|Z9950|
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
+|HELLCAT|TAB8-1|TAB8-1|TAB8|
 |HEROFUN|BH502G|BH502G|BH502G|
 |HIGRACE|G15|G15|G15|
 |HIGRACE|G15_EEA|G15|G15|
@@ -16870,6 +16874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bruno|JVC PA 2K Android TV|
 |JVC|JVC|bruno|JVC UK 2K Android TV|
 |JVC|JVC|bruno|JVC2KAndroid TV|
+|JVC|JVC|elliniko|4K SMART TV|
 |JVC|JVC|expo|JVCPA 4KAndroid TV|
 |JVC|JVC|expo|JVCSA 4KGoogle TV|
 |JVC|JVC|expo|JVCUS 4K TV|
@@ -27774,6 +27779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|P13|Hit_P13|Hit P13|
 |Philco|PCS01|PCS01|PCS01|
 |Philco|PCS02|PCS02|PCS02|
+|Philco|PHILCO|elliniko|4K SMART TV|
 |Philco|PHILCO|zhongshan|4K SMART TV|
 |Philco|PHILCO Smart TV|SW4H|PHILCO Smart TV|
 |Philco|PHILCO_TP7A6|PHILCO_TP7A6|TP7A6|
@@ -29447,6 +29453,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RC7T3G19|RC7T3G19|RC7T3G19|
 |RCA|RC7T3G21|RC7T3G21|RC7T3G21|
 |RCA|RC8T3G21|RC8T3G21|RC8T3G21|
+|RCA|RCA|elliniko|4K SMART TV|
+|RCA|RCA|elliniko|RCA 4K SMART TV|
 |RCA|RCA|hongkong|4K SMART TV|
 |RCA|RCA|lavender|4K SMART TV|
 |RCA|RCA|mountbaker|2K SMART TV|
@@ -29735,6 +29743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K50_EEA|K50_EEA|K50_EEA|
 |Rebecco|K50_ROW|K50_ROW|K50_ROW|
 |Rebecco|K70_EEA|K70_EEA|K70_EEA|
+|Rebecco|K70_EEA_B|K70_EEA_B|K70_EEA_B|
 |Rebecco|K70_ROW|K70_ROW|K70_ROW|
 |Rebecco|K70i_EEA|K70i_EEA|K70i_EEA|
 |Rebecco|K80_ROW|K80_ROW|K80_ROW|
@@ -34971,6 +34980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|SP-7100|SP-7100|SP-7100|
 |Siragon|SP_7250|SP_7250|SP_7250|
 |Siragon|SP_7275|SP_7275|SP_7275|
+|Siragon|Siragon|elliniko|4K SMART TV|
 |Siragon|Siragon|hongkong|4K SMART TV|
 |Siragon|Siragon|mountbaker|2K SMART TV|
 |Siragon|Siragon_SP_7200|Siragon_SP_7200|Siragon_SP_7200|
@@ -40908,6 +40918,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VUCATIMES|VucaPad_NS20_EEA|VucaPad_NS20_EEA|VucaPad_NS20_EEA|
 |VUCATIMES|Vucatimes|VucaPad_N20_LTE_JP|VucaPad_N20_LTE_JP|
 |Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
+|Vankyo|AURZEN BOOM MINI|yandangshan|AURZEN BOOM MINI|
+|Vankyo|AURZEN_D1G|yandangshan|AURZEN D1G|
 |Vankyo|MatrixPad-X36|MatrixPad-X36|MatrixPad-X36|
 |Vankyo|P10|P10|P10|
 |Vankyo|P10_EEA|P10_EEA|P10_EEA|
@@ -41762,6 +41774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2417|V2418|V2417|
 |Vivo|V2417A|PD2417|V2417A|
 |Vivo|V2426A|PD2426|V2426A|
+|Vivo|V2429A|PD2429|V2429A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|

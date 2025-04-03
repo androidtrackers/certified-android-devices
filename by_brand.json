@@ -1085,6 +1085,11 @@
  ],
  "AHA(A)": [
   {
+   "device": "AHA_ULTRA_RK3576",
+   "name": "AHA_IFPD",
+   "model": "Hybrid_8700"
+  },
+  {
    "device": "AHA_ULTRA_RK3588",
    "name": "IFPD",
    "model": "Hybrid_8600"
@@ -2858,6 +2863,11 @@
    "device": "AX1",
    "name": "AX1",
    "model": "AX1"
+  },
+  {
+   "device": "Acepad_HIGH_EEA",
+   "name": "Acepad_HIGH_EEA",
+   "model": "Acepad HIGH"
   }
  ],
  "Acer": [
@@ -28348,6 +28358,11 @@
    "device": "osaki",
    "name": "Smart TV",
    "model": "2K AI Smart TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "challenger",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -56388,6 +56403,13 @@
    "device": "C-TABLET",
    "name": "C-TABLET",
    "model": "C-TABLET"
+  }
+ ],
+ "HELLCAT": [
+  {
+   "device": "TAB8-1",
+   "name": "TAB8-1",
+   "model": "TAB8"
   }
  ],
  "HEROFUN": [
@@ -87016,6 +87038,11 @@
    "device": "bruno",
    "name": "JVC",
    "model": "JVC2KAndroid TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "JVC",
+   "model": "4K SMART TV"
   },
   {
    "device": "expo",
@@ -143014,6 +143041,11 @@
    "model": "PCS02"
   },
   {
+   "device": "elliniko",
+   "name": "PHILCO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "PHILCO",
    "model": "4K SMART TV"
@@ -151593,6 +151625,16 @@
    "model": "RC8T3G21"
   },
   {
+   "device": "elliniko",
+   "name": "RCA",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "RCA",
+   "model": "RCA 4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "RCA",
    "model": "4K SMART TV"
@@ -153111,6 +153153,11 @@
    "device": "K70_EEA",
    "name": "K70_EEA",
    "model": "K70_EEA"
+  },
+  {
+   "device": "K70_EEA_B",
+   "name": "K70_EEA_B",
+   "model": "K70_EEA_B"
   },
   {
    "device": "K70_ROW",
@@ -179725,6 +179772,11 @@
    "device": "SP_7275",
    "name": "SP_7275",
    "model": "SP_7275"
+  },
+  {
+   "device": "elliniko",
+   "name": "Siragon",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -210298,6 +210350,16 @@
  ],
  "Vankyo": [
   {
+   "device": "yandangshan",
+   "name": "AURZEN BOOM MINI",
+   "model": "AURZEN BOOM MINI"
+  },
+  {
+   "device": "yandangshan",
+   "name": "AURZEN_D1G",
+   "model": "AURZEN D1G"
+  },
+  {
    "device": "MatrixPad-X36",
    "name": "MatrixPad-X36",
    "model": "MatrixPad-X36"
@@ -214658,6 +214720,11 @@
    "device": "PD2426",
    "name": "V2426A",
    "model": "V2426A"
+  },
+  {
+   "device": "PD2429",
+   "name": "V2429A",
+   "model": "V2429A"
   },
   {
    "device": "V2202",
