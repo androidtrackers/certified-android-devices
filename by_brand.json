@@ -17099,6 +17099,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "elliniko",
+   "name": "BOTECH",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "BOTECH",
    "model": "2K SMART TV"
@@ -21463,6 +21468,11 @@
    "device": "bruno",
    "name": "BLAUPUNKT",
    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
    "device": "hongkong",
@@ -27262,6 +27272,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "elliniko",
+   "name": "CASPER",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "CASPER",
    "model": "4K SMART TV"
@@ -31647,6 +31662,11 @@
   }
  ],
  "Conti": [
+  {
+   "device": "elliniko",
+   "name": "CONTI",
+   "model": "4K SMART TV"
+  },
   {
    "device": "stanford",
    "name": "CONTI",
@@ -36531,6 +36551,11 @@
   }
  ],
  "Dahua": [
+  {
+   "device": "elliniko",
+   "name": "DAHUA",
+   "model": "4K SMART TV"
+  },
   {
    "device": "hongkong",
    "name": "DAHUA",
@@ -41913,6 +41938,11 @@
  ],
  "Dyon": [
   {
+   "device": "elliniko",
+   "name": "DYON",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "DYON",
    "model": "4K SMART TV"
@@ -43790,6 +43820,11 @@
   }
  ],
  "EcoStar": [
+  {
+   "device": "elliniko",
+   "name": "ECOSTAR",
+   "model": "4K SMART TV"
+  },
   {
    "device": "khardi",
    "name": "ECOSTAR",
@@ -66698,6 +66733,11 @@
    "model": "SmartTV 4K"
   },
   {
+   "device": "wutaishan",
+   "name": "SmartTV 4K FFM",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "rk3028a",
    "name": "SoundTab MA-317",
    "model": "Hisense SoundTab MA-317"
@@ -79497,6 +79537,11 @@
  ],
  "INNOVA": [
   {
+   "device": "elliniko",
+   "name": "INNOVA",
+   "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
    "device": "lasalle",
    "name": "INNOVA 2K Android TV",
    "model": "INNOVA 2K Android TV"
@@ -81024,6 +81069,11 @@
    "device": "zhongshan",
    "name": "INDURAMA",
    "model": "INDURAMA SMART TV 4K"
+  },
+  {
+   "device": "elliniko",
+   "name": "Indurama",
+   "model": "INDURAMA GOOGLE TV 4K"
   },
   {
    "device": "hongkong",
@@ -87361,6 +87411,11 @@
  ],
  "Jam": [
   {
+   "device": "elliniko",
+   "name": "JAM",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "JAM",
    "model": "4K SMART TV"
@@ -89497,6 +89552,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "DAMASCO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "DAMASCO",
    "model": "4K SMART TV"
@@ -89537,6 +89597,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "DIGGIO",
+   "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
    "device": "hongkong",
    "name": "DIGGIO",
    "model": "DIGGIO GOOGLE TV 4K"
@@ -89574,6 +89639,11 @@
   {
    "device": "zhongshan",
    "name": "DYANORA",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "ELECTRA",
    "model": "4K SMART TV"
   },
   {
@@ -89627,6 +89697,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "Global",
+   "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
    "device": "hongkong",
    "name": "Global",
    "model": "GLOBAL GOOGLE TV 4K"
@@ -89675,6 +89750,11 @@
    "device": "mountbaker",
    "name": "IBG",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "IHOME",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -89739,6 +89819,16 @@
   {
    "device": "lavender",
    "name": "IQWORLD",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "JANUS",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "JSW",
    "model": "4K SMART TV"
   },
   {
@@ -89892,6 +89982,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "RANCON",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "khardi",
    "name": "RANCON",
    "model": "4K SMART TV"
@@ -90007,6 +90102,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "VIMEEL",
+   "model": "VIMEEL GOOGLE TV 4K"
+  },
+  {
    "device": "lavender",
    "name": "VIMEEL",
    "model": "VIMEEL GOOGLE TV 4K"
@@ -90015,6 +90115,11 @@
    "device": "mountbaker",
    "name": "VIMEEL",
    "model": "VIMEEL GOOGLE TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "VINCENT",
+   "model": "4K SMART TV"
   },
   {
    "device": "mountbaker",
@@ -90072,6 +90177,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "VOXELECTRONICS",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "VOXELECTRONICS",
    "model": "4K SMART TV"
@@ -90120,6 +90230,11 @@
    "device": "mountbaker",
    "name": "ZITRO",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "Zitro",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -91104,6 +91219,11 @@
    "device": "XP8800",
    "name": "KWSA80K",
    "model": "KWSA80K"
+  },
+  {
+   "device": "elliniko",
+   "name": "Kenwood",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -92291,6 +92411,11 @@
   }
  ],
  "Kolin": [
+  {
+   "device": "elliniko",
+   "name": "KOLIN",
+   "model": "4K SMART TV"
+  },
   {
    "device": "hongkong",
    "name": "KOLIN",
@@ -101594,6 +101719,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "LUCOMS",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "LUCOMS",
    "model": "2K SMART TV"
@@ -110876,6 +111006,11 @@
  ],
  "MAG": [
   {
+   "device": "elliniko",
+   "name": "MAG",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "MAG",
    "model": "4K SMART TV"
@@ -111039,6 +111174,11 @@
    "device": "M2M-3T",
    "name": "M2M-3T",
    "model": "M2M-3T"
+  },
+  {
+   "device": "elliniko",
+   "name": "MASTERTECH",
+   "model": "MASTERTECH GOOGLE TV"
   },
   {
    "device": "lavender",
@@ -112950,6 +113090,11 @@
   }
  ],
  "Mango": [
+  {
+   "device": "elliniko",
+   "name": "MANGO",
+   "model": "4K SMART TV"
+  },
   {
    "device": "hongkong",
    "name": "MANGO",
@@ -121146,6 +121291,11 @@
    "model": "Lenovo XT2091-7"
   },
   {
+   "device": "elliniko",
+   "name": "MOTOROLA",
+   "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
    "device": "mountbaker",
    "name": "MOTOROLA",
    "model": "MOTOROLA GOOGLE TV 2K"
@@ -129263,6 +129413,11 @@
    "device": "YYT",
    "name": "4K TV Stick",
    "model": "4K Google TV Stick"
+  },
+  {
+   "device": "elliniko",
+   "name": "NEXT",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -148457,6 +148612,11 @@
   }
  ],
  "Prestigio_Solutions": [
+  {
+   "device": "PSMB011Pxx1",
+   "name": "PSMB011Pxx1",
+   "model": "PSMB011Pxx1"
+  },
   {
    "device": "HP10A32L",
    "name": "PSTA103",
@@ -179699,6 +179859,11 @@
    "model": "SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "SIRAGON",
+   "model": "SIRAGON 4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "SIRAGON",
    "model": "4K SMART TV"
@@ -181564,6 +181729,11 @@
    "model": "AiPlus4K"
   },
   {
+   "device": "elliniko",
+   "name": "SMART TECHNOLOGY",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "SMART TECHNOLOGY",
    "model": "2K SMART TV"
@@ -182046,6 +182216,16 @@
   }
  ],
  "Soneview": [
+  {
+   "device": "elliniko",
+   "name": "SONEVIEW",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "SONEVIEW",
+   "model": "SONEVIEW 4K SMART TV"
+  },
   {
    "device": "hongkong",
    "name": "SONEVIEW",
@@ -221652,6 +221832,11 @@
  ],
  "Wismann": [
   {
+   "device": "elliniko",
+   "name": "WISMANN",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "WISMANN",
    "model": "2K SMART TV"
@@ -236131,6 +236316,11 @@
   {
    "device": "ULTRA_Plus",
    "name": "ULTRA_Plus",
+   "model": "Star9_3G-Gen2"
+  },
+  {
+   "device": "ULTRA_Plus",
+   "name": "ULTRA_Plus",
    "model": "ULTRA"
   },
   {
@@ -237451,6 +237641,11 @@
    "device": "stanford",
    "name": "ENOVA",
    "model": "SA 2K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "Enova",
+   "model": "4K SMART TV"
   },
   {
    "device": "zhongshan",

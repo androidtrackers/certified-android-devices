@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-03
+Last sync is 2025-04-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3305,6 +3305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOREAL|Android TV|R2|ATV R2|
 |BOTECH|Android TV|R1|ATV R1|
 |BOTECH|Android TV|R2|ATV R2|
+|BOTECH|BOTECH|elliniko|4K SMART TV|
 |BOTECH|BOTECH|stanford|2K SMART TV|
 |BOTECH|BOTECH|zhongshan|4K SMART TV|
 |BOTECH|WZONE|HND|WZONE|
@@ -4151,6 +4152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|B5000|ikebukuro|AI PONT|
 |Blaupunkt|BATV10|ICN|BATV10|
 |Blaupunkt|BLAUPUNKT|bruno|BLAUPUNKT 2K Android TV|
+|Blaupunkt|BLAUPUNKT|elliniko|BLAUPUNKT GOOGLE TV 4K|
 |Blaupunkt|BLAUPUNKT|hongkong|4K SMART TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT GOOGLE TV 4K|
@@ -5260,6 +5262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|55UGA610|barking|Casper AndroidTV|
 |Casper|Android TV|R1|ATV R1|
 |Casper|Android TV|R2|ATV R2|
+|Casper|CASPER|elliniko|4K SMART TV|
 |Casper|CASPER|lavender|4K SMART TV|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
 |Casper|Casper 2K Smart TV|sunnyvale|Casper 2K Smart TV|
@@ -6106,6 +6109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|conquest_S20_EEA|conquest_S20|conquest_S20|
 |Contex|Egypt|tamachi|AiPlus2K|
 |Contex|Egypt|yeongdeungpo|AiPlus4K|
+|Conti|CONTI|elliniko|4K SMART TV|
 |Conti|CONTI|stanford|2K SMART TV|
 |Conti|CONTI|zhongshan|4K SMART TV|
 |Continental Edison|CDI SMART TV|cottongreen|CDI SMART TV|
@@ -7052,6 +7056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|X7|X7|X7|
 |Daewoo|X9|X9|X9|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
+|Dahua|DAHUA|elliniko|4K SMART TV|
 |Dahua|DAHUA|hongkong|4K SMART TV|
 |Dahua|DAHUA|hongkong|EcoTV Plus A|
 |Dahua|DAHUA|mountbaker|2K SMART TV|
@@ -8091,6 +8096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|W2|W2|W2|
 |Dwsummus|DWsummus|DS_RK3588|QK8635P|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
+|Dyon|DYON|elliniko|4K SMART TV|
 |Dyon|DYON|zhongshan|4K SMART TV|
 |Dyon|DYON 2K Google TV|capitolhill|DYON 2K Google TV|
 |Dyon|DYON 4K Google TV|keoneae|DYON 4K Google TV|
@@ -8441,6 +8447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Echo Mobiles|Stellar 4G|Stellar_4G|Stellar 4G|
 |Echolink|ENOVA STICK|IAD|ENOVA STICK|
 |Echolink|Echolink TV|shinagawa|Echolink TV|
+|EcoStar|ECOSTAR|elliniko|4K SMART TV|
 |EcoStar|ECOSTAR|khardi|4K SMART TV|
 |EcoStar|ECOSTAR|mountbaker|2K SMART TV|
 |EcoStar|ECOSTAR|stanford|40D|
@@ -12870,6 +12877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Sero8|rk3188|E2281SS|
 |Hisense|SmartLaser 4K|hengshan|SmartLaser 4K|
 |Hisense|SmartTV 4K|hengshan|SmartTV 4K|
+|Hisense|SmartTV 4K FFM|wutaishan|SmartTV 4K FFM|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -15405,6 +15413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INNOCN|32S1U_Pro|32S1U_Pro|32S1U_Pro|
 |INNOCN|32S2U_Pro|32S2U_Pro|32S2U Pro|
 |INNOCN|S1|YUL|S1|
+|INNOVA|INNOVA|elliniko|INNOVA GOOGLE TV 4K|
 |INNOVA|INNOVA 2K Android TV|lasalle|INNOVA 2K Android TV|
 |INNOVA|INNOVA 2K Google TV|capitolhill|INNOVA 2K Google TV|
 |INNOVA|INNOVA 4K Android TV|kenton|INNOVA 4K Android TV|
@@ -15694,6 +15703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IndiHome|HG680_FJ|HG680|HG680_FJ|
 |Indurama|INDURAMA|stanford|INDURAMA SMART TV 2K|
 |Indurama|INDURAMA|zhongshan|INDURAMA SMART TV 4K|
+|Indurama|Indurama|elliniko|INDURAMA GOOGLE TV 4K|
 |Indurama|Indurama|hongkong|INDURAMA GOOGLE TV 4K|
 |Indurama|Indurama|lavender|INDURAMA GOOGLE TV 4K|
 |Indurama|Indurama|mountbaker|INDURAMA GOOGLE TV|
@@ -16937,6 +16947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JabrBox|H460|H460|H460|
 |JabrBox|H460B01|H460|H460|
 |JabrBox|S502|S502|S502|
+|Jam|JAM|elliniko|4K SMART TV|
 |Jam|JAM|hongkong|4K SMART TV|
 |Jam|JAM|mountbaker|2K SMART TV|
 |Jambo_Technology|JamboPhone|JP1|JP1|
@@ -17339,6 +17350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|CONTINUUS|stanford|SMART TV|
 |KTCtv|DAIWA|hongkong|4K SMART TV|
 |KTCtv|DAIWA|lavender|4K SMART TV|
+|KTCtv|DAMASCO|elliniko|4K SMART TV|
 |KTCtv|DAMASCO|hongkong|4K SMART TV|
 |KTCtv|DAMASCO|khardi|4K SMART TV|
 |KTCtv|DAMASCO|lavender|4K SMART TV|
@@ -17347,6 +17359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|DANILUX|lavender|4K SMART TV|
 |KTCtv|DANILUX|mountbaker|2K SMART TV|
 |KTCtv|DEC|hongkong|4K SMART TV|
+|KTCtv|DIGGIO|elliniko|DIGGIO GOOGLE TV 4K|
 |KTCtv|DIGGIO|hongkong|DIGGIO GOOGLE TV 4K|
 |KTCtv|DIGGIO|lavender|DIGGIO GOOGLE TV 4K|
 |KTCtv|DIGGIO|mountbaker|DIGGIO GOOGLE TV|
@@ -17355,6 +17368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|DREAMVIEW|stanford|SMART TV|
 |KTCtv|DYANORA|stanford|2K SMART TV|
 |KTCtv|DYANORA|zhongshan|4K SMART TV|
+|KTCtv|ELECTRA|elliniko|4K SMART TV|
 |KTCtv|ELEMENT|mountbaker|2K SMART TV|
 |KTCtv|ESLEY|hongkong|4K SMART TV|
 |KTCtv|ESLEY|lavender|4K SMART TV|
@@ -17365,6 +17379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|FOL|hongkong|4K SMART TV|
 |KTCtv|FOL|mountbaker|2K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
+|KTCtv|Global|elliniko|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|hongkong|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|lavender|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|mountbaker|GLOBAL GOOGLE TV|
@@ -17375,6 +17390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|IBG|hongkong|4K SMART TV|
 |KTCtv|IBG|lavender|4K SMART TV|
 |KTCtv|IBG|mountbaker|2K SMART TV|
+|KTCtv|IHOME|elliniko|4K SMART TV|
 |KTCtv|IHOME|hongkong|4K SMART TV|
 |KTCtv|IHOME|mountbaker|2K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
@@ -17388,6 +17404,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
 |KTCtv|IQWORLD|lavender|4K SMART TV|
+|KTCtv|JANUS|elliniko|4K SMART TV|
+|KTCtv|JSW|elliniko|4K SMART TV|
 |KTCtv|KIUNIT|stanford|SMART TV|
 |KTCtv|KIUNIT|zhongshan|Smart UHD TV|
 |KTCtv|KTC|stanford|2K SMART TV|
@@ -17418,6 +17436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|QRIOM|lavender|4K SMART TV|
 |KTCtv|QRIOM|minami|2K SMART TV|
 |KTCtv|QRIOM|mountbaker|2K SMART TV|
+|KTCtv|RANCON|elliniko|4K SMART TV|
 |KTCtv|RANCON|khardi|4K SMART TV|
 |KTCtv|RANCON|mountbaker|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
@@ -17441,8 +17460,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
+|KTCtv|VIMEEL|elliniko|VIMEEL GOOGLE TV 4K|
 |KTCtv|VIMEEL|lavender|VIMEEL GOOGLE TV 4K|
 |KTCtv|VIMEEL|mountbaker|VIMEEL GOOGLE TV|
+|KTCtv|VINCENT|elliniko|4K SMART TV|
 |KTCtv|VINCENT|mountbaker|2K SMART TV|
 |KTCtv|VIOTTO|hongkong|4K SMART ISDB TV|
 |KTCtv|VIOTTO|hongkong|4K SMART TV|
@@ -17454,6 +17475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|VON|stanford|2K SMART TV|
 |KTCtv|VON|zhongshan|4K SMART TV|
+|KTCtv|VOXELECTRONICS|elliniko|4K SMART TV|
 |KTCtv|VOXELECTRONICS|hongkong|4K SMART TV|
 |KTCtv|VOXELECTRONICS|mountbaker|2K SMART TV|
 |KTCtv|WESTWAY|mountbaker|2K SMART TV|
@@ -17464,6 +17486,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|XELL|mountbaker|2K SMART TV|
 |KTCtv|YARA|hongkong|4K SMART TV|
 |KTCtv|ZITRO|mountbaker|2K SMART TV|
+|KTCtv|Zitro|elliniko|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
@@ -17648,6 +17671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenstar|KENSTAR|stanford|2K SMART TV|
 |Kenwood|KENWOOD|mountbaker|KENWOOD 2K TV|
 |Kenwood|KWSA80K|XP8800|KWSA80K|
+|Kenwood|Kenwood|elliniko|4K SMART TV|
 |Kenwood|Kenwood|hongkong|KENWOOD ATSC 4K TV|
 |Kenwood|Kenwood|hongkong|KENWOOD DVB 4K TV|
 |Kenwood|Kenwood|hongkong|KENWOOD ISDB 4K TV|
@@ -17878,6 +17902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
 |Kogan|RF9220|redwood|AI PONT|
 |Kogan|Smart TV|longshan|AI PONT|
+|Kolin|KOLIN|elliniko|4K SMART TV|
 |Kolin|KOLIN|hongkong|4K SMART TV|
 |Kolin|Smart TV|longshan|AI PONT|
 |Kolin|Smart TV|redwood|AI PONT|
@@ -19716,6 +19741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|Android TV|R2|ATV R2|
 |LUCOMS|IWB|rk3588_t|siwxxf1x|
 |LUCOMS|LUCMOS|hongkong|4K SMART TV|
+|LUCOMS|LUCOMS|elliniko|4K SMART TV|
 |LUCOMS|LUCOMS|mountbaker|2K SMART TV|
 |LUCOMS|LUCOMS|stanford|2K SMART TV|
 |LUCOMS|LUCOMS|zhongshan|4K SMART TV|
@@ -21540,6 +21566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M4tel|M4 SS4458|TOUCHPLUS02A-S17A|M4 SS4458|
 |M4tel|M4 SS4458-R|M4-SS4458-R|M4-SS4458-R|
 |M4tel|R2 Plus|R2_Plus|R2_Plus|
+|MAG|MAG|elliniko|4K SMART TV|
 |MAG|MAG|lavender|4K SMART TV|
 |MAG|MAG|mountbaker|2K SMART TV|
 |MAG|MAG425A|MAG425A|MAG425A|
@@ -21571,6 +21598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
 |MASTERTECH|77-EV|77-EV|77-EV|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
+|MASTERTECH|MASTERTECH|elliniko|MASTERTECH GOOGLE TV|
 |MASTERTECH|MASTERTECH|lavender|MASTERTECH GOOGLE TV|
 |MASTERTECH|MASTERTECH|mountbaker|MASTERTECH GOOGLE TV|
 |MASTERTECH|R3|R3|R3|
@@ -21923,6 +21951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Malata|UR5|UR5|UR5|
 |Malata|UR7|UR7|UR7|
 |Malata|UV350|UV350|UV350|
+|Mango|MANGO|elliniko|4K SMART TV|
 |Mango|MANGO|hongkong|4K SMART TV|
 |Mango|Mango|mountbaker|2K SMART TV|
 |Mango|Mango_S5|Mango_S5|Mango S5|
@@ -23520,6 +23549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K15|hawaii|Lenovo K15|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
+|Motorola|MOTOROLA|elliniko|MOTOROLA GOOGLE TV 4K|
 |Motorola|MOTOROLA|mountbaker|MOTOROLA GOOGLE TV 2K|
 |Motorola|MOTOROLA|stanford|2K SMART TV|
 |Motorola|MOTOROLA|stanford|SMART TV|
@@ -25101,6 +25131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newsday|U5|GIGI_U5|U5|
 |Nexian|journey one|Mi438S_sprout|Mi438S|
 |Next|4K TV Stick|YYT|4K Google TV Stick|
+|Next|NEXT|elliniko|4K SMART TV|
 |Next|NEXT|stanford|2K SMART TV|
 |Next|NEXT|zhongshan|4K SMART TV|
 |Next|Start-4K|YDA|4K Google TV Box|
@@ -28844,6 +28875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize J3|TL50B10G|PSP3522DUO_RU|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO_RU|
+|Prestigio_Solutions|PSMB011Pxx1|PSMB011Pxx1|PSMB011Pxx1|
 |Prestigio_Solutions|PSTA103|HP10A32L|PSTA103|
 |Prestigio_Solutions|PSTA104|VS12A1L|PSTA104|
 |Prestigio_Solutions|PSTA111|HP80A33L|PSTA111|
@@ -34965,6 +34997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SinoGNSS|R60 Data Collector|R60|R60|
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Siragon|SA|zhongshan|SMART TV|
+|Siragon|SIRAGON|elliniko|SIRAGON 4K SMART TV|
 |Siragon|SIRAGON|lavender|4K SMART TV|
 |Siragon|SIRAGON|stanford|SMART TV|
 |Siragon|SP 6200|SP-6200|SP-6200|
@@ -35332,6 +35365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart-Tech TV|EU、UK、AP|martin|WALTON Android TV|
 |Smart-Tech TV|France|tamachi|AiPlus2K|
 |Smart-Tech TV|Germany|yeongdeungpo|AiPlus4K|
+|Smart-Tech TV|SMART TECHNOLOGY|elliniko|4K SMART TV|
 |Smart-Tech TV|SMART TECHNOLOGY|stanford|2K SMART TV|
 |Smart-Tech TV|SMART TEcHNOLGY|zhongshan|4K SMART TV|
 |Smart-Tech TV|SmartTech|yeongdeungpo|AiPlus4K|
@@ -35419,6 +35453,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Solone|W1450|W1450|W1450|
 |Solone|W1452|W1452|W1452|
 |Solutionforpros|R450|R450|R450|
+|Soneview|SONEVIEW|elliniko|4K SMART TV|
+|Soneview|SONEVIEW|elliniko|SONEVIEW 4K SMART TV|
 |Soneview|SONEVIEW|hongkong|4K SMART TV|
 |Soneview|SONEVIEW|lavender|4K SMART TV|
 |Soneview|SONEVIEW|mountbaker|2K SMART TV|
@@ -43126,6 +43162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wishtel|IRA_S1|IRA_S1|IRA_S1|
 |Wishtel|IRA_S2|IRA_S2|IRA_S2|
 |Wishtel|T811|T811|T811|
+|Wismann|WISMANN|elliniko|4K SMART TV|
 |Wismann|WISMANN|stanford|2K SMART TV|
 |Wismann|WISMANN|zhongshan|4K SMART TV|
 |Wistron|DW-21(A)|DA-21|DW-21(A)|
@@ -45969,6 +46006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zoom|LitePro|LitePro|LitePro|
 |Zoom|Social|SOCIAL|SOCIAL|
 |Zoom|ULTRA|ULTRA|ULTRA|
+|Zoom|ULTRA_Plus|ULTRA_Plus|Star9_3G-Gen2|
 |Zoom|ULTRA_Plus|ULTRA_Plus|ULTRA|
 |Zoom|Z101G|Z101G|Z101G|
 |ZooomTV|OrbitMall|DV8529-T2_S2-KSI|OrbitMall|
@@ -46217,6 +46255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eBox|Ebox|diw387eb|EboxTV|
 |eNOVA|ENOVA|stanford|SA 2K SMART TV|
+|eNOVA|Enova|elliniko|4K SMART TV|
 |eNOVA|Enova|zhongshan|4K SMART TV|
 |eNOVA|N10|N10|N10|
 |eNOVA|N50E|N50|N50|
