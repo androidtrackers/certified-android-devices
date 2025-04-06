@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-05
+Last sync is 2025-04-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -39411,6 +39411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 30 5G|TECNO-KL8|TECNO KL8|
 |Tecno|TECNO SPARK 30 5G|TECNO-KL8s|TECNO KL8s|
 |Tecno|TECNO SPARK 30 Pro|TECNO-KL7|TECNO KL7|
+|Tecno|TECNO SPARK 30C|TECNO-KL5|TECNO KL5|
 |Tecno|TECNO SPARK 30C|TECNO-KL5n|TECNO KL5n|
 |Tecno|TECNO SPARK 30C|TECNO-KL5s|TECNO KL5s|
 |Tecno|TECNO SPARK 30C 5G|TECNO-KL8h|TECNO KL8h|
