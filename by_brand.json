@@ -135949,6 +135949,16 @@
    "model": "PKC130"
   },
   {
+   "device": "OP5DCBL1",
+   "name": "Find X8s",
+   "model": "PKT110"
+  },
+  {
+   "device": "OP5DCDL1",
+   "name": "Find X8s+",
+   "model": "PLB110"
+  },
+  {
    "device": "FIND5",
    "name": "Find5",
    "model": "X909"
