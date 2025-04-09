@@ -6077,6 +6077,11 @@
    "model": "MD1063"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "device": "SP5504G",
    "name": "SP5504G",
    "model": "SP5504G"
@@ -30525,6 +30530,16 @@
    "device": "sugamo",
    "name": "Cobia",
    "model": "Cobia 2K Android TV"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "Coby": [
@@ -34475,6 +34490,13 @@
    "device": "Tab_4_M7078",
    "name": "Tab_4_M7078",
    "model": "Tab_4_M7078"
+  }
+ ],
+ "Cybernetyx": [
+  {
+   "device": "Canvas_E",
+   "name": "EyeRIS_Canvas_Series",
+   "model": "EyeRIS_Canvas_Series"
   }
  ],
  "Cyrus": [
@@ -103320,6 +103342,11 @@
    "model": "LAVA LZG01"
   },
   {
+   "device": "LZX419",
+   "name": "Lava Shark",
+   "model": "LAVA LZX419"
+  },
+  {
    "device": "Magnum_Pro",
    "name": "Magnum Pro",
    "model": "Magnum_Pro"
@@ -129832,6 +129859,16 @@
    "device": "samseong",
    "name": "NI43UG7NA9",
    "model": "AI PONT"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "Nikon": [
@@ -130070,6 +130107,11 @@
    "device": "shinjuku",
    "name": "NoblexTV",
    "model": "NoblexTV"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
   },
   {
    "device": "umeda",
@@ -132413,6 +132455,11 @@
    "device": "kenton",
    "name": "ONIDA 4K Android TV",
    "model": "ONIDA 4K Android TV"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
   },
   {
    "device": "R4_GTV",
@@ -189867,9 +189914,19 @@
    "model": "R10G"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "device": "R3_GTV",
    "name": "R3_GTV",
    "model": "R3G"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   },
   {
    "device": "R4_GTV",
@@ -225251,6 +225308,16 @@
    "model": "ATV R1"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "device": "SW4H",
    "name": "XTREME 4K TV",
    "model": "XTREME 4K TV"
@@ -233003,6 +233070,11 @@
    "device": "P820F05",
    "name": "Z2465N",
    "model": "Z2465N"
+  },
+  {
+   "device": "P606F20",
+   "name": "Z2472",
+   "model": "Z2472"
   },
   {
    "device": "Z3153",

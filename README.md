@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-08
+Last sync is 2025-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1155,6 +1155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Akai|FZ702|FZ702|FZ702|
 |Akai|FZ703|FZ703|FZ703|
 |Akai|MD1063|MD1063|MD1063|
+|Akai|R3|R3|R3|
 |Akai|SP5504G|SP5504G|SP5504G|
 |Akari|AX-115ATV|DV8035|AX-115ATV|
 |Akari|AX-117ATV|DV8219|AX-117ATV|
@@ -5889,6 +5890,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cobia|Brazil|nippori|Cobia 2K Android TV|
 |Cobia|Cobia|seocho|Cobia 4K Android TV|
 |Cobia|Cobia|sugamo|Cobia 2K Android TV|
+|Cobia|R3|R3|R3|
+|Cobia|R4|R4|R4|
 |Coby|CTB761|CTB761|CTB761|
 |Coby|Dorado|Dorado|Dorado|
 |Coby|MID-CBY1108|MID-CBY1108|MID-CBY1108|
@@ -6661,6 +6664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Custom|P-Ranger|P-Ranger|P-Ranger_RU|
 |Custom|P-Ranger|P_Ranger|P-Ranger|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
+|Cybernetyx|EyeRIS_Canvas_Series|Canvas_E|EyeRIS_Canvas_Series|
 |Cyrus|CM17|CM17|CM17|
 |Cyrus|CM17XA|CM17XA|CM17XA|
 |Cyrus|CM17XA_EEA|CM17XA|CM17XA_EEA|
@@ -20052,6 +20056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
 |Lava|LZG01|LZG01|LAVA LZG01|
+|Lava|Lava Shark|LZX419|LAVA LZX419|
 |Lava|Magnum Pro|Magnum_Pro|Magnum_Pro|
 |Lava|P7|P7|P7|
 |Lava|P7 Plus|P7plus|P7plus|
@@ -25210,6 +25215,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nikkei|Android TV|redwood|AI PONT|
 |Nikkei|NI32HG7NA9|ikebukuro|AI PONT|
 |Nikkei|NI43UG7NA9|samseong|AI PONT|
+|Nikkei|R3|R3|R3|
+|Nikkei|R4|R4|R4|
 |Nikon|COOLPIX|S800c|COOLPIX S800c|
 |Nikon|COOLPIX S810c|s810c|COOLPIX S810c|
 |Niotek|AxxNE|rk3588_t|AxxNE|
@@ -25254,6 +25261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|NOBLEX Smart TV|sunnyvale|NOBLEX Smart TV|
 |Noblex|Noblex TV|SW4H|Noblex TV|
 |Noblex|NoblexTV|shinjuku|NoblexTV|
+|Noblex|R3|R3|R3|
 |Noblex|Smart TV|umeda|Smart TV|
 |Noblex|Smart TV 4K|SW6H|Smart TV 4K|
 |Noblex|T7A6INC|T7A6INC|T7A6INC|
@@ -25707,6 +25715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MT1N|MT1N|MT1N|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
+|ONIDA|R3|R3|R3|
 |ONIDA|R4_GTV|R4_GTV|R4G|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|BOOX|BOOX|BOOX|
@@ -36947,7 +36956,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Percee TV|tcl_eu|SANYO TV|
 |TCL|Percee TV|tcl_sa|Percee TV|
 |TCL|R10G|R10G|R10G|
+|TCL|R3|R3|R3|
 |TCL|R3_GTV|R3_GTV|R3G|
+|TCL|R4|R4|R4|
 |TCL|R4_GTV|R4_GTV|R4G|
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
@@ -43827,6 +43838,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtratech|X8MT87|X8MT87|X8MT87|
 |Xtratech|XTRATECH|KT-755M|KT-755M|
 |Xtreme|Android TV|R1|ATV R1|
+|Xtreme|R3|R3|R3|
+|Xtreme|R4|R4|R4|
 |Xtreme|XTREME 4K TV|SW4H|XTREME 4K TV|
 |Xtreme|XTREME AI TV|sunnyvale|XTREME AI TV|
 |Xtreme|XTREME TV|shinjuku|XTREME TV|
@@ -45355,6 +45368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2453|P963F95_A|Z2453|
 |ZTE|Z2459|P616F05|Z2459|
 |ZTE|Z2465N|P820F05|Z2465N|
+|ZTE|Z2472|P606F20|Z2472|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
