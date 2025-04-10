@@ -1433,6 +1433,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "khardi",
+   "name": "AOC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "AOC",
    "model": "2K SMART TV"
@@ -21570,6 +21575,11 @@
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
+   "device": "khardi",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
    "device": "lavender",
    "name": "BLAUPUNKT",
    "model": "4K SMART TV"
@@ -41564,7 +41574,7 @@
   },
   {
    "device": "DSB0560",
-   "name": "Doro Auroru A30",
+   "name": "Doro Aurora A30",
    "model": "Doro Aurora A30"
   },
   {
@@ -47896,6 +47906,21 @@
    "model": "EcoTV Pro I"
   },
   {
+   "device": "khardi",
+   "name": "FPD",
+   "model": "EcoTV Pre A"
+  },
+  {
+   "device": "khardi",
+   "name": "FPD",
+   "model": "EcoTV Pre D"
+  },
+  {
+   "device": "khardi",
+   "name": "FPD",
+   "model": "EcoTV Pre I"
+  },
+  {
    "device": "lavender",
    "name": "FPD",
    "model": "EcoTV Plus C"
@@ -51832,6 +51857,16 @@
    "model": "GO700FR"
   },
   {
+   "device": "GoFreeTV",
+   "name": "GOtv S",
+   "model": "GO700FR"
+  },
+  {
+   "device": "HP4BA-GOTV",
+   "name": "GOtv Y",
+   "model": "GO710FR"
+  },
+  {
    "device": "HND",
    "name": "SEI600GO",
    "model": "SEI600GO"
@@ -55390,6 +55425,11 @@
    "model": "Pixel 9 Pro XL"
   },
   {
+   "device": "tegu",
+   "name": "Pixel 9a",
+   "model": "Pixel 9a"
+  },
+  {
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
@@ -55676,6 +55716,11 @@
    "device": "mountbaker",
    "name": "GRAETZ",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "khardi",
+   "name": "Graetz",
+   "model": "4K SMART TV"
   }
  ],
  "Grandstream": [
@@ -65703,6 +65748,11 @@
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
    "model": "Hisense Y81 Pro"
+  },
+  {
+   "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense Y82 Pro"
   },
   {
    "device": "HLTE109E_01",
@@ -78691,6 +78741,11 @@
    "model": "HYUNDAI 4K SMART TV"
   },
   {
+   "device": "khardi",
+   "name": "HYUNDAI",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "HYUNDAI",
    "model": "4K SMART COL TV"
@@ -89944,7 +89999,17 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "khardi",
+   "name": "INCLO",
+   "model": "INCLO GOOGLE TV 4K"
+  },
+  {
    "device": "hongkong",
+   "name": "INNO-HIT",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "khardi",
    "name": "INNO-HIT",
    "model": "4K SMART TV"
   },
@@ -90300,6 +90365,16 @@
   },
   {
    "device": "hongkong",
+   "name": "VIOTTO",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "khardi",
+   "name": "VIOTTO",
+   "model": "4K SMART ISDB TV"
+  },
+  {
+   "device": "khardi",
    "name": "VIOTTO",
    "model": "4K SMART TV"
   },
@@ -101548,6 +101623,13 @@
    "model": "P401"
   }
  ],
+ "LOFT": [
+  {
+   "device": "D4",
+   "name": "D4xx",
+   "model": "D4_Interactive_Display"
+  }
+ ],
  "LOGIC": [
   {
    "device": "MTK9679",
@@ -107000,12 +107082,12 @@
   },
   {
    "device": "TB311FU",
-   "name": "Lenovo Tab K10 Gen 2/Lenovo Tab",
+   "name": "Lenovo Tab K10 Gen 2 / Lenovo Tab",
    "model": "TB311FU"
   },
   {
    "device": "TB311XU",
-   "name": "Lenovo Tab K10 Gen 2/Lenovo Tab",
+   "name": "Lenovo Tab K10 Gen 2 / Lenovo Tab",
    "model": "TB311XU"
   },
   {
@@ -113778,6 +113860,11 @@
    "device": "Tab10_EduV2",
    "name": "Tab10_Edu",
    "model": "Tab10_Edu"
+  },
+  {
+   "device": "Tab11_Ultra_4G",
+   "name": "Tab11_Ultra_4G",
+   "model": "Tab11_Ultra_4G"
   },
   {
    "device": "Masstel_Tab7LTE",
@@ -122471,6 +122558,16 @@
    "device": "hongkong",
    "name": "Motorola",
    "model": "MOTOROLA GOOGLE TV 4K ATSC"
+  },
+  {
+   "device": "khardi",
+   "name": "Motorola",
+   "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+   "device": "khardi",
+   "name": "Motorola",
+   "model": "MOTOROLA GOOGLE TV 4K N"
   },
   {
    "device": "lavender",
@@ -139889,6 +139986,11 @@
    "model": "R16 PRO"
   },
   {
+   "device": "R95",
+   "name": "R95",
+   "model": "N868"
+  },
+  {
    "device": "SSK10",
    "name": "SSK10",
    "model": "SSK10"
@@ -143763,6 +143865,11 @@
    "device": "khardi",
    "name": "PHILIPS",
    "model": "4K SMART ISDB TV"
+  },
+  {
+   "device": "khardi",
+   "name": "PHILIPS",
+   "model": "4K SMART TV"
   },
   {
    "device": "lavender",
@@ -153988,6 +154095,16 @@
    "device": "atmos",
    "name": "Redmi 13C 5G",
    "model": "23124RN87G"
+  },
+  {
+   "device": "tides",
+   "name": "Redmi 13x",
+   "model": "24049RN28L"
+  },
+  {
+   "device": "tides",
+   "name": "Redmi 13x",
+   "model": "2404ARN45A"
   },
   {
    "device": "lake",
@@ -179846,6 +179963,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "khardi",
+   "name": "SILO",
+   "model": "SILO GOOGLE TV 4K"
+  },
+  {
    "device": "mountbaker",
    "name": "SILO",
    "model": "2K SMART TV"
@@ -179985,6 +180107,11 @@
    "device": "Hot1-z",
    "name": "Hot1-z",
    "model": "Hot1-z"
+  },
+  {
+   "device": "Mecha",
+   "name": "Mecha",
+   "model": "Mecha"
   },
   {
    "device": "S10Y",
@@ -180287,6 +180414,11 @@
   },
   {
    "device": "hongkong",
+   "name": "Siragon",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "khardi",
    "name": "Siragon",
    "model": "4K SMART TV"
   },
@@ -181990,6 +182122,11 @@
    "device": "Smart_Hero_II",
    "name": "Smart_Hero_II",
    "model": "Smart_Hero_II"
+  },
+  {
+   "device": "komodo",
+   "name": "am60k",
+   "model": "SMART AM60"
   },
   {
    "device": "e-PAD",
@@ -215991,6 +216128,11 @@
    "model": "V2458"
   },
   {
+   "device": "V2419",
+   "name": "Y19s pro",
+   "model": "V2507"
+  },
+  {
    "device": "V2342",
    "name": "Y200",
    "model": "V2424"
@@ -231397,6 +231539,11 @@
    "model": "NX659J"
   },
   {
+   "device": "PQ83A06",
+   "name": "REDMAGIC 10",
+   "model": "NX779J"
+  },
+  {
    "device": "NX789J",
    "name": "REDMAGIC 10 Pro",
    "model": "NX789J"
@@ -235205,6 +235352,11 @@
    "device": "Z6255",
    "name": "nubia A75",
    "model": "Z6255CA"
+  },
+  {
+   "device": "P678F01",
+   "name": "nubia Flip 2 5G",
+   "model": "NX732J"
   },
   {
    "device": "P745F01",

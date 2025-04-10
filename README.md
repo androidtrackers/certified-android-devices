@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-09
+Last sync is 2025-04-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -267,6 +267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|AOC|A732G|A732G|
 |AOC|AOC|AOC_A831L-D|A831L-D|
 |AOC|AOC|hongkong|4K SMART TV|
+|AOC|AOC|khardi|4K SMART TV|
 |AOC|AOC|mountbaker|2K SMART TV|
 |AOC|AOC Android TV|PH0M_EA_T32|AOC Android TV|
 |AOC|AOC Google TV TA7|PH3M_AL_T32|AOC Google TV TA7|
@@ -4172,6 +4173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BLAUPUNKT|hongkong|4K SMART TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|hongkong|BLAUPUNKT GOOGLE TV 4K|
+|Blaupunkt|BLAUPUNKT|khardi|BLAUPUNKT GOOGLE TV 4K|
 |Blaupunkt|BLAUPUNKT|lavender|4K SMART TV|
 |Blaupunkt|BLAUPUNKT|lavender|BLAUPUNKT 4K TV|
 |Blaupunkt|BLAUPUNKT|mountbaker|BLAUPUNKT 2K TV|
@@ -8027,7 +8029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doro|Doro 824|825A|Doro 824|
 |Doro|Doro Aurora A10|DSB0550|Doro Aurora A10|
 |Doro|Doro Aurora A20|DSC0540|Doro Aurora A20|
-|Doro|Doro Auroru A30|DSB0560|Doro Aurora A30|
+|Doro|Doro Aurora A30|DSB0560|Doro Aurora A30|
 |Doro|Doro Tablet|DTO0410|Doro Tablet|
 |Doro|Liberto 810|Liberto810|Doro Liberto 810|
 |Doro|Liberto 810|Liberto810|Doro Liberto 810-orange|
@@ -9220,6 +9222,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
 |FPD|FPD|hongkong|EcoTV Pro I|
+|FPD|FPD|khardi|EcoTV Pre A|
+|FPD|FPD|khardi|EcoTV Pre D|
+|FPD|FPD|khardi|EcoTV Pre I|
 |FPD|FPD|lavender|EcoTV Plus C|
 |FPD|FPD|lavender|EcoTV Plus D|
 |FPD|FPD|lavender|EcoTV Plus I|
@@ -9970,6 +9975,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G9_U_EEA|G9_U_EEA|G9_U_EEA|
 |GOODTEL|G9_U_US|G9_U_US|G9_U_US|
 |GOtv|GO700FR|GoFreeTV|GO700FR|
+|GOtv|GOtv S|GoFreeTV|GO700FR|
+|GOtv|GOtv Y|HP4BA-GOTV|GO710FR|
 |GOtv|SEI600GO|HND|SEI600GO|
 |GP-electronic|YC-08P|YC-08P|YC-08P|
 |GP-electronic|YC-102D|YC-102D|YC-102D|
@@ -10652,6 +10659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 9 Pro|caiman|Pixel 9 Pro|
 |Google|Pixel 9 Pro Fold|comet|Pixel 9 Pro Fold|
 |Google|Pixel 9 Pro XL|komodo|Pixel 9 Pro XL|
+|Google|Pixel 9a|tegu|Pixel 9a|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Fold|felix|Pixel Fold|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
@@ -10708,6 +10716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Graetz|GRAETZ|hongkong|4K SMART TV|
 |Graetz|GRAETZ|lavender|4K SMART TV|
 |Graetz|GRAETZ|mountbaker|2K SMART TV|
+|Graetz|Graetz|khardi|4K SMART TV|
 |Grandstream|Grandstream WP856|WP856|WP856|
 |Grandstream|WP856|WP856|WP856|
 |Greatwall|100011886|tablet|100011886|
@@ -12671,6 +12680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U62 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense Y81 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E|Hisense Y82 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U53|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
@@ -15253,6 +15263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|hongkong|4K SMART COL TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|hongkong|HYUNDAI 4K SMART TV|
+|Hyundai|HYUNDAI|khardi|4K SMART TV|
 |Hyundai|HYUNDAI|lavender|4K SMART COL TV|
 |Hyundai|HYUNDAI|lavender|4K SMART ISDB TV|
 |Hyundai|HYUNDAI|lavender|HYUNDAI 4K SMART TV|
@@ -17428,7 +17439,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|IHOME|mountbaker|2K SMART TV|
 |KTCtv|IMMER|hongkong|4K SMART TV|
 |KTCtv|INCLO|hongkong|4K SMART TV|
+|KTCtv|INCLO|khardi|INCLO GOOGLE TV 4K|
 |KTCtv|INNO-HIT|hongkong|4K SMART TV|
+|KTCtv|INNO-HIT|khardi|4K SMART TV|
 |KTCtv|INNO-HIT|lavender|4K SMART TV|
 |KTCtv|INNO-HIT|mountbaker|2K SMART TV|
 |KTCtv|INNOVA|hongkong|INNOVA GOOGLE TV 4K|
@@ -17500,6 +17513,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VINCENT|mountbaker|2K SMART TV|
 |KTCtv|VIOTTO|hongkong|4K SMART ISDB TV|
 |KTCtv|VIOTTO|hongkong|4K SMART TV|
+|KTCtv|VIOTTO|khardi|4K SMART ISDB TV|
+|KTCtv|VIOTTO|khardi|4K SMART TV|
 |KTCtv|VIOTTO|lavender|4K SMART ISDB TV|
 |KTCtv|VIOTTO|lavender|4K SMART TV|
 |KTCtv|VIOTTO|mountbaker|2K SMART ISDB TV|
@@ -19710,6 +19725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LNMBBS|L80_US|L80_US|L80_US|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
+|LOFT|D4xx|D4|D4_Interactive_Display|
 |LOGIC|HX_Series|MTK9679|Logic_LT_IRXXHX|
 |LOGIC|L65E|L65E|L65E|
 |LOGIC|L66F|L66F|L66F|
@@ -20781,8 +20797,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10|X6C6NBL|Lenovo TB-X6C6NBL|
 |Lenovo|Lenovo Tab K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
-|Lenovo|Lenovo Tab K10 Gen 2/Lenovo Tab|TB311FU|TB311FU|
-|Lenovo|Lenovo Tab K10 Gen 2/Lenovo Tab|TB311XU|TB311XU|
+|Lenovo|Lenovo Tab K10 Gen 2 / Lenovo Tab|TB311FU|TB311FU|
+|Lenovo|Lenovo Tab K10 Gen 2 / Lenovo Tab|TB311XU|TB311XU|
 |Lenovo|Lenovo Tab K10 PRC|TB-X6E6F|Lenovo TB-X6E6F|
 |Lenovo|Lenovo Tab K10 PRC|TB-X6E6F|Lenovo TB-X6E6FC|
 |Lenovo|Lenovo Tab K10 PRC|X6C6F|Lenovo TB-X6C6F|
@@ -22084,6 +22100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|N535|Masstel_N535|Masstel N535|
 |Masstel|Tab10_Edu|Tab10_Edu|Masstel Tab10 Edu|
 |Masstel|Tab10_Edu|Tab10_EduV2|Tab10_Edu|
+|Masstel|Tab11_Ultra_4G|Tab11_Ultra_4G|Tab11_Ultra_4G|
 |Masstel|Tab7LTE|Masstel_Tab7LTE|Masstel_Tab7LTE|
 |Masstel|Tab7Plus|Tab7Plus|Tab7Plus|
 |Masstel|Tab8N|Tab8N|Masstel Tab8N|
@@ -23785,6 +23802,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motoroi|sholest|XT720|
 |Motorola|Motorola|hongkong|MOTOROLA GOOGLE TV 4K|
 |Motorola|Motorola|hongkong|MOTOROLA GOOGLE TV 4K ATSC|
+|Motorola|Motorola|khardi|MOTOROLA GOOGLE TV 4K|
+|Motorola|Motorola|khardi|MOTOROLA GOOGLE TV 4K N|
 |Motorola|Motorola|lavender|MOTOROLA GOOGLE TV 4K|
 |Motorola|Motorola|mountbaker|MOTOROLA GOOGLE TV|
 |Motorola|Motorola|mountbaker|MOTOROLA GOOGLE TV NA|
@@ -27175,6 +27194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAITANRY|CH10PRO|CH10PRO|CH10_PRO|
 |PAITANRY|R16|R16|R16|
 |PAITANRY|R16-PRO|R16-PRO|R16 PRO|
+|PAITANRY|R95|R95|N868|
 |PAITANRY|SSK10|SSK10|SSK10|
 |PALSONIC|Android TV|R1|ATV R1|
 |PANORAMA|Smart TV|kualakai|Smart TV|
@@ -27923,6 +27943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PHILIPS|hongkong|4K SMART TV|
 |Philips|PHILIPS|hongkong|4K SMART TV PH|
 |Philips|PHILIPS|khardi|4K SMART ISDB TV|
+|Philips|PHILIPS|khardi|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV|
 |Philips|PHILIPS|lavender|4K SMART TV PH|
 |Philips|PHILIPS|mountbaker|2K SMART TV|
@@ -29908,6 +29929,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 13C|gust|23108RN04Y|
 |Redmi|Redmi 13C 5G|air|23124RN87I|
 |Redmi|Redmi 13C 5G|atmos|23124RN87G|
+|Redmi|Redmi 13x|tides|24049RN28L|
+|Redmi|Redmi 13x|tides|2404ARN45A|
 |Redmi|Redmi 14C|lake|2409BRN2CY|
 |Redmi|Redmi 14C|pond|2409BRN2CA|
 |Redmi|Redmi 14C|pond|2409BRN2CL|
@@ -34998,6 +35021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sigma Mobile|X_style_Tab_A83|X_style_Tab_A83|X_style_Tab_A83|
 |Silent Circle|Blackphone 2|BP2|Blackphone 2|
 |Silo|SILO|hongkong|4K SMART TV|
+|Silo|SILO|khardi|SILO GOOGLE TV 4K|
 |Silo|SILO|mountbaker|2K SMART TV|
 |Silver line|SL1021|SL1021|SL1021|
 |Silver line|SL1022|SL1022|SL1022|
@@ -35025,6 +35049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Simbans|TangoTab_XL|TangoTab_XL|TangoTab_XL|
 |SimiMobile|G507|G507|G507|
 |SimiMobile|Hot1-z|Hot1-z|Hot1-z|
+|SimiMobile|Mecha|Mecha|Mecha|
 |SimiMobile|S10Y|S10Y|S10Y|
 |SimiMobile|S501|S501|S501|
 |SimiMobile|S501plus|S501plus-Z|S501plus-Z|
@@ -35083,6 +35108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|SP_7275|SP_7275|SP_7275|
 |Siragon|Siragon|elliniko|4K SMART TV|
 |Siragon|Siragon|hongkong|4K SMART TV|
+|Siragon|Siragon|khardi|4K SMART TV|
 |Siragon|Siragon|mountbaker|2K SMART TV|
 |Siragon|Siragon_SP_7200|Siragon_SP_7200|Siragon_SP_7200|
 |Siragon|Siragon_SP_7300|Siragon_SP_7300|SP_7300|
@@ -35418,6 +35444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
 |Smart|Smart_Hero_II|Smart_Hero_II|Smart_Hero_II|
+|Smart|am60k|komodo|SMART AM60|
 |Smart|e-PAD|e-PAD|e-PAD|
 |Smart|gxv4na|sherbet|SMART Board GX (V4) Plus Series NA|
 |Smart|hero A1|hero_A1|hero A1|
@@ -42027,6 +42054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y19s|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2458|
+|Vivo|Y19s pro|V2419|V2507|
 |Vivo|Y200|V2342|V2424|
 |Vivo|Y200|V2342|V2425|
 |Vivo|Y200 5G|V2307|V2307|
@@ -45033,6 +45061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|R83|demeter|ZTE R83|
 |ZTE|RACER III mini|roamer2|RACER III mini|
 |ZTE|RED MAGIC 5G|NX659J|NX659J|
+|ZTE|REDMAGIC 10|PQ83A06|NX779J|
 |ZTE|REDMAGIC 10 Pro|NX789J|NX789J|
 |ZTE|REDMAGIC 7|NX709J-EEA|NX709J|
 |ZTE|REDMAGIC 7Pro|NX709J-UN|NX709J|
@@ -45795,6 +45824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia 8046|P616F01|nubia 8046|
 |ZTE|nubia A75|Z6255|Z6255CA|
+|ZTE|nubia Flip 2 5G|P678F01|NX732J|
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
