@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-10
+Last sync is 2025-04-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2973,6 +2973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BALMUDA|BALMUDA Phone|X01A|X01A|
 |BAMtelecoms|N3|N3|N3|
 |BAMtelecoms|T3|T3|T3|
+|BAROCOMPUTER|EMC86HB_V|EMC86HB_V|EMC86HB_V|
 |BARTEC|BARTEC SC9EX1 Smartscanner|SC9EX1|SC9EX1|
 |BARTEC|BARTEC SP9EX1 Smartphone|SP9EX1|SP9EX1|
 |BARTEC|Pixavi Phone|PixaviPhone|Pixavi Phone|
@@ -8665,6 +8666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Engel|Smart TV|osaki|2K AI Smart TV|
 |Englaon|ENGLAON|elliniko|ENGLAON 4K GOOGLE TV|
 |Englaon|ENGLAON|mountbaker|2K SMART TV|
+|Englaon|ENGLAON|mountbaker|ENGLAON 2K Google TV|
 |Englaon|ENGLAON|stanford|2K SMART TV|
 |Enspert||E-TAB|E-TAB|
 |Enspert||ESP_E301|ESP_E301BK|
@@ -12677,6 +12679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U605|Hisense|Hisense U605|
 |Hisense|Hisense U62 Pro|HLTE121E|Hisense U62 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense M71 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E|Hisense U53|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U62 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense Y81 Pro|
@@ -16089,6 +16092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infocus|InFocus M6S|AH2|IF9003|
 |Infocus|InFocus M7 Lite|A02|IF9031|
 |Infocus|InFocus M7S|A08|IF9031|
+|Infocus|JTouch 13e|D014|JTouch_Series_13ea|
 |Infocus|JTouch Series 13|D011|JTouch_Series_13|
 |Infocus|LE5039|BX2|LE5039|
 |Infocus|M2|LSO|InFocus M2|
@@ -16845,6 +16849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JOVI|JOVI Y19s|V2419B|V2425|
+|JOVI|JOVI Y29|V2434B|V2445|
 |JOVI|V50|V2427B|V2427|
 |JOYSURF|TB-JS100A|TB-JS100A|TB-JS100A|
 |JOYSURF|TB-JS101A|TB-JS101A|TB-JS101A|
@@ -17373,6 +17378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|KTC|mountbaker|2K SMART TV|
 |KTC|SD_GM01|Capricorn|Eco Smart Display|
 |KTC|SD_GM02|Leo|Eco Smart Display ME|
+|KTC|SD_GM03|Sagittarius|Eco Smart Display Lite|
 |KTC|W83B-LANGO3576|W83B-F2-RK3576|W83B-F2-RK3576|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
@@ -17456,7 +17462,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KIUNIT|zhongshan|Smart UHD TV|
 |KTCtv|KTC|stanford|2K SMART TV|
 |KTCtv|KTC|zhongshan|4K SMART TV|
-|KTCtv|LUMIO|khardi|LUMIO VISION|
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|MITSUKI|lavender|4K SMART TV|
@@ -19799,6 +19804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|LUCOMS|zhongshan|4K SMART TV|
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
+|LUMIO|LUMIO|khardi|LUMIO VISION|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
 |LUMUS|NEOSR620|NEOSR620|NEOSR620|
@@ -24237,6 +24243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Movado Connect|stargazer|Movado Connect|
 |Movado|Movado Connect|stargazer|Stargazer|
 |Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
+|Move|MOVE OTT-Box 1|DV8919-KSM|MOVE OTT-Box 1|
 |Moveby|LINNEX|LX50|LX50|
 |Movfast|Ranger2|MFT1522|Ranger2|
 |Movfast|Ranger2 Lite|MFT1621|Ranger2K|
@@ -25696,6 +25703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OLAX|Q101_EEA|Q101_EEA|Q101_EEA|
 |OMAX|7PAN|7PAN|7PAN|
 |OMAX|FeelMooK|rk3588_t|FeelMooK|
+|OMAX|FeelMook|FeelMook|FeelMook|
 |OMAX|OMAX-IFPD|rk3588_t|HANJI|
 |OMIX|MixTab Pro|MixTab_Pro|MixTab Pro|
 |OMIX|MixTab Pro 2|MixTab_Pro_2|MixTab Pro 2|
@@ -34590,6 +34598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R9|Orga|A401SH|
 |Sharp|AQUOS R9|Orga|SH-M28|
 |Sharp|AQUOS R9|SH-51E|SH-51E|
+|Sharp|AQUOS R9 pro|Mikazuki|A504SH|
 |Sharp|AQUOS R9 pro|Mikazuki|SH-M30|
 |Sharp|AQUOS R9 pro|SH-54E|SH-54E|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
@@ -39719,6 +39728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleone|I06|I06|I06|
 |Telev8|MH700|MH700|MH700|
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
+|Telia|DV8919X-LT|DV8919-KLT|DV8919X-LT|
 |Telia|Telia Nordic STB|DV8919-KST|Telia Nordic STB|
 |Telkom|TVB-100|DV8219|TVB-100|
 |Telkom|Telkom|DV8219|TVB-100|
@@ -42055,6 +42065,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y19s pro|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2458|
 |Vivo|Y19s pro|V2419|V2507|
+|Vivo|Y19s pro|V2419|V2508|
+|Vivo|Y19s pro|V2419|V2519|
 |Vivo|Y200|V2342|V2424|
 |Vivo|Y200|V2342|V2425|
 |Vivo|Y200 5G|V2307|V2307|

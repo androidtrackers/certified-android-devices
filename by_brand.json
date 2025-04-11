@@ -15379,6 +15379,13 @@
    "model": "T3"
   }
  ],
+ "BAROCOMPUTER": [
+  {
+   "device": "EMC86HB_V",
+   "name": "EMC86HB_V",
+   "model": "EMC86HB_V"
+  }
+ ],
  "BARTEC": [
   {
    "device": "SC9EX1",
@@ -44977,6 +44984,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "mountbaker",
+   "name": "ENGLAON",
+   "model": "ENGLAON 2K Google TV"
+  },
+  {
    "device": "stanford",
    "name": "ENGLAON",
    "model": "2K SMART TV"
@@ -65737,6 +65749,11 @@
   {
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
+   "model": "Hisense U53"
+  },
+  {
+   "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
    "model": "Hisense U62 Pro"
   },
   {
@@ -83013,6 +83030,11 @@
    "model": "IF9031"
   },
   {
+   "device": "D014",
+   "name": "JTouch 13e",
+   "model": "JTouch_Series_13ea"
+  },
+  {
    "device": "D011",
    "name": "JTouch Series 13",
    "model": "JTouch_Series_13"
@@ -86881,6 +86903,11 @@
    "model": "V2425"
   },
   {
+   "device": "V2434B",
+   "name": "JOVI Y29",
+   "model": "V2445"
+  },
+  {
    "device": "V2427B",
    "name": "V50",
    "model": "V2427"
@@ -89665,6 +89692,11 @@
    "model": "Eco Smart Display ME"
   },
   {
+   "device": "Sagittarius",
+   "name": "SD_GM03",
+   "model": "Eco Smart Display Lite"
+  },
+  {
    "device": "W83B-F2-RK3576",
    "name": "W83B-LANGO3576",
    "model": "W83B-F2-RK3576"
@@ -90082,11 +90114,6 @@
    "device": "zhongshan",
    "name": "KTC",
    "model": "4K SMART TV"
-  },
-  {
-   "device": "khardi",
-   "name": "LUMIO",
-   "model": "LUMIO VISION"
   },
   {
    "device": "minami",
@@ -102013,6 +102040,13 @@
    "device": "AT11R464_LUKE",
    "name": "AT11R464_LUKE",
    "model": "AT11R464"
+  }
+ ],
+ "LUMIO": [
+  {
+   "device": "khardi",
+   "name": "LUMIO",
+   "model": "LUMIO VISION"
   }
  ],
  "LUMUS": [
@@ -124741,6 +124775,13 @@
    "model": "Movado Connect 2"
   }
  ],
+ "Move": [
+  {
+   "device": "DV8919-KSM",
+   "name": "MOVE OTT-Box 1",
+   "model": "MOVE OTT-Box 1"
+  }
+ ],
  "Moveby": [
   {
    "device": "LX50",
@@ -132354,6 +132395,11 @@
    "device": "rk3588_t",
    "name": "FeelMooK",
    "model": "FeelMooK"
+  },
+  {
+   "device": "FeelMook",
+   "name": "FeelMook",
+   "model": "FeelMook"
   },
   {
    "device": "rk3588_t",
@@ -177788,6 +177834,11 @@
   {
    "device": "Mikazuki",
    "name": "AQUOS R9 pro",
+   "model": "A504SH"
+  },
+  {
+   "device": "Mikazuki",
+   "name": "AQUOS R9 pro",
    "model": "SH-M30"
   },
   {
@@ -203997,6 +204048,11 @@
    "model": "DV8919X-EE"
   },
   {
+   "device": "DV8919-KLT",
+   "name": "DV8919X-LT",
+   "model": "DV8919X-LT"
+  },
+  {
    "device": "DV8919-KST",
    "name": "Telia Nordic STB",
    "model": "Telia Nordic STB"
@@ -216131,6 +216187,16 @@
    "device": "V2419",
    "name": "Y19s pro",
    "model": "V2507"
+  },
+  {
+   "device": "V2419",
+   "name": "Y19s pro",
+   "model": "V2508"
+  },
+  {
+   "device": "V2419",
+   "name": "Y19s pro",
+   "model": "V2519"
   },
   {
    "device": "V2342",
