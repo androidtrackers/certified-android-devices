@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-11
+Last sync is 2025-04-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16849,6 +16849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JOVI|JOVI Y19s|V2419B|V2425|
+|JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y29|V2434B|V2445|
 |JOVI|V50|V2427B|V2427|
 |JOYSURF|TB-JS100A|TB-JS100A|TB-JS100A|
@@ -17902,6 +17903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|D50PRO|Kodak_D50PRO|D50PRO|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
+|Kodak|K11_ROW|K11_ROW|K11_ROW|
 |Kodak|KD10112TB|KD10112TB|KD10112TB|
 |Kodak|KODAK|bruno|KODAK2KAndroidTV|
 |Kodak|KODAK|shilin|KODAK4KAndroidTV|
@@ -23972,6 +23974,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus 5G - 2023|genevn|moto g stylus 5g|
 |Motorola|moto g stylus 5G - 2024|boston|moto g stylus 5G - 2023|
 |Motorola|moto g stylus 5G - 2024|boston|moto g stylus 5G - 2024|
+|Motorola|moto g stylus 5G - 2025|mona|moto g stylus - 2025|
+|Motorola|moto g stylus 5G - 2025|mona|motorola edge 50 fusion|
 |Motorola|moto g(10)|capri|moto e(7) plus|
 |Motorola|moto g(10)|capri|moto g(10)|
 |Motorola|moto g(100)|nio|moto g(100)|
@@ -24164,6 +24168,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 50 ultra|ctwo|motorola edge 50 ultra|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
+|Motorola|motorola edge 60 fusion|scout|motorola edge 50 neo|
+|Motorola|motorola edge 60 fusion|scout|motorola edge 60 fusion|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -29863,7 +29869,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K30_EEA|K30_EEA|K30_EEA|
 |Rebecco|K30_ROW|K30_ROW|K30_ROW|
 |Rebecco|K50_EEA|K50_EEA|K50_EEA|
+|Rebecco|K50_EEA_B|K50_EEA_B|K50_EEA_B|
 |Rebecco|K50_ROW|K50_ROW|K50_ROW|
+|Rebecco|K50_ROW_B|K50_ROW_B|K50_ROW_B|
 |Rebecco|K70_EEA|K70_EEA|K70_EEA|
 |Rebecco|K70_EEA_B|K70_EEA_B|K70_EEA_B|
 |Rebecco|K70_ROW|K70_ROW|K70_ROW|
@@ -33588,6 +33596,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216B|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216C|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216N|
+|Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216R|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X218B|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X218U|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
@@ -41560,6 +41569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
 |ViewSonic|VPC-A31-O1|VPC-A31-O1|VPC-A31-O1|
+|ViewSonic|VS-DUAL-86|t7_an400|VS-DUAL-86|
 |ViewSonic|VSD221|VSD221|VSD221|
 |ViewSonic|VSD231|VSD231-VSA|VSD231|
 |ViewSonic|VSD241 Smart Display|VSD241|VSD241|
@@ -44117,6 +44127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOFYWNAS|D10|D10|D10|
 |ZOFYWNAS|D10_EEA|D10|D10|
 |ZOLON|E0113|E0113|E0113|
+|ZOLON|L161x|L161X|L161X|
 |ZOLON|L16XX|L16XX|L16XX|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|

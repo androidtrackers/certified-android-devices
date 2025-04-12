@@ -86903,6 +86903,11 @@
    "model": "V2425"
   },
   {
+   "device": "V2419B",
+   "name": "JOVI Y19s",
+   "model": "V2454"
+  },
+  {
    "device": "V2434B",
    "name": "JOVI Y29",
    "model": "V2445"
@@ -92410,6 +92415,11 @@
    "device": "IM5",
    "name": "IM5",
    "model": "IM5"
+  },
+  {
+   "device": "K11_ROW",
+   "name": "K11_ROW",
+   "model": "K11_ROW"
   },
   {
    "device": "KD10112TB",
@@ -123414,6 +123424,16 @@
    "model": "moto g stylus 5G - 2024"
   },
   {
+   "device": "mona",
+   "name": "moto g stylus 5G - 2025",
+   "model": "moto g stylus - 2025"
+  },
+  {
+   "device": "mona",
+   "name": "moto g stylus 5G - 2025",
+   "model": "motorola edge 50 fusion"
+  },
+  {
    "device": "capri",
    "name": "moto g(10)",
    "model": "moto e(7) plus"
@@ -124372,6 +124392,16 @@
    "device": "berlna",
    "name": "motorola edge 5G UW (2021)",
    "model": "motorola edge 5G UW (2021)"
+  },
+  {
+   "device": "scout",
+   "name": "motorola edge 60 fusion",
+   "model": "motorola edge 50 neo"
+  },
+  {
+   "device": "scout",
+   "name": "motorola edge 60 fusion",
+   "model": "motorola edge 60 fusion"
   },
   {
    "device": "xpeng",
@@ -153765,9 +153795,19 @@
    "model": "K50_EEA"
   },
   {
+   "device": "K50_EEA_B",
+   "name": "K50_EEA_B",
+   "model": "K50_EEA_B"
+  },
+  {
    "device": "K50_ROW",
    "name": "K50_ROW",
    "model": "K50_ROW"
+  },
+  {
+   "device": "K50_ROW_B",
+   "name": "K50_ROW_B",
+   "model": "K50_ROW_B"
   },
   {
    "device": "K70_EEA",
@@ -172704,6 +172744,11 @@
    "device": "gta9p",
    "name": "Galaxy Tab A9+ 5G",
    "model": "SM-X216N"
+  },
+  {
+   "device": "gta9p",
+   "name": "Galaxy Tab A9+ 5G",
+   "model": "SM-X216R"
   },
   {
    "device": "gta9p",
@@ -213634,6 +213679,11 @@
    "model": "VPC-A31-O1"
   },
   {
+   "device": "t7_an400",
+   "name": "VS-DUAL-86",
+   "model": "VS-DUAL-86"
+  },
+  {
    "device": "VSD221",
    "name": "VSD221",
    "model": "VSD221"
@@ -226815,6 +226865,11 @@
    "device": "E0113",
    "name": "E0113",
    "model": "E0113"
+  },
+  {
+   "device": "L161X",
+   "name": "L161x",
+   "model": "L161X"
   },
   {
    "device": "L16XX",
