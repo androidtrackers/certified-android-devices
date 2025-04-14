@@ -211058,6 +211058,13 @@
    "model": "VOXelectronics 4K Android TV"
   }
  ],
+ "VS Visu": [
+  {
+   "device": "t7_an400",
+   "name": "VS-DUAL-86",
+   "model": "VS-DUAL-86"
+  }
+ ],
  "VSN": [
   {
    "device": "up11_h1_vsn",
@@ -213677,11 +213684,6 @@
    "device": "VPC-A31-O1",
    "name": "VPC-A31-O1",
    "model": "VPC-A31-O1"
-  },
-  {
-   "device": "t7_an400",
-   "name": "VS-DUAL-86",
-   "model": "VS-DUAL-86"
   },
   {
    "device": "VSD221",

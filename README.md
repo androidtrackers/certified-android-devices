@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-13
+Last sync is 2025-04-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -41060,6 +41060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VOXelectronics|VOXELECTRONICS|lavender|4K SMART TV|
 |VOXelectronics|VOXelectronics 2K Android TV|lasalle|VOXelectronics 2K Android TV|
 |VOXelectronics|VOXelectronics 4K Android TV|kenton|VOXelectronics 4K Android TV|
+|VS Visu|VS-DUAL-86|t7_an400|VS-DUAL-86|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
 |VTCNOWRINDO|VR-42AF6800|ikebukuro|AI PONT|
@@ -41569,7 +41570,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
 |ViewSonic|VPC-A31-O1|VPC-A31-O1|VPC-A31-O1|
-|ViewSonic|VS-DUAL-86|t7_an400|VS-DUAL-86|
 |ViewSonic|VSD221|VSD221|VSD221|
 |ViewSonic|VSD231|VSD231-VSA|VSD231|
 |ViewSonic|VSD241 Smart Display|VSD241|VSD241|
