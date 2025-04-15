@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-14
+Last sync is 2025-04-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2161,6 +2161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|U3 4G|U3_4G|U3_4G|
 |Artel|U4|U4|U4|
 |Artia|Artia SP545C|SP545C|SP545C|
+|Artia|SP545CV|SP545C|SP545C|
 |Artizlee|Artizlee S9|Artizlee_S9|Artizlee_S9|
 |Arçelik|Arcelik Android TV|shinagawa|Arcelik Android TV|
 |Arçelik|Arçelik Android TV|kunyang|Arcelik Android TV|
@@ -17517,6 +17518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VIMEEL|mountbaker|VIMEEL GOOGLE TV|
 |KTCtv|VINCENT|elliniko|4K SMART TV|
 |KTCtv|VINCENT|mountbaker|2K SMART TV|
+|KTCtv|VIOTTO|elliniko|4K SMART TV|
 |KTCtv|VIOTTO|hongkong|4K SMART ISDB TV|
 |KTCtv|VIOTTO|hongkong|4K SMART TV|
 |KTCtv|VIOTTO|khardi|4K SMART ISDB TV|
@@ -24170,6 +24172,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
 |Motorola|motorola edge 60 fusion|scout|motorola edge 50 neo|
 |Motorola|motorola edge 60 fusion|scout|motorola edge 60 fusion|
+|Motorola|motorola edge 60 stylus|monai|motorola edge 50 fusion|
+|Motorola|motorola edge 60 stylus|monai|motorola edge 60 stylus|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -26769,6 +26773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno13 5G|OP5E9EL1|CPH2689|
 |Oppo|Reno13 F|OP5ECBL1|CPH2701|
 |Oppo|Reno13 F 5G|OP5EC7L1|CPH2699|
+|Oppo|Reno13 F 5G / Reno13 A|OP5EC7L1|CPH2699|
 |Oppo|Reno13 Pro|OP5DD5L1|PKK110|
 |Oppo|Reno13 Pro 5G|OP5EC5L1|CPH2697|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
@@ -27309,6 +27314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEAQ|R4_GTV|R4_GTV|R4G|
 |PEICHENG|Q1|Q1|Q1|
+|PEICHENG|Q1|Q1|Q1K|
 |PEICHENG|Q8|Q8|Q8|
 |PEICHENG|Q8|Q8|Q8K|
 |PEICHENG|Q8PRO|Q8PRO|Q8 PRO|
@@ -39196,6 +39202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T60_EEA|T60_EEA|T60_EEA|
 |Teclast|T60_ROW|T60_ROW|T60|
 |Teclast|T60_RUS|T60_RUS|T60_RUS|
+|Teclast|T65Max_A_EEA|T65Max_A_EEA|T65Max_A_EEA|
 |Teclast|T65Max_EEA|T65Max_EEA|T65Max_EEA|
 |Teclast|T65Max_ROW|T65Max_ROW|T65Max_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|
@@ -42202,6 +42209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Pad2|DPD2345|iPA2453|
 |Vivo|iQOO Pad2 Pro|DPD2329|iPA2475|
+|Vivo|iQOO Z10 5G|I2407|I2407|
 |Vivo|iQOO Z10x|PD2445|V2445A|
 |Vivo|iQOO Z10x 5G|I2404|I2404|
 |Vivo|iQOO Z5|2018|I2018|
@@ -42314,6 +42322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S19|PD2364|V2364A|
 |Vivo|vivo T2|PD2199|V2199GA|
 |Vivo|vivo T3 Pro 5G|V2404|V2404|
+|Vivo|vivo T4 5G|V2502|V2502|
 |Vivo|vivo T4x 5G|V2437|V2437|
 |Vivo|vivo V50 Lite|V2441|V2441|
 |Vivo|vivo V50 Lite|V2441|V2453|
@@ -47426,6 +47435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Starr 100|V406018|V406018|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
+|waiputv|waipu.tv Box|SEID00BWP|waipu.tv Box|
 |wancheng|WC-F11|WC-F11|WC-F11|
 |weelikeit|C19W|C19W|C19W|
 |weelikeit|C19W_EEA|C19W_EEA|C19W_EEA|

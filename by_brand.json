@@ -11225,6 +11225,11 @@
    "device": "SP545C",
    "name": "Artia SP545C",
    "model": "SP545C"
+  },
+  {
+   "device": "SP545C",
+   "name": "SP545CV",
+   "model": "SP545C"
   }
  ],
  "Artizlee": [
@@ -90391,6 +90396,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "VIOTTO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "VIOTTO",
    "model": "4K SMART ISDB TV"
@@ -124404,6 +124414,16 @@
    "model": "motorola edge 60 fusion"
   },
   {
+   "device": "monai",
+   "name": "motorola edge 60 stylus",
+   "model": "motorola edge 50 fusion"
+  },
+  {
+   "device": "monai",
+   "name": "motorola edge 60 stylus",
+   "model": "motorola edge 60 stylus"
+  },
+  {
    "device": "xpeng",
    "name": "motorola edge S30",
    "model": "XT2175-2"
@@ -137829,6 +137849,11 @@
    "model": "CPH2699"
   },
   {
+   "device": "OP5EC7L1",
+   "name": "Reno13 F 5G / Reno13 A",
+   "model": "CPH2699"
+  },
+  {
    "device": "OP5DD5L1",
    "name": "Reno13 Pro",
    "model": "PKK110"
@@ -140593,6 +140618,11 @@
    "device": "Q1",
    "name": "Q1",
    "model": "Q1"
+  },
+  {
+   "device": "Q1",
+   "name": "Q1",
+   "model": "Q1K"
   },
   {
    "device": "Q8",
@@ -201332,6 +201362,11 @@
    "model": "T60_RUS"
   },
   {
+   "device": "T65Max_A_EEA",
+   "name": "T65Max_A_EEA",
+   "model": "T65Max_A_EEA"
+  },
+  {
    "device": "T65Max_EEA",
    "name": "T65Max_EEA",
    "model": "T65Max_EEA"
@@ -216876,6 +216911,11 @@
    "model": "iPA2475"
   },
   {
+   "device": "I2407",
+   "name": "iQOO Z10 5G",
+   "model": "I2407"
+  },
+  {
    "device": "PD2445",
    "name": "iQOO Z10x",
    "model": "V2445A"
@@ -217434,6 +217474,11 @@
    "device": "V2404",
    "name": "vivo T3 Pro 5G",
    "model": "V2404"
+  },
+  {
+   "device": "V2502",
+   "name": "vivo T4 5G",
+   "model": "V2502"
   },
   {
    "device": "V2437",
@@ -243800,6 +243845,11 @@
    "device": "SEI700WP",
    "name": "waipu tv stick",
    "model": "waipu tv stick"
+  },
+  {
+   "device": "SEID00BWP",
+   "name": "waipu.tv Box",
+   "model": "waipu.tv Box"
   }
  ],
  "wancheng": [
