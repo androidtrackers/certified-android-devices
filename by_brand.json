@@ -1201,6 +1201,11 @@
   {
    "device": "L3",
    "name": "L3",
+   "model": "AR1"
+  },
+  {
+   "device": "L3",
+   "name": "L3",
    "model": "L3"
   }
  ],
@@ -5550,6 +5555,13 @@
    "model": "AFK-0001-1002"
   }
  ],
+ "AgileTV": [
+  {
+   "device": "DV9157-T2-KIA",
+   "name": "DV9157-T2",
+   "model": "DV9157-T2"
+  }
+ ],
  "Aikun": [
   {
    "device": "LC-TS08A",
@@ -5670,6 +5682,11 @@
   }
  ],
  "Airtel": [
+  {
+   "device": "DV9108-KNA",
+   "name": "Airtel Smart Box",
+   "model": "Airtel Smart Box"
+  },
   {
    "device": "H6682",
    "name": "H6682_Airtel_DRC",
@@ -136419,6 +136436,16 @@
    "model": "PKC130"
   },
   {
+   "device": "OP5DD3L1",
+   "name": "Find X8 Ultra",
+   "model": "PKJ110"
+  },
+  {
+   "device": "OP5DD2L1",
+   "name": "Find X8 Ultra 卫星通信版",
+   "model": "PKU110"
+  },
+  {
    "device": "OP5DCBL1",
    "name": "Find X8s",
    "model": "PKT110"
@@ -140075,6 +140102,11 @@
    "device": "CH10PRO",
    "name": "CH10PRO",
    "model": "CH10_PRO"
+  },
+  {
+   "device": "CH10PROMAX",
+   "name": "CH10PROMAX",
+   "model": "CH10PROMAX"
   },
   {
    "device": "R16",
@@ -215556,11 +215588,6 @@
    "model": "V2282A"
   },
   {
-   "device": "PD2314",
-   "name": "V2314A",
-   "model": "V2314A"
-  },
-  {
    "device": "V2338",
    "name": "V2338",
    "model": "V2338"
@@ -217006,6 +217033,11 @@
    "model": "I2216"
   },
   {
+   "device": "PD2314",
+   "name": "iQOO Z8",
+   "model": "V2314A"
+  },
+  {
    "device": "PD2312",
    "name": "iQOO Z8x",
    "model": "V2312A"
@@ -217394,6 +217426,11 @@
    "device": "DPD2305",
    "name": "vivo Pad Air",
    "model": "PA2353"
+  },
+  {
+   "device": "DPD2424",
+   "name": "vivo Pad SE",
+   "model": "PA2511"
   },
   {
    "device": "DPD2221",
@@ -225288,6 +225325,11 @@
    "device": "TravelPad_A10",
    "name": "TravelPad A10",
    "model": "TravelPad A10"
+  },
+  {
+   "device": "elliniko",
+   "name": "XITRIX",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -237567,7 +237609,7 @@
  "ahlo": [
   {
    "device": "CAV",
-   "name": "Cavendish",
+   "name": "1",
    "model": "Ahlo 1"
   }
  ],

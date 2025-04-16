@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-15
+Last sync is 2025-04-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -227,6 +227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
 |ALPHAWOLF|A1|A1|A1|
 |ALPHAWOLF|L2|L2|L2|
+|ALPHAWOLF|L3|L3|AR1|
 |ALPHAWOLF|L3|L3|L3|
 |ALPHA_LING|A97GT|A97GT|A97GT|
 |ALPHA_LING|A97GT_Pro|A97GT_Pro|A97GT_Pro|
@@ -1054,6 +1055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AfriOne|moxie|moxie|moxie|
 |Afrrikia|AFK-0001-1001|AFK-0001-1001|AFK-0001-1001|
 |Afrrikia|AFK-0001-1002|AFK-0001-1002|AFK-0001-1002|
+|AgileTV|DV9157-T2|DV9157-T2-KIA|DV9157-T2|
 |Aikun|EDSTAR LC-TS08A|LC-TS08A|LC-TS08A|
 |Aikun|EDSTAR LC-TS08S|LC-TS08S|LC-TS08S|
 |Aikun|RX300|X300|X300|
@@ -1075,6 +1077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airpha|Sense2|Sense2|Sense2|
 |Airpha|Sense2_Pro|Sense2_Pro|Sense2_Pro|
 |Airtab|AT8-N|AT8-N|AT8-N|
+|Airtel|Airtel Smart Box|DV9108-KNA|Airtel Smart Box|
 |Airtel|H6682_Airtel_DRC|H6682|H6682_Airtel_DRC|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
@@ -26487,6 +26490,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X8 Pro|OP5A41L1|PKC110|
 |Oppo|Find X8 Pro|OP5AB0L1|CPH2659|
 |Oppo|Find X8 Pro 卫星通信版|OP5A41L1|PKC130|
+|Oppo|Find X8 Ultra|OP5DD3L1|PKJ110|
+|Oppo|Find X8 Ultra 卫星通信版|OP5DD2L1|PKU110|
 |Oppo|Find X8s|OP5DCBL1|PKT110|
 |Oppo|Find X8s+|OP5DCDL1|PLB110|
 |Oppo|Find5|FIND5|X909|
@@ -27211,6 +27216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oysters|Universal Phone 1|Universal_Phone_1|UBS1|
 |PAITANRY|CH10|CH10|CH10|
 |PAITANRY|CH10PRO|CH10PRO|CH10_PRO|
+|PAITANRY|CH10PROMAX|CH10PROMAX|CH10PROMAX|
 |PAITANRY|R16|R16|R16|
 |PAITANRY|R16-PRO|R16-PRO|R16 PRO|
 |PAITANRY|R95|R95|N868|
@@ -41938,7 +41944,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2220A|PD2220|V2220A|
 |Vivo|V2279A|PD2279J|V2279A|
 |Vivo|V2282A|PD2282|V2282A|
-|Vivo|V2314A|PD2314|V2314A|
 |Vivo|V2338|V2338|V2338|
 |Vivo|V2353A|PD2353|V2353A|
 |Vivo|V2353A|PD2353|V2353DA|
@@ -42228,6 +42233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7x|PD2272|V2272A|
 |Vivo|iQOO Z7x (m)|PD2272|V2272A|
 |Vivo|iQOO Z7x 5G|I2216|I2216|
+|Vivo|iQOO Z8|PD2314|V2314A|
 |Vivo|iQOO Z8x|PD2312|V2312A|
 |Vivo|iQOO Z9|PD2361|V2361A|
 |Vivo|iQOO Z9 5G|I2218|I2218|
@@ -42306,6 +42312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo Pad Air|DPD2305|PA2353|
+|Vivo|vivo Pad SE|DPD2424|PA2511|
 |Vivo|vivo Pad2|DPD2221|PA2373|
 |Vivo|vivo Pad3|DPD2345|PA2455|
 |Vivo|vivo Pad3 Pro|DPD2329|PA2473|
@@ -43836,6 +43843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xinlian|HC750|HC750|HC750|
 |Xitrix|TravelPad A10|TravelPad_A10|TravelPad A10|
+|Xitrix|XITRIX|elliniko|4K SMART TV|
 |Xitrix|XITRIX|stanford|SMART TV|
 |Xitrix|XITRIX|zhongshan|4K SMART TV|
 |Xming|Page One Smart Projector|tianshan|Xming Google TV|
@@ -46250,7 +46258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |abxylute|abxylute_one|abxylute_one|abxylute_one|
 |abxylute|abxylute_one|abxylute_one|abxylute_one_EEA|
 |afriphone|smart_S5|smart_S5|smart_S5|
-|ahlo|Cavendish|CAV|Ahlo 1|
+|ahlo|1|CAV|Ahlo 1|
 |aigo|A16|A16|A16|
 |aigo|A16pro|A16pro|A16pro|
 |aigo|A18|A18|A18|
