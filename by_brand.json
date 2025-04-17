@@ -7765,6 +7765,11 @@
    "model": "iPlay_70_S"
   },
   {
+   "device": "iPlay_70_Ultra",
+   "name": "iPlay_70_Ultra",
+   "model": "iPlay 70 Ultra"
+  },
+  {
    "device": "iPlay_70_mini_Ultra",
    "name": "iPlay_70_mini_Ultra",
    "model": "iPlay 70 mini Ultra"
@@ -25481,6 +25486,11 @@
    "model": "CTABERA101"
   },
   {
+   "device": "CTABEVOP12",
+   "name": "CTABEVOP12",
+   "model": "CTABEVOP12"
+  },
+  {
    "device": "CTABNEXUS",
    "name": "CTABNEXUS",
    "model": "CTABNEXUS"
@@ -31996,6 +32006,11 @@
    "device": "V10M",
    "name": "V10M",
    "model": "V10M"
+  },
+  {
+   "device": "V10S",
+   "name": "V10S",
+   "model": "IT_701A"
   },
   {
    "device": "V10S",
@@ -82125,6 +82140,11 @@
    "model": "Infinix X604B"
   },
   {
+   "device": "Infinix-X6525D",
+   "name": "Infinix SMART 10 HD",
+   "model": "Infinix X6525D"
+  },
+  {
    "device": "Infinix-X680",
    "name": "Infinix SMART 4",
    "model": "Infinix X680"
@@ -88374,6 +88394,11 @@
    "device": "S5",
    "name": "S5",
    "model": "S5"
+  },
+  {
+   "device": "S6",
+   "name": "S6",
+   "model": "S6"
   },
   {
    "device": "Touch2c",
@@ -140670,6 +140695,11 @@
    "device": "Q8PRO",
    "name": "Q8PRO",
    "model": "Q8 PRO"
+  },
+  {
+   "device": "Q8PRO",
+   "name": "Q8PRO",
+   "model": "Q8K PRO"
   },
   {
    "device": "ZB31",
@@ -220749,6 +220779,18 @@
    "model": "WLT710M"
   }
  ],
+ "Whitedeer": [
+  {
+   "device": "G13",
+   "name": "G13",
+   "model": "G13"
+  },
+  {
+   "device": "G13",
+   "name": "G13_EEA",
+   "model": "G13"
+  }
+ ],
  "Wibox": [
   {
    "device": "WiBox-tv",
@@ -239951,6 +239993,11 @@
    "device": "Tablet_PC_10_PRO_EEA",
    "name": "Tablet PC 10 PRO",
    "model": "Tablet PC 10 PRO"
+  },
+  {
+   "device": "Tablet_PC_12_Ultra",
+   "name": "Tablet_PC_12_Ultra",
+   "model": "AR1"
   },
   {
    "device": "Tablet_PC_12_Ultra",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-16
+Last sync is 2025-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1487,6 +1487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay_70_Max|iPlay_70_Max|iPlay_70_Max|
 |Alldocube|iPlay_70_Pro|iPlay_70_Pro|iPlay_70_Pro|
 |Alldocube|iPlay_70_S|iPlay_70_S|iPlay_70_S|
+|Alldocube|iPlay_70_Ultra|iPlay_70_Ultra|iPlay 70 Ultra|
 |Alldocube|iPlay_70_mini_Ultra|iPlay_70_mini_Ultra|iPlay 70 mini Ultra|
 |Alldocube|kPad|T1026|kPad|
 |Allducube|T1001|T1001|T1001|
@@ -4931,6 +4932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CEPTERTAB10E|CEPTERTAB10E|CEPTERTAB10E|
 |CEPTER|CEPTERTABP12|CEPTERTABP12|CEPTERTABP12|
 |CEPTER|CTABERA101|CTABERA101|CTABERA101|
+|CEPTER|CTABEVOP12|CTABEVOP12|CTABEVOP12|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
 |CEPTER|CTABTERRA128|CTABTERRA128|CTABTERRA128|
 |CEPTER|CTABTERRA256|CTABTERRA256|CTABTERRA256|
@@ -6174,6 +6176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contixo|V10A|V10A|V10A|
 |Contixo|V10E|V10E|V10E|
 |Contixo|V10M|V10M|V10M|
+|Contixo|V10S|V10S|IT_701A|
 |Contixo|V10S|V10S|V10S|
 |Contixo|V10X|V10X|V10X|
 |Contixo|V11|V11|V11|
@@ -15911,6 +15914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 7 Lite|Infinix-X656|Infinix X656|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
+|Infinix|Infinix SMART 10 HD|Infinix-X6525D|Infinix X6525D|
 |Infinix|Infinix SMART 4|Infinix-X680|Infinix X680|
 |Infinix|Infinix SMART 4 Plus|Infinix-X680D|Infinix X680D|
 |Infinix|Infinix SMART 7|Infinix-X6515|Infinix X6515|
@@ -17128,6 +17132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |K-Touch|Pace 2|Pace_2|Pace 2|
 |K-Touch|Pace 2 Lite|Pace_2_Lite|Pace 2 Lite|
 |K-Touch|S5|S5|S5|
+|K-Touch|S6|S6|S6|
 |K-Touch|Touch 2C|Touch2c|K-Touch Tou ch 2c|
 |K3I（Indonesia）|K3I|K3I|K3I|
 |KAAN|A1|KAAN_A1|KAAN_A1|
@@ -27324,6 +27329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|Q8|Q8|Q8|
 |PEICHENG|Q8|Q8|Q8K|
 |PEICHENG|Q8PRO|Q8PRO|Q8 PRO|
+|PEICHENG|Q8PRO|Q8PRO|Q8K PRO|
 |PEICHENG|ZB31|ZB31|ZB31|
 |PEICHENG|ZB32|ZB32|ZB32|
 |PEL (PAK)|PEL|lavender|4K SMART TV|
@@ -42951,6 +42957,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Westinghouse|WDTLQA102|WDTLQA102|WDTLQA102|
 |Westinghouse|WH10S9863232|WH10S9863232|WH10S9863232|
 |Wexler|WLT710M|WLT710M|WLT710M|
+|Whitedeer|G13|G13|G13|
+|Whitedeer|G13_EEA|G13|G13|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
 |Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
@@ -46697,6 +46705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|TITAN P11000 PRO|TITAN_P11000_PRO|TITAN_P11000_PRO|
 |iHunt|TITAN P15000 PRO 5G|P15000PRO_5G|TITAN P15000 PRO 5G|
 |iHunt|Tablet PC 10 PRO|Tablet_PC_10_PRO_EEA|Tablet PC 10 PRO|
+|iHunt|Tablet_PC_12_Ultra|Tablet_PC_12_Ultra|AR1|
 |iHunt|Tablet_PC_12_Ultra|Tablet_PC_12_Ultra|Tablet_PC_12_Ultra|
 |iHunt|Tablet_X_EEA|Tablet_X|iHunt STRONG Tablet X PRO|
 |iHunt|Tian_P3000|Tian_P3000|Tian_P3000|
