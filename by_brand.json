@@ -56336,6 +56336,11 @@
  ],
  "HAKO": [
   {
+   "device": "YXU",
+   "name": "HAKO Pro",
+   "model": "HAKO Pro"
+  },
+  {
    "device": "GMP",
    "name": "HAKO mini",
    "model": "HAKO mini"
@@ -69177,11 +69182,6 @@
    "model": "PTP-N59"
   },
   {
-   "device": "HNRBN-Q",
-   "name": "RBN-NX1",
-   "model": "RBN-NX1"
-  },
-  {
    "device": "HNVCA-Q",
    "name": "荣耀V Purse",
    "model": "VCA-AN00"
@@ -69852,6 +69852,11 @@
    "device": "TAB_R8",
    "name": "TAB R8",
    "model": "TAB R8"
+  },
+  {
+   "device": "TAB_R9_Pro",
+   "name": "TAB R9 Plus",
+   "model": "TAB R9 Plus"
   },
   {
    "device": "TAB_R9_Pro",
@@ -188329,6 +188334,13 @@
    "device": "dhe1100",
    "name": "",
    "model": "Hikari-iFrame/WDPF-703SE"
+  }
+ ],
+ "Sumtec": [
+  {
+   "device": "ATL",
+   "name": "DV9061",
+   "model": "DV9061"
   }
  ],
  "Sun_King": [

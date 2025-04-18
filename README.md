@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-17
+Last sync is 2025-04-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10832,6 +10832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |H819E|MINTAKA|MINTAKA|MINTAKA|
 |HAEXC|FP103Ex|FP103Ex|FP103Ex|
 |HAEXC|SP104Ex|SP104Ex|SP104Ex|
+|HAKO|HAKO Pro|YXU|HAKO Pro|
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HANDELSON|H14|H14|H14|
 |HANET|T432|SmartEdu|T432|
@@ -13359,7 +13360,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
-|Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
@@ -13492,6 +13492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|TAB R6 Pro|TAB_R6_Pro|TAB R6 Pro|
 |Hotwav|TAB R6 Ultra|TAB_R6_Ultra|TAB R6 Ultra|
 |Hotwav|TAB R8|TAB_R8|TAB R8|
+|Hotwav|TAB R9 Plus|TAB_R9_Pro|TAB R9 Plus|
 |Hotwav|TAB R9 Pro EEA|TAB_R9_Pro|TAB R9 Pro|
 |Hotwav|TAB_R7|TAB_R7|TAB R7|
 |Hotwav|Venus|Venus|Venus|
@@ -36655,6 +36656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4173|ST4173|ST4173|
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
+|Sumtec|DV9061|ATL|DV9061|
 |Sun_King|EZ_1|EZ_1|EZ 1|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunbrite|huangshan_sunbrite|huangshan|SmartTV 4K|
