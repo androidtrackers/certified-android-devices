@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-18
+Last sync is 2025-04-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3056,6 +3056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOW|PlatinumTAB11_4G|PlatinumTAB11_4G|PlatinumTAB11_4G|
 |BLOW|PlatinumTAB8_4G|PlatinumTAB8_4G|PlatinumTAB8_4G|
 |BLUE|G6SG|ikebukuro|AI PONT|
+|BLUECRANE|PP86M|PP86M|PP86M|
 |BLUEING|M1867G|M1867G|M1867G|
 |BLUESTAR|B850J|B850J|B850J|
 |BLUEWORLD|TM12|TM12|TM12|
@@ -8129,6 +8130,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
 |Dwsummus|DWsummus|DS_RK3588|QK8635P|
+|Dynalink|DL-Google TV|XNA|DL-GT18|
+|Dynalink|DL-Google TV|YOC|DL-Google TV36|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
 |Dyon|DYON|elliniko|4K SMART TV|
 |Dyon|DYON|zhongshan|4K SMART TV|
@@ -21613,6 +21616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3SM15N_EEA|M3SM15N|M3SM15N|
 |M3 Mobile|M3SM15X|M3SM15X|M3SM15X|
 |M3 Mobile|M3SM15X_EEA|M3SM15X|M3SM15X|
+|M3 Mobile|M3SM30|M3SM30|M3SM30|
 |M3 Mobile|M3UL20F_EEA|M3UL20F|M3UL20F|
 |M3 Mobile|M3UL20W_EEA|M3UL20W|M3UL20W|
 |M3 Mobile|M3UL20X_EEA|M3UL20X|M3UL20X|
@@ -47152,6 +47156,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 14 Pro 5G|RE6081L1|RMX5057|
 |realme|realme 14 Pro+ 5G|RE6079L1|RMX5051|
 |realme|realme 14 Pro+ 5G|RE6079L1|RMX5054|
+|realme|realme 14T 5G|RE60AFL1|RMX5074|
+|realme|realme 14T 5G|RE60AFL1|RMX5078|
 |realme|realme 14x 5G|RE6092|RMX3943|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|

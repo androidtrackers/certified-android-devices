@@ -15834,6 +15834,13 @@
    "model": "AI PONT"
   }
  ],
+ "BLUECRANE": [
+  {
+   "device": "PP86M",
+   "name": "PP86M",
+   "model": "PP86M"
+  }
+ ],
  "BLUEING": [
   {
    "device": "M1867G",
@@ -42106,6 +42113,16 @@
   }
  ],
  "Dynalink": [
+  {
+   "device": "XNA",
+   "name": "DL-Google TV",
+   "model": "DL-GT18"
+  },
+  {
+   "device": "YOC",
+   "name": "DL-Google TV",
+   "model": "DL-Google TV36"
+  },
   {
    "device": "sti6130d350",
    "name": "STI6130-D350",
@@ -111245,6 +111262,11 @@
    "device": "M3SM15X",
    "name": "M3SM15X_EEA",
    "model": "M3SM15X"
+  },
+  {
+   "device": "M3SM30",
+   "name": "M3SM30",
+   "model": "M3SM30"
   },
   {
    "device": "M3UL20F",
@@ -242372,6 +242394,16 @@
    "device": "RE6079L1",
    "name": "realme 14 Pro+ 5G",
    "model": "RMX5054"
+  },
+  {
+   "device": "RE60AFL1",
+   "name": "realme 14T 5G",
+   "model": "RMX5074"
+  },
+  {
+   "device": "RE60AFL1",
+   "name": "realme 14T 5G",
+   "model": "RMX5078"
   },
   {
    "device": "RE6092",
