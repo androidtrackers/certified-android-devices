@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-20
+Last sync is 2025-04-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21663,6 +21663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAGCH|T7|T7_Pro|T7|
 |MAGICworld|Smart TV|longshan|AI PONT|
 |MAGNUMTECH|MG715|MG715|MG715|
+|MARUSYS|MAU9000D|mau9000d|MAU9000D|
 |MARVUE|M11|M11|M11|
 |MARVUE|M12|M12|M12|
 |MARVUE|M15|M15|M15|
@@ -32408,6 +32409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M55 5G|m55xq|SM-M556B|
 |Samsung|Galaxy M55 5G|m55xq|SM-M556E|
 |Samsung|Galaxy M55s 5G|m55xq|SM-M558B|
+|Samsung|Galaxy M56 5G|m56x|SM-M566B|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -42741,6 +42743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WILLETT|India|yeongdeungpo|WILLETT UHD Android TV|
 |WILLKOTECH|Kishi-001|Kishi-001|Kishi-001|
 |WILLKOTECH|WK1863L|WK1863L|WK1863L|
+|WIN(PE)|WINBOX DV8947|DV8947-KPW|WINBOX DV8947|
 |WINTEK|W405|W405|W405|
 |WOM|SEI500W|SEI500W|WOM|
 |WOM|WOM|SEI500W|WOM|
@@ -47111,6 +47114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
+|realme|RMX6688|RE602AL1|RMX6688|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|

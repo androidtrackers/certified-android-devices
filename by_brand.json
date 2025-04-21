@@ -111509,6 +111509,13 @@
    "model": "MG715"
   }
  ],
+ "MARUSYS": [
+  {
+   "device": "mau9000d",
+   "name": "MAU9000D",
+   "model": "MAU9000D"
+  }
+ ],
  "MARVUE": [
   {
    "device": "M11",
@@ -166810,6 +166817,11 @@
    "model": "SM-M558B"
   },
   {
+   "device": "m56x",
+   "name": "Galaxy M56 5G",
+   "model": "SM-M566B"
+  },
+  {
    "device": "m62",
    "name": "Galaxy M62",
    "model": "SM-M625F"
@@ -219647,6 +219659,13 @@
    "model": "WK1863L"
   }
  ],
+ "WIN(PE)": [
+  {
+   "device": "DV8947-KPW",
+   "name": "WINBOX DV8947",
+   "model": "WINBOX DV8947"
+  }
+ ],
  "WINTEK": [
   {
    "device": "W405",
@@ -242169,6 +242188,11 @@
    "device": "RE5C94L1",
    "name": "RMX3998",
    "model": "RMX3998"
+  },
+  {
+   "device": "RE602AL1",
+   "name": "RMX6688",
+   "model": "RMX6688"
   },
   {
    "device": "mateo",
