@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-21
+Last sync is 2025-04-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -814,6 +814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|R3_GTV|R3_GTV|R3G|
 |Acer|R4|R4|R4|
 |Acer|R4_GTV|R4_GTV|R4G|
+|Acer|Sospiro AS20WF|AS20WF|AS20WF|
 |Acer|TA2|ta2|TA272HUL|
 |Acer|TA272HUL|ta2|TA272HUL|
 |Acer|TPA60W|maya|TPA60W|
@@ -1213,6 +1214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aligator|Aligator_S6100|Aligator_S6100|Aligator_S6100|
 |Aligator|Aligator_S6550|Aligator_S6550|Aligator_S6550|
 |Aligator|Aligator_S6600|Aligator_S6600|Aligator_S6600|
+|Aligator|Aligator_S6700|Aligator_S6700|Aligator_S6700|
 |Aligator|RX460|RX460|RX460|
 |Aligator|RX600|RX600|RX600|
 |Aligator|RX700|RX700|RX700|
@@ -7708,6 +7710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dixon|S5790|S5790|S5790|
 |Dixon|S90|S90|S90|
 |Dixon|TS-M105D|TS-M105D|TS-M105D|
+|Dixon|TS-M105D-MKII|TS-M105D-MKII|TS-M105D-MKII|
 |Dixon|TS-M105G-1|TS-M105G-1|TS-M105G-1|
 |Dixon|TS-M704F-1|TS-M704F-1|TS-M704F-1|
 |Dixon|TS-M704G|TS-M704G|TS-M704G|
@@ -9886,6 +9889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|T11_1|T11_1|BBoss_1|
 |G-Tab|T11_1|T11_1|T11|
 |G-Tab|T11_1|T11_1|T11_1|
+|G-Tab|T11_PRO|T11_PRO|T11_PRO|
 |G-Tab|T8S_1|T8S_1|T8S|
 |G-Tab|T8_1|T8_1|T8|
 |G-Tab|T9_1|T9_1|T9|
@@ -12471,6 +12475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
+|Hisense|HLTE243E|HLTE243E|Hisense U967|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
 |Hisense|HLTE300E_ 02|HS8937QC|Hisense Infinity H11|
@@ -13363,6 +13368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
+|Honor|荣耀Power|HNDVD-Q|DVD-AN00|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
@@ -20057,12 +20063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Aura Plus|Lava_Aura_Plus|Aura_Plus|
 |Lava|BE_U|Be_U|Lava Be_U|
 |Lava|BLAZE|LZX403|LAVA Blaze|
-|Lava|BLAZE 3 5G|LXX511|LXX511|
-|Lava|BLAZE 5G|LXX503|LAVA LXX503|
 |Lava|Blaze 2 Pro|LZX406|LAVA LZX406|
-|Lava|Blaze Curve|LXX505|LAVA LXX505|
-|Lava|Blaze Pro 5G|LXX506|LAVA LXX506|
-|Lava|Blaze X 5G|LXX513|LXX513|
 |Lava|ERA 1X|era1X|era1X|
 |Lava|ERA 1X|era1X|era1Xpro|
 |Lava|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
@@ -20076,9 +20077,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris61|LN9910|LN9910|
 |Lava|Iris820|iris820|iris820|
 |Lava|Iris90|iris90|iris90|
-|Lava|LAVA AGNI 2 5G|LXX504|LAVA LXX504|
 |Lava|LAVA AGNI 5G|LXX501|LAVA LXX501|
-|Lava|LAVA BLAZE DUO|LXX515|LXX515|
+|Lava|LAVA LXX503|LXX503|LAVA LXX503|
+|Lava|LAVA LXX504|LXX504|LAVA LXX504|
+|Lava|LAVA LXX505|LXX505|LAVA LXX505|
+|Lava|LAVA LXX506|LXX506|LAVA LXX506|
+|Lava|LAVA LXX507|LXX507|LAVA LXX507|
+|Lava|LAVA LXX508|LXX508|LAVA LXX508|
+|Lava|LAVA LXX510|LXX510|LAVA LXX510|
+|Lava|LAVA LXX511|LXX511|LXX511|
+|Lava|LAVA LXX513|LXX513|LXX513|
+|Lava|LAVA LXX514|LXX514|LAVA LXX514|
+|Lava|LAVA LXX515|LXX515|LXX515|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA Z36|LEX403|LAVA LEX403|
 |Lava|LAVA Z66|Z66|Lava Z66|
@@ -20106,7 +20116,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R2|R2|R2|
 |Lava|R3|R3|R3|
 |Lava|R3 Prime|iris90|iris90|
-|Lava|Storm 5G|LXX508|LAVA LXX508|
 |Lava|T101|LTN10RT|LTN10RT|
 |Lava|T101|T101|T101|
 |Lava|T101N|T101N|T101N|
@@ -20156,9 +20165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Y50|AF9020|AF9020|
 |Lava|YUVA 2 PRO|LZX408|LAVA LZX408|
 |Lava|YUVA 3|LZX415|LZX415|
-|Lava|Yuva 2 5G|LXX514|LAVA LXX514|
 |Lava|Yuva 4|LZX417|LZX417|
-|Lava|Yuva 5G|LXX510|LAVA LXX510|
 |Lava|Yuva Star|LZG409|LAVA LZG409|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
@@ -24947,6 +24954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NIKAI_PRO|NIKAI_PRO|hongkong|4K SMART TV|
 |NIO|N2301|davinci|N2301|
 |NIO|N2401|picasso|N2401|
+|NIS(NWTF)|Hi10_XPro_ROW|Hi10_XPro_ROW|Hi10_XPro|
 |NOA Mobile|Forte_se|Forte_se|Forte_se|
 |NOA Mobile|Fresh 4G|Fresh_4G|Fresh_4G|
 |NOA Mobile|Hummer|Hummer|Hummer|
@@ -26510,8 +26518,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K1|PBCM30|PBCM30|
 |Oppo|K12 5G|OP5A15L1|PJR110|
 |Oppo|K12 Plus|OP5DFDL1|PKS110|
+|Oppo|K12s 5G|OP5E01L1|PLD110|
 |Oppo|K12x 5G|OP5A1F|PJT110|
 |Oppo|K12x 5G|OP5B05L1|CPH2667|
+|Oppo|K13 5G|OP5EE3L1|CPH2729|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -29895,8 +29905,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K50_EEA|K50_EEA|K50_EEA|
 |Rebecco|K50_EEA_B|K50_EEA_B|K50_EEA_B|
 |Rebecco|K50_ROW|K50_ROW|K50_ROW|
+|Rebecco|K50_ROW_B|K50_ROW_B|K50_ROW|
 |Rebecco|K50_ROW_B|K50_ROW_B|K50_ROW_B|
 |Rebecco|K70_EEA|K70_EEA|K70_EEA|
+|Rebecco|K70_EEA_B|K70_EEA_B|K70_EEA|
 |Rebecco|K70_EEA_B|K70_EEA_B|K70_EEA_B|
 |Rebecco|K70_ROW|K70_ROW|K70_ROW|
 |Rebecco|K70i_EEA|K70i_EEA|K70i_EEA|
@@ -39223,6 +39235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T60_ROW|T60_ROW|T60|
 |Teclast|T60_RUS|T60_RUS|T60_RUS|
 |Teclast|T65Max_A_EEA|T65Max_A_EEA|T65Max_A_EEA|
+|Teclast|T65Max_A_ROW|T65Max_A_ROW|T65Max_A_ROW|
 |Teclast|T65Max_EEA|T65Max_EEA|T65Max_EEA|
 |Teclast|T65Max_ROW|T65Max_ROW|T65Max_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|

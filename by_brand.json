@@ -4302,6 +4302,11 @@
    "model": "R4G"
   },
   {
+   "device": "AS20WF",
+   "name": "Sospiro AS20WF",
+   "model": "AS20WF"
+  },
+  {
    "device": "ta2",
    "name": "TA2",
    "model": "TA272HUL"
@@ -6385,6 +6390,11 @@
    "device": "Aligator_S6600",
    "name": "Aligator_S6600",
    "model": "Aligator_S6600"
+  },
+  {
+   "device": "Aligator_S6700",
+   "name": "Aligator_S6700",
+   "model": "Aligator_S6700"
   },
   {
    "device": "RX460",
@@ -39958,6 +39968,11 @@
    "model": "TS-M105D"
   },
   {
+   "device": "TS-M105D-MKII",
+   "name": "TS-M105D-MKII",
+   "model": "TS-M105D-MKII"
+  },
+  {
    "device": "TS-M105G-1",
    "name": "TS-M105G-1",
    "model": "TS-M105G-1"
@@ -51368,6 +51383,11 @@
    "device": "T11_1",
    "name": "T11_1",
    "model": "T11_1"
+  },
+  {
+   "device": "T11_PRO",
+   "name": "T11_PRO",
+   "model": "T11_PRO"
   },
   {
    "device": "T8S_1",
@@ -64711,6 +64731,11 @@
    "model": "Hisense U43"
   },
   {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense U967"
+  },
+  {
    "device": "HS8937QC",
    "name": "HLTE300E_ 02",
    "model": "HLTE300E"
@@ -69197,6 +69222,11 @@
    "device": "HNPTPX",
    "name": "PORSCHE DESIGN HONOR Magic7 RSR",
    "model": "PTP-N59"
+  },
+  {
+   "device": "HNDVD-Q",
+   "name": "荣耀Power",
+   "model": "DVD-AN00"
   },
   {
    "device": "HNVCA-Q",
@@ -103357,34 +103387,9 @@
    "model": "LAVA Blaze"
   },
   {
-   "device": "LXX511",
-   "name": "BLAZE 3 5G",
-   "model": "LXX511"
-  },
-  {
-   "device": "LXX503",
-   "name": "BLAZE 5G",
-   "model": "LAVA LXX503"
-  },
-  {
    "device": "LZX406",
    "name": "Blaze 2 Pro",
    "model": "LAVA LZX406"
-  },
-  {
-   "device": "LXX505",
-   "name": "Blaze Curve",
-   "model": "LAVA LXX505"
-  },
-  {
-   "device": "LXX506",
-   "name": "Blaze Pro 5G",
-   "model": "LAVA LXX506"
-  },
-  {
-   "device": "LXX513",
-   "name": "Blaze X 5G",
-   "model": "LXX513"
   },
   {
    "device": "era1X",
@@ -103452,18 +103457,63 @@
    "model": "iris90"
   },
   {
-   "device": "LXX504",
-   "name": "LAVA AGNI 2 5G",
-   "model": "LAVA LXX504"
-  },
-  {
    "device": "LXX501",
    "name": "LAVA AGNI 5G",
    "model": "LAVA LXX501"
   },
   {
+   "device": "LXX503",
+   "name": "LAVA LXX503",
+   "model": "LAVA LXX503"
+  },
+  {
+   "device": "LXX504",
+   "name": "LAVA LXX504",
+   "model": "LAVA LXX504"
+  },
+  {
+   "device": "LXX505",
+   "name": "LAVA LXX505",
+   "model": "LAVA LXX505"
+  },
+  {
+   "device": "LXX506",
+   "name": "LAVA LXX506",
+   "model": "LAVA LXX506"
+  },
+  {
+   "device": "LXX507",
+   "name": "LAVA LXX507",
+   "model": "LAVA LXX507"
+  },
+  {
+   "device": "LXX508",
+   "name": "LAVA LXX508",
+   "model": "LAVA LXX508"
+  },
+  {
+   "device": "LXX510",
+   "name": "LAVA LXX510",
+   "model": "LAVA LXX510"
+  },
+  {
+   "device": "LXX511",
+   "name": "LAVA LXX511",
+   "model": "LXX511"
+  },
+  {
+   "device": "LXX513",
+   "name": "LAVA LXX513",
+   "model": "LXX513"
+  },
+  {
+   "device": "LXX514",
+   "name": "LAVA LXX514",
+   "model": "LAVA LXX514"
+  },
+  {
    "device": "LXX515",
-   "name": "LAVA BLAZE DUO",
+   "name": "LAVA LXX515",
    "model": "LXX515"
   },
   {
@@ -103600,11 +103650,6 @@
    "device": "iris90",
    "name": "R3 Prime",
    "model": "iris90"
-  },
-  {
-   "device": "LXX508",
-   "name": "Storm 5G",
-   "model": "LAVA LXX508"
   },
   {
    "device": "LTN10RT",
@@ -103852,19 +103897,9 @@
    "model": "LZX415"
   },
   {
-   "device": "LXX514",
-   "name": "Yuva 2 5G",
-   "model": "LAVA LXX514"
-  },
-  {
    "device": "LZX417",
    "name": "Yuva 4",
    "model": "LZX417"
-  },
-  {
-   "device": "LXX510",
-   "name": "Yuva 5G",
-   "model": "LAVA LXX510"
   },
   {
    "device": "LZG409",
@@ -128419,6 +128454,13 @@
    "model": "N2401"
   }
  ],
+ "NIS(NWTF)": [
+  {
+   "device": "Hi10_XPro_ROW",
+   "name": "Hi10_XPro_ROW",
+   "model": "Hi10_XPro"
+  }
+ ],
  "NOA Mobile": [
   {
    "device": "Forte_se",
@@ -136540,6 +136582,11 @@
    "model": "PKS110"
   },
   {
+   "device": "OP5E01L1",
+   "name": "K12s 5G",
+   "model": "PLD110"
+  },
+  {
    "device": "OP5A1F",
    "name": "K12x 5G",
    "model": "PJT110"
@@ -136548,6 +136595,11 @@
    "device": "OP5B05L1",
    "name": "K12x 5G",
    "model": "CPH2667"
+  },
+  {
+   "device": "OP5EE3L1",
+   "name": "K13 5G",
+   "model": "CPH2729"
   },
   {
    "device": "OP4679",
@@ -153933,11 +153985,21 @@
   {
    "device": "K50_ROW_B",
    "name": "K50_ROW_B",
+   "model": "K50_ROW"
+  },
+  {
+   "device": "K50_ROW_B",
+   "name": "K50_ROW_B",
    "model": "K50_ROW_B"
   },
   {
    "device": "K70_EEA",
    "name": "K70_EEA",
+   "model": "K70_EEA"
+  },
+  {
+   "device": "K70_EEA_B",
+   "name": "K70_EEA_B",
    "model": "K70_EEA"
   },
   {
@@ -201473,6 +201535,11 @@
    "device": "T65Max_A_EEA",
    "name": "T65Max_A_EEA",
    "model": "T65Max_A_EEA"
+  },
+  {
+   "device": "T65Max_A_ROW",
+   "name": "T65Max_A_ROW",
+   "model": "T65Max_A_ROW"
   },
   {
    "device": "T65Max_EEA",
