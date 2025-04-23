@@ -24738,6 +24738,13 @@
    "model": "B1_Max"
   }
  ],
+ "BraveTechs": [
+  {
+   "device": "T3_Pro",
+   "name": "Brave_T3Pro",
+   "model": "T3 Pro"
+  }
+ ],
  "Bravis": [
   {
    "device": "A509_Jeans",
@@ -69229,6 +69236,11 @@
    "model": "DVD-AN00"
   },
   {
+   "device": "HNDVD-Q",
+   "name": "荣耀Power",
+   "model": "DVD-AN80"
+  },
+  {
    "device": "HNVCA-Q",
    "name": "荣耀V Purse",
    "model": "VCA-AN00"
@@ -83129,6 +83141,11 @@
    "model": "JTouch_Series_13ea"
   },
   {
+   "device": "D014",
+   "name": "JTouch 13e",
+   "model": "JTouch_Series_13eb"
+  },
+  {
    "device": "D011",
    "name": "JTouch Series 13",
    "model": "JTouch_Series_13"
@@ -87879,6 +87896,13 @@
    "model": "JAWWY-TV-2.0"
   }
  ],
+ "Jckkcfug": [
+  {
+   "device": "A20Pro_ROW",
+   "name": "A20Pro_ROW",
+   "model": "A20_ROW"
+  }
+ ],
  "Jeazans": [
   {
    "device": "A13",
@@ -88716,6 +88740,11 @@
    "device": "jj680cm",
    "name": "CJ680CM",
    "model": "GX-JJ680CM"
+  },
+  {
+   "device": "mau9000d",
+   "name": "MAU9001D",
+   "model": "MAU9001D"
   }
  ],
  "KD Interactive": [
@@ -236306,6 +236335,11 @@
    "model": "MC3400"
   },
   {
+   "device": "MC3450",
+   "name": "MC3450",
+   "model": "MC3450"
+  },
+  {
    "device": "cardhu",
    "name": "MC36",
    "model": "MC36"
@@ -242257,11 +242291,6 @@
    "model": "RMX3998"
   },
   {
-   "device": "RE602AL1",
-   "name": "RMX6688",
-   "model": "RMX6688"
-  },
-  {
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
@@ -243355,6 +243384,11 @@
    "device": "RE5C4FL1",
    "name": "真我GT6",
    "model": "RMX3800"
+  },
+  {
+   "device": "RE602AL1",
+   "name": "真我GT7",
+   "model": "RMX6688"
   },
   {
    "device": "RE6018L1",

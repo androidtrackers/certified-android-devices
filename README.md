@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-22
+Last sync is 2025-04-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4796,6 +4796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brantel|Q30|Q30|Q30|
 |Brasiltec|B1|B1|B1|
 |Brasiltec|B1_Max|B1_Max|B1_Max|
+|BraveTechs|Brave_T3Pro|T3_Pro|T3 Pro|
 |Bravis|A509_Jeans|A509_Jeans|A509_Jeans|
 |Bravis|A510_Jeans_4G|A510_Jeans_4G|A510_Jeans_4G|
 |Bravis|A511 Harmony|A511_Harmony|A511 Harmony|
@@ -13369,6 +13370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN00|
+|Honor|荣耀Power|HNDVD-Q|DVD-AN80|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
@@ -16111,6 +16113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infocus|InFocus M7 Lite|A02|IF9031|
 |Infocus|InFocus M7S|A08|IF9031|
 |Infocus|JTouch 13e|D014|JTouch_Series_13ea|
+|Infocus|JTouch 13e|D014|JTouch_Series_13eb|
 |Infocus|JTouch Series 13|D011|JTouch_Series_13|
 |Infocus|LE5039|BX2|LE5039|
 |Infocus|M2|LSO|InFocus M2|
@@ -17037,6 +17040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jawwy TV|JAWWY-TV-2.0|HP40A|JAWWY-TV-2.0|
+|Jckkcfug|A20Pro_ROW|A20Pro_ROW|A20_ROW|
 |Jeazans|A13|A13|A13|
 |Jeazans|KT1016|KT1016|KT1016|
 |Jeazans|KT1016_EEA|KT1016|KT1016|
@@ -17192,6 +17196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KAZAM|Trooper2 60|Trooper2_60|Kazam Trooper2 60|
 |KCCL|N9109M|N9109M|N9109M|
 |KCTV|CJ680CM|jj680cm|GX-JJ680CM|
+|KCTV|MAU9001D|mau9000d|MAU9001D|
 |KD Interactive|C15100i|C15100i|C15100i|
 |KD Interactive|C15100m|Pixi3-7_KD|C15100m|
 |KD Interactive|C15150m|Pixi3-7_KD|C15150m|
@@ -46006,6 +46011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC3400|MC3400|MC3400|
+|Zebra|MC3450|MC3450|MC3450|
 |Zebra|MC36|cardhu|MC36|
 |Zebra|MC40|MC40|MC40N0|
 |Zebra|MC9400|MC9400|MC9400|
@@ -47127,7 +47133,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
-|realme|RMX6688|RE602AL1|RMX6688|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -47347,6 +47352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT Neo6|RE5C46L1|RMX3852|
 |realme|真我GT Neo6 SE|RE5C39L1|RMX3850|
 |realme|真我GT6|RE5C4FL1|RMX3800|
+|realme|真我GT7|RE602AL1|RMX6688|
 |realme|真我GT7 Pro|RE6018L1|RMX5010|
 |realme|真我GT7 Pro竞速版|RE602CL1|RMX5090|
 |realme|真我Neo7|RE6022L1|RMX5060|
