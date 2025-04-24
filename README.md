@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-23
+Last sync is 2025-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5780,6 +5780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Citycall|Life_10_Pro|Life_10_Pro|Life 10 Pro|
 |Citycall|Life_Pro_7|Life_Pro_7|Life Pro 7|
 |Citycall|SS5007C|SS5007C|SS5007C|
+|Ckypad|Cpad10EEA|Cpad10EEA|Cpad10EEA|
 |Claresta|F3|F3|F3|
 |Claresta|G4|G4|G4|
 |Claresta|G5|G5|G5|
@@ -8476,6 +8477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Eaglesoar|EE1010_EEA|EE1010_EEA|EE1010_EEA|
 |Eaglesoar|EE10A|EE10A|EE10A|
 |Eaglesoar|Z_766_EEA|Z_766_EEA|Z_766_EEA|
+|EasyPhone|100|100|100|
 |Echo Mobiles|ECHO_HOLI|HOLI|ECHO_HOLI|
 |Echo Mobiles|FEELING|FEELING|FEELING|
 |Echo Mobiles|FUSION|ECHO_FUSION|ECHO_FUSION|
@@ -9929,6 +9931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GD Classbook|TA80CA1|TA80CA1_2|TA80CA1|
 |GDL(BD)|G200|G200|G200|
 |GDL(BD)|GDL GigaX Y21|GigaX_Y21|GDL GigaX Y21|
+|GDL(BD)|GDL Gigax Y10|Gigax_Y10|Gigax Y10|
 |GDL(BD)|GDL Xtreme6|Xtreme_6|Xtreme 6|
 |GDM (es)|MB10|MB10|MB10|
 |GDM (es)|MB9|MB9|MB9|
@@ -12472,6 +12475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE229E|HLTE229E_01|HLTE229E|
 |Hisense|HLTE229E|HLTE229E_01|Hisense E40|
 |Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
+|Hisense|HLTE243E||Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
@@ -15690,6 +15694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-787|IK-787|IK-787|
 |Ikon|IK-869|IK-869|IK-869|
 |Ikon|IK-T808|IK-T808|IK-T808|
+|Ikon|IK-WT028i|IK-WT028i|IK-WT028i|
 |Ikon|IK-WT1080|IK-WT1080|IK-WT1080|
 |Ikon|IK-WT1088|IK-WT1088|IK-WT1088|
 |Ikon|IKON|IK-1028|IK-1028|
@@ -17363,6 +17368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KOOOK|C600|GBC_bravo|C600|
 |KPHONE|S1|S1|S1|
 |KPN|KPN TV+ Box|m250_k|KPN DIW7022|
+|KPN|KPN TV+ Soundbox|m393vsb_kpn|KPN VSB3918|
 |KRIP|K4b|K4b|K4b|
 |KRIP|K4m|K4m|K4m|
 |KRIP|K5|K5|K5|
@@ -25470,6 +25476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G400 5G|STM|Nokia G400 5G|
 |Nokia|Nokia G400 5G|STO|Nokia G400 5G|
 |Nokia|Nokia G42 5G|SDW|Nokia G42 5G|
+|Nokia|Nokia G42 5G|SDWA|Nokia G42 5G|
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia G60 5G|APO_sprout|Nokia G60 5G|
@@ -25999,6 +26006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 13R|OP5D3BL1|CPH2645|
 |OnePlus|OnePlus 13R|OP5D3BL1|CPH2647|
 |OnePlus|OnePlus 13R|OP5D3BL1|CPH2691|
+|OnePlus|OnePlus 13T|OP60F5L1|PKX110|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -27188,6 +27196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP27_RU|WP27|WP27|
 |Oukitel|WP28_E_EEA|WP28_E|WP28 E|
 |Oukitel|WP28_S_EEA|WP28_S|WP28 S|
+|Oukitel|WP300_EEA|WP300|WP300|
 |Oukitel|WP30_Pro_EEA|WP30_Pro|WP30 Pro|
 |Oukitel|WP32_EEA|WP32|WP32|
 |Oukitel|WP32_Pro_U_EEA|WP32_Pro_U|WP32_Pro|
@@ -27210,6 +27219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP5000|WP5000|WP5000|
 |Oukitel|WP50_EEA|WP50|WP50|
 |Oukitel|WP52_EEA|WP52|WP52|
+|Oukitel|WP55_EEA|WP55|WP55|
 |Oukitel|WP5_Pro_row|WP5_Pro|WP5 Pro|
 |Oukitel|WP6|WP6|WP6|
 |Oukitel|WP6_EEA|WP6|WP6|
@@ -27325,6 +27335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD LLC|P55 US|P55_US|P55 US|
 |PCD LLC|P62|P62|P62|
 |PCD LLC|P65|P65|P65|
+|PCD LLC|P65L|P65L|P65L|
 |PCD LLC|T85|T85|T85|
 |PCD LLC|T85US|T85US|T85US|
 |PEAQ|PET-1008-F464E|PET-1008-F464E|PET 1008-F464E|
@@ -39929,6 +39940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|Thomson TV|marina|Thomson TV|
 |Thomson|Thomson TV|nagata|Thomson TV|
 |Thomson|ThomsonTV|shibuya|ThomsonTV|
+|Thrive|NT-T710|NT-T710|NT-T710|
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
 |TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
 |Tibuta|A30|A30|A30|
@@ -40790,6 +40802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umx(Ultimate Mobile Experience)|U683CL|U683CL|U683CL|
 |Umx(Ultimate Mobile Experience)|U693CL|U693CL|U693CL|
 |Umx(Ultimate Mobile Experience)|U696CL|U696CL|U696CL|
+|Unbluable)|T7|PaperTablet|PAPER 7|
 |Uneone|SD50|SD50|SD50|
 |Uneone|SD55|UNEONE_SD55|SD55|
 |Uneone|SD57|SD57|SD57|
@@ -42047,6 +42060,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|X200 Pro|V2413|V2413|
 |Vivo|X200 Pro 卫星通信版|PD2405|V2405A|
 |Vivo|X200 Pro 卫星通信版|PD2405|V2405DA|
+|Vivo|X200 Ultra|PD2454|V2454A|
+|Vivo|X200 Ultra|PD2454|V2454DA|
 |Vivo|X5|X5|vivo X5|
 |Vivo|X50|2004|vivo 2004|
 |Vivo|X50 Pro|2006|vivo 2006|
@@ -42937,6 +42952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|XANON_X90|XANON_X90|XANON X90|
 |Walton|XANON_X91|XANON_X91|XANON X91|
 |Walton|ZenX 1|ZENX_1|ZENX 1|
+|Walton|zenx 2|zenx_2|zenx 2|
 |Wansa|Smart TV|longshan|AI PONT|
 |Wansa|Smart TV|redwood|AI PONT|
 |Wansa|WUD55JOA63S|samseong|AI PONT|
@@ -47400,6 +47416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |shoudum|X50|X50|X50|
 |shoudum|X50US|X50US|X50US|
 |shoudum|X_50|X_50|X_50|
+|shoudum|X_50US|X_50US|X_50US|
 |shoudum|X_50_EEA|X_50_EEA|X_50_EEA|
 |simfer|simfer 2K Android TV|lasalle|simfer 2K Android TV|
 |simfer|simfer 4K Android TV|kenton|simfer 4K Android TV|

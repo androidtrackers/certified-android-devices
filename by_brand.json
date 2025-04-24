@@ -29948,6 +29948,13 @@
    "model": "SS5007C"
   }
  ],
+ "Ckypad": [
+  {
+   "device": "Cpad10EEA",
+   "name": "Cpad10EEA",
+   "model": "Cpad10EEA"
+  }
+ ],
  "Claresta": [
   {
    "device": "F3",
@@ -43970,6 +43977,13 @@
    "model": "Z_766_EEA"
   }
  ],
+ "EasyPhone": [
+  {
+   "device": "100",
+   "name": "100",
+   "model": "100"
+  }
+ ],
  "Echo Mobiles": [
   {
    "device": "HOLI",
@@ -51601,6 +51615,11 @@
    "device": "GigaX_Y21",
    "name": "GDL GigaX Y21",
    "model": "GDL GigaX Y21"
+  },
+  {
+   "device": "Gigax_Y10",
+   "name": "GDL Gigax Y10",
+   "model": "Gigax Y10"
   },
   {
    "device": "Xtreme_6",
@@ -64716,6 +64735,11 @@
    "device": "SC9863A",
    "name": "HLTE230E",
    "model": "Hisense Infinity H40 Lite"
+  },
+  {
+   "device": "",
+   "name": "HLTE243E",
+   "model": "Hisense U43"
   },
   {
    "device": "HLTE243E",
@@ -80998,6 +81022,11 @@
    "model": "IK-T808"
   },
   {
+   "device": "IK-WT028i",
+   "name": "IK-WT028i",
+   "model": "IK-WT028i"
+  },
+  {
    "device": "IK-WT1080",
    "name": "IK-WT1080",
    "model": "IK-WT1080"
@@ -89617,6 +89646,11 @@
    "device": "m250_k",
    "name": "KPN TV+ Box",
    "model": "KPN DIW7022"
+  },
+  {
+   "device": "m393vsb_kpn",
+   "name": "KPN TV+ Soundbox",
+   "model": "KPN VSB3918"
   }
  ],
  "KRIP": [
@@ -131180,6 +131214,11 @@
    "model": "Nokia G42 5G"
   },
   {
+   "device": "SDWA",
+   "name": "Nokia G42 5G",
+   "model": "Nokia G42 5G"
+  },
+  {
    "device": "PHR",
    "name": "Nokia G50",
    "model": "Nokia G50"
@@ -133969,6 +134008,11 @@
    "device": "OP5D3BL1",
    "name": "OnePlus 13R",
    "model": "CPH2691"
+  },
+  {
+   "device": "OP60F5L1",
+   "name": "OnePlus 13T",
+   "model": "PKX110"
   },
   {
    "device": "OnePlus6",
@@ -139962,6 +140006,11 @@
    "model": "WP28 S"
   },
   {
+   "device": "WP300",
+   "name": "WP300_EEA",
+   "model": "WP300"
+  },
+  {
    "device": "WP30_Pro",
    "name": "WP30_Pro_EEA",
    "model": "WP30 Pro"
@@ -140070,6 +140119,11 @@
    "device": "WP52",
    "name": "WP52_EEA",
    "model": "WP52"
+  },
+  {
+   "device": "WP55",
+   "name": "WP55_EEA",
+   "model": "WP55"
   },
   {
    "device": "WP5_Pro",
@@ -140681,6 +140735,11 @@
    "device": "P65",
    "name": "P65",
    "model": "P65"
+  },
+  {
+   "device": "P65L",
+   "name": "P65L",
+   "model": "P65L"
   },
   {
    "device": "T85",
@@ -205097,6 +205156,13 @@
    "model": "ThomsonTV"
   }
  ],
+ "Thrive": [
+  {
+   "device": "NT-T710",
+   "name": "NT-T710",
+   "model": "NT-T710"
+  }
+ ],
  "Thuraya": [
   {
    "device": "X5-Touch",
@@ -209590,6 +209656,13 @@
    "device": "U696CL",
    "name": "U696CL",
    "model": "U696CL"
+  }
+ ],
+ "Unbluable)": [
+  {
+   "device": "PaperTablet",
+   "name": "T7",
+   "model": "PAPER 7"
   }
  ],
  "Uneone": [
@@ -216115,6 +216188,16 @@
    "model": "V2405DA"
   },
   {
+   "device": "PD2454",
+   "name": "X200 Ultra",
+   "model": "V2454A"
+  },
+  {
+   "device": "PD2454",
+   "name": "X200 Ultra",
+   "model": "V2454DA"
+  },
+  {
    "device": "X5",
    "name": "X5",
    "model": "vivo X5"
@@ -220655,6 +220738,11 @@
    "device": "ZENX_1",
    "name": "ZenX 1",
    "model": "ZENX 1"
+  },
+  {
+   "device": "zenx_2",
+   "name": "zenx 2",
+   "model": "zenx 2"
   }
  ],
  "Wansa": [
@@ -243638,6 +243726,11 @@
    "device": "X_50",
    "name": "X_50",
    "model": "X_50"
+  },
+  {
+   "device": "X_50US",
+   "name": "X_50US",
+   "model": "X_50US"
   },
   {
    "device": "X_50_EEA",
