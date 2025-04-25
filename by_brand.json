@@ -3167,6 +3167,11 @@
    "model": "AK330S"
   },
   {
+   "device": "ARSP25MTA14A1",
+   "name": "ARSP25MTA14A1",
+   "model": "ARSP25MTA14A1"
+  },
+  {
    "device": "AS10L",
    "name": "AS10L",
    "model": "AS10L"
@@ -93174,6 +93179,11 @@
    "model": "KONROW"
   },
   {
+   "device": "NET_X2",
+   "name": "NET-X2",
+   "model": "NET_X2"
+  },
+  {
    "device": "NETWORK",
    "name": "NETWORK",
    "model": "NETWORK"
@@ -103578,6 +103588,11 @@
    "device": "LXX515",
    "name": "LAVA LXX515",
    "model": "LXX515"
+  },
+  {
+   "device": "LZG410",
+   "name": "LAVA LZG410",
+   "model": "LZG410"
   },
   {
    "device": "LZX414",
@@ -124863,6 +124878,16 @@
    "model": "motorola razr 5G"
   },
   {
+   "device": "leap",
+   "name": "motorola razr 60 ultra",
+   "model": "motorola razr 50 ultra"
+  },
+  {
+   "device": "leap",
+   "name": "motorola razr 60 ultra",
+   "model": "motorola razr 60 ultra"
+  },
+  {
    "device": "zeekr",
    "name": "motorola razr plus 2023",
    "model": "motorola razr 2022"
@@ -124881,6 +124906,16 @@
    "device": "arcfox",
    "name": "motorola razr plus 2024",
    "model": "motorola razr plus 2024"
+  },
+  {
+   "device": "leap",
+   "name": "motorola razr ultra 2025",
+   "model": "motorola razr 50 ultra"
+  },
+  {
+   "device": "leap",
+   "name": "motorola razr ultra 2025",
+   "model": "motorola razr ultra 2025"
   }
  ],
  "Motorola Solutions": [
@@ -131790,6 +131825,11 @@
    "device": "NX503A",
    "name": "NX503A",
    "model": "NX503A"
+  },
+  {
+   "device": "PQ83A06",
+   "name": "REDMAGIC 10 Air",
+   "model": "NX779J"
   },
   {
    "device": "P616F03",
@@ -140807,6 +140847,11 @@
    "device": "PET-10980-F628E",
    "name": "PET-10980-F628E",
    "model": "PET-10980-F628E"
+  },
+  {
+   "device": "PET-11080-F428E",
+   "name": "PET-11080-F428E",
+   "model": "PET 11080-F428E"
   },
   {
    "device": "PET-882-H232S",
@@ -158225,6 +158270,11 @@
   }
  ],
  "SKY_Brasil": [
+  {
+   "device": "EV-9157-ISDBT",
+   "name": "EV-9157-ISDBT",
+   "model": "EV-9157-ISDBT"
+  },
   {
    "device": "usw8052skb",
    "name": "Sky Brazil",
@@ -217853,6 +217903,11 @@
    "model": "V2419A"
   },
   {
+   "device": "PD2415",
+   "name": "vivo X200s",
+   "model": "V2458A"
+  },
+  {
    "device": "PD1710",
    "name": "vivo X20Plus",
    "model": "vivo PD1710"
@@ -232026,11 +232081,6 @@
    "device": "NX659J",
    "name": "RED MAGIC 5G",
    "model": "NX659J"
-  },
-  {
-   "device": "PQ83A06",
-   "name": "REDMAGIC 10",
-   "model": "NX779J"
   },
   {
    "device": "NX789J",

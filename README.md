@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-24
+Last sync is 2025-04-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -587,6 +587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
 |Acer|ACTABKID|ACTABKID|ACTABKID|
 |Acer|AK330s|C8n|AK330S|
+|Acer|ARSP25MTA14A1|ARSP25MTA14A1|ARSP25MTA14A1|
 |Acer|AS10L|AS10L|AS10L|
 |Acer|AS10W|AS10W|AS10W|
 |Acer|AS10WF|AS10WF|AS10WF|
@@ -18048,6 +18049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|KIDS_COLORS_PLUS|KIDS_COLORS_PLUS|KIDS_COLORS_PLUS|
 |Krono|MATRIX PRO|MATRIX_PRO|MATRIX_PRO|
 |Krono|NEOW|NEOW|KONROW|
+|Krono|NET-X2|NET_X2|NET_X2|
 |Krono|NETWORK|NETWORK|NETWORK|
 |Krono|NET_ADVANCE|NET_ADVANCE|NET_ADVANCE|
 |Krono|NET_ALPHA|NET_ALPHA|NET ALPHA|
@@ -20100,6 +20102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX513|LXX513|LXX513|
 |Lava|LAVA LXX514|LXX514|LAVA LXX514|
 |Lava|LAVA LXX515|LXX515|LXX515|
+|Lava|LAVA LZG410|LZG410|LZG410|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA Z36|LEX403|LAVA LEX403|
 |Lava|LAVA Z66|Z66|Lava Z66|
@@ -24259,10 +24262,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 50d M-51E|M-51E|M-51E|
 |Motorola|motorola razr 50s|aito|motorola razr 50s|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
+|Motorola|motorola razr 60 ultra|leap|motorola razr 50 ultra|
+|Motorola|motorola razr 60 ultra|leap|motorola razr 60 ultra|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2024|
+|Motorola|motorola razr ultra 2025|leap|motorola razr 50 ultra|
+|Motorola|motorola razr ultra 2025|leap|motorola razr ultra 2025|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -25586,6 +25593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nubia|NX401|NX40X|NX401|
 |Nubia|NX501|NX501|NX501|
 |Nubia|NX503A|NX503A|NX503A|
+|Nubia|REDMAGIC 10 Air|PQ83A06|NX779J|
 |Nubia|nubia Focus|P616F03|Z2455|
 |Nubia|nubia_NB1001|nubia_NB1001-UN|nubia_NB1001|
 |Nubio_Lite|N2 Lite|LS032I|LS032I|
@@ -27349,6 +27357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
 |PEAQ|PET-1081-LH332S|PET-1081-LH332S|PET 1081-LH332S|
 |PEAQ|PET-10980-F628E|PET-10980-F628E|PET-10980-F628E|
+|PEAQ|PET-11080-F428E|PET-11080-F428E|PET 11080-F428E|
 |PEAQ|PET-882-H232S|PET-882-H232S|Lightyear 2|
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PEAQ|PET_10180_H464S|PET_10180_H464S|PET_10180_H464S|
@@ -30712,6 +30721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|X2_S_EEA|X2_EEA|X2_S_EEA|
 |SKYEGG|X2_S_US|X2_US|X2_S_US|
 |SKYEGG|X2_S_US|X2_US|X2_US|
+|SKY_Brasil|EV-9157-ISDBT|EV-9157-ISDBT|EV-9157-ISDBT|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SMART Technologies|AM60 series|komodo|AM60 series|
 |SMART Technologies|AM60 series|komodo|SMART AM60|
@@ -42393,6 +42403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X200|PD2415|V2415A|
 |Vivo|vivo X200|V2415|V2415|
 |Vivo|vivo X200 Pro mini|PD2419|V2419A|
+|Vivo|vivo X200s|PD2415|V2458A|
 |Vivo|vivo X20Plus|PD1710|vivo PD1710|
 |Vivo|vivo X20Plus|PD1710|vivo X20Plus A|
 |Vivo|vivo X20Plus UD|PD1721|vivo PD1721|
@@ -45152,7 +45163,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|R83|demeter|ZTE R83|
 |ZTE|RACER III mini|roamer2|RACER III mini|
 |ZTE|RED MAGIC 5G|NX659J|NX659J|
-|ZTE|REDMAGIC 10|PQ83A06|NX779J|
 |ZTE|REDMAGIC 10 Pro|NX789J|NX789J|
 |ZTE|REDMAGIC 7|NX709J-EEA|NX709J|
 |ZTE|REDMAGIC 7Pro|NX709J-UN|NX709J|
