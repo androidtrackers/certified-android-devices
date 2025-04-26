@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-25
+Last sync is 2025-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7282,6 +7282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dell|Venue 8|yellowtail|Venue 8 HSPA+|
 |Delm|D1018|D1018|D1018|
 |Delm|D718|D718|D718|
+|Delta|TH_series|rk3576_u|TH_series|
 |Den Networks|GL7220|GK7661C|GL7220|
 |Denali|DT0702W08|DT0702W08|DT0702W08|
 |Denali|DT0704K08|DT0704K08|DT0704K08|
@@ -24205,8 +24206,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 50 ultra|ctwo|motorola edge 50 ultra|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
+|Motorola|motorola edge 60|scout|motorola edge 50 neo|
+|Motorola|motorola edge 60|scout|motorola edge 60|
 |Motorola|motorola edge 60 fusion|scout|motorola edge 50 neo|
 |Motorola|motorola edge 60 fusion|scout|motorola edge 60 fusion|
+|Motorola|motorola edge 60 pro|cybert|moto g play - 2024|
+|Motorola|motorola edge 60 pro|cybert|motorola edge 60 pro|
 |Motorola|motorola edge 60 stylus|monai|motorola edge 50 fusion|
 |Motorola|motorola edge 60 stylus|monai|motorola edge 60 stylus|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
@@ -24249,6 +24254,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 2023|lynkco|motorola razr 2023|
 |Motorola|motorola razr 2024|aito|motorola razr 2023|
 |Motorola|motorola razr 2024|aito|motorola razr 2024|
+|Motorola|motorola razr 2025|aito|motorola razr 2024|
+|Motorola|motorola razr 2025|aito|motorola razr 2025|
 |Motorola|motorola razr 40|lynkco|motorola razr 2022|
 |Motorola|motorola razr 40|lynkco|motorola razr 40|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
@@ -24262,12 +24269,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 50d M-51E|M-51E|M-51E|
 |Motorola|motorola razr 50s|aito|motorola razr 50s|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
+|Motorola|motorola razr 60|aito|motorola razr 50|
+|Motorola|motorola razr 60|aito|motorola razr 60|
 |Motorola|motorola razr 60 ultra|leap|motorola razr 50 ultra|
 |Motorola|motorola razr 60 ultra|leap|motorola razr 60 ultra|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2024|
+|Motorola|motorola razr plus 2025|arcfox|motorola razr plus 2024|
+|Motorola|motorola razr plus 2025|arcfox|motorola razr plus 2025|
 |Motorola|motorola razr ultra 2025|leap|motorola razr 50 ultra|
 |Motorola|motorola razr ultra 2025|leap|motorola razr ultra 2025|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
@@ -30179,6 +30190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 14 5G|beryl|24094RAD4I|
 |Redmi|Redmi Note 14 5G|citrine|24094RAD4G|
 |Redmi|Redmi Note 14 Pro|malachite|24090RA29C|
+|Redmi|Redmi Note 14 Pro|malachite|24090RA29G|
 |Redmi|Redmi Note 14 Pro|obsidian|24116RACCG|
 |Redmi|Redmi Note 14 Pro 5G|malachite|24090RA29G|
 |Redmi|Redmi Note 14 Pro 5G|malachite|24090RA29I|
@@ -39525,6 +39537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 40 5G|TECNO-CM7|TECNO CM7|
 |Tecno|TECNO CAMON 40 Premier 5G|TECNO-CM8|TECNO CM8|
 |Tecno|TECNO CAMON 40 Pro|TECNO-CM6|TECNO CM6|
+|Tecno|TECNO CAMON 40 Pro 5G|TECNO-CM7|TECNO CM7|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -42177,6 +42190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y300 5G|V2418|V2416|
 |Vivo|Y300 Plus 5G|V2422|V2422|
 |Vivo|Y300 Pro|PD2410|V2410A|
+|Vivo|Y300+|PD2445|V2445EA|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
 |Vivo|Y31L|Y31L|vivo Y31L|
@@ -42201,6 +42215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y36s|PD2318|V2318A|
 |Vivo|Y36t|PD2327|V2327A|
 |Vivo|Y37 Pro|PD2354M|V2354A|
+|Vivo|Y37c|PD2442|V2442A|
 |Vivo|Y38 5G|V2343|V2343|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
@@ -42271,6 +42286,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Pad2|DPD2345|iPA2453|
 |Vivo|iQOO Pad2 Pro|DPD2329|iPA2475|
+|Vivo|iQOO Pad5e|DPD2345|iPA2453|
+|Vivo|iQOO Pad5e|DPD2345|iPA2537|
 |Vivo|iQOO Z10 5G|I2407|I2407|
 |Vivo|iQOO Z10x|PD2445|V2445A|
 |Vivo|iQOO Z10x 5G|I2404|I2404|

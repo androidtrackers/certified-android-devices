@@ -37736,6 +37736,13 @@
    "model": "D718"
   }
  ],
+ "Delta": [
+  {
+   "device": "rk3576_u",
+   "name": "TH_series",
+   "model": "TH_series"
+  }
+ ],
  "Den Networks": [
   {
    "device": "GK7661C",
@@ -124594,6 +124601,16 @@
   },
   {
    "device": "scout",
+   "name": "motorola edge 60",
+   "model": "motorola edge 50 neo"
+  },
+  {
+   "device": "scout",
+   "name": "motorola edge 60",
+   "model": "motorola edge 60"
+  },
+  {
+   "device": "scout",
    "name": "motorola edge 60 fusion",
    "model": "motorola edge 50 neo"
   },
@@ -124601,6 +124618,16 @@
    "device": "scout",
    "name": "motorola edge 60 fusion",
    "model": "motorola edge 60 fusion"
+  },
+  {
+   "device": "cybert",
+   "name": "motorola edge 60 pro",
+   "model": "moto g play - 2024"
+  },
+  {
+   "device": "cybert",
+   "name": "motorola edge 60 pro",
+   "model": "motorola edge 60 pro"
   },
   {
    "device": "monai",
@@ -124813,6 +124840,16 @@
    "model": "motorola razr 2024"
   },
   {
+   "device": "aito",
+   "name": "motorola razr 2025",
+   "model": "motorola razr 2024"
+  },
+  {
+   "device": "aito",
+   "name": "motorola razr 2025",
+   "model": "motorola razr 2025"
+  },
+  {
    "device": "lynkco",
    "name": "motorola razr 40",
    "model": "motorola razr 2022"
@@ -124878,6 +124915,16 @@
    "model": "motorola razr 5G"
   },
   {
+   "device": "aito",
+   "name": "motorola razr 60",
+   "model": "motorola razr 50"
+  },
+  {
+   "device": "aito",
+   "name": "motorola razr 60",
+   "model": "motorola razr 60"
+  },
+  {
    "device": "leap",
    "name": "motorola razr 60 ultra",
    "model": "motorola razr 50 ultra"
@@ -124906,6 +124953,16 @@
    "device": "arcfox",
    "name": "motorola razr plus 2024",
    "model": "motorola razr plus 2024"
+  },
+  {
+   "device": "arcfox",
+   "name": "motorola razr plus 2025",
+   "model": "motorola razr plus 2024"
+  },
+  {
+   "device": "arcfox",
+   "name": "motorola razr plus 2025",
+   "model": "motorola razr plus 2025"
   },
   {
    "device": "leap",
@@ -155367,6 +155424,11 @@
    "device": "malachite",
    "name": "Redmi Note 14 Pro",
    "model": "24090RA29C"
+  },
+  {
+   "device": "malachite",
+   "name": "Redmi Note 14 Pro",
+   "model": "24090RA29G"
   },
   {
    "device": "obsidian",
@@ -202997,6 +203059,11 @@
    "model": "TECNO CM6"
   },
   {
+   "device": "TECNO-CM7",
+   "name": "TECNO CAMON 40 Pro 5G",
+   "model": "TECNO CM7"
+  },
+  {
    "device": "TECNO-KB2",
    "name": "TECNO CAMON iACE 2",
    "model": "TECNO KB2"
@@ -216773,6 +216840,11 @@
    "model": "V2410A"
   },
   {
+   "device": "PD2445",
+   "name": "Y300+",
+   "model": "V2445EA"
+  },
+  {
    "device": "PD1505",
    "name": "Y31",
    "model": "vivo Y31"
@@ -216891,6 +216963,11 @@
    "device": "PD2354M",
    "name": "Y37 Pro",
    "model": "V2354A"
+  },
+  {
+   "device": "PD2442",
+   "name": "Y37c",
+   "model": "V2442A"
   },
   {
    "device": "V2343",
@@ -217241,6 +217318,16 @@
    "device": "DPD2329",
    "name": "iQOO Pad2 Pro",
    "model": "iPA2475"
+  },
+  {
+   "device": "DPD2345",
+   "name": "iQOO Pad5e",
+   "model": "iPA2453"
+  },
+  {
+   "device": "DPD2345",
+   "name": "iQOO Pad5e",
+   "model": "iPA2537"
   },
   {
    "device": "I2407",
