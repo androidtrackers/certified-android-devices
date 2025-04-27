@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-26
+Last sync is 2025-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3011,6 +3011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BESTTAB|A10_NEU|A10|A10|
 |BESTTAB|A20_EEA|A20|A20|
 |BESTTAB|A20_NEU|A20|A20|
+|BEYODFU|M518|M518|M518|
 |BGH S.A.|BGH 2K Android TV|lasalle|BGH 2K Android TV|
 |BGH S.A.|BGH 4K Android TV|kenton|BGH 4K Android TV|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
@@ -37195,6 +37196,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 505|Ant|T509A|
 |TCL|TCL 505|Ant|T509K|
 |TCL|TCL 505 S|Ant|T509A|
+|TCL|TCL 60 5G|Aster_Pro|T521D|
+|TCL|TCL 60 5G|Aster_Pro|T521H|
+|TCL|TCL 60 5G|Aster_Pro|T521N|
+|TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521K|
+|TCL|TCL 60R 5G|Aster|T519H|
+|TCL|TCL 60R 5G|Aster|T519N|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -38133,6 +38140,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel Raven LTE|BUZZ6T4GTFUMTS|A574BL|
 |TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L|
 |TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L_EEA|
+|TCT (Alcatel)|Alcatel V3 Classic|Aster|T519H|
+|TCT (Alcatel)|Alcatel V3 Pro|Aster_Pro|T521D|
 |TCT (Alcatel)|Alcatel one touch 985|one_touch_985A_gsm|ALCATEL_one_touch_985|
 |TCT (Alcatel)|Alcatel9007T|Pixi3_7_4G|Alcatel9007T|
 |TCT (Alcatel)|Alcatel_4060A|Pop445|Alcatel_4060A|
@@ -42390,6 +42399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Pad2|DPD2221|PA2373|
 |Vivo|vivo Pad3|DPD2345|PA2455|
 |Vivo|vivo Pad3 Pro|DPD2329|PA2473|
+|Vivo|vivo Pad5 Pro|DPD2429|PA2573|
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S1|PD1831|V1831T|
 |Vivo|vivo S15 Pro|PD2207|V2207A|

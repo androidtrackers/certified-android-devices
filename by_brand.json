@@ -15591,6 +15591,13 @@
    "model": "A20"
   }
  ],
+ "BEYODFU": [
+  {
+   "device": "M518",
+   "name": "M518",
+   "model": "M518"
+  }
+ ],
  "BGH S.A.": [
   {
    "device": "lasalle",
@@ -191137,6 +191144,36 @@
    "model": "T509A"
   },
   {
+   "device": "Aster_Pro",
+   "name": "TCL 60 5G",
+   "model": "T521D"
+  },
+  {
+   "device": "Aster_Pro",
+   "name": "TCL 60 5G",
+   "model": "T521H"
+  },
+  {
+   "device": "Aster_Pro",
+   "name": "TCL 60 5G",
+   "model": "T521N"
+  },
+  {
+   "device": "Aster_Pro",
+   "name": "TCL 60 SE NXTPAPER 5G",
+   "model": "T521K"
+  },
+  {
+   "device": "Aster",
+   "name": "TCL 60R 5G",
+   "model": "T519H"
+  },
+  {
+   "device": "Aster",
+   "name": "TCL 60R 5G",
+   "model": "T519N"
+  },
+  {
    "device": "Delhi_TF",
    "name": "TCL A3X",
    "model": "A600DL"
@@ -195829,6 +195866,16 @@
    "device": "PIXI4-4C_GO",
    "name": "Alcatel U3",
    "model": "4034L_EEA"
+  },
+  {
+   "device": "Aster",
+   "name": "Alcatel V3 Classic",
+   "model": "T519H"
+  },
+  {
+   "device": "Aster_Pro",
+   "name": "Alcatel V3 Pro",
+   "model": "T521D"
   },
   {
    "device": "one_touch_985A_gsm",
@@ -217838,6 +217885,11 @@
    "device": "DPD2329",
    "name": "vivo Pad3 Pro",
    "model": "PA2473"
+  },
+  {
+   "device": "DPD2429",
+   "name": "vivo Pad5 Pro",
+   "model": "PA2573"
   },
   {
    "device": "PD1831",
