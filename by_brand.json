@@ -33695,6 +33695,11 @@
    "model": "T118"
   },
   {
+   "device": "W30",
+   "name": "W30",
+   "model": "W30"
+  },
+  {
    "device": "Z103",
    "name": "Z103",
    "model": "Z103"
@@ -37483,6 +37488,11 @@
   }
  ],
  "Dcolor": [
+  {
+   "device": "YHT",
+   "name": "Dcolor",
+   "model": "Dcolor GD2"
+  },
   {
    "device": "YUL",
    "name": "GD1 4K",
@@ -115651,6 +115661,11 @@
   {
    "device": "M-SP1X10",
    "name": "M-SP1X10",
+   "model": "BT10"
+  },
+  {
+   "device": "M-SP1X10",
+   "name": "M-SP1X10",
    "model": "X10"
   },
   {
@@ -127792,11 +127807,6 @@
    "model": "LAVIE Tab 102K1"
   },
   {
-   "device": "LAVIETab9QHD1",
-   "name": "LAVIE Tab 9QHD1",
-   "model": "LAVIE Tab 9QHD1"
-  },
-  {
    "device": "PC-TE410JAW",
    "name": "LAVIE Tab E",
    "model": "PC-TE410JAW"
@@ -127860,6 +127870,11 @@
    "device": "LAVIETab143K1",
    "name": "LAVIE Tab T14",
    "model": "LAVIE Tab 143K1"
+  },
+  {
+   "device": "LAVIETab9QHD1",
+   "name": "LAVIE Tab T9",
+   "model": "LAVIE Tab 9QHD1"
   },
   {
    "device": "LAVIETabT1212QHD1",
@@ -173281,6 +173296,26 @@
    "model": "SM-X308U"
   },
   {
+   "device": "gtact5prowifi",
+   "name": "Galaxy Tab Active5 Pro",
+   "model": "SM-X350"
+  },
+  {
+   "device": "gtact5pro",
+   "name": "Galaxy Tab Active5 Pro 5G",
+   "model": "SM-X356B"
+  },
+  {
+   "device": "gtact5pro",
+   "name": "Galaxy Tab Active5 Pro 5G",
+   "model": "SM-X356N"
+  },
+  {
+   "device": "gtact5pro",
+   "name": "Galaxy Tab Active5 Pro 5G",
+   "model": "SM-X358U"
+  },
+  {
    "device": "gtaxladwifikx",
    "name": "Galaxy Tab Advanced2",
    "model": "SM-T583"
@@ -175609,6 +175644,31 @@
    "device": "xcover7",
    "name": "Galaxy XCover7",
    "model": "SM-G556B"
+  },
+  {
+   "device": "xcover7pro",
+   "name": "Galaxy XCover7 Pro",
+   "model": "SM-G766B"
+  },
+  {
+   "device": "xcover7pro",
+   "name": "Galaxy XCover7 Pro",
+   "model": "SM-G766N"
+  },
+  {
+   "device": "xcover7pro",
+   "name": "Galaxy XCover7 Pro",
+   "model": "SM-G766U"
+  },
+  {
+   "device": "xcover7pro",
+   "name": "Galaxy XCover7 Pro",
+   "model": "SM-G766U1"
+  },
+  {
+   "device": "xcover7pro",
+   "name": "Galaxy XCover7 Pro",
+   "model": "SM-G766W"
   },
   {
    "device": "GT-S5690",
@@ -216703,11 +216763,6 @@
   },
   {
    "device": "V2419",
-   "name": "Y19s",
-   "model": "V2419"
-  },
-  {
-   "device": "V2419",
    "name": "Y19s pro",
    "model": "V2419"
   },
@@ -243126,6 +243181,11 @@
    "device": "RE607CL1",
    "name": "realme C75",
    "model": "RMX3941"
+  },
+  {
+   "device": "RE6092",
+   "name": "realme C75 5G",
+   "model": "RMX3943"
   },
   {
    "device": "RE6089",

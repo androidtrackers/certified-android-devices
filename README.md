@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-27
+Last sync is 2025-04-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6507,6 +6507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crelander|E102|E102|E102|
 |Crelander|E105|E105|E105|
 |Crelander|T118|T118|T118|
+|Crelander|W30|W30|W30|
 |Crelander|Z103|Z103|Z103|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
 |Cricket|Cricket Debut S2™|U380AC|U380AC|
@@ -7234,6 +7235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dcode|DS_CL4_Lite|DS_CL4_Lite|DS-CL4 Lite|
 |Dcode|DS_CL4_Lite_C|DS_CL4_Lite|DS-CL4 Lite|
 |Dcode|DS_CL4_Pro|DS_CL4_Pro|DS-CL4 Pro|
+|Dcolor|Dcolor|YHT|Dcolor GD2|
 |Dcolor|GD1 4K|YUL|GD1 4K|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
 |DeWALT|DeWalt md501|md501|md501|
@@ -22445,6 +22447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP1AZ3P|M-SP1AZ3P|Azimut 3 Pro|
 |Mediacom|M-SP1AZ3_EEA|M-SP1AZ3|M-SP1AZ3|
 |Mediacom|M-SP1EY|M-SP1EY_EEA|1EY|
+|Mediacom|M-SP1X10|M-SP1X10|BT10|
 |Mediacom|M-SP1X10|M-SP1X10|X10|
 |Mediacom|M-SP7HXAH|M-SP7HXAH|M-SP7HXAH|
 |Mediacom|M-SP7xGO3G|M-SP7xGO3G|M-SP7xGO3G|
@@ -24826,7 +24829,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE T11 11QHD1|LAVIET1111QHD1|LAVIE T11 11QHD1|
 |NEC|LAVIE T8 8HD1|LAVIET88HD1|LAVIE T8 8HD1|
 |NEC|LAVIE Tab 102K1|LAVIETab102K1|LAVIE Tab 102K1|
-|NEC|LAVIE Tab 9QHD1|LAVIETab9QHD1|LAVIE Tab 9QHD1|
 |NEC|LAVIE Tab E|PC-TE410JAW|PC-TE410JAW|
 |NEC|LAVIE Tab E|PC-TE508HAW|PC-TE508HAW|
 |NEC|LAVIE Tab E|X704F|PC-TE510HAW|
@@ -24840,6 +24842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab T11|LAVIETab11FHD1|LAVIE Tab 11FHD1|
 |NEC|LAVIE Tab T11|LAVIETab11QHD2|LAVIE Tab 11QHD2|
 |NEC|LAVIE Tab T14|LAVIETab143K1|LAVIE Tab 143K1|
+|NEC|LAVIE Tab T9|LAVIETab9QHD1|LAVIE Tab 9QHD1|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
 |NEC|LaVieTab PC-TE508BAW|TE508BAW|PC-TE508BAW|
 |NEC|LaVieTab PC-TE508S1W/LaVieTab PC-TE508S1L|PC-TE508S1_nec|LaVieTab PC-TE508S1|
@@ -33699,6 +33702,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X306N|
 |Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X308B|
 |Samsung|Galaxy Tab Active5 5G|gtactive5|SM-X308U|
+|Samsung|Galaxy Tab Active5 Pro|gtact5prowifi|SM-X350|
+|Samsung|Galaxy Tab Active5 Pro 5G|gtact5pro|SM-X356B|
+|Samsung|Galaxy Tab Active5 Pro 5G|gtact5pro|SM-X356N|
+|Samsung|Galaxy Tab Active5 Pro 5G|gtact5pro|SM-X358U|
 |Samsung|Galaxy Tab Advanced2|gtaxladwifikx|SM-T583|
 |Samsung|Galaxy Tab E|gtel3g|SM-T561M|
 |Samsung|Galaxy Tab E|gtelwifi|SM-T560|
@@ -34165,6 +34172,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U1|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736W|
 |Samsung|Galaxy XCover7|xcover7|SM-G556B|
+|Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766B|
+|Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766N|
+|Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766U|
+|Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766U1|
+|Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766W|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
@@ -42162,7 +42174,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
-|Vivo|Y19s|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2458|
 |Vivo|Y19s pro|V2419|V2507|
@@ -47298,6 +47309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme C75|RE607CL1|RMX3941|
+|realme|realme C75 5G|RE6092|RMX3943|
 |realme|realme C75x|RE6089|RMX5020|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
