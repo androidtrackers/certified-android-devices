@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-28
+Last sync is 2025-04-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1112,6 +1112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AWM599|AWM599|AWM599|
 |Aiwa|AWM999|AWM999|AWM999|
 |Aiwa|AWPM106A|AWPM106A|AWPM106A|
+|Aiwa|AWPM108T|AWPM108T|AWPM108T|
 |Aiwa|AWPP101AW|AWPP101AW|AWPP101AW|
 |Aiwa|AWT10H|AWT10H|AWT10H|
 |Aiwa|AW_TAB10_14|AW_TAB10_14|AW_TAB10_14|
@@ -12076,6 +12077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|i50|i50|Haier_i50|
 |Haitech|HIP-T66|HIP-T66|HIP-T66|
 |Haitech|HPAD-M2|HPAD-M2|HPAD-M2|
+|Haitech|HPAD-T80|HPAD-T80|HPAD-T80|
 |Haitech|HPAD_IA65|HPAD_IA65|HPAD_IA65|
 |Haitech|HPAD_IA65|Tablet|KITYPRO|
 |Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
@@ -13384,6 +13386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
+|Honor|荣耀平板GT|HNROL-M|ROL-W60|
 |Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
 |Honor|荣耀平板V9|HNROL-M|ROL-W00|
 |Honor|荣耀平板V9|HNROL-M|ROL-W10|
@@ -21547,6 +21550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|TABXL14|Tab_XL_14|Tab XL 14|
 |Logicom|TABXL_14|TABXL_14|Tab_XL_14|
 |Logicom|TAB_STAND_PRO_2|TAB_STAND_PRO_2|TAB_STAND_PRO_2|
+|Logicom|TAB_XXL_14|TAB_XXL_14|TAB_XXL_14|
 |Logicom|Tab_Stand_Pro|Tab_Stand_Pro|Tab_Stand_Pro|
 |Logicom|Tab_XL_14|Tab_XL_14|Tab_XL_14|
 |Logicom|Touch Tablet CT730|CT730|CT730|
@@ -25807,6 +25811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MT1MAX|MT1MAX|MT1MAX|
 |ONERugged|MT1MAXE|MT1MAXE|MT1MAXE|
 |ONERugged|MT1N|MT1N|MT1N|
+|ONERugged|MT2UE|MT2UE|MT2UE|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
 |ONIDA|R3|R3|R3|
@@ -30333,6 +30338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P80_EU|P80_EU|P80|
 |Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
+|Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
 |Relndoo|T10P_B|T10P_B|T10P|
@@ -33672,6 +33678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A9|gta9|SM-X117|
 |Samsung|Galaxy Tab A9|gta9wifi|SM-X110|
 |Samsung|Galaxy Tab A9+|gta9pwifi|SM-X210|
+|Samsung|Galaxy Tab A9+|gta9pwifi|SM-X210R|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216B|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216C|
 |Samsung|Galaxy Tab A9+ 5G|gta9p|SM-X216N|
@@ -36739,6 +36746,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|L2H_EDLA_GL|SUNMI-L2HNFC|L2H_EDLA_GL|
 |Sunmi|L2Ks|SUNMI-L2KsNFC|L2Ks_EDLA_GL|
 |Sunmi|L2s_PRO|SUNMI-L2s_PRO|L2s_PRO|
+|Sunmi|L3|L3|L3|
+|Sunmi|OrderPAD 3|OrderPAD_3|OrderPAD 3|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_EEA|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_GL|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_TR|
@@ -39930,6 +39939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TheNudge|Smartboard_Ai|oversea_v|HDJN|
 |ThinkAcademy|T100|T100|T100|
 |Thinpad|TH805|TH805|TH805|
+|Thomson|270|SNA|270|
 |Thomson|32TG6A9|ikebukuro|AI PONT|
 |Thomson|5014G_EEA|5014G|5014G|
 |Thomson|50TG7UA9X|samseong|AI PONT|
@@ -42309,6 +42319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad5e|DPD2345|iPA2453|
 |Vivo|iQOO Pad5e|DPD2345|iPA2537|
 |Vivo|iQOO Z10 5G|I2407|I2407|
+|Vivo|iQOO Z10 Turbo|PD2452|V2452A|
 |Vivo|iQOO Z10x|PD2445|V2445A|
 |Vivo|iQOO Z10x 5G|I2404|I2404|
 |Vivo|iQOO Z5|2018|I2018|
@@ -42812,6 +42823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WAOO|Waoo TV-boks|m393gena_w|Waoo TV-boks|
 |WARP|TAB-WP11|TAB-WP11|TAB-WP11|
 |WCED|H1010_M50|H1010_M50|H1010_M50|
+|WEONEX|Interactive Flat Panel|WX_IFPD01|WX_IFPD01|
 |WEROCK|RockscanA260|RockscanA260|A260|
 |WEROCK|RockscanA265|RockscanA265|A265|
 |WEROCK|WEROCK Rocktab S508|S508|Rocktab S508|
@@ -47192,6 +47204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3871|RE6063L1|RMX3871|
 |realme|RMX3930|RE6054|RMX3930|
 |realme|RMX3933|RE6054|RMX3933|
+|realme|RMX3939|RE6054|RMX3939|
 |realme|RMX3940|RE606B|RMX3940|
 |realme|RMX3944|RE6083L1|RMX3944|
 |realme|RMX3990|RE5CA3L1|RMX3990|

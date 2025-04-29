@@ -5862,6 +5862,11 @@
    "model": "AWPM106A"
   },
   {
+   "device": "AWPM108T",
+   "name": "AWPM108T",
+   "model": "AWPM108T"
+  },
+  {
    "device": "AWPP101AW",
    "name": "AWPP101AW",
    "model": "AWPP101AW"
@@ -62668,6 +62673,11 @@
    "model": "HPAD-M2"
   },
   {
+   "device": "HPAD-T80",
+   "name": "HPAD-T80",
+   "model": "HPAD-T80"
+  },
+  {
    "device": "HPAD_IA65",
    "name": "HPAD_IA65",
    "model": "HPAD_IA65"
@@ -69312,6 +69322,11 @@
    "device": "HNBRP-Q",
    "name": "荣耀X60 PRO",
    "model": "BRP-AN80"
+  },
+  {
+   "device": "HNROL-M",
+   "name": "荣耀平板GT",
+   "model": "ROL-W60"
   },
   {
    "device": "HNROD2-Q",
@@ -110903,6 +110918,11 @@
    "model": "TAB_STAND_PRO_2"
   },
   {
+   "device": "TAB_XXL_14",
+   "name": "TAB_XXL_14",
+   "model": "TAB_XXL_14"
+  },
+  {
    "device": "Tab_Stand_Pro",
    "name": "Tab_Stand_Pro",
    "model": "Tab_Stand_Pro"
@@ -132941,6 +132961,11 @@
    "device": "MT1N",
    "name": "MT1N",
    "model": "MT1N"
+  },
+  {
+   "device": "MT2UE",
+   "name": "MT2UE",
+   "model": "MT2UE"
   }
  ],
  "ONIDA": [
@@ -156157,6 +156182,11 @@
    "model": "P80"
   },
   {
+   "device": "P90_ROW",
+   "name": "P90_ROW",
+   "model": "P90"
+  },
+  {
    "device": "T10P",
    "name": "T10P",
    "model": "T10P"
@@ -173146,6 +173176,11 @@
    "model": "SM-X210"
   },
   {
+   "device": "gta9pwifi",
+   "name": "Galaxy Tab A9+",
+   "model": "SM-X210R"
+  },
+  {
    "device": "gta9p",
    "name": "Galaxy Tab A9+ 5G",
    "model": "SM-X216B"
@@ -188779,6 +188814,16 @@
    "device": "SUNMI-L2s_PRO",
    "name": "L2s_PRO",
    "model": "L2s_PRO"
+  },
+  {
+   "device": "L3",
+   "name": "L3",
+   "model": "L3"
+  },
+  {
+   "device": "OrderPAD_3",
+   "name": "OrderPAD 3",
+   "model": "OrderPAD 3"
   },
   {
    "device": "SUNMI-L2HNFC",
@@ -205110,6 +205155,11 @@
  ],
  "Thomson": [
   {
+   "device": "SNA",
+   "name": "270",
+   "model": "270"
+  },
+  {
    "device": "ikebukuro",
    "name": "32TG6A9",
    "model": "AI PONT"
@@ -217437,6 +217487,11 @@
    "model": "I2407"
   },
   {
+   "device": "PD2452",
+   "name": "iQOO Z10 Turbo",
+   "model": "V2452A"
+  },
+  {
    "device": "PD2445",
    "name": "iQOO Z10x",
    "model": "V2445A"
@@ -220006,6 +220061,13 @@
    "device": "H1010_M50",
    "name": "H1010_M50",
    "model": "H1010_M50"
+  }
+ ],
+ "WEONEX": [
+  {
+   "device": "WX_IFPD01",
+   "name": "Interactive Flat Panel",
+   "model": "WX_IFPD01"
   }
  ],
  "WEROCK": [
@@ -242596,6 +242658,11 @@
    "device": "RE6054",
    "name": "RMX3933",
    "model": "RMX3933"
+  },
+  {
+   "device": "RE6054",
+   "name": "RMX3939",
+   "model": "RMX3939"
   },
   {
    "device": "RE606B",
