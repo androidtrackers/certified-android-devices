@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-29
+Last sync is 2025-04-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5029,6 +5029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CLOVERTEK|G65|G65|G65|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
+|CMF by Nothing|CMF Phone 2 Pro|Galaga|A001|
 |CMF by Nothing|CMF by Nothing Phone 1|Tetris|A015|
 |COCOMM|COCOMM F900B|F900BN0101|F900B|
 |COCOMM|ENOS|ENOS|ENOS|
@@ -8111,6 +8112,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DreamMaker|DreamMaker|DPLAY|DPLAY|
 |DreamPos|LeoPos7_EEA|LeoPos7_EEA|DreamPos|
 |Dreamax|DMX-ST7A|DMX-ST7A|DMX-ST7A|
+|Dreame|DREAME SMART 2KTV|beomil|DREAME SMART 2KTV|
+|Dreame|DREAME SMART 4KTV|anaheim|DREAME SMART 4KTV|
+|Dreame|DREAME SMART 4KTV|byculla|DREAME SMART 4KTV|
+|Dreame|DREAME SMART 4KTV|eleonas|DREAME SMART 4KTV|
 |Dreamstar|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
 |Dreamstar|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
 |Dreamstar|Nova|YYZ|Nova|
@@ -20111,6 +20116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX515|LXX515|LXX515|
 |Lava|LAVA LZG410|LZG410|LZG410|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
+|Lava|LAVA LZX419|LZX419|LAVA LZX419|
 |Lava|LAVA Z36|LEX403|LAVA LEX403|
 |Lava|LAVA Z66|Z66|Lava Z66|
 |Lava|LE000Z93P|LE000Z93P|LE000Z93P|
@@ -20125,7 +20131,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
 |Lava|LZG01|LZG01|LAVA LZG01|
-|Lava|Lava Shark|LZX419|LAVA LZX419|
 |Lava|Magnum Pro|Magnum_Pro|Magnum_Pro|
 |Lava|P7|P7|P7|
 |Lava|P7 Plus|P7plus|P7plus|
@@ -27385,6 +27390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET_11080_H428S|PET_11080_H428S|PET_11080_H428S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEAQ|R4_GTV|R4_GTV|R4G|
+|PEICHENG|P13PRO|P13PRO|P13PRO|
 |PEICHENG|Q1|Q1|Q1|
 |PEICHENG|Q1|Q1|Q1K|
 |PEICHENG|Q8|Q8|Q8|
@@ -42184,6 +42190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y18i|V2344|V2414|
 |Vivo|Y18s|V2333|V2410|
 |Vivo|Y18t|V2344|V2408|
+|Vivo|Y19 5G|V2446|V2432|
 |Vivo|Y19s pro|V2419|V2419|
 |Vivo|Y19s pro|V2419|V2458|
 |Vivo|Y19s pro|V2419|V2507|

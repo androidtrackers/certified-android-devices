@@ -26021,6 +26021,11 @@
  ],
  "CMF by Nothing": [
   {
+   "device": "Galaga",
+   "name": "CMF Phone 2 Pro",
+   "model": "A001"
+  },
+  {
    "device": "Tetris",
    "name": "CMF by Nothing Phone 1",
    "model": "A015"
@@ -42005,6 +42010,28 @@
    "device": "DMX-ST7A",
    "name": "DMX-ST7A",
    "model": "DMX-ST7A"
+  }
+ ],
+ "Dreame": [
+  {
+   "device": "beomil",
+   "name": "DREAME SMART 2KTV",
+   "model": "DREAME SMART 2KTV"
+  },
+  {
+   "device": "anaheim",
+   "name": "DREAME SMART 4KTV",
+   "model": "DREAME SMART 4KTV"
+  },
+  {
+   "device": "byculla",
+   "name": "DREAME SMART 4KTV",
+   "model": "DREAME SMART 4KTV"
+  },
+  {
+   "device": "eleonas",
+   "name": "DREAME SMART 4KTV",
+   "model": "DREAME SMART 4KTV"
   }
  ],
  "Dreamstar": [
@@ -103639,6 +103666,11 @@
    "model": "LAVA LZX414"
   },
   {
+   "device": "LZX419",
+   "name": "LAVA LZX419",
+   "model": "LAVA LZX419"
+  },
+  {
    "device": "LEX403",
    "name": "LAVA Z36",
    "model": "LAVA LEX403"
@@ -103707,11 +103739,6 @@
    "device": "LZG01",
    "name": "LZG01",
    "model": "LAVA LZG01"
-  },
-  {
-   "device": "LZX419",
-   "name": "Lava Shark",
-   "model": "LAVA LZX419"
   },
   {
    "device": "Magnum_Pro",
@@ -140994,6 +141021,11 @@
   }
  ],
  "PEICHENG": [
+  {
+   "device": "P13PRO",
+   "name": "P13PRO",
+   "model": "P13PRO"
+  },
   {
    "device": "Q1",
    "name": "Q1",
@@ -216810,6 +216842,11 @@
    "device": "V2344",
    "name": "Y18t",
    "model": "V2408"
+  },
+  {
+   "device": "V2446",
+   "name": "Y19 5G",
+   "model": "V2432"
   },
   {
    "device": "V2419",
