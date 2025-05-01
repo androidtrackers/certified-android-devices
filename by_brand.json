@@ -15941,6 +15941,11 @@
    "model": "I10_Plus"
   },
   {
+   "device": "I10_Plus_WLAN",
+   "name": "I10_Plus_WLAN",
+   "model": "I10_Plus"
+  },
+  {
    "device": "I10_Pro_EEA",
    "name": "I10_Pro_EEA",
    "model": "I10_Pro"

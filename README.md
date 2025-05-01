@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-04-30
+Last sync is 2025-05-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3075,6 +3075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I10_Plus|I10_Plus_EEA|I10_Plus_EEA|
 |BMAX|I10_Plus_LTE|I10_Plus_LTE|I10_Plus|
 |BMAX|I10_Plus_LTE_EEA|I10_Plus_LTE_EEA|I10_Plus|
+|BMAX|I10_Plus_WLAN|I10_Plus_WLAN|I10_Plus|
 |BMAX|I10_Pro_EEA|I10_Pro_EEA|I10_Pro|
 |BMAX|I10_Pro_LTE|I10_Pro_LTE|I10_Pro_LTE|
 |BMAX|I10_Pro_LTE_EEA|I10_Pro_LTE_EEA|I10_Pro_LTE_EEA|
