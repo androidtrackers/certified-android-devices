@@ -150393,6 +150393,13 @@
    "model": "NeoSmart5"
   }
  ],
+ "Promark": [
+  {
+   "device": "PRO-AT-Series",
+   "name": "PRO AT Series",
+   "model": "PRO-AT-Series"
+  }
+ ],
  "Promethean": [
   {
    "device": "XM3566D",

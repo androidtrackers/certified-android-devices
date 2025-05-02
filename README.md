@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-01
+Last sync is 2025-05-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29219,6 +29219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proline|Proline FalconXL|Proline_FalconXL|Proline_FalconXL|
 |Proline|base10.3g silver|H1010|H1010|
 |Prolink|NeoSmart5|NeoSmart5|NeoSmart5|
+|Promark|PRO AT Series|PRO-AT-Series|PRO-AT-Series|
 |Promethean|Promethean OPS-A1|XM3566D|OPS-A1|
 |Prometheus|PROMETHEUS|stanford|SMART TV|
 |Proscan|PELTDV1029|mdt1008_mr_32|PELTDV1029|
