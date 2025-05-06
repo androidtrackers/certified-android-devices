@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-05
+Last sync is 2025-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7101,6 +7101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|X7|X7|X7|
 |Daewoo|X9|X9|X9|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
+|Dahua|DAHUA|elliniko|4K SA SMART TV|
 |Dahua|DAHUA|elliniko|4K SMART TV|
 |Dahua|DAHUA|hongkong|4K SMART TV|
 |Dahua|DAHUA|hongkong|EcoTV Plus A|
@@ -7199,6 +7200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor 30/30X|nebula_pda|Memor 30/30X|
 |Datalogic|Memor 35/35X|nebula_pda|Memor 35/35X|
 |Datalogic|Memor K|memor_k|Memor K|
+|Datalogic|Memor K20|mk2|Memor K2|
 |Datalogic|Memor K25|mk2|Memor K2|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
@@ -15624,6 +15626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|T803|T803|T803|
 |IRA (explore more)|T808|IRA_T808|IRA T808|
 |IRA (explore more)|T808|T808|T808|
+|IRA (explore more)|Wishtel Pvt Ltd|IRA_T1021|IRA_T1021|
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
 |IRIS_OHYAMA|IB-75UED01B|IB-75UED01B|IB-75UED01B|
 |IRIS_OHYAMA|LUCA Tablet TM152|TM152M4|TM152|
@@ -19853,6 +19856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
 |LUMIO|LUMIO|khardi|LUMIO VISION|
+|LUMIO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
 |LUMUS|NEOSR620|NEOSR620|NEOSR620|
@@ -26675,6 +26679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PGJM10|OP5297|PGJM10|
 |Oppo|PGW110|OP55FF|PGW110|
 |Oppo|PHM110|OP5627|PHM110|
+|Oppo|Pad 4 Pro|OP615CL1|OPD2409|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -27403,6 +27408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEL (PAK)|PEL|lavender|4K SMART TV|
 |PEL (PAK)|PEL|mountbaker|2K SMART TV|
 |PEOTV|SEI300SLT|SEI300SLT|SEI300SLT|
+|PERSONA|86KTA_PRO_FULL|86KTA_PRO_FULL|86KTA_PRO_FULL|
 |PERSONA|86KTA_PRO_PIS-AMLT982|86KTA_PRO_PIS|86KTA_PRO_PIS|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|
@@ -31687,6 +31693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A56 5G|a56x|SM-A5660|
 |Samsung|Galaxy A56 5G|a56x|SM-A566B|
 |Samsung|Galaxy A56 5G|a56x|SM-A566E|
+|Samsung|Galaxy A56 5G|a56x|SM-A566S|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -38739,6 +38746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THANHHUNG_TECHNOLOGY|HERO 9|HERO_9|HERO 9|
 |THE UHD|Android TV|R2|ATV R2|
 |THE UHD|R4|R4|R4|
+|THE UHD|THEUHD|mountbaker|2K SMART TV|
 |THEHAM|Android TV|longshan|AI PONT NA|
 |THEHAM|THEHAM|hongkong|Smart UHD TV|
 |THEHAM|THEHAM|stanford|Smart FHD TV|
