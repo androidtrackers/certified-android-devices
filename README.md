@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-15
+Last sync is 2025-05-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -220,6 +220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AKOR|TG797|TG797|TG797|
 |AKOR|TG996|TG996|TG996|
 |AKUVOX|S567|S567|S567|
+|AKUVOX|X937|X937|X937|
 |ALBADEEL|B725050U|samseong|AI PONT|
 |ALBADEEL|B725U|ikebukuro|AI PONT|
 |ALBADEEL|Smart TV|longshan|AI PONT|
@@ -238,6 +239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALT.mive|Kids Phone 2|odin2|AT-M150|
 |ALT.mive|Style Folder|thor|AT-M120|
 |ALT.mive|Style Folder 2|thor2|AT-M140|
+|AMG-Smartphone|AMG_WR24|ASPWR24|ASPWR24|
 |AMGx13e|ASPE2201|ASPE2201|ASPE2201|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
@@ -3345,6 +3347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOTECH|BOTECH|zhongshan|4K SMART TV|
 |BOTECH|WZONE|HND|WZONE|
 |BOTHO_University|GLTAB101|GLTAB101|GLTAB101|
+|BOXLIGHT|ProColor_P5|rk3576_u|Interactive_Intelligent_Panel|
 |BOXY|BOXY|YYC|4K Android TV Box|
 |BOYO|BYMP|BYMP|BOYO-MP|
 |BPL|Android TV|ikebukuro|AI PONT|
@@ -5170,6 +5173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CVTE|CVTE SA12|rk3588_t|SA12 series|
 |CVTE|Guangzhou Shirui Electronics Co.|Ltd|rk3576_u|
 |CVTE|Guangzhou Shirui Electronics Co.|Ltd|rk3588_t|
+|CVTE|general_camera_broad|rk3576_u|general_edu_v2|
 |CVTE|mensa_an64|mensa|mensa|
 |CWELL|M10|M10|CWELL M10|
 |CWOWDEFU|C10G|C10G|C10G|
@@ -5710,6 +5714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|CHUWI|Hi9Air|Hi9Air|
 |Chuwi|Hi10_XPro|Hi10_XPro|Hi10 XPro|
 |Chuwi|Hi10_XPro_Pad|Hi10_XPro_Pad|Hi10_XPro_Pad|
+|Chuwi|Hi10_XPro_Pad_EEA|Hi10_XPro_Pad_EEA|Hi10 XPro|
 |Chuwi|Hi10_XPro_Pad_EEA|Hi10_XPro_Pad_EEA|Hi10_XPro_Pad|
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
@@ -7217,7 +7222,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor 35/35X|nebula_pda|Memor 35/35X|
 |Datalogic|Memor K|memor_k|Memor K|
 |Datalogic|Memor K20|mk2|Memor K2|
-|Datalogic|Memor K25|mk2|Memor K2|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
@@ -10585,6 +10589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Globe Telecom|SEI-120G|SEI120G|SEI-120G|
 |Globus_Infocom_Limited|GS01-Series|GS01-Series|GS01-Series|
 |Globus_Infocom_Limited|GS04-Series|MTK9679|GS04-Series|
+|Globus_Infocom_Limited|GS08-Series|GS08-Series|GS08-Series|
 |Glocalme|P3S18|P3S18|P3S18|
 |Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
@@ -11893,6 +11898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUAVI|SH_700|GOLD_77|GOLD_77|
 |HUGEROCK|E101_EEA|E101|E101|
 |HUGEROCK|H8|H8|H8|
+|HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPRO|S6|HYPRO_S6|HYPRO S6|
 |HYUNDAI_MAESTRO|HDT-7427GU|HDT-7427GU|HDT-7427GU|
@@ -13306,8 +13312,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 200 Pro|HNELPX|ELP-NX9|
 |Honor|HONOR 200 Smart|HNALT-Q1|ALT-NX1|
 |Honor|HONOR 200 Smart|HNALT-Q2|ALT-NX3|
+|Honor|HONOR 400|HNDNYX|DNY-NX9|
 |Honor|HONOR 400 Lite|HNABR-M|ABR-NX1|
 |Honor|HONOR 400 Lite|HNABR-M|ABR-NX3|
+|Honor|HONOR 400 Pro|HNDNPX|DNP-NX9|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
@@ -15335,6 +15343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYLine_Plus|57PB1|57PB1|
 |Hyundai|HYLine_Pro|65PA2|65PA2|
 |Hyundai|HYUNDAI|bruno|HYUNDAI2KAndroidTV|
+|Hyundai|HYUNDAI|elliniko|4K SMART TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART ATSC TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART COL TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
@@ -19832,6 +19841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LOGIC|LOGIC L66M|LOGIC_L66M|LOGIC L66M|
 |LOGIC|LOGIC_L55V|LOGIC_L55V|LOGIC_L55V|
 |LOGIC|Online Instruments India Pvt. Ltd.|rk3576_u|Logic_LT_IRXXHX|
+|LOGIC|ZX_Series|rk3576_u|Logic_LT_IRXXZX|
 |LONG-LIFE|TabLL08_13_24|TabLL08_13_24|TabLL08_13_24|
 |LOOQS|F102-EEA|F102-EEA|F102-EEA|
 |LOOQS|F102-T610P-EEA|F102-T610P-EEA|F102-T610P-EEA|
@@ -26679,6 +26689,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
 |Oppo|OPPO Pad SE|OP6160L1|OPD2417|
+|Oppo|OPPO Pad SE|OP6192L1|OPD2419|
+|Oppo|OPPO Pad SE|OP6193L1|OPD2420|
 |Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro 5G|OP561F|PHV110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
@@ -29290,6 +29302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prolink|NeoSmart5|NeoSmart5|NeoSmart5|
 |Promark|PRO AT Series|PRO-AT-Series|PRO-AT-Series|
 |Promethean|Promethean OPS-A1|XM3566D|OPS-A1|
+|Promethean|Promethean OPS-A2|OPS-A2|OPS-A2|
 |Prometheus|PROMETHEUS|stanford|SMART TV|
 |Proscan|PELTDV1029|mdt1008_mr_32|PELTDV1029|
 |Proscan|PELTDV1029|mdt1008_mr_32|PELTDVD1029|
@@ -35889,6 +35902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 VI|XQ-EC44|XQ-EC44|
 |Sony|Xperia 1 VI|XQ-EC54|XQ-EC54|
 |Sony|Xperia 1 VI|XQ-EC72|XQ-EC72|
+|Sony|Xperia 1 VII|SO-51F|SO-51F|
 |Sony|Xperia 1 VII|XQ-FS|XQ-FS72|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
@@ -41249,6 +41263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIVIVIEW|V10|V10|V10|
 |VIVIVIEW|V5Pro|V5Pro|V5Pro|
 |VIVIVIEW|V8|V8|V8|
+|VIZZION|VIZZION|elliniko|4K SMART TV|
 |VIZZION|VIZZION|stanford|F VIZZION TV|
 |VIZZION|VIZZION 4K TV|SW4H|VIZZION 4K TV|
 |VIZZION|VIZZION Smart TV|sunnyvale|VIZZION Smart TV|
@@ -41914,6 +41929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1731D|PD1731D|vivo Y71A|
 |Vivo|S17|PD2283|V2283A|
 |Vivo|S17 Pro|PD2284|V2284A|
+|Vivo|S17t|PD2282|V2282A|
 |Vivo|S18 Pro|PD2344|V2344A|
 |Vivo|S19 Pro|PD2362|V2362A|
 |Vivo|S20|PD2429|V2429A|
@@ -42159,12 +42175,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
 |Vivo|V2279A|PD2279J|V2279A|
-|Vivo|V2282A|PD2282|V2282A|
 |Vivo|V2353A|PD2353|V2353A|
 |Vivo|V2353A|PD2353|V2353DA|
 |Vivo|V2417|V2418|V2417|
-|Vivo|V2417A|PD2417|V2417A|
-|Vivo|V2426A|PD2426|V2426A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
@@ -42415,6 +42428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 9T|I2201|I2201|
 |Vivo|iQOO Neo 10R|I2221|I2221|
 |Vivo|iQOO Neo10|PD2425|V2425A|
+|Vivo|iQOO Neo10 Pro|PD2426|V2426A|
 |Vivo|iQOO Neo5S|PD2154|V2154A|
 |Vivo|iQOO Neo6|PD2196|V2196A|
 |Vivo|iQOO Neo6 SE|PD2199|V2199A|
@@ -42463,6 +42477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z9 5G|I2218|I2218|
 |Vivo|iQOO Z9 5G|I2302|I2302|
 |Vivo|iQOO Z9 Turbo|PD2352|V2352A|
+|Vivo|iQOO Z9 Turbo+|PD2417|V2417A|
 |Vivo|iQOO Z9s 5G|I2403|I2403|
 |Vivo|iQOO Z9s Pro 5G|I2305|I2305|
 |Vivo|iQOO Z9x 5G|I2219|I2219|
@@ -46966,6 +46981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|iHunt_S23_PLUS_EEA|iHunt_S23_PLUS_EEA|iHunt_S23_PLUS|
 |iHunt|iHunt_S23_ULTRA|iHunt_S23_ULTRA|iHunt S23 ULTRA|
 |iHunt|iHunt_S24_Xtreme_EEA|iHunt_S24_Xtreme|iHunt S24 Xtreme|
+|iHunt|iHunt_S25_ULTRA|iHunt_S25_ULTRA|iHunt S25 ULTRA|
 |iHunt|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|
 |iLa Mobile|C3|C3|C3|
 |iLa Mobile|D1|D1|D1|

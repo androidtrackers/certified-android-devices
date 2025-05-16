@@ -1156,6 +1156,11 @@
    "device": "S567",
    "name": "S567",
    "model": "S567"
+  },
+  {
+   "device": "X937",
+   "name": "X937",
+   "model": "X937"
   }
  ],
  "ALBADEEL": [
@@ -1258,6 +1263,13 @@
    "device": "thor2",
    "name": "Style Folder 2",
    "model": "AT-M140"
+  }
+ ],
+ "AMG-Smartphone": [
+  {
+   "device": "ASPWR24",
+   "name": "AMG_WR24",
+   "model": "ASPWR24"
   }
  ],
  "AMGx13e": [
@@ -17309,6 +17321,13 @@
    "model": "GLTAB101"
   }
  ],
+ "BOXLIGHT": [
+  {
+   "device": "rk3576_u",
+   "name": "ProColor_P5",
+   "model": "Interactive_Intelligent_Panel"
+  }
+ ],
  "BOXY": [
   {
    "device": "YYC",
@@ -26780,6 +26799,11 @@
    "model": "rk3588_t"
   },
   {
+   "device": "rk3576_u",
+   "name": "general_camera_broad",
+   "model": "general_edu_v2"
+  },
+  {
    "device": "mensa",
    "name": "mensa_an64",
    "model": "mensa"
@@ -29588,6 +29612,11 @@
    "device": "Hi10_XPro_Pad",
    "name": "Hi10_XPro_Pad",
    "model": "Hi10_XPro_Pad"
+  },
+  {
+   "device": "Hi10_XPro_Pad_EEA",
+   "name": "Hi10_XPro_Pad_EEA",
+   "model": "Hi10 XPro"
   },
   {
    "device": "Hi10_XPro_Pad_EEA",
@@ -37386,11 +37415,6 @@
   {
    "device": "mk2",
    "name": "Memor K20",
-   "model": "Memor K2"
-  },
-  {
-   "device": "mk2",
-   "name": "Memor K25",
    "model": "Memor K2"
   },
   {
@@ -55045,6 +55069,11 @@
    "device": "MTK9679",
    "name": "GS04-Series",
    "model": "GS04-Series"
+  },
+  {
+   "device": "GS08-Series",
+   "name": "GS08-Series",
+   "model": "GS08-Series"
   }
  ],
  "Glocalme": [
@@ -61745,6 +61774,13 @@
    "device": "H8",
    "name": "H8",
    "model": "H8"
+  }
+ ],
+ "HUSHIDA": [
+  {
+   "device": "D2",
+   "name": "Interactivewhiteboard",
+   "model": "CW-SPCM"
   }
  ],
  "HYF(heyuefeng)": [
@@ -68934,6 +68970,11 @@
    "model": "ALT-NX3"
   },
   {
+   "device": "HNDNYX",
+   "name": "HONOR 400",
+   "model": "DNY-NX9"
+  },
+  {
    "device": "HNABR-M",
    "name": "HONOR 400 Lite",
    "model": "ABR-NX1"
@@ -68942,6 +68983,11 @@
    "device": "HNABR-M",
    "name": "HONOR 400 Lite",
    "model": "ABR-NX3"
+  },
+  {
+   "device": "HNDNPX",
+   "name": "HONOR 400 Pro",
+   "model": "DNP-NX9"
   },
   {
    "device": "HNNTH",
@@ -79125,6 +79171,11 @@
    "device": "bruno",
    "name": "HYUNDAI",
    "model": "HYUNDAI2KAndroidTV"
+  },
+  {
+   "device": "elliniko",
+   "name": "HYUNDAI",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -102188,6 +102239,11 @@
    "device": "rk3576_u",
    "name": "Online Instruments India Pvt. Ltd.",
    "model": "Logic_LT_IRXXHX"
+  },
+  {
+   "device": "rk3576_u",
+   "name": "ZX_Series",
+   "model": "Logic_LT_IRXXZX"
   }
  ],
  "LONG-LIFE": [
@@ -137411,6 +137467,16 @@
    "model": "OPD2417"
   },
   {
+   "device": "OP6192L1",
+   "name": "OPPO Pad SE",
+   "model": "OPD2419"
+  },
+  {
+   "device": "OP6193L1",
+   "name": "OPPO Pad SE",
+   "model": "OPD2420"
+  },
+  {
    "device": "OP5655",
    "name": "OPPO Reno10 5G",
    "model": "PHW110"
@@ -150760,6 +150826,11 @@
    "device": "XM3566D",
    "name": "Promethean OPS-A1",
    "model": "OPS-A1"
+  },
+  {
+   "device": "OPS-A2",
+   "name": "Promethean OPS-A2",
+   "model": "OPS-A2"
   }
  ],
  "Prometheus": [
@@ -184449,6 +184520,11 @@
    "model": "XQ-EC72"
   },
   {
+   "device": "SO-51F",
+   "name": "Xperia 1 VII",
+   "model": "SO-51F"
+  },
+  {
    "device": "XQ-FS",
    "name": "Xperia 1 VII",
    "model": "XQ-FS72"
@@ -212031,6 +212107,11 @@
  ],
  "VIZZION": [
   {
+   "device": "elliniko",
+   "name": "VIZZION",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "VIZZION",
    "model": "F VIZZION TV"
@@ -215480,6 +215561,11 @@
    "model": "V2284A"
   },
   {
+   "device": "PD2282",
+   "name": "S17t",
+   "model": "V2282A"
+  },
+  {
    "device": "PD2344",
    "name": "S18 Pro",
    "model": "V2344A"
@@ -216705,11 +216791,6 @@
    "model": "V2279A"
   },
   {
-   "device": "PD2282",
-   "name": "V2282A",
-   "model": "V2282A"
-  },
-  {
    "device": "PD2353",
    "name": "V2353A",
    "model": "V2353A"
@@ -216723,16 +216804,6 @@
    "device": "V2418",
    "name": "V2417",
    "model": "V2417"
-  },
-  {
-   "device": "PD2417",
-   "name": "V2417A",
-   "model": "V2417A"
-  },
-  {
-   "device": "PD2426",
-   "name": "V2426A",
-   "model": "V2426A"
   },
   {
    "device": "V2202",
@@ -217985,6 +218056,11 @@
    "model": "V2425A"
   },
   {
+   "device": "PD2426",
+   "name": "iQOO Neo10 Pro",
+   "model": "V2426A"
+  },
+  {
    "device": "PD2154",
    "name": "iQOO Neo5S",
    "model": "V2154A"
@@ -218223,6 +218299,11 @@
    "device": "PD2352",
    "name": "iQOO Z9 Turbo",
    "model": "V2352A"
+  },
+  {
+   "device": "PD2417",
+   "name": "iQOO Z9 Turbo+",
+   "model": "V2417A"
   },
   {
    "device": "I2403",
@@ -241344,6 +241425,11 @@
    "device": "iHunt_S24_Xtreme",
    "name": "iHunt_S24_Xtreme_EEA",
    "model": "iHunt S24 Xtreme"
+  },
+  {
+   "device": "iHunt_S25_ULTRA",
+   "name": "iHunt_S25_ULTRA",
+   "model": "iHunt S25 ULTRA"
   },
   {
    "device": "iHunt_S60_Discovery_Pro_2020",
