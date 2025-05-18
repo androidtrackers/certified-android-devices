@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-17
+Last sync is 2025-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26688,9 +26688,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
-|Oppo|OPPO Pad SE|OP6160L1|OPD2417|
-|Oppo|OPPO Pad SE|OP6192L1|OPD2419|
-|Oppo|OPPO Pad SE|OP6193L1|OPD2420|
 |Oppo|OPPO Reno10 5G|OP5655|PHW110|
 |Oppo|OPPO Reno10 Pro 5G|OP561F|PHV110|
 |Oppo|OPPO Reno10 Pro+ 5G|OP564B|PHU110|
@@ -26751,6 +26748,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PGW110|OP55FF|PGW110|
 |Oppo|PHM110|OP5627|PHM110|
 |Oppo|Pad 4 Pro|OP615CL1|OPD2409|
+|Oppo|Pad SE|OP6160L1|OPD2417|
+|Oppo|Pad SE|OP6192L1|OPD2419|
+|Oppo|Pad SE|OP6193L1|OPD2420|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|

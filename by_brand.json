@@ -137462,21 +137462,6 @@
    "model": "OPD2303"
   },
   {
-   "device": "OP6160L1",
-   "name": "OPPO Pad SE",
-   "model": "OPD2417"
-  },
-  {
-   "device": "OP6192L1",
-   "name": "OPPO Pad SE",
-   "model": "OPD2419"
-  },
-  {
-   "device": "OP6193L1",
-   "name": "OPPO Pad SE",
-   "model": "OPD2420"
-  },
-  {
    "device": "OP5655",
    "name": "OPPO Reno10 5G",
    "model": "PHW110"
@@ -137775,6 +137760,21 @@
    "device": "OP615CL1",
    "name": "Pad 4 Pro",
    "model": "OPD2409"
+  },
+  {
+   "device": "OP6160L1",
+   "name": "Pad SE",
+   "model": "OPD2417"
+  },
+  {
+   "device": "OP6192L1",
+   "name": "Pad SE",
+   "model": "OPD2419"
+  },
+  {
+   "device": "OP6193L1",
+   "name": "Pad SE",
+   "model": "OPD2420"
   },
   {
    "device": "OPPO72_13076",
