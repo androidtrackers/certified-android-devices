@@ -52522,6 +52522,13 @@
    "model": "GSJ"
   }
  ],
+ "GYGAR": [
+  {
+   "device": "IPG-xxH",
+   "name": "IPG-xxH",
+   "model": "IPG-xxH"
+  }
+ ],
  "GYRO": [
   {
    "device": "S6001",
@@ -57312,6 +57319,11 @@
  ],
  "HMD": [
   {
+   "device": "NYX",
+   "name": "HMD ARC",
+   "model": "HMD ARC"
+  },
+  {
    "device": "RCK",
    "name": "HMD Aura",
    "model": "HMD Aura"
@@ -57345,6 +57357,11 @@
    "device": "NHK",
    "name": "HMD Fusion Business Edition",
    "model": "HMD Fusion Business Edition"
+  },
+  {
+   "device": "CMT",
+   "name": "HMD KEY",
+   "model": "HMD KEY"
   },
   {
    "device": "LGD",
@@ -85995,6 +86012,11 @@
    "model": "itel P11"
   },
   {
+   "device": "itel-P1102GT",
+   "name": "P1102GT-OP",
+   "model": "itel P1102GT"
+  },
+  {
    "device": "itel_P12",
    "name": "P12",
    "model": "itel P12"
@@ -111633,6 +111655,11 @@
  ],
  "M-KOPA": [
   {
+   "device": "NYX",
+   "name": "M-KOPA M10",
+   "model": "M-KOPA M10"
+  },
+  {
    "device": "S34",
    "name": "S34",
    "model": "S34"
@@ -130286,6 +130313,11 @@
    "device": "NM_PADPRO",
    "name": "NM_PADPRO",
    "model": "NM_PADPRO"
+  },
+  {
+   "device": "NM_VISION",
+   "name": "NM_VISION",
+   "model": "NM_VISION"
   }
  ],
  "Neusoft": [
@@ -135847,11 +135879,6 @@
    "model": "CPH1809"
   },
   {
-   "device": "OP5EEDL1",
-   "name": "A5",
-   "model": "CPH2727"
-  },
-  {
    "device": "PBAM00",
    "name": "A5",
    "model": "PBAM00"
@@ -135910,6 +135937,11 @@
    "device": "OP5EBBL1",
    "name": "A5 Pro 5G",
    "model": "CPH2695"
+  },
+  {
+   "device": "OP5EEDL1",
+   "name": "A5/A5m",
+   "model": "CPH2727"
   },
   {
    "device": "A51",
@@ -136120,11 +136152,6 @@
    "device": "OP5EEDL1",
    "name": "A5i Pro",
    "model": "CPH2755"
-  },
-  {
-   "device": "OP5EEDL1",
-   "name": "A5m",
-   "model": "CPH2727"
   },
   {
    "device": "OP5EEDL1",
@@ -236913,6 +236940,11 @@
    "model": "NX724J"
   },
   {
+   "device": "P616F03",
+   "name": "nubia Focus",
+   "model": "Z2455"
+  },
+  {
    "device": "P720F11",
    "name": "nubia Focus 2 5G",
    "model": "Z2462N"
@@ -243230,6 +243262,11 @@
    "model": "100146663"
   },
   {
+   "device": "coffey",
+   "name": "onn. 4K Plus Streaming",
+   "model": "onn. 4K Plus Streaming"
+  },
+  {
    "device": "YOC",
    "name": "onn. 4K Streaming Box",
    "model": "onn. 4K Streaming Box"
@@ -243447,6 +243484,11 @@
    "device": "RE5C94L1",
    "name": "RMX3998",
    "model": "RMX3998"
+  },
+  {
+   "device": "RE60B8",
+   "name": "RMX5303",
+   "model": "RMX5303"
   },
   {
    "device": "mateo",
@@ -244002,6 +244044,11 @@
    "device": "RE5C91L1",
    "name": "realme C67",
    "model": "RMX3890"
+  },
+  {
+   "device": "RE60B8",
+   "name": "realme C71",
+   "model": "RMX5303"
   },
   {
    "device": "RE607CL1",

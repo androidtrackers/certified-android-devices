@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-18
+Last sync is 2025-05-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10098,6 +10098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GTX(A)|GTX_JACULUS_01|GTX_JACULUS_01|GTX_JACULUS_01|
 |GTX(A)|Jaculus_V2|Jaculus_V2|Jaculus V2|
 |GUIDE_SAMJUNG|GSJ|rk3588_i|GSJ|
+|GYGAR|IPG-xxH|IPG-xxH|IPG-xxH|
 |GYRO|S6001|S6001|GYRO S6001|
 |Galactic|ETAB_M7043G|ETAB_M7043G|ETAB_M7043G|
 |Galactic|Galactic_Astro|Galactic_Astro|Galactic_Astro|
@@ -11012,6 +11013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Smart TV|mateo|HKC 2K SA Smart TV|
 |HKC Elec|Smart TV|pioneer|4K PA Smart TV|
 |HKT|eye3|UY3-PCW|eye3|
+|HMD|HMD ARC|NYX|HMD ARC|
 |HMD|HMD Aura|RCK|HMD Aura|
 |HMD|HMD CREST|ARW|Arrow|
 |HMD|HMD CREST|ARW|HMD CREST|
@@ -11019,6 +11021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HMD|HMD CREST MAX|ARP|HMD CREST MAX|
 |HMD|HMD Fusion|NHK|HMD Fusion|
 |HMD|HMD Fusion Business Edition|NHK|HMD Fusion Business Edition|
+|HMD|HMD KEY|CMT|HMD KEY|
 |HMD|HMD Pulse|LGD|HMD Pulse|
 |HMD|HMD Pulse Pro|LGR|HMD Pulse Pro|
 |HMD|HMD Pulse+|LGP|HMD Pulse Plus|
@@ -16667,6 +16670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|Orange Nola Up|Nola_Up|Orange Nola up|
 |Itel|Orange Nola fun 3|Nola_fun_3|Orange Nola fun 3|
 |Itel|P11|itel_P11|itel P11|
+|Itel|P1102GT-OP|itel-P1102GT|itel P1102GT|
 |Itel|P12|itel_P12|itel P12|
 |Itel|P13|itel-P13|itel P13|
 |Itel|P13 Plus|itel-P13-Plus|itel P13 Plus|
@@ -21685,6 +21689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|P1|P1|P1|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
+|M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
 |M-KOPA|S34|S34|S34|
 |M-tech|Eros Power|EROS_Power|EROS Power|
 |M-tech|Eros Smart|Eros_Smart|Eros Smart|
@@ -25300,6 +25305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Netmak|NETPAD7|NM-NETPAD7|NM-NETPAD7|
 |Netmak|NM-VELOCITY|NM_VELOCITY|NM-VELOCITY|
 |Netmak|NM_PADPRO|NM_PADPRO|NM_PADPRO|
+|Netmak|NM_VISION|NM_VISION|NM_VISION|
 |Neusoft|S611|S611|S611|
 |New Balance|Run IQ|shasta|NB RunIQ|
 |NewBridge|NBTB101|NBTB101|NBTB101|
@@ -26365,7 +26371,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A40/A3/A40m|OP5B16L1|CPH2669|
 |Oppo|A40/A40m|OP5B16L1|CPH2669|
 |Oppo|A5|CPH1809|CPH1809|
-|Oppo|A5|OP5EEDL1|CPH2727|
 |Oppo|A5|PBAM00|PBAM00|
 |Oppo|A5|PBAT00|PBAT00|
 |Oppo|A5|PBBM30|PBBM30|
@@ -26378,6 +26383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5 Pro|OP5ED9L1|CPH2711|
 |Oppo|A5 Pro 5G|OP5DF3|PKP110|
 |Oppo|A5 Pro 5G|OP5EBBL1|CPH2695|
+|Oppo|A5/A5m|OP5EEDL1|CPH2727|
 |Oppo|A51|A51|A51|
 |Oppo|A51|A51|Lava A51|
 |Oppo|A51f|A51|A51f|
@@ -26420,7 +26426,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A59t|A59|OPPO A59t|
 |Oppo|A59tm|A59|OPPO A59tm|
 |Oppo|A5i Pro|OP5EEDL1|CPH2755|
-|Oppo|A5m|OP5EEDL1|CPH2727|
 |Oppo|A5m|OP5EEDL1|CPH2759|
 |Oppo|A5x|OP5EEDL1|CPH2725|
 |Oppo|A5x 5G|OP5EF7L1|CPH2733|
@@ -46123,6 +46128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
+|ZTE|nubia Focus|P616F03|Z2455|
 |ZTE|nubia Focus 2 5G|P720F11|Z2462N|
 |ZTE|nubia Focus 2 Ultra 5G|P720F12|Z2463N|
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
@@ -47316,6 +47322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|Tablet Gen 4|100135925|100135925|
 |onn.|onn. 11  Tablet Pro|onn11TabletPro|100146660|
 |onn.|onn. 12 Tablet  Pro|onn12TabletPro|100146663|
+|onn.|onn. 4K Plus Streaming|coffey|onn. 4K Plus Streaming|
 |onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |onn.|onn. Full HD Streaming Device|XNA|onn. Full HD Streaming Device|
@@ -47357,6 +47364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
+|realme|RMX5303|RE60B8|RMX5303|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -47468,6 +47476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C63 5G|RE6070L1|RMX3950|
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
+|realme|realme C71|RE60B8|RMX5303|
 |realme|realme C75|RE607CL1|RMX3941|
 |realme|realme C75 5G|RE6092|RMX3943|
 |realme|realme C75x|RE6089|RMX5020|
