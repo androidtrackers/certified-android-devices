@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-21
+Last sync is 2025-05-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20816,6 +20816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A6 Note|Lenovo_A6_Note|Lenovo L19041|
 |Lenovo|Lenovo A8|AK57|L10041|
 |Lenovo|Lenovo A8|AK57|Lenovo L10041|
+|Lenovo|Lenovo Idea Tab|TB336FU|TB336FU|
 |Lenovo|Lenovo Idea Tab Pro|TB373FU|TB373FU|
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
@@ -27565,6 +27566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F6|peridot|24069PC21G|
 |POCO|POCO F6|peridot|24069PC21I|
 |POCO|POCO F6 Pro|vermeer|23113RKC6G|
+|POCO|POCO F7 Ultra|miro|24122RKC7G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -47124,6 +47126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus_P3|iPlus_P3|iPlus P3|
 |iQOO|I40-5_RU|I2347-2_RU|I2347-4_RU|
 |iQOO|Z10 Turbo|PD2452|V2452A|
+|iQOO|iQOO Pad5|DPD2437|iPA2556|
 |iQOO|iQOO Z10 Lite 5G|I2409|I2409|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|

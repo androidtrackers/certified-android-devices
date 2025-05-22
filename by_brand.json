@@ -107224,6 +107224,11 @@
    "model": "Lenovo L10041"
   },
   {
+   "device": "TB336FU",
+   "name": "Lenovo Idea Tab",
+   "model": "TB336FU"
+  },
+  {
    "device": "TB373FU",
    "name": "Lenovo Idea Tab Pro",
    "model": "TB373FU"
@@ -141959,6 +141964,11 @@
    "device": "vermeer",
    "name": "POCO F6 Pro",
    "model": "23113RKC6G"
+  },
+  {
+   "device": "miro",
+   "name": "POCO F7 Ultra",
+   "model": "24122RKC7G"
   },
   {
    "device": "shiva",
@@ -242186,6 +242196,11 @@
    "device": "PD2452",
    "name": "Z10 Turbo",
    "model": "V2452A"
+  },
+  {
+   "device": "DPD2437",
+   "name": "iQOO Pad5",
+   "model": "iPA2556"
   },
   {
    "device": "I2409",
