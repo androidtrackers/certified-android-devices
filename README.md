@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-22
+Last sync is 2025-05-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -221,6 +221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AKOR|TG996|TG996|TG996|
 |AKUVOX|S567|S567|S567|
 |AKUVOX|X937|X937|X937|
+|ALBADEEL|AIP_X92|AIP_X92|AIP_X92|
 |ALBADEEL|B725050U|samseong|AI PONT|
 |ALBADEEL|B725U|ikebukuro|AI PONT|
 |ALBADEEL|Smart TV|longshan|AI PONT|
@@ -13250,6 +13251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN85|CN85-L0-C|CN85|
 |Honeywell|CN85|CN85-L1-C|CN85|
 |Honeywell|CT30XP|CT30P|CT30P|
+|Honeywell|CT32|CT32|CT32|
 |Honeywell|CT37|CT37|CT37|
 |Honeywell|CT37|CT37T|CT37|
 |Honeywell|CT40|CT40-L0-C|CT40|
@@ -13369,6 +13371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic7 Pro|HNPTPX|PTP-N49|
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
+|Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-W00|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
@@ -25910,6 +25913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MT1MAX|MT1MAX|MT1MAX|
 |ONERugged|MT1MAXE|MT1MAXE|MT1MAXE|
 |ONERugged|MT1N|MT1N|MT1N|
+|ONERugged|MT2U|MT2U|MT2U|
 |ONERugged|MT2UE|MT2UE|MT2UE|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
@@ -27328,6 +27332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP20_Pro_EEA|WP20_Pro|WP20 Pro|
 |Oukitel|WP20_RU|WP20|WP20|
 |Oukitel|WP21 Ultra|S105B|WP21 Ultra|
+|Oukitel|WP210_Pro_EEA|WP210_Pro|WP210 Pro|
 |Oukitel|WP21_EEA|WP21|WP21|
 |Oukitel|WP21_RU|WP21|WP21|
 |Oukitel|WP21_U_EEA|WP21_U|WP21|
@@ -34733,6 +34738,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**GL1/GJ1/GJ2|awaroa|AQUOS-4KTVJ24-2|
 |Sharp|4T-C**GP1/GS1/GQ1/GN1|tcmar1uj|AQUOS-4KTVJ23-1|
 |Sharp|4T-C**GP2/GQ2/GN2|tcmar1uj|AQUOS-4KTVJ23-2|
+|Sharp|4T-C**HP1/HS1/HQ1/HN1|tcmar2uj|AQUOS-4KTVJ25-1|
+|Sharp|4T-C**HP2/HQ2/HN2|tcmar2uj|AQUOS-4KTVJ25-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -41250,6 +41257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|V-Pad1|VP10001L|VP10001L|
 |VILLAON|V20|V20|V20|
 |VILLAON|V20 SE|VILLAON_V20_SE|VILLAON V501W|
+|VILLAON|V20_SE|VILLAON_V20_SE|VILLAON V501W|
 |VILLAON|V30 RS|VILLAON-V30-RS|VILLAON V6751L|
 |VILLAON|V40|VILLAON-V40|VILLAON V651W|
 |VILLAON|V40s|VILLAON-V40s|VILLAON V651L|
@@ -41257,7 +41265,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|VILLAON V30|V30|VILLAON V30|
 |VILLAON|VILLAON V30|VILLAON-V30|VILLAON V30|
 |VILLAON|VILLAON V45s|VILLAON-V652L|VILLAON V652L|
-|VILLAON|VILLAON_V20_S|VILLAON_V20_SE|VILLAON V501W|
 |VILLAON|Vibe 50|VILLAON-V653L|VILLAON V653L|
 |VILLAON|Vodacom A06s|VILLAON-V652L|VILLAON V652L|
 |VILLAON|Vodacom Vibe 20|VILLAON-V652L|VILLAON V652L|
@@ -43787,6 +43794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xgody|P60Pro|P60Pro|P60Pro|
 |Xgody|P60pro_15|P60pro_15|P60pro_15|
 |Xgody|Q16|Q16|Q16|
+|Xgody|Q17|Q17|Q17|
 |Xgody|R15_EEA|R15_EEA|R15_EEA|
 |Xgody|T702|T702|T702|
 |Xgody|T702A|T702A|T702A|
@@ -46792,6 +46800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |hoco|hoco_HI10|hoco_HI10|hoco_HI10|
 |hoco|hoco_HI10_EEA|hoco_HI10_EEA|hoco_HI10_EEA|
 |hoco|hoco_HI10_R|hoco_HI10_R|hoco_HI10_R|
+|hoco|hoco_HI11|hoco_HI11|hoco_A14|
 |hoco|hoco_HI11|hoco_HI11|hoco_HI11|
 |hoco|hoco_HI12|hoco_HI12|hoco_HI12|
 |homez|Smart TV|redwood|AI PONT|

@@ -1165,6 +1165,11 @@
  ],
  "ALBADEEL": [
   {
+   "device": "AIP_X92",
+   "name": "AIP_X92",
+   "model": "AIP_X92"
+  },
+  {
    "device": "samseong",
    "name": "B725050U",
    "model": "AI PONT"
@@ -68668,6 +68673,11 @@
    "model": "CT30P"
   },
   {
+   "device": "CT32",
+   "name": "CT32",
+   "model": "CT32"
+  },
+  {
    "device": "CT37",
    "name": "CT37",
    "model": "CT37"
@@ -69263,6 +69273,11 @@
    "device": "HNROD2-Q1",
    "name": "HONOR MagicPad2",
    "model": "ROD2-W09"
+  },
+  {
+   "device": "HNHEY3-Q1",
+   "name": "HONOR Pad 10",
+   "model": "HEY3-W00"
   },
   {
    "device": "HNHEY-Q",
@@ -133490,6 +133505,11 @@
    "model": "MT1N"
   },
   {
+   "device": "MT2U",
+   "name": "MT2U",
+   "model": "MT2U"
+  },
+  {
    "device": "MT2UE",
    "name": "MT2UE",
    "model": "MT2UE"
@@ -140700,6 +140720,11 @@
    "device": "S105B",
    "name": "WP21 Ultra",
    "model": "WP21 Ultra"
+  },
+  {
+   "device": "WP210_Pro",
+   "name": "WP210_Pro_EEA",
+   "model": "WP210 Pro"
   },
   {
    "device": "WP21",
@@ -178567,6 +178592,16 @@
    "model": "AQUOS-4KTVJ23-2"
   },
   {
+   "device": "tcmar2uj",
+   "name": "4T-C**HP1/HS1/HQ1/HN1",
+   "model": "AQUOS-4KTVJ25-1"
+  },
+  {
+   "device": "tcmar2uj",
+   "name": "4T-C**HP2/HQ2/HN2",
+   "model": "AQUOS-4KTVJ25-2"
+  },
+  {
    "device": "LCD_50FOCAG1T",
    "name": "4T-C50AG1T",
    "model": "LCD_50FOCAG1T"
@@ -212040,6 +212075,11 @@
    "model": "VILLAON V501W"
   },
   {
+   "device": "VILLAON_V20_SE",
+   "name": "V20_SE",
+   "model": "VILLAON V501W"
+  },
+  {
    "device": "VILLAON-V30-RS",
    "name": "V30 RS",
    "model": "VILLAON V6751L"
@@ -212073,11 +212113,6 @@
    "device": "VILLAON-V652L",
    "name": "VILLAON V45s",
    "model": "VILLAON V652L"
-  },
-  {
-   "device": "VILLAON_V20_SE",
-   "name": "VILLAON_V20_S",
-   "model": "VILLAON V501W"
   },
   {
    "device": "VILLAON-V653L",
@@ -225113,6 +225148,11 @@
    "device": "Q16",
    "name": "Q16",
    "model": "Q16"
+  },
+  {
+   "device": "Q17",
+   "name": "Q17",
+   "model": "Q17"
   },
   {
    "device": "R15_EEA",
@@ -240464,6 +240504,11 @@
    "device": "hoco_HI10_R",
    "name": "hoco_HI10_R",
    "model": "hoco_HI10_R"
+  },
+  {
+   "device": "hoco_HI11",
+   "name": "hoco_HI11",
+   "model": "hoco_A14"
   },
   {
    "device": "hoco_HI11",
