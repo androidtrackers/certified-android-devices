@@ -243751,6 +243751,11 @@
    "model": "RMX3998"
   },
   {
+   "device": "RE60ADL1",
+   "name": "RMX5061",
+   "model": "RMX5061"
+  },
+  {
    "device": "RE60B8",
    "name": "RMX5303",
    "model": "RMX5303"
@@ -244359,6 +244364,11 @@
    "device": "RE605FL1",
    "name": "realme GT 7 Pro",
    "model": "RMX5011"
+  },
+  {
+   "device": "RE6090L1",
+   "name": "realme GT 7T",
+   "model": "RMX5085"
   },
   {
    "device": "RE507C",

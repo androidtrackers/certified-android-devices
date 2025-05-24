@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-23
+Last sync is 2025-05-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -47413,6 +47413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
+|realme|RMX5061|RE60ADL1|RMX5061|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
@@ -47535,6 +47536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT 6|RE5CA6L1|RMX3851|
 |realme|realme GT 6T|RE606FL1|RMX3853|
 |realme|realme GT 7 Pro|RE605FL1|RMX5011|
+|realme|realme GT 7T|RE6090L1|RMX5085|
 |realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|
