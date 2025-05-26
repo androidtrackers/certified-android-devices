@@ -37353,6 +37353,11 @@
    "model": "DBOD02"
   },
   {
+   "device": "khandala",
+   "name": "DBOX02",
+   "model": "DBOX02"
+  },
+  {
    "device": "DBPADGO1",
    "name": "DBPADGO1",
    "model": "DBPADGO1"
@@ -178593,12 +178598,12 @@
   },
   {
    "device": "tcmar2uj",
-   "name": "4T-C**HP1/HS1/HQ1/HN1",
+   "name": "4T-C**HP1/HS1/HQ1",
    "model": "AQUOS-4KTVJ25-1"
   },
   {
    "device": "tcmar2uj",
-   "name": "4T-C**HP2/HQ2/HN2",
+   "name": "4T-C**HP2/HQ2",
    "model": "AQUOS-4KTVJ25-2"
   },
   {
@@ -184793,6 +184798,26 @@
    "device": "SO-51F",
    "name": "Xperia 1 VII",
    "model": "SO-51F"
+  },
+  {
+   "device": "XQ-FS",
+   "name": "Xperia 1 VII",
+   "model": "A501SO"
+  },
+  {
+   "device": "XQ-FS",
+   "name": "Xperia 1 VII",
+   "model": "SOG15"
+  },
+  {
+   "device": "XQ-FS",
+   "name": "Xperia 1 VII",
+   "model": "XQ-FS44"
+  },
+  {
+   "device": "XQ-FS",
+   "name": "Xperia 1 VII",
+   "model": "XQ-FS54"
   },
   {
    "device": "XQ-FS",
@@ -213140,6 +213165,11 @@
    "model": "T20-Plus"
   },
   {
+   "device": "T20_Play",
+   "name": "T20_Play",
+   "model": "T20_Play"
+  },
+  {
    "device": "T20_Play_EEA",
    "name": "T20_Play_EEA",
    "model": "T20_Play"
@@ -226702,6 +226732,11 @@
    "model": "25019PNF3C"
   },
   {
+   "device": "dijun",
+   "name": "Xiaomi 15S Pro",
+   "model": "25042PN24C"
+  },
+  {
    "device": "mona",
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -226825,6 +226860,11 @@
    "device": "muyu",
    "name": "Xiaomi Pad 7 Pro",
    "model": "24091RPADG"
+  },
+  {
+   "device": "jinghu",
+   "name": "Xiaomi Pad 7 Ultra",
+   "model": "25032RP42C"
   },
   {
    "device": "tianshan",

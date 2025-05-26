@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-25
+Last sync is 2025-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7209,6 +7209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|TRACE ONE|T_ONE|T_ONE|
 |Danew|konnect 601|Konnect_601|Konnect_601|
 |Dangbei|DBOD02|himalaya|DBOD02|
+|Dangbei|DBOX02|khandala|DBOX02|
 |Dangbei|DBPADGO1|DBPADGO1|DBPADGO1|
 |Dany|MAXX_05|MAXX_05|MAXX_05|
 |Dany|Signature-S8|Signature-S8|Signature-S8|
@@ -34738,8 +34739,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**GL1/GJ1/GJ2|awaroa|AQUOS-4KTVJ24-2|
 |Sharp|4T-C**GP1/GS1/GQ1/GN1|tcmar1uj|AQUOS-4KTVJ23-1|
 |Sharp|4T-C**GP2/GQ2/GN2|tcmar1uj|AQUOS-4KTVJ23-2|
-|Sharp|4T-C**HP1/HS1/HQ1/HN1|tcmar2uj|AQUOS-4KTVJ25-1|
-|Sharp|4T-C**HP2/HQ2/HN2|tcmar2uj|AQUOS-4KTVJ25-2|
+|Sharp|4T-C**HP1/HS1/HQ1|tcmar2uj|AQUOS-4KTVJ25-1|
+|Sharp|4T-C**HP2/HQ2|tcmar2uj|AQUOS-4KTVJ25-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -35953,6 +35954,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 VI|XQ-EC54|XQ-EC54|
 |Sony|Xperia 1 VI|XQ-EC72|XQ-EC72|
 |Sony|Xperia 1 VII|SO-51F|SO-51F|
+|Sony|Xperia 1 VII|XQ-FS|A501SO|
+|Sony|Xperia 1 VII|XQ-FS|SOG15|
+|Sony|Xperia 1 VII|XQ-FS|XQ-FS44|
+|Sony|Xperia 1 VII|XQ-FS|XQ-FS54|
 |Sony|Xperia 1 VII|XQ-FS|XQ-FS72|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
@@ -41456,6 +41461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|T12|T12|T12|
 |Veidoo|T20|T20|T20|
 |Veidoo|T20-Plus|T20-Plus|T20-Plus|
+|Veidoo|T20_Play|T20_Play|T20_Play|
 |Veidoo|T20_Play_EEA|T20_Play_EEA|T20_Play|
 |Veidoo|T30_EEA|T30_EEA|T30|
 |Veidoo|T30_PLUS|T30_PLUS|T30_PLUS|
@@ -44104,6 +44110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 15 Ultra|xuanyuan|25010PN30G|
 |Xiaomi|Xiaomi 15 Ultra|xuanyuan|25010PN30I|
 |Xiaomi|Xiaomi 15 Ultra|xuanyuan|25019PNF3C|
+|Xiaomi|Xiaomi 15S Pro|dijun|25042PN24C|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -44129,6 +44136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 7|uke|2410CRP4CI|
 |Xiaomi|Xiaomi Pad 7 Pro|muyu|24091RPADC|
 |Xiaomi|Xiaomi Pad 7 Pro|muyu|24091RPADG|
+|Xiaomi|Xiaomi Pad 7 Ultra|jinghu|25032RP42C|
 |Xiaomi|Xiaomi Smart Projector L1|tianshan|C025RGN|
 |Xiaomi|Xiaomi Smart Projector L1 Pro|tianshan|C045RGN|
 |Xiaomi|Xiaomi TV Box S|twilight|MiTV-AFMU0|
