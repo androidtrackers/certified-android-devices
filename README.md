@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-26
+Last sync is 2025-05-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -38860,6 +38860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECHLIFE|Smart TV|redwood|AI PONT|
 |TECHLIFE|TLPAD001|TLPAD001|TLPAD001|
 |TECHLIFE|TLPAD002|TLPAD002|TLPAD002|
+|TECHLIFE|TLPADP04|TLPADP04|TLPADP04|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
 |TECHcomputer|F102-T610-EEA|F102-T610-EEA|F102-T610-EEA|
 |TECHcomputer|F102-T610-EEA-GG5|F102-T610-EEA-GG5|F102-T610-EEA-GG5|
@@ -42629,8 +42630,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo T4x 5G|V2437|V2437|
 |Vivo|vivo V50 Lite|V2441|V2441|
 |Vivo|vivo V50 Lite|V2441|V2453|
-|Vivo|vivo V50 Lite 5G|V2440|V2440|
-|Vivo|vivo V50 Lite 5G|V2440|V2450|
 |Vivo|vivo V50e|V2428|V2428|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
@@ -47142,6 +47141,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iPlus|iPlus_P3|iPlus_P3|iPlus P3|
 |iQOO|I40-5_RU|I2347-2_RU|I2347-4_RU|
+|iQOO|Neo10 Pro+|PD2463|V2463A|
+|iQOO|Pad5 Pro|DPD2429|iPA2575|
 |iQOO|Z10 Turbo|PD2452|V2452A|
 |iQOO|iQOO Pad5|DPD2437|iPA2556|
 |iQOO|iQOO Z10 Lite 5G|I2409|I2409|
@@ -47651,6 +47652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT7 Pro竞速版|RE602CL1|RMX5090|
 |realme|真我Neo7|RE6022L1|RMX5060|
 |realme|真我Neo7 SE|RE6025L1|RMX5080|
+|realme|真我Neo7 Turbo|RE602EL1|RMX5062|
 |realme|真我Neo7x|RE6024L1|RMX5071|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
@@ -47776,6 +47778,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Metal Pro 1|V505820|V505820|
 |videocon|Metal Pro 2|V505920|V505920|
 |videocon|Starr 100|V406018|V406018|
+|vivo|vivo V50 Lite 5G|V2440|V2440|
+|vivo|vivo V50 Lite 5G|V2440|V2450|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
 |waiputv|waipu.tv Box|SEID00BWP|waipu.tv Box|

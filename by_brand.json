@@ -199518,6 +199518,11 @@
    "device": "TLPAD002",
    "name": "TLPAD002",
    "model": "TLPAD002"
+  },
+  {
+   "device": "TLPADP04",
+   "name": "TLPADP04",
+   "model": "TLPADP04"
   }
  ],
  "TECHNOLOGIA Y CRATIVIDAD": [
@@ -219079,16 +219084,6 @@
    "device": "V2441",
    "name": "vivo V50 Lite",
    "model": "V2453"
-  },
-  {
-   "device": "V2440",
-   "name": "vivo V50 Lite 5G",
-   "model": "V2440"
-  },
-  {
-   "device": "V2440",
-   "name": "vivo V50 Lite 5G",
-   "model": "V2450"
   },
   {
    "device": "V2428",
@@ -242278,6 +242273,16 @@
    "model": "I2347-4_RU"
   },
   {
+   "device": "PD2463",
+   "name": "Neo10 Pro+",
+   "model": "V2463A"
+  },
+  {
+   "device": "DPD2429",
+   "name": "Pad5 Pro",
+   "model": "iPA2575"
+  },
+  {
    "device": "PD2452",
    "name": "Z10 Turbo",
    "model": "V2452A"
@@ -244941,6 +244946,11 @@
    "model": "RMX5080"
   },
   {
+   "device": "RE602EL1",
+   "name": "真我Neo7 Turbo",
+   "model": "RMX5062"
+  },
+  {
    "device": "RE6024L1",
    "name": "真我Neo7x",
    "model": "RMX5071"
@@ -245626,6 +245636,18 @@
    "device": "V406018",
    "name": "Starr 100",
    "model": "V406018"
+  }
+ ],
+ "vivo": [
+  {
+   "device": "V2440",
+   "name": "vivo V50 Lite 5G",
+   "model": "V2440"
+  },
+  {
+   "device": "V2440",
+   "name": "vivo V50 Lite 5G",
+   "model": "V2450"
   }
  ],
  "waiputv": [
