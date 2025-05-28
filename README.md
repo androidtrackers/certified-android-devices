@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-27
+Last sync is 2025-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -398,6 +398,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AURII|AURII ULTRA|AURII_ULTRA|AURII ULTRA|
 |AURII|AURII_AMUSE_4G|AURII_AMUSE_4G|AURII_AMUSE_4G|
 |AURII|AURII_FAME|AURII_FAME|AURII_FAME|
+|AURZEN|BOOM MINI|yandangshan|AURZEN BOOM MINI|
+|AURZEN|D1G|yandangshan|AURZEN D1G|
 |AURZEN|TB-AS100A|TB-AS100A|TB-AS100A|
 |AURZEN|TB-AS110A|TB-AS110A|TB-AS110A|
 |AUZMAI|Mete8|Mete8|Mete8|
@@ -6633,6 +6635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|J7|J7|J7|
 |Cubot|J8|J8|J8|
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
+|Cubot|KINGKONG 11|KINGKONG_11|KINGKONG 11|
 |Cubot|KINGKONG 5|KINGKONG_5|KINGKONG 5|
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
 |Cubot|KINGKONG 6|KINGKONG_6|KINGKONG 6|
@@ -6739,6 +6742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DABLIU|E13R|E13R_B75G|E13R|
 |DABLIU|E13R|E13R_B86G|E13R|
 |DABLIU|E13R_B65G|rk3588_E13R|E13R|
+|DABLIU|E1M|E1M|E1M|
 |DAIICHI|Vietnam|martin|Daiichi 2K SMART TV|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
@@ -7005,6 +7009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIDIK|DT24Plus|DT24Plus|DT24Plus|
 |DIDIK_TAB|DT24|DT24|DT24|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
+|DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TA2D5P02|
 |DIJITSU|DCT 90|DCT_90|DCT 90|
 |DIJITSU|DIJITSU|hongkong|4K SMART TV|
 |DIJITSU|DIJITSU|mountbaker|2K SMART TV|
@@ -7383,6 +7388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Deutsche Telekom|T Tablet|Hubbs|T Tablet|
 |Dghrti|TAB20_EEA|TAB20_EEA|TAB20_EEA|
 |Dghrti|TAB20_US|TAB20_US|TAB20_US|
+|Dghrti|TAB30-EU|TAB30-EU|TAB30|
 |Dghrti|TAB30_EEA|TAB30_EEA|TAB30_EEA|
 |Dghrti|TAB30_US|TAB30_US|TAB30_US|
 |Dghrti|TAB50_EEA|TAB50_EEA|TAB50_EEA|
@@ -17560,6 +17566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|FOL|hongkong|4K SMART TV|
 |KTCtv|FOL|mountbaker|2K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
+|KTCtv|GTRONIC|elliniko|4K SMART TV|
 |KTCtv|Global|elliniko|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|hongkong|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|lavender|GLOBAL GOOGLE TV 4K|
@@ -17606,6 +17613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|NAKAMICHI|mountbaker|NAKAMICHI GOOGLE TV|
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|NAKAMICHI|zhongshan|CSV4K|
+|KTCtv|NEXTSTAR|elliniko|NEXTSTAR SMART TV|
 |KTCtv|NEXUS|lavender|4K SMART TV|
 |KTCtv|NEXUS|mountbaker|2K SMART TV|
 |KTCtv|OZON|stanford|2K SMART TV|
@@ -21361,6 +21369,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lilus|TAL-750|TAL-750|TAL-750|
 |Lin|LIN|LINTAB_TB701|LINTAB_TB701|
 |Lincor|MWTerm311|MWTerm311|MWTerm311|
+|Lincplus|M8_EU|M8_US|M8_EU|
 |Lincplus|T3_US|T3_US|T3_US|
 |Lincplus|T4|T4|T4|
 |Lincplus|T4_EU|T4_EU|T4_EU|
@@ -22266,6 +22275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|Chile|Bolivia|Peru|
 |Master-G|Chile|Bolivia|Peru|
 |Master-G|Chile|Bolivia|Peru|
+|Master-G|MASTER-G|elliniko|4K SMART TV|
 |Master-G|MASTER-G|lavender|4K SMART TV|
 |Master-G|Master-G|hongkong|4K SMART TV|
 |Master-G|Master-G|mountbaker|2K SMART TV|
@@ -26197,6 +26207,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Ace 3V|OP5CFBL1|PJF110|
 |OnePlus|OnePlus Ace 5|OP5D2BL1|PKG110|
 |OnePlus|OnePlus Ace 5 Pro|OP60EBL1|PKR110|
+|OnePlus|OnePlus Ace 5 竞速版|OP60F9L1|PLF110|
+|OnePlus|OnePlus Ace 5 至尊版|OP60EDL1|PLC110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
@@ -27515,6 +27527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|Q8PRO|Q8PRO|Q8K PRO|
 |PEICHENG|ZB31|ZB31|ZB31|
 |PEICHENG|ZB32|ZB32|ZB32|
+|PEL (PAK)|PEL|elliniko|4K SMART TV|
 |PEL (PAK)|PEL|lavender|4K SMART TV|
 |PEL (PAK)|PEL|mountbaker|2K SMART TV|
 |PENSONIC|R3|R3|R3|
@@ -30886,6 +30899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY_Brasil|EV-9157-ISDBT|EV-9157-ISDBT|EV-9157-ISDBT|
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SLIDER|S1000|S1000|S1000|
+|SLIDER|S800|S800|S800|
 |SMART Technologies|AM60 series|komodo|AM60 series|
 |SMART Technologies|AM60 series|komodo|SMART AM60|
 |SMART Technologies|AMG1|komodo|AMG series|
@@ -30936,6 +30950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|Discovery|Discovery|Discovery|
 |SPC|Discovery Pro|Discovery_Pro|Discovery Pro|
 |SPC|Discovery SE|Discovery_SE|Discovery SE|
+|SPC|EB PRO MAX|EB_PRO_MAX_2|EB_PRO_MAX_2|
 |SPC|EU、UK、AP|martin|SPC Android TV|
 |SPC|GRAVITY-2|GRAVITY-2|GRAVITY 2|
 |SPC|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|
@@ -37190,6 +37205,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile-CZ-Telekom-SK|TV Box HY4403|HY44G|TV Box|
 |T-SOURCE|SA70|T70|T70|
 |TA71CA5_JP|JP SA COUTO|S.A. _MG070A2T|TA71CA5_1|
+|TABWEE|K10_NEU|K10_NEU|K10|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
 |TABWEE|T90_EEA|T90|T90|
@@ -39793,6 +39809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 6 Pro 5G|TECNO-LI9|TECNO LI9|
 |Tecno|TECNO POVA 7|TECNO-LJ6|TECNO LJ6|
 |Tecno|TECNO POVA 7 Neo|TECNO-LJ6|TECNO LJ6|
+|Tecno|TECNO POVA 7 Pro 5G|TECNO-LJ8|TECNO LJ8|
 |Tecno|TECNO POVA Curve 5G|TECNO-LJ8k|TECNO LJ8k|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
@@ -40661,6 +40678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|
 |Ulefone|Armor X32|GQ5021RH1|Armor X32|
 |Ulefone|Armor X32 Pro|GQ5021AH1|Armor X32 Pro|
+|Ulefone|Armor X33 Pro|GQ5020BH1|Armor X16 Pro|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro|Armor X5 Pro|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro_R|Armor X5 Pro|
@@ -41377,8 +41395,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VUCATIMES|VucaPad_NS20_EEA|VucaPad_NS20_EEA|VucaPad_NS20_EEA|
 |VUCATIMES|Vucatimes|VucaPad_N20_LTE_JP|VucaPad_N20_LTE_JP|
 |Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
-|Vankyo|AURZEN BOOM MINI|yandangshan|AURZEN BOOM MINI|
-|Vankyo|AURZEN_D1G|yandangshan|AURZEN D1G|
 |Vankyo|MatrixPad-X36|MatrixPad-X36|MatrixPad-X36|
 |Vankyo|P10|P10|P10|
 |Vankyo|P10_EEA|P10_EEA|P10_EEA|
@@ -47536,6 +47552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme C71|RE60B8|RMX5303|
+|realme|realme C73 5G|RE6092|RMX3945|
 |realme|realme C75|RE607CL1|RMX3941|
 |realme|realme C75 5G|RE6092|RMX3943|
 |realme|realme C75x|RE6089|RMX5020|

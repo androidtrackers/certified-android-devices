@@ -2166,6 +2166,16 @@
  ],
  "AURZEN": [
   {
+   "device": "yandangshan",
+   "name": "BOOM MINI",
+   "model": "AURZEN BOOM MINI"
+  },
+  {
+   "device": "yandangshan",
+   "name": "D1G",
+   "model": "AURZEN D1G"
+  },
+  {
    "device": "TB-AS100A",
    "name": "TB-AS100A",
    "model": "TB-AS100A"
@@ -34357,6 +34367,11 @@
    "model": "KING KONG CS"
   },
   {
+   "device": "KINGKONG_11",
+   "name": "KINGKONG 11",
+   "model": "KINGKONG 11"
+  },
+  {
    "device": "KINGKONG_5",
    "name": "KINGKONG 5",
    "model": "KINGKONG 5"
@@ -34897,6 +34912,11 @@
    "device": "rk3588_E13R",
    "name": "E13R_B65G",
    "model": "E13R"
+  },
+  {
+   "device": "E1M",
+   "name": "E1M",
+   "model": "E1M"
   }
  ],
  "DAIICHI": [
@@ -36267,6 +36287,13 @@
    "device": "DIT702201",
    "name": "DIT702201",
    "model": "NID_7010"
+  }
+ ],
+ "DIGMA_PRO": [
+  {
+   "device": "Wave_TA2D5P02",
+   "name": "TA2D5P02",
+   "model": "Wave TA2D5P02"
   }
  ],
  "DIJITSU": [
@@ -38277,6 +38304,11 @@
    "device": "TAB20_US",
    "name": "TAB20_US",
    "model": "TAB20_US"
+  },
+  {
+   "device": "TAB30-EU",
+   "name": "TAB30-EU",
+   "model": "TAB30"
   },
   {
    "device": "TAB30_EEA",
@@ -90651,6 +90683,11 @@
   },
   {
    "device": "elliniko",
+   "name": "GTRONIC",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
    "name": "Global",
    "model": "GLOBAL GOOGLE TV 4K"
   },
@@ -90878,6 +90915,11 @@
    "device": "zhongshan",
    "name": "NAKAMICHI",
    "model": "CSV4K"
+  },
+  {
+   "device": "elliniko",
+   "name": "NEXTSTAR",
+   "model": "NEXTSTAR SMART TV"
   },
   {
    "device": "lavender",
@@ -109977,6 +110019,11 @@
  ],
  "Lincplus": [
   {
+   "device": "M8_US",
+   "name": "M8_EU",
+   "model": "M8_EU"
+  },
+  {
    "device": "T3_US",
    "name": "T3_US",
    "model": "T3_US"
@@ -114742,6 +114789,11 @@
    "device": "Bolivia",
    "name": "Chile",
    "model": "Peru"
+  },
+  {
+   "device": "elliniko",
+   "name": "MASTER-G",
+   "model": "4K SMART TV"
   },
   {
    "device": "lavender",
@@ -135001,6 +135053,16 @@
    "model": "PKR110"
   },
   {
+   "device": "OP60F9L1",
+   "name": "OnePlus Ace 5 竞速版",
+   "model": "PLF110"
+  },
+  {
+   "device": "OP60EDL1",
+   "name": "OnePlus Ace 5 至尊版",
+   "model": "PLC110"
+  },
+  {
    "device": "OP5911",
    "name": "OnePlus Ace 竞速版",
    "model": "PGZ110"
@@ -141678,6 +141740,11 @@
   }
  ],
  "PEL (PAK)": [
+  {
+   "device": "elliniko",
+   "name": "PEL",
+   "model": "4K SMART TV"
+  },
   {
    "device": "lavender",
    "name": "PEL",
@@ -159138,6 +159205,11 @@
    "device": "S1000",
    "name": "S1000",
    "model": "S1000"
+  },
+  {
+   "device": "S800",
+   "name": "S800",
+   "model": "S800"
   }
  ],
  "SMART Technologies": [
@@ -159414,6 +159486,11 @@
    "device": "Discovery_SE",
    "name": "Discovery SE",
    "model": "Discovery SE"
+  },
+  {
+   "device": "EB_PRO_MAX_2",
+   "name": "EB PRO MAX",
+   "model": "EB_PRO_MAX_2"
   },
   {
    "device": "martin",
@@ -191136,6 +191213,11 @@
  ],
  "TABWEE": [
   {
+   "device": "K10_NEU",
+   "name": "K10_NEU",
+   "model": "K10"
+  },
+  {
    "device": "T20",
    "name": "T20_EEA",
    "model": "T20"
@@ -204383,6 +204465,11 @@
    "model": "TECNO LJ6"
   },
   {
+   "device": "TECNO-LJ8",
+   "name": "TECNO POVA 7 Pro 5G",
+   "model": "TECNO LJ8"
+  },
+  {
    "device": "TECNO-LJ8k",
    "name": "TECNO POVA Curve 5G",
    "model": "TECNO LJ8k"
@@ -208987,6 +209074,11 @@
    "model": "Armor X32 Pro"
   },
   {
+   "device": "GQ5020BH1",
+   "name": "Armor X33 Pro",
+   "model": "Armor X16 Pro"
+  },
+  {
    "device": "Armor_X5_Q",
    "name": "Armor X5",
    "model": "Armor X5"
@@ -212726,16 +212818,6 @@
   }
  ],
  "Vankyo": [
-  {
-   "device": "yandangshan",
-   "name": "AURZEN BOOM MINI",
-   "model": "AURZEN BOOM MINI"
-  },
-  {
-   "device": "yandangshan",
-   "name": "AURZEN_D1G",
-   "model": "AURZEN D1G"
-  },
   {
    "device": "MatrixPad-X36",
    "name": "MatrixPad-X36",
@@ -244364,6 +244446,11 @@
    "device": "RE60B8",
    "name": "realme C71",
    "model": "RMX5303"
+  },
+  {
+   "device": "RE6092",
+   "name": "realme C73 5G",
+   "model": "RMX3945"
   },
   {
    "device": "RE607CL1",
