@@ -5275,6 +5275,11 @@
    "model": "SP5736"
   },
   {
+   "device": "SP5738",
+   "name": "SP5738",
+   "model": "SP5738"
+  },
+  {
    "device": "SP5760",
    "name": "SP5760",
    "model": "SP5760"
@@ -57469,6 +57474,11 @@
    "model": "HMD Fusion Business Edition"
   },
   {
+   "device": "NHK",
+   "name": "HMD Fusion X1",
+   "model": "HMD Fusion"
+  },
+  {
    "device": "CMT",
    "name": "HMD KEY",
    "model": "HMD KEY"
@@ -87582,6 +87592,11 @@
  ],
  "JOVI": [
   {
+   "device": "V2440B",
+   "name": "JOVI V50 Lite 5G",
+   "model": "V2440"
+  },
+  {
    "device": "V2419B",
    "name": "JOVI Y19s",
    "model": "V2425"
@@ -89876,6 +89891,13 @@
    "device": "KP26",
    "name": "KP26_EEA",
    "model": "KP26"
+  }
+ ],
+ "KINHANK": [
+  {
+   "device": "YEG",
+   "name": "G1",
+   "model": "G1"
   }
  ],
  "KIRISUN": [
@@ -141694,6 +141716,11 @@
  ],
  "PEICHENG": [
   {
+   "device": "CP31M",
+   "name": "CP31M",
+   "model": "CP31M"
+  },
+  {
    "device": "P13PRO",
    "name": "P13PRO",
    "model": "P13PRO"
@@ -142061,6 +142088,11 @@
    "device": "vermeer",
    "name": "POCO F6 Pro",
    "model": "23113RKC6G"
+  },
+  {
+   "device": "zorn",
+   "name": "POCO F7 Pro",
+   "model": "24117RK2CG"
   },
   {
    "device": "miro",
@@ -155138,6 +155170,16 @@
    "model": "23049PCD8I"
   },
   {
+   "device": "zorn",
+   "name": "REDMI K80",
+   "model": "24117RK2CC"
+  },
+  {
+   "device": "miro",
+   "name": "REDMI K80 Pro",
+   "model": "24122RKC7C"
+  },
+  {
    "device": "rodin",
    "name": "REDMI Turbo 4",
    "model": "24129RT7CC"
@@ -156946,6 +156988,11 @@
   }
  ],
  "Relndoo": [
+  {
+   "device": "P30_US",
+   "name": "P30_US",
+   "model": "P30"
+  },
   {
    "device": "P60_EEA",
    "name": "P60_EEA",
@@ -161097,6 +161144,11 @@
    "device": "SWA310",
    "name": "SWA310",
    "model": "SWA310"
+  },
+  {
+   "device": "SWA310",
+   "name": "SWA310_NEU",
+   "model": "GMS_TAB10"
   },
   {
    "device": "SWA310",
@@ -174048,6 +174100,11 @@
    "model": "SM-X117"
   },
   {
+   "device": "gta9",
+   "name": "Galaxy Tab A9",
+   "model": "SM-X117U"
+  },
+  {
    "device": "gta9wifi",
    "name": "Galaxy Tab A9",
    "model": "SM-X110"
@@ -180169,6 +180226,11 @@
    "model": "AQUOS-TVW24C"
   },
   {
+   "device": "egaleo",
+   "name": "HL6500",
+   "model": "AQUOS-TVW24B"
+  },
+  {
    "device": "SHX11",
    "name": "INFOBAR A01",
    "model": "INFOBAR A01"
@@ -181931,6 +181993,11 @@
    "device": "mountbaker",
    "name": "Siragon",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "SP_6300",
+   "name": "Siragon SP_6300",
+   "model": "SP_6300"
   },
   {
    "device": "Siragon_SP_7200",
@@ -200818,6 +200885,13 @@
    "model": "TV StickL"
   }
  ],
+ "TVHerYerde": [
+  {
+   "device": "DV8957X-KTT",
+   "name": "KF-1500",
+   "model": "KF-1500"
+  }
+ ],
  "TVPLUS": [
   {
    "device": "DV6069Y_TVPLUS",
@@ -204460,6 +204534,11 @@
    "model": "TECNO LJ6"
   },
   {
+   "device": "TECNO-LJ7",
+   "name": "TECNO POVA 7 5G",
+   "model": "TECNO LJ7"
+  },
+  {
    "device": "TECNO-LJ6",
    "name": "TECNO POVA 7 Neo",
    "model": "TECNO LJ6"
@@ -204468,6 +204547,11 @@
    "device": "TECNO-LJ8",
    "name": "TECNO POVA 7 Pro 5G",
    "model": "TECNO LJ8"
+  },
+  {
+   "device": "TECNO-LJ9",
+   "name": "TECNO POVA 7 Ultra 5G",
+   "model": "TECNO LJ9"
   },
   {
    "device": "TECNO-LJ8k",
@@ -208922,6 +209006,11 @@
    "device": "GQ5013BF2",
    "name": "Armor 30 Pro",
    "model": "Armor 30 Pro"
+  },
+  {
+   "device": "GQ5017BF3",
+   "name": "Armor 32 Pro",
+   "model": "Armor 34 Pro"
   },
   {
    "device": "Armor_6",
@@ -226304,6 +226393,11 @@
    "model": "POCOPHONE F1"
   },
   {
+   "device": "zorn",
+   "name": "POCO F7 Pro",
+   "model": "24117RK2CG"
+  },
+  {
    "device": "rosemary",
    "name": "POCO M5s",
    "model": "2207117BPG"
@@ -229910,6 +230004,11 @@
    "device": "Z8900S",
    "name": "A404ZT",
    "model": "A404ZT"
+  },
+  {
+   "device": "Z8900S",
+   "name": "A404ZT",
+   "model": "NX732J"
   },
   {
    "device": "ZTE-A880",
@@ -240636,6 +240735,11 @@
    "device": "hoco_HI12",
    "name": "hoco_HI12",
    "model": "hoco_HI12"
+  },
+  {
+   "device": "hoco_HI14",
+   "name": "hoco_HI14",
+   "model": "hoco_HI14"
   }
  ],
  "homez": [
@@ -243863,6 +243967,11 @@
    "model": "RMX3944"
   },
   {
+   "device": "RE6092",
+   "name": "RMX3945",
+   "model": "RMX3945"
+  },
+  {
    "device": "RE5CA3L1",
    "name": "RMX3990",
    "model": "RMX3990"
@@ -244448,11 +244557,6 @@
    "model": "RMX5303"
   },
   {
-   "device": "RE6092",
-   "name": "realme C73 5G",
-   "model": "RMX3945"
-  },
-  {
    "device": "RE607CL1",
    "name": "realme C75",
    "model": "RMX3941"
@@ -244461,6 +244565,11 @@
    "device": "RE6092",
    "name": "realme C75 5G",
    "model": "RMX3943"
+  },
+  {
+   "device": "RE6092",
+   "name": "realme C75 5G",
+   "model": "RMX3963"
   },
   {
    "device": "RE6089",
@@ -245726,6 +245835,16 @@
   }
  ],
  "vivo": [
+  {
+   "device": "DPD2437",
+   "name": "Pad5",
+   "model": "PA2553"
+  },
+  {
+   "device": "PD2465",
+   "name": "S30 Pro mini",
+   "model": "V2465A"
+  },
   {
    "device": "V2440",
    "name": "vivo V50 Lite 5G",

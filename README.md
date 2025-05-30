@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-29
+Last sync is 2025-05-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1003,6 +1003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|SP5733|SP5733A|SP5733|
 |Advance|SP5735|SP5735|SP5735|
 |Advance|SP5736|SP5736|SP5736|
+|Advance|SP5738|SP5738|SP5738|
 |Advance|SP5760|SP5760|SP5760|
 |Advance|SP5775|SP5775|SP5775|
 |Advance|SP5776|SP5776|SP5776|
@@ -11041,6 +11042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HMD|HMD CREST MAX|ARP|HMD CREST MAX|
 |HMD|HMD Fusion|NHK|HMD Fusion|
 |HMD|HMD Fusion Business Edition|NHK|HMD Fusion Business Edition|
+|HMD|HMD Fusion X1|NHK|HMD Fusion|
 |HMD|HMD KEY|CMT|HMD KEY|
 |HMD|HMD Pulse|LGD|HMD Pulse|
 |HMD|HMD Pulse Pro|LGR|HMD Pulse Pro|
@@ -16976,6 +16978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JIZHAO|JZP57|JZP57|JZP57|
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
+|JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y29|V2434B|V2445|
@@ -17412,6 +17415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KGTEL|X5|X5A|X5|
 |KGTEL|X55E|X55E|X55E|
 |KINGTOP|KP26_EEA|KP26|KP26|
+|KINHANK|G1|YEG|G1|
 |KIRISUN|KIRISUN T650|T650|T650|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KJ_Board|KJG IR13|KJG_IR13|KJG_Series|
@@ -27518,6 +27522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET_11080_H428S|PET_11080_H428S|PET_11080_H428S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEAQ|R4_GTV|R4_GTV|R4G|
+|PEICHENG|CP31M|CP31M|CP31M|
 |PEICHENG|P13PRO|P13PRO|P13PRO|
 |PEICHENG|Q1|Q1|Q1|
 |PEICHENG|Q1|Q1|Q1K|
@@ -27585,6 +27590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F6|peridot|24069PC21G|
 |POCO|POCO F6|peridot|24069PC21I|
 |POCO|POCO F6 Pro|vermeer|23113RKC6G|
+|POCO|POCO F7 Pro|zorn|24117RK2CG|
 |POCO|POCO F7 Ultra|miro|24122RKC7G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
@@ -30124,6 +30130,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|MiTV|rango|MiTV-AXFR0|
 |Redmi|POCO F5|marblein|23049PCD8I|
+|Redmi|REDMI K80|zorn|24117RK2CC|
+|Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
 |Redmi|Redmi  7A|pine|Redmi 7A|
@@ -30483,6 +30491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|RC608L|RC608L|RC608L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
+|Relndoo|P30_US|P30_US|P30|
 |Relndoo|P60_EEA|P60_EEA|P60|
 |Relndoo|P60_EUR|P60_EUR|P60_EUR|
 |Relndoo|P60_ROW|P60_ROW|P60|
@@ -31259,6 +31268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11_pro_EEA|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SWACONNECT|SWA310|SWA310|SWA310|
+|SWACONNECT|SWA310_NEU|SWA310|GMS_TAB10|
 |SWACONNECT|SWA310_NEU|SWA310|SWA310|
 |SWTV|Asia|SW3_ATV|SWTV|
 |SWTV|Europe|SW3H_ATV|SWTV|
@@ -33844,6 +33854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A9|gta9|SM-X115|
 |Samsung|Galaxy Tab A9|gta9|SM-X115N|
 |Samsung|Galaxy Tab A9|gta9|SM-X117|
+|Samsung|Galaxy Tab A9|gta9|SM-X117U|
 |Samsung|Galaxy Tab A9|gta9wifi|SM-X110|
 |Samsung|Galaxy Tab A9+|gta9pwifi|SM-X210|
 |Samsung|Galaxy Tab A9+|gta9pwifi|SM-X210R|
@@ -35053,6 +35064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|GALAPAGOS SoftBank 005SH|SBM005SH|SBM005SH|
 |Sharp|HC-16TT1|HCTT1|HCTT1|
 |Sharp|HJ6000|egaleo|AQUOS-TVW24C|
+|Sharp|HL6500|egaleo|AQUOS-TVW24B|
 |Sharp|INFOBAR A01|SHX11|INFOBAR A01|
 |Sharp|INFOBAR C01|SHX12|INFOBAR C01|
 |Sharp|IS01|SHI01|IS01|
@@ -35397,6 +35409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|Siragon|hongkong|4K SMART TV|
 |Siragon|Siragon|khardi|4K SMART TV|
 |Siragon|Siragon|mountbaker|2K SMART TV|
+|Siragon|Siragon SP_6300|SP_6300|SP_6300|
 |Siragon|Siragon_SP_7200|Siragon_SP_7200|Siragon_SP_7200|
 |Siragon|Siragon_SP_7300|Siragon_SP_7300|SP_7300|
 |Siragon|TB-5300|TB-5300|TB-5300|
@@ -39092,6 +39105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TVB|A20|A20|A20|
 |TVCore|TV Stick|ts401|TV Stick|
 |TVCore|ts401l|ts401|TV StickL|
+|TVHerYerde|KF-1500|DV8957X-KTT|KF-1500|
 |TVPLUS|TV PLUS 4K BOX|DV6069Y_TVPLUS|TV PLUS 4K BOX|
 |TVPLUS|TVPLUS BOX|HP44H|TVPLUS BOX|
 |TVT(A)|TVT-T108|TVT-T108|TVT-T108|
@@ -39808,8 +39822,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 6 Neo 5G|TECNO-KL8|TECNO KL8|
 |Tecno|TECNO POVA 6 Pro 5G|TECNO-LI9|TECNO LI9|
 |Tecno|TECNO POVA 7|TECNO-LJ6|TECNO LJ6|
+|Tecno|TECNO POVA 7 5G|TECNO-LJ7|TECNO LJ7|
 |Tecno|TECNO POVA 7 Neo|TECNO-LJ6|TECNO LJ6|
 |Tecno|TECNO POVA 7 Pro 5G|TECNO-LJ8|TECNO LJ8|
+|Tecno|TECNO POVA 7 Ultra 5G|TECNO-LJ9|TECNO LJ9|
 |Tecno|TECNO POVA Curve 5G|TECNO-LJ8k|TECNO LJ8k|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
@@ -40648,6 +40664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 29 Ultra|GQ5012AF1|Armor 29 Ultra|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 30 Pro|GQ5013BF2|Armor 30 Pro|
+|Ulefone|Armor 32 Pro|GQ5017BF3|Armor 34 Pro|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor 8|Armor_8|Armor 8|
@@ -44024,6 +44041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|MiTV4C|matrix|MiTV4C|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
+|Xiaomi|POCO F7 Pro|zorn|24117RK2CG|
 |Xiaomi|POCO M5s|rosemary|2207117BPG|
 |Xiaomi|Redmi|HM2013023|2013023|
 |Xiaomi|Redmi  Go|tiare|Redmi Go|
@@ -44718,6 +44736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A402ZT|Z5501S|A402ZT|
 |ZTE|A403ZT|Z6701S|A403ZT|
 |ZTE|A404ZT|Z8900S|A404ZT|
+|ZTE|A404ZT|Z8900S|NX732J|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|
@@ -46826,6 +46845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |hoco|hoco_HI11|hoco_HI11|hoco_A14|
 |hoco|hoco_HI11|hoco_HI11|hoco_HI11|
 |hoco|hoco_HI12|hoco_HI12|hoco_HI12|
+|hoco|hoco_HI14|hoco_HI14|hoco_HI14|
 |homez|Smart TV|redwood|AI PONT|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|
 |i-Buddie|TA10CA2|TA10CA2|TA10CA2|
@@ -47435,6 +47455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3939|RE6054|RMX3939|
 |realme|RMX3940|RE606B|RMX3940|
 |realme|RMX3944|RE6083L1|RMX3944|
+|realme|RMX3945|RE6092|RMX3945|
 |realme|RMX3990|RE5CA3L1|RMX3990|
 |realme|RMX3997|RE5C9AL1|RMX3997|
 |realme|RMX3998|RE5C94L1|RMX3998|
@@ -47552,9 +47573,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C65|RE5C42|RMX3910|
 |realme|realme C67|RE5C91L1|RMX3890|
 |realme|realme C71|RE60B8|RMX5303|
-|realme|realme C73 5G|RE6092|RMX3945|
 |realme|realme C75|RE607CL1|RMX3941|
 |realme|realme C75 5G|RE6092|RMX3943|
+|realme|realme C75 5G|RE6092|RMX3963|
 |realme|realme C75x|RE6089|RMX5020|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
@@ -47795,6 +47816,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Metal Pro 1|V505820|V505820|
 |videocon|Metal Pro 2|V505920|V505920|
 |videocon|Starr 100|V406018|V406018|
+|vivo|Pad5|DPD2437|PA2553|
+|vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
