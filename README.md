@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-05-30
+Last sync is 2025-05-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -46213,6 +46213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia 8046|P616F01|nubia 8046|
 |ZTE|nubia A75|Z6255|Z6255CA|
 |ZTE|nubia Flip 2 5G|P678F01|NX732J|
+|ZTE|nubia Flip 2 5G|Z8900|Z8900CA|
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
