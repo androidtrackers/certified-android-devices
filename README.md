@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-02
+Last sync is 2025-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18,6 +18,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |10.or|E|E|E|
 |10.or|G|G|G|
 |10.or|G2|G2|G2|
+|10.or|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
 |2E (ERC)|2E 2K Google TV|capitolhill|2E 2K Google TV|
 |2E (ERC)|2E 4K Google TV|keoneae|2E 4K Google TV|
 |3222222 Satelital|G706|G706|G706|
@@ -381,6 +382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATMPC|IT-701A|IT-701A|IT-701A|
 |ATMPC|IT-801A|IT-801A|IT-801A|
 |ATMPC|IT-801B|IT-801B|IT-801B|
+|ATMPC|IT-801BA3_EEA|IT-801BA3|IT-801BA3|
 |ATMPC|IT-801C|IT-801C|IT-801C|
 |ATMPC|IT_701A|IT_701A|IT_701A|
 |ATMPC|IT_701A1|IT_701A1|IT_701A|
@@ -1147,6 +1149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|JA4-TBA1008|JA4-TBA1008|JA4-TBA1008|
 |Aiwa|JA4-TBA1009|JA4-TBA1009|JA4-TBA1009|
 |Aiwa|JA4-TBA1101|JA4-TBA1101|JA4-TBA1101|
+|Aiwa|JA5-TBA1102|JA5-TBA1102|JA5-TBA1102|
 |Aiwa|R3|R3|R3|
 |Aiwa|R4|R4|R4|
 |Aiwa|Smart TV|longshan|AI PONT|
@@ -13468,6 +13471,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
+|Honor|荣耀平板 10|HNHEY3-Q|HEY3-W00|
+|Honor|荣耀平板10|HNHEY3-Q|HEY3-W10|
 |Honor|荣耀平板GT|HNROL-M|ROL-W60|
 |Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
 |Honor|荣耀平板V9|HNROL-M|ROL-W00|
@@ -16880,6 +16885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel AC51|itel-A507LMU|itel A507LMU|
 |Itel|itel AC60|itel-L6004L|itel L6004L|
 |Itel|itel Alpha Lite|itel-W5008|itel W5008|
+|Itel|itel City100|itel-C671L|itel C671L|
 |Itel|itel KidPad 1|Itel-W7001|Itel W7001|
 |Itel|itel L5007A|itel-L5007A|itel L5007A|
 |Itel|itel L5007S|itel-L5007S|itel L5007S|
@@ -16998,6 +17004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JREN|J10PRO|J10PRO|J10PRO|
 |JREN|J11|J11|J11|
 |JREN|J11PLUS|J11PLUS|J11PLUS|
+|JREN|J12NEW|J12NEW|J12NEW|
 |JREN|J7|J7|J7|
 |JREN|JR-101|JR-101|JR-101|
 |JREN|JR-802|JR-802|JR-802|
@@ -20215,9 +20222,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX513|LXX513|LXX513|
 |Lava|LAVA LXX514|LXX514|LAVA LXX514|
 |Lava|LAVA LXX515|LXX515|LXX515|
+|Lava|LAVA LXX516|LXX516|LAVA LXX516|
 |Lava|LAVA LZG410|LZG410|LZG410|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA LZX419|LZX419|LAVA LZX419|
+|Lava|LAVA Z35|Z35|Z35|
 |Lava|LAVA Z36|LEX403|LAVA LEX403|
 |Lava|LAVA Z66|Z66|Lava Z66|
 |Lava|LE000Z93P|LE000Z93P|LE000Z93P|
@@ -30566,6 +30575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revrica|Uko108T|Uko108T|Uko108T|
 |Revtel|R45|Revel_R45|R45|
 |Rhino|C10|Rhino_C10|C10|
+|Rhino|EVOTAB|armor|EVOTAB|
 |Rhino|RHINO C10|Rhino_C10|C10|
 |Rhino|RHINO C6|nova|C6|
 |Rhino|RHINO C6|novax|C6|
@@ -37421,6 +37431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521D|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521K|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521N|
+|TCL|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
 |TCL|TCL 60R 5G|Aster|T519H|
 |TCL|TCL 60R 5G|Aster|T519N|
 |TCL|TCL A3X|Delhi_TF|A600DL|
@@ -39157,6 +39168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Talius|Zircon_1015|Zircon_1015|Zircon_1015|
 |Talius|Zircon_1016_4G|Zircon_1016_4G|Zircon_1016_4G|
 |TalkTalk|TalkTalk TV|uzw4054ttg|TalkTalk STB|
+|Tambo|Elite 3T|S6537G|Elite 3T|
 |Tambo|TA-1|TA-1|TA-1|
 |Tambo|TA-10|TA-10|TA-10|
 |Tambo|TA-2|TA-2|TA-2|
@@ -41072,6 +41084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umx(Ultimate Mobile Experience)|U693CL|U693CL|U693CL|
 |Umx(Ultimate Mobile Experience)|U696CL|U696CL|U696CL|
 |Unbluable)|T7|PaperTablet|PAPER 7|
+|Unbluable)|T7E|PaperTablet|PAPER 7|
 |Uneone|SD50|SD50|SD50|
 |Uneone|SD55|UNEONE_SD55|SD55|
 |Uneone|SD57|SD57|SD57|

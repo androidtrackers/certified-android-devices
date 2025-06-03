@@ -68,6 +68,11 @@
    "device": "G2",
    "name": "G2",
    "model": "G2"
+  },
+  {
+   "device": "Sunrise_CAN",
+   "name": "TCL 60 XE NXTPAPER 5G",
+   "model": "T705J"
   }
  ],
  "2E (ERC)": [
@@ -2067,6 +2072,11 @@
    "device": "IT-801B",
    "name": "IT-801B",
    "model": "IT-801B"
+  },
+  {
+   "device": "IT-801BA3",
+   "name": "IT-801BA3_EEA",
+   "model": "IT-801BA3"
   },
   {
    "device": "IT-801C",
@@ -6037,6 +6047,11 @@
    "device": "JA4-TBA1101",
    "name": "JA4-TBA1101",
    "model": "JA4-TBA1101"
+  },
+  {
+   "device": "JA5-TBA1102",
+   "name": "JA5-TBA1102",
+   "model": "JA5-TBA1102"
   },
   {
    "device": "R3",
@@ -69762,6 +69777,16 @@
    "model": "BRP-AN80"
   },
   {
+   "device": "HNHEY3-Q",
+   "name": "荣耀平板 10",
+   "model": "HEY3-W00"
+  },
+  {
+   "device": "HNHEY3-Q",
+   "name": "荣耀平板10",
+   "model": "HEY3-W10"
+  },
+  {
    "device": "HNROL-M",
    "name": "荣耀平板GT",
    "model": "ROL-W60"
@@ -87074,6 +87099,11 @@
    "model": "itel W5008"
   },
   {
+   "device": "itel-C671L",
+   "name": "itel City100",
+   "model": "itel C671L"
+  },
+  {
    "device": "Itel-W7001",
    "name": "itel KidPad 1",
    "model": "Itel W7001"
@@ -87696,6 +87726,11 @@
    "device": "J11PLUS",
    "name": "J11PLUS",
    "model": "J11PLUS"
+  },
+  {
+   "device": "J12NEW",
+   "name": "J12NEW",
+   "model": "J12NEW"
   },
   {
    "device": "J7",
@@ -104191,6 +104226,11 @@
    "model": "LXX515"
   },
   {
+   "device": "LXX516",
+   "name": "LAVA LXX516",
+   "model": "LAVA LXX516"
+  },
+  {
    "device": "LZG410",
    "name": "LAVA LZG410",
    "model": "LZG410"
@@ -104204,6 +104244,11 @@
    "device": "LZX419",
    "name": "LAVA LZX419",
    "model": "LAVA LZX419"
+  },
+  {
+   "device": "Z35",
+   "name": "LAVA Z35",
+   "model": "Z35"
   },
   {
    "device": "LEX403",
@@ -157386,6 +157431,11 @@
    "model": "C10"
   },
   {
+   "device": "armor",
+   "name": "EVOTAB",
+   "model": "EVOTAB"
+  },
+  {
    "device": "Rhino_C10",
    "name": "RHINO C10",
    "model": "C10"
@@ -192315,6 +192365,11 @@
    "model": "T521N"
   },
   {
+   "device": "Sunrise_CAN",
+   "name": "TCL 60 XE NXTPAPER 5G",
+   "model": "T705J"
+  },
+  {
    "device": "Aster",
    "name": "TCL 60R 5G",
    "model": "T519H"
@@ -201182,6 +201237,11 @@
   }
  ],
  "Tambo": [
+  {
+   "device": "S6537G",
+   "name": "Elite 3T",
+   "model": "Elite 3T"
+  },
   {
    "device": "TA-1",
    "name": "TA-1",
@@ -211059,6 +211119,11 @@
   {
    "device": "PaperTablet",
    "name": "T7",
+   "model": "PAPER 7"
+  },
+  {
+   "device": "PaperTablet",
+   "name": "T7E",
    "model": "PAPER 7"
   }
  ],
