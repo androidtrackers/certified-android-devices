@@ -15685,6 +15685,11 @@
  ],
  "BEYODFU": [
   {
+   "device": "M193",
+   "name": "M193",
+   "model": "M193"
+  },
+  {
    "device": "M518",
    "name": "M518",
    "model": "M518"
@@ -28622,6 +28627,13 @@
    "model": "PADUA_1"
   }
  ],
+ "Celtiis": [
+  {
+   "device": "H6032",
+   "name": "Celtiis Smart 2",
+   "model": "Celtiis Smart 2"
+  }
+ ],
  "Centerm": [
   {
    "device": "SmartPOS",
@@ -34595,6 +34607,11 @@
    "device": "P80",
    "name": "P80",
    "model": "P80"
+  },
+  {
+   "device": "P90",
+   "name": "P90",
+   "model": "P90"
   },
   {
    "device": "POCKET_3",
@@ -47478,6 +47495,11 @@
    "device": "L251-EEA",
    "name": "L251-EEA",
    "model": "L251-EEA"
+  },
+  {
+   "device": "M193-EEA",
+   "name": "M193-EEA",
+   "model": "M193-EEA"
   },
   {
    "device": "M20L",
@@ -111540,6 +111562,16 @@
    "model": "TAB_XXL_14"
   },
   {
+   "device": "Tab_80",
+   "name": "Tab_80",
+   "model": "E884"
+  },
+  {
+   "device": "Tab_80",
+   "name": "Tab_80",
+   "model": "Tab_80"
+  },
+  {
    "device": "Tab_Stand_Pro",
    "name": "Tab_Stand_Pro",
    "model": "Tab_Stand_Pro"
@@ -112200,6 +112232,11 @@
    "device": "MAG500A",
    "name": "MAG500A",
    "model": "MAG500A"
+  },
+  {
+   "device": "YHT",
+   "name": "MAG555",
+   "model": "MAG555"
   }
  ],
  "MAGCH": [
@@ -113878,6 +113915,11 @@
   {
    "device": "AS01",
    "name": "AS01",
+   "model": "AS01"
+  },
+  {
+   "device": "AS01",
+   "name": "AS01_EEA",
    "model": "AS01"
   }
  ],
@@ -139710,6 +139752,11 @@
    "device": "KSTB6130",
    "name": "Descodificador Orange TV",
    "model": "KSTB6130"
+  },
+  {
+   "device": "KSTB7259",
+   "name": "Descodificador Orange TV",
+   "model": "KSTB7259"
   }
  ],
  "Orbic": [
@@ -154293,6 +154340,11 @@
  ],
  "RUSHAR": [
   {
+   "device": "M132-EEA",
+   "name": "M132-EEA",
+   "model": "M132-EEA"
+  },
+  {
    "device": "M159",
    "name": "M159",
    "model": "M159"
@@ -155055,6 +155107,16 @@
    "device": "K30_EEA",
    "name": "K30_EEA",
    "model": "K30_EEA"
+  },
+  {
+   "device": "K30_EEA_B",
+   "name": "K30_EEA_B",
+   "model": "K30_EEA"
+  },
+  {
+   "device": "K30_EEA_B",
+   "name": "K30_EEA_B",
+   "model": "K30_EEA_B"
   },
   {
    "device": "K30_ROW",
@@ -181264,6 +181326,11 @@
  ],
  "Shiarffe": [
   {
+   "device": "t7_an400",
+   "name": "Global",
+   "model": "X5"
+  },
+  {
    "device": "rk3588_t",
    "name": "Smart_Board",
    "model": "SKIEDLA65"
@@ -192310,6 +192377,11 @@
    "model": "T702M"
   },
   {
+   "device": "Ruby_VZW",
+   "name": "TCL 50 XL NXTPAPER 5G",
+   "model": "T704SP"
+  },
+  {
    "device": "Bee_One",
    "name": "TCL 501",
    "model": "T433D"
@@ -197089,6 +197161,11 @@
    "model": "T521D"
   },
   {
+   "device": "Goldfinch_NP_Pro",
+   "name": "Alcatel V3 Ultra",
+   "model": "T803D"
+  },
+  {
    "device": "one_touch_985A_gsm",
    "name": "Alcatel one touch 985",
    "model": "ALCATEL_one_touch_985"
@@ -201745,6 +201822,11 @@
    "device": "APEX_P10HD_PRO",
    "name": "APEX_P10HD_PRO",
    "model": "APEX_P10HD_PRO"
+  },
+  {
+   "device": "ArtPadPro_ROW",
+   "name": "ArtPadPro_ROW",
+   "model": "ArtPadPro_ROW"
   },
   {
    "device": "M20_4G",

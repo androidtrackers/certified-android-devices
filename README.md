@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-04
+Last sync is 2025-06-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3029,6 +3029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BESTTAB|A10_NEU|A10|A10|
 |BESTTAB|A20_EEA|A20|A20|
 |BESTTAB|A20_NEU|A20|A20|
+|BEYODFU|M193|M193|M193|
 |BEYODFU|M518|M518|M518|
 |BGH S.A.|BGH 2K Android TV|lasalle|BGH 2K Android TV|
 |BGH S.A.|BGH 4K Android TV|kenton|BGH 4K Android TV|
@@ -5522,6 +5523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellution|IRIS_EV|IRIS_EV|IRIS_EV|
 |Cellution|PADUA|PADUA|PADUA|
 |Cellution|PADUA_1|PADUA_1|PADUA_1|
+|Celtiis|Celtiis Smart 2|H6032|Celtiis Smart 2|
 |Centerm|CTA Q7|SmartPOS|CTA Q7|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
@@ -6681,6 +6683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|P50|P50|P50|
 |Cubot|P60|P60|P60|
 |Cubot|P80|P80|P80|
+|Cubot|P90|P90|P90|
 |Cubot|POCKET 3|POCKET_3|POCKET 3|
 |Cubot|Pocket|Pocket|Pocket|
 |Cubot|QUEST|QUEST|QUEST|
@@ -9138,6 +9141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FASTWD|L231-EEA|L231-EEA|L231-EEA|
 |FASTWD|L251|L251|L251|
 |FASTWD|L251-EEA|L251-EEA|L251-EEA|
+|FASTWD|M193-EEA|M193-EEA|M193-EEA|
 |FASTWD|M20L|M20L|M20L|
 |FASTWD|M518-EEA|M518-EEA|M518-EEA|
 |FASTWD|Tablet|M109-EEA|M109-EEA|
@@ -21668,6 +21672,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|TABXL_14|TABXL_14|Tab_XL_14|
 |Logicom|TAB_STAND_PRO_2|TAB_STAND_PRO_2|TAB_STAND_PRO_2|
 |Logicom|TAB_XXL_14|TAB_XXL_14|TAB_XXL_14|
+|Logicom|Tab_80|Tab_80|E884|
+|Logicom|Tab_80|Tab_80|Tab_80|
 |Logicom|Tab_Stand_Pro|Tab_Stand_Pro|Tab_Stand_Pro|
 |Logicom|Tab_XL_14|Tab_XL_14|Tab_XL_14|
 |Logicom|Touch Tablet CT730|CT730|CT730|
@@ -21794,6 +21800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAG|MAG|mountbaker|2K SMART TV|
 |MAG|MAG425A|MAG425A|MAG425A|
 |MAG|MAG500A|MAG500A|MAG500A|
+|MAG|MAG555|YHT|MAG555|
 |MAGCH|M210|M210|M210|
 |MAGCH|M220|M220|M220|
 |MAGCH|M310-EEA|M310-EEA|M310-EEA|
@@ -22103,6 +22110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MULTYNET|Pakistan|tamachi|MULTYNET FHD Android TV|
 |MULTYNET|Pakistan|yeongdeungpo|MULTYNET UHD Android TV|
 |MUNBYN|AS01|AS01|AS01|
+|MUNBYN|AS01_EEA|AS01|AS01|
 |MUNGYO|MUNGYO MGEB|MGEB|MGEB|
 |MYCOM|COMEK C10|COMEK_C10|COMEK C10|
 |MYCOM|COMEK smart 10|COMEK_smart_10|COMEK smart 10|
@@ -27132,6 +27140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
 |Orange TV|Descodificador Orange TV|KSTB6130|KSTB6130|
+|Orange TV|Descodificador Orange TV|KSTB7259|KSTB7259|
 |Orbic|FunLiberty|Fun|R678L5SLFP|
 |Orbic|Magic|R678EL|R678EL|
 |Orbic|O4S231AZ|Fun2|O4S23|
@@ -29963,6 +29972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RUGLINE|T14_EEA|T14|T14|
 |RUGSTORM|UA100|UA100|UA100|
 |RUGSTORM|UA80|UA80|UA80|
+|RUSHAR|M132-EEA|M132-EEA|M132-EEA|
 |RUSHAR|M159|M159|M159|
 |RVP(AB)|RVPVK808|RVPVK808|RVPVK808|
 |RWC_JP|HNPD01|HNPD01|HNPD01|
@@ -30109,6 +30119,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realtime|RT8|RT8|RT8|
 |Realtime|Realtime_T503F_L1|Realtime_T503F_L1|Realtime_T503F_L1|
 |Rebecco|K30_EEA|K30_EEA|K30_EEA|
+|Rebecco|K30_EEA_B|K30_EEA_B|K30_EEA|
+|Rebecco|K30_EEA_B|K30_EEA_B|K30_EEA_B|
 |Rebecco|K30_ROW|K30_ROW|K30_ROW|
 |Rebecco|K50_EEA|K50_EEA|K50_EEA|
 |Rebecco|K50_EEA_B|K50_EEA_B|K50_EEA|
@@ -35270,6 +35282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen SEI Robotics|CNTV Plus Smart Box|SEI900BUQC|CNTV Plus Smart Box|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shenzhen SEI Robotics|Sensa Box 4K|SEI700PTS|Sensa Box 4K|
+|Shiarffe|Global|t7_an400|X5|
 |Shiarffe|Smart_Board|rk3588_t|SKIEDLA65|
 |Shivaki|R3_GTV|R3_GTV|R3G|
 |Shivaki|R4_GTV|R4_GTV|R4G|
@@ -37420,6 +37433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 XE 5G|Dragonfly_VZW|T614SP|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
 |TCL|TCL 50 XL NXTPAPER 5G|Goldfinch_Pro_CS|T702M|
+|TCL|TCL 50 XL NXTPAPER 5G|Ruby_VZW|T704SP|
 |TCL|TCL 501|Bee_One|T433D|
 |TCL|TCL 501|Bee_One|T433E|
 |TCL|TCL 502|Rio_CAN|T432J|
@@ -38375,6 +38389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L_EEA|
 |TCT (Alcatel)|Alcatel V3 Classic|Aster|T519H|
 |TCT (Alcatel)|Alcatel V3 Pro|Aster_Pro|T521D|
+|TCT (Alcatel)|Alcatel V3 Ultra|Goldfinch_NP_Pro|T803D|
 |TCT (Alcatel)|Alcatel one touch 985|one_touch_985A_gsm|ALCATEL_one_touch_985|
 |TCT (Alcatel)|Alcatel9007T|Pixi3_7_4G|Alcatel9007T|
 |TCT (Alcatel)|Alcatel_4060A|Pop445|Alcatel_4060A|
@@ -39265,6 +39280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|k13pro|K13pro|K13pro|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
+|Teclast|ArtPadPro_ROW|ArtPadPro_ROW|ArtPadPro_ROW|
 |Teclast|M20_4G|M20_4G|M20_4G|
 |Teclast|M30_Pro_ROW|M30_Pro_ROW|M30_Pro_ROW|
 |Teclast|M40 Pro|M40_Pro_2022_EEA|M40 Pro|
