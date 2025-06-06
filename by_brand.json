@@ -2075,6 +2075,11 @@
   },
   {
    "device": "IT-801BA3",
+   "name": "IT-801BA3",
+   "model": "IT-801BA3"
+  },
+  {
+   "device": "IT-801BA3",
    "name": "IT-801BA3_EEA",
    "model": "IT-801BA3"
   },
@@ -9104,6 +9109,11 @@
    "device": "AP2718T",
    "name": "Packgo",
    "model": "AP2718T"
+  },
+  {
+   "device": "SW3299T",
+   "name": "PortableTV",
+   "model": "SW3299T"
   },
   {
    "device": "WF1589T",
@@ -34699,6 +34709,11 @@
    "model": "TAB_70"
   },
   {
+   "device": "X100",
+   "name": "X100",
+   "model": "X100"
+  },
+  {
    "device": "X19",
    "name": "X19",
    "model": "X19"
@@ -56816,6 +56831,13 @@
    "model": "HAKO mini"
   }
  ],
+ "HANASIS": [
+  {
+   "device": "BLAZE",
+   "name": "BLAZE",
+   "model": "BLAZE"
+  }
+ ],
  "HANDELSON": [
   {
    "device": "H14",
@@ -57635,6 +57657,11 @@
    "device": "XBOOK",
    "name": "XBOOK",
    "model": "XBOOK"
+  },
+  {
+   "device": "XBOOK_12",
+   "name": "XBOOK_12",
+   "model": "P33 Pro Max"
   },
   {
    "device": "XBOOK_12",
@@ -69449,6 +69476,11 @@
    "model": "GFY-LX3"
   },
   {
+   "device": "HNNIC-M1",
+   "name": "HONOR Play9C",
+   "model": "NIC-LX3P"
+  },
+  {
    "device": "HNVNA-M",
    "name": "HONOR X5",
    "model": "VNA-LX2"
@@ -69542,6 +69574,21 @@
    "device": "HNJDY-M1",
    "name": "HONOR X6b Plus",
    "model": "JDY-LX3"
+  },
+  {
+   "device": "HNNIC-M1",
+   "name": "HONOR X6c",
+   "model": "NIC-LX1"
+  },
+  {
+   "device": "HNNIC-M1",
+   "name": "HONOR X6c",
+   "model": "NIC-LX2"
+  },
+  {
+   "device": "HNNIC-M1",
+   "name": "HONOR X6c",
+   "model": "NIC-LX3"
   },
   {
    "device": "HNCMA-Q",
@@ -69941,6 +69988,11 @@
    "device": "65W72B",
    "name": "IFPD",
    "model": "W72B"
+  },
+  {
+   "device": "K7A",
+   "name": "K7A",
+   "model": "K7A"
   },
   {
    "device": "M6APro",
@@ -134872,6 +134924,11 @@
    "model": "PKX110"
   },
   {
+   "device": "OP612BL1",
+   "name": "OnePlus 13s",
+   "model": "CPH2723"
+  },
+  {
    "device": "OnePlus6",
    "name": "OnePlus 6",
    "model": "ONEPLUS A6000"
@@ -142791,6 +142848,11 @@
    "device": "T1000",
    "name": "T1000",
    "model": "T1000"
+  },
+  {
+   "device": "TARGA-F8",
+   "name": "TARGA-F8",
+   "model": "TARGA-F8"
   }
  ],
  "PadBook": [
@@ -156582,6 +156644,21 @@
    "model": "22081283G"
   },
   {
+   "device": "taiko",
+   "name": "Redmi Pad 2",
+   "model": "25040RP0AG"
+  },
+  {
+   "device": "taiko",
+   "name": "Redmi Pad 2",
+   "model": "25040RP0AL"
+  },
+  {
+   "device": "koto",
+   "name": "Redmi Pad 2 4G",
+   "model": "2505DRP06G"
+  },
+  {
    "device": "dizi",
    "name": "Redmi Pad Pro",
    "model": "2405CRPFDC"
@@ -161249,6 +161326,11 @@
    "device": "SVITOO_P10",
    "name": "SVITOO_P10",
    "model": "P10"
+  },
+  {
+   "device": "TAB_P12",
+   "name": "TAB_P12_EEA",
+   "model": "TAB P12"
   }
  ],
  "SWACONNECT": [
@@ -161778,6 +161860,11 @@
    "device": "A1250",
    "name": "A1250",
    "model": "A1250"
+  },
+  {
+   "device": "W12",
+   "name": "W12",
+   "model": "P34 Ultra"
   },
   {
    "device": "W12",
@@ -191220,6 +191307,11 @@
    "model": "innova30"
   },
   {
+   "device": "innova_40",
+   "name": "innova_40",
+   "model": "innova 40"
+  },
+  {
    "device": "roarV95",
    "name": "roarV95",
    "model": "roarV95"
@@ -191396,6 +191488,11 @@
   }
  ],
  "TABWEE": [
+  {
+   "device": "K10_EEA",
+   "name": "K10_EEA",
+   "model": "K10"
+  },
   {
    "device": "K10_NEU",
    "name": "K10_NEU",
@@ -217967,6 +218064,11 @@
    "device": "V2344",
    "name": "Y03t",
    "model": "V2409"
+  },
+  {
+   "device": "V2430",
+   "name": "Y04s",
+   "model": "V2531"
   },
   {
    "device": "PD2313",
@@ -245996,6 +246098,11 @@
    "device": "PD2465",
    "name": "S30 Pro mini",
    "model": "V2465A"
+  },
+  {
+   "device": "V2430",
+   "name": "Y04e",
+   "model": "V2532"
   },
   {
    "device": "V2440",
