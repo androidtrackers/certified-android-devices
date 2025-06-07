@@ -16145,6 +16145,16 @@
    "model": "I8"
   },
   {
+   "device": "I8_Plus",
+   "name": "I8_Plus",
+   "model": "I8_Plus"
+  },
+  {
+   "device": "I8_Plus_EEA",
+   "name": "I8_Plus",
+   "model": "I8_Plus"
+  },
+  {
    "device": "I9_Plus_WIFI_EEA",
    "name": "I9_Plus",
    "model": "I9_Plus"
@@ -33620,6 +33630,11 @@
    "device": "CP12p",
    "name": "coolpad 5651",
    "model": "CP12p"
+  },
+  {
+   "device": "CP32",
+   "name": "coolpad C15",
+   "model": "CP32"
   },
   {
    "device": "K12",
@@ -52003,6 +52018,11 @@
    "device": "Xtreme_6",
    "name": "GDL Xtreme6",
    "model": "Xtreme 6"
+  },
+  {
+   "device": "Y30",
+   "name": "GigaX Y30",
+   "model": "GigaX Y30"
   }
  ],
  "GDM (es)": [
@@ -53481,6 +53501,11 @@
   }
  ],
  "Gevo": [
+  {
+   "device": "V20",
+   "name": "Gevo V20",
+   "model": "Gevo S6801"
+  },
   {
    "device": "Gevo_V10",
    "name": "V10",
@@ -61799,6 +61824,11 @@
    "device": "Wildfire_E5",
    "name": "Wildfire E5",
    "model": "Wildfire E5"
+  },
+  {
+   "device": "Wildfire_E5_Life",
+   "name": "Wildfire E5 Life",
+   "model": "Wildfire E5 Life"
   },
   {
    "device": "Wildfire_E5_Plus",
@@ -95248,6 +95278,18 @@
    "model": "Lamia L01"
   }
  ],
+ "LAGENIO": [
+  {
+   "device": "A10",
+   "name": "A10_EEA",
+   "model": "A10"
+  },
+  {
+   "device": "A10_Pro",
+   "name": "A10_Pro_EEA",
+   "model": "A10 Pro"
+  }
+ ],
  "LAMINA": [
   {
    "device": "LTT8A4G_EEA",
@@ -102350,6 +102392,11 @@
    "model": "IDOL"
   },
   {
+   "device": "LIFEPHONE_SIMPLE",
+   "name": "SIMPLE",
+   "model": "SIMPLE"
+  },
+  {
    "device": "LIFEPHONE_STAR",
    "name": "STAR",
    "model": "STAR"
@@ -103223,6 +103270,11 @@
   }
  ],
  "Lanix": [
+  {
+   "device": "ALPHA6",
+   "name": "ALPHA 6",
+   "model": "ALPHA 6"
+  },
   {
    "device": "ALPHA4",
    "name": "ALPHA4",
@@ -109923,6 +109975,11 @@
    "model": "P40"
   },
   {
+   "device": "Pad_11",
+   "name": "Pad_11",
+   "model": "Pad_11"
+  },
+  {
    "device": "SMART_7",
    "name": "SMART_7",
    "model": "SMART_7"
@@ -111112,6 +111169,11 @@
    "device": "LYRA",
    "name": "LYRA",
    "model": "LYRA"
+  },
+  {
+   "device": "LYRA_PLUS_EEA",
+   "name": "LYRA PLUS",
+   "model": "LYRA PLUS"
   },
   {
    "device": "L_IXIR_TAB_1047HD",
@@ -119808,6 +119870,11 @@
    "model": "F51"
   },
   {
+   "device": "F51",
+   "name": "F51",
+   "model": "F52"
+  },
+  {
    "device": "IX_PLUS",
    "name": "IX PLUS",
    "model": "IX_PLUS"
@@ -119851,6 +119918,11 @@
    "device": "P5",
    "name": "P5",
    "model": "P5"
+  },
+  {
+   "device": "P11_Plus",
+   "name": "P6",
+   "model": "P6"
   },
   {
    "device": "RX",
@@ -133554,6 +133626,11 @@
    "model": "MixTab Pro 2"
   },
   {
+   "device": "X2032",
+   "name": "X2032",
+   "model": "O1 Neo"
+  },
+  {
    "device": "X3",
    "name": "X3",
    "model": "X3"
@@ -140175,6 +140252,11 @@
    "model": "C19 Pro"
   },
   {
+   "device": "C1_Pro",
+   "name": "C1_Pro_EEA",
+   "model": "C1 Pro"
+  },
+  {
    "device": "C21",
    "name": "C21",
    "model": "C21"
@@ -140323,6 +140405,11 @@
    "device": "C58_Pro",
    "name": "C58_Pro_EEA",
    "model": "C58 Pro"
+  },
+  {
+   "device": "C59_Pro",
+   "name": "C59_Pro_EEA",
+   "model": "C59 Pro"
   },
   {
    "device": "C6_Pro",
@@ -140618,6 +140705,11 @@
    "device": "OT9",
    "name": "OT9",
    "model": "OT9"
+  },
+  {
+   "device": "OUKITEL_C1",
+   "name": "OUKITEL_C1_EEA",
+   "model": "OUKITEL C1"
   },
   {
    "device": "YJC235",
@@ -154410,6 +154502,11 @@
    "device": "M159",
    "name": "M159",
    "model": "M159"
+  },
+  {
+   "device": "M159-EEA",
+   "name": "M159-EEA",
+   "model": "M159-EEA"
   }
  ],
  "RVP(AB)": [
@@ -157854,6 +157951,11 @@
  ],
  "Roenllce": [
   {
+   "device": "L10-T12",
+   "name": "L10-T12",
+   "model": "L10"
+  },
+  {
    "device": "L10-T12-EEA",
    "name": "L10-T12-EEA",
    "model": "L10"
@@ -158197,6 +158299,11 @@
    "device": "S6528",
    "name": "S6528",
    "model": "S6528"
+  },
+  {
+   "device": "S6537G",
+   "name": "S6537G",
+   "model": "S6537G"
   },
   {
    "device": "S6539Q",
@@ -191662,6 +191769,13 @@
    "model": "TATV-8000"
   }
  ],
+ "TCH(Timeless Connection Hero)": [
+  {
+   "device": "ONE",
+   "name": "ONE",
+   "model": "ONE"
+  }
+ ],
  "TCL": [
   {
    "device": "Aquaman_10_KDDI",
@@ -209247,6 +209361,11 @@
    "model": "Armor 30 Pro"
   },
   {
+   "device": "GQ5016BF1",
+   "name": "Armor 31 Pro",
+   "model": "Armor 33 Pro"
+  },
+  {
    "device": "GQ5017BF3",
    "name": "Armor 32 Pro",
    "model": "Armor 34 Pro"
@@ -209920,6 +210039,11 @@
    "device": "T2",
    "name": "T2",
    "model": "T2"
+  },
+  {
+   "device": "UF1002A-1",
+   "name": "Tab A10",
+   "model": "Tab A10"
   },
   {
    "device": "UF1002",
@@ -212491,6 +212615,11 @@
    "device": "VZ-30",
    "name": "VZ-30",
    "model": "VZ-30"
+  },
+  {
+   "device": "VZ-30Pro",
+   "name": "VZ-30Pro",
+   "model": "P32 Pro"
   },
   {
    "device": "VZ-30Pro",
@@ -220050,6 +220179,13 @@
    "model": "VOCAL V1"
   }
  ],
+ "Vodacom": [
+  {
+   "device": "H6032_VDC",
+   "name": "Kicka7",
+   "model": "Kicka7"
+  }
+ ],
  "Vodafone": [
   {
    "device": "Vodafone_785",
@@ -221798,6 +221934,11 @@
    "device": "NEXG_N25",
    "name": "NEXG_N25",
    "model": "NEXG N25"
+  },
+  {
+   "device": "NEXG_N27",
+   "name": "NEXG_N27",
+   "model": "NEXG N27"
   },
   {
    "device": "ORBIT_Y12",
@@ -225264,6 +225405,11 @@
    "device": "Q10",
    "name": "Q10",
    "model": "Q10"
+  },
+  {
+   "device": "Q11",
+   "name": "Q11",
+   "model": "Q11"
   },
   {
    "device": "Q7",
@@ -237335,6 +237481,11 @@
    "model": "ZTE T1003"
   },
   {
+   "device": "P606T07C",
+   "name": "ZTE Blade X1001",
+   "model": "ZTE X1001"
+  },
+  {
    "device": "P963T01C",
    "name": "ZTE Blade X10s",
    "model": "ZTE T1002"
@@ -242728,6 +242879,16 @@
    "model": "V2452A"
   },
   {
+   "device": "I2405",
+   "name": "iQOO Neo 10",
+   "model": "I2405"
+  },
+  {
+   "device": "I2405",
+   "name": "iQOO Neo 10",
+   "model": "I2408"
+  },
+  {
    "device": "DPD2437",
    "name": "iQOO Pad5",
    "model": "iPA2556"
@@ -245496,6 +245657,11 @@
    "device": "redbeatC1",
    "name": "redbeatC1",
    "model": "redbeatC1"
+  },
+  {
+   "device": "redbeatD5",
+   "name": "redbeatD5",
+   "model": "redbeat D5"
   },
   {
    "device": "redbeatM2",
