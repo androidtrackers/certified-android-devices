@@ -48582,6 +48582,11 @@
    "device": "FP4",
    "name": "Fairphone4",
    "model": "FP4"
+  },
+  {
+   "device": "FP6",
+   "name": "The Fairphone (Gen. 6)",
+   "model": "Fairphone 6"
   }
  ],
  "Famous Fones": [
@@ -91403,6 +91408,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "ZENET",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "mountbaker",
    "name": "ZITRO",
    "model": "2K SMART TV"
@@ -93317,6 +93327,11 @@
    "device": "IM5",
    "name": "IM5",
    "model": "IM5"
+  },
+  {
+   "device": "K10_EEA",
+   "name": "K10_EEA",
+   "model": "K10_EEA"
   },
   {
    "device": "K11_ROW",
@@ -139139,6 +139154,16 @@
    "device": "OP5EC5L1",
    "name": "Reno13 Pro 5G",
    "model": "CPH2697"
+  },
+  {
+   "device": "OP5E0BL1",
+   "name": "Reno14",
+   "model": "PLA110"
+  },
+  {
+   "device": "OP5E07L1",
+   "name": "Reno14 Pro",
+   "model": "PKZ110"
   },
   {
    "device": "OP4B65L1",
@@ -192559,12 +192584,12 @@
   },
   {
    "device": "Goldfinch_NP_Pro",
-   "name": "TCL 50 Pro NXTPAPER 5G",
+   "name": "TCL 50 PRO NXTPAPER 5G",
    "model": "T803D"
   },
   {
    "device": "Goldfinch_NP_Pro",
-   "name": "TCL 50 Pro NXTPAPER 5G",
+   "name": "TCL 50 PRO NXTPAPER 5G",
    "model": "T803E"
   },
   {
@@ -219853,6 +219878,11 @@
    "device": "V2434",
    "name": "vivo Y29",
    "model": "V2435"
+  },
+  {
+   "device": "V2434L",
+   "name": "vivo Y29",
+   "model": "V2434"
   },
   {
    "device": "V2420",

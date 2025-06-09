@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-08
+Last sync is 2025-06-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9346,6 +9346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fairphone|Fairphone 5 5G|FP5|FP5|
 |Fairphone|Fairphone3|FP3|FP3|
 |Fairphone|Fairphone4|FP4|FP4|
+|Fairphone|The Fairphone (Gen. 6)|FP6|Fairphone 6|
 |Famous Fones|Famous Red 5+|Famous_Red_5Plus|Famous Red 5+|
 |Famous Fones|Famous_5|Famous_5|Famous 5|
 |Famous Fones|Famous_5Plus|Famous_5Plus|Famous 5Plus|
@@ -17709,6 +17710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
 |KTCtv|YARA|hongkong|4K SMART TV|
+|KTCtv|ZENET|elliniko|4K SMART TV|
 |KTCtv|ZITRO|mountbaker|2K SMART TV|
 |KTCtv|Zitro|elliniko|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
@@ -18073,6 +18075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|D50PRO|Kodak_D50PRO|D50PRO|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
+|Kodak|K10_EEA|K10_EEA|K10_EEA|
 |Kodak|K11_ROW|K11_ROW|K11_ROW|
 |Kodak|KD10112TB|KD10112TB|KD10112TB|
 |Kodak|KODAK|bruno|KODAK2KAndroidTV|
@@ -27019,6 +27022,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno13 F 5G / Reno13 A|OP5EC7L1|CPH2699|
 |Oppo|Reno13 Pro|OP5DD5L1|PKK110|
 |Oppo|Reno13 Pro 5G|OP5EC5L1|CPH2697|
+|Oppo|Reno14|OP5E0BL1|PLA110|
+|Oppo|Reno14 Pro|OP5E07L1|PKZ110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -37468,8 +37473,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 LE|Scarab_Pro_NA_OM|T510WS|
 |TCL|TCL 50 LE|Scarab_Pro_VZW|T510SP|
 |TCL|TCL 50 NXTPAPER 5G|Goldfinch_NP|T702D|
-|TCL|TCL 50 Pro NXTPAPER 5G|Goldfinch_NP_Pro|T803D|
-|TCL|TCL 50 Pro NXTPAPER 5G|Goldfinch_NP_Pro|T803E|
+|TCL|TCL 50 PRO NXTPAPER 5G|Goldfinch_NP_Pro|T803D|
+|TCL|TCL 50 PRO NXTPAPER 5G|Goldfinch_NP_Pro|T803E|
 |TCL|TCL 50 SE|Ladybird|T611B|
 |TCL|TCL 50 XE 5G|Dragonfly_VZW|T614SP|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
@@ -42781,6 +42786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y28|Y28|vivo Y28|
 |Vivo|vivo Y29|V2434|V2434|
 |Vivo|vivo Y29|V2434|V2435|
+|Vivo|vivo Y29|V2434L|V2434|
 |Vivo|vivo Y29 5G|V2420|V2420|
 |Vivo|vivo Y300|PD2435|V2435A|
 |Vivo|vivo Y300 Pro+|PD2456|V2456A|
