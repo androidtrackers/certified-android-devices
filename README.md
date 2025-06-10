@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-09
+Last sync is 2025-06-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1150,6 +1150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|JA4-TBA1008|JA4-TBA1008|JA4-TBA1008|
 |Aiwa|JA4-TBA1009|JA4-TBA1009|JA4-TBA1009|
 |Aiwa|JA4-TBA1101|JA4-TBA1101|JA4-TBA1101|
+|Aiwa|JA5-TBA1011|JA5-TBA1011|JA5-TBA1011|
 |Aiwa|JA5-TBA1102|JA5-TBA1102|JA5-TBA1102|
 |Aiwa|R3|R3|R3|
 |Aiwa|R4|R4|R4|
@@ -2712,6 +2713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|P81M|P81M|P81M|
 |Atozee|P81W|P81W|P81W|
 |Atozee|Q2S|Q2S|Q2S|
+|Atozee|Q2SK|Q2SK|Q2S|
 |Atozee|Q2SK|Q2SK|Q2SK|
 |Atozee|T30MAX|T30MAX|T30MAX|
 |Atozee|T30MAX_EEA|T30MAX_EEA|T30MAX|
@@ -7023,6 +7025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIDIK_TAB|DT24|DT24|DT24|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TA2D5P02|
+|DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TAXX5P0X|
 |DIJITSU|DCT 90|DCT_90|DCT 90|
 |DIJITSU|DIJITSU|hongkong|4K SMART TV|
 |DIJITSU|DIJITSU|mountbaker|2K SMART TV|
@@ -12580,6 +12583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E||Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
+|Hisense|HLTE243E|HLTE243E|Hisense E35|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense U967|
@@ -25892,6 +25896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|Titan_10_LTE|Titan_10_LTE|Titan_10_LTE|
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |OFD(Display)|D01|D01|D01|
+|OFD(Display)|HSD-215|HSD-215|HSD-215|
 |OK (Mediamark)|32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|4K Smart TV|pioneer|4K PA Smart TV|
 |OK (Mediamark)|Android TV|longshan|AI PONT|
@@ -27724,6 +27729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PROTON|PROTON 4K Google TV|keoneae|PROTON 4K Google TV|
 |PROTON|PROTON Google TV|bandra|PROTON Google TV|
 |PROTON|Proton_X10_Pro|Proton_X10_Pro|X10 Pro|
+|PROTON|X20 Pro|Proton_X20_Pro|X20 Pro|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
@@ -37479,6 +37485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 XE 5G|Dragonfly_VZW|T614SP|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
 |TCL|TCL 50 XL NXTPAPER 5G|Goldfinch_Pro_CS|T702M|
+|TCL|TCL 50 XL NXTPAPER 5G|Ruby_TF|T704V|
 |TCL|TCL 50 XL NXTPAPER 5G|Ruby_VZW|T704SP|
 |TCL|TCL 501|Bee_One|T433D|
 |TCL|TCL 501|Bee_One|T433E|
@@ -40673,6 +40680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNIWA|M101|M101|M101|
 |UNIWA|M101|M101|UNIWA M101|
 |UNIWA|UNIWA W888|UNIWA_W888|W888|
+|UNIWA|UNIWA_F400|UNIWA_F400|UNIWA_F400|
 |UNIWA|UNIWA_W999|UNIWA_W999|UNIWA_W999|
 |UNIWA|W555|W555|W555|
 |UNNIC|UC_TK03|UC_TK03|UC_TK03|
@@ -40765,6 +40773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X13|Armor_X12_Pro|Armor X12 Pro|
 |Ulefone|Armor X13|Armor_X13|Armor X13|
 |Ulefone|Armor X13|GQ3117SH2_MTN|Armor X13|
+|Ulefone|Armor X16|GQ5020TH1P19|Armor X16|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X31|GQ5015RH1|Armor X31|
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|
@@ -43643,6 +43652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Win (VE)|Q7|Q7|Q7|
 |Win (VE)|Q9|Q9|Q9|
 |WinRo|Voni10|Voni10|Voni 10|
+|WinRo|Voni10Pro|Voni10Pro|TK-P86|
 |WinRo|Voni10Pro|Voni10Pro|Voni 10 Pro|
 |Winds Mobile|MT7001|MT7001|MT7001|
 |Winds Mobile|WINDS-T3|WINDS-T3|T3|

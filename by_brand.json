@@ -6054,6 +6054,11 @@
    "model": "JA4-TBA1101"
   },
   {
+   "device": "JA5-TBA1011",
+   "name": "JA5-TBA1011",
+   "model": "JA5-TBA1011"
+  },
+  {
    "device": "JA5-TBA1102",
    "name": "JA5-TBA1102",
    "model": "JA5-TBA1102"
@@ -14025,6 +14030,11 @@
   {
    "device": "Q2S",
    "name": "Q2S",
+   "model": "Q2S"
+  },
+  {
+   "device": "Q2SK",
+   "name": "Q2SK",
    "model": "Q2S"
   },
   {
@@ -36361,6 +36371,11 @@
    "device": "Wave_TA2D5P02",
    "name": "TA2D5P02",
    "model": "Wave TA2D5P02"
+  },
+  {
+   "device": "Wave_TA2D5P02",
+   "name": "TA2D5P02",
+   "model": "Wave TAXX5P0X"
   }
  ],
  "DIJITSU": [
@@ -65296,6 +65311,11 @@
    "device": "HLTE243E",
    "name": "HLTE243E",
    "model": "Hisense E34"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense E35"
   },
   {
    "device": "HLTE243E",
@@ -133388,6 +133408,11 @@
    "device": "D01",
    "name": "D01",
    "model": "D01"
+  },
+  {
+   "device": "HSD-215",
+   "name": "HSD-215",
+   "model": "HSD-215"
   }
  ],
  "OK (Mediamark)": [
@@ -142788,6 +142813,11 @@
    "device": "Proton_X10_Pro",
    "name": "Proton_X10_Pro",
    "model": "X10 Pro"
+  },
+  {
+   "device": "Proton_X20_Pro",
+   "name": "X20 Pro",
+   "model": "X20 Pro"
   }
  ],
  "PS_Mobile": [
@@ -192613,6 +192643,11 @@
    "model": "T702M"
   },
   {
+   "device": "Ruby_TF",
+   "name": "TCL 50 XL NXTPAPER 5G",
+   "model": "T704V"
+  },
+  {
    "device": "Ruby_VZW",
    "name": "TCL 50 XL NXTPAPER 5G",
    "model": "T704SP"
@@ -209037,6 +209072,11 @@
    "model": "W888"
   },
   {
+   "device": "UNIWA_F400",
+   "name": "UNIWA_F400",
+   "model": "UNIWA_F400"
+  },
+  {
    "device": "UNIWA_W999",
    "name": "UNIWA_W999",
    "model": "UNIWA_W999"
@@ -209519,6 +209559,11 @@
    "device": "GQ3117SH2_MTN",
    "name": "Armor X13",
    "model": "Armor X13"
+  },
+  {
+   "device": "GQ5020TH1P19",
+   "name": "Armor X16",
+   "model": "Armor X16"
   },
   {
    "device": "Armor_X2",
@@ -224313,6 +224358,11 @@
    "device": "Voni10",
    "name": "Voni10",
    "model": "Voni 10"
+  },
+  {
+   "device": "Voni10Pro",
+   "name": "Voni10Pro",
+   "model": "TK-P86"
   },
   {
    "device": "Voni10Pro",
