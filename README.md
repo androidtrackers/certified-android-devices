@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-10
+Last sync is 2025-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17611,6 +17611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|HARMON-TEC|hongkong|4K SMART TV|
 |KTCtv|HARMON-TEC|mountbaker|2K SMART TV|
+|KTCtv|HAUSTEC|elliniko|4K SMART TV|
 |KTCtv|IBG|hongkong|4K SMART TV|
 |KTCtv|IBG|lavender|4K SMART TV|
 |KTCtv|IBG|mountbaker|2K SMART TV|
@@ -17711,6 +17712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|WYBOR|hongkong|4K SMART TV|
 |KTCtv|WYBOR|lavender|4K SMART TV|
 |KTCtv|WYBOR|mountbaker|2K SMART TV|
+|KTCtv|X-VISION|elliniko|4K SMART TV|
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
 |KTCtv|YARA|hongkong|4K SMART TV|
@@ -26154,6 +26156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ollee|T07TR1W|T07TR1W|T07TR1W|
 |Ollee|T08HM3MSA9|T08HM3MSA9|T08HM3MSA9|
 |Ollee|XT080|XT080|XT080|
+|Olvy|CH10PLUS|CH10PLUS|CH10PLUS|
 |Olympia|NEO|NEO|NEO|
 |Olympia|NEO_Mini|NEO_Mini|NEO_Mini|
 |Olympia|TREK|TREK|TREK|
@@ -26282,6 +26285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
 |OnePlus|OnePlus Nord CE4|OP5D3FL1|CPH2613|
 |OnePlus|OnePlus Nord CE4 Lite 5G|OP5D49L1|CPH2619|
+|OnePlus|OnePlus Nord CE4 Lite 5G|OP5D49L1|CPH2621|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2028|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2029|
@@ -26319,7 +26323,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
 |OnePlus|Oneplus Ace 2 Pro|OP5943L1|PJA110|
 |OnePlus|Oneplus Ace 3 Pro|OP5D06L1|PJX110|
-|OnePlus|Oneplus Nord CE4 Lite 5G|OP5D49L1|CPH2621|
 |OnePlus|Oneplus Pad2|OP5DAAL1|OPD2403|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|Open|OP5973L1|CPH2551|
@@ -26815,7 +26818,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|OPPO Watch X|OWWE231|OWWE231|
 |Oppo|OPPO Watch X2|OWWE251|OWWE251|
-|Oppo|Oppo Pad 3 Pro|OP5DA8L1|OPD2402|
 |Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
 |Oppo|PDKT00|OP4ABB|PDKT00|
@@ -27722,6 +27724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|PrismPlus P4KA|SW6H|PrismPlus P4KA|
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
+|PROTON|Infinity 8|Infinity_8|Infinity 8|
 |PROTON|P25 Ultra|P25_Ultra|P25 Ultra|
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
 |PROTON|PROTON 2K Google TV|capitolhill|PROTON 2K Google TV|
@@ -31250,6 +31253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|X3|X3|X3|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|STboard|HJ_M2|HJ_M2|HJ_M2|
 |STboard|HJ_TD|HJ_TD|HJ_TD|
 |SUAAT|G2_S_EEA|G2_EEA|G2_EEA|
 |SUAAT|G2_S_EEA|G2_EEA|G2_S_EEA|
@@ -42530,6 +42534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y300 Plus 5G|V2422|V2422|
 |Vivo|Y300 Pro|PD2410|V2410A|
 |Vivo|Y300+|PD2445|V2445EA|
+|Vivo|Y300c|PD2435|V2435A|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
 |Vivo|Y31L|Y31L|vivo Y31L|
@@ -47547,7 +47552,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3782|RE5C6CL1|RMX3782|
 |realme|RMX3834|RE5C9F|RMX3834|
 |realme|RMX3871|RE6063L1|RMX3871|
-|realme|RMX3930|RE6054|RMX3930|
 |realme|RMX3933|RE6054|RMX3933|
 |realme|RMX3939|RE6054|RMX3939|
 |realme|RMX3940|RE606B|RMX3940|
@@ -47664,7 +47668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C53|RE58C2|RMX3760|
 |realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
-|realme|realme C61|RE6054|RMX3939|
+|realme|realme C61|RE6054|RMX3930|
 |realme|realme C63|RE6054|RMX3939|
 |realme|realme C63 5G|RE6070L1|RMX3950|
 |realme|realme C65|RE5C42|RMX3910|
@@ -47703,6 +47707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P1 Speed 5G|RE6066L1|RMX5004|
 |realme|realme P2 Pro 5G|RE5CA3L1|RMX3987|
 |realme|realme P3 5G|RE608EL1|RMX5070|
+|realme|realme P3 5G|RE608EL1|RMX5079|
 |realme|realme P3 Pro 5G|RE6079L1|RMX5032|
 |realme|realme P3 Ultra 5G|RE60A4L1|RMX5030|
 |realme|realme P3 Ultra 5G|RE60A4L1|RMX5031|

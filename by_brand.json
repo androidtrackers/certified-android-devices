@@ -90913,6 +90913,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "HAUSTEC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "IBG",
    "model": "4K SMART TV"
@@ -91411,6 +91416,11 @@
    "device": "mountbaker",
    "name": "WYBOR",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "X-VISION",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -134788,6 +134798,13 @@
    "model": "XT080"
   }
  ],
+ "Olvy": [
+  {
+   "device": "CH10PLUS",
+   "name": "CH10PLUS",
+   "model": "CH10PLUS"
+  }
+ ],
  "Olympia": [
   {
    "device": "NEO",
@@ -135436,6 +135453,11 @@
    "model": "CPH2619"
   },
   {
+   "device": "OP5D49L1",
+   "name": "OnePlus Nord CE4 Lite 5G",
+   "model": "CPH2621"
+  },
+  {
    "device": "OnePlusN10",
    "name": "OnePlus Nord N10 5G",
    "model": "BE2026"
@@ -135619,11 +135641,6 @@
    "device": "OP5D06L1",
    "name": "Oneplus Ace 3 Pro",
    "model": "PJX110"
-  },
-  {
-   "device": "OP5D49L1",
-   "name": "Oneplus Nord CE4 Lite 5G",
-   "model": "CPH2621"
   },
   {
    "device": "OP5DAAL1",
@@ -138119,11 +138136,6 @@
    "device": "OWWE251",
    "name": "OPPO Watch X2",
    "model": "OWWE251"
-  },
-  {
-   "device": "OP5DA8L1",
-   "name": "Oppo Pad 3 Pro",
-   "model": "OPD2402"
   },
   {
    "device": "OP4AB5",
@@ -142779,6 +142791,11 @@
   }
  ],
  "PROTON": [
+  {
+   "device": "Infinity_8",
+   "name": "Infinity 8",
+   "model": "Infinity 8"
+  },
   {
    "device": "P25_Ultra",
    "name": "P25 Ultra",
@@ -161037,6 +161054,11 @@
   }
  ],
  "STboard": [
+  {
+   "device": "HJ_M2",
+   "name": "HJ_M2",
+   "model": "HJ_M2"
+  },
   {
    "device": "HJ_TD",
    "name": "HJ_TD",
@@ -218600,6 +218622,11 @@
    "model": "V2445EA"
   },
   {
+   "device": "PD2435",
+   "name": "Y300c",
+   "model": "V2435A"
+  },
+  {
    "device": "PD1505",
    "name": "Y31",
    "model": "vivo Y31"
@@ -244438,11 +244465,6 @@
   },
   {
    "device": "RE6054",
-   "name": "RMX3930",
-   "model": "RMX3930"
-  },
-  {
-   "device": "RE6054",
    "name": "RMX3933",
    "model": "RMX3933"
   },
@@ -245024,7 +245046,7 @@
   {
    "device": "RE6054",
    "name": "realme C61",
-   "model": "RMX3939"
+   "model": "RMX3930"
   },
   {
    "device": "RE6054",
@@ -245215,6 +245237,11 @@
    "device": "RE608EL1",
    "name": "realme P3 5G",
    "model": "RMX5070"
+  },
+  {
+   "device": "RE608EL1",
+   "name": "realme P3 5G",
+   "model": "RMX5079"
   },
   {
    "device": "RE6079L1",
