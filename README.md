@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-11
+Last sync is 2025-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6659,6 +6659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG ACE 3|KINGKONG_ACE_3|KINGKONG ACE 3|
 |Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG ES|KINGKONG_ES|KINGKONG_ES|
+|Cubot|KINGKONG ES 3|KINGKONG_ES_3|KINGKONG ES 3|
 |Cubot|KINGKONG MINI 3|KINGKONGMINI3|KINGKONG MINI 3|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
@@ -10627,6 +10628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Globus_Infocom_Limited|GS01-Series|GS01-Series|GS01-Series|
 |Globus_Infocom_Limited|GS04-Series|MTK9679|GS04-Series|
 |Globus_Infocom_Limited|GS08-Series|GS08-Series|GS08-Series|
+|Globus_Infocom_Limited|GS08-Series|Globus_IFPD|GS08-Series|
 |Glocalme|P3S18|P3S18|P3S18|
 |Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
@@ -12584,6 +12586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense E35|
+|Hisense|HLTE243E|HLTE243E|Hisense M72 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense U967|
@@ -16019,6 +16022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 50 Pro|Infinix-X6881|Infinix X6881|
 |Infinix|Infinix HOT 50i|Infinix-X6531|Infinix X6531|
 |Infinix|Infinix HOT 50i|Infinix-X6531B|Infinix X6531B|
+|Infinix|Infinix HOT 60 Pro|Infinix-X6885|Infinix X6885|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -32267,6 +32271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F34 5G|m34x|SM-E346B|
+|Samsung|Galaxy F36 5G|m36x|SM-E366B|
 |Samsung|Galaxy F41|f41|SM-F415F|
 |Samsung|Galaxy F42 5G|f42x|SM-E426B|
 |Samsung|Galaxy F52 5G|f52x|SM-E5260|
@@ -32639,6 +32644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Jean2|a20e|SM-A202K|
 |Samsung|Galaxy Jump2|m33x|SM-M336K|
 |Samsung|Galaxy Jump3|m44x|SM-M446K|
+|Samsung|Galaxy Jump4|m36x|SM-M366K|
 |Samsung|Galaxy K|SHW-M130K|SHW-M130K|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111M|
@@ -32705,6 +32711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M34 5G|m34x|SM-M346B1|
 |Samsung|Galaxy M34 5G|m34x|SM-M346B2|
 |Samsung|Galaxy M35 5G|m35x|SM-M356B|
+|Samsung|Galaxy M36 5G|m36x|SM-M366B|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|
@@ -37503,6 +37510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521K|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521N|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
+|TCL|TCL 60 XE NXTPAPER 5G|Sunrise_NA_OM|T705M|
 |TCL|TCL 60R 5G|Aster|T519H|
 |TCL|TCL 60R 5G|Aster|T519N|
 |TCL|TCL A3X|Delhi_TF|A600DL|
@@ -47921,6 +47929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Starr 100|V406018|V406018|
 |vivo|Pad5|DPD2437|PA2553|
 |vivo|S30 Pro mini|PD2465|V2465A|
+|vivo|T4 Ultra|V2504|V2504|
 |vivo|Y04e|V2430|V2532|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|

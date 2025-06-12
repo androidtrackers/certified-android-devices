@@ -34489,6 +34489,11 @@
    "model": "KINGKONG_ES"
   },
   {
+   "device": "KINGKONG_ES_3",
+   "name": "KINGKONG ES 3",
+   "model": "KINGKONG ES 3"
+  },
+  {
    "device": "KINGKONGMINI3",
    "name": "KINGKONG MINI 3",
    "model": "KINGKONG MINI 3"
@@ -55271,6 +55276,11 @@
    "device": "GS08-Series",
    "name": "GS08-Series",
    "model": "GS08-Series"
+  },
+  {
+   "device": "Globus_IFPD",
+   "name": "GS08-Series",
+   "model": "GS08-Series"
   }
  ],
  "Glocalme": [
@@ -65316,6 +65326,11 @@
    "device": "HLTE243E",
    "name": "HLTE243E",
    "model": "Hisense E35"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense M72 Pro"
   },
   {
    "device": "HLTE243E",
@@ -82709,6 +82724,11 @@
    "device": "Infinix-X6531B",
    "name": "Infinix HOT 50i",
    "model": "Infinix X6531B"
+  },
+  {
+   "device": "Infinix-X6885",
+   "name": "Infinix HOT 60 Pro",
+   "model": "Infinix X6885"
   },
   {
    "device": "Infinix-X623",
@@ -166173,6 +166193,11 @@
    "model": "SM-E346B"
   },
   {
+   "device": "m36x",
+   "name": "Galaxy F36 5G",
+   "model": "SM-E366B"
+  },
+  {
    "device": "f41",
    "name": "Galaxy F41",
    "model": "SM-F415F"
@@ -168033,6 +168058,11 @@
    "model": "SM-M446K"
   },
   {
+   "device": "m36x",
+   "name": "Galaxy Jump4",
+   "model": "SM-M366K"
+  },
+  {
    "device": "SHW-M130K",
    "name": "Galaxy K",
    "model": "SHW-M130K"
@@ -168361,6 +168391,11 @@
    "device": "m35x",
    "name": "Galaxy M35 5G",
    "model": "SM-M356B"
+  },
+  {
+   "device": "m36x",
+   "name": "Galaxy M36 5G",
+   "model": "SM-M366B"
   },
   {
    "device": "m40",
@@ -192733,6 +192768,11 @@
    "device": "Sunrise_CAN",
    "name": "TCL 60 XE NXTPAPER 5G",
    "model": "T705J"
+  },
+  {
+   "device": "Sunrise_NA_OM",
+   "name": "TCL 60 XE NXTPAPER 5G",
+   "model": "T705M"
   },
   {
    "device": "Aster",
@@ -246371,6 +246411,11 @@
    "device": "PD2465",
    "name": "S30 Pro mini",
    "model": "V2465A"
+  },
+  {
+   "device": "V2504",
+   "name": "T4 Ultra",
+   "model": "V2504"
   },
   {
    "device": "V2430",
