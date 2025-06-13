@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-12
+Last sync is 2025-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15969,6 +15969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 6|Infinix-X606C|Infinix X606C|
 |Infinix|HOT 6|Infinix-X606D|Infinix X606D|
 |Infinix|HOT 6 Pro|Infinix-X608|Infinix X608|
+|Infinix|HOT 60 Pro+|Infinix-X6886|Infinix X6886|
 |Infinix|HOT 7|Infinix-X624|Infinix X624|
 |Infinix|HOT 7|Infinix-X624B|Infinix X624B|
 |Infinix|HOT 7 PRO|Infinix-X625|Infinix X625B|
@@ -20133,6 +20134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium_S520|Ilium_S520|ILIUM S520|
 |Lanix|L530|L530|L530|
 |Lanix|L540|L540|L540|
+|Lanix|LANIX|elliniko|4K SMART TV|
 |Lanix|LANIX|zhongshan|4K SMART TV|
 |Lanix|LANIX_PAD_E7|ILIUM_PADE7V11|LANIX_PAD_E7|
 |Lanix|Llium L910|Ilium_L910|Ilium L910|
@@ -20507,6 +20509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leeco|LeoPro3|le_zl1|LEX725|
 |Leeco|X Serials(X43 Pro|X55|X65)|
 |Legamaster|EVOLVE2|ETX|ETX|
+|Legamaster|EVOLVE3|EVX|EVX|
 |Legamaster|NAVIGATOR|NAV_RK|NAV|
 |LegendComfortable|SEP011037|SEP011037|SEP011037|
 |LeiaInc|Lume Pad|LumePad|LPD-20W|
@@ -27770,6 +27773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|SILVERSTONE-T18|SILVERSTONE-T18|BL.9UEEP.210|
 |Packard Bell|Silverstone-T10X|Silverstone-T10X|Silverstone-T10X|
 |Packard Bell|T1000|T1000|T1000|
+|Packard Bell|TARGA-F10PRO|TARGA-F10PRO|TARGA-F10PRO|
 |Packard Bell|TARGA-F8|TARGA-F8|TARGA-F8|
 |PadBook|PadBook|PadBook|PadBook|
 |Palm|PVG100|Pepito|PVG100|
@@ -37505,6 +37509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 505|Ant|T509K|
 |TCL|TCL 505 S|Ant|T509A|
 |TCL|TCL 60 5G|Aster_Pro|T521H|
+|TCL|TCL 60 NXTPAPER|Erica_NP_Pro|T626K|
 |TCL|TCL 60 SE|Vinca|T517H|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521D|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521K|
@@ -37550,6 +37555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 10s|Odin2|9081X|
 |TCL|TCL NXTPAPER 11|Eternals11|9466X|
 |TCL|TCL NXTPAPER 11 Plus|Bellona_WF_GL|9469X|
+|TCL|TCL NXTPAPER 14|Hera_Vis_WIFI|9491G|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -37611,6 +37617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN_TR|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|TKEE mini|Phoenix_7_Kids|9317G|
+|TCL|Telstra T-Inspire 2|DahliaS|T450H|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCL|alcatel 1T7 NEW|U3A_7_WIFI_Refresh|9309X2_TR|
 |TCL|alcatel 1T7 NEW|U3A_7_WIFI_Refresh|9309X_TR|
@@ -38382,6 +38389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|Benz|5039U|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|HEYOU50|
+|TCT (Alcatel)|Alcatel 3L|Dahlia|T450A|
 |TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056A|
 |TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056D|
 |TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056D_EEA|
@@ -39957,6 +39965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6|TECNO KC6|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
+|Tecno|TECNO SPARK 40 Pro|TECNO-KM6|TECNO KM6|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
@@ -46368,6 +46377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |ZULEISY|E8A|E8A|E8A|
+|ZULEISY|E8A_EEA|E8A_EEA|E8A|
 |ZUOPU|JH101|JH101|JH101|
 |ZUOPU|JH103|JH103|JH103|
 |ZUOPU|JH105|JH105|JH105|

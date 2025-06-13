@@ -82461,6 +82461,11 @@
    "model": "Infinix X608"
   },
   {
+   "device": "Infinix-X6886",
+   "name": "HOT 60 Pro+",
+   "model": "Infinix X6886"
+  },
+  {
    "device": "Infinix-X624",
    "name": "HOT 7",
    "model": "Infinix X624"
@@ -103781,6 +103786,11 @@
    "model": "L540"
   },
   {
+   "device": "elliniko",
+   "name": "LANIX",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "LANIX",
    "model": "4K SMART TV"
@@ -105677,6 +105687,11 @@
    "device": "ETX",
    "name": "EVOLVE2",
    "model": "ETX"
+  },
+  {
+   "device": "EVX",
+   "name": "EVOLVE3",
+   "model": "EVX"
   },
   {
    "device": "NAV_RK",
@@ -143032,6 +143047,11 @@
    "device": "T1000",
    "name": "T1000",
    "model": "T1000"
+  },
+  {
+   "device": "TARGA-F10PRO",
+   "name": "TARGA-F10PRO",
+   "model": "TARGA-F10PRO"
   },
   {
    "device": "TARGA-F8",
@@ -192745,6 +192765,11 @@
    "model": "T521H"
   },
   {
+   "device": "Erica_NP_Pro",
+   "name": "TCL 60 NXTPAPER",
+   "model": "T626K"
+  },
+  {
    "device": "Vinca",
    "name": "TCL 60 SE",
    "model": "T517H"
@@ -192968,6 +192993,11 @@
    "device": "Bellona_WF_GL",
    "name": "TCL NXTPAPER 11 Plus",
    "model": "9469X"
+  },
+  {
+   "device": "Hera_Vis_WIFI",
+   "name": "TCL NXTPAPER 14",
+   "model": "9491G"
   },
   {
    "device": "T1",
@@ -193273,6 +193303,11 @@
    "device": "Phoenix_7_Kids",
    "name": "TKEE mini",
    "model": "9317G"
+  },
+  {
+   "device": "DahliaS",
+   "name": "Telstra T-Inspire 2",
+   "model": "T450H"
   },
   {
    "device": "UnionTV",
@@ -197132,6 +197167,11 @@
    "device": "Benz",
    "name": "Alcatel 3L",
    "model": "HEYOU50"
+  },
+  {
+   "device": "Dahlia",
+   "name": "Alcatel 3L",
+   "model": "T450A"
   },
   {
    "device": "Hong_Kong_Pro",
@@ -205217,6 +205257,11 @@
    "device": "TECNO-KC6S",
    "name": "TECNO SPARK 4 Air",
    "model": "TECNO KC6S"
+  },
+  {
+   "device": "TECNO-KM6",
+   "name": "TECNO SPARK 40 Pro",
+   "model": "TECNO KM6"
   },
   {
    "device": "TECNO-KD7h",
@@ -238181,6 +238226,11 @@
   {
    "device": "E8A",
    "name": "E8A",
+   "model": "E8A"
+  },
+  {
+   "device": "E8A_EEA",
+   "name": "E8A_EEA",
    "model": "E8A"
   }
  ],
