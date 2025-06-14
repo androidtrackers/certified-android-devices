@@ -48029,6 +48029,13 @@
    "model": "S30"
   }
  ],
+ "FORCE PRO": [
+  {
+   "device": "SEI800EV",
+   "name": "ForcePro",
+   "model": "ForcePro"
+  }
+ ],
  "FORCO": [
   {
    "device": "K1028G",
@@ -92322,6 +92329,11 @@
   }
  ],
  "Kbro": [
+  {
+   "device": "A0B_RTD1325",
+   "name": "A0BRTD1325",
+   "model": "A0BRTD1325"
+  },
   {
    "device": "sti6160d19",
    "name": "A0_S905X2",
@@ -156855,12 +156867,22 @@
   {
    "device": "taiko",
    "name": "Redmi Pad 2",
+   "model": "25040RP0AE"
+  },
+  {
+   "device": "taiko",
+   "name": "Redmi Pad 2",
    "model": "25040RP0AG"
   },
   {
    "device": "taiko",
    "name": "Redmi Pad 2",
    "model": "25040RP0AL"
+  },
+  {
+   "device": "koto",
+   "name": "Redmi Pad 2 4G",
+   "model": "2505DRP06E"
   },
   {
    "device": "koto",
@@ -205262,6 +205284,11 @@
    "device": "TECNO-KM6",
    "name": "TECNO SPARK 40 Pro",
    "model": "TECNO KM6"
+  },
+  {
+   "device": "TECNO-KM7",
+   "name": "TECNO SPARK 40 Pro+",
+   "model": "TECNO KM7"
   },
   {
    "device": "TECNO-KD7h",

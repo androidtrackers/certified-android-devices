@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-13
+Last sync is 2025-06-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9241,6 +9241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOLG|S19|S19|S19|
 |FOLG|S20|FOLG_TAB_10|FOLG TAB 10|
 |FOLG|S30|S30|S30|
+|FORCE PRO|ForcePro|SEI800EV|ForcePro|
 |FORCO|K1028G|K1028G|CQS1084LKA01|
 |FORCO|K1028G|K1028G|K1028G|
 |FOSSiBOT|DT1 Lite|DT1_Lite|DT1 Lite|
@@ -17883,6 +17884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karvy|KA7Q3|KA7Q3|KA7Q3|
 |KateMedia|KT-2-EEA|KT-2-EEA|KT-2-EEA|
 |KateMedia|KT-2-other|KT-2-other|KT-2-other|
+|Kbro|A0BRTD1325|A0B_RTD1325|A0BRTD1325|
 |Kbro|A0_S905X2|sti6160d19|A0_S905X2|
 |Kbro|A25751P|A2_5751P|A25751P|
 |Kbro|A2S905X4|A2_S905X4|A2S905X4|
@@ -30465,8 +30467,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9T|cannong|A001XM|
 |Redmi|Redmi Note 9T|cannong|M2007J22G|
 |Redmi|Redmi Pad|yunluo|22081283G|
+|Redmi|Redmi Pad 2|taiko|25040RP0AE|
 |Redmi|Redmi Pad 2|taiko|25040RP0AG|
 |Redmi|Redmi Pad 2|taiko|25040RP0AL|
+|Redmi|Redmi Pad 2 4G|koto|2505DRP06E|
 |Redmi|Redmi Pad 2 4G|koto|2505DRP06G|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDC|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
@@ -39966,6 +39970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6|TECNO KC6|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
 |Tecno|TECNO SPARK 40 Pro|TECNO-KM6|TECNO KM6|
+|Tecno|TECNO SPARK 40 Pro+|TECNO-KM7|TECNO KM7|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
