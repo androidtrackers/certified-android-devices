@@ -7807,6 +7807,11 @@
    "model": "iPlay70_S"
   },
   {
+   "device": "U812",
+   "name": "iPlay70_mini_Turbo",
+   "model": "iPlay70 mini Turbo"
+  },
+  {
    "device": "U1008",
    "name": "iPlay9T",
    "model": "iPlay9T"
@@ -36372,6 +36377,11 @@
   }
  ],
  "DIGMA_PRO": [
+  {
+   "device": "Pulse",
+   "name": "Pulse",
+   "model": "Pulse"
+  },
   {
    "device": "Wave_TA2D5P02",
    "name": "TA2D5P02",
@@ -205281,6 +205291,11 @@
    "model": "TECNO KC6S"
   },
   {
+   "device": "TECNO-KM5",
+   "name": "TECNO SPARK 40",
+   "model": "TECNO KM5"
+  },
+  {
    "device": "TECNO-KM6",
    "name": "TECNO SPARK 40 Pro",
    "model": "TECNO KM6"
@@ -207116,6 +207131,11 @@
    "device": "E101",
    "name": "E101",
    "model": "E101"
+  },
+  {
+   "device": "E220_M_EU",
+   "name": "E220_M_EU",
+   "model": "E220_M_EU"
   },
   {
    "device": "SmartPad_E220",
@@ -215742,6 +215762,11 @@
    "model": "Ocean9L"
   },
   {
+   "device": "SMART_12",
+   "name": "SMART 12",
+   "model": "SMART 12"
+  },
+  {
    "device": "SMART_8",
    "name": "SMART 8",
    "model": "SMART 8"
@@ -220007,6 +220032,11 @@
    "device": "V2430",
    "name": "vivo Y04",
    "model": "V2438"
+  },
+  {
+   "device": "V2430",
+   "name": "vivo Y04",
+   "model": "V2531"
   },
   {
    "device": "PD2312",

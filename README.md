@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-15
+Last sync is 2025-06-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1495,6 +1495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay60_mini_Pro|iPlay60_mini_Pro|iPlay60_mini_Pro|
 |Alldocube|iPlay60_mini_Turbo|U812|iPlay60 mini Turbo|
 |Alldocube|iPlay70_S|iPlay70_S|iPlay70_S|
+|Alldocube|iPlay70_mini_Turbo|U812|iPlay70 mini Turbo|
 |Alldocube|iPlay9T|U1008|iPlay9T|
 |Alldocube|iPlay_20|iPlay_20|iPlay_20|
 |Alldocube|iPlay_30|T1012|iPlay_30|
@@ -7025,6 +7026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIDIK|DT24Plus|DT24Plus|DT24Plus|
 |DIDIK_TAB|DT24|DT24|DT24|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
+|DIGMA_PRO|Pulse|Pulse|Pulse|
 |DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TA2D5P02|
 |DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TAXX5P0X|
 |DIJITSU|DCT 90|DCT_90|DCT 90|
@@ -39969,6 +39971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6|TECNO KC6|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
+|Tecno|TECNO SPARK 40|TECNO-KM5|TECNO KM5|
 |Tecno|TECNO SPARK 40 Pro|TECNO-KM6|TECNO KM6|
 |Tecno|TECNO SPARK 40 Pro+|TECNO-KM7|TECNO KM7|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
@@ -40318,6 +40321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tibuta|A30|A30|A30|
 |Tibuta|A40|A40|A40|
 |Tibuta|E101|E101|E101|
+|Tibuta|E220_M_EU|E220_M_EU|E220_M_EU|
 |Tibuta|SmartPad_E220|SmartPad_E220|SmartPad_E220|
 |Tibuta|TAB_868_PRO|TAB_868_PRO|TAB_868_PRO|
 |Tibuta|Tibuta_MasterPad-E100|Tibuta_MasterPad-E100|Tibuta_MasterPad-E100|
@@ -41966,6 +41970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Ocean 8|Ocean_8|Ocean_8|
 |Vgo Tel|Ocean 9|Ocean_9|Ocean_9|
 |Vgo Tel|Ocean9L|Ocean9L|Ocean9L|
+|Vgo Tel|SMART 12|SMART_12|SMART 12|
 |Vgo Tel|SMART 8|SMART_8|SMART 8|
 |Vgo Tel|Smart 2|Smart_2|Smart 2|
 |Vgo Tel|Smart 4|Smart_4|Smart 4|
@@ -42811,6 +42816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X9s Plus|PD1635|vivo X9s Plus|
 |Vivo|vivo Y04|V2430|V2430|
 |Vivo|vivo Y04|V2430|V2438|
+|Vivo|vivo Y04|V2430|V2531|
 |Vivo|vivo Y100i长续航版|PD2312|V2312BA|
 |Vivo|vivo Y11|Y11|vivo Y11|
 |Vivo|vivo Y19e|V2430|V2431|
