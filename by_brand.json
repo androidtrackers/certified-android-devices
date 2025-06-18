@@ -4506,6 +4506,11 @@
  ],
  "Aconatic": [
   {
+   "device": "barking",
+   "name": "55US800AN",
+   "model": "ACONATIC AndroidTV"
+  },
+  {
    "device": "bangbae",
    "name": "ACONATIC",
    "model": "Aconatic 4K Android TV"
@@ -18696,6 +18701,11 @@
    "model": "BYYBUO_SmartPad_T10"
   },
   {
+   "device": "E220_M_US",
+   "name": "E220_M_US",
+   "model": "E220_M_US"
+  },
+  {
    "device": "SmartPad_A10_EU",
    "name": "SmartPad_A10_EU",
    "model": "SmartPad_A10_EU"
@@ -30079,7 +30089,7 @@
   },
   {
    "device": "RK26PLUS",
-   "name": "RK26PLUS",
+   "name": "RK26 U",
    "model": "RK26"
   },
   {
@@ -30298,6 +30308,11 @@
    "device": "SEI810CPR",
    "name": "SEI810CPR",
    "model": "Claro STB"
+  },
+  {
+   "device": "SEI900CCOAS",
+   "name": "STICK 4K",
+   "model": "STICK 4K"
   }
  ],
  "Classpro": [
@@ -37630,6 +37645,11 @@
   {
    "device": "mk2",
    "name": "Memor K20",
+   "model": "Memor K2"
+  },
+  {
+   "device": "mk2",
+   "name": "Memor K25",
    "model": "Memor K2"
   },
   {
@@ -93488,6 +93508,11 @@
    "model": "K10_EEA"
   },
   {
+   "device": "K10_US",
+   "name": "K10_US",
+   "model": "K10_US"
+  },
+  {
    "device": "K11_ROW",
    "name": "K11_ROW",
    "model": "K11_ROW"
@@ -115997,6 +116022,11 @@
    "model": "M65P"
   },
   {
+   "device": "M6561",
+   "name": "M6561",
+   "model": "M6561"
+  },
+  {
    "device": "MS5314G",
    "name": "MS5314G",
    "model": "MS5314G"
@@ -117430,9 +117460,44 @@
    "model": "MEIZU 20 Inf.sat"
   },
   {
+   "device": "MEIZU_Note21",
+   "name": "MEIZU Note 21",
+   "model": "MEIZU Note21"
+  },
+  {
+   "device": "MEIZU_Note21_Pro",
+   "name": "MEIZU Note 21 Pro",
+   "model": "MEIZU Note21 Pro"
+  },
+  {
+   "device": "MEIZU_Note21",
+   "name": "MEIZU Note21",
+   "model": "MEIZU Note21"
+  },
+  {
+   "device": "MEIZU_Note21_Pro",
+   "name": "MEIZU Note21 Pro",
+   "model": "MEIZU Note21 Pro"
+  },
+  {
    "device": "Meizu21Note",
    "name": "MEIZU 21 Note",
    "model": "MEIZU 21 Note"
+  },
+  {
+   "device": "MEIZU_mblu",
+   "name": "Mblu 21",
+   "model": "Mblu 21"
+  },
+  {
+   "device": "MEIZU_Mblu22",
+   "name": "Mblu 22",
+   "model": "Mblu 22"
+  },
+  {
+   "device": "MEIZU_Mblu22Pro",
+   "name": "Mblu 22 Pro",
+   "model": "Mblu 22 Pro"
   },
   {
    "device": "Meizu6T",
@@ -117448,6 +117513,11 @@
    "device": "MeizuS6",
    "name": "Meizu S6",
    "model": "Meizu S6"
+  },
+  {
+   "device": "MEIZU_Note22",
+   "name": "Note 22",
+   "model": "Note 22"
   },
   {
    "device": "Note9",
@@ -119758,6 +119828,11 @@
    "device": "barking",
    "name": "MTJ-X43FLS",
    "model": "Miramage Smart Display"
+  },
+  {
+   "device": "barking",
+   "name": "Miramage AndroidTV",
+   "model": "Miramage AndroidTV KR"
   },
   {
    "device": "surface",
@@ -127454,6 +127529,11 @@
    "device": "MS6",
    "name": "Ms6",
    "model": "MS6"
+  },
+  {
+   "device": "kualakai",
+   "name": "Multi Google TV",
+   "model": "Multi Google TV"
   },
   {
    "device": "Multilaser_E",
@@ -141652,6 +141732,16 @@
    "device": "kualakai",
    "name": "Smart TV",
    "model": "Smart TV"
+  },
+  {
+   "device": "kualakai",
+   "name": "SmartTV P",
+   "model": "Smart TV P"
+  },
+  {
+   "device": "kualakai",
+   "name": "SmartTV_KR",
+   "model": "Smart TV KR"
   }
  ],
  "PAPAGO": [
@@ -154565,6 +154655,11 @@
  ],
  "REGZA": [
   {
+   "device": "hengshan",
+   "name": "REGZA Projector",
+   "model": "REGZA Projector"
+  },
+  {
    "device": "YYT",
    "name": "RSG-11B",
    "model": "4K Google TV Stick"
@@ -164045,6 +164140,11 @@
    "device": "a36xq",
    "name": "Galaxy A36 5G",
    "model": "SM-A366N"
+  },
+  {
+   "device": "a36xq",
+   "name": "Galaxy A36 5G",
+   "model": "SM-A366Q"
   },
   {
    "device": "a36xq",
@@ -177095,6 +177195,11 @@
    "device": "m15x",
    "name": "Galaxy Wide7",
    "model": "SM-M156S"
+  },
+  {
+   "device": "m16x",
+   "name": "Galaxy Wide8",
+   "model": "SM-M166S"
   },
   {
    "device": "delos3gcmcc",
@@ -202051,11 +202156,6 @@
    "model": "T-Hub2"
   },
   {
-   "device": "dwt765mm",
-   "name": "Agile TV",
-   "model": "AgileTV"
-  },
-  {
    "device": "uzw4026ele",
    "name": "Elisa Elamus",
    "model": "Elisa Elamus"
@@ -205456,6 +205556,11 @@
    "device": "TECNO-KM7",
    "name": "TECNO SPARK 40 Pro+",
    "model": "TECNO KM7"
+  },
+  {
+   "device": "TECNO-KM4k",
+   "name": "TECNO SPARK 40C",
+   "model": "TECNO KM4k"
   },
   {
    "device": "TECNO-KD7h",
@@ -213545,6 +213650,18 @@
    "model": "V.35"
   }
  ],
+ "VSP(VN)": [
+  {
+   "device": "barking",
+   "name": "VSP AndroidTV",
+   "model": "VSP AndroidTV"
+  },
+  {
+   "device": "beaudry",
+   "name": "VSP AndroidTV",
+   "model": "VSP AndroidTV"
+  }
+ ],
  "VT": [
   {
    "device": "MB300",
@@ -213858,6 +213975,11 @@
   }
  ],
  "Vantiva": [
+  {
+   "device": "dwt765mm",
+   "name": "Agile TV",
+   "model": "AgileTV"
+  },
   {
    "device": "uzw4060mm",
    "name": "Agile TV",
@@ -238197,6 +238319,11 @@
    "model": "Z6255CA"
   },
   {
+   "device": "Z6657",
+   "name": "nubia A76",
+   "model": "Z6657CA"
+  },
+  {
    "device": "P678F01",
    "name": "nubia Flip 2 5G",
    "model": "NX732J"
@@ -246610,6 +246737,11 @@
    "device": "Unitel_Smart_1",
    "name": "Unitel_Smart_1",
    "model": "Unitel Smart 1"
+  },
+  {
+   "device": "Usmart5",
+   "name": "Usmart5",
+   "model": "Usmart5"
   }
  ],
  "unv(Uniview Technologies Co.": [
@@ -246680,6 +246812,11 @@
    "device": "DPD2437",
    "name": "Pad5",
    "model": "PA2553"
+  },
+  {
+   "device": "PD2464",
+   "name": "S30",
+   "model": "V2464A"
   },
   {
    "device": "PD2465",
