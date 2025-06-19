@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-18
+Last sync is 2025-06-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6792,6 +6792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEERTiME|E6_EEA|E6_EEA|E6_EEA|
 |DEERTiME|E6_RU|E6_RU|E6_RU|
 |DEERTiME|E6_US|E6_US|E6_US|
+|DEERTiME|E9-W|E9-W|E9-W|
 |DEERTiME|E9_EEA|E9_EEA|E9_EEA|
 |DEERTiME|E9_US|E9_US|E9_US|
 |DEPLAY|BS101_EEA|BS101_EEA|BS101_EEA|
@@ -7079,6 +7080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DMOAO|D3_US|D3_US|D3_US|
 |DMOAO|D5-EEA|D5-EEA|D5-EEA|
 |DMOAO|D5-T-EEA|D5-T-EEA|D5-T-EEA|
+|DMOAO|D5-T-EEA|D5-T-EEA|Z19|
 |DMOAO|D5-T-US|D5-T-US|D5-T-US|
 |DMOAO|D5-US|D5-US|D5-US|
 |DMOAO|D5_EEA|D5_EEA|D5_EEA|
@@ -26372,11 +26374,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
+|OnePlus|Pad 3|OP6190L1|OPD2415|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
+|OnePlus|一加平板 2 Pro|OP615EL1|OPD2413|
 |OnePlus|一加平板Pro|OP5D77L1|OPD2404|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |OneScreen|OneScreen T7|rk3588_t|T7|
+|OneScreen|OneScreen_Titan|OneScreen_Core|Core|
 |OneScreen|Wandr_W1|Wandr|OneScreen Wandr|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
@@ -27069,6 +27074,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno12 Pro 5G|OP5AE1L1|CPH2629|
 |Oppo|Reno13|OP5DD7L1|PKM110|
 |Oppo|Reno13 5G|OP5E9EL1|CPH2689|
+|Oppo|Reno13 A|OP5EC7L1|A501OP|
+|Oppo|Reno13 A|OP5EC7L1|OPG05|
 |Oppo|Reno13 F|OP5ECBL1|CPH2701|
 |Oppo|Reno13 F 5G|OP5EC7L1|CPH2699|
 |Oppo|Reno13 F 5G / Reno13 A|OP5EC7L1|CPH2699|
@@ -35131,6 +35138,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish4|SX4|A403SH|
 |Sharp|AQUOS wish4|SX4|SH-M27|
 |Sharp|AQUOS wish4|SX4|SM0L4|
+|Sharp|AQUOS wish5|SH-52F|SH-52F|
+|Sharp|AQUOS wish5|SX5|A502SH|
+|Sharp|AQUOS wish5|SX5|SH-M32|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -46944,6 +46954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |e10 ETPad|ETPad|ETPad|ETPad|
 |e10 ETPad|ETPad_SE|ETPad_SE|ETPad_SE|
 |e4u(A)|TAB900|TAB900|TAB900|
+|eBox|EBOXS905X5M|sti6280d391|EBOXS905X5M|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eBox|Ebox|diw387eb|EboxTV|
 |eNOVA|ENOVA|stanford|SA 2K SMART TV|

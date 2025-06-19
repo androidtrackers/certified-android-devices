@@ -35184,6 +35184,11 @@
    "model": "E6_US"
   },
   {
+   "device": "E9-W",
+   "name": "E9-W",
+   "model": "E9-W"
+  },
+  {
    "device": "E9_EEA",
    "name": "E9_EEA",
    "model": "E9_EEA"
@@ -36651,6 +36656,11 @@
    "device": "D5-T-EEA",
    "name": "D5-T-EEA",
    "model": "D5-T-EEA"
+  },
+  {
+   "device": "D5-T-EEA",
+   "name": "D5-T-EEA",
+   "model": "Z19"
   },
   {
    "device": "D5-T-US",
@@ -135892,6 +135902,11 @@
    "model": "PHP110"
   },
   {
+   "device": "OP6190L1",
+   "name": "Pad 3",
+   "model": "OPD2415"
+  },
+  {
    "device": "OnePlus",
    "name": "X",
    "model": "ONE E1003"
@@ -135900,6 +135915,11 @@
    "device": "shibuya",
    "name": "Y Series",
    "model": "Y Series"
+  },
+  {
+   "device": "OP615EL1",
+   "name": "一加平板 2 Pro",
+   "model": "OPD2413"
   },
   {
    "device": "OP5D77L1",
@@ -135917,6 +135937,11 @@
    "device": "rk3588_t",
    "name": "OneScreen T7",
    "model": "T7"
+  },
+  {
+   "device": "OneScreen_Core",
+   "name": "OneScreen_Titan",
+   "model": "Core"
   },
   {
    "device": "Wandr",
@@ -139395,6 +139420,16 @@
    "device": "OP5E9EL1",
    "name": "Reno13 5G",
    "model": "CPH2689"
+  },
+  {
+   "device": "OP5EC7L1",
+   "name": "Reno13 A",
+   "model": "A501OP"
+  },
+  {
+   "device": "OP5EC7L1",
+   "name": "Reno13 A",
+   "model": "OPG05"
   },
   {
    "device": "OP5ECBL1",
@@ -180571,6 +180606,21 @@
    "device": "SX4",
    "name": "AQUOS wish4",
    "model": "SM0L4"
+  },
+  {
+   "device": "SH-52F",
+   "name": "AQUOS wish5",
+   "model": "SH-52F"
+  },
+  {
+   "device": "SX5",
+   "name": "AQUOS wish5",
+   "model": "A502SH"
+  },
+  {
+   "device": "SX5",
+   "name": "AQUOS wish5",
+   "model": "SH-M32"
   },
   {
    "device": "SG801SH",
@@ -241201,6 +241251,11 @@
   }
  ],
  "eBox": [
+  {
+   "device": "sti6280d391",
+   "name": "EBOXS905X5M",
+   "model": "EBOXS905X5M"
+  },
   {
    "device": "diw387eb",
    "name": "EBoxTv",
