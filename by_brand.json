@@ -43645,6 +43645,11 @@
    "device": "ENV_NOTE_X",
    "name": "ENV_NOTE_X",
    "model": "ENV NOTE X"
+  },
+  {
+   "device": "note_16",
+   "name": "note 16",
+   "model": "note 16"
   }
  ],
  "EONSmartBox": [
@@ -126697,6 +126702,13 @@
    "device": "zhongshan",
    "name": "MTEK",
    "model": "4K SMART TV"
+  }
+ ],
+ "Mtel": [
+  {
+   "device": "HP44H-mtel",
+   "name": "HP44H",
+   "model": "HP44H-mtel"
   }
  ],
  "Multilaser": [

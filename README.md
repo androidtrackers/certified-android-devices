@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-19
+Last sync is 2025-06-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8415,6 +8415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENIE|VT8216|VT8216|VT8216|
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
 |ENV(EC)|ENV_NOTE_X|ENV_NOTE_X|ENV NOTE X|
+|ENV(EC)|note 16|note_16|note 16|
 |EONSmartBox|CHOTT0102|CHOTT0102|CHOTT0102|
 |EONSmartBox|CHSTB02|CHSTB02|CHSTB02|
 |EONSmartBox|EONSmartBox|KNSTB02|KNSTB02|
@@ -24609,6 +24610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mtek|MTEK|mountbaker|2K SMART TV|
 |Mtek|MTEK|stanford|2K SMART TV|
 |Mtek|MTEK|zhongshan|4K SMART TV|
+|Mtel|HP44H|HP44H-mtel|HP44H-mtel|
 |Multilaser|Brazil|martin|Multilaser Android TV|
 |Multilaser|DI01_M7_WIFI|DI01_M7_WIFI|DI01_M7_WIFI|
 |Multilaser|Discovery|Discovery|Discovery|
