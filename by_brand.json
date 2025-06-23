@@ -58322,6 +58322,11 @@
    "device": "Tablet_HQ_T616",
    "name": "Tablet_HQ_T616",
    "model": "l11"
+  },
+  {
+   "device": "Tablet_HQ_T616",
+   "name": "Tablet_HQ_T616",
+   "model": "redbeat A2"
   }
  ],
  "HRSolutions": [
@@ -139479,6 +139484,11 @@
    "model": "PKZ110"
   },
   {
+   "device": "OP5F05L1",
+   "name": "Reno14 Pro 5G",
+   "model": "CPH2739"
+  },
+  {
    "device": "OP4B65L1",
    "name": "Reno2 Z",
    "model": "CPH1945"
@@ -164167,6 +164177,11 @@
    "device": "a35x",
    "name": "Galaxy A35 5G",
    "model": "SM-S356V"
+  },
+  {
+   "device": "SC-54F",
+   "name": "Galaxy A36 5G",
+   "model": "SC-54F"
   },
   {
    "device": "a36xq",
@@ -200591,6 +200606,11 @@
    "device": "rk3588_t",
    "name": "TEC_Board",
    "model": "CA-ET"
+  },
+  {
+   "device": "rk3576",
+   "name": "TEConnect_IFPD",
+   "model": "CG_series"
   }
  ],
  "TEKLIO": [
@@ -203828,6 +203848,11 @@
    "model": "T65Max_ROW"
   },
   {
+   "device": "T65",
+   "name": "T65_ROW",
+   "model": "T65_ROW"
+  },
+  {
    "device": "T70_EEA",
    "name": "T70_EEA",
    "model": "T70_EEA"
@@ -205608,6 +205633,11 @@
    "device": "TECNO-KM5",
    "name": "TECNO SPARK 40",
    "model": "TECNO KM5"
+  },
+  {
+   "device": "TECNO-KM5n",
+   "name": "TECNO SPARK 40",
+   "model": "TECNO KM5n"
   },
   {
    "device": "TECNO-KM6",

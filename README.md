@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-22
+Last sync is 2025-06-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11206,6 +11206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|T700|
 |HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|Tablet_HQ_T616|
 |HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|l11|
+|HQ_bel|Tablet_HQ_T616|Tablet_HQ_T616|redbeat A2|
 |HRSolutions|HRS2000|HRS2000|HRS2000|
 |HTC||express|HTC Flyer|
 |HTC||express|PG41200|
@@ -27085,6 +27086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno13 Pro 5G|OP5EC5L1|CPH2697|
 |Oppo|Reno14|OP5E0BL1|PLA110|
 |Oppo|Reno14 Pro|OP5E07L1|PKZ110|
+|Oppo|Reno14 Pro 5G|OP5F05L1|CPH2739|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -31865,6 +31867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A35 5G|a35x|SM-A356U1|
 |Samsung|Galaxy A35 5G|a35x|SM-A356W|
 |Samsung|Galaxy A35 5G|a35x|SM-S356V|
+|Samsung|Galaxy A36 5G|SC-54F|SC-54F|
 |Samsung|Galaxy A36 5G|a36xq|SM-A3660|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366B|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366E|
@@ -39069,6 +39072,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECO|TL55U12TRE|samseong|AI PONT|
 |TEConnect|CHALK_2series|CHALK_2series|CHALK_2series|
 |TEConnect|TEC_Board|rk3588_t|CA-ET|
+|TEConnect|TEConnect_IFPD|rk3576|CG_series|
 |TEKLIO|Smart TV|redwood|AI PONT|
 |TELE System|EU、UK、AP|martin|TELESYSTEM 2K Android TV|
 |TELE System|Italy，Poland|Czech|BeNeLux|
@@ -39678,6 +39682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T65Max_A_ROW|T65Max_A_ROW|T65Max_A_ROW|
 |Teclast|T65Max_EEA|T65Max_EEA|T65Max_EEA|
 |Teclast|T65Max_ROW|T65Max_ROW|T65Max_ROW|
+|Teclast|T65_ROW|T65|T65_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|
 |Teclast|T70_ROW|T70_ROW|T70_ROW|
 |Teclast|T8|T8|T8|
@@ -40034,6 +40039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6|TECNO KC6|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
 |Tecno|TECNO SPARK 40|TECNO-KM5|TECNO KM5|
+|Tecno|TECNO SPARK 40|TECNO-KM5n|TECNO KM5n|
 |Tecno|TECNO SPARK 40 Pro|TECNO-KM6|TECNO KM6|
 |Tecno|TECNO SPARK 40 Pro+|TECNO-KM7|TECNO KM7|
 |Tecno|TECNO SPARK 40C|TECNO-KM4k|TECNO KM4k|
