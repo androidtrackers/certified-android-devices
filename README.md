@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-23
+Last sync is 2025-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3646,6 +3646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bauf|BAUF|zhongshan|4K SMART TV|
 |Bauhn|4K Smart TV|gangbyeon|4K AI Smart TV|
 |Bauhn|ATAB10-1224|ATAB10-1224|ATAB10-1224|
+|Bauhn|ATAB7-0125|ATAB7-0125|AIBTAB7-1125|
 |Bauhn|ATAB7-0125|ATAB7-0125|ATAB7-0125|
 |Bauhn|Australia|nippori|Bauhn Android TV 2K|
 |Bauhn|BAUHN|bangbae|BAUHN 4K Android TV|
@@ -7389,6 +7390,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denso Wave|BHT-M70-QWG-A10|BHT-M70-QWG-A10|BHT-M70-QWG-A10|
 |Denso Wave|BHT-M80-QW-A10|BHT-M80-QW-A10|BHT-M80-QW-A10|
 |Denso Wave|BHT-M80-QWG-A10|BHT-M80-QWG-A10|BHT-M80-QWG-A10|
+|Denso Wave|X-N10|X-N10|X-N10|
+|Denso Wave|X-N15|X-N15|X-N15|
 |Denver Electronics|SCQ-50001G|SCQ-50001G|SCQ-50001G|
 |Denver Electronics|SDQ-55034L|SDQ-55034L|SDQ-55034L|
 |Denver Electronics|SDQ-55044L|SDQ-55044L|SDQ-55044L|
@@ -16046,6 +16049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 50i|Infinix-X6531|Infinix X6531|
 |Infinix|Infinix HOT 50i|Infinix-X6531B|Infinix X6531B|
 |Infinix|Infinix HOT 60 Pro|Infinix-X6885|Infinix X6885|
+|Infinix|Infinix HOT 60i|Infinix-X6728|Infinix X6728|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -30525,9 +30529,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Pad|yunluo|22081283G|
 |Redmi|Redmi Pad 2|taiko|25040RP0AE|
 |Redmi|Redmi Pad 2|taiko|25040RP0AG|
+|Redmi|Redmi Pad 2|taiko|25040RP0AI|
 |Redmi|Redmi Pad 2|taiko|25040RP0AL|
 |Redmi|Redmi Pad 2 4G|koto|2505DRP06E|
 |Redmi|Redmi Pad 2 4G|koto|2505DRP06G|
+|Redmi|Redmi Pad 2 Wi-Fi + Cellular|koto|2505DRP06I|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDC|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDI|
@@ -35221,6 +35227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|HC-16TT1|HCTT1|HCTT1|
 |Sharp|HJ6000|egaleo|AQUOS-TVW24C|
 |Sharp|HL6500|egaleo|AQUOS-TVW24B|
+|Sharp|HU8500|gilmore|AQUOS-TVW24A|
 |Sharp|INFOBAR A01|SHX11|INFOBAR A01|
 |Sharp|INFOBAR C01|SHX12|INFOBAR C01|
 |Sharp|IS01|SHI01|IS01|
@@ -39655,6 +39662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T50HD_ROW|T50HD_ROW|T50HD|
 |Teclast|T50Max_EEA|T50Max_EEA|T50Max_EEA|
 |Teclast|T50Max_ROW|T50Max_ROW|T50Max_ROW|
+|Teclast|T50Plus_E_EEA|T50Plus_E|T50Plus_E_EEA|
 |Teclast|T50Pro_W_EEA|T50Pro_W_EEA|T50Pro_W_EEA|
 |Teclast|T50Pro_W_ROW|T50Pro_W_ROW|T50Pro_W_ROW|
 |Teclast|T50_2022_EEA|T50_2022_EEA|T50_EEA|
@@ -41377,6 +41385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|RT40|SQ47|RT40|
 |Urovo|RT40S|RT40S|RT40S|
 |Urovo|U2|SQ46M|U2|
+|Urovo|U2S|U2S|U2S|
 |Urovo|i6200Series|i6200Series|i6200Series|
 |Urovo|i6310|i6310|i6310|
 |Urovo|i9000S|i9000S|i9000S|
@@ -44370,6 +44379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 7 Ultra|jinghu|25032RP42C|
 |Xiaomi|Xiaomi Smart Projector L1|tianshan|C025RGN|
 |Xiaomi|Xiaomi Smart Projector L1 Pro|tianshan|C045RGN|
+|Xiaomi|Xiaomi TV|arctictale|MiTV-AXFU0|
 |Xiaomi|Xiaomi TV Box S|twilight|MiTV-AFMU0|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
@@ -47660,6 +47670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3933|RE6054|RMX3933|
 |realme|RMX3939|RE6054|RMX3939|
 |realme|RMX3940|RE606B|RMX3940|
+|realme|RMX3943|RE6092|RMX3943|
 |realme|RMX3944|RE6083L1|RMX3944|
 |realme|RMX3945|RE6092|RMX3945|
 |realme|RMX3990|RE5CA3L1|RMX3990|
@@ -48030,6 +48041,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|X200 FE|V2503|V2503|
+|vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|

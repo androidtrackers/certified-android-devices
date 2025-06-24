@@ -18874,6 +18874,11 @@
   {
    "device": "ATAB7-0125",
    "name": "ATAB7-0125",
+   "model": "AIBTAB7-1125"
+  },
+  {
+   "device": "ATAB7-0125",
+   "name": "ATAB7-0125",
    "model": "ATAB7-0125"
   },
   {
@@ -38303,6 +38308,16 @@
    "device": "BHT-M80-QWG-A10",
    "name": "BHT-M80-QWG-A10",
    "model": "BHT-M80-QWG-A10"
+  },
+  {
+   "device": "X-N10",
+   "name": "X-N10",
+   "model": "X-N10"
+  },
+  {
+   "device": "X-N15",
+   "name": "X-N15",
+   "model": "X-N15"
   }
  ],
  "Denver Electronics": [
@@ -82846,6 +82861,11 @@
    "device": "Infinix-X6885",
    "name": "Infinix HOT 60 Pro",
    "model": "Infinix X6885"
+  },
+  {
+   "device": "Infinix-X6728",
+   "name": "Infinix HOT 60i",
+   "model": "Infinix X6728"
   },
   {
    "device": "Infinix-X623",
@@ -157161,6 +157181,11 @@
   {
    "device": "taiko",
    "name": "Redmi Pad 2",
+   "model": "25040RP0AI"
+  },
+  {
+   "device": "taiko",
+   "name": "Redmi Pad 2",
    "model": "25040RP0AL"
   },
   {
@@ -157172,6 +157197,11 @@
    "device": "koto",
    "name": "Redmi Pad 2 4G",
    "model": "2505DRP06G"
+  },
+  {
+   "device": "koto",
+   "name": "Redmi Pad 2 Wi-Fi + Cellular",
+   "model": "2505DRP06I"
   },
   {
    "device": "dizi",
@@ -181025,6 +181055,11 @@
    "model": "AQUOS-TVW24B"
   },
   {
+   "device": "gilmore",
+   "name": "HU8500",
+   "model": "AQUOS-TVW24A"
+  },
+  {
    "device": "SHX11",
    "name": "INFOBAR A01",
    "model": "INFOBAR A01"
@@ -203713,6 +203748,11 @@
    "model": "T50Max_ROW"
   },
   {
+   "device": "T50Plus_E",
+   "name": "T50Plus_E_EEA",
+   "model": "T50Plus_E_EEA"
+  },
+  {
    "device": "T50Pro_W_EEA",
    "name": "T50Pro_W_EEA",
    "model": "T50Pro_W_EEA"
@@ -212641,6 +212681,11 @@
    "device": "SQ46M",
    "name": "U2",
    "model": "U2"
+  },
+  {
+   "device": "U2S",
+   "name": "U2S",
+   "model": "U2S"
   },
   {
    "device": "i6200Series",
@@ -228056,6 +228101,11 @@
    "device": "tianshan",
    "name": "Xiaomi Smart Projector L1 Pro",
    "model": "C045RGN"
+  },
+  {
+   "device": "arctictale",
+   "name": "Xiaomi TV",
+   "model": "MiTV-AXFU0"
   },
   {
    "device": "twilight",
@@ -245012,6 +245062,11 @@
    "model": "RMX3940"
   },
   {
+   "device": "RE6092",
+   "name": "RMX3943",
+   "model": "RMX3943"
+  },
+  {
    "device": "RE6083L1",
    "name": "RMX3944",
    "model": "RMX3944"
@@ -246924,6 +246979,16 @@
    "device": "V2504",
    "name": "T4 Ultra",
    "model": "V2504"
+  },
+  {
+   "device": "V2503",
+   "name": "X200 FE",
+   "model": "V2503"
+  },
+  {
+   "device": "V2503",
+   "name": "X200 FE",
+   "model": "V2505"
   },
   {
    "device": "V2430",
