@@ -38703,6 +38703,11 @@
  ],
  "Digi": [
   {
+   "device": "DIGI_R2A",
+   "name": "DIGI R2A",
+   "model": "DIGI R2A"
+  },
+  {
    "device": "Digi_C1",
    "name": "Digi C1",
    "model": "Digi C1"
@@ -48917,6 +48922,11 @@
   }
  ],
  "Figgers": [
+  {
+   "device": "F-tab",
+   "name": "F-tab",
+   "model": "F-tab"
+  },
   {
    "device": "Figgers_DragonX",
    "name": "Figgers DragonX",
@@ -70071,6 +70081,11 @@
    "device": "HNROL-M",
    "name": "荣耀平板V9",
    "model": "ROL-W10"
+  },
+  {
+   "device": "HNROL-M",
+   "name": "荣耀平板V9",
+   "model": "tb8792p1_64_wifi"
   }
  ],
  "Hoozo": [
@@ -87678,6 +87693,11 @@
    "device": "itel-P10005L",
    "name": "itel VistaTab 11",
    "model": "itel P10005L"
+  },
+  {
+   "device": "itel-P11002L",
+   "name": "itel VistaTab 30S",
+   "model": "itel P11002L"
   },
   {
    "device": "itel-W4001",
@@ -113734,6 +113754,13 @@
    "device": "DV6071Z-KTM",
    "name": "Max Play",
    "model": "Max Play"
+  }
+ ],
+ "MOREFUN": [
+  {
+   "device": "M90",
+   "name": "M90",
+   "model": "M90"
   }
  ],
  "MOVI": [
@@ -142943,6 +142970,13 @@
    "model": "POOLS_The_DOLLAR"
   }
  ],
+ "POP TV": [
+  {
+   "device": "POPTV_B866V2F01",
+   "name": "POP TV N9000",
+   "model": "POP TV N9000"
+  }
+ ],
  "POPTEL": [
   {
    "device": "Kammunica_V10",
@@ -157846,6 +157880,11 @@
    "device": "TB02_E",
    "name": "TB02_E",
    "model": "TB02_E"
+  },
+  {
+   "device": "TB02_EEA_A",
+   "name": "TB02_EEA_A",
+   "model": "TB02"
   },
   {
    "device": "TB02_EUR",
@@ -192321,6 +192360,11 @@
    "model": "SH-C03"
   },
   {
+   "device": "Seoul",
+   "name": "Alcatel 1B",
+   "model": "5002W"
+  },
+  {
    "device": "BeyondTV",
    "name": "Beyond TV",
    "model": "BeyondTV"
@@ -192776,6 +192820,11 @@
    "model": "T781"
   },
   {
+   "device": "Ottawa",
+   "name": "TCL 20 Pro 5G",
+   "model": "T810H"
+  },
+  {
    "device": "Buffalo",
    "name": "TCL 20 R 5G",
    "model": "T767H"
@@ -192801,6 +192850,11 @@
    "model": "T671O"
   },
   {
+   "device": "Jakarta_Lite_refresh",
+   "name": "TCL 205",
+   "model": "4187D"
+  },
+  {
    "device": "HONG_KONG",
    "name": "TCL 20E",
    "model": "6125A"
@@ -192819,6 +192873,26 @@
    "device": "HONG_KONG",
    "name": "TCL 20E",
    "model": "6125H_RU"
+  },
+  {
+   "device": "Richland",
+   "name": "TCL 20L",
+   "model": "T774B"
+  },
+  {
+   "device": "Richland",
+   "name": "TCL 20L",
+   "model": "T774H"
+  },
+  {
+   "device": "Richland_Pro",
+   "name": "TCL 20L+",
+   "model": "T775B"
+  },
+  {
+   "device": "Richland_Pro",
+   "name": "TCL 20L+",
+   "model": "T775H"
   },
   {
    "device": "Miami_Pro",
@@ -192849,6 +192923,16 @@
    "device": "Passat",
    "name": "TCL 30",
    "model": "T676H"
+  },
+  {
+   "device": "Passat_5G",
+   "name": "TCL 30 5G",
+   "model": "T776H"
+  },
+  {
+   "device": "Passat_5G",
+   "name": "TCL 30 5G",
+   "model": "T776O"
   },
   {
    "device": "Jetta_Visible",
@@ -192921,14 +193005,34 @@
    "model": "5131G"
   },
   {
+   "device": "Wright_Pro",
+   "name": "TCL 304",
+   "model": "4163D"
+  },
+  {
+   "device": "Cruze_Lite",
+   "name": "TCL 305",
+   "model": "6102A"
+  },
+  {
    "device": "Cruze_Lite",
    "name": "TCL 305",
    "model": "6102D"
   },
   {
+   "device": "Corolla",
+   "name": "TCL 305i",
+   "model": "5164D"
+  },
+  {
    "device": "Cruze_Lite_S",
    "name": "TCL 306",
    "model": "6102H"
+  },
+  {
+   "device": "Cruze_Lite_S",
+   "name": "TCL 306",
+   "model": "6102K"
   },
   {
    "device": "Cruze",
@@ -192986,6 +193090,11 @@
    "model": "T609L"
   },
   {
+   "device": "Encore_VZW",
+   "name": "TCL 40 XE 5G",
+   "model": "T609SPP"
+  },
+  {
    "device": "Encore_Visible",
    "name": "TCL 40 XE 5G",
    "model": "T609B"
@@ -192994,6 +193103,11 @@
    "device": "Rio",
    "name": "TCL 403",
    "model": "T431A"
+  },
+  {
+   "device": "Rio",
+   "name": "TCL 403",
+   "model": "T431D"
   },
   {
    "device": "Rio",
@@ -193011,9 +193125,19 @@
    "model": "T431Q"
   },
   {
+   "device": "Rio",
+   "name": "TCL 403",
+   "model": "T431U"
+  },
+  {
    "device": "Civic",
    "name": "TCL 405",
    "model": "T506A"
+  },
+  {
+   "device": "Civic",
+   "name": "TCL 405",
+   "model": "T506D"
   },
   {
    "device": "Civic_S",
@@ -193034,6 +193158,11 @@
    "device": "Civic_S",
    "name": "TCL 406s",
    "model": "T506T"
+  },
+  {
+   "device": "Civic_Plus",
+   "name": "TCL 408",
+   "model": "T507D"
   },
   {
    "device": "Civic_Plus",
@@ -193101,9 +193230,24 @@
    "model": "T611B"
   },
   {
+   "device": "Dragonfly_TF",
+   "name": "TCL 50 XE 5G",
+   "model": "T614D"
+  },
+  {
    "device": "Dragonfly_VZW",
    "name": "TCL 50 XE 5G",
    "model": "T614SP"
+  },
+  {
+   "device": "Dragonfly_CAN",
+   "name": "TCL 50 XE NXTPAPER 5G",
+   "model": "T614J"
+  },
+  {
+   "device": "Dragonfly_OM",
+   "name": "TCL 50 XE NXTPAPER 5G",
+   "model": "T614WS"
   },
   {
    "device": "Goldfinch_TMO",
@@ -193136,9 +193280,24 @@
    "model": "T433E"
   },
   {
+   "device": "Lotus",
+   "name": "TCL 502",
+   "model": "T442J"
+  },
+  {
    "device": "Rio_CAN",
    "name": "TCL 502",
    "model": "T432J"
+  },
+  {
+   "device": "Lotus",
+   "name": "TCL 503",
+   "model": "T442A"
+  },
+  {
+   "device": "Lotus",
+   "name": "TCL 503",
+   "model": "T442M"
   },
   {
    "device": "Ant",
@@ -193194,6 +193353,26 @@
    "device": "Sunrise_NA_OM",
    "name": "TCL 60 XE NXTPAPER 5G",
    "model": "T705M"
+  },
+  {
+   "device": "DahliaS",
+   "name": "TCL 603",
+   "model": "T451H"
+  },
+  {
+   "device": "Vinca",
+   "name": "TCL 605",
+   "model": "T517D"
+  },
+  {
+   "device": "Vinca",
+   "name": "TCL 605",
+   "model": "T517F"
+  },
+  {
+   "device": "Vinca",
+   "name": "TCL 605",
+   "model": "T517J"
   },
   {
    "device": "Aster",
@@ -193254,6 +193433,11 @@
    "device": "ScarabLite_TMO",
    "name": "TCL K23",
    "model": "T434W"
+  },
+  {
+   "device": "Scarab_Lite_TF",
+   "name": "TCL K24",
+   "model": "T434D"
   },
   {
    "device": "Beryl_TMO",
@@ -193378,12 +193562,22 @@
   {
    "device": "Odin2",
    "name": "TCL NXTPAPER 10s",
+   "model": "9080G"
+  },
+  {
+   "device": "Odin2",
+   "name": "TCL NXTPAPER 10s",
    "model": "9081X"
   },
   {
    "device": "Eternals11",
    "name": "TCL NXTPAPER 11",
    "model": "9466X"
+  },
+  {
+   "device": "Ares_Vis_WIFI",
+   "name": "TCL NXTPAPER 11 Gen2",
+   "model": "9465X"
   },
   {
    "device": "Bellona_WF_GL",
@@ -193394,6 +193588,11 @@
    "device": "Hera_Vis_WIFI",
    "name": "TCL NXTPAPER 14",
    "model": "9491G"
+  },
+  {
+   "device": "Hercules_Wifi",
+   "name": "TCL NXTPAPER 14 Pro",
+   "model": "9463A1"
   },
   {
    "device": "T1",
@@ -193456,14 +193655,44 @@
    "model": "9048S"
   },
   {
+   "device": "Logan",
+   "name": "TCL TAB 10",
+   "model": "9160G"
+  },
+  {
    "device": "Aquaman_10_4G",
    "name": "TCL TAB 10 4G",
    "model": "8094X"
   },
   {
+   "device": "Odin5GACG",
+   "name": "TCL TAB 10 5G",
+   "model": "9183W"
+  },
+  {
+   "device": "Logan_FHD",
+   "name": "TCL TAB 10 FHD",
+   "model": "9161G"
+  },
+  {
+   "device": "Logan_FHD",
+   "name": "TCL TAB 10 FHD",
+   "model": "9461G"
+  },
+  {
    "device": "Aquaman_10_Pro",
    "name": "TCL TAB 10 FHD 4G",
    "model": "9060G"
+  },
+  {
+   "device": "Logan",
+   "name": "TCL TAB 10 HD",
+   "model": "9160G"
+  },
+  {
+   "device": "Logan",
+   "name": "TCL TAB 10 HD",
+   "model": "9160G1"
   },
   {
    "device": "Aquaman_10_Pro",
@@ -193576,6 +193805,11 @@
    "model": "9309X2"
   },
   {
+   "device": "Apollo_8_4G",
+   "name": "TCL TAB 8",
+   "model": "9132X"
+  },
+  {
    "device": "Luna",
    "name": "TCL TAB 8",
    "model": "9132G"
@@ -193591,6 +193825,11 @@
    "model": "9032X"
   },
   {
+   "device": "Apollo_8_4G",
+   "name": "TCL TAB 8 4G",
+   "model": "9132G"
+  },
+  {
    "device": "Venus_WiFi_GL",
    "name": "TCL TAB 8 Gen2",
    "model": "8188X"
@@ -193604,6 +193843,11 @@
    "device": "Venus_4G_GL",
    "name": "TCL TAB 8 LTE Gen2",
    "model": "8188G"
+  },
+  {
+   "device": "Apollo_8_4G",
+   "name": "TCL TAB 8 NEO",
+   "model": "9032"
   },
   {
    "device": "Luna_8_4G_VZW",
@@ -193641,9 +193885,19 @@
    "model": "9150S"
   },
   {
+   "device": "Logan",
+   "name": "TCL TAB HD WIFI",
+   "model": "9460G"
+  },
+  {
    "device": "Apollo84GBoostR",
    "name": "TCL TAB Lite",
    "model": "9132S"
+  },
+  {
+   "device": "Apollo84GUSCC",
+   "name": "TCL TAB Lite",
+   "model": "9132L"
   },
   {
    "device": "Thor_8_4G_VZW",
@@ -193661,9 +193915,24 @@
    "model": "8196G"
   },
   {
+   "device": "Transformer2",
+   "name": "TCL TABMAX 10.4",
+   "model": "9296Q"
+  },
+  {
    "device": "Challenger_TH",
    "name": "TCL stylus 5G",
    "model": "T779P"
+  },
+  {
+   "device": "E8",
+   "name": "TCL 随学园 E8 4G",
+   "model": "9011"
+  },
+  {
+   "device": "Odin_5G",
+   "name": "TCL 随学堂 L10 5G",
+   "model": "9183T"
   },
   {
    "device": "Macau",
@@ -196855,6 +197124,11 @@
    "model": "Orange Rise 54_Alcatel_5033D"
   },
   {
+   "device": "Corolla",
+   "name": "Alcatel 1 SE Lite",
+   "model": "5064A"
+  },
+  {
    "device": "Seoul",
    "name": "Alcatel 1A",
    "model": "5002F_RU"
@@ -198093,6 +198367,16 @@
    "device": "Lion-5",
    "name": "Flash2_7049D",
    "model": "Flash2_7049D"
+  },
+  {
+   "device": "Titan_Vis_5G",
+   "name": "GL TCL",
+   "model": "9194T"
+  },
+  {
+   "device": "Titan_Vis_Wifi",
+   "name": "GL TCL",
+   "model": "9494G"
   },
   {
    "device": "alto5_sporty",
@@ -199465,6 +199749,16 @@
    "model": "A507DL"
   },
   {
+   "device": "Transformer2",
+   "name": "TBD",
+   "model": "9199G"
+  },
+  {
+   "device": "Seattle_VZW",
+   "name": "TCL 10 5G UW",
+   "model": "T790S"
+  },
+  {
    "device": "Festa5_CU",
    "name": "TCL 302U",
    "model": "TCL 302U"
@@ -199478,6 +199772,11 @@
    "device": "Cruze_Lite",
    "name": "TCL 305",
    "model": "6102D"
+  },
+  {
+   "device": "Corolla",
+   "name": "TCL 305i",
+   "model": "5164A"
   },
   {
    "device": "Cruze",
@@ -199760,6 +200059,11 @@
    "model": "TCL M2U"
   },
   {
+   "device": "Titan_Vis_5G",
+   "name": "TCL NXTPAPER PRO 12 5G",
+   "model": "9194T"
+  },
+  {
    "device": "Cooper_40",
    "name": "TCL P301C",
    "model": "TCL P301C"
@@ -199940,6 +200244,11 @@
    "model": "5004S"
   },
   {
+   "device": "Challenger_TMO",
+   "name": "TCL Stylus 5G",
+   "model": "T779W"
+  },
+  {
    "device": "evoque_cn",
    "name": "TCL T500L",
    "model": "TCL T500L"
@@ -199978,6 +200287,11 @@
    "device": "EOS_Plus",
    "name": "TCL i718M",
    "model": "TCL i709M"
+  },
+  {
+   "device": "Da_Vinci_4G",
+   "name": "TCL 随学堂 S8 4G",
+   "model": "9288M"
   },
   {
    "device": "shine_plus",
@@ -212340,6 +212654,11 @@
   {
    "device": "PA768",
    "name": "PA768",
+   "model": "PA768"
+  },
+  {
+   "device": "PA768",
+   "name": "PA768e",
    "model": "PA768"
   },
   {
@@ -246847,6 +247166,11 @@
    "device": "ugeeUT1Lite_RU",
    "name": "UT2",
    "model": "UT2"
+  },
+  {
+   "device": "Hera_Vis_WIFI",
+   "name": "UT3 Drawing Pad",
+   "model": "UT3"
   }
  ],
  "unitel": [
@@ -246981,6 +247305,11 @@
    "model": "V2504"
   },
   {
+   "device": "PD2436",
+   "name": "X Fold5",
+   "model": "V2436A"
+  },
+  {
    "device": "V2503",
    "name": "X200 FE",
    "model": "V2503"
@@ -246994,6 +247323,11 @@
    "device": "V2430",
    "name": "Y04e",
    "model": "V2532"
+  },
+  {
+   "device": "V2439",
+   "name": "Y400 Pro 5G",
+   "model": "V2439"
   },
   {
    "device": "V2440",

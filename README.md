@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-25
+Last sync is 2025-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7463,6 +7463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dicle_Tab|Dicle Tab Ultra|Tab_Ultra|Tab_Ultra|
 |Dicle_Tab|Dicle Tab XPAD|Dicle_Tab_XPAD|U1101|
 |Dicle_Tab|Dicle_Tab_Active|Active|Active|
+|Digi|DIGI R2A|DIGI_R2A|DIGI R2A|
 |Digi|Digi C1|Digi_C1|Digi C1|
 |Digi|Digi C2|Digi_C2|Digi C2|
 |Digi|Digi K2|Digi_K2|Digi K2|
@@ -9408,6 +9409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FieldBio|FieldBio_500|FieldBio_500|FieldBio_500|
 |Fiesta Duo|S6|S6|S6|
 |Fiesta Duo|iX|iX|iX|
+|Figgers|F-tab|F-tab|F-tab|
 |Figgers|Figgers DragonX|Figgers_DragonX|Figgers DragonX|
 |Figgers|Figgers F3|Figgers_F3|Figgers F3|
 |Figi|FIGI Fone|Fone|Fone|
@@ -13529,6 +13531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
 |Honor|荣耀平板V9|HNROL-M|ROL-W00|
 |Honor|荣耀平板V9|HNROL-M|ROL-W10|
+|Honor|荣耀平板V9|HNROL-M|tb8792p1_64_wifi|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -17000,6 +17003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel VistaTab  30|itel-P10003L|itel P10003L|
 |Itel|itel VistaTab 10|itel-P10004L|itel P10004L|
 |Itel|itel VistaTab 11|itel-P10005L|itel P10005L|
+|Itel|itel VistaTab 30S|itel-P11002L|itel P11002L|
 |Itel|itel W4001|itel-W4001|itel W4001|
 |Itel|itel W4001O|itel-W4001O|itel W4001O|
 |Itel|itel W4001OZ|itel-W4001OZ|itel W4001O|
@@ -22080,6 +22084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOBULAA|S6|S6|S6|
 |MOBULAA|Tab-1|Tab-1|Tab-1|
 |MONOMAX|Max Play|DV6071Z-KTM|Max Play|
+|MOREFUN|M90|M90|M90|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
 |MOVIC|A5501|A5501|A5501|
 |MOVIC|Dual|Dual|Dual|
@@ -27757,6 +27762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|Poco M7 Pro 5G|citrine|2409FPCC4G|
 |POLSAT|polsat soundbox 4K|m391_polsat|polsat soundbox 4K|
 |POOLS|POOLS The DOLLAR|POOLS_The_DOLLAR|POOLS_The_DOLLAR|
+|POP TV|POP TV N9000|POPTV_B866V2F01|POP TV N9000|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
 |POPTEL|P60|P60|P60|
 |POPTEL|P8|P8|P8|
@@ -30660,6 +30666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
 |Relndoo|TB02|TB02|TB02|
 |Relndoo|TB02_E|TB02_E|TB02_E|
+|Relndoo|TB02_EEA_A|TB02_EEA_A|TB02|
 |Relndoo|TB02_EUR|TB02_EUR|TB02|
 |Relndoo|TB02_ROW|TB02_ROW|TB02|
 |Remdun|RD-52|RD52|RD52|
@@ -37419,6 +37426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|3T10 WIFI KDDI|Aquaman_10_KDDI|8194|
 |TCL|A1|T1_LE|T770K|
 |TCL|AQUOS V6|Cruze_Lite_S|SH-C03|
+|TCL|Alcatel 1B|Seoul|5002W|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
@@ -37510,21 +37518,29 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 5G|Irvine|T781|
+|TCL|TCL 20 Pro 5G|Ottawa|T810H|
 |TCL|TCL 20 R 5G|Buffalo|T767H|
 |TCL|TCL 20 SE|Austin|T671E|
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|
 |TCL|TCL 20 SE|Austin|T671O|
+|TCL|TCL 205|Jakarta_Lite_refresh|4187D|
 |TCL|TCL 20E|HONG_KONG|6125A|
 |TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20E|HONG_KONG|6125H_RU|
+|TCL|TCL 20L|Richland|T774B|
+|TCL|TCL 20L|Richland|T774H|
+|TCL|TCL 20L+|Richland_Pro|T775B|
+|TCL|TCL 20L+|Richland_Pro|T775H|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156H|
 |TCL|TCL 20Y|Hong_Kong_Pro|A1 Alpha 21|
 |TCL|TCL 30|Passat|T676H|
+|TCL|TCL 30 5G|Passat_5G|T776H|
+|TCL|TCL 30 5G|Passat_5G|T776O|
 |TCL|TCL 30 LE|Jetta_Visible|4188V|
 |TCL|TCL 30 SE|Cruze_Pro|6165A|
 |TCL|TCL 30 SE|Cruze_Pro|6165H|
@@ -37539,8 +37555,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 30+|Passat|T676J|
 |TCL|TCL 30+|Passat|T676K|
 |TCL|TCL 303|Kona|5131G|
+|TCL|TCL 304|Wright_Pro|4163D|
+|TCL|TCL 305|Cruze_Lite|6102A|
 |TCL|TCL 305|Cruze_Lite|6102D|
+|TCL|TCL 305i|Corolla|5164D|
 |TCL|TCL 306|Cruze_Lite_S|6102H|
+|TCL|TCL 306|Cruze_Lite_S|6102K|
 |TCL|TCL 30E|Cruze|6127I|
 |TCL|TCL 40 NXTPAPER|Ladybird_Pro|T612B|
 |TCL|TCL 40 NXTPAPER 5G|Firefly|T771K|
@@ -37552,16 +37572,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 XE 5G|Encore_CAN|T609J|
 |TCL|TCL 40 XE 5G|Encore_Spectrum|T609V|
 |TCL|TCL 40 XE 5G|Encore_USCC|T609L|
+|TCL|TCL 40 XE 5G|Encore_VZW|T609SPP|
 |TCL|TCL 40 XE 5G|Encore_Visible|T609B|
 |TCL|TCL 403|Rio|T431A|
+|TCL|TCL 403|Rio|T431D|
 |TCL|TCL 403|Rio|T431E|
 |TCL|TCL 403|Rio|T431P|
 |TCL|TCL 403|Rio|T431Q|
+|TCL|TCL 403|Rio|T431U|
 |TCL|TCL 405|Civic|T506A|
+|TCL|TCL 405|Civic|T506D|
 |TCL|TCL 406|Civic_S|T506G|
 |TCL|TCL 406|Civic_S|T506K|
 |TCL|TCL 406i|Civic_S_Refresh|T506F|
 |TCL|TCL 406s|Civic_S|T506T|
+|TCL|TCL 408|Civic_Plus|T507D|
 |TCL|TCL 408|Civic_Plus|T507F|
 |TCL|TCL 408|Civic_Plus|T507J|
 |TCL|TCL 408|Civic_Plus|T507U|
@@ -37575,14 +37600,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 PRO NXTPAPER 5G|Goldfinch_NP_Pro|T803D|
 |TCL|TCL 50 PRO NXTPAPER 5G|Goldfinch_NP_Pro|T803E|
 |TCL|TCL 50 SE|Ladybird|T611B|
+|TCL|TCL 50 XE 5G|Dragonfly_TF|T614D|
 |TCL|TCL 50 XE 5G|Dragonfly_VZW|T614SP|
+|TCL|TCL 50 XE NXTPAPER 5G|Dragonfly_CAN|T614J|
+|TCL|TCL 50 XE NXTPAPER 5G|Dragonfly_OM|T614WS|
 |TCL|TCL 50 XL 5G|Goldfinch_TMO|T702W|
 |TCL|TCL 50 XL NXTPAPER 5G|Goldfinch_Pro_CS|T702M|
 |TCL|TCL 50 XL NXTPAPER 5G|Ruby_TF|T704V|
 |TCL|TCL 50 XL NXTPAPER 5G|Ruby_VZW|T704SP|
 |TCL|TCL 501|Bee_One|T433D|
 |TCL|TCL 501|Bee_One|T433E|
+|TCL|TCL 502|Lotus|T442J|
 |TCL|TCL 502|Rio_CAN|T432J|
+|TCL|TCL 503|Lotus|T442A|
+|TCL|TCL 503|Lotus|T442M|
 |TCL|TCL 505|Ant|T509A|
 |TCL|TCL 505|Ant|T509K|
 |TCL|TCL 505 S|Ant|T509A|
@@ -37594,6 +37625,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521N|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_NA_OM|T705M|
+|TCL|TCL 603|DahliaS|T451H|
+|TCL|TCL 605|Vinca|T517D|
+|TCL|TCL 605|Vinca|T517F|
+|TCL|TCL 605|Vinca|T517J|
 |TCL|TCL 60R 5G|Aster|T519H|
 |TCL|TCL 60R 5G|Aster|T519N|
 |TCL|TCL A3X|Delhi_TF|A600DL|
@@ -37606,6 +37641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL ION X|Bora_NA_OM|T430WS|
 |TCL|TCL ION X|Bora_TMO|T430W|
 |TCL|TCL K23|ScarabLite_TMO|T434W|
+|TCL|TCL K24|Scarab_Lite_TF|T434D|
 |TCL|TCL K32 5G|Beryl_TMO|T513W|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
@@ -37630,10 +37666,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9 Plus|Wright|5101J|
 |TCL|TCL L9S|Tokyo_Lite|5107G|
 |TCL|TCL L9S|Tokyo_Lite|5107J|
+|TCL|TCL NXTPAPER 10s|Odin2|9080G|
 |TCL|TCL NXTPAPER 10s|Odin2|9081X|
 |TCL|TCL NXTPAPER 11|Eternals11|9466X|
+|TCL|TCL NXTPAPER 11 Gen2|Ares_Vis_WIFI|9465X|
 |TCL|TCL NXTPAPER 11 Plus|Bellona_WF_GL|9469X|
 |TCL|TCL NXTPAPER 14|Hera_Vis_WIFI|9491G|
+|TCL|TCL NXTPAPER 14 Pro|Hercules_Wifi|9463A1|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -37646,8 +37685,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL T9+|TokyoPro|5129A|
 |TCL|TCL T9x|TokyoPro|5129Y|
 |TCL|TCL TAB|Thor_8_4G_VZW|9048S|
+|TCL|TCL TAB 10|Logan|9160G|
 |TCL|TCL TAB 10 4G|Aquaman_10_4G|8094X|
+|TCL|TCL TAB 10 5G|Odin5GACG|9183W|
+|TCL|TCL TAB 10 FHD|Logan_FHD|9161G|
+|TCL|TCL TAB 10 FHD|Logan_FHD|9461G|
 |TCL|TCL TAB 10 FHD 4G|Aquaman_10_Pro|9060G|
+|TCL|TCL TAB 10 HD|Logan|9160G|
+|TCL|TCL TAB 10 HD|Logan|9160G1|
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X|
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X_EEA|
 |TCL|TCL TAB 10 NXTPAPER 5G|Optimus_5G_VZW|9199S|
@@ -37670,12 +37715,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 11 LTE|Eternals11|9166G|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X2|
+|TCL|TCL TAB 8|Apollo_8_4G|9132X|
 |TCL|TCL TAB 8|Luna|9132G|
 |TCL|TCL TAB 8|Luna|9132X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
+|TCL|TCL TAB 8 4G|Apollo_8_4G|9132G|
 |TCL|TCL TAB 8 Gen2|Venus_WiFi_GL|8188X|
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB 8 LTE Gen2|Venus_4G_GL|8188G|
+|TCL|TCL TAB 8 NEO|Apollo_8_4G|9032|
 |TCL|TCL TAB 8 Plus|Luna_8_4G_VZW|9138S|
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136K|
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136R|
@@ -37683,11 +37731,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
 |TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
+|TCL|TCL TAB HD WIFI|Logan|9460G|
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
+|TCL|TCL TAB Lite|Apollo84GUSCC|9132L|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TCL TAB10 Gen2|Gaia|8496G|
 |TCL|TCL TAB10 LTE Gen2|Gaia|8196G|
+|TCL|TCL TABMAX 10.4|Transformer2|9296Q|
 |TCL|TCL stylus 5G|Challenger_TH|T779P|
+|TCL|TCL 随学园 E8 4G|E8|9011|
+|TCL|TCL 随学堂 L10 5G|Odin_5G|9183T|
 |TCL|TCL201|Macau|5133MP|
 |TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN|
 |TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN_EEA|
@@ -38325,6 +38378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|HEYOU10|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Orange Rise 54_Alcatel_5033D|
+|TCT (Alcatel)|Alcatel 1 SE Lite|Corolla|5064A|
 |TCT (Alcatel)|Alcatel 1A|Seoul|5002F_RU|
 |TCT (Alcatel)|Alcatel 1B|Kona|5031A|
 |TCT (Alcatel)|Alcatel 1B|Kona|5031D|
@@ -38573,6 +38627,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|FL03|FLASH3|FL03|
 |TCT (Alcatel)|Flash Plus 2|shine_plus|FL02|
 |TCT (Alcatel)|Flash2_7049D|Lion-5|Flash2_7049D|
+|TCT (Alcatel)|GL TCL|Titan_Vis_5G|9194T|
+|TCT (Alcatel)|GL TCL|Titan_Vis_Wifi|9494G|
 |TCT (Alcatel)|Go PLAY|alto5_sporty|7048A|
 |TCT (Alcatel)|Go PLAY|alto5_sporty|7048S|
 |TCT (Alcatel)|Go PLAY|alto5_sporty|7048W|
@@ -38847,9 +38903,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002C|
 |TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002R|
 |TCT (Alcatel)|TBD|Seoul_TF|A507DL|
+|TCT (Alcatel)|TBD|Transformer2|9199G|
+|TCT (Alcatel)|TCL 10 5G UW|Seattle_VZW|T790S|
 |TCT (Alcatel)|TCL 302U|Festa5_CU|TCL 302U|
 |TCT (Alcatel)|TCL 303|Kona|5131A|
 |TCT (Alcatel)|TCL 305|Cruze_Lite|6102D|
+|TCT (Alcatel)|TCL 305i|Corolla|5164A|
 |TCT (Alcatel)|TCL 30E|Cruze|6127A|
 |TCT (Alcatel)|TCL 40 R 5G|Levin|T771A|
 |TCT (Alcatel)|TCL 40 R 5G|Levin|T771K|
@@ -38906,6 +38965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL LX|U50A_PLUS_TF|A502DL|
 |TCT (Alcatel)|TCL M2M|CROSS2|TCL M2M|
 |TCT (Alcatel)|TCL M2U|CROSS2|TCL M2U|
+|TCT (Alcatel)|TCL NXTPAPER PRO 12 5G|Titan_Vis_5G|9194T|
 |TCT (Alcatel)|TCL P301C|Cooper_40|TCL P301C|
 |TCT (Alcatel)|TCL P301M|TCL_P301M|TCL P301M|
 |TCT (Alcatel)|TCL P302C|Cooper40|TCL P302C|
@@ -38942,6 +39002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL S960|DIABLOXPLUS|TCL S960|
 |TCT (Alcatel)|TCL S960T|DIABLOXPLUS|TCL S960T|
 |TCT (Alcatel)|TCL SIGNA|Dubai_VZW|5004S|
+|TCT (Alcatel)|TCL Stylus 5G|Challenger_TMO|T779W|
 |TCT (Alcatel)|TCL T500L|evoque_cn|TCL T500L|
 |TCT (Alcatel)|TCL XL2|EDISON_TF|A503DL|
 |TCT (Alcatel)|TCL Y900|Scribe5HD_GSM|TCL Y900|
@@ -38950,6 +39011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL i708U|EOS_MACAN|TCL i708U|
 |TCT (Alcatel)|TCL i718M|EOS2|TCL i718M|
 |TCT (Alcatel)|TCL i718M|EOS_Plus|TCL i709M|
+|TCT (Alcatel)|TCL 随学堂 S8 4G|Da_Vinci_4G|9288M|
 |TCT (Alcatel)|TCL-550|shine_plus|TCL-550|
 |TCT (Alcatel)|TCL-J320D|Daniel_lite_2S|TCL-J320D|
 |TCT (Alcatel)|TCL-J900C|TCL_J900C|TCL-J900C|
@@ -41321,6 +41383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|PA760_EE|PA760|PA760|
 |Unitech|PA760_FP|PA760|PA760|
 |Unitech|PA768|PA768|PA768|
+|Unitech|PA768e|PA768|PA768|
 |Unitech|RT112|RT112|RT112|
 |Unitech|TB85|TB85|TB85|
 |Unitech|TB85Plus|TB85Plus|TB85Plus|
@@ -48017,6 +48080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ugee|UT1Lite_NOEEA|ugeeUT1Lite_NOEEA|UT2|
 |ugee|UT2|ugeeUT1Lite_EEA|UT2|
 |ugee|UT2|ugeeUT1Lite_RU|UT2|
+|ugee|UT3 Drawing Pad|Hera_Vis_WIFI|UT3|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|
 |unitel|U902|U902|U902|
@@ -48041,9 +48105,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|X Fold5|PD2436|V2436A|
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|
+|vivo|Y400 Pro 5G|V2439|V2439|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
