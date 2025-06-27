@@ -50591,6 +50591,18 @@
    "model": "FS500"
   }
  ],
+ "Freeski": [
+  {
+   "device": "C12",
+   "name": "C12",
+   "model": "C12"
+  },
+  {
+   "device": "C12",
+   "name": "C12_EEA",
+   "model": "C12"
+  }
+ ],
  "Freetel": [
   {
    "device": "Cricket_Wave",
@@ -66577,6 +66589,11 @@
   {
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
+   "model": "Hisense C90 Pro"
+  },
+  {
+   "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
    "model": "Hisense M71 Pro"
   },
   {
@@ -81404,6 +81421,11 @@
    "model": "TA10E1W63"
   },
   {
+   "device": "Apollo_8_4G",
+   "name": "TE081N1",
+   "model": "TE081"
+  },
+  {
    "device": "Luna",
    "name": "TE082M2",
    "model": "TE082M2"
@@ -81472,6 +81494,16 @@
    "device": "TM083",
    "name": "TM083",
    "model": "TM083M4"
+  },
+  {
+   "device": "Odin",
+   "name": "TM101",
+   "model": "TM101"
+  },
+  {
+   "device": "Odin2",
+   "name": "TM101",
+   "model": "TM101"
   },
   {
    "device": "TM102",
@@ -112906,6 +112938,11 @@
    "device": "16A_Pro",
    "name": "16A Pro",
    "model": "16A_Pro"
+  },
+  {
+   "device": "24S_Ultra",
+   "name": "24S_Ultra",
+   "model": "24S_Ultra"
   }
  ],
  "MCTV": [
@@ -119368,6 +119405,13 @@
    "device": "rk3588_t",
    "name": "MimioPro-G XX5",
    "model": "MimioProG5"
+  }
+ ],
+ "Mimo": [
+  {
+   "device": "MCT_101EDL",
+   "name": "MCT_101EDL",
+   "model": "MCT-101EDL"
   }
  ],
  "Mingtronics": [
@@ -139524,6 +139568,21 @@
    "device": "OP5E0BL1",
    "name": "Reno14",
    "model": "PLA110"
+  },
+  {
+   "device": "OP5F02L1",
+   "name": "Reno14 5G",
+   "model": "CPH2737"
+  },
+  {
+   "device": "OP5F0FL1",
+   "name": "Reno14 F 5G",
+   "model": "CPH2743"
+  },
+  {
+   "device": "OP5F0FL1",
+   "name": "Reno14 F 5G/Reno14 FS 5G",
+   "model": "CPH2743"
   },
   {
    "device": "OP5E07L1",
@@ -192130,6 +192189,11 @@
    "model": "REVVLution"
   },
   {
+   "device": "Doha_TMO",
+   "name": "TCL 20 XE",
+   "model": "5087Z"
+  },
+  {
    "device": "SEI400TM",
    "name": "TVision",
    "model": "TVision"
@@ -192360,6 +192424,16 @@
    "model": "SH-C03"
   },
   {
+   "device": "Cruze_Pro",
+   "name": "AQUOS V6 plus",
+   "model": "SH-C04"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033E"
+  },
+  {
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002W"
@@ -192533,6 +192607,11 @@
    "device": "G13",
    "name": "G13_2K_GB",
    "model": "Smart TV"
+  },
+  {
+   "device": "Titan_Vis_Wifi",
+   "name": "GL TCL",
+   "model": "9494G"
   },
   {
    "device": "U3A_PLUS_4G",
@@ -192805,6 +192884,16 @@
    "model": "9295G_RU"
   },
   {
+   "device": "Jakarta_Mini",
+   "name": "TCL 103",
+   "model": "4165F"
+  },
+  {
+   "device": "Jakarta_Mini",
+   "name": "TCL 103",
+   "model": "4165J"
+  },
+  {
    "device": "T1_LITE",
    "name": "TCL 10L",
    "model": "T770B"
@@ -193040,6 +193129,11 @@
    "model": "6127I"
   },
   {
+   "device": "Buffalo_TMO",
+   "name": "TCL 30XE 5G",
+   "model": "T767W"
+  },
+  {
    "device": "Ladybird_Pro",
    "name": "TCL 40 NXTPAPER",
    "model": "T612B"
@@ -193255,6 +193349,11 @@
    "model": "T702W"
   },
   {
+   "device": "Goldfinch_Dish",
+   "name": "TCL 50 XL NXTPAPER 5G",
+   "model": "T702Z"
+  },
+  {
    "device": "Goldfinch_Pro_CS",
    "name": "TCL 50 XL NXTPAPER 5G",
    "model": "T702M"
@@ -193430,6 +193529,11 @@
    "model": "T430W"
   },
   {
+   "device": "Rio_TMO",
+   "name": "TCL K11",
+   "model": "T432W"
+  },
+  {
    "device": "ScarabLite_TMO",
    "name": "TCL K23",
    "model": "T434W"
@@ -193558,6 +193662,11 @@
    "device": "Tokyo_Lite",
    "name": "TCL L9S",
    "model": "5107J"
+  },
+  {
+   "device": "Da_Vinci_4G",
+   "name": "TCL NXTPAPAER 4G",
+   "model": "9288A"
   },
   {
    "device": "Odin2",
@@ -193695,6 +193804,11 @@
    "model": "9160G1"
   },
   {
+   "device": "Logan",
+   "name": "TCL TAB 10 HD",
+   "model": "9460G"
+  },
+  {
    "device": "Aquaman_10_Pro",
    "name": "TCL TAB 10 HD 4G",
    "model": "9060X"
@@ -193743,6 +193857,16 @@
    "device": "Freyr_10_1_4G",
    "name": "TCL TAB 10L LTE Gen 2",
    "model": "8192A"
+  },
+  {
+   "device": "Freyr_Pro_4G_U",
+   "name": "TCL TAB 10L LTE Gen 3",
+   "model": "8193A"
+  },
+  {
+   "device": "Freyr_Pro_4G_U",
+   "name": "TCL TAB 10L LTE Gen 3",
+   "model": "8194A"
   },
   {
    "device": "Aquaman_10_Pro",
@@ -193818,6 +193942,11 @@
    "device": "Luna",
    "name": "TCL TAB 8",
    "model": "9132X"
+  },
+  {
+   "device": "Apollo_8_4G",
+   "name": "TCL TAB 8 4G",
+   "model": "9032T"
   },
   {
    "device": "Apollo_8_4G",
@@ -193935,6 +194064,11 @@
    "model": "9183T"
   },
   {
+   "device": "Titan_12_Vision_Wifi",
+   "name": "TCL 随学堂 L12 Pro",
+   "model": "9494G"
+  },
+  {
    "device": "Macau",
    "name": "TCL201",
    "model": "5133MP"
@@ -193988,6 +194122,11 @@
    "device": "U3A_7_WIFI_Refresh",
    "name": "alcatel 1T7 NEW",
    "model": "9309X_TR"
+  },
+  {
+   "device": "Jetta_VZW",
+   "name": "tbd",
+   "model": "4188S"
   }
  ],
  "TCST": [
@@ -197001,6 +197140,16 @@
   {
    "device": "Macau",
    "name": "Alcatel 1",
+   "model": "5033D"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033D_EEA"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
    "model": "5033EP"
   },
   {
@@ -197016,7 +197165,37 @@
   {
    "device": "Macau",
    "name": "Alcatel 1",
+   "model": "5033F_EEA"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033F_RU"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033M"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
    "model": "5033MP"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033Q"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033Y"
+  },
+  {
+   "device": "Macau",
+   "name": "Alcatel 1",
+   "model": "5033Y_EEA"
   },
   {
    "device": "U3A_PLUS_4G",
@@ -197147,6 +197326,11 @@
    "device": "Kona",
    "name": "Alcatel 1B",
    "model": "5031G"
+  },
+  {
+   "device": "Kona",
+   "name": "Alcatel 1B",
+   "model": "5031J"
   },
   {
    "device": "Kona",
@@ -197332,6 +197516,26 @@
    "device": "Wright_Pro",
    "name": "Alcatel 1L PLUS",
    "model": "4063F"
+  },
+  {
+   "device": "Jakarta_Mini",
+   "name": "Alcatel 1L Pro",
+   "model": "4065D"
+  },
+  {
+   "device": "Jakarta_Mini",
+   "name": "Alcatel 1L Pro",
+   "model": "4065D_EEA"
+  },
+  {
+   "device": "Jakarta_Mini",
+   "name": "Alcatel 1L Pro",
+   "model": "4065D_RU"
+  },
+  {
+   "device": "Jakarta_Mini",
+   "name": "Alcatel 1L Pro",
+   "model": "4065F"
   },
   {
    "device": "Faraday",
@@ -198154,6 +198358,11 @@
    "model": "5060J"
   },
   {
+   "device": "Dubai_Plus_ATT",
+   "name": "Alcatel AXEL™",
+   "model": "Alcatel_5004R"
+  },
+  {
    "device": "EasyTAB8MPCS",
    "name": "Alcatel JOY TAB",
    "model": "9029Z"
@@ -198637,6 +198846,11 @@
    "device": "move_2_gsm",
    "name": "Moov2",
    "model": "move 2"
+  },
+  {
+   "device": "Bremen_NA_OM",
+   "name": "NA",
+   "model": "T768O"
   },
   {
    "device": "VFD500",
@@ -199734,6 +199948,11 @@
    "model": "9032W"
   },
   {
+   "device": "Jetta_ATT",
+   "name": "TBD",
+   "model": "4188C"
+  },
+  {
    "device": "Seoul_ATT",
    "name": "TBD",
    "model": "Alcatel_5002C"
@@ -199759,6 +199978,16 @@
    "model": "T790S"
   },
   {
+   "device": "Jetta_ATT",
+   "name": "TCL 30 Z",
+   "model": "4188R"
+  },
+  {
+   "device": "Jetta_TF",
+   "name": "TCL 30 Z",
+   "model": "T602DL"
+  },
+  {
    "device": "Festa5_CU",
    "name": "TCL 302U",
    "model": "TCL 302U"
@@ -199782,6 +200011,11 @@
    "device": "Cruze",
    "name": "TCL 30E",
    "model": "6127A"
+  },
+  {
+   "device": "Irvine_VZW",
+   "name": "TCL 30V 5G",
+   "model": "T781SPP"
   },
   {
    "device": "Levin",
@@ -200289,6 +200523,11 @@
    "model": "TCL i709M"
   },
   {
+   "device": "Odin2",
+   "name": "TCL 随学堂 L10",
+   "model": "9080X"
+  },
+  {
    "device": "Da_Vinci_4G",
    "name": "TCL 随学堂 S8 4G",
    "model": "9288M"
@@ -200689,6 +200928,11 @@
    "model": "9032X_TR"
   },
   {
+   "device": "Apollo_8_4G",
+   "name": "alcatel 3T8 WIFI",
+   "model": "9032"
+  },
+  {
    "device": "PIXI4_55_3G",
    "name": "alcatel PIXI 4 (5.5)",
    "model": "5012D"
@@ -200787,6 +201031,11 @@
    "device": "Apollo_8_4G_TMO",
    "name": "tbd",
    "model": "9032Z"
+  },
+  {
+   "device": "Cruze_Lite_TF",
+   "name": "tbd",
+   "model": "T603DL"
   },
   {
    "device": "FERMI_TF",
@@ -245409,6 +245658,11 @@
    "device": "RE5C94L1",
    "name": "RMX3998",
    "model": "RMX3998"
+  },
+  {
+   "device": "RE6066L1",
+   "name": "RMX5000",
+   "model": "RMX5000"
   },
   {
    "device": "RE60ADL1",
