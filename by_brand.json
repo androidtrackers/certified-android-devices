@@ -29775,6 +29775,11 @@
    "model": "Hi10_XPro_Pad"
   },
   {
+   "device": "Hi10_XPro_RUU",
+   "name": "Hi10_XPro_RUU",
+   "model": "Hi10 Xpro"
+  },
+  {
    "device": "Hi9",
    "name": "Hi9",
    "model": "Hi9"
@@ -43661,6 +43666,11 @@
   }
  ],
  "ENV(EC)": [
+  {
+   "device": "ENV_Kidz_8",
+   "name": "ENV_Kidz_8",
+   "model": "ENV_Kidz_8"
+  },
   {
    "device": "ENV_NOTE_X",
    "name": "ENV_NOTE_X",
@@ -160045,6 +160055,11 @@
    "device": "K11_US",
    "name": "K11_US",
    "model": "K11_US"
+  },
+  {
+   "device": "K13-U-EEA",
+   "name": "K13-U-EEA",
+   "model": "K13-EEA"
   },
   {
    "device": "K13_EEA",

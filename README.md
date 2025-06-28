@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-27
+Last sync is 2025-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5745,6 +5745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|Hi10_XPro_Pad|Hi10_XPro_Pad|Hi10_XPro_Pad|
 |Chuwi|Hi10_XPro_Pad_EEA|Hi10_XPro_Pad_EEA|Hi10 XPro|
 |Chuwi|Hi10_XPro_Pad_EEA|Hi10_XPro_Pad_EEA|Hi10_XPro_Pad|
+|Chuwi|Hi10_XPro_RUU|Hi10_XPro_RUU|Hi10 Xpro|
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
 |Chuwi|HiPad 11|HiPad_11|HiPad 11|
@@ -8418,6 +8419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENIE|SKT706|SKT706|SKT706|
 |ENIE|VT8216|VT8216|VT8216|
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
+|ENV(EC)|ENV_Kidz_8|ENV_Kidz_8|ENV_Kidz_8|
 |ENV(EC)|ENV_NOTE_X|ENV_NOTE_X|ENV NOTE X|
 |ENV(EC)|note 16|note_16|note 16|
 |EONSmartBox|CHOTT0102|CHOTT0102|CHOTT0102|
@@ -31063,6 +31065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY Perfect JSAT|SKP-IS401|SKP-IS401|SKP-IS401|
 |SKYEGG|K11_EEA|K11_EEA|K11_EEA|
 |SKYEGG|K11_US|K11_US|K11_US|
+|SKYEGG|K13-U-EEA|K13-U-EEA|K13-EEA|
 |SKYEGG|K13_EEA|K13_EEA|K13_EEA|
 |SKYEGG|K13_US|K13_US|K13_US|
 |SKYEGG|K15_EEA|K15_EEA|K15_EEA|
