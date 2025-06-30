@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-29
+Last sync is 2025-06-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7987,6 +7987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|U10 Pro|RK1S|U10 Pro|
 |Doogee|U10KID|RK1KID|U10 Kid|
 |Doogee|U10KID|RK1KID|U10Kid|
+|Doogee|U11|T2|T2|
 |Doogee|U11|T2|U11|
 |Doogee|U11 Pro|T2U|U11 Pro|
 |Doogee|U8|RK3|U8|
@@ -31350,6 +31351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|X3|X3|X3|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|STUDYNLEARN|IS-IFPSeries|mensa_an64|IS-IFPSeries|
 |STboard|HJ_M2|HJ_M2|HJ_M2|
 |STboard|HJ_TD|HJ_TD|HJ_TD|
 |SUAAT|G2_S_EEA|G2_EEA|G2_EEA|
@@ -44763,6 +44765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yuho|Yuho_Tab8|Yuho_Tab8|TC8091|
 |Yumpingo|YUMPINGO_1|YUMPINGO_1|YUMPINGO_1|
 |ZAIKAI|Mannat_Smart_Board|mensa_an64|G-8600|
+|ZAIKAI|ZAIKAI|t7_an400|G-8600|
 |ZAMOLXE|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|
 |ZAMOLXE|ZXT-10HL323S|ZXT-10HL323S|ZXT-10HL323S|
 |ZCS(SZ)|Z91|Z91|Z91|

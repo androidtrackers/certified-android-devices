@@ -41389,6 +41389,11 @@
   {
    "device": "T2",
    "name": "U11",
+   "model": "T2"
+  },
+  {
+   "device": "T2",
+   "name": "U11",
    "model": "U11"
   },
   {
@@ -161552,6 +161557,13 @@
    "model": "STK Ace"
   }
  ],
+ "STUDYNLEARN": [
+  {
+   "device": "mensa_an64",
+   "name": "IS-IFPSeries",
+   "model": "IS-IFPSeries"
+  }
+ ],
  "STboard": [
   {
    "device": "HJ_M2",
@@ -230126,6 +230138,11 @@
   {
    "device": "mensa_an64",
    "name": "Mannat_Smart_Board",
+   "model": "G-8600"
+  },
+  {
+   "device": "t7_an400",
+   "name": "ZAIKAI",
    "model": "G-8600"
   }
  ],
