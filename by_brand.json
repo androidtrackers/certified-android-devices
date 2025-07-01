@@ -15777,6 +15777,13 @@
    "model": "HiSmartTV A4"
   }
  ],
+ "BILIMLI": [
+  {
+   "device": "BILIMLI2025",
+   "name": "BILIMLI2025",
+   "model": "BILIMLI2025"
+  }
+ ],
  "BIOSfone": [
   {
    "device": "T11",
@@ -22082,6 +22089,11 @@
    "device": "Australia",
    "name": "Japan",
    "model": "Italy"
+  },
+  {
+   "device": "Tablet_player",
+   "name": "Kansas_City_150",
+   "model": "Kansas_City_150"
   },
   {
    "device": "SW4H",
@@ -147403,6 +147415,11 @@
    "model": "PM67"
   },
   {
+   "device": "PM68",
+   "name": "PM68",
+   "model": "PM68"
+  },
+  {
    "device": "pm70",
    "name": "PM70",
    "model": "PM70"
@@ -190748,6 +190765,11 @@
  ],
  "Sun_King": [
   {
+   "device": "EZ1_go",
+   "name": "EZ_1",
+   "model": "EZ 1"
+  },
+  {
    "device": "EZ_1",
    "name": "EZ_1",
    "model": "EZ 1"
@@ -193283,6 +193305,11 @@
   {
    "device": "Civic_Plus",
    "name": "TCL 408",
+   "model": "T507A"
+  },
+  {
+   "device": "Civic_Plus",
+   "name": "TCL 408",
    "model": "T507D"
   },
   {
@@ -193484,6 +193511,11 @@
    "device": "DahliaS",
    "name": "TCL 603",
    "model": "T451H"
+  },
+  {
+   "device": "Vinca",
+   "name": "TCL 605",
+   "model": "T517A"
   },
   {
    "device": "Vinca",
@@ -221568,6 +221600,11 @@
    "model": "VFD 1100"
   },
   {
+   "device": "V_Lite_3",
+   "name": "V Lite 3",
+   "model": "V Lite 3"
+  },
+  {
    "device": "P809V50",
    "name": "VDF 600",
    "model": "VFD 600"
@@ -226842,6 +226879,11 @@
    "device": "xgimiapollo",
    "name": "P_FHD_2020",
    "model": "P_FHD_2020"
+  },
+  {
+   "device": "XHSM",
+   "name": "XHSM",
+   "model": "XHSM"
   },
   {
    "device": "xgimigalileo",

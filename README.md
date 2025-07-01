@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-06-30
+Last sync is 2025-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3047,6 +3047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BGH S.A.|BGH Smart TV|sunnyvale|BGH Smart TV|
 |BGH S.A.|fushan_BGH|hamamatsucho|Smart TV|
 |BGH S.A.|xiaoyushan-bgh|xiaoyushan|HiSmartTV A4|
+|BILIMLI|BILIMLI2025|BILIMLI2025|BILIMLI2025|
 |BIOSfone|T11|T11|T11|
 |BKAV|B2017|B2017|B2017|
 |BKAV|B2017|B2017|Bphone B2017|
@@ -4272,6 +4273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Europe|nagata|Blaupunkt Smart TV|
 |Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|Japan|Australia|Italy|
+|Blaupunkt|Kansas_City_150|Tablet_player|Kansas_City_150|
 |Blaupunkt|MP3-A 4K TV|SW4H|MP3-A 4K TV|
 |Blaupunkt|MP3TV|shinjuku|MP3-A 2K TV|
 |Blaupunkt|North America|Central America|hongik|
@@ -28625,6 +28627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM550R|pm550r|PM550|
 |Point Mobile|PM66|pm66|PM66|
 |Point Mobile|PM67|PM67|PM67|
+|Point Mobile|PM68|PM68|PM68|
 |Point Mobile|PM70|pm70|PM70|
 |Point Mobile|PM75|PM75|PM75|
 |Point Mobile|PM80|pm80|PM80|
@@ -37120,6 +37123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sumtec|DV9061|ATL|DV9061|
+|Sun_King|EZ_1|EZ1_go|EZ 1|
 |Sun_King|EZ_1|EZ_1|EZ 1|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunbrite|huangshan_sunbrite|huangshan|SmartTV 4K|
@@ -37609,6 +37613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 406|Civic_S|T506K|
 |TCL|TCL 406i|Civic_S_Refresh|T506F|
 |TCL|TCL 406s|Civic_S|T506T|
+|TCL|TCL 408|Civic_Plus|T507A|
 |TCL|TCL 408|Civic_Plus|T507D|
 |TCL|TCL 408|Civic_Plus|T507F|
 |TCL|TCL 408|Civic_Plus|T507J|
@@ -37650,6 +37655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_NA_OM|T705M|
 |TCL|TCL 603|DahliaS|T451H|
+|TCL|TCL 605|Vinca|T517A|
 |TCL|TCL 605|Vinca|T517D|
 |TCL|TCL 605|Vinca|T517F|
 |TCL|TCL 605|Vinca|T517J|
@@ -43116,6 +43122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Tab Prime 7|VFD1400|VFD 1400|
 |Vodafone|Tab Prime 7|VFD1400|VFD1400|
 |Vodafone|Tab mini 7|Tab7|VFD 1100|
+|Vodafone|V Lite 3|V_Lite_3|V Lite 3|
 |Vodafone|VDF 600|P809V50|VFD 600|
 |Vodafone|VF-1296|voda_tab|Vodacom Power Tab 10|
 |Vodafone|VF-1296|voda_tab|Vodafone Tab grand 6|
@@ -44130,6 +44137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
 |XGIMI|P_FHD_2020|xgimiapollo|Mogo Pro Plus|
 |XGIMI|P_FHD_2020|xgimiapollo|P_FHD_2020|
+|XGIMI|XHSM|XHSM|XHSM|
 |XGIMI|XK03H|xgimigalileo|XK03H|
 |XION|XI_CEU55|XI_CEU55|XI_CEU55|
 |XL Axiata|AX512|DV8252|AX512|
