@@ -56008,6 +56008,11 @@
    "model": "cherry"
   },
   {
+   "device": "rauru_cheets",
+   "name": "Mediatek MT8196 Chromebook",
+   "model": "rauru"
+  },
+  {
    "device": "hana_cheets",
    "name": "Mediatek MTK8173 Chromebook",
    "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
@@ -91094,6 +91099,11 @@
    "device": "hongkong",
    "name": "EcoTV Plus D",
    "model": "EcoTV Plus D"
+  },
+  {
+   "device": "kapellen",
+   "name": "EcoTV2",
+   "model": "EcoTV2"
   },
   {
    "device": "hongkong",
@@ -133071,6 +133081,11 @@
    "model": "A142P"
   },
   {
+   "device": "Metroid",
+   "name": "Nothing Phone (3)",
+   "model": "A024"
+  },
+  {
    "device": "Asteroids",
    "name": "Nothing Phone (3a)",
    "model": "A059"
@@ -135782,6 +135797,16 @@
    "model": "CPH2663"
   },
   {
+   "device": "OP6131L1",
+   "name": "OnePlus Nord 5",
+   "model": "CPH2707"
+  },
+  {
+   "device": "OP6131L1",
+   "name": "OnePlus Nord 5",
+   "model": "CPH2709"
+  },
+  {
    "device": "OP555BL1",
    "name": "OnePlus Nord CE 2",
    "model": "IV2201"
@@ -136289,6 +136314,11 @@
    "device": "OMR60Q23O",
    "name": "Rugged60Q",
    "model": "Rugged60Q"
+  },
+  {
+   "device": "OMS5525B",
+   "name": "S55",
+   "model": "S55"
   },
   {
    "device": "SMARTJ5-M",
@@ -138525,6 +138555,11 @@
    "device": "OWWE251",
    "name": "OPPO Watch X2",
    "model": "OWWE251"
+  },
+  {
+   "device": "OWWE242",
+   "name": "OPPO Watch X2 Mini",
+   "model": "OWWE242"
   },
   {
    "device": "OP4AB5",
@@ -157958,6 +157993,11 @@
    "model": "TAB10"
   },
   {
+   "device": "TAB10_EUR",
+   "name": "TAB10_EUR",
+   "model": "TAB10"
+  },
+  {
    "device": "TAB10_ROW",
    "name": "TAB10_ROW",
    "model": "TAB10"
@@ -158887,6 +158927,11 @@
    "device": "S6537G",
    "name": "S6537G",
    "model": "S6537G"
+  },
+  {
+   "device": "S6539Q",
+   "name": "S6539Q",
+   "model": "Hot2"
   },
   {
    "device": "S6539Q",
@@ -189230,6 +189275,11 @@
    "device": "RK3576",
    "name": "ST_xx_CONNECT_PRO5",
    "model": "ST_xx_CONNECT_PRO5"
+  },
+  {
+   "device": "RK3576",
+   "name": "SUPERGLASS PRO",
+   "model": "ST_xx_CONNECT_SE5"
   }
  ],
  "Speedata": [

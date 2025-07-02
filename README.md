@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-01
+Last sync is 2025-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10766,6 +10766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Mediatek MT8188G Detachable|geralt_cheets|geralt|
 |Google|Mediatek MT8192 Chromebook|asurada_cheets|asurada|
 |Google|Mediatek MT8195 Chromebook|cherry_cheets|cherry|
+|Google|Mediatek MT8196 Chromebook|rauru_cheets|rauru|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MT8173 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
@@ -17646,6 +17647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EcoTV Plus A|hongkong|EcoTV Plus A|
 |KTCtv|EcoTV Plus C|hongkong|EcoTV Plus C|
 |KTCtv|EcoTV Plus D|hongkong|EcoTV Plus D|
+|KTCtv|EcoTV2|kapellen|EcoTV2|
 |KTCtv|FOL|hongkong|4K SMART TV|
 |KTCtv|FOL|mountbaker|2K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
@@ -25833,6 +25835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nothing|Nothing Phone (2)|Pong|AIN065|
 |Nothing|Nothing Phone (2a)|Pacman|A142|
 |Nothing|Nothing Phone (2a) Plus|PacmanPro|A142P|
+|Nothing|Nothing Phone (3)|Metroid|A024|
 |Nothing|Nothing Phone (3a)|Asteroids|A059|
 |Nothing|Nothing Phone (3a) Pro|Asteroids|A059P|
 |Nous|Fabulous|NS5005|NS5005|
@@ -26348,6 +26351,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord 3 5G|OP556FL1|CPH2493|
 |OnePlus|OnePlus Nord 4|OP5E93L1|CPH2661|
 |OnePlus|OnePlus Nord 4|OP5E93L1|CPH2663|
+|OnePlus|OnePlus Nord 5|OP6131L1|CPH2707|
+|OnePlus|OnePlus Nord 5|OP6131L1|CPH2709|
 |OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
@@ -26447,6 +26452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OpelMobile|Opel Mobile_Smart_J2|Smart_J2|Smart_J2|
 |OpelMobile|Opel Smart60R|OMS60R24B|Smart60R|
 |OpelMobile|Rugged60Q|OMR60Q23O|Rugged60Q|
+|OpelMobile|S55|OMS5525B|S55|
 |OpelMobile|SMARTJ5-M|SMARTJ5-M|SMARTJ5-M|
 |OpelMobile|SMARTKIDS|SMARTKIDS|SMARTKIDS|
 |OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
@@ -26893,6 +26899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|OPPO Watch X|OWWE231|OWWE231|
 |Oppo|OPPO Watch X2|OWWE251|OWWE251|
+|Oppo|OPPO Watch X2 Mini|OWWE242|OWWE242|
 |Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
 |Oppo|PDKT00|OP4ABB|PDKT00|
@@ -30680,6 +30687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10|TAB10|TAB10|
 |Relndoo|TAB10_EEA|TAB10_EEA|TAB10|
 |Relndoo|TAB10_EU|TAB10_EU|TAB10|
+|Relndoo|TAB10_EUR|TAB10_EUR|TAB10|
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
 |Relndoo|TB02|TB02|TB02|
 |Relndoo|TB02_E|TB02_E|TB02_E|
@@ -30853,6 +30861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6506|S6506|S6506|
 |Ruio|S6528|S6528|S6528|
 |Ruio|S6537G|S6537G|S6537G|
+|Ruio|S6539Q|S6539Q|Hot2|
 |Ruio|S6539Q|S6539Q|S6539Q|
 |Ruio|S6705|S6705|S6705|
 |Rumie|RT-1708|RT-1708|RT-1708|
@@ -36828,6 +36837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|Versity 9740|Versity|Versity 9740|
 |Spectralink|Versity 9753|Versity|Versity 9753|
 |Speechi|ST_xx_CONNECT_PRO5|RK3576|ST_xx_CONNECT_PRO5|
+|Speechi|SUPERGLASS PRO|RK3576|ST_xx_CONNECT_SE5|
 |Speedata|FG50|FG50|FG50|
 |Speedata|FG60|FG60|FG60|
 |Speedata|FG60 EEA|FG60|FG60|
