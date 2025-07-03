@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-02
+Last sync is 2025-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3614,6 +3614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BYYBUO|104S|104S|104S|
 |BYYBUO|A10_EU|A10_EU|A10_EU|
 |BYYBUO|A10_L|A10_L|A10_L|
+|BYYBUO|A10_M_US|A10_M_US|A10_M_US|
 |BYYBUO|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|
 |BYYBUO|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|
 |BYYBUO|E220_M_US|E220_M_US|E220_M_US|
@@ -8224,6 +8225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Durabrand|Central America|nippori|Durabrand 2K Android TV|
 |Durabrand|DB Android TV 2K|broadway|DB Android TV 2K|
 |Durabrand|DB Android TV 4K|dupont|DB Android TV 4K|
+|Durabrand|DURABRAND|elliniko|4K SMART TV|
 |Durabrand|Durabrand android TV|hanyang|Durabrand 4K Android TV|
 |Duubee|D601L|Gaia|D601L|
 |Duubee|DT1052|DT1052|DT1052|
@@ -13524,6 +13526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
 |Honor|Honor X9b 5G|HNALI-Q|ALI-NX3P|
 |Honor|Honor X9c Smart|HNBRC-M1|BRC-NX1|
+|Honor|MagicPad 3|HNCGA-Q|CGA-W00|
 |Honor|PORSCHE DESIGN HONOR Magic V2 RSR|HNVER|VER-N49DP|
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
@@ -26247,6 +26250,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|H93A|songni|H93A|
 |OnePlus|N1|songni|S70A|
 |OnePlus|N1 Pro|songni|H80A|
+|OnePlus|Nord CE5|OP613BL1|CPH2717|
+|OnePlus|Nord CE5|OP613BL1|CPH2719|
 |OnePlus|One|A0001|A0001|
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
@@ -28055,6 +28060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|JX900C|JX900C|Panasonic_TV|
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
+|Panasonic|LH_CTR|MTK9679|LH_CTR|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
 |Panasonic|NEXT Crew Terminal - AutoChip|NEXT820|NEXT|
 |Panasonic|NEXT Crew Terminal - IoT Chip|NEXT821|NEXT|
@@ -35050,6 +35056,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R compact 701SH|SG701SH|701SH|
 |Sharp|AQUOS R compact SH-M06|SH-M06|SH-M06|
 |Sharp|AQUOS R compact SHV41|JWT|SHV41|
+|Sharp|AQUOS R10|Lockon|A501SH|
+|Sharp|AQUOS R10|Lockon|SH-M31|
+|Sharp|AQUOS R10|SH-51F|SH-51F|
 |Sharp|AQUOS R2|SG706SH|706SH|
 |Sharp|AQUOS R2 SH-03K|SH-03K|SH-03K|
 |Sharp|AQUOS R2 SHV42|LYV|SHV42|
@@ -46921,6 +46930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO MINI|MAGNO_MINI|MAGNO MINI|
 |Zuum|MAGNO S|MAGNO_S|MAGNO S|
 |Zuum|MAGNO_P1|MAGNO_P1|MAGNO P1|
+|Zuum|MAGNO_P4|MAGNO_P4|MAGNO P4|
 |Zuum|Magno Pro|Magno_Pro|Magno Pro|
 |Zuum|NOVA_10|NOVA_10|NOVA_10|
 |Zuum|NOVUS_TAB|NOVUS_TAB|NOVUS TAB|

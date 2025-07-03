@@ -18698,6 +18698,11 @@
    "model": "A10_L"
   },
   {
+   "device": "A10_M_US",
+   "name": "A10_M_US",
+   "model": "A10_M_US"
+  },
+  {
    "device": "BYYBUO_SmartPad_A10",
    "name": "BYYBUO_SmartPad_A10",
    "model": "BYYBUO_SmartPad_A10"
@@ -42606,6 +42611,11 @@
    "device": "dupont",
    "name": "DB Android TV 4K",
    "model": "DB Android TV 4K"
+  },
+  {
+   "device": "elliniko",
+   "name": "DURABRAND",
+   "model": "4K SMART TV"
   },
   {
    "device": "hanyang",
@@ -70050,6 +70060,11 @@
    "device": "HNBRC-M1",
    "name": "Honor X9c Smart",
    "model": "BRC-NX1"
+  },
+  {
+   "device": "HNCGA-Q",
+   "name": "MagicPad 3",
+   "model": "CGA-W00"
   },
   {
    "device": "HNVER",
@@ -135277,6 +135292,16 @@
    "model": "H80A"
   },
   {
+   "device": "OP613BL1",
+   "name": "Nord CE5",
+   "model": "CPH2717"
+  },
+  {
+   "device": "OP613BL1",
+   "name": "Nord CE5",
+   "model": "CPH2719"
+  },
+  {
    "device": "A0001",
    "name": "One",
    "model": "A0001"
@@ -144479,6 +144504,11 @@
    "device": "KX-PRXA15",
    "name": "KX-PRXA15",
    "model": "Panasonic KX-PRXA15"
+  },
+  {
+   "device": "MTK9679",
+   "name": "LH_CTR",
+   "model": "LH_CTR"
   },
   {
    "device": "DMC-CM1",
@@ -180180,6 +180210,21 @@
    "device": "JWT",
    "name": "AQUOS R compact SHV41",
    "model": "SHV41"
+  },
+  {
+   "device": "Lockon",
+   "name": "AQUOS R10",
+   "model": "A501SH"
+  },
+  {
+   "device": "Lockon",
+   "name": "AQUOS R10",
+   "model": "SH-M31"
+  },
+  {
+   "device": "SH-51F",
+   "name": "AQUOS R10",
+   "model": "SH-51F"
   },
   {
    "device": "SG706SH",
@@ -241029,6 +241074,11 @@
    "device": "MAGNO_P1",
    "name": "MAGNO_P1",
    "model": "MAGNO P1"
+  },
+  {
+   "device": "MAGNO_P4",
+   "name": "MAGNO_P4",
+   "model": "MAGNO P4"
   },
   {
    "device": "Magno_Pro",
