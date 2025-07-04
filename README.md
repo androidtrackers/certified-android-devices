@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-03
+Last sync is 2025-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -180,6 +180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|Zenith|Zenith|Zenith|
 |AG Mobile|Zone|Zone|Zone|
 |AG Mobile|Zoom|Zoom|Zoom|
+|AGE (in)|AGE|elliniko|4K SMART TV|
 |AGE (in)|AGE|zhongshan|43F|
 |AGE (in)|Age|stanford|40D|
 |AGE (in)|India|tamachi|AGE FHD Android TV|
@@ -5180,6 +5181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star8|Corn_Star8|CORN Star8|
 |CORN|Star8|Star8|Star8|
 |CORN|Star8_3G|Star8_3G|Star8_3G|
+|CORN|Star9_Max|Star9_Max|Star9_Max|
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
@@ -9340,6 +9342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8M|T8M|T8M|
 |FOXXD|T8Plus|T8Plus|T8 Plus|
 |FOXXD|T8Pro|T8Pro|T8Pro|
+|FPD|FPD|elliniko|4K SMART TV|
 |FPD|FPD|hongkong|EcoTV Pro A|
 |FPD|FPD|hongkong|EcoTV Pro D|
 |FPD|FPD|hongkong|EcoTV Pro I|
@@ -17653,6 +17656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EcoTV2|kapellen|EcoTV2|
 |KTCtv|FOL|hongkong|4K SMART TV|
 |KTCtv|FOL|mountbaker|2K SMART TV|
+|KTCtv|FPS|elliniko|4K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
 |KTCtv|GTRONIC|elliniko|4K SMART TV|
 |KTCtv|Global|elliniko|GLOBAL GOOGLE TV 4K|
@@ -17712,6 +17716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|PHIMARK|lavender|4K SMART TV|
 |KTCtv|PHIMARK|mountbaker|2K SMART TV|
 |KTCtv|POWEROLOGY|hongkong|4K SMART TV|
+|KTCtv|QRIOM|elliniko|4K SMART TV|
 |KTCtv|QRIOM|hongkong|4K SMART TV|
 |KTCtv|QRIOM|lavender|4K SMART TV|
 |KTCtv|QRIOM|minami|2K SMART TV|
@@ -17791,6 +17796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KXD mobile|A07_go|A07_go|A07_go|
 |KXD mobile|A08|A08|A08|
 |KXD mobile|A11|A11|A11|
+|KXD mobile|Blus Sea S25 Plus|Blus_Sea_S25_Plus|Blus_Sea_S25_Plus|
 |KXD mobile|Blus_Sea_S25_Plus|Blus_Sea_S25_Plus|Blus_Sea_S25_Plus|
 |KXD mobile|D68S|D68S|D68S|
 |KXD mobile|D70R|D70R|D70R|
@@ -18378,6 +18384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|Android One S9|S9-KC_sprout|S9-KC|
 |Kyocera|BASIO|KYV32|KYV32|
 |Kyocera|BASIO 3|KYV43|KYV43|
+|Kyocera|BASIO active3|KY24L-SN100|KYG04|
 |Kyocera|BASIO4|KYV47|KYV47|
 |Kyocera|BASIO4|KYV47|KYV47-j|
 |Kyocera|BASIO4|KYV47|KYV47-u|
@@ -31037,6 +31044,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SILVERWIN|SWA10E5LTE|SWA10E5LTE|SWA10E5LTE|
 |SILVERWIN|SWA8E2|SWA8E2|SWA8E2|
 |SIMI|COOL2|COOL2|COOL2|
+|SIMI|COOL2|COOL2|Edge X2|
+|SIMI|COOL2|COOL2|Edge_X2|
 |SIMI|DREAM2|DREAM2|DREAM2|
 |SIMI|DREAM2|DREAM2|Dream2|
 |SINAL|SA08_310|SA08_310|SA08_310|
@@ -32044,6 +32053,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A56 5G|a56x|SM-A566B|
 |Samsung|Galaxy A56 5G|a56x|SM-A566E|
 |Samsung|Galaxy A56 5G|a56x|SM-A566S|
+|Samsung|Galaxy A56 5G|a56x|SM-A566U1|
+|Samsung|Galaxy A56 5G|a56x|SM-A566W|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -39345,6 +39356,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TORNADO|TORNADO 2K SMART TV|umeda|TORNADO 2K SMART TV|
 |TORNADO|TORNADO 4K SmartTV|SW6H|TORNADO 4K SmartTV|
 |TORNADO|TORNADO Android TV|SW4H|TORNADO Android TV|
+|TORNADO|TORNADO EA53 AndroidTV|beaudry|TORNADO EA53 AndroidTV|
+|TORNADO|TORNADO UA53 AndroidTV|barking|TORNADO UA53 AndroidTV|
 |TOSCIDO|P101|P101|P101|
 |TOSCIDO|P101-EEA|P101-EEA|P101-EEA|
 |TOSCIDO|T12-EEA|T12-EEA|T12-EEA|
@@ -40109,7 +40122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO PHANTOM V Flip2 5G|TECNO-AE11|TECNO AE11|
 |Tecno|TECNO PHANTOM V Fold|TECNO-AD10|TECNO AD10|
 |Tecno|TECNO PHANTOM V Fold2 5G|TECNO-AE10|TECNO AE10|
-|Tecno|TECNO POP 10 Pro|TECNO-KM4|TECNO KM4|
+|Tecno|TECNO POP 10|TECNO-KM4|TECNO KM4|
 |Tecno|TECNO POP 2 Air|TECNO-SC7S|TECNO SC7S|
 |Tecno|TECNO POP 2F|TECNO-B1g|TECNO B1g|
 |Tecno|TECNO POP 2X Plus|TECNO-RB8S|TECNO RB8S|
@@ -40228,6 +40241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK Go 1|TECNO-KL4|TECNO KL4|
 |Tecno|TECNO SPARK Go 1|TECNO-KL4s|TECNO KL4s|
 |Tecno|TECNO SPARK Go 2|TECNO-KM4|TECNO KM4|
+|Tecno|TECNO SPARK Go 2|TECNO-KM4s|TECNO KM4s|
 |Tecno|TECNO SPARK Go 2/2S|TECNO-KM4|TECNO KM4|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5|TECNO KG5|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5h|TECNO KG5h|

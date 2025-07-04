@@ -942,6 +942,11 @@
  ],
  "AGE (in)": [
   {
+   "device": "elliniko",
+   "name": "AGE",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "AGE",
    "model": "43F"
@@ -26820,6 +26825,11 @@
    "model": "Star8_3G"
   },
   {
+   "device": "Star9_Max",
+   "name": "Star9_Max",
+   "model": "Star9_Max"
+  },
+  {
    "device": "Star9_Pro",
    "name": "Star9_Pro",
    "model": "Star9_Pro"
@@ -48537,6 +48547,11 @@
   }
  ],
  "FPD": [
+  {
+   "device": "elliniko",
+   "name": "FPD",
+   "model": "4K SMART TV"
+  },
   {
    "device": "hongkong",
    "name": "FPD",
@@ -91131,6 +91146,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "FPS",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "FPS",
    "model": "4K SMART TV"
@@ -91423,6 +91443,11 @@
   {
    "device": "hongkong",
    "name": "POWEROLOGY",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "QRIOM",
    "model": "4K SMART TV"
   },
   {
@@ -91837,6 +91862,11 @@
    "device": "A11",
    "name": "A11",
    "model": "A11"
+  },
+  {
+   "device": "Blus_Sea_S25_Plus",
+   "name": "Blus Sea S25 Plus",
+   "model": "Blus_Sea_S25_Plus"
   },
   {
    "device": "Blus_Sea_S25_Plus",
@@ -94890,6 +94920,11 @@
    "device": "KYV43",
    "name": "BASIO 3",
    "model": "KYV43"
+  },
+  {
+   "device": "KY24L-SN100",
+   "name": "BASIO active3",
+   "model": "KYG04"
   },
   {
    "device": "KYV47",
@@ -159903,6 +159938,16 @@
    "model": "COOL2"
   },
   {
+   "device": "COOL2",
+   "name": "COOL2",
+   "model": "Edge X2"
+  },
+  {
+   "device": "COOL2",
+   "name": "COOL2",
+   "model": "Edge_X2"
+  },
+  {
    "device": "DREAM2",
    "name": "DREAM2",
    "model": "DREAM2"
@@ -165074,6 +165119,16 @@
    "device": "a56x",
    "name": "Galaxy A56 5G",
    "model": "SM-A566S"
+  },
+  {
+   "device": "a56x",
+   "name": "Galaxy A56 5G",
+   "model": "SM-A566U1"
+  },
+  {
+   "device": "a56x",
+   "name": "Galaxy A56 5G",
+   "model": "SM-A566W"
   },
   {
    "device": "a6elteaio",
@@ -202063,6 +202118,16 @@
    "device": "SW4H",
    "name": "TORNADO Android TV",
    "model": "TORNADO Android TV"
+  },
+  {
+   "device": "beaudry",
+   "name": "TORNADO EA53 AndroidTV",
+   "model": "TORNADO EA53 AndroidTV"
+  },
+  {
+   "device": "barking",
+   "name": "TORNADO UA53 AndroidTV",
+   "model": "TORNADO UA53 AndroidTV"
   }
  ],
  "TOSCIDO": [
@@ -205998,7 +206063,7 @@
   },
   {
    "device": "TECNO-KM4",
-   "name": "TECNO POP 10 Pro",
+   "name": "TECNO POP 10",
    "model": "TECNO KM4"
   },
   {
@@ -206590,6 +206655,11 @@
    "device": "TECNO-KM4",
    "name": "TECNO SPARK Go 2",
    "model": "TECNO KM4"
+  },
+  {
+   "device": "TECNO-KM4s",
+   "name": "TECNO SPARK Go 2",
+   "model": "TECNO KM4s"
   },
   {
    "device": "TECNO-KM4",
