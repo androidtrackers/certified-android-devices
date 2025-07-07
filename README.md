@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-06
+Last sync is 2025-07-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -33500,6 +33500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S24|SC-51E|SC-51E|
 |Samsung|Galaxy S24|SCG25|SCG25|
 |Samsung|Galaxy S24|e1q|SM-S9210|
+|Samsung|Galaxy S24|e1q|SM-S921E|
 |Samsung|Galaxy S24|e1q|SM-S921Q|
 |Samsung|Galaxy S24|e1q|SM-S921U|
 |Samsung|Galaxy S24|e1q|SM-S921U1|
@@ -35394,6 +35395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SH-H01|VZJ|SH-H01|
 |Sharp|SH-M04|SH-M04|SH-M04|
 |Sharp|SH-T01|OG6|SH-T01|
+|Sharp|SH-T04C|ST4|SH-T04C|
 |Sharp|SH80F|SH80F|SH80F|
 |Sharp|SH8118U|msm7627|SH8118U|
 |Sharp|SH8128U|msm7627|SH8128U|
@@ -42895,8 +42897,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad Air|DPD2305|iPA2451|
 |Vivo|iQOO Pad2|DPD2345|iPA2453|
 |Vivo|iQOO Pad2 Pro|DPD2329|iPA2475|
-|Vivo|iQOO Pad5e|DPD2345|iPA2453|
-|Vivo|iQOO Pad5e|DPD2345|iPA2537|
 |Vivo|iQOO Z10 5G|I2407|I2407|
 |Vivo|iQOO Z10 Turbo Pro|PD2453|V2453A|
 |Vivo|iQOO Z10x|PD2445|V2445A|

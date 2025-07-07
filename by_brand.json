@@ -172358,6 +172358,11 @@
   {
    "device": "e1q",
    "name": "Galaxy S24",
+   "model": "SM-S921E"
+  },
+  {
+   "device": "e1q",
+   "name": "Galaxy S24",
    "model": "SM-S921Q"
   },
   {
@@ -181900,6 +181905,11 @@
    "device": "OG6",
    "name": "SH-T01",
    "model": "SH-T01"
+  },
+  {
+   "device": "ST4",
+   "name": "SH-T04C",
+   "model": "SH-T04C"
   },
   {
    "device": "SH80F",
@@ -220445,16 +220455,6 @@
    "device": "DPD2329",
    "name": "iQOO Pad2 Pro",
    "model": "iPA2475"
-  },
-  {
-   "device": "DPD2345",
-   "name": "iQOO Pad5e",
-   "model": "iPA2453"
-  },
-  {
-   "device": "DPD2345",
-   "name": "iQOO Pad5e",
-   "model": "iPA2537"
   },
   {
    "device": "I2407",
