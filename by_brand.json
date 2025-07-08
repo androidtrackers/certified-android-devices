@@ -34676,6 +34676,11 @@
    "model": "NOTE 50"
   },
   {
+   "device": "NOTE_60",
+   "name": "NOTE 60",
+   "model": "NOTE 60"
+  },
+  {
    "device": "NOTE_7",
    "name": "NOTE 7",
    "model": "NOTE 7"
@@ -69690,6 +69695,11 @@
    "device": "HNROL-M1",
    "name": "HONOR Pad V9",
    "model": "ROL-W00"
+  },
+  {
+   "device": "JMS-W09",
+   "name": "HONOR Pad X7",
+   "model": "JMS-W09"
   },
   {
    "device": "HNAGM3",
@@ -213701,6 +213711,11 @@
    "model": "L10-T02"
   },
   {
+   "device": "L10-T02",
+   "name": "L10-T02",
+   "model": "VISION Tab"
+  },
+  {
    "device": "L10-T02-EEA",
    "name": "L10-T02-EEA",
    "model": "L10-T02"
@@ -217510,6 +217525,11 @@
    "device": "Elite10QHPro",
    "name": "Elite10QHPro",
    "model": "Elite10QHPro"
+  },
+  {
+   "device": "Prestige_P11_Pro",
+   "name": "P11P",
+   "model": "Prestige_P11_Pro"
   },
   {
    "device": "Elite10QI",

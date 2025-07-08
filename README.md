@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-07
+Last sync is 2025-07-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6696,6 +6696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|NOTE 30|NOTE_30|NOTE 30|
 |Cubot|NOTE 40|NOTE_40|NOTE 40|
 |Cubot|NOTE 50|NOTE_50|NOTE 50|
+|Cubot|NOTE 60|NOTE_60|NOTE 60|
 |Cubot|NOTE 7|NOTE_7|NOTE 7|
 |Cubot|NOTE 8|NOTE_8|NOTE 8|
 |Cubot|NOTE 9|NOTE_9|NOTE 9|
@@ -13452,6 +13453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
 |Honor|HONOR Pad V9|HNROL-M1|ROL-W00|
+|Honor|HONOR Pad X7|JMS-W09|JMS-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
@@ -41581,6 +41583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|L10-M01|TAB12_Pro|L10-M01|
 |VASOUN|L10-T01|L10-T01|L10-T01|
 |VASOUN|L10-T02|L10-T02|L10-T02|
+|VASOUN|L10-T02|L10-T02|VISION Tab|
 |VASOUN|L10-T02-EEA|L10-T02-EEA|L10-T02|
 |VASOUN|L10-T02-EEA|L10-T02-EEA|L10-T02-EEA|
 |VASOUN|L10-T11|L10-T11|L10-T11|
@@ -42310,6 +42313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Visiontouch|Life|VisionTouchLife|VisionTouchLife|
 |Visual Land|Elite10QH|Elite10QH|Elite10QH|
 |Visual Land|Elite10QHPro|Elite10QHPro|Elite10QHPro|
+|Visual Land|P11P|Prestige_P11_Pro|Prestige_P11_Pro|
 |Visual Land|Prestige Elite10QI|Elite10QI|Elite10QI|
 |Visual Land|Prestige Elite10QL|Elite10QL|Elite10QL|
 |Visual Land|Prestige Elite10QS|Elite10QS|Elite10QS|
