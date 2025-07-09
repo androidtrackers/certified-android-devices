@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-08
+Last sync is 2025-07-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1730,6 +1730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|Z12_PRO|Z12_PRO|Z12_PRO|
 |Apex|Z4PRO|Z4PRO|Z4PRO|
 |Apolosign|DigitalCalendar|FA158AT|FA158AT|
+|Apolosign|DigitalSignage|FA1569T|Apolosign Calendar|
 |Apolosign|DigitalSignage|FA1569T|FA1569T|
 |Apolosign|EM101A|EM101A|EM101A|
 |Apolosign|EM101B|EM101B|EM101B|
@@ -12124,6 +12125,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV DR|holargos|Haier MatrixTV DR|
 |Haier|Haier MatrixTV EE|omonia|Haier MatrixTV EE|
 |Haier|Haier MatrixTV ER|holargos|Haier MatrixTV ER|
+|Haier|Haier MatrixTV FE|burrard|Haier MatrixTV FE|
+|Haier|Haier MatrixTV FR|nanaimo|Haier MatrixTV FR|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier TV|SW6H|Haier TV|
 |Haier|Haier TV FF|SW6H|Haier TV FF|
@@ -21772,6 +21775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|TABLINK104|Tab_Link_104|Tab Link 104|
 |Logicom|TABXL14|Tab_XL_14|Tab XL 14|
 |Logicom|TABXL_14|TABXL_14|Tab_XL_14|
+|Logicom|TAB_FOLD_12|TAB_FOLD_12|TAB_FOLD_12|
 |Logicom|TAB_STAND_PRO_2|TAB_STAND_PRO_2|TAB_STAND_PRO_2|
 |Logicom|TAB_XXL_14|TAB_XXL_14|TAB_XXL_14|
 |Logicom|Tab_80|Tab_80|E884|
@@ -24402,6 +24406,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g85 5G|malmo|XT2427-4|
 |Motorola|moto g85 5G|malmo|moto g85 5G|
 |Motorola|moto g85 5G|malmo|motorola edge 40 pro|
+|Motorola|moto g96 5G|cuscoi|moto g96 5G|
+|Motorola|moto g96 5G|cuscoi|motorola edge 50 fusion|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto razr 40|lynkco|XT2323-3|
@@ -26914,6 +26920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch X|OWWE231|OWWE231|
 |Oppo|OPPO Watch X2|OWWE251|OWWE251|
 |Oppo|OPPO Watch X2 Mini|OWWE242|OWWE242|
+|Oppo|OnePlus Watch 3 43mm|OPWE242|OPWE242|
 |Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
 |Oppo|PDKT00|OP4ABB|PDKT00|
@@ -28848,6 +28855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T2040|T2040B|T2040|
 |Positivo|T2050C|T2050C|T2050C|
 |Positivo|T2050C|T2050C|Tab Q10|
+|Positivo|T2070D|T2070D|T2070|
 |Positivo|T3010D|T3010D|Vision Tab 10|
 |Positivo|T701 TV|T701|T701|
 |Positivo|T705|T705|T705|
@@ -40889,6 +40897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbopad|Turbopad1016NEW|Turbopad1016NEW|Turbopad1016NEW|
 |Turbopad|Turbopadpro|TurboPadPro|TurboPadPro|
 |Turk Telekom|E4|722T|E4|
+|Tv360 by Metfone|B866V2F|MediaBox_B866V2F|B866V2F|
 |Tvera|Tvera|seocho|Tvera 4K Android TV|
 |Tvstar|TVSTAR|seocho|TVSTAR 4K Android TV|
 |TwinMOS|MQ703G|MQ703G|MQ703G|
@@ -41605,6 +41614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|L10_T08_EEA|L10_T08_EEA|L10_T08_EEA|
 |VASOUN|L10_T10|L10_T10|L10_T10|
 |VASOUN|L10_T10_EEA|L10_T10_EEA|L10_T10_EEA|
+|VASOUN|L10_T14_EEA|L10_T14_EEA|L10|
 |VASOUN|M7|M7|M7|
 |VASOUN|M7_EEA|M7_EEA|M7_EEA|
 |VASOUN|TAB12|TAB12|L10|
@@ -42213,6 +42223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Ocean 9|Ocean_9|Ocean_9|
 |Vgo Tel|Ocean9L|Ocean9L|Ocean9L|
 |Vgo Tel|SMART 12|SMART_12|SMART 12|
+|Vgo Tel|SMART 13|SMART_13|SMART 13|
 |Vgo Tel|SMART 8|SMART_8|SMART 8|
 |Vgo Tel|Smart 2|Smart_2|Smart 2|
 |Vgo Tel|Smart 4|Smart_4|Smart 4|
@@ -44170,7 +44181,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|Halo+|altai|H0030|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo 2 Plus|altai|H0031|
+|XGIMI|MoGo 2 Pro (New)|altai|XK10T|
 |XGIMI|MoGo 3 Pro|altai|G0035|
+|XGIMI|MoGo 4|altai|WK08K|
+|XGIMI|MoGo 4 Laser|altai|H0030|
+|XGIMI|MoGo 4 Laser|altai|WK03K|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
 |XGIMI|P_FHD_2020|xgimiapollo|Mogo Pro Plus|
 |XGIMI|P_FHD_2020|xgimiapollo|P_FHD_2020|

@@ -9048,6 +9048,11 @@
   {
    "device": "FA1569T",
    "name": "DigitalSignage",
+   "model": "Apolosign Calendar"
+  },
+  {
+   "device": "FA1569T",
+   "name": "DigitalSignage",
    "model": "FA1569T"
   },
   {
@@ -62944,6 +62949,16 @@
    "model": "Haier MatrixTV ER"
   },
   {
+   "device": "burrard",
+   "name": "Haier MatrixTV FE",
+   "model": "Haier MatrixTV FE"
+  },
+  {
+   "device": "nanaimo",
+   "name": "Haier MatrixTV FR",
+   "model": "Haier MatrixTV FR"
+  },
+  {
    "device": "irvine",
    "name": "Haier OLED TV AE",
    "model": "Haier OLED TV AE"
@@ -112074,6 +112089,11 @@
    "model": "Tab_XL_14"
   },
   {
+   "device": "TAB_FOLD_12",
+   "name": "TAB_FOLD_12",
+   "model": "TAB_FOLD_12"
+  },
+  {
    "device": "TAB_STAND_PRO_2",
    "name": "TAB_STAND_PRO_2",
    "model": "TAB_STAND_PRO_2"
@@ -125632,6 +125652,16 @@
    "model": "motorola edge 40 pro"
   },
   {
+   "device": "cuscoi",
+   "name": "moto g96 5G",
+   "model": "moto g96 5G"
+  },
+  {
+   "device": "cuscoi",
+   "name": "moto g96 5G",
+   "model": "motorola edge 50 fusion"
+  },
+  {
    "device": "robusta",
    "name": "moto p30",
    "model": "XT1943-1"
@@ -138632,6 +138662,11 @@
    "model": "OWWE242"
   },
   {
+   "device": "OPWE242",
+   "name": "OnePlus Watch 3 43mm",
+   "model": "OPWE242"
+  },
+  {
    "device": "OP4AB5",
    "name": "PCRT01",
    "model": "PCRT01"
@@ -148544,6 +148579,11 @@
    "device": "T2050C",
    "name": "T2050C",
    "model": "Tab Q10"
+  },
+  {
+   "device": "T2070D",
+   "name": "T2070D",
+   "model": "T2070"
   },
   {
    "device": "T3010D",
@@ -210095,6 +210135,13 @@
    "model": "E4"
   }
  ],
+ "Tv360 by Metfone": [
+  {
+   "device": "MediaBox_B866V2F",
+   "name": "B866V2F",
+   "model": "B866V2F"
+  }
+ ],
  "Tvera": [
   {
    "device": "seocho",
@@ -213821,6 +213868,11 @@
    "model": "L10_T10_EEA"
   },
   {
+   "device": "L10_T14_EEA",
+   "name": "L10_T14_EEA",
+   "model": "L10"
+  },
+  {
    "device": "M7",
    "name": "M7",
    "model": "M7"
@@ -216993,6 +217045,11 @@
    "device": "SMART_12",
    "name": "SMART 12",
    "model": "SMART 12"
+  },
+  {
+   "device": "SMART_13",
+   "name": "SMART 13",
+   "model": "SMART 13"
   },
   {
    "device": "SMART_8",
@@ -227047,8 +227104,28 @@
   },
   {
    "device": "altai",
+   "name": "MoGo 2 Pro (New)",
+   "model": "XK10T"
+  },
+  {
+   "device": "altai",
    "name": "MoGo 3 Pro",
    "model": "G0035"
+  },
+  {
+   "device": "altai",
+   "name": "MoGo 4",
+   "model": "WK08K"
+  },
+  {
+   "device": "altai",
+   "name": "MoGo 4 Laser",
+   "model": "H0030"
+  },
+  {
+   "device": "altai",
+   "name": "MoGo 4 Laser",
+   "model": "WK03K"
   },
   {
    "device": "xgimiapollo",
