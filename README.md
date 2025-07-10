@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-09
+Last sync is 2025-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2700,6 +2700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|AT70KS|AT70KS|AT70KS|
 |Atozee|AT70K_EEA|AT70K_EEA|AT70K_EEA|
 |Atozee|AT71K|AT71K|AT71K|
+|Atozee|AT71K|AT71K|Q8K|
 |Atozee|AT81K|AT81K|AT81K|
 |Atozee|CP10S|CP10S|CP10S|
 |Atozee|CP20S|CP20S|CP20S|
@@ -32439,6 +32440,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670|GT-S5670|
 |Samsung|Galaxy Fit|GT-S5670B|GT-S5670B|
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
+|Samsung|Galaxy Flip7 FE|b7r|SM-F7610|
+|Samsung|Galaxy Flip7 FE|b7r|SM-F761B|
+|Samsung|Galaxy Flip7 FE|b7r|SM-F761N|
+|Samsung|Galaxy Flip7 FE|b7r|SM-F761U|
+|Samsung|Galaxy Flip7 FE|b7r|SM-F761U1|
 |Samsung|Galaxy Fold|SCV44|SCV44|
 |Samsung|Galaxy Fold|winner|SM-F9000|
 |Samsung|Galaxy Fold|winner|SM-F900F|
@@ -34546,6 +34552,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch7|fresh7us|SM-L305F|
 |Samsung|Galaxy Watch7|fresh7us|SM-L305N|
 |Samsung|Galaxy Watch7|fresh7us|SM-L305U|
+|Samsung|Galaxy Watch8|fresh8bl|SM-L330|
+|Samsung|Galaxy Watch8|fresh8bs|SM-L320|
+|Samsung|Galaxy Watch8|fresh8ul|SM-L3350|
+|Samsung|Galaxy Watch8|fresh8ul|SM-L335F|
+|Samsung|Galaxy Watch8|fresh8ul|SM-L335N|
+|Samsung|Galaxy Watch8|fresh8ul|SM-L335U|
+|Samsung|Galaxy Watch8|fresh8us|SM-L325F|
+|Samsung|Galaxy Watch8|fresh8us|SM-L325N|
+|Samsung|Galaxy Watch8|fresh8us|SM-L325U|
+|Samsung|Galaxy Watch8 Classic|wise8bs|SM-L500|
+|Samsung|Galaxy Watch8 Classic|wise8us|SM-L5050|
+|Samsung|Galaxy Watch8 Classic|wise8us|SM-L505F|
+|Samsung|Galaxy Watch8 Classic|wise8us|SM-L505N|
+|Samsung|Galaxy Watch8 Classic|wise8us|SM-L505U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
@@ -34680,6 +34700,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U1|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741W|
+|Samsung|Galaxy Z Flip7|b7s|SM-F7660|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766B|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766N|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766Q|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766U|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766U1|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766W|
+|Samsung|Galaxy Z Flip7|b7s|SM-F766Z|
 |Samsung|Galaxy Z Fold Special Edition|q6aq|SM-F958N|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
@@ -34722,6 +34750,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold6|q6q|SM-F956U|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956U1|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956W|
+|Samsung|Galaxy Z Fold7|q7q|SM-F9660|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966B|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966N|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966Q|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966U|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966U1|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966W|
+|Samsung|Galaxy Z Fold7|q7q|SM-F966Z|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -40972,6 +41008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNOWHY|Y10G007S4M_EEA|Y10G007S4M_EEA|Y10G007S4M_EEA|
 |UNOWHY|Y10PG2|Y10PG2_EEA|Y10G652S8M|
 |UNOWHY|Y10_Premium|Y10_Premium|Y10 Premium|
+|URAO|A10Max_EEA|A10Max|A10Max|
 |USA111|IRULU X11|iRULU-X11|iRULU X11|
 |USA111|IRULU X9|X9|X9|
 |USA111|Irulu X7|X7|X7|
@@ -43663,6 +43700,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wexler|WLT710M|WLT710M|WLT710M|
 |Whitedeer|G13|G13|G13|
 |Whitedeer|G13_EEA|G13|G13|
+|Whitedeer|KT1028|KT1028|KT1028|
+|Whitedeer|KT1028_EEA|KT1028|KT1028|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
 |Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
@@ -47135,6 +47174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |cosmos|Lynx_10in|Lynx_10in|Lynx_10in|
 |cosmos|Nova_10in|Nova_10in|Nova_10in|
 |cosmos|VELA_1201P-EEA|VELA_1201P-EEA|VELA_1201P|
+|cypher|Cypher_C10|Cypher_C10|Cypher C10|
 |d.light|M100|M100|M100|
 |d.light|M1000|M1000|M1000|
 |d.light|M1000D|M1000|M1000|

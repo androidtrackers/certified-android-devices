@@ -13968,6 +13968,11 @@
    "model": "AT71K"
   },
   {
+   "device": "AT71K",
+   "name": "AT71K",
+   "model": "Q8K"
+  },
+  {
    "device": "AT81K",
    "name": "AT81K",
    "model": "AT81K"
@@ -167051,6 +167056,31 @@
    "model": "GT-S5670L"
   },
   {
+   "device": "b7r",
+   "name": "Galaxy Flip7 FE",
+   "model": "SM-F7610"
+  },
+  {
+   "device": "b7r",
+   "name": "Galaxy Flip7 FE",
+   "model": "SM-F761B"
+  },
+  {
+   "device": "b7r",
+   "name": "Galaxy Flip7 FE",
+   "model": "SM-F761N"
+  },
+  {
+   "device": "b7r",
+   "name": "Galaxy Flip7 FE",
+   "model": "SM-F761U"
+  },
+  {
+   "device": "b7r",
+   "name": "Galaxy Flip7 FE",
+   "model": "SM-F761U1"
+  },
+  {
    "device": "SCV44",
    "name": "Galaxy Fold",
    "model": "SCV44"
@@ -177586,6 +177616,76 @@
    "model": "SM-L305U"
   },
   {
+   "device": "fresh8bl",
+   "name": "Galaxy Watch8",
+   "model": "SM-L330"
+  },
+  {
+   "device": "fresh8bs",
+   "name": "Galaxy Watch8",
+   "model": "SM-L320"
+  },
+  {
+   "device": "fresh8ul",
+   "name": "Galaxy Watch8",
+   "model": "SM-L3350"
+  },
+  {
+   "device": "fresh8ul",
+   "name": "Galaxy Watch8",
+   "model": "SM-L335F"
+  },
+  {
+   "device": "fresh8ul",
+   "name": "Galaxy Watch8",
+   "model": "SM-L335N"
+  },
+  {
+   "device": "fresh8ul",
+   "name": "Galaxy Watch8",
+   "model": "SM-L335U"
+  },
+  {
+   "device": "fresh8us",
+   "name": "Galaxy Watch8",
+   "model": "SM-L325F"
+  },
+  {
+   "device": "fresh8us",
+   "name": "Galaxy Watch8",
+   "model": "SM-L325N"
+  },
+  {
+   "device": "fresh8us",
+   "name": "Galaxy Watch8",
+   "model": "SM-L325U"
+  },
+  {
+   "device": "wise8bs",
+   "name": "Galaxy Watch8 Classic",
+   "model": "SM-L500"
+  },
+  {
+   "device": "wise8us",
+   "name": "Galaxy Watch8 Classic",
+   "model": "SM-L5050"
+  },
+  {
+   "device": "wise8us",
+   "name": "Galaxy Watch8 Classic",
+   "model": "SM-L505F"
+  },
+  {
+   "device": "wise8us",
+   "name": "Galaxy Watch8 Classic",
+   "model": "SM-L505N"
+  },
+  {
+   "device": "wise8us",
+   "name": "Galaxy Watch8 Classic",
+   "model": "SM-L505U"
+  },
+  {
    "device": "on7nlteskt",
    "name": "Galaxy Wide",
    "model": "SM-G600S"
@@ -178256,6 +178356,46 @@
    "model": "SM-F741W"
   },
   {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F7660"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766B"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766N"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766Q"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766U"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766U1"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766W"
+  },
+  {
+   "device": "b7s",
+   "name": "Galaxy Z Flip7",
+   "model": "SM-F766Z"
+  },
+  {
    "device": "q6aq",
    "name": "Galaxy Z Fold Special Edition",
    "model": "SM-F958N"
@@ -178464,6 +178604,46 @@
    "device": "q6q",
    "name": "Galaxy Z Fold6",
    "model": "SM-F956W"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F9660"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966B"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966N"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966Q"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966U"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966U1"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966W"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-F966Z"
   },
   {
    "device": "YP-GB70D",
@@ -210560,6 +210740,13 @@
    "model": "Y10 Premium"
   }
  ],
+ "URAO": [
+  {
+   "device": "A10Max",
+   "name": "A10Max_EEA",
+   "model": "A10Max"
+  }
+ ],
  "USA111": [
   {
    "device": "iRULU-X11",
@@ -224421,6 +224608,16 @@
    "device": "G13",
    "name": "G13_EEA",
    "model": "G13"
+  },
+  {
+   "device": "KT1028",
+   "name": "KT1028",
+   "model": "KT1028"
+  },
+  {
+   "device": "KT1028",
+   "name": "KT1028_EEA",
+   "model": "KT1028"
   }
  ],
  "Wibox": [
@@ -242153,6 +242350,13 @@
    "device": "VELA_1201P-EEA",
    "name": "VELA_1201P-EEA",
    "model": "VELA_1201P"
+  }
+ ],
+ "cypher": [
+  {
+   "device": "Cypher_C10",
+   "name": "Cypher_C10",
+   "model": "Cypher C10"
   }
  ],
  "d.light": [
