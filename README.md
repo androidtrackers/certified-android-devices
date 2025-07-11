@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-10
+Last sync is 2025-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3617,6 +3617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BYYBUO|104S|104S|104S|
 |BYYBUO|A10_EU|A10_EU|A10_EU|
 |BYYBUO|A10_L|A10_L|A10_L|
+|BYYBUO|A10_M_UK|A10_M_UK|A10_M_UK|
 |BYYBUO|A10_M_US|A10_M_US|A10_M_US|
 |BYYBUO|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|BYYBUO_SmartPad_A10|
 |BYYBUO|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|BYYBUO_SmartPad_T10|
@@ -24381,6 +24382,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g54 5G|cancunf|moto g73 5G|
 |Motorola|moto g55 5G|taipei|moto g54 5G|
 |Motorola|moto g55 5G|taipei|moto g55 5G|
+|Motorola|moto g56 5G|bogota|moto g54 5G|
+|Motorola|moto g56 5G|bogota|moto g56 5G|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g62 5G|rhodec|moto g51 5G|
@@ -24407,6 +24410,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g85 5G|malmo|XT2427-4|
 |Motorola|moto g85 5G|malmo|moto g85 5G|
 |Motorola|moto g85 5G|malmo|motorola edge 40 pro|
+|Motorola|moto g86 5G|nice|moto g86 5G|
+|Motorola|moto g86 5G|nice|motorola edge 50 neo|
+|Motorola|moto g86 power 5G|nice|moto g86 power 5G|
+|Motorola|moto g86 power 5G|nice|motorola edge 50 neo|
 |Motorola|moto g96 5G|cuscoi|moto g96 5G|
 |Motorola|moto g96 5G|cuscoi|motorola edge 50 fusion|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -24436,6 +24443,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 2023|aion|motorola edge 2023|
 |Motorola|motorola edge 2024|avatrn|motorola edge 2023|
 |Motorola|motorola edge 2024|avatrn|motorola edge 2024|
+|Motorola|motorola edge 2025|oulu|motorola edge 2025|
+|Motorola|motorola edge 2025|oulu|motorola edge 50 neo|
 |Motorola|motorola edge 30|dubai|moto g200 5G|
 |Motorola|motorola edge 30|dubai|motorola edge 30|
 |Motorola|motorola edge 30 fusion|tundra|moto g200 5G|
@@ -27764,8 +27773,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F6|peridot|24069PC21G|
 |POCO|POCO F6|peridot|24069PC21I|
 |POCO|POCO F6 Pro|vermeer|23113RKC6G|
-|POCO|POCO F7 Pro|zorn|24117RK2CG|
-|POCO|POCO F7 Ultra|miro|24122RKC7G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -27786,6 +27793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
 |POCO|POCO M7 5G|flame|24108PCE2I|
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
+|POCO|POCO Pad|dizi|2405CPCFBG|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -27804,6 +27812,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X7|malachite|24095PCADI|
 |POCO|POCO X7 Pro|rodin|2412DPC0AG|
 |POCO|POCO X7 Pro|rodin|2412DPC0AI|
+|POCO|Poco F7|onyx|25053PC47G|
+|POCO|Poco F7|onyx|25053PC47I|
+|POCO|Poco F7 Pro|zorn|24117RK2CG|
+|POCO|Poco F7 Ultra|miro|24122RKC7G|
 |POCO|Poco M7 Pro 5G|citrine|2409FPCC4G|
 |POLSAT|polsat soundbox 4K|m391_polsat|polsat soundbox 4K|
 |POOLS|POOLS The DOLLAR|POOLS_The_DOLLAR|POOLS_The_DOLLAR|
@@ -27819,6 +27831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PORTFOLIO|P9001|P9001|P9001|
 |POS Terminal|ACT|POS|pCloud|
 |POS Terminal|MINT|POS|pCloud|
+|POS Terminal|PPGLRR76|POS|pCloud|
 |POS Terminal|mPOS|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
@@ -30367,6 +30380,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 12C|earth|22120RN86I|
 |Redmi|Redmi 12C|earth|2212ARNC4L|
 |Redmi|Redmi 13|moon|24040RN64Y|
+|Redmi|Redmi 13|tides|24049RN28L|
+|Redmi|Redmi 13|tides|2404ARN45A|
 |Redmi|Redmi 13 5G|breeze|2406ERN9CI|
 |Redmi|Redmi 13C|gale|23100RN82L|
 |Redmi|Redmi 13C|gale|23106RN0DA|
@@ -30592,6 +30607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDI|
 |Redmi|Redmi Pad Pro 5G|ruan|24074RPD2C|
+|Redmi|Redmi Pad Pro 5G|ruan|24074RPD2G|
 |Redmi|Redmi Pad SE|xun|23073RPBFC|
 |Redmi|Redmi Pad SE|xun|23073RPBFG|
 |Redmi|Redmi Pad SE|xun|23073RPBFL|
@@ -40598,6 +40614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thrive|NT-T710|NT-T710|NT-T710|
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
 |TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
+|Tibuta|A10_M_EU|A10_M_EU|A10_M_EU|
 |Tibuta|A30|A30|A30|
 |Tibuta|A40|A40|A40|
 |Tibuta|E101|E101|E101|
@@ -41372,6 +41389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
 |Umidigi|G5 Mecha RU|G5_Mecha|RP08|
 |Umidigi|G5_Tab|G5_Tab|MT16|
+|Umidigi|G5_Tab|G5_Tab|Tab-A100|
 |Umidigi|G5_Tab_EEA|G5_Tab_EEA|MT16|
 |Umidigi|G5_Tab_Kids|G5_Tab_Kids|MT16|
 |Umidigi|G5_Tab_Kids_EEA|G5_Tab_Kids_EEA|MT16|
@@ -41522,6 +41540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|EA660|EA660|EA660|
 |Unitech|HT330|HT330|HT330|
 |Unitech|HT730|HT730|HT730|
+|Unitech|HT730P|HT730P|HT730P|
 |Unitech|PA760|PA760|PA760|
 |Unitech|PA760_EE|PA760|PA760|
 |Unitech|PA760_FP|PA760|PA760|
@@ -41531,6 +41550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|TB85|TB85|TB85|
 |Unitech|TB85Plus|TB85Plus|TB85Plus|
 |Unitech|WD200|wd200|WD200|
+|Unitech|WD200 Plus|WD200P|WD200P|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
 |UnityWireless|EPIC E55|EPIC-E55|EPIC-E55|
 |Unnecto|Bolt1|Bolt1|Bolt 1|
@@ -42106,6 +42126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|TAB-X8|TABX8|TAB X8|
 |Vertex|Tab_4G_10_1|Tab_4G_10-1|Tab 4G 10-1|
 |Vertex|Tab_4G_8-1|Tab_4G_8-1|Tab 4G 8-1|
+|Vertex|VERTEX|IL_3xx6_Pro|IL_3xx6_Pro|
 |Vertex|Vertex Tab 3G 7-1|Tab_3G_7_1|Tab_3G_7-1|
 |Vertex|Vertex Tab 3G 7-2|Vertex_Tab|Tab 3G 7-2|
 |Vertex|Wolverine12|wolverine12|wolverine12|
@@ -43657,6 +43678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wansa|xiaoyushan_emW|xiaoyushan|HiSmartTV A4|
 |Warner Bros|Avengers|Avengers|Avengers|
 |Warner Bros|DC_Comics_G9|DC_Comics_G9|DC_Comics_G9|
+|Wave 8|WAVETEC-S025|WAVETEC-S025|WAVETEC-S025|
 |Wave 8|WV7P|Wave_8_7|WV7P|
 |Wave 8|WV8O|WV8O|WV8O|
 |Wave 8|WV8TV|WV8TV|WV8TV|
@@ -44228,8 +44250,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
 |XGIMI|P_FHD_2020|xgimiapollo|Mogo Pro Plus|
 |XGIMI|P_FHD_2020|xgimiapollo|P_FHD_2020|
-|XGIMI|XHSM|XHSM|XHSM|
 |XGIMI|XK03H|xgimigalileo|XK03H|
+|XHSM|XHSM|XHSM|XHSM|
 |XION|XI_CEU55|XI_CEU55|XI_CEU55|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|SDN200|lte_siden|SDN200|
@@ -44464,7 +44486,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|MiTV4C|matrix|MiTV4C|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
-|Xiaomi|POCO F7 Pro|zorn|24117RK2CG|
 |Xiaomi|POCO M5s|rosemary|2207117BPG|
 |Xiaomi|Redmi|HM2013023|2013023|
 |Xiaomi|Redmi  Go|tiare|Redmi Go|

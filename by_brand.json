@@ -18713,6 +18713,11 @@
    "model": "A10_L"
   },
   {
+   "device": "A10_M_UK",
+   "name": "A10_M_UK",
+   "model": "A10_M_UK"
+  },
+  {
    "device": "A10_M_US",
    "name": "A10_M_US",
    "model": "A10_M_US"
@@ -125527,6 +125532,16 @@
    "model": "moto g55 5G"
   },
   {
+   "device": "bogota",
+   "name": "moto g56 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "device": "bogota",
+   "name": "moto g56 5G",
+   "model": "moto g56 5G"
+  },
+  {
    "device": "jeter",
    "name": "moto g6 play",
    "model": "Moto G Play"
@@ -125655,6 +125670,26 @@
    "device": "malmo",
    "name": "moto g85 5G",
    "model": "motorola edge 40 pro"
+  },
+  {
+   "device": "nice",
+   "name": "moto g86 5G",
+   "model": "moto g86 5G"
+  },
+  {
+   "device": "nice",
+   "name": "moto g86 5G",
+   "model": "motorola edge 50 neo"
+  },
+  {
+   "device": "nice",
+   "name": "moto g86 power 5G",
+   "model": "moto g86 power 5G"
+  },
+  {
+   "device": "nice",
+   "name": "moto g86 power 5G",
+   "model": "motorola edge 50 neo"
   },
   {
    "device": "cuscoi",
@@ -125800,6 +125835,16 @@
    "device": "avatrn",
    "name": "motorola edge 2024",
    "model": "motorola edge 2024"
+  },
+  {
+   "device": "oulu",
+   "name": "motorola edge 2025",
+   "model": "motorola edge 2025"
+  },
+  {
+   "device": "oulu",
+   "name": "motorola edge 2025",
+   "model": "motorola edge 50 neo"
   },
   {
    "device": "dubai",
@@ -142982,16 +143027,6 @@
    "model": "23113RKC6G"
   },
   {
-   "device": "zorn",
-   "name": "POCO F7 Pro",
-   "model": "24117RK2CG"
-  },
-  {
-   "device": "miro",
-   "name": "POCO F7 Ultra",
-   "model": "24122RKC7G"
-  },
-  {
    "device": "shiva",
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -143092,6 +143127,11 @@
    "model": "2409FPCC4I"
   },
   {
+   "device": "dizi",
+   "name": "POCO Pad",
+   "model": "2405CPCFBG"
+  },
+  {
    "device": "phoenixin",
    "name": "POCO X2",
    "model": "POCO X2"
@@ -143182,6 +143222,26 @@
    "model": "2412DPC0AI"
   },
   {
+   "device": "onyx",
+   "name": "Poco F7",
+   "model": "25053PC47G"
+  },
+  {
+   "device": "onyx",
+   "name": "Poco F7",
+   "model": "25053PC47I"
+  },
+  {
+   "device": "zorn",
+   "name": "Poco F7 Pro",
+   "model": "24117RK2CG"
+  },
+  {
+   "device": "miro",
+   "name": "Poco F7 Ultra",
+   "model": "24122RKC7G"
+  },
+  {
    "device": "citrine",
    "name": "Poco M7 Pro 5G",
    "model": "2409FPCC4G"
@@ -143266,6 +143326,11 @@
   {
    "device": "POS",
    "name": "MINT",
+   "model": "pCloud"
+  },
+  {
+   "device": "POS",
+   "name": "PPGLRR76",
    "model": "pCloud"
   },
   {
@@ -156379,6 +156444,16 @@
    "model": "24040RN64Y"
   },
   {
+   "device": "tides",
+   "name": "Redmi 13",
+   "model": "24049RN28L"
+  },
+  {
+   "device": "tides",
+   "name": "Redmi 13",
+   "model": "2404ARN45A"
+  },
+  {
    "device": "breeze",
    "name": "Redmi 13 5G",
    "model": "2406ERN9CI"
@@ -157502,6 +157577,11 @@
    "device": "ruan",
    "name": "Redmi Pad Pro 5G",
    "model": "24074RPD2C"
+  },
+  {
+   "device": "ruan",
+   "name": "Redmi Pad Pro 5G",
+   "model": "24074RPD2G"
   },
   {
    "device": "xun",
@@ -208534,6 +208614,11 @@
  ],
  "Tibuta": [
   {
+   "device": "A10_M_EU",
+   "name": "A10_M_EU",
+   "model": "A10_M_EU"
+  },
+  {
    "device": "A30",
    "name": "A30",
    "model": "A30"
@@ -212586,6 +212671,11 @@
    "model": "MT16"
   },
   {
+   "device": "G5_Tab",
+   "name": "G5_Tab",
+   "model": "Tab-A100"
+  },
+  {
    "device": "G5_Tab_EEA",
    "name": "G5_Tab_EEA",
    "model": "MT16"
@@ -213364,6 +213454,11 @@
    "model": "HT730"
   },
   {
+   "device": "HT730P",
+   "name": "HT730P",
+   "model": "HT730P"
+  },
+  {
    "device": "PA760",
    "name": "PA760",
    "model": "PA760"
@@ -213407,6 +213502,11 @@
    "device": "wd200",
    "name": "WD200",
    "model": "WD200"
+  },
+  {
+   "device": "WD200P",
+   "name": "WD200 Plus",
+   "model": "WD200P"
   }
  ],
  "United Group": [
@@ -216450,6 +216550,11 @@
    "device": "Tab_4G_8-1",
    "name": "Tab_4G_8-1",
    "model": "Tab 4G 8-1"
+  },
+  {
+   "device": "IL_3xx6_Pro",
+   "name": "VERTEX",
+   "model": "IL_3xx6_Pro"
   },
   {
    "device": "Tab_3G_7_1",
@@ -224363,6 +224468,11 @@
  ],
  "Wave 8": [
   {
+   "device": "WAVETEC-S025",
+   "name": "WAVETEC-S025",
+   "model": "WAVETEC-S025"
+  },
+  {
    "device": "Wave_8_7",
    "name": "WV7P",
    "model": "WV7P"
@@ -227340,14 +227450,16 @@
    "model": "P_FHD_2020"
   },
   {
-   "device": "XHSM",
-   "name": "XHSM",
-   "model": "XHSM"
-  },
-  {
    "device": "xgimigalileo",
    "name": "XK03H",
    "model": "XK03H"
+  }
+ ],
+ "XHSM": [
+  {
+   "device": "XHSM",
+   "name": "XHSM",
+   "model": "XHSM"
   }
  ],
  "XION": [
@@ -228542,11 +228654,6 @@
    "device": "beryllium",
    "name": "POCO F1",
    "model": "POCOPHONE F1"
-  },
-  {
-   "device": "zorn",
-   "name": "POCO F7 Pro",
-   "model": "24117RK2CG"
   },
   {
    "device": "rosemary",
