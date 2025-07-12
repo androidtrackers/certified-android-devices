@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-11
+Last sync is 2025-07-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17074,6 +17074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y29|V2434B|V2445|
+|JOVI|JOVI Y29s 5G|V2446B|V2459|
 |JOVI|V50|V2427B|V2427|
 |JOYSURF|TB-JS100A|TB-JS100A|TB-JS100A|
 |JOYSURF|TB-JS101A|TB-JS101A|TB-JS101A|
