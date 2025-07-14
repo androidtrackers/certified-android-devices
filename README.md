@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-13
+Last sync is 2025-07-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3006,6 +3006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|V60|Azumi_V60|V60|
 |Azumi|V61|Azumi_V61|Azumi_V61|
 |Azumi|V66|AZUMI_V66|Azumi_V66|
+|BAIWOYER|F11Pro|F11Pro|F11Pro|
 |BAKEN|L10|M10_A03_EEA|L10|
 |BAKEN|M10|M10_A03|M10|
 |BALMUDA|BALMUDA Phone|A101BM|A101BM|
