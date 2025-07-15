@@ -51558,6 +51558,11 @@
    "model": "CP80K"
   },
   {
+   "device": "CP80K",
+   "name": "CP80K",
+   "model": "FunPad-8Max"
+  },
+  {
    "device": "FMT-NM7108-01",
    "name": "DRONE",
    "model": "FMT-NM7108-01"
@@ -143342,12 +143347,12 @@
   },
   {
    "device": "POS",
-   "name": "PPGLRR76",
+   "name": "mPOS",
    "model": "pCloud"
   },
   {
    "device": "POS",
-   "name": "mPOS",
+   "name": "mPOS-R",
    "model": "pCloud"
   }
  ],
@@ -246339,6 +246344,11 @@
    "model": "RMX5303"
   },
   {
+   "device": "RE60BA",
+   "name": "RMX5313",
+   "model": "RMX5313"
+  },
+  {
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
@@ -247037,6 +247047,16 @@
    "device": "RE6095",
    "name": "realme Note 60x",
    "model": "RMX3938"
+  },
+  {
+   "device": "RE60BA",
+   "name": "realme Note 70",
+   "model": "RMX5313"
+  },
+  {
+   "device": "RE60BA",
+   "name": "realme Note 70T",
+   "model": "RMX5313"
   },
   {
    "device": "RE5C86L1",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-14
+Last sync is 2025-07-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9918,6 +9918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|T099|T099|T099|
 |Future Mobile Technology|B-52|176HS1050232|176HS1050232|
 |Future Mobile Technology|CP80K|CP80K|CP80K|
+|Future Mobile Technology|CP80K|CP80K|FunPad-8Max|
 |Future Mobile Technology|DRONE|FMT-NM7108-01|FMT-NM7108-01|
 |Future Mobile Technology|Dual 8|FMT-NT8A42-01|FMT-NT8A42-01|
 |Future Mobile Technology|Eagle|175WT1050231|175WT1050231|
@@ -27833,8 +27834,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PORTFOLIO|P9001|P9001|P9001|
 |POS Terminal|ACT|POS|pCloud|
 |POS Terminal|MINT|POS|pCloud|
-|POS Terminal|PPGLRR76|POS|pCloud|
 |POS Terminal|mPOS|POS|pCloud|
+|POS Terminal|mPOS-R|POS|pCloud|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
 |POSSAFE|OrderGo_6_TR|OrderGo_6|OrderGo 6|
 |POWMUS|L211-EEA|L211-EEA|L211-EEA|
@@ -47921,6 +47922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5000|RE6066L1|RMX5000|
 |realme|RMX5061|RE60ADL1|RMX5061|
 |realme|RMX5303|RE60B8|RMX5303|
+|realme|RMX5313|RE60BA|RMX5313|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -48061,6 +48063,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Note 50|RE5C9F|RMX3834|
 |realme|realme Note 60|RE6054|RMX3933|
 |realme|realme Note 60x|RE6095|RMX3938|
+|realme|realme Note 70|RE60BA|RMX5313|
+|realme|realme Note 70T|RE60BA|RMX5313|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme P1 Speed 5G|RE6066L1|RMX5004|
