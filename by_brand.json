@@ -9151,6 +9151,11 @@
    "model": "SW3299T"
   },
   {
+   "device": "SW3299T",
+   "name": "PortableTV",
+   "model": "SW3299T-4K"
+  },
+  {
    "device": "WF1589T",
    "name": "WF1589T",
    "model": "WF1589T"
@@ -47826,6 +47831,16 @@
    "model": "SD01"
   },
   {
+   "device": "F-51F",
+   "name": "arrows Alpha F-51F",
+   "model": "F-51F"
+  },
+  {
+   "device": "fuji",
+   "name": "arrows Alpha M08",
+   "model": "M08"
+  },
+  {
    "device": "BZ02",
    "name": "arrows BZ02",
    "model": "BZ02"
@@ -57519,6 +57534,11 @@
    "model": "DS_D5C65RB_A"
   },
   {
+   "device": "HIK_3576",
+   "name": "HIK_3576",
+   "model": "HIK_3576"
+  },
+  {
    "device": "HIK_3588",
    "name": "HIK_3588",
    "model": "HIK_3588"
@@ -65578,6 +65598,11 @@
   {
    "device": "HLTE243E",
    "name": "HLTE243E",
+   "model": "Hisense M50"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
    "model": "Hisense M72 Pro"
   },
   {
@@ -70179,6 +70204,16 @@
    "model": "BRP-AN80"
   },
   {
+   "device": "HNMTN-Q",
+   "name": "荣耀X70",
+   "model": "MTN-AN00"
+  },
+  {
+   "device": "HNMTN-Q",
+   "name": "荣耀X70",
+   "model": "MTN-AN80"
+  },
+  {
    "device": "HNHEY3-Q",
    "name": "荣耀平板 10",
    "model": "HEY3-W00"
@@ -70197,6 +70232,11 @@
    "device": "HNROD2-Q",
    "name": "荣耀平板GT PRO",
    "model": "ROD2-W69"
+  },
+  {
+   "device": "HNCHG-Q",
+   "name": "荣耀平板GT2 Pro",
+   "model": "CHG-W60"
   },
   {
    "device": "HNROL-M",
@@ -103421,7 +103461,9 @@
    "device": "khardi",
    "name": "LUMIO",
    "model": "LUMIO VISION"
-  },
+  }
+ ],
+ "LUMOS": [
   {
    "device": "LUMOS_TABLET_PRO",
    "name": "LUMOS_TABLET_PRO",
@@ -104797,6 +104839,11 @@
    "model": "LAVA LXX516"
   },
   {
+   "device": "LXX522",
+   "name": "LAVA LXX522",
+   "model": "LXX522"
+  },
+  {
    "device": "LZG410",
    "name": "LAVA LZG410",
    "model": "LZG410"
@@ -104885,6 +104932,11 @@
    "device": "LZG01",
    "name": "LZG01",
    "model": "LAVA LZG01"
+  },
+  {
+   "device": "LXX517",
+   "name": "Lava LXX517",
+   "model": "LXX517"
   },
   {
    "device": "Magnum_Pro",
@@ -136142,6 +136194,16 @@
    "device": "OP5DA6L1",
    "name": "OnePlus Pad Go",
    "model": "OPD2304"
+  },
+  {
+   "device": "OP6194L1",
+   "name": "OnePlus Pad Lite",
+   "model": "OPD2480"
+  },
+  {
+   "device": "OP6195L1",
+   "name": "OnePlus Pad Lite",
+   "model": "OPD2481"
   },
   {
    "device": "OPWWE231",
@@ -178453,6 +178515,16 @@
    "model": "SM-F741W"
   },
   {
+   "device": "SC-55F",
+   "name": "Galaxy Z Flip7",
+   "model": "SC-55F"
+  },
+  {
+   "device": "SCG35",
+   "name": "Galaxy Z Flip7",
+   "model": "SCG35"
+  },
+  {
    "device": "b7s",
    "name": "Galaxy Z Flip7",
    "model": "SM-F7660"
@@ -178701,6 +178773,16 @@
    "device": "q6q",
    "name": "Galaxy Z Fold6",
    "model": "SM-F956W"
+  },
+  {
+   "device": "SC-56F",
+   "name": "Galaxy Z Fold7",
+   "model": "SC-56F"
+  },
+  {
+   "device": "SCG34",
+   "name": "Galaxy Z Fold7",
+   "model": "SCG34"
   },
   {
    "device": "q7q",
@@ -179339,6 +179421,13 @@
    "device": "shibuya",
    "name": "SanyoTV",
    "model": "SanyoTV"
+  }
+ ],
+ "Sappa": [
+  {
+   "device": "SEI904SAP",
+   "name": "Sappa TV Hub",
+   "model": "Sappa TV Hub"
   }
  ],
  "Sapphire": [
@@ -206402,6 +206491,11 @@
    "device": "TECNO-KM4",
    "name": "TECNO POP 10",
    "model": "TECNO KM4"
+  },
+  {
+   "device": "TECNO-KM4s",
+   "name": "TECNO POP 10",
+   "model": "TECNO KM4s"
   },
   {
    "device": "TECNO-SC7S",
@@ -248223,6 +248317,11 @@
  ],
  "vivo": [
   {
+   "device": "PD2443",
+   "name": "G3",
+   "model": "V2443A"
+  },
+  {
    "device": "DPD2437",
    "name": "Pad5",
    "model": "PA2553"
@@ -248263,9 +248362,24 @@
    "model": "V2532"
   },
   {
+   "device": "PD2443",
+   "name": "Y37t",
+   "model": "V2443A"
+  },
+  {
    "device": "V2439",
    "name": "Y400 Pro 5G",
    "model": "V2439"
+  },
+  {
+   "device": "PD2443",
+   "name": "Y50 5G",
+   "model": "V2443A"
+  },
+  {
+   "device": "PD2443",
+   "name": "Y50m 5G",
+   "model": "V2443BA"
   },
   {
    "device": "V2440",

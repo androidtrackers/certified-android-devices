@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-15
+Last sync is 2025-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1751,6 +1751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|NW1495T_ROW|NW1495T|NW1495T|
 |Apolosign|Packgo|AP2718T|AP2718T|
 |Apolosign|PortableTV|SW3299T|SW3299T|
+|Apolosign|PortableTV|SW3299T|SW3299T-4K|
 |Apolosign|WF1589T|WF1589T|WF1589T|
 |Apolosign|WF2189T|WF2189T|WF2189T|
 |Apolosign|WF2489T|WF2489T|WF2489T|
@@ -9204,6 +9205,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|F-53E|F53E|F-53E|
 |FCNT|MR01|MR01|MR01|
 |FCNT|SD01|SD01|SD01|
+|FCNT|arrows Alpha F-51F|F-51F|F-51F|
+|FCNT|arrows Alpha M08|fuji|M08|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows BZ03|BZ03|BZ03|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
@@ -11051,6 +11054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIKVISION|DS_D5C75RB_A|DS_D5C65RB_A|DS_D5C65RB_A|
+|HIKVISION|HIK_3576|HIK_3576|HIK_3576|
 |HIKVISION|HIK_3588|HIK_3588|HIK_3588|
 |HIKVISION|HIK_9679|HIK_9679|HIK_9679|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
@@ -12634,6 +12638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense E35|
+|Hisense|HLTE243E|HLTE243E|Hisense M50|
 |Hisense|HLTE243E|HLTE243E|Hisense M72 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
@@ -13549,10 +13554,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
+|Honor|荣耀X70|HNMTN-Q|MTN-AN00|
+|Honor|荣耀X70|HNMTN-Q|MTN-AN80|
 |Honor|荣耀平板 10|HNHEY3-Q|HEY3-W00|
 |Honor|荣耀平板10|HNHEY3-Q|HEY3-W10|
 |Honor|荣耀平板GT|HNROL-M|ROL-W60|
 |Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
+|Honor|荣耀平板GT2 Pro|HNCHG-Q|CHG-W60|
 |Honor|荣耀平板V9|HNROL-M|ROL-W00|
 |Honor|荣耀平板V9|HNROL-M|ROL-W10|
 |Honor|荣耀平板V9|HNROL-M|tb8792p1_64_wifi|
@@ -20067,7 +20075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
 |LUMIO|LUMIO|khardi|LUMIO VISION|
-|LUMIO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|
+|LUMOS|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
 |LUMUS|NEOSR620|NEOSR620|NEOSR620|
@@ -20333,6 +20341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX514|LXX514|LAVA LXX514|
 |Lava|LAVA LXX515|LXX515|LXX515|
 |Lava|LAVA LXX516|LXX516|LAVA LXX516|
+|Lava|LAVA LXX522|LXX522|LXX522|
 |Lava|LAVA LZG410|LZG410|LZG410|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA LZX419|LZX419|LAVA LZX419|
@@ -20351,6 +20360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
 |Lava|LZG01|LZG01|LAVA LZG01|
+|Lava|Lava LXX517|LXX517|LXX517|
 |Lava|Magnum Pro|Magnum_Pro|Magnum_Pro|
 |Lava|P7|P7|P7|
 |Lava|P7 Plus|P7plus|P7plus|
@@ -26420,6 +26430,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Pad|OP59BCL1|OPD2203|
 |OnePlus|OnePlus Pad|OP615AL1|OPD2407|
 |OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
+|OnePlus|OnePlus Pad Lite|OP6194L1|OPD2480|
+|OnePlus|OnePlus Pad Lite|OP6195L1|OPD2481|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus Watch 2R|OPWWE234|OPWWE234|
 |OnePlus|OnePlus Watch 3|OPWWE251|OPWWE251|
@@ -34719,6 +34731,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741U1|
 |Samsung|Galaxy Z Flip6|b6q|SM-F741W|
+|Samsung|Galaxy Z Flip7|SC-55F|SC-55F|
+|Samsung|Galaxy Z Flip7|SCG35|SCG35|
 |Samsung|Galaxy Z Flip7|b7s|SM-F7660|
 |Samsung|Galaxy Z Flip7|b7s|SM-F766B|
 |Samsung|Galaxy Z Flip7|b7s|SM-F766N|
@@ -34769,6 +34783,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold6|q6q|SM-F956U|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956U1|
 |Samsung|Galaxy Z Fold6|q6q|SM-F956W|
+|Samsung|Galaxy Z Fold7|SC-56F|SC-56F|
+|Samsung|Galaxy Z Fold7|SCG34|SCG34|
 |Samsung|Galaxy Z Fold7|q7q|SM-F9660|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966B|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966N|
@@ -34893,6 +34909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sanyo|CER2|CER2|CER2|
 |Sanyo|CER3|CER3|CER3|
 |Sanyo|SanyoTV|shibuya|SanyoTV|
+|Sappa|Sappa TV Hub|SEI904SAP|Sappa TV Hub|
 |Sapphire|Sapphire Phone|Sapphire_Phone|Sapphire Phone|
 |Sasktel|HMB2213PW22WA|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
@@ -40190,6 +40207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO PHANTOM V Fold|TECNO-AD10|TECNO AD10|
 |Tecno|TECNO PHANTOM V Fold2 5G|TECNO-AE10|TECNO AE10|
 |Tecno|TECNO POP 10|TECNO-KM4|TECNO KM4|
+|Tecno|TECNO POP 10|TECNO-KM4s|TECNO KM4s|
 |Tecno|TECNO POP 2 Air|TECNO-SC7S|TECNO SC7S|
 |Tecno|TECNO POP 2F|TECNO-B1g|TECNO B1g|
 |Tecno|TECNO POP 2X Plus|TECNO-RB8S|TECNO RB8S|
@@ -48285,6 +48303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Metal Pro 1|V505820|V505820|
 |videocon|Metal Pro 2|V505920|V505920|
 |videocon|Starr 100|V406018|V406018|
+|vivo|G3|PD2443|V2443A|
 |vivo|Pad5|DPD2437|PA2553|
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
@@ -48293,7 +48312,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|
+|vivo|Y37t|PD2443|V2443A|
 |vivo|Y400 Pro 5G|V2439|V2439|
+|vivo|Y50 5G|PD2443|V2443A|
+|vivo|Y50m 5G|PD2443|V2443BA|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
