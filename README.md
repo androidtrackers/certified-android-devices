@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-16
+Last sync is 2025-07-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25546,6 +25546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newline|23QA|velvet|LGA311D2|
 |Newline|Q23|rk3588_t|Q23|
 |Newline|WB55860W|WB55860W|WB55860W|
+|Newline|WB76110A|WB76110A|WB76110A|
 |Newline|Z Pro Series|Z24|24ZPro|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
@@ -29469,6 +29470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|L8_C01_EEA|L8_C01_EEA|L8_C01_EEA|
 |Pritom|L8_C02|L8_C02|L8_C02|
 |Pritom|L8_C02_EEA|L8_C02_EEA|L8_C02_EEA|
+|Pritom|L8_D01|L8_D01|L8_D01|
 |Pritom|L8_EEA|L8_EEA|L8_EEA|
 |Pritom|L8_PRO|L8_PRO|L8|
 |Pritom|L8_PRO_EEA|L8_PRO_EEA|L8|
@@ -41387,6 +41389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1_Tab_EEA|G1_Tab_EEA|MT10|
 |Umidigi|G1_Tab_Kids|G1_Tab_Kids|MT10|
 |Umidigi|G1_Tab_Kids_EEA|G1_Tab_Kids_EEA|MT10|
+|Umidigi|G1_Tab_Mini|G1_Tab_Mini|FunPad-8-WIFI|
 |Umidigi|G1_Tab_Mini|G1_Tab_Mini|TG3DBG1MA|
 |Umidigi|G1_Tab_Mini_EEA|G1_Tab_Mini_EEA|TG3DBG1MA|
 |Umidigi|G1_Tab_Mini_GO|G1_Tab_Mini_GO|TG3DBG1MA|
@@ -42344,6 +42347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic||viewpad7x|ViewPad7x|
 |ViewSonic|IFP34|IFP34|IFP34|
 |ViewSonic|IFP51_Series|IFP51|IFP51|
+|ViewSonic|IFP63 Series|IFP63|IFP63|
 |ViewSonic|IFP8652-2|IFP8652-2|IFP8652-2|
 |ViewSonic|IN02 series|IN02_series|IN02_series|
 |ViewSonic|IN03_Series|IN03|IN03|
@@ -43509,6 +43513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WHOOP|TAB-8US2|TAB-8US2|TAB-8US2|
 |WHOOP|TAB_8US1|TAB_8US1|TAB_8US1|
 |WIDE|WD_PL|WD_PL|WD_PL|
+|WIDEVISION|WIDEVISION|WIDEVISION_IFPD|WIDEVISION_IFPD|
 |WIIGO|WG-7650|WG-7650|WG-7650|
 |WILL (JP)|Willfon_Pad_02|Willfon_Pad_02|Willfon_Pad_02|
 |WILLETT|India|tamachi|WILLETT FHD Android TV|
@@ -47989,6 +47994,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 14T 5G|RE60AFL1|RMX5074|
 |realme|realme 14T 5G|RE60AFL1|RMX5078|
 |realme|realme 14x 5G|RE6092|RMX3943|
+|realme|realme 15 5G|RE60CCL1|RMX5106|
+|realme|realme 15 5G|RE60CDL1|RMX5106|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|

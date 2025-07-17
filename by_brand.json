@@ -131574,6 +131574,11 @@
    "model": "WB55860W"
   },
   {
+   "device": "WB76110A",
+   "name": "WB76110A",
+   "model": "WB76110A"
+  },
+  {
    "device": "Z24",
    "name": "Z Pro Series",
    "model": "24ZPro"
@@ -151689,6 +151694,11 @@
    "device": "L8_C02_EEA",
    "name": "L8_C02_EEA",
    "model": "L8_C02_EEA"
+  },
+  {
+   "device": "L8_D01",
+   "name": "L8_D01",
+   "model": "L8_D01"
   },
   {
    "device": "L8_EEA",
@@ -212669,6 +212679,11 @@
   {
    "device": "G1_Tab_Mini",
    "name": "G1_Tab_Mini",
+   "model": "FunPad-8-WIFI"
+  },
+  {
+   "device": "G1_Tab_Mini",
+   "name": "G1_Tab_Mini",
    "model": "TG3DBG1MA"
   },
   {
@@ -217670,6 +217685,11 @@
    "device": "IFP51",
    "name": "IFP51_Series",
    "model": "IFP51"
+  },
+  {
+   "device": "IFP63",
+   "name": "IFP63 Series",
+   "model": "IFP63"
   },
   {
    "device": "IFP8652-2",
@@ -223591,6 +223611,13 @@
    "device": "WD_PL",
    "name": "WD_PL",
    "model": "WD_PL"
+  }
+ ],
+ "WIDEVISION": [
+  {
+   "device": "WIDEVISION_IFPD",
+   "name": "WIDEVISION",
+   "model": "WIDEVISION_IFPD"
   }
  ],
  "WIIGO": [
@@ -246681,6 +246708,16 @@
    "device": "RE6092",
    "name": "realme 14x 5G",
    "model": "RMX3943"
+  },
+  {
+   "device": "RE60CCL1",
+   "name": "realme 15 5G",
+   "model": "RMX5106"
+  },
+  {
+   "device": "RE60CDL1",
+   "name": "realme 15 5G",
+   "model": "RMX5106"
   },
   {
    "device": "SW6H",
