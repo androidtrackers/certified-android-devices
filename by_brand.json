@@ -88114,6 +88114,13 @@
    "model": "JLab PRO-7"
   }
  ],
+ "JMTMEDIA": [
+  {
+   "device": "e_Smart",
+   "name": "e_Smart",
+   "model": "e_Smart"
+  }
+ ],
  "JOVI": [
   {
    "device": "V2440B",
@@ -91665,6 +91672,11 @@
   {
    "device": "hongkong",
    "name": "THEUHD",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "TOMMATECH",
    "model": "4K SMART TV"
   },
   {
@@ -152236,6 +152248,11 @@
  ],
  "Promethean": [
   {
+   "device": "ActivPanel-LE",
+   "name": "ActivPanel-LE",
+   "model": "APLE"
+  },
+  {
    "device": "XM3566D",
    "name": "Promethean OPS-A1",
    "model": "OPS-A1"
@@ -165342,11 +165359,6 @@
   {
    "device": "a56x",
    "name": "Galaxy A56 5G",
-   "model": "SM-A566S"
-  },
-  {
-   "device": "a56x",
-   "name": "Galaxy A56 5G",
    "model": "SM-A566U1"
   },
   {
@@ -171333,6 +171345,11 @@
    "device": "a55x",
    "name": "Galaxy Quantum5",
    "model": "SM-A556S"
+  },
+  {
+   "device": "a56x",
+   "name": "Galaxy Quantum6",
+   "model": "SM-A566S"
   },
   {
    "device": "jaguark",
@@ -210617,6 +210634,11 @@
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "elliniko",
+   "name": "UD",
+   "model": "UD SMART TV"
   }
  ],
  "UGRIHACH": [
@@ -239810,6 +239832,11 @@
    "device": "Z6657",
    "name": "nubia A76",
    "model": "Z6657CA"
+  },
+  {
+   "device": "P780F02",
+   "name": "nubia Air",
+   "model": "Z2468N"
   },
   {
    "device": "P678F01",

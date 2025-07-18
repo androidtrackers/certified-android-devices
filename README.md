@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-17
+Last sync is 2025-07-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17080,6 +17080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JIZHAO|JZP57|JZP57|JZP57|
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
+|JMTMEDIA|e_Smart|e_Smart|e_Smart|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
@@ -17760,6 +17761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Smart TV|mountbaker|EcoTV FHD|
 |KTCtv|THEUHD|hongkong|4K SMART TV|
+|KTCtv|TOMMATECH|elliniko|4K SMART TV|
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
@@ -29574,6 +29576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proline|base10.3g silver|H1010|H1010|
 |Prolink|NeoSmart5|NeoSmart5|NeoSmart5|
 |Promark|PRO AT Series|PRO-AT-Series|PRO-AT-Series|
+|Promethean|ActivPanel-LE|ActivPanel-LE|APLE|
 |Promethean|Promethean OPS-A1|XM3566D|OPS-A1|
 |Promethean|Promethean OPS-A2|OPS-A2|OPS-A2|
 |Prometheus|PROMETHEUS|stanford|SMART TV|
@@ -32096,7 +32099,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A56 5G|a56x|SM-A5660|
 |Samsung|Galaxy A56 5G|a56x|SM-A566B|
 |Samsung|Galaxy A56 5G|a56x|SM-A566E|
-|Samsung|Galaxy A56 5G|a56x|SM-A566S|
 |Samsung|Galaxy A56 5G|a56x|SM-A566U1|
 |Samsung|Galaxy A56 5G|a56x|SM-A566W|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
@@ -33295,6 +33297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Quantum3|m53x|SM-M536S|
 |Samsung|Galaxy Quantum4|a54x|SM-A546S|
 |Samsung|Galaxy Quantum5|a55x|SM-A556S|
+|Samsung|Galaxy Quantum6|a56x|SM-A566S|
 |Samsung|Galaxy R-Style|jaguark|SHV-E170K|
 |Samsung|Galaxy R-Style|jaguarl|SHV-E170L|
 |Samsung|Galaxy R-Style|jaguars|SHV-E170S|
@@ -40989,6 +40992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UCM(M)|T12|T12|T12|
 |UD (EU)|Smart TV|longshan|AI PONT|
 |UD (EU)|Smart TV|redwood|AI PONT|
+|UD (EU)|UD|elliniko|UD SMART TV|
 |UGRIHACH|C11|C11|C11|
 |UGRIHACH|C11_EEA|C11|C11|
 |UGRIHACH|MB1001|MB1001|MB1001|
@@ -46688,6 +46692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia 8046|P616F01|nubia 8046|
 |ZTE|nubia A75|Z6255|Z6255CA|
 |ZTE|nubia A76|Z6657|Z6657CA|
+|ZTE|nubia Air|P780F02|Z2468N|
 |ZTE|nubia Flip 2 5G|P678F01|NX732J|
 |ZTE|nubia Flip 2 5G|Z8900|Z8900CA|
 |ZTE|nubia Flip 5G|P745F01|NX724J|
