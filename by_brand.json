@@ -26787,6 +26787,11 @@
    "model": "G60_Pro_4G"
   },
   {
+   "device": "IS_Panel",
+   "name": "IS_IFPSeries_65",
+   "model": "IS_IFPSeries"
+  },
+  {
    "device": "Note13",
    "name": "Note13",
    "model": "Note13"

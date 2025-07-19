@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-18
+Last sync is 2025-07-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5173,6 +5173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Coco10_Ultra_4G|Coco10_Ultra_4G|Coco10_Ultra_4G|
 |CORN|G60|G60|G60|
 |CORN|G60_Pro_4G|G60_Pro_4G|G60_Pro_4G|
+|CORN|IS_IFPSeries_65|IS_Panel|IS_IFPSeries|
 |CORN|Note13|Note13|Note13|
 |CORN|Play25_Pro_4G|Play25_Pro_4G|Play25_Pro_4G|
 |CORN|R10|R10S|R10|
