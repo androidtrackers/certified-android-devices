@@ -113999,6 +113999,18 @@
    "model": "Tab-1"
   }
  ],
+ "MOLLIE": [
+  {
+   "device": "Mollie_Tap",
+   "name": "Mollie_Tap",
+   "model": "Mollie Tap"
+  },
+  {
+   "device": "Mollie_Tap_EEA",
+   "name": "Mollie_Tap_EEA",
+   "model": "Mollie Tap EEA"
+  }
+ ],
  "MONOMAX": [
   {
    "device": "DV6071Z-KTM",
@@ -138431,6 +138443,26 @@
    "device": "OP5EE3L1",
    "name": "K13 5G",
    "model": "CPH2729"
+  },
+  {
+   "device": "OP5E05L1",
+   "name": "K13 Turbo 5G",
+   "model": "PLM110"
+  },
+  {
+   "device": "OP5EE9L1",
+   "name": "K13 Turbo 5G",
+   "model": "CPH2761"
+  },
+  {
+   "device": "OP5E03L1",
+   "name": "K13 Turbo Pro 5G",
+   "model": "PLE110"
+  },
+  {
+   "device": "OP5EE7L1",
+   "name": "K13 Turbo Pro 5G",
+   "model": "CPH2731"
   },
   {
    "device": "OP5EF7L1",
@@ -248434,6 +248466,11 @@
    "device": "PD2443",
    "name": "Y37t",
    "model": "V2443A"
+  },
+  {
+   "device": "V2506",
+   "name": "Y400 5G",
+   "model": "V2506"
   },
   {
    "device": "V2439",

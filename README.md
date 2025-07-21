@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-20
+Last sync is 2025-07-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22131,6 +22131,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOBULAA|S11|S11|S11|
 |MOBULAA|S6|S6|S6|
 |MOBULAA|Tab-1|Tab-1|Tab-1|
+|MOLLIE|Mollie_Tap|Mollie_Tap|Mollie Tap|
+|MOLLIE|Mollie_Tap_EEA|Mollie_Tap_EEA|Mollie Tap EEA|
 |MONOMAX|Max Play|DV6071Z-KTM|Max Play|
 |MOREFUN|M90|M90|M90|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
@@ -26873,6 +26875,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K12x 5G|OP5A1F|PJT110|
 |Oppo|K12x 5G|OP5B05L1|CPH2667|
 |Oppo|K13 5G|OP5EE3L1|CPH2729|
+|Oppo|K13 Turbo 5G|OP5E05L1|PLM110|
+|Oppo|K13 Turbo 5G|OP5EE9L1|CPH2761|
+|Oppo|K13 Turbo Pro 5G|OP5E03L1|PLE110|
+|Oppo|K13 Turbo Pro 5G|OP5EE7L1|CPH2731|
 |Oppo|K13x 5G|OP5EF7L1|CPH2753|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
@@ -48326,6 +48332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y37t|PD2443|V2443A|
+|vivo|Y400 5G|V2506|V2506|
 |vivo|Y400 Pro 5G|V2439|V2439|
 |vivo|Y50 5G|PD2443|V2443A|
 |vivo|Y50m 5G|PD2443|V2443BA|
