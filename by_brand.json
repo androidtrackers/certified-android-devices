@@ -3799,6 +3799,11 @@
    "model": "DA245HQL"
   },
   {
+   "device": "Aquarius",
+   "name": "DA251Q",
+   "model": "DA251Q"
+  },
+  {
    "device": "acer_e3n",
    "name": "E380",
    "model": "E380"
@@ -8556,6 +8561,11 @@
   }
  ],
  "AngelTech": [
+  {
+   "device": "ATKSLIM",
+   "name": "ATKSLIM",
+   "model": "ATKSLIM"
+  },
   {
    "device": "E109GCM",
    "name": "E109GCM",
@@ -36258,6 +36268,11 @@
  ],
  "DGTEC": [
   {
+   "device": "11_inch_tablet",
+   "name": "11_inch_tablet",
+   "model": "DG11PROGN"
+  },
+  {
    "device": "DG101HSTB",
    "name": "DG101HSTB",
    "model": "DG101HSTB"
@@ -43740,6 +43755,11 @@
   }
  ],
  "ENV(EC)": [
+  {
+   "device": "A18",
+   "name": "A18",
+   "model": "A18"
+  },
   {
    "device": "ENV_Kidz_8",
    "name": "ENV_Kidz_8",
@@ -63498,6 +63518,18 @@
    "model": "HPAD_IP8045_1"
   }
  ],
+ "Hakaug": [
+  {
+   "device": "X109",
+   "name": "X109",
+   "model": "X109"
+  },
+  {
+   "device": "X109",
+   "name": "X109_EEA",
+   "model": "X109"
+  }
+ ],
  "HaloBop (ShenZhen)": [
   {
    "device": "HelloGenius",
@@ -69642,6 +69674,11 @@
    "device": "HNFCPX",
    "name": "HONOR Magic V3",
    "model": "FCP-N49"
+  },
+  {
+   "device": "HNMBHX",
+   "name": "HONOR Magic V5",
+   "model": "MBH-N49"
   },
   {
    "device": "HNFRI",
@@ -142814,6 +142851,11 @@
    "device": "Q8PRO",
    "name": "Q8PRO",
    "model": "Q8K PRO"
+  },
+  {
+   "device": "Q8S_Pro",
+   "name": "Q8S_Pro",
+   "model": "Q8S_Pro"
   },
   {
    "device": "YQ11M",

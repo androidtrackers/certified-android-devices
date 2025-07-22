@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-21
+Last sync is 2025-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -713,6 +713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|DA226HQ|da6|DA226HQ|
 |Acer|DA241HL|DA241HL|DA241HL|
 |Acer|DA245HQL|da245hql|DA245HQL|
+|Acer|DA251Q|Aquarius|DA251Q|
 |Acer|E380|acer_e3n|E380|
 |Acer|Frontier|Frontier|P10-11|
 |Acer|G1-715|G1-715|G1-715|
@@ -1635,6 +1636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Andersson|TBX11|TBX11|TBX11|
 |Andersson|tablet|TBX211|TBX211|
 |AngelLira|ALFP200|ALFP200|ALFP200|
+|AngelTech|ATKSLIM|ATKSLIM|ATKSLIM|
 |AngelTech|E109GCM|E109GCM|E109GCM|
 |AngelTech|P80|P80|P80|
 |Antel|Antel Box2.0|Antel_B866V2FAS|Antel Box2.0|
@@ -7004,6 +7006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|lxion MS255|MS255|Ixion MS255|
 |DEYI|DEYI-10M18|DEYI-10M18|DEYI-10M18|
 |DEYI|DEYI10M18|DEYI10M18A53|DEYI10M18A53|
+|DGTEC|11_inch_tablet|11_inch_tablet|DG11PROGN|
 |DGTEC|DG101HSTB|DG101HSTB|DG101HSTB|
 |DGTEC|DG101SVCB|DG101SVCB|DG101SVCB|
 |DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
@@ -8433,6 +8436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENIE|SKT706|SKT706|SKT706|
 |ENIE|VT8216|VT8216|VT8216|
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
+|ENV(EC)|A18|A18|A18|
 |ENV(EC)|ENV_Kidz_8|ENV_Kidz_8|ENV_Kidz_8|
 |ENV(EC)|ENV_NOTE_X|ENV_NOTE_X|ENV NOTE X|
 |ENV(EC)|note 16|note_16|note 16|
@@ -12234,6 +12238,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haitech|HPAD_IA65|Tablet|KITYPRO|
 |Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
 |Haitech|HPAD_IP8045_1|HPAD_IP8045_1|HPAD_IP8045_1|
+|Hakaug|X109|X109|X109|
+|Hakaug|X109_EEA|X109|X109|
 |HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
 |Hami TV|HamiVideo|HamiVideo|HamiVideo|
 |Hamic|MIELS|MIELS|MIELS|
@@ -13442,6 +13448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 90 Smart|HNCLK-M1|CLK-NX3|
 |Honor|HONOR Magic V2|HNVER|VER-N49|
 |Honor|HONOR Magic V3|HNFCPX|FCP-N49|
+|Honor|HONOR Magic V5|HNMBHX|MBH-N49|
 |Honor|HONOR Magic Vs|HNFRI|FRI-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
@@ -27736,6 +27743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|Q8|Q8|Q8K|
 |PEICHENG|Q8PRO|Q8PRO|Q8 PRO|
 |PEICHENG|Q8PRO|Q8PRO|Q8K PRO|
+|PEICHENG|Q8S_Pro|Q8S_Pro|Q8S_Pro|
 |PEICHENG|YQ11M|YQ11M|YQ11M|
 |PEICHENG|ZB31|ZB31|ZB31|
 |PEICHENG|ZB32|ZB32|ZB32|
