@@ -35253,6 +35253,11 @@
    "model": "E15_US"
   },
   {
+   "device": "E15_V_EEA",
+   "name": "E15_V_EEA",
+   "model": "E15_V_EEA"
+  },
+  {
    "device": "E6_EEA",
    "name": "E6_EEA",
    "model": "E6_EEA"
@@ -125727,6 +125732,31 @@
    "model": "moto g64y 5G"
   },
   {
+   "device": "bogota",
+   "name": "moto g66j 5G",
+   "model": "moto g54 5G"
+  },
+  {
+   "device": "bogota",
+   "name": "moto g66j 5G",
+   "model": "moto g64 5G"
+  },
+  {
+   "device": "bogota",
+   "name": "moto g66j 5G",
+   "model": "moto g66j 5G"
+  },
+  {
+   "device": "bogota",
+   "name": "moto g66y 5G",
+   "model": "moto g64 5G"
+  },
+  {
+   "device": "bogota",
+   "name": "moto g66y 5G",
+   "model": "moto g66y 5G"
+  },
+  {
    "device": "corfur",
    "name": "moto g71 5G",
    "model": "moto g(50)"
@@ -147106,6 +147136,11 @@
   }
  ],
  "Pioneer_Digital_TV": [
+  {
+   "device": "SEI900PD",
+   "name": "PD900BOX",
+   "model": "PD900BOX"
+  },
   {
    "device": "DV8535-KIP",
    "name": "PD_DV_8535",
@@ -222539,6 +222574,11 @@
   }
  ],
  "Volkano": [
+  {
+   "device": "VK74012BLV2",
+   "name": "VK74012BLV2",
+   "model": "VK74012BLV2"
+  },
   {
    "device": "VK_740_12",
    "name": "VK_740_12",

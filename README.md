@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-22
+Last sync is 2025-07-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6805,6 +6805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEERTiME|E10_US|E10_US|E10_US|
 |DEERTiME|E15_EEA|E15_EEA|E15_EEA|
 |DEERTiME|E15_US|E15_US|E15_US|
+|DEERTiME|E15_V_EEA|E15_V_EEA|E15_V_EEA|
 |DEERTiME|E6_EEA|E6_EEA|E6_EEA|
 |DEERTiME|E6_RU|E6_RU|E6_RU|
 |DEERTiME|E6_US|E6_US|E6_US|
@@ -24419,6 +24420,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g64 5G|cancunf|moto g64 5G|
 |Motorola|moto g64y 5G|cancunf|moto g54 5G|
 |Motorola|moto g64y 5G|cancunf|moto g64y 5G|
+|Motorola|moto g66j 5G|bogota|moto g54 5G|
+|Motorola|moto g66j 5G|bogota|moto g64 5G|
+|Motorola|moto g66j 5G|bogota|moto g66j 5G|
+|Motorola|moto g66y 5G|bogota|moto g64 5G|
+|Motorola|moto g66y 5G|bogota|moto g66y 5G|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto g72|vicky|moto g(50) 5G|
@@ -28569,6 +28575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pioneer|SDA-8TAB|SDA_8TAB|SDA-8TAB|
 |Pioneer|XDP-100R|Fu_Zin_32|XDP-100R|
 |Pioneer|XDP-300R|Fu_Zin2R_32|XDP-300R|
+|Pioneer_Digital_TV|PD900BOX|SEI900PD|PD900BOX|
 |Pioneer_Digital_TV|PD_DV_8535|DV8535-KIP|PD_DV_8535|
 |Piranha|Piranha8032|Piranha8032|Piranha8032|
 |Pitney Bowes|Pitney Bowes C-Series|ELINK2|CSD-ELINK2|
@@ -43306,6 +43313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Vodafone TV 3|m377_vf|Vodafone TV 3|
 |Voger|X100|X100|X100|
 |Voger|X100_EEA|X100_EEA|X100_EEA|
+|Volkano|VK74012BLV2|VK74012BLV2|VK74012BLV2|
 |Volkano|VK_740_12|VK_740_12|VK_740_12|
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
 |Volt Mobile|v7|v7|v7|
