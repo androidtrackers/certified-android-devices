@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-23
+Last sync is 2025-07-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5191,6 +5191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star8_3G|Star8_3G|Star8_3G|
 |CORN|Star9_Max|Star9_Max|Star9_Max|
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
+|CORN|T12Pro|T12Pro|T12Pro|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
 |CORN|Tronik_12S|Tronik_12S|Tronik_12S|
@@ -6790,6 +6791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
 |DAIKO|DAIKO UHD TV|OD0M_EA_T32|DAIKO UHD TV|
 |DAIYU|MBTWDY01|Mediabox|MBTWDY01|
+|DAMASCO|TAB-T863-3|TAB-T863-3|TAB-T863-3|
 |DANDOON|A2|A2|A2|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
@@ -10986,6 +10988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAEXC|SP104Ex|SP104Ex|SP104Ex|
 |HAKO|HAKO Pro|YXU|HAKO Pro|
 |HAKO|HAKO mini|GMP|HAKO mini|
+|HALA|B1 PDA|B1_PDA|B1_PDA|
 |HANASIS|BLAZE|BLAZE|BLAZE|
 |HANDELSON|H14|H14|H14|
 |HANET|T432|SmartEdu|T432|
@@ -31775,6 +31778,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A06 5G|a06x|SM-A066B|
 |Samsung|Galaxy A06 5G|a06x|SM-A066E|
 |Samsung|Galaxy A06 5G|a06x|SM-A066M|
+|Samsung|Galaxy A07|a07|SM-A075F|
+|Samsung|Galaxy A07|a07|SM-M075F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -39520,6 +39525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TPS|TPS-SC10|TPS-SC10|TPS-SC10|
 |TREQ|SmarTab-8|SmarTab-8|SmarTab-8|
 |TRIPLTEK|T mini|T_mini|T mini|
+|TRIUMPH_BOARD|TRIUMPH BOARD|rk3576_u|TRIUMPH_BOARD_BLACK|
 |TRIUMPH_BOARD|TRIUMPH_IFP_BLACK_G|mt9679_u|TRIUMPH_BOARD_BLACK|
 |TRT(SZ)|NOTEXPRO|NOTEXPRO|NOTEXPRO|
 |TRUE_SLIM|T1586K|T1586K|T1586K|
@@ -41141,6 +41147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor Pad 2|Armor_Pad_2|UTAB A2|
 |Ulefone|Armor Pad 3 Pro|ArmorPad3Pro|Armor Pad 3 Pro|
 |Ulefone|Armor Pad 4 Ultra|GQ3121AF1|Armor Pad 4 Ultra|
+|Ulefone|Armor Pad 5 Ultra|GQ8000BF1|Armor Pad 5 Ultra|
 |Ulefone|Armor Pad Lite|ArmorPadLite|Armor Pad Lite|
 |Ulefone|Armor Pad Pro|ArmorPadPro|Armor Pad Pro|
 |Ulefone|Armor X|Armor_X|Armor_X|
@@ -44975,6 +44982,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z128_US|Z128_US|Z128_US|
 |ZIOVO|Z138_EEA|Z138_EEA|Z138_EEA|
 |ZIOVO|Z138_US|Z138_US|Z138_US|
+|ZIOVO|Z138_V_US|Z138_V_US|Z138_V_US|
 |ZIOVO|Z158_EEA|Z158_EEA|Z158_EEA|
 |ZIOVO|Z158_US|Z158_US|Z158_US|
 |ZIOVO|Z168-W|Z168-W|Z168-W|
@@ -48024,6 +48032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 14x 5G|RE6092|RMX3943|
 |realme|realme 15 5G|RE60CCL1|RMX5106|
 |realme|realme 15 5G|RE60CDL1|RMX5106|
+|realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|

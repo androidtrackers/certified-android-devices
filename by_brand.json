@@ -26877,6 +26877,11 @@
    "model": "Star9_Pro"
   },
   {
+   "device": "T12Pro",
+   "name": "T12Pro",
+   "model": "T12Pro"
+  },
+  {
    "device": "Tronik_13S",
    "name": "Tronik 13S",
    "model": "Tronik 13S"
@@ -35164,6 +35169,13 @@
    "device": "Mediabox",
    "name": "MBTWDY01",
    "model": "MBTWDY01"
+  }
+ ],
+ "DAMASCO": [
+  {
+   "device": "TAB-T863-3",
+   "name": "TAB-T863-3",
+   "model": "TAB-T863-3"
   }
  ],
  "DANDOON": [
@@ -57152,6 +57164,13 @@
    "device": "GMP",
    "name": "HAKO mini",
    "model": "HAKO mini"
+  }
+ ],
+ "HALA": [
+  {
+   "device": "B1_PDA",
+   "name": "B1 PDA",
+   "model": "B1_PDA"
   }
  ],
  "HANASIS": [
@@ -163741,6 +163760,16 @@
    "model": "SM-A066M"
   },
   {
+   "device": "a07",
+   "name": "Galaxy A07",
+   "model": "SM-A075F"
+  },
+  {
+   "device": "a07",
+   "name": "Galaxy A07",
+   "model": "SM-M075F"
+  },
+  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -202974,6 +203003,11 @@
  ],
  "TRIUMPH_BOARD": [
   {
+   "device": "rk3576_u",
+   "name": "TRIUMPH BOARD",
+   "model": "TRIUMPH_BOARD_BLACK"
+  },
+  {
    "device": "mt9679_u",
    "name": "TRIUMPH_IFP_BLACK_G",
    "model": "TRIUMPH_BOARD_BLACK"
@@ -211435,6 +211469,11 @@
    "device": "GQ3121AF1",
    "name": "Armor Pad 4 Ultra",
    "model": "Armor Pad 4 Ultra"
+  },
+  {
+   "device": "GQ8000BF1",
+   "name": "Armor Pad 5 Ultra",
+   "model": "Armor Pad 5 Ultra"
   },
   {
    "device": "ArmorPadLite",
@@ -231235,6 +231274,11 @@
    "model": "Z138_US"
   },
   {
+   "device": "Z138_V_US",
+   "name": "Z138_V_US",
+   "model": "Z138_V_US"
+  },
+  {
    "device": "Z158_EEA",
    "name": "Z158_EEA",
    "model": "Z158_EEA"
@@ -246864,6 +246908,11 @@
    "device": "RE60CDL1",
    "name": "realme 15 5G",
    "model": "RMX5106"
+  },
+  {
+   "device": "RE60B4L1",
+   "name": "realme 15 Pro 5G",
+   "model": "RMX5101"
   },
   {
    "device": "SW6H",
