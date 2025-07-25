@@ -48550,6 +48550,11 @@
    "model": "AS65U"
   },
   {
+   "device": "AS65U",
+   "name": "AS65U",
+   "model": "Sail 3"
+  },
+  {
    "device": "C10",
    "name": "C10",
    "model": "C10"
@@ -204584,6 +204589,11 @@
    "device": "P30_B",
    "name": "P30_ROW",
    "model": "P30_ROW"
+  },
+  {
+   "device": "P30_B",
+   "name": "P30_ROW",
+   "model": "bnd"
   },
   {
    "device": "P30_ROW",

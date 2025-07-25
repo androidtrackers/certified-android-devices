@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-24
+Last sync is 2025-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9342,6 +9342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|A67W_Lite|A67W_Lite|A67W Lite|
 |FOXXD|A6_Plus|A6_Plus|A6 Plus|
 |FOXXD|AS65U|AS65U|AS65U|
+|FOXXD|AS65U|AS65U|Sail 3|
 |FOXXD|C10|C10|C10|
 |FOXXD|FOXXD C65|FOXXD_C65|FOXXD C65|
 |FOXXD|FOXXD HTH C67|HTH_C67|FOXXD HTH C67|
@@ -39824,6 +39825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30_ROW|P30|P30_ROW|
 |Teclast|P30_ROW|P30_B|P30|
 |Teclast|P30_ROW|P30_B|P30_ROW|
+|Teclast|P30_ROW|P30_B|bnd|
 |Teclast|P30_ROW|P30_ROW|P30|
 |Teclast|P30_ROW|P30_ROW|P30_ROW|
 |Teclast|P30_RUS|P30_RUS|P30_RUS|
