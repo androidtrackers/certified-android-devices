@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-25
+Last sync is 2025-07-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3363,6 +3363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|ULTRA S|ULTRA_S|ULTRA S|
 |BMobile|Ultra|Bmobile_ULTRA|ULTRA|
 |BMobile|Ultra|Bmobile_ULTRA_TG07|ULTRA|
+|BMobile|VENUS_TG05|Bmobile_VENUS_TG05|VENUS_TG05|
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
 |BNCF|BPad|BPad|BPad|
@@ -15998,6 +15999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|55X1|samseong|AI PONT|
 |Infinix|GT 10 Pro|Infinix-X6739|Infinix X6739|
 |Infinix|GT 20 Pro|Infinix-X6871|Infinix X6871|
+|Infinix|GT 30|Infinix-X6876|Infinix X6876|
 |Infinix|GT 30 Pro|Infinix-X6873|Infinix X6873|
 |Infinix|HOT|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
@@ -27488,6 +27490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|OT11|OT11|OT11|
 |Oukitel|OT11_ROW|OT11|OT11|
 |Oukitel|OT12_EEA|OT12|OT12|
+|Oukitel|OT12_EEA|OT12|P1095|
 |Oukitel|OT12_ROW|OT12|OT12|
 |Oukitel|OT15_EEA|OT15|OT15|
 |Oukitel|OT5_EEA|OT5|OT5|
@@ -37903,6 +37906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032T|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9132G|
+|TCL|TCL TAB 8 Gen2|Venus_4G_NA_OM|8188S|
 |TCL|TCL TAB 8 Gen2|Venus_WiFi_GL|8188X|
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB 8 LTE Gen2|Venus_4G_GL|8188G|
@@ -41031,6 +41035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UJJ(SZ)|U3_US|U3_US|U3_US|
 |UJJ(SZ)|U6_EEA|U6_EEA|U6_EEA|
 |UJJ(SZ)|U6_US|U6_US|U6_US|
+|UJJ(SZ)|U6_V_EEA|U6_V_EEA|U6_V_EEA|
 |UJJ(SZ)|U7_EEA|U7_EEA|U7_EEA|
 |UJJ(SZ)|U7_US|U7_US|U7_US|
 |UJJ(SZ)|U8_EEA|U8_EEA|U8_EEA|
@@ -48355,6 +48360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|T4 Ultra|V2504|V2504|
 |vivo|X Fold5|PD2436|V2436A|
+|vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|

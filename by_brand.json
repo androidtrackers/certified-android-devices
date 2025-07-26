@@ -17395,6 +17395,11 @@
    "model": "ULTRA"
   },
   {
+   "device": "Bmobile_VENUS_TG05",
+   "name": "VENUS_TG05",
+   "model": "VENUS_TG05"
+  },
+  {
    "device": "Bmobile_X10_MV03",
    "name": "X10",
    "model": "X10"
@@ -82620,6 +82625,11 @@
    "model": "Infinix X6871"
   },
   {
+   "device": "Infinix-X6876",
+   "name": "GT 30",
+   "model": "Infinix X6876"
+  },
+  {
    "device": "Infinix-X6873",
    "name": "GT 30 Pro",
    "model": "Infinix X6873"
@@ -141543,6 +141553,11 @@
   },
   {
    "device": "OT12",
+   "name": "OT12_EEA",
+   "model": "P1095"
+  },
+  {
+   "device": "OT12",
    "name": "OT12_ROW",
    "model": "OT12"
   },
@@ -194769,6 +194784,11 @@
    "model": "9132G"
   },
   {
+   "device": "Venus_4G_NA_OM",
+   "name": "TCL TAB 8 Gen2",
+   "model": "8188S"
+  },
+  {
    "device": "Venus_WiFi_GL",
    "name": "TCL TAB 8 Gen2",
    "model": "8188X"
@@ -210841,6 +210861,11 @@
    "device": "U6_US",
    "name": "U6_US",
    "model": "U6_US"
+  },
+  {
+   "device": "U6_V_EEA",
+   "name": "U6_V_EEA",
+   "model": "U6_V_EEA"
   },
   {
    "device": "U7_EEA",
@@ -248587,6 +248612,11 @@
    "device": "PD2436",
    "name": "X Fold5",
    "model": "V2436A"
+  },
+  {
+   "device": "V2429",
+   "name": "X Fold5",
+   "model": "V2429"
   },
   {
    "device": "V2503",
