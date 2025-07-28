@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-27
+Last sync is 2025-07-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7060,6 +7060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIGMA_PRO|Pulse|Pulse|Pulse|
 |DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TA2D5P02|
 |DIGMA_PRO|TA2D5P02|Wave_TA2D5P02|Wave TAXX5P0X|
+|DIGMA_PRO|TA3E2M03|TA3E2M03|Evolution TA3E2M03|
 |DIJITSU|DCT 90|DCT_90|DCT 90|
 |DIJITSU|DIJITSU|hongkong|4K SMART TV|
 |DIJITSU|DIJITSU|mountbaker|2K SMART TV|
@@ -7306,6 +7307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T84G_T310A14|T84G_T310A14|T84G_T310A14|
 |Datamini|T84G_T310_332|T84G_T310_332|T84G_T310_332|
 |Datamini|TPOS74G-IGF720|TPOS74G-IGF720|TPOS74G-IGF720|
+|Datatron|Datatron_3588|Datatron_3588|Datatron_3588|
 |Datecs|BlueCash-05|BlueCash-05|BlueCash-05|
 |Datecs|BlueCash_05S|BlueCash_05S|BlueCash_05S|
 |Datsun|D5000|D5000|D5000|
@@ -9758,6 +9760,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freebox|Mini 4K|fbx6lcv2|Freebox Player Mini v2|
 |Freemobile|FS500|FS500|FS500|
 |Freeski|C12|C12|C12|
+|Freeski|C12A|C12|C12|
+|Freeski|C12A_EEA|C12|C12|
 |Freeski|C12_EEA|C12|C12|
 |Freetel|Cricket Wave|Cricket_Wave|FTU18A00|
 |Freetel|FUN PLUS|FUNPLUS|FUN PLUS|
@@ -25568,6 +25572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
 |Newline|23Q|23Q|23Q|
 |Newline|23QA|velvet|LGA311D2|
+|Newline|Newline_Q_Pro_Elite|Q25ELT|Newline_Q_Pro_Elite|
 |Newline|Q23|rk3588_t|Q23|
 |Newline|WB55860W|WB55860W|WB55860W|
 |Newline|WB76110A|WB76110A|WB76110A|
@@ -26263,6 +26268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odea|A10_ROW|A10_ROW|A10_ROW|
 |Odea|A11_EEA|A11_EEA|A11|
 |Odea|A11_ROW|A11_ROW|A11|
+|Odea|A12_B_EEA|A12_B_EEA|A12|
 |Odea|A12_EEA|A12_EEA|A12|
 |Odea|A12_ROW|A12_ROW|A12|
 |Odea|A12_RUS|A12_RUS|A12|
@@ -30384,6 +30390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|POCO F5|marblein|23049PCD8I|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
+|Redmi|REDMI K80 Ultra|dali|25060RK16C|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
 |Redmi|Redmi  7A|pine|Redmi 7A|
@@ -31465,6 +31472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S10_U_EEA|S10_U_EEA|S10_U_EEA|
 |SUAAT|S10_U_US|S10_U_US|S10_US|
 |SUAAT|S10_U_US|S10_U_US|S10_U_US|
+|SUAAT|S10_V_EEA|S10_V_EEA|S10_V_EEA|
 |SUAAT|S3_EEA|S3_EEA|S3_EEA|
 |SUAAT|S3_US|S3_US|S3_US|
 |SUAAT|S6_EEA|S6_EEA|S6_EEA|
@@ -31535,6 +31543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUXI|T900|T900|T900|
 |SVD (Sun Vision Display)|SunBook|SunBook|SunBook|
 |SVITOO|G99|G99|G99|
+|SVITOO|G99_EEA|G99|G99|
 |SVITOO|MOMO8|MOMO8|MOMO8|
 |SVITOO|P08|P08|P08|
 |SVITOO|P10_pro|P10|P10|
@@ -31783,6 +31792,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A06 5G|a06x|SM-A066E|
 |Samsung|Galaxy A06 5G|a06x|SM-A066M|
 |Samsung|Galaxy A07|a07|SM-A075F|
+|Samsung|Galaxy A07|a07|SM-A075M|
+|Samsung|Galaxy A07|a07|SM-E075F|
 |Samsung|Galaxy A07|a07|SM-M075F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
@@ -43790,6 +43801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|G13|G13|G13|
 |Whitedeer|G13_EEA|G13|G13|
 |Whitedeer|KT1028|KT1028|KT1028|
+|Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|

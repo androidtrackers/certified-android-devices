@@ -36552,6 +36552,11 @@
    "device": "Wave_TA2D5P02",
    "name": "TA2D5P02",
    "model": "Wave TAXX5P0X"
+  },
+  {
+   "device": "TA3E2M03",
+   "name": "TA3E2M03",
+   "model": "Evolution TA3E2M03"
   }
  ],
  "DIJITSU": [
@@ -37854,6 +37859,13 @@
    "device": "TPOS74G-IGF720",
    "name": "TPOS74G-IGF720",
    "model": "TPOS74G-IGF720"
+  }
+ ],
+ "Datatron": [
+  {
+   "device": "Datatron_3588",
+   "name": "Datatron_3588",
+   "model": "Datatron_3588"
   }
  ],
  "Datecs": [
@@ -50741,6 +50753,16 @@
   {
    "device": "C12",
    "name": "C12",
+   "model": "C12"
+  },
+  {
+   "device": "C12",
+   "name": "C12A",
+   "model": "C12"
+  },
+  {
+   "device": "C12",
+   "name": "C12A_EEA",
    "model": "C12"
   },
   {
@@ -131694,6 +131716,11 @@
    "model": "LGA311D2"
   },
   {
+   "device": "Q25ELT",
+   "name": "Newline_Q_Pro_Elite",
+   "model": "Newline_Q_Pro_Elite"
+  },
+  {
    "device": "rk3588_t",
    "name": "Q23",
    "model": "Q23"
@@ -135337,6 +135364,11 @@
    "device": "A11_ROW",
    "name": "A11_ROW",
    "model": "A11"
+  },
+  {
+   "device": "A12_B_EEA",
+   "name": "A12_B_EEA",
+   "model": "A12"
   },
   {
    "device": "A12_EEA",
@@ -156478,6 +156510,11 @@
    "model": "24122RKC7C"
   },
   {
+   "device": "dali",
+   "name": "REDMI K80 Ultra",
+   "model": "25060RK16C"
+  },
+  {
    "device": "rodin",
    "name": "REDMI Turbo 4",
    "model": "24129RT7CC"
@@ -162149,6 +162186,11 @@
    "model": "S10_U_US"
   },
   {
+   "device": "S10_V_EEA",
+   "name": "S10_V_EEA",
+   "model": "S10_V_EEA"
+  },
+  {
    "device": "S3_EEA",
    "name": "S3_EEA",
    "model": "S3_EEA"
@@ -162516,6 +162558,11 @@
   {
    "device": "G99",
    "name": "G99",
+   "model": "G99"
+  },
+  {
+   "device": "G99",
+   "name": "G99_EEA",
    "model": "G99"
   },
   {
@@ -163783,6 +163830,16 @@
    "device": "a07",
    "name": "Galaxy A07",
    "model": "SM-A075F"
+  },
+  {
+   "device": "a07",
+   "name": "Galaxy A07",
+   "model": "SM-A075M"
+  },
+  {
+   "device": "a07",
+   "name": "Galaxy A07",
+   "model": "SM-E075F"
   },
   {
    "device": "a07",
@@ -225075,6 +225132,11 @@
   {
    "device": "KT1028",
    "name": "KT1028",
+   "model": "KT1028"
+  },
+  {
+   "device": "KT1028",
+   "name": "KT1028A_EEA",
    "model": "KT1028"
   },
   {
