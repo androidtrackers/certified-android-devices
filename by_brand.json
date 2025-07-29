@@ -31320,6 +31320,11 @@
    "model": "QT10"
   },
   {
+   "device": "Q_Pad_Plus",
+   "name": "QT12AVHE6128M",
+   "model": "Q_Pad_Plus"
+  },
+  {
    "device": "QTAB",
    "name": "QTAB",
    "model": "QTAB"
@@ -33984,6 +33989,11 @@
   }
  ],
  "Cozyla": [
+  {
+   "device": "Calendar",
+   "name": "Calendar+",
+   "model": "CD-8V543F2"
+  },
   {
    "device": "Calendar",
    "name": "Calendar+",
@@ -56295,6 +56305,11 @@
   },
   {
    "device": "comet",
+   "name": "Pixel 9 Pro Fold",
+   "model": "Pixel 9 Pro Fold"
+  },
+  {
+   "device": "generic_arm64",
    "name": "Pixel 9 Pro Fold",
    "model": "Pixel 9 Pro Fold"
   },
@@ -91138,6 +91153,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "BANANA",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "Banana",
    "model": "2K SMART TV"
@@ -92089,6 +92109,11 @@
    "device": "D70R",
    "name": "D70R",
    "model": "D70R"
+  },
+  {
+   "device": "Universe_S24_Plus",
+   "name": "Universe S24_Plus",
+   "model": "Universe_S24_Plus"
   },
   {
    "device": "Universe_S24_Plus",
@@ -120520,6 +120545,11 @@
    "device": "MobiGo2L",
    "name": "Mobigo2L",
    "model": "MobiGo2L"
+  },
+  {
+   "device": "WM58",
+   "name": "WM58",
+   "model": "WM58"
   }
  ],
  "MobiOcean": [
@@ -211213,6 +211243,16 @@
    "device": "A10Max",
    "name": "A10Max_EEA",
    "model": "A10Max"
+  },
+  {
+   "device": "X107",
+   "name": "X107",
+   "model": "X107"
+  },
+  {
+   "device": "X107",
+   "name": "X107_EEA",
+   "model": "X107"
   }
  ],
  "USA111": [
@@ -211486,6 +211526,11 @@
    "device": "GQ5017BF3",
    "name": "Armor 32 Pro",
    "model": "Armor 34 Pro"
+  },
+  {
+   "device": "GQ5017BF4",
+   "name": "Armor 34",
+   "model": "Armor 34"
   },
   {
    "device": "Armor_6",
@@ -222537,6 +222582,11 @@
    "model": "V Lite 3"
   },
   {
+   "device": "V_Pro_3",
+   "name": "V Pro 3",
+   "model": "V Pro 3"
+  },
+  {
    "device": "P809V50",
    "name": "VDF 600",
    "model": "VFD 600"
@@ -232592,6 +232642,11 @@
    "device": "P720F09_U",
    "name": "5G UG Phone U25",
    "model": "5G UG Phone U25"
+  },
+  {
+   "device": "P720T01",
+   "name": "5G UG Tablet T26",
+   "model": "5G UG Tablet T26"
   },
   {
    "device": "P450A01",
@@ -243675,6 +243730,13 @@
    "device": "IS930",
    "name": "IS930",
    "model": "IS930"
+  }
+ ],
+ "i3CONNECT": [
+  {
+   "device": "oversea_v",
+   "name": "Aspen 4",
+   "model": "Aspen_4"
   }
  ],
  "i5 (dza)": [

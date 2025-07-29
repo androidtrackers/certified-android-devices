@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-28
+Last sync is 2025-07-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6038,6 +6038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|Q6|Q6|Q6|
 |Compaq|QT10|Compaq_QT10|QT10|
 |Compaq|QT10|QT10|QT10|
+|Compaq|QT12AVHE6128M|Q_Pad_Plus|Q_Pad_Plus|
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10.1|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10_1|
@@ -6563,6 +6564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-L45s|CP-L45s|CP-L45s|
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
+|Cozyla|Calendar+|Calendar|CD-8V543F2|
 |Cozyla|Calendar+|Calendar|Calendar+|
 |Crafty|Crafty-IFPD|rk3588_t|ELP-4391K|
 |Crafty|Crafty-IFPD|rk3588_t|ELT-6502K|
@@ -10823,6 +10825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 9|tokay|Pixel 9|
 |Google|Pixel 9 Pro|caiman|Pixel 9 Pro|
 |Google|Pixel 9 Pro Fold|comet|Pixel 9 Pro Fold|
+|Google|Pixel 9 Pro Fold|generic_arm64|Pixel 9 Pro Fold|
 |Google|Pixel 9 Pro XL|komodo|Pixel 9 Pro XL|
 |Google|Pixel 9a|tegu|Pixel 9a|
 |Google|Pixel C|dragon|Pixel C|
@@ -17652,6 +17655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|ASAANO|hongkong|4K SMART TV|
 |KTCtv|ASAANO|lavender|4K SMART TV|
 |KTCtv|ASAANO|mountbaker|2K SMART TV|
+|KTCtv|BANANA|elliniko|4K SMART TV|
 |KTCtv|Banana|stanford|2K SMART TV|
 |KTCtv|Banana|zhongshan|4K SMART TV|
 |KTCtv|CHIMEI|elliniko|4K SMART TV|
@@ -17839,6 +17843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KXD mobile|Blus_Sea_S25_Plus|Blus_Sea_S25_Plus|Blus_Sea_S25_Plus|
 |KXD mobile|D68S|D68S|D68S|
 |KXD mobile|D70R|D70R|D70R|
+|KXD mobile|Universe S24_Plus|Universe_S24_Plus|Universe_S24_Plus|
 |KXD mobile|Universe_S24_Plus|Universe_S24_Plus|Universe_S24_Plus|
 |KYASTER|KPad_U2|KPad_U2|KPad_U2|
 |KYASTER|KPad_U2_P|KPad_U2_P|KPad_U2_P|
@@ -23390,6 +23395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|MobiPrint4_Plus|MobiPrint4_Plus|MobiPrint4_Plus|
 |MobiIoT|Mobigo2|MobiGo2|MobiGo2|
 |MobiIoT|Mobigo2L|MobiGo2L|MobiGo2L|
+|MobiIoT|WM58|WM58|WM58|
 |MobiOcean|MO-T3|MO-T3|MO-T3|
 |MobiOcean|MOT102|MOT102|MOT102|
 |MobiVista|MVT_1001|MVT_1001|MVT-1001|
@@ -41099,6 +41105,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNOWHY|Y10PG2|Y10PG2_EEA|Y10G652S8M|
 |UNOWHY|Y10_Premium|Y10_Premium|Y10 Premium|
 |URAO|A10Max_EEA|A10Max|A10Max|
+|URAO|X107|X107|X107|
+|URAO|X107_EEA|X107|X107|
 |USA111|IRULU X11|iRULU-X11|iRULU X11|
 |USA111|IRULU X9|X9|X9|
 |USA111|Irulu X7|X7|X7|
@@ -41150,6 +41158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 30 Pro|GQ5013BF2|Armor 30 Pro|
 |Ulefone|Armor 31 Pro|GQ5016BF1|Armor 33 Pro|
 |Ulefone|Armor 32 Pro|GQ5017BF3|Armor 34 Pro|
+|Ulefone|Armor 34|GQ5017BF4|Armor 34|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor 8|Armor_8|Armor 8|
@@ -43305,6 +43314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Tab Prime 7|VFD1400|VFD1400|
 |Vodafone|Tab mini 7|Tab7|VFD 1100|
 |Vodafone|V Lite 3|V_Lite_3|V Lite 3|
+|Vodafone|V Pro 3|V_Pro_3|V Pro 3|
 |Vodafone|VDF 600|P809V50|VFD 600|
 |Vodafone|VF-1296|voda_tab|Vodacom Power Tab 10|
 |Vodafone|VF-1296|voda_tab|Vodafone Tab grand 6|
@@ -45242,6 +45252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|5G UG Phone U23|P720F02|5G UG Phone U23|
 |ZTE|5G UG Phone U23|P720F02|ZTE 7160N|
 |ZTE|5G UG Phone U25|P720F09_U|5G UG Phone U25|
+|ZTE|5G UG Tablet T26|P720T01|5G UG Tablet T26|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
 |ZTE|A001ZT|Z6202S|A001ZT|
@@ -47419,6 +47430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i.safe MOBILE|IS530|IS530|IS530|
 |i.safe MOBILE|IS540|IS540|IS540|
 |i.safe MOBILE|IS930|IS930|IS930|
+|i3CONNECT|Aspen 4|oversea_v|Aspen_4|
 |i5 (dza)|TABLET_PC|10080|10080|
 |i5 (dza)|V10|V10|V10|
 |iBRIT|Alpha|AF51|AF51|
