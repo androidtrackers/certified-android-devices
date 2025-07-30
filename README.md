@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-29
+Last sync is 2025-07-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13481,6 +13481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic7 Pro|HNPTPX|PTP-N49|
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
+|Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-N09|
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-W00|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
@@ -13657,6 +13658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Cosmos|Cosmos|Cosmos|
 |Hotwav|Cosmos_U|Cosmos_U|Cosmos U|
 |Hotwav|Cyber 15|Cyber_15|Cyber 15|
+|Hotwav|Cyber 16 Pro|Cyber_16_Pro|Cyber 16 Pro|
 |Hotwav|Cyber 7|Cyber_7|Cyber 7|
 |Hotwav|Cyber 8|Cyber_8|Cyber 8|
 |Hotwav|Cyber 9 Pro|Cyber_9_Pro|Cyber 9 Pro|
@@ -17137,6 +17139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JTYPDA|X20L|X20L|X20L|
 |JUEDUR|R500 EEA|R500_EEA|R500_EEA|
 |JUEDUR|R500 US|R500_US|R500_US|
+|JUEDUR|R500_V_EEA|R500_V_EEA|R500_V_EEA|
 |JUEDUR|R700_EEA|R700_EEA|R700_EEA|
 |JUEDUR|R700_US|R700_US|R700_US|
 |JUEDUR|R800_EEA|R800_EEA|R800_EEA|
@@ -22223,6 +22226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|chile|S2000|S2000-Z0C11|
 |MTN|Alola_Max|Alola_Max|Alola_Max|
 |MTN|G56|G56|G56|
+|MTN|Kabode Max|H6032_MTN|Kabode Max|
 |MTN|S5012|S5012|S5012|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
 |MTN Group|8978P|MTN-8978P|MTN-8978P|
@@ -28657,6 +28661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PlayPoland|PLAY BOX TV 4B|PLAY_BOX_TV_4B|PLAY BOX TV 4B|
 |PlayPoland|PLAY NOW TV BOX 2|DV8545-PLAY|PLAY NOW TV BOX 2|
 |PlayPoland|PLAY NOW TV BOX 3|DV8945-KPP|PLAY NOW TV BOX 3|
+|PlayPoland|PLAY TV BOX 4A|DV8990-KPP|PLAY TV BOX 4A|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
 |Plimpton|Kids20|Kids20|Kids20|
@@ -42554,6 +42559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T3 Ultra|V2347|V2426|
 |Vivo|T3x 5G|V2338|V2338|
 |Vivo|T4 Lite 5G|V2446|V2509|
+|Vivo|T4R 5G|V2428|V2518|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
@@ -43057,6 +43063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Pad2 Pro|DPD2329|iPA2475|
 |Vivo|iQOO Z10 5G|I2407|I2407|
 |Vivo|iQOO Z10 Turbo Pro|PD2453|V2453A|
+|Vivo|iQOO Z10R 5G|I2410|I2410|
 |Vivo|iQOO Z10x|PD2445|V2445A|
 |Vivo|iQOO Z10x 5G|I2404|I2404|
 |Vivo|iQOO Z5|2018|I2018|

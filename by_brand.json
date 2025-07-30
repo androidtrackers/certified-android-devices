@@ -69849,6 +69849,11 @@
   {
    "device": "HNHEY3-Q1",
    "name": "HONOR Pad 10",
+   "model": "HEY3-N09"
+  },
+  {
+   "device": "HNHEY3-Q1",
+   "name": "HONOR Pad 10",
    "model": "HEY3-W00"
   },
   {
@@ -70737,6 +70742,11 @@
    "device": "Cyber_15",
    "name": "Cyber 15",
    "model": "Cyber 15"
+  },
+  {
+   "device": "Cyber_16_Pro",
+   "name": "Cyber 16 Pro",
+   "model": "Cyber 16 Pro"
   },
   {
    "device": "Cyber_7",
@@ -88421,6 +88431,11 @@
    "device": "R500_US",
    "name": "R500 US",
    "model": "R500_US"
+  },
+  {
+   "device": "R500_V_EEA",
+   "name": "R500_V_EEA",
+   "model": "R500_V_EEA"
   },
   {
    "device": "R700_EEA",
@@ -114491,6 +114506,11 @@
    "device": "G56",
    "name": "G56",
    "model": "G56"
+  },
+  {
+   "device": "H6032_MTN",
+   "name": "Kabode Max",
+   "model": "Kabode Max"
   },
   {
    "device": "S5012",
@@ -147565,6 +147585,11 @@
    "device": "DV8945-KPP",
    "name": "PLAY NOW TV BOX 3",
    "model": "PLAY NOW TV BOX 3"
+  },
+  {
+   "device": "DV8990-KPP",
+   "name": "PLAY TV BOX 4A",
+   "model": "PLAY TV BOX 4A"
   },
   {
    "device": "dctiw362p",
@@ -218764,6 +218789,11 @@
    "model": "V2509"
   },
   {
+   "device": "V2428",
+   "name": "T4R 5G",
+   "model": "V2518"
+  },
+  {
    "device": "PD2180",
    "name": "U5x",
    "model": "V2180GA"
@@ -221277,6 +221307,11 @@
    "device": "PD2453",
    "name": "iQOO Z10 Turbo Pro",
    "model": "V2453A"
+  },
+  {
+   "device": "I2410",
+   "name": "iQOO Z10R 5G",
+   "model": "I2410"
   },
   {
    "device": "PD2445",
