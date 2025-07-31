@@ -26802,11 +26802,6 @@
    "model": "G60_Pro_4G"
   },
   {
-   "device": "IS_Panel",
-   "name": "IS_IFPSeries_65",
-   "model": "IS_IFPSeries"
-  },
-  {
    "device": "Note13",
    "name": "Note13",
    "model": "Note13"
@@ -26920,6 +26915,13 @@
    "device": "Y60",
    "name": "Y60",
    "model": "Y60"
+  }
+ ],
+ "CORNEA": [
+  {
+   "device": "IS_Panel",
+   "name": "IS_IFPSeries_65",
+   "model": "IS_IFPSeries"
   }
  ],
  "COSMIQ": [
@@ -38046,6 +38048,11 @@
    "device": "rk3588_t",
    "name": "DeepHub Ultimate",
    "model": "MC480-U"
+  },
+  {
+   "device": "mensa_an64",
+   "name": "Interactive_display",
+   "model": "ST430"
   }
  ],
  "Delephas": [
@@ -48714,6 +48721,11 @@
    "model": "EcoTV Plus I"
   },
   {
+   "device": "minami",
+   "name": "FPD",
+   "model": "EcoTV3 J"
+  },
+  {
    "device": "mountbaker",
    "name": "FPD",
    "model": "EcoTV A"
@@ -53637,6 +53649,11 @@
    "device": "burmese",
    "name": "VCU",
    "model": "GM Infotainment System"
+  },
+  {
+   "device": "burmese",
+   "name": "VCU",
+   "model": "Premium Infotainment System"
   },
   {
    "device": "burmese",
@@ -69358,6 +69375,11 @@
    "device": "CT60-L1-C",
    "name": "CT60",
    "model": "CT60"
+  },
+  {
+   "device": "CT70",
+   "name": "CT70",
+   "model": "CT70"
   },
   {
    "device": "CW45",
@@ -88197,6 +88219,13 @@
    "model": "JT_PH86TOC"
   }
  ],
+ "JECTOR": [
+  {
+   "device": "FM-U",
+   "name": "FM-U",
+   "model": "FM-U"
+  }
+ ],
  "JEEMAK": [
   {
    "device": "M70",
@@ -90327,6 +90356,11 @@
    "device": "E28",
    "name": "E28",
    "model": "E28"
+  },
+  {
+   "device": "EDMDCEV_PRO",
+   "name": "EDMDCEV_PRO",
+   "model": "Pad Pro"
   },
   {
    "device": "H10",
@@ -136540,14 +136574,14 @@
    "model": "OneScreen-OPS-LFA"
   },
   {
+   "device": "OneScreen_Core",
+   "name": "OnScreen_Core",
+   "model": "Core"
+  },
+  {
    "device": "rk3588_t",
    "name": "OneScreen T7",
    "model": "T7"
-  },
-  {
-   "device": "OneScreen_Core",
-   "name": "OneScreen_Titan",
-   "model": "Core"
   },
   {
    "device": "Wandr",
@@ -207018,6 +207052,11 @@
    "device": "TECNO-LH6n",
    "name": "TECNO POVA Neo 3",
    "model": "TECNO LH6n"
+  },
+  {
+   "device": "TECNO-KM9",
+   "name": "TECNO POVA Slim 5G",
+   "model": "TECNO KM9"
   },
   {
    "device": "TECNO-R6",

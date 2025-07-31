@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-30
+Last sync is 2025-07-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5176,7 +5176,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Coco10_Ultra_4G|Coco10_Ultra_4G|Coco10_Ultra_4G|
 |CORN|G60|G60|G60|
 |CORN|G60_Pro_4G|G60_Pro_4G|G60_Pro_4G|
-|CORN|IS_IFPSeries_65|IS_Panel|IS_IFPSeries|
 |CORN|Note13|Note13|Note13|
 |CORN|Play25_Pro_4G|Play25_Pro_4G|Play25_Pro_4G|
 |CORN|R10|R10S|R10|
@@ -5200,6 +5199,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|X60|X60|X60|
 |CORN|X60|X60S|X60|
 |CORN|Y60|Y60|Y60|
+|CORNEA|IS_IFPSeries_65|IS_Panel|IS_IFPSeries|
 |COSMIQ|COSMIQ IFP Series|COSMIQ_IFP_Series|COSMIQ_IFP_Series|
 |COSMOTE TV|TV Box|HY44G|TV Box|
 |COSTEL|M16|M16|M16|
@@ -7340,6 +7340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Decaview|Decaview 2K Google TV|capitolhill|Decaview  2K Google TV|
 |Decaview|Decaview 4K Google TV|keoneae|Decaview 4K Google TV|
 |DeepHub|DeepHub Ultimate|rk3588_t|MC480-U|
+|DeepHub|Interactive_display|mensa_an64|ST430|
 |Delephas|Chang Co.|Ltd|seocho|
 |Dell||Dell_Grappa|Dell Aero|
 |Dell||Dell_Grappa|Mini_3iG|
@@ -9374,6 +9375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|FPD|lavender|EcoTV Plus C|
 |FPD|FPD|lavender|EcoTV Plus D|
 |FPD|FPD|lavender|EcoTV Plus I|
+|FPD|FPD|minami|EcoTV3 J|
 |FPD|FPD|mountbaker|EcoTV A|
 |FPD|FPD|mountbaker|EcoTV C|
 |FPD|FPD|mountbaker|EcoTV D|
@@ -10309,6 +10311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Motors|VCU|aegean|GM Infotainment System|
 |General Motors|VCU|aegean|aegean|
 |General Motors|VCU|burmese|GM Infotainment System|
+|General Motors|VCU|burmese|Premium Infotainment System|
 |General Motors|VCU|burmese|burmese|
 |GeneralMobile|E-Tab10|blue_eye|E-Tab10|
 |GeneralSupreme|Smart TV|longshan|AI PONT|
@@ -13384,6 +13387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CT60|CT60-L0-C|CT60|
 |Honeywell|CT60|CT60-L0N-ASC|CT60|
 |Honeywell|CT60|CT60-L1-C|CT60|
+|Honeywell|CT70|CT70|CT70|
 |Honeywell|CW45|CW45|CW45|
 |Honeywell|D75E|75E-L0N|D75E|
 |Honeywell|Dolphin 70e Black|dblack_gn|Dolphin 70e Black|
@@ -17097,6 +17101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JCB_Phone|ToughPhone_E10_EEA|ToughPhone_E10|Toughphone E10|
 |JCB_UK|JCB_TP231|JCB_TP231|JCB TP231|
 |JECTNOTE|Interactive_whiteboard|JT_PH86TOC|JT_PH86TOC|
+|JECTOR|FM-U|FM-U|FM-U|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
 |JHZL|J101|J101|J101|
@@ -17499,6 +17504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E17_RU|E17|E17|
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
+|KENSHI|EDMDCEV_PRO|EDMDCEV_PRO|Pad Pro|
 |KENSHI|H10|H10|H10|
 |KENSHI|H11|H11|H11|
 |KENSHI|H14|H14|H14|
@@ -26496,8 +26502,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|一加平板 2 Pro|OP615EL1|OPD2413|
 |OnePlus|一加平板Pro|OP5D77L1|OPD2404|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
+|OneScreen|OnScreen_Core|OneScreen_Core|Core|
 |OneScreen|OneScreen T7|rk3588_t|T7|
-|OneScreen|OneScreen_Titan|OneScreen_Core|Core|
 |OneScreen|Wandr_W1|Wandr|OneScreen Wandr|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
@@ -40310,6 +40316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 7 Ultra 5G|TECNO-LJ9|TECNO LJ9|
 |Tecno|TECNO POVA Curve 5G|TECNO-LJ8k|TECNO LJ8k|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
+|Tecno|TECNO POVA Slim 5G|TECNO-KM9|TECNO KM9|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|
