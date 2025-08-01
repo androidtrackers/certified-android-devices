@@ -126337,6 +126337,11 @@
    "model": "motorola edge 60 stylus"
   },
   {
+   "device": "cybert",
+   "name": "motorola edge 60s pro",
+   "model": "motorola edge 60s pro"
+  },
+  {
    "device": "xpeng",
    "name": "motorola edge S30",
    "model": "XT2175-2"
@@ -208455,6 +208460,11 @@
    "model": "C9"
   },
   {
+   "device": "C9D",
+   "name": "C9D",
+   "model": "C9D"
+  },
+  {
    "device": "M1s",
    "name": "M1",
    "model": "M1s"
@@ -235578,6 +235588,11 @@
    "model": "NP03J"
   },
   {
+   "device": "PQ84P01",
+   "name": "NP05J",
+   "model": "NP05J"
+  },
+  {
    "device": "NX40X",
    "name": "NX402",
    "model": "NX402"
@@ -238073,6 +238088,11 @@
    "model": "Z2472"
   },
   {
+   "device": "P606F20_A",
+   "name": "Z2472",
+   "model": "Z2472"
+  },
+  {
    "device": "Z3153",
    "name": "Z3153V",
    "model": "Z3153V"
@@ -238926,6 +238946,11 @@
    "device": "P639T10",
    "name": "ZTE A530",
    "model": "ZTE A530"
+  },
+  {
+   "device": "P963F65",
+   "name": "ZTE A55",
+   "model": "ZTE A55"
   },
   {
    "device": "P639S10",
@@ -239873,6 +239898,11 @@
    "model": "Z2467"
   },
   {
+   "device": "P606F17",
+   "name": "ZTE Blade V70 Vita",
+   "model": "Z2458"
+  },
+  {
    "device": "P852F52",
    "name": "ZTE Blade V770",
    "model": "ZTE Blade V770"
@@ -240213,9 +240243,19 @@
    "model": "nubia 8046"
   },
   {
+   "device": "P606F21",
+   "name": "nubia A56",
+   "model": "Z2473"
+  },
+  {
    "device": "Z6255",
    "name": "nubia A75",
    "model": "Z6255CA"
+  },
+  {
+   "device": "P615F01",
+   "name": "nubia A76",
+   "model": "Z2474"
   },
   {
    "device": "Z6657",
@@ -240318,6 +240358,11 @@
    "model": "NP02J"
   },
   {
+   "device": "K99O",
+   "name": "nubia Pad 5G",
+   "model": "nubia Pad 5G"
+  },
+  {
    "device": "K99J",
    "name": "nubia Pad SE",
    "model": "K99J"
@@ -240383,6 +240428,16 @@
    "model": "NX733J"
   },
   {
+   "device": "PQ84A01",
+   "name": "nubia Z70 Ultra",
+   "model": "NX736J"
+  },
+  {
+   "device": "PQ84A02",
+   "name": "nubia Z70S Ultra",
+   "model": "NX733J"
+  },
+  {
    "device": "PQ84A02",
    "name": "nubia Z70S Ultra",
    "model": "NX737J"
@@ -240431,6 +240486,11 @@
    "device": "P720S11",
    "name": "中兴远航41",
    "model": "ZTE 7541N"
+  },
+  {
+   "device": "NX789J",
+   "name": "红魔10 Pro",
+   "model": "NX789J"
   }
  ],
  "ZTLEKE": [
@@ -240751,6 +240811,11 @@
    "device": "ET65",
    "name": "ET65",
    "model": "ET65"
+  },
+  {
+   "device": "TC58E",
+   "name": "FR55",
+   "model": "FR55"
   },
   {
    "device": "TC22",
@@ -245365,6 +245430,11 @@
    "model": "iPA2556"
   },
   {
+   "device": "I2502",
+   "name": "iQOO Z10 Lite",
+   "model": "I2502"
+  },
+  {
    "device": "I2409",
    "name": "iQOO Z10 Lite 5G",
    "model": "I2409"
@@ -248835,6 +248905,11 @@
    "device": "PD2443",
    "name": "Y37t",
    "model": "V2443A"
+  },
+  {
+   "device": "V2455",
+   "name": "Y400",
+   "model": "V2455"
   },
   {
    "device": "V2506",

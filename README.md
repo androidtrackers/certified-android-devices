@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-07-31
+Last sync is 2025-08-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24539,6 +24539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 60 pro|cybert|motorola edge 60 pro|
 |Motorola|motorola edge 60 stylus|monai|motorola edge 50 fusion|
 |Motorola|motorola edge 60 stylus|monai|motorola edge 60 stylus|
+|Motorola|motorola edge 60s pro|cybert|motorola edge 60s pro|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -40583,6 +40584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|Telo_TE590P|TE590P_U|TE590P|
 |Telpo|C1|C1|C1|
 |Telpo|C9|C9|C9|
+|Telpo|C9D|C9D|C9D|
 |Telpo|M1|M1s|M1s|
 |Telpo|M10|M10|M10 for arm64|
 |Telpo|M1K|M1K|M1K|
@@ -45838,6 +45840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NOS NOVU III|P637F10|NOS NOVU III|
 |ZTE|NP01J|P898P02|NP01J|
 |ZTE|NP03J|PQ83P01|NP03J|
+|ZTE|NP05J|PQ84P01|NP05J|
 |ZTE|NX402|NX40X|NX402|
 |ZTE|NX403A|NX403A|NX403A|
 |ZTE|NX404H|NX404H|NX404H|
@@ -46337,6 +46340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2459|P616F05|Z2459|
 |ZTE|Z2465N|P820F05|Z2465N|
 |ZTE|Z2472|P606F20|Z2472|
+|ZTE|Z2472|P606F20_A|Z2472|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
@@ -46508,6 +46512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A520S|P809S10|ZTE A520S|
 |ZTE|ZTE A53|P963F62|ZTE A53|
 |ZTE|ZTE A530|P639T10|ZTE A530|
+|ZTE|ZTE A55|P963F65|ZTE A55|
 |ZTE|ZTE A606|P639S10|ZTE A606|
 |ZTE|ZTE A7000|P671S02|ZTE A7000|
 |ZTE|ZTE A7010|P662S02|ZTE A7010|
@@ -46697,6 +46702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V60 Vita|P606F10|Z2350|
 |ZTE|ZTE Blade V70 Design|P606F17|Z2458|
 |ZTE|ZTE Blade V70 Max|P606F19|Z2467|
+|ZTE|ZTE Blade V70 Vita|P606F17|Z2458|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
@@ -46765,7 +46771,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|myPad P5|K78|myPad P5|
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia 8046|P616F01|nubia 8046|
+|ZTE|nubia A56|P606F21|Z2473|
 |ZTE|nubia A75|Z6255|Z6255CA|
+|ZTE|nubia A76|P615F01|Z2474|
 |ZTE|nubia A76|Z6657|Z6657CA|
 |ZTE|nubia Air|P780F02|Z2468N|
 |ZTE|nubia Flip 2 5G|P678F01|NX732J|
@@ -46786,6 +46794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
+|ZTE|nubia Pad 5G|K99O|nubia Pad 5G|
 |ZTE|nubia Pad SE|K99J|K99J|
 |ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia V50 Vita|P606F09|nubia 8550|
@@ -46799,6 +46808,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Z60 Ultra|PQ83F01|NX721J|
 |ZTE|nubia Z60S Pro|PQ82A04|NX725J|
 |ZTE|nubia Z70 Ultra|PQ84A01|NX733J|
+|ZTE|nubia Z70 Ultra|PQ84A01|NX736J|
+|ZTE|nubia Z70S Ultra|PQ84A02|NX733J|
 |ZTE|nubia Z70S Ultra|PQ84A02|NX737J|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
@@ -46809,6 +46820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
+|ZTE|红魔10 Pro|NX789J|NX789J|
 |ZTLEKE|P10|P10|P10|
 |ZTLEKE|P10MAX|P10MAX|P10MAX|
 |ZTLEKE|P10PRO|P10PRO|P10PRO|
@@ -46869,6 +46881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET55T|ET5X|
 |Zebra|ET60|ET60|ET60|
 |Zebra|ET65|ET65|ET65|
+|Zebra|FR55|TC58E|FR55|
 |Zebra|HC20|TC22|HC20|
 |Zebra|HC25|TC27|HC25|
 |Zebra|HC50|TC22|HC50|
@@ -47745,6 +47758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Neo 10|I2405|I2405|
 |iQOO|iQOO Neo 10|I2405|I2408|
 |iQOO|iQOO Pad5|DPD2437|iPA2556|
+|iQOO|iQOO Z10 Lite|I2502|I2502|
 |iQOO|iQOO Z10 Lite 5G|I2409|I2409|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
@@ -48403,6 +48417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y37t|PD2443|V2443A|
+|vivo|Y400|V2455|V2455|
 |vivo|Y400 5G|V2506|V2506|
 |vivo|Y400 Pro 5G|V2439|V2439|
 |vivo|Y50 5G|PD2443|V2443A|
