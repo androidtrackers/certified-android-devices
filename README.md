@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-08
+Last sync is 2025-08-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32017,6 +32017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A16 5G|a16x|SM-A166W|
 |Samsung|Galaxy A16 5G|a16x|SM-S166V|
 |Samsung|Galaxy A16 5G|a16xm|SM-A166P|
+|Samsung|Galaxy A17 5G|a17x|SM-A1760|
 |Samsung|Galaxy A17 5G|a17x|SM-A176B|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
@@ -32628,6 +32629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F14 5G|m14x|SM-E146B|
 |Samsung|Galaxy F15 5G|m15x|SM-E156B|
 |Samsung|Galaxy F16 5G|m16xm|SM-E166P|
+|Samsung|Galaxy F17 5G|a17x|SM-E176B|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F34 5G|m34x|SM-E346B|
@@ -33050,6 +33052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M14 5G|m14x|SM-M146B|
 |Samsung|Galaxy M15 5G|m15x|SM-M156B|
 |Samsung|Galaxy M16 5G|m16xm|SM-M166P|
+|Samsung|Galaxy M17 5G|a17x|SM-M176B|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|

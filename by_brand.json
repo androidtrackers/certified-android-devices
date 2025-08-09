@@ -164985,6 +164985,11 @@
   {
    "device": "a17x",
    "name": "Galaxy A17 5G",
+   "model": "SM-A1760"
+  },
+  {
+   "device": "a17x",
+   "name": "Galaxy A17 5G",
    "model": "SM-A176B"
   },
   {
@@ -168038,6 +168043,11 @@
    "model": "SM-E166P"
   },
   {
+   "device": "a17x",
+   "name": "Galaxy F17 5G",
+   "model": "SM-E176B"
+  },
+  {
    "device": "f22",
    "name": "Galaxy F22",
    "model": "SM-E225F"
@@ -170146,6 +170156,11 @@
    "device": "m16xm",
    "name": "Galaxy M16 5G",
    "model": "SM-M166P"
+  },
+  {
+   "device": "a17x",
+   "name": "Galaxy M17 5G",
+   "model": "SM-M176B"
   },
   {
    "device": "m20",
