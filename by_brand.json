@@ -9200,6 +9200,11 @@
   {
    "device": "WF2189T",
    "name": "WF2189T",
+   "model": "Apolosign Calendar"
+  },
+  {
+   "device": "WF2189T",
+   "name": "WF2189T",
    "model": "WF2189T"
   },
   {
@@ -157524,6 +157529,11 @@
    "model": "25057RN09E"
   },
   {
+   "device": "spring",
+   "name": "Redmi 15 5G",
+   "model": "25057RN09G"
+  },
+  {
    "device": "cereus",
    "name": "Redmi 6",
    "model": "Redmi 6"
@@ -163332,6 +163342,11 @@
    "model": "P13"
   },
   {
+   "device": "P11_T",
+   "name": "P11_T_ROW",
+   "model": "P11_T"
+  },
+  {
    "device": "P11",
    "name": "P11_pro",
    "model": "P11"
@@ -163362,6 +163377,11 @@
    "device": "SWA310",
    "name": "SWA310",
    "model": "SWA310"
+  },
+  {
+   "device": "SWA310",
+   "name": "SWA310_NEU",
+   "model": "BCGA92"
   },
   {
    "device": "SWA310",

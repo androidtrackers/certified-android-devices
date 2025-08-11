@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-10
+Last sync is 2025-08-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1760,6 +1760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|PortableTV|SW3299T|SW3299T|
 |Apolosign|PortableTV|SW3299T|SW3299T-4K|
 |Apolosign|WF1589T|WF1589T|WF1589T|
+|Apolosign|WF2189T|WF2189T|Apolosign Calendar|
 |Apolosign|WF2189T|WF2189T|WF2189T|
 |Apolosign|WF2489T|WF2489T|WF2489T|
 |Apolosign|WF3289T|WF3289T|WF3289T|
@@ -30588,6 +30589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 14C|pond|2409BRN2CL|
 |Redmi|Redmi 14C 5G|flame|2411DRN47I|
 |Redmi|Redmi 15 5G|spring|25057RN09E|
+|Redmi|Redmi 15 5G|spring|25057RN09G|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -31692,12 +31694,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
+|SVITOO|P11_T_ROW|P11_T|P11_T|
 |SVITOO|P11_pro|P11|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11_pro_EEA|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SVITOO|TAB_P12_EEA|TAB_P12|TAB P12|
 |SWACONNECT|SWA310|SWA310|SWA310|
+|SWACONNECT|SWA310_NEU|SWA310|BCGA92|
 |SWACONNECT|SWA310_NEU|SWA310|GMS_TAB10|
 |SWACONNECT|SWA310_NEU|SWA310|SWA310|
 |SWTV|Asia|SW3_ATV|SWTV|
