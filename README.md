@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-13
+Last sync is 2025-08-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7498,6 +7498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Deutsche Telekom|T Phone Pro (2023)|Tiger|T Phone Pro (2023)|
 |Deutsche Telekom|T Phone （2023）|Leopard|T Phone (2023)|
 |Deutsche Telekom|T Tablet|Hubbs|T Tablet|
+|Deutsche Telekom|T Tablet 2|BELUGA|TTablet2|
 |Dghrti|TAB20_EEA|TAB20_EEA|TAB20_EEA|
 |Dghrti|TAB20_US|TAB20_US|TAB20_US|
 |Dghrti|TAB30-EU|TAB30-EU|TAB30|
@@ -10910,7 +10911,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 5|redfin|Pixel 5|
 |Google|Pixel 5a 5G|barbet|Pixel 5a|
 |Google|Pixel 6|oriole|Pixel 6|
-|Google|Pixel 6 Pro|generic_arm64|Pixel 6 Pro|
 |Google|Pixel 6 Pro|raven|Pixel 6 Pro|
 |Google|Pixel 6a|bluejay|Pixel 6a|
 |Google|Pixel 7|panther|Pixel 7|
@@ -16417,6 +16417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|XPAD|Infinix-X1101|Infinix X1101|
 |Infinix|XPAD|Infinix-X1101B|Infinix X1101B|
 |Infinix|XPAD 20|Infinix-X1102|Infinix X1102|
+|Infinix|XPAD 20 Pro|Infinix-X1201|Infinix X1201|
 |Infinix|ZERO 30 5G|Infinix-X6731|Infinix X6731|
 |Infinix|ZERO 5G|Infinix-X6815|Infinix X6815|
 |Infinix|ZERO 5G 2023|Infinix-X6815C|Infinix X6815C|
@@ -17222,6 +17223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JMGO|C62A|holan|C62A|
+|JMGO|K62A|holan|K62A|
 |JMGO|K80A|holan|K80A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
@@ -21127,6 +21129,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A6 Note|Lenovo_A6_Note|Lenovo L19041|
 |Lenovo|Lenovo A8|AK57|L10041|
 |Lenovo|Lenovo A8|AK57|Lenovo L10041|
+|Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336FU|TB336FU|
+|Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336ZU|TB336ZU|
 |Lenovo|Lenovo Idea Tab Pro|TB373FU|TB373FU|
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
@@ -21257,8 +21261,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
 |Lenovo|Lenovo Tab K11|TB330FUP|TB330FUP|
 |Lenovo|Lenovo Tab K11|TB330XUP|TB330XUP|
-|Lenovo|Lenovo Tab K11 Gen 2 / Lenovo Idea Tab|TB336FU|TB336FU|
-|Lenovo|Lenovo Tab K11 Gen 2 / Lenovo Idea Tab|TB336ZU|TB336ZU|
 |Lenovo|Lenovo Tab K11 Plus|TB352FU|TB352FU|
 |Lenovo|Lenovo Tab K11e|TB330XUP|TB330XUP|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
@@ -28022,6 +28024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M6 Plus 5G|breeze|24066PC95I|
 |POCO|POCO M6 Pro|emerald|2312FPCA6G|
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
+|POCO|POCO M7|creek|25062PC34G|
 |POCO|POCO M7 5G|flame|24108PCE2I|
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO Pad|dizi|2405CPCFBG|
@@ -30658,6 +30661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 14C 5G|flame|2411DRN47I|
 |Redmi|Redmi 15 5G|spring|25057RN09E|
 |Redmi|Redmi 15 5G|spring|25057RN09G|
+|Redmi|Redmi 15 5G|spring|25057RN09I|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -34479,6 +34483,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S10+ 5G|gts10p|SM-X826B|
 |Samsung|Galaxy Tab S10+ 5G|gts10p|SM-X826N|
 |Samsung|Galaxy Tab S10+ 5G|gts10p|SM-X828U|
+|Samsung|Galaxy Tab S11|gts11wifi|SM-X730|
+|Samsung|Galaxy Tab S11 5G|gts11|SM-X736B|
+|Samsung|Galaxy Tab S11 5G|gts11|SM-X736C|
+|Samsung|Galaxy Tab S11 5G|gts11|SM-X736N|
+|Samsung|Galaxy Tab S11 Ultra|gts11uwifi|SM-X930|
+|Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936B|
+|Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936C|
+|Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936N|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815C|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815Y|

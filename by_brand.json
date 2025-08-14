@@ -38868,6 +38868,11 @@
    "device": "Hubbs",
    "name": "T Tablet",
    "model": "T Tablet"
+  },
+  {
+   "device": "BELUGA",
+   "name": "T Tablet 2",
+   "model": "TTablet2"
   }
  ],
  "Dghrti": [
@@ -56742,11 +56747,6 @@
    "device": "oriole",
    "name": "Pixel 6",
    "model": "Pixel 6"
-  },
-  {
-   "device": "generic_arm64",
-   "name": "Pixel 6 Pro",
-   "model": "Pixel 6 Pro"
   },
   {
    "device": "raven",
@@ -84729,6 +84729,11 @@
    "model": "Infinix X1102"
   },
   {
+   "device": "Infinix-X1201",
+   "name": "XPAD 20 Pro",
+   "model": "Infinix X1201"
+  },
+  {
    "device": "Infinix-X6731",
    "name": "ZERO 30 5G",
    "model": "Infinix X6731"
@@ -88846,6 +88851,11 @@
    "device": "holan",
    "name": "C62A",
    "model": "C62A"
+  },
+  {
+   "device": "holan",
+   "name": "K62A",
+   "model": "K62A"
   },
   {
    "device": "holan",
@@ -108833,6 +108843,16 @@
    "model": "Lenovo L10041"
   },
   {
+   "device": "TB336FU",
+   "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
+   "model": "TB336FU"
+  },
+  {
+   "device": "TB336ZU",
+   "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
+   "model": "TB336ZU"
+  },
+  {
    "device": "TB373FU",
    "name": "Lenovo Idea Tab Pro",
    "model": "TB373FU"
@@ -109481,16 +109501,6 @@
    "device": "TB330XUP",
    "name": "Lenovo Tab K11",
    "model": "TB330XUP"
-  },
-  {
-   "device": "TB336FU",
-   "name": "Lenovo Tab K11 Gen 2 / Lenovo Idea Tab",
-   "model": "TB336FU"
-  },
-  {
-   "device": "TB336ZU",
-   "name": "Lenovo Tab K11 Gen 2 / Lenovo Idea Tab",
-   "model": "TB336ZU"
   },
   {
    "device": "TB352FU",
@@ -144314,6 +144324,11 @@
    "model": "23076PC4BI"
   },
   {
+   "device": "creek",
+   "name": "POCO M7",
+   "model": "25062PC34G"
+  },
+  {
    "device": "flame",
    "name": "POCO M7 5G",
    "model": "24108PCE2I"
@@ -157878,6 +157893,11 @@
    "device": "spring",
    "name": "Redmi 15 5G",
    "model": "25057RN09G"
+  },
+  {
+   "device": "spring",
+   "name": "Redmi 15 5G",
+   "model": "25057RN09I"
   },
   {
    "device": "cereus",
@@ -177297,6 +177317,46 @@
    "device": "gts10p",
    "name": "Galaxy Tab S10+ 5G",
    "model": "SM-X828U"
+  },
+  {
+   "device": "gts11wifi",
+   "name": "Galaxy Tab S11",
+   "model": "SM-X730"
+  },
+  {
+   "device": "gts11",
+   "name": "Galaxy Tab S11 5G",
+   "model": "SM-X736B"
+  },
+  {
+   "device": "gts11",
+   "name": "Galaxy Tab S11 5G",
+   "model": "SM-X736C"
+  },
+  {
+   "device": "gts11",
+   "name": "Galaxy Tab S11 5G",
+   "model": "SM-X736N"
+  },
+  {
+   "device": "gts11uwifi",
+   "name": "Galaxy Tab S11 Ultra",
+   "model": "SM-X930"
+  },
+  {
+   "device": "gts11u",
+   "name": "Galaxy Tab S11 Ultra 5G",
+   "model": "SM-X936B"
+  },
+  {
+   "device": "gts11u",
+   "name": "Galaxy Tab S11 Ultra 5G",
+   "model": "SM-X936C"
+  },
+  {
+   "device": "gts11u",
+   "name": "Galaxy Tab S11 Ultra 5G",
+   "model": "SM-X936N"
   },
   {
    "device": "gts210lte",
