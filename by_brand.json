@@ -2725,6 +2725,13 @@
    "model": "WE E2"
   }
  ],
+ "Aaztec": [
+  {
+   "device": "mensa_an64",
+   "name": "Aaztec-IFP-Series",
+   "model": "Aaztec-IFP-Series"
+  }
+ ],
  "Abocom": [
   {
    "device": "A08",
@@ -3132,11 +3139,6 @@
    "device": "acer_A8M1",
    "name": "A8M1",
    "model": "A8-11_EEA"
-  },
-  {
-   "device": "AKREI13",
-   "name": "ACER ALTOS EZA",
-   "model": "ACER_ALTOS_EZA"
   },
   {
    "device": "AKMEI14",
@@ -19430,7 +19432,7 @@
   },
   {
    "device": "himalaya",
-   "name": "GV50",
+   "name": "GV01",
    "model": "BenQGV01"
   },
   {
@@ -44709,6 +44711,11 @@
    "device": "SEI700MOBI",
    "name": "EVOFUSE4K-MOBI",
    "model": "FUSE-MOBI"
+  },
+  {
+   "device": "SEI700MOBI",
+   "name": "EVOFUSE4K-SHENTEL",
+   "model": "FUSE-MOBI"
   }
  ],
  "EVOFORCE1": [
@@ -53180,6 +53187,13 @@
    "device": "G9_U_US",
    "name": "G9_U_US",
    "model": "G9_U_US"
+  }
+ ],
+ "GOTV": [
+  {
+   "device": "SEID04GM",
+   "name": "SEID04GM",
+   "model": "GO TV Box"
   }
  ],
  "GOtv": [
@@ -67479,6 +67493,11 @@
    "device": "HLTE106E_02",
    "name": "Hisense U964",
    "model": "Hisense E32 Lite"
+  },
+  {
+   "device": "HLTE106E_02",
+   "name": "Hisense U964",
+   "model": "Hisense T2"
   },
   {
    "device": "HLTE106E_02",
@@ -83192,14 +83211,16 @@
    "model": "Infinity-10.1-v3"
   },
   {
-   "device": "mensa_an64",
-   "name": "IN-9679",
-   "model": "InfinityPro-Y1"
-  },
-  {
    "device": "Infinity",
    "name": "Infinity",
    "model": "Infinity"
+  }
+ ],
+ "InfinityPro": [
+  {
+   "device": "mensa_an64",
+   "name": "IN-9679",
+   "model": "InfinityPro-Y1"
   }
  ],
  "Infinix": [
@@ -214379,6 +214400,11 @@
   {
    "device": "G5_Tab",
    "name": "G5_Tab",
+   "model": "A3-Pro"
+  },
+  {
+   "device": "G5_Tab",
+   "name": "G5_Tab",
    "model": "MT16"
   },
   {
@@ -232920,6 +232946,11 @@
    "model": "E0113"
   },
   {
+   "device": "E0214",
+   "name": "E0214",
+   "model": "E0214"
+  },
+  {
    "device": "L161X",
    "name": "L161x",
    "model": "L161X"
@@ -250271,6 +250302,16 @@
   {
    "device": "PD2443",
    "name": "Y50 5G",
+   "model": "V2443A"
+  },
+  {
+   "device": "PD2443",
+   "name": "Y50c",
+   "model": "V2443BA"
+  },
+  {
+   "device": "PD2443",
+   "name": "Y50i",
    "model": "V2443A"
   },
   {

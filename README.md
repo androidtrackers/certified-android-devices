@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-14
+Last sync is 2025-08-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -501,6 +501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aamra WE|A10|A10|WE A10|
 |Aamra WE|A50|A50|WE A50|
 |Aamra WE|E2|E2|WE E2|
+|Aaztec|Aaztec-IFP-Series|mensa_an64|Aaztec-IFP-Series|
 |Abocom|A08SM|A08|A08S|
 |Aborder|Tanzania|guandu|Aborder 4K Android TV|
 |Aborder|Tanzania|martin|Aborder 2K Android TV|
@@ -580,7 +581,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
 |Acer|A8M1|acer_A8M1|A8-11|
 |Acer|A8M1|acer_A8M1|A8-11_EEA|
-|Acer|ACER ALTOS EZA|AKREI13|ACER_ALTOS_EZA|
 |Acer|ACER ALTOS EZBA|AKMEI14|ACER_ALTOS_EZBA|
 |Acer|ACER_A6|ACER_A6|A6|
 |Acer|ACER_A62_ULTRA_V25|ACER_A62_ULTRA_V25|A62 ULTRA V25|
@@ -3753,7 +3753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|F5_16|F5|F5_16|
 |BenQ|F5_18|F5|F5_18|
 |BenQ|F5_19|F5|F5_19|
-|BenQ|GV50|himalaya|BenQGV01|
+|BenQ|GV01|himalaya|BenQGV01|
 |BenQ|Harrier|Harrier|Harrier from EE|
 |BenQ|Harrier Mini|harrier_mini|Harrier Mini from EE|
 |BenQ|Harrier Tab|harrier_tab|Harrier Tab from EE|
@@ -8619,6 +8619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVO FUSE 4K|EVO FUSE 4K|SEI700L|FUSE 4K|
 |EVO FUSE 4K|EVOFUSE4K-BUCKEYE|SEI700MOBI|FUSE-MOBI|
 |EVO FUSE 4K|EVOFUSE4K-MOBI|SEI700MOBI|FUSE-MOBI|
+|EVO FUSE 4K|EVOFUSE4K-SHENTEL|SEI700MOBI|FUSE-MOBI|
 |EVOFORCE1|FRC1-ABB|SEI800ABB|FRC1-ABB|
 |EVOFORCE1|FRC1-Armstrong|SEI800AS|FRC1-Armstrong|
 |EVOFORCE1|FRC1-BlueRidge|SEI800BR|FRC1-BlueRidge|
@@ -10228,6 +10229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G9_US|G9_US|G9_US|
 |GOODTEL|G9_U_EEA|G9_U_EEA|G9_U_EEA|
 |GOODTEL|G9_U_US|G9_U_US|G9_U_US|
+|GOTV|SEID04GM|SEID04GM|GO TV Box|
 |GOtv|GO700FR|GoFreeTV|GO700FR|
 |GOtv|GOtv S|GoFreeTV|GO700FR|
 |GOtv|GOtv Y|HP4BA-GOTV|GO710FR|
@@ -13011,6 +13013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HLTE106E_01|Hisense U964|
 |Hisense|Hisense U964|HLTE106E_01|Hisense U965|
 |Hisense|Hisense U964|HLTE106E_02|Hisense E32 Lite|
+|Hisense|Hisense U964|HLTE106E_02|Hisense T2|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U607|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U964|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U965|
@@ -16110,8 +16113,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |InfiRay|PX1|PX1|PX1|
 |Infinity|10.1-v2|Infinity-101-v2|Infinity-10.1-v2|
 |Infinity|10.1-v3|Infinity_101_v3|Infinity-10.1-v3|
-|Infinity|IN-9679|mensa_an64|InfinityPro-Y1|
 |Infinity|Infinity|Infinity|Infinity|
+|InfinityPro|IN-9679|mensa_an64|InfinityPro-Y1|
 |Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|50X3|barking|Infinix AndroidTV|
@@ -41719,6 +41722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G5 Mecha|G5_Mecha|RP08|
 |Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
 |Umidigi|G5 Mecha RU|G5_Mecha|RP08|
+|Umidigi|G5_Tab|G5_Tab|A3-Pro|
 |Umidigi|G5_Tab|G5_Tab|MT16|
 |Umidigi|G5_Tab|G5_Tab|Tab-A100|
 |Umidigi|G5_Tab_EEA|G5_Tab_EEA|MT16|
@@ -45300,6 +45304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOFYWNAS|D10|D10|D10|
 |ZOFYWNAS|D10_EEA|D10|D10|
 |ZOLON|E0113|E0113|E0113|
+|ZOLON|E0214|E0214|E0214|
 |ZOLON|L161x|L161X|L161X|
 |ZOLON|L16XX|L16XX|L16XX|
 |ZOLON|M30|M30|M30|
@@ -48682,6 +48687,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y400 5G|V2506|V2506|
 |vivo|Y400 Pro 5G|V2439|V2439|
 |vivo|Y50 5G|PD2443|V2443A|
+|vivo|Y50c|PD2443|V2443BA|
+|vivo|Y50i|PD2443|V2443A|
 |vivo|Y50m 5G|PD2443|V2443BA|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
