@@ -5132,6 +5132,11 @@
    "model": "SP4871"
   },
   {
+   "device": "elliniko",
+   "name": "ADVANCE",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "Tr4995",
    "name": "Advance",
    "model": "Tr4995"
@@ -66262,6 +66267,11 @@
   {
    "device": "HLTE243E",
    "name": "HLTE243E",
+   "model": "Hisense T2 Pro"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
    "model": "Hisense U43"
   },
   {
@@ -70231,6 +70241,16 @@
    "device": "HNDNPX",
    "name": "HONOR 400 Pro",
    "model": "DNP-NX9"
+  },
+  {
+   "device": "HNLGN-Q1",
+   "name": "HONOR 400 Smart",
+   "model": "LGN-NX1"
+  },
+  {
+   "device": "HNLGN-Q1",
+   "name": "HONOR 400 Smart",
+   "model": "LGN-NX3"
   },
   {
    "device": "HNNTH",
@@ -210271,6 +210291,11 @@
    "device": "shibuya",
    "name": "ThomsonTV",
    "model": "ThomsonTV"
+  },
+  {
+   "device": "Thomson_Go",
+   "name": "Thomson_Go",
+   "model": "Thomson Go"
   }
  ],
  "Thrive": [
@@ -219378,11 +219403,6 @@
    "device": "IFP8652-2",
    "name": "IFP8652-2",
    "model": "IFP8652-2"
-  },
-  {
-   "device": "IN02_series",
-   "name": "IN02 series",
-   "model": "IN02_series"
   },
   {
    "device": "IN03",
@@ -250250,9 +250270,24 @@
    "model": "V2465A"
   },
   {
+   "device": "V2511",
+   "name": "T4 Pro",
+   "model": "V2510"
+  },
+  {
    "device": "V2504",
    "name": "T4 Ultra",
    "model": "V2504"
+  },
+  {
+   "device": "V2511",
+   "name": "V60",
+   "model": "V2511"
+  },
+  {
+   "device": "V2511",
+   "name": "V60",
+   "model": "V2512"
   },
   {
    "device": "PD2436",

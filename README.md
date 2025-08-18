@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-17
+Last sync is 2025-08-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -974,6 +974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|i7A|ADVAN_i7A|i7A|
 |Advan digital|i7U|ADVAN_i_Lite|i7U|
 |Advance|ADVANCE|SP4871|SP4871|
+|Advance|ADVANCE|elliniko|4K SMART TV|
 |Advance|Advance|Tr4995|Tr4995|
 |Advance|HL4736|HL4736|HL4736|
 |Advance|HL4936|HL4936|HL4936|
@@ -12766,6 +12767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense M50|
 |Hisense|HLTE243E|HLTE243E|Hisense M72 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
+|Hisense|HLTE243E|HLTE243E|Hisense T2 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense U967|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
@@ -13555,6 +13557,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 400 Lite|HNABR-M|ABR-NX1|
 |Honor|HONOR 400 Lite|HNABR-M|ABR-NX3|
 |Honor|HONOR 400 Pro|HNDNPX|DNP-NX9|
+|Honor|HONOR 400 Smart|HNLGN-Q1|LGN-NX1|
+|Honor|HONOR 400 Smart|HNLGN-Q1|LGN-NX3|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
@@ -40935,6 +40939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|Thomson TV|marina|Thomson TV|
 |Thomson|Thomson TV|nagata|Thomson TV|
 |Thomson|ThomsonTV|shibuya|ThomsonTV|
+|Thomson|Thomson_Go|Thomson_Go|Thomson Go|
 |Thrive|NT-T710|NT-T710|NT-T710|
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
 |TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
@@ -42674,7 +42679,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|IFP53_Series|IFP53|IFP53|
 |ViewSonic|IFP63 Series|IFP63|IFP63|
 |ViewSonic|IFP8652-2|IFP8652-2|IFP8652-2|
-|ViewSonic|IN02 series|IN02_series|IN02_series|
 |ViewSonic|IN03_Series|IN03|IN03|
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
@@ -48676,7 +48680,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Pad5|DPD2437|PA2553|
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
+|vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|V60|V2511|V2511|
+|vivo|V60|V2511|V2512|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
