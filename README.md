@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-18
+Last sync is 2025-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1002,6 +1002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|Pr6146|Pr6146|Pr6146|
 |Advance|Pr6150|Pr6150|Pr6150|
 |Advance|Pr7547|Pr7547|Pr7547|
+|Advance|SP3703|SP3703|SP3703|
 |Advance|SP4702|SP4702|SP4702|
 |Advance|SP4703|SP4703|SP4703|
 |Advance|SP4872|SP4872|SP4872|
@@ -1028,6 +1029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|TR5996|TR5996|TR5996|
 |Advance|TR6948|TR6948|TR6948|
 |Advance|TR6949|TR6949|TR6949|
+|Advance|TR6985|TR6985|TR6985|
 |Advance|TR7988|TR7988|TR7988|
 |Advance|TR7989|TR7989|TR7989|
 |Advance|TR7990|TR7990|TR7990|
@@ -4548,6 +4550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G73|G0771|G73|
 |Blu|G73L|G0930|G73L|
 |Blu|G74|G1030|G74|
+|Blu|G75|G1170|G75|
 |Blu|G8|G0160LL|G8|
 |Blu|G8|G0170|G8|
 |Blu|G84|G1050|G84|
@@ -6083,6 +6086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|Q6|Q6|Q6|
 |Compaq|QT10|Compaq_QT10|QT10|
 |Compaq|QT10|QT10|QT10|
+|Compaq|QT11AVHE464M|Q_PAD|Q_PAD|
 |Compaq|QT12AVHE6128M|Q_Pad_Plus|Q_Pad_Plus|
 |Compaq|QTAB|QTAB|QTAB|
 |Compaq|QTAB10_1|QTAB10_1|QTAB10.1|
@@ -16951,6 +16955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|Orange Nola Up|Nola_Up|Orange Nola up|
 |Itel|Orange Nola fun 3|Nola_fun_3|Orange Nola fun 3|
 |Itel|P11|itel_P11|itel P11|
+|Itel|P11025G-IN|itel-P11025G|itel P11025G|
 |Itel|P1102GT-OP|itel-P1102GT|itel P1102GT|
 |Itel|P12|itel_P12|itel P12|
 |Itel|P13|itel-P13|itel P13|
@@ -18745,6 +18750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEGEND|X701|LEGEND_X701|X701|
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEVEL TV|Smart TV|osaki|2K AI Smart TV|
+|LEVIRTU|M309-EEA|M309-EEA|M309-EEA|
 |LEXA|Uruguay|nagata|LEXA SMART 2K TV|
 |LEYO|EY-TAB8161G|EY-TAB8161G|EY-TAB8161G|
 |LG HelloVision|K1100UA|K1100UA|K1100UA|
@@ -26211,6 +26217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |OFD(Display)|D01|D01|D01|
 |OFD(Display)|HSD-215|HSD-215|HSD-215|
+|OFD(Display)|HSD01|HSD01|HSD01|
 |OK (Mediamark)|32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|4K Smart TV|pioneer|4K PA Smart TV|
 |OK (Mediamark)|Android TV|longshan|AI PONT|
@@ -29710,6 +29717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|L8_C02|L8_C02|L8_C02|
 |Pritom|L8_C02_EEA|L8_C02_EEA|L8_C02_EEA|
 |Pritom|L8_D01|L8_D01|L8_D01|
+|Pritom|L8_D01_EEA|L8_D01_EEA|L8_D01_EEA|
 |Pritom|L8_EEA|L8_EEA|L8_EEA|
 |Pritom|L8_PRO|L8_PRO|L8|
 |Pritom|L8_PRO_EEA|L8_PRO_EEA|L8|
@@ -30156,6 +30164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quanta|FT103|FT103|FT103|
 |Quanta|True Beyond 4G|al7|TRUE BEYOND 4G|
 |Quanta|VSD220|VSD220|VSD220|
+|Quantic|CM4806|CM4806|CM4806|
 |Quantum|FLY|Q7|Quantum Fly|
 |Quantum|Fit|QF73|Quantum Fit|
 |Quantum|Go|Q1|Quantum Go|
@@ -30570,6 +30579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K30_EEA|K30_EEA|K30_EEA|
 |Rebecco|K30_EEA_B|K30_EEA_B|K30_EEA|
 |Rebecco|K30_EEA_B|K30_EEA_B|K30_EEA_B|
+|Rebecco|K30_EEA_B|K30_EEA_B|L30_EEA|
 |Rebecco|K30_ROW|K30_ROW|K30_ROW|
 |Rebecco|K50_EEA|K50_EEA|K50_EEA|
 |Rebecco|K50_EEA_B|K50_EEA_B|K30_EEA|
@@ -37788,6 +37798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|roarV95|roarV95|roarV95|
 |Symphony|roar_V150|roar_V150|roar_V150|
 |Synetech|Synetech Elite Taurus|rk3588_t|Synetech_T35|
+|Synetech|Synetech Elite Taurus-VC|oversea_v|Synetech_T7535_VC|
 |Synetech|Synetech_Elite_Taurus|rk3588_t|Synetech_T35|
 |Synetech|Synetech_Elite_Taurus_V|rk3588_t|Synetech_T35_V|
 |Synetech|infnity_Piscis_E1|Piscis|Pxx79|
@@ -40786,6 +40797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|V51|V51|Infinity_i4|
 |Telenor(HU)|Hipernet TV Box|Hipernet_TV_Box_B866V2|Hipernet TV Box|
 |Teleone|I06|I06|I06|
+|Teletab|TL-4|TL-4|TL-4|
 |Teletab|TL-9|TL-9|TL-9|
 |Telev8|MH700|MH700|MH700|
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
@@ -41558,6 +41570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Tab A8|GQ3286|Tab A8|
 |Ulefone|Tab A8|Tab_A8|Tab A8|
 |Ulefone|Tab A8|Tab_A8_EEA|Tab A8|
+|Ulefone|Tab A9 Pro|UF0901-1|Tab A9 Pro|
 |Ulefone|Tab R8 5G|Tab_R8_5G|Tab R8 5G|
 |Ulefone|Tab W10|UF1001_1|Tab W10|
 |Ulefone|Ulefone Tab A7|Ulefone_Tab_A7|Ulefone Tab A7|
@@ -42068,6 +42081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|AC52|VILLAON-V501L|VILLAON V501L|
 |VILLAON|AC65|VILLAON-V652L|VILLAON V652L|
 |VILLAON|V-Pad1|VP10001L|VP10001L|
+|VILLAON|V-Pad1|VP10001L|VP1001L_Liv|
 |VILLAON|V20|V20|V20|
 |VILLAON|V20 SE|VILLAON_V20_SE|VILLAON V501W|
 |VILLAON|V20_SE|VILLAON_V20_SE|VILLAON V501W|
@@ -46197,6 +46211,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Optus X Pro 5G|P720F02|A73 Pro 5G|
 |ZTE|Optus X Tap 3|P606F10|P660|
 |ZTE|Optus X-Plus|Z3511O|P602|
+|ZTE|Optus X-Pro 2 5G|Z7306O|P9 Pro 5G|
 |ZTE|Optus X-Total|P963F65|P656|
 |ZTE|Orange Hi 4G|Orange_Hi_4G|Orange Hi 4G|
 |ZTE|Orange Hi 4G|msm8226|Orange Hi 4G|
@@ -46222,6 +46237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|P651 2021|Z6355O|P651 2021|
 |ZTE|P652|P963F61|P652|
 |ZTE|P652 Pro|Z6356O|P652 Pro|
+|ZTE|P7 Pro 5G|Z7602O|P7 Pro 5G|
 |ZTE|P_C880S|P_P635N34|ZTE P_C880S|
 |ZTE|Preo Teknosa P1|msm8916_32|Preo Teknosa P1|
 |ZTE|Q101T|P810T10|ZTE Q101T|
@@ -46393,6 +46409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|TV Stick 4K|YEV|TV Stick 4K|
 |ZTE|Telenor Touch Plus|blade2|Telenor Touch Plus|
 |ZTE|Telstra T-Elite 5G|P720F09|A75 Pro 5G|
+|ZTE|Telstra T-Pro 2 5G|P780F03|Blade A76 5G|
 |ZTE|Telstra Tough Max 3|T86|T86|
 |ZTE|Tempo|xray45|N9131|
 |ZTE|Turkcell Maxi Plus 5|nice|Turkcell Maxi Plus 5|
@@ -47051,6 +47068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
 |ZTE|nubia Focus|P616F03|Z2455|
 |ZTE|nubia Focus 2 5G|P720F11|Z2462N|
+|ZTE|nubia Focus 2 5G|Z7305O|nubia Focus 2 5G|
 |ZTE|nubia Focus 2 Ultra 5G|P720F12|Z2463N|
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
 |ZTE|nubia Focus 5G|P720F09|Z2357N|
@@ -48463,6 +48481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P3 Pro 5G|RE6079L1|RMX5032|
 |realme|realme P3 Ultra 5G|RE60A4L1|RMX5030|
 |realme|realme P3 Ultra 5G|RE60A4L1|RMX5031|
+|realme|realme P4 5G|RE6440L1|RMX5110|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
 |realme|realme Pad 2 Lite|RE6077L1|RMP2402|

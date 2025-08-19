@@ -5272,6 +5272,11 @@
    "model": "Pr7547"
   },
   {
+   "device": "SP3703",
+   "name": "SP3703",
+   "model": "SP3703"
+  },
+  {
    "device": "SP4702",
    "name": "SP4702",
    "model": "SP4702"
@@ -5400,6 +5405,11 @@
    "device": "TR6949",
    "name": "TR6949",
    "model": "TR6949"
+  },
+  {
+   "device": "TR6985",
+   "name": "TR6985",
+   "model": "TR6985"
   },
   {
    "device": "TR7988",
@@ -23476,6 +23486,11 @@
    "model": "G74"
   },
   {
+   "device": "G1170",
+   "name": "G75",
+   "model": "G75"
+  },
+  {
    "device": "G0160LL",
    "name": "G8",
    "model": "G8"
@@ -31551,6 +31566,11 @@
    "device": "QT10",
    "name": "QT10",
    "model": "QT10"
+  },
+  {
+   "device": "Q_PAD",
+   "name": "QT11AVHE464M",
+   "model": "Q_PAD"
   },
   {
    "device": "Q_Pad_Plus",
@@ -87467,6 +87487,11 @@
    "model": "itel P11"
   },
   {
+   "device": "itel-P11025G",
+   "name": "P11025G-IN",
+   "model": "itel P11025G"
+  },
+  {
    "device": "itel-P1102GT",
    "name": "P1102GT-OP",
    "model": "itel P1102GT"
@@ -96791,6 +96816,13 @@
    "device": "osaki",
    "name": "Smart TV",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "LEVIRTU": [
+  {
+   "device": "M309-EEA",
+   "name": "M309-EEA",
+   "model": "M309-EEA"
   }
  ],
  "LEXA": [
@@ -135041,6 +135073,11 @@
    "device": "HSD-215",
    "name": "HSD-215",
    "model": "HSD-215"
+  },
+  {
+   "device": "HSD01",
+   "name": "HSD01",
+   "model": "HSD01"
   }
  ],
  "OK (Mediamark)": [
@@ -152942,6 +152979,11 @@
    "model": "L8_D01"
   },
   {
+   "device": "L8_D01_EEA",
+   "name": "L8_D01_EEA",
+   "model": "L8_D01_EEA"
+  },
+  {
    "device": "L8_EEA",
    "name": "L8_EEA",
    "model": "L8_EEA"
@@ -155264,6 +155306,13 @@
    "model": "VSD220"
   }
  ],
+ "Quantic": [
+  {
+   "device": "CM4806",
+   "name": "CM4806",
+   "model": "CM4806"
+  }
+ ],
  "Quantum": [
   {
    "device": "Q7",
@@ -157434,6 +157483,11 @@
    "device": "K30_EEA_B",
    "name": "K30_EEA_B",
    "model": "K30_EEA_B"
+  },
+  {
+   "device": "K30_EEA_B",
+   "name": "K30_EEA_B",
+   "model": "L30_EEA"
   },
   {
    "device": "K30_ROW",
@@ -194204,6 +194258,11 @@
    "model": "Synetech_T35"
   },
   {
+   "device": "oversea_v",
+   "name": "Synetech Elite Taurus-VC",
+   "model": "Synetech_T7535_VC"
+  },
+  {
    "device": "rk3588_t",
    "name": "Synetech_Elite_Taurus",
    "model": "Synetech_T35"
@@ -209494,6 +209553,11 @@
  ],
  "Teletab": [
   {
+   "device": "TL-4",
+   "name": "TL-4",
+   "model": "TL-4"
+  },
+  {
    "device": "TL-9",
    "name": "TL-9",
    "model": "TL-9"
@@ -213572,6 +213636,11 @@
    "model": "Tab A8"
   },
   {
+   "device": "UF0901-1",
+   "name": "Tab A9 Pro",
+   "model": "Tab A9 Pro"
+  },
+  {
    "device": "Tab_R8_5G",
    "name": "Tab R8 5G",
    "model": "Tab R8 5G"
@@ -216228,6 +216297,11 @@
    "device": "VP10001L",
    "name": "V-Pad1",
    "model": "VP10001L"
+  },
+  {
+   "device": "VP10001L",
+   "name": "V-Pad1",
+   "model": "VP1001L_Liv"
   },
   {
    "device": "V20",
@@ -237419,6 +237493,11 @@
    "model": "P602"
   },
   {
+   "device": "Z7306O",
+   "name": "Optus X-Pro 2 5G",
+   "model": "P9 Pro 5G"
+  },
+  {
    "device": "P963F65",
    "name": "Optus X-Total",
    "model": "P656"
@@ -237542,6 +237621,11 @@
    "device": "Z6356O",
    "name": "P652 Pro",
    "model": "P652 Pro"
+  },
+  {
+   "device": "Z7602O",
+   "name": "P7 Pro 5G",
+   "model": "P7 Pro 5G"
   },
   {
    "device": "P_P635N34",
@@ -238397,6 +238481,11 @@
    "device": "P720F09",
    "name": "Telstra T-Elite 5G",
    "model": "A75 Pro 5G"
+  },
+  {
+   "device": "P780F03",
+   "name": "Telstra T-Pro 2 5G",
+   "model": "Blade A76 5G"
   },
   {
    "device": "T86",
@@ -241687,6 +241776,11 @@
    "device": "P720F11",
    "name": "nubia Focus 2 5G",
    "model": "Z2462N"
+  },
+  {
+   "device": "Z7305O",
+   "name": "nubia Focus 2 5G",
+   "model": "nubia Focus 2 5G"
   },
   {
    "device": "P720F12",
@@ -249117,6 +249211,11 @@
    "device": "RE60A4L1",
    "name": "realme P3 Ultra 5G",
    "model": "RMX5031"
+  },
+  {
+   "device": "RE6440L1",
+   "name": "realme P4 5G",
+   "model": "RMX5110"
   },
   {
    "device": "RE5C6EL1",
