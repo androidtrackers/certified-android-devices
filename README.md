@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-20
+Last sync is 2025-08-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3759,6 +3759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|F5_16|F5|F5_16|
 |BenQ|F5_18|F5|F5_18|
 |BenQ|F5_19|F5|F5_19|
+|BenQ|GP520|khandala|BenQGP01|
 |BenQ|GV01|himalaya|BenQGV01|
 |BenQ|Harrier|Harrier|Harrier from EE|
 |BenQ|Harrier Mini|harrier_mini|Harrier Mini from EE|
@@ -4296,6 +4297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt|kaitak|Blaupunkt Google TV|
 |Blaupunkt|Blaupunkt|komagome|BLAUPUNKT 2K Android TV|
 |Blaupunkt|Blaupunkt|lavender|BLAUPUNKT GOOGLE TV 4K|
+|Blaupunkt|Blaupunkt|maniatika|Blaupunkt 4K UHDTV|
 |Blaupunkt|Blaupunkt|mountbaker|2K SMART TV|
 |Blaupunkt|Blaupunkt|mountbaker|BLAUPUNKT GOOGLE TV|
 |Blaupunkt|Blaupunkt|shilin|BLAUPUNKT 4K Android TV|
@@ -7251,6 +7253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|Smart TV|mateo|DAEWOO 2K SA Smart TV|
 |Daewoo|X7|X7|X7|
 |Daewoo|X9|X9|X9|
+|Dafeng Media Group|D1|DADA_1319D|DADA1319D|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
 |Dahua|DAHUA|elliniko|4K SA SMART TV|
 |Dahua|DAHUA|elliniko|4K SMART TV|
@@ -13670,6 +13673,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7c|HNALT-QL|ALT-LX2|
 |Honor|HONOR X7c|HNALT-QL|ALT-LX3|
 |Honor|HONOR X7c 5G|HNALT-Q1|ALT-NX1|
+|Honor|HONOR X7d|HNLGN-QL|LGN-LX1|
+|Honor|HONOR X7d|HNLGN-QL|LGN-LX2|
+|Honor|HONOR X7d|HNLGN-QL|LGN-LX3|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -13740,6 +13746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Horion|IFPD|65W72B|W72B|
 |Horion|K7A|K7A|K7A|
 |Horion|M6APro|M6APro|M6APro|
+|Horion|M6AProV2|M6AProV2|M6AProV2|
 |Hosoton|H101_EEA|H101|H101|
 |Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
 |Hot Pepper|18 Pro|18_Pro|18 Pro|
@@ -31460,6 +31467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMT_TSC|BLAZE X500|BLAZE_X500|BLAZE_X500|
 |SMT_TSC|CRUSH_X565|CRUSH_X565|CRUSH_X565|
 |SMT_TSC|FLAME X555|FLAME_X555|FLAME_X555|
+|SMV|SMV_3588|SMV_3588|SMV_3588|
 |SOHO STYLE|S1582C|S1582C|S1582C|
 |SOHO STYLE|S1586K|S1586K|S1586K|
 |SOHO STYLE|S1587K|S1587K|S1587K|
@@ -40260,6 +40268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T65Max_A_ROW|T65Max_A_ROW|T65Max_A_ROW|
 |Teclast|T65Max_EEA|T65Max_EEA|T65Max_EEA|
 |Teclast|T65Max_ROW|T65Max_ROW|T65Max_ROW|
+|Teclast|T65_EEA|T65|T65_EEA|
 |Teclast|T65_ROW|T65|T65_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|
 |Teclast|T70_ROW|T70_ROW|T70_ROW|
@@ -40979,6 +40988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tibuta|A10_M_EU|A10_M_EU|A10_M_EU|
 |Tibuta|A30|A30|A30|
 |Tibuta|A40|A40|A40|
+|Tibuta|E100_25US|E100_25US|E100_25US|
 |Tibuta|E101|E101|E101|
 |Tibuta|E220_M_EU|E220_M_EU|E220_M_EU|
 |Tibuta|SmartPad_E220|SmartPad_E220|SmartPad_E220|
@@ -44642,6 +44652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XD-Enjoy|XDDGM99PM|XDDGM99PM|XDDGM99PM|
 |XENON|PHILIPPINES|marina|XENON ANDROID TV|
 |XENON|XENON ANDROID TV|nagata|XENON ANDROID TV|
+|XGIMI|AURA 2 (New)|kasol|WM18P|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|Halo+|altai|H0030|
 |XGIMI|MoGo|xgimiapollo|MoGo|
@@ -48071,6 +48082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Pad5|DPD2437|iPA2556|
 |iQOO|iQOO Z10 Lite|I2502|I2502|
 |iQOO|iQOO Z10 Lite 5G|I2409|I2409|
+|iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|

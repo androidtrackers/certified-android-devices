@@ -19463,6 +19463,11 @@
    "model": "F5_19"
   },
   {
+   "device": "khandala",
+   "name": "GP520",
+   "model": "BenQGP01"
+  },
+  {
    "device": "himalaya",
    "name": "GV01",
    "model": "BenQGV01"
@@ -22214,6 +22219,11 @@
    "device": "lavender",
    "name": "Blaupunkt",
    "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+   "device": "maniatika",
+   "name": "Blaupunkt",
+   "model": "Blaupunkt 4K UHDTV"
   },
   {
    "device": "mountbaker",
@@ -37571,6 +37581,13 @@
    "device": "X9",
    "name": "X9",
    "model": "X9"
+  }
+ ],
+ "Dafeng Media Group": [
+  {
+   "device": "DADA_1319D",
+   "name": "D1",
+   "model": "DADA1319D"
   }
  ],
  "Dahl Sweden": [
@@ -70816,6 +70833,21 @@
    "model": "ALT-NX1"
   },
   {
+   "device": "HNLGN-QL",
+   "name": "HONOR X7d",
+   "model": "LGN-LX1"
+  },
+  {
+   "device": "HNLGN-QL",
+   "name": "HONOR X7d",
+   "model": "LGN-LX2"
+  },
+  {
+   "device": "HNLGN-QL",
+   "name": "HONOR X7d",
+   "model": "LGN-LX3"
+  },
+  {
    "device": "HNTFY-Q",
    "name": "HONOR X8",
    "model": "TFY-LX1"
@@ -71168,6 +71200,11 @@
    "device": "M6APro",
    "name": "M6APro",
    "model": "M6APro"
+  },
+  {
+   "device": "M6AProV2",
+   "name": "M6AProV2",
+   "model": "M6AProV2"
   }
  ],
  "Hosoton": [
@@ -162118,6 +162155,13 @@
    "model": "FLAME_X555"
   }
  ],
+ "SMV": [
+  {
+   "device": "SMV_3588",
+   "name": "SMV_3588",
+   "model": "SMV_3588"
+  }
+ ],
  "SOHO STYLE": [
   {
    "device": "S1582C",
@@ -206825,6 +206869,11 @@
   },
   {
    "device": "T65",
+   "name": "T65_EEA",
+   "model": "T65_EEA"
+  },
+  {
+   "device": "T65",
    "name": "T65_ROW",
    "model": "T65_ROW"
   },
@@ -210513,6 +210562,11 @@
    "device": "A40",
    "name": "A40",
    "model": "A40"
+  },
+  {
+   "device": "E100_25US",
+   "name": "E100_25US",
+   "model": "E100_25US"
   },
   {
    "device": "E101",
@@ -229492,6 +229546,11 @@
  ],
  "XGIMI": [
   {
+   "device": "kasol",
+   "name": "AURA 2 (New)",
+   "model": "WM18P"
+  },
+  {
    "device": "xgimiapollo",
    "name": "Halo",
    "model": "Halo"
@@ -247055,6 +247114,11 @@
    "device": "I2409",
    "name": "iQOO Z10 Lite 5G",
    "model": "I2409"
+  },
+  {
+   "device": "PD2507",
+   "name": "iQOO Z10 Turbo+",
+   "model": "V2507A"
   }
  ],
  "iQandT": [
