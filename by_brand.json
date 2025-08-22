@@ -89614,6 +89614,11 @@
    "model": "JVC 4K ISDB TV"
   },
   {
+   "device": "maniatika",
+   "name": "JVC",
+   "model": "JVC UltraTV"
+  },
+  {
    "device": "mountbaker",
    "name": "JVC",
    "model": "JVC 2K ATSC TV"
@@ -89717,6 +89722,11 @@
    "device": "SW6H",
    "name": "JVC 4K Smart TV NZ",
    "model": "JVC 4K Smart TV NZ"
+  },
+  {
+   "device": "SW6H",
+   "name": "JVC 4K Smart TV NZ",
+   "model": "JVC eplay 4KTV FF"
   },
   {
    "device": "anaheim",
@@ -157698,6 +157708,11 @@
    "device": "M30_Pro",
    "name": "M30_Pro",
    "model": "M30"
+  },
+  {
+   "device": "Z70",
+   "name": "Z70_EEA",
+   "model": "Z70"
   }
  ],
  "RebotAi": [
@@ -246188,6 +246203,11 @@
    "device": "SMART_L32",
    "name": "SMART_L32",
    "model": "SMART L32"
+  },
+  {
+   "device": "SMART_L42",
+   "name": "SMART_L42",
+   "model": "SMART L42"
   },
   {
    "device": "SMART_L43",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-21
+Last sync is 2025-08-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17368,6 +17368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|komagome|JVC EU 2K Android TV|
 |JVC|JVC|lavender|JVC 4K DVB TV|
 |JVC|JVC|lavender|JVC 4K ISDB TV|
+|JVC|JVC|maniatika|JVC UltraTV|
 |JVC|JVC|mountbaker|JVC 2K ATSC TV|
 |JVC|JVC|mountbaker|JVC 2K DVB TV|
 |JVC|JVC|mountbaker|JVC 2K ISDB TV|
@@ -17389,6 +17390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|zhongshan|4K SMART TV|
 |JVC|JVC|zhongshan|COL 4K SMART TV|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
+|JVC|JVC 4K Smart TV NZ|SW6H|JVC eplay 4KTV FF|
 |JVC|JVC 4K Smart TV Plus|anaheim|JVC 4K Smart TV Plus|
 |JVC|JVC G24 TV|anaheim|JVC G24 TV|
 |JVC|JVC J20|Cunda|J20|
@@ -30620,6 +30622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K70i_EEA|K70i_EEA|K70i_EEA|
 |Rebecco|K80_ROW|K80_ROW|K80_ROW|
 |Rebecco|M30_Pro|M30_Pro|M30|
+|Rebecco|Z70_EEA|Z70|Z70|
 |RebotAi|A9_EEA|A9_EEA|A9|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
@@ -47902,6 +47905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_L31|SMART_L31|SMART L31|
 |iGet|SMART_L31|SMART_L31|SMART_L31|
 |iGet|SMART_L32|SMART_L32|SMART L32|
+|iGet|SMART_L42|SMART_L42|SMART L42|
 |iGet|SMART_L43|SMART_L43|SMART L43|
 |iGet|SMART_W101|SMART_W101|SMART_W101|
 |iGet|SMART_W10X_EEA|SMART_W10X_EEA|SMART_W10X_EEA|
