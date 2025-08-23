@@ -67110,6 +67110,11 @@
    "model": "Hisense E77"
   },
   {
+   "device": "HLTE272E",
+   "name": "Hisense Enigma",
+   "model": "Hisense Enigma"
+  },
+  {
    "device": "HS6739MT",
    "name": "Hisense F15",
    "model": "Hisense F15"
@@ -67313,6 +67318,11 @@
    "device": "HNR510E",
    "name": "Hisense Infinity H60 5G",
    "model": "Hisense Infinity H60 5G"
+  },
+  {
+   "device": "HLTE271E",
+   "name": "Hisense Infinity H72 Pro",
+   "model": "Hisense Infinity H72 Pro"
   },
   {
    "device": "HS8909QC",
@@ -180536,6 +180546,11 @@
    "device": "q7q",
    "name": "Galaxy Z Fold7",
    "model": "SM-F966Z"
+  },
+  {
+   "device": "q7q",
+   "name": "Galaxy Z Fold7",
+   "model": "SM-W9026"
   },
   {
    "device": "YP-GB70D",

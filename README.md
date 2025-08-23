@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-22
+Last sync is 2025-08-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12934,6 +12934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E70 Pro|HLTE263E|Hisense E70 Pro|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
+|Hisense|Hisense Enigma|HLTE272E|Hisense Enigma|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
 |Hisense|Hisense F16|HS6739MT|Hisense F16|
 |Hisense|Hisense F16|HS6739MT|Hisense Infinity E6|
@@ -12975,6 +12976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense Infinity H50S 5G|HNR500E_02|Hisense Infinity H50S 5G|
 |Hisense|Hisense Infinity H50S 5G|HNR500E_03|Hisense Infinity H50S 5G|
 |Hisense|Hisense Infinity H60 5G|HNR510E|Hisense Infinity H60 5G|
+|Hisense|Hisense Infinity H72 Pro|HLTE271E|Hisense Infinity H72 Pro|
 |Hisense|Hisense M36|HS8909QC|Hisense M36|
 |Hisense|Hisense P1|HS8953QC|Hisense P1|
 |Hisense|Hisense T17|HS6580MT|Hisense T17|
@@ -35122,6 +35124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold7|q7q|SM-F966U1|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966W|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966Z|
+|Samsung|Galaxy Z Fold7|q7q|SM-W9026|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
