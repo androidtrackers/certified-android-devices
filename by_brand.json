@@ -121309,6 +121309,11 @@
    "model": "Miramage Smart Display"
   },
   {
+   "device": "alken",
+   "name": "Smart TV 2K",
+   "model": "Smart TV 2K"
+  },
+  {
    "device": "beaudry",
    "name": "TV3223HDA11SMARTG",
    "model": "Miramage AndroidTV"
@@ -217060,6 +217065,21 @@
    "device": "beaudry",
    "name": "VSP AndroidTV",
    "model": "VSP AndroidTV"
+  },
+  {
+   "device": "alken",
+   "name": "VSP Google TV",
+   "model": "VSP Google TV"
+  },
+  {
+   "device": "surface",
+   "name": "VSP Google TV",
+   "model": "VSP Google TV"
+  },
+  {
+   "device": "surface",
+   "name": "VSP Google TV P",
+   "model": "VSP Google TV P"
   }
  ],
  "VT": [

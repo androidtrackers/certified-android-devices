@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-23
+Last sync is 2025-08-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23541,6 +23541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Miramage|Miramage AndroidTV|barking|Miramage AndroidTV KR|
 |Miramage|Miramage Google TV|surface|Smart TV|
 |Miramage|Miramage Smart Display|beaudry|Miramage Smart Display|
+|Miramage|Smart TV 2K|alken|Smart TV 2K|
 |Miramage|TV3223HDA11SMARTG|beaudry|Miramage AndroidTV|
 |Miramage|TV5023UHDA11SMARTG|barking|Miramage AndroidTV|
 |Mito|4K Smart TV|pioneer|4K PA Smart TV|
@@ -42222,6 +42223,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VSN|V.35|up11_h1_vsn|V.35|
 |VSP(VN)|VSP AndroidTV|barking|VSP AndroidTV|
 |VSP(VN)|VSP AndroidTV|beaudry|VSP AndroidTV|
+|VSP(VN)|VSP Google TV|alken|VSP Google TV|
+|VSP(VN)|VSP Google TV|surface|VSP Google TV|
+|VSP(VN)|VSP Google TV P|surface|VSP Google TV P|
 |VT|MB300|MB300|SmartTV|
 |VTCNOWRINDO|VR-42AF6800|ikebukuro|AI PONT|
 |VTEX|MT8768|MT8768|MT8768|
