@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-25
+Last sync is 2025-08-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10812,6 +10812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Glocalme|P3S18|P3S18|P3S18|
 |Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
+|Gloria|A50|A50|gloria A50|
 |Go Mobile|G860|G860|G860|
 |Go Mobile|GO Onyx|GO_Onyx_LTE|GO Onyx LTE|
 |Go Mobile|GO Onyx HD|Go_Onyx_HD|Go Onyx HD|
@@ -10920,6 +10921,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MT8173 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
 |Google|Pixel|sailfish|Pixel|
+|Google|Pixel 10|frankel|Pixel 10|
+|Google|Pixel 10 Pro|blazer|Pixel 10 Pro|
+|Google|Pixel 10 Pro XL|mustang|Pixel 10 Pro XL|
 |Google|Pixel 2|walleye|Pixel 2|
 |Google|Pixel 2 XL|taimen|Pixel 2 XL|
 |Google|Pixel 3|blueline|Pixel 3|
@@ -12227,6 +12231,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|G7s|G7s|G7s|
 |Haier|GF88|I7A-LE|I7A-LE|
 |Haier|Galaxy TV AEL|irvine|Galaxy TV AEL|
+|Haier|Galaxy TV FE|burrard|Galaxy TV FE|
+|Haier|Galaxy TV FR|nanaimo|Galaxy TV FR|
 |Haier|HEC Android TV|hanyang|HEC Android TV|
 |Haier|HEC Android TV DVB|dupont|HEC Android TV DVB|
 |Haier|HEC Android TV DVB2K|broadway|HEC Android TV DVB2K|
@@ -16204,6 +16210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 60 Pro+|Infinix-X6886|Infinix X6886|
 |Infinix|HOT 60i|Infinix-X6728|Infinix X6728|
 |Infinix|HOT 60i 5G|Infinix-X6730|Infinix X6730|
+|Infinix|HOT 60i 5G|Infinix-X6730B|Infinix X6730B|
 |Infinix|HOT 7|Infinix-X624|Infinix X624|
 |Infinix|HOT 7|Infinix-X624B|Infinix X624B|
 |Infinix|HOT 7 PRO|Infinix-X625|Infinix X625B|
@@ -17249,6 +17256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JCB_UK|JCB_TP231|JCB_TP231|JCB TP231|
 |JECTNOTE|Interactive_whiteboard|JT_PH86TOC|JT_PH86TOC|
 |JECTOR|FM-U|FM-U|FM-U|
+|JECTOR|FM-VSeries|FM-VSeries|FM-VSeries|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
 |JHZL|J101|J101|J101|
@@ -17260,6 +17268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|C62A|holan|C62A|
 |JMGO|K62A|holan|K62A|
 |JMGO|K80A|holan|K80A|
+|JMGO|K93A|lonavla|K93A|
 |JMGO|V62A|holan|V62A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
@@ -25737,6 +25746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neostra|Neostra-R10C|Neostra-R10C|Neostra-R10C|
 |Neostra|Neostra-R7|Neostra-R7|Neostra-R7|
 |Neostra|ViewPad 7A|ViewPad-Kids-7A|ViewPad-Kids-7A|
+|Net+|TV|uzw4068nps|Box TV|
 |Net+|TV|uzx4020nps|TV|
 |Netgear|NeoTVPrime|NeoTV|GTV100|
 |Netmak|NETPAD7|NM-NETPAD7|NM-NETPAD7|
@@ -28067,8 +28077,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M6 Plus 5G|breeze|24066PC95I|
 |POCO|POCO M6 Pro|emerald|2312FPCA6G|
 |POCO|POCO M6 Pro 5G|sky|23076PC4BI|
+|POCO|POCO M7|creek|25062PC34E|
 |POCO|POCO M7|creek|25062PC34G|
 |POCO|POCO M7 5G|flame|24108PCE2I|
+|POCO|POCO M7 Plus 5G|spring|25057PC09I|
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO Pad|dizi|2405CPCFBG|
 |POCO|POCO X2|phoenixin|POCO X2|
@@ -30646,6 +30658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI K80 Ultra|dali|25060RK16C|
+|Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
 |Redmi|Redmi  7A|pine|Redmi 7A|
@@ -31218,6 +31231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6537G|S6537G|S6537G|
 |Ruio|S6539Q|S6539Q|Hot2|
 |Ruio|S6539Q|S6539Q|S6539Q|
+|Ruio|S6539Q|S6539Q|VISION|
 |Ruio|S6705|S6705|S6705|
 |Ruio|smart|Blitz|Blitz|
 |Rumie|RT-1708|RT-1708|RT-1708|
@@ -32063,8 +32077,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A06 5G|a06x|SM-A066M|
 |Samsung|Galaxy A07|a07|SM-A075F|
 |Samsung|Galaxy A07|a07|SM-A075M|
-|Samsung|Galaxy A07|a07|SM-E075F|
-|Samsung|Galaxy A07|a07|SM-M075F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -32750,6 +32762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F04|m04|SM-E045F|
 |Samsung|Galaxy F05|a05m|SM-E055F|
 |Samsung|Galaxy F06 5G|a06x|SM-E066B|
+|Samsung|Galaxy F07|a07|SM-E075F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F13|m13|SM-E135F|
 |Samsung|Galaxy F14|a05s|SM-E145F|
@@ -33161,6 +33174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M04|m04|SM-M045F|
 |Samsung|Galaxy M05|a05m|SM-M055F|
 |Samsung|Galaxy M06 5G|a06x|SM-M066B|
+|Samsung|Galaxy M07|a07|SM-M075F|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
@@ -33914,6 +33928,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S25 Edge|psq|SM-S937U|
 |Samsung|Galaxy S25 Edge|psq|SM-S937U1|
 |Samsung|Galaxy S25 Edge|psq|SM-S937W|
+|Samsung|Galaxy S25 FE|r13s|SM-S731B|
+|Samsung|Galaxy S25 FE|r13s|SM-S731N|
+|Samsung|Galaxy S25 FE|r13s|SM-S731U|
+|Samsung|Galaxy S25 FE|r13s|SM-S731U1|
+|Samsung|Galaxy S25 FE|r13s|SM-S731W|
 |Samsung|Galaxy S25 Ultra|SC-52F|SC-52F|
 |Samsung|Galaxy S25 Ultra|SCG32|SCG32|
 |Samsung|Galaxy S25 Ultra|pa3q|SM-S9380|
@@ -40995,6 +41014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tibuta|A10_M_EU|A10_M_EU|A10_M_EU|
 |Tibuta|A30|A30|A30|
 |Tibuta|A40|A40|A40|
+|Tibuta|E100_25EU|E100_25EU|E100_25EU|
 |Tibuta|E100_25US|E100_25US|E100_25US|
 |Tibuta|E101|E101|E101|
 |Tibuta|E220_M_EU|E220_M_EU|E220_M_EU|

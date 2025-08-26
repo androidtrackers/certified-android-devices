@@ -56236,6 +56236,13 @@
    "model": "Gpad_U"
   }
  ],
+ "Gloria": [
+  {
+   "device": "A50",
+   "name": "A50",
+   "model": "gloria A50"
+  }
+ ],
  "Go Mobile": [
   {
    "device": "G860",
@@ -56804,6 +56811,21 @@
    "device": "sailfish",
    "name": "Pixel",
    "model": "Pixel"
+  },
+  {
+   "device": "frankel",
+   "name": "Pixel 10",
+   "model": "Pixel 10"
+  },
+  {
+   "device": "blazer",
+   "name": "Pixel 10 Pro",
+   "model": "Pixel 10 Pro"
+  },
+  {
+   "device": "mustang",
+   "name": "Pixel 10 Pro XL",
+   "model": "Pixel 10 Pro XL"
   },
   {
    "device": "walleye",
@@ -63491,6 +63513,16 @@
    "device": "irvine",
    "name": "Galaxy TV AEL",
    "model": "Galaxy TV AEL"
+  },
+  {
+   "device": "burrard",
+   "name": "Galaxy TV FE",
+   "model": "Galaxy TV FE"
+  },
+  {
+   "device": "nanaimo",
+   "name": "Galaxy TV FR",
+   "model": "Galaxy TV FR"
   },
   {
    "device": "hanyang",
@@ -83680,6 +83712,11 @@
    "model": "Infinix X6730"
   },
   {
+   "device": "Infinix-X6730B",
+   "name": "HOT 60i 5G",
+   "model": "Infinix X6730B"
+  },
+  {
    "device": "Infinix-X624",
    "name": "HOT 7",
    "model": "Infinix X624"
@@ -88985,6 +89022,11 @@
    "device": "FM-U",
    "name": "FM-U",
    "model": "FM-U"
+  },
+  {
+   "device": "FM-VSeries",
+   "name": "FM-VSeries",
+   "model": "FM-VSeries"
   }
  ],
  "JEEMAK": [
@@ -89052,6 +89094,11 @@
    "device": "holan",
    "name": "K80A",
    "model": "K80A"
+  },
+  {
+   "device": "lonavla",
+   "name": "K93A",
+   "model": "K93A"
   },
   {
    "device": "holan",
@@ -132563,6 +132610,11 @@
  ],
  "Net+": [
   {
+   "device": "uzw4068nps",
+   "name": "TV",
+   "model": "Box TV"
+  },
+  {
    "device": "uzx4020nps",
    "name": "TV",
    "model": "TV"
@@ -144559,12 +144611,22 @@
   {
    "device": "creek",
    "name": "POCO M7",
+   "model": "25062PC34E"
+  },
+  {
+   "device": "creek",
+   "name": "POCO M7",
    "model": "25062PC34G"
   },
   {
    "device": "flame",
    "name": "POCO M7 5G",
    "model": "24108PCE2I"
+  },
+  {
+   "device": "spring",
+   "name": "POCO M7 Plus 5G",
+   "model": "25057PC09I"
   },
   {
    "device": "beryl",
@@ -157840,6 +157902,11 @@
    "model": "25060RK16C"
   },
   {
+   "device": "taiko",
+   "name": "REDMI Pad 2",
+   "model": "25040RP0AC"
+  },
+  {
    "device": "rodin",
    "name": "REDMI Turbo 4",
    "model": "24129RT7CC"
@@ -160780,6 +160847,11 @@
    "device": "S6539Q",
    "name": "S6539Q",
    "model": "S6539Q"
+  },
+  {
+   "device": "S6539Q",
+   "name": "S6539Q",
+   "model": "VISION"
   },
   {
    "device": "S6705",
@@ -165243,16 +165315,6 @@
    "model": "SM-A075M"
   },
   {
-   "device": "a07",
-   "name": "Galaxy A07",
-   "model": "SM-E075F"
-  },
-  {
-   "device": "a07",
-   "name": "Galaxy A07",
-   "model": "SM-M075F"
-  },
-  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -168678,6 +168740,11 @@
    "model": "SM-E066B"
   },
   {
+   "device": "a07",
+   "name": "Galaxy F07",
+   "model": "SM-E075F"
+  },
+  {
    "device": "f12",
    "name": "Galaxy F12",
    "model": "SM-F127G"
@@ -170731,6 +170798,11 @@
    "device": "a06x",
    "name": "Galaxy M06 5G",
    "model": "SM-M066B"
+  },
+  {
+   "device": "a07",
+   "name": "Galaxy M07",
+   "model": "SM-M075F"
   },
   {
    "device": "m10lte",
@@ -174496,6 +174568,31 @@
    "device": "psq",
    "name": "Galaxy S25 Edge",
    "model": "SM-S937W"
+  },
+  {
+   "device": "r13s",
+   "name": "Galaxy S25 FE",
+   "model": "SM-S731B"
+  },
+  {
+   "device": "r13s",
+   "name": "Galaxy S25 FE",
+   "model": "SM-S731N"
+  },
+  {
+   "device": "r13s",
+   "name": "Galaxy S25 FE",
+   "model": "SM-S731U"
+  },
+  {
+   "device": "r13s",
+   "name": "Galaxy S25 FE",
+   "model": "SM-S731U1"
+  },
+  {
+   "device": "r13s",
+   "name": "Galaxy S25 FE",
+   "model": "SM-S731W"
   },
   {
    "device": "SC-52F",
@@ -210597,6 +210694,11 @@
    "device": "A40",
    "name": "A40",
    "model": "A40"
+  },
+  {
+   "device": "E100_25EU",
+   "name": "E100_25EU",
+   "model": "E100_25EU"
   },
   {
    "device": "E100_25US",
