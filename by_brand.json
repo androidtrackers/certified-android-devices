@@ -1797,6 +1797,11 @@
  ],
  "ASTECH": [
   {
+   "device": "Astech_NEO",
+   "name": "Astech NEO",
+   "model": "Astech NEO"
+  },
+  {
    "device": "Astech_S7",
    "name": "Astech S7",
    "model": "Astech S7"
@@ -34933,6 +34938,11 @@
    "model": "KINGKONG MINI 3"
   },
   {
+   "device": "KINGKONG_MINI_4",
+   "name": "KINGKONG MINI 4",
+   "model": "KINGKONG MINI 4"
+  },
+  {
    "device": "KINGKONG_MINI2",
    "name": "KINGKONG MINI2",
    "model": "KINGKONG MINI2"
@@ -37506,6 +37516,11 @@
    "device": "pioneer",
    "name": "4K Smart TV",
    "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
+   "device": "beomil",
+   "name": "AI SMART TV",
+   "model": "AI SMART TV"
   },
   {
    "device": "hongkong",
@@ -46620,6 +46635,11 @@
    "model": "B506_Intro"
   },
   {
+   "device": "beomil",
+   "name": "ERGO 2K SMART TV",
+   "model": "ERGO 2K SMART TV"
+  },
+  {
    "device": "B500",
    "name": "ERGO B500",
    "model": "ERGO B500 First"
@@ -51480,6 +51500,11 @@
    "device": "RubensTab_T11",
    "name": "RubensTab_T11",
    "model": "RubensTab_T11"
+  },
+  {
+   "device": "RubensTab_T12",
+   "name": "RubensTab_T12",
+   "model": "RubensTab T12"
   },
   {
    "device": "RubensTab_T8",
@@ -64592,6 +64617,11 @@
    "device": "HSG1416A",
    "name": "Product Name HSG1416A",
    "model": "HSG1416A"
+  },
+  {
+   "device": "SN08HD1B",
+   "name": "SN08HD1B",
+   "model": "SN08HD1B"
   },
   {
    "device": "SN08HD1B",
@@ -88117,6 +88147,11 @@
    "device": "itel-A632L",
    "name": "itel A04s",
    "model": "itel A632L"
+  },
+  {
+   "device": "itel-A6611L",
+   "name": "itel A100C",
+   "model": "itel A6611L"
   },
   {
    "device": "itel_A11",
@@ -114111,6 +114146,13 @@
    "device": "MG715",
    "name": "MG715",
    "model": "MG715"
+  }
+ ],
+ "MAIBENBEN": [
+  {
+   "device": "PAD5WiFi11M87",
+   "name": "PAD5WIFI",
+   "model": "Pad 5"
   }
  ],
  "MARUSYS": [
@@ -160453,6 +160495,16 @@
  ],
  "RockTek": [
   {
+   "device": "RMQ",
+   "name": "GT1",
+   "model": "UHD Streaming STB"
+  },
+  {
+   "device": "RMQ",
+   "name": "GX1",
+   "model": "UHD Google TV STB"
+  },
+  {
    "device": "RTBox",
    "name": "RT-G1",
    "model": "RT-G1"
@@ -160847,6 +160899,11 @@
    "device": "S6539Q",
    "name": "S6539Q",
    "model": "S6539Q"
+  },
+  {
+   "device": "S6539Q",
+   "name": "S6539Q",
+   "model": "T1"
   },
   {
    "device": "S6539Q",
@@ -164361,6 +164418,11 @@
    "device": "eleonas",
    "name": "SWTV-24SA-4K NF",
    "model": "SWTV-24SA-4K NF"
+  },
+  {
+   "device": "beomil",
+   "name": "SWTV-24SA-FHD",
+   "model": "SWTV-24SA-FHD"
   },
   {
    "device": "SW3_ATV",
@@ -219815,6 +219877,11 @@
    "model": "IFP8652-2"
   },
   {
+   "device": "IN02_series",
+   "name": "IN02 series",
+   "model": "IN02_series"
+  },
+  {
    "device": "IN03",
    "name": "IN03_Series",
    "model": "IN03"
@@ -220040,6 +220107,11 @@
    "device": "anaheim",
    "name": "VISION GSMART 4KTV FF",
    "model": "VISION GSMART 4KTV FF"
+  },
+  {
+   "device": "beomil",
+   "name": "VISION LED TV",
+   "model": "VISION LED TV"
   },
   {
    "device": "SW4H",
@@ -248665,6 +248737,13 @@
    "device": "Y7_EEA",
    "name": "Y7_EEA",
    "model": "Y7"
+  }
+ ],
+ "raemond": [
+  {
+   "device": "Z90",
+   "name": "Z90_EEA",
+   "model": "Z90"
   }
  ],
  "rainx": [

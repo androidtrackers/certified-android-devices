@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-26
+Last sync is 2025-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -331,6 +331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASHER|Smart TV|redwood|AI PONT|
 |ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
+|ASTECH|Astech NEO|Astech_NEO|Astech NEO|
 |ASTECH|Astech S7|Astech_S7|Astech S7|
 |ASTECH|Astech_IRIS|Astech_IRIS|Astech IRIS|
 |ASTECH|Astech_S8|Astech_S8|Astech S8|
@@ -6745,6 +6746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG ES|KINGKONG_ES|KINGKONG_ES|
 |Cubot|KINGKONG ES 3|KINGKONG_ES_3|KINGKONG ES 3|
 |Cubot|KINGKONG MINI 3|KINGKONGMINI3|KINGKONG MINI 3|
+|Cubot|KINGKONG MINI 4|KINGKONG_MINI_4|KINGKONG MINI 4|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG_MINI2_Pro|
@@ -7238,6 +7240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daelim_System|Daelim System_IFPD|Daelim_System_RK3588|ULTRA_DS11386|
 |Daewoo|4K Smart TV|pioneer|4K SA Smart TV|
 |Daewoo|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
+|Daewoo|AI SMART TV|beomil|AI SMART TV|
 |Daewoo|DAEWOO|hongkong|4K SMART TV|
 |Daewoo|DAEWOO|lavender|4K SMART TV|
 |Daewoo|DAEWOO|mountbaker|2K SMART TV|
@@ -8978,6 +8981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ergo|B504_Unit|B504_Unit|B504_Unit|
 |Ergo|B505_Unit_4G|B505_Unit_4G|B505_Unit_4G|
 |Ergo|ERGO|B506_Intro|B506_Intro|
+|Ergo|ERGO 2K SMART TV|beomil|ERGO 2K SMART TV|
 |Ergo|ERGO B500|B500|ERGO B500 First|
 |Ergo|ERGO B501|B501|B501|
 |Ergo|ERGO V551 Aura|V551_Aura|V551 Aura|
@@ -9900,6 +9904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fresh|R3_GTV|R3_GTV|R3G|
 |Fresh|R4|R4|R4|
 |Frunsi|RubensTab_T11|RubensTab_T11|RubensTab_T11|
+|Frunsi|RubensTab_T12|RubensTab_T12|RubensTab T12|
 |Frunsi|RubensTab_T8|RubensTab_T8|T8|
 |Frunsi|T11Pro|T11Pro|T11Pro|
 |Fujitsu|801FJ|SBM801FJ|801FJ|
@@ -12442,6 +12447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HannSpree|Hannspad|Hannspad|Hannspad|
 |HannSpree|HannspadPro|HannspadPro|HannspadPro|
 |HannSpree|Product Name HSG1416A|HSG1416A|HSG1416A|
+|HannSpree|SN08HD1B|SN08HD1B|SN08HD1B|
 |HannSpree|SN08HD1B_EEA|SN08HD1B|SN08HD1B|
 |HannSpree|SN10HD1B|SN10HD1B|SN10HD1B|
 |HannSpree|SN10HR4B|Ambi_Paper_Tablet|HSD0008|
@@ -17079,6 +17085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A04|itel-A632W|itel A632W|
 |Itel|itel A04|itel-A632WM|itel A632WM|
 |Itel|itel A04s|itel-A632L|itel A632L|
+|Itel|itel A100C|itel-A6611L|itel A6611L|
 |Itel|itel A11|itel_A11|itel A11|
 |Itel|itel A14|itel-A14|itel A14|
 |Itel|itel A14|itel-A14|itel A14TZ|
@@ -22161,6 +22168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAGCH|T7|T7_Pro|T7|
 |MAGICworld|Smart TV|longshan|AI PONT|
 |MAGNUMTECH|MG715|MG715|MG715|
+|MAIBENBEN|PAD5WIFI|PAD5WiFi11M87|Pad 5|
 |MARUSYS|MAU9000D|mau9000d|MAU9000D|
 |MARVUE|M11|M11|M11|
 |MARVUE|M12|M12|M12|
@@ -31157,6 +31165,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rizzen|X1|X1|X1|
 |Rizzen|X1x|X1x|X1x|
 |RoadQuest|RoadQuest|RQ-G|RQ-G|
+|RockTek|GT1|RMQ|UHD Streaming STB|
+|RockTek|GX1|RMQ|UHD Google TV STB|
 |RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
@@ -31231,6 +31241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6537G|S6537G|S6537G|
 |Ruio|S6539Q|S6539Q|Hot2|
 |Ruio|S6539Q|S6539Q|S6539Q|
+|Ruio|S6539Q|S6539Q|T1|
 |Ruio|S6539Q|S6539Q|VISION|
 |Ruio|S6705|S6705|S6705|
 |Ruio|smart|Blitz|Blitz|
@@ -31891,6 +31902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-24NA-FHD|beomil|SWTV-24NA-FHD|
 |SWTV|SWTV-24SA-4K|eleonas|SWTV-24SA-4K|
 |SWTV|SWTV-24SA-4K NF|eleonas|SWTV-24SA-4K NF|
+|SWTV|SWTV-24SA-FHD|beomil|SWTV-24SA-FHD|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -42757,6 +42769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|IFP53_Series|IFP53|IFP53|
 |ViewSonic|IFP63 Series|IFP63|IFP63|
 |ViewSonic|IFP8652-2|IFP8652-2|IFP8652-2|
+|ViewSonic|IN02 series|IN02_series|IN02_series|
 |ViewSonic|IN03_Series|IN03|IN03|
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
@@ -42800,6 +42813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vision|VISION GSMART 4KTV|SW6H|VISION GSMART 4KTV|
 |Vision|VISION GSMART 4KTV FF|SW6H|VISION GSMART 4KTV FF|
 |Vision|VISION GSMART 4KTV FF|anaheim|VISION GSMART 4KTV FF|
+|Vision|VISION LED TV|beomil|VISION LED TV|
 |Vision|VISION SMART TV|SW4H|VISION SMART TV|
 |Vision|Vision G 4K dongle|YQX|Vision G 4K dongle|
 |Vision|Vision V1|VISION_V1|V1|
@@ -48369,6 +48383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|raemond|Z90_EEA|Z90|Z90|
 |rainx|the101loop|the101loop|the101loop|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
