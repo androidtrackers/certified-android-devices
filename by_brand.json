@@ -40566,6 +40566,11 @@
    "device": "VT4055MG",
    "name": "Vox V40 3G VT4055MG",
    "model": "Vox V40 3G VT4055MG"
+  },
+  {
+   "device": "DA6B0P01",
+   "name": "Z10",
+   "model": "Z10 DA6B0P01"
   }
  ],
  "Dinax": [
@@ -89132,8 +89137,18 @@
   },
   {
    "device": "lonavla",
+   "name": "K92A",
+   "model": "K92A"
+  },
+  {
+   "device": "lonavla",
    "name": "K93A",
    "model": "K93A"
+  },
+  {
+   "device": "lonavla",
+   "name": "S91A",
+   "model": "S91A"
   },
   {
    "device": "holan",
@@ -91246,6 +91261,11 @@
    "device": "E28",
    "name": "E28",
    "model": "E28"
+  },
+  {
+   "device": "EBUABFV_PAD",
+   "name": "EBUABFV_PAD",
+   "model": "PAD"
   },
   {
    "device": "EDMDCEV_PRO",
@@ -218880,6 +218900,11 @@
  ],
  "Vertu": [
   {
+   "device": "P720F11UG",
+   "name": "5G UG Phone U26",
+   "model": "5G UG Phone U26"
+  },
+  {
    "device": "ASTER_P",
    "name": "ASTER  P",
    "model": "ASTER P"
@@ -234603,11 +234628,6 @@
    "model": "5G UG Phone U25"
   },
   {
-   "device": "P720F11UG",
-   "name": "5G UG Phone U26",
-   "model": "5G UG Phone U26"
-  },
-  {
    "device": "P720T01",
    "name": "5G UG Tablet T26",
    "model": "5G UG Tablet T26"
@@ -246992,7 +247012,7 @@
   },
   {
    "device": "Lark1",
-   "name": "Lark1",
+   "name": "Lark 1",
    "model": "I24P01"
   },
   {

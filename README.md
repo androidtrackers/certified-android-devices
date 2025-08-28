@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-27
+Last sync is 2025-08-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7826,6 +7826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|VOX_S508_3G|VS5031PG|VOX S508 3G VS5031PG|
 |Digma|VOX_S509_3G|VS5032PG|VOX S509 3G VS5032PG|
 |Digma|Vox V40 3G VT4055MG|VT4055MG|Vox V40 3G VT4055MG|
+|Digma|Z10|DA6B0P01|Z10 DA6B0P01|
 |Dinax|DX_TA7001|DX_TA7001|DX_TA7001|
 |Dinax|DX_TABDELTA1|DX_TABDELTA1|DX_TABDELTA1|
 |Dinax|DX_TASL83|DX_TASL83|DX_TASL83|
@@ -17275,7 +17276,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|C62A|holan|C62A|
 |JMGO|K62A|holan|K62A|
 |JMGO|K80A|holan|K80A|
+|JMGO|K92A|lonavla|K92A|
 |JMGO|K93A|lonavla|K93A|
+|JMGO|S91A|lonavla|S91A|
 |JMGO|V62A|holan|V62A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
@@ -17676,6 +17679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E17_RU|E17|E17|
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
+|KENSHI|EBUABFV_PAD|EBUABFV_PAD|PAD|
 |KENSHI|EDMDCEV_PRO|EDMDCEV_PRO|Pad Pro|
 |KENSHI|H10|H10|H10|
 |KENSHI|H11|H11|H11|
@@ -42574,6 +42578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Vertex Tab 3G 7-2|Vertex_Tab|Tab 3G 7-2|
 |Vertex|Wolverine12|wolverine12|wolverine12|
 |Vertex|Wolverine7|wolverine7|wolverine7|
+|Vertu|5G UG Phone U26|P720F11UG|5G UG Phone U26|
 |Vertu|ASTER  P|ASTER_P|ASTER P|
 |Vertu|Aster|alexa|Aster|
 |Vertu|Aster T|alexa|Aster T|
@@ -45629,7 +45634,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|5G UG Phone U23|P720F02|5G UG Phone U23|
 |ZTE|5G UG Phone U23|P720F02|ZTE 7160N|
 |ZTE|5G UG Phone U25|P720F09_U|5G UG Phone U25|
-|ZTE|5G UG Phone U26|P720F11UG|5G UG Phone U26|
 |ZTE|5G UG Tablet T26|P720T01|5G UG Tablet T26|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
@@ -48059,7 +48063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Falcon 2|Falcon2|I24T02|
 |iMin|I24D02|Swan2|I24D02|
 |iMin|I24T03|Falcon2Max|I24T03|
-|iMin|Lark1|Lark1|I24P01|
+|iMin|Lark 1|Lark1|I24P01|
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
 |iMin|Swan1Plus|Swan1Plus|I24D05|
 |iMin|Swan1Pro|Swan1Pro|I23D02|
