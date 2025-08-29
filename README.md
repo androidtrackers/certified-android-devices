@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-28
+Last sync is 2025-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2909,6 +2909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azeyou|K10U|K10|K10|
 |Azeyou|M17QF27A|M17QF27A|M17QF27A|
 |Azeyou|M87QF6-4G|M87QF6-4G|M87QF6-4G|
+|Azeyou|T11|T11|T11|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
 |Azumi|A4|Azumi_A4_AC12OM|A4|
@@ -10227,6 +10228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOMDUSA|X23_Pro|X23_Pro|X23_Pro|
 |GOMDUSA|X23_TAB|X23_TAB|X23 TAB|
 |GOODEE|GD500Plus|himalaya|GD500Plus|
+|GOODEE|YG600-Movin|altai|YG381|
 |GOODTEL|G10_EEA|G10_EEA|G10_EEA|
 |GOODTEL|G10_T_EEA|G10_T_EEA|G10_T_EEA|
 |GOODTEL|G10_T_US|G10_T_US|G10_T_US|
@@ -22172,6 +22174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAGCH|T7|T7_Pro|T7|
 |MAGICworld|Smart TV|longshan|AI PONT|
 |MAGNUMTECH|MG715|MG715|MG715|
+|MAIBENBEN|PAD54G|PAD54G11M87|Pad 5|
 |MAIBENBEN|PAD5WIFI|PAD5WiFi11M87|Pad 5|
 |MARUSYS|MAU9000D|mau9000d|MAU9000D|
 |MARVUE|M11|M11|M11|
@@ -25694,6 +25697,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Naxa|Naxa|NID_7055|NID-7055|
 |Ncredible|NV8|NV8|NV8|
 |Ncredible|NV8-HD|NV8-HD|NV8|
+|Nebula|Capsule Air|taihang|D4112|
+|Nebula|Cosmos_4K_SE|lavasa|D2342|
 |Nebula|D0480|CJU|D0480|
 |Nebula|D2130|D2140-Cosmos|D2130|
 |Nebula|D2140|D2140-Cosmos|D2140|
@@ -25701,7 +25706,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nebula|D2160|D2140-Cosmos|D2160|
 |Nebula|D2241|DM8260|D2241|
 |Nebula|D2421|DM8261|D2421|
+|Nebula|Nebula X1|lavasa|D2351|
 |Nebula|Nebula_Capsule_3|taihang|D2425|
+|Nebula|Nebula_Capsule_3_Laser|matheran|D2426|
 |Nebula|Nebula_Mars_2_V2|taihang|D2325|
 |Nebullar|Pegasus 1|Pegasus1|Pegasus1|
 |Nebullar|Pegasus 1|Pegasus1|Pegasus1_Payment|
@@ -28060,6 +28067,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C71|serenity|25028PC03I|
 |POCO|POCO C75|lake|2410FPCC5G|
 |POCO|POCO C75 5G|warm|24116PCC1I|
+|POCO|POCO C85|dew|25078PC3EE|
+|POCO|POCO C85|dew|25078PC3EG|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -30667,9 +30676,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|MiTV|rango|MiTV-AXFR0|
 |Redmi|POCO F5|marblein|23049PCD8I|
+|Redmi|REDMI 15C|dew|25078RA3EE|
+|Redmi|REDMI 15C|dew|25078RA3EL|
+|Redmi|REDMI 15C|dew|25078RA3EY|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI K80 Ultra|dali|25060RK16C|
+|Redmi|REDMI Note 15|kunzite|25098RA98C|
+|Redmi|REDMI Note 15 Pro|lapis|25080RABDC|
+|Redmi|REDMI Note 15 Pro+|flourite|2510ERA8BC|
+|Redmi|REDMI Note 15R|spring|25057RA09C|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
@@ -30731,6 +30747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 14C|pond|2409BRN2CA|
 |Redmi|Redmi 14C|pond|2409BRN2CL|
 |Redmi|Redmi 14C 5G|flame|2411DRN47I|
+|Redmi|Redmi 15|creek|25062RN2DL|
 |Redmi|Redmi 15 5G|spring|25057RN09E|
 |Redmi|Redmi 15 5G|spring|25057RN09G|
 |Redmi|Redmi 15 5G|spring|25057RN09I|
@@ -37894,6 +37911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVLRY|channel|REVVLry|
 |T-Mobile|REVVLRY+|lake_n|REVVLRY+|
 |T-Mobile|REVVLRY+|lake_n|REVVLution|
+|T-Mobile|T-Mobile REVVL TAB 2|Diana_TMO|9185W|
 |T-Mobile|TCL 20 XE|Doha_TMO|5087Z|
 |T-Mobile|TVision|SEI400TM|TVision|
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
@@ -38140,6 +38158,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521D|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521K|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521N|
+|TCL|TCL 60 Ultra NXTPAPER 5G|MonaLisa|T951K|
+|TCL|TCL 60 Ultra NXTPAPER 5G|MonaLisa|T951P|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_NA_OM|T705M|
 |TCL|TCL 603|DahliaS|T451H|
@@ -42578,7 +42598,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Vertex Tab 3G 7-2|Vertex_Tab|Tab 3G 7-2|
 |Vertex|Wolverine12|wolverine12|wolverine12|
 |Vertex|Wolverine7|wolverine7|wolverine7|
-|Vertu|5G UG Phone U26|P720F11UG|5G UG Phone U26|
 |Vertu|ASTER  P|ASTER_P|ASTER P|
 |Vertu|Aster|alexa|Aster|
 |Vertu|Aster T|alexa|Aster T|
@@ -44702,11 +44721,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XENON|PHILIPPINES|marina|XENON ANDROID TV|
 |XENON|XENON ANDROID TV|nagata|XENON ANDROID TV|
 |XGIMI|AURA 2 (New)|kasol|WM18P|
+|XGIMI|Elfin Flip Plus|altai|WK03C|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|Halo+|altai|H0030|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo 2 Plus|altai|H0031|
 |XGIMI|MoGo 2 Pro (New)|altai|XK10T|
+|XGIMI|MoGo 2 Pro（NEW）with battery|altai|H0053|
 |XGIMI|MoGo 3 Pro|altai|G0035|
 |XGIMI|MoGo 4|altai|WK08K|
 |XGIMI|MoGo 4 Laser|altai|H0030|
@@ -44714,6 +44735,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
 |XGIMI|P_FHD_2020|xgimiapollo|Mogo Pro Plus|
 |XGIMI|P_FHD_2020|xgimiapollo|P_FHD_2020|
+|XGIMI|XGIMI Vibe One|altai|WM03M|
+|XGIMI|XGIMI Vibe One (Battery Powered)|altai|WM03H|
 |XGIMI|XK03H|xgimigalileo|XK03H|
 |XHSM|XHSM|XHSM|XHSM|
 |XION|XI_CEU55|XI_CEU55|XI_CEU55|
@@ -45634,6 +45657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|5G UG Phone U23|P720F02|5G UG Phone U23|
 |ZTE|5G UG Phone U23|P720F02|ZTE 7160N|
 |ZTE|5G UG Phone U25|P720F09_U|5G UG Phone U25|
+|ZTE|5G UG Phone U26|P720F11UG|5G UG Phone U26|
 |ZTE|5G UG Tablet T26|P720T01|5G UG Tablet T26|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
@@ -47022,6 +47046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A54|P963F64|ZTE Blade A54|
 |ZTE|ZTE Blade A56|P606F21|Z2473|
+|ZTE|ZTE Blade A56 Pro|P615F01|Z2474|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
 |ZTE|ZTE Blade A7 2020|P662F02|ZTE Blade A7 2020|
@@ -47156,8 +47181,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Focus 2 Ultra 5G|P720F12|Z2463N|
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
 |ZTE|nubia Focus 5G|P720F09|Z2357N|
+|ZTE|nubia Fold|Z9900S|A502ZT|
 |ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Music 2|P606F18|Z2460|
+|ZTE|nubia Music Pro|P606F18|Z2460|
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 3|P720F10|Z2461|
 |ZTE|nubia Neo 3 5G|P780F01|Z2464N|
@@ -48740,6 +48767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
 |thehaam|THEHAAM|hongkong|4K SMART TV|
 |thehaam|vileparle|vileparle|R6G|
+|tonwelt|supraGuide_DIVA_5_EEA|supraGuide_DIVA_5|supraGuide_DIVA_5|
 |trueslim|5516D|5516D|5516D|
 |truevisions|HCH03|TrueHCH03|HCH03|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|

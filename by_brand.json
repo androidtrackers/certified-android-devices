@@ -15061,6 +15061,11 @@
    "device": "M87QF6-4G",
    "name": "M87QF6-4G",
    "model": "M87QF6-4G"
+  },
+  {
+   "device": "T11",
+   "name": "T11",
+   "model": "T11"
   }
  ],
  "Azumi": [
@@ -53183,6 +53188,11 @@
    "device": "himalaya",
    "name": "GD500Plus",
    "model": "GD500Plus"
+  },
+  {
+   "device": "altai",
+   "name": "YG600-Movin",
+   "model": "YG381"
   }
  ],
  "GOODTEL": [
@@ -114170,6 +114180,11 @@
  ],
  "MAIBENBEN": [
   {
+   "device": "PAD54G11M87",
+   "name": "PAD54G",
+   "model": "Pad 5"
+  },
+  {
    "device": "PAD5WiFi11M87",
    "name": "PAD5WIFI",
    "model": "Pad 5"
@@ -132338,6 +132353,16 @@
  ],
  "Nebula": [
   {
+   "device": "taihang",
+   "name": "Capsule Air",
+   "model": "D4112"
+  },
+  {
+   "device": "lavasa",
+   "name": "Cosmos_4K_SE",
+   "model": "D2342"
+  },
+  {
    "device": "CJU",
    "name": "D0480",
    "model": "D0480"
@@ -132373,9 +132398,19 @@
    "model": "D2421"
   },
   {
+   "device": "lavasa",
+   "name": "Nebula X1",
+   "model": "D2351"
+  },
+  {
    "device": "taihang",
    "name": "Nebula_Capsule_3",
    "model": "D2425"
+  },
+  {
+   "device": "matheran",
+   "name": "Nebula_Capsule_3_Laser",
+   "model": "D2426"
   },
   {
    "device": "taihang",
@@ -144524,6 +144559,16 @@
    "device": "warm",
    "name": "POCO C75 5G",
    "model": "24116PCC1I"
+  },
+  {
+   "device": "dew",
+   "name": "POCO C85",
+   "model": "25078PC3EE"
+  },
+  {
+   "device": "dew",
+   "name": "POCO C85",
+   "model": "25078PC3EG"
   },
   {
    "device": "lmi",
@@ -157949,6 +157994,21 @@
    "model": "23049PCD8I"
   },
   {
+   "device": "dew",
+   "name": "REDMI 15C",
+   "model": "25078RA3EE"
+  },
+  {
+   "device": "dew",
+   "name": "REDMI 15C",
+   "model": "25078RA3EL"
+  },
+  {
+   "device": "dew",
+   "name": "REDMI 15C",
+   "model": "25078RA3EY"
+  },
+  {
    "device": "zorn",
    "name": "REDMI K80",
    "model": "24117RK2CC"
@@ -157962,6 +158022,26 @@
    "device": "dali",
    "name": "REDMI K80 Ultra",
    "model": "25060RK16C"
+  },
+  {
+   "device": "kunzite",
+   "name": "REDMI Note 15",
+   "model": "25098RA98C"
+  },
+  {
+   "device": "lapis",
+   "name": "REDMI Note 15 Pro",
+   "model": "25080RABDC"
+  },
+  {
+   "device": "flourite",
+   "name": "REDMI Note 15 Pro+",
+   "model": "2510ERA8BC"
+  },
+  {
+   "device": "spring",
+   "name": "REDMI Note 15R",
+   "model": "25057RA09C"
   },
   {
    "device": "taiko",
@@ -158267,6 +158347,11 @@
    "device": "flame",
    "name": "Redmi 14C 5G",
    "model": "2411DRN47I"
+  },
+  {
+   "device": "creek",
+   "name": "Redmi 15",
+   "model": "25062RN2DL"
   },
   {
    "device": "spring",
@@ -194758,6 +194843,11 @@
    "model": "REVVLution"
   },
   {
+   "device": "Diana_TMO",
+   "name": "T-Mobile REVVL TAB 2",
+   "model": "9185W"
+  },
+  {
    "device": "Doha_TMO",
    "name": "TCL 20 XE",
    "model": "5087Z"
@@ -196016,6 +196106,16 @@
    "device": "Aster_Pro",
    "name": "TCL 60 SE NXTPAPER 5G",
    "model": "T521N"
+  },
+  {
+   "device": "MonaLisa",
+   "name": "TCL 60 Ultra NXTPAPER 5G",
+   "model": "T951K"
+  },
+  {
+   "device": "MonaLisa",
+   "name": "TCL 60 Ultra NXTPAPER 5G",
+   "model": "T951P"
   },
   {
    "device": "Sunrise_CAN",
@@ -218900,11 +219000,6 @@
  ],
  "Vertu": [
   {
-   "device": "P720F11UG",
-   "name": "5G UG Phone U26",
-   "model": "5G UG Phone U26"
-  },
-  {
    "device": "ASTER_P",
    "name": "ASTER  P",
    "model": "ASTER P"
@@ -229800,6 +229895,11 @@
    "model": "WM18P"
   },
   {
+   "device": "altai",
+   "name": "Elfin Flip Plus",
+   "model": "WK03C"
+  },
+  {
    "device": "xgimiapollo",
    "name": "Halo",
    "model": "Halo"
@@ -229823,6 +229923,11 @@
    "device": "altai",
    "name": "MoGo 2 Pro (New)",
    "model": "XK10T"
+  },
+  {
+   "device": "altai",
+   "name": "MoGo 2 Pro（NEW）with battery",
+   "model": "H0053"
   },
   {
    "device": "altai",
@@ -229858,6 +229963,16 @@
    "device": "xgimiapollo",
    "name": "P_FHD_2020",
    "model": "P_FHD_2020"
+  },
+  {
+   "device": "altai",
+   "name": "XGIMI Vibe One",
+   "model": "WM03M"
+  },
+  {
+   "device": "altai",
+   "name": "XGIMI Vibe One (Battery Powered)",
+   "model": "WM03H"
   },
   {
    "device": "xgimigalileo",
@@ -234626,6 +234741,11 @@
    "device": "P720F09_U",
    "name": "5G UG Phone U25",
    "model": "5G UG Phone U25"
+  },
+  {
+   "device": "P720F11UG",
+   "name": "5G UG Phone U26",
+   "model": "5G UG Phone U26"
   },
   {
    "device": "P720T01",
@@ -241568,6 +241688,11 @@
    "model": "Z2473"
   },
   {
+   "device": "P615F01",
+   "name": "ZTE Blade A56 Pro",
+   "model": "Z2474"
+  },
+  {
    "device": "P963F02",
    "name": "ZTE Blade A7 2019",
    "model": "ZTE Blade A7 2019"
@@ -242238,6 +242363,11 @@
    "model": "Z2357N"
   },
   {
+   "device": "Z9900S",
+   "name": "nubia Fold",
+   "model": "A502ZT"
+  },
+  {
    "device": "P963F11",
    "name": "nubia Music",
    "model": "Z2353"
@@ -242245,6 +242375,11 @@
   {
    "device": "P606F18",
    "name": "nubia Music 2",
+   "model": "Z2460"
+  },
+  {
+   "device": "P606F18",
+   "name": "nubia Music Pro",
    "model": "Z2460"
   },
   {
@@ -250570,6 +250705,13 @@
    "device": "vileparle",
    "name": "vileparle",
    "model": "R6G"
+  }
+ ],
+ "tonwelt": [
+  {
+   "device": "supraGuide_DIVA_5",
+   "name": "supraGuide_DIVA_5_EEA",
+   "model": "supraGuide_DIVA_5"
   }
  ],
  "trueslim": [
