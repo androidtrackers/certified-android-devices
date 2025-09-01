@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-08-31
+Last sync is 2025-09-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8696,6 +8696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EXO S.A.|i101GMC|i101GMC|i101GMC|
 |EXO S.A.|i101T2|i101T2|TabletEXO_Wave_i101T2|
 |EXO S.A.|wave-i007w|wave-i007w|wave-i007w|
+|EZDS|G-SCAN ZII|Z7_JP|Z7_JP|
 |Eaglesoar|E-764-EEA|E-764-EEA|E-764-EEA|
 |Eaglesoar|E10A_EEA|E10A_EEA|E10A_EEA|
 |Eaglesoar|EE-35_EEA|EE-35_EEA|EE-35_EEA|
@@ -31787,6 +31788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S10_V_EEA|S10_V_EEA|S10_V_EEA|
 |SUAAT|S3_EEA|S3_EEA|S3_EEA|
 |SUAAT|S3_US|S3_US|S3_US|
+|SUAAT|S3_U_US|S3_U_US|S3_U_US|
 |SUAAT|S6-U-EEA|S6-U-EEA|S6-EEA|
 |SUAAT|S6_EEA|S6_EEA|S6_EEA|
 |SUAAT|S6_US|S6_US|S6_US|
@@ -31962,6 +31964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|Neon Ultra 2|Neon_Ultra_2|Neon Ultra 2|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 H|
+|Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 T|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
 |Safaricom|Sajipro|Sajipro|Sajipro|
@@ -40691,6 +40694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
 |Tecno|TECNO SPARK 40|TECNO-KM5|TECNO KM5|
 |Tecno|TECNO SPARK 40|TECNO-KM5n|TECNO KM5n|
+|Tecno|TECNO SPARK 40 5G|TECNO-KM8n|TECNO KM8n|
 |Tecno|TECNO SPARK 40 Pro|TECNO-KM6|TECNO KM6|
 |Tecno|TECNO SPARK 40 Pro+|TECNO-KM7|TECNO KM7|
 |Tecno|TECNO SPARK 40/SPARK 40 Plus|TECNO-KM5s|TECNO KM5s|
@@ -40740,6 +40744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6|
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6s|
 |Tecno|TECNO SPARK Go 2025|TECNO-BG6m|TECNO BG6m|
+|Tecno|TECNO SPARK Go 5G|TECNO-KM8|TECNO KM8|
 |Tecno|TECNO SPARK Slim|TECNO-KM7k|TECNO KM7k|
 |Tecno|TECNO SPARK Slim 5G|TECNO-KM9|TECNO KM9|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
@@ -48414,6 +48419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|raemond|Z90|Z90|Z90|
 |raemond|Z90_EEA|Z90|Z90|
 |rainx|the101loop|the101loop|the101loop|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
@@ -48824,6 +48830,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
 |vivo|Y04e|V2430|V2532|
+|vivo|Y21d|V2520|V2520|
+|vivo|Y21d|V2520|V2524|
+|vivo|Y21d|V2520|V2535|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
 |vivo|Y400 5G|V2506|V2506|

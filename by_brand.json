@@ -45118,6 +45118,13 @@
    "model": "wave-i007w"
   }
  ],
+ "EZDS": [
+  {
+   "device": "Z7_JP",
+   "name": "G-SCAN ZII",
+   "model": "Z7_JP"
+  }
+ ],
  "Eaglesoar": [
   {
    "device": "E-764-EEA",
@@ -163821,6 +163828,11 @@
    "model": "S3_US"
   },
   {
+   "device": "S3_U_US",
+   "name": "S3_U_US",
+   "model": "S3_U_US"
+  },
+  {
    "device": "S6-U-EEA",
    "name": "S6-U-EEA",
    "model": "S6-EEA"
@@ -164728,6 +164740,11 @@
    "device": "Neon_Smarta_2",
    "name": "Neon_Smarta_2",
    "model": "Neon Smarta 2 H"
+  },
+  {
+   "device": "Neon_Smarta_2",
+   "name": "Neon_Smarta_2",
+   "model": "Neon Smarta 2 T"
   },
   {
    "device": "SFCSTB2LITE",
@@ -208989,6 +209006,11 @@
    "model": "TECNO KM5n"
   },
   {
+   "device": "TECNO-KM8n",
+   "name": "TECNO SPARK 40 5G",
+   "model": "TECNO KM8n"
+  },
+  {
    "device": "TECNO-KM6",
    "name": "TECNO SPARK 40 Pro",
    "model": "TECNO KM6"
@@ -209232,6 +209254,11 @@
    "device": "TECNO-BG6m",
    "name": "TECNO SPARK Go 2025",
    "model": "TECNO BG6m"
+  },
+  {
+   "device": "TECNO-KM8",
+   "name": "TECNO SPARK Go 5G",
+   "model": "TECNO KM8"
   },
   {
    "device": "TECNO-KM7k",
@@ -248897,6 +248924,11 @@
  "raemond": [
   {
    "device": "Z90",
+   "name": "Z90",
+   "model": "Z90"
+  },
+  {
+   "device": "Z90",
    "name": "Z90_EEA",
    "model": "Z90"
   }
@@ -251016,6 +251048,21 @@
    "device": "V2430",
    "name": "Y04e",
    "model": "V2532"
+  },
+  {
+   "device": "V2520",
+   "name": "Y21d",
+   "model": "V2520"
+  },
+  {
+   "device": "V2520",
+   "name": "Y21d",
+   "model": "V2524"
+  },
+  {
+   "device": "V2520",
+   "name": "Y21d",
+   "model": "V2535"
   },
   {
    "device": "PD2443",
