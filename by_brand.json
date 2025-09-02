@@ -2096,6 +2096,11 @@
    "model": "IT-701A"
   },
   {
+   "device": "IT-701A4",
+   "name": "IT-701A4",
+   "model": "IT-701A"
+  },
+  {
    "device": "IT-701A4_EEA",
    "name": "IT-701A4_EEA",
    "model": "IT-701A"
@@ -4618,6 +4623,11 @@
    "device": "DV8547",
    "name": "DV8547",
    "model": "DV8547"
+  },
+  {
+   "device": "R10G",
+   "name": "R10G",
+   "model": "R10G"
   },
   {
    "device": "R3_GTV",
@@ -9159,6 +9169,11 @@
    "model": "FA1569T"
   },
   {
+   "device": "FA2769T",
+   "name": "DigitalSignageFA2769T",
+   "model": "Apolosign Calendar"
+  },
+  {
    "device": "EM101A",
    "name": "EM101A",
    "model": "EM101A"
@@ -9217,6 +9232,11 @@
    "device": "EP1095T",
    "name": "EP1095T_EEA",
    "model": "EP1095T_EEA"
+  },
+  {
+   "device": "EP1095_T",
+   "name": "EP1095_T",
+   "model": "EP1095_T"
   },
   {
    "device": "EP1095_T_EEA",
@@ -11758,6 +11778,13 @@
    "device": "D8109N",
    "name": "D8109N",
    "model": "D8109N"
+  }
+ ],
+ "Askey": [
+  {
+   "device": "RC40",
+   "name": "RC40",
+   "model": "RC40"
   }
  ],
  "Aspera": [
@@ -40318,6 +40345,11 @@
    "model": "HIT Q500 3G HT5035PG"
   },
   {
+   "device": "DA1C0P02",
+   "name": "K10_PLUS",
+   "model": "K10 PLUS DA1C0P02"
+  },
+  {
    "device": "LT4030PG",
    "name": "LINX A452 3G",
    "model": "LINX A452 3G LT4030PG"
@@ -53337,6 +53369,11 @@
    "device": "G9_U_US",
    "name": "G9_U_US",
    "model": "G9_U_US"
+  },
+  {
+   "device": "G9",
+   "name": "G9_V_EEA",
+   "model": "G9"
   }
  ],
  "GOTV": [
@@ -58607,6 +58644,11 @@
    "model": "HMD Aura"
   },
   {
+   "device": "NHK",
+   "name": "HMD Barça Fusion",
+   "model": "HMD Fusion"
+  },
+  {
    "device": "ARW",
    "name": "HMD CREST",
    "model": "Arrow"
@@ -58625,6 +58667,11 @@
    "device": "ARP",
    "name": "HMD CREST MAX",
    "model": "HMD CREST MAX"
+  },
+  {
+   "device": "NHK",
+   "name": "HMD Fuse",
+   "model": "HMD Fusion"
   },
   {
    "device": "NHK",
@@ -67607,6 +67654,11 @@
    "device": "HLTE109E",
    "name": "Hisense U70 Pro",
    "model": "Hisense Y82 Pro"
+  },
+  {
+   "device": "HLTE109E",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense Y82 Pro MAX"
   },
   {
    "device": "HLTE109E_01",
@@ -88784,6 +88836,11 @@
    "device": "itel-S32LTE",
    "name": "itel S32LTE",
    "model": "itel S32LTE"
+  },
+  {
+   "device": "itel-S688LN",
+   "name": "itel Super 26 Ultra",
+   "model": "itel S688LN"
   },
   {
    "device": "shibuya",
@@ -143909,6 +143966,11 @@
    "model": "PCB-T106"
   },
   {
+   "device": "PCB-T107",
+   "name": "PCB-T107",
+   "model": "PCB-T107"
+  },
+  {
    "device": "MID7015A-MK",
    "name": "PCB-T732",
    "model": "Kova 2 Plus PCB-T732"
@@ -150597,6 +150659,11 @@
    "device": "US2070",
    "name": "Union US2070",
    "model": "Positivo US2070"
+  },
+  {
+   "device": "TL12",
+   "name": "Vaio TL12",
+   "model": "Vaio TL12"
   },
   {
    "device": "T307F",
@@ -164740,6 +164807,11 @@
    "device": "Neon_Smarta_2",
    "name": "Neon_Smarta_2",
    "model": "Neon Smarta 2 H"
+  },
+  {
+   "device": "Neon_Smarta_2",
+   "name": "Neon_Smarta_2",
+   "model": "Neon Smarta 2 K"
   },
   {
    "device": "Neon_Smarta_2",
@@ -181826,6 +181898,11 @@
    "model": "S30-Pro"
   },
   {
+   "device": "S30-Pro",
+   "name": "S30-Pro",
+   "model": "T50PRO"
+  },
+  {
    "device": "pad6_EEA",
    "name": "pad6_EEA",
    "model": "pad6_EEA"
@@ -195115,6 +195192,11 @@
    "model": "5002W"
   },
   {
+   "device": "DahliaMax",
+   "name": "Alcatel A31 Pro",
+   "model": "T451A"
+  },
+  {
    "device": "BeyondTV",
    "name": "Beyond TV",
    "model": "BeyondTV"
@@ -196245,6 +196327,11 @@
    "model": "T513W"
   },
   {
+   "device": "Beryl_VZW",
+   "name": "TCL K33 5G",
+   "model": "T513SP"
+  },
+  {
    "device": "Faraday",
    "name": "TCL L10",
    "model": "5124J"
@@ -196398,6 +196485,11 @@
    "device": "Hercules_Wifi",
    "name": "TCL NXTPAPER 14 Pro",
    "model": "9463A1"
+  },
+  {
+   "device": "Aster_Pro",
+   "name": "TCL NXTPAPER 5G Junior",
+   "model": "T521K"
   },
   {
    "device": "T1",
@@ -208551,6 +208643,11 @@
    "model": "TECNO T1101"
   },
   {
+   "device": "TECNO-T1201",
+   "name": "TECNO MegaPad Pro",
+   "model": "TECNO T1201"
+  },
+  {
    "device": "TECNO-Mobile-KJ6",
    "name": "TECNO Mobile SPARK 20 Pro",
    "model": "TECNO Mobile KJ6"
@@ -216867,6 +216964,11 @@
    "device": "VILLAON-V653L",
    "name": "V50s",
    "model": "VILLAON V653L"
+  },
+  {
+   "device": "VILLAON-V654L",
+   "name": "V50s",
+   "model": "VILLAON V654L"
   },
   {
    "device": "V30",
@@ -249320,6 +249422,11 @@
    "device": "RE60B4L1",
    "name": "realme 15 Pro 5G",
    "model": "RMX5101"
+  },
+  {
+   "device": "RE6444L1",
+   "name": "realme 15T",
+   "model": "RMX5111"
   },
   {
    "device": "SW6H",

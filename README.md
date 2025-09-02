@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-01
+Last sync is 2025-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -386,6 +386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATMPC|A9_EEA|A9|A9|
 |ATMPC|IT-701A|IT-701A|IT-701A|
 |ATMPC|IT-701A3_EEA|IT-701A3_EEA|IT-701A|
+|ATMPC|IT-701A4|IT-701A4|IT-701A|
 |ATMPC|IT-701A4_EEA|IT-701A4_EEA|IT-701A|
 |ATMPC|IT-801A|IT-801A|IT-801A|
 |ATMPC|IT-801B|IT-801B|IT-801B|
@@ -874,6 +875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aconatic|Android TV|R2|ATV R2|
 |Aconatic|DV6068Y|DV6068Y|DV6068Y|
 |Aconatic|DV8547|DV8547|DV8547|
+|Aconatic|R10G|R10G|R10G|
 |Aconatic|R3_GTV|R3_GTV|R3G|
 |Aconatic|R4_GTV|R4_GTV|R4G|
 |Adart|ALIGATOR RX510|RX510|ALIGATOR RX510|
@@ -1751,6 +1753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|DigitalCalendar|FA158AT|FA158AT|
 |Apolosign|DigitalSignage|FA1569T|Apolosign Calendar|
 |Apolosign|DigitalSignage|FA1569T|FA1569T|
+|Apolosign|DigitalSignageFA2769T|FA2769T|Apolosign Calendar|
 |Apolosign|EM101A|EM101A|EM101A|
 |Apolosign|EM101B|EM101B|EM101B|
 |Apolosign|EM101B_EEA|EM101B_EEA|EM101B_EEA|
@@ -1763,6 +1766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|EP1095T_EEA|EP1095T|A30|
 |Apolosign|EP1095T_EEA|EP1095T|EP1095T|
 |Apolosign|EP1095T_EEA|EP1095T|EP1095T_EEA|
+|Apolosign|EP1095_T|EP1095_T|EP1095_T|
 |Apolosign|EP1095_T_EEA|EP1095_T_EEA|EP1095_T_EEA|
 |Apolosign|K103_A|K103_A|K103A|
 |Apolosign|K103_A|K103_A|K103_A|
@@ -2262,6 +2266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ashtel|RAVOZ Z7|RAVOZ_R7|RAVOZ R7|
 |Ashtel|RAVOZ_Z5|RAVOZ_Z5|RAVOZ Z5|
 |Asianet|D8109N|D8109N|D8109N|
+|Askey|RC40|RC40|RC40|
 |Aspera|A45|A45|A45|
 |Aspera|A45|A45_1|A45|
 |Aspera|A4G|A4G|A4G|
@@ -7776,6 +7781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Digma Plane 8580 4G PS8199ML|PS8199ML|Plane 8580 4G PS8199ML|
 |Digma|Digma Platina 1579M 4G NS1800ML|NS1800ML|Platina 1579M 4G NS1800ML|
 |Digma|HIT Q500 3G HT5035PG|HT5035PG|HIT Q500 3G HT5035PG|
+|Digma|K10_PLUS|DA1C0P02|K10 PLUS DA1C0P02|
 |Digma|LINX A452 3G|LT4030PG|LINX A452 3G LT4030PG|
 |Digma|Linx X1 PRO 3G LS4051MG|LS4051MG|Linx X1 PRO 3G LS4051MG|
 |Digma|Optima 10 E600 3G TS1246PG|TS1246PG|Optima 10 E600 3G TS1246PG|
@@ -10257,6 +10263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G9_US|G9_US|G9_US|
 |GOODTEL|G9_U_EEA|G9_U_EEA|G9_U_EEA|
 |GOODTEL|G9_U_US|G9_U_US|G9_U_US|
+|GOODTEL|G9_V_EEA|G9|G9|
 |GOTV|SEID04GM|SEID04GM|GO TV Box|
 |GOtv|GO700FR|GoFreeTV|GO700FR|
 |GOtv|GOtv S|GoFreeTV|GO700FR|
@@ -11259,10 +11266,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKT|eye3|UY3-PCW|eye3|
 |HMD|HMD ARC|NYX|HMD ARC|
 |HMD|HMD Aura|RCK|HMD Aura|
+|HMD|HMD Barça Fusion|NHK|HMD Fusion|
 |HMD|HMD CREST|ARW|Arrow|
 |HMD|HMD CREST|ARW|HMD CREST|
 |HMD|HMD CREST MAX|ARP|ArrowPro|
 |HMD|HMD CREST MAX|ARP|HMD CREST MAX|
+|HMD|HMD Fuse|NHK|HMD Fusion|
 |HMD|HMD Fusion|NHK|HMD Fusion|
 |HMD|HMD Fusion Business Edition|NHK|HMD Fusion Business Edition|
 |HMD|HMD Fusion X1|NHK|HMD Fusion|
@@ -13033,6 +13042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense Y81 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E|Hisense Y82 Pro|
+|Hisense|Hisense U70 Pro|HLTE109E|Hisense Y82 Pro MAX|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U53|
 |Hisense|Hisense U70 Pro|HLTE109E_01|Hisense U70 Pro|
 |Hisense|Hisense U70 Pro|HLTE109E_02|Hisense U70 Pro|
@@ -17212,6 +17222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S25|itel-S685LN|itel S685LN|
 |Itel|itel S25 Ultra|itel-S686LN|itel S686LN|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
+|Itel|itel Super 26 Ultra|itel-S688LN|itel S688LN|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
 |Itel|itel V51 LTE|itel-L5007S|itel L5007S|
@@ -27945,6 +27956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCBOX|PCB-T104|mid1032_mk|PCB-T104|
 |PCBOX|PCB-T105|PCB-T105|PCB-T105|
 |PCBOX|PCB-T106|PCB-T106|PCB-T106|
+|PCBOX|PCB-T107|PCB-T107|PCB-T107|
 |PCBOX|PCB-T732|MID7015A-MK|Kova 2 Plus PCB-T732|
 |PCBOX|PCB_S1063|PCB_S1063|PCB_S1063|
 |PCBOX|PCB_T801|PCB_T801|PCB_T801|
@@ -29245,6 +29257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
 |Positivo|Union US2070|US2070|Positivo US2070|
+|Positivo|Vaio TL12|TL12|Vaio TL12|
 |Positivo|Vision Tab 7|T307F|T307F|
 |Positivo|X400|X400|X400|
 |Positivo|YPY 10 3G|YPY_10FTA|YPY_10FTA|
@@ -31964,6 +31977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|Neon Ultra 2|Neon_Ultra_2|Neon Ultra 2|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 H|
+|Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 K|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 T|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
@@ -35366,6 +35380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Semeakoko|SS10A|SS10A|SS10A|
 |Semeakoko|SS10A_EEA|SS10A_EEA|SS10A_EEA|
 |SenlinTech|S30-Pro|S30-Pro|S30-Pro|
+|SenlinTech|S30-Pro|S30-Pro|T50PRO|
 |SenlinTech|pad6_EEA|pad6_EEA|pad6_EEA|
 |Senseit|A109|SENSEIT_A109|SENSEIT_A109|
 |Senseit|C205|C205|C205|
@@ -37959,6 +37974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|AQUOS V6 plus|Cruze_Pro|SH-C04|
 |TCL|Alcatel 1|Macau|5033E|
 |TCL|Alcatel 1B|Seoul|5002W|
+|TCL|Alcatel A31 Pro|DahliaMax|T451A|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
@@ -38185,6 +38201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K23|ScarabLite_TMO|T434W|
 |TCL|TCL K24|Scarab_Lite_TF|T434D|
 |TCL|TCL K32 5G|Beryl_TMO|T513W|
+|TCL|TCL K33 5G|Beryl_VZW|T513SP|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187U|
@@ -38216,6 +38233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 11 Plus|Bellona_WF_GL|9469X|
 |TCL|TCL NXTPAPER 14|Hera_Vis_WIFI|9491G|
 |TCL|TCL NXTPAPER 14 Pro|Hercules_Wifi|9463A1|
+|TCL|TCL NXTPAPER 5G Junior|Aster_Pro|T521K|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -40603,6 +40621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO K7|TECNO-K7|TECNO K7|
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
 |Tecno|TECNO MegaPad 11|TECNO-T1101|TECNO T1101|
+|Tecno|TECNO MegaPad Pro|TECNO-T1201|TECNO T1201|
 |Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
 |Tecno|TECNO Mobile SPARK 8|TECNO-Mobile-KG6k|TECNO Mobile KG6k|
 |Tecno|TECNO Mobile SPARK 8C|TECNO-Mobile-KG5k|TECNO Mobile KG5k|
@@ -42191,6 +42210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|V40|VILLAON-V40|VILLAON V651W|
 |VILLAON|V40s|VILLAON-V40s|VILLAON V651L|
 |VILLAON|V50s|VILLAON-V653L|VILLAON V653L|
+|VILLAON|V50s|VILLAON-V654L|VILLAON V654L|
 |VILLAON|VILLAON V30|V30|VILLAON V30|
 |VILLAON|VILLAON V30|VILLAON-V30|VILLAON V30|
 |VILLAON|VILLAON V45s|VILLAON-V652L|VILLAON V652L|
@@ -48498,6 +48518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 15 5G|RE60CCL1|RMX5106|
 |realme|realme 15 5G|RE60CDL1|RMX5106|
 |realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
+|realme|realme 15T|RE6444L1|RMX5111|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
