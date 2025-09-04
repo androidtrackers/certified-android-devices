@@ -39098,6 +39098,16 @@
    "model": "T Phone 2 Pro"
   },
   {
+   "device": "Lynx",
+   "name": "T Phone 3",
+   "model": "T Phone 3"
+  },
+  {
+   "device": "Caracal",
+   "name": "T Phone 3 Pro",
+   "model": "T Phone 3 Pro"
+  },
+  {
    "device": "Lion",
    "name": "T Phone Pro",
    "model": "T Phone Pro"
@@ -104970,6 +104980,11 @@
    "device": "khardi",
    "name": "LUMIO",
    "model": "LUMIO VISION"
+  },
+  {
+   "device": "himalaya",
+   "name": "Lumio Arc 7",
+   "model": "Lumio Arc 7"
   }
  ],
  "LUMOS": [
@@ -114944,6 +114959,11 @@
    "device": "DIW377-MEO",
    "name": "MEOBox 4K v2",
    "model": "MEO TV Box 4K (DIW377)"
+  },
+  {
+   "device": "HP4C02-MEO",
+   "name": "MEOBox Android TV 4K",
+   "model": "MEOBox 4K (HP4C02)"
   }
  ],
  "METHOD_XI": [
@@ -195428,6 +195448,16 @@
    "model": "REVVLution"
   },
   {
+   "device": "Bremerton",
+   "name": "Revvl 8",
+   "model": "TMRV085G"
+  },
+  {
+   "device": "Prescott",
+   "name": "Revvl 8 Pro",
+   "model": "TMRV08P5G"
+  },
+  {
    "device": "Diana_TMO",
    "name": "T-Mobile REVVL TAB 2",
    "model": "9185W"
@@ -216201,6 +216231,11 @@
   }
  ],
  "Unifi-TV": [
+  {
+   "device": "HP4BF-TM",
+   "name": "Unifi-TV",
+   "model": "unifi-TV"
+  },
   {
    "device": "HP40A3",
    "name": "unifi-TV",
@@ -247919,11 +247954,6 @@
    "device": "Crane1",
    "name": "iMinCrane1",
    "model": "Crane1-16"
-  },
-  {
-   "device": "Swift1Pro",
-   "name": "iMinSwift1Pro",
-   "model": "I23M03"
   },
   {
    "device": "Swift2Pro",

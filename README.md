@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-03
+Last sync is 2025-09-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7540,6 +7540,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Deutsche Telekom|T Phone|Jaguar|T Phone|
 |Deutsche Telekom|T Phone 2|PUMA|T Phone 2|
 |Deutsche Telekom|T Phone 2 Pro|CHEETAH|T Phone 2 Pro|
+|Deutsche Telekom|T Phone 3|Lynx|T Phone 3|
+|Deutsche Telekom|T Phone 3 Pro|Caracal|T Phone 3 Pro|
 |Deutsche Telekom|T Phone Pro|Lion|T Phone Pro|
 |Deutsche Telekom|T Phone Pro (2023)|Tiger|T Phone Pro (2023)|
 |Deutsche Telekom|T Phone （2023）|Leopard|T Phone (2023)|
@@ -20364,6 +20366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
 |LUMIO|LUMIO|khardi|LUMIO VISION|
+|LUMIO|Lumio Arc 7|himalaya|Lumio Arc 7|
 |LUMOS|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
@@ -22318,6 +22321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K VSB|VSB3918-MEO|MEOBox 4K (VSB3918)|
 |MEO(Portugal)|MEOBox 4K v2|DIW377-MEO|MEO TV Box 4K (DIW377)|
+|MEO(Portugal)|MEOBox Android TV 4K|HP4C02-MEO|MEOBox 4K (HP4C02)|
 |METHOD_XI|KW_IWB|KW_RK3588|METHOD_XI_8600|
 |METZ|86SG1|86SG1|86SG1|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
@@ -38024,6 +38028,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVLRY|channel|REVVLry|
 |T-Mobile|REVVLRY+|lake_n|REVVLRY+|
 |T-Mobile|REVVLRY+|lake_n|REVVLution|
+|T-Mobile|Revvl 8|Bremerton|TMRV085G|
+|T-Mobile|Revvl 8 Pro|Prescott|TMRV08P5G|
 |T-Mobile|T-Mobile REVVL TAB 2|Diana_TMO|9185W|
 |T-Mobile|TCL 20 XE|Doha_TMO|5087Z|
 |T-Mobile|TVision|SEI400TM|TVision|
@@ -42072,6 +42078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Uneone|SD57|SD57|SD57|
 |Uneone|SD70|SD70|SD70|
 |Uneone|SD80|SD80|SD80|
+|Unifi-TV|Unifi-TV|HP4BF-TM|unifi-TV|
 |Unifi-TV|unifi-TV|HP40A3|unifi-TV|
 |Unifi-TV|unifi-TV|HP43A|unifi-TV|
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
@@ -48241,7 +48248,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Swift 2 Pro|Swift2Pro|I23M02|
 |iMin|Swift2Ultra|Swift2Ultra|I24M01|
 |iMin|iMinCrane1|Crane1|Crane1-16|
-|iMin|iMinSwift1Pro|Swift1Pro|I23M03|
 |iMin|iMinSwift2Pro|Swift2Pro|I23M02|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
