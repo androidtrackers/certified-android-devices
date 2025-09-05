@@ -1345,6 +1345,11 @@
    "device": "PD602",
    "name": "PD602",
    "model": "PD602"
+  },
+  {
+   "device": "RT101",
+   "name": "RT101",
+   "model": "RT101"
   }
  ],
  "ANAM": [
@@ -39103,11 +39108,6 @@
    "model": "T Phone 3"
   },
   {
-   "device": "Caracal",
-   "name": "T Phone 3 Pro",
-   "model": "T Phone 3 Pro"
-  },
-  {
    "device": "Lion",
    "name": "T Phone Pro",
    "model": "T Phone Pro"
@@ -51701,6 +51701,11 @@
    "model": "RubensTab T12"
   },
   {
+   "device": "RubensTab_T14",
+   "name": "RubensTab_T14",
+   "model": "RubensTab T14"
+  },
+  {
    "device": "RubensTab_T8",
    "name": "RubensTab_T8",
    "model": "T8"
@@ -56376,6 +56381,11 @@
  ],
  "Gladwin": [
   {
+   "device": "mensa_an64",
+   "name": "All_IN_ONE_ADPM",
+   "model": "GLAD140Series"
+  },
+  {
    "device": "GLADWIN101",
    "name": "GLADWIN101",
    "model": "GLADWIN101"
@@ -58227,6 +58237,11 @@
    "device": "T2000",
    "name": "T2000",
    "model": "T2000"
+  },
+  {
+   "device": "V5",
+   "name": "V5",
+   "model": "V5"
   }
  ],
  "HAOWEI": [
@@ -70220,6 +70235,11 @@
    "device": "CN85-L1-C",
    "name": "CN85",
    "model": "CN85"
+  },
+  {
+   "device": "CS32",
+   "name": "CS32",
+   "model": "CS32"
   },
   {
    "device": "CT30P",
@@ -118425,6 +118445,11 @@
    "device": "KT1",
    "name": "KT1",
    "model": "KT1"
+  },
+  {
+   "device": "ROM",
+   "name": "KT2",
+   "model": "KT2"
   }
  ],
  "Mediabox": [
@@ -119792,6 +119817,11 @@
    "device": "IDC_Series",
    "name": "IDC_Series",
    "model": "IDC_Series"
+  },
+  {
+   "device": "X10",
+   "name": "M1-101RT-A1",
+   "model": "M1-101RT-A1"
   },
   {
    "device": "MACH_10",
@@ -139198,6 +139228,16 @@
    "device": "OP5EF7L1",
    "name": "A5x 5G",
    "model": "CPH2733"
+  },
+  {
+   "device": "OP5DE2L1",
+   "name": "A6 GT 5G/K13s 5G/A6 Max 5G",
+   "model": "PLL110"
+  },
+  {
+   "device": "OP5DE3",
+   "name": "A6 Pro 5G",
+   "model": "PLN110"
   },
   {
    "device": "OP5AE7L1",
@@ -164774,6 +164814,11 @@
    "model": "P108"
   },
   {
+   "device": "P10_T",
+   "name": "P10_T_EEA",
+   "model": "P10_T"
+  },
+  {
    "device": "P10",
    "name": "P10_pro",
    "model": "P10"
@@ -166453,6 +166498,16 @@
    "device": "a16xm",
    "name": "Galaxy A16 5G",
    "model": "SM-A166P"
+  },
+  {
+   "device": "a17",
+   "name": "Galaxy A17",
+   "model": "SM-A175F"
+  },
+  {
+   "device": "a17",
+   "name": "Galaxy A17",
+   "model": "SM-A175N"
   },
   {
    "device": "a17x",
@@ -177823,6 +177878,21 @@
    "device": "wisdomwifi",
    "name": "Galaxy Tab A with S Pen",
    "model": "SM-P200"
+  },
+  {
+   "device": "gta11",
+   "name": "Galaxy Tab A11",
+   "model": "SM-X135F"
+  },
+  {
+   "device": "gta11",
+   "name": "Galaxy Tab A11",
+   "model": "SM-X135G"
+  },
+  {
+   "device": "gta11",
+   "name": "Galaxy Tab A11",
+   "model": "SM-X135N"
   },
   {
    "device": "gtexswifi",
@@ -195453,11 +195523,6 @@
    "model": "TMRV085G"
   },
   {
-   "device": "Prescott",
-   "name": "Revvl 8 Pro",
-   "model": "TMRV08P5G"
-  },
-  {
    "device": "Diana_TMO",
    "name": "T-Mobile REVVL TAB 2",
    "model": "9185W"
@@ -209632,6 +209697,11 @@
    "device": "TECNO-KM5n",
    "name": "TECNO SPARK 40",
    "model": "TECNO KM5n"
+  },
+  {
+   "device": "TECNO-KM5s",
+   "name": "TECNO SPARK 40",
+   "model": "TECNO KM5s"
   },
   {
    "device": "TECNO-KM8n",

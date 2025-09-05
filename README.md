@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-04
+Last sync is 2025-09-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -253,6 +253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD7081|MD7081A|MD7081|
 |AMobile|PD470|PD470|PD470|
 |AMobile|PD602|PD602|PD602|
+|AMobile|RT101|RT101|RT101|
 |ANAM|ANAM|seocho|ANAM 4K Android TV|
 |ANDDORO|B7V1-STK|B7V1-STK|B7V1-STK|
 |ANDRINO|Andrino|bangbae|andrino 4K Android TV|
@@ -7541,7 +7542,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Deutsche Telekom|T Phone 2|PUMA|T Phone 2|
 |Deutsche Telekom|T Phone 2 Pro|CHEETAH|T Phone 2 Pro|
 |Deutsche Telekom|T Phone 3|Lynx|T Phone 3|
-|Deutsche Telekom|T Phone 3 Pro|Caracal|T Phone 3 Pro|
 |Deutsche Telekom|T Phone Pro|Lion|T Phone Pro|
 |Deutsche Telekom|T Phone Pro (2023)|Tiger|T Phone Pro (2023)|
 |Deutsche Telekom|T Phone （2023）|Leopard|T Phone (2023)|
@@ -9941,6 +9941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fresh|R4|R4|R4|
 |Frunsi|RubensTab_T11|RubensTab_T11|RubensTab_T11|
 |Frunsi|RubensTab_T12|RubensTab_T12|RubensTab T12|
+|Frunsi|RubensTab_T14|RubensTab_T14|RubensTab T14|
 |Frunsi|RubensTab_T8|RubensTab_T8|T8|
 |Frunsi|T11Pro|T11Pro|T11Pro|
 |Fujitsu|801FJ|SBM801FJ|801FJ|
@@ -10840,6 +10841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|X1|GIONEE_SWW1631|GIONEE X1|
 |Gionee|X1S|GIONEE_SWW1627|X1S|
 |Gionee|gionee_A10|gionee_A10|gionee A10|
+|Gladwin|All_IN_ONE_ADPM|mensa_an64|GLAD140Series|
 |Gladwin|GLADWIN101|GLADWIN101|GLADWIN101|
 |GlobalSec|BW819E_CR|BW819E_CR_EEA|BW819E_CR|
 |GlobalSec|BW819E_SK|BW819E_SK_EEA|BW819E_SK|
@@ -11189,6 +11191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAOVM|P9_EEA|P9_EEA|P9_EEA|
 |HAOVM|PS30|PS30|S30|
 |HAOVM|T2000|T2000|T2000|
+|HAOVM|V5|V5|V5|
 |HAOWEI|HBDC-1122|HBDC-1122|HBDC-1122|
 |HAOWEI|HBDC-822|HBDC-822|HBDC-822|
 |HAZARD_TALK|M2|M2|M2|
@@ -13548,6 +13551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN80|CN80G-L1-N|CN80|
 |Honeywell|CN85|CN85-L0-C|CN85|
 |Honeywell|CN85|CN85-L1-C|CN85|
+|Honeywell|CS32|CS32|CS32|
 |Honeywell|CT30XP|CT30P|CT30P|
 |Honeywell|CT32|CT32|CT32|
 |Honeywell|CT37|CT37|CT37|
@@ -22977,6 +22981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
 |Mecool|KT1|KT1|KT1|
+|Mecool|KT2|ROM|KT2|
 |Mediabox|MBX4K Maverick|JFK|MBX4K Maverick|
 |Mediabox|MBX4K Ranger|DV8235|MBX4K Ranger|
 |Mediacom|10edge|10edge|10edge|
@@ -23242,6 +23247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MiTAC|hera_pro_eea|hera_pro|N672|
 |MiTAC|phaeton|phaeton|N722|
 |MicroTouch|IDC_Series|IDC_Series|IDC_Series|
+|MicroTouch|M1-101RT-A1|X10|M1-101RT-A1|
 |MicroTouch|M1_IC0_N702|MACH_10|MACH_10|
 |MicroTouch|M1_IC0_N702_MP|MACH_MP|MACH_MP|
 |MicroTouch|M1_IC1_N700_4G|IDC_Series_4G|IDC_Series_4G|
@@ -27012,6 +27018,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5m|OP5EEDL1|CPH2759|
 |Oppo|A5x|OP5EEDL1|CPH2725|
 |Oppo|A5x 5G|OP5EF7L1|CPH2733|
+|Oppo|A6 GT 5G/K13s 5G/A6 Max 5G|OP5DE2L1|PLL110|
+|Oppo|A6 Pro 5G|OP5DE3|PLN110|
 |Oppo|A60|OP5AE7L1|CPH2631|
 |Oppo|A60|OP5B16L1|CPH3669|
 |Oppo|A60 5G|OP5EA7L1|CPH2683|
@@ -31970,6 +31978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|MOMO8|MOMO8|MOMO8|
 |SVITOO|P08|P08|P08|
 |SVITOO|P108_EEA|P108|P108|
+|SVITOO|P10_T_EEA|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
@@ -32301,6 +32310,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A16 5G|a16x|SM-A166W|
 |Samsung|Galaxy A16 5G|a16x|SM-S166V|
 |Samsung|Galaxy A16 5G|a16xm|SM-A166P|
+|Samsung|Galaxy A17|a17|SM-A175F|
+|Samsung|Galaxy A17|a17|SM-A175N|
 |Samsung|Galaxy A17 5G|a17x|SM-A1760|
 |Samsung|Galaxy A17 5G|a17x|SM-A176B|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
@@ -34575,6 +34586,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
 |Samsung|Galaxy Tab A with S Pen|wisdom|SM-P205|
 |Samsung|Galaxy Tab A with S Pen|wisdomwifi|SM-P200|
+|Samsung|Galaxy Tab A11|gta11|SM-X135F|
+|Samsung|Galaxy Tab A11|gta11|SM-X135G|
+|Samsung|Galaxy Tab A11|gta11|SM-X135N|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505C|
@@ -38029,7 +38043,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVLRY+|lake_n|REVVLRY+|
 |T-Mobile|REVVLRY+|lake_n|REVVLution|
 |T-Mobile|Revvl 8|Bremerton|TMRV085G|
-|T-Mobile|Revvl 8 Pro|Prescott|TMRV08P5G|
 |T-Mobile|T-Mobile REVVL TAB 2|Diana_TMO|9185W|
 |T-Mobile|TCL 20 XE|Doha_TMO|5087Z|
 |T-Mobile|TVision|SEI400TM|TVision|
@@ -40816,6 +40829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
 |Tecno|TECNO SPARK 40|TECNO-KM5|TECNO KM5|
 |Tecno|TECNO SPARK 40|TECNO-KM5n|TECNO KM5n|
+|Tecno|TECNO SPARK 40|TECNO-KM5s|TECNO KM5s|
 |Tecno|TECNO SPARK 40 5G|TECNO-KM8n|TECNO KM8n|
 |Tecno|TECNO SPARK 40 Pro|TECNO-KM6|TECNO KM6|
 |Tecno|TECNO SPARK 40 Pro+|TECNO-KM7|TECNO KM7|
