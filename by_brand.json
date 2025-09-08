@@ -1991,6 +1991,11 @@
    "model": "SN333A"
   },
   {
+   "device": "WTATTRW2",
+   "name": "AT&T Vista™",
+   "model": "WTATTRW2"
+  },
+  {
    "device": "EA211005",
    "name": "Pelican",
    "model": "EA211005"
@@ -23813,6 +23818,11 @@
    "model": "J12"
   },
   {
+   "device": "J0120",
+   "name": "J13",
+   "model": "J13"
+  },
+  {
    "device": "J0210",
    "name": "J5",
    "model": "J5"
@@ -24766,6 +24776,11 @@
    "device": "X0020",
    "name": "X5",
    "model": "X5"
+  },
+  {
+   "device": "X0060",
+   "name": "X6",
+   "model": "X6"
   }
  ],
  "Bluboo": [
@@ -56486,6 +56501,11 @@
   }
  ],
  "Gloria": [
+  {
+   "device": "A30",
+   "name": "A30",
+   "model": "A30"
+  },
   {
    "device": "A50",
    "name": "A50",
@@ -116024,6 +116044,11 @@
    "device": "S5012",
    "name": "S5012",
    "model": "S5012"
+  },
+  {
+   "device": "H6733",
+   "name": "Te mi ni",
+   "model": "Te mi ni"
   }
  ],
  "MTN Group": [
@@ -161529,6 +161554,11 @@
    "model": "S6518"
   },
   {
+   "device": "RUIO_ZIP",
+   "name": "RUIO ZIP",
+   "model": "RS2503-AU"
+  },
+  {
    "device": "i7c",
    "name": "RUIO i7c Tablet",
    "model": "i7c"
@@ -192718,6 +192748,11 @@
    "model": "TE_QS"
   },
   {
+   "device": "TE_YL_PRO",
+   "name": "TE_YL_PRO",
+   "model": "TE_YL_PRO"
+  },
+  {
    "device": "YL",
    "name": "YL",
    "model": "YL"
@@ -195531,6 +195566,21 @@
    "device": "Doha_TMO",
    "name": "TCL 20 XE",
    "model": "5087Z"
+  },
+  {
+   "device": "TorreyPines",
+   "name": "TMRV065G",
+   "model": "TMRV065G"
+  },
+  {
+   "device": "SouthernDunes",
+   "name": "TMRV06P5G",
+   "model": "TMRV06P5G"
+  },
+  {
+   "device": "REVVLTAB5G",
+   "name": "TMRV5GTB",
+   "model": "TMRV5GTB"
   },
   {
    "device": "SEI400TM",
@@ -250975,6 +251025,21 @@
    "model": "RMX5050"
   },
   {
+   "device": "RE6032L1",
+   "name": "真我15",
+   "model": "RMX5105"
+  },
+  {
+   "device": "RE6031L1",
+   "name": "真我15 Pro",
+   "model": "RMX5100"
+  },
+  {
+   "device": "RE6404L1",
+   "name": "真我15T",
+   "model": "RMX5112"
+  },
+  {
    "device": "RE5471",
    "name": "真我GT 2",
    "model": "RMX3310"
@@ -251846,6 +251911,11 @@
    "device": "V2520",
    "name": "Y21d",
    "model": "V2535"
+  },
+  {
+   "device": "V2521L",
+   "name": "Y31 5G",
+   "model": "V2521"
   },
   {
    "device": "V2437",

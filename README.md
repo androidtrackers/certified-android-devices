@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-07
+Last sync is 2025-09-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -367,6 +367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|AT&T RADIANT™ Max 5G|EA211001|EA211001|
 |AT&T|AT&T Verge™|SL219A|SL219A|
 |AT&T|AT&T Verge™ 2 5G|SN333A|SN333A|
+|AT&T|AT&T Vista™|WTATTRW2|WTATTRW2|
 |AT&T|Pelican|EA211005|EA211005|
 |AT&T|QS5509A|QS5509QL|QS5509A|
 |AT&T|U202AA|U202AA|U202AA|
@@ -4613,6 +4614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|J10L|J0150|J10L|
 |Blu|J12|J0100|J12|
 |Blu|J12|J0230|J12|
+|Blu|J13|J0120|J13|
 |Blu|J5|J0210|J5|
 |Blu|J6L|J0110|J6L|
 |Blu|J6S|J210EQ|J6S|
@@ -4804,6 +4806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Vivo_One_Plus|V0290WW|Vivo One Plus|
 |Blu|X22|X0010WW|X22|
 |Blu|X5|X0020|X5|
+|Blu|X6|X0060|X6|
 |Bluboo|D1|BLUBOO_D1|D1|
 |Bluboo|D1_Pro|D1_Pro|D1_Pro|
 |Bluboo|D2 Pro|D2_Pro|D2_Pro|
@@ -10859,6 +10862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Glocalme|P3S18|P3S18|P3S18|
 |Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
+|Gloria|A30|A30|A30|
 |Gloria|A50|A50|gloria A50|
 |Go Mobile|G860|G860|G860|
 |Go Mobile|GO Onyx|GO_Onyx_LTE|GO Onyx LTE|
@@ -22518,6 +22522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTN|G56|G56|G56|
 |MTN|Kabode Max|H6032_MTN|Kabode Max|
 |MTN|S5012|S5012|S5012|
+|MTN|Te mi ni|H6733|Te mi ni|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
 |MTN Group|8978P|MTN-8978P|MTN-8978P|
 |MTN Group|K919|K919|K919|
@@ -31363,6 +31368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|M31|AIS-M31|AIS-M31|
 |Ruio|RUIO S5506|S5506|S5506|
 |Ruio|RUIO S6518|S6518|S6518|
+|Ruio|RUIO ZIP|RUIO_ZIP|RS2503-AU|
 |Ruio|RUIO i7c Tablet|i7c|i7c|
 |Ruio|RUIO_S518|RUIO_S518|S518|
 |Ruio|Ruio_S4 Plus|S4Plus|S4Plus|
@@ -37502,6 +37508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
 |StarBoard|Starboard Solution Inc|TE_YL|TE_YL|
 |StarBoard|TE_QS|TE_QS|TE_QS|
+|StarBoard|TE_YL_PRO|TE_YL_PRO|TE_YL_PRO|
 |StarBoard|YL|YL|YL|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|
@@ -38045,6 +38052,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|Revvl 8|Bremerton|TMRV085G|
 |T-Mobile|T-Mobile REVVL TAB 2|Diana_TMO|9185W|
 |T-Mobile|TCL 20 XE|Doha_TMO|5087Z|
+|T-Mobile|TMRV065G|TorreyPines|TMRV065G|
+|T-Mobile|TMRV06P5G|SouthernDunes|TMRV06P5G|
+|T-Mobile|TMRV5GTB|REVVLTAB5G|TMRV5GTB|
 |T-Mobile|TVision|SEI400TM|TVision|
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
 |T-Mobile-CZ-Telekom-SK|TV Box HY4403|HY44G|TV Box|
@@ -48825,6 +48835,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我14|RE6024L1|RMX5075|
 |realme|真我14 Pro|RE6020L1|RMX5055|
 |realme|真我14 Pro+|RE601FL1|RMX5050|
+|realme|真我15|RE6032L1|RMX5105|
+|realme|真我15 Pro|RE6031L1|RMX5100|
+|realme|真我15T|RE6404L1|RMX5112|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
@@ -48986,6 +48999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y21d|V2520|V2520|
 |vivo|Y21d|V2520|V2524|
 |vivo|Y21d|V2520|V2535|
+|vivo|Y31 5G|V2521L|V2521|
 |vivo|Y31 Pro 5G|V2437|V2534|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
