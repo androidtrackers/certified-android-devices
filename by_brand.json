@@ -16279,6 +16279,11 @@
   {
    "device": "PP86M",
    "name": "PP86M",
+   "model": "NOTE S8 4G"
+  },
+  {
+   "device": "PP86M",
+   "name": "PP86M",
    "model": "PP86M"
   }
  ],
@@ -49374,6 +49379,11 @@
    "model": "Sail 3"
   },
   {
+   "device": "AS65U",
+   "name": "AS65U",
+   "model": "T2"
+  },
+  {
    "device": "C10",
    "name": "C10",
    "model": "C10"
@@ -58288,6 +58298,13 @@
    "device": "HL_1068_A133",
    "name": "HL_1068_A133",
    "model": "HL_1068_A133"
+  }
+ ],
+ "HCNCP": [
+  {
+   "device": "HA10Kids",
+   "name": "HA10Kids",
+   "model": "HA10Kids"
   }
  ],
  "HDC S.A.": [
@@ -92473,6 +92490,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "jagalchi",
+   "name": "BANANA",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "Banana",
    "model": "2K SMART TV"
@@ -93031,6 +93053,11 @@
    "device": "elliniko",
    "name": "RANCON",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "jagalchi",
+   "name": "RANCON",
+   "model": "RANCON GOOGLE TV"
   },
   {
    "device": "khardi",
@@ -104481,6 +104508,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "landen",
+   "name": "Havells India Ltd",
+   "model": "LLO41F"
+  },
+  {
    "device": "umeda",
    "name": "LLOYD 2K SMART TV",
    "model": "LLOYD 2K SMART TV"
@@ -114700,6 +114732,11 @@
    "device": "rk3588_t",
    "name": "U30",
    "model": "U30"
+  },
+  {
+   "device": "oversea_v",
+   "name": "U4",
+   "model": "U4"
   }
  ],
  "MAXLEGEN": [
@@ -115427,6 +115464,16 @@
    "device": "Studio_Phone_10",
    "name": "Studio_Phone_10",
    "model": "MLAB_9339"
+  },
+  {
+   "device": "Studio_Sleeve_Pro_10",
+   "name": "Studio_Sleeve_Pro_10",
+   "model": "MLAB_9617"
+  },
+  {
+   "device": "Studio_Suite_Pro_12",
+   "name": "Studio_Suite_Pro_12",
+   "model": "MLAB_9618"
   }
  ],
  "MLINK": [
@@ -124886,6 +124933,11 @@
    "model": "XT901"
   },
   {
+   "device": "landen",
+   "name": "Flipkart India Private Limited",
+   "model": "MOT41F"
+  },
+  {
    "device": "SW4H",
    "name": "FlipkartTV",
    "model": "FlipkartTV"
@@ -133956,6 +134008,11 @@
   {
    "device": "TN11A6128",
    "name": "TN11A6128",
+   "model": "MXCORE"
+  },
+  {
+   "device": "TN11A6128",
+   "name": "TN11A6128",
    "model": "TN11A6128"
   },
   {
@@ -136326,6 +136383,11 @@
   }
  ],
  "ONIDA": [
+  {
+   "device": "landen",
+   "name": "MIRC Electronics Ltd.",
+   "model": "ONI41F"
+  },
   {
    "device": "lasalle",
    "name": "ONIDA 2K Android TV",
@@ -138745,11 +138807,6 @@
    "model": "CPH2693"
   },
   {
-   "device": "OP59FB",
-   "name": "A3 Pro 5G",
-   "model": "PJY110"
-  },
-  {
    "device": "OP5B05L1",
    "name": "A3 Pro 5G",
    "model": "CPH2665"
@@ -140453,6 +140510,11 @@
    "device": "OP575DL1",
    "name": "OPPO A18",
    "model": "CPH2591"
+  },
+  {
+   "device": "OP59FB",
+   "name": "OPPO A3 Pro 5G/OPPO A5 Plus 5G",
+   "model": "PJY110"
   },
   {
    "device": "OP4EEA",
@@ -144360,6 +144422,11 @@
    "device": "A950",
    "name": "A950",
    "model": "A950"
+  },
+  {
+   "device": "UIS8581E_A14",
+   "name": "A960",
+   "model": "A960"
   },
   {
    "device": "PAXM30",
@@ -158925,6 +158992,11 @@
    "model": "23124RN87G"
   },
   {
+   "device": "moon",
+   "name": "Redmi 13x",
+   "model": "24040RN64Y"
+  },
+  {
    "device": "tides",
    "name": "Redmi 13x",
    "model": "24049RN28L"
@@ -160533,6 +160605,11 @@
   }
  ],
  "Relndoo": [
+  {
+   "device": "P30_EUR",
+   "name": "P30_EUR",
+   "model": "P30"
+  },
   {
    "device": "P30_US",
    "name": "P30_US",
@@ -182889,12 +182966,12 @@
   },
   {
    "device": "tcvenruj",
-   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1",
+   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1/FS1/FQ1",
    "model": "AQUOS-4KTVJ22"
   },
   {
    "device": "tcvenruj",
-   "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
+   "name": "4T-C**EN2/EL1/EJ1/EQ2/FN2/FL1/GQ3",
    "model": "AQUOS-4KTVJ22-2"
   },
   {
@@ -192847,6 +192924,11 @@
    "device": "Alpha_300",
    "name": "Alpha_300",
    "model": "Alpha 300"
+  },
+  {
+   "device": "Alpha_300",
+   "name": "Alpha_300",
+   "model": "NOTE TK02"
   },
   {
    "device": "Alpha_400",
@@ -246105,6 +246187,21 @@
  ],
  "eNOVA": [
   {
+   "device": "E10_View_Max",
+   "name": "E10_View_Max",
+   "model": "E10 View Max"
+  },
+  {
+   "device": "E10_View_Max",
+   "name": "E10_View_Max",
+   "model": "E10_View_Max"
+  },
+  {
+   "device": "E10_View_Max",
+   "name": "E10_View_Max",
+   "model": "T3"
+  },
+  {
    "device": "jagalchi",
    "name": "ENOVA",
    "model": "2K SMART TV"
@@ -251717,6 +251814,11 @@
   }
  ],
  "unitel": [
+  {
+   "device": "Unitel_B866V6-H",
+   "name": "BOX TV 4K UNITEL NET CASA",
+   "model": "BOX TV 4K UNITEL NET CASA"
+  },
   {
    "device": "P45",
    "name": "P45",
