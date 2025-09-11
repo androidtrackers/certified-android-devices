@@ -1836,6 +1836,11 @@
    "model": "Astech S7"
   },
   {
+   "device": "Astech_S7_pro",
+   "name": "Astech S7 pro",
+   "model": "Astech S7 pro"
+  },
+  {
    "device": "Astech_IRIS",
    "name": "Astech_IRIS",
    "model": "Astech IRIS"
@@ -32134,6 +32139,11 @@
    "model": "Infinity_i5"
   },
   {
+   "device": "NOVA_80",
+   "name": "NOVA 80",
+   "model": "NOVA 80"
+  },
+  {
    "device": "NOVA60",
    "name": "NOVA60",
    "model": "NOVA60"
@@ -32442,11 +32452,6 @@
    "device": "NOVA_80i",
    "name": "SP670",
    "model": "NOVA 80i"
-  },
-  {
-   "device": "NOVA_80",
-   "name": "SP671",
-   "model": "NOVA 80"
   },
   {
    "device": "NOVA_80Pro",
@@ -37473,6 +37478,13 @@
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
+  }
+ ],
+ "DPIN": [
+  {
+   "device": "DPIN_ONE",
+   "name": "DPIN ONE",
+   "model": "W051"
   }
  ],
  "DPSTec": [
@@ -44937,6 +44949,11 @@
   }
  ],
  "ETOE": [
+  {
+   "device": "himalaya",
+   "name": "A1324",
+   "model": "A1324"
+  },
   {
    "device": "YUL",
    "name": "D1221",
@@ -54899,6 +54916,11 @@
    "model": "GK537"
   },
   {
+   "device": "GP333",
+   "name": "GP333",
+   "model": "GP333"
+  },
+  {
    "device": "GPND133",
    "name": "GPND133",
    "model": "GPND133"
@@ -58301,6 +58323,11 @@
   }
  ],
  "HCNCP": [
+  {
+   "device": "HA10",
+   "name": "HA10",
+   "model": "HA10"
+  },
   {
    "device": "HA10Kids",
    "name": "HA10Kids",
@@ -93613,6 +93640,11 @@
    "device": "Black_G3",
    "name": "Black G3",
    "model": "Black G3"
+  },
+  {
+   "device": "Black_S",
+   "name": "Black S",
+   "model": "Black S"
   },
   {
    "device": "Black_3",
@@ -139317,6 +139349,11 @@
    "model": "PLL110"
   },
   {
+   "device": "OP6285L1",
+   "name": "A6 Pro",
+   "model": "CPH2799"
+  },
+  {
    "device": "OP5DE3",
    "name": "A6 Pro 5G",
    "model": "PLN110"
@@ -144400,16 +144437,6 @@
   },
   {
    "device": "A6650",
-   "name": "A6650_EEA",
-   "model": "A6650"
-  },
-  {
-   "device": "A6650",
-   "name": "A6650_PEEA",
-   "model": "A6650"
-  },
-  {
-   "device": "A6650",
    "name": "A6650_PLUS",
    "model": "A6650"
   },
@@ -144417,16 +144444,6 @@
    "device": "A77",
    "name": "A77",
    "model": "A77"
-  },
-  {
-   "device": "A950",
-   "name": "A950",
-   "model": "A950"
-  },
-  {
-   "device": "UIS8581E_A14",
-   "name": "A960",
-   "model": "A960"
   },
   {
    "device": "PAXM30",
@@ -158573,6 +158590,11 @@
   }
  ],
  "RebotAi": [
+  {
+   "device": "A11_EEA",
+   "name": "A11_EEA",
+   "model": "A11_EEA"
+  },
   {
    "device": "A9_EEA",
    "name": "A9_EEA",
@@ -196085,6 +196107,11 @@
    "model": "Smart TV"
   },
   {
+   "device": "G16",
+   "name": "G16_4K_US",
+   "model": "Smart TV Pro"
+  },
+  {
    "device": "Titan_Vis_Wifi",
    "name": "GL TCL",
    "model": "9494G"
@@ -207877,6 +207904,11 @@
    "device": "T50Max_ROW",
    "name": "T50Max_ROW",
    "model": "T50Max_ROW"
+  },
+  {
+   "device": "T50Mini_A_ROW",
+   "name": "T50Mini_A_ROW",
+   "model": "T50Mini_A_ROW"
   },
   {
    "device": "T50Plus_E",
@@ -245168,6 +245200,11 @@
    "model": "NOVA_10"
   },
   {
+   "device": "NOVUS_PRO",
+   "name": "NOVUS_PRO",
+   "model": "NOVUS_PRO"
+  },
+  {
    "device": "NOVUS_TAB",
    "name": "NOVUS_TAB",
    "model": "NOVUS TAB"
@@ -252013,6 +252050,11 @@
    "device": "V2520",
    "name": "Y21d",
    "model": "V2535"
+  },
+  {
+   "device": "V2520",
+   "name": "Y21d",
+   "model": "V2560"
   },
   {
    "device": "V2521L",
