@@ -31439,11 +31439,6 @@
    "device": "m393gena_c",
    "name": "EPICO 4K",
    "model": "EPICO 4K"
-  },
-  {
-   "device": "uiw4020cog",
-   "name": "TV",
-   "model": "TV"
   }
  ],
  "CoinComputers": [
@@ -43729,6 +43724,13 @@
    "model": "SQ126G"
   }
  ],
+ "ECOPAD": [
+  {
+   "device": "A30L1",
+   "name": "A30L1_EEA",
+   "model": "A30L1"
+  }
+ ],
  "ECS": [
   {
    "device": "RealPad_MA7BX2_1",
@@ -44953,6 +44955,11 @@
    "device": "himalaya",
    "name": "A1324",
    "model": "A1324"
+  },
+  {
+   "device": "himalaya",
+   "name": "A1363",
+   "model": "A1363"
   },
   {
    "device": "YUL",
@@ -58306,6 +58313,13 @@
    "device": "HBDC-822",
    "name": "HBDC-822",
    "model": "HBDC-822"
+  }
+ ],
+ "HAVIT": [
+  {
+   "device": "himalaya",
+   "name": "PJ209APlus",
+   "model": "PJ209APlus"
   }
  ],
  "HAZARD_TALK": [
@@ -72063,6 +72077,11 @@
    "device": "Pad_11_EEA",
    "name": "Pad 11",
    "model": "Pad 11"
+  },
+  {
+   "device": "Pad_13_Pro",
+   "name": "Pad_13_Pro",
+   "model": "Pad 13 Pro"
   },
   {
    "device": "Pad_8",
@@ -116357,6 +116376,11 @@
    "device": "COMEK_smart_10",
    "name": "COMEK smart 10",
    "model": "COMEK smart 10"
+  },
+  {
+   "device": "COMEK_Tab_20",
+   "name": "COMEK_Tab_20",
+   "model": "COMEK Tab 20"
   }
  ],
  "Mach Speed": [
@@ -148061,6 +148085,11 @@
    "device": "Tab-IND10AND",
    "name": "Tab-IND 10 AND",
    "model": "Tab-IND 10 AND"
+  },
+  {
+   "device": "oona2W22",
+   "name": "oona22",
+   "model": "oona2W22"
   }
  ],
  "Performance": [
@@ -158582,6 +158611,11 @@
    "device": "M30_Pro",
    "name": "M30_Pro",
    "model": "M30"
+  },
+  {
+   "device": "M70",
+   "name": "M70_ROW",
+   "model": "M70"
   },
   {
    "device": "Z70",
@@ -189524,6 +189558,16 @@
    "model": "XQ-ES72"
   },
   {
+   "device": "XQ-FE",
+   "name": "Xperia 10 VII",
+   "model": "XQ-FE54"
+  },
+  {
+   "device": "XQ-FE",
+   "name": "Xperia 10 VII",
+   "model": "XQ-FE72"
+  },
+  {
    "device": "901SO",
    "name": "Xperia 5",
    "model": "901SO"
@@ -218627,6 +218671,11 @@
    "device": "uzw4060mm",
    "name": "Agile TV",
    "model": "AgileTV"
+  },
+  {
+   "device": "uiw4020cog",
+   "name": "CogecoTV",
+   "model": "TV"
   }
  ],
  "Vantron": [

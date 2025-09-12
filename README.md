@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-11
+Last sync is 2025-09-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6061,7 +6061,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coby|MID8072|MID8072|MID8072|
 |Code|CR4900|cr4900|CR4900|
 |Cogeco|EPICO 4K|m393gena_c|EPICO 4K|
-|Cogeco|TV|uiw4020cog|TV|
 |CoinComputers|1100AS_plus|1100AS_plus|1100AS_plus|
 |CoinComputers|1200AS|1200AS|1200AS|
 |CoinComputers|1200AS_plus|1200AS_plus|1200AS_plus|
@@ -8435,6 +8434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECONNECT|BH505GS|BH505GS|BH505GS|
 |ECONNECT|RH511G|RH511G|RH511G|
 |ECONNECT|SQ126G|SQ126G|SQ126G|
+|ECOPAD|A30L1_EEA|A30L1|A30L1|
 |ECS|RealPad MA7BX2|RealPad_MA7BX2_1|RealPad MA7BX2|
 |ECS|TC69CA2|TC69CA2_1|TC69CA2|
 |ECS|TC70RA1|TC70RA1_2|TC70RA1|
@@ -8665,6 +8665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETERNITY|ZEUSs68|UWS68|ZEUSs68|
 |ETG（G）|ETG-BT1121|ETG-BT1121|ETG-BT1121|
 |ETOE|A1324|himalaya|A1324|
+|ETOE|A1363|himalaya|A1363|
 |ETOE|D1221|YUL|D1221|
 |ETOE|D2861|XNA|D2861|
 |EUDORA|E10Pro|E10Pro|E10Pro|
@@ -11204,6 +11205,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAOVM|V5|V5|V5|
 |HAOWEI|HBDC-1122|HBDC-1122|HBDC-1122|
 |HAOWEI|HBDC-822|HBDC-822|HBDC-822|
+|HAVIT|PJ209APlus|himalaya|PJ209APlus|
 |HAZARD_TALK|M2|M2|M2|
 |HBESTORE|HL_1068_A133|HL_1068_A133|HL_1068_A133|
 |HCNCP|HA10|HA10|HA10|
@@ -13913,6 +13915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Note_13_Pro_EEA|Note_13_Pro|Note 13 Pro|
 |Hotwav|Note_18|Note_18|Note 18|
 |Hotwav|Pad 11|Pad_11_EEA|Pad 11|
+|Hotwav|Pad_13_Pro|Pad_13_Pro|Pad 13 Pro|
 |Hotwav|Pad_8|Pad_8|Pad 8|
 |Hotwav|Pearl K1|Pearl_K1|Pearl K1|
 |Hotwav|Pearl K2|Pearl_K2|Pearl K2|
@@ -22579,6 +22582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MUNGYO|MUNGYO MGEB|MGEB|MGEB|
 |MYCOM|COMEK C10|COMEK_C10|COMEK C10|
 |MYCOM|COMEK smart 10|COMEK_smart_10|COMEK smart 10|
+|MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
 |MachSpeed (Apollo Brands)|Trio Stealth_10 Tablet|D_10AL|Trio Stealth_10|
@@ -28749,6 +28753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
 |Pepperl+Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
 |Pepperl+Fuchs|Tab-IND 10 AND|Tab-IND10AND|Tab-IND 10 AND|
+|Pepperl+Fuchs|oona22|oona2W22|oona2W22|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T7|T7|T7|
 |Performance|T9|T9|T9|
@@ -30792,6 +30797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|K70i_EEA|K70i_EEA|K70i_EEA|
 |Rebecco|K80_ROW|K80_ROW|K80_ROW|
 |Rebecco|M30_Pro|M30_Pro|M30|
+|Rebecco|M70_ROW|M70|M70|
 |Rebecco|Z70_EEA|Z70|Z70|
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
@@ -36872,6 +36878,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 VI|XQ-ES44|XQ-ES44|
 |Sony|Xperia 10 VI|XQ-ES54|XQ-ES54|
 |Sony|Xperia 10 VI|XQ-ES72|XQ-ES72|
+|Sony|Xperia 10 VII|XQ-FE|XQ-FE54|
+|Sony|Xperia 10 VII|XQ-FE|XQ-FE72|
 |Sony|Xperia 5|901SO|901SO|
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J8270|J8270|
@@ -42527,6 +42535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|s8|S8|S8|
 |Vantiva|Agile TV|dwt765mm|AgileTV|
 |Vantiva|Agile TV|uzw4060mm|AgileTV|
+|Vantiva|CogecoTV|uiw4020cog|TV|
 |Vantron|HMI04-RK3326S|HMI04_RK3326S|HMI04_RK3326S|
 |Vantron|IBOX66|IBOX66|IBOX66|
 |Vantron|M10 Pro|M10Pro|M10Pro|
