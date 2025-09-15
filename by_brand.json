@@ -9225,6 +9225,11 @@
    "model": "Apolosign Calendar"
   },
   {
+   "device": "FA2769T4K",
+   "name": "DigitalSignageFA2769T4K",
+   "model": "Apolosign Calendar"
+  },
+  {
    "device": "EM101A",
    "name": "EM101A",
    "model": "EM101A"
@@ -9308,6 +9313,11 @@
    "device": "K106A",
    "name": "K106A",
    "model": "K106A"
+  },
+  {
+   "device": "K106_A",
+   "name": "K106_A",
+   "model": "K106_A"
   },
   {
    "device": "K109A",
@@ -144461,6 +144471,16 @@
   },
   {
    "device": "A6650",
+   "name": "A6650_EEA",
+   "model": "A6650"
+  },
+  {
+   "device": "A6650",
+   "name": "A6650_PEEA",
+   "model": "A6650"
+  },
+  {
+   "device": "A6650",
    "name": "A6650_PLUS",
    "model": "A6650"
   },
@@ -144468,6 +144488,11 @@
    "device": "A77",
    "name": "A77",
    "model": "A77"
+  },
+  {
+   "device": "A950",
+   "name": "A950",
+   "model": "A950"
   },
   {
    "device": "PAXM30",
@@ -162339,6 +162364,11 @@
    "device": "ZERO_50",
    "name": "SEGO_Zero_50",
    "model": "ZERO 50"
+  },
+  {
+   "device": "S_PAD",
+   "name": "S_PAD",
+   "model": "DT6P30YK"
   },
   {
    "device": "S_PAD",
@@ -201950,6 +201980,31 @@
    "model": "5060J"
   },
   {
+   "device": "Vanilla",
+   "name": "Alcatel A11",
+   "model": "T452A"
+  },
+  {
+   "device": "Vanilla",
+   "name": "Alcatel A11",
+   "model": "T452B"
+  },
+  {
+   "device": "Vanilla",
+   "name": "Alcatel A11",
+   "model": "T452M"
+  },
+  {
+   "device": "Vanilla",
+   "name": "Alcatel A11 SE",
+   "model": "T452Q"
+  },
+  {
+   "device": "DahliaMax",
+   "name": "Alcatel A31 Prime",
+   "model": "T451A"
+  },
+  {
    "device": "DahliaMax",
    "name": "Alcatel A31 Pro",
    "model": "T451A"
@@ -225070,6 +225125,11 @@
    "model": "V2531"
   },
   {
+   "device": "V2430",
+   "name": "vivo Y04",
+   "model": "V2547"
+  },
+  {
    "device": "PD2312",
    "name": "vivo Y100i长续航版",
    "model": "V2312BA"
@@ -234305,6 +234365,11 @@
   }
  ],
  "ZAIKAI": [
+  {
+   "device": "mensa_an64",
+   "name": "Gseries",
+   "model": "Gseries"
+  },
   {
    "device": "mensa_an64",
    "name": "Mannat_Smart_Board",

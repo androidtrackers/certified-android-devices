@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-14
+Last sync is 2025-09-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1763,6 +1763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|DigitalSignage|FA1569T|Apolosign Calendar|
 |Apolosign|DigitalSignage|FA1569T|FA1569T|
 |Apolosign|DigitalSignageFA2769T|FA2769T|Apolosign Calendar|
+|Apolosign|DigitalSignageFA2769T4K|FA2769T4K|Apolosign Calendar|
 |Apolosign|EM101A|EM101A|EM101A|
 |Apolosign|EM101B|EM101B|EM101B|
 |Apolosign|EM101B_EEA|EM101B_EEA|EM101B_EEA|
@@ -1780,6 +1781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|K103_A|K103_A|K103A|
 |Apolosign|K103_A|K103_A|K103_A|
 |Apolosign|K106A|K106A|K106A|
+|Apolosign|K106_A|K106_A|K106_A|
 |Apolosign|K109A|K109A|K109A|
 |Apolosign|K109_Pro|K109_Pro|K109_Pro|
 |Apolosign|K709A|K709A|K709A|
@@ -28052,8 +28054,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A50|A50|A50|
 |PAX (CN)|A650|A650|A650|
 |PAX (CN)|A6650|A6650|A6650|
+|PAX (CN)|A6650_EEA|A6650|A6650|
+|PAX (CN)|A6650_PEEA|A6650|A6650|
 |PAX (CN)|A6650_PLUS|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
+|PAX (CN)|A950|A950|A950|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
 |PAX (CN)|PAYTABLETM8|PAYTABLETM8|M8|
@@ -31513,6 +31518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|S25 Neo|S25_Neo|S25 Neo|
 |SEGO|SEGO_S24|S24|S24|
 |SEGO|SEGO_Zero_50|ZERO_50|ZERO 50|
+|SEGO|S_PAD|S_PAD|DT6P30YK|
 |SEGO|S_PAD|S_PAD|S_PAD|
 |SEGO|Smart_10|Smart_10|Smart 10|
 |SEGO|s_tron|s_tron|s-tron|
@@ -39320,6 +39326,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D_EEA|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060J|
+|TCT (Alcatel)|Alcatel A11|Vanilla|T452A|
+|TCT (Alcatel)|Alcatel A11|Vanilla|T452B|
+|TCT (Alcatel)|Alcatel A11|Vanilla|T452M|
+|TCT (Alcatel)|Alcatel A11 SE|Vanilla|T452Q|
+|TCT (Alcatel)|Alcatel A31 Prime|DahliaMax|T451A|
 |TCT (Alcatel)|Alcatel A31 Pro|DahliaMax|T451A|
 |TCT (Alcatel)|Alcatel AXEL™|Dubai_Plus_ATT|Alcatel_5004R|
 |TCT (Alcatel)|Alcatel JOY TAB|EasyTAB8MPCS|9029Z|
@@ -43796,6 +43807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y04|V2430|V2430|
 |Vivo|vivo Y04|V2430|V2438|
 |Vivo|vivo Y04|V2430|V2531|
+|Vivo|vivo Y04|V2430|V2547|
 |Vivo|vivo Y100i长续航版|PD2312|V2312BA|
 |Vivo|vivo Y11|Y11|vivo Y11|
 |Vivo|vivo Y19e|V2430|V2431|
@@ -45572,6 +45584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yuho|Yuho_Tab10|Yuho_Tab10|TC1031|
 |Yuho|Yuho_Tab8|Yuho_Tab8|TC8091|
 |Yumpingo|YUMPINGO_1|YUMPINGO_1|YUMPINGO_1|
+|ZAIKAI|Gseries|mensa_an64|Gseries|
 |ZAIKAI|Mannat_Smart_Board|mensa_an64|G-8600|
 |ZAIKAI|ZAIKAI|t7_an400|G-8600|
 |ZAMOLXE|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|
