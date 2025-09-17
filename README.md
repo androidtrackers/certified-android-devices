@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-16
+Last sync is 2025-09-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -209,6 +209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|Android_Rugged|Android_Rugged|Android_Rugged|
 |AGM Mobile|Android_Tablet|Android_Tablet|Android_Tablet|
 |AGNO|TAIG717A|TAIG717A|TA_G717|
+|AGNeovo|AGNeovo|Meetboard4Prime|Meetboard4Prime|
 |AG_Neovo|MeetBoard_4|MeetBoard_4|MeetBoard_4|
 |AHA(A)|AHA_IFPD|AHA_ULTRA_RK3576|Hybrid_8700|
 |AHA(A)|IFPD|AHA_ULTRA_RK3588|Hybrid_8600|
@@ -3764,6 +3765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|B505|B505|B505|
 |BenQ|B506|B506_TW|B506_TW|
 |BenQ|B50_CHT|B50|B50_CHT|
+|BenQ|BenQTK001|coonoor|BenQTK001|
 |BenQ|BenQ_Digital_Signage_04|BenQ_Digital_Signage_04|BenQ_Digital_Signage_04|
 |BenQ|E40-520|ikebukuro|AI PONT|
 |BenQ|E55-720|samseong|AI PONT|
@@ -6034,6 +6036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CloudFone|ThrillBoost2Plus|ThrillBoost2Plus|Thrill Boost 2 Plus|
 |CloudMinds|A1-901|A1-901|A1-901|
 |CloudMinds|OTTTAB2|OTTTAB2|OTTTAB2|
+|Cloud_Mobile|MC8B654B100136|MC8B654B|MC8B654B|
 |Cloud_Mobile|Stratus_C8|Stratus_C8|Stratus C8|
 |Cloud_Mobile|Sunshine_T2_Elite|Sunshine_T2_Elite|Sunshine_T2_Elite|
 |Clout|Hind 5.1|Hind_5_1|Hind 5.1|
@@ -8529,6 +8532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL(elongmobile)|Pad_S8|Pad_S8|Pad_S8|
 |ELC(cn)|M108|M108|M108|
 |ELDMandate|10BIZ332|10BIZ332|10BIZ332|
+|ELEPHAS|K350|himalaya|K350|
 |ELEVIA|Elevia E1|EL-E110|EL-E110|
 |ELEXIA|ELEXIA|bangbae|ELEXIA 4K Android TV|
 |ELEXIA|ELEXIA|bruno|ELEXIA2KAndroidTV|
@@ -9010,7 +9014,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|V917G|GK-MID9022|V917G|
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|EF-12/EH-LS300|sti6200d101|Projector|
+|Epson|EF-61|ooty|HB72|
+|Epson|EF-62|ooty|HB79|
+|Epson|EF-71|kodaikanal|HB73|
+|Epson|EF-72|kodaikanal|HB76|
 |Epson|EH-LS650|sti6290d101|projector|
+|Epson|EH-LS670|kasauli|HB82|
 |Epson|EH-LS800|sti6202d101|HA90|
 |Epson|ELPAP12|Bushi|STI6110|
 |Epson|Epson|embt4|EMBT4|
@@ -9206,6 +9215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evolio|M5Pro|Evolio_M5Pro|Evolio_M5Pro|
 |Evolio|M6|Evolio_M6|Evolio_M6|
 |Evolio|M8|Evolio_M8|Evolio_M8|
+|Evolute|eM61|eM61|eM61|
 |Evolveo|EVOLVEO StrongPhone G2|EVOLVEOG2|EVOLVEO StrongPhone G2|
 |Evolveo|EVOLVEO StrongPhone G4|EVOLVEOG4|EVOLVEO StrongPhone G4|
 |Evolveo|EVOLVEO StrongPhone G6|EVOLVEO_StrongPhone_G6|EVOLVEO StrongPhone G6|
@@ -10304,6 +10314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G9_U_EEA|G9_U_EEA|G9_U_EEA|
 |GOODTEL|G9_U_US|G9_U_US|G9_U_US|
 |GOODTEL|G9_V_EEA|G9|G9|
+|GOODTEL|G9_V_EEA|G9|G9_V_EEA|
 |GOTV|SEID04GM|SEID04GM|GO TV Box|
 |GOtv|GO700FR|GoFreeTV|GO700FR|
 |GOtv|GOtv S|GoFreeTV|GO700FR|
@@ -11256,6 +11267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HELLCAT|TAB11GT|TAB11GT|TAB11GT|
 |HELLCAT|TAB8-1|TAB8-1|TAB8|
 |HEROFUN|BH502G|BH502G|BH502G|
+|HEROFUN|BH805G|BH805G|BH805G|
 |HIGRACE|G15|G15|G15|
 |HIGRACE|G15_EEA|G15|G15|
 |HIGRACE|OC101|OC101|OC101|
@@ -12399,6 +12411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|P20|P20|P20|
 |Haier|P20_M64G3M|P20_Tablet_PC|P20|
 |Haier|P20_M66G8M|P20_Tablet_PC|P20|
+|Haier|P20_M84G3M|P20_Tablet_PC|P20|
 |Haier|P20_M88G3M|P20_Tablet_PC|P20|
 |Haier|PA|nippori|Haitech Android TV 2K|
 |Haier|PAD1021|PAD1021|PAD1021|
@@ -13802,6 +13815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀平板V9|HNROL-M|ROL-W00|
 |Honor|荣耀平板V9|HNROL-M|ROL-W10|
 |Honor|荣耀平板V9|HNROL-M|tb8792p1_64_wifi|
+|Hoozo|AL-10-EEA|AL-10|AL-10|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -17448,6 +17462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bruno|JVC PA 2K Android TV|
 |JVC|JVC|bruno|JVC UK 2K Android TV|
 |JVC|JVC|bruno|JVC2KAndroid TV|
+|JVC|JVC|dongmae|JVC PA 2K Android TV|
 |JVC|JVC|elliniko|4K SMART TV|
 |JVC|JVC|expo|JVCPA 4KAndroid TV|
 |JVC|JVC|expo|JVCSA 4KGoogle TV|
@@ -18262,6 +18277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kbro|A2S905X4|A2_S905X4|A2S905X4|
 |Kbro|N97_A1B_72115|A1B_72115|N97_A1B_72115|
 |Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
+|Kbro|Taiwan|A2_X4_N|A2X4N|
 |Keian|KI-R10|KI-R10|KI-R10|
 |Keian|KI-R10S|KI-R10S|KI-R10S|
 |Keian|KI-R7|KI-R7|KI-R7|
@@ -20577,6 +20593,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|ilium_PAD_RX10|RX10V6|Ilium_PAD_RX10V6|
 |Lanix|ilium_S106|Ilium_S106|Ilium S106|
 |Lanix|llium Pad L8|llium_Pad_L8|llium Pad L8|
+|Laptok|G11|G11|G11|
+|Laptok|G11_EEA|G11|G11|
 |Laptok|X11|X11|X11|
 |Lark|Cumulus 5 HD|Cumulus_5_HD|Cumulus_5_HD|
 |Lark|Cumulus 5.5 HD|Cumulus_55_HD|Cumulus_5.5_HD|
@@ -22121,6 +22139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|TABLINK104|Tab_Link_104|Tab Link 104|
 |Logicom|TABXL14|Tab_XL_14|Tab XL 14|
 |Logicom|TABXL_14|TABXL_14|Tab_XL_14|
+|Logicom|TAB_FOLD_10|TAB_FOLD_10|TAB_FOLD_10|
 |Logicom|TAB_FOLD_12|TAB_FOLD_12|TAB_FOLD_12|
 |Logicom|TAB_STAND_PRO_2|TAB_STAND_PRO_2|TAB_STAND_PRO_2|
 |Logicom|TAB_XXL_14|TAB_XXL_14|TAB_XXL_14|
@@ -23206,6 +23225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|MEIZU 18s Pro|meizu18sPro|MEIZU 18s Pro|
 |Meizu|MEIZU 20 Inf|meizu20Inf|MEIZU 20 Inf|
 |Meizu|MEIZU 20 Inf.sat|meizu20Infsat|MEIZU 20 Inf.sat|
+|Meizu|MEIZU 22|Meizu22|MEIZU 22|
 |Meizu|MEIZU Note 21|MEIZU_Note21|MEIZU Note21|
 |Meizu|MEIZU Note 21 Pro|MEIZU_Note21_Pro|MEIZU Note21 Pro|
 |Meizu|MEIZU Note21|MEIZU_Note21|MEIZU Note21|
@@ -23263,6 +23283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mgt electric|MGT_T4|T4|T4|
 |Mgt electric|Super|Super|Super|
 |Mi|Mi 11 X|aliothin|M2012K11AI|
+|MiBoard|MiBoard_RK3576|MiBoard_RK3576|MiBoard_RK3576|
 |MiTAC|N630|surfing_pro|N630|
 |MiTAC|N635|chiron_pro|N635|
 |MiTAC|N635_8|skating|N635_8|
@@ -25591,6 +25612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NETTV|NETTV|SEI500NTV|NETTV|
 |NEWORK|Interactive Smart Display|NewBoard|NB_XXE1D_AM_W|
 |NEWPOS|NEW9310Pro|NEW9310Pro|NEW9310Pro|
+|NEWPOS|NEW9830|NEW9830|NEW9830|
 |NEWSUN|S13|S13|S13|
 |NEWSUN|S20|S20|S20|
 |NEWSUN|S9|S9|S9|
@@ -26428,6 +26450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKAPI|Tab10|Tab10|Tab10|
 |OKSI|GEN-10|GEN-10|GEN-10|
 |OKSI|GT1001|GT1001|GT1001|
+|OKView|IFP|mensa_an64|IFP|
 |OKView|IFP|rk3588_t|IFP|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Magic_Q1|Magic_Q1|Magic Q1|
@@ -31233,6 +31256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_EU|TAB10_EU|TAB10|
 |Relndoo|TAB10_EUR|TAB10_EUR|TAB10|
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
+|Relndoo|TAB10_US|TAB10_US|TAB10|
 |Relndoo|TB02|TB02|TB02|
 |Relndoo|TB02_E|TB02_E|TB02_E|
 |Relndoo|TB02_EEA_A|TB02_EEA_A|TB02|
@@ -31927,6 +31951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|X3|X3|X3|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|STUDYNLEARN|Education Market|mensa_an64|IS-IFP_Series_86|
 |STUDYNLEARN|IS-IFPSeries|mensa_an64|IS-IFPSeries|
 |STboard|HJ_M2|HJ_M2|HJ_M2|
 |STboard|HJ_TD|HJ_TD|HJ_TD|
@@ -34626,6 +34651,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A11|gta11|SM-X135F|
 |Samsung|Galaxy Tab A11|gta11|SM-X135G|
 |Samsung|Galaxy Tab A11|gta11|SM-X135N|
+|Samsung|Galaxy Tab A11|gta11wifi|SM-X130|
+|Samsung|Galaxy Tab A11|gta11wifi|SM-X133|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505C|
@@ -40021,6 +40048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|Y8|Y8|Y8|
 |TOPJOY|PNC450|PNC450|PNC450|
 |TOPJOY|SC0802|SC0802|SC0802|
+|TOPNICE|IFPD-H66|IFPD|TOPNICE-H66|
 |TORNADO|TORNADO 2K SMART TV|shinagawa|TORNADO 2K SMART TV|
 |TORNADO|TORNADO 2K SMART TV|umeda|TORNADO 2K SMART TV|
 |TORNADO|TORNADO 4K SmartTV|SW6H|TORNADO 4K SmartTV|
@@ -41177,6 +41205,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|Venezuela|martin|Tesla Android TV|
 |Tesla|Venezuela|patrick|Tesla Android TV|
 |Tetratab|TF10EA2|TF10EA2_Medical_1|CASEBOOK_3|
+|The Edge|NLE|oversea_v|NLE|
 |TheNudge|Smartboard_Ai|oversea_v|HDJN|
 |ThinkAcademy|T100|T100|T100|
 |Thinpad|TH805|TH805|TH805|
@@ -42459,6 +42488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
 |VOLIA|VOL001|VOL001|VOL001|
+|VOPLLS|G3|himalaya|G3|
 |VORCOM|AVALON|AVALON|AVALON|
 |VORCOM|QuartzLITE|QuartzLITE|QuartzLITE|
 |VORCOM|QuartzPRO|QuartzPRO|QuartzPRO|
@@ -42530,6 +42560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|S8_EEA|S8_EEA|S8_EEA|
 |Vankyo|S9|S9|S9|
 |Vankyo|S9_EEA|S9_EEA|S9_EEA|
+|Vankyo|V700|himalaya|V700|
 |Vankyo|VANKYO_S7|VANKYO_S7|VANKYO_S7|
 |Vankyo|VANKYO_S7_EEA|VANKYO_S7_EEA|VANKYO_S7_EEA|
 |Vankyo|VANKYO_S8|VANKYO_S8|VANKYO_S8|
@@ -44178,6 +44209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WILLETT|India|yeongdeungpo|WILLETT UHD Android TV|
 |WILLKOTECH|Kishi-001|Kishi-001|Kishi-001|
 |WILLKOTECH|WK1863L|WK1863L|WK1863L|
+|WIMIUS|G1|himalaya|G1|
 |WIN(PE)|WINBOX DV8947|DV8947-KPW|WINBOX DV8947|
 |WINTEK|W405|W405|W405|
 |WOM|SEI500W|SEI500W|WOM|
@@ -45289,6 +45321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
+|Xiaomi|Xiaomi Civi 5 Pro|luming|25067PYE3C|
 |Xiaomi|Xiaomi MIX Flip|ruyi|2405CPX3DC|
 |Xiaomi|Xiaomi MIX Flip|ruyi|2405CPX3DG|
 |Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|

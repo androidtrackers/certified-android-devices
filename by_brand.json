@@ -1091,6 +1091,13 @@
    "model": "TA_G717"
   }
  ],
+ "AGNeovo": [
+  {
+   "device": "Meetboard4Prime",
+   "name": "AGNeovo",
+   "model": "Meetboard4Prime"
+  }
+ ],
  "AG_Neovo": [
   {
    "device": "MeetBoard_4",
@@ -19498,6 +19505,11 @@
    "model": "B50_CHT"
   },
   {
+   "device": "coonoor",
+   "name": "BenQTK001",
+   "model": "BenQTK001"
+  },
+  {
    "device": "BenQ_Digital_Signage_04",
    "name": "BenQ_Digital_Signage_04",
    "model": "BenQ_Digital_Signage_04"
@@ -31291,6 +31303,11 @@
   }
  ],
  "Cloud_Mobile": [
+  {
+   "device": "MC8B654B",
+   "name": "MC8B654B100136",
+   "model": "MC8B654B"
+  },
   {
    "device": "Stratus_C8",
    "name": "Stratus_C8",
@@ -44229,6 +44246,13 @@
    "model": "10BIZ332"
   }
  ],
+ "ELEPHAS": [
+  {
+   "device": "himalaya",
+   "name": "K350",
+   "model": "K350"
+  }
+ ],
  "ELEVIA": [
   {
    "device": "EL-E110",
@@ -46794,9 +46818,34 @@
    "model": "Projector"
   },
   {
+   "device": "ooty",
+   "name": "EF-61",
+   "model": "HB72"
+  },
+  {
+   "device": "ooty",
+   "name": "EF-62",
+   "model": "HB79"
+  },
+  {
+   "device": "kodaikanal",
+   "name": "EF-71",
+   "model": "HB73"
+  },
+  {
+   "device": "kodaikanal",
+   "name": "EF-72",
+   "model": "HB76"
+  },
+  {
    "device": "sti6290d101",
    "name": "EH-LS650",
    "model": "projector"
+  },
+  {
+   "device": "kasauli",
+   "name": "EH-LS670",
+   "model": "HB82"
   },
   {
    "device": "sti6202d101",
@@ -47820,6 +47869,13 @@
    "device": "Evolio_M8",
    "name": "M8",
    "model": "Evolio_M8"
+  }
+ ],
+ "Evolute": [
+  {
+   "device": "eM61",
+   "name": "eM61",
+   "model": "eM61"
   }
  ],
  "Evolveo": [
@@ -53588,6 +53644,11 @@
    "device": "G9",
    "name": "G9_V_EEA",
    "model": "G9"
+  },
+  {
+   "device": "G9",
+   "name": "G9_V_EEA",
+   "model": "G9_V_EEA"
   }
  ],
  "GOTV": [
@@ -58594,6 +58655,11 @@
    "device": "BH502G",
    "name": "BH502G",
    "model": "BH502G"
+  },
+  {
+   "device": "BH805G",
+   "name": "BH805G",
+   "model": "BH805G"
   }
  ],
  "HIGRACE": [
@@ -64374,6 +64440,11 @@
   {
    "device": "P20_Tablet_PC",
    "name": "P20_M66G8M",
+   "model": "P20"
+  },
+  {
+   "device": "P20_Tablet_PC",
+   "name": "P20_M84G3M",
    "model": "P20"
   },
   {
@@ -71503,6 +71574,11 @@
   }
  ],
  "Hoozo": [
+  {
+   "device": "AL-10",
+   "name": "AL-10-EEA",
+   "model": "AL-10"
+  },
   {
    "device": "F13",
    "name": "F13",
@@ -90038,6 +90114,11 @@
    "model": "JVC2KAndroid TV"
   },
   {
+   "device": "dongmae",
+   "name": "JVC",
+   "model": "JVC PA 2K Android TV"
+  },
+  {
    "device": "elliniko",
    "name": "JVC",
    "model": "4K SMART TV"
@@ -94294,6 +94375,11 @@
    "device": "A1_3796",
    "name": "N97_A1_3796",
    "model": "N97_A1_3796"
+  },
+  {
+   "device": "A2_X4_N",
+   "name": "Taiwan",
+   "model": "A2X4N"
   }
  ],
  "Keian": [
@@ -106087,6 +106173,16 @@
  ],
  "Laptok": [
   {
+   "device": "G11",
+   "name": "G11",
+   "model": "G11"
+  },
+  {
+   "device": "G11",
+   "name": "G11_EEA",
+   "model": "G11"
+  },
+  {
    "device": "X11",
    "name": "X11",
    "model": "X11"
@@ -113897,6 +113993,11 @@
    "model": "Tab_XL_14"
   },
   {
+   "device": "TAB_FOLD_10",
+   "name": "TAB_FOLD_10",
+   "model": "TAB_FOLD_10"
+  },
+  {
    "device": "TAB_FOLD_12",
    "name": "TAB_FOLD_12",
    "model": "TAB_FOLD_12"
@@ -119598,6 +119699,11 @@
    "model": "MEIZU 20 Inf.sat"
   },
   {
+   "device": "Meizu22",
+   "name": "MEIZU 22",
+   "model": "MEIZU 22"
+  },
+  {
    "device": "MEIZU_Note21",
    "name": "MEIZU Note 21",
    "model": "MEIZU Note21"
@@ -119901,6 +120007,13 @@
    "device": "aliothin",
    "name": "Mi 11 X",
    "model": "M2012K11AI"
+  }
+ ],
+ "MiBoard": [
+  {
+   "device": "MiBoard_RK3576",
+   "name": "MiBoard_RK3576",
+   "model": "MiBoard_RK3576"
   }
  ],
  "MiTAC": [
@@ -131771,6 +131884,11 @@
    "device": "NEW9310Pro",
    "name": "NEW9310Pro",
    "model": "NEW9310Pro"
+  },
+  {
+   "device": "NEW9830",
+   "name": "NEW9830",
+   "model": "NEW9830"
   }
  ],
  "NEWSUN": [
@@ -136175,6 +136293,11 @@
   }
  ],
  "OKView": [
+  {
+   "device": "mensa_an64",
+   "name": "IFP",
+   "model": "IFP"
+  },
   {
    "device": "rk3588_t",
    "name": "IFP",
@@ -160817,6 +160940,11 @@
    "model": "TAB10"
   },
   {
+   "device": "TAB10_US",
+   "name": "TAB10_US",
+   "model": "TAB10"
+  },
+  {
    "device": "TB02",
    "name": "TB02",
    "model": "TB02"
@@ -164542,6 +164670,11 @@
   }
  ],
  "STUDYNLEARN": [
+  {
+   "device": "mensa_an64",
+   "name": "Education Market",
+   "model": "IS-IFP_Series_86"
+  },
   {
    "device": "mensa_an64",
    "name": "IS-IFPSeries",
@@ -178086,6 +178219,16 @@
    "device": "gta11",
    "name": "Galaxy Tab A11",
    "model": "SM-X135N"
+  },
+  {
+   "device": "gta11wifi",
+   "name": "Galaxy Tab A11",
+   "model": "SM-X130"
+  },
+  {
+   "device": "gta11wifi",
+   "name": "Galaxy Tab A11",
+   "model": "SM-X133"
   },
   {
    "device": "gtexswifi",
@@ -205551,6 +205694,13 @@
    "model": "SC0802"
   }
  ],
+ "TOPNICE": [
+  {
+   "device": "IFPD",
+   "name": "IFPD-H66",
+   "model": "TOPNICE-H66"
+  }
+ ],
  "TORNADO": [
   {
    "device": "shinagawa",
@@ -211523,6 +211673,13 @@
    "device": "TF10EA2_Medical_1",
    "name": "TF10EA2",
    "model": "CASEBOOK_3"
+  }
+ ],
+ "The Edge": [
+  {
+   "device": "oversea_v",
+   "name": "NLE",
+   "model": "NLE"
   }
  ],
  "TheNudge": [
@@ -218269,6 +218426,13 @@
    "model": "VOL001"
   }
  ],
+ "VOPLLS": [
+  {
+   "device": "himalaya",
+   "name": "G3",
+   "model": "G3"
+  }
+ ],
  "VORCOM": [
   {
    "device": "AVALON",
@@ -218644,6 +218808,11 @@
    "device": "S9_EEA",
    "name": "S9_EEA",
    "model": "S9_EEA"
+  },
+  {
+   "device": "himalaya",
+   "name": "V700",
+   "model": "V700"
   },
   {
    "device": "VANKYO_S7",
@@ -227056,6 +227225,13 @@
    "model": "WK1863L"
   }
  ],
+ "WIMIUS": [
+  {
+   "device": "himalaya",
+   "name": "G1",
+   "model": "G1"
+  }
+ ],
  "WIN(PE)": [
   {
    "device": "DV8947-KPW",
@@ -232789,6 +232965,11 @@
    "device": "chenfeng",
    "name": "Xiaomi Civi 4",
    "model": "24053PY09C"
+  },
+  {
+   "device": "luming",
+   "name": "Xiaomi Civi 5 Pro",
+   "model": "25067PYE3C"
   },
   {
    "device": "ruyi",
