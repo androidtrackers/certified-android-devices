@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-17
+Last sync is 2025-09-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -582,9 +582,23 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A10M1|acer_A10M1|A10-21|
 |Acer|A10M1|acer_A10M1|A10-21_CUS1|
 |Acer|A10M1|acer_A10M1|A10-21_EEA|
+|Acer|A10M2|acer_A10M2|A10-31M|
+|Acer|A10M2N|acer_A10M2N|A10-31MN|
+|Acer|A10P2|A10P2|A10-31P|
+|Acer|A10P2|acer_A10P2|A10-31P_EEA|
 |Acer|A110|a110|A110|
 |Acer|A11M1|acer_A11M1|A11-11|
 |Acer|A11M1|acer_A11M1|A11-11_EEA|
+|Acer|A11M2|acer_A11M2|A11-21M|
+|Acer|A11M2|acer_A11M2|A11-21M_EEA|
+|Acer|A11M2N|acer_A11-21MN|A11-21MN|
+|Acer|A11P2|acer_A11P2|A11-21P|
+|Acer|A11P2|acer_A11P2|A11-21P_EEA|
+|Acer|A12M1N|acer_A12M1N|A12-11MN|
+|Acer|A12P2|acer_A12P2|A12-21P|
+|Acer|A12P2|acer_A12P2|A12-21P_EEA|
+|Acer|A13P2|acer_A13P2|A13-21P|
+|Acer|A13P2|acer_A13P2|A13-21P_EEA|
 |Acer|A3-A10|zara|A3-A10|
 |Acer|A3-A11|zara|A3-A11|
 |Acer|A3-A20|acer_harley|A3-A20|
@@ -593,7 +607,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
 |Acer|A8M1|acer_A8M1|A8-11|
 |Acer|A8M1|acer_A8M1|A8-11_EEA|
+|Acer|A8M2|acer_A8M2|A8-21M|
+|Acer|A8M2|acer_A8M2|A8-21M_EEA|
+|Acer|A8P2|acer_A8P2|A8-21P|
+|Acer|A8P2|acer_A8P2|A8-21P_EEA|
 |Acer|ACER ALTOS EZBA|AKMEI14|ACER_ALTOS_EZBA|
+|Acer|ACER TAB V9-22|ATV9-22|ACER TAB V9-22|
 |Acer|ACER_A6|ACER_A6|A6|
 |Acer|ACER_A62_ULTRA_V25|ACER_A62_ULTRA_V25|A62 ULTRA V25|
 |Acer|ACER_AC50_V25|ACER_AC50_V25|AC50 V25|
@@ -639,6 +658,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
 |Acer|Acer Holo360|acer_c01|C01|
 |Acer|Acer Iconia T10-21M|Acer_Iconia_T10-21M|Acer_Iconia_T10-21M|
+|Acer|Acer Iconia Tab iM10-22|AITiM10-22|Acer Iconia Tab iM10-22|
+|Acer|Acer Iconia Tab iM11-12M|iM11-12M|Acer Iconia Tab iM11-12M|
+|Acer|Acer Iconia Tab iM9-12M|AITiM9-12M|Acer lconia Tab iM9-12M|
 |Acer|Acer One 10 T4-129L|AcerO10T4129L|Acer One 10 T4-129L|
 |Acer|Acer One 10 T4-129L|AcerOne10T4129LIx|Acer One 10 T4-129LIx|
 |Acer|Acer One 10 T4-129LI|AcerO10T412LI|Acer One 10 T4-129LI|
@@ -650,6 +672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
 |Acer|Acer One T10-22L|AOT10-22L|Acer One T10-22L|
+|Acer|Acer One T11-22L|AOT11-22L|Acer One T11-22L|
 |Acer|Acer education whiteboard|DT3K_F|DT3K_F|
 |Acer|Acer_A6|Acer_A6|A6|
 |Acer|Acer_A60|Acer_A60|A60|
@@ -855,6 +878,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|V10M2|acer_V10M2|V10-21|
 |Acer|V11M1|acer_V11M1|V11-11|
 |Acer|V11M1|acer_V11M1|V11-11_EEA|
+|Acer|V11M2|acer_V11M2|V11-21M_EEA|
+|Acer|V11M2-LTE|acer_V11M2-LTE|V11-22M|
+|Acer|V11M2-LTE|acer_V11M2-LTE|V11-22M_EEA|
+|Acer|V12M1|acer_V12M1|V12-11M|
+|Acer|V12M1|acer_V12M1|V12-11M_EEA|
+|Acer|V13M1|acer_V13M1|V13-11M|
 |Acer|Walle|Walle|ET-108-11A|
 |Acer|Walle|Walle|ET-108-11AR|
 |Acer|X12M1|acer_X12M1|X12-11|
@@ -36593,6 +36622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|LEAP-S1|LAS|LEAP-S1|
 |Skyworth|Leap-L1|BOS|TV Stick|
 |Skyworth|Leap-S2|YYT|4K Google TV Stick|
+|Skyworth|Leap-S3|YDA|4K Google TV Box|
 |Skyworth|Leap-S4|YYC|4K Android TV Box|
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|NT-01|HP40A|NT-01|
@@ -43135,6 +43165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|VIVAX_Fly_V1|VIVAX_Fly_V1|VIVAX_Fly_V1|
 |Vivax|VIVAX_PRO3|VIVAX_PRO3|VIVAX_PRO3|
 |Vivax|VIVAX_TPC-105_4G|VIVAX_TPC-105_4G|VIVAX_TPC-105_4G|
+|Vivensis|Vivensis VX Smart|HYR2B-Vivensis|Vivensis VX Smart|
 |Vivo|1601|1601|vivo 1601|
 |Vivo|1601|1601|vivo 1713|
 |Vivo|1609|1609|vivo 1609|
