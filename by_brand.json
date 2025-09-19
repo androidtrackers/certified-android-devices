@@ -25423,6 +25423,11 @@
    "model": "BboxTV"
   },
   {
+   "device": "HMB2013CW22",
+   "name": "BboxTV-4A",
+   "model": "BboxTV-4A"
+  },
+  {
    "device": "Bs_451",
    "name": "Bs 451",
    "model": "Bs 451"
@@ -44087,6 +44092,11 @@
  ],
  "EJBOARD": [
   {
+   "device": "oversea_v",
+   "name": "EJ_IFPD",
+   "model": "EB-Q_series"
+  },
+  {
    "device": "rk3588_t",
    "name": "EJ_IFPD",
    "model": "EP_Series"
@@ -58414,6 +58424,13 @@
    "device": "SmartEdu",
    "name": "T432",
    "model": "T432"
+  }
+ ],
+ "HANKOOK-CREA": [
+  {
+   "device": "oversea_v",
+   "name": "HANKOOK_CREA_IFPD",
+   "model": "HKCREA_Series"
   }
  ],
  "HANKOOK_CREA": [
@@ -89765,12 +89782,12 @@
   },
   {
    "device": "lonavla",
-   "name": "K92A",
+   "name": "N1S Infinity",
    "model": "K92A"
   },
   {
    "device": "lonavla",
-   "name": "K93A",
+   "name": "N1S Pro",
    "model": "K93A"
   },
   {
@@ -133779,6 +133796,11 @@
   {
    "device": "Q25ELT",
    "name": "Newline_Q_Pro_Elite",
+   "model": "Newline Q Pro Elite"
+  },
+  {
+   "device": "Q25ELT",
+   "name": "Newline_Q_Pro_Elite",
    "model": "Newline_Q_Pro_Elite"
   },
   {
@@ -146038,6 +146060,11 @@
   }
  ],
  "PROTON": [
+  {
+   "device": "Glory_i30",
+   "name": "Glory_i30",
+   "model": "Glory_i30"
+  },
   {
    "device": "Infinity_8",
    "name": "Infinity 8",
@@ -218021,6 +218048,11 @@
    "model": "GQ5015RH1"
   },
   {
+   "device": "GQ5017BF2_VID",
+   "name": "GQ5017BF2",
+   "model": "GQ5017BF2"
+  },
+  {
    "device": "GQ5021AH2_VID",
    "name": "GQ5021AH2",
    "model": "GQ5021AH2"
@@ -234703,6 +234735,11 @@
   }
  ],
  "ZAIKAI": [
+  {
+   "device": "t7_an400",
+   "name": "GPROseries",
+   "model": "GPROseries"
+  },
   {
    "device": "mensa_an64",
    "name": "Gseries",

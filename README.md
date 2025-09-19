@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-18
+Last sync is 2025-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4929,6 +4929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bouygues Telecom|Bbox Brooklyn 4K|HMB9213NW|Bouygtel4K|
 |Bouygues Telecom|Bbox Miami|HMB4213H|BouygtelTV|
 |Bouygues Telecom|BboxTV|UZW4020BYT|BboxTV|
+|Bouygues Telecom|BboxTV-4A|HMB2013CW22|BboxTV-4A|
 |Bouygues Telecom|Bs 451|Bs_451|Bs 451|
 |Bphone|Bphone_A40|Bphone_A40|Bphone A40|
 |Bphone|Bphone_A85_5G|Bphone_A85_5G|Bphone A85 5G|
@@ -8503,6 +8504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
+|EJBOARD|EJ_IFPD|oversea_v|EB-Q_series|
 |EJBOARD|EJ_IFPD|rk3588_t|EP_Series|
 |EKEMP|T80 EEA|T80|T80|
 |EKINOX|E6|E6|E6|
@@ -11226,6 +11228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HANASIS|BLAZE|BLAZE|BLAZE|
 |HANDELSON|H14|H14|H14|
 |HANET|T432|SmartEdu|T432|
+|HANKOOK-CREA|HANKOOK_CREA_IFPD|oversea_v|HKCREA_Series|
 |HANKOOK_CREA|HANKOOK_CREA_IFPD|HANKOOK_CREA_RK3588|CREA_86135_Series|
 |HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSG_Series|
 |HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSN_Series|
@@ -17396,8 +17399,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|C62A|holan|C62A|
 |JMGO|K62A|holan|K62A|
 |JMGO|K80A|holan|K80A|
-|JMGO|K92A|lonavla|K92A|
-|JMGO|K93A|lonavla|K93A|
+|JMGO|N1S Infinity|lonavla|K92A|
+|JMGO|N1S Pro|lonavla|K93A|
 |JMGO|S91A|lonavla|S91A|
 |JMGO|V62A|holan|V62A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
@@ -25969,6 +25972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
 |Newline|23Q|23Q|23Q|
 |Newline|23QA|velvet|LGA311D2|
+|Newline|Newline_Q_Pro_Elite|Q25ELT|Newline Q Pro Elite|
 |Newline|Newline_Q_Pro_Elite|Q25ELT|Newline_Q_Pro_Elite|
 |Newline|Q23|rk3588_t|Q23|
 |Newline|WB55860W|WB55860W|WB55860W|
@@ -28351,6 +28355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|PrismPlus P4KA|SW6H|PrismPlus P4KA|
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
+|PROTON|Glory_i30|Glory_i30|Glory_i30|
 |PROTON|Infinity 8|Infinity_8|Infinity 8|
 |PROTON|P25 Ultra|P25_Ultra|P25 Ultra|
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
@@ -42415,6 +42420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VID(CN)|GQ5008 AF3|GQ5008AF3_VID|GQ5008AF3|
 |VID(CN)|GQ5015|GQ5015|GQ5015|
 |VID(CN)|GQ5015RH1|GQ5015RH1_VID|GQ5015RH1|
+|VID(CN)|GQ5017BF2|GQ5017BF2_VID|GQ5017BF2|
 |VID(CN)|GQ5021AH2|GQ5021AH2_VID|GQ5021AH2|
 |VID(CN)|GQ5021RH1|GQ5021RH1_VID|GQ5021RH1|
 |VIEWEDGE|V11|V11|Viewedge Tab 11|
@@ -45648,6 +45654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yuho|Yuho_Tab10|Yuho_Tab10|TC1031|
 |Yuho|Yuho_Tab8|Yuho_Tab8|TC8091|
 |Yumpingo|YUMPINGO_1|YUMPINGO_1|YUMPINGO_1|
+|ZAIKAI|GPROseries|t7_an400|GPROseries|
 |ZAIKAI|Gseries|mensa_an64|Gseries|
 |ZAIKAI|Mannat_Smart_Board|mensa_an64|G-8600|
 |ZAIKAI|ZAIKAI|t7_an400|G-8600|
