@@ -23555,6 +23555,11 @@
    "model": "G35"
   },
   {
+   "device": "G1111",
+   "name": "G35",
+   "model": "G35"
+  },
+  {
    "device": "G0730WW",
    "name": "G40",
    "model": "G40"
@@ -106786,14 +106791,29 @@
    "model": "LAVA LXX516"
   },
   {
+   "device": "LXX521",
+   "name": "LAVA LXX521",
+   "model": "LAVA LXX521"
+  },
+  {
    "device": "LXX522",
    "name": "LAVA LXX522",
    "model": "LXX522"
   },
   {
+   "device": "LXX523",
+   "name": "LAVA LXX523",
+   "model": "LXX523"
+  },
+  {
    "device": "LZG410",
    "name": "LAVA LZG410",
    "model": "LZG410"
+  },
+  {
+   "device": "LZG411",
+   "name": "LAVA LZG411",
+   "model": "LAVA LZG411"
   },
   {
    "device": "LZX414",
@@ -106874,6 +106894,11 @@
    "device": "LN9820",
    "name": "LN9820",
    "model": "LN9821"
+  },
+  {
+   "device": "LXX519",
+   "name": "LXX519",
+   "model": "LAVA LXX519"
   },
   {
    "device": "LZG01",
@@ -107189,6 +107214,11 @@
    "device": "LZX417",
    "name": "Yuva 4",
    "model": "LZX417"
+  },
+  {
+   "device": "LZG410",
+   "name": "Yuva Sar 2",
+   "model": "LZG410"
   },
   {
    "device": "LZG409",
@@ -131509,6 +131539,16 @@
    "device": "LAVIETab11QHD2",
    "name": "LAVIE Tab T11",
    "model": "LAVIE Tab 11QHD2"
+  },
+  {
+   "device": "LAVIETab11QHD3",
+   "name": "LAVIE Tab T11Nd",
+   "model": "LAVIE Tab 11QHD3"
+  },
+  {
+   "device": "LAVIETab11QHD3",
+   "name": "LAVIE Tab T11Nd",
+   "model": "LAVIETab11QHD3"
   },
   {
    "device": "LAVIETab143K1",
@@ -164910,6 +164950,11 @@
    "device": "S10_V_EEA",
    "name": "S10_V_EEA",
    "model": "S10_V_EEA"
+  },
+  {
+   "device": "S11_V_US",
+   "name": "S11_V_US",
+   "model": "S11_V_US"
   },
   {
    "device": "S3_EEA",
@@ -245073,6 +245118,11 @@
  ],
  "Zinox": [
   {
+   "device": "Zinox_Zirra_Pro",
+   "name": "Zinox_Zirra_Pro_Tablet",
+   "model": "Zinox_Zirra_Pro"
+  },
+  {
    "device": "Zpad-X8",
    "name": "Zpad-X8",
    "model": "Zpad-X8"
@@ -250776,6 +250826,11 @@
    "device": "RE6444L1",
    "name": "realme 15T",
    "model": "RMX5111"
+  },
+  {
+   "device": "RE644C",
+   "name": "realme 15x 5G",
+   "model": "RMX5250"
   },
   {
    "device": "SW6H",

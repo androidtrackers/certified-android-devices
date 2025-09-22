@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-21
+Last sync is 2025-09-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4561,6 +4561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G33|G0894|G33|
 |Blu|G34|G1070|G34|
 |Blu|G35|G1110|G35|
+|Blu|G35|G1111|G35|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
@@ -20714,8 +20715,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX514|LXX514|LAVA LXX514|
 |Lava|LAVA LXX515|LXX515|LXX515|
 |Lava|LAVA LXX516|LXX516|LAVA LXX516|
+|Lava|LAVA LXX521|LXX521|LAVA LXX521|
 |Lava|LAVA LXX522|LXX522|LXX522|
+|Lava|LAVA LXX523|LXX523|LXX523|
 |Lava|LAVA LZG410|LZG410|LZG410|
+|Lava|LAVA LZG411|LZG411|LAVA LZG411|
 |Lava|LAVA LZX414|LZX414|LAVA LZX414|
 |Lava|LAVA LZX419|LZX419|LAVA LZX419|
 |Lava|LAVA Z35|Z35|Z35|
@@ -20732,6 +20736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9810|LN9810|LAVA LN9810|
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
+|Lava|LXX519|LXX519|LAVA LXX519|
 |Lava|LZG01|LZG01|LAVA LZG01|
 |Lava|Lava LXX517|LXX517|LXX517|
 |Lava|Magnum Pro|Magnum_Pro|Magnum_Pro|
@@ -20795,6 +20800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|YUVA 2 PRO|LZX408|LAVA LZX408|
 |Lava|YUVA 3|LZX415|LZX415|
 |Lava|Yuva 4|LZX417|LZX417|
+|Lava|Yuva Sar 2|LZG410|LZG410|
 |Lava|Yuva Star|LZG409|LAVA LZG409|
 |Lava|Z1|Z1|Z1|
 |Lava|Z1 Pro|LZG401|LAVA LZG401|
@@ -25541,6 +25547,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab T11|LAVIETab112K2|LAVIE Tab 112K2|
 |NEC|LAVIE Tab T11|LAVIETab11FHD1|LAVIE Tab 11FHD1|
 |NEC|LAVIE Tab T11|LAVIETab11QHD2|LAVIE Tab 11QHD2|
+|NEC|LAVIE Tab T11Nd|LAVIETab11QHD3|LAVIE Tab 11QHD3|
+|NEC|LAVIE Tab T11Nd|LAVIETab11QHD3|LAVIETab11QHD3|
 |NEC|LAVIE Tab T14|LAVIETab143K1|LAVIE Tab 143K1|
 |NEC|LAVIE Tab T9|LAVIETab9QHD1|LAVIE Tab 9QHD1|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
@@ -31998,6 +32006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S10_U_US|S10_U_US|S10_US|
 |SUAAT|S10_U_US|S10_U_US|S10_U_US|
 |SUAAT|S10_V_EEA|S10_V_EEA|S10_V_EEA|
+|SUAAT|S11_V_US|S11_V_US|S11_V_US|
 |SUAAT|S3_EEA|S3_EEA|S3_EEA|
 |SUAAT|S3_US|S3_US|S3_US|
 |SUAAT|S3_U_US|S3_U_US|S3_U_US|
@@ -47705,6 +47714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zigo|EON_9|EON_9|EON 9|
 |Zigo|Zigo_Nebula_10_1|Zigo_Nebula_10_1|Zigo_Nebula_10_1|
 |Zilo|Zilo|Zilo|Zilo|
+|Zinox|Zinox_Zirra_Pro_Tablet|Zinox_Zirra_Pro|Zinox_Zirra_Pro|
 |Zinox|Zpad-X8|Zpad-X8|Zpad-X8|
 |Zinox|Zpad-X8-PRO|Zpad-X8-PRO|Zpad-X8-PRO|
 |Ziox|Astra Blaze|Astra_Blaze|Astra Blaze|
@@ -48780,6 +48790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 15 5G|RE60CDL1|RMX5106|
 |realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
 |realme|realme 15T|RE6444L1|RMX5111|
+|realme|realme 15x 5G|RE644C|RMX5250|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
