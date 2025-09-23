@@ -22488,6 +22488,11 @@
    "model": "BLAUPUNKT 4K Android TV"
   },
   {
+   "device": "dongmae",
+   "name": "Blaupunkt",
+   "model": "Blaupunkt 2KTV"
+  },
+  {
    "device": "ewha",
    "name": "Blaupunkt",
    "model": "AQUOS-TVE19I"
@@ -44186,6 +44191,11 @@
    "device": "bangbae",
    "name": "EKO",
    "model": "EKO 4K Android TV"
+  },
+  {
+   "device": "dongmae",
+   "name": "EKO",
+   "model": "EKO 2KTV"
   },
   {
    "device": "expo",
@@ -159461,6 +159471,11 @@
    "device": "spring",
    "name": "Redmi 15 5G",
    "model": "25057RN09I"
+  },
+  {
+   "device": "tornado",
+   "name": "Redmi 15C 5G",
+   "model": "2508CRN2BE"
   },
   {
    "device": "cereus",

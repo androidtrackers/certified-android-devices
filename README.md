@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-22
+Last sync is 2025-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4348,6 +4348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BP_T6110X|BP_T6110X|BP_T6110X|
 |Blaupunkt|Blaupunk|stanford|Blaupunkt 2K Android TV|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
+|Blaupunkt|Blaupunkt|dongmae|Blaupunkt 2KTV|
 |Blaupunkt|Blaupunkt|ewha|AQUOS-TVE19I|
 |Blaupunkt|Blaupunkt|ewha|BLAU-TVE19I|
 |Blaupunkt|Blaupunkt|expo|4K Blaupunkt Google TV|
@@ -8522,6 +8523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|Australia|Japan|Germany|
 |EKO|Australia|Japan|Germany|
 |EKO|EKO|bangbae|EKO 4K Android TV|
+|EKO|EKO|dongmae|EKO 2KTV|
 |EKO|EKO|expo|4K EKO Google TV|
 |EKO|EKO|hongkong|EKO 4K Android TV|
 |EKO|EKO|kaitak|EKO Google TV|
@@ -30963,6 +30965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 15 5G|spring|25057RN09E|
 |Redmi|Redmi 15 5G|spring|25057RN09G|
 |Redmi|Redmi 15 5G|spring|25057RN09I|
+|Redmi|Redmi 15C 5G|tornado|2508CRN2BE|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
