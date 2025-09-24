@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-23
+Last sync is 2025-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -419,6 +419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AURII|AURII_AMUSE_4G|AURII_AMUSE_4G|AURII_AMUSE_4G|
 |AURII|AURII_FAME|AURII_FAME|AURII_FAME|
 |AURZEN|BOOM MINI|yandangshan|AURZEN BOOM MINI|
+|AURZEN|BOOMAIR|himalaya|BOOMAIR|
 |AURZEN|D1G|yandangshan|AURZEN D1G|
 |AURZEN|TB-AS100A|TB-AS100A|TB-AS100A|
 |AURZEN|TB-AS110A|TB-AS110A|TB-AS110A|
@@ -26686,6 +26687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Obi|MV1|yam|Obi MV1|
 |Obi|OBJ SJ1.5|SJ1-5|SJ1-5|
 |Oceusnetworks|Xiphos®TMD|granite|Xiphos(R)TMD|
+|Ocilion|Ocilion|HP4CD-Ocilion|Ocilion-p610|
 |Octopus|Octopus_One|Octopus_One|Octopus_One|
 |Odea|A10_EEA|A10_EEA|A10|
 |Odea|A10_EEA|A10_EEA|A10_EEA|
@@ -28305,6 +28307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M7 Plus 5G|spring|25057PC09I|
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO Pad|dizi|2405CPCFBG|
+|POCO|POCO Pad M1|flute|2509ARPBDG|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -30892,6 +30895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 15C|dew|25078RA3EE|
 |Redmi|REDMI 15C|dew|25078RA3EL|
 |Redmi|REDMI 15C|dew|25078RA3EY|
+|Redmi|REDMI K Pad|turner|25079RPDCC|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI K80 Ultra|dali|25060RK16C|
@@ -31173,6 +31177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Pad 2|taiko|25040RP0AL|
 |Redmi|Redmi Pad 2 4G|koto|2505DRP06E|
 |Redmi|Redmi Pad 2 4G|koto|2505DRP06G|
+|Redmi|Redmi Pad 2 Pro|flute|25099RP13G|
 |Redmi|Redmi Pad 2 Wi-Fi + Cellular|koto|2505DRP06I|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDC|
 |Redmi|Redmi Pad Pro|dizi|2405CRPFDG|
@@ -42122,6 +42127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G7_Tab_Mini|G7_Tab_Mini|TG2405GBA|
 |Umidigi|G7_Tab_Mini_EEA|G7_Tab_Mini_EEA|TG2405GBA|
 |Umidigi|G7_Tab_Pro|G7_Tab_Pro|TG2403GBA|
+|Umidigi|G9 Tab|G9_Tab|TAB21|
 |Umidigi|G9 Tab|G9_Tab|TG4FBG9TA|
 |Umidigi|G9 Tab|G9_Tab_EEA|TG4FBG9TA|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
@@ -42609,6 +42615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|S9|S9|S9|
 |Vankyo|S9_EEA|S9_EEA|S9_EEA|
 |Vankyo|V700|himalaya|V700|
+|Vankyo|V702P|himalaya|V702P|
 |Vankyo|VANKYO_S7|VANKYO_S7|VANKYO_S7|
 |Vankyo|VANKYO_S7_EEA|VANKYO_S7_EEA|VANKYO_S7_EEA|
 |Vankyo|VANKYO_S8|VANKYO_S8|VANKYO_S8|
@@ -45367,6 +45374,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 15 Ultra|xuanyuan|25010PN30I|
 |Xiaomi|Xiaomi 15 Ultra|xuanyuan|25019PNF3C|
 |Xiaomi|Xiaomi 15S Pro|dijun|25042PN24C|
+|Xiaomi|Xiaomi 15T|goya|25069PTEBG|
+|Xiaomi|Xiaomi 15T Pro|klimt|2506BPN68G|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -45394,6 +45403,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 7 Pro|muyu|24091RPADC|
 |Xiaomi|Xiaomi Pad 7 Pro|muyu|24091RPADG|
 |Xiaomi|Xiaomi Pad 7 Ultra|jinghu|25032RP42C|
+|Xiaomi|Xiaomi Pad 7S Pro 12.5|violin|25053RP5CC|
+|Xiaomi|Xiaomi Pad Mini|turner|25079RPDCG|
 |Xiaomi|Xiaomi Smart Projector L1|tianshan|C025RGN|
 |Xiaomi|Xiaomi Smart Projector L1 Pro|tianshan|C045RGN|
 |Xiaomi|Xiaomi TV|arctictale|MiTV-AXFU0|

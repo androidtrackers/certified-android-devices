@@ -2279,6 +2279,11 @@
    "model": "AURZEN BOOM MINI"
   },
   {
+   "device": "himalaya",
+   "name": "BOOMAIR",
+   "model": "BOOMAIR"
+  },
+  {
    "device": "yandangshan",
    "name": "D1G",
    "model": "AURZEN D1G"
@@ -137532,6 +137537,13 @@
    "model": "Xiphos(R)TMD"
   }
  ],
+ "Ocilion": [
+  {
+   "device": "HP4CD-Ocilion",
+   "name": "Ocilion",
+   "model": "Ocilion-p610"
+  }
+ ],
  "Octopus": [
   {
    "device": "Octopus_One",
@@ -145783,6 +145795,11 @@
    "device": "dizi",
    "name": "POCO Pad",
    "model": "2405CPCFBG"
+  },
+  {
+   "device": "flute",
+   "name": "POCO Pad M1",
+   "model": "2509ARPBDG"
   },
   {
    "device": "phoenixin",
@@ -159108,6 +159125,11 @@
    "model": "25078RA3EY"
   },
   {
+   "device": "turner",
+   "name": "REDMI K Pad",
+   "model": "25079RPDCC"
+  },
+  {
    "device": "zorn",
    "name": "REDMI K80",
    "model": "24117RK2CC"
@@ -160511,6 +160533,11 @@
    "device": "koto",
    "name": "Redmi Pad 2 4G",
    "model": "2505DRP06G"
+  },
+  {
+   "device": "flute",
+   "name": "Redmi Pad 2 Pro",
+   "model": "25099RP13G"
   },
   {
    "device": "koto",
@@ -216464,6 +216491,11 @@
   {
    "device": "G9_Tab",
    "name": "G9 Tab",
+   "model": "TAB21"
+  },
+  {
+   "device": "G9_Tab",
+   "name": "G9 Tab",
    "model": "TG4FBG9TA"
   },
   {
@@ -219055,6 +219087,11 @@
    "device": "himalaya",
    "name": "V700",
    "model": "V700"
+  },
+  {
+   "device": "himalaya",
+   "name": "V702P",
+   "model": "V702P"
   },
   {
    "device": "VANKYO_S7",
@@ -233201,6 +233238,16 @@
    "model": "25042PN24C"
   },
   {
+   "device": "goya",
+   "name": "Xiaomi 15T",
+   "model": "25069PTEBG"
+  },
+  {
+   "device": "klimt",
+   "name": "Xiaomi 15T Pro",
+   "model": "2506BPN68G"
+  },
+  {
    "device": "mona",
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -233334,6 +233381,16 @@
    "device": "jinghu",
    "name": "Xiaomi Pad 7 Ultra",
    "model": "25032RP42C"
+  },
+  {
+   "device": "violin",
+   "name": "Xiaomi Pad 7S Pro 12.5",
+   "model": "25053RP5CC"
+  },
+  {
+   "device": "turner",
+   "name": "Xiaomi Pad Mini",
+   "model": "25079RPDCG"
   },
   {
    "device": "tianshan",
