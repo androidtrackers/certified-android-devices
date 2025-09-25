@@ -38774,6 +38774,13 @@
    "model": "Decaview 4K Google TV"
   }
  ],
+ "Decenta": [
+  {
+   "device": "OPS_A012_D",
+   "name": "OPS_A012_D",
+   "model": "OPS_A012_D"
+  }
+ ],
  "DeepHub": [
   {
    "device": "rk3588_t",
@@ -136691,6 +136698,13 @@
    "model": "T9S"
   }
  ],
+ "ONENZ": [
+  {
+   "device": "Smart_V26",
+   "name": "Smart V26",
+   "model": "Smart V26"
+  }
+ ],
  "ONERugged": [
   {
    "device": "M10X",
@@ -139225,6 +139239,11 @@
    "model": "CPH2693"
   },
   {
+   "device": "OP5A33",
+   "name": "A3 5G/A3i Plus 5G",
+   "model": "PKA110"
+  },
+  {
    "device": "OP5B05L1",
    "name": "A3 Pro 5G",
    "model": "CPH2665"
@@ -139498,6 +139517,11 @@
    "device": "OP5EBBL1",
    "name": "A5 Pro 5G",
    "model": "CPH2695"
+  },
+  {
+   "device": "OP5DFB",
+   "name": "A5 活力版 5G/K13x 5G",
+   "model": "PKV110"
   },
   {
    "device": "OP5EEDL1",
@@ -159477,7 +159501,17 @@
   {
    "device": "creek",
    "name": "Redmi 15",
+   "model": "25062RN2DE"
+  },
+  {
+   "device": "creek",
+   "name": "Redmi 15",
    "model": "25062RN2DL"
+  },
+  {
+   "device": "creek",
+   "name": "Redmi 15",
+   "model": "25062RN2DY"
   },
   {
    "device": "spring",
@@ -163505,6 +163539,11 @@
    "device": "groundhog",
    "name": "SMART Board® RX Series",
    "model": "SMART Board Interactive Display"
+  },
+  {
+   "device": "sherbet",
+   "name": "gxv4na",
+   "model": "SMART Board GX (V4) Plus Series NA"
   }
  ],
  "SMART_KASSEL": [
@@ -188528,11 +188567,6 @@
    "device": "e-PAD",
    "name": "e-PAD",
    "model": "e-PAD"
-  },
-  {
-   "device": "sherbet",
-   "name": "gxv4na",
-   "model": "SMART Board GX (V4) Plus Series NA"
   },
   {
    "device": "hero_A1",
@@ -218643,6 +218677,11 @@
   }
  ],
  "VOD_Horizon": [
+  {
+   "device": "Pro_Max",
+   "name": "Pro Max",
+   "model": "Pro Max"
+  },
   {
    "device": "5G_Smart_Phone",
    "name": "Web 3 Pro 8",

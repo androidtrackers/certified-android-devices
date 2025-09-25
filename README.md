@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-24
+Last sync is 2025-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7480,6 +7480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DeWALT|DeWalt md501|md501|md501|
 |Decaview|Decaview 2K Google TV|capitolhill|Decaview  2K Google TV|
 |Decaview|Decaview 4K Google TV|keoneae|Decaview 4K Google TV|
+|Decenta|OPS_A012_D|OPS_A012_D|OPS_A012_D|
 |DeepHub|DeepHub Ultimate|rk3588_t|MC480-U|
 |DeepHub|Interactive_display|mensa_an64|ST430|
 |Delephas|Chang Co.|Ltd|seocho|
@@ -26527,6 +26528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
+|ONENZ|Smart V26|Smart_V26|Smart V26|
 |ONERugged|M10X|M10X|M10X|
 |ONERugged|M10XE|M10XE|M10XE|
 |ONERugged|M185QE|M185QE|M185QE|
@@ -27013,6 +27015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A3|OP5B16L1|CPH2669|
 |Oppo|A3 5G|OP5B05L1|A402OP|
 |Oppo|A3 5G|OP5EA7L1|CPH2693|
+|Oppo|A3 5G/A3i Plus 5G|OP5A33|PKA110|
 |Oppo|A3 Pro 5G|OP5B05L1|CPH2665|
 |Oppo|A3 Pro 5G/A3 5G/A80 5G|OP5B05L1|CPH2639|
 |Oppo|A31|A31t|A31|
@@ -27068,6 +27071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5 Pro|OP5ED9L1|CPH2711|
 |Oppo|A5 Pro 5G|OP5DF3|PKP110|
 |Oppo|A5 Pro 5G|OP5EBBL1|CPH2695|
+|Oppo|A5 活力版 5G/K13x 5G|OP5DFB|PKV110|
 |Oppo|A5/A5m|OP5EEDL1|CPH2727|
 |Oppo|A51|A51|A51|
 |Oppo|A51|A51|Lava A51|
@@ -30965,7 +30969,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 14C|pond|2409BRN2CA|
 |Redmi|Redmi 14C|pond|2409BRN2CL|
 |Redmi|Redmi 14C 5G|flame|2411DRN47I|
+|Redmi|Redmi 15|creek|25062RN2DE|
 |Redmi|Redmi 15|creek|25062RN2DL|
+|Redmi|Redmi 15|creek|25062RN2DY|
 |Redmi|Redmi 15 5G|spring|25057RN09E|
 |Redmi|Redmi 15 5G|spring|25057RN09G|
 |Redmi|Redmi 15 5G|spring|25057RN09I|
@@ -31731,6 +31737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMART Technologies|SMART AMG series|komodo|SMART AMG1|
 |SMART Technologies|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
 |SMART Technologies|SMART Board® RX Series|groundhog|SMART Board Interactive Display|
+|SMART Technologies|gxv4na|sherbet|SMART Board GX (V4) Plus Series NA|
 |SMART_KASSEL|ARGENTINA|SK3402|SK3402|
 |SMART_KASSEL|SK-5503AR|SK-5503AR|SK-5503AR|
 |SMART_KASSEL|SK3403|SK3403|SK3403|
@@ -36682,7 +36689,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Smart_Hero_II|Smart_Hero_II|Smart_Hero_II|
 |Smart|am60k|komodo|SMART AM60|
 |Smart|e-PAD|e-PAD|e-PAD|
-|Smart|gxv4na|sherbet|SMART Board GX (V4) Plus Series NA|
 |Smart|hero A1|hero_A1|hero A1|
 |Smart (BD)|MQ703G|MQ703G|MQ703G|
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
@@ -42532,6 +42538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VNPT Technology|VNPTTechnology|VNTTab2|VNTTab2|
 |VNPT Technology|VNT_Tab8|VNT_Tab8|VNT_Tab8|
+|VOD_Horizon|Pro Max|Pro_Max|Pro Max|
 |VOD_Horizon|Web 3 Pro 8|5G_Smart_Phone|Pro 8|
 |VOLENTEX|M10|M10_A04|Volentex_101|
 |VOLENTEX|M10_A04_EEA|M10_A04_EEA|Volentex_101|
