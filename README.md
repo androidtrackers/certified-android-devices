@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-25
+Last sync is 2025-09-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8396,6 +8396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dreamstar|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
 |Dreamstar|Nova|YYZ|Nova|
 |Drei|ZTE 4K TV BOX CH1|B866VH_Hutchison|ZTE 4K TV BOX CH1|
+|Drkumo|KumoPal|XL100|XL100|
 |Dtac|Phone M2|dtacPhoneM2|dtacPhoneM2|
 |Dtac|Phone S2|dtacPhoneS2|dtac_Phone_S2|
 |Dtac|Phone S3|dtacPhoneS3|dtacPhoneS3|
@@ -10240,7 +10241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S8K_2|S8K_2|S8K|
 |G-Tab|S8X|S8X|S8X|
 |G-Tab|T10|T10_1|T10|
-|G-Tab|T11_1|T11_1|BBoss_1|
+|G-Tab|T11_1|T11_1|GOPAD|
 |G-Tab|T11_1|T11_1|T11|
 |G-Tab|T11_1|T11_1|T11_1|
 |G-Tab|T11_PRO|T11_PRO|T11_PRO|
@@ -13836,6 +13837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
+|Honor|X5c|HNNLA-M|NLA-LX3|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN00|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN80|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
@@ -17810,6 +17812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KENSHI|E17_RU|E17|E17|
 |KENSHI|E18_RU|E18|E18|
 |KENSHI|E28|E28|E28|
+|KENSHI|EAUBBFV_PAD|EAUBBFV_PAD|PAD|
 |KENSHI|EBUABFV_PAD|EBUABFV_PAD|PAD|
 |KENSHI|EDMDCEV_PRO|EDMDCEV_PRO|Pad Pro|
 |KENSHI|H10|H10|H10|
@@ -18013,6 +18016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|ESLEY|hongkong|4K SMART TV|
 |KTCtv|ESLEY|lavender|4K SMART TV|
 |KTCtv|ESLEY|mountbaker|2K SMART TV|
+|KTCtv|Eco Smart Monitor|kaisyuan|Eco Smart Monitor|
 |KTCtv|EcoTV Plus A|hongkong|EcoTV Plus A|
 |KTCtv|EcoTV Plus C|hongkong|EcoTV Plus C|
 |KTCtv|EcoTV Plus D|hongkong|EcoTV Plus D|
@@ -30903,6 +30907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI K80 Ultra|dali|25060RK16C|
+|Redmi|REDMI K90|annibale|2510DRK44C|
 |Redmi|REDMI Note 15|kunzite|25098RA98C|
 |Redmi|REDMI Note 15 Pro|lapis|25080RABDC|
 |Redmi|REDMI Note 15 Pro+|flourite|2510ERA8BC|
@@ -31557,6 +31562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
 |SATCO|SATCO_Y-20|Y-20|Y-20|
 |SATIR|S1_ROW|S1|S1|
+|SAWINK|M8_Max|M8_Max|M8_Max|
 |SAWINK|T10|T10|T10|
 |SBET|X7|X7|X7|
 |SCHNEIDER|Android TV|R1|ATV R1|
@@ -40342,6 +40348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|i700|i700|Tech Pad i700|
 |Techpad|k13pro|K13pro|K13pro|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
+|Techview|Techview_Tab_80_LTE|Tab_80_LTE|Tab_80_LTE|
 |Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
 |Teclast|ArtPadPro_EEA|ArtPadPro_EEA|ArtPadPro_EEA|
 |Teclast|ArtPadPro_ROW|ArtPadPro_ROW|ArtPadPro_ROW|
@@ -43770,6 +43777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z9 5G|I2218|I2218|
 |Vivo|iQOO Z9 5G|I2302|I2302|
 |Vivo|iQOO Z9 Turbo|PD2352|V2352A|
+|Vivo|iQOO Z9 Turbo 长续航版|PD2352|V2352GA|
 |Vivo|iQOO Z9 Turbo+|PD2417|V2417A|
 |Vivo|iQOO Z9s 5G|I2403|I2403|
 |Vivo|iQOO Z9s Pro 5G|I2305|I2305|
@@ -45383,6 +45391,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 15S Pro|dijun|25042PN24C|
 |Xiaomi|Xiaomi 15T|goya|25069PTEBG|
 |Xiaomi|Xiaomi 15T Pro|klimt|2506BPN68G|
+|Xiaomi|Xiaomi 15T Pro|klimt|2506BPN68R|
+|Xiaomi|Xiaomi 17|pudding|25113PN0EC|
+|Xiaomi|Xiaomi 17 Pro|pandora|25098PN5AC|
+|Xiaomi|Xiaomi 17 Pro Max|popsicle|2509FPN0BC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -45411,6 +45423,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 7 Pro|muyu|24091RPADG|
 |Xiaomi|Xiaomi Pad 7 Ultra|jinghu|25032RP42C|
 |Xiaomi|Xiaomi Pad 7S Pro 12.5|violin|25053RP5CC|
+|Xiaomi|Xiaomi Pad 8|yupei|25097RP43C|
+|Xiaomi|Xiaomi Pad 8 Pro|piano|25091RP04C|
 |Xiaomi|Xiaomi Pad Mini|turner|25079RPDCG|
 |Xiaomi|Xiaomi Smart Projector L1|tianshan|C025RGN|
 |Xiaomi|Xiaomi Smart Projector L1 Pro|tianshan|C045RGN|
@@ -46542,6 +46556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NP01J|P898P02|NP01J|
 |ZTE|NP03J|PQ83P01|NP03J|
 |ZTE|NP05J|PQ84P01|NP05J|
+|ZTE|NT01|PQ83P02|NT01|
 |ZTE|NX402|NX40X|NX402|
 |ZTE|NX403A|NX403A|NX403A|
 |ZTE|NX404H|NX404H|NX404H|
@@ -49141,6 +49156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|V2506A|PD2506|V2506A|
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
 |vivo|X Fold5|PD2436|V2436A|

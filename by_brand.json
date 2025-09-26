@@ -43494,6 +43494,13 @@
    "model": "ZTE 4K TV BOX CH1"
   }
  ],
+ "Drkumo": [
+  {
+   "device": "XL100",
+   "name": "KumoPal",
+   "model": "XL100"
+  }
+ ],
  "Dtac": [
   {
    "device": "dtacPhoneM2",
@@ -53234,7 +53241,7 @@
   {
    "device": "T11_1",
    "name": "T11_1",
-   "model": "BBoss_1"
+   "model": "GOPAD"
   },
   {
    "device": "T11_1",
@@ -71680,6 +71687,11 @@
    "device": "HNPTPX",
    "name": "PORSCHE DESIGN HONOR Magic7 RSR",
    "model": "PTP-N59"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "X5c",
+   "model": "NLA-LX3"
   },
   {
    "device": "HNDVD-Q",
@@ -91950,6 +91962,11 @@
    "model": "E28"
   },
   {
+   "device": "EAUBBFV_PAD",
+   "name": "EAUBBFV_PAD",
+   "model": "PAD"
+  },
+  {
    "device": "EBUABFV_PAD",
    "name": "EBUABFV_PAD",
    "model": "PAD"
@@ -93009,6 +93026,11 @@
    "device": "mountbaker",
    "name": "ESLEY",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "kaisyuan",
+   "name": "Eco Smart Monitor",
+   "model": "Eco Smart Monitor"
   },
   {
    "device": "hongkong",
@@ -159169,6 +159191,11 @@
    "model": "25060RK16C"
   },
   {
+   "device": "annibale",
+   "name": "REDMI K90",
+   "model": "2510DRK44C"
+  },
+  {
    "device": "kunzite",
    "name": "REDMI Note 15",
    "model": "25098RA98C"
@@ -162562,6 +162589,11 @@
   }
  ],
  "SAWINK": [
+  {
+   "device": "M8_Max",
+   "name": "M8_Max",
+   "model": "M8_Max"
+  },
   {
    "device": "T10",
    "name": "T10",
@@ -207286,6 +207318,13 @@
    "model": "TECHR720W"
   }
  ],
+ "Techview": [
+  {
+   "device": "Tab_80_LTE",
+   "name": "Techview_Tab_80_LTE",
+   "model": "Tab_80_LTE"
+  }
+ ],
  "Teclast": [
   {
    "device": "APEX_P10HD_PRO",
@@ -224964,6 +225003,11 @@
    "model": "V2352A"
   },
   {
+   "device": "PD2352",
+   "name": "iQOO Z9 Turbo 长续航版",
+   "model": "V2352GA"
+  },
+  {
    "device": "PD2417",
    "name": "iQOO Z9 Turbo+",
    "model": "V2417A"
@@ -233287,6 +233331,26 @@
    "model": "2506BPN68G"
   },
   {
+   "device": "klimt",
+   "name": "Xiaomi 15T Pro",
+   "model": "2506BPN68R"
+  },
+  {
+   "device": "pudding",
+   "name": "Xiaomi 17",
+   "model": "25113PN0EC"
+  },
+  {
+   "device": "pandora",
+   "name": "Xiaomi 17 Pro",
+   "model": "25098PN5AC"
+  },
+  {
+   "device": "popsicle",
+   "name": "Xiaomi 17 Pro Max",
+   "model": "2509FPN0BC"
+  },
+  {
    "device": "mona",
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -233425,6 +233489,16 @@
    "device": "violin",
    "name": "Xiaomi Pad 7S Pro 12.5",
    "model": "25053RP5CC"
+  },
+  {
+   "device": "yupei",
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43C"
+  },
+  {
+   "device": "piano",
+   "name": "Xiaomi Pad 8 Pro",
+   "model": "25091RP04C"
   },
   {
    "device": "turner",
@@ -239220,6 +239294,11 @@
    "device": "PQ84P01",
    "name": "NP05J",
    "model": "NP05J"
+  },
+  {
+   "device": "PQ83P02",
+   "name": "NT01",
+   "model": "NT01"
   },
   {
    "device": "NX40X",
@@ -252655,6 +252734,11 @@
    "device": "V2504",
    "name": "T4 Ultra",
    "model": "V2504"
+  },
+  {
+   "device": "PD2506",
+   "name": "V2506A",
+   "model": "V2506A"
   },
   {
    "device": "V2511",
