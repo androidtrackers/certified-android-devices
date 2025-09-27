@@ -4801,6 +4801,16 @@
    "model": "Aconatic 2K Android TV"
   },
   {
+   "device": "umeda",
+   "name": "Aconatic 2K Smart TV",
+   "model": "Aconatic 2K Smart TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "Aconatic 4K Smart TV",
+   "model": "Aconatic 4K Smart TV"
+  },
+  {
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
@@ -6173,6 +6183,11 @@
    "model": "AIWA 2K TV"
   },
   {
+   "device": "umeda",
+   "name": "AIWA FHD SMART TV",
+   "model": "AIWA FHD SMART TV"
+  },
+  {
    "device": "SW6H",
    "name": "AIWA TV",
    "model": "AIWA TV"
@@ -7034,6 +7049,11 @@
    "device": "SW4H_FF",
    "name": "ALLVIEW 4K TV",
    "model": "ALLVIEW 4K TV"
+  },
+  {
+   "device": "umeda",
+   "name": "ALLVIEW eplay  2KTV",
+   "model": "ALLVIEW eplay  2KTV"
   },
   {
    "device": "SW6H",
@@ -16185,6 +16205,11 @@
    "device": "kenton",
    "name": "BGH 4K Android TV",
    "model": "BGH 4K Android TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "BGH 4K SMART TV",
+   "model": "BGH 4K SMART TV"
   },
   {
    "device": "BGH_Joy_303",
@@ -37897,6 +37922,11 @@
    "model": "AI SMART TV"
   },
   {
+   "device": "eleonas",
+   "name": "AI SMART TV",
+   "model": "AI SMART TV"
+  },
+  {
    "device": "hongkong",
    "name": "DAEWOO",
    "model": "4K SMART TV"
@@ -37918,6 +37948,11 @@
   },
   {
    "device": "beomil",
+   "name": "DAEWOO AI SMART TV",
+   "model": "DAEWOO AI SMART TV"
+  },
+  {
+   "device": "eleonas",
    "name": "DAEWOO AI SMART TV",
    "model": "DAEWOO AI SMART TV"
   },
@@ -47121,6 +47156,16 @@
    "model": "ERGO 2K SMART TV"
   },
   {
+   "device": "eleonas",
+   "name": "ERGO 4K SMART TV",
+   "model": "ERGO 4K SMART TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "ERGO 4K SMART TV FF",
+   "model": "ERGO 4K SMART TV FF"
+  },
+  {
    "device": "B500",
    "name": "ERGO B500",
    "model": "ERGO B500 First"
@@ -47144,6 +47189,11 @@
    "device": "ERGO_V600_Vega",
    "name": "ERGO V600 Vega",
    "model": "ERGO V600 Vega"
+  },
+  {
+   "device": "umeda",
+   "name": "ERGO2KSMARTTV",
+   "model": "ERGO2KSMARTTV"
   },
   {
    "device": "SW6H",
@@ -58387,6 +58437,16 @@
   }
  ],
  "HAAM": [
+  {
+   "device": "eleonas",
+   "name": "HAAM TV 4K",
+   "model": "HAAM TV 4K"
+  },
+  {
+   "device": "eleonas",
+   "name": "HAAM TV 4K FF",
+   "model": "HAAM TV 4K FF"
+  },
   {
    "device": "R3",
    "name": "R3",
@@ -71691,7 +71751,17 @@
   {
    "device": "HNNLA-M",
    "name": "X5c",
+   "model": "NLA-LX2"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "X5c",
    "model": "NLA-LX3"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "X5c Plus",
+   "model": "NLA-LX2P"
   },
   {
    "device": "HNDVD-Q",
@@ -87837,7 +87907,17 @@
    "model": "IRIS 4K SmartTV"
   },
   {
+   "device": "eleonas",
+   "name": "IRIS 4K SmartTV",
+   "model": "IRIS 4K SmartTV"
+  },
+  {
    "device": "SW6H",
+   "name": "IRIS 4K SmartTV FF",
+   "model": "IRIS 4K SmartTV FF"
+  },
+  {
+   "device": "eleonas",
    "name": "IRIS 4K SmartTV FF",
    "model": "IRIS 4K SmartTV FF"
   },
@@ -90543,6 +90623,11 @@
    "device": "Cunda",
    "name": "JVC J20",
    "model": "J20"
+  },
+  {
+   "device": "eleonas",
+   "name": "JVC UHD TV G0325",
+   "model": "JVC UHD TV G0325"
   },
   {
    "device": "expo",
@@ -117329,9 +117414,24 @@
    "model": "MARCEL Android TV"
   },
   {
+   "device": "umeda",
+   "name": "MARCEL GSMART 2KTV",
+   "model": "MARCEL GSMART 2KTV"
+  },
+  {
    "device": "beomil",
    "name": "MARCEL GSMART5.0 2KTV",
    "model": "MARCEL GSMART5.0 2KTV"
+  },
+  {
+   "device": "eleonas",
+   "name": "MARCEL GSMART5.0 4KTV",
+   "model": "MARCEL GSMART5.0 4KTV"
+  },
+  {
+   "device": "eleonas",
+   "name": "MARCEL GSMART5.0 4KTV FF",
+   "model": "MARCEL GSMART5.0 4KTV FF"
   },
   {
    "device": "mateo",
@@ -146499,6 +146599,16 @@
    "model": "102P"
   },
   {
+   "device": "umeda",
+   "name": "2KTV-5SH",
+   "model": "2KTV-5SH"
+  },
+  {
+   "device": "umeda",
+   "name": "2KTV-5SHP",
+   "model": "2KTV-5SHP"
+  },
+  {
    "device": "DX01C",
    "name": "43DX400C",
    "model": "DX01C"
@@ -148851,6 +148961,11 @@
    "device": "T8010",
    "name": "OmniTab 1",
    "model": "T8010"
+  },
+  {
+   "device": "umeda",
+   "name": "PFT6130",
+   "model": "PFT6130"
   },
   {
    "device": "TLE722G",
@@ -182605,6 +182720,16 @@
    "model": "SANSUI SmartTV"
   },
   {
+   "device": "eleonas",
+   "name": "SANSUI TV",
+   "model": "SANSUI TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "SANSUI TV FF",
+   "model": "SANSUI TV FF"
+  },
+  {
    "device": "SW4H",
    "name": "SANSUITV UHD",
    "model": "SANSUITV UHD"
@@ -185692,6 +185817,11 @@
    "device": "shinagawa",
    "name": "SHARP 2K SMART TV",
    "model": "SHARP 2K SMART TV"
+  },
+  {
+   "device": "umeda",
+   "name": "SHARP 2K Smart TV",
+   "model": "SHARP 2K Smart TV"
   },
   {
    "device": "umeda",
@@ -195386,6 +195516,11 @@
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "eleonas",
+   "name": "Syinix TV",
+   "model": "Syinix TV"
   }
  ],
  "Symphony": [
@@ -219858,6 +219993,16 @@
    "device": "SW6H",
    "name": "VEON 4K Smart TV",
    "model": "VEON 4K Smart TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "VEON UHD TV G0325",
+   "model": "VEON UHD TV G0325"
+  },
+  {
+   "device": "eleonas",
+   "name": "VEON UHD TV G0325N",
+   "model": "VEON UHD TV G0325N"
   }
  ],
  "VerD": [
@@ -221786,6 +221931,16 @@
    "device": "marina",
    "name": "VISION 4K SMART TV",
    "model": "VISION 4K SMART TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "VISION GALAXY 4K TV",
+   "model": "VISION GALAXY 4K TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "VISION GALAXY 4K TV FF",
+   "model": "VISION GALAXY 4K TV FF"
   },
   {
    "device": "umeda",
@@ -251021,6 +251176,11 @@
    "device": "RE644C",
    "name": "realme 15x 5G",
    "model": "RMX5250"
+  },
+  {
+   "device": "umeda",
+   "name": "realme 2K G Smart TV",
+   "model": "realme 2K G Smart TV"
   },
   {
    "device": "SW6H",
