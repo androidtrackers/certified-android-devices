@@ -71044,6 +71044,21 @@
  ],
  "Honor": [
   {
+   "device": "HNMTN-Q1",
+   "name": "HONOR  Magic8 Lite",
+   "model": "MTN-NX1M"
+  },
+  {
+   "device": "HNMTN-Q1",
+   "name": "HONOR  Magic8 Lite",
+   "model": "MTN-NX3"
+  },
+  {
+   "device": "HNMTN-Q1",
+   "name": "HONOR  X9d",
+   "model": "MTN-NX1"
+  },
+  {
    "device": "HNMAA",
    "name": "HONOR 100",
    "model": "MAA-AN00"
@@ -71274,6 +71289,11 @@
    "model": "PTP-N49"
   },
   {
+   "device": "HNMTN-Q1",
+   "name": "HONOR Magic8 Lite",
+   "model": "MTN-NX1M"
+  },
+  {
    "device": "HNROD2-Q",
    "name": "HONOR MagicPad2",
    "model": "ROD2-W09"
@@ -71432,6 +71452,26 @@
    "device": "HNGFY-M",
    "name": "HONOR X5b Plus",
    "model": "GFY-LX2P"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "HONOR X5c",
+   "model": "NLA-LX2"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "HONOR X5c",
+   "model": "NLA-LX3"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "HONOR X5c Plus",
+   "model": "NLA-LX1"
+  },
+  {
+   "device": "HNNLA-M",
+   "name": "HONOR X5c Plus",
+   "model": "NLA-LX2P"
   },
   {
    "device": "HNVNE-M",
@@ -71747,21 +71787,6 @@
    "device": "HNPTPX",
    "name": "PORSCHE DESIGN HONOR Magic7 RSR",
    "model": "PTP-N59"
-  },
-  {
-   "device": "HNNLA-M",
-   "name": "X5c",
-   "model": "NLA-LX2"
-  },
-  {
-   "device": "HNNLA-M",
-   "name": "X5c",
-   "model": "NLA-LX3"
-  },
-  {
-   "device": "HNNLA-M",
-   "name": "X5c Plus",
-   "model": "NLA-LX2P"
   },
   {
    "device": "HNDVD-Q",
@@ -154833,6 +154858,11 @@
    "device": "M10_R02",
    "name": "M10_R02",
    "model": "M10_R02"
+  },
+  {
+   "device": "M10_R02_EEA",
+   "name": "M10_R02_EEA",
+   "model": "M10"
   },
   {
    "device": "M10_R02_EEA",

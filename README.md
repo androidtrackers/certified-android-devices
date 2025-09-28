@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-27
+Last sync is 2025-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13708,6 +13708,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
+|Honor|HONOR  Magic8 Lite|HNMTN-Q1|MTN-NX1M|
+|Honor|HONOR  Magic8 Lite|HNMTN-Q1|MTN-NX3|
+|Honor|HONOR  X9d|HNMTN-Q1|MTN-NX1|
 |Honor|HONOR 100|HNMAA|MAA-AN00|
 |Honor|HONOR 100 Pro|HNMAP|MAA-AN10|
 |Honor|HONOR 200|HNELI|ELI-AN00|
@@ -13754,6 +13757,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX1M|
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX3|
 |Honor|HONOR Magic7 Pro|HNPTPX|PTP-N49|
+|Honor|HONOR Magic8 Lite|HNMTN-Q1|MTN-NX1M|
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
 |Honor|HONOR MagicPad3|HNCGA-Q1|CGA-W00|
@@ -13786,6 +13790,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X5b|HNGFY-M|GFY-LX2|
 |Honor|HONOR X5b|HNGFY-M|GFY-LX3|
 |Honor|HONOR X5b Plus|HNGFY-M|GFY-LX2P|
+|Honor|HONOR X5c|HNNLA-M|NLA-LX2|
+|Honor|HONOR X5c|HNNLA-M|NLA-LX3|
+|Honor|HONOR X5c Plus|HNNLA-M|NLA-LX1|
+|Honor|HONOR X5c Plus|HNNLA-M|NLA-LX2P|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|
 |Honor|HONOR X6|HNVNE-M|VNE-LX2|
 |Honor|HONOR X6|HNVNE-M|VNE-LX3|
@@ -13849,9 +13857,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
-|Honor|X5c|HNNLA-M|NLA-LX2|
-|Honor|X5c|HNNLA-M|NLA-LX3|
-|Honor|X5c Plus|HNNLA-M|NLA-LX2P|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN00|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN80|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
@@ -30077,6 +30082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_R01|M10_R01|M10_R01|
 |Pritom|M10_R01_EEA|M10_R01_EEA|M10_R01_EEA|
 |Pritom|M10_R02|M10_R02|M10_R02|
+|Pritom|M10_R02_EEA|M10_R02_EEA|M10|
 |Pritom|M10_R02_EEA|M10_R02_EEA|M10_R02_EEA|
 |Pritom|M10_R03|M10_R03|M10_R03|
 |Pritom|M10_R04|M10_R04|M10_R04|
