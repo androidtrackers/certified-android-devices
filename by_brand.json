@@ -2594,6 +2594,11 @@
    "model": "UTBook_14"
   },
   {
+   "device": "UTBook_16",
+   "name": "UTBook_16_EEA",
+   "model": "UTBook_16"
+  },
+  {
    "device": "UTBook_EEA",
    "name": "UTBook_EEA",
    "model": "UTBook_EEA"
@@ -14414,6 +14419,11 @@
    "device": "CP31",
    "name": "CP31",
    "model": "CP31"
+  },
+  {
+   "device": "CP31",
+   "name": "CP31",
+   "model": "SXPro"
   },
   {
    "device": "CP80",
@@ -128783,6 +128793,16 @@
    "model": "motorola razr 60 ultra"
   },
   {
+   "device": "M-51F",
+   "name": "motorola razr 60d M-51F",
+   "model": "M-51E"
+  },
+  {
+   "device": "M-51F",
+   "name": "motorola razr 60d M-51F",
+   "model": "M-51F"
+  },
+  {
    "device": "zeekr",
    "name": "motorola razr plus 2023",
    "model": "motorola razr 2022"
@@ -136162,6 +136182,11 @@
    "device": "S4001W",
    "name": "NUU_A2",
    "model": "S4001W"
+  },
+  {
+   "device": "S4090LA",
+   "name": "S4090L",
+   "model": "S4090L"
   },
   {
    "device": "T1001LA",
@@ -161405,6 +161430,11 @@
    "model": "TAB10"
   },
   {
+   "device": "TAB9",
+   "name": "TAB9-E-EEA",
+   "model": "TAB9"
+  },
+  {
    "device": "TB02",
    "name": "TB02",
    "model": "TB02"
@@ -163679,13 +163709,6 @@
    "model": "S800"
   }
  ],
- "SMART TECHNOLOGY": [
-  {
-   "device": "sorbet",
-   "name": "GX1xxG-V4",
-   "model": "SMART Board GX (V4) Plus Series"
-  }
- ],
  "SMART Technologies": [
   {
    "device": "komodo",
@@ -163701,6 +163724,11 @@
    "device": "komodo",
    "name": "AMG1",
    "model": "AMG series"
+  },
+  {
+   "device": "sorbet",
+   "name": "GX1xxG-V4",
+   "model": "SMART Board GX (V4) Plus Series"
   },
   {
    "device": "komodo",
@@ -249406,6 +249434,11 @@
    "device": "PD2507",
    "name": "iQOO Z10 Turbo+",
    "model": "V2507A"
+  },
+  {
+   "device": "I2505",
+   "name": "iQOO Z10R 5G",
+   "model": "I2505"
   }
  ],
  "iQandT": [
@@ -249903,6 +249936,11 @@
    "device": "rk3588_t",
    "name": "TEXX14MIS-B2AG",
    "model": "TEXX14MIS-B2AG"
+  },
+  {
+   "device": "TEXX15A",
+   "name": "TEXX15A",
+   "model": "TEXX15A"
   }
  ],
  "imiia": [
@@ -252939,6 +252977,16 @@
    "device": "V2511",
    "name": "V60",
    "model": "V2512"
+  },
+  {
+   "device": "V2441",
+   "name": "V60 Lite",
+   "model": "V2530"
+  },
+  {
+   "device": "V2529",
+   "name": "V60 Lite 5G",
+   "model": "V2529"
   },
   {
    "device": "PD2436",

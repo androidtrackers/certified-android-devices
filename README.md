@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-09-29
+Last sync is 2025-09-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -478,6 +478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|P11_EEA|P11_EEA|P11_EEA|
 |AWOW|UTBook|UTBook|UTBook|
 |AWOW|UTBook_14|UTBook_14|UTBook_14|
+|AWOW|UTBook_16_EEA|UTBook_16|UTBook_16|
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
 |AX-META|AX_META_Tab_7|AX_META_Tab_7|AX_META_Tab_7|
 |AXEL|AX_PRO|AX_PRO|AX_PRO|
@@ -2786,6 +2787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|CP20_PRO|CP20_PRO|CP20_PRO|
 |Atozee|CP30|CP30|CP30|
 |Atozee|CP31|CP31|CP31|
+|Atozee|CP31|CP31|SXPro|
 |Atozee|CP80|CP80|CP80|
 |Atozee|CP80KS|CP80KS|CP80KS|
 |Atozee|CP81|CP81|CP81|
@@ -25013,6 +25015,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60 ultra|leap|XT2551-3|
 |Motorola|motorola razr 60 ultra|leap|motorola razr 50 ultra|
 |Motorola|motorola razr 60 ultra|leap|motorola razr 60 ultra|
+|Motorola|motorola razr 60d M-51F|M-51F|M-51E|
+|Motorola|motorola razr 60d M-51F|M-51F|M-51F|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2023|
@@ -26428,6 +26432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|NUU M4X_PRO|S5701L|S5701L|
 |Nuu|NUU R1|R5001LA|R5001L|
 |Nuu|NUU_A2|S4001W|S4001W|
+|Nuu|S4090L|S4090LA|S4090L|
 |Nuu|Tab 10|T1001LA|T1001L|
 |Nuu|Tab 10 Plus|T1005LAV1|T1005L|
 |Nuu|Tab 5|N5005LA|N5005L|
@@ -31347,6 +31352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_EUR|TAB10_EUR|TAB10|
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
 |Relndoo|TAB10_US|TAB10_US|TAB10|
+|Relndoo|TAB9-E-EEA|TAB9|TAB9|
 |Relndoo|TB02|TB02|TB02|
 |Relndoo|TB02_E|TB02_E|TB02_E|
 |Relndoo|TB02_EEA_A|TB02_EEA_A|TB02|
@@ -31765,10 +31771,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKY_Brasil|Sky Brazil|usw8052skb|SKR02|
 |SLIDER|S1000|S1000|S1000|
 |SLIDER|S800|S800|S800|
-|SMART TECHNOLOGY|GX1xxG-V4|sorbet|SMART Board GX (V4) Plus Series|
 |SMART Technologies|AM60 series|komodo|AM60 series|
 |SMART Technologies|AM60 series|komodo|SMART AM60|
 |SMART Technologies|AMG1|komodo|AMG series|
+|SMART Technologies|GX1xxG-V4|sorbet|SMART Board GX (V4) Plus Series|
 |SMART Technologies|SMART AMG series|komodo|SMART AMG1|
 |SMART Technologies|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
 |SMART Technologies|SMART Board® RX Series|groundhog|SMART Board Interactive Display|
@@ -48528,6 +48534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z10 Lite|I2502|I2502|
 |iQOO|iQOO Z10 Lite 5G|I2409|I2409|
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
+|iQOO|iQOO Z10R 5G|I2505|I2505|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
@@ -48621,6 +48628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iiyama|PLXX12U|RK3576|TEXX12MIS|
 |iiyama|TEXX13A|TEXX13A|TEXX13A|
 |iiyama|TEXX14MIS-B2AG|rk3588_t|TEXX14MIS-B2AG|
+|iiyama|TEXX15A|TEXX15A|TEXX15A|
 |imiia|4K Smart TV|gangbyeon|imiia 4K AI Smart TV|
 |imiia|4K Smart TV|pioneer|4K PA Smart TV|
 |imiia|Smart TV|mateo|2K PA Smart TV|
@@ -49197,6 +49205,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V2506A|PD2506|V2506A|
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
+|vivo|V60 Lite|V2441|V2530|
+|vivo|V60 Lite 5G|V2529|V2529|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
