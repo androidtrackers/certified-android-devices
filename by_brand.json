@@ -182304,11 +182304,6 @@
    "model": "SM-F966Z"
   },
   {
-   "device": "q7q",
-   "name": "Galaxy Z Fold7",
-   "model": "SM-W9026"
-  },
-  {
    "device": "YP-GB70D",
    "name": "Galaxy player 70 Plus",
    "model": "YP-GB70D"
@@ -182607,6 +182602,11 @@
    "device": "b6q",
    "name": "心系天下 三星 W25 Flip",
    "model": "SM-W7025"
+  },
+  {
+   "device": "q7q",
+   "name": "心系天下 三星 W26",
+   "model": "SM-W9026"
   },
   {
    "device": "venenoltechn",
@@ -190247,6 +190247,26 @@
    "device": "XQ-ES72",
    "name": "Xperia 10 VI",
    "model": "XQ-ES72"
+  },
+  {
+   "device": "SO-52F",
+   "name": "Xperia 10 VII",
+   "model": "SO-52F"
+  },
+  {
+   "device": "XQ-FE",
+   "name": "Xperia 10 VII",
+   "model": "A502SO"
+  },
+  {
+   "device": "XQ-FE",
+   "name": "Xperia 10 VII",
+   "model": "SOG16"
+  },
+  {
+   "device": "XQ-FE",
+   "name": "Xperia 10 VII",
+   "model": "XQ-FE44"
   },
   {
    "device": "XQ-FE",

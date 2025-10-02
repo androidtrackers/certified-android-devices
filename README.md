@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-01
+Last sync is 2025-10-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -35466,7 +35466,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold7|q7q|SM-F966U1|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966W|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966Z|
-|Samsung|Galaxy Z Fold7|q7q|SM-W9026|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -35527,6 +35526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|心系天下 三星 W23 Flip|e4q|SM-W7023|
 |Samsung|心系天下 三星 W25|q6aq|SM-W9025|
 |Samsung|心系天下 三星 W25 Flip|b6q|SM-W7025|
+|Samsung|心系天下 三星 W26|q7q|SM-W9026|
 |Samsung|领世旗舰8|venenoltechn|SM-G9298|
 |Samtech|MID_M1023|MID_M1023|MID_M10|
 |Samtech|MID_M1023_EEA|MID_M1023_EEA|MID_M10|
@@ -37013,6 +37013,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 VI|XQ-ES44|XQ-ES44|
 |Sony|Xperia 10 VI|XQ-ES54|XQ-ES54|
 |Sony|Xperia 10 VI|XQ-ES72|XQ-ES72|
+|Sony|Xperia 10 VII|SO-52F|SO-52F|
+|Sony|Xperia 10 VII|XQ-FE|A502SO|
+|Sony|Xperia 10 VII|XQ-FE|SOG16|
+|Sony|Xperia 10 VII|XQ-FE|XQ-FE44|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE54|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE72|
 |Sony|Xperia 5|901SO|901SO|
