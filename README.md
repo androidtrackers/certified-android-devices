@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-07
+Last sync is 2025-10-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11043,6 +11043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel|sailfish|Pixel|
 |Google|Pixel 10|frankel|Pixel 10|
 |Google|Pixel 10 Pro|blazer|Pixel 10 Pro|
+|Google|Pixel 10 Pro Fold|rango|Pixel 10 Pro Fold|
 |Google|Pixel 10 Pro XL|mustang|Pixel 10 Pro XL|
 |Google|Pixel 2|walleye|Pixel 2|
 |Google|Pixel 2 XL|taimen|Pixel 2 XL|
@@ -46386,6 +46387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|C880S|V_P635N34|ZTE C880S|
 |ZTE|C880U|P635V32|ZTE C880U|
 |ZTE|CELL C EMPIRE E8|P635F50|CELL C EMPIRE E8|
+|ZTE|Cepter Nivo V2|P606F17|Z2458|
 |ZTE|Chapel|chapel|Z831|
 |ZTE|China Mobile Forerunner X1|P855A23|CMCC M970|
 |ZTE|ConeXis A1|ZTE_BLADE_L110|ConeXis A1|
@@ -47571,6 +47573,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia V60|P616F02|Z2356|
 |ZTE|nubia V60 Design|P606F10|Z2350|
 |ZTE|nubia V70 Design|P606F17|Z2458|
+|ZTE|nubia V70 Max|P606F19|Z2467|
 |ZTE|nubia Z5|NX501|nubia Z5|
 |ZTE|nubia Z50 Ultra|PQ82A11|NX712J|
 |ZTE|nubia Z50S Pro|PQ82A02|NX713J|

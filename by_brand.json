@@ -57451,6 +57451,11 @@
    "model": "Pixel 10 Pro"
   },
   {
+   "device": "rango",
+   "name": "Pixel 10 Pro Fold",
+   "model": "Pixel 10 Pro Fold"
+  },
+  {
    "device": "mustang",
    "name": "Pixel 10 Pro XL",
    "model": "Pixel 10 Pro XL"
@@ -238444,6 +238449,11 @@
    "model": "CELL C EMPIRE E8"
   },
   {
+   "device": "P606F17",
+   "name": "Cepter Nivo V2",
+   "model": "Z2458"
+  },
+  {
    "device": "chapel",
    "name": "Chapel",
    "model": "Z831"
@@ -244367,6 +244377,11 @@
    "device": "P606F17",
    "name": "nubia V70 Design",
    "model": "Z2458"
+  },
+  {
+   "device": "P606F19",
+   "name": "nubia V70 Max",
+   "model": "Z2467"
   },
   {
    "device": "NX501",
