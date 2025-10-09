@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-08
+Last sync is 2025-10-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2898,6 +2898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AvidPad|A30|A30|A30|
 |AvidPad|A30PRO|A30PRO|A30PRO|
 |AvidPad|A60|A60|A60|
+|AvidPad|A60|A60|S28 ultra|
 |AvidPad|S30|S30|S30|
 |AvidPad|S60|S60|S60|
 |AvidPad|S80|S80|S80|
@@ -7483,6 +7484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dcode|DS_CL4_Lite|DS_CL4_Lite|DS-CL4 Lite|
 |Dcode|DS_CL4_Lite_C|DS_CL4_Lite|DS-CL4 Lite|
 |Dcode|DS_CL4_Pro|DS_CL4_Pro|DS-CL4 Pro|
+|Dcode|DS_CL_X|DS_CL_X|Cygnal X|
 |Dcolor|Dcolor|YHT|Dcolor GD2|
 |Dcolor|GD1 4K|YUL|GD1 4K|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
@@ -8694,6 +8696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|X650_tigo|X650|X650|
 |EPIKONE|X655|X655|X655|
 |EPIKONE|k503|K503|K503|
+|EPSON-PowerBoard_Pro|Epson India Private Limited|Interactive_Display|EI-XXXXP|
 |EQUINOXE|Europe|martin|SE 2K Android Monitor|
 |ER-Telecom|Movix Pro Voice|SEI700ER|Movix Pro Voice|
 |ESI Enterprises|CKT3|CKT3|CKT3|
@@ -16093,6 +16096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
 |IQ Touch|iMax_EC1053|iMax_EC1053|iMax_EC1053|
+|IQTOUCH|IQTOUCH|t7_an400|QA_Series|
 |IQU(SZ)|IQUSMARTEASYT10W|IQUSMARTEASYT10W|IQU SmartEasy T10w|
 |IQU(SZ)|IQUSMARTEASYT10W|IQUSMARTEASYT10W|IQUSMARTEASYT10W|
 |IQU_GROUP|IQUSMARTEASYT8W|IQUSMARTEASYT8W|IQU SMARTEasy T8w|
@@ -21927,6 +21931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lincplus|T3_US|T3_US|T3_US|
 |Lincplus|T4|T4|T4|
 |Lincplus|T4_EU|T4_EU|T4_EU|
+|LinkNet|One Stream+|vsb3918_apac|OneStream-VSB-001|
 |LinkNet|SH960C-LN|SH960C-LN|SH960C-LN|
 |LinkNet|ST950I-LN|ST950I-LN|ST950I-LN|
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
@@ -32149,6 +32154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11_pro_EEA|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
+|SVITOO|TAB_P10|TAB_P10|TAB_P10|
 |SVITOO|TAB_P12_EEA|TAB_P12|TAB P12|
 |SWACONNECT|SWA310|SWA310|SWA310|
 |SWACONNECT|SWA310_NEU|SWA310|BCGA92|
@@ -48332,6 +48338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iData|iData T1S|iData_T1S|iData T1S|
 |iData|iData T2|iData_T2|iData_T2|
 |iData|iData T3 Pro|T3_Pro|T3_Pro|
+|iData|iData T5|iDataT5|iData T5|
 |iData|iData i2|i2|iData i2|
 |iData|iData i3|i3|iData i3|
 |iData|iDataT2|iDataT2|iDataT2|
@@ -49221,6 +49228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y04e|V2430|V2532|
 |vivo|Y21d|V2520|V2520|
 |vivo|Y21d|V2520|V2524|
+|vivo|Y21d|V2520|V2525|
 |vivo|Y21d|V2520|V2535|
 |vivo|Y21d|V2520|V2560|
 |vivo|Y31 5G|V2521L|V2521|

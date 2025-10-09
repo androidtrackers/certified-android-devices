@@ -14994,6 +14994,11 @@
    "model": "A60"
   },
   {
+   "device": "A60",
+   "name": "A60",
+   "model": "S28 ultra"
+  },
+  {
    "device": "S30",
    "name": "S30",
    "model": "S30"
@@ -38779,6 +38784,11 @@
    "device": "DS_CL4_Pro",
    "name": "DS_CL4_Pro",
    "model": "DS-CL4 Pro"
+  },
+  {
+   "device": "DS_CL_X",
+   "name": "DS_CL_X",
+   "model": "Cygnal X"
   }
  ],
  "Dcolor": [
@@ -45092,6 +45102,13 @@
    "device": "K503",
    "name": "k503",
    "model": "K503"
+  }
+ ],
+ "EPSON-PowerBoard_Pro": [
+  {
+   "device": "Interactive_Display",
+   "name": "Epson India Private Limited",
+   "model": "EI-XXXXP"
   }
  ],
  "EQUINOXE": [
@@ -83085,6 +83102,13 @@
    "model": "iMax_EC1053"
   }
  ],
+ "IQTOUCH": [
+  {
+   "device": "t7_an400",
+   "name": "IQTOUCH",
+   "model": "QA_Series"
+  }
+ ],
  "IQU(SZ)": [
   {
    "device": "IQUSMARTEASYT10W",
@@ -112916,6 +112940,11 @@
   }
  ],
  "LinkNet": [
+  {
+   "device": "vsb3918_apac",
+   "name": "One Stream+",
+   "model": "OneStream-VSB-001"
+  },
   {
    "device": "SH960C-LN",
    "name": "SH960C-LN",
@@ -165691,6 +165720,11 @@
    "device": "SVITOO_P10",
    "name": "SVITOO_P10",
    "model": "P10"
+  },
+  {
+   "device": "TAB_P10",
+   "name": "TAB_P10",
+   "model": "TAB_P10"
   },
   {
    "device": "TAB_P12",
@@ -248390,6 +248424,11 @@
    "model": "T3_Pro"
   },
   {
+   "device": "iDataT5",
+   "name": "iData T5",
+   "model": "iData T5"
+  },
+  {
    "device": "i2",
    "name": "iData i2",
    "model": "iData i2"
@@ -253057,6 +253096,11 @@
    "device": "V2520",
    "name": "Y21d",
    "model": "V2524"
+  },
+  {
+   "device": "V2520",
+   "name": "Y21d",
+   "model": "V2525"
   },
   {
    "device": "V2520",
