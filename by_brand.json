@@ -17808,6 +17808,11 @@
    "model": "ORBIT_67_TG06"
   },
   {
+   "device": "Bmobile_ORION_TG05",
+   "name": "ORION_TG05",
+   "model": "ORION_TG05"
+  },
+  {
    "device": "Bmobile_SPEED5",
    "name": "Speed 5",
    "model": "Speed 5"
@@ -25371,6 +25376,11 @@
    "device": "Benji",
    "name": "Benji",
    "model": "Benji"
+  },
+  {
+   "device": "Bmobile_ORION_TG07",
+   "name": "ORION TG07",
+   "model": "ORION_TG07"
   }
  ],
  "Booken": [
@@ -59380,6 +59390,11 @@
  ],
  "HOLO": [
   {
+   "device": "A20",
+   "name": "A20",
+   "model": "A20"
+  },
+  {
    "device": "VE1983",
    "name": "USA",
    "model": "VE1983"
@@ -68116,6 +68131,11 @@
    "device": "HS6580MT",
    "name": "Hisense T965",
    "model": "Hisense T965"
+  },
+  {
+   "device": "hirano",
+   "name": "Hisense TV",
+   "model": "Hisense TV"
   },
   {
    "device": "hirano",
@@ -105562,6 +105582,11 @@
   },
   {
    "device": "himalaya",
+   "name": "Lumio Arc 5",
+   "model": "Lumio Arc 5"
+  },
+  {
+   "device": "himalaya",
    "name": "Lumio Arc 7",
    "model": "Lumio Arc 7"
   }
@@ -135929,6 +135954,11 @@
    "model": "NX779J"
   },
   {
+   "device": "P606F20",
+   "name": "Z2472",
+   "model": "Z2472"
+  },
+  {
    "device": "P616F03",
    "name": "nubia Focus",
    "model": "Z2455"
@@ -138932,6 +138962,11 @@
    "model": "T7"
   },
   {
+   "device": "oversea_v",
+   "name": "OneScreen Titan",
+   "model": "Titan"
+  },
+  {
    "device": "OneScreen_Core",
    "name": "OneScreen_Core",
    "model": "Core"
@@ -141303,6 +141338,11 @@
    "device": "OP5DA8L1",
    "name": "OPPO Pad 3 Pro",
    "model": "OPD2402"
+  },
+  {
+   "device": "OP6542L1",
+   "name": "OPPO Pad 5",
+   "model": "OPD2506"
   },
   {
    "device": "OP5225",
@@ -151321,6 +151361,11 @@
    "device": "POLYTRON_R250A",
    "name": "POLYTRON R250A",
    "model": "POLYTRON R250A"
+  },
+  {
+   "device": "hirano",
+   "name": "POLYTRON2K",
+   "model": "POLYTRON2K"
   },
   {
    "device": "lushan",
@@ -193233,6 +193278,21 @@
    "model": "Ultra 8i"
   },
   {
+   "device": "Sparx_Neo_15",
+   "name": "Sparx_Neo_15",
+   "model": "Sparx Neo 15"
+  },
+  {
+   "device": "Sparx_Neo_15",
+   "name": "Sparx_Neo_15",
+   "model": "Sparx_Neo_15"
+  },
+  {
+   "device": "Sparx_Neo_15_Pro",
+   "name": "Sparx_Neo_15_Pro",
+   "model": "Sparx_Neo_15_Pro"
+  },
+  {
    "device": "Ultra_11",
    "name": "Ultra 11",
    "model": "Ultra 11"
@@ -196904,6 +196964,11 @@
    "device": "G13",
    "name": "G13_2K_GB",
    "model": "Smart TV"
+  },
+  {
+   "device": "G15",
+   "name": "G15_4K_GB",
+   "model": "Smart TV Pro"
   },
   {
    "device": "G16",
@@ -210954,6 +211019,11 @@
    "device": "TECNO-BG6m",
    "name": "TECNO SPARK Go 2025",
    "model": "TECNO BG6m"
+  },
+  {
+   "device": "TECNO-KN3",
+   "name": "TECNO SPARK Go 3",
+   "model": "TECNO KN3"
   },
   {
    "device": "TECNO-KM8",

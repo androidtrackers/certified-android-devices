@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-09
+Last sync is 2025-10-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3442,6 +3442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|NOVUS65|Bmobile_Novus_65_MV03|Novus_65|
 |BMobile|Nobu A55 Pro|Azumi_NA55_Pro|NOBU A55 PRO|
 |BMobile|ORBIT_67|Bmobile_ORBIT_67_TG06|ORBIT_67_TG06|
+|BMobile|ORION_TG05|Bmobile_ORION_TG05|ORION_TG05|
 |BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
 |BMobile|T70|Bmobile_T70|Bmobile_T70|
 |BMobile|ULTRA S|Bmobile_ULTRA_S_MV03|ULTRA_S|
@@ -4921,6 +4922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluslate|Bluslate9|Bluslate9|Bluslate9|
 |Bmobility|Belle|Belle|Belle|
 |Bmobility|Benji|Benji|Benji|
+|Bmobility|ORION TG07|Bmobile_ORION_TG07|ORION_TG07|
 |Booken|Cybook Tablet|cybtt10_bk|Cybook-Tablet|
 |Boost|Cabana|Cabana|Cabana|
 |Boost|Cabana|Cabana_D001|Cabana|
@@ -11406,6 +11408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HMD|M-KOPA X2|LGD|M-KOPA X2|
 |HMD|M-KOPA X20|LGR|M-KOPA X20|
 |HMR NETWORKS|HMR NETWORKS (PTY) LTD|HMR5012|HMR5012|
+|HOLO|A20|A20|A20|
 |HOLO|USA|VE1983|VE1983|
 |HOLO|VE0319|VE0319|VE0319|
 |HOLO|X10|X10|X10|
@@ -13128,6 +13131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense T5|HS6737MT|Hisense T5|
 |Hisense|Hisense T5 Pro|HS6737MT|Hisense T5 Pro|
 |Hisense|Hisense T965|HS6580MT|Hisense T965|
+|Hisense|Hisense TV|hirano|Hisense TV|
 |Hisense|Hisense TV HK|hirano|Hisense TV HK|
 |Hisense|Hisense U3 2021|HLTE100E_20|Hisense U3 2021|
 |Hisense|Hisense U3 2021|HLTE100E_21|Hisense U3 2021|
@@ -20477,6 +20481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
 |LUMIO|LUMIO|khardi|LUMIO VISION|
+|LUMIO|Lumio Arc 5|himalaya|Lumio Arc 5|
 |LUMIO|Lumio Arc 7|himalaya|Lumio Arc 7|
 |LUMOS|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|LUMOS_TABLET_PRO|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
@@ -26381,6 +26386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nubia|NX501|NX501|NX501|
 |Nubia|NX503A|NX503A|NX503A|
 |Nubia|REDMAGIC 10 Air|PQ83A06|NX779J|
+|Nubia|Z2472|P606F20|Z2472|
 |Nubia|nubia Focus|P616F03|Z2455|
 |Nubia|nubia_NB1001|nubia_NB1001-UN|nubia_NB1001|
 |Nubio_Lite|N2 Lite|LS032I|LS032I|
@@ -26956,6 +26962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|一加平板Pro|OP5D77L1|OPD2404|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |OneScreen|OneScreen T7|rk3588_t|T7|
+|OneScreen|OneScreen Titan|oversea_v|Titan|
 |OneScreen|OneScreen_Core|OneScreen_Core|Core|
 |OneScreen|Wandr_W1|Wandr|OneScreen Wandr|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
@@ -27427,6 +27434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 3|OP618BL1|OPD2406|
 |Oppo|OPPO Pad 3 Pro|OP5D76L1|OPD2401|
 |Oppo|OPPO Pad 3 Pro|OP5DA8L1|OPD2402|
+|Oppo|OPPO Pad 5|OP6542L1|OPD2506|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
@@ -29383,6 +29391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polytron|POLYTRON R2509|POLYTRON_R2509|POLYTRON R2509|
 |Polytron|POLYTRON R2509SE|POLYTRON_R2509SE|POLYTRON R2509SE|
 |Polytron|POLYTRON R250A|POLYTRON_R250A|POLYTRON R250A|
+|Polytron|POLYTRON2K|hirano|POLYTRON2K|
 |Polytron|POLYTRON4K|lushan|POLYTRON4K|
 |Polytron|POLYTRON_T553|POLYTRON_T553|POLYTRON_T553|
 |Polytron|PRIME A8|POLYTRON_A552|A552|
@@ -37605,6 +37614,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SparX|Sparx Neo 8i|Neo_8_Plus|Sparx Neo 8i|
 |SparX|Sparx Neo 9i|Neo_8_Plus|Sparx Neo 9i|
 |SparX|Sparx Ultra 8i|Ultra_8i|Ultra 8i|
+|SparX|Sparx_Neo_15|Sparx_Neo_15|Sparx Neo 15|
+|SparX|Sparx_Neo_15|Sparx_Neo_15|Sparx_Neo_15|
+|SparX|Sparx_Neo_15_Pro|Sparx_Neo_15_Pro|Sparx_Neo_15_Pro|
 |SparX|Ultra 11|Ultra_11|Ultra 11|
 |SparX|Ultra 8|Ultra8|Ultra 8|
 |SparX|Ultra 8|Ultra_8|Ultra 8|
@@ -38308,6 +38320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G10_4K_GB_NF|G10|Smart TV|
 |TCL|G10_4K_US|G10|Smart TV Pro|
 |TCL|G13_2K_GB|G13|Smart TV|
+|TCL|G15_4K_GB|G15|Smart TV Pro|
 |TCL|G16_4K_US|G16|Smart TV Pro|
 |TCL|GL TCL|Titan_Vis_Wifi|9494G|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
@@ -41074,6 +41087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6|
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6s|
 |Tecno|TECNO SPARK Go 2025|TECNO-BG6m|TECNO BG6m|
+|Tecno|TECNO SPARK Go 3|TECNO-KN3|TECNO KN3|
 |Tecno|TECNO SPARK Go 5G|TECNO-KM8|TECNO KM8|
 |Tecno|TECNO SPARK Slim|TECNO-KM7k|TECNO KM7k|
 |Tecno|TECNO SPARK Slim 5G|TECNO-KM9|TECNO KM9|
