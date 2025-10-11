@@ -90501,6 +90501,11 @@
   {
    "device": "expo",
    "name": "JVC",
+   "model": "JVCTV 4K"
+  },
+  {
+   "device": "expo",
+   "name": "JVC",
    "model": "JVCUS 4K TV"
   },
   {
@@ -140790,6 +140795,16 @@
    "model": "CPH2705"
   },
   {
+   "device": "OP5F19L1",
+   "name": "F31 Pro 5G",
+   "model": "CPH2763"
+  },
+  {
+   "device": "OP5F15L1",
+   "name": "F31 Pro+ 5G",
+   "model": "CPH2757"
+  },
+  {
    "device": "CPH1819",
    "name": "F7",
    "model": "CPH1819"
@@ -148774,6 +148789,13 @@
    "device": "T9",
    "name": "T9",
    "model": "T9"
+  }
+ ],
+ "Permaray": [
+  {
+   "device": "DZ-RK3588",
+   "name": "Permaray-IFPD",
+   "model": "Permaray-IFPD"
   }
  ],
  "Perseo TV": [
@@ -186249,6 +186271,11 @@
    "device": "lcd_xxbel7a_c",
    "name": "lcd_xxbel7a_c",
    "model": "LCD-xxBEL7A-C"
+  },
+  {
+   "device": "maniatika",
+   "name": "sharp",
+   "model": "SHARP 4K UHDTV"
   },
   {
    "device": "VN3N",

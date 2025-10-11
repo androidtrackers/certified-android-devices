@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-10
+Last sync is 2025-10-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17537,6 +17537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|elliniko|4K SMART TV|
 |JVC|JVC|expo|JVCPA 4KAndroid TV|
 |JVC|JVC|expo|JVCSA 4KGoogle TV|
+|JVC|JVC|expo|JVCTV 4K|
 |JVC|JVC|expo|JVCUS 4K TV|
 |JVC|JVC|hongkong|JVC 4K ATSC TV|
 |JVC|JVC|hongkong|JVC 4K DVB TV|
@@ -27324,6 +27325,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F1w|F1f|F1w|
 |Oppo|F25 Pro 5G|OP5A0BL1|CPH2603|
 |Oppo|F29 Pro 5G|OP5ECFL1|CPH2705|
+|Oppo|F31 Pro 5G|OP5F19L1|CPH2763|
+|Oppo|F31 Pro+ 5G|OP5F15L1|CPH2757|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
 |Oppo|F9|CPH1823|CPH1823|
@@ -28886,6 +28889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T7|T7|T7|
 |Performance|T9|T9|T9|
+|Permaray|Permaray-IFPD|DZ-RK3588|Permaray-IFPD|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Android TV|ikebukuro|AI PONT|
 |Philco|Android TV|sindorim|AI PONT|
@@ -36239,6 +36243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|dtab d-41A|d-41A|d-41A|
 |Sharp|dtab d-51C|d-51C|d-51C|
 |Sharp|lcd_xxbel7a_c|lcd_xxbel7a_c|LCD-xxBEL7A-C|
+|Sharp|sharp|maniatika|SHARP 4K UHDTV|
 |Sharp|z3|VN3N|FS8009|
 |Sharp|シンプルスマホ３|SG509SH|509SH|
 |Sharp|シンプルスマホ４|SG704SH|704SH|
