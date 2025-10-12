@@ -82553,6 +82553,13 @@
    "model": "PORTUGAL"
   }
  ],
+ "INGSCREEN": [
+  {
+   "device": "IS_Panel",
+   "name": "IS-Pro-Series",
+   "model": "IS-Pro-Series"
+  }
+ ],
  "INNOCN": [
   {
    "device": "32S1U_Pro",

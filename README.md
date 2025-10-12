@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-11
+Last sync is 2025-10-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15991,6 +15991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INFINITON|Infiniton|shilin|Infiniton4KAndroidTV|
 |INFINITON|SPAIN|MOROCCO|PORTUGAL|
 |INFINITON|SPAIN|MOROCCO|PORTUGAL|
+|INGSCREEN|IS-Pro-Series|IS_Panel|IS-Pro-Series|
 |INNOCN|32S1U Pro|32S1U_Pro|32S1U_Pro|
 |INNOCN|32S1U_Pro|32S1U_Pro|32S1U_Pro|
 |INNOCN|32S2U_Pro|32S2U_Pro|32S2U Pro|
