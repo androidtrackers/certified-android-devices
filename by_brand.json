@@ -17875,6 +17875,13 @@
    "model": "BPad_10_4G"
   }
  ],
+ "BNE(TW)": [
+  {
+   "device": "GCU5AC0D",
+   "name": "4KS1",
+   "model": "4KS1"
+  }
+ ],
  "BODYCRAFT": [
   {
    "device": "CONNECT_22",
@@ -47084,14 +47091,14 @@
    "model": "HB72"
   },
   {
-   "device": "ooty",
-   "name": "EF-62",
-   "model": "HB79"
-  },
-  {
    "device": "kodaikanal",
    "name": "EF-71",
    "model": "HB73"
+  },
+  {
+   "device": "ooty",
+   "name": "EF-71",
+   "model": "HB79"
   },
   {
    "device": "kodaikanal",
@@ -53319,6 +53326,11 @@
    "device": "S8X",
    "name": "S8X",
    "model": "S8X"
+  },
+  {
+   "device": "T10_1",
+   "name": "T10",
+   "model": "GOPAD"
   },
   {
    "device": "T10_1",
@@ -148771,6 +148783,11 @@
    "model": "Smart-Ex03"
   },
   {
+   "device": "Smart-Ex203",
+   "name": "Smart-Ex 203",
+   "model": "Smart-Ex203"
+  },
+  {
    "device": "Tab-IND10AND",
    "name": "Tab-IND 10 AND",
    "model": "Tab-IND 10 AND"
@@ -208405,6 +208422,11 @@
   {
    "device": "P50_B_EEA",
    "name": "P50_B_EEA",
+   "model": "P50"
+  },
+  {
+   "device": "P50_B_EEA",
+   "name": "P50_B_EEA",
    "model": "P50_B"
   },
   {
@@ -251147,6 +251169,11 @@
    "device": "RE60ADL1",
    "name": "RMX5061",
    "model": "RMX5061"
+  },
+  {
+   "device": "RE6444L1",
+   "name": "RMX5111",
+   "model": "RMX5111"
   },
   {
    "device": "RE60B8",

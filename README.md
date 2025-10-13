@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-12
+Last sync is 2025-10-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3455,6 +3455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|X11|Bmobile_X11|Bmobile X11|
 |BNCF|BPad|BPad|BPad|
 |BNCF|BPad_10_4G|BPad_10_4G|BPad_10_4G|
+|BNE(TW)|4KS1|GCU5AC0D|4KS1|
 |BODYCRAFT|M1_IC0_N702_BC|CONNECT_22|CONNECT_22|
 |BOLVA|B_TAB1021|B_TAB1021|B_TAB1021|
 |BOREAL|Android TV|R1|ATV R1|
@@ -9066,8 +9067,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|EF-12/EH-LS300|sti6200d101|Projector|
 |Epson|EF-61|ooty|HB72|
-|Epson|EF-62|ooty|HB79|
 |Epson|EF-71|kodaikanal|HB73|
+|Epson|EF-71|ooty|HB79|
 |Epson|EF-72|kodaikanal|HB76|
 |Epson|EH-LS650|sti6290d101|projector|
 |Epson|EH-LS670|kasauli|HB82|
@@ -10257,6 +10258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S8K_1|S8K_1|S8K|
 |G-Tab|S8K_2|S8K_2|S8K|
 |G-Tab|S8X|S8X|S8X|
+|G-Tab|T10|T10_1|GOPAD|
 |G-Tab|T10|T10_1|T10|
 |G-Tab|T11_1|T11_1|GOPAD|
 |G-Tab|T11_1|T11_1|T11|
@@ -28885,6 +28887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
 |Pepperl+Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
+|Pepperl+Fuchs|Smart-Ex 203|Smart-Ex203|Smart-Ex203|
 |Pepperl+Fuchs|Tab-IND 10 AND|Tab-IND10AND|Tab-IND 10 AND|
 |Pepperl+Fuchs|oona22|oona2W22|oona2W22|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
@@ -40563,6 +40566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50Mini_ROW|P50Mini_ROW|P50Mini_ROW|
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
+|Teclast|P50_B_EEA|P50_B_EEA|P50|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B_EEA|
 |Teclast|P50_EEA|P50|P50_EEA|
@@ -48851,6 +48855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|RMX5000|RE6066L1|RMX5000|
 |realme|RMX5061|RE60ADL1|RMX5061|
+|realme|RMX5111|RE6444L1|RMX5111|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
 |realme|Smart TV|mateo|2K PA Smart TV|
