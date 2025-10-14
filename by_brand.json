@@ -2599,6 +2599,11 @@
    "model": "UTBook_16"
   },
   {
+   "device": "UTBook_16",
+   "name": "UTBook_16_US",
+   "model": "UTBook_16"
+  },
+  {
    "device": "UTBook_EEA",
    "name": "UTBook_EEA",
    "model": "UTBook_EEA"
@@ -20150,6 +20155,13 @@
    "device": "B20X",
    "name": "B20X",
    "model": "B20X"
+  }
+ ],
+ "BesDW": [
+  {
+   "device": "BesDW_Note_15",
+   "name": "Note 15",
+   "model": "Note 15"
   }
  ],
  "Best Buy": [
@@ -47092,7 +47104,7 @@
   },
   {
    "device": "kodaikanal",
-   "name": "EF-71",
+   "name": "EF-62",
    "model": "HB73"
   },
   {
@@ -58727,6 +58739,11 @@
    "device": "HA10Kids",
    "name": "HA10Kids",
    "model": "HA10Kids"
+  },
+  {
+   "device": "HT10Pro",
+   "name": "HT10Pro",
+   "model": "HT10Pro"
   }
  ],
  "HDC S.A.": [
@@ -58810,6 +58827,11 @@
    "device": "F7",
    "name": "F7",
    "model": "F7"
+  },
+  {
+   "device": "F8",
+   "name": "F8",
+   "model": "Titan 1"
   },
   {
    "device": "Fpad1",
@@ -110710,6 +110732,11 @@
    "model": "Lenovo TB-8X04F"
   },
   {
+   "device": "A401LV",
+   "name": "Lenovo TAB8",
+   "model": "A401LV"
+  },
+  {
    "device": "TB-8304F1",
    "name": "Lenovo TB-8304F1",
    "model": "Lenovo TB-8304F1"
@@ -149918,6 +149945,11 @@
    "model": "jupiter"
   },
   {
+   "device": "PDTV-Combo-Box",
+   "name": "DTP9762",
+   "model": "DTP9762"
+  },
+  {
    "device": "NVF_0068ZY",
    "name": "Navigation",
    "model": "jupiter"
@@ -159353,6 +159385,11 @@
  ],
  "RebotAi": [
   {
+   "device": "A10_PRO",
+   "name": "A10_PRO",
+   "model": "A10_PRO"
+  },
+  {
    "device": "A11_EEA",
    "name": "A11_EEA",
    "model": "A11_EEA"
@@ -161557,6 +161594,11 @@
   {
    "device": "TAB9",
    "name": "TAB9-E-EEA",
+   "model": "TAB9"
+  },
+  {
+   "device": "TAB9",
+   "name": "TAB9-US",
    "model": "TAB9"
   },
   {
@@ -196650,6 +196692,11 @@
    "model": "T20"
   },
   {
+   "device": "T60",
+   "name": "T60_NEU",
+   "model": "T60"
+  },
+  {
    "device": "T90",
    "name": "T90_EEA",
    "model": "T90"
@@ -210355,6 +210402,11 @@
    "device": "TECNO-K9",
    "name": "TECNO K9",
    "model": "TECNO K9"
+  },
+  {
+   "device": "TECNO-T1102",
+   "name": "TECNO MEGAPAD  SE",
+   "model": "TECNO T1102"
   },
   {
    "device": "TECNO-T1101",
@@ -231916,6 +231968,21 @@
    "model": "WK03C"
   },
   {
+   "device": "kasol",
+   "name": "HORIZON 20",
+   "model": "XR13A"
+  },
+  {
+   "device": "kasol",
+   "name": "HORIZON 20 Max",
+   "model": "XR16A"
+  },
+  {
+   "device": "kasol",
+   "name": "HORIZON 20 Pro",
+   "model": "XR14A"
+  },
+  {
    "device": "xgimiapollo",
    "name": "Halo",
    "model": "Halo"
@@ -253149,6 +253216,16 @@
    "model": "PA2553"
   },
   {
+   "device": "DPD2345",
+   "name": "Pad5e",
+   "model": "PA2455"
+  },
+  {
+   "device": "DPD2345",
+   "name": "Pad5e",
+   "model": "PA2535"
+  },
+  {
    "device": "PD2464",
    "name": "S30",
    "model": "V2464A"
@@ -253194,6 +253271,11 @@
    "model": "V2529"
   },
   {
+   "device": "V2513",
+   "name": "V60e",
+   "model": "V2513"
+  },
+  {
    "device": "PD2436",
    "name": "X Fold5",
    "model": "V2436A"
@@ -253212,6 +253294,21 @@
    "device": "V2503",
    "name": "X200 FE",
    "model": "V2505"
+  },
+  {
+   "device": "PD2509",
+   "name": "X300",
+   "model": "V2509A"
+  },
+  {
+   "device": "PD2502",
+   "name": "X300 Pro",
+   "model": "V2502A"
+  },
+  {
+   "device": "PD2502",
+   "name": "X300 Pro 卫星通信版",
+   "model": "V2502DA"
   },
   {
    "device": "V2430",

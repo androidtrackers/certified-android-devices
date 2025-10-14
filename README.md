@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-13
+Last sync is 2025-10-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -479,6 +479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|UTBook|UTBook|UTBook|
 |AWOW|UTBook_14|UTBook_14|UTBook_14|
 |AWOW|UTBook_16_EEA|UTBook_16|UTBook_16|
+|AWOW|UTBook_16_US|UTBook_16|UTBook_16|
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
 |AX-META|AX_META_Tab_7|AX_META_Tab_7|AX_META_Tab_7|
 |AXEL|AX_PRO|AX_PRO|AX_PRO|
@@ -3892,6 +3893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bentley|SDIS1|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bentley|Tab|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bertoli|B20X|B20X|B20X|
+|BesDW|Note 15|BesDW_Note_15|Note 15|
 |Best Buy|Transformer Pad (TF103C)|K010|K010|
 |Bestreha|BRN01|BRN01|BRN01|
 |Beyond|MAX4|MAX4|MAX4|
@@ -9067,7 +9069,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|EF-12/EH-LS300|sti6200d101|Projector|
 |Epson|EF-61|ooty|HB72|
-|Epson|EF-71|kodaikanal|HB73|
+|Epson|EF-62|kodaikanal|HB73|
 |Epson|EF-71|ooty|HB79|
 |Epson|EF-72|kodaikanal|HB76|
 |Epson|EH-LS650|sti6290d101|projector|
@@ -11283,6 +11285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HBESTORE|HL_1068_A133|HL_1068_A133|HL_1068_A133|
 |HCNCP|HA10|HA10|HA10|
 |HCNCP|HA10Kids|HA10Kids|HA10Kids|
+|HCNCP|HT10Pro|HT10Pro|HT10Pro|
 |HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
 |HDC S.A.|H7_ONE|H7_ONE|H7_ONE|
 |HDC S.A.|HDC|TK718|TK718|
@@ -11298,6 +11301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|F5A|F5A|F5A|
 |HEADWOLF|F6|F6|F6|
 |HEADWOLF|F7|F7|F7|
+|HEADWOLF|F8|F8|Titan 1|
 |HEADWOLF|Fpad1|Fpad1|F1|
 |HEADWOLF|Fpad2|Fpad2|Fpad2|
 |HEADWOLF|Fpad3|Fpad3|F3|
@@ -21490,6 +21494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB4 8 Plus|TB-8704X|Lenovo TB-8704X|
 |Lenovo|Lenovo TAB4 8 REL|TB-8604F|Lenovo TB-8604F|
 |Lenovo|Lenovo TAB4 8 REL|TB-8X04F|Lenovo TB-8X04F|
+|Lenovo|Lenovo TAB8|A401LV|A401LV|
 |Lenovo|Lenovo TB-8304F1|TB-8304F1|Lenovo TB-8304F1|
 |Lenovo|Lenovo Tab 7 Essential|7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304I|Lenovo TB-7304I|
@@ -29110,6 +29115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pioneer|CyberNavi|AVIC_CZ700|jupiter|
 |Pioneer|CyberNavi|AVIC_CZ900|jupiter|
 |Pioneer|CyberNavi|AVIC_CZ901|jupiter|
+|Pioneer|DTP9762|PDTV-Combo-Box|DTP9762|
 |Pioneer|Navigation|NVF_0068ZY|jupiter|
 |Pioneer|Navigation|NVF_0078ZY|jupiter|
 |Pioneer|Navigation|NVF_0168ZY|jupiter|
@@ -30939,6 +30945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|M30_Pro|M30_Pro|M30|
 |Rebecco|M70_ROW|M70|M70|
 |Rebecco|Z70_EEA|Z70|Z70|
+|RebotAi|A10_PRO|A10_PRO|A10_PRO|
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
 |Rectron|MX101M2|MX101M2|MX101M2|
@@ -31376,6 +31383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
 |Relndoo|TAB10_US|TAB10_US|TAB10|
 |Relndoo|TAB9-E-EEA|TAB9|TAB9|
+|Relndoo|TAB9-US|TAB9|TAB9|
 |Relndoo|TB02|TB02|TB02|
 |Relndoo|TB02_E|TB02_E|TB02_E|
 |Relndoo|TB02_EEA_A|TB02_EEA_A|TB02|
@@ -38260,6 +38268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|K10_NEU|K10_NEU|K10|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
+|TABWEE|T60_NEU|T60|T60|
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|W90_EEA|W90|W90|
@@ -40953,6 +40962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
 |Tecno|TECNO K7|TECNO-K7|TECNO K7|
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
+|Tecno|TECNO MEGAPAD  SE|TECNO-T1102|TECNO T1102|
 |Tecno|TECNO MegaPad 11|TECNO-T1101|TECNO T1101|
 |Tecno|TECNO MegaPad Pro|TECNO-T1201|TECNO T1201|
 |Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
@@ -45112,6 +45122,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XENON|XENON ANDROID TV|nagata|XENON ANDROID TV|
 |XGIMI|AURA 2 (New)|kasol|WM18P|
 |XGIMI|Elfin Flip Plus|altai|WK03C|
+|XGIMI|HORIZON 20|kasol|XR13A|
+|XGIMI|HORIZON 20 Max|kasol|XR16A|
+|XGIMI|HORIZON 20 Pro|kasol|XR14A|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|Halo+|altai|H0030|
 |XGIMI|MoGo|xgimiapollo|MoGo|
@@ -49237,6 +49250,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Starr 100|V406018|V406018|
 |vivo|G3|PD2443|V2443A|
 |vivo|Pad5|DPD2437|PA2553|
+|vivo|Pad5e|DPD2345|PA2455|
+|vivo|Pad5e|DPD2345|PA2535|
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|T4 Pro|V2511|V2510|
@@ -49246,10 +49261,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V60|V2511|V2512|
 |vivo|V60 Lite|V2441|V2530|
 |vivo|V60 Lite 5G|V2529|V2529|
+|vivo|V60e|V2513|V2513|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
+|vivo|X300|PD2509|V2509A|
+|vivo|X300 Pro|PD2502|V2502A|
+|vivo|X300 Pro 卫星通信版|PD2502|V2502DA|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y21d|V2520|V2520|
 |vivo|Y21d|V2520|V2524|
