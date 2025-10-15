@@ -1531,6 +1531,11 @@
    "model": "AOC Smart Gaming Monitor"
   },
   {
+   "device": "M10c",
+   "name": "M10c",
+   "model": "M10"
+  },
+  {
    "device": "Q10107L-ME",
    "name": "Q10107L-ME",
    "model": "Q10107L-ME"
@@ -2170,6 +2175,11 @@
    "device": "IT-801BA3",
    "name": "IT-801BA3_EEA",
    "model": "IT-801BA3"
+  },
+  {
+   "device": "IT-801BA7_EEA",
+   "name": "IT-801BA7_EEA",
+   "model": "IT-801B"
   },
   {
    "device": "IT-801C",
@@ -4762,6 +4772,11 @@
    "device": "AO4",
    "name": "AO4",
    "model": "AO4"
+  },
+  {
+   "device": "AOx_A_B_C",
+   "name": "AOx_A_B_C",
+   "model": "AOx_A_B_C"
   }
  ],
  "Aconatic": [
@@ -6127,6 +6142,13 @@
    "device": "UIW4078ATL",
    "name": "XstreamIPTV1",
    "model": "XstreamIPTV1-VT"
+  }
+ ],
+ "Airtel-Xstream": [
+  {
+   "device": "ASD6101SR",
+   "name": "XstreamIPTV2-SM",
+   "model": "XstreamIPTV2-SM"
   }
  ],
  "Aiuto": [
@@ -57692,6 +57714,26 @@
    "model": "Google Pixel Watch 2"
   },
   {
+   "device": "meridian_lte",
+   "name": "Pixel Watch 4",
+   "model": "Pixel Watch 4"
+  },
+  {
+   "device": "kenari_lte",
+   "name": "Pixel Watch 4 - 45mm LTE",
+   "model": "Pixel Watch 4"
+  },
+  {
+   "device": "kenari_btwifi",
+   "name": "Pixel Watch 4 BTWIFI",
+   "model": "Pixel Watch 4"
+  },
+  {
+   "device": "meridian_btwifi",
+   "name": "Pixel Watch 4 BTWIFI",
+   "model": "Pixel Watch 4"
+  },
+  {
    "device": "marlin",
    "name": "Pixel XL",
    "model": "Pixel XL"
@@ -80545,6 +80587,11 @@
    "device": "KT1201",
    "name": "KT1201_EEA",
    "model": "Kamvas Slate 13"
+  },
+  {
+   "device": "KamvasSlate10",
+   "name": "KamvasSlate10",
+   "model": "AT13"
   },
   {
    "device": "KamvasSlate10",
@@ -115012,6 +115059,11 @@
    "model": "M3UL20X"
   },
   {
+   "device": "M3UL30",
+   "name": "M3UL30",
+   "model": "M3UL30"
+  },
+  {
    "device": "M3US30",
    "name": "M3US30",
    "model": "M3US30"
@@ -115276,6 +115328,11 @@
    "device": "M15",
    "name": "M15",
    "model": "M15"
+  },
+  {
+   "device": "M18",
+   "name": "M18",
+   "model": "M18"
   },
   {
    "device": "M8",
@@ -124149,6 +124206,11 @@
    "device": "H5112",
    "name": "H5112",
    "model": "H5112"
+  },
+  {
+   "device": "H6032",
+   "name": "H6032",
+   "model": "H6032"
   },
   {
    "device": "H6511",
@@ -133928,6 +133990,13 @@
    "model": "ViewPad-Kids-7A"
   }
  ],
+ "Neotouch": [
+  {
+   "device": "MT-xxMU",
+   "name": "MT-xxMU",
+   "model": "MT-xxMU"
+  }
+ ],
  "Net+": [
   {
    "device": "uzw4068nps",
@@ -134188,6 +134257,13 @@
    "device": "GIGI_U5",
    "name": "U5",
    "model": "U5"
+  }
+ ],
+ "Nexall": [
+  {
+   "device": "N90",
+   "name": "N90_EEA",
+   "model": "N90"
   }
  ],
  "Nexian": [
@@ -145787,6 +145863,11 @@
    "device": "M103-EEA",
    "name": "M103-EEA",
    "model": "M103-EEA"
+  },
+  {
+   "device": "M328-EEA",
+   "name": "M328-EEA",
+   "model": "M328-EEA"
   }
  ],
  "PIXPEAK": [
@@ -154992,6 +155073,11 @@
    "model": "M10"
   },
   {
+   "device": "M10_C09_EEA",
+   "name": "M10_C09_EEA",
+   "model": "M10"
+  },
+  {
    "device": "M10_Lite",
    "name": "M10_Lite",
    "model": "M10_Lite"
@@ -159398,6 +159484,11 @@
    "device": "A9_EEA",
    "name": "A9_EEA",
    "model": "A9"
+  },
+  {
+   "device": "D101",
+   "name": "D101",
+   "model": "D101"
   }
  ],
  "Rectron": [
@@ -159501,6 +159592,11 @@
    "device": "dew",
    "name": "REDMI 15C",
    "model": "25078RA3EY"
+  },
+  {
+   "device": "tornado",
+   "name": "REDMI 15C 5G",
+   "model": "2508CRN2BI"
   },
   {
    "device": "turner",
@@ -208912,6 +209008,11 @@
    "model": "T50Max_ROW"
   },
   {
+   "device": "T50Mini_A_EEA",
+   "name": "T50Mini_A_EEA",
+   "model": "T50Mini_A_EEA"
+  },
+  {
    "device": "T50Mini_A_ROW",
    "name": "T50Mini_A_ROW",
    "model": "T50Mini_A_ROW"
@@ -251119,6 +251220,11 @@
    "device": "the101loop",
    "name": "the101loop",
    "model": "the101loop"
+  },
+  {
+   "device": "theloop",
+   "name": "theloop",
+   "model": "theloop"
   }
  ],
  "realme": [
@@ -253314,6 +253420,11 @@
    "device": "V2430",
    "name": "Y04e",
    "model": "V2532"
+  },
+  {
+   "device": "V2446",
+   "name": "Y19s 5G",
+   "model": "V2541"
   },
   {
    "device": "V2520",
