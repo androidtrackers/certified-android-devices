@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-15
+Last sync is 2025-10-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3188,6 +3188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLUE|G6SG|ikebukuro|AI PONT|
 |BLUECRANE|PP86M|PP86M|NOTE S8 4G|
 |BLUECRANE|PP86M|PP86M|PP86M|
+|BLUEFOX|BF001_EEA|BLUEFOX|NX1|
 |BLUEING|M1867G|M1867G|M1867G|
 |BLUESTAR|B850J|B850J|B850J|
 |BLUEWORLD|TM12|TM12|TM12|
@@ -4273,6 +4274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab11_EEA|Tab11_EEA|Tab11|
 |Blackview|Tab11_NEU|Tab11_NEU|Tab 11|
 |Blackview|Tab11_ROW|Tab11_ROW|Tab11|
+|Blackview|Tab11_RU|Tab11_RU|Tab 11|
 |Blackview|Tab11_RU|Tab11_RU|Tab11|
 |Blackview|Tab12Pro_EEA|Tab12Pro_EEA|Tab 12 Pro|
 |Blackview|Tab12Pro_NEU|Tab12Pro_NEU|Tab 12 Pro|
@@ -27188,6 +27190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5m|OP5EEDL1|CPH2759|
 |Oppo|A5x|OP5EEDL1|CPH2725|
 |Oppo|A5x 5G|OP5EF7L1|CPH2733|
+|Oppo|A6 5G|OP5E1C|PLS120|
 |Oppo|A6 GT 5G/K13s 5G/A6 Max 5G|OP5DE2L1|PLL110|
 |Oppo|A6 Pro|OP6285L1|CPH2799|
 |Oppo|A6 Pro 5G|OP5DE3|PLN110|
@@ -27347,6 +27350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F1w|F1f|F1w|
 |Oppo|F25 Pro 5G|OP5A0BL1|CPH2603|
 |Oppo|F29 Pro 5G|OP5ECFL1|CPH2705|
+|Oppo|F31|OP5E1BL1|CPH2781|
 |Oppo|F31 Pro 5G|OP5F19L1|CPH2763|
 |Oppo|F31 Pro+ 5G|OP5F15L1|CPH2757|
 |Oppo|F7|CPH1819|CPH1819|
@@ -27443,6 +27447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A57s|OP5353L1|CPH2385|
 |Oppo|OPPO A5i|OP5B16L1|CPH2773|
 |Oppo|OPPO A5x 5G|OP5DF5L1|PKW110|
+|Oppo|OPPO A6 Pro 5G|OP5E1BL1|CPH2781|
 |Oppo|OPPO A60 5G/ A3 5G|OP5EA7L1|CPH2683|
 |Oppo|OPPO A6i 5G|OP5DF5L1|PKW120|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
@@ -28286,6 +28291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET_11080_H428S|PET_11080_H428S|PET_11080_H428S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEAQ|R4_GTV|R4_GTV|R4G|
+|PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
 |PEICHENG|P13PRO|P13PRO|P13PRO|
 |PEICHENG|Q1|Q1|Q1|
@@ -31379,6 +31385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P60_EUR|P60_EUR|P60_EUR|
 |Relndoo|P60_ROW|P60_ROW|P60|
 |Relndoo|P60_US|P60_US|P60_US|
+|Relndoo|P60_U_US|P60_U_US|P60_U_US|
 |Relndoo|P80_EU|P80_EU|P80|
 |Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
@@ -42041,6 +42048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Power_6_EEA|Power_6|Power_6|
 |Ulefone|Power_Armor_19T|Power_Armor_19T|Power Armor 19T|
 |Ulefone|RugKing|GQ3103RH2|RugKing|
+|Ulefone|RugKing 3 Pro|GQ3128RH1|RugKing 3 Pro|
 |Ulefone|S10_Pro|S10_Pro|S10_Pro|
 |Ulefone|S11_Pro|S11_Pro|S11 Pro|
 |Ulefone|S7|t662_gq_n1616_we|Ulefone S7|
@@ -49311,6 +49319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
 |waiputv|waipu.tv Box|SEID00BWP|waipu.tv Box|
+|waiputv|waipu.tv Stick (G2)|SEID00DWP|waipu.tv Stick (G2)|
 |wancheng|WC-F11|WC-F11|WC-F11|
 |weelikeit|C19W|C19W|C19W|
 |weelikeit|C19W_EEA|C19W_EEA|C19W_EEA|

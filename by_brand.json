@@ -16526,6 +16526,13 @@
    "model": "PP86M"
   }
  ],
+ "BLUEFOX": [
+  {
+   "device": "BLUEFOX",
+   "name": "BF001_EEA",
+   "model": "NX1"
+  }
+ ],
  "BLUEING": [
   {
    "device": "M1867G",
@@ -22115,6 +22122,11 @@
    "device": "Tab11_ROW",
    "name": "Tab11_ROW",
    "model": "Tab11"
+  },
+  {
+   "device": "Tab11_RU",
+   "name": "Tab11_RU",
+   "model": "Tab 11"
   },
   {
    "device": "Tab11_RU",
@@ -140122,6 +140134,11 @@
    "model": "CPH2733"
   },
   {
+   "device": "OP5E1C",
+   "name": "A6 5G",
+   "model": "PLS120"
+  },
+  {
    "device": "OP5DE2L1",
    "name": "A6 GT 5G/K13s 5G/A6 Max 5G",
    "model": "PLL110"
@@ -140917,6 +140934,11 @@
    "model": "CPH2705"
   },
   {
+   "device": "OP5E1BL1",
+   "name": "F31",
+   "model": "CPH2781"
+  },
+  {
    "device": "OP5F19L1",
    "name": "F31 Pro 5G",
    "model": "CPH2763"
@@ -141395,6 +141417,11 @@
    "device": "OP5DF5L1",
    "name": "OPPO A5x 5G",
    "model": "PKW110"
+  },
+  {
+   "device": "OP5E1BL1",
+   "name": "OPPO A6 Pro 5G",
+   "model": "CPH2781"
   },
   {
    "device": "OP5EA7L1",
@@ -145677,6 +145704,11 @@
   }
  ],
  "PEICHENG": [
+  {
+   "device": "CP31-4T",
+   "name": "CP31-4T",
+   "model": "CP31-4T"
+  },
   {
    "device": "CP31M",
    "name": "CP31M",
@@ -161581,6 +161613,11 @@
    "device": "P60_US",
    "name": "P60_US",
    "model": "P60_US"
+  },
+  {
+   "device": "P60_U_US",
+   "name": "P60_U_US",
+   "model": "P60_U_US"
   },
   {
    "device": "P80_EU",
@@ -216077,6 +216114,11 @@
    "model": "RugKing"
   },
   {
+   "device": "GQ3128RH1",
+   "name": "RugKing 3 Pro",
+   "model": "RugKing 3 Pro"
+  },
+  {
    "device": "S10_Pro",
    "name": "S10_Pro",
    "model": "S10_Pro"
@@ -253527,6 +253569,11 @@
    "device": "SEID00BWP",
    "name": "waipu.tv Box",
    "model": "waipu.tv Box"
+  },
+  {
+   "device": "SEID00DWP",
+   "name": "waipu.tv Stick (G2)",
+   "model": "waipu.tv Stick (G2)"
   }
  ],
  "wancheng": [
