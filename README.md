@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-16
+Last sync is 2025-10-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -449,6 +449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AVH San Luis S.A.|Vortech_3_0|Vortech_3_0|Vortech 3.0|
 |AVITA|T101|T101|T101|
 |AVITA|TS11A1|TS11A1|TS11A1|
+|AVOCOR|AVT-V_Series|AVT-V_Series|AVT-V_Series|
 |AVOCOR|A_Series|A_Series|A_Series|
 |AVOCOR|Commercial_Display|S_Series|S_Series|
 |AWOW|AWOW_CreaPad_1001|AWOW_CreaPad_1001|AWOW_CreaPad_1001|
@@ -9416,6 +9417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FACILOTAB|Facilotab_L_Rubis|Facilotab_L_Rubis|Facilotab L Rubis|
 |FAMIX|F10L|F10L|F10L|
 |FAMIX|F11|F11|F11|
+|FANCYAUG|XT50|XT50|XT50|
 |FANGOR|F-863|F-863|F-863|
 |FANGOR|F-C10|F-C10|F-C10|
 |FANGOR|F-X10|F-X10|F-X10|
@@ -10605,6 +10607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|Beetle7|Beetle7|Beetle7|
 |Ghia|G1|G1|G1|
 |Ghia|GA7133|GA7133|GA7133|
+|Ghia|GA7333|GA7333|GA7333|
 |Ghia|GA8N|GA8N|GA8N|
 |Ghia|GA8N2|GA8N2|GA8N2|
 |Ghia|GHIA|stanford|SMART TV|
@@ -11096,10 +11099,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Watch|r11btwifi|Google Pixel Watch|
 |Google|Pixel Watch 2|aurora|Google Pixel Watch 2|
 |Google|Pixel Watch 2|eos|Google Pixel Watch 2|
+|Google|Pixel Watch 4|kenari_btwifi|Pixel Watch 4|
+|Google|Pixel Watch 4|kenari_lte|Pixel Watch 4|
+|Google|Pixel Watch 4|meridian_btwifi|Pixel Watch 4|
 |Google|Pixel Watch 4|meridian_lte|Pixel Watch 4|
-|Google|Pixel Watch 4 - 45mm LTE|kenari_lte|Pixel Watch 4|
-|Google|Pixel Watch 4 BTWIFI|kenari_btwifi|Pixel Watch 4|
-|Google|Pixel Watch 4 BTWIFI|meridian_btwifi|Pixel Watch 4|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixel watch 3|helios|Pixel Watch 3|
 |Google|Pixel watch 3|luna|Pixel Watch 3|
@@ -41280,6 +41283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Smart plus II|SmartPlusII|SmartPlusII|
 |Telenor|Smart4G|Telenor_Smart_4G|Telenor_Smart_4G|
 |Telenor|Stream Dongle|DV6113Z-KST|Streaming Dongle|
+|Telenor|T-We Boks III|KSTB7277|T-We Boks III|
 |Telenor|Telenor Mediahubb|vip5702w_tn|Telenor Mediahubb|
 |Telenor|V51|V51|Infinity_i4|
 |Telenor(HU)|Hipernet TV Box|Hipernet_TV_Box_B866V2|Hipernet TV Box|

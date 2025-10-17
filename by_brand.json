@@ -2447,6 +2447,11 @@
  ],
  "AVOCOR": [
   {
+   "device": "AVT-V_Series",
+   "name": "AVT-V_Series",
+   "model": "AVT-V_Series"
+  },
+  {
    "device": "A_Series",
    "name": "A_Series",
    "model": "A_Series"
@@ -48930,6 +48935,13 @@
    "model": "F11"
   }
  ],
+ "FANCYAUG": [
+  {
+   "device": "XT50",
+   "name": "XT50",
+   "model": "XT50"
+  }
+ ],
  "FANGOR": [
   {
    "device": "F-863",
@@ -55213,6 +55225,11 @@
    "model": "GA7133"
   },
   {
+   "device": "GA7333",
+   "name": "GA7333",
+   "model": "GA7333"
+  },
+  {
    "device": "GA8N",
    "name": "GA8N",
    "model": "GA8N"
@@ -57726,23 +57743,23 @@
    "model": "Google Pixel Watch 2"
   },
   {
-   "device": "meridian_lte",
+   "device": "kenari_btwifi",
    "name": "Pixel Watch 4",
    "model": "Pixel Watch 4"
   },
   {
    "device": "kenari_lte",
-   "name": "Pixel Watch 4 - 45mm LTE",
-   "model": "Pixel Watch 4"
-  },
-  {
-   "device": "kenari_btwifi",
-   "name": "Pixel Watch 4 BTWIFI",
+   "name": "Pixel Watch 4",
    "model": "Pixel Watch 4"
   },
   {
    "device": "meridian_btwifi",
-   "name": "Pixel Watch 4 BTWIFI",
+   "name": "Pixel Watch 4",
+   "model": "Pixel Watch 4"
+  },
+  {
+   "device": "meridian_lte",
+   "name": "Pixel Watch 4",
    "model": "Pixel Watch 4"
   },
   {
@@ -212046,6 +212063,11 @@
    "device": "DV6113Z-KST",
    "name": "Stream Dongle",
    "model": "Streaming Dongle"
+  },
+  {
+   "device": "KSTB7277",
+   "name": "T-We Boks III",
+   "model": "T-We Boks III"
   },
   {
    "device": "vip5702w_tn",
