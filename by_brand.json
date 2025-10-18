@@ -93515,6 +93515,11 @@
   },
   {
    "device": "elliniko",
+   "name": "JAMUNA",
+   "model": "JAMUNA SMART TV"
+  },
+  {
+   "device": "elliniko",
    "name": "JANUS",
    "model": "4K SMART TV"
   },
@@ -131596,6 +131601,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "elliniko",
+   "name": "MYSTIC",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "jagalchi",
+   "name": "MYSTIC",
+   "model": "2K SMART TV"
   },
   {
    "device": "R3",
@@ -197292,6 +197307,11 @@
    "device": "tcl_sa",
    "name": "Percee TV",
    "model": "Percee TV"
+  },
+  {
+   "device": "himalaya",
+   "name": "ProjectorC1",
+   "model": "ProjectorC1"
   },
   {
    "device": "R3",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-10-17
+Last sync is 2025-10-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18110,6 +18110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
 |KTCtv|IQWORLD|lavender|4K SMART TV|
+|KTCtv|JAMUNA|elliniko|JAMUNA SMART TV|
 |KTCtv|JANUS|elliniko|4K SMART TV|
 |KTCtv|JSW|elliniko|4K SMART TV|
 |KTCtv|JVCO|elliniko|4K SMART TV|
@@ -25558,6 +25559,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myros|E70 Ultra|E70_Ultra|E70 Ultra|
 |Mystic|Android TV|R1|ATV R1|
 |Mystic|Android TV|R2|ATV R2|
+|Mystic|MYSTIC|elliniko|4K SMART TV|
+|Mystic|MYSTIC|jagalchi|2K SMART TV|
 |Mystic|R3|R3|R3|
 |Mystic|R3_GTV|R3_GTV|R3G|
 |Mystic|R4|R4|R4|
@@ -38382,6 +38385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Percee TV|tcl_eu|Percee TV|
 |TCL|Percee TV|tcl_eu|SANYO TV|
 |TCL|Percee TV|tcl_sa|Percee TV|
+|TCL|ProjectorC1|himalaya|ProjectorC1|
 |TCL|R3|R3|R3|
 |TCL|R3_GTV|R3_GTV|R3G|
 |TCL|R4|R4|R4|
