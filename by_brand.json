@@ -3017,7 +3017,7 @@
  "Aaztec": [
   {
    "device": "mensa_an64",
-   "name": "Aaztec-IFP-Series",
+   "name": "THAZ-65/75/86/98/110 PD",
    "model": "Aaztec-IFP-Series"
   }
  ],
@@ -27988,6 +27988,13 @@
    "model": "COMBUS_IB"
   }
  ],
+ "COMMTEC": [
+  {
+   "device": "C80",
+   "name": "C80",
+   "model": "C80"
+  }
+ ],
  "COMPAX": [
   {
    "device": "ACE_1s_Pro",
@@ -35712,6 +35719,11 @@
    "model": "T118"
   },
   {
+   "device": "T66",
+   "name": "T66",
+   "model": "T66"
+  },
+  {
    "device": "W30",
    "name": "W30",
    "model": "W30"
@@ -41853,6 +41865,11 @@
    "model": "Platina 1579M 4G NS1800ML"
   },
   {
+   "device": "DA6B8P02",
+   "name": "G8_DA6B8P02",
+   "model": "G8 DA6B8P02"
+  },
+  {
    "device": "HT5035PG",
    "name": "HIT Q500 3G HT5035PG",
    "model": "HIT Q500 3G HT5035PG"
@@ -45838,6 +45855,11 @@
    "model": "10in-I-Series-4-Value"
   },
   {
+   "device": "10in-I-Series-5-Value",
+   "name": "10in-I-Series-5-Value",
+   "model": "10in-I-Series-5-Value"
+  },
+  {
    "device": "15in-I-Series-4",
    "name": "15in-I-Series-4",
    "model": "15in-I-Series-4"
@@ -45883,6 +45905,11 @@
    "model": "22in-I-Series-5"
   },
   {
+   "device": "22in-I-Series-5-Value",
+   "name": "22in-I-Series-5-Value",
+   "model": "22in-I-Series-5-Value"
+  },
+  {
    "device": "Backpack-4",
    "name": "Backpack-4",
    "model": "Backpack-4"
@@ -45896,6 +45923,11 @@
    "device": "Backpack-5",
    "name": "Backpack-5",
    "model": "Backpack-5"
+  },
+  {
+   "device": "Backpack-5-Value",
+   "name": "Backpack-5-Value",
+   "model": "Backpack-5-Value"
   },
   {
    "device": "EMC-M51",
@@ -51272,6 +51304,11 @@
    "device": "CP11_J1",
    "name": "CP11_J1",
    "model": "CP11_J1"
+  },
+  {
+   "device": "elliniko",
+   "name": "EcoTV1 Plus",
+   "model": "EcoTV1 Plus"
   },
   {
    "device": "elliniko",
@@ -67032,6 +67069,11 @@
    "device": "HSG1472",
    "name": "HSG1472",
    "model": "HSG1472"
+  },
+  {
+   "device": "HSG1500",
+   "name": "HSG1500",
+   "model": "HSG1500"
   },
   {
    "device": "HSG1501",
@@ -84441,6 +84483,13 @@
    "model": "IS-Pro-Series"
   }
  ],
+ "INMO": [
+  {
+   "device": "IMA301",
+   "name": "IMA301",
+   "model": "IMA301"
+  }
+ ],
  "INNOCN": [
   {
    "device": "32S1U_Pro",
@@ -89100,6 +89149,11 @@
    "device": "NOTE_12P",
    "name": "NOTE_12P",
    "model": "NOTE 12P"
+  },
+  {
+   "device": "NOTE_5G",
+   "name": "NOTE_5G",
+   "model": "NOTE 5G"
   },
   {
    "device": "S1",
@@ -95284,11 +95338,6 @@
    "device": "hongkong",
    "name": "EcoTV Plus D",
    "model": "EcoTV Plus D"
-  },
-  {
-   "device": "elliniko",
-   "name": "EcoTV1 Plus",
-   "model": "EcoTV1 Plus"
   },
   {
    "device": "kapellen",
@@ -147994,9 +148043,24 @@
    "model": "A910S"
   },
   {
+   "device": "UIS7681_A14",
+   "name": "A920Pro",
+   "model": "A920Pro"
+  },
+  {
    "device": "A950",
    "name": "A950",
    "model": "A950"
+  },
+  {
+   "device": "UIS7681_A14",
+   "name": "A950",
+   "model": "A950"
+  },
+  {
+   "device": "UIS8581E_A14",
+   "name": "A960",
+   "model": "A960"
   },
   {
    "device": "AXXX",
@@ -161610,6 +161674,11 @@
    "device": "T10A863-21",
    "name": "T10A863-21",
    "model": "T10A863-21"
+  },
+  {
+   "device": "T10A863-51",
+   "name": "T10A863-51",
+   "model": "T10A863-51"
   }
  ],
  "ROKiT": [
@@ -210206,6 +210275,11 @@
    "device": "nagata",
    "name": "Paraguay",
    "model": "TOKYO SMART 2K TV"
+  },
+  {
+   "device": "dongnae",
+   "name": "TOKYO 2K GOOGLE TV",
+   "model": "TOKYO 2K Google TV"
   }
  ],
  "TONE": [
@@ -218457,6 +218531,13 @@
    "device": "TrueHPH07",
    "name": "TrueID TV",
    "model": "HPH07"
+  }
+ ],
+ "TrueBoard": [
+  {
+   "device": "TAIO",
+   "name": "750TAIO",
+   "model": "750TAIO"
   }
  ],
  "TrueIDTV": [
@@ -240219,6 +240300,11 @@
    "model": "E0214"
   },
   {
+   "device": "E0514",
+   "name": "E0514",
+   "model": "E0514"
+  },
+  {
    "device": "L161X",
    "name": "L161x",
    "model": "L161X"
@@ -256750,6 +256836,11 @@
    "device": "RE644BL1",
    "name": "realme P4 Pro 5G",
    "model": "RMX5116"
+  },
+  {
+   "device": "RE6450L1",
+   "name": "realme P4x 5G",
+   "model": "RMX5108"
   },
   {
    "device": "RE5C6EL1",
