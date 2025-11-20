@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-11-19
+Last sync is 2025-11-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -34,6 +34,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |3nStar|Nustar65|Nustar65|Nustar65|
 |4good|4GOOD Light B100|4GOOD_Light_B100|Light B100|
 |4good|A103|4GOOD_Light_A103|Light A103|
+|4iG TV|4iG M391|m3918_4iG|4iG M391|
+|4iG TV|Mini Box|m252_4iG|4iG DIW252V|
 |5STAR|5Star_Note_5|5Star_Note_5|5Star_Note_5|
 |5STAR|Note_1_Pro|Note_1_Pro|Note_1_Pro|
 |7Eleven|IN265|IN265|IN265|
@@ -9940,6 +9942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FarEasTone|Smart503|MC2|Smart503|
 |FarEasTone|Smart601|Smart601|Smart601|
 |Fastlife|FASTLIFE|zhongshan|SMART TV|
+|Fastway|AR-5003MSB|FW_SMART_4K_Box|AR-5003MSB|
 |Fastway|FW-Plus Ultra 4K Box1|DV8545-C-KIF|FW-Plus Ultra 4K Box1|
 |Fero|A4001 Plus 2019|A4001_Plus_2019|Fero A4001 Plus 2019|
 |Fero|A5000|A5000|A5000|
@@ -16867,6 +16870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
+|Infinix|Infinix XPAD 20 Edge|Infinix-X1302|Infinix X1302|
 |Infinix|Infinix XPAD 20 Slim|Infinix-X1302|Infinix X1302|
 |Infinix|Infinix ZERO 20|Infinix-X6821|Infinix X6821|
 |Infinix|Infinix ZERO 30|Infinix-X6731B|Infinix X6731B|
@@ -24560,6 +24564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Airtel Imagine|H5032U|Airtel Imagine|
 |Mobiwire|Altice E55|E55|E55|
 |Mobiwire|Awadjidjè|H5111|Awadjidje|
+|Mobiwire|BUZZ_2|BUZZ_2|BUZZ_2|
 |Mobiwire|Benin|H6681_Pro|Moov Smart Pro|
 |Mobiwire|CHAT|CHAT|CHAT|
 |Mobiwire|Celtiis Smart 1|H5032U|Smart 1|
@@ -31601,6 +31606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11|A11|A11|
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
+|RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
 |RebotAi|D101_EEA|D101_EEA|D101_EEA|
@@ -46563,6 +46569,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yes|M631Y|M631Y|M631Y|
 |Yes|STING|dwi765yes|STING|
 |Yes|Yes|SEI800Y|yes|
+|Yes|Yes|SEID00Y|Yes|
+|Yes|Yes|SEID00Y|yes|
 |Yes|yes|SEI500Y|yes|
 |Yes|yes|SEI800Y|yes|
 |YesTeL|Note_30_pro|Note_30_pro|Note 30 pro|
@@ -49792,7 +49800,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5111|RE6444L1|RMX5111|
 |realme|RMX5200|RE6030L1|RMX5200|
 |realme|RMX5210|RE60C8L1|RMX5210|
-|realme|RMX5253|RE644C|RMX5253|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
 |realme|Smart TV|mateo|2K PA Smart TV|
@@ -49917,6 +49924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C75 5G|RE6092|RMX3943|
 |realme|realme C75 5G|RE6092|RMX3963|
 |realme|realme C75x|RE6089|RMX5020|
+|realme|realme C85 5G|RE644C|RMX5253|
 |realme|realme C85 Pro|RE6441L1|RMX5555|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|

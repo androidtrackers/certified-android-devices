@@ -166,6 +166,18 @@
    "model": "Light A103"
   }
  ],
+ "4iG TV": [
+  {
+   "device": "m3918_4iG",
+   "name": "4iG M391",
+   "model": "4iG M391"
+  },
+  {
+   "device": "m252_4iG",
+   "name": "Mini Box",
+   "model": "4iG DIW252V"
+  }
+ ],
  "5STAR": [
   {
    "device": "5Star_Note_5",
@@ -51686,6 +51698,11 @@
  ],
  "Fastway": [
   {
+   "device": "FW_SMART_4K_Box",
+   "name": "AR-5003MSB",
+   "model": "AR-5003MSB"
+  },
+  {
    "device": "DV8545-C-KIF",
    "name": "FW-Plus Ultra 4K Box1",
    "model": "FW-Plus Ultra 4K Box1"
@@ -87107,6 +87124,11 @@
    "device": "Infinix-X572",
    "name": "Infinix X572",
    "model": "Infinix X572"
+  },
+  {
+   "device": "Infinix-X1302",
+   "name": "Infinix XPAD 20 Edge",
+   "model": "Infinix X1302"
   },
   {
    "device": "Infinix-X1302",
@@ -126578,6 +126600,11 @@
    "model": "Awadjidje"
   },
   {
+   "device": "BUZZ_2",
+   "name": "BUZZ_2",
+   "model": "BUZZ_2"
+  },
+  {
    "device": "H6681_Pro",
    "name": "Benin",
    "model": "Moov Smart Pro"
@@ -162783,6 +162810,11 @@
    "device": "A9_EEA",
    "name": "A9_EEA",
    "model": "A9"
+  },
+  {
+   "device": "B11",
+   "name": "B11_EEA",
+   "model": "B11"
   },
   {
    "device": "B11",
@@ -239431,6 +239463,16 @@
    "model": "yes"
   },
   {
+   "device": "SEID00Y",
+   "name": "Yes",
+   "model": "Yes"
+  },
+  {
+   "device": "SEID00Y",
+   "name": "Yes",
+   "model": "yes"
+  },
+  {
    "device": "SEI500Y",
    "name": "yes",
    "model": "yes"
@@ -256018,11 +256060,6 @@
    "model": "RMX5210"
   },
   {
-   "device": "RE644C",
-   "name": "RMX5253",
-   "model": "RMX5253"
-  },
-  {
    "device": "RE60B8",
    "name": "RMX5303",
    "model": "RMX5303"
@@ -256641,6 +256678,11 @@
    "device": "RE6089",
    "name": "realme C75x",
    "model": "RMX5020"
+  },
+  {
+   "device": "RE644C",
+   "name": "realme C85 5G",
+   "model": "RMX5253"
   },
   {
    "device": "RE6441L1",
