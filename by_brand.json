@@ -403,6 +403,11 @@
    "device": "MPM5",
    "name": "MPM5",
    "model": "MPMedium5"
+  },
+  {
+   "device": "MPMedium5",
+   "name": "MPMedium5",
+   "model": "MPMedium5"
   }
  ],
  "ACD Computers": [
@@ -1779,6 +1784,11 @@
  ],
  "ARGUEST": [
   {
+   "device": "millbrae",
+   "name": "Arguest Android TV",
+   "model": "Arguest Android TV"
+  },
+  {
    "device": "kunyang",
    "name": "Arguest Android UHD TV",
    "model": "Arguest Android UHD TV"
@@ -2300,6 +2310,11 @@
   {
    "device": "IT-801BA7_EEA",
    "name": "IT-801BA7_EEA",
+   "model": "IT-801B"
+  },
+  {
+   "device": "IT-801BA9_EEA",
+   "name": "IT-801BA9_EEA",
    "model": "IT-801B"
   },
   {
@@ -6311,6 +6326,11 @@
    "device": "KB1004",
    "name": "KB1004A",
    "model": "KB1004"
+  },
+  {
+   "device": "KB1004",
+   "name": "KB1004A_EEA",
+   "model": "KB1004"
   }
  ],
  "Ainol": [
@@ -8947,6 +8967,16 @@
  ],
  "Altus": [
   {
+   "device": "awaza",
+   "name": "2K Pro TV",
+   "model": "2K Pro TV"
+  },
+  {
+   "device": "millbrae",
+   "name": "2K Pro TV",
+   "model": "2K Pro TV"
+  },
+  {
    "device": "kunyang",
    "name": "Altus Android TV",
    "model": "4K Pro TV"
@@ -10077,6 +10107,11 @@
   }
  ],
  "Arcelik": [
+  {
+   "device": "awaza",
+   "name": "Arcelik 2K Google TV",
+   "model": "Arcelik 2K Google TV"
+  },
   {
    "device": "wanchai",
    "name": "Arcelik Google TV",
@@ -12202,6 +12237,11 @@
   },
   {
    "device": "kunyang",
+   "name": "Arçelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "device": "millbrae",
    "name": "Arçelik Android TV",
    "model": "Arcelik Android TV"
   },
@@ -15657,6 +15697,11 @@
    "device": "Axzy_Pad",
    "name": "Axzy_Pad",
    "model": "Axzy_Pad"
+  },
+  {
+   "device": "Axzy_Pad",
+   "name": "Axzy_Pad",
+   "model": "E140B"
   },
   {
    "device": "Axzy_Pad_Pro",
@@ -20165,7 +20210,17 @@
  ],
  "Beko": [
   {
+   "device": "awaza",
+   "name": "Beko 2K Google TV",
+   "model": "Beko 2K Google TV"
+  },
+  {
    "device": "kunyang",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
+  },
+  {
+   "device": "millbrae",
    "name": "Beko Android TV",
    "model": "Beko Android TV"
   },
@@ -20437,6 +20492,11 @@
    "device": "B506",
    "name": "Kogan Agora 4G Lite",
    "model": "Kogan Agora 4G Lite"
+  },
+  {
+   "device": "NE001_series",
+   "name": "NE001_series",
+   "model": "NE001_series"
   },
   {
    "device": "PT2200",
@@ -21558,6 +21618,11 @@
    "device": "mobius",
    "name": "MBU-H0",
    "model": "SHARK MBU-H0"
+  },
+  {
+   "device": "Pad6",
+   "name": "Pad6",
+   "model": "ML1107H"
   },
   {
    "device": "Pad6",
@@ -35671,6 +35736,11 @@
    "device": "Calendar2",
    "name": "Calendar2",
    "model": "Calendar2"
+  },
+  {
+   "device": "Calendar_Go",
+   "name": "Calendar_Go",
+   "model": "Calendar_Go"
   }
  ],
  "Crafty": [
@@ -38782,7 +38852,17 @@
   {
    "device": "DH10XS",
    "name": "DH10XS",
+   "model": "DH10Kids"
+  },
+  {
+   "device": "DH10XS",
+   "name": "DH10XS",
    "model": "DH10XS"
+  },
+  {
+   "device": "rk3562_ugo",
+   "name": "DK10",
+   "model": "DK10"
   }
  ],
  "DPIN": [
@@ -42095,6 +42175,11 @@
    "device": "RS1267PL",
    "name": "Pro 1480E 4G",
    "model": "Pro 1480E 4G RS1267PL"
+  },
+  {
+   "device": "DA1C8P02",
+   "name": "R8",
+   "model": "R8 DA1C8P02"
   },
   {
    "device": "RS1253PL",
@@ -56168,6 +56253,13 @@
    "model": "G4"
   }
  ],
+ "Geeken": [
+  {
+   "device": "IFPD",
+   "name": "Geeken_IFPD",
+   "model": "GI-IFP"
+  }
+ ],
  "Gen2Wave": [
   {
    "device": "Prime_RS01",
@@ -59812,7 +59904,17 @@
    "model": "GTB 850"
   },
   {
+   "device": "awaza",
+   "name": "Grundig 2K Google TV",
+   "model": "Grundig 2K Google TV"
+  },
+  {
    "device": "kunyang",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  },
+  {
+   "device": "millbrae",
    "name": "Grundig Android TV",
    "model": "Grundig Android TV"
   },
@@ -59850,6 +59952,11 @@
    "device": "akropoli",
    "name": "Grundig Google UHD TV",
    "model": "Grundig Google UHD TV"
+  },
+  {
+   "device": "aberdeen",
+   "name": "Grundig OLED Google TV",
+   "model": "Grundig OLED Google TV"
   },
   {
    "device": "akropoli",
@@ -93502,6 +93609,11 @@
    "model": "EZpad_M11"
   },
   {
+   "device": "EZpad_M11",
+   "name": "EZpad_M11",
+   "model": "TDV0808"
+  },
+  {
    "device": "EZpad_M11_Pro",
    "name": "EZpad_M11_Pro",
    "model": "EZpad M11 Pro"
@@ -95592,6 +95704,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "MAXIPOWER",
+   "model": "MAXIPOWER SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "MITSUKI",
    "model": "4K SMART TV"
@@ -95660,6 +95777,11 @@
    "device": "mountbaker",
    "name": "NEXUS",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "ONN",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -124846,6 +124968,11 @@
    "model": "Mintt T11 SE"
   },
   {
+   "device": "Mintt_T3_SE",
+   "name": "Mintt_T3_SE",
+   "model": "Mintt T3 SE"
+  },
+  {
    "device": "Mintt_Tab_T1",
    "name": "Mintt_Tab_T1",
    "model": "Mintt_Tab_T1"
@@ -131681,6 +131808,11 @@
    "model": "Ranger2KN"
   },
   {
+   "device": "MFT2251",
+   "name": "Ranger2KN_RU",
+   "model": "Ranger2KN"
+  },
+  {
    "device": "MFT2221",
    "name": "Ranger2K_N",
    "model": "Ranger2K_N"
@@ -134996,6 +135128,11 @@
    "device": "NewBoard",
    "name": "Interactive Smart Display",
    "model": "NB_XXE1D_AM_W"
+  },
+  {
+   "device": "Interactive_Smart_Display",
+   "name": "NewBoard",
+   "model": "NB_XXPXX_XX_X"
   }
  ],
  "NEWPAS": [
@@ -148070,24 +148207,9 @@
    "model": "A910S"
   },
   {
-   "device": "UIS7681_A14",
-   "name": "A920Pro",
-   "model": "A920Pro"
-  },
-  {
    "device": "A950",
    "name": "A950",
    "model": "A950"
-  },
-  {
-   "device": "UIS7681_A14",
-   "name": "A950",
-   "model": "A950"
-  },
-  {
-   "device": "UIS8581E_A14",
-   "name": "A960",
-   "model": "A960"
   },
   {
    "device": "AXXX",
@@ -152272,6 +152394,11 @@
    "device": "mountbaker",
    "name": "PHILIPS",
    "model": "2K SMART TV PH"
+  },
+  {
+   "device": "templeton",
+   "name": "PHILIPS",
+   "model": "EcoTV Ultra"
   },
   {
    "device": "PHILIPS-S6210",
@@ -162794,6 +162921,11 @@
   {
    "device": "A10_PRO",
    "name": "A10_PRO_EEA",
+   "model": "A10_PRO"
+  },
+  {
+   "device": "A10_PRO",
+   "name": "A10_PRO_EEA",
    "model": "A10_PRO_EEA"
   },
   {
@@ -166461,6 +166593,11 @@
    "model": "M8_Max"
   },
   {
+   "device": "S8_Ultra",
+   "name": "S8_Ultra",
+   "model": "S8_Ultra"
+  },
+  {
    "device": "T10",
    "name": "T10",
    "model": "T10"
@@ -166801,6 +166938,11 @@
    "device": "NBP-75",
    "name": "SEWOO NBP-75",
    "model": "NBP-75"
+  },
+  {
+   "device": "ST11_EEA",
+   "name": "ST11_EEA",
+   "model": "ST11_EEA"
   },
   {
    "device": "ST11_ROW",
@@ -169015,6 +169157,11 @@
    "device": "S3_U_US",
    "name": "S3_U_US",
    "model": "S3_U_US"
+  },
+  {
+   "device": "S3_V_EEA",
+   "name": "S3_V_EEA",
+   "model": "S3_V_EEA"
   },
   {
    "device": "S3_V_US",
@@ -186478,6 +186625,11 @@
    "model": "SM-W2017"
   },
   {
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "name": "WAFX-P",
+   "model": "WAFX-P"
+  },
+  {
    "device": "ik1",
    "name": "olleh",
    "model": "SMT-E5015"
@@ -186695,6 +186847,11 @@
    "device": "Nitro",
    "name": "Nitro",
    "model": "Nitro"
+  },
+  {
+   "device": "dongnae",
+   "name": "SANSUI 2K Smart TV",
+   "model": "SANSUI 2K Smart TV"
   },
   {
    "device": "dongnae",
@@ -222781,6 +222938,11 @@
   },
   {
    "device": "L10_T16",
+   "name": "L10_T16",
+   "model": "L10_T16"
+  },
+  {
+   "device": "L10_T16",
    "name": "L10_T16_EEA",
    "model": "L10_T16"
   },
@@ -223470,6 +223632,13 @@
    "device": "SEI740VK",
    "name": "VKONBOX",
    "model": "VKONEBOX"
+  }
+ ],
+ "VL Wireless Inc": [
+  {
+   "device": "VL68_Lite",
+   "name": "VL68 Lite",
+   "model": "VL68_Lite"
   }
  ],
  "VNPT Technology": [
@@ -239424,6 +239593,13 @@
    "model": "Yasin Android TV"
   }
  ],
+ "Yealink": [
+  {
+   "device": "MeetingBoardC",
+   "name": "MeetingBoardC",
+   "model": "MeetingBoardC"
+  }
+ ],
  "Yekani": [
   {
    "device": "T3A_Trend",
@@ -240355,6 +240531,11 @@
    "device": "L16XX",
    "name": "L16XX",
    "model": "L16XX"
+  },
+  {
+   "device": "M11",
+   "name": "M0315",
+   "model": "M11"
   },
   {
    "device": "M30",
@@ -246890,6 +247071,11 @@
    "model": "Z2472"
   },
   {
+   "device": "P620F02",
+   "name": "Z2575",
+   "model": "Z2575"
+  },
+  {
    "device": "Z3153",
    "name": "Z3153V",
    "model": "Z3153V"
@@ -249215,11 +249401,6 @@
    "model": "Z2467"
   },
   {
-   "device": "P620F02",
-   "name": "nubia V80 Design",
-   "model": "Z2575"
-  },
-  {
    "device": "NX501",
    "name": "nubia Z5",
    "model": "nubia Z5"
@@ -249598,6 +249779,26 @@
    "device": "ET40S",
    "name": "ET40",
    "model": "ET40"
+  },
+  {
+   "device": "ET401L0",
+   "name": "ET401",
+   "model": "ET401"
+  },
+  {
+   "device": "ET401L1",
+   "name": "ET401",
+   "model": "ET401"
+  },
+  {
+   "device": "ET401LV0",
+   "name": "ET401",
+   "model": "ET401"
+  },
+  {
+   "device": "ET401LV1",
+   "name": "ET401",
+   "model": "ET401"
   },
   {
    "device": "ET40L",
@@ -253342,6 +253543,11 @@
   {
    "device": "iDataT5",
    "name": "iData T5",
+   "model": "iData T5"
+  },
+  {
+   "device": "iDataT5X",
+   "name": "iData T5X",
    "model": "iData T5"
   },
   {
