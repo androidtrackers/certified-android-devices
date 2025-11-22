@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-11-21
+Last sync is 2025-11-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25558,6 +25558,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60 ultra|leap|motorola razr 60 ultra|
 |Motorola|motorola razr 60d M-51F|M-51F|M-51E|
 |Motorola|motorola razr 60d M-51F|M-51F|M-51F|
+|Motorola|motorola razr 60s|aito|motorola razr 50s|
+|Motorola|motorola razr 60s|aito|motorola razr 60s|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2023|
