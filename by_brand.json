@@ -45957,6 +45957,11 @@
    "model": "10in-I-Series-5-Value"
   },
   {
+   "device": "14in-E-Series-5",
+   "name": "14in-E-Series-5",
+   "model": "14in-E-Series-5"
+  },
+  {
    "device": "15in-I-Series-4",
    "name": "15in-I-Series-4",
    "model": "15in-I-Series-4"
@@ -47689,6 +47694,11 @@
    "device": "STB_ELISA_B866V2F01",
    "name": "B866V2F01",
    "model": "B866V2F01"
+  },
+  {
+   "device": "HP4AD-Elisa",
+   "name": "Viihde Sound",
+   "model": "Helo3"
   }
  ],
  "Elitelux": [
@@ -100400,6 +100410,11 @@
    "device": "LENIX_Pro",
    "name": "LENIX Pro",
    "model": "LENIX Pro"
+  },
+  {
+   "device": "LENIX_Standard",
+   "name": "LENIX Standard",
+   "model": "LENIX Standard"
   }
  ],
  "LEOMO": [
@@ -142106,6 +142121,11 @@
    "device": "diw387oor",
    "name": "Ooredoo TV",
    "model": "DIW387_UHD_OOR"
+  },
+  {
+   "device": "HP44J",
+   "name": "Ooredoo tv",
+   "model": "SKW-HP44J-OTV"
   },
   {
    "device": "Smart10_Pro",
@@ -223647,7 +223667,12 @@
  "VL Wireless Inc": [
   {
    "device": "VL68_Lite",
-   "name": "VL68 Lite",
+   "name": "VL68_Lite",
+   "model": "VL68 Lite"
+  },
+  {
+   "device": "VL68_Lite",
+   "name": "VL68_Lite",
    "model": "VL68_Lite"
   }
  ],

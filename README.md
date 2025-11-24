@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-11-23
+Last sync is 2025-11-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8861,6 +8861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|10in-I-Series-4|10in-I-Series-4|10in-I-Series-4|
 |ELO Touch|10in-I-Series-4-Value|10in-I-Series-4-Value|10in-I-Series-4-Value|
 |ELO Touch|10in-I-Series-5-Value|10in-I-Series-5-Value|10in-I-Series-5-Value|
+|ELO Touch|14in-E-Series-5|14in-E-Series-5|14in-E-Series-5|
 |ELO Touch|15in-I-Series-4|15in-I-Series-4|15in-I-Series-4|
 |ELO Touch|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|
 |ELO Touch|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|
@@ -9185,6 +9186,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elink|T201|T201|T201|
 |Elink|Winnovo|T7|T7|
 |Elisa|B866V2F01|STB_ELISA_B866V2F01|B866V2F01|
+|Elisa|Viihde Sound|HP4AD-Elisa|Helo3|
 |Elitelux|Australia|yeongdeungpo|AiPlus4K|
 |ElliQ|ElliQTablet|ElliQTablet|ElliQTablet|
 |Elong Mobile|6AT|6AT|6AT|
@@ -19440,6 +19442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEGEND|NEBULAE|NEBULAE|NEBULAE|
 |LEGEND|X701|LEGEND_X701|X701|
 |LENIX|LENIX Pro|LENIX_Pro|LENIX Pro|
+|LENIX|LENIX Standard|LENIX_Standard|LENIX Standard|
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEVEL TV|Smart TV|osaki|2K AI Smart TV|
 |LEVIRTU|M128-EEA|M128-EEA|M128-EEA|
@@ -27566,6 +27569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|TBBVNC100005209|TBBVNC100005209|TBBVNC100005209|
 |Onn (Walmart)|W723|W723|W723|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
+|Ooredoo|Ooredoo tv|HP44J|SKW-HP44J-OTV|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |Opay|M1 Lite|M1_Lite|M1 Lite|
 |Opay|V9 Pro|V9_Pro|V9 Pro|
@@ -43500,7 +43504,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VIZZION|vizzion|zhongshan|F VIZZION TV|
 |VK DIGITAL|VKONBOX|SEI740VK|VKONEBOX|
-|VL Wireless Inc|VL68 Lite|VL68_Lite|VL68_Lite|
+|VL Wireless Inc|VL68_Lite|VL68_Lite|VL68 Lite|
+|VL Wireless Inc|VL68_Lite|VL68_Lite|VL68_Lite|
 |VNPT Technology|VNPT SmartBox|vnptt_smb_3|VNPT SmartBox 3|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VNPT Technology|VNPTTechnology|VNTTab2|VNTTab2|
