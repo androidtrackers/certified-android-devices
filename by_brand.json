@@ -5094,6 +5094,11 @@
    "model": "Aconatic 2K Android TV"
   },
   {
+   "device": "beomil",
+   "name": "Aconatic 2K Smart TV",
+   "model": "Aconatic 2K Smart TV"
+  },
+  {
    "device": "umeda",
    "name": "Aconatic 2K Smart TV",
    "model": "Aconatic 2K Smart TV"
@@ -27591,6 +27596,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "dangni",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "dundas",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -35736,6 +35746,21 @@
    "device": "Calendar2",
    "name": "Calendar2",
    "model": "Calendar2"
+  },
+  {
+   "device": "Calendar2_16",
+   "name": "Calendar2_16",
+   "model": "Calendar2_16"
+  },
+  {
+   "device": "Calendar2_24",
+   "name": "Calendar2_24",
+   "model": "Calendar2_24"
+  },
+  {
+   "device": "Calendar2_32",
+   "name": "Calendar2_32",
+   "model": "Calendar2_32"
   },
   {
    "device": "Calendar_Go",
@@ -74278,6 +74303,11 @@
    "device": "A16_Pro_Max",
    "name": "A16 Pro Max",
    "model": "A16 Pro Max"
+  },
+  {
+   "device": "A16_Pro_Max",
+   "name": "A16 Pro Max",
+   "model": "A17 Pro Max"
   },
   {
    "device": "A17_Pro_Max",
@@ -131296,6 +131326,16 @@
    "model": "motorola edge 60 fusion"
   },
   {
+   "device": "vienna",
+   "name": "motorola edge 60 neo",
+   "model": "motorola edge 50 neo"
+  },
+  {
+   "device": "vienna",
+   "name": "motorola edge 60 neo",
+   "model": "motorola edge 60 neo"
+  },
+  {
    "device": "cybert",
    "name": "motorola edge 60 pro",
    "model": "moto g play - 2024"
@@ -131319,6 +131359,16 @@
    "device": "cybert",
    "name": "motorola edge 60s pro",
    "model": "motorola edge 60s pro"
+  },
+  {
+   "device": "roadstr",
+   "name": "motorola edge 70",
+   "model": "motorola edge 50 ultra"
+  },
+  {
+   "device": "roadstr",
+   "name": "motorola edge 70",
+   "model": "motorola edge 70"
   },
   {
    "device": "xpeng",
@@ -137413,6 +137463,11 @@
    "device": "SW6H",
    "name": "NSTV FF",
    "model": "NSTV FF"
+  },
+  {
+   "device": "beomil",
+   "name": "Noble Skiodo TV",
+   "model": "Noble Skiodo TV"
   }
  ],
  "Noblex": [
@@ -147884,6 +147939,11 @@
    "model": "WP6"
   },
   {
+   "device": "WP61",
+   "name": "WP61_EEA",
+   "model": "WP61"
+  },
+  {
    "device": "WP6",
    "name": "WP6_EEA",
    "model": "WP6"
@@ -149127,6 +149187,11 @@
    "model": "25078PC3EG"
   },
   {
+   "device": "tornado",
+   "name": "POCO C85 5G",
+   "model": "2508CPC2BI"
+  },
+  {
    "device": "lmi",
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -149180,6 +149245,16 @@
    "device": "vermeer",
    "name": "POCO F6 Pro",
    "model": "23113RKC6G"
+  },
+  {
+   "device": "annibale",
+   "name": "POCO F8 Pro",
+   "model": "2510DPC44G"
+  },
+  {
+   "device": "myron",
+   "name": "POCO F8 Ultra",
+   "model": "25102PCBEG"
   },
   {
    "device": "shiva",
@@ -152004,6 +152079,13 @@
    "model": "PENTA_73AAQ1"
   }
  ],
+ "PeopleLink": [
+  {
+   "device": "AILiveBoard-Core",
+   "name": "AILiveBoard-Core",
+   "model": "AILiveBoard-Core"
+  }
+ ],
  "Pepperl+Fuchs": [
   {
    "device": "Smart-Ex03",
@@ -152719,6 +152801,11 @@
    "device": "Philips_S8325",
    "name": "Philips S8325",
    "model": "Philips S8325"
+  },
+  {
+   "device": "beomil",
+   "name": "Philips Smart 2K TV",
+   "model": "Philips Smart 2K TV"
   },
   {
    "device": "freesia",
@@ -154719,6 +154806,11 @@
   }
  ],
  "Polestar": [
+  {
+   "device": "ihu42",
+   "name": "Polestar",
+   "model": "Polestar"
+  },
   {
    "device": "ihu_abl_car",
    "name": "Polestar",
@@ -162991,6 +163083,11 @@
   {
    "device": "D101_EEA",
    "name": "D101_EEA",
+   "model": "D101"
+  },
+  {
+   "device": "D101_EEA",
+   "name": "D101_EEA",
    "model": "D101_EEA"
   }
  ],
@@ -165089,6 +165186,13 @@
    "model": "LS-5010"
   }
  ],
+ "Relink": [
+  {
+   "device": "RLP8T",
+   "name": "RLP8T",
+   "model": "RLP8T"
+  }
+ ],
  "Relndoo": [
   {
    "device": "P30_EUR",
@@ -165244,6 +165348,11 @@
    "device": "TAB10_US",
    "name": "TAB10_US",
    "model": "TAB10"
+  },
+  {
+   "device": "TAB10_US",
+   "name": "TAB10_US",
+   "model": "TAB10_US"
   },
   {
    "device": "TAB9",
@@ -169976,6 +170085,11 @@
    "device": "eleonas",
    "name": "SWTV-24HK-4K NF",
    "model": "SWTV-24HK-4K NF"
+  },
+  {
+   "device": "beomil",
+   "name": "SWTV-24HK-FHD",
+   "model": "SWTV-24HK-FHD"
   },
   {
    "device": "eleonas",
@@ -185610,6 +185724,11 @@
    "model": "SM-I610"
   },
   {
+   "device": "xrvst2",
+   "name": "Galaxy XR",
+   "model": "SM-I610H"
+  },
+  {
    "device": "GT-S5690",
    "name": "Galaxy Xcover",
    "model": "GT-S5690"
@@ -186892,6 +187011,11 @@
    "device": "sunnyvale",
    "name": "SANSUI SmartTV",
    "model": "SANSUI SmartTV"
+  },
+  {
+   "device": "beomil",
+   "name": "SANSUI TV",
+   "model": "SANSUI TV"
   },
   {
    "device": "eleonas",
@@ -247111,6 +247235,11 @@
    "model": "Z2575"
   },
   {
+   "device": "P620F01",
+   "name": "Z2576",
+   "model": "Z2576"
+  },
+  {
    "device": "Z3153",
    "name": "Z3153V",
    "model": "Z3153V"
@@ -258496,6 +258625,11 @@
    "model": "V2443A"
   },
   {
+   "device": "PD2443",
+   "name": "Y50 移动定制版",
+   "model": "V2443A"
+  },
+  {
    "device": "PD2516",
    "name": "Y500 Pro",
    "model": "V2516A"
@@ -258518,6 +258652,11 @@
   {
    "device": "PD2443",
    "name": "Y50i 8+256版",
+   "model": "V2443A"
+  },
+  {
+   "device": "PD2443",
+   "name": "Y50i 移动定制版",
    "model": "V2443A"
   },
   {

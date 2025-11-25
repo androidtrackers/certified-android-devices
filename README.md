@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-11-24
+Last sync is 2025-11-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -966,6 +966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aconatic|ACONATIC FHD TV|takao|ACONATIC FHD TV|
 |Aconatic|ACONATIC UHD TV|OD0M_EA_T32|ACONATIC UHD TV|
 |Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
+|Aconatic|Aconatic 2K Smart TV|beomil|Aconatic 2K Smart TV|
 |Aconatic|Aconatic 2K Smart TV|umeda|Aconatic 2K Smart TV|
 |Aconatic|Aconatic 4K Smart TV|eleonas|Aconatic 4K Smart TV|
 |Aconatic|Android TV|R1|ATV R1|
@@ -5335,6 +5336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHiQ|H7|sindorim|AI PONT|
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
+|CHiQ|Smart TV|dangni|AI PONT|
 |CHiQ|Smart TV|dundas|AI PONT|
 |CHiQ|Smart TV|longshan|AI PONT|
 |CIBER|B610A103A|B610A103A|B610A103A|
@@ -6900,6 +6902,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cozyla|Calendar+|Calendar|CD-8V543F2|
 |Cozyla|Calendar+|Calendar|Calendar+|
 |Cozyla|Calendar2|Calendar2|Calendar2|
+|Cozyla|Calendar2_16|Calendar2_16|Calendar2_16|
+|Cozyla|Calendar2_24|Calendar2_24|Calendar2_24|
+|Cozyla|Calendar2_32|Calendar2_32|Calendar2_32|
 |Cozyla|Calendar_Go|Calendar_Go|Calendar_Go|
 |Crafty|Crafty-IFPD|rk3588_t|ELP-4391K|
 |Crafty|Crafty-IFPD|rk3588_t|ELT-6502K|
@@ -14338,6 +14343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|A1|A1|A1|
 |Hotwav|A16 Max|A16_Max|A16 Max|
 |Hotwav|A16 Pro Max|A16_Pro_Max|A16 Pro Max|
+|Hotwav|A16 Pro Max|A16_Pro_Max|A17 Pro Max|
 |Hotwav|A17 Pro Max|A17_Pro_Max|A17 Pro Max|
 |Hotwav|A1_Plus|A1_Plus|A1 Plus|
 |Hotwav|A36|A36|A36|
@@ -25494,11 +25500,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 60|scout|motorola edge 60|
 |Motorola|motorola edge 60 fusion|scout|motorola edge 50 neo|
 |Motorola|motorola edge 60 fusion|scout|motorola edge 60 fusion|
+|Motorola|motorola edge 60 neo|vienna|motorola edge 50 neo|
+|Motorola|motorola edge 60 neo|vienna|motorola edge 60 neo|
 |Motorola|motorola edge 60 pro|cybert|moto g play - 2024|
 |Motorola|motorola edge 60 pro|cybert|motorola edge 60 pro|
 |Motorola|motorola edge 60 stylus|monai|motorola edge 50 fusion|
 |Motorola|motorola edge 60 stylus|monai|motorola edge 60 stylus|
 |Motorola|motorola edge 60s pro|cybert|motorola edge 60s pro|
+|Motorola|motorola edge 70|roadstr|motorola edge 50 ultra|
+|Motorola|motorola edge 70|roadstr|motorola edge 70|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -26663,6 +26673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NobleSkiodo|NS 2K SmartTV|sunnyvale|NS 2K SmartTV|
 |NobleSkiodo|NSTV|SW6H|NSTV|
 |NobleSkiodo|NSTV FF|SW6H|NSTV FF|
+|NobleSkiodo|Noble Skiodo TV|beomil|Noble Skiodo TV|
 |Noblex|4K Smart FF TV|SW6H|4K Smart FF TV|
 |Noblex|4K Smart GMTV|anaheim|4K Smart GMTV|
 |Noblex|A50|A50UNS|A50UNS|
@@ -28714,6 +28725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP56_EEA|WP56|WP56|
 |Oukitel|WP5_Pro_row|WP5_Pro|WP5 Pro|
 |Oukitel|WP6|WP6|WP6|
+|Oukitel|WP61_EEA|WP61|WP61|
 |Oukitel|WP6_EEA|WP6|WP6|
 |Oukitel|WP7|WP7|WP7|
 |Oukitel|WP8_Pro|WP8_Pro|WP8 Pro|
@@ -28947,6 +28959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C75 5G|warm|24116PCC1I|
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
+|POCO|POCO C85 5G|tornado|2508CPC2BI|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -28958,6 +28971,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F6|peridot|24069PC21G|
 |POCO|POCO F6|peridot|24069PC21I|
 |POCO|POCO F6 Pro|vermeer|23113RKC6G|
+|POCO|POCO F8 Pro|annibale|2510DPC44G|
+|POCO|POCO F8 Ultra|myron|25102PCBEG|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -29508,6 +29523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0552|PENTA_83AAQ2|PENTA_83AAQ2|
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
+|PeopleLink|AILiveBoard-Core|AILiveBoard-Core|AILiveBoard-Core|
 |Pepperl+Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
 |Pepperl+Fuchs|Smart-Ex 203|Smart-Ex203|Smart-Ex203|
 |Pepperl+Fuchs|Tab-IND 10 AND|Tab-IND10AND|Tab-IND 10 AND|
@@ -29649,6 +29665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S6320T|Philips-S6320T|Philips S6320T|
 |Philips|Philips S8320 EEA|Philips_S8320|Philips S8320|
 |Philips|Philips S8325|Philips_S8325|Philips S8325|
+|Philips|Philips Smart 2K TV|beomil|Philips Smart 2K TV|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
 |Philips|Philips SmartTV|freesia|PHILIPS 4k TV|
 |Philips|Philips V787|Philips_Xenium_V787|Philips Xenium V787|
@@ -30038,6 +30055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|midcb232pr_EEA|midcb232pr|midcb232pr|
 |Polaroid|polaroid|ewha|POLA-TVE19K|
 |Polaroid|polaroid|sindang|POLA-TVE19M|
+|Polestar|Polestar|ihu42|Polestar|
 |Polestar|Polestar|ihu_abl_car|Polestar|
 |Polestar|Polestar|jalapeno|PS4|
 |Polestar|Polestar|moose|Polestar|
@@ -31641,6 +31659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
+|RebotAi|D101_EEA|D101_EEA|D101|
 |RebotAi|D101_EEA|D101_EEA|D101_EEA|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
@@ -32057,6 +32076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|RC608L|RC608L|RC608L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
+|Relink|RLP8T|RLP8T|RLP8T|
 |Relndoo|P30_EUR|P30_EUR|P30|
 |Relndoo|P30_US|P30_US|P30|
 |Relndoo|P60_EEA|P60_EEA|P60|
@@ -32088,6 +32108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
 |Relndoo|TAB10_U|TAB10_U|TAB10|
 |Relndoo|TAB10_US|TAB10_US|TAB10|
+|Relndoo|TAB10_US|TAB10_US|TAB10_US|
 |Relndoo|TAB9-E-EEA|TAB9|TAB9|
 |Relndoo|TAB9-US|TAB9|TAB9|
 |Relndoo|TB02|TB02|TB02|
@@ -32976,6 +32997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-24HK-4K|eleonas|SWTV-24HK-4K|
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24H-4K NF|
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24HK-4K NF|
+|SWTV|SWTV-24HK-FHD|beomil|SWTV-24HK-FHD|
 |SWTV|SWTV-24NA-4K|eleonas|SWTV-24NA-4K|
 |SWTV|SWTV-24NA-4K NF|eleonas|SWTV-24NA-4K NF|
 |SWTV|SWTV-24NA-FHD|beomil|SWTV-24NA-FHD|
@@ -36098,6 +36120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766U1|
 |Samsung|Galaxy XCover7 Pro|xcover7pro|SM-G766W|
 |Samsung|Galaxy XR|xrvst2|SM-I610|
+|Samsung|Galaxy XR|xrvst2|SM-I610H|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
@@ -36352,6 +36375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|SANSUI 2K Smart TV|dongnae|SANSUI 2K Smart TV|
 |Sansui|SANSUI 2K Smart TV|dongnae|SANSUI 2K Smart TV|
 |Sansui|SANSUI SmartTV|sunnyvale|SANSUI SmartTV|
+|Sansui|SANSUI TV|beomil|SANSUI TV|
 |Sansui|SANSUI TV|eleonas|SANSUI TV|
 |Sansui|SANSUI TV FF|eleonas|SANSUI TV FF|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
@@ -48085,6 +48109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2472|P606F20|Z2472|
 |ZTE|Z2472|P606F20_A|Z2472|
 |ZTE|Z2575|P620F02|Z2575|
+|ZTE|Z2576|P620F01|Z2576|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
@@ -50272,11 +50297,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y400 5G|V2506|V2506|
 |vivo|Y400 Pro 5G|V2439|V2439|
 |vivo|Y50 5G|PD2443|V2443A|
+|vivo|Y50 移动定制版|PD2443|V2443A|
 |vivo|Y500 Pro|PD2516|V2516A|
 |vivo|Y50c|PD2443|V2443BA|
 |vivo|Y50i|PD2443|V2443A|
 |vivo|Y50i 12+256版|PD2443|V2443A|
 |vivo|Y50i 8+256版|PD2443|V2443A|
+|vivo|Y50i 移动定制版|PD2443|V2443A|
 |vivo|Y50m 5G|PD2443|V2443BA|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
