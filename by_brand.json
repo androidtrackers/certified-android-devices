@@ -1699,6 +1699,16 @@
  ],
  "AOpen": [
   {
+   "device": "AOPEN_X12M2",
+   "name": "Fire Legend FT12",
+   "model": "FT12X-M2"
+  },
+  {
+   "device": "AOPEN_X12M2",
+   "name": "Fire Legend FT12",
+   "model": "FT12X-M2_EEA"
+  },
+  {
    "device": "",
    "name": "RK3288 10 Chromebase",
    "model": ""
@@ -3507,6 +3517,26 @@
    "model": "A13-21P_EEA"
   },
   {
+   "device": "acer_A14M1N",
+   "name": "A14M1N",
+   "model": "A14-11MN_EEA"
+  },
+  {
+   "device": "acer_A14M1N",
+   "name": "A14M1N​",
+   "model": "A14-11MN"
+  },
+  {
+   "device": "acer_A16M1N",
+   "name": "A16M1N",
+   "model": "A16-11MN_EEA"
+  },
+  {
+   "device": "acer_A16M1N",
+   "name": "A16M1N​",
+   "model": "A16-11MN"
+  },
+  {
    "device": "zara",
    "name": "A3-A10",
    "model": "A3-A10"
@@ -4929,6 +4959,11 @@
   {
    "device": "acer_V11M2",
    "name": "V11M2",
+   "model": "V11-21M"
+  },
+  {
+   "device": "acer_V11M2",
+   "name": "V11M2",
    "model": "V11-21M_EEA"
   },
   {
@@ -4957,6 +4992,11 @@
    "model": "V13-11M"
   },
   {
+   "device": "acer_V13M1",
+   "name": "V13M1",
+   "model": "V13-11M_EEA"
+  },
+  {
    "device": "Walle",
    "name": "Walle",
    "model": "ET-108-11A"
@@ -4967,9 +5007,39 @@
    "model": "ET-108-11AR"
   },
   {
+   "device": "acer_X11M1",
+   "name": "X11M1",
+   "model": "X11-11M"
+  },
+  {
+   "device": "acer_X11M1",
+   "name": "X11M1",
+   "model": "X11-11M_EEA"
+  },
+  {
    "device": "acer_X12M1",
    "name": "X12M1",
    "model": "X12-11"
+  },
+  {
+   "device": "acer_X12M2",
+   "name": "X12M2",
+   "model": "X12-21M"
+  },
+  {
+   "device": "acer_X12M2",
+   "name": "X12M2",
+   "model": "X12-21M_EEA"
+  },
+  {
+   "device": "acer_X14M1N",
+   "name": "X14M1N",
+   "model": "X14-11MN"
+  },
+  {
+   "device": "acer_X14M1N",
+   "name": "X14M1N",
+   "model": "X14-11MN_EEA"
   },
   {
    "device": "Z1",
@@ -51431,6 +51501,11 @@
    "device": "CP08_J1",
    "name": "CP08_J1",
    "model": "CP08_J1"
+  },
+  {
+   "device": "CP10",
+   "name": "CP10-J1",
+   "model": "CP10-J1"
   },
   {
    "device": "CP11_J1",

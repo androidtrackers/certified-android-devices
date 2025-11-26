@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-11-25
+Last sync is 2025-11-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -315,6 +315,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOZORA|A61|A61|A61|
 |AOZORA|K8|K8|K8 Active|
 |AOZORA|k101|K101|K101|
+|AOpen|Fire Legend FT12|AOPEN_X12M2|FT12X-M2|
+|AOpen|Fire Legend FT12|AOPEN_X12M2|FT12X-M2_EEA|
 |AOpen|RK3288 10 Chromebase|||
 |AOpen|RK3288 10 Chromebase|tiger_cheets|AOpen Chromebase Mini|
 |AOpen|RK3288 Mini Chromebox|||
@@ -651,6 +653,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A12P2|acer_A12P2|A12-21P_EEA|
 |Acer|A13P2|acer_A13P2|A13-21P|
 |Acer|A13P2|acer_A13P2|A13-21P_EEA|
+|Acer|A14M1N|acer_A14M1N|A14-11MN_EEA|
+|Acer|A14M1N​|acer_A14M1N|A14-11MN|
+|Acer|A16M1N|acer_A16M1N|A16-11MN_EEA|
+|Acer|A16M1N​|acer_A16M1N|A16-11MN|
 |Acer|A3-A10|zara|A3-A10|
 |Acer|A3-A11|zara|A3-A11|
 |Acer|A3-A20|acer_harley|A3-A20|
@@ -935,15 +941,23 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|V10M2|acer_V10M2|V10-21|
 |Acer|V11M1|acer_V11M1|V11-11|
 |Acer|V11M1|acer_V11M1|V11-11_EEA|
+|Acer|V11M2|acer_V11M2|V11-21M|
 |Acer|V11M2|acer_V11M2|V11-21M_EEA|
 |Acer|V11M2-LTE|acer_V11M2-LTE|V11-22M|
 |Acer|V11M2-LTE|acer_V11M2-LTE|V11-22M_EEA|
 |Acer|V12M1|acer_V12M1|V12-11M|
 |Acer|V12M1|acer_V12M1|V12-11M_EEA|
 |Acer|V13M1|acer_V13M1|V13-11M|
+|Acer|V13M1|acer_V13M1|V13-11M_EEA|
 |Acer|Walle|Walle|ET-108-11A|
 |Acer|Walle|Walle|ET-108-11AR|
+|Acer|X11M1|acer_X11M1|X11-11M|
+|Acer|X11M1|acer_X11M1|X11-11M_EEA|
 |Acer|X12M1|acer_X12M1|X12-11|
+|Acer|X12M2|acer_X12M2|X12-21M|
+|Acer|X12M2|acer_X12M2|X12-21M_EEA|
+|Acer|X14M1N|acer_X14M1N|X14-11MN|
+|Acer|X14M1N|acer_X14M1N|X14-11MN_EEA|
 |Acer|Z110|Z1|Z110|
 |Acer|Z120|Z2|Z120|
 |Acer|acerpure|waiawa|DAC51U|
@@ -9897,6 +9911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|CP08-C1|CP08-C1|CP08-C1|
 |FPD|CP08-C1|CP08-C1|CP08_C1|
 |FPD|CP08_J1|CP08_J1|CP08_J1|
+|FPD|CP10-J1|CP10|CP10-J1|
 |FPD|CP11_J1|CP11_J1|CP11_J1|
 |FPD|EcoTV1 Plus|elliniko|EcoTV1 Plus|
 |FPD|FPD|elliniko|4K SMART TV|
