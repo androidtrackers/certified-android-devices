@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-11-28
+Last sync is 2025-11-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25443,6 +25443,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g04s|lion|moto g04s|
 |Motorola|moto g05|lamul|lamu_g|
 |Motorola|moto g05|lamul|moto g05|
+|Motorola|moto g06|lagos|moto g05|
+|Motorola|moto g06|lagos|moto g06|
+|Motorola|moto g06 power|lagos|moto g05|
+|Motorola|moto g06 power|lagos|moto g06 power|
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g13|penangf|moto g13|
 |Motorola|moto g13|penangf|penangf|
@@ -25509,6 +25513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g66j 5G|bogota|moto g66j 5G|
 |Motorola|moto g66y 5G|bogota|moto g64 5G|
 |Motorola|moto g66y 5G|bogota|moto g66y 5G|
+|Motorola|moto g67 power 5G|portov|XT2533-4|
 |Motorola|moto g67 power 5G|portov|moto g67 power 5G|
 |Motorola|moto g67 power 5G|portov|motorola edge 60 stylus|
 |Motorola|moto g71 5G|corfur|moto g(50)|
