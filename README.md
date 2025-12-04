@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-03
+Last sync is 2025-12-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14439,6 +14439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|A16 Pro Max|A16_Pro_Max|A17 Pro Max|
 |Hotwav|A17 Pro Max|A17_Pro_Max|A17 Pro Max|
 |Hotwav|A1_Plus|A1_Plus|A1 Plus|
+|Hotwav|A36|A36|A25 Ultra|
 |Hotwav|A36|A36|A36|
 |Hotwav|A56|A56|A56|
 |Hotwav|Cosmos|Cosmos|Cosmos|
@@ -18000,6 +18001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JREN|JR_J1063|JR_J1063|JR_J1063|
 |JREN|JR_J7|JR_J7|JR_J7|
 |JTWORKS|JTWORKS-IFPD|rk3588_t|JTW|
+|JTYPAD|KT14Pro-EEA|KT14Pro|KT14Pro|
 |JTYPDA|X20L|X20L|X20L|
 |JUEDUR|R500 EEA|R500_EEA|R500_EEA|
 |JUEDUR|R500 US|R500_US|R500_US|
@@ -18159,6 +18161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jckkcfug|A10Pro_EEA|A10Pro_EEA|A10Pro_EEA|
 |Jckkcfug|A10Pro_ROW|A10Pro_ROW|A10Pro_ROW|
 |Jckkcfug|A10_PLUS_EEA|A10_PLUS|A10 PLUS|
+|Jckkcfug|A10_PLUS_ROW|A10_PLUS|A10 PLUS|
 |Jckkcfug|A20Pro_EEA|A20Pro_EEA|A20Plus_EEA|
 |Jckkcfug|A20Pro_EEA|A20Pro_EEA|A20Pro_EEA|
 |Jckkcfug|A20Pro_EEA|A20Pro_EEA|A20_EEA|
@@ -19167,6 +19170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|KATB1064WGRY|KATB1064WGRY|KATB1064WGRY|
 |Kogan|KATB21064CPA|KATB21064CPA|KATB21064CPA|
 |Kogan|KATB2P1064WPA|KATB2P1064WPA|KATB2P1064WPA|
+|Kogan|KATB311PLSPA|KATB311PLSPA|KATB311PLSPA|
 |Kogan|Kogan 4K Android TV|SW4H|Kogan 4K Android TV|
 |Kogan|Kogan 4K PRO Android TV|SW4H_FF|Kogan 4K PRO Android TV|
 |Kogan|Kogan Agora 8 Plus|Agora_8_Plus|Agora 8 Plus|
@@ -24003,6 +24007,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mengdash|M_Q58_EEA|M_Q58_EEA|M_Q58EEA|
 |Mengdash|M_Q59|M_Q59|M_Q59|
 |Meswao|MES-B3|MES-B3|MES-B3|
+|MetfoneTVBox|MetfoneTVBox|DV9135-KCM|MetfoneTVBox|
 |Metro|E2|E2|E2|
 |Metro|Pro5|Pro5|Pro5|
 |Mgears|Mstick4|Mstick4-EEA|Mstick4|
@@ -25742,7 +25747,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movfast|Ranger2 Lite|MFT1621|Ranger2K|
 |Movfast|Ranger2K|MFT1621|Ranger2K|
 |Movfast|Ranger2KN|MFT2251|Ranger2KN|
-|Movfast|Ranger2KN_RU|MFT2251|Ranger2KN|
 |Movfast|Ranger2K_N|MFT2221|Ranger2K_N|
 |Movfast|Ranger2_N|MFT2351|Ranger2_N|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
@@ -27499,6 +27503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olvy|CH10PLUS|CH10PLUS|CH10PLUS|
 |Olympia|NEO|NEO|NEO|
 |Olympia|NEO_Mini|NEO_Mini|NEO_Mini|
+|Olympia|Smartphone2|NEO_Mini_Plus|OLYMPIA Neo_Mini+|
 |Olympia|TREK|TREK|TREK|
 |OneClick|C2 Pro|C2_pro|C2 pro|
 |OneClick|X1|X1|X1|
@@ -28512,6 +28517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oraimo|R402|oraimo-R402|oraimo R402|
 |Oraimo|oraimo R401S|oraimo-R401|oraimo R401S|
 |Orange|DV8555|DV8555-KPO|DV8555|
+|Orange|DV9651|DV9651-KPO|DV9651|
 |Orange|Dive 30|P635E40|Orange Dive 30|
 |Orange|Dive 30|P635E40|ZTE Blade A410|
 |Orange|Dive 50|pixi3_45_4g_orange|Orange Dive 50|
@@ -43596,6 +43602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|L10-T02-EEA|L10-T02-EEA|L10-T02-EEA|
 |VASOUN|L10-T11|L10-T11|L10-T11|
 |VASOUN|L10-T11-EEA|L10-T11-EEA|L10-T11-EEA|
+|VASOUN|L10-T17-EEA|L10-T17-EEA|L10-T17-EEA|
 |VASOUN|L10_A01|L10_A01|L10|
 |VASOUN|L10_A01_EEA|L10_A01_EEA|L10|
 |VASOUN|L10_A02|L10_A02|L10|
@@ -48786,6 +48793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Focus 2 Ultra 5G|P720F12|Z2463N|
 |ZTE|nubia Focus 5G|P720F09|Focus 5G|
 |ZTE|nubia Focus 5G|P720F09|Z2357N|
+|ZTE|nubia Fold|Z9900S|A502ZT|
 |ZTE|nubia Music|P963F11|Z2353|
 |ZTE|nubia Music 2|P606F18|Z2460|
 |ZTE|nubia Music Pro|P606F18|Z2460|
@@ -48798,6 +48806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Pad 5G|K99O|nubia Pad 5G|
 |ZTE|nubia Pad SE|K99J|K99J|
 |ZTE|nubia Play|NX651J|NX651J|
+|ZTE|nubia S2R|Z6305R|Z6305R|
 |ZTE|nubia S2e|Z6302S|A507ZT|
 |ZTE|nubia V50 Vita|P606F09|nubia 8550|
 |ZTE|nubia V60|P616F02|Z2356|
@@ -49169,6 +49178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|SENS PRO|SENS_PRO|SENS PRO|
 |Zuum|SENS_CURVE|SENS_CURVE|SENS CURVE|
 |Zuum|SENS_G|SENS_G|SENS G|
+|Zuum|SENS_PLUS1|SENS_PLUS|SENS PLUS|
 |Zuum|STELLAR|STELLAR|STELLAR|
 |Zuum|STELLAR M1|STELLAR_M1|STELLAR M1|
 |Zuum|STELLAR M2|STELLAR_M2|STELLAR M2|
@@ -49262,6 +49272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|benco V90i|AEOP526|AEOP526|
 |benco|benco V91|AE9310|AE9310|
 |benco|benco V92|AEOP517|AEOP517|
+|benco|benco V93|AEOP527|AEOP527|
 |benco|benco Y11|AH9110|AH9110|
 |benco|benco Y30|AF9030|AF9030|
 |benco|benco Y40|AH9210|AH9210|
