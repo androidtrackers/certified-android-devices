@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-04
+Last sync is 2025-12-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3827,6 +3827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRUHM|BTF-43SG|ikebukuro|AI PONT|
 |BRUHM|BTF-75TG|samseong|AI PONT|
 |BTC Mobile|S5548|S5548|S5548|
+|BTC Mobile|S8|S8|S8|
 |BTC Mobile|Touch|Touch|Touch|
 |BTG(RU)|BTG-PH-001|BTG_X1|BTG Phone X1|
 |BTOUCH|HUB 2|LKT_HUB|LKT_HUB|
@@ -18465,6 +18466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA 2K Android TV|lasalle|KONKA 2K Android TV|
 |KONKA|KONKA 2K Android TV-A|lasalle|KONKA 2K Android TV-A|
 |KONKA|KONKA 2K Android TV-B|lasalle|KONKA 2K Android TV-B|
+|KONKA|KONKA 2K Google TV|aalter|KONKA 2K Google TV|
 |KONKA|KONKA 4K Android TV|kenton|KONKA 4K Android TV|
 |KONKA|KONKA 4K Android TV-A|kenton|KONKA 4K Android TV-A|
 |KONKA|KONKA 4K Android TV-B|kenton|KONKA 4K Android TV-B|
@@ -18633,6 +18635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|INNOVA|zhongshan|CSV4K|
 |KTCtv|IQWORLD|lavender|4K SMART TV|
 |KTCtv|JAMUNA|elliniko|JAMUNA SMART TV|
+|KTCtv|JAMUNA|jagalchi|JAMUNA SMART TV|
 |KTCtv|JANUS|elliniko|4K SMART TV|
 |KTCtv|JSW|elliniko|4K SMART TV|
 |KTCtv|JVCO|elliniko|4K SMART TV|
@@ -18644,6 +18647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Leading Smart TV|minami|EcoTV J|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|MARSRIVA|elliniko|4K SMART TV|
+|KTCtv|MARSRIVA|jagalchi|2K SMART TV|
 |KTCtv|MAXIPOWER|elliniko|MAXIPOWER SMART TV|
 |KTCtv|MITSUKI|lavender|4K SMART TV|
 |KTCtv|MULTISMART|elliniko|4K SMART TV|
@@ -32264,6 +32268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P60_EUR|P60_EUR|P60_EUR|
 |Relndoo|P60_ROW|P60_ROW|P60|
 |Relndoo|P60_US|P60_US|P60_US|
+|Relndoo|P60_U_US|P60_U_US|P60|
 |Relndoo|P60_U_US|P60_U_US|P60_U_US|
 |Relndoo|P80_EU|P80_EU|P80|
 |Relndoo|P80_EUR|P80|P80|
@@ -32409,6 +32414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Roenllce|L10-T12-EEA|L10-T12-EEA|L10|
 |Rokid|station2|station2|RG-station2|
 |Rombica|myPhone Jet|myPhone_Jet|myPhone Jet|
+|Rosso|ROSSO|jagalchi|SMART TV|
 |Rosso|ROSSO|zhongshan|4K SMART TV|
 |Rosso|Rosso|stanford|40D|
 |Rotai|Remoter|Rotai_1201_Remoter|Remoter|
@@ -43594,6 +43600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VANTEC|G5|G5|G5|
 |VANTEC|telma_i401|G4|G4|
 |VASOUN|L10-C03|L10-C03|L10-C03|
+|VASOUN|L10-C03_EEA|L10-C03_EEA|L10-C03_EEA|
 |VASOUN|L10-M01|TAB12_Pro|L10-M01|
 |VASOUN|L10-T01|L10-T01|L10-T01|
 |VASOUN|L10-T02|L10-T02|L10-T02|
@@ -43602,6 +43609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|L10-T02-EEA|L10-T02-EEA|L10-T02-EEA|
 |VASOUN|L10-T11|L10-T11|L10-T11|
 |VASOUN|L10-T11-EEA|L10-T11-EEA|L10-T11-EEA|
+|VASOUN|L10-T17|L10-T17|L10-T17|
 |VASOUN|L10-T17-EEA|L10-T17-EEA|L10-T17-EEA|
 |VASOUN|L10_A01|L10_A01|L10|
 |VASOUN|L10_A01_EEA|L10_A01_EEA|L10|
@@ -43752,6 +43760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VIZZION|vizzion|zhongshan|F VIZZION TV|
 |VK DIGITAL|VKONBOX|SEI740VK|VKONEBOX|
+|VL Wireless Inc|VL68|VL68|VL68|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68 Lite|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68_Lite|
 |VNPT Technology|VNPT SmartBox|vnptt_smb_3|VNPT SmartBox 3|
@@ -50062,6 +50071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PM82T|PM82T|PM82T|
 |onn.|PM82TW|PM82TW|PM82TW|
 |onn.|PP86AK|PP86AK|PP86AK|
+|onn.|SL713B1|SL713B1|SL713B1|
 |onn.|Tablet Gen 4|100135923|100135923|
 |onn.|Tablet Gen 4|100135925|100135925|
 |onn.|onn. 11  Tablet Pro|onn11TabletPro|100146660|
