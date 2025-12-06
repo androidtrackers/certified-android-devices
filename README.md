@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-05
+Last sync is 2025-12-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -381,6 +381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASTEX|ASTEX 4K Android|kenton|ASTEX 4K Android|
 |ASTEX|ASTEX 4K Google TV|keoneae|ASTEX 4K Google TV|
 |ASTEX|ASTEX Google TV|bandra|ASTEX Google TV|
+|ASTEX|KKRTK2851FJTGTV_ASTEX|ksr|ASTEX JT Google TV|
 |ASTON|Hyper_Max_Power|Hyper_Max_Power|Hyper_Max_Power|
 |ASTON|IDEA|IDEA|IDEA|
 |ASTON|NEO|NEO|NEO|
@@ -1227,6 +1228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ainmel|KB1001A|KB1001|KB1001|
 |Ainmel|KB1001A_EEA|KB1001|KB1001|
 |Ainmel|KB1001_EEA|KB1001|KB1001|
+|Ainmel|KB1003_EEA|KB1003|KB1003|
 |Ainmel|KB1004|KB1004|KB1004|
 |Ainmel|KB1004A|KB1004|KB1004|
 |Ainmel|KB1004A_EEA|KB1004|KB1004|
@@ -5668,6 +5670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Captiva|Pad 10 3G pLUS|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
 |Carbon Mobile|Carbon 1 Mark II|C1M2BD_R2|Carbon 1 Mark II|
 |Carbon Mobile|Carbon Mobile|C1M2BD_R1|C1M2BD_R1|
+|Carchi|R10_PLUS|R10_PLUS|R10|
 |CarePad|C101|C101|C101|
 |Carpe_Iter|Adventure Pad|CIAP1|CIAP-01EU|
 |Carrefour|CT1000|Carrefour|CT1000|
@@ -14442,6 +14445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|A1_Plus|A1_Plus|A1 Plus|
 |Hotwav|A36|A36|A25 Ultra|
 |Hotwav|A36|A36|A36|
+|Hotwav|A36|A36|A56|
 |Hotwav|A56|A56|A56|
 |Hotwav|Cosmos|Cosmos|Cosmos|
 |Hotwav|Cosmos_U|Cosmos_U|Cosmos U|
@@ -18458,6 +18462,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|HYUNDAI 4K Google TV-E|keoneae|HYUNDAI 4K Google TV-E|
 |KONKA|KC516|KC516|KC516|
 |KONKA|KC516_Pro|KC516_Pro|KC516 Pro|
+|KONKA|KKRTK2851FGTV_K|clara|KONKA 4K Google TV|
+|KONKA|KKRTK2875P_K|coxwell|KONKA 4KP Google TV|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|KONKA|seocho|KONKA 4K Android TV|
 |KONKA|KONKA|sugamo|KONKA 2K Android TV|
@@ -29096,6 +29102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PIXPEAK|L60-EEA|L60-EEA|L60-EEA|
 |PIXPEAK|M186-EEA|M186-EEA|M186-EEA|
 |PIXPEAK|M258-EEA|M258-EEA|M258-EEA|
+|PIXPEAK|M832-EEA|M832-EEA|M832-EEA|
 |PIXPEAK|P107-EEA|P107-EEA|P107-EEA|
 |PIXPEAK|Tablet|Tablet|P7-EEA|
 |PIXPEAK|U921|U921|U921|
@@ -31496,6 +31503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RATR30824|RATR30824|RATR30824|
 |RCA|RATR31024|RATR31024|RATR31024|
 |RCA|RC10T3G21|RC10T3G21|RC10T3G21|
+|RCA|RC10TB|RC10TB|OA-SAHARA|
 |RCA|RC10TB|RC10TB|RC10TB|
 |RCA|RC7T3G19|RC7T3G19|RC7T3G19|
 |RCA|RC7T3G21|RC7T3G21|RC7T3G21|
@@ -43505,6 +43513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unnecto|UB101_albssl|Bolt10|UB101|
 |Unnecto|UB202|Bolt20|UB202|
 |Unnecto|UB202_albssl|Bolt20|UB202|
+|Unnecto|UB501_licar|Bolt_5G|UB501|
 |Unnecto|UB501_openesm|Bolt_5G|UB501|
 |Unnecto|UB501_openla|Bolt_5G|UB501|
 |Unnion Technologies|HH25|HH25|HH25|
