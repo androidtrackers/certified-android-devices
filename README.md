@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-07
+Last sync is 2025-12-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1645,6 +1645,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay 50 mini|iPlay_50_mini|iPlay 50 mini|
 |Alldocube|iPlay 50S|T1029T|iPlay_50S|
 |Alldocube|iPlay 60 Pad Pro|T1201|T1201|
+|Alldocube|iPlay 70 Max Pro 5G|T1302G|iPlay70MaxPro5G|
 |Alldocube|iPlay 8 Pro|T806MH|T806MH|
 |Alldocube|iPlay 8 Pro|T806MHE|T806MHE|
 |Alldocube|iPlay 8T|T802|iPlay_8T|
@@ -1939,6 +1940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|Packgo|AP2718T|AP2718T|
 |Apolosign|PortableTV|SW3299T|SW3299T|
 |Apolosign|PortableTV|SW3299T|SW3299T-4K|
+|Apolosign|PortableTVSW3299TFHD|SW3299TFHD|StandMe|
 |Apolosign|WF1589T|WF1589T|WF1589T|
 |Apolosign|WF2189T|WF2189T|Apolosign Calendar|
 |Apolosign|WF2189T|WF2189T|WF2189T|
@@ -5906,6 +5908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellution|PADUA_1|PADUA_1|PADUA_1|
 |Celtiis|Celtiis Smart 2|H6032|Celtiis Smart 2|
 |Centerm|CTA Q7|SmartPOS|CTA Q7|
+|Centerm|K6|K6|K6|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
 |Centric|G1|CM4331|CM4331|
@@ -9921,6 +9924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|S3_Pro|S3_Pro|S3 Pro|
 |FOSSiBOT|S3_ROW|S3|S3|
 |FOSSiBOT|S5|S5|S5|
+|FOSSiBOT|S5 Pro|S5_Pro|S5_Pro|
 |FOSSiBOT|Tab 11|Tab_11|Tab 11|
 |FOSSiBOT|Tab 13|Tab13|Tab 13|
 |FOSSiBOT|Tab_12|Tab_12|Tab 12|
@@ -10713,6 +10717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GDL(BD)|GDL Xtreme6|Xtreme_6|Xtreme 6|
 |GDL(BD)|GigaX Y11|Y11|GigaX Y11|
 |GDL(BD)|GigaX Y30|Y30|GigaX Y30|
+|GDL(BD)|GigaX_S7|GigaX_S7|GigaX S7|
 |GDM (es)|MB10|MB10|MB10|
 |GDM (es)|MB9|MB9|MB9|
 |GDM (es)|MB9_PRO|MB9_PRO|MB9_PRO|
@@ -16499,6 +16504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INFINITON|SPAIN|MOROCCO|PORTUGAL|
 |INFINITON|SPAIN|MOROCCO|PORTUGAL|
 |INGSCREEN|IS-Pro-Series|IS_Panel|IS-Pro-Series|
+|INGSCREEN|IS_6518_Pro|IS_Panel|IS_6518|
 |INMO|IMA301|IMA301|IMA301|
 |INNOCN|32S1U Pro|32S1U_Pro|32S1U_Pro|
 |INNOCN|32S1U_Pro|32S1U_Pro|32S1U_Pro|
@@ -16523,6 +16529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI 3 LITE|INOI_3_LITE|INOI_3_LITE|
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI A151|A151|A151|
+|INOI|INOI A16|INOI_A16|A152|
 |INOI|INOI A34|INOI_A34|A340|
 |INOI|INOI A35 Adventure|INOI_A35_Adventure|A350|
 |INOI|INOI A52 Lite 32GB|A150|A150|
@@ -24515,6 +24522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicel|P11|P11|P11|
 |Mobicel|P11 Plus|P11_Plus|P11 Plus|
 |Mobicel|P12|P12|P12|
+|Mobicel|P12 Plus|Mobicel_P12_Plus|Mobicel P12 Plus|
 |Mobicel|P5|P5|P5|
 |Mobicel|P6|P11_Plus|P6|
 |Mobicel|RX|RX|RX|
@@ -28691,21 +28699,39 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C57_S_EEA|C57_S|C57 S|
 |Oukitel|C58_EEA|C58|C58|
 |Oukitel|C58_Pro_EEA|C58_Pro|C58 Pro|
+|Oukitel|C59 Pro_A15_EEA|C59_Pro_A15|C59 Pro|
+|Oukitel|C59_A15_EEA|C59_A15|C59|
 |Oukitel|C59_Pro_EEA|C59_Pro|C59 Pro|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C60_Pro_EEA|C60_Pro|C60 Pro|
 |Oukitel|C61_A15_EEA|C61|C61|
+|Oukitel|C61_Plus_ROW|C61_Plus|C61 CDMA|
 |Oukitel|C61_Pro|C61_Pro|C61 Pro|
 |Oukitel|C61_Pro_A15_EEA|C61_Pro|C61 Pro|
+|Oukitel|C61_Pro_A15_ROW|C61_Pro|C61 Pro|
 |Oukitel|C61_Pro_EEA|C61_Pro|C61 Pro|
 |Oukitel|C62_A15_EEA|C62|C62|
 |Oukitel|C62_A15_ROW|C62|C62|
 |Oukitel|C62_Pro_A15_EEA|C62_Pro|C62 Pro|
+|Oukitel|C62_Pro_A15_ROW|C62_Pro|C62 Pro|
 |Oukitel|C62_Pro_EEA|C62_Pro|C62 Pro|
 |Oukitel|C63_EEA|C63|C63|
 |Oukitel|C63_Pro_EEA|C63_Pro|C63 Pro|
 |Oukitel|C65_EEA|C65|C65|
 |Oukitel|C65_Pro_EEA|C65_Pro|C65 Pro|
+|Oukitel|C68_EEA|C68|C68|
+|Oukitel|C68_NFC_EEA|C68|C68|
+|Oukitel|C68_NFC_ROW|C68|C68|
+|Oukitel|C68_Plus_EEA|C68_Plus|C68 Plus|
+|Oukitel|C68_Plus_NFC_EEA|C68_Plus|C68 Plus|
+|Oukitel|C68_Plus_NFC_ROW|C68_Plus|C68 Plus|
+|Oukitel|C68_ROW|C68|C68|
+|Oukitel|C69_EEA|C69|C69|
+|Oukitel|C69_NFC_EEA|C69|C69|
+|Oukitel|C69_NFC_ROW|C69|C69|
+|Oukitel|C69_ROW|C69|C69|
+|Oukitel|C6_EEA|C6|C6|
+|Oukitel|C6_ROW|C6|C6|
 |Oukitel|C7_EEA|C7|C7|
 |Oukitel|C7_ROW|C7|C7|
 |Oukitel|C8|C8|C8|
@@ -28793,6 +28819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|RT5_EEA|RT5|RT5|
 |Oukitel|RT6_EEA|RT6|RT6|
 |Oukitel|RT6_NFC_EEA|RT6|RT6|
+|Oukitel|RT7_TITAN_5G_EEA|RT7_TITAN_5G|RT7 TITAN 5G|
 |Oukitel|RT7_TITAN_EEA|RT7_TITAN|RT7 TITAN|
 |Oukitel|RT8_EEA|RT8|RT8|
 |Oukitel|RT9_EEA|RT9|RT9|
@@ -28886,9 +28913,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP55_EEA|WP55|WP55|
 |Oukitel|WP55_Ultra_EEA|WP55_Ultra|WP55 Ultra|
 |Oukitel|WP56_EEA|WP56|WP56|
+|Oukitel|WP58_Pro_EEA|WP58_Pro|WP58 Pro|
+|Oukitel|WP58_Pro_ROW|WP58_Pro|WP58 Pro|
 |Oukitel|WP5_Pro_row|WP5_Pro|WP5 Pro|
 |Oukitel|WP6|WP6|WP6|
 |Oukitel|WP61_EEA|WP61|WP61|
+|Oukitel|WP62_A15_EEA|WP62|WP62|
+|Oukitel|WP62_A15_ROW|WP62|WP62|
 |Oukitel|WP6_EEA|WP6|WP6|
 |Oukitel|WP7|WP7|WP7|
 |Oukitel|WP8_Pro|WP8_Pro|WP8 Pro|
@@ -31693,6 +31724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Razer Edge 5G|RZ45-0460|Razer Edge 5G|
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
+|ReSYS|RE SYS-IFPD|oversea_v|ReSYS_IB|
 |Readly|ReadlyReaderOne|ReadlyReaderOne|ReadlyReaderOne|
 |Realix|RxIS02|RxIS02|RxIS02|
 |Realix|RxIS201|RxIS201|RxIS201|
@@ -32495,6 +32527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6537G|S6537G|S6537G|
 |Ruio|S6539Q|S6539Q|Edge X1|
 |Ruio|S6539Q|S6539Q|Hot2|
+|Ruio|S6539Q|S6539Q|S6539|
 |Ruio|S6539Q|S6539Q|S6539Q|
 |Ruio|S6539Q|S6539Q|T1|
 |Ruio|S6539Q|S6539Q|VISION|
@@ -32899,6 +32932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|ZEUS_4G_PRO|ZEUS_4G_PRO|ZEUS_4G_PRO|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SPECTRA|Ranger710|akita|Ranger710|
+|SPECTRA|Spectra J2|Spectra_J2|Spectra_J2|
 |SPECTRA|Spectra MobileMapper6|MobileMapper6|MobileMapper6|
 |SPECTRA|TAP-POS|TAP-POS|SAH55|
 |SPECTRA|tap-POS-AM|tap-POS-AM|SAH55AM|
@@ -37809,6 +37843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
 |SmartPeak|P3000|P3000|P3000|
 |Smart_Touch|ST IR13|STG_IR13|STG_Series|
+|Smart_Touch|Smart Touch QERA|QERA|QERA_Series|
 |Smartab|SRF79|SRF79|SRF79|
 |Smartab|ST1009X|ST1009X|ST1009X|
 |Smartab|ST1020|ST1020|ST1020|
@@ -48769,6 +48804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE V1000|P671S20|ZTE V1000|
 |ZTE|ZTE V1050|P671S50|ZTE V1050|
 |ZTE|ZTE V890|sdm660_64|ZTE V890|
+|ZTE|ZTE X1010|P310T10|ZTE X1010|
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
 |ZTE|ZTE ZPAD8|K83|K83V|
 |ZTE|ZTE-V9VITA|P840F03|ZTE-V9VITA|
