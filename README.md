@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-08
+Last sync is 2025-12-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5253,6 +5253,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bush|Spira E2X 5\'\'|ac50dis|Bush Spira E2X 5 Smartphone|
 |Bytello|general_broad_3588|oversea_v|bytello_edla|
 |Byxsb|X134|X134|X134|
+|Byxsb|X134L|X134L|X134L|
+|Byxsb|X134L_EEA|X134L|X134L|
 |C&M|SH950C-CM|stb_catv_cnmuhd|SH950C-CM|
 |C&M|Smart TV II|stb_catv_cnm|SX930C-CC|
 |C5 Mobile|NOATAB|NOATAB|NOATAB|
@@ -5472,6 +5474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COLORROOM|T30E|T30E|T30E|
 |COLORROOM|W70|W70|W70|
 |COMBUSTECH|COMBUSTECH-IFPD|rk3588_t|COMBUS_IB|
+|COMBUSTECH|COMBUS_IB3|COMBUS_IB3|COMBUS_IB3|
 |COMMTEC|C80|C80|C80|
 |COMPAX|ACE 1s Pro|ACE_1s_Pro|A3-1510P|
 |COMPUMAX|BLUEPAD10|BLUEPAD10|BLUEPAD10|
@@ -11729,6 +11732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAOVM|W10|W10|W10|
 |HAOWEI|HBDC-1122|HBDC-1122|HBDC-1122|
 |HAOWEI|HBDC-822|HBDC-822|HBDC-822|
+|HAPPYNET|HPN-QA15|HPN-QA15|HPN-QA15|
 |HAVIT|PJ209APlus|himalaya|PJ209APlus|
 |HAZARD_TALK|M2|M2|M2|
 |HBESTORE|HL_1068_A133|HL_1068_A133|HL_1068_A133|
@@ -23030,6 +23034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAXLEGEN|M621|M621|M621|
 |MAXLEGEN|M621-EEA|M621-EEA|M621-EEA|
 |MAXLEGEN|M708-EEA|M708-EEA|M708-EEA|
+|MAXRON|MXCORE|MXCORE|MXCORE|
 |MAXRON|MXPAD|MXPAD|MXPAD|
 |MAXRON|MXULTRA|MXULTRA|MXULTRA|
 |MAXX|Grand Prime|Grand_Prime|Grand Prime|
@@ -29082,6 +29087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|AT74K|AT74K|AT74K|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
+|PEICHENG|CP31U|CP31U|CP31U|
 |PEICHENG|CP81S_PRO|CP81S_PRO|CP81|
 |PEICHENG|CP81S_PRO|CP81S_PRO|CP81S_PRO|
 |PEICHENG|P13Max|P13Max|P13Max|
