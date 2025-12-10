@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-09
+Last sync is 2025-12-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21403,7 +21403,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9810|LN9810|LAVA LN9810|
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
-|Lava|LT4900|LT4900|LT4900|
 |Lava|LXX519|LXX519|LAVA LXX519|
 |Lava|LZG01|LZG01|LAVA LZG01|
 |Lava|Lava LXX517|LXX517|LXX517|
@@ -26393,6 +26392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEMO|N36s|N36s|N36s|
 |NEO|GF214-NEO|GF214-NEO|GF214-NEO|
 |NEO|GF215-REY|GF214-NEO|GF215-REY|
+|NEO|Neo-Tab-T606-Plus|Neo-Tab-T606-Plus|Neo-Tab-T606-Plus|
 |NEON|Neon Tab 11|Neon_Tab_11|Neon Tab 11|
 |NEONIQ|NQT-1013GIQ|NQT-1013GIQ|NQT-1013GIQ|
 |NEONIQ|NQT-1014GIQ|NQT-1014GIQ|NQT-1014GIQ|
@@ -26736,6 +26736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT6552-RU|NLS-MT6552-RU|NLS-MT65|
 |Newland|NLS-MT6555-GL|NLS-MT6555-GL|NLS-MT65|
 |Newland|NLS-MT6755-GL|NLS-MT6755-GL|NLS-MT67|
+|Newland|NLS-MT6757|NLS-MT6757|NLS-MT67|
 |Newland|NLS-MT9050-AM|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9052-EEA|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9052-GL|NLS-MT9052-GL|NLS-MT90|
@@ -28452,6 +28453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno14 Pro 5G|OP5F05L1|CPH2739|
 |Oppo|Reno15|OP61B7L1|PLW110|
 |Oppo|Reno15 Pro|OP61B3L1|PLV110|
+|Oppo|Reno15c|OP61BBL1|PMD110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
