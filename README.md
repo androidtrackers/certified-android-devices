@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-10
+Last sync is 2025-12-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5324,6 +5324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABEVOP12|CTABEVOP12|CTABEVOP12|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
 |CEPTER|CTABNEXUS8128|CTABNEXUS8128|CTABNEXUS8128|
+|CEPTER|CTABNEXUSW|CTABNEXUSW|CTABNEXUSW|
 |CEPTER|CTABTERRA128|CTABTERRA128|CTABTERRA128|
 |CEPTER|CTABTERRA256|CTABTERRA256|CTABTERRA256|
 |CEPTER|CTABTITAN12|CTABTITAN12|CTABTITAN12|
@@ -5567,6 +5568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CVTE|general_3576|oversea_b|bytello_edla|
 |CVTE|general_camera_broad|rk3576_u|general_edu_v2|
 |CVTE|mensa_an64|mensa|mensa|
+|CViauto|ARK01|ARK01|BRK7600SPL|
 |CWELL|M10|M10|CWELL M10|
 |CWOWDEFU|C10G|C10G|C10G|
 |CWOWDEFU|C10W_EEA|C10W_EEA|C10W_EEA|
@@ -8837,6 +8839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECONNECT|RH511G|RH511G|RH511G|
 |ECONNECT|SQ126G|SQ126G|SQ126G|
 |ECOPAD|A30L1_EEA|A30L1|A30L1|
+|ECOPAD|K12L1|K12L1|K12L1|
 |ECOPAD|K90|K90|K90|
 |ECS|RealPad MA7BX2|RealPad_MA7BX2_1|RealPad MA7BX2|
 |ECS|TC69CA2|TC69CA2_1|TC69CA2|
@@ -9080,6 +9083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|E65|E65|E65|
 |ETELPREMIUM|NOTE 25 ULTRA|NOTE_25_ULTRA|N2500|
 |ETELPREMIUM|P68|ETEL_P68|ETEL P68|
+|ETEL_premium|ETEL-E28|ETEL-E28|E28|
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
 |ETERNITY|HEROSP001|HEROSP001|SP-001|
 |ETERNITY|ZEUSs68|UWS68|ZEUSs68|
@@ -10765,6 +10769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G10_V_EEA|G10|G10_V_EEA|
 |GOODTEL|G10_V_US|G10|G10|
 |GOODTEL|G11_U_EEA|G11_U_EEA|G11_U_EEA|
+|GOODTEL|G11_U_US|G11_U_US|G11_U_US|
 |GOODTEL|G2-EEA|G2-EEA|G2-EEA|
 |GOODTEL|G2_A_EEA|G2_A_EEA|G2_A_EEA|
 |GOODTEL|G2_EEA|G2_EEA|G2_EEA|
@@ -11753,6 +11758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|F5|Fpad5|F5|
 |HEADWOLF|F5A|F5A|F5A|
 |HEADWOLF|F6|F6|F6|
+|HEADWOLF|F6E|F6E|F6E|
 |HEADWOLF|F7|F7|F7|
 |HEADWOLF|F8|F8|Titan 1|
 |HEADWOLF|Fpad1|Fpad1|F1|
@@ -16641,6 +16647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|IRA_DUO_PLUS|IRA_DUO_PLUS|IRA_DUO_PLUS|
 |IRA (explore more)|IRA_DUO_PRO_5G|IRA_DUO_PRO_5G|IRA DUO PRO 5G|
 |IRA (explore more)|IRA_T1029|IRA_T1029|IRA_T1029|
+|IRA (explore more)|IRA_T1030M|IRA_T1030M|IRA_T1030M|
 |IRA (explore more)|IRA_T803M|IRA_T803M|IRA_T803M|
 |IRA (explore more)|IRA_T803M|VPTB8A|Vision Plus Tab 8A|
 |IRA (explore more)|IRA_T808M|IRA_T808M|IRA_T808M|
@@ -18811,6 +18818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black_5|Black_5|Black_5|
 |Kalley|Black_5C|Black_5|Black_5|
 |Kalley|Black_6C|Black_6C|Black 6|
+|Kalley|Black_6G|Black_6C|Black 6|
 |Kalley|Black_C_Plus|Black_C_Plus|Black C Plus|
 |Kalley|Black_E|Black_E|Black_E|
 |Kalley|Black_E2C|Black_E2|Black E2|
@@ -21292,6 +21300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|ilium_S106|Ilium_S106|Ilium S106|
 |Lanix|llium Pad L8|llium_Pad_L8|llium Pad L8|
 |Laptok|G11|G11|G11|
+|Laptok|G11L|G11L|G11L|
 |Laptok|G11_EEA|G11|G11|
 |Laptok|X11|X11|X11|
 |Lark|Cumulus 5 HD|Cumulus_5_HD|Cumulus_5_HD|
@@ -23533,6 +23542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|MASTER-G|elliniko|4K SMART TV|
 |Master-G|MASTER-G|lavender|4K SMART TV|
 |Master-G|MGTBA10OC|MGTBA10OC|MGTBA10OC|
+|Master-G|MGTBA8OC|MGTBA8OC|MGTBA8OC|
 |Master-G|Master-G|hongkong|4K SMART TV|
 |Master-G|Master-G|mountbaker|2K SMART TV|
 |Master-G|R10G|R10G|R10G|
@@ -27869,6 +27879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5 2020|OP4B79L1|CPH1931|
 |Oppo|A5 2020|OP4B79L1|CPH1933|
 |Oppo|A5 2020|OP4B80L1|CPH1943|
+|Oppo|A5 5G|OP5EF7L1|A502OP|
 |Oppo|A5 5G|OP5EF7L1|CPH2735|
 |Oppo|A5 5G|OP5EF7L1|CPH2751|
 |Oppo|A5 Pro|OP5ED9L1|CPH2711|
@@ -27918,6 +27929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A59t|A59|OPPO A59t|
 |Oppo|A59tm|A59|OPPO A59tm|
 |Oppo|A5i Pro|OP5EEDL1|CPH2755|
+|Oppo|A5i Pro 5G|OP5EF7L1|CPH2821|
 |Oppo|A5m|OP5EEDL1|CPH2759|
 |Oppo|A5x|OP5EEDL1|CPH2725|
 |Oppo|A5x 5G|OP5EF7L1|CPH2733|
@@ -29123,6 +29135,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PHILCO (ar)|P510|P510|P510|
 |PHILCO (ar)|P610|P610|P610|
 |PHILCO (ar)|TP10A464D|TP10A464D|TP10A464D|
+|PHYWE|12998-99CobraSMARTlink|12998-99|12998-99|
+|PHYWE|12998-99ECobraSMARTlink|12998-99|12998-99|
 |PHYWE|SMARTlink|SMARTlink|SMARTlink|
 |PHYWE|SMARTlink_EEA|SMARTlink_EEA|SMARTlink_EEA|
 |PILOT|Android TV|longshan|AI PONT|
@@ -30080,6 +30094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids20A14_EEA|Kids20A14_EEA|Kids20|
 |Plimpton|Kids20A15|Kids20A15|Kids20|
 |Plimpton|Kids20A15_EEA|Kids20A15_EEA|Kids20|
+|Plimpton|Kids20_A16_JAE|Kids20_A16_JAE|Kids20_A16_JAE|
 |Plimpton|Kids20_EEA|Kids20_EEA|Kids20|
 |Plimpton|Kids20_PA15|Kids20_PA15|Kids20_PA15|
 |Plimpton|Kids20_PA15_EEA|Kids20_PA15_EEA|Kids20_PA15_EEA|
@@ -30092,6 +30107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|P1|P1|P1|
 |Plimpton|P1A15|P1A15|P1A15|
 |Plimpton|P1A15_EEA|P1A15_EEA|P1A15_EEA|
+|Plimpton|P1_A16_JAE|P1_A16_JAE|P1_A16_JAE|
 |Plimpton|P2|P2|P2|
 |Plimpton|P2A16|P2A16|P2A16|
 |Plimpton|P2_EEA|P2_EEA|P2_EEA|
@@ -30982,6 +30998,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_B07_EEA|M10_B07_EEA|M10|
 |Pritom|M10_B08|M10_B08|M10|
 |Pritom|M10_B08EEA|M10_B08EEA|M10|
+|Pritom|M10_B09|M10_B09|M10|
 |Pritom|M10_B09_EEA|M10_B09_EEA|M10|
 |Pritom|M10_C01|M10_C01|M10_C01|
 |Pritom|M10_C01_EEA|M10_C01_EEA|M10_C01_EEA|
@@ -31845,6 +31862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realtime|RT8|RT8|RT8|
 |Realtime|Realtime_T503F_L1|Realtime_T503F_L1|Realtime_T503F_L1|
 |Realtime|T503F|T503F|T503F|
+|Realtime|T503F_L1|T503F_L1|T503F_L1|
 |Rebecco|K30_EEA|K30_EEA|K30_EEA|
 |Rebecco|K30_EEA_B|K30_EEA_B|K30_EEA|
 |Rebecco|K30_EEA_B|K30_EEA_B|K30_EEA_B|
@@ -31879,6 +31897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|M30_Pro|M30_Pro|M30|
 |Rebecco|M70_EEA|M70|M70|
 |Rebecco|M70_ROW|M70|M70|
+|Rebecco|M70_US|M70_US|M70|
 |Rebecco|X30|X30|X30|
 |Rebecco|X30_EEA|X30|X30|
 |Rebecco|Z50_EEA|Z50|Z50|
@@ -31889,6 +31908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11|A11|A11|
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
+|RebotAi|AF13|AF13|AF13|
 |RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
@@ -33201,6 +33221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|TAB_P12_EEA|TAB_P12|TAB P12|
 |SVITOO|TAB_P1300|TAB_P1300|TAB_P1300|
 |SVITOO|TAB_P1300_EEA|TAB_P1300_EEA|TAB_P1300_EEA|
+|SVITOO|V13|V13|V13|
 |SWACONNECT|SWA310|SWA310|SWA310|
 |SWACONNECT|SWA310_NEU|SWA310|BCGA92|
 |SWACONNECT|SWA310_NEU|SWA310|GMS_TAB10|
@@ -41819,10 +41840,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T65Plus_EEA|T65Plus_EEA|T65Plus_EEA|
 |Teclast|T65Plus_ROW|T65Plus_ROW|T65Plus_EEA|
 |Teclast|T65Plus_ROW|T65Plus_ROW|T65Plus_ROW|
+|Teclast|T65_A5D8|T65_A5D8|T65_A5D8|
 |Teclast|T65_EEA|T65|T65_EEA|
 |Teclast|T65_L_ROW|T65_L|T65_L_ROW|
 |Teclast|T65_ROW|T65|T65_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|
+|Teclast|T70_E_ROW|T70_E|T70_E_ROW|
 |Teclast|T70_ROW|T70_ROW|T70_ROW|
 |Teclast|T70_T_EEA|T70|T70_T_EEA|
 |Teclast|T8|T8|T8|
@@ -42998,8 +43021,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |URAO|C109-3|C109|C109|
 |URAO|G140L|G140L|G140L|
 |URAO|G140L_EEA|G140L|G140L|
+|URAO|G142L_EEA|G142L|G142L|
 |URAO|X107|X107|X107|
 |URAO|X107_EEA|X107|X107|
+|URAO|X108|X108|X108|
+|URAO|X108_EEA|X108|X108|
 |USA111|IRULU X11|iRULU-X11|iRULU X11|
 |USA111|IRULU X9|X9|X9|
 |USA111|Irulu X7|X7|X7|
@@ -44377,6 +44403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic||viewpad7x|ViewPad7X|
 |ViewSonic||viewpad7x|ViewPad7x|
 |ViewSonic|IFP34|IFP34|IFP34|
+|ViewSonic|IFP41_1_Series|IFP41_1|IFP41_1|
 |ViewSonic|IFP51_Series|IFP51|IFP51|
 |ViewSonic|IFP53_Series|IFP53|IFP53|
 |ViewSonic|IFP63 Series|IFP63|IFP63|
@@ -45820,6 +45847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|G13A|G13A|G13A|
 |Whitedeer|G13A_EEA|G13A|G13A|
 |Whitedeer|G13L|G13L|G13L|
+|Whitedeer|G13L_EEA|G13L|G13L|
 |Whitedeer|G13_EEA|G13|G13|
 |Whitedeer|KT1028|KT1028|KT1028|
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
@@ -50154,6 +50182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
 |raemond|X70_ROW|X70|X70|
+|raemond|X70_US|X70_US|X70|
 |raemond|X90_EEA|X90|X90|
 |raemond|Z90|Z90|Z90|
 |raemond|Z90_EEA|Z90|Z90|
