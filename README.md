@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-11
+Last sync is 2025-12-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1908,6 +1908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|U10PRO|U10PRO|U10PRO|
 |Apex|Z12_PRO|Z12_PRO|Z12_PRO|
 |Apex|Z4PRO|Z4PRO|Z4PRO|
+|Apolosign|AndroidTablet|WA1389T|WA1389T|
 |Apolosign|DigitalCalendar|FA158AT|FA158AT|
 |Apolosign|DigitalSignage|FA1569T|Apolosign Calendar|
 |Apolosign|DigitalSignage|FA1569T|FA1569T|
@@ -5199,6 +5200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brightside|KS_T01|KS_T01|KS_T01|
 |Brightstar|C8|C8|C8|
 |Brightstar|M8046IU|M8047IU|M8047IU|
+|Briotouch|IFP_ADPM|t7_an400|BrioTouch|
 |Briotouch|ULTRA-PLUS-BR|ULTRA-PLUS-BR|ULTRA-PLUS-BR|
 |Brisanet|brisaboxTV|IMTM4000RA|IMTM4000RA|
 |Britania|Britania Smart TV|sunnyvale|Britania Smart TV|
@@ -11778,6 +11780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|W5A|W5A|W5A|
 |HEADWOLF|W6A|W6A|W6|
 |HEADWOLF|W6B|W6B|W6B|
+|HEADWOLF|W6C|W6C|W6C|
 |HEADWOLF|W7|W7|W7|
 |HEADWOLF|WPAD2|WPAD2|W2|
 |HEADWOLF|Wpad1|Wpad1|W1|
@@ -14169,7 +14172,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Dolphin CT50|CT50LFN-CS13S|CT50|
 |Honeywell|Dolphin CT50|CT50LUN-CS13S|CT50|
 |Honeywell|EDA10A|EDA10A|EDA10A|
-|Honeywell|EDA10A-1|EDA10A|EDA10A|
 |Honeywell|EDA40|EDA40-0|EDA40|
 |Honeywell|EDA40|EDA40-1|EDA40|
 |Honeywell|EDA50|eda50-011|EDA50|
@@ -23789,6 +23791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
 |Mecool|KT1|KT1|KT1|
 |Mecool|KT2|ROM|KT2|
+|Mecool|MEgo1 2K|BKK|FHD Streaming Stick|
 |Mediabox|MBX4K Maverick|JFK|MBX4K Maverick|
 |Mediabox|MBX4K Ranger|DV8235|MBX4K Ranger|
 |Mediacom|10edge|10edge|10edge|
@@ -26754,9 +26757,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT9055-GL|NLS-MT9055-GL|NLS-MT90|
 |Newland|NLS-MT93|NLS-MT93|NLS-MT93|
 |Newland|NLS-MT95|NLS-MT95|NLS-MT95|
+|Newland|NLS-MT9556|NLS-MT9556|NLS-MT95|
 |Newland|NLS-N7|NLS-N7|NLS-N7|
 |Newland|NLS-NFT10|NLS-NFT10-GL|NLS-NFT10|
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
+|Newland|NLS-SD100P|NLS-SD100P|NLS-SD100P|
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
@@ -27939,6 +27944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A60|OP5AE7L1|CPH2631|
 |Oppo|A60|OP5B16L1|CPH3669|
 |Oppo|A60 5G|OP5EA7L1|CPH2683|
+|Oppo|A6x 5G|OP5F2BL1|CPH2823|
 |Oppo|A7|CPH1901|CPH1901|
 |Oppo|A7|CPH1905|CPH1905|
 |Oppo|A7|PBFM00|PBFM00|
@@ -38902,6 +38908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|KM2 PLUS DELUXE|YYC|4K Android TV Box|
 |Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|LEAP-S3 PRO|RMQ|UHD Google TV STB|
+|Strong|LEAP-UNA+|BKK|FHD Streaming Stick|
 |Strong|Leap-S3|YDA|4K Google TV Box|
 |Strong|SRT41|YYT|4K Google TV Stick|
 |Strong|SRT420|ZRH|4K Hybrid STB|
@@ -49695,6 +49702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iData|iData i2|i2|iData i2|
 |iData|iData i3|i3|iData i3|
 |iData|iDataT2|iDataT2|iDataT2|
+|iData|iDataW7|iDataW7|iDataW7|
 |iData|iData_50|iData_50|iData 50|
 |iData|iData_K1|iData_K1|iData K1|
 |iDea USA|CT8|CT8|CT8|
@@ -50181,6 +50189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
+|raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
 |raemond|X70_US|X70_US|X70|
 |raemond|X90_EEA|X90|X90|
