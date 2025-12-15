@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-14
+Last sync is 2025-12-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17031,6 +17031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix ZERO 40 5G|Infinix-X6861|Infinix X6861|
 |Infinix|Infinix ZERO 5G|Infinix-X6815B|Infinix X6815B|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
+|Infinix|Infinix ZERO Flip|Infinix-X6962|Infinix X6962|
 |Infinix|Infinix ZERO X|Infinix-X6811B|Infinix X6811B|
 |Infinix|Infinix ZERO X NEO|Infinix-X6810|Infinix X6810|
 |Infinix|Infinix ZERO X Pro|Infinix-X6811|Infinix X6811|
@@ -18573,6 +18574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC|SD_GM02|Leo|Eco Smart Display ME|
 |KTC|SD_GM03|Sagittarius|Eco Smart Display Lite|
 |KTC|W83B-LANGO3576|W83B-F2-RK3576|W83B-F2-RK3576|
+|KTC|W93B_A|W93B_A|W93B_A|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|ADSUN|stanford|2K SMART TV|
@@ -36705,6 +36707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Schok|SV55216A|SV55216|Schok Volt SV55|
 |Schok|SV67Q|SV67Q|Schok Volt SV67Q|
 |Schok|Schok Volt SV55U|SV55U216|Schok Volt SV55U|
+|Schok|Schok Volt SV69S|SV69S|Schok Volt SV69S|
 |Schok|freedom turbo|SFT5216|freedom turbo|
 |Schok|freedom turbo XL|freedom_turbo_XL|freedom turbo XL|
 |Schok|mini_SM7216|SM7216|SM7216|
