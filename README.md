@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-16
+Last sync is 2025-12-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5683,6 +5683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Captiva|CAPTIVA Pad 10 3G Plus|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
 |Captiva|Pad 10 2-in-1|Pad_10_2_in_1|Pad_10_2_in_1|
 |Captiva|Pad 10 3G pLUS|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
+|Caravan|RSE_Caravan|RSE_Caravan|RSE|
 |Carbon Mobile|Carbon 1 Mark II|C1M2BD_R2|Carbon 1 Mark II|
 |Carbon Mobile|Carbon Mobile|C1M2BD_R1|C1M2BD_R1|
 |Carchi|R10_PLUS|R10_PLUS|R10|
@@ -6242,6 +6243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
 |Claro|Claro STB|SEI810CPR|Claro STB|
 |Claro|Claro TV Box 4k|B866VH|Claro TV Box 4k|
+|Claro|Claro TV Stick 4k​|SEI900AMXS|Claro TV Stick 4k|
 |Claro|ClaroTV+ Mini|SEI700CPR|Claro TV+ Mini|
 |Claro|S4KW3|m393_4l|S4KW3|
 |Claro|SEI810CPR|SEI810CPR|Claro STB|
@@ -9133,6 +9135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVOFORCE1|MOBI-Buckeye|SEI800MOBI|MOBI-Buckeye|
 |EVOFORCE1|MOBI-SECTV|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|MOBI-SECTV|SEI800MOBI|MOBI-SECTV|
+|EVOPRO|EVO Fuse Pro|SEID00DEV|EVO Fuse Pro|
 |EVOPRO|EVOPRO|SEI500EV|EVOPRO|
 |EVOTA|EVOTA_EP|MTK9679|EVOTA_EP|
 |EVVO|Android TV|R1|ATV R1|
@@ -12765,6 +12768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUGEROCK|E101_EEA|E101|E101|
 |HUGEROCK|H8|H8|H8|
 |HUGEROCK|H81|H81-M50|H81|
+|HUIHUANG|C90|C90|C90|
 |HUIHUANG|C90_EEA|C90|C90|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
@@ -29191,6 +29195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PIXPRO|VisionTab_10|VT10_Rugged|PX-M1025|
 |PLDT|PLDT-GMB8260|DS8942-KPP|PLDT-GMB8260|
 |PLDT|Smart Page 8 Pro|Smart_Page_8_Pro|Smart_Page_8_Pro|
+|PLDTHOME|Video Sound Box|vsb3918_apac|VIDEO SOUND BOX|
 |PLOYER|A1190|A1190|A1190|
 |PLOYER|CP-518|CP-518|CP-518|
 |PLOYER|CP-519|CP-519|CP-519|
@@ -36587,6 +36592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z TriFold|q7mq|SM-F9680|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F968B|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F968N|
+|Samsung|Galaxy Z TriFold|q7mq|SM-F968U1|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -38849,6 +38855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|Alpha 200|Alpha_200|Alpha 200|
 |Starlight|Alpha_300|Alpha_300|Alpha 300|
 |Starlight|Alpha_300|Alpha_300|NOTE TK02|
+|Starlight|Alpha_300|Alpha_300|iHunt S26 ULTRA|
 |Starlight|Alpha_400|Alpha_400|Alpha 400|
 |Starlight|C_Note|C_Note|C_Note|
 |Starlight|C_Note_Pro|C_Note_Pro|C_Note_Pro|
@@ -41210,6 +41217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECHLIFE|TLPADPLUS|TLPADPLUS|TLPADPLUS|
 |TECHLIFE|TechLife Pad Pro 12|TLPADPRO1|TLPADPRO1|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
+|TECH_VIEW|Tab_80_pro|Tab_80_pro|Tab_80_pro|
 |TECHcomputer|F102-T610-EEA|F102-T610-EEA|F102-T610-EEA|
 |TECHcomputer|F102-T610-EEA-GG5|F102-T610-EEA-GG5|F102-T610-EEA-GG5|
 |TECHcomputer|F102-T618-EEA|F102-T618-EEA|F102-T618-EEA|
@@ -42892,6 +42900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trio|Stealth G4 7|Trio-Stealth-G4-7|Trio-Stealth-G4-7|
 |Trio|Stealth-G4-101|Trio-Stealth-G4-101|Trio-Stealth G4 10.1|
 |Trio|Stealth-G4-7.85|Trio-Stealth-G4-785|Trio-Stealth-G4-7.85|
+|Trouver|Fk01|Fk01|Fk01|
 |True|20721400|Tablet|20721400|
 |True|20721400E_EEA|Tablet|20721400E|
 |True|20721400R|Tablet|20721400R|
