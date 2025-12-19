@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-18
+Last sync is 2025-12-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17183,6 +17183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|XPAD|Infinix-X1101B|Infinix X1101B|
 |Infinix|XPAD 20|Infinix-X1102|Infinix X1102|
 |Infinix|XPAD 20 Pro|Infinix-X1201|Infinix X1201|
+|Infinix|XPAD 30E|Infinix-X1102B|Infinix X1102B|
 |Infinix|ZERO 30 5G|Infinix-X6731|Infinix X6731|
 |Infinix|ZERO 5G|Infinix-X6815|Infinix X6815|
 |Infinix|ZERO 5G 2023|Infinix-X6815C|Infinix X6815C|
@@ -23124,6 +23125,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEIZE|D126_EEA|D126_EEA|D126_EEA|
 |MEIZE|D126_TAB|D126_TAB|D126_TAB|
 |MEIZE|D126_TAB_EEA|D126_TAB_EEA|D126_TAB_EEA|
+|MEIZE|D131|D131|D131|
+|MEIZE|D131_eea|D131_eea|D131_eea|
 |MEIZE|D135|D135|D135|
 |MEIZE|D138|D138|D138|
 |MEIZE|I9_Plus_WIFIOnly_EEA|I9_Plus_WIFIOnly_EEA|I9_Plus|
@@ -27560,6 +27563,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olimpo|R4_GTV|R4_GTV|R4G|
 |Olive Oil|CT4|octopus-ct4|Octopus A83 CT4|
 |Olive Oil|OliveOil Model 3|wecct3|CT3|
+|Olivetti|FORM300|FORM300|FORM300|
 |Olivetti|Graphos A10|Graphos_A10|Graphos A10|
 |Olivetti|OP110|OP110|OP110|
 |Olla|M5|M5|M5|
@@ -31957,6 +31961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
 |RebotAi|AF13|AF13|AF13|
+|RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
@@ -38855,6 +38860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
 |StarBoard|Starboard Solution Inc|TE_YL|TE_YL|
 |StarBoard|TE_QS|TE_QS|TE_QS|
+|StarBoard|TE_QS_PRO|TE_QS_PRO|TE_QS_PRO|
 |StarBoard|TE_YL_PRO|TE_YL_PRO|TE_YL_PRO|
 |StarBoard|YL|YL|YL|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
@@ -39453,6 +39459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG-TECH|TAG-TAB-III|TAG-TAB-III|TAG-TAB-III|
 |TAG-TECH|TAG-TABKIDS|TAG-TABKIDS|TT-III|
 |TAG-TECH|TAG_Pluto_TAB_II|TAG_Pluto_TAB_II|TAG_Pluto_TAB_II|
+|TAG-TECH|TAG_Pluto_TAB_II|TAG_Pluto_TAB_II|studybook_Tablets|
 |TAG-TECH|TAG_TAB_II|TAG_TAB_II|TAG TAB II|
 |TAG-TECH|Tagphone plus|Tagphone_plus|Tagphone plus|
 |TAGITAL|K88|K88|K88|
@@ -43658,6 +43665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unnecto|UB501_openesm|Bolt_5G|UB501|
 |Unnecto|UB501_openla|Bolt_5G|UB501|
 |Unnecto|UE010|ECO_10|UE010|
+|Unnecto|UE020|ECO_20|UE020|
 |Unnion Technologies|HH25|HH25|HH25|
 |Unnion Technologies|UN-CT101|UN-CT101|UN-CT101|
 |Unnion Technologies|UNSP7|UNSP7|UNSP7|
@@ -49059,6 +49067,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET401|ET401L1|ET401|
 |Zebra|ET401|ET401LV0|ET401|
 |Zebra|ET401|ET401LV1|ET401|
+|Zebra|ET401|ET401W0|ET401|
+|Zebra|ET401|ET401W1|ET401|
+|Zebra|ET401|ET401WV0|ET401|
+|Zebra|ET401|ET401WV1|ET401|
 |Zebra|ET40A|ET40L|ET40|
 |Zebra|ET40A|ET40S|ET40|
 |Zebra|ET45|ET45L|ET45|
@@ -50224,6 +50236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100135920|100135920|100135920|
 |onn.|100135921|mid7021_mq|100135921|
 |onn.|100135924|mid7021_mq|100135924|
+|onn.|36020962|onn7core|36020962|
 |onn.|M17QF21W|M17QF21W|M17QF21W|
 |onn.|MID8016|mid8016_mk_32|MID8016|
 |onn.|PK76A|PK76A|PK76A|
@@ -50444,6 +50457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT5 Pro|RE5C37|RMX3888|
 |realme|realme NARZO 70 Turbo 5G|RE6066L1|RMX5003|
 |realme|realme NARZO 80 Pro 5G|RE60AEL1|RMX5033|
+|realme|realme NARZO 90x 5G|RE644C|RMX5264|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Note 50|RE5C9F|RMX3834|
 |realme|realme Note 60|RE6054|RMX3933|
