@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-20
+Last sync is 2025-12-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1667,6 +1667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay60_mini|iPlay60_mini|iPlay60_mini|
 |Alldocube|iPlay60_mini_Pro|iPlay60_mini_Pro|iPlay60_mini_Pro|
 |Alldocube|iPlay60_mini_Turbo|U812|iPlay60 mini Turbo|
+|Alldocube|iPlay70|iPlay70|iPlay70|
 |Alldocube|iPlay70_S|iPlay70_S|iPlay70_S|
 |Alldocube|iPlay70_mini_Turbo|U812|iPlay70 mini Turbo|
 |Alldocube|iPlay9T|U1008|iPlay9T|
@@ -4019,6 +4020,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
 |BenQ|RM8604|RM8604|RM8604|
+|BenQ|RP05_series|RP05_series|RP05_series|
 |BenQ|RP6504|RP6504|RP6504|
 |BenQ|RP7504|RP7504|RP7504|
 |BenQ|RP8604|RP8604|RP8604|
@@ -10948,6 +10950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Mobile|Discovery Air|Discovery_Air|Discovery Air|
 |General Mobile|Discovery II Mini|Discovery_II_Mini|Discovery II Mini|
 |General Mobile|E-tab 4|mehmet|e-tab4|
+|General Mobile|Era 30 PRO|G519|G519|
 |General Mobile|Etab5|Etab5|Etab5|
 |General Mobile|G310|G310|G310|
 |General Mobile|G518|G518|G518|
@@ -12744,6 +12747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|Wildfire E6 Plus|Wildfire_E6_Plus|Wildfire E6 Plus|
 |HTC|Wildfire E6 Star|Wildfire_E6_Star|Wildfire E6 Star|
 |HTC|Wildfire E7|Wildfire_E7|Wildfire E7|
+|HTC|Wildfire E7 Elite|Wildfire_E7_Elite|Wildfire E7 Elite|
 |HTC|Wildfire E7 Plus|Wildfire_E7_Plus|Wildfire E7 Plus|
 |HTC|Wildfire S|marvel|HTC Wildfire S|
 |HTC|Wildfire S|marvel|HTC Wildfire S A510b|
@@ -18798,6 +18802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KUNFT|Smart TV|alimos|AI PONT|
 |KUNFT|Smart TV|dangni|AI PONT|
 |KUNFT|Smart TV|redwood|AI PONT|
+|KURAEMON|KCG02|KURAEMON_KCG02|KCG02|
 |KURAEMON|KURAEMON_Pad|KURAEMON_Pad_Mini_Tough|KMG05|
 |KUU-Tech|UPAD2021_EEA|UPAD2021|UPad|
 |KUVA|Pad|Pad|KUVA Pad|
@@ -24576,6 +24581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicel|P6|P11_Plus|P6|
 |Mobicel|RX|RX|RX|
 |Mobicel|Smart Tab 10 4G|Smart_Tab_10|Smart Tab 10 4G|
+|Mobicel|Spectra J2|Spectra_J2_VC|Spectra_J2|
 |Mobicel|VX21|VX21|VX21|
 |Mobicel|Vodacom Smart Tab 8|Smart_Tab_8|Vodacom Smart Tab 8|
 |Mobicel|X6|X6|X6|
@@ -28792,6 +28798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C68_Plus_EEA|C68_Plus|C68 Plus|
 |Oukitel|C68_Plus_NFC_EEA|C68_Plus|C68 Plus|
 |Oukitel|C68_Plus_NFC_ROW|C68_Plus|C68 Plus|
+|Oukitel|C68_Plus_ROW|C68_Plus|C68 Plus|
 |Oukitel|C68_ROW|C68|C68|
 |Oukitel|C69_EEA|C69|C69|
 |Oukitel|C69_NFC_EEA|C69|C69|
@@ -28808,8 +28815,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C90_Pro_EEA|C90_Pro|C90 Pro|
 |Oukitel|Coosea|K3|K3|
 |Oukitel|Customer need debug|WP32_Pro|WP32 Pro|
+|Oukitel|G1_A15_EEA|G1|G1|
 |Oukitel|G1_EEA|G1|G1|
+|Oukitel|G1_S_EEA|G1_S|G1 S|
 |Oukitel|G2-EEA|G2|G2|
+|Oukitel|Industry_EEA|Industry|Industry|
 |Oukitel|K10|K10|K10|
 |Oukitel|K10000 Mix|K10000_Mix|K10000 Mix|
 |Oukitel|K10000 Pro|K10000_Pro|K10000 Pro|
@@ -28876,6 +28886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|P07_NFC_EEA|P07|RT7 TITAN 5G|
 |Oukitel|P1_Pro_EEA|P1_Pro|P1 Pro|
 |Oukitel|RT1|RT1|RT1|
+|Oukitel|RT10_EEA|RT10|RT10|
 |Oukitel|RT1_EEA|RT1|RT1|
 |Oukitel|RT2_EEA|RT2|RT2|
 |Oukitel|RT3_Plus_EEA|RT3_Plus|RT3 Plus|
@@ -28944,9 +28955,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP21_U_EEA|WP21_U|WP21|
 |Oukitel|WP22|S109|WP22|
 |Oukitel|WP23|S111|WP23|
+|Oukitel|WP23_Plus_A15_EEA|WP23_Plus|WP23 Plus|
+|Oukitel|WP23_Plus_A15_EEA|WP23_Plus|WP23 S|
 |Oukitel|WP23_Plus_EEA|WP23_Plus|WP23 Plus|
 |Oukitel|WP27_EEA|WP27|WP27|
 |Oukitel|WP27_RU|WP27|WP27|
+|Oukitel|WP28_E_A15_EEA|WP28_E|WP28 E|
 |Oukitel|WP28_E_EEA|WP28_E|WP28 E|
 |Oukitel|WP28_S_EEA|WP28_S|WP28 S|
 |Oukitel|WP300_EEA|WP300|WP300|
@@ -29053,7 +29067,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A6650_PLUS|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
 |PAX (CN)|A910S|AXXX|A910S|
+|PAX (CN)|A920Pro|UIS7681_A14|A920Pro|
 |PAX (CN)|A950|A950|A950|
+|PAX (CN)|A950|UIS7681_A14|A950|
+|PAX (CN)|A960|UIS8581E_A14|A960|
 |PAX (CN)|A99|AXXX|A99|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
@@ -39472,6 +39489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TBC (TW)|TATV-8000|TATV_8000|TATV-8000|
 |TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
 |TCH(Timeless Connection Hero)|ONE|ONE|ONE|
+|TCH(Timeless Connection Hero)|ONE Lite|ONE_Lite|ONE Lite|
 |TCL|3T10 WIFI KDDI|Aquaman_10_KDDI|8194|
 |TCL|A1|T1_LE|T770K|
 |TCL|AQUOS V6|Cruze_Lite_S|SH-C03|
@@ -43653,6 +43671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|WD200 Plus|WD200P|WD200P|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
 |UnityWireless|EPIC E55|EPIC-E55|EPIC-E55|
+|Unnecto|Bolt 1U|Bolt_1U|Bolt 1U|
 |Unnecto|Bolt1|Bolt1|Bolt 1|
 |Unnecto|QUATTRO_M-3|QUATTRO_M-3|QUATTRO_M-3|
 |Unnecto|U4560|U4560|U4560|
@@ -49335,6 +49354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|GRAVITY Z|GRAVITY_Z|GRAVITY Z|
 |Zuum|Gravity|Gravity|Gravity|
 |Zuum|Gravity Life|Gravity_Life|Gravity Life|
+|Zuum|HIDRA 807|HIDRA_807|HIDRA 807|
 |Zuum|Hidra Max|Hidra_Max|Hidra Max|
 |Zuum|Hidra Plus|Hidra_Plus|Hidra Plus|
 |Zuum|LIMIT|LIMIT|LIMIT|
