@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-22
+Last sync is 2025-12-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17616,6 +17616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Irbis|TZ967|TZ967|TZ967|
 |Irbis|TZ968|TZ968|TZ968|
 |Irbis|TZ969|TZ969|TZ969|
+|Iris|A200PRO|A200PRO|A200PRO|
 |Iris|G7060|G7060|G7060|
 |Iris|G7100|G7100|G7100|
 |Iris|G8060|G8060|G8060|
@@ -23082,6 +23083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MASTERTECH|Smart TV|alimos|AI PONT|
 |MASTERTECH|Smart TV|dangni|AI PONT|
 |MAXHUB|E3|E3|maxhub_bytello_edla|
+|MAXHUB|S2|S2|S2|
 |MAXHUB|U30|rk3588_t|U30|
 |MAXHUB|U4|oversea_v|U4|
 |MAXLEGEN|M621|M621|M621|
@@ -31089,6 +31091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_B08|M10_B08|M10|
 |Pritom|M10_B08EEA|M10_B08EEA|M10|
 |Pritom|M10_B09|M10_B09|M10|
+|Pritom|M10_B09K|M10_B09K|M10|
 |Pritom|M10_B09_EEA|M10_B09_EEA|M10|
 |Pritom|M10_C01|M10_C01|M10_C01|
 |Pritom|M10_C01_EEA|M10_C01_EEA|M10_C01_EEA|
@@ -41676,6 +41679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|i700|i700|Tech Pad i700|
 |Techpad|k13pro|K13pro|K13pro|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
+|Techview|S17Pro|S17Pro|S17Pro|
 |Techview|Techview_Tab_80_LTE|Tab_80_LTE|Tab_80_LTE|
 |Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
 |Teclast|ArtPadAir_EEA|ArtPadAir|ArtPadAir_EEA|
@@ -42878,6 +42882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
 |Touchview Interactive|SD_ODMGM02|TouchView_Companion|TouchView Companion|
 |Touchview Interactive|TVULTRA98_G5|TVULTRA98_G5|TVULTRA98_G5|
+|Touchview Interactive|TouchView_Gen6|TouchView_Gen6|TouchView_Gen6|
 |Touchview Interactive|Touchview_Interactive|TV_G5UPGRADE|TV_G5UPGRADE|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
@@ -45985,6 +45990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|G13L|G13L|G13L|
 |Whitedeer|G13L_EEA|G13L|G13L|
 |Whitedeer|G13_EEA|G13|G13|
+|Whitedeer|K7|K7|K7|
 |Whitedeer|KT1028|KT1028|KT1028|
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
@@ -46562,6 +46568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xgody|N02_A|N02_A|N02_A|
 |Xgody|N02_Pro|N02_Pro|N02_Pro|
 |Xgody|N02_ProA|N02_ProA|N02_ProA|
+|Xgody|N05_PRO|N05_PRO|N05 PRO|
 |Xgody|P60Pro|P60Pro|P60Pro|
 |Xgody|P60pro_15|P60pro_15|P60pro_15|
 |Xgody|Q16|Q16|Q16|
@@ -50763,6 +50770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|S50|PD2528|V2528A|
+|vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
 |vivo|V2506A|PD2506|V2506A|
