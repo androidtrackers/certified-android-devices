@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-23
+Last sync is 2025-12-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25993,6 +25993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 WIFI|ML_JI0S_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_JI2D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_JI3D_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO0AA_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0P_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0R_M7_WIFI|M7_WIFI|
@@ -30990,6 +30991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize J3|TL50B10G|PSP3522DUO_RU|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO_RU|
+|Prestigio_Solutions|Multiboard Prism|Multiboard_Prism|Prism|
 |Prestigio_Solutions|PSMB011Pxx1|PSMB011Pxx1|PSMB011Pxx1|
 |Prestigio_Solutions|PSTA103|HP10A32L|PSTA103|
 |Prestigio_Solutions|PSTA104|VS12A1L|PSTA104|
@@ -32439,6 +32441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
 |Relndoo|P90_ROW|P90_ROW|P90|
+|Relndoo|P90_US|P90|P90|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
 |Relndoo|T10P_B|T10P_B|T10P|
@@ -38907,6 +38910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
 |StarBoard|Starboard Solution Inc|TE_YL|TE_YL|
 |StarBoard|TE_QS|TE_QS|TE_QS|
+|StarBoard|TE_QS_LL|TE_QS_LL|TE_QS_LL|
 |StarBoard|TE_QS_PRO|TE_QS_PRO|TE_QS_PRO|
 |StarBoard|TE_YL_PRO|TE_YL_PRO|TE_YL_PRO|
 |StarBoard|YL|YL|YL|
