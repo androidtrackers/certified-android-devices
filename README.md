@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-25
+Last sync is 2025-12-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27810,6 +27810,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
 |OnePlus|Pad 3|OP6190L1|OPD2415|
+|OnePlus|Pad Go 2|OP6575L1|OPD2504|
+|OnePlus|Pad Go 2|OP6575L1|OPD2505|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
 |OnePlus|一加平板 2|OP6543L1|OPD2508|
@@ -28572,7 +28574,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno15 FS 5G/Reno15 F 5G|OP628FL1|CPH2801|
 |Oppo|Reno15 Pro|OP61B3L1|PLV110|
 |Oppo|Reno15 Pro 5G|OP6293L1|CPH2811|
+|Oppo|Reno15 Pro 5G|OP629AL1|CPH2813|
 |Oppo|Reno15 Pro Max 5G|OP6293L1|CPH2811|
+|Oppo|Reno15 Pro Mini 5G|OP629AL1|CPH2813|
 |Oppo|Reno15c|OP61BBL1|PMD110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
@@ -33619,6 +33623,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A06 5G|a06x|SM-A066M|
 |Samsung|Galaxy A07|a07|SM-A075F|
 |Samsung|Galaxy A07|a07|SM-A075M|
+|Samsung|Galaxy A07 5G|a07x|SM-A076B|
+|Samsung|Galaxy A07 5G|a07x|SM-A076E|
+|Samsung|Galaxy A07 5G|a07x|SM-A076M|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
