@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-28
+Last sync is 2025-12-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10543,6 +10543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|FMP179R|FMP179R|FMP179R|
 |Fujitsu|FMP181L|FMP181L|FMP181L|
 |Fujitsu|INTERACTIVE_PANEL|rk3588_t|IWxx2_DX|
+|Fujitsu|IWxx2_Ultra|oversea_v|IWxx2_Ultra|
 |Fujitsu|M02|M02|M02|
 |Fujitsu|M305|M305|M305|
 |Fujitsu|M305|M305SB|M305|
@@ -12806,6 +12807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUGEROCK|H81|H81-M50|H81|
 |HUIHUANG|C90|C90|C90|
 |HUIHUANG|C90_EEA|C90|C90|
+|HUIHUANG|E10_A_EEA|E10_A|E10_A|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPERTECH|THATAB|THATAB|THATAB|
@@ -46960,6 +46962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 17|pudding|25113PN0EC|
 |Xiaomi|Xiaomi 17 Pro|pandora|25098PN5AC|
 |Xiaomi|Xiaomi 17 Pro Max|popsicle|2509FPN0BC|
+|Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -50411,6 +50414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
 |raemond|X70_US|X70_US|X70|
+|raemond|X90_EEA|X90|K30_EEA|
 |raemond|X90_EEA|X90|X90|
 |raemond|Z90|Z90|Z90|
 |raemond|Z90_EEA|Z90|Z90|
@@ -50497,6 +50501,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
 |realme|realme 15T|RE6444L1|RMX5111|
 |realme|realme 15x 5G|RE644C|RMX5250|
+|realme|realme 16 Pro 5G|RE645DL1|RMX5120|
+|realme|realme 16 Pro+ 5G|RE6458L1|RMX5131|
 |realme|realme 2K G Smart TV|umeda|realme 2K G Smart TV|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
