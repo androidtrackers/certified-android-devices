@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-29
+Last sync is 2025-12-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -266,6 +266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALT.mive|Style Folder|thor|AT-M120|
 |ALT.mive|Style Folder 2|thor2|AT-M140|
 |ALTOP|ALTOP E board|AIEDLA|A SENSE|
+|AMCON|Smart TV|alimos|AMCON Google TV|
 |AMG-Smartphone|AMG_WR24|ASPWR24|ASPWR24|
 |AMGx13e|ASPE2201|ASPE2201|ASPE2201|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
@@ -10543,6 +10544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|FMP179R|FMP179R|FMP179R|
 |Fujitsu|FMP181L|FMP181L|FMP181L|
 |Fujitsu|INTERACTIVE_PANEL|rk3588_t|IWxx2_DX|
+|Fujitsu|IWxx2_DXx|oversea_v|IWxx2_DXx|
 |Fujitsu|IWxx2_Ultra|oversea_v|IWxx2_Ultra|
 |Fujitsu|M02|M02|M02|
 |Fujitsu|M305|M305|M305|
@@ -12805,6 +12807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUGEROCK|E101_EEA|E101|E101|
 |HUGEROCK|H8|H8|H8|
 |HUGEROCK|H81|H81-M50|H81|
+|HUGEROCK|T-Smart|H81-4G-M45|T-Smart|
 |HUIHUANG|C90|C90|C90|
 |HUIHUANG|C90_EEA|C90|C90|
 |HUIHUANG|E10_A_EEA|E10_A|E10_A|
@@ -29678,8 +29681,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|JT-C60|JT-C60|JT-C60|
 |Panasonic|JX700C|JX700C|Panasonic_TV|
 |Panasonic|JX900C|JX900C|Panasonic_TV|
+|Panasonic|KT|LH_ETRXND|Panasonic_IFPD|
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
+|Panasonic|LH_86CT8NDCM|RK3576|LH_86CT8NDCM|
 |Panasonic|LH_CTR|MTK9679|LH_CTR|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
 |Panasonic|NEXT Crew Terminal - AutoChip|NEXT820|NEXT|
@@ -30229,6 +30234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PlayPoland|PLAY TV BOX 4A|DV8990-KPP|PLAY TV BOX 4A|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
+|Pleio|N9600|NETGEM_TV_B866W6M|N9600|
 |Plimpton|Kids10_A15|Kids10_A15|Kids10_A15|
 |Plimpton|Kids10_A15_EEA|Kids10_A15_EEA|Kids10_A15_EEA|
 |Plimpton|Kids20|Kids20|Kids20|
@@ -30326,6 +30332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM90|pm90|PM90|
 |Point Mobile|PM95|PM95|PM95|
 |Point Mobile|PT11|PT11|PT11|
+|Point Mobile|TR54|TR54|TR54|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-7232-3G|TAB_7232_3G_EEA|TAB-7232-3G-V2|
 |Point of view|TAB-P10232-3G|TAB-P10232-3G|TAB-P10232-3G|
@@ -31182,6 +31189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_R03|M10_R03|M10_R03|
 |Pritom|M10_R04|M10_R04|M10_R04|
 |Pritom|M10_R06|M10_R06|M10_R06|
+|Pritom|M10_R07|M10_R07|M10_R07|
 |Pritom|M10_T01|M10_T01|M10_T01|
 |Pritom|M10_T01_EEA|M10_T01_EEA|M10_T01_EEA|
 |Pritom|M20|M10_A05|M10|
@@ -33379,6 +33387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|TAB_P1300|TAB_P1300|TAB_P1300|
 |SVITOO|TAB_P1300_EEA|TAB_P1300_EEA|TAB_P1300_EEA|
 |SVITOO|V13|V13|V13|
+|SVITOO|V13_EEA|V13|V13|
 |SWACONNECT|SWA310|SWA310|SWA310|
 |SWACONNECT|SWA310_NEU|SWA310|BCGA92|
 |SWACONNECT|SWA310_NEU|SWA310|GMS_TAB10|
@@ -39503,6 +39512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|innova_40|innova_40|innova 40|
 |Symphony|roarV95|roarV95|roarV95|
 |Symphony|roar_V150|roar_V150|roar_V150|
+|Synetech|Gemini|Gemini|G7576|
 |Synetech|Synetech Elite Taurus|rk3588_t|Synetech_T35|
 |Synetech|Synetech Elite Taurus-VC|oversea_v|Synetech_T7535_VC|
 |Synetech|Synetech_Elite_Taurus|rk3588_t|Synetech_T35|
@@ -49813,6 +49823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-PLUS|Nu70|Nu70|Nu70|
 |i-custom|S10|S10|S10|
 |i-custom|S11|S11|S11|
+|i-custom|S32|S32|S32|
 |i.safe MOBILE|IS330|IS330|IS330|
 |i.safe MOBILE|IS530|IS530|IS530|
 |i.safe MOBILE|IS540|IS540|IS540|
