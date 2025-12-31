@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2025-12-30
+Last sync is 2025-12-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3268,6 +3268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BASICS|BT1124FW|BT1124FW|BT1124FW|
 |BATMAN|TM-MID1065BT|TM-MID1065BT|TM-MID1065BT|
 |BAYKUS|BKM10|BKM10|BKM10|
+|BDIC|lgyuev-T11|lgyuev-T11|lgyuev-T11|
 |BDQ|Destiny|Destiny|Destiny|
 |BDQ|Destiny-4G|Destiny-4G|Destiny-4G|
 |BDQ|SMART_B19|SMART_B19|SMART_B19|
@@ -4571,6 +4572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BLAUPUNKT|stanford|CSV2K|
 |Blaupunkt|BLAUPUNKT|zhongshan|CSV4K|
 |Blaupunkt|BLAUPUNKT2K|nippori|BP 2K Android TV|
+|Blaupunkt|BPTV30|KHH|UHD Google TV Stick|
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|BP_6108|BP_6108|BP_6108|
@@ -7975,6 +7977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dialog Blaze|5701A|5701A|5701A|
 |Dialog Blaze|Dialog_Blaze_Mini|Dialog_Blaze_Mini|Dialog_Blaze_Mini|
 |Dialog Blaze|M50E-1A|M50E-1A|M50E-1A|
+|Dialog_TV|Dialog ViU Mini|Dialog_ViU_Mini|Dialog ViU Mini|
 |Dialog_TV|Viu Mini|DV6067H-Dialog|Viu Mini|
 |Diamond|A1046DRI|A1046DRI|A1046DRI|
 |Diamond|DIB100|DIB100|DIB100|
@@ -12810,6 +12813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUGEROCK|T-Smart|H81-4G-M45|T-Smart|
 |HUIHUANG|C90|C90|C90|
 |HUIHUANG|C90_EEA|C90|C90|
+|HUIHUANG|E10_A|E10_A|E10_A|
 |HUIHUANG|E10_A_EEA|E10_A|E10_A|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
@@ -14440,6 +14444,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|AL-10|AL-10|AL-10|
 |Hoozo|AL-10-EEA|AL-10|AL-10|
 |Hoozo|AL-13-EEA|AL-13|AL-13|
+|Hoozo|AX10_EEA|AX10_EEA|AX10_EEA|
+|Hoozo|AX13_EEA|AX13_EEA|AX13_EEA|
 |Hoozo|F13|F13|F13|
 |Hoozo|F13_EEA|F13_EEA|F13_EEA|
 |Hoozo|HZ0010|HZ0010|HZ0010|
@@ -19635,6 +19641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LANDI|M10SE|M10SE|M10SE|
 |LANDI|M20|M20|M20|
 |LANDI|M20SE|M20SE|M20SE|
+|LANDI|P30TN00|P30T-G-00|P30 Tablet|
 |LANDI|P9|P9|P9|
 |LANDI|Pad6plus|Pad6plus|Pad6plus|
 |LARVAND|M863TabH8|M863TabH8|M863TabH8|
@@ -23871,9 +23878,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KM7 PLUS|YDA|4K Google TV Box|
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
+|Mecool|KM9PRO MAX|RMQ|UHD Google TV STB|
 |Mecool|KT1|KT1|KT1|
 |Mecool|KT2|ROM|KT2|
 |Mecool|MEgo1 2K|BKK|FHD Streaming Stick|
+|Mecool|MEgo1 4K|KHH|UHD Google TV Stick|
 |Mediabox|MBX4K Maverick|JFK|MBX4K Maverick|
 |Mediabox|MBX4K Ranger|DV8235|MBX4K Ranger|
 |Mediacom|10edge|10edge|10edge|
@@ -26160,6 +26169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|ULTRA 10|ML_SO0C_ULTRA_10|ULTRA_10|
 |Mundo|Chile|S3001|MundoGoTV|
 |MwalimuPlus|MP01A3G|MP01A3G|MP01A3G|
+|My|Android TV|finch|Android TV|
 |My|Android TV|shandao|Android TV|
 |My|Android TV|tokyo|Android TV|
 |My|Android TV|yeoksam|Android TV|
@@ -26875,6 +26885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Next|NEXT|elliniko|4K SMART TV|
 |Next|NEXT|stanford|2K SMART TV|
 |Next|NEXT|zhongshan|4K SMART TV|
+|Next|STARTPRO|RMQ|UHD Google TV STB|
 |Next|Start-4K|YDA|4K Google TV Box|
 |Next Learning|Nexttab N3|N3|N3|
 |Next Technologies|GO7BSC|GO7BSC|GO7BSC|
@@ -27797,6 +27808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
 |OnePlus|OnePlus Pad Lite|OP6194L1|OPD2480|
 |OnePlus|OnePlus Pad Lite|OP6195L1|OPD2481|
+|OnePlus|OnePlus Turbo 6V|OP64D3L1|PLY110|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus Watch 2R|OPWWE234|OPWWE234|
 |OnePlus|OnePlus Watch 3|OPWWE251|OPWWE251|
@@ -32774,6 +32786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAMPO|R4|R4|R4|
 |SAMPO|R4_GTV|R4_GTV|R4G|
 |SAMPO|vileparle|vileparle|R6G|
+|SANCO|S3201|S3201|S3201|
 |SANCO|Vietnam|tamachi|SANCO Android TV|
 |SANCO|Vietnam|yeongdeungpo|SANCO Android TV|
 |SANLUX|SANLUX 4K MONITOR|SW4H|SANLUX 4K MONITOR|
@@ -37983,8 +37996,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Asia|open_uhd_ap|open_uhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
+|Skyworth|HPR3B|KHH|UHD Google TV Stick|
 |Skyworth|Hong Kong|open_uhd_hk|open_uhd|
 |Skyworth|LEAP-S1|LAS|LEAP-S1|
+|Skyworth|LEAP-S3pro|RMQ|UHD Google TV STB|
 |Skyworth|Leap-L1|BOS|TV Stick|
 |Skyworth|Leap-S2|YYT|4K Google TV Stick|
 |Skyworth|Leap-S3|YDA|4K Google TV Box|
@@ -39085,9 +39100,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|Android TV|R2|ATV R2|
 |Strong|Android TV|redwood|AI PONT|
 |Strong|KM2 PLUS DELUXE|YYC|4K Android TV Box|
+|Strong|LEAP-NEVE|KHH|UHD Google TV Stick|
 |Strong|LEAP-NOVA|CXR|UHD Google TV Stick|
 |Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|LEAP-S3 PRO|RMQ|UHD Google TV STB|
+|Strong|LEAP-UNA+|BKK|FHD Google TV Stick|
 |Strong|LEAP-UNA+|BKK|FHD Streaming Stick|
 |Strong|Leap-S3|YDA|4K Google TV Box|
 |Strong|SRT41|YYT|4K Google TV Stick|
@@ -39655,9 +39672,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|R3_GTV|R3_GTV|R3G|
 |TCL|R4|R4|R4|
 |TCL|R4_GTV|R4_GTV|R4G|
+|TCL|Smart M26|DahliaS|T450H|
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|T-Mobile REVVL TAB 2|Diana_Uber|9185W|
 |TCL|T607DL|Bora_TF|T607DL|
 |TCL|TAB 10s 2022|Odin2|9081X|
 |TCL|TAB 10s 4G 2022|Odin2|9080G|
@@ -39829,6 +39848,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K23|ScarabLite_TMO|T434W|
 |TCL|TCL K24|Scarab_Lite_TF|T434D|
 |TCL|TCL K32 5G|Beryl_TMO|T513W|
+|TCL|TCL K33 5G|Beryl_Dish|T513Z|
+|TCL|TCL K33 5G|Beryl_TF|T513V|
 |TCL|TCL K33 5G|Beryl_VZW|T513SP|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
@@ -39862,6 +39883,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 14|Hera_Vis_WIFI|9491G|
 |TCL|TCL NXTPAPER 14 Pro|Hercules_Wifi|9463A1|
 |TCL|TCL NXTPAPER 5G Junior|Aster_Pro|T521K|
+|TCL|TCL NXTPAPER 60 Ultra|MonaLisa|T951P|
+|TCL|TCL NXTPAPER 70 Pro|Frida|T807D|
+|TCL|TCL NXTPAPER 70 Pro|Frida|T807E|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -50893,6 +50917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y400 5G|V2506|V2506|
 |vivo|Y400 Pro 5G|V2439|V2439|
 |vivo|Y50 5G|PD2443|V2443A|
+|vivo|Y50 AI版|PD2443|V2443A|
 |vivo|Y50 移动定制版|PD2443|V2443A|
 |vivo|Y500 Pro|PD2516|V2516A|
 |vivo|Y50c|PD2443|V2443BA|
