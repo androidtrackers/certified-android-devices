@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-01
+Last sync is 2026-01-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4639,6 +4639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Turkey|martin|Blaupunkt 2K Android TV|
 |Blaupunkt|Turkey|tamachi|Blaupunkt 2K Android TV|
 |Blaupunkt|Turkey|yeongdeungpo|Blaupunkt 4K Android TV|
+|Blincast|BLC-1600TF|TRNE8_1319D_Hybrid|1319D|
 |Blu|A-200|A200|A200|
 |Blu|A200|A200|A200|
 |Blu|A250|A250|A250|
@@ -33736,7 +33737,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A17 5G|a17x|SM-A176U|
 |Samsung|Galaxy A17 5G|a17x|SM-A176U1|
 |Samsung|Galaxy A17 5G|a17x|SM-A176W|
-|Samsung|Galaxy A17 5G|a17x|SM-S176V|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -34350,6 +34350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F15 5G|m15x|SM-E156B|
 |Samsung|Galaxy F16 5G|m16xm|SM-E166P|
 |Samsung|Galaxy F17 5G|a17x|SM-E176B|
+|Samsung|Galaxy F17 5G|a17x|SM-S176V|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F34 5G|m34x|SM-E346B|
