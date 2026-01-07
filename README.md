@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-06
+Last sync is 2026-01-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18368,6 +18368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jeazans|KT1016|KT1016|KT1016|
 |Jeazans|KT1016_EEA|KT1016|KT1016|
 |Jeazans|X100L|X100L|X100L|
+|Jeazans|X100L_EEA|X100L|X100L|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
@@ -18900,6 +18901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|THEUHD|hongkong|4K SMART TV|
 |KTCtv|TOMMATECH|elliniko|4K SMART TV|
 |KTCtv|TRIBOSS|mountbaker|2K SMART TV|
+|KTCtv|VAMVO|araku|EcoPro|
 |KTCtv|VEIRA|lavender|4K SMART TV|
 |KTCtv|VEIRA|mountbaker|2K SMART TV|
 |KTCtv|VIMEEL|elliniko|VIMEEL GOOGLE TV 4K|
@@ -25563,6 +25565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto X30 屏下摄像版|hiphid|XT2201-6|
 |Motorola|moto X40|rtwo|XT2301-5|
 |Motorola|moto X70 Air|roadstr|XT2601-1|
+|Motorola|moto X70 Pro|vantage|XT2603-1|
 |Motorola|moto e|ginna|moto e|
 |Motorola|moto e (XT2052DL)|ginna|moto e (XT2052DL)|
 |Motorola|moto e(5) cruise|james|moto e5 cruise|
@@ -25969,6 +25972,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr plus 2025|arcfox|motorola razr plus 2025|
 |Motorola|motorola razr ultra 2025|leap|motorola razr 50 ultra|
 |Motorola|motorola razr ultra 2025|leap|motorola razr ultra 2025|
+|Motorola|motorola signature|vantage|motorola edge 50 ultra|
+|Motorola|motorola signature|vantage|motorola signature|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -34972,6 +34977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M15 5G|m15x|SM-M156B|
 |Samsung|Galaxy M16 5G|m16xm|SM-M166P|
 |Samsung|Galaxy M17 5G|a17x|SM-M176B|
+|Samsung|Galaxy M17e 5G|a07x|SM-M076B|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
