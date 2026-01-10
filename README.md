@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-09
+Last sync is 2026-01-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -42426,7 +42426,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|P5|up08_tecno_p5s|TECNO P5S|
 |Tecno|P702AS|TECNO-P702|TECNO P702AS|
 |Tecno|PHANTOM V Flip 5G|TECNO-AD11|TECNO AD11|
-|Tecno|PHANTOM V Fold|TECNO-AD10|TECNO AD10|
 |Tecno|PHANTOM X|TECNO-AC8|TECNO AC8|
 |Tecno|PHANTOM X2 5G|TECNO-AD8|TECNO AD8|
 |Tecno|PHANTOM X2 Pro 5G|TECNO-AD9|TECNO AD9|
