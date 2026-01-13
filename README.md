@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-12
+Last sync is 2026-01-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -146,6 +146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ADVAN|ADVANNASAPro|ADVANNASAPro|ADVANNASAPro|
 |ADVAN|ADVAN_TAB_A10|ADVAN_TAB_A10|1013|
 |ADVAN|ADVAN_TAB_A10|ADVAN_TAB_A10|A10|
+|ADVAN|ADVAN_TAB_A10S|ADVAN_TAB_A10S|1013|
 |ADVAN|ADVAN_X1|ADVAN_X1|6781|
 |ADVAN|S50|ADVAN_MACHA|S50|
 |ADVAN|Sketsa3|ADVAN_SKETSA3|1013|
@@ -239,6 +240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
 |AIDATA|ADT_1061|ADT_1061|ADT_1061|
 |AIPLUS|AI+ Nova 1 5G|Nova_1_5G|AI+ Nova 1 5G|
+|AIPLUS|AI+ NxtFlip 5G|NxtFlip_5G|AI+ NxtFlip 5G|
 |AIPLUS|AI+ Pulse 1|Pulse_1|AI+ Pulse 1|
 |AIS (Thailand)|AISPLAYBOX|AISPLAYBOX|AISPLAYBOX|
 |AIS (Thailand)|AISPLAYBOX|B866V2-HA|AISPLAYBOX|
@@ -5390,6 +5392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABEVOP12|CTABEVOP12|CTABEVOP12|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
 |CEPTER|CTABNEXUS8128|CTABNEXUS8128|CTABNEXUS8128|
+|CEPTER|CTABNEXUSG|CTABNEXUSG|CTABNEXUSG|
 |CEPTER|CTABNEXUSW|CTABNEXUSW|CTABNEXUSW|
 |CEPTER|CTABTERRA128|CTABTERRA128|CTABTERRA128|
 |CEPTER|CTABTERRA256|CTABTERRA256|CTABTERRA256|
@@ -5717,6 +5720,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cablecolor|GIU3A00|GIU3A00|GIU3A00|
 |Callsky|Cpad10|Cpad10|Cpad10|
 |Callsky|Ctab_12|Ctab_12|Ctab 12|
+|Callsky|Ctab_12|Ctab_12|SMART PRO 12|
 |Caltta|e720|e720|e720|
 |Camelus|L10|TR-10HBT|L10|
 |Camelus|L7|TR-7U|L7|
@@ -7821,6 +7825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daria|qoqnoos|qoqnoos|DM-B51104|
 |Daria|zahedan|zahedan|DM-B50104|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
+|Datalogic|Joya Smart/Smart+|soho|Joya Smart|
 |Datalogic|Joya Touch 22|jta11|Joya Touch 22|
 |Datalogic|Joya Touch 22|jta11f|Joya Touch 22|
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
@@ -9189,6 +9194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|E65|E65|E65|
 |ETELPREMIUM|ETEL P29|ETEL_P29|ETEL P29|
 |ETELPREMIUM|Etel P64|Etel_P64|Etel_P64|
+|ETELPREMIUM|Etel P64 Ultra|Etel_P64|Etel P64 Ultra|
 |ETELPREMIUM|NOTE 25 ULTRA|NOTE_25_ULTRA|N2500|
 |ETELPREMIUM|P68|ETEL_P68|ETEL P68|
 |ETEL_premium|ETEL-E28|ETEL-E28|E28|
@@ -9289,6 +9295,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Easymer|K6Pro_EEA|K6Pro|K6Pro|
 |Easymer|K6m|K6m|K6m|
 |Easymer|X6|X6|X6|
+|Easymer|X6Pro_EEA|X6Pro|X6Pro|
+|Easymer|X6_EEA|X6|X6|
 |Echo Mobiles|ECHO_HOLI|HOLI|ECHO_HOLI|
 |Echo Mobiles|FEELING|FEELING|FEELING|
 |Echo Mobiles|FUSION|ECHO_FUSION|ECHO_FUSION|
@@ -14625,6 +14633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Cosmos_U|Cosmos_U|Cosmos U|
 |Hotwav|Cyber 15|Cyber_15|Cyber 15|
 |Hotwav|Cyber 16 Pro|Cyber_16_Pro|Cyber 16 Pro|
+|Hotwav|Cyber 17|Cyber_17|Cyber 17|
 |Hotwav|Cyber 7|Cyber_7|Cyber 7|
 |Hotwav|Cyber 8|Cyber_8|Cyber 8|
 |Hotwav|Cyber 9 Pro|Cyber_9_Pro|Cyber 9 Pro|
@@ -16474,6 +16483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYLine_Pro|65PA2|65PA2|
 |Hyundai|HYUNDAI|bruno|HYUNDAI2KAndroidTV|
 |Hyundai|HYUNDAI|elliniko|4K SMART TV|
+|Hyundai|HYUNDAI|elliniko|EcoTV1 Plus|
 |Hyundai|HYUNDAI|hongkong|4K SMART ATSC TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART COL TV|
 |Hyundai|HYUNDAI|hongkong|4K SMART ISDB TV|
@@ -23509,6 +23519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
 |MTC|WasabiMango|shilin|WasabiMango4KAndroidTV|
 |MTC|chile|S2000|S2000-Z0C11|
+|MTN|5.99|H6032_MTN|H6032|
 |MTN|Alola_Max|Alola_Max|Alola_Max|
 |MTN|G56|G56|G56|
 |MTN|Kabode Max|H6032_MTN|Kabode Max|
@@ -29421,6 +29432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
+|PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
 |PEICHENG|CP31U|CP31U|CP31U|
@@ -32304,6 +32316,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI K90 Pro Max|myron|25102RK69C|
 |Redmi|REDMI K90 Pro Max|myron|25102RKBEC|
 |Redmi|REDMI Note 15|kunzite|25098RA98C|
+|Redmi|REDMI Note 15|spinel|2510DRA23E|
+|Redmi|REDMI Note 15|spinel|2510DRA23G|
+|Redmi|REDMI Note 15|spinel|2510DRA23L|
+|Redmi|REDMI Note 15 Pro|charoite|25100RA69G|
 |Redmi|REDMI Note 15 Pro|lapis|25080RABDC|
 |Redmi|REDMI Note 15 Pro+|flourite|25104RADAC|
 |Redmi|REDMI Note 15 Pro+|flourite|2510ERA8BC|
@@ -32705,6 +32721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P80_EU|P80_EU|P80|
 |Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
+|Relndoo|P90_EEA|P90|P90|
 |Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|P90_US|P90|P90|
 |Relndoo|T10P|T10P|T10P|
@@ -33592,6 +33609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P108_T|P108_T|P108_T|
 |SVITOO|P108_T_EEA|P108_T|P108_T|
 |SVITOO|P10_A|P10_A|P10_A|
+|SVITOO|P10_A1_EEA|P10_A1|P10_A1|
 |SVITOO|P10_A_EEA|P10_A|P10_A|
 |SVITOO|P10_T_EEA|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
@@ -43487,6 +43505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |URAO|G140L|G140L|G140L|
 |URAO|G140L_EEA|G140L|G140L|
 |URAO|G142L_EEA|G142L|G142L|
+|URAO|G143A|G143A|G143A|
 |URAO|G143L|G143L|G143L|
 |URAO|X107|X107|X107|
 |URAO|X107_EEA|X107|X107|
@@ -50107,6 +50126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-PLUS|Nu70|Nu70|Nu70|
 |i-custom|S10|S10|S10|
 |i-custom|S11|S11|S11|
+|i-custom|S13|V25T1F|S13|
 |i-custom|S32|S32|S32|
 |i.safe MOBILE|IS330|IS330|IS330|
 |i.safe MOBILE|IS530|IS530|IS530|
@@ -51193,6 +51213,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y50 AI版|PD2443|V2443A|
 |vivo|Y50 移动定制版|PD2443|V2443A|
 |vivo|Y500 Pro|PD2516|V2516A|
+|vivo|Y500i|PD2531|V2531A|
+|vivo|Y500i AI版|PD2531|V2531A|
 |vivo|Y50c|PD2443|V2443BA|
 |vivo|Y50e 5G|PD2443|V2443A|
 |vivo|Y50i|PD2443|V2443A|
