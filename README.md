@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-13
+Last sync is 2026-01-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2497,6 +2497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|Breeze|Breeze|Breeze|
 |Aspera|Buzz|Buzz|Buzz|
 |Aspera|GEM|GEM|GEM|
+|Aspera|Halo|Halo|Halo|
 |Aspera|JAZZ|Jazz|Jazz|
 |Aspera|Jazz_2|Jazz_2|Jazz 2|
 |Aspera|Nitro2|Nitro2|Nitro2|
@@ -9193,6 +9194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|E27|ETEL_E27|ETEL P27|
 |ETELPREMIUM|E65|E65|E65|
 |ETELPREMIUM|ETEL P29|ETEL_P29|ETEL P29|
+|ETELPREMIUM|ETEL P65|ETEL-P65|ETEL-P65|
 |ETELPREMIUM|Etel P64|Etel_P64|Etel_P64|
 |ETELPREMIUM|Etel P64 Ultra|Etel_P64|Etel P64 Ultra|
 |ETELPREMIUM|NOTE 25 ULTRA|NOTE_25_ULTRA|N2500|
@@ -18867,6 +18869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|MARSRIVA|elliniko|4K SMART TV|
 |KTCtv|MARSRIVA|jagalchi|2K SMART TV|
+|KTCtv|MAXEN|elliniko|4K SMART TV|
 |KTCtv|MAXIPOWER|elliniko|MAXIPOWER SMART TV|
 |KTCtv|MITSUKI|lavender|4K SMART TV|
 |KTCtv|MULTISMART|elliniko|4K SMART TV|
@@ -18944,6 +18947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VOXELECTRONICS|hongkong|4K SMART TV|
 |KTCtv|VOXELECTRONICS|mountbaker|2K SMART TV|
 |KTCtv|WESTWAY|mountbaker|2K SMART TV|
+|KTCtv|WYBOR|elliniko|4K SMART TV|
 |KTCtv|WYBOR|hongkong|4K SMART TV|
 |KTCtv|WYBOR|lavender|4K SMART TV|
 |KTCtv|WYBOR|mountbaker|2K SMART TV|
@@ -23919,6 +23923,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
 |Maxwest|TAB_MAX_7|TAB_MAX_7|Byybuo|
 |Maxwest|TAB_MAX_7|TAB_MAX_7|TAB_MAX_7|
+|Mazda|Mazda Connect|MAZDA_CONNECT_AA_G12|MAZDA CONNECT|
+|Mazda|Mazda Connect|MAZDA_CONNECT_AA_G15|MAZDA CONNECT|
 |Maze_speed|M1582C|M1582C|M1582C|
 |Maze_speed|M1582C MAX|M1582C_MAX|M1582C_MAX|
 |Maze_speed|M1586K|M1586K|M1586K|
@@ -27011,6 +27017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
 |Newland|S90Pro|S90|S90|
+|Newland|X70|X70|X70|
 |Newline|23Q|23Q|23Q|
 |Newline|23QA|velvet|LGA311D2|
 |Newline|Newline_Q_Pro_Elite|Q25ELT|Newline Q Pro Elite|
