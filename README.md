@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-14
+Last sync is 2026-01-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -299,6 +299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ANFU|AF980|AF980|AF980|
 |ANS|L50|L50|L50|
 |ANS|L51|L51|L51|
+|ANS|SP5670|SP5670|SP5670|
 |ANS|Trailblazer|rugged-smartphone|H450R|
 |ANS|UL40|UL40|UL40|
 |ANTEMPE|D115_EEA|D115_EEA|D115_EEA|
@@ -6413,6 +6414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CloudMinds|OTTTAB2|OTTTAB2|OTTTAB2|
 |Cloud_Mobile|MC8B654B100136|MC8B654B|MC8B654B|
 |Cloud_Mobile|Stratus_C8|Stratus_C8|Stratus C8|
+|Cloud_Mobile|Stratus_C9|Stratus_C9|Stratus C9|
 |Cloud_Mobile|Sunshine_T2_Elite|Sunshine_T2_Elite|Sunshine_T2_Elite|
 |Clout|Hind 5.1|Hind_5_1|Hind 5.1|
 |Clout|X425 Shavit|X425_Shavit|X425 Shavit|
@@ -10742,6 +10744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Guard|R3_GTV|R3_GTV|R3G|
 |G-Guard|R4_GTV|R4_GTV|R4G|
 |G-Guard|Smart TV|alimos|G-Guard Google TV|
+|G-Guard|Smart TV|bridgeport|AI PONT PLUS FF|
 |G-Guard|Smart TV|dangni|G-Guard Google TV|
 |G-Guard|fushan_Guard|hamamatsucho|Smart TV|
 |G-Guard|vileparle|vileparle|R6G|
@@ -13331,6 +13334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|HIKING_A18|HIKING_A18|HIKING_A18|
 |Hiking|HK-MH501|HK-MH501|HK-MH501|
 |Hiking|KIDS_1|KIDS_1|KIDS_1|
+|Hiking|P16_TU|P16_TU|P16_TU|
 |Hiking|Rugged S2|Rugged_S2|Rugged S2|
 |Hiking|Rugged_S1|Rugged_S1|Rugged S1|
 |Hillpos|HT65|HT65|HT65|
@@ -13728,6 +13732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense Enigma|HLTE272E|Hisense Enigma|
+|Hisense|Hisense Enigma|HLTE272E|Hisense Enigma SE|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
 |Hisense|Hisense F16|HS6739MT|Hisense F16|
 |Hisense|Hisense F16|HS6739MT|Hisense Infinity E6|
@@ -16582,6 +16587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Seoul_S8|Seoul_S8|Seoul S8|
 |Hyundai|Smart TV|alimos|AI PONT|
 |Hyundai|Smart TV|dangni|AI PONT|
+|Hyundai|Smart TV|dangni|HYUNDAI Google TV|
 |Hyundai|Smart TV|kanda|HYUNDAI 2K Smart TV|
 |Hyundai|Smart TV|longshan|AI PONT|
 |Hyundai|Smart TV|osaka|AI PONT CO|
@@ -18649,6 +18655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|DX-A400|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
 |KEYENCE|DXA800|DXA800|DXA800|
+|KGMotors|mibot|mibot|mibot|
 |KGTEL|A56|A56|A56|
 |KGTEL|Better10|Better10|Better10|
 |KGTEL|Hello 10 Pro 4G|Hello_10_Pro_4G|Hello 10 Pro 4G|
@@ -32066,6 +32073,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RIO Mobile|RIOPAD_S10_Pro|RIOPAD_S10_Pro|RIOPAD_S10_Pro|
 |RIO Mobile|RW10|RW10|RW10|
 |RIO Mobile|RW8|RW8|RW8|
+|RIRO|RIRO_X100|RIRO_X100|RG-TB711-V1|
+|RIRO|RIRO_X100|RIRO_X100|RIRO Pad|
+|RIRO|RIRO_X100|RIRO_X100|RIRO X100|
 |RIVERSONG|Astro_6|Astro_6|Astro_6|
 |RIVERSONG|BLACK|BLACK|BLACK|
 |RLG-ADULAWO-LIMITED|Eagle-2024|Eagle-2024|Eagle-2024|
@@ -32852,6 +32862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Riviera|HIKA5|songshan|SmartTV 4K|
 |Riviera|Riviera|hamamatsucho|Smart TV|
 |Riviera|Smart TV|alimos|AI PONT|
+|Riviera|Smart TV|bridgeport|AI PONT PLUS FF|
 |Riviera|Smart TV|dangni|AI PONT|
 |Riviera|Smart TV|osaka|AI PONT SA|
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
@@ -41857,6 +41868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TRUE_SLIM|T1586K|T1586K|T1586K|
 |TRUFON|TRUFON FLEX|TRUFON_FLEX|TRUFON FLEX|
 |TSUNAMi|Tablet Tsunami TSTA080D1|MG080D1T|MG080D1T|
+|TTKIDS|K106|K106|K106|
 |TTS-group|IT10268|IT10268|IT10268|
 |TTfone|TT20_eea|TTfone_TT20|TTfone TT20|
 |TUFEN|Q718|Q718|Q718|
@@ -46281,6 +46293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo S6 Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|RX7 Mini|RX7_Mini|RX7 Mini|
 |Walton|Smart TV|alimos|WALTON UHD GOOGLE TV 5.0|
+|Walton|Smart TV|bridgeport|WALTON UHD GOOGLE TV 5.0|
 |Walton|Smart TV|dangni|WALTON GOOGLE TV5.0|
 |Walton|Smart TV|mateo|2K PA Smart TV|
 |Walton|Smart TV|mateo|2K US Smart TV|
@@ -51091,6 +51104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |sky HCN|skyhcn Android UHD STB|IMT-H6300|IMT-H6300|
 |skywooo|DDT_002|DDT_002|DDT_002|
 |snowa|Smart TV|alimos|AI PONT|
+|snowa|Smart TV|bridgeport|AI PONT PLUS FF|
 |snowa|Smart TV|dangni|AI PONT|
 |solanamobile|Seeker|seeker|Seeker|
 |spectramobile|Spectra J1|Spectra_J1|Spectra J1|
