@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-16
+Last sync is 2026-01-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13591,6 +13591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense T2 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense U967|
+|Hisense|HLTE243E|HLTE243E|Hisense Y83 Pro|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
 |Hisense|HLTE300E_ 02|HS8937QC|Hisense Infinity H11|
@@ -42681,6 +42682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 7 Neo|TECNO-LJ6|TECNO LJ6|
 |Tecno|TECNO POVA 7 Pro 5G|TECNO-LJ8|TECNO LJ8|
 |Tecno|TECNO POVA 7 Ultra 5G|TECNO-LJ9|TECNO LJ9|
+|Tecno|TECNO POVA Curve 2 5G|TECNO-LK7k|TECNO LK7k|
 |Tecno|TECNO POVA Curve 5G|TECNO-LJ8k|TECNO LJ8k|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO POVA Slim 5G|TECNO-KM9|TECNO KM9|
