@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-18
+Last sync is 2026-01-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2013,6 +2013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA MatrixTV DE|omonia|AQUA MatrixTV DE|
 |Aqua|AQUA MatrixTV EE|omonia|AQUA MatrixTV EE|
 |Aqua|AQUA MatrixTV FE|burrard|AQUA MatrixTV FE|
+|Aqua|AQUA MatrixTV GE|haeundae|AQUA MatrixTV GE|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|Arcelik 2K Google TV|awaza|Arcelik 2K Google TV|
@@ -12971,8 +12972,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|CANDY Android TV PRO|daan|CANDY Android TV PRO|
 |Haier|CANDY MatrixTV BE|jordan|CANDY MatrixTV BE|
 |Haier|CANDY MatrixTV CE|deto|CANDY MatrixTV CE|
+|Haier|CANDY MatrixTV DE|omonia|CANDY MatrixTV DE|
 |Haier|CANDY MatrixTV DR|holargos|CANDY MatrixTV DR|
+|Haier|CANDY MatrixTV EE|omonia|CANDY MatrixTV EE|
 |Haier|CANDY MatrixTV ER|holargos|CANDY MatrixTV ER|
+|Haier|CANDY MatrixTV GE|haeundae|CANDY MatrixTV GE|
 |Haier|CDP7TAB4C8|CDP7TAB4C8|CDP7TAB4C8|
 |Haier|CDP8TAB16SD|CDP8TAB16SD|CDP8TAB16SD|
 |Haier|CEDTAB70616W8|CEDTAB70616W8|CEDTAB70616W8|
@@ -13060,6 +13064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV ER|holargos|Haier MatrixTV ER|
 |Haier|Haier MatrixTV FE|burrard|Haier MatrixTV FE|
 |Haier|Haier MatrixTV FR|nanaimo|Haier MatrixTV FR|
+|Haier|Haier MatrixTV GE|haeundae|Haier MatrixTV GE|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier TV|SW6H|Haier TV|
 |Haier|Haier TV FF|SW6H|Haier TV FF|
@@ -14723,6 +14728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|W10|W10|W10|
 |Hotwav|W10 Pro|W10_Pro|W10 Pro|
 |Hotwav|W11|W11|W11|
+|Hotwav|X100 GT|X100_GT|X100 GT|
 |How|1001-G|1001-G|1001-G|
 |How|1001_G|1001-G_Go|1001-G Go|
 |How|705-G|705-G|705-G|
@@ -32905,6 +32911,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rockcel|Quartzo_4G|Quartzo_4G|Quartzo_4G|
 |Roenllce|L10-T12|L10-T12|L10|
 |Roenllce|L10-T12-EEA|L10-T12-EEA|L10|
+|Rogue mobile Inc|R67S|R67S|R67S|
+|Rogue mobile Inc|R67SA|R67SA|R67S|
 |Rokid|station2|station2|RG-station2|
 |Rombica|myPhone Jet|myPhone_Jet|myPhone Jet|
 |Rosso|ROSSO|jagalchi|SMART TV|
@@ -34658,11 +34666,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670|GT-S5670|
 |Samsung|Galaxy Fit|GT-S5670B|GT-S5670B|
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
-|Samsung|Galaxy Flip7 FE|b7r|SM-F7610|
-|Samsung|Galaxy Flip7 FE|b7r|SM-F761B|
-|Samsung|Galaxy Flip7 FE|b7r|SM-F761N|
-|Samsung|Galaxy Flip7 FE|b7r|SM-F761U|
-|Samsung|Galaxy Flip7 FE|b7r|SM-F761U1|
 |Samsung|Galaxy Fold|SCV44|SCV44|
 |Samsung|Galaxy Fold|winner|SM-F9000|
 |Samsung|Galaxy Fold|winner|SM-F900F|
@@ -36962,6 +36965,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip7|b7s|SM-F766U1|
 |Samsung|Galaxy Z Flip7|b7s|SM-F766W|
 |Samsung|Galaxy Z Flip7|b7s|SM-F766Z|
+|Samsung|Galaxy Z Flip7 FE|b7r|SM-F7610|
+|Samsung|Galaxy Z Flip7 FE|b7r|SM-F761B|
+|Samsung|Galaxy Z Flip7 FE|b7r|SM-F761N|
+|Samsung|Galaxy Z Flip7 FE|b7r|SM-F761U|
+|Samsung|Galaxy Z Flip7 FE|b7r|SM-F761U1|
 |Samsung|Galaxy Z Fold Special Edition|q6aq|SM-F958N|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
@@ -41822,6 +41830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|Y8|Y8|Y8|
 |TOPJOY|PNC450|PNC450|PNC450|
 |TOPJOY|SC0802|SC0802|SC0802|
+|TOPNICE|H66|mensa_an64|TOPNICE_H66|
 |TOPNICE|IFPD-H66|IFPD|TOPNICE-H66|
 |TORNADO|Smart TV|dangni|TORNADO Google TV|
 |TORNADO|TORNADO 2K SMART TV|shinagawa|TORNADO 2K SMART TV|
