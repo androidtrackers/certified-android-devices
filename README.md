@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-20
+Last sync is 2026-01-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6693,7 +6693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
 |Conquest|conquest_S20_EEA|conquest_S20|conquest_S20|
-|ConsumerCellular|SN512CC|SN512CC|SN512CC|
+|ConsumerCellular|IRIS Connect II|SN512CC|SN512CC|
 |Contex|Egypt|tamachi|AiPlus2K|
 |Contex|Egypt|yeongdeungpo|AiPlus4K|
 |Conti|CONTI|elliniko|4K SMART TV|
@@ -11613,6 +11613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Google TV Streamer|kirkwood|Google TV Streamer|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
 |Google|Intel Alder Lake Chromebox|brask_cheets|brask|
+|Google|Intel Alder Lake-N Chromebook|nissa_cheets|nirva|
 |Google|Intel Alder Lake-N Chromebook|nissa_cheets|nissa|
 |Google|Intel Amber Lake Y Chromebook|rammus_cheets|rammus|
 |Google|Intel Apollo Lake Chromebook|||
@@ -13256,6 +13257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haus|JS409|JS409|JS409|
 |Haus|JS420|JS420|JS420|
 |Haus|JS550|JS550|JS550|
+|Helgi|HELGI_C_Series_PRO|rk3576_u|HCPxx10|
 |Helgi|HXxx10|rk3588_t|Helgi_HX10|
 |Helio|Helio S5|Helio_S5|Helio S5|
 |Helio|S10|S10|S10|
@@ -14198,6 +14200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Box Q|HND|Box Q|
 |Homatics|Box R 4K Plus|YYJ|Box R 4K Plus|
 |Homatics|CTV 4K BOX|SEI700CG|CTV 4K BOX|
+|Homatics|Dongle 4K Plus|SEID00DBYG|Dongle 4K Plus|
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|Global|YQB|Dongle R 4K|
@@ -16677,6 +16680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IIIF150|B2|B2|B2|
 |IIIF150|B2 Pro|B2_Pro|B2 Pro|
 |IIIF150|B2 Ultra|B2_Ultra|B2 Ultra|
+|IIIF150|B2 Ultra|B2_Ultra|B2 Ultra 2026|
 |IIIF150|B3C|B3C|B3C|
 |IIIF150|B3_EEA|B3|B3|
 |IIIF150|Raptor LTD|Raptor|Raptor|
@@ -18695,6 +18699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KJ_Board|KJG IR13|KJG_IR13|KJG_Series|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
+|KOESIO_SCREEN_ISITOUCH|K_SIT_M2|K_SIT_M2|KOESIO SCREEN ISITOUCH|
 |KONDE|KD2|KD2|KD2|
 |KONDE|KIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
 |KONKA|Asia Pacific|Europe|MiddleEast，Africa|
@@ -27497,6 +27502,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|S4090L|S4090LA|S4090L|
 |Nuu|Tab 10|T1001LA|T1001L|
 |Nuu|Tab 10 Plus|T1005LAV1|T1005L|
+|Nuu|Tab 10A 5G|T1016XA|T1016X|
 |Nuu|Tab 5|N5005LA|N5005L|
 |Nuu|Tab 5|N5005LA_F|N5005L|
 |Nuu|Tab 8|T0801LAV1|T0801L|
@@ -29382,7 +29388,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A6650_PLUS|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
 |PAX (CN)|A910S|AXXX|A910S|
-|PAX (CN)|A920Pro|UIS7681_A14|A920Pro|
 |PAX (CN)|A950|A950|A950|
 |PAX (CN)|A99|AXXX|A99|
 |PAX (CN)|L1620|L1620|L1620|
@@ -42658,6 +42663,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 40 Premier 5G|TECNO-CM8|TECNO CM8|
 |Tecno|TECNO CAMON 40 Pro|TECNO-CM6|TECNO CM6|
 |Tecno|TECNO CAMON 40 Pro 5G|TECNO-CM7|TECNO CM7|
+|Tecno|TECNO CAMON 50|TECNO-CN5|TECNO CN5|
+|Tecno|TECNO CAMON 50 Pro|TECNO-CN5c|TECNO CN5c|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -47487,6 +47494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YINBER|S11Ultra|S11Ultra|S11Ultra|
 |YINKE|P6501|P6501|P6501|
 |YINOCHE|R8|R8|R8|
+|YISHENGTC|EMEETING_3576|EMEETING_3576|EMEETING_3576|
 |YISHENGTC|OPS_3576|OPS_3576|OPS_3576|
 |YOBANSE|T88|T88|T88|
 |YOBANSE|Y101|Y101|Y101|
@@ -48154,6 +48162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A210|ZTE_Blade_A210|ZTE Blade A210|
 |ZTE|Blade A3 2019|Z3051T|Blade A3 2019|
 |ZTE|Blade A3 2019|Z3051T|Blade A3 2019-T|
+|ZTE|Blade A3 Plus|Z3102T|Blade A3 Plus|
 |ZTE|Blade A3 SE|Z3101T|Blade A3 SE|
 |ZTE|Blade A30|Z3052T|Blade A30|
 |ZTE|Blade A31|Z5351T|Blade A31|
@@ -48825,6 +48834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|TURKCELL T80|P840F14|TURKCELL T80|
 |ZTE|TV Stick 4K|YEV|TV Stick 4K|
 |ZTE|Telenor Touch Plus|blade2|Telenor Touch Plus|
+|ZTE|Telstra T-Elite 2 5G|Z7303T|Blade A9 Pro 5G|
 |ZTE|Telstra T-Elite 5G|P720F09|A75 Pro 5G|
 |ZTE|Telstra T-Pro 2 5G|P780F03|Blade A76 5G|
 |ZTE|Telstra Tough Max 3|T86|T86|
@@ -49502,6 +49512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Neo 2 5G|P820F03|Z2352N|
 |ZTE|nubia Neo 3|P720F10|Z2461|
 |ZTE|nubia Neo 3 5G|P780F01|Z2464N|
+|ZTE|nubia Neo 3 GT 5G|Z7606O|Z2465N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
