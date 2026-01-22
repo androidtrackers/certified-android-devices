@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-21
+Last sync is 2026-01-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9065,6 +9065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|10in-I-Series-4|10in-I-Series-4|10in-I-Series-4|
 |ELO Touch|10in-I-Series-4-Value|10in-I-Series-4-Value|10in-I-Series-4-Value|
 |ELO Touch|10in-I-Series-5-Value|10in-I-Series-5-Value|10in-I-Series-5-Value|
+|ELO Touch|14in-E-Series-1|14in-E-Series-1|14in-E-Series-1|
 |ELO Touch|14in-E-Series-5|14in-E-Series-5|14in-E-Series-5|
 |ELO Touch|15in-I-Series-4|15in-I-Series-4|15in-I-Series-4|
 |ELO Touch|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|
@@ -9093,6 +9094,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|M50C|M50C|M50C|
 |ELO Touch|M60-Pay|M60-Pay|M60-Pay|
 |ELO Touch|M60C-Pay|M60C-Pay|M60C-Pay|
+|ELO Touch|M61|M61|M61|
+|ELO Touch|M61C|M61C|M61C|
 |ELO Touch|PayPoint® Plus for Android|Elo-PP3-15|Elo-PP3-15|
 |ELO Touch|PayPoint® for Android|Elo-PP3-13|Elo-PP3-13|
 |ELSONIC|ECQ-DAT01|ECQ-DAT01|ECQ-DAT01|
@@ -17301,6 +17304,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 10 PLUS|Infinix-X6725B|Infinix X6725B|
 |Infinix|SMART 10 PLUS|Infinix-X6725C|Infinix X6725C|
+|Infinix|SMART 20|Infinix-X6840|Infinix X6840|
+|Infinix|SMART 20|Infinix-X6840B|Infinix X6840B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5 HD|Infinix-X6511|Infinix X6511|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
@@ -24121,6 +24126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP8GY|M-SP8GY|SmartPad iyo8|
 |Mediacom|M-SP8HXAH|M-SP8HXAH|M-SP8HXAH|
 |Mediacom|M-SP8KID|M-SP8KID|M-SP8KID|
+|Mediacom|M-SP8KID2|M-SP8KID2|SmartKid 8|
 |Mediacom|M-SP8MXA|SP8MXA|M-SP8MXA|
 |Mediacom|SP1AZ4_L|SP1AZ4_L|AZIMUT_4_LITE|
 |Mediacom|SP1AZ4_L|SP1AZ4_L|E109GC|
@@ -30803,6 +30809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T810|T810|T810|
 |Positivo|T810|T810|Tab Q8 Lite|
 |Positivo|T810C|T810C|T810|
+|Positivo|TL10|TL10|TL10|
 |Positivo|TL10|TL10|Vaio TL10|
 |Positivo|TL10|TL10|Vaio TL10A|
 |Positivo|Tab Q10|T2050M|Tab Q10|
@@ -30918,6 +30925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo BGH|Ypy|T701_AR|L701 TV|
 |Positivo BGH|Ypy|YPY_L700|Positivo BGH Ypy L700|
 |Positivo BGH|Ypy Kids|YPY_L700|Positivo BGH Ypy L700 Kids|
+|Poslab|SF1560|SF1560|SF1560|
 |Postef|RAISECOM_M6511|RAISECOM_M6511|RAISECOM M6511|
 |Power Green|POWER GREEN|zhongshan|4K SMART TV|
 |Power Green|POWER_GREEN|stanford|2K SMART TV|
@@ -31442,6 +31450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C09|M10_C09|M10|
 |Pritom|M10_C09_EEA|M10_C09_EEA|M10|
 |Pritom|M10_C10|M10_C10|M10|
+|Pritom|M10_C10_EEA|M10_C10_EEA|M10|
 |Pritom|M10_C10_Kids|M10_C10_Kids|M10|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
 |Pritom|M10_Max|M10_Max|M10_Max|
@@ -39630,7 +39639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_TR|
 |Sunmi|V3|V3|V3|
 |Sunmi|V3 MIX|V3_MIX|V3_MIX_EDLA_GL|
-|Sunmi|V3 PlUS|V3_PLUS|V3_PLUS|
+|Sunmi|V3 PLUS|V3_PLUS|V3_PLUS|
 |Sunny|SN01DNGL300|YQB|SN01DNGL300|
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
@@ -47009,6 +47018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|XGIMI Vibe One|altai|WM03M|
 |XGIMI|XGIMI Vibe One (Battery Powered)|altai|WM03H|
 |XGIMI|XK03H|xgimigalileo|XK03H|
+|XHSM|A60_EEA|A60|A60|
 |XHSM|XHA537_EEA|XHA537|XHA537|
 |XHSM|XHSM|XHSM|XHSM|
 |XING_XING|Xingxing10|XING_XING|Xingxing10|
@@ -50837,7 +50847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|X90_EEA|X90|X90|
 |raemond|Z90|Z90|Z90|
 |raemond|Z90_EEA|Z90|Z90|
-|rainx|the101loop|the101loop|the101loop|
+|rainx|Loop|the101loop|the101loop|
 |rainx|theloop|theloop|theloop|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
@@ -50867,6 +50877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5210|RE60C8L1|RMX5210|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
+|realme|RMX8899|RE6402L1|RMX8899|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -51123,7 +51134,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我Neo7 SE|RE6025L1|RMX5080|
 |realme|真我Neo7 Turbo|RE602EL1|RMX5062|
 |realme|真我Neo7x|RE6024L1|RMX5071|
-|realme|真我Neo8|RE6402L1|RMX8899|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|
