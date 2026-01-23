@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-22
+Last sync is 2026-01-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6038,6 +6038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Changhong|U50H7|samseong|CHiQ AI Center|
 |Changhong|UHD Android TV|sindorim|AI PONT|
 |Channel Master|Stream+|dwt765cha|CM-7600|
+|Chargespot|Stackable_Unit|Stackable_Unit|CSAP04011|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
 |Cherry Mobile|A1090|A1090|A1090|
@@ -18863,6 +18864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EcoTV Plus A|hongkong|EcoTV Plus A|
 |KTCtv|EcoTV Plus C|hongkong|EcoTV Plus C|
 |KTCtv|EcoTV Plus D|hongkong|EcoTV Plus D|
+|KTCtv|EcoTV1|jagalchi|EcoTV1|
 |KTCtv|EcoTV2|kapellen|EcoTV2|
 |KTCtv|FOL|hongkong|4K SMART TV|
 |KTCtv|FOL|mountbaker|2K SMART TV|
@@ -19519,6 +19521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|COLORS|COLORS|COLORS|
 |Krono|KIDS_COLORS_PLUS|KIDS_COLORS_PLUS|KIDS_COLORS_PLUS|
+|Krono|Krono_Kids_Play|Krono_Kids_Play|Krono_Kids_Play|
 |Krono|MATRIX PRO|MATRIX_PRO|MATRIX_PRO|
 |Krono|NEOW|NEOW|KONROW|
 |Krono|NET-X2|NET_X2|NET_X2|
@@ -21222,6 +21225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGU+|WA-U420D|WA-U420D|WA-U420D|
 |LG_Electronics|TR3DK|TR3DK|TR3DK|
 |LG_Electronics|TR3DQ-B|TR3DQ-B|TR3DQ-B|
+|LG_Electronics|TR3ER-B|TR3ER-B|TR3ER-B|
 |LG_Electronics|TR3PN|rk3588_t|TR3PN|
 |LIAONING YIYATONG|DISNEY_Tablet_PC|DISNEY_Tablet_PC|DS2310-70LP|
 |LIAONING YIYATONG|IRULU_MID|IRULU_MID|X10|
@@ -22501,6 +22505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
+|Lenovo|Lenovo Yoga Tab|TB710FU|TB710FU|
 |Lenovo|Lenovo Yoga Tab 11|YT-J706F|Lenovo YT-J706F|
 |Lenovo|Lenovo Yoga Tab 11|YT-J706X|Lenovo YT-J706X|
 |Lenovo|Lenovo Yoga Tab Plus|TB520FU|TB520FU|
@@ -22735,6 +22740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|拯救者电竞手机2 Pro|doom|Lenovo L70081|
 |Lenovo|拯救者电竞手机2Pro|doom|Lenovo L70081|
 |Lenovo|拯救者电竞手机二代|doom|Lenovo L70081|
+|Lenovo|联想小新平板Pro GT|TB710FU|TB710FU|
 |Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|联想平板电脑 启天K10c|TB330FU|TB330FU|
@@ -29702,6 +29708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PROTON|Glory_i30|Glory_i30|Glory_i30|
+|PROTON|HyperX|HyperX|HyperX|
 |PROTON|Infinity 8|Infinity_8|Infinity 8|
 |PROTON|P25 Ultra|P25_Ultra|P25 Ultra|
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
@@ -43604,6 +43611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |URAO|G143A|G143A|G143A|
 |URAO|G143A_EEA|G143A|G143A|
 |URAO|G143L|G143L|G143L|
+|URAO|G143L_EEA|G143L|G143L|
 |URAO|X107|X107|X107|
 |URAO|X107_EEA|X107|X107|
 |URAO|X108|X108|X108|
@@ -43662,6 +43670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 32 Pro|GQ5017BF3|Armor 34 Pro|
 |Ulefone|Armor 33|GQ5016TF1|Armor 33|
 |Ulefone|Armor 34|GQ5017BF4|Armor 34|
+|Ulefone|Armor 34 Pro|GQ5017BF3|Armor 34 Pro|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor 8|Armor_8|Armor 8|
@@ -49910,6 +49919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|SENS PRO|SENS_PRO|SENS PRO|
 |Zuum|SENS_CURVE|SENS_CURVE|SENS CURVE|
 |Zuum|SENS_G|SENS_G|SENS G|
+|Zuum|SENS_PLUS|SENS_PLUS|SENS PLUS|
 |Zuum|SENS_PLUS1|SENS_PLUS|SENS PLUS|
 |Zuum|STELLAR|STELLAR|STELLAR|
 |Zuum|STELLAR M1|STELLAR_M1|STELLAR M1|
@@ -50727,7 +50737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |leaderhub|S19_EEA|S19_EEA|S19|
 |leaderhub|S20|S20|S20C|
 |leaderhub|S21|S21|S21|
-|loopDL|theloop_ROW|theloop_ROW|theloop_ROW|
+|loopDL|Loop|theloop_ROW|theloop_ROW|
 |mMax|mMax M55|M55|M55|
 |memetech|P30|P30|P30|
 |menfop|HaierP8B|HaierP8B|HaierP8B|
@@ -50848,7 +50858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|Z90|Z90|Z90|
 |raemond|Z90_EEA|Z90|Z90|
 |rainx|Loop|the101loop|the101loop|
-|rainx|theloop|theloop|theloop|
+|rainx|Loop|theloop|theloop|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
 |realme|NARZO 70 5G|RE5C86L1|RMX3869|
