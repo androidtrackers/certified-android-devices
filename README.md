@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-26
+Last sync is 2026-01-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3297,6 +3297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BARTEC|Pixavi Thermal|PixaviThermal|Pixavi Thermal|
 |BASICS|BT1025SS|BT1025SS|BT1025SS|
 |BASICS|BT1124FW|BT1124FW|BT1124FW|
+|BASICS|BT1226SS|BT1226SS|BT1226SS|
 |BATMAN|TM-MID1065BT|TM-MID1065BT|TM-MID1065BT|
 |BAYKUS|BKM10|BKM10|BKM10|
 |BDIC|lgyuev-T11|lgyuev-T11|lgyuev-T11|
@@ -5726,6 +5727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CZ Electronics|MX16|Mint_Diamond|MX16|
 |CZ Electronics|Mint_Iris|Mint_Iris|M7L_Sapphire|
 |CZ Electronics|Mint_Jane|Mint_Jane|M5E01|
+|CZUR|StarryHub Core 50|StarryHub|StarryHub_Core_50|
 |Cablecolor|CAB_TAB|CAB_TAB|CAB_TAB|
 |Cablecolor|GIU3A00|GIU3A00|GIU3A00|
 |Callsky|Cpad10|Cpad10|Cpad10|
@@ -9563,6 +9565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Enspert|Wiko CINK FIVE|s9201|Cynus T5|
 |Enspert|orion|orion|NGM Orion|
 |Enspert|vanitysmart|vanitysmart|NGM Vanity Smart|
+|Entabeni|Entabeni_Tablet|Entabeni_Tablet|Entabeni_Tablet|
 |Entel|DECO ENTEL|DIW585|DECO ENTEL|
 |Entel|DECO ENTEL DIW586|DV8957X-KCE|DECO ENTEL DIW586|
 |Entel|DECO ENTEL VSB3930|m393vsb_entel|DECO ENTEL VSB3930|
@@ -16935,6 +16938,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IUSA|TR10CS1|TR10CS1_8|TR10CS1|
 |IVA Mobile|LAMCY L400|LAMCY_L400|LAMCY L400|
 |IVA Mobile|Smart8|Smart8|Smart8|
+|IVOX|TWBXXX24A|TWBXXX24A1|TWBXXX24A|
 |IView|1016TPC|1016TPC|1016TPC|
 |IView|1070TPC|tulip-d100|1070TPC|
 |IView|769TPC|tulip-d86v|769TPC|
@@ -23319,6 +23323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MASTERTECH|Smart TV|dangni|AI PONT|
 |MAXHUB|E3|E3|maxhub_bytello_edla|
 |MAXHUB|S2|S2|S2|
+|MAXHUB|S_Line|S_Line|S_Line|
 |MAXHUB|U30|rk3588_t|U30|
 |MAXHUB|U4|oversea_v|U4|
 |MAXLEGEN|M621|M621|M621|
@@ -28297,6 +28302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A60|OP5AE7L1|CPH2631|
 |Oppo|A60|OP5B16L1|CPH3669|
 |Oppo|A60 5G|OP5EA7L1|CPH2683|
+|Oppo|A6c|OP61C7L1|PMC110|
 |Oppo|A6s|OP62A3L1|CPH2815|
 |Oppo|A6t|OP62A3L1|CPH2847|
 |Oppo|A6t 5G|OP5F2BL1|CPH2853|
@@ -29369,6 +29375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ovion|V11_Lite_TR|V11_Lite|V11 Lite|
 |Ovion|V15_LITE|V15_LITE|V15_LITE|
 |Ovion|V20_PRO_TR|V20_PRO|V20 PRO|
+|Ovion|V21_Pro|V21_Pro|V21_Pro|
 |Ovion|V30 Ultra|V30_Ultra|V30 Ultra|
 |Ovion|V8_LITE|OVION_V8_LITE|OVION_V8_LITE|
 |OwnMobile|FUN 6|OWN_FUN_6|OWN FUN 6|
@@ -29399,6 +29406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAITANRY|R95|R95|N868|
 |PAITANRY|SSK10|SSK10|SSK10|
 |PAITANRY|Y85|Y85|Y85|
+|PAITANRY|Y86_EEA|Y86_EEA|Y86|
 |PALSONIC|Android TV|R1|ATV R1|
 |PANORAMA|Smart TV|kualakai|Smart TV|
 |PANORAMA|SmartTV P|kualakai|Smart TV P|
@@ -31454,6 +31462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_B09|M10_B09|M10|
 |Pritom|M10_B09K|M10_B09K|M10|
 |Pritom|M10_B09_EEA|M10_B09_EEA|M10|
+|Pritom|M10_B10|M10_B10|M10|
 |Pritom|M10_C01|M10_C01|M10_C01|
 |Pritom|M10_C01_EEA|M10_C01_EEA|M10_C01_EEA|
 |Pritom|M10_C02|M10_C02|M10_C02|
@@ -33177,6 +33186,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|S25 Neo|S25_Neo|S25 Neo|
 |SEGO|SEGO_EPIC|SEGO_EPIC|SEGO EPIC|
 |SEGO|SEGO_EPIC_X|EPIC_X|EPIC X|
+|SEGO|SEGO_NOTE_80|SEGO_NOTE_80|NOTE 80|
+|SEGO|SEGO_NOTE_80|SEGO_NOTE_80|NOTE_80|
 |SEGO|SEGO_S24|S24|S24|
 |SEGO|SEGO_Zero_50|ZERO_50|ZERO 50|
 |SEGO|S_PAD|S_PAD|DT6P30YK|
@@ -40208,6 +40219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL ION X|Bora_NA_OM|T430WS|
 |TCL|TCL ION X|Bora_TMO|T430W|
 |TCL|TCL K11|Rio_TMO|T432W|
+|TCL|TCL K12|Scarab_Lite_CAN|T434J|
 |TCL|TCL K23|ScarabLite_TMO|T434W|
 |TCL|TCL K24|Scarab_Lite_TF|T434D|
 |TCL|TCL K32 5G|Beryl_TMO|T513W|
@@ -44476,6 +44488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VL Wireless Inc|VL68|VL68|VL68|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68 Lite|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68_Lite|
+|VL Wireless Inc|VL68_Pro|VL68_Pro|VL68 Pro|
 |VNPT Technology|VNPT SmartBox|vnptt_smb_3|VNPT SmartBox 3|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VNPT Technology|VNPTTechnology|VNTTab2|VNTTab2|
@@ -45069,6 +45082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi7Q|vsi7q_1_coho|vsi7q_1_coho|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
+|ViewSonic|Viewsonic Technologies  India private Limited|chester|ViewSonic smart|
 |ViewZ|VZ-24IPM|VZ-24IPM|VZ-24IPM|
 |VigorPhone|Vigor17|eraser|Vigor17|
 |Virse|E95|E95|E95|
@@ -49908,6 +49922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|AURA Z|AURA_Z|AURA_Z|
 |Zuum|AURA Z1|Aura_Z1|AURA Z1|
 |Zuum|Aura M1|Aura_M1|AURA M1|
+|Zuum|Aura_X1|Aura_X1|AURA X1|
 |Zuum|COVET|COVET|COVET|
 |Zuum|COVET PLUS|COVET_PLUS|COVET PLUS|
 |Zuum|COVET PRO|COVET_PRO|COVET PRO|
@@ -50910,6 +50925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3998|RE5C94L1|RMX3998|
 |realme|RMX5000|RE6066L1|RMX5000|
 |realme|RMX5061|RE60ADL1|RMX5061|
+|realme|RMX5107|RE646FL1|RMX5107|
 |realme|RMX5111|RE6444L1|RMX5111|
 |realme|RMX5200|RE6030L1|RMX5200|
 |realme|RMX5210|RE60C8L1|RMX5210|
