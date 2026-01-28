@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-27
+Last sync is 2026-01-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1296,6 +1296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airtel|Xstream4_AR|VIP7220SIAI|Xstream4_AR|
 |Airtel|XstreamIPTV1|UIW4078ATL|XstreamIPTV1-VT|
 |Airtel-Xstream|XstreamIPTV2-SM|ASD6101SR|XstreamIPTV2-SM|
+|Aisino|A99|A99|A99|
 |Aiuto|AT1001|AT1001|AT1001|
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
@@ -9526,6 +9527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Energizer|Ultimate U710S|Ultimate_U710S|Ultimate U710S|
 |EnergySistem|adelroth|adelroth|Energy Tablet Pro 4|
 |Enerpres|SMIG_V|SMIG_V|SMIG_V|
+|Engage|EN_1DS|EN_1DS|Digital Signage|
 |Engel|4K Smart TV|pioneer|4K PA Smart TV|
 |Engel|ENGEL|bangbae|Engel 4K Android TV|
 |Engel|Smart TV|mateo|2K PA Smart TV|
@@ -32390,6 +32392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11|A11|A11|
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
+|RebotAi|AD11|AD11|AD11|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|B11_EEA|B11|B11|
@@ -33414,6 +33417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|L80W|L80W|L80W|
 |SPC|LIGHTYEAR-2|LIGHTYEAR-2|LIGHTYEAR 2|
 |SPC|LIGHTYEAR-PRO-2|LIGHTYEAR-PRO-2|LIGHTYEAR PRO 2|
+|SPC|LUMACORE_MEETING|LUMACORE_MEETING|LUMACORE_MEETING|
 |SPC|SMART  2|SMART_2|SMART 2|
 |SPC|SMART 3|SMART_3|SMART 3|
 |SPC|SMART_MAX_2|SMART_MAX_2|SMART_MAX_2|
@@ -37328,6 +37332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Senwa|Senwa_LS5018|Senwa_LS5018|LS5018|
 |Senwa|Senwa_LS5018F|Senwa_LS5018F|LS5018F|
 |Senwa|Senwa_S40|Senwa_S40|S40|
+|Senwa|Senwa_S50V24|Senwa_S50V24|S50|
 |Senwa|Senwa_S571|Senwa_S571|S571|
 |Senwa|Senwa_S5_PLUS|Senwa_S5_PLUS|S5 PLUS|
 |Senwa|Telcel S6000|Telcel_S6000|S6000|
@@ -47560,6 +47565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YOBANSE|Z-T10|Z-T10|Z-T10|
 |YOBANSE|Z-TAB10|Z-TAB10|Z-TAB10|
 |YOSATOO|K15|K15|K15|
+|YOSATOO|K15-B|K15-B|K15-B|
 |YOSATOO|KIDS07A|KIDS07A|KIDS07A|
 |YOSATOO|P10|P10|P10|
 |YOSATOO|Y10|Y10|Y10|
@@ -47744,6 +47750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZAIKAI|ZAIKAI|t7_an400|G-8600|
 |ZAMOLXE|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|
 |ZAMOLXE|ZXT-10HL323S|ZXT-10HL323S|ZXT-10HL323S|
+|ZBOE|Interactive_Flat_Display|t7_an400|ZH600_Series|
 |ZCS(SZ)|Z108|Z108|Z108|
 |ZCS(SZ)|Z91|Z91|Z91|
 |ZCS(SZ)|Z92|Z92|Z92|
@@ -50164,6 +50171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eNOVA|N51|N51|N51|
 |eNOVA|TAE08N10|TAE08N10|TAE08N10|
 |eNOVA|TAE10C13|TAE10C13|TAE10C13|
+|eNOVA|TAE10N12|TAE10N12|T1081|
 |eNOVA|TAEI0C13|TAE10C13|TAE10C13|
 |eSSL|Emerald|Emerald|Emerald|
 |eSTREAM 4K|EVOPRO|SEI500EV|EVOPRO|
@@ -50534,12 +50542,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|D4 Pro|D4Pro|I23D01|
 |iMin|D4Pro|D4Pro|I23D01|
 |iMin|Falcon 1|I22T01|I22T01|
+|iMin|Falcon 1 Pro|Falcon1Pro|I25T01|
 |iMin|Falcon 2|Falcon2|I24T01|
 |iMin|Falcon 2|Falcon2|I24T02|
+|iMin|Heron 1|Heron1|I25S02|
+|iMin|Heron 1 mini|Heron1mini|I25S01|
 |iMin|I24D02|Swan2|I24D02|
 |iMin|I24T03|Falcon2Max|I24T03|
 |iMin|Lark 1|Lark1|I24P01|
 |iMin|Roc 1|Roc1|I25M01|
+|iMin|Roc 1 Max|Roc1Max|I25M02|
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
 |iMin|Swan1Gen2|Swan1Plus|I24D06|
 |iMin|Swan1Plus|Swan1Plus|I24D05|
