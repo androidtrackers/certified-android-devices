@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-28
+Last sync is 2026-01-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -442,6 +442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATEAM|A801|A801|A801|
 |ATEC|APD3|APD3|APD3|
 |ATEC|ATEC GRANDE|ATEC_IWB|A8GC|
+|ATEC|ATEC_GRANDE|ATEC_IWB|ABGC|
 |ATEL|A68EL|A68EL|A68EL|
 |ATID|AT908|AT908|AT908|
 |ATID|AT908_EEA|AT908|AT908_EEA|
@@ -1268,6 +1269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ainmel|KB1004|KB1004|KB1004|
 |Ainmel|KB1004A|KB1004|KB1004|
 |Ainmel|KB1004A_EEA|KB1004|KB1004|
+|Ainmel|KB1004S|KB1004S|KB1004S|
 |Ainmel|KB1005|KB1005|KB1005|
 |Ainmel|KB1005_EEA|KB1005|KB1005|
 |Ainol|7C08X|7C08X|7C08X|
@@ -6425,6 +6427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CloudFone|ThrillBoost2Plus|ThrillBoost2Plus|Thrill Boost 2 Plus|
 |CloudMinds|A1-901|A1-901|A1-901|
 |CloudMinds|OTTTAB2|OTTTAB2|OTTTAB2|
+|Cloud_Mobile|C9 Prime|Stratus_C9_Prime|Stratus C9 Prime|
 |Cloud_Mobile|MC8B654B100136|MC8B654B|MC8B654B|
 |Cloud_Mobile|Stratus_C8|Stratus_C8|Stratus C8|
 |Cloud_Mobile|Stratus_C9|Stratus_C9|Stratus C9|
@@ -38434,6 +38437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
 |SmartPeak|P3000|P3000|P3000|
+|SmartSchool|Interactive_Flat_Panel|Interactive_Flat_Panel|H-Series|
 |Smart_Touch|ST IR13|STG_IR13|STG_Series|
 |Smart_Touch|Smart Touch QERA|QERA|QERA_Series|
 |Smartab|SRF79|SRF79|SRF79|
@@ -43846,6 +43850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|RugKing 2 Pro|GQ3127RH1|RugKing 2 Pro|
 |Ulefone|RugKing 3 Pro|GQ3128RH1|RugKing 3 Pro|
 |Ulefone|RugKing 4 Pro|GQ3129RH1|RugKing 4 Pro|
+|Ulefone|RugKing 5 Pro|GQ3131RF1|RugKing 5 Pro|
 |Ulefone|RugKing Pad 2 Pro|GQ8002RH1|RugKing Pad 2 Pro|
 |Ulefone|RugKing Pad Pro|GQ8001RH1|RugKing Pad Pro|
 |Ulefone|S10_Pro|S10_Pro|S10_Pro|
@@ -45626,7 +45631,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y29t 5G|V2446|V2527|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y300 5G|V2418|V2416|
-|Vivo|Y300 GT|PD2452|V2452GA|
 |Vivo|Y300 Plus 5G|V2422|V2422|
 |Vivo|Y300 Pro|PD2410|V2410A|
 |Vivo|Y300+|PD2445|V2445EA|
@@ -48062,6 +48066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A404ZT|Z8900S|A404ZT|
 |ZTE|A404ZT|Z8900S|NX732J|
 |ZTE|A504ZT|Z6301S|A504ZT|
+|ZTE|A505ZT|Z8700S|A505ZT|
 |ZTE|A506ZT|Z6302S|A506ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
@@ -49122,6 +49127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2472|P606F20_A|Z2472|
 |ZTE|Z2575|P620F02|Z2575|
 |ZTE|Z2576|P620F01|Z2576|
+|ZTE|Z2577|P615F02|Z2577|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
@@ -49405,6 +49411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A35 Lite|P963F10|ZTE Blade A35 Lite|
 |ZTE|ZTE Blade A35e|P963F66|Z2466|
 |ZTE|ZTE Blade A35s|P963F66|Z2466|
+|ZTE|ZTE Blade A36e|P963F66|Z2466|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -49998,6 +50005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|ZUUM PAD Lightyear|ZUUM_PAD_Lightyear|ZUUM PAD Lightyear|
 |Zynex|G141L|G141L|G141L|
 |Zynex|KB1002|KB1002|KB1002|
+|Zynex|X107L|X107L|X107L|
 |abxylute|abxylute_one|abxylute_one|abxylute_one|
 |abxylute|abxylute_one|abxylute_one|abxylute_one_EEA|
 |afriphone|smart_S5|smart_S5|smart_S5|
@@ -50612,19 +50620,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iPlus|iPlus_P3|iPlus_P3|iPlus P3|
 |iQOO|I40-5_RU|I2347-2_RU|I2347-4_RU|
-|iQOO|Neo10 Pro+|PD2463|V2463A|
-|iQOO|Pad5 Pro|DPD2429|iPA2575|
-|iQOO|Z10 Turbo|PD2452|V2452A|
 |iQOO|iQOO 15|I2501|I2501|
 |iQOO|iQOO 15|PD2505|V2505A|
 |iQOO|iQOO Neo 10|I2405|I2405|
 |iQOO|iQOO Neo 10|I2405|I2408|
+|iQOO|iQOO Neo10 Pro+|PD2463|V2463A|
 |iQOO|iQOO Neo11|PD2520|V2520A|
 |iQOO|iQOO Pad5|DPD2437|iPA2556|
+|iQOO|iQOO Pad5 Pro|DPD2429|iPA2575|
 |iQOO|iQOO Pad5e|DPD2345|iPA2453|
 |iQOO|iQOO Pad5e|DPD2345|iPA2537|
 |iQOO|iQOO Z10 Lite|I2502|I2502|
 |iQOO|iQOO Z10 Lite 5G|I2409|I2409|
+|iQOO|iQOO Z10 Turbo|PD2452|V2452A|
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQOO|iQOO Z10R 5G|I2505|I2505|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
@@ -50943,7 +50951,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5210|RE60C8L1|RMX5210|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
-|realme|RMX8899|RE6402L1|RMX8899|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -51200,6 +51207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我Neo7 SE|RE6025L1|RMX5080|
 |realme|真我Neo7 Turbo|RE602EL1|RMX5062|
 |realme|真我Neo7x|RE6024L1|RMX5071|
+|realme|真我Neo8|RE6402L1|RMX8899|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我V13 5G|RE5081|RMX3041|
@@ -51351,7 +51359,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
-|vivo|V2506A|PD2506|V2506A|
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
 |vivo|V60 Lite|V2441|V2530|
@@ -51367,6 +51374,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X300 Pro|V2514|V2514|
 |vivo|X300 Pro 卫星通信版|PD2502|V2502DA|
 |vivo|Y04e|V2430|V2532|
+|vivo|Y05|V2556|V2556|
+|vivo|Y05|V2556|V2565|
+|vivo|Y11d|V2556|V2555|
+|vivo|Y11d|V2556|V2578|
+|vivo|Y11d|V2556|V2580|
+|vivo|Y11e|V2556|V2577|
 |vivo|Y19s 5G|V2446|V2541|
 |vivo|Y21d|V2520|V2520|
 |vivo|Y21d|V2520|V2524|
@@ -51374,6 +51387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y21d|V2520|V2535|
 |vivo|Y21d|V2520|V2560|
 |vivo|Y21e|V2520|V2525|
+|vivo|Y300 GT|PD2452|V2452GA|
 |vivo|Y31 5G|V2521|V2521|
 |vivo|Y31 5G|V2521L|V2521|
 |vivo|Y31 Pro 5G|V2437|V2534|
@@ -51388,6 +51402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y50 5G|PD2443|V2443A|
 |vivo|Y50 AI版|PD2443|V2443A|
 |vivo|Y50 移动定制版|PD2443|V2443A|
+|vivo|Y500|PD2506|V2506A|
 |vivo|Y500 Pro|PD2516|V2516A|
 |vivo|Y500i|PD2531|V2531A|
 |vivo|Y500i AI版|PD2531|V2531A|
