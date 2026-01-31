@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-01-30
+Last sync is 2026-01-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -51026,6 +51026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
 |realme|realme 15T|RE6444L1|RMX5111|
 |realme|realme 15x 5G|RE644C|RMX5250|
+|realme|realme 16 5G|RE6474L1|RMX5171|
 |realme|realme 16 Pro 5G|RE645DL1|RMX5120|
 |realme|realme 16 Pro+ 5G|RE6458L1|RMX5131|
 |realme|realme 2K G Smart TV|umeda|realme 2K G Smart TV|
