@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-02
+Last sync is 2026-02-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2546,6 +2546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ASUSPRO Tablet (M1000CL)|P01T_M|P01T|
 |Asus|ASUSPRO Tablet (M700C)|P01W_M|P01W|
 |Asus|ASUSPRO Tablet (M700KL)|P002_M|P002|
+|Asus|ASUS_WW_2885|pangyo|XG34WCDMTG|
 |Asus|Chromebook C202SA/C300SA/C301SA|terra_cheets|ASUS Chromebook C202SA|
 |Asus|Chromebook Flip C100PA|||
 |Asus|Chromebook Flip C100PA|minnie_cheets|ASUS Chromebook Flip C100PA|
@@ -19010,6 +19011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SA|hongkong|EcoTV Plus|
 |KTCtv|SA|stanford|40DSA|
 |KTCtv|SA|zhongshan|43FSA|
+|KTCtv|SEUCOM|templeton|4K SMART TV|
 |KTCtv|SIERA|stanford|2K Siera SMART TV|
 |KTCtv|SKY-ONE|stanford|2K SMART TV|
 |KTCtv|SKY-ONE|zhongshan|4K SMART TV|
@@ -19641,6 +19643,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|KM 4K TV|keoneae|KM 4K TV|
 |Kruger&Matz|KM0708|KM0708|KM0708|
 |Kruger&Matz|KM0808|KM0808|KM0808|
+|Kruger&Matz|KM0HD FHD|eeklo|KM0HD FHD|
+|Kruger&Matz|KM0UHD|galway|KM0UHD|
 |Kruger&Matz|KM1008|KM1008|KM1008|
 |Kruger&Matz|KM1066|EAGLE_1066|KM1066|
 |Kruger&Matz|KM1067|EAGLE_1067|KM1067|
@@ -27148,6 +27152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|X70|X70|X70|
 |Newline|23Q|23Q|23Q|
 |Newline|23QA|velvet|LGA311D2|
+|Newline|Newline 26Q|newline26Q|newline26Q|
 |Newline|Newline_Q_Pro_Elite|Q25ELT|Newline Q Pro Elite|
 |Newline|Newline_Q_Pro_Elite|Q25ELT|Newline_Q_Pro_Elite|
 |Newline|Q23|rk3588_t|Q23|
@@ -30542,6 +30547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pixela|PIX_VP100|kyobashi|PIX-VP100|
 |Pixus|PixusJoker|PixusJoker|PixusJoker|
 |Pixus|Pixus_Arena|Pixus_Arena|Pixus_Arena|
+|Pixus|Pixus_BigTab|Pixus_BigTab|Pixus_BigTab|
 |Pixus|Pixus_Blast|Pixus_Blast|Pixus_Blast|
 |Pixus|Pixus_Combo|Pixus_Combo|Pixus Combo|
 |Pixus|Pixus_Deon|Pixus_Deon|Pixus_Deon|
@@ -31551,6 +31557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C10_Kids|M10_C10_Kids|M10|
 |Pritom|M10_C10_Kids_EEA|M10_C10_Kids_EEA|M10|
 |Pritom|M10_C11|M10_C11|M10_C11|
+|Pritom|M10_C11_Kids|M10_C11_Kids|M10_C11_Kids|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
 |Pritom|M10_Max|M10_Max|M10_Max|
 |Pritom|M10_Max_EEA|M10_Max_EEA|M10_Max_EEA|
@@ -33802,6 +33809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_A1|P10_A1|P10_A1|
 |SVITOO|P10_A1_EEA|P10_A1|P10_A1|
 |SVITOO|P10_A_EEA|P10_A|P10_A|
+|SVITOO|P10_B_EEA|P10_B|P10_B|
 |SVITOO|P10_T_EEA|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
@@ -40012,6 +40020,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TA71CA5_JP|JP SA COUTO|S.A. _MG070A2T|TA71CA5_1|
 |TABWEE|K10_EEA|K10_EEA|K10|
 |TABWEE|K10_NEU|K10_NEU|K10|
+|TABWEE|K10_RU|K10|K10|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
 |TABWEE|T50_EEA|T50|T50|
@@ -50243,6 +50252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eNOVA|N10|N10|N10|
 |eNOVA|N50E|N50|N50|
 |eNOVA|N51|N51|N51|
+|eNOVA|T1081|T1081|T1081|
 |eNOVA|TAE08N10|TAE08N10|TAE08N10|
 |eNOVA|TAE10C13|TAE10C13|TAE10C13|
 |eNOVA|TAE10N12|TAE10N12|T1081|
@@ -50831,8 +50841,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|
-|iotapk|HONOR CHOICE AI Translator|BLK-L03|BLK-L03|
-|iotapk|HONOR CHOICE AI Translator|BLK-L09|BLK-L09|
+|iotapk|HONOR CHOICE T10|BLK-L03|BLK-L03|
+|iotapk|HONOR CHOICE T10|BLK-L09|BLK-L09|
 |ioutdoor|L611|L611|L611|
 |ioutdoor|Polar3|Polar3|Polar3|
 |ioutdoor|Polar3_EEA|Polar3|Polar3|
