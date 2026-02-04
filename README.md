@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-03
+Last sync is 2026-02-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1992,6 +1992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|EP1495T|EP1495T|EP1495T|
 |Apolosign|K103_A|K103_A|K103A|
 |Apolosign|K103_A|K103_A|K103_A|
+|Apolosign|K103_B|K103_B|K103_B|
 |Apolosign|K106A|K106A|K106A|
 |Apolosign|K106_A|K106_A|K106_A|
 |Apolosign|K109A|K109A|K109A|
@@ -6701,6 +6702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|TGW801G|TGW801G|TGW801G|
 |Condor|TGW801L|TGW801L|TGW801L|
 |Condor|TMK715L|TMK715L|TMK715L|
+|Condor|UTS800|UTS800|UTS800|
 |CongoTelecom|Speed|Speed|Speed|
 |Connectce|Connect Alpha|CNT07002|CNT07002|
 |Connectce|Connect Core 6|Connect_Core_6|CP6001A|
@@ -29849,6 +29851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|T1000|T1000|T1000|
 |Packard Bell|TARGA-F10PRO|TARGA-F10PRO|TARGA-F10PRO|
 |Packard Bell|TARGA-F11PRO|TARGA-F11PRO|TARGA-F11PRO|
+|Packard Bell|TARGA-F13PRO|TARGA-F13PRO|TARGA-F13PRO|
 |Packard Bell|TARGA-F7|TARGA-F7|TARGA-F7|
 |Packard Bell|TARGA-F8|TARGA-F8|RG-TB08-V2|
 |Packard Bell|TARGA-F8|TARGA-F8|TARGA-F8|
@@ -32913,6 +32916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P90_EEA|P90|P90|
 |Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|P90_US|P90|P90|
+|Relndoo|T10-M|T10-M|T10|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
 |Relndoo|T10P_B|T10P_B|T10P|
@@ -33809,6 +33813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_A1|P10_A1|P10_A1|
 |SVITOO|P10_A1_EEA|P10_A1|P10_A1|
 |SVITOO|P10_A_EEA|P10_A|P10_A|
+|SVITOO|P10_B|P10_B|P10_B|
 |SVITOO|P10_B_EEA|P10_B|P10_B|
 |SVITOO|P10_T_EEA|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
@@ -46601,6 +46606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|KT1028|KT1028|KT1028|
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
+|Whitedeer|X7|X7L|X7L|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
 |Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
