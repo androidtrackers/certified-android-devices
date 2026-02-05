@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-04
+Last sync is 2026-02-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5270,6 +5270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BraveTechs|BraveT3Max|T3Max|T3 Max|
 |BraveTechs|BraveT3Ultra|T3Ultra|T3 Ultra|
 |BraveTechs|BraveT4Lite|BraveT4Lite|T4 Lite|
+|BraveTechs|BraveT4Pro|T4_Pro|T4 Pro|
 |BraveTechs|Brave_T3Pro|T3_Pro|T3 Pro|
 |Bravis|A509_Jeans|A509_Jeans|A509_Jeans|
 |Bravis|A510_Jeans_4G|A510_Jeans_4G|A510_Jeans_4G|
@@ -9255,6 +9256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|Etel P64 Ultra|Etel_P64|Etel P64 Ultra|
 |ETELPREMIUM|NOTE 25 ULTRA|NOTE_25_ULTRA|N2500|
 |ETELPREMIUM|P68|ETEL_P68|ETEL P68|
+|ETEL_premium|E68|E68|E68|
 |ETEL_premium|ETEL-E28|ETEL-E28|E28|
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
 |ETERNITY|HEROSP001|HEROSP001|SP-001|
@@ -10466,6 +10468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ford|Omni 8|Omni8|Omni8|
 |Formovie|Formovie Cinema Edge Laser Projector|koroli|Formovie Google TV|
 |Formovie|Formovie Theater Premium Laser TV|koroli|L206FGN-X2|
+|Formovie|Theater Laser Projector|hanlla|Formovie Laser 4K projector|
 |Formuler|GTV|GTV|GTV|
 |Fortus|PayTab_PT10|PayTab_PT10|PayTab_PT10|
 |Foryoudigital|IWB_FYD_F|IWB_FYD_F|IWB_FYD_F|
@@ -18608,6 +18611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KAKTIN|D08|D08|D08|
 |KAKTIN|D9|D9|D9|
 |KAKTIN|SM1|SM1|SM1|
+|KAMON|K101_Plus|K101_Plus|K101_Plus|
 |KANSELIR|KTB-168|KTB-168|KTB-168|
 |KAT(AF)|SM1_Tablet|SM1_Tablet|SM1|
 |KAZAM|TROOPER X3.5|KAZAM|Trooper_X35|
@@ -19145,6 +19149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Element Play|ELEMENT_PLAY|ELEMENT PLAY|
 |Kalley|Gold Pro|GOLD_PRO|GOLD_PRO|
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
+|Kalley|Kalley TV|katehaki|Kalley TV|
 |Kalley|Kalley_FlexTab_11|Kalley_FlexTab_11|Kalley_FlexTab 11|
 |Kalley|Klic|SA|K4-02 4G|
 |Kalley|R10G|R10G|R10G|
@@ -19882,6 +19887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LANDI|M10SE|M10SE|M10SE|
 |LANDI|M20|M20|M20|
 |LANDI|M20SE|M20SE|M20SE|
+|LANDI|M50SEN00|M50SE-G-00|M50SE|
 |LANDI|P30TN00|P30T-G-00|P30 Tablet|
 |LANDI|P9|P9|P9|
 |LANDI|Pad6plus|Pad6plus|Pad6plus|
@@ -24076,6 +24082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MeanIT|K17|K17|K17|
 |MeanIT|MTAB32_EEA|MTAB32_EEA|meanIT K10|
 |MeanIT|MeanIt_X30|MeanIt_X30_EEA|MeanIt_X30|
+|MeanIT|PK81|PK81|PK81|
 |MeanIT|PP101|PP101|PP101|
 |MeanIT|START_S5|START_S5|START_S5|
 |MeanIT|X3|X3|X3|
@@ -27497,6 +27504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nomu|V31E|V31E|V31E|
 |Nomu|V58|V58|V58|
 |NoonEast|Smart TV|longshan|AI PONT|
+|Nordalp|Nordalp-X21-Pro|Condor-Pro|NX21EE|
 |Nordalp|X6 Pro|raptor|X6 Pro|
 |NorthTech|NT-P70|NT-P70|NT-P70|
 |NorthTech|NT-S10|NT-S10|NT-S10|
@@ -30273,6 +30281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pepperl+Fuchs|Smart-Ex 03|Smart-Ex03|Smart-Ex03|
 |Pepperl+Fuchs|Smart-Ex 203|Smart-Ex203|Smart-Ex203|
 |Pepperl+Fuchs|Tab-IND 10 AND|Tab-IND10AND|Tab-IND 10 AND|
+|Pepperl+Fuchs|oona1W15|oona1W15|oona1W15|
 |Pepperl+Fuchs|oona22|oona2W22|oona2W22|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Performance|T7|T7|T7|
@@ -31531,6 +31540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_B09K|M10_B09K|M10|
 |Pritom|M10_B09_EEA|M10_B09_EEA|M10|
 |Pritom|M10_B10|M10_B10|M10|
+|Pritom|M10_B10_EEA|M10_B10_EEA|M10|
 |Pritom|M10_C01|M10_C01|M10_C01|
 |Pritom|M10_C01_EEA|M10_C01_EEA|M10_C01_EEA|
 |Pritom|M10_C02|M10_C02|M10_C02|
@@ -33062,6 +33072,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Roenllce|L10-T12-EEA|L10-T12-EEA|L10|
 |Rogue mobile Inc|R67S|R67S|R67S|
 |Rogue mobile Inc|R67SA|R67SA|R67S|
+|Rogue mobile Inc|R67T|R67T|R67T|
 |Rokid|station2|station2|RG-station2|
 |Rombica|myPhone Jet|myPhone_Jet|myPhone Jet|
 |Rosso|ROSSO|jagalchi|SMART TV|
@@ -33138,6 +33149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6506|S6506|S6506|
 |Ruio|S6528|S6528|S6528|
 |Ruio|S6537G|S6537G|S6537G|
+|Ruio|S6539Q|S6539Q|Celtiis Smart 3|
 |Ruio|S6539Q|S6539Q|Edge X1|
 |Ruio|S6539Q|S6539Q|Hot2|
 |Ruio|S6539Q|S6539Q|S6539|
@@ -41995,6 +42007,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|TOPELOTEK|KIDS09|KIDS09|
 |TOPELOTEK|V7|V7|V7|
 |TOPELOTEK|Y8|Y8|Y8|
+|TOPELOTEK|ZIDS_701|ZIDS_701|ZIDS_701|
 |TOPJOY|PNC450|PNC450|PNC450|
 |TOPJOY|SC0802|SC0802|SC0802|
 |TOPNICE|H66|mensa_an64|TOPNICE_H66|
@@ -44308,6 +44321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unnecto|UB501_openla|Bolt_5G|UB501|
 |Unnecto|UE010|ECO_10|UE010|
 |Unnecto|UE020|ECO_20|UE020|
+|Unnecto|UE020_albssl|ECO_20|UE020|
 |Unnion Technologies|HH25|HH25|HH25|
 |Unnion Technologies|UN-CT101|UN-CT101|UN-CT101|
 |Unnion Technologies|UNSP7|UNSP7|UNSP7|
@@ -44571,6 +44585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VIZZION|vizzion|zhongshan|F VIZZION TV|
 |VK DIGITAL|VKONBOX|SEI740VK|VKONEBOX|
+|VL Wireless Inc|VL10|VL10|VL10|
 |VL Wireless Inc|VL68|VL68|VL68|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68 Lite|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68_Lite|
@@ -46607,6 +46622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
 |Whitedeer|X7|X7L|X7L|
+|Whitedeer|X7_EEA|X7L|X7L|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
 |Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
@@ -49599,6 +49615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Note14 Pro+|Z2471C|Z2471C|
 |ZTE|ZTE Overture 3|jeff|Z851|
 |ZTE|ZTE PA01|P898P01|ZTE PA01|
+|ZTE|ZTE Pad X1102N|P720T01|X1102N|
 |ZTE|ZTE T0801|P876T01J|ZTE T0801|
 |ZTE|ZTE Tempo X|grayjoylite|N9137|
 |ZTE|ZTE U5|enterprise|ZTE U5|
@@ -51479,6 +51496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d|V2543|V2543|
 |vivo|Y31d|V2543|V2546|
 |vivo|Y31d|V2543|V2582|
+|vivo|Y31d|V2543|V2611|
 |vivo|Y31e 5G|V2521|V2533|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
