@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-05
+Last sync is 2026-02-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3684,6 +3684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BNCF|BPad_10_4G|BPad_10_4G|BPad_10_4G|
 |BNCF|BPad_10_SE|BPad_10_SE|BPad_10_SE|
 |BNCF|BPad_13|BPad_13|BPad 13|
+|BNCF|BPad_GT|BPad_GT|BPad_GT|
 |BNCF|BPad_Mini_Ultra|BPad_Mini_Ultra|BPad_Mini_Ultra|
 |BNCF|BPad_T1|BPad_T1|BPad T1|
 |BNE(TW)|4KS1|GCU5AC0D|4KS1|
@@ -3919,6 +3920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BWJBSW|KT802_US|KT802_US|KT802_US|
 |BWJBSW|QZ1095W|QZ1095W|QZ1095W|
 |BWJBSW|QZ1095W_EEA|QZ1095W_EEA|QZ1095W_EEA|
+|BXLIYER|BX_D04|Tablet_player|BX_D04|
 |BYD|BYD|BYD100F|BYD100F|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
@@ -7330,6 +7332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DABLIU|E13R|E13R_B86G|E13R|
 |DABLIU|E13R_B65G|rk3588_E13R|E13R|
 |DABLIU|E1M|E1M|E1M|
+|DABLIU|E1N|E1N|E1N|
 |DABLIU|L1R|L1R|L1R|
 |DAIICHI|Vietnam|martin|Daiichi 2K SMART TV|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
@@ -9249,6 +9252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|E26|E26|E26|
 |ETELPREMIUM|E27|ETEL_E27|ETEL P27|
 |ETELPREMIUM|E65|E65|E65|
+|ETELPREMIUM|ETEL E67|ETEL-E67|ETEL-E67|
 |ETELPREMIUM|ETEL P29|ETEL_P29|ETEL P29|
 |ETELPREMIUM|ETEL P65|ETEL-P65|ETEL-P65|
 |ETELPREMIUM|ETEL P66|ETEL-P66|ETEL-P66|
@@ -14459,8 +14463,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
 |Honor|Elsa|HNELA-M|ELA-LX2|
 |Honor|Elsa|HNELA-M|ELA-LX3|
-|Honor|HONOR  Magic8 Lite|HNMTN-Q1|MTN-NX1M|
-|Honor|HONOR  Magic8 Lite|HNMTN-Q1|MTN-NX3|
 |Honor|HONOR  X9d|HNMTN-Q1|MTN-NX1|
 |Honor|HONOR 100|HNMAA|MAA-AN00|
 |Honor|HONOR 100 Pro|HNMAP|MAA-AN10|
@@ -14510,6 +14512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic7 Lite|HNBRP-Q1|BRP-NX3|
 |Honor|HONOR Magic7 Pro|HNPTPX|PTP-N49|
 |Honor|HONOR Magic8 Lite|HNMTN-Q1|MTN-NX1M|
+|Honor|HONOR Magic8 Lite|HNMTN-Q1|MTN-NX3|
 |Honor|HONOR Magic8 pro|HNBKQ|BKQ-N49|
 |Honor|HONOR MagicPad2|HNROD2-Q|ROD2-W09|
 |Honor|HONOR MagicPad2|HNROD2-Q1|ROD2-W09|
@@ -14527,6 +14530,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X8a|HNNDL-Q|NDL-L03|
 |Honor|HONOR Pad X8a|HNNDL-Q|NDL-L09|
 |Honor|HONOR Pad X8a|HNNDL-Q|NDL-W09|
+|Honor|HONOR Pad X8b|HNNDL2-Q|NDL2-L03|
+|Honor|HONOR Pad X8b|HNNDL2-Q|NDL2-L09|
+|Honor|HONOR Pad X8b|HNNDL2-Q|NDL2-W09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L03|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-L09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
@@ -50099,6 +50105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|ZUUM MAGNO PLUS|MAGNO_PLUS|MAGNO PLUS|
 |Zuum|ZUUM PAD Kids|ZUUM_PAD_Kids|ZUUM PAD Kids|
 |Zuum|ZUUM PAD Lightyear|ZUUM_PAD_Lightyear|ZUUM PAD Lightyear|
+|Zynex|G141K|G141K|G141K|
 |Zynex|G141L|G141L|G141L|
 |Zynex|KB1002|KB1002|KB1002|
 |Zynex|X107L|X107L|X107L|
