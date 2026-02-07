@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-06
+Last sync is 2026-02-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7902,8 +7902,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T74G|T74G|T74G|
 |Datamini|T8004G|T8004G|T8004G|
 |Datamini|T84G|T84G|T84G|
+|Datamini|T84G|T84G_OC|T84G_OC|
 |Datamini|T84G|T84G_T310|T84G|
-|Datamini|T84G_OC|T84G_OC|T84G_OC|
 |Datamini|T84G_T310A14|T84G_T310A14|T84G|
 |Datamini|T84G_T310A14|T84G_T310A14|T84G_T310A14|
 |Datamini|T84G_T310_332|T84G_T310_332|T84G_T310_332|
@@ -18495,6 +18495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jeazans|KT1016_EEA|KT1016|KT1016|
 |Jeazans|X100L|X100L|X100L|
 |Jeazans|X100L_EEA|X100L|X100L|
+|Jeazans|X100PRO|X100PRO|X100PRO|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
@@ -27614,6 +27615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|Tab 8|T0801LAV2|T0802L|
 |Nuu|Tab 8 Plus|T0805LAV1|T0805L|
 |Nuu|X10 5G|S6707XA|S6707X|
+|Nuu|X10 5G|S6707XA1|S6707X|
 |Nuu|X4|X4|X4|
 |Nuu|X5|NUU_X5|NUU_X5|
 |Nuu|X6|S5702LA|S5702L|
@@ -43809,7 +43811,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 30|GQ5013TF1|Armor 30|
 |Ulefone|Armor 30 Pro|GQ5013BF2|Armor 30 Pro|
 |Ulefone|Armor 31 Pro|GQ5016BF1|Armor 33 Pro|
-|Ulefone|Armor 32 Pro|GQ5017BF3|Armor 34 Pro|
 |Ulefone|Armor 33|GQ5016TF1|Armor 33|
 |Ulefone|Armor 34|GQ5017BF4|Armor 34|
 |Ulefone|Armor 34 Pro|GQ5017BF3|Armor 34 Pro|
