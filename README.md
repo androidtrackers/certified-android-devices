@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-07
+Last sync is 2026-02-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23711,6 +23711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MUNGYO|MUNGYO MGEB|MGEB|MGEB|
 |MYCOM|COMEK C10|COMEK_C10|COMEK C10|
 |MYCOM|COMEK smart 10|COMEK_smart_10|COMEK smart 10|
+|MYCOM|COMEKPad|COMEKPad|COMEK Tab|
 |MYCOM|COMEK_Pad_10|COMEK_Pad_10|COMEK Pad 10|
 |MYCOM|COMEK_Tab_10|COMEK_Tab_10|COMEK Tab 10|
 |MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
