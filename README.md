@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-08
+Last sync is 2026-02-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2046,6 +2046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Arcelik|R4|R4|R4|
 |Arcelik|Turkey|martin|Arcelik Android TV|
 |Archer|AT8600|oversea_v|SmarTouch|
+|Archer|GB8600G3|oversea_v|SmarTouch|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
 |Archos||A80S|ARCHOS 80G9|
@@ -7707,6 +7708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|K712|K712|K712|
 |DOMATON|MID_1099IPS|MID_1099IPS|MID_1099IPS|
 |DOMATON|Ocean_K10|Ocean_K10|Ocean K10|
+|DOMO|Slate_F11|Slate_F11|F11|
 |DOMO|VT502A|VT502A|VT502A|
 |DORA|Android TV|R1|ATV R1|
 |DORA|Android TV|R2|ATV R2|
@@ -24929,6 +24931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicel|RX|RX|RX|
 |Mobicel|Smart Tab 10 4G|Smart_Tab_10|Smart Tab 10 4G|
 |Mobicel|Spectra J2|Spectra_J2_VC|Spectra_J2|
+|Mobicel|SpectraTab2|SpectraTab2|SpectraTab2|
 |Mobicel|VX21|VX21|VX21|
 |Mobicel|Vodacom Smart Tab 8|Smart_Tab_8|Vodacom Smart Tab 8|
 |Mobicel|X6|X6|X6|
@@ -29510,6 +29513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A910S|AXXX|A910S|
 |PAX (CN)|A950|A950|A950|
 |PAX (CN)|A99|AXXX|A99|
+|PAX (CN)|E600M|E600M|E600M|
 |PAX (CN)|L1620|L1620|L1620|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
@@ -29611,6 +29615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
+|PEICHENG|CP31T_EEA|CP31T|CP31M|
 |PEICHENG|CP31U|CP31U|CP31U|
 |PEICHENG|CP81S_PRO|CP81S_PRO|CP81|
 |PEICHENG|CP81S_PRO|CP81S_PRO|CP81S_PRO|
@@ -29749,6 +29754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M7 Plus 5G|spring|25057PC09I|
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO M8 5G|kunzite|25118PC98G|
+|POCO|POCO M8 5G|kunzite|25118PC98I|
 |POCO|POCO M8 Pro 5G|flourite|2510EPC8BG|
 |POCO|POCO Pad|dizi|2405CPCFBG|
 |POCO|POCO Pad M1|flute|2509ARPBDG|
@@ -32481,6 +32487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
 |RebotAi|AD11|AD11|AD11|
+|RebotAi|AF12_EEA|AF12|AF12|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|B11_EEA|B11|B11|
@@ -42825,6 +42832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 40 Pro 5G|TECNO-CM7|TECNO CM7|
 |Tecno|TECNO CAMON 50|TECNO-CN5|TECNO CN5|
 |Tecno|TECNO CAMON 50 Pro|TECNO-CN5c|TECNO CN5c|
+|Tecno|TECNO CAMON 50 Ultra 5G|TECNO-CN7c|TECNO CN7c|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -50730,6 +50738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|I40-5_RU|I2347-2_RU|I2347-4_RU|
 |iQOO|iQOO 15|I2501|I2501|
 |iQOO|iQOO 15|PD2505|V2505A|
+|iQOO|iQOO 15 Ultra|PD2546|V2546A|
 |iQOO|iQOO Neo 10|I2405|I2405|
 |iQOO|iQOO Neo 10|I2405|I2408|
 |iQOO|iQOO Neo10 Pro+|PD2463|V2463A|
