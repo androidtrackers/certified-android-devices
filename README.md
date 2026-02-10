@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-09
+Last sync is 2026-02-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3419,6 +3419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I10_Plus_LTE_EEA|I10_Plus_LTE_EEA|I10_Plus|
 |BMAX|I10_Plus_WLAN|I10_Plus_WLAN|I10_Plus|
 |BMAX|I10_Plus_WLAN_EEA|I10_Plus_WLAN_EEA|I10_Plus|
+|BMAX|I10_Pro_4G|I10_Pro_4G|I10_Pro_4G|
 |BMAX|I10_Pro_EEA|I10_Pro_EEA|I10_Pro|
 |BMAX|I10_Pro_LTE|I10_Pro_LTE|I10_Pro_LTE|
 |BMAX|I10_Pro_LTE_EEA|I10_Pro_LTE_EEA|I10_Pro_LTE_EEA|
@@ -5826,6 +5827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|CASPER|elliniko|4K SMART TV|
 |Casper|CASPER|lavender|4K SMART TV|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
+|Casper|CTP300|PAD_M10|CTP300|
 |Casper|Casper 2K Smart TV|sunnyvale|Casper 2K Smart TV|
 |Casper|Casper 4K TV|SW6H|Casper 4K TV|
 |Casper|Casper Smart TV|SW6H|Casper Smart TV|
@@ -11698,6 +11700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Mediatek MT8186 Chromebook|corsola_cheets|corsola|
 |Google|Mediatek MT8186 Tablet|staryu_cheets|staryu|
 |Google|Mediatek MT8188G Detachable|geralt_cheets|geralt|
+|Google|Mediatek MT8189 Chromebook|skywalker_cheets|skywalker|
 |Google|Mediatek MT8192 Chromebook|asurada_cheets|asurada|
 |Google|Mediatek MT8195 Chromebook|cherry_cheets|cherry|
 |Google|Mediatek MT8196 Chromebook|rauru_cheets|rauru|
@@ -23742,6 +23745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
 |Magnavox|MMP848|MMP848|MMP848|
+|Magnavox|Smart TV|dangni|AI PONT|
 |MagneticNorth|Multiple_Applications_Display_Terminal|Multiple_Applications_Display_Terminal|P7|
 |Majestic|JACK|JACK|JACK|
 |Majestic|JOE|JOE|JOE|
@@ -26837,6 +26841,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEWSUN|S9|S9|S9|
 |NEWTON|H1|H1|H1|
 |NEXA|NexaN5a|NexaN5a|NexaN5a|
+|NEXGO|P300|P300|P300|
+|NEXGO|P300|P300_Pro|P300__Pro|
+|NEXGO|P300|P300_mini|P300__mini|
+|NEXGO|P300_mini|P300_mini|P300__mini|
 |NEXWIN|interactive flat panel display|IFPD_RK3588|NXW_GB86_13UP|
 |NGM Italia SRL|Android TV|R1|ATV R1|
 |NGM Italia SRL|Android TV|R2|ATV R2|
@@ -26875,6 +26883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NGM Italia SRL|Smart5Plus|Smart5Plus|Smart5Plus|
 |NIKAI_PRO|NIKAI_PRO|elliniko|4K SMART TV|
 |NIKAI_PRO|NIKAI_PRO|hongkong|4K SMART TV|
+|NIKAI_PRO|Smart TV|dangni|NIKAI PRO Google TV|
 |NIO|N2301|davinci|N2301|
 |NIO|N2401|picasso|N2401|
 |NIS(NWTF)|Hi10_XPro_ROW|Hi10_XPro_ROW|Hi10_XPro|
@@ -29615,12 +29624,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
+|PEICHENG|CP31T|CP31T|CP31M|
 |PEICHENG|CP31T_EEA|CP31T|CP31M|
 |PEICHENG|CP31U|CP31U|CP31U|
 |PEICHENG|CP81S_PRO|CP81S_PRO|CP81|
 |PEICHENG|CP81S_PRO|CP81S_PRO|CP81S_PRO|
 |PEICHENG|P13Max|P13Max|P13Max|
 |PEICHENG|P13PRO|P13PRO|P13PRO|
+|PEICHENG|P13TMax|P13TMax|P13Max|
+|PEICHENG|P13TMax_EEA|P13TMax|P13Max|
 |PEICHENG|P13Ultra|P13Ultra|P13Ultra|
 |PEICHENG|Q1|Q1|Q1|
 |PEICHENG|Q1|Q1|Q1K|
@@ -31699,6 +31711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9774G|PLT9774G|PLT9774G|
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
 |Proscan|PROSCAN 2K SMART TV|nagata|PROSCAN 2K SMART TV|
+|Proscan|Smart TV|dangni|AI PONT|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
 |Proximus|Proximus TV|uiw4020pxm|decoder|
 |Proximus|Proximus TV|uiw4068pxm|tvbox|
@@ -32487,6 +32500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
 |RebotAi|AD11|AD11|AD11|
+|RebotAi|AF12|AF12|AF12|
 |RebotAi|AF12_EEA|AF12|AF12|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
@@ -32961,6 +32975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_EEA|TAB10_EEA|TAB10|
 |Relndoo|TAB10_EU|TAB10_EU|TAB10|
 |Relndoo|TAB10_EUR|TAB10_EUR|TAB10|
+|Relndoo|TAB10_O|TAB10_O|TAB10|
 |Relndoo|TAB10_ROW|TAB10_ROW|TAB10|
 |Relndoo|TAB10_U|TAB10_U|TAB10|
 |Relndoo|TAB10_US|TAB10_US|TAB10|
@@ -33854,6 +33869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SVITOO|TAB_P10|TAB_P10|TAB_P10|
 |SVITOO|TAB_P10_CZ_ROW|TAB_P10_CZ_ROW|TAB_P10|
+|SVITOO|TAB_P10_C_EEA|TAB_P10_C_EEA|TAB_P10_C_EEA|
 |SVITOO|TAB_P10_C_ROW|TAB_P10_C_ROW|TAB_P10_C_ROW|
 |SVITOO|TAB_P10_EEA|TAB_P10_EEA|TAB_P10|
 |SVITOO|TAB_P10_EEA|TAB_P10_EEA|TAB_P10_EEA|
@@ -49845,6 +49861,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC26|TC26|TC26|
 |Zebra|TC27|TC27|TC27|
+|Zebra|TC501|TCX01L|TC501|
+|Zebra|TC501|TCX01LD|TC501|
+|Zebra|TC501|TCX01LU|TC501|
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
 |Zebra|TC52ax|TC52X|TC52AX|
@@ -49855,6 +49874,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC58|TC58|TC58|
 |Zebra|TC58E|TC58E|TC58E|
+|Zebra|TC701|TCX01L|TC701|
+|Zebra|TC701|TCX01LD|TC701|
+|Zebra|TC701|TCX01LU|TC701|
 |Zebra|TC70x|TC70x|TC70x|
 |Zebra|TC73|TC73|TC73|
 |Zebra|TC73|TC73T|TC73|
