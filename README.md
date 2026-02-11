@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-10
+Last sync is 2026-02-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26844,7 +26844,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEXGO|P300|P300|P300|
 |NEXGO|P300|P300_Pro|P300__Pro|
 |NEXGO|P300|P300_mini|P300__mini|
-|NEXGO|P300_mini|P300_mini|P300__mini|
 |NEXWIN|interactive flat panel display|IFPD_RK3588|NXW_GB86_13UP|
 |NGM Italia SRL|Android TV|R1|ATV R1|
 |NGM Italia SRL|Android TV|R2|ATV R2|
@@ -27176,7 +27175,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
-|Newland|S30|S30|S30|
 |Newland|S90Pro|S90|S90|
 |Newland|X70|X70|X70|
 |Newline|23Q|23Q|23Q|
@@ -42961,6 +42959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
+|Tecno|TECNO SPARK 50/50C|TECNO-KN3|TECNO KN3|
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
 |Tecno|TECNO SPARK 7|TECNO-KF6i|TECNO KF6i|
@@ -51506,6 +51505,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V60 Lite|V2441|V2530|
 |vivo|V60 Lite 5G|V2529|V2529|
 |vivo|V60e|V2513|V2513|
+|vivo|V70|V2538|V2538|
+|vivo|V70|V2538|V2539|
+|vivo|V70|V2538|V2540|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
