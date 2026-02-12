@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-11
+Last sync is 2026-02-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3439,6 +3439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I11_Pro|I11_Pro|I11_Pro|
 |BMAX|I11_S|I11_S|I11_S|
 |BMAX|I11_S_EEA|I11_S_EEA|I11_S|
+|BMAX|I12_A_Power|I12_A_Power|I12_A_Power|
 |BMAX|I8|I8|I8|
 |BMAX|I8_Plus|I8_Plus|I8_Plus|
 |BMAX|I8_Plus|I8_Plus_EEA|I8_Plus|
@@ -14572,6 +14573,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X6c|HNNIC-M1|NIC-LX1|
 |Honor|HONOR X6c|HNNIC-M1|NIC-LX2|
 |Honor|HONOR X6c|HNNIC-M1|NIC-LX3|
+|Honor|HONOR X6d 5G|HNNLA-M2|NLA-NX1|
+|Honor|HONOR X6d 5G|HNNLA-M2|NLA-NX3|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -24096,6 +24099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MeanIT|K17|K17|K17|
 |MeanIT|MTAB32_EEA|MTAB32_EEA|meanIT K10|
 |MeanIT|MeanIt_X30|MeanIt_X30_EEA|MeanIt_X30|
+|MeanIT|PK81|PK81|MeanIT PK81|
 |MeanIT|PK81|PK81|PK81|
 |MeanIT|PP101|PP101|PP101|
 |MeanIT|START_S5|START_S5|START_S5|
@@ -27718,6 +27722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKSI|GT1001|GT1001|GT1001|
 |OKView|IFP|mensa_an64|IFP|
 |OKView|IFP|rk3588_t|IFP|
+|OKView|IFP86A1|rk3588_t|IFP|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Magic_Q1|Magic_Q1|Magic Q1|
 |OLAX|Magic_Q8|Magic_Q8|Magic Q8|
@@ -33087,6 +33092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rizzen|NovaTab_R10|NovaTab_R10|NovaTab_R10|
 |Rizzen|NovaTab_R10s|NovaTab_R10s|R10s|
 |Rizzen|Novatab|S1s|S1s|
+|Rizzen|Rizzen_Ultra_26S50|Rizzen_Ultra_26S50|Ultra_26S50|
 |Rizzen|S1|S1|S1|
 |Rizzen|X1|X1|X1|
 |Rizzen|X1x|X1x|X1x|
@@ -34365,6 +34371,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A36 5G|a36xq|SM-A366U1|
 |Samsung|Galaxy A36 5G|a36xq|SM-A366W|
 |Samsung|Galaxy A36 5G|a36xq|SM-S366V|
+|Samsung|Galaxy A37 5G|a37x|SM-A3760|
+|Samsung|Galaxy A37 5G|a37x|SM-A376B|
+|Samsung|Galaxy A37 5G|a37x|SM-A376E|
+|Samsung|Galaxy A37 5G|a37x|SM-A376U|
+|Samsung|Galaxy A37 5G|a37x|SM-A376U1|
+|Samsung|Galaxy A37 5G|a37x|SM-A376W|
+|Samsung|Galaxy A37 5G|a37x|SM-S376V|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -34486,6 +34499,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A56 5G|a56x|SM-A566E|
 |Samsung|Galaxy A56 5G|a56x|SM-A566U1|
 |Samsung|Galaxy A56 5G|a56x|SM-A566W|
+|Samsung|Galaxy A57 5G|a57x|SM-A5760|
+|Samsung|Galaxy A57 5G|a57x|SM-A576B|
+|Samsung|Galaxy A57 5G|a57x|SM-A576Q|
+|Samsung|Galaxy A57 5G|a57x|SM-A576U1|
+|Samsung|Galaxy A57 5G|a57x|SM-A576W|
+|Samsung|Galaxy A57 5G|a57x|SM-A576Z|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -51503,11 +51522,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
 |vivo|V60 Lite|V2441|V2530|
+|vivo|V60 Lite|V2441U|V2549|
 |vivo|V60 Lite 5G|V2529|V2529|
 |vivo|V60e|V2513|V2513|
 |vivo|V70|V2538|V2538|
 |vivo|V70|V2538|V2539|
 |vivo|V70|V2538|V2540|
+|vivo|V70 Elite|V2548|V2548|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
