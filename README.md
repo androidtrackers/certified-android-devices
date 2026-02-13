@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-12
+Last sync is 2026-02-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5492,6 +5492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
 |CHiQ|Smart TV|alimos|AI PONT|
+|CHiQ|Smart TV|alimos|AI PONT FF|
 |CHiQ|Smart TV|bridgeport|AI PONT|
 |CHiQ|Smart TV|dangni|AI PONT|
 |CHiQ|Smart TV|dundas|AI PONT|
@@ -6370,6 +6371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Classpro|G7N|redwood|AI PONT|
 |Classpro|Smart TV|longshan|AI PONT|
 |Classpro|Smart TV|osaka|AI PONT|
+|ClearTouch|CTI_60XXNova_UH50|oversea_v|60XX_Nova|
 |ClearTouch|NEXT_TDED|rk3588_t|CTI_NEXT_TDED_S10|
 |ClearTouch|six_zero_XXAplus|rk3588_t|six_zero_XXAplus|
 |Clearsounds|CSTAAP8D|CSTAAP8D|CSTAAP8D|
@@ -29526,9 +29528,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A950|A950|A950|
 |PAX (CN)|A99|AXXX|A99|
 |PAX (CN)|E600M|E600M|E600M|
+|PAX (CN)|E700M|E700M|E700M|
+|PAX (CN)|L1450P|L1450P|L1450P|
 |PAX (CN)|L1620|L1620|L1620|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
+|PAX (CN)|M8|M8|M8|
 |PAX (CN)|PAYTABLETM8|PAYTABLETM8|M8|
 |PAX (CN)|Pay Phone M50|PAYPHONEM50|M50|
 |PAX (CN)|Pay Phone M50 EEA|PAYPHONEM50|M50|
@@ -42865,6 +42870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 40 Pro 5G|TECNO-CM7|TECNO CM7|
 |Tecno|TECNO CAMON 50|TECNO-CN5|TECNO CN5|
 |Tecno|TECNO CAMON 50 Pro|TECNO-CN5c|TECNO CN5c|
+|Tecno|TECNO CAMON 50 Pro 5G|TECNO-CN7c|TECNO CN7c|
 |Tecno|TECNO CAMON 50 Ultra 5G|TECNO-CN7c|TECNO CN7c|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -47947,6 +47953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z168_US|Z168_US|Z168_US|
 |ZIOVO|Z168_U_EEA|Z168_U_EEA|Z168_U_EEA|
 |ZIOVO|Z168_U_US|Z168_U_US|Z168_U_US|
+|ZKTeco|Interactive_Whiteboard|oversea_v|SC02-I5|
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
 |ZMBIZI|ZMBIZI Z2|ZMBIZI_Z2|ZMBIZI Z2|
