@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-17
+Last sync is 2026-02-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17357,6 +17357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 50 Pro+ 5G|Infinix-X6856|Infinix X6856|
 |Infinix|NOTE 50X 5G|Infinix-X6857|Infinix X6857|
 |Infinix|NOTE 50X 5G|Infinix-X6857B|Infinix X6857B|
+|Infinix|NOTE 60 Pro|Infinix-X6878|Infinix X6878|
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
