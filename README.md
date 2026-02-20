@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-02-19
+Last sync is 2026-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11715,6 +11715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 10 Pro|blazer|Pixel 10 Pro|
 |Google|Pixel 10 Pro Fold|rango|Pixel 10 Pro Fold|
 |Google|Pixel 10 Pro XL|mustang|Pixel 10 Pro XL|
+|Google|Pixel 10a|stallion|Pixel 10a|
 |Google|Pixel 2|walleye|Pixel 2|
 |Google|Pixel 2 XL|taimen|Pixel 2 XL|
 |Google|Pixel 3|blueline|Pixel 3|
@@ -21742,6 +21743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX521|LXX521|LAVA LXX521|
 |Lava|LAVA LXX522|LXX522|LXX522|
 |Lava|LAVA LXX523|LXX523|LXX523|
+|Lava|LAVA LXX524|LXX524|LAVA LXX524|
 |Lava|LAVA LXX525|LXX525|LXX525|
 |Lava|LAVA LZG410|LZG410|LZG410|
 |Lava|LAVA LZG411|LZG411|LAVA LZG411|
@@ -22802,6 +22804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z90a40/VIBE Shot|zoom_row|Lenovo Z90a40|
 |Lenovo|d-42A|d-42A|d-42A|
 |Lenovo|d-52C|d-52C|d-52C|
+|Lenovo|dtab d-51F|d-51F|d-51F|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
 |Lenovo|moto tab g62|XT2261-1|XT2261-1|
