@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-01
+Last sync is 2026-03-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -40471,6 +40471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K33 5G|Beryl_Dish|T513Z|
 |TCL|TCL K33 5G|Beryl_TF|T513V|
 |TCL|TCL K33 5G|Beryl_VZW|T513SP|
+|TCL|TCL K70 4G|Bamboo|T522A|
 |TCL|TCL K70 Power 4G|Bamboo_Power|T522E|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
