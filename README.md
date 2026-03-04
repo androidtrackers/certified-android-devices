@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-03
+Last sync is 2026-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1242,8 +1242,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advantech|AIM75-LTE|AIM75-LTE|AIM75-LTE|
 |Advantech|AIM75-WIFI|AIM75-WIFI|AIM75-WIFI|
 |Advantech|DLT-V7310AP|dlt_v7310|DLT-V7310AP|
+|Advantech|DLT-V7310AP FL|dltv7310_fl|DLT-V7310AP FL|
 |Advantech|DLT-V7312AP|dlt_v7312|DLT-V7312AP|
+|Advantech|DLT-V7312AP FL|dltv7312_fl|DLT-V7312AP FL|
 |Advantech|DLT-V7312AP+|dlt_v7312plus|DLT-V7312AP+|
+|Advantech|DLT-V7312AP+ FL|dltv7312plus_fl|DLT-V7312AP+ FL|
 |Advantech|UBX-010RC|ubx010rc|UBX-010RC|
 |Advent|SB11MD1|SB11MD1|SB11MD1|
 |Aelion|i8|Aelion_i8|i8|
@@ -1721,6 +1724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay 70E|iPlay70E|T1161|
 |Alldocube|iPlay 8 Pro|T806MH|T806MH|
 |Alldocube|iPlay 8 Pro|T806MHE|T806MHE|
+|Alldocube|iPlay 80 miniUltra|T880|iPlay80miniUltra|
 |Alldocube|iPlay 8T|T802|iPlay_8T|
 |Alldocube|iPlay50|T1030X|iPlay50|
 |Alldocube|iPlay50 Pro|T1030M|iPlay50 Pro|
@@ -18345,6 +18349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
+|JOVI|JOVI Y21|J2503|J2503|
 |JOVI|JOVI Y29|V2434B|V2445|
 |JOVI|JOVI Y29s 5G|V2446B|V2459|
 |JOVI|JOVI Y31|J2506|J2506|
@@ -36156,6 +36161,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S26|m1q|SM-S942U1|
 |Samsung|Galaxy S26|m1q|SM-S942W|
 |Samsung|Galaxy S26|m1q|SM-S942Z|
+|Samsung|Galaxy S26|m1s|SM-S942B|
+|Samsung|Galaxy S26|m1s|SM-S942N|
 |Samsung|Galaxy S26 Ultra|m3q|SC-53G|
 |Samsung|Galaxy S26 Ultra|m3q|SCG37|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S9480|
@@ -36163,6 +36170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S26 Ultra|m3q|SM-S948C|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S948N|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S948Q|
+|Samsung|Galaxy S26 Ultra|m3q|SM-S948U|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S948U1|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S948W|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S948Z|
@@ -36175,6 +36183,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S26+|m2q|SM-S947U1|
 |Samsung|Galaxy S26+|m2q|SM-S947W|
 |Samsung|Galaxy S26+|m2q|SM-S947Z|
+|Samsung|Galaxy S26+|m2s|SM-S947B|
+|Samsung|Galaxy S26+|m2s|SM-S947N|
 |Samsung|Galaxy S3|SC-03E|SC-03E|
 |Samsung|Galaxy S3|c1att|SGH-I748|
 |Samsung|Galaxy S3|c1ktt|SHV-E210K|
@@ -50297,6 +50307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO C1|MAGNO_C1|MAGNO C1|
 |Zuum|MAGNO C2|MAGNO_C2|MAGNO C2|
 |Zuum|MAGNO MINI|MAGNO_MINI|MAGNO MINI|
+|Zuum|MAGNO R|MAGNO_R|MAGNO R|
 |Zuum|MAGNO S|MAGNO_S|MAGNO S|
 |Zuum|MAGNO_C3|MAGNO_C3|MAGNO C3|
 |Zuum|MAGNO_P1|MAGNO_P1|MAGNO P1|
@@ -51293,8 +51304,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5111|RE6444L1|RMX5111|
 |realme|RMX5200|RE6030L1|RMX5200|
 |realme|RMX5210|RE60C8L1|RMX5210|
-|realme|RMX5250|RE644C|RMX5250|
-|realme|RMX5253|RE644C|RMX5253|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
 |realme|Smart TV|mateo|2K PA Smart TV|
@@ -51349,6 +51358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 15 5G|RE60CDL1|RMX5106|
 |realme|realme 15 Pro 5G|RE60B4L1|RMX5101|
 |realme|realme 15T|RE6444L1|RMX5111|
+|realme|realme 15x 5G|RE644C|RMX5250|
 |realme|realme 16 5G|RE6474L1|RMX5171|
 |realme|realme 16 Pro 5G|RE645DL1|RMX5120|
 |realme|realme 16 Pro+ 5G|RE6458L1|RMX5131|
