@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-04
+Last sync is 2026-03-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3457,6 +3457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I11_S|I11_S|I11_S|
 |BMAX|I11_S_EEA|I11_S_EEA|I11_S|
 |BMAX|I12_A_Power|I12_A_Power|I12_A_Power|
+|BMAX|I14|I14|I14|
 |BMAX|I8|I8|I8|
 |BMAX|I8_Plus|I8_Plus|I8_Plus|
 |BMAX|I8_Plus|I8_Plus_EEA|I8_Plus|
@@ -7735,6 +7736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|K712|K712|K712|
 |DOMATON|MID_1099IPS|MID_1099IPS|MID_1099IPS|
 |DOMATON|Ocean_K10|Ocean_K10|Ocean K10|
+|DOMO|M90|M90|M90|
 |DOMO|Slate_F11|Slate_F11|F11|
 |DOMO|VT502A|VT502A|VT502A|
 |DORA|Android TV|R1|ATV R1|
@@ -21713,6 +21715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laptok|G11L|G11L|G11L|
 |Laptok|G11L_EEA|G11L|G11L|
 |Laptok|G11_EEA|G11|G11|
+|Laptok|G12L|G12L|G12L|
 |Laptok|X11|X11|X11|
 |Lark|Cumulus 5 HD|Cumulus_5_HD|Cumulus_5_HD|
 |Lark|Cumulus 5.5 HD|Cumulus_55_HD|Cumulus_5.5_HD|
@@ -22984,6 +22987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LiGHTLIFE|T10|T10|T10|
 |LiGHTLIFE|T8|T8|T8|
 |LiGHTLIFE|TL10P|TL10P|LiGHTLIFE TL10P|
+|LiGHTLIFE|TL11|TL11|LiGHTLIFE TL11|
 |Libre|W101|W101|W101|
 |Libre|W808|W808|W808|
 |Life Stick|LifeStick|ts201|LifeStick|
@@ -26162,6 +26166,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 60s pro|cybert|motorola edge 60s pro|
 |Motorola|motorola edge 70|roadstr|motorola edge 50 ultra|
 |Motorola|motorola edge 70|roadstr|motorola edge 70|
+|Motorola|motorola edge 70 fusion|marvel|motorola edge 50 ultra|
+|Motorola|motorola edge 70 fusion|marvel|motorola edge 70 fusion|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -50073,6 +50079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC22R|TC22|TC22|
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC26|TC26|TC26|
+|Zebra|TC27|TC27|HC25|
 |Zebra|TC27|TC27|TC27|
 |Zebra|TC501|TCX01L|TC501|
 |Zebra|TC501|TCX01LD|TC501|
@@ -51744,11 +51751,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y04e|V2430|V2532|
 |vivo|Y05|V2556|V2556|
 |vivo|Y05|V2556|V2565|
+|vivo|Y11 5G|V2553|V2575|
 |vivo|Y11d|V2556|V2555|
 |vivo|Y11d|V2556|V2578|
 |vivo|Y11d|V2556|V2580|
 |vivo|Y11e|V2556|V2577|
 |vivo|Y19s 5G|V2446|V2541|
+|vivo|Y21 5G|V2553|V2553|
 |vivo|Y21d|V2520|V2520|
 |vivo|Y21d|V2520|V2524|
 |vivo|Y21d|V2520|V2525|
