@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-05
+Last sync is 2026-03-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3679,6 +3679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_B60Pro|Bmobile_B60Pro|Bmobile_B60Pro|
 |BMobile|Bmobile_BM65Plus|Bmobile_BM65Plus|BM65Plus|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
+|BMobile|COMET_TG06|Bmobile_COMET_TG06|COMET_TG06|
 |BMobile|Cosmo B6|Bmobile_COSMO_B6|COSMO_B6|
 |BMobile|Cosmo B6|Bmobile_COSMO_B6_TG|COSMO_B6_TG|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
@@ -6758,7 +6759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
 |Conquest|conquest_S20_EEA|conquest_S20|conquest_S20|
-|ConsumerCellular|IRIS Connect II|SN512CC|SN512CC|
+|ConsumerCellular|IRIS Connect 2|SN512CC|SN512CC|
 |Contex|Egypt|tamachi|AiPlus2K|
 |Contex|Egypt|yeongdeungpo|AiPlus4K|
 |Conti|CONTI|elliniko|4K SMART TV|
@@ -27636,6 +27637,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nothing|Nothing Phone (3)|Metroid|A024|
 |Nothing|Nothing Phone (3a)|Asteroids|A059|
 |Nothing|Nothing Phone (3a) Pro|Asteroids|A059P|
+|Nothing|Nothing Phone (4a)|Frogger|A069|
+|Nothing|Nothing Phone (4a) Pro|FroggerPro|A069P|
 |Nothing|Phone (3a) Lite|Galaxian|A001T|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
@@ -40260,6 +40263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|K10_EEA|K10_EEA|K10|
 |TABWEE|K10_NEU|K10_NEU|K10|
 |TABWEE|K10_RU|K10|K10|
+|TABWEE|T12_Pro_EEA|T12_Pro|T12 Pro|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
 |TABWEE|T50_EEA|T50|T50|
@@ -51743,6 +51747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
+|vivo|X200T|V2561|V2561|
 |vivo|X300|PD2509|V2509A|
 |vivo|X300|V2515|V2515|
 |vivo|X300 Pro|PD2502|V2502A|
@@ -51773,6 +51778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d|V2543|V2582|
 |vivo|Y31d|V2543|V2611|
 |vivo|Y31e 5G|V2521|V2533|
+|vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
 |vivo|Y400 5G|V2506|V2506|
