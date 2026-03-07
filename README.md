@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-06
+Last sync is 2026-03-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1173,6 +1173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|HL9000|HL9000|HL9000|
 |Advance|NP6050|NP6050|NP6050|
 |Advance|NP6070|NP6070|NP6070|
+|Advance|NP6070|NP6070_ADV|NP6070_ADV|
 |Advance|PR5860|PR5860|PR5860|
 |Advance|PR6149|PR6149|PR6149|
 |Advance|PR6152|PR6152|PR6152|
@@ -29157,6 +29158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Orange Neva sparkle|Neva_sparkle|Orange Neva sparkle|
 |Orange|Orange Neva zen|Neva_zen|Orange Neva zen|
 |Orange|Orange Nola XL|Nola-ultra|Orange Nola XL|
+|Orange|Orange Nola XL 2|Nola_XL_2|Orange Nola XL 2|
 |Orange|Orange Nola fun 3|Nola_fun_3|Orange Nola fun 3|
 |Orange|Orange Nola play|Nola_play|Orange Nola play|
 |Orange|Orange Nola play plus|Nola_play_plus|Orange Nola play plus|
