@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-08
+Last sync is 2026-03-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12002,6 +12002,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAOVM|W10|W10|W10|
 |HAOWEI|HBDC-1122|HBDC-1122|HBDC-1122|
 |HAOWEI|HBDC-822|HBDC-822|HBDC-822|
+|HAPPRUN|D9|himalaya|D9|
+|HAPPRUN|J7Pro|himalaya|J7Pro|
+|HAPPRUN|K7|himalaya|K7|
+|HAPPRUN|Q7|himalaya|Q7|
 |HAPPYNET|HPN-QA15|HPN-QA15|HPN-QA15|
 |HAVIT|PJ209APlus|himalaya|PJ209APlus|
 |HAZARD_TALK|M2|M2|M2|
@@ -31001,6 +31005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polytron|PRIME A8|POLYTRON_A552|A552|
 |Polytron|PRIME T8|POLYTRON_R255B|R255B|
 |Polytron|Polytron 2K AI Smart TV|osaki|2K AI Smart TV|
+|Polytron|R10G|R10G|POLYTRON4K|
 |Polytron|Smart TV|mateo|2K PA Smart TV|
 |Polytron|T7001|T7001|T7001|
 |Polytron|T8001|T8001|T8001|
@@ -33183,6 +33188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|RHINO PACE|pace|PACE A1|
 |Rhino|RHINO PACE A1|portal|PACE A1|
 |Rhino|RHINO T100|scoutxl|T100|
+|Rhino|RHINO T100|scoutxlx|T100|
 |Rhino|RHINO T105|stratos|T105|
 |Rhino|RHINO T5se|atom|T5se|
 |Rhino|RHINO T8|Rhino_T8|T8|
@@ -33194,7 +33200,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|T80|scoutx|T80|
 |Rhino|Vision_12|Vision_12|Vision 12|
 |Rhino|Vision_7|Vision_7|Vision 7|
-|Rhino|scoutpxl|scoutxlx|T100|
 |Ricoh|AXX10|AXX10|AXX10|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rimo_Mobile|Rimo|Rimo|Rimo|
@@ -40654,6 +40659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136R|
 |TCL|TCL TAB 8 V|Luna|9132X|
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
+|TCL|TCL TAB A1 Plus|Hermes_12_2|9445X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
 |TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
 |TCL|TCL TAB HD WIFI|Logan|9460G|
@@ -44851,6 +44857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
 |VOLIA|VOL001|VOL001|VOL001|
 |VOPLLS|G3|himalaya|G3|
+|VOPLLS|G7|himalaya|G7|
 |VORCOM|AVALON|AVALON|AVALON|
 |VORCOM|QuartzLITE|QuartzLITE|QuartzLITE|
 |VORCOM|QuartzPRO|QuartzPRO|QuartzPRO|
@@ -50804,6 +50811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_L32|SMART_L32|SMART L32|
 |iGet|SMART_L42|SMART_L42|SMART L42|
 |iGet|SMART_L43|SMART_L43|SMART L43|
+|iGet|SMART_RT2|SMART_RT2|SMART RT2|
 |iGet|SMART_W101|SMART_W101|SMART_W101|
 |iGet|SMART_W10X_EEA|SMART_W10X_EEA|SMART_W10X_EEA|
 |iGet|SMART_W202|SMART_W202|SMART_W202|
