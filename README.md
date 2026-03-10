@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-09
+Last sync is 2026-03-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -613,6 +613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AZPEN|A780B|A780B|A780B|
 |AZPEN|A780G|A780G|A780G|
 |AZPEN|A780G1|A780G1|A780G|
+|AZPEN|A780G1|A780G1|A780G1|
 |AZPEN|A920|wing-ibt|A920|
 |AZPEN|C-603|C-603|C-603|
 |AZPEN|G680|Blaze_8|G680|
@@ -17354,6 +17355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
 |Infinix|Infinix NOTE 50S 5G|Infinix-X6870|Infinix X6870|
 |Infinix|Infinix NOTE 60|Infinix-X6879|Infinix X6879|
+|Infinix|Infinix NOTE 60 Ultra|Infinix-X6877|Infinix X6877|
 |Infinix|Infinix NOTE 7 Lite|Infinix-X656|Infinix X656|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
@@ -27280,6 +27282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newland|Newland NLS-NQuire|NLS-NQuire|NLS-NQuire|
+|Newland|S30|S30|S30|
 |Newland|S90Pro|S90|S90|
 |Newland|X70|X70|X70|
 |Newline|23Q|23Q|23Q|
@@ -28502,9 +28505,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A6c|OP61C7L1|PMC110|
 |Oppo|A6c|OP632F|CPH2895|
 |Oppo|A6s|OP62A3L1|CPH2815|
+|Oppo|A6s 5G|OP5F2BL1|CPH2789|
+|Oppo|A6s 5G|OP5F2BL1|CPH2889|
 |Oppo|A6t|OP62A3L1|CPH2847|
 |Oppo|A6t 5G|OP5F2BL1|CPH2853|
 |Oppo|A6t Pro|OP62A3L1|CPH2849|
+|Oppo|A6t Pro 5G|OP5F2BL1|CPH2851|
 |Oppo|A6x|OP62A3L1|CPH2819|
 |Oppo|A6x 5G|OP5F2BL1|CPH2783|
 |Oppo|A6x 5G|OP5F2BL1|CPH2823|
@@ -28732,6 +28738,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K13 Turbo Pro 5G|OP5E03L1|PLE110|
 |Oppo|K13 Turbo Pro 5G|OP5EE7L1|CPH2731|
 |Oppo|K13x 5G|OP5EF7L1|CPH2753|
+|Oppo|K14 5G|OP5F2BL1|CPH2869|
+|Oppo|K14x 5G|OP5F2BL1|CPH2871|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -28846,6 +28854,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PGW110|OP55FF|PGW110|
 |Oppo|PHM110|OP5627|PHM110|
 |Oppo|PLL110|OP5DE2L1|PLL110|
+|Oppo|PLT120|OP5E1EL1|PLT120|
+|Oppo|PLT130|OP5E1EL1|PLT130|
 |Oppo|Pad 4 Pro|OP615CL1|OPD2409|
 |Oppo|Pad Air5|OP6541L1|OPD2501|
 |Oppo|Pad Air5|OP6541L1|OPD2510|
@@ -43171,6 +43181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
+|Tecno|TECNO SPARK 50 5G|TECNO-KN8|TECNO KN8|
 |Tecno|TECNO SPARK 50/50C|TECNO-KN3|TECNO KN3|
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
