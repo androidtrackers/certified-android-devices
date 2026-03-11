@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-10
+Last sync is 2026-03-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29863,6 +29863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
 |POCO|POCO C85 5G|tornado|2508CPC2BI|
+|POCO|POCO C85x 5G|somalia|26020PC1AI|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -43387,6 +43388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
 |Telia|DV8919X-LT|DV8919-KLT|DV8919X-LT|
 |Telia|Telia Nordic STB|DV8919-KST|Telia Nordic STB|
+|Telikom|TA810|TA810|TA810|
 |Telkom|TVB-100|DV8219|TVB-100|
 |Telkom|Telkom|DV8219|TVB-100|
 |Telkom Indonesia|Telkom  Indonesia|DV8219|AX117 ATV|
@@ -51022,6 +51024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQOO|iQOO Z10R 5G|I2505|I2505|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
+|iQOO|iQOO Z11x 5G|I2507|I2507|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
@@ -51821,6 +51824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y50m 5G|PD2443|V2443BA|
 |vivo|Y50s 5G|PD2443|V2443A|
 |vivo|Y50s AI版|PD2443|V2443A|
+|vivo|Y51 Pro 5G|V2545L|V2544|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
