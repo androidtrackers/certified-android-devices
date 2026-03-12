@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-11
+Last sync is 2026-03-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21724,6 +21724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laptok|G11L_EEA|G11L|G11L|
 |Laptok|G11_EEA|G11|G11|
 |Laptok|G12L|G12L|G12L|
+|Laptok|G12L_EEA|G12L|G12L|
 |Laptok|X11|X11|X11|
 |Lark|Cumulus 5 HD|Cumulus_5_HD|Cumulus_5_HD|
 |Lark|Cumulus 5.5 HD|Cumulus_55_HD|Cumulus_5.5_HD|
@@ -33091,6 +33092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC501L|RC501L|RC501L|
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|RC608L|RC608L|RC608L|
+|Reliance|Reliance Retail Limited|landen|BPL Smart|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Relink|RLP8T|RLP8T|RLP8T|
 |Relndoo|P30_EUR|P30_EUR|P30|
@@ -51341,6 +51343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5210|RE60C8L1|RMX5210|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
+|realme|RMX5555|RE6441L1|RMX5555|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
