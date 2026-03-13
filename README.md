@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-12
+Last sync is 2026-03-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10902,6 +10902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|PAD10_PRO|PAD10_PRO|PAD10_PRO|
 |G-Tab|PAD10_PRO_NEO|PAD10_PRO_NEO|PAD10_PRO|
 |G-Tab|PAD11|PAD11|PAD11|
+|G-Tab|PAD11_1|PAD11|PAD11_1|
 |G-Tab|PAD7|PAD7|PAD7|
 |G-Tab|PL1000B|S30|S30|
 |G-Tab|Q2|Q2|Q2|
@@ -13569,6 +13570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense||t958|HS-T958|
 |Hisense||t960|HS-T960|
 |Hisense|2K TV|songshan|2K Smart TV|
+|Hisense|32S6S|Granite|FollowMe|
 |Hisense|4K TV|songshan|Smart TV|
 |Hisense|4K TV|songshan|SmartTV 4K|
 |Hisense|4K TV|songshan|SmartTV 4K FFM|
@@ -43184,8 +43186,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
+|Tecno|TECNO SPARK 50|TECNO-KN4|TECNO KN4|
+|Tecno|TECNO SPARK 50|TECNO-KN4n|TECNO KN4n|
 |Tecno|TECNO SPARK 50 5G|TECNO-KN8|TECNO KN8|
 |Tecno|TECNO SPARK 50/50C|TECNO-KN3|TECNO KN3|
+|Tecno|TECNO SPARK 50/50S|TECNO-KN4|TECNO KN4|
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
 |Tecno|TECNO SPARK 7|TECNO-KF6i|TECNO KF6i|
@@ -45433,6 +45438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|IN01_2_1N|IN01_2_1N|IN01_2_1N|
 |ViewSonic|IN02 series|IN02_series|IN02_series|
 |ViewSonic|IN03_Series|IN03|IN03|
+|ViewSonic|IN05_Series|INxx05|INxx05|
 |ViewSonic|IN21C_Series|IN21C|IN21C|
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
@@ -47795,6 +47801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 15T Pro|klimt|2506BPN68R|
 |Xiaomi|Xiaomi 17|pudding|25113PN0EC|
 |Xiaomi|Xiaomi 17|pudding|25113PN0EG|
+|Xiaomi|Xiaomi 17|pudding|25113PN0EI|
 |Xiaomi|Xiaomi 17 Pro|pandora|25098PN5AC|
 |Xiaomi|Xiaomi 17 Pro Max|popsicle|2509FPN0BC|
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAC|
@@ -51343,6 +51350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5210|RE60C8L1|RMX5210|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
+|realme|RMX5388|RE60BA|RMX5388|
 |realme|RMX5555|RE6441L1|RMX5555|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
@@ -51500,6 +51508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Note 60x|RE6095|RMX3938|
 |realme|realme Note 70|RE60BA|RMX5313|
 |realme|realme Note 70T|RE60BA|RMX5313|
+|realme|realme Note 80|RE60BA|RMX5388|
 |realme|realme P1 5G|RE5C86L1|RMX3870|
 |realme|realme P1 Pro 5G|RE5C84L1|RMX3844|
 |realme|realme P1 Speed 5G|RE6066L1|RMX5004|
