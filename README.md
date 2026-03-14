@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-13
+Last sync is 2026-03-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29564,7 +29564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP55_EEA|WP55|WP55|
 |Oukitel|WP55_S_EEA|WP55_S|WP55 S|
 |Oukitel|WP55_Ultra_EEA|WP55_Ultra|WP55 Ultra|
-|Oukitel|WP56_EEA|WP56|WP56|
+|Oukitel|WP56|WP56|WP56|
 |Oukitel|WP58_EEA|WP58|WP58|
 |Oukitel|WP58_Pro_EEA|WP58_Pro|WP58 Pro|
 |Oukitel|WP58_Pro_ROW|WP58_Pro|WP58 Pro|
