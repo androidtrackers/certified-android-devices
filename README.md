@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-15
+Last sync is 2026-03-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13043,6 +13043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|C90_EEA|C90|C90|
 |HUIHUANG|E10_A|E10_A|E10_A|
 |HUIHUANG|E10_A_EEA|E10_A|E10_A|
+|HUIHUANG|M10_EU|M10|M10|
 |HUIHUANG|T3L2|T3L2|T3L2|
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
@@ -18486,6 +18487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|mountbaker|JVC 2K DVB TV|
 |JVC|JVC|mountbaker|JVC 2K ISDB TV|
 |JVC|JVC|mountbaker|JVC 2K TV|
+|JVC|JVC|nishijin|JVC Super TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC|seocho|JVC SA 4K Android TV|
 |JVC|JVC|seocho|JVC US 4K Android TV|
@@ -24989,7 +24991,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|MobiGo 2+|MobiGo2PQV|MobiGo2P|
 |MobiIoT|MobiGo 2+ Pro|MobiGo2PP|MobiGo2PP|
 |MobiIoT|MobiGo 2+ Pro|WM18PPv2|WM18PPv2|
-|MobiIoT|MobiIoT|MP5|MP5|
 |MobiIoT|MobiIoT|WM58|WM58|
 |MobiIoT|MobiPrint 5|MP5|MP5|
 |MobiIoT|MobiPrint4_Plus|MobiPrint4_Plus|MobiPrint4_Plus|
@@ -33094,6 +33095,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC501L|RC501L|RC501L|
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|RC608L|RC608L|RC608L|
+|Reliance|Reliance Retail Limited|chester|BPL Smart|
+|Reliance|Reliance Retail Limited|chester|BPL Smart TV|
 |Reliance|Reliance Retail Limited|landen|BPL Smart|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Relink|RLP8T|RLP8T|RLP8T|
@@ -33685,6 +33688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|GRAVITY_6_PRO_11_EEA|GRAVITY_6_PRO_11|GRAVITY PRO|
 |SPC|GRAVITY_6_PRO_12_EEA|GRAVITY_6_PRO_12|GRAVITY PRO|
 |SPC|GRAVITY_6_SE_11_EEA|GRAVITY_6_SE_11|GRAVITY 6 SE 11|
+|SPC|GRAVITY_7_11_EEA|GRAVITY_7_11|GRAVITY|
 |SPC|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC|Indonesia|guandu|SPC Android TV|
 |SPC|L80W|L80W|L80W|
