@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-17
+Last sync is 2026-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -627,6 +627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aamra WE|A50|A50|WE A50|
 |Aamra WE|E2|E2|WE E2|
 |Aaztec|THAZ-65/75/86/98/110 PD|mensa_an64|Aaztec-IFP-Series|
+|Abans|65E-L3576C-E7|65E-L3576C-E7|Abans|
 |Abocom|A08SM|A08|A08S|
 |Aborder|Tanzania|guandu|Aborder 4K Android TV|
 |Aborder|Tanzania|martin|Aborder 2K Android TV|
@@ -797,6 +798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L|AcerOne8T4-82L|Acer One 8 T4-82L|
 |Acer|Acer One 8 T4-82L|AcerOne8T4-82Lxi|Acer One 8 T4-82L|
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
+|Acer|Acer One 8 T4-82L-G2|AcerOne8T4-82L-G2|AcerOne8T4-82L-G2|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
 |Acer|Acer One T10-22L|AOT10-22L|Acer One T10-22L|
 |Acer|Acer One T11-22L|AOT11-22L|Acer One T11-22L|
@@ -5771,6 +5773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|S18 EEA|S18|S18|
 |CWOWDEFU|S28|S28|S28|
 |CX Argentina|CX9011|CX9011|CX9011|
+|CX Argentina|EDU-AI|SMART-BLACKBOARD|EDU-AI251|
 |CYX Group|A7008|A7008|A7008|
 |CYX Group|Retailer Stores|A7009|A7009|
 |CZ Electronics|M3CR|Mint_Fox|M3CR|
@@ -11259,6 +11262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geniora|GEN1|GEN1|GEN1|
 |Geo (GeoTechVision)|GEO10|GEO10|GEO10X|
 |GeoMax|GeoMax Zenius08|Zenius08|GMT-08QA-2301|
+|GeoPhone|geo_s7|geo_S7|Geo S7|
 |Geoelectron|P9IV|P9IV_Handheld|P9IV|
 |Geoelectron|P9IV_Handheld_EEA|P9IV_Handheld|P9IV|
 |Gertec|SK-210|SK-210|SK-210|
@@ -30809,6 +30813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids20A14_EEA|Kids20A14_EEA|Kids20|
 |Plimpton|Kids20A15|Kids20A15|Kids20|
 |Plimpton|Kids20A15_EEA|Kids20A15_EEA|Kids20|
+|Plimpton|Kids20_A16_EEA_JAE|Kids20_A16_EEA_JAE|Kids20_A16_EEA_JAE|
 |Plimpton|Kids20_A16_JAE|Kids20_A16_JAE|Kids20_A16_JAE|
 |Plimpton|Kids20_EEA|Kids20_EEA|Kids20|
 |Plimpton|Kids20_PA15|Kids20_PA15|Kids20_PA15|
@@ -30822,6 +30827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|P1|P1|P1|
 |Plimpton|P1A15|P1A15|P1A15|
 |Plimpton|P1A15_EEA|P1A15_EEA|P1A15_EEA|
+|Plimpton|P1_A16_EEA_JAE|P1_A16_EEA_JAE|P1_A16_EEA_JAE|
 |Plimpton|P1_A16_JAE|P1_A16_JAE|P1_A16_JAE|
 |Plimpton|P2|P2|P2|
 |Plimpton|P2A16|P2A16|P2A16|
@@ -32655,6 +32661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|M70_EEA|M70|M70|
 |Rebecco|M70_ROW|M70|M70|
 |Rebecco|M70_US|M70_US|M70|
+|Rebecco|X30|X30|A20Plus_ROW|
 |Rebecco|X30|X30|X30|
 |Rebecco|X30_EEA|X30|X30|
 |Rebecco|Z50_EEA|Z50|Z50|
