@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-19
+Last sync is 2026-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17352,6 +17352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
 |Infinix|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
+|Infinix|Infinix HOT 70|Infinix-X6895B|Infinix X6895B|
 |Infinix|Infinix HOT 9|Infinix-X655|Infinix X655|
 |Infinix|Infinix HOT 9|Infinix-X655C|Infinix X655C|
 |Infinix|Infinix HOT 9|Infinix-X655D|Infinix X655D|
@@ -32688,6 +32689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|A11_EEA|A11_EEA|A11_EEA|
 |RebotAi|A9_EEA|A9_EEA|A9|
 |RebotAi|AD11|AD11|AD11|
+|RebotAi|AD11_EEA|AD11_EEA|AD11_EEA|
 |RebotAi|AF12|AF12|AF12|
 |RebotAi|AF12_EEA|AF12|AF12|
 |RebotAi|AF13|AF13|AF13|
@@ -51077,6 +51079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQOO|iQOO Z10R 5G|I2505|I2505|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
+|iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
@@ -51810,6 +51813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|T5x 5G|V2545|V2545|
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
 |vivo|V60 Lite|V2441|V2530|
