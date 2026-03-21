@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-20
+Last sync is 2026-03-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -443,6 +443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|AT&T Motivate™ 2|EA211002|EA211002|
 |AT&T|AT&T Propel™ 5G|U6080AA|U6080AA|
 |AT&T|AT&T RADIANT™ Max 5G|EA211001|EA211001|
+|AT&T|AT&T Trek™|SN515AR|SN515AR|
 |AT&T|AT&T Verge™|SL219A|SL219A|
 |AT&T|AT&T Verge™ 2 5G|SN333A|SN333A|
 |AT&T|AT&T Vista™|WTATTRW2|WTATTRW2|
@@ -17352,6 +17353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
 |Infinix|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
+|Infinix|Infinix HOT 70|Infinix-X6895|Infinix X6895|
 |Infinix|Infinix HOT 70|Infinix-X6895B|Infinix X6895B|
 |Infinix|Infinix HOT 9|Infinix-X655|Infinix X655|
 |Infinix|Infinix HOT 9|Infinix-X655C|Infinix X655C|
@@ -18387,6 +18389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|V62A|holan|V62A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
+|JOVI|JOVI V70 5G|J2507|J2507|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y21|J2503|J2503|
@@ -28718,6 +28721,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find N5|OP5DC1L1|PKH110|
 |Oppo|Find N5|OP5E89L1|CPH2671|
 |Oppo|Find N5 卫星通信版|OP5DC1L1|PKH120|
+|Oppo|Find N6|OP61A9L1|PLP110|
+|Oppo|Find N6|OP6271L1|CPH2765|
+|Oppo|Find N6 卫星通信版|OP61A9L1|PLP120|
 |Oppo|Find X|CPH1871|CPH1871|
 |Oppo|Find X|CPH1875|CPH1875|
 |Oppo|Find X|PAFM00|PAFM00|
@@ -45289,6 +45295,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertu|Ti|hermione|VERTU Ti|
 |Vertu|VTL-202101|VTL-202101|VTL-202101|
 |Vertu|VTL-202201|VTL-202201|VTL-202201|
+|Verve|K1|K1|K1|
 |Verykool|SL5029|verykoolSL5029|verykoolSL5029|
 |Verykool|SL5050|verykoolSL5050|verykoolSL5050|
 |Verykool|SL5200|verykoolSL5200|verykoolSL5200|
