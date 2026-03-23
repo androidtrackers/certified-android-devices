@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-22
+Last sync is 2026-03-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13946,6 +13946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense Infinity H50S 5G|HNR500E_02|Hisense Infinity H50S 5G|
 |Hisense|Hisense Infinity H50S 5G|HNR500E_03|Hisense Infinity H50S 5G|
 |Hisense|Hisense Infinity H60 5G|HNR510E|Hisense Infinity H60 5G|
+|Hisense|Hisense Infinity H72 Pro|HLTE271E|Hisense H73|
 |Hisense|Hisense Infinity H72 Pro|HLTE271E|Hisense Infinity H72 Pro|
 |Hisense|Hisense M36|HS8909QC|Hisense M36|
 |Hisense|Hisense M51|HLTE115E|Hisense M51|
@@ -19049,6 +19050,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|FOL|mountbaker|2K SMART TV|
 |KTCtv|FPS|elliniko|4K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
+|KTCtv|GOTO|elliniko|4K SMART TV|
+|KTCtv|GOTO|templeton|4K SMART TV|
 |KTCtv|GTRONIC|elliniko|4K SMART TV|
 |KTCtv|Global|elliniko|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|hongkong|GLOBAL GOOGLE TV 4K|
@@ -25608,6 +25611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K15|hawaii|Lenovo K15|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
+|Motorola|MOTOROLA|elliniko|4K SMART TV|
 |Motorola|MOTOROLA|elliniko|MOTOROLA GOOGLE TV 4K|
 |Motorola|MOTOROLA|jagalchi|MOTOROLA GOOGLE TV|
 |Motorola|MOTOROLA|mountbaker|MOTOROLA GOOGLE TV 2K|
@@ -25806,6 +25810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motorola|mountbaker|MOTOROLA GOOGLE TV|
 |Motorola|Motorola|mountbaker|MOTOROLA GOOGLE TV NA|
 |Motorola|Motorola|stanford|CSV2K|
+|Motorola|Motorola|templeton|4K SMART TV|
 |Motorola|Motorola|zhongshan|CSV4K|
 |Motorola|Motorola Android 9.0 TV|shibuya|FlipkartTV|
 |Motorola|Motorola Defy|bathena|Motorola Defy|
@@ -28180,6 +28185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 15R|OP612DL1|CPH2767|
 |OnePlus|OnePlus 15R|OP612DL1|CPH2769|
 |OnePlus|OnePlus 15R|OP612DL1|CPH2771|
+|OnePlus|OnePlus 15T|OP64DDL1|PLZ110|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -32214,6 +32220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quantic|CM4806|CM4806|CM4806|
 |Quantum|Elise_T65|Elise_T65|Elise_T65|
 |Quantum|Elise_T65V|Elise_T65V|Elise T65V|
+|Quantum|Elise_T65V|Elise_T65V|Elise T80P|
 |Quantum|FLY|Q7|Quantum Fly|
 |Quantum|Fit|QF73|Quantum Fit|
 |Quantum|Go|Q1|Quantum Go|
