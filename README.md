@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-23
+Last sync is 2026-03-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26282,6 +26282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60s|aito|motorola razr 50s|
 |Motorola|motorola razr 60s|aito|motorola razr 60s|
 |Motorola|motorola razr fold|blanc|motorola edge 50 ultra|
+|Motorola|motorola razr fold|blanc|motorola razr fold|
 |Motorola|motorola razr fold 2026|blanc|motorola edge 50 ultra|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
@@ -46718,6 +46719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WXUNJA|E10_ROW|E10|E10|
 |Wacom|Cintiq Companion Hybrid 13HD|CintiqCompanionHybrid13HD|Cintiq Companion Hybrid 13HD|
 |Wacom|DTHA116|RosePlus|DTHA116|
+|Wacom|DTHA140|Wacom_MovinkPad_14|DTHA140|
 |Waf|F803YM|F803YM|F803YM|
 |Waf|F808NM|F808NM|F808NM|
 |Waf|THMTKAW01216_eea|THMTKAW01216|Surftab WAF|
