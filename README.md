@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-24
+Last sync is 2026-03-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4568,6 +4568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab10|Tab_10|Tab 10|
 |Blackview|Tab11SE_EEA|Tab11SE_EEA|Tab 11 SE|
 |Blackview|Tab11SE_NEU|Tab11SE_NEU|Tab 11 SE|
+|Blackview|Tab11SE_RU|Tab11SE_RU|Tab 11 RU|
 |Blackview|Tab11SE_RU|Tab11SE_RU|Tab 11 SE|
 |Blackview|Tab11WiFi_EEA|Tab11WiFi_EEA|Tab11WiFi_EEA|
 |Blackview|Tab11WiFi_NEU|Tab11WiFi_NEU|Tab11WiFi_NEU|
@@ -6590,6 +6591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTAB10_PLUS|QTAB10_PLUS|QTAB10_PLUS|
 |Compaq|QTAB8|QTAB8|QTAB8|
 |Compaq|QTAB_NOTE|QTAB_NOTE|QTAB_NOTE|
+|Compaq|QTAB_PLUS_LTE|QTAB_PLUS_LTE|QTAB_PLUS_LTE|
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
 |Compaq|QTab8|QTab8|QTab8|
 |Compaq|QTab8_LTE|QTab8_LTE|QTab8_LTE|
@@ -33306,6 +33308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RockTek|GT1|RMQ|UHD Streaming STB|
 |RockTek|GX1|RMQ|UHD Google TV STB|
 |RockTek|RT-G1|RTBox|RT-G1|
+|RockTek|RT-G2|YYJ|RT-G2|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
 |Rockcel|Quartzo_4G|Quartzo_4G|Quartzo_4G|
@@ -40351,6 +40354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T60_EA|T60|T60|
 |TABWEE|T60_NEU|T60|T60|
 |TABWEE|T60_RU|T60|T60|
+|TABWEE|T70_EEA|T70|T70|
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|W90_EEA|W90|W90|
@@ -48262,6 +48266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOLON|M8100_EEA|M8100|M8100|
 |ZOLON|M9200|M9200|M9200|
 |ZOLON|M9200_ZLEEA|M9200|M9200|
+|ZOLON|MP1x|MP1x|MP1x|
 |ZONGHENGCA|ZONGHENGCA_G8|ZONGHENGCA|ZONGHENGCA_G8|
 |ZONMAI|MX2|MX2|MX2|
 |ZONMAI|MX2_EEA|MX2_EEA|MX2_EEA|
@@ -49567,6 +49572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2465N|P820F05|Z2465N|
 |ZTE|Z2472|P606F20|Z2472|
 |ZTE|Z2472|P606F20_A|Z2472|
+|ZTE|Z2570N|P688F02|Z2570N|
 |ZTE|Z2575|P620F02|Z2575|
 |ZTE|Z2576|P620F01|Z2576|
 |ZTE|Z2577|P615F02|Z2577|
@@ -51375,6 +51381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
+|raemond|M70_EEA_A|M70_EEA_A|M70|
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
 |raemond|X70_US|X70_US|X70|
@@ -51904,6 +51911,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y50s AI版|PD2443|V2443A|
 |vivo|Y51 Pro 5G|V2545L|V2544|
 |vivo|Y51 Pro 5G|V2545L|V2613|
+|vivo|Y60|PD2559|V2559A|
+|vivo|Y60m|PD2559|V2559BA|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
 |waiputv|Hybrid Stick|SEI730WP|Hybrid Stick|
