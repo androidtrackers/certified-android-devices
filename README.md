@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-25
+Last sync is 2026-03-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14646,6 +14646,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X5c|HNNLA-M|NLA-LX3|
 |Honor|HONOR X5c Plus|HNNLA-M|NLA-LX1|
 |Honor|HONOR X5c Plus|HNNLA-M|NLA-LX2P|
+|Honor|HONOR X5d|HNNLA-M|NAA-LX2|
+|Honor|HONOR X5d  Plus|HNNLA-M|NAA-LX2P|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|
 |Honor|HONOR X6|HNVNE-M|VNE-LX2|
 |Honor|HONOR X6|HNVNE-M|VNE-LX3|
@@ -32735,7 +32737,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 15C|dew|25078RA3EE|
 |Redmi|REDMI 15C|dew|25078RA3EL|
 |Redmi|REDMI 15C|dew|25078RA3EY|
-|Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI K Pad|turner|25079RPDCC|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
@@ -32833,6 +32834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 15 5G|spring|25057RN09R|
 |Redmi|Redmi 15 5G|spring|A501XM|
 |Redmi|Redmi 15C 5G|tornado|2508CRN2BE|
+|Redmi|Redmi 15C 5G|tornado|2508CRN2BI|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -44461,6 +44463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G5 Mecha|G5_Mecha|RP08|
 |Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
 |Umidigi|G5 Mecha RU|G5_Mecha|RP08|
+|Umidigi|G5_Tab|G5_Tab|3Q-3|
 |Umidigi|G5_Tab|G5_Tab|A3-Pro|
 |Umidigi|G5_Tab|G5_Tab|MT16|
 |Umidigi|G5_Tab|G5_Tab|Tab-A100|
@@ -48267,6 +48270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOLON|M9200|M9200|M9200|
 |ZOLON|M9200_ZLEEA|M9200|M9200|
 |ZOLON|MP1x|MP1x|MP1x|
+|ZOLON|MP1x_EEA|MP1x|MP1x|
 |ZONGHENGCA|ZONGHENGCA_G8|ZONGHENGCA|ZONGHENGCA_G8|
 |ZONMAI|MX2|MX2|MX2|
 |ZONMAI|MX2_EEA|MX2_EEA|MX2_EEA|
