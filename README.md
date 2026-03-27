@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-26
+Last sync is 2026-03-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11414,6 +11414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigabyte|W6360|W6360|W6360|
 |Gigabyte|huangshan_gigabyte|huangshan|SmartTV 4K FFM|
 |Gigabyte|mexico|Lanix|iliumPAD|
+|Gigaset|GIG-X14|GIG-X14|GIG-X14|
 |Gigaset|GP20|GP20|GP20|
 |Gigaset|GS100|GS100|GS100|
 |Gigaset|GS110|GS110|GS110|
@@ -18609,6 +18610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jeazans|X100L|X100L|X100L|
 |Jeazans|X100L_EEA|X100L|X100L|
 |Jeazans|X100PRO|X100PRO|X100PRO|
+|Jeazans|X100PRO_EEA|X100PRO|X100PRO|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
@@ -27881,6 +27883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OLAX|Magic_Q8|Magic_Q8|Magic Q8|
 |OLAX|Ocean K8|Ocean_K8|Ocean K8|
 |OLAX|Ocean_F8|Ocean_F8|Ocean F8|
+|OLAX|Ocean_K11_Pro_Plus|Ocean_K11_Pro_Plus|Ocean K11 Pro Plus|
 |OLAX|Ocean_K8|Ocean_K8|Ocean K8|
 |OLAX|Ocean_K8_Pro|Ocean_K8_Pro|Ocean K8 Pro|
 |OLAX|Q101_EEA|Q101_EEA|Q101_EEA|
@@ -28551,6 +28554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A60 5G|OP5EA7L1|CPH2683|
 |Oppo|A6c|OP61C7L1|PMC110|
 |Oppo|A6c|OP632F|CPH2895|
+|Oppo|A6k|OP62A3L1|CPH2891|
 |Oppo|A6s|OP62A3L1|CPH2815|
 |Oppo|A6s 5G|OP5F2BL1|CPH2789|
 |Oppo|A6s 5G|OP5F2BL1|CPH2889|
@@ -28790,6 +28794,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K13x 5G|OP5EF7L1|CPH2753|
 |Oppo|K14 5G|OP5F2BL1|CPH2869|
 |Oppo|K14x 5G|OP5F2BL1|CPH2871|
+|Oppo|K15 Pro|OP61E9L1|PMH110|
+|Oppo|K15 Pro+|OP61E5L1|PMG110|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -32737,6 +32743,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 15C|dew|25078RA3EE|
 |Redmi|REDMI 15C|dew|25078RA3EL|
 |Redmi|REDMI 15C|dew|25078RA3EY|
+|Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
+|Redmi|REDMI A7 Pro|arctic|25128RN17A|
 |Redmi|REDMI K Pad|turner|25079RPDCC|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
@@ -32834,7 +32842,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 15 5G|spring|25057RN09R|
 |Redmi|Redmi 15 5G|spring|A501XM|
 |Redmi|Redmi 15C 5G|tornado|2508CRN2BE|
-|Redmi|Redmi 15C 5G|tornado|2508CRN2BI|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -40608,8 +40615,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521D|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521K|
 |TCL|TCL 60 SE NXTPAPER 5G|Aster_Pro|T521N|
-|TCL|TCL 60 Ultra NXTPAPER 5G|MonaLisa|T951K|
-|TCL|TCL 60 Ultra NXTPAPER 5G|MonaLisa|T951P|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_CAN|T705J|
 |TCL|TCL 60 XE NXTPAPER 5G|Sunrise_NA_OM|T705M|
 |TCL|TCL 603|DahliaS|T451H|
@@ -40638,6 +40643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K33 5G|Beryl_VZW|T513SP|
 |TCL|TCL K70 4G|Bamboo|T522A|
 |TCL|TCL K70 Power 4G|Bamboo_Power|T522E|
+|TCL|TCL K70 SE|Thyme|T453D|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187U|
@@ -40670,6 +40676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 14|Hera_Vis_WIFI|9491G|
 |TCL|TCL NXTPAPER 14 Pro|Hercules_Wifi|9463A1|
 |TCL|TCL NXTPAPER 5G Junior|Aster_Pro|T521K|
+|TCL|TCL NXTPAPER 60 Ultra|MonaLisa|T951K|
 |TCL|TCL NXTPAPER 60 Ultra|MonaLisa|T951P|
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807D|
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807E|
@@ -44704,6 +44711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|DT50|DT50S|DT50|
 |Urovo|DT50 5G|DT50_5G|DT50_5G|
 |Urovo|DT610|DT610|DT610|
+|Urovo|DT630|DT630|DT630|
 |Urovo|DT66|DT66|DT66|
 |Urovo|K388 Pro|K388_Pro|K388_Pro|
 |Urovo|P8100|P8100|P8100|
@@ -51511,6 +51519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i|RED8C1L1|RMX3492|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i 5G|RE588DL1|RMX3612|
+|realme|realme C100 5G|RE6478L1|RMX5258|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15|RMX2180|RMX2180|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
@@ -51903,6 +51912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y500i|PD2531|V2531A|
 |vivo|Y500i AI版|PD2531|V2531A|
 |vivo|Y500s|PD2531|V2531A|
+|vivo|Y500s AI版|PD2531|V2531A|
 |vivo|Y50c|PD2443|V2443BA|
 |vivo|Y50e 5G|PD2443|V2443A|
 |vivo|Y50e AI版|PD2443|V2443A|
@@ -51916,6 +51926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y51 Pro 5G|V2545L|V2544|
 |vivo|Y51 Pro 5G|V2545L|V2613|
 |vivo|Y60|PD2559|V2559A|
+|vivo|Y60 AI版|PD2559|V2559A|
 |vivo|Y60m|PD2559|V2559BA|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
