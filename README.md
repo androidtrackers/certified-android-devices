@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-28
+Last sync is 2026-03-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3475,6 +3475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I9_Plus_WIFIOnly|I9_Plus_WIFIOnly|I9_Plus|
 |BMAX|I9_Plus_WLAN|I9_Plus_WLAN|I9_Plus|
 |BMAX|I9_Plus_WLAN_EEA|I9_Plus_WLAN_EEA|I9_Plus|
+|BMAX|I9_Plus_WireFree|I9_Plus_WireFree|I9_Plus_WireFree|
 |BMAX|I9_Plus_Wlanonly|I9_Plus_Wlanonly|I9_Plus|
 |BMAX|I9_Plus_Wlanonly_EEA|I9_Plus_Wlanonly_EEA|I9_Plus|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
