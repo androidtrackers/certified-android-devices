@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-29
+Last sync is 2026-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4118,6 +4118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|RE04N1_series|RE04N1_series|RE04N1_series|
 |BenQ|RE04N_series|RE04N_series|RE04N_series|
 |BenQ|RE04_series|RE04_series|RE04_series|
+|BenQ|RE05A_series|RE05A_series|RE05A_series|
 |BenQ|RM05_series|RM05_series|RM05_series|
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
@@ -10104,6 +10105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEONAL|D115|D115|D115|
 |FEONAL|D115_EEA|D115_EEA|D115_EEA|
 |FEONAL|D118_EEA|D118_EEA|D118_EEA|
+|FEONAL|D122_EEA|D122_EEA|D122_EEA|
 |FEONAL|D123_EEA|D123_EEA|D123_EEA|
 |FEONAL|D138_EEA|D138_EEA|D138_EEA|
 |FEONAL|K104|K104|K104|
@@ -26956,6 +26958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NELATECH|TAB8V1|TAB8V1|TAB8V1|
 |NELATECH|V22S1|V22S1|V22S|
 |NELATECH|X1|X1_Pro|X1|
+|NEMO|G99|G99|G99|
 |NEMO|N16|N16|N16|
 |NEMO|N36s|N36s|N36s|
 |NEO|GF214-NEO|GF214-NEO|GF214-NEO|
@@ -40358,6 +40361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|K10_NEU|K10_NEU|K10|
 |TABWEE|K10_RU|K10|K10|
 |TABWEE|T12_Pro_EEA|T12_Pro|T12 Pro|
+|TABWEE|T12_Pro_NEU|T12_Pro|T12 Pro|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
 |TABWEE|T50_EEA|T50|T50|
