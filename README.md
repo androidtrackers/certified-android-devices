@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-30
+Last sync is 2026-03-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11891,6 +11891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GreenLion|G-10_ULTRA|G-10_ULTRA|G-10 ULTRA|
 |GreenLion|G-20ULTRA|G-20ULTRA|G-20ULTRA|
 |GreenLion|G-30_ULTRA|G-30_ULTRA|G-30_ULTRA|
+|GreenLion|G-30_ULTRA|G-30_ULTRA|Max Tab22|
 |GreenLion|G-8_PRO|G-8_PRO|G-8 PRO|
 |Greentel|A10Pro|A10Pro|A10Pro|
 |Greentel|A10_premium|A10_premium|A10_premium|
@@ -12189,6 +12190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOLO|XULTRA3|XULTRA3|XULTRA3|
 |HOLO|XULTRAPLUS|XULTRAPLUS|XULTRAPLUS|
 |HOLO|XULTRAPLUS3|XULTRAPLUS3|XULTRAPLUS3|
+|HOLO|X_Play_Ultra|X_Play_Ultra|X_Play_Ultra|
 |HOMII|HOMII M6|M6|M6|
 |HOMII|XBOOK|XBOOK|XBOOK|
 |HOMII|XBOOK_12|XBOOK_12|P33 Pro Max|
@@ -14651,7 +14653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X5c Plus|HNNLA-M|NLA-LX1|
 |Honor|HONOR X5c Plus|HNNLA-M|NLA-LX2P|
 |Honor|HONOR X5d|HNNLA-M|NAA-LX2|
-|Honor|HONOR X5d  Plus|HNNLA-M|NAA-LX2P|
+|Honor|HONOR X5d Plus|HNNLA-M|NAA-LX2P|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|
 |Honor|HONOR X6|HNVNE-M|VNE-LX2|
 |Honor|HONOR X6|HNVNE-M|VNE-LX3|
@@ -18402,6 +18404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y21|J2503|J2503|
+|JOVI|JOVI Y21 5G|J2508|J2508|
 |JOVI|JOVI Y29|V2434B|V2445|
 |JOVI|JOVI Y29s 5G|V2446B|V2459|
 |JOVI|JOVI Y31|J2506|J2506|
@@ -19875,6 +19878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO SX3|KY22L-ST200|KYG02|
 |Kyocera|DIGNO SX4|KY24L-ST200|KC-S305|
 |Kyocera|DIGNO SX4 Wi-Fi|KY24L-ST300|KC-S205|
+|Kyocera|DIGNO SX5|KY25L-ST100|KC-S306|
 |Kyocera|DIGNO SX5|KY25L-ST100|KYG07|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
@@ -29986,6 +29990,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X7 Pro|rodin|2412DPC0AI|
 |POCO|POCO X8 Pro|klee|2511FPC34G|
 |POCO|POCO X8 Pro|klee|2511FPC34I|
+|POCO|POCO X8 Pro Max|dash|2602BPC18G|
+|POCO|POCO X8 Pro Max|dash|2602BPC18I|
 |POCO|Poco F7|onyx|25053PC47G|
 |POCO|Poco F7|onyx|25053PC47I|
 |POCO|Poco F7 Pro|zorn|24117RK2CG|
@@ -32743,10 +32749,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|MiTV|rango|MiTV-AXFR0|
 |Redmi|POCO F5|marblein|23049PCD8I|
-|Redmi|REDMI 15C|dew|25078RA3EA|
-|Redmi|REDMI 15C|dew|25078RA3EE|
-|Redmi|REDMI 15C|dew|25078RA3EL|
-|Redmi|REDMI 15C|dew|25078RA3EY|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI A7 Pro|arctic|25128RN17A|
 |Redmi|REDMI K Pad|turner|25079RPDCC|
@@ -32845,6 +32847,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 15 5G|spring|25057RN09I|
 |Redmi|Redmi 15 5G|spring|25057RN09R|
 |Redmi|Redmi 15 5G|spring|A501XM|
+|Redmi|Redmi 15C|dew|25078RA3EA|
+|Redmi|Redmi 15C|dew|25078RA3EE|
+|Redmi|Redmi 15C|dew|25078RA3EL|
+|Redmi|Redmi 15C|dew|25078RA3EY|
 |Redmi|Redmi 15C 5G|tornado|2508CRN2BE|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
@@ -40369,6 +40375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T60_NEU|T60|T60|
 |TABWEE|T60_RU|T60|T60|
 |TABWEE|T70_EEA|T70|T70|
+|TABWEE|T70_NEU|T70|T70|
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|W90_EEA|W90|W90|
@@ -47616,6 +47623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Hong Mi|HM2013022|2013022|
 |Xiaomi|K30 PRO|lmiinpro|Redmi K30 Pro 5G Zoom Edition|
 |Xiaomi|K30 pro|lmiin|Redmi K30 Pro 5G|
+|Xiaomi|Leitzphone powered by Xiaomi|nezha|2512BPNDAG|
 |Xiaomi|MI  8  Explorer  Edition|ursa|MI 8 Explorer Edition|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 Pro|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 UD|
@@ -51879,6 +51887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X300 Pro|PD2502|V2502A|
 |vivo|X300 Pro|V2514|V2514|
 |vivo|X300 Pro 卫星通信版|PD2502|V2502DA|
+|vivo|X300s|PD2548|V2548A|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y05|V2556|V2556|
 |vivo|Y05|V2556|V2565|
@@ -51889,6 +51898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y11e|V2556|V2577|
 |vivo|Y19s 5G|V2446|V2541|
 |vivo|Y21 5G|V2553|V2553|
+|vivo|Y21 5G|V2553|V2554|
 |vivo|Y21d|V2520|V2520|
 |vivo|Y21d|V2520|V2524|
 |vivo|Y21d|V2520|V2525|
