@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-03-31
+Last sync is 2026-04-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -50196,6 +50196,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|PS30J|PS30Jx|PS30J|
 |Zebra|Pollux|TC70|TC700H|
 |Zebra|Pollux|TC75|TC75|
+|Zebra|TC101|TC101L|TC101|
+|Zebra|TC101|TC101L|TC101L|
+|Zebra|TC101|TC101W|TC101|
+|Zebra|TC101|TC101W|TC101W|
 |Zebra|TC15|TC15|TC15|
 |Zebra|TC20|TC20RD|TC20|
 |Zebra|TC20|TC20RT|TC20|
