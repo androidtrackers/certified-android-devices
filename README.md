@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-01
+Last sync is 2026-04-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19152,6 +19152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SIERA|stanford|2K Siera SMART TV|
 |KTCtv|SKY-ONE|stanford|2K SMART TV|
 |KTCtv|SKY-ONE|zhongshan|4K SMART TV|
+|KTCtv|SLCD_24PGV2|araku|EcoPro|
 |KTCtv|STAR-TRACK|lavender|4K SMART TV|
 |KTCtv|STAR-TRACK|lavender|STAR-TRACK 4K SMART TV|
 |KTCtv|SVISION|hongkong|SVISION 4K Android TV|
@@ -30092,6 +30093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|TARGA-F11PRO|TARGA-F11PRO|TARGA-F11PRO|
 |Packard Bell|TARGA-F12PRO|TARGA-F12PRO|TARGA-F12PRO|
 |Packard Bell|TARGA-F13PRO|TARGA-F13PRO|TARGA-F13PRO|
+|Packard Bell|TARGA-F14PRO|TARGA-F14PRO|TARGA-F14PRO|
 |Packard Bell|TARGA-F7|TARGA-F7|TARGA-F7|
 |Packard Bell|TARGA-F8|TARGA-F8|RG-TB08-V2|
 |Packard Bell|TARGA-F8|TARGA-F8|TARGA-F8|
@@ -33304,6 +33306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Riotouch|RK882|RK882|RK882|
 |Rivian|Rivian R1|xmm_revc_r1|Rivian|
 |Riviera|Android TV|ikebukuro|AI PONT|
 |Riviera|Android TV|sindorim|AI PONT|
@@ -42718,6 +42721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30T_ROW|P30T_ROW|P30T|
 |Teclast|P30T_ROW|P30T_ROW|P30T_ROW|
 |Teclast|P30T_Y_EEA|P30T_Y|P30T_Y|
+|Teclast|P30T_Y_ROW|P30T_Y|P30T|
 |Teclast|P30T_Y_ROW|P30T_Y|P30T_Y|
 |Teclast|P30T_Y_RUS|P30T_Y|P30T_Y|
 |Teclast|P30_EEA|P30|P30|
@@ -44942,6 +44946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VK DIGITAL|VKONBOX|SEI740VK|VKONEBOX|
 |VL Wireless Inc|VL10|VL10|VL10|
 |VL Wireless Inc|VL68|VL68|VL68|
+|VL Wireless Inc|VL68_Lite|VL68_Lite|VL68|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68 Lite|
 |VL Wireless Inc|VL68_Lite|VL68_Lite|VL68_Lite|
 |VL Wireless Inc|VL68_Pro|VL68_Pro|VL68 Pro|
@@ -51447,6 +51452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5111|RE6444L1|RMX5111|
 |realme|RMX5200|RE6030L1|RMX5200|
 |realme|RMX5210|RE60C8L1|RMX5210|
+|realme|RMX5258|RE6478L1|RMX5258|
 |realme|RMX5261|RE6478L1|RMX5261|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
@@ -51860,6 +51866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Pad5|DPD2437|PA2553|
 |vivo|Pad5e|DPD2345|PA2455|
 |vivo|Pad5e|DPD2345|PA2535|
+|vivo|Pad6 Pro|DPD2540|PA2671|
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|S50|PD2528|V2528A|
@@ -51891,6 +51898,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X300 Pro|PD2502|V2502A|
 |vivo|X300 Pro|V2514|V2514|
 |vivo|X300 Pro 卫星通信版|PD2502|V2502DA|
+|vivo|X300 Ultra|PD2547|V2547A|
+|vivo|X300 Ultra|PD2547|V2547DA|
+|vivo|X300 Ultra 卫星通信版|PD2547|V2547DA|
 |vivo|X300s|PD2548|V2548A|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y05|V2556|V2556|
@@ -51953,6 +51963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |waiputv|waipu tv stick|SEI700WP|waipu tv stick|
 |waiputv|waipu.tv Box|SEID00BWP|waipu.tv Box|
 |waiputv|waipu.tv Stick (G2)|SEID00DWP|waipu.tv Stick (G2)|
+|wanbo|Vali1 Pro|coorg|Vali1 Pro|
 |wancheng|WC-F11|WC-F11|WC-F11|
 |weelikeit|C19W|C19W|C19W|
 |weelikeit|C19W_EEA|C19W_EEA|C19W_EEA|
