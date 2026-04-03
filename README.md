@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-02
+Last sync is 2026-04-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4334,6 +4334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|Pad7|Pad7|BSM1|
 |Blackshark|Pad7_Pro|Pad7_Pro|BSM3|
 |Blackshark|Pad7_WiFi|Pad7_WiFi|BSM4|
+|Blackshark|Pad_7_Pro_UE|Pad_7_Pro_UE|Pad_7_Pro_UE|
 |Blackshark|SHARK KSR-A0|kaiser|SHARK KSR-A0|
 |Blackshark|SHARK PRS-A0|penrose|SHARK PRS-A0|
 |Blackshark|SHARK PRS-H0|penrose|SHARK PRS-H0|
@@ -6503,6 +6504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clover|FTab|FTab|FTab|
 |Clover|G11|G11|G11|
 |Clover|G11A|G11A|G11|
+|Clover|K1196|K1196|K1196|
 |Clover|KD101|KD101|KD101|
 |Cobalt|CP101P|POS|CP101P|
 |Cobalt|Cobalt T10 wifi|Cobalt_T10_wifi|Cobalt_T10_wifi|
@@ -18073,6 +18075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A50|itel-A667L|itel A667L|
 |Itel|A51|itel_A51|itel A51|
 |Itel|A512W|itel-A512W|itel A512W|
+|Itel|A515W|itel-A515W|itel A515W|
 |Itel|A52B|itel-A52B|itel A52B|
 |Itel|A55|itel-W6003|itel W6003|
 |Itel|A58|itel-A661W|itel A661W|
@@ -18118,6 +18121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P51|P51|itel P51|
 |Itel|P65|itel-P671L|itel P671L|
 |Itel|P65|itel-P671LN|itel P671LN|
+|Itel|POWER 80|itel-P685L|itel P685L|
 |Itel|Pad  1 mini|itel-IKP-31|IKP-31|
 |Itel|Pad-2|itel-Pad-2|itel-P10002L|
 |Itel|Pad1|itel-P10001L|itel P10001L|
@@ -26992,6 +26996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NETOGY|NOVA|YXU|NOVA|
 |NETTV|NETTV|SEI500NTV|NETTV|
 |NEWORK|Interactive Smart Display|NewBoard|NB_XXE1D_AM_W|
+|NEWORK|NewBoard|Interactive_Smart_Display|NB_65P1D_WW_X|
 |NEWORK|NewBoard|Interactive_Smart_Display|NB_XXPXX_XX_X|
 |NEWPAS|N2138|N2138|N2138|
 |NEWPOS|NEW9310Pro|NEW9310Pro|NEW9310Pro|
@@ -32753,6 +32758,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|POCO F5|marblein|23049PCD8I|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI A7 Pro|arctic|25128RN17A|
+|Redmi|REDMI A7 Pro|arctic|25128RN17L|
+|Redmi|REDMI A7 Pro|arctic|25128RN17Y|
 |Redmi|REDMI K Pad|turner|25079RPDCC|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
@@ -33323,6 +33330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rizzen|NovaTab_R10s|NovaTab_R10s|R10s|
 |Rizzen|Novatab|S1s|S1s|
 |Rizzen|Rizzen_Ultra_26S50|Rizzen_Ultra_26S50|Ultra_26S50|
+|Rizzen|Rizzen_X_26X2|Rizzen_X_26X2|Rizzen_X_26X2|
 |Rizzen|S1|S1|S1|
 |Rizzen|X1|X1|X1|
 |Rizzen|X1x|X1x|X1x|
@@ -38929,6 +38937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Soda|soda|soda_SW17W16|soda S1|
 |SoftBank|602ZT|P809F10|602ZT|
 |Softlogic|MaxAiPlus|MaxAiPlus|Max-M8|
+|Sohar|S67|S67|S67|
 |Solinftec|SOL07|SOL07|SOL07|
 |Solone|E1457|E1457|E1457|
 |Solone|W1450|W1450|W1450|
@@ -42320,6 +42329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TMB(A)|Max|Max|Max|
+|TMEE|T1185S4RT-TMEE|T1185S4RT-TMEE|T1185S4RT-TMEE|
 |TNT (Panalo)|TNT PANALO PHONE 5G|TNT_PANALO_PHONE_5G|TNT PANALO PHONE 5G|
 |TO21COMMS|TOP10|TOP10|TOP10|
 |TOAD|Q863|Q863|Q863|
@@ -46723,6 +46733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WILLKOTECH|Kishi-001|Kishi-001|Kishi-001|
 |WILLKOTECH|WK1863L|WK1863L|WK1863L|
 |WIMIUS|G1|himalaya|G1|
+|WIMIUS|G2|coorg|G2|
 |WIN(PE)|WINBOX DV8947|DV8947-KPW|WINBOX DV8947|
 |WINTEK|W405|W405|W405|
 |WITECOR|M623-EEA|M623-EEA|M623-EEA|
@@ -47315,6 +47326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winnovo|TS7|TS7_EEA|TS7_EEA|
 |Winnovo|Winnovo|M8|M8|
 |Winnovo|WinnovoT5|WinnovoT5|WinnovoT5|
+|Winny|K11|K11|K11|
 |Winovo|Winovo_M50B|Winovo_M50B|Winovo_M50B|
 |Winovo|Winovo_M50B_EEA|Winovo_M50B|Winovo_M50B|
 |Wintec|T730|T730|Clear|
@@ -51456,6 +51468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5261|RE6478L1|RMX5261|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
+|realme|RMX5377|RE648B|RMX5377|
 |realme|RMX5388|RE60BA|RMX5388|
 |realme|RMX5555|RE6441L1|RMX5555|
 |realme|Smart TV|mateo|2K PA Smart TV|
@@ -51543,6 +51556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i 5G|RE588DL1|RMX3612|
 |realme|realme C100 5G|RE6478L1|RMX5258|
+|realme|realme C100i|RE648B|RMX5377|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15|RMX2180|RMX2180|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
