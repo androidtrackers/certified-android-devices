@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-06
+Last sync is 2026-04-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28280,6 +28280,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord 4|OP5E93L1|CPH2663|
 |OnePlus|OnePlus Nord 5|OP6131L1|CPH2707|
 |OnePlus|OnePlus Nord 5|OP6131L1|CPH2709|
+|OnePlus|OnePlus Nord 6|OP6135L1|CPH2793|
+|OnePlus|OnePlus Nord 6|OP6135L1|CPH2795|
 |OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
@@ -30795,6 +30797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Piranha|Piranha8032|Piranha8032|Piranha8032|
 |Pitney Bowes|Pitney Bowes C-Series|ELINK2|CSD-ELINK2|
 |Pitney Bowes|SendPro C Series|TitanX2|CSD-TXT2|
+|Pixcase|Pixcase2|MP1211001P02|121-1001P02|
 |Pixela|4K SmartTuner|tennouji|PIX-SMB400|
 |Pixela|KSTB5043|KSTB5043|KSTB5043|
 |Pixela|PIX-SMB400|tennouji|PIX-SMB400|
@@ -32756,6 +32759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|MiTV|rango|MiTV-AXFR0|
 |Redmi|POCO F5|marblein|23049PCD8I|
+|Redmi|REDMI 15A 5G|somalia|2602BRNA4I|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI A7 Pro|arctic|25128RN17A|
 |Redmi|REDMI A7 Pro|arctic|25128RN17L|
@@ -44897,6 +44901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|VILLAON V30|V30|VILLAON V30|
 |VILLAON|VILLAON V30|VILLAON-V30|VILLAON V30|
 |VILLAON|VILLAON V45s|VILLAON-V652L|VILLAON V652L|
+|VILLAON|VP1002L-OP|VILLAON-VP1002L|VILLAON-VP1002L|
 |VILLAON|Vibe 50|VILLAON-V653L|VILLAON V653L|
 |VILLAON|Vodacom A06s|VILLAON-V652L|VILLAON V652L|
 |VILLAON|Vodacom V54|VILLAON-V501L|VILLAON V501L|
@@ -51555,6 +51560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i|RED8C1L1|RMX3492|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i 5G|RE588DL1|RMX3612|
+|realme|realme C100|RE646B|RMX5353|
 |realme|realme C100 5G|RE6478L1|RMX5258|
 |realme|realme C100i|RE648B|RMX5377|
 |realme|realme C11 2021|RMX3231|RMX3231|
