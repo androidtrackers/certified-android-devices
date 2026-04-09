@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-08
+Last sync is 2026-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4854,6 +4854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C7 MAX|C0220|C7 MAX|
 |Blu|C7x|C290EQ|C7x|
 |Blu|C9|C0230|C9|
+|Blu|C9 MAX|C0260|C9 MAX|
 |Blu|D10|D10|D10|
 |Blu|D500|D500|D500|
 |Blu|D510|D510|D510|
@@ -31716,6 +31717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7|K7_A103|K7|
 |Pritom|K7|K7_A103_EEA|K7|
 |Pritom|K7Pro|K7Pro|M901|
+|Pritom|K7Pro|K7Pro|New kids tablet|
 |Pritom|K7Pro|K7Pro|TOUCH 7|
 |Pritom|K7Pro_EEA|K7Pro_EEA|TOUCH 7|
 |Pritom|K7_A03|K7_A03|K7|
@@ -40708,6 +40710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 60 Ultra|MonaLisa|T951P|
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807D|
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807E|
+|TCL|TCL NXTPAPER 70 Pro|Swing_TMO|T807W|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -44659,6 +44662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|EA510|EA510|EA510|
 |Unitech|EA520|EA520|EA520|
 |Unitech|EA520_US|EA520_US|EA520_US|
+|Unitech|EA530|EA530|EA530|
 |Unitech|EA630|EA630|EA630|
 |Unitech|EA630Plus|EA630Plus|EA630Plus|
 |Unitech|EA630_Plus|EA630_Plus|EA630_Plus|
