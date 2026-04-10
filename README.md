@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-09
+Last sync is 2026-04-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14365,6 +14365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
 |Homatics|Box HD|MIA|Box HD|
 |Homatics|Box Q|HND|Box Q|
+|Homatics|Box R 4K|YVR|Box R 4K|
 |Homatics|Box R 4K Plus|YYJ|Box R 4K Plus|
 |Homatics|CTV 4K BOX|SEI700CG|CTV 4K BOX|
 |Homatics|Dongle 4K Plus|SEID00DBYG|Dongle 4K Plus|
@@ -14379,6 +14380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Stick 4K|YZF|Stick 4K|
 |Homatics|Stick HD|IAD|Stick HD|
 |Homatics|TG STREAM 2|TL_4KOA|TG STREAM 2|
+|Homatics|Test|YYZ|Box R Lite 4K|
 |Homatics|XG Glasses|SEI700GHMG|XR Theater G|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
@@ -46908,6 +46910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo_RM3|Primo_RM3|Primo RM3|
 |Walton|Primo S6 Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|RX7 Mini|RX7_Mini|RX7 Mini|
+|Walton|Smart TV|alimos|WALTON GOOGLE TV FF|
 |Walton|Smart TV|alimos|WALTON UHD GOOGLE TV 5.0|
 |Walton|Smart TV|bridgeport|WALTON UHD GOOGLE TV 5.0|
 |Walton|Smart TV|dangni|WALTON GOOGLE TV5.0|
