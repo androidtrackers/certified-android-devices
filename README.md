@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-10
+Last sync is 2026-04-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7383,6 +7383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DABLIU|E1M|E1M|E1M|
 |DABLIU|E1N|E1N|E1N|
 |DABLIU|L1R|L1R|L1R|
+|DABLIU|T1B|T1B|T1B|
 |DAIICHI|Vietnam|martin|Daiichi 2K SMART TV|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
@@ -10179,6 +10180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F102|F102|F102|
 |FOSSiBOT|F102 ROW|F102|F102|
 |FOSSiBOT|F105|F105|F105|
+|FOSSiBOT|F105_Pro_EEA|F105_Pro|F105 Pro|
 |FOSSiBOT|F106 Pro EEA|F106_Pro|F106 Pro|
 |FOSSiBOT|F106 Pro ROW|F106_Pro|F106 Pro|
 |FOSSiBOT|F106 ROW|F106|F106|
@@ -10917,6 +10919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
 |G-Tab|G9|G9_1|G9|
+|G-Tab|GTAB_P8|GTAB_P8|P8|
 |G-Tab|GTab_X|X|X|
 |G-Tab|N271|N271|N271|
 |G-Tab|N28|N28|N28|
@@ -18934,6 +18937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA 4K Google TV|keoneae|HK 4K Google TV|
 |KONKA|KONKA 4K OLED Google TV|bandra|HK Google TV|
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
+|KONKA|KONKA U4K Google TV|daxi|KONKA U4K Google TV|
 |KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
 |KONKA|M27S|M27S|M27S|
@@ -25324,6 +25328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6682|H6682|H6682|
 |Mobiwire|H6682_VDC_TZ|H6682|H6682_VDC_TZ|
+|Mobiwire|H6733 Pro|GH6733|H6733 Pro|
 |Mobiwire|H67A1|H67A1|H67A1|
 |Mobiwire|H6821|H6821|H6821|
 |Mobiwire|HALONA|Halona|Halona|
@@ -26877,6 +26882,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE T11 11QHD1|LAVIET1111QHD1|LAVIE T11 11QHD1|
 |NEC|LAVIE T8 8HD1|LAVIET88HD1|LAVIE T8 8HD1|
 |NEC|LAVIE Tab 102K1|LAVIETab102K1|LAVIE Tab 102K1|
+|NEC|LAVIE Tab 11QHD3|LAVIETab11QHD3|LAVIE Tab 11QHD3|
+|NEC|LAVIE Tab 11QHD3|LAVIETab11QHD3|LAVIETab11QHD3|
 |NEC|LAVIE Tab E|PC-TE410JAW|PC-TE410JAW|
 |NEC|LAVIE Tab E|PC-TE508HAW|PC-TE508HAW|
 |NEC|LAVIE Tab E|X704F|PC-TE510HAW|
@@ -26889,8 +26896,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab T11|LAVIETab112K2|LAVIE Tab 112K2|
 |NEC|LAVIE Tab T11|LAVIETab11FHD1|LAVIE Tab 11FHD1|
 |NEC|LAVIE Tab T11|LAVIETab11QHD2|LAVIE Tab 11QHD2|
-|NEC|LAVIE Tab T11Nd|LAVIETab11QHD3|LAVIE Tab 11QHD3|
-|NEC|LAVIE Tab T11Nd|LAVIETab11QHD3|LAVIETab11QHD3|
 |NEC|LAVIE Tab T14|LAVIETab143K1|LAVIE Tab 143K1|
 |NEC|LAVIE Tab T9|LAVIETab9QHD1|LAVIE Tab 9QHD1|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
@@ -34756,6 +34761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A56 5G|a56x|SM-A566E|
 |Samsung|Galaxy A56 5G|a56x|SM-A566U1|
 |Samsung|Galaxy A56 5G|a56x|SM-A566W|
+|Samsung|Galaxy A57 5G|SC-54G|SC-54G|
 |Samsung|Galaxy A57 5G|a57x|SM-A5760|
 |Samsung|Galaxy A57 5G|a57x|SM-A576B|
 |Samsung|Galaxy A57 5G|a57x|SM-A576Q|
@@ -50521,6 +50527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|ZUUM PAD Lightyear|ZUUM_PAD_Lightyear|ZUUM PAD Lightyear|
 |Zynex|G141K|G141K|G141K|
 |Zynex|G141L|G141L|G141L|
+|Zynex|G16L|G16L|G16L|
 |Zynex|KB1002|KB1002|KB1002|
 |Zynex|X107L|X107L|X107L|
 |abxylute|abxylute_one|abxylute_one|abxylute_one|
