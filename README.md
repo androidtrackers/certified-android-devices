@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-11
+Last sync is 2026-04-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28582,6 +28582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A6s|OP62A3L1|CPH2815|
 |Oppo|A6s 5G|OP5F2BL1|CPH2789|
 |Oppo|A6s 5G|OP5F2BL1|CPH2889|
+|Oppo|A6s Pro 5G|OP61DFL1|PMT110|
 |Oppo|A6t|OP62A3L1|CPH2847|
 |Oppo|A6t 5G|OP5F2BL1|CPH2853|
 |Oppo|A6t Pro|OP62A3L1|CPH2849|
@@ -28744,6 +28745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F29 Pro 5G|OP5ECFL1|CPH2705|
 |Oppo|F31 Pro 5G|OP5F19L1|CPH2763|
 |Oppo|F31 Pro+ 5G|OP5F15L1|CPH2757|
+|Oppo|F33 Pro 5G|OP62CBL1|CPH2835|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
 |Oppo|F9|CPH1823|CPH1823|
