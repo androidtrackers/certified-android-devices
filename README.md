@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-12
+Last sync is 2026-04-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4109,6 +4109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|JM-250|JM-250_P1|JM-250|
 |BenQ|Kogan 4G+|Agora_4G_PLUS|Agora 4G+|
 |BenQ|Kogan Agora 4G Lite|B506|Kogan Agora 4G Lite|
+|BenQ|NE001A_series|NE001A_series|NE001A_series|
 |BenQ|NE001_series|NE001_series|NE001_series|
 |BenQ|PT2200|PT2200|PT2200|
 |BenQ|Q Stick|S905Y2|QS01|
@@ -14740,6 +14741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
 |Honor|荣耀X70|HNMTN-Q|MTN-AN00|
 |Honor|荣耀X70|HNMTN-Q|MTN-AN80|
+|Honor|荣耀X80i|HNLNA-M|LNA-AN00|
 |Honor|荣耀平板 10|HNHEY3-Q|HEY3-W00|
 |Honor|荣耀平板10|HNHEY3-Q|HEY3-W10|
 |Honor|荣耀平板GT|HNROL-M|ROL-W60|
@@ -21457,8 +21459,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LIFE Digital|K3102_4G|K3102_4G|ITELL K3102 4G|
 |LIFE Digital|K3102_W|K3102_W|K3102_W|
 |LIFE Digital|K3102_WIFI|K3102_WIFI|K3102 WIFI|
+|LIFEPHONE|F1|F1|F1|
 |LIFEPHONE|HERO|LIFEPHONE_HERO|HERO|
 |LIFEPHONE|IDOL|LIFEPHONE_IDOL|IDOL|
+|LIFEPHONE|K1|K1|K1|
 |LIFEPHONE|SIMPLE|LIFEPHONE_SIMPLE|SIMPLE|
 |LIFEPHONE|STAR|LIFEPHONE_STAR|STAR|
 |LIFEPHONE|VISION|LIFEPHONE_VISION|VISION|
@@ -21500,6 +21504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOFT|D4xx|D4|D4_Interactive_Display|
+|LOGIC|EX_Series|RK3576|LT-IR65EX|
 |LOGIC|HX_Series|MTK9679|Logic_LT_IRXXHX|
 |LOGIC|L65E|L65E|L65E|
 |LOGIC|L66F|L66F|L66F|
@@ -40398,6 +40403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T12_Pro_NEU|T12_Pro|T12 Pro|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
+|TABWEE|T30_NEU|T30_NEU|T30|
 |TABWEE|T50_EEA|T50|T50|
 |TABWEE|T60_EA|T60|T60|
 |TABWEE|T60_NEU|T60|T60|
@@ -42737,6 +42743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30S_ROW|P30S_ROW|P30S_ROW|
 |Teclast|P30S_W_EEA|P30S_W_EEA|P30S_W_EEA|
 |Teclast|P30S_W_ROW|P30S_W_ROW|P30S_W_ROW|
+|Teclast|P30T_BN_EEA|P30T_BN_EEA|bnd|
 |Teclast|P30T_EEA|P30T|P30T|
 |Teclast|P30T_EEA|P30T_B|P30T|
 |Teclast|P30T_EEA|P30T_B|P30T_EEA|
