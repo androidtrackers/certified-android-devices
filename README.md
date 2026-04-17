@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-16
+Last sync is 2026-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1751,6 +1751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|iPlay70|iPlay70|iPlay70|
 |Alldocube|iPlay70_S|iPlay70_S|iPlay70_S|
 |Alldocube|iPlay70_mini_Turbo|U812|iPlay70 mini Turbo|
+|Alldocube|iPlay80miniTurbo|T860|iPlay80miniTurbo|
 |Alldocube|iPlay9T|U1008|iPlay9T|
 |Alldocube|iPlay_20|iPlay_20|iPlay_20|
 |Alldocube|iPlay_30|T1012|iPlay_30|
@@ -5615,6 +5616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COLORROOM|E5_EEA|E5_EEA|E5_EEA|
 |COLORROOM|E5_EEA|E5_EEA|T5|
 |COLORROOM|K07-pro|K07-pro_EEA|K07-pro|
+|COLORROOM|K07-pro|K07-pro_EEA|TC70W|
 |COLORROOM|K07-pro_EEA|K07-pro_EEA|K07-pro|
 |COLORROOM|K08|K08|K08|
 |COLORROOM|K10|K10|K10|
@@ -5986,6 +5988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ceibal|Ibirapita|A81F|A81F|
 |Ceibal|KIL-TAB82WIFI|KIL-TAB82WIFI|KIL-TAB82WIFI|
 |Ceibal|Kil-82WFDC|Kil-82WFDC|Kil-82WFDC|
+|Ceibal|Minchir|Minchir|bnd|
 |Ceibal|RIGEL|RIGEL|RIGEL|
 |Ceibal|TC80RA1|TC80RA1_3|TC80RA1|
 |Ceibal|TC80RA6|TC80RA6_1|TC80RA6|
@@ -6514,6 +6517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clover|G11A|G11A|G11|
 |Clover|K1196|K1196|K1196|
 |Clover|KD101|KD101|KD101|
+|Clover|gama_alta_6_128G|gama_alta_6_128G|gama_alta_6_128G|
 |Cobalt|CP101P|POS|CP101P|
 |Cobalt|Cobalt T10 wifi|Cobalt_T10_wifi|Cobalt_T10_wifi|
 |Cobalt|Cobalt-T7_3G|Cobalt-T7_3G|Cobalt-T7_3G|
@@ -7228,6 +7232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
 |Crosscall|Trekker- M1|HS8916QC|Trekker-M1|
 |Crosscall|Trekker- X4|HSSDM660QC|Trekker-X4|
+|CrownHeights|8inchDigitalTablet|CROWNTAB8|CROWNTAB8|
 |CryptoDATA|HidR_EVO|HidR_EVO|EVO|
 |CryptoDATA|Hidr S1 PRO|Hidr_S1_PRO|Hidr_S1_PRO|
 |CryptoDATA|Hidr S1 PRO ROW|Hidr_S1_PRO|Hidr_S1_PRO|
@@ -14595,7 +14600,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 500|HNMEY|MEY-AN00|
+|Honor|HONOR 600|HNVKJX|VKJ-NX9|
 |Honor|HONOR 600 Lite|HNLNA-M1|LNA-NX1|
+|Honor|HONOR 600 Pro|HNVKPX|VKP-NX9|
 |Honor|HONOR 600e|HNLNA-M1|LNA-NX3|
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
@@ -26324,6 +26331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr fold|blanc|motorola edge 50 ultra|
 |Motorola|motorola razr fold|blanc|motorola razr fold|
 |Motorola|motorola razr fold 2026|blanc|motorola edge 50 ultra|
+|Motorola|motorola razr fold 2026|blanc|motorola razr fold 2026|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
 |Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2023|
@@ -28820,7 +28828,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X9 Pro|OP5E8EL1|CPH2791|
 |Oppo|Find X9 Pro 卫星通信版|OP5E11L1|PLG120|
 |Oppo|Find X9 Ultra|OP61BDL1|PMA110|
+|Oppo|Find X9 Ultra|OP627CL1|CPH2841|
 |Oppo|Find X9 Ultra 卫星通信版|OP61BDL1|PMA120|
+|Oppo|Find X9s|OP6275L1|CPH2873|
 |Oppo|Find X9s Pro|OP61C1L1|PME110|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
@@ -29856,6 +29866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
+|PEICHENG|CP10S_Pro|CP10S_Pro|CP10S_Pro|
 |PEICHENG|CP20TGOLD|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
@@ -50742,6 +50753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eNOVA|TAE08N10|TAE08N10|TAE08N10|
 |eNOVA|TAE10C13|TAE10C13|TAE10C13|
 |eNOVA|TAE10N12|TAE10N12|T1081|
+|eNOVA|TAE10N12|TAE10N12|TAE10N12|
 |eNOVA|TAEI0C13|TAE10C13|TAE10C13|
 |eSSL|Emerald|Emerald|Emerald|
 |eSTREAM 4K|EVOPRO|SEI500EV|EVOPRO|
@@ -51999,6 +52011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d|V2543|V2546|
 |vivo|Y31d|V2543|V2582|
 |vivo|Y31d|V2543|V2611|
+|vivo|Y31d|V2543|V2636|
 |vivo|Y31e 5G|V2521|V2533|
 |vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
