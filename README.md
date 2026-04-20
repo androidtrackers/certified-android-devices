@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-19
+Last sync is 2026-04-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -766,6 +766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|AS10L|AS10L|AS10L|
 |Acer|AS10W|AS10W|AS10W|
 |Acer|AS10WF|AS10WF|AS10WF|
+|Acer|AS10WF_NEO_EEA|AS10WF_NEO|AS10WF NEO|
 |Acer|AS8W|AS8W|AS8W|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
 |Acer|ATAB1024E|ATAB1024E|ATAB1024E|
@@ -3384,6 +3385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BILIMLI|BILIMLI2025|BILIMLI2025|BILIMLI2025|
 |BIOSfone|T11|T11|T11|
 |BIT Mobile|Phenix XT|Phenix_XT|Phenix XT|
+|BITTAP|BITTAP-KST11PRO-M8775|M8775|KST-BT-11-PRO|
 |BKAV|B2017|B2017|B2017|
 |BKAV|B2017|B2017|Bphone B2017|
 |BKAV|Bphone|Bphone|Bphone B1111|
@@ -9079,6 +9081,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30L1_EEA|A30L1|A30L1|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
+|ECOPAD|C30plus|C30plus|C30plus|
+|ECOPAD|C30plus_EEA|C30plus|C30plus|
 |ECOPAD|C5Pro|C5Pro|C5Pro|
 |ECOPAD|C5Pro_EEA|C5Pro|C5Pro|
 |ECOPAD|K12L1|K12L1|K12L1|
@@ -17066,6 +17070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|IRA_T808M|IRA_T808M|IRA_T808M|
 |IRA (explore more)|IRA_W801|IRA_W801|IRA_W801|
 |IRA (explore more)|T1015|T1015|IRA_T1015|
+|IRA (explore more)|T1015|T1015|T1015|
 |IRA (explore more)|T1021|T1021|T1021|
 |IRA (explore more)|T1021M|T1021M|T1021M|
 |IRA (explore more)|T1030A|T1030A|T1030A|
@@ -21521,6 +21526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LOFT|D4xx|D4|D4_Interactive_Display|
 |LOGIC|EX_Series|RK3576|LT-IR65EX|
 |LOGIC|HX_Series|MTK9679|Logic_LT_IRXXHX|
+|LOGIC|L-PAD-PRO-BK|Logic_L-PAD_PRO|Logic_L-PAD_PRO|
 |LOGIC|L65E|L65E|L65E|
 |LOGIC|L66F|L66F|L66F|
 |LOGIC|LOGIC L66M|LOGIC_L66M|LOGIC L66M|
@@ -21651,6 +21657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LYNKNEX|PX350|PX350|PX350|
 |LYNKNEX|PX5|LYNKNEX-PX5|PX5|
 |LYOTECH_LABS|LFi_ONE_EEA|LFi_ONE|LFi ONE|
+|LZF(shenzhen)|Z1A|Z1A|Z1A|
 |LZF(shenzhen)|Z2|Z2|Z2|
 |LZF(shenzhen)|Z3|Z3|Z3|
 |LZU_lzu|D113|D113|D113|
@@ -32791,6 +32798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|D101|D101|D101|
 |RebotAi|D101_EEA|D101_EEA|D101|
 |RebotAi|D101_EEA|D101_EEA|D101_EEA|
+|RebotAi|K101|K101|K101|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
@@ -38964,6 +38972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartfren|NC36B1G|HS8610QC|Smartfren Andromax NC36B1G|
 |Smartfren|NEWAD688G|NEWAD688G|Smartfren Andromax AD688G|
 |Smartfy|T701|T701|T701|
+|Smartfy|T701S|T701S|T701S|
 |Smartfy|T702|T702|T702|
 |Smarti|Smarti T2 plus|Smarti_T2_plus|Smarti T2 plus|
 |Smarti|Smarti_Gen_1|Smarti_Gen_1|Smarti_Gen_1|
@@ -45728,7 +45737,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
 |Vivo|I2202|I2202|I2202|
-|Vivo|I2306|I2306|I2306|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PA2170|DPD2106|PA2170|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
@@ -50143,6 +50151,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Neo 3|P720F10|Z2461|
 |ZTE|nubia Neo 3 5G|P780F01|Z2464N|
 |ZTE|nubia Neo 3 GT 5G|Z7606O|Z2465N|
+|ZTE|nubia Neo 5 5G|P830F01|Z2571N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
@@ -51216,6 +51225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
 |iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
+|iQOO|iQOO Z9 Lite|I2306|I2306|
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
@@ -51483,6 +51493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |preo|PTAB_P8|PTAB_P8|PTAB_P8|
 |prowise|Prowise Touchscreen Ten|ifpd|prowise|
 |prowise|Prowise Touchscreen Ultra|ifpd|prowise|
+|prowise|ProwiseTouchscreenTen|Prowise|Prowise|
 |prowise|Prowise_TSxG4|Mercury|TSxG4|
 |qunyiCO|Y10|Y10|Y10|
 |qunyiCO|Y10_1|Y10_1|Y10|
