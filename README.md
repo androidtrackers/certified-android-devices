@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-20
+Last sync is 2026-04-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -679,6 +679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acepad|A171_14|A171_14|A171_14|
 |Acepad|AX1|AX1|AX1|
 |Acepad|Acepad ABLE|Acepad_ABLE_EEA|Acepad ABLE|
+|Acepad|Acepad_HIGH_E202_EEA|Acepad_HIGH_E202_EEA|Acepad HIGH|
 |Acepad|Acepad_HIGH_EEA|Acepad_HIGH_EEA|Acepad HIGH|
 |Acer||C6|Acer E320|
 |Acer||C6|Acer E320-orange|
@@ -11745,6 +11746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gome|GOME_C7_Note|GOME_C7_Note|GOME_C7_Note|
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
+|Good_Planning|TWGP8|TWGP8|TWGP8|
 |Google|AMD FP6 Chromebook|guybrush_cheets|guybrush|
 |Google|AMD Mendocino FT6 Chromebook|skyrim_cheets|skyrim|
 |Google|AMD Raven Ridge Chromebook|zork_cheets|zork|
@@ -23467,6 +23469,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|MHORSE M|M_HORSE_M|M_HORSE_M|
 |M-Horse|Note 50 Pro Max|Note_50_Pro_Max|Note 50 Pro Max|
 |M-Horse|P1|P1|P1|
+|M-Horse|Pad_17ProMax|Pad_17ProMax|Pad_17ProMax|
+|M-Horse|Pad_17ProMax_RU|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
@@ -27933,6 +27937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Magic_Q1|Magic_Q1|Magic Q1|
 |OLAX|Magic_Q8|Magic_Q8|Magic Q8|
+|OLAX|Magic_Q8_Pro_Plus|Magic_Q8_Pro_Plus|Magic Q8 Pro Plus|
 |OLAX|Ocean K8|Ocean_K8|Ocean K8|
 |OLAX|Ocean_F8|Ocean_F8|Ocean F8|
 |OLAX|Ocean_K11_Pro_Plus|Ocean_K11_Pro_Plus|Ocean K11 Pro Plus|
@@ -31876,6 +31881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C10_EEA|M10_C10_EEA|M10|
 |Pritom|M10_C10_Kids|M10_C10_Kids|M10|
 |Pritom|M10_C10_Kids_EEA|M10_C10_Kids_EEA|M10|
+|Pritom|M10_C11|M10_C11|M10|
 |Pritom|M10_C11|M10_C11|M10_C11|
 |Pritom|M10_C11_Kids|M10_C11_Kids|M10_C11_Kids|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
@@ -44951,6 +44957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|A200S|VILLAON-V6752L|VILLAON V6752L|
 |VILLAON|AC52|VILLAON-V501L|VILLAON V501L|
 |VILLAON|AC65|VILLAON-V652L|VILLAON V652L|
+|VILLAON|F30|VILLAON-V671N|VILLAON V671N|
 |VILLAON|Telkom TS pro|VILLAON-V40s|VILLAON V651L|
 |VILLAON|V-Pad1|VP10001L|VP10001L|
 |VILLAON|V-Pad1|VP10001L|VP1001L_Liv|
@@ -50796,6 +50803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |elevn|elevn_eTab|elevn_eTab|elevn_eTab|
 |enGo|SmartPad|SmartPad|SmartPad_01|
 |eroc|F1|BOS|TV Stick|
+|faytech|faytech|ALL-IN-One_Touch_Screen|FT75RK3588OB|
 |fezawio|F10_EEA|F10_EEA|F10_EEA|
 |fezawio|F10_US|F10_US|F10_US|
 |fezawio|F11_EEA|F11_EEA|F11_EEA|
@@ -51968,6 +51976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|T5 Pro 5G|V2568|V2568|
 |vivo|T5x 5G|V2545|V2545|
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
