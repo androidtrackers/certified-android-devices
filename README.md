@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-21
+Last sync is 2026-04-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -768,6 +768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|AS10W|AS10W|AS10W|
 |Acer|AS10WF|AS10WF|AS10WF|
 |Acer|AS10WF_NEO_EEA|AS10WF_NEO|AS10WF NEO|
+|Acer|AS20WF_NEO|AS20WF_NEO|AS20WF|
 |Acer|AS8W|AS8W|AS8W|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
 |Acer|ATAB1024E|ATAB1024E|ATAB1024E|
@@ -13101,6 +13102,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|E10_A_EEA|E10_A|E10_A|
 |HUIHUANG|M10_EU|M10|M10|
 |HUIHUANG|M10_ROW|M10|M10|
+|HUIHUANG|M11|M11|M11|
+|HUIHUANG|M11_EEA|M11|M11|
 |HUIHUANG|T3L2|T3L2|T3L2|
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
@@ -13261,6 +13264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|I4|I4|I4|
 |Haier|I50|i50_b1b8|I50|
 |Haier|I6_Infinity|I6_Infinity|I6_Infinity|
+|Haier|IFPD|IFPD|E30ID|
 |Haier|INGO-TAB|INGO-TAB|INGO-TAB|
 |Haier|INNOVA android TV|hanyang|INNOVA 4K Android TV|
 |Haier|India|nippori|MAGELITE Android TV 2K|
@@ -17865,6 +17869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|S1|S1|S1|
 |Invens|Spain|nagata|INVES SMART TV|
 |Invens|ULTRA 13P|ULTRA_13P|ULTRA 13P|
+|Invens|ULTRA_S25_EEA|ULTRA_S25|ULTRA S25|
 |Invens|UNO|UNO|UNO|
 |Invens|WE1|WE1|WE1|
 |Inventus|CT1|Beige|CT1|
@@ -18412,6 +18417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JCB_Phone|ToughPhone_E10_EEA|ToughPhone_E10|Toughphone E10|
+|JCB_Phone|Toughphone_E50_EEA|Toughphone_E50|Toughphone E50|
 |JCB_UK|JCB_TP231|JCB_TP231|JCB TP231|
 |JECTNOTE|Interactive_whiteboard|JT_PH86TOC|JT_PH86TOC|
 |JECTOR|FM-U|FM-U|FM-U|
@@ -18435,6 +18441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI V70 5G|J2507|J2507|
+|JOVI|JOVI X300 Ultra|J2510|J2510|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y21|J2503|J2503|
@@ -21595,6 +21602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT_Mobile|LT_K80|LT_mobile_K80|LT K80|
 |LT_Mobile|LT_mobile_C26|LT_mobile_C26|LT C26|
 |LT_Mobile|LT_mobile_C27|LT_mobile_C27|LT C27|
+|LT_Mobile|LT_mobile_C28|LT_mobile_C28|LT C28|
 |LT_Mobile|LT_mobile_C60|LT_mobile_C60|LT C60|
 |LT_Mobile|LT_mobile_E16|LT_mobile_E16|LT E16|
 |LT_Mobile|LT_mobile_E18|LT_mobile_E18|LT E18|
@@ -23467,8 +23475,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|M3|M3|M3|
 |M-Horse|M5|M5|M5|
 |M-Horse|MHORSE M|M_HORSE_M|M_HORSE_M|
+|M-Horse|M_HORSE_M26|M_HORSE_M26|M26|
 |M-Horse|Note 50 Pro Max|Note_50_Pro_Max|Note 50 Pro Max|
 |M-Horse|P1|P1|P1|
+|M-Horse|Pad_17|Pad_17|Pad_17|
 |M-Horse|Pad_17ProMax|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pad_17ProMax_RU|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pure 2|Pure-2|Pure 2|
@@ -28942,6 +28952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch X|OWWE231|OWWE231|
 |Oppo|OPPO Watch X2|OWWE251|OWWE251|
 |Oppo|OPPO Watch X2 Mini|OWWE242|OWWE242|
+|Oppo|OPPO Watch X3|OWWE261|OWWE261|
 |Oppo|OnePlus Watch 3 43mm|OPWE242|OPWE242|
 |Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
@@ -32828,6 +32839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI A7 Pro|arctic|25128RN17Y|
 |Redmi|REDMI A7 Pro 5G|somalia|26020RN1AI|
 |Redmi|REDMI K Pad|turner|25079RPDCC|
+|Redmi|REDMI K Pad 2|yili|26048RP6AC|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI K80 Ultra|dali|25060RK16C|
@@ -33864,6 +33876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|WUUM_TAB_EEA|WUUM_TAB|WUUM TAB|
 |SPC|ZEUS 2|ZEUS_2|ZEUS 2|
 |SPC|ZEUS 2 PRO|ZEUS_2_PRO|ZEUS 2 PRO|
+|SPC|ZEUS_2_ELITE_EEA|ZEUS_2_ELITE|ZEUS 2 ELITE|
 |SPC Mobile|APOLO|APOLO|APOLO|
 |SPC Mobile|GRAVITY-2-MAX|GRAVITY-2-MAX|GRAVITY-2-MAX|
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
@@ -42283,6 +42296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECHLIFE|TLPADL03|TLPADL03|TLPADL03|
 |TECHLIFE|TLPADNEO_a|TLPADNEO|TLPADNEO|
 |TECHLIFE|TLPADP04|TLPADP04|TLPADP04|
+|TECHLIFE|TLPADP05|TLPADP05|TLPADP05|
 |TECHLIFE|TLPADPLUS|TLPADPLUS|TLPADPLUS|
 |TECHLIFE|TechLife Pad Pro 12|TLPADPRO1|TLPADPRO1|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
@@ -44957,7 +44971,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|A200S|VILLAON-V6752L|VILLAON V6752L|
 |VILLAON|AC52|VILLAON-V501L|VILLAON V501L|
 |VILLAON|AC65|VILLAON-V652L|VILLAON V652L|
-|VILLAON|F30|VILLAON-V671N|VILLAON V671N|
 |VILLAON|Telkom TS pro|VILLAON-V40s|VILLAON V651L|
 |VILLAON|V-Pad1|VP10001L|VP10001L|
 |VILLAON|V-Pad1|VP10001L|VP1001L_Liv|
@@ -44969,10 +44982,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|V40s|VILLAON-V40s|VILLAON V651L|
 |VILLAON|V50s|VILLAON-V653L|VILLAON V653L|
 |VILLAON|V50s|VILLAON-V654L|VILLAON V654L|
+|VILLAON|VILLAON Aeon One 5G|VILLAON-V671N|VILLAON V671N|
+|VILLAON|VILLAON F30|VILLAON-V671N|VILLAON V671N|
 |VILLAON|VILLAON Hyper 100|VILLAON-V6752L|VILLAON V6752L|
 |VILLAON|VILLAON V30|V30|VILLAON V30|
 |VILLAON|VILLAON V30|VILLAON-V30|VILLAON V30|
 |VILLAON|VILLAON V45s|VILLAON-V652L|VILLAON V652L|
+|VILLAON|VILLAON X50|VILLAON-V671NP|VILLAON V671NP|
 |VILLAON|VP1002L-OP|VILLAON-VP1002L|VILLAON-VP1002L|
 |VILLAON|Vibe 50|VILLAON-V653L|VILLAON V653L|
 |VILLAON|Vodacom A06s|VILLAON-V652L|VILLAON V652L|
@@ -46752,11 +46768,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vu Televisions|43UA|ikebukuro|AI PONT|
 |Vu Televisions|50CA|samseong|AI PONT|
 |Vu Televisions|50CLED/55CLED/65CLED|songshan|VU TV FFM|
-|Vu Televisions|55QMP|hengshan|VU TV FFM|
 |Vu Televisions|Android TV|longshan|AI PONT|
 |Vu Televisions|ULED|wuyishan|VU TV FFM|
 |Vu Televisions|VU 4K|lushan|VU 4K|
 |Vu Televisions|VU 4K Google TV|keoneae|VU 4K Google TV|
+|Vu Televisions|VU SMART TV|hengshan|VU TV FFM|
 |Vu Televisions|fushan_vu|hamamatsucho|Smart 2K ATV4|
 |Vu Televisions|huangshan_emV|huangshan|VU TV|
 |Vu Televisions|xiaoyushan-vu|xiaoyushan|HiSmartTV A4|
