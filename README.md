@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-22
+Last sync is 2026-04-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9181,6 +9181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL (Africa)|X90|X90a|X90|
 |EL(elongmobile)|Pad-S11|Pad-S11|Pad-S11|
 |EL(elongmobile)|Pad_S7|Pad_S7|Pad_S7|
+|EL(elongmobile)|Pad_S8|Pad_S8|CF-TBC103S|
 |EL(elongmobile)|Pad_S8|Pad_S8|Pad_S8|
 |ELC(cn)|M108|M108|M108|
 |ELDMandate|10BIZ332|10BIZ332|10BIZ332|
@@ -19852,6 +19853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE8mini|MOVE8mini_Q|MOVE8mini|
 |Kruger&Matz|MOVE9|MOVE9|MOVE9|
 |Kruger&Matz|MOVE_8.1|MOVE_8_1|MOVE_8|
+|Kruger_Matz|DRIVE_11_EEA|DRIVE_11|DRIVE 11|
 |Kruger_Matz|EAGLE_1077|KM1077|KM1077|
 |Kruger_Matz|EAGLE_1077S|KM1077S|KM1077S|
 |Kruger_Matz|EAGLE_1078|KM1078|KM1078|
@@ -26286,6 +26288,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 70|roadstr|motorola edge 70|
 |Motorola|motorola edge 70 fusion|marvel|motorola edge 50 ultra|
 |Motorola|motorola edge 70 fusion|marvel|motorola edge 70 fusion|
+|Motorola|motorola edge 70 pro|merc|motorola edge 2025|
+|Motorola|motorola edge 70 pro|merc|motorola edge 70 pro|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -48050,6 +48054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Watch 2|axolotlaxie|Xiaomi Watch 2|
 |Xiaomi|Xiaomi Watch 2 Pro|axolotl|Xiaomi Watch 2 Pro|
 |Xiaomi|Xiaomi Watch 2 Pro|axolotlte|Xiaomi Watch 2 Pro|
+|Xiaomi|Xiaomi Watch 5|blenny|Xiaomi Watch 5|
 |Xiaomi|Xiaomi civi 3|yuechu|23046PNC9C|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
 |Xiaomi|Xiaomi pad 6|pipa|23043RP34G|
@@ -50829,6 +50834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |fezawio|F12_EEA|F12_EEA|F12_EEA|
 |fezawio|F12_US|F12_US|F12_US|
 |fezawio|F8_EEA|F8_EEA|F8_EEA|
+|fibwi|fibwi|fibwi_B866W12M|fibwi|
 |firstIT|FIRSTIT_IFPD|rk3588_t|FIT_Series|
 |firstIT|Interactive_whiteboard|FIT_G8613TCVR|FIT_G8613TCVR|
 |fiscat|fap5_rk76|fap5_rk76|fap5_rk76|
@@ -51193,6 +51199,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMuz|G10E|G10|G10|
 |iMuz|IM-B101F|IM-B101F|IM-B101F|
 |iMuz|IM-B101H|IM-B101H|IM-B101H|
+|iMuz|IM-B102|IM-B102|IM-B102|
 |iMuz|IM-H031|IM-H031|IM-H031|
 |iMuz|IM-H092L|IM-H092L|IM-H092L|
 |iMuz|IM-H092W|IM-H092W|IM-H092W|
