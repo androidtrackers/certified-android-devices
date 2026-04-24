@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-23
+Last sync is 2026-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3175,6 +3175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azatech|AZATECH|jagalchi|2K SMART TV|
 |Azatech|AZATECH|stanford|SMART TV|
 |Azatech|AZATECH|zhongshan|4K SMART TV|
+|Azeyou|AT1002|AT1002|AT1002J|
 |Azeyou|AT1002J|AT1002J|AT1002J|
 |Azeyou|AT1011E|AT1011E|AT1011E|
 |Azeyou|AT1011U|AT1011U|AT1011U|
@@ -4344,6 +4345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|Pad7_Pro|Pad7_Pro|BSM3|
 |Blackshark|Pad7_WiFi|Pad7_WiFi|BSM4|
 |Blackshark|Pad_7_Pro_UE|Pad_7_Pro_UE|Pad_7_Pro_UE|
+|Blackshark|Pad_Air7|Pad_Air7|BSM4|
 |Blackshark|SHARK KSR-A0|kaiser|SHARK KSR-A0|
 |Blackshark|SHARK PRS-A0|penrose|SHARK PRS-A0|
 |Blackshark|SHARK PRS-H0|penrose|SHARK PRS-H0|
@@ -6370,6 +6372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cipherlab|RK26|RK26|RK26|
 |Cipherlab|RK26 U|RK26PLUS|RK26|
 |Cipherlab|RK95|RK95|RK95|
+|Cipherlab|RK96|RK96|RK96|
 |Cipherlab|RS10|RS10|RS10|
 |Cipherlab|RS30|Mercury|CipherLab RS30|
 |Cipherlab|RS31|RS31|RS31|
@@ -11921,6 +11924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GreenLion|G-30_ULTRA|G-30_ULTRA|Max Tab22|
 |GreenLion|G-8_PRO|G-8_PRO|G-8 PRO|
 |Greentel|A10Pro|A10Pro|A10Pro|
+|Greentel|A10_Pro|A10_Pro|A10_Pro|
 |Greentel|A10_premium|A10_premium|A10_premium|
 |Greentel|A8|A8|A8|
 |Greentel|A9|A9|A9|
@@ -12122,6 +12126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HERAN|Smart TV|alimos|AI PONT|
 |HERAN|Smart TV|bridgeport|AI PONT PLUS FF|
 |HERAN|Smart TV|dangni|AI PONT|
+|HEROFUN|BH1002H|BH1002H|BH1002H|
 |HEROFUN|BH502G|BH502G|BH502G|
 |HEROFUN|BH558G|BH558G|BH558G|
 |HEROFUN|BH805G|BH805G|BH805G|
@@ -14757,6 +14762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
 |Honor|荣耀Magic8 Pro Air|HNLDY-M|LDY-AN00|
+|Honor|荣耀MagicPad3 Pro 12.3|HNYLE-Q|YLE-W09|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN00|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN80|
 |Honor|荣耀Power2|HNSER-M|SER-AN00|
@@ -14803,6 +14809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|T10A|T10A|T10A|
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
+|Horion|HORION|jagalchi|2K SMART TV|
 |Horion|IFPD|65W72B|W72B|
 |Horion|K7A|K7A|K7A|
 |Horion|M6APro|M6APro|M6APro|
@@ -23688,6 +23695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAI_TOUCH|IFP MIRAI TOUCH|PE3S_Series|PE3S_Series|
 |MIRAI_TOUCH|MXXCE3XE|rk3588_t|MXXCE3XE|
 |MIRAI_TOUCH|MXXCE4S|InteractiveFlatPanelDisplay|bytello_edla|
+|MIRAI_TOUCH|MXXCE4X|InteractiveFlatPanelDisplay|MXXCE4X|
 |MIRAI_TOUCH|PE4S|PE4S_Series|PE4S_Series|
 |MIRAY|Android TV|R1|ATV R1|
 |MIRAY|Android TV|R2|ATV R2|
@@ -23735,6 +23743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLAB|MB8717|MB8717|MB8717|
 |MLAB|MB8866|MB8866|MB8866|
 |MLAB|MB8992|MB8992|MB8992|
+|MLAB|MLAB9785|MLAB9785|MLAB 9785 STUDIO COVER PRO 10|
 |MLAB|MLAB9786|MLAB9786|MLAB 9786 STUDIO SUITE PRO 12|
 |MLAB|MLAB_GLOWY7|MLAB_GLOWY7|MLAB_GLOWY7|
 |MLAB|MLAB_GLOWY8|MLAB_GLOWY8|MLAB_GLOWY8|
@@ -26039,6 +26048,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2022)|milan|motorola|
 |Motorola|moto g stylus (2023)|gnevan|moto g 5G (2022)|
 |Motorola|moto g stylus (2023)|gnevan|moto g stylus (2023)|
+|Motorola|moto g stylus - 2026|lamy|moto g stylus - 2025|
+|Motorola|moto g stylus - 2026|lamy|moto g stylus - 2026|
 |Motorola|moto g stylus 5G|denver|moto g stylus (2021)|
 |Motorola|moto g stylus 5G|denver|moto g stylus 5G|
 |Motorola|moto g stylus 5G (2022)|milanf|moto g stylus 5G (2022)|
@@ -26288,6 +26299,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 70|roadstr|motorola edge 70|
 |Motorola|motorola edge 70 fusion|marvel|motorola edge 50 ultra|
 |Motorola|motorola edge 70 fusion|marvel|motorola edge 70 fusion|
+|Motorola|motorola edge 70 fusion +|marvel|motorola edge 50 ultra|
+|Motorola|motorola edge 70 fusion +|marvel|motorola edge 70 fusion plus|
 |Motorola|motorola edge 70 pro|merc|motorola edge 2025|
 |Motorola|motorola edge 70 pro|merc|motorola edge 70 pro|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
@@ -31797,6 +31810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_A05|K7_A05|K7|
 |Pritom|K7_A05_EEA|K7_A05_EEA|K7|
 |Pritom|K7_A06|K7_A06|K7|
+|Pritom|K7_A07K|K7_A07K|K7|
 |Pritom|K7_A07K|K7_A07K|K7_A07K|
 |Pritom|K7_A101|K7_A101|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101|
@@ -32870,6 +32884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 15R|spring|25057RA09C|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Pad 2 Pro|flute|25099RP13C|
+|Redmi|REDMI Pad 2 SE|guitar|2603ARP14C|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
 |Redmi|REDMI Turbo 5 Max|dash|2602BRT18C|
@@ -35055,6 +35070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Buddy2|m23xq|SM-M236L|
 |Samsung|Galaxy Buddy3|a15x|SM-A156L|
 |Samsung|Galaxy Buddy4|a16x|SM-A166L|
+|Samsung|Galaxy Buddy5|a17x|SM-A176L|
 |Samsung|Galaxy C5|c5ltechn|SM-C5000|
 |Samsung|Galaxy C5|c5ltechn|SM-C500X|
 |Samsung|Galaxy C5|c5pltechn|SM-C5000|
@@ -42763,6 +42779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M50Pro_RUS|M50Pro_RUS|M50 Pro_RUS|
 |Teclast|M50S_EEA|M50S_EEA|M50S|
 |Teclast|M50S_ROW|M50S_ROW|M50S|
+|Teclast|M50T_EEA|M50T_EEA|M50T_EEA|
 |Teclast|M50_EEA|M50_T|M50_EEA|
 |Teclast|M50_EU|M50_EU|M50|
 |Teclast|M50_EU|M50_EU|M50_EU|
