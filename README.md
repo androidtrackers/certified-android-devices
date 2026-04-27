@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-26
+Last sync is 2026-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -143,6 +143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ADOC|ADOC  D18|ADOC_D18|ADOC D18|
 |ADOC|ADOC EX650|rk3588_t|ADOCEX650|
 |ADOC|ADOC TCAT10|ADOC_TCAT10|ADOC TCAT10|
+|ADOC|Adoc_T20|Adoc_T20|Adoc_T20|
 |ADOC|D30|D30|D30|
 |ADOC|D40|D40|D40|
 |ADOC|M3|M3|M3|
@@ -10959,6 +10960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G9|G9_1|G9|
 |G-Tab|GTAB_P8|GTAB_P8|P8|
 |G-Tab|GTab_X|X|X|
+|G-Tab|MEGA13|MEGA13|MEGA13|
 |G-Tab|N271|N271|N271|
 |G-Tab|N28|N28|N28|
 |G-Tab|N281|N281|N281|
@@ -11321,6 +11323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geo (GeoTechVision)|GEO10|GEO10|GEO10X|
 |GeoMax|GeoMax Zenius08|Zenius08|GMT-08QA-2301|
 |GeoPhone|geo_s7|geo_S7|Geo S7|
+|GeoPhone|geo_s9|geo_S9|Geo S9|
 |Geoelectron|P9IV|P9IV_Handheld|P9IV|
 |Geoelectron|P9IV_Handheld_EEA|P9IV_Handheld|P9IV|
 |Gertec|SK-210|SK-210|SK-210|
@@ -28361,6 +28364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Ace 5 竞速版|OP60F9L1|PLF110|
 |OnePlus|OnePlus Ace 5 至尊版|OP60EDL1|PLC110|
 |OnePlus|OnePlus Ace 6|OP6113L1|PLQ110|
+|OnePlus|OnePlus Ace 6 至尊版|OP64D7L1|PMB110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
@@ -29953,6 +29957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|Q8PRO|Q8PRO|Q8K PRO|
 |PEICHENG|Q8S_Pro|Q8S_Pro|Q8S_Pro|
 |PEICHENG|YQ10SA_MAX|YQ10SA_MAX|YQ10S_MAX|
+|PEICHENG|YQ10SC_MAX|YQ10SC_MAX|YQ10SC_MAX|
 |PEICHENG|YQ10SC_MAX|YQ10SC_MAX|YQ10S_MAX|
 |PEICHENG|YQ10SPRO|YQ10SPRO|YQ10S|
 |PEICHENG|YQ10ST_MAX|YQ10ST_MAX|YQ10S_MAX|
@@ -30040,6 +30045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C71|serenity|25028PC03I|
 |POCO|POCO C75|lake|2410FPCC5G|
 |POCO|POCO C75 5G|warm|24116PCC1I|
+|POCO|POCO C81x|serenity|26020PCB4I|
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
 |POCO|POCO C85 5G|tornado|2508CPC2BI|
@@ -31960,6 +31966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M30_EEA|M30_EEA|M30_EEA|
 |Pritom|M60|M60|M60|
 |Pritom|M60_EEA|M60_EU|M60_EEA|
+|Pritom|P10MAX|P10MAX|P10MAX|
 |Pritom|P7|P7|P7|
 |Pritom|P7|P7_A1|P7|
 |Pritom|P7PLUS|P7PLUS|P7PLUS|
@@ -32874,7 +32881,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|POCO F5|marblein|23049PCD8I|
 |Redmi|REDMI 15A 5G|somalia|2602BRNA4I|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
+|Redmi|REDMI A7|serenity|26020RNB4I|
 |Redmi|REDMI A7 Pro|arctic|25128RN17A|
+|Redmi|REDMI A7 Pro|arctic|25128RN17I|
 |Redmi|REDMI A7 Pro|arctic|25128RN17L|
 |Redmi|REDMI A7 Pro|arctic|25128RN17Y|
 |Redmi|REDMI A7 Pro 5G|somalia|26020RN1AI|
@@ -32904,6 +32913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 15 Pro+5G|flourite|2510ERA8BI|
 |Redmi|REDMI Note 15 SE 5G|kunzite|26022PCACI|
 |Redmi|REDMI Note 15R|spring|25057RA09C|
+|Redmi|REDMI Note 15R Pro|beryl|24094RAD4C|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Pad 2 Pro|flute|25099RP13C|
 |Redmi|REDMI Pad 2 SE|guitar|2603ARP14C|
@@ -38588,6 +38598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Singtech|i-Tab Mini 3|iTab|i-Tab Mini 3|
 |Singtel TV|VIP7702|f561|VIP7702|
 |SinoGNSS|R60 Data Collector|R60|R60|
+|Sinoeview|TA_IFPD|TA-L|TA-L|
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Sinum|TAB-11|TAB-11|TAB-11|
 |Siragon|R3_GTV|R3_GTV|R3G|
@@ -39037,6 +39048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartfy|T701|T701|T701|
 |Smartfy|T701S|T701S|T701S|
 |Smartfy|T702|T702|T702|
+|Smartfy|T702S|T702S|T702S|
 |Smarti|Smarti T2 plus|Smarti_T2_plus|Smarti T2 plus|
 |Smarti|Smarti_Gen_1|Smarti_Gen_1|Smarti_Gen_1|
 |Smarti|Smarti_Gen_2|Smarti_Gen_2|Smarti_Gen_2|
@@ -42537,6 +42549,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOUCH_DYNAMIC|QuestGamingTablet|QuestGamingTablet|QuestGamingTablet|
 |TOUCH_DYNAMIC|Vector|Vector|Vector|
 |TOUMAI|MI_1|MI_1|MI_1|
+|TOXIIK|A30|A30|TOXIIK_A30|
+|TOXIIK|A40|A40|A40|
 |TOXIIK|A7K|A7K|A7K|
 |TOXIIK|M10_KID|TOXIIK_M10_KID|M10_KID|
 |TOXIIK|TOXIIK_A8|TOXIIK_A8|A8|
@@ -50642,6 +50656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|STELLAR_M5|STELLAR_M5|STELLAR M5|
 |Zuum|STELLAR_M6|STELLAR_M6|STELLAR M6|
 |Zuum|STELLAR_P8|STELLAR_P8|STELLAR P8|
+|Zuum|Sens_G_Ultra|Sens_G_Ultra|Sens G Ultra|
 |Zuum|Stellar Max|Stellar_Max|Stellar Max|
 |Zuum|ULTRA Z|Ultra_Z|ULTRA Z|
 |Zuum|VOLTA_KIDS|VOLTA_KIDS|VOLTA_KIDS|
@@ -52130,8 +52145,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y50s AI版|PD2443|V2443A|
 |vivo|Y51 Pro 5G|V2545L|V2544|
 |vivo|Y51 Pro 5G|V2545L|V2613|
+|vivo|Y6|PD2531|V2531A|
 |vivo|Y60|PD2559|V2559A|
 |vivo|Y60 AI版|PD2559|V2559A|
+|vivo|Y600 Pro|PD2561|V2561A|
+|vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y60m|PD2559|V2559BA|
 |vivo|Y6t|PD2559|V2559A|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
