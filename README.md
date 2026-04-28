@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-27
+Last sync is 2026-04-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -767,6 +767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|AK330s|C8n|AK330S|
 |Acer|ARSP25MTA14A1|ARSP25MTA14A1|ARSP25MTA14A1|
 |Acer|AS10L|AS10L|AS10L|
+|Acer|AS10L_A16|AS10L_A16|AS10L|
 |Acer|AS10W|AS10W|AS10W|
 |Acer|AS10WF|AS10WF|AS10WF|
 |Acer|AS10WF_NEO_EEA|AS10WF_NEO|AS10WF NEO|
@@ -6002,6 +6003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ceibal|Ibirapita|A81F|A81F|
 |Ceibal|KIL-TAB82WIFI|KIL-TAB82WIFI|KIL-TAB82WIFI|
 |Ceibal|Kil-82WFDC|Kil-82WFDC|Kil-82WFDC|
+|Ceibal|Minchir|Minchir|Minchir|
 |Ceibal|Minchir|Minchir|bnd|
 |Ceibal|RIGEL|RIGEL|RIGEL|
 |Ceibal|TC80RA1|TC80RA1_3|TC80RA1|
@@ -33909,6 +33911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|GRAVITY_6_PRO_12_EEA|GRAVITY_6_PRO_12|GRAVITY PRO|
 |SPC|GRAVITY_6_SE_11_EEA|GRAVITY_6_SE_11|GRAVITY 6 SE 11|
 |SPC|GRAVITY_7_11_EEA|GRAVITY_7_11|GRAVITY|
+|SPC|GRAVITY_7_PRO_11_EEA|GRAVITY_7_PRO_11|GRAVITY_PRO|
 |SPC|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC|Indonesia|guandu|SPC Android TV|
 |SPC|L80W|L80W|L80W|
@@ -42758,6 +42761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|k13pro|K13pro|K13pro|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Techview|S1000Pro|S1000Pro|S1000Pro|
+|Techview|S15Pro|S15Pro|S15Pro|
 |Techview|S17Pro|S17Pro|S17Pro|
 |Techview|Techview_Tab_80_LTE|Tab_80_LTE|Tab_80_LTE|
 |Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
@@ -50926,6 +50930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |hitabt|P30A|P30A|P30A|
 |hitabt|T30A_SY07PC01|T30A_SY07PC01|SY07-PC01|
 |hitabt|T30A_SY07PC01|T30A_SY07PC01|T30A|
+|hoco|hoco_A15|hoco_A15|hoco_A15|
 |hoco|hoco_HI10|hoco_HI10|A523 PRO|
 |hoco|hoco_HI10|hoco_HI10|K108|
 |hoco|hoco_HI10|hoco_HI10|hoco_HI10|
