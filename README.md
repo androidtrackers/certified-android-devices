@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-28
+Last sync is 2026-04-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30047,6 +30047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C71|serenity|25028PC03I|
 |POCO|POCO C75|lake|2410FPCC5G|
 |POCO|POCO C75 5G|warm|24116PCC1I|
+|POCO|POCO C81|arctic|25128PC17I|
 |POCO|POCO C81x|serenity|26020PCB4I|
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
@@ -43385,6 +43386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 7 Neo|TECNO-LJ6|TECNO LJ6|
 |Tecno|TECNO POVA 7 Pro 5G|TECNO-LJ8|TECNO LJ8|
 |Tecno|TECNO POVA 7 Ultra 5G|TECNO-LJ9|TECNO LJ9|
+|Tecno|TECNO POVA 8 5G|TECNO-LK6|TECNO LK6|
 |Tecno|TECNO POVA Curve 2 5G|TECNO-LK7k|TECNO LK7k|
 |Tecno|TECNO POVA Curve 5G|TECNO-LJ8k|TECNO LJ8k|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
