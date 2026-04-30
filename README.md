@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-04-29
+Last sync is 2026-04-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3204,6 +3204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azeyou|K10U|K10|K10|
 |Azeyou|M17QF27A|M17QF27A|M17QF27A|
 |Azeyou|M17T11|M17T11|M17T11|
+|Azeyou|M17T11_US|M17T11|M17T11|
 |Azeyou|M87QF6-4G|M87QF6-4G|M87QF6-4G|
 |Azeyou|T11|T11|T11|
 |Azeyou|T12E|T12E|T12E|
@@ -9106,6 +9107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
 |ECOPAD|C30plus|C30plus|C30plus|
 |ECOPAD|C30plus_EEA|C30plus|C30plus|
+|ECOPAD|C30plus_US|C30plus|C30plus|
 |ECOPAD|C5Pro|C5Pro|C5Pro|
 |ECOPAD|C5Pro_EEA|C5Pro|C5Pro|
 |ECOPAD|K12L1|K12L1|K12L1|
@@ -13130,6 +13132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|M10_ROW|M10|M10|
 |HUIHUANG|M11|M11|M11|
 |HUIHUANG|M11_EEA|M11|M11|
+|HUIHUANG|M11_US|M11|M11|
 |HUIHUANG|S90Pro_EEA|S90Pro|S90Pro|
 |HUIHUANG|T3L2|T3L2|T3L2|
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
@@ -18470,6 +18473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|S91A|lonavla|S91A|
 |JMGO|V62A|holan|V62A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
+|JOVI|JOVI T1 5G|J2502|J2502|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI V70 5G|J2507|J2507|
 |JOVI|JOVI X300 Ultra|J2510|J2510|
@@ -21701,6 +21705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LYNKNEX|PX5|LYNKNEX-PX5|PX5|
 |LYOTECH_LABS|LFi_ONE_EEA|LFi_ONE|LFi ONE|
 |LZF(shenzhen)|Z1A|Z1A|Z1A|
+|LZF(shenzhen)|Z1A_US|Z1A|Z1A|
 |LZF(shenzhen)|Z2|Z2|Z2|
 |LZF(shenzhen)|Z3|Z3|Z3|
 |LZU_lzu|D113|D113|D113|
@@ -29965,6 +29970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|YQ10ST_MAX|YQ10ST_MAX|YQ10S_MAX|
 |PEICHENG|YQ11M|YQ11M|YQ11M|
 |PEICHENG|YQ11MK|YQ11MK|YQ11MK|
+|PEICHENG|ZB10A|ZB10A|ZB10A|
 |PEICHENG|ZB31|ZB31|ZB31|
 |PEICHENG|ZB32|ZB32|ZB32|
 |PEICHENG|ZB32A|ZB32A|ZB32|
@@ -32374,6 +32380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quantum|Elise_T65|Elise_T65|Elise_T65|
 |Quantum|Elise_T65V|Elise_T65V|Elise T65V|
 |Quantum|Elise_T65V|Elise_T65V|Elise T80P|
+|Quantum|Elise_T65V|Elise_T65V|Elise T90A|
 |Quantum|FLY|Q7|Quantum Fly|
 |Quantum|Fit|QF73|Quantum Fit|
 |Quantum|Go|Q1|Quantum Go|
@@ -32863,6 +32870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
+|RebotAi|D101|D101|D101_PRO|
 |RebotAi|D101_EEA|D101_EEA|D101|
 |RebotAi|D101_EEA|D101_EEA|D101_EEA|
 |RebotAi|K101|K101|K101|
@@ -34255,6 +34263,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P11_pro|P11|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11_pro_EEA|
+|SVITOO|P12_A|P12_A|P12_A|
+|SVITOO|P12_A_EEA|P12_A|P12_A|
+|SVITOO|P12_A_US|P12_A|P12_A|
 |SVITOO|SVITOO_P10|SVITOO_P10|P10|
 |SVITOO|TAB_P10|TAB_P10|TAB_P10|
 |SVITOO|TAB_P10_CZ_ROW|TAB_P10_CZ_ROW|TAB_P10|
@@ -44128,6 +44139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TrueBoard|750TAIO|TAIO|750TAIO|
 |TrueIDTV|CHMT52|GIU7AG0D|CHMT52|
 |TrueIDTV|T3AMX3|SEI600TID|T3AMX3|
+|TrumpMobile|T1|T1|SGG-06|
 |TrustKernel|PS01|PS01|PS01|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
@@ -44769,6 +44781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unifi-TV|unifi-TV|HP40A3|unifi-TV|
 |Unifi-TV|unifi-TV|HP43A|unifi-TV|
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
+|Unifone|Q6511Y|Q6511Y|Q6511Y|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
 |Unihertz|Atom_L|Atom_L|Atom_L|
@@ -52068,6 +52081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|T5 Pro|V2529|V2602|
 |vivo|T5 Pro 5G|V2568|V2568|
 |vivo|T5x 5G|V2545|V2545|
 |vivo|V60|V2511|V2511|
@@ -52084,6 +52098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70 FE|V2550|V2551|
 |vivo|V70 FE|V2550|V2552|
 |vivo|V70 FE|V2550|V2558|
+|vivo|V70 Lite 5G|V2529|V2615|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
