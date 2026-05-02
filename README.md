@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-01
+Last sync is 2026-05-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32065,6 +32065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
 |Proscan|PROSCAN 2K SMART TV|nagata|PROSCAN 2K SMART TV|
 |Proscan|Smart TV|dangni|AI PONT|
+|Prosonic|SGC4K|BDO|SGC4K|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
 |Proximus|Proximus TV|uiw4020pxm|decoder|
 |Proximus|Proximus TV|uiw4068pxm|tvbox|
