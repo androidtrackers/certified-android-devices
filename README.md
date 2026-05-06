@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-04
+Last sync is 2026-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2031,6 +2031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apolosign|K709A|K709A|K709A|
 |Apolosign|NW1495T_ROW|NW1495T|NW1495T|
 |Apolosign|Packgo|AP2718T|AP2718T|
+|Apolosign|PackgoAP2718T|AP2718TS2|AP2718T|
 |Apolosign|PortableTV|SW3299T|SW3299T|
 |Apolosign|PortableTV|SW3299T|SW3299T-4K|
 |Apolosign|PortableTVSW3299TFHD|SW3299TFHD|StandMe|
@@ -5487,6 +5488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABERAV2|CTABERAV2|CTABERAV2|
 |CEPTER|CTABEVOP12|CTABEVOP12|CTABEVOP12|
 |CEPTER|CTABLOTUSV2|CTABLOTUSV2|CTABLOTUSV2|
+|CEPTER|CTABNEXT10S|CTABNEXT10S|CTABNEXT10S|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
 |CEPTER|CTABNEXUS8128|CTABNEXUS8128|CTABNEXUS8128|
 |CEPTER|CTABNEXUSG|CTABNEXUSG|CTABNEXUSG|
@@ -14428,6 +14430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle 4K Plus|SEID00DBYG|Dongle 4K Plus|
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
+|Homatics|G Series|HPH|G Series|
 |Homatics|Global|YQB|Dongle R 4K|
 |Homatics|Global|YQX|Dongle G 4K|
 |Homatics|Kickpi|YYZ|KP1|
@@ -17072,6 +17075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INSYS|KP1_S10|KP1_S10|KP1_S10|
 |INSYS|KT9-70RA|KT9-70RA|KT9-70RA|
 |INSYS|WH2-9832|WH2-9832|WH2-9832|
+|INStaD|YP-10|YP-10|YP-10|
 |INTELITY|IN101|IN101|IN101|
 |INTOUCH|Smartboard|int999G|int999G|
 |INUSUAL|INUTAB21|INUTAB21|INUTAB21|
@@ -22802,6 +22806,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab m11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab m11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab6|A101LV|A101LV|
+|Lenovo|Lenovo ThinkTab X11 Gen 1 / Lenovo ThinkTab X11 (EG)|TB353FU|TB353FU|
+|Lenovo|Lenovo ThinkTab X11 Gen 1 / Lenovo ThinkTab X11 (EG)|TB353ZA|TB353ZA|
+|Lenovo|Lenovo ThinkTab X11 Gen 1 / Lenovo ThinkTab X11 (EG)|TB353ZU|TB353ZU|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
 |Lenovo|Lenovo YOGA Laptop with Android|YOGABOOK12|Lenovo YB-Q501F|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
@@ -28395,6 +28402,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord CE4|OP5D3FL1|CPH2613|
 |OnePlus|OnePlus Nord CE4 Lite 5G|OP5D49L1|CPH2619|
 |OnePlus|OnePlus Nord CE4 Lite 5G|OP5D49L1|CPH2621|
+|OnePlus|OnePlus Nord CE6|OP6505L1|CPH2807|
+|OnePlus|OnePlus Nord CE6 Lite|OP68D9L1|CPH2943|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2028|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2029|
@@ -29940,6 +29949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
+|PEICHENG|CP10SPro|CP10SPro|CP10SPro|
 |PEICHENG|CP10S_Pro|CP10S_Pro|CP10S_Pro|
 |PEICHENG|CP20TGOLD|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
@@ -30054,6 +30064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C75|lake|2410FPCC5G|
 |POCO|POCO C75 5G|warm|24116PCC1I|
 |POCO|POCO C81|arctic|25128PC17I|
+|POCO|POCO C81 Pro|arctic|25128PC17G|
 |POCO|POCO C81x|serenity|26020PCB4I|
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
@@ -31818,6 +31829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio_Solutions|Vitruoso|BO11A1W|PSTA107|
 |Pretech|1108|1108A|L1108|
 |Pretech|1108A|1108A|L1108|
+|Pretech|L1008|L1008|L1008|
 |Pretech|L1108|L1108|P301_L1108|
 |Pretech|WP101|WP101|WP101|
 |Pretech|WP30|WP30|WP30|
@@ -33442,6 +33454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|T80|scoutx|T80|
 |Rhino|Vision_12|Vision_12|Vision 12|
 |Rhino|Vision_7|Vision_7|Vision 7|
+|Rhino|sentinel|sentinel|T85|
 |Ricoh|AXX10|AXX10|AXX10|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rimo_Mobile|Rimo|Rimo|Rimo|
@@ -34284,6 +34297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|V13|V13|V13|
 |SVITOO|V13_B|V13_B|V13_B|
 |SVITOO|V13_B_EEA|V13_B|V13_B|
+|SVITOO|V13_B_US|V13_B|V13_B|
 |SVITOO|V13_EEA|V13|V13|
 |SWACONNECT|SWA310|SWA310|SWA310|
 |SWACONNECT|SWA310_NEU|SWA310|BCGA92|
@@ -40536,10 +40550,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|K10_RU|K10|K10|
 |TABWEE|T12_Pro_EEA|T12_Pro|T12 Pro|
 |TABWEE|T12_Pro_NEU|T12_Pro|T12 Pro|
+|TABWEE|T12_Pro_RU|T12_Pro|T12 Pro|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
 |TABWEE|T30_EA|T30_EA|T30|
 |TABWEE|T30_NEU|T30_NEU|T30|
+|TABWEE|T30_US|T30_US|T30|
 |TABWEE|T50_EEA|T50|T50|
 |TABWEE|T60_EA|T60|T60|
 |TABWEE|T60_NEU|T60|T60|
@@ -44140,7 +44156,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TrueBoard|750TAIO|TAIO|750TAIO|
 |TrueIDTV|CHMT52|GIU7AG0D|CHMT52|
 |TrueIDTV|T3AMX3|SEI600TID|T3AMX3|
-|TrumpMobile|T1|T1|SGG-06|
 |TrustKernel|PS01|PS01|PS01|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
@@ -46675,6 +46690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
 |Volt Mobile|v7|v7|v7|
 |Volvo|EX30|habanero|EX30|
+|Volvo|Volvo|ihu42|Volvo|
 |Volvo|Volvo|ihu_abl_car|Volvo|
 |Volvo|Volvo|moose|Volvo|
 |Volvo|Volvo XC40 Emulator|ihu_emulator|Volvo XC40|
@@ -51662,6 +51678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5261|RE6478L1|RMX5261|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
+|realme|RMX5366|RE6488|RMX5366|
 |realme|RMX5377|RE648B|RMX5377|
 |realme|RMX5388|RE60BA|RMX5388|
 |realme|RMX5555|RE6441L1|RMX5555|
@@ -51752,6 +51769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C100|RE646B|RMX5353|
 |realme|realme C100 5G|RE6478L1|RMX5258|
 |realme|realme C100i|RE648B|RMX5377|
+|realme|realme C100x|RE6488|RMX5366|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15|RMX2180|RMX2180|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
@@ -52100,6 +52118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70 FE|V2550|V2552|
 |vivo|V70 FE|V2550|V2558|
 |vivo|V70 Lite 5G|V2529|V2615|
+|vivo|V70 Lite 5G|V2529|V2637|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X200 FE|V2503|V2503|
