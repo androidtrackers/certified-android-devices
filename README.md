@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-06
+Last sync is 2026-05-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3199,6 +3199,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azeyou|AT801|AT801|AT801|
 |Azeyou|AT801U|AT801U|AT801U|
 |Azeyou|AT_701B|AT_701B|AT_701B|
+|Azeyou|F27E|F27E|F27E|
 |Azeyou|F8E|F8|F8|
 |Azeyou|F8U|F8|F8|
 |Azeyou|K10E|K10|K10|
@@ -12242,6 +12243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOLO|X10|X10|X10|
 |HOLO|X20|K12B|X20|
 |HOLO|XPLAY3|XPLAY3|XPLAY3|
+|HOLO|XULTRA2|XULTRA2|A510 4G|
 |HOLO|XULTRA2|XULTRA2|XULTRA2|
 |HOLO|XULTRA3|XULTRA3|XULTRA3|
 |HOLO|XULTRAPLUS|XULTRAPLUS|XULTRAPLUS|
@@ -29852,6 +29854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|E700M|E700M|E700M|
 |PAX (CN)|L1450P|L1450P|L1450P|
 |PAX (CN)|L1620|L1620|L1620|
+|PAX (CN)|M11|M11|M11|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
 |PAX (CN)|M8|M8|M8|
@@ -33341,6 +33344,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P60_EEA|P60_EEA|P60|
 |Relndoo|P60_EUR|P60_EUR|P60_EUR|
 |Relndoo|P60_ROW|P60_ROW|P60|
+|Relndoo|P60_U|P60_U|P60_U|
 |Relndoo|P60_US|P60_US|P60_US|
 |Relndoo|P60_U_US|P60_U_US|P60|
 |Relndoo|P60_U_US|P60_U_US|P60_U_US|
@@ -52126,6 +52130,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X200T|V2561|V2561|
 |vivo|X300|PD2509|V2509A|
 |vivo|X300|V2515|V2515|
+|vivo|X300 FE|V2537|V2537|
+|vivo|X300 FE|V2537|V2542|
+|vivo|X300 FE|V2537|V2633|
 |vivo|X300 Pro|PD2502|V2502A|
 |vivo|X300 Pro|V2514|V2514|
 |vivo|X300 Pro 卫星通信版|PD2502|V2502DA|
