@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-07
+Last sync is 2026-05-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5488,6 +5488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABERA101|CTABERA101|CTABERA101|
 |CEPTER|CTABERAV2|CTABERAV2|CTABERAV2|
 |CEPTER|CTABEVOP12|CTABEVOP12|CTABEVOP12|
+|CEPTER|CTABLOTUS11KB|CTABLOTUS11KB|CTABLOTUS11KB|
 |CEPTER|CTABLOTUSV2|CTABLOTUSV2|CTABLOTUSV2|
 |CEPTER|CTABNEXT10S|CTABNEXT10S|CTABNEXT10S|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
@@ -14428,6 +14429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Box Q|HND|Box Q|
 |Homatics|Box R 4K|YVR|Box R 4K|
 |Homatics|Box R 4K Plus|YYJ|Box R 4K Plus|
+|Homatics|Box R Lite 4K|YYZ|Box R Lite 4K|
 |Homatics|CTV 4K BOX|SEI700CG|CTV 4K BOX|
 |Homatics|Dongle 4K Plus|SEID00DBYG|Dongle 4K Plus|
 |Homatics|Dongle Q|ICN|Dongle Q|
@@ -14442,7 +14444,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Stick 4K|YZF|Stick 4K|
 |Homatics|Stick HD|IAD|Stick HD|
 |Homatics|TG STREAM 2|TL_4KOA|TG STREAM 2|
-|Homatics|Test|YYZ|Box R Lite 4K|
 |Homatics|XG Glasses|SEI700GHMG|XR Theater G|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
@@ -14722,6 +14723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X5c Plus|HNNLA-M|NLA-LX1|
 |Honor|HONOR X5c Plus|HNNLA-M|NLA-LX2P|
 |Honor|HONOR X5d|HNNLA-M|NAA-LX2|
+|Honor|HONOR X5d|HNNLA-M|NAA-LX3|
 |Honor|HONOR X5d Plus|HNNLA-M|NAA-LX2P|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|
 |Honor|HONOR X6|HNVNE-M|VNE-LX2|
@@ -14758,6 +14760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7d|HNLGN-QL|LGN-LX1|
 |Honor|HONOR X7d|HNLGN-QL|LGN-LX2|
 |Honor|HONOR X7d|HNLGN-QL|LGN-LX3|
+|Honor|HONOR X7e|HNLAB-M|LAB-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -26049,6 +26052,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
 |Motorola|moto g - 2025|kansas|moto g - 2025|
 |Motorola|moto g - 2025|kansas|moto g play - 2024|
+|Motorola|moto g - 2026|utah|moto g - 2025|
+|Motorola|moto g - 2026|utah|moto g - 2026|
 |Motorola|moto g 5G|kiev|moto g 5G|
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G (2022)|austin|moto g 5G (2022)|
@@ -26059,10 +26064,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g 5G - 2024|fogo|moto g 5G - 2024|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
+|Motorola|moto g max|naples|moto g max|
+|Motorola|moto g max|naples|moto g67|
 |Motorola|moto g play (2021)|guamna|moto g play (2021)|
 |Motorola|moto g play (2021)|guamna|moto g play (XT2093DL)|
 |Motorola|moto g play - 2024|fogona|moto g play - 2024|
 |Motorola|moto g play - 2024|fogona|motorola edge 40 pro|
+|Motorola|moto g play - 2026|nevada|moto g - 2025|
+|Motorola|moto g play - 2026|nevada|moto g play - 2026|
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power (2021)|borneo|moto g power|
 |Motorola|moto g power (2021)|borneo|moto g power (2021)|
@@ -26261,6 +26270,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g86 5G|nice|motorola edge 50 neo|
 |Motorola|moto g86 power 5G|nice|moto g86 power 5G|
 |Motorola|moto g86 power 5G|nice|motorola edge 50 neo|
+|Motorola|moto g87|naples|moto g max|
+|Motorola|moto g87|naples|moto g67|
+|Motorola|moto g87|naples|moto g87|
 |Motorola|moto g96 5G|cuscoi|moto g96 5G|
 |Motorola|moto g96 5G|cuscoi|motorola edge 50 fusion|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -26406,6 +26418,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60d M-51F|M-51F|M-51F|
 |Motorola|motorola razr 60s|aito|motorola razr 50s|
 |Motorola|motorola razr 60s|aito|motorola razr 60s|
+|Motorola|motorola razr 70 plus|eiger|motorola razr 50 ultra|
+|Motorola|motorola razr 70 plus|eiger|motorola razr 70 plus|
 |Motorola|motorola razr fold|blanc|motorola edge 50 ultra|
 |Motorola|motorola razr fold|blanc|motorola razr fold|
 |Motorola|motorola razr fold 2026|blanc|motorola edge 50 ultra|
@@ -28429,6 +28443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2103|
 |OnePlus|OnePlus Pad|OP59BCL1|OPD2203|
 |OnePlus|OnePlus Pad|OP615AL1|OPD2407|
+|OnePlus|OnePlus Pad 4|OP657AL1|OPD2514|
 |OnePlus|OnePlus Pad Go|OP5DA6L1|OPD2304|
 |OnePlus|OnePlus Pad Lite|OP6194L1|OPD2480|
 |OnePlus|OnePlus Pad Lite|OP6195L1|OPD2481|
@@ -29954,6 +29969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|AT74K|AT74K|AT74K|
 |PEICHENG|CP10SPro|CP10SPro|CP10SPro|
 |PEICHENG|CP10S_Pro|CP10S_Pro|CP10S_Pro|
+|PEICHENG|CP20SA|CP20SA|CP20|
 |PEICHENG|CP20TGOLD|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
@@ -30827,6 +30843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|S7220|S7220|S7220|
 |Philips|S8300|S8300|S8300|
 |Philips|S8306|S8306|S8306|
+|Philips|S8308|S8308|S8308|
 |Philips|Smart TV|dangni|SWTV|
 |Philips|Smart TV|guui|PHILIPS 4k TV|
 |Philips|Smart TV|hino|PHILIPS TV|
@@ -33581,6 +33598,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S5006|RUIO_S5006|S5006|
 |Ruio|S5521|S5521|Orange Kova one|
 |Ruio|S5521|S5521|S5521|
+|Ruio|S5521Q|S5521|Orange Kova one|
+|Ruio|S5521Q|S5521|S5521|
 |Ruio|S6501|S6501|S6501|
 |Ruio|S6506|S6506|S6506|
 |Ruio|S6528|S6528|S6528|
@@ -34360,6 +34379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-24SA-4K NF|eleonas|SWTV-24SA-4K NF|
 |SWTV|SWTV-24SA-FHD|beomil|SWTV-24SA-FHD|
 |SWTV|SWTV-25TGL-4K|katehaki|SWTV-25TGL-4K|
+|SWTV|SWTV-26AE-4K|sapporo|SWTV-26AE-4K|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -38434,6 +38454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP AQUOS V1mini|SG1|FS8018|
 |Sharp|SHARP Android TV|SW4H_FF|SHARP Android TV|
 |Sharp|SHARP FHD TV|takao|SHARP FHD TV|
+|Sharp|SHARP PH 2K Smart TV|umeda|SHARP 2K Smart TV|
 |Sharp|SHARP R1S|SK3|FS8028|
 |Sharp|SHARP TBC|SI3|FS8025|
 |Sharp|SHARP UHD TV|OD0M_EA_T32|SHARP UHD TV|
@@ -40606,6 +40627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|A1|T1_LE|T770K|
 |TCL|AQUOS V6|Cruze_Lite_S|SH-C03|
 |TCL|AQUOS V6 plus|Cruze_Pro|SH-C04|
+|TCL|AT&T amiGO™ Jr. Tab 2|Selene_ATT|8189K|
 |TCL|Alcatel 1|Macau|5033E|
 |TCL|Alcatel 1B|Seoul|5002W|
 |TCL|Alcatel A31 Pro|DahliaMax|T451A|
@@ -40943,6 +40965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB 8 LTE Gen2|Venus_4G_GL|8188G|
 |TCL|TCL TAB 8 NEO|Apollo_8_4G|9032|
+|TCL|TCL TAB 8 NXTPAPER 5G|Selene_ATT|8189R|
 |TCL|TCL TAB 8 NXTPAPER 5G|Selene_VZW|8189S|
 |TCL|TCL TAB 8 Plus|Luna_8_4G_VZW|9138S|
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136K|
@@ -42904,6 +42927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30S_ROW|P30S_ROW|P30S_ROW|
 |Teclast|P30S_W_EEA|P30S_W_EEA|P30S_W_EEA|
 |Teclast|P30S_W_ROW|P30S_W_ROW|P30S_W_ROW|
+|Teclast|P30T_BN_EEA|P30T_BN_EEA|P30T|
 |Teclast|P30T_BN_EEA|P30T_BN_EEA|bnd|
 |Teclast|P30T_EEA|P30T|P30T|
 |Teclast|P30T_EEA|P30T_B|P30T|
@@ -43925,6 +43949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topsand|N8|N8|N8|
 |Topsand|N8_KIDS|N8_KIDS|N8 KIDS|
 |Topsand|N8_Plus|N8_Plus|N8_Plus|
+|Topwise|SK-315|SK-315|SK-315|
 |Topwise|SK210|SK210|SK210|
 |Torex|Rugged_tablets|Torex8plus|Torex8plus|
 |Tormaxx|TX_R-824|TX_R-824|TX_R-824|
@@ -44160,6 +44185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TrueBoard|750TAIO|TAIO|750TAIO|
 |TrueIDTV|CHMT52|GIU7AG0D|CHMT52|
 |TrueIDTV|T3AMX3|SEI600TID|T3AMX3|
+|TrumpMobile|T1|T1|SGG-06|
 |TrustKernel|PS01|PS01|PS01|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
@@ -52104,6 +52130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
+|vivo|T5|V2543|V2583|
 |vivo|T5 Pro|V2529|V2602|
 |vivo|T5 Pro 5G|V2568|V2568|
 |vivo|T5x 5G|V2545|V2545|
@@ -52167,6 +52194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d|V2543|V2582|
 |vivo|Y31d|V2543|V2611|
 |vivo|Y31d|V2543|V2636|
+|vivo|Y31d Pro|V2543U|V2543|
 |vivo|Y31e 5G|V2521|V2533|
 |vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
