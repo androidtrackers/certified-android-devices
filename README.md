@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-08
+Last sync is 2026-05-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5209,6 +5209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|X22|X0010WW|X22|
 |Blu|X5|X0020|X5|
 |Blu|X5 PLUS|X0050|X5 PLUS|
+|Blu|X6|X0060|C8|
 |Blu|X6|X0060|X6|
 |Bluboo|D1|BLUBOO_D1|D1|
 |Bluboo|D1_Pro|D1_Pro|D1_Pro|
@@ -5498,6 +5499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABTERRA128|CTABTERRA128|CTABTERRA128|
 |CEPTER|CTABTERRA256|CTABTERRA256|CTABTERRA256|
 |CEPTER|CTABTITAN12|CTABTITAN12|CTABTITAN12|
+|CEPTER|vileparle|vileparle|R6G|
 |CERAGEM|CGM-ESAT-2501|CGM-ESAT-2501|CGM-ESAT-2501|
 |CG Inspiring Life|Android TV|R1|ATV R1|
 |CG Inspiring Life|Android TV|R2|ATV R2|
@@ -26197,6 +26199,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g34 5G|fogos|moto g34 5G|
 |Motorola|moto g34 5G|fogos|moto g53 5G|
 |Motorola|moto g35 5G|manila|moto g35 5G|
+|Motorola|moto g37|sydnyl|moto g - 2025|
+|Motorola|moto g37|sydnyl|moto g37|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g41|corfu|moto g41|
 |Motorola|moto g41|corfu|motorola|
@@ -26420,6 +26424,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60s|aito|motorola razr 60s|
 |Motorola|motorola razr 70 plus|eiger|motorola razr 50 ultra|
 |Motorola|motorola razr 70 plus|eiger|motorola razr 70 plus|
+|Motorola|motorola razr 70 ultra|lhotse|motorola razr 60 ultra|
+|Motorola|motorola razr 70 ultra|lhotse|motorola razr 70 ultra|
 |Motorola|motorola razr fold|blanc|motorola edge 50 ultra|
 |Motorola|motorola razr fold|blanc|motorola razr fold|
 |Motorola|motorola razr fold 2026|blanc|motorola edge 50 ultra|
