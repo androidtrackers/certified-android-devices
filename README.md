@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-10
+Last sync is 2026-05-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5382,6 +5382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bubblegum|BUB6R-3T|BUB6R-3T|BUB6R-3T|
 |Bubblegum|Bubblegum|Bubblegum|Bubblegum|
 |Bubblegum|Junior_7|Junior_7|Junior_7|
+|Bubblegum|Junior_7_LTE|Junior_7_LTE|Junior_7_LTE|
 |Buddy Phone|P1|BP|P1|
 |Buddy Phone|P2|P2|P2|
 |Buddy Phone|P3|P3|P3|
@@ -9732,6 +9733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Entity|ENT71QF12|ENT71QF12|ENT71QF12|
 |Entity|ENT75QF620_EEA|ENT75QF620|ENT75QF620|
 |Entity|ENTG1011|ENTG1011|ENTG1011|
+|Entity|ENTITY_ERA_TAB_8|ENTITY_ERA_TAB_8|ENTITY_ERA_TAB_8|
 |Entity|ENTITY_G10|ENTITY_G102IN1HARDKB|ENTITY_G102IN1HARDKB|
 |Entity|EntityG12Pro|EntityG12Pro|EntityG12Pro|
 |Entity|G10XM|G10XM|G10XM|
@@ -18279,6 +18281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A04|itel-A632W|itel A632W|
 |Itel|itel A04|itel-A632WM|itel A632WM|
 |Itel|itel A04s|itel-A632L|itel A632L|
+|Itel|itel A06|itel-A669W|itel A669W|
 |Itel|itel A100|itel-A673L|itel A673L|
 |Itel|itel A100C|itel-A6611L|itel A6611L|
 |Itel|itel A11|itel_A11|itel A11|
@@ -18368,6 +18371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel CITY 200|itel-C681L|itel C681L|
 |Itel|itel CITY 200|itel-C681LN|itel C681LN|
 |Itel|itel CITY 200+|itel-C672L|itel C672L|
+|Itel|itel CITY 200s|itel-C681LN|itel C681LN|
 |Itel|itel City100|itel-C671L|itel C671L|
 |Itel|itel KidPad 1|Itel-W7001|Itel W7001|
 |Itel|itel L5007A|itel-L5007A|itel L5007A|
@@ -18445,6 +18449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itel|itel-A16-Plus|itel-A16-Plus|itel A16 Plus|
 |Itel|itel-A510W|itel-A510W|itel A510W|
+|Itel|itel-A669L|itel-A669L|itel A669L|
 |Itel|itel-IKP-31|itel-IKP-31|IKP-31|
 |Itel|itel-L5007S|itel-L5007S|itel L5007S|
 |Itel|itel-Pad-2|itel-Pad-2|itel-P10002L|
@@ -18766,6 +18771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jooyon|Q27CMA11|Q27CMA11|Q27CMA11|
 |Jooyon|UHD Android TV|sindorim|AI PONT|
 |JoyStar|J6|J6|Joystar J6|
+|JoyStar|JoyStar_J10|JoyStar_J10|A310 4G|
 |JoyStar|JoyStar_J10|JoyStar_J10|JoyStar_J10|
 |JoyStar|Joystar_J16|Joystar_J16|Joystar J16|
 |JoyStar|Joystar_J16|Joystar_J16|Joystar_J16|
@@ -23532,6 +23538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|Note 50 Pro Max|Note_50_Pro_Max|Note 50 Pro Max|
 |M-Horse|P1|P1|P1|
 |M-Horse|Pad_17|Pad_17|Pad_17|
+|M-Horse|Pad_17Pro|Pad_17Pro|Pad_17Pro|
 |M-Horse|Pad_17ProMax|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pad_17ProMax_RU|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pure 2|Pure-2|Pure 2|
@@ -29970,6 +29977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|Smart TV|dangni|AI PONT IT|
 |PEAQ|Smart TV|osaka|AI PONT|
 |PEAQ|Smart TV|osaka|AI PONT DE|
+|PEEPandLEARN|PLPro|PLPro|PLPro|
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
@@ -33737,6 +33745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|SEGO_NOTE_80|SEGO_NOTE_80|NOTE 80|
 |SEGO|SEGO_NOTE_80|SEGO_NOTE_80|NOTE_80|
 |SEGO|SEGO_S24|S24|S24|
+|SEGO|SEGO_Smart_20_HD|SEGO_Smart_20_HD|Smart_20_HD|
 |SEGO|SEGO_Zero_50|ZERO_50|ZERO 50|
 |SEGO|S_PAD|S_PAD|DT6P30YK|
 |SEGO|S_PAD|S_PAD|S_PAD|
