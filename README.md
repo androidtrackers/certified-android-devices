@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-11
+Last sync is 2026-05-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -806,6 +806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L|AcerOne8T4-82L|Acer One 8 T4-82L|
 |Acer|Acer One 8 T4-82L|AcerOne8T4-82Lxi|Acer One 8 T4-82L|
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
+|Acer|Acer One 8 T4-82L-G2|AcerOne8T4-82L-G2|Acer One 8 T4-82L-G2|
 |Acer|Acer One 8 T4-82L-G2|AcerOne8T4-82L-G2|AcerOne8T4-82L-G2|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
 |Acer|Acer One T10-22L|AOT10-22L|Acer One T10-22L|
@@ -5494,6 +5495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABLOTUSV2|CTABLOTUSV2|CTABLOTUSV2|
 |CEPTER|CTABNEXT10S|CTABNEXT10S|CTABNEXT10S|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
+|CEPTER|CTABNEXUS6128|CTABNEXUS6128|CTABNEXUS6128|
 |CEPTER|CTABNEXUS8128|CTABNEXUS8128|CTABNEXUS8128|
 |CEPTER|CTABNEXUSG|CTABNEXUSG|CTABNEXUSG|
 |CEPTER|CTABNEXUSW|CTABNEXUSW|CTABNEXUSW|
@@ -7472,6 +7474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEPLAY|E108GCM|E108GCM|E108GCM|
 |DEPLAY|LITE4_EEA|LITE4_EEA|LITE4_EEA|
 |DEPLAY|PRO4|PRO4|PRO4|
+|DEPLAY|SMART5PLUS_B|SMART5PLUS_B|DEPLAY_SMART5PLUS|
 |DEVOPS|DEVOPS|DEVOPS_IFPD|DEVOPS_MT9679|
 |DEWSOD|C9|C9|C9|
 |DEXP|A.350|A350|A350|
@@ -28488,6 +28491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|一加 Ace 6T|OP6117L1|PLR110|
 |OnePlus|一加平板 2|OP6543L1|OPD2508|
 |OnePlus|一加平板 2 Pro|OP615EL1|OPD2413|
+|OnePlus|一加平板 3 Pro|OP6547L1|OPD2513|
 |OnePlus|一加平板Pro|OP5D77L1|OPD2404|
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |OneScreen|OneScreen T7|rk3588_t|T7|
@@ -37530,6 +37534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Wide5|f42x|SM-E426S|
 |Samsung|Galaxy Wide7|m15x|SM-M156S|
 |Samsung|Galaxy Wide8|m16x|SM-M166S|
+|Samsung|Galaxy Wide9|a17x|SM-M176S|
 |Samsung|Galaxy Win|delos3gcmcc|GT-I8558|
 |Samsung|Galaxy Win|delos3gduosctc|SCH-I869|
 |Samsung|Galaxy Win|delos3geur|GT-I8552|
@@ -42506,6 +42511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TIGO|ONEtv|vip6102w|ONEtv|
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMVISION Box|uzw4054tim|TIMVISION Box|
+|TIM|TIMVISION Box|uzy4087tim|TIMVISION Crystal|
 |TIM|TIMVISION VSB|m393vsb_tim|TIMVISION VSB|
 |TIM|TIMVISIONBOX|m393gena_tim|TIMVISIONBOX|
 |TIM|TIMvision|dwt765ti|skipper|
@@ -50472,6 +50478,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC501|TCX01L|TC501|
 |Zebra|TC501|TCX01LD|TC501|
 |Zebra|TC501|TCX01LU|TC501|
+|Zebra|TC501|TCX01W|TC501|
+|Zebra|TC501|TCX01WD|TC501|
+|Zebra|TC501|TCX01WU|TC501|
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
 |Zebra|TC52ax|TC52X|TC52AX|
@@ -50485,6 +50494,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC701|TCX01L|TC701|
 |Zebra|TC701|TCX01LD|TC701|
 |Zebra|TC701|TCX01LU|TC701|
+|Zebra|TC701|TCX01W|TC701|
+|Zebra|TC701|TCX01WD|TC701|
+|Zebra|TC701|TCX01WU|TC701|
 |Zebra|TC70x|TC70x|TC70x|
 |Zebra|TC73|TC73|TC73|
 |Zebra|TC73|TC73T|TC73|
