@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-12
+Last sync is 2026-05-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23544,6 +23544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|Pad_17Pro|Pad_17Pro|Pad_17Pro|
 |M-Horse|Pad_17ProMax|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pad_17ProMax_RU|Pad_17ProMax|Pad_17ProMax|
+|M-Horse|Pad_17Pro_RU|Pad_17Pro|Pad_17Pro|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
@@ -28884,6 +28885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F29 Pro 5G|OP5ECFL1|CPH2705|
 |Oppo|F31 Pro 5G|OP5F19L1|CPH2763|
 |Oppo|F31 Pro+ 5G|OP5F15L1|CPH2757|
+|Oppo|F33 5G|OP5E1BL1|CPH2777|
 |Oppo|F33 Pro 5G|OP62CBL1|CPH2835|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
@@ -32754,6 +32756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realix|RxIS02|RxIS02|RxIS02|
 |Realix|RxIS201|RxIS201|RxIS201|
 |Realix|RxIS202|RxIS202|RxIS202|
+|Realix|RxIS203|RxIS203|RxIS203|
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
 |Realme|RMX3063|RMX3063|RMX3063|
@@ -32977,8 +32980,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 15R|spring|25057RA09C|
 |Redmi|REDMI Note 15R Pro|beryl|24094RAD4C|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
+|Redmi|REDMI Pad 2 9.7|guitar|2603ARP14G|
+|Redmi|REDMI Pad 2 9.7 4G|erhu|2604ERP4DG|
 |Redmi|REDMI Pad 2 Pro|flute|25099RP13C|
 |Redmi|REDMI Pad 2 SE|guitar|2603ARP14C|
+|Redmi|REDMI Pad 2 SE 4G|erhu|2604ERP4DC|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
 |Redmi|REDMI Turbo 5 Max|dash|2602BRT18C|
@@ -40609,6 +40615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T70_NEU|T70|T70|
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
+|TABWEE|T90_US|T90|T90|
 |TABWEE|W90_EEA|W90|W90|
 |TABWEE|W90_NEU|W90|W90|
 |TABWEE|W90_RU|W90|W90|
