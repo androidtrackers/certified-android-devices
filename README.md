@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-13
+Last sync is 2026-05-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9397,6 +9397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVEREST-EVERPAD|DC-8015|mid7015_mk|DC-8015|
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
 |EVO FUSE 4K|EVO FUSE 4K|SEI700L|FUSE 4K|
+|EVO FUSE 4K|EVOFUSE4K-AS|SEI700TV|FUSE4K-Armstrong|
 |EVO FUSE 4K|EVOFUSE4K-BS|SEI700TV|FUSE4K-Bluestream|
 |EVO FUSE 4K|EVOFUSE4K-BUCKEYE|SEI700MOBI|FUSE-MOBI|
 |EVO FUSE 4K|EVOFUSE4K-MOBI|SEI700MOBI|FUSE-MOBI|
@@ -11349,7 +11350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geshem|GS109M2A_EEA|GS109M2A|GS109M2A|
 |Geshem|GS109M3A_EEA|GS109M3A|GS109M3A|
 |Geshem|GS81TE|GS81TE|GS81TE|
-|Get|66896|72839|66896|
+|Get|72839|72839|66896|
 |Get|Get Box|dciw387get|Get boX|
 |Get|Get Box|dciw387get|Get box|
 |Get|Get Box|dciw387get|Telia box|
@@ -32905,6 +32906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|M70_ROW|M70|M70|
 |Rebecco|M70_US|M70_US|M70|
 |Rebecco|X30|X30|A20Plus_ROW|
+|Rebecco|X30|X30|A20Pro_ROW|
 |Rebecco|X30|X30|X30|
 |Rebecco|X30_EEA|X30|X30|
 |Rebecco|Z50_EEA|Z50|Z50|
@@ -39306,6 +39308,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 VII|XQ-FS|XQ-FS44|
 |Sony|Xperia 1 VII|XQ-FS|XQ-FS54|
 |Sony|Xperia 1 VII|XQ-FS|XQ-FS72|
+|Sony|Xperia 1 VIII|XQ-GE|A601SO|
+|Sony|Xperia 1 VIII|XQ-GE|SO-51G|
+|Sony|Xperia 1 VIII|XQ-GE|SOG17|
+|Sony|Xperia 1 VIII|XQ-GE|XQ-GE44|
+|Sony|Xperia 1 VIII|XQ-GE|XQ-GE54|
+|Sony|Xperia 1 VIII|XQ-GE|XQ-GE74|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
@@ -51414,6 +51422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z10 Turbo|PD2452|V2452A|
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQOO|iQOO Z10R 5G|I2505|I2505|
+|iQOO|iQOO Z11 5G|I2512|I2512|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
 |iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
