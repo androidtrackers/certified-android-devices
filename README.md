@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-14
+Last sync is 2026-05-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6384,6 +6384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ciontek|CS30|CS30|CS30|
 |Ciontek|CS50|CS50|CS50|
 |Ciontek|CS50C|CS50C|CS50C|
+|Ciontek|CS50S|CS50S|CS50S|
 |Ciontek|CS50_EEA|CS50|CS50|
 |Cipherlab|Cipherlab RK25|RK25|RK25|
 |Cipherlab|Hera51|Hera51|Hera51|
@@ -26434,6 +26435,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60d M-51F|M-51F|M-51F|
 |Motorola|motorola razr 60s|aito|motorola razr 50s|
 |Motorola|motorola razr 60s|aito|motorola razr 60s|
+|Motorola|motorola razr 70|volcano|motorola razr 50|
+|Motorola|motorola razr 70|volcano|motorola razr 70|
 |Motorola|motorola razr 70 plus|eiger|motorola razr 50 ultra|
 |Motorola|motorola razr 70 plus|eiger|motorola razr 70 plus|
 |Motorola|motorola razr 70 ultra|lhotse|motorola razr 60 ultra|
@@ -28094,6 +28097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
 |ONIDA|R3|R3|R3|
 |ONIDA|R4_GTV|R4_GTV|R4G|
+|ONPAD|Luxon|Luxon|Luxon|
 |ONPAD|Vexon|Vexon|Vexon|
 |ONVO|EMEA|sepolia|ONVO TV|
 |ONYX|AKA Model A|Model_A|Model A|
@@ -31040,6 +31044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pleio|N9600|NETGEM_TV_B866W6M|N9600|
 |Plimpton|Kids10_A15|Kids10_A15|Kids10_A15|
 |Plimpton|Kids10_A15_EEA|Kids10_A15_EEA|Kids10_A15_EEA|
+|Plimpton|Kids10_A15_US|Kids10_A15|Kids10_A15_US|
 |Plimpton|Kids10_A16_EEA_JAE|Kids10_A16_EEA_JAE|Kids10_A16_EEA_JAE|
 |Plimpton|Kids10_A16_JAE|Kids10_A16_JAE|Kids10_A16_JAE|
 |Plimpton|Kids20|Kids20|Kids20|
@@ -32921,6 +32926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AD11_EEA|AD11_EEA|AD11_EEA|
 |RebotAi|AF12|AF12|AF12|
 |RebotAi|AF12_EEA|AF12|AF12|
+|RebotAi|AF12_EEA|AF12|AF12_EEA|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|B11_EEA|B11|B11|
@@ -40901,6 +40907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K33 5G|Beryl_TF|T513V|
 |TCL|TCL K33 5G|Beryl_VZW|T513SP|
 |TCL|TCL K70 4G|Bamboo|T522A|
+|TCL|TCL K70 5G|Monet|T523H|
 |TCL|TCL K70 Power 4G|Bamboo_Power|T522E|
 |TCL|TCL K70 SE|Thyme|T453D|
 |TCL|TCL L10|Faraday|5124J|
