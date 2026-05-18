@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-17
+Last sync is 2026-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9121,6 +9121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|C30plus_US|C30plus|C30plus|
 |ECOPAD|C5Pro|C5Pro|C5Pro|
 |ECOPAD|C5Pro_EEA|C5Pro|C5Pro|
+|ECOPAD|C5Pro_US|C5Pro|C5Pro|
 |ECOPAD|K12L1|K12L1|K12L1|
 |ECOPAD|K90|K90|K90|
 |ECS|RealPad MA7BX2|RealPad_MA7BX2_1|RealPad MA7BX2|
@@ -10366,6 +10367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fairphone|Fairphone3|FP3|FP3|
 |Fairphone|Fairphone4|FP4|FP4|
 |Fairphone|The Fairphone (Gen. 6)|FP6|Fairphone 6|
+|Fairphone|The Fairphone (Gen. 6+)|FP6|Fairphone 6|
 |Famous Fones|Famous Red 5+|Famous_Red_5Plus|Famous Red 5+|
 |Famous Fones|Famous_5|Famous_5|Famous 5|
 |Famous Fones|Famous_5Plus|Famous_5Plus|Famous 5Plus|
@@ -10702,6 +10704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Foxconn|vizio VP700|S1U|VP700|
 |Foxconn|vizio VP800|FCN|VP800|
 |Foxtel|Foxtel Now box|dwt765fxt|Foxtel Now box|
+|Franko|Franko A03|Franko_A03|H6573|
 |Free|Free_Liberty_Plus|Free_Liberty_Plus|Free_Liberty_Plus|
 |Free|Liberty|Liberty|Liberty|
 |Free|Liberty 4G|Liberty_4G|Liberty 4G|
@@ -13140,6 +13143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUGEROCK|T-Smart|H81-4G-M45|T-Smart|
 |HUIHUANG|C90|C90|C90|
 |HUIHUANG|C90_EEA|C90|C90|
+|HUIHUANG|C90_US|C90|C90|
 |HUIHUANG|E10_A|E10_A|E10_A|
 |HUIHUANG|E10_A_EEA|E10_A|E10_A|
 |HUIHUANG|M10_EU|M10|M10|
@@ -29373,6 +29377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Opticon|H-31|h31|h31|
 |Opticon|H-33|h33|h33|
 |Opticon|H-35|H-35|H-35|
+|Optoma|5XX3RK|rk3588_t|UXXSRK|
 |Optoma|IFP3Gen3|SXXSRK|SXXSRK|
 |Optoma|IFP5Gen3|rk3588_t|UXXSRK|
 |Optoma|OPS200|rk3588_t|ACONZZ|
@@ -29894,6 +29899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|L1450P|L1450P|L1450P|
 |PAX (CN)|L1620|L1620|L1620|
 |PAX (CN)|M11|M11|M11|
+|PAX (CN)|M11_US|M11|M11|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
 |PAX (CN)|M8|M8|M8|
@@ -38020,6 +38026,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|2T-C50BG1X|meguro|AQUOS-TVX19C|
 |Sharp|306SH|SG306SH|306SH|
 |Sharp|401SH|SG401SH|401SH|
+|Sharp|4T-**S7A/X7A|tcmar3uj|AQUOS-4KTVJ26-2|
+|Sharp|4T-**S9A/X9A|tcmar3uj|AQUOS-4KTVJ26-1|
 |Sharp|4T-C**AM1/AN1/AL1|8T-C**AX1/AW1|tcsu2uj|
 |Sharp|4T-C**AM1/AN1/AL1|8T-C**AX1/AW1|tcsu2uj|
 |Sharp|4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1|tcmeruj|AQUOS-TVJ19|
@@ -40304,6 +40312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumtec|DV9061|ATL|DV9061|
 |SunDirectMax|SunDirectMax|SEI730SUN|SunDirectMax|
 |Sun_King|EZ 2|EZ_2|EZ 2|
+|Sun_King|EZ 3 Pro|EZ_3_Pro|EZ 3 Pro|
 |Sun_King|EZ_1|EZ1_go|EZ 1|
 |Sun_King|EZ_1|EZ_1|EZ 1|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
@@ -52193,6 +52202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70|V2538|V2538|
 |vivo|V70|V2538|V2539|
 |vivo|V70|V2538|V2540|
+|vivo|V70|V2538|V2588|
 |vivo|V70 Elite|V2548|V2548|
 |vivo|V70 FE|V2550|V2550|
 |vivo|V70 FE|V2550|V2551|
