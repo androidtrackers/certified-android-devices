@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-18
+Last sync is 2026-05-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -866,6 +866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|C01|acer_c01|C01|
 |Acer|C01 (PA)|acer_c01|C01|
 |Acer|C1_EEA|ACER_C1|C1|
+|Acer|C1_TELCEL|C1|C1|
 |Acer|CW01|acer_cw01|CW01|
 |Acer|Chromebook 14 for work|lars_cheets|Acer Chromebook 14 for Work (CP5-471)|
 |Acer|Chromebook 14 for work|lars_cheets|Chromebook 14 for work (CP5-471)|
@@ -10153,6 +10154,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows We2 M07|M07|M07|
 |FCNT|arrows We2 Plus F-51E|F51E|F-51E|
 |FCNT|arrows We2 Plus M06|M06|M06|
+|FCNT|arrows We3|M09|M09|
+|FCNT|arrows We3 M09|M09|M09|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
 |FEITIAN|F310 P|F310P|F310P|
@@ -10704,6 +10707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Foxconn|vizio VP700|S1U|VP700|
 |Foxconn|vizio VP800|FCN|VP800|
 |Foxtel|Foxtel Now box|dwt765fxt|Foxtel Now box|
+|Franko|Franko A01|Franko_A01|H6733|
 |Franko|Franko A03|Franko_A03|H6573|
 |Free|Free_Liberty_Plus|Free_Liberty_Plus|Free_Liberty_Plus|
 |Free|Liberty|Liberty|Liberty|
@@ -11022,6 +11026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|T11_1|T11_1|T11_1|
 |G-Tab|T11_PRO|T11_PRO|T11_PRO|
 |G-Tab|T13|T13|T13|
+|G-Tab|T13_PRO|T13_PRO|T13_PRO|
 |G-Tab|T14|T14|T14|
 |G-Tab|T8S_1|T8S_1|T8S|
 |G-Tab|T8_1|T8_1|T8|
@@ -13154,6 +13159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|S90Pro_EEA|S90Pro|S90Pro|
 |HUIHUANG|T3L2|T3L2|T3L2|
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
+|HUIHUANG|X10S|X10S|X10S|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPERTECH|THATAB|THATAB|THATAB|
@@ -18506,6 +18512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y21|J2503|J2503|
 |JOVI|JOVI Y21 5G|J2508|J2508|
+|JOVI|JOVI Y21e|J2601|J2601|
 |JOVI|JOVI Y29|V2434B|V2445|
 |JOVI|JOVI Y29s 5G|V2446B|V2459|
 |JOVI|JOVI Y31|J2506|J2506|
@@ -19831,6 +19838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|MATRIX PRO|MATRIX_PRO|MATRIX_PRO|
 |Krono|NEOW|NEOW|KONROW|
 |Krono|NET-X2|NET_X2|NET_X2|
+|Krono|NET-X2-2|NET_X2|NET_X2|
 |Krono|NETWORK|NETWORK|NETWORK|
 |Krono|NET_ADVANCE|NET_ADVANCE|NET_ADVANCE|
 |Krono|NET_ALPHA|NET_ALPHA|NET ALPHA|
@@ -26439,6 +26447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60d M-51F|M-51F|M-51F|
 |Motorola|motorola razr 60s|aito|motorola razr 50s|
 |Motorola|motorola razr 60s|aito|motorola razr 60s|
+|Motorola|motorola razr 70|volcano|motorola razr 2026|
 |Motorola|motorola razr 70|volcano|motorola razr 50|
 |Motorola|motorola razr 70|volcano|motorola razr 70|
 |Motorola|motorola razr 70 plus|eiger|motorola razr 50 ultra|
@@ -31913,6 +31922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_A06|K7_A06|K7|
 |Pritom|K7_A07K|K7_A07K|K7|
 |Pritom|K7_A07K|K7_A07K|K7_A07K|
+|Pritom|K7_A07K_EEA|K7_A07K_EEA|K7|
 |Pritom|K7_A101|K7_A101|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101_EEA|
@@ -33528,6 +33538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Riotouch|RK88|RK88|RK88|
 |Riotouch|RK882|RK882|RK882|
 |Rivian|Rivian R1|xmm_revc_r1|Rivian|
 |Riviera|Android TV|ikebukuro|AI PONT|
@@ -37956,6 +37967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SenlinTech|S12_Pro_EEA|S12_Pro_EEA|S12_Pro|
 |SenlinTech|S30-Pro|S30-Pro|S30-Pro|
 |SenlinTech|S30-Pro|S30-Pro|T50PRO|
+|SenlinTech|S30-Pro|S30-Pro|hoco_A15|
 |SenlinTech|pad6_EEA|pad6_EEA|pad6_EEA|
 |Senseit|A109|SENSEIT_A109|SENSEIT_A109|
 |Senseit|C205|C205|C205|
@@ -52052,6 +52064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |redbeat|E3|E3|E3|
 |redbeat|redbeatA2|redbeatA2|RG-TB10|
 |redbeat|redbeatA2|redbeatA2|redbeatA2|
+|redbeat|redbeatA2L|redbeatA2L|A2L|
 |redbeat|redbeatB2|redbeatB2|B2|
 |redbeat|redbeatC1|redbeatC1|C1|
 |redbeat|redbeatC1|redbeatC1|redbeatC1|
@@ -52256,6 +52269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d|V2543|V2636|
 |vivo|Y31d Pro|V2543U|V2543|
 |vivo|Y31e 5G|V2521|V2533|
+|vivo|Y31s 5G|V2521|V2614|
 |vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
@@ -52288,6 +52302,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y60m|PD2559|V2559BA|
+|vivo|Y60s|PD2559|V2559A|
+|vivo|Y60s AI版|PD2559|V2559A|
+|vivo|Y60s m版|PD2559|V2559BA|
 |vivo|Y6t|PD2559|V2559A|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
