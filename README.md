@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-19
+Last sync is 2026-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7434,6 +7434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAIKO|Smart TV|dangni|Daiko Google TV|
 |DAIKO|Smart TV|osaka|AI PONT|
 |DAIYU|MBTWDY01|Mediabox|MBTWDY01|
+|DAMASCO|DAMASCO|dawu|4K SMART TV|
 |DAMASCO|DAMASCO MOBILE SERIE M-300 VISION|SERIE_M_300|SERIE_M_300|
 |DAMASCO|SERIE_M_100|SERIE_M_100|SERIE_M_100|
 |DAMASCO|SERIE_M_200|SERIE_M_200|SERIE_M_200|
@@ -19159,6 +19160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|ELECTRA|elliniko|4K SMART TV|
 |KTCtv|ELECTRA|jagalchi|2K SMART TV|
 |KTCtv|ELEMENT|mountbaker|2K SMART TV|
+|KTCtv|ESLEY|dawu|4K SMART TV|
 |KTCtv|ESLEY|elliniko|4K SMART TV|
 |KTCtv|ESLEY|hongkong|4K SMART TV|
 |KTCtv|ESLEY|lavender|4K SMART TV|
@@ -21604,6 +21606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOFT|D4xx|D4|D4_Interactive_Display|
+|LOGIC|AZ_Series|rk3576_u|Logic_LT_IRXXHX|
 |LOGIC|EX_Series|RK3576|LT-IR65EX|
 |LOGIC|HX_Series|MTK9679|Logic_LT_IRXXHX|
 |LOGIC|L-PAD-PRO-BK|Logic_L-PAD_PRO|Logic_L-PAD_PRO|
@@ -22634,6 +22637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo K8 Plus|marino_f|Lenovo K8 Plus|
 |Lenovo|Lenovo K9|K9|Lenovo L38043|
 |Lenovo|Lenovo Legion Tab|TB320FC|TB320FC|
+|Lenovo|Lenovo Legion Tab (8.8|5)|TB323FU|
 |Lenovo|Lenovo Legion Tab (8.8\'\'|3)|TB321FU|
 |Lenovo|Lenovo Mirage Solo|vega|VR-1541F|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Braswell Chrome OS Device|
@@ -23073,6 +23077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|小新学习平板|TB372FC|TB372FC|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
+|Lenovo|平板拯救者Y700 五代|TB323FU|TB323FU|
 |Lenovo|拯救者平板Y700|TB321FU|TB321FU|
 |Lenovo|拯救者平板Y900|TB570FU|TB570FU|
 |Lenovo|拯救者平板Y900|TB570ZU|TB570ZU|
@@ -24186,6 +24191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|Chile|Bolivia|Peru|
 |Master-G|MASTER-G|elliniko|4K SMART TV|
 |Master-G|MASTER-G|lavender|4K SMART TV|
+|Master-G|MASTER_G|dawu|4K SMART TV|
 |Master-G|MGTBA10OC|MGTBA10OC|MGTBA10OC|
 |Master-G|MGTBA8OC|MGTBA8OC|MGTBA8OC|
 |Master-G|Master-G|hongkong|4K SMART TV|
@@ -32929,6 +32935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rebecco|X30|X30|A20Plus_ROW|
 |Rebecco|X30|X30|A20Pro_ROW|
 |Rebecco|X30|X30|X30|
+|Rebecco|X30_EEA|X30|A20Pro_EEA|
 |Rebecco|X30_EEA|X30|X30|
 |Rebecco|Z50_EEA|Z50|Z50|
 |Rebecco|Z70_EEA|Z70|Z70|
@@ -33524,6 +33531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|Vision_12|Vision_12|Vision 12|
 |Rhino|Vision_7|Vision_7|Vision 7|
 |Rhino|sentinel|sentinel|T85|
+|Rhino|supernova|supernova|C65|
 |Ricoh|AXX10|AXX10|AXX10|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rimo_Mobile|Rimo|Rimo|Rimo|
@@ -48310,6 +48318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtratech|X8MT16|X8MT16|X8MT16|
 |Xtratech|X8MT87|X8MT87|X8MT87|
 |Xtratech|XTRATECH|KT-755M|KT-755M|
+|Xtratech|XTRATECH|dawu|4K SMART TV|
 |Xtreme|Android TV|R1|ATV R1|
 |Xtreme|R3|R3|R3|
 |Xtreme|R4|R4|R4|
