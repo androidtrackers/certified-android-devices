@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-21
+Last sync is 2026-05-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -136,6 +136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|buzz 8 Pro Plus|buzz_8_Pro_Plus|buzz 8 Pro Plus|
 |ACE France|buzz Neo 5G|buzz_Neo_5G|buzz Neo 5G|
 |ACER_ALTOS|ALTOS_EZA|ALTOS_EZA|ALTOS_EZA|
+|ACER_ALTOS|ALTOS_EZAA|ALTOS_EZAA|ALTOS_EZAA|
 |ACKEES|V10401|V10401|V10401|
 |ACT|ACT4K1007|IPBox|ACT4K1007|
 |ACT|ACT4K2020|HP40A|ACT4K2020|
@@ -7321,6 +7322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG ES|KINGKONG_ES|KINGKONG_ES|
 |Cubot|KINGKONG ES 3|KINGKONG_ES_3|KINGKONG ES 3|
+|Cubot|KINGKONG ES 5|KINGKONG_ES_5|KINGKONG ES 5|
 |Cubot|KINGKONG MINI 3|KINGKONGMINI3|KINGKONG MINI 3|
 |Cubot|KINGKONG MINI 4|KINGKONG_MINI_4|KINGKONG MINI 4|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
@@ -7803,6 +7805,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|MID_1099IPS|MID_1099IPS|MID_1099IPS|
 |DOMATON|Ocean_K10|Ocean_K10|Ocean K10|
 |DOMO|M90|M90|M90|
+|DOMO|Slate|Slate|Slate|
+|DOMO|Slate|Slate|T115G|
 |DOMO|Slate_F11|Slate_F11|F11|
 |DOMO|VT502A|VT502A|VT502A|
 |DORA|Android TV|R1|ATV R1|
@@ -14476,6 +14480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Home Elite|Android TV|R2|ATV R2|
 |Home Planet|R4|R4|R4|
 |Homeplustv|HCA6010|HCA6010|HCA-6010|
+|Homeplustv|HCA6010|generic|HCA-6010|
 |Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
 |Homeplustv|STB-6252C|STB6252C|STB-6252C|
 |Homeplustv|VSB-3918|vsb3918_apac|VSB-3918|
@@ -14652,6 +14657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
+|HonlinBook|HL-1012A-333U|HL-1012A-333U|HL-1012A-333U|
 |Honor|Elsa|HNELA-M|ELA-LX2|
 |Honor|Elsa|HNELA-M|ELA-LX3|
 |Honor|HONOR  X9d|HNMTN-Q1|MTN-NX1|
@@ -26330,6 +26336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto razr 40|lynkco|XT2323-3|
 |Motorola|moto razr 40 Ultra|zeekr|XT2321-2|
 |Motorola|moto razr 50|arcfox|XT2451-4|
+|Motorola|moto razr 70 ultra|lhotse|XT2655-4|
 |Motorola|moto tab g20|mototabg20|moto tab g20|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
@@ -26487,6 +26494,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr plus 2025|arcfox|motorola razr plus 2025|
 |Motorola|motorola razr ultra 2025|leap|motorola razr 50 ultra|
 |Motorola|motorola razr ultra 2025|leap|motorola razr ultra 2025|
+|Motorola|motorola razr ultra 2026|lhotse|motorola razr 60 ultra|
+|Motorola|motorola razr ultra 2026|lhotse|motorola razr ultra 2026|
 |Motorola|motorola signature|vantage|motorola edge 50 ultra|
 |Motorola|motorola signature|vantage|motorola signature|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
@@ -27541,6 +27550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nexall|N90_EEA|N90|N90|
 |Nexall|N90_NEU|N90|N90|
 |Nexel|Infinity|Infinity|Infinity|
+|Nexel|Infinity_Lite|Infinity_Lite|Infinity_Lite|
 |Nexian|journey one|Mi438S_sprout|Mi438S|
 |Next|4K TV Stick|YYT|4K Google TV Stick|
 |Next|NEXT|elliniko|4K SMART TV|
@@ -29327,6 +29337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno15 Pro Max 5G|OP6293L1|CPH2811|
 |Oppo|Reno15 Pro Mini 5G|OP629AL1|CPH2813|
 |Oppo|Reno15c|OP61BBL1|PMD110|
+|Oppo|Reno16|OP61F3L1|PMM110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -43828,6 +43839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telpo|C9|C9|C9|
 |Telpo|C9D|C9D|C9D|
 |Telpo|C9H|C9H|C9H|
+|Telpo|L5|L5|L5|
 |Telpo|M1|M1s|M1s|
 |Telpo|M10|M10|M10 for arm64|
 |Telpo|M10B|M10B|Pos terminal|
@@ -51767,6 +51779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|raemond|K80_US_BND|K80_US_BND|K80|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
 |raemond|M70_A|M70_A|K70_PRO|
