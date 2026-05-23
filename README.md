@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-22
+Last sync is 2026-05-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26250,6 +26250,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g35 5G|manila|moto g35 5G|
 |Motorola|moto g37|sydnyl|moto g - 2025|
 |Motorola|moto g37|sydnyl|moto g37|
+|Motorola|moto g37 power|sydnyl|moto g - 2025|
+|Motorola|moto g37 power|sydnyl|moto g37 power|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g41|corfu|moto g41|
 |Motorola|moto g41|corfu|motorola|
@@ -26257,6 +26259,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g42|hawao|moto g42|
 |Motorola|moto g45 5G|fogos|moto g34 5GP|
 |Motorola|moto g45 5G|fogos|moto g45 5G|
+|Motorola|moto g47|sydnyl|moto g - 2025|
+|Motorola|moto g47|sydnyl|moto g47|
 |Motorola|moto g51|cypfq|XT2171-3|
 |Motorola|moto g51|cypfq|moto[SPACE]g(50)|
 |Motorola|moto g51 5G|cypfq|moto g(50)|
@@ -26492,6 +26496,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr plus 2024|arcfox|motorola razr plus 2024|
 |Motorola|motorola razr plus 2025|arcfox|motorola razr plus 2024|
 |Motorola|motorola razr plus 2025|arcfox|motorola razr plus 2025|
+|Motorola|motorola razr plus 2026|eiger|motorola razr 50 ultra|
+|Motorola|motorola razr plus 2026|eiger|motorola razr plus 2026|
 |Motorola|motorola razr ultra 2025|leap|motorola razr 50 ultra|
 |Motorola|motorola razr ultra 2025|leap|motorola razr ultra 2025|
 |Motorola|motorola razr ultra 2026|lhotse|motorola razr 60 ultra|
