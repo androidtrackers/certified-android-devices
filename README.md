@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-24
+Last sync is 2026-05-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21694,6 +21694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT_Mobile|LT_mobile_C27|LT_mobile_C27|LT C27|
 |LT_Mobile|LT_mobile_C28|LT_mobile_C28|LT C28|
 |LT_Mobile|LT_mobile_C60|LT_mobile_C60|LT C60|
+|LT_Mobile|LT_mobile_E101|LT_mobile_E101|LT E101|
 |LT_Mobile|LT_mobile_E16|LT_mobile_E16|LT E16|
 |LT_Mobile|LT_mobile_E18|LT_mobile_E18|LT E18|
 |LT_Mobile|LT_mobile_K80|LT_mobile_K80|LT K80|
@@ -29074,6 +29075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Pad 3 Pro|OP5D76L1|OPD2401|
 |Oppo|OPPO Pad 3 Pro|OP5DA8L1|OPD2402|
 |Oppo|OPPO Pad 5|OP6542L1|OPD2506|
+|Oppo|OPPO Pad 6|OP6929L1|OPD2601|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2302|
 |Oppo|OPPO Pad Neo|OP5DA3L1|OPD2303|
@@ -43039,6 +43041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30S_W_ROW|P30S_W_ROW|P30S_W_ROW|
 |Teclast|P30T_BN_EEA|P30T_BN_EEA|P30T|
 |Teclast|P30T_BN_EEA|P30T_BN_EEA|bnd|
+|Teclast|P30T_BN_ROW|P30T_BN_ROW|P30T_BN_ROW|
 |Teclast|P30T_EEA|P30T|P30T|
 |Teclast|P30T_EEA|P30T_B|P30T|
 |Teclast|P30T_EEA|P30T_B|P30T_EEA|
@@ -43498,6 +43501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
 |Tecno|TECNO MEGAPAD  SE|TECNO-T1102|TECNO T1102|
 |Tecno|TECNO MEGAPAD  SE|TECNO-T1102W|TECNO T1102W|
+|Tecno|TECNO MEGAPAD 2|TECNO-T1103|TECNO T1103|
 |Tecno|TECNO MegaPad 11|TECNO-T1101|TECNO T1101|
 |Tecno|TECNO MegaPad Pro|TECNO-T1201|TECNO T1201|
 |Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
@@ -51793,6 +51797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_B_ROW|M70_B_ROW|M70|
 |raemond|M70_EEA_A|M70_EEA_A|M70|
 |raemond|M70_ROW_A|M70_ROW_A|M70|
+|raemond|M70_US_A|M70_US_A|M70|
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
 |raemond|X70_US|X70_US|X70|
