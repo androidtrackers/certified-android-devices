@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-25
+Last sync is 2026-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5390,6 +5390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Buddy Phone|P1|BP|P1|
 |Buddy Phone|P2|P2|P2|
 |Buddy Phone|P3|P3|P3|
+|BudgetThuis|BTV|DIW253V|DIW253V|
 |Bullitt Group|Cat S60|CatS60|S60|
 |Bullitt Group|CatS31|CatS31|S31|
 |Bullitt Group|S30|CatS30|S30|
@@ -14841,6 +14842,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X80i|HNLNA-M|LNA-AN00|
 |Honor|荣耀平板 10|HNHEY3-Q|HEY3-W00|
 |Honor|荣耀平板10|HNHEY3-Q|HEY3-W10|
+|Honor|荣耀平板20|HNHEY4-Q|HEY4-AN00|
+|Honor|荣耀平板20|HNHEY4-Q|HEY4-W09|
+|Honor|荣耀平板20 柔光版|HNHEY4-Q|HEY4-W19|
 |Honor|荣耀平板GT|HNROL-M|ROL-W60|
 |Honor|荣耀平板GT PRO|HNROD2-Q|ROD2-W69|
 |Honor|荣耀平板GT2 Pro|HNCHG-Q|CHG-W60|
@@ -19020,6 +19024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KJ_Board|KJG IR13|KJG_IR13|KJG_Series|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
+|KODTEC|L10|L10|L10|
 |KOESIO_SCREEN_ISITOUCH|K_SIT_M2|K_SIT_M2|KOESIO SCREEN ISITOUCH|
 |KONDE|KD2|KD2|KD2|
 |KONDE|KIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
@@ -29346,6 +29351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno15 Pro Mini 5G|OP629AL1|CPH2813|
 |Oppo|Reno15c|OP61BBL1|PMD110|
 |Oppo|Reno16|OP61F3L1|PMM110|
+|Oppo|Reno16 Pro|OP61EFL1|PMK110|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -30211,6 +30217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M8 5G|kunzite|25118PC98I|
 |POCO|POCO M8 Pro 5G|flourite|2510EPC8BG|
 |POCO|POCO Pad|dizi|2405CPCFBG|
+|POCO|POCO Pad C1|guitar|2603APC14G|
 |POCO|POCO Pad M1|flute|2509ARPBDG|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
@@ -32990,6 +32997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF12_EEA|AF12|AF12_EEA|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
+|RebotAi|AG11|AG11|AG11|
 |RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
@@ -40686,12 +40694,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T12_Pro_RU|T12_Pro|T12 Pro|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
+|TABWEE|T20_US|T20|T20|
 |TABWEE|T30_EA|T30_EA|T30|
 |TABWEE|T30_NEU|T30_NEU|T30|
 |TABWEE|T30_US|T30_US|T30|
 |TABWEE|T50_EEA|T50|T50|
 |TABWEE|T60_EA|T60|T60|
 |TABWEE|T60_NEU|T60|T60|
+|TABWEE|T60_Pro_US|T60_Pro|T60 Pro|
 |TABWEE|T60_RU|T60|T60|
 |TABWEE|T70_EEA|T70|T70|
 |TABWEE|T70_NEU|T70|T70|
@@ -48247,6 +48257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 17|pudding|25113PN0EC|
 |Xiaomi|Xiaomi 17|pudding|25113PN0EG|
 |Xiaomi|Xiaomi 17|pudding|25113PN0EI|
+|Xiaomi|Xiaomi 17 Max|byron|2605EPN8EC|
 |Xiaomi|Xiaomi 17 Pro|pandora|25098PN5AC|
 |Xiaomi|Xiaomi 17 Pro Max|popsicle|2509FPN0BC|
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAC|
@@ -51692,6 +51703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |miracle_tap|miracle_tap_10|miracle_tap_10|miracle_tap_10|
 |mirarel|16MBTW+|ksr|mirarel JTB Google TV|
 |moderness.online|TK807|TK807|TK807|
+|myAvro|myAvro A1|Agate|A1|
 |mytel|M9501|M9501|M9501|
 |mytel|M9502|M9502|M9502|
 |mytel|M9503|M9503|M9503|
@@ -51789,6 +51801,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|raemond|K50_US_C|K50_US_C|K50|
+|raemond|K70_US_C|K70_US_C|K70|
 |raemond|K80_US_BND|K80_US_BND|K80|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
@@ -51836,6 +51850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5210|RE60C8L1|RMX5210|
 |realme|RMX5258|RE6478L1|RMX5258|
 |realme|RMX5261|RE6478L1|RMX5261|
+|realme|RMX5266|RE6491L1|RMX5266|
 |realme|RMX5303|RE60B8|RMX5303|
 |realme|RMX5313|RE60BA|RMX5313|
 |realme|RMX5366|RE6488|RMX5366|
