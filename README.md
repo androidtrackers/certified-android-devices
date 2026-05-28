@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-27
+Last sync is 2026-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19876,6 +19876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|NET_MAX|NET_MAX|NET_MAX|
 |Krono|NET_ONE|NET_ONE|NET_ONE|
 |Krono|NET_R7|NET_R7|NET_R7|
+|Krono|NET_S|NET_S|NET_S|
 |Krono|NET_TITAN|NET_TITAN|NET_TITAN|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|NET_X2|NET_X2|NET_X2|
@@ -23920,6 +23921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MPman|MPDC1006|MPDC1006|MPDC1006|
 |MPman|MPDC706|MPDC706|MPDC706|
 |MSI|Google Monitor|caoya|Google Monitor|
+|MSI|MS-5575|MS-5575|MS-5575|
 |MSI|MS-NDB3|MS-NDB3|MS-NDB3|
 |MSI|NB32-Gen2|NB32-Gen2|NB32-Gen2|
 |MSI|ND52-Gen2|ND52-Gen2|ND52-Gen2|
@@ -25481,6 +25483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H5112|H5112|H5112|
 |Mobiwire|H6032|H6032|H6032|
 |Mobiwire|H6032 Plus|H6032_Plus|H6032 Plus|
+|Mobiwire|H6033|H6032|H6033|
 |Mobiwire|H6511|H6511|H6511|
 |Mobiwire|H6682|H6682|H6682|
 |Mobiwire|H6682_VDC_TZ|H6682|H6682_VDC_TZ|
@@ -27054,6 +27057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NASCO|SNAP PRO|SNAP_PRO|SNAP_PRO|
 |NASCO|TANGO10|TANGO10|TANGO10|
 |NASCO|Warrior|NAS-400|Warrior|
+|NAUIX|N803S|N803S|N803S|
 |NAV Global|NAV X1|NAV_X1|NAV X1|
 |NAVA|P68|P68|P68|
 |NAXA|NID-7011|NID-7011|NID-7011|
@@ -30273,6 +30277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POWMUS|L211-EEA|L211-EEA|L211-EEA|
 |POWMUS|L30|L30|L30|
 |POWMUS|L60|L60|L60|
+|PRAMA|PRAMA_3576|PRAMA_3576|PRAMA_3576|
 |PRAZteck|2-IN-1_Tablet_PC|PT10EduPad21|PT10EduPad21|
 |PRAZteck|PT116LPREduPad|Laptop|PT116LPREduPad|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
@@ -30960,6 +30965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|T8010A|T8010A|T8010A|
 |Philips|T8015|T8015|T8015|
 |Philips|T8015S|T8015S|T8015S|
+|Philips|T8520|T8520|T8520|
 |Philips|TLE722G|TLE722G|TLE722G|
 |Philips|TLE732|TLE732|TLE732|
 |Philips|V377|Philips_V377|Philips V377|
@@ -34379,6 +34385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
 |SUPERSONIC|USA|yeongdeungpo|SUPERSONIC UHD Android TV|
 |SUPOIN|S66|S66|S66|
+|SURWISE|HUAKETEK|rk3588_h|HS_IFPD08|
 |SUXI|SUXI_I11|SUXI_I11|SUXI I11|
 |SUXI|SUXI_S700|SUXI_S700|SUXI S700|
 |SUXI|T700|T700|T700|
@@ -39301,6 +39308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K UR3|BRAVIA_UR3|BRAVIA 4K UR3|
 |Sony|BRAVIA AE M6L|BRAVIA_AE_M6L|BRAVIA 4K AE1|
 |Sony|BRAVIA AE2|BRAVIA_AE2|BRAVIA 4K AE2|
+|Sony|BRAVIA AE3|BRAVIA_AE3|BRAVIA 4K AE3|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
 |Sony|BRAVIA TL|OD0M_EA_T32|BRAVIA TL|
 |Sony|BRAVIA TL2|OD0M_EA_T32|BRAVIA TL2|
@@ -40822,7 +40830,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TAB 10s New|Odin2|9081X|
 |TCL|TBD|Apollo84GBoostR|9132S|
 |TCL|TBD|Odin_5G_TMO|9183W|
-|TCL|TCL|Scarab_Pro_TF|T510D|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
 |TCL|TCL 10 5G|Seattle|T790Y|
@@ -40933,6 +40940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 50 5G|Dragonfly|T613K|
 |TCL|TCL 50 5G|Dragonfly|T613P|
 |TCL|TCL 50 LE|Scarab_Pro_NA_OM|T510WS|
+|TCL|TCL 50 LE|Scarab_Pro_TF|T510D|
 |TCL|TCL 50 LE|Scarab_Pro_VZW|T510SP|
 |TCL|TCL 50 NXTPAPER 5G|Goldfinch_NP|T702D|
 |TCL|TCL 50 PRO NXTPAPER 5G|Goldfinch_NP_Pro|T803D|
@@ -42538,6 +42546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECHLIFE|TLPADP04|TLPADP04|TLPADP04|
 |TECHLIFE|TLPADP05|TLPADP05|TLPADP05|
 |TECHLIFE|TLPADPLUS|TLPADPLUS|TLPADPLUS|
+|TECHLIFE|TechLife  TLPADM04|TLPADM04|TLPADM04|
 |TECHLIFE|TechLife Pad Pro 12|TLPADPRO1|TLPADPRO1|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
 |TECH_VIEW|Tab_80_pro|Tab_80_pro|Tab_80_pro|
@@ -43507,6 +43516,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 50 Pro|TECNO-CN5c|TECNO CN5c|
 |Tecno|TECNO CAMON 50 Pro 5G|TECNO-CN7c|TECNO CN7c|
 |Tecno|TECNO CAMON 50 Ultra 5G|TECNO-CN7c|TECNO CN7c|
+|Tecno|TECNO CAMON Slim|TECNO-CN6c|TECNO CN6c|
+|Tecno|TECNO CAMON Slim/Air|TECNO-CN6c|TECNO CN6c|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
