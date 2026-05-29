@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-28
+Last sync is 2026-05-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3447,6 +3447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLUEING|M1867G|M1867G|M1867G|
 |BLUESTAR|B850J|B850J|B850J|
 |BLUEWORLD|TM12|TM12|TM12|
+|BMAX|10_Pro|10_Pro|10_Pro|
 |BMAX|BMAX_I9|BMAX_I9|BMAX_I9|
 |BMAX|I10|I10|I10|
 |BMAX|I10Pro_LTE|I10Pro_LTE|I10Pro|
@@ -18517,6 +18518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JMGO|C61A|holan|C61A|
 |JMGO|C62A|holan|C62A|
+|JMGO|H93A|songni|H93A|
 |JMGO|K62A|holan|K62A|
 |JMGO|K80A|holan|K80A|
 |JMGO|N1S Infinity|lonavla|K92A|
@@ -22648,7 +22650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336ZU|TB336ZU|
 |Lenovo|Lenovo Idea Tab Plus / Lenovo Tab K12|TB361FU|TB361FU|
 |Lenovo|Lenovo Idea Tab Pro|TB373FU|TB373FU|
-|Lenovo|Lenovo Idea Tab Pro Gen 2|TB390FU|TB390FU|
+|Lenovo|Lenovo Idea Tab Pro Gen 2 / Lenovo Tab K13|TB390FU|TB390FU|
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
 |Lenovo|Lenovo K12 Note|guamp|Lenovo K12 Note|
@@ -23769,6 +23771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEO(Portugal)|MEOBox Android TV 4K|HP4C02-MEO|MEOBox 4K (HP4C02)|
 |METHOD_XI|KW_IWB|KW_RK3588|METHOD_XI_8600|
 |METZ|86SG1|86SG1|86SG1|
+|METZ|V6M|V6M|V6M|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
 |MG series|Any 302|TR10CS2_2|TR10CS2|
@@ -28559,6 +28562,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
 |OnePlus|一加 Ace 6T|OP6117L1|PLR110|
+|OnePlus|一加 Turbo 6X|OP68F7L1|PYS110|
+|OnePlus|一加 Turbo 6X Pro|OP68E3L1|PYR110|
 |OnePlus|一加平板 2|OP6543L1|OPD2508|
 |OnePlus|一加平板 2 Pro|OP615EL1|OPD2413|
 |OnePlus|一加平板 3 Pro|OP6547L1|OPD2513|
@@ -48278,6 +48283,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAC|
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAG|
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAI|
+|Xiaomi|Xiaomi 17T|chagall|2602DPT53G|
+|Xiaomi|Xiaomi 17T|chagall|2602DPT53I|
+|Xiaomi|Xiaomi 17T Pro|warhol|2602EPTC0G|
+|Xiaomi|Xiaomi 17T Pro|warhol|2602EPTC0R|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -52292,6 +52301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50|PD2528|V2528A|
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|S50t|PD2528|V2528A|
+|vivo|S60 元气版|PD2572|V2572A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
 |vivo|T5|V2543|V2583|
