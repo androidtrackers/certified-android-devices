@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-30
+Last sync is 2026-05-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24763,6 +24763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MicroTouch|M1_IC0_N702|MACH_10|MACH_10|
 |MicroTouch|M1_IC0_N702_MP|MACH_MP|MACH_MP|
 |MicroTouch|M1_IC1_N700_4G|IDC_Series_4G|IDC_Series_4G|
+|MicroTouch|MACH_POS|MACH_POS|MACH_POS|
 |Micromax|32CAM6SHD|ikebukuro|AI PONT|
 |Micromax|A110|s9081|Micromax A110|
 |Micromax|A111|A111|A111|
