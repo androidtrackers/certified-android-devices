@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-05-31
+Last sync is 2026-06-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8262,6 +8262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|K08Plus|rk3562_ugo|K08Plus|
 |DigiLand|KTAB17|KTAB17|KTAB17|
 |DigiLand|Leotec|mid1016_mk_32|Supernova|
+|DigiLand|M10AA|M10AA|M10AA|
 |DigiLand|MID1008_Digiland|mid1008|DL1008M|
 |DigiLand|MID8006_Digiland|mid8006_mk_32|mid8006_mk_32|
 |DigiLand|NBDVDTAB9|NBDVDTAB9|NBDVDTAB9|
@@ -17540,6 +17541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
+|Infinix|Infinix XPAD 30 pro|Infinix-X1103|Infinix X1103|
 |Infinix|Infinix XPAD Edge|Infinix-X1302|Infinix X1302|
 |Infinix|Infinix ZERO 20|Infinix-X6821|Infinix X6821|
 |Infinix|Infinix ZERO 30|Infinix-X6731B|Infinix X6731B|
@@ -25120,6 +25122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|Mintt_Tab_T1|Mintt_Tab_T1|Mintt_Tab_T1|
 |Mintt|P25|P25|P25|
 |Mintt|P25+|P25_PLUS|P25+|
+|Mintt|P26|P26|Mintt P26|
 |Mintt|Rival_2|CoolMintt_Rival_2|CoolMintt Rival 2|
 |Mintt|T3|T3|P08|
 |Mintt|T3|T3|T3|
@@ -33837,6 +33840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEBBE|S23_U_EEA|S23_U_EEA|S23_U_EEA|
 |SEBBE|S23_U_US|S23_U_US|S23_U_US|
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
+|SEGO|Hot_100|Hot_100|Hot 100|
 |SEGO|MATE_10|MATE_10|MATE 10|
 |SEGO|Note_70|Note_70|Note 70|
 |SEGO|Orbit O1|Orbit_O1|Orbit O1|
@@ -33855,6 +33859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|S_PAD|S_PAD|S_PAD|
 |SEGO|Shark|Shark|Shark|
 |SEGO|Smart_10|Smart_10|Smart 10|
+|SEGO|Smart_20x|SEGO_Smart_20x|Smart_20x|
 |SEGO|s_tron|s_tron|s-tron|
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|
 |SELECLINE|MID_9526CM|MID_9526CM|S952|
@@ -34404,6 +34409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P08|P08|P08|
 |SVITOO|P08_T|P08_T|P08_T|
 |SVITOO|P108_EEA|P108|P108|
+|SVITOO|P108_S_EEA|P108_S|P108_S|
 |SVITOO|P108_T|P108_T|P108_T|
 |SVITOO|P108_T_EEA|P108_T|P108_T|
 |SVITOO|P10_A|P10_A|P10_A|
