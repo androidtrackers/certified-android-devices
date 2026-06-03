@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-02
+Last sync is 2026-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6555,8 +6555,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clover|FTab|FTab|FTab|
 |Clover|G11|G11|G11|
 |Clover|G11A|G11A|G11|
+|Clover|G17_3_32|G17|G17|
 |Clover|K1196|K1196|K1196|
 |Clover|KD101|KD101|KD101|
+|Clover|RWT-NE-RGPH5-12812|R9X-01|RWT-NE-RGPH5-12812|
 |Clover|gama_alta_6_128G|gama_alta_6_128G|gama_alta_6_128G|
 |Cobalt|CP101P|POS|CP101P|
 |Cobalt|Cobalt T10 wifi|Cobalt_T10_wifi|Cobalt_T10_wifi|
@@ -6855,6 +6857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contixo|A10|A10|A10|
 |Contixo|A7|A7|A7|
 |Contixo|A7_1|A7_1|A7|
+|Contixo|A8_B|A8_B|A8_B|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
 |Contixo|K101A|K101A|K101A|
@@ -13521,6 +13524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haus|JS409|JS409|JS409|
 |Haus|JS420|JS420|JS420|
 |Haus|JS550|JS550|JS550|
+|Heco|KiddoPad_K2|KiddoPad_K2|KiddoPad_K2|
 |Helgi|HELGI_C_Series_PRO|rk3576_u|HCPxx10|
 |Helgi|HXxx10|rk3588_t|Helgi_HX10|
 |Helio|Helio S5|Helio_S5|Helio S5|
@@ -18532,6 +18536,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|H93A|songni|H93A|
 |JMGO|K62A|holan|K62A|
 |JMGO|K80A|holan|K80A|
+|JMGO|N1|songni|S70A|
+|JMGO|N1 Pro|songni|H80A|
 |JMGO|N1S Infinity|lonavla|K92A|
 |JMGO|N1S Pro|lonavla|K93A|
 |JMGO|S91A|lonavla|S91A|
@@ -20099,6 +20105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|INFOBAR A03|KYV33|KYV33|
 |Kyocera|K5G-C-100A|K5G-C-100A|K5G-C-100A|
 |Kyocera|KC-01|KC-01|KC-01|
+|Kyocera|KC-T207DT|SZJ204|SZJ-JS204|
 |Kyocera|KC-T302DT|KC-T302DT|KC-T302DT|
 |Kyocera|KC-T302DT|SZJ202|SZJ-JS202|
 |Kyocera|KC-T303DT|SZJ203|SZJ-JS203|
@@ -33037,6 +33044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|D101|D101|D101_PRO|
 |RebotAi|D101_EEA|D101_EEA|D101|
 |RebotAi|D101_EEA|D101_EEA|D101_EEA|
+|RebotAi|D101_EEA|D101_EEA|D101_PRO|
 |RebotAi|K101|K101|K101|
 |Rectron|MX101M2|MX101M2|MX101M2|
 |Rectron|MX702M1|MX702M1|MX702M1|
@@ -40750,6 +40758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|T90_US|T90|T90|
+|TABWEE|W80_NEU|W80|W80|
 |TABWEE|W90_EEA|W90|W90|
 |TABWEE|W90_NEU|W90|W90|
 |TABWEE|W90_RU|W90|W90|
@@ -43868,6 +43877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teletab|TL-4|TL-4|TL-4|
 |Teletab|TL-5|TL-5|TL-5|
 |Teletab|TL-9|TL-9|TL-9|
+|Teletab|TL_9_ROW|TL_9_ROW|TL-9|
 |Telev8|MH700|MH700|MH700|
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
 |Telia|DV8919X-LT|DV8919-KLT|DV8919X-LT|
@@ -48444,6 +48454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YGF(tech)|YGF-F35|YGF-F35|YGF-F35|
 |YGF(tech)|YGF-F7|YGF_F7|YGF-F7|
 |YIKEMI|Pad6_Plus_EEA|Pad6_Plus_EEA|Pad6 PLUS|
+|YIKEMI|S7P_EEA|S7P_EEA|S7P|
 |YIKEMI|pad7_Ultra_EEA|pad7_Ultra_EEA|Pad6_Plus|
 |YINBER|S11Ultra|S11Ultra|S11Ultra|
 |YINBER|S12PLUS|S12PLUS|S12PLUS|
