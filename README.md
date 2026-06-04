@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-03
+Last sync is 2026-06-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5737,6 +5737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star9_Max|Star9_Max|Star9_Max|
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|T12Pro|T12Pro|T12Pro|
+|CORN|The_Leader_Kids_4G|The_Leader_Kids_4G|The Leader Kids 4G|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
 |CORN|Tronik_12S|Tronik_12S|Tronik_12S|
@@ -5753,6 +5754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CRAIG|CMP846|CMP846|CMP846|
 |CRONIC|CT-M11|CT-M11|CT-M11|
 |CRONIC|CT-T15G|CT-T15G|CT-T15G|
+|CRONIC|Tab_20_Kids|Tab_20_Kids|Tab 20 Kids|
 |CRONY|Smart TV|longshan|AI PONT|
 |CROWN MUSTANG|ARGENTINA|sepolia|Crown Mustang 4K TV|
 |CROWN MUSTANG|Argentina|martin|Crown Mustang 2K Android TV|
@@ -9137,6 +9139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30L1_EEA|A30L1|A30L1|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
+|ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A_US|
 |ECOPAD|C30plus|C30plus|C30plus|
 |ECOPAD|C30plus_EEA|C30plus|C30plus|
 |ECOPAD|C30plus_US|C30plus|C30plus|
@@ -9669,6 +9672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emporia|E5mini|E5mini|E5mini|
 |Emporia|E6_EEA|E6|E6|
 |Emporia|E6mini|E6mini|E6mini|
+|Emporia|E8-5G-v1_EEA|E8-5G-v1|E8-5G-v1|
 |Emporia|Emporia SMART 3|S3|S3|
 |Emporia|S3mini|S3mini|S3mini|
 |Emporia|S4i|S4|S4|
@@ -13538,6 +13542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Helio|helio 50|helio_50|helio 50|
 |Helio|helio_45|helio_45|helio 45|
 |Helio|helio_55|helio_55|helio 55|
+|Helio|helio_62|helio_62|helio 62|
 |HelloPro|PK81R|PK81R|PK81R|
 |HemiltonPro|Tab1000|Tab1000|Tab1000|
 |Hercls|HERCLS A15|A15|A15|
@@ -14850,6 +14855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀Power|HNDVD-Q|DVD-AN80|
 |Honor|荣耀Power2|HNSER-M|SER-AN00|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
+|Honor|荣耀WIN Turbo|HNSER-M|SER-AN00|
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
@@ -18546,7 +18552,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI T1 5G|J2502|J2502|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI V70 5G|J2507|J2507|
-|JOVI|JOVI X300 Ultra|J2510|J2510|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y21|J2503|J2503|
@@ -30095,6 +30100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|CP20SA|CP20SA|CP20|
 |PEICHENG|CP20TGOLD|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
+|PEICHENG|CP20UA|CP20UA|CP20|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
 |PEICHENG|CP31T|CP31T|CP31M|
@@ -33037,7 +33043,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|AG11|AG11|AG11|
+|RebotAi|B11Air|B11Air|B11Air|
 |RebotAi|B11Air_EEA|B11Air|B11Air|
+|RebotAi|B11Air_US|B11Air|B11Air|
 |RebotAi|B11_EEA|B11|B11|
 |RebotAi|B11_EEA|B11|B11_EEA|
 |RebotAi|D101|D101|D101|
@@ -34464,6 +34472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|TAB_P10_EEA_C|TAB_P10|TAB_P10|
 |SVITOO|TAB_P10_ROW|TAB_P10_ROW|TAB_P10|
 |SVITOO|TAB_P10_ROW|TAB_P10_ROW|TAB_P10_ROW|
+|SVITOO|TAB_P10_USA|TAB_P10_USA|TAB_P10|
 |SVITOO|TAB_P12|TAB_P12|TAB P12|
 |SVITOO|TAB_P12_EEA|TAB_P12|TAB P12|
 |SVITOO|TAB_P1300|TAB_P1300|TAB_P1300|
@@ -40838,6 +40847,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G13_2K_US|G13|Smart TV|
 |TCL|G15_4K_GB|G15|Smart TV Pro|
 |TCL|G16_4K_US|G16|Smart TV Pro|
+|TCL|G17_4K_GB|G17|Smart TV Pro|
+|TCL|G17_4K_US|G17|Smart TV Pro|
 |TCL|GL TCL|Titan_Vis_Wifi|9494G|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -51111,6 +51122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eNOVA|N50E|N50|N50|
 |eNOVA|N51|N51|N51|
 |eNOVA|T1081|T1081|T1081|
+|eNOVA|T1081NE|T1081NE|T1081NE|
 |eNOVA|TAE08N10|TAE08N10|TAE08N10|
 |eNOVA|TAE10C13|TAE10C13|TAE10C13|
 |eNOVA|TAE10N12|TAE10N12|T1081|
