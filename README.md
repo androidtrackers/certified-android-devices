@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-04
+Last sync is 2026-06-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -51880,6 +51880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |raemond|K30_US_C|K30_US_C|K30|
 |raemond|K50_US_C|K50_US_C|K50|
+|raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO|
 |raemond|K70_US_C|K70_US_C|K70|
 |raemond|K80_US_BND|K80_US_BND|K80|
 |raemond|L90_EEA|L90|L90|
