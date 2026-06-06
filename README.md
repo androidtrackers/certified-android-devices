@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-05
+Last sync is 2026-06-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9148,6 +9148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|C5Pro_US|C5Pro|C5Pro|
 |ECOPAD|K12L1|K12L1|K12L1|
 |ECOPAD|K90|K90|K90|
+|ECOPAD|T60_US|T60|T60|
 |ECS|RealPad MA7BX2|RealPad_MA7BX2_1|RealPad MA7BX2|
 |ECS|TC69CA2|TC69CA2_1|TC69CA2|
 |ECS|TC70RA1|TC70RA1_2|TC70RA1|
@@ -11059,6 +11060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|T9_1|T9_1|T9|
 |G-Tab|T9_PRO|T9_PRO|T9 PRO|
 |G-Tab|Tablet|Tablet|T12|
+|G-Tab|X_PRO_AI|X_PRO_AI|X|
 |G-Tab|Y|Y|Y|
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
@@ -13180,6 +13182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|C90_US|C90|C90|
 |HUIHUANG|E10_A|E10_A|E10_A|
 |HUIHUANG|E10_A_EEA|E10_A|E10_A|
+|HUIHUANG|E10_A_US|E10_A|E10_A|
 |HUIHUANG|M10_EU|M10|M10|
 |HUIHUANG|M10_ROW|M10|M10|
 |HUIHUANG|M11|M11|M11|
@@ -28393,6 +28396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olympia|NEO_Mini|NEO_Mini|NEO_Mini|
 |Olympia|Smartphone2|NEO_Mini_Plus|OLYMPIA Neo_Mini+|
 |Olympia|TREK|TREK|TREK|
+|Omniphone|New10|New10|New10|
 |OneClick|C2 Pro|C2_pro|C2 pro|
 |OneClick|X1|X1|X1|
 |OneLern|OneLernDB009|OneLernDB009|OneLernDB009|
@@ -30076,6 +30080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-11080-F428E|PET-11080-F428E|PET 11080-F428E|
 |PEAQ|PET-882-H232S|PET-882-H232S|Lightyear 2|
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
+|PEAQ|PET_10180_H428S_EEA|PET_10180_H428S|PET-10180-H428S|
 |PEAQ|PET_10180_H464S|PET_10180_H464S|PET_10180_H464S|
 |PEAQ|PET_10181_H464S_EEA|PET_10181_H464S|PET_10181_H464S|
 |PEAQ|PET_11080-F628S|PET_11080-F628S|PET_11080-F628S|
@@ -30214,6 +30219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C75 5G|warm|24116PCC1I|
 |POCO|POCO C81|arctic|25128PC17I|
 |POCO|POCO C81 Pro|arctic|25128PC17G|
+|POCO|POCO C81 Pro|arctic|25128PC17L|
 |POCO|POCO C81x|serenity|26020PCB4I|
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
@@ -31262,6 +31268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
 |Point of view|TAB_TS101S_LTE|TAB_TS101S_LTE|TAB_TS101S_LTE|
 |PointMobile|PM452|PM452|PM452|
+|PointMobile|PS32|PS32|PS32|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -32115,6 +32122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C10_EEA|M10_C10_EEA|M10|
 |Pritom|M10_C10_Kids|M10_C10_Kids|M10|
 |Pritom|M10_C10_Kids_EEA|M10_C10_Kids_EEA|M10|
+|Pritom|M10_C10_USA|M10_C10_USA|M10|
 |Pritom|M10_C11|M10_C11|M10|
 |Pritom|M10_C11|M10_C11|M10_C11|
 |Pritom|M10_C11_Kids|M10_C11_Kids|M10_C11_Kids|
@@ -34402,6 +34410,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUNWIND|Sky_1262C_3G|SS1260PG|Sky 1262C 3G SS1260PG|
 |SUNWIND|Sky_7143B_3G_SS7265PG|SS7265PG|Sky 7143B 3G SS7265PG|
 |SUNWIND|Sky_8244B_3G_SS8263PG|SS8263PG|Sky 8244B 3G SS8263PG|
+|SUN_EAGLE_INDONESIA|SUN EAGLE IFPD|SEITWD13CA|SEITWD13CA|
 |SUPERSONIC|SC-2109|SC-2109|SC-2109|
 |SUPERSONIC|SC-2110|SC-2110|SC-2110|
 |SUPERSONIC|SC-2110A|SC_2110A|SC-2110A|
@@ -40763,11 +40772,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T60_RU|T60|T60|
 |TABWEE|T70_EEA|T70|T70|
 |TABWEE|T70_NEU|T70|T70|
+|TABWEE|T70_US|T70|T70|
 |TABWEE|T80_US|T80_2025|T80|
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|T90_US|T90|T90|
 |TABWEE|W80_NEU|W80|W80|
+|TABWEE|W80_US|W80|W80|
 |TABWEE|W90_EEA|W90|W90|
 |TABWEE|W90_NEU|W90|W90|
 |TABWEE|W90_RU|W90|W90|
@@ -52355,6 +52366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50|PD2528|V2528A|
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|S50t|PD2528|V2528A|
+|vivo|S60|PD2571|V2571A|
 |vivo|S60 元气版|PD2572|V2572A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
@@ -52378,6 +52390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70 FE|V2550|V2551|
 |vivo|V70 FE|V2550|V2552|
 |vivo|V70 FE|V2550|V2558|
+|vivo|V70 Lite|V2570|V2604|
 |vivo|V70 Lite 5G|V2529|V2615|
 |vivo|V70 Lite 5G|V2529|V2637|
 |vivo|X Fold5|PD2436|V2436A|
@@ -52437,6 +52450,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y50 AI版|PD2443|V2443A|
 |vivo|Y50 移动定制版|PD2443|V2443A|
 |vivo|Y500|PD2506|V2506A|
+|vivo|Y500|V2570|V2570|
+|vivo|Y500|V2570|V2584|
+|vivo|Y500|V2570|V2627|
+|vivo|Y500|V2570|V2634|
+|vivo|Y500|V2570|V2635|
 |vivo|Y500 Pro|PD2516|V2516A|
 |vivo|Y500i|PD2531|V2531A|
 |vivo|Y500i AI版|PD2531|V2531A|
@@ -52459,6 +52477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y60 AI版|PD2559|V2559A|
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
+|vivo|Y600 Turbo|PD2553|V2553A|
 |vivo|Y60m|PD2559|V2559BA|
 |vivo|Y60s|PD2559|V2559A|
 |vivo|Y60s AI版|PD2559|V2559A|
