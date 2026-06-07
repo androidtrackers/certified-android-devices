@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-06
+Last sync is 2026-06-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -45767,6 +45767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertu|Signature Touch|titan|Signature Touch|
 |Vertu|Signature Touch|titan|Signature Touch L|
 |Vertu|Ti|hermione|VERTU Ti|
+|Vertu|VERTU AGENT Q|VTL-202403|VTL-202403|
 |Vertu|VTL-202101|VTL-202101|VTL-202101|
 |Vertu|VTL-202201|VTL-202201|VTL-202201|
 |Verve|K1|K1|K1|
@@ -48994,6 +48995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|A504ZT|Z6301S|A504ZT|
 |ZTE|A505ZT|Z8700S|A505ZT|
 |ZTE|A506ZT|Z6302S|A506ZT|
+|ZTE|A601ZT|P445F01|A601ZT|
 |ZTE|A880|ZTE-A880|ZTE A880|
 |ZTE|ACT|B860H_V1|B860H|
 |ZTE|AV-ATB100|B800S2_V1|AV-ATB100|
@@ -50049,12 +50051,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2453|P963F95_A|Z2453|
 |ZTE|Z2459|P616F05|Z2459|
 |ZTE|Z2465N|P820F05|Z2465N|
+|ZTE|Z2466|P963F66|Z2466|
 |ZTE|Z2472|P606F20|Z2472|
 |ZTE|Z2472|P606F20_A|Z2472|
 |ZTE|Z2570N|P688F02|Z2570N|
 |ZTE|Z2575|P620F02|Z2575|
 |ZTE|Z2576|P620F01|Z2576|
 |ZTE|Z2577|P615F02|Z2577|
+|ZTE|Z2577|P615F02_A|Z2577|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
