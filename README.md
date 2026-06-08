@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-07
+Last sync is 2026-06-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1046,6 +1046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|dahu|dahu|M1G|
 |Acer|vileparle|vileparle|R6G|
 |AcerPure|Acer Acerpure|Acerone_Liquid_2|Acerone Liquid S162E4|
+|AcerPure|Acer Acerpure|Acerone_Liquid_S262F5|Acerone Liquid S262F5|
 |Aceson|R726|R726|R726|
 |Acet|X63L|X63L|X63L|
 |Achate|Kids Tab 1|KidsTab1_EEA|Kids Tab 1|
@@ -9137,6 +9138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECONNECT|RH511G|RH511G|RH511G|
 |ECONNECT|SQ126G|SQ126G|SQ126G|
 |ECOPAD|A30L1_EEA|A30L1|A30L1|
+|ECOPAD|A30L1_US|A30L1|A30L1|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A_US|
@@ -9415,6 +9417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETOE|A1363|himalaya|A1363|
 |ETOE|D1221|YUL|D1221|
 |ETOE|D2861|XNA|D2861|
+|ETOE|D2G|himalaya|D2G|
 |EUDORA|E10Pro|E10Pro|E10Pro|
 |EUDORA|E62 Plus|E62Plus|E62 Plus|
 |EUDORA|EUDORA_E55_PLUS|EUDORA_E55_PLUS|E55_PLUS|
@@ -28078,6 +28081,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OASYS|TEG9300-5|TEG9300-5|TEG9300-5|
 |OASYS|TEG9300-5A|TEG9300-5A|TEG9300-5A|
 |OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
+|OBE(CN)|Minisons3|himalaya|Minions3|
+|OBE(CN)|X7D Ultra|himalaya|X7D Ultra|
 |OBOX|OBOX4K.20|DV8519-BOX|OBOX4k.20|
 |ODS Corporation|TA2C-DR9|TA2C-DR9|TA2C-DR9|
 |ODS Corporation|TA2C-DR94G|TA2C-DR94G|TA2C-DR94G|
@@ -33691,6 +33696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rosso|ROSSO|zhongshan|4K SMART TV|
 |Rosso|Rosso|stanford|40D|
 |Rotai|Remoter|Rotai_1201_Remoter|Remoter|
+|Rovos|R-TP10_EEA|R-TP10|R-TP10|
 |Royal-rahmani|ROYALRAHMANI|hongkong|4K SMART TV|
 |Royal-rahmani|ROYALRAHMANI|stanford|2K SMART TV|
 |Royal-rahmani|Smart TV|osaka|AI PONT|
