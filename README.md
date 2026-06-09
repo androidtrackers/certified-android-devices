@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-08
+Last sync is 2026-06-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5739,6 +5739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|T12Pro|T12Pro|T12Pro|
 |CORN|The_Leader_Kids_4G|The_Leader_Kids_4G|The Leader Kids 4G|
+|CORN|The_Leader_Tab8_4G|The_Leader_Tab8_4G|The Leader Tab8 4G|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
 |CORN|Tronik_12S|Tronik_12S|Tronik_12S|
@@ -33696,6 +33697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rosso|ROSSO|zhongshan|4K SMART TV|
 |Rosso|Rosso|stanford|40D|
 |Rotai|Remoter|Rotai_1201_Remoter|Remoter|
+|Rovos|R-TP10|R-TP10|R-TP10|
 |Rovos|R-TP10_EEA|R-TP10|R-TP10|
 |Royal-rahmani|ROYALRAHMANI|hongkong|4K SMART TV|
 |Royal-rahmani|ROYALRAHMANI|stanford|2K SMART TV|
@@ -43649,6 +43651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 7 Pro 5G|TECNO-LJ8|TECNO LJ8|
 |Tecno|TECNO POVA 7 Ultra 5G|TECNO-LJ9|TECNO LJ9|
 |Tecno|TECNO POVA 8 5G|TECNO-LK6|TECNO LK6|
+|Tecno|TECNO POVA 8 Pro 5G|TECNO-LK7|TECNO LK7|
 |Tecno|TECNO POVA Curve 2 5G|TECNO-LK7k|TECNO LK7k|
 |Tecno|TECNO POVA Curve 5G|TECNO-LJ8k|TECNO LJ8k|
 |Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
@@ -48350,8 +48353,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 17 Ultra|nezha|2512BPNDAI|
 |Xiaomi|Xiaomi 17T|chagall|2602DPT53G|
 |Xiaomi|Xiaomi 17T|chagall|2602DPT53I|
+|Xiaomi|Xiaomi 17T|chagall|M531DA|
 |Xiaomi|Xiaomi 17T Pro|warhol|2602EPTC0G|
 |Xiaomi|Xiaomi 17T Pro|warhol|2602EPTC0R|
+|Xiaomi|Xiaomi 17T Pro|warhol|M025EC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -51597,6 +51602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iPlus|iPlus_P3|iPlus_P3|iPlus P3|
 |iQOO|I40-5_RU|I2347-2_RU|I2347-4_RU|
+|iQOO|IQOO Z11 Lite 5G|I2510|I2510|
 |iQOO|iQOO 15|I2501|I2501|
 |iQOO|iQOO 15|PD2505|V2505A|
 |iQOO|iQOO 15 Ultra|PD2546|V2546A|
@@ -51616,6 +51622,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQOO|iQOO Z10R 5G|I2505|I2505|
 |iQOO|iQOO Z11 5G|I2512|I2512|
+|iQOO|iQOO Z11 Lite 44W 5G|I2510|I2510|
+|iQOO|iQOO Z11 Lite 44W 5G|I2510|I2515|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
 |iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
