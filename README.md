@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-09
+Last sync is 2026-06-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7473,6 +7473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DBM Maroc|Speed X2|Speed-X2|Speed-X2|
 |DCG-INSPIRATECH|DCG-N10|DCG-N10|DCG-N10|
 |DEA Factory|KTAB|KTAB|KTAB|
+|DECIBELL|DB6621|DB6621|DB6621|
 |DEED|DC-WT15|DC-WT15|DC-WT15|
 |DEERTiME|E10_EEA|E10_EEA|E10_EEA|
 |DEERTiME|E10_US|E10_US|E10_US|
@@ -9533,6 +9534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EcoStar|ECOSTAR SMART TV|SW4H|ECOSTAR SMART TV|
 |EcoStar|EcostarTV|shibuya|EcostarTV|
 |Ecopower|EP-A100|EP-A100|EP-A100|
+|EdPro|EdPro_Series_S|RK3576|EdPro_Series_S|
 |Edcon|Motion E1.1|MotionE11|MotionE11|
 |Edcon|Platiunm vp.1|VerssedVP1|Verssed VP1|
 |Edcon|Platiunm vp.2|VerssedVP2|Verssed VP2|
@@ -13198,6 +13200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|T3L2|T3L2|T3L2|
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
 |HUIHUANG|X10S|X10S|X10S|
+|HUIHUANG|X11_US|X11|X11|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPERTECH|THATAB|THATAB|THATAB|
@@ -27976,6 +27979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nubia|nubia Focus|P616F03|Z2455|
 |Nubia|nubia Fold|Z9900S|A502ZT|
 |Nubia|nubia_NB1001|nubia_NB1001-UN|nubia_NB1001|
+|Nubia|红魔10 Air|PQ83A06|NX779J|
 |Nubio_Lite|N2 Lite|LS032I|LS032I|
 |Nubio_Lite|N2 Lite|LS032M|LS032M|
 |Nuu|A1|NUU_A1|NUU_A1|
@@ -32131,6 +32135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C10_USA|M10_C10_USA|M10|
 |Pritom|M10_C11|M10_C11|M10|
 |Pritom|M10_C11|M10_C11|M10_C11|
+|Pritom|M10_C11_Kids|M10_C11_Kids|M10|
 |Pritom|M10_C11_Kids|M10_C11_Kids|M10_C11_Kids|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
 |Pritom|M10_Max|M10_Max|M10_Max|
@@ -32803,6 +32808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
 |REDMAGIC|NX799J|NX799J|NX799J|
 |REDMAGIC|REDMAGIC 11 Pro+|NX809J|NX809J|
+|REDMAGIC|红魔11 Air|NX799J|NX799J|
 |REDTONE|RTSP-A124ML|RTSP-A124ML|RTSP-A124ML|
 |REDTONE|RTSP-A258HM|RTSP-A258HM|RTSP-A258HM|
 |REDTONE|RTSP-A64B|RTSP-A64B|RTSP-A64B|
@@ -44153,6 +44159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topicon|Topicon MDT1060|mdt1060|mdt1060|
 |Topicon|mdt865_gms|mdt865|mdt865|
 |Topicon|mdt865_row|mdt865|mdt865|
+|Topicon|mdt880|mdt880|mdt880|
 |Topsand|G12|G12_A14|G12|
 |Topsand|G12_Pro|G12_Pro|G12_Pro|
 |Topsand|M8_U|M8_U|M8|
@@ -49462,6 +49469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|M901C|P692N60|ZTE M901C|
 |ZTE|MEDION LIFE P4310|skate|MEDION LIFE P4310|
 |ZTE|MEDION Smartphone LIFE E3501|roamer2|MEDION Smartphone LIFE E3501|
+|ZTE|METAVERTU 2|VTL-202301|VTL-202301|
 |ZTE|MF97A|MF97A|MF97A|
 |ZTE|MF97B|msm8974|MF97B|
 |ZTE|MF97B|msm8974|MF97B_ROGERS|
@@ -50518,6 +50526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Flip 5G|P745F01|NX724J|
 |ZTE|nubia Flip 5G|Z8888S|NX724J|
 |ZTE|nubia Flip 5G S|P745F01|NX724J|
+|ZTE|nubia Flip2|P678A01|NX732J|
 |ZTE|nubia Focus|P616F03|Z2455|
 |ZTE|nubia Focus 2 5G|P720F11|Z2462N|
 |ZTE|nubia Focus 2 5G|Z7305O|nubia Focus 2 5G|
@@ -50564,6 +50573,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|zBox 1|YXE|zBox 1|
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
 |ZTE|中兴畅行40|P963S71|ZTE 1020L|
+|ZTE|中兴畅行60 Ultra|P820S01|ZTE 7661N|
 |ZTE|中兴远航41|P720S11|ZTE 7541N|
 |ZTE|红魔10 Pro|NX789J|NX789J|
 |ZTE|红魔11 Pro游戏手机|NX809J|NX809J|
@@ -52500,6 +52510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y60s|PD2559|V2559A|
 |vivo|Y60s AI版|PD2559|V2559A|
 |vivo|Y60s m版|PD2559|V2559BA|
+|vivo|Y6e|PD2559|V2559A|
 |vivo|Y6m|PD2532|V2532BA|
 |vivo|Y6t|PD2559|V2559A|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
