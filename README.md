@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-10
+Last sync is 2026-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -464,6 +464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATEC|APD3|APD3|APD3|
 |ATEC|ATEC GRANDE|ATEC_IWB|A8GC|
 |ATEC|ATEC_GRANDE|ATEC_IWB|ABGC|
+|ATECcomputer|A8KD|A8KD|A8KD|
 |ATEL|A68EL|A68EL|A68EL|
 |ATID|AT908|AT908|AT908|
 |ATID|AT908_EEA|AT908|AT908_EEA|
@@ -4145,6 +4146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|RE04_series|RE04_series|RE04_series|
 |BenQ|RE05AC_series|RE05AC_series|RE05AC_series|
 |BenQ|RE05A_series|RE05A_series|RE05A_series|
+|BenQ|RE98_110_series|RE98_110_series|RE98_110_series|
 |BenQ|RM05_series|RM05_series|RM05_series|
 |BenQ|RM6504|RM6504|RM6504|
 |BenQ|RM7504|RM7504|RM7504|
@@ -7498,6 +7500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEPLAY|LITE4_EEA|LITE4_EEA|LITE4_EEA|
 |DEPLAY|PRO4|PRO4|PRO4|
 |DEPLAY|SMART5PLUS_B|SMART5PLUS_B|DEPLAY_SMART5PLUS|
+|DEPLAY|SMART5PLUS_P|SMART5PLUS_P|DEPLAY_SMART5PLUS|
 |DEVOPS|DEVOPS|DEVOPS_IFPD|DEVOPS_MT9679|
 |DEWSOD|C9|C9|C9|
 |DEXP|A.350|A350|A350|
@@ -17217,6 +17220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TE104|TE104|TE104M4|
 |IRIS_OHYAMA|TE10D1M64|TE10D1M64|TE10D1M64|
 |IRIS_OHYAMA|TE10D2M64|TE10D2M64|TE10D2M64|
+|IRIS_OHYAMA|TE11F5W64|TE11F5W64|TE11F5W64|
 |IRIS_OHYAMA|TM082|TM082|TM082M4|
 |IRIS_OHYAMA|TM083|TM083|TM083|
 |IRIS_OHYAMA|TM083|TM083|TM083M4|
@@ -43035,6 +43039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|ArtPadAir_ROW|ArtPadAir|ArtPadAir_ROW|
 |Teclast|ArtPadPro_EEA|ArtPadPro_EEA|ArtPadPro_EEA|
 |Teclast|ArtPadPro_ROW|ArtPadPro_ROW|ArtPadPro_ROW|
+|Teclast|ArtPad_ROW|ArtPad|ArtPad_ROW|
 |Teclast|M20_4G|M20_4G|M20_4G|
 |Teclast|M30_Pro_ROW|M30_Pro_ROW|M30_Pro_ROW|
 |Teclast|M40 Pro|M40_Pro_2022_EEA|M40 Pro|
@@ -50569,6 +50574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
+|ZTE|uSmart Cloud Terminal|W210DS|W216DS|
 |ZTE|zBOX 2|YMA|zBOX 2|
 |ZTE|zBox 1|YXE|zBox 1|
 |ZTE|中兴Axon 50 Ultra 5G|P898A25|ZTE A2024H|
@@ -52150,6 +52156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P4 5G|RE6440L1|RMX5110|
 |realme|realme P4 Power 5G|RE646FL1|RMX5107|
 |realme|realme P4 Pro 5G|RE644BL1|RMX5116|
+|realme|realme P4x|RE6488|RMX5367|
 |realme|realme P4x 5G|RE6450L1|RMX5108|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
 |realme|realme Pad 2|RE5C70L1|RMP2205|
