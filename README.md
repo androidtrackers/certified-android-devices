@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-11
+Last sync is 2026-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1046,6 +1046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|acerpure|waiawa|DAC51U|
 |Acer|dahu|dahu|M1G|
 |Acer|vileparle|vileparle|R6G|
+|AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|jialu|ACP65P|
 |AcerPure|Acer Acerpure|Acerone_Liquid_2|Acerone Liquid S162E4|
 |AcerPure|Acer Acerpure|Acerone_Liquid_S262F5|Acerone Liquid S262F5|
 |Aceson|R726|R726|R726|
@@ -3681,6 +3682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL62|Bmobile_BL62H|BL62|
 |BMobile|BL62|Bmobile_BL62_TG|BL62_TG|
 |BMobile|BL62|Bmobile_BL62i|BL62|
+|BMobile|BL62B|Bmobile_BL62B|BL62B|
 |BMobile|BL63|Bmobile_BL63|BL63|
 |BMobile|BL63|Bmobile_BL63|BL63_TG07|
 |BMobile|BL63Pro|Bmobile_BL63Pro|BL63Pro|
@@ -5737,6 +5739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star8|Corn_Star8|CORN Star8|
 |CORN|Star8|Star8|Star8|
 |CORN|Star8_3G|Star8_3G|Star8_3G|
+|CORN|Star9_4G|Star9_4G|Star9 4G|
 |CORN|Star9_Max|Star9_Max|Star9_Max|
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|T12Pro|T12Pro|T12Pro|
@@ -10189,6 +10192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows We2 M07|M07|M07|
 |FCNT|arrows We2 Plus F-51E|F51E|F-51E|
 |FCNT|arrows We2 Plus M06|M06|M06|
+|FCNT|arrows We3|F-52G|F-52G|
 |FCNT|arrows We3|M09|M09|
 |FCNT|arrows We3 M09|M09|M09|
 |FEC|XX-X15X|XX-X15X|XX-X15X|
@@ -17658,6 +17662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART 9|Infinix-X6532|Infinix X6532|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
+|Infinix|SMART Series|Infinix-X6725|Infinix X6725|
 |Infinix|SMRAT 8 PRO|Infinix-X6525B|Infinix X6525B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
@@ -18766,6 +18771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jawwy TV|JAWWY-TV-2.0|HP40A|JAWWY-TV-2.0|
+|Jckkcfug|A10PLUS_US|A10PLUS_US|A10 PLUS|
 |Jckkcfug|A10Pro_EEA|A10Pro_EEA|A10Pro_EEA|
 |Jckkcfug|A10Pro_ROW|A10Pro_ROW|A10Pro_ROW|
 |Jckkcfug|A10_PLUS_EEA|A10_PLUS|A10 PLUS|
@@ -29352,6 +29358,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
 |Oppo|Reno 11|OP5ABFL1|CPH2599|
 |Oppo|Reno 11 Pro|OP5AD3L1|CPH2607|
+|Oppo|Reno 16 F 5G|OP62F3L1|CPH2859|
+|Oppo|Reno 16 FS 5G/Reno 16 F 5G|OP62F3L1|CPH2859|
+|Oppo|Reno 16c 5G|OP62F3L1|CPH2859|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
@@ -43719,6 +43728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 50 5G|TECNO-KN8|TECNO KN8|
 |Tecno|TECNO SPARK 50/50C|TECNO-KN3|TECNO KN3|
 |Tecno|TECNO SPARK 50/50S|TECNO-KN4|TECNO KN4|
+|Tecno|TECNO SPARK 50T|TECNO-KO5|TECNO KO5|
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
 |Tecno|TECNO SPARK 7|TECNO-KF6i|TECNO KF6i|
@@ -52154,6 +52164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P3 Ultra 5G|RE60A4L1|RMX5030|
 |realme|realme P3 Ultra 5G|RE60A4L1|RMX5031|
 |realme|realme P4 5G|RE6440L1|RMX5110|
+|realme|realme P4 Lite|RE648B|RMX5378|
 |realme|realme P4 Power 5G|RE646FL1|RMX5107|
 |realme|realme P4 Pro 5G|RE644BL1|RMX5116|
 |realme|realme P4x|RE6488|RMX5367|
@@ -52493,6 +52504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y500 Pro|PD2516|V2516A|
 |vivo|Y500i|PD2531|V2531A|
 |vivo|Y500i AI版|PD2531|V2531A|
+|vivo|Y500i m版|PD2531|V2531A|
 |vivo|Y500s|PD2531|V2531A|
 |vivo|Y500s AI版|PD2531|V2531A|
 |vivo|Y50c|PD2443|V2443BA|
@@ -52517,6 +52529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y60s|PD2559|V2559A|
 |vivo|Y60s AI版|PD2559|V2559A|
 |vivo|Y60s m版|PD2559|V2559BA|
+|vivo|Y6a|PD2531|V2531A|
 |vivo|Y6e|PD2559|V2559A|
 |vivo|Y6m|PD2532|V2532BA|
 |vivo|Y6t|PD2559|V2559A|
