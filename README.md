@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-12
+Last sync is 2026-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -338,6 +338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
 |AOC|Q10107LW-ME|Q10107LW-ME|Q10107LW-ME|
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
+|AORA|SRK_SERIES|SRK_SERIES|SRK_SERIES|
 |AORLYM|P10|RK5S-A|P10|
 |AORLYM|P10 Kid|RK5Kid-A|P10 Kid|
 |AORLYM|P10 Pro|T5-A|P10 Pro|
@@ -5601,6 +5602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CIRCLE_POWER|CP1|CP1|CP1|
 |CIRKUIT PLANET (ESPANA)|SMARTLIFE|SL-TAB07116|SL-TAB07116|
 |CIRKUIT PLANET (ESPANA)|SMARTLIFE|SL-TAB10232|SL-TAB10232|
+|CITZEN|CZ701|CZ701|CZ701|
 |CJHelloVision|CJ680CL|cj680cl|GX-CJ680CL|
 |CJHelloVision|Hello TV Smart|SX930C_CJ|SX930C_CJ|
 |CJHelloVision|viewing|kr101|kr101|
@@ -5744,6 +5746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|T12Pro|T12Pro|T12Pro|
 |CORN|The_Leader_Kids_4G|The_Leader_Kids_4G|The Leader Kids 4G|
+|CORN|The_Leader_Kids_Pro|The_Leader_Kids_Pro|The_Leader_Kids_Pro|
 |CORN|The_Leader_Tab8_4G|The_Leader_Tab8_4G|The Leader Tab8 4G|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
@@ -22058,6 +22061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LAVA LXX514|LXX514|LAVA LXX514|
 |Lava|LAVA LXX515|LXX515|LXX515|
 |Lava|LAVA LXX516|LXX516|LAVA LXX516|
+|Lava|LAVA LXX520|LXX520|LAVA LXX520|
 |Lava|LAVA LXX521|LXX521|LAVA LXX521|
 |Lava|LAVA LXX522|LXX522|LXX522|
 |Lava|LAVA LXX523|LXX523|LXX523|
@@ -22096,6 +22100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R2|R2|R2|
 |Lava|R3|R3|R3|
 |Lava|R3 Prime|iris90|iris90|
+|Lava|Shark 2 5G|LXX528|LAVA LXX528|
 |Lava|T101|LTN10RT|LTN10RT|
 |Lava|T101|T101|T101|
 |Lava|T101N|T101N|T101N|
@@ -28210,6 +28215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MT2U|MT2U|MT2U|
 |ONERugged|MT2UE|MT2UE|MT2UE|
 |ONERugged|MT50CE|MT50CE|MT50CE|
+|ONIDA|MIRC Electronics Ltd.|jialu|ONI65P|
 |ONIDA|MIRC Electronics Ltd.|landen|ONI41F|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
 |ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
@@ -30120,6 +30126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|Smart TV|osaka|AI PONT|
 |PEAQ|Smart TV|osaka|AI PONT DE|
 |PEEPandLEARN|PLPro|PLPro|PLPro|
+|PEICHENG|A3_MAX|A3_MAX|A3_MAX|
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
@@ -33009,6 +33016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
 |Realme|真我GT Neo2T|RE5469|RMX3357|
 |Realme|真我V11s 5G|RE5485|RMX3125|
+|Realme Techlife|Flipkart India Private Limited|jialu|Realme Smart TV|
 |Realme Techlife|Realme TV|beomil|Realme TV|
 |Realme Techlife|Realme TV|eleonas|Realme TV|
 |Realme Techlife|Realme TV FF|eleonas|Realme TV FF|
@@ -33074,6 +33082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF12_EEA|AF12|AF12|
 |RebotAi|AF12_EEA|AF12|AF12_EEA|
 |RebotAi|AF13|AF13|AF13|
+|RebotAi|AF13Air|AF13Air|AF13Air|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|AG11|AG11|AG11|
 |RebotAi|B11Air|B11Air|B11Air|
@@ -33568,6 +33577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|T88|T88|T88|
 |Relndoo|T901_EUR|T901_EUR|T901|
 |Relndoo|T901_U|T901_U|T901|
+|Relndoo|T901_US|T901_US|T901_US|
 |Relndoo|TAB10|TAB10|TAB10|
 |Relndoo|TAB10-Pro|TAB10-Pro|TAB10|
 |Relndoo|TAB10_EEA|TAB10_EEA|TAB10|
@@ -47992,6 +48002,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XENON|XENON ANDROID TV|nagata|XENON ANDROID TV|
 |XForge|XForge 01|XForge01|XForge 01|
 |XGIMI|AURA 2 (New)|kasol|WM18P|
+|XGIMI|Elfin Flip 4K|munnar|XM03U|
+|XGIMI|Elfin Flip Laser|karjat|WM03R|
 |XGIMI|Elfin Flip Plus|altai|WK03C|
 |XGIMI|HORIZON 20|kasol|XR13A|
 |XGIMI|HORIZON 20 Max|kasol|XR16A|
@@ -51784,8 +51796,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|
-|iotapk|HONOR CHOICE T10|BLK-L03|BLK-L03|
 |iotapk|HONOR CHOICE T10|BLK-L09|BLK-L09|
+|iotapk|T10|BLK-L03|BLK-L03|
 |ioutdoor|L611|L611|L611|
 |ioutdoor|Polar3|Polar3|Polar3|
 |ioutdoor|Polar3_EEA|Polar3|Polar3|
@@ -51938,6 +51950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO|
 |raemond|K70_US_C|K70_US_C|K70|
 |raemond|K80_US_BND|K80_US_BND|K80|
+|raemond|L30_US_YK|L30_US_YK|L30|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
 |raemond|M70_A|M70_A|K70_PRO|
