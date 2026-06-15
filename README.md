@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-14
+Last sync is 2026-06-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11026,6 +11026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G9|G9|G9|
 |G-Tab|G9|G9_1|G9|
 |G-Tab|GTAB_P8|GTAB_P8|P8|
+|G-Tab|GTab_S|S|S|
 |G-Tab|GTab_X|X|X|
 |G-Tab|MEGA13|MEGA13|MEGA13|
 |G-Tab|N271|N271|N271|
@@ -16858,6 +16859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|mountbaker|HYUNDAI 2K SMART TV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI|templeton|4K SMART TV|
+|Hyundai|HYUNDAI|templeton|EcoTV Ultra|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 2K Android TV-A|lasalle|HYUNDAI 2K Android TV-A|
 |Hyundai|HYUNDAI 2K Google TV|capitolhill|HYUNDAI  2K Google TV|
@@ -22086,6 +22088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9810|LN9810|LAVA LN9810|
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
+|Lava|LT4900|LT4900|LT4900|
 |Lava|LXX519|LXX519|LAVA LXX519|
 |Lava|LZG01|LZG01|LAVA LZG01|
 |Lava|Lava LXX517|LXX517|LXX517|
@@ -23597,6 +23600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lunnen|TL62810G01|TL62810G01|Lunnen Ground 10.4|
 |Lunnen|TL62810G01|TL62810G01|TL62810G01|
 |Lunnen|TL85611B01|TL85611B01|Lunnen Ground 11|
+|Lunnen|TL85612L01|TL85612L01|Lunnen Ground 12.2|
 |Lyf|LS-4004|LS-4004|LS-4004|
 |Lyf|LS-4006|LS-4006|LYF_LS-4006|
 |Lyf|LS-4503|LS-4503|LS-4503|
@@ -45616,6 +45620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veira|Smart TV|alimos|AI PONT|
 |Veira|Smart TV|dangni|AI PONT|
 |Veld|Veld Board|Veld_Board|SXX01G|
+|Velox|Velox_10X_Pro|Velox_10X_Pro|Velox 10X Pro|
 |Venso|CX-508|CX-508|CX-508|
 |Venso|Venso CX-551|Venso_CX_551|Venso CX-551|
 |Venturer|CT202|CT202|CT202|
@@ -51827,6 +51832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |kozen|D8|D8|D8|
 |kozen|P18|P18|P18|
 |kozen|T5|T05|T5|
+|leaderhub|Mini_Tab8|Mini_Tab8|Mini_Tab8|
 |leaderhub|S18PRO-H_EEA|S18PRO-H_EEA|S18PRO-H|
 |leaderhub|S19_EEA|S19_EEA|S19|
 |leaderhub|S20|S20|S20C|
