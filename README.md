@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-15
+Last sync is 2026-06-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1981,6 +1981,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Anydata|essentielb ST8003/FT8001 Tablet|M805ND|Smart\'TAB 8003|
 |Anydata|iCraig CMP748|CMP748|CMP748|
 |Anydata|iCraig CMP749|CMP749|CMP749|
+|Anyreal|Note56 Plus|1928CV-AR|Note56 Plus|
+|Anyreal|Note56 Pro|1928CT-AR|Note56 Pro|
+|Anyreal|Note56X Pro|1928SE-AR|Note56X Pro|
+|Anyreal|P5C-AR|P5C-AR|U13|
+|Anyreal|T2U-AR|T2U-AR|U11 Pro|
+|Anyreal|Tab A9|RK5-AR|Tab A9|
+|Anyreal|Tab G5|T5-AR|Tab G5|
 |AoGo|AoGo1|AoGo1|AoGo1|
 |Aocwei|X300|X300|X300|
 |Aocwei|X300_EEA|X300_EEA|X300_EEA|
@@ -3402,6 +3409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BGH S.A.|xiaoyushan-bgh|xiaoyushan|HiSmartTV A4|
 |BILIMLI|BILIMLI2025|BILIMLI2025|BILIMLI2025|
 |BIOSfone|T11|T11|T11|
+|BIRDCLAW|P13|P8C-B|P13|
 |BIT Mobile|Phenix XT|Phenix_XT|Phenix XT|
 |BITTAP|BITTAP-KST11PRO-M8775|M8775|KST-BT-11-PRO|
 |BKAV|B2017|B2017|B2017|
@@ -5724,6 +5732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|CORN_R10|CORN_R10|CORN R10|
 |CORN|CORN_X5|CORN_X5|CORN X5|
 |CORN|CORN_X55|CORN_X55|CORN X55|
+|CORN|CPhone17ProMax4G|CPhone17ProMax4G|CPhone17 Pro Max 4G|
 |CORN|Coco10_Ultra_4G|Coco10_Ultra_4G|Coco10_Ultra_4G|
 |CORN|Coco20_Ultra_4G|Coco20_Ultra_4G|Coco20_Ultra_4G|
 |CORN|G60|G60|G60|
@@ -7472,6 +7481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAMASCO|TAB-T537-10|TAB-T537-10|TAB-T537-10|
 |DAMASCO|TAB-T863-3|TAB-T863-3|TAB-T863-3|
 |DANDOON|A2|A2|A2|
+|DARVEEN|RTC_M82|RTC_M82|RTC_M82|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
 |DBM Maroc|Accent Speed Y3|Speed-Y3|Speed-Y3|
@@ -8617,6 +8627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Blade10 Energy|F1CK_Pro|Blade10 Energy|
 |Doogee|Blade10 Max|F1P|Blade10 Max|
 |Doogee|Blade10 Power|F1G|Blade10 Power|
+|Doogee|Blade10 Power|F1G-C|Blade10 Power|
 |Doogee|Blade10 Pro|F1C|Blade10 Pro|
 |Doogee|Blade10 Pro Energy|F1C_Pro|Blade10 Pro Energy|
 |Doogee|Blade10 Ultra|F1CT|Blade10 Ultra|
@@ -9514,6 +9525,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Eaglesoar|EE_35_EEA|EE_35_EEA|EE_35_EEA|
 |Eaglesoar|E_764_EEA|E_764_EEA|E_764_EEA|
 |Eaglesoar|Z_766_EEA|Z_766_EEA|Z_766_EEA|
+|Easerush|P8-E|P8-E|P13 Pro|
+|Easerush|RK5S-E|RK5S-E|P10|
 |EasyPhone|100|100|100|
 |Easymer|K6Pro|K6Pro|K6Pro|
 |Easymer|K6Pro_EEA|K6Pro|K6Pro|
@@ -9781,6 +9794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Entity|ENT71QF12|ENT71QF12|ENT71QF12|
 |Entity|ENT75QF620_EEA|ENT75QF620|ENT75QF620|
 |Entity|ENTG1011|ENTG1011|ENTG1011|
+|Entity|ENTITY_ERA_TAB_12|ENTITY_ERA_TAB_12|ENTITY_ERA_TAB_12|
 |Entity|ENTITY_ERA_TAB_8|ENTITY_ERA_TAB_8|ENTITY_ERA_TAB_8|
 |Entity|ENTITY_G10|ENTITY_G102IN1HARDKB|ENTITY_G102IN1HARDKB|
 |Entity|EntityG12Pro|EntityG12Pro|EntityG12Pro|
@@ -32204,6 +32218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|P7_A07|P7_A07|P7|
 |Pritom|P7_A07_EEA|P7_A07_EEA|P7|
 |Pritom|P7_A08|P7_A08|P7|
+|Pritom|P7_A10_EEA|P7_A10_EEA|P7|
 |Pritom|P7_EEA|P7_A1_EEA|P7_EEA|
 |Pritom|P7_EEA|P7_EEA|P7_EEA|
 |Pritom|PRITOM|M10_EEA|M10_EEA|
@@ -33159,6 +33174,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Pad 2 SE 4G|erhu|2604ERP4DC|
 |Redmi|REDMI Turbo 4|rodin|24129RT7CC|
 |Redmi|REDMI Turbo 4 Pro|onyx|25053RT47C|
+|Redmi|REDMI Turbo 5|klee|2511FPC34I|
+|Redmi|REDMI Turbo 5|klee|2606FRT34I|
 |Redmi|REDMI Turbo 5 Max|dash|2602BRT18C|
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
@@ -33732,6 +33749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rotai|Remoter|Rotai_1201_Remoter|Remoter|
 |Rovos|R-TP10|R-TP10|R-TP10|
 |Rovos|R-TP10_EEA|R-TP10|R-TP10|
+|Rovos|R-TP10_US|R-TP10|R-TP10|
 |Royal-rahmani|ROYALRAHMANI|hongkong|4K SMART TV|
 |Royal-rahmani|ROYALRAHMANI|stanford|2K SMART TV|
 |Royal-rahmani|Smart TV|osaka|AI PONT|
@@ -33922,6 +33940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
 |SEGO|Hot_100|Hot_100|Hot 100|
 |SEGO|MATE_10|MATE_10|MATE 10|
+|SEGO|Note 80 Ultra|SEGO_Note_80_Ultra|Note 80 Ultra|
 |SEGO|Note_70|Note_70|Note 70|
 |SEGO|Orbit O1|Orbit_O1|Orbit O1|
 |SEGO|Orbit O2|Orbit_O2|Orbit O2|
@@ -34018,6 +34037,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SIMI|DREAM2|DREAM2|Dream2|
 |SIMI|simi X3|simi_X3|simi X3|
 |SINAL|SA08_310|SA08_310|SA08_310|
+|SINAT|SINAT TOUCH ST|SINAT_TOUCH_ST|SINAT_TOUCH_ST|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
@@ -40595,6 +40615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
 |Swissvoice|G50|G50|G50|
+|Swissvoice|S515|S515|S515|
 |Switel|VS700|VS700|VS700|
 |Swosh|AndroidTV|samseong|AI PONT|
 |Swosh|Smart TV|longshan|AI PONT|
@@ -43352,6 +43373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T65_EEA|T65|T65_EEA|
 |Teclast|T65_L_ROW|T65_L|T65_L_ROW|
 |Teclast|T65_ROW|T65|T65_ROW|
+|Teclast|T70Pro_ROW|T70Pro|T70Pro_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|
 |Teclast|T70_E_ROW|T70_E|T70_E_ROW|
 |Teclast|T70_ROW|T70_ROW|T70_ROW|
@@ -52544,6 +52566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y600 Turbo|PD2553|V2553A|
+|vivo|Y60i|PD2542|V2542A|
 |vivo|Y60m|PD2559|V2559BA|
 |vivo|Y60s|PD2559|V2559A|
 |vivo|Y60s AI版|PD2559|V2559A|
