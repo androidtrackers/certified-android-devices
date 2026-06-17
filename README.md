@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-16
+Last sync is 2026-06-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -814,6 +814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 8 T4-82L-G2|AcerOne8T4-82L-G2|Acer One 8 T4-82L-G2|
 |Acer|Acer One 8 T4-82L-G2|AcerOne8T4-82L-G2|AcerOne8T4-82L-G2|
 |Acer|Acer One 8 T9-422L|AcerOne8T9-422L|Acer One 8 T9-422L|
+|Acer|Acer One Pro 87|AcerOnePro87|Acer One Pro 87|
 |Acer|Acer One T10-22L|AOT10-22L|Acer One T10-22L|
 |Acer|Acer One T11-22L|AOT11-22L|Acer One T11-22L|
 |Acer|Acer One T11-22L-5G|T11-22L-5G|Acer One T11-22L-5G|
@@ -4827,6 +4828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
 |Blu|BOLD K10|K0110|BOLD K10|
+|Blu|BOLD K12|K0230|BOLD K12|
 |Blu|BOLD K22|K0250|BOLD K22|
 |Blu|BOLD K50|K0130|BOLD K50|
 |Blu|BOLD M7|M0100WW|BOLD M7|
@@ -7710,6 +7712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|11_inch_tablet|11_inch_tablet|DG11PROGN|
 |DGTEC|DG101HSTB|DG101HSTB|DG101HSTB|
 |DGTEC|DG101SVCB|DG101SVCB|DG101SVCB|
+|DGTEC|DG101SVGB6MB|DG101SVGB6MB|DG101SVGB6MB|
 |DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
 |DGTEC|DG101TBLS|DG101TBLS|DG101TBLS|
 |DGTEC|DG7TBIPSBT|DG7TBIPSBT|DG7TBIPSBT|
@@ -14737,8 +14740,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 500|HNMEY|MEY-AN00|
 |Honor|HONOR 600|HNVKJX|VKJ-NX9|
+|Honor|HONOR 600 Elite|HNMRK-Q|MRK-NX3|
 |Honor|HONOR 600 Lite|HNLNA-M1|LNA-NX1|
 |Honor|HONOR 600 Pro|HNVKPX|VKP-NX9|
+|Honor|HONOR 600 Smart 5G|HNMRK-Q|MRK-NX1|
 |Honor|HONOR 600e|HNLNA-M1|LNA-NX3|
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
@@ -26786,6 +26791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 WIFI|ML_SO0P_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0R_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0S_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO1AA_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1S_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO2E_M7_WIFI|M7_WIFI|
@@ -30830,6 +30836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Parrot Mobile|Xplorer_2|Xplorer_2|Xplorer_2|
 |Partner|A5_2_R|A5_2_R|A5-2-R|
 |Partner|Batman|Batman|S70PCI|
+|Partner|CLEO_SERIES|CLEO_SERIES|CLEO_SERIES|
 |Partner|E15 Pro|E15_Pro|E15 Pro|
 |Partner|OT-310|OT-310|OT-310|
 |Partner|PartnerTV BOX|SEI800PNTV|PartnerTV BOX|
@@ -34650,6 +34657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 H|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 K|
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 T|
+|Safaricom|Neon_Smarta_3|Neon_Smarta_3|Neon Smarta 3|
 |Safaricom|Neon_Ultra_2_M|Neon_Ultra_2_M|Neon Ultra 2 M|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
@@ -34958,6 +34966,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A26 5G|a26x|SM-A266U1|
 |Samsung|Galaxy A26 5G|a26x|SM-S266V|
 |Samsung|Galaxy A26 5G|a26xs|SM-A266M|
+|Samsung|Galaxy A27 5G|a27xq|SM-A2760|
+|Samsung|Galaxy A27 5G|a27xq|SM-A276B|
+|Samsung|Galaxy A27 5G|a27xq|SM-A276U|
+|Samsung|Galaxy A27 5G|a27xq|SM-A276U1|
+|Samsung|Galaxy A27 5G|a27xq|SM-S276V|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -35896,6 +35909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Jump2|m33x|SM-M336K|
 |Samsung|Galaxy Jump3|m44x|SM-M446K|
 |Samsung|Galaxy Jump4|m36x|SM-M366K|
+|Samsung|Galaxy Jump5|a27xq|SM-A276K|
 |Samsung|Galaxy K|SHW-M130K|SHW-M130K|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111M|
@@ -44302,6 +44316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touch plus|770G|770G|770G|
 |Touch plus|770N|770N|770N|
 |Touch plus|AS1000|AS1000|AS1000|
+|TouchBoard|TBP_V6_PRO|TouchBoard_V6_EDLA|TBP_V6_PRO|
 |Touchmate|TM-MID1010|TM-MID1010|TM-MID1010|
 |Touchmate|TM-MID1010NB|TM-MID1010NB|TM-MID1010NB|
 |Touchmate|TM-MID1050B|TM-MID1050B|TM-MID1050B|
@@ -51460,6 +51475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iDeaUSA|CT10|CT10|CT10|
 |iDeaUSA|CT7|CT7|CT7|
 |iDevice|Uzbekistan|Uzbekistan|Uzbekistan|
+|iFLYTEK|AI_Board_Ultra|AI_Board_Ultra|AI_Board_Ultra|
 |iFLYTEK|GOV-AI|SMART-BLACKBOARD|GOV-AI251|
 |iFit|IFT1018|IFT1018|IFT1018|
 |iGet|S100|iGET_S100|S100|
@@ -51977,6 +51993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K50_US_C|K50_US_C|K50|
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO|
 |raemond|K70_US_C|K70_US_C|K70|
+|raemond|K80_EEA_BND|K80_EEA_BND|K80|
 |raemond|K80_US_BND|K80_US_BND|K80|
 |raemond|L30_US_YK|L30_US_YK|L30|
 |raemond|L90_EEA|L90|L90|
