@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-17
+Last sync is 2026-06-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11214,6 +11214,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G9_V_EEA|G9|G9|
 |GOODTEL|G9_V_EEA|G9|G9_V_EEA|
 |GOODTEL|G9_V_US|G9|G9|
+|GOTO|GOTO|elliniko|4K SMART TV|
+|GOTO|GOTO|templeton|4K SMART TV|
 |GOTV|SEID04GM|SEID04GM|GO TV Box|
 |GOtv|GO700FR|GoFreeTV|GO700FR|
 |GOtv|GOtv S|GoFreeTV|GO700FR|
@@ -19264,8 +19266,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|FOL|mountbaker|2K SMART TV|
 |KTCtv|FPS|elliniko|4K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
-|KTCtv|GOTO|elliniko|4K SMART TV|
-|KTCtv|GOTO|templeton|4K SMART TV|
 |KTCtv|GTRONIC|elliniko|4K SMART TV|
 |KTCtv|Global|elliniko|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|hongkong|GLOBAL GOOGLE TV 4K|
@@ -31145,6 +31145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Piranha|Piranha8032|Piranha8032|Piranha8032|
 |Pitney Bowes|Pitney Bowes C-Series|ELINK2|CSD-ELINK2|
 |Pitney Bowes|SendPro C Series|TitanX2|CSD-TXT2|
+|PixFrame|PixFrame|MP1231001P|MP1231001P|
 |Pixcase|Pixcase2|MP1211001P02|121-1001P02|
 |Pixela|4K SmartTuner|tennouji|PIX-SMB400|
 |Pixela|KSTB5043|KSTB5043|KSTB5043|
@@ -41133,6 +41134,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K33 5G|Beryl_Dish|T513Z|
 |TCL|TCL K33 5G|Beryl_TF|T513V|
 |TCL|TCL K33 5G|Beryl_VZW|T513SP|
+|TCL|TCL K70|Monet_TF|T523V|
+|TCL|TCL K70|Monet_VZW|T523SP|
 |TCL|TCL K70 4G|Bamboo|T522A|
 |TCL|TCL K70 5G|Monet|T523H|
 |TCL|TCL K70 Power 4G|Bamboo_Power|T522E|
@@ -41173,6 +41176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 60 Ultra|MonaLisa|T951P|
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807D|
 |TCL|TCL NXTPAPER 70 Pro|Frida|T807E|
+|TCL|TCL NXTPAPER 70 Pro|Swing_NA_OM|T807M|
 |TCL|TCL NXTPAPER 70 Pro|Swing_TMO|T807W|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
@@ -41241,6 +41245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 SE|Luna_8_4G_ATT|9136R|
 |TCL|TCL TAB 8 V|Luna|9132X|
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
+|TCL|TCL TAB A1|Athena_WIFI|9425X|
 |TCL|TCL TAB A1 Plus|Hermes_12_2|9445X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
 |TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
@@ -42118,6 +42123,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel A11 SE|Vanilla|T452Q|
 |TCT (Alcatel)|Alcatel A31 Prime|DahliaMax|T451A|
 |TCT (Alcatel)|Alcatel A31 Pro|DahliaMax|T451A|
+|TCT (Alcatel)|Alcatel A33|Dahlia|T450A|
+|TCT (Alcatel)|Alcatel A33|DahliaPro|T451A|
 |TCT (Alcatel)|Alcatel A62|A01|A601N|
 |TCT (Alcatel)|Alcatel A62|A01|A601Q|
 |TCT (Alcatel)|Alcatel AXEL™|Dubai_Plus_ATT|Alcatel_5004R|
@@ -51992,6 +51999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K30_US_C|K30_US_C|K30|
 |raemond|K50_US_C|K50_US_C|K50|
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO|
+|raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO_ROW_A|
 |raemond|K70_US_C|K70_US_C|K70|
 |raemond|K80_EEA_BND|K80_EEA_BND|K80|
 |raemond|K80_US_BND|K80_US_BND|K80|
