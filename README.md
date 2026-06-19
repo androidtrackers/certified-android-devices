@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-18
+Last sync is 2026-06-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6607,6 +6607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CoinComputers|1200AS|1200AS|1200AS|
 |CoinComputers|1200AS_plus|1200AS_plus|1200AS_plus|
 |CoinComputers|TF10EA2|TF10EA2_5|TF10EA2|
+|Colorlight|conference_aio|conference_aio|conference_aio|
 |ColorsMobile|P40_Pride_1|P40_Pride_1|P40_Pride_1|
 |ColorsMobile|P45|Colors_P45|Colors P45|
 |ColorsMobile|P50_Plus|Colors_P50_Plus|Colors P50 Plus|
@@ -17550,6 +17551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
 |Infinix|Infinix HOT 70|Infinix-X6895|Infinix X6895|
 |Infinix|Infinix HOT 70|Infinix-X6895B|Infinix X6895B|
+|Infinix|Infinix HOT 70 Pro 5G|Infinix-X6896|Infinix X6896|
 |Infinix|Infinix HOT 9|Infinix-X655|Infinix X655|
 |Infinix|Infinix HOT 9|Infinix-X655C|Infinix X655C|
 |Infinix|Infinix HOT 9|Infinix-X655D|Infinix X655D|
@@ -23870,6 +23872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAI_TOUCH|IFP MIRAI TOUCH|PE3S_Series|PE3S_Series|
 |MIRAI_TOUCH|MXXCE3XE|rk3588_t|MXXCE3XE|
+|MIRAI_TOUCH|MXXCE4S|InteractiveFlatPanelDisplay|CE4S_Series|
 |MIRAI_TOUCH|MXXCE4S|InteractiveFlatPanelDisplay|bytello_edla|
 |MIRAI_TOUCH|MXXCE4X|InteractiveFlatPanelDisplay|MXXCE4X|
 |MIRAI_TOUCH|PE4S|PE4S_Series|PE4S_Series|
@@ -30154,6 +30157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
+|PEICHENG|CP10R_Pro|CP10R_Pro|CP10_Pro|
 |PEICHENG|CP10SPro|CP10SPro|CP10SPro|
 |PEICHENG|CP10S_Pro|CP10S_Pro|CP10S_Pro|
 |PEICHENG|CP20SA|CP20SA|CP20|
@@ -32227,6 +32231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|P7_A07_EEA|P7_A07_EEA|P7|
 |Pritom|P7_A08|P7_A08|P7|
 |Pritom|P7_A10_EEA|P7_A10_EEA|P7|
+|Pritom|P7_A10_M|P7_A10_M|P7|
 |Pritom|P7_EEA|P7_A1_EEA|P7_EEA|
 |Pritom|P7_EEA|P7_EEA|P7_EEA|
 |Pritom|PRITOM|M10_EEA|M10_EEA|
@@ -40836,6 +40841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T12_Pro_EEA|T12_Pro|T12 Pro|
 |TABWEE|T12_Pro_NEU|T12_Pro|T12 Pro|
 |TABWEE|T12_Pro_RU|T12_Pro|T12 Pro|
+|TABWEE|T12_Pro_US|T12_Pro|T12 Pro|
 |TABWEE|T20_EEA|T20|T20|
 |TABWEE|T20_NEU|T20|T20|
 |TABWEE|T20_US|T20|T20|
@@ -41140,6 +41146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K70 5G|Monet|T523H|
 |TCL|TCL K70 Power 4G|Bamboo_Power|T522E|
 |TCL|TCL K70 SE|Thyme|T453D|
+|TCL|TCL K70 XE|Monet_SE_CAN|T524J|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187U|
@@ -43673,6 +43680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO MEGAPAD  SE|TECNO-T1102|TECNO T1102|
 |Tecno|TECNO MEGAPAD  SE|TECNO-T1102W|TECNO T1102W|
 |Tecno|TECNO MEGAPAD 2|TECNO-T1103|TECNO T1103|
+|Tecno|TECNO MEGAPAD SE 2|TECNO-T1002|TECNO T1002|
 |Tecno|TECNO MegaPad 11|TECNO-T1101|TECNO T1101|
 |Tecno|TECNO MegaPad Pro|TECNO-T1201|TECNO T1201|
 |Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
@@ -51998,6 +52006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |raemond|K30_US_C|K30_US_C|K30|
 |raemond|K50_US_C|K50_US_C|K50|
+|raemond|K70_C_EEA|K70_C|K70|
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO|
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO_ROW_A|
 |raemond|K70_US_C|K70_US_C|K70|
