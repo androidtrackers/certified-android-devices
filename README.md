@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-22
+Last sync is 2026-06-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18832,6 +18832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jckkcfug|A20Pro_ROW|A20Pro_ROW|A20Plus_ROW|
 |Jckkcfug|A20Pro_ROW|A20Pro_ROW|A20Pro_ROW|
 |Jckkcfug|A20Pro_ROW|A20Pro_ROW|A20_ROW|
+|Jckkcfug|A20_EEA_YK|A20_YK|A20|
 |Jckkcfug|M70_B|M70_B|M70|
 |Jeazans|A13|A13|A13|
 |Jeazans|KT1016|KT1016|KT1016|
@@ -23842,6 +23843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEFERI|ME63|ME63|ME63|
 |MEFERI|ME65|ME65|ME65|
 |MEFERI|ME74|ME74|ME74|
+|MEGAAUDIO|Multimedia_Megaaudio|Multimedia_Megaaudio|Multimedia_Megaaudio|
 |MEIZE|D105|D105|D105|
 |MEIZE|D106|D106|D106|
 |MEIZE|D108|D108|D108|
@@ -28596,6 +28598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Ace 6|OP6113L1|PLQ110|
 |OnePlus|OnePlus Ace 6 至尊版|OP64D7L1|PMB110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
+|OnePlus|OnePlus N6|OP68DD|CPH2955|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2399|
@@ -34567,6 +34570,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_B|P10_B|P10_B|
 |SVITOO|P10_B_EEA|P10_B|P10_B|
 |SVITOO|P10_D_EEA|P10_D|P10_D|
+|SVITOO|P10_D_ROW|P10_D|P10_D|
+|SVITOO|P10_D_US|P10_D|P10_D|
 |SVITOO|P10_T_EEA|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
@@ -38380,6 +38385,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R10|Lockon|A501SH|
 |Sharp|AQUOS R10|Lockon|SH-M31|
 |Sharp|AQUOS R10|SH-51F|SH-51F|
+|Sharp|AQUOS R11|Kira|A602SH|
+|Sharp|AQUOS R11|Kira|SH-51G|
+|Sharp|AQUOS R11|Kira|SH-M35|
 |Sharp|AQUOS R2|SG706SH|706SH|
 |Sharp|AQUOS R2 SH-03K|SH-03K|SH-03K|
 |Sharp|AQUOS R2 SHV42|LYV|SHV42|
@@ -41179,6 +41187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL K70|Monet_VZW|T523SP|
 |TCL|TCL K70 4G|Bamboo|T522A|
 |TCL|TCL K70 5G|Monet|T523H|
+|TCL|TCL K70 5G|Monet|T523P|
 |TCL|TCL K70 Power 4G|Bamboo_Power|T522E|
 |TCL|TCL K70 SE|Thyme|T453D|
 |TCL|TCL K70 XE|Monet_SE_CAN|T524J|
@@ -42995,6 +43004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TVUp|Mediacenter 6G 4K|SEI300T|Mediacenter 6G 4K|
 |TVision|SEI400TM|SEI400TM|TVision|
 |TVision|TVision HUB v2|SEI700TM|TVision HUB v2|
+|TWL|S24|S24|S24|
 |TWOE|2E E450A 2018|E450A2018|2E E450 2018|
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
 |TWOE|F534L|F534L|F534L|
@@ -43307,6 +43317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50S_EEA|P50S_EEA|P50S|
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50T_E_ROW|P50T_E|P50T_E_ROW|
+|Teclast|P50T_Y_EEA|P50T_Y|P50T|
 |Teclast|P50_B_EEA|P50_B_EEA|P50|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B_EEA|
@@ -52539,6 +52550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|T5 Lite 44W 5G|V2553|V2557|
 |vivo|T5 Pro|V2529|V2602|
 |vivo|T5 Pro 5G|V2568|V2568|
+|vivo|T5e|V2606|V2628|
 |vivo|T5x 5G|V2545|V2545|
 |vivo|V60|V2511|V2511|
 |vivo|V60|V2511|V2512|
@@ -52579,6 +52591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y04e|V2430|V2532|
 |vivo|Y05|V2556|V2556|
 |vivo|Y05|V2556|V2565|
+|vivo|Y05e|V2606|V2606|
 |vivo|Y11 5G|V2553|V2575|
 |vivo|Y11d|V2556|V2555|
 |vivo|Y11d|V2556|V2578|
