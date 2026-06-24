@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-23
+Last sync is 2026-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4846,6 +4846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BOLD N1|N0030WW|BOLD N1|
 |Blu|BOLD N2|N0050UU|BOLD N2|
 |Blu|BOLD N3|N0070|BOLD N3|
+|Blu|BOLD_K22|K0250|BOLD K22|
 |Blu|C1|C190|C1|
 |Blu|C2|C210|C2|
 |Blu|C4|C050|C4|
@@ -5596,8 +5597,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHiQ|Smart TV|alimos|AI PONT|
 |CHiQ|Smart TV|alimos|AI PONT FF|
 |CHiQ|Smart TV|bridgeport|AI PONT|
+|CHiQ|Smart TV|bridgeport|AI PONT PLUS FF|
 |CHiQ|Smart TV|dangni|AI PONT|
 |CHiQ|Smart TV|dundas|AI PONT|
+|CHiQ|Smart TV|hakata|AI PONT|
 |CHiQ|Smart TV|longshan|AI PONT|
 |CHiQ|Smart TV|osaka|AI PONT|
 |CHiQ|Smart TV|osaka|AI PONT CO|
@@ -12296,6 +12299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|burbank|4K KR Google TV|
 |HKC Elec|Google TV|burbank|4K PA Google TV|
 |HKC Elec|Google TV|burbank|4K SA Google TV|
+|HKC Elec|Google TV|dongbaek|2K 9216L Google TV|
 |HKC Elec|Google TV|kannai|2K JP Google TV|
 |HKC Elec|Google TV|lakeside|4K COL Google TV|
 |HKC Elec|Google TV|lakeside|4K PA Google TV|
@@ -18833,6 +18837,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jckkcfug|A20Pro_ROW|A20Pro_ROW|A20Pro_ROW|
 |Jckkcfug|A20Pro_ROW|A20Pro_ROW|A20_ROW|
 |Jckkcfug|A20_EEA_YK|A20_YK|A20|
+|Jckkcfug|A20_ROW_YK|A20_YK|A20|
+|Jckkcfug|A20_US_YK|A20_YK|A20|
 |Jckkcfug|M70_B|M70_B|M70|
 |Jeazans|A13|A13|A13|
 |Jeazans|KT1016|KT1016|KT1016|
@@ -29469,6 +29475,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno14 Pro 5G|OP5F05L1|CPH2739|
 |Oppo|Reno15|OP61B7L1|PLW110|
 |Oppo|Reno15 5G|OP62B1L1|CPH2825|
+|Oppo|Reno15 A|OP628FL1|A601OP|
+|Oppo|Reno15 A|OP628FL1|OPG08|
 |Oppo|Reno15 C 5G|OP628FL1|CPH2801|
 |Oppo|Reno15 F 5G|OP628FL1|CPH2801|
 |Oppo|Reno15 F 5G/Reno15 A|OP628FL1|CPH2801|
@@ -43318,6 +43326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50T_E_ROW|P50T_E|P50T_E_ROW|
 |Teclast|P50T_Y_EEA|P50T_Y|P50T|
+|Teclast|P50T_Y_US|P50T_Y|P50T|
 |Teclast|P50_B_EEA|P50_B_EEA|P50|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B_EEA|
@@ -44043,6 +44052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleone|I06|I06|I06|
 |Teletab|TL-4|TL-4|TL-4|
 |Teletab|TL-5|TL-5|TL-5|
+|Teletab|TL-5_ROW|TL-5_ROW|TL-5_ROW|
 |Teletab|TL-9|TL-9|TL-9|
 |Teletab|TL_9_ROW|TL_9_ROW|TL-9|
 |Telev8|MH700|MH700|MH700|
@@ -48634,6 +48644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YIKEMI|pad7_Ultra_EEA|pad7_Ultra_EEA|Pad6_Plus|
 |YINBER|S11Ultra|S11Ultra|S11Ultra|
 |YINBER|S12PLUS|S12PLUS|S12PLUS|
+|YINBER|matepadpro|matepadpro|matepadpro|
 |YINKE|P6501|P6501|P6501|
 |YINOCHE|R8|R8|R8|
 |YISHENGTC|EMEETING_3576|EMEETING_3576|EMEETING_3576|
