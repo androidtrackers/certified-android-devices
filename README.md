@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-24
+Last sync is 2026-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14927,6 +14927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
 |Honor|荣耀X70|HNMTN-Q|MTN-AN00|
 |Honor|荣耀X70|HNMTN-Q|MTN-AN80|
+|Honor|荣耀X80 Pro Max|HNBSN-Q|BSN-AN00|
 |Honor|荣耀X80i|HNLNA-M|LNA-AN00|
 |Honor|荣耀平板 10|HNHEY3-Q|HEY3-W00|
 |Honor|荣耀平板10|HNHEY3-Q|HEY3-W10|
@@ -17274,6 +17275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TE104|TE104|TE104M4|
 |IRIS_OHYAMA|TE10D1M64|TE10D1M64|TE10D1M64|
 |IRIS_OHYAMA|TE10D2M64|TE10D2M64|TE10D2M64|
+|IRIS_OHYAMA|TE10F3W64|TE10F3W64|TE10F3W64|
 |IRIS_OHYAMA|TE11F5W64|TE11F5W64|TE11F5W64|
 |IRIS_OHYAMA|TM082|TM082|TM082M4|
 |IRIS_OHYAMA|TM083|TM083|TM083|
@@ -43326,6 +43328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50S_ROW|P50S_ROW|P50S|
 |Teclast|P50T_E_ROW|P50T_E|P50T_E_ROW|
 |Teclast|P50T_Y_EEA|P50T_Y|P50T|
+|Teclast|P50T_Y_ROW|P50T_Y|P50T|
 |Teclast|P50T_Y_US|P50T_Y|P50T|
 |Teclast|P50_B_EEA|P50_B_EEA|P50|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B|
@@ -52668,7 +52671,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y600 Turbo|PD2553|V2553A|
+|vivo|Y60e|PD2542|V2542A|
+|vivo|Y60e AI版|PD2542|V2542A|
+|vivo|Y60e m版|PD2542|V2542A|
 |vivo|Y60i|PD2542|V2542A|
+|vivo|Y60i AI版|PD2542|V2542A|
+|vivo|Y60i m版|PD2542|V2542A|
 |vivo|Y60m|PD2559|V2559BA|
 |vivo|Y60s|PD2559|V2559A|
 |vivo|Y60s AI版|PD2559|V2559A|
@@ -52677,6 +52685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y6e|PD2559|V2559A|
 |vivo|Y6m|PD2532|V2532BA|
 |vivo|Y6t|PD2559|V2559A|
+|vivo|Y6t m版|PD2542|V2542A|
 |vivo|vivo V50 Lite 5G|V2440|V2440|
 |vivo|vivo V50 Lite 5G|V2440|V2450|
 |viwoods|T18A|T18A|T18A|
