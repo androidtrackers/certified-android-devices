@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-25
+Last sync is 2026-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3465,6 +3465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLUESTAR|B850J|B850J|B850J|
 |BLUEWORLD|TM12|TM12|TM12|
 |BMAX|10_Pro|10_Pro|10_Pro|
+|BMAX|11_Pro_WLAN|11_Pro_WLAN|11_Pro_WLAN|
 |BMAX|BMAX_I9|BMAX_I9|BMAX_I9|
 |BMAX|I10|I10|I10|
 |BMAX|I10Pro_LTE|I10Pro_LTE|I10Pro|
@@ -6527,6 +6528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|Neo_Clempad_2021|Neo_Clempad_2021|Neo_Clempad_2021|
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini|
 |Clevertouch|Clevertouch LUX Mini|rk3588_t|LUX_Mini_Module|
+|Clevertouch|Clevertouch_Focus|Interactive_Flat_Panel|FOCUS|
 |Clevertouch|IMPACT Lux|rk3588_t|Impact_Lux_Display|
 |Clevertouch|Pro-C|rk3576_u|Pro_C_Display|
 |Clevertouch|Pro_Series_3|rk3576_u|Pro_Series_3_Display|
@@ -17269,6 +17271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TE084|TE084|TE084|
 |IRIS_OHYAMA|TE08D1M64|TE08D1M64|TE08D1M64|
 |IRIS_OHYAMA|TE08D2M64|TE08D2M64|TE08D2M64|
+|IRIS_OHYAMA|TE08F5W64|TE08F5W64|TE08F5W64|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
 |IRIS_OHYAMA|TE102M3|TE102M3|TE102|
 |IRIS_OHYAMA|TE103M3|TE103M3|TE103|
@@ -29282,7 +29285,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PLL110|OP5DE2L1|PLL110|
 |Oppo|PLT120|OP5E1EL1|PLT120|
 |Oppo|PLT130|OP5E1EL1|PLT130|
+|Oppo|PLT140|OP5E1EL1|PLT140|
 |Oppo|Pad 4 Pro|OP615CL1|OPD2409|
+|Oppo|Pad 5|OP6573L1|OPD2502|
+|Oppo|Pad 5|OP6573L1|OPD2503|
 |Oppo|Pad 5 Pro|OP6546L1|OPD2511|
 |Oppo|Pad Air5|OP6541L1|OPD2501|
 |Oppo|Pad Air5|OP6541L1|OPD2510|
@@ -29428,9 +29434,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
 |Oppo|Reno 11|OP5ABFL1|CPH2599|
 |Oppo|Reno 11 Pro|OP5AD3L1|CPH2607|
-|Oppo|Reno 16 F 5G|OP62F3L1|CPH2859|
-|Oppo|Reno 16 FS 5G/Reno 16 F 5G|OP62F3L1|CPH2859|
-|Oppo|Reno 16c 5G|OP62F3L1|CPH2859|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
@@ -29490,7 +29493,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno15 Pro Mini 5G|OP629AL1|CPH2813|
 |Oppo|Reno15c|OP61BBL1|PMD110|
 |Oppo|Reno16|OP61F3L1|PMM110|
+|Oppo|Reno16 5G|OP6307L1|CPH2865|
+|Oppo|Reno16 F 5G|OP62F3L1|CPH2859|
+|Oppo|Reno16 FS 5G/Reno16 F 5G|OP62F3L1|CPH2859|
 |Oppo|Reno16 Pro|OP61EFL1|PMK110|
+|Oppo|Reno16 Pro 5G|OP62FDL1|CPH2863|
+|Oppo|Reno16c 5G|OP62F3L1|CPH2859|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -45426,6 +45434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VID(CN)|GQ3127RH1|GQ3127RH1_VID|GQ3127RH1|
 |VID(CN)|GQ3128RH1|GQ3128RH1_VID|GQ3128RH1|
 |VID(CN)|GQ3129RH1|GQ3129RH1|GQ3129RH1|
+|VID(CN)|GQ3131RF1|GQ3131RF1_VID|GQ3131RF1|
 |VID(CN)|GQ5007AF2|GQ5007AF2|GQ5007AF2|
 |VID(CN)|GQ5007TF2|GQ5007TF2_VID|GQ5007TF2|
 |VID(CN)|GQ5008 AF3|GQ5008AF3_VID|GQ5008AF3|
@@ -48925,6 +48934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOOMSMART|LT600T|LT600T|LT600T|
 |ZOOMSMART|LT800|LT800|LT800|
 |ZOOMSMART|ZM10_EEA|ZM10|ZM10|
+|ZOOMSMART|ZM800|ZM800|ZM800|
 |ZOOMSMART|ZM800_EEA|ZM800|ZM800|
 |ZTE||BUL_P726G|ZTE-RACER|
 |ZTE||D930|D930|
@@ -51788,6 +51798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2510|
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2515|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
+|iQOO|iQOO Z11i|PD2559|V2559UA|
 |iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
 |iQOO|iQOO Z9 Lite|I2306|I2306|
@@ -52547,6 +52558,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Metal Pro 2|V505920|V505920|
 |videocon|Starr 100|V406018|V406018|
 |vivo|G3|PD2443|V2443A|
+|vivo|G5i|PD2531|V2531A|
+|vivo|G5z|PD2531|V2531A|
 |vivo|Pad5|DPD2437|PA2553|
 |vivo|Pad5e|DPD2345|PA2455|
 |vivo|Pad5e|DPD2345|PA2535|
