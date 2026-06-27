@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-26
+Last sync is 2026-06-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3152,6 +3152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AvidPad|A90PRO|A90PRO|A90PRO|
 |AvidPad|A90S-1|A90S-1|A90S-1|
 |AvidPad|S30|S30|S30|
+|AvidPad|S30Pro|S30Pro|S30Pro|
 |AvidPad|S60|S60|S60|
 |AvidPad|S80|S80|S80|
 |AvidPad|S90|S90|S90|
@@ -5337,6 +5338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bouygues Telecom|Bbox Miami|HMB4213H|BouygtelTV|
 |Bouygues Telecom|BboxTV|UZW4020BYT|BboxTV|
 |Bouygues Telecom|BboxTV-4A|HMB2013CW22|BboxTV-4A|
+|Bouygues Telecom|BboxTV-4B|UIW4084BYT|BboxTV-4B|
 |Bouygues Telecom|Bs 451|Bs_451|Bs 451|
 |Bphone|Bphone_A40|Bphone_A40|Bphone A40|
 |Bphone|Bphone_A85_5G|Bphone_A85_5G|Bphone A85 5G|
@@ -10320,6 +10322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOSSiBOT|F102|F102|F102|
 |FOSSiBOT|F102 ROW|F102|F102|
 |FOSSiBOT|F105|F105|F105|
+|FOSSiBOT|F105|F105|F125|
 |FOSSiBOT|F105_Pro_EEA|F105_Pro|F105 Pro|
 |FOSSiBOT|F105_Pro_ROW|F105_Pro|F105 Pro|
 |FOSSiBOT|F106 Pro EEA|F106_Pro|F106 Pro|
@@ -13942,6 +13945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense F35 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense M50|
 |Hisense|HLTE243E|HLTE243E|Hisense M72 Pro|
+|Hisense|HLTE243E|HLTE243E|Hisense M73 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T2 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T3|
@@ -24848,6 +24852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mengdash|M_Q58|M_Q58|M_Q58|
 |Mengdash|M_Q58_EEA|M_Q58_EEA|M_Q58EEA|
 |Mengdash|M_Q59|M_Q59|M_Q59|
+|Meswao|B3-EEA|B3|B3|
 |Meswao|MES-B|MES-B|MES-B|
 |Meswao|MES-B3|MES-B3|MES-B3|
 |MetfoneTVBox|MetfoneTVBox|DV9135-KCM|MetfoneTVBox|
@@ -31270,6 +31275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids10_A15_US|Kids10_A15|Kids10_A15_US|
 |Plimpton|Kids10_A16_EEA_JAE|Kids10_A16_EEA_JAE|Kids10_A16_EEA_JAE|
 |Plimpton|Kids10_A16_JAE|Kids10_A16_JAE|Kids10_A16_JAE|
+|Plimpton|Kids10_A16_US_JAE|Kids10_A16_US_JAE|Kids10_A16_US_JAE|
 |Plimpton|Kids20|Kids20|Kids20|
 |Plimpton|Kids20A14|Kids20A14|Kids20|
 |Plimpton|Kids20A14_EEA|Kids20A14_EEA|Kids20|
@@ -44065,6 +44071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teletab|TL-5|TL-5|TL-5|
 |Teletab|TL-5_ROW|TL-5_ROW|TL-5_ROW|
 |Teletab|TL-9|TL-9|TL-9|
+|Teletab|TL_4_ROW|TL_4_ROW|TL_4_ROW|
 |Teletab|TL_9_ROW|TL_9_ROW|TL-9|
 |Telev8|MH700|MH700|MH700|
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
@@ -52082,6 +52089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|raemond|K30_EEA_C|K30_EEA_C|K30|
 |raemond|K30_US_C|K30_US_C|K30|
 |raemond|K50_EEA_C|K50_EEA_C|K50|
 |raemond|K50_US_C|K50_US_C|K50|
@@ -52091,6 +52099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO_ROW_A|
 |raemond|K70_US_C|K70_US_C|K70|
 |raemond|K80_EEA_BND|K80_EEA_BND|K80|
+|raemond|K80_ROW_BND|K80_ROW_BND|K80|
 |raemond|K80_US_BND|K80_US_BND|K80|
 |raemond|L30_US_YK|L30_US_YK|L30|
 |raemond|L90_EEA|L90|L90|
