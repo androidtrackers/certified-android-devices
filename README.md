@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-27
+Last sync is 2026-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30331,6 +30331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C81|arctic|25128PC17I|
 |POCO|POCO C81 Pro|arctic|25128PC17G|
 |POCO|POCO C81 Pro|arctic|25128PC17L|
+|POCO|POCO C81 Pro|arctic|25128PC17Y|
 |POCO|POCO C81x|serenity|26020PCB4I|
 |POCO|POCO C85|dew|25078PC3EE|
 |POCO|POCO C85|dew|25078PC3EG|
