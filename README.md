@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-28
+Last sync is 2026-06-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5767,6 +5767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star8|Star8|Star8|
 |CORN|Star8_3G|Star8_3G|Star8_3G|
 |CORN|Star9_4G|Star9_4G|Star9 4G|
+|CORN|Star9_4G|Star9_4G|Star9_4G|
 |CORN|Star9_Max|Star9_Max|Star9_Max|
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
 |CORN|T12Pro|T12Pro|T12Pro|
@@ -7966,6 +7967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|D809ProPlus|D809ProPlus|D809ProPlus|
 |Danew|DSlide 710|Dslide710|Dslide710|
 |Danew|DSlide 750|Danew_DSlide750|DSlide750|
+|Danew|DSlide_1096|DSlide_1096|DSlide_1096|
 |Danew|Dbook112_EEA|Dbook112_EEA|Dbook112_EEA|
 |Danew|Dbook_110|Dbook_110|Dbook_110|
 |Danew|Dbook_110_EEA|Dbook_110|Dbook_110|
@@ -9818,6 +9820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Entity|ENT71QF12|ENT71QF12|ENT71QF12|
 |Entity|ENT75QF620_EEA|ENT75QF620|ENT75QF620|
 |Entity|ENTG1011|ENTG1011|ENTG1011|
+|Entity|ENTITY_ERA_TAB_10|ENTITY_ERA_TAB_10|ENTITY_ERA_TAB_10|
 |Entity|ENTITY_ERA_TAB_12|ENTITY_ERA_TAB_12|ENTITY_ERA_TAB_12|
 |Entity|ENTITY_ERA_TAB_8|ENTITY_ERA_TAB_8|ENTITY_ERA_TAB_8|
 |Entity|ENTITY_G10|ENTITY_G102IN1HARDKB|ENTITY_G102IN1HARDKB|
@@ -14972,6 +14975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|MZ10863W|MZ10863W|MZ10863W|
 |Hoozo|MZS10|MZS10|MZS10|
 |Hoozo|T10A|T10A|T10A|
+|Hoozo|W56_US|W56|W56|
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
 |Horion|HORION|jagalchi|2K SMART TV|
@@ -18637,6 +18641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
 |JOVI|JOVI Y21|J2503|J2503|
+|JOVI|JOVI Y21|J2503|J2609|
 |JOVI|JOVI Y21 5G|J2508|J2508|
 |JOVI|JOVI Y21e|J2601|J2601|
 |JOVI|JOVI Y29|V2434B|V2445|
@@ -23736,6 +23741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3SM15X|M3SM15X|M3SM15X|
 |M3 Mobile|M3SM15X_EEA|M3SM15X|M3SM15X|
 |M3 Mobile|M3SM24|M3SM24|M3SM24|
+|M3 Mobile|M3SM25|M3SM25|M3SM25|
 |M3 Mobile|M3SM30|M3SM30|M3SM30|
 |M3 Mobile|M3UL20F_EEA|M3UL20F|M3UL20F|
 |M3 Mobile|M3UL20W_EEA|M3UL20W|M3UL20W|
@@ -26255,6 +26261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g fast|rav|moto g fast|
 |Motorola|moto g max|naples|moto g max|
 |Motorola|moto g max|naples|moto g67|
+|Motorola|moto g max|naples|moto g87|
 |Motorola|moto g play (2021)|guamna|moto g play (2021)|
 |Motorola|moto g play (2021)|guamna|moto g play (XT2093DL)|
 |Motorola|moto g play - 2024|fogona|moto g play - 2024|
@@ -41324,6 +41331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB A1|Athena_WIFI|9425X|
 |TCL|TCL TAB A1 NXTPAPER|Athena_Vision|9425X|
 |TCL|TCL TAB A1 Plus|Hermes_12_2|9445X|
+|TCL|TCL TAB A1 Plus NXTPAPER|Hermes_12_2_Vis|9445X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
 |TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
 |TCL|TCL TAB HD WIFI|Logan|9460G|
@@ -45457,6 +45465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VID(CN)|GQ5021AH2|GQ5021AH2_VID|GQ5021AH2|
 |VID(CN)|GQ5021RH1|GQ5021RH1_VID|GQ5021RH1|
 |VID(CN)|GQ8000BF2|GQ8000BF2|GQ8000BF2|
+|VID(CN)|GQ8002RH1|GQ8002RH1_VID|GQ8002RH1|
 |VID(CN)|R1000BF4|GR1000BF4|GR1000BF4|
 |VIEWEDGE|V11|V11|Viewedge Tab 11|
 |VIEWEDGE|V11_EEA|V11|Viewedge Tab 11|
@@ -52102,6 +52111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K80_EEA_BND|K80_EEA_BND|K80|
 |raemond|K80_ROW_BND|K80_ROW_BND|K80|
 |raemond|K80_US_BND|K80_US_BND|K80|
+|raemond|K90Pro_EEA_BND|K90Pro_EEA_BND|K90Pro_EEA_BND|
 |raemond|L30_US_YK|L30_US_YK|L30|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
@@ -52609,6 +52619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70 Lite 5G|V2529|V2637|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
+|vivo|X Fold6|PD2545|V2545A|
 |vivo|X200 FE|V2503|V2503|
 |vivo|X200 FE|V2503|V2505|
 |vivo|X200T|V2561|V2561|
