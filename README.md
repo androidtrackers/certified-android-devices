@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-29
+Last sync is 2026-06-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7514,6 +7514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEA Factory|KTAB|KTAB|KTAB|
 |DECIBELL|DB6621|DB6621|DB6621|
 |DEED|DC-WT15|DC-WT15|DC-WT15|
+|DEEMWOLF|M686-EEA|M686-EEA|M686-EEA|
 |DEERTiME|E10_EEA|E10_EEA|E10_EEA|
 |DEERTiME|E10_US|E10_US|E10_US|
 |DEERTiME|E11_EEA|E11_EEA|E11_EEA|
@@ -23667,6 +23668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lunnen|TL62810G01|TL62810G01|Lunnen Ground 10.4|
 |Lunnen|TL62810G01|TL62810G01|TL62810G01|
 |Lunnen|TL85611B01|TL85611B01|Lunnen Ground 11|
+|Lunnen|TL85612B01|TL85612B01|Lunnen Ground 12.2|
 |Lunnen|TL85612L01|TL85612L01|Lunnen Ground 12.2|
 |Lyf|LS-4004|LS-4004|LS-4004|
 |Lyf|LS-4006|LS-4006|LYF_LS-4006|
@@ -23876,6 +23878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEIZE|D125_EEA|D125_EEA|D125_EEA|
 |MEIZE|D126|D126|D126|
 |MEIZE|D126_EEA|D126_EEA|D126_EEA|
+|MEIZE|D126_PRO_US|D126_PRO_US|D126_PRO_US|
 |MEIZE|D126_TAB|D126_TAB|D126_TAB|
 |MEIZE|D126_TAB_EEA|D126_TAB_EEA|D126_TAB_EEA|
 |MEIZE|D131|D131|D131|
@@ -27702,6 +27705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newsday|U5|GIGI_U5|U5|
 |Nexall|N90_EEA|N90|N90|
 |Nexall|N90_NEU|N90|N90|
+|Nexall|N90_US|N90|N90|
 |Nexel|Infinity|Infinity|Infinity|
 |Nexel|Infinity_Lite|Infinity_Lite|Infinity_Lite|
 |Nexian|journey one|Mi438S_sprout|Mi438S|
@@ -34032,6 +34036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|SEGO_NOTE_80|SEGO_NOTE_80|NOTE 80|
 |SEGO|SEGO_NOTE_80|SEGO_NOTE_80|NOTE_80|
 |SEGO|SEGO_S24|S24|S24|
+|SEGO|SEGO_Smart_20_HD|SEGO_Smart_20_HD|Smart 20 HD|
 |SEGO|SEGO_Smart_20_HD|SEGO_Smart_20_HD|Smart_20_HD|
 |SEGO|SEGO_Zero_50|ZERO_50|ZERO 50|
 |SEGO|S_PAD|S_PAD|DT6P30YK|
@@ -40468,6 +40473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|DVK82 Mercury|DVK82_Mercury|DVK82 Mercury|
 |Stylo|DVK87_Orion 8_Tab|DVK87_Orion_8_Tab|DVK87 Orion 8 Tab|
 |Stylo|Destiny|Destiny|Destiny|
+|Stylo|ECLIPSE_TAB_8|ECLIPSE_TAB_8|ECLIPSE TAB 8|
 |Stylo|EOA39_STYLO_AXIS|EOA39_STYLO_AXIS|EOA39-STYLO AXIS|
 |Stylo|ERA|Smart_Phone|EPY32|
 |Stylo|Energy|Energy|Energy|
@@ -51811,6 +51817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z10 Turbo|PD2452|V2452A|
 |iQOO|iQOO Z10 Turbo+|PD2507|V2507A|
 |iQOO|iQOO Z10R 5G|I2505|I2505|
+|iQOO|iQOO Z11|PD2551|V2551A|
 |iQOO|iQOO Z11 5G|I2512|I2512|
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2510|
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2515|
@@ -52121,6 +52128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_EEA_A|M70_EEA_A|M70|
 |raemond|M70_ROW_A|M70_ROW_A|M70|
 |raemond|M70_US_A|M70_US_A|M70|
+|raemond|T30_ROW|T30_ROW|T30|
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
 |raemond|X70_US|X70_US|X70|
@@ -52705,6 +52713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y600 Turbo|PD2553|V2553A|
+|vivo|Y60c|PD2542|V2542A|
 |vivo|Y60e|PD2542|V2542A|
 |vivo|Y60e AI版|PD2542|V2542A|
 |vivo|Y60e m版|PD2542|V2542A|
