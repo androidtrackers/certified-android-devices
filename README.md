@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-06-30
+Last sync is 2026-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5770,10 +5770,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star9_4G|Star9_4G|Star9_4G|
 |CORN|Star9_Max|Star9_Max|Star9_Max|
 |CORN|Star9_Pro|Star9_Pro|Star9_Pro|
+|CORN|T12Pro|T12Pro|P98|
 |CORN|T12Pro|T12Pro|T12Pro|
 |CORN|The_Leader_Kids_4G|The_Leader_Kids_4G|The Leader Kids 4G|
 |CORN|The_Leader_Kids_Pro|The_Leader_Kids_Pro|The_Leader_Kids_Pro|
 |CORN|The_Leader_Tab8_4G|The_Leader_Tab8_4G|The Leader Tab8 4G|
+|CORN|The_Leader_Tab8_4G|The_Leader_Tab8_4G|The_Leader_Tab8_4G|
 |CORN|Tronik 13S|Tronik_13S|Tronik 13S|
 |CORN|Tronik_12|Tronik_12|Tronik_12|
 |CORN|Tronik_12S|Tronik_12S|Tronik_12S|
@@ -7393,6 +7395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|MAX  2|MAX_2|MAX 2|
 |Cubot|MAX 3|MAX_3|MAX 3|
 |Cubot|MAX 5|MAX_5|MAX 5|
+|Cubot|MegaPad|MegaPad|MegaPad|
 |Cubot|NOTE 20|NOTE_20|NOTE 20|
 |Cubot|NOTE 20 PRO|NOTE_20_PRO|NOTE 20 PRO|
 |Cubot|NOTE 30|NOTE_30|NOTE 30|
@@ -7734,6 +7737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|DG101SVCB|DG101SVCB|DG101SVCB|
 |DGTEC|DG101SVGB6MB|DG101SVGB6MB|DG101SVGB6MB|
 |DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
+|DGTEC|DG101TBLS|101inch_tablet|DG101TBLS|
 |DGTEC|DG101TBLS|DG101TBLS|DG101TBLS|
 |DGTEC|DG7TBIPSBT|DG7TBIPSBT|DG7TBIPSBT|
 |DGTEC|DG7TBIPSDG|DG7TBIPSDG|DG7TBIPSDG|
@@ -8383,6 +8387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|NOTE 16|NOTE_16|NOTE 16|
 |Digit|NOTE 20|NOTE_20|NOTE 20|
 |Digit|Sonic_One|Sonic_One|Sonic One|
+|Digit|Titan_5G|Titan_5G|Titan 5G|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
 |Digital2|Plus|Digital2Plus|Digital2 Plus|
@@ -14892,6 +14897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7d|HNLGN-QL|LGN-LX2|
 |Honor|HONOR X7d|HNLGN-QL|LGN-LX3|
 |Honor|HONOR X7e|HNLAB-M|LAB-LX2|
+|Honor|HONOR X7e|HNLAB-M|LAB-LX3|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -17297,6 +17303,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TM101|Odin2|TM101|
 |IRIS_OHYAMA|TM102|TM102|TM102M4|
 |IRIS_OHYAMA|TM103|TM103|TM103M4|
+|IRIS_OHYAMA|TM11F6W74|TM11F6W74|TM11F6W74|
+|IRIS_OHYAMA|TM11F7W74|TM11F7W74|TM11F7W74|
 |IRIS_OHYAMA|TM12E2W74|TM12E2W74|TM12E2W74|
 |IRIS_OHYAMA|TM12E3W74|TM12E3W74|TM12E3W74|
 |IRIS_OHYAMA|TM153M6|TM153M6|TM153|
@@ -32121,6 +32129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pretech|1108A|1108A|L1108|
 |Pretech|L1008|L1008|L1008|
 |Pretech|L1108|L1108|P301_L1108|
+|Pretech|L1208|L1208|L1208|
 |Pretech|WP101|WP101|WP101|
 |Pretech|WP30|WP30|WP30|
 |Prime|O9|PRIME_O9|O9|
@@ -34056,6 +34065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SENRAISE|H10|H10|H10|
 |SENRAISE|H10_EEA|H10|H10|
 |SENSE|TW102|TW102|TW102|
+|SENSES|EDGE_PRO|SE82B_83B|RK3576|
 |SENSES|XXIP1000|SE_9679|SE_9679|
 |SENSETALK|ACM-T01K|ACM-T01K|ACM-T01K|
 |SENSONICS|K3C_7570|K3C|K3C_7570|
@@ -40945,6 +40955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|W90_EEA|W90|W90|
 |TABWEE|W90_NEU|W90|W90|
 |TABWEE|W90_RU|W90|W90|
+|TABWEE|W90_US|W90|W90|
 |TADI|TADI_TOUCH_1_SERIES|TADI_TOUCH_1|TADI_TOUCH_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
 |TAG Heuer|Connected 2020|orbital|TAG Heuer|
@@ -43261,6 +43272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M50_ROW|M50_ROW|M50_ROW|
 |Teclast|M50_ROW|M50_T|M50_ROW|
 |Teclast|M50_RUS|M50_RUS|M50_RUS|
+|Teclast|M50_W_ROW|M50_W|M50_W_ROW|
 |Teclast|M50mini_ROW|M50mini|M50mini_ROW|
 |Teclast|P10HD_N5H6|P10S_ROW|P10S_ROW|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|
@@ -52672,6 +52684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d|V2543|V2582|
 |vivo|Y31d|V2543|V2611|
 |vivo|Y31d|V2543|V2636|
+|vivo|Y31d|V2543U|V2611|
 |vivo|Y31d Pro|V2543U|V2543|
 |vivo|Y31e 5G|V2521|V2533|
 |vivo|Y31s 5G|V2521|V2614|
