@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-01
+Last sync is 2026-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6585,6 +6585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CloudFone|ThrillBoost2Plus|ThrillBoost2Plus|Thrill Boost 2 Plus|
 |CloudMinds|A1-901|A1-901|A1-901|
 |CloudMinds|OTTTAB2|OTTTAB2|OTTTAB2|
+|Cloud_Mobile|C9|Stratus_C9|Stratus C9|
 |Cloud_Mobile|C9 Prime|Stratus_C9_Prime|Stratus C9 Prime|
 |Cloud_Mobile|MC8B654B100136|MC8B654B|MC8B654B|
 |Cloud_Mobile|Stratus_C8|Stratus_C8|Stratus C8|
@@ -9194,7 +9195,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30L1_US|A30L1|A30L1|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
-|ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A_US|
 |ECOPAD|C30plus|C30plus|C30plus|
 |ECOPAD|C30plus_EEA|C30plus|C30plus|
 |ECOPAD|C30plus_US|C30plus|C30plus|
@@ -15068,6 +15068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Hyper 7S|Hyper_7S|Hyper 7S|
 |Hotwav|Hyper 8 Pro|Hyper_8_Pro|Hyper 8 Pro|
 |Hotwav|Hyper 8 Ultra|Hyper_8_Ultra|Hyper 8 Ultra|
+|Hotwav|Hyper 8E|Hyper_8E|Hyper 8E|
 |Hotwav|M5|M5|M5|
 |Hotwav|M5 Plus|M5_Plus|M5 Plus|
 |Hotwav|M5_2021|M5_2021|M5 2021|
@@ -25772,6 +25773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Morep|Morep Mavic Plus|Mavic_Plus|M610|
 |Morep|Morep Pocket|Morep_Pocket|M320|
 |Morep|Smart V1|Smart_V1|M521|
+|Morep|V6|V6|V6|
 |Morep|v5|morep_v5|morep_v5|
 |Mosambee|Qphone2 4110|Qphone2_4110|Qphone2_4110|
 |Mosambee|SPPF 4110|SPPF_4110|SPPF_4110|
@@ -30229,6 +30231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|A5|A5|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
+|PEICHENG|AT74K|AT74K|BG-7|
 |PEICHENG|CP10R_Pro|CP10R_Pro|CP10_Pro|
 |PEICHENG|CP10SPro|CP10SPro|CP10SPro|
 |PEICHENG|CP10S_Pro|CP10S_Pro|CP10S_Pro|
@@ -31085,6 +31088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S562Z|S562Z|Philips S562Z|
 |Philips|Philips S6206|S6206|S6206|
 |Philips|Philips S6320T|Philips-S6320T|Philips S6320T|
+|Philips|Philips S706P|Philips_S706P|Philips S706P|
 |Philips|Philips S8310 EEA|Philips_S8310|Philips S8310|
 |Philips|Philips S8320 EEA|Philips_S8320|Philips S8320|
 |Philips|Philips S8325|Philips_S8325|Philips S8325|
@@ -34125,6 +34129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SILVER MAX|ST-810|ST_810A|ST-810|
 |SILVERWIN|SWA10E5LTE|SWA10E5LTE|SWA10E5LTE|
 |SILVERWIN|SWA8E2|SWA8E2|SWA8E2|
+|SILVERWIN|SWA8F1K|SWA8F1K|SWA8F1K|
 |SIMI|COOL2|COOL2|COOL2|
 |SIMI|COOL2|COOL2|Edge X2|
 |SIMI|COOL2|COOL2|Edge_X2|
