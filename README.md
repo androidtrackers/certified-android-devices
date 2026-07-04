@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-03
+Last sync is 2026-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4848,6 +4848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BOLD N1|N0030WW|BOLD N1|
 |Blu|BOLD N2|N0050UU|BOLD N2|
 |Blu|BOLD N3|N0070|BOLD N3|
+|Blu|BOLD_K12|K0230|BOLD K12|
 |Blu|BOLD_K22|K0250|BOLD K22|
 |Blu|C1|C190|C1|
 |Blu|C2|C210|C2|
@@ -7378,9 +7379,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG ACE 3|KINGKONG_ACE_3|KINGKONG ACE 3|
 |Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG Dura|KINGKONG_Dura|KINGKONG Dura|
+|Cubot|KINGKONG E1|KINGKONG_E1|KINGKONG E1|
 |Cubot|KINGKONG ES|KINGKONG_ES|KINGKONG_ES|
 |Cubot|KINGKONG ES 3|KINGKONG_ES_3|KINGKONG ES 3|
 |Cubot|KINGKONG ES 5|KINGKONG_ES_5|KINGKONG ES 5|
+|Cubot|KINGKONG ES PRO|KKESPRO|KINGKONG ES PRO|
 |Cubot|KINGKONG MINI 3|KINGKONGMINI3|KINGKONG MINI 3|
 |Cubot|KINGKONG MINI 4|KINGKONG_MINI_4|KINGKONG MINI 4|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
@@ -10387,6 +10390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|A65Plus|A65Plus|A65Plus|
 |FOXXD|A65U|A65U|A65U|
 |FOXXD|A67L|A67L|A67L|
+|FOXXD|A67L Gen2|A67L_Gen2|A67L Gen2|
 |FOXXD|A67U|A67U|A67U|
 |FOXXD|A67W|A67W|A67W|
 |FOXXD|A67W_Lite|A67W_Lite|A67W Lite|
@@ -13611,6 +13615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haus|HAUS_JS410|HAUS_JS410|JS410|
 |Haus|JS409|JS409|JS409|
 |Haus|JS420|JS420|JS420|
+|Haus|JS430 _Wave|JS430_Wave|JS430_Wave|
 |Haus|JS550|JS550|JS550|
 |Heco|KiddoPad_K2|KiddoPad_K2|KiddoPad_K2|
 |Helgi|HELGI_C_Series_PRO|rk3576_u|HCPxx10|
@@ -24174,6 +24179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MYCOM|COMEKPad|COMEKPad|COMEK Tab|
 |MYCOM|COMEK_Pad10|COMEK_Pad10|COMEK Pad 10|
 |MYCOM|COMEK_Pad_10|COMEK_Pad_10|COMEK Pad 10|
+|MYCOM|COMEK_Smart20|COMEK_Smart20|COMEK_Smart20|
 |MYCOM|COMEK_Tab_10|COMEK_Tab_10|COMEK Tab 10|
 |MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
 |MaQ(Global)|M.AI Phone Gen1|MAG1|MA1|
@@ -48076,6 +48082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-Age|G1|G1|G1|
 |X-Age|G1LITE|G1LITE|G1LITE|
 |X-Age|G2|G2|G2|
+|X-Age|Leap_Plus|Leap_Plus|X-AGE|
 |X-Age|Tab40|Tab40|Tab40|
 |X-Age|Tab_31|Tab_31|Tab_31|
 |X-Age|X_AGE_Leap_1|X_AGE_Leap_1|X-AGE Leap 1|
@@ -52538,6 +52545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |snowa|Smart TV|bridgeport|AI PONT PLUS FF|
 |snowa|Smart TV|dangni|AI PONT|
 |solanamobile|Seeker|seeker|Seeker|
+|spectramobile|SPECTRA GO|SPECTRA_GO|SPECTRA GO|
 |spectramobile|Spectra J1|Spectra_J1|Spectra J1|
 |spectramobile|Spectra J1 PRO|Spectra_J1P|Spectra J1 PRO|
 |spectramobile|Spectra J2 Pro|Spectra_J2_Pro|Spectra_J2_Pro|
