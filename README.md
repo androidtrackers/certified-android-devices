@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-05
+Last sync is 2026-07-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12021,6 +12021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
 |Google|emulator|emu64xa|sdk_gphone64_x86_64|
+|Google|gambit|gambit|gambit|
 |Google|gcar emulator|generic_64bitonly_x86_64|Automotive SDK built for x86_64|
 |Google|gcar emulator|generic_x86|AOSP on x86|
 |Google|gcar emulator|generic_x86|Automotive SDK built for x86|
@@ -17300,6 +17301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIS_OHYAMA|TE084|TE084|TE084|
 |IRIS_OHYAMA|TE08D1M64|TE08D1M64|TE08D1M64|
 |IRIS_OHYAMA|TE08D2M64|TE08D2M64|TE08D2M64|
+|IRIS_OHYAMA|TE08F3W64|TE08F3W64|TE08F3W64|
 |IRIS_OHYAMA|TE08F5W64|TE08F5W64|TE08F5W64|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
 |IRIS_OHYAMA|TE102M3|TE102M3|TE102|
@@ -28676,6 +28678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord CE4|OP5D3FL1|CPH2613|
 |OnePlus|OnePlus Nord CE4 Lite 5G|OP5D49L1|CPH2619|
 |OnePlus|OnePlus Nord CE4 Lite 5G|OP5D49L1|CPH2621|
+|OnePlus|OnePlus Nord CE6|OP6505L1|CPH2805|
 |OnePlus|OnePlus Nord CE6|OP6505L1|CPH2807|
 |OnePlus|OnePlus Nord CE6 Lite|OP68D9L1|CPH2943|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
@@ -33716,6 +33719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|T901_EUR|T901_EUR|T901|
 |Relndoo|T901_U|T901_U|T901|
 |Relndoo|T901_US|T901_US|T901_US|
+|Relndoo|T901_Y_US|T901_Y|T901|
 |Relndoo|TAB10|TAB10|TAB10|
 |Relndoo|TAB10-Pro|TAB10-Pro|TAB10|
 |Relndoo|TAB10_EEA|TAB10_EEA|TAB10|
@@ -52170,6 +52174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_EEA_A|M70_EEA_A|M70|
 |raemond|M70_ROW_A|M70_ROW_A|M70|
 |raemond|M70_US_A|M70_US_A|M70|
+|raemond|M90_MAX_EEA|M90_MAX_EEA|M90_MAX|
 |raemond|T30_ROW|T30_ROW|T30|
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
