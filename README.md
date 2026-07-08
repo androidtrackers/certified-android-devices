@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-07
+Last sync is 2026-07-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1989,9 +1989,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Anyreal|Note56 Pro|1928CT-AR|Note56 Pro|
 |Anyreal|Note56X Pro|1928SE-AR|Note56X Pro|
 |Anyreal|P5C-AR|P5C-AR|U13|
+|Anyreal|P8-AR|P8-AR|Tab G6 Max|
 |Anyreal|T2U-AR|T2U-AR|U11 Pro|
 |Anyreal|Tab A9|RK5-AR|Tab A9|
 |Anyreal|Tab G5|T5-AR|Tab G5|
+|Anyreal|U13 Pro|P8T-AR|U13 Pro|
 |AoGo|AoGo1|AoGo1|AoGo1|
 |Aocwei|X300|X300|X300|
 |Aocwei|X300_EEA|X300_EEA|X300_EEA|
@@ -5470,8 +5472,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Apollo Premium TV|nagata|Apollo Premium TV|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|CAIXUN SMART TV|marina|CAIXUN SMART TV|
+|CAIXUN|Caixun 2K|dongnae|Caixun 2K|
+|CAIXUN|Caixun 2K Smart TV|dongnae|Caixun 2K Smart TV|
+|CAIXUN|Caixun 2K Smart TV|dongnae|Caixun 2K Smart TV|
 |CAIXUN|Caixun 4K Google TV|halandri|Caixun 4K Google TV|
 |CAIXUN|Caixun 4K TV|halandri|Caixun 4K TV|
+|CAIXUN|Caixun Google TV|dongnae|Caixun Google TV|
 |CAIXUN|Caixun TV|marina|Caixun TV|
 |CAIXUN|Caixun TV|nagata|Caixun TV|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
@@ -5488,6 +5494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
 |CAIXUN|Pakistan|sepolia|KONVO 4K SMART TV|
 |CAIXUN|Sgamer|cottongreen|Sgamer|
+|CAIXUN|Smart TV 2K|dongnae|Smart TV 2K|
 |CAIXUN|South America|sepolia|AiPro4K TV|
 |CAIXUN|South of America|marina|Apollo Pro4K TV|
 |CAIXUN|South of America|martin|AiPlus2K|
@@ -6670,8 +6677,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|Android TV|R2|ATV R2|
 |Compaq|COMPAQ|stanford|SMART TV|
 |Compaq|COMPAQ|zhongshan|SMART TV|
+|Compaq|COMPAQ GOOGLE TV|dongnae|COMPAQ GOOGLE TV|
+|Compaq|COMPAQ SMART TV|dongnae|COMPAQ SMART TV|
 |Compaq|COMPAQ SMART TV|marina|COMPAQ SMART TV|
 |Compaq|COMPAQ SMART TV|nagata|COMPAQ SMART TV|
+|Compaq|COMPAQ TV|dongnae|COMPAQ TV|
 |Compaq|CT101|fireball|CT101|
 |Compaq|CT201|CT201|CT201|
 |Compaq|CT211|CT211|CT211|
@@ -8920,6 +8930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|V40 Max|ZN138PS|V40 Max|
 |Doogee|V40 Pro|ZN138P|V40 Pro|
 |Doogee|V40 X|ZN138PET|V40 X|
+|Doogee|V50|M25|V50|
 |Doogee|V50 Pro|M25|V50|
 |Doogee|V50 Ultra|M25P|V50 Pro|
 |Doogee|VPad Pro|P8T|U13 Pro|
@@ -9445,6 +9456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|k503|K503|K503|
 |EPSON-PowerBoard_Pro|Epson India Private Limited|Interactive_Display|EI-XXXXP|
 |EQUINOXE|Europe|martin|SE 2K Android Monitor|
+|EQUINOXE|SE 2K Google TV|dongnae|SE 2K Google TV|
 |ER-Telecom|Movix Pro Voice|SEI700ER|Movix Pro Voice|
 |ESI Enterprises|CKT3|CKT3|CKT3|
 |ESI Enterprises|DT101Bv51|DT101Bv51|DT101Bv51|
@@ -9566,6 +9578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Eaglesoar|EE_35_EEA|EE_35_EEA|EE_35_EEA|
 |Eaglesoar|E_764_EEA|E_764_EEA|E_764_EEA|
 |Eaglesoar|Z_766_EEA|Z_766_EEA|Z_766_EEA|
+|Easerush|P11 Pro|T4-E|P11 Pro|
 |Easerush|P8-E|P8-E|P13 Pro|
 |Easerush|RK5S-E|RK5S-E|P10|
 |EasyPhone|100|100|100|
@@ -12456,6 +12469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HP|HP SMART TV|dongnae|HP SMART TV|
 |HP|HP TV|dongnae|HP TV|
 |HP|HP_WW_2885|pangyo|HP OMEN 32x|
+|HP|OmniPad 12|Arjuna|OmniPad 12|
 |HP|Pro 8 Tablet with Voice|neetu|HP Pro 8 Tablet with Voice|
 |HP|Pro Slate 10 EE G1|bulldog|HP Pro Slate 10 EE G1|
 |HP|Pro Slate 10 EE G1|hound|HP Pro Slate 10 EE G1|
@@ -17126,12 +17140,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMPEX|Grande FHD TV|takao|GRANDE FHD TV|
 |IMPEX|IMPEX evoQ 2K|nagata|IMPEX evoQ 2K|
 |IMPEX|IMPEX evoQ 4K|marina|IMPEX evoQ 4K|
+|IMPEX|Impex Smart TV|dongnae|Impex Smart TV|
 |IMPEX|Saudi Arabia|sepolia|Impex Smart TV|
 |IMPEX|Smart TV|alimos|IMPEX evoQ 4K|
 |IMPEX|Smart TV|dangni|IMPEX evoQ 2K|
 |IMPEX|Smart TV|osaka|AI PONT|
 |IMTO|GKL089|GKL089|GKL089|
 |INFINITON|INFINITON 2K SMART TV|nagata|INFINITON 2K Smart TV|
+|INFINITON|INFINITON Google TV|dongnae|INFINITON Google TV|
 |INFINITON|INITON 4K SMART TV|marina|INFINITON 4K Smart TV|
 |INFINITON|Infiniton|bruno|Infiniton2KAndroidTV|
 |INFINITON|Infiniton|shilin|Infiniton4KAndroidTV|
@@ -18650,6 +18666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JHZL|J101-EEA|J101-EEA|J101-EEA|
 |JIZHAO|JZP57|JZP57|JZP57|
 |JLC ELECTRONICS|Colombia|sepolia|JLC 4K GOOGLE TV|
+|JLC ELECTRONICS|JLC 2K GOOGLE TV|dongnae|JLC 2K GOOGLE TV|
 |JLT Mobile|JLT6012A|JLT6012A|JLT6012A|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JMGO|C61A|holan|C61A|
@@ -19224,6 +19241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|TP701|TP701|TP701|
 |KONKA|VISION E1 Series|VISION_E1_Series|VISION_E1_Series|
 |KONKA|sp6|SP6|SP6|
+|KONVO|KONVO 2K SMART TV|dongnae|KONVO 2K SMART TV|
 |KONVO|KONVO 4K GOOGLE TV|halandri|KONVO 4K GOOGLE TV|
 |KOOLMAAX|GEMINI|GEMINI|GEMINI|
 |KOOLNEE|K1|KOOLNEE_K1|K1|
@@ -19516,6 +19534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KYASTER|KPad_U4|KPad_U4|KPad_U4|
 |KYASTER|KPad_U4_EEA|KPad_U4_EEA|KPad_U4_EEA|
 |KYDOS|Europe|sepolia|KYDOS Smart TV|
+|KYDOS|KYDOS Smart TV|dongnae|KYDOS Smart TV|
 |KYODO-TV|KARAxKARA|KARAxKARA|KARAxKARA|
 |KZG (Ke Zhi Guang)|Dream one|Dream_one|Dream one|
 |KZG (Ke Zhi Guang)|KZG Scope|KZG_Scope|KZG Scope|
@@ -19586,6 +19605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kanji|ARGENTINA|martin|KANJI 2K Android TV|
 |Kanji|ARGENTINA|patrick|KANJI 4K Android TV|
 |Kanji|ARGENTINA|sepolia|KANJI 4K TV|
+|Kanji|KANJI 2K TV|dongnae|KANJI 2K TV|
 |Kanji|KANJI_AC05|KANJI-AC05|KJ-AC05|
 |Kanji|KJ-AC02|KJ-AC02|KJ-AC02|
 |Kanji|KJ-AC05|KJ_AC05|KJ-AC05|
@@ -19886,8 +19906,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|KD10112TB|KD10112TB|KD10112TB|
 |Kodak|KODAK|bruno|KODAK2KAndroidTV|
 |Kodak|KODAK|shilin|KODAK4KAndroidTV|
+|Kodak|KODAK 2K Smart TV|dongnae|KODAK 2K Smart TV|
+|Kodak|KODAK Google TV|dongnae|KODAK Google TV|
 |Kodak|KODAK SMARTWAY L1 PRO|L1_PRO|KODAK SMARTWAY L1 PRO|
 |Kodak|KODAK SMARTWAY T3|SMARTWAY_T3|KODAK SMARTWAY T3|
+|Kodak|KODAK Smart TV|dongnae|KODAK Smart TV|
 |Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|KODAK_SMARTWAY_X2|SMARTWAY_X2|KODAK_SMARTWAY_X2|
@@ -19941,6 +19964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Kogan|Kogan G5|marina|Kogan G5|
 |Kogan|Kogan G5|nagata|Kogan G5|
+|Kogan|Kogan G6|dongnae|Kogan G6|
 |Kogan|Kogan G6|halandri|Kogan G6|
 |Kogan|Kogan G7|cottongreen|Kogan G7|
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
@@ -23006,6 +23030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P12 Pro|Q706F|Lenovo TB-Q706F|
 |Lenovo|Lenovo Tab P12 Pro|Q706Z|Lenovo TB-Q706Z|
 |Lenovo|Lenovo Tab Plus|TB351FU|TB351FU|
+|Lenovo|Lenovo Tab Plus Gen 2|TB355FU|TB355FU|
 |Lenovo|Lenovo Tab QT K11|TB-J6C6F|Lenovo TB-J6C6F|
 |Lenovo|Lenovo Tab QT K11|TB-J6C6N|Lenovo TB-J6C6N|
 |Lenovo|Lenovo Tab QT K11 Pro 5G|J607Z|Lenovo TB-J607Z|
@@ -23360,6 +23385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Life Stick|LifeStick|ts201|LifeStick|
 |Life mobile|LM1|LM1|LM1|
 |LifeWatch|V|FGL-00004|hp6577_cts|
+|Lightwave|LIGHTWAVE Google 2K TV|dongnae|LIGHTWAVE Google 2K TV|
 |Lightwave|africa|sepolia|LIGHTWAVE Google 4K TV|
 |Lilus|TAL-750|TAL-750|TAL-750|
 |Lin|LIN|LINTAB_TB701|LINTAB_TB701|
@@ -24212,6 +24238,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
 |Magnavox|MMP848|MMP848|MMP848|
+|Magnavox|Magnavox Google TV|dongnae|Magnavox Google TV|
+|Magnavox|Magnavox Smart TV|dongnae|Magnavox Smart TV|
+|Magnavox|Magnavox TV|dongnae|Magnavox TV|
 |Magnavox|Smart TV|dangni|AI PONT|
 |MagneticNorth|Multiple_Applications_Display_Terminal|Multiple_Applications_Display_Terminal|P7|
 |Majestic|JACK|JACK|JACK|
@@ -26517,6 +26546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto pad 60 neo|XT2575-1|XT2575-1|
 |Motorola|moto pad 60 neo|XT2575-3|XT2575-3|
+|Motorola|moto pad 70 groove|XT2675-1|XT2675-1|
 |Motorola|moto pad – 2026|XT2575-4|XT2575-4|
 |Motorola|moto razr 40|lynkco|XT2323-3|
 |Motorola|moto razr 40 Ultra|zeekr|XT2321-2|
@@ -27232,6 +27262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NAVA|P68|P68|P68|
 |NAXA|NID-7011|NID-7011|NID-7011|
 |NAXA|NID_7010|NID_7010|NID_7010|
+|NCE TV|NCE Google Smart TV|dongnae|NCE Google Smart TV|
 |NCTC|KSTB2020|KSTB2020|KSTB2020|
 |NCTC|KSTB2100|KSTB2100|KSTB2100|
 |NEC|101T 　MEDIAS|NEC-101|NEC-101T|
@@ -28087,6 +28118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nothing|Nothing Phone (3a) Pro|Asteroids|A059P|
 |Nothing|Nothing Phone (4a)|Frogger|A069|
 |Nothing|Nothing Phone (4a) Pro|FroggerPro|A069P|
+|Nothing|Nothing Phone (4b)|SuperContra|A009P|
 |Nothing|Phone (3a) Lite|Galaxian|A001T|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
@@ -28341,6 +28373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONPAD|Luxon|Luxon|Luxon|
 |ONPAD|Vexon|Vexon|Vexon|
 |ONVO|EMEA|sepolia|ONVO TV|
+|ONVO|ONVO TV|dongnae|ONVO TV|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|BOOX|BOOX|BOOX|
 |ONYX|OnyxBooxII|OnyxBooxII|OnyxBoox II|
@@ -30482,6 +30515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRAZteck|2-IN-1_Tablet_PC|PT10EduPad21|PT10EduPad21|
 |PRAZteck|PT116LPREduPad|Laptop|PT116LPREduPad|
 |PRAZteck|PT7EduPad|PT7EduPad|PT7EduPad|
+|PRIMA|Interactive_Screens|RC|RC_Series|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
 |PRIMA|PRIMA 4K Android TV|kenton|PRIMA 4K Android TV|
 |PRIMA|Smart TV|alimos|AI PONT|
@@ -30808,6 +30842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Panasonic P95|P95|Panasonic P95|
 |Panasonic|Panasonic T70|T70|Panasonic T70|
 |Panasonic|Panasonic TV|SW3H_ATV|GX655|
+|Panasonic|Panasonic_LH_GT1ND|Panasonic_LH_GT1ND|Panasonic_LH_GT1ND|
 |Panasonic|R3|R3|2KTV-2TH|
 |Panasonic|R3_GTV|||
 |Panasonic|R3_GTV|R3_GTV|2KTV-3MH|
@@ -30857,6 +30892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Yaris M|T31|Panasonic T31|
 |Panasonic|fz_b2dh|fz_b2d|FZ-B2D|
 |Panavox|50 google tv/58 google tv/65 google tv/75 google tv|songshan|SmartTV 4K|
+|Panavox|PANAVOX Google TV|dongnae|PANAVOX Google TV|
 |Panavox|Panavox Android TV|lushan|Panavox Android TV|
 |Panavox|fushan_panavox|hamamatsucho|Panavox Android TV|
 |Panavox|xiaoyushan_panavox|xiaoyushan|Panavox Android TV|
@@ -34006,6 +34042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAIET|STS650|STS650|STS650|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
+|SALORA|SALORA|dongnae|SALORA|
 |SALT|SALT A78|SALT_A78|SALT A78|
 |SAMA|M1039A|M1039A|M1039A|
 |SAMPO|Android TV|R2|ATV R2|
@@ -34151,6 +34188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SHINON|Smart TV|osaka|AI PONT|
 |SHINON|Smart TV|redwood|AI PONT|
 |SHOWNIC|EMEA|sepolia|SHOWNIC 4K Google TV|
+|SHOWNIC|SHOWNIC 2K Google TV|dongnae|SHOWNIC 2K Google TV|
 |SIAFU|M5855|M5855|M5855|
 |SICON|SICON 2K Google TV|capitolhill|SICON 2K Google TV|
 |SICON|SICON 4K Google TV|keoneae|SICON 4K Google TV|
@@ -34233,6 +34271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMART TECHNOLOGY|Airpro4KS|halandri|Airpro4KS|
 |SMART TECHNOLOGY|Smart TV|alimos|Google TV|
 |SMART TECHNOLOGY|Smart TV|osaka|Google TV|
+|SMART TECHNOLOGY|Smarttech TV|dongnae|Smarttech TV|
 |SMART Technologies|AM60 series|komodo|AM60 series|
 |SMART Technologies|AM60 series|komodo|SMART AM60|
 |SMART Technologies|AMG1|komodo|AMG series|
@@ -40391,6 +40430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |StarMobile|Y15|Y15|Y15|
 |StarMobile|up_octa|UP_Octa|UP Octa|
 |StarTV|StarTV por fibra|SEI700STAR|StarTV por fibra|
+|Stargorilla|Blade10 Pro Energy|F1C-S_GO|Blade10 Pro Energy|
 |Starlight|Alpha 100|Alpha_100|Alpha 100|
 |Starlight|Alpha 200|Alpha_200|Alpha 200|
 |Starlight|Alpha_300|Alpha_300|Alpha 300|
@@ -44224,6 +44264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|TESLA 4K TV FF|anaheim|TESLA 4K TV FF|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
 |Tesla|Tesla 2K TV|shinagawa|Tesla 2K TV|
+|Tesla|Tesla Google TV|dongnae|Tesla Google TV|
 |Tesla|Tesla S906|SW4H|Tesla S906|
 |Tesla|Tesla Smartphone 3.3|Tesla_SP3_3|Tesla_SP3.3|
 |Tesla|Tesla Smartphone 6.3|Tesla_SP6_3|Tesla_SP6.3|
@@ -44243,6 +44284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tevau|T1|T1|T1|
 |The Edge|NLE|oversea_v|NLE|
 |TheNudge|Smartboard_Ai|oversea_v|HDJN|
+|Theros|Theros 2K Google TV|dongnae|Theros 2K Google TV|
 |ThinkAcademy|T100|T100|T100|
 |Thinpad|TH805|TH805|TH805|
 |Thomson|150|YYR|Thomson 150|
@@ -44639,6 +44681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbo-X|Greece|tamachi|TURBO-X FHD Android TV|
 |Turbo-X|Greek and Bulgarian|yeongdeungpo|TURBO-X UHD Android TV|
 |Turbo-X|Turbo-X Fire II (2GB) Tablet 10.1 WIFI|Fire_II_WiFi|Fire_II_WiFi|
+|Turbo-X|Turbo-X Smart TV|dongnae|Turbo-X Smart TV|
 |Turbo-X|Turbo_X8|Turbo_X8|Turbo_X8|
 |Turbokids|Monsterpad_3G|Monsterpad_3G|Monsterpad 3G|
 |Turbokids|Princess|Princess|Princess|
@@ -47676,6 +47719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
 |Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
+|Widevu|WIDEVU Smart TV|dongnae|WIDEVU Smart TV|
 |Widevu|WIDEVU_4K_ATV5S|halandri|WIDEVU Google TV|
 |Widevu|korea|sepolia|WIDEVU Smart TV|
 |Wieppo|Wieppo E1|Wieppo_E1|Wieppo E1|
