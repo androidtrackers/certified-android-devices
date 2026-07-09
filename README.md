@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-08
+Last sync is 2026-07-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4168,6 +4168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|RE04_series|RE04_series|RE04_series|
 |BenQ|RE05AC_series|RE05AC_series|RE05AC_series|
 |BenQ|RE05A_series|RE05A_series|RE05A_series|
+|BenQ|RE05_series|RE05_series|RE05_series|
 |BenQ|RE98_110_series|RE98_110_series|RE98_110_series|
 |BenQ|RM05_series|RM05_series|RM05_series|
 |BenQ|RM6504|RM6504|RM6504|
@@ -7258,6 +7259,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cozyla|Calendar2_16|Calendar2_16|Calendar2_16|
 |Cozyla|Calendar2_24|Calendar2_24|Calendar2_24|
 |Cozyla|Calendar2_32|Calendar2_32|Calendar2_32|
+|Cozyla|Calendar3_32|Calendar3_32|Calendar3_32|
+|Cozyla|CalendarPlus3_24|CalendarPlus3_24|CalendarPlus3_24|
 |Cozyla|Calendar_Go|Calendar_Go|Calendar_Go|
 |Crafty|Crafty-IFPD|rk3588_t|ELP-4391K|
 |Crafty|Crafty-IFPD|rk3588_t|ELT-6502K|
@@ -12018,6 +12021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Watch 4|kenari_lte|Pixel Watch 4|
 |Google|Pixel Watch 4|meridian_btwifi|Pixel Watch 4|
 |Google|Pixel Watch 4|meridian_lte|Pixel Watch 4|
+|Google|Pixel Watch 5|godric_btwifi|Pixel Watch 5|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixel watch 3|helios|Pixel Watch 3|
 |Google|Pixel watch 3|luna|Pixel Watch 3|
@@ -12199,6 +12203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAAM|vileparle|vileparle|R6G|
 |HAEXC|FP103Ex|FP103Ex|FP103Ex|
 |HAEXC|SP104Ex|SP104Ex|SP104Ex|
+|HAJUND|HJD-TM54-1612H|HJD-TM54-1612H|HJD-TM54-1612H|
 |HAKO|HAKO Pro|YXU|HAKO Pro|
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HALA|B1 PDA|B1_PDA|B1_PDA|
@@ -17348,6 +17353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ISCED|ISCEDTAB21|ISCEDTAB21|ISCEDTAB21|
 |ISCS|QA3O_M110|QA3O_M110|QA3O-M110|
 |ISCS|QA3O_M110|QA3O_M110|QA3O_M110|
+|ISONIC|CT-Splus|IFP-3576|IFP-3576|
 |ITAB|ITAB_X40L_Plus|ITAB_X40L_Plus|ITAB_X40L_Plus|
 |ITAB|X40L|X40L|X40L|
 |ITOS|IC-51|IC_51|IC_51|
@@ -23775,6 +23781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
 |M-KOPA|S34|S34|S34|
 |M-KOPA|S50|S50|S50|
+|M-KOPA|X4e|X4e|X4e|
 |M-tech|Eros Power|EROS_Power|EROS Power|
 |M-tech|Eros Smart|Eros_Smart|Eros Smart|
 |M-tech|Eros_Star|Eros_Star|Eros_Star|
@@ -41388,6 +41395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_RU|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_TR|
 |TCL|TCL TAB 10L Gen 2|Freyr_10_1_WiFi|8492A|
+|TCL|TCL TAB 10L Gen 4|Lugh_10_WiFi|8483A|
 |TCL|TCL TAB 10L LTE Gen 2|Freyr_10_1_4G|8192A|
 |TCL|TCL TAB 10L LTE Gen 3|Freyr_Pro_4G_U|8193A|
 |TCL|TCL TAB 10L LTE Gen 3|Freyr_Pro_4G_U|8194A|
