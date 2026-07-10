@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-09
+Last sync is 2026-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -154,6 +154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ADVAN|ADVAN_TAB_A10|ADVAN_TAB_A10|1013|
 |ADVAN|ADVAN_TAB_A10|ADVAN_TAB_A10|A10|
 |ADVAN|ADVAN_TAB_A10S|ADVAN_TAB_A10S|1013|
+|ADVAN|ADVAN_V11|ADVAN_V11|ADVAN_V11|
 |ADVAN|ADVAN_X1|ADVAN_X1|6781|
 |ADVAN|S50|ADVAN_MACHA|S50|
 |ADVAN|Sketsa3|ADVAN_SKETSA3|1013|
@@ -1052,6 +1053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|dahu|dahu|M1G|
 |Acer|vileparle|vileparle|R6G|
 |AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|jialu|ACP65P|
+|AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|jialu|ACP65PAV|
 |AcerPure|Acer Acerpure|Acerone_Liquid_2|Acerone Liquid S162E4|
 |AcerPure|Acer Acerpure|Acerone_Liquid_S262F5|Acerone Liquid S262F5|
 |Aceson|R726|R726|R726|
@@ -7279,6 +7281,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crelander|W30|W30|crelander_android15|
 |Crelander|W30|W30|crelander_android16|
 |Crelander|W30-EEA|W30-EEA|W30-EEA|
+|Crelander|W30B|W30B|W30|
+|Crelander|W30_NEU|W30_NEU|W30|
 |Crelander|W87-EEA|W87-EEA|W87-EEA|
 |Crelander|Z103|Z103|Z103|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
@@ -7525,7 +7529,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAMASCO|TAB-T537-10|TAB-T537-10|TAB-T537-10|
 |DAMASCO|TAB-T863-3|TAB-T863-3|TAB-T863-3|
 |DANDOON|A2|A2|A2|
-|DARVEEN|RTC_M82|RTC_M82|RTC_M82|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
 |DBM Maroc|Accent Speed Y3|Speed-Y3|Speed-Y3|
@@ -8092,6 +8095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T115G|T115G|T115G|
 |Datamini|T74G|T74G|T74G|
 |Datamini|T8004G|T8004G|T8004G|
+|Datamini|T8004GR|T8004GR|T8004G|
 |Datamini|T84G|T84G|T84G|
 |Datamini|T84G|T84G_OC|T84G_OC|
 |Datamini|T84G|T84G_T310|T84G|
@@ -8605,6 +8609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|Summit 5G|SN339D-SMT|SN339D-SMT|
 |Dish|Wireless Joey 4|ATVWJ4|Wireless Joey 4|
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
+|DishTV (IN)|DISHTV INDIA LTD.|jialu|VZY65P|
 |DishTV (IN)|DV-905XSTV|smart4K|DV-905XSTV|
 |DishTV (IN)|DV-905XSTV HTL|smart4K|DV-905XSTV HTL|
 |DishTV-NZ|A7070|STB|A7070|
@@ -12211,6 +12216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HANDELSON|H14|H14|H14|
 |HANET|T432|SmartEdu|T432|
 |HANKOOK-CREA|HANKOOK_CREA_IFPD|oversea_v|HKCREA_Series|
+|HANKOOK_CREA|CREA_LEAP_Series|CREA_LEAP_Series|CREA_LEAP_Series|
 |HANKOOK_CREA|HANKOOK_CREA_IFPD|HANKOOK_CREA_RK3588|CREA_86135_Series|
 |HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSG_Series|
 |HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSN_Series|
@@ -14857,6 +14863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR MagicPad4|HNYLE-Q1|YLE-W09|
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-N09|
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-W00|
+|Honor|HONOR Pad 10 Papermatte Display WIFI|HNHEY3-Q1|HEY3-W00|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
@@ -17096,6 +17103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IDEA|i4901|i4901|i4901|
 |IDEMIA|ID Screen|ID_Screen|MPH-MB003A|
 |IDEMIA|ID Screen 60|ID_Screen_60|MPH-MB004A|
+|IDEMIA|IDScreen ONE|IDScreen_ONE|MPH-MB005A|
 |IDONDRDO|Discovery-X1|Discovery-X1|Discovery-X1|
 |IDspire|IRA_Biometric|TPSeries_1|IRA_Biometric|
 |IDspire|TPSeries_1|TPSeries_1|TPSeries_1|
@@ -19559,6 +19567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black G|Black_G|Black G|
 |Kalley|Black G3|Black_G3|Black G3|
 |Kalley|Black G4S|Black_G4S|Black G4S|
+|Kalley|Black G4S2|Black_G4S2|Black G4S2|
 |Kalley|Black S|Black_S|Black S|
 |Kalley|Black Z1|Black_Z1|Black Z1|
 |Kalley|Black Z2|Black_Z2|Black Z2|
@@ -24928,6 +24937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mengdash|M_Q58|M_Q58|M_Q58|
 |Mengdash|M_Q58_EEA|M_Q58_EEA|M_Q58EEA|
 |Mengdash|M_Q59|M_Q59|M_Q59|
+|Meswao|B3|B3|B3|
 |Meswao|B3-EEA|B3|B3|
 |Meswao|MES-B|MES-B|MES-B|
 |Meswao|MES-B3|MES-B3|MES-B3|
@@ -28111,6 +28121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NoonEast|Smart TV|longshan|AI PONT|
 |Nordalp|Nordalp-X21-Pro|Condor-Pro|NX21EE|
 |Nordalp|X6 Pro|raptor|X6 Pro|
+|Nordic|Funpad-10|Funpad-10|Funpad-10|
 |NorthTech|NT-P70|NT-P70|NT-P70|
 |NorthTech|NT-S10|NT-S10|NT-S10|
 |Noryox|Handheld-POS-EEA|Handheld-POS|Handheld-POS|
@@ -30305,6 +30316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|CP20TGOLD|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP20TGOLD_EEA|CP20TGOLD|CP20_GOLD|
 |PEICHENG|CP20UA|CP20UA|CP20|
+|PEICHENG|CP20UR|CP20UR|CP20_PRO|
 |PEICHENG|CP31-4T|CP31-4T|CP31-4T|
 |PEICHENG|CP31M|CP31M|CP31M|
 |PEICHENG|CP31T|CP31T|CP31M|
@@ -33766,6 +33778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|T88|T88|T88|
 |Relndoo|T901_EUR|T901_EUR|T901|
 |Relndoo|T901_U|T901_U|T901|
+|Relndoo|T901_U1|T901_U1|T901|
 |Relndoo|T901_US|T901_US|T901_US|
 |Relndoo|T901_Y_US|T901_Y|T901|
 |Relndoo|TAB10|TAB10|TAB10|
@@ -34129,6 +34142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|S_PAD|S_PAD|S_PAD|
 |SEGO|Shark|Shark|Shark|
 |SEGO|Smart_10|Smart_10|Smart 10|
+|SEGO|Smart_20|Smart_20|Smart 20|
 |SEGO|Smart_20x|SEGO_Smart_20x|Smart_20x|
 |SEGO|s_tron|s_tron|s-tron|
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|
@@ -51696,6 +51710,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iDeaUSA|CT10|CT10|CT10|
 |iDeaUSA|CT7|CT7|CT7|
 |iDevice|Uzbekistan|Uzbekistan|Uzbekistan|
+|iFLYTEK|AI_Board_75|AI_Board_75|AI_Board_75|
+|iFLYTEK|AI_Board_86|AI_Board_86|AI_Board_86|
 |iFLYTEK|AI_Board_Ultra|AI_Board_Ultra|AI_Board_Ultra|
 |iFLYTEK|GOV-AI|SMART-BLACKBOARD|GOV-AI251|
 |iFit|IFT1018|IFT1018|IFT1018|
@@ -52183,6 +52199,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PM116T_LTE|PM116T_LTE|PM116T_LTE|
 |onn.|PM82T|PM82T|PM82T|
 |onn.|PM82TW|PM82TW|PM82TW|
+|onn.|PM876T|PM876T|PM876T|
 |onn.|PP86AK|PP86AK|PP86AK|
 |onn.|SL713B1|SL713B1|SL713B1|
 |onn.|Tablet Gen 4|100135923|100135923|
@@ -52759,6 +52776,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y05|V2556|V2556|
 |vivo|Y05|V2556|V2565|
 |vivo|Y05e|V2606|V2606|
+|vivo|Y05i|V2556|V2556|
+|vivo|Y05i|V2556|V2650|
 |vivo|Y11 5G|V2553|V2575|
 |vivo|Y11d|V2556|V2555|
 |vivo|Y11d|V2556|V2578|
