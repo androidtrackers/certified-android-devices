@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-10
+Last sync is 2026-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13991,6 +13991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense E35|
 |Hisense|HLTE243E|HLTE243E|Hisense F35 Pro|
+|Hisense|HLTE243E|HLTE243E|Hisense F36 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense M50|
 |Hisense|HLTE243E|HLTE243E|Hisense M72 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense M73 Pro|
@@ -49660,6 +49661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Cosmote Smart Share|nice|Cosmote Smart Share|
 |ZTE|Cosmote Xplore|Cosmote|Cosmote Xplore|
 |ZTE|Cosmote Xplore|Cosmote-Xplore|Cosmote Xplore|
+|ZTE|DBZA55|P963F65|Z2450|
 |ZTE|DL2 PLUS|P637F02|DL2 PLUS|
 |ZTE|DL2 PLUS|P637F02|Digicel DL2 XL|
 |ZTE|Dialog Q143L|frosty|Dialog Q143L|
@@ -50086,6 +50088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|STARTRAIL 4|P172E10|ZTE Blade Q|
 |ZTE|STARXTREM|prindle|STARXTREM|
 |ZTE|STARXTREM 4|msm8916_32|STARXTREM 4|
+|ZTE|Salt A45s|P606F21|Z2473|
 |ZTE|Sapphire 3G|sapphire|N818S|
 |ZTE|Sirius|msm8937|Z610DL|
 |ZTE|Skate|skate|ZTE Skate|
@@ -50378,6 +50381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2472|P606F20|Z2472|
 |ZTE|Z2472|P606F20_A|Z2472|
 |ZTE|Z2570N|P688F02|Z2570N|
+|ZTE|Z2571N|P830F01|Z2571N|
 |ZTE|Z2575|P620F02|Z2575|
 |ZTE|Z2576|P620F01|Z2576|
 |ZTE|Z2577|P615F02|Z2577|
