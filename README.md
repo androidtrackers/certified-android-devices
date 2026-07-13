@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-12
+Last sync is 2026-07-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4449,6 +4449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BL5000|BL5000|BL5000|
 |Blackview|BL6000Pro|BL6000Pro|BL6000Pro|
 |Blackview|BL7000|BL7000|BL7000|
+|Blackview|BL7000|BL7000|BL7000 Pro|
 |Blackview|BL8000|BL8000|BL8000|
 |Blackview|BL8800|BL8800|BL8800|
 |Blackview|BL8800Pro|BL8800Pro|BL8800Pro|
@@ -52259,6 +52260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_ROW_A|M70_ROW_A|M70|
 |raemond|M70_US_A|M70_US_A|M70|
 |raemond|M90_MAX_EEA|M90_MAX_EEA|M90_MAX|
+|raemond|M90_MAX_ROW|M90_MAX_ROW|M90_MAX|
 |raemond|T30_ROW|T30_ROW|T30|
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
