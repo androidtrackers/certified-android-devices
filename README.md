@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-13
+Last sync is 2026-07-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -46,6 +46,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |7mobile|Kamba 2|7mobile_Kamba_2|Kamba_2|
 |7mobile|SWEGUE|SWEGUE|SWEGUE|
 |7mobile|Swegue 2|Swegue_2|Swegue 2|
+|8849|A101|A101|A101|
 |8849|OB-A98|OB-A98|OB-A98|
 |8849|OB-A99|OB-A99|OB-A99|
 |8849|OB-P08|OB-P08|OB-P08|
@@ -23740,6 +23741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lunnen|TL4648S01|TL4648S01|TL4648S01|
 |Lunnen|TL62810G01|TL62810G01|Lunnen Ground 10.4|
 |Lunnen|TL62810G01|TL62810G01|TL62810G01|
+|Lunnen|TL828S01|TL828S01|TL828S01|
 |Lunnen|TL85611B01|TL85611B01|Lunnen Ground 11|
 |Lunnen|TL85612B01|TL85612B01|Lunnen Ground 12.2|
 |Lunnen|TL85612L01|TL85612L01|Lunnen Ground 12.2|
@@ -23792,7 +23794,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
 |M-KOPA|S34|S34|S34|
 |M-KOPA|S50|S50|S50|
-|M-KOPA|X4e|X4e|X4e|
 |M-tech|Eros Power|EROS_Power|EROS Power|
 |M-tech|Eros Smart|Eros_Smart|Eros Smart|
 |M-tech|Eros_Star|Eros_Star|Eros_Star|
@@ -28369,6 +28370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M19TE|M19TE|M19TE|
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
+|ONERugged|M87X|M87X|M87X|
 |ONERugged|M87XE|M87XE|M87XE|
 |ONERugged|M89T|M89T|M89T|
 |ONERugged|MP1T|MP1T|MP1T|
@@ -29600,6 +29602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno16|OP61F3L1|PMM110|
 |Oppo|Reno16 5G|OP6307L1|CPH2865|
 |Oppo|Reno16 F 5G|OP62F3L1|CPH2859|
+|Oppo|Reno16 F 5G|OP62F3L1|CPH2967|
 |Oppo|Reno16 FS 5G/Reno16 F 5G|OP62F3L1|CPH2859|
 |Oppo|Reno16 Pro|OP61EFL1|PMK110|
 |Oppo|Reno16 Pro 5G|OP62FDL1|CPH2863|
@@ -30346,6 +30349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|YQ10ST_MAX|YQ10ST_MAX|YQ10S_MAX|
 |PEICHENG|YQ11M|YQ11M|YQ11M|
 |PEICHENG|YQ11MK|YQ11MK|YQ11MK|
+|PEICHENG|ZB10A|ZB10A|ZB10|
 |PEICHENG|ZB10A|ZB10A|ZB10A|
 |PEICHENG|ZB31|ZB31|ZB31|
 |PEICHENG|ZB32|ZB32|ZB32|
@@ -33280,6 +33284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF12|AF12|AF12|
 |RebotAi|AF12_EEA|AF12|AF12|
 |RebotAi|AF12_EEA|AF12|AF12_EEA|
+|RebotAi|AF12_US|AF12_US|AF12_US|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13Air|AF13Air|AF13Air|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
@@ -43886,6 +43891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO MEGAPAD  SE|TECNO-T1102W|TECNO T1102W|
 |Tecno|TECNO MEGAPAD 2|TECNO-T1103|TECNO T1103|
 |Tecno|TECNO MEGAPAD SE 2|TECNO-T1002|TECNO T1002|
+|Tecno|TECNO MEGAPAD SE 2|TECNO-T1002W|TECNO T1002W|
 |Tecno|TECNO MegaPad 11|TECNO-T1101|TECNO T1101|
 |Tecno|TECNO MegaPad Pro|TECNO-T1201|TECNO T1201|
 |Tecno|TECNO Mobile SPARK 20 Pro|TECNO-Mobile-KJ6|TECNO Mobile KJ6|
@@ -47707,6 +47713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Weimei|WEIMEI NEON2|WEIMEI_NEON2|WEIMEI_NEON2|
 |Weimei|weplus 3|weplus_3|weplus_3|
 |Welgate|WA-U420D|WA-U420D|WA-U420D|
+|Welio|RugPad|RugPad_Pro|RugPad Pro|
 |Welio|wPad_Aura|wPad_Aura|wPad_Aura|
 |Welwitcha|P20|P20|P20|
 |Wemax|WEMAX VP01|tianshan|C015OGN-WE1|
@@ -47739,6 +47746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
 |Whitedeer|X7|X7L|X7L|
 |Whitedeer|X7K_E|X7K|X7K|
+|Whitedeer|X7K_U|X7K|X7K|
 |Whitedeer|X7_EEA|X7L|X7L|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
@@ -51952,6 +51960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2515|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
 |iQOO|iQOO Z11i|PD2559|V2559UA|
+|iQOO|iQOO Z11i AI版|PD2559|V2559UA|
 |iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
 |iQOO|iQOO Z9 Lite|I2306|I2306|
