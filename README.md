@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-14
+Last sync is 2026-07-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5234,6 +5234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|VIVO XI|V0330WW|Vivo XI|
 |Blu|VIVO XL|BLU_VIVO_XL|VIVO XL|
 |Blu|View 5 Pro|B170D|B170D|
+|Blu|View Speed Ultra 5G|B1661V|B1661V|
 |Blu|Vivo 12 Pro|V0670LL|Vivo 12 Pro|
 |Blu|Vivo 5 Mini|Vivo_5_Mini|Vivo 5 Mini|
 |Blu|Vivo 8|V0150UU|Vivo 8|
@@ -10261,6 +10262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|SD01|SD01|SD01|
 |FCNT|arrows Alpha F-51F|F-51F|F-51F|
 |FCNT|arrows Alpha M08|fuji|M08|
+|FCNT|arrows Alpha2 F-51G|F-51G|F-51G|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows BZ03|BZ03|BZ03|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
@@ -11346,6 +11348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GUIDE_SAMJUNG|GSJ|rk3588_i|GSJ|
 |GYGAR|IPG-xxH|IPG-xxH|IPG-xxH|
 |GYRO|S6001|S6001|GYRO S6001|
+|Gadnic|TBAI698|TBAI698|TBAI698|
 |Galactic|ETAB_M7043G|ETAB_M7043G|ETAB_M7043G|
 |Galactic|Galactic_Astro|Galactic_Astro|Galactic_Astro|
 |Galapad|Galapad S6|GALAPAD_S6|GALAPAD_S6|
@@ -23739,6 +23742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lunnen|TL42810L01|TL42810L01|Lunnen Ground 10.4|
 |Lunnen|TL42810L01|TL42810L01|TL42810L01|
 |Lunnen|TL4648S01|TL4648S01|TL4648S01|
+|Lunnen|TL4648S02|TL4648S02|TL4648S02|
 |Lunnen|TL62810G01|TL62810G01|Lunnen Ground 10.4|
 |Lunnen|TL62810G01|TL62810G01|TL62810G01|
 |Lunnen|TL828S01|TL828S01|TL828S01|
@@ -26544,6 +26548,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g75 5G|sorap|moto g75 5G|
 |Motorola|moto g77|naples|moto g - 2025|
 |Motorola|moto g77|naples|moto g77|
+|Motorola|moto g77 power|sydney|moto g47|
+|Motorola|moto g77 power|sydney|moto g77 power|
 |Motorola|moto g82 5G|rhodep|XT2169-2|
 |Motorola|moto g82 5G|rhodep|XT2225-2|
 |Motorola|moto g82 5G|rhodep|moto g71 5G|
@@ -30316,6 +30322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|AT74K|AT74K|BG-7|
 |PEICHENG|CP10R_Pro|CP10R_Pro|CP10_Pro|
 |PEICHENG|CP10SPro|CP10SPro|CP10SPro|
+|PEICHENG|CP10SPro|CP10SPro|CP10_Pro|
 |PEICHENG|CP10S_Pro|CP10S_Pro|CP10S_Pro|
 |PEICHENG|CP20SA|CP20SA|CP20|
 |PEICHENG|CP20TGOLD|CP20TGOLD|CP20_GOLD|
@@ -33352,6 +33359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 15 SE 5G|kunzite|26022PCACI|
 |Redmi|REDMI Note 15R|spring|25057RA09C|
 |Redmi|REDMI Note 15R Pro|beryl|24094RAD4C|
+|Redmi|REDMI Note 17|mist|26021RN18C|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Pad 2 9.7|guitar|2603ARP14G|
 |Redmi|REDMI Pad 2 9.7 4G|erhu|2604ERP4DG|
@@ -38958,6 +38966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen SEI Robotics|AMLogic Ref|planck|planck|
 |Shenzhen SEI Robotics|BOX GTD TV 4K|SEI700GTD|BOX GTD TV 4K|
 |Shenzhen SEI Robotics|CNTV Plus Smart Box|SEI900BUQC|CNTV Plus Smart Box|
+|Shenzhen SEI Robotics|MH700|MH700|MH700|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shenzhen SEI Robotics|Sensa Box 4K|SEI700PTS|Sensa Box 4K|
 |Shenzhen SEI Robotics|mvshub Stick|SEI300DM|mvshub Stick|
@@ -44208,7 +44217,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teletab|TL-9|TL-9|TL-9|
 |Teletab|TL_4_ROW|TL_4_ROW|TL_4_ROW|
 |Teletab|TL_9_ROW|TL_9_ROW|TL-9|
-|Telev8|MH700|MH700|MH700|
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
 |Telia|DV8919X-LT|DV8919-KLT|DV8919X-LT|
 |Telia|Telia Nordic STB|DV8919-KST|Telia Nordic STB|
