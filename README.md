@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-15
+Last sync is 2026-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13662,6 +13662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Helio|helio 22|helio_22|helio 22|
 |Helio|helio 40|helio_40|helio 40|
 |Helio|helio 50|helio_50|helio 50|
+|Helio|helio_110|helio_110|helio 110|
 |Helio|helio_45|helio_45|helio 45|
 |Helio|helio_55|helio_55|helio 55|
 |Helio|helio_62|helio_62|helio 62|
@@ -15166,6 +15167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|T7 Pro EEA|T7_Pro|T7 Pro|
 |Hotwav|T8|T8|T8|
 |Hotwav|TAB R11 Pro|TAB_R11_Pro|TAB R11 Pro|
+|Hotwav|TAB R12 Pro|TAB_R12_Pro|TAB R12 Pro|
 |Hotwav|TAB R5|TAB_R5|TAB R5|
 |Hotwav|TAB R6 Pro|TAB_R6_Pro|TAB R6 Pro|
 |Hotwav|TAB R6 Ultra|TAB_R6_Ultra|TAB R6 Ultra|
@@ -22826,6 +22828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|LIFETAB E10310|LIFETAB_E10310|LIFETAB_E10310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7312|
+|Lenovo|Legion Phone Y70 New Generation|avr|XT2611-1|
 |Lenovo|Legion Tab Y700|TB320FC|TB320FC|
 |Lenovo|Legion Y70|halo|Lenovo L71091|
 |Lenovo|Lenovo|A708t|Lenovo A708t|
@@ -26648,6 +26651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 70 fusion|marvel|motorola edge 70 fusion|
 |Motorola|motorola edge 70 fusion +|marvel|motorola edge 50 ultra|
 |Motorola|motorola edge 70 fusion +|marvel|motorola edge 70 fusion plus|
+|Motorola|motorola edge 70 max|avr|motorola edge 70 max|
 |Motorola|motorola edge 70 pro|merc|motorola edge 2025|
 |Motorola|motorola edge 70 pro|merc|motorola edge 70 pro|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
@@ -31468,6 +31472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pluzz|PL4010|PL4010|PLUZZ_PL4010|
 |Pluzz|PLUZZ_PL5010|PL5010|PLUZZ_PL5010|
 |Pluzz|PLUZZ_PL5510|PLUZZ_PL5510|PLUZZ_PL5510|
+|Point Mobile|MF52e|MF52e|MF52e|
 |Point Mobile|MX450|MX450|MX450|
 |Point Mobile|PM30|pm30|PM30|
 |Point Mobile|PM351|PM351|PM351|
@@ -45742,6 +45747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VOXelectronics|VOXelectronics 2K Android TV|lasalle|VOXelectronics 2K Android TV|
 |VOXelectronics|VOXelectronics 4K Android TV|kenton|VOXelectronics 4K Android TV|
 |VS Visu|VS-DUAL-86|t7_an400|VS-DUAL-86|
+|VS Visu|VS_SA14|oversea_v|VS_SA14|
 |VS Visu|VS_S_P4|oversea_v|VS_S_P4|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VSP(VN)|VSP AndroidTV|barking|VSP AndroidTV|
@@ -47752,6 +47758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|KT1028|KT1028|KT1028|
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
+|Whitedeer|X13L_EEA|X13L|X13L|
 |Whitedeer|X7|X7L|X7L|
 |Whitedeer|X7K_E|X7K|X7K|
 |Whitedeer|X7K_U|X7K|X7K|
