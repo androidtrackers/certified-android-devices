@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-16
+Last sync is 2026-07-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5552,6 +5552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
 |CEPTER|CTABNEXUS6128|CTABNEXUS6128|CTABNEXUS6128|
 |CEPTER|CTABNEXUS8128|CTABNEXUS8128|CTABNEXUS8128|
+|CEPTER|CTABNEXUSC|CTABNEXUSC|CTABNEXUSC|
 |CEPTER|CTABNEXUSG|CTABNEXUSG|CTABNEXUSG|
 |CEPTER|CTABNEXUSW|CTABNEXUSW|CTABNEXUSW|
 |CEPTER|CTABTERRA128|CTABTERRA128|CTABTERRA128|
@@ -7566,6 +7567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEPLAY|E108GCM|E108GCM|E108GCM|
 |DEPLAY|LITE4_EEA|LITE4_EEA|LITE4_EEA|
 |DEPLAY|PRO4|PRO4|PRO4|
+|DEPLAY|PRO5_P|PRO5_P|PRO5_P|
 |DEPLAY|SMART5PLUS_B|SMART5PLUS_B|DEPLAY_SMART5PLUS|
 |DEPLAY|SMART5PLUS_P|SMART5PLUS_P|DEPLAY_SMART5PLUS|
 |DEVOPS|DEVOPS|DEVOPS_IFPD|DEVOPS_MT9679|
@@ -7918,6 +7920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DSIC|Mobilebase DS50|DS50|DS50|
 |DSIC|Mobilebase DS6|ds6|DS6|
 |DSIC|Mobilebase DS60S|DS60S|DS60S|
+|DSIC|Mobilebase DS65|DS65|DS65|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DSPREAD|F6|F6|F6|
 |DSTechnology|MATE ONE|MO_Pro|MO_Series|
@@ -14636,6 +14639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hometech|ALFA 8RX|ALFA_8RX|ALFA_8RX|
 |Hometech|ALFA10MX|ALFA10MX|ALFA10MX|
 |Hometech|ALFA10MX|ALFA10MX|Alfa 10MX|
+|Hometech|ALFA10MX|ALFA10MX|Alfa 11BT Lite|
 |Hometech|ALFA10TB|ALFA10TB|ALFA10TB|
 |Hometech|ALFA10TX|ALFA10TX|ALFA10TX|
 |Hometech|ALFA10TX_PRO|ALFA10TX_PRO|ALFA10TX_PRO|
@@ -18579,8 +18583,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel AC60|itel-L6004L|itel L6004L|
 |Itel|itel Alpha Lite|itel-W5008|itel W5008|
 |Itel|itel CITY 200|itel-C681L|itel C681L|
-|Itel|itel CITY 200|itel-C681LN|itel C681LN|
 |Itel|itel CITY 200+|itel-C672L|itel C672L|
+|Itel|itel CITY 200/200s|itel-C681LN|itel C681LN|
 |Itel|itel CITY 200s|itel-C681LN|itel C681LN|
 |Itel|itel City100|itel-C671L|itel C671L|
 |Itel|itel KidPad 1|Itel-W7001|Itel W7001|
@@ -23796,6 +23800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|Pad_17ProMax|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pad_17ProMax_RU|Pad_17ProMax|Pad_17ProMax|
 |M-Horse|Pad_17Pro_RU|Pad_17Pro|Pad_17Pro|
+|M-Horse|Pad_17_US|Pad_17|Pad_17|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
@@ -27785,6 +27790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|X70|X70|X70|
 |Newline|23Q|23Q|23Q|
 |Newline|23QA|velvet|LGA311D2|
+|Newline|26S|newline26S|newline26S|
 |Newline|Newline 26Q|newline26Q|newline26Q|
 |Newline|Newline_Q_Pro_Elite|Q25ELT|Newline Q Pro Elite|
 |Newline|Newline_Q_Pro_Elite|Q25ELT|Newline_Q_Pro_Elite|
@@ -32266,6 +32272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_A07K|K7_A07K|K7_A07K|
 |Pritom|K7_A07K_EEA|K7_A07K_EEA|K7|
 |Pritom|K7_A07K_US|K7_A07K_US|K7|
+|Pritom|K7_A07_US|K7_A07_US|K7|
 |Pritom|K7_A101|K7_A101|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101_EEA|
@@ -41068,6 +41075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|T90_US|T90|T90|
+|TABWEE|V90_NEU|V90_NEU|V90_NEU|
 |TABWEE|W80_NEU|W80|W80|
 |TABWEE|W80_US|W80|W80|
 |TABWEE|W90_EEA|W90|W90|
@@ -44470,6 +44478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topicon|mdt865_row|mdt865|mdt865|
 |Topicon|mdt880|mdt880|mdt880|
 |Topsand|G12|G12_A14|G12|
+|Topsand|G12_Mini_S|G12_Mini_S|G12_Mini_S|
 |Topsand|G12_Pro|G12_Pro|G12_Pro|
 |Topsand|M8_U|M8_U|M8|
 |Topsand|N10|N10_T|N10|
@@ -47761,6 +47770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|X13L_EEA|X13L|X13L|
 |Whitedeer|X7|X7L|X7L|
 |Whitedeer|X7K_E|X7K|X7K|
+|Whitedeer|X7K_G|X7K|X7K|
 |Whitedeer|X7K_U|X7K|X7K|
 |Whitedeer|X7_EEA|X7L|X7L|
 |Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
@@ -52096,6 +52106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |inefi|Android_G17|Android_G17|Android_G17|
 |inefi|Android_G18|Android_G18|Android_G18|
 |inefi|SlimPOS319|SlimPOS319|SlimPOS319|
+|innex|EU_Lite_3576|innex_Meeting_Hub|Eu_Lite|
 |innex|Meeting_hub_EU|EU_3588|EU|
 |innex|innex_Meeting_Hub_EU|oversea_v|EU15|
 |innos|Android TV|R2|ATV R2|
@@ -52260,6 +52271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|raemond|A90_ROW|A90_ROW|A90|
 |raemond|K30_EEA_C|K30_EEA_C|K30|
 |raemond|K30_US_C|K30_US_C|K30|
 |raemond|K50_EEA_C|K50_EEA_C|K50|
@@ -52274,6 +52286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K80_ROW_BND|K80_ROW_BND|K80|
 |raemond|K80_US_BND|K80_US_BND|K80|
 |raemond|K90Pro_EEA_BND|K90Pro_EEA_BND|K90Pro_EEA_BND|
+|raemond|K90Pro_ROW_BND|K90Pro_ROW_BND|K90Pro|
 |raemond|L30_US_YK|L30_US_YK|L30|
 |raemond|L90_EEA|L90|L90|
 |raemond|L90_ROW|L90|L90|
@@ -52285,6 +52298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_US_A|M70_US_A|M70|
 |raemond|M90_MAX_EEA|M90_MAX_EEA|M90_MAX|
 |raemond|M90_MAX_ROW|M90_MAX_ROW|M90_MAX|
+|raemond|S90_ROW_BND|S90_ROW_BND|S90|
 |raemond|T30_ROW|T30_ROW|T30|
 |raemond|X70_EEA|X70|X70|
 |raemond|X70_ROW|X70|X70|
