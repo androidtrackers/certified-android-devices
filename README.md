@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-19
+Last sync is 2026-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8413,6 +8413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|DigitPad10|DigitPad10|DigitPad10|
 |Digit|Digit_Chrome|Digit_Chrome|Digit chrome|
 |Digit|Digit_Glory|Digit_Glory1|Digit Glory1|
+|Digit|Digit_Tab2|Digit_Tab2|Digit_Tab2|
 |Digit|Digitplay1|Digitplay1|Digitplay1|
 |Digit|NOTE 14|NOTE_14|NOTE 14|
 |Digit|NOTE 16|NOTE_16|NOTE 16|
@@ -18130,6 +18131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|TK02_EEA|TK02|TK02|
 |Invens|ULTRA 13P|ULTRA_13P|ULTRA 13P|
 |Invens|ULTRA_S25_EEA|ULTRA_S25|ULTRA S25|
+|Invens|ULTRA_S26|ULTRA_S26|ULTRA S26|
 |Invens|UNO|UNO|UNO|
 |Invens|WE1|WE1|WE1|
 |Inventus|CT1|Beige|CT1|
@@ -51335,6 +51337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |aigo|A16pro|A16pro|A16pro|
 |aigo|A18|A18|A18|
 |aigo|A19|A19|A19|
+|aigo|AIGO_Pad_Y800|AIGO_Pad_Y800|AIGO_Pad_Y800|
 |aipan|F819|F819|F819|
 |ajib|ajib X1|ajib_X1|ajib X1|
 |ajib|ajib l1|ajib_l1|ajib l1|
