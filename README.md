@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-20
+Last sync is 2026-07-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3173,6 +3173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avoca|STB9097|STB9097|STB9097|
 |Avtek|TS 8 Lite G|rk3576_u|TS_8_Lite_G|
 |Avtek|TS_8_1_Mate_G|MTK9679|TS_8_1_Mate_G|
+|Avtek|TS_9_Mate_G|TS_9_Mate_G|TS_9_Mate_G|
 |Avvio|A680|A680|aiworks|
 |Avvio|Avvio 4GO|Avvio_4GO|Avvio_4GO|
 |Avvio|Avvio A400|Avvio_A400|Avvio_A400|
@@ -6920,6 +6921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continential|Edison-Continential|komagome|Continental 2K Android TV|
 |Contixo|A1-64G|A1-64G|A1-64G|
 |Contixo|A10|A10|A10|
+|Contixo|A10e|A10e|A10e|
 |Contixo|A7|A7|A7|
 |Contixo|A7_1|A7_1|A7|
 |Contixo|A8_B|A8_B|A8_B|
@@ -8419,6 +8421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|NOTE 16|NOTE_16|NOTE 16|
 |Digit|NOTE 20|NOTE_20|NOTE 20|
 |Digit|Sonic_One|Sonic_One|Sonic One|
+|Digit|Tab2|Tab2|Tab2|
 |Digit|Titan_5G|Titan_5G|Titan 5G|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
@@ -13315,7 +13318,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
 |HUIHUANG|X10S|X10S|X10S|
 |HUIHUANG|X11_US|X11|X11|
-|HUIHUANG|XC90_US|XC90_US|XC90_US|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPERTECH|THATAB|THATAB|THATAB|
@@ -26874,6 +26876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mtek|MTEK|stanford|2K SMART TV|
 |Mtek|MTEK|zhongshan|4K SMART TV|
 |Mtel|HP44H|HP44H-mtel|HP44H-mtel|
+|MultiPad|MP_8660QC|MP_8660QC|MP_8660QC|
 |Multilaser|Brazil|martin|Multilaser Android TV|
 |Multilaser|Brazil|sepolia|Multi smart TV|
 |Multilaser|DI01_M7_WIFI|DI01_M7_WIFI|DI01_M7_WIFI|
@@ -26927,6 +26930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO_TERE|WI0C_M10_4G_PRO_TERE|M10_4G_PRO_TERE|
+|Multilaser|M12_4G|ML_BO07_M12_4G|M12_4G|
 |Multilaser|M7 3G|ML-WI1B-M7-3G|M7-3G|
 |Multilaser|M7 3G|ML_JI0N_M7_3G|M7_3G|
 |Multilaser|M7 3G|ML_JI1G_M7_3G|M7_3G|
@@ -29334,6 +29338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO F31 5G|OP5E1BL1|CPH2781|
 |Oppo|OPPO K11 5G|OP591D|PJC110|
 |Oppo|OPPO K11x 5G|OP5925|PHF110|
+|Oppo|OPPO K15|OP61FDL1|PYD110|
 |Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad 2|OP59BBL1|OPD2202|
@@ -30365,6 +30370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|YQ10SC_MAX|YQ10SC_MAX|YQ10SC_MAX|
 |PEICHENG|YQ10SC_MAX|YQ10SC_MAX|YQ10S_MAX|
 |PEICHENG|YQ10SPRO|YQ10SPRO|YQ10S|
+|PEICHENG|YQ10ST|YQ10ST|YQ10S|
 |PEICHENG|YQ10ST_MAX|YQ10ST_MAX|YQ10S_MAX|
 |PEICHENG|YQ11M|YQ11M|YQ11M|
 |PEICHENG|YQ11MK|YQ11MK|YQ11MK|
@@ -30562,6 +30568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRIMA|Interactive_Screens|RC|RC_Series|
 |PRIMA|PRIMA 2K Android TV|lasalle|PRIMA 2K Android TV|
 |PRIMA|PRIMA 4K Android TV|kenton|PRIMA 4K Android TV|
+|PRIMA|SA_Interactive_Screens|SA|SA_Series|
 |PRIMA|Smart TV|alimos|AI PONT|
 |PRIMA|Smart TV|dangni|AI PONT|
 |PRIMA|Smart TV|osaka|AI PONT SA|
@@ -48739,6 +48746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi TV|arctictale|MiTV-AXFU0|
 |Xiaomi|Xiaomi TV Box S|twilight|MiTV-AFMU0|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
+|Xiaomi|Xiaomi TV Stick|coco|MiTV-AXTU0|
 |Xiaomi|Xiaomi TV Stick 4K (2nd Gen)|twilight|MiTV-AFMU1|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi Watch 2|axolotlaxie|Xiaomi Watch 2|
@@ -52300,6 +52308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_ROW_A|M70_ROW_A|M70|
 |raemond|M70_US_A|M70_US_A|M70|
 |raemond|M90_MAX_EEA|M90_MAX_EEA|M90_MAX|
+|raemond|M90_MAX_ROW|M90_MAX_ROW|M90 MAX|
 |raemond|M90_MAX_ROW|M90_MAX_ROW|M90_MAX|
 |raemond|S90_ROW_BND|S90_ROW_BND|S90|
 |raemond|T30_ROW|T30_ROW|T30|
