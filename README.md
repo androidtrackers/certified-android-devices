@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-21
+Last sync is 2026-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26600,6 +26600,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge (2021)|berlna|motorola edge plus|
 |Motorola|motorola edge (2022)|tesla|moto g(50) 5G|
 |Motorola|motorola edge (2022)|tesla|motorola edge (2022)|
+|Motorola|motorola edge - 2026|masera|motorola edge - 2026|
+|Motorola|motorola edge - 2026|masera|motorola edge 60 fusion|
 |Motorola|motorola edge 20|berlin|motorola edge 20|
 |Motorola|motorola edge 20|berlin|motorola edge plus|
 |Motorola|motorola edge 20 fusion|kyoto|motorola|
@@ -27527,6 +27529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOGA|NOGAPAD101XTREME|NOGAPAD101XTREME|NOGAPAD101XTREME|
 |NOGA|NOGAPAD7G|NOGAPAD7G|NOGAPAD7G|
 |NOS|Box 4K|DV9161-KPN|Box 4K|
+|NOS|Box V4|HY4AA-NOS|BOX v4|
 |NOVATAB|T10|NOVAT-10|NOVAT-10|
 |NOVOJOY|NV10|NV10|NV10|
 |NOWADA|NWD_G5|G5|NWD_G5|
@@ -28363,6 +28366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMAX|7PAN|7PAN|7PAN|
 |OMAX|FeelMooK|rk3588_t|FeelMooK|
 |OMAX|FeelMook|FeelMook|FeelMook|
+|OMAX|FeelMook6_Series|FeelMook6_Series|FeelMook6_Series|
 |OMAX|OMAX-IFPD|rk3588_t|HANJI|
 |OMIX|MixTab Pro|MixTab_Pro|MixTab Pro|
 |OMIX|MixTab Pro 2|MixTab_Pro_2|MixTab Pro 2|
@@ -30391,6 +30395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEOTV|SEI300SLT|SEI300SLT|SEI300SLT|
 |PERSONA|86KTA_PRO_FULL|86KTA_PRO_FULL|86KTA_PRO_FULL|
 |PERSONA|86KTA_PRO_PIS-AMLT982|86KTA_PRO_PIS|86KTA_PRO_PIS|
+|PERSONA|KTA_PRO_100W|KTA_PRO_100W|KTA_PRO_100W|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|
 |PHILCO (ar)|P610|P610|P610|
