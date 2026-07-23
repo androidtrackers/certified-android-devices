@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-22
+Last sync is 2026-07-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7317,7 +7317,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cristor|Trendy_2|Trendy_2|Trendy 2|
 |Croatian Telecom|KSTB6044|KSTB6044|KSTB6044|
 |Croma|43FDVRCHG5SP|ikebukuro|AI PONT|
-|Crosscall|AD-Z5|L790|AD-Z5|
 |Crosscall|Action-X3|HS8937QC|ACTION-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3 Pro|
@@ -7338,6 +7337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-X5|L771|Core-X5|
 |Crosscall|Core-Z5|L790|Core-Z5|
 |Crosscall|Core-Z5|L790_02|Core-Z5|
+|Crosscall|Core-Z6|L790|AD-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|Stellar-M6|L768|Stellar-M6|
 |Crosscall|Stellar-M6E|L768|Stellar-M6E|
@@ -9407,6 +9407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENV(EC)|ENV_Kidz_10|ENV_Kidz_10|ENV Kidz 10|
 |ENV(EC)|ENV_Kidz_8|ENV_Kidz_8|ENV_Kidz_8|
 |ENV(EC)|ENV_NOTE_X|ENV_NOTE_X|ENV NOTE X|
+|ENV(EC)|ENV_PAD_17_PRO|ENV_PAD_17_PRO|ENV PAD 17 PRO|
 |ENV(EC)|ENV_PAD_PRO|ENV_PAD_PRO|ENV PAD PRO|
 |ENV(EC)|ENV_PAD_PRO_XS|ENV_PAD_PRO_XS|ENV_PAD_PRO_XS|
 |ENV(EC)|ENV_Spartan_GT99|ENV_Spartan_GT99|ENV Spartan GT99|
@@ -21900,6 +21901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT_Mobile|LT_9904|LT_9904|LT_9904|
 |LT_Mobile|LT_9906|LT_9906|LT_9906|
 |LT_Mobile|LT_K80|LT_mobile_K80|LT K80|
+|LT_Mobile|LT_K82|LT_K82|LT K82|
 |LT_Mobile|LT_mobile_C26|LT_mobile_C26|LT C26|
 |LT_Mobile|LT_mobile_C27|LT_mobile_C27|LT C27|
 |LT_Mobile|LT_mobile_C28|LT_mobile_C28|LT C28|
@@ -23745,6 +23747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Louis Vuitton|Tambour Horizon|ling|Tambour|
 |Louis Vuitton|Tambour Horizon|sundial|Tambour|
 |Lucentel|Siren_1|Siren_1|Siren_1|
+|Lumallax|G127D|G127D|G127D|
 |Lumigon|T2|msm7630_fw8911|T2|
 |Lumigon|T2 HD|T2HD|T2HD|
 |Lumigon|T3|Lumigon_T3|Lumigon_T3|
@@ -34759,6 +34762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
 |SVITOO|P11_T_ROW|P11_T|P11_T|
+|SVITOO|P11_T_US|P11_T|P11_T|
 |SVITOO|P11_pro|P11|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11|
 |SVITOO|P11_pro_EEA|P11_pro_EEA|P11_pro_EEA|
@@ -38130,6 +38134,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip7 FE|b7r|SM-F761N|
 |Samsung|Galaxy Z Flip7 FE|b7r|SM-F761U|
 |Samsung|Galaxy Z Flip7 FE|b7r|SM-F761U1|
+|Samsung|Galaxy Z Flip8|b8q|SC-55G|
+|Samsung|Galaxy Z Flip8|b8q|SCG40|
+|Samsung|Galaxy Z Flip8|b8q|SM-F7760|
+|Samsung|Galaxy Z Flip8|b8q|SM-F776C|
+|Samsung|Galaxy Z Flip8|b8q|SM-F776Q|
+|Samsung|Galaxy Z Flip8|b8q|SM-F776U|
+|Samsung|Galaxy Z Flip8|b8q|SM-F776U1|
+|Samsung|Galaxy Z Flip8|b8q|SM-F776W|
+|Samsung|Galaxy Z Flip8|b8q|SM-F776Z|
+|Samsung|Galaxy Z Flip8|b8s|SM-F776B|
+|Samsung|Galaxy Z Flip8|b8s|SM-F776N|
 |Samsung|Galaxy Z Fold Special Edition|q6aq|SM-F958N|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
@@ -38182,6 +38197,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold7|q7q|SM-F966U1|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966W|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966Z|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F9760|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976U1|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F9680|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F968B|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F968N|
