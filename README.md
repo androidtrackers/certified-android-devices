@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-23
+Last sync is 2026-07-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -456,6 +456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|Pelican|EA211005|EA211005|
 |AT&T|QS5509A|QS5509QL|QS5509A|
 |AT&T|SN333A|SN333A|SN333A|
+|AT&T|SN515AR_UM|SN515AR|SN515AR|
 |AT&T|U202AA|U202AA|U202AA|
 |AT&T|U304AA|U304AA|U304AA|
 |AT&T|U318AA|U318AA|U318AA|
@@ -781,6 +782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|AS10WF|AS10WF|AS10WF|
 |Acer|AS10WF_NEO_EEA|AS10WF_NEO|AS10WF NEO|
 |Acer|AS20WF_NEO|AS20WF_NEO|AS20WF|
+|Acer|AS20WF_NEO|AS20WF_NEO|AS20WF NEO|
 |Acer|AS8W|AS8W|AS8W|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
 |Acer|ATAB1024E|ATAB1024E|ATAB1024E|
@@ -5719,6 +5721,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COMBUSTECH|COMBUSTECH-IFPD|oversea_v|COMBUS_IB2|
 |COMBUSTECH|COMBUSTECH-IFPD|rk3588_t|COMBUS_IB|
 |COMBUSTECH|COMBUS_IB3|COMBUS_IB3|COMBUS_IB3|
+|COMMTEC|C1|C1|C1|
+|COMMTEC|C1B|C1B|C1B|
 |COMMTEC|C80|C80|C80|
 |COMPAX|ACE 1s Pro|ACE_1s_Pro|A3-1510P|
 |COMPUMAX|BLUEPAD10|BLUEPAD10|BLUEPAD10|
@@ -8075,6 +8079,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daria|qoqnoos|qoqnoos|DM-B51104|
 |Daria|zahedan|zahedan|DM-B50104|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
+|Datalogic|Falcon X60|vega_plus_pdt|Falcon X60|
+|Datalogic|Falcon X65|vega_plus_pdt|Falcon X65|
 |Datalogic|Joya Smart/Smart+|soho|Joya Smart|
 |Datalogic|Joya Touch 22|jta11|Joya Touch 22|
 |Datalogic|Joya Touch 22|jta11f|Joya Touch 22|
@@ -8091,6 +8097,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor K|memor_k|Memor K|
 |Datalogic|Memor K20|mk2|Memor K2|
 |Datalogic|Memor K25|mk2|Memor K2|
+|Datalogic|Skorpio X40|vega_pdt|Skorpio X40|
+|Datalogic|Skorpio X45|vega_pdt|Skorpio X45|
 |Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
@@ -19425,6 +19433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|JANUS|elliniko|4K SMART TV|
 |KTCtv|JSW|elliniko|4K SMART TV|
 |KTCtv|JVCO|elliniko|4K SMART TV|
+|KTCtv|Joybee|araku|Joybee|
 |KTCtv|KIUNIT|stanford|SMART TV|
 |KTCtv|KIUNIT|zhongshan|Smart UHD TV|
 |KTCtv|KTC|elliniko|4K SMART TV|
@@ -19581,6 +19590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|BLACK_PRO|BLACK_PRO|BLACK_PRO|
 |Kalley|Black|Black|Black|
 |Kalley|Black 1|Black_1|Black 1|
+|Kalley|Black C2|Black_C2|Black C2|
 |Kalley|Black G|Black_G|Black G|
 |Kalley|Black G3|Black_G3|Black G3|
 |Kalley|Black G4S|Black_G4S|Black G4S|
@@ -32438,6 +32448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|P7_A07_EEA|P7_A07_EEA|P7|
 |Pritom|P7_A08|P7_A08|P7|
 |Pritom|P7_A10_EEA|P7_A10_EEA|P7|
+|Pritom|P7_A10_EEA_01|P7_A10_EEA_01|P7|
 |Pritom|P7_A10_M|P7_A10_M|P7|
 |Pritom|P7_EEA|P7_A1_EEA|P7_EEA|
 |Pritom|P7_EEA|P7_EEA|P7_EEA|
@@ -33808,6 +33819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P90_EEA|P90|P90|
 |Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|P90_US|P90|P90|
+|Relndoo|P90_Y_EEA|P90_Y|P90|
 |Relndoo|T10-M|T10-M|T10|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
@@ -34761,6 +34773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
+|SVITOO|P11_R_EEA|P11_R|P11_R|
 |SVITOO|P11_T_ROW|P11_T|P11_T|
 |SVITOO|P11_T_US|P11_T|P11_T|
 |SVITOO|P11_pro|P11|P11|
@@ -37911,6 +37924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705F|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705N|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705U|
+|Samsung|Galaxy Watch Ultra2|projectv2bl|SM-L710|
 |Samsung|Galaxy Watch4|freshbl|SM-R870|
 |Samsung|Galaxy Watch4|freshbs|SM-R860|
 |Samsung|Galaxy Watch4|freshul|SM-R875F|
@@ -37982,6 +37996,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch8 Classic|wise8us|SM-L505F|
 |Samsung|Galaxy Watch8 Classic|wise8us|SM-L505N|
 |Samsung|Galaxy Watch8 Classic|wise8us|SM-L505U|
+|Samsung|Galaxy Watch9|fresh9bl|SM-L350|
+|Samsung|Galaxy Watch9|fresh9bs|SM-L340|
+|Samsung|Galaxy Watch9|fresh9us|SM-L345F|
+|Samsung|Galaxy Watch9|fresh9us|SM-L345N|
+|Samsung|Galaxy Watch9|fresh9us|SM-L345U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
@@ -38197,8 +38216,28 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold7|q7q|SM-F966U1|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966W|
 |Samsung|Galaxy Z Fold7|q7q|SM-F966Z|
+|Samsung|Galaxy Z Fold8|h8q|SC-57G|
+|Samsung|Galaxy Z Fold8|h8q|SCG41|
+|Samsung|Galaxy Z Fold8|h8q|SM-F9710|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971B|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971C|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971N|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971Q|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971U|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971U1|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971W|
+|Samsung|Galaxy Z Fold8|h8q|SM-F971Z|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SC-56G|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SCG39|
 |Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F9760|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976B|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976C|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976N|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976Q|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976U|
 |Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976U1|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976W|
+|Samsung|Galaxy Z Fold8 Ultra|q8q|SM-F976Z|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F9680|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F968B|
 |Samsung|Galaxy Z TriFold|q7mq|SM-F968N|
@@ -41106,6 +41145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|T90_US|T90|T90|
+|TABWEE|V90_EEA|V90_EEA|V90_EEA|
 |TABWEE|V90_NEU|V90_NEU|V90_NEU|
 |TABWEE|W80_NEU|W80|W80|
 |TABWEE|W80_US|W80|W80|
@@ -45687,6 +45727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VILLAON|VILLAON V30|VILLAON-V30|VILLAON V30|
 |VILLAON|VILLAON V45s|VILLAON-V652L|VILLAON V652L|
 |VILLAON|VILLAON X50|VILLAON-V671NP|VILLAON V671NP|
+|VILLAON|VP0703L-Liv|VILLAON-VP0703L|VP0703L|
 |VILLAON|VP1002L-OP|VILLAON-VP1002L|VILLAON-VP1002L|
 |VILLAON|Vibe 50|VILLAON-V653L|VILLAON V653L|
 |VILLAON|Vodacom A06s|VILLAON-V652L|VILLAON V652L|
@@ -47798,6 +47839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|KT1028|KT1028|KT1028|
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
+|Whitedeer|X13LU|X13L|X13L|
 |Whitedeer|X13L_EEA|X13L|X13L|
 |Whitedeer|X7|X7L|X7L|
 |Whitedeer|X7K_E|X7K|X7K|
@@ -52310,6 +52352,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|K50_EEA_C|K50_EEA_C|K50|
 |raemond|K50_ROW_C|K50_ROW_C|K50|
 |raemond|K50_US_C|K50_US_C|K50|
+|raemond|K70Pro_EEA|K70Pro|K70_PRO|
+|raemond|K70Pro_ROW|K70Pro|K70_PRO|
+|raemond|K70Pro_US|K70Pro|K70_PRO|
 |raemond|K70_C_EEA|K70_C|K70|
 |raemond|K70_C_ROW|K70_C|K70|
 |raemond|K70_PRO_ROW_A|K70_PRO_ROW_A|K70_PRO|
@@ -52332,6 +52377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M90_MAX_EEA|M90_MAX_EEA|M90_MAX|
 |raemond|M90_MAX_ROW|M90_MAX_ROW|M90 MAX|
 |raemond|M90_MAX_ROW|M90_MAX_ROW|M90_MAX|
+|raemond|M90_MAX_US|M90_MAX_US|M90_MAX|
 |raemond|S90_ROW_BND|S90_ROW_BND|S90|
 |raemond|T30_ROW|T30_ROW|T30|
 |raemond|X70_EEA|X70|X70|
