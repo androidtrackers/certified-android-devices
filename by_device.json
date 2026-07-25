@@ -79746,6 +79746,11 @@
    "brand": "ECOPAD",
    "name": "A30Pro_A_EEA",
    "model": "A30Pro_A"
+  },
+  {
+   "brand": "ECOPAD",
+   "name": "A30Pro_A_US",
+   "model": "A30Pro_A_US"
   }
  ],
  "C30plus": [

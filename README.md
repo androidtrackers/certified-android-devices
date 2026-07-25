@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-24
+Last sync is 2026-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9241,6 +9241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30L1_US|A30L1|A30L2|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
+|ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A_US|
 |ECOPAD|C30plus|C30plus|C30plus|
 |ECOPAD|C30plus_EEA|C30plus|C30plus|
 |ECOPAD|C30plus_US|C30plus|C30plus|

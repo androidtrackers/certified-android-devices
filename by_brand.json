@@ -47907,6 +47907,11 @@
    "model": "A30Pro_A"
   },
   {
+   "device": "A30Pro_A",
+   "name": "A30Pro_A_US",
+   "model": "A30Pro_A_US"
+  },
+  {
    "device": "C30plus",
    "name": "C30plus",
    "model": "C30plus"
