@@ -20721,6 +20721,13 @@
    "model": "JA5-TBA1201"
   }
  ],
+ "JA6-TBA1103": [
+  {
+   "brand": "Aiwa",
+   "device": "JA6-TBA1103",
+   "model": "JA6-TBA1103"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -45854,6 +45861,13 @@
    "brand": "Blu",
    "device": "B160V",
    "model": "B160V"
+  }
+ ],
+ "B1680V": [
+  {
+   "brand": "Blu",
+   "device": "B1680V",
+   "model": "B1680V"
   }
  ],
  "B3": [
@@ -86923,6 +86937,13 @@
    "model": "CP11_J1"
   }
  ],
+ "CP12-J1": [
+  {
+   "brand": "FPD",
+   "device": "CP12-J1",
+   "model": "CP12-J1"
+  }
+ ],
  "EcoTV1 Plus": [
   {
    "brand": "FPD",
@@ -116161,6 +116182,13 @@
    "brand": "Horion",
    "device": "jagalchi",
    "model": "2K SMART TV"
+  }
+ ],
+ "Horion_K8M8A": [
+  {
+   "brand": "Horion",
+   "device": "K8M8A",
+   "model": "K8M8A"
   }
  ],
  "K7A": [
@@ -171398,6 +171426,13 @@
    "model": "TAB_MAX_7"
   }
  ],
+ "TA-04": [
+  {
+   "brand": "Maxzz",
+   "device": "TA-04",
+   "model": "TA-04"
+  }
+ ],
  "Mazda Connect": [
   {
    "brand": "Mazda",
@@ -197733,6 +197768,13 @@
    "brand": "Oppo",
    "device": "OP5F2BL1",
    "model": "CPH2823"
+  }
+ ],
+ "A7 Pro Max 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP620DL1",
+   "model": "PYC110"
   }
  ],
  "A73t": [
@@ -227412,6 +227454,13 @@
    "model": "P90"
   }
  ],
+ "P90_Y_US": [
+  {
+   "brand": "Relndoo",
+   "device": "P90_Y",
+   "model": "P90"
+  }
+ ],
  "T10-M": [
   {
    "brand": "Relndoo",
@@ -230537,6 +230586,13 @@
    "brand": "SMART_KASSEL",
    "device": "SK-5503AR",
    "model": "SK-5503AR"
+  }
+ ],
+ "SK-5503ARX": [
+  {
+   "brand": "SMART_KASSEL",
+   "device": "SK-5503ARX",
+   "model": "SK-5503ARX"
   }
  ],
  "SK3403": [
@@ -236579,6 +236635,11 @@
    "brand": "Samsung",
    "device": "a57x",
    "model": "SM-A576Q"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a57x",
+   "model": "SM-A576U"
   },
   {
    "brand": "Samsung",
@@ -309301,6 +309362,13 @@
    "model": "KT1028"
   }
  ],
+ "X13LG": [
+  {
+   "brand": "Whitedeer",
+   "device": "X13L",
+   "model": "X13L"
+  }
+ ],
  "X13LU": [
   {
    "brand": "Whitedeer",
@@ -335020,6 +335088,11 @@
   }
  ],
  "M90_MAX_EEA": [
+  {
+   "brand": "raemond",
+   "device": "M90_MAX_EEA",
+   "model": "M90 MAX"
+  },
   {
    "brand": "raemond",
    "device": "M90_MAX_EEA",

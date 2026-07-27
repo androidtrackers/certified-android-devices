@@ -16835,6 +16835,13 @@
    "device": "JA5-TBA1201"
   }
  ],
+ "JA6-TBA1103": [
+  {
+   "brand": "Aiwa",
+   "name": "JA6-TBA1103",
+   "device": "JA6-TBA1103"
+  }
+ ],
  "AI PONT CO": [
   {
    "brand": "Aiwa",
@@ -41846,6 +41853,13 @@
    "device": "B160V"
   }
  ],
+ "B1680V": [
+  {
+   "brand": "Blu",
+   "name": "B1680V",
+   "device": "B1680V"
+  }
+ ],
  "B3": [
   {
    "brand": "Blu",
@@ -60462,6 +60476,11 @@
   {
    "brand": "Relndoo",
    "name": "P90_Y_EEA",
+   "device": "P90_Y"
+  },
+  {
+   "brand": "Relndoo",
+   "name": "P90_Y_US",
    "device": "P90_Y"
   }
  ],
@@ -81573,6 +81592,13 @@
    "brand": "FPD",
    "name": "CP11_J1",
    "device": "CP11_J1"
+  }
+ ],
+ "CP12-J1": [
+  {
+   "brand": "FPD",
+   "name": "CP12-J1",
+   "device": "CP12-J1"
   }
  ],
  "EcoTV1 Plus": [
@@ -112130,6 +112156,13 @@
    "brand": "Hoozo",
    "name": "YK_P30_EEA",
    "device": "YK_P30_EEA"
+  }
+ ],
+ "K8M8A": [
+  {
+   "brand": "Horion",
+   "name": "Horion_K8M8A",
+   "device": "K8M8A"
   }
  ],
  "W72B": [
@@ -173785,6 +173818,13 @@
    "device": "TAB_MAX_7"
   }
  ],
+ "TA-04": [
+  {
+   "brand": "Maxzz",
+   "name": "TA-04",
+   "device": "TA-04"
+  }
+ ],
  "MAZDA CONNECT": [
   {
    "brand": "Mazda",
@@ -201779,6 +201819,13 @@
    "brand": "Oppo",
    "name": "A7",
    "device": "PBFT00"
+  }
+ ],
+ "PYC110": [
+  {
+   "brand": "Oppo",
+   "name": "A7 Pro Max 5G",
+   "device": "OP620DL1"
   }
  ],
  "CPH2067": [
@@ -234034,6 +234081,13 @@
    "device": "SK-5503AR"
   }
  ],
+ "SK-5503ARX": [
+  {
+   "brand": "SMART_KASSEL",
+   "name": "SK-5503ARX",
+   "device": "SK-5503ARX"
+  }
+ ],
  "SK3403": [
   {
    "brand": "SMART_KASSEL",
@@ -241029,6 +241083,13 @@
   }
  ],
  "SM-A576Q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A57 5G",
+   "device": "a57x"
+  }
+ ],
+ "SM-A576U": [
   {
    "brand": "Samsung",
    "name": "Galaxy A57 5G",
@@ -320642,6 +320703,11 @@
  "X13L": [
   {
    "brand": "Whitedeer",
+   "name": "X13LG",
+   "device": "X13L"
+  },
+  {
+   "brand": "Whitedeer",
    "name": "X13LU",
    "device": "X13L"
   },
@@ -348764,6 +348830,18 @@
    "device": "L90"
   }
  ],
+ "M90 MAX": [
+  {
+   "brand": "raemond",
+   "name": "M90_MAX_EEA",
+   "device": "M90_MAX_EEA"
+  },
+  {
+   "brand": "raemond",
+   "name": "M90_MAX_ROW",
+   "device": "M90_MAX_ROW"
+  }
+ ],
  "M90_MAX": [
   {
    "brand": "raemond",
@@ -348779,13 +348857,6 @@
    "brand": "raemond",
    "name": "M90_MAX_US",
    "device": "M90_MAX_US"
-  }
- ],
- "M90 MAX": [
-  {
-   "brand": "raemond",
-   "name": "M90_MAX_ROW",
-   "device": "M90_MAX_ROW"
   }
  ],
  "the101loop": [

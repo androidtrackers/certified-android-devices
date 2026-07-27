@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-26
+Last sync is 2026-07-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1413,6 +1413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|JA5-TBA1012|JA5-TBA1012|JA5-TBA1012|
 |Aiwa|JA5-TBA1102|JA5-TBA1102|JA5-TBA1102|
 |Aiwa|JA5-TBA1201|JA5-TBA1201|JA5-TBA1201|
+|Aiwa|JA6-TBA1103|JA6-TBA1103|JA6-TBA1103|
 |Aiwa|R3|R3|R3|
 |Aiwa|R4|R4|R4|
 |Aiwa|Smart TV|alimos|AI PONT|
@@ -4835,6 +4836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|B131DL|B130DL|B131DL|
 |Blu|B140DL|B140DL|B140DL|
 |Blu|B160V|B160V|B160V|
+|Blu|B1680V|B1680V|B1680V|
 |Blu|B3|B301|B3|
 |Blu|BLU|G0430WW|G71|
 |Blu|BLU Dash XL|Dash_XL|Dash XL|
@@ -10467,6 +10469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|CP08_J1|CP08_J1|CP08_J1|
 |FPD|CP10-J1|CP10|CP10-J1|
 |FPD|CP11_J1|CP11_J1|CP11_J1|
+|FPD|CP12-J1|CP12-J1|CP12-J1|
 |FPD|EcoTV1 Plus|elliniko|EcoTV1 Plus|
 |FPD|FPD|elliniko|4K SMART TV|
 |FPD|FPD|hongkong|EcoTV Pro A|
@@ -15051,6 +15054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
 |Horion|HORION|jagalchi|2K SMART TV|
+|Horion|Horion_K8M8A|K8M8A|K8M8A|
 |Horion|IFPD|65W72B|W72B|
 |Horion|K7A|K7A|K7A|
 |Horion|M6APro|M6APro|M6APro|
@@ -24614,6 +24618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
 |Maxwest|TAB_MAX_7|TAB_MAX_7|Byybuo|
 |Maxwest|TAB_MAX_7|TAB_MAX_7|TAB_MAX_7|
+|Maxzz|TA-04|TA-04|TA-04|
 |Mazda|Mazda Connect|MAZDA_CONNECT_AA_G12|MAZDA CONNECT|
 |Mazda|Mazda Connect|MAZDA_CONNECT_AA_G15|MAZDA CONNECT|
 |Maze_speed|M1582C|M1582C|M1582C|
@@ -29080,6 +29085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7|CPH1905|CPH1905|
 |Oppo|A7|PBFM00|PBFM00|
 |Oppo|A7|PBFT00|PBFT00|
+|Oppo|A7 Pro Max 5G|OP620DL1|PYC110|
 |Oppo|A72|OP4C72L1|CPH2067|
 |Oppo|A73|A73|OPPO A73|
 |Oppo|A73|A79|OPPO A73|
@@ -33821,6 +33827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|P90_US|P90|P90|
 |Relndoo|P90_Y_EEA|P90_Y|P90|
+|Relndoo|P90_Y_US|P90_Y|P90|
 |Relndoo|T10-M|T10-M|T10|
 |Relndoo|T10P|T10P|T10P|
 |Relndoo|T10P_A|T10P_A|T10P|
@@ -34360,6 +34367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMART Technologies|gxv4na|sherbet|SMART Board GX (V4) Plus Series NA|
 |SMART_KASSEL|ARGENTINA|SK3402|SK3402|
 |SMART_KASSEL|SK-5503AR|SK-5503AR|SK-5503AR|
+|SMART_KASSEL|SK-5503ARX|SK-5503ARX|SK-5503ARX|
 |SMART_KASSEL|SK3403|SK3403|SK3403|
 |SMART_KASSEL|SK3404|SK3404|SK3404|
 |SMART_KASSEL|SK3405|SK3405|SK3405|
@@ -35427,6 +35435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A57 5G|a57x|SM-A5760|
 |Samsung|Galaxy A57 5G|a57x|SM-A576B|
 |Samsung|Galaxy A57 5G|a57x|SM-A576Q|
+|Samsung|Galaxy A57 5G|a57x|SM-A576U|
 |Samsung|Galaxy A57 5G|a57x|SM-A576U1|
 |Samsung|Galaxy A57 5G|a57x|SM-A576W|
 |Samsung|Galaxy A57 5G|a57x|SM-A576Z|
@@ -47840,6 +47849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Whitedeer|KT1028|KT1028|KT1028|
 |Whitedeer|KT1028A_EEA|KT1028|KT1028|
 |Whitedeer|KT1028_EEA|KT1028|KT1028|
+|Whitedeer|X13LG|X13L|X13L|
 |Whitedeer|X13LU|X13L|X13L|
 |Whitedeer|X13L_EEA|X13L|X13L|
 |Whitedeer|X7|X7L|X7L|
@@ -52375,6 +52385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |raemond|M70_EEA_A|M70_EEA_A|M70|
 |raemond|M70_ROW_A|M70_ROW_A|M70|
 |raemond|M70_US_A|M70_US_A|M70|
+|raemond|M90_MAX_EEA|M90_MAX_EEA|M90 MAX|
 |raemond|M90_MAX_EEA|M90_MAX_EEA|M90_MAX|
 |raemond|M90_MAX_ROW|M90_MAX_ROW|M90 MAX|
 |raemond|M90_MAX_ROW|M90_MAX_ROW|M90_MAX|

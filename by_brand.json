@@ -7419,6 +7419,11 @@
    "model": "JA5-TBA1201"
   },
   {
+   "device": "JA6-TBA1103",
+   "name": "JA6-TBA1103",
+   "model": "JA6-TBA1103"
+  },
+  {
    "device": "R3",
    "name": "R3",
    "model": "R3"
@@ -24997,6 +25002,11 @@
    "device": "B160V",
    "name": "B160V",
    "model": "B160V"
+  },
+  {
+   "device": "B1680V",
+   "name": "B1680V",
+   "model": "B1680V"
   },
   {
    "device": "B301",
@@ -54389,6 +54399,11 @@
    "model": "CP11_J1"
   },
   {
+   "device": "CP12-J1",
+   "name": "CP12-J1",
+   "model": "CP12-J1"
+  },
+  {
    "device": "elliniko",
    "name": "EcoTV1 Plus",
    "model": "EcoTV1 Plus"
@@ -77977,6 +77992,11 @@
    "device": "jagalchi",
    "name": "HORION",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "K8M8A",
+   "name": "Horion_K8M8A",
+   "model": "K8M8A"
   },
   {
    "device": "65W72B",
@@ -126916,6 +126936,13 @@
    "model": "TAB_MAX_7"
   }
  ],
+ "Maxzz": [
+  {
+   "device": "TA-04",
+   "name": "TA-04",
+   "model": "TA-04"
+  }
+ ],
  "Mazda": [
   {
    "device": "MAZDA_CONNECT_AA_G12",
@@ -149922,6 +149949,11 @@
    "device": "PBFT00",
    "name": "A7",
    "model": "PBFT00"
+  },
+  {
+   "device": "OP620DL1",
+   "name": "A7 Pro Max 5G",
+   "model": "PYC110"
   },
   {
    "device": "OP4C72L1",
@@ -174191,6 +174223,11 @@
    "model": "P90"
   },
   {
+   "device": "P90_Y",
+   "name": "P90_Y_US",
+   "model": "P90"
+  },
+  {
    "device": "T10-M",
    "name": "T10-M",
    "model": "T10"
@@ -177094,6 +177131,11 @@
    "device": "SK-5503AR",
    "name": "SK-5503AR",
    "model": "SK-5503AR"
+  },
+  {
+   "device": "SK-5503ARX",
+   "name": "SK-5503ARX",
+   "model": "SK-5503ARX"
   },
   {
    "device": "SK3403",
@@ -182557,6 +182599,11 @@
    "device": "a57x",
    "name": "Galaxy A57 5G",
    "model": "SM-A576Q"
+  },
+  {
+   "device": "a57x",
+   "name": "Galaxy A57 5G",
+   "model": "SM-A576U"
   },
   {
    "device": "a57x",
@@ -245999,6 +246046,11 @@
   },
   {
    "device": "X13L",
+   "name": "X13LG",
+   "model": "X13L"
+  },
+  {
+   "device": "X13L",
    "name": "X13LU",
    "model": "X13L"
   },
@@ -269349,6 +269401,11 @@
    "device": "M70_US_A",
    "name": "M70_US_A",
    "model": "M70"
+  },
+  {
+   "device": "M90_MAX_EEA",
+   "name": "M90_MAX_EEA",
+   "model": "M90 MAX"
   },
   {
    "device": "M90_MAX_EEA",
