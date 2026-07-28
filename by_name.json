@@ -9884,6 +9884,13 @@
    "model": "AI+ Nova 2 5G"
   }
  ],
+ "AI+ Nova 2 Ultra": [
+  {
+   "brand": "AIPLUS",
+   "device": "Nova_2_Ultra",
+   "model": "AI+ Nova 2 Ultra"
+  }
+ ],
  "AI+ NxtFlip 5G": [
   {
    "brand": "AIPLUS",
@@ -10646,6 +10653,18 @@
    "brand": "AOC",
    "device": "M10c",
    "model": "M10"
+  }
+ ],
+ "M21": [
+  {
+   "brand": "AOC",
+   "device": "M21",
+   "model": "M21"
+  },
+  {
+   "brand": "Himax",
+   "device": "M21",
+   "model": "M21"
   }
  ],
  "Q10107L-ME": [
@@ -14215,6 +14234,11 @@
   },
   {
    "brand": "Blackview",
+   "device": "A50",
+   "model": "A50"
+  },
+  {
+   "brand": "Cubot",
    "device": "A50",
    "model": "A50"
   },
@@ -22744,6 +22768,11 @@
    "brand": "Alldocube",
    "device": "kido",
    "model": "T818"
+  },
+  {
+   "brand": "Alldocube",
+   "device": "kido",
+   "model": "U818"
   }
  ],
  "KidzPad Pro": [
@@ -23940,6 +23969,13 @@
    "brand": "Profilo",
    "device": "yeongdeungpo",
    "model": "Profilo 4K Android TV"
+  }
+ ],
+ "AME_QT08UM": [
+  {
+   "brand": "Amdox",
+   "device": "Smart_Whiteboard",
+   "model": "AME_QT08UM"
   }
  ],
  "EP-01": [
@@ -51534,6 +51570,13 @@
    "brand": "CEPTER",
    "device": "CTABNEXUSG",
    "model": "CTABNEXUSG"
+  }
+ ],
+ "CTABNEXUSP": [
+  {
+   "brand": "CEPTER",
+   "device": "CTABNEXUSP",
+   "model": "CTABNEXUSP"
   }
  ],
  "CTABNEXUSW": [
@@ -86276,6 +86319,18 @@
    "model": "F106"
   }
  ],
+ "F106_Plus": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "F106_Plus",
+   "model": "F106 Plus"
+  },
+  {
+   "brand": "Innjoo",
+   "device": "F106_Plus",
+   "model": "F106_Plus"
+  }
+ ],
  "F107 Pro": [
   {
    "brand": "FOSSiBOT",
@@ -86344,6 +86399,13 @@
    "brand": "FOSSiBOT",
    "device": "F116_Pro",
    "model": "F116 Pro"
+  }
+ ],
+ "F123_EEA": [
+  {
+   "brand": "FOSSiBOT",
+   "device": "F123",
+   "model": "F123"
   }
  ],
  "S3_Pro": [
@@ -108379,13 +108441,6 @@
    "model": "HT65"
   }
  ],
- "M21": [
-  {
-   "brand": "Himax",
-   "device": "M21",
-   "model": "M21"
-  }
- ],
  "M25i": [
   {
    "brand": "Himax",
@@ -115483,6 +115538,23 @@
    "brand": "Honor",
    "device": "HNNLA-M2",
    "model": "NLA-NX3"
+  }
+ ],
+ "HONOR X6e": [
+  {
+   "brand": "Honor",
+   "device": "HNLBU-M",
+   "model": "LBU-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNLBU-M",
+   "model": "LBU-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNLBU-M",
+   "model": "LBU-LX3"
   }
  ],
  "HONOR X7": [
@@ -132241,13 +132313,6 @@
    "model": "F104"
   }
  ],
- "F106_Plus": [
-  {
-   "brand": "Innjoo",
-   "device": "F106_Plus",
-   "model": "F106_Plus"
-  }
- ],
  "F702": [
   {
    "brand": "Innjoo",
@@ -136719,6 +136784,13 @@
    "brand": "JCB_Phone",
    "device": "ToughPhone_E10",
    "model": "Toughphone E10"
+  }
+ ],
+ "Tough_Tablet_T10": [
+  {
+   "brand": "JCB_Phone",
+   "device": "Tough_Tablet_T10",
+   "model": "Tough_Tablet_T10"
   }
  ],
  "Toughphone_E50_EEA": [
@@ -202778,6 +202850,13 @@
    "model": "C17 Pro"
   }
  ],
+ "C17_go_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "C17",
+   "model": "C17"
+  }
+ ],
  "C18 Plus": [
   {
    "brand": "Oukitel",
@@ -205838,6 +205917,11 @@
   {
    "brand": "PEICHENG",
    "device": "CP10R_Pro",
+   "model": "CP10-proK"
+  },
+  {
+   "brand": "PEICHENG",
+   "device": "CP10R_Pro",
    "model": "CP10_Pro"
   }
  ],
@@ -207359,6 +207443,13 @@
    "brand": "PROTON",
    "device": "Proton_X20_Pro",
    "model": "X20 Pro"
+  }
+ ],
+ "Zen 6T": [
+  {
+   "brand": "PROTON",
+   "device": "Proton_Zen_6T",
+   "model": "Zen 6T"
   }
  ],
  "PS101": [
@@ -218683,6 +218774,13 @@
    "model": "M10"
   }
  ],
+ "M10_C10_Kids_USA": [
+  {
+   "brand": "Pritom",
+   "device": "M10_C10_Kids_USA",
+   "model": "M10"
+  }
+ ],
  "M10_C10_USA": [
   {
    "brand": "Pritom",
@@ -218978,6 +219076,13 @@
   {
    "brand": "Pritom",
    "device": "P7_A08",
+   "model": "P7"
+  }
+ ],
+ "P7_A10K_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "P7_A10K_EEA",
    "model": "P7"
   }
  ],
@@ -222911,6 +223016,13 @@
    "brand": "RUGSTORM",
    "device": "UA80",
    "model": "UA80"
+  }
+ ],
+ "RUGTAKE_T5Pro": [
+  {
+   "brand": "RUGTAKE",
+   "device": "RUGTAKE_T5Pro",
+   "model": "RUGTAKE_T5 Pro"
   }
  ],
  "M132-EEA": [
@@ -228572,6 +228684,13 @@
    "model": "Xever 7 Pro"
   }
  ],
+ "Xever 8": [
+  {
+   "brand": "RugOne",
+   "device": "GR1001TF1",
+   "model": "Xever 8"
+  }
+ ],
  "MT7030": [
   {
    "brand": "RuggON",
@@ -231561,6 +231680,13 @@
    "brand": "spectramobile",
    "device": "Spectra_J2_Pro",
    "model": "Spectra_J2_Pro"
+  }
+ ],
+ "Spectra J3 MTN": [
+  {
+   "brand": "SPECTRA",
+   "device": "Spectra_J3_MTN",
+   "model": "Spectra_J3_MTN"
   }
  ],
  "Spectra MobileMapper6": [
@@ -267517,6 +267643,13 @@
    "model": "EZ 2"
   }
  ],
+ "EZ 3": [
+  {
+   "brand": "Sun_King",
+   "device": "EZ_3",
+   "model": "EZ 3"
+  }
+ ],
  "EZ 3 Pro": [
   {
    "brand": "Sun_King",
@@ -292678,6 +292811,13 @@
    "model": "Tab A11 Pro"
   }
  ],
+ "Tab A12 Pro": [
+  {
+   "brand": "Ulefone",
+   "device": "UF1201RK1",
+   "model": "Tab A12 Pro"
+  }
+ ],
  "Tab A7": [
   {
    "brand": "Ulefone",
@@ -292714,6 +292854,13 @@
    "brand": "Ulefone",
    "device": "UF1001_1",
    "model": "Tab W10"
+  }
+ ],
+ "UF1201RK1": [
+  {
+   "brand": "Ulefone",
+   "device": "UF1201RK1",
+   "model": "Tab A12 Pro"
   }
  ],
  "Ulefone Tab A7": [
@@ -294923,6 +295070,13 @@
    "brand": "Unnecto",
    "device": "Bolt1",
    "model": "Bolt 1"
+  }
+ ],
+ "Eco 1": [
+  {
+   "brand": "Unnecto",
+   "device": "Eco_1",
+   "model": "Eco_1"
   }
  ],
  "QUATTRO_M-3": [
@@ -308998,6 +309152,13 @@
    "model": "zenx 2"
   }
  ],
+ "zenx Z3": [
+  {
+   "brand": "Walton",
+   "device": "zenx_Z3",
+   "model": "Z3"
+  }
+ ],
  "WUD55JOA63S": [
   {
    "brand": "Wansa",
@@ -316680,6 +316841,13 @@
    "brand": "ZDK(SZ)",
    "device": "ZDKMP-T30B",
    "model": "ZDKMP-T30B"
+  }
+ ],
+ "Z-PAD_PRO": [
+  {
+   "brand": "ZEED",
+   "device": "ZP210P",
+   "model": "Z-PAD PRO ZP210P"
   }
  ],
  "ZEEKER_P10": [
@@ -327479,6 +327647,23 @@
    "brand": "Zebra",
    "device": "TC20RT",
    "model": "TC20"
+  }
+ ],
+ "TC201": [
+  {
+   "brand": "Zebra",
+   "device": "TCW01L",
+   "model": "TC201L"
+  },
+  {
+   "brand": "Zebra",
+   "device": "TCW01W",
+   "model": "TC201"
+  },
+  {
+   "brand": "Zebra",
+   "device": "TCW01W",
+   "model": "TC201W"
   }
  ],
  "TC20KB": [
