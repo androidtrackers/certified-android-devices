@@ -10958,6 +10958,11 @@
    "model": "P13"
   },
   {
+   "brand": "Easerush",
+   "device": "P8C-E",
+   "model": "P13"
+  },
+  {
    "brand": "Itel",
    "device": "itel-P13",
    "model": "itel P13"
@@ -11680,6 +11685,13 @@
    "brand": "ASTCA",
    "device": "SURGE_AA_787_S",
    "model": "AA 787 S"
+  }
+ ],
+ "ASTECH_IRIS_60": [
+  {
+   "brand": "ASTECH",
+   "device": "ASTECH_IRIS_60",
+   "model": "ASTECH_IRIS_60"
   }
  ],
  "Astech NEO": [
@@ -24854,6 +24866,18 @@
    "model": "CMP749"
   }
  ],
+ "Note 56": [
+  {
+   "brand": "Anyreal",
+   "device": "1928C-A",
+   "model": "Note 56"
+  },
+  {
+   "brand": "Doogee",
+   "device": "1928C",
+   "model": "Note 56"
+  }
+ ],
  "Note56 Plus": [
   {
    "brand": "Anyreal",
@@ -24876,6 +24900,13 @@
    "brand": "Doogee",
    "device": "1928CT",
    "model": "Note56 Pro"
+  }
+ ],
+ "Note56 X": [
+  {
+   "brand": "Anyreal",
+   "device": "1928SC-A",
+   "model": "Note56 X"
   }
  ],
  "Note56X Pro": [
@@ -24902,6 +24933,13 @@
    "brand": "Anyreal",
    "device": "P8-AR",
    "model": "Tab G6 Max"
+  }
+ ],
+ "T2-AR": [
+  {
+   "brand": "Anyreal",
+   "device": "T2-AR",
+   "model": "U11"
   }
  ],
  "T2U-AR": [
@@ -32912,6 +32950,11 @@
    "model": "A60"
   },
   {
+   "brand": "Gloria",
+   "device": "gloria_A60",
+   "model": "A60"
+  },
+  {
    "brand": "Noblex",
    "device": "A60UNS",
    "model": "A60UNS"
@@ -35280,6 +35323,27 @@
    "brand": "BILIMLI",
    "device": "BILIMLI2025",
    "model": "BILIMLI2025"
+  }
+ ],
+ "P7C-B": [
+  {
+   "brand": "BIRDCLAW",
+   "device": "P7C-B",
+   "model": "P12"
+  }
+ ],
+ "P8-B": [
+  {
+   "brand": "BIRDCLAW",
+   "device": "P8-B",
+   "model": "P13 Pro"
+  }
+ ],
+ "T2-B": [
+  {
+   "brand": "BIRDCLAW",
+   "device": "T2-B",
+   "model": "P11"
   }
  ],
  "Phenix XT": [
@@ -43010,6 +43074,13 @@
    "brand": "Doogee",
    "device": "BL7000",
    "model": "BL7000"
+  }
+ ],
+ "BL7000 Pro": [
+  {
+   "brand": "Blackview",
+   "device": "BL7000_Pro",
+   "model": "BL7000 Pro"
   }
  ],
  "BL8000": [
@@ -51554,6 +51625,13 @@
    "brand": "CEPTER",
    "device": "CTABNEXA10V2",
    "model": "CTABNEXA10V2"
+  }
+ ],
+ "CTABNEXT10C": [
+  {
+   "brand": "CEPTER",
+   "device": "CTABNEXT10C",
+   "model": "CTABNEXT10C"
   }
  ],
  "CTABNEXT10S": [
@@ -74822,13 +74900,6 @@
    "model": "N70"
   }
  ],
- "Note 56": [
-  {
-   "brand": "Doogee",
-   "device": "1928C",
-   "model": "Note 56"
-  }
- ],
  "Note 56X": [
   {
    "brand": "Doogee",
@@ -81035,11 +81106,37 @@
    "model": "Z_766_EEA"
   }
  ],
+ "P7C-E": [
+  {
+   "brand": "Easerush",
+   "device": "P7C-E",
+   "model": "P12"
+  }
+ ],
+ "P7S-E": [
+  {
+   "brand": "Easerush",
+   "device": "P7S-E",
+   "model": "P12 Pro"
+  }
+ ],
  "P8-E": [
   {
    "brand": "Easerush",
    "device": "P8-E",
    "model": "P13 Pro"
+  }
+ ],
+ "P9T-E": [
+  {
+   "brand": "Easerush",
+   "device": "P9T-E",
+   "model": "P12 Plus"
+  },
+  {
+   "brand": "Easerush",
+   "device": "P9T-E",
+   "model": "P12 Power"
   }
  ],
  "RK5S-E": [
@@ -87435,6 +87532,13 @@
    "brand": "Fanconn",
    "device": "GMJ",
    "model": "SC228"
+  }
+ ],
+ "DC695": [
+  {
+   "brand": "Fanconn",
+   "device": "Tablet",
+   "model": "DC695"
   }
  ],
  "C10US": [
@@ -105446,6 +105550,13 @@
    "brand": "HUIHUANG",
    "device": "X11",
    "model": "X11"
+  }
+ ],
+ "XC70_US": [
+  {
+   "brand": "HUIHUANG",
+   "device": "XC70_US",
+   "model": "XC70_US"
   }
  ],
  "Interactivewhiteboard": [
@@ -126860,6 +126971,11 @@
    "brand": "IACTIVE",
    "device": "lactive_IA75",
    "model": "IACTIVE"
+  },
+  {
+   "brand": "IACTIVE",
+   "device": "lactive_IA75",
+   "model": "lactive_IA75"
   }
  ],
  "ICE_Board_X_2": [
@@ -194436,6 +194552,13 @@
    "model": "ORION"
   }
  ],
+ "BOLT 2": [
+  {
+   "brand": "OSCAL",
+   "device": "BOLT_2",
+   "model": "BOLT 2"
+  }
+ ],
  "C20 Pro": [
   {
    "brand": "OSCAL",
@@ -194495,6 +194618,13 @@
    "brand": "OSCAL",
    "device": "FLAT_3C",
    "model": "FLAT 3C"
+  }
+ ],
+ "FLAT 3C Mini": [
+  {
+   "brand": "OSCAL",
+   "device": "FLAT_3C_Mini",
+   "model": "FLAT 3C Mini"
   }
  ],
  "KIDO 2": [
@@ -218381,6 +218511,20 @@
    "brand": "Whitedeer",
    "device": "K7",
    "model": "K7"
+  }
+ ],
+ "L10_001": [
+  {
+   "brand": "Pritom",
+   "device": "L10_001",
+   "model": "L10"
+  }
+ ],
+ "L10_001_USA": [
+  {
+   "brand": "Pritom",
+   "device": "L10_001",
+   "model": "L10"
   }
  ],
  "L10_EEA": [

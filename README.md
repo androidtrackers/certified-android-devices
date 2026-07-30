@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-07-29
+Last sync is 2026-07-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -417,6 +417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASHER|Smart TV|redwood|AI PONT|
 |ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
+|ASTECH|ASTECH_IRIS_60|ASTECH_IRIS_60|ASTECH_IRIS_60|
 |ASTECH|Astech NEO|Astech_NEO|Astech NEO|
 |ASTECH|Astech S7|Astech_S7|Astech S7|
 |ASTECH|Astech S7 pro|Astech_S7_pro|Astech S7 pro|
@@ -1998,11 +1999,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Anydata|essentielb ST8003/FT8001 Tablet|M805ND|Smart\'TAB 8003|
 |Anydata|iCraig CMP748|CMP748|CMP748|
 |Anydata|iCraig CMP749|CMP749|CMP749|
+|Anyreal|Note 56|1928C-A|Note 56|
 |Anyreal|Note56 Plus|1928CV-AR|Note56 Plus|
 |Anyreal|Note56 Pro|1928CT-AR|Note56 Pro|
+|Anyreal|Note56 X|1928SC-A|Note56 X|
 |Anyreal|Note56X Pro|1928SE-AR|Note56X Pro|
 |Anyreal|P5C-AR|P5C-AR|U13|
 |Anyreal|P8-AR|P8-AR|Tab G6 Max|
+|Anyreal|T2-AR|T2-AR|U11|
 |Anyreal|T2U-AR|T2U-AR|U11 Pro|
 |Anyreal|Tab A9|RK5-AR|Tab A9|
 |Anyreal|Tab G5|T5-AR|Tab G5|
@@ -3431,6 +3435,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BILIMLI|BILIMLI2025|BILIMLI2025|BILIMLI2025|
 |BIOSfone|T11|T11|T11|
 |BIRDCLAW|P13|P8C-B|P13|
+|BIRDCLAW|P7C-B|P7C-B|P12|
+|BIRDCLAW|P8-B|P8-B|P13 Pro|
+|BIRDCLAW|T2-B|T2-B|P11|
 |BIT Mobile|Phenix XT|Phenix_XT|Phenix XT|
 |BITTAP|BITTAP-KST11PRO-M8775|M8775|KST-BT-11-PRO|
 |BKAV|B2017|B2017|B2017|
@@ -4462,6 +4469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BL6000Pro|BL6000Pro|BL6000Pro|
 |Blackview|BL7000|BL7000|BL7000|
 |Blackview|BL7000|BL7000|BL7000 Pro|
+|Blackview|BL7000 Pro|BL7000_Pro|BL7000 Pro|
 |Blackview|BL8000|BL8000|BL8000|
 |Blackview|BL8800|BL8800|BL8800|
 |Blackview|BL8800Pro|BL8800Pro|BL8800Pro|
@@ -5560,6 +5568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEPTER|CTABLOTUS11KB|CTABLOTUS11KB|CTABLOTUS11KB|
 |CEPTER|CTABLOTUSV2|CTABLOTUSV2|CTABLOTUSV2|
 |CEPTER|CTABNEXA10V2|CTABNEXA10V2|CTABNEXA10V2|
+|CEPTER|CTABNEXT10C|CTABNEXT10C|CTABNEXT10C|
 |CEPTER|CTABNEXT10S|CTABNEXT10S|CTABNEXT10S|
 |CEPTER|CTABNEXUS|CTABNEXUS|CTABNEXUS|
 |CEPTER|CTABNEXUS6128|CTABNEXUS6128|CTABNEXUS6128|
@@ -9621,7 +9630,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Eaglesoar|E_764_EEA|E_764_EEA|E_764_EEA|
 |Eaglesoar|Z_766_EEA|Z_766_EEA|Z_766_EEA|
 |Easerush|P11 Pro|T4-E|P11 Pro|
+|Easerush|P13|P8C-E|P13|
+|Easerush|P7C-E|P7C-E|P12|
+|Easerush|P7S-E|P7S-E|P12 Pro|
 |Easerush|P8-E|P8-E|P13 Pro|
+|Easerush|P9T-E|P9T-E|P12 Plus|
+|Easerush|P9T-E|P9T-E|P12 Power|
 |Easerush|RK5S-E|RK5S-E|P10|
 |EasyPhone|100|100|100|
 |Easymer|K6Pro|K6Pro|K6Pro|
@@ -10540,6 +10554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Famous Fones|Fonos-O1|Fonos-O1|Fonos-O1|
 |Famous Fones|Red_Royal_Edition|Red_Royal_Edition|Red Royal Edition|
 |Fanconn|DC685|GMJ|SC228|
+|Fanconn|DC695|Tablet|DC695|
 |FancyDay|C10|C10|C10|
 |FancyDay|C10US|C10|C10|
 |Fantec|FANTEC M200H|M200H|M200H|
@@ -11909,6 +11924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
 |Gloria|A30|A30|A30|
 |Gloria|A50|A50|gloria A50|
+|Gloria|A60|gloria_A60|A60|
 |Go Mobile|G860|G860|G860|
 |Go Mobile|GO Onyx|GO_Onyx_LTE|GO Onyx LTE|
 |Go Mobile|GO Onyx HD|Go_Onyx_HD|Go Onyx HD|
@@ -13345,6 +13361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
 |HUIHUANG|X10S|X10S|X10S|
 |HUIHUANG|X11_US|X11|X11|
+|HUIHUANG|XC70_US|XC70_US|XC70_US|
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
 |HYPERTECH|THATAB|THATAB|THATAB|
@@ -17141,6 +17158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |I3-TECHNOLOGIES|i3SIXTY-3|i3SIXTY-3|i3SIXTY-3|
 |I3-TECHNOLOGIES|i3TOUCH-X3|i3TOUCH-X3|i3TOUCH-X3|
 |IACTIVE|lactive_IA75|lactive_IA75|IACTIVE|
+|IACTIVE|lactive_IA75|lactive_IA75|lactive_IA75|
 |IAIWAI|A103|A103|A103|
 |ICE_Board|ICE_Board_X_2|ICE_Board_X|ICE_Board_X|
 |ICL-KME CS OJSC|TR10CD1|TR10CD1_7|TR10CD1|
@@ -28491,6 +28509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ORION|ORION|templeton|ORION SMART TV|
 |ORION|Smart TV|longshan|AI PONT|
 |ORION|Smart TV|redwood|AI PONT|
+|OSCAL|BOLT 2|BOLT_2|BOLT 2|
 |OSCAL|C20|C20|C20|
 |OSCAL|C20 Pro|C20_Pro|C20 Pro|
 |OSCAL|C30|C30|C30|
@@ -28504,6 +28523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|FLAT 2|FLAT_2|FLAT 2|
 |OSCAL|FLAT 2C|FLAT_2C|FLAT 2C|
 |OSCAL|FLAT 3C|FLAT_3C|FLAT 3C|
+|OSCAL|FLAT 3C Mini|FLAT_3C_Mini|FLAT 3C Mini|
 |OSCAL|KIDO 2|KIDO_2|KIDO 2|
 |OSCAL|MARINE 1|MARINE_1|MARINE 1|
 |OSCAL|MARINE 2|MARINE_2|MARINE 2|
@@ -32362,6 +32382,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_A102_EEA|K7_A102_EEA|K7_A102|
 |Pritom|K7_EEA|K7|K7|
 |Pritom|L10|L10|L10|
+|Pritom|L10_001|L10_001|L10|
+|Pritom|L10_001_USA|L10_001|L10|
 |Pritom|L10_EEA|L10_EEA|L10_EEA|
 |Pritom|L10_PRO|L10_PRO|L10_PRO|
 |Pritom|L10_PRO_EEA|L10_PRO_EEA|L10_PRO_EEA|
