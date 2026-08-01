@@ -3492,6 +3492,11 @@
   {
    "device": "65E-L3576C-E7",
    "name": "65E-L3576C-E7",
+   "model": "65E-L3576C-E7"
+  },
+  {
+   "device": "65E-L3576C-E7",
+   "name": "65E-L3576C-E7",
    "model": "Abans"
   }
  ],
@@ -6415,6 +6420,11 @@
    "device": "Pr7547",
    "name": "Pr7547",
    "model": "Pr7547"
+  },
+  {
+   "device": "SP3702",
+   "name": "SP3702",
+   "model": "SP3702"
   },
   {
    "device": "SP3703",
@@ -13095,6 +13105,11 @@
    "device": "R4_GTV",
    "name": "R4_GTV",
    "model": "R4G"
+  },
+  {
+   "device": "dangni",
+   "name": "Smart TV",
+   "model": "AI PONT"
   },
   {
    "device": "Starpad",
@@ -27634,6 +27649,13 @@
    "model": "ORION_TG07"
   }
  ],
+ "Boltt": [
+  {
+   "device": "Evo",
+   "name": "Evo",
+   "model": "Evo"
+  }
+ ],
  "Booken": [
   {
    "device": "cybtt10_bk",
@@ -37823,7 +37845,17 @@
   {
    "device": "Calendar3_32",
    "name": "Calendar3_32",
+   "model": "CD-8V545F0"
+  },
+  {
+   "device": "Calendar3_32",
+   "name": "Calendar3_32",
    "model": "Calendar3_32"
+  },
+  {
+   "device": "CalendarPlus3_24",
+   "name": "CalendarPlus3_24",
+   "model": "CD-8R545F0"
   },
   {
    "device": "CalendarPlus3_24",
@@ -41864,6 +41896,11 @@
    "model": "Dslide_117"
   },
   {
+   "device": "Dslide_118",
+   "name": "Dslide_118_EEA",
+   "model": "Dslide_118"
+  },
+  {
    "device": "Dslide_809_EEA",
    "name": "Dslide_809",
    "model": "Dslide_809"
@@ -43896,6 +43933,13 @@
    "device": "Titan_5G",
    "name": "Titan_5G",
    "model": "Titan 5G"
+  }
+ ],
+ "DigitEdge": [
+  {
+   "device": "Pad12pro",
+   "name": "Pad12pro",
+   "model": "Pad12pro"
   }
  ],
  "Digital2": [
@@ -69494,6 +69538,11 @@
    "device": "XC70_US",
    "name": "XC70_US",
    "model": "XC70_US"
+  },
+  {
+   "device": "XC90_US",
+   "name": "XC90_US",
+   "model": "XC90_US"
   }
  ],
  "HUSHIDA": [
@@ -122754,6 +122803,11 @@
    "device": "G127D",
    "name": "G127D",
    "model": "G127D"
+  },
+  {
+   "device": "G127D-ROM",
+   "name": "G127D-ROM",
+   "model": "G127D"
   }
  ],
  "Lumigon": [
@@ -152117,6 +152171,11 @@
    "model": "PLT140"
   },
   {
+   "device": "OP5E1EL1",
+   "name": "PLT150",
+   "model": "PLT150"
+  },
+  {
    "device": "OP615CL1",
    "name": "Pad 4 Pro",
    "model": "OPD2409"
@@ -154310,6 +154369,11 @@
    "device": "C17_Pro",
    "name": "C17 Pro",
    "model": "C17 Pro"
+  },
+  {
+   "device": "C17_Mini",
+   "name": "C17_Mini_go_EEA",
+   "model": "C17 Mini"
   },
   {
    "device": "C17",
@@ -164243,6 +164307,11 @@
    "device": "TL12",
    "name": "Vaio TL12",
    "model": "Vaio TL12"
+  },
+  {
+   "device": "T3011D",
+   "name": "Vision Tab 11",
+   "model": "T3011D"
   },
   {
    "device": "T307F",
@@ -174869,6 +174938,11 @@
    "device": "T901_US",
    "name": "T901_US",
    "model": "T901_US"
+  },
+  {
+   "device": "T901_US_U",
+   "name": "T901_US_U",
+   "model": "T901"
   },
   {
    "device": "T901_Y",
@@ -212202,6 +212276,11 @@
    "model": "T90"
   },
   {
+   "device": "V20_EEA",
+   "name": "V20_EEA",
+   "model": "V20"
+  },
+  {
    "device": "V90_EEA",
    "name": "V90_EEA",
    "model": "V90_EEA"
@@ -228997,6 +229076,11 @@
    "device": "AMLMY8306P",
    "name": "PRIMO8 Tablet",
    "model": "PRIMO8"
+  },
+  {
+   "device": "Pad_Pro",
+   "name": "Pad_Pro_EEA",
+   "model": "Pad_Pro"
   },
   {
    "device": "R3",
@@ -264694,6 +264778,11 @@
    "device": "MAGNO_P4",
    "name": "MAGNO_P4",
    "model": "MAGNO P4"
+  },
+  {
+   "device": "MAGNO_R_II",
+   "name": "MAGNO_R_II",
+   "model": "MAGNO R II"
   },
   {
    "device": "Magno_Pro",
