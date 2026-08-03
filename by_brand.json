@@ -71298,6 +71298,11 @@
    "device": "KiddoPad_K2",
    "name": "KiddoPad_K2",
    "model": "KiddoPad_K2"
+  },
+  {
+   "device": "Pad_Mini",
+   "name": "Pad_Mini",
+   "model": "Pad_Mini"
   }
  ],
  "Helgi": [
@@ -209857,6 +209862,11 @@
    "model": "ECLIPSE TAB 8"
   },
   {
+   "device": "ECLIPSE_TAB_8",
+   "name": "ECLIPSE_TAB_8",
+   "model": "STYLO ECLIPSE TAB 8"
+  },
+  {
    "device": "EOA39_STYLO_AXIS",
    "name": "EOA39_STYLO_AXIS",
    "model": "EOA39-STYLO AXIS"
@@ -237282,6 +237292,11 @@
    "device": "Veidoo_S20_Pro",
    "name": "Veidoo_S20_Pro",
    "model": "Veidoo_S20_Pro"
+  },
+  {
+   "device": "Veidoo_S30",
+   "name": "Veidoo_S30",
+   "model": "Veidoo S30"
   }
  ],
  "Veira": [
@@ -260397,6 +260412,11 @@
    "model": "Z2577"
   },
   {
+   "device": "P615F03",
+   "name": "Z2581",
+   "model": "Z2581"
+  },
+  {
    "device": "Z3153",
    "name": "Z3153V",
    "model": "Z3153V"
@@ -262932,6 +262952,11 @@
    "device": "S8Plus2",
    "name": "S8Plus2",
    "model": "S8Plus2"
+  },
+  {
+   "device": "S8Plus3",
+   "name": "S8Plus3",
+   "model": "S8Plus3"
   }
  ],
  "ZUKU": [
@@ -271151,11 +271176,6 @@
    "device": "RE644C",
    "name": "realme C85 5G",
    "model": "RMX5253"
-  },
-  {
-   "device": "RE6441L1",
-   "name": "realme C85 Pro",
-   "model": "RMX5555"
   },
   {
    "device": "RE58B2L1",

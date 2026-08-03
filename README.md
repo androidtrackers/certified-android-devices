@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-02
+Last sync is 2026-08-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13730,6 +13730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haus|JS430 _Wave|JS430_Wave|JS430_Wave|
 |Haus|JS550|JS550|JS550|
 |Heco|KiddoPad_K2|KiddoPad_K2|KiddoPad_K2|
+|Heco|Pad_Mini|Pad_Mini|Pad_Mini|
 |Helgi|HELGI_C_Series_PRO|rk3576_u|HCPxx10|
 |Helgi|HXxx10|rk3588_t|Helgi_HX10|
 |Helio|Helio S5|Helio_S5|Helio S5|
@@ -40823,6 +40824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|DVK87_Orion 8_Tab|DVK87_Orion_8_Tab|DVK87 Orion 8 Tab|
 |Stylo|Destiny|Destiny|Destiny|
 |Stylo|ECLIPSE_TAB_8|ECLIPSE_TAB_8|ECLIPSE TAB 8|
+|Stylo|ECLIPSE_TAB_8|ECLIPSE_TAB_8|STYLO ECLIPSE TAB 8|
 |Stylo|EOA39_STYLO_AXIS|EOA39_STYLO_AXIS|EOA39-STYLO AXIS|
 |Stylo|ERA|Smart_Phone|EPY32|
 |Stylo|Energy|Energy|Energy|
@@ -46142,6 +46144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|Veidoo_S10_PLUS|Veidoo_S10_PLUS|Veidoo_S10_PLUS|
 |Veidoo|Veidoo_S10_Pro|Veidoo_S10_Pro|Veidoo_S10_Pro|
 |Veidoo|Veidoo_S20_Pro|Veidoo_S20_Pro|Veidoo_S20_Pro|
+|Veidoo|Veidoo_S30|Veidoo_S30|Veidoo S30|
 |Veira|Smart TV|alimos|AI PONT|
 |Veira|Smart TV|dangni|AI PONT|
 |Veld|Veld Board|Veld_Board|SXX01G|
@@ -50659,6 +50662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2576|P620F01|Z2576|
 |ZTE|Z2577|P615F02|Z2577|
 |ZTE|Z2577|P615F02_A|Z2577|
+|ZTE|Z2581|P615F03|Z2581|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
@@ -51166,6 +51170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTLEKE|P10Pro3|P10Pro3|P10Pro3|
 |ZTLEKE|S8Plus|S8Plus|S8Plus|
 |ZTLEKE|S8Plus2|S8Plus2|S8Plus2|
+|ZTLEKE|S8Plus3|S8Plus3|S8Plus3|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |ZULEISY|E10A_EA|E10A|E10A|
@@ -52731,7 +52736,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C83 5G|RE6478L1|RMX5256|
 |realme|realme C85|RE645F|RMX5566|
 |realme|realme C85 5G|RE644C|RMX5253|
-|realme|realme C85 Pro|RE6441L1|RMX5555|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
