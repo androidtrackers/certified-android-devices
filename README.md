@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-03
+Last sync is 2026-08-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10522,6 +10522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8Pro|T8Pro|T8Pro|
 |FPD|CP08-C1|CP08-C1|CP08-C1|
 |FPD|CP08-C1|CP08-C1|CP08_C1|
+|FPD|CP08-J2|CP08-J2|CP08-J2|
 |FPD|CP08_J1|CP08_J1|CP08_J1|
 |FPD|CP10-J1|CP10|CP10-J1|
 |FPD|CP11_J1|CP11_J1|CP11_J1|
@@ -14974,6 +14975,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X9a|HNELN2-Q1|ELN2-L23|
 |Honor|HONOR Pad X9a|HNELN2-Q1|ELN2-L29|
 |Honor|HONOR Pad X9a|HNELN2-Q1|ELN2-W29|
+|Honor|HONOR Pad X9b Max|HNYAG-Q1|YAG-W09|
+|Honor|HONOR Pad X9b Max|HNYAG-Q1|YAG-W19|
 |Honor|HONOR Play9A|HNGFY-M|GFY-LX3|
 |Honor|HONOR Play9C|HNNIC-M1|NIC-LX3P|
 |Honor|HONOR X5|HNVNA-M|VNA-LX2|
@@ -27561,6 +27564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEXGO|P300|P300|P300|
 |NEXGO|P300|P300_Pro|P300__Pro|
 |NEXGO|P300|P300_mini|P300__mini|
+|NEXORX|JUNO_Tab_10|JUNO_Tab_10|JUNO_Tab_10|
 |NEXWIN|interactive flat panel display|IFPD_RK3588|NXW_GB86_13UP|
 |NGM Italia SRL|Android TV|R1|ATV R1|
 |NGM Italia SRL|Android TV|R2|ATV R2|
@@ -34911,6 +34915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_D_ROW|P10_D|P10_D|
 |SVITOO|P10_D_US|P10_D|P10_D|
 |SVITOO|P10_T_EEA|P10_T|P10_T|
+|SVITOO|P10_T_US|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
@@ -48540,6 +48545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XD-DML|ITALY|guandu|XD 4K Andriod TV|
 |XD-DML|XD|martin|XD 2K Andriod TV|
 |XD-Enjoy|XDDGM10|XDDGM10|XDDGM10|
+|XD-Enjoy|XDDGM10-1|XDDGM10-1|XDDGM10-1|
 |XD-Enjoy|XDDGM11BS|XDDGM11BS|XDDGM11BS|
 |XD-Enjoy|XDDGM99PM|XDDGM99PM|XDDGM99PM|
 |XENON|PHILIPPINES|marina|XENON ANDROID TV|
@@ -53021,11 +53027,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Pad5e|DPD2345|PA2455|
 |vivo|Pad5e|DPD2345|PA2535|
 |vivo|Pad6 Pro|DPD2540|PA2671|
+|vivo|S2|V2576|V2576|
 |vivo|S30|PD2464|V2464A|
 |vivo|S30 Pro mini|PD2465|V2465A|
 |vivo|S50|PD2528|V2528A|
 |vivo|S50 Pro mini|PD2527|V2527A|
 |vivo|S50t|PD2528|V2528A|
+|vivo|S50t Series|PD2528|V2528A|
 |vivo|S60|PD2571|V2571A|
 |vivo|S60 元气版|PD2572|V2572A|
 |vivo|T4 Pro|V2511|V2510|
@@ -53058,6 +53066,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70 Lite|V2570|V2635|
 |vivo|V70 Lite 5G|V2529|V2615|
 |vivo|V70 Lite 5G|V2529|V2637|
+|vivo|V80 Lite 5G|V2576|V2576|
+|vivo|V80 Lite 5G|V2576|V2643|
+|vivo|V80 Lite 5G|V2576|V2644|
 |vivo|X Fold5|PD2436|V2436A|
 |vivo|X Fold5|V2429|V2429|
 |vivo|X Fold6|PD2545|V2545A|

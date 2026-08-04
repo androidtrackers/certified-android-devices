@@ -49499,6 +49499,11 @@
    "brand": "Xstar",
    "device": "S2",
    "model": "S2"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2576",
+   "model": "V2576"
   }
  ],
  "S3": [
@@ -87294,6 +87299,13 @@
    "model": "CP08_C1"
   }
  ],
+ "CP08-J2": [
+  {
+   "brand": "FPD",
+   "device": "CP08-J2",
+   "model": "CP08-J2"
+  }
+ ],
  "CP08_J1": [
   {
    "brand": "FPD",
@@ -115697,6 +115709,18 @@
    "brand": "Honor",
    "device": "HNELN2-Q1",
    "model": "ELN2-W29"
+  }
+ ],
+ "HONOR Pad X9b Max": [
+  {
+   "brand": "Honor",
+   "device": "HNYAG-Q1",
+   "model": "YAG-W09"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNYAG-Q1",
+   "model": "YAG-W19"
   }
  ],
  "HONOR Play9A": [
@@ -189011,6 +189035,13 @@
    "model": "EF930"
   }
  ],
+ "JUNO_Tab_10": [
+  {
+   "brand": "NEXORX",
+   "device": "JUNO_Tab_10",
+   "model": "JUNO_Tab_10"
+  }
+ ],
  "interactive flat panel display": [
   {
    "brand": "NEXWIN",
@@ -234106,6 +234137,13 @@
   }
  ],
  "P10_T_EEA": [
+  {
+   "brand": "SVITOO",
+   "device": "P10_T",
+   "model": "P10_T"
+  }
+ ],
+ "P10_T_US": [
   {
    "brand": "SVITOO",
    "device": "P10_T",
@@ -313432,6 +313470,13 @@
    "model": "XDDGM10"
   }
  ],
+ "XDDGM10-1": [
+  {
+   "brand": "XD-Enjoy",
+   "device": "XDDGM10-1",
+   "model": "XDDGM10-1"
+  }
+ ],
  "XDDGM11BS": [
   {
    "brand": "XD-Enjoy",
@@ -339059,6 +339104,13 @@
    "model": "V2528A"
   }
  ],
+ "S50t Series": [
+  {
+   "brand": "vivo",
+   "device": "PD2528",
+   "model": "V2528A"
+  }
+ ],
  "S60 元气版": [
   {
    "brand": "vivo",
@@ -339200,6 +339252,23 @@
    "brand": "vivo",
    "device": "V2529",
    "model": "V2637"
+  }
+ ],
+ "V80 Lite 5G": [
+  {
+   "brand": "vivo",
+   "device": "V2576",
+   "model": "V2576"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2576",
+   "model": "V2643"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2576",
+   "model": "V2644"
   }
  ],
  "X Fold5": [

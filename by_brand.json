@@ -54670,6 +54670,11 @@
    "model": "CP08_C1"
   },
   {
+   "device": "CP08-J2",
+   "name": "CP08-J2",
+   "model": "CP08-J2"
+  },
+  {
    "device": "CP08_J1",
    "name": "CP08_J1",
    "model": "CP08_J1"
@@ -77594,6 +77599,16 @@
    "device": "HNELN2-Q1",
    "name": "HONOR Pad X9a",
    "model": "ELN2-W29"
+  },
+  {
+   "device": "HNYAG-Q1",
+   "name": "HONOR Pad X9b Max",
+   "model": "YAG-W09"
+  },
+  {
+   "device": "HNYAG-Q1",
+   "name": "HONOR Pad X9b Max",
+   "model": "YAG-W19"
   },
   {
    "device": "HNGFY-M",
@@ -141985,6 +142000,13 @@
    "model": "P300__mini"
   }
  ],
+ "NEXORX": [
+  {
+   "device": "JUNO_Tab_10",
+   "name": "JUNO_Tab_10",
+   "model": "JUNO_Tab_10"
+  }
+ ],
  "NEXWIN": [
   {
    "device": "IFPD_RK3588",
@@ -179964,6 +179986,11 @@
   {
    "device": "P10_T",
    "name": "P10_T_EEA",
+   "model": "P10_T"
+  },
+  {
+   "device": "P10_T",
+   "name": "P10_T_US",
    "model": "P10_T"
   },
   {
@@ -249606,6 +249633,11 @@
    "model": "XDDGM10"
   },
   {
+   "device": "XDDGM10-1",
+   "name": "XDDGM10-1",
+   "model": "XDDGM10-1"
+  },
+  {
    "device": "XDDGM11BS",
    "name": "XDDGM11BS",
    "model": "XDDGM11BS"
@@ -272675,6 +272707,11 @@
    "model": "PA2671"
   },
   {
+   "device": "V2576",
+   "name": "S2",
+   "model": "V2576"
+  },
+  {
    "device": "PD2464",
    "name": "S30",
    "model": "V2464A"
@@ -272697,6 +272734,11 @@
   {
    "device": "PD2528",
    "name": "S50t",
+   "model": "V2528A"
+  },
+  {
+   "device": "PD2528",
+   "name": "S50t Series",
    "model": "V2528A"
   },
   {
@@ -272858,6 +272900,21 @@
    "device": "V2529",
    "name": "V70 Lite 5G",
    "model": "V2637"
+  },
+  {
+   "device": "V2576",
+   "name": "V80 Lite 5G",
+   "model": "V2576"
+  },
+  {
+   "device": "V2576",
+   "name": "V80 Lite 5G",
+   "model": "V2643"
+  },
+  {
+   "device": "V2576",
+   "name": "V80 Lite 5G",
+   "model": "V2644"
   },
   {
    "device": "PD2436",
