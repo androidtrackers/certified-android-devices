@@ -8981,6 +8981,13 @@
    "model": "6781"
   }
  ],
+ "NASA ONE": [
+  {
+   "brand": "ADVAN",
+   "device": "ADVAN_NASA_ONE",
+   "model": "NASA ONE"
+  }
+ ],
  "S50": [
   {
    "brand": "ADVAN",
@@ -84276,6 +84283,18 @@
    "model": "Fine 7B"
   }
  ],
+ "PULSE": [
+  {
+   "brand": "Evergreen Wireless",
+   "device": "PULSE",
+   "model": "PULSE"
+  },
+  {
+   "brand": "Hurricane",
+   "device": "pulse",
+   "model": "pulse"
+  }
+ ],
  "E0109": [
   {
    "brand": "Everis",
@@ -125495,13 +125514,6 @@
    "brand": "Hurricane",
    "device": "Lynx",
    "model": "Lynx"
-  }
- ],
- "PULSE": [
-  {
-   "brand": "Hurricane",
-   "device": "pulse",
-   "model": "pulse"
   }
  ],
  "Panther": [
@@ -205792,6 +205804,13 @@
    "model": "V30 Ultra"
   }
  ],
+ "V40_ULTRA_TR": [
+  {
+   "brand": "Ovion",
+   "device": "V40_ULTRA",
+   "model": "V40 Ultra"
+  }
+ ],
  "V8_LITE": [
   {
    "brand": "Ovion",
@@ -216399,6 +216418,13 @@
    "brand": "Premio",
    "device": "P450",
    "model": "P450"
+  }
+ ],
+ "PREMIO_Blaze": [
+  {
+   "brand": "Premio",
+   "device": "Blaze",
+   "model": "PREMIO_Blaze"
   }
  ],
  "PREMIO_S50": [
@@ -285151,6 +285177,13 @@
    "model": "T60Ai_ROW"
   }
  ],
+ "T60Mini_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "T60Mini",
+   "model": "T60Mini_ROW"
+  }
+ ],
  "T60Plus_EEA": [
   {
    "brand": "Teclast",
@@ -296863,6 +296896,13 @@
    "brand": "VALTECH",
    "device": "TAB7Q804VAL",
    "model": "TAB7Q804VAL"
+  }
+ ],
+ "SG-TM-xxXP": [
+  {
+   "brand": "VAMAA",
+   "device": "VM-EDLA",
+   "model": "SG-TM-xxXP"
   }
  ],
  "L10-C03": [

@@ -831,6 +831,11 @@
    "model": "6781"
   },
   {
+   "device": "ADVAN_NASA_ONE",
+   "name": "NASA ONE",
+   "model": "NASA ONE"
+  },
+  {
    "device": "ADVAN_MACHA",
    "name": "S50",
    "model": "S50"
@@ -52533,6 +52538,13 @@
    "device": "Fine_7B",
    "name": "Fine 7B",
    "model": "Fine 7B"
+  }
+ ],
+ "Evergreen Wireless": [
+  {
+   "device": "PULSE",
+   "name": "PULSE",
+   "model": "PULSE"
   }
  ],
  "Everis": [
@@ -156219,6 +156231,11 @@
    "model": "V30 Ultra"
   },
   {
+   "device": "V40_ULTRA",
+   "name": "V40_ULTRA_TR",
+   "model": "V40 Ultra"
+  },
+  {
    "device": "OVION_V8_LITE",
    "name": "V8_LITE",
    "model": "OVION_V8_LITE"
@@ -165096,6 +165113,11 @@
    "device": "P450",
    "name": "PREMIO P450",
    "model": "P450"
+  },
+  {
+   "device": "Blaze",
+   "name": "PREMIO_Blaze",
+   "model": "PREMIO_Blaze"
   },
   {
    "device": "PREMIO_S50",
@@ -225441,6 +225463,11 @@
    "model": "T60Ai_ROW"
   },
   {
+   "device": "T60Mini",
+   "name": "T60Mini_ROW",
+   "model": "T60Mini_ROW"
+  },
+  {
    "device": "T60Plus_EEA",
    "name": "T60Plus_EEA",
    "model": "T60Plus_EEA"
@@ -235477,6 +235504,13 @@
    "device": "TAB7Q804VAL",
    "name": "TAB7Q804VAL",
    "model": "TAB7Q804VAL"
+  }
+ ],
+ "VAMAA": [
+  {
+   "device": "VM-EDLA",
+   "name": "SG-TM-xxXP",
+   "model": "SG-TM-xxXP"
   }
  ],
  "VANTEC": [

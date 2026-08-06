@@ -2716,6 +2716,13 @@
    "model": "6781"
   }
  ],
+ "ADVAN_NASA_ONE": [
+  {
+   "brand": "ADVAN",
+   "name": "NASA ONE",
+   "model": "NASA ONE"
+  }
+ ],
  "ADVAN_MACHA": [
   {
    "brand": "ADVAN",
@@ -56613,6 +56620,11 @@
    "model": "Blaze"
   },
   {
+   "brand": "Premio",
+   "name": "PREMIO_Blaze",
+   "model": "PREMIO_Blaze"
+  },
+  {
    "brand": "Qsmart",
    "name": "QSmart Blaze",
    "model": "Blaze"
@@ -85270,6 +85282,13 @@
    "brand": "Everex",
    "name": "Fine 7B",
    "model": "Fine 7B"
+  }
+ ],
+ "PULSE": [
+  {
+   "brand": "Evergreen Wireless",
+   "name": "PULSE",
+   "model": "PULSE"
   }
  ],
  "E0109": [
@@ -207073,6 +207092,13 @@
    "model": "V30 Ultra"
   }
  ],
+ "V40_ULTRA": [
+  {
+   "brand": "Ovion",
+   "name": "V40_ULTRA_TR",
+   "model": "V40 Ultra"
+  }
+ ],
  "OVION_V8_LITE": [
   {
    "brand": "Ovion",
@@ -285967,6 +285993,13 @@
    "model": "T60Ai_ROW"
   }
  ],
+ "T60Mini": [
+  {
+   "brand": "Teclast",
+   "name": "T60Mini_ROW",
+   "model": "T60Mini_ROW"
+  }
+ ],
  "T60Plus_EEA": [
   {
    "brand": "Teclast",
@@ -297265,6 +297298,13 @@
    "brand": "VALTECH",
    "name": "TAB7Q804VAL",
    "model": "TAB7Q804VAL"
+  }
+ ],
+ "VM-EDLA": [
+  {
+   "brand": "VAMAA",
+   "name": "SG-TM-xxXP",
+   "model": "SG-TM-xxXP"
   }
  ],
  "L10-C03": [

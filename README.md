@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-05
+Last sync is 2026-08-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -157,6 +157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ADVAN|ADVAN_TAB_A10S|ADVAN_TAB_A10S|1013|
 |ADVAN|ADVAN_V11|ADVAN_V11|ADVAN_V11|
 |ADVAN|ADVAN_X1|ADVAN_X1|6781|
+|ADVAN|NASA ONE|ADVAN_NASA_ONE|NASA ONE|
 |ADVAN|S50|ADVAN_MACHA|S50|
 |ADVAN|Sketsa3|ADVAN_SKETSA3|1013|
 |ADVAN|TAB A8|ADVAN_TAB_A8|8004|
@@ -10117,6 +10118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|X9|X9|X9|
 |Everex|Fine 7B|Fine_7B|FINE 7B|
 |Everex|Fine 7B|Fine_7B|Fine 7B|
+|Evergreen Wireless|PULSE|PULSE|PULSE|
 |Everis|E0109|E0109|E0109|
 |Everis|E0111|E0111|E0111|
 |Everis|E0112|E0112|E0112|
@@ -30329,6 +30331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ovion|V20_PRO_TR|V20_PRO|V20 PRO|
 |Ovion|V21_Pro|V21_Pro|V21_Pro|
 |Ovion|V30 Ultra|V30_Ultra|V30 Ultra|
+|Ovion|V40_ULTRA_TR|V40_ULTRA|V40 Ultra|
 |Ovion|V8_LITE|OVION_V8_LITE|OVION_V8_LITE|
 |OwnMobile|FUN 6|OWN_FUN_6|OWN FUN 6|
 |OwnMobile|FUN 7|OWN_FUN_7|OWN FUN 7|
@@ -32052,6 +32055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|P530|P530|P530|
 |Premio|P540|P540|P540|
 |Premio|PREMIO P450|P450|P450|
+|Premio|PREMIO_Blaze|Blaze|PREMIO_Blaze|
 |Premio|PREMIO_S50|PREMIO_S50|PREMIO S50|
 |Premio|PREMIO_S58|S58|PREMIO S58|
 |Premio|PREMIO_S89|S89|PREMIO_S89|
@@ -43871,6 +43875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T60-ROW|T60-ROW|T60|
 |Teclast|T60Ai_EEA|T60Ai|T60Ai_EEA|
 |Teclast|T60Ai_ROW|T60Ai|T60Ai_ROW|
+|Teclast|T60Mini_ROW|T60Mini|T60Mini_ROW|
 |Teclast|T60Plus_EEA|T60Plus_EEA|T60Plus_EEA|
 |Teclast|T60Plus_ROW|T60Plus_ROW|T60Plus_ROW|
 |Teclast|T60Pro_A_ROW|T60Pro_A_ROW|T60Pro_A_EEA|
@@ -45803,6 +45808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VALIFONE|W888|W888|W888|
 |VALIFONE|W999|W999|W999|
 |VALTECH|TAB7Q804VAL|TAB7Q804VAL|TAB7Q804VAL|
+|VAMAA|SG-TM-xxXP|VM-EDLA|SG-TM-xxXP|
 |VANTEC|G4|G4|G4|
 |VANTEC|G5|G5|G5|
 |VANTEC|telma_i401|G4|G4|
