@@ -6946,6 +6946,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Haier",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Hyundai",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -85448,6 +85453,13 @@
    "model": "E8224HG"
   }
  ],
+ "HALO": [
+  {
+   "brand": "Evertek",
+   "name": "HALO",
+   "model": "HALO"
+  }
+ ],
  "Hero": [
   {
    "brand": "Evertek",
@@ -141797,6 +141809,11 @@
  "araku": [
   {
    "brand": "KTCtv",
+   "name": "FPD",
+   "model": "Projector"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Joybee",
    "model": "Joybee"
   },
@@ -170103,6 +170120,13 @@
    "model": "M761"
   }
  ],
+ "M808": [
+  {
+   "brand": "MLINK",
+   "name": "M808",
+   "model": "M808"
+  }
+ ],
  "M809": [
   {
    "brand": "MLINK",
@@ -170663,6 +170687,20 @@
    "brand": "MTN",
    "name": "Kabode Max",
    "model": "Kabode Max"
+  }
+ ],
+ "Alola_5G": [
+  {
+   "brand": "MTN",
+   "name": "Alola 5G",
+   "model": "Alola 5G"
+  }
+ ],
+ "Alola_Max2": [
+  {
+   "brand": "MTN",
+   "name": "Alola Max 2",
+   "model": "Alola Max 2"
   }
  ],
  "Alola_Max": [
@@ -209926,6 +209964,20 @@
    "brand": "PRAMA",
    "name": "PRAMA_3576",
    "model": "PRAMA_3576"
+  }
+ ],
+ "PT10EduPad21-4G": [
+  {
+   "brand": "PRAZteck",
+   "name": "10_Tablet_PC",
+   "model": "PT10EduPad21-4G"
+  }
+ ],
+ "PT11EduPad21-4G": [
+  {
+   "brand": "PRAZteck",
+   "name": "11_Tablet_PC",
+   "model": "PT11EduPad21-4G"
   }
  ],
  "PT10EduPad21": [
@@ -271385,6 +271437,13 @@
    "brand": "Symphony",
    "name": "MAX_60",
    "model": "MAX 60"
+  }
+ ],
+ "MAX_70": [
+  {
+   "brand": "Symphony",
+   "name": "MAX_70",
+   "model": "MAX 70"
   }
  ],
  "P6_PRO": [

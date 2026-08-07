@@ -6879,6 +6879,11 @@
    "model": "4K PA Smart TV"
   },
   {
+   "brand": "Haier",
+   "device": "dangni",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Hyundai",
    "device": "alimos",
    "model": "AI PONT"
@@ -84454,6 +84459,13 @@
    "model": "E8224HG"
   }
  ],
+ "HALO": [
+  {
+   "brand": "Evertek",
+   "device": "HALO",
+   "model": "HALO"
+  }
+ ],
  "Hero": [
   {
    "brand": "Evertek",
@@ -87513,6 +87525,11 @@
    "brand": "FPD",
    "device": "mountbaker",
    "model": "EcoTV I"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "araku",
+   "model": "Projector"
   }
  ],
  "FPT ATV Play Box": [
@@ -132621,6 +132638,11 @@
    "brand": "Infocus",
    "device": "ZM1",
    "model": "InFocus M808"
+  },
+  {
+   "brand": "MLINK",
+   "device": "M808",
+   "model": "M808"
   }
  ],
  "M808i": [
@@ -169521,6 +169543,20 @@
    "brand": "MTN",
    "device": "H6032_MTN",
    "model": "H6032"
+  }
+ ],
+ "Alola 5G": [
+  {
+   "brand": "MTN",
+   "device": "Alola_5G",
+   "model": "Alola 5G"
+  }
+ ],
+ "Alola Max 2": [
+  {
+   "brand": "MTN",
+   "device": "Alola_Max2",
+   "model": "Alola Max 2"
   }
  ],
  "Alola_Max": [
@@ -208123,6 +208159,20 @@
    "brand": "PRAMA",
    "device": "PRAMA_3576",
    "model": "PRAMA_3576"
+  }
+ ],
+ "10_Tablet_PC": [
+  {
+   "brand": "PRAZteck",
+   "device": "PT10EduPad21-4G",
+   "model": "PT10EduPad21-4G"
+  }
+ ],
+ "11_Tablet_PC": [
+  {
+   "brand": "PRAZteck",
+   "device": "PT11EduPad21-4G",
+   "model": "PT11EduPad21-4G"
   }
  ],
  "2-IN-1_Tablet_PC": [
@@ -269584,6 +269634,13 @@
    "brand": "Symphony",
    "device": "MAX_60",
    "model": "MAX 60"
+  }
+ ],
+ "MAX_70": [
+  {
+   "brand": "Symphony",
+   "device": "MAX_70",
+   "model": "MAX 70"
   }
  ],
  "P6 PRO": [

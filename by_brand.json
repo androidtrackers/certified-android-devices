@@ -52665,6 +52665,11 @@
    "model": "E8224HG"
   },
   {
+   "device": "HALO",
+   "name": "HALO",
+   "model": "HALO"
+  },
+  {
    "device": "Hero",
    "name": "Hero",
    "model": "Hero"
@@ -70725,6 +70730,11 @@
    "device": "Skill",
    "name": "Skill",
    "model": "Skill"
+  },
+  {
+   "device": "dangni",
+   "name": "Smart TV",
+   "model": "AI PONT"
   },
   {
    "device": "AD681H",
@@ -100702,6 +100712,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "araku",
+   "name": "FPD",
+   "model": "Projector"
+  },
+  {
    "device": "elliniko",
    "name": "FPS",
    "model": "4K SMART TV"
@@ -124703,6 +124718,11 @@
    "model": "M761"
   },
   {
+   "device": "M808",
+   "name": "M808",
+   "model": "M808"
+  },
+  {
    "device": "M809",
    "name": "M809",
    "model": "M809"
@@ -125303,6 +125323,16 @@
    "device": "H6032_MTN",
    "name": "5.99",
    "model": "H6032"
+  },
+  {
+   "device": "Alola_5G",
+   "name": "Alola 5G",
+   "model": "Alola 5G"
+  },
+  {
+   "device": "Alola_Max2",
+   "name": "Alola Max 2",
+   "model": "Alola Max 2"
   },
   {
    "device": "Alola_Max",
@@ -158321,6 +158351,16 @@
   }
  ],
  "PRAZteck": [
+  {
+   "device": "PT10EduPad21-4G",
+   "name": "10_Tablet_PC",
+   "model": "PT10EduPad21-4G"
+  },
+  {
+   "device": "PT11EduPad21-4G",
+   "name": "11_Tablet_PC",
+   "model": "PT11EduPad21-4G"
+  },
   {
    "device": "PT10EduPad21",
    "name": "2-IN-1_Tablet_PC",
@@ -211563,6 +211603,11 @@
    "device": "MAX_60",
    "name": "MAX_60",
    "model": "MAX 60"
+  },
+  {
+   "device": "MAX_70",
+   "name": "MAX_70",
+   "model": "MAX 70"
   },
   {
    "device": "P11",

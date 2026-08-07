@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-06
+Last sync is 2026-08-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10141,6 +10141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everpad|VORTEX_V10|VORTEX_V10|VORTEX_V10|
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|E8224HG|E8224HG|E8224HG|
+|Evertek|HALO|HALO|HALO|
 |Evertek|Hero|Hero|Hero|
 |Evertek|M10|M10|M10|
 |Evertek|M10 Nano|M10_Nano|M10 Nano|
@@ -13623,6 +13624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|S5_Silk|S5_Silk|S5 Silk|
 |Haier|SP-5100|SP-5100|SP-5100|
 |Haier|Skill|Skill|Skill|
+|Haier|Smart TV|dangni|AI PONT|
 |Haier|Smartfren Andromax AD681H|AD681H|Smartfren Andromax AD681H|
 |Haier|Smartfren Andromax AD9A1H|AD9A1H|Smartfren Andromax AD9A1H|
 |Haier|StarQ_Q5002|StarQ_Q5002|Q5002|
@@ -19496,6 +19498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EcoTV2|kapellen|EcoTV2|
 |KTCtv|FOL|hongkong|4K SMART TV|
 |KTCtv|FOL|mountbaker|2K SMART TV|
+|KTCtv|FPD|araku|Projector|
 |KTCtv|FPS|elliniko|4K SMART TV|
 |KTCtv|FPS|hongkong|4K SMART TV|
 |KTCtv|GTRONIC|elliniko|4K SMART TV|
@@ -24197,6 +24200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLINK|M6501B|M6501B|M6501|
 |MLINK|M707|M707|M707|
 |MLINK|M761|M761|M761|
+|MLINK|M808|M808|M808|
 |MLINK|M809|M809|M809|
 |MLOGIX|10ML_012G|10ML_012G|10ML_012G|
 |MLOGIX|7ML_73G|7ML_73G|7ML_73G|
@@ -24309,6 +24313,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|WasabiMango|shilin|WasabiMango4KAndroidTV|
 |MTC|chile|S2000|S2000-Z0C11|
 |MTN|5.99|H6032_MTN|H6032|
+|MTN|Alola 5G|Alola_5G|Alola 5G|
+|MTN|Alola Max 2|Alola_Max2|Alola Max 2|
 |MTN|Alola_Max|Alola_Max|Alola_Max|
 |MTN|G56|G56|G56|
 |MTN|Kabode Max|H6032_MTN|Kabode Max|
@@ -30728,6 +30734,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POWMUS|L30|L30|L30|
 |POWMUS|L60|L60|L60|
 |PRAMA|PRAMA_3576|PRAMA_3576|PRAMA_3576|
+|PRAZteck|10_Tablet_PC|PT10EduPad21-4G|PT10EduPad21-4G|
+|PRAZteck|11_Tablet_PC|PT11EduPad21-4G|PT11EduPad21-4G|
 |PRAZteck|2-IN-1_Tablet_PC|PT10EduPad21|PT10EduPad21|
 |PRAZteck|PT116LPREduPad|Laptop|PT116LPREduPad|
 |PRAZteck|PT73G1|PT73G1|PT73G1|
@@ -41149,6 +41157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|MAX 30|MAX_30|MAX 30|
 |Symphony|MAX_5|MAX_5|MAX 5|
 |Symphony|MAX_60|MAX_60|MAX 60|
+|Symphony|MAX_70|MAX_70|MAX 70|
 |Symphony|P11|P11|P11|
 |Symphony|P6 PRO|P6_PRO|P6 PRO|
 |Symphony|P7|Symphony_P7|P7|
