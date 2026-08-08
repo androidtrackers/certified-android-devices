@@ -64091,6 +64091,11 @@
    "device": "rk3588_t",
    "name": "HSC-IFPD",
    "model": "HSN_Series"
+  },
+  {
+   "device": "dangni",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "HANYEAL": [
@@ -88043,6 +88048,11 @@
    "device": "HT10WB3MSG01",
    "name": "HT10WB3MSG01",
    "model": "10WB3"
+  },
+  {
+   "device": "HT10WC1MSG01",
+   "name": "HT10WC1MSG01",
+   "model": "10WC1"
   },
   {
    "device": "HT7GB1MBK_",
@@ -113608,6 +113618,13 @@
    "model": "LT S40"
   }
  ],
+ "LUCKYSTAR": [
+  {
+   "device": "T10A",
+   "name": "T10A",
+   "model": "T10A"
+  }
+ ],
  "LUCOMS": [
   {
    "device": "R1",
@@ -125664,6 +125681,16 @@
    "device": "COMEK_Tab_20",
    "name": "COMEK_Tab_20",
    "model": "COMEK Tab 20"
+  },
+  {
+   "device": "COMEK_Tab_K",
+   "name": "COMEK_Tab_K",
+   "model": "COMEK Tab K"
+  },
+  {
+   "device": "COMEK_Tab_K2",
+   "name": "COMEK_Tab_K2",
+   "model": "COMEK Tab K2"
   }
  ],
  "MaQ(Global)": [
@@ -138022,6 +138049,16 @@
    "device": "merc",
    "name": "motorola edge 70 pro",
    "model": "motorola edge 70 pro"
+  },
+  {
+   "device": "merc",
+   "name": "motorola edge 70 pro+",
+   "model": "motorola edge 2025"
+  },
+  {
+   "device": "merc",
+   "name": "motorola edge 70 pro+",
+   "model": "motorola edge 70 pro+"
   },
   {
    "device": "xpeng",
@@ -160327,6 +160364,11 @@
    "model": "Panavox Android TV"
   },
   {
+   "device": "dangni",
+   "name": "Smart tv",
+   "model": "AI PONT"
+  },
+  {
    "device": "hamamatsucho",
    "name": "fushan_panavox",
    "model": "Panavox Android TV"
@@ -172625,6 +172667,11 @@
    "device": "AF13Air",
    "name": "AF13Air",
    "model": "AF13Air"
+  },
+  {
+   "device": "AF13Air_EEA",
+   "name": "AF13Air_EEA",
+   "model": "AF13Air_EEA"
   },
   {
    "device": "AF13_EEA",
@@ -212550,6 +212597,11 @@
    "device": "V90_NEU",
    "name": "V90_NEU",
    "model": "V90_NEU"
+  },
+  {
+   "device": "V90_US",
+   "name": "V90_US",
+   "model": "V90_US"
   },
   {
    "device": "W80",
@@ -270836,6 +270888,11 @@
    "device": "RE6441L1",
    "name": "RMX5555",
    "model": "RMX5555"
+  },
+  {
+   "device": "dangni",
+   "name": "Smart TV",
+   "model": "AI PONT"
   },
   {
    "device": "mateo",

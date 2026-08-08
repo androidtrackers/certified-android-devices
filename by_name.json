@@ -6844,6 +6844,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "HANSUNGCOMPUTER",
+   "device": "dangni",
+   "model": "AI PONT"
+  },
+  {
    "brand": "HERAN",
    "device": "alimos",
    "model": "AI PONT"
@@ -8017,6 +8022,11 @@
    "brand": "oboni",
    "device": "osaka",
    "model": "AI PONT SA"
+  },
+  {
+   "brand": "realme",
+   "device": "dangni",
+   "model": "AI PONT"
   },
   {
    "brand": "realme",
@@ -87359,6 +87369,11 @@
    "brand": "Hoozo",
    "device": "T10A",
    "model": "T10A"
+  },
+  {
+   "brand": "LUCKYSTAR",
+   "device": "T10A",
+   "model": "T10A"
   }
  ],
  "T8A": [
@@ -126386,6 +126401,13 @@
    "brand": "Hyundai",
    "device": "HT10WB3MSG01",
    "model": "10WB3"
+  }
+ ],
+ "HT10WC1MSG01": [
+  {
+   "brand": "Hyundai",
+   "device": "HT10WC1MSG01",
+   "model": "10WC1"
   }
  ],
  "HT7GB1MBK_": [
@@ -169946,6 +169968,20 @@
    "model": "COMEK Tab 20"
   }
  ],
+ "COMEK_Tab_K": [
+  {
+   "brand": "MYCOM",
+   "device": "COMEK_Tab_K",
+   "model": "COMEK Tab K"
+  }
+ ],
+ "COMEK_Tab_K2": [
+  {
+   "brand": "MYCOM",
+   "device": "COMEK_Tab_K2",
+   "model": "COMEK Tab K2"
+  }
+ ],
  "M.AI Phone Gen1": [
   {
    "brand": "MaQ(Global)",
@@ -184268,6 +184304,18 @@
    "brand": "Motorola",
    "device": "merc",
    "model": "motorola edge 70 pro"
+  }
+ ],
+ "motorola edge 70 pro+": [
+  {
+   "brand": "Motorola",
+   "device": "merc",
+   "model": "motorola edge 2025"
+  },
+  {
+   "brand": "Motorola",
+   "device": "merc",
+   "model": "motorola edge 70 pro+"
   }
  ],
  "motorola edge S30": [
@@ -210557,6 +210605,13 @@
    "model": "Panavox Android TV"
   }
  ],
+ "Smart tv": [
+  {
+   "brand": "Panavox",
+   "device": "dangni",
+   "model": "AI PONT"
+  }
+ ],
  "fushan_panavox": [
   {
    "brand": "Panavox",
@@ -225418,6 +225473,13 @@
    "brand": "RebotAi",
    "device": "AF13Air",
    "model": "AF13Air"
+  }
+ ],
+ "AF13Air_EEA": [
+  {
+   "brand": "RebotAi",
+   "device": "AF13Air_EEA",
+   "model": "AF13Air_EEA"
   }
  ],
  "AF13_EEA": [
@@ -270812,6 +270874,13 @@
    "brand": "TABWEE",
    "device": "V90_NEU",
    "model": "V90_NEU"
+  }
+ ],
+ "V90_US": [
+  {
+   "brand": "TABWEE",
+   "device": "V90_US",
+   "model": "V90_US"
   }
  ],
  "W80_NEU": [

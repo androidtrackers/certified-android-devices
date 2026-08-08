@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-07
+Last sync is 2026-08-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12319,6 +12319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HANKOOK_CREA|HANKOOK_CREA_IFPD|HANKOOK_CREA_RK3588|CREA_86135_Series|
 |HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSG_Series|
 |HANSUNGCOMPUTER|HSC-IFPD|rk3588_t|HSN_Series|
+|HANSUNGCOMPUTER|Smart TV|dangni|AI PONT|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
 |HAOVM|HP10|HP10|P10|
@@ -17053,6 +17054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10LC2MBKWW01|HT10LC2MBKWW01|HT10LC2MBKWW01|
 |Hyundai|HT10WB2MSG01|HT10WB2MSG01|10WB2|
 |Hyundai|HT10WB3MSG01|HT10WB3MSG01|10WB3|
+|Hyundai|HT10WC1MSG01|HT10WC1MSG01|10WC1|
 |Hyundai|HT7GB1MBK_|HT7GB1MBK_|7GB1|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
 |Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
@@ -22032,6 +22034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT_Mobile|LT_mobile_S33|LT_mobile_S33|LT S33|
 |LT_Mobile|LT_mobile_S34|LT_mobile_S34|LT S34|
 |LT_Mobile|LT_mobile_S40|LT_mobile_S40|LT S40|
+|LUCKYSTAR|T10A|T10A|T10A|
 |LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
 |LUCOMS|IWB|rk3588_t|siwxxf1x|
@@ -24376,6 +24379,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MYCOM|COMEK_Smart20|COMEK_Smart20|COMEK_Smart20|
 |MYCOM|COMEK_Tab_10|COMEK_Tab_10|COMEK Tab 10|
 |MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
+|MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K|
+|MYCOM|COMEK_Tab_K2|COMEK_Tab_K2|COMEK Tab K2|
 |MaQ(Global)|M.AI Phone Gen1|MAG1|MA1|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
@@ -26796,6 +26801,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 70 max|avr|motorola edge 70 max|
 |Motorola|motorola edge 70 pro|merc|motorola edge 2025|
 |Motorola|motorola edge 70 pro|merc|motorola edge 70 pro|
+|Motorola|motorola edge 70 pro+|merc|motorola edge 2025|
+|Motorola|motorola edge 70 pro+|merc|motorola edge 70 pro+|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
@@ -31123,6 +31130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panavox|50 google tv/58 google tv/65 google tv/75 google tv|songshan|SmartTV 4K|
 |Panavox|PANAVOX Google TV|dongnae|PANAVOX Google TV|
 |Panavox|Panavox Android TV|lushan|Panavox Android TV|
+|Panavox|Smart tv|dangni|AI PONT|
 |Panavox|fushan_panavox|hamamatsucho|Panavox Android TV|
 |Panavox|xiaoyushan_panavox|xiaoyushan|Panavox Android TV|
 |Panodic|IPHDCK16H|IPHDCK16H|IPHDCK16H|
@@ -33509,6 +33517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF12_US|AF12_US|AF12_US|
 |RebotAi|AF13|AF13|AF13|
 |RebotAi|AF13Air|AF13Air|AF13Air|
+|RebotAi|AF13Air_EEA|AF13Air_EEA|AF13Air_EEA|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|AG11|AG11|AG11|
 |RebotAi|B11Air|B11Air|B11Air|
@@ -41344,6 +41353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|V20_EEA|V20_EEA|V20|
 |TABWEE|V90_EEA|V90_EEA|V90_EEA|
 |TABWEE|V90_NEU|V90_NEU|V90_NEU|
+|TABWEE|V90_US|V90_US|V90_US|
 |TABWEE|W80_NEU|W80|W80|
 |TABWEE|W80_US|W80|W80|
 |TABWEE|W90_EEA|W90|W90|
@@ -52666,6 +52676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX5377|RE648B|RMX5377|
 |realme|RMX5388|RE60BA|RMX5388|
 |realme|RMX5555|RE6441L1|RMX5555|
+|realme|Smart TV|dangni|AI PONT|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|

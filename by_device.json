@@ -6941,6 +6941,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "HANSUNGCOMPUTER",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "HERAN",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -7046,6 +7051,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Panavox",
+   "name": "Smart tv",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Philco",
    "name": "Smart TV",
    "model": "AI PONT BR"
@@ -7132,6 +7142,11 @@
   },
   {
    "brand": "oboni",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "realme",
    "name": "Smart TV",
    "model": "AI PONT"
   },
@@ -88152,6 +88167,11 @@
    "brand": "Hoozo",
    "name": "T10A",
    "model": "T10A"
+  },
+  {
+   "brand": "LUCKYSTAR",
+   "name": "T10A",
+   "model": "T10A"
   }
  ],
  "T8A": [
@@ -127476,6 +127496,13 @@
    "brand": "Hyundai",
    "name": "HT10WB3MSG01",
    "model": "10WB3"
+  }
+ ],
+ "HT10WC1MSG01": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10WC1MSG01",
+   "model": "10WC1"
   }
  ],
  "HT7GB1MBK_": [
@@ -171059,6 +171086,20 @@
    "model": "COMEK Tab 20"
   }
  ],
+ "COMEK_Tab_K": [
+  {
+   "brand": "MYCOM",
+   "name": "COMEK_Tab_K",
+   "model": "COMEK Tab K"
+  }
+ ],
+ "COMEK_Tab_K2": [
+  {
+   "brand": "MYCOM",
+   "name": "COMEK_Tab_K2",
+   "model": "COMEK Tab K2"
+  }
+ ],
  "MAG1": [
   {
    "brand": "MaQ(Global)",
@@ -185977,6 +186018,16 @@
    "brand": "Motorola",
    "name": "motorola edge 70 pro",
    "model": "motorola edge 70 pro"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 pro+",
+   "model": "motorola edge 2025"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 pro+",
+   "model": "motorola edge 70 pro+"
   }
  ],
  "burton": [
@@ -226362,6 +226413,13 @@
    "brand": "RebotAi",
    "name": "AF13Air",
    "model": "AF13Air"
+  }
+ ],
+ "AF13Air_EEA": [
+  {
+   "brand": "RebotAi",
+   "name": "AF13Air_EEA",
+   "model": "AF13Air_EEA"
   }
  ],
  "AF13_EEA": [
@@ -272455,6 +272513,13 @@
    "brand": "TABWEE",
    "name": "V90_NEU",
    "model": "V90_NEU"
+  }
+ ],
+ "V90_US": [
+  {
+   "brand": "TABWEE",
+   "name": "V90_US",
+   "model": "V90_US"
   }
  ],
  "W80": [

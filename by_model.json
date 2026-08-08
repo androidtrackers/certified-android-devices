@@ -1139,6 +1139,11 @@
    "device": "redwood"
   },
   {
+   "brand": "HANSUNGCOMPUTER",
+   "name": "Smart TV",
+   "device": "dangni"
+  },
+  {
    "brand": "HERAN",
    "name": "Smart TV",
    "device": "alimos"
@@ -1644,6 +1649,11 @@
    "device": "dangni"
   },
   {
+   "brand": "Panavox",
+   "name": "Smart tv",
+   "device": "dangni"
+  },
+  {
    "brand": "Philco",
    "name": "Android TV",
    "device": "ikebukuro"
@@ -2142,6 +2152,11 @@
    "brand": "oboni",
    "name": "Smart TV",
    "device": "osaka"
+  },
+  {
+   "brand": "realme",
+   "name": "Smart TV",
+   "device": "dangni"
   },
   {
    "brand": "realme",
@@ -82055,6 +82070,11 @@
    "brand": "Hoozo",
    "name": "T10A",
    "device": "T10A"
+  },
+  {
+   "brand": "LUCKYSTAR",
+   "name": "T10A",
+   "device": "T10A"
   }
  ],
  "T8A": [
@@ -125701,6 +125721,13 @@
    "brand": "Hyundai",
    "name": "HT10WB3MSG01",
    "device": "HT10WB3MSG01"
+  }
+ ],
+ "10WC1": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10WC1MSG01",
+   "device": "HT10WC1MSG01"
   }
  ],
  "7GB1": [
@@ -172471,6 +172498,20 @@
    "device": "COMEK_Tab_20"
   }
  ],
+ "COMEK Tab K": [
+  {
+   "brand": "MYCOM",
+   "name": "COMEK_Tab_K",
+   "device": "COMEK_Tab_K"
+  }
+ ],
+ "COMEK Tab K2": [
+  {
+   "brand": "MYCOM",
+   "name": "COMEK_Tab_K2",
+   "device": "COMEK_Tab_K2"
+  }
+ ],
  "MA1": [
   {
    "brand": "MaQ(Global)",
@@ -187631,6 +187672,11 @@
    "brand": "Motorola",
    "name": "motorola edge 70 pro",
    "device": "merc"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 pro+",
+   "device": "merc"
   }
  ],
  "motorola edge 30": [
@@ -187817,6 +187863,13 @@
   {
    "brand": "Motorola",
    "name": "motorola edge 70 pro",
+   "device": "merc"
+  }
+ ],
+ "motorola edge 70 pro+": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 pro+",
    "device": "merc"
   }
  ],
@@ -229067,6 +229120,13 @@
    "brand": "RebotAi",
    "name": "AF13Air",
    "device": "AF13Air"
+  }
+ ],
+ "AF13Air_EEA": [
+  {
+   "brand": "RebotAi",
+   "name": "AF13Air_EEA",
+   "device": "AF13Air_EEA"
   }
  ],
  "AF13_EEA": [
@@ -279833,6 +279893,13 @@
    "brand": "TABWEE",
    "name": "V90_NEU",
    "device": "V90_NEU"
+  }
+ ],
+ "V90_US": [
+  {
+   "brand": "TABWEE",
+   "name": "V90_US",
+   "device": "V90_US"
   }
  ],
  "W90": [
