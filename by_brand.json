@@ -54764,6 +54764,11 @@
    "model": "CP11_J1"
   },
   {
+   "device": "CP12-C1",
+   "name": "CP12-C1",
+   "model": "CP12-J1"
+  },
+  {
    "device": "CP12-J1",
    "name": "CP12-J1",
    "model": "CP12-J1"
@@ -73187,6 +73192,11 @@
   {
    "device": "HLTE243E",
    "name": "HLTE243E",
+   "model": "Hisense C60"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
    "model": "Hisense E33"
   },
   {
@@ -77608,6 +77618,16 @@
    "device": "HNHEY3-Q1",
    "name": "HONOR Pad 10 Papermatte Display WIFI",
    "model": "HEY3-W00"
+  },
+  {
+   "device": "HNHEY4-Q1",
+   "name": "HONOR Pad 20",
+   "model": "HEY4-N09"
+  },
+  {
+   "device": "HNHEY4-Q1",
+   "name": "HONOR Pad 20",
+   "model": "HEY4-W09"
   },
   {
    "device": "HNHEY-Q",
@@ -162184,6 +162204,11 @@
    "device": "X3Pro",
    "name": "X3Pro",
    "model": "X3Pro"
+  },
+  {
+   "device": "X5_T",
+   "name": "X5_T_EEA",
+   "model": "X5_T"
   }
  ],
  "PicassoTab": [

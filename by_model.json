@@ -82157,6 +82157,11 @@
  "CP12-J1": [
   {
    "brand": "FPD",
+   "name": "CP12-C1",
+   "device": "CP12-C1"
+  },
+  {
+   "brand": "FPD",
    "name": "CP12-J1",
    "device": "CP12-J1"
   }
@@ -106340,6 +106345,13 @@
    "device": "HLTE243E"
   }
  ],
+ "Hisense C60": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
+   "device": "HLTE243E"
+  }
+ ],
  "Hisense E33": [
   {
    "brand": "Hisense",
@@ -111771,6 +111783,25 @@
    "device": "HNHEY3-Q"
   }
  ],
+ "HEY4-N09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 20",
+   "device": "HNHEY4-Q1"
+  }
+ ],
+ "HEY4-W09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 20",
+   "device": "HNHEY4-Q1"
+  },
+  {
+   "brand": "Honor",
+   "name": "荣耀平板20",
+   "device": "HNHEY4-Q"
+  }
+ ],
  "HEY-W09": [
   {
    "brand": "Honor",
@@ -112604,13 +112635,6 @@
   }
  ],
  "HEY4-AN00": [
-  {
-   "brand": "Honor",
-   "name": "荣耀平板20",
-   "device": "HNHEY4-Q"
-  }
- ],
- "HEY4-W09": [
   {
    "brand": "Honor",
    "name": "荣耀平板20",
@@ -216948,6 +216972,13 @@
    "brand": "Phone Max",
    "name": "X3Pro",
    "device": "X3Pro"
+  }
+ ],
+ "X5_T": [
+  {
+   "brand": "Phone Max",
+   "name": "X5_T_EEA",
+   "device": "X5_T"
   }
  ],
  "PicassoTab A10": [

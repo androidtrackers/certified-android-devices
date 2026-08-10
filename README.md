@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-09
+Last sync is 2026-08-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10540,6 +10540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|CP08_J1|CP08_J1|CP08_J1|
 |FPD|CP10-J1|CP10|CP10-J1|
 |FPD|CP11_J1|CP11_J1|CP11_J1|
+|FPD|CP12-C1|CP12-C1|CP12-J1|
 |FPD|CP12-J1|CP12-J1|CP12-J1|
 |FPD|EcoTV1 Plus|elliniko|EcoTV1 Plus|
 |FPD|FPD|elliniko|4K SMART TV|
@@ -14097,6 +14098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE229E|HLTE229E_01|Hisense E40|
 |Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
 |Hisense|HLTE243E||Hisense U43|
+|Hisense|HLTE243E|HLTE243E|Hisense C60|
 |Hisense|HLTE243E|HLTE243E|Hisense E33|
 |Hisense|HLTE243E|HLTE243E|Hisense E34|
 |Hisense|HLTE243E|HLTE243E|Hisense E35|
@@ -14976,6 +14978,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-N09|
 |Honor|HONOR Pad 10|HNHEY3-Q1|HEY3-W00|
 |Honor|HONOR Pad 10 Papermatte Display WIFI|HNHEY3-Q1|HEY3-W00|
+|Honor|HONOR Pad 20|HNHEY4-Q1|HEY4-N09|
+|Honor|HONOR Pad 20|HNHEY4-Q1|HEY4-W09|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
@@ -31486,6 +31490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phone Max|X10_EEA|X10|X10|
 |Phone Max|X1_Pro|X1_Pro|X1 Pro|
 |Phone Max|X3Pro|X3Pro|X3Pro|
+|Phone Max|X5_T_EEA|X5_T|X5_T|
 |PicassoTab|PicassoTab_A10|A10|PicassoTab A10|
 |PicassoTab|PicassoTab_X11|X11|PicassoTab X11|
 |PicassoTab|PicassoTab_X11_2025|PicassoTab_X11_2025|PicassoTab_X11_2025|

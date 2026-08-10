@@ -88242,6 +88242,13 @@
    "model": "CP11_J1"
   }
  ],
+ "CP12-C1": [
+  {
+   "brand": "FPD",
+   "name": "CP12-C1",
+   "model": "CP12-J1"
+  }
+ ],
  "CP12-J1": [
   {
    "brand": "FPD",
@@ -110437,6 +110444,11 @@
   {
    "brand": "Hisense",
    "name": "HLTE243E",
+   "model": "Hisense C60"
+  },
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
    "model": "Hisense E33"
   },
   {
@@ -115488,6 +115500,18 @@
    "brand": "Honor",
    "name": "HONOR Pad 10 Papermatte Display WIFI",
    "model": "HEY3-W00"
+  }
+ ],
+ "HNHEY4-Q1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 20",
+   "model": "HEY4-N09"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 20",
+   "model": "HEY4-W09"
   }
  ],
  "HNHEY-Q": [
@@ -214384,6 +214408,13 @@
    "brand": "Phone Max",
    "name": "X3Pro",
    "model": "X3Pro"
+  }
+ ],
+ "X5_T": [
+  {
+   "brand": "Phone Max",
+   "name": "X5_T_EEA",
+   "model": "X5_T"
   }
  ],
  "PicassoTab_X11_2025": [
