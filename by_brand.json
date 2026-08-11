@@ -15748,6 +15748,11 @@
    "model": "E65"
   },
   {
+   "device": "E651",
+   "name": "E65",
+   "model": "E65"
+  },
+  {
    "device": "E6A",
    "name": "E6A",
    "model": "E6A"
@@ -96988,6 +96993,11 @@
    "device": "mt9679_u",
    "name": "H10S_PRO-Series",
    "model": "LEDxxH10S_PRO"
+  },
+  {
+   "device": "LED65H19S",
+   "name": "JAV_smartboard",
+   "model": "LED65H19S"
   }
  ],
  "JAY-TECH": [
@@ -99467,6 +99477,11 @@
   }
  ],
  "KENSHI": [
+  {
+   "device": "101HH1B",
+   "name": "101HH1B",
+   "model": "101HH1B"
+  },
   {
    "device": "Armor_C1_Max",
    "name": "Armor C1 Max",
@@ -114049,6 +114064,11 @@
   }
  ],
  "Lango": [
+  {
+   "device": "IFPD-R3576",
+   "name": "IFPD-R3576",
+   "model": "IFPD-R3576"
+  },
   {
    "device": "OPS-8195A",
    "name": "LANGO OPS8195",
@@ -146906,6 +146926,11 @@
    "device": "rk3588_t",
    "name": "IFP86A1",
    "model": "IFP"
+  },
+  {
+   "device": "rk3576",
+   "name": "IWB-3576",
+   "model": "IWB-3576"
   }
  ],
  "OKWU": [
@@ -158105,6 +158130,11 @@
    "device": "kunzite",
    "name": "POCO M8 5G",
    "model": "25118PC98I"
+  },
+  {
+   "device": "mist",
+   "name": "POCO M8 Power 5G",
+   "model": "26021PC18I"
   },
   {
    "device": "flourite",
@@ -172865,6 +172895,11 @@
    "device": "tornado",
    "name": "REDMI 15C 5G",
    "model": "2508CRN2BI"
+  },
+  {
+   "device": "steppe",
+   "name": "REDMI 17 5G",
+   "model": "26062RN92G"
   },
   {
    "device": "serenity",
@@ -189611,6 +189646,11 @@
    "model": "SM-A566S"
   },
   {
+   "device": "a57x",
+   "name": "Galaxy Quantum7",
+   "model": "SM-A576S"
+  },
+  {
    "device": "jaguark",
    "name": "Galaxy R-Style",
    "model": "SHV-E170K"
@@ -197929,6 +197969,11 @@
    "device": "veyronltectc",
    "name": "W2017",
    "model": "SM-W2017"
+  },
+  {
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "name": "WAF-S",
+   "model": "WAF-S"
   },
   {
    "device": "SAMSUNG_INTERACTIVE_DISPLAY",
@@ -213053,9 +213098,49 @@
    "model": "Smart TV"
   },
   {
+   "device": "G14",
+   "name": "G14_2K_GB",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G14",
+   "name": "G14_4K_GB",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G14",
+   "name": "G14_4K_GB_32BIT",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G14",
+   "name": "G14_4K_US",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G14",
+   "name": "G14_4K_US_32BIT",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G15",
+   "name": "G15_4K_D4_GB",
+   "model": "Smart TV Pro"
+  },
+  {
+   "device": "G15",
+   "name": "G15_4K_D4_GB_NF",
+   "model": "Smart TV"
+  },
+  {
    "device": "G15",
    "name": "G15_4K_GB",
    "model": "Smart TV Pro"
+  },
+  {
+   "device": "G15",
+   "name": "G15_4K_GB_NF",
+   "model": "Smart TV"
   },
   {
    "device": "G16",
@@ -239807,6 +239892,11 @@
    "device": "Interactive-Flat-Panel",
    "name": "Interactive-Flat-Panel",
    "model": "Interactive Flat Panel"
+  },
+  {
+   "device": "Interactive-Touch-Screen",
+   "name": "Interactive-Touch-Screen",
+   "model": "Interactive-Flat-Panel"
   }
  ],
  "Virzo": [
@@ -252557,6 +252647,11 @@
    "device": "BRIO_X31",
    "name": "BRIO_X31",
    "model": "BRIO_X31"
+  },
+  {
+   "device": "IGUANAPAD_X11MK87",
+   "name": "IGUANAPAD_X11MK87",
+   "model": "IGUANAPAD_X11MK87"
   },
   {
    "device": "Ecuador",
@@ -269447,6 +269542,11 @@
    "device": "TEXX13A",
    "name": "TEXX13A",
    "model": "TEXX13A"
+  },
+  {
+   "device": "TEXX13A-76",
+   "name": "TEXX13A-76",
+   "model": "TEXX13A-76"
   },
   {
    "device": "rk3588_t",

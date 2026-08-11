@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-10
+Last sync is 2026-08-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3044,6 +3044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|Athesi professional AP5705S|AP5705S|AP5705S|
 |Athesi|E55|E55|E55|
 |Athesi|E65|E65|E65|
+|Athesi|E65|E651|E65|
 |Athesi|E6A|E6A|E6A|
 |Athesi|RT101A|RT101A|RT101A9|
 |Athesi|RT4300_EEA|RT4300|RT4300|
@@ -18794,6 +18795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAV Smart-box|Smart-box|rk3588_t|BOX_1|
 |JAV Smartboard|Flagship model|rk3588_t|LEDxxH16S|
 |JAV Smartboard|H10S_PRO-Series|mt9679_u|LEDxxH10S_PRO|
+|JAV Smartboard|JAV_smartboard|LED65H19S|LED65H19S|
 |JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
 |JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
@@ -19260,6 +19262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|ZKEMPLER_11|ZKEMPLER_11|ZKEMPLER_11|
 |KEMPLER STRAUSS|ZKEMPLER_MAX|ZKEMPLER_MAX|ZKEMPLER_MAX|
 |KEMPLER STRAUSS|ZKEMPLER_PLUS|ZKEMPLER_PLUS|ZKEMPLER PLUS|
+|KENSHI|101HH1B|101HH1B|101HH1B|
 |KENSHI|Armor C1 Max|Armor_C1_Max|Armor C1 Max|
 |KENSHI|Armor C1s|Armor_C1s|Armor C1s|
 |KENSHI|Armor H1s|Armor_H1s|Armor H1s|
@@ -22110,6 +22113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Land Rover|Land Rover Explore R|LRExploreR|Land Rover Explore R|
 |Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
+|Lango|IFPD-R3576|IFPD-R3576|IFPD-R3576|
 |Lango|LANGO OPS8195|OPS-8195A|OPS-8195A-3-V0|
 |Lanix|ALPHA 2|ALPHA2|ALPHA 2|
 |Lanix|ALPHA 6|ALPHA6|ALPHA 6|
@@ -28498,6 +28502,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKView|IFP|mensa_an64|IFP|
 |OKView|IFP|rk3588_t|IFP|
 |OKView|IFP86A1|rk3588_t|IFP|
+|OKView|IWB-3576|rk3576|IWB-3576|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Magic_Q1|Magic_Q1|Magic Q1|
 |OLAX|Magic_Q8|Magic_Q8|Magic Q8|
@@ -30689,6 +30694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M7 Pro 5G|beryl|2409FPCC4I|
 |POCO|POCO M8 5G|kunzite|25118PC98G|
 |POCO|POCO M8 5G|kunzite|25118PC98I|
+|POCO|POCO M8 Power 5G|mist|26021PC18I|
 |POCO|POCO M8 Pro 5G|flourite|2510EPC8BG|
 |POCO|POCO Pad|dizi|2405CPCFBG|
 |POCO|POCO Pad C1|guitar|2603APC14G|
@@ -33555,6 +33561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|POCO F5|marblein|23049PCD8I|
 |Redmi|REDMI 15A 5G|somalia|2602BRNA4I|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
+|Redmi|REDMI 17 5G|steppe|26062RN92G|
 |Redmi|REDMI A7|serenity|26020RNB4I|
 |Redmi|REDMI A7 Pro|arctic|25128RN17A|
 |Redmi|REDMI A7 Pro|arctic|25128RN17I|
@@ -36833,6 +36840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Quantum4|a54x|SM-A546S|
 |Samsung|Galaxy Quantum5|a55x|SM-A556S|
 |Samsung|Galaxy Quantum6|a56x|SM-A566S|
+|Samsung|Galaxy Quantum7|a57x|SM-A576S|
 |Samsung|Galaxy R-Style|jaguark|SHV-E170K|
 |Samsung|Galaxy R-Style|jaguarl|SHV-E170L|
 |Samsung|Galaxy R-Style|jaguars|SHV-E170S|
@@ -38497,6 +38505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|VinsQ(M910)|SPH-M910|SPH-M910|
 |Samsung|W2016|royceltectc|SM-W2016|
 |Samsung|W2017|veyronltectc|SM-W2017|
+|Samsung|WAF-S|SAMSUNG_INTERACTIVE_DISPLAY|WAF-S|
 |Samsung|WAFX-P|SAMSUNG_INTERACTIVE_DISPLAY|WAFX-P|
 |Samsung|olleh|ik1|SMT-E5015|
 |Samsung|三星 W21 5G|victory|SM-W2021|
@@ -41439,7 +41448,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G10_4K_US|G10|Smart TV Pro|
 |TCL|G13_2K_GB|G13|Smart TV|
 |TCL|G13_2K_US|G13|Smart TV|
+|TCL|G14_2K_GB|G14|Smart TV|
+|TCL|G14_4K_GB|G14|Smart TV|
+|TCL|G14_4K_GB_32BIT|G14|Smart TV|
+|TCL|G14_4K_US|G14|Smart TV|
+|TCL|G14_4K_US_32BIT|G14|Smart TV|
+|TCL|G15_4K_D4_GB|G15|Smart TV Pro|
+|TCL|G15_4K_D4_GB_NF|G15|Smart TV|
 |TCL|G15_4K_GB|G15|Smart TV Pro|
+|TCL|G15_4K_GB_NF|G15|Smart TV|
 |TCL|G16_4K_US|G16|Smart TV Pro|
 |TCL|G17_4K_GB|G17|Smart TV Pro|
 |TCL|G17_4K_US|G17|Smart TV Pro|
@@ -46633,6 +46650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VigorPhone|Vigor17|eraser|Vigor17|
 |Virse|E95|E95|E95|
 |Virtual|Interactive-Flat-Panel|Interactive-Flat-Panel|Interactive Flat Panel|
+|Virtual|Interactive-Touch-Screen|Interactive-Touch-Screen|Interactive-Flat-Panel|
 |Virzo|V501C|V501C|V501C|
 |Virzo|V505c|V505c|V505c|
 |Virzo|V511|V511|V511|
@@ -49117,6 +49135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xstar|S2|S2|S2|
 |Xstar|T20|T20|T20|
 |Xtratech|BRIO_X31|BRIO_X31|BRIO_X31|
+|Xtratech|IGUANAPAD_X11MK87|IGUANAPAD_X11MK87|IGUANAPAD_X11MK87|
 |Xtratech|South America|Ecuador|martin|
 |Xtratech|South America|Ecuador|patrick|
 |Xtratech|X10MT16|X10MT16|X10MT16|
@@ -52407,6 +52426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ibowin|M10ES11|M10ES11|M130s|
 |iiyama|PLXX12U|RK3576|TEXX12MIS|
 |iiyama|TEXX13A|TEXX13A|TEXX13A|
+|iiyama|TEXX13A-76|TEXX13A-76|TEXX13A-76|
 |iiyama|TEXX14MIS-B2AG|rk3588_t|TEXX14MIS-B2AG|
 |iiyama|TEXX15A|TEXX15A|TEXX15A|
 |imiia|4K Smart TV|gangbyeon|imiia 4K AI Smart TV|

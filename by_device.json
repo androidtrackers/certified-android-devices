@@ -34833,6 +34833,13 @@
    "model": "E65"
   }
  ],
+ "E651": [
+  {
+   "brand": "Athesi",
+   "name": "E65",
+   "model": "E65"
+  }
+ ],
  "E6A": [
   {
    "brand": "Athesi",
@@ -100516,8 +100523,23 @@
   },
   {
    "brand": "TCL",
+   "name": "G15_4K_D4_GB",
+   "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
+   "name": "G15_4K_D4_GB_NF",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
    "name": "G15_4K_GB",
    "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
+   "name": "G15_4K_GB_NF",
+   "model": "Smart TV"
   }
  ],
  "OC101": [
@@ -138295,6 +138317,13 @@
    "model": "XA403"
   }
  ],
+ "LED65H19S": [
+  {
+   "brand": "JAV Smartboard",
+   "name": "JAV_smartboard",
+   "model": "LED65H19S"
+  }
+ ],
  "TPC-G1010_EEA": [
   {
    "brand": "JAY-TECH",
@@ -140724,6 +140753,13 @@
    "brand": "KEMPLER STRAUSS",
    "name": "ZKEMPLER_PLUS",
    "model": "ZKEMPLER PLUS"
+  }
+ ],
+ "101HH1B": [
+  {
+   "brand": "KENSHI",
+   "name": "101HH1B",
+   "model": "101HH1B"
   }
  ],
  "Armor_C1_Max": [
@@ -156545,6 +156581,13 @@
    "brand": "Landbyte",
    "name": "Lt6248",
    "model": "Lt6248"
+  }
+ ],
+ "IFPD-R3576": [
+  {
+   "brand": "Lango",
+   "name": "IFPD-R3576",
+   "model": "IFPD-R3576"
   }
  ],
  "OPS-8195A": [
@@ -196098,6 +196141,18 @@
    "model": "GT1001"
   }
  ],
+ "rk3576": [
+  {
+   "brand": "OKView",
+   "name": "IWB-3576",
+   "model": "IWB-3576"
+  },
+  {
+   "brand": "TEConnect",
+   "name": "TEConnect_IFPD",
+   "model": "CG_series"
+  }
+ ],
  "PI_Plus": [
   {
    "brand": "OKWU",
@@ -209573,6 +209628,18 @@
    "brand": "Redmi",
    "name": "REDMI Note 15 SE 5G",
    "model": "26022PCACI"
+  }
+ ],
+ "mist": [
+  {
+   "brand": "POCO",
+   "name": "POCO M8 Power 5G",
+   "model": "26021PC18I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17",
+   "model": "26021RN18C"
   }
  ],
  "flourite": [
@@ -226609,6 +226676,13 @@
    "model": "23049PCD8I"
   }
  ],
+ "steppe": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17 5G",
+   "model": "26062RN92G"
+  }
+ ],
  "turner": [
   {
    "brand": "Redmi",
@@ -226679,13 +226753,6 @@
    "brand": "Redmi",
    "name": "REDMI Note 15 Pro 5G",
    "model": "25080RABDR"
-  }
- ],
- "mist": [
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 17",
-   "model": "26021RN18C"
   }
  ],
  "taiko": [
@@ -237632,6 +237699,11 @@
    "brand": "Samsung",
    "name": "Galaxy A57 5G",
    "model": "SM-A576Z"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum7",
+   "model": "SM-A576S"
   }
  ],
  "a6elteaio": [
@@ -255281,6 +255353,11 @@
    "brand": "Samsung",
    "name": "Samsung WAF",
    "model": "WAF"
+  },
+  {
+   "brand": "Samsung",
+   "name": "WAF-S",
+   "model": "WAF-S"
   },
   {
    "brand": "Samsung",
@@ -273309,6 +273386,33 @@
    "model": "G13"
   }
  ],
+ "G14": [
+  {
+   "brand": "TCL",
+   "name": "G14_2K_GB",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_GB",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_GB_32BIT",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_US",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_US_32BIT",
+   "model": "Smart TV"
+  }
+ ],
  "G16": [
   {
    "brand": "TCL",
@@ -282187,13 +282291,6 @@
    "brand": "TEConnect",
    "name": "CHALK_2series",
    "model": "CHALK_2series"
-  }
- ],
- "rk3576": [
-  {
-   "brand": "TEConnect",
-   "name": "TEConnect_IFPD",
-   "model": "CG_series"
   }
  ],
  "Czech": [
@@ -301955,6 +302052,13 @@
    "model": "Interactive Flat Panel"
   }
  ],
+ "Interactive-Touch-Screen": [
+  {
+   "brand": "Virtual",
+   "name": "Interactive-Touch-Screen",
+   "model": "Interactive-Flat-Panel"
+  }
+ ],
  "V501C": [
   {
    "brand": "Virzo",
@@ -316300,6 +316404,13 @@
    "brand": "Xtratech",
    "name": "BRIO_X31",
    "model": "BRIO_X31"
+  }
+ ],
+ "IGUANAPAD_X11MK87": [
+  {
+   "brand": "Xtratech",
+   "name": "IGUANAPAD_X11MK87",
+   "model": "IGUANAPAD_X11MK87"
   }
  ],
  "Ecuador": [
@@ -335031,6 +335142,13 @@
    "brand": "iiyama",
    "name": "TEXX13A",
    "model": "TEXX13A"
+  }
+ ],
+ "TEXX13A-76": [
+  {
+   "brand": "iiyama",
+   "name": "TEXX13A-76",
+   "model": "TEXX13A-76"
   }
  ],
  "TEXX15A": [

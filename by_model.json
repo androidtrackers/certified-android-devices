@@ -17494,6 +17494,41 @@
    "device": "G13"
   },
   {
+   "brand": "TCL",
+   "name": "G14_2K_GB",
+   "device": "G14"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_GB",
+   "device": "G14"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_GB_32BIT",
+   "device": "G14"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_US",
+   "device": "G14"
+  },
+  {
+   "brand": "TCL",
+   "name": "G14_4K_US_32BIT",
+   "device": "G14"
+  },
+  {
+   "brand": "TCL",
+   "name": "G15_4K_D4_GB_NF",
+   "device": "G15"
+  },
+  {
+   "brand": "TCL",
+   "name": "G15_4K_GB_NF",
+   "device": "G15"
+  },
+  {
    "brand": "Toshiba",
    "name": "fushan_euT",
    "device": "hamamatsucho"
@@ -29007,6 +29042,11 @@
    "brand": "Athesi",
    "name": "E65",
    "device": "E65"
+  },
+  {
+   "brand": "Athesi",
+   "name": "E65",
+   "device": "E651"
   },
   {
    "brand": "ETELPREMIUM",
@@ -137027,6 +137067,13 @@
    "device": "mt9679_u"
   }
  ],
+ "LED65H19S": [
+  {
+   "brand": "JAV Smartboard",
+   "name": "JAV_smartboard",
+   "device": "LED65H19S"
+  }
+ ],
  "TPC-G1010": [
   {
    "brand": "JAY-TECH",
@@ -140013,6 +140060,13 @@
    "brand": "KEMPLER STRAUSS",
    "name": "ZKEMPLER_PLUS",
    "device": "ZKEMPLER_PLUS"
+  }
+ ],
+ "101HH1B": [
+  {
+   "brand": "KENSHI",
+   "name": "101HH1B",
+   "device": "101HH1B"
   }
  ],
  "Armor C1 Max": [
@@ -157631,6 +157685,13 @@
    "brand": "Landbyte",
    "name": "Lt6248",
    "device": "Lt6248"
+  }
+ ],
+ "IFPD-R3576": [
+  {
+   "brand": "Lango",
+   "name": "IFPD-R3576",
+   "device": "IFPD-R3576"
   }
  ],
  "OPS-8195A-3-V0": [
@@ -198276,6 +198337,13 @@
    "device": "GT1001"
   }
  ],
+ "IWB-3576": [
+  {
+   "brand": "OKView",
+   "name": "IWB-3576",
+   "device": "rk3576"
+  }
+ ],
  "PI Plus": [
   {
    "brand": "OKWU",
@@ -211869,6 +211937,13 @@
    "brand": "POCO",
    "name": "POCO M8 5G",
    "device": "kunzite"
+  }
+ ],
+ "26021PC18I": [
+  {
+   "brand": "POCO",
+   "name": "POCO M8 Power 5G",
+   "device": "mist"
   }
  ],
  "2510EPC8BG": [
@@ -229361,6 +229436,13 @@
    "brand": "Redmi",
    "name": "REDMI 15C 5G",
    "device": "tornado"
+  }
+ ],
+ "26062RN92G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17 5G",
+   "device": "steppe"
   }
  ],
  "26020RNB4I": [
@@ -250670,6 +250752,13 @@
    "device": "a56x"
   }
  ],
+ "SM-A576S": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum7",
+   "device": "a57x"
+  }
+ ],
  "SHV-E170K": [
   {
    "brand": "Samsung",
@@ -262108,6 +262197,13 @@
    "brand": "Samsung",
    "name": "W2017",
    "device": "veyronltectc"
+  }
+ ],
+ "WAF-S": [
+  {
+   "brand": "Samsung",
+   "name": "WAF-S",
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY"
   }
  ],
  "WAFX-P": [
@@ -280276,6 +280372,11 @@
    "brand": "TCL",
    "name": "G10_4K_US",
    "device": "G10"
+  },
+  {
+   "brand": "TCL",
+   "name": "G15_4K_D4_GB",
+   "device": "G15"
   },
   {
    "brand": "TCL",
@@ -312919,6 +313020,13 @@
    "device": "Interactive-Flat-Panel"
   }
  ],
+ "Interactive-Flat-Panel": [
+  {
+   "brand": "Virtual",
+   "name": "Interactive-Touch-Screen",
+   "device": "Interactive-Touch-Screen"
+  }
+ ],
  "V501C": [
   {
    "brand": "Virzo",
@@ -328541,6 +328649,13 @@
    "brand": "Xtratech",
    "name": "BRIO_X31",
    "device": "BRIO_X31"
+  }
+ ],
+ "IGUANAPAD_X11MK87": [
+  {
+   "brand": "Xtratech",
+   "name": "IGUANAPAD_X11MK87",
+   "device": "IGUANAPAD_X11MK87"
   }
  ],
  "martin": [
@@ -349284,6 +349399,13 @@
    "brand": "iiyama",
    "name": "TEXX13A",
    "device": "TEXX13A"
+  }
+ ],
+ "TEXX13A-76": [
+  {
+   "brand": "iiyama",
+   "name": "TEXX13A-76",
+   "device": "TEXX13A-76"
   }
  ],
  "TEXX14MIS-B2AG": [
