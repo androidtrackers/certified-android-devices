@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-11
+Last sync is 2026-08-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -307,6 +307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMobile|PD470|PD470|PD470|
 |AMobile|PD602|PD602|PD602|
 |AMobile|RT101|RT101|RT101|
+|AMobile|TC1560M-G510|tc1560m_g510|TC1560M-G510|
 |ANAM|ANAM|seocho|ANAM 4K Android TV|
 |ANDDORO|B7V1-STK|B7V1-STK|B7V1-STK|
 |ANDRINO|Andrino|bangbae|andrino 4K Android TV|
@@ -5268,6 +5269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Tank Xtreme Pro|T0010UU|Tank Xtreme Pro|
 |Blu|Tank_Xtreme|T0030WW|Tank Xtreme|
 |Blu|Touchbook M7 Pro|P290|Touchbook M7 Pro|
+|Blu|VIEW 5|B161V|B161V|
 |Blu|VIVO 5|BLU_VIVO_5|VIVO 5|
 |Blu|VIVO 5R|BLU_Vivo_5R|Vivo 5R|
 |Blu|VIVO 6|BLU_Vivo_6|Vivo 6|
@@ -18878,6 +18880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JTYPDA|X20L|X20L|X20L|
 |JUEDUR|R500 EEA|R500_EEA|R500_EEA|
 |JUEDUR|R500 US|R500_US|R500_US|
+|JUEDUR|R500_U|R500_U|R500_U|
 |JUEDUR|R500_V_EEA|R500_V_EEA|R500_V_EEA|
 |JUEDUR|R500_V_US|R500_V_US|R500_V_US|
 |JUEDUR|R700_EEA|R700_EEA|R700_EEA|
@@ -25001,6 +25004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Megacable|XView+|uiw4059meg|XView+|
 |Megahouse|CP-D403|CP-D403|CP-D403|
 |Megmeet|MN_AIO_B|MN_AIO_B|MN_AIO_B|
+|Megmeet|MN_AIO_RK3576|MN_AIO_RK3576|MN_AIO_RK3576|
 |Meiigoo|S8|MEIIGOO_S8|S8|
 |Meiigoo|S9|S9|S9|
 |Meitu|M4|M4|Meitu M4|
@@ -30548,6 +30552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|P13Ultra|P13Ultra|P13Ultra|
 |PEICHENG|Q1|Q1|Q1|
 |PEICHENG|Q1|Q1|Q1K|
+|PEICHENG|Q10_Pro|Q10_Pro|Q10|
 |PEICHENG|Q8|Q8|Q8|
 |PEICHENG|Q8|Q8|Q8K|
 |PEICHENG|Q8PRO|Q8PRO|Q8 PRO|
@@ -35262,6 +35267,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A07 5G|a07x|SM-A076B|
 |Samsung|Galaxy A07 5G|a07x|SM-A076E|
 |Samsung|Galaxy A07 5G|a07x|SM-A076M|
+|Samsung|Galaxy A07s|a07ve|SM-A077F|
+|Samsung|Galaxy A07s|a07ve|SM-A077M|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -37173,6 +37180,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S26|m1q|SM-S942Z|
 |Samsung|Galaxy S26|m1s|SM-S942B|
 |Samsung|Galaxy S26|m1s|SM-S942N|
+|Samsung|Galaxy S26 FE|r14s|SM-S741B|
+|Samsung|Galaxy S26 FE|r14s|SM-S741N|
+|Samsung|Galaxy S26 FE|r14s|SM-S741U|
+|Samsung|Galaxy S26 FE|r14s|SM-S741U1|
+|Samsung|Galaxy S26 FE|r14s|SM-S741W|
 |Samsung|Galaxy S26 Ultra|m3q|SC-53G|
 |Samsung|Galaxy S26 Ultra|m3q|SCG37|
 |Samsung|Galaxy S26 Ultra|m3q|SM-S9480|
@@ -37818,6 +37830,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936B|
 |Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936C|
 |Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936N|
+|Samsung|Galaxy Tab S12+|gts12pwifi|SM-X840|
+|Samsung|Galaxy Tab S12+ 5G|gts12p|SM-X846B|
+|Samsung|Galaxy Tab S12+ 5G|gts12p|SM-X846E|
+|Samsung|Galaxy Tab S12+ 5G|gts12p|SM-X846N|
+|Samsung|Galaxy Tab S12+ 5G|gts12p|SM-X848U|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815C|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815Y|
@@ -39404,6 +39421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Singtel TV|VIP7702|f561|VIP7702|
 |SinoGNSS|R60 Data Collector|R60|R60|
 |Sinoeview|TA_IFPD|TA-L|TA-L|
+|Sinoeview|TA_IFPD|TA_IFPD|TA-L|
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Sinum|TAB-11|TAB-11|TAB-11|
 |Siragon|R3_GTV|R3_GTV|R3G|
@@ -41365,6 +41383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|T90_US|T90|T90|
 |TABWEE|V20_EEA|V20_EEA|V20|
+|TABWEE|V20_US|V20_US|V20|
 |TABWEE|V90_EEA|V90_EEA|V90_EEA|
 |TABWEE|V90_NEU|V90_NEU|V90_NEU|
 |TABWEE|V90_US|V90_US|V90_US|
@@ -48678,6 +48697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XORO|Megapad_1333|XORO|Megapad_1333|
 |XORO|Megapad_1333_Pro|Megapad_1333_Pro|Megapad_1333_Pro|
 |XPLORE|XPLORE X7U|X7U|XPLORE X7U|
+|XPPen|MDP1232_EEA|MDP1231|MDP1231|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
 |XREAL|Beam Pro|X4000|X4000|
@@ -49418,6 +49438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z168_U_EEA|Z168_U_EEA|Z168_U_EEA|
 |ZIOVO|Z168_U_US|Z168_U_US|Z168_U_US|
 |ZKTeco|Interactive_Whiteboard|oversea_v|SC02-I5|
+|ZKTeco|ZKTeco_I3|ZKTeco_I3|ZKTeco_I3|
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
 |ZMBIZI|ZMBIZI Z2|ZMBIZI_Z2|ZMBIZI Z2|
@@ -53267,6 +53288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y60s m版|PD2559|V2559BA|
 |vivo|Y6a|PD2531|V2531A|
 |vivo|Y6e|PD2559|V2559A|
+|vivo|Y6k|PD2542|V2542A|
 |vivo|Y6m|PD2532|V2532BA|
 |vivo|Y6t|PD2559|V2559A|
 |vivo|Y6t m版|PD2542|V2542A|

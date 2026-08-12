@@ -1637,6 +1637,11 @@
    "device": "RT101",
    "name": "RT101",
    "model": "RT101"
+  },
+  {
+   "device": "tc1560m_g510",
+   "name": "TC1560M-G510",
+   "model": "TC1560M-G510"
   }
  ],
  "ANAM": [
@@ -27164,6 +27169,11 @@
    "device": "P290",
    "name": "Touchbook M7 Pro",
    "model": "Touchbook M7 Pro"
+  },
+  {
+   "device": "B161V",
+   "name": "VIEW 5",
+   "model": "B161V"
   },
   {
    "device": "BLU_VIVO_5",
@@ -97454,6 +97464,11 @@
    "model": "R500_US"
   },
   {
+   "device": "R500_U",
+   "name": "R500_U",
+   "model": "R500_U"
+  },
+  {
    "device": "R500_V_EEA",
    "name": "R500_V_EEA",
    "model": "R500_V_EEA"
@@ -128893,6 +128908,11 @@
    "device": "MN_AIO_B",
    "name": "MN_AIO_B",
    "model": "MN_AIO_B"
+  },
+  {
+   "device": "MN_AIO_RK3576",
+   "name": "MN_AIO_RK3576",
+   "model": "MN_AIO_RK3576"
   }
  ],
  "Meiigoo": [
@@ -157360,6 +157380,11 @@
    "model": "Q1K"
   },
   {
+   "device": "Q10_Pro",
+   "name": "Q10_Pro",
+   "model": "Q10"
+  },
+  {
    "device": "Q8",
    "name": "Q8",
    "model": "Q8"
@@ -181756,6 +181781,16 @@
    "model": "SM-A076M"
   },
   {
+   "device": "a07ve",
+   "name": "Galaxy A07s",
+   "model": "SM-A077F"
+  },
+  {
+   "device": "a07ve",
+   "name": "Galaxy A07s",
+   "model": "SM-A077M"
+  },
+  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -191311,6 +191346,31 @@
    "model": "SM-S942N"
   },
   {
+   "device": "r14s",
+   "name": "Galaxy S26 FE",
+   "model": "SM-S741B"
+  },
+  {
+   "device": "r14s",
+   "name": "Galaxy S26 FE",
+   "model": "SM-S741N"
+  },
+  {
+   "device": "r14s",
+   "name": "Galaxy S26 FE",
+   "model": "SM-S741U"
+  },
+  {
+   "device": "r14s",
+   "name": "Galaxy S26 FE",
+   "model": "SM-S741U1"
+  },
+  {
+   "device": "r14s",
+   "name": "Galaxy S26 FE",
+   "model": "SM-S741W"
+  },
+  {
    "device": "m3q",
    "name": "Galaxy S26 Ultra",
    "model": "SC-53G"
@@ -194534,6 +194594,31 @@
    "device": "gts11u",
    "name": "Galaxy Tab S11 Ultra 5G",
    "model": "SM-X936N"
+  },
+  {
+   "device": "gts12pwifi",
+   "name": "Galaxy Tab S12+",
+   "model": "SM-X840"
+  },
+  {
+   "device": "gts12p",
+   "name": "Galaxy Tab S12+ 5G",
+   "model": "SM-X846B"
+  },
+  {
+   "device": "gts12p",
+   "name": "Galaxy Tab S12+ 5G",
+   "model": "SM-X846E"
+  },
+  {
+   "device": "gts12p",
+   "name": "Galaxy Tab S12+ 5G",
+   "model": "SM-X846N"
+  },
+  {
+   "device": "gts12p",
+   "name": "Galaxy Tab S12+ 5G",
+   "model": "SM-X848U"
   },
   {
    "device": "gts210lte",
@@ -202584,6 +202669,11 @@
  "Sinoeview": [
   {
    "device": "TA-L",
+   "name": "TA_IFPD",
+   "model": "TA-L"
+  },
+  {
+   "device": "TA_IFPD",
    "name": "TA_IFPD",
    "model": "TA-L"
   }
@@ -212656,6 +212746,11 @@
   {
    "device": "V20_EEA",
    "name": "V20_EEA",
+   "model": "V20"
+  },
+  {
+   "device": "V20_US",
+   "name": "V20_US",
    "model": "V20"
   },
   {
@@ -250328,6 +250423,11 @@
  ],
  "XPPen": [
   {
+   "device": "MDP1231",
+   "name": "MDP1232_EEA",
+   "model": "MDP1231"
+  },
+  {
    "device": "Titan_XPPen",
    "name": "XPPen_Magic_Drawing_Pad",
    "model": "MagicDrawingPad"
@@ -254180,6 +254280,11 @@
    "device": "oversea_v",
    "name": "Interactive_Whiteboard",
    "model": "SC02-I5"
+  },
+  {
+   "device": "ZKTeco_I3",
+   "name": "ZKTeco_I3",
+   "model": "ZKTeco_I3"
   }
  ],
  "ZLINE": [
@@ -273915,6 +274020,11 @@
    "device": "PD2559",
    "name": "Y6e",
    "model": "V2559A"
+  },
+  {
+   "device": "PD2542",
+   "name": "Y6k",
+   "model": "V2542A"
   },
   {
    "device": "PD2532",

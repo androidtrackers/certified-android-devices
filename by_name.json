@@ -10445,6 +10445,13 @@
    "model": "RT101"
   }
  ],
+ "TC1560M-G510": [
+  {
+   "brand": "AMobile",
+   "device": "tc1560m_g510",
+   "model": "TC1560M-G510"
+  }
+ ],
  "ANAM": [
   {
    "brand": "ANAM",
@@ -49216,6 +49223,13 @@
    "brand": "Blu",
    "device": "P290",
    "model": "Touchbook M7 Pro"
+  }
+ ],
+ "VIEW 5": [
+  {
+   "brand": "Blu",
+   "device": "B161V",
+   "model": "B161V"
   }
  ],
  "VIVO 5": [
@@ -137898,6 +137912,13 @@
    "model": "R500_US"
   }
  ],
+ "R500_U": [
+  {
+   "brand": "JUEDUR",
+   "device": "R500_U",
+   "model": "R500_U"
+  }
+ ],
  "R500_V_EEA": [
   {
    "brand": "JUEDUR",
@@ -173952,6 +173973,13 @@
    "model": "MN_AIO_B"
   }
  ],
+ "MN_AIO_RK3576": [
+  {
+   "brand": "Megmeet",
+   "device": "MN_AIO_RK3576",
+   "model": "MN_AIO_RK3576"
+  }
+ ],
  "M8s": [
   {
    "brand": "Meitu",
@@ -207090,6 +207118,13 @@
    "model": "Q1K"
   }
  ],
+ "Q10_Pro": [
+  {
+   "brand": "PEICHENG",
+   "device": "Q10_Pro",
+   "model": "Q10"
+  }
+ ],
  "Q8PRO": [
   {
    "brand": "PEICHENG",
@@ -235987,6 +236022,18 @@
    "model": "SM-A076M"
   }
  ],
+ "Galaxy A07s": [
+  {
+   "brand": "Samsung",
+   "device": "a07ve",
+   "model": "SM-A077F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a07ve",
+   "model": "SM-A077M"
+  }
+ ],
  "Galaxy A10": [
   {
    "brand": "Samsung",
@@ -246496,6 +246543,33 @@
    "model": "SM-S942N"
   }
  ],
+ "Galaxy S26 FE": [
+  {
+   "brand": "Samsung",
+   "device": "r14s",
+   "model": "SM-S741B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r14s",
+   "model": "SM-S741N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r14s",
+   "model": "SM-S741U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r14s",
+   "model": "SM-S741U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r14s",
+   "model": "SM-S741W"
+  }
+ ],
  "Galaxy S26 Ultra": [
   {
    "brand": "Samsung",
@@ -249969,6 +250043,35 @@
    "brand": "Samsung",
    "device": "gts11u",
    "model": "SM-X936N"
+  }
+ ],
+ "Galaxy Tab S12+": [
+  {
+   "brand": "Samsung",
+   "device": "gts12pwifi",
+   "model": "SM-X840"
+  }
+ ],
+ "Galaxy Tab S12+ 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts12p",
+   "model": "SM-X846B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts12p",
+   "model": "SM-X846E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts12p",
+   "model": "SM-X846N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts12p",
+   "model": "SM-X848U"
   }
  ],
  "Galaxy Tab S2": [
@@ -259366,6 +259469,11 @@
   {
    "brand": "Sinoeview",
    "device": "TA-L",
+   "model": "TA-L"
+  },
+  {
+   "brand": "Sinoeview",
+   "device": "TA_IFPD",
    "model": "TA-L"
   }
  ],
@@ -270951,6 +271059,13 @@
   {
    "brand": "TABWEE",
    "device": "V20_EEA",
+   "model": "V20"
+  }
+ ],
+ "V20_US": [
+  {
+   "brand": "TABWEE",
+   "device": "V20_US",
    "model": "V20"
   }
  ],
@@ -314355,6 +314470,13 @@
    "model": "XPLORE X7U"
   }
  ],
+ "MDP1232_EEA": [
+  {
+   "brand": "XPPen",
+   "device": "MDP1231",
+   "model": "MDP1231"
+  }
+ ],
  "XPPen_Magic_Drawing_Pad": [
   {
    "brand": "XPPen",
@@ -318654,6 +318776,13 @@
    "brand": "ZKTeco",
    "device": "oversea_v",
    "model": "SC02-I5"
+  }
+ ],
+ "ZKTeco_I3": [
+  {
+   "brand": "ZKTeco",
+   "device": "ZKTeco_I3",
+   "model": "ZKTeco_I3"
   }
  ],
  "ZLINE_Z_742": [
@@ -340522,6 +340651,13 @@
    "brand": "vivo",
    "device": "PD2559",
    "model": "V2559A"
+  }
+ ],
+ "Y6k": [
+  {
+   "brand": "vivo",
+   "device": "PD2542",
+   "model": "V2542A"
   }
  ],
  "Y6m": [
