@@ -27278,6 +27278,13 @@
    "model": "Z4PRO"
   }
  ],
+ "WA2489T": [
+  {
+   "brand": "Apolosign",
+   "name": "AndroidSmartDisplay",
+   "model": "rk3576_u"
+  }
+ ],
  "WA1389T": [
   {
    "brand": "Apolosign",
@@ -39110,6 +39117,13 @@
    "model": "I9_Plus_WireFree"
   }
  ],
+ "I9_Plus_WireFree_US": [
+  {
+   "brand": "BMAX",
+   "name": "I9_Plus_WireFree_US",
+   "model": "I9_Plus_WireFree"
+  }
+ ],
  "I9_Plus_Wlanonly": [
   {
    "brand": "BMAX",
@@ -48511,13 +48525,6 @@
    "model": "B160V"
   }
  ],
- "B1680V": [
-  {
-   "brand": "Blu",
-   "name": "B1680V",
-   "model": "B1680V"
-  }
- ],
  "B301": [
   {
    "brand": "Blu",
@@ -51284,6 +51291,13 @@
    "brand": "Blu",
    "name": "VIEW 5",
    "model": "B161V"
+  }
+ ],
+ "B1680V": [
+  {
+   "brand": "Blu",
+   "name": "VIEW PRO 5G",
+   "model": "B1680V"
   }
  ],
  "BLU_VIVO_5": [
@@ -100161,6 +100175,11 @@
    "brand": "HCNCP",
    "name": "HT10Pro",
    "model": "HT10Pro"
+  },
+  {
+   "brand": "TechZen",
+   "name": "HT10Pro",
+   "model": "HT10Pro"
   }
  ],
  "HT11": [
@@ -115042,6 +115061,16 @@
    "brand": "Honor",
    "name": "HONOR Magic8 Lite",
    "model": "MTN-NX3"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9e s",
+   "model": "MTN-NX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9e s",
+   "model": "MTN-NX3"
   }
  ],
  "HNMAA": [
@@ -116111,6 +116140,18 @@
    "model": "YLE-W09"
   }
  ],
+ "HNLNA-M": [
+  {
+   "brand": "Honor",
+   "name": "荣耀Play11 Pro",
+   "model": "LNA-AN00"
+  },
+  {
+   "brand": "Honor",
+   "name": "荣耀X80i",
+   "model": "LNA-AN00"
+  }
+ ],
  "HNDVD-Q": [
   {
    "brand": "Honor",
@@ -116178,13 +116219,6 @@
    "brand": "Honor",
    "name": "荣耀X80 Pro Max",
    "model": "BSN-AN00"
-  }
- ],
- "HNLNA-M": [
-  {
-   "brand": "Honor",
-   "name": "荣耀X80i",
-   "model": "LNA-AN00"
   }
  ],
  "HNHEY3-Q": [
@@ -127467,6 +127501,13 @@
    "model": "HT10LA2MSGNA01"
   }
  ],
+ "HYLINE": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10LA2MSGNA02",
+   "model": "HT10LA2MSGNA02"
+  }
+ ],
  "HT10LB2MBKLTM": [
   {
    "brand": "Hyundai",
@@ -138554,6 +138595,13 @@
    "model": "J2507"
   }
  ],
+ "J2505": [
+  {
+   "brand": "JOVI",
+   "name": "JOVI X300 FE",
+   "model": "J2505"
+  }
+ ],
  "J2510": [
   {
    "brand": "JOVI",
@@ -138625,13 +138673,6 @@
    "brand": "JOVI",
    "name": "V50",
    "model": "V2427"
-  }
- ],
- "J2505": [
-  {
-   "brand": "JOVI",
-   "name": "X300 FE",
-   "model": "J2505"
   }
  ],
  "TB-JS100A": [
@@ -169613,6 +169654,13 @@
    "model": "D121_EEA"
   }
  ],
+ "D122_US": [
+  {
+   "brand": "MEIZE",
+   "name": "D122_US",
+   "model": "D122_US"
+  }
+ ],
  "D123": [
   {
    "brand": "MEIZE",
@@ -169688,6 +169736,13 @@
    "brand": "MEIZE",
    "name": "D138",
    "model": "D138"
+  }
+ ],
+ "F107": [
+  {
+   "brand": "MEIZE",
+   "name": "F107_ROW",
+   "model": "F107"
   }
  ],
  "I9_Plus_WIFIOnly_EEA": [
@@ -309420,6 +309475,13 @@
    "model": "W500_US"
   }
  ],
+ "Gm81": [
+  {
+   "brand": "WQi(sh)",
+   "name": "Gm81",
+   "model": "Gm81"
+  }
+ ],
  "TD-TP010G-2": [
   {
    "brand": "WS(SZ)",
@@ -328936,6 +328998,13 @@
    "brand": "Zebra",
    "name": "HC55",
    "model": "HC55"
+  }
+ ],
+ "KC401": [
+  {
+   "brand": "Zebra",
+   "name": "KC401",
+   "model": "KC401"
   }
  ],
  "KC50L": [

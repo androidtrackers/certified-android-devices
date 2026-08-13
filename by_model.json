@@ -22169,6 +22169,18 @@
    "device": "Z4PRO"
   }
  ],
+ "rk3576_u": [
+  {
+   "brand": "Apolosign",
+   "name": "AndroidSmartDisplay",
+   "device": "WA2489T"
+  },
+  {
+   "brand": "CVTE",
+   "name": "Guangzhou Shirui Electronics Co.",
+   "device": "Ltd"
+  }
+ ],
  "WA1389T": [
   {
    "brand": "Apolosign",
@@ -33151,6 +33163,11 @@
    "brand": "BMAX",
    "name": "I9_Plus_WireFree",
    "device": "I9_Plus_WireFree"
+  },
+  {
+   "brand": "BMAX",
+   "name": "I9_Plus_WireFree_US",
+   "device": "I9_Plus_WireFree_US"
   }
  ],
  "BMPRO7DI": [
@@ -42293,13 +42310,6 @@
    "device": "B160V"
   }
  ],
- "B1680V": [
-  {
-   "brand": "Blu",
-   "name": "B1680V",
-   "device": "B1680V"
-  }
- ],
  "B3": [
   {
    "brand": "Blu",
@@ -45255,6 +45265,13 @@
    "brand": "Blu",
    "name": "VIEW 5",
    "device": "B161V"
+  }
+ ],
+ "B1680V": [
+  {
+   "brand": "Blu",
+   "name": "VIEW PRO 5G",
+   "device": "B1680V"
   }
  ],
  "VIVO 5": [
@@ -49542,13 +49559,6 @@
    "brand": "CVTE",
    "name": "CVTE SA12",
    "device": "rk3588_t"
-  }
- ],
- "rk3576_u": [
-  {
-   "brand": "CVTE",
-   "name": "Guangzhou Shirui Electronics Co.",
-   "device": "Ltd"
   }
  ],
  "rk3588_t": [
@@ -94844,6 +94854,11 @@
    "brand": "HCNCP",
    "name": "HT10Pro",
    "device": "HT10Pro"
+  },
+  {
+   "brand": "TechZen",
+   "name": "HT10Pro",
+   "device": "HT10Pro"
   }
  ],
  "MID1109A-SC": [
@@ -111351,6 +111366,11 @@
    "brand": "Honor",
    "name": "HONOR  X9d",
    "device": "HNMTN-Q1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9e s",
+   "device": "HNMTN-Q1"
   }
  ],
  "MAA-AN00": [
@@ -111777,6 +111797,11 @@
   {
    "brand": "Honor",
    "name": "HONOR Magic8 Lite",
+   "device": "HNMTN-Q1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9e s",
    "device": "HNMTN-Q1"
   }
  ],
@@ -112609,6 +112634,18 @@
    "device": "HNLDY-M"
   }
  ],
+ "LNA-AN00": [
+  {
+   "brand": "Honor",
+   "name": "荣耀Play11 Pro",
+   "device": "HNLNA-M"
+  },
+  {
+   "brand": "Honor",
+   "name": "荣耀X80i",
+   "device": "HNLNA-M"
+  }
+ ],
  "DVD-AN00": [
   {
    "brand": "Honor",
@@ -112682,13 +112719,6 @@
    "brand": "Honor",
    "name": "荣耀X80 Pro Max",
    "device": "HNBSN-Q"
-  }
- ],
- "LNA-AN00": [
-  {
-   "brand": "Honor",
-   "name": "荣耀X80i",
-   "device": "HNLNA-M"
   }
  ],
  "HEY3-W10": [
@@ -125729,6 +125759,13 @@
    "device": "HT10LA2MSGNA01"
   }
  ],
+ "HT10LA2MSGNA02": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10LA2MSGNA02",
+   "device": "HYLINE"
+  }
+ ],
  "10LB2": [
   {
    "brand": "Hyundai",
@@ -137349,6 +137386,13 @@
    "device": "J2507"
   }
  ],
+ "J2505": [
+  {
+   "brand": "JOVI",
+   "name": "JOVI X300 FE",
+   "device": "J2505"
+  }
+ ],
  "J2510": [
   {
    "brand": "JOVI",
@@ -137434,13 +137478,6 @@
    "brand": "Vivo",
    "name": "V50",
    "device": "V2427"
-  }
- ],
- "J2505": [
-  {
-   "brand": "JOVI",
-   "name": "X300 FE",
-   "device": "J2505"
   }
  ],
  "TB-JS100A": [
@@ -170777,6 +170814,13 @@
    "device": "D121_EEA"
   }
  ],
+ "D122_US": [
+  {
+   "brand": "MEIZE",
+   "name": "D122_US",
+   "device": "D122_US"
+  }
+ ],
  "D123": [
   {
    "brand": "MEIZE",
@@ -170859,6 +170903,13 @@
    "brand": "MEIZE",
    "name": "D138",
    "device": "D138"
+  }
+ ],
+ "F107": [
+  {
+   "brand": "MEIZE",
+   "name": "F107_ROW",
+   "device": "F107"
   }
  ],
  "MEO TV Box 4K": [
@@ -320889,6 +320940,13 @@
    "device": "W500_US"
   }
  ],
+ "Gm81": [
+  {
+   "brand": "WQi(sh)",
+   "name": "Gm81",
+   "device": "Gm81"
+  }
+ ],
  "TD-TP010G-2": [
   {
    "brand": "WS(SZ)",
@@ -343084,6 +343142,13 @@
    "brand": "Zebra",
    "name": "HC55",
    "device": "TC27-6490"
+  }
+ ],
+ "KC401": [
+  {
+   "brand": "Zebra",
+   "name": "KC401",
+   "device": "KC401"
   }
  ],
  "KC50": [

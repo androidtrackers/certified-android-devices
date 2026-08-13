@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-12
+Last sync is 2026-08-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2055,6 +2055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|U10PRO|U10PRO|U10PRO|
 |Apex|Z12_PRO|Z12_PRO|Z12_PRO|
 |Apex|Z4PRO|Z4PRO|Z4PRO|
+|Apolosign|AndroidSmartDisplay|WA2489T|rk3576_u|
 |Apolosign|AndroidTablet|WA1389T|WA1389T|
 |Apolosign|DigitalCalendar|FA158AT|FA158AT|
 |Apolosign|DigitalSignage|FA1569T|Apolosign Calendar|
@@ -3559,6 +3560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I9_Plus_WLAN|I9_Plus_WLAN|I9_Plus|
 |BMAX|I9_Plus_WLAN_EEA|I9_Plus_WLAN_EEA|I9_Plus|
 |BMAX|I9_Plus_WireFree|I9_Plus_WireFree|I9_Plus_WireFree|
+|BMAX|I9_Plus_WireFree_US|I9_Plus_WireFree_US|I9_Plus_WireFree|
 |BMAX|I9_Plus_Wlanonly|I9_Plus_Wlanonly|I9_Plus|
 |BMAX|I9_Plus_Wlanonly_EEA|I9_Plus_Wlanonly_EEA|I9_Plus|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
@@ -4875,7 +4877,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|B131DL|B130DL|B131DL|
 |Blu|B140DL|B140DL|B140DL|
 |Blu|B160V|B160V|B160V|
-|Blu|B1680V|B1680V|B1680V|
 |Blu|B3|B301|B3|
 |Blu|BLU|G0430WW|G71|
 |Blu|BLU Dash XL|Dash_XL|Dash XL|
@@ -5270,6 +5271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Tank_Xtreme|T0030WW|Tank Xtreme|
 |Blu|Touchbook M7 Pro|P290|Touchbook M7 Pro|
 |Blu|VIEW 5|B161V|B161V|
+|Blu|VIEW PRO 5G|B1680V|B1680V|
 |Blu|VIVO 5|BLU_VIVO_5|VIVO 5|
 |Blu|VIVO 5R|BLU_Vivo_5R|Vivo 5R|
 |Blu|VIVO 6|BLU_Vivo_6|Vivo 6|
@@ -15086,6 +15088,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR X9b 5G|HNALI-Q|ALI-NX1|
 |Honor|HONOR X9c|HNBRP-Q1|BRP-NX1|
+|Honor|HONOR X9e s|HNMTN-Q1|MTN-NX1|
+|Honor|HONOR X9e s|HNMTN-Q1|MTN-NX3|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX1|
 |Honor|Honor 200 Lite|HNLLY-M1|LLY-NX3|
 |Honor|Honor X9b 5G|HNALI-Q|ALI-NX3P|
@@ -15098,6 +15102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
 |Honor|荣耀Magic8 Pro Air|HNLDY-M|LDY-AN00|
 |Honor|荣耀MagicPad3 Pro 12.3|HNYLE-Q|YLE-W09|
+|Honor|荣耀Play11 Pro|HNLNA-M|LNA-AN00|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN00|
 |Honor|荣耀Power|HNDVD-Q|DVD-AN80|
 |Honor|荣耀Power2|HNSER-M|SER-AN00|
@@ -17048,6 +17053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT0802W16/Koral_8W2|HT0802W16|Koral_8W2|
 |Hyundai|HT10LA1MSGNA02|HT10LA1MSGNA02|10LA1|
 |Hyundai|HT10LA2MSGNA01|HT10LA2MSGNA01|HT10LA2MSGNA01|
+|Hyundai|HT10LA2MSGNA02|HYLINE|HT10LA2MSGNA02|
 |Hyundai|HT10LB2MBKLTM|HT10LB2MBKLTM|10LB2|
 |Hyundai|HT10LB2MBKLTM02|HT10LB2MBKLTM02|HT10LB2MBKLTM02|
 |Hyundai|HT10LB3MBKLTM|HT10LB3MBKLTM|HT10LB3MBKLTM|
@@ -18832,6 +18838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI T1 5G|J2502|J2502|
 |JOVI|JOVI V50 Lite 5G|V2440B|V2440|
 |JOVI|JOVI V70 5G|J2507|J2507|
+|JOVI|JOVI X300 FE|J2505|J2505|
 |JOVI|JOVI X300 Ultra|J2510|J2510|
 |JOVI|JOVI Y19s|V2419B|V2425|
 |JOVI|JOVI Y19s|V2419B|V2454|
@@ -18843,7 +18850,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JOVI|JOVI Y29s 5G|V2446B|V2459|
 |JOVI|JOVI Y31|J2506|J2506|
 |JOVI|V50|V2427B|V2427|
-|JOVI|X300 FE|J2505|J2505|
 |JOYSURF|TB-JS100A|TB-JS100A|TB-JS100A|
 |JOYSURF|TB-JS101A|TB-JS101A|TB-JS101A|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
@@ -24101,6 +24107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEIZE|D115|D115|D115|
 |MEIZE|D121|D121|D121|
 |MEIZE|D121_EEA|D121_EEA|D121_EEA|
+|MEIZE|D122_US|D122_US|D122_US|
 |MEIZE|D123|D123|D123|
 |MEIZE|D125|D125|D125|
 |MEIZE|D125_EEA|D125_EEA|D125_EEA|
@@ -24113,6 +24120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEIZE|D131_eea|D131_eea|D131_eea|
 |MEIZE|D135|D135|D135|
 |MEIZE|D138|D138|D138|
+|MEIZE|F107_ROW|F107|F107|
 |MEIZE|I9_Plus_WIFIOnly_EEA|I9_Plus_WIFIOnly_EEA|I9_Plus|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K|DV8985-MEO|MEOBox 4K DV8985|
@@ -43580,6 +43588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tech 4u|Rocket|Rocket|Rocket|
 |Tech 4u|S8 Pro|S8_Pro|S8_Pro|
 |Tech 4u|Tech4U S8|S8|S8|
+|TechZen|HT10Pro|HT10Pro|HT10Pro|
 |Technicolor||omap4_WT3|T-Hub2|
 |Technicolor|Elisa Elamus|uzw4026ele|Elisa Elamus|
 |Technicolor|Euskaltel|dci765ekt|cooper|
@@ -47862,6 +47871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WOZIFAN|W500 _EEA|W500_EEA|W500_EEA|
 |WOZIFAN|W500_M_US|W500_M_US|W500_M_US|
 |WOZIFAN|W500_US|W500_US|W500_US|
+|WQi(sh)|Gm81|Gm81|Gm81|
 |WS(SZ)|TD-TP010G-2|TD-TP010G-2|TD-TP010G-2|
 |WS(SZ)|WS-T01|WS-T01|WS-T01|
 |WS(SZ)|WS_T02|WS_T02|WS_T02|
@@ -51358,6 +51368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|HC50|TC22|TC22|
 |Zebra|HC55|TC27|TC27|
 |Zebra|HC55|TC27-6490|HC55|
+|Zebra|KC401|KC401|KC401|
 |Zebra|KC50 Android™ Kiosk computers|KC50L|KC50|
 |Zebra|KC50 Android™ Kiosk computers|KC50S|KC50|
 |Zebra|MC18|MC18|MC18N0|

@@ -25366,6 +25366,13 @@
    "model": "Z4PRO"
   }
  ],
+ "AndroidSmartDisplay": [
+  {
+   "brand": "Apolosign",
+   "device": "WA2489T",
+   "model": "rk3576_u"
+  }
+ ],
  "AndroidTablet": [
   {
    "brand": "Apolosign",
@@ -36193,6 +36200,13 @@
    "model": "I9_Plus_WireFree"
   }
  ],
+ "I9_Plus_WireFree_US": [
+  {
+   "brand": "BMAX",
+   "device": "I9_Plus_WireFree_US",
+   "model": "I9_Plus_WireFree"
+  }
+ ],
  "I9_Plus_Wlanonly": [
   {
    "brand": "BMAX",
@@ -46218,13 +46232,6 @@
    "model": "B160V"
   }
  ],
- "B1680V": [
-  {
-   "brand": "Blu",
-   "device": "B1680V",
-   "model": "B1680V"
-  }
- ],
  "B3": [
   {
    "brand": "Blu",
@@ -49230,6 +49237,13 @@
    "brand": "Blu",
    "device": "B161V",
    "model": "B161V"
+  }
+ ],
+ "VIEW PRO 5G": [
+  {
+   "brand": "Blu",
+   "device": "B1680V",
+   "model": "B1680V"
   }
  ],
  "VIVO 5": [
@@ -99746,6 +99760,11 @@
    "brand": "HCNCP",
    "device": "HT10Pro",
    "model": "HT10Pro"
+  },
+  {
+   "brand": "TechZen",
+   "device": "HT10Pro",
+   "model": "HT10Pro"
   }
  ],
  "HT11": [
@@ -116404,6 +116423,18 @@
    "model": "BRP-NX1"
   }
  ],
+ "HONOR X9e s": [
+  {
+   "brand": "Honor",
+   "device": "HNMTN-Q1",
+   "model": "MTN-NX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNMTN-Q1",
+   "model": "MTN-NX3"
+  }
+ ],
  "Honor 200 Lite": [
   {
    "brand": "Honor",
@@ -116484,6 +116515,13 @@
    "brand": "Honor",
    "device": "HNYLE-Q",
    "model": "YLE-W09"
+  }
+ ],
+ "荣耀Play11 Pro": [
+  {
+   "brand": "Honor",
+   "device": "HNLNA-M",
+   "model": "LNA-AN00"
   }
  ],
  "荣耀Power": [
@@ -126353,6 +126391,13 @@
    "brand": "Hyundai",
    "device": "HT10LA2MSGNA01",
    "model": "HT10LA2MSGNA01"
+  }
+ ],
+ "HT10LA2MSGNA02": [
+  {
+   "brand": "Hyundai",
+   "device": "HYLINE",
+   "model": "HT10LA2MSGNA02"
   }
  ],
  "HT10LB2MBKLTM": [
@@ -137608,6 +137653,13 @@
    "model": "J2507"
   }
  ],
+ "JOVI X300 FE": [
+  {
+   "brand": "JOVI",
+   "device": "J2505",
+   "model": "J2505"
+  }
+ ],
  "JOVI X300 Ultra": [
   {
    "brand": "JOVI",
@@ -137672,28 +137724,6 @@
    "brand": "JOVI",
    "device": "J2506",
    "model": "J2506"
-  }
- ],
- "X300 FE": [
-  {
-   "brand": "JOVI",
-   "device": "J2505",
-   "model": "J2505"
-  },
-  {
-   "brand": "vivo",
-   "device": "V2537",
-   "model": "V2537"
-  },
-  {
-   "brand": "vivo",
-   "device": "V2537",
-   "model": "V2542"
-  },
-  {
-   "brand": "vivo",
-   "device": "V2537",
-   "model": "V2633"
   }
  ],
  "TB-JS100A": [
@@ -168306,6 +168336,13 @@
    "model": "D121_EEA"
   }
  ],
+ "D122_US": [
+  {
+   "brand": "MEIZE",
+   "device": "D122_US",
+   "model": "D122_US"
+  }
+ ],
  "D123": [
   {
    "brand": "MEIZE",
@@ -168388,6 +168425,13 @@
    "brand": "MEIZE",
    "device": "D138",
    "model": "D138"
+  }
+ ],
+ "F107_ROW": [
+  {
+   "brand": "MEIZE",
+   "device": "F107",
+   "model": "F107"
   }
  ],
  "I9_Plus_WIFIOnly_EEA": [
@@ -309579,6 +309623,13 @@
    "model": "W500_US"
   }
  ],
+ "Gm81": [
+  {
+   "brand": "WQi(sh)",
+   "device": "Gm81",
+   "model": "Gm81"
+  }
+ ],
  "TD-TP010G-2": [
   {
    "brand": "WS(SZ)",
@@ -329137,6 +329188,13 @@
    "model": "HC55"
   }
  ],
+ "KC401": [
+  {
+   "brand": "Zebra",
+   "device": "KC401",
+   "model": "KC401"
+  }
+ ],
  "KC50 Android™ Kiosk computers": [
   {
    "brand": "Zebra",
@@ -340064,6 +340122,23 @@
    "brand": "vivo",
    "device": "PD2612",
    "model": "V2612A"
+  }
+ ],
+ "X300 FE": [
+  {
+   "brand": "vivo",
+   "device": "V2537",
+   "model": "V2537"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2537",
+   "model": "V2542"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2537",
+   "model": "V2633"
   }
  ],
  "X300 Pro": [
