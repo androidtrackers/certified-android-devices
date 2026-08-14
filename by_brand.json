@@ -131124,6 +131124,13 @@
    "model": "MCT-101EDL"
   }
  ],
+ "Mind_Efficiency": [
+  {
+   "device": "ME26",
+   "name": "ME05_2026",
+   "model": "MEAI26"
+  }
+ ],
  "Mindphone": [
   {
    "device": "Mindphone2",
@@ -173007,6 +173014,16 @@
    "model": "26048RP6AC"
   },
   {
+   "device": "athens",
+   "name": "REDMI K100 Pro",
+   "model": "M511CD"
+  },
+  {
+   "device": "songyuan",
+   "name": "REDMI K100 Pro Max",
+   "model": "M098FE"
+  },
+  {
    "device": "zorn",
    "name": "REDMI K80",
    "model": "24117RK2CC"
@@ -173135,6 +173152,11 @@
    "device": "mist",
    "name": "REDMI Note 17",
    "model": "26021RN18C"
+  },
+  {
+   "device": "mist",
+   "name": "REDMI Note 17 5G",
+   "model": "26021RN18I"
   },
   {
    "device": "taiko",
@@ -180300,6 +180322,11 @@
    "model": "P108_R"
   },
   {
+   "device": "P108_R",
+   "name": "P108_R_USA",
+   "model": "P108_R"
+  },
+  {
    "device": "P108_S",
    "name": "P108_S",
    "model": "P108_S"
@@ -181829,6 +181856,21 @@
    "device": "a07ve",
    "name": "Galaxy A07s",
    "model": "SM-A077M"
+  },
+  {
+   "device": "a08",
+   "name": "Galaxy A08",
+   "model": "SM-A085F"
+  },
+  {
+   "device": "a08",
+   "name": "Galaxy A08",
+   "model": "SM-E085F"
+  },
+  {
+   "device": "a08",
+   "name": "Galaxy A08",
+   "model": "SM-M085F"
   },
   {
    "device": "a10",
@@ -194634,6 +194676,21 @@
    "device": "gts11u",
    "name": "Galaxy Tab S11 Ultra 5G",
    "model": "SM-X936N"
+  },
+  {
+   "device": "gts12uwifi",
+   "name": "Galaxy Tab S12 Ultra",
+   "model": "SM-X940"
+  },
+  {
+   "device": "gts12u",
+   "name": "Galaxy Tab S12 Ultra 5G",
+   "model": "SM-X946B"
+  },
+  {
+   "device": "gts12u",
+   "name": "Galaxy Tab S12 Ultra 5G",
+   "model": "SM-X946N"
   },
   {
    "device": "gts12pwifi",
@@ -224750,6 +224807,11 @@
    "device": "M50mini",
    "name": "M50mini_ROW",
    "model": "M50mini_ROW"
+  },
+  {
+   "device": "M60",
+   "name": "M60_ROW",
+   "model": "M60_ROW"
   },
   {
    "device": "P10S_ROW",

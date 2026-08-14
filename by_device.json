@@ -85019,6 +85019,11 @@
    "brand": "Pritom",
    "name": "M60",
    "model": "M60"
+  },
+  {
+   "brand": "Teclast",
+   "name": "M60_ROW",
+   "model": "M60_ROW"
   }
  ],
  "M6A": [
@@ -177723,6 +177728,13 @@
    "model": "MCT-101EDL"
   }
  ],
+ "ME26": [
+  {
+   "brand": "Mind_Efficiency",
+   "name": "ME05_2026",
+   "model": "MEAI26"
+  }
+ ],
  "Mindphone2": [
   {
    "brand": "Mindphone",
@@ -209730,6 +209742,11 @@
    "brand": "Redmi",
    "name": "REDMI Note 17",
    "model": "26021RN18C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 5G",
+   "model": "26021RN18I"
   }
  ],
  "flourite": [
@@ -226792,6 +226809,20 @@
    "model": "26048RP6AC"
   }
  ],
+ "athens": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI K100 Pro",
+   "model": "M511CD"
+  }
+ ],
+ "songyuan": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI K100 Pro Max",
+   "model": "M098FE"
+  }
+ ],
  "dali": [
   {
    "brand": "Redmi",
@@ -234171,6 +234202,11 @@
    "brand": "SVITOO",
    "name": "P108_R_EEA",
    "model": "P108_R"
+  },
+  {
+   "brand": "SVITOO",
+   "name": "P108_R_USA",
+   "model": "P108_R"
   }
  ],
  "P108_S": [
@@ -235684,6 +235720,23 @@
    "brand": "Samsung",
    "name": "Galaxy A07s",
    "model": "SM-A077M"
+  }
+ ],
+ "a08": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A08",
+   "model": "SM-A085F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A08",
+   "model": "SM-E085F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A08",
+   "model": "SM-M085F"
   }
  ],
  "a10e": [
@@ -251498,6 +251551,25 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S11 Ultra 5G",
    "model": "SM-X936N"
+  }
+ ],
+ "gts12uwifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S12 Ultra",
+   "model": "SM-X940"
+  }
+ ],
+ "gts12u": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S12 Ultra 5G",
+   "model": "SM-X946B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S12 Ultra 5G",
+   "model": "SM-X946N"
   }
  ],
  "gts12pwifi": [

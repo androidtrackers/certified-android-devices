@@ -176488,6 +176488,13 @@
    "model": "MCT-101EDL"
   }
  ],
+ "ME05_2026": [
+  {
+   "brand": "Mind_Efficiency",
+   "device": "ME26",
+   "model": "MEAI26"
+  }
+ ],
  "Mindphone2": [
   {
    "brand": "Mindphone",
@@ -226037,6 +226044,20 @@
    "model": "26048RP6AC"
   }
  ],
+ "REDMI K100 Pro": [
+  {
+   "brand": "Redmi",
+   "device": "athens",
+   "model": "M511CD"
+  }
+ ],
+ "REDMI K100 Pro Max": [
+  {
+   "brand": "Redmi",
+   "device": "songyuan",
+   "model": "M098FE"
+  }
+ ],
  "REDMI K80": [
   {
    "brand": "Redmi",
@@ -226195,6 +226216,13 @@
    "brand": "Redmi",
    "device": "mist",
    "model": "26021RN18C"
+  }
+ ],
+ "REDMI Note 17 5G": [
+  {
+   "brand": "Redmi",
+   "device": "mist",
+   "model": "26021RN18I"
   }
  ],
  "REDMI Pad 2": [
@@ -234537,6 +234565,13 @@
    "model": "P108_R"
   }
  ],
+ "P108_R_USA": [
+  {
+   "brand": "SVITOO",
+   "device": "P108_R",
+   "model": "P108_R"
+  }
+ ],
  "P108_S": [
   {
    "brand": "SVITOO",
@@ -236076,6 +236111,23 @@
    "brand": "Samsung",
    "device": "a07ve",
    "model": "SM-A077M"
+  }
+ ],
+ "Galaxy A08": [
+  {
+   "brand": "Samsung",
+   "device": "a08",
+   "model": "SM-A085F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a08",
+   "model": "SM-E085F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a08",
+   "model": "SM-M085F"
   }
  ],
  "Galaxy A10": [
@@ -250087,6 +250139,25 @@
    "brand": "Samsung",
    "device": "gts11u",
    "model": "SM-X936N"
+  }
+ ],
+ "Galaxy Tab S12 Ultra": [
+  {
+   "brand": "Samsung",
+   "device": "gts12uwifi",
+   "model": "SM-X940"
+  }
+ ],
+ "Galaxy Tab S12 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts12u",
+   "model": "SM-X946B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts12u",
+   "model": "SM-X946N"
   }
  ],
  "Galaxy Tab S12+": [
@@ -284251,6 +284322,13 @@
    "brand": "Teclast",
    "device": "M50mini",
    "model": "M50mini_ROW"
+  }
+ ],
+ "M60_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "M60",
+   "model": "M60_ROW"
   }
  ],
  "P10HD_N5H6": [

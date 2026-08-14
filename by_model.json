@@ -179351,6 +179351,13 @@
    "device": "MCT_101EDL"
   }
  ],
+ "MEAI26": [
+  {
+   "brand": "Mind_Efficiency",
+   "name": "ME05_2026",
+   "device": "ME26"
+  }
+ ],
  "Mindphone2": [
   {
    "brand": "Mindphone",
@@ -229590,6 +229597,20 @@
    "device": "yili"
   }
  ],
+ "M511CD": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI K100 Pro",
+   "device": "athens"
+  }
+ ],
+ "M098FE": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI K100 Pro Max",
+   "device": "songyuan"
+  }
+ ],
  "24117RK2CC": [
   {
    "brand": "Redmi",
@@ -229774,6 +229795,13 @@
   {
    "brand": "Redmi",
    "name": "REDMI Note 17",
+   "device": "mist"
+  }
+ ],
+ "26021RN18I": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 5G",
    "device": "mist"
   }
  ],
@@ -237995,6 +238023,11 @@
    "brand": "SVITOO",
    "name": "P108_R_EEA",
    "device": "P108_R"
+  },
+  {
+   "brand": "SVITOO",
+   "name": "P108_R_USA",
+   "device": "P108_R"
   }
  ],
  "P108_S": [
@@ -239952,6 +239985,27 @@
    "brand": "Samsung",
    "name": "Galaxy A07s",
    "device": "a07ve"
+  }
+ ],
+ "SM-A085F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A08",
+   "device": "a08"
+  }
+ ],
+ "SM-E085F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A08",
+   "device": "a08"
+  }
+ ],
+ "SM-M085F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A08",
+   "device": "a08"
   }
  ],
  "SM-A105F": [
@@ -257675,6 +257729,27 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S11 Ultra 5G",
    "device": "gts11u"
+  }
+ ],
+ "SM-X940": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S12 Ultra",
+   "device": "gts12uwifi"
+  }
+ ],
+ "SM-X946B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S12 Ultra 5G",
+   "device": "gts12u"
+  }
+ ],
+ "SM-X946N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S12 Ultra 5G",
+   "device": "gts12u"
   }
  ],
  "SM-X840": [
@@ -295332,6 +295407,13 @@
    "brand": "Teclast",
    "name": "M50mini_ROW",
    "device": "M50mini"
+  }
+ ],
+ "M60_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "M60_ROW",
+   "device": "M60"
   }
  ],
  "P10S_ROW": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-13
+Last sync is 2026-08-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25436,6 +25436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mikona|MIKONA|MSW_BT767QC8TN|MSW_BT767QC8TN|
 |Mimio|MimioPro-G XX5|rk3588_t|MimioProG5|
 |Mimo|MCT_101EDL|MCT_101EDL|MCT-101EDL|
+|Mind_Efficiency|ME05_2026|ME26|MEAI26|
 |Mindphone|Mindphone2|Mindphone2|Mindphone2|
 |Mingtronics|RM-M6DA09|RM-M6DA09|RM-M6DA09|
 |Minimal_Phone|MP01|MP01|MP01|
@@ -33583,6 +33584,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI A7 Pro 5G|somalia|26020RN1AI|
 |Redmi|REDMI K Pad|turner|25079RPDCC|
 |Redmi|REDMI K Pad 2|yili|26048RP6AC|
+|Redmi|REDMI K100 Pro|athens|M511CD|
+|Redmi|REDMI K100 Pro Max|songyuan|M098FE|
 |Redmi|REDMI K80|zorn|24117RK2CC|
 |Redmi|REDMI K80 Pro|miro|24122RKC7C|
 |Redmi|REDMI K80 Ultra|dali|25060RK16C|
@@ -33609,6 +33612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 15R|spring|25057RA09C|
 |Redmi|REDMI Note 15R Pro|beryl|24094RAD4C|
 |Redmi|REDMI Note 17|mist|26021RN18C|
+|Redmi|REDMI Note 17 5G|mist|26021RN18I|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Pad 2 9.7|guitar|2603ARP14G|
 |Redmi|REDMI Pad 2 9.7 4G|erhu|2604ERP4DG|
@@ -34976,6 +34980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P08_T|P08_T|P08_T|
 |SVITOO|P108_EEA|P108|P108|
 |SVITOO|P108_R_EEA|P108_R|P108_R|
+|SVITOO|P108_R_USA|P108_R|P108_R|
 |SVITOO|P108_S|P108_S|P108_S|
 |SVITOO|P108_S_EEA|P108_S|P108_S|
 |SVITOO|P108_S_US|P108_S|P108_S|
@@ -35277,6 +35282,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A07 5G|a07x|SM-A076M|
 |Samsung|Galaxy A07s|a07ve|SM-A077F|
 |Samsung|Galaxy A07s|a07ve|SM-A077M|
+|Samsung|Galaxy A08|a08|SM-A085F|
+|Samsung|Galaxy A08|a08|SM-E085F|
+|Samsung|Galaxy A08|a08|SM-M085F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -37838,6 +37846,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936B|
 |Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936C|
 |Samsung|Galaxy Tab S11 Ultra 5G|gts11u|SM-X936N|
+|Samsung|Galaxy Tab S12 Ultra|gts12uwifi|SM-X940|
+|Samsung|Galaxy Tab S12 Ultra 5G|gts12u|SM-X946B|
+|Samsung|Galaxy Tab S12 Ultra 5G|gts12u|SM-X946N|
 |Samsung|Galaxy Tab S12+|gts12pwifi|SM-X840|
 |Samsung|Galaxy Tab S12+ 5G|gts12p|SM-X846B|
 |Samsung|Galaxy Tab S12+ 5G|gts12p|SM-X846E|
@@ -43732,6 +43743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M50_RUS|M50_RUS|M50_RUS|
 |Teclast|M50_W_ROW|M50_W|M50_W_ROW|
 |Teclast|M50mini_ROW|M50mini|M50mini_ROW|
+|Teclast|M60_ROW|M60|M60_ROW|
 |Teclast|P10HD_N5H6|P10S_ROW|P10S_ROW|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|
 |Teclast|P10SE_ROW|P10SE_ROW|P10SE_ROW|
