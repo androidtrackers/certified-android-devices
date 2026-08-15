@@ -73252,6 +73252,11 @@
   {
    "device": "HLTE243E",
    "name": "HLTE243E",
+   "model": "Hisense M60"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
    "model": "Hisense M72 Pro"
   },
   {
@@ -77653,6 +77658,11 @@
    "device": "HNHEY4-Q1",
    "name": "HONOR Pad 20",
    "model": "HEY4-W09"
+  },
+  {
+   "device": "HNMLA-Q1",
+   "name": "HONOR Pad 20 Pro",
+   "model": "MLA-W09"
   },
   {
    "device": "HNHEY-Q",
@@ -125920,6 +125930,11 @@
    "device": "SEI804DT",
    "name": "One (2. Generation)",
    "model": "MagentaTV One (2. Generation)"
+  },
+  {
+   "device": "HP4AC-DT",
+   "name": "One (3. Generation)",
+   "model": "MagentaTV One (3. Generation)"
   }
  ],
  "Magnavox": [
@@ -180977,6 +180992,13 @@
    "model": "SYMFONY TAB 105"
   }
  ],
+ "SYNCS": [
+  {
+   "device": "SS_xxW82B",
+   "name": "SS_xxW82B",
+   "model": "SS_xxW82B"
+  }
+ ],
  "SZSUPER": [
   {
    "device": "KIDS05-X5",
@@ -204695,6 +204717,11 @@
   }
  ],
  "Smart-Tech TV": [
+  {
+   "device": "ashfield",
+   "name": "AiHRR4K",
+   "model": "AiHRR4K"
+  },
   {
    "device": "dongnae",
    "name": "AiPro2K",
@@ -232006,6 +232033,11 @@
    "device": "U3_V_US",
    "name": "U3_V_US",
    "model": "U3_V_US"
+  },
+  {
+   "device": "U6_E",
+   "name": "U6_E",
+   "model": "U6_E"
   },
   {
    "device": "U6_EEA",

@@ -106478,6 +106478,13 @@
    "device": "HLTE243E"
   }
  ],
+ "Hisense M60": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE243E",
+   "device": "HLTE243E"
+  }
+ ],
  "Hisense M72 Pro": [
   {
    "brand": "Hisense",
@@ -111889,6 +111896,13 @@
    "brand": "Honor",
    "name": "荣耀平板20",
    "device": "HNHEY4-Q"
+  }
+ ],
+ "MLA-W09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 20 Pro",
+   "device": "HNMLA-Q1"
   }
  ],
  "HEY-W09": [
@@ -172794,6 +172808,13 @@
    "brand": "MagentaTV",
    "name": "One (2. Generation)",
    "device": "SEI804DT"
+  }
+ ],
+ "MagentaTV One (3. Generation)": [
+  {
+   "brand": "MagentaTV",
+   "name": "One (3. Generation)",
+   "device": "HP4AC-DT"
   }
  ],
  "MMP848": [
@@ -238770,6 +238791,13 @@
    "device": "TAB_105"
   }
  ],
+ "SS_xxW82B": [
+  {
+   "brand": "SYNCS",
+   "name": "SS_xxW82B",
+   "device": "SS_xxW82B"
+  }
+ ],
  "KIDS05-X5": [
   {
    "brand": "SZSUPER",
@@ -270489,6 +270517,13 @@
    "brand": "Smart (BD)",
    "name": "SQ811G",
    "device": "SQ811G"
+  }
+ ],
+ "AiHRR4K": [
+  {
+   "brand": "Smart-Tech TV",
+   "name": "AiHRR4K",
+   "device": "ashfield"
   }
  ],
  "Contex TV": [
@@ -304107,6 +304142,13 @@
    "brand": "UJJ(SZ)",
    "name": "U3_V_US",
    "device": "U3_V_US"
+  }
+ ],
+ "U6_E": [
+  {
+   "brand": "UJJ(SZ)",
+   "name": "U6_E",
+   "device": "U6_E"
   }
  ],
  "U6_EEA": [

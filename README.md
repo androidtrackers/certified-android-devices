@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-14
+Last sync is 2026-08-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14110,6 +14110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense F35 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense F36 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense M50|
+|Hisense|HLTE243E|HLTE243E|Hisense M60|
 |Hisense|HLTE243E|HLTE243E|Hisense M72 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense M73 Pro|
 |Hisense|HLTE243E|HLTE243E|Hisense T1 Pro|
@@ -14985,6 +14986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad 10 Papermatte Display WIFI|HNHEY3-Q1|HEY3-W00|
 |Honor|HONOR Pad 20|HNHEY4-Q1|HEY4-N09|
 |Honor|HONOR Pad 20|HNHEY4-Q1|HEY4-W09|
+|Honor|HONOR Pad 20 Pro|HNMLA-Q1|MLA-W09|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-N09|
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
@@ -24424,6 +24426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|MagentaTV Stick (2. Gen.)|IMTM840A|MagentaTV Stick (2. Generation)|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
+|MagentaTV|One (3. Generation)|HP4AC-DT|MagentaTV One (3. Generation)|
 |Magnavox|MMP848|MMP848|MMP848|
 |Magnavox|Magnavox Google TV|dongnae|Magnavox Google TV|
 |Magnavox|Magnavox Smart TV|dongnae|Magnavox Smart TV|
@@ -35109,6 +35112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SYLVOX|Smart TV 4K-A|kenton|Smart TV 4K-A|
 |SYLVOX|Smart TV 4K-B|kenton|Smart TV 4K-B|
 |SYMFONY|TAB_105|TAB_105|SYMFONY TAB 105|
+|SYNCS|SS_xxW82B|SS_xxW82B|SS_xxW82B|
 |SZSUPER|KIDS05-X5|KIDS05-X5|KIDS05-X5|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
@@ -39818,6 +39822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart (BD)|MQ703G|MQ703G|MQ703G|
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
+|Smart-Tech TV|AiHRR4K|ashfield|AiHRR4K|
 |Smart-Tech TV|AiPro2K|dongnae|AiPro2K|
 |Smart-Tech TV|Aiplus4K|guandu|Aiplus4K|
 |Smart-Tech TV|Apollo Premium4K TV|marina|Apollo Premium4K TV|
@@ -45134,6 +45139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UJJ(SZ)|U3_US|U3_US|U3_US|
 |UJJ(SZ)|U3_V_EEA|U3_V_EEA|U3_V_EEA|
 |UJJ(SZ)|U3_V_US|U3_V_US|U3_V_US|
+|UJJ(SZ)|U6_E|U6_E|U6_E|
 |UJJ(SZ)|U6_EEA|U6_EEA|U6_EEA|
 |UJJ(SZ)|U6_US|U6_US|U6_US|
 |UJJ(SZ)|U6_V_EEA|U6_V_EEA|U6_V_EEA|

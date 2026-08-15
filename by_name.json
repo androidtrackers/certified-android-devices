@@ -110282,6 +110282,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE243E",
+   "model": "Hisense M60"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE243E",
    "model": "Hisense M72 Pro"
   },
   {
@@ -115808,6 +115813,13 @@
    "brand": "Honor",
    "device": "HNHEY4-Q1",
    "model": "HEY4-W09"
+  }
+ ],
+ "HONOR Pad 20 Pro": [
+  {
+   "brand": "Honor",
+   "device": "HNMLA-Q1",
+   "model": "MLA-W09"
   }
  ],
  "HONOR Pad 8": [
@@ -170219,6 +170231,13 @@
    "brand": "MagentaTV",
    "device": "SEI804DT",
    "model": "MagentaTV One (2. Generation)"
+  }
+ ],
+ "One (3. Generation)": [
+  {
+   "brand": "MagentaTV",
+   "device": "HP4AC-DT",
+   "model": "MagentaTV One (3. Generation)"
   }
  ],
  "MMP848": [
@@ -235370,6 +235389,13 @@
    "model": "SYMFONY TAB 105"
   }
  ],
+ "SS_xxW82B": [
+  {
+   "brand": "SYNCS",
+   "device": "SS_xxW82B",
+   "model": "SS_xxW82B"
+  }
+ ],
  "KIDS05-X5": [
   {
    "brand": "SZSUPER",
@@ -261948,6 +261974,13 @@
    "brand": "Smart (BD)",
    "device": "SQ811G",
    "model": "SQ811G"
+  }
+ ],
+ "AiHRR4K": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "ashfield",
+   "model": "AiHRR4K"
   }
  ],
  "Aiplus4K": [
@@ -292681,6 +292714,13 @@
    "brand": "UJJ(SZ)",
    "device": "U3_V_US",
    "model": "U3_V_US"
+  }
+ ],
+ "U6_E": [
+  {
+   "brand": "UJJ(SZ)",
+   "device": "U6_E",
+   "model": "U6_E"
   }
  ],
  "U6_EEA": [
