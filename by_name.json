@@ -61611,6 +61611,13 @@
    "model": "A1-64G"
   }
  ],
+ "A10a": [
+  {
+   "brand": "Contixo",
+   "device": "A10a",
+   "model": "A10"
+  }
+ ],
  "A10e": [
   {
    "brand": "Contixo",
@@ -64545,6 +64552,13 @@
    "brand": "Croma",
    "device": "ikebukuro",
    "model": "AI PONT"
+  }
+ ],
+ "27409-1": [
+  {
+   "brand": "Crosscall",
+   "device": "27409-1",
+   "model": "27409-1"
   }
  ],
  "Action-X3": [
@@ -78917,6 +78931,13 @@
    "brand": "EGOBOO",
    "device": "EB104",
    "model": "EB104"
+  }
+ ],
+ "1088T": [
+  {
+   "brand": "EGOTEK",
+   "device": "1088T",
+   "model": "G10"
   }
  ],
  "AK10": [
@@ -126510,6 +126531,13 @@
    "model": "10WC1"
   }
  ],
+ "HT10WC1MSG01_EEA": [
+  {
+   "brand": "Hyundai",
+   "device": "HT10WC1MSG01",
+   "model": "10WC1"
+  }
+ ],
  "HT7GB1MBK_": [
   {
    "brand": "Hyundai",
@@ -155858,6 +155886,13 @@
    "model": "LT E18"
   }
  ],
+ "LT_mobile_E51": [
+  {
+   "brand": "LT_Mobile",
+   "device": "LT_mobile_E51",
+   "model": "LT E51"
+  }
+ ],
  "LT_mobile_K80": [
   {
    "brand": "LT_Mobile",
@@ -155893,13 +155928,6 @@
    "model": "LT S40"
   }
  ],
- "IWB": [
-  {
-   "brand": "LUCOMS",
-   "device": "rk3588_t",
-   "model": "siwxxf1x"
-  }
- ],
  "LUCMOS": [
   {
    "brand": "LUCOMS",
@@ -155927,6 +155955,13 @@
    "brand": "LUCOMS",
    "device": "zhongshan",
    "model": "4K SMART TV"
+  }
+ ],
+ "IWB": [
+  {
+   "brand": "LUCOMS-T",
+   "device": "rk3588_t",
+   "model": "siwxxf1x"
   }
  ],
  "AT11R464_LUKE": [
@@ -167350,6 +167385,13 @@
    "brand": "M-KOPA",
    "device": "NYX",
    "model": "M-KOPA M10"
+  }
+ ],
+ "X4e": [
+  {
+   "brand": "M-KOPA",
+   "device": "X4e",
+   "model": "X4e"
   }
  ],
  "Eros Power": [
@@ -183429,6 +183471,13 @@
    "brand": "Motorola",
    "device": "sydnyl",
    "model": "moto g37"
+  }
+ ],
+ "moto g37 M-51G": [
+  {
+   "brand": "Motorola",
+   "device": "M-51G",
+   "model": "M-51G"
   }
  ],
  "moto g37 power": [
@@ -200987,6 +201036,13 @@
    "model": "PLT150"
   }
  ],
+ "PMM110": [
+  {
+   "brand": "Oppo",
+   "device": "OP61F3L1",
+   "model": "PMM110"
+  }
+ ],
  "Pad 4 Pro": [
   {
    "brand": "Oppo",
@@ -202275,13 +202331,6 @@
    "brand": "Oppo",
    "device": "OP61BBL1",
    "model": "PMD110"
-  }
- ],
- "Reno16": [
-  {
-   "brand": "Oppo",
-   "device": "OP61F3L1",
-   "model": "PMM110"
   }
  ],
  "Reno16 5G": [
@@ -230653,6 +230702,13 @@
    "brand": "SALT",
    "device": "SALT_A78",
    "model": "SALT A78"
+  }
+ ],
+ "TV box 2.0": [
+  {
+   "brand": "SALT",
+   "device": "HP4CH-NJJ",
+   "model": "TV box 2.0"
   }
  ],
  "M1039A": [
@@ -262929,6 +262985,13 @@
    "model": "BRAVIA 4K AE3"
   }
  ],
+ "BRAVIA DE1": [
+  {
+   "brand": "Sony",
+   "device": "hoshioki",
+   "model": "BRAVIA DE1"
+  }
+ ],
  "BRAVIA Smart Stick": [
   {
    "brand": "Sony",
@@ -285850,6 +285913,27 @@
    "model": "T65_ROW"
   }
  ],
+ "T70Max_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "T70Max",
+   "model": "T70Max"
+  }
+ ],
+ "T70Max_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "T70Max",
+   "model": "T70Max"
+  }
+ ],
+ "T70Max_US": [
+  {
+   "brand": "Teclast",
+   "device": "T70Max",
+   "model": "T70Max"
+  }
+ ],
  "T70Pro_ROW": [
   {
    "brand": "Teclast",
@@ -297344,6 +297428,13 @@
    "brand": "VALE",
    "device": "V10E_LTE_464",
    "model": "V10E_LTE_464"
+  }
+ ],
+ "V10E_W-4128": [
+  {
+   "brand": "VALE",
+   "device": "V10E_W-4128",
+   "model": "V10E_W-4128"
   }
  ],
  "V11E LTE_4128": [

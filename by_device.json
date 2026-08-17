@@ -2422,7 +2422,7 @@
    "model": "TR3PN"
   },
   {
-   "brand": "LUCOMS",
+   "brand": "LUCOMS-T",
    "name": "IWB",
    "model": "siwxxf1x"
   },
@@ -63343,6 +63343,13 @@
    "model": "A1-64G"
   }
  ],
+ "A10a": [
+  {
+   "brand": "Contixo",
+   "name": "A10a",
+   "model": "A10"
+  }
+ ],
  "A10e": [
   {
    "brand": "Contixo",
@@ -66339,6 +66346,13 @@
    "brand": "Croatian Telecom",
    "name": "KSTB6044",
    "model": "KSTB6044"
+  }
+ ],
+ "27409-1": [
+  {
+   "brand": "Crosscall",
+   "name": "27409-1",
+   "model": "27409-1"
   }
  ],
  "HS8937QC": [
@@ -80545,6 +80559,13 @@
    "brand": "EGOBOO",
    "name": "EB104",
    "model": "EB104"
+  }
+ ],
+ "1088T": [
+  {
+   "brand": "EGOTEK",
+   "name": "1088T",
+   "model": "G10"
   }
  ],
  "AK10": [
@@ -127621,6 +127642,11 @@
    "brand": "Hyundai",
    "name": "HT10WC1MSG01",
    "model": "10WC1"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HT10WC1MSG01_EEA",
+   "model": "10WC1"
   }
  ],
  "HT7GB1MBK_": [
@@ -156274,6 +156300,13 @@
    "model": "LT E18"
   }
  ],
+ "LT_mobile_E51": [
+  {
+   "brand": "LT_Mobile",
+   "name": "LT_mobile_E51",
+   "model": "LT E51"
+  }
+ ],
  "LT_mobile_S22": [
   {
    "brand": "LT_Mobile",
@@ -168726,6 +168759,13 @@
    "brand": "M-Horse",
    "name": "Pure 3",
    "model": "Pure 3"
+  }
+ ],
+ "X4e": [
+  {
+   "brand": "M-KOPA",
+   "name": "X4e",
+   "model": "X4e"
   }
  ],
  "EROS_Power": [
@@ -185226,6 +185266,13 @@
    "brand": "Motorola",
    "name": "moto g47",
    "model": "moto g47"
+  }
+ ],
+ "M-51G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g37 M-51G",
+   "model": "M-51G"
   }
  ],
  "corfu": [
@@ -202586,6 +202633,13 @@
    "model": "PLT150"
   }
  ],
+ "OP61F3L1": [
+  {
+   "brand": "Oppo",
+   "name": "PMM110",
+   "model": "PMM110"
+  }
+ ],
  "OP615CL1": [
   {
    "brand": "Oppo",
@@ -203747,13 +203801,6 @@
    "brand": "Oppo",
    "name": "Reno15c",
    "model": "PMD110"
-  }
- ],
- "OP61F3L1": [
-  {
-   "brand": "Oppo",
-   "name": "Reno16",
-   "model": "PMM110"
   }
  ],
  "OP6307L1": [
@@ -230430,6 +230477,13 @@
    "brand": "SALT",
    "name": "SALT A78",
    "model": "SALT A78"
+  }
+ ],
+ "HP4CH-NJJ": [
+  {
+   "brand": "SALT",
+   "name": "TV box 2.0",
+   "model": "TV box 2.0"
   }
  ],
  "M1039A": [
@@ -264378,6 +264432,13 @@
    "model": "BRAVIA 4K AE3"
   }
  ],
+ "hoshioki": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA DE1",
+   "model": "BRAVIA DE1"
+  }
+ ],
  "NSZGU1": [
   {
    "brand": "Sony",
@@ -286649,6 +286710,23 @@
    "model": "T65_L_ROW"
   }
  ],
+ "T70Max": [
+  {
+   "brand": "Teclast",
+   "name": "T70Max_EEA",
+   "model": "T70Max"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T70Max_ROW",
+   "model": "T70Max"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T70Max_US",
+   "model": "T70Max"
+  }
+ ],
  "T70Pro": [
   {
    "brand": "Teclast",
@@ -297743,6 +297821,13 @@
    "brand": "VALE",
    "name": "V10E_LTE_464",
    "model": "V10E_LTE_464"
+  }
+ ],
+ "V10E_W-4128": [
+  {
+   "brand": "VALE",
+   "name": "V10E_W-4128",
+   "model": "V10E_W-4128"
   }
  ],
  "V11E_LTE_4128": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-16
+Last sync is 2026-08-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6975,6 +6975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continential|Edison-Continential|komagome|Continental 2K Android TV|
 |Contixo|A1-64G|A1-64G|A1-64G|
 |Contixo|A10|A10|A10|
+|Contixo|A10a|A10a|A10|
 |Contixo|A10e|A10e|A10e|
 |Contixo|A7|A7|A7|
 |Contixo|A7_1|A7_1|A7|
@@ -7375,6 +7376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cristor|Trendy_2|Trendy_2|Trendy 2|
 |Croatian Telecom|KSTB6044|KSTB6044|KSTB6044|
 |Croma|43FDVRCHG5SP|ikebukuro|AI PONT|
+|Crosscall|27409-1|27409-1|27409-1|
 |Crosscall|Action-X3|HS8937QC|ACTION-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3 Pro|
@@ -9344,6 +9346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EGBOK|P803|P803|P803|
 |EGOBOO|EB101|EB101|EB101|
 |EGOBOO|EB104|EB104|EB104|
+|EGOTEK|1088T|1088T|G10|
 |EGOTEK|AK10|AK10|AK10|
 |EGOTEK|EGO1003|EGO1003|EGO1003|
 |EGOTEK|ET868|ET868|ET868|
@@ -17070,6 +17073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10WB2MSG01|HT10WB2MSG01|10WB2|
 |Hyundai|HT10WB3MSG01|HT10WB3MSG01|10WB3|
 |Hyundai|HT10WC1MSG01|HT10WC1MSG01|10WC1|
+|Hyundai|HT10WC1MSG01_EEA|HT10WC1MSG01|10WC1|
 |Hyundai|HT7GB1MBK_|HT7GB1MBK_|7GB1|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
 |Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
@@ -22047,6 +22051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT_Mobile|LT_mobile_E101|LT_mobile_E101|LT E101|
 |LT_Mobile|LT_mobile_E16|LT_mobile_E16|LT E16|
 |LT_Mobile|LT_mobile_E18|LT_mobile_E18|LT E18|
+|LT_Mobile|LT_mobile_E51|LT_mobile_E51|LT E51|
 |LT_Mobile|LT_mobile_K80|LT_mobile_K80|LT K80|
 |LT_Mobile|LT_mobile_S22|LT_mobile_S22|S22|
 |LT_Mobile|LT_mobile_S33|LT_mobile_S33|LT S33|
@@ -22055,7 +22060,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCKYSTAR|T10A|T10A|T10A|
 |LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
-|LUCOMS|IWB|rk3588_t|siwxxf1x|
 |LUCOMS|LUCMOS|hongkong|4K SMART TV|
 |LUCOMS|LUCOMS|elliniko|4K SMART TV|
 |LUCOMS|LUCOMS|mountbaker|2K SMART TV|
@@ -22063,6 +22067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUCOMS|LUCOMS|zhongshan|4K SMART TV|
 |LUCOMS|Smart TV|alimos|AI PONT|
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
+|LUCOMS-T|IWB|rk3588_t|siwxxf1x|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
 |LUMIO|LUMIO|khardi|LUMIO VISION|
 |LUMIO|Lumio Arc 5|himalaya|Lumio Arc 5|
@@ -23955,6 +23960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
 |M-KOPA|S34|S34|S34|
 |M-KOPA|S50|S50|S50|
+|M-KOPA|X4e|X4e|X4e|
 |M-tech|Eros Power|EROS_Power|EROS Power|
 |M-tech|Eros Smart|Eros_Smart|Eros Smart|
 |M-tech|Eros_Star|Eros_Star|Eros_Star|
@@ -26656,6 +26662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g35 5G|manila|moto g35 5G|
 |Motorola|moto g37|sydnyl|moto g - 2025|
 |Motorola|moto g37|sydnyl|moto g37|
+|Motorola|moto g37 M-51G|M-51G|M-51G|
 |Motorola|moto g37 power|sydnyl|moto g - 2025|
 |Motorola|moto g37 power|sydnyl|moto g37 power|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
@@ -29592,6 +29599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PLT130|OP5E1EL1|PLT130|
 |Oppo|PLT140|OP5E1EL1|PLT140|
 |Oppo|PLT150|OP5E1EL1|PLT150|
+|Oppo|PMM110|OP61F3L1|PMM110|
 |Oppo|Pad 4 Pro|OP615CL1|OPD2409|
 |Oppo|Pad 5|OP6573L1|OPD2502|
 |Oppo|Pad 5|OP6573L1|OPD2503|
@@ -29798,7 +29806,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno15 Pro Max 5G|OP6293L1|CPH2811|
 |Oppo|Reno15 Pro Mini 5G|OP629AL1|CPH2813|
 |Oppo|Reno15c|OP61BBL1|PMD110|
-|Oppo|Reno16|OP61F3L1|PMM110|
 |Oppo|Reno16 5G|OP6307L1|CPH2865|
 |Oppo|Reno16 F 5G|OP62F3L1|CPH2859|
 |Oppo|Reno16 F 5G|OP62F3L1|CPH2967|
@@ -34341,6 +34348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SALORA|SALORA|dongnae|SALORA|
 |SALT|SALT A78|SALT_A78|SALT A78|
+|SALT|TV box 2.0|HP4CH-NJJ|TV box 2.0|
 |SAMA|M1039A|M1039A|M1039A|
 |SAMPO|Android TV|R2|ATV R2|
 |SAMPO|R4|R4|R4|
@@ -39985,6 +39993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA AE M6L|BRAVIA_AE_M6L|BRAVIA 4K AE1|
 |Sony|BRAVIA AE2|BRAVIA_AE2|BRAVIA 4K AE2|
 |Sony|BRAVIA AE3|BRAVIA_AE3|BRAVIA 4K AE3|
+|Sony|BRAVIA DE1|hoshioki|BRAVIA DE1|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
 |Sony|BRAVIA TL|OD0M_EA_T32|BRAVIA TL|
 |Sony|BRAVIA TL2|OD0M_EA_T32|BRAVIA TL2|
@@ -43980,6 +43989,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T65_EEA|T65|T65_EEA|
 |Teclast|T65_L_ROW|T65_L|T65_L_ROW|
 |Teclast|T65_ROW|T65|T65_ROW|
+|Teclast|T70Max_EEA|T70Max|T70Max|
+|Teclast|T70Max_ROW|T70Max|T70Max|
+|Teclast|T70Max_US|T70Max|T70Max|
 |Teclast|T70Pro_ROW|T70Pro|T70Pro_ROW|
 |Teclast|T70_EEA|T70_EEA|T70_EEA|
 |Teclast|T70_E_ROW|T70_E|T70_E_ROW|
@@ -45880,6 +45892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VALE|V10A|V10A-4128|V10A|
 |VALE|V10E-LTE|V10E-LTE|V10E-LTE-464|
 |VALE|V10E_LTE_464|V10E_LTE_464|V10E_LTE_464|
+|VALE|V10E_W-4128|V10E_W-4128|V10E_W-4128|
 |VALE|V11E LTE_4128|V11E_LTE_4128|V11E LTE|
 |VALE|V12E LTE_14|V12E_LTE_8128|V12E LTE-8128|
 |VALE|V12E-LTE|V12E-LTE|V12E-LTE-8128|

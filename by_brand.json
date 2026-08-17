@@ -36169,6 +36169,11 @@
    "model": "A10"
   },
   {
+   "device": "A10a",
+   "name": "A10a",
+   "model": "A10"
+  },
+  {
    "device": "A10e",
    "name": "A10e",
    "model": "A10e"
@@ -38204,6 +38209,11 @@
   }
  ],
  "Crosscall": [
+  {
+   "device": "27409-1",
+   "name": "27409-1",
+   "model": "27409-1"
+  },
   {
    "device": "HS8937QC",
    "name": "Action-X3",
@@ -48439,6 +48449,11 @@
   }
  ],
  "EGOTEK": [
+  {
+   "device": "1088T",
+   "name": "1088T",
+   "model": "G10"
+  },
   {
    "device": "AK10",
    "name": "AK10",
@@ -88130,6 +88145,11 @@
    "model": "10WC1"
   },
   {
+   "device": "HT10WC1MSG01",
+   "name": "HT10WC1MSG01_EEA",
+   "model": "10WC1"
+  },
+  {
    "device": "HT7GB1MBK_",
    "name": "HT7GB1MBK_",
    "model": "7GB1"
@@ -113683,6 +113703,11 @@
    "model": "LT E18"
   },
   {
+   "device": "LT_mobile_E51",
+   "name": "LT_mobile_E51",
+   "model": "LT E51"
+  },
+  {
    "device": "LT_mobile_K80",
    "name": "LT_mobile_K80",
    "model": "LT K80"
@@ -113727,11 +113752,6 @@
    "model": "ATV R2"
   },
   {
-   "device": "rk3588_t",
-   "name": "IWB",
-   "model": "siwxxf1x"
-  },
-  {
    "device": "hongkong",
    "name": "LUCMOS",
    "model": "4K SMART TV"
@@ -113765,6 +113785,13 @@
    "device": "sindorim",
    "name": "UHD Android TV",
    "model": "AI PONT"
+  }
+ ],
+ "LUCOMS-T": [
+  {
+   "device": "rk3588_t",
+   "name": "IWB",
+   "model": "siwxxf1x"
   }
  ],
  "LUKE": [
@@ -123401,6 +123428,11 @@
    "device": "S50",
    "name": "S50",
    "model": "S50"
+  },
+  {
+   "device": "X4e",
+   "name": "X4e",
+   "model": "X4e"
   }
  ],
  "M-tech": [
@@ -137326,6 +137358,11 @@
    "device": "sydnyl",
    "name": "moto g37",
    "model": "moto g37"
+  },
+  {
+   "device": "M-51G",
+   "name": "moto g37 M-51G",
+   "model": "M-51G"
   },
   {
    "device": "sydnyl",
@@ -152506,6 +152543,11 @@
    "model": "PLT150"
   },
   {
+   "device": "OP61F3L1",
+   "name": "PMM110",
+   "model": "PMM110"
+  },
+  {
    "device": "OP615CL1",
    "name": "Pad 4 Pro",
    "model": "OPD2409"
@@ -153534,11 +153576,6 @@
    "device": "OP61BBL1",
    "name": "Reno15c",
    "model": "PMD110"
-  },
-  {
-   "device": "OP61F3L1",
-   "name": "Reno16",
-   "model": "PMM110"
   },
   {
    "device": "OP6307L1",
@@ -176919,6 +176956,11 @@
    "device": "SALT_A78",
    "name": "SALT A78",
    "model": "SALT A78"
+  },
+  {
+   "device": "HP4CH-NJJ",
+   "name": "TV box 2.0",
+   "model": "TV box 2.0"
   }
  ],
  "SAMA": [
@@ -205599,6 +205641,11 @@
    "model": "BRAVIA 4K AE3"
   },
   {
+   "device": "hoshioki",
+   "name": "BRAVIA DE1",
+   "model": "BRAVIA DE1"
+  },
+  {
    "device": "NSZGU1",
    "name": "BRAVIA Smart Stick",
    "model": "NSZ-GU1"
@@ -225996,6 +226043,21 @@
    "model": "T65_ROW"
   },
   {
+   "device": "T70Max",
+   "name": "T70Max_EEA",
+   "model": "T70Max"
+  },
+  {
+   "device": "T70Max",
+   "name": "T70Max_ROW",
+   "model": "T70Max"
+  },
+  {
+   "device": "T70Max",
+   "name": "T70Max_US",
+   "model": "T70Max"
+  },
+  {
    "device": "T70Pro",
    "name": "T70Pro_ROW",
    "model": "T70Pro_ROW"
@@ -235866,6 +235928,11 @@
    "device": "V10E_LTE_464",
    "name": "V10E_LTE_464",
    "model": "V10E_LTE_464"
+  },
+  {
+   "device": "V10E_W-4128",
+   "name": "V10E_W-4128",
+   "model": "V10E_W-4128"
   },
   {
    "device": "V11E_LTE_4128",
