@@ -2232,6 +2232,16 @@
    "model": "IB868H_A"
   },
   {
+   "device": "IH101F",
+   "name": "IH101F",
+   "model": "IH101F"
+  },
+  {
+   "device": "IH101F_Pro",
+   "name": "IH101F_Pro",
+   "model": "IH101F_Pro"
+  },
+  {
    "device": "ARTRAN_Tablet_1095",
    "name": "LI109Q",
    "model": "LI109Q"
@@ -42325,6 +42335,11 @@
    "model": "T115G"
   },
   {
+   "device": "T115G_INC",
+   "name": "T115G_INC",
+   "model": "T115G"
+  },
+  {
    "device": "T74G",
    "name": "T74G",
    "model": "T74G"
@@ -50092,6 +50107,11 @@
    "model": "Wave_i101u"
   },
   {
+   "device": "i101AC",
+   "name": "i101AC",
+   "model": "i101AC"
+  },
+  {
    "device": "i101GMC",
    "name": "i101GMC",
    "model": "i101GMC"
@@ -53804,6 +53824,11 @@
    "device": "F-51G",
    "name": "arrows Alpha2 F-51G",
    "model": "F-51G"
+  },
+  {
+   "device": "M10",
+   "name": "arrows Alpha2 M10",
+   "model": "M10"
   },
   {
    "device": "BZ02",
@@ -62905,6 +62930,26 @@
    "device": "stallion",
    "name": "Pixel 10a",
    "model": "Pixel 10a"
+  },
+  {
+   "device": "cubs",
+   "name": "Pixel 11",
+   "model": "Pixel 11"
+  },
+  {
+   "device": "grizzly",
+   "name": "Pixel 11 Pro",
+   "model": "Pixel 11 Pro"
+  },
+  {
+   "device": "yogi",
+   "name": "Pixel 11 Pro Fold",
+   "model": "Pixel 11 Pro Fold"
+  },
+  {
+   "device": "kodiak",
+   "name": "Pixel 11 Pro XL",
+   "model": "Pixel 11 Pro XL"
   },
   {
    "device": "walleye",
@@ -162998,6 +163043,11 @@
    "model": "Kids20_A16_JAE"
   },
   {
+   "device": "Kids20_A16_US_JAE",
+   "name": "Kids20_A16_US_JAE",
+   "model": "Kids20_A16_US_JAE"
+  },
+  {
    "device": "Kids20_EEA",
    "name": "Kids20_EEA",
    "model": "Kids20"
@@ -164554,6 +164604,11 @@
    "device": "TL10",
    "name": "TL10",
    "model": "Vaio TL10A"
+  },
+  {
+   "device": "TUPI1500",
+   "name": "TUPI 1500",
+   "model": "TUPI1500"
   },
   {
    "device": "T2050M",
@@ -167637,6 +167692,11 @@
    "device": "M10-EEA",
    "name": "M10-EEA",
    "model": "M10-EEA"
+  },
+  {
+   "device": "M10_001EEA",
+   "name": "M10_001EEA",
+   "model": "M10"
   },
   {
    "device": "M10_A01_EEA",
@@ -181184,6 +181244,13 @@
    "device": "dtiw384wb",
    "name": "Wibox",
    "model": "m384wb"
+  }
+ ],
+ "Sailproof": [
+  {
+   "device": "SP10X_EEA",
+   "name": "SP10X_EEA",
+   "model": "SP10X_EEA"
   }
  ],
  "Saltillo": [
@@ -223004,6 +223071,13 @@
    "device": "TONE_e22",
    "name": "TONE_e22",
    "model": "TONE_e22"
+  }
+ ],
+ "TOPDON": [
+  {
+   "device": "ONEPro",
+   "name": "ONEPro",
+   "model": "ONEPro"
   }
  ],
  "TOPELOTEK": [
@@ -271783,6 +271857,11 @@
    "device": "RE648B",
    "name": "realme C100i",
    "model": "RMX5377"
+  },
+  {
+   "device": "RE67EF",
+   "name": "realme C100i",
+   "model": "RMX5399"
   },
   {
    "device": "RE6488",

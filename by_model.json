@@ -6625,6 +6625,11 @@
    "device": "M10"
   },
   {
+   "brand": "FCNT",
+   "name": "arrows Alpha2 M10",
+   "device": "M10"
+  },
+  {
    "brand": "HUIHUANG",
    "name": "M10_EU",
    "device": "M10"
@@ -6663,6 +6668,11 @@
    "brand": "Pritom",
    "name": "M10",
    "device": "M10_A05_EEA"
+  },
+  {
+   "brand": "Pritom",
+   "name": "M10_001EEA",
+   "device": "M10_001EEA"
   },
   {
    "brand": "Pritom",
@@ -7948,6 +7958,20 @@
    "brand": "ARTRAN",
    "name": "IB868H_A",
    "device": "IB868H_A"
+  }
+ ],
+ "IH101F": [
+  {
+   "brand": "ARTRAN",
+   "name": "IH101F",
+   "device": "IH101F"
+  }
+ ],
+ "IH101F_Pro": [
+  {
+   "brand": "ARTRAN",
+   "name": "IH101F_Pro",
+   "device": "IH101F_Pro"
   }
  ],
  "LI109Q": [
@@ -64272,6 +64296,11 @@
    "brand": "Datamini",
    "name": "T115G",
    "device": "T115G"
+  },
+  {
+   "brand": "Datamini",
+   "name": "T115G_INC",
+   "device": "T115G_INC"
   }
  ],
  "VT502A": [
@@ -76034,6 +76063,13 @@
    "brand": "EXO S.A.",
    "name": "Wave_i101u",
    "device": "Wave_i101u"
+  }
+ ],
+ "i101AC": [
+  {
+   "brand": "EXO S.A.",
+   "name": "i101AC",
+   "device": "i101AC"
   }
  ],
  "i101GMC": [
@@ -92998,6 +93034,34 @@
    "brand": "Google",
    "name": "Pixel 10a",
    "device": "stallion"
+  }
+ ],
+ "Pixel 11": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11",
+   "device": "cubs"
+  }
+ ],
+ "Pixel 11 Pro": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11 Pro",
+   "device": "grizzly"
+  }
+ ],
+ "Pixel 11 Pro Fold": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11 Pro Fold",
+   "device": "yogi"
+  }
+ ],
+ "Pixel 11 Pro XL": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11 Pro XL",
+   "device": "kodiak"
   }
  ],
  "Pixel 2": [
@@ -217973,6 +218037,13 @@
    "device": "Kids20_A16_JAE"
   }
  ],
+ "Kids20_A16_US_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "Kids20_A16_US_JAE",
+   "device": "Kids20_A16_US_JAE"
+  }
+ ],
  "Kids20_PA15": [
   {
    "brand": "Plimpton",
@@ -219900,6 +219971,13 @@
    "brand": "Positivo",
    "name": "TL10",
    "device": "TL10"
+  }
+ ],
+ "TUPI1500": [
+  {
+   "brand": "Positivo",
+   "name": "TUPI 1500",
+   "device": "TUPI1500"
   }
  ],
  "Positivo Twist M": [
@@ -239034,6 +239112,13 @@
    "brand": "Wibox",
    "name": "WiboxTv",
    "device": "dtiw384wb"
+  }
+ ],
+ "SP10X_EEA": [
+  {
+   "brand": "Sailproof",
+   "name": "SP10X_EEA",
+   "device": "SP10X_EEA"
   }
  ],
  "CF10": [
@@ -293395,6 +293480,13 @@
    "brand": "TONE",
    "name": "TONE_e22",
    "device": "TONE_e22"
+  }
+ ],
+ "ONEPro": [
+  {
+   "brand": "TOPDON",
+   "name": "ONEPro",
+   "device": "ONEPro"
   }
  ],
  "KIDS06": [
@@ -351834,6 +351926,13 @@
    "brand": "realme",
    "name": "realme C100",
    "device": "RE646B"
+  }
+ ],
+ "RMX5399": [
+  {
+   "brand": "realme",
+   "name": "realme C100i",
+   "device": "RE67EF"
   }
  ],
  "RMX3263": [

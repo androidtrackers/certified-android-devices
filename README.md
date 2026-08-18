@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-17
+Last sync is 2026-08-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -414,6 +414,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARTRAN|IB119Q|IB119Q|IB119Q|
 |ARTRAN|IB868H|IB868H|IB868H|
 |ARTRAN|IB868H_A|IB868H_A|IB868H_A|
+|ARTRAN|IH101F|IH101F|IH101F|
+|ARTRAN|IH101F_Pro|IH101F_Pro|IH101F_Pro|
 |ARTRAN|LI109Q|ARTRAN_Tablet_1095|LI109Q|
 |ARZOPA|P1|ARZOPA_P1|ARZOPA P1|
 |ARZOPA|P1|P1|P1|
@@ -8167,6 +8169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|T104G_T618|T104G|T104G|
 |Datamini|T104G_T618_A14|T104G_T618_A14|T104G|
 |Datamini|T115G|T115G|T115G|
+|Datamini|T115G_INC|T115G_INC|T115G|
 |Datamini|T74G|T74G|T74G|
 |Datamini|T8004G|T8004G|T8004G|
 |Datamini|T8004GR|T8004GR|T8004G|
@@ -9656,6 +9659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EXO S.A.|Wave_i101MC|Wave_i101MC|Wave_i101MC|
 |EXO S.A.|Wave_i101T4|Wave_i101T4|Wave_i101T4|
 |EXO S.A.|Wave_i101u|Wave_i101u|Wave_i101u|
+|EXO S.A.|i101AC|i101AC|i101AC|
 |EXO S.A.|i101GMC|i101GMC|i101GMC|
 |EXO S.A.|i101T2|i101T2|TabletEXO_Wave_i101T2|
 |EXO S.A.|wave-i007w|wave-i007w|wave-i007w|
@@ -10356,6 +10360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows Alpha F-51F|F-51F|F-51F|
 |FCNT|arrows Alpha M08|fuji|M08|
 |FCNT|arrows Alpha2 F-51G|F-51G|F-51G|
+|FCNT|arrows Alpha2 M10|M10|M10|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows BZ03|BZ03|BZ03|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
@@ -12095,6 +12100,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 10 Pro Fold|rango|Pixel 10 Pro Fold|
 |Google|Pixel 10 Pro XL|mustang|Pixel 10 Pro XL|
 |Google|Pixel 10a|stallion|Pixel 10a|
+|Google|Pixel 11|cubs|Pixel 11|
+|Google|Pixel 11 Pro|grizzly|Pixel 11 Pro|
+|Google|Pixel 11 Pro Fold|yogi|Pixel 11 Pro Fold|
+|Google|Pixel 11 Pro XL|kodiak|Pixel 11 Pro XL|
 |Google|Pixel 2|walleye|Pixel 2|
 |Google|Pixel 2 XL|taimen|Pixel 2 XL|
 |Google|Pixel 3|blueline|Pixel 3|
@@ -31642,6 +31651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids20A15_EEA|Kids20A15_EEA|Kids20|
 |Plimpton|Kids20_A16_EEA_JAE|Kids20_A16_EEA_JAE|Kids20_A16_EEA_JAE|
 |Plimpton|Kids20_A16_JAE|Kids20_A16_JAE|Kids20_A16_JAE|
+|Plimpton|Kids20_A16_US_JAE|Kids20_A16_US_JAE|Kids20_A16_US_JAE|
 |Plimpton|Kids20_EEA|Kids20_EEA|Kids20|
 |Plimpton|Kids20_PA15|Kids20_PA15|Kids20_PA15|
 |Plimpton|Kids20_PA15_EEA|Kids20_PA15_EEA|Kids20_PA15_EEA|
@@ -31946,6 +31956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|TL10|TL10|TL10|
 |Positivo|TL10|TL10|Vaio TL10|
 |Positivo|TL10|TL10|Vaio TL10A|
+|Positivo|TUPI 1500|TUPI1500|TUPI1500|
 |Positivo|Tab Q10|T2050M|Tab Q10|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
@@ -32555,6 +32566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10|M10_A01|M10|
 |Pritom|M10|M10_A05_EEA|M10|
 |Pritom|M10-EEA|M10-EEA|M10-EEA|
+|Pritom|M10_001EEA|M10_001EEA|M10|
 |Pritom|M10_A01_EEA|M10_A01_EEA|M10|
 |Pritom|M10_A06|M10_A06|M10|
 |Pritom|M10_A06_EEA|M10_A06_EEA|M10|
@@ -35148,6 +35160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safex_Instruments|Ex Mobile 20|Ex_Mobile_20|Ex_Mobile_20_Series|
 |Safex_Instruments|Ex_Mobile_20_NC|Ex_Mobile_20_NC|Ex_Mobile_20_Series|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
+|Sailproof|SP10X_EEA|SP10X_EEA|SP10X_EEA|
 |Saltillo|CF10|CF10|CF10|
 |Samsonix|A1250|A1250|A125|
 |Samsonix|A1250|A1250|A1250|
@@ -43408,6 +43421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TONE|TONE e20|TONE_e20|TONE e20|
 |TONE|TONE_e21|TONE_e21|TONE_e21|
 |TONE|TONE_e22|TONE_e22|TONE_e22|
+|TOPDON|ONEPro|ONEPro|ONEPro|
 |TOPELOTEK|KIDS06|KIDS06|KIDS06|
 |TOPELOTEK|KIDS08-X8|KIDS08-X8|KIDS08-X8|
 |TOPELOTEK|KIDS09S|KIDS09S|KIDS09S|
@@ -52853,6 +52867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C100|RE646B|RMX5353|
 |realme|realme C100 5G|RE6478L1|RMX5258|
 |realme|realme C100i|RE648B|RMX5377|
+|realme|realme C100i|RE67EF|RMX5399|
 |realme|realme C100x|RE6488|RMX5366|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15|RMX2180|RMX2180|

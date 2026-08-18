@@ -9741,6 +9741,20 @@
    "model": "IB868H_A"
   }
  ],
+ "IH101F": [
+  {
+   "brand": "ARTRAN",
+   "name": "IH101F",
+   "model": "IH101F"
+  }
+ ],
+ "IH101F_Pro": [
+  {
+   "brand": "ARTRAN",
+   "name": "IH101F_Pro",
+   "model": "IH101F_Pro"
+  }
+ ],
  "ARTRAN_Tablet_1095": [
   {
    "brand": "ARTRAN",
@@ -55891,6 +55905,11 @@
    "model": "M10"
   },
   {
+   "brand": "FCNT",
+   "name": "arrows Alpha2 M10",
+   "model": "M10"
+  },
+  {
    "brand": "HUIHUANG",
    "name": "M10_EU",
    "model": "M10"
@@ -72334,6 +72353,13 @@
    "model": "T115G"
   }
  ],
+ "T115G_INC": [
+  {
+   "brand": "Datamini",
+   "name": "T115G_INC",
+   "model": "T115G"
+  }
+ ],
  "T74G": [
   {
    "brand": "Datamini",
@@ -82426,6 +82452,13 @@
    "brand": "EXO S.A.",
    "name": "Wave_i101u",
    "model": "Wave_i101u"
+  }
+ ],
+ "i101AC": [
+  {
+   "brand": "EXO S.A.",
+   "name": "i101AC",
+   "model": "i101AC"
   }
  ],
  "i101GMC": [
@@ -98566,6 +98599,34 @@
    "brand": "Google",
    "name": "Pixel 10a",
    "model": "Pixel 10a"
+  }
+ ],
+ "cubs": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11",
+   "model": "Pixel 11"
+  }
+ ],
+ "grizzly": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11 Pro",
+   "model": "Pixel 11 Pro"
+  }
+ ],
+ "yogi": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11 Pro Fold",
+   "model": "Pixel 11 Pro Fold"
+  }
+ ],
+ "kodiak": [
+  {
+   "brand": "Google",
+   "name": "Pixel 11 Pro XL",
+   "model": "Pixel 11 Pro XL"
   }
  ],
  "walleye": [
@@ -215424,6 +215485,13 @@
    "model": "Kids20_A16_JAE"
   }
  ],
+ "Kids20_A16_US_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "Kids20_A16_US_JAE",
+   "model": "Kids20_A16_US_JAE"
+  }
+ ],
  "Kids20_EEA": [
   {
    "brand": "Plimpton",
@@ -217228,6 +217296,13 @@
    "brand": "Positivo",
    "name": "TL10",
    "model": "Vaio TL10A"
+  }
+ ],
+ "TUPI1500": [
+  {
+   "brand": "Positivo",
+   "name": "TUPI 1500",
+   "model": "TUPI1500"
   }
  ],
  "T2050M": [
@@ -220852,6 +220927,13 @@
    "brand": "Pritom",
    "name": "M10-EEA",
    "model": "M10-EEA"
+  }
+ ],
+ "M10_001EEA": [
+  {
+   "brand": "Pritom",
+   "name": "M10_001EEA",
+   "model": "M10"
   }
  ],
  "M10_A01_EEA": [
@@ -234796,6 +234878,13 @@
    "brand": "Wibox",
    "name": "WiboxTv",
    "model": "m384wb"
+  }
+ ],
+ "SP10X_EEA": [
+  {
+   "brand": "Sailproof",
+   "name": "SP10X_EEA",
+   "model": "SP10X_EEA"
   }
  ],
  "CF10": [
@@ -283210,6 +283299,13 @@
    "brand": "TONE",
    "name": "TONE_e22",
    "model": "TONE_e22"
+  }
+ ],
+ "ONEPro": [
+  {
+   "brand": "TOPDON",
+   "name": "ONEPro",
+   "model": "ONEPro"
   }
  ],
  "KIDS06": [
@@ -337679,6 +337775,13 @@
    "brand": "realme",
    "name": "realme C100",
    "model": "RMX5353"
+  }
+ ],
+ "RE67EF": [
+  {
+   "brand": "realme",
+   "name": "realme C100i",
+   "model": "RMX5399"
   }
  ],
  "RMX2195L1": [
