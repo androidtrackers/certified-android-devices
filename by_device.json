@@ -70871,6 +70871,13 @@
    "model": "D103"
   }
  ],
+ "D103_US": [
+  {
+   "brand": "DOMATON",
+   "name": "D103_US",
+   "model": "D103_US"
+  }
+ ],
  "D718": [
   {
    "brand": "DOMATON",
@@ -74491,6 +74498,13 @@
    "brand": "DigitEdge",
    "name": "Pad12pro",
    "model": "Pad12pro"
+  }
+ ],
+ "Pad12ultra": [
+  {
+   "brand": "DigitEdge",
+   "name": "Pad12ultra",
+   "model": "Pad12ultra"
   }
  ],
  "nuclear-D2_Deluxe": [
@@ -113707,6 +113721,13 @@
    "model": "TYH201H"
   }
  ],
+ "TWBXXXXXXX24A": [
+  {
+   "brand": "Hitevision",
+   "name": "TWBXXXXXXX24A",
+   "model": "TWBXXXXXXX24A"
+  }
+ ],
  "5-0": [
   {
    "brand": "Hiya",
@@ -116103,6 +116124,28 @@
    "brand": "Honor",
    "name": "HONOR X7e",
    "model": "LAB-LX3"
+  }
+ ],
+ "HNMRK-QL": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X7e Plus",
+   "model": "MRK-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X7e Plus",
+   "model": "MRK-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8e",
+   "model": "MRK-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8e s",
+   "model": "MRK-LX3"
   }
  ],
  "HNTFY-Q": [
@@ -155825,6 +155868,11 @@
   }
  ],
  "Logic_L-PAD_PRO": [
+  {
+   "brand": "LOGIC",
+   "name": "L-PAD-PRO-BK",
+   "model": "Logic L-PAD_PRO"
+  },
   {
    "brand": "LOGIC",
    "name": "L-PAD-PRO-BK",
@@ -208872,6 +208920,13 @@
    "brand": "PIXGOOD",
    "name": "M902-EEA",
    "model": "M902-EEA"
+  }
+ ],
+ "PIXIUM_X7": [
+  {
+   "brand": "PIXIUM",
+   "name": "PIXIUM_X7",
+   "model": "X7"
   }
  ],
  "L60-EEA": [
@@ -291968,7 +292023,12 @@
  "mdt880": [
   {
    "brand": "Topicon",
-   "name": "mdt880",
+   "name": "mdt880_gms",
+   "model": "mdt880"
+  },
+  {
+   "brand": "Topicon",
+   "name": "mdt880_row",
    "model": "mdt880"
   }
  ],
@@ -335001,6 +335061,13 @@
    "model": "V2520A"
   }
  ],
+ "PD2573": [
+  {
+   "brand": "iQOO",
+   "name": "iQOO Neo11 至尊版",
+   "model": "V2573A"
+  }
+ ],
  "DPD2437": [
   {
    "brand": "iQOO",
@@ -335982,6 +336049,13 @@
    "brand": "kozen",
    "name": "T5",
    "model": "T5"
+  }
+ ],
+ "HM": [
+  {
+   "brand": "leaderhub",
+   "name": "Leaderhub",
+   "model": "HM"
   }
  ],
  "Mini_Tab8": [

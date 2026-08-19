@@ -68822,6 +68822,13 @@
    "model": "D103"
   }
  ],
+ "D103_US": [
+  {
+   "brand": "DOMATON",
+   "device": "D103_US",
+   "model": "D103_US"
+  }
+ ],
  "D718": [
   {
    "brand": "DOMATON",
@@ -72564,6 +72571,13 @@
    "brand": "DigitEdge",
    "device": "Pad12pro",
    "model": "Pad12pro"
+  }
+ ],
+ "Pad12ultra": [
+  {
+   "brand": "DigitEdge",
+   "device": "Pad12ultra",
+   "model": "Pad12ultra"
   }
  ],
  "Deluxe": [
@@ -114151,6 +114165,13 @@
    "model": "AI PONT"
   }
  ],
+ "TWBXXXXXXX24A": [
+  {
+   "brand": "Hitevision",
+   "device": "TWBXXXXXXX24A",
+   "model": "TWBXXXXXXX24A"
+  }
+ ],
  "5-0": [
   {
    "brand": "Hiya",
@@ -116380,6 +116401,18 @@
    "model": "LAB-LX3"
   }
  ],
+ "HONOR X7e Plus": [
+  {
+   "brand": "Honor",
+   "device": "HNMRK-QL",
+   "model": "MRK-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNMRK-QL",
+   "model": "MRK-LX2"
+  }
+ ],
  "HONOR X8": [
   {
    "brand": "Honor",
@@ -116472,6 +116505,20 @@
    "brand": "Honor",
    "device": "HNLNA-Q",
    "model": "LNA-LX3"
+  }
+ ],
+ "HONOR X8e": [
+  {
+   "brand": "Honor",
+   "device": "HNMRK-QL",
+   "model": "MRK-LX1"
+  }
+ ],
+ "HONOR X8e s": [
+  {
+   "brand": "Honor",
+   "device": "HNMRK-QL",
+   "model": "MRK-LX3"
   }
  ],
  "HONOR X9": [
@@ -155421,6 +155468,11 @@
   }
  ],
  "L-PAD-PRO-BK": [
+  {
+   "brand": "LOGIC",
+   "device": "Logic_L-PAD_PRO",
+   "model": "Logic L-PAD_PRO"
+  },
   {
    "brand": "LOGIC",
    "device": "Logic_L-PAD_PRO",
@@ -207608,6 +207660,13 @@
    "brand": "PIXGOOD",
    "device": "M902-EEA",
    "model": "M902-EEA"
+  }
+ ],
+ "PIXIUM_X7": [
+  {
+   "brand": "PIXIUM",
+   "device": "PIXIUM_X7",
+   "model": "X7"
   }
  ],
  "L60-EEA": [
@@ -291098,7 +291157,14 @@
    "model": "mdt865"
   }
  ],
- "mdt880": [
+ "mdt880_gms": [
+  {
+   "brand": "Topicon",
+   "device": "mdt880",
+   "model": "mdt880"
+  }
+ ],
+ "mdt880_row": [
   {
    "brand": "Topicon",
    "device": "mdt880",
@@ -335429,6 +335495,13 @@
    "model": "V2520A"
   }
  ],
+ "iQOO Neo11 至尊版": [
+  {
+   "brand": "iQOO",
+   "device": "PD2573",
+   "model": "V2573A"
+  }
+ ],
  "iQOO Pad5": [
   {
    "brand": "iQOO",
@@ -336433,6 +336506,13 @@
    "brand": "kozen",
    "device": "P18",
    "model": "P18"
+  }
+ ],
+ "Leaderhub": [
+  {
+   "brand": "leaderhub",
+   "device": "HM",
+   "model": "HM"
   }
  ],
  "Mini_Tab8": [

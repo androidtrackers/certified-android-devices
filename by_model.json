@@ -64222,6 +64222,13 @@
    "device": "D103"
   }
  ],
+ "D103_US": [
+  {
+   "brand": "DOMATON",
+   "name": "D103_US",
+   "device": "D103_US"
+  }
+ ],
  "D718": [
   {
    "brand": "DOMATON",
@@ -64821,6 +64828,11 @@
    "brand": "OMIX",
    "name": "X7",
    "device": "X7"
+  },
+  {
+   "brand": "PIXIUM",
+   "name": "PIXIUM_X7",
+   "device": "PIXIUM_X7"
   },
   {
    "brand": "SBET",
@@ -68034,6 +68046,18 @@
    "brand": "VIKUSHA",
    "name": "V_M1",
    "device": "V_M1"
+  }
+ ],
+ "Pad12ultra": [
+  {
+   "brand": "DigitEdge",
+   "name": "Pad12ultra",
+   "device": "Pad12ultra"
+  },
+  {
+   "brand": "JoyStar",
+   "name": "Joystar_J16",
+   "device": "Joystar_J16"
   }
  ],
  "Digital2-Deluxe": [
@@ -110110,6 +110134,13 @@
    "device": "shinjuku"
   }
  ],
+ "TWBXXXXXXX24A": [
+  {
+   "brand": "Hitevision",
+   "name": "TWBXXXXXXX24A",
+   "device": "TWBXXXXXXX24A"
+  }
+ ],
  "5-0": [
   {
    "brand": "Hiya",
@@ -112526,6 +112557,25 @@
    "device": "HNLAB-M"
   }
  ],
+ "MRK-LX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X7e Plus",
+   "device": "HNMRK-QL"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8e",
+   "device": "HNMRK-QL"
+  }
+ ],
+ "MRK-LX2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X7e Plus",
+   "device": "HNMRK-QL"
+  }
+ ],
  "TFY-LX1": [
   {
    "brand": "Honor",
@@ -112636,6 +112686,13 @@
    "brand": "Honor",
    "name": "HONOR X8d",
    "device": "HNLNA-Q"
+  }
+ ],
+ "MRK-LX3": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8e s",
+   "device": "HNMRK-QL"
   }
  ],
  "ANY-LX2": [
@@ -139301,13 +139358,6 @@
    "device": "Joystar_J16"
   }
  ],
- "Pad12ultra": [
-  {
-   "brand": "JoyStar",
-   "name": "Joystar_J16",
-   "device": "Joystar_J16"
-  }
- ],
  "M25": [
   {
    "brand": "Jubiter",
@@ -156864,6 +156914,18 @@
    "device": "RK3576"
   }
  ],
+ "Logic L-PAD_PRO": [
+  {
+   "brand": "LOGIC",
+   "name": "L-PAD-PRO-BK",
+   "device": "Logic_L-PAD_PRO"
+  },
+  {
+   "brand": "LOGIC",
+   "name": "Logic_L-PAD_PRO",
+   "device": "Logic_L-PAD_PRO"
+  }
+ ],
  "Logic_L-PAD_PRO": [
   {
    "brand": "LOGIC",
@@ -156916,13 +156978,6 @@
    "brand": "LOGIC",
    "name": "Logic L68M Plus",
    "device": "Logic_L68M_Plus"
-  }
- ],
- "Logic L-PAD_PRO": [
-  {
-   "brand": "LOGIC",
-   "name": "Logic_L-PAD_PRO",
-   "device": "Logic_L-PAD_PRO"
   }
  ],
  "Logic_LT_IRXXZX": [
@@ -302509,7 +302564,12 @@
  "mdt880": [
   {
    "brand": "Topicon",
-   "name": "mdt880",
+   "name": "mdt880_gms",
+   "device": "mdt880"
+  },
+  {
+   "brand": "Topicon",
+   "name": "mdt880_row",
    "device": "mdt880"
   }
  ],
@@ -349281,6 +349341,13 @@
    "device": "PD2520"
   }
  ],
+ "V2573A": [
+  {
+   "brand": "iQOO",
+   "name": "iQOO Neo11 至尊版",
+   "device": "PD2573"
+  }
+ ],
  "iPA2556": [
   {
    "brand": "iQOO",
@@ -350291,6 +350358,13 @@
    "brand": "kozen",
    "name": "P18",
    "device": "P18"
+  }
+ ],
+ "HM": [
+  {
+   "brand": "leaderhub",
+   "name": "Leaderhub",
+   "device": "HM"
   }
  ],
  "Mini_Tab8": [

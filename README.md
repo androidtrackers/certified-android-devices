@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-18
+Last sync is 2026-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7955,6 +7955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOEL|TT 7.0|TT_7_0|TT 7.0|
 |DOMATON|D102|D102|D102|
 |DOMATON|D103|D103|D103|
+|DOMATON|D103_US|D103_US|D103_US|
 |DOMATON|D718|D718|D718|
 |DOMATON|K111|K111|K111|
 |DOMATON|K712|K712|K712|
@@ -8493,6 +8494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|Tab2|Tab2|Tab2|
 |Digit|Titan_5G|Titan_5G|Titan 5G|
 |DigitEdge|Pad12pro|Pad12pro|Pad12pro|
+|DigitEdge|Pad12ultra|Pad12ultra|Pad12ultra|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
 |Digital2|Plus|Digital2Plus|Digital2 Plus|
@@ -14715,6 +14717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hitachi|Hitachi|komagome|Hitachi 2K Android TV|
 |Hitachi|HitachiTV|shinjuku|HitachiTV|
 |Hitachi|LD50CHS04U|samseong|AI PONT|
+|Hitevision|TWBXXXXXXX24A|TWBXXXXXXX24A|TWBXXXXXXX24A|
 |Hiya|5-0|5-0|5-0|
 |Hiya|5-0|5_0|5-0|
 |Hiya|5-0|HIYA_5_0|5-0|
@@ -15079,6 +15082,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X7e|HNLAB-M|LAB-LX1|
 |Honor|HONOR X7e|HNLAB-M|LAB-LX2|
 |Honor|HONOR X7e|HNLAB-M|LAB-LX3|
+|Honor|HONOR X7e Plus|HNMRK-QL|MRK-LX1|
+|Honor|HONOR X7e Plus|HNMRK-QL|MRK-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
@@ -15095,6 +15100,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X8c|HNABR-Q|ABR-LX3|
 |Honor|HONOR X8d|HNLNA-Q|LNA-LX2|
 |Honor|HONOR X8d|HNLNA-Q|LNA-LX3|
+|Honor|HONOR X8e|HNMRK-QL|MRK-LX1|
+|Honor|HONOR X8e s|HNMRK-QL|MRK-LX3|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX2|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
@@ -21984,6 +21991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LOGIC|AZ_Series|rk3576_u|Logic_LT_IRXXHX|
 |LOGIC|EX_Series|RK3576|LT-IR65EX|
 |LOGIC|HX_Series|MTK9679|Logic_LT_IRXXHX|
+|LOGIC|L-PAD-PRO-BK|Logic_L-PAD_PRO|Logic L-PAD_PRO|
 |LOGIC|L-PAD-PRO-BK|Logic_L-PAD_PRO|Logic_L-PAD_PRO|
 |LOGIC|L65E|L65E|L65E|
 |LOGIC|L66F|L66F|L66F|
@@ -30635,6 +30643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PIXGOOD|M328-EEA|M328-EEA|M328-EEA|
 |PIXGOOD|M618-EEA|M618-EEA|M618-EEA|
 |PIXGOOD|M902-EEA|M902-EEA|M902-EEA|
+|PIXIUM|PIXIUM_X7|PIXIUM_X7|X7|
 |PIXPEAK|L60-EEA|L60-EEA|L60-EEA|
 |PIXPEAK|M186-EEA|M186-EEA|M186-EEA|
 |PIXPEAK|M258-EEA|M258-EEA|M258-EEA|
@@ -44851,7 +44860,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topicon|Topicon MDT1060|mdt1060|mdt1060|
 |Topicon|mdt865_gms|mdt865|mdt865|
 |Topicon|mdt865_row|mdt865|mdt865|
-|Topicon|mdt880|mdt880|mdt880|
+|Topicon|mdt880_gms|mdt880|mdt880|
+|Topicon|mdt880_row|mdt880|mdt880|
 |Topsand|G12|G12_A14|G12|
 |Topsand|G12_Mini_S|G12_Mini_S|G12_Mini_S|
 |Topsand|G12_Pro|G12_Pro|G12_Pro|
@@ -52391,6 +52401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Neo 10|I2405|I2408|
 |iQOO|iQOO Neo10 Pro+|PD2463|V2463A|
 |iQOO|iQOO Neo11|PD2520|V2520A|
+|iQOO|iQOO Neo11 至尊版|PD2573|V2573A|
 |iQOO|iQOO Pad5|DPD2437|iPA2556|
 |iQOO|iQOO Pad5 Pro|DPD2429|iPA2575|
 |iQOO|iQOO Pad5e|DPD2345|iPA2453|
@@ -52574,6 +52585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |kozen|D8|D8|D8|
 |kozen|P18|P18|P18|
 |kozen|T5|T05|T5|
+|leaderhub|Leaderhub|HM|HM|
 |leaderhub|Mini_Tab8|Mini_Tab8|Mini_Tab8|
 |leaderhub|S18PRO-H_EEA|S18PRO-H_EEA|S18PRO-H|
 |leaderhub|S19_EEA|S19_EEA|S19|

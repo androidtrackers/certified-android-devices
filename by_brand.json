@@ -41203,6 +41203,11 @@
    "model": "D103"
   },
   {
+   "device": "D103_US",
+   "name": "D103_US",
+   "model": "D103_US"
+  },
+  {
    "device": "D718",
    "name": "D718",
    "model": "D718"
@@ -44047,6 +44052,11 @@
    "device": "Pad12pro",
    "name": "Pad12pro",
    "model": "Pad12pro"
+  },
+  {
+   "device": "Pad12ultra",
+   "name": "Pad12ultra",
+   "model": "Pad12ultra"
   }
  ],
  "Digital2": [
@@ -76277,6 +76287,13 @@
    "model": "AI PONT"
   }
  ],
+ "Hitevision": [
+  {
+   "device": "TWBXXXXXXX24A",
+   "name": "TWBXXXXXXX24A",
+   "model": "TWBXXXXXXX24A"
+  }
+ ],
  "Hiya": [
   {
    "device": "5-0",
@@ -78125,6 +78142,16 @@
    "model": "LAB-LX3"
   },
   {
+   "device": "HNMRK-QL",
+   "name": "HONOR X7e Plus",
+   "model": "MRK-LX1"
+  },
+  {
+   "device": "HNMRK-QL",
+   "name": "HONOR X7e Plus",
+   "model": "MRK-LX2"
+  },
+  {
    "device": "HNTFY-Q",
    "name": "HONOR X8",
    "model": "TFY-LX1"
@@ -78203,6 +78230,16 @@
    "device": "HNLNA-Q",
    "name": "HONOR X8d",
    "model": "LNA-LX3"
+  },
+  {
+   "device": "HNMRK-QL",
+   "name": "HONOR X8e",
+   "model": "MRK-LX1"
+  },
+  {
+   "device": "HNMRK-QL",
+   "name": "HONOR X8e s",
+   "model": "MRK-LX3"
   },
   {
    "device": "HNANY-Q1",
@@ -113350,6 +113387,11 @@
    "device": "MTK9679",
    "name": "HX_Series",
    "model": "Logic_LT_IRXXHX"
+  },
+  {
+   "device": "Logic_L-PAD_PRO",
+   "name": "L-PAD-PRO-BK",
+   "model": "Logic L-PAD_PRO"
   },
   {
    "device": "Logic_L-PAD_PRO",
@@ -157819,6 +157861,13 @@
    "device": "M902-EEA",
    "name": "M902-EEA",
    "model": "M902-EEA"
+  }
+ ],
+ "PIXIUM": [
+  {
+   "device": "PIXIUM_X7",
+   "name": "PIXIUM_X7",
+   "model": "X7"
   }
  ],
  "PIXPEAK": [
@@ -230498,7 +230547,12 @@
   },
   {
    "device": "mdt880",
-   "name": "mdt880",
+   "name": "mdt880_gms",
+   "model": "mdt880"
+  },
+  {
+   "device": "mdt880",
+   "name": "mdt880_row",
    "model": "mdt880"
   }
  ],
@@ -269349,6 +269403,11 @@
    "model": "V2520A"
   },
   {
+   "device": "PD2573",
+   "name": "iQOO Neo11 至尊版",
+   "model": "V2573A"
+  },
+  {
    "device": "DPD2437",
    "name": "iQOO Pad5",
    "model": "iPA2556"
@@ -270335,6 +270394,11 @@
   }
  ],
  "leaderhub": [
+  {
+   "device": "HM",
+   "name": "Leaderhub",
+   "model": "HM"
+  },
   {
    "device": "Mini_Tab8",
    "name": "Mini_Tab8",
