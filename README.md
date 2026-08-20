@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-19
+Last sync is 2026-08-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -48518,6 +48518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
 |Wintouch|A20|A20|A20|
+|Wintouch|A20|A20|A20K|
 |Wintouch|A50|A50|A50|
 |Wintouch|A60_EEA|A60_EEA|A60|
 |Wintouch|A80|A80|A80|
@@ -52084,6 +52085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBRIT|MAX7|MAX7|MAX7|
 |iBRIT|MAX8|MAX8|MAX8|
 |iBRIT|Max12pro|Max12pro|Kidz Pro|
+|iBRIT|Nova_N1|Nova_N1|Nova_N1|
 |iBRIT|POWER_X|POWER_X|POWER_X|
 |iBRIT|Speed_Pro_Plus|SF56|SF56|
 |iBRIT|VEGA|VEGA|VEGA|

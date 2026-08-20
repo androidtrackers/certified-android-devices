@@ -42811,6 +42811,11 @@
    "brand": "Wintouch",
    "device": "A20",
    "model": "A20"
+  },
+  {
+   "brand": "Wintouch",
+   "device": "A20",
+   "model": "A20K"
   }
  ],
  "A200 Pro": [
@@ -333453,6 +333458,13 @@
    "brand": "iBRIT",
    "device": "Max12pro",
    "model": "Kidz Pro"
+  }
+ ],
+ "Nova_N1": [
+  {
+   "brand": "iBRIT",
+   "device": "Nova_N1",
+   "model": "Nova_N1"
   }
  ],
  "POWER_X": [

@@ -38328,6 +38328,11 @@
    "brand": "Wintouch",
    "name": "A20",
    "model": "A20"
+  },
+  {
+   "brand": "Wintouch",
+   "name": "A20",
+   "model": "A20K"
   }
  ],
  "M103": [
@@ -333068,6 +333073,13 @@
    "brand": "iBRIT",
    "name": "Max12pro",
    "model": "Kidz Pro"
+  }
+ ],
+ "Nova_N1": [
+  {
+   "brand": "iBRIT",
+   "name": "Nova_N1",
+   "model": "Nova_N1"
   }
  ],
  "POWER_X": [

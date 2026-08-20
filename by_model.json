@@ -324842,6 +324842,13 @@
    "device": "T730"
   }
  ],
+ "A20K": [
+  {
+   "brand": "Wintouch",
+   "name": "A20",
+   "device": "A20"
+  }
+ ],
  "K19": [
   {
    "brand": "Wintouch",
@@ -347297,6 +347304,13 @@
    "brand": "iBRIT",
    "name": "Max12pro",
    "device": "Max12pro"
+  }
+ ],
+ "Nova_N1": [
+  {
+   "brand": "iBRIT",
+   "name": "Nova_N1",
+   "device": "Nova_N1"
   }
  ],
  "POWER_X": [

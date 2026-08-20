@@ -249466,6 +249466,11 @@
    "model": "A20"
   },
   {
+   "device": "A20",
+   "name": "A20",
+   "model": "A20K"
+  },
+  {
    "device": "A50",
    "name": "A50",
    "model": "A50"
@@ -267762,6 +267767,11 @@
    "device": "Max12pro",
    "name": "Max12pro",
    "model": "Kidz Pro"
+  },
+  {
+   "device": "Nova_N1",
+   "name": "Nova_N1",
+   "model": "Nova_N1"
   },
   {
    "device": "POWER_X",
