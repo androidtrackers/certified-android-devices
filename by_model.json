@@ -17565,6 +17565,16 @@
    "device": "G15"
   },
   {
+   "brand": "TCL",
+   "name": "G18_2K_D3_GB",
+   "device": "G18"
+  },
+  {
+   "brand": "TCL",
+   "name": "G18_2K_GB",
+   "device": "G18"
+  },
+  {
    "brand": "Toshiba",
    "name": "fushan_euT",
    "device": "hamamatsucho"
@@ -64475,6 +64485,13 @@
    "device": "F6"
   }
  ],
+ "F6_US": [
+  {
+   "brand": "DSPREAD",
+   "name": "F6_US",
+   "device": "F6_US"
+  }
+ ],
  "MO_Series": [
   {
    "brand": "DSTechnology",
@@ -73660,6 +73677,13 @@
    "device": "C5L1"
   }
  ],
+ "C5L2": [
+  {
+   "brand": "ECOPAD",
+   "name": "C5L1_US",
+   "device": "C5L1"
+  }
+ ],
  "C5Pro": [
   {
    "brand": "ECOPAD",
@@ -81968,6 +81992,11 @@
   },
   {
    "brand": "KGTEL",
+   "name": "A56",
+   "device": "A56"
+  },
+  {
+   "brand": "Rungrace",
    "name": "A56",
    "device": "A56"
   }
@@ -186434,6 +186463,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g max",
+   "device": "venice"
+  },
+  {
+   "brand": "Motorola",
    "name": "moto g87",
    "device": "naples"
   }
@@ -186465,6 +186499,18 @@
    "brand": "Motorola",
    "name": "moto g87",
    "device": "naples"
+  }
+ ],
+ "moto g57": [
+  {
+   "brand": "Motorola",
+   "name": "moto g max",
+   "device": "venice"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g57",
+   "device": "mumba"
   }
  ],
  "moto g play (2021)": [
@@ -187561,13 +187607,6 @@
    "brand": "Motorola",
    "name": "moto g56 5G",
    "device": "bogota"
-  }
- ],
- "moto g57": [
-  {
-   "brand": "Motorola",
-   "name": "moto g57",
-   "device": "mumba"
   }
  ],
  "motorola edge 60 stylus": [
@@ -326318,6 +326357,11 @@
  "MDP1231": [
   {
    "brand": "XPPen",
+   "name": "MDP1231_ROW",
+   "device": "MDP1231"
+  },
+  {
+   "brand": "XPPen",
    "name": "MDP1232_EEA",
    "device": "MDP1231"
   }
@@ -330648,6 +330692,13 @@
    "brand": "ZEED",
    "name": "Z-PAD_PRO",
    "device": "ZP210P"
+  }
+ ],
+ "Z-PAD ULTRA ZP210U": [
+  {
+   "brand": "ZEED",
+   "name": "Z-PAD_ULTRA",
+   "device": "ZP210U"
   }
  ],
  "Z210": [
@@ -347210,6 +347261,13 @@
    "device": "oversea_v"
   }
  ],
+ "VPL-75": [
+  {
+   "brand": "i3CONNECT",
+   "name": "VENEER_PL",
+   "device": "VENEER_PL"
+  }
+ ],
  "10080": [
   {
    "brand": "i5 (dza)",
@@ -351863,6 +351921,13 @@
    "device": "RE6491L1"
   }
  ],
+ "RMX5270": [
+  {
+   "brand": "realme",
+   "name": "realme 16x 5G",
+   "device": "RE6491L1"
+  }
+ ],
  "realme 2K G Smart TV": [
   {
    "brand": "realme",
@@ -352014,6 +352079,13 @@
    "brand": "realme",
    "name": "realme C100",
    "device": "RE646B"
+  }
+ ],
+ "RMX5363": [
+  {
+   "brand": "realme",
+   "name": "realme C100d",
+   "device": "RE6802"
   }
  ],
  "RMX5399": [

@@ -44975,6 +44975,16 @@
    "brand": "BlackBerry",
    "name": "PRIV by BlackBerry",
    "model": "STV100-4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g max",
+   "model": "moto g max"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g max",
+   "model": "moto g57"
   }
  ],
  "Apex_5G": [
@@ -71112,6 +71122,13 @@
    "model": "F6"
   }
  ],
+ "F6_US": [
+  {
+   "brand": "DSPREAD",
+   "name": "F6_US",
+   "model": "F6_US"
+  }
+ ],
  "MO_Pro": [
   {
    "brand": "DSTechnology",
@@ -80348,6 +80365,11 @@
    "brand": "ECOPAD",
    "name": "C5L1_US",
    "model": "C5L1"
+  },
+  {
+   "brand": "ECOPAD",
+   "name": "C5L1_US",
+   "model": "C5L2"
   }
  ],
  "C5Pro": [
@@ -88060,6 +88082,11 @@
    "brand": "Micromax",
    "name": "A56",
    "model": "Micromax A56"
+  },
+  {
+   "brand": "Rungrace",
+   "name": "A56",
+   "model": "A56"
   }
  ],
  "A5Pro": [
@@ -273907,6 +273934,18 @@
    "model": "Smart TV Pro"
   }
  ],
+ "G18": [
+  {
+   "brand": "TCL",
+   "name": "G18_2K_D3_GB",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "G18_2K_GB",
+   "model": "Smart TV"
+  }
+ ],
  "Titan_Vis_Wifi": [
   {
    "brand": "TCL",
@@ -314503,6 +314542,11 @@
  "MDP1231": [
   {
    "brand": "XPPen",
+   "name": "MDP1231_ROW",
+   "model": "MDP1231"
+  },
+  {
+   "brand": "XPPen",
    "name": "MDP1232_EEA",
    "model": "MDP1231"
   }
@@ -318247,6 +318291,13 @@
    "brand": "ZEED",
    "name": "Z-PAD_PRO",
    "model": "Z-PAD PRO ZP210P"
+  }
+ ],
+ "ZP210U": [
+  {
+   "brand": "ZEED",
+   "name": "Z-PAD_ULTRA",
+   "model": "Z-PAD ULTRA ZP210U"
   }
  ],
  "Z210": [
@@ -332974,6 +333025,13 @@
    "model": "IS941"
   }
  ],
+ "VENEER_PL": [
+  {
+   "brand": "i3CONNECT",
+   "name": "VENEER_PL",
+   "model": "VPL-75"
+  }
+ ],
  "10080": [
   {
    "brand": "i5 (dza)",
@@ -337338,6 +337396,11 @@
    "brand": "realme",
    "name": "realme 16T 5G",
    "model": "RMX5268"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 16x 5G",
+   "model": "RMX5270"
   }
  ],
  "RE60B8": [
@@ -337861,6 +337924,13 @@
    "brand": "realme",
    "name": "realme C100",
    "model": "RMX5353"
+  }
+ ],
+ "RE6802": [
+  {
+   "brand": "realme",
+   "name": "realme C100d",
+   "model": "RMX5363"
   }
  ],
  "RE67EF": [

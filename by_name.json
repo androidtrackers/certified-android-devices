@@ -69068,6 +69068,13 @@
    "model": "F6"
   }
  ],
+ "F6_US": [
+  {
+   "brand": "DSPREAD",
+   "device": "F6_US",
+   "model": "F6_US"
+  }
+ ],
  "MATE ONE": [
   {
    "brand": "DSTechnology",
@@ -78763,6 +78770,11 @@
    "brand": "ECOPAD",
    "device": "C5L1",
    "model": "C5L1"
+  },
+  {
+   "brand": "ECOPAD",
+   "device": "C5L1",
+   "model": "C5L2"
   }
  ],
  "C5Pro": [
@@ -87176,6 +87188,11 @@
    "brand": "Micromax",
    "device": "A56",
    "model": "Micromax A56"
+  },
+  {
+   "brand": "Rungrace",
+   "device": "A56",
+   "model": "A56"
   }
  ],
  "A5Pro": [
@@ -182786,6 +182803,16 @@
    "brand": "Motorola",
    "device": "naples",
    "model": "moto g87"
+  },
+  {
+   "brand": "Motorola",
+   "device": "venice",
+   "model": "moto g max"
+  },
+  {
+   "brand": "Motorola",
+   "device": "venice",
+   "model": "moto g57"
   }
  ],
  "moto g play (2021)": [
@@ -272349,6 +272376,20 @@
    "model": "Smart TV Pro"
   }
  ],
+ "G18_2K_D3_GB": [
+  {
+   "brand": "TCL",
+   "device": "G18",
+   "model": "Smart TV"
+  }
+ ],
+ "G18_2K_GB": [
+  {
+   "brand": "TCL",
+   "device": "G18",
+   "model": "Smart TV"
+  }
+ ],
  "GL TCL": [
   {
    "brand": "TCL",
@@ -314899,6 +314940,13 @@
    "model": "XPLORE X7U"
   }
  ],
+ "MDP1231_ROW": [
+  {
+   "brand": "XPPen",
+   "device": "MDP1231",
+   "model": "MDP1231"
+  }
+ ],
  "MDP1232_EEA": [
   {
    "brand": "XPPen",
@@ -318905,6 +318953,13 @@
    "brand": "ZEED",
    "device": "ZP210P",
    "model": "Z-PAD PRO ZP210P"
+  }
+ ],
+ "Z-PAD_ULTRA": [
+  {
+   "brand": "ZEED",
+   "device": "ZP210U",
+   "model": "Z-PAD ULTRA ZP210U"
   }
  ],
  "ZEED Z-ONE": [
@@ -333376,6 +333431,13 @@
    "model": "Aspen_4"
   }
  ],
+ "VENEER_PL": [
+  {
+   "brand": "i3CONNECT",
+   "device": "VENEER_PL",
+   "model": "VPL-75"
+  }
+ ],
  "TABLET_PC": [
   {
    "brand": "i5 (dza)",
@@ -338125,6 +338187,13 @@
    "model": "RMX5268"
   }
  ],
+ "realme 16x 5G": [
+  {
+   "brand": "realme",
+   "device": "RE6491L1",
+   "model": "RMX5270"
+  }
+ ],
  "realme 2K G Smart TV": [
   {
    "brand": "realme",
@@ -338279,6 +338348,13 @@
    "brand": "realme",
    "device": "RE6478L1",
    "model": "RMX5258"
+  }
+ ],
+ "realme C100d": [
+  {
+   "brand": "realme",
+   "device": "RE6802",
+   "model": "RMX5363"
   }
  ],
  "realme C100i": [

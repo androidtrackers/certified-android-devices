@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-21
+Last sync is 2026-08-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7989,6 +7989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DSIC|Mobilebase DS65|DS65|DS65|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DSPREAD|F6|F6|F6|
+|DSPREAD|F6_US|F6_US|F6_US|
 |DSTechnology|MATE ONE|MO_Pro|MO_Series|
 |DTAB|TK-P617_3.3Ghz|TK_P617_3_3Ghz|TK_P617_3_3Ghz|
 |DTAB|TK_P617_3_3Ghz|TK_P617_3_3Ghz|TK_P617_3_3Ghz|
@@ -9317,6 +9318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|C30plus_EEA|C30plus|C30plus|
 |ECOPAD|C30plus_US|C30plus|C30plus|
 |ECOPAD|C5L1_US|C5L1|C5L1|
+|ECOPAD|C5L1_US|C5L1|C5L2|
 |ECOPAD|C5Pro|C5Pro|C5Pro|
 |ECOPAD|C5Pro_EEA|C5Pro|C5Pro|
 |ECOPAD|C5Pro_US|C5Pro|C5Pro|
@@ -26546,6 +26548,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g max|naples|moto g max|
 |Motorola|moto g max|naples|moto g67|
 |Motorola|moto g max|naples|moto g87|
+|Motorola|moto g max|venice|moto g max|
+|Motorola|moto g max|venice|moto g57|
 |Motorola|moto g play (2021)|guamna|moto g play (2021)|
 |Motorola|moto g play (2021)|guamna|moto g play (XT2093DL)|
 |Motorola|moto g play - 2024|fogona|moto g play - 2024|
@@ -34321,6 +34325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|smart|Blitz|Blitz|
 |Rumie|RT-1708|RT-1708|RT-1708|
 |Runbo|F1Plus|F1Plus|F1Plus|
+|Rungrace|A56|A56|A56|
 |Russound|XTS7|XTS7|XTS7|
 |Ruufuuxy|R16Max|R16Max|R16Max|
 |Ruufuuxy|R16Plus|R16Plus|R16Plus|
@@ -41534,6 +41539,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G16_4K_US|G16|Smart TV Pro|
 |TCL|G17_4K_GB|G17|Smart TV Pro|
 |TCL|G17_4K_US|G17|Smart TV Pro|
+|TCL|G18_2K_D3_GB|G18|Smart TV|
+|TCL|G18_2K_GB|G18|Smart TV|
 |TCL|GL TCL|Titan_Vis_Wifi|9494G|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -48763,6 +48770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XORO|Megapad_1333|XORO|Megapad_1333|
 |XORO|Megapad_1333_Pro|Megapad_1333_Pro|Megapad_1333_Pro|
 |XPLORE|XPLORE X7U|X7U|XPLORE X7U|
+|XPPen|MDP1231_ROW|MDP1231|MDP1231|
 |XPPen|MDP1232_EEA|MDP1231|MDP1231|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
@@ -49460,6 +49468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZDK(SZ)|ZDKMP-T30A_ROW|ZDKMP-T30A|ZDKMP-T30A|
 |ZDK(SZ)|ZDKMP-T30B_ROW|ZDKMP-T30B|ZDKMP-T30B|
 |ZEED|Z-PAD_PRO|ZP210P|Z-PAD PRO ZP210P|
+|ZEED|Z-PAD_ULTRA|ZP210U|Z-PAD ULTRA ZP210U|
 |ZEED|ZEED Z-ONE|Z210|Z210|
 |ZEEKER|ZEEKER_P10|ZEEKER_P10|ZEEKER P10|
 |ZEEKER|ZEEKER_P10_EEA|ZEEKER_P10|ZEEKER P10|
@@ -52067,6 +52076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i.safe MOBILE|IS930|IS930|IS930|
 |i.safe MOBILE|IS941|IS941|IS941|
 |i3CONNECT|Aspen 4|oversea_v|Aspen_4|
+|i3CONNECT|VENEER_PL|VENEER_PL|VPL-75|
 |i5 (dza)|TABLET_PC|10080|10080|
 |i5 (dza)|V10|V10|V10|
 |iBRIT|Alpha|AF51|AF51|
@@ -52850,6 +52860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 16 Pro 5G|RE645DL1|RMX5120|
 |realme|realme 16 Pro+ 5G|RE6458L1|RMX5131|
 |realme|realme 16T 5G|RE6491L1|RMX5268|
+|realme|realme 16x 5G|RE6491L1|RMX5270|
 |realme|realme 2K G Smart TV|umeda|realme 2K G Smart TV|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
 |realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
@@ -52880,6 +52891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i 5G|RE588DL1|RMX3612|
 |realme|realme C100|RE646B|RMX5353|
 |realme|realme C100 5G|RE6478L1|RMX5258|
+|realme|realme C100d|RE6802|RMX5363|
 |realme|realme C100i|RE648B|RMX5377|
 |realme|realme C100i|RE67EF|RMX5399|
 |realme|realme C100x|RE6488|RMX5366|

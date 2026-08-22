@@ -41387,6 +41387,11 @@
    "device": "F6",
    "name": "F6",
    "model": "F6"
+  },
+  {
+   "device": "F6_US",
+   "name": "F6_US",
+   "model": "F6_US"
   }
  ],
  "DSTechnology": [
@@ -48291,6 +48296,11 @@
    "device": "C5L1",
    "name": "C5L1_US",
    "model": "C5L1"
+  },
+  {
+   "device": "C5L1",
+   "name": "C5L1_US",
+   "model": "C5L2"
   },
   {
    "device": "C5Pro",
@@ -136782,6 +136792,16 @@
    "model": "moto g87"
   },
   {
+   "device": "venice",
+   "name": "moto g max",
+   "model": "moto g max"
+  },
+  {
+   "device": "venice",
+   "name": "moto g max",
+   "model": "moto g57"
+  },
+  {
    "device": "guamna",
    "name": "moto g play (2021)",
    "model": "moto g play (2021)"
@@ -176803,6 +176823,13 @@
    "model": "F1Plus"
   }
  ],
+ "Rungrace": [
+  {
+   "device": "A56",
+   "name": "A56",
+   "model": "A56"
+  }
+ ],
  "Russound": [
   {
    "device": "XTS7",
@@ -213538,6 +213565,16 @@
    "device": "G17",
    "name": "G17_4K_US",
    "model": "Smart TV Pro"
+  },
+  {
+   "device": "G18",
+   "name": "G18_2K_D3_GB",
+   "model": "Smart TV"
+  },
+  {
+   "device": "G18",
+   "name": "G18_2K_GB",
+   "model": "Smart TV"
   },
   {
    "device": "Titan_Vis_Wifi",
@@ -250772,6 +250809,11 @@
  "XPPen": [
   {
    "device": "MDP1231",
+   "name": "MDP1231_ROW",
+   "model": "MDP1231"
+  },
+  {
+   "device": "MDP1231",
    "name": "MDP1232_EEA",
    "model": "MDP1231"
   },
@@ -254390,6 +254432,11 @@
    "device": "ZP210P",
    "name": "Z-PAD_PRO",
    "model": "Z-PAD PRO ZP210P"
+  },
+  {
+   "device": "ZP210U",
+   "name": "Z-PAD_ULTRA",
+   "model": "Z-PAD ULTRA ZP210U"
   },
   {
    "device": "Z210",
@@ -267673,6 +267720,11 @@
    "device": "oversea_v",
    "name": "Aspen 4",
    "model": "Aspen_4"
+  },
+  {
+   "device": "VENEER_PL",
+   "name": "VENEER_PL",
+   "model": "VPL-75"
   }
  ],
  "i5 (dza)": [
@@ -271778,6 +271830,11 @@
    "model": "RMX5268"
   },
   {
+   "device": "RE6491L1",
+   "name": "realme 16x 5G",
+   "model": "RMX5270"
+  },
+  {
    "device": "umeda",
    "name": "realme 2K G Smart TV",
    "model": "realme 2K G Smart TV"
@@ -271926,6 +271983,11 @@
    "device": "RE6478L1",
    "name": "realme C100 5G",
    "model": "RMX5258"
+  },
+  {
+   "device": "RE6802",
+   "name": "realme C100d",
+   "model": "RMX5363"
   },
   {
    "device": "RE648B",
