@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-23
+Last sync is 2026-08-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10553,6 +10553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|T8Pro|T8Pro|T8Pro|
 |FPD|CP08-C1|CP08-C1|CP08-C1|
 |FPD|CP08-C1|CP08-C1|CP08_C1|
+|FPD|CP08-C2|CP08-C2|CP08-C2|
 |FPD|CP08-J2|CP08-J2|CP08-J2|
 |FPD|CP08_J1|CP08_J1|CP08_J1|
 |FPD|CP10-J1|CP10|CP10-J1|
@@ -24184,6 +24185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MINDEO|MS8589|MS8589|MS8589|
 |MINDEO|MS8589_RU|MS8589RU|MS8589|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
+|MIO_NANOTECH|X101|X101|X101|
 |MIRAI_TOUCH|IFP MIRAI TOUCH|PE3S_Series|PE3S_Series|
 |MIRAI_TOUCH|MXXCE3XE|rk3588_t|MXXCE3XE|
 |MIRAI_TOUCH|MXXCE4S|InteractiveFlatPanelDisplay|CE4S_Series|
@@ -33324,6 +33326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDTONE|RTSP-A124ML|RTSP-A124ML|RTSP-A124ML|
 |REDTONE|RTSP-A258HM|RTSP-A258HM|RTSP-A258HM|
 |REDTONE|RTSP-A64B|RTSP-A64B|RTSP-A64B|
+|REGZA|32P1S|Andesite|32P1S|
 |REGZA|REGZA Projector|hengshan|REGZA Projector|
 |REGZA|RSG-11B|YYT|4K Google TV Stick|
 |RENSO|NEP N1|NEP_N1|NEP N1|
@@ -35167,6 +35170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|Neon_Smarta_2|Neon_Smarta_2|Neon Smarta 2 T|
 |Safaricom|Neon_Smarta_3|Neon_Smarta_3|Neon Smarta 3|
 |Safaricom|Neon_Ultra_2_M|Neon_Ultra_2_M|Neon Ultra 2 M|
+|Safaricom|Neon_Ultra_3|Neon_Ultra_3|Neon Ultra 3|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
 |Safaricom|Sajipro|Sajipro|Sajipro|
@@ -38211,6 +38215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705N|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705U|
 |Samsung|Galaxy Watch Ultra2|projectv2bl|SM-L710|
+|Samsung|Galaxy Watch Ultra2|projectv2ul|SM-L715U|
 |Samsung|Galaxy Watch4|freshbl|SM-R870|
 |Samsung|Galaxy Watch4|freshbs|SM-R860|
 |Samsung|Galaxy Watch4|freshul|SM-R875F|
@@ -45345,6 +45350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X13|GQ3117SH2_MTN|Armor X13|
 |Ulefone|Armor X16|GQ5020TH1P19|Armor X16|
 |Ulefone|Armor X16 Pro|GQ5020BH1|Armor X16 Pro|
+|Ulefone|Armor X17 Pro|GQ3133TH1|Armor X17 Ultra|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X31|GQ5015RH1|Armor X31|
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|

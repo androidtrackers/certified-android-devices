@@ -32276,6 +32276,11 @@
    "brand": "BEISTA",
    "name": "X101",
    "device": "X101"
+  },
+  {
+   "brand": "MIO_NANOTECH",
+   "name": "X101",
+   "device": "X101"
   }
  ],
  "X104": [
@@ -82299,6 +82304,13 @@
    "brand": "FPD",
    "name": "CP08-C1",
    "device": "CP08-C1"
+  }
+ ],
+ "CP08-C2": [
+  {
+   "brand": "FPD",
+   "name": "CP08-C2",
+   "device": "CP08-C2"
   }
  ],
  "CP08-J2": [
@@ -227973,6 +227985,13 @@
    "device": "RTSP-A64B"
   }
  ],
+ "32P1S": [
+  {
+   "brand": "REGZA",
+   "name": "32P1S",
+   "device": "Andesite"
+  }
+ ],
  "REGZA Projector": [
   {
    "brand": "REGZA",
@@ -239154,6 +239173,13 @@
    "brand": "Safaricom",
    "name": "Neon_Ultra_2_M",
    "device": "Neon_Ultra_2_M"
+  }
+ ],
+ "Neon Ultra 3": [
+  {
+   "brand": "Safaricom",
+   "name": "Neon_Ultra_3",
+   "device": "Neon_Ultra_3"
   }
  ],
  "SFCSTB2LITE": [
@@ -260150,6 +260176,13 @@
    "brand": "Samsung",
    "name": "Galaxy Watch Ultra2",
    "device": "projectv2bl"
+  }
+ ],
+ "SM-L715U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch Ultra2",
+   "device": "projectv2ul"
   }
  ],
  "SM-R870": [
@@ -305426,6 +305459,13 @@
    "brand": "Ulefone",
    "name": "Armor X33 Pro",
    "device": "GQ5020BH1"
+  }
+ ],
+ "Armor X17 Ultra": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X17 Pro",
+   "device": "GQ3133TH1"
   }
  ],
  "Armor_X2": [

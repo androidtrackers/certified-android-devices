@@ -54829,6 +54829,11 @@
    "model": "CP08_C1"
   },
   {
+   "device": "CP08-C2",
+   "name": "CP08-C2",
+   "model": "CP08-C2"
+  },
+  {
    "device": "CP08-J2",
    "name": "CP08-J2",
    "model": "CP08-J2"
@@ -124630,6 +124635,13 @@
    "model": "DV8553"
   }
  ],
+ "MIO_NANOTECH": [
+  {
+   "device": "X101",
+   "name": "X101",
+   "model": "X101"
+  }
+ ],
  "MIRAI_TOUCH": [
   {
    "device": "PE3S_Series",
@@ -171634,6 +171646,11 @@
  ],
  "REGZA": [
   {
+   "device": "Andesite",
+   "name": "32P1S",
+   "model": "32P1S"
+  },
+  {
    "device": "hengshan",
    "name": "REGZA Projector",
    "model": "REGZA Projector"
@@ -181279,6 +181296,11 @@
    "device": "Neon_Ultra_2_M",
    "name": "Neon_Ultra_2_M",
    "model": "Neon Ultra 2 M"
+  },
+  {
+   "device": "Neon_Ultra_3",
+   "name": "Neon_Ultra_3",
+   "model": "Neon Ultra 3"
   },
   {
    "device": "SFCSTB2LITE",
@@ -196513,6 +196535,11 @@
    "device": "projectv2bl",
    "name": "Galaxy Watch Ultra2",
    "model": "SM-L710"
+  },
+  {
+   "device": "projectv2ul",
+   "name": "Galaxy Watch Ultra2",
+   "model": "SM-L715U"
   },
   {
    "device": "freshbl",
@@ -233127,6 +233154,11 @@
    "device": "GQ5020BH1",
    "name": "Armor X16 Pro",
    "model": "Armor X16 Pro"
+  },
+  {
+   "device": "GQ3133TH1",
+   "name": "Armor X17 Pro",
+   "model": "Armor X17 Ultra"
   },
   {
    "device": "Armor_X2",
