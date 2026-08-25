@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-24
+Last sync is 2026-08-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12149,6 +12149,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Watch 4|kenari_lte|Pixel Watch 4|
 |Google|Pixel Watch 4|meridian_btwifi|Pixel Watch 4|
 |Google|Pixel Watch 4|meridian_lte|Pixel Watch 4|
+|Google|Pixel Watch 5|godric_btwifi|Pixel Watch 5|
+|Google|Pixel Watch 5|godric_lte|Pixel Watch 5|
+|Google|Pixel Watch 5|wisteria_btwifi|Pixel Watch 5|
+|Google|Pixel Watch 5|wisteria_lte|Pixel Watch 5|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixel watch 3|helios|Pixel Watch 3|
 |Google|Pixel watch 3|luna|Pixel Watch 3|
@@ -14136,6 +14140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense T55|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
 |Hisense|HLTE243E|HLTE243E|Hisense U967|
+|Hisense|HLTE243E|HLTE243E|Hisense U968|
 |Hisense|HLTE243E|HLTE243E|Hisense Y83 Pro|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
@@ -24565,6 +24570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mascom|Mascom_S750|Mascom_S750|Mascom S750|
 |Mason|MDQ300|MDQ300A|MDQ300|
 |Mason|MGQ300|MGQ300A|MGQ300|
+|Maspower|K7MPT-1011|MPT-1011|MPT-1011|
 |Masstel|Hapi 15|Masstel_Hapi_15|Masstel Hapi 15|
 |Masstel|Hapi_30|Masstel_Hapi_30|Masstel Hapi 30|
 |Masstel|Juno_Q6|Masstel_Juno_Q6|Juno Q6|
@@ -31311,6 +31317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Performance|T7|T7|T7|
 |Performance|T9|T9|T9|
 |Permaray|Permaray-IFPD|DZ-RK3588|Permaray-IFPD|
+|Permaray|Permaray3576-IFPD|DZ-RK3576|Permaray3576-IFPD|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Android TV|ikebukuro|AI PONT|
 |Philco|Android TV|sindorim|AI PONT|
@@ -31740,6 +31747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM352|PM352|PM352|
 |Point Mobile|PM45|pm45|PM45|
 |Point Mobile|PM451|PM451|PM451|
+|Point Mobile|PM452|PM452|PM452|
 |Point Mobile|PM45E|pm45e|PM45E|
 |Point Mobile|PM550|pm550|PM550|
 |Point Mobile|PM550A|pm550a|PM550|
@@ -31761,6 +31769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM95|PM95|PM95|
 |Point Mobile|PT11|PT11|PT11|
 |Point Mobile|TR54|TR54|TR54|
+|Point Mobile|pm85|pm85|PM85|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-7232-3G|TAB_7232_3G_EEA|TAB-7232-3G-V2|
 |Point of view|TAB-P10232-3G|TAB-P10232-3G|TAB-P10232-3G|
@@ -34930,6 +34939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S10_V_US|S10_V_US|S10_V_US|
 |SUAAT|S11_V_EEA|S11_V_EEA|S11_V_EEA|
 |SUAAT|S11_V_US|S11_V_US|S11_V_US|
+|SUAAT|S3_E|S3_E|S3_E|
 |SUAAT|S3_EEA|S3_EEA|S3_EEA|
 |SUAAT|S3_US|S3_US|S3_US|
 |SUAAT|S3_U_EEA|S3_U_EEA|S3_U_EEA|
@@ -35326,6 +35336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A07s|a07ve|SM-A077F|
 |Samsung|Galaxy A07s|a07ve|SM-A077M|
 |Samsung|Galaxy A08|a08|SM-A085F|
+|Samsung|Galaxy A08|a08|SM-A085M|
 |Samsung|Galaxy A08|a08|SM-E085F|
 |Samsung|Galaxy A08|a08|SM-M085F|
 |Samsung|Galaxy A10|a10|SM-A105F|
@@ -44757,6 +44768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|PRIMO7 Tablet|PRIMO7|PRIMO7|
 |Thomson|PRIMO8 Tablet|AMLMY8306P|PRIMO8|
 |Thomson|Pad_Pro_EEA|Pad_Pro|Pad_Pro|
+|Thomson|Pad_Pro_NEU|Pad_Pro|Pad_Pro|
 |Thomson|R3|R3|R3|
 |Thomson|R4|R4|R4|
 |Thomson|SPPL 2K GSmartTV|umeda|SPPL 2K GSmartTV|

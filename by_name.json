@@ -98312,6 +98312,28 @@
    "model": "Pixel Watch 4"
   }
  ],
+ "Pixel Watch 5": [
+  {
+   "brand": "Google",
+   "device": "godric_btwifi",
+   "model": "Pixel Watch 5"
+  },
+  {
+   "brand": "Google",
+   "device": "godric_lte",
+   "model": "Pixel Watch 5"
+  },
+  {
+   "brand": "Google",
+   "device": "wisteria_btwifi",
+   "model": "Pixel Watch 5"
+  },
+  {
+   "brand": "Google",
+   "device": "wisteria_lte",
+   "model": "Pixel Watch 5"
+  }
+ ],
  "Pixel XL": [
   {
    "brand": "Google",
@@ -110455,6 +110477,11 @@
    "brand": "Hisense",
    "device": "HLTE243E",
    "model": "Hisense U967"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE243E",
+   "model": "Hisense U968"
   },
   {
    "brand": "Hisense",
@@ -171171,6 +171198,13 @@
    "model": "MGQ300"
   }
  ],
+ "K7MPT-1011": [
+  {
+   "brand": "Maspower",
+   "device": "MPT-1011",
+   "model": "MPT-1011"
+  }
+ ],
  "Hapi 15": [
   {
    "brand": "Masstel",
@@ -211759,6 +211793,13 @@
    "model": "Permaray-IFPD"
   }
  ],
+ "Permaray3576-IFPD": [
+  {
+   "brand": "Permaray",
+   "device": "DZ-RK3576",
+   "model": "Permaray3576-IFPD"
+  }
+ ],
  "Perseo TV Home 2nd Generation Ranger": [
   {
    "brand": "Perseo TV",
@@ -214484,6 +214525,18 @@
    "model": "PM451"
   }
  ],
+ "PM452": [
+  {
+   "brand": "Point Mobile",
+   "device": "PM452",
+   "model": "PM452"
+  },
+  {
+   "brand": "PointMobile",
+   "device": "PM452",
+   "model": "PM452"
+  }
+ ],
  "PM45E": [
   {
    "brand": "Point Mobile",
@@ -214629,6 +214682,13 @@
    "model": "TR54"
   }
  ],
+ "pm85": [
+  {
+   "brand": "Point Mobile",
+   "device": "pm85",
+   "model": "PM85"
+  }
+ ],
  "PVT-R78-3288": [
   {
    "brand": "Point of view",
@@ -214676,13 +214736,6 @@
    "brand": "Point of view",
    "device": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
-  }
- ],
- "PM452": [
-  {
-   "brand": "PointMobile",
-   "device": "PM452",
-   "model": "PM452"
   }
  ],
  "PS32": [
@@ -234250,6 +234303,13 @@
    "model": "S11_V_US"
   }
  ],
+ "S3_E": [
+  {
+   "brand": "SUAAT",
+   "device": "S3_E",
+   "model": "S3_E"
+  }
+ ],
  "S3_EEA": [
   {
    "brand": "SUAAT",
@@ -236408,6 +236468,11 @@
    "brand": "Samsung",
    "device": "a08",
    "model": "SM-A085F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a08",
+   "model": "SM-A085M"
   },
   {
    "brand": "Samsung",
@@ -290511,6 +290576,13 @@
   }
  ],
  "Pad_Pro_EEA": [
+  {
+   "brand": "Thomson",
+   "device": "Pad_Pro",
+   "model": "Pad_Pro"
+  }
+ ],
+ "Pad_Pro_NEU": [
   {
    "brand": "Thomson",
    "device": "Pad_Pro",

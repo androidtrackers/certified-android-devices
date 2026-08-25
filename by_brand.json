@@ -63177,6 +63177,26 @@
    "model": "Pixel Watch 4"
   },
   {
+   "device": "godric_btwifi",
+   "name": "Pixel Watch 5",
+   "model": "Pixel Watch 5"
+  },
+  {
+   "device": "godric_lte",
+   "name": "Pixel Watch 5",
+   "model": "Pixel Watch 5"
+  },
+  {
+   "device": "wisteria_btwifi",
+   "name": "Pixel Watch 5",
+   "model": "Pixel Watch 5"
+  },
+  {
+   "device": "wisteria_lte",
+   "name": "Pixel Watch 5",
+   "model": "Pixel Watch 5"
+  },
+  {
    "device": "marlin",
    "name": "Pixel XL",
    "model": "Pixel XL"
@@ -73378,6 +73398,11 @@
    "device": "HLTE243E",
    "name": "HLTE243E",
    "model": "Hisense U967"
+  },
+  {
+   "device": "HLTE243E",
+   "name": "HLTE243E",
+   "model": "Hisense U968"
   },
   {
    "device": "HLTE243E",
@@ -126665,6 +126690,13 @@
    "model": "MGQ300"
   }
  ],
+ "Maspower": [
+  {
+   "device": "MPT-1011",
+   "name": "K7MPT-1011",
+   "model": "MPT-1011"
+  }
+ ],
  "Masstel": [
   {
    "device": "Masstel_Hapi_15",
@@ -161307,6 +161339,11 @@
    "device": "DZ-RK3588",
    "name": "Permaray-IFPD",
    "model": "Permaray-IFPD"
+  },
+  {
+   "device": "DZ-RK3576",
+   "name": "Permaray3576-IFPD",
+   "model": "Permaray3576-IFPD"
   }
  ],
  "Perseo TV": [
@@ -163506,6 +163543,11 @@
    "model": "PM451"
   },
   {
+   "device": "PM452",
+   "name": "PM452",
+   "model": "PM452"
+  },
+  {
    "device": "pm45e",
    "name": "PM45E",
    "model": "PM45E"
@@ -163609,6 +163651,11 @@
    "device": "TR54",
    "name": "TR54",
    "model": "TR54"
+  },
+  {
+   "device": "pm85",
+   "name": "pm85",
+   "model": "PM85"
   }
  ],
  "Point of view": [
@@ -180058,6 +180105,11 @@
    "model": "S11_V_US"
   },
   {
+   "device": "S3_E",
+   "name": "S3_E",
+   "model": "S3_E"
+  },
+  {
    "device": "S3_EEA",
    "name": "S3_EEA",
    "model": "S3_EEA"
@@ -182090,6 +182142,11 @@
    "device": "a08",
    "name": "Galaxy A08",
    "model": "SM-A085F"
+  },
+  {
+   "device": "a08",
+   "name": "Galaxy A08",
+   "model": "SM-A085M"
   },
   {
    "device": "a08",
@@ -229988,6 +230045,11 @@
   {
    "device": "Pad_Pro",
    "name": "Pad_Pro_EEA",
+   "model": "Pad_Pro"
+  },
+  {
+   "device": "Pad_Pro",
+   "name": "Pad_Pro_NEU",
    "model": "Pad_Pro"
   },
   {
