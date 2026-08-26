@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-25
+Last sync is 2026-08-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5273,7 +5273,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Tank_Xtreme|T0030WW|Tank Xtreme|
 |Blu|Touchbook M7 Pro|P290|Touchbook M7 Pro|
 |Blu|VIEW 5|B161V|B161V|
-|Blu|VIEW PRO 5G|B1680V|B1680V|
 |Blu|VIVO 5|BLU_VIVO_5|VIVO 5|
 |Blu|VIVO 5R|BLU_Vivo_5R|Vivo 5R|
 |Blu|VIVO 6|BLU_Vivo_6|Vivo 6|
@@ -12442,10 +12441,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIGRACE|G15_EEA|G15|G15|
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
+|HIKVISION|DS-D5A65RB/C|HIK_3576|HIK_3576|
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIKVISION|DS_D5C75RB_A|DS_D5C65RB_A|DS_D5C65RB_A|
-|HIKVISION|HIK_3576|HIK_3576|HIK_3576|
 |HIKVISION|HIK_3588|HIK_3588|HIK_3588|
 |HIKVISION|HIK_9679|HIK_9679|HIK_9679|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
@@ -14306,6 +14305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense F35|HS6739MT|Hisense F28|
 |Hisense|Hisense F35|HS6739MT|Hisense F35|
 |Hisense|Hisense F72 Pro|HLTE268E_10|Hisense F72 Pro|
+|Hisense|Hisense F72 Pro|HLTE268E_10|Hisense M90 Pro|
 |Hisense|Hisense F8 MINI|HSSC9850|Hisense F8 MINI|
 |Hisense|Hisense H20|HSSDM636QC|HLTE510T|
 |Hisense|Hisense H30|HLTE315E|Hisense H30|
@@ -19879,6 +19879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kbro|A0_S905X2|sti6160d19|A0_S905X2|
 |Kbro|A25751P|A2_5751P|A25751P|
 |Kbro|A2S905X4|A2_S905X4|A2S905X4|
+|Kbro|KG4101|KG4101|KG4101|
 |Kbro|N97_A1B_72115|A1B_72115|N97_A1B_72115|
 |Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
 |Kbro|Taiwan|A2_X4_N|A2X4N|
@@ -51989,6 +51990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex 02 RUS|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 RUS|
+|edu-africa|edu-africa2026_ROW|edu-africa2026_ROW|edu-africa2026_ROW|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
 |elactron|R3|R3|R3|
 |elactron|R4|R4|R4|
@@ -53376,6 +53378,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y600 Turbo|PD2553|V2553A|
+|vivo|Y600i|PD2617|V2617A|
+|vivo|Y600i AI版|PD2617|V2617A|
 |vivo|Y60c|PD2542|V2542A|
 |vivo|Y60e|PD2542|V2542A|
 |vivo|Y60e AI版|PD2542|V2542A|

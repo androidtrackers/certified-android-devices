@@ -51327,13 +51327,6 @@
    "model": "B161V"
   }
  ],
- "B1680V": [
-  {
-   "brand": "Blu",
-   "name": "VIEW PRO 5G",
-   "model": "B1680V"
-  }
- ],
  "BLU_VIVO_5": [
   {
    "brand": "Blu",
@@ -100762,6 +100755,13 @@
    "model": "OC101"
   }
  ],
+ "HIK_3576": [
+  {
+   "brand": "HIKVISION",
+   "name": "DS-D5A65RB/C",
+   "model": "HIK_3576"
+  }
+ ],
  "DS-MDT202": [
   {
    "brand": "HIKVISION",
@@ -100781,13 +100781,6 @@
    "brand": "HIKVISION",
    "name": "DS_D5C75RB_A",
    "model": "DS_D5C65RB_A"
-  }
- ],
- "HIK_3576": [
-  {
-   "brand": "HIKVISION",
-   "name": "HIK_3576",
-   "model": "HIK_3576"
   }
  ],
  "HIK_3588": [
@@ -111762,6 +111755,11 @@
    "brand": "Hisense",
    "name": "Hisense F72 Pro",
    "model": "Hisense F72 Pro"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense F72 Pro",
+   "model": "Hisense M90 Pro"
   }
  ],
  "HSSC9850": [
@@ -143335,6 +143333,13 @@
    "brand": "Kbro",
    "name": "A2S905X4",
    "model": "A2S905X4"
+  }
+ ],
+ "KG4101": [
+  {
+   "brand": "Kbro",
+   "name": "KG4101",
+   "model": "KG4101"
   }
  ],
  "A1B_72115": [
@@ -332547,6 +332552,13 @@
    "model": "Smart-Ex02 RUS"
   }
  ],
+ "edu-africa2026_ROW": [
+  {
+   "brand": "edu-africa",
+   "name": "edu-africa2026_ROW",
+   "model": "edu-africa2026_ROW"
+  }
+ ],
  "efiootabn7a": [
   {
    "brand": "efioo",
@@ -340464,6 +340476,18 @@
    "brand": "vivo",
    "name": "Y600 Turbo",
    "model": "V2553A"
+  }
+ ],
+ "PD2617": [
+  {
+   "brand": "vivo",
+   "name": "Y600i",
+   "model": "V2617A"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600i AI版",
+   "model": "V2617A"
   }
  ],
  "PD2542": [
