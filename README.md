@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-26
+Last sync is 2026-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24139,6 +24139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEIZE|D106|D106|D106|
 |MEIZE|D108|D108|D108|
 |MEIZE|D115|D115|D115|
+|MEIZE|D117_US|D117|D117|
 |MEIZE|D121|D121|D121|
 |MEIZE|D121_EEA|D121_EEA|D121_EEA|
 |MEIZE|D122_US|D122_US|D122_US|
@@ -38227,6 +38228,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705N|
 |Samsung|Galaxy Watch Ultra|projectx2ul|SM-L705U|
 |Samsung|Galaxy Watch Ultra2|projectv2bl|SM-L710|
+|Samsung|Galaxy Watch Ultra2|projectv2ul|SM-L7150|
+|Samsung|Galaxy Watch Ultra2|projectv2ul|SM-L715F|
+|Samsung|Galaxy Watch Ultra2|projectv2ul|SM-L715N|
 |Samsung|Galaxy Watch Ultra2|projectv2ul|SM-L715U|
 |Samsung|Galaxy Watch4|freshbl|SM-R870|
 |Samsung|Galaxy Watch4|freshbs|SM-R860|
@@ -38301,6 +38305,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch8 Classic|wise8us|SM-L505U|
 |Samsung|Galaxy Watch9|fresh9bl|SM-L350|
 |Samsung|Galaxy Watch9|fresh9bs|SM-L340|
+|Samsung|Galaxy Watch9|fresh9ul|SM-L3550|
+|Samsung|Galaxy Watch9|fresh9ul|SM-L355F|
+|Samsung|Galaxy Watch9|fresh9ul|SM-L355N|
+|Samsung|Galaxy Watch9|fresh9ul|SM-L355U|
 |Samsung|Galaxy Watch9|fresh9us|SM-L345F|
 |Samsung|Galaxy Watch9|fresh9us|SM-L345N|
 |Samsung|Galaxy Watch9|fresh9us|SM-L345U|
@@ -52448,6 +52456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2510|
 |iQOO|iQOO Z11 Lite 44W 5G|I2510|I2515|
 |iQOO|iQOO Z11 Turbo|PD2536|V2536A|
+|iQOO|iQOO Z11S|PD2603|V2603A|
 |iQOO|iQOO Z11i|PD2559|V2559UA|
 |iQOO|iQOO Z11i AI版|PD2559|V2559UA|
 |iQOO|iQOO Z11x|PD2532|V2532A|

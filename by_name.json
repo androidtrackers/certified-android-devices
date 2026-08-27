@@ -168557,6 +168557,13 @@
    "model": "D108"
   }
  ],
+ "D117_US": [
+  {
+   "brand": "MEIZE",
+   "device": "D117",
+   "model": "D117"
+  }
+ ],
  "D121": [
   {
    "brand": "MEIZE",
@@ -252285,6 +252292,21 @@
   {
    "brand": "Samsung",
    "device": "projectv2ul",
+   "model": "SM-L7150"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectv2ul",
+   "model": "SM-L715F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectv2ul",
+   "model": "SM-L715N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectv2ul",
    "model": "SM-L715U"
   }
  ],
@@ -252671,6 +252693,26 @@
    "brand": "Samsung",
    "device": "fresh9bs",
    "model": "SM-L340"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh9ul",
+   "model": "SM-L3550"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh9ul",
+   "model": "SM-L355F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh9ul",
+   "model": "SM-L355N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh9ul",
+   "model": "SM-L355U"
   },
   {
    "brand": "Samsung",
@@ -335783,6 +335825,13 @@
    "brand": "iQOO",
    "device": "PD2536",
    "model": "V2536A"
+  }
+ ],
+ "iQOO Z11S": [
+  {
+   "brand": "iQOO",
+   "device": "PD2603",
+   "model": "V2603A"
   }
  ],
  "iQOO Z11i": [

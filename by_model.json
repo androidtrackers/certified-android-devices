@@ -171046,6 +171046,13 @@
    "device": "D108"
   }
  ],
+ "D117": [
+  {
+   "brand": "MEIZE",
+   "name": "D117_US",
+   "device": "D117"
+  }
+ ],
  "D121": [
   {
    "brand": "MEIZE",
@@ -260252,6 +260259,27 @@
    "device": "projectv2bl"
   }
  ],
+ "SM-L7150": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch Ultra2",
+   "device": "projectv2ul"
+  }
+ ],
+ "SM-L715F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch Ultra2",
+   "device": "projectv2ul"
+  }
+ ],
+ "SM-L715N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch Ultra2",
+   "device": "projectv2ul"
+  }
+ ],
  "SM-L715U": [
   {
    "brand": "Samsung",
@@ -260768,6 +260796,34 @@
    "brand": "Samsung",
    "name": "Galaxy Watch9",
    "device": "fresh9bs"
+  }
+ ],
+ "SM-L3550": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch9",
+   "device": "fresh9ul"
+  }
+ ],
+ "SM-L355F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch9",
+   "device": "fresh9ul"
+  }
+ ],
+ "SM-L355N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch9",
+   "device": "fresh9ul"
+  }
+ ],
+ "SM-L355U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch9",
+   "device": "fresh9ul"
   }
  ],
  "SM-L345F": [
@@ -349628,6 +349684,13 @@
    "brand": "iQOO",
    "name": "iQOO Z11 Turbo",
    "device": "PD2536"
+  }
+ ],
+ "V2603A": [
+  {
+   "brand": "iQOO",
+   "name": "iQOO Z11S",
+   "device": "PD2603"
   }
  ],
  "V2559UA": [

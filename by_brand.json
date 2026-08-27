@@ -124377,6 +124377,11 @@
    "model": "D115"
   },
   {
+   "device": "D117",
+   "name": "D117_US",
+   "model": "D117"
+  },
+  {
    "device": "D121",
    "name": "D121",
    "model": "D121"
@@ -196601,6 +196606,21 @@
   {
    "device": "projectv2ul",
    "name": "Galaxy Watch Ultra2",
+   "model": "SM-L7150"
+  },
+  {
+   "device": "projectv2ul",
+   "name": "Galaxy Watch Ultra2",
+   "model": "SM-L715F"
+  },
+  {
+   "device": "projectv2ul",
+   "name": "Galaxy Watch Ultra2",
+   "model": "SM-L715N"
+  },
+  {
+   "device": "projectv2ul",
+   "name": "Galaxy Watch Ultra2",
    "model": "SM-L715U"
   },
   {
@@ -196967,6 +196987,26 @@
    "device": "fresh9bs",
    "name": "Galaxy Watch9",
    "model": "SM-L340"
+  },
+  {
+   "device": "fresh9ul",
+   "name": "Galaxy Watch9",
+   "model": "SM-L3550"
+  },
+  {
+   "device": "fresh9ul",
+   "name": "Galaxy Watch9",
+   "model": "SM-L355F"
+  },
+  {
+   "device": "fresh9ul",
+   "name": "Galaxy Watch9",
+   "model": "SM-L355N"
+  },
+  {
+   "device": "fresh9ul",
+   "name": "Galaxy Watch9",
+   "model": "SM-L355U"
   },
   {
    "device": "fresh9us",
@@ -269644,6 +269684,11 @@
    "device": "PD2536",
    "name": "iQOO Z11 Turbo",
    "model": "V2536A"
+  },
+  {
+   "device": "PD2603",
+   "name": "iQOO Z11S",
+   "model": "V2603A"
   },
   {
    "device": "PD2559",
