@@ -3331,8 +3331,18 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "FUEGO",
+   "name": "FUEGO",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "GOTO",
    "name": "GOTO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Horion",
+   "name": "HORION",
    "model": "4K SMART TV"
   },
   {
@@ -3626,6 +3636,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "ONVO",
+   "name": "ONVO",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "ORION",
    "name": "ORION",
    "model": "ORION SMART TV"
@@ -3661,8 +3676,18 @@
    "model": "RCA 4K SMART TV"
   },
   {
+   "brand": "REDLINE",
+   "name": "REDLINE",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Rangs",
    "name": "RANGS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Realme Techlife",
+   "name": "REALME TECHLIFE",
    "model": "4K SMART TV"
   },
   {
@@ -18118,9 +18143,39 @@
    "model": "ERGO 2K SMART TV"
   },
   {
+   "brand": "Haier",
+   "name": "Haier TV",
+   "model": "Haier TV"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Q5S",
+   "model": "Q5S"
+  },
+  {
+   "brand": "Honor",
+   "name": "Smart 2K TV",
+   "model": "Smart 2K TV"
+  },
+  {
+   "brand": "Infinix",
+   "name": "Infinix TV",
+   "model": "Infinix TV"
+  },
+  {
    "brand": "Iris",
    "name": "IRIS 2K SmartTV",
    "model": "IRIS 2K SmartTV"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel TV",
+   "model": "itel TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC 2K TV",
+   "model": "JVC 2K TV"
   },
   {
    "brand": "Kalley",
@@ -18141,6 +18196,26 @@
    "brand": "NobleSkiodo",
    "name": "Noble Skiodo TV",
    "model": "Noble Skiodo TV"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 2KA",
+   "model": "PrismPlus 2KA"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "2KTV-6SH",
+   "model": "2KTV-6SH"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2K TV",
+   "model": "Panasonic 2K TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2K TV LA",
+   "model": "Panasonic 2K TV LA"
   },
   {
    "brand": "Philips",
@@ -18164,6 +18239,11 @@
   },
   {
    "brand": "SWTV",
+   "name": "SWTV-24LA-FHD",
+   "model": "SWTV-24LA-FHD"
+  },
+  {
+   "brand": "SWTV",
    "name": "SWTV-24NA-FHD",
    "model": "SWTV-24NA-FHD"
   },
@@ -18176,6 +18256,21 @@
    "brand": "Sansui",
    "name": "SANSUI TV",
    "model": "SANSUI TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 2K Smart TV-A",
+   "model": "SHARP 2K Smart TV-A"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP PH 2K Smart TV-A",
+   "model": "SHARP PH 2K Smart TV-A"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TELEFUNKEN 2K TV",
+   "model": "TELEFUNKEN 2K TV"
   },
   {
    "brand": "Vision",
@@ -18417,6 +18512,11 @@
    "model": "DREAME SMART 4KTV"
   },
   {
+   "brand": "Dreame",
+   "name": "DREAME SMART 4KTV SA",
+   "model": "DREAME SMART 4KTV SA"
+  },
+  {
    "brand": "Ergo",
    "name": "ERGO 4K SMART TV",
    "model": "ERGO 4K SMART TV"
@@ -18437,6 +18537,21 @@
    "model": "HAAM TV 4K FF"
   },
   {
+   "brand": "Haier",
+   "name": "Haier TV",
+   "model": "Haier TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier TV FF",
+   "model": "Haier TV FF"
+  },
+  {
+   "brand": "Honor",
+   "name": "Smart 4K TV",
+   "model": "Smart 4K TV"
+  },
+  {
    "brand": "Indurama",
    "name": "Indurama 4K smart TV",
    "model": "Indurama 4K smart TV"
@@ -18452,9 +18567,29 @@
    "model": "IRIS 4K SmartTV FF"
   },
   {
+   "brand": "Itel",
+   "name": "itel TV",
+   "model": "itel TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "4K Smart TV",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC 4K TV",
+   "model": "JVC 4K TV"
+  },
+  {
    "brand": "JVC",
    "name": "JVC UHD TV G0325",
    "model": "JVC UHD TV G0325"
+  },
+  {
+   "brand": "JVC",
+   "name": "UHD Smart TV",
+   "model": "UHD Smart TV"
   },
   {
    "brand": "Kalley",
@@ -18482,9 +18617,69 @@
    "model": "Motorola TV FF"
   },
   {
+   "brand": "NobleSkiodo",
+   "name": "Noble Skiodo TV",
+   "model": "Noble Skiodo TV"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "Noble Skiodo TV FF",
+   "model": "Noble Skiodo TV FF"
+  },
+  {
+   "brand": "Noblex",
+   "name": "NS 4K SMART TV",
+   "model": "NS 4K SMART TV"
+  },
+  {
    "brand": "PRISMPLUS",
    "name": "PrismPlus 4K TV",
    "model": "PrismPlus 4K TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-6SU",
+   "model": "4KTV-6SU"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-6SUF",
+   "model": "4KTV-6SUF"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV",
+   "model": "Panasonic TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV FF",
+   "model": "Panasonic TV FF"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV FF LA",
+   "model": "Panasonic TV FF LA"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV FF US",
+   "model": "Panasonic TV FF US"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV LA",
+   "model": "Panasonic TV LA"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV US",
+   "model": "Panasonic TV US"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Smart 4K TV",
+   "model": "Philips Smart 4K TV"
   },
   {
    "brand": "Philips",
@@ -18570,6 +18765,16 @@
    "brand": "Syinix",
    "name": "Syinix TV",
    "model": "Syinix TV"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TELEFUNKEN 4K TV",
+   "model": "TELEFUNKEN 4K TV"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TELEFUNKEN 4K TV FF",
+   "model": "TELEFUNKEN 4K TV FF"
   },
   {
    "brand": "Veon",
@@ -22166,6 +22371,11 @@
    "brand": "Dreame",
    "name": "DREAME SMART 4KTV",
    "model": "DREAME SMART 4KTV"
+  },
+  {
+   "brand": "Ergo",
+   "name": "ERGO 4K SMART TV",
+   "model": "ERGO 4K SMART TV"
   },
   {
    "brand": "Iris",
@@ -26203,6 +26413,13 @@
    "model": "AM518"
   }
  ],
+ "vf_stb_k04_3": [
+  {
+   "brand": "Amigo",
+   "name": "TV Box 4 Mini",
+   "model": "Amigo TV 4 Mini"
+  }
+ ],
  "Amigo7Y": [
   {
    "brand": "Amino",
@@ -28371,6 +28588,11 @@
    "brand": "OneScreen",
    "name": "OneScreen Titan",
    "model": "Titan"
+  },
+  {
+   "brand": "OneScreen",
+   "name": "OneScreen_Android_OPS_2",
+   "model": "OneScreen_Android_OPS_2"
   },
   {
    "brand": "ReSYS",
@@ -38382,6 +38604,207 @@
    "model": "M901"
   }
  ],
+ "alameda": [
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 2K SMART TV",
+   "model": "BGH 2K SMART TV"
+  },
+  {
+   "brand": "Noblex",
+   "name": "NS 2K SMART TV",
+   "model": "NS 2K SMART TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26NA-2KA5",
+   "model": "SWTV-26NA-2KA5"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26SA-2KA5",
+   "model": "SWTV-26SA-2KA5"
+  }
+ ],
+ "katehaki": [
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 4K SMART TV",
+   "model": "BGH 4K SMART TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO AI SMART TV",
+   "model": "DAEWOO AI SMART TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier TV",
+   "model": "Haier TV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS 4K Smart TV Lite",
+   "model": "IRIS 4K Smart TV Lite"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC TV",
+   "model": "JVC TV"
+  },
+  {
+   "brand": "Kalley",
+   "name": "Kalley TV",
+   "model": "Kalley TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola TV",
+   "model": "Motorola TV"
+  },
+  {
+   "brand": "Noblex",
+   "name": "NS 4K SMART TV",
+   "model": "NS 4K SMART TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic Smart TV Lite",
+   "model": "Panasonic Smart TV Lite"
+  },
+  {
+   "brand": "Realme Techlife",
+   "name": "Realme TV",
+   "model": "Realme TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-25HK",
+   "model": "SWTV-25HK"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-25NA-4K",
+   "model": "SWTV-25NA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-25SA-4K",
+   "model": "SWTV-25SA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-25TGL-4K",
+   "model": "SWTV-25TGL-4K"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUI TV",
+   "model": "SANSUI TV"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TELEFUNKEN 4K TV",
+   "model": "TELEFUNKEN 4K TV"
+  }
+ ],
+ "sapporo": [
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 4K SMART TV",
+   "model": "BGH 4K SMART TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO AI SMART TV",
+   "model": "DAEWOO AI SMART TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO SMART TV",
+   "model": "DAEWOO SMART TV"
+  },
+  {
+   "brand": "Dreame",
+   "name": "DREAME SMART 4KTV EU",
+   "model": "DREAME SMART 4KTV EU"
+  },
+  {
+   "brand": "Dreame",
+   "name": "DREAME SMART 4KTV SA",
+   "model": "DREAME SMART 4KTV SA"
+  },
+  {
+   "brand": "Indurama",
+   "name": "Indurama 4K smart TV",
+   "model": "Indurama 4K smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "4K Smart TV",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "4K Smart TV Plus",
+   "model": "4K Smart TV Plus"
+  },
+  {
+   "brand": "Kalley",
+   "name": "Kalley TV",
+   "model": "Kalley TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 4K TV US",
+   "model": "Panasonic 4K TV US"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "SKYWORTH 4K TV",
+   "model": "SKYWORTH 4K TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "SKYWORTH 4K TV NF",
+   "model": "SKYWORTH 4K TV NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26AE-4K",
+   "model": "SWTV-26AE-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26AE-4K NF",
+   "model": "SWTV-26AE-4K NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26HK-4K",
+   "model": "SWTV-26HK-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26LA-4K",
+   "model": "SWTV-26LA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26NA-4K",
+   "model": "SWTV-26NA-4K"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26SA-4K",
+   "model": "SWTV-26SA-4K"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "Telefunken 4K TV",
+   "model": "Telefunken 4K TV"
+  }
+ ],
  "BGH_Joy_303": [
   {
    "brand": "BGH S.A.",
@@ -38758,6 +39181,13 @@
    "brand": "BLUECRANE",
    "name": "PP86M",
    "model": "PP86M"
+  }
+ ],
+ "Aura_A1t": [
+  {
+   "brand": "BLUEFOX",
+   "name": "Aura_A1",
+   "model": "BF00A"
   }
  ],
  "BLUEFOX": [
@@ -52136,6 +52566,18 @@
    "brand": "Bmobility",
    "name": "ORION TG07",
    "model": "ORION_TG07"
+  }
+ ],
+ "Ace": [
+  {
+   "brand": "Boltt",
+   "name": "Ace",
+   "model": "Ace"
+  },
+  {
+   "brand": "Hurricane",
+   "name": "Ace",
+   "model": "Ace"
   }
  ],
  "Evo": [
@@ -80274,6 +80716,13 @@
    "model": "NEBUPOS3"
   }
  ],
+ "Prime_Pro_5G": [
+  {
+   "brand": "ECONET",
+   "name": "Prime Pro 5G",
+   "model": "Prime Pro 5G"
+  }
+ ],
  "BH105": [
   {
    "brand": "ECONNECT",
@@ -83022,6 +83471,13 @@
    "brand": "Ekron",
    "name": "DE-T414",
    "model": "DE-T414"
+  }
+ ],
+ "DE-T919": [
+  {
+   "brand": "Ekron",
+   "name": "DE-T919",
+   "model": "DE-T919"
   }
  ],
  "S45U": [
@@ -126817,13 +127273,6 @@
    "model": "tmau400"
   }
  ],
- "Ace": [
-  {
-   "brand": "Hurricane",
-   "name": "Ace",
-   "model": "Ace"
-  }
- ],
  "Archer": [
   {
    "brand": "Hurricane",
@@ -127825,6 +128274,11 @@
   {
    "brand": "Hyundai",
    "name": "HT10WC1MSG01_EEA",
+   "model": "10WC1"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HT10WC1MSG01_US",
    "model": "10WC1"
   }
  ],
@@ -135006,6 +135460,13 @@
    "model": "NOTE 5G"
   }
  ],
+ "ONE_1C": [
+  {
+   "brand": "Invens",
+   "name": "ONE_1C",
+   "model": "ONE_1C"
+  }
+ ],
  "TK02": [
   {
    "brand": "Invens",
@@ -141441,6 +141902,18 @@
    "model": "BT-A600M"
   }
  ],
+ "BT-A800": [
+  {
+   "brand": "KEYENCE",
+   "name": "BT-A800",
+   "model": "BT-A800"
+  },
+  {
+   "brand": "KEYENCE",
+   "name": "BT-A800M",
+   "model": "BT-A800M"
+  }
+ ],
  "BTA700": [
   {
    "brand": "KEYENCE",
@@ -141866,6 +142339,18 @@
    "brand": "KPN",
    "name": "KPN TV+ Soundbox",
    "model": "KPN VSB3918"
+  }
+ ],
+ "KSTB2500": [
+  {
+   "brand": "KPP(KR)",
+   "name": "Swan",
+   "model": "KSTB2500"
+  },
+  {
+   "brand": "NCTC",
+   "name": "ValleyFiber",
+   "model": "KSTB2500"
   }
  ],
  "KR-T01": [
@@ -142672,18 +143157,6 @@
    "brand": "Kalley",
    "name": "Kalley Note 10 Lite",
    "model": "Kalley Note 10 Lite"
-  }
- ],
- "katehaki": [
-  {
-   "brand": "Kalley",
-   "name": "Kalley TV",
-   "model": "Kalley TV"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-25TGL-4K",
-   "model": "SWTV-25TGL-4K"
   }
  ],
  "Kalley_FlexTab_11": [
@@ -160254,6 +160727,13 @@
    "model": "LGT-08QA-2301"
   }
  ],
+ "fushishan": [
+  {
+   "brand": "Leica",
+   "name": "Leica Cine Compact 1",
+   "model": "Leica Cine Compact 1"
+  }
+ ],
  "TB-8506N": [
   {
    "brand": "Lenco",
@@ -171489,6 +171969,11 @@
    "brand": "MYCOM",
    "name": "COMEK_Tab_K",
    "model": "COMEK Tab K"
+  },
+  {
+   "brand": "MYCOM",
+   "name": "COMEK_Tab_K",
+   "model": "COMEK Tab K10"
   }
  ],
  "COMEK_Tab_K2": [
@@ -173605,6 +174090,13 @@
    "brand": "Maxzz",
    "name": "TA-04",
    "model": "TA-04"
+  }
+ ],
+ "TA-05": [
+  {
+   "brand": "Maxzz",
+   "name": "TA-05",
+   "model": "TA-05"
   }
  ],
  "MAZDA_CONNECT_AA_G12": [
@@ -190345,6 +190837,13 @@
    "model": "KSTB2100"
   }
  ],
+ "KSTB6200": [
+  {
+   "brand": "NCTC",
+   "name": "KSTB6200",
+   "model": "KSTB6200"
+  }
+ ],
  "NEC-101": [
   {
    "brand": "NEC",
@@ -196197,6 +196696,13 @@
    "brand": "O\\'NICE",
    "name": "O\\'NICE I-TOUCH M1",
    "model": "i-touch M1"
+  }
+ ],
+ "KSTB7268": [
+  {
+   "brand": "O2 (O2 Slovakia)",
+   "name": "KPP STB",
+   "model": "KSTB7268"
   }
  ],
  "O2TV_B866V2": [
@@ -214869,6 +215375,13 @@
    "model": "X3Pro"
   }
  ],
+ "X5_G": [
+  {
+   "brand": "Phone Max",
+   "name": "X5_G_EEA",
+   "model": "X5_G"
+  }
+ ],
  "X5_T": [
   {
    "brand": "Phone Max",
@@ -221813,6 +222326,13 @@
   {
    "brand": "Pritom",
    "name": "P7_A10K_EEA",
+   "model": "P7"
+  }
+ ],
+ "P7_A10K_W": [
+  {
+   "brand": "Pritom",
+   "name": "P7_A10K_W",
    "model": "P7"
   }
  ],
@@ -229250,6 +229770,11 @@
   },
   {
    "brand": "Relndoo",
+   "name": "TAB9-M_US",
+   "model": "TAB9"
+  },
+  {
+   "brand": "Relndoo",
    "name": "TAB9-US",
    "model": "TAB9"
   }
@@ -234645,6 +235170,11 @@
    "brand": "SVITOO",
    "name": "P11_R_EEA",
    "model": "P11_R"
+  },
+  {
+   "brand": "SVITOO",
+   "name": "P11_R_ROW",
+   "model": "P11_R"
   }
  ],
  "P11_T": [
@@ -234834,13 +235364,6 @@
    "brand": "SWACONNECT",
    "name": "SWA310_NEU",
    "model": "SWA310"
-  }
- ],
- "sapporo": [
-  {
-   "brand": "SWTV",
-   "name": "SWTV-26AE-4K",
-   "model": "SWTV-26AE-4K"
   }
  ],
  "SLTDVD1024_B": [
@@ -265728,6 +266251,18 @@
    "model": "XQ-FE72"
   }
  ],
+ "XQ-GH": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 VIII",
+   "model": "XQ-GH54"
+  },
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 VIII",
+   "model": "XQ-GH74"
+  }
+ ],
  "901SO": [
   {
    "brand": "Sony",
@@ -291423,6 +291958,13 @@
    "model": "CASEBOOK_3"
   }
  ],
+ "HDBN": [
+  {
+   "brand": "TheNudge",
+   "name": "HyundaiIT_Smartboard_Ai",
+   "model": "HDBN"
+  }
+ ],
  "TH805": [
   {
    "brand": "Thinpad",
@@ -299462,6 +300004,13 @@
    "model": "S8-CLASSIC"
   }
  ],
+ "STAB7": [
+  {
+   "brand": "VORCOM",
+   "name": "STAB7",
+   "model": "STAB7"
+  }
+ ],
  "SXPRO": [
   {
    "brand": "VORCOM",
@@ -306385,6 +306934,18 @@
    "brand": "Vivo",
    "name": "Y58 5G",
    "model": "V2355"
+  }
+ ],
+ "PD2607": [
+  {
+   "brand": "Vivo",
+   "name": "Y600",
+   "model": "V2607A"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600 AI",
+   "model": "V2607A"
   }
  ],
  "PD1621": [
@@ -314711,6 +315272,11 @@
   {
    "brand": "XPPen",
    "name": "MDP1232_EEA",
+   "model": "MDP1231"
+  },
+  {
+   "brand": "XPPen",
+   "name": "MDP1234_US",
    "model": "MDP1231"
   }
  ],
@@ -338449,6 +339015,13 @@
    "model": "RMX5116"
   }
  ],
+ "RE6472L1": [
+  {
+   "brand": "realme",
+   "name": "realme P4s 5G",
+   "model": "RMX5125"
+  }
+ ],
  "RE6450L1": [
   {
    "brand": "realme",
@@ -340461,6 +341034,18 @@
    "brand": "vivo",
    "name": "Y31d Pro",
    "model": "V2543"
+  }
+ ],
+ "V2571": [
+  {
+   "brand": "vivo",
+   "name": "Y31t 5G",
+   "model": "V2571"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y31t 5G",
+   "model": "V2574"
   }
  ],
  "V2455": [

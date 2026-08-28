@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-27
+Last sync is 2026-08-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1908,6 +1908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AM535|AM535|AM535|
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
+|Amigo|TV Box 4 Mini|vf_stb_k04_3|Amigo TV 4 Mini|
 |Amino|Amigo 7Y EspialTV|Amigo7Y|Amigo 7Y EspialTV|
 |Amino|Amigo7Y|Amigo7Y|Amigo 7Y|
 |Amino|DFN-Amigo7x|Amigo7x3|DFN-Amigo7x|
@@ -3449,8 +3450,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BEYODFU|M518|M518|M518|
 |BEYODFU|M901|M901|M901|
 |BGH S.A.|BGH 2K Android TV|lasalle|BGH 2K Android TV|
+|BGH S.A.|BGH 2K SMART TV|alameda|BGH 2K SMART TV|
 |BGH S.A.|BGH 4K Android TV|kenton|BGH 4K Android TV|
 |BGH S.A.|BGH 4K SMART TV|eleonas|BGH 4K SMART TV|
+|BGH S.A.|BGH 4K SMART TV|katehaki|BGH 4K SMART TV|
+|BGH S.A.|BGH 4K SMART TV|sapporo|BGH 4K SMART TV|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
 |BGH S.A.|BGH Smart TV|sunnyvale|BGH Smart TV|
 |BGH S.A.|fushan_BGH|hamamatsucho|Smart TV|
@@ -3508,6 +3512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLUE|G6SG|ikebukuro|AI PONT|
 |BLUECRANE|PP86M|PP86M|NOTE S8 4G|
 |BLUECRANE|PP86M|PP86M|PP86M|
+|BLUEFOX|Aura_A1|Aura_A1t|BF00A|
 |BLUEFOX|BF001|BLUEFOX|NX1|
 |BLUEFOX|BF001_EEA|BLUEFOX|NX1|
 |BLUEING|M1867G|M1867G|M1867G|
@@ -5376,6 +5381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bmobility|Belle|Belle|Belle|
 |Bmobility|Benji|Benji|Benji|
 |Bmobility|ORION TG07|Bmobile_ORION_TG07|ORION_TG07|
+|Boltt|Ace|Ace|Ace|
 |Boltt|Evo|Evo|Evo|
 |Booken|Cybook Tablet|cybtt10_bk|Cybook-Tablet|
 |Boost|Cabana|Cabana|Cabana|
@@ -8023,8 +8029,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|DAEWOO|mountbaker|DAEWOO SMART TV|
 |Daewoo|DAEWOO AI SMART TV|beomil|DAEWOO AI SMART TV|
 |Daewoo|DAEWOO AI SMART TV|eleonas|DAEWOO AI SMART TV|
+|Daewoo|DAEWOO AI SMART TV|katehaki|DAEWOO AI SMART TV|
+|Daewoo|DAEWOO AI SMART TV|sapporo|DAEWOO AI SMART TV|
 |Daewoo|DAEWOO SMART TV|SW6H|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|eleonas|DAEWOO SMART TV|
+|Daewoo|DAEWOO SMART TV|sapporo|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV WF|SW6H|DAEWOO SMART TV WF|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
@@ -9213,6 +9222,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dreame|DREAME SMART 4KTV|anaheim|DREAME SMART 4KTV|
 |Dreame|DREAME SMART 4KTV|byculla|DREAME SMART 4KTV|
 |Dreame|DREAME SMART 4KTV|eleonas|DREAME SMART 4KTV|
+|Dreame|DREAME SMART 4KTV EU|sapporo|DREAME SMART 4KTV EU|
+|Dreame|DREAME SMART 4KTV SA|eleonas|DREAME SMART 4KTV SA|
+|Dreame|DREAME SMART 4KTV SA|sapporo|DREAME SMART 4KTV SA|
 |Dreame|Dreame Smartphone E1|DREAME_W1|W5110|
 |Dreamstar|Dreamstar 2K SMART TV|nagata|Dreamstar 2K SMART TV|
 |Dreamstar|Dreamstar 4K SMART TV|marina|Dreamstar 4K SMART TV|
@@ -9303,6 +9315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EASYTECK|EK12|EK12|EK12|
 |EBN|NEBUPOS3|UY3A|NEBUPOS3|
 |ECHOSONIC|EchosonicTV|shinagawa|EchosonicTV|
+|ECONET|Prime Pro 5G|Prime_Pro_5G|Prime Pro 5G|
 |ECONNECT|BH105|BH105|BH105|
 |ECONNECT|BH505GS|BH505GS|BH505GS|
 |ECONNECT|RH511G|RH511G|RH511G|
@@ -9735,6 +9748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Einstein|Tablet3Pro|Tablet3Pro|Tablet3Pro|
 |Ekotek|Sonata|Sonata|Sonata|
 |Ekron|DE-T414|DE-T414|DE-T414|
+|Ekron|DE-T919|DE-T919|DE-T919|
 |Eks Mobility|S45U|S45U|EKS S45U|
 |Eks Mobility|S5LS|S5LS|S5LS|
 |Eks Mobility|S5US|S5US|S5US|
@@ -9996,6 +10010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ergo|B505_Unit_4G|B505_Unit_4G|B505_Unit_4G|
 |Ergo|ERGO|B506_Intro|B506_Intro|
 |Ergo|ERGO 2K SMART TV|beomil|ERGO 2K SMART TV|
+|Ergo|ERGO 4K SMART TV|anaheim|ERGO 4K SMART TV|
 |Ergo|ERGO 4K SMART TV|eleonas|ERGO 4K SMART TV|
 |Ergo|ERGO 4K SMART TV FF|eleonas|ERGO 4K SMART TV FF|
 |Ergo|ERGO B500|B500|ERGO B500 First|
@@ -10591,6 +10606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPT Trading|X50|FPT_X50|FPT X50|
 |FREESTREAM|3500|3500|3500|
 |FUEGO|Europe|sepolia|FUEGO Smart TV|
+|FUEGO|FUEGO|elliniko|4K SMART TV|
 |FUEGO|FUEGO 2K SMART TV|nagata|FUEGO 2K SMART TV|
 |FUEGO|FUEGO 4K SMART TV|marina|FUEGO 4K SMART TV|
 |FUEGO|FUEGO Smart TV|dongnae|FUEGO Smart TV|
@@ -13584,7 +13600,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV GE|haeundae|Haier MatrixTV GE|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier TV|SW6H|Haier TV|
+|Haier|Haier TV|beomil|Haier TV|
+|Haier|Haier TV|eleonas|Haier TV|
+|Haier|Haier TV|katehaki|Haier TV|
 |Haier|Haier TV FF|SW6H|Haier TV FF|
+|Haier|Haier TV FF|eleonas|Haier TV FF|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|HaierG61|HM-G701-FL|HM-G701-FL|
 |Haier|Haitech android TV|hanyang|Haitech Android TV|
@@ -14597,6 +14617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|PX510|PX510|PX510|
 |Hisense|PX530|PX8|PX8|
 |Hisense|PX9|PX9|PX9|
+|Hisense|Q5S|beomil|Q5S|
 |Hisense|S1|HS8937QC|S1|
 |Hisense|SKi630t|msm8226|SKi630t|
 |Hisense|STARSHINE 4|HS6572MT|STARSHINE 4|
@@ -15129,6 +15150,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|PORSCHE DESIGN HONOR Magic6|HNBVL|BVL-N59|
 |Honor|PORSCHE DESIGN HONOR Magic6 RSR|HNBVL|BVL-AN20|
 |Honor|PORSCHE DESIGN HONOR Magic7 RSR|HNPTPX|PTP-N59|
+|Honor|Smart 2K TV|beomil|Smart 2K TV|
+|Honor|Smart 4K TV|eleonas|Smart 4K TV|
 |Honor|荣耀Magic8 Pro Air|HNLDY-M|LDY-AN00|
 |Honor|荣耀MagicPad3 Pro 12.3|HNYLE-Q|YLE-W09|
 |Honor|荣耀Play11 Pro|HNLNA-M|LNA-AN00|
@@ -15184,6 +15207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|W56_US|W56|W56|
 |Hoozo|YK_P30|YK_P30|YK_P30|
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
+|Horion|HORION|elliniko|4K SMART TV|
 |Horion|HORION|jagalchi|2K SMART TV|
 |Horion|Horion_K8M8A|K8M8A|K8M8A|
 |Horion|IFPD|65W72B|W72B|
@@ -17098,6 +17122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10WB3MSG01|HT10WB3MSG01|10WB3|
 |Hyundai|HT10WC1MSG01|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG01_EEA|HT10WC1MSG01|10WC1|
+|Hyundai|HT10WC1MSG01_US|HT10WC1MSG01|10WC1|
 |Hyundai|HT7GB1MBK_|HT7GB1MBK_|7GB1|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
 |Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
@@ -17679,6 +17704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Indurama|Indurama|stanford|CSV2K|
 |Indurama|Indurama|zhongshan|CSV4K|
 |Indurama|Indurama 4K smart TV|eleonas|Indurama 4K smart TV|
+|Indurama|Indurama 4K smart TV|sapporo|Indurama 4K smart TV|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
 |Indurama|indurama 4K TV|SW4H|indurama 4K TV|
 |Indurama|indurama Smart TV|sunnyvale|indurama Smart TV|
@@ -17863,6 +17889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 8 Plus|Infinix-X6526|Infinix X6526|
 |Infinix|Infinix SMART 8 Pro|Infinix-X6525B|Infinix X6525B|
 |Infinix|Infinix SMART 9 HD|Infinix-X6532C|Infinix X6532C|
+|Infinix|Infinix TV|beomil|Infinix TV|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -18280,6 +18307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|NOTE_12P|NOTE_12P|NOTE 12P|
 |Invens|NOTE_15P_EEA|NOTE_15P|NOTE 15P|
 |Invens|NOTE_5G|NOTE_5G|NOTE 5G|
+|Invens|ONE_1C|ONE_1C|ONE_1C|
 |Invens|S1|S1|S1|
 |Invens|Spain|nagata|INVES SMART TV|
 |Invens|TK02_EEA|TK02|TK02|
@@ -18445,6 +18473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|IRIS 2K SmartTV|beomil|IRIS 2K SmartTV|
 |Iris|IRIS 2K SmartTV|umeda|IRIS 2K SmartTV|
 |Iris|IRIS 4K Android TV|SW4H_FF|IRIS 4K Android TV|
+|Iris|IRIS 4K Smart TV Lite|katehaki|IRIS 4K Smart TV Lite|
 |Iris|IRIS 4K Smart TV Plus|anaheim|IRIS 4K Smart TV Plus|
 |Iris|IRIS 4K SmartTV|SW6H|IRIS 4K SmartTV|
 |Iris|IRIS 4K SmartTV|eleonas|IRIS 4K SmartTV|
@@ -18783,6 +18812,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S25 Ultra|itel-S686LN|itel S686LN|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel Super 26 Ultra|itel-S688LN|itel S688LN|
+|Itel|itel TV|beomil|itel TV|
+|Itel|itel TV|eleonas|itel TV|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
 |Itel|itel V51 LTE|itel-L5007S|itel L5007S|
@@ -18947,9 +18978,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JUSYEA|J9_US|J9_US|J9_US|
 |JVC||gener|RY-AP1|
 |JVC|4K Smart TV|SW6H|4K Smart TV|
+|JVC|4K Smart TV|eleonas|4K Smart TV|
 |JVC|4K Smart TV|gangbyeon|4K AI Smart TV|
 |JVC|4K Smart TV|pioneer|4K SA Smart TV|
+|JVC|4K Smart TV|sapporo|4K Smart TV|
 |JVC|4K Smart TV Plus|SW6H|4K Smart TV Plus|
+|JVC|4K Smart TV Plus|sapporo|4K Smart TV Plus|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
 |JVC|AV-08NT310|AV-08NT310|AV-08NT310|
 |JVC|AV-10NT310|AV-10NT310|AV-10NT310|
@@ -19019,11 +19053,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|zhongshan|4K SMART TV|
 |JVC|JVC|zhongshan|COL 4K SMART TV|
 |JVC|JVC 2K Smart TV|dongnae|JVC 2K Smart TV|
+|JVC|JVC 2K TV|beomil|JVC 2K TV|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC eplay 4KTV FF|
 |JVC|JVC 4K Smart TV Plus|anaheim|JVC 4K Smart TV Plus|
+|JVC|JVC 4K TV|eleonas|JVC 4K TV|
 |JVC|JVC G24 TV|anaheim|JVC G24 TV|
 |JVC|JVC J20|Cunda|J20|
+|JVC|JVC TV|katehaki|JVC TV|
 |JVC|JVC UHD TV G0325|eleonas|JVC UHD TV G0325|
 |JVC|KR|expo|Premium 4K GTV|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
@@ -19040,6 +19077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|South Africa/Australia /Israel/Paraguay|tamachi|JVC Android TV|
 |JVC|South Africa/Australia /Israel/Paraguay|yeongdeungpo|JVC Android TV|
 |JVC|UHD Android TV|sindorim|AI PONT|
+|JVC|UHD Smart TV|eleonas|UHD Smart TV|
 |JVC|UK|tabata|UK 2K Android TV|
 |JVC|france|tamachi|JVC 2K Android TV|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
@@ -19357,6 +19395,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|BT-A500GA|BTA500|BTA500|
 |KEYENCE|BT-A600|BT-A600|BT-A600|
 |KEYENCE|BT-A600M|BT-A600|BT-A600M|
+|KEYENCE|BT-A800|BT-A800|BT-A800|
+|KEYENCE|BT-A800M|BT-A800|BT-A800M|
 |KEYENCE|BTA700|BTA700|BTA700|
 |KEYENCE|DX-A400|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
@@ -19441,6 +19481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KPHONE|S1|S1|S1|
 |KPN|KPN TV+ Box|m250_k|KPN DIW7022|
 |KPN|KPN TV+ Soundbox|m393vsb_kpn|KPN VSB3918|
+|KPP(KR)|Swan|KSTB2500|KSTB2500|
 |KRAVEiN|KR_T01|KR-T01|KR-T01|
 |KRIP|K4b|K4b|K4b|
 |KRIP|K4m|K4m|K4m|
@@ -19778,6 +19819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Kalley TV|beomil|Kalley TV|
 |Kalley|Kalley TV|eleonas|Kalley TV|
 |Kalley|Kalley TV|katehaki|Kalley TV|
+|Kalley|Kalley TV|sapporo|Kalley TV|
 |Kalley|Kalley_FlexTab_11|Kalley_FlexTab_11|Kalley_FlexTab 11|
 |Kalley|Klic|SA|K4-02 4G|
 |Kalley|R10G|R10G|R10G|
@@ -22654,6 +22696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LegendComfortable|SEP011037|SEP011037|SEP011037|
 |LeiaInc|Lume Pad|LumePad|LPD-20W|
 |Leica|Leica CSX8|CSX8|LGT-08QA-2301|
+|Leica|Leica Cine Compact 1|fushishan|Leica Cine Compact 1|
 |Leica|Leica Laser|wuyishan|SmartTV 4K|
 |Lenco|Israel|sepolia|LENCO 4K smart TV|
 |Lenco|Lenovo Tab K8|TB-8506N|Lenovo TB-8506N|
@@ -24435,6 +24478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MYCOM|COMEK_Tab_10|COMEK_Tab_10|COMEK Tab 10|
 |MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
 |MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K|
+|MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K10|
 |MYCOM|COMEK_Tab_K2|COMEK_Tab_K2|COMEK Tab K2|
 |MaQ(Global)|M.AI Phone Gen1|MAG1|MA1|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
@@ -24792,6 +24836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|TAB_MAX_7|TAB_MAX_7|Byybuo|
 |Maxwest|TAB_MAX_7|TAB_MAX_7|TAB_MAX_7|
 |Maxzz|TA-04|TA-04|TA-04|
+|Maxzz|TA-05|TA-05|TA-05|
 |Mazda|Mazda Connect|MAZDA_CONNECT_AA_G12|MAZDA CONNECT|
 |Mazda|Mazda Connect|MAZDA_CONNECT_AA_G15|MAZDA CONNECT|
 |Maze_speed|M1582C|M1582C|M1582C|
@@ -26430,6 +26475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motorola Defy 2|BM2S1E|Defy 2|
 |Motorola|Motorola TV|beomil|Motorola TV|
 |Motorola|Motorola TV|eleonas|Motorola TV|
+|Motorola|Motorola TV|katehaki|Motorola TV|
 |Motorola|Motorola TV FF|eleonas|Motorola TV FF|
 |Motorola|Motorola one|deen_sprout|motorola one|
 |Motorola|MotorolaTV|hayward|MotorolaTV|
@@ -27508,6 +27554,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NCE TV|NCE Google Smart TV|dongnae|NCE Google Smart TV|
 |NCTC|KSTB2020|KSTB2020|KSTB2020|
 |NCTC|KSTB2100|KSTB2100|KSTB2100|
+|NCTC|KSTB6200|KSTB6200|KSTB6200|
+|NCTC|ValleyFiber|KSTB2500|KSTB2500|
 |NEC|101T 　MEDIAS|NEC-101|NEC-101T|
 |NEC|AGT10|AGT10|N8730-411|
 |NEC|AGT10|AGT10|N8730-41101|
@@ -28096,6 +28144,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NobleSkiodo|NSTV|SW6H|NSTV|
 |NobleSkiodo|NSTV FF|SW6H|NSTV FF|
 |NobleSkiodo|Noble Skiodo TV|beomil|Noble Skiodo TV|
+|NobleSkiodo|Noble Skiodo TV|eleonas|Noble Skiodo TV|
+|NobleSkiodo|Noble Skiodo TV FF|eleonas|Noble Skiodo TV FF|
 |NobleSkiodo|Smart TV|alimos|AI PONT|
 |NobleSkiodo|Smart TV|dangni|AI PONT|
 |Noblex|4K Smart FF TV|SW6H|4K Smart FF TV|
@@ -28115,6 +28165,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|NBX-T1014N|TA10CA2|TA10CA2|
 |Noblex|NBX-T7014|E270BSA|NBX-T7014|
 |Noblex|NOBLEX Smart TV|sunnyvale|NOBLEX Smart TV|
+|Noblex|NS 2K SMART TV|alameda|NS 2K SMART TV|
+|Noblex|NS 4K SMART TV|eleonas|NS 4K SMART TV|
+|Noblex|NS 4K SMART TV|katehaki|NS 4K SMART TV|
 |Noblex|Noblex TV|SW4H|Noblex TV|
 |Noblex|NoblexTV|shinjuku|NoblexTV|
 |Noblex|R3|R3|R3|
@@ -28486,6 +28539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuvision|TM800A730M|TM800AM|TM800A730M|
 |Nuvision|TM800A740M|TM800AM|TM800A740M|
 |O\'NICE|O\'NICE I-TOUCH M1|ONICE_I-TOUCH_M1|i-touch M1|
+|O2 (O2 Slovakia)|KPP STB|KSTB7268|KSTB7268|
 |O2.CZ|O2 TV Box|O2TV_B866V2|O2 TV Box|
 |OASE|EL-P1|EL-P1|EL-P1|
 |OASYS|AudeaTablet|AudeaTablet|AudeaTablet|
@@ -28626,6 +28680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONPAD|Luxon|Luxon|Luxon|
 |ONPAD|Vexon|Vexon|Vexon|
 |ONVO|EMEA|sepolia|ONVO TV|
+|ONVO|ONVO|elliniko|4K SMART TV|
 |ONVO|ONVO TV|dongnae|ONVO TV|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|BOOX|BOOX|BOOX|
@@ -29037,6 +29092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OneScreen|OPS LF with Android|OneScreen-OPS-LF|OneScreen-OPS-LFA|
 |OneScreen|OneScreen T7|rk3588_t|T7|
 |OneScreen|OneScreen Titan|oversea_v|Titan|
+|OneScreen|OneScreen_Android_OPS_2|oversea_v|OneScreen_Android_OPS_2|
 |OneScreen|OneScreen_Core|OneScreen_Core|Core|
 |OneScreen|Wandr_W1|Wandr|OneScreen Wandr|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
@@ -30821,6 +30877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRIMA|Smart TV|dangni|AI PONT|
 |PRIMA|Smart TV|osaka|AI PONT SA|
 |PRISMPLUS|4K Smart TV Plus|anaheim|4K Smart TV Plus|
+|PRISMPLUS|PrismPlus 2KA|beomil|PrismPlus 2KA|
 |PRISMPLUS|PrismPlus 2KA|umeda|PrismPlus 2KA|
 |PRISMPLUS|PrismPlus 4K Android TV|SW4H|PrismPlus 4K Android TV|
 |PRISMPLUS|PrismPlus 4K Pro Android TV|SW4H_FF|PrismPlus 4K Pro Android TV|
@@ -30906,6 +30963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|102P|pana2_4s|102P|
 |Panasonic|2KTV-5SH|umeda|2KTV-5SH|
 |Panasonic|2KTV-5SHP|umeda|2KTV-5SHP|
+|Panasonic|2KTV-6SH|beomil|2KTV-6SH|
 |Panasonic|43DX400C|DX01C|DX01C|
 |Panasonic|43GX580C|GX580C|9S61Z_ZQ20S|
 |Panasonic|48AX600C|mst918_4G|48AX600C|
@@ -30917,6 +30975,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|4KTV-3SUF|SW6H|4KTV-3SUF|
 |Panasonic|4KTV-3SUP|SW6H|4KTV-3SUP|
 |Panasonic|4KTV-4SUH|anaheim|4KTV-4SUH|
+|Panasonic|4KTV-6SU|eleonas|4KTV-6SU|
+|Panasonic|4KTV-6SUF|eleonas|4KTV-6SUF|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
 |Panasonic|A-DA|balticaCA|MY21ADA|
@@ -31132,6 +31192,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Panasonic|Jupiter|4KTV-JUP|
 |Panasonic|Panasonic 2021 UHD Android TV|OD0M_EA_T32|Panasonic 2021 UHD Android TV|
 |Panasonic|Panasonic 2021 UHD Android TV|OD0M_EA_T32|Panasonic UHD TV|
+|Panasonic|Panasonic 2K TV|beomil|Panasonic 2K TV|
+|Panasonic|Panasonic 2K TV LA|beomil|Panasonic 2K TV LA|
+|Panasonic|Panasonic 4K TV US|sapporo|Panasonic 4K TV US|
 |Panasonic|Panasonic P100|P100|P100|
 |Panasonic|Panasonic P100|P100|Panasonic P100|
 |Panasonic|Panasonic P101|P101|P101|
@@ -31142,8 +31205,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Panasonic P90|Panasonic_P90|Panasonic P90|
 |Panasonic|Panasonic P90 3G|Panasonic_P90_3G|Panasonic P90 3G|
 |Panasonic|Panasonic P95|P95|Panasonic P95|
+|Panasonic|Panasonic Smart TV Lite|katehaki|Panasonic Smart TV Lite|
 |Panasonic|Panasonic T70|T70|Panasonic T70|
 |Panasonic|Panasonic TV|SW3H_ATV|GX655|
+|Panasonic|Panasonic TV|eleonas|Panasonic TV|
+|Panasonic|Panasonic TV FF|eleonas|Panasonic TV FF|
+|Panasonic|Panasonic TV FF LA|eleonas|Panasonic TV FF LA|
+|Panasonic|Panasonic TV FF US|eleonas|Panasonic TV FF US|
+|Panasonic|Panasonic TV LA|eleonas|Panasonic TV LA|
+|Panasonic|Panasonic TV US|eleonas|Panasonic TV US|
 |Panasonic|Panasonic_LH_GT1ND|Panasonic_LH_GT1ND|Panasonic_LH_GT1ND|
 |Panasonic|R3|R3|2KTV-2TH|
 |Panasonic|R3_GTV|||
@@ -31153,6 +31223,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|RSE1708|RSE1708|RSE1708|
 |Panasonic|SDU|SDU|9 inch SDU|
 |Panasonic|SDU|SDU|SDU|
+|Panasonic|SKYWORTH 4K TV|sapporo|SKYWORTH 4K TV|
+|Panasonic|SKYWORTH 4K TV NF|sapporo|SKYWORTH 4K TV NF|
 |Panasonic|SM17|SM17|Smart Monitor 17|
 |Panasonic|SMLK2A|SMLK2A|SMLK2A|
 |Panasonic|SPU-A05-SWG|SPU-A05-SWG|SPU-A05-SWG|
@@ -31459,6 +31531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S8320 EEA|Philips_S8320|Philips S8320|
 |Philips|Philips S8325|Philips_S8325|Philips S8325|
 |Philips|Philips Smart 2K TV|beomil|Philips Smart 2K TV|
+|Philips|Philips Smart 4K TV|eleonas|Philips Smart 4K TV|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
 |Philips|Philips SmartTV|freesia|PHILIPS 4k TV|
 |Philips|Philips V787|Philips_Xenium_V787|Philips Xenium V787|
@@ -31553,6 +31626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phone Max|X10_EEA|X10|X10|
 |Phone Max|X1_Pro|X1_Pro|X1 Pro|
 |Phone Max|X3Pro|X3Pro|X3Pro|
+|Phone Max|X5_G_EEA|X5_G|X5_G|
 |Phone Max|X5_T_EEA|X5_T|X5_T|
 |PicassoTab|PicassoTab_A10|A10|PicassoTab A10|
 |PicassoTab|PicassoTab_X11|X11|PicassoTab X11|
@@ -32697,6 +32771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|P7_A08|P7_A08|P7|
 |Pritom|P7_A10|P7_A10|P7|
 |Pritom|P7_A10K_EEA|P7_A10K_EEA|P7|
+|Pritom|P7_A10K_W|P7_A10K_W|P7|
 |Pritom|P7_A10_EEA|P7_A10_EEA|P7|
 |Pritom|P7_A10_EEA_01|P7_A10_EEA_01|P7|
 |Pritom|P7_A10_M|P7_A10_M|P7|
@@ -33327,6 +33402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RECCO|Android TV|R1|ATV R1|
 |RECCO|Android TV|R2|ATV R2|
 |RED|HydrogenONE|HydrogenONE|H1A1000|
+|REDLINE|REDLINE|elliniko|4K SMART TV|
 |REDLINE|Space_A10|Space_A10|Space_A10|
 |REDLINE|Space_A18|Space_A8|Space_A8|
 |REDLINE|Space_M10|Space_M10|Space_M10|
@@ -33524,8 +33600,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT Neo2T|RE5469|RMX3357|
 |Realme|真我V11s 5G|RE5485|RMX3125|
 |Realme Techlife|Flipkart India Private Limited|jialu|Realme Smart TV|
+|Realme Techlife|REALME TECHLIFE|elliniko|4K SMART TV|
 |Realme Techlife|Realme TV|beomil|Realme TV|
 |Realme Techlife|Realme TV|eleonas|Realme TV|
+|Realme Techlife|Realme TV|katehaki|Realme TV|
 |Realme Techlife|Realme TV FF|eleonas|Realme TV FF|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
 |Realtek|RealtekThor|RealtekThor|RealtekThor|
@@ -34113,6 +34191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TAB10_US|TAB10_US|TAB10|
 |Relndoo|TAB10_US|TAB10_US|TAB10_US|
 |Relndoo|TAB9-E-EEA|TAB9|TAB9|
+|Relndoo|TAB9-M_US|TAB9|TAB9|
 |Relndoo|TAB9-US|TAB9|TAB9|
 |Relndoo|TAB9_EEA|TAB9_EEA|TAB9_EEA|
 |Relndoo|TB02|TB02|TB02|
@@ -35053,6 +35132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P11|P11|P11|
 |SVITOO|P11|P11|P13|
 |SVITOO|P11_R_EEA|P11_R|P11_R|
+|SVITOO|P11_R_ROW|P11_R|P11_R|
 |SVITOO|P11_T_ROW|P11_T|P11_T|
 |SVITOO|P11_T_US|P11_T|P11_T|
 |SVITOO|P11_pro|P11|P11|
@@ -35131,14 +35211,25 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24H-4K NF|
 |SWTV|SWTV-24HK-4K NF|eleonas|SWTV-24HK-4K NF|
 |SWTV|SWTV-24HK-FHD|beomil|SWTV-24HK-FHD|
+|SWTV|SWTV-24LA-FHD|beomil|SWTV-24LA-FHD|
 |SWTV|SWTV-24NA-4K|eleonas|SWTV-24NA-4K|
 |SWTV|SWTV-24NA-4K NF|eleonas|SWTV-24NA-4K NF|
 |SWTV|SWTV-24NA-FHD|beomil|SWTV-24NA-FHD|
 |SWTV|SWTV-24SA-4K|eleonas|SWTV-24SA-4K|
 |SWTV|SWTV-24SA-4K NF|eleonas|SWTV-24SA-4K NF|
 |SWTV|SWTV-24SA-FHD|beomil|SWTV-24SA-FHD|
+|SWTV|SWTV-25HK|katehaki|SWTV-25HK|
+|SWTV|SWTV-25NA-4K|katehaki|SWTV-25NA-4K|
+|SWTV|SWTV-25SA-4K|katehaki|SWTV-25SA-4K|
 |SWTV|SWTV-25TGL-4K|katehaki|SWTV-25TGL-4K|
 |SWTV|SWTV-26AE-4K|sapporo|SWTV-26AE-4K|
+|SWTV|SWTV-26AE-4K NF|sapporo|SWTV-26AE-4K NF|
+|SWTV|SWTV-26HK-4K|sapporo|SWTV-26HK-4K|
+|SWTV|SWTV-26LA-4K|sapporo|SWTV-26LA-4K|
+|SWTV|SWTV-26NA-2KA5|alameda|SWTV-26NA-2KA5|
+|SWTV|SWTV-26NA-4K|sapporo|SWTV-26NA-4K|
+|SWTV|SWTV-26SA-2KA5|alameda|SWTV-26SA-2KA5|
+|SWTV|SWTV-26SA-4K|sapporo|SWTV-26SA-4K|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -38655,6 +38746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|SANSUI SmartTV|sunnyvale|SANSUI SmartTV|
 |Sansui|SANSUI TV|beomil|SANSUI TV|
 |Sansui|SANSUI TV|eleonas|SANSUI TV|
+|Sansui|SANSUI TV|katehaki|SANSUI TV|
 |Sansui|SANSUI TV FF|eleonas|SANSUI TV FF|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
 |Sansui|Sansui Play|Play|Sansui Play|
@@ -39283,6 +39375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP|zhongshan|4K SMART TV|
 |Sharp|SHARP 2K SMART TV|shinagawa|SHARP 2K SMART TV|
 |Sharp|SHARP 2K Smart TV|umeda|SHARP 2K Smart TV|
+|Sharp|SHARP 2K Smart TV-A|beomil|SHARP 2K Smart TV-A|
 |Sharp|SHARP 2K TV|dongnae|SHARP 2K TV|
 |Sharp|SHARP 2K TV|umeda|SHARP 2K TV|
 |Sharp|SHARP 4K TV|SW6H|SHARP 4K TV|
@@ -39303,6 +39396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP Android TV|SW4H_FF|SHARP Android TV|
 |Sharp|SHARP FHD TV|takao|SHARP FHD TV|
 |Sharp|SHARP PH 2K Smart TV|umeda|SHARP 2K Smart TV|
+|Sharp|SHARP PH 2K Smart TV-A|beomil|SHARP PH 2K Smart TV-A|
 |Sharp|SHARP R1S|SK3|FS8028|
 |Sharp|SHARP TBC|SI3|FS8025|
 |Sharp|SHARP UHD TV|OD0M_EA_T32|SHARP UHD TV|
@@ -40186,6 +40280,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE44|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE54|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE72|
+|Sony|Xperia 10 VIII|XQ-GH|XQ-GH54|
+|Sony|Xperia 10 VIII|XQ-GH|XQ-GH74|
 |Sony|Xperia 5|901SO|901SO|
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J8270|J8270|
@@ -44597,11 +44693,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telefunken|TEL-73GIQA|TEL-73GIQA|TEL-73GIQA|
 |Telefunken|TEL-73GIQA11|TEL-73GIQA11|TEL-73GIQA11|
 |Telefunken|TEL-74GIQA|TEL-74GIQA|TEL-74GIQA|
+|Telefunken|TELEFUNKEN 2K TV|beomil|TELEFUNKEN 2K TV|
+|Telefunken|TELEFUNKEN 4K TV|eleonas|TELEFUNKEN 4K TV|
+|Telefunken|TELEFUNKEN 4K TV|katehaki|TELEFUNKEN 4K TV|
+|Telefunken|TELEFUNKEN 4K TV FF|eleonas|TELEFUNKEN 4K TV FF|
 |Telefunken|TELEFUNKEN SMART TV|SW4H|TELEFUNKEN SMART TV|
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
 |Telefunken|TF5X|TF5X|TF5X|
 |Telefunken|TF6|TF6|TF6|
 |Telefunken|TF600|TF600|TF600|
+|Telefunken|Telefunken 4K TV|sapporo|Telefunken 4K TV|
 |Telefunken|TelefunkenTV|shibuya|TelefunkenTV|
 |Telefunken|VP73_Telefunken|Telefunken|VP73_Telefunken|
 |Telegenic|TELEGENIC-AML-1|DMTS19TIA|TELEGENIC-AML-1|
@@ -44749,6 +44850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tetratab|TF10EA2|TF10EA2_Medical_1|CASEBOOK_3|
 |Tevau|T1|T1|T1|
 |The Edge|NLE|oversea_v|NLE|
+|TheNudge|HyundaiIT_Smartboard_Ai|HDBN|HDBN|
 |TheNudge|Smartboard_Ai|oversea_v|HDJN|
 |Theros|Theros 2K Google TV|dongnae|Theros 2K Google TV|
 |ThinkAcademy|T100|T100|T100|
@@ -46182,6 +46284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VORCOM|S7Pro|S7Pro|S7Pro|
 |VORCOM|S8-CLASSIC|S8-CLASSIC|S8-CLASSIC|
 |VORCOM|S8Pro|S8Pro|S8Pro|
+|VORCOM|STAB7|STAB7|STAB7|
 |VORCOM|SXPRO|SXPRO|SXPRO|
 |VORCOM|SXPRO_classic|SXPRO_classic|SXPRO_classic|
 |VORCOM|SXPro-P40|SXPro-P40|SXPro-P40|
@@ -47345,6 +47448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y56 5G|V2225|V2225|
 |Vivo|Y56 5G|V2225|V2311|
 |Vivo|Y58 5G|V2355|V2355|
+|Vivo|Y600|PD2607|V2607A|
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
@@ -48799,6 +48903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XPLORE|XPLORE X7U|X7U|XPLORE X7U|
 |XPPen|MDP1231_ROW|MDP1231|MDP1231|
 |XPPen|MDP1232_EEA|MDP1231|MDP1231|
+|XPPen|MDP1234_US|MDP1231|MDP1231|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
 |XREAL|Beam Pro|X4000|X4000|
@@ -53010,6 +53115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme P4 Lite|RE648B|RMX5378|
 |realme|realme P4 Power 5G|RE646FL1|RMX5107|
 |realme|realme P4 Pro 5G|RE644BL1|RMX5116|
+|realme|realme P4s 5G|RE6472L1|RMX5125|
 |realme|realme P4x|RE6488|RMX5367|
 |realme|realme P4x 5G|RE6450L1|RMX5108|
 |realme|realme Pad 2|RE5C6EL1|RMP2204|
@@ -53349,6 +53455,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31d Pro|V2543U|V2543|
 |vivo|Y31e 5G|V2521|V2533|
 |vivo|Y31s 5G|V2521|V2614|
+|vivo|Y31t 5G|V2571|V2571|
+|vivo|Y31t 5G|V2571|V2574|
 |vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
@@ -53384,6 +53492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y6|PD2531|V2531A|
 |vivo|Y60|PD2559|V2559A|
 |vivo|Y60 AI版|PD2559|V2559A|
+|vivo|Y600 AI|PD2607|V2607A|
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y600 Turbo|PD2553|V2553A|
