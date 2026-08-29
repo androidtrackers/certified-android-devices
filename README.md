@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-28
+Last sync is 2026-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5278,6 +5278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Tank_Xtreme|T0030WW|Tank Xtreme|
 |Blu|Touchbook M7 Pro|P290|Touchbook M7 Pro|
 |Blu|VIEW 5|B161V|B161V|
+|Blu|VIEW PRO 5G|B1680V|B1680V|
 |Blu|VIVO 5|BLU_VIVO_5|VIVO 5|
 |Blu|VIVO 5R|BLU_Vivo_5R|Vivo 5R|
 |Blu|VIVO 6|BLU_Vivo_6|Vivo 6|
