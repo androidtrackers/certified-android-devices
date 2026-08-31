@@ -9968,6 +9968,13 @@
    "model": "ASTECH_IRIS_60"
   }
  ],
+ "ASTECH_S21": [
+  {
+   "brand": "ASTECH",
+   "name": "ASTECH_S21",
+   "model": "ASTECH_S21"
+  }
+ ],
  "Astech_NEO": [
   {
    "brand": "ASTECH",
@@ -67992,6 +67999,13 @@
    "model": "MegaPad"
   }
  ],
+ "MegaPad_Air": [
+  {
+   "brand": "Cubot",
+   "name": "MegaPad Air",
+   "model": "MegaPad Air"
+  }
+ ],
  "NOTE_20": [
   {
    "brand": "Cubot",
@@ -88631,6 +88645,11 @@
    "brand": "FOXXD",
    "name": "A67L",
    "model": "A67L"
+  },
+  {
+   "brand": "FOXXD",
+   "name": "FOXXD A67L Gen2",
+   "model": "A67L Gen2"
   }
  ],
  "A67L_Gen2": [
@@ -142975,6 +142994,13 @@
    "model": "Black S"
   }
  ],
+ "Black_S3": [
+  {
+   "brand": "Kalley",
+   "name": "Black S3",
+   "model": "Black S3"
+  }
+ ],
  "Black_Z1": [
   {
    "brand": "Kalley",
@@ -164872,6 +164898,18 @@
    "brand": "Lenovo",
    "name": "YOGA Tab Pro AI Yuanqi",
    "model": "TB520FU"
+  }
+ ],
+ "TB522FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Yoga Tab Plus Gen2",
+   "model": "TB522FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板 拯救者 Y900 13",
+   "model": "TB522FU"
   }
  ],
  "heart": [
@@ -335591,6 +335629,13 @@
    "brand": "iMuz",
    "name": "IM-H031",
    "model": "IM-H031"
+  }
+ ],
+ "IM-H031N": [
+  {
+   "brand": "iMuz",
+   "name": "IM-H031N",
+   "model": "IM-H031N"
   }
  ],
  "IM-H092L": [

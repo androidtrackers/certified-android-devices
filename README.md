@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-08-30
+Last sync is 2026-08-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -429,6 +429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
 |ASTECH|ASTECH_IRIS_60|ASTECH_IRIS_60|ASTECH_IRIS_60|
+|ASTECH|ASTECH_S21|ASTECH_S21|ASTECH_S21|
 |ASTECH|Astech NEO|Astech_NEO|Astech NEO|
 |ASTECH|Astech S7|Astech_S7|Astech S7|
 |ASTECH|Astech S7 pro|Astech_S7_pro|Astech S7 pro|
@@ -7495,6 +7496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|MAX 3|MAX_3|MAX 3|
 |Cubot|MAX 5|MAX_5|MAX 5|
 |Cubot|MegaPad|MegaPad|MegaPad|
+|Cubot|MegaPad Air|MegaPad_Air|MegaPad Air|
 |Cubot|NOTE 20|NOTE_20|NOTE 20|
 |Cubot|NOTE 20 PRO|NOTE_20_PRO|NOTE 20 PRO|
 |Cubot|NOTE 30|NOTE_30|NOTE 30|
@@ -10547,6 +10549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|AS65U|AS65U|Sail 3|
 |FOXXD|AS65U|AS65U|T2|
 |FOXXD|C10|C10|C10|
+|FOXXD|FOXXD A67L Gen2|A67L|A67L Gen2|
 |FOXXD|FOXXD C10 Pro|C10_Pro|FOXXD C10 Pro|
 |FOXXD|FOXXD C65|FOXXD_C65|FOXXD C65|
 |FOXXD|FOXXD C69M|C69M|FOXXD C69M|
@@ -19788,6 +19791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black G4S|Black_G4S|Black G4S|
 |Kalley|Black G4S2|Black_G4S2|Black G4S2|
 |Kalley|Black S|Black_S|Black S|
+|Kalley|Black S3|Black_S3|Black S3|
 |Kalley|Black Z1|Black_Z1|Black Z1|
 |Kalley|Black Z2|Black_Z2|Black Z2|
 |Kalley|Black_3C|Black_3|Black 3|
@@ -23303,6 +23307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Yoga Tab 11|YT-J706F|Lenovo YT-J706F|
 |Lenovo|Lenovo Yoga Tab 11|YT-J706X|Lenovo YT-J706X|
 |Lenovo|Lenovo Yoga Tab Plus|TB520FU|TB520FU|
+|Lenovo|Lenovo Yoga Tab Plus Gen2|TB522FU|TB522FU|
 |Lenovo|Lenovo Z5 Pro|heart|Lenovo L78032|
 |Lenovo|Lenovo Z6 Pro 5G|cream|Lenovo L79041|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
@@ -23537,6 +23542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|拯救者电竞手机2Pro|doom|Lenovo L70081|
 |Lenovo|拯救者电竞手机二代|doom|Lenovo L70081|
 |Lenovo|联想小新平板Pro GT|TB710FU|TB710FU|
+|Lenovo|联想平板 拯救者 Y900 13|TB522FU|TB522FU|
 |Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|联想平板电脑 启天K10c|TB330FU|TB330FU|
@@ -52500,6 +52506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMuz|IM-B101H|IM-B101H|IM-B101H|
 |iMuz|IM-B102|IM-B102|IM-B102|
 |iMuz|IM-H031|IM-H031|IM-H031|
+|iMuz|IM-H031N|IM-H031N|IM-H031N|
 |iMuz|IM-H092L|IM-H092L|IM-H092L|
 |iMuz|IM-H092W|IM-H092W|IM-H092W|
 |iMuz|IM-H093|IM-H093|IM-H093|

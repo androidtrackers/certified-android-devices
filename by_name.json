@@ -11801,6 +11801,13 @@
    "model": "ASTECH_IRIS_60"
   }
  ],
+ "ASTECH_S21": [
+  {
+   "brand": "ASTECH",
+   "device": "ASTECH_S21",
+   "model": "ASTECH_S21"
+  }
+ ],
  "Astech NEO": [
   {
    "brand": "ASTECH",
@@ -65429,6 +65436,13 @@
    "model": "MegaPad"
   }
  ],
+ "MegaPad Air": [
+  {
+   "brand": "Cubot",
+   "device": "MegaPad_Air",
+   "model": "MegaPad Air"
+  }
+ ],
  "NOTE 20": [
   {
    "brand": "Cubot",
@@ -87473,6 +87487,13 @@
    "brand": "SGIN",
    "device": "C10",
    "model": "C10"
+  }
+ ],
+ "FOXXD A67L Gen2": [
+  {
+   "brand": "FOXXD",
+   "device": "A67L",
+   "model": "A67L Gen2"
   }
  ],
  "FOXXD C10 Pro": [
@@ -143100,6 +143121,13 @@
    "model": "Black S"
   }
  ],
+ "Black S3": [
+  {
+   "brand": "Kalley",
+   "device": "Black_S3",
+   "model": "Black S3"
+  }
+ ],
  "Black Z1": [
   {
    "brand": "Kalley",
@@ -163302,6 +163330,13 @@
    "model": "TB520FU"
   }
  ],
+ "Lenovo Yoga Tab Plus Gen2": [
+  {
+   "brand": "Lenovo",
+   "device": "TB522FU",
+   "model": "TB522FU"
+  }
+ ],
  "Lenovo Z5 Pro": [
   {
    "brand": "Lenovo",
@@ -164677,6 +164712,13 @@
    "brand": "Lenovo",
    "device": "TB710FU",
    "model": "TB710FU"
+  }
+ ],
+ "联想平板 拯救者 Y900 13": [
+  {
+   "brand": "Lenovo",
+   "device": "TB522FU",
+   "model": "TB522FU"
   }
  ],
  "联想平板电脑 启天K10": [
@@ -336128,6 +336170,13 @@
    "brand": "iMuz",
    "device": "IM-H031",
    "model": "IM-H031"
+  }
+ ],
+ "IM-H031N": [
+  {
+   "brand": "iMuz",
+   "device": "IM-H031N",
+   "model": "IM-H031N"
   }
  ],
  "IM-H092L": [

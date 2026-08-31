@@ -2317,6 +2317,11 @@
    "model": "ASTECH_IRIS_60"
   },
   {
+   "device": "ASTECH_S21",
+   "name": "ASTECH_S21",
+   "model": "ASTECH_S21"
+  },
+  {
    "device": "Astech_NEO",
    "name": "Astech NEO",
    "model": "Astech NEO"
@@ -38817,6 +38822,11 @@
    "model": "MegaPad"
   },
   {
+   "device": "MegaPad_Air",
+   "name": "MegaPad Air",
+   "model": "MegaPad Air"
+  },
+  {
    "device": "NOTE_20",
    "name": "NOTE 20",
    "model": "NOTE 20"
@@ -54799,6 +54809,11 @@
    "device": "C10",
    "name": "C10",
    "model": "C10"
+  },
+  {
+   "device": "A67L",
+   "name": "FOXXD A67L Gen2",
+   "model": "A67L Gen2"
   },
   {
    "device": "C10_Pro",
@@ -102202,6 +102217,11 @@
    "model": "Black S"
   },
   {
+   "device": "Black_S3",
+   "name": "Black S3",
+   "model": "Black S3"
+  },
+  {
    "device": "Black_Z1",
    "name": "Black Z1",
    "model": "Black Z1"
@@ -120067,6 +120087,11 @@
    "model": "TB520FU"
   },
   {
+   "device": "TB522FU",
+   "name": "Lenovo Yoga Tab Plus Gen2",
+   "model": "TB522FU"
+  },
+  {
    "device": "heart",
    "name": "Lenovo Z5 Pro",
    "model": "Lenovo L78032"
@@ -121235,6 +121260,11 @@
    "device": "TB710FU",
    "name": "联想小新平板Pro GT",
    "model": "TB710FU"
+  },
+  {
+   "device": "TB522FU",
+   "name": "联想平板 拯救者 Y900 13",
+   "model": "TB522FU"
   },
   {
    "device": "X6C6NBF",
@@ -269898,6 +269928,11 @@
    "device": "IM-H031",
    "name": "IM-H031",
    "model": "IM-H031"
+  },
+  {
+   "device": "IM-H031N",
+   "name": "IM-H031N",
+   "model": "IM-H031N"
   },
   {
    "device": "IM-H092L",
