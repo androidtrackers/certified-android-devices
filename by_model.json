@@ -17820,6 +17820,11 @@
    "device": "S12"
   },
   {
+   "brand": "FOSSiBOT",
+   "name": "S12",
+   "device": "S12"
+  },
+  {
    "brand": "G-Tab",
    "name": "S12",
    "device": "S12"
@@ -38331,6 +38336,13 @@
    "device": "B23_U_US"
   }
  ],
+ "B25_E": [
+  {
+   "brand": "Biegedy",
+   "name": "B25_E",
+   "device": "B25_E"
+  }
+ ],
  "B25_EEA": [
   {
    "brand": "Biegedy",
@@ -41480,6 +41492,13 @@
    "device": "WAVE_2C"
   }
  ],
+ "WAVE 3": [
+  {
+   "brand": "Blackview",
+   "name": "WAVE 3",
+   "device": "WAVE_3"
+  }
+ ],
  "WAVE 6C": [
   {
    "brand": "Blackview",
@@ -41557,6 +41576,13 @@
    "device": "XPLORE2_S"
   }
  ],
+ "XPLORE 6 Pro": [
+  {
+   "brand": "Blackview",
+   "name": "XPLORE 6 Pro",
+   "device": "XPLORE_6_Pro"
+  }
+ ],
  "XPLORE X1": [
   {
    "brand": "Blackview",
@@ -41597,6 +41623,13 @@
    "brand": "Blackview",
    "name": "ZENO 5",
    "device": "ZENO_5"
+  }
+ ],
+ "ZENO 6 Pro": [
+  {
+   "brand": "Blackview",
+   "name": "ZENO 6 Pro",
+   "device": "ZENO_6_Pro"
   }
  ],
  "A-STREAM": [
@@ -48418,6 +48451,13 @@
    "brand": "OSCAL",
    "name": "C80",
    "device": "C80"
+  }
+ ],
+ "CX10": [
+  {
+   "brand": "CILICO",
+   "name": "CX10",
+   "device": "CX10"
   }
  ],
  "F750": [
@@ -64548,6 +64588,13 @@
    "device": "DS65"
   }
  ],
+ "DS95": [
+  {
+   "brand": "DSIC",
+   "name": "Mobilebase DS95",
+   "device": "DS95"
+  }
+ ],
  "RD86QE": [
   {
    "brand": "DSIC",
@@ -70607,6 +70654,13 @@
    "brand": "Doogee",
    "name": "N70",
    "device": "1925T"
+  }
+ ],
+ "Note 57": [
+  {
+   "brand": "Doogee",
+   "name": "Note 57",
+   "device": "1928CL-C"
   }
  ],
  "Note 58": [
@@ -90683,6 +90737,13 @@
    "device": "GX290"
   }
  ],
+ "E940-3044-01": [
+  {
+   "brand": "Gigaset",
+   "name": "GX30 EP",
+   "device": "GX30_EP"
+  }
+ ],
  "GS270": [
   {
    "brand": "Gigaset",
@@ -102081,6 +102142,11 @@
    "brand": "HUGEROCK",
    "name": "T-Smart",
    "device": "H81-4G-M45"
+  },
+  {
+   "brand": "HUGEROCK",
+   "name": "T-Smart-H72",
+   "device": "H72-5G-M60"
   }
  ],
  "E10_A": [
@@ -112545,6 +112611,13 @@
    "brand": "Honor",
    "name": "HONOR X5d Plus",
    "device": "HNNLA-M"
+  }
+ ],
+ "MLD-LX2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X5e s",
+   "device": "HNMLD-M"
   }
  ],
  "VNE-LX1": [
@@ -158058,6 +158131,13 @@
    "device": "S18_Max"
   }
  ],
+ "i18 Pro Max": [
+  {
+   "brand": "LUO(A)",
+   "name": "i18 Pro Max",
+   "device": "i18_Pro_Max"
+  }
+ ],
  "L1582C": [
   {
    "brand": "LUSH_MINT",
@@ -169709,6 +169789,13 @@
    "device": "ORION_E1_PLUS"
   }
  ],
+ "ORION E2": [
+  {
+   "brand": "Logicom",
+   "name": "ORION E2",
+   "device": "ORION_E2"
+  }
+ ],
  "POWER BOT": [
   {
    "brand": "Logicom",
@@ -173830,6 +173917,13 @@
    "brand": "Mantra",
    "name": "mDESK",
    "device": "mDESK"
+  }
+ ],
+ "RT1308B": [
+  {
+   "brand": "MapleSystems",
+   "name": "RT1308B",
+   "device": "RT1308B"
   }
  ],
  "DV6067H": [
@@ -199787,6 +199881,13 @@
    "device": "PILOT_6"
   }
  ],
+ "PILOT 8": [
+  {
+   "brand": "OSCAL",
+   "name": "PILOT 8",
+   "device": "PILOT_8"
+  }
+ ],
  "Pad 100": [
   {
    "brand": "OSCAL",
@@ -213241,6 +213342,13 @@
    "brand": "PROTON",
    "name": "Infinity 8",
    "device": "Infinity_8"
+  }
+ ],
+ "NitroX": [
+  {
+   "brand": "PROTON",
+   "name": "NitroX",
+   "device": "Proton_NitroX"
   }
  ],
  "P25 Ultra": [
@@ -230188,6 +230296,13 @@
    "device": "AF13_EEA"
   }
  ],
+ "AF8_ROW": [
+  {
+   "brand": "RebotAi",
+   "name": "AF8_ROW",
+   "device": "AF8_ROW"
+  }
+ ],
  "AG11": [
   {
    "brand": "RebotAi",
@@ -230646,6 +230761,27 @@
    "brand": "Redmi",
    "name": "REDMI Note 17",
    "device": "mist"
+  }
+ ],
+ "26012RN62A": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17",
+   "device": "zephyr"
+  }
+ ],
+ "26012RN62L": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17",
+   "device": "zephyr"
+  }
+ ],
+ "26012RN62Y": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17",
+   "device": "zephyr"
   }
  ],
  "26021RN18I": [
@@ -235305,6 +235441,13 @@
    "device": "Shark"
   }
  ],
+ "Smart 20 GO": [
+  {
+   "brand": "SEGO",
+   "name": "Smart 20 GO",
+   "device": "Smart_20_GO"
+  }
+ ],
  "Smart 10": [
   {
    "brand": "SEGO",
@@ -238886,6 +239029,11 @@
   {
    "brand": "SVITOO",
    "name": "P108_R_EEA",
+   "device": "P108_R"
+  },
+  {
+   "brand": "SVITOO",
+   "name": "P108_R_ROW",
    "device": "P108_R"
   },
   {
@@ -293795,6 +293943,13 @@
    "device": "TE620G"
   }
  ],
+ "TELOX_TE850": [
+  {
+   "brand": "TELOX",
+   "name": "TE850",
+   "device": "TELOX_TE850"
+  }
+ ],
  "TELSTAR 2K Google TV": [
   {
    "brand": "TELSTAR",
@@ -297298,6 +297453,23 @@
    "brand": "Teclast",
    "name": "P85_RUS",
    "device": "P85_RUS"
+  }
+ ],
+ "RGD1_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "RGD1_EEA",
+   "device": "RGD1"
+  },
+  {
+   "brand": "Teclast",
+   "name": "RGD1_ROW",
+   "device": "RGD1"
+  },
+  {
+   "brand": "Teclast",
+   "name": "RGD1_US",
+   "device": "RGD1"
   }
  ],
  "T30_EEA": [
@@ -302728,6 +302900,27 @@
    "brand": "Thomson",
    "name": "Pad_Pro_NEU",
    "device": "Pad_Pro"
+  }
+ ],
+ "SPPL 2K GOOGLE TV": [
+  {
+   "brand": "Thomson",
+   "name": "SPPL",
+   "device": "duffel"
+  }
+ ],
+ "SPPL4K": [
+  {
+   "brand": "Thomson",
+   "name": "SPPL",
+   "device": "enfield"
+  }
+ ],
+ "SPPL 4K Google TV": [
+  {
+   "brand": "Thomson",
+   "name": "SPPL",
+   "device": "wilson"
   }
  ],
  "SPPL 2K GSmartTV": [
@@ -309591,6 +309784,13 @@
    "brand": "VALE",
    "name": "V10E-LTE",
    "device": "V10E-LTE"
+  }
+ ],
+ "V10E LTE-464": [
+  {
+   "brand": "VALE",
+   "name": "V10E_464_LTE",
+   "device": "V10E_464_LTE"
   }
  ],
  "V10E_LTE_464": [
@@ -317233,6 +317433,18 @@
    "brand": "Vivo",
    "name": "V5Plus",
    "device": "V5Plus"
+  }
+ ],
+ "V2626": [
+  {
+   "brand": "Vivo",
+   "name": "V80 Lite 5G",
+   "device": "V2626"
+  },
+  {
+   "brand": "vivo",
+   "name": "V80 Lite 5G",
+   "device": "V2626"
   }
  ],
  "vivo 1727": [
@@ -355290,6 +355502,13 @@
    "brand": "vivo",
    "name": "V80 Lite 5G",
    "device": "V2576"
+  }
+ ],
+ "V2655": [
+  {
+   "brand": "vivo",
+   "name": "V80 Lite 5G",
+   "device": "V2626"
   }
  ],
  "V2436A": [
