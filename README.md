@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-01
+Last sync is 2026-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18908,6 +18908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JMGO|N1 Pro|songni|H80A|
 |JMGO|N1S Infinity|lonavla|K92A|
 |JMGO|N1S Pro|lonavla|K93A|
+|JMGO|N1S SE|sirumalai|K610AO|
 |JMGO|S91A|lonavla|S91A|
 |JMGO|V62A|holan|V62A|
 |JMTMEDIA|e_Smart|e_Smart|e_Smart|
@@ -20273,6 +20274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Korea Telecom|KG4100|KG4100|KG4100|
 |Korea Telecom|KI1101|KI1101|KI1101|
 |Korea Telecom|KSTB6188|KSTB6188|KSTB6188|
+|Korea Telecom|KSTB8000|KSTB8000|KSTB8000|
 |Korea Telecom|MA4000|MA4000|MA4000|
 |Korea Telecom|MA4100|MA4100|MA4100|
 |Korea Telecom|MAR4510C|MAR4510C|MAR4510C|
@@ -29584,6 +29586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K13 Turbo Pro 5G|OP5EE7L1|CPH2731|
 |Oppo|K13x 5G|OP5EF7L1|CPH2753|
 |Oppo|K14 5G|OP5F2BL1|CPH2869|
+|Oppo|K14 Lite|OP632F|CPH3007|
 |Oppo|K14x 5G|OP5F2BL1|CPH2871|
 |Oppo|K15 Pro|OP61E9L1|PMH110|
 |Oppo|K15 Pro+|OP61E5L1|PMG110|
@@ -30851,6 +30854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X7|malachite|24095PCADI|
 |POCO|POCO X7 Pro|rodin|2412DPC0AG|
 |POCO|POCO X7 Pro|rodin|2412DPC0AI|
+|POCO|POCO X8|iolite|2607DPC18G|
 |POCO|POCO X8 Pro|klee|2511FPC34G|
 |POCO|POCO X8 Pro|klee|2511FPC34I|
 |POCO|POCO X8 Pro Max|dash|2602BPC18G|
@@ -33727,7 +33731,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 15A 5G|somalia|2602BRNA4I|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI 17 5G|steppe|26062RN92G|
+|Redmi|REDMI A7|serenity|26020RNB4A|
 |Redmi|REDMI A7|serenity|26020RNB4I|
+|Redmi|REDMI A7|serenity|26020RNB4L|
 |Redmi|REDMI A7 Pro|arctic|25128RN17A|
 |Redmi|REDMI A7 Pro|arctic|25128RN17I|
 |Redmi|REDMI A7 Pro|arctic|25128RN17L|
@@ -33767,6 +33773,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 17|zephyr|26012RN62L|
 |Redmi|REDMI Note 17|zephyr|26012RN62Y|
 |Redmi|REDMI Note 17 5G|mist|26021RN18I|
+|Redmi|REDMI Note 17 5G|mist|26081RA18G|
+|Redmi|REDMI Note 17 5G|mist|26081RA18L|
+|Redmi|REDMI Note 17 Pro|iolite|2607DRA18C|
+|Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18G|
+|Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18T|
+|Redmi|REDMI Note 17 Pro Max 5G|brussels|2609FRA74G|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Pad 2 9.7|guitar|2603ARP14G|
 |Redmi|REDMI Pad 2 9.7 4G|erhu|2604ERP4DG|
@@ -44915,6 +44927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|Pad_Pro_NEU|Pad_Pro|Pad_Pro|
 |Thomson|R3|R3|R3|
 |Thomson|R4|R4|R4|
+|Thomson|SPPL|dongli|SPPL 4K 65P|
 |Thomson|SPPL|duffel|SPPL 2K GOOGLE TV|
 |Thomson|SPPL|enfield|SPPL4K|
 |Thomson|SPPL|wilson|SPPL 4K Google TV|
@@ -49678,6 +49691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z158_US|Z158_US|Z158_US|
 |ZIOVO|Z168-EU|Z168-EU|Z168-EU|
 |ZIOVO|Z168-W|Z168-W|Z168-W|
+|ZIOVO|Z168_E|Z168_E|Z168_E|
 |ZIOVO|Z168_EEA|Z168_EEA|Z168_EEA|
 |ZIOVO|Z168_US|Z168_US|Z168_US|
 |ZIOVO|Z168_U_EEA|Z168_U_EEA|Z168_U_EEA|
@@ -53539,6 +53553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600 Turbo|PD2553|V2553A|
 |vivo|Y600i|PD2617|V2617A|
 |vivo|Y600i AI版|PD2617|V2617A|
+|vivo|Y600i m版|PD2617|V2617A|
 |vivo|Y60c|PD2542|V2542A|
 |vivo|Y60e|PD2542|V2542A|
 |vivo|Y60e AI版|PD2542|V2542A|

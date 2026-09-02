@@ -97590,6 +97590,11 @@
    "model": "K93A"
   },
   {
+   "device": "sirumalai",
+   "name": "N1S SE",
+   "model": "K610AO"
+  },
+  {
    "device": "lonavla",
    "name": "S91A",
    "model": "S91A"
@@ -104709,6 +104714,11 @@
    "device": "KSTB6188",
    "name": "KSTB6188",
    "model": "KSTB6188"
+  },
+  {
+   "device": "KSTB8000",
+   "name": "KSTB8000",
+   "model": "KSTB8000"
   },
   {
    "device": "MA4000",
@@ -152484,6 +152494,11 @@
    "model": "CPH2869"
   },
   {
+   "device": "OP632F",
+   "name": "K14 Lite",
+   "model": "CPH3007"
+  },
+  {
    "device": "OP5F2BL1",
    "name": "K14x 5G",
    "model": "CPH2871"
@@ -158937,6 +158952,11 @@
    "device": "rodin",
    "name": "POCO X7 Pro",
    "model": "2412DPC0AI"
+  },
+  {
+   "device": "iolite",
+   "name": "POCO X8",
+   "model": "2607DPC18G"
   },
   {
    "device": "klee",
@@ -173751,7 +173771,17 @@
   {
    "device": "serenity",
    "name": "REDMI A7",
+   "model": "26020RNB4A"
+  },
+  {
+   "device": "serenity",
+   "name": "REDMI A7",
    "model": "26020RNB4I"
+  },
+  {
+   "device": "serenity",
+   "name": "REDMI A7",
+   "model": "26020RNB4L"
   },
   {
    "device": "arctic",
@@ -173947,6 +173977,36 @@
    "device": "mist",
    "name": "REDMI Note 17 5G",
    "model": "26021RN18I"
+  },
+  {
+   "device": "mist",
+   "name": "REDMI Note 17 5G",
+   "model": "26081RA18G"
+  },
+  {
+   "device": "mist",
+   "name": "REDMI Note 17 5G",
+   "model": "26081RA18L"
+  },
+  {
+   "device": "iolite",
+   "name": "REDMI Note 17 Pro",
+   "model": "2607DRA18C"
+  },
+  {
+   "device": "iolite",
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18G"
+  },
+  {
+   "device": "iolite",
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18T"
+  },
+  {
+   "device": "brussels",
+   "name": "REDMI Note 17 Pro Max 5G",
+   "model": "2609FRA74G"
   },
   {
    "device": "taiko",
@@ -230793,6 +230853,11 @@
    "model": "R4"
   },
   {
+   "device": "dongli",
+   "name": "SPPL",
+   "model": "SPPL 4K 65P"
+  },
+  {
    "device": "duffel",
    "name": "SPPL",
    "model": "SPPL 2K GOOGLE TV"
@@ -255514,6 +255579,11 @@
    "model": "Z168-W"
   },
   {
+   "device": "Z168_E",
+   "name": "Z168_E",
+   "model": "Z168_E"
+  },
+  {
    "device": "Z168_EEA",
    "name": "Z168_EEA",
    "model": "Z168_EEA"
@@ -275310,6 +275380,11 @@
   {
    "device": "PD2617",
    "name": "Y600i AI版",
+   "model": "V2617A"
+  },
+  {
+   "device": "PD2617",
+   "name": "Y600i m版",
    "model": "V2617A"
   },
   {

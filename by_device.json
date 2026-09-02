@@ -139351,6 +139351,13 @@
    "model": "S91A"
   }
  ],
+ "sirumalai": [
+  {
+   "brand": "JMGO",
+   "name": "N1S SE",
+   "model": "K610AO"
+  }
+ ],
  "e_Smart": [
   {
    "brand": "JMTMEDIA",
@@ -145821,6 +145828,13 @@
    "brand": "Korea Telecom",
    "name": "KSTB6188",
    "model": "KSTB6188"
+  }
+ ],
+ "KSTB8000": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KSTB8000",
+   "model": "KSTB8000"
   }
  ],
  "MA4000": [
@@ -201308,6 +201322,11 @@
    "brand": "Oppo",
    "name": "A6c",
    "model": "CPH2895"
+  },
+  {
+   "brand": "Oppo",
+   "name": "K14 Lite",
+   "model": "CPH3007"
   }
  ],
  "OP61DFL1": [
@@ -210009,7 +210028,17 @@
   {
    "brand": "Redmi",
    "name": "REDMI A7",
+   "model": "26020RNB4A"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI A7",
    "model": "26020RNB4I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI A7",
+   "model": "26020RNB4L"
   },
   {
    "brand": "Redmi",
@@ -210679,6 +210708,16 @@
    "brand": "Redmi",
    "name": "REDMI Note 17 5G",
    "model": "26021RN18I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 5G",
+   "model": "26081RA18G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 5G",
+   "model": "26081RA18L"
   }
  ],
  "flourite": [
@@ -210948,6 +210987,28 @@
    "brand": "Redmi",
    "name": "REDMI Turbo 4",
    "model": "24129RT7CC"
+  }
+ ],
+ "iolite": [
+  {
+   "brand": "POCO",
+   "name": "POCO X8",
+   "model": "2607DPC18G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro",
+   "model": "2607DRA18C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18T"
   }
  ],
  "klee": [
@@ -227896,6 +227957,13 @@
    "brand": "Redmi",
    "name": "REDMI Note 17",
    "model": "26012RN62Y"
+  }
+ ],
+ "brussels": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro Max 5G",
+   "model": "2609FRA74G"
   }
  ],
  "taiko": [
@@ -292295,6 +292363,13 @@
    "model": "Pad_Pro"
   }
  ],
+ "dongli": [
+  {
+   "brand": "Thomson",
+   "name": "SPPL",
+   "model": "SPPL 4K 65P"
+  }
+ ],
  "duffel": [
   {
    "brand": "Thomson",
@@ -319532,6 +319607,13 @@
    "model": "Z168-W"
   }
  ],
+ "Z168_E": [
+  {
+   "brand": "ZIOVO",
+   "name": "Z168_E",
+   "model": "Z168_E"
+  }
+ ],
  "Z168_EEA": [
   {
    "brand": "ZIOVO",
@@ -341390,6 +341472,11 @@
   {
    "brand": "vivo",
    "name": "Y600i AI版",
+   "model": "V2617A"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600i m版",
    "model": "V2617A"
   }
  ],

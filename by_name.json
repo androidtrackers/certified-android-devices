@@ -138123,6 +138123,13 @@
    "model": "K93A"
   }
  ],
+ "N1S SE": [
+  {
+   "brand": "JMGO",
+   "device": "sirumalai",
+   "model": "K610AO"
+  }
+ ],
  "S91A": [
   {
    "brand": "JMGO",
@@ -146265,6 +146272,13 @@
    "brand": "Korea Telecom",
    "device": "KSTB6188",
    "model": "KSTB6188"
+  }
+ ],
+ "KSTB8000": [
+  {
+   "brand": "Korea Telecom",
+   "device": "KSTB8000",
+   "model": "KSTB8000"
   }
  ],
  "MA4000": [
@@ -200950,6 +200964,13 @@
    "model": "CPH2869"
   }
  ],
+ "K14 Lite": [
+  {
+   "brand": "Oppo",
+   "device": "OP632F",
+   "model": "CPH3007"
+  }
+ ],
  "K14x 5G": [
   {
    "brand": "Oppo",
@@ -208948,6 +208969,13 @@
    "brand": "POCO",
    "device": "rodin",
    "model": "2412DPC0AI"
+  }
+ ],
+ "POCO X8": [
+  {
+   "brand": "POCO",
+   "device": "iolite",
+   "model": "2607DPC18G"
   }
  ],
  "POCO X8 Pro": [
@@ -226988,7 +227016,17 @@
   {
    "brand": "Redmi",
    "device": "serenity",
+   "model": "26020RNB4A"
+  },
+  {
+   "brand": "Redmi",
+   "device": "serenity",
    "model": "26020RNB4I"
+  },
+  {
+   "brand": "Redmi",
+   "device": "serenity",
+   "model": "26020RNB4L"
   }
  ],
  "REDMI A7 Pro": [
@@ -227228,6 +227266,42 @@
    "brand": "Redmi",
    "device": "mist",
    "model": "26021RN18I"
+  },
+  {
+   "brand": "Redmi",
+   "device": "mist",
+   "model": "26081RA18G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "mist",
+   "model": "26081RA18L"
+  }
+ ],
+ "REDMI Note 17 Pro": [
+  {
+   "brand": "Redmi",
+   "device": "iolite",
+   "model": "2607DRA18C"
+  }
+ ],
+ "REDMI Note 17 Pro 5G": [
+  {
+   "brand": "Redmi",
+   "device": "iolite",
+   "model": "2607DRA18G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "iolite",
+   "model": "2607DRA18T"
+  }
+ ],
+ "REDMI Note 17 Pro Max 5G": [
+  {
+   "brand": "Redmi",
+   "device": "brussels",
+   "model": "2609FRA74G"
   }
  ],
  "REDMI Pad 2": [
@@ -291521,6 +291595,11 @@
  "SPPL": [
   {
    "brand": "Thomson",
+   "device": "dongli",
+   "model": "SPPL 4K 65P"
+  },
+  {
+   "brand": "Thomson",
    "device": "duffel",
    "model": "SPPL 2K GOOGLE TV"
   },
@@ -320336,6 +320415,13 @@
    "model": "Z168-W"
   }
  ],
+ "Z168_E": [
+  {
+   "brand": "ZIOVO",
+   "device": "Z168_E",
+   "model": "Z168_E"
+  }
+ ],
  "Z168_EEA": [
   {
    "brand": "ZIOVO",
@@ -342264,6 +342350,13 @@
   }
  ],
  "Y600i AI版": [
+  {
+   "brand": "vivo",
+   "device": "PD2617",
+   "model": "V2617A"
+  }
+ ],
+ "Y600i m版": [
   {
    "brand": "vivo",
    "device": "PD2617",

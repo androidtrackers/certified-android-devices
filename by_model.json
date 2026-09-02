@@ -137871,6 +137871,13 @@
    "device": "lonavla"
   }
  ],
+ "K610AO": [
+  {
+   "brand": "JMGO",
+   "name": "N1S SE",
+   "device": "sirumalai"
+  }
+ ],
  "S91A": [
   {
    "brand": "JMGO",
@@ -145544,6 +145551,13 @@
    "brand": "Korea Telecom",
    "name": "KSTB6188",
    "device": "KSTB6188"
+  }
+ ],
+ "KSTB8000": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KSTB8000",
+   "device": "KSTB8000"
   }
  ],
  "MA4000": [
@@ -205339,6 +205353,13 @@
    "device": "OP5F2BL1"
   }
  ],
+ "CPH3007": [
+  {
+   "brand": "Oppo",
+   "name": "K14 Lite",
+   "device": "OP632F"
+  }
+ ],
  "CPH2871": [
   {
    "brand": "Oppo",
@@ -212978,6 +212999,13 @@
    "brand": "POCO",
    "name": "POCO X7 Pro",
    "device": "rodin"
+  }
+ ],
+ "2607DPC18G": [
+  {
+   "brand": "POCO",
+   "name": "POCO X8",
+   "device": "iolite"
   }
  ],
  "2511FPC34G": [
@@ -230506,7 +230534,21 @@
    "device": "steppe"
   }
  ],
+ "26020RNB4A": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI A7",
+   "device": "serenity"
+  }
+ ],
  "26020RNB4I": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI A7",
+   "device": "serenity"
+  }
+ ],
+ "26020RNB4L": [
   {
    "brand": "Redmi",
    "name": "REDMI A7",
@@ -230789,6 +230831,48 @@
    "brand": "Redmi",
    "name": "REDMI Note 17 5G",
    "device": "mist"
+  }
+ ],
+ "26081RA18G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 5G",
+   "device": "mist"
+  }
+ ],
+ "26081RA18L": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 5G",
+   "device": "mist"
+  }
+ ],
+ "2607DRA18C": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro",
+   "device": "iolite"
+  }
+ ],
+ "2607DRA18G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro 5G",
+   "device": "iolite"
+  }
+ ],
+ "2607DRA18T": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro 5G",
+   "device": "iolite"
+  }
+ ],
+ "2609FRA74G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro Max 5G",
+   "device": "brussels"
   }
  ],
  "25040RP0AC": [
@@ -302902,6 +302986,13 @@
    "device": "Pad_Pro"
   }
  ],
+ "SPPL 4K 65P": [
+  {
+   "brand": "Thomson",
+   "name": "SPPL",
+   "device": "dongli"
+  }
+ ],
  "SPPL 2K GOOGLE TV": [
   {
    "brand": "Thomson",
@@ -332056,6 +332147,13 @@
    "device": "Z168-W"
   }
  ],
+ "Z168_E": [
+  {
+   "brand": "ZIOVO",
+   "name": "Z168_E",
+   "device": "Z168_E"
+  }
+ ],
  "Z168_EEA": [
   {
    "brand": "ZIOVO",
@@ -356019,6 +356117,11 @@
   {
    "brand": "vivo",
    "name": "Y600i AI版",
+   "device": "PD2617"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600i m版",
    "device": "PD2617"
   }
  ],
