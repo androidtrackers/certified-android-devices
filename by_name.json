@@ -39505,6 +39505,11 @@
    "brand": "BYD",
    "device": "BYD100F",
    "model": "BYD100F"
+  },
+  {
+   "brand": "BYD",
+   "device": "BYD300F_VCP_IVI_G",
+   "model": "BYD300F_VCP_G"
   }
  ],
  "DynaVox T10": [
@@ -59481,6 +59486,38 @@
    "brand": "Clover",
    "device": "R9X-01",
    "model": "RWT-NE-RGPH5-25612"
+  }
+ ],
+ "T12": [
+  {
+   "brand": "Clover",
+   "device": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "Phone Max",
+   "device": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "TWZ Corporation PLC",
+   "device": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "UCM(M)",
+   "device": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "Veidoo",
+   "device": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P173A30T",
+   "model": "ZTE T12"
   }
  ],
  "gama_alta_6_128G": [
@@ -170893,6 +170930,13 @@
    "model": "MagentaTV One (3. Generation)"
   }
  ],
+ "TV Box (2.Gen)": [
+  {
+   "brand": "MagentaTV",
+   "device": "HP4AC-PL",
+   "model": "TV Box (2.Gen)"
+  }
+ ],
  "MMP848": [
   {
    "brand": "Magnavox",
@@ -208658,6 +208702,20 @@
    "model": "25102PCBEG"
   }
  ],
+ "POCO F9 Pro": [
+  {
+   "brand": "POCO",
+   "device": "athens",
+   "model": "2607APCA5G"
+  }
+ ],
+ "POCO F9 Ultra": [
+  {
+   "brand": "POCO",
+   "device": "songyuan",
+   "model": "26077PC53G"
+  }
+ ],
  "POCO M2": [
   {
    "brand": "POCO",
@@ -213883,33 +213941,6 @@
    "brand": "Phone Max",
    "device": "S4G",
    "model": "S4G"
-  }
- ],
- "T12": [
-  {
-   "brand": "Phone Max",
-   "device": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "TWZ Corporation PLC",
-   "device": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "UCM(M)",
-   "device": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "Veidoo",
-   "device": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P173A30T",
-   "model": "ZTE T12"
   }
  ],
  "T1_N": [
@@ -220123,6 +220154,13 @@
    "brand": "Xmobile",
    "device": "X6_Pro",
    "model": "X6Pro"
+  }
+ ],
+ "PB1380": [
+  {
+   "brand": "Primebook",
+   "device": "PB1380",
+   "model": "Primebook Duo Max"
   }
  ],
  "Primux_ioxphone": [

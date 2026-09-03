@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-02
+Last sync is 2026-09-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4047,6 +4047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BWJBSW|QZ1095W_EEA|QZ1095W_EEA|QZ1095W_EEA|
 |BXLIYER|BX_D04|Tablet_player|BX_D04|
 |BYD|BYD|BYD100F|BYD100F|
+|BYD|BYD|BYD300F_VCP_IVI_G|BYD300F_VCP_G|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
 |BYD|INHON G3|G3|G3|
@@ -6686,6 +6687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clover|KD101|KD101|KD101|
 |Clover|RWT-NE-RGPH5-12812|R9X-01|RWT-NE-RGPH5-12812|
 |Clover|RWT-NE-RGPH5-25612|R9X-01|RWT-NE-RGPH5-25612|
+|Clover|T12|T12|T12|
 |Clover|gama_alta_6_128G|gama_alta_6_128G|gama_alta_6_128G|
 |Cobalt|CP101P|POS|CP101P|
 |Cobalt|Cobalt T10 wifi|Cobalt_T10_wifi|Cobalt_T10_wifi|
@@ -24527,6 +24529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
 |MagentaTV|One (3. Generation)|HP4AC-DT|MagentaTV One (3. Generation)|
+|MagentaTV|TV Box (2.Gen)|HP4AC-PL|TV Box (2.Gen)|
 |Magnavox|MMP848|MMP848|MMP848|
 |Magnavox|Magnavox Google TV|dongnae|Magnavox Google TV|
 |Magnavox|Magnavox Smart TV|dongnae|Magnavox Smart TV|
@@ -30806,6 +30809,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F6 Pro|vermeer|23113RKC6G|
 |POCO|POCO F8 Pro|annibale|2510DPC44G|
 |POCO|POCO F8 Ultra|myron|25102PCBEG|
+|POCO|POCO F9 Pro|athens|2607APCA5G|
+|POCO|POCO F9 Ultra|songyuan|26077PC53G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -32616,6 +32621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prime|PRIME Android TV|shinagawa|PRIME Android TV|
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
+|Primebook|PB1380|PB1380|Primebook Duo Max|
 |Primux|Primux_ioxphone|Primux_ioxphone|Primux_ioxphone|
 |Prince Mobile|PC9|PC9|PC9|
 |Prism|Android TV|longshan|AI PONT NA|

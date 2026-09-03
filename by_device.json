@@ -42873,6 +42873,13 @@
    "model": "BYD100F"
   }
  ],
+ "BYD300F_VCP_IVI_G": [
+  {
+   "brand": "BYD",
+   "name": "BYD",
+   "model": "BYD300F_VCP_G"
+  }
+ ],
  "Smart502": [
   {
    "brand": "BYD",
@@ -62084,6 +62091,33 @@
    "brand": "Clover",
    "name": "RWT-NE-RGPH5-25612",
    "model": "RWT-NE-RGPH5-25612"
+  }
+ ],
+ "T12": [
+  {
+   "brand": "Clover",
+   "name": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "Phone Max",
+   "name": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "TWZ Corporation PLC",
+   "name": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "UCM(M)",
+   "name": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "T12",
+   "model": "T12"
   }
  ],
  "gama_alta_6_128G": [
@@ -172260,6 +172294,13 @@
    "model": "MagentaTV One (3. Generation)"
   }
  ],
+ "HP4AC-PL": [
+  {
+   "brand": "MagentaTV",
+   "name": "TV Box (2.Gen)",
+   "model": "TV Box (2.Gen)"
+  }
+ ],
  "MMP848": [
   {
    "brand": "Magnavox",
@@ -210321,6 +210362,30 @@
    "model": "25102RKBEC"
   }
  ],
+ "athens": [
+  {
+   "brand": "POCO",
+   "name": "POCO F9 Pro",
+   "model": "2607APCA5G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI K100 Pro",
+   "model": "M511CD"
+  }
+ ],
+ "songyuan": [
+  {
+   "brand": "POCO",
+   "name": "POCO F9 Ultra",
+   "model": "26077PC53G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI K100 Pro Max",
+   "model": "M098FE"
+  }
+ ],
  "shiva": [
   {
    "brand": "POCO",
@@ -215560,28 +215625,6 @@
    "brand": "Phone Max",
    "name": "S4G",
    "model": "S4G"
-  }
- ],
- "T12": [
-  {
-   "brand": "Phone Max",
-   "name": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "TWZ Corporation PLC",
-   "name": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "UCM(M)",
-   "name": "T12",
-   "model": "T12"
-  },
-  {
-   "brand": "Veidoo",
-   "name": "T12",
-   "model": "T12"
   }
  ],
  "X3Pro": [
@@ -221355,6 +221398,13 @@
    "brand": "Xmobile",
    "name": "X6_Pro",
    "model": "X6Pro"
+  }
+ ],
+ "PB1380": [
+  {
+   "brand": "Primebook",
+   "name": "PB1380",
+   "model": "Primebook Duo Max"
   }
  ],
  "Primux_ioxphone": [
@@ -227873,20 +227923,6 @@
    "brand": "Redmi",
    "name": "REDMI K Pad 2",
    "model": "26048RP6AC"
-  }
- ],
- "athens": [
-  {
-   "brand": "Redmi",
-   "name": "REDMI K100 Pro",
-   "model": "M511CD"
-  }
- ],
- "songyuan": [
-  {
-   "brand": "Redmi",
-   "name": "REDMI K100 Pro Max",
-   "model": "M098FE"
   }
  ],
  "dali": [

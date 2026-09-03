@@ -36379,6 +36379,13 @@
    "device": "BYD100F"
   }
  ],
+ "BYD300F_VCP_G": [
+  {
+   "brand": "BYD",
+   "name": "BYD",
+   "device": "BYD300F_VCP_IVI_G"
+  }
+ ],
  "Smart 502": [
   {
    "brand": "BYD",
@@ -55282,6 +55289,38 @@
    "brand": "Clover",
    "name": "RWT-NE-RGPH5-25612",
    "device": "R9X-01"
+  }
+ ],
+ "T12": [
+  {
+   "brand": "Clover",
+   "name": "T12",
+   "device": "T12"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "Tablet",
+   "device": "Tablet"
+  },
+  {
+   "brand": "Phone Max",
+   "name": "T12",
+   "device": "T12"
+  },
+  {
+   "brand": "TWZ Corporation PLC",
+   "name": "T12",
+   "device": "T12"
+  },
+  {
+   "brand": "UCM(M)",
+   "name": "T12",
+   "device": "T12"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "T12",
+   "device": "T12"
   }
  ],
  "gama_alta_6_128G": [
@@ -87381,33 +87420,6 @@
    "brand": "G-Tab",
    "name": "T9_PRO",
    "device": "T9_PRO"
-  }
- ],
- "T12": [
-  {
-   "brand": "G-Tab",
-   "name": "Tablet",
-   "device": "Tablet"
-  },
-  {
-   "brand": "Phone Max",
-   "name": "T12",
-   "device": "T12"
-  },
-  {
-   "brand": "TWZ Corporation PLC",
-   "name": "T12",
-   "device": "T12"
-  },
-  {
-   "brand": "UCM(M)",
-   "name": "T12",
-   "device": "T12"
-  },
-  {
-   "brand": "Veidoo",
-   "name": "T12",
-   "device": "T12"
   }
  ],
  "Y": [
@@ -173492,6 +173504,13 @@
    "device": "HP4AC-DT"
   }
  ],
+ "TV Box (2.Gen)": [
+  {
+   "brand": "MagentaTV",
+   "name": "TV Box (2.Gen)",
+   "device": "HP4AC-PL"
+  }
+ ],
  "MMP848": [
   {
    "brand": "Magnavox",
@@ -212660,6 +212679,20 @@
    "device": "myron"
   }
  ],
+ "2607APCA5G": [
+  {
+   "brand": "POCO",
+   "name": "POCO F9 Pro",
+   "device": "athens"
+  }
+ ],
+ "26077PC53G": [
+  {
+   "brand": "POCO",
+   "name": "POCO F9 Ultra",
+   "device": "songyuan"
+  }
+ ],
  "M2004J19PI": [
   {
    "brand": "POCO",
@@ -224251,6 +224284,13 @@
    "brand": "Prime",
    "name": "X6_Pro",
    "device": "X6_Pro"
+  }
+ ],
+ "Primebook Duo Max": [
+  {
+   "brand": "Primebook",
+   "name": "PB1380",
+   "device": "PB1380"
   }
  ],
  "Primux_ioxphone": [

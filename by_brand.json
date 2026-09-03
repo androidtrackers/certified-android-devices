@@ -20953,6 +20953,11 @@
    "model": "BYD100F"
   },
   {
+   "device": "BYD300F_VCP_IVI_G",
+   "name": "BYD",
+   "model": "BYD300F_VCP_G"
+  },
+  {
    "device": "T10",
    "name": "DynaVox T10",
    "model": "T10"
@@ -34672,6 +34677,11 @@
    "device": "R9X-01",
    "name": "RWT-NE-RGPH5-25612",
    "model": "RWT-NE-RGPH5-25612"
+  },
+  {
+   "device": "T12",
+   "name": "T12",
+   "model": "T12"
   },
   {
    "device": "gama_alta_6_128G",
@@ -126447,6 +126457,11 @@
    "device": "HP4AC-DT",
    "name": "One (3. Generation)",
    "model": "MagentaTV One (3. Generation)"
+  },
+  {
+   "device": "HP4AC-PL",
+   "name": "TV Box (2.Gen)",
+   "model": "TV Box (2.Gen)"
   }
  ],
  "Magnavox": [
@@ -158714,6 +158729,16 @@
    "model": "25102PCBEG"
   },
   {
+   "device": "athens",
+   "name": "POCO F9 Pro",
+   "model": "2607APCA5G"
+  },
+  {
+   "device": "songyuan",
+   "name": "POCO F9 Ultra",
+   "model": "26077PC53G"
+  },
+  {
    "device": "shiva",
    "name": "POCO M2",
    "model": "M2004J19PI"
@@ -167952,6 +167977,13 @@
    "device": "X6_Pro",
    "name": "X6_Pro",
    "model": "X6_Pro"
+  }
+ ],
+ "Primebook": [
+  {
+   "device": "PB1380",
+   "name": "PB1380",
+   "model": "Primebook Duo Max"
   }
  ],
  "Primux": [
