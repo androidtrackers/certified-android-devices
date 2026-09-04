@@ -28931,6 +28931,11 @@
    "device": "A80ST",
    "name": "A80ST",
    "model": "A80ST"
+  },
+  {
+   "device": "A88ST",
+   "name": "A88ST",
+   "model": "A88ST"
   }
  ],
  "CEPTER": [
@@ -43720,6 +43725,11 @@
    "model": "DL1050"
   },
   {
+   "device": "DL1061",
+   "name": "DL1061",
+   "model": "DL1061"
+  },
+  {
    "device": "mid1102",
    "name": "DL1168A",
    "model": "DL1168A"
@@ -50012,6 +50022,11 @@
    "device": "SEI800ESTL",
    "name": "FRC1-Eastlink",
    "model": "FRC1-Eastlink"
+  },
+  {
+   "device": "SEI800MDCOM",
+   "name": "FRC1-MDCOM",
+   "model": "FRC1-BlueRidge"
   },
   {
    "device": "SEI800MDCOM",
@@ -173628,6 +173643,11 @@
    "model": "AF13_EEA"
   },
   {
+   "device": "AF8_EEA",
+   "name": "AF8_EEA",
+   "model": "AF8_EEA"
+  },
+  {
    "device": "AF8_ROW",
    "name": "AF8_ROW",
    "model": "AF8_ROW"
@@ -173799,6 +173819,11 @@
    "device": "steppe",
    "name": "REDMI 17 5G",
    "model": "26062RN92G"
+  },
+  {
+   "device": "steppe",
+   "name": "REDMI 17 5G",
+   "model": "26062RN92I"
   },
   {
    "device": "serenity",
@@ -210472,6 +210497,11 @@
  ],
  "Speechi": [
   {
+   "device": "ST_55_CONNECT_SMARTMOVE",
+   "name": "ST_55_CONNECT_SMARTMOVE",
+   "model": "ST_55_CONNECT_SMARTMOVE"
+  },
+  {
    "device": "RK3576",
    "name": "ST_xx_CONNECT_PRO5",
    "model": "ST_xx_CONNECT_PRO5"
@@ -230722,6 +230752,11 @@
    "model": "HDBN"
   },
   {
+   "device": "HDBC",
+   "name": "HyundaiIT_Smartboard_Ci",
+   "model": "HDBC"
+  },
+  {
    "device": "oversea_v",
    "name": "Smartboard_Ai",
    "model": "HDJN"
@@ -240866,6 +240901,11 @@
    "device": "NOTE_23",
    "name": "NOTE_23_V02",
    "model": "NOTE 23"
+  },
+  {
+   "device": "NOTE_25_5G",
+   "name": "NOTE_25_5G",
+   "model": "NOTE 25 5G"
   },
   {
    "device": "NEW_5",

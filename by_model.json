@@ -47849,6 +47849,13 @@
    "device": "A80ST"
   }
  ],
+ "A88ST": [
+  {
+   "brand": "CENAVA",
+   "name": "A88ST",
+   "device": "A88ST"
+  }
+ ],
  "CEPTERTAB10L": [
   {
    "brand": "CEPTER",
@@ -67620,6 +67627,13 @@
    "device": "DL1050"
   }
  ],
+ "DL1061": [
+  {
+   "brand": "DigiLand",
+   "name": "DL1061",
+   "device": "DL1061"
+  }
+ ],
  "DL1168A": [
   {
    "brand": "DigiLand",
@@ -76011,6 +76025,11 @@
    "brand": "EVOFORCE1",
    "name": "FRC1-BlueRidge",
    "device": "SEI800BR"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-MDCOM",
+   "device": "SEI800MDCOM"
   }
  ],
  "FRC1-BlueStream": [
@@ -230364,6 +230383,13 @@
    "device": "AF13_EEA"
   }
  ],
+ "AF8_EEA": [
+  {
+   "brand": "RebotAi",
+   "name": "AF8_EEA",
+   "device": "AF8_EEA"
+  }
+ ],
  "AF8_ROW": [
   {
    "brand": "RebotAi",
@@ -230568,6 +230594,13 @@
   }
  ],
  "26062RN92G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17 5G",
+   "device": "steppe"
+  }
+ ],
+ "26062RN92I": [
   {
    "brand": "Redmi",
    "name": "REDMI 17 5G",
@@ -277721,6 +277754,13 @@
    "device": "Versity"
   }
  ],
+ "ST_55_CONNECT_SMARTMOVE": [
+  {
+   "brand": "Speechi",
+   "name": "ST_55_CONNECT_SMARTMOVE",
+   "device": "ST_55_CONNECT_SMARTMOVE"
+  }
+ ],
  "ST_xx_CONNECT_PRO5": [
   {
    "brand": "Speechi",
@@ -302868,6 +302908,13 @@
    "device": "HDBN"
   }
  ],
+ "HDBC": [
+  {
+   "brand": "TheNudge",
+   "name": "HyundaiIT_Smartboard_Ci",
+   "device": "HDBC"
+  }
+ ],
  "HDJN": [
   {
    "brand": "TheNudge",
@@ -314214,6 +314261,13 @@
    "brand": "Vgo Tel",
    "name": "NOTE_23_V02",
    "device": "NOTE_23"
+  }
+ ],
+ "NOTE 25 5G": [
+  {
+   "brand": "Vgo Tel",
+   "name": "NOTE_25_5G",
+   "device": "NOTE_25_5G"
   }
  ],
  "NEW 5": [

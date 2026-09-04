@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-03
+Last sync is 2026-09-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5597,6 +5597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CENAVA|6769-4G|6769-4G|6769-4G|
 |CENAVA|A10ST-5G|A10ST-5G|A10ST-5G|
 |CENAVA|A80ST|A80ST|A80ST|
+|CENAVA|A88ST|A88ST|A88ST|
 |CEPTER|CEPTER-TAB-10L|CEPTER-TAB-10L|CEPTERTAB10L|
 |CEPTER|CEPTER-TAB-10S|CEPTER-TAB-10S|CEPTERTAB10S|
 |CEPTER|CEPTERTAB101|CEPTERTAB101|CEPTERTAB101|
@@ -8430,6 +8431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|DL1036|DL1036|DL-1036|
 |DigiLand|DL1039|mid1032_mr_32|DL1039|
 |DigiLand|DL1050|DL1050|DL1050|
+|DigiLand|DL1061|DL1061|DL1061|
 |DigiLand|DL1168A|mid1102|DL1168A|
 |DigiLand|DL7006|DL7006|DL7006|
 |DigiLand|DL700D|DL700D|DL700D|
@@ -9642,6 +9644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVOFORCE1|FRC1-CableCo|SEI800TV|FRC1-CableCo|
 |EVOFORCE1|FRC1-Eastlink|SEI800ESTL|FRC1-ESTL|
 |EVOFORCE1|FRC1-Eastlink|SEI800ESTL|FRC1-Eastlink|
+|EVOFORCE1|FRC1-MDCOM|SEI800MDCOM|FRC1-BlueRidge|
 |EVOFORCE1|FRC1-MDCOM|SEI800MDCOM|FRC1-MDCOM|
 |EVOFORCE1|FRC1-MOBI|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|FRC1-Midco|SEI800MC|FRC1-Midco|
@@ -33704,6 +33707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF13Air|AF13Air|AF13Air|
 |RebotAi|AF13Air_EEA|AF13Air_EEA|AF13Air_EEA|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
+|RebotAi|AF8_EEA|AF8_EEA|AF8_EEA|
 |RebotAi|AF8_ROW|AF8_ROW|AF8_ROW|
 |RebotAi|AG11|AG11|AG11|
 |RebotAi|B11Air|B11Air|B11Air|
@@ -33737,6 +33741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 15A 5G|somalia|2602BRNA4I|
 |Redmi|REDMI 15C 5G|tornado|2508CRN2BI|
 |Redmi|REDMI 17 5G|steppe|26062RN92G|
+|Redmi|REDMI 17 5G|steppe|26062RN92I|
 |Redmi|REDMI A7|serenity|26020RNB4A|
 |Redmi|REDMI A7|serenity|26020RNB4I|
 |Redmi|REDMI A7|serenity|26020RNB4L|
@@ -40948,6 +40953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|Versity 9653|Versity|Versity 9653|
 |Spectralink|Versity 9740|Versity|Versity 9740|
 |Spectralink|Versity 9753|Versity|Versity 9753|
+|Speechi|ST_55_CONNECT_SMARTMOVE|ST_55_CONNECT_SMARTMOVE|ST_55_CONNECT_SMARTMOVE|
 |Speechi|ST_xx_CONNECT_PRO5|RK3576|ST_xx_CONNECT_PRO5|
 |Speechi|SUPERGLASS PRO|RK3576|ST_xx_CONNECT_SE5|
 |Speedata|FG50|FG50|FG50|
@@ -44902,6 +44908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tevau|T1|T1|T1|
 |The Edge|NLE|oversea_v|NLE|
 |TheNudge|HyundaiIT_Smartboard_Ai|HDBN|HDBN|
+|TheNudge|HyundaiIT_Smartboard_Ci|HDBC|HDBC|
 |TheNudge|Smartboard_Ai|oversea_v|HDJN|
 |Theros|Theros 2K Google TV|dongnae|Theros 2K Google TV|
 |ThinkAcademy|T100|T100|T100|
@@ -46842,6 +46849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|NEW_20|NEW_20|NEW 20|
 |Vgo Tel|NOTE 24|NOTE_24|NOTE 24|
 |Vgo Tel|NOTE_23_V02|NOTE_23|NOTE 23|
+|Vgo Tel|NOTE_25_5G|NOTE_25_5G|NOTE 25 5G|
 |Vgo Tel|New 5|NEW_5|NEW 5|
 |Vgo Tel|OCEAN 6|VGOTEL_OCEAN_6|Ocean 6|
 |Vgo Tel|Ocean 8|Ocean_8|Ocean_8|
