@@ -5648,6 +5648,16 @@
  ],
  "AcerPure": [
   {
+   "device": "chester",
+   "name": "ACERPURE INDIA CE PRIVATE LIMITED",
+   "model": "ACP75P"
+  },
+  {
+   "device": "chester",
+   "name": "ACERPURE INDIA CE PRIVATE LIMITED",
+   "model": "ADZ75P"
+  },
+  {
    "device": "jialu",
    "name": "ACERPURE INDIA CE PRIVATE LIMITED",
    "model": "ACP65P"
@@ -5904,6 +5914,11 @@
    "device": "SW4H",
    "name": "ADMIRAL 4K TV",
    "model": "ADMIRAL 4K TV"
+  },
+  {
+   "device": "chester",
+   "name": "ADMIRAL AMERICA CORPORATION PRIVATE LIMITED",
+   "model": "ADS75P"
   },
   {
    "device": "sunnyvale",
@@ -45171,6 +45186,11 @@
    "device": "SEI110",
    "name": "D-805XATV HD",
    "model": "D-805XATV HD"
+  },
+  {
+   "device": "chester",
+   "name": "DISHTV INDIA LTD.",
+   "model": "VZY SMART TV"
   },
   {
    "device": "jialu",
@@ -147955,6 +147975,16 @@
   }
  ],
  "ONIDA": [
+  {
+   "device": "chester",
+   "name": "MIRC Electronics Ltd.",
+   "model": "ONI75P"
+  },
+  {
+   "device": "chester",
+   "name": "MIRC Electronics Ltd.",
+   "model": "ONX75P"
+  },
   {
    "device": "jialu",
    "name": "MIRC Electronics Ltd.",
@@ -273736,6 +273766,11 @@
    "device": "RE5860",
    "name": "realmeGT Neo5 240W",
    "model": "RMX3708"
+  },
+  {
+   "device": "chester",
+   "name": "realmeTechLife",
+   "model": "REC75P"
   },
   {
    "device": "RE5489",

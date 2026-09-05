@@ -18088,6 +18088,16 @@
  "ACERPURE INDIA CE PRIVATE LIMITED": [
   {
    "brand": "AcerPure",
+   "device": "chester",
+   "model": "ACP75P"
+  },
+  {
+   "brand": "AcerPure",
+   "device": "chester",
+   "model": "ADZ75P"
+  },
+  {
+   "brand": "AcerPure",
    "device": "jialu",
    "model": "ACP65P"
   },
@@ -18362,6 +18372,13 @@
    "brand": "Admiral Overseas Corporation",
    "device": "SW4H",
    "model": "ADMIRAL 4K TV"
+  }
+ ],
+ "ADMIRAL AMERICA CORPORATION PRIVATE LIMITED": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "device": "chester",
+   "model": "ADS75P"
   }
  ],
  "ADMIRAL TV": [
@@ -74229,6 +74246,11 @@
   }
  ],
  "DISHTV INDIA LTD.": [
+  {
+   "brand": "DishTV (IN)",
+   "device": "chester",
+   "model": "VZY SMART TV"
+  },
   {
    "brand": "DishTV (IN)",
    "device": "jialu",
@@ -195863,6 +195885,16 @@
   }
  ],
  "MIRC Electronics Ltd.": [
+  {
+   "brand": "ONIDA",
+   "device": "chester",
+   "model": "ONI75P"
+  },
+  {
+   "brand": "ONIDA",
+   "device": "chester",
+   "model": "ONX75P"
+  },
   {
    "brand": "ONIDA",
    "device": "jialu",
@@ -340506,6 +340538,13 @@
    "brand": "realme",
    "device": "RE5860",
    "model": "RMX3708"
+  }
+ ],
+ "realmeTechLife": [
+  {
+   "brand": "realme",
+   "device": "chester",
+   "model": "REC75P"
   }
  ],
  "真我 GT NEO  3  150W": [

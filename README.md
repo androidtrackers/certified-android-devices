@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-04
+Last sync is 2026-09-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1074,6 +1074,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|acerpure|waiawa|DAC51U|
 |Acer|dahu|dahu|M1G|
 |Acer|vileparle|vileparle|R6G|
+|AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|chester|ACP75P|
+|AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|chester|ADZ75P|
 |AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|jialu|ACP65P|
 |AcerPure|ACERPURE INDIA CE PRIVATE LIMITED|jialu|ACP65PAV|
 |AcerPure|Acer Acerpure|Acerone_Liquid_2|Acerone Liquid S162E4|
@@ -1122,6 +1124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Admiral Overseas Corporation|ADMIRAL|stanford|2K SMART TV|
 |Admiral Overseas Corporation|ADMIRAL|zhongshan|4K SMART TV|
 |Admiral Overseas Corporation|ADMIRAL 4K TV|SW4H|ADMIRAL 4K TV|
+|Admiral Overseas Corporation|ADMIRAL AMERICA CORPORATION PRIVATE LIMITED|chester|ADS75P|
 |Admiral Overseas Corporation|ADMIRAL TV|sunnyvale|ADMIRAL TV|
 |Admiral Overseas Corporation|Admiral|anglelake|ADS41F|
 |Admiral Overseas Corporation|Admiral|waiawa|ADS51U|
@@ -8713,6 +8716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|Summit 5G|SN339D-SMT|SN339D-SMT|
 |Dish|Wireless Joey 4|ATVWJ4|Wireless Joey 4|
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
+|DishTV (IN)|DISHTV INDIA LTD.|chester|VZY SMART TV|
 |DishTV (IN)|DISHTV INDIA LTD.|jialu|VZY65P|
 |DishTV (IN)|DV-905XSTV|smart4K|DV-905XSTV|
 |DishTV (IN)|DV-905XSTV HTL|smart4K|DV-905XSTV HTL|
@@ -28700,6 +28704,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|MT2U|MT2U|MT2U|
 |ONERugged|MT2UE|MT2UE|MT2UE|
 |ONERugged|MT50CE|MT50CE|MT50CE|
+|ONIDA|MIRC Electronics Ltd.|chester|ONI75P|
+|ONIDA|MIRC Electronics Ltd.|chester|ONX75P|
 |ONIDA|MIRC Electronics Ltd.|jialu|ONI65P|
 |ONIDA|MIRC Electronics Ltd.|landen|ONI41F|
 |ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
@@ -53238,6 +53244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |realme|realmeGT Neo5|RE5860|RMX3706|
 |realme|realmeGT Neo5 240W|RE5860|RMX3708|
+|realme|realmeTechLife|chester|REC75P|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 GT2 大师探索版|RE5465|RMX3551|

@@ -14891,9 +14891,39 @@
    "model": "ACR4KR75P"
   },
   {
+   "brand": "AcerPure",
+   "name": "ACERPURE INDIA CE PRIVATE LIMITED",
+   "model": "ACP75P"
+  },
+  {
+   "brand": "AcerPure",
+   "name": "ACERPURE INDIA CE PRIVATE LIMITED",
+   "model": "ADZ75P"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL AMERICA CORPORATION PRIVATE LIMITED",
+   "model": "ADS75P"
+  },
+  {
    "brand": "Daewoo",
    "name": "THINK EBIKEGO PRIVATE LIMITED",
    "model": "DAE75P"
+  },
+  {
+   "brand": "DishTV (IN)",
+   "name": "DISHTV INDIA LTD.",
+   "model": "VZY SMART TV"
+  },
+  {
+   "brand": "ONIDA",
+   "name": "MIRC Electronics Ltd.",
+   "model": "ONI75P"
+  },
+  {
+   "brand": "ONIDA",
+   "name": "MIRC Electronics Ltd.",
+   "model": "ONX75P"
   },
   {
    "brand": "Reliance",
@@ -14909,6 +14939,11 @@
    "brand": "ViewSonic",
    "name": "Viewsonic Technologies  India private Limited",
    "model": "ViewSonic smart"
+  },
+  {
+   "brand": "realme",
+   "name": "realmeTechLife",
+   "model": "REC75P"
   }
  ],
  "waiawa": [

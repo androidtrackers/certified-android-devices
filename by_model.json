@@ -14417,6 +14417,20 @@
    "device": "vileparle"
   }
  ],
+ "ACP75P": [
+  {
+   "brand": "AcerPure",
+   "name": "ACERPURE INDIA CE PRIVATE LIMITED",
+   "device": "chester"
+  }
+ ],
+ "ADZ75P": [
+  {
+   "brand": "AcerPure",
+   "name": "ACERPURE INDIA CE PRIVATE LIMITED",
+   "device": "chester"
+  }
+ ],
  "ACP65P": [
   {
    "brand": "AcerPure",
@@ -14702,6 +14716,13 @@
    "brand": "Admiral Overseas Corporation",
    "name": "ADMIRAL 4K TV",
    "device": "SW4H"
+  }
+ ],
+ "ADS75P": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL AMERICA CORPORATION PRIVATE LIMITED",
+   "device": "chester"
   }
  ],
  "ADMIRAL TV": [
@@ -69667,6 +69688,13 @@
    "brand": "DishTV (IN)",
    "name": "D-805XATV HD",
    "device": "SEI110"
+  }
+ ],
+ "VZY SMART TV": [
+  {
+   "brand": "DishTV (IN)",
+   "name": "DISHTV INDIA LTD.",
+   "device": "chester"
   }
  ],
  "VZY65P": [
@@ -199622,6 +199650,20 @@
    "brand": "ONERugged",
    "name": "MT50CE",
    "device": "MT50CE"
+  }
+ ],
+ "ONI75P": [
+  {
+   "brand": "ONIDA",
+   "name": "MIRC Electronics Ltd.",
+   "device": "chester"
+  }
+ ],
+ "ONX75P": [
+  {
+   "brand": "ONIDA",
+   "name": "MIRC Electronics Ltd.",
+   "device": "chester"
   }
  ],
  "ONI65P": [
@@ -354150,6 +354192,13 @@
    "brand": "realme",
    "name": "realmeGT Neo5 240W",
    "device": "RE5860"
+  }
+ ],
+ "REC75P": [
+  {
+   "brand": "realme",
+   "name": "realmeTechLife",
+   "device": "chester"
   }
  ],
  "RMX3562": [
