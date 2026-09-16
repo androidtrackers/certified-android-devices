@@ -133374,6 +133374,13 @@
    "device": "A08"
   }
  ],
+ "JTOUCH_26_ADVANCED_SERIES": [
+  {
+   "brand": "Infocus",
+   "name": "JTOUCH_26_ADVANCED_SERIES",
+   "device": "D022"
+  }
+ ],
  "JTouch_Series_13ea": [
   {
    "brand": "Infocus",
@@ -178924,6 +178931,13 @@
    "brand": "Melefon",
    "name": "Good",
    "device": "Good"
+  }
+ ],
+ "Melita-4K-IP-TV": [
+  {
+   "brand": "Melita",
+   "name": "Melita-4K-IP-TV",
+   "device": "DV9651-KMM"
   }
  ],
  "DV8955C-C": [

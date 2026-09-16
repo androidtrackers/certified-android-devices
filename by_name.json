@@ -133789,6 +133789,13 @@
    "model": "IF9031"
   }
  ],
+ "JTOUCH_26_ADVANCED_SERIES": [
+  {
+   "brand": "Infocus",
+   "device": "D022",
+   "model": "JTOUCH_26_ADVANCED_SERIES"
+  }
+ ],
  "JTouch 13e": [
   {
    "brand": "Infocus",
@@ -176303,6 +176310,13 @@
    "brand": "Melefon",
    "device": "Good",
    "model": "Good"
+  }
+ ],
+ "Melita-4K-IP-TV": [
+  {
+   "brand": "Melita",
+   "device": "DV9651-KMM",
+   "model": "Melita-4K-IP-TV"
   }
  ],
  "Melita-4K-TV": [

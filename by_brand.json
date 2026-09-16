@@ -94002,6 +94002,11 @@
    "model": "IF9031"
   },
   {
+   "device": "D022",
+   "name": "JTOUCH_26_ADVANCED_SERIES",
+   "model": "JTOUCH_26_ADVANCED_SERIES"
+  },
+  {
    "device": "D014",
    "name": "JTouch 13e",
    "model": "JTouch_Series_13ea"
@@ -130687,6 +130692,11 @@
   }
  ],
  "Melita": [
+  {
+   "device": "DV9651-KMM",
+   "name": "Melita-4K-IP-TV",
+   "model": "Melita-4K-IP-TV"
+  },
   {
    "device": "DV8955C-C-KMM",
    "name": "Melita-4K-TV",

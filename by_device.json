@@ -134949,6 +134949,13 @@
    "model": "IF9031"
   }
  ],
+ "D022": [
+  {
+   "brand": "Infocus",
+   "name": "JTOUCH_26_ADVANCED_SERIES",
+   "model": "JTOUCH_26_ADVANCED_SERIES"
+  }
+ ],
  "D014": [
   {
    "brand": "Infocus",
@@ -177528,6 +177535,13 @@
    "brand": "Melefon",
    "name": "Good",
    "model": "Good"
+  }
+ ],
+ "DV9651-KMM": [
+  {
+   "brand": "Melita",
+   "name": "Melita-4K-IP-TV",
+   "model": "Melita-4K-IP-TV"
   }
  ],
  "DV8955C-C-KMM": [

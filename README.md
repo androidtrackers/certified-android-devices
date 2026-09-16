@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-15
+Last sync is 2026-09-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18208,6 +18208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infocus|InFocus M6S|AH2|IF9003|
 |Infocus|InFocus M7 Lite|A02|IF9031|
 |Infocus|InFocus M7S|A08|IF9031|
+|Infocus|JTOUCH_26_ADVANCED_SERIES|D022|JTOUCH_26_ADVANCED_SERIES|
 |Infocus|JTouch 13e|D014|JTouch_Series_13ea|
 |Infocus|JTouch 13e|D014|JTouch_Series_13eb|
 |Infocus|JTouch Series 13|D011|JTouch_Series_13|
@@ -25352,6 +25353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu note8|meizunote8|meizu note8|
 |Meizu|meizu note9|meizunote9|meizu note9|
 |Melefon|Good|Good|Good|
+|Melita|Melita-4K-IP-TV|DV9651-KMM|Melita-4K-IP-TV|
 |Melita|Melita-4K-TV|DV8955C-C-KMM|DV8955C-C|
 |Memorex|MTAB-07530A|MTAB-07530A|MTAB-07530A|
 |Memorex|MTAB-0753AK|MTAB-07535AK|MTAB-07535AK|
