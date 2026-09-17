@@ -4271,6 +4271,11 @@
    "model": "AS10L"
   },
   {
+   "device": "AS10L_A16_N",
+   "name": "AS10L_A16_N",
+   "model": "AS10L"
+  },
+  {
    "device": "AS10W",
    "name": "AS10W",
    "model": "AS10W"
@@ -29068,6 +29073,11 @@
    "model": "6769-4G"
   },
   {
+   "device": "A1095Z-5G",
+   "name": "A1095Z-5G",
+   "model": "A1095Z-5G"
+  },
+  {
    "device": "A10ST-5G",
    "name": "A10ST-5G",
    "model": "A10ST-5G"
@@ -41873,6 +41883,11 @@
    "device": "mountbaker",
    "name": "DAEWOO",
    "model": "DAEWOO SMART TV"
+  },
+  {
+   "device": "alameda",
+   "name": "DAEWOO AI SMART TV",
+   "model": "DAEWOO AI SMART TV"
   },
   {
    "device": "beomil",
@@ -93050,6 +93065,16 @@
    "model": "Infinix TV"
   },
   {
+   "device": "eleonas",
+   "name": "Infinix TV",
+   "model": "Infinix TV"
+  },
+  {
+   "device": "katehaki",
+   "name": "Infinix TV",
+   "model": "Infinix TV"
+  },
+  {
    "device": "Infinix-X5010",
    "name": "Infinix X5010",
    "model": "Infinix X5010"
@@ -94005,6 +94030,11 @@
    "device": "D022",
    "name": "JTOUCH_26_ADVANCED_SERIES",
    "model": "JTOUCH_26_ADVANCED_SERIES"
+  },
+  {
+   "device": "D021",
+   "name": "JTOUCH_26_ESSENTIAL_SERIES",
+   "model": "JTOUCH_26_ESSENTIAL_SERIES"
   },
   {
    "device": "D014",
@@ -96031,6 +96061,11 @@
    "model": "G8060"
   },
   {
+   "device": "alameda",
+   "name": "IRIS 2K SmartTV",
+   "model": "IRIS 2K SmartTV"
+  },
+  {
    "device": "beomil",
    "name": "IRIS 2K SmartTV",
    "model": "IRIS 2K SmartTV"
@@ -97767,6 +97802,11 @@
    "model": "itel TV"
   },
   {
+   "device": "katehaki",
+   "name": "itel TV",
+   "model": "itel TV"
+  },
+  {
    "device": "shibuya",
    "name": "itel TV",
    "model": "itel TV"
@@ -99413,6 +99453,11 @@
    "device": "A20_YK",
    "name": "A20_US_YK",
    "model": "A20"
+  },
+  {
+   "device": "B10_US",
+   "name": "B10_US",
+   "model": "B10"
   },
   {
    "device": "M70_B",
@@ -130902,6 +130947,11 @@
    "model": "N672"
   },
   {
+   "device": "hera_pro_se",
+   "name": "hera_pro_se",
+   "model": "N962"
+  },
+  {
    "device": "phaeton",
    "name": "phaeton",
    "model": "N722"
@@ -161685,6 +161735,11 @@
    "model": "Panasonic UHD TV"
   },
   {
+   "device": "alameda",
+   "name": "Panasonic 2K TV",
+   "model": "Panasonic 2K TV"
+  },
+  {
    "device": "beomil",
    "name": "Panasonic 2K TV",
    "model": "Panasonic 2K TV"
@@ -177035,6 +177090,11 @@
    "model": "P60-U1"
   },
   {
+   "device": "P60-U2",
+   "name": "P60-U2",
+   "model": "P60"
+  },
+  {
    "device": "P60_EEA",
    "name": "P60_EEA",
    "model": "P60"
@@ -177108,6 +177168,16 @@
    "device": "P90_Y",
    "name": "P90_Y_US",
    "model": "P90"
+  },
+  {
+   "device": "S80",
+   "name": "S80-EEA",
+   "model": "S80"
+  },
+  {
+   "device": "S80",
+   "name": "S80-ROW",
+   "model": "S80"
   },
   {
    "device": "S90_S",
@@ -178341,6 +178411,11 @@
    "device": "S6518",
    "name": "RUIO S6518",
    "model": "S6518"
+  },
+  {
+   "device": "RUIO_ZIP",
+   "name": "RUIO ZIP",
+   "model": "RS2503"
   },
   {
    "device": "RUIO_ZIP",
@@ -182341,6 +182416,11 @@
    "model": "P11_R"
   },
   {
+   "device": "P11_R",
+   "name": "P11_R_USA",
+   "model": "P11_R"
+  },
+  {
    "device": "P11_T",
    "name": "P11_T_ROW",
    "model": "P11_T"
@@ -182788,6 +182868,11 @@
    "device": "katehaki",
    "name": "SWTV-25TGL-4K",
    "model": "SWTV-25TGL-4K"
+  },
+  {
+   "device": "alameda",
+   "name": "SWTV-26AE-2KA5",
+   "model": "SWTV-26AE-2KA5"
   },
   {
    "device": "sapporo",
@@ -211222,6 +211307,11 @@
    "model": "Neo 8 Lite"
   },
   {
+   "device": "Neo_16",
+   "name": "Neo_16",
+   "model": "Neo_16"
+  },
+  {
    "device": "Neo_X",
    "name": "Neo_X",
    "model": "Neo X"
@@ -225181,6 +225271,11 @@
    "model": "KIDS707"
   },
   {
+   "device": "KIDS707A-708",
+   "name": "KIDS707A_708A",
+   "model": "KIDS707A-708"
+  },
+  {
    "device": "KIDS708",
    "name": "KIDS708",
    "model": "KIDS708"
@@ -227314,6 +227409,26 @@
    "device": "P30T_ROW",
    "name": "P30T_ROW",
    "model": "P30T_ROW"
+  },
+  {
+   "device": "P30T_YB",
+   "name": "P30T_YB_EEA",
+   "model": "P30T"
+  },
+  {
+   "device": "P30T_YB",
+   "name": "P30T_YB_ROW",
+   "model": "P30T"
+  },
+  {
+   "device": "P30T_YB",
+   "name": "P30T_YB_RU",
+   "model": "P30T"
+  },
+  {
+   "device": "P30T_YB",
+   "name": "P30T_YB_US",
+   "model": "P30T"
   },
   {
    "device": "P30T_Y",
@@ -231090,6 +231205,11 @@
    "model": "TF600"
   },
   {
+   "device": "alameda",
+   "name": "Telefunken 2K SmartTV",
+   "model": "Telefunken 2K SmartTV"
+  },
+  {
    "device": "sapporo",
    "name": "Telefunken 4K TV",
    "model": "Telefunken 4K TV"
@@ -231556,6 +231676,11 @@
    "device": "M8",
    "name": "M8",
    "model": "M8 for arm64"
+  },
+  {
+   "device": "MX",
+   "name": "MX",
+   "model": "MX"
   },
   {
    "device": "P9",
@@ -232045,6 +232170,11 @@
    "device": "Pad_Pro",
    "name": "Pad_Pro_NEU",
    "model": "Pad_Pro"
+  },
+  {
+   "device": "Pad_SE",
+   "name": "Pad_SE_EEA",
+   "model": "Pad_SE"
   },
   {
    "device": "R3",
@@ -255160,6 +255290,13 @@
    "model": "X8"
   }
  ],
+ "Xnano": [
+  {
+   "device": "coorg",
+   "name": "GT350",
+   "model": "GT350"
+  }
+ ],
  "Xolo": [
   {
    "device": "XE2X",
@@ -255896,6 +256033,11 @@
   }
  ],
  "Yasin": [
+  {
+   "device": "dangni",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
   {
    "device": "elliniko",
    "name": "YASIN",

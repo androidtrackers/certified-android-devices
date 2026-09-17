@@ -7173,6 +7173,11 @@
    "model": "WANSA Google TV"
   },
   {
+   "brand": "Yasin",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "oboni",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -11973,6 +11978,11 @@
    "model": "G2"
   },
   {
+   "brand": "Xnano",
+   "name": "GT350",
+   "model": "GT350"
+  },
+  {
    "brand": "wanbo",
    "name": "Vali1 Pro",
    "model": "Vali1 Pro"
@@ -14759,6 +14769,13 @@
   {
    "brand": "Acer",
    "name": "AS10L_A16",
+   "model": "AS10L"
+  }
+ ],
+ "AS10L_A16_N": [
+  {
+   "brand": "Acer",
+   "name": "AS10L_A16_N",
    "model": "AS10L"
   }
  ],
@@ -18621,6 +18638,11 @@
    "brand": "Indurama",
    "name": "Indurama 4K smart TV",
    "model": "Indurama 4K smart TV"
+  },
+  {
+   "brand": "Infinix",
+   "name": "Infinix TV",
+   "model": "Infinix TV"
   },
   {
    "brand": "Iris",
@@ -36474,6 +36496,16 @@
    "brand": "Premio",
    "name": "S80",
    "model": "S80"
+  },
+  {
+   "brand": "Relndoo",
+   "name": "S80-EEA",
+   "model": "S80"
+  },
+  {
+   "brand": "Relndoo",
+   "name": "S80-ROW",
+   "model": "S80"
   }
  ],
  "S90": [
@@ -38755,9 +38787,29 @@
    "model": "BGH 2K SMART TV"
   },
   {
+   "brand": "Daewoo",
+   "name": "DAEWOO AI SMART TV",
+   "model": "DAEWOO AI SMART TV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS 2K SmartTV",
+   "model": "IRIS 2K SmartTV"
+  },
+  {
    "brand": "Noblex",
    "name": "NS 2K SMART TV",
    "model": "NS 2K SMART TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2K TV",
+   "model": "Panasonic 2K TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-26AE-2KA5",
+   "model": "SWTV-26AE-2KA5"
   },
   {
    "brand": "SWTV",
@@ -38768,6 +38820,11 @@
    "brand": "SWTV",
    "name": "SWTV-26SA-2KA5",
    "model": "SWTV-26SA-2KA5"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "Telefunken 2K SmartTV",
+   "model": "Telefunken 2K SmartTV"
   }
  ],
  "katehaki": [
@@ -38787,9 +38844,19 @@
    "model": "Haier TV"
   },
   {
+   "brand": "Infinix",
+   "name": "Infinix TV",
+   "model": "Infinix TV"
+  },
+  {
    "brand": "Iris",
    "name": "IRIS 4K Smart TV Lite",
    "model": "IRIS 4K Smart TV Lite"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel TV",
+   "model": "itel TV"
   },
   {
    "brand": "JVC",
@@ -54645,6 +54712,13 @@
    "brand": "CENAVA",
    "name": "6769-4G",
    "model": "6769-4G"
+  }
+ ],
+ "A1095Z-5G": [
+  {
+   "brand": "CENAVA",
+   "name": "A1095Z-5G",
+   "model": "A1095Z-5G"
   }
  ],
  "A10ST-5G": [
@@ -134956,6 +135030,13 @@
    "model": "JTOUCH_26_ADVANCED_SERIES"
   }
  ],
+ "D021": [
+  {
+   "brand": "Infocus",
+   "name": "JTOUCH_26_ESSENTIAL_SERIES",
+   "model": "JTOUCH_26_ESSENTIAL_SERIES"
+  }
+ ],
  "D014": [
   {
    "brand": "Infocus",
@@ -141056,6 +141137,13 @@
    "model": "A20"
   }
  ],
+ "B10_US": [
+  {
+   "brand": "Jckkcfug",
+   "name": "B10_US",
+   "model": "B10"
+  }
+ ],
  "M70_B": [
   {
    "brand": "Jckkcfug",
@@ -145303,6 +145391,11 @@
  "MX": [
   {
    "brand": "Kimfly",
+   "name": "MX",
+   "model": "MX"
+  },
+  {
+   "brand": "Telpo",
    "name": "MX",
    "model": "MX"
   }
@@ -177753,6 +177846,13 @@
    "brand": "MiTAC",
    "name": "hera_pro_eea",
    "model": "N672"
+  }
+ ],
+ "hera_pro_se": [
+  {
+   "brand": "MiTAC",
+   "name": "hera_pro_se",
+   "model": "N962"
   }
  ],
  "phaeton": [
@@ -231004,6 +231104,13 @@
    "model": "P60-U1"
   }
  ],
+ "P60-U2": [
+  {
+   "brand": "Relndoo",
+   "name": "P60-U2",
+   "model": "P60"
+  }
+ ],
  "P60_EEA": [
   {
    "brand": "Relndoo",
@@ -232419,6 +232526,11 @@
   }
  ],
  "RUIO_ZIP": [
+  {
+   "brand": "Ruio",
+   "name": "RUIO ZIP",
+   "model": "RS2503"
+  },
   {
    "brand": "Ruio",
    "name": "RUIO ZIP",
@@ -236762,6 +236874,11 @@
   {
    "brand": "SVITOO",
    "name": "P11_R_ROW",
+   "model": "P11_R"
+  },
+  {
+   "brand": "SVITOO",
+   "name": "P11_R_USA",
    "model": "P11_R"
   }
  ],
@@ -271478,6 +271595,13 @@
    "model": "Neo 8 Lite"
   }
  ],
+ "Neo_16": [
+  {
+   "brand": "SparX",
+   "name": "Neo_16",
+   "model": "Neo_16"
+  }
+ ],
  "Neo_X": [
   {
    "brand": "SparX",
@@ -285877,6 +286001,13 @@
    "model": "KIDS707"
   }
  ],
+ "KIDS707A-708": [
+  {
+   "brand": "TOPELOTEK",
+   "name": "KIDS707A_708A",
+   "model": "KIDS707A-708"
+  }
+ ],
  "KIDS708": [
   {
    "brand": "TOPELOTEK",
@@ -288275,6 +288406,28 @@
    "brand": "Teclast",
    "name": "P30T_ROW",
    "model": "P30T_ROW"
+  }
+ ],
+ "P30T_YB": [
+  {
+   "brand": "Teclast",
+   "name": "P30T_YB_EEA",
+   "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30T_YB_ROW",
+   "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30T_YB_RU",
+   "model": "P30T"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30T_YB_US",
+   "model": "P30T"
   }
  ],
  "P30T_Y": [
@@ -293903,6 +294056,13 @@
    "brand": "Thomson",
    "name": "Pad_Pro_NEU",
    "model": "Pad_Pro"
+  }
+ ],
+ "Pad_SE": [
+  {
+   "brand": "Thomson",
+   "name": "Pad_SE_EEA",
+   "model": "Pad_SE"
   }
  ],
  "dongli": [
