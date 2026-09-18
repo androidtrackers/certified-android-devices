@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-17
+Last sync is 2026-09-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6079,6 +6079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|Casper VIA S48|VIA_S48|VIA_S48|
 |Casper|Casper VIA X20|VIA_X20|VIA X20|
 |Casper|L20|L20|L20|
+|Casper|PAD_D10|PAD_D10|CTP100|
 |Casper|Pad_H10_PEN|Pad_H10_PEN|Pad H10 PEN|
 |Casper|Pad_H10_PRO|Pad_H10_PRO|Pad H10 PRO|
 |Casper|R3|R3|R3|
@@ -25159,6 +25160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP10KID|M-SP10KID|SmartKid10|
 |Mediacom|M-SP10MXHA|SmartPad|M-SP10MXHA|
 |Mediacom|M-SP10MXHL|M-SP10MXHL|M-SP10MXHL|
+|Mediacom|M-SP11AZ48|M-SP11AZ48|Azimut_4_lite|
 |Mediacom|M-SP1AGO3G|M-SP1AGO3G|M-SP1AGO3G|
 |Mediacom|M-SP1AZ2TW_EEA|M-SP1AZ2TW|Azimut2|
 |Mediacom|M-SP1AZ3L|M-SP1AZ3L|M-SP1AZ3L|
@@ -29527,7 +29529,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7|PBFT00|PBFT00|
 |Oppo|A7 Pro 5G|OP620BL1|PYE110|
 |Oppo|A7 Pro 5G|OP620BL1|PYE130|
-|Oppo|A7 Pro Max 5G|OP620DL1|PYC110|
 |Oppo|A72|OP4C72L1|CPH2067|
 |Oppo|A73|A73|OPPO A73|
 |Oppo|A73|A79|OPPO A73|
@@ -29885,6 +29886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PLT140|OP5E1EL1|PLT140|
 |Oppo|PLT150|OP5E1EL1|PLT150|
 |Oppo|PMM110|OP61F3L1|PMM110|
+|Oppo|PYC110|OP620DL1|PYC110|
 |Oppo|Pad 4 Pro|OP615CL1|OPD2409|
 |Oppo|Pad 5|OP6573L1|OPD2502|
 |Oppo|Pad 5|OP6573L1|OPD2503|
@@ -32827,6 +32829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_A07K_EEA|K7_A07K_EEA|K7|
 |Pritom|K7_A07K_US|K7_A07K_US|K7|
 |Pritom|K7_A07_US|K7_A07_US|K7|
+|Pritom|K7_A08_US|K7_A08_US|K7|
 |Pritom|K7_A101|K7_A101|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101_EEA|
@@ -35936,6 +35939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A37 5G|a37x|SM-A3760|
 |Samsung|Galaxy A37 5G|a37x|SM-A376B|
 |Samsung|Galaxy A37 5G|a37x|SM-A376E|
+|Samsung|Galaxy A37 5G|a37x|SM-A376N|
 |Samsung|Galaxy A37 5G|a37x|SM-A376U|
 |Samsung|Galaxy A37 5G|a37x|SM-A376U1|
 |Samsung|Galaxy A37 5G|a37x|SM-A376W|
@@ -39610,6 +39614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|PN-ZC02|PN_ZC02|PN-ZC02|
 |Sharp|PN_LB3_Sereies|PN_LB3_series|PN_LB3_series|
 |Sharp|Q-pot.Phone SH-04D|SH04D|SH-04D|
+|Sharp|R3GS|R3GS|R3GS|
 |Sharp|R4-SH|R4|R4-SH|
 |Sharp|ROUVO V|STTM21VAPP|STTM21VAPP|
 |Sharp|RW107|RW107|RW107|
@@ -53839,6 +53844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600i|PD2617|V2617A|
 |vivo|Y600i AI版|PD2617|V2617A|
 |vivo|Y600i m版|PD2617|V2617A|
+|vivo|Y600k Turbo|PD2553|V2553A|
 |vivo|Y60c|PD2542|V2542A|
 |vivo|Y60e|PD2542|V2542A|
 |vivo|Y60e AI版|PD2542|V2542A|

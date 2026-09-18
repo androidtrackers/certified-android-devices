@@ -55349,6 +55349,13 @@
    "model": "L20"
   }
  ],
+ "PAD_D10": [
+  {
+   "brand": "Casper",
+   "device": "PAD_D10",
+   "model": "CTP100"
+  }
+ ],
  "Pad_H10_PEN": [
   {
    "brand": "Casper",
@@ -175053,6 +175060,13 @@
    "model": "M-SP10MXHL"
   }
  ],
+ "M-SP11AZ48": [
+  {
+   "brand": "Mediacom",
+   "device": "M-SP11AZ48",
+   "model": "Azimut_4_lite"
+  }
+ ],
  "M-SP1AGO3G": [
   {
    "brand": "Mediacom",
@@ -200756,13 +200770,6 @@
    "model": "PYE130"
   }
  ],
- "A7 Pro Max 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP620DL1",
-   "model": "PYC110"
-  }
- ],
  "A73t": [
   {
    "brand": "Oppo",
@@ -202983,6 +202990,13 @@
    "brand": "Oppo",
    "device": "OP61F3L1",
    "model": "PMM110"
+  }
+ ],
+ "PYC110": [
+  {
+   "brand": "Oppo",
+   "device": "OP620DL1",
+   "model": "PYC110"
   }
  ],
  "Pad 4 Pro": [
@@ -221505,6 +221519,13 @@
   {
    "brand": "Pritom",
    "device": "K7_A07_US",
+   "model": "K7"
+  }
+ ],
+ "K7_A08_US": [
+  {
+   "brand": "Pritom",
+   "device": "K7_A08_US",
    "model": "K7"
   }
  ],
@@ -240168,6 +240189,11 @@
    "brand": "Samsung",
    "device": "a37x",
    "model": "SM-A376E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a37x",
+   "model": "SM-A376N"
   },
   {
    "brand": "Samsung",
@@ -260855,6 +260881,13 @@
    "brand": "Sharp",
    "device": "SH04D",
    "model": "SH-04D"
+  }
+ ],
+ "R3GS": [
+  {
+   "brand": "Sharp",
+   "device": "R3GS",
+   "model": "R3GS"
   }
  ],
  "R4-SH": [
@@ -344236,6 +344269,13 @@
    "brand": "vivo",
    "device": "PD2617",
    "model": "V2617A"
+  }
+ ],
+ "Y600k Turbo": [
+  {
+   "brand": "vivo",
+   "device": "PD2553",
+   "model": "V2553A"
   }
  ],
  "Y60c": [

@@ -31511,6 +31511,11 @@
    "model": "L20"
   },
   {
+   "device": "PAD_D10",
+   "name": "PAD_D10",
+   "model": "CTP100"
+  },
+  {
    "device": "Pad_H10_PEN",
    "name": "Pad_H10_PEN",
    "model": "Pad H10 PEN"
@@ -129703,6 +129708,11 @@
    "model": "M-SP10MXHL"
   },
   {
+   "device": "M-SP11AZ48",
+   "name": "M-SP11AZ48",
+   "model": "Azimut_4_lite"
+  },
+  {
    "device": "M-SP1AGO3G",
    "name": "M-SP1AGO3G",
    "model": "M-SP1AGO3G"
@@ -152215,11 +152225,6 @@
    "model": "PYE130"
   },
   {
-   "device": "OP620DL1",
-   "name": "A7 Pro Max 5G",
-   "model": "PYC110"
-  },
-  {
    "device": "OP4C72L1",
    "name": "A72",
    "model": "CPH2067"
@@ -154003,6 +154008,11 @@
    "device": "OP61F3L1",
    "name": "PMM110",
    "model": "PMM110"
+  },
+  {
+   "device": "OP620DL1",
+   "name": "PYC110",
+   "model": "PYC110"
   },
   {
    "device": "OP615CL1",
@@ -169034,6 +169044,11 @@
   {
    "device": "K7_A07_US",
    "name": "K7_A07_US",
+   "model": "K7"
+  },
+  {
+   "device": "K7_A08_US",
+   "name": "K7_A08_US",
    "model": "K7"
   },
   {
@@ -185174,6 +185189,11 @@
    "device": "a37x",
    "name": "Galaxy A37 5G",
    "model": "SM-A376E"
+  },
+  {
+   "device": "a37x",
+   "name": "Galaxy A37 5G",
+   "model": "SM-A376N"
   },
   {
    "device": "a37x",
@@ -203624,6 +203644,11 @@
    "device": "SH04D",
    "name": "Q-pot.Phone SH-04D",
    "model": "SH-04D"
+  },
+  {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
   },
   {
    "device": "R4",
@@ -276837,6 +276862,11 @@
    "device": "PD2617",
    "name": "Y600i m版",
    "model": "V2617A"
+  },
+  {
+   "device": "PD2553",
+   "name": "Y600k Turbo",
+   "model": "V2553A"
   },
   {
    "device": "PD2542",

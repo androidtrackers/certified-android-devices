@@ -57985,6 +57985,13 @@
    "model": "L20"
   }
  ],
+ "PAD_D10": [
+  {
+   "brand": "Casper",
+   "name": "PAD_D10",
+   "model": "CTP100"
+  }
+ ],
  "Pad_H10_PEN": [
   {
    "brand": "Casper",
@@ -176303,6 +176310,13 @@
    "model": "M-SP10MXHL"
   }
  ],
+ "M-SP11AZ48": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP11AZ48",
+   "model": "Azimut_4_lite"
+  }
+ ],
  "M-SP1AGO3G": [
   {
    "brand": "Mediacom",
@@ -202562,13 +202576,6 @@
    "model": "PYE130"
   }
  ],
- "OP620DL1": [
-  {
-   "brand": "Oppo",
-   "name": "A7 Pro Max 5G",
-   "model": "PYC110"
-  }
- ],
  "OP4C72L1": [
   {
    "brand": "Oppo",
@@ -204714,6 +204721,13 @@
    "brand": "Oppo",
    "name": "PMM110",
    "model": "PMM110"
+  }
+ ],
+ "OP620DL1": [
+  {
+   "brand": "Oppo",
+   "name": "PYC110",
+   "model": "PYC110"
   }
  ],
  "OP615CL1": [
@@ -222776,6 +222790,13 @@
    "model": "K7"
   }
  ],
+ "K7_A08_US": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A08_US",
+   "model": "K7"
+  }
+ ],
  "K7_A101": [
   {
    "brand": "Pritom",
@@ -239735,6 +239756,11 @@
    "brand": "Samsung",
    "name": "Galaxy A37 5G",
    "model": "SM-A376E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A37 5G",
+   "model": "SM-A376N"
   },
   {
    "brand": "Samsung",
@@ -262320,6 +262346,13 @@
    "brand": "Sharp",
    "name": "Q-pot.Phone SH-04D",
    "model": "SH-04D"
+  }
+ ],
+ "R3GS": [
+  {
+   "brand": "Sharp",
+   "name": "R3GS",
+   "model": "R3GS"
   }
  ],
  "STTM21VAPP": [
@@ -343304,6 +343337,11 @@
   {
    "brand": "vivo",
    "name": "Y600 Turbo",
+   "model": "V2553A"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600k Turbo",
    "model": "V2553A"
   }
  ],
