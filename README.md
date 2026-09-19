@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-18
+Last sync is 2026-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14265,6 +14265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE243E|HLTE243E|Hisense T3|
 |Hisense|HLTE243E|HLTE243E|Hisense T55|
 |Hisense|HLTE243E|HLTE243E|Hisense U43|
+|Hisense|HLTE243E|HLTE243E|Hisense U55|
 |Hisense|HLTE243E|HLTE243E|Hisense U967|
 |Hisense|HLTE243E|HLTE243E|Hisense U968|
 |Hisense|HLTE243E|HLTE243E|Hisense Y83 Pro|
@@ -20602,6 +20603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce EX|KY23L-RG100|A301KC|
 |Kyocera|DuraForce EX|KY23L-RG100|KC-S603|
 |Kyocera|DuraForce EX|KY23L-RG100|KC-S703|
+|Kyocera|DuraForce EX2|KY25M-RG200|KC-S704|
 |Kyocera|DuraForce PRO|E6820|KYOCERA-E6820|
 |Kyocera|DuraForce PRO|E6820TM_3GB|E6820TM|
 |Kyocera|DuraForce PRO|E6820_3GB|KYOCERA-E6820|
@@ -28843,6 +28845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONERugged|M185QE|M185QE|M185QE|
 |ONERugged|M195T|M195T|M195T|
 |ONERugged|M19TE|M19TE|M19TE|
+|ONERugged|M80X|M80X|M80X|
 |ONERugged|M80XE|M80XE|M80XE|
 |ONERugged|M86X|M86X|M86X|
 |ONERugged|M86XE|M86XE|M86XE|
@@ -29761,6 +29764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K13x 5G|OP5EF7L1|CPH2753|
 |Oppo|K14 5G|OP5F2BL1|CPH2869|
 |Oppo|K14 Lite|OP632F|CPH3007|
+|Oppo|K14 Plus 5G|OP62B9L1|CPH3009|
 |Oppo|K14x 5G|OP5F2BL1|CPH2871|
 |Oppo|K15 Pro|OP61E9L1|PMH110|
 |Oppo|K15 Pro+|OP61E5L1|PMG110|
@@ -30225,6 +30229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Orange Rise 53|Rise_53|Orange Rise 53|
 |Orange|Orange SK VSB3918|eu_vsb3918|EU AVSB 3918|
 |Orange|Orange V652L|Orange-V652L|Orange V652L|
+|Orange|Orange Video Soundbox|m393_vsb|Video Soundbox|
 |Orange|Orange_Tab_7_4G|Orange_Tab_7_4G|Orange_Tab_7_4G|
 |Orange|Orange_Tab_8_4G|Orange_Tab_8_4G|Orange_Tab_8_4G|
 |Orange|Race_1|Race_1|Race 1|
@@ -52803,6 +52808,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|I24D02|Swan2|I24D02|
 |iMin|I24T03|Falcon2Max|I24T03|
 |iMin|Lark 1|Lark1|I24P01|
+|iMin|Penguin 1 mini|Penguin1mini|I26K01|
+|iMin|Penguin1|Penguin1|I26K02|
 |iMin|Roc 1|Roc1|I25M01|
 |iMin|Roc 1 Max|Roc1Max|I25M02|
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
