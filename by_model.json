@@ -62582,6 +62582,13 @@
    "device": "E11_US"
   }
  ],
+ "E15_E": [
+  {
+   "brand": "DEERTiME",
+   "name": "E15_E",
+   "device": "E15_E"
+  }
+ ],
  "E15_EEA": [
   {
    "brand": "DEERTiME",
@@ -68278,6 +68285,13 @@
   }
  ],
  "M10AA": [
+  {
+   "brand": "DigiLand",
+   "name": "M10AA",
+   "device": "M10AA"
+  }
+ ],
+ "R10Pro": [
   {
    "brand": "DigiLand",
    "name": "M10AA",
@@ -76395,6 +76409,13 @@
    "brand": "ETELPREMIUM",
    "name": "ETEL P66",
    "device": "ETEL-P66"
+  }
+ ],
+ "ETEL_P69": [
+  {
+   "brand": "ETELPREMIUM",
+   "name": "ETEL_P69",
+   "device": "ETEL_P69"
   }
  ],
  "Etel_P64": [
@@ -214358,6 +214379,13 @@
    "device": "iolite"
   }
  ],
+ "2607DPC18I": [
+  {
+   "brand": "POCO",
+   "name": "POCO X8",
+   "device": "iolite"
+  }
+ ],
  "2511FPC34G": [
   {
    "brand": "POCO",
@@ -220427,6 +220455,13 @@
    "brand": "Plimpton",
    "name": "PlimPad_P60",
    "device": "PlimPad_P60"
+  }
+ ],
+ "iKids20_A16_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "iKids20_A16_JAE",
+   "device": "iKids20_A16_JAE"
   }
  ],
  "kids20A15_A537": [
@@ -232299,6 +232334,13 @@
   }
  ],
  "2607DRA18G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro 5G",
+   "device": "iolite"
+  }
+ ],
+ "2607DRA18I": [
   {
    "brand": "Redmi",
    "name": "REDMI Note 17 Pro 5G",
@@ -324061,6 +324103,13 @@
    "device": "TAB-WP11"
   }
  ],
+ "Wynn_Pad_EEA": [
+  {
+   "brand": "WAWLYN",
+   "name": "Wynn_Pad_EEA",
+   "device": "Wynn_Pad_EEA"
+  }
+ ],
  "H1010_M50": [
   {
    "brand": "WCED",
@@ -351967,6 +352016,13 @@
    "device": "Lark1"
   }
  ],
+ "I26K03": [
+  {
+   "brand": "iMin",
+   "name": "Penguin 1 Pro mini",
+   "device": "Penguin1Promini"
+  }
+ ],
  "I26K01": [
   {
    "brand": "iMin",
@@ -355134,6 +355190,18 @@
    "device": "RED8C1L1"
   }
  ],
+ "RMX5399": [
+  {
+   "brand": "realme",
+   "name": "realme C01",
+   "device": "RE67EF"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C100i",
+   "device": "RE67EF"
+  }
+ ],
  "RMX5353": [
   {
    "brand": "realme",
@@ -355146,13 +355214,6 @@
    "brand": "realme",
    "name": "realme C100d",
    "device": "RE6802"
-  }
- ],
- "RMX5399": [
-  {
-   "brand": "realme",
-   "name": "realme C100i",
-   "device": "RE67EF"
   }
  ],
  "RMX3263": [

@@ -39750,6 +39750,11 @@
    "model": "E11_US"
   },
   {
+   "device": "E15_E",
+   "name": "E15_E",
+   "model": "E15_E"
+  },
+  {
    "device": "E15_EEA",
    "name": "E15_EEA",
    "model": "E15_EEA"
@@ -44060,6 +44065,11 @@
    "device": "M10AA",
    "name": "M10AA",
    "model": "M10AA"
+  },
+  {
+   "device": "M10AA",
+   "name": "M10AA",
+   "model": "R10Pro"
   },
   {
    "device": "mid1008",
@@ -50153,6 +50163,11 @@
    "device": "ETEL-P66",
    "name": "ETEL P66",
    "model": "ETEL-P66"
+  },
+  {
+   "device": "ETEL_P69",
+   "name": "ETEL_P69",
+   "model": "ETEL_P69"
   },
   {
    "device": "Etel_P64",
@@ -159900,6 +159915,11 @@
    "model": "2607DPC18G"
   },
   {
+   "device": "iolite",
+   "name": "POCO X8",
+   "model": "2607DPC18I"
+  },
+  {
    "device": "klee",
    "name": "POCO X8 Pro",
    "model": "2511FPC34G"
@@ -164827,6 +164847,11 @@
    "device": "X100",
    "name": "X100",
    "model": "X100"
+  },
+  {
+   "device": "iKids20_A16_JAE",
+   "name": "iKids20_A16_JAE",
+   "model": "iKids20_A16_JAE"
   },
   {
    "device": "kids20A15_A537",
@@ -175067,6 +175092,11 @@
    "device": "iolite",
    "name": "REDMI Note 17 Pro 5G",
    "model": "2607DRA18G"
+  },
+  {
+   "device": "iolite",
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18I"
   },
   {
    "device": "iolite",
@@ -248542,6 +248572,13 @@
    "model": "TAB-WP11"
   }
  ],
+ "WAWLYN": [
+  {
+   "device": "Wynn_Pad_EEA",
+   "name": "Wynn_Pad_EEA",
+   "model": "Wynn_Pad_EEA"
+  }
+ ],
  "WCED": [
   {
    "device": "H1010_M50",
@@ -271466,6 +271503,11 @@
    "model": "I24P01"
   },
   {
+   "device": "Penguin1Promini",
+   "name": "Penguin 1 Pro mini",
+   "model": "I26K03"
+  },
+  {
    "device": "Penguin1mini",
    "name": "Penguin 1 mini",
    "model": "I26K01"
@@ -274405,6 +274447,11 @@
    "device": "RE588DL1",
    "name": "realme 9i 5G",
    "model": "RMX3612"
+  },
+  {
+   "device": "RE67EF",
+   "name": "realme C01",
+   "model": "RMX5399"
   },
   {
    "device": "RE646B",

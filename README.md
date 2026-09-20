@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-19
+Last sync is 2026-09-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7674,6 +7674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEERTiME|E10_US|E10_US|E10_US|
 |DEERTiME|E11_EEA|E11_EEA|E11_EEA|
 |DEERTiME|E11_US|E11_US|E11_US|
+|DEERTiME|E15_E|E15_E|E15_E|
 |DEERTiME|E15_EEA|E15_EEA|E15_EEA|
 |DEERTiME|E15_US|E15_US|E15_US|
 |DEERTiME|E15_V_EEA|E15_V_EEA|E15_V_EEA|
@@ -8498,6 +8499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|KTAB17|KTAB17|KTAB17|
 |DigiLand|Leotec|mid1016_mk_32|Supernova|
 |DigiLand|M10AA|M10AA|M10AA|
+|DigiLand|M10AA|M10AA|R10Pro|
 |DigiLand|MID1008_Digiland|mid1008|DL1008M|
 |DigiLand|MID8006_Digiland|mid8006_mk_32|mid8006_mk_32|
 |DigiLand|NBDVDTAB9|NBDVDTAB9|NBDVDTAB9|
@@ -9673,6 +9675,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|ETEL P29|ETEL_P29|ETEL P29|
 |ETELPREMIUM|ETEL P65|ETEL-P65|ETEL-P65|
 |ETELPREMIUM|ETEL P66|ETEL-P66|ETEL-P66|
+|ETELPREMIUM|ETEL_P69|ETEL_P69|ETEL_P69|
 |ETELPREMIUM|Etel P64|Etel_P64|Etel_P64|
 |ETELPREMIUM|Etel P64 Ultra|Etel_P64|Etel P64 Ultra|
 |ETELPREMIUM|NOTE 25 ULTRA|NOTE_25_ULTRA|N2500|
@@ -31040,6 +31043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X7 Pro|rodin|2412DPC0AG|
 |POCO|POCO X7 Pro|rodin|2412DPC0AI|
 |POCO|POCO X8|iolite|2607DPC18G|
+|POCO|POCO X8|iolite|2607DPC18I|
 |POCO|POCO X8 Pro|klee|2511FPC34G|
 |POCO|POCO X8 Pro|klee|2511FPC34I|
 |POCO|POCO X8 Pro Max|dash|2602BPC18G|
@@ -32001,6 +32005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|PlimPad_P60|PlimPad_P60|PlimPad_P60|
 |Plimpton|PlimPad_P60_Pro|PlimPad_P60_Pro|PlimPad_P60_Pro|
 |Plimpton|X100|X100|X100|
+|Plimpton|iKids20_A16_JAE|iKids20_A16_JAE|iKids20_A16_JAE|
 |Plimpton|kids20A15_A537|kids20A15_A537|kids20A15_A537|
 |Plum|Phantom3|Z621|Z621|
 |Plum|Z518|Z518|Z518|
@@ -33987,6 +33992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 17 5G|mist|26081RA18L|
 |Redmi|REDMI Note 17 Pro|iolite|2607DRA18C|
 |Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18G|
+|Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18I|
 |Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18T|
 |Redmi|REDMI Note 17 Pro Max 5G|brussels|2609FRA74G|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
@@ -48352,6 +48358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WANYOU|G999X|G999X|G999X|
 |WAOO|Waoo TV-boks|m393gena_w|Waoo TV-boks|
 |WARP|TAB-WP11|TAB-WP11|TAB-WP11|
+|WAWLYN|Wynn_Pad_EEA|Wynn_Pad_EEA|Wynn_Pad_EEA|
 |WCED|H1010_M50|H1010_M50|H1010_M50|
 |WELLS_BOARD|WELLS AI BOARD|WELLS_BOARD|WM_YL_Series|
 |WEONEX|Interactive Flat Panel|WX_IFPD01|WX_IFPD01|
@@ -52808,6 +52815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|I24D02|Swan2|I24D02|
 |iMin|I24T03|Falcon2Max|I24T03|
 |iMin|Lark 1|Lark1|I24P01|
+|iMin|Penguin 1 Pro mini|Penguin1Promini|I26K03|
 |iMin|Penguin 1 mini|Penguin1mini|I26K01|
 |iMin|Penguin1|Penguin1|I26K02|
 |iMin|Roc 1|Roc1|I25M01|
@@ -53367,6 +53375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i|RED8C1L1|RMX3492|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i 5G|RE588DL1|RMX3612|
+|realme|realme C01|RE67EF|RMX5399|
 |realme|realme C100|RE646B|RMX5353|
 |realme|realme C100 5G|RE6478L1|RMX5258|
 |realme|realme C100d|RE6802|RMX5363|

@@ -67005,6 +67005,13 @@
    "model": "E11_US"
   }
  ],
+ "E15_E": [
+  {
+   "brand": "DEERTiME",
+   "device": "E15_E",
+   "model": "E15_E"
+  }
+ ],
  "E15_EEA": [
   {
    "brand": "DEERTiME",
@@ -72617,6 +72624,11 @@
    "brand": "DigiLand",
    "device": "M10AA",
    "model": "M10AA"
+  },
+  {
+   "brand": "DigiLand",
+   "device": "M10AA",
+   "model": "R10Pro"
   }
  ],
  "MID1008_Digiland": [
@@ -81546,6 +81558,13 @@
    "brand": "ETELPREMIUM",
    "device": "ETEL-P66",
    "model": "ETEL-P66"
+  }
+ ],
+ "ETEL_P69": [
+  {
+   "brand": "ETELPREMIUM",
+   "device": "ETEL_P69",
+   "model": "ETEL_P69"
   }
  ],
  "Etel P64": [
@@ -210273,6 +210292,11 @@
    "brand": "POCO",
    "device": "iolite",
    "model": "2607DPC18G"
+  },
+  {
+   "brand": "POCO",
+   "device": "iolite",
+   "model": "2607DPC18I"
   }
  ],
  "POCO X8 Pro": [
@@ -216236,6 +216260,13 @@
    "brand": "Plimpton",
    "device": "PlimPad_P60_Pro",
    "model": "PlimPad_P60_Pro"
+  }
+ ],
+ "iKids20_A16_JAE": [
+  {
+   "brand": "Plimpton",
+   "device": "iKids20_A16_JAE",
+   "model": "iKids20_A16_JAE"
   }
  ],
  "kids20A15_A537": [
@@ -228731,6 +228762,11 @@
    "brand": "Redmi",
    "device": "iolite",
    "model": "2607DRA18G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "iolite",
+   "model": "2607DRA18I"
   },
   {
    "brand": "Redmi",
@@ -312821,6 +312857,13 @@
    "model": "TAB-WP11"
   }
  ],
+ "Wynn_Pad_EEA": [
+  {
+   "brand": "WAWLYN",
+   "device": "Wynn_Pad_EEA",
+   "model": "Wynn_Pad_EEA"
+  }
+ ],
  "H1010_M50": [
   {
    "brand": "WCED",
@@ -338193,6 +338236,13 @@
    "model": "I24P01"
   }
  ],
+ "Penguin 1 Pro mini": [
+  {
+   "brand": "iMin",
+   "device": "Penguin1Promini",
+   "model": "I26K03"
+  }
+ ],
  "Penguin 1 mini": [
   {
    "brand": "iMin",
@@ -341463,6 +341513,13 @@
    "brand": "realme",
    "device": "RE588DL1",
    "model": "RMX3612"
+  }
+ ],
+ "realme C01": [
+  {
+   "brand": "realme",
+   "device": "RE67EF",
+   "model": "RMX5399"
   }
  ],
  "realme C100": [

@@ -69498,6 +69498,13 @@
    "model": "E11_US"
   }
  ],
+ "E15_E": [
+  {
+   "brand": "DEERTiME",
+   "name": "E15_E",
+   "model": "E15_E"
+  }
+ ],
  "E15_EEA": [
   {
    "brand": "DEERTiME",
@@ -75004,6 +75011,11 @@
    "brand": "DigiLand",
    "name": "M10AA",
    "model": "M10AA"
+  },
+  {
+   "brand": "DigiLand",
+   "name": "M10AA",
+   "model": "R10Pro"
   }
  ],
  "mid1008": [
@@ -83112,6 +83124,13 @@
    "brand": "ETELPREMIUM",
    "name": "ETEL P66",
    "model": "ETEL-P66"
+  }
+ ],
+ "ETEL_P69": [
+  {
+   "brand": "ETELPREMIUM",
+   "name": "ETEL_P69",
+   "model": "ETEL_P69"
   }
  ],
  "Etel_P64": [
@@ -212301,6 +212320,11 @@
    "model": "2607DPC18G"
   },
   {
+   "brand": "POCO",
+   "name": "POCO X8",
+   "model": "2607DPC18I"
+  },
+  {
    "brand": "Redmi",
    "name": "REDMI Note 17 Pro",
    "model": "2607DRA18C"
@@ -212309,6 +212333,11 @@
    "brand": "Redmi",
    "name": "REDMI Note 17 Pro 5G",
    "model": "2607DRA18G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro 5G",
+   "model": "2607DRA18I"
   },
   {
    "brand": "Redmi",
@@ -217896,6 +217925,13 @@
    "brand": "Plimpton",
    "name": "PlimPad_P60_Pro",
    "model": "PlimPad_P60_Pro"
+  }
+ ],
+ "iKids20_A16_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "iKids20_A16_JAE",
+   "model": "iKids20_A16_JAE"
   }
  ],
  "kids20A15_A537": [
@@ -312501,6 +312537,13 @@
    "model": "TAB-WP11"
   }
  ],
+ "Wynn_Pad_EEA": [
+  {
+   "brand": "WAWLYN",
+   "name": "Wynn_Pad_EEA",
+   "model": "Wynn_Pad_EEA"
+  }
+ ],
  "H1010_M50": [
   {
    "brand": "WCED",
@@ -337611,6 +337654,13 @@
    "model": "I24P01"
   }
  ],
+ "Penguin1Promini": [
+  {
+   "brand": "iMin",
+   "name": "Penguin 1 Pro mini",
+   "model": "I26K03"
+  }
+ ],
  "Penguin1mini": [
   {
    "brand": "iMin",
@@ -340885,6 +340935,18 @@
    "model": "RMX3461"
   }
  ],
+ "RE67EF": [
+  {
+   "brand": "realme",
+   "name": "realme C01",
+   "model": "RMX5399"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C100i",
+   "model": "RMX5399"
+  }
+ ],
  "RE646B": [
   {
    "brand": "realme",
@@ -340897,13 +340959,6 @@
    "brand": "realme",
    "name": "realme C100d",
    "model": "RMX5363"
-  }
- ],
- "RE67EF": [
-  {
-   "brand": "realme",
-   "name": "realme C100i",
-   "model": "RMX5399"
   }
  ],
  "RMX2195L1": [
