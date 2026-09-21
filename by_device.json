@@ -202614,6 +202614,18 @@
    "model": "PYE130"
   }
  ],
+ "OP623EL1": [
+  {
+   "brand": "Oppo",
+   "name": "A7 Pro 5G",
+   "model": "CPH2931"
+  },
+  {
+   "brand": "Oppo",
+   "name": "F35 5G",
+   "model": "CPH2931"
+  }
+ ],
  "OP4C72L1": [
   {
    "brand": "Oppo",
@@ -342847,6 +342859,13 @@
    "brand": "vivo",
    "name": "S60 元气版",
    "model": "V2572A"
+  }
+ ],
+ "PD2620": [
+  {
+   "brand": "vivo",
+   "name": "S60t",
+   "model": "V2620A"
   }
  ],
  "V2511": [

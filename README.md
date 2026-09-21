@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-20
+Last sync is 2026-09-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29535,6 +29535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7|PBFT00|PBFT00|
 |Oppo|A7 Pro 5G|OP620BL1|PYE110|
 |Oppo|A7 Pro 5G|OP620BL1|PYE130|
+|Oppo|A7 Pro 5G|OP623EL1|CPH2931|
 |Oppo|A72|OP4C72L1|CPH2067|
 |Oppo|A73|A73|OPPO A73|
 |Oppo|A73|A79|OPPO A73|
@@ -29688,6 +29689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F31 Pro+ 5G|OP5F15L1|CPH2757|
 |Oppo|F33 5G|OP5E1BL1|CPH2777|
 |Oppo|F33 Pro 5G|OP62CBL1|CPH2835|
+|Oppo|F35 5G|OP623EL1|CPH2931|
 |Oppo|F7|CPH1819|CPH1819|
 |Oppo|F7|CPH1821|CPH1821|
 |Oppo|F9|CPH1823|CPH1823|
@@ -53725,6 +53727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|S50t Series|PD2528|V2528A|
 |vivo|S60|PD2571|V2571A|
 |vivo|S60 元气版|PD2572|V2572A|
+|vivo|S60t|PD2620|V2620A|
 |vivo|T4 Pro|V2511|V2510|
 |vivo|T4 Ultra|V2504|V2504|
 |vivo|T5|V2543|V2583|

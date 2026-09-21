@@ -200806,6 +200806,11 @@
    "brand": "Oppo",
    "device": "OP620BL1",
    "model": "PYE130"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP623EL1",
+   "model": "CPH2931"
   }
  ],
  "A73t": [
@@ -201758,6 +201763,13 @@
    "brand": "Oppo",
    "device": "OP62CBL1",
    "model": "CPH2835"
+  }
+ ],
+ "F35 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP623EL1",
+   "model": "CPH2931"
   }
  ],
  "Find 5": [
@@ -343625,6 +343637,13 @@
    "brand": "vivo",
    "device": "PD2572",
    "model": "V2572A"
+  }
+ ],
+ "S60t": [
+  {
+   "brand": "vivo",
+   "device": "PD2620",
+   "model": "V2620A"
   }
  ],
  "T4 Pro": [

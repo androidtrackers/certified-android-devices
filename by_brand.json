@@ -152255,6 +152255,11 @@
    "model": "PYE130"
   },
   {
+   "device": "OP623EL1",
+   "name": "A7 Pro 5G",
+   "model": "CPH2931"
+  },
+  {
    "device": "OP4C72L1",
    "name": "A72",
    "model": "CPH2067"
@@ -153018,6 +153023,11 @@
    "device": "OP62CBL1",
    "name": "F33 Pro 5G",
    "model": "CPH2835"
+  },
+  {
+   "device": "OP623EL1",
+   "name": "F35 5G",
+   "model": "CPH2931"
   },
   {
    "device": "CPH1819",
@@ -276269,6 +276279,11 @@
    "device": "PD2572",
    "name": "S60 元气版",
    "model": "V2572A"
+  },
+  {
+   "device": "PD2620",
+   "name": "S60t",
+   "model": "V2620A"
   },
   {
    "device": "V2511",

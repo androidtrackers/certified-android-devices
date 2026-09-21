@@ -205071,6 +205071,18 @@
    "device": "OP620BL1"
   }
  ],
+ "CPH2931": [
+  {
+   "brand": "Oppo",
+   "name": "A7 Pro 5G",
+   "device": "OP623EL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "F35 5G",
+   "device": "OP623EL1"
+  }
+ ],
  "CPH2067": [
   {
    "brand": "Oppo",
@@ -357292,6 +357304,13 @@
    "brand": "vivo",
    "name": "S60 元气版",
    "device": "PD2572"
+  }
+ ],
+ "V2620A": [
+  {
+   "brand": "vivo",
+   "name": "S60t",
+   "device": "PD2620"
   }
  ],
  "V2510": [
