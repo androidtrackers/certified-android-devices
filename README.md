@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-21
+Last sync is 2026-09-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11870,6 +11870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|GS5 Senior|GS5_Senior|E940-2878-03S|
 |Gigaset|GS6|GS6|E940-3042-00|
 |Gigaset|GS6 PRO|GS6_Venus|E940-3043-00|
+|Gigaset|GS6 PRO|GS6_Venus|EE940-3043-00|
 |Gigaset|GS6_PRO|GS6_PRO|E940-2940-00|
 |Gigaset|GS80|GS80|GS80|
 |Gigaset|GTX50|GTX50|E940-3060-00|
@@ -15076,6 +15077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|RT10A|TA60A-L1-C|RT10A|
 |Honeywell|RT10A|TA60A-L1-C|TA60A|
 |Honeywell|RT60A|TA60A-L1-C|TA60A|
+|Honeywell|RT710|RT710|RT710|
 |Honeywell|Thor VM1A|VM1A-L0-N|VM1A|
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
@@ -23235,6 +23237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A8|AK57|L10041|
 |Lenovo|Lenovo A8|AK57|Lenovo L10041|
 |Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336FU|TB336FU|
+|Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336ZA|TB336ZA|
 |Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336ZU|TB336ZU|
 |Lenovo|Lenovo Idea Tab Plus / Lenovo Tab K12|TB361FU|TB361FU|
 |Lenovo|Lenovo Idea Tab Pro|TB373FU|TB373FU|
@@ -25165,6 +25168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP10KID|M-SP10KID|SmartKid10|
 |Mediacom|M-SP10MXHA|SmartPad|M-SP10MXHA|
 |Mediacom|M-SP10MXHL|M-SP10MXHL|M-SP10MXHL|
+|Mediacom|M-SP11AZ48|M-SP11AZ48|AZIMUT_4_LITE|
 |Mediacom|M-SP11AZ48|M-SP11AZ48|Azimut_4_lite|
 |Mediacom|M-SP1AGO3G|M-SP1AGO3G|M-SP1AGO3G|
 |Mediacom|M-SP1AZ2TW_EEA|M-SP1AZ2TW|Azimut2|
@@ -31663,6 +31667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K UHD Razor Slim LED TV powered by Android™|QV151E|QV151E|
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
 |Philips|65BDL4152E|65BDL4152E|BDL4152E|
+|Philips|7231 series|piraeus|Philips Google TV TC1|
 |Philips|Android 2014|philipstv|AND1E|
 |Philips|BDL4252E|rk3576_u|BDL4252E|
 |Philips|E1027|E1027|E1027|
@@ -41910,7 +41915,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|AT&T amiGO™ Jr. Tab 2|Selene_ATT|8189K|
 |TCL|Alcatel 1|Macau|5033E|
 |TCL|Alcatel 1B|Seoul|5002W|
-|TCL|Alcatel A31 Pro|DahliaMax|T451A|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|

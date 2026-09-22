@@ -97512,6 +97512,11 @@
    "brand": "Gigaset",
    "name": "GS6 PRO",
    "model": "E940-3043-00"
+  },
+  {
+   "brand": "Gigaset",
+   "name": "GS6 PRO",
+   "model": "EE940-3043-00"
   }
  ],
  "GS6_PRO": [
@@ -116527,6 +116532,13 @@
    "brand": "Honeywell",
    "name": "RT60A",
    "model": "TA60A"
+  }
+ ],
+ "RT710": [
+  {
+   "brand": "Honeywell",
+   "name": "RT710",
+   "model": "RT710"
   }
  ],
  "VM1A-L0-N": [
@@ -164333,6 +164345,13 @@
    "model": "TB336FU"
   }
  ],
+ "TB336ZA": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
+   "model": "TB336ZA"
+  }
+ ],
  "TB336ZU": [
   {
    "brand": "Lenovo",
@@ -176342,6 +176361,11 @@
   }
  ],
  "M-SP11AZ48": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP11AZ48",
+   "model": "AZIMUT_4_LITE"
+  },
   {
    "brand": "Mediacom",
    "name": "M-SP11AZ48",
@@ -215897,6 +215921,13 @@
    "brand": "Philips",
    "name": "65BDL4152E",
    "model": "BDL4152E"
+  }
+ ],
+ "piraeus": [
+  {
+   "brand": "Philips",
+   "name": "7231 series",
+   "model": "Philips Google TV TC1"
   }
  ],
  "philipstv": [
@@ -276291,23 +276322,6 @@
    "model": "Smart_P11"
   }
  ],
- "DahliaMax": [
-  {
-   "brand": "TCL",
-   "name": "Alcatel A31 Pro",
-   "model": "T451A"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel A31 Prime",
-   "model": "T451A"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel A31 Pro",
-   "model": "T451A"
-  }
- ],
  "BeyondTV": [
   {
    "brand": "TCL",
@@ -283214,6 +283228,18 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel A11 SE",
    "model": "T452Q"
+  }
+ ],
+ "DahliaMax": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel A31 Prime",
+   "model": "T451A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel A31 Pro",
+   "model": "T451A"
   }
  ],
  "A01": [

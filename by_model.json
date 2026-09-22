@@ -91400,6 +91400,13 @@
    "device": "GS6_Venus"
   }
  ],
+ "EE940-3043-00": [
+  {
+   "brand": "Gigaset",
+   "name": "GS6 PRO",
+   "device": "GS6_Venus"
+  }
+ ],
  "E940-2940-00": [
   {
    "brand": "Gigaset",
@@ -112574,6 +112581,13 @@
    "brand": "Honeywell",
    "name": "RT60A",
    "device": "TA60A-L1-C"
+  }
+ ],
+ "RT710": [
+  {
+   "brand": "Honeywell",
+   "name": "RT710",
+   "device": "RT710"
   }
  ],
  "VM1A": [
@@ -165337,6 +165351,13 @@
    "device": "TB336FU"
   }
  ],
+ "TB336ZA": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
+   "device": "TB336ZA"
+  }
+ ],
  "TB336ZU": [
   {
    "brand": "Lenovo",
@@ -177686,6 +177707,18 @@
    "device": "M-SP10MXHL"
   }
  ],
+ "AZIMUT_4_LITE": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP11AZ48",
+   "device": "M-SP11AZ48"
+  },
+  {
+   "brand": "Mediacom",
+   "name": "SP1AZ4_L",
+   "device": "SP1AZ4_L"
+  }
+ ],
  "Azimut_4_lite": [
   {
    "brand": "Mediacom",
@@ -177803,13 +177836,6 @@
    "brand": "Mediacom",
    "name": "M-SP8MXA",
    "device": "SP8MXA"
-  }
- ],
- "AZIMUT_4_LITE": [
-  {
-   "brand": "Mediacom",
-   "name": "SP1AZ4_L",
-   "device": "SP1AZ4_L"
   }
  ],
  "E109GC": [
@@ -218314,6 +218340,13 @@
    "brand": "Philips",
    "name": "65BDL4152E",
    "device": "65BDL4152E"
+  }
+ ],
+ "Philips Google TV TC1": [
+  {
+   "brand": "Philips",
+   "name": "7231 series",
+   "device": "piraeus"
   }
  ],
  "AND1E": [
@@ -283495,33 +283528,6 @@
    "device": "Seoul"
   }
  ],
- "T451A": [
-  {
-   "brand": "TCL",
-   "name": "Alcatel A31 Pro",
-   "device": "DahliaMax"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3",
-   "device": "DahliaPro"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel A31 Prime",
-   "device": "DahliaMax"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel A31 Pro",
-   "device": "DahliaMax"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel A33",
-   "device": "DahliaPro"
-  }
- ],
  "BeyondTV": [
   {
    "brand": "TCL",
@@ -291366,6 +291372,28 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3",
    "device": "A3A"
+  }
+ ],
+ "T451A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3",
+   "device": "DahliaPro"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel A31 Prime",
+   "device": "DahliaMax"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel A31 Pro",
+   "device": "DahliaMax"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel A33",
+   "device": "DahliaPro"
   }
  ],
  "Orange Dive 73": [

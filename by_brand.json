@@ -61736,6 +61736,11 @@
    "model": "E940-3043-00"
   },
   {
+   "device": "GS6_Venus",
+   "name": "GS6 PRO",
+   "model": "EE940-3043-00"
+  },
+  {
    "device": "GS6_PRO",
    "name": "GS6_PRO",
    "model": "E940-2940-00"
@@ -78116,6 +78121,11 @@
    "device": "TA60A-L1-C",
    "name": "RT60A",
    "model": "TA60A"
+  },
+  {
+   "device": "RT710",
+   "name": "RT710",
+   "model": "RT710"
   },
   {
    "device": "VM1A-L0-N",
@@ -119737,6 +119747,11 @@
    "model": "TB336FU"
   },
   {
+   "device": "TB336ZA",
+   "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
+   "model": "TB336ZA"
+  },
+  {
    "device": "TB336ZU",
    "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
    "model": "TB336ZU"
@@ -129731,6 +129746,11 @@
    "device": "M-SP10MXHL",
    "name": "M-SP10MXHL",
    "model": "M-SP10MXHL"
+  },
+  {
+   "device": "M-SP11AZ48",
+   "name": "M-SP11AZ48",
+   "model": "AZIMUT_4_LITE"
   },
   {
    "device": "M-SP11AZ48",
@@ -163103,6 +163123,11 @@
    "device": "65BDL4152E",
    "name": "65BDL4152E",
    "model": "BDL4152E"
+  },
+  {
+   "device": "piraeus",
+   "name": "7231 series",
+   "model": "Philips Google TV TC1"
   },
   {
    "device": "philipstv",
@@ -215458,11 +215483,6 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002W"
-  },
-  {
-   "device": "DahliaMax",
-   "name": "Alcatel A31 Pro",
-   "model": "T451A"
   },
   {
    "device": "BeyondTV",
