@@ -30571,13 +30571,6 @@
    "model": "COSMIQ_GLIDE_SERIES"
   }
  ],
- "COSMOTE TV": [
-  {
-   "device": "HY44G",
-   "name": "TV Box",
-   "model": "TV Box"
-  }
- ],
  "COSTEL": [
   {
    "device": "M16",
@@ -39867,6 +39860,11 @@
    "device": "DEVOPS_IFPD",
    "name": "DEVOPS",
    "model": "DEVOPS_MT9679"
+  },
+  {
+   "device": "DEVOPS_RK3576",
+   "name": "DEVOPS-RK3576",
+   "model": "DEVOPS_RK3576"
   }
  ],
  "DEWSOD": [
@@ -64711,6 +64709,11 @@
   {
    "device": "M8781A",
    "name": "M8781A",
+   "model": "M8781A"
+  },
+  {
+   "device": "M8781A",
+   "name": "M8781A_EU",
    "model": "M8781A"
   }
  ],
@@ -127271,6 +127274,11 @@
    "model": "MagentaTV One (3. Generation)"
   },
   {
+   "device": "HY44G",
+   "name": "TV Box",
+   "model": "TV Box"
+  },
+  {
    "device": "HP4AC-PL",
    "name": "TV Box (2.Gen)",
    "model": "TV Box (2.Gen)"
@@ -139186,6 +139194,16 @@
    "model": "XT2575-3"
   },
   {
+   "device": "XT2673-1",
+   "name": "moto pad 70",
+   "model": "XT2673-1"
+  },
+  {
+   "device": "XT2673-2",
+   "name": "moto pad 70",
+   "model": "XT2673-2"
+  },
+  {
    "device": "XT2675-1",
    "name": "moto pad 70 groove",
    "model": "XT2675-1"
@@ -148892,6 +148910,11 @@
    "device": "elliniko",
    "name": "ONVO",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "elliniko",
+   "name": "ONVO",
+   "model": "Onvo Smart TV"
   },
   {
    "device": "dongnae",
@@ -226456,6 +226479,11 @@
    "device": "IIP",
    "name": "Teachmint_X",
    "model": "Teachmint_X"
+  },
+  {
+   "device": "Teachmint_XC",
+   "name": "Teachmint_XC",
+   "model": "Teachmint_XC"
   }
  ],
  "Tech 4u": [
@@ -247517,6 +247545,11 @@
    "model": "Volvo"
   },
   {
+   "device": "moose_uxc10",
+   "name": "Volvo",
+   "model": "moose on uxc10"
+  },
+  {
    "device": "ihu_emulator",
    "name": "Volvo XC40 Emulator",
    "model": "Volvo XC40"
@@ -256874,6 +256907,11 @@
    "device": "ZP210P",
    "name": "Z-PAD_PRO",
    "model": "Z-PAD PRO ZP210P"
+  },
+  {
+   "device": "ZP105-SE",
+   "name": "Z-PAD_SE",
+   "model": "Z-PAD SE ZP105-SE"
   },
   {
    "device": "ZP210U",
@@ -271548,6 +271586,11 @@
    "model": "I26K02"
   },
   {
+   "device": "Penguin1Pro",
+   "name": "Penguin1Pro",
+   "model": "I26K04"
+  },
+  {
    "device": "Roc1",
    "name": "Roc 1",
    "model": "I25M01"
@@ -273087,6 +273130,13 @@
    "device": "Agate",
    "name": "myAvro A1",
    "model": "A1"
+  }
+ ],
+ "myBoard": [
+  {
+   "device": "myBoard_Horizon",
+   "name": "myBoard_Horizon",
+   "model": "myBoard_Horizon"
   }
  ],
  "mytel": [
@@ -276584,6 +276634,31 @@
    "device": "PD2548",
    "name": "X300s",
    "model": "V2548A"
+  },
+  {
+   "device": "PD2609",
+   "name": "X500",
+   "model": "V2609A"
+  },
+  {
+   "device": "PD2608",
+   "name": "X500 Pro",
+   "model": "V2608A"
+  },
+  {
+   "device": "PD2608",
+   "name": "X500 Pro",
+   "model": "V2608DA"
+  },
+  {
+   "device": "PD2602",
+   "name": "X500 Pro Max",
+   "model": "V2602A"
+  },
+  {
+   "device": "PD2602",
+   "name": "X500 Pro Max 卫星通信版",
+   "model": "V2602DA"
   },
   {
    "device": "V2430",

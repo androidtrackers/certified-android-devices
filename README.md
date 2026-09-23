@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-22
+Last sync is 2026-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5905,7 +5905,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORNEA|IS_IFPSeries_65|IS_Panel|IS_IFPSeries|
 |COSMIQ|COSMIQ IFP Series|COSMIQ_IFP_Series|COSMIQ_IFP_Series|
 |COSMIQ|GLIDE_SERIES|COSMIQ_GLIDE_SERIES|COSMIQ_GLIDE_SERIES|
-|COSMOTE TV|TV Box|HY44G|TV Box|
 |COSTEL|M16|M16|M16|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
 |CRAIG|CMP846|CMP846|CMP846|
@@ -7697,6 +7696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEPLAY|SMART5PLUS_B|SMART5PLUS_B|DEPLAY_SMART5PLUS|
 |DEPLAY|SMART5PLUS_P|SMART5PLUS_P|DEPLAY_SMART5PLUS|
 |DEVOPS|DEVOPS|DEVOPS_IFPD|DEVOPS_MT9679|
+|DEVOPS|DEVOPS-RK3576|DEVOPS_RK3576|DEVOPS_RK3576|
 |DEWSOD|C9|C9|C9|
 |DEXP|A.350|A350|A350|
 |DEXP|A150|A150|A150|
@@ -12446,6 +12446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |H133|Betacrux|Betacrux|Betacrux|
 |H3Cmagic|M8781|M8781|M8781|
 |H3Cmagic|M8781A|M8781A|M8781A|
+|H3Cmagic|M8781A_EU|M8781A|M8781A|
 |H819E|MINTAKA|MINTAKA|MINTAKA|
 |HAAM|HAAM TV 4K|eleonas|HAAM TV 4K|
 |HAAM|HAAM TV 4K FF|eleonas|HAAM TV 4K FF|
@@ -24689,6 +24690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|One (2. Generation)|SEI804DT|MagentaTV One (2. Generation)|
 |MagentaTV|One (3. Generation)|HP4AC-DT|MagentaTV One (3. Generation)|
+|MagentaTV|TV Box|HY44G|TV Box|
 |MagentaTV|TV Box (2.Gen)|HP4AC-PL|TV Box (2.Gen)|
 |Magnavox|MMP848|MMP848|MMP848|
 |Magnavox|Magnavox Google TV|dongnae|Magnavox Google TV|
@@ -27022,6 +27024,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto pad 60 neo|XT2575-1|XT2575-1|
 |Motorola|moto pad 60 neo|XT2575-3|XT2575-3|
+|Motorola|moto pad 70|XT2673-1|XT2673-1|
+|Motorola|moto pad 70|XT2673-2|XT2673-2|
 |Motorola|moto pad 70 groove|XT2675-1|XT2675-1|
 |Motorola|moto pad – 2026|XT2575-4|XT2575-4|
 |Motorola|moto razr 40|lynkco|XT2323-3|
@@ -28884,6 +28888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONPAD|Vexon|Vexon|Vexon|
 |ONVO|EMEA|sepolia|ONVO TV|
 |ONVO|ONVO|elliniko|4K SMART TV|
+|ONVO|ONVO|elliniko|Onvo Smart TV|
 |ONVO|ONVO TV|dongnae|ONVO TV|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|BOOX|BOOX|BOOX|
@@ -44066,6 +44071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tbltaca|Y108|Y108|Y108|
 |TeachmintX|Teachmint_X_PRO|75W82B|TeachmintX_75_Pro|
 |Teachmint_X|Teachmint_X|IIP|Teachmint_X|
+|Teachmint_X|Teachmint_XC|Teachmint_XC|Teachmint_XC|
 |Tech 4u|Aqua|Aqua|Aqua|
 |Tech 4u|Earth|Earth|Earth|
 |Tech 4u|Fire|Fire|Fire|
@@ -48153,6 +48159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Volvo|Volvo|ihu42|Volvo|
 |Volvo|Volvo|ihu_abl_car|Volvo|
 |Volvo|Volvo|moose|Volvo|
+|Volvo|Volvo|moose_uxc10|moose on uxc10|
 |Volvo|Volvo XC40 Emulator|ihu_emulator|Volvo XC40|
 |Vonino|Druid_L10|Druid_L10|Druid_L10|
 |Vonino|Epic E8|Epic_E8|Epic E8|
@@ -49948,6 +49955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZDK(SZ)|ZDKMP-T30A_ROW|ZDKMP-T30A|ZDKMP-T30A|
 |ZDK(SZ)|ZDKMP-T30B_ROW|ZDKMP-T30B|ZDKMP-T30B|
 |ZEED|Z-PAD_PRO|ZP210P|Z-PAD PRO ZP210P|
+|ZEED|Z-PAD_SE|ZP105-SE|Z-PAD SE ZP105-SE|
 |ZEED|Z-PAD_ULTRA|ZP210U|Z-PAD ULTRA ZP210U|
 |ZEED|ZEED Z-ONE|Z210|Z210|
 |ZEED|ZEED_ZSLIM5G_TR|Z520|Z520|
@@ -52824,6 +52832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Penguin 1 Pro mini|Penguin1Promini|I26K03|
 |iMin|Penguin 1 mini|Penguin1mini|I26K01|
 |iMin|Penguin1|Penguin1|I26K02|
+|iMin|Penguin1Pro|Penguin1Pro|I26K04|
 |iMin|Roc 1|Roc1|I25M01|
 |iMin|Roc 1 Max|Roc1Max|I25M02|
 |iMin|Swan 1 Pro|Swan1Pro|I23D02|
@@ -53111,6 +53120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |mirarel|16MBTW+|ksr|mirarel JTB Google TV|
 |moderness.online|TK807|TK807|TK807|
 |myAvro|myAvro A1|Agate|A1|
+|myBoard|myBoard_Horizon|myBoard_Horizon|myBoard_Horizon|
 |mytel|M9501|M9501|M9501|
 |mytel|M9502|M9502|M9502|
 |mytel|M9503|M9503|M9503|
@@ -53788,6 +53798,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X300 Ultra|V2562|V2562|
 |vivo|X300 Ultra 卫星通信版|PD2547|V2547DA|
 |vivo|X300s|PD2548|V2548A|
+|vivo|X500|PD2609|V2609A|
+|vivo|X500 Pro|PD2608|V2608A|
+|vivo|X500 Pro|PD2608|V2608DA|
+|vivo|X500 Pro Max|PD2602|V2602A|
+|vivo|X500 Pro Max 卫星通信版|PD2602|V2602DA|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y05|V2556|V2556|
 |vivo|Y05|V2556|V2565|

@@ -30435,11 +30435,6 @@
    "device": "SEID00ORS"
   },
   {
-   "brand": "COSMOTE TV",
-   "name": "TV Box",
-   "device": "HY44G"
-  },
-  {
    "brand": "Magenta TV",
    "name": "TV Box",
    "device": "HY44G"
@@ -30447,6 +30442,11 @@
   {
    "brand": "Magenta TV",
    "name": "TV box",
+   "device": "HY44G"
+  },
+  {
+   "brand": "MagentaTV",
+   "name": "TV Box",
    "device": "HY44G"
   },
   {
@@ -62744,6 +62744,13 @@
    "brand": "DEVOPS",
    "name": "DEVOPS",
    "device": "DEVOPS_IFPD"
+  }
+ ],
+ "DEVOPS_RK3576": [
+  {
+   "brand": "DEVOPS",
+   "name": "DEVOPS-RK3576",
+   "device": "DEVOPS_RK3576"
   }
  ],
  "A350": [
@@ -95507,6 +95514,11 @@
   {
    "brand": "H3Cmagic",
    "name": "M8781A",
+   "device": "M8781A"
+  },
+  {
+   "brand": "H3Cmagic",
+   "name": "M8781A_EU",
    "device": "M8781A"
   }
  ],
@@ -189654,6 +189666,20 @@
    "device": "XT2575-3"
   }
  ],
+ "XT2673-1": [
+  {
+   "brand": "Motorola",
+   "name": "moto pad 70",
+   "device": "XT2673-1"
+  }
+ ],
+ "XT2673-2": [
+  {
+   "brand": "Motorola",
+   "name": "moto pad 70",
+   "device": "XT2673-2"
+  }
+ ],
  "XT2675-1": [
   {
    "brand": "Motorola",
@@ -200958,6 +200984,13 @@
    "brand": "ONVO",
    "name": "ONVO TV",
    "device": "dongnae"
+  }
+ ],
+ "Onvo Smart TV": [
+  {
+   "brand": "ONVO",
+   "name": "ONVO",
+   "device": "elliniko"
   }
  ],
  "Model A": [
@@ -297572,6 +297605,13 @@
    "device": "IIP"
   }
  ],
+ "Teachmint_XC": [
+  {
+   "brand": "Teachmint_X",
+   "name": "Teachmint_XC",
+   "device": "Teachmint_XC"
+  }
+ ],
  "Force": [
   {
    "brand": "Tech 4u",
@@ -322858,6 +322898,13 @@
    "device": "moose"
   }
  ],
+ "moose on uxc10": [
+  {
+   "brand": "Volvo",
+   "name": "Volvo",
+   "device": "moose_uxc10"
+  }
+ ],
  "Volvo XC40": [
   {
    "brand": "Volvo",
@@ -333787,6 +333834,13 @@
    "brand": "ZEED",
    "name": "Z-PAD_PRO",
    "device": "ZP210P"
+  }
+ ],
+ "Z-PAD SE ZP105-SE": [
+  {
+   "brand": "ZEED",
+   "name": "Z-PAD_SE",
+   "device": "ZP105-SE"
   }
  ],
  "Z-PAD ULTRA ZP210U": [
@@ -352077,6 +352131,13 @@
    "device": "Penguin1"
   }
  ],
+ "I26K04": [
+  {
+   "brand": "iMin",
+   "name": "Penguin1Pro",
+   "device": "Penguin1Pro"
+  }
+ ],
  "I25M01": [
   {
    "brand": "iMin",
@@ -353700,6 +353761,13 @@
    "brand": "moderness.online",
    "name": "TK807",
    "device": "TK807"
+  }
+ ],
+ "myBoard_Horizon": [
+  {
+   "brand": "myBoard",
+   "name": "myBoard_Horizon",
+   "device": "myBoard_Horizon"
   }
  ],
  "M9501": [
@@ -357735,6 +357803,41 @@
    "brand": "vivo",
    "name": "X300s",
    "device": "PD2548"
+  }
+ ],
+ "V2609A": [
+  {
+   "brand": "vivo",
+   "name": "X500",
+   "device": "PD2609"
+  }
+ ],
+ "V2608A": [
+  {
+   "brand": "vivo",
+   "name": "X500 Pro",
+   "device": "PD2608"
+  }
+ ],
+ "V2608DA": [
+  {
+   "brand": "vivo",
+   "name": "X500 Pro",
+   "device": "PD2608"
+  }
+ ],
+ "V2602A": [
+  {
+   "brand": "vivo",
+   "name": "X500 Pro Max",
+   "device": "PD2602"
+  }
+ ],
+ "V2602DA": [
+  {
+   "brand": "vivo",
+   "name": "X500 Pro Max 卫星通信版",
+   "device": "PD2602"
   }
  ],
  "V2532": [

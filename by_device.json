@@ -3641,6 +3641,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "ONVO",
+   "name": "ONVO",
+   "model": "Onvo Smart TV"
+  },
+  {
    "brand": "ORION",
    "name": "ORION",
    "model": "ORION SMART TV"
@@ -56629,48 +56634,6 @@
    "model": "COSMIQ_GLIDE_SERIES"
   }
  ],
- "HY44G": [
-  {
-   "brand": "COSMOTE TV",
-   "name": "TV Box",
-   "model": "TV Box"
-  },
-  {
-   "brand": "Iskon",
-   "name": "Iskon.Play TV",
-   "model": "Iskon.Play TV"
-  },
-  {
-   "brand": "Magenta TV",
-   "name": "MagentaTV ONE",
-   "model": "MagentaTV ONE"
-  },
-  {
-   "brand": "Magenta TV",
-   "name": "TV Box",
-   "model": "TV Box"
-  },
-  {
-   "brand": "Magenta TV",
-   "name": "TV box",
-   "model": "TV Box"
-  },
-  {
-   "brand": "MagentaTV",
-   "name": "MagentaTV ONE",
-   "model": "MagentaTV ONE"
-  },
-  {
-   "brand": "MauritiusTelcom",
-   "name": "HP4411",
-   "model": "HP4411"
-  },
-  {
-   "brand": "T-Mobile-CZ-Telekom-SK",
-   "name": "TV Box HY4403",
-   "model": "TV Box"
-  }
- ],
  "M16": [
   {
    "brand": "COSTEL",
@@ -69662,6 +69625,13 @@
    "brand": "DEVOPS",
    "name": "DEVOPS",
    "model": "DEVOPS_MT9679"
+  }
+ ],
+ "DEVOPS_RK3576": [
+  {
+   "brand": "DEVOPS",
+   "name": "DEVOPS-RK3576",
+   "model": "DEVOPS_RK3576"
   }
  ],
  "C9": [
@@ -101350,6 +101320,11 @@
   {
    "brand": "H3Cmagic",
    "name": "M8781A",
+   "model": "M8781A"
+  },
+  {
+   "brand": "H3Cmagic",
+   "name": "M8781A_EU",
    "model": "M8781A"
   }
  ],
@@ -137837,6 +137812,48 @@
    "brand": "Isafe",
    "name": "IS940",
    "model": "IS940"
+  }
+ ],
+ "HY44G": [
+  {
+   "brand": "Iskon",
+   "name": "Iskon.Play TV",
+   "model": "Iskon.Play TV"
+  },
+  {
+   "brand": "Magenta TV",
+   "name": "MagentaTV ONE",
+   "model": "MagentaTV ONE"
+  },
+  {
+   "brand": "Magenta TV",
+   "name": "TV Box",
+   "model": "TV Box"
+  },
+  {
+   "brand": "Magenta TV",
+   "name": "TV box",
+   "model": "TV Box"
+  },
+  {
+   "brand": "MagentaTV",
+   "name": "MagentaTV ONE",
+   "model": "MagentaTV ONE"
+  },
+  {
+   "brand": "MagentaTV",
+   "name": "TV Box",
+   "model": "TV Box"
+  },
+  {
+   "brand": "MauritiusTelcom",
+   "name": "HP4411",
+   "model": "HP4411"
+  },
+  {
+   "brand": "T-Mobile-CZ-Telekom-SK",
+   "name": "TV Box HY4403",
+   "model": "TV Box"
   }
  ],
  "wh220_iskon": [
@@ -187786,6 +187803,20 @@
    "brand": "Motorola",
    "name": "moto pad 60 neo",
    "model": "XT2575-3"
+  }
+ ],
+ "XT2673-1": [
+  {
+   "brand": "Motorola",
+   "name": "moto pad 70",
+   "model": "XT2673-1"
+  }
+ ],
+ "XT2673-2": [
+  {
+   "brand": "Motorola",
+   "name": "moto pad 70",
+   "model": "XT2673-2"
   }
  ],
  "XT2675-1": [
@@ -287243,6 +287274,13 @@
    "model": "Teachmint_X"
   }
  ],
+ "Teachmint_XC": [
+  {
+   "brand": "Teachmint_X",
+   "name": "Teachmint_XC",
+   "model": "Teachmint_XC"
+  }
+ ],
  "t592_otd_tech_4u_we": [
   {
    "brand": "Tech 4u",
@@ -311298,6 +311336,13 @@
    "model": "EX30"
   }
  ],
+ "moose_uxc10": [
+  {
+   "brand": "Volvo",
+   "name": "Volvo",
+   "model": "moose on uxc10"
+  }
+ ],
  "Druid_L10": [
   {
    "brand": "Vonino",
@@ -321268,6 +321313,13 @@
    "brand": "ZEED",
    "name": "Z-PAD_PRO",
    "model": "Z-PAD PRO ZP210P"
+  }
+ ],
+ "ZP105-SE": [
+  {
+   "brand": "ZEED",
+   "name": "Z-PAD_SE",
+   "model": "Z-PAD SE ZP105-SE"
   }
  ],
  "ZP210U": [
@@ -337713,6 +337765,13 @@
    "model": "I26K02"
   }
  ],
+ "Penguin1Pro": [
+  {
+   "brand": "iMin",
+   "name": "Penguin1Pro",
+   "model": "I26K04"
+  }
+ ],
  "Roc1": [
   {
    "brand": "iMin",
@@ -339285,6 +339344,13 @@
    "brand": "myAvro",
    "name": "myAvro A1",
    "model": "A1"
+  }
+ ],
+ "myBoard_Horizon": [
+  {
+   "brand": "myBoard",
+   "name": "myBoard_Horizon",
+   "model": "myBoard_Horizon"
   }
  ],
  "M9501": [
@@ -343270,6 +343336,37 @@
    "brand": "vivo",
    "name": "X300s",
    "model": "V2548A"
+  }
+ ],
+ "PD2609": [
+  {
+   "brand": "vivo",
+   "name": "X500",
+   "model": "V2609A"
+  }
+ ],
+ "PD2608": [
+  {
+   "brand": "vivo",
+   "name": "X500 Pro",
+   "model": "V2608A"
+  },
+  {
+   "brand": "vivo",
+   "name": "X500 Pro",
+   "model": "V2608DA"
+  }
+ ],
+ "PD2602": [
+  {
+   "brand": "vivo",
+   "name": "X500 Pro Max",
+   "model": "V2602A"
+  },
+  {
+   "brand": "vivo",
+   "name": "X500 Pro Max 卫星通信版",
+   "model": "V2602DA"
   }
  ],
  "V2556": [
