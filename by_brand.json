@@ -2818,6 +2818,11 @@
    "model": "IT_801B"
   },
   {
+   "device": "IT_801BA9_EEA",
+   "name": "IT_801BA9_EEA",
+   "model": "IT-801B"
+  },
+  {
    "device": "IT_801CA2_EEA",
    "name": "IT_801CA2_EEA",
    "model": "IT_801C"
@@ -107072,6 +107077,11 @@
    "model": "C20ProSE"
   },
   {
+   "device": "K20Pro-G-00",
+   "name": "K20ProN00",
+   "model": "K20 Pro"
+  },
+  {
    "device": "M10SE",
    "name": "M10SE",
    "model": "M10SE"
@@ -181864,6 +181874,11 @@
    "device": "mensa_an64",
    "name": "IS-IFPSeries",
    "model": "IS-IFPSeries"
+  },
+  {
+   "device": "snl-ifp",
+   "name": "Interactive_Flat_Panel_SNL",
+   "model": "IS-IFSeries"
   }
  ],
  "STboard": [
@@ -200427,6 +200442,11 @@
    "device": "SAMSUNG_INTERACTIVE_DISPLAY",
    "name": "WAFX-P",
    "model": "WAFX-P"
+  },
+  {
+   "device": "SAMSUNG_INTERACTIVE_DISPLAY",
+   "name": "WAFX-PS",
+   "model": "WAFX-PS"
   },
   {
    "device": "ik1",
@@ -270768,6 +270788,11 @@
    "device": "i3",
    "name": "iData i3",
    "model": "iData i3"
+  },
+  {
+   "device": "iDataP5",
+   "name": "iDataP5",
+   "model": "iDataP5"
   },
   {
    "device": "iDataT2",

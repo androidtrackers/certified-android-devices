@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-23
+Last sync is 2026-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -524,6 +524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATMPC|IT_801B|IT_801B|IT_801B|
 |ATMPC|IT_801BA4|IT_801BA4|IT_801B|
 |ATMPC|IT_801BA4_EEA|IT_801BA4_EEA|IT_801B|
+|ATMPC|IT_801BA9_EEA|IT_801BA9_EEA|IT-801B|
 |ATMPC|IT_801CA2_EEA|IT_801CA2_EEA|IT_801C|
 |ATMPC|IT_801CA2_EEA|IT_801CA2_EEA|IT_801CA2_EEA|
 |ATOL|Smart.Slim Plus|t50p|Smart_Slim_Plus|
@@ -20736,6 +20737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LANDI|C20Pro|AN-LFC|C20Pro|
 |LANDI|C20ProN00|C20Pro-G-00|C20Pro|
 |LANDI|C20ProSE|AN-LFC|C20ProSE|
+|LANDI|K20ProN00|K20Pro-G-00|K20 Pro|
 |LANDI|M10SE|M10SE|M10SE|
 |LANDI|M20|M20|M20|
 |LANDI|M20SE|M20SE|M20SE|
@@ -35286,6 +35288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|cayenne|cayenne|STK Ace|
 |STUDYNLEARN|Education Market|mensa_an64|IS-IFP_Series_86|
 |STUDYNLEARN|IS-IFPSeries|mensa_an64|IS-IFPSeries|
+|STUDYNLEARN|Interactive_Flat_Panel_SNL|snl-ifp|IS-IFSeries|
 |STboard|HJ_M2|HJ_M2|HJ_M2|
 |STboard|HJ_TD|HJ_TD|HJ_TD|
 |SUAAT|G2_S_EEA|G2_EEA|G2_EEA|
@@ -38987,6 +38990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|W2017|veyronltectc|SM-W2017|
 |Samsung|WAF-S|SAMSUNG_INTERACTIVE_DISPLAY|WAF-S|
 |Samsung|WAFX-P|SAMSUNG_INTERACTIVE_DISPLAY|WAFX-P|
+|Samsung|WAFX-PS|SAMSUNG_INTERACTIVE_DISPLAY|WAFX-PS|
 |Samsung|olleh|ik1|SMT-E5015|
 |Samsung|三星 W21 5G|victory|SM-W2021|
 |Samsung|三星W20|zodiac|SM-W2020|
@@ -52674,6 +52678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iData|iData T5X|iDataT5X|iData T5|
 |iData|iData i2|i2|iData i2|
 |iData|iData i3|i3|iData i3|
+|iData|iDataP5|iDataP5|iDataP5|
 |iData|iDataT2|iDataT2|iDataT2|
 |iData|iDataW7|iDataW7|iDataW7|
 |iData|iData_50|iData_50|iData 50|

@@ -11716,6 +11716,13 @@
    "model": "IT_801B"
   }
  ],
+ "IT_801BA9_EEA": [
+  {
+   "brand": "ATMPC",
+   "name": "IT_801BA9_EEA",
+   "model": "IT-801B"
+  }
+ ],
  "IT_801CA2_EEA": [
   {
    "brand": "ATMPC",
@@ -148994,6 +149001,13 @@
    "model": "C20Pro"
   }
  ],
+ "K20Pro-G-00": [
+  {
+   "brand": "LANDI",
+   "name": "K20ProN00",
+   "model": "K20 Pro"
+  }
+ ],
  "M10SE": [
   {
    "brand": "LANDI",
@@ -236222,6 +236236,13 @@
    "model": "STK Ace"
   }
  ],
+ "snl-ifp": [
+  {
+   "brand": "STUDYNLEARN",
+   "name": "Interactive_Flat_Panel_SNL",
+   "model": "IS-IFSeries"
+  }
+ ],
  "HJ_M2": [
   {
    "brand": "STboard",
@@ -258416,6 +258437,11 @@
    "brand": "Samsung",
    "name": "WAFX-P",
    "model": "WAFX-P"
+  },
+  {
+   "brand": "Samsung",
+   "name": "WAFX-PS",
+   "model": "WAFX-PS"
   }
  ],
  "SGH-T839": [
@@ -336734,6 +336760,13 @@
    "brand": "iData",
    "name": "iData i3",
    "model": "iData i3"
+  }
+ ],
+ "iDataP5": [
+  {
+   "brand": "iData",
+   "name": "iDataP5",
+   "model": "iDataP5"
   }
  ],
  "iDataT2": [
