@@ -4401,6 +4401,11 @@
    "model": "Acer Chromebook R13 (CB5-312T)"
   },
   {
+   "device": "moonstone",
+   "name": "Acer Googlebook 14",
+   "model": "Acer Googlebook 14"
+  },
+  {
    "device": "acer_c01",
    "name": "Acer Holo360",
    "model": "C01"
@@ -13789,6 +13794,11 @@
    "model": "ASUS Chromebook Flip C302"
   },
   {
+   "device": "lapis",
+   "name": "ASUS Googlebook 14",
+   "model": "ASUS Googlebook 14"
+  },
+  {
    "device": "ASUS_Z00YD",
    "name": "ASUS Live (G500TG)",
    "model": "ASUS_Z00YD"
@@ -21078,9 +21088,24 @@
    "model": "BYD100F"
   },
   {
+   "device": "BYD300F_IVI_G",
+   "name": "BYD",
+   "model": "BYD300F_G"
+  },
+  {
+   "device": "BYD300F_IVI_G",
+   "name": "BYD",
+   "model": "BYD300F_G_P"
+  },
+  {
    "device": "BYD300F_VCP_IVI_G",
    "name": "BYD",
    "model": "BYD300F_VCP_G"
+  },
+  {
+   "device": "BYD300F_VCP_IVI_G",
+   "name": "BYD",
+   "model": "BYD300F_VCP_G_P"
   },
   {
    "device": "T10",
@@ -41993,6 +42018,11 @@
    "model": "DAE75P"
   },
   {
+   "device": "jialu",
+   "name": "THINK EBIKEGO PRIVATE LIMITED",
+   "model": "DAE65P"
+  },
+  {
    "device": "X7",
    "name": "X7",
    "model": "X7"
@@ -43168,6 +43198,11 @@
    "device": "yellowtail",
    "name": "Venue 8",
    "model": "Venue 8 HSPA+"
+  },
+  {
+   "device": "mica",
+   "name": "XPS Googlebook",
+   "model": "XPS Googlebook"
   }
  ],
  "Delm": [
@@ -61829,6 +61864,11 @@
    "model": "E940-3045-00"
   },
   {
+   "device": "Gigaset_GX50_EP",
+   "name": "Gigaset GX50 EP",
+   "model": "E940-3045-01"
+  },
+  {
    "device": "GX6",
    "name": "Gigaset GX6",
    "model": "E940-2849-00"
@@ -66229,6 +66269,11 @@
    "device": "dongnae",
    "name": "HP GOOGLE TV",
    "model": "HP GOOGLE TV"
+  },
+  {
+   "device": "quartz",
+   "name": "HP Googlebook 14",
+   "model": "HP Googlebook 14"
   },
   {
    "device": "dongnae",
@@ -119755,6 +119800,11 @@
    "model": "Lenovo L10041"
   },
   {
+   "device": "ruby",
+   "name": "Lenovo Googlebook 15",
+   "model": "Lenovo Googlebook 15"
+  },
+  {
    "device": "TB336FU",
    "name": "Lenovo Idea Tab / Lenovo Tab K11 Gen 2",
    "model": "TB336FU"
@@ -139944,6 +139994,11 @@
    "model": "motorola razr 60 ultra"
   },
   {
+   "device": "leap",
+   "name": "motorola razr 60 ultra",
+   "model": "motorola razr ultra 2025"
+  },
+  {
    "device": "M-51F",
    "name": "motorola razr 60d M-51F",
    "model": "M-51E"
@@ -150918,11 +150973,6 @@
    "model": "PLU110"
   },
   {
-   "device": "OP64D3L1",
-   "name": "OnePlus Turbo 6V",
-   "model": "PLY110"
-  },
-  {
    "device": "OPWWE231",
    "name": "OnePlus Watch 2",
    "model": "OPWWE231"
@@ -151011,6 +151061,11 @@
    "device": "OP5927",
    "name": "PHP110",
    "model": "PHP110"
+  },
+  {
+   "device": "OP64D3L1",
+   "name": "PLY110",
+   "model": "PLY110"
   },
   {
    "device": "OP68F7L1",
@@ -201474,6 +201529,11 @@
   }
  ],
  "Seuic": [
+  {
+   "device": "d527p",
+   "name": "AUTOID PAD Air-5G-P",
+   "model": "AUTOID PAD Air-5G-P"
+  },
   {
    "device": "d520",
    "name": "AUTOID Pad Air",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-24
+Last sync is 2026-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -825,6 +825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Acerpure|Acerone_Liquid|Acerone Liquid S272E4|
 |Acer|Acer Chromebook 11 (C740)|paine_cheets|Acer Chromebook 11 (C740)|
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
+|Acer|Acer Googlebook 14|moonstone|Acer Googlebook 14|
 |Acer|Acer Holo360|acer_c01|C01|
 |Acer|Acer Iconia T10-21M|Acer_Iconia_T10-21M|Acer_Iconia_T10-21M|
 |Acer|Acer Iconia Tab iM10-22|AITiM10-22|Acer Iconia Tab iM10-22|
@@ -2653,6 +2654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus||a10|Garmin-Asus A10|
 |Asus||ventana|Transformer TF101|
 |Asus|ASUS Chromebook Flip C302|cave_cheets|ASUS Chromebook Flip C302|
+|Asus|ASUS Googlebook 14|lapis|ASUS Googlebook 14|
 |Asus|ASUS Live (G500TG)|ASUS_Z00YD|ASUS_Z00YD|
 |Asus|ASUS Pad|T3201M5A|ASUS Pad T3201M5A|
 |Asus|ASUSPRO Tablet (M1000C)|P023_M|P023|
@@ -4072,7 +4074,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BWJBSW|QZ1095W_EEA|QZ1095W_EEA|QZ1095W_EEA|
 |BXLIYER|BX_D04|Tablet_player|BX_D04|
 |BYD|BYD|BYD100F|BYD100F|
+|BYD|BYD|BYD300F_IVI_G|BYD300F_G|
+|BYD|BYD|BYD300F_IVI_G|BYD300F_G_P|
 |BYD|BYD|BYD300F_VCP_IVI_G|BYD300F_VCP_G|
+|BYD|BYD|BYD300F_VCP_IVI_G|BYD300F_VCP_G_P|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
 |BYD|INHON G3|G3|G3|
@@ -8105,6 +8110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daewoo|Smart TV|mateo|DAEWOO 2K SA Smart TV|
 |Daewoo|Smart TV|osaka|AI PONT SA|
 |Daewoo|THINK EBIKEGO PRIVATE LIMITED|chester|DAE75P|
+|Daewoo|THINK EBIKEGO PRIVATE LIMITED|jialu|DAE65P|
 |Daewoo|X7|X7|X7|
 |Daewoo|X9|X9|X9|
 |Dafeng Media Group|D1|DADA_1319D|DADA1319D|
@@ -8330,6 +8336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dell|Venue 8|Venue8|Venue8 3840 LTE|
 |Dell|Venue 8|yellowtail|Venue 8 3830|
 |Dell|Venue 8|yellowtail|Venue 8 HSPA+|
+|Dell|XPS Googlebook|mica|XPS Googlebook|
 |Delm|D1018|D1018|D1018|
 |Delm|D718|D718|D718|
 |Delta|TH_series|rk3576_u|TH_series|
@@ -11889,6 +11896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|Gigaset GX4|GX4|E940-2797-00|
 |Gigaset|Gigaset GX4 PRO|GX4_PRO|E940-2797-01|
 |Gigaset|Gigaset GX50|Gigaset_GX50|E940-3045-00|
+|Gigaset|Gigaset GX50 EP|Gigaset_GX50_EP|E940-3045-01|
 |Gigaset|Gigaset GX6|GX6|E940-2849-00|
 |Gigaset|Gigaset GX6 PRO|GX6_PRO|E940-2849-01|
 |Gigaset|Gigaset Maxwell 10|maxwell_10|Maxwell-10|
@@ -12729,6 +12737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HP|HP Engage One Pro AIO System|anderson_gw_i3|HP Engage One Pro AIO System|
 |HP|HP Engage One Pro AIO System|anderson_gw_i5|HP Engage One Pro AIO System|
 |HP|HP GOOGLE TV|dongnae|HP GOOGLE TV|
+|HP|HP Googlebook 14|quartz|HP Googlebook 14|
 |HP|HP SMART TV|dongnae|HP SMART TV|
 |HP|HP TV|dongnae|HP TV|
 |HP|HP_WW_2885|pangyo|HP OMEN 32x|
@@ -23239,6 +23248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A6 Note|Lenovo_A6_Note|Lenovo L19041|
 |Lenovo|Lenovo A8|AK57|L10041|
 |Lenovo|Lenovo A8|AK57|Lenovo L10041|
+|Lenovo|Lenovo Googlebook 15|ruby|Lenovo Googlebook 15|
 |Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336FU|TB336FU|
 |Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336ZA|TB336ZA|
 |Lenovo|Lenovo Idea Tab / Lenovo Tab K11 Gen 2|TB336ZU|TB336ZU|
@@ -27174,6 +27184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 60 ultra|leap|XT2551-3|
 |Motorola|motorola razr 60 ultra|leap|motorola razr 50 ultra|
 |Motorola|motorola razr 60 ultra|leap|motorola razr 60 ultra|
+|Motorola|motorola razr 60 ultra|leap|motorola razr ultra 2025|
 |Motorola|motorola razr 60d M-51F|M-51F|M-51E|
 |Motorola|motorola razr 60d M-51F|M-51F|M-51F|
 |Motorola|motorola razr 60s|aito|motorola razr 50s|
@@ -29272,7 +29283,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Pad Lite|OP6194L1|OPD2480|
 |OnePlus|OnePlus Pad Lite|OP6195L1|OPD2481|
 |OnePlus|OnePlus Turbo 6|OP60F0L1|PLU110|
-|OnePlus|OnePlus Turbo 6V|OP64D3L1|PLY110|
 |OnePlus|OnePlus Watch 2|OPWWE231|OPWWE231|
 |OnePlus|OnePlus Watch 2R|OPWWE234|OPWWE234|
 |OnePlus|OnePlus Watch 3|OPWWE251|OPWWE251|
@@ -29291,6 +29301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|Open|OP5973L1|CPH2551|
 |OnePlus|PHP110|OP5927|PHP110|
+|OnePlus|PLY110|OP64D3L1|PLY110|
 |OnePlus|PYS110|OP68F7L1|PYS110|
 |OnePlus|Pad 3|OP6190L1|OPD2415|
 |OnePlus|Pad Go 2|OP6575L1|OPD2504|
@@ -39181,6 +39192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Servicom IT|IT-1101S|IT_1101S|IT_1101S|
 |Servicom IT|Smart Class|Smart_Class|Smart Class|
 |Servicom IT|T6000|T6000|T6000|
+|Seuic|AUTOID PAD Air-5G-P|d527p|AUTOID PAD Air-5G-P|
 |Seuic|AUTOID Pad Air|d520|AUTOID Pad Air|
 |Seuic|AUTOID Pad Air-5G|D527|AUTOID Pad Air-5G|
 |Seuic|AUTOID Q7|d310m|AUTOID Q7|

@@ -15042,6 +15042,13 @@
    "model": "Acer Chromebook R13 (CB5-312T)"
   }
  ],
+ "moonstone": [
+  {
+   "brand": "Acer",
+   "name": "Acer Googlebook 14",
+   "model": "Acer Googlebook 14"
+  }
+ ],
  "acer_c01": [
   {
    "brand": "Acer",
@@ -17681,6 +17688,11 @@
    "brand": "AcerPure",
    "name": "ACERPURE INDIA CE PRIVATE LIMITED",
    "model": "ACP65PAV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "THINK EBIKEGO PRIVATE LIMITED",
+   "model": "DAE65P"
   },
   {
    "brand": "DishTV (IN)",
@@ -32496,6 +32508,33 @@
    "model": "ASUS Chromebook Flip C302"
   }
  ],
+ "lapis": [
+  {
+   "brand": "Asus",
+   "name": "ASUS Googlebook 14",
+   "model": "ASUS Googlebook 14"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15 Pro",
+   "model": "25080RABDC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15 Pro 5G",
+   "model": "25080RABDG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15 Pro 5G",
+   "model": "25080RABDI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15 Pro 5G",
+   "model": "25080RABDR"
+  }
+ ],
  "ASUS_Z00YD": [
   {
    "brand": "Asus",
@@ -43147,11 +43186,28 @@
    "model": "BYD100F"
   }
  ],
+ "BYD300F_IVI_G": [
+  {
+   "brand": "BYD",
+   "name": "BYD",
+   "model": "BYD300F_G"
+  },
+  {
+   "brand": "BYD",
+   "name": "BYD",
+   "model": "BYD300F_G_P"
+  }
+ ],
  "BYD300F_VCP_IVI_G": [
   {
    "brand": "BYD",
    "name": "BYD",
    "model": "BYD300F_VCP_G"
+  },
+  {
+   "brand": "BYD",
+   "name": "BYD",
+   "model": "BYD300F_VCP_G_P"
   }
  ],
  "Smart502": [
@@ -73866,6 +73922,13 @@
    "model": "Venue 8 HSPA+"
   }
  ],
+ "mica": [
+  {
+   "brand": "Dell",
+   "name": "XPS Googlebook",
+   "model": "XPS Googlebook"
+  }
+ ],
  "D1018": [
   {
    "brand": "Delm",
@@ -97601,6 +97664,13 @@
    "model": "E940-3045-00"
   }
  ],
+ "Gigaset_GX50_EP": [
+  {
+   "brand": "Gigaset",
+   "name": "Gigaset GX50 EP",
+   "model": "E940-3045-01"
+  }
+ ],
  "GX6": [
   {
    "brand": "Gigaset",
@@ -102935,6 +103005,13 @@
    "model": "HP Engage One Pro AIO System"
   }
  ],
+ "quartz": [
+  {
+   "brand": "HP",
+   "name": "HP Googlebook 14",
+   "model": "HP Googlebook 14"
+  }
+ ],
  "Arjuna": [
   {
    "brand": "HP",
@@ -103858,6 +103935,11 @@
    "brand": "HTC",
    "name": "Amaze_4G",
    "model": "HTC_Amaze_4G"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Googlebook 15",
+   "model": "Lenovo Googlebook 15"
   },
   {
    "brand": "Redmi",
@@ -188586,6 +188668,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "motorola razr 60 ultra",
+   "model": "motorola razr ultra 2025"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola razr ultra 2025",
    "model": "motorola razr 50 ultra"
   },
@@ -200957,13 +201044,6 @@
    "model": "PLU110"
   }
  ],
- "OP64D3L1": [
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus Turbo 6V",
-   "model": "PLY110"
-  }
- ],
  "OPWWE231": [
   {
    "brand": "OnePlus",
@@ -201072,6 +201152,13 @@
    "brand": "OnePlus",
    "name": "PHP110",
    "model": "PHP110"
+  }
+ ],
+ "OP64D3L1": [
+  {
+   "brand": "OnePlus",
+   "name": "PLY110",
+   "model": "PLY110"
   }
  ],
  "OP68F7L1": [
@@ -229454,28 +229541,6 @@
    "brand": "Redmi",
    "name": "REDMI Note 15 Pro",
    "model": "25100RA69G"
-  }
- ],
- "lapis": [
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15 Pro",
-   "model": "25080RABDC"
-  },
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15 Pro 5G",
-   "model": "25080RABDG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15 Pro 5G",
-   "model": "25080RABDI"
-  },
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15 Pro 5G",
-   "model": "25080RABDR"
   }
  ],
  "zephyr": [
@@ -259508,6 +259573,13 @@
    "brand": "Servicom IT",
    "name": "T6000",
    "model": "T6000"
+  }
+ ],
+ "d527p": [
+  {
+   "brand": "Seuic",
+   "name": "AUTOID PAD Air-5G-P",
+   "model": "AUTOID PAD Air-5G-P"
   }
  ],
  "d520": [
