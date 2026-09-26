@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-25
+Last sync is 2026-09-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13835,6 +13835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamlet|XZPAD414W|XZPAD414W|XZPAD414W|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
 |Hammer|Blade_6_Pro_EEA|Hammer_Blade_6_Pro|Blade_6_Pro|
+|Hammer|Construction_3_5G_EEA|Hammer_Construction_3_5G|Construction_3_5G|
 |Hammer|Energy_X2_EEA|Hammer_Energy_X2|Energy_X2|
 |Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
 |Hammer|Hammer Blade 4|Hammer_Blade_4|Hammer_Blade_4|

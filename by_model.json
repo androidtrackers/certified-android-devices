@@ -104728,6 +104728,13 @@
    "device": "Hammer_Blade_6_Pro"
   }
  ],
+ "Construction_3_5G": [
+  {
+   "brand": "Hammer",
+   "name": "Construction_3_5G_EEA",
+   "device": "Hammer_Construction_3_5G"
+  }
+ ],
  "Energy_X2": [
   {
    "brand": "Hammer",

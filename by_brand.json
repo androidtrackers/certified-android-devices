@@ -71809,6 +71809,11 @@
    "model": "Blade_6_Pro"
   },
   {
+   "device": "Hammer_Construction_3_5G",
+   "name": "Construction_3_5G_EEA",
+   "model": "Construction_3_5G"
+  },
+  {
    "device": "Hammer_Energy_X2",
    "name": "Energy_X2_EEA",
    "model": "Energy_X2"
