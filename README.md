@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-26
+Last sync is 2026-09-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -52889,6 +52889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMuz|IM-H842|IM-H842|IM-H842|
 |iMuz|IM-L101|IM-L101|IM-L101|
 |iMuz|IM-L801|IM-L801|IM-L801|
+|iMuz|IM-S881|IM-S881|IM-S881|
 |iMuz|IM-W261|IM-W261|IM-W261|
 |iMuz|IMH101|IMH101|IMH101|
 |iMuz|L101|G10|L101|
