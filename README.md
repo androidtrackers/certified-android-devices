@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-09-27
+Last sync is 2026-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7437,6 +7437,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cristor|Trendy_2|Trendy_2|Trendy 2|
 |Croatian Telecom|KSTB6044|KSTB6044|KSTB6044|
 |Croma|43FDVRCHG5SP|ikebukuro|AI PONT|
+|Croma|Croma TV|beomil|Croma TV|
+|Croma|Croma TV|eleonas|Croma TV|
+|Croma|Croma TV|katehaki|Croma TV|
+|Croma|Croma TV FF|eleonas|Croma TV FF|
 |Crosscall|27409-1|27409-1|27409-1|
 |Crosscall|AD-C1|L790|AD-C1|
 |Crosscall|AD-C2|L790|AD-C2|
@@ -17855,6 +17859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Indurama|Indurama|zhongshan|CSV4K|
 |Indurama|Indurama 4K smart TV|eleonas|Indurama 4K smart TV|
 |Indurama|Indurama 4K smart TV|sapporo|Indurama 4K smart TV|
+|Indurama|Indurama 4K smart TV FF|eleonas|Indurama 4K smart TV FF|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
 |Indurama|indurama 4K TV|SW4H|indurama 4K TV|
 |Indurama|indurama Smart TV|sunnyvale|indurama Smart TV|
@@ -28790,6 +28795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OFD(Display)|D01|D01|D01|
 |OFD(Display)|HSD-215|HSD-215|HSD-215|
 |OFD(Display)|HSD-M03|M03|HSD-M03|
+|OFD(Display)|HSD-M03F|M03F|HSD-M03F|
 |OFD(Display)|HSD01|HSD01|HSD01|
 |OK (Mediamark)|32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|4K Smart TV|pioneer|4K PA Smart TV|
@@ -30894,6 +30900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|Q1|Q1|Q1|
 |PEICHENG|Q1|Q1|Q1K|
 |PEICHENG|Q10_Pro|Q10_Pro|Q10|
+|PEICHENG|Q11_Pro|Q11_Pro|Q11_Pro|
 |PEICHENG|Q8|Q8|Q8|
 |PEICHENG|Q8|Q8|Q8K|
 |PEICHENG|Q8PRO|Q8PRO|Q8 PRO|
@@ -31436,6 +31443,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Panasonic 2K TV|alameda|Panasonic 2K TV|
 |Panasonic|Panasonic 2K TV|beomil|Panasonic 2K TV|
 |Panasonic|Panasonic 2K TV LA|beomil|Panasonic 2K TV LA|
+|Panasonic|Panasonic 2K TV SA|beomil|Panasonic 2K TV SA|
+|Panasonic|Panasonic 4K TV SA|eleonas|Panasonic 4K TV SA|
+|Panasonic|Panasonic 4K TV SA|sapporo|Panasonic 4K TV SA|
 |Panasonic|Panasonic 4K TV US|sapporo|Panasonic 4K TV US|
 |Panasonic|Panasonic P100|P100|P100|
 |Panasonic|Panasonic P100|P100|Panasonic P100|
@@ -32865,6 +32875,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_A07K_EEA|K7_A07K_EEA|K7|
 |Pritom|K7_A07K_US|K7_A07K_US|K7|
 |Pritom|K7_A07_US|K7_A07_US|K7|
+|Pritom|K7_A08_EU|K7_A08_EU|K7|
+|Pritom|K7_A08_ROW|K7_A08_ROW|K7|
 |Pritom|K7_A08_US|K7_A08_US|K7|
 |Pritom|K7_A101|K7_A101|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101|
@@ -40391,6 +40403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Soda|s2|soda_CSW1802|soda S2|
 |Soda|soda|soda_SW17W16|soda S1|
 |SoftBank|602ZT|P809F10|602ZT|
+|Softlogic|Interactive_Flat_Panel_SL|Eduboard|SL-75SLEDU168U|
 |Softlogic|MaxAiPlus|MaxAiPlus|Max-M8|
 |Sohar|S67|S67|S67|
 |Solinftec|SOL07|SOL07|SOL07|
@@ -40591,6 +40604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE44|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE54|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE72|
+|Sony|Xperia 10 VIII|XQ-GH|SO-52G|
 |Sony|Xperia 10 VIII|XQ-GH|XQ-GH54|
 |Sony|Xperia 10 VIII|XQ-GH|XQ-GH74|
 |Sony|Xperia 5|901SO|901SO|
@@ -41680,6 +41694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Syinix|Smart TV|longshan|AI PONT|
 |Syinix|Smart TV|redwood|AI PONT|
 |Syinix|Syinix TV|eleonas|Syinix TV|
+|Syinix|Syinix TV|katehaki|Syinix TV|
 |Symphony|ATOM|ATOM|ATOM|
 |Symphony|ATOM4|ATOM4|ATOM4|
 |Symphony|Allegro|RFIP_ST4K_2|Allegro|
@@ -46276,6 +46291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Titan Slim|Titan_Slim|Titan Slim|
 |Unihertz|Titan pocket|Titan_pocket|Titan pocket|
 |UnionTek|S65|S65|S65|
+|UnionTek|S65L|S651|S65L|
 |UnionTek|S65L|S65L|S65L|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
 |Unionaire|UnionaireATV4K|hanyang|Unionaire Android TV|

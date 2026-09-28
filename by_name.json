@@ -65110,6 +65110,30 @@
    "model": "AI PONT"
   }
  ],
+ "Croma TV": [
+  {
+   "brand": "Croma",
+   "device": "beomil",
+   "model": "Croma TV"
+  },
+  {
+   "brand": "Croma",
+   "device": "eleonas",
+   "model": "Croma TV"
+  },
+  {
+   "brand": "Croma",
+   "device": "katehaki",
+   "model": "Croma TV"
+  }
+ ],
+ "Croma TV FF": [
+  {
+   "brand": "Croma",
+   "device": "eleonas",
+   "model": "Croma TV FF"
+  }
+ ],
  "27409-1": [
   {
    "brand": "Crosscall",
@@ -131647,6 +131671,13 @@
    "model": "Indurama 4K smart TV"
   }
  ],
+ "Indurama 4K smart TV FF": [
+  {
+   "brand": "Indurama",
+   "device": "eleonas",
+   "model": "Indurama 4K smart TV FF"
+  }
+ ],
  "indurama 2K TV": [
   {
    "brand": "Indurama",
@@ -196629,6 +196660,13 @@
    "model": "HSD-M03"
   }
  ],
+ "HSD-M03F": [
+  {
+   "brand": "OFD(Display)",
+   "device": "M03F",
+   "model": "HSD-M03F"
+  }
+ ],
  "HSD01": [
   {
    "brand": "OFD(Display)",
@@ -209424,6 +209462,13 @@
    "model": "Q10"
   }
  ],
+ "Q11_Pro": [
+  {
+   "brand": "PEICHENG",
+   "device": "Q11_Pro",
+   "model": "Q11_Pro"
+  }
+ ],
  "Q8PRO": [
   {
    "brand": "PEICHENG",
@@ -212726,6 +212771,25 @@
    "brand": "Panasonic",
    "device": "beomil",
    "model": "Panasonic 2K TV LA"
+  }
+ ],
+ "Panasonic 2K TV SA": [
+  {
+   "brand": "Panasonic",
+   "device": "beomil",
+   "model": "Panasonic 2K TV SA"
+  }
+ ],
+ "Panasonic 4K TV SA": [
+  {
+   "brand": "Panasonic",
+   "device": "eleonas",
+   "model": "Panasonic 4K TV SA"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "sapporo",
+   "model": "Panasonic 4K TV SA"
   }
  ],
  "Panasonic 4K TV US": [
@@ -221748,6 +221812,20 @@
   {
    "brand": "Pritom",
    "device": "K7_A07_US",
+   "model": "K7"
+  }
+ ],
+ "K7_A08_EU": [
+  {
+   "brand": "Pritom",
+   "device": "K7_A08_EU",
+   "model": "K7"
+  }
+ ],
+ "K7_A08_ROW": [
+  {
+   "brand": "Pritom",
+   "device": "K7_A08_ROW",
    "model": "K7"
   }
  ],
@@ -265695,6 +265773,13 @@
    "model": "602ZT"
   }
  ],
+ "Interactive_Flat_Panel_SL": [
+  {
+   "brand": "Softlogic",
+   "device": "Eduboard",
+   "model": "SL-75SLEDU168U"
+  }
+ ],
  "MaxAiPlus": [
   {
    "brand": "Softlogic",
@@ -266834,6 +266919,11 @@
   }
  ],
  "Xperia 10 VIII": [
+  {
+   "brand": "Sony",
+   "device": "XQ-GH",
+   "model": "SO-52G"
+  },
   {
    "brand": "Sony",
    "device": "XQ-GH",
@@ -273053,6 +273143,11 @@
   {
    "brand": "Syinix",
    "device": "eleonas",
+   "model": "Syinix TV"
+  },
+  {
+   "brand": "Syinix",
+   "device": "katehaki",
    "model": "Syinix TV"
   }
  ],
@@ -299955,6 +300050,11 @@
   }
  ],
  "S65L": [
+  {
+   "brand": "UnionTek",
+   "device": "S651",
+   "model": "S65L"
+  },
   {
    "brand": "UnionTek",
    "device": "S65L",

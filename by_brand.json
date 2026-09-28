@@ -38511,6 +38511,26 @@
    "device": "ikebukuro",
    "name": "43FDVRCHG5SP",
    "model": "AI PONT"
+  },
+  {
+   "device": "beomil",
+   "name": "Croma TV",
+   "model": "Croma TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "Croma TV",
+   "model": "Croma TV"
+  },
+  {
+   "device": "katehaki",
+   "name": "Croma TV",
+   "model": "Croma TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "Croma TV FF",
+   "model": "Croma TV FF"
   }
  ],
  "Crosscall": [
@@ -92221,6 +92241,11 @@
    "device": "sapporo",
    "name": "Indurama 4K smart TV",
    "model": "Indurama 4K smart TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "Indurama 4K smart TV FF",
+   "model": "Indurama 4K smart TV FF"
   },
   {
    "device": "shinjuku",
@@ -148392,6 +148417,11 @@
    "model": "HSD-M03"
   },
   {
+   "device": "M03F",
+   "name": "HSD-M03F",
+   "model": "HSD-M03F"
+  },
+  {
    "device": "HSD01",
    "name": "HSD01",
    "model": "HSD01"
@@ -159124,6 +159154,11 @@
    "model": "Q10"
   },
   {
+   "device": "Q11_Pro",
+   "name": "Q11_Pro",
+   "model": "Q11_Pro"
+  },
+  {
    "device": "Q8",
    "name": "Q8",
    "model": "Q8"
@@ -161926,6 +161961,21 @@
    "device": "beomil",
    "name": "Panasonic 2K TV LA",
    "model": "Panasonic 2K TV LA"
+  },
+  {
+   "device": "beomil",
+   "name": "Panasonic 2K TV SA",
+   "model": "Panasonic 2K TV SA"
+  },
+  {
+   "device": "eleonas",
+   "name": "Panasonic 4K TV SA",
+   "model": "Panasonic 4K TV SA"
+  },
+  {
+   "device": "sapporo",
+   "name": "Panasonic 4K TV SA",
+   "model": "Panasonic 4K TV SA"
   },
   {
    "device": "sapporo",
@@ -169222,6 +169272,16 @@
   {
    "device": "K7_A07_US",
    "name": "K7_A07_US",
+   "model": "K7"
+  },
+  {
+   "device": "K7_A08_EU",
+   "name": "K7_A08_EU",
+   "model": "K7"
+  },
+  {
+   "device": "K7_A08_ROW",
+   "name": "K7_A08_ROW",
    "model": "K7"
   },
   {
@@ -207659,6 +207719,11 @@
  ],
  "Softlogic": [
   {
+   "device": "Eduboard",
+   "name": "Interactive_Flat_Panel_SL",
+   "model": "SL-75SLEDU168U"
+  },
+  {
    "device": "MaxAiPlus",
    "name": "MaxAiPlus",
    "model": "Max-M8"
@@ -208673,6 +208738,11 @@
    "device": "XQ-FE",
    "name": "Xperia 10 VII",
    "model": "XQ-FE72"
+  },
+  {
+   "device": "XQ-GH",
+   "name": "Xperia 10 VIII",
+   "model": "SO-52G"
   },
   {
    "device": "XQ-GH",
@@ -214266,6 +214336,11 @@
   },
   {
    "device": "eleonas",
+   "name": "Syinix TV",
+   "model": "Syinix TV"
+  },
+  {
+   "device": "katehaki",
    "name": "Syinix TV",
    "model": "Syinix TV"
   }
@@ -237844,6 +237919,11 @@
    "device": "S65",
    "name": "S65",
    "model": "S65"
+  },
+  {
+   "device": "S651",
+   "name": "S65L",
+   "model": "S65L"
   },
   {
    "device": "S65L",

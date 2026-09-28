@@ -18230,6 +18230,11 @@
    "model": "Aconatic 2K Smart TV"
   },
   {
+   "brand": "Croma",
+   "name": "Croma TV",
+   "model": "Croma TV"
+  },
+  {
    "brand": "Daewoo",
    "name": "AI SMART TV",
    "model": "AI SMART TV"
@@ -18323,6 +18328,11 @@
    "brand": "Panasonic",
    "name": "Panasonic 2K TV LA",
    "model": "Panasonic 2K TV LA"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2K TV SA",
+   "model": "Panasonic 2K TV SA"
   },
   {
    "brand": "Philips",
@@ -18599,6 +18609,16 @@
    "model": "BGH 4K SMART TV"
   },
   {
+   "brand": "Croma",
+   "name": "Croma TV",
+   "model": "Croma TV"
+  },
+  {
+   "brand": "Croma",
+   "name": "Croma TV FF",
+   "model": "Croma TV FF"
+  },
+  {
    "brand": "Daewoo",
    "name": "AI SMART TV",
    "model": "AI SMART TV"
@@ -18662,6 +18682,11 @@
    "brand": "Indurama",
    "name": "Indurama 4K smart TV",
    "model": "Indurama 4K smart TV"
+  },
+  {
+   "brand": "Indurama",
+   "name": "Indurama 4K smart TV FF",
+   "model": "Indurama 4K smart TV FF"
   },
   {
    "brand": "Infinix",
@@ -18757,6 +18782,11 @@
    "brand": "Panasonic",
    "name": "4KTV-6SUF",
    "model": "4KTV-6SUF"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 4K TV SA",
+   "model": "Panasonic 4K TV SA"
   },
   {
    "brand": "Panasonic",
@@ -38885,6 +38915,11 @@
    "model": "BGH 4K SMART TV"
   },
   {
+   "brand": "Croma",
+   "name": "Croma TV",
+   "model": "Croma TV"
+  },
+  {
    "brand": "Daewoo",
    "name": "DAEWOO AI SMART TV",
    "model": "DAEWOO AI SMART TV"
@@ -38965,6 +39000,11 @@
    "model": "SANSUI TV"
   },
   {
+   "brand": "Syinix",
+   "name": "Syinix TV",
+   "model": "Syinix TV"
+  },
+  {
    "brand": "Telefunken",
    "name": "TELEFUNKEN 4K TV",
    "model": "TELEFUNKEN 4K TV"
@@ -39015,6 +39055,11 @@
    "brand": "Kalley",
    "name": "Kalley TV",
    "model": "Kalley TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 4K TV SA",
+   "model": "Panasonic 4K TV SA"
   },
   {
    "brand": "Panasonic",
@@ -198429,6 +198474,13 @@
    "model": "HSD-215"
   }
  ],
+ "M03F": [
+  {
+   "brand": "OFD(Display)",
+   "name": "HSD-M03F",
+   "model": "HSD-M03F"
+  }
+ ],
  "HSD01": [
   {
    "brand": "OFD(Display)",
@@ -210867,6 +210919,13 @@
    "model": "Q10"
   }
  ],
+ "Q11_Pro": [
+  {
+   "brand": "PEICHENG",
+   "name": "Q11_Pro",
+   "model": "Q11_Pro"
+  }
+ ],
  "Q8PRO": [
   {
    "brand": "PEICHENG",
@@ -223038,6 +223097,20 @@
   {
    "brand": "Pritom",
    "name": "K7_A07_US",
+   "model": "K7"
+  }
+ ],
+ "K7_A08_EU": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A08_EU",
+   "model": "K7"
+  }
+ ],
+ "K7_A08_ROW": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A08_ROW",
    "model": "K7"
   }
  ],
@@ -266946,6 +267019,13 @@
    "model": "ZTE BLADE A521"
   }
  ],
+ "Eduboard": [
+  {
+   "brand": "Softlogic",
+   "name": "Interactive_Flat_Panel_SL",
+   "model": "SL-75SLEDU168U"
+  }
+ ],
  "MaxAiPlus": [
   {
    "brand": "Softlogic",
@@ -268274,6 +268354,11 @@
   }
  ],
  "XQ-GH": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 VIII",
+   "model": "SO-52G"
+  },
   {
    "brand": "Sony",
    "name": "Xperia 10 VIII",
@@ -300170,6 +300255,13 @@
    "brand": "Unihertz",
    "name": "Titan pocket",
    "model": "Titan pocket"
+  }
+ ],
+ "S651": [
+  {
+   "brand": "UnionTek",
+   "name": "S65L",
+   "model": "S65L"
   }
  ],
  "S65L": [
