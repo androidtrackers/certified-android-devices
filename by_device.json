@@ -39539,6 +39539,18 @@
    "model": "BF00A"
   }
  ],
+ "Aura_A1": [
+  {
+   "brand": "BLUEFOX",
+   "name": "Aura_A1_EEA",
+   "model": "BF00A"
+  },
+  {
+   "brand": "BLUEFOX",
+   "name": "Aura_A1_US",
+   "model": "BF00A"
+  }
+ ],
  "BLUEFOX": [
   {
    "brand": "BLUEFOX",
@@ -69555,6 +69567,13 @@
    "model": "E10_US"
   }
  ],
+ "E11_E": [
+  {
+   "brand": "DEERTiME",
+   "name": "E11_E",
+   "model": "E11_E"
+  }
+ ],
  "E11_EEA": [
   {
    "brand": "DEERTiME",
@@ -92282,6 +92301,11 @@
    "brand": "Gol Mobile",
    "name": "F9",
    "model": "F9"
+  },
+  {
+   "brand": "HEADWOLF",
+   "name": "F9",
+   "model": "F9"
   }
  ],
  "F9S": [
@@ -109923,6 +109947,13 @@
    "model": "Pad_Mini"
   }
  ],
+ "Pad_Neo": [
+  {
+   "brand": "Heco",
+   "name": "Pad_Neo",
+   "model": "Pad Neo"
+  }
+ ],
  "Helio_S5": [
   {
    "brand": "Helio",
@@ -115479,6 +115510,13 @@
    "model": "LIXIR1041"
   }
  ],
+ "HPA1319": [
+  {
+   "brand": "Homeplustv",
+   "name": "HPA-1319",
+   "model": "HPA-1319"
+  }
+ ],
  "STB6252C": [
   {
    "brand": "Homeplustv",
@@ -117844,6 +117882,13 @@
    "model": "YLE-W09"
   }
  ],
+ "HNMLA-Q": [
+  {
+   "brand": "Honor",
+   "name": "荣耀MagicPad4",
+   "model": "MLA-W09"
+  }
+ ],
  "HNLNA-M": [
   {
    "brand": "Honor",
@@ -119008,6 +119053,13 @@
    "brand": "Hotwav",
    "name": "Pad 17 Pro",
    "model": "Pad 17 Pro"
+  }
+ ],
+ "Pad13": [
+  {
+   "brand": "Hotwav",
+   "name": "Pad13",
+   "model": "Pad 13"
   }
  ],
  "Pad_13": [
@@ -140577,6 +140629,13 @@
    "brand": "JOVI",
    "name": "JOVI Y31",
    "model": "J2506"
+  }
+ ],
+ "J2608": [
+  {
+   "brand": "JOVI",
+   "name": "JOVI Y600 Pro 5G",
+   "model": "J2608"
   }
  ],
  "V2427B": [
@@ -176525,6 +176584,18 @@
    "model": "M-SP10MXHL"
   }
  ],
+ "M-SP11AZ46": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP11AZ46",
+   "model": "AZIMUT_4_LITE"
+  },
+  {
+   "brand": "Mediacom",
+   "name": "M-SP11AZ46",
+   "model": "Azimut_4_lite"
+  }
+ ],
  "M-SP11AZ48": [
   {
    "brand": "Mediacom",
@@ -182927,6 +182998,13 @@
    "brand": "Mobiwire",
    "name": "Lonan",
    "model": "Lonan"
+  }
+ ],
+ "GH6733_Pro": [
+  {
+   "brand": "Mobiwire",
+   "name": "MTN",
+   "model": "H6733 Pro"
   }
  ],
  "WM26": [
@@ -211037,6 +211115,13 @@
    "model": "ZB32A"
   }
  ],
+ "ZB32ST": [
+  {
+   "brand": "PEICHENG",
+   "name": "ZB32ST",
+   "model": "ZB32"
+  }
+ ],
  "ZB32UA": [
   {
    "brand": "PEICHENG",
@@ -227823,6 +227908,13 @@
    "model": "C200-RM-RX1"
   }
  ],
+ "Shinelink_136COB": [
+  {
+   "brand": "RGBshine",
+   "name": "Shinelink_136COB",
+   "model": "Shinelink_136COB"
+  }
+ ],
  "S3_RU": [
   {
    "brand": "RIKOR",
@@ -233008,6 +233100,13 @@
    "model": "S6705"
   }
  ],
+ "ZIP_PLUS": [
+  {
+   "brand": "Ruio",
+   "name": "Smart One",
+   "model": "RS2613"
+  }
+ ],
  "RT-1708": [
   {
    "brand": "Rumie",
@@ -234613,6 +234712,13 @@
    "brand": "SMV",
    "name": "SMV_3588",
    "model": "SMV_3588"
+  }
+ ],
+ "Eduboard": [
+  {
+   "brand": "SOFLOGIC",
+   "name": "Interactive_Flat_Panel_SL",
+   "model": "SL-75SLEDU168U"
   }
  ],
  "S1582C": [
@@ -267019,13 +267125,6 @@
    "model": "ZTE BLADE A521"
   }
  ],
- "Eduboard": [
-  {
-   "brand": "Softlogic",
-   "name": "Interactive_Flat_Panel_SL",
-   "model": "SL-75SLEDU168U"
-  }
- ],
  "MaxAiPlus": [
   {
    "brand": "Softlogic",
@@ -271872,6 +271971,13 @@
    "brand": "SoyMomo_Tablet",
    "name": "SoyMomo_PRO_V2MAX",
    "model": "SoyMomo_PRO_V2MAX"
+  }
+ ],
+ "SP_E800302": [
+  {
+   "brand": "Spaisen",
+   "name": "SP_E800302",
+   "model": "3576"
   }
  ],
  "Edge_20": [
@@ -308365,12 +308471,22 @@
   },
   {
    "brand": "vivo",
+   "name": "S2 FE",
+   "model": "V2640"
+  },
+  {
+   "brand": "vivo",
    "name": "V80 Lite 5G",
    "model": "V2626"
   },
   {
    "brand": "vivo",
    "name": "V80 Lite 5G",
+   "model": "V2655"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600 5G",
    "model": "V2655"
   }
  ],
@@ -318195,6 +318311,11 @@
    "brand": "Xiaomi",
    "name": "Leitzphone powered by Xiaomi",
    "model": "2512BPNDAG"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 17 Ultra",
+   "model": "25128PNA1C"
   },
   {
    "brand": "Xiaomi",
@@ -334590,6 +334711,13 @@
    "model": "A16pro"
   }
  ],
+ "AIGO_Pad_HY800": [
+  {
+   "brand": "aigo",
+   "name": "AIGO_Pad_HY800_US",
+   "model": "AIGO_Pad_HY800"
+  }
+ ],
  "AIGO_Pad_Y800": [
   {
    "brand": "aigo",
@@ -339178,6 +339306,13 @@
    "brand": "indigi",
    "name": "G4i",
    "model": "G4i"
+  }
+ ],
+ "Android_M11": [
+  {
+   "brand": "inefi",
+   "name": "Android M11",
+   "model": "Android M11"
   }
  ],
  "Android_G17": [

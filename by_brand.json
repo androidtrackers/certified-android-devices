@@ -18336,6 +18336,16 @@
    "model": "BF00A"
   },
   {
+   "device": "Aura_A1",
+   "name": "Aura_A1_EEA",
+   "model": "BF00A"
+  },
+  {
+   "device": "Aura_A1",
+   "name": "Aura_A1_US",
+   "model": "BF00A"
+  },
+  {
    "device": "BLUEFOX",
    "name": "BF001",
    "model": "NX1"
@@ -39781,6 +39791,11 @@
    "device": "E10_US",
    "name": "E10_US",
    "model": "E10_US"
+  },
+  {
+   "device": "E11_E",
+   "name": "E11_E",
+   "model": "E11_E"
   },
   {
    "device": "E11_EEA",
@@ -65204,6 +65219,11 @@
    "model": "Titan 1"
   },
   {
+   "device": "F9",
+   "name": "F9",
+   "model": "F9"
+  },
+  {
    "device": "Fpad1",
    "name": "Fpad1",
    "model": "F1"
@@ -72270,6 +72290,11 @@
    "device": "Pad_Mini",
    "name": "Pad_Mini",
    "model": "Pad_Mini"
+  },
+  {
+   "device": "Pad_Neo",
+   "name": "Pad_Neo",
+   "model": "Pad Neo"
   }
  ],
  "Helgi": [
@@ -77328,6 +77353,11 @@
    "model": "HCA-6010"
   },
   {
+   "device": "HPA1319",
+   "name": "HPA-1319",
+   "model": "HPA-1319"
+  },
+  {
    "device": "HCA6010",
    "name": "Homeplus_ATV HCA-6010",
    "model": "HCA-6010"
@@ -79215,6 +79245,11 @@
    "model": "YLE-W09"
   },
   {
+   "device": "HNMLA-Q",
+   "name": "荣耀MagicPad4",
+   "model": "MLA-W09"
+  },
+  {
    "device": "HNLNA-M",
    "name": "荣耀Play11 Pro",
    "model": "LNA-AN00"
@@ -80117,6 +80152,11 @@
    "device": "Pad_17_Pro",
    "name": "Pad 17 Pro",
    "model": "Pad 17 Pro"
+  },
+  {
+   "device": "Pad13",
+   "name": "Pad13",
+   "model": "Pad 13"
   },
   {
    "device": "Pad_13",
@@ -98456,6 +98496,11 @@
    "device": "J2506",
    "name": "JOVI Y31",
    "model": "J2506"
+  },
+  {
+   "device": "J2608",
+   "name": "JOVI Y600 Pro 5G",
+   "model": "J2608"
   },
   {
    "device": "V2427B",
@@ -129846,6 +129891,16 @@
    "model": "M-SP10MXHL"
   },
   {
+   "device": "M-SP11AZ46",
+   "name": "M-SP11AZ46",
+   "model": "AZIMUT_4_LITE"
+  },
+  {
+   "device": "M-SP11AZ46",
+   "name": "M-SP11AZ46",
+   "model": "Azimut_4_lite"
+  },
+  {
    "device": "M-SP11AZ48",
    "name": "M-SP11AZ48",
    "model": "AZIMUT_4_LITE"
@@ -134986,6 +135041,11 @@
    "device": "Lonan",
    "name": "Lonan",
    "model": "Lonan"
+  },
+  {
+   "device": "GH6733_Pro",
+   "name": "MTN",
+   "model": "H6733 Pro"
   },
   {
    "device": "WM26",
@@ -159254,6 +159314,11 @@
    "model": "ZB32A"
   },
   {
+   "device": "ZB32ST",
+   "name": "ZB32ST",
+   "model": "ZB32"
+  },
+  {
    "device": "ZB32UA",
    "name": "ZB32UA",
    "model": "ZB32"
@@ -173517,6 +173582,13 @@
    "model": "C200-RM-RX1"
   }
  ],
+ "RGBshine": [
+  {
+   "device": "Shinelink_136COB",
+   "name": "Shinelink_136COB",
+   "model": "Shinelink_136COB"
+  }
+ ],
  "RIKOR": [
   {
    "device": "S3_RU",
@@ -178801,6 +178873,11 @@
    "model": "S6705"
   },
   {
+   "device": "ZIP_PLUS",
+   "name": "Smart One",
+   "model": "RS2613"
+  },
+  {
    "device": "Blitz",
    "name": "smart",
    "model": "Blitz"
@@ -180515,6 +180592,13 @@
    "device": "SMV_3588",
    "name": "SMV_3588",
    "model": "SMV_3588"
+  }
+ ],
+ "SOFLOGIC": [
+  {
+   "device": "Eduboard",
+   "name": "Interactive_Flat_Panel_SL",
+   "model": "SL-75SLEDU168U"
   }
  ],
  "SOHO STYLE": [
@@ -207719,11 +207803,6 @@
  ],
  "Softlogic": [
   {
-   "device": "Eduboard",
-   "name": "Interactive_Flat_Panel_SL",
-   "model": "SL-75SLEDU168U"
-  },
-  {
    "device": "MaxAiPlus",
    "name": "MaxAiPlus",
    "model": "Max-M8"
@@ -211531,6 +211610,13 @@
    "device": "SoyMomo_PRO_V2MAX",
    "name": "SoyMomo_PRO_V2MAX",
    "model": "SoyMomo_PRO_V2MAX"
+  }
+ ],
+ "Spaisen": [
+  {
+   "device": "SP_E800302",
+   "name": "SP_E800302",
+   "model": "3576"
   }
  ],
  "SparX": [
@@ -255174,6 +255260,11 @@
   {
    "device": "nezha",
    "name": "Xiaomi 17 Ultra",
+   "model": "25128PNA1C"
+  },
+  {
+   "device": "nezha",
+   "name": "Xiaomi 17 Ultra",
    "model": "2512BPNDAC"
   },
   {
@@ -268730,6 +268821,11 @@
    "model": "A19"
   },
   {
+   "device": "AIGO_Pad_HY800",
+   "name": "AIGO_Pad_HY800_US",
+   "model": "AIGO_Pad_HY800"
+  },
+  {
    "device": "AIGO_Pad_Y800",
    "name": "AIGO_Pad_Y800",
    "model": "AIGO_Pad_Y800"
@@ -272898,6 +272994,11 @@
  ],
  "inefi": [
   {
+   "device": "Android_M11",
+   "name": "Android M11",
+   "model": "Android M11"
+  },
+  {
    "device": "Android_G17",
    "name": "Android_G17",
    "model": "Android_G17"
@@ -276486,6 +276587,11 @@
    "model": "V2576"
   },
   {
+   "device": "V2626",
+   "name": "S2 FE",
+   "model": "V2640"
+  },
+  {
    "device": "PD2464",
    "name": "S30",
    "model": "V2464A"
@@ -277194,6 +277300,11 @@
    "device": "PD2559",
    "name": "Y60 AI版",
    "model": "V2559A"
+  },
+  {
+   "device": "V2626",
+   "name": "Y600 5G",
+   "model": "V2655"
   },
   {
    "device": "PD2607",
