@@ -23428,6 +23428,13 @@
    "model": "iPlay70 mini Turbo"
   }
  ],
+ "iPlay80Mini": [
+  {
+   "brand": "Alldocube",
+   "device": "T817",
+   "model": "iPlay80Mini"
+  }
+ ],
  "iPlay80miniTurbo": [
   {
    "brand": "Alldocube",
@@ -32196,6 +32203,13 @@
    "model": "ZT-701"
   }
  ],
+ "CTIHOMEUH50": [
+  {
+   "brand": "At_Home_Series",
+   "device": "At_Home",
+   "model": "At_Home"
+  }
+ ],
  "MAT80211": [
   {
    "brand": "AthenaStellar",
@@ -37348,6 +37362,11 @@
    "brand": "BenQ",
    "device": "B50",
    "model": "B50"
+  },
+  {
+   "brand": "Nuu",
+   "device": "N6801XA",
+   "model": "N6801X"
   }
  ],
  "B50 PRO": [
@@ -58807,6 +58826,13 @@
    "model": "RS10"
   }
  ],
+ "RS20": [
+  {
+   "brand": "Cipherlab",
+   "device": "RS20",
+   "model": "RS20"
+  }
+ ],
  "RS30": [
   {
    "brand": "Cipherlab",
@@ -71023,6 +71049,13 @@
   {
    "brand": "Datamini",
    "device": "T1004G",
+   "model": "T1004G"
+  }
+ ],
+ "T1004GS": [
+  {
+   "brand": "Datamini",
+   "device": "T1004GS",
    "model": "T1004G"
   }
  ],
@@ -101354,13 +101387,6 @@
    "model": "OC101"
   }
  ],
- "DS-D5A65RB/C": [
-  {
-   "brand": "HIKVISION",
-   "device": "HIK_3576",
-   "model": "HIK_3576"
-  }
- ],
  "DS-MDT202": [
   {
    "brand": "HIKVISION",
@@ -101380,6 +101406,13 @@
    "brand": "HIKVISION",
    "device": "DS_D5C65RB_A",
    "model": "DS_D5C65RB_A"
+  }
+ ],
+ "HIK_3576": [
+  {
+   "brand": "HIKVISION",
+   "device": "HIK_3576",
+   "model": "HIK_3576"
   }
  ],
  "HIK_3588": [
@@ -107134,6 +107167,13 @@
    "model": "CW-SPCM"
   }
  ],
+ "HT738-01": [
+  {
+   "brand": "HWD",
+   "device": "HT738-01",
+   "model": "HT738-01"
+  }
+ ],
  "THATAB": [
   {
    "brand": "HYPERTECH",
@@ -109281,6 +109321,13 @@
    "model": "HSG1501A"
   }
  ],
+ "HSG1507": [
+  {
+   "brand": "HannSpree",
+   "device": "HSG1507",
+   "model": "HSG1507"
+  }
+ ],
  "Hannspad": [
   {
    "brand": "HannSpree",
@@ -109552,6 +109599,13 @@
    "brand": "Helio",
    "device": "helio_150",
    "model": "helio 150"
+  }
+ ],
+ "helio_23": [
+  {
+   "brand": "Helio",
+   "device": "helio_23",
+   "model": "helio 23"
   }
  ],
  "helio_45": [
@@ -112097,6 +112151,13 @@
    "brand": "Hisense",
    "device": "x8u",
    "model": "HS-X8U"
+  }
+ ],
+ "Hisense": [
+  {
+   "brand": "Hisense",
+   "device": "Quartzite",
+   "model": "S6"
   }
  ],
  "Hisense  E7  Pro": [
@@ -117086,6 +117147,18 @@
    "model": "BKQ-N49"
   }
  ],
+ "HONOR Magic9 Lite+": [
+  {
+   "brand": "Honor",
+   "device": "HNBSN-Q1",
+   "model": "BSN-NX1M"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNBSN-Q1",
+   "model": "BSN-NX3"
+  }
+ ],
  "HONOR MagicPad2": [
   {
    "brand": "Honor",
@@ -117794,6 +117867,13 @@
    "brand": "Honor",
    "device": "HNBRP-Q1",
    "model": "BRP-NX1"
+  }
+ ],
+ "HONOR X9e Pro": [
+  {
+   "brand": "Honor",
+   "device": "HNBSN-Q1",
+   "model": "BSN-NX1"
   }
  ],
  "HONOR X9e s": [
@@ -137210,6 +137290,13 @@
   }
  ],
  "P10006L-OP": [
+  {
+   "brand": "Itel",
+   "device": "itel-P10006L",
+   "model": "itel P10006L"
+  }
+ ],
+ "P10006L-OP2": [
   {
    "brand": "Itel",
    "device": "itel-P10006L",
@@ -166348,6 +166435,13 @@
    "brand": "Lesia",
    "device": "FUTURE_10",
    "model": "FUTURE 10"
+  }
+ ],
+ "FUTURE_18_PRO": [
+  {
+   "brand": "Lesia",
+   "device": "FUTURE_18_PRO",
+   "model": "FUTURE_18_PRO"
   }
  ],
  "HOT_30": [
@@ -202034,6 +202128,13 @@
    "model": "CPH2931"
   }
  ],
+ "F35 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP62B7L1",
+   "model": "CPH2829"
+  }
+ ],
  "Find 5": [
   {
    "brand": "Oppo",
@@ -216778,6 +216879,13 @@
    "brand": "Pluzz",
    "device": "PLUZZ_PL5510",
    "model": "PLUZZ_PL5510"
+  }
+ ],
+ "MF52": [
+  {
+   "brand": "Point Mobile",
+   "device": "MF52",
+   "model": "MF52"
   }
  ],
  "MF52e": [
@@ -233362,6 +233470,11 @@
    "brand": "Ruio",
    "device": "ZIP_PLUS",
    "model": "RS2613"
+  },
+  {
+   "brand": "Ruio",
+   "device": "ZIP_PLUS",
+   "model": "Smart One"
   }
  ],
  "RT-1708": [
@@ -237648,6 +237761,13 @@
    "brand": "SVITOO",
    "device": "P108_T",
    "model": "P108_T"
+  }
+ ],
+ "P10R_EEA": [
+  {
+   "brand": "SVITOO",
+   "device": "P10_R",
+   "model": "P10_R"
   }
  ],
  "P10_A": [
@@ -277453,6 +277573,11 @@
    "brand": "TCL",
    "device": "Athena_Vision",
    "model": "9425X"
+  },
+  {
+   "brand": "TCL",
+   "device": "Athena_Vision_BN",
+   "model": "9426X"
   }
  ],
  "TCL TAB A1 Plus": [
@@ -318462,6 +318587,13 @@
    "model": "X4000"
   }
  ],
+ "XT1": [
+  {
+   "brand": "XTRA",
+   "device": "XT1",
+   "model": "XT1"
+  }
+ ],
  "XTCTR_201": [
   {
    "brand": "XTRAGEN",
@@ -339152,6 +339284,13 @@
    "model": "V2564A"
   }
  ],
+ "iQOO 16": [
+  {
+   "brand": "iQOO",
+   "device": "PD2606",
+   "model": "V2606A"
+  }
+ ],
  "iQOO Neo 10": [
   {
    "brand": "iQOO",
@@ -339183,6 +339322,13 @@
    "brand": "iQOO",
    "device": "PD2573",
    "model": "V2573A"
+  }
+ ],
+ "iQOO Pad Ultra": [
+  {
+   "brand": "iQOO",
+   "device": "DPD2605",
+   "model": "iPA2691"
   }
  ],
  "iQOO Pad5": [
@@ -343509,6 +343655,13 @@
    "model": "SpectraTab1"
   }
  ],
+ "Spectra_TAB": [
+  {
+   "brand": "spectramobile",
+   "device": "Spectra_TAB",
+   "model": "Spectra_TAB"
+  }
+ ],
  "myHome": [
   {
    "brand": "stc myhome",
@@ -344254,6 +344407,11 @@
    "brand": "vivo",
    "device": "PD2545",
    "model": "V2545A"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2559",
+   "model": "V2559"
   }
  ],
  "X200 FE": [
