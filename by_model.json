@@ -146903,6 +146903,13 @@
    "device": "MA4100"
   }
  ],
+ "MA8000": [
+  {
+   "brand": "Korea Telecom",
+   "name": "MA8000",
+   "device": "ma8000"
+  }
+ ],
  "MAR4510C": [
   {
    "brand": "Korea Telecom",
@@ -275864,7 +275871,28 @@
    "device": "XQ-FE"
   }
  ],
+ "A602SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 VIII",
+   "device": "XQ-GH"
+  }
+ ],
  "SO-52G": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 VIII",
+   "device": "XQ-GH"
+  }
+ ],
+ "SOG18": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 VIII",
+   "device": "XQ-GH"
+  }
+ ],
+ "XQ-GH44": [
   {
    "brand": "Sony",
    "name": "Xperia 10 VIII",

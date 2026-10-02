@@ -105648,6 +105648,11 @@
    "model": "MA4100"
   },
   {
+   "device": "ma8000",
+   "name": "MA8000",
+   "model": "MA8000"
+  },
+  {
    "device": "MAR4510C",
    "name": "MAR4510C",
    "model": "MAR4510C"
@@ -208915,7 +208920,22 @@
   {
    "device": "XQ-GH",
    "name": "Xperia 10 VIII",
+   "model": "A602SO"
+  },
+  {
+   "device": "XQ-GH",
+   "name": "Xperia 10 VIII",
    "model": "SO-52G"
+  },
+  {
+   "device": "XQ-GH",
+   "name": "Xperia 10 VIII",
+   "model": "SOG18"
+  },
+  {
+   "device": "XQ-GH",
+   "name": "Xperia 10 VIII",
+   "model": "XQ-GH44"
   },
   {
    "device": "XQ-GH",

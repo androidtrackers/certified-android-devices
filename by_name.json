@@ -147578,6 +147578,13 @@
    "model": "MA4100"
   }
  ],
+ "MA8000": [
+  {
+   "brand": "Korea Telecom",
+   "device": "ma8000",
+   "model": "MA8000"
+  }
+ ],
  "MAR4510C": [
   {
    "brand": "Korea Telecom",
@@ -267141,7 +267148,22 @@
   {
    "brand": "Sony",
    "device": "XQ-GH",
+   "model": "A602SO"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-GH",
    "model": "SO-52G"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-GH",
+   "model": "SOG18"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-GH",
+   "model": "XQ-GH44"
   },
   {
    "brand": "Sony",

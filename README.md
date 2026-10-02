@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-01
+Last sync is 2026-10-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20458,6 +20458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Korea Telecom|KSTB8000|KSTB8000|KSTB8000|
 |Korea Telecom|MA4000|MA4000|MA4000|
 |Korea Telecom|MA4100|MA4100|MA4100|
+|Korea Telecom|MA8000|ma8000|MA8000|
 |Korea Telecom|MAR4510C|MAR4510C|MAR4510C|
 |Korea Telecom|MAU4800D|mau4800d|MAU4800D|
 |Krik Krak|Freedom|Freedom|Freedom|
@@ -40637,7 +40638,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE44|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE54|
 |Sony|Xperia 10 VII|XQ-FE|XQ-FE72|
+|Sony|Xperia 10 VIII|XQ-GH|A602SO|
 |Sony|Xperia 10 VIII|XQ-GH|SO-52G|
+|Sony|Xperia 10 VIII|XQ-GH|SOG18|
+|Sony|Xperia 10 VIII|XQ-GH|XQ-GH44|
 |Sony|Xperia 10 VIII|XQ-GH|XQ-GH54|
 |Sony|Xperia 10 VIII|XQ-GH|XQ-GH74|
 |Sony|Xperia 5|901SO|901SO|
