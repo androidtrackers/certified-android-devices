@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-02
+Last sync is 2026-10-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2555,6 +2555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|GAP YOQ|GAP_YOQ|GAP YOQ|
 |Artel|GAPYOQ|GAPYOQ|GAP|
 |Artel|R3|R3|R3|
+|Artel|R3GS|R3GS|R3GS|
 |Artel|R3_GTV|R3_GTV|R3G|
 |Artel|R4|R4|R4|
 |Artel|R4_GTV|R4_GTV|R4G|
@@ -3506,6 +3507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLACKLINE|PHD20|PHD20|PHD20|
 |BLACKLINE|R10G|R10G|R10G|
 |BLACKLINE|R3|R3|R3|
+|BLACKLINE|R3GS|R3GS|R3GS|
 |BLACKLINE|R3_GTV|R3_GTV|R3G|
 |BLACKLINE|R4|R4|R4|
 |BLACKLINE|R4_GTV|R4_GTV|R4G|
@@ -17850,6 +17852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Imi Tech|M88|M88|M88|
 |Imi Tech|Vin6|Vin6|Vin6|
 |Impecca|ET7050D|ET7050D|ET7050D|
+|Imperial|R3GS|R3GS|R3GS|
 |Imperial|R3_GTV|R3_GTV|R3G|
 |Imperial|R4_GTV|R4_GTV|R4G|
 |Impression|ImPAD_P101|ImPAD_P101|ImPAD_P101|
@@ -20022,6 +20025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Klic|SA|K4-02 4G|
 |Kalley|R10G|R10G|R10G|
 |Kalley|R3|R3|R3|
+|Kalley|R3GS|R3GS|R3GS|
 |Kalley|R3_GTV|R3_GTV|R3G|
 |Kalley|R4|R4|R4|
 |Kalley|R4_GTV|R4_GTV|R4G|
@@ -28361,6 +28365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nikkei|NI32HG7NA9|ikebukuro|AI PONT|
 |Nikkei|NI43UG7NA9|samseong|AI PONT|
 |Nikkei|R3|R3|R3|
+|Nikkei|R3GS|R3GS|R3GS|
 |Nikkei|R4|R4|R4|
 |Nikkei|Smart TV|osaka|AI PONT|
 |Nikon|COOLPIX|S800c|COOLPIX S800c|
@@ -29117,6 +29122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olike|E1|E1|E1|
 |Olike|E3|E3|E3|
 |Olimpo|R3|R3|R3|
+|Olimpo|R3GS|R3GS|R3GS|
 |Olimpo|R3_GTV|R3_GTV|R3G|
 |Olimpo|R4|R4|R4|
 |Olimpo|R4_GTV|R4_GTV|R4G|
@@ -30888,6 +30894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET_11081_H428S_EEA|PET_11081_H428S|PET_11081_H428S|
 |PEAQ|PET_8040_H464S|PET_8040_H464S|PET_8040_H464S|
 |PEAQ|PGS1000|MKZ|PGS1000|
+|PEAQ|R3GS|R3GS|R3GS|
 |PEAQ|R4_GTV|R4_GTV|R4G|
 |PEAQ|Smart TV|alimos|AI PONT|
 |PEAQ|Smart TV|alimos|AI PONT IT|
@@ -32265,6 +32272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polytron|PRIME T8|POLYTRON_R255B|R255B|
 |Polytron|Polytron 2K AI Smart TV|osaki|2K AI Smart TV|
 |Polytron|R10G|R10G|POLYTRON4K|
+|Polytron|R3GS|R3GS|POLYTRON 2K|
 |Polytron|Smart TV|mateo|2K PA Smart TV|
 |Polytron|T7001|T7001|T7001|
 |Polytron|T8001|T8001|T8001|
@@ -39821,6 +39829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen SEI Robotics|primetime TV|SEID00PTTV|primetime TV|
 |Shiarffe|Global|t7_an400|X5|
 |Shiarffe|Smart_Board|rk3588_t|SKIEDLA65|
+|Shivaki|R3GS|R3GS|R3GS|
 |Shivaki|R3_GTV|R3_GTV|R3G|
 |Shivaki|R4_GTV|R4_GTV|R4G|
 |Shuodum|X50_15EEA|X50_15EEA|X50_15EEA|
@@ -42056,6 +42065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Percee TV|tcl_sa|Percee TV|
 |TCL|ProjectorC1|himalaya|ProjectorC1|
 |TCL|R3|R3|R3|
+|TCL|R3GS|R3GS|R3GS|
 |TCL|R3_GTV|R3_GTV|R3G|
 |TCL|R4|R4|R4|
 |TCL|R4_GTV|R4_GTV|R4G|

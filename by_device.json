@@ -31639,6 +31639,63 @@
    "model": "GAP"
   }
  ],
+ "R3GS": [
+  {
+   "brand": "Artel",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "BLACKLINE",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "Imperial",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "Kalley",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "Olimpo",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "PEAQ",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "Polytron",
+   "name": "R3GS",
+   "model": "POLYTRON 2K"
+  },
+  {
+   "brand": "Sharp",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "Shivaki",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
+   "brand": "TCL",
+   "name": "R3GS",
+   "model": "R3GS"
+  }
+ ],
  "Starpad": [
   {
    "brand": "Artel",
@@ -262898,13 +262955,6 @@
    "brand": "Sharp",
    "name": "Q-pot.Phone SH-04D",
    "model": "SH-04D"
-  }
- ],
- "R3GS": [
-  {
-   "brand": "Sharp",
-   "name": "R3GS",
-   "model": "R3GS"
   }
  ],
  "STTM21VAPP": [

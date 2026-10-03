@@ -25867,6 +25867,58 @@
    "device": "GAPYOQ"
   }
  ],
+ "R3GS": [
+  {
+   "brand": "Artel",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "BLACKLINE",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "Imperial",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "Kalley",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "Olimpo",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "PEAQ",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "Sharp",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "Shivaki",
+   "name": "R3GS",
+   "device": "R3GS"
+  },
+  {
+   "brand": "TCL",
+   "name": "R3GS",
+   "device": "R3GS"
+  }
+ ],
  "Starpad_T-181": [
   {
    "brand": "Artel",
@@ -96963,6 +97015,11 @@
    "brand": "HKC Elec",
    "name": "Google TV",
    "device": "nagai"
+  },
+  {
+   "brand": "Polytron",
+   "name": "R3GS",
+   "device": "R3GS"
   }
  ],
  "4K 9676 Google TV": [
@@ -270129,13 +270186,6 @@
    "brand": "Sharp",
    "name": "Q-pot.Phone SH-04D",
    "device": "SH04D"
-  }
- ],
- "R3GS": [
-  {
-   "brand": "Sharp",
-   "name": "R3GS",
-   "device": "R3GS"
   }
  ],
  "R4-SH": [

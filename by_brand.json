@@ -13261,6 +13261,11 @@
    "model": "R3"
   },
   {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
    "device": "R3_GTV",
    "name": "R3_GTV",
    "model": "R3G"
@@ -18162,6 +18167,11 @@
    "device": "R3",
    "name": "R3",
    "model": "R3"
+  },
+  {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
   },
   {
    "device": "R3_GTV",
@@ -92194,6 +92204,11 @@
  ],
  "Imperial": [
   {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
    "device": "R3_GTV",
    "name": "R3_GTV",
    "model": "R3G"
@@ -103382,6 +103397,11 @@
    "device": "R3",
    "name": "R3",
    "model": "R3"
+  },
+  {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
   },
   {
    "device": "R3_GTV",
@@ -146167,6 +146187,11 @@
    "model": "R3"
   },
   {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
    "device": "R4",
    "name": "R4",
    "model": "R4"
@@ -150123,6 +150148,11 @@
    "device": "R3",
    "name": "R3",
    "model": "R3"
+  },
+  {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
   },
   {
    "device": "R3_GTV",
@@ -159094,6 +159124,11 @@
    "model": "PGS1000"
   },
   {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
    "device": "R4_GTV",
    "name": "R4_GTV",
    "model": "R4G"
@@ -166177,6 +166212,11 @@
    "device": "R10G",
    "name": "R10G",
    "model": "POLYTRON4K"
+  },
+  {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "POLYTRON 2K"
   },
   {
    "device": "mateo",
@@ -204697,6 +204737,11 @@
  ],
  "Shivaki": [
   {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
+  },
+  {
    "device": "R3_GTV",
    "name": "R3_GTV",
    "model": "R3G"
@@ -216196,6 +216241,11 @@
    "device": "R3",
    "name": "R3",
    "model": "R3"
+  },
+  {
+   "device": "R3GS",
+   "name": "R3GS",
+   "model": "R3GS"
   },
   {
    "device": "R3_GTV",
