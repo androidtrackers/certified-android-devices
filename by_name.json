@@ -75310,6 +75310,13 @@
    "model": "TS_M103A"
   }
  ],
+ "DOCOMO KS-6100": [
+  {
+   "brand": "Docomo",
+   "device": "KSTB6175",
+   "model": "KS-6100"
+  }
+ ],
  "F-06F": [
   {
    "brand": "Docomo",
@@ -226905,6 +226912,13 @@
    "model": "Space_M10Pro"
   }
  ],
+ "NP06J": [
+  {
+   "brand": "REDMAGIC",
+   "device": "PQ85P01_A",
+   "model": "NP06J"
+  }
+ ],
  "NX799J": [
   {
    "brand": "REDMAGIC",
@@ -243524,6 +243538,13 @@
    "brand": "Samsung",
    "device": "f62",
    "model": "SM-E625F"
+  }
+ ],
+ "Galaxy F70 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a17x",
+   "model": "SM-E176E"
   }
  ],
  "Galaxy F70e 5G": [
@@ -329502,6 +329523,13 @@
    "model": "Z2581"
   }
  ],
+ "Z2582": [
+  {
+   "brand": "ZTE",
+   "device": "P615F04",
+   "model": "Z2582"
+  }
+ ],
  "Z3153V": [
   {
    "brand": "ZTE",
@@ -330745,6 +330773,13 @@
    "brand": "ZTE",
    "device": "Z6556O",
    "model": "ZTE A71 5G"
+  }
+ ],
+ "ZTE A77 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P780F08",
+   "model": "Z2586N"
   }
  ],
  "ZTE AVID 4": [
@@ -332236,6 +332271,13 @@
    "model": "ZTE V1050"
   }
  ],
+ "ZTE V80 Vita": [
+  {
+   "brand": "ZTE",
+   "device": "P620F02",
+   "model": "Z2575"
+  }
+ ],
  "ZTE V890": [
   {
    "brand": "ZTE",
@@ -332596,6 +332638,13 @@
    "brand": "ZTE",
    "device": "P830F01",
    "model": "Z2571N"
+  }
+ ],
+ "nubia Neo 5 Max": [
+  {
+   "brand": "ZTE",
+   "device": "P658F01",
+   "model": "Z2572N"
   }
  ],
  "nubia Neo 5G": [

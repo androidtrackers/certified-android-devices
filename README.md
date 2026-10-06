@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-05
+Last sync is 2026-10-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8837,6 +8837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dixon|TS-M704F-1|TS-M704F-1|TS-M704F-1|
 |Dixon|TS-M704G|TS-M704G|TS-M704G|
 |Dixon|TS_M103A|TS_M103A|TS_M103A|
+|Docomo|DOCOMO KS-6100|KSTB6175|KS-6100|
 |Docomo|F-06F|F06F|F-06F|
 |Docomo|Japan|TT01|TT01|
 |Docomo|MEDIAS TAB UL N-08D|N-08D|N-08D|
@@ -33719,6 +33720,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDLINE|Space_A18|Space_A8|Space_A8|
 |REDLINE|Space_M10|Space_M10|Space_M10|
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
+|REDMAGIC|NP06J|PQ85P01_A|NP06J|
 |REDMAGIC|NX799J|NX799J|NX799J|
 |REDMAGIC|REDMAGIC 11 Pro+|NX809J|NX809J|
 |REDMAGIC|红魔11 Air|NX799J|NX799J|
@@ -36522,6 +36524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F55 5G|m55xq|SM-E556B|
 |Samsung|Galaxy F56 5G|m56x|SM-E566B|
 |Samsung|Galaxy F62|f62|SM-E625F|
+|Samsung|Galaxy F70 5G|a17x|SM-E176E|
 |Samsung|Galaxy F70e 5G|a07x|SM-E076B|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
@@ -51426,6 +51429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2577|P615F02|Z2577|
 |ZTE|Z2577|P615F02_A|Z2577|
 |ZTE|Z2581|P615F03|Z2581|
+|ZTE|Z2582|P615F04|Z2582|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z3352CA|Z3352CA|Z3352CA|
@@ -51607,6 +51611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A7040|P606F01|ZTE A7040|
 |ZTE|ZTE A7050|P606F05|ZTE A7050|
 |ZTE|ZTE A71 5G|Z6556O|ZTE A71 5G|
+|ZTE|ZTE A77 5G|P780F08|Z2586N|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Avid 579|Z5156|Z5156CC|
@@ -51834,6 +51839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE V0920|P840S03|ZTE V0920|
 |ZTE|ZTE V1000|P671S20|ZTE V1000|
 |ZTE|ZTE V1050|P671S50|ZTE V1050|
+|ZTE|ZTE V80 Vita|P620F02|Z2575|
 |ZTE|ZTE V890|sdm660_64|ZTE V890|
 |ZTE|ZTE X1010|P310T10|ZTE X1010|
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
@@ -51889,6 +51895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia Neo 3 5G|P780F01|Z2464N|
 |ZTE|nubia Neo 3 GT 5G|Z7606O|Z2465N|
 |ZTE|nubia Neo 5 5G|P830F01|Z2571N|
+|ZTE|nubia Neo 5 Max|P658F01|Z2572N|
 |ZTE|nubia Neo 5G|P720F03_A|nubia 8150N|
 |ZTE|nubia Pad 3D|LumePad|LPD-20W|
 |ZTE|nubia Pad 3D II|K68|NP02J|
