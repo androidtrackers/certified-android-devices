@@ -8293,6 +8293,11 @@
    "model": "Smart UHD TV"
   },
   {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 18 Pro",
+   "model": "M610BB"
+  },
+  {
    "brand": "thehaam",
    "name": "THEHAAM",
    "model": "4K SMART TV"
@@ -26436,6 +26441,42 @@
    "brand": "XENON",
    "name": "PHILIPPINES",
    "model": "XENON ANDROID TV"
+  }
+ ],
+ "Amazon Kids Tablet 11": [
+  {
+   "brand": "Amazon",
+   "name": "Alexa Tablet 11",
+   "model": "turquoise"
+  }
+ ],
+ "spinel": [
+  {
+   "brand": "Amazon",
+   "name": "Alexa Tablet 12 Pro",
+   "model": "ATSPUWI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15",
+   "model": "2510DRA23E"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15",
+   "model": "2510DRA23G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 15",
+   "model": "2510DRA23L"
+  }
+ ],
+ "Amazon Kids Tablet 8": [
+  {
+   "brand": "Amazon",
+   "name": "Alexa Tablet 8",
+   "model": "roselite"
   }
  ],
  "Smart_Whiteboard": [
@@ -57564,6 +57605,13 @@
    "model": "SMART PRO 12"
   }
  ],
+ "Cpad_10": [
+  {
+   "brand": "Callsky-tab",
+   "name": "Cpad_10",
+   "model": "Cpad_10"
+  }
+ ],
  "e720": [
   {
    "brand": "Caltta",
@@ -71808,6 +71856,13 @@
    "brand": "DMOAO",
    "name": "D2_US",
    "model": "D2_US"
+  }
+ ],
+ "D3_C": [
+  {
+   "brand": "DMOAO",
+   "name": "D3_C",
+   "model": "D3_C"
   }
  ],
  "D3_E": [
@@ -88500,6 +88555,18 @@
    "model": "F100"
   }
  ],
+ "F20": [
+  {
+   "brand": "FEITIAN",
+   "name": "F20",
+   "model": "F20"
+  },
+  {
+   "brand": "ORBYS",
+   "name": "F20",
+   "model": "F20"
+  }
+ ],
  "F310P": [
   {
    "brand": "FEITIAN",
@@ -101563,6 +101630,11 @@
   {
    "brand": "H3Cmagic",
    "name": "M8781A_EU",
+   "model": "M8781A"
+  },
+  {
+   "brand": "H3Cmagic",
+   "name": "M8781A_TK",
    "model": "M8781A"
   }
  ],
@@ -129647,6 +129719,13 @@
    "model": "HT8WB1RBK03"
   }
  ],
+ "HT8WC1RBK01KB03": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WC1RBK01KB03",
+   "model": "8WC1"
+  }
+ ],
  "HY1_5085": [
   {
    "brand": "Hyundai",
@@ -149355,6 +149434,13 @@
    "brand": "LANDI",
    "name": "M10SE",
    "model": "M10SE"
+  }
+ ],
+ "M20Plus-G-00": [
+  {
+   "brand": "LANDI",
+   "name": "M20PlusN00",
+   "model": "M20 Plus"
   }
  ],
  "M20SE": [
@@ -180539,6 +180625,13 @@
    "model": "Mintt__Digi__2"
   }
  ],
+ "MINTT_P26PLUS": [
+  {
+   "brand": "Mintt",
+   "name": "MINTT_P26PLUS",
+   "model": "MINTT P26+"
+  }
+ ],
  "MINTT_PRIME_S11": [
   {
    "brand": "Mintt",
@@ -199248,13 +199341,6 @@
    "model": "OPEN_PRO"
   }
  ],
- "F20": [
-  {
-   "brand": "ORBYS",
-   "name": "F20",
-   "model": "F20"
-  }
- ],
  "F21": [
   {
    "brand": "ORBYS",
@@ -211929,6 +212015,11 @@
    "brand": "Redmi",
    "name": "REDMI 17C 5G",
    "model": "2607FRNEAG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17C 5G",
+   "model": "2607FRNEAI"
   },
   {
    "brand": "Redmi",
@@ -229875,23 +229966,6 @@
    "model": "25060RK16C"
   }
  ],
- "spinel": [
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15",
-   "model": "2510DRA23E"
-  },
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15",
-   "model": "2510DRA23G"
-  },
-  {
-   "brand": "Redmi",
-   "name": "REDMI Note 15",
-   "model": "2510DRA23L"
-  }
- ],
  "charoite": [
   {
    "brand": "Redmi",
@@ -234641,6 +234715,13 @@
    "model": "K13-US"
   }
  ],
+ "K13_E": [
+  {
+   "brand": "SKYEGG",
+   "name": "K13_E",
+   "model": "K13_E"
+  }
+ ],
  "K13_EEA": [
   {
    "brand": "SKYEGG",
@@ -236752,6 +236833,13 @@
    "brand": "SUAAT",
    "name": "S10_V_US",
    "model": "S10_V_US"
+  }
+ ],
+ "S11_E": [
+  {
+   "brand": "SUAAT",
+   "name": "S11_E",
+   "model": "S11_E"
   }
  ],
  "S11_V_EEA": [
@@ -276375,6 +276463,13 @@
    "model": "W90"
   }
  ],
+ "GSIT8TAC": [
+  {
+   "brand": "TACTIVIS",
+   "name": "GSIT8TAC",
+   "model": "GSIT8TAC"
+  }
+ ],
  "TADI_TOUCH_1": [
   {
    "brand": "TADI",
@@ -286764,6 +286859,13 @@
    "model": "ZIDS_701"
   }
  ],
+ "ZIDS_701_US": [
+  {
+   "brand": "TOPELOTEK",
+   "name": "ZIDS_701_US",
+   "model": "ZIDS_701"
+  }
+ ],
  "PNC450": [
   {
    "brand": "TOPJOY",
@@ -297124,6 +297226,13 @@
    "brand": "UJJ(SZ)",
    "name": "U7_US",
    "model": "U7_US"
+  }
+ ],
+ "U8_C": [
+  {
+   "brand": "UJJ(SZ)",
+   "name": "U8_C",
+   "model": "U8_C"
   }
  ],
  "U8_E": [
@@ -316734,6 +316843,13 @@
    "model": "A60"
   }
  ],
+ "A80PRO": [
+  {
+   "brand": "Wintouch",
+   "name": "A80PRO",
+   "model": "A80PRO"
+  }
+ ],
  "K19": [
   {
    "brand": "Wintouch",
@@ -319993,6 +320109,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 18 Fold",
    "model": "2608BPX34C"
+  }
+ ],
+ "madrid": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 18 Pro Max",
+   "model": "M154FF"
   }
  ],
  "zijin": [
@@ -336125,6 +336248,13 @@
    "brand": "fezawio",
    "name": "F12_EEA",
    "model": "F12_EEA"
+  }
+ ],
+ "F12_E_EEA": [
+  {
+   "brand": "fezawio",
+   "name": "F12_E_EEA",
+   "model": "F12_E"
   }
  ],
  "F12_US": [

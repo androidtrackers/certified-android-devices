@@ -9905,6 +9905,23 @@
    "model": "Altus Android TV"
   }
  ],
+ "Amazon": [
+  {
+   "device": "Amazon Kids Tablet 11",
+   "name": "Alexa Tablet 11",
+   "model": "turquoise"
+  },
+  {
+   "device": "spinel",
+   "name": "Alexa Tablet 12 Pro",
+   "model": "ATSPUWI"
+  },
+  {
+   "device": "Amazon Kids Tablet 8",
+   "name": "Alexa Tablet 8",
+   "model": "roselite"
+  }
+ ],
  "Amdox": [
   {
    "device": "Smart_Whiteboard",
@@ -31152,6 +31169,13 @@
    "model": "SMART PRO 12"
   }
  ],
+ "Callsky-tab": [
+  {
+   "device": "Cpad_10",
+   "name": "Cpad_10",
+   "model": "Cpad_10"
+  }
+ ],
  "Caltta": [
   {
    "device": "e720",
@@ -41430,6 +41454,11 @@
    "device": "D2_US",
    "name": "D2_US",
    "model": "D2_US"
+  },
+  {
+   "device": "D3_C",
+   "name": "D3_C",
+   "model": "D3_C"
   },
   {
    "device": "D3_E",
@@ -54588,6 +54617,11 @@
    "model": "F100"
   },
   {
+   "device": "F20",
+   "name": "F20",
+   "model": "F20"
+  },
+  {
    "device": "F310P",
    "name": "F310 P",
    "model": "F310P"
@@ -64831,6 +64865,11 @@
   {
    "device": "M8781A",
    "name": "M8781A_EU",
+   "model": "M8781A"
+  },
+  {
+   "device": "M8781A",
+   "name": "M8781A_TK",
    "model": "M8781A"
   }
  ],
@@ -89329,6 +89368,11 @@
    "model": "HT8WB1RBK03"
   },
   {
+   "device": "HT8WC1RBK01KB03",
+   "name": "HT8WC1RBK01KB03",
+   "model": "8WC1"
+  },
+  {
    "device": "HY1_5085",
    "name": "HY1-5085",
    "model": "HY1-5085"
@@ -107304,6 +107348,11 @@
    "device": "M20",
    "name": "M20",
    "model": "M20"
+  },
+  {
+   "device": "M20Plus-G-00",
+   "name": "M20PlusN00",
+   "model": "M20 Plus"
   },
   {
    "device": "M20SE",
@@ -133066,6 +133115,11 @@
    "device": "MINTT_DIGI_2",
    "name": "MINTT_DIGI_2",
    "model": "Mintt__Digi__2"
+  },
+  {
+   "device": "MINTT_P26PLUS",
+   "name": "MINTT_P26PLUS",
+   "model": "MINTT P26+"
   },
   {
    "device": "MINTT_PRIME_S11",
@@ -175263,6 +175317,11 @@
    "model": "2607FRNEAG"
   },
   {
+   "device": "tornado",
+   "name": "REDMI 17C 5G",
+   "model": "2607FRNEAI"
+  },
+  {
    "device": "serenity",
    "name": "REDMI A7",
    "model": "26020RNB4A"
@@ -180484,6 +180543,11 @@
    "model": "K13-US"
   },
   {
+   "device": "K13_E",
+   "name": "K13_E",
+   "model": "K13_E"
+  },
+  {
    "device": "K13_EEA",
    "name": "K13_EEA",
    "model": "K13_EEA"
@@ -182296,6 +182360,11 @@
    "device": "S10_V_US",
    "name": "S10_V_US",
    "model": "S10_V_US"
+  },
+  {
+   "device": "S11_E",
+   "name": "S11_E",
+   "model": "S11_E"
   },
   {
    "device": "S11_V_EEA",
@@ -215714,6 +215783,13 @@
    "model": "W90"
   }
  ],
+ "TACTIVIS": [
+  {
+   "device": "GSIT8TAC",
+   "name": "GSIT8TAC",
+   "model": "GSIT8TAC"
+  }
+ ],
  "TADI": [
   {
    "device": "TADI_TOUCH_1",
@@ -225892,6 +225968,11 @@
    "device": "ZIDS_701",
    "name": "ZIDS_701",
    "model": "ZIDS_701"
+  },
+  {
+   "device": "ZIDS_701_US",
+   "name": "ZIDS_701_US",
+   "model": "ZIDS_701"
   }
  ],
  "TOPJOY": [
@@ -235096,6 +235177,11 @@
    "device": "U7_US",
    "name": "U7_US",
    "model": "U7_US"
+  },
+  {
+   "device": "U8_C",
+   "name": "U8_C",
+   "model": "U8_C"
   },
   {
    "device": "U8_E",
@@ -252396,6 +252482,11 @@
    "model": "A80"
   },
   {
+   "device": "A80PRO",
+   "name": "A80PRO",
+   "model": "A80PRO"
+  },
+  {
    "device": "K19",
    "name": "K19",
    "model": "K19"
@@ -255502,6 +255593,16 @@
    "device": "lhasa",
    "name": "Xiaomi 18 Fold",
    "model": "2608BPX34C"
+  },
+  {
+   "device": "hongkong",
+   "name": "Xiaomi 18 Pro",
+   "model": "M610BB"
+  },
+  {
+   "device": "madrid",
+   "name": "Xiaomi 18 Pro Max",
+   "model": "M154FF"
   },
   {
    "device": "mona",
@@ -270194,6 +270295,11 @@
    "device": "F12_EEA",
    "name": "F12_EEA",
    "model": "F12_EEA"
+  },
+  {
+   "device": "F12_E_EEA",
+   "name": "F12_E_EEA",
+   "model": "F12_E"
   },
   {
    "device": "F12_US",

@@ -21008,6 +21008,27 @@
    "device": "marina"
   }
  ],
+ "turquoise": [
+  {
+   "brand": "Amazon",
+   "name": "Alexa Tablet 11",
+   "device": "Amazon Kids Tablet 11"
+  }
+ ],
+ "ATSPUWI": [
+  {
+   "brand": "Amazon",
+   "name": "Alexa Tablet 12 Pro",
+   "device": "spinel"
+  }
+ ],
+ "roselite": [
+  {
+   "brand": "Amazon",
+   "name": "Alexa Tablet 8",
+   "device": "Amazon Kids Tablet 8"
+  }
+ ],
  "AME_QT08UM": [
   {
    "brand": "Amdox",
@@ -50855,6 +50876,13 @@
    "device": "Ctab_12"
   }
  ],
+ "Cpad_10": [
+  {
+   "brand": "Callsky-tab",
+   "name": "Cpad_10",
+   "device": "Cpad_10"
+  }
+ ],
  "e720": [
   {
    "brand": "Caltta",
@@ -64837,6 +64865,13 @@
    "brand": "DMOAO",
    "name": "D2_US",
    "device": "D2_US"
+  }
+ ],
+ "D3_C": [
+  {
+   "brand": "DMOAO",
+   "name": "D3_C",
+   "device": "D3_C"
   }
  ],
  "D3_E": [
@@ -82204,6 +82239,23 @@
    "device": "GIONEE_GBL7358"
   }
  ],
+ "F20": [
+  {
+   "brand": "FEITIAN",
+   "name": "F20",
+   "device": "F20"
+  },
+  {
+   "brand": "Hisense",
+   "name": "F20",
+   "device": "HS8909QC"
+  },
+  {
+   "brand": "ORBYS",
+   "name": "F20",
+   "device": "F20"
+  }
+ ],
  "F310P": [
   {
    "brand": "FEITIAN",
@@ -95717,6 +95769,11 @@
    "brand": "H3Cmagic",
    "name": "M8781A_EU",
    "device": "M8781A"
+  },
+  {
+   "brand": "H3Cmagic",
+   "name": "M8781A_TK",
+   "device": "M8781A"
   }
  ],
  "MINTAKA": [
@@ -107447,18 +107504,6 @@
    "brand": "Hisense",
    "name": "F102",
    "device": "HS6737MT"
-  }
- ],
- "F20": [
-  {
-   "brand": "Hisense",
-   "name": "F20",
-   "device": "HS8909QC"
-  },
-  {
-   "brand": "ORBYS",
-   "name": "F20",
-   "device": "F20"
   }
  ],
  "Hisense F20": [
@@ -127652,6 +127697,18 @@
    "device": "HT8WB1RBK03"
   }
  ],
+ "8WC1": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WC1RBK01KB03",
+   "device": "HT8WC1RBK01KB03"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Koral",
+   "device": "Koral_8WC1"
+  }
+ ],
  "HY1-5085": [
   {
    "brand": "Hyundai",
@@ -128125,13 +128182,6 @@
    "brand": "Hyundai",
    "name": "Koral",
    "device": "Koral_7WD1"
-  }
- ],
- "8WC1": [
-  {
-   "brand": "Hyundai",
-   "name": "Koral",
-   "device": "Koral_8WC1"
   }
  ],
  "HT1003W16": [
@@ -149090,6 +149140,13 @@
    "brand": "LANDI",
    "name": "M10SE",
    "device": "M10SE"
+  }
+ ],
+ "M20 Plus": [
+  {
+   "brand": "LANDI",
+   "name": "M20PlusN00",
+   "device": "M20Plus-G-00"
   }
  ],
  "M20SE": [
@@ -182012,6 +182069,13 @@
    "brand": "Mintt",
    "name": "MINTT_DIGI_2",
    "device": "MINTT_DIGI_2"
+  }
+ ],
+ "MINTT P26+": [
+  {
+   "brand": "Mintt",
+   "name": "MINTT_P26PLUS",
+   "device": "MINTT_P26PLUS"
   }
  ],
  "MINTT PRIME S11": [
@@ -232523,6 +232587,13 @@
    "device": "tornado"
   }
  ],
+ "2607FRNEAI": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI 17C 5G",
+   "device": "tornado"
+  }
+ ],
  "26020RNB4A": [
   {
    "brand": "Redmi",
@@ -238416,6 +238487,13 @@
    "device": "K13-U-US"
   }
  ],
+ "K13_E": [
+  {
+   "brand": "SKYEGG",
+   "name": "K13_E",
+   "device": "K13_E"
+  }
+ ],
  "K13_EEA": [
   {
    "brand": "SKYEGG",
@@ -240594,6 +240672,13 @@
    "brand": "SUAAT",
    "name": "S10_V_US",
    "device": "S10_V_US"
+  }
+ ],
+ "S11_E": [
+  {
+   "brand": "SUAAT",
+   "name": "S11_E",
+   "device": "S11_E"
   }
  ],
  "S11_V_EEA": [
@@ -283862,6 +283947,13 @@
    "device": "W90"
   }
  ],
+ "GSIT8TAC": [
+  {
+   "brand": "TACTIVIS",
+   "name": "GSIT8TAC",
+   "device": "GSIT8TAC"
+  }
+ ],
  "TADI_TOUCH_1": [
   {
    "brand": "TADI",
@@ -297032,6 +297124,11 @@
    "brand": "TOPELOTEK",
    "name": "ZIDS_701",
    "device": "ZIDS_701"
+  },
+  {
+   "brand": "TOPELOTEK",
+   "name": "ZIDS_701_US",
+   "device": "ZIDS_701_US"
   }
  ],
  "PNC450": [
@@ -307991,6 +308088,13 @@
    "brand": "UJJ(SZ)",
    "name": "U7_US",
    "device": "U7_US"
+  }
+ ],
+ "U8_C": [
+  {
+   "brand": "UJJ(SZ)",
+   "name": "U8_C",
+   "device": "U8_C"
   }
  ],
  "U8_E": [
@@ -328525,6 +328629,13 @@
    "device": "A20"
   }
  ],
+ "A80PRO": [
+  {
+   "brand": "Wintouch",
+   "name": "A80PRO",
+   "device": "A80PRO"
+  }
+ ],
  "K19": [
   {
    "brand": "Wintouch",
@@ -332369,6 +332480,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 18 Fold",
    "device": "lhasa"
+  }
+ ],
+ "M610BB": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 18 Pro",
+   "device": "hongkong"
+  }
+ ],
+ "M154FF": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 18 Pro Max",
+   "device": "madrid"
   }
  ],
  "2109119BC": [
@@ -350502,6 +350627,13 @@
    "brand": "fezawio",
    "name": "F12_EEA",
    "device": "F12_EEA"
+  }
+ ],
+ "F12_E": [
+  {
+   "brand": "fezawio",
+   "name": "F12_E_EEA",
+   "device": "F12_E_EEA"
   }
  ],
  "F12_US": [

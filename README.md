@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-07
+Last sync is 2026-10-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1899,6 +1899,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altus|Altus UHD Android TV|kunyang|UHD Pro TV|
 |Altus|Altus UHD Pro TV|marina|Altus UHD Pro TV|
 |Altus|Turkey|martin|Altus Android TV|
+|Amazon|Alexa Tablet 11|Amazon Kids Tablet 11|turquoise|
+|Amazon|Alexa Tablet 12 Pro|spinel|ATSPUWI|
+|Amazon|Alexa Tablet 8|Amazon Kids Tablet 8|roselite|
 |Amdox|AME_QT08UM|Smart_Whiteboard|AME_QT08UM|
 |Amdox|EP-01|EP-01|EP-01|
 |Amdox|X086AF|rk3588_t|X086AF|
@@ -6014,6 +6017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Callsky|Cpad10|Cpad10|Cpad10|
 |Callsky|Ctab_12|Ctab_12|Ctab 12|
 |Callsky|Ctab_12|Ctab_12|SMART PRO 12|
+|Callsky-tab|Cpad_10|Cpad_10|Cpad_10|
 |Caltta|e720|e720|e720|
 |Camelus|L10|TR-10HBT|L10|
 |Camelus|L7|TR-7U|L7|
@@ -8002,6 +8006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DMOAO|D11_EEA|D11_EEA|D11_EEA|
 |DMOAO|D2_EEA|D2_EEA|D2_EEA|
 |DMOAO|D2_US|D2_US|D2_US|
+|DMOAO|D3_C|D3_C|D3_C|
 |DMOAO|D3_E|D3_E|D3_E|
 |DMOAO|D3_EEA|D3_EEA|D3_EEA|
 |DMOAO|D3_EU|D3_EU|D3_EU|
@@ -10510,6 +10515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEC|XX-X15X|XX-X15X|XX-X15X|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
+|FEITIAN|F20|F20|F20|
 |FEITIAN|F310 P|F310P|F310P|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FELUX|X-ONE|X-ONE|X-ONE|
@@ -12470,6 +12476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |H3Cmagic|M8781|M8781|M8781|
 |H3Cmagic|M8781A|M8781A|M8781A|
 |H3Cmagic|M8781A_EU|M8781A|M8781A|
+|H3Cmagic|M8781A_TK|M8781A|M8781A|
 |H819E|MINTAKA|MINTAKA|MINTAKA|
 |HAAM|HAAM TV 4K|eleonas|HAAM TV 4K|
 |HAAM|HAAM TV 4K FF|eleonas|HAAM TV 4K FF|
@@ -17307,6 +17314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT8WB1RBK02A|HT8WB1RBK02A|HT8WB1RBK02A|
 |Hyundai|HT8WB1RBK02_12|HT8WB1RBK02_12|8WB1|
 |Hyundai|HT8WB1RBK03|HT8WB1RBK03|HT8WB1RBK03|
+|Hyundai|HT8WC1RBK01KB03|HT8WC1RBK01KB03|8WC1|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYLine_Plus|57PB1|57PB1|
@@ -20782,6 +20790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LANDI|K20ProN00|K20Pro-G-00|K20 Pro|
 |LANDI|M10SE|M10SE|M10SE|
 |LANDI|M20|M20|M20|
+|LANDI|M20PlusN00|M20Plus-G-00|M20 Plus|
 |LANDI|M20SE|M20SE|M20SE|
 |LANDI|M50SEN00|M50SE-G-00|M50SE|
 |LANDI|P30TN00|P30T-G-00|P30 Tablet|
@@ -25816,6 +25825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|MINTT-DIGI|MINTT-DIGI|MINTT-DIGI|
 |Mintt|MINTT_ASPIRE_X9|MINTT_ASPIRE_X9|MINTT ASPIRE X9|
 |Mintt|MINTT_DIGI_2|MINTT_DIGI_2|Mintt__Digi__2|
+|Mintt|MINTT_P26PLUS|MINTT_P26PLUS|MINTT P26+|
 |Mintt|MINTT_PRIME_S11|MINTT_PRIME_S11|MINTT PRIME S11|
 |Mintt|MINTT_T11|MINTT_T11|MINTT_T11|
 |Mintt|MinttM3|Mintt_M3|Mintt M3|
@@ -34025,6 +34035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI 17 5G|steppe|26062RN92G|
 |Redmi|REDMI 17 5G|steppe|26062RN92I|
 |Redmi|REDMI 17C 5G|tornado|2607FRNEAG|
+|Redmi|REDMI 17C 5G|tornado|2607FRNEAI|
 |Redmi|REDMI A7|serenity|26020RNB4A|
 |Redmi|REDMI A7|serenity|26020RNB4I|
 |Redmi|REDMI A7|serenity|26020RNB4L|
@@ -35026,6 +35037,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|K13-U-EEA|K13-U-EEA|K13-U-EEA|
 |SKYEGG|K13-U-US|K13-U-US|K13-U-US|
 |SKYEGG|K13-U-US|K13-U-US|K13-US|
+|SKYEGG|K13_E|K13_E|K13_E|
 |SKYEGG|K13_EEA|K13_EEA|K13_EEA|
 |SKYEGG|K13_US|K13_US|K13_US|
 |SKYEGG|K15_EEA|K15_EEA|K15_EEA|
@@ -35370,6 +35382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S10_U_US|S10_U_US|S10_U_US|
 |SUAAT|S10_V_EEA|S10_V_EEA|S10_V_EEA|
 |SUAAT|S10_V_US|S10_V_US|S10_V_US|
+|SUAAT|S11_E|S11_E|S11_E|
 |SUAAT|S11_V_EEA|S11_V_EEA|S11_V_EEA|
 |SUAAT|S11_V_US|S11_V_US|S11_V_US|
 |SUAAT|S3_E|S3_E|S3_E|
@@ -41964,6 +41977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|W90_NEU|W90|W90|
 |TABWEE|W90_RU|W90|W90|
 |TABWEE|W90_US|W90|W90|
+|TACTIVIS|GSIT8TAC|GSIT8TAC|GSIT8TAC|
 |TADI|TADI_TOUCH_1_SERIES|TADI_TOUCH_1|TADI_TOUCH_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
 |TAG Heuer|Connected 2020|orbital|TAG Heuer|
@@ -43974,6 +43988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|Y8|Y8|Y8|
 |TOPELOTEK|ZIDS701_A|ZIDS_701|ZIDS_701|
 |TOPELOTEK|ZIDS_701|ZIDS_701|ZIDS_701|
+|TOPELOTEK|ZIDS_701_US|ZIDS_701_US|ZIDS_701|
 |TOPJOY|PNC450|PNC450|PNC450|
 |TOPJOY|SC0802|SC0802|SC0802|
 |TOPNICE|H66|mensa_an64|TOPNICE_H66|
@@ -45740,6 +45755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UJJ(SZ)|U6_V_US|U6_V_US|U6_V_US|
 |UJJ(SZ)|U7_EEA|U7_EEA|U7_EEA|
 |UJJ(SZ)|U7_US|U7_US|U7_US|
+|UJJ(SZ)|U8_C|U8_C|U8_C|
 |UJJ(SZ)|U8_E|U8_E|U8_E|
 |UJJ(SZ)|U8_EEA|U8_EEA|U8_EEA|
 |UJJ(SZ)|U8_US|U8_US|U8_US|
@@ -49094,6 +49110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintouch|A50|A50|A50|
 |Wintouch|A60_EEA|A60_EEA|A60|
 |Wintouch|A80|A80|A80|
+|Wintouch|A80PRO|A80PRO|A80PRO|
 |Wintouch|K19|K19|K19|
 |Wintouch|K705A|K705A|K705A|
 |Wintouch|K705A_EEA|K705A_EEA|K705A_EEA|
@@ -49696,6 +49713,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 17T Pro|warhol|2602EPTC0R|
 |Xiaomi|Xiaomi 17T Pro|warhol|M025EC|
 |Xiaomi|Xiaomi 18 Fold|lhasa|2608BPX34C|
+|Xiaomi|Xiaomi 18 Pro|hongkong|M610BB|
+|Xiaomi|Xiaomi 18 Pro Max|madrid|M154FF|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Civi 4|chenfeng|24053PY09C|
@@ -52568,6 +52587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |fezawio|F11_V_EEA|F11_V_EEA|F11_V_EEA|
 |fezawio|F11_V_US|F11_V_US|F11_V_US|
 |fezawio|F12_EEA|F12_EEA|F12_EEA|
+|fezawio|F12_E_EEA|F12_E_EEA|F12_E|
 |fezawio|F12_US|F12_US|F12_US|
 |fezawio|F8_EEA|F8_EEA|F8_EEA|
 |fibwi|fibwi|fibwi_B866W12M|fibwi|
