@@ -30890,6 +30890,13 @@
    "device": "MTK9679"
   }
  ],
+ "TS_9_Lite_G": [
+  {
+   "brand": "Avtek",
+   "name": "TS_9_Lite_G",
+   "device": "TS_9_Lite_G"
+  }
+ ],
  "TS_9_Mate_G": [
   {
    "brand": "Avtek",
@@ -47725,6 +47732,11 @@
    "device": "oversea_neutral"
   },
   {
+   "brand": "CVTE",
+   "name": "general_3576_no_mic",
+   "device": "oversea_neutral"
+  },
+  {
    "brand": "MIRAI_TOUCH",
    "name": "MXXCE4S",
    "device": "InteractiveFlatPanelDisplay"
@@ -50283,6 +50295,11 @@
   {
    "brand": "CVTE",
    "name": "CVTE SA12",
+   "device": "rk3588_t"
+  },
+  {
+   "brand": "CVTE",
+   "name": "SA12",
    "device": "rk3588_t"
   }
  ],
@@ -56493,6 +56510,11 @@
    "brand": "G-Tab",
    "name": "Q6",
    "device": "Q6"
+  },
+  {
+   "brand": "VOPLLS",
+   "name": "Q6",
+   "device": "coorg"
   }
  ],
  "QT10": [
@@ -62837,6 +62859,13 @@
    "brand": "DEERTiME",
    "name": "E9-W",
    "device": "E9-W"
+  }
+ ],
+ "E9_E": [
+  {
+   "brand": "DEERTiME",
+   "name": "E9_E",
+   "device": "E9_E"
   }
  ],
  "E9_EEA": [
@@ -90952,6 +90981,13 @@
    "brand": "Ghia",
    "name": "GRINV1",
    "device": "GRINV1"
+  }
+ ],
+ "GRINV2": [
+  {
+   "brand": "Ghia",
+   "name": "GRINV2",
+   "device": "GRINV2_L1"
   }
  ],
  "GS3G": [
@@ -139316,6 +139352,13 @@
    "brand": "JOVI",
    "name": "JOVI V70 5G",
    "device": "J2507"
+  }
+ ],
+ "J2607": [
+  {
+   "brand": "JOVI",
+   "name": "JOVI V80",
+   "device": "J2607"
   }
  ],
  "J2505": [
@@ -202847,6 +202890,13 @@
    "device": "OP64DDL1"
   }
  ],
+ "PYB110": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 16",
+   "device": "OP64E1L1"
+  }
+ ],
  "ONEPLUS A6000": [
   {
    "brand": "OnePlus",
@@ -221010,6 +221060,13 @@
    "device": "PlimPad_P60"
   }
  ],
+ "iKids20_A16_EEA_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "iKids20_A16_EEA_JAE",
+   "device": "iKids20_A16_EEA_JAE"
+  }
+ ],
  "iKids20_A16_JAE": [
   {
    "brand": "Plimpton",
@@ -236148,6 +236205,13 @@
    "brand": "Ricoh",
    "name": "AXX10",
    "device": "AXX10"
+  }
+ ],
+ "RIIING_TAB_ULTRA": [
+  {
+   "brand": "Riiing",
+   "name": "RIIING_TAB_ULTRA",
+   "device": "RIIING_TAB_ULTRA"
   }
  ],
  "SRT412": [
@@ -303327,6 +303391,13 @@
    "device": "TECNO-KO5"
   }
  ],
+ "TECNO KN8s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 50S 5G",
+   "device": "TECNO-KN8s"
+  }
+ ],
  "TECNO KF6": [
   {
    "brand": "Tecno",
@@ -329657,6 +329728,13 @@
    "device": "Q11"
   }
  ],
+ "QUANTUM_Q10X": [
+  {
+   "brand": "X-View",
+   "name": "QUANTUM_Q10X",
+   "device": "QUANTUM_Q10X"
+  }
+ ],
  "Quantum_Q7s": [
   {
    "brand": "X-View",
@@ -349427,6 +349505,13 @@
    "device": "CAV"
   }
  ],
+ "T807J": [
+  {
+   "brand": "ahlo",
+   "name": "Ahlo 2",
+   "device": "Ahlo_2"
+  }
+ ],
  "A16": [
   {
    "brand": "aigo",
@@ -350396,6 +350481,13 @@
    "brand": "eNOVA",
    "name": "TAE10N12",
    "device": "TAE10N12"
+  }
+ ],
+ "TAE10N13": [
+  {
+   "brand": "eNOVA",
+   "name": "TAE10N13",
+   "device": "TAE10N13"
   }
  ],
  "Emerald": [
@@ -354615,6 +354707,13 @@
    "device": "T25"
   }
  ],
+ "EmkoBoard": [
+  {
+   "brand": "nova6",
+   "name": "Nova_6",
+   "device": "Nova_6"
+  }
+ ],
  "Bonvi Prime": [
   {
    "brand": "novo",
@@ -358407,6 +358506,20 @@
    "device": "V2529"
   }
  ],
+ "V2648": [
+  {
+   "brand": "vivo",
+   "name": "V80",
+   "device": "V2648"
+  }
+ ],
+ "V2649": [
+  {
+   "brand": "vivo",
+   "name": "V80",
+   "device": "V2648"
+  }
+ ],
  "V2643": [
   {
    "brand": "vivo",
@@ -358583,6 +358696,13 @@
    "brand": "vivo",
    "name": "X500",
    "device": "PD2609"
+  }
+ ],
+ "V2656": [
+  {
+   "brand": "vivo",
+   "name": "X500 E",
+   "device": "V2648"
   }
  ],
  "V2608A": [
@@ -359113,6 +359233,13 @@
   {
    "brand": "wanbo",
    "name": "Vali1 Pro",
+   "device": "coorg"
+  }
+ ],
+ "X7 Pro Max": [
+  {
+   "brand": "wanbo",
+   "name": "X7 Pro Max",
    "device": "coorg"
   }
  ],

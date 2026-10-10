@@ -2312,6 +2312,11 @@
    "model": "SA12 series"
   },
   {
+   "brand": "CVTE",
+   "name": "SA12",
+   "model": "SA12 series"
+  },
+  {
    "brand": "ClearTouch",
    "name": "NEXT_TDED",
    "model": "CTI_NEXT_TDED_S10"
@@ -11990,6 +11995,11 @@
    "model": "D1MAX"
   },
   {
+   "brand": "VOPLLS",
+   "name": "Q6",
+   "model": "Q6"
+  },
+  {
    "brand": "WIMIUS",
    "name": "G2",
    "model": "G2"
@@ -12003,6 +12013,11 @@
    "brand": "wanbo",
    "name": "Vali1 Pro",
    "model": "Vali1 Pro"
+  },
+  {
+   "brand": "wanbo",
+   "name": "X7 Pro Max",
+   "model": "X7 Pro Max"
   }
  ],
  "TB-AS100A": [
@@ -36895,6 +36910,13 @@
    "model": "LH_CTR"
   }
  ],
+ "TS_9_Lite_G": [
+  {
+   "brand": "Avtek",
+   "name": "TS_9_Lite_G",
+   "model": "TS_9_Lite_G"
+  }
+ ],
  "TS_9_Mate_G": [
   {
    "brand": "Avtek",
@@ -56942,6 +56964,11 @@
    "brand": "CVTE",
    "name": "general_3576_camera",
    "model": "bytello_edla"
+  },
+  {
+   "brand": "CVTE",
+   "name": "general_3576_no_mic",
+   "model": "bytello_edla"
   }
  ],
  "mensa": [
@@ -69782,6 +69809,13 @@
    "brand": "DEERTiME",
    "name": "E9-W",
    "model": "E9-W"
+  }
+ ],
+ "E9_E": [
+  {
+   "brand": "DEERTiME",
+   "name": "E9_E",
+   "model": "E9_E"
   }
  ],
  "E9_EEA": [
@@ -97096,6 +97130,13 @@
    "brand": "Ghia",
    "name": "GRINV1",
    "model": "GRINV1"
+  }
+ ],
+ "GRINV2_L1": [
+  {
+   "brand": "Ghia",
+   "name": "GRINV2",
+   "model": "GRINV2"
   }
  ],
  "GS3G": [
@@ -140777,6 +140818,13 @@
    "brand": "JOVI",
    "name": "JOVI V70 5G",
    "model": "J2507"
+  }
+ ],
+ "J2607": [
+  {
+   "brand": "JOVI",
+   "name": "JOVI V80",
+   "model": "J2607"
   }
  ],
  "J2505": [
@@ -200697,6 +200745,13 @@
    "model": "PLZ110"
   }
  ],
+ "OP64E1L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 16",
+   "model": "PYB110"
+  }
+ ],
  "OnePlus6": [
   {
    "brand": "OnePlus",
@@ -218514,6 +218569,13 @@
    "model": "PlimPad_P60_Pro"
   }
  ],
+ "iKids20_A16_EEA_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "iKids20_A16_EEA_JAE",
+   "model": "iKids20_A16_EEA_JAE"
+  }
+ ],
  "iKids20_A16_JAE": [
   {
    "brand": "Plimpton",
@@ -232599,6 +232661,13 @@
    "brand": "Ricoh",
    "name": "AXX10",
    "model": "AXX10"
+  }
+ ],
+ "RIIING_TAB_ULTRA": [
+  {
+   "brand": "Riiing",
+   "name": "RIIING_TAB_ULTRA",
+   "model": "RIIING_TAB_ULTRA"
   }
  ],
  "Rimo": [
@@ -293024,6 +293093,13 @@
    "model": "TECNO KO5"
   }
  ],
+ "TECNO-KN8s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 50S 5G",
+   "model": "TECNO KN8s"
+  }
+ ],
  "TECNO-KF6": [
   {
    "brand": "Tecno",
@@ -317866,6 +317942,13 @@
    "model": "Proton_Tungsten_Max"
   }
  ],
+ "QUANTUM_Q10X": [
+  {
+   "brand": "X-View",
+   "name": "QUANTUM_Q10X",
+   "model": "QUANTUM_Q10X"
+  }
+ ],
  "Quantum_Q7s": [
   {
    "brand": "X-View",
@@ -335069,6 +335152,13 @@
    "model": "Ahlo 1"
   }
  ],
+ "Ahlo_2": [
+  {
+   "brand": "ahlo",
+   "name": "Ahlo 2",
+   "model": "T807J"
+  }
+ ],
  "A16": [
   {
    "brand": "aigo",
@@ -336037,6 +336127,13 @@
    "brand": "eNOVA",
    "name": "TAE10N12",
    "model": "TAE10N12"
+  }
+ ],
+ "TAE10N13": [
+  {
+   "brand": "eNOVA",
+   "name": "TAE10N13",
+   "model": "TAE10N13"
   }
  ],
  "SEI500TV": [
@@ -340190,6 +340287,13 @@
    "model": "T25"
   }
  ],
+ "Nova_6": [
+  {
+   "brand": "nova6",
+   "name": "Nova_6",
+   "model": "EmkoBoard"
+  }
+ ],
  "t596_novo_37m35": [
   {
    "brand": "novo",
@@ -343954,6 +344058,23 @@
    "brand": "vivo",
    "name": "Y500",
    "model": "V2635"
+  }
+ ],
+ "V2648": [
+  {
+   "brand": "vivo",
+   "name": "V80",
+   "model": "V2648"
+  },
+  {
+   "brand": "vivo",
+   "name": "V80",
+   "model": "V2649"
+  },
+  {
+   "brand": "vivo",
+   "name": "X500 E",
+   "model": "V2656"
   }
  ],
  "PD2436": [
