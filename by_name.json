@@ -10344,6 +10344,13 @@
    "model": "INE-AW409S"
   }
  ],
+ "ALT-SR10-PRO": [
+  {
+   "brand": "ALT(IN)",
+   "device": "ALT-SR10-PRO",
+   "model": "ALT-SR10-PRO"
+  }
+ ],
  "L1": [
   {
    "brand": "ALT(IN)",
@@ -117417,6 +117424,13 @@
    "model": "JMS-W09"
   }
  ],
+ "HONOR Pad X7b": [
+  {
+   "brand": "Honor",
+   "device": "HNONL-Q1",
+   "model": "ONL-W09"
+  }
+ ],
  "HONOR Pad X8": [
   {
    "brand": "Honor",
@@ -135688,6 +135702,13 @@
    "brand": "Invens",
    "device": "NOTE_15P",
    "model": "NOTE 15P"
+  }
+ ],
+ "NOTE_18_GO": [
+  {
+   "brand": "Invens",
+   "device": "NOTE_18_GO",
+   "model": "NOTE 18"
   }
  ],
  "NOTE_5G": [
@@ -161759,6 +161780,13 @@
    "brand": "Lechpol",
    "device": "MOVE_6_mini",
    "model": "MOVE_6_mini"
+  }
+ ],
+ "P900A": [
+  {
+   "brand": "Lecoo",
+   "device": "P900A",
+   "model": "P900A"
   }
  ],
  "Le Max2": [
@@ -203653,6 +203681,11 @@
    "brand": "Oppo",
    "device": "OP6548L1",
    "model": "OPD2515"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP657BL1",
+   "model": "OPD2516"
   }
  ],
  "Pad SE": [
@@ -266163,6 +266196,13 @@
    "brand": "Smooth",
    "device": "SSmooth_5_HD",
    "model": "Smooth 5.0"
+  }
+ ],
+ "VEER": [
+  {
+   "brand": "Snexian",
+   "device": "VEER",
+   "model": "VEER"
   }
  ],
  "ServiceChecKIT": [
@@ -345126,6 +345166,23 @@
    "brand": "vivo",
    "device": "V2571",
    "model": "V2574"
+  }
+ ],
+ "Y32": [
+  {
+   "brand": "vivo",
+   "device": "V2638",
+   "model": "V2638"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2638",
+   "model": "V2641"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2638",
+   "model": "V2642"
   }
  ],
  "Y37+": [

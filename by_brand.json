@@ -1545,6 +1545,11 @@
  ],
  "ALT(IN)": [
   {
+   "device": "ALT-SR10-PRO",
+   "name": "ALT-SR10-PRO",
+   "model": "ALT-SR10-PRO"
+  },
+  {
    "device": "L1",
    "name": "L1",
    "model": "L1"
@@ -78773,6 +78778,11 @@
    "model": "JMS-W09"
   },
   {
+   "device": "HNONL-Q1",
+   "name": "HONOR Pad X7b",
+   "model": "ONL-W09"
+  },
+  {
    "device": "HNAGM3",
    "name": "HONOR Pad X8",
    "model": "AGM3-AL09HN"
@@ -95521,6 +95531,11 @@
    "device": "NOTE_15P",
    "name": "NOTE_15P_EEA",
    "model": "NOTE 15P"
+  },
+  {
+   "device": "NOTE_18_GO",
+   "name": "NOTE_18_GO",
+   "model": "NOTE 18"
   },
   {
    "device": "NOTE_5G",
@@ -118097,6 +118112,13 @@
    "device": "MOVE_6_mini",
    "name": "MOVE 6 mini",
    "model": "MOVE_6_mini"
+  }
+ ],
+ "Lecoo": [
+  {
+   "device": "P900A",
+   "name": "P900A",
+   "model": "P900A"
   }
  ],
  "Leeco": [
@@ -154504,6 +154526,11 @@
    "device": "OP6548L1",
    "name": "Pad Mini",
    "model": "OPD2515"
+  },
+  {
+   "device": "OP657BL1",
+   "name": "Pad Mini",
+   "model": "OPD2516"
   },
   {
    "device": "OP6160L1",
@@ -207994,6 +208021,13 @@
    "device": "SSmooth_5_HD",
    "name": "Smooth_5_HD",
    "model": "Smooth 5.0"
+  }
+ ],
+ "Snexian": [
+  {
+   "device": "VEER",
+   "name": "VEER",
+   "model": "VEER"
   }
  ],
  "Snopow": [
@@ -277551,6 +277585,21 @@
    "device": "V2571",
    "name": "Y31t 5G",
    "model": "V2574"
+  },
+  {
+   "device": "V2638",
+   "name": "Y32",
+   "model": "V2638"
+  },
+  {
+   "device": "V2638",
+   "name": "Y32",
+   "model": "V2641"
+  },
+  {
+   "device": "V2638",
+   "name": "Y32",
+   "model": "V2642"
   },
   {
    "device": "PD2443",

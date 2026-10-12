@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-11
+Last sync is 2026-10-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -291,6 +291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALPHA_LING|P10SU_PLUS|P10SU_PLUS|P10SU_PLUS|
 |ALPINE|INE-AX809|INE-AX809|INE-AX809|
 |ALPINE|Intelligent vehicle network system|INE-AW409S|INE-AW409S|
+|ALT(IN)|ALT-SR10-PRO|ALT-SR10-PRO|ALT-SR10-PRO|
 |ALT(IN)|L1|L1|L1|
 |ALT(IN)|Smart TV|osaka|AI PONT|
 |ALT.mive|Kids Phone|odin|AT-M130|
@@ -15205,6 +15206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad 9|HNHEY2-Q|HEY2-W09|
 |Honor|HONOR Pad V9|HNROL-M1|ROL-W00|
 |Honor|HONOR Pad X7|JMS-W09|JMS-W09|
+|Honor|HONOR Pad X7b|HNONL-Q1|ONL-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
@@ -18503,6 +18505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|MAX_2|MAX_2|MAX_2|
 |Invens|NOTE_12P|NOTE_12P|NOTE 12P|
 |Invens|NOTE_15P_EEA|NOTE_15P|NOTE 15P|
+|Invens|NOTE_18_GO|NOTE_18_GO|NOTE 18|
 |Invens|NOTE_5G|NOTE_5G|NOTE 5G|
 |Invens|ONE_1C|ONE_1C|ONE_1C|
 |Invens|Power_V1_ROW|Power_V1|Power V1|
@@ -22909,6 +22912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lechpol|LIVE 4 KM0439|LIVE4_KM0439|KrugerMatz_LIVE4|
 |Lechpol|LIVE 4 KM0439|LIVE4_KM0439|LIVE4_KM0439|
 |Lechpol|MOVE 6 mini|MOVE_6_mini|MOVE_6_mini|
+|Lecoo|P900A|P900A|P900A|
 |Leeco|Le Max2|le_x2|Le X820|
 |Leeco|Le Max2|le_x2|Le X821|
 |Leeco|Le Max2|le_x2_na|Le X829|
@@ -29984,6 +29988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Pad Air5|OP6541L1|OPD2501|
 |Oppo|Pad Air5|OP6541L1|OPD2510|
 |Oppo|Pad Mini|OP6548L1|OPD2515|
+|Oppo|Pad Mini|OP657BL1|OPD2516|
 |Oppo|Pad SE|OP6160L1|OPD2417|
 |Oppo|Pad SE|OP6192L1|OPD2419|
 |Oppo|Pad SE|OP6193L1|OPD2420|
@@ -40458,6 +40463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smooth|Smooth5_5|SSmooth5_5|Smooth 5.5|
 |Smooth|Smooth626|Smooth626|Smooth626|
 |Smooth|Smooth_5_HD|SSmooth_5_HD|Smooth 5.0|
+|Snexian|VEER|VEER|VEER|
 |Snopow|M10|M10|M10|
 |Snopow|ServiceChecKIT|ServiceChecKIT_EEA|ServiceChecKIT_EEA|
 |So ! Generation|T8100|T8100|T8100|
@@ -53977,6 +53983,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y31s 5G|V2521|V2614|
 |vivo|Y31t 5G|V2571|V2571|
 |vivo|Y31t 5G|V2571|V2574|
+|vivo|Y32|V2638|V2638|
+|vivo|Y32|V2638|V2641|
+|vivo|Y32|V2638|V2642|
 |vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
