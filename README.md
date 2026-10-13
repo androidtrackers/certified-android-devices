@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-12
+Last sync is 2026-10-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -163,6 +163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ADVAN|TAB A8|ADVAN_TAB_A8|8004|
 |ADVAN|VX NEO|ADVAN_VX_NEO|1013|
 |ADVAN|VX_LITE|ADVAN_TAB_VX_LITE|1013|
+|ADVAN|X1 NEO|ADVAN_X1_NEO|X1 NEO|
 |ADVANTOUCH|Android_EDLA_OPS|rk3588_t|EO1_RK3588_08128|
 |AEEZO|TK701|TK701|TK701|
 |AEEZO|TK701_EEA|TK701_EEA|TK701_EEA|
@@ -6018,7 +6019,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CZUR|StarryHub Core 50|StarryHub|StarryHub_Core_50|
 |Cablecolor|CAB_TAB|CAB_TAB|CAB_TAB|
 |Cablecolor|GIU3A00|GIU3A00|GIU3A00|
+|Callsky|Cpad-10|Ctab-10Pro|Ctab-10Pro|
 |Callsky|Cpad10|Cpad10|Cpad10|
+|Callsky|Ctab-10Pro|Cpad-10|Cpad-10|
 |Callsky|Ctab_12|Ctab_12|Ctab 12|
 |Callsky|Ctab_12|Ctab_12|SMART PRO 12|
 |Callsky-tab|Cpad_10|Cpad_10|Cpad_10|
@@ -7701,6 +7704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEERTiME|E11_US|E11_US|E11_US|
 |DEERTiME|E15_E|E15_E|E15_E|
 |DEERTiME|E15_EEA|E15_EEA|E15_EEA|
+|DEERTiME|E15_U|E15_U|E15_U|
 |DEERTiME|E15_US|E15_US|E15_US|
 |DEERTiME|E15_V_EEA|E15_V_EEA|E15_V_EEA|
 |DEERTiME|E15_V_US|E15_V_US|E15_V_US|
@@ -8015,6 +8019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DMOAO|D3_E|D3_E|D3_E|
 |DMOAO|D3_EEA|D3_EEA|D3_EEA|
 |DMOAO|D3_EU|D3_EU|D3_EU|
+|DMOAO|D3_U|D3_U|D3_U|
 |DMOAO|D3_US|D3_US|D3_US|
 |DMOAO|D3_V_EEA|D3_V_EEA|D3_V_EEA|
 |DMOAO|D3_V_US|D3_V_US|D3_V_US|
@@ -8807,6 +8812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DishTV-NZ|SV11HD|IAD|SV11HD|
 |DishTV-NZ|SmartVU Freeview Projector | Google TV|tianshan|SVPro1|
 |Disney|CTS05|CTS05|CTS05|
+|Disney|CTS07|CTS07|CTS07|
 |Disney|DISNEYTAB|DISNEYTAB|DISNEYTAB|
 |Disney|Frozen_G9|Frozen_G9|Frozen_G9|
 |Disney|Princess_G9|Princess_G9|Princess_G9|
@@ -11734,6 +11740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GeneralSupreme|Smart TV|dangni|AI PONT|
 |GeneralSupreme|Smart TV|longshan|AI PONT|
 |General_luxe|F35|F35|F35|
+|General_luxe|General_Luxe_E16|gle16|General Luxe E16|
 |General_luxe|Shahin_III|Shahin_III|SHAHIN III|
 |Geniatech|ATV495MAX|enjoytv|ATV495MAX|
 |Geniatech|Enjoy TV Quad-Core Box|ATV581|Enjoy TV Quad-Core Box|
@@ -17321,6 +17328,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT8WB1RBK02A|HT8WB1RBK02A|HT8WB1RBK02A|
 |Hyundai|HT8WB1RBK02_12|HT8WB1RBK02_12|8WB1|
 |Hyundai|HT8WB1RBK03|HT8WB1RBK03|HT8WB1RBK03|
+|Hyundai|HT8WC1RBK01KB01|HT8WC1RBK01KB01|8WC1|
+|Hyundai|HT8WC1RBK01KB02|HT8WC1RBK01KB02|8WC1|
 |Hyundai|HT8WC1RBK01KB03|HT8WC1RBK01KB03|8WC1|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
@@ -18506,6 +18515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|NOTE_12P|NOTE_12P|NOTE 12P|
 |Invens|NOTE_15P_EEA|NOTE_15P|NOTE 15P|
 |Invens|NOTE_18_GO|NOTE_18_GO|NOTE 18|
+|Invens|NOTE_18_ROW_GO|NOTE_18_ROW_GO|NOTE 18|
 |Invens|NOTE_5G|NOTE_5G|NOTE 5G|
 |Invens|ONE_1C|ONE_1C|ONE_1C|
 |Invens|Power_V1_ROW|Power_V1|Power V1|
@@ -28340,6 +28350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nexall|N90_US|N90|N90|
 |Nexel|Infinity|Infinity|Infinity|
 |Nexel|Infinity_Lite|Infinity_Lite|Infinity_Lite|
+|NexiGo|PJ40Pro|coorg|PJ40Pro|
 |Nexian|journey one|Mi438S_sprout|Mi438S|
 |Next|4K TV Stick|YYT|4K Google TV Stick|
 |Next|NEXT|elliniko|4K SMART TV|
@@ -32903,6 +32914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pretech|L1108|L1108|P301_L1108|
 |Pretech|L1208|L1208|L1208|
 |Pretech|WP101|WP101|WP101|
+|Pretech|WP103|WP103|WP103|
 |Pretech|WP106|WP106|WP106|
 |Pretech|WP30|WP30|WP30|
 |Prime|O9|PRIME_O9|O9|
@@ -41660,7 +41672,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|L2H_EDLA_GL|SUNMI-L2HNFC|L2H_EDLA_GL|
 |Sunmi|L2Ks|SUNMI-L2KsNFC|L2Ks_EDLA_GL|
 |Sunmi|L2s_PRO|SUNMI-L2s_PRO|L2s_PRO|
-|Sunmi|L3|L3|L3|
 |Sunmi|OrderPAD 3|OrderPAD_3|OrderPAD 3|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_EEA|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_GL|
@@ -41669,6 +41680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_GL|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_RU|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_TR|
+|Sunmi|Sunmi L3/M3|L3|L3|
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_TR|
@@ -52082,6 +52094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC201|TCW01W|TC201|
 |Zebra|TC201|TCW01W|TC201W|
 |Zebra|TC20KB|TC20KB|TC20|
+|Zebra|TC21||TC21|
 |Zebra|TC21|TC21|TC21|
 |Zebra|TC22|TC22|HC50|
 |Zebra|TC22|TC22|TC22|

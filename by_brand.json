@@ -859,6 +859,11 @@
    "device": "ADVAN_TAB_VX_LITE",
    "name": "VX_LITE",
    "model": "1013"
+  },
+  {
+   "device": "ADVAN_X1_NEO",
+   "name": "X1 NEO",
+   "model": "X1 NEO"
   }
  ],
  "ADVANTOUCH": [
@@ -31174,9 +31179,19 @@
  ],
  "Callsky": [
   {
+   "device": "Ctab-10Pro",
+   "name": "Cpad-10",
+   "model": "Ctab-10Pro"
+  },
+  {
    "device": "Cpad10",
    "name": "Cpad10",
    "model": "Cpad10"
+  },
+  {
+   "device": "Cpad-10",
+   "name": "Ctab-10Pro",
+   "model": "Cpad-10"
   },
   {
    "device": "Ctab_12",
@@ -39889,6 +39904,11 @@
    "model": "E15_EEA"
   },
   {
+   "device": "E15_U",
+   "name": "E15_U",
+   "model": "E15_U"
+  },
+  {
    "device": "E15_US",
    "name": "E15_US",
    "model": "E15_US"
@@ -41499,6 +41519,11 @@
    "device": "D3_EU",
    "name": "D3_EU",
    "model": "D3_EU"
+  },
+  {
+   "device": "D3_U",
+   "name": "D3_U",
+   "model": "D3_U"
   },
   {
    "device": "D3_US",
@@ -45651,6 +45676,11 @@
    "device": "CTS05",
    "name": "CTS05",
    "model": "CTS05"
+  },
+  {
+   "device": "CTS07",
+   "name": "CTS07",
+   "model": "CTS07"
   },
   {
    "device": "DISNEYTAB",
@@ -61024,6 +61054,11 @@
    "device": "F35",
    "name": "F35",
    "model": "F35"
+  },
+  {
+   "device": "gle16",
+   "name": "General_Luxe_E16",
+   "model": "General Luxe E16"
   },
   {
    "device": "Shahin_III",
@@ -89403,6 +89438,16 @@
    "model": "HT8WB1RBK03"
   },
   {
+   "device": "HT8WC1RBK01KB01",
+   "name": "HT8WC1RBK01KB01",
+   "model": "8WC1"
+  },
+  {
+   "device": "HT8WC1RBK01KB02",
+   "name": "HT8WC1RBK01KB02",
+   "model": "8WC1"
+  },
+  {
    "device": "HT8WC1RBK01KB03",
    "name": "HT8WC1RBK01KB03",
    "model": "8WC1"
@@ -95535,6 +95580,11 @@
   {
    "device": "NOTE_18_GO",
    "name": "NOTE_18_GO",
+   "model": "NOTE 18"
+  },
+  {
+   "device": "NOTE_18_ROW_GO",
+   "name": "NOTE_18_ROW_GO",
    "model": "NOTE 18"
   },
   {
@@ -146040,6 +146090,13 @@
    "model": "Infinity_Lite"
   }
  ],
+ "NexiGo": [
+  {
+   "device": "coorg",
+   "name": "PJ40Pro",
+   "model": "PJ40Pro"
+  }
+ ],
  "Nexian": [
   {
    "device": "Mi438S_sprout",
@@ -169411,6 +169468,11 @@
    "device": "WP101",
    "name": "WP101",
    "model": "WP101"
+  },
+  {
+   "device": "WP103",
+   "name": "WP103",
+   "model": "WP103"
   },
   {
    "device": "WP106",
@@ -214146,11 +214208,6 @@
    "model": "L2s_PRO"
   },
   {
-   "device": "L3",
-   "name": "L3",
-   "model": "L3"
-  },
-  {
    "device": "OrderPAD_3",
    "name": "OrderPAD 3",
    "model": "OrderPAD 3"
@@ -214189,6 +214246,11 @@
    "device": "SUNMI-L2KsNFC",
    "name": "Sunmi L2Ks",
    "model": "L2Ks_TR"
+  },
+  {
+   "device": "L3",
+   "name": "Sunmi L3/M3",
+   "model": "L3"
   },
   {
    "device": "V2s",
@@ -267624,6 +267686,11 @@
    "device": "TC20KB",
    "name": "TC20KB",
    "model": "TC20"
+  },
+  {
+   "device": "",
+   "name": "TC21",
+   "model": "TC21"
   },
   {
    "device": "TC21",

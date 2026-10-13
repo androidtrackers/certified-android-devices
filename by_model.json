@@ -3340,6 +3340,13 @@
    "device": "ADVAN_XTAB"
   }
  ],
+ "X1 NEO": [
+  {
+   "brand": "ADVAN",
+   "name": "X1 NEO",
+   "device": "ADVAN_X1_NEO"
+  }
+ ],
  "EO1_RK3588_08128": [
   {
    "brand": "ADVANTOUCH",
@@ -5523,7 +5530,7 @@
   },
   {
    "brand": "Sunmi",
-   "name": "L3",
+   "name": "Sunmi L3/M3",
    "device": "L3"
   }
  ],
@@ -50879,11 +50886,25 @@
    "device": "GIU3A00"
   }
  ],
+ "Ctab-10Pro": [
+  {
+   "brand": "Callsky",
+   "name": "Cpad-10",
+   "device": "Ctab-10Pro"
+  }
+ ],
  "Cpad10": [
   {
    "brand": "Callsky",
    "name": "Cpad10",
    "device": "Cpad10"
+  }
+ ],
+ "Cpad-10": [
+  {
+   "brand": "Callsky",
+   "name": "Ctab-10Pro",
+   "device": "Cpad-10"
   }
  ],
  "Ctab 12": [
@@ -62812,6 +62833,13 @@
    "device": "E15_EEA"
   }
  ],
+ "E15_U": [
+  {
+   "brand": "DEERTiME",
+   "name": "E15_U",
+   "device": "E15_U"
+  }
+ ],
  "E15_US": [
   {
    "brand": "DEERTiME",
@@ -64929,6 +64957,13 @@
    "brand": "DMOAO",
    "name": "D3_EU",
    "device": "D3_EU"
+  }
+ ],
+ "D3_U": [
+  {
+   "brand": "DMOAO",
+   "name": "D3_U",
+   "device": "D3_U"
   }
  ],
  "D3_US": [
@@ -70523,6 +70558,13 @@
    "brand": "Disney",
    "name": "CTS05",
    "device": "CTS05"
+  }
+ ],
+ "CTS07": [
+  {
+   "brand": "Disney",
+   "name": "CTS07",
+   "device": "CTS07"
   }
  ],
  "DISNEYTAB": [
@@ -90462,6 +90504,13 @@
    "brand": "General_luxe",
    "name": "F35",
    "device": "F35"
+  }
+ ],
+ "General Luxe E16": [
+  {
+   "brand": "General_luxe",
+   "name": "General_Luxe_E16",
+   "device": "gle16"
   }
  ],
  "SHAHIN III": [
@@ -127750,6 +127799,16 @@
  "8WC1": [
   {
    "brand": "Hyundai",
+   "name": "HT8WC1RBK01KB01",
+   "device": "HT8WC1RBK01KB01"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HT8WC1RBK01KB02",
+   "device": "HT8WC1RBK01KB02"
+  },
+  {
+   "brand": "Hyundai",
    "name": "HT8WC1RBK01KB03",
    "device": "HT8WC1RBK01KB03"
   },
@@ -135347,6 +135406,11 @@
    "brand": "Invens",
    "name": "NOTE_18_GO",
    "device": "NOTE_18_GO"
+  },
+  {
+   "brand": "Invens",
+   "name": "NOTE_18_ROW_GO",
+   "device": "NOTE_18_ROW_GO"
   }
  ],
  "NOTE 5G": [
@@ -197777,6 +197841,13 @@
    "device": "Infinity_Lite"
   }
  ],
+ "PJ40Pro": [
+  {
+   "brand": "NexiGo",
+   "name": "PJ40Pro",
+   "device": "coorg"
+  }
+ ],
  "Mi438S": [
   {
    "brand": "Nexian",
@@ -226286,6 +226357,13 @@
    "brand": "Pretech",
    "name": "WP101",
    "device": "WP101"
+  }
+ ],
+ "WP103": [
+  {
+   "brand": "Pretech",
+   "name": "WP103",
+   "device": "WP103"
   }
  ],
  "WP106": [
@@ -347747,6 +347825,11 @@
   }
  ],
  "TC21": [
+  {
+   "brand": "Zebra",
+   "name": "TC21",
+   "device": ""
+  },
   {
    "brand": "Zebra",
    "name": "TC21",

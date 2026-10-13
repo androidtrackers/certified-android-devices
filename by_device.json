@@ -2763,6 +2763,13 @@
    "model": "1013"
   }
  ],
+ "ADVAN_X1_NEO": [
+  {
+   "brand": "ADVAN",
+   "name": "X1 NEO",
+   "model": "X1 NEO"
+  }
+ ],
  "TK701": [
   {
    "brand": "AEEZO",
@@ -6716,7 +6723,7 @@
   },
   {
    "brand": "Sunmi",
-   "name": "L3",
+   "name": "Sunmi L3/M3",
    "model": "L3"
   }
  ],
@@ -9534,6 +9541,11 @@
    "brand": "Vivo",
    "name": "iQOO Neo7 竞速版",
    "model": "V2232A"
+  },
+  {
+   "brand": "Zebra",
+   "name": "TC21",
+   "model": "TC21"
   }
  ],
  "tiger_cheets": [
@@ -12000,6 +12012,11 @@
    "brand": "AURZEN",
    "name": "D1MAX",
    "model": "D1MAX"
+  },
+  {
+   "brand": "NexiGo",
+   "name": "PJ40Pro",
+   "model": "PJ40Pro"
   },
   {
    "brand": "VOPLLS",
@@ -57620,11 +57637,25 @@
    "model": "GIU3A00"
   }
  ],
+ "Ctab-10Pro": [
+  {
+   "brand": "Callsky",
+   "name": "Cpad-10",
+   "model": "Ctab-10Pro"
+  }
+ ],
  "Cpad10": [
   {
    "brand": "Callsky",
    "name": "Cpad10",
    "model": "Cpad10"
+  }
+ ],
+ "Cpad-10": [
+  {
+   "brand": "Callsky",
+   "name": "Ctab-10Pro",
+   "model": "Cpad-10"
   }
  ],
  "Ctab_12": [
@@ -69762,6 +69793,13 @@
    "model": "E15_EEA"
   }
  ],
+ "E15_U": [
+  {
+   "brand": "DEERTiME",
+   "name": "E15_U",
+   "model": "E15_U"
+  }
+ ],
  "E15_US": [
   {
    "brand": "DEERTiME",
@@ -71925,6 +71963,13 @@
    "brand": "DMOAO",
    "name": "D3_EU",
    "model": "D3_EU"
+  }
+ ],
+ "D3_U": [
+  {
+   "brand": "DMOAO",
+   "name": "D3_U",
+   "model": "D3_U"
   }
  ],
  "D3_US": [
@@ -77428,6 +77473,13 @@
    "brand": "Disney",
    "name": "CTS05",
    "model": "CTS05"
+  }
+ ],
+ "CTS07": [
+  {
+   "brand": "Disney",
+   "name": "CTS07",
+   "model": "CTS07"
   }
  ],
  "DISNEYTAB": [
@@ -96638,6 +96690,13 @@
    "brand": "General_luxe",
    "name": "F35",
    "model": "F35"
+  }
+ ],
+ "gle16": [
+  {
+   "brand": "General_luxe",
+   "name": "General_Luxe_E16",
+   "model": "General Luxe E16"
   }
  ],
  "Shahin_III": [
@@ -129774,6 +129833,20 @@
    "model": "HT8WB1RBK03"
   }
  ],
+ "HT8WC1RBK01KB01": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WC1RBK01KB01",
+   "model": "8WC1"
+  }
+ ],
+ "HT8WC1RBK01KB02": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WC1RBK01KB02",
+   "model": "8WC1"
+  }
+ ],
  "HT8WC1RBK01KB03": [
   {
    "brand": "Hyundai",
@@ -136921,6 +136994,13 @@
   {
    "brand": "Invens",
    "name": "NOTE_18_GO",
+   "model": "NOTE 18"
+  }
+ ],
+ "NOTE_18_ROW_GO": [
+  {
+   "brand": "Invens",
+   "name": "NOTE_18_ROW_GO",
    "model": "NOTE 18"
   }
  ],
@@ -223353,6 +223433,13 @@
    "brand": "Pretech",
    "name": "WP101",
    "model": "WP101"
+  }
+ ],
+ "WP103": [
+  {
+   "brand": "Pretech",
+   "name": "WP103",
+   "model": "WP103"
   }
  ],
  "WP106": [
