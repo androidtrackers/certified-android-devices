@@ -22480,6 +22480,11 @@
    "model": "B22_EEA"
   },
   {
+   "device": "B22_U",
+   "name": "B22_U",
+   "model": "B22_U"
+  },
+  {
    "device": "B22_US",
    "name": "B22_US",
    "model": "B22_US"
@@ -91999,6 +92004,11 @@
    "model": "IK-869"
   },
   {
+   "device": "IK-SET028",
+   "name": "IK-SET028",
+   "model": "IK-SET028"
+  },
+  {
    "device": "IK-T808",
    "name": "IK-T808",
    "model": "IK-T808"
@@ -151065,6 +151075,16 @@
    "model": "PMB110"
   },
   {
+   "device": "OP68BBL1",
+   "name": "OnePlus Ace 7",
+   "model": "PYF110"
+  },
+  {
+   "device": "OP64F1L1",
+   "name": "OnePlus Ace 7 Pro",
+   "model": "PMS110"
+  },
+  {
    "device": "OP5911",
    "name": "OnePlus Ace 竞速版",
    "model": "PGZ110"
@@ -153638,6 +153658,36 @@
    "device": "PAHM00",
    "name": "Find X 兰博基尼",
    "model": "PAHM00"
+  },
+  {
+   "device": "OP659BL1",
+   "name": "Find X10",
+   "model": "PMW110"
+  },
+  {
+   "device": "OP6659L1",
+   "name": "Find X10",
+   "model": "CPH2911"
+  },
+  {
+   "device": "OP6659L1",
+   "name": "Find X10",
+   "model": "OPG09"
+  },
+  {
+   "device": "OP65D7L1",
+   "name": "Find X10 E",
+   "model": "PNA110"
+  },
+  {
+   "device": "OP659FL1",
+   "name": "Find X10 Pro Max",
+   "model": "PMX110"
+  },
+  {
+   "device": "OP665DL1",
+   "name": "Find X10 Pro Max",
+   "model": "CPH2913"
   },
   {
    "device": "OP4BA1L1",
@@ -169509,6 +169559,11 @@
  ],
  "Primebook": [
   {
+   "device": "PB1310",
+   "name": "PB1310",
+   "model": "Primebook Duo Pro"
+  },
+  {
    "device": "PB1380",
    "name": "PB1380",
    "model": "Primebook Duo Max"
@@ -177887,6 +177942,11 @@
    "model": "T10P"
   },
   {
+   "device": "T10_US",
+   "name": "T10_US",
+   "model": "T10"
+  },
+  {
    "device": "T618",
    "name": "T618",
    "model": "T618"
@@ -180702,6 +180762,11 @@
    "device": "K15_US",
    "name": "K15_US",
    "model": "K15_US"
+  },
+  {
+   "device": "K16_E",
+   "name": "K16_E",
+   "model": "K16_E"
   },
   {
    "device": "K16_US",
@@ -235302,6 +235367,11 @@
    "model": "U6_EEA"
   },
   {
+   "device": "U6_U",
+   "name": "U6_U",
+   "model": "U6_U"
+  },
+  {
    "device": "U6_US",
    "name": "U6_US",
    "model": "U6_US"
@@ -253993,6 +254063,13 @@
    "model": "X8MT16"
   }
  ],
+ "XView": [
+  {
+   "device": "QUANTUM_Q10XPLUS",
+   "name": "QUANTUM_Q10XPLUS",
+   "model": "Quantum_Q10x+"
+  }
+ ],
  "X_View": [
   {
    "device": "Protab10",
@@ -270478,6 +270555,11 @@
    "device": "F12_US",
    "name": "F12_US",
    "model": "F12_US"
+  },
+  {
+   "device": "F12_U_US",
+   "name": "F12_U_US",
+   "model": "F12_U"
   },
   {
    "device": "F8_EEA",

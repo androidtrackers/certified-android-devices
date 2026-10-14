@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-13
+Last sync is 2026-10-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4340,6 +4340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Biegedy|B22-U-US|B22-U-US|B22-US|
 |Biegedy|B22_C|B22_C|B22_C|
 |Biegedy|B22_EEA|B22_EEA|B22_EEA|
+|Biegedy|B22_U|B22_U|B22_U|
 |Biegedy|B22_US|B22_US|B22_US|
 |Biegedy|B23_US|B23_US|B23_US|
 |Biegedy|B23_U_EEA|B23_U_EEA|B23_EEA|
@@ -17813,6 +17814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
 |Ikon|IK-869|IK-869|IK-869|
+|Ikon|IK-SET028|IK-SET028|IK-SET028|
 |Ikon|IK-T808|IK-T808|IK-T808|
 |Ikon|IK-WT028i|IK-WT028i|IK-WT028i|
 |Ikon|IK-WT1080|IK-WT1080|IK-WT1080|
@@ -29299,6 +29301,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Ace 5 至尊版|OP60EDL1|PLC110|
 |OnePlus|OnePlus Ace 6|OP6113L1|PLQ110|
 |OnePlus|OnePlus Ace 6 至尊版|OP64D7L1|PMB110|
+|OnePlus|OnePlus Ace 7|OP68BBL1|PYF110|
+|OnePlus|OnePlus Ace 7 Pro|OP64F1L1|PMS110|
 |OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus N6|OP68DD|CPH2955|
 |OnePlus|OnePlus N6 Lite|OP68FB|CPH2993|
@@ -29810,6 +29814,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X|PAFM00|PAFM00|
 |Oppo|Find X|PAFT00|PAFT00|
 |Oppo|Find X 兰博基尼|PAHM00|PAHM00|
+|Oppo|Find X10|OP659BL1|PMW110|
+|Oppo|Find X10|OP6659L1|CPH2911|
+|Oppo|Find X10|OP6659L1|OPG09|
+|Oppo|Find X10 E|OP65D7L1|PNA110|
+|Oppo|Find X10 Pro Max|OP659FL1|PMX110|
+|Oppo|Find X10 Pro Max|OP665DL1|CPH2913|
 |Oppo|Find X2|OP4BA1L1|CPH2023|
 |Oppo|Find X2 Lite|OP4C41L1|CPH2005|
 |Oppo|Find X2 Neo/Reno3 Pro|OP4C2DL1|CPH2009|
@@ -32921,6 +32931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prime|PRIME Android TV|shinagawa|PRIME Android TV|
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
+|Primebook|PB1310|PB1310|Primebook Duo Pro|
 |Primebook|PB1380|PB1380|Primebook Duo Max|
 |Primux|Primux_ioxphone|Primux_ioxphone|Primux_ioxphone|
 |Prince Mobile|PC9|PC9|PC9|
@@ -34545,6 +34556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|T10P_EEA|T10P_EEA|T10P_EEA|
 |Relndoo|T10P_ROW|T10P_ROW|T10P|
 |Relndoo|T10P_US|T10P_US|T10P|
+|Relndoo|T10_US|T10_US|T10|
 |Relndoo|T618|T618|T618|
 |Relndoo|T618_US|T618_US|T618_US|
 |Relndoo|T618_WIFI|T618_WIFI|T618|
@@ -35068,6 +35080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|K13_US|K13_US|K13_US|
 |SKYEGG|K15_EEA|K15_EEA|K15_EEA|
 |SKYEGG|K15_US|K15_US|K15_US|
+|SKYEGG|K16_E|K16_E|K16_E|
 |SKYEGG|K16_US|K16_US|K16_US|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_EEA|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_S_EEA|
@@ -45778,6 +45791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UJJ(SZ)|U3_V_US|U3_V_US|U3_V_US|
 |UJJ(SZ)|U6_E|U6_E|U6_E|
 |UJJ(SZ)|U6_EEA|U6_EEA|U6_EEA|
+|UJJ(SZ)|U6_U|U6_U|U6_U|
 |UJJ(SZ)|U6_US|U6_US|U6_US|
 |UJJ(SZ)|U6_V_EEA|U6_V_EEA|U6_V_EEA|
 |UJJ(SZ)|U6_V_US|U6_V_US|U6_V_US|
@@ -49393,6 +49407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XTRA|XT1|XT1|XT1|
 |XTRAGEN|XTCTR_201|RUGGED_TABLET|XTCTR_201|
 |XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|
+|XView|QUANTUM_Q10XPLUS|QUANTUM_Q10XPLUS|Quantum_Q10x+|
 |X_View|Protab10|Protab10|Protab10|
 |X_View|X_View_Q7|X_View_Q7|X_View_Q7|
 |Xcell|Enia|Xcell_Enia|Enia|
@@ -52622,6 +52637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |fezawio|F12_EEA|F12_EEA|F12_EEA|
 |fezawio|F12_E_EEA|F12_E_EEA|F12_E|
 |fezawio|F12_US|F12_US|F12_US|
+|fezawio|F12_U_US|F12_U_US|F12_U|
 |fezawio|F8_EEA|F8_EEA|F8_EEA|
 |fibwi|fibwi|fibwi_B866W12M|fibwi|
 |firstIT|FIRSTIT_IFPD|rk3588_t|FIT_Series|
