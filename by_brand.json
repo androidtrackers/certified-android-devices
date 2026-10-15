@@ -13363,6 +13363,11 @@
    "device": "SP545C",
    "name": "SP545C_1",
    "model": "SP545C"
+  },
+  {
+   "device": "SP676W",
+   "name": "SP676W",
+   "model": "SP676W"
   }
  ],
  "Artizlee": [
@@ -38117,6 +38122,11 @@
    "model": "CP12s"
   },
   {
+   "device": "K22",
+   "name": "coolpad K22",
+   "model": "K22"
+  },
+  {
    "device": "2021",
    "name": "coolpad N7 Air",
    "model": "2021"
@@ -39784,6 +39794,11 @@
    "device": "TAB-T863-3",
    "name": "TAB-T863-3",
    "model": "TAB-T863-3"
+  },
+  {
+   "device": "tk101_4",
+   "name": "tk101_4",
+   "model": "TAB-TK101-4"
   }
  ],
  "DANDOON": [
@@ -41599,6 +41614,11 @@
    "device": "D7_EEA",
    "name": "D7_EEA",
    "model": "D7_EEA"
+  },
+  {
+   "device": "D7_U",
+   "name": "D7_U",
+   "model": "D7_U"
   },
   {
    "device": "D7_US",
@@ -79754,6 +79774,13 @@
    "model": "FieldHub1_0"
   }
  ],
+ "Hosan": [
+  {
+   "device": "4G_Smart_Phone",
+   "name": "L67",
+   "model": "L67"
+  }
+ ],
  "Hosoton": [
   {
    "device": "H-H101_EEA",
@@ -93821,6 +93848,11 @@
    "model": "Infinix X6840B"
   },
   {
+   "device": "Infinix-X6843B",
+   "name": "SMART 20e",
+   "model": "Infinix X6843B"
+  },
+  {
    "device": "Infinix-X657C",
    "name": "SMART 5",
    "model": "Infinix X657C"
@@ -103123,6 +103155,16 @@
   }
  ],
  "KXD mobile": [
+  {
+   "device": "15C",
+   "name": "15C",
+   "model": "15C"
+  },
+  {
+   "device": "18_Max",
+   "name": "18_Max",
+   "model": "18_Max"
+  },
   {
    "device": "A06",
    "name": "A06",
@@ -127510,6 +127552,11 @@
    "model": "COMEK Tab 20"
   },
   {
+   "device": "COMEK_Tab_Joy_20",
+   "name": "COMEK_Tab_Joy_20",
+   "model": "COMEK Tab Joy 20"
+  },
+  {
    "device": "COMEK_Tab_K",
    "name": "COMEK_Tab_K",
    "model": "COMEK Tab K"
@@ -128979,6 +129026,11 @@
    "device": "MX-A67WW",
    "name": "ASTRO A67",
    "model": "ASTRO A67"
+  },
+  {
+   "device": "MX-A68MM",
+   "name": "ASTRO A68",
+   "model": "ASTRO A68"
   },
   {
    "device": "MX-A10WW",
@@ -159868,6 +159920,11 @@
    "device": "PIXIUM_X7",
    "name": "PIXIUM_X7",
    "model": "X7"
+  },
+  {
+   "device": "PIXIUM_X6",
+   "name": "X6",
+   "model": "X6"
   }
  ],
  "PIXPEAK": [
@@ -179262,6 +179319,11 @@
    "model": "VISION"
   },
   {
+   "device": "S6539Z",
+   "name": "S6539Z",
+   "model": "S6539Z"
+  },
+  {
    "device": "S6705",
    "name": "S6705",
    "model": "S6705"
@@ -180476,6 +180538,11 @@
    "device": "SA08_310",
    "name": "SA08_310",
    "model": "SA08_310"
+  },
+  {
+   "device": "SA08_3100",
+   "name": "SA08_3100",
+   "model": "SA08_3100"
   }
  ],
  "SINAT": [
@@ -180762,6 +180829,11 @@
    "device": "K15_US",
    "name": "K15_US",
    "model": "K15_US"
+  },
+  {
+   "device": "K16_C",
+   "name": "K16_C",
+   "model": "K16_C"
   },
   {
    "device": "K16_E",
@@ -213775,6 +213847,16 @@
    "device": "Future",
    "name": "STYLO Future",
    "model": "Future"
+  },
+  {
+   "device": "LEGACY",
+   "name": "STYLO LEGACY",
+   "model": "LEGACY"
+  },
+  {
+   "device": "LEGEND",
+   "name": "STYLO LEGEND",
+   "model": "LEGEND"
   },
   {
    "device": "Stylo_Max",

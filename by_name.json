@@ -29078,6 +29078,13 @@
    "model": "SP545C"
   }
  ],
+ "SP676W": [
+  {
+   "brand": "Artia",
+   "device": "SP676W",
+   "model": "SP676W"
+  }
+ ],
  "Artizlee S9": [
   {
    "brand": "Artizlee",
@@ -42482,6 +42489,11 @@
   {
    "brand": "OMIX",
    "device": "X6",
+   "model": "X6"
+  },
+  {
+   "brand": "PIXIUM",
+   "device": "PIXIUM_X6",
    "model": "X6"
   },
   {
@@ -64654,6 +64666,13 @@
    "model": "CP12s"
   }
  ],
+ "coolpad K22": [
+  {
+   "brand": "Coolpad",
+   "device": "K22",
+   "model": "K22"
+  }
+ ],
  "coolpad N7 Air": [
   {
    "brand": "Coolpad",
@@ -67137,6 +67156,13 @@
    "model": "TAB-T863-3"
   }
  ],
+ "tk101_4": [
+  {
+   "brand": "DAMASCO",
+   "device": "tk101_4",
+   "model": "TAB-TK101-4"
+  }
+ ],
  "RTC_M102": [
   {
    "brand": "DARVEEN",
@@ -69570,6 +69596,13 @@
    "brand": "DMOAO",
    "device": "D7_EEA",
    "model": "D7_EEA"
+  }
+ ],
+ "D7_U": [
+  {
+   "brand": "DMOAO",
+   "device": "D7_U",
+   "model": "D7_U"
   }
  ],
  "D7_US": [
@@ -118635,6 +118668,13 @@
    "model": "FieldHub1_0"
   }
  ],
+ "L67": [
+  {
+   "brand": "Hosan",
+   "device": "4G_Smart_Phone",
+   "model": "L67"
+  }
+ ],
  "H-H101_EEA": [
   {
    "brand": "Hosoton",
@@ -133647,6 +133687,13 @@
    "model": "Infinix X6840B"
   }
  ],
+ "SMART 20e": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6843B",
+   "model": "Infinix X6843B"
+  }
+ ],
  "SMART 5": [
   {
    "brand": "Infinix",
@@ -144483,6 +144530,20 @@
    "brand": "KUVA",
    "device": "Pad",
    "model": "KUVA Pad"
+  }
+ ],
+ "15C": [
+  {
+   "brand": "KXD mobile",
+   "device": "15C",
+   "model": "15C"
+  }
+ ],
+ "18_Max": [
+  {
+   "brand": "KXD mobile",
+   "device": "18_Max",
+   "model": "18_Max"
   }
  ],
  "A06": [
@@ -172465,6 +172526,13 @@
    "model": "COMEK Tab 20"
   }
  ],
+ "COMEK_Tab_Joy_20": [
+  {
+   "brand": "MYCOM",
+   "device": "COMEK_Tab_Joy_20",
+   "model": "COMEK Tab Joy 20"
+  }
+ ],
  "COMEK_Tab_K": [
   {
    "brand": "MYCOM",
@@ -174159,6 +174227,13 @@
    "brand": "Maxwest",
    "device": "MX-A67WW",
    "model": "ASTRO A67"
+  }
+ ],
+ "ASTRO A68": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-A68MM",
+   "model": "ASTRO A68"
   }
  ],
  "ASTRO_10": [
@@ -233877,6 +233952,13 @@
    "model": "VISION"
   }
  ],
+ "S6539Z": [
+  {
+   "brand": "Ruio",
+   "device": "S6539Z",
+   "model": "S6539Z"
+  }
+ ],
  "S6705": [
   {
    "brand": "Ruio",
@@ -235019,6 +235101,13 @@
    "model": "SA08_310"
   }
  ],
+ "SA08_3100": [
+  {
+   "brand": "SINAL",
+   "device": "SA08_3100",
+   "model": "SA08_3100"
+  }
+ ],
  "SINAT TOUCH ST": [
   {
    "brand": "SINAT",
@@ -235380,6 +235469,13 @@
    "brand": "SKYEGG",
    "device": "K15_US",
    "model": "K15_US"
+  }
+ ],
+ "K16_C": [
+  {
+   "brand": "SKYEGG",
+   "device": "K16_C",
+   "model": "K16_C"
   }
  ],
  "K16_E": [
@@ -272609,6 +272705,20 @@
    "brand": "Stylo",
    "device": "Future",
    "model": "Future"
+  }
+ ],
+ "STYLO LEGACY": [
+  {
+   "brand": "Stylo",
+   "device": "LEGACY",
+   "model": "LEGACY"
+  }
+ ],
+ "STYLO LEGEND": [
+  {
+   "brand": "Stylo",
+   "device": "LEGEND",
+   "model": "LEGEND"
   }
  ],
  "STYLO MAX": [

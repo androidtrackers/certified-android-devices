@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-14
+Last sync is 2026-10-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2575,6 +2575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artia|Artia SP545C|SP545C|SP545C|
 |Artia|SP545CV|SP545C|SP545C|
 |Artia|SP545C_1|SP545C|SP545C|
+|Artia|SP676W|SP676W|SP676W|
 |Artizlee|Artizlee S9|Artizlee_S9|Artizlee_S9|
 |Arçelik|Arcelik Android TV|shinagawa|Arcelik Android TV|
 |Arçelik|Arçelik Android TV|kunyang|Arcelik Android TV|
@@ -7363,6 +7364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|coolpad COOL 30i|CP12Q|CP12Q|
 |Coolpad|coolpad CP12|CP12|CP12|
 |Coolpad|coolpad CP12s|CP12s|CP12s|
+|Coolpad|coolpad K22|K22|K22|
 |Coolpad|coolpad N7 Air|2021|2021|
 |Coolpad|coolpad N7 Plus|coolpad_N7_Plus|2032|
 |Coolpad|cp3648A|cp3648a|cp3648A|
@@ -7684,6 +7686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAMASCO|TAB-T126-8|TAB-T126-8|TAB-T126-8|
 |DAMASCO|TAB-T537-10|TAB-T537-10|TAB-T537-10|
 |DAMASCO|TAB-T863-3|TAB-T863-3|TAB-T863-3|
+|DAMASCO|tk101_4|tk101_4|TAB-TK101-4|
 |DANDOON|A2|A2|A2|
 |DARVEEN|RTC_M102|RTC_M102|RTC_M102|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
@@ -8035,6 +8038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DMOAO|D6_EEA|D6_EEA|D6_EEA|
 |DMOAO|D6_US|D6_US|D6_US|
 |DMOAO|D7_EEA|D7_EEA|D7_EEA|
+|DMOAO|D7_U|D7_U|D7_U|
 |DMOAO|D7_US|D7_US|D7_US|
 |DMOAO|DMOAO_D2_EEA|DMOAO_D2_EEA|DMOAO_D2_EEA|
 |DMOAO|DMOAO_D2_US|DMOAO_D2_US|DMOAO_D2_US|
@@ -15400,6 +15404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Horion|M6AProV2|M6AProV2|M6AProV2|
 |HorusVision|FieldHub1_0_EEA|FieldHub1_0|FieldHub1_0|
 |HorusVision|FieldHub1_0_ROW|FieldHub1_0|FieldHub1_0|
+|Hosan|L67|4G_Smart_Phone|L67|
 |Hosoton|H-H101_EEA|H-H101_EEA|H-H101_EEA|
 |Hosoton|H101_EEA|H101|H101|
 |Hot Pepper|15 Pro Max|15_Pro_Max|15 Pro Max|
@@ -18171,6 +18176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART 10 PLUS|Infinix-X6725C|Infinix X6725C|
 |Infinix|SMART 20|Infinix-X6840|Infinix X6840|
 |Infinix|SMART 20|Infinix-X6840B|Infinix X6840B|
+|Infinix|SMART 20e|Infinix-X6843B|Infinix X6843B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5 HD|Infinix-X6511|Infinix X6511|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
@@ -19972,6 +19978,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KUU-Tech|UPAD2021_EEA|UPAD2021|UPad|
 |KUVA|Pad|Pad|KUVA Pad|
 |KWUMSY|G1|G1|G1|
+|KXD mobile|15C|15C|15C|
+|KXD mobile|18_Max|18_Max|18_Max|
 |KXD mobile|A06|A06|A06|
 |KXD mobile|A07|A07|A07|
 |KXD mobile|A07 go|A07_go|A07_go|
@@ -24738,6 +24746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MYCOM|COMEK_Smart20|COMEK_Smart20|COMEK_Smart20|
 |MYCOM|COMEK_Tab_10|COMEK_Tab_10|COMEK Tab 10|
 |MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
+|MYCOM|COMEK_Tab_Joy_20|COMEK_Tab_Joy_20|COMEK Tab Joy 20|
 |MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K|
 |MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K10|
 |MYCOM|COMEK_Tab_K2|COMEK_Tab_K2|COMEK Tab K2|
@@ -25017,6 +25026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|ASTRO A65|MX-A65|MX-A65|
 |Maxwest|ASTRO A66|MX-A66WW|ASTRO A66|
 |Maxwest|ASTRO A67|MX-A67WW|ASTRO A67|
+|Maxwest|ASTRO A68|MX-A68MM|ASTRO A68|
 |Maxwest|ASTRO_10|MX-A10WW|MX-A10|
 |Maxwest|ASTRO_10_1|MX-AA10WW01|MX-A10|
 |Maxwest|ASTRO_10_A|MX-A10WW|MX-A10|
@@ -31036,6 +31046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PIXGOOD|M618-EEA|M618-EEA|M618-EEA|
 |PIXGOOD|M902-EEA|M902-EEA|M902-EEA|
 |PIXIUM|PIXIUM_X7|PIXIUM_X7|X7|
+|PIXIUM|X6|PIXIUM_X6|X6|
 |PIXPEAK|L60-EEA|L60-EEA|L60-EEA|
 |PIXPEAK|M186-EEA|M186-EEA|M186-EEA|
 |PIXPEAK|M258-EEA|M258-EEA|M258-EEA|
@@ -34804,6 +34815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6539Q|S6539Q|S6539Q|
 |Ruio|S6539Q|S6539Q|T1|
 |Ruio|S6539Q|S6539Q|VISION|
+|Ruio|S6539Z|S6539Z|S6539Z|
 |Ruio|S6705|S6705|S6705|
 |Ruio|Smart One|ZIP_PLUS|RS2613|
 |Ruio|Smart One|ZIP_PLUS|Smart One|
@@ -35026,6 +35038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SIMI|DREAM2|DREAM2|Dream2|
 |SIMI|simi X3|simi_X3|simi X3|
 |SINAL|SA08_310|SA08_310|SA08_310|
+|SINAL|SA08_3100|SA08_3100|SA08_3100|
 |SINAT|SINAT TOUCH ST|SINAT_TOUCH_ST|SINAT_TOUCH_ST|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
@@ -35080,6 +35093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|K13_US|K13_US|K13_US|
 |SKYEGG|K15_EEA|K15_EEA|K15_EEA|
 |SKYEGG|K15_US|K15_US|K15_US|
+|SKYEGG|K16_C|K16_C|K16_C|
 |SKYEGG|K16_E|K16_E|K16_E|
 |SKYEGG|K16_US|K16_US|K16_US|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_EEA|
@@ -41591,6 +41605,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|SONIC|SONIC|STYLO SONIC|
 |Stylo|STEP_UP|STEP_UP|STEP_UP|
 |Stylo|STYLO Future|Future|Future|
+|Stylo|STYLO LEGACY|LEGACY|LEGACY|
+|Stylo|STYLO LEGEND|LEGEND|LEGEND|
 |Stylo|STYLO MAX|Stylo_Max|MAX|
 |Stylo|STYLOF1|STYLOF1|STYLO F1|
 |Stylo|STYLO_DASH|DASH|DASH|
