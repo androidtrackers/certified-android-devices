@@ -50603,6 +50603,13 @@
    "model": "BNT-1012"
   }
  ],
+ "BP76A16": [
+  {
+   "brand": "Bluefin",
+   "device": "BP76A16",
+   "model": "BP76A16"
+  }
+ ],
  "BM-12WTN": [
   {
    "brand": "Bluemake",
@@ -67000,6 +67007,13 @@
    "model": "T1B"
   }
  ],
+ "T50PV_16R": [
+  {
+   "brand": "DABLIU",
+   "device": "T50PV_16R",
+   "model": "T50PV_16R"
+  }
+ ],
  "Vietnam": [
   {
    "brand": "DAIICHI",
@@ -72336,6 +72350,13 @@
    "brand": "Dghrti",
    "device": "TAB30_EEA",
    "model": "TAB30_EEA"
+  }
+ ],
+ "TAB30_U": [
+  {
+   "brand": "Dghrti",
+   "device": "TAB30_U",
+   "model": "TAB30_U"
   }
  ],
  "TAB30_US": [
@@ -111650,6 +111671,11 @@
    "brand": "Hisense",
    "device": "huanghe",
    "model": "HIDB 4K"
+  },
+  {
+   "brand": "Hisense",
+   "device": "mohe",
+   "model": "HIDB 4K"
   }
  ],
  "H5500F": [
@@ -128342,6 +128368,13 @@
    "model": "10WC1"
   }
  ],
+ "HT10WC1MSG03": [
+  {
+   "brand": "Hyundai",
+   "device": "HT10WC1MSG03",
+   "model": "10WC1"
+  }
+ ],
  "HT7GB1MBK_": [
   {
    "brand": "Hyundai",
@@ -140533,6 +140566,13 @@
    "brand": "Janam",
    "device": "HT1",
    "model": "HT1"
+  }
+ ],
+ "HT2": [
+  {
+   "brand": "Janam",
+   "device": "HT2",
+   "model": "HT2"
   }
  ],
  "XG200": [
@@ -216087,6 +216127,13 @@
    "model": "S4G"
   }
  ],
+ "T11_EEA": [
+  {
+   "brand": "Phone Max",
+   "device": "T11",
+   "model": "T11"
+  }
+ ],
  "T1_N": [
   {
    "brand": "Phone Max",
@@ -235436,6 +235483,13 @@
    "model": "K13-US"
   }
  ],
+ "K13_C": [
+  {
+   "brand": "SKYEGG",
+   "device": "K13_C",
+   "model": "K13_C"
+  }
+ ],
  "K13_E": [
   {
    "brand": "SKYEGG",
@@ -235483,6 +235537,13 @@
    "brand": "SKYEGG",
    "device": "K16_E",
    "model": "K16_E"
+  }
+ ],
+ "K16_U": [
+  {
+   "brand": "SKYEGG",
+   "device": "K16_U",
+   "model": "K16_U"
   }
  ],
  "K16_US": [
@@ -237666,6 +237727,13 @@
    "model": "S3_EEA"
   }
  ],
+ "S3_U": [
+  {
+   "brand": "SUAAT",
+   "device": "S3_U",
+   "model": "S3_U"
+  }
+ ],
  "S3_US": [
   {
    "brand": "SUAAT",
@@ -237720,6 +237788,13 @@
    "brand": "SUAAT",
    "device": "S6_US",
    "model": "S6_US"
+  }
+ ],
+ "Z138_C": [
+  {
+   "brand": "SUAAT",
+   "device": "Z138_C",
+   "model": "Z138_C"
   }
  ],
  "SUNTB_01_GY": [
@@ -275059,6 +275134,18 @@
    "model": "SA70"
   }
  ],
+ "T19_Plus": [
+  {
+   "brand": "T-SOURCE",
+   "device": "T19_Plus",
+   "model": "Smarti Gen 3"
+  },
+  {
+   "brand": "T-SOURCE",
+   "device": "T19_Plus",
+   "model": "T19_Plus"
+  }
+ ],
  "JP SA COUTO": [
   {
    "brand": "TA71CA5_JP",
@@ -275497,6 +275584,13 @@
    "brand": "TAMBOARD",
    "device": "oversea_v",
    "model": "TB_Series"
+  }
+ ],
+ "TM1062": [
+  {
+   "brand": "TAPC",
+   "device": "TM1062",
+   "model": "TM1062"
   }
  ],
  "TATV-8000": [
@@ -297094,6 +297188,13 @@
    "brand": "UJJ(SZ)",
    "device": "U3_V_US",
    "model": "U3_V_US"
+  }
+ ],
+ "U6_C": [
+  {
+   "brand": "UJJ(SZ)",
+   "device": "U6_C",
+   "model": "U6_C"
   }
  ],
  "U6_E": [
@@ -344742,6 +344843,13 @@
    "model": "Unitel SMART 4G II SP136"
   }
  ],
+ "SMART_4G_III": [
+  {
+   "brand": "unitel",
+   "device": "SMART_4G_III",
+   "model": "Unitel Smart III 4G SP160A"
+  }
+ ],
  "U901": [
   {
    "brand": "unitel",
@@ -345241,6 +345349,16 @@
    "brand": "vivo",
    "device": "PD2608",
    "model": "V2608DA"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2621",
+   "model": "V2621"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2621",
+   "model": "V2622"
   }
  ],
  "X500 Pro Max": [
@@ -345248,6 +345366,11 @@
    "brand": "vivo",
    "device": "PD2602",
    "model": "V2602A"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2610",
+   "model": "V2610"
   }
  ],
  "X500 Pro Max 卫星通信版": [

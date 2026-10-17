@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-16
+Last sync is 2026-10-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5427,6 +5427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluedot|BNT-801W|BNT_801W|BNT-801W|
 |Bluedot|BNT-802|BNT-802|BNT-802|
 |Bluedot|BNT_1012W|BNT_1012W|BNT-1012|
+|Bluefin|BP76A16|BP76A16|BP76A16|
 |Bluemake|BM-12WTN|BM-12WTN|BM-12WTN|
 |Bluesky|BSS45|BSS45|BSS45|
 |Bluesky|BSS50|BSS50|BSS50|
@@ -7667,6 +7668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DABLIU|E1N|E1N|E1N|
 |DABLIU|L1R|L1R|L1R|
 |DABLIU|T1B|T1B|T1B|
+|DABLIU|T50PV_16R|T50PV_16R|T50PV_16R|
 |DAIICHI|Vietnam|martin|Daiichi 2K SMART TV|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
@@ -8448,6 +8450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dghrti|TAB30-W|TAB30-W|TAB30-W|
 |Dghrti|TAB30_E|TAB30_E|TAB30_E|
 |Dghrti|TAB30_EEA|TAB30_EEA|TAB30_EEA|
+|Dghrti|TAB30_U|TAB30_U|TAB30_U|
 |Dghrti|TAB30_US|TAB30_US|TAB30_US|
 |Dghrti|TAB50_EEA|TAB50_EEA|TAB50_EEA|
 |Dghrti|TAB50_US|TAB50_US|TAB50_US|
@@ -14291,6 +14294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Goboard Series|changjiang|HIDB 4K|
 |Hisense|Goboard Series|huaihe|HIDB 4K|
 |Hisense|Goboard Series|huanghe|HIDB 4K|
+|Hisense|Goboard Series|mohe|HIDB 4K|
 |Hisense|H5500F|harajuku|HiSmart 2K ATV4|
 |Hisense|H800T|H800T|HS-H800T|
 |Hisense|H910|HS8929QC|Hisense H910|
@@ -17322,6 +17326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10WC1MSG01|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG01_EEA|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG01_US|HT10WC1MSG01|10WC1|
+|Hyundai|HT10WC1MSG03|HT10WC1MSG03|10WC1|
 |Hyundai|HT7GB1MBK_|HT7GB1MBK_|7GB1|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
 |Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
@@ -19324,6 +19329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jambo_Technology|JamboPhone|JP1|JP1|
 |Jambo_Technology|JamboPhone2|JP2|JP2|
 |Janam|HT1|HT1|HT1|
+|Janam|HT2|HT2|HT2|
 |Janam|XG200|XG200|XG200|
 |Janam|XG4|XG4|XG4|
 |Janam|XG5|XG5|XG5|
@@ -31966,6 +31972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phone Max|Rocky 2|Rocky_2|Rocky 2|
 |Phone Max|Rocky_1|Rocky_1|Rocky_1|
 |Phone Max|S4G|S4G|S4G|
+|Phone Max|T11_EEA|T11|T11|
 |Phone Max|T12|T12|T12|
 |Phone Max|T1_N|T1|T1|
 |Phone Max|X1|X1|X1|
@@ -35088,6 +35095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|K13-U-EEA|K13-U-EEA|K13-U-EEA|
 |SKYEGG|K13-U-US|K13-U-US|K13-U-US|
 |SKYEGG|K13-U-US|K13-U-US|K13-US|
+|SKYEGG|K13_C|K13_C|K13_C|
 |SKYEGG|K13_E|K13_E|K13_E|
 |SKYEGG|K13_EEA|K13_EEA|K13_EEA|
 |SKYEGG|K13_US|K13_US|K13_US|
@@ -35095,6 +35103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SKYEGG|K15_US|K15_US|K15_US|
 |SKYEGG|K16_C|K16_C|K16_C|
 |SKYEGG|K16_E|K16_E|K16_E|
+|SKYEGG|K16_U|K16_U|K16_U|
 |SKYEGG|K16_US|K16_US|K16_US|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_EEA|
 |SKYEGG|X2_S_EEA|X2_EEA|X2_S_EEA|
@@ -35440,6 +35449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S11_V_US|S11_V_US|S11_V_US|
 |SUAAT|S3_E|S3_E|S3_E|
 |SUAAT|S3_EEA|S3_EEA|S3_EEA|
+|SUAAT|S3_U|S3_U|S3_U|
 |SUAAT|S3_US|S3_US|S3_US|
 |SUAAT|S3_U_EEA|S3_U_EEA|S3_U_EEA|
 |SUAAT|S3_U_US|S3_U_US|S3_U_US|
@@ -35448,6 +35458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S6-U-EEA|S6-U-EEA|S6-EEA|
 |SUAAT|S6_EEA|S6_EEA|S6_EEA|
 |SUAAT|S6_US|S6_US|S6_US|
+|SUAAT|Z138_C|Z138_C|Z138_C|
 |SUNCONNECTION|SUNTB_01_GY|SUNTB_01_GY|SUNTB 01 GY|
 |SUNMAX|Model 6 Pro Max 4G|Model_6_Pro_Max_4G|Model_6_Pro_Max_4G|
 |SUNMAX|Model D|Model_D|Model D|
@@ -41993,6 +42004,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
 |T-Mobile-CZ-Telekom-SK|TV Box HY4403|HY44G|TV Box|
 |T-SOURCE|SA70|T70|T70|
+|T-SOURCE|T19_Plus|T19_Plus|Smarti Gen 3|
+|T-SOURCE|T19_Plus|T19_Plus|T19_Plus|
 |TA71CA5_JP|JP SA COUTO|S.A. _MG070A2T|TA71CA5_1|
 |TABWEE|K10_EEA|K10_EEA|K10|
 |TABWEE|K10_NEU|K10_NEU|K10|
@@ -42055,6 +42068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAIFA|TL1B_68|TL1B_68|TL1B_68|
 |TAMBOARD|TB_GH|TB_GH|TB_GH|
 |TAMBOARD|TB_Series|oversea_v|TB_Series|
+|TAPC|TM1062|TM1062|TM1062|
 |TASKPHONE|T20|T20P|T20|
 |TATUNG|Smart TV|alimos|AI PONT|
 |TATUNG|Smart TV|dangni|AI PONT|
@@ -45805,6 +45819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UJJ(SZ)|U3_US|U3_US|U3_US|
 |UJJ(SZ)|U3_V_EEA|U3_V_EEA|U3_V_EEA|
 |UJJ(SZ)|U3_V_US|U3_V_US|U3_V_US|
+|UJJ(SZ)|U6_C|U6_C|U6_C|
 |UJJ(SZ)|U6_E|U6_E|U6_E|
 |UJJ(SZ)|U6_EEA|U6_EEA|U6_EEA|
 |UJJ(SZ)|U6_U|U6_U|U6_U|
@@ -53889,6 +53904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |unitel|BOX TV 4K UNITEL NET CASA|Unitel_B866V6-H|BOX TV 4K UNITEL NET CASA|
 |unitel|P45|P45|P45|
 |unitel|SMART_4G_II|SMART_4G_II|Unitel SMART 4G II SP136|
+|unitel|SMART_4G_III|SMART_4G_III|Unitel Smart III 4G SP160A|
 |unitel|U901|U901|U901|
 |unitel|U902|U902|U902|
 |unitel|U903|U903|U903|
@@ -53990,7 +54006,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|X500 E|V2648|V2656|
 |vivo|X500 Pro|PD2608|V2608A|
 |vivo|X500 Pro|PD2608|V2608DA|
+|vivo|X500 Pro|V2621|V2621|
+|vivo|X500 Pro|V2621|V2622|
 |vivo|X500 Pro Max|PD2602|V2602A|
+|vivo|X500 Pro Max|V2610|V2610|
 |vivo|X500 Pro Max 卫星通信版|PD2602|V2602DA|
 |vivo|Y04e|V2430|V2532|
 |vivo|Y05|V2556|V2556|
