@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-18
+Last sync is 2026-10-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30791,6 +30791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Overmax|OV-Qualcore-7023-3G|OV-Qualcore-7023-3G|OV-Qualcore-7023-3G|
 |Overmax|OV10273G|OV10273G|OV10273G|
 |Overmax|OV10274G|OV10274G|OV10274G|
+|Ovion|N50_Pro|N50_Pro|N50_Pro|
 |Ovion|V11_Lite_TR|V11_Lite|V11 Lite|
 |Ovion|V15_LITE|V15_LITE|V15_LITE|
 |Ovion|V20_PRO_TR|V20_PRO|V20 PRO|
@@ -32106,6 +32107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids20_EEA|Kids20_EEA|Kids20|
 |Plimpton|Kids20_PA15|Kids20_PA15|Kids20_PA15|
 |Plimpton|Kids20_PA15_EEA|Kids20_PA15_EEA|Kids20_PA15_EEA|
+|Plimpton|Kids30_A16_JAE|Kids30_A16_JAE|Kids30_A16_JAE|
 |Plimpton|Kids_10|Kids_10|Kids_10|
 |Plimpton|Kids_10_EEA|Kids_10_EEA|Kids 10|
 |Plimpton|Kids_10_ver13|Kids_10_ver13|Kids 10|
@@ -36602,6 +36604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F56 5G|m56x|SM-E566B|
 |Samsung|Galaxy F62|f62|SM-E625F|
 |Samsung|Galaxy F70 5G|a17x|SM-E176E|
+|Samsung|Galaxy F70 Pro 5G|m47xq|SM-E476B|
 |Samsung|Galaxy F70e 5G|a07x|SM-E076B|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
@@ -37044,6 +37047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M36 5G|m36x|SM-M366B|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
+|Samsung|Galaxy M47 5G|m47xq|SM-M476B|
 |Samsung|Galaxy M51|m51|SM-M515F|
 |Samsung|Galaxy M52 5G|m52xq|SM-M526B|
 |Samsung|Galaxy M52 5G|m52xq|SM-M526BR|
@@ -45990,6 +45994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X16|GQ5020TH1P19|Armor X16|
 |Ulefone|Armor X16 Pro|GQ5020BH1|Armor X16 Pro|
 |Ulefone|Armor X17 Pro|GQ3133TH1|Armor X17 Ultra|
+|Ulefone|Armor X17 Ultra|GQ3133TH3|Armor X17 Pro|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X31|GQ5015RH1|Armor X31|
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|
@@ -46434,6 +46439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UnionTek|S65|S65|S65|
 |UnionTek|S65L|S651|S65L|
 |UnionTek|S65L|S65L|S65L|
+|UnionTek|T80|T800|T80|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
 |Unionaire|UnionaireATV4K|hanyang|Unionaire Android TV|
 |Unionbell|U30|U30|U30|
@@ -53381,6 +53387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PK76A|PK76A|PK76A|
 |onn.|PM1042T-W|PM1042T-W|PM1042T-W|
 |onn.|PM1042TW|PM1042TW|PM1042TW|
+|onn.|PM108AK|PM108AK|PM108AK|
 |onn.|PM116T|PM116T|PM116T|
 |onn.|PM116T_LTE|PM116T_LTE|PM116T_LTE|
 |onn.|PM82T|PM82T|PM82T|

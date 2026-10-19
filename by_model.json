@@ -75272,6 +75272,11 @@
    "device": "T80_2025"
   },
   {
+   "brand": "UnionTek",
+   "name": "T80",
+   "device": "T800"
+  },
+  {
    "brand": "Veidoo",
    "name": "T80",
    "device": "T80"
@@ -213106,6 +213111,13 @@
    "device": "OV10274G"
   }
  ],
+ "N50_Pro": [
+  {
+   "brand": "Ovion",
+   "name": "N50_Pro",
+   "device": "N50_Pro"
+  }
+ ],
  "V11 Lite": [
   {
    "brand": "Ovion",
@@ -221175,6 +221187,13 @@
    "brand": "Plimpton",
    "name": "Kids20_PA15_EEA",
    "device": "Kids20_PA15_EEA"
+  }
+ ],
+ "Kids30_A16_JAE": [
+  {
+   "brand": "Plimpton",
+   "name": "Kids30_A16_JAE",
+   "device": "Kids30_A16_JAE"
   }
  ],
  "Kids_10": [
@@ -248946,6 +248965,13 @@
    "device": "a17x"
   }
  ],
+ "SM-E476B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F70 Pro 5G",
+   "device": "m47xq"
+  }
+ ],
  "SM-E076B": [
   {
    "brand": "Samsung",
@@ -252029,6 +252055,13 @@
    "brand": "Samsung",
    "name": "Galaxy M42 5G",
    "device": "a42xq"
+  }
+ ],
+ "SM-M476B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M47 5G",
+   "device": "m47xq"
   }
  ],
  "SM-M515F": [
@@ -309592,6 +309625,13 @@
    "device": "GQ3133TH1"
   }
  ],
+ "Armor X17 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X17 Ultra",
+   "device": "GQ3133TH3"
+  }
+ ],
  "Armor_X2": [
   {
    "brand": "Ulefone",
@@ -355413,6 +355453,13 @@
    "brand": "onn.",
    "name": "PM1042TW",
    "device": "PM1042TW"
+  }
+ ],
+ "PM108AK": [
+  {
+   "brand": "onn.",
+   "name": "PM108AK",
+   "device": "PM108AK"
   }
  ],
  "PM116T": [

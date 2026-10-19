@@ -158583,6 +158583,11 @@
  ],
  "Ovion": [
   {
+   "device": "N50_Pro",
+   "name": "N50_Pro",
+   "model": "N50_Pro"
+  },
+  {
    "device": "V11_Lite",
    "name": "V11_Lite_TR",
    "model": "V11 Lite"
@@ -165366,6 +165371,11 @@
    "device": "Kids20_PA15_EEA",
    "name": "Kids20_PA15_EEA",
    "model": "Kids20_PA15_EEA"
+  },
+  {
+   "device": "Kids30_A16_JAE",
+   "name": "Kids30_A16_JAE",
+   "model": "Kids30_A16_JAE"
   },
   {
    "device": "Kids_10",
@@ -188526,6 +188536,11 @@
    "model": "SM-E176E"
   },
   {
+   "device": "m47xq",
+   "name": "Galaxy F70 Pro 5G",
+   "model": "SM-E476B"
+  },
+  {
    "device": "a07x",
    "name": "Galaxy F70e 5G",
    "model": "SM-E076B"
@@ -190734,6 +190749,11 @@
    "device": "a42xq",
    "name": "Galaxy M42 5G",
    "model": "SM-M426B"
+  },
+  {
+   "device": "m47xq",
+   "name": "Galaxy M47 5G",
+   "model": "SM-M476B"
   },
   {
    "device": "m51",
@@ -236420,6 +236440,11 @@
    "model": "Armor X17 Ultra"
   },
   {
+   "device": "GQ3133TH3",
+   "name": "Armor X17 Ultra",
+   "model": "Armor X17 Pro"
+  },
+  {
    "device": "Armor_X2",
    "name": "Armor X2",
    "model": "Armor_X2"
@@ -238664,6 +238689,11 @@
    "device": "S65L",
    "name": "S65L",
    "model": "S65L"
+  },
+  {
+   "device": "T800",
+   "name": "T80",
+   "model": "T80"
   }
  ],
  "Unionaire": [
@@ -274497,6 +274527,11 @@
    "device": "PM1042TW",
    "name": "PM1042TW",
    "model": "PM1042TW"
+  },
+  {
+   "device": "PM108AK",
+   "name": "PM108AK",
+   "model": "PM108AK"
   },
   {
    "device": "PM116T",
