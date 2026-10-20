@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-19
+Last sync is 2026-10-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1444,6 +1444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|JA5-TBA1102|JA5-TBA1102|JA5-TBA1102|
 |Aiwa|JA5-TBA1201|JA5-TBA1201|JA5-TBA1201|
 |Aiwa|JA6-TBA1103|JA6-TBA1103|JA6-TBA1103|
+|Aiwa|JA6-TBA1202|JA6-TBA1202|JA6-TBA1202|
 |Aiwa|R3|R3|R3|
 |Aiwa|R4|R4|R4|
 |Aiwa|Smart TV|alimos|AI PONT|
@@ -7680,6 +7681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAIYU|MBTWDY01|Mediabox|MBTWDY01|
 |DAMASCO|DAMASCO|dawu|4K SMART TV|
 |DAMASCO|DAMASCO MOBILE SERIE M-300 VISION|SERIE_M_300|SERIE_M_300|
+|DAMASCO|MC400|MC400|MC400|
 |DAMASCO|SERIE_M_100|SERIE_M_100|SERIE_M_100|
 |DAMASCO|SERIE_M_200|SERIE_M_200|SERIE_M_200|
 |DAMASCO|T8620-6|T8620-6|T8620-6|
@@ -7707,6 +7709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEERTiME|E10_US|E10_US|E10_US|
 |DEERTiME|E11_E|E11_E|E11_E|
 |DEERTiME|E11_EEA|E11_EEA|E11_EEA|
+|DEERTiME|E11_U|E11_U|E11_U|
 |DEERTiME|E11_US|E11_US|E11_US|
 |DEERTiME|E15_E|E15_E|E15_E|
 |DEERTiME|E15_EEA|E15_EEA|E15_EEA|
@@ -9452,6 +9455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30L1_EEA|A30L1|A30L1|
 |ECOPAD|A30L1_US|A30L1|A30L1|
 |ECOPAD|A30L1_US|A30L1|A30L2|
+|ECOPAD|A30L1_US|A30L1|E30-A|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A_US|
@@ -20816,6 +20820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LAGENIO|Panther2_EEA|Panther2|Panther2|
 |LAGENIO|Panther2_Pro_EEA|Panther2_Pro|Panther2 Pro|
 |LAGENIO|Rhino 1 Pro|Rhino_1_Pro|Rhino 1 Pro|
+|LAGENIO|Rhino_2_EEA|Rhino_2|Rhino 2|
 |LAMINA|LTT8A4G_EEA|LTT8A4G_EEA|LTT8A4G|
 |LAMZIEN|LAMZIEN_P2|LAMZIEN_P2|LAMZIEN_P2|
 |LANDI|C20PlusN00|C20Plus-G-00|C20 Plus|
@@ -22751,6 +22756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|V7 Prime|LE9940|LAVA LE9940|
 |Lava|V7s Prime|LE9940_W|LAVA LE9940_W|
 |Lava|V8|LE9910|LE9910|
+|Lava|Virat Curve 5G|LXX529|LAVA LXX529|
 |Lava|X10|X10|LavaX10|
 |Lava|X10|X10|X10|
 |Lava|X11|X11|X11|
@@ -35447,6 +35453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUAAT|S10_V_EEA|S10_V_EEA|S10_V_EEA|
 |SUAAT|S10_V_US|S10_V_US|S10_V_US|
 |SUAAT|S11_E|S11_E|S11_E|
+|SUAAT|S11_U|S11_U|S11_U|
 |SUAAT|S11_V_EEA|S11_V_EEA|S11_V_EEA|
 |SUAAT|S11_V_US|S11_V_US|S11_V_US|
 |SUAAT|S3_E|S3_E|S3_E|
@@ -45520,6 +45527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Topsand|N8_Plus|N8_Plus|N8_Plus|
 |Topwise|SK-315|SK-315|SK-315|
 |Topwise|SK210|SK210|SK210|
+|Topwise|SK210S|SK210S|SK210S|
 |Topwise|SK315|SK315|SK315|
 |Torex|Rugged_tablets|Torex8plus|Torex8plus|
 |Tormaxx|TX_R-824|TX_R-824|TX_R-824|
@@ -45994,6 +46002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X16|GQ5020TH1P19|Armor X16|
 |Ulefone|Armor X16 Pro|GQ5020BH1|Armor X16 Pro|
 |Ulefone|Armor X17 Pro|GQ3133TH1|Armor X17 Ultra|
+|Ulefone|Armor X17 Pro|GQ3133TH3|Armor X17 Pro|
 |Ulefone|Armor X17 Ultra|GQ3133TH3|Armor X17 Pro|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X31|GQ5015RH1|Armor X31|
@@ -49272,6 +49281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wpawa|HT10-AB|HT10-AB|HT10-PRO|
 |Wpawa|HT10-PRO|HT10-PRO|HT10-PRO|
 |Wpawa|HT10_Plus|HT10_Plus|HT10_Plus|
+|Wpawa|HT10_Plus_A17|HT10_Plus_A17|HT10_Plus_A17|
 |Wpawa|HT10_Ultra|HT10_Ultra|HT10_Ultra|
 |X-Age|A1|A1|A1|
 |X-Age|ACE|ACE|ACE|
@@ -49382,6 +49392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-mobile|X4|X4|X4|
 |X-mobile|X63Pro|X_63_B_ProB|X63Pro|
 |X-mobile|XW|XW|XW|
+|XATOM|TANK|XATOM_TANK|TANK|
 |XB(TABLETS INDIA)|XB-T11i|XB-T11i|XB-T11i|
 |XD-DML|ITALY|guandu|XD 4K Andriod TV|
 |XD-DML|XD|martin|XD 2K Andriod TV|
@@ -49395,12 +49406,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XENON|XENON ANDROID TV|nagata|XENON ANDROID TV|
 |XForge|XForge 01|XForge01|XForge 01|
 |XGIMI|AURA 2 (New)|kasol|WM18P|
+|XGIMI|AURA 3 Max|kasol|XP06B|
+|XGIMI|AURA 3 Pro|kasol|XP04B|
 |XGIMI|Elfin Flip 4K|munnar|XM03U|
 |XGIMI|Elfin Flip Laser|karjat|WM03R|
 |XGIMI|Elfin Flip Plus|altai|WK03C|
 |XGIMI|HORIZON 20|kasol|XR13A|
 |XGIMI|HORIZON 20 Max|kasol|XR16A|
 |XGIMI|HORIZON 20 Pro|kasol|XR14A|
+|XGIMI|HORIZON 30 Max|kasol|XR18A|
+|XGIMI|HORIZON 30 Pro|kasol|XR17A|
+|XGIMI|HORIZON 30 Ultra Max|kasol|XR19A|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|Halo+|altai|H0030|
 |XGIMI|MIRA|kasol|XP03C|
@@ -52669,6 +52685,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |fezawio|F10_US|F10_US|F10_US|
 |fezawio|F11_EEA|F11_EEA|F11_EEA|
 |fezawio|F11_US|F11_US|F11_US|
+|fezawio|F11_U_US|F11_U_US|F11_U|
+|fezawio|F11_U_US|F11_U_US|F11_U_US|
 |fezawio|F11_V_EEA|F11_V_EEA|F11_V_EEA|
 |fezawio|F11_V_US|F11_V_US|F11_V_US|
 |fezawio|F12_EEA|F12_EEA|F12_EEA|

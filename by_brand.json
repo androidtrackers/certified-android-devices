@@ -7576,6 +7576,11 @@
    "model": "JA6-TBA1103"
   },
   {
+   "device": "JA6-TBA1202",
+   "name": "JA6-TBA1202",
+   "model": "JA6-TBA1202"
+  },
+  {
    "device": "R3",
    "name": "R3",
    "model": "R3"
@@ -39768,6 +39773,11 @@
    "model": "SERIE_M_300"
   },
   {
+   "device": "MC400",
+   "name": "MC400",
+   "model": "MC400"
+  },
+  {
    "device": "SERIE_M_100",
    "name": "SERIE_M_100",
    "model": "SERIE_M_100"
@@ -39919,6 +39929,11 @@
    "device": "E11_EEA",
    "name": "E11_EEA",
    "model": "E11_EEA"
+  },
+  {
+   "device": "E11_U",
+   "name": "E11_U",
+   "model": "E11_U"
   },
   {
    "device": "E11_US",
@@ -48978,6 +48993,11 @@
    "device": "A30L1",
    "name": "A30L1_US",
    "model": "A30L2"
+  },
+  {
+   "device": "A30L1",
+   "name": "A30L1_US",
+   "model": "E30-A"
   },
   {
    "device": "A30Pro_A",
@@ -107476,6 +107496,11 @@
    "device": "Rhino_1_Pro",
    "name": "Rhino 1 Pro",
    "model": "Rhino 1 Pro"
+  },
+  {
+   "device": "Rhino_2",
+   "name": "Rhino_2_EEA",
+   "model": "Rhino 2"
   }
  ],
  "LAMINA": [
@@ -117293,6 +117318,11 @@
    "device": "LE9910",
    "name": "V8",
    "model": "LE9910"
+  },
+  {
+   "device": "LXX529",
+   "name": "Virat Curve 5G",
+   "model": "LAVA LXX529"
   },
   {
    "device": "X10",
@@ -182697,6 +182727,11 @@
    "model": "S11_E"
   },
   {
+   "device": "S11_U",
+   "name": "S11_U",
+   "model": "S11_U"
+  },
+  {
    "device": "S11_V_EEA",
    "name": "S11_V_EEA",
    "model": "S11_V_EEA"
@@ -233918,6 +233953,11 @@
    "model": "SK210"
   },
   {
+   "device": "SK210S",
+   "name": "SK210S",
+   "model": "SK210S"
+  },
+  {
    "device": "SK315",
    "name": "SK315",
    "model": "SK315"
@@ -236438,6 +236478,11 @@
    "device": "GQ3133TH1",
    "name": "Armor X17 Pro",
    "model": "Armor X17 Ultra"
+  },
+  {
+   "device": "GQ3133TH3",
+   "name": "Armor X17 Pro",
+   "model": "Armor X17 Pro"
   },
   {
    "device": "GQ3133TH3",
@@ -253346,6 +253391,11 @@
    "model": "HT10_Plus"
   },
   {
+   "device": "HT10_Plus_A17",
+   "name": "HT10_Plus_A17",
+   "model": "HT10_Plus_A17"
+  },
+  {
    "device": "HT10_Ultra",
    "name": "HT10_Ultra",
    "model": "HT10_Ultra"
@@ -253908,6 +253958,13 @@
    "model": "XW"
   }
  ],
+ "XATOM": [
+  {
+   "device": "XATOM_TANK",
+   "name": "TANK",
+   "model": "TANK"
+  }
+ ],
  "XB(TABLETS INDIA)": [
   {
    "device": "XB-T11i",
@@ -253985,6 +254042,16 @@
    "model": "WM18P"
   },
   {
+   "device": "kasol",
+   "name": "AURA 3 Max",
+   "model": "XP06B"
+  },
+  {
+   "device": "kasol",
+   "name": "AURA 3 Pro",
+   "model": "XP04B"
+  },
+  {
    "device": "munnar",
    "name": "Elfin Flip 4K",
    "model": "XM03U"
@@ -254013,6 +254080,21 @@
    "device": "kasol",
    "name": "HORIZON 20 Pro",
    "model": "XR14A"
+  },
+  {
+   "device": "kasol",
+   "name": "HORIZON 30 Max",
+   "model": "XR18A"
+  },
+  {
+   "device": "kasol",
+   "name": "HORIZON 30 Pro",
+   "model": "XR17A"
+  },
+  {
+   "device": "kasol",
+   "name": "HORIZON 30 Ultra Max",
+   "model": "XR19A"
   },
   {
    "device": "xgimiapollo",
@@ -270721,6 +270803,16 @@
    "device": "F11_US",
    "name": "F11_US",
    "model": "F11_US"
+  },
+  {
+   "device": "F11_U_US",
+   "name": "F11_U_US",
+   "model": "F11_U"
+  },
+  {
+   "device": "F11_U_US",
+   "name": "F11_U_US",
+   "model": "F11_U_US"
   },
   {
    "device": "F11_V_EEA",

@@ -22465,6 +22465,13 @@
    "model": "JA6-TBA1103"
   }
  ],
+ "JA6-TBA1202": [
+  {
+   "brand": "Aiwa",
+   "name": "JA6-TBA1202",
+   "model": "JA6-TBA1202"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -69642,6 +69649,13 @@
    "model": "SERIE_M_300"
   }
  ],
+ "MC400": [
+  {
+   "brand": "DAMASCO",
+   "name": "MC400",
+   "model": "MC400"
+  }
+ ],
  "SERIE_M_100": [
   {
    "brand": "DAMASCO",
@@ -69822,6 +69836,13 @@
    "brand": "DEERTiME",
    "name": "E11_EEA",
    "model": "E11_EEA"
+  }
+ ],
+ "E11_U": [
+  {
+   "brand": "DEERTiME",
+   "name": "E11_U",
+   "model": "E11_U"
   }
  ],
  "E11_US": [
@@ -81874,6 +81895,11 @@
    "brand": "ECOPAD",
    "name": "A30L1_US",
    "model": "A30L2"
+  },
+  {
+   "brand": "ECOPAD",
+   "name": "A30L1_US",
+   "model": "E30-A"
   }
  ],
  "A30Pro_A": [
@@ -149646,6 +149672,13 @@
    "model": "Rhino 1 Pro"
   }
  ],
+ "Rhino_2": [
+  {
+   "brand": "LAGENIO",
+   "name": "Rhino_2_EEA",
+   "model": "Rhino 2"
+  }
+ ],
  "LTT8A4G_EEA": [
   {
    "brand": "LAMINA",
@@ -161269,6 +161302,13 @@
    "brand": "Lava",
    "name": "V7s Prime",
    "model": "LAVA LE9940_W"
+  }
+ ],
+ "LXX529": [
+  {
+   "brand": "Lava",
+   "name": "Virat Curve 5G",
+   "model": "LAVA LXX529"
   }
  ],
  "X17": [
@@ -237298,6 +237338,13 @@
    "model": "S11_E"
   }
  ],
+ "S11_U": [
+  {
+   "brand": "SUAAT",
+   "name": "S11_U",
+   "model": "S11_U"
+  }
+ ],
  "S11_V_EEA": [
   {
    "brand": "SUAAT",
@@ -296183,6 +296230,13 @@
    "model": "SK210"
   }
  ],
+ "SK210S": [
+  {
+   "brand": "Topwise",
+   "name": "SK210S",
+   "model": "SK210S"
+  }
+ ],
  "SK315": [
   {
    "brand": "Topwise",
@@ -298755,6 +298809,11 @@
   }
  ],
  "GQ3133TH3": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X17 Pro",
+   "model": "Armor X17 Pro"
+  },
   {
    "brand": "Ulefone",
    "name": "Armor X17 Ultra",
@@ -317872,6 +317931,13 @@
    "model": "HT10_Plus"
   }
  ],
+ "HT10_Plus_A17": [
+  {
+   "brand": "Wpawa",
+   "name": "HT10_Plus_A17",
+   "model": "HT10_Plus_A17"
+  }
+ ],
  "HT10_Ultra": [
   {
    "brand": "Wpawa",
@@ -318528,6 +318594,13 @@
    "model": "XW"
   }
  ],
+ "XATOM_TANK": [
+  {
+   "brand": "XATOM",
+   "name": "TANK",
+   "model": "TANK"
+  }
+ ],
  "XB-T11i": [
   {
    "brand": "XB(TABLETS INDIA)",
@@ -318578,6 +318651,16 @@
   },
   {
    "brand": "XGIMI",
+   "name": "AURA 3 Max",
+   "model": "XP06B"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "AURA 3 Pro",
+   "model": "XP04B"
+  },
+  {
+   "brand": "XGIMI",
    "name": "HORIZON 20",
    "model": "XR13A"
   },
@@ -318590,6 +318673,21 @@
    "brand": "XGIMI",
    "name": "HORIZON 20 Pro",
    "model": "XR14A"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "HORIZON 30 Max",
+   "model": "XR18A"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "HORIZON 30 Pro",
+   "model": "XR17A"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "HORIZON 30 Ultra Max",
+   "model": "XR19A"
   },
   {
    "brand": "XGIMI",
@@ -336805,6 +336903,18 @@
    "brand": "fezawio",
    "name": "F11_US",
    "model": "F11_US"
+  }
+ ],
+ "F11_U_US": [
+  {
+   "brand": "fezawio",
+   "name": "F11_U_US",
+   "model": "F11_U"
+  },
+  {
+   "brand": "fezawio",
+   "name": "F11_U_US",
+   "model": "F11_U_US"
   }
  ],
  "F11_V_EEA": [
