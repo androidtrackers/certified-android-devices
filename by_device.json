@@ -5389,6 +5389,43 @@
    "model": "ADT_1061"
   }
  ],
+ "T7": [
+  {
+   "brand": "AIOAPPInc",
+   "name": "TSAI",
+   "model": "T7"
+  },
+  {
+   "brand": "Elink",
+   "name": "Winnovo",
+   "model": "T7"
+  },
+  {
+   "brand": "Hotwav",
+   "name": "T7 EEA",
+   "model": "T7"
+  },
+  {
+   "brand": "Performance",
+   "name": "T7",
+   "model": "T7"
+  },
+  {
+   "brand": "Tobii DynaVox",
+   "name": "T7",
+   "model": "T7"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "T7",
+   "model": "T7"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "T7_eea",
+   "model": "T7"
+  }
+ ],
  "Nova_1_5G": [
   {
    "brand": "AIPLUS",
@@ -18171,6 +18208,11 @@
    "brand": "Veon",
    "name": "VEON",
    "model": "VEON 4K Android TV"
+  },
+  {
+   "brand": "iRiver",
+   "name": "Iriver",
+   "model": "Iriver4KAndroidTV"
   },
   {
    "brand": "innos",
@@ -48761,6 +48803,16 @@
    "brand": "JVC",
    "name": "JVC",
    "model": "JVC PA 2K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "STARGOLD",
+   "model": "STARGOLD 2KTV"
+  },
+  {
+   "brand": "ORION",
+   "name": "ORION",
+   "model": "ORION 2KTV"
   }
  ],
  "ewha": [
@@ -48944,6 +48996,21 @@
    "brand": "JVC",
    "name": "JVC",
    "model": "JVC UltraTV"
+  },
+  {
+   "brand": "MTC",
+   "name": "JAHANVINESH",
+   "model": "JAHAN VINESH 4K"
+  },
+  {
+   "brand": "MTC",
+   "name": "STARGOLD",
+   "model": "STARGOLD 4K UHDTV"
+  },
+  {
+   "brand": "Olive Oil",
+   "name": "Olive",
+   "model": "Olive 4K UHDTV"
   },
   {
    "brand": "Sharp",
@@ -83562,6 +83629,13 @@
    "model": "ETEL-P66"
   }
  ],
+ "ETEL_P67": [
+  {
+   "brand": "ETELPREMIUM",
+   "name": "ETEL P67",
+   "model": "ETEL_P67"
+  }
+ ],
  "ETEL_P69": [
   {
    "brand": "ETELPREMIUM",
@@ -84938,38 +85012,6 @@
    "brand": "TOSCIDO",
    "name": "T201",
    "model": "T201"
-  }
- ],
- "T7": [
-  {
-   "brand": "Elink",
-   "name": "Winnovo",
-   "model": "T7"
-  },
-  {
-   "brand": "Hotwav",
-   "name": "T7 EEA",
-   "model": "T7"
-  },
-  {
-   "brand": "Performance",
-   "name": "T7",
-   "model": "T7"
-  },
-  {
-   "brand": "Tobii DynaVox",
-   "name": "T7",
-   "model": "T7"
-  },
-  {
-   "brand": "Veidoo",
-   "name": "T7",
-   "model": "T7"
-  },
-  {
-   "brand": "Winnovo",
-   "name": "T7_eea",
-   "model": "T7"
   }
  ],
  "STB_ELISA_B866V2F01": [
@@ -89181,6 +89223,13 @@
    "model": "SYNC"
   }
  ],
+ "F18_Pro": [
+  {
+   "brand": "FOAL",
+   "name": "F18_Pro",
+   "model": "F18 Pro"
+  }
+ ],
  "FOLG_GT_10": [
   {
    "brand": "FOLG",
@@ -92600,6 +92649,13 @@
    "brand": "Franko",
    "name": "Franko A03",
    "model": "H6573"
+  }
+ ],
+ "Franko_F07": [
+  {
+   "brand": "Franko",
+   "name": "Franko F07",
+   "model": "F07"
   }
  ],
  "Free_Liberty_Plus": [
@@ -129988,6 +130044,18 @@
    "model": "65PA2"
   }
  ],
+ "nishijin": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "HYUNDAI Super TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC Super TV"
+  }
+ ],
  "HY_BDL163G_001_EEA": [
   {
    "brand": "Hyundai",
@@ -141613,13 +141681,6 @@
    "brand": "JVC",
    "name": "DM65UXR\\\\DM65USR\\\\DM85UXR",
    "model": "DM65UXR"
-  }
- ],
- "nishijin": [
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC Super TV"
   }
  ],
  "Cunda": [
@@ -168463,6 +168524,13 @@
    "model": "lephone_W10"
   }
  ],
+ "BRIGHT_18": [
+  {
+   "brand": "Lesia",
+   "name": "BRIGHT_18",
+   "model": "BRIGHT_18"
+  }
+ ],
  "BRIGHT_20": [
   {
    "brand": "Lesia",
@@ -174015,6 +174083,13 @@
    "brand": "MYCOM",
    "name": "COMEK_Tab_20",
    "model": "COMEK Tab 20"
+  }
+ ],
+ "COMEK_Tab_Joy_10": [
+  {
+   "brand": "MYCOM",
+   "name": "COMEK_Tab_Joy_10",
+   "model": "COMEK Tab Joy 10"
   }
  ],
  "COMEK_Tab_Joy_20": [
@@ -239358,6 +239433,11 @@
    "brand": "Samsung",
    "name": "Galaxy A03s",
    "model": "SM-S134DL"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03s",
+   "model": "SM-S135DL"
   }
  ],
  "a04": [
@@ -240805,6 +240885,11 @@
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
    "model": "SM-S326DL"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Jump",
+   "model": "SM-A326K"
   },
   {
    "brand": "Samsung",
@@ -254862,6 +254947,13 @@
    "model": "SM-T577U"
   }
  ],
+ "gtact4prowifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active4 Pro",
+   "model": "SM-T630"
+  }
+ ],
  "gtact4pro": [
   {
    "brand": "Samsung",
@@ -259520,6 +259612,13 @@
    "model": "SGH-T839"
   }
  ],
+ "gthhwifi": [
+  {
+   "brand": "Samsung",
+   "name": "SmartThings Home Tablet",
+   "model": "SM-T270"
+  }
+ ],
  "SCH-R730": [
   {
    "brand": "Samsung",
@@ -259614,6 +259713,20 @@
    "brand": "Samsung",
    "name": "心系天下 三星 W23 Flip",
    "model": "SM-W7023"
+  }
+ ],
+ "v5q": [
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W24",
+   "model": "SM-W9024"
+  }
+ ],
+ "e5q": [
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W24 Flip",
+   "model": "SM-W7024"
   }
  ],
  "venenoltechn": [
@@ -338635,6 +338748,13 @@
    "brand": "iHunt",
    "name": "S21_Ultra_4G_2021_EEA",
    "model": "S21 Ultra 4G 2021_EEA"
+  }
+ ],
+ "S27_Ultra": [
+  {
+   "brand": "iHunt",
+   "name": "S27_Ultra",
+   "model": "S27 Ultra"
   }
  ],
  "S30_ULTRA_APEX_2021": [

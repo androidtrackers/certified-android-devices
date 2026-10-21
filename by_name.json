@@ -9928,6 +9928,13 @@
    "model": "ADT_1061"
   }
  ],
+ "TSAI": [
+  {
+   "brand": "AIOAPPInc",
+   "device": "T7",
+   "model": "T7"
+  }
+ ],
  "AI+ Nova 1 5G": [
   {
    "brand": "AIPLUS",
@@ -81971,6 +81978,13 @@
    "model": "ETEL-P66"
   }
  ],
+ "ETEL P67": [
+  {
+   "brand": "ETELPREMIUM",
+   "device": "ETEL_P67",
+   "model": "ETEL_P67"
+  }
+ ],
  "ETEL_P69": [
   {
    "brand": "ETELPREMIUM",
@@ -87911,6 +87925,13 @@
    "model": "SYNC"
   }
  ],
+ "F18_Pro": [
+  {
+   "brand": "FOAL",
+   "device": "F18_Pro",
+   "model": "F18 Pro"
+  }
+ ],
  "FOLG_GT_10": [
   {
    "brand": "FOLG",
@@ -91492,6 +91513,13 @@
    "brand": "Franko",
    "device": "Franko_A03",
    "model": "H6573"
+  }
+ ],
+ "Franko F07": [
+  {
+   "brand": "Franko",
+   "device": "Franko_F07",
+   "model": "F07"
   }
  ],
  "Free_Liberty_Plus": [
@@ -128602,6 +128630,11 @@
    "brand": "Hyundai",
    "device": "mountbaker",
    "model": "HYUNDAI 2K SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "nishijin",
+   "model": "HYUNDAI Super TV"
   },
   {
    "brand": "Hyundai",
@@ -166846,6 +166879,13 @@
    "model": "lephone_W10"
   }
  ],
+ "BRIGHT_18": [
+  {
+   "brand": "Lesia",
+   "device": "BRIGHT_18",
+   "model": "BRIGHT_18"
+  }
+ ],
  "BRIGHT_20": [
   {
    "brand": "Lesia",
@@ -172087,6 +172127,13 @@
    "model": "Hansung4KAndroidTV"
   }
  ],
+ "JAHANVINESH": [
+  {
+   "brand": "MTC",
+   "device": "maniatika",
+   "model": "JAHAN VINESH 4K"
+  }
+ ],
  "KLEINZ": [
   {
    "brand": "MTC",
@@ -172111,6 +172158,11 @@
    "brand": "MTC",
    "device": "shilin",
    "model": "Olive 4K Android TV"
+  },
+  {
+   "brand": "Olive Oil",
+   "device": "maniatika",
+   "model": "Olive 4K UHDTV"
   }
  ],
  "Osmartphona": [
@@ -172132,6 +172184,18 @@
    "brand": "MTC",
    "device": "S4000",
    "model": "S4000-C0C10"
+  }
+ ],
+ "STARGOLD": [
+  {
+   "brand": "MTC",
+   "device": "dongmae",
+   "model": "STARGOLD 2KTV"
+  },
+  {
+   "brand": "MTC",
+   "device": "maniatika",
+   "model": "STARGOLD 4K UHDTV"
   }
  ],
  "Sansui": [
@@ -172604,6 +172668,13 @@
    "brand": "MYCOM",
    "device": "COMEK_Tab_20",
    "model": "COMEK Tab 20"
+  }
+ ],
+ "COMEK_Tab_Joy_10": [
+  {
+   "brand": "MYCOM",
+   "device": "COMEK_Tab_Joy_10",
+   "model": "COMEK Tab Joy 10"
   }
  ],
  "COMEK_Tab_Joy_20": [
@@ -198024,6 +198095,11 @@
   }
  ],
  "ORION": [
+  {
+   "brand": "ORION",
+   "device": "dongmae",
+   "model": "ORION 2KTV"
+  },
   {
    "brand": "ORION",
    "device": "elliniko",
@@ -239935,6 +240011,11 @@
    "brand": "Samsung",
    "device": "a03su",
    "model": "SM-S134DL"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a03su",
+   "model": "SM-S135DL"
   }
  ],
  "Galaxy A04": [
@@ -246154,6 +246235,13 @@
    "brand": "Samsung",
    "device": "a20e",
    "model": "SM-A202K"
+  }
+ ],
+ "Galaxy Jump": [
+  {
+   "brand": "Samsung",
+   "device": "a32x",
+   "model": "SM-A326K"
   }
  ],
  "Galaxy Jump2": [
@@ -253673,6 +253761,13 @@
    "model": "SM-T577U"
   }
  ],
+ "Galaxy Tab Active4 Pro": [
+  {
+   "brand": "Samsung",
+   "device": "gtact4prowifi",
+   "model": "SM-T630"
+  }
+ ],
  "Galaxy Tab Active4 Pro 5G": [
   {
    "brand": "Samsung",
@@ -257977,6 +258072,13 @@
    "model": "SGH-T839"
   }
  ],
+ "SmartThings Home Tablet": [
+  {
+   "brand": "Samsung",
+   "device": "gthhwifi",
+   "model": "SM-T270"
+  }
+ ],
  "Transfix": [
   {
    "brand": "Samsung",
@@ -258092,6 +258194,20 @@
    "brand": "Samsung",
    "device": "e4q",
    "model": "SM-W7023"
+  }
+ ],
+ "心系天下 三星 W24": [
+  {
+   "brand": "Samsung",
+   "device": "v5q",
+   "model": "SM-W9024"
+  }
+ ],
+ "心系天下 三星 W24 Flip": [
+  {
+   "brand": "Samsung",
+   "device": "e5q",
+   "model": "SM-W7024"
   }
  ],
  "心系天下 三星 W25": [
@@ -339229,6 +339345,13 @@
    "model": "S21 Ultra 4G 2021_EEA"
   }
  ],
+ "S27_Ultra": [
+  {
+   "brand": "iHunt",
+   "device": "S27_Ultra",
+   "model": "S27 Ultra"
+  }
+ ],
  "S30 ULTRA APEX 2021": [
   {
    "brand": "iHunt",
@@ -340490,6 +340613,13 @@
    "brand": "iRiver",
    "device": "m805_892x",
    "model": "MIT700"
+  }
+ ],
+ "Iriver": [
+  {
+   "brand": "iRiver",
+   "device": "shilin",
+   "model": "Iriver4KAndroidTV"
   }
  ],
  "MM3202": [

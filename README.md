@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-20
+Last sync is 2026-10-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -252,6 +252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
 |AIDATA|ADT_1061|ADT_1061|ADT_1061|
+|AIOAPPInc|TSAI|T7|T7|
 |AIPLUS|AI+ Nova 1 5G|Nova_1_5G|AI+ Nova 1 5G|
 |AIPLUS|AI+ Nova 2 5G|Nova_2_5G|AI+ Nova 2 5G|
 |AIPLUS|AI+ Nova 2 Neo|Nova_2_Neo|AI+ Nova 2 Neo|
@@ -9725,6 +9726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETELPREMIUM|ETEL P29|ETEL_P29|ETEL P29|
 |ETELPREMIUM|ETEL P65|ETEL-P65|ETEL-P65|
 |ETELPREMIUM|ETEL P66|ETEL-P66|ETEL-P66|
+|ETELPREMIUM|ETEL P67|ETEL_P67|ETEL_P67|
 |ETELPREMIUM|ETEL_P69|ETEL_P69|ETEL_P69|
 |ETELPREMIUM|Etel P64|Etel_P64|Etel_P64|
 |ETELPREMIUM|Etel P64 Ultra|Etel_P64|Etel P64 Ultra|
@@ -10597,6 +10599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FLYCOAY|M602-EEA|M602-EEA|M602-EEA|
 |FMC|Digital Experience|belford|Infotainment-system|
 |FMC|Digital Experience|belford|SYNC|
+|FOAL|F18_Pro|F18_Pro|F18 Pro|
 |FOLG|FOLG_GT_10|FOLG_GT_10|FOLG GT 10|
 |FOLG|FOLG_Tab_10s|FOLG_Tab_10s|S20|
 |FOLG|FT01|FT01|Folg Sky 1|
@@ -11109,6 +11112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Foxtel|Foxtel Now box|dwt765fxt|Foxtel Now box|
 |Franko|Franko A01|Franko_A01|H6733|
 |Franko|Franko A03|Franko_A03|H6573|
+|Franko|Franko F07|Franko_F07|F07|
 |Free|Free_Liberty_Plus|Free_Liberty_Plus|Free_Liberty_Plus|
 |Free|Liberty|Liberty|Liberty|
 |Free|Liberty 4G|Liberty_4G|Liberty 4G|
@@ -17364,6 +17368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYUNDAI|lavender|HYUNDAI 4K SMART TV|
 |Hyundai|HYUNDAI|mountbaker|2K SMART TV|
 |Hyundai|HYUNDAI|mountbaker|HYUNDAI 2K SMART TV|
+|Hyundai|HYUNDAI|nishijin|HYUNDAI Super TV|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI|templeton|4K SMART TV|
 |Hyundai|HYUNDAI|templeton|EcoTV Ultra|
@@ -23843,6 +23848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lephone|lephone W7R|lephone_W7R|lephone_W7R|
 |Lephone|lephone_P2Plus|lephone_P2Plus|lephone P2Plus|
 |Lephone|lephone_W10b|lephone_W10b|lephone_W10|
+|Lesia|BRIGHT_18|BRIGHT_18|BRIGHT_18|
 |Lesia|BRIGHT_20|BRIGHT_20|BRIGHT 20|
 |Lesia|BRIGHT_3|BRIGHT_3|BRIGHT 3|
 |Lesia|BRIGHT_6|BRIGHT_6|BRIGHT 6|
@@ -24671,6 +24677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Hansung|shilin|Hansung4KAndroidTV|
 |MTC|Infiniton|bangbae|Infiniton 4K Android TV|
 |MTC|Infiniton|komagome|Infiniton 2K Android TV|
+|MTC|JAHANVINESH|maniatika|JAHAN VINESH 4K|
 |MTC|JVC|shilin|JVC TV Ultra|
 |MTC|JVC|shilin|JVC US 4K Android TV|
 |MTC|KIVI|shilin|KIVI 4K Android TV|
@@ -24684,6 +24691,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Osmartphona|Osmartphona|Osmartphona|
 |MTC|Osmartphona Tablet|Osmartphona_Tablet|Osmartphona Tablet|
 |MTC|S4000-C0C10|S4000|S4000-C0C10|
+|MTC|STARGOLD|dongmae|STARGOLD 2KTV|
+|MTC|STARGOLD|maniatika|STARGOLD 4K UHDTV|
 |MTC|Sansui|shilin|SANSUI4KAndroidTV|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|SmartEver|shilin|SmartEver4KAndroidTV|
@@ -24758,6 +24767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MYCOM|COMEK_Smart20|COMEK_Smart20|COMEK_Smart20|
 |MYCOM|COMEK_Tab_10|COMEK_Tab_10|COMEK Tab 10|
 |MYCOM|COMEK_Tab_20|COMEK_Tab_20|COMEK Tab 20|
+|MYCOM|COMEK_Tab_Joy_10|COMEK_Tab_Joy_10|COMEK Tab Joy 10|
 |MYCOM|COMEK_Tab_Joy_20|COMEK_Tab_Joy_20|COMEK Tab Joy 20|
 |MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K|
 |MYCOM|COMEK_Tab_K|COMEK_Tab_K|COMEK Tab K10|
@@ -29016,6 +29026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ORCATAB|ORCATAB_WT1_WT1Pro|ORCATAB_WT1_WT1Pro|ORCATAB_WT1_WT1Pro|
 |ORCATAB|ORCATAB_WT3_Pro|ORCATAB_WT3_Pro|WT3 Pro|
 |ORION|Doshisha 2K Smart TV|umeda|Doshisha 2K Smart TV|
+|ORION|ORION|dongmae|ORION 2KTV|
 |ORION|ORION|elliniko|ORION SMART TV|
 |ORION|ORION|templeton|ORION SMART TV|
 |ORION|Smart TV|longshan|AI PONT|
@@ -29183,6 +29194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olimpo|R4|R4|R4|
 |Olimpo|R4_GTV|R4_GTV|R4G|
 |Olive Oil|CT4|octopus-ct4|Octopus A83 CT4|
+|Olive Oil|Olive|maniatika|Olive 4K UHDTV|
 |Olive Oil|OliveOil Model 3|wecct3|CT3|
 |Olivetti|FORM300|FORM300|FORM300|
 |Olivetti|Graphos A10|Graphos_A10|Graphos A10|
@@ -35848,6 +35860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A03s|a03su|SM-A037U1|
 |Samsung|Galaxy A03s|a03su|SM-A037W|
 |Samsung|Galaxy A03s|a03su|SM-S134DL|
+|Samsung|Galaxy A03s|a03su|SM-S135DL|
 |Samsung|Galaxy A04|a04|SM-A045F|
 |Samsung|Galaxy A04|a04|SM-A045M|
 |Samsung|Galaxy A04e|a04e|SM-A042F|
@@ -36977,6 +36990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J8|j8y18lte|SM-J810Y|
 |Samsung|Galaxy Jean|a6pltektt|SM-A605K|
 |Samsung|Galaxy Jean2|a20e|SM-A202K|
+|Samsung|Galaxy Jump|a32x|SM-A326K|
 |Samsung|Galaxy Jump2|m33x|SM-M336K|
 |Samsung|Galaxy Jump3|m44x|SM-M446K|
 |Samsung|Galaxy Jump4|m36x|SM-M366K|
@@ -38360,6 +38374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T575N|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577U|
+|Samsung|Galaxy Tab Active4 Pro|gtact4prowifi|SM-T630|
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T636B|
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T636N|
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T638B|
@@ -39138,6 +39153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Samsung Interactive Display|SAMSUNG_INTERACTIVE_DISPLAY|WA86D|
 |Samsung|Samsung WAF|SAMSUNG_INTERACTIVE_DISPLAY|WAF|
 |Samsung|Sidekick|SGH-T839|SGH-T839|
+|Samsung|SmartThings Home Tablet|gthhwifi|SM-T270|
 |Samsung|Transfix|SCH-R730|SCH-R730|
 |Samsung|Transform|SPH-M920|SPH-M920|
 |Samsung|Transform Ultra|SPH-M930|SPH-M930|
@@ -39155,6 +39171,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|三星W22 5G|v2q|SM-W2022|
 |Samsung|心系天下 三星 W23|v4q|SM-W9023|
 |Samsung|心系天下 三星 W23 Flip|e4q|SM-W7023|
+|Samsung|心系天下 三星 W24|v5q|SM-W9024|
+|Samsung|心系天下 三星 W24 Flip|e5q|SM-W7024|
 |Samsung|心系天下 三星 W25|q6aq|SM-W9025|
 |Samsung|心系天下 三星 W25 Flip|b6q|SM-W7025|
 |Samsung|心系天下 三星 W26|q7q|SM-W9026|
@@ -52965,6 +52983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|S10_Tank_2019|S10_Tank_2019|S10_Tank_2019|
 |iHunt|S21_Plus_2021_EEA|S21_Plus_2021_EEA|S21 Plus 2021_EEA|
 |iHunt|S21_Ultra_4G_2021_EEA|S21_Ultra_4G|S21 Ultra 4G 2021_EEA|
+|iHunt|S27_Ultra|S27_Ultra|S27 Ultra|
 |iHunt|S30 ULTRA APEX 2021|S30_ULTRA_APEX_2021|S30 ULTRA APEX 2021|
 |iHunt|S60 Discovery Plus|S60_Discovery_Plus|S60 Discovery Plus|
 |iHunt|S60_Discovery_2019|S60_Discovery_2019|S60_Discovery_2019|
@@ -53170,6 +53189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRiver|DMT580D|m805_892x|DDA800R|
 |iRiver|DMT580D|m805_892x|DMT580D|
 |iRiver|DMT580D|m805_892x|MIT700|
+|iRiver|Iriver|shilin|Iriver4KAndroidTV|
 |iRiver|MM3202|mm3201|MM-3201|
 |iRiver|MM3202|mm3201|MM-3202|
 |iRiver|ULALA|msm7627a_sku3|I-K1|
