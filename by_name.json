@@ -26017,6 +26017,11 @@
    "model": "LM-X415K"
   },
   {
+   "brand": "M-KOPA",
+   "device": "X4",
+   "model": "X4"
+  },
+  {
    "brand": "Mira",
    "device": "X4",
    "model": "X4"
@@ -86733,6 +86738,13 @@
    "model": "FU 2K SMART TV"
   }
  ],
+ "FU 4K SMART TV": [
+  {
+   "brand": "F&U (Fandu)",
+   "device": "marina",
+   "model": "FU 4K SMART TV"
+  }
+ ],
  "FU Smart TV": [
   {
    "brand": "F&U (Fandu)",
@@ -86741,11 +86753,6 @@
   }
  ],
  "Greece": [
-  {
-   "brand": "F&U (Fandu)",
-   "device": "marina",
-   "model": "FU 4K SMART TV"
-  },
   {
    "brand": "F&U (Fandu)",
    "device": "tamachi",
@@ -109173,6 +109180,13 @@
    "model": "HIP-T66"
   }
  ],
+ "HIP_T66": [
+  {
+   "brand": "Haitech",
+   "device": "HIP_T66",
+   "model": "HIP-T66"
+  }
+ ],
  "HPAD-M2": [
   {
    "brand": "Haitech",
@@ -129656,6 +129670,13 @@
    "brand": "Symphony",
    "device": "Z20",
    "model": "Z20"
+  }
+ ],
+ "IFP_3576": [
+  {
+   "brand": "IKINOR",
+   "device": "IFP_3576",
+   "model": "IFP_3576"
   }
  ],
  "AIOS": [
@@ -171224,6 +171245,11 @@
   {
    "brand": "MIRAI_TOUCH",
    "device": "InteractiveFlatPanelDisplay",
+   "model": "CE4X_Series"
+  },
+  {
+   "brand": "MIRAI_TOUCH",
+   "device": "InteractiveFlatPanelDisplay",
    "model": "MXXCE4X"
   }
  ],
@@ -173996,7 +174022,7 @@
  ],
  "HP4411": [
   {
-   "brand": "MauritiusTelcom",
+   "brand": "MauritiusTelecom",
    "device": "HY44G",
    "model": "HP4411"
   }

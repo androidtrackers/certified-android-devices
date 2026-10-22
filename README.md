@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-21
+Last sync is 2026-10-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10434,8 +10434,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F&U (Fandu)|EU、UK、AP|martin|FandU Android TV|
 |F&U (Fandu)|Europe|sepolia|FU Smart TV|
 |F&U (Fandu)|FU 2K SMART TV|nagata|FU 2K SMART TV|
+|F&U (Fandu)|FU 4K SMART TV|marina|FU 4K SMART TV|
 |F&U (Fandu)|FU Smart TV|dongnae|FU Smart TV|
-|F&U (Fandu)|Greece|marina|FU 4K SMART TV|
 |F&U (Fandu)|Greece|tamachi|F and U Android TV|
 |F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
 |F-Plus|R570E|R570E|R570E|
@@ -13868,6 +13868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|haierATVnippori|nippori|haierATVnippori|
 |Haier|i50|i50|Haier_i50|
 |Haitech|HIP-T66|HIP-T66|HIP-T66|
+|Haitech|HIP_T66|HIP_T66|HIP-T66|
 |Haitech|HPAD-M2|HPAD-M2|HPAD-M2|
 |Haitech|HPAD-T80|HPAD-T80|HPAD-T80|
 |Haitech|HPAD_IA65|HPAD_IA65|HPAD_IA65|
@@ -17542,6 +17543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IKALL|S3|S3|S3|
 |IKALL|Z19|Z19|Z19|
 |IKALL|Z20|Z20|Z20|
+|IKINOR|IFP_3576|IFP_3576|IFP_3576|
 |IMAGO|AIOS|AIOS|PRIME|
 |IMARFLEX|IMARFLEX 2K Android TV|lasalle|IMARFLEX 2K Android TV|
 |IMARFLEX|IMARFLEX 4K Android TV|kenton|IMARFLEX 4K Android TV|
@@ -24310,6 +24312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
 |M-KOPA|S34|S34|S34|
 |M-KOPA|S50|S50|S50|
+|M-KOPA|X4|X4|X4|
 |M-KOPA|X4e|X4e|X4e|
 |M-tech|Eros Power|EROS_Power|EROS Power|
 |M-tech|Eros Smart|Eros_Smart|Eros Smart|
@@ -24526,6 +24529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAI_TOUCH|MXXCE3XE|rk3588_t|MXXCE3XE|
 |MIRAI_TOUCH|MXXCE4S|InteractiveFlatPanelDisplay|CE4S_Series|
 |MIRAI_TOUCH|MXXCE4S|InteractiveFlatPanelDisplay|bytello_edla|
+|MIRAI_TOUCH|MXXCE4X|InteractiveFlatPanelDisplay|CE4X_Series|
 |MIRAI_TOUCH|MXXCE4X|InteractiveFlatPanelDisplay|MXXCE4X|
 |MIRAI_TOUCH|PE4S|PE4S_Series|PE4S_Series|
 |MIRAY|Android TV|R1|ATV R1|
@@ -24985,7 +24989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|Smart TV|mateo|2K SA Smart TV|
 |Master-G|Smart TV|osaka|AI PONT SA|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
-|MauritiusTelcom|HP4411|HY44G|HP4411|
+|MauritiusTelecom|HP4411|HY44G|HP4411|
 |Maxcom|MS453|MS453|MS453|
 |Maxcom|MS457|MS457|MS457|
 |Maxcom|MS457Orange|MS457Orange|MS457Orange|

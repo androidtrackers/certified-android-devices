@@ -54182,14 +54182,14 @@
    "model": "FU 2K SMART TV"
   },
   {
+   "device": "marina",
+   "name": "FU 4K SMART TV",
+   "model": "FU 4K SMART TV"
+  },
+  {
    "device": "dongnae",
    "name": "FU Smart TV",
    "model": "FU Smart TV"
-  },
-  {
-   "device": "marina",
-   "name": "Greece",
-   "model": "FU 4K SMART TV"
   },
   {
    "device": "tamachi",
@@ -71973,6 +71973,11 @@
   {
    "device": "HIP-T66",
    "name": "HIP-T66",
+   "model": "HIP-T66"
+  },
+  {
+   "device": "HIP_T66",
+   "name": "HIP_T66",
    "model": "HIP-T66"
   },
   {
@@ -90546,6 +90551,13 @@
    "device": "Z20",
    "name": "Z20",
    "model": "Z20"
+  }
+ ],
+ "IKINOR": [
+  {
+   "device": "IFP_3576",
+   "name": "IFP_3576",
+   "model": "IFP_3576"
   }
  ],
  "IMAGO": [
@@ -125214,6 +125226,11 @@
    "model": "S50"
   },
   {
+   "device": "X4",
+   "name": "X4",
+   "model": "X4"
+  },
+  {
    "device": "X4e",
    "name": "X4e",
    "model": "X4e"
@@ -126376,6 +126393,11 @@
    "device": "InteractiveFlatPanelDisplay",
    "name": "MXXCE4S",
    "model": "bytello_edla"
+  },
+  {
+   "device": "InteractiveFlatPanelDisplay",
+   "name": "MXXCE4X",
+   "model": "CE4X_Series"
   },
   {
    "device": "InteractiveFlatPanelDisplay",
@@ -128807,7 +128829,9 @@
    "device": "MTIPTVBox",
    "name": "HE2704",
    "model": "HE2704"
-  },
+  }
+ ],
+ "MauritiusTelecom": [
   {
    "device": "HY44G",
    "name": "HP4411",

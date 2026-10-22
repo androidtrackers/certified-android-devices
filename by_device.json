@@ -26387,7 +26387,7 @@
   },
   {
    "brand": "F&U (Fandu)",
-   "name": "Greece",
+   "name": "FU 4K SMART TV",
    "model": "FU 4K SMART TV"
   },
   {
@@ -109737,6 +109737,13 @@
    "model": "HIP-T66"
   }
  ],
+ "HIP_T66": [
+  {
+   "brand": "Haitech",
+   "name": "HIP_T66",
+   "model": "HIP-T66"
+  }
+ ],
  "HPAD-M2": [
   {
    "brand": "Haitech",
@@ -131010,6 +131017,13 @@
    "model": "Z20"
   }
  ],
+ "IFP_3576": [
+  {
+   "brand": "IKINOR",
+   "name": "IFP_3576",
+   "model": "IFP_3576"
+  }
+ ],
  "AIOS": [
   {
    "brand": "IMAGO",
@@ -133114,6 +133128,11 @@
    "brand": "Logic Mobility",
    "name": "X4 Plus",
    "model": "Logic X4 Plus"
+  },
+  {
+   "brand": "M-KOPA",
+   "name": "X4",
+   "model": "X4"
   },
   {
    "brand": "Mira",
@@ -138592,7 +138611,7 @@
    "model": "TV Box"
   },
   {
-   "brand": "MauritiusTelcom",
+   "brand": "MauritiusTelecom",
    "name": "HP4411",
    "model": "HP4411"
   },
@@ -172796,6 +172815,11 @@
    "brand": "MIRAI_TOUCH",
    "name": "MXXCE4S",
    "model": "bytello_edla"
+  },
+  {
+   "brand": "MIRAI_TOUCH",
+   "name": "MXXCE4X",
+   "model": "CE4X_Series"
   },
   {
    "brand": "MIRAI_TOUCH",
