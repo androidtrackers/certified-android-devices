@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-22
+Last sync is 2026-10-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1383,6 +1383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airtel|XStream Smart Box|hsw4026atl|hsw4026atl|
 |Airtel|Xstream4_AR|VIP7220SIAI|Xstream4_AR|
 |Airtel|XstreamIPTV1|UIW4078ATL|XstreamIPTV1-VT|
+|Airtel|XstreamIPTV4|UIW4082ATL|XstreamIPTV4-VT|
 |Airtel-Xstream|XstreamIPTV2-SM|ASD6101SR|XstreamIPTV2-SM|
 |Aisino|A99|A99|A99|
 |Aiuto|AT1001|AT1001|AT1001|
@@ -2148,6 +2149,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA MatrixTV EE|omonia|AQUA MatrixTV EE|
 |Aqua|AQUA MatrixTV FE|burrard|AQUA MatrixTV FE|
 |Aqua|AQUA MatrixTV GE|haeundae|AQUA MatrixTV GE|
+|Aqua|AQUA MatrixTV GE1|haeundae|AQUA MatrixTV GE1|
+|Aqua|AQUA MatrixTV HE|monastiraki|AQUA MatrixTV HE|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|Arcelik 2K Google TV|awaza|Arcelik 2K Google TV|
@@ -12401,6 +12404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GreenLion|G-30_ULTRA|G-30_ULTRA|G-30_ULTRA|
 |GreenLion|G-30_ULTRA|G-30_ULTRA|Max Tab22|
 |GreenLion|G-8_PRO|G-8_PRO|G-8 PRO|
+|Greentel|A100_Pro|A100_Pro|A10_Pro|
 |Greentel|A10Pro|A10Pro|A10Pro|
 |Greentel|A10_Pro|A10_Pro|A10_Pro|
 |Greentel|A10_premium|A10_premium|A10_premium|
@@ -13681,6 +13685,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|CANDY MatrixTV EE|omonia|CANDY MatrixTV EE|
 |Haier|CANDY MatrixTV ER|holargos|CANDY MatrixTV ER|
 |Haier|CANDY MatrixTV GE|haeundae|CANDY MatrixTV GE|
+|Haier|CANDY MatrixTV GE1|haeundae|CANDY MatrixTV GE1|
+|Haier|CANDY MatrixTV HE|monastiraki|CANDY MatrixTV HE|
 |Haier|CDP7TAB4C8|CDP7TAB4C8|CDP7TAB4C8|
 |Haier|CDP8TAB16SD|CDP8TAB16SD|CDP8TAB16SD|
 |Haier|CEDTAB70616W8|CEDTAB70616W8|CEDTAB70616W8|
@@ -13769,6 +13775,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV FE|burrard|Haier MatrixTV FE|
 |Haier|Haier MatrixTV FR|nanaimo|Haier MatrixTV FR|
 |Haier|Haier MatrixTV GE|haeundae|Haier MatrixTV GE|
+|Haier|Haier MatrixTV GE1|haeundae|Haier MatrixTV GE1|
+|Haier|Haier MatrixTV HE|monastiraki|Haier MatrixTV HE|
 |Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier TV|SW6H|Haier TV|
 |Haier|Haier TV|beomil|Haier TV|
@@ -13887,12 +13895,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamlet|XZPAD414LTE|XZPAD414LTE|XZPAD414LTE|
 |Hamlet|XZPAD414W|XZPAD414W|XZPAD414W|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
-|Hammer|Blade_6_Pro_EEA|Hammer_Blade_6_Pro|Blade_6_Pro|
 |Hammer|Construction_3_5G_EEA|Hammer_Construction_3_5G|Construction_3_5G|
 |Hammer|Energy_X2_EEA|Hammer_Energy_X2|Energy_X2|
 |Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
 |Hammer|Hammer Blade 4|Hammer_Blade_4|Hammer_Blade_4|
 |Hammer|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
+|Hammer|Hammer Blade 6 PRO|Hammer_Blade_6_Pro|Blade_6_Pro|
 |Hammer|Hammer Blade Va 5G EEA|HS2402|Hammer Blade Va 5G|
 |Hammer|Hammer Construction|Hammer_Construction|Hammer_Construction|
 |Hammer|Hammer Energy 2 2022|Energy_2_2022|Hammer_Energy_2_2022|
@@ -20675,6 +20683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO BX3|KY24L-ST100|A401KC|
 |Kyocera|DIGNO BX3 Plus|KY24L-ST100|A403KC|
 |Kyocera|DIGNO BX3 カメラレス|KY24L-ST100|A402KC|
+|Kyocera|DIGNO BX4|KY25L-ST100|A601KC|
 |Kyocera|DIGNO Dual|WX04K|WX04K|
 |Kyocera|DIGNO L|KYV36|KYV36|
 |Kyocera|DIGNO R|202K|202K|
@@ -22951,6 +22960,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lechpol|LIVE 4 KM0439|LIVE4_KM0439|KrugerMatz_LIVE4|
 |Lechpol|LIVE 4 KM0439|LIVE4_KM0439|LIVE4_KM0439|
 |Lechpol|MOVE 6 mini|MOVE_6_mini|MOVE_6_mini|
+|Lecoo|P131B|P131B|P131B|
+|Lecoo|P132W|P132W|P132W|
 |Lecoo|P900A|P900A|P900A|
 |Leeco|Le Max2|le_x2|Le X820|
 |Leeco|Le Max2|le_x2|Le X821|
@@ -23854,6 +23865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lesia|BRIGHT_20|BRIGHT_20|BRIGHT 20|
 |Lesia|BRIGHT_3|BRIGHT_3|BRIGHT 3|
 |Lesia|BRIGHT_6|BRIGHT_6|BRIGHT 6|
+|Lesia|BRIGHT_9|BRIGHT_9|BRIGHT_9|
 |Lesia|C2|C2|C2|
 |Lesia|C5|C5|C5|
 |Lesia|FUTURE 10|FUTURE_10|FUTURE 10|
@@ -28388,6 +28400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nexall|N90_US|N90|N90|
 |Nexel|Infinity|Infinity|Infinity|
 |Nexel|Infinity_Lite|Infinity_Lite|Infinity_Lite|
+|NexiGo|NovaMini_Lite|coorg|NovaMini_Lite|
 |NexiGo|PJ40Pro|coorg|PJ40Pro|
 |Nexian|journey one|Mi438S_sprout|Mi438S|
 |Next|4K TV Stick|YYT|4K Google TV Stick|
@@ -28815,6 +28828,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|N21|N6504LA|N6504L|
 |Nuu|N21|N6505LA|N6505L|
 |Nuu|N22|S6010LA|S6010L|
+|Nuu|N22|S6516LA|S6516L|
+|Nuu|N22|S6518LA|S6518L|
 |Nuu|N30|S6704LA|S6704L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
@@ -29673,6 +29688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7 Pro 5G|OP620BL1|PYE110|
 |Oppo|A7 Pro 5G|OP620BL1|PYE130|
 |Oppo|A7 Pro 5G|OP623EL1|CPH2931|
+|Oppo|A7 Pro Max 5G|OP6210L1|CPH2909|
 |Oppo|A72|OP4C72L1|CPH2067|
 |Oppo|A73|A73|OPPO A73|
 |Oppo|A73|A79|OPPO A73|
@@ -33571,6 +33587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quantum|Elise_T65V|Elise_T65V|Elise T65V|
 |Quantum|Elise_T65V|Elise_T65V|Elise T80P|
 |Quantum|Elise_T65V|Elise_T65V|Elise T90A|
+|Quantum|Elise_T65V|Elise_T65V|Elite T90E|
 |Quantum|FLY|Q7|Quantum Fly|
 |Quantum|Fit|QF73|Quantum Fit|
 |Quantum|Go|Q1|Quantum Go|
@@ -34089,6 +34106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|D101_EEA|D101_EEA|D101|
 |RebotAi|D101_EEA|D101_EEA|D101_EEA|
 |RebotAi|D101_EEA|D101_EEA|D101_PRO|
+|RebotAi|D101_PRO_US|D101_PRO_US|D101_PRO|
 |RebotAi|K101|K101|K101|
 |RebotAi|K101_EEA|K101_EEA|K101|
 |RebotAi|K101_US|K101_US|K101|
@@ -54232,6 +54250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |yyswie|Z10|Z10|Z10|
 |zcobro|KIDS710|KIDS710|KIDS710|
 |zcobro|KIDS710_EEA|KIDS710_EEA|KIDS710|
+|zyrex|ZPad_10|ZPad_10|ZPad|
 |zyrex|ZT 216|ZT_216|ZT 216|
 |zyrex|ZT216_1|ZT216_1|ZT216_1|
 |zyrex|ZT216_17|ZT216_17|ZT216_17|

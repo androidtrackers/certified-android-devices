@@ -16865,6 +16865,13 @@
    "device": "UIW4078ATL"
   }
  ],
+ "XstreamIPTV4-VT": [
+  {
+   "brand": "Airtel",
+   "name": "XstreamIPTV4",
+   "device": "UIW4082ATL"
+  }
+ ],
  "XstreamIPTV2-SM": [
   {
    "brand": "Airtel-Xstream",
@@ -23120,6 +23127,20 @@
    "brand": "Aqua",
    "name": "AQUA MatrixTV GE",
    "device": "haeundae"
+  }
+ ],
+ "AQUA MatrixTV GE1": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA MatrixTV GE1",
+   "device": "haeundae"
+  }
+ ],
+ "AQUA MatrixTV HE": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA MatrixTV HE",
+   "device": "monastiraki"
   }
  ],
  "AQUA Android TV": [
@@ -95294,18 +95315,23 @@
    "device": "G-8_PRO"
   }
  ],
+ "A10_Pro": [
+  {
+   "brand": "Greentel",
+   "name": "A100_Pro",
+   "device": "A100_Pro"
+  },
+  {
+   "brand": "Greentel",
+   "name": "A10_Pro",
+   "device": "A10_Pro"
+  }
+ ],
  "A10Pro": [
   {
    "brand": "Greentel",
    "name": "A10Pro",
    "device": "A10Pro"
-  }
- ],
- "A10_Pro": [
-  {
-   "brand": "Greentel",
-   "name": "A10_Pro",
-   "device": "A10_Pro"
   }
  ],
  "A10_premium": [
@@ -103823,6 +103849,20 @@
    "device": "haeundae"
   }
  ],
+ "CANDY MatrixTV GE1": [
+  {
+   "brand": "Haier",
+   "name": "CANDY MatrixTV GE1",
+   "device": "haeundae"
+  }
+ ],
+ "CANDY MatrixTV HE": [
+  {
+   "brand": "Haier",
+   "name": "CANDY MatrixTV HE",
+   "device": "monastiraki"
+  }
+ ],
  "CDP7TAB4C8": [
   {
    "brand": "Haier",
@@ -104405,6 +104445,20 @@
    "brand": "Haier",
    "name": "Haier MatrixTV GE",
    "device": "haeundae"
+  }
+ ],
+ "Haier MatrixTV GE1": [
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV GE1",
+   "device": "haeundae"
+  }
+ ],
+ "Haier MatrixTV HE": [
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV HE",
+   "device": "monastiraki"
   }
  ],
  "Haier OLED TV AE": [
@@ -105166,13 +105220,6 @@
    "device": "XZPAD470LTE"
   }
  ],
- "Blade_6_Pro": [
-  {
-   "brand": "Hammer",
-   "name": "Blade_6_Pro_EEA",
-   "device": "Hammer_Blade_6_Pro"
-  }
- ],
  "Construction_3_5G": [
   {
    "brand": "Hammer",
@@ -105206,6 +105253,13 @@
    "brand": "Hammer",
    "name": "Hammer Blade 5G",
    "device": "Hammer_Blade_5G"
+  }
+ ],
+ "Blade_6_Pro": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Blade 6 PRO",
+   "device": "Hammer_Blade_6_Pro"
   }
  ],
  "Hammer Blade Va 5G": [
@@ -148406,6 +148460,13 @@
    "device": "KY24L-ST100"
   }
  ],
+ "A601KC": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO BX4",
+   "device": "KY25L-ST100"
+  }
+ ],
  "WX04K": [
   {
    "brand": "Kyocera",
@@ -163448,6 +163509,20 @@
    "device": "MOVE_6_mini"
   }
  ],
+ "P131B": [
+  {
+   "brand": "Lecoo",
+   "name": "P131B",
+   "device": "P131B"
+  }
+ ],
+ "P132W": [
+  {
+   "brand": "Lecoo",
+   "name": "P132W",
+   "device": "P132W"
+  }
+ ],
  "P900A": [
   {
    "brand": "Lecoo",
@@ -169504,6 +169579,13 @@
    "brand": "Lesia",
    "name": "BRIGHT_6",
    "device": "BRIGHT_6"
+  }
+ ],
+ "BRIGHT_9": [
+  {
+   "brand": "Lesia",
+   "name": "BRIGHT_9",
+   "device": "BRIGHT_9"
   }
  ],
  "FUTURE 10": [
@@ -198113,6 +198195,13 @@
    "device": "Infinity_Lite"
   }
  ],
+ "NovaMini_Lite": [
+  {
+   "brand": "NexiGo",
+   "name": "NovaMini_Lite",
+   "device": "coorg"
+  }
+ ],
  "PJ40Pro": [
   {
    "brand": "NexiGo",
@@ -200695,6 +200784,20 @@
    "brand": "Nuu",
    "name": "N22",
    "device": "S6010LA"
+  }
+ ],
+ "S6516L": [
+  {
+   "brand": "Nuu",
+   "name": "N22",
+   "device": "S6516LA"
+  }
+ ],
+ "S6518L": [
+  {
+   "brand": "Nuu",
+   "name": "N22",
+   "device": "S6518LA"
   }
  ],
  "S6704L": [
@@ -206026,6 +206129,13 @@
    "brand": "Oppo",
    "name": "F35 5G",
    "device": "OP623EL1"
+  }
+ ],
+ "CPH2909": [
+  {
+   "brand": "Oppo",
+   "name": "A7 Pro Max 5G",
+   "device": "OP6210L1"
   }
  ],
  "CPH2067": [
@@ -229790,6 +229900,13 @@
    "device": "Elise_T65V"
   }
  ],
+ "Elite T90E": [
+  {
+   "brand": "Quantum",
+   "name": "Elise_T65V",
+   "device": "Elise_T65V"
+  }
+ ],
  "Quantum Fly": [
   {
    "brand": "Quantum",
@@ -232956,6 +233073,11 @@
    "brand": "RebotAi",
    "name": "D101_EEA",
    "device": "D101_EEA"
+  },
+  {
+   "brand": "RebotAi",
+   "name": "D101_PRO_US",
+   "device": "D101_PRO_US"
   }
  ],
  "D101_EEA": [
@@ -360404,6 +360526,13 @@
    "brand": "yyswie",
    "name": "CT1001_EEA",
    "device": "CT1001_EEA"
+  }
+ ],
+ "ZPad": [
+  {
+   "brand": "zyrex",
+   "name": "ZPad_10",
+   "device": "ZPad_10"
   }
  ],
  "ZT 216": [

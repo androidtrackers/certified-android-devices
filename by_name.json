@@ -20631,6 +20631,13 @@
    "model": "XstreamIPTV1-VT"
   }
  ],
+ "XstreamIPTV4": [
+  {
+   "brand": "Airtel",
+   "device": "UIW4082ATL",
+   "model": "XstreamIPTV4-VT"
+  }
+ ],
  "XstreamIPTV2-SM": [
   {
    "brand": "Airtel-Xstream",
@@ -26142,6 +26149,20 @@
    "brand": "Aqua",
    "device": "haeundae",
    "model": "AQUA MatrixTV GE"
+  }
+ ],
+ "AQUA MatrixTV GE1": [
+  {
+   "brand": "Aqua",
+   "device": "haeundae",
+   "model": "AQUA MatrixTV GE1"
+  }
+ ],
+ "AQUA MatrixTV HE": [
+  {
+   "brand": "Aqua",
+   "device": "monastiraki",
+   "model": "AQUA MatrixTV HE"
   }
  ],
  "AQUA android TV": [
@@ -100121,6 +100142,13 @@
    "model": "G-8 PRO"
   }
  ],
+ "A100_Pro": [
+  {
+   "brand": "Greentel",
+   "device": "A100_Pro",
+   "model": "A10_Pro"
+  }
+ ],
  "A10Pro": [
   {
    "brand": "Greentel",
@@ -107900,6 +107928,20 @@
    "model": "CANDY MatrixTV GE"
   }
  ],
+ "CANDY MatrixTV GE1": [
+  {
+   "brand": "Haier",
+   "device": "haeundae",
+   "model": "CANDY MatrixTV GE1"
+  }
+ ],
+ "CANDY MatrixTV HE": [
+  {
+   "brand": "Haier",
+   "device": "monastiraki",
+   "model": "CANDY MatrixTV HE"
+  }
+ ],
  "CDP7TAB4C8": [
   {
    "brand": "Haier",
@@ -108466,6 +108508,20 @@
    "brand": "Haier",
    "device": "haeundae",
    "model": "Haier MatrixTV GE"
+  }
+ ],
+ "Haier MatrixTV GE1": [
+  {
+   "brand": "Haier",
+   "device": "haeundae",
+   "model": "Haier MatrixTV GE1"
+  }
+ ],
+ "Haier MatrixTV HE": [
+  {
+   "brand": "Haier",
+   "device": "monastiraki",
+   "model": "Haier MatrixTV HE"
   }
  ],
  "Haier OLED TV AE": [
@@ -109316,13 +109372,6 @@
    "model": "XZPAD470LTE"
   }
  ],
- "Blade_6_Pro_EEA": [
-  {
-   "brand": "Hammer",
-   "device": "Hammer_Blade_6_Pro",
-   "model": "Blade_6_Pro"
-  }
- ],
  "Construction_3_5G_EEA": [
   {
    "brand": "Hammer",
@@ -109356,6 +109405,13 @@
    "brand": "Hammer",
    "device": "Hammer_Blade_5G",
    "model": "Hammer_Blade_5G"
+  }
+ ],
+ "Hammer Blade 6 PRO": [
+  {
+   "brand": "Hammer",
+   "device": "Hammer_Blade_6_Pro",
+   "model": "Blade_6_Pro"
   }
  ],
  "Hammer Blade Va 5G EEA": [
@@ -149094,6 +149150,13 @@
    "model": "A402KC"
   }
  ],
+ "DIGNO BX4": [
+  {
+   "brand": "Kyocera",
+   "device": "KY25L-ST100",
+   "model": "A601KC"
+  }
+ ],
  "DIGNO Dual": [
   {
    "brand": "Kyocera",
@@ -162056,6 +162119,20 @@
    "model": "MOVE_6_mini"
   }
  ],
+ "P131B": [
+  {
+   "brand": "Lecoo",
+   "device": "P131B",
+   "model": "P131B"
+  }
+ ],
+ "P132W": [
+  {
+   "brand": "Lecoo",
+   "device": "P132W",
+   "model": "P132W"
+  }
+ ],
  "P900A": [
   {
    "brand": "Lecoo",
@@ -166926,6 +167003,13 @@
    "brand": "Lesia",
    "device": "BRIGHT_6",
    "model": "BRIGHT 6"
+  }
+ ],
+ "BRIGHT_9": [
+  {
+   "brand": "Lesia",
+   "device": "BRIGHT_9",
+   "model": "BRIGHT_9"
   }
  ],
  "FUTURE 10": [
@@ -194376,6 +194460,13 @@
    "model": "Infinity_Lite"
   }
  ],
+ "NovaMini_Lite": [
+  {
+   "brand": "NexiGo",
+   "device": "coorg",
+   "model": "NovaMini_Lite"
+  }
+ ],
  "PJ40Pro": [
   {
    "brand": "NexiGo",
@@ -196875,6 +196966,16 @@
    "brand": "Nuu",
    "device": "S6010LA",
    "model": "S6010L"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6516LA",
+   "model": "S6516L"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6518LA",
+   "model": "S6518L"
   }
  ],
  "N4L": [
@@ -201755,6 +201856,13 @@
    "brand": "Oppo",
    "device": "OP623EL1",
    "model": "CPH2931"
+  }
+ ],
+ "A7 Pro Max 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP6210L1",
+   "model": "CPH2909"
   }
  ],
  "A73t": [
@@ -226101,6 +226209,11 @@
    "brand": "Quantum",
    "device": "Elise_T65V",
    "model": "Elise T90A"
+  },
+  {
+   "brand": "Quantum",
+   "device": "Elise_T65V",
+   "model": "Elite T90E"
   }
  ],
  "FLY": [
@@ -229304,6 +229417,13 @@
   {
    "brand": "RebotAi",
    "device": "D101_EEA",
+   "model": "D101_PRO"
+  }
+ ],
+ "D101_PRO_US": [
+  {
+   "brand": "RebotAi",
+   "device": "D101_PRO_US",
    "model": "D101_PRO"
   }
  ],
@@ -346744,6 +346864,13 @@
    "brand": "zcobro",
    "device": "KIDS710_EEA",
    "model": "KIDS710"
+  }
+ ],
+ "ZPad_10": [
+  {
+   "brand": "zyrex",
+   "device": "ZPad_10",
+   "model": "ZPad"
   }
  ],
  "ZT 216": [

@@ -7263,6 +7263,11 @@
    "device": "UIW4078ATL",
    "name": "XstreamIPTV1",
    "model": "XstreamIPTV1-VT"
+  },
+  {
+   "device": "UIW4082ATL",
+   "name": "XstreamIPTV4",
+   "model": "XstreamIPTV4-VT"
   }
  ],
  "Airtel-Xstream": [
@@ -11200,6 +11205,16 @@
    "device": "haeundae",
    "name": "AQUA MatrixTV GE",
    "model": "AQUA MatrixTV GE"
+  },
+  {
+   "device": "haeundae",
+   "name": "AQUA MatrixTV GE1",
+   "model": "AQUA MatrixTV GE1"
+  },
+  {
+   "device": "monastiraki",
+   "name": "AQUA MatrixTV HE",
+   "model": "AQUA MatrixTV HE"
   },
   {
    "device": "hanyang",
@@ -64477,6 +64492,11 @@
  ],
  "Greentel": [
   {
+   "device": "A100_Pro",
+   "name": "A100_Pro",
+   "model": "A10_Pro"
+  },
+  {
    "device": "A10Pro",
    "name": "A10Pro",
    "model": "A10Pro"
@@ -71039,6 +71059,16 @@
    "model": "CANDY MatrixTV GE"
   },
   {
+   "device": "haeundae",
+   "name": "CANDY MatrixTV GE1",
+   "model": "CANDY MatrixTV GE1"
+  },
+  {
+   "device": "monastiraki",
+   "name": "CANDY MatrixTV HE",
+   "model": "CANDY MatrixTV HE"
+  },
+  {
    "device": "CDP7TAB4C8",
    "name": "CDP7TAB4C8",
    "model": "CDP7TAB4C8"
@@ -71477,6 +71507,16 @@
    "device": "haeundae",
    "name": "Haier MatrixTV GE",
    "model": "Haier MatrixTV GE"
+  },
+  {
+   "device": "haeundae",
+   "name": "Haier MatrixTV GE1",
+   "model": "Haier MatrixTV GE1"
+  },
+  {
+   "device": "monastiraki",
+   "name": "Haier MatrixTV HE",
+   "model": "Haier MatrixTV HE"
   },
   {
    "device": "irvine",
@@ -72083,11 +72123,6 @@
  ],
  "Hammer": [
   {
-   "device": "Hammer_Blade_6_Pro",
-   "name": "Blade_6_Pro_EEA",
-   "model": "Blade_6_Pro"
-  },
-  {
    "device": "Hammer_Construction_3_5G",
    "name": "Construction_3_5G_EEA",
    "model": "Construction_3_5G"
@@ -72111,6 +72146,11 @@
    "device": "Hammer_Blade_5G",
    "name": "Hammer Blade 5G",
    "model": "Hammer_Blade_5G"
+  },
+  {
+   "device": "Hammer_Blade_6_Pro",
+   "name": "Hammer Blade 6 PRO",
+   "model": "Blade_6_Pro"
   },
   {
    "device": "HS2402",
@@ -106773,6 +106813,11 @@
    "model": "A402KC"
   },
   {
+   "device": "KY25L-ST100",
+   "name": "DIGNO BX4",
+   "model": "A601KC"
+  },
+  {
    "device": "WX04K",
    "name": "DIGNO Dual",
    "model": "WX04K"
@@ -118321,6 +118366,16 @@
  ],
  "Lecoo": [
   {
+   "device": "P131B",
+   "name": "P131B",
+   "model": "P131B"
+  },
+  {
+   "device": "P132W",
+   "name": "P132W",
+   "model": "P132W"
+  },
+  {
    "device": "P900A",
    "name": "P900A",
    "model": "P900A"
@@ -122854,6 +122909,11 @@
    "device": "BRIGHT_6",
    "name": "BRIGHT_6",
    "model": "BRIGHT 6"
+  },
+  {
+   "device": "BRIGHT_9",
+   "name": "BRIGHT_9",
+   "model": "BRIGHT_9"
   },
   {
    "device": "C2",
@@ -146295,6 +146355,11 @@
  "NexiGo": [
   {
    "device": "coorg",
+   "name": "NovaMini_Lite",
+   "model": "NovaMini_Lite"
+  },
+  {
+   "device": "coorg",
    "name": "PJ40Pro",
    "model": "PJ40Pro"
   }
@@ -148517,6 +148582,16 @@
    "device": "S6010LA",
    "name": "N22",
    "model": "S6010L"
+  },
+  {
+   "device": "S6516LA",
+   "name": "N22",
+   "model": "S6516L"
+  },
+  {
+   "device": "S6518LA",
+   "name": "N22",
+   "model": "S6518L"
   },
   {
    "device": "S6704LA",
@@ -152965,6 +153040,11 @@
    "device": "OP623EL1",
    "name": "A7 Pro 5G",
    "model": "CPH2931"
+  },
+  {
+   "device": "OP6210L1",
+   "name": "A7 Pro Max 5G",
+   "model": "CPH2909"
   },
   {
    "device": "OP4C72L1",
@@ -172883,6 +172963,11 @@
    "model": "Elise T90A"
   },
   {
+   "device": "Elise_T65V",
+   "name": "Elise_T65V",
+   "model": "Elite T90E"
+  },
+  {
    "device": "Q7",
    "name": "FLY",
    "model": "Quantum Fly"
@@ -175592,6 +175677,11 @@
   {
    "device": "D101_EEA",
    "name": "D101_EEA",
+   "model": "D101_PRO"
+  },
+  {
+   "device": "D101_PRO_US",
+   "name": "D101_PRO_US",
    "model": "D101_PRO"
   },
   {
@@ -278871,6 +278961,11 @@
   }
  ],
  "zyrex": [
+  {
+   "device": "ZPad_10",
+   "name": "ZPad_10",
+   "model": "ZPad"
+  },
   {
    "device": "ZT_216",
    "name": "ZT 216",
