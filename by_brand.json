@@ -95748,6 +95748,11 @@
    "model": "NOTE 15P"
   },
   {
+   "device": "NOTE_18P",
+   "name": "NOTE_18P_RU",
+   "model": "NOTE 18P"
+  },
+  {
    "device": "NOTE_18_GO",
    "name": "NOTE_18_GO",
    "model": "NOTE 18"
@@ -159893,6 +159898,11 @@
    "model": "YQ10S_MAX"
   },
   {
+   "device": "YQ10SG",
+   "name": "YQ10SG",
+   "model": "YQ10S"
+  },
+  {
    "device": "YQ10SPRO",
    "name": "YQ10SPRO",
    "model": "YQ10S"
@@ -161105,6 +161115,11 @@
    "device": "Proton_Eagle_X",
    "name": "Eagle X",
    "model": "Eagle X"
+  },
+  {
+   "device": "Glory_i20",
+   "name": "Glory_i20",
+   "model": "Glory_i20"
   },
   {
    "device": "Glory_i30",

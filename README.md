@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-23
+Last sync is 2026-10-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18546,6 +18546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|MAX_2|MAX_2|MAX_2|
 |Invens|NOTE_12P|NOTE_12P|NOTE 12P|
 |Invens|NOTE_15P_EEA|NOTE_15P|NOTE 15P|
+|Invens|NOTE_18P_RU|NOTE_18P|NOTE 18P|
 |Invens|NOTE_18_GO|NOTE_18_GO|NOTE 18|
 |Invens|NOTE_18_ROW_GO|NOTE_18_ROW_GO|NOTE 18|
 |Invens|NOTE_5G|NOTE_5G|NOTE 5G|
@@ -31043,6 +31044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|YQ10SA_MAX|YQ10SA_MAX|YQ10S_MAX|
 |PEICHENG|YQ10SC_MAX|YQ10SC_MAX|YQ10SC_MAX|
 |PEICHENG|YQ10SC_MAX|YQ10SC_MAX|YQ10S_MAX|
+|PEICHENG|YQ10SG|YQ10SG|YQ10S|
 |PEICHENG|YQ10SPRO|YQ10SPRO|YQ10S|
 |PEICHENG|YQ10ST|YQ10ST|YQ10S|
 |PEICHENG|YQ10ST_MAX|YQ10ST_MAX|YQ10S_MAX|
@@ -31271,6 +31273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PROTON|Eagle X|Proton_Eagle_X|Eagle X|
+|PROTON|Glory_i20|Glory_i20|Glory_i20|
 |PROTON|Glory_i30|Glory_i30|Glory_i30|
 |PROTON|HyperX|HyperX|HyperX|
 |PROTON|Infinity 8|Infinity_8|Infinity 8|

@@ -135992,6 +135992,13 @@
    "model": "NOTE 15P"
   }
  ],
+ "NOTE_18P_RU": [
+  {
+   "brand": "Invens",
+   "device": "NOTE_18P",
+   "model": "NOTE 18P"
+  }
+ ],
  "NOTE_18_GO": [
   {
    "brand": "Invens",
@@ -210430,6 +210437,13 @@
    "model": "YQ10S_MAX"
   }
  ],
+ "YQ10SG": [
+  {
+   "brand": "PEICHENG",
+   "device": "YQ10SG",
+   "model": "YQ10S"
+  }
+ ],
  "YQ10SPRO": [
   {
    "brand": "PEICHENG",
@@ -211765,6 +211779,13 @@
    "brand": "PROTON",
    "device": "Proton_Eagle_X",
    "model": "Eagle X"
+  }
+ ],
+ "Glory_i20": [
+  {
+   "brand": "PROTON",
+   "device": "Glory_i20",
+   "model": "Glory_i20"
   }
  ],
  "Glory_i30": [
