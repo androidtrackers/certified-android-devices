@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-24
+Last sync is 2026-10-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3858,6 +3858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BNE(TW)|4KS1|GCU5AC0D|4KS1|
 |BOBESPONJA|BOBTAB|BOBTAB|BOBTAB|
 |BODYCRAFT|M1_IC0_N702_BC|CONNECT_22|CONNECT_22|
+|BOE|Smart TV|auber|Smart TV|
 |BOLVA|B_TAB1021|B_TAB1021|B_TAB1021|
 |BOREAL|Android TV|R1|ATV R1|
 |BOREAL|Android TV|R2|ATV R2|
@@ -25959,6 +25960,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Miramage|Miramage Google TV|surface|Smart TV|
 |Miramage|Miramage Smart Display|beaudry|Miramage Smart Display|
 |Miramage|Smart TV 2K|alken|Smart TV 2K|
+|Miramage|Smart TV E|surface|Smart TV E|
+|Miramage|Smart TV P|surface|Smart TV P|
+|Miramage|SmartTV 4K L5|dounam|Smart TV|
+|Miramage|SmartTV 4K M5|dounam|SmartTV 4K M5|
 |Miramage|TV3223HDA11SMARTG|beaudry|Miramage AndroidTV|
 |Miramage|TV5023UHDA11SMARTG|barking|Miramage AndroidTV|
 |Mito|4K Smart TV|pioneer|4K PA Smart TV|
@@ -26315,6 +26320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Pegasus|Pegasus|Pegasus|
 |Mobiwire|S26|H5112|S26|
 |Mobiwire|S4040|S4040|S4040|
+|Mobiwire|SEUIC|H6033|H6033|
 |Mobiwire|STARSHINE 5|Cygnus_mini|STARSHINE5|
 |Mobiwire|STARSHINE 5|Cygnus_mini|STARSHINE_5|
 |Mobiwire|STARSHINE 5|Cygnus_mini|Smart_A25|
@@ -41877,6 +41883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Syinix|Glory TV|umeda|Glory TV|
 |Syinix|Smart TV|longshan|AI PONT|
 |Syinix|Smart TV|redwood|AI PONT|
+|Syinix|Syinix Google TV|alken|Syinix Google TV|
 |Syinix|Syinix TV|eleonas|Syinix TV|
 |Syinix|Syinix TV|katehaki|Syinix TV|
 |Symphony|ATOM|ATOM|ATOM|
@@ -46880,6 +46887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VSP(VN)|VSP AndroidTV|beaudry|VSP AndroidTV|
 |VSP(VN)|VSP Google TV|alken|VSP Google TV|
 |VSP(VN)|VSP Google TV|surface|VSP Google TV|
+|VSP(VN)|VSP Google TV 4K M5|dounam|VSP Google TV 4K M5|
 |VSP(VN)|VSP Google TV P|surface|VSP Google TV P|
 |VT|MB300|MB300|SmartTV|
 |VTCNOWRINDO|VR-42AF6800|ikebukuro|AI PONT|

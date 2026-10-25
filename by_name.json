@@ -6444,6 +6444,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "BOE",
+   "device": "auber",
+   "model": "Smart TV"
+  },
+  {
    "brand": "BPL",
    "device": "alimos",
    "model": "AI PONT"
@@ -180005,6 +180010,34 @@
    "model": "Miramage Smart Display"
   }
  ],
+ "Smart TV E": [
+  {
+   "brand": "Miramage",
+   "device": "surface",
+   "model": "Smart TV E"
+  }
+ ],
+ "Smart TV P": [
+  {
+   "brand": "Miramage",
+   "device": "surface",
+   "model": "Smart TV P"
+  }
+ ],
+ "SmartTV 4K L5": [
+  {
+   "brand": "Miramage",
+   "device": "dounam",
+   "model": "Smart TV"
+  }
+ ],
+ "SmartTV 4K M5": [
+  {
+   "brand": "Miramage",
+   "device": "dounam",
+   "model": "SmartTV 4K M5"
+  }
+ ],
  "TV3223HDA11SMARTG": [
   {
    "brand": "Miramage",
@@ -182226,6 +182259,13 @@
    "brand": "Mobiwire",
    "device": "S4040",
    "model": "S4040"
+  }
+ ],
+ "SEUIC": [
+  {
+   "brand": "Mobiwire",
+   "device": "H6033",
+   "model": "H6033"
   }
  ],
  "STARSHINE 5": [
@@ -274382,6 +274422,13 @@
    "model": "Glory TV"
   }
  ],
+ "Syinix Google TV": [
+  {
+   "brand": "Syinix",
+   "device": "alken",
+   "model": "Syinix Google TV"
+  }
+ ],
  "Syinix TV": [
   {
    "brand": "Syinix",
@@ -303778,6 +303825,13 @@
    "brand": "VSP(VN)",
    "device": "surface",
    "model": "VSP Google TV"
+  }
+ ],
+ "VSP Google TV 4K M5": [
+  {
+   "brand": "VSP(VN)",
+   "device": "dounam",
+   "model": "VSP Google TV 4K M5"
   }
  ],
  "VSP Google TV P": [

@@ -17684,6 +17684,11 @@
    "device": "hamamatsucho"
   },
   {
+   "brand": "BOE",
+   "name": "Smart TV",
+   "device": "auber"
+  },
+  {
    "brand": "G-Guard",
    "name": "fushan_Guard",
    "device": "hamamatsucho"
@@ -17697,6 +17702,11 @@
    "brand": "Miramage",
    "name": "Miramage Google TV",
    "device": "surface"
+  },
+  {
+   "brand": "Miramage",
+   "name": "SmartTV 4K L5",
+   "device": "dounam"
   },
   {
    "brand": "Noblex",
@@ -182953,6 +182963,32 @@
    "device": "barking"
   }
  ],
+ "Smart TV E": [
+  {
+   "brand": "Miramage",
+   "name": "Smart TV E",
+   "device": "surface"
+  }
+ ],
+ "Smart TV P": [
+  {
+   "brand": "Miramage",
+   "name": "Smart TV P",
+   "device": "surface"
+  },
+  {
+   "brand": "PANORAMA",
+   "name": "SmartTV P",
+   "device": "kualakai"
+  }
+ ],
+ "SmartTV 4K M5": [
+  {
+   "brand": "Miramage",
+   "name": "SmartTV 4K M5",
+   "device": "dounam"
+  }
+ ],
  "Miramage AndroidTV": [
   {
    "brand": "Miramage",
@@ -184964,6 +185000,11 @@
    "brand": "Mobiwire",
    "name": "H6033",
    "device": "H6032"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "SEUIC",
+   "device": "H6033"
   },
   {
    "brand": "Mobiwire",
@@ -213656,13 +213697,6 @@
    "brand": "PAITANRY",
    "name": "Y95",
    "device": "Y95"
-  }
- ],
- "Smart TV P": [
-  {
-   "brand": "PANORAMA",
-   "name": "SmartTV P",
-   "device": "kualakai"
   }
  ],
  "Smart TV KR": [
@@ -283505,6 +283539,13 @@
    "device": "umeda"
   }
  ],
+ "Syinix Google TV": [
+  {
+   "brand": "Syinix",
+   "name": "Syinix Google TV",
+   "device": "alken"
+  }
+ ],
  "Syinix TV": [
   {
    "brand": "Syinix",
@@ -314702,6 +314743,13 @@
    "brand": "VSP(VN)",
    "name": "VSP Google TV",
    "device": "surface"
+  }
+ ],
+ "VSP Google TV 4K M5": [
+  {
+   "brand": "VSP(VN)",
+   "name": "VSP Google TV 4K M5",
+   "device": "dounam"
   }
  ],
  "VSP Google TV P": [

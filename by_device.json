@@ -41894,6 +41894,13 @@
    "model": "CONNECT_22"
   }
  ],
+ "auber": [
+  {
+   "brand": "BOE",
+   "name": "Smart TV",
+   "model": "Smart TV"
+  }
+ ],
  "B_TAB1021": [
   {
    "brand": "BOLVA",
@@ -181500,6 +181507,16 @@
    "model": "Smart TV"
   },
   {
+   "brand": "Miramage",
+   "name": "Smart TV E",
+   "model": "Smart TV E"
+  },
+  {
+   "brand": "Miramage",
+   "name": "Smart TV P",
+   "model": "Smart TV P"
+  },
+  {
    "brand": "VSP(VN)",
    "name": "VSP Google TV",
    "model": "VSP Google TV"
@@ -181517,9 +181534,31 @@
    "model": "Smart TV 2K"
   },
   {
+   "brand": "Syinix",
+   "name": "Syinix Google TV",
+   "model": "Syinix Google TV"
+  },
+  {
    "brand": "VSP(VN)",
    "name": "VSP Google TV",
    "model": "VSP Google TV"
+  }
+ ],
+ "dounam": [
+  {
+   "brand": "Miramage",
+   "name": "SmartTV 4K L5",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "Miramage",
+   "name": "SmartTV 4K M5",
+   "model": "SmartTV 4K M5"
+  },
+  {
+   "brand": "VSP(VN)",
+   "name": "VSP Google TV 4K M5",
+   "model": "VSP Google TV 4K M5"
   }
  ],
  "A10_sprout": [
@@ -183804,6 +183843,13 @@
    "brand": "Mobiwire",
    "name": "S4040",
    "model": "S4040"
+  }
+ ],
+ "H6033": [
+  {
+   "brand": "Mobiwire",
+   "name": "SEUIC",
+   "model": "H6033"
   }
  ],
  "Smart_E11": [

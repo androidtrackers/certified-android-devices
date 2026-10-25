@@ -19966,6 +19966,13 @@
    "model": "CONNECT_22"
   }
  ],
+ "BOE": [
+  {
+   "device": "auber",
+   "name": "Smart TV",
+   "model": "Smart TV"
+  }
+ ],
  "BOLVA": [
   {
    "device": "B_TAB1021",
@@ -133813,6 +133820,26 @@
    "model": "Smart TV 2K"
   },
   {
+   "device": "surface",
+   "name": "Smart TV E",
+   "model": "Smart TV E"
+  },
+  {
+   "device": "surface",
+   "name": "Smart TV P",
+   "model": "Smart TV P"
+  },
+  {
+   "device": "dounam",
+   "name": "SmartTV 4K L5",
+   "model": "Smart TV"
+  },
+  {
+   "device": "dounam",
+   "name": "SmartTV 4K M5",
+   "model": "SmartTV 4K M5"
+  },
+  {
    "device": "beaudry",
    "name": "TV3223HDA11SMARTG",
    "model": "Miramage AndroidTV"
@@ -135623,6 +135650,11 @@
    "device": "S4040",
    "name": "S4040",
    "model": "S4040"
+  },
+  {
+   "device": "H6033",
+   "name": "SEUIC",
+   "model": "H6033"
   },
   {
    "device": "Cygnus_mini",
@@ -215289,6 +215321,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "alken",
+   "name": "Syinix Google TV",
+   "model": "Syinix Google TV"
+  },
+  {
    "device": "eleonas",
    "name": "Syinix TV",
    "model": "Syinix TV"
@@ -241044,6 +241081,11 @@
    "device": "surface",
    "name": "VSP Google TV",
    "model": "VSP Google TV"
+  },
+  {
+   "device": "dounam",
+   "name": "VSP Google TV 4K M5",
+   "model": "VSP Google TV 4K M5"
   },
   {
    "device": "surface",
