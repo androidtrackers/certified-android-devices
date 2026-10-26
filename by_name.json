@@ -11514,6 +11514,13 @@
    "model": "A75"
   }
  ],
+ "AQCH108": [
+  {
+   "brand": "AQuasar",
+   "device": "AQCH108",
+   "model": "AQCH108"
+  }
+ ],
  "BM5500": [
   {
    "brand": "ARATEK",
@@ -33793,6 +33800,13 @@
    "brand": "Avtek",
    "device": "MTK9679",
    "model": "TS_8_1_Mate_G"
+  }
+ ],
+ "TS_9_Connect": [
+  {
+   "brand": "Avtek",
+   "device": "TS_9_Connect",
+   "model": "TS_9_Connect"
   }
  ],
  "TS_9_Lite_G": [
@@ -62220,6 +62234,13 @@
    "model": "SN512CC"
   }
  ],
+ "SN512CCM_UM": [
+  {
+   "brand": "ConsumerCellular",
+   "device": "SN512CC",
+   "model": "SN512CCM"
+  }
+ ],
  "SpeakEasy Smart": [
   {
    "brand": "ConsumerCellular",
@@ -69845,6 +69866,13 @@
    "brand": "MOREFUN",
    "device": "M90",
    "model": "M90"
+  }
+ ],
+ "SLP36": [
+  {
+   "brand": "DOMO",
+   "device": "SLP36",
+   "model": "SLP36"
   }
  ],
  "Slate": [
@@ -98776,6 +98804,13 @@
    "model": "TQ700"
   }
  ],
+ "GoMo N22": [
+  {
+   "brand": "GoMo",
+   "device": "S6518LA",
+   "model": "S6518L"
+  }
+ ],
  "N11": [
   {
    "brand": "GoMo",
@@ -101722,6 +101757,13 @@
    "brand": "HEROFUN",
    "device": "BH502G",
    "model": "BH502G"
+  }
+ ],
+ "BH518": [
+  {
+   "brand": "HEROFUN",
+   "device": "BH513",
+   "model": "BH518"
   }
  ],
  "BH558G": [
@@ -118457,6 +118499,13 @@
    "model": "SER-AN00"
   }
  ],
+ "荣耀WIN平板": [
+  {
+   "brand": "Honor",
+   "device": "HNHES-Q",
+   "model": "HES-W00"
+  }
+ ],
  "荣耀X60": [
   {
    "brand": "Honor",
@@ -125661,7 +125710,7 @@
    "model": "HUAWEI Y600-U20"
   },
   {
-   "brand": "Vivo",
+   "brand": "vivo",
    "device": "PD2607",
    "model": "V2607A"
   }
@@ -167029,6 +167078,13 @@
    "brand": "Lesia",
    "device": "FUTURE_10",
    "model": "FUTURE 10"
+  }
+ ],
+ "FUTURE_10C": [
+  {
+   "brand": "Lesia",
+   "device": "FUTURE_10C",
+   "model": "FUTURE_10C"
   }
  ],
  "FUTURE_18_PRO": [
@@ -210232,6 +210288,13 @@
    "model": "A3_MAX"
   }
  ],
+ "A5_Air": [
+  {
+   "brand": "PEICHENG",
+   "device": "A5_Air",
+   "model": "A5"
+  }
+ ],
  "AT11PROK": [
   {
    "brand": "PEICHENG",
@@ -211484,6 +211547,13 @@
    "brand": "POCO",
    "device": "iolite",
    "model": "2607DPC18I"
+  }
+ ],
+ "POCO X8 Power": [
+  {
+   "brand": "POCO",
+   "device": "brussels",
+   "model": "2609FPC74I"
   }
  ],
  "POCO X8 Pro": [
@@ -230086,6 +230156,11 @@
    "brand": "Redmi",
    "device": "brussels",
    "model": "2609FRA74G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "brussels",
+   "model": "2609FRA74I"
   }
  ],
  "REDMI Pad 2": [
@@ -293346,6 +293421,11 @@
    "brand": "Tecno",
    "device": "TECNO-KN3",
    "model": "TECNO KN3"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KN3s",
+   "model": "TECNO KN3"
   }
  ],
  "TECNO SPARK Go 5G": [
@@ -297577,6 +297657,13 @@
    "brand": "UGRIHACH",
    "device": "MB1001",
    "model": "MB1001"
+  }
+ ],
+ "U3_C": [
+  {
+   "brand": "UJJ(SZ)",
+   "device": "U3_C",
+   "model": "U3_C"
   }
  ],
  "U3_EEA": [
@@ -324135,6 +324222,13 @@
    "model": "Z168_EEA"
   }
  ],
+ "Z168_U": [
+  {
+   "brand": "ZIOVO",
+   "device": "Z168_U",
+   "model": "Z168_U"
+  }
+ ],
  "Z168_US": [
   {
    "brand": "ZIOVO",
@@ -324154,6 +324248,13 @@
    "brand": "ZIOVO",
    "device": "Z168_U_US",
    "model": "Z168_U_US"
+  }
+ ],
+ "ZKDIGIMAX_I3": [
+  {
+   "brand": "ZKDIGIMAX",
+   "device": "ZKDIGIMAX_I3",
+   "model": "ZKDIGIMAX_I3"
   }
  ],
  "Interactive_Whiteboard": [
@@ -342196,6 +342297,13 @@
    "model": "PM116T_LTE"
   }
  ],
+ "PM132T": [
+  {
+   "brand": "onn.",
+   "device": "PM132T",
+   "model": "PM132T"
+  }
+ ],
  "PM82TW": [
   {
    "brand": "onn.",
@@ -346133,6 +346241,13 @@
    "model": "V2642"
   }
  ],
+ "Y32 5G": [
+  {
+   "brand": "vivo",
+   "device": "V2639",
+   "model": "V2639"
+  }
+ ],
  "Y37+": [
   {
    "brand": "vivo",
@@ -346366,7 +346481,7 @@
    "model": "V2655"
   }
  ],
- "Y600 AI": [
+ "Y600 AI版": [
   {
    "brand": "vivo",
    "device": "PD2607",

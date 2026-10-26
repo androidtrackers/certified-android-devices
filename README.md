@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-25
+Last sync is 2026-10-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -389,6 +389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOpen|RK3288 Mini Chromebox|fievel_cheets|AOpen Chromebox Mini|
 |APD_Spain|APD_REGGIO|REGGIO|APD REGGIO|
 |AQHH|A75|A75|A75|
+|AQuasar|AQCH108|AQCH108|AQCH108|
 |ARATEK|BM5500|BM5500|BM5500|
 |ARATEK|BM5500S|BM5500S|BM5500S|
 |ARATEK|Marshall-5|Marshall-5|Marshall-5|
@@ -3244,6 +3245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avoca|STB9097|STB9097|STB9097|
 |Avtek|TS 8 Lite G|rk3576_u|TS_8_Lite_G|
 |Avtek|TS_8_1_Mate_G|MTK9679|TS_8_1_Mate_G|
+|Avtek|TS_9_Connect|TS_9_Connect|TS_9_Connect|
 |Avtek|TS_9_Lite_G|TS_9_Lite_G|TS_9_Lite_G|
 |Avtek|TS_9_Mate_G|TS_9_Mate_G|TS_9_Mate_G|
 |Avvio|A680|A680|aiworks|
@@ -7037,6 +7039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
 |Conquest|conquest_S20_EEA|conquest_S20|conquest_S20|
 |ConsumerCellular|IRIS Connect 2|SN512CC|SN512CC|
+|ConsumerCellular|SN512CCM_UM|SN512CC|SN512CCM|
 |ConsumerCellular|SpeakEasy Smart|SN512CC|SN512CCM|
 |Contex|Egypt|tamachi|AiPlus2K|
 |Contex|Egypt|yeongdeungpo|AiPlus4K|
@@ -8072,6 +8075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|MID_1099IPS|MID_1099IPS|MID_1099IPS|
 |DOMATON|Ocean_K10|Ocean_K10|Ocean K10|
 |DOMO|M90|M90|M90|
+|DOMO|SLP36|SLP36|SLP36|
 |DOMO|Slate|Slate|Slate|
 |DOMO|Slate|Slate|T115G|
 |DOMO|Slate_F11|Slate_F11|F11|
@@ -12193,6 +12197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|QUANTUM_700S/QUANTUM 700S|QUANTUM_700S|QUANTUM_700S|
 |GoClever|Quantum 500 STEEL|FQ_500R|Quantum_500_STEEL|
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
+|GoMo|GoMo N22|S6518LA|S6518L|
 |GoMo|N11|S5506LA|S5506L|
 |GoPlus|GoPlus 4k|SEI700STL|GoPlus 4k|
 |Goally|P3_8|P3_8|P3_8|
@@ -12623,6 +12628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEROFUN|BH1002G|BH1002G|BH1002G|
 |HEROFUN|BH1002H|BH1002H|BH1002H|
 |HEROFUN|BH502G|BH502G|BH502G|
+|HEROFUN|BH518|BH513|BH518|
 |HEROFUN|BH558G|BH558G|BH558G|
 |HEROFUN|BH805G|BH805G|BH805G|
 |HEROFUN|MO137G|MO137G|MO137G|
@@ -15370,6 +15376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|荣耀Power2|HNSER-M|SER-AN00|
 |Honor|荣耀V Purse|HNVCA-Q|VCA-AN00|
 |Honor|荣耀WIN Turbo|HNSER-M|SER-AN00|
+|Honor|荣耀WIN平板|HNHES-Q|HES-W00|
 |Honor|荣耀X60|HNBRC-M|BRC-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN00|
 |Honor|荣耀X60 PRO|HNBRP-Q|BRP-AN80|
@@ -23871,6 +23878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lesia|C2|C2|C2|
 |Lesia|C5|C5|C5|
 |Lesia|FUTURE 10|FUTURE_10|FUTURE 10|
+|Lesia|FUTURE_10C|FUTURE_10C|FUTURE_10C|
 |Lesia|FUTURE_18_PRO|FUTURE_18_PRO|FUTURE_18_PRO|
 |Lesia|HOT_30|HOT_30|HOT_30|
 |Lesia|K2|K2|K2|
@@ -31011,6 +31019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEEPandLEARN|PLPro|PLPro|PLPro|
 |PEICHENG|A3_MAX|A3_MAX|A3_MAX|
 |PEICHENG|A5|A5|A5|
+|PEICHENG|A5_Air|A5_Air|A5|
 |PEICHENG|AT11PROK|AT11PROK|AT11K|
 |PEICHENG|AT74K|AT74K|AT74K|
 |PEICHENG|AT74K|AT74K|BG-7|
@@ -31220,6 +31229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X7 Pro|rodin|2412DPC0AI|
 |POCO|POCO X8|iolite|2607DPC18G|
 |POCO|POCO X8|iolite|2607DPC18I|
+|POCO|POCO X8 Power|brussels|2609FPC74I|
 |POCO|POCO X8 Pro|klee|2511FPC34G|
 |POCO|POCO X8 Pro|klee|2511FPC34I|
 |POCO|POCO X8 Pro Max|dash|2602BPC18G|
@@ -34190,6 +34200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18I|
 |Redmi|REDMI Note 17 Pro 5G|iolite|2607DRA18T|
 |Redmi|REDMI Note 17 Pro Max 5G|brussels|2609FRA74G|
+|Redmi|REDMI Note 17 Pro Max 5G|brussels|2609FRA74I|
 |Redmi|REDMI Pad 2|taiko|25040RP0AC|
 |Redmi|REDMI Pad 2 9.7|guitar|2603ARP14G|
 |Redmi|REDMI Pad 2 9.7 4G|erhu|2604ERP4DG|
@@ -45143,6 +45154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK Go 2024|TECNO-BG6s|TECNO BG6s|
 |Tecno|TECNO SPARK Go 2025|TECNO-BG6m|TECNO BG6m|
 |Tecno|TECNO SPARK Go 3|TECNO-KN3|TECNO KN3|
+|Tecno|TECNO SPARK Go 3|TECNO-KN3s|TECNO KN3|
 |Tecno|TECNO SPARK Go 5G|TECNO-KM8|TECNO KM8|
 |Tecno|TECNO SPARK Slim|TECNO-KM7k|TECNO KM7k|
 |Tecno|TECNO SPARK Slim 5G|TECNO-KM9|TECNO KM9|
@@ -45877,6 +45889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UGRIHACH|C11_EEA|C11|C11|
 |UGRIHACH|MB1001|MB1001|MB1001|
 |UGRIHACH|MB1001_EEA|MB1001|MB1001|
+|UJJ(SZ)|U3_C|U3_C|U3_C|
 |UJJ(SZ)|U3_EEA|U3_EEA|U3_EEA|
 |UJJ(SZ)|U3_US|U3_US|U3_US|
 |UJJ(SZ)|U3_V_EEA|U3_V_EEA|U3_V_EEA|
@@ -48036,7 +48049,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y56 5G|V2225|V2225|
 |Vivo|Y56 5G|V2225|V2311|
 |Vivo|Y58 5G|V2355|V2355|
-|Vivo|Y600|PD2607|V2607A|
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
@@ -50254,9 +50266,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z168-W|Z168-W|Z168-W|
 |ZIOVO|Z168_E|Z168_E|Z168_E|
 |ZIOVO|Z168_EEA|Z168_EEA|Z168_EEA|
+|ZIOVO|Z168_U|Z168_U|Z168_U|
 |ZIOVO|Z168_US|Z168_US|Z168_US|
 |ZIOVO|Z168_U_EEA|Z168_U_EEA|Z168_U_EEA|
 |ZIOVO|Z168_U_US|Z168_U_US|Z168_U_US|
+|ZKDIGIMAX|ZKDIGIMAX_I3|ZKDIGIMAX_I3|ZKDIGIMAX_I3|
 |ZKTeco|Interactive_Whiteboard|oversea_v|SC02-I5|
 |ZKTeco|ZKTeco_I3|ZKTeco_I3|ZKTeco_I3|
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
@@ -53461,6 +53475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|PM108AK|PM108AK|PM108AK|
 |onn.|PM116T|PM116T|PM116T|
 |onn.|PM116T_LTE|PM116T_LTE|PM116T_LTE|
+|onn.|PM132T|PM132T|PM132T|
 |onn.|PM82T|PM82T|PM82T|
 |onn.|PM82TW|PM82TW|PM82TW|
 |onn.|PM876T|PM876T|PM876T|
@@ -54128,6 +54143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y32|V2638|V2638|
 |vivo|Y32|V2638|V2641|
 |vivo|Y32|V2638|V2642|
+|vivo|Y32 5G|V2639|V2639|
 |vivo|Y37+|PD2443|V2443A|
 |vivo|Y37t|PD2443|V2443A|
 |vivo|Y400|V2455|V2455|
@@ -54164,8 +54180,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y6|PD2531|V2531A|
 |vivo|Y60|PD2559|V2559A|
 |vivo|Y60 AI版|PD2559|V2559A|
+|vivo|Y600|PD2607|V2607A|
 |vivo|Y600 5G|V2626|V2655|
-|vivo|Y600 AI|PD2607|V2607A|
+|vivo|Y600 AI版|PD2607|V2607A|
 |vivo|Y600 Pro|PD2561|V2561A|
 |vivo|Y600 Pro AI版|PD2561|V2561A|
 |vivo|Y600 Turbo|PD2553|V2553A|

@@ -7945,6 +7945,13 @@
    "device": "A75"
   }
  ],
+ "AQCH108": [
+  {
+   "brand": "AQuasar",
+   "name": "AQCH108",
+   "device": "AQCH108"
+  }
+ ],
  "BM5500": [
   {
    "brand": "ARATEK",
@@ -31011,6 +31018,13 @@
    "device": "MTK9679"
   }
  ],
+ "TS_9_Connect": [
+  {
+   "brand": "Avtek",
+   "name": "TS_9_Connect",
+   "device": "TS_9_Connect"
+  }
+ ],
  "TS_9_Lite_G": [
   {
    "brand": "Avtek",
@@ -31684,6 +31698,11 @@
    "brand": "PEICHENG",
    "name": "A5",
    "device": "A5"
+  },
+  {
+   "brand": "PEICHENG",
+   "name": "A5_Air",
+   "device": "A5_Air"
   },
   {
    "brand": "Southern Telecom",
@@ -57950,6 +57969,11 @@
  "SN512CCM": [
   {
    "brand": "ConsumerCellular",
+   "name": "SN512CCM_UM",
+   "device": "SN512CC"
+  },
+  {
+   "brand": "ConsumerCellular",
    "name": "SpeakEasy Smart",
    "device": "SN512CC"
   }
@@ -65419,6 +65443,13 @@
    "brand": "MOREFUN",
    "name": "M90",
    "device": "M90"
+  }
+ ],
+ "SLP36": [
+  {
+   "brand": "DOMO",
+   "name": "SLP36",
+   "device": "SLP36"
   }
  ],
  "Slate": [
@@ -93935,6 +93966,18 @@
    "device": "TQ700"
   }
  ],
+ "S6518L": [
+  {
+   "brand": "GoMo",
+   "name": "GoMo N22",
+   "device": "S6518LA"
+  },
+  {
+   "brand": "Nuu",
+   "name": "N22",
+   "device": "S6518LA"
+  }
+ ],
  "S5506L": [
   {
    "brand": "GoMo",
@@ -96949,6 +96992,13 @@
    "brand": "HEROFUN",
    "name": "BH502G",
    "device": "BH502G"
+  }
+ ],
+ "BH518": [
+  {
+   "brand": "HEROFUN",
+   "name": "BH518",
+   "device": "BH513"
   }
  ],
  "BH558G": [
@@ -114672,6 +114722,13 @@
    "brand": "Honor",
    "name": "荣耀V Purse",
    "device": "HNVCA-Q"
+  }
+ ],
+ "HES-W00": [
+  {
+   "brand": "Honor",
+   "name": "荣耀WIN平板",
+   "device": "HNHES-Q"
   }
  ],
  "BRC-AN00": [
@@ -169617,6 +169674,13 @@
    "device": "FUTURE_10"
   }
  ],
+ "FUTURE_10C": [
+  {
+   "brand": "Lesia",
+   "name": "FUTURE_10C",
+   "device": "FUTURE_10C"
+  }
+ ],
  "FUTURE_18_PRO": [
   {
    "brand": "Lesia",
@@ -200846,13 +200910,6 @@
    "device": "S6516LA"
   }
  ],
- "S6518L": [
-  {
-   "brand": "Nuu",
-   "name": "N22",
-   "device": "S6518LA"
-  }
- ],
  "S6704L": [
   {
    "brand": "Nuu",
@@ -215572,6 +215629,13 @@
    "brand": "POCO",
    "name": "POCO X8",
    "device": "iolite"
+  }
+ ],
+ "2609FPC74I": [
+  {
+   "brand": "POCO",
+   "name": "POCO X8 Power",
+   "device": "brussels"
   }
  ],
  "2511FPC34G": [
@@ -233644,6 +233708,13 @@
   }
  ],
  "2609FRA74G": [
+  {
+   "brand": "Redmi",
+   "name": "REDMI Note 17 Pro Max 5G",
+   "device": "brussels"
+  }
+ ],
+ "2609FRA74I": [
   {
    "brand": "Redmi",
    "name": "REDMI Note 17 Pro Max 5G",
@@ -303533,6 +303604,11 @@
    "brand": "Tecno",
    "name": "TECNO SPARK Go 3",
    "device": "TECNO-KN3"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK Go 3",
+   "device": "TECNO-KN3s"
   }
  ],
  "TECNO KO2": [
@@ -308908,6 +308984,13 @@
    "brand": "UGRIHACH",
    "name": "MB1001_EEA",
    "device": "MB1001"
+  }
+ ],
+ "U3_C": [
+  {
+   "brand": "UJJ(SZ)",
+   "name": "U3_C",
+   "device": "U3_C"
   }
  ],
  "U3_EEA": [
@@ -322147,18 +322230,6 @@
    "brand": "Vivo",
    "name": "Y58 5G",
    "device": "V2355"
-  }
- ],
- "V2607A": [
-  {
-   "brand": "Vivo",
-   "name": "Y600",
-   "device": "PD2607"
-  },
-  {
-   "brand": "vivo",
-   "name": "Y600 AI",
-   "device": "PD2607"
   }
  ],
  "vivo Y66": [
@@ -335790,6 +335861,13 @@
    "device": "Z168_EEA"
   }
  ],
+ "Z168_U": [
+  {
+   "brand": "ZIOVO",
+   "name": "Z168_U",
+   "device": "Z168_U"
+  }
+ ],
  "Z168_US": [
   {
    "brand": "ZIOVO",
@@ -335809,6 +335887,13 @@
    "brand": "ZIOVO",
    "name": "Z168_U_US",
    "device": "Z168_U_US"
+  }
+ ],
+ "ZKDIGIMAX_I3": [
+  {
+   "brand": "ZKDIGIMAX",
+   "name": "ZKDIGIMAX_I3",
+   "device": "ZKDIGIMAX_I3"
   }
  ],
  "SC02-I5": [
@@ -355949,6 +356034,13 @@
    "device": "PM116T_LTE"
   }
  ],
+ "PM132T": [
+  {
+   "brand": "onn.",
+   "name": "PM132T",
+   "device": "PM132T"
+  }
+ ],
  "PM82TW": [
   {
    "brand": "onn.",
@@ -359986,6 +360078,13 @@
    "device": "V2638"
   }
  ],
+ "V2639": [
+  {
+   "brand": "vivo",
+   "name": "Y32 5G",
+   "device": "V2639"
+  }
+ ],
  "V2455": [
   {
    "brand": "vivo",
@@ -360106,6 +360205,18 @@
    "brand": "vivo",
    "name": "Y6t",
    "device": "PD2559"
+  }
+ ],
+ "V2607A": [
+  {
+   "brand": "vivo",
+   "name": "Y600",
+   "device": "PD2607"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600 AI版",
+   "device": "PD2607"
   }
  ],
  "V2561A": [

@@ -2093,6 +2093,13 @@
    "model": "A75"
   }
  ],
+ "AQuasar": [
+  {
+   "device": "AQCH108",
+   "name": "AQCH108",
+   "model": "AQCH108"
+  }
+ ],
  "ARATEK": [
   {
    "device": "BM5500",
@@ -16784,6 +16791,11 @@
    "device": "MTK9679",
    "name": "TS_8_1_Mate_G",
    "model": "TS_8_1_Mate_G"
+  },
+  {
+   "device": "TS_9_Connect",
+   "name": "TS_9_Connect",
+   "model": "TS_9_Connect"
   },
   {
    "device": "TS_9_Lite_G",
@@ -36482,6 +36494,11 @@
   },
   {
    "device": "SN512CC",
+   "name": "SN512CCM_UM",
+   "model": "SN512CCM"
+  },
+  {
+   "device": "SN512CC",
    "name": "SpeakEasy Smart",
    "model": "SN512CCM"
   }
@@ -41802,6 +41819,11 @@
    "device": "M90",
    "name": "M90",
    "model": "M90"
+  },
+  {
+   "device": "SLP36",
+   "name": "SLP36",
+   "model": "SLP36"
   },
   {
    "device": "Slate",
@@ -63395,6 +63417,11 @@
  ],
  "GoMo": [
   {
+   "device": "S6518LA",
+   "name": "GoMo N22",
+   "model": "S6518L"
+  },
+  {
    "device": "S5506LA",
    "name": "N11",
    "model": "S5506L"
@@ -65673,6 +65700,11 @@
    "device": "BH502G",
    "name": "BH502G",
    "model": "BH502G"
+  },
+  {
+   "device": "BH513",
+   "name": "BH518",
+   "model": "BH518"
   },
   {
    "device": "BH558G",
@@ -79604,6 +79636,11 @@
    "device": "HNSER-M",
    "name": "荣耀WIN Turbo",
    "model": "SER-AN00"
+  },
+  {
+   "device": "HNHES-Q",
+   "name": "荣耀WIN平板",
+   "model": "HES-W00"
   },
   {
    "device": "HNBRC-M",
@@ -122943,6 +122980,11 @@
    "model": "FUTURE 10"
   },
   {
+   "device": "FUTURE_10C",
+   "name": "FUTURE_10C",
+   "model": "FUTURE_10C"
+  },
+  {
    "device": "FUTURE_18_PRO",
    "name": "FUTURE_18_PRO",
    "model": "FUTURE_18_PRO"
@@ -159735,6 +159777,11 @@
    "model": "A5"
   },
   {
+   "device": "A5_Air",
+   "name": "A5_Air",
+   "model": "A5"
+  },
+  {
    "device": "AT11PROK",
    "name": "AT11PROK",
    "model": "AT11K"
@@ -160822,6 +160869,11 @@
    "device": "iolite",
    "name": "POCO X8",
    "model": "2607DPC18I"
+  },
+  {
+   "device": "brussels",
+   "name": "POCO X8 Power",
+   "model": "2609FPC74I"
   },
   {
    "device": "klee",
@@ -176108,6 +176160,11 @@
    "device": "brussels",
    "name": "REDMI Note 17 Pro Max 5G",
    "model": "2609FRA74G"
+  },
+  {
+   "device": "brussels",
+   "name": "REDMI Note 17 Pro Max 5G",
+   "model": "2609FRA74I"
   },
   {
    "device": "taiko",
@@ -231901,6 +231958,11 @@
    "model": "TECNO KN3"
   },
   {
+   "device": "TECNO-KN3s",
+   "name": "TECNO SPARK Go 3",
+   "model": "TECNO KN3"
+  },
+  {
    "device": "TECNO-KM8",
    "name": "TECNO SPARK Go 5G",
    "model": "TECNO KM8"
@@ -235812,6 +235874,11 @@
   }
  ],
  "UJJ(SZ)": [
+  {
+   "device": "U3_C",
+   "name": "U3_C",
+   "model": "U3_C"
+  },
   {
    "device": "U3_EEA",
    "name": "U3_EEA",
@@ -246942,11 +247009,6 @@
    "device": "V2355",
    "name": "Y58 5G",
    "model": "V2355"
-  },
-  {
-   "device": "PD2607",
-   "name": "Y600",
-   "model": "V2607A"
   },
   {
    "device": "PD1621",
@@ -258466,6 +258528,11 @@
    "model": "Z168_EEA"
   },
   {
+   "device": "Z168_U",
+   "name": "Z168_U",
+   "model": "Z168_U"
+  },
+  {
    "device": "Z168_US",
    "name": "Z168_US",
    "model": "Z168_US"
@@ -258479,6 +258546,13 @@
    "device": "Z168_U_US",
    "name": "Z168_U_US",
    "model": "Z168_U_US"
+  }
+ ],
+ "ZKDIGIMAX": [
+  {
+   "device": "ZKDIGIMAX_I3",
+   "name": "ZKDIGIMAX_I3",
+   "model": "ZKDIGIMAX_I3"
   }
  ],
  "ZKTeco": [
@@ -274911,6 +274985,11 @@
    "model": "PM116T_LTE"
   },
   {
+   "device": "PM132T",
+   "name": "PM132T",
+   "model": "PM132T"
+  },
+  {
    "device": "PM82T",
    "name": "PM82T",
    "model": "PM82T"
@@ -278334,6 +278413,11 @@
    "model": "V2642"
   },
   {
+   "device": "V2639",
+   "name": "Y32 5G",
+   "model": "V2639"
+  },
+  {
    "device": "PD2443",
    "name": "Y37+",
    "model": "V2443A"
@@ -278514,13 +278598,18 @@
    "model": "V2559A"
   },
   {
+   "device": "PD2607",
+   "name": "Y600",
+   "model": "V2607A"
+  },
+  {
    "device": "V2626",
    "name": "Y600 5G",
    "model": "V2655"
   },
   {
    "device": "PD2607",
-   "name": "Y600 AI",
+   "name": "Y600 AI版",
    "model": "V2607A"
   },
   {
