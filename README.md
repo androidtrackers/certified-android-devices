@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-26
+Last sync is 2026-10-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12637,6 +12637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HIGRACE|OC101|OC101|OC101|
 |HIGRACE|OC101|OC101_EEA|OC101|
 |HIKVISION|DS-MDT202|DS-MDT202|DS-MDT202|
+|HIKVISION|DS-MDT202PRO|DS-MDT202PRO|DS-MDT202PRO|
 |HIKVISION|DS-MDT301|DS-MDT301|DS-MDT301|
 |HIKVISION|DS_D5C75RB_A|DS_D5C65RB_A|DS_D5C65RB_A|
 |HIKVISION|HIK_3576|HIK_3576|HIK_3576|
@@ -22971,6 +22972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lechpol|MOVE 6 mini|MOVE_6_mini|MOVE_6_mini|
 |Lecoo|P131B|P131B|P131B|
 |Lecoo|P132W|P132W|P132W|
+|Lecoo|P140W|P140W|P140W|
 |Lecoo|P900A|P900A|P900A|
 |Leeco|Le Max2|le_x2|Le X820|
 |Leeco|Le Max2|le_x2|Le X821|
@@ -25011,7 +25013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|Smart TV|mateo|2K SA Smart TV|
 |Master-G|Smart TV|osaka|AI PONT SA|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
-|MauritiusTelecom|HP4411|HY44G|HP4411|
+|MauritiusTelecom|HP4411-MT|HY44G|HP4411|
 |Maxcom|MS453|MS453|MS453|
 |Maxcom|MS457|MS457|MS457|
 |Maxcom|MS457Orange|MS457Orange|MS457Orange|
@@ -33851,6 +33853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDTONE|RTSP-A124ML|RTSP-A124ML|RTSP-A124ML|
 |REDTONE|RTSP-A258HM|RTSP-A258HM|RTSP-A258HM|
 |REDTONE|RTSP-A64B|RTSP-A64B|RTSP-A64B|
+|REDTONE|RTSP-C64B|RTSP-C64B|E30|
 |REGZA|32P1S|Andesite|32P1S|
 |REGZA|REGZA Projector|hengshan|REGZA Projector|
 |REGZA|RSG-11B|YYT|4K Google TV Stick|
@@ -46049,6 +46052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor Pad 2|Armor_Pad_2|Armor Pad 2|
 |Ulefone|Armor Pad 2|Armor_Pad_2|UTAB A2|
 |Ulefone|Armor Pad 3 Pro|ArmorPad3Pro|Armor Pad 3 Pro|
+|Ulefone|Armor Pad 4|GQ3121TF1|Armor Pad 4|
 |Ulefone|Armor Pad 4 Ultra|GQ3121AF1|Armor Pad 4 Ultra|
 |Ulefone|Armor Pad 5 Pro|GQ8000BF3|Armor Pad 5 Pro|
 |Ulefone|Armor Pad 5 Ultra|GQ8000BF1|Armor Pad 5 Ultra|
@@ -53126,6 +53130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMin|Swan2Printer|Swan2Printer|I24D03|
 |iMin|Swan2Scale|Swan2Scale|I24D04|
 |iMin|Swan3|Swan3|I25D03|
+|iMin|Swan4|Swan4|I26D01|
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|
 |iMin|Swift 1 Pro|Swift1Pro|I23M03|
@@ -53199,6 +53204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Neo10 Pro+|PD2463|V2463A|
 |iQOO|iQOO Neo11|PD2520|V2520A|
 |iQOO|iQOO Neo11 至尊版|PD2573|V2573A|
+|iQOO|iQOO Neo12|PD2618|V2618A|
 |iQOO|iQOO Pad Ultra|DPD2605|iPA2691|
 |iQOO|iQOO Pad5|DPD2437|iPA2556|
 |iQOO|iQOO Pad5 Pro|DPD2429|iPA2575|

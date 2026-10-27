@@ -101820,6 +101820,13 @@
    "model": "DS-MDT202"
   }
  ],
+ "DS-MDT202PRO": [
+  {
+   "brand": "HIKVISION",
+   "device": "DS-MDT202PRO",
+   "model": "DS-MDT202PRO"
+  }
+ ],
  "DS-MDT301": [
   {
    "brand": "HIKVISION",
@@ -162194,6 +162201,13 @@
    "model": "P132W"
   }
  ],
+ "P140W": [
+  {
+   "brand": "Lecoo",
+   "device": "P140W",
+   "model": "P140W"
+  }
+ ],
  "P900A": [
   {
    "brand": "Lecoo",
@@ -174172,7 +174186,7 @@
    "model": "HE2704"
   }
  ],
- "HP4411": [
+ "HP4411-MT": [
   {
    "brand": "MauritiusTelecom",
    "device": "HY44G",
@@ -227803,6 +227817,13 @@
    "brand": "REDTONE",
    "device": "RTSP-A64B",
    "model": "RTSP-A64B"
+  }
+ ],
+ "RTSP-C64B": [
+  {
+   "brand": "REDTONE",
+   "device": "RTSP-C64B",
+   "model": "E30"
   }
  ],
  "32P1S": [
@@ -298656,6 +298677,13 @@
    "model": "Armor Pad 3 Pro"
   }
  ],
+ "Armor Pad 4": [
+  {
+   "brand": "Ulefone",
+   "device": "GQ3121TF1",
+   "model": "Armor Pad 4"
+  }
+ ],
  "Armor Pad 4 Ultra": [
   {
    "brand": "Ulefone",
@@ -340307,6 +340335,13 @@
    "model": "I25D03"
   }
  ],
+ "Swan4": [
+  {
+   "brand": "iMin",
+   "device": "Swan4",
+   "model": "I26D01"
+  }
+ ],
  "Swift 1": [
   {
    "brand": "iMin",
@@ -340738,6 +340773,13 @@
    "brand": "iQOO",
    "device": "PD2573",
    "model": "V2573A"
+  }
+ ],
+ "iQOO Neo12": [
+  {
+   "brand": "iQOO",
+   "device": "PD2618",
+   "model": "V2618A"
   }
  ],
  "iQOO Pad Ultra": [

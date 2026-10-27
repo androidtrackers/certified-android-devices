@@ -65751,6 +65751,11 @@
    "model": "DS-MDT202"
   },
   {
+   "device": "DS-MDT202PRO",
+   "name": "DS-MDT202PRO",
+   "model": "DS-MDT202PRO"
+  },
+  {
    "device": "DS-MDT301",
    "name": "DS-MDT301",
    "model": "DS-MDT301"
@@ -118425,6 +118430,11 @@
    "model": "P132W"
   },
   {
+   "device": "P140W",
+   "name": "P140W",
+   "model": "P140W"
+  },
+  {
    "device": "P900A",
    "name": "P900A",
    "model": "P900A"
@@ -128948,7 +128958,7 @@
  "MauritiusTelecom": [
   {
    "device": "HY44G",
-   "name": "HP4411",
+   "name": "HP4411-MT",
    "model": "HP4411"
   }
  ],
@@ -174325,6 +174335,11 @@
    "device": "RTSP-A64B",
    "name": "RTSP-A64B",
    "model": "RTSP-A64B"
+  },
+  {
+   "device": "RTSP-C64B",
+   "name": "RTSP-C64B",
+   "model": "E30"
   }
  ],
  "REGZA": [
@@ -236727,6 +236742,11 @@
    "model": "Armor Pad 3 Pro"
   },
   {
+   "device": "GQ3121TF1",
+   "name": "Armor Pad 4",
+   "model": "Armor Pad 4"
+  },
+  {
    "device": "GQ3121AF1",
    "name": "Armor Pad 4 Ultra",
    "model": "Armor Pad 4 Ultra"
@@ -273106,6 +273126,11 @@
    "model": "I25D03"
   },
   {
+   "device": "Swan4",
+   "name": "Swan4",
+   "model": "I26D01"
+  },
+  {
    "device": "I22M01",
    "name": "Swift 1",
    "model": "I22M01"
@@ -273485,6 +273510,11 @@
    "device": "PD2573",
    "name": "iQOO Neo11 至尊版",
    "model": "V2573A"
+  },
+  {
+   "device": "PD2618",
+   "name": "iQOO Neo12",
+   "model": "V2618A"
   },
   {
    "device": "DPD2605",
