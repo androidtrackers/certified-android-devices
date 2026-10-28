@@ -18047,6 +18047,13 @@
    "model": "M901"
   }
  ],
+ "BFL": [
+  {
+   "device": "PO728M",
+   "name": "PO728M",
+   "model": "BFL PO728M"
+  }
+ ],
  "BGH S.A.": [
   {
    "device": "lasalle",
@@ -35590,6 +35597,11 @@
    "device": "Qtab10Plus",
    "name": "Qtab10Plus",
    "model": "Qtab10Plus"
+  },
+  {
+   "device": "Qtab11",
+   "name": "Qtab11",
+   "model": "Qtab11"
   },
   {
    "device": "Qtab_Ultra",
@@ -133610,6 +133622,11 @@
    "model": "Mintt P26"
   },
   {
+   "device": "P27PLUS",
+   "name": "P27PLUS",
+   "model": "P27+"
+  },
+  {
    "device": "CoolMintt_Rival_2",
    "name": "Rival_2",
    "model": "CoolMintt Rival 2"
@@ -139948,6 +139965,11 @@
    "device": "XT2575-3",
    "name": "moto pad 60 neo",
    "model": "XT2575-3"
+  },
+  {
+   "device": "XT2571-1",
+   "name": "moto pad 60 pro",
+   "model": "XT2571-1"
   },
   {
    "device": "XT2673-1",
@@ -149496,6 +149518,13 @@
    "device": "X700",
    "name": "X700",
    "model": "X700"
+  }
+ ],
+ "OMMI": [
+  {
+   "device": "OMMI_A17S",
+   "name": "OMMI_A17S",
+   "model": "OMMI A17S"
   }
  ],
  "ONDA TLC": [
@@ -161269,6 +161298,11 @@
    "device": "Proton_Power_50",
    "name": "Power 50",
    "model": "Power 50"
+  },
+  {
+   "device": "Power_60",
+   "name": "Power_60",
+   "model": "Power 60"
   },
   {
    "device": "Proton_X10_Pro",
@@ -182836,6 +182870,11 @@
    "device": "STK_EVO_US",
    "name": "STK EVO",
    "model": "STK EVO"
+  },
+  {
+   "device": "Helix",
+   "name": "STK Helix",
+   "model": "Helix"
   },
   {
    "device": "Hero_Lite",
@@ -229253,6 +229292,11 @@
   {
    "device": "RGD1",
    "name": "RGD1_EEA",
+   "model": "RGD1"
+  },
+  {
+   "device": "RGD1",
+   "name": "RGD1_EEA",
    "model": "RGD1_ROW"
   },
   {
@@ -253746,6 +253790,11 @@
    "device": "HT10_Ultra",
    "name": "HT10_Ultra",
    "model": "HT10_Ultra"
+  },
+  {
+   "device": "HT10_Ultra_A17",
+   "name": "HT10_Ultra_A17",
+   "model": "HT10_Ultra_A17"
   }
  ],
  "X-Age": [

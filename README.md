@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-27
+Last sync is 2026-10-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3485,6 +3485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BEYODFU|M326-EEA|M326-EEA|M326-EEA|
 |BEYODFU|M518|M518|M518|
 |BEYODFU|M901|M901|M901|
+|BFL|PO728M|PO728M|BFL PO728M|
 |BGH S.A.|BGH 2K Android TV|lasalle|BGH 2K Android TV|
 |BGH S.A.|BGH 2K SMART TV|alameda|BGH 2K SMART TV|
 |BGH S.A.|BGH 4K Android TV|kenton|BGH 4K Android TV|
@@ -6862,6 +6863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTab_87|QTab_87|QTab_87|
 |Compaq|Qtab 10.1 with keyboard|Qtab10|Qtab 10.1 with keyboard|
 |Compaq|Qtab10Plus|Qtab10Plus|Qtab10Plus|
+|Compaq|Qtab11|Qtab11|Qtab11|
 |Compaq|Qtab_Ultra|Qtab_Ultra|Qtab Ultra|
 |Compaq|South Africa|sepolia|COMPAQ GOOGLE TV|
 |Compaq|Venezuela|marina|COMPAQ SMART 4K TV|
@@ -25920,6 +25922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|P25|P25|P25|
 |Mintt|P25+|P25_PLUS|P25+|
 |Mintt|P26|P26|Mintt P26|
+|Mintt|P27PLUS|P27PLUS|P27+|
 |Mintt|Rival_2|CoolMintt_Rival_2|CoolMintt Rival 2|
 |Mintt|T3|T3|P08|
 |Mintt|T3|T3|T3|
@@ -27170,6 +27173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto pad 60 neo|XT2575-1|XT2575-1|
 |Motorola|moto pad 60 neo|XT2575-3|XT2575-3|
+|Motorola|moto pad 60 pro|XT2571-1|XT2571-1|
 |Motorola|moto pad 70|XT2673-1|XT2673-1|
 |Motorola|moto pad 70|XT2673-2|XT2673-2|
 |Motorola|moto pad 70 groove|XT2675-1|XT2675-1|
@@ -29002,6 +29006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X7|X7|X7|
 |OMIX|X700|X700|OMIX X700|
 |OMIX|X700|X700|X700|
+|OMMI|OMMI_A17S|OMMI_A17S|OMMI A17S|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
 |ONENZ|Smart V26|Smart_V26|Smart V26|
@@ -31303,6 +31308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PROTON|PROTON 4K Google TV|keoneae|PROTON 4K Google TV|
 |PROTON|PROTON Google TV|bandra|PROTON Google TV|
 |PROTON|Power 50|Proton_Power_50|Power 50|
+|PROTON|Power_60|Power_60|Power 60|
 |PROTON|Proton_X10_Pro|Proton_X10_Pro|X10 Pro|
 |PROTON|Smart TV|alimos|AI PONT|
 |PROTON|Smart TV|dangni|AI PONT|
@@ -35474,6 +35480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|STK Ace Plus|STK_Ace_Plus|STK Ace Plus|
 |STK(Santok)|STK EVO|STK_EVO|STK EVO|
 |STK(Santok)|STK EVO|STK_EVO_US|STK EVO|
+|STK(Santok)|STK Helix|Helix|Helix|
 |STK(Santok)|STK Hero Lite|Hero_Lite|STK Hero Lite|
 |STK(Santok)|STK Hero Lite|STK_Hero_Lite|STK Hero Lite|
 |STK(Santok)|STK Life 5|STK_Life_5|STK Life 5|
@@ -44613,6 +44620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P85_EEA|P85_EEA|P85_EEA|
 |Teclast|P85_ROW|P85_ROW|P85_ROW|
 |Teclast|P85_RUS|P85_RUS|P85_RUS|
+|Teclast|RGD1_EEA|RGD1|RGD1|
 |Teclast|RGD1_EEA|RGD1|RGD1_ROW|
 |Teclast|RGD1_ROW|RGD1|RGD1_ROW|
 |Teclast|RGD1_US|RGD1|RGD1_ROW|
@@ -49350,6 +49358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wpawa|HT10_Plus|HT10_Plus|HT10_Plus|
 |Wpawa|HT10_Plus_A17|HT10_Plus_A17|HT10_Plus_A17|
 |Wpawa|HT10_Ultra|HT10_Ultra|HT10_Ultra|
+|Wpawa|HT10_Ultra_A17|HT10_Ultra_A17|HT10_Ultra_A17|
 |X-Age|A1|A1|A1|
 |X-Age|ACE|ACE|ACE|
 |X-Age|G1|G1|G1|

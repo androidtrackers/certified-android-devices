@@ -39138,6 +39138,13 @@
    "model": "M901"
   }
  ],
+ "PO728M": [
+  {
+   "brand": "BFL",
+   "name": "PO728M",
+   "model": "BFL PO728M"
+  }
+ ],
  "alameda": [
   {
    "brand": "BGH S.A.",
@@ -63632,6 +63639,13 @@
    "brand": "Compaq",
    "name": "Qtab10Plus",
    "model": "Qtab10Plus"
+  }
+ ],
+ "Qtab11": [
+  {
+   "brand": "Compaq",
+   "name": "Qtab11",
+   "model": "Qtab11"
   }
  ],
  "Qtab_Ultra": [
@@ -181302,6 +181316,13 @@
    "model": "Mintt P26"
   }
  ],
+ "P27PLUS": [
+  {
+   "brand": "Mintt",
+   "name": "P27PLUS",
+   "model": "P27+"
+  }
+ ],
  "CoolMintt_Rival_2": [
   {
    "brand": "Mintt",
@@ -188905,6 +188926,13 @@
    "brand": "Motorola",
    "name": "moto pad 60 neo",
    "model": "XT2575-3"
+  }
+ ],
+ "XT2571-1": [
+  {
+   "brand": "Motorola",
+   "name": "moto pad 60 pro",
+   "model": "XT2571-1"
   }
  ],
  "XT2673-1": [
@@ -199721,6 +199749,13 @@
    "brand": "OMIX",
    "name": "X700",
    "model": "X700"
+  }
+ ],
+ "OMMI_A17S": [
+  {
+   "brand": "OMMI",
+   "name": "OMMI_A17S",
+   "model": "OMMI A17S"
   }
  ],
  "T7_PRO": [
@@ -213986,6 +214021,13 @@
    "brand": "PROTON",
    "name": "Power 50",
    "model": "Power 50"
+  }
+ ],
+ "Power_60": [
+  {
+   "brand": "PROTON",
+   "name": "Power_60",
+   "model": "Power 60"
   }
  ],
  "Proton_X10_Pro": [
@@ -237498,6 +237540,13 @@
    "brand": "STK(Santok)",
    "name": "STK EVO",
    "model": "STK EVO"
+  }
+ ],
+ "Helix": [
+  {
+   "brand": "STK(Santok)",
+   "name": "STK Helix",
+   "model": "Helix"
   }
  ],
  "Hero_Lite": [
@@ -290697,6 +290746,11 @@
   {
    "brand": "Teclast",
    "name": "RGD1_EEA",
+   "model": "RGD1"
+  },
+  {
+   "brand": "Teclast",
+   "name": "RGD1_EEA",
    "model": "RGD1_ROW"
   },
   {
@@ -318354,6 +318408,13 @@
    "brand": "Wpawa",
    "name": "HT10_Ultra",
    "model": "HT10_Ultra"
+  }
+ ],
+ "HT10_Ultra_A17": [
+  {
+   "brand": "Wpawa",
+   "name": "HT10_Ultra_A17",
+   "model": "HT10_Ultra_A17"
   }
  ],
  "ACE": [
