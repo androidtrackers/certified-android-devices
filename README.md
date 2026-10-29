@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-28
+Last sync is 2026-10-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5716,9 +5716,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C75_GL|C75|C75|
 |CHAINWAY|C90|C90|C90|
 |CHAINWAY|C90A|C90A|C90A|
+|CHAINWAY|CHAINWAY_MC80|MC80|MC80|
 |CHAINWAY|MC21|MC21|MC21|
 |CHAINWAY|MC50|MC50|MC50|
 |CHAINWAY|MC51|MC51|MC51|
+|CHAINWAY|MC51S|MC51S|MC51S|
 |CHAINWAY|MC62|MC62|MC62|
 |CHAINWAY|MC95|MC95|MC95|
 |CHAINWAY|P100|P100|P100|
@@ -7486,7 +7488,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Action-X5|L752|Action-X5|
 |Crosscall|CORE-M4|CORE-M4|CORE-M4|
 |Crosscall|CORE-M4 GO|CORE-M4-GO|CORE-M4 GO|
-|Crosscall|CORE-Z6 450|L790|AD-Z5|
 |Crosscall|Core- X3|HS8917QC|Core-X3|
 |Crosscall|Core-M5|L751|Core-M5|
 |Crosscall|Core-M5|L751_02|Core-M5|
@@ -7500,6 +7501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-Z5|L790|Core-Z5|
 |Crosscall|Core-Z5|L790_02|Core-Z5|
 |Crosscall|Core-Z5P|L790|Core-Z5P|
+|Crosscall|Core-Z6 450|L790|AD-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|Stellar-M6|L768|Stellar-M6|
 |Crosscall|Stellar-M6E|L768|Stellar-M6E|
@@ -10726,6 +10728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPD|CP08-C1|CP08-C1|CP08-C1|
 |FPD|CP08-C1|CP08-C1|CP08_C1|
 |FPD|CP08-C2|CP08-C2|CP08-C2|
+|FPD|CP08-C2|CP08-C2|CP08-J2|
 |FPD|CP08-J2|CP08-J2|CP08-J2|
 |FPD|CP08_J1|CP08_J1|CP08_J1|
 |FPD|CP10-J1|CP10|CP10-J1|
@@ -19582,6 +19585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KDDI|CablePlus STB|C02AS|C02AS|
 |KDDI|Cableplus STB-2|C02AS5|C02AS5|
 |KDDI|Power Up Unit|C02BB1|C02BB1|
+|KDDI|ST4000G|sti3210d111|ST4000G|
 |KDDI|STA3000|sti6030d111|STA3000|
 |KDDI|STW2000|H02ST1|STW2000|
 |KDDI|SmartTV Box|C01AS|SMARTTVBOX|
@@ -20005,6 +20009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTV|PureKTV|DV8219|Pure|
 |KTV|PureKTV|DV8219|PureKTV|
 |KUBIK|KUBIK_GENTA_10|KUBIK_GENTA_10|KUBIK_GENTA_10|
+|KUMI|KM-TC02_EEA|KM-TC02|HONOR CHOICE Pad 3|
 |KUNFT|K5130H43U|samseong|AI PONT|
 |KUNFT|K5132H32H|ikebukuro|AI PONT|
 |KUNFT|Smart TV|alimos|AI PONT|
@@ -22763,6 +22768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R3|R3|R3|
 |Lava|R3 Prime|iris90|iris90|
 |Lava|Shark 2 5G|LXX528|LAVA LXX528|
+|Lava|Smart 4|LZG414|LAVA LZG414|
 |Lava|T101|LTN10RT|LTN10RT|
 |Lava|T101|T101|T101|
 |Lava|T101N|T101N|T101N|
@@ -23892,6 +23898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lesia|K7|K7|K7|
 |Lesia|NEO_9|NEO_9|NEO_9|
 |Lesia|P40|P40|P40|
+|Lesia|PAD_10_Pro|PAD_10_Pro|PAD_10_Pro|
 |Lesia|Pad 12|Pad_12|Pad 12|
 |Lesia|Pad_11|Pad_11|Pad_11|
 |Lesia|SMART_7|SMART_7|SMART_7|
@@ -24335,6 +24342,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|Pad_17_US|Pad_17|Pad_17|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
+|M-Horse|S27Ultra|S27Ultra|S27Ultra|
+|M-Horse|S27Ultra_US|S27Ultra|S27Ultra|
 |M-KOPA|M-KOPA M10|NYX|M-KOPA M10|
 |M-KOPA|S34|S34|S34|
 |M-KOPA|S50|S50|S50|
@@ -24488,10 +24497,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEFERI|ME63|ME63|ME63|
 |MEFERI|ME65|ME65|ME65|
 |MEFERI|ME74|ME74|ME74|
+|MEFERI|ME87|ME87|ME87|
 |MEGAAUDIO|Multimedia_Megaaudio|Multimedia_Megaaudio|Multimedia_Megaaudio|
 |MEIZE|D105|D105|D105|
 |MEIZE|D106|D106|D106|
 |MEIZE|D108|D108|D108|
+|MEIZE|D112|D112|D112|
 |MEIZE|D115|D115|D115|
 |MEIZE|D117_US|D117|D117|
 |MEIZE|D121|D121|D121|
@@ -39411,17 +39422,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Servicom IT|T6000|T6000|T6000|
 |Seuic|AUTOID PAD Air-5G-P|d527p|AUTOID PAD Air-5G-P|
 |Seuic|AUTOID Pad Air|d520|AUTOID Pad Air|
+|Seuic|AUTOID Pad Air 11|d529b|AUTOID Pad Air 11|
 |Seuic|AUTOID Pad Air-5G|D527|AUTOID Pad Air-5G|
 |Seuic|AUTOID Q7|d310m|AUTOID Q7|
+|Seuic|AUTOID Q9|D362|AUTOID Q9|
 |Seuic|AUTOID Q9|d550|AUTOID Q9|
 |Seuic|AUTOID10|d560|AUTOID10|
+|Seuic|AUTOID10|d563|AUTOID10|
 |Seuic|AUTOID11|d310x|AUTOID11|
 |Seuic|AUTOID9N|d500b|AUTIOD9N|
 |Seuic|AUTOID9N|d500b|AUTOID9N|
 |Seuic|AUTOIDQ9|D360|AUTOIDQ9|
 |Seuic|AUTOIDQ9G|d550|AUTOID Q9|
+|Seuic|CRUISE Air|d780|CRUISE Air|
 |Seuic|CRUISE GeP|D737P|CRUISE GeP|
 |Seuic|CRUISE1|d700s|CRUISE1|
+|Seuic|CRUISE2|d718g|CRUISE2|
 |Seuic|CRUISE2|d730|CRUISE2|
 |Seuic|CRUISE2 5G|d740|CRUISE2 5G|
 |Seuic|CRUISE2 5GA|d740p|CRUISE2 5GA|
@@ -44122,6 +44138,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TONE|TONE e20|TONE_e20|TONE e20|
 |TONE|TONE_e21|TONE_e21|TONE_e21|
 |TONE|TONE_e22|TONE_e22|TONE_e22|
+|TOPDON|ONEMax|ONEMax|ONEMax|
+|TOPDON|ONEMax_US|ONEMax|ONEMax|
 |TOPDON|ONEPro|ONEPro|ONEPro|
 |TOPELOTEK|K15A|K15A|K15A|
 |TOPELOTEK|KIDS06|KIDS06|KIDS06|
@@ -49530,6 +49548,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XPPen|MDP1232_EEA|MDP1231|MDP1231|
 |XPPen|MDP1233_RU|MDP1231|MDP1231|
 |XPPen|MDP1234_US|MDP1231|MDP1231|
+|XPPen|Magic_12|MDP1236|MDP1236|
+|XPPen|Magic_12_EEA|MDP1236|MDP1236|
+|XPPen|Magic_12_RU|MDP1236|MDP1236|
+|XPPen|Magic_12_US|MDP1236|MDP1236|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
 |XREAL|Beam Pro|X4000|X4000|

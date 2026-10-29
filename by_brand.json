@@ -29554,6 +29554,11 @@
    "model": "C90A"
   },
   {
+   "device": "MC80",
+   "name": "CHAINWAY_MC80",
+   "model": "MC80"
+  },
+  {
    "device": "MC21",
    "name": "MC21",
    "model": "MC21"
@@ -29567,6 +29572,11 @@
    "device": "MC51",
    "name": "MC51",
    "model": "MC51"
+  },
+  {
+   "device": "MC51S",
+   "name": "MC51S",
+   "model": "MC51S"
   },
   {
    "device": "MC62",
@@ -38776,11 +38786,6 @@
    "model": "CORE-M4 GO"
   },
   {
-   "device": "L790",
-   "name": "CORE-Z6 450",
-   "model": "AD-Z5"
-  },
-  {
    "device": "HS8917QC",
    "name": "Core- X3",
    "model": "Core-X3"
@@ -38844,6 +38849,11 @@
    "device": "L790",
    "name": "Core-Z5P",
    "model": "Core-Z5P"
+  },
+  {
+   "device": "L790",
+   "name": "Core-Z6 450",
+   "model": "AD-Z5"
   },
   {
    "device": "ODYSSEY3G",
@@ -55716,6 +55726,11 @@
    "device": "CP08-C2",
    "name": "CP08-C2",
    "model": "CP08-C2"
+  },
+  {
+   "device": "CP08-C2",
+   "name": "CP08-C2",
+   "model": "CP08-J2"
   },
   {
    "device": "CP08-J2",
@@ -101108,6 +101123,11 @@
    "model": "C02BB1"
   },
   {
+   "device": "sti3210d111",
+   "name": "ST4000G",
+   "model": "ST4000G"
+  },
+  {
    "device": "sti6030d111",
    "name": "STA3000",
    "model": "STA3000"
@@ -103291,6 +103311,13 @@
    "device": "KUBIK_GENTA_10",
    "name": "KUBIK_GENTA_10",
    "model": "KUBIK_GENTA_10"
+  }
+ ],
+ "KUMI": [
+  {
+   "device": "KM-TC02",
+   "name": "KM-TC02_EEA",
+   "model": "HONOR CHOICE Pad 3"
   }
  ],
  "KUNFT": [
@@ -117367,6 +117394,11 @@
    "model": "LAVA LXX528"
   },
   {
+   "device": "LZG414",
+   "name": "Smart 4",
+   "model": "LAVA LZG414"
+  },
+  {
    "device": "LTN10RT",
    "name": "T101",
    "model": "LTN10RT"
@@ -123052,6 +123084,11 @@
    "model": "P40"
   },
   {
+   "device": "PAD_10_Pro",
+   "name": "PAD_10_Pro",
+   "model": "PAD_10_Pro"
+  },
+  {
    "device": "Pad_12",
    "name": "Pad 12",
    "model": "Pad 12"
@@ -125343,6 +125380,16 @@
    "device": "Pure_3",
    "name": "Pure 3",
    "model": "Pure 3"
+  },
+  {
+   "device": "S27Ultra",
+   "name": "S27Ultra",
+   "model": "S27Ultra"
+  },
+  {
+   "device": "S27Ultra",
+   "name": "S27Ultra_US",
+   "model": "S27Ultra"
   }
  ],
  "M-KOPA": [
@@ -126156,6 +126203,11 @@
    "device": "ME74",
    "name": "ME74",
    "model": "ME74"
+  },
+  {
+   "device": "ME87",
+   "name": "ME87",
+   "model": "ME87"
   }
  ],
  "MEGAAUDIO": [
@@ -126180,6 +126232,11 @@
    "device": "D108",
    "name": "D108",
    "model": "D108"
+  },
+  {
+   "device": "D112",
+   "name": "D112",
+   "model": "D112"
   },
   {
    "device": "D115",
@@ -202663,6 +202720,11 @@
    "model": "AUTOID Pad Air"
   },
   {
+   "device": "d529b",
+   "name": "AUTOID Pad Air 11",
+   "model": "AUTOID Pad Air 11"
+  },
+  {
    "device": "D527",
    "name": "AUTOID Pad Air-5G",
    "model": "AUTOID Pad Air-5G"
@@ -202673,12 +202735,22 @@
    "model": "AUTOID Q7"
   },
   {
+   "device": "D362",
+   "name": "AUTOID Q9",
+   "model": "AUTOID Q9"
+  },
+  {
    "device": "d550",
    "name": "AUTOID Q9",
    "model": "AUTOID Q9"
   },
   {
    "device": "d560",
+   "name": "AUTOID10",
+   "model": "AUTOID10"
+  },
+  {
+   "device": "d563",
    "name": "AUTOID10",
    "model": "AUTOID10"
   },
@@ -202708,6 +202780,11 @@
    "model": "AUTOID Q9"
   },
   {
+   "device": "d780",
+   "name": "CRUISE Air",
+   "model": "CRUISE Air"
+  },
+  {
    "device": "D737P",
    "name": "CRUISE GeP",
    "model": "CRUISE GeP"
@@ -202716,6 +202793,11 @@
    "device": "d700s",
    "name": "CRUISE1",
    "model": "CRUISE1"
+  },
+  {
+   "device": "d718g",
+   "name": "CRUISE2",
+   "model": "CRUISE2"
   },
   {
    "device": "d730",
@@ -226667,6 +226749,16 @@
   }
  ],
  "TOPDON": [
+  {
+   "device": "ONEMax",
+   "name": "ONEMax",
+   "model": "ONEMax"
+  },
+  {
+   "device": "ONEMax",
+   "name": "ONEMax_US",
+   "model": "ONEMax"
+  },
   {
    "device": "ONEPro",
    "name": "ONEPro",
@@ -254692,6 +254784,26 @@
    "device": "MDP1231",
    "name": "MDP1234_US",
    "model": "MDP1231"
+  },
+  {
+   "device": "MDP1236",
+   "name": "Magic_12",
+   "model": "MDP1236"
+  },
+  {
+   "device": "MDP1236",
+   "name": "Magic_12_EEA",
+   "model": "MDP1236"
+  },
+  {
+   "device": "MDP1236",
+   "name": "Magic_12_RU",
+   "model": "MDP1236"
+  },
+  {
+   "device": "MDP1236",
+   "name": "Magic_12_US",
+   "model": "MDP1236"
   },
   {
    "device": "Titan_XPPen",
