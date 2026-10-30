@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-29
+Last sync is 2026-10-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1909,6 +1909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amazon|Alexa Tablet 12 Pro|spinel|ATSPUWI|
 |Amazon|Alexa Tablet 8|Amazon Kids Tablet 8|roselite|
 |Amdox|AME_QT08UM|Smart_Whiteboard|AME_QT08UM|
+|Amdox|AME_RX78KB|AME_RX78KB|AME_RX78KB|
 |Amdox|EP-01|EP-01|EP-01|
 |Amdox|X086AF|rk3588_t|X086AF|
 |Americamovil|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
@@ -5084,6 +5085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G34|G1070|G34|
 |Blu|G35|G1110|G35|
 |Blu|G35|G1111|G35|
+|Blu|G36|G1230|G36|
 |Blu|G40|G0730WW|G40|
 |Blu|G40|G0790UU|G40|
 |Blu|G43|G0950|G43|
@@ -7702,6 +7704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAMASCO|TAB-T126-8|TAB-T126-8|TAB-T126-8|
 |DAMASCO|TAB-T537-10|TAB-T537-10|TAB-T537-10|
 |DAMASCO|TAB-T863-3|TAB-T863-3|TAB-T863-3|
+|DAMASCO|TK831-3|TK831-3|TK831-3|
 |DAMASCO|tk101_4|tk101_4|TAB-TK101-4|
 |DANDOON|A2|A2|A2|
 |DARVEEN|RTC_M102|RTC_M102|RTC_M102|
@@ -8625,6 +8628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|NOTE 20|NOTE_20|NOTE 20|
 |Digit|Sonic Lite|Sonic_Lite|Sonic Lite|
 |Digit|Sonic_One|Sonic_One|Sonic One|
+|Digit|Sonic_Pro|Sonic_pro|Digit Sonic Pro|
 |Digit|Tab2|Tab2|Tab2|
 |Digit|Titan_5G|Titan_5G|Titan 5G|
 |DigitEdge|Pad12pro|Pad12pro|Pad12pro|
@@ -11804,6 +11808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70G2|zx70g2|ZX70G2|
 |Getac|ZX80|zx80|ZX80|
 |Getnord|LYNX|LYNX|LYNX|
+|Gevo|GX30|GX30|GX30|
 |Gevo|Gevo E10|E10|GEVO E10|
 |Gevo|Gevo V20|V20|Gevo S6801|
 |Gevo|V10|Gevo_V10|V10|
@@ -12204,6 +12209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
 |GoMo|GoMo N22|S6518LA|S6518L|
 |GoMo|N11|S5506LA|S5506L|
+|GoMo|S6712L|S6712LA|S6712L|
 |GoPlus|GoPlus 4k|SEI700STL|GoPlus 4k|
 |Goally|P3_8|P3_8|P3_8|
 |Gobox|T2|T2|T2|
@@ -15049,6 +15055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|Gathers|pl0a|22M Gathers|
 |Honda|Gathers|pr3a_arm64|Gathers PR3A|
 |Honda|IVI-SYSTEM|emu_pub_h_30a_g_car|IVI-SYSTEM|
+|Honda|IVI-SYSTEM|gen4_gvm|IVI-SYSTEM|
 |Honda|IVI-SYSTEM|msmnile_au|IVI-SYSTEM|
 |Honda|MY15ADA|koelsch|MY15ADA|
 |Honda|NSX|koelsch|MY15ADA|
@@ -31035,6 +31042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|Smart TV|osaka|AI PONT|
 |PEAQ|Smart TV|osaka|AI PONT DE|
 |PEEPandLEARN|PLPro|PLPro|PLPro|
+|PEICHENG|A1016|A1016|A1016|
 |PEICHENG|A3_MAX|A3_MAX|A3_MAX|
 |PEICHENG|A5|A5|A5|
 |PEICHENG|A5_Air|A5_Air|A5|
@@ -46094,6 +46102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X13|GQ3117SH2_MTN|Armor X13|
 |Ulefone|Armor X16|GQ5020TH1P19|Armor X16|
 |Ulefone|Armor X16 Pro|GQ5020BH1|Armor X16 Pro|
+|Ulefone|Armor X17|GQ3133TH2|Armor X17|
 |Ulefone|Armor X17 Pro|GQ3133TH1|Armor X17 Ultra|
 |Ulefone|Armor X17 Pro|GQ3133TH3|Armor X17 Pro|
 |Ulefone|Armor X17 Ultra|GQ3133TH3|Armor X17 Pro|

@@ -9963,6 +9963,11 @@
    "model": "AME_QT08UM"
   },
   {
+   "device": "AME_RX78KB",
+   "name": "AME_RX78KB",
+   "model": "AME_RX78KB"
+  },
+  {
    "device": "EP-01",
    "name": "EP-01",
    "model": "EP-01"
@@ -26260,6 +26265,11 @@
    "model": "G35"
   },
   {
+   "device": "G1230",
+   "name": "G36",
+   "model": "G36"
+  },
+  {
    "device": "G0730WW",
    "name": "G40",
    "model": "G40"
@@ -39886,6 +39896,11 @@
    "model": "TAB-T863-3"
   },
   {
+   "device": "TK831-3",
+   "name": "TK831-3",
+   "model": "TK831-3"
+  },
+  {
    "device": "tk101_4",
    "name": "tk101_4",
    "model": "TAB-TK101-4"
@@ -44723,6 +44738,11 @@
    "device": "Sonic_One",
    "name": "Sonic_One",
    "model": "Sonic One"
+  },
+  {
+   "device": "Sonic_pro",
+   "name": "Sonic_Pro",
+   "model": "Digit Sonic Pro"
   },
   {
    "device": "Tab2",
@@ -61414,6 +61434,11 @@
  ],
  "Gevo": [
   {
+   "device": "GX30",
+   "name": "GX30",
+   "model": "GX30"
+  },
+  {
    "device": "E10",
    "name": "Gevo E10",
    "model": "GEVO E10"
@@ -63452,6 +63477,11 @@
    "device": "S5506LA",
    "name": "N11",
    "model": "S5506L"
+  },
+  {
+   "device": "S6712LA",
+   "name": "S6712L",
+   "model": "S6712L"
   }
  ],
  "GoPlus": [
@@ -77995,6 +78025,11 @@
   },
   {
    "device": "emu_pub_h_30a_g_car",
+   "name": "IVI-SYSTEM",
+   "model": "IVI-SYSTEM"
+  },
+  {
+   "device": "gen4_gvm",
    "name": "IVI-SYSTEM",
    "model": "IVI-SYSTEM"
   },
@@ -159863,6 +159898,11 @@
  ],
  "PEICHENG": [
   {
+   "device": "A1016",
+   "name": "A1016",
+   "model": "A1016"
+  },
+  {
    "device": "A3_MAX",
    "name": "A3_MAX",
    "model": "A3_MAX"
@@ -236956,6 +236996,11 @@
    "device": "GQ5020BH1",
    "name": "Armor X16 Pro",
    "model": "Armor X16 Pro"
+  },
+  {
+   "device": "GQ3133TH2",
+   "name": "Armor X17",
+   "model": "Armor X17"
   },
   {
    "device": "GQ3133TH1",

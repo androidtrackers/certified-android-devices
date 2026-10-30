@@ -26593,6 +26593,13 @@
    "model": "AME_QT08UM"
   }
  ],
+ "AME_RX78KB": [
+  {
+   "brand": "Amdox",
+   "name": "AME_RX78KB",
+   "model": "AME_RX78KB"
+  }
+ ],
  "EP-01": [
   {
    "brand": "Amdox",
@@ -50772,6 +50779,13 @@
    "model": "G35"
   }
  ],
+ "G1230": [
+  {
+   "brand": "Blu",
+   "name": "G36",
+   "model": "G36"
+  }
+ ],
  "G0730WW": [
   {
    "brand": "Blu",
@@ -69877,6 +69891,13 @@
    "model": "TAB-T863-3"
   }
  ],
+ "TK831-3": [
+  {
+   "brand": "DAMASCO",
+   "name": "TK831-3",
+   "model": "TK831-3"
+  }
+ ],
  "tk101_4": [
   {
    "brand": "DAMASCO",
@@ -76097,6 +76118,13 @@
    "brand": "Digit",
    "name": "Sonic_One",
    "model": "Sonic One"
+  }
+ ],
+ "Sonic_pro": [
+  {
+   "brand": "Digit",
+   "name": "Sonic_Pro",
+   "model": "Digit Sonic Pro"
   }
  ],
  "Tab2": [
@@ -97176,6 +97204,18 @@
    "model": "LYNX"
   }
  ],
+ "GX30": [
+  {
+   "brand": "Gevo",
+   "name": "GX30",
+   "model": "GX30"
+  },
+  {
+   "brand": "Gigaset",
+   "name": "GX30",
+   "model": "E940-3044-00"
+  }
+ ],
  "Gevo_V10": [
   {
    "brand": "Gevo",
@@ -98178,13 +98218,6 @@
    "brand": "Gigaset",
    "name": "GX290",
    "model": "GX290"
-  }
- ],
- "GX30": [
-  {
-   "brand": "Gigaset",
-   "name": "GX30",
-   "model": "E940-3044-00"
   }
  ],
  "GX30_EP": [
@@ -99969,6 +100002,13 @@
    "brand": "GoMo",
    "name": "N11",
    "model": "S5506L"
+  }
+ ],
+ "S6712LA": [
+  {
+   "brand": "GoMo",
+   "name": "S6712L",
+   "model": "S6712L"
   }
  ],
  "SEI700STL": [
@@ -116500,6 +116540,13 @@
   }
  ],
  "emu_pub_h_30a_g_car": [
+  {
+   "brand": "Honda",
+   "name": "IVI-SYSTEM",
+   "model": "IVI-SYSTEM"
+  }
+ ],
+ "gen4_gvm": [
   {
    "brand": "Honda",
    "name": "IVI-SYSTEM",
@@ -211871,6 +211918,13 @@
    "model": "PLPro"
   }
  ],
+ "A1016": [
+  {
+   "brand": "PEICHENG",
+   "name": "A1016",
+   "model": "A1016"
+  }
+ ],
  "A3_MAX": [
   {
    "brand": "PEICHENG",
@@ -299396,6 +299450,13 @@
    "brand": "Ulefone",
    "name": "Armor X33 Pro",
    "model": "Armor X16 Pro"
+  }
+ ],
+ "GQ3133TH2": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X17",
+   "model": "Armor X17"
   }
  ],
  "GQ3133TH1": [

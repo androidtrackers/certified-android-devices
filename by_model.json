@@ -21138,6 +21138,13 @@
    "device": "Smart_Whiteboard"
   }
  ],
+ "AME_RX78KB": [
+  {
+   "brand": "Amdox",
+   "name": "AME_RX78KB",
+   "device": "AME_RX78KB"
+  }
+ ],
  "EP-01": [
   {
    "brand": "Amdox",
@@ -44133,6 +44140,18 @@
    "device": "G1111"
   }
  ],
+ "G36": [
+  {
+   "brand": "Blu",
+   "name": "G36",
+   "device": "G1230"
+  },
+  {
+   "brand": "iRulu",
+   "name": "iRULU_G36",
+   "device": "iRULU_G36"
+  }
+ ],
  "G40": [
   {
    "brand": "Blu",
@@ -62902,6 +62921,13 @@
    "device": "TAB-T863-3"
   }
  ],
+ "TK831-3": [
+  {
+   "brand": "DAMASCO",
+   "name": "TK831-3",
+   "device": "TK831-3"
+  }
+ ],
  "TAB-TK101-4": [
   {
    "brand": "DAMASCO",
@@ -69309,6 +69335,13 @@
    "brand": "Digit",
    "name": "Sonic_One",
    "device": "Sonic_One"
+  }
+ ],
+ "Digit Sonic Pro": [
+  {
+   "brand": "Digit",
+   "name": "Sonic_Pro",
+   "device": "Sonic_pro"
   }
  ],
  "Tab2": [
@@ -90990,6 +91023,13 @@
    "device": "LYNX"
   }
  ],
+ "GX30": [
+  {
+   "brand": "Gevo",
+   "name": "GX30",
+   "device": "GX30"
+  }
+ ],
  "GEVO E10": [
   {
    "brand": "Gevo",
@@ -94021,6 +94061,13 @@
    "brand": "GoMo",
    "name": "N11",
    "device": "S5506LA"
+  }
+ ],
+ "S6712L": [
+  {
+   "brand": "GoMo",
+   "name": "S6712L",
+   "device": "S6712LA"
   }
  ],
  "GoPlus 4k": [
@@ -112605,6 +112652,11 @@
    "brand": "Honda",
    "name": "IVI-SYSTEM",
    "device": "emu_pub_h_30a_g_car"
+  },
+  {
+   "brand": "Honda",
+   "name": "IVI-SYSTEM",
+   "device": "gen4_gvm"
   },
   {
    "brand": "Honda",
@@ -214580,6 +214632,13 @@
    "device": "PLPro"
   }
  ],
+ "A1016": [
+  {
+   "brand": "PEICHENG",
+   "name": "A1016",
+   "device": "A1016"
+  }
+ ],
  "A3_MAX": [
   {
    "brand": "PEICHENG",
@@ -310281,6 +310340,13 @@
    "device": "GQ5020BH1"
   }
  ],
+ "Armor X17": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X17",
+   "device": "GQ3133TH2"
+  }
+ ],
  "Armor X17 Ultra": [
   {
    "brand": "Ulefone",
@@ -355080,13 +355146,6 @@
    "brand": "iRulu",
    "name": "Y57P_EEA",
    "device": "Y57P"
-  }
- ],
- "G36": [
-  {
-   "brand": "iRulu",
-   "name": "iRULU_G36",
-   "device": "iRULU_G36"
   }
  ],
  "iSTAR AndroidTV": [
