@@ -12937,20 +12937,6 @@
    "model": "A68EL"
   }
  ],
- "AT908": [
-  {
-   "brand": "ATID",
-   "device": "AT908",
-   "model": "AT908"
-  }
- ],
- "AT908_EEA": [
-  {
-   "brand": "ATID",
-   "device": "AT908",
-   "model": "AT908_EEA"
-  }
- ],
  "ATILIM_mPAD07": [
   {
    "brand": "ATILIM UNIVERSITY",
@@ -46869,6 +46855,13 @@
    "model": "B160V"
   }
  ],
+ "B1680M": [
+  {
+   "brand": "Blu",
+   "device": "B1680M",
+   "model": "B1680M"
+  }
+ ],
  "B3": [
   {
    "brand": "Blu",
@@ -51440,6 +51433,13 @@
    "brand": "British Telecom",
    "device": "d800",
    "model": "BT Home SmartPhone S II"
+  }
+ ],
+ "Bro_s_III": [
+  {
+   "brand": "Bro(SZ)",
+   "device": "Bro_s_III",
+   "model": "Bro_s_III"
   }
  ],
  "620SZ": [
@@ -180142,6 +180142,13 @@
    "model": "MioPhone2017"
   }
  ],
+ "MT8": [
+  {
+   "brand": "MiraTab",
+   "device": "MT8",
+   "model": "MT8"
+  }
+ ],
  "43T": [
   {
    "brand": "Mirage",
@@ -197903,6 +197910,13 @@
    "model": "Okapi_Tab8"
   }
  ],
+ "OK17ProMax4G": [
+  {
+   "brand": "OKING",
+   "device": "OK17ProMax4G",
+   "model": "OK17ProMax4G"
+  }
+ ],
  "GEN-10": [
   {
    "brand": "OKSI",
@@ -202119,11 +202133,6 @@
   },
   {
    "brand": "Oppo",
-   "device": "OP620BL1",
-   "model": "PYE130"
-  },
-  {
-   "brand": "Oppo",
    "device": "OP623EL1",
    "model": "CPH2931"
   }
@@ -203634,6 +203643,13 @@
    "brand": "Oppo",
    "device": "OP61E5L1",
    "model": "PMG110"
+  }
+ ],
+ "K15s": [
+  {
+   "brand": "Oppo",
+   "device": "OP620BL1",
+   "model": "PYE130"
   }
  ],
  "K7x 中国版": [
@@ -234520,6 +234536,13 @@
    "brand": "Ruio",
    "device": "Ruio_i7Ultra",
    "model": "Ruio_i7Ultra"
+  }
+ ],
+ "S5518": [
+  {
+   "brand": "Ruio",
+   "device": "S5518",
+   "model": "S5518"
   }
  ],
  "S5521": [
@@ -324451,6 +324474,18 @@
    "model": "Z138_US"
   }
  ],
+ "Z138_U_US": [
+  {
+   "brand": "ZIOVO",
+   "device": "Z138_U_US",
+   "model": "Z138_U"
+  },
+  {
+   "brand": "ZIOVO",
+   "device": "Z138_U_US",
+   "model": "Z138_U_US"
+  }
+ ],
  "Z138_V_EEA": [
   {
    "brand": "ZIOVO",
@@ -324701,6 +324736,13 @@
    "brand": "ZOOMSMART",
    "device": "ZM10",
    "model": "ZM10"
+  }
+ ],
+ "ZM600": [
+  {
+   "brand": "ZOOMSMART",
+   "device": "ZM600",
+   "model": "ZM600"
   }
  ],
  "ZM800": [

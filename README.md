@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-30
+Last sync is 2026-10-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -490,8 +490,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATEC|ATEC_GRANDE|ATEC_IWB|ABGC|
 |ATECcomputer|A8KD|A8KD|A8KD|
 |ATEL|A68EL|A68EL|A68EL|
-|ATID|AT908|AT908|AT908|
-|ATID|AT908_EEA|AT908|AT908_EEA|
 |ATILIM UNIVERSITY|ATILIM_mPAD07|ATILIM_mPAD07|ATILIM_mPAD07|
 |ATM (Brazil)|IT-1001A|IT-1001A|IT-1001A|
 |ATM (Brazil)|R5|R5|R5|
@@ -4949,6 +4947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|B131DL|B130DL|B131DL|
 |Blu|B140DL|B140DL|B140DL|
 |Blu|B160V|B160V|B160V|
+|Blu|B1680M|B1680M|B1680M|
 |Blu|B3|B301|B3|
 |Blu|BLU|G0430WW|G71|
 |Blu|BLU Dash XL|Dash_XL|Dash XL|
@@ -5536,6 +5535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Britania|Britania Smart plus TV|SW6H|Britania Smart plus TV|
 |British Telecom|BT Home SmartPhone III|BT_Home_SmartPhone_III|E81|
 |British Telecom|HomeSmartphone d800|d800|BT Home SmartPhone S II|
+|Bro(SZ)|Bro_s_III|Bro_s_III|Bro_s_III|
 |Brondi|620SZ|G223_JH|Brondi 620 SZ|
 |Brondi|730 4G HD|Brondi_730_4G_HD|Brondi_730_4G_HD|
 |Brondi|850_4G|850_4G|850_4G|
@@ -25979,6 +25979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mira|X2|X2|X2|
 |Mira|X3|X3|X3|
 |Mira|X4|X4|X4|
+|MiraTab|MT8|MT8|MT8|
 |Mirage|43T|MI-JI-43T|MI-JI-43T|
 |Mirage|44T|MI-JI-44T|MI-JI-44T|
 |Mirage|62S|62S|62S|
@@ -28984,6 +28985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKAPI|Okapi_Tab6|Okapi_Tab6|Okapi_Tab6|
 |OKAPI|Okapi_Tab8|Okapi_Tab8|Okapi_Tab8|
 |OKAPI|Tab10|Tab10|Tab10|
+|OKING|OK17ProMax4G|OK17ProMax4G|OK17ProMax4G|
 |OKSI|GEN-10|GEN-10|GEN-10|
 |OKSI|GT1001|GT1001|GT1001|
 |OKView|IFP|mensa_an64|IFP|
@@ -29726,7 +29728,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7|PBFM00|PBFM00|
 |Oppo|A7|PBFT00|PBFT00|
 |Oppo|A7 Pro 5G|OP620BL1|PYE110|
-|Oppo|A7 Pro 5G|OP620BL1|PYE130|
 |Oppo|A7 Pro 5G|OP623EL1|CPH2931|
 |Oppo|A7 Pro Max 5G|OP6210L1|CPH2909|
 |Oppo|A72|OP4C72L1|CPH2067|
@@ -29973,6 +29974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K14x 5G|OP5F2BL1|CPH2871|
 |Oppo|K15 Pro|OP61E9L1|PMH110|
 |Oppo|K15 Pro+|OP61E5L1|PMG110|
+|Oppo|K15s|OP620BL1|PYE130|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -34897,6 +34899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|Ruio_i7Ultra|Ruio_i7Ultra|Ruio_i7Ultra|
 |Ruio|S4|RUIO_S4|RUIO_S4|
 |Ruio|S5006|RUIO_S5006|S5006|
+|Ruio|S5518|S5518|S5518|
 |Ruio|S5521|S5521|Orange Kova one|
 |Ruio|S5521|S5521|S5521|
 |Ruio|S5521Q|S5521|Orange Kova one|
@@ -50301,6 +50304,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZIOVO|Z138_EEA|Z138_EEA|Z138_EEA|
 |ZIOVO|Z138_EU|Z138_EU|Z138_EU|
 |ZIOVO|Z138_US|Z138_US|Z138_US|
+|ZIOVO|Z138_U_US|Z138_U_US|Z138_U|
+|ZIOVO|Z138_U_US|Z138_U_US|Z138_U_US|
 |ZIOVO|Z138_V_EEA|Z138_V_EEA|Z138_V_EEA|
 |ZIOVO|Z138_V_US|Z138_V_US|Z138_V_US|
 |ZIOVO|Z138_W|Z138_W|Z138_W|
@@ -50348,6 +50353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOOMSMART|LT600T|LT600T|LT600T|
 |ZOOMSMART|LT800|LT800|LT800|
 |ZOOMSMART|ZM10_EEA|ZM10|ZM10|
+|ZOOMSMART|ZM600|ZM600|ZM600|
 |ZOOMSMART|ZM800|ZM800|ZM800|
 |ZOOMSMART|ZM800_EEA|ZM800|ZM800|
 |ZTE||BUL_P726G|ZTE-RACER|

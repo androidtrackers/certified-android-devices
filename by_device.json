@@ -11469,18 +11469,6 @@
    "model": "A68EL"
   }
  ],
- "AT908": [
-  {
-   "brand": "ATID",
-   "name": "AT908",
-   "model": "AT908"
-  },
-  {
-   "brand": "ATID",
-   "name": "AT908_EEA",
-   "model": "AT908_EEA"
-  }
- ],
  "ATILIM_mPAD07": [
   {
    "brand": "ATILIM UNIVERSITY",
@@ -49808,6 +49796,13 @@
    "model": "B160V"
   }
  ],
+ "B1680M": [
+  {
+   "brand": "Blu",
+   "name": "B1680M",
+   "model": "B1680M"
+  }
+ ],
  "B301": [
   {
    "brand": "Blu",
@@ -54049,6 +54044,13 @@
    "brand": "British Telecom",
    "name": "HomeSmartphone d800",
    "model": "BT Home SmartPhone S II"
+  }
+ ],
+ "Bro_s_III": [
+  {
+   "brand": "Bro(SZ)",
+   "name": "Bro_s_III",
+   "model": "Bro_s_III"
   }
  ],
  "G223_JH": [
@@ -181665,6 +181667,13 @@
    "model": "MioPhone2017"
   }
  ],
+ "MT8": [
+  {
+   "brand": "MiraTab",
+   "name": "MT8",
+   "model": "MT8"
+  }
+ ],
  "MI-JI-43T": [
   {
    "brand": "Mirage",
@@ -199688,6 +199697,13 @@
    "model": "Tab10"
   }
  ],
+ "OK17ProMax4G": [
+  {
+   "brand": "OKING",
+   "name": "OK17ProMax4G",
+   "model": "OK17ProMax4G"
+  }
+ ],
  "GEN-10": [
   {
    "brand": "OKSI",
@@ -203962,7 +203978,7 @@
   },
   {
    "brand": "Oppo",
-   "name": "A7 Pro 5G",
+   "name": "K15s",
    "model": "PYE130"
   }
  ],
@@ -234253,6 +234269,13 @@
    "brand": "Ruio",
    "name": "S5006",
    "model": "S5006"
+  }
+ ],
+ "S5518": [
+  {
+   "brand": "Ruio",
+   "name": "S5518",
+   "model": "S5518"
   }
  ],
  "S5521": [
@@ -323531,6 +323554,18 @@
    "model": "Z138_US"
   }
  ],
+ "Z138_U_US": [
+  {
+   "brand": "ZIOVO",
+   "name": "Z138_U_US",
+   "model": "Z138_U"
+  },
+  {
+   "brand": "ZIOVO",
+   "name": "Z138_U_US",
+   "model": "Z138_U_US"
+  }
+ ],
  "Z138_V_EEA": [
   {
    "brand": "ZIOVO",
@@ -323761,6 +323796,13 @@
    "brand": "ZOOMSMART",
    "name": "ZM10_EEA",
    "model": "ZM10"
+  }
+ ],
+ "ZM600": [
+  {
+   "brand": "ZOOMSMART",
+   "name": "ZM600",
+   "model": "ZM600"
   }
  ],
  "ZM800": [

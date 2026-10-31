@@ -2644,18 +2644,6 @@
    "model": "A68EL"
   }
  ],
- "ATID": [
-  {
-   "device": "AT908",
-   "name": "AT908",
-   "model": "AT908"
-  },
-  {
-   "device": "AT908",
-   "name": "AT908_EEA",
-   "model": "AT908_EEA"
-  }
- ],
  "ATILIM UNIVERSITY": [
   {
    "device": "ATILIM_mPAD07",
@@ -25585,6 +25573,11 @@
    "model": "B160V"
   },
   {
+   "device": "B1680M",
+   "name": "B1680M",
+   "model": "B1680M"
+  },
+  {
    "device": "B301",
    "name": "B3",
    "model": "B3"
@@ -28588,6 +28581,13 @@
    "device": "d800",
    "name": "HomeSmartphone d800",
    "model": "BT Home SmartPhone S II"
+  }
+ ],
+ "Bro(SZ)": [
+  {
+   "device": "Bro_s_III",
+   "name": "Bro_s_III",
+   "model": "Bro_s_III"
   }
  ],
  "Brondi": [
@@ -133917,6 +133917,13 @@
    "model": "X4"
   }
  ],
+ "MiraTab": [
+  {
+   "device": "MT8",
+   "name": "MT8",
+   "model": "MT8"
+  }
+ ],
  "Mirage": [
   {
    "device": "MI-JI-43T",
@@ -149398,6 +149405,13 @@
    "model": "Tab10"
   }
  ],
+ "OKING": [
+  {
+   "device": "OK17ProMax4G",
+   "name": "OK17ProMax4G",
+   "model": "OK17ProMax4G"
+  }
+ ],
  "OKSI": [
   {
    "device": "GEN-10",
@@ -153242,11 +153256,6 @@
    "model": "PYE110"
   },
   {
-   "device": "OP620BL1",
-   "name": "A7 Pro 5G",
-   "model": "PYE130"
-  },
-  {
    "device": "OP623EL1",
    "name": "A7 Pro 5G",
    "model": "CPH2931"
@@ -154475,6 +154484,11 @@
    "device": "OP61E5L1",
    "name": "K15 Pro+",
    "model": "PMG110"
+  },
+  {
+   "device": "OP620BL1",
+   "name": "K15s",
+   "model": "PYE130"
   },
   {
    "device": "OP4679",
@@ -179747,6 +179761,11 @@
    "device": "RUIO_S5006",
    "name": "S5006",
    "model": "S5006"
+  },
+  {
+   "device": "S5518",
+   "name": "S5518",
+   "model": "S5518"
   },
   {
    "device": "S5521",
@@ -258709,6 +258728,16 @@
    "model": "Z138_US"
   },
   {
+   "device": "Z138_U_US",
+   "name": "Z138_U_US",
+   "model": "Z138_U"
+  },
+  {
+   "device": "Z138_U_US",
+   "name": "Z138_U_US",
+   "model": "Z138_U_US"
+  },
+  {
    "device": "Z138_V_EEA",
    "name": "Z138_V_EEA",
    "model": "Z138_V_EEA"
@@ -258964,6 +258993,11 @@
    "device": "ZM10",
    "name": "ZM10_EEA",
    "model": "ZM10"
+  },
+  {
+   "device": "ZM600",
+   "name": "ZM600",
+   "model": "ZM600"
   },
   {
    "device": "ZM800",
