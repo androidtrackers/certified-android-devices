@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-10-31
+Last sync is 2026-11-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1348,6 +1348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ainmel|KB1001|KB1001|KB1001|
 |Ainmel|KB1001A|KB1001|KB1001|
 |Ainmel|KB1001A_EEA|KB1001|KB1001|
+|Ainmel|KB1001T_US|KB1001T|KB1001T|
 |Ainmel|KB1001_EEA|KB1001|KB1001|
 |Ainmel|KB1003_EEA|KB1003|KB1003|
 |Ainmel|KB1004|KB1004|KB1004|

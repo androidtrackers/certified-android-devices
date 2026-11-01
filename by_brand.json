@@ -7076,6 +7076,11 @@
    "model": "KB1001"
   },
   {
+   "device": "KB1001T",
+   "name": "KB1001T_US",
+   "model": "KB1001T"
+  },
+  {
    "device": "KB1001",
    "name": "KB1001_EEA",
    "model": "KB1001"
