@@ -20387,6 +20387,13 @@
    "model": "KB1001"
   }
  ],
+ "KB1001T_G": [
+  {
+   "brand": "Ainmel",
+   "device": "KB1001T",
+   "model": "KB1001T"
+  }
+ ],
  "KB1001T_US": [
   {
    "brand": "Ainmel",
@@ -21153,6 +21160,11 @@
   },
   {
    "brand": "Akai",
+   "device": "eleonas",
+   "model": "AKAI"
+  },
+  {
+   "brand": "Akai",
    "device": "stanford",
    "model": "2K SMART TV"
   },
@@ -21172,6 +21184,13 @@
    "brand": "Akai",
    "device": "anaheim",
    "model": "AKAI 4K SMART TV"
+  }
+ ],
+ "AKAI FF": [
+  {
+   "brand": "Akai",
+   "device": "eleonas",
+   "model": "AKAI FF"
   }
  ],
  "AKAI SMART TV": [
@@ -51440,6 +51459,13 @@
    "brand": "British Telecom",
    "device": "d800",
    "model": "BT Home SmartPhone S II"
+  }
+ ],
+ "Bro_s_II": [
+  {
+   "brand": "Bro(SZ)",
+   "device": "Bro_s_II",
+   "model": "Bro_s_II"
   }
  ],
  "Bro_s_III": [
@@ -107472,6 +107498,13 @@
    "model": "E101"
   }
  ],
+ "H-Smart-H61": [
+  {
+   "brand": "HUGEROCK",
+   "device": "H61-5G-M60",
+   "model": "H-Smart"
+  }
+ ],
  "H8": [
   {
    "brand": "HUGEROCK",
@@ -137333,6 +137366,11 @@
   {
    "brand": "Iris",
    "device": "anaheim",
+   "model": "IRIS 4K Smart TV Plus"
+  },
+  {
+   "brand": "Iris",
+   "device": "sapporo",
    "model": "IRIS 4K Smart TV Plus"
   }
  ],
@@ -193006,6 +193044,13 @@
    "model": "NV10"
   }
  ],
+ "B866V6M1 Express": [
+  {
+   "brand": "NOW Express",
+   "device": "B866V6M1_Express",
+   "model": "B866V6M1 Express"
+  }
+ ],
  "NWD_G5": [
   {
    "brand": "NOWADA",
@@ -216152,6 +216197,13 @@
    "model": "Philips Smart 4K TV"
   }
  ],
+ "Philips Smart 4K TV NF": [
+  {
+   "brand": "Philips",
+   "device": "eleonas",
+   "model": "Philips Smart 4K TV NF"
+  }
+ ],
  "Philips SmartTV": [
   {
    "brand": "Philips",
@@ -234574,6 +234626,13 @@
    "brand": "Ruio",
    "device": "S5521",
    "model": "S5521"
+  }
+ ],
+ "S6209": [
+  {
+   "brand": "Ruio",
+   "device": "S6209",
+   "model": "S6209"
   }
  ],
  "S6506": [
@@ -258738,6 +258797,13 @@
    "model": "SM-W9026"
   }
  ],
+ "心系天下 三星 W27": [
+  {
+   "brand": "Samsung",
+   "device": "q8q",
+   "model": "SM-W9027"
+  }
+ ],
  "领世旗舰8": [
   {
    "brand": "Samsung",
@@ -274269,6 +274335,13 @@
    "model": "V3_PLUS"
   }
  ],
+ "V3_A16": [
+  {
+   "brand": "Sunmi",
+   "device": "V3_A16",
+   "model": "V3_A16"
+  }
+ ],
  "SN01DNGL300": [
   {
    "brand": "Sunny",
@@ -287687,6 +287760,13 @@
    "model": "Telecentro 4K S2"
   }
  ],
+ "Telecentro 4K Z1": [
+  {
+   "brand": "TPLAY",
+   "device": "B866V6NT_Telecentro",
+   "model": "Telecentro 4K Z1"
+  }
+ ],
  "ALTAB08": [
   {
    "brand": "TPS",
@@ -288465,6 +288545,13 @@
    "brand": "Teachmint_X",
    "device": "Teachmint_XC",
    "model": "Teachmint_XC"
+  }
+ ],
+ "Teachmint_X_L": [
+  {
+   "brand": "Teachmint_X",
+   "device": "Teachmint_X_L",
+   "model": "Teachmint_X_L"
   }
  ],
  "Force": [
@@ -313468,6 +313555,13 @@
    "model": "Vodafone TV 3"
   }
  ],
+ "Vodafone TV Hub": [
+  {
+   "brand": "Vodafone",
+   "device": "vf_stb_z04_4",
+   "model": "Vodafone TV Hub"
+  }
+ ],
  "X100_EEA": [
   {
    "brand": "Voger",
@@ -320203,6 +320297,13 @@
    "model": "MagicDrawingPad"
   }
  ],
+ "Aura": [
+  {
+   "brand": "XREAL",
+   "device": "axrpuck",
+   "model": "Android XR Puck"
+  }
+ ],
  "Beam Pro": [
   {
    "brand": "XREAL",
@@ -322886,6 +322987,13 @@
    "brand": "Xtreme",
    "device": "SW6H",
    "model": "Xtreme 4K Smart TV FF"
+  }
+ ],
+ "RD-811": [
+  {
+   "brand": "XuanPad",
+   "device": "coorg",
+   "model": "RD-811"
   }
  ],
  "Xpad": [
@@ -342251,6 +342359,13 @@
    "brand": "moderness.online",
    "device": "TK807",
    "model": "TK807"
+  }
+ ],
+ "PAD001": [
+  {
+   "brand": "momentplus",
+   "device": "PAD001",
+   "model": "PAD001"
   }
  ],
  "myAvro A1": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-01
+Last sync is 2026-11-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1348,6 +1348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ainmel|KB1001|KB1001|KB1001|
 |Ainmel|KB1001A|KB1001|KB1001|
 |Ainmel|KB1001A_EEA|KB1001|KB1001|
+|Ainmel|KB1001T_G|KB1001T|KB1001T|
 |Ainmel|KB1001T_US|KB1001T|KB1001T|
 |Ainmel|KB1001_EEA|KB1001|KB1001|
 |Ainmel|KB1003_EEA|KB1003|KB1003|
@@ -1469,9 +1470,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Z9|AIWA_Z9|Z9|
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
 |Akai|AKAI|bangbae|AKAI 4K Android TV|
+|Akai|AKAI|eleonas|AKAI|
 |Akai|AKAI|stanford|2K SMART TV|
 |Akai|AKAI 4K SMART TV|SW6H|AKAI 4K SMART TV|
 |Akai|AKAI 4K SMART TV|anaheim|AKAI 4K SMART TV|
+|Akai|AKAI FF|eleonas|AKAI FF|
 |Akai|AKAI SMART TV|umeda|AKAI  SMART TV|
 |Akai|FZ101|FZ101|FZ101|
 |Akai|FZ701|FZ701|FZ701|
@@ -5536,6 +5539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Britania|Britania Smart plus TV|SW6H|Britania Smart plus TV|
 |British Telecom|BT Home SmartPhone III|BT_Home_SmartPhone_III|E81|
 |British Telecom|HomeSmartphone d800|d800|BT Home SmartPhone S II|
+|Bro(SZ)|Bro_s_II|Bro_s_II|Bro_s_II|
 |Bro(SZ)|Bro_s_III|Bro_s_III|Bro_s_III|
 |Brondi|620SZ|G223_JH|Brondi 620 SZ|
 |Brondi|730 4G HD|Brondi_730_4G_HD|Brondi_730_4G_HD|
@@ -13622,6 +13626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUAVI|KHATAR H-20 PRO|KHATARH20PRO|KHATAR H-20 PRO|
 |HUAVI|SH_700|GOLD_77|GOLD_77|
 |HUGEROCK|E101_EEA|E101|E101|
+|HUGEROCK|H-Smart-H61|H61-5G-M60|H-Smart|
 |HUGEROCK|H8|H8|H8|
 |HUGEROCK|H81|H81-M50|H81|
 |HUGEROCK|T-Smart|H81-4G-M45|T-Smart|
@@ -18743,6 +18748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|IRIS 4K Android TV|SW4H_FF|IRIS 4K Android TV|
 |Iris|IRIS 4K Smart TV Lite|katehaki|IRIS 4K Smart TV Lite|
 |Iris|IRIS 4K Smart TV Plus|anaheim|IRIS 4K Smart TV Plus|
+|Iris|IRIS 4K Smart TV Plus|sapporo|IRIS 4K Smart TV Plus|
 |Iris|IRIS 4K SmartTV|SW6H|IRIS 4K SmartTV|
 |Iris|IRIS 4K SmartTV|eleonas|IRIS 4K SmartTV|
 |Iris|IRIS 4K SmartTV FF|SW6H|IRIS 4K SmartTV FF|
@@ -28154,6 +28160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOS|Box V4|HY4AA-NOS|BOX v4|
 |NOVATAB|T10|NOVAT-10|NOVAT-10|
 |NOVOJOY|NV10|NV10|NV10|
+|NOW Express|B866V6M1 Express|B866V6M1_Express|B866V6M1 Express|
 |NOWADA|NWD_G5|G5|NWD_G5|
 |NOWO|DV 8535 4K|DV8535-KPN|DV 8535 4K|
 |NOWO|DV 8935 X4|DV8935-KPN|DV 8935 X4|
@@ -31971,6 +31978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S8325|Philips_S8325|Philips S8325|
 |Philips|Philips Smart 2K TV|beomil|Philips Smart 2K TV|
 |Philips|Philips Smart 4K TV|eleonas|Philips Smart 4K TV|
+|Philips|Philips Smart 4K TV NF|eleonas|Philips Smart 4K TV NF|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
 |Philips|Philips SmartTV|freesia|PHILIPS 4k TV|
 |Philips|Philips V787|Philips_Xenium_V787|Philips Xenium V787|
@@ -34905,6 +34913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S5521|S5521|S5521|
 |Ruio|S5521Q|S5521|Orange Kova one|
 |Ruio|S5521Q|S5521|S5521|
+|Ruio|S6209|S6209|S6209|
 |Ruio|S6501|S6501|S6501|
 |Ruio|S6506|S6506|S6506|
 |Ruio|S6528|S6528|S6528|
@@ -39251,6 +39260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|心系天下 三星 W25|q6aq|SM-W9025|
 |Samsung|心系天下 三星 W25 Flip|b6q|SM-W7025|
 |Samsung|心系天下 三星 W26|q7q|SM-W9026|
+|Samsung|心系天下 三星 W27|q8q|SM-W9027|
 |Samsung|领世旗舰8|venenoltechn|SM-G9298|
 |Samtech|MID_M1023|MID_M1023|MID_M10|
 |Samtech|MID_M1023_EEA|MID_M1023_EEA|MID_M10|
@@ -41851,6 +41861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|V3|V3|V3|
 |Sunmi|V3 MIX|V3_MIX|V3_MIX_EDLA_GL|
 |Sunmi|V3 PLUS|V3_PLUS|V3_PLUS|
+|Sunmi|V3_A16|V3_A16|V3_A16|
 |Sunny|SN01DNGL300|YQB|SN01DNGL300|
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
@@ -44229,6 +44240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOYIN|RJ TOYIN|RJ_TOYIN|RJ TOYIN|
 |TPLAY|Telecentro 4K|SEI800TCT|Telecentro 4K|
 |TPLAY|Telecentro 4K|SEID00TCT|Telecentro 4K S2|
+|TPLAY|Telecentro 4K Z1|B866V6NT_Telecentro|Telecentro 4K Z1|
 |TPS|ALTAB08|ALTAB08|ALTAB08|
 |TPS|K1091F|K1091F|K1091F|
 |TPS|KF7|KF7|KF7|
@@ -44353,6 +44365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeachmintX|Teachmint_X_PRO|75W82B|TeachmintX_75_Pro|
 |Teachmint_X|Teachmint_X|IIP|Teachmint_X|
 |Teachmint_X|Teachmint_XC|Teachmint_XC|Teachmint_XC|
+|Teachmint_X|Teachmint_X_L|Teachmint_X_L|Teachmint_X_L|
 |Tech 4u|Aqua|Aqua|Aqua|
 |Tech 4u|Earth|Earth|Earth|
 |Tech 4u|Fire|Fire|Fire|
@@ -48444,6 +48457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Vodafone Smart mini 7 ve dual|U3_3G|VFD 311|
 |Vodafone|Vodafone TV|uiw4030vha|Vodafone TV|
 |Vodafone|Vodafone TV 3|m377_vf|Vodafone TV 3|
+|Vodafone|Vodafone TV Hub|vf_stb_z04_4|Vodafone TV Hub|
 |Voger|X100|X100|X100|
 |Voger|X100_EEA|X100_EEA|X100_EEA|
 |Volkano|Cosmic|VK_5400_BK|VK_5400_BK|
@@ -49567,6 +49581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XPPen|Magic_12_US|MDP1236|MDP1236|
 |XPPen|XPPen_Magic_Drawing_Pad|Titan_XPPen|MagicDrawingPad|
 |XPPen|XPPen_Magic_Drawing_Pad_RU|Titan_XPPen|MagicDrawingPad|
+|XREAL|Aura|axrpuck|Android XR Puck|
 |XREAL|Beam Pro|X4000|X4000|
 |XTRA|XT1|XT1|XT1|
 |XTRAGEN|XTCTR_201|RUGGED_TABLET|XTCTR_201|
@@ -50049,6 +50064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtreme|Xtreme 2K Smart TV|umeda|Xtreme 2K Smart TV|
 |Xtreme|Xtreme 4K Smart TV|SW6H|Xtreme 4K Smart TV|
 |Xtreme|Xtreme 4K Smart TV FF|SW6H|Xtreme 4K Smart TV FF|
+|XuanPad|RD-811|coorg|RD-811|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YASHI|MARTINI|MARTINI|MARTINI|
 |YAYGO|SEI600YAY|HND|ATV-101|
@@ -53460,6 +53476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |miracle_tap|miracle_tap_10|miracle_tap_10|miracle_tap_10|
 |mirarel|16MBTW+|ksr|mirarel JTB Google TV|
 |moderness.online|TK807|TK807|TK807|
+|momentplus|PAD001|PAD001|PAD001|
 |myAvro|myAvro A1|Agate|A1|
 |myBoard|myBoard_Horizon|myBoard_Horizon|myBoard_Horizon|
 |mytel|M9501|M9501|M9501|

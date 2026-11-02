@@ -12071,6 +12071,11 @@
    "model": "GT350"
   },
   {
+   "brand": "XuanPad",
+   "name": "RD-811",
+   "model": "RD-811"
+  },
+  {
    "brand": "wanbo",
    "name": "Vali1 Pro",
    "model": "Vali1 Pro"
@@ -18690,6 +18695,16 @@
    "model": "Aconatic 4K Smart TV"
   },
   {
+   "brand": "Akai",
+   "name": "AKAI",
+   "model": "AKAI"
+  },
+  {
+   "brand": "Akai",
+   "name": "AKAI FF",
+   "model": "AKAI FF"
+  },
+  {
    "brand": "BGH S.A.",
    "name": "BGH 4K SMART TV",
    "model": "BGH 4K SMART TV"
@@ -18908,6 +18923,11 @@
    "brand": "Philips",
    "name": "Philips Smart 4K TV",
    "model": "Philips Smart 4K TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Smart 4K TV NF",
+   "model": "Philips Smart 4K TV NF"
   },
   {
    "brand": "Philips",
@@ -21023,6 +21043,11 @@
   }
  ],
  "KB1001T": [
+  {
+   "brand": "Ainmel",
+   "name": "KB1001T_G",
+   "model": "KB1001T"
+  },
   {
    "brand": "Ainmel",
    "name": "KB1001T_US",
@@ -39328,6 +39353,11 @@
    "model": "Indurama 4K smart TV"
   },
   {
+   "brand": "Iris",
+   "name": "IRIS 4K Smart TV Plus",
+   "model": "IRIS 4K Smart TV Plus"
+  },
+  {
    "brand": "JVC",
    "name": "4K Smart TV",
    "model": "4K Smart TV"
@@ -54051,6 +54081,13 @@
    "brand": "British Telecom",
    "name": "HomeSmartphone d800",
    "model": "BT Home SmartPhone S II"
+  }
+ ],
+ "Bro_s_II": [
+  {
+   "brand": "Bro(SZ)",
+   "name": "Bro_s_II",
+   "model": "Bro_s_II"
   }
  ],
  "Bro_s_III": [
@@ -108552,6 +108589,13 @@
    "brand": "HUAVI",
    "name": "SH_700",
    "model": "GOLD_77"
+  }
+ ],
+ "H61-5G-M60": [
+  {
+   "brand": "HUGEROCK",
+   "name": "H-Smart-H61",
+   "model": "H-Smart"
   }
  ],
  "H8": [
@@ -194923,6 +194967,13 @@
    "model": "NV10"
   }
  ],
+ "B866V6M1_Express": [
+  {
+   "brand": "NOW Express",
+   "name": "B866V6M1 Express",
+   "model": "B866V6M1 Express"
+  }
+ ],
  "DV8535-KPN": [
   {
    "brand": "NOWO",
@@ -234307,6 +234358,13 @@
    "model": "S5521"
   }
  ],
+ "S6209": [
+  {
+   "brand": "Ruio",
+   "name": "S6209",
+   "model": "S6209"
+  }
+ ],
  "S6506": [
   {
    "brand": "Ruio",
@@ -259795,6 +259853,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold8 Ultra",
    "model": "SM-F976Z"
+  },
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W27",
+   "model": "SM-W9027"
   }
  ],
  "q7mq": [
@@ -276082,6 +276145,13 @@
    "model": "V3_PLUS"
   }
  ],
+ "V3_A16": [
+  {
+   "brand": "Sunmi",
+   "name": "V3_A16",
+   "model": "V3_A16"
+  }
+ ],
  "SN10016": [
   {
    "brand": "Sunny",
@@ -288387,6 +288457,13 @@
    "model": "Telecentro 4K S2"
   }
  ],
+ "B866V6NT_Telecentro": [
+  {
+   "brand": "TPLAY",
+   "name": "Telecentro 4K Z1",
+   "model": "Telecentro 4K Z1"
+  }
+ ],
  "ALTAB08": [
   {
    "brand": "TPS",
@@ -289119,6 +289196,13 @@
    "brand": "Teachmint_X",
    "name": "Teachmint_XC",
    "model": "Teachmint_XC"
+  }
+ ],
+ "Teachmint_X_L": [
+  {
+   "brand": "Teachmint_X",
+   "name": "Teachmint_X_L",
+   "model": "Teachmint_X_L"
   }
  ],
  "t592_otd_tech_4u_we": [
@@ -313205,6 +313289,13 @@
    "model": "Vodafone TV 3"
   }
  ],
+ "vf_stb_z04_4": [
+  {
+   "brand": "Vodafone",
+   "name": "Vodafone TV Hub",
+   "model": "Vodafone TV Hub"
+  }
+ ],
  "X100_EEA": [
   {
    "brand": "Voger",
@@ -319574,6 +319665,13 @@
    "brand": "XPPen",
    "name": "XPPen_Magic_Drawing_Pad_RU",
    "model": "MagicDrawingPad"
+  }
+ ],
+ "axrpuck": [
+  {
+   "brand": "XREAL",
+   "name": "Aura",
+   "model": "Android XR Puck"
   }
  ],
  "X4000": [
@@ -341530,6 +341628,13 @@
    "brand": "moderness.online",
    "name": "TK807",
    "model": "TK807"
+  }
+ ],
+ "PAD001": [
+  {
+   "brand": "momentplus",
+   "name": "PAD001",
+   "model": "PAD001"
   }
  ],
  "Agate": [
