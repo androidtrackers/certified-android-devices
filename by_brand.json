@@ -39876,6 +39876,11 @@
    "model": "SERIE_M_300"
   },
   {
+   "device": "MC200",
+   "name": "MC200",
+   "model": "MC200"
+  },
+  {
    "device": "MC400",
    "name": "MC400",
    "model": "MC400"
@@ -49125,6 +49130,11 @@
   {
    "device": "A30Pro_A",
    "name": "A30Pro_A_EEA",
+   "model": "A30Pro_A"
+  },
+  {
+   "device": "A30Pro_A",
+   "name": "A30Pro_A_US",
    "model": "A30Pro_A"
   },
   {
@@ -61227,6 +61237,13 @@
    "model": "burmese"
   }
  ],
+ "GeneralLuxe": [
+  {
+   "device": "GLF27",
+   "name": "GLF27",
+   "model": "GLF27"
+  }
+ ],
  "GeneralMobile": [
   {
    "device": "blue_eye",
@@ -61477,6 +61494,11 @@
    "device": "Gevo_V10",
    "name": "V10",
    "model": "V10"
+  },
+  {
+   "device": "V30",
+   "name": "V30",
+   "model": "V30"
   }
  ],
  "Gfast": [
@@ -63493,6 +63515,11 @@
   }
  ],
  "GoMo": [
+  {
+   "device": "S6516LA",
+   "name": "GoMo N22",
+   "model": "S6516L"
+  },
   {
    "device": "S6518LA",
    "name": "GoMo N22",
@@ -72809,6 +72836,11 @@
    "device": "helio_62",
    "name": "helio_62",
    "model": "helio 62"
+  },
+  {
+   "device": "helio_63",
+   "name": "helio_63",
+   "model": "helio 63"
   },
   {
    "device": "helio_65",
@@ -117464,6 +117496,11 @@
    "model": "LAVA LXX528"
   },
   {
+   "device": "LXX532",
+   "name": "Shark 3 5G",
+   "model": "LAVA LXX532"
+  },
+  {
    "device": "LZG414",
    "name": "Smart 4",
    "model": "LAVA LZG414"
@@ -128711,6 +128748,11 @@
  ],
  "Mason": [
   {
+   "device": "MDM350A",
+   "name": "MDM350A",
+   "model": "MDM350"
+  },
+  {
    "device": "MDQ300A",
    "name": "MDQ300",
    "model": "MDQ300"
@@ -134165,6 +134207,13 @@
    "model": "T8"
   }
  ],
+ "Mivi": [
+  {
+   "device": "MVNOE",
+   "name": "MVNOE",
+   "model": "MVNOE"
+  }
+ ],
  "MoT(Mobility Technologies)": [
   {
    "device": "S22-8A",
@@ -135598,6 +135647,11 @@
    "device": "Cygnus_mini",
    "name": "Cygnus mini",
    "model": "Cygnus_mini"
+  },
+  {
+   "device": "GH6032",
+   "name": "GH6032",
+   "model": "H6032"
   },
   {
    "device": "GH6733",
@@ -148846,6 +148900,11 @@
    "model": "S6518L"
   },
   {
+   "device": "S6712LA",
+   "name": "N22",
+   "model": "S6712L"
+  },
+  {
    "device": "S6704LA",
    "name": "N30",
    "model": "S6704L"
@@ -149669,6 +149728,11 @@
   }
  ],
  "OMMI": [
+  {
+   "device": "OMMI_A08",
+   "name": "OMMI_A08",
+   "model": "OMMI_A08"
+  },
   {
    "device": "OMMI_A17S",
    "name": "OMMI_A17S",
@@ -150974,6 +151038,11 @@
    "device": "Olternix_A11",
    "name": "Olternix_A11",
    "model": "Olternix_A11"
+  },
+  {
+   "device": "Olternix_A16",
+   "name": "Olternix_A16",
+   "model": "Olternix_A16"
   }
  ],
  "Olvy": [
@@ -170377,6 +170446,11 @@
   {
    "device": "L10_001",
    "name": "L10_001_USA",
+   "model": "L10"
+  },
+  {
+   "device": "L10_005",
+   "name": "L10_005",
    "model": "L10"
   },
   {

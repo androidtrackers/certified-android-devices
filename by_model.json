@@ -32548,6 +32548,11 @@
   },
   {
    "brand": "Pritom",
+   "name": "L10_005",
+   "device": "L10_005"
+  },
+  {
+   "brand": "Pritom",
    "name": "L10_T07",
    "device": "L10_T07"
   },
@@ -62891,6 +62896,13 @@
    "device": "SERIE_M_300"
   }
  ],
+ "MC200": [
+  {
+   "brand": "DAMASCO",
+   "name": "MC200",
+   "device": "MC200"
+  }
+ ],
  "MC400": [
   {
    "brand": "DAMASCO",
@@ -73138,6 +73150,11 @@
    "device": "M23"
   },
   {
+   "brand": "Gevo",
+   "name": "V30",
+   "device": "V30"
+  },
+  {
    "brand": "Trecfone",
    "name": "V30",
    "device": "V30"
@@ -75124,6 +75141,11 @@
   {
    "brand": "ECOPAD",
    "name": "A30Pro_A_EEA",
+   "device": "A30Pro_A"
+  },
+  {
+   "brand": "ECOPAD",
+   "name": "A30Pro_A_US",
    "device": "A30Pro_A"
   }
  ],
@@ -90796,6 +90818,13 @@
    "device": "burmese"
   }
  ],
+ "GLF27": [
+  {
+   "brand": "GeneralLuxe",
+   "name": "GLF27",
+   "device": "GLF27"
+  }
+ ],
  "E-Tab10": [
   {
    "brand": "GeneralMobile",
@@ -94077,6 +94106,18 @@
    "device": "TQ700"
   }
  ],
+ "S6516L": [
+  {
+   "brand": "GoMo",
+   "name": "GoMo N22",
+   "device": "S6516LA"
+  },
+  {
+   "brand": "Nuu",
+   "name": "N22",
+   "device": "S6516LA"
+  }
+ ],
  "S6518L": [
   {
    "brand": "GoMo",
@@ -94100,6 +94141,11 @@
   {
    "brand": "GoMo",
    "name": "S6712L",
+   "device": "S6712LA"
+  },
+  {
+   "brand": "Nuu",
+   "name": "N22",
    "device": "S6712LA"
   }
  ],
@@ -106050,6 +106096,13 @@
    "brand": "Helio",
    "name": "helio_62",
    "device": "helio_62"
+  }
+ ],
+ "helio 63": [
+  {
+   "brand": "Helio",
+   "name": "helio_63",
+   "device": "helio_63"
   }
  ],
  "helio 65": [
@@ -162337,6 +162390,13 @@
    "device": "LXX528"
   }
  ],
+ "LAVA LXX532": [
+  {
+   "brand": "Lava",
+   "name": "Shark 3 5G",
+   "device": "LXX532"
+  }
+ ],
  "LAVA LZG414": [
   {
    "brand": "Lava",
@@ -175266,6 +175326,11 @@
   },
   {
    "brand": "Mobiwire",
+   "name": "GH6032",
+   "device": "GH6032"
+  },
+  {
+   "brand": "Mobiwire",
    "name": "H6032",
    "device": "H6032"
   }
@@ -176565,6 +176630,13 @@
    "brand": "Mascom",
    "name": "Mascom_S750",
    "device": "Mascom_S750"
+  }
+ ],
+ "MDM350": [
+  {
+   "brand": "Mason",
+   "name": "MDM350A",
+   "device": "MDM350A"
   }
  ],
  "MDQ300": [
@@ -183406,6 +183478,13 @@
    "brand": "Mito",
    "name": "T5091A",
    "device": "MITO_A16"
+  }
+ ],
+ "MVNOE": [
+  {
+   "brand": "Mivi",
+   "name": "MVNOE",
+   "device": "MVNOE"
   }
  ],
  "S22-8A": [
@@ -201134,13 +201213,6 @@
    "device": "S6010LA"
   }
  ],
- "S6516L": [
-  {
-   "brand": "Nuu",
-   "name": "N22",
-   "device": "S6516LA"
-  }
- ],
  "S6704L": [
   {
    "brand": "Nuu",
@@ -202022,6 +202094,13 @@
    "brand": "OMIX",
    "name": "X700",
    "device": "X700"
+  }
+ ],
+ "OMMI_A08": [
+  {
+   "brand": "OMMI",
+   "name": "OMMI_A08",
+   "device": "OMMI_A08"
   }
  ],
  "OMMI A17S": [
@@ -203312,6 +203391,13 @@
    "brand": "Olternix",
    "name": "Olternix_A11",
    "device": "Olternix_A11"
+  }
+ ],
+ "Olternix_A16": [
+  {
+   "brand": "Olternix",
+   "name": "Olternix_A16",
+   "device": "Olternix_A16"
   }
  ],
  "CH10PLUS": [

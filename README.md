@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-02
+Last sync is 2026-11-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7700,6 +7700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAIYU|MBTWDY01|Mediabox|MBTWDY01|
 |DAMASCO|DAMASCO|dawu|4K SMART TV|
 |DAMASCO|DAMASCO MOBILE SERIE M-300 VISION|SERIE_M_300|SERIE_M_300|
+|DAMASCO|MC200|MC200|MC200|
 |DAMASCO|MC400|MC400|MC400|
 |DAMASCO|SERIE_M_100|SERIE_M_100|SERIE_M_100|
 |DAMASCO|SERIE_M_200|SERIE_M_200|SERIE_M_200|
@@ -9480,6 +9481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECOPAD|A30L1_US|A30L1|E30-A|
 |ECOPAD|A30Pro_A|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_EEA|A30Pro_A|A30Pro_A|
+|ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A|
 |ECOPAD|A30Pro_A_US|A30Pro_A|A30Pro_A_US|
 |ECOPAD|C30plus|C30plus|C30plus|
 |ECOPAD|C30plus_EEA|C30plus|C30plus|
@@ -11773,6 +11775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Motors|VCU|burmese|GM Infotainment System|
 |General Motors|VCU|burmese|Premium Infotainment System|
 |General Motors|VCU|burmese|burmese|
+|GeneralLuxe|GLF27|GLF27|GLF27|
 |GeneralMobile|E-Tab10|blue_eye|E-Tab10|
 |GeneralSupreme|Smart TV|alimos|AI PONT|
 |GeneralSupreme|Smart TV|dangni|AI PONT|
@@ -11817,6 +11820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gevo|Gevo E10|E10|GEVO E10|
 |Gevo|Gevo V20|V20|Gevo S6801|
 |Gevo|V10|Gevo_V10|V10|
+|Gevo|V30|V30|V30|
 |Gfast|MD_97_S464A|MD_97_S464A|MD_97_S464A|
 |Ghia|A7LED2|A7LED2|A7LED2|
 |Ghia|A7_3G|A7_3G|A7_3G|
@@ -12212,6 +12216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|QUANTUM_700S/QUANTUM 700S|QUANTUM_700S|QUANTUM_700S|
 |GoClever|Quantum 500 STEEL|FQ_500R|Quantum_500_STEEL|
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
+|GoMo|GoMo N22|S6516LA|S6516L|
 |GoMo|GoMo N22|S6518LA|S6518L|
 |GoMo|N11|S5506LA|S5506L|
 |GoMo|S6712L|S6712LA|S6712L|
@@ -14025,6 +14030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Helio|helio_45|helio_45|helio 45|
 |Helio|helio_55|helio_55|helio 55|
 |Helio|helio_62|helio_62|helio 62|
+|Helio|helio_63|helio_63|helio 63|
 |Helio|helio_65|helio_65|helio 65|
 |HelloPro|A900|A900|A900|
 |HelloPro|PK81R|PK81R|PK81R|
@@ -22782,6 +22788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R3|R3|R3|
 |Lava|R3 Prime|iris90|iris90|
 |Lava|Shark 2 5G|LXX528|LAVA LXX528|
+|Lava|Shark 3 5G|LXX532|LAVA LXX532|
 |Lava|Smart 4|LZG414|LAVA LZG414|
 |Lava|T101|LTN10RT|LTN10RT|
 |Lava|T101|T101|T101|
@@ -24965,6 +24972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mascom|MASCOM WS517|MASCOM_WS517|MASCOM WS517|
 |Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
 |Mascom|Mascom_S750|Mascom_S750|Mascom S750|
+|Mason|MDM350A|MDM350A|MDM350|
 |Mason|MDQ300|MDQ300A|MDQ300|
 |Mason|MGQ300|MGQ300A|MGQ300|
 |Maspower|K7MPT-1011|MPT-1011|MPT-1011|
@@ -26027,6 +26035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|Smart TV|mateo|2K PA Smart TV|
 |Mito|T5091A|MITO_A16|MITO A16|
 |Mito|T8|T8|T8|
+|Mivi|MVNOE|MVNOE|MVNOE|
 |MoT(Mobility Technologies)|S22-8A|S22-8A|S22-8A|
 |Mobell|4K Smart TV|pioneer|4K PA Smart TV|
 |Mobell|MBLTab81|MBLTab81|MBL Tab 8.1|
@@ -26308,6 +26317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Cygnus|Cygnus45|Cygnus45|
 |Mobiwire|Cygnus mini|Cygnus_mini|Cygnus mini|
 |Mobiwire|Cygnus mini|Cygnus_mini|Cygnus_mini|
+|Mobiwire|GH6032|GH6032|H6032|
 |Mobiwire|GH6733|GH6733|H6733|
 |Mobiwire|H|Halona|Halona|
 |Mobiwire|H5111|H5111|H5111|
@@ -28878,6 +28888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|N22|S6010LA|S6010L|
 |Nuu|N22|S6516LA|S6516L|
 |Nuu|N22|S6518LA|S6518L|
+|Nuu|N22|S6712LA|S6712L|
 |Nuu|N30|S6704LA|S6704L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
@@ -29034,6 +29045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X7|X7|X7|
 |OMIX|X700|X700|OMIX X700|
 |OMIX|X700|X700|X700|
+|OMMI|OMMI_A08|OMMI_A08|OMMI_A08|
 |OMMI|OMMI_A17S|OMMI_A17S|OMMI A17S|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
@@ -29278,6 +29290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ollee|T08HM3MSA9|T08HM3MSA9|T08HM3MSA9|
 |Ollee|XT080|XT080|XT080|
 |Olternix|Olternix_A11|Olternix_A11|Olternix_A11|
+|Olternix|Olternix_A16|Olternix_A16|Olternix_A16|
 |Olvy|CH10PLUS|CH10PLUS|CH10PLUS|
 |Olympia|NEO|NEO|NEO|
 |Olympia|NEO_Mini|NEO_Mini|NEO_Mini|
@@ -33088,6 +33101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|L10_001|L10_001|L10|
 |Pritom|L10_001_EEA|L10_001|L10|
 |Pritom|L10_001_USA|L10_001|L10|
+|Pritom|L10_005|L10_005|L10|
 |Pritom|L10_EEA|L10_EEA|L10_EEA|
 |Pritom|L10_PRO|L10_PRO|L10_PRO|
 |Pritom|L10_PRO_EEA|L10_PRO_EEA|L10_PRO_EEA|

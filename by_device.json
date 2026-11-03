@@ -69874,6 +69874,13 @@
    "model": "SERIE_M_300"
   }
  ],
+ "MC200": [
+  {
+   "brand": "DAMASCO",
+   "name": "MC200",
+   "model": "MC200"
+  }
+ ],
  "MC400": [
   {
    "brand": "DAMASCO",
@@ -82157,6 +82164,11 @@
   {
    "brand": "ECOPAD",
    "name": "A30Pro_A_EEA",
+   "model": "A30Pro_A"
+  },
+  {
+   "brand": "ECOPAD",
+   "name": "A30Pro_A_US",
    "model": "A30Pro_A"
   },
   {
@@ -97010,6 +97022,13 @@
    "model": "burmese"
   }
  ],
+ "GLF27": [
+  {
+   "brand": "GeneralLuxe",
+   "name": "GLF27",
+   "model": "GLF27"
+  }
+ ],
  "blue_eye": [
   {
    "brand": "GeneralMobile",
@@ -97267,6 +97286,23 @@
    "brand": "Gevo",
    "name": "V10",
    "model": "V10"
+  }
+ ],
+ "V30": [
+  {
+   "brand": "Gevo",
+   "name": "V30",
+   "model": "V30"
+  },
+  {
+   "brand": "Trecfone",
+   "name": "V30",
+   "model": "V30"
+  },
+  {
+   "brand": "VILLAON",
+   "name": "VILLAON V30",
+   "model": "VILLAON V30"
   }
  ],
  "MD_97_S464A": [
@@ -100031,6 +100067,18 @@
    "model": "TQ700"
   }
  ],
+ "S6516LA": [
+  {
+   "brand": "GoMo",
+   "name": "GoMo N22",
+   "model": "S6516L"
+  },
+  {
+   "brand": "Nuu",
+   "name": "N22",
+   "model": "S6516L"
+  }
+ ],
  "S6518LA": [
   {
    "brand": "GoMo",
@@ -100054,6 +100102,11 @@
   {
    "brand": "GoMo",
    "name": "S6712L",
+   "model": "S6712L"
+  },
+  {
+   "brand": "Nuu",
+   "name": "N22",
    "model": "S6712L"
   }
  ],
@@ -110740,6 +110793,13 @@
    "brand": "Helio",
    "name": "helio_62",
    "model": "helio 62"
+  }
+ ],
+ "helio_63": [
+  {
+   "brand": "Helio",
+   "name": "helio_63",
+   "model": "helio 63"
   }
  ],
  "helio_65": [
@@ -161513,6 +161573,13 @@
    "model": "LAVA LXX528"
   }
  ],
+ "LXX532": [
+  {
+   "brand": "Lava",
+   "name": "Shark 3 5G",
+   "model": "LAVA LXX532"
+  }
+ ],
  "LZG414": [
   {
    "brand": "Lava",
@@ -175215,6 +175282,13 @@
    "model": "Mascom S750"
   }
  ],
+ "MDM350A": [
+  {
+   "brand": "Mason",
+   "name": "MDM350A",
+   "model": "MDM350"
+  }
+ ],
  "MDQ300A": [
   {
    "brand": "Mason",
@@ -181963,6 +182037,13 @@
    "model": "MITO A16"
   }
  ],
+ "MVNOE": [
+  {
+   "brand": "Mivi",
+   "name": "MVNOE",
+   "model": "MVNOE"
+  }
+ ],
  "S22-8A": [
   {
    "brand": "MoT(Mobility Technologies)",
@@ -183836,6 +183917,13 @@
    "brand": "Mobiwire",
    "name": "STARSHINE 5",
    "model": "Smart_A25"
+  }
+ ],
+ "GH6032": [
+  {
+   "brand": "Mobiwire",
+   "name": "GH6032",
+   "model": "H6032"
   }
  ],
  "GH6733": [
@@ -199132,13 +199220,6 @@
    "model": "S6010L"
   }
  ],
- "S6516LA": [
-  {
-   "brand": "Nuu",
-   "name": "N22",
-   "model": "S6516L"
-  }
- ],
  "S6704LA": [
   {
    "brand": "Nuu",
@@ -199943,6 +200024,13 @@
    "brand": "OMIX",
    "name": "X700",
    "model": "X700"
+  }
+ ],
+ "OMMI_A08": [
+  {
+   "brand": "OMMI",
+   "name": "OMMI_A08",
+   "model": "OMMI_A08"
   }
  ],
  "OMMI_A17S": [
@@ -201181,6 +201269,13 @@
    "brand": "Olternix",
    "name": "Olternix_A11",
    "model": "Olternix_A11"
+  }
+ ],
+ "Olternix_A16": [
+  {
+   "brand": "Olternix",
+   "name": "Olternix_A16",
+   "model": "Olternix_A16"
   }
  ],
  "CH10PLUS": [
@@ -224558,6 +224653,13 @@
   {
    "brand": "Pritom",
    "name": "L10_001_USA",
+   "model": "L10"
+  }
+ ],
+ "L10_005": [
+  {
+   "brand": "Pritom",
+   "name": "L10_005",
    "model": "L10"
   }
  ],
@@ -297587,18 +297689,6 @@
    "brand": "Trecfone",
    "name": "Trecfone_16 Pro Max",
    "model": "16 Pro Max"
-  }
- ],
- "V30": [
-  {
-   "brand": "Trecfone",
-   "name": "V30",
-   "model": "V30"
-  },
-  {
-   "brand": "VILLAON",
-   "name": "VILLAON V30",
-   "model": "VILLAON V30"
   }
  ],
  "V35": [

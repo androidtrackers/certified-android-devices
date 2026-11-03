@@ -67255,6 +67255,13 @@
    "model": "SERIE_M_300"
   }
  ],
+ "MC200": [
+  {
+   "brand": "DAMASCO",
+   "device": "MC200",
+   "model": "MC200"
+  }
+ ],
  "MC400": [
   {
    "brand": "DAMASCO",
@@ -77861,6 +77868,11 @@
    "model": "V30"
   },
   {
+   "brand": "Gevo",
+   "device": "V30",
+   "model": "V30"
+  },
+  {
    "brand": "LGE",
    "device": "joan",
    "model": "LG-AS998"
@@ -80078,6 +80090,11 @@
   }
  ],
  "A30Pro_A_US": [
+  {
+   "brand": "ECOPAD",
+   "device": "A30Pro_A",
+   "model": "A30Pro_A"
+  },
   {
    "brand": "ECOPAD",
    "device": "A30Pro_A",
@@ -95754,6 +95771,13 @@
    "model": "burmese"
   }
  ],
+ "GLF27": [
+  {
+   "brand": "GeneralLuxe",
+   "device": "GLF27",
+   "model": "GLF27"
+  }
+ ],
  "E-Tab10": [
   {
    "brand": "GeneralMobile",
@@ -98904,6 +98928,11 @@
   }
  ],
  "GoMo N22": [
+  {
+   "brand": "GoMo",
+   "device": "S6516LA",
+   "model": "S6516L"
+  },
   {
    "brand": "GoMo",
    "device": "S6518LA",
@@ -110208,6 +110237,13 @@
    "brand": "Helio",
    "device": "helio_62",
    "model": "helio 62"
+  }
+ ],
+ "helio_63": [
+  {
+   "brand": "Helio",
+   "device": "helio_63",
+   "model": "helio 63"
   }
  ],
  "helio_65": [
@@ -160960,6 +160996,13 @@
    "model": "LAVA LXX528"
   }
  ],
+ "Shark 3 5G": [
+  {
+   "brand": "Lava",
+   "device": "LXX532",
+   "model": "LAVA LXX532"
+  }
+ ],
  "T101N": [
   {
    "brand": "Lava",
@@ -173948,6 +173991,13 @@
    "model": "Mascom S750"
   }
  ],
+ "MDM350A": [
+  {
+   "brand": "Mason",
+   "device": "MDM350A",
+   "model": "MDM350"
+  }
+ ],
  "MDQ300": [
   {
    "brand": "Mason",
@@ -180421,6 +180471,13 @@
    "model": "MITO A16"
   }
  ],
+ "MVNOE": [
+  {
+   "brand": "Mivi",
+   "device": "MVNOE",
+   "model": "MVNOE"
+  }
+ ],
  "S22-8A": [
   {
    "brand": "MoT(Mobility Technologies)",
@@ -182198,6 +182255,13 @@
    "brand": "Mobiwire",
    "device": "Cygnus_mini",
    "model": "Cygnus_mini"
+  }
+ ],
+ "GH6032": [
+  {
+   "brand": "Mobiwire",
+   "device": "GH6032",
+   "model": "H6032"
   }
  ],
  "GH6733": [
@@ -197298,6 +197362,11 @@
    "brand": "Nuu",
    "device": "S6518LA",
    "model": "S6518L"
+  },
+  {
+   "brand": "Nuu",
+   "device": "S6712LA",
+   "model": "S6712L"
   }
  ],
  "N4L": [
@@ -198168,6 +198237,13 @@
    "brand": "OMIX",
    "device": "X700",
    "model": "X700"
+  }
+ ],
+ "OMMI_A08": [
+  {
+   "brand": "OMMI",
+   "device": "OMMI_A08",
+   "model": "OMMI_A08"
   }
  ],
  "OMMI_A17S": [
@@ -199514,6 +199590,13 @@
    "brand": "Olternix",
    "device": "Olternix_A11",
    "model": "Olternix_A11"
+  }
+ ],
+ "Olternix_A16": [
+  {
+   "brand": "Olternix",
+   "device": "Olternix_A16",
+   "model": "Olternix_A16"
   }
  ],
  "CH10PLUS": [
@@ -223258,6 +223341,13 @@
   {
    "brand": "Pritom",
    "device": "L10_001",
+   "model": "L10"
+  }
+ ],
+ "L10_005": [
+  {
+   "brand": "Pritom",
+   "device": "L10_005",
    "model": "L10"
   }
  ],
