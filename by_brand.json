@@ -19870,6 +19870,11 @@
    "model": "ORION_TG05"
   },
   {
+   "device": "Bmobile_ROCKET_A1",
+   "name": "ROCKET_A1",
+   "model": "ROCKET_A1"
+  },
+  {
    "device": "Bmobile_SPEED5",
    "name": "Speed 5",
    "model": "Speed 5"
@@ -73305,6 +73310,11 @@
    "model": "P16_TU"
   },
   {
+   "device": "PAD_PRO_1",
+   "name": "PAD_PRO_1",
+   "model": "PAD_PRO_1"
+  },
+  {
    "device": "Rugged_S2",
    "name": "Rugged S2",
    "model": "Rugged S2"
@@ -89699,6 +89709,11 @@
    "model": "10WC1"
   },
   {
+   "device": "HT10WC1MSG03_US",
+   "name": "HT10WC1MSG03_US",
+   "model": "10WC1"
+  },
+  {
    "device": "HT7GB1MBK_",
    "name": "HT7GB1MBK_",
    "model": "7GB1"
@@ -92264,6 +92279,13 @@
    "device": "Portal_10i",
    "name": "Portal_10i",
    "model": "NTMC17"
+  }
+ ],
+ "Ifinex": [
+  {
+   "device": "S26_Ultra_Max",
+   "name": "S26_Ultra_Max",
+   "model": "S26 Ultra Max"
   }
  ],
  "IguanaPad": [
@@ -128748,6 +128770,11 @@
  ],
  "Mason": [
   {
+   "device": "MDM250A",
+   "name": "MDM250A",
+   "model": "MDM250"
+  },
+  {
    "device": "MDM350A",
    "name": "MDM350A",
    "model": "MDM350"
@@ -141048,6 +141075,16 @@
    "device": "vantage",
    "name": "motorola signature",
    "model": "motorola signature"
+  },
+  {
+   "device": "wukong",
+   "name": "motorola signature 27",
+   "model": "motorola signature"
+  },
+  {
+   "device": "wukong",
+   "name": "motorola signature 27",
+   "model": "motorola signature 27"
   }
  ],
  "Motorola Solutions": [
@@ -178802,6 +178839,11 @@
    "device": "TB02_US",
    "name": "TB02_US",
    "model": "TB02"
+  },
+  {
+   "device": "TB02_Y_US",
+   "name": "TB02_Y_US",
+   "model": "TB02"
   }
  ],
  "Remdun": [
@@ -203104,9 +203146,9 @@
    "model": "401SH"
   },
   {
-   "device": "tcmar3uj",
-   "name": "4T-**S7A/X7A",
-   "model": "AQUOS-4KTVJ26-2"
+   "device": "4T-48S9A",
+   "name": "4T-**S7A/X7A/X5A",
+   "model": "tcmar3uj"
   },
   {
    "device": "tcmar3uj",
@@ -237199,6 +237241,11 @@
   },
   {
    "device": "GQ5021RH1",
+   "name": "Armor X32",
+   "model": "Armor X32"
+  },
+  {
+   "device": "GQ5021RH3",
    "name": "Armor X32",
    "model": "Armor X32"
   },

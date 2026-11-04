@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-03
+Last sync is 2026-11-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3840,6 +3840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|ORBIT_67|Bmobile_ORBIT_67_TG06|ORBIT_67_TG06|
 |BMobile|ORBIT_MAX|Bmobile_ORBIT_MAX|ORBIT_MAX|
 |BMobile|ORION_TG05|Bmobile_ORION_TG05|ORION_TG05|
+|BMobile|ROCKET_A1|Bmobile_ROCKET_A1|ROCKET_A1|
 |BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
 |BMobile|T70|Bmobile_T70|Bmobile_T70|
 |BMobile|ULTRA S|Bmobile_ULTRA_S_MV03|ULTRA_S|
@@ -14117,6 +14118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|KIDS_1|KIDS_1|KIDS_1|
 |Hiking|P16_TU|P16_TU|P16|
 |Hiking|P16_TU|P16_TU|P16_TU|
+|Hiking|PAD_PRO_1|PAD_PRO_1|PAD_PRO_1|
 |Hiking|Rugged S2|Rugged_S2|Rugged S2|
 |Hiking|Rugged_S1|Rugged_S1|Rugged S1|
 |Hillpos|HT65|HT65|HT65|
@@ -17377,6 +17379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10WC1MSG01_EEA|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG01_US|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG03|HT10WC1MSG03|10WC1|
+|Hyundai|HT10WC1MSG03_US|HT10WC1MSG03_US|10WC1|
 |Hyundai|HT7GB1MBK_|HT7GB1MBK_|7GB1|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
 |Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
@@ -17864,6 +17867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ice|ICE|zhongshan|Smart UHD TV|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
 |Icon|Portal_10i|Portal_10i|NTMC17|
+|Ifinex|S26_Ultra_Max|S26_Ultra_Max|S26 Ultra Max|
 |IguanaPad|XM14G|XM14G|XM14G|
 |Ikimobile|BLESSPLUS|BLESSPLUS|BLESSPLUS|
 |Ikimobile|BLESS_GO55|BLESS_GO55|BLESS_GO55|
@@ -24972,6 +24976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mascom|MASCOM WS517|MASCOM_WS517|MASCOM WS517|
 |Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
 |Mascom|Mascom_S750|Mascom_S750|Mascom S750|
+|Mason|MDM250A|MDM250A|MDM250|
 |Mason|MDM350A|MDM350A|MDM350|
 |Mason|MDQ300|MDQ300A|MDQ300|
 |Mason|MGQ300|MGQ300A|MGQ300|
@@ -27388,6 +27393,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr ultra 2026|lhotse|motorola razr ultra 2026|
 |Motorola|motorola signature|vantage|motorola edge 50 ultra|
 |Motorola|motorola signature|vantage|motorola signature|
+|Motorola|motorola signature 27|wukong|motorola signature|
+|Motorola|motorola signature 27|wukong|motorola signature 27|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -34722,6 +34729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|TB02_Pro_EEA|TB02_Pro_EEA|TB02|
 |Relndoo|TB02_ROW|TB02_ROW|TB02|
 |Relndoo|TB02_US|TB02_US|TB02|
+|Relndoo|TB02_Y_US|TB02_Y_US|TB02|
 |Remdun|RD-52|RD52|RD52|
 |Remdun|RD115MQ|RD115MQ|RD115MQ|
 |Remdun|RD115MQE|RD115MQE|RD115MQE|
@@ -39496,7 +39504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|2T-C50BG1X|meguro|AQUOS-TVX19C|
 |Sharp|306SH|SG306SH|306SH|
 |Sharp|401SH|SG401SH|401SH|
-|Sharp|4T-**S7A/X7A|tcmar3uj|AQUOS-4KTVJ26-2|
+|Sharp|4T-**S7A/X7A/X5A|4T-48S9A|tcmar3uj|
 |Sharp|4T-**S9A/X9A|tcmar3uj|AQUOS-4KTVJ26-1|
 |Sharp|4T-C**AM1/AN1/AL1|8T-C**AX1/AW1|tcsu2uj|
 |Sharp|4T-C**AM1/AN1/AL1|8T-C**AX1/AW1|tcsu2uj|
@@ -46141,6 +46149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X31|GQ5015RH1|Armor X31|
 |Ulefone|Armor X31 Pro|GQ5015AH1|Armor X31 Pro|
 |Ulefone|Armor X32|GQ5021RH1|Armor X32|
+|Ulefone|Armor X32|GQ5021RH3|Armor X32|
 |Ulefone|Armor X32 Pro|GQ5021AH1|Armor X32 Pro|
 |Ulefone|Armor X33 Pro|GQ5020BH1|Armor X16 Pro|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|

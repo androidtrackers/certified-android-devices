@@ -41779,6 +41779,13 @@
    "model": "ORION_TG05"
   }
  ],
+ "Bmobile_ROCKET_A1": [
+  {
+   "brand": "BMobile",
+   "name": "ROCKET_A1",
+   "model": "ROCKET_A1"
+  }
+ ],
  "Bmobile_SPEED5": [
   {
    "brand": "BMobile",
@@ -111399,6 +111406,13 @@
    "model": "P16_TU"
   }
  ],
+ "PAD_PRO_1": [
+  {
+   "brand": "Hiking",
+   "name": "PAD_PRO_1",
+   "model": "PAD_PRO_1"
+  }
+ ],
  "Rugged_S2": [
   {
    "brand": "Hiking",
@@ -130237,6 +130251,13 @@
    "model": "10WC1"
   }
  ],
+ "HT10WC1MSG03_US": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10WC1MSG03_US",
+   "model": "10WC1"
+  }
+ ],
  "HT7GB1MBK_": [
   {
    "brand": "Hyundai",
@@ -133142,6 +133163,13 @@
    "brand": "Icon",
    "name": "Portal_10i",
    "model": "NTMC17"
+  }
+ ],
+ "S26_Ultra_Max": [
+  {
+   "brand": "Ifinex",
+   "name": "S26_Ultra_Max",
+   "model": "S26 Ultra Max"
   }
  ],
  "XM14G": [
@@ -175282,6 +175310,13 @@
    "model": "Mascom S750"
   }
  ],
+ "MDM250A": [
+  {
+   "brand": "Mason",
+   "name": "MDM250A",
+   "model": "MDM250"
+  }
+ ],
  "MDM350A": [
   {
    "brand": "Mason",
@@ -190038,6 +190073,18 @@
    "brand": "Motorola",
    "name": "motorola razr fold 2026",
    "model": "motorola razr fold 2026"
+  }
+ ],
+ "wukong": [
+  {
+   "brand": "Motorola",
+   "name": "motorola signature 27",
+   "model": "motorola signature"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola signature 27",
+   "model": "motorola signature 27"
   }
  ],
  "EVOLVE": [
@@ -233288,6 +233335,13 @@
    "model": "TB02"
   }
  ],
+ "TB02_Y_US": [
+  {
+   "brand": "Relndoo",
+   "name": "TB02_Y_US",
+   "model": "TB02"
+  }
+ ],
  "RD52": [
   {
    "brand": "Remdun",
@@ -261638,12 +261692,14 @@
    "model": "401SH"
   }
  ],
- "tcmar3uj": [
+ "4T-48S9A": [
   {
    "brand": "Sharp",
-   "name": "4T-**S7A/X7A",
-   "model": "AQUOS-4KTVJ26-2"
-  },
+   "name": "4T-**S7A/X7A/X5A",
+   "model": "tcmar3uj"
+  }
+ ],
+ "tcmar3uj": [
   {
    "brand": "Sharp",
    "name": "4T-**S9A/X9A",
@@ -299709,6 +299765,13 @@
   }
  ],
  "GQ5021RH1": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X32",
+   "model": "Armor X32"
+  }
+ ],
+ "GQ5021RH3": [
   {
    "brand": "Ulefone",
    "name": "Armor X32",

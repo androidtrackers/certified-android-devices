@@ -38168,6 +38168,13 @@
    "model": "ORION_TG05"
   }
  ],
+ "ROCKET_A1": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_ROCKET_A1",
+   "model": "ROCKET_A1"
+  }
+ ],
  "T70": [
   {
    "brand": "BMobile",
@@ -110893,6 +110900,13 @@
    "model": "P16_TU"
   }
  ],
+ "PAD_PRO_1": [
+  {
+   "brand": "Hiking",
+   "device": "PAD_PRO_1",
+   "model": "PAD_PRO_1"
+  }
+ ],
  "Rugged S2": [
   {
    "brand": "Hiking",
@@ -128714,6 +128728,13 @@
    "model": "10WC1"
   }
  ],
+ "HT10WC1MSG03_US": [
+  {
+   "brand": "Hyundai",
+   "device": "HT10WC1MSG03_US",
+   "model": "10WC1"
+  }
+ ],
  "HT7GB1MBK_": [
   {
    "brand": "Hyundai",
@@ -131877,6 +131898,13 @@
    "brand": "Icon",
    "device": "Portal_10i",
    "model": "NTMC17"
+  }
+ ],
+ "S26_Ultra_Max": [
+  {
+   "brand": "Ifinex",
+   "device": "S26_Ultra_Max",
+   "model": "S26 Ultra Max"
   }
  ],
  "XM14G": [
@@ -173991,6 +174019,13 @@
    "model": "Mascom S750"
   }
  ],
+ "MDM250A": [
+  {
+   "brand": "Mason",
+   "device": "MDM250A",
+   "model": "MDM250"
+  }
+ ],
  "MDM350A": [
   {
    "brand": "Mason",
@@ -188271,6 +188306,18 @@
    "brand": "Motorola",
    "device": "vantage",
    "model": "motorola signature"
+  }
+ ],
+ "motorola signature 27": [
+  {
+   "brand": "Motorola",
+   "device": "wukong",
+   "model": "motorola signature"
+  },
+  {
+   "brand": "Motorola",
+   "device": "wukong",
+   "model": "motorola signature 27"
   }
  ],
  "LEX F10": [
@@ -233445,6 +233492,13 @@
    "model": "TB02"
   }
  ],
+ "TB02_Y_US": [
+  {
+   "brand": "Relndoo",
+   "device": "TB02_Y_US",
+   "model": "TB02"
+  }
+ ],
  "RD-52": [
   {
    "brand": "Remdun",
@@ -260196,11 +260250,11 @@
    "model": "401SH"
   }
  ],
- "4T-**S7A/X7A": [
+ "4T-**S7A/X7A/X5A": [
   {
    "brand": "Sharp",
-   "device": "tcmar3uj",
-   "model": "AQUOS-4KTVJ26-2"
+   "device": "4T-48S9A",
+   "model": "tcmar3uj"
   }
  ],
  "4T-**S9A/X9A": [
@@ -299258,6 +299312,11 @@
   {
    "brand": "Ulefone",
    "device": "GQ5021RH1",
+   "model": "Armor X32"
+  },
+  {
+   "brand": "Ulefone",
+   "device": "GQ5021RH3",
    "model": "Armor X32"
   }
  ],
