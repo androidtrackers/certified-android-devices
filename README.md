@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-04
+Last sync is 2026-11-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7566,6 +7566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKING ACE 5|KINGKONG_ACE_5|KINGKONG ACE 5|
 |Cubot|KINGKONG 11|KINGKONG_11|KINGKONG 11|
+|Cubot|KINGKONG 13|KINGKONG_13|KINGKONG 13|
 |Cubot|KINGKONG 5|KINGKONG_5|KINGKONG 5|
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
 |Cubot|KINGKONG 6|KINGKONG_6|KINGKONG 6|
@@ -7702,6 +7703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAMASCO|DAMASCO|dawu|4K SMART TV|
 |DAMASCO|DAMASCO MOBILE SERIE M-300 VISION|SERIE_M_300|SERIE_M_300|
 |DAMASCO|MC200|MC200|MC200|
+|DAMASCO|MC300|MC300|MC300|
 |DAMASCO|MC400|MC400|MC400|
 |DAMASCO|SERIE_M_100|SERIE_M_100|SERIE_M_100|
 |DAMASCO|SERIE_M_200|SERIE_M_200|SERIE_M_200|
@@ -10688,6 +10690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXX|A67M|A67M|A67M|
 |FOXX|A67M_Lite|A67M_Lite|A67M_Lite|
 |FOXX|FOXX S13 5G|S13_5G|FOXX S13 5G|
+|FOXX|FOXXD A67X|BGO|A67X|
 |FOXX|G1|G1|FOXX G1|
 |FOXX|T8C|T8C|T8C|
 |FOXX|V8|V8|V8|
@@ -13660,6 +13663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUSHIDA|Interactivewhiteboard|D2|CW-SPCM|
 |HWD|HT738-01|HT738-01|HT738-01|
 |HYF(heyuefeng)|SQ126G|SQ126G|SQ126G|
+|HYMA|HYMA A10|PNX|HYMA A10|
 |HYPERTECH|THATAB|THATAB|THATAB|
 |HYPRO|S6|HYPRO_S6|HYPRO S6|
 |HYUNDAI_MAESTRO|HDT-7427GU|HDT-7427GU|HDT-7427GU|
@@ -15528,6 +15532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Cyber 16 Pro|Cyber_16_Pro|Cyber 16 Pro|
 |Hotwav|Cyber 17|Cyber_17|Cyber 17|
 |Hotwav|Cyber 18|Cyber_18|Cyber 18|
+|Hotwav|Cyber 19 Pro|Cyber_19_Pro|Cyber 19 Pro|
 |Hotwav|Cyber 7|Cyber_7|Cyber 7|
 |Hotwav|Cyber 8|Cyber_8|Cyber 8|
 |Hotwav|Cyber 9 Pro|Cyber_9_Pro|Cyber 9 Pro|
@@ -28917,6 +28922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|Tab 8|T0801LAV2|T0801L|
 |Nuu|Tab 8|T0801LAV2|T0802L|
 |Nuu|Tab 8 Plus|T0805LAV1|T0805L|
+|Nuu|Tab 9|T0871WA|T0871W|
 |Nuu|X10 5G|S6707XA|S6707X|
 |Nuu|X10 5G|S6707XA1|S6707X|
 |Nuu|X4|X4|X4|
@@ -30430,6 +30436,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oraimo|oraimo R401S|oraimo-R401|oraimo R401S|
 |Orange|DV8555|DV8555-KPO|DV8555|
 |Orange|DV9651|DV9651-KPO|DV9651|
+|Orange|DV9651-OFR|DV9651-OFR|DV9651-OFR|
+|Orange|DV9651-OFRBYC|DV9651-OFRBYC|DV9651-OFRBYC|
 |Orange|Dive 30|P635E40|Orange Dive 30|
 |Orange|Dive 30|P635E40|ZTE Blade A410|
 |Orange|Dive 50|pixi3_45_4g_orange|Orange Dive 50|
@@ -33066,8 +33074,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prime|PRIME Android TV|shinagawa|PRIME Android TV|
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
+|PrimeTab|PrimeTabP11|PrimeTab|PrimeTabP11|
 |Primebook|PB1310|PB1310|Primebook Duo Pro|
 |Primebook|PB1380|PB1380|Primebook Duo Max|
+|Primebook|PB1380_US|PB1380|Primebook Duo Max|
 |Primux|Primux_ioxphone|Primux_ioxphone|Primux_ioxphone|
 |Prince Mobile|PC9|PC9|PC9|
 |Prism|Android TV|longshan|AI PONT NA|
@@ -39518,8 +39528,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**GL1/GJ1/GJ2|awaroa|AQUOS-4KTVJ24-2|
 |Sharp|4T-C**GP1/GS1/GQ1/GN1|tcmar1uj|AQUOS-4KTVJ23-1|
 |Sharp|4T-C**GP2/GQ2/GN2|tcmar1uj|AQUOS-4KTVJ23-2|
-|Sharp|4T-C**HP1/HS1/HQ1/HV1|tcmar2uj|AQUOS-4KTVJ25-1|
-|Sharp|4T-C**HP2/HQ2/HN2|tcmar2uj|AQUOS-4KTVJ25-2|
+|Sharp|4T-C**HP1/HS1/HQ1/HV1|4T-C65HN2|4T-65L51A|
+|Sharp|4T-C**HP2/HQ2/HN2|4T-**L51A|tcmar2uj|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -41661,6 +41671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|LEAP-NOVA|CXR|UHD Google TV Stick|
 |Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|LEAP-S3 PRO|RMQ|UHD Google TV STB|
+|Strong|LEAP-S4|DAD|UHD Streaming STB|
 |Strong|LEAP-UNA+|BKK|FHD Google TV Stick|
 |Strong|LEAP-UNA+|BKK|FHD Streaming Stick|
 |Strong|Leap-S3|YDA|4K Google TV Box|
@@ -41986,6 +41997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|H58|H58|H58|
 |Symphony|Helio S60|Helio_S60|Helio S60|
 |Symphony|INOVA|INOVA|INOVA|
+|Symphony|MAX 20|MAX_20|MAX 20|
 |Symphony|MAX 30|MAX_30|MAX 30|
 |Symphony|MAX_5|MAX_5|MAX 5|
 |Symphony|MAX_60|MAX_60|MAX 60|
@@ -43484,6 +43496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel A33|DahliaPro|T451A|
 |TCT (Alcatel)|Alcatel A62|A01|A601N|
 |TCT (Alcatel)|Alcatel A62|A01|A601Q|
+|TCT (Alcatel)|Alcatel A83 5G|Primrose|A801M|
 |TCT (Alcatel)|Alcatel AXEL™|Dubai_Plus_ATT|Alcatel_5004R|
 |TCT (Alcatel)|Alcatel JOY TAB|EasyTAB8MPCS|9029Z|
 |TCT (Alcatel)|Alcatel JOY TAB KIDS|EasyTAB8TMO|9029G|
@@ -44543,6 +44556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M50_RUS|M50_RUS|M50_RUS|
 |Teclast|M50_W_ROW|M50_W|M50_W_ROW|
 |Teclast|M50mini_ROW|M50mini|M50mini_ROW|
+|Teclast|M60_B_ROW|M60_B_ROW|M60_B_ROW|
 |Teclast|M60_ROW|M60|M60_ROW|
 |Teclast|P10HD_N5H6|P10S_ROW|P10S_ROW|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|

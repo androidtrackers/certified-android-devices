@@ -61762,6 +61762,13 @@
    "device": "KINGKONG_11"
   }
  ],
+ "KINGKONG 13": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG 13",
+   "device": "KINGKONG_13"
+  }
+ ],
  "KINGKONG 5": [
   {
    "brand": "Cubot",
@@ -62908,6 +62915,13 @@
    "brand": "DAMASCO",
    "name": "MC200",
    "device": "MC200"
+  }
+ ],
+ "MC300": [
+  {
+   "brand": "DAMASCO",
+   "name": "MC300",
+   "device": "MC300"
   }
  ],
  "MC400": [
@@ -83495,6 +83509,13 @@
    "device": "S13_5G"
   }
  ],
+ "A67X": [
+  {
+   "brand": "FOXX",
+   "name": "FOXXD A67X",
+   "device": "BGO"
+  }
+ ],
  "FOXX G1": [
   {
    "brand": "FOXX",
@@ -103760,6 +103781,13 @@
    "device": "HT738-01"
   }
  ],
+ "HYMA A10": [
+  {
+   "brand": "HYMA",
+   "name": "HYMA A10",
+   "device": "PNX"
+  }
+ ],
  "THATAB": [
   {
    "brand": "HYPERTECH",
@@ -115696,6 +115724,13 @@
    "brand": "Hotwav",
    "name": "Cyber 18",
    "device": "Cyber_18"
+  }
+ ],
+ "Cyber 19 Pro": [
+  {
+   "brand": "Hotwav",
+   "name": "Cyber 19 Pro",
+   "device": "Cyber_19_Pro"
   }
  ],
  "Cyber 7": [
@@ -201392,6 +201427,13 @@
    "device": "T0805LAV1"
   }
  ],
+ "T0871W": [
+  {
+   "brand": "Nuu",
+   "name": "Tab 9",
+   "device": "T0871WA"
+  }
+ ],
  "S6707X": [
   {
    "brand": "Nuu",
@@ -211102,6 +211144,20 @@
    "brand": "Orange",
    "name": "DV9651",
    "device": "DV9651-KPO"
+  }
+ ],
+ "DV9651-OFR": [
+  {
+   "brand": "Orange",
+   "name": "DV9651-OFR",
+   "device": "DV9651-OFR"
+  }
+ ],
+ "DV9651-OFRBYC": [
+  {
+   "brand": "Orange",
+   "name": "DV9651-OFRBYC",
+   "device": "DV9651-OFRBYC"
   }
  ],
  "Orange Dive 30": [
@@ -227386,6 +227442,13 @@
    "device": "X6_Pro"
   }
  ],
+ "PrimeTabP11": [
+  {
+   "brand": "PrimeTab",
+   "name": "PrimeTabP11",
+   "device": "PrimeTab"
+  }
+ ],
  "Primebook Duo Pro": [
   {
    "brand": "Primebook",
@@ -227397,6 +227460,11 @@
   {
    "brand": "Primebook",
    "name": "PB1380",
+   "device": "PB1380"
+  },
+  {
+   "brand": "Primebook",
+   "name": "PB1380_US",
    "device": "PB1380"
   }
  ],
@@ -237497,6 +237565,11 @@
    "brand": "RockTek",
    "name": "GT1",
    "device": "RMQ"
+  },
+  {
+   "brand": "Strong",
+   "name": "LEAP-S4",
+   "device": "DAD"
   }
  ],
  "RT-G1": [
@@ -268789,18 +268862,18 @@
    "device": "tcmar1uj"
   }
  ],
- "AQUOS-4KTVJ25-1": [
+ "4T-65L51A": [
   {
    "brand": "Sharp",
    "name": "4T-C**HP1/HS1/HQ1/HV1",
-   "device": "tcmar2uj"
+   "device": "4T-C65HN2"
   }
  ],
- "AQUOS-4KTVJ25-2": [
+ "tcmar2uj": [
   {
    "brand": "Sharp",
    "name": "4T-C**HP2/HQ2/HN2",
-   "device": "tcmar2uj"
+   "device": "4T-**L51A"
   }
  ],
  "LCD_50FOCAG1T": [
@@ -284212,6 +284285,13 @@
    "device": "INOVA"
   }
  ],
+ "MAX 20": [
+  {
+   "brand": "Symphony",
+   "name": "MAX 20",
+   "device": "MAX_20"
+  }
+ ],
  "MAX 30": [
   {
    "brand": "Symphony",
@@ -294125,6 +294205,13 @@
    "device": "A01"
   }
  ],
+ "A801M": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel A83 5G",
+   "device": "Primrose"
+  }
+ ],
  "Alcatel_5004R": [
   {
    "brand": "TCT (Alcatel)",
@@ -300599,6 +300686,13 @@
    "brand": "Teclast",
    "name": "M50mini_ROW",
    "device": "M50mini"
+  }
+ ],
+ "M60_B_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "M60_B_ROW",
+   "device": "M60_B_ROW"
   }
  ],
  "M60_ROW": [
