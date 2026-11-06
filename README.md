@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-05
+Last sync is 2026-11-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5853,6 +5853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COLORROOM|T30E|T30E|T30|
 |COLORROOM|T30E|T30E|T30E|
 |COLORROOM|W70|W70|W70|
+|COMBUSTECH|BCQ_IFPD|COMBUS_IFPD|COMBUS_IB4|
 |COMBUSTECH|COMBUSTECH-IFPD|oversea_v|COMBUS_IB2|
 |COMBUSTECH|COMBUSTECH-IFPD|rk3588_t|COMBUS_IB|
 |COMBUSTECH|COMBUS_IB3|COMBUS_IB3|COMBUS_IB3|
@@ -26345,6 +26346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|H6682|H6682|H6682|
 |Mobiwire|H6682_VDC_TZ|H6682|H6682_VDC_TZ|
 |Mobiwire|H6733|GH6733|H6733|
+|Mobiwire|H6733|GH6733_C|H6733|
 |Mobiwire|H6733 Pro|GH6733|H6733 Pro|
 |Mobiwire|H67A1|H67A1|H67A1|
 |Mobiwire|H6821|H6821|H6821|
@@ -26377,6 +26379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Moov Smart Max|H67A1|Moov Smart Max|
 |Mobiwire|ONE|H5032U|ONE|
 |Mobiwire|Pegasus|Pegasus|Pegasus|
+|Mobiwire|Rodiall|H6733Pro|H6733 Pro|
 |Mobiwire|S26|H5112|S26|
 |Mobiwire|S4040|S4040|S4040|
 |Mobiwire|SEUIC|H6033|H6033|
@@ -27133,6 +27136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g37 M-51G|M-51G|M-51G|
 |Motorola|moto g37 power|sydnyl|moto g - 2025|
 |Motorola|moto g37 power|sydnyl|moto g37 power|
+|Motorola|moto g37j|sydney|moto g37j|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g41|corfu|moto g41|
 |Motorola|moto g41|corfu|motorola|
@@ -27447,6 +27451,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moviltelco Trade S.L|A86|A86|A86|
 |Movistar|Jappy_Kids|Jappy_Kids|Jappy_Kids|
 |Movistar|Telefonica ATV|vip5242a|VIP5242A|
+|Movitel|M5941|M5941|M5941|
+|Movitel|M5942|M5942|M5942|
 |Movitel|M8414|Movitel_M8414|M8414|
 |Movitel|M8415|M8415|M8415|
 |Movitel|M8416|M8416|M8416|
@@ -30725,6 +30731,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|OT5_EEA|OT5|OT5|
 |Oukitel|OT5_S_EEA|OT5_S|OT5 S|
 |Oukitel|OT5_S_V_EEA|OT5_S|OT5 S|
+|Oukitel|OT6_Air_Kids_ROW|OT6_Air_Kids|OT6 Air Kids|
+|Oukitel|OT6_Air_ROW|OT6_Air|OT6 Air|
 |Oukitel|OT6_EEA|OT6|OT6|
 |Oukitel|OT6_Kids_EEA|OT6_Kids|OT6 Kids|
 |Oukitel|OT6_Pro_EEA|OT6_Pro|OT6 Pro|
@@ -33226,6 +33234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_C12_Kids_EEA|M10_C12_Kids_EEA|M10|
 |Pritom|M10_C12_Kids_USA|M10_C12_Kids_USA|M10|
 |Pritom|M10_C12_USA|M10_C12_USA|M10|
+|Pritom|M10_C13|M10_C13|M10|
 |Pritom|M10_C13|M10_C13|M10_C13|
 |Pritom|M10_Lite|M10_Lite|M10_Lite|
 |Pritom|M10_Max|M10_Max|M10_Max|
@@ -44284,6 +44293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TPS|S50|S50|BT-S50|
 |TPS|SMART Sprint|SMARTSprint|SMART Sprint|
 |TPS|SZTPS|A101|A101|
+|TPS|SZTPS|A101|P98|
 |TPS|TPS-SC10|TPS-SC10|TPS-SC10|
 |TREQ|SmarTab-8|SmarTab-8|SmarTab-8|
 |TRIPLTEK|T mini|T_mini|T mini|
@@ -45073,6 +45083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 50 Pro 5G|TECNO-CN7c|TECNO CN7c|
 |Tecno|TECNO CAMON 50 Ultra 5G|TECNO-CN7c|TECNO CN7c|
 |Tecno|TECNO CAMON Slim|TECNO-CN6c|TECNO CN6c|
+|Tecno|TECNO CAMON Slim 5G|TECNO-CN6|TECNO CN6|
 |Tecno|TECNO CAMON Slim/Air|TECNO-CN6c|TECNO CN6c|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -54297,6 +54308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|Y600i AI版|PD2617|V2617A|
 |vivo|Y600i m版|PD2617|V2617A|
 |vivo|Y600k Turbo|PD2553|V2553A|
+|vivo|Y600s Pro AI版|PD2561|V2561A|
 |vivo|Y60c|PD2542|V2542A|
 |vivo|Y60e|PD2542|V2542A|
 |vivo|Y60e AI版|PD2542|V2542A|

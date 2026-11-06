@@ -712,6 +712,11 @@
    "brand": "TPS",
    "name": "SZTPS",
    "model": "A101"
+  },
+  {
+   "brand": "TPS",
+   "name": "SZTPS",
+   "model": "P98"
   }
  ],
  "OB-A98": [
@@ -56519,6 +56524,13 @@
    "brand": "QMobile",
    "name": "W70",
    "model": "W70"
+  }
+ ],
+ "COMBUS_IFPD": [
+  {
+   "brand": "COMBUSTECH",
+   "name": "BCQ_IFPD",
+   "model": "COMBUS_IB4"
   }
  ],
  "COMBUS_IB3": [
@@ -184092,6 +184104,13 @@
    "model": "H6511"
   }
  ],
+ "GH6733_C": [
+  {
+   "brand": "Mobiwire",
+   "name": "H6733",
+   "model": "H6733"
+  }
+ ],
  "H67A1": [
   {
    "brand": "Mobiwire",
@@ -184273,6 +184292,13 @@
    "brand": "Mobiwire",
    "name": "Pegasus",
    "model": "Pegasus"
+  }
+ ],
+ "H6733Pro": [
+  {
+   "brand": "Mobiwire",
+   "name": "Rodiall",
+   "model": "H6733 Pro"
   }
  ],
  "S4040": [
@@ -188804,6 +188830,23 @@
    "model": "M-51G"
   }
  ],
+ "sydney": [
+  {
+   "brand": "Motorola",
+   "name": "moto g37j",
+   "model": "moto g37j"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g77 power",
+   "model": "moto g47"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g77 power",
+   "model": "moto g77 power"
+  }
+ ],
  "corfu": [
   {
    "brand": "Motorola",
@@ -189064,18 +189107,6 @@
    "brand": "Motorola",
    "name": "moto g75 5G",
    "model": "moto g75 5G"
-  }
- ],
- "sydney": [
-  {
-   "brand": "Motorola",
-   "name": "moto g77 power",
-   "model": "moto g47"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g77 power",
-   "model": "moto g77 power"
   }
  ],
  "rhodep": [
@@ -190400,6 +190431,20 @@
    "brand": "Movistar",
    "name": "Telefonica ATV",
    "model": "VIP5242A"
+  }
+ ],
+ "M5941": [
+  {
+   "brand": "Movitel",
+   "name": "M5941",
+   "model": "M5941"
+  }
+ ],
+ "M5942": [
+  {
+   "brand": "Movitel",
+   "name": "M5942",
+   "model": "M5942"
   }
  ],
  "Movitel_M8414": [
@@ -210032,6 +210077,20 @@
    "model": "OT5 S"
   }
  ],
+ "OT6_Air_Kids": [
+  {
+   "brand": "Oukitel",
+   "name": "OT6_Air_Kids_ROW",
+   "model": "OT6 Air Kids"
+  }
+ ],
+ "OT6_Air": [
+  {
+   "brand": "Oukitel",
+   "name": "OT6_Air_ROW",
+   "model": "OT6 Air"
+  }
+ ],
  "OT6": [
   {
    "brand": "Oukitel",
@@ -225495,6 +225554,11 @@
   }
  ],
  "M10_C13": [
+  {
+   "brand": "Pritom",
+   "name": "M10_C13",
+   "model": "M10"
+  },
   {
    "brand": "Pritom",
    "name": "M10_C13",
@@ -293745,6 +293809,13 @@
    "model": "TECNO CN6c"
   }
  ],
+ "TECNO-CN6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON Slim 5G",
+   "model": "TECNO CN6"
+  }
+ ],
  "TECNO-KB2": [
   {
    "brand": "Tecno",
@@ -346235,6 +346306,11 @@
   {
    "brand": "vivo",
    "name": "Y600 Pro AI版",
+   "model": "V2561A"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600s Pro AI版",
    "model": "V2561A"
   }
  ],

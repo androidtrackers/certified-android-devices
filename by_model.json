@@ -7039,6 +7039,11 @@
   },
   {
    "brand": "Pritom",
+   "name": "M10_C13",
+   "device": "M10_C13"
+  },
+  {
+   "brand": "Pritom",
    "name": "M10_R02_EEA",
    "device": "M10_R02_EEA"
   },
@@ -49852,6 +49857,13 @@
    "device": "W70"
   }
  ],
+ "COMBUS_IB4": [
+  {
+   "brand": "COMBUSTECH",
+   "name": "BCQ_IFPD",
+   "device": "COMBUS_IFPD"
+  }
+ ],
  "COMBUS_IB2": [
   {
    "brand": "COMBUSTECH",
@@ -50372,6 +50384,11 @@
    "brand": "CORN",
    "name": "T12Pro",
    "device": "T12Pro"
+  },
+  {
+   "brand": "TPS",
+   "name": "SZTPS",
+   "device": "A101"
   }
  ],
  "T12Pro": [
@@ -86710,6 +86727,11 @@
    "brand": "Mobiwire",
    "name": "H6733",
    "device": "GH6733"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "H6733",
+   "device": "GH6733_C"
   }
  ],
  "H6573": [
@@ -185476,6 +185498,11 @@
    "brand": "Mobiwire",
    "name": "MTN",
    "device": "GH6733_Pro"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Rodiall",
+   "device": "H6733Pro"
   }
  ],
  "H67A1": [
@@ -190615,6 +190642,13 @@
    "device": "sydnyl"
   }
  ],
+ "moto g37j": [
+  {
+   "brand": "Motorola",
+   "name": "moto g37j",
+   "device": "sydney"
+  }
+ ],
  "moto g(40) fusion": [
   {
    "brand": "Motorola",
@@ -192301,6 +192335,20 @@
    "brand": "Movistar",
    "name": "Telefonica ATV",
    "device": "vip5242a"
+  }
+ ],
+ "M5941": [
+  {
+   "brand": "Movitel",
+   "name": "M5941",
+   "device": "M5941"
+  }
+ ],
+ "M5942": [
+  {
+   "brand": "Movitel",
+   "name": "M5942",
+   "device": "M5942"
   }
  ],
  "M8414": [
@@ -212763,6 +212811,20 @@
    "brand": "Oukitel",
    "name": "OT5_S_V_EEA",
    "device": "OT5_S"
+  }
+ ],
+ "OT6 Air Kids": [
+  {
+   "brand": "Oukitel",
+   "name": "OT6_Air_Kids_ROW",
+   "device": "OT6_Air_Kids"
+  }
+ ],
+ "OT6 Air": [
+  {
+   "brand": "Oukitel",
+   "name": "OT6_Air_ROW",
+   "device": "OT6_Air"
   }
  ],
  "OT6": [
@@ -304019,6 +304081,13 @@
    "device": "TECNO-CN6c"
   }
  ],
+ "TECNO CN6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON Slim 5G",
+   "device": "TECNO-CN6"
+  }
+ ],
  "TECNO KB2": [
   {
    "brand": "Tecno",
@@ -360925,6 +360994,11 @@
   {
    "brand": "vivo",
    "name": "Y600 Pro AI版",
+   "device": "PD2561"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y600s Pro AI版",
    "device": "PD2561"
   }
  ],

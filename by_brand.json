@@ -30287,6 +30287,11 @@
  ],
  "COMBUSTECH": [
   {
+   "device": "COMBUS_IFPD",
+   "name": "BCQ_IFPD",
+   "model": "COMBUS_IB4"
+  },
+  {
    "device": "oversea_v",
    "name": "COMBUSTECH-IFPD",
    "model": "COMBUS_IB2"
@@ -135793,6 +135798,11 @@
    "model": "H6733"
   },
   {
+   "device": "GH6733_C",
+   "name": "H6733",
+   "model": "H6733"
+  },
+  {
    "device": "GH6733",
    "name": "H6733 Pro",
    "model": "H6733 Pro"
@@ -135951,6 +135961,11 @@
    "device": "Pegasus",
    "name": "Pegasus",
    "model": "Pegasus"
+  },
+  {
+   "device": "H6733Pro",
+   "name": "Rodiall",
+   "model": "H6733 Pro"
   },
   {
    "device": "H5112",
@@ -139779,6 +139794,11 @@
    "model": "moto g37 power"
   },
   {
+   "device": "sydney",
+   "name": "moto g37j",
+   "model": "moto g37j"
+  },
+  {
    "device": "hanoip",
    "name": "moto g40 fusion",
    "model": "moto g(40) fusion"
@@ -141372,6 +141392,16 @@
   }
  ],
  "Movitel": [
+  {
+   "device": "M5941",
+   "name": "M5941",
+   "model": "M5941"
+  },
+  {
+   "device": "M5942",
+   "name": "M5942",
+   "model": "M5942"
+  },
   {
    "device": "Movitel_M8414",
    "name": "M8414",
@@ -158281,6 +158311,16 @@
    "model": "OT5 S"
   },
   {
+   "device": "OT6_Air_Kids",
+   "name": "OT6_Air_Kids_ROW",
+   "model": "OT6 Air Kids"
+  },
+  {
+   "device": "OT6_Air",
+   "name": "OT6_Air_ROW",
+   "model": "OT6 Air"
+  },
+  {
    "device": "OT6",
    "name": "OT6_EEA",
    "model": "OT6"
@@ -171077,6 +171117,11 @@
   {
    "device": "M10_C12_USA",
    "name": "M10_C12_USA",
+   "model": "M10"
+  },
+  {
+   "device": "M10_C13",
+   "name": "M10_C13",
    "model": "M10"
   },
   {
@@ -227522,6 +227567,11 @@
    "model": "A101"
   },
   {
+   "device": "A101",
+   "name": "SZTPS",
+   "model": "P98"
+  },
+  {
    "device": "TPS-SC10",
    "name": "TPS-SC10",
    "model": "TPS-SC10"
@@ -231573,6 +231623,11 @@
    "device": "TECNO-CN6c",
    "name": "TECNO CAMON Slim",
    "model": "TECNO CN6c"
+  },
+  {
+   "device": "TECNO-CN6",
+   "name": "TECNO CAMON Slim 5G",
+   "model": "TECNO CN6"
   },
   {
    "device": "TECNO-CN6c",
@@ -279207,6 +279262,11 @@
    "device": "PD2553",
    "name": "Y600k Turbo",
    "model": "V2553A"
+  },
+  {
+   "device": "PD2561",
+   "name": "Y600s Pro AI版",
+   "model": "V2561A"
   },
   {
    "device": "PD2542",

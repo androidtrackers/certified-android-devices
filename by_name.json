@@ -53757,6 +53757,13 @@
    "model": "W70"
   }
  ],
+ "BCQ_IFPD": [
+  {
+   "brand": "COMBUSTECH",
+   "device": "COMBUS_IFPD",
+   "model": "COMBUS_IB4"
+  }
+ ],
  "COMBUSTECH-IFPD": [
   {
    "brand": "COMBUSTECH",
@@ -182443,6 +182450,11 @@
    "brand": "Mobiwire",
    "device": "GH6733",
    "model": "H6733"
+  },
+  {
+   "brand": "Mobiwire",
+   "device": "GH6733_C",
+   "model": "H6733"
   }
  ],
  "H6733 Pro": [
@@ -182640,6 +182652,13 @@
    "brand": "Mobiwire",
    "device": "Pegasus",
    "model": "Pegasus"
+  }
+ ],
+ "Rodiall": [
+  {
+   "brand": "Mobiwire",
+   "device": "H6733Pro",
+   "model": "H6733 Pro"
   }
  ],
  "S26": [
@@ -186724,6 +186743,13 @@
    "model": "moto g37 power"
   }
  ],
+ "moto g37j": [
+  {
+   "brand": "Motorola",
+   "device": "sydney",
+   "model": "moto g37j"
+  }
+ ],
  "moto g40 fusion": [
   {
    "brand": "Motorola",
@@ -188623,6 +188649,20 @@
    "brand": "Movistar",
    "device": "vip5242a",
    "model": "VIP5242A"
+  }
+ ],
+ "M5941": [
+  {
+   "brand": "Movitel",
+   "device": "M5941",
+   "model": "M5941"
+  }
+ ],
+ "M5942": [
+  {
+   "brand": "Movitel",
+   "device": "M5942",
+   "model": "M5942"
   }
  ],
  "M8414": [
@@ -208441,6 +208481,20 @@
    "model": "OT5 S"
   }
  ],
+ "OT6_Air_Kids_ROW": [
+  {
+   "brand": "Oukitel",
+   "device": "OT6_Air_Kids",
+   "model": "OT6 Air Kids"
+  }
+ ],
+ "OT6_Air_ROW": [
+  {
+   "brand": "Oukitel",
+   "device": "OT6_Air",
+   "model": "OT6 Air"
+  }
+ ],
  "OT6_EEA": [
   {
    "brand": "Oukitel",
@@ -224198,6 +224252,11 @@
   }
  ],
  "M10_C13": [
+  {
+   "brand": "Pritom",
+   "device": "M10_C13",
+   "model": "M10"
+  },
   {
    "brand": "Pritom",
    "device": "M10_C13",
@@ -288049,6 +288108,11 @@
    "brand": "TPS",
    "device": "A101",
    "model": "A101"
+  },
+  {
+   "brand": "TPS",
+   "device": "A101",
+   "model": "P98"
   }
  ],
  "TPS-SC10": [
@@ -292915,6 +292979,13 @@
    "brand": "Tecno",
    "device": "TECNO-CN6c",
    "model": "TECNO CN6c"
+  }
+ ],
+ "TECNO CAMON Slim 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CN6",
+   "model": "TECNO CN6"
   }
  ],
  "TECNO CAMON Slim/Air": [
@@ -347252,6 +347323,13 @@
    "brand": "vivo",
    "device": "PD2553",
    "model": "V2553A"
+  }
+ ],
+ "Y600s Pro AI版": [
+  {
+   "brand": "vivo",
+   "device": "PD2561",
+   "model": "V2561A"
   }
  ],
  "Y60c": [
