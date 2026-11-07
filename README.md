@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-06
+Last sync is 2026-11-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -52591,6 +52591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO C1|MAGNO_C1|MAGNO C1|
 |Zuum|MAGNO C2|MAGNO_C2|MAGNO C2|
 |Zuum|MAGNO MINI|MAGNO_MINI|MAGNO MINI|
+|Zuum|MAGNO P4|MAGNO_P4_I|MAGNO P4|
 |Zuum|MAGNO R|MAGNO_R|MAGNO R|
 |Zuum|MAGNO S|MAGNO_S|MAGNO S|
 |Zuum|MAGNO_C3|MAGNO_C3|MAGNO C3|

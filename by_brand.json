@@ -270269,6 +270269,11 @@
    "model": "MAGNO MINI"
   },
   {
+   "device": "MAGNO_P4_I",
+   "name": "MAGNO P4",
+   "model": "MAGNO P4"
+  },
+  {
    "device": "MAGNO_R",
    "name": "MAGNO R",
    "model": "MAGNO R"

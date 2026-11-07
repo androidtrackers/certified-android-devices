@@ -350886,6 +350886,18 @@
    "device": "MAGNO_MINI"
   }
  ],
+ "MAGNO P4": [
+  {
+   "brand": "Zuum",
+   "name": "MAGNO P4",
+   "device": "MAGNO_P4_I"
+  },
+  {
+   "brand": "Zuum",
+   "name": "MAGNO_P4",
+   "device": "MAGNO_P4"
+  }
+ ],
  "MAGNO R": [
   {
    "brand": "Zuum",
@@ -350912,13 +350924,6 @@
    "brand": "Zuum",
    "name": "MAGNO_P1",
    "device": "MAGNO_P1"
-  }
- ],
- "MAGNO P4": [
-  {
-   "brand": "Zuum",
-   "name": "MAGNO_P4",
-   "device": "MAGNO_P4"
   }
  ],
  "MAGNO R II": [
