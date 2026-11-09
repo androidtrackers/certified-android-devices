@@ -27628,6 +27628,11 @@
    "model": "B170D"
   },
   {
+   "device": "B1661R",
+   "name": "View Speed Ultra 5G",
+   "model": "B1661R"
+  },
+  {
    "device": "B1661V",
    "name": "View Speed Ultra 5G",
    "model": "B1661V"
@@ -30591,6 +30596,11 @@
    "model": "CORN X55"
   },
   {
+   "device": "CPadPro13",
+   "name": "CPadPro13",
+   "model": "CPadPro13"
+  },
+  {
    "device": "CPhone17ProMax4G",
    "name": "CPhone17ProMax4G",
    "model": "CPhone17 Pro Max 4G"
@@ -30772,6 +30782,11 @@
   }
  ],
  "CORNEA": [
+  {
+   "device": "CORTB_04",
+   "name": "CORTB_04",
+   "model": "CORTB_04"
+  },
   {
    "device": "IS_Panel",
    "name": "IS_IFPSeries_65",
@@ -38786,11 +38801,6 @@
    "model": "AD-C2"
   },
   {
-   "device": "L790",
-   "name": "AD-C3",
-   "model": "AD-C3"
-  },
-  {
    "device": "HS8937QC",
    "name": "Action-X3",
    "model": "ACTION-X3"
@@ -38939,6 +38949,11 @@
    "device": "HSSDM660QC",
    "name": "Trekker- X4",
    "model": "Trekker-X4"
+  },
+  {
+   "device": "L790",
+   "name": "XR Smart",
+   "model": "AD-C3"
   }
  ],
  "CrownHeights": [
@@ -42834,6 +42849,16 @@
   }
  ],
  "Dangbei": [
+  {
+   "device": "karjat",
+   "name": "D7",
+   "model": "DBD04A"
+  },
+  {
+   "device": "munnar",
+   "name": "D7 Pro",
+   "model": "DBD05A"
+  },
   {
    "device": "himalaya",
    "name": "DBOD02",
@@ -61355,6 +61380,11 @@
  ],
  "GeoPhone": [
   {
+   "device": "geo_S8",
+   "name": "geo_S8",
+   "model": "Geo S8"
+  },
+  {
    "device": "geo_S7",
    "name": "geo_s7",
    "model": "Geo S7"
@@ -73335,6 +73365,11 @@
    "device": "P16_TU",
    "name": "P16_TU",
    "model": "P16_TU"
+  },
+  {
+   "device": "PAD_1",
+   "name": "PAD_1",
+   "model": "PAD_1"
   },
   {
    "device": "PAD_PRO_1",
@@ -103473,6 +103508,16 @@
   {
    "device": "KM-TC02",
    "name": "KM-TC02_EEA",
+   "model": "HONOR CHOICE Pad 3"
+  },
+  {
+   "device": "KM-TC02",
+   "name": "KM-TC02_ROW",
+   "model": "HONOR CHOICE Pad 3"
+  },
+  {
+   "device": "KM-TC02",
+   "name": "KM-TC02_RU",
    "model": "HONOR CHOICE Pad 3"
   }
  ],
@@ -145056,6 +145101,11 @@
    "device": "Hi10_XPro_ROW",
    "name": "Hi10_XPro_ROW",
    "model": "Hi10_XPro"
+  },
+  {
+   "device": "TK-P617",
+   "name": "TK-P617",
+   "model": "TK-P617"
   }
  ],
  "NISATO": [
@@ -229543,6 +229593,11 @@
    "model": "P50S"
   },
   {
+   "device": "P50T_BC_ROW",
+   "name": "P50T_BC_ROW",
+   "model": "P50T"
+  },
+  {
    "device": "P50T_E",
    "name": "P50T_E_ROW",
    "model": "P50T_E_ROW"
@@ -229601,6 +229656,11 @@
    "device": "P50_ROW",
    "name": "P50_ROW",
    "model": "P50"
+  },
+  {
+   "device": "P50_YB",
+   "name": "P50_YB_EEA",
+   "model": "P50_YB"
   },
   {
    "device": "P80T",
@@ -254946,6 +255006,16 @@
    "model": "WK03C"
   },
   {
+   "device": "meghamalai",
+   "name": "Elfin Flip Plus",
+   "model": "WK03C"
+  },
+  {
+   "device": "meghamalai",
+   "name": "Elfin Flip Pro",
+   "model": "WM04R"
+  },
+  {
    "device": "kasol",
    "name": "HORIZON 20",
    "model": "XR13A"
@@ -255026,12 +255096,22 @@
    "model": "WK08K"
   },
   {
+   "device": "karjat",
+   "name": "MoGo 4",
+   "model": "WK08K"
+  },
+  {
    "device": "altai",
    "name": "MoGo 4 Laser",
    "model": "H0030"
   },
   {
    "device": "altai",
+   "name": "MoGo 4 Laser",
+   "model": "WK03K"
+  },
+  {
+   "device": "karjat",
    "name": "MoGo 4 Laser",
    "model": "WK03K"
   },
@@ -255057,6 +255137,11 @@
   },
   {
    "device": "altai",
+   "name": "XGIMI Vibe One (Battery Powered)",
+   "model": "WM03H"
+  },
+  {
+   "device": "meghamalai",
    "name": "XGIMI Vibe One (Battery Powered)",
    "model": "WM03H"
   },
@@ -257162,9 +257247,34 @@
    "model": "25097RP43C"
   },
   {
+   "device": "yupei",
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43G"
+  },
+  {
+   "device": "yupei",
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43I"
+  },
+  {
    "device": "piano",
    "name": "Xiaomi Pad 8 Pro",
    "model": "25091RP04C"
+  },
+  {
+   "device": "piano",
+   "name": "Xiaomi Pad 8 Pro",
+   "model": "25091RP04G"
+  },
+  {
+   "device": "yupei",
+   "name": "Xiaomi Pad 9",
+   "model": "M656BA"
+  },
+  {
+   "device": "shuntian",
+   "name": "Xiaomi Pad 9 Pro",
+   "model": "2612CRPFFC"
   },
   {
    "device": "yingtian",
@@ -271677,6 +271787,16 @@
    "device": "edu-africa2026_ROW",
    "name": "edu-africa2026_ROW",
    "model": "edu-africa2026_ROW"
+  },
+  {
+   "device": "eduafrica2026",
+   "name": "eduafrica2026",
+   "model": "bnd"
+  },
+  {
+   "device": "eduafrica2026",
+   "name": "eduafrica2026",
+   "model": "edu-africa2026"
   }
  ],
  "efioo": [
@@ -271736,6 +271856,11 @@
    "device": "F10_US",
    "name": "F10_US",
    "model": "F10_US"
+  },
+  {
+   "device": "F11_C",
+   "name": "F11_C",
+   "model": "F11_C"
   },
   {
    "device": "F11_EEA",
@@ -273855,6 +273980,11 @@
    "device": "IM-L801",
    "name": "IM-L801",
    "model": "IM-L801"
+  },
+  {
+   "device": "IM-S291",
+   "name": "IM-S291",
+   "model": "IM-S291"
   },
   {
    "device": "IM-S881",

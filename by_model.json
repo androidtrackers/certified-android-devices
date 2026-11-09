@@ -46244,6 +46244,13 @@
    "device": "B170D"
   }
  ],
+ "B1661R": [
+  {
+   "brand": "Blu",
+   "name": "View Speed Ultra 5G",
+   "device": "B1661R"
+  }
+ ],
  "B1661V": [
   {
    "brand": "Blu",
@@ -50202,6 +50209,13 @@
    "device": "CORN_X55"
   }
  ],
+ "CPadPro13": [
+  {
+   "brand": "CORN",
+   "name": "CPadPro13",
+   "device": "CPadPro13"
+  }
+ ],
  "CPhone17 Pro Max 4G": [
   {
    "brand": "CORN",
@@ -50469,6 +50483,13 @@
    "brand": "CORN",
    "name": "Y60",
    "device": "Y60"
+  }
+ ],
+ "CORTB_04": [
+  {
+   "brand": "CORNEA",
+   "name": "CORTB_04",
+   "device": "CORTB_04"
   }
  ],
  "IS_IFPSeries": [
@@ -52423,6 +52444,11 @@
    "brand": "Teclast",
    "name": "P30_ROW",
    "device": "P30_B"
+  },
+  {
+   "brand": "edu-africa",
+   "name": "eduafrica2026",
+   "device": "eduafrica2026"
   }
  ],
  "RIGEL": [
@@ -61233,13 +61259,6 @@
    "device": "L790"
   }
  ],
- "AD-C3": [
-  {
-   "brand": "Crosscall",
-   "name": "AD-C3",
-   "device": "L790"
-  }
- ],
  "ACTION-X3": [
   {
    "brand": "Crosscall",
@@ -61450,6 +61469,13 @@
    "brand": "Crosscall",
    "name": "Trekker- X4",
    "device": "HSSDM660QC"
+  }
+ ],
+ "AD-C3": [
+  {
+   "brand": "Crosscall",
+   "name": "XR Smart",
+   "device": "L790"
   }
  ],
  "CROWNTAB8": [
@@ -66881,6 +66907,20 @@
    "brand": "Danew_Talla",
    "name": "Dslide_1095ml",
    "device": "Dslide_1095ml"
+  }
+ ],
+ "DBD04A": [
+  {
+   "brand": "Dangbei",
+   "name": "D7",
+   "device": "karjat"
+  }
+ ],
+ "DBD05A": [
+  {
+   "brand": "Dangbei",
+   "name": "D7 Pro",
+   "device": "munnar"
   }
  ],
  "DBOD02": [
@@ -90950,6 +90990,13 @@
    "device": "Zenius08"
   }
  ],
+ "Geo S8": [
+  {
+   "brand": "GeoPhone",
+   "name": "geo_S8",
+   "device": "geo_S8"
+  }
+ ],
  "Geo S7": [
   {
    "brand": "GeoPhone",
@@ -106723,6 +106770,13 @@
    "brand": "Hiking",
    "name": "P16_TU",
    "device": "P16_TU"
+  }
+ ],
+ "PAD_1": [
+  {
+   "brand": "Hiking",
+   "name": "PAD_1",
+   "device": "PAD_1"
   }
  ],
  "PAD_PRO_1": [
@@ -144453,6 +144507,16 @@
   {
    "brand": "KUMI",
    "name": "KM-TC02_EEA",
+   "device": "KM-TC02"
+  },
+  {
+   "brand": "KUMI",
+   "name": "KM-TC02_ROW",
+   "device": "KM-TC02"
+  },
+  {
+   "brand": "KUMI",
+   "name": "KM-TC02_RU",
    "device": "KM-TC02"
   }
  ],
@@ -196753,6 +196817,13 @@
    "brand": "NIS(NWTF)",
    "name": "Hi10_XPro_ROW",
    "device": "Hi10_XPro_ROW"
+  }
+ ],
+ "TK-P617": [
+  {
+   "brand": "NIS(NWTF)",
+   "name": "TK-P617",
+   "device": "TK-P617"
   }
  ],
  "Forte_se": [
@@ -301339,14 +301410,12 @@
    "device": "P50S_ROW"
   }
  ],
- "P50T_E_ROW": [
+ "P50T": [
   {
    "brand": "Teclast",
-   "name": "P50T_E_ROW",
-   "device": "P50T_E"
-  }
- ],
- "P50T": [
+   "name": "P50T_BC_ROW",
+   "device": "P50T_BC_ROW"
+  },
   {
    "brand": "Teclast",
    "name": "P50T_Y_EEA",
@@ -301361,6 +301430,13 @@
    "brand": "Teclast",
    "name": "P50T_Y_US",
    "device": "P50T_Y"
+  }
+ ],
+ "P50T_E_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P50T_E_ROW",
+   "device": "P50T_E"
   }
  ],
  "P50_B": [
@@ -301396,6 +301472,13 @@
    "brand": "Teclast",
    "name": "P50_ROW",
    "device": "P50"
+  }
+ ],
+ "P50_YB": [
+  {
+   "brand": "Teclast",
+   "name": "P50_YB_EEA",
+   "device": "P50_YB"
   }
  ],
  "P80T_EEA": [
@@ -331611,6 +331694,18 @@
    "brand": "XGIMI",
    "name": "Elfin Flip Plus",
    "device": "altai"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "Elfin Flip Plus",
+   "device": "meghamalai"
+  }
+ ],
+ "WM04R": [
+  {
+   "brand": "XGIMI",
+   "name": "Elfin Flip Pro",
+   "device": "meghamalai"
   }
  ],
  "XR13A": [
@@ -331721,6 +331816,11 @@
    "brand": "XGIMI",
    "name": "MoGo 4",
    "device": "altai"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "MoGo 4",
+   "device": "karjat"
   }
  ],
  "WK03K": [
@@ -331728,6 +331828,11 @@
    "brand": "XGIMI",
    "name": "MoGo 4 Laser",
    "device": "altai"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "MoGo 4 Laser",
+   "device": "karjat"
   }
  ],
  "MoGo Pro": [
@@ -331763,6 +331868,11 @@
    "brand": "XGIMI",
    "name": "XGIMI Vibe One (Battery Powered)",
    "device": "altai"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "XGIMI Vibe One (Battery Powered)",
+   "device": "meghamalai"
   }
  ],
  "XK03H": [
@@ -334483,11 +334593,46 @@
    "device": "yupei"
   }
  ],
+ "25097RP43G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 8",
+   "device": "yupei"
+  }
+ ],
+ "25097RP43I": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 8",
+   "device": "yupei"
+  }
+ ],
  "25091RP04C": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 8 Pro",
    "device": "piano"
+  }
+ ],
+ "25091RP04G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 8 Pro",
+   "device": "piano"
+  }
+ ],
+ "M656BA": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 9",
+   "device": "yupei"
+  }
+ ],
+ "2612CRPFFC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 9 Pro",
+   "device": "shuntian"
   }
  ],
  "M367FC": [
@@ -352406,6 +352551,13 @@
    "device": "edu-africa2026_ROW"
   }
  ],
+ "edu-africa2026": [
+  {
+   "brand": "edu-africa",
+   "name": "eduafrica2026",
+   "device": "eduafrica2026"
+  }
+ ],
  "Tab N7a": [
   {
    "brand": "efioo",
@@ -352446,6 +352598,13 @@
    "brand": "fezawio",
    "name": "F10_US",
    "device": "F10_US"
+  }
+ ],
+ "F11_C": [
+  {
+   "brand": "fezawio",
+   "name": "F11_C",
+   "device": "F11_C"
   }
  ],
  "F11_EEA": [
@@ -354976,6 +355135,13 @@
    "brand": "iMuz",
    "name": "IM-L801",
    "device": "IM-L801"
+  }
+ ],
+ "IM-S291": [
+  {
+   "brand": "iMuz",
+   "name": "IM-S291",
+   "device": "IM-S291"
   }
  ],
  "IM-S881": [

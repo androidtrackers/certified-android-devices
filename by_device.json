@@ -52710,6 +52710,13 @@
    "model": "B170D"
   }
  ],
+ "B1661R": [
+  {
+   "brand": "Blu",
+   "name": "View Speed Ultra 5G",
+   "model": "B1661R"
+  }
+ ],
  "B1661V": [
   {
    "brand": "Blu",
@@ -56870,6 +56877,13 @@
    "model": "CORN X55"
   }
  ],
+ "CPadPro13": [
+  {
+   "brand": "CORN",
+   "name": "CPadPro13",
+   "model": "CPadPro13"
+  }
+ ],
  "CPhone17ProMax4G": [
   {
    "brand": "CORN",
@@ -57144,6 +57158,13 @@
    "brand": "CORN",
    "name": "Y60",
    "model": "Y60"
+  }
+ ],
+ "CORTB_04": [
+  {
+   "brand": "CORNEA",
+   "name": "CORTB_04",
+   "model": "CORTB_04"
   }
  ],
  "IS_Panel": [
@@ -67886,11 +67907,6 @@
   },
   {
    "brand": "Crosscall",
-   "name": "AD-C3",
-   "model": "AD-C3"
-  },
-  {
-   "brand": "Crosscall",
    "name": "Core-Z5",
    "model": "Core-Z5"
   },
@@ -67903,6 +67919,11 @@
    "brand": "Crosscall",
    "name": "Core-Z6 450",
    "model": "AD-Z5"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "XR Smart",
+   "model": "AD-C3"
   },
   {
    "brand": "Hisense",
@@ -73762,6 +73783,40 @@
    "brand": "Danew_Talla",
    "name": "Dslide_1095ml",
    "model": "Dslide_1095ml"
+  }
+ ],
+ "karjat": [
+  {
+   "brand": "Dangbei",
+   "name": "D7",
+   "model": "DBD04A"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "Elfin Flip Laser",
+   "model": "WM03R"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "MoGo 4",
+   "model": "WK08K"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "MoGo 4 Laser",
+   "model": "WK03K"
+  }
+ ],
+ "munnar": [
+  {
+   "brand": "Dangbei",
+   "name": "D7 Pro",
+   "model": "DBD05A"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "Elfin Flip 4K",
+   "model": "XM03U"
   }
  ],
  "DBPADGO1": [
@@ -97144,6 +97199,13 @@
    "model": "GMT-08QA-2301"
   }
  ],
+ "geo_S8": [
+  {
+   "brand": "GeoPhone",
+   "name": "geo_S8",
+   "model": "Geo S8"
+  }
+ ],
  "geo_S7": [
   {
    "brand": "GeoPhone",
@@ -111449,6 +111511,13 @@
    "brand": "Hiking",
    "name": "P16_TU",
    "model": "P16_TU"
+  }
+ ],
+ "PAD_1": [
+  {
+   "brand": "Hiking",
+   "name": "PAD_1",
+   "model": "PAD_1"
   }
  ],
  "PAD_PRO_1": [
@@ -145002,6 +145071,16 @@
   {
    "brand": "KUMI",
    "name": "KM-TC02_EEA",
+   "model": "HONOR CHOICE Pad 3"
+  },
+  {
+   "brand": "KUMI",
+   "name": "KM-TC02_ROW",
+   "model": "HONOR CHOICE Pad 3"
+  },
+  {
+   "brand": "KUMI",
+   "name": "KM-TC02_RU",
    "model": "HONOR CHOICE Pad 3"
   }
  ],
@@ -194985,6 +195064,13 @@
    "brand": "NIS(NWTF)",
    "name": "Hi10_XPro_ROW",
    "model": "Hi10_XPro"
+  }
+ ],
+ "TK-P617": [
+  {
+   "brand": "NIS(NWTF)",
+   "name": "TK-P617",
+   "model": "TK-P617"
   }
  ],
  "Forte_se": [
@@ -291087,6 +291173,13 @@
    "model": "P50S"
   }
  ],
+ "P50T_BC_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P50T_BC_ROW",
+   "model": "P50T"
+  }
+ ],
  "P50T_E": [
   {
    "brand": "Teclast",
@@ -291147,6 +291240,13 @@
    "brand": "Teclast",
    "name": "P50_ROW",
    "model": "P50"
+  }
+ ],
+ "P50_YB": [
+  {
+   "brand": "Teclast",
+   "name": "P50_YB_EEA",
+   "model": "P50_YB"
   }
  ],
  "P80T": [
@@ -319794,18 +319894,21 @@
    "model": "XP06C"
   }
  ],
- "munnar": [
+ "meghamalai": [
   {
    "brand": "XGIMI",
-   "name": "Elfin Flip 4K",
-   "model": "XM03U"
-  }
- ],
- "karjat": [
+   "name": "Elfin Flip Plus",
+   "model": "WK03C"
+  },
   {
    "brand": "XGIMI",
-   "name": "Elfin Flip Laser",
-   "model": "WM03R"
+   "name": "Elfin Flip Pro",
+   "model": "WM04R"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "XGIMI Vibe One (Battery Powered)",
+   "model": "WM03H"
   }
  ],
  "xgimiapollo": [
@@ -322079,6 +322182,21 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 8",
    "model": "25097RP43C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43G"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 8",
+   "model": "25097RP43I"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 9",
+   "model": "M656BA"
   }
  ],
  "piano": [
@@ -322086,6 +322204,18 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 8 Pro",
    "model": "25091RP04C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 8 Pro",
+   "model": "25091RP04G"
+  }
+ ],
+ "shuntian": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 9 Pro",
+   "model": "2612CRPFFC"
   }
  ],
  "yingtian": [
@@ -338019,6 +338149,18 @@
    "model": "edu-africa2026_ROW"
   }
  ],
+ "eduafrica2026": [
+  {
+   "brand": "edu-africa",
+   "name": "eduafrica2026",
+   "model": "bnd"
+  },
+  {
+   "brand": "edu-africa",
+   "name": "eduafrica2026",
+   "model": "edu-africa2026"
+  }
+ ],
  "efiootabn7a": [
   {
    "brand": "efioo",
@@ -338052,6 +338194,13 @@
    "brand": "fezawio",
    "name": "F10_US",
    "model": "F10_US"
+  }
+ ],
+ "F11_C": [
+  {
+   "brand": "fezawio",
+   "name": "F11_C",
+   "model": "F11_C"
   }
  ],
  "F11_EEA": [
@@ -340572,6 +340721,13 @@
    "brand": "iMuz",
    "name": "IM-L801",
    "model": "IM-L801"
+  }
+ ],
+ "IM-S291": [
+  {
+   "brand": "iMuz",
+   "name": "IM-S291",
+   "model": "IM-S291"
   }
  ],
  "IM-S881": [
