@@ -10700,6 +10700,11 @@
    "model": "Tab G6 Max"
   },
   {
+   "device": "S2",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
    "device": "T2-AR",
    "name": "T2-AR",
    "model": "U11"
@@ -13765,6 +13770,11 @@
    "device": "Nitro2",
    "name": "Nitro2",
    "model": "Nitro2"
+  },
+  {
+   "device": "Verve",
+   "name": "Verve",
+   "model": "Aspera Verve"
   },
   {
    "device": "Wren",
@@ -17863,6 +17873,11 @@
    "device": "BT1025SS",
    "name": "BT1025SS",
    "model": "BT1025SS"
+  },
+  {
+   "device": "BT1026FW",
+   "name": "BT1026FW",
+   "model": "BT1026FW"
   },
   {
    "device": "BT1124FW",
@@ -29599,11 +29614,6 @@
    "model": "C90A"
   },
   {
-   "device": "MC80",
-   "name": "CHAINWAY_MC80",
-   "model": "MC80"
-  },
-  {
    "device": "MC21",
    "name": "MC21",
    "model": "MC21"
@@ -29627,6 +29637,11 @@
    "device": "MC62",
    "name": "MC62",
    "model": "MC62"
+  },
+  {
+   "device": "MC80",
+   "name": "MC80",
+   "model": "MC80"
   },
   {
    "device": "MC95",
@@ -39744,6 +39759,11 @@
    "model": "CS45XA_EEA"
   },
   {
+   "device": "CS75XA",
+   "name": "CS75XA_EEA",
+   "model": "CS75XA"
+  },
+  {
    "device": "ORSY_Controller",
    "name": "ORSY_Controller",
    "model": "ORSY_Controller"
@@ -41926,6 +41946,11 @@
    "device": "SLP36",
    "name": "SLP36",
    "model": "SLP36"
+  },
+  {
+   "device": "SSM28",
+   "name": "SSM28",
+   "model": "SSM28"
   },
   {
    "device": "Slate",
@@ -88775,6 +88800,11 @@
  ],
  "Huion": [
   {
+   "device": "Huion_Note_E",
+   "name": "Huion_Note_E_US",
+   "model": "X50"
+  },
+  {
    "device": "KT1101",
    "name": "KT1101",
    "model": "Kamvas Slate 11"
@@ -108068,6 +108098,11 @@
  ],
  "LENIX": [
   {
+   "device": "LENIX_MAX",
+   "name": "LENIX MAX",
+   "model": "H67A2"
+  },
+  {
    "device": "LENIX_Pro",
    "name": "LENIX Pro",
    "model": "LENIX Pro"
@@ -125546,6 +125581,21 @@
    "device": "P1",
    "name": "P1",
    "model": "P1"
+  },
+  {
+   "device": "POWER_1_Max",
+   "name": "POWER_1_Max",
+   "model": "POWER_1_Max"
+  },
+  {
+   "device": "POWER_1_Max",
+   "name": "POWER_1_Max_RU",
+   "model": "POWER_1_Max"
+  },
+  {
+   "device": "POWER_1_Max",
+   "name": "POWER_1_Max_US",
+   "model": "POWER_1_Max"
   },
   {
    "device": "Pad_17",
@@ -148592,6 +148642,11 @@
  ],
  "Noryox": [
   {
+   "device": "CommercialTerminal",
+   "name": "CommercialTerminal",
+   "model": "CommercialTerminal"
+  },
+  {
    "device": "Handheld-POS",
    "name": "Handheld-POS-EEA",
    "model": "Handheld-POS"
@@ -155396,6 +155451,16 @@
    "model": "OPD2510"
   },
   {
+   "device": "OP6930L1",
+   "name": "Pad Air6",
+   "model": "OPD2613"
+  },
+  {
+   "device": "OP6930L1",
+   "name": "Pad Air6",
+   "model": "OPD2614"
+  },
+  {
    "device": "OP6548L1",
    "name": "Pad Mini",
    "model": "OPD2515"
@@ -161625,6 +161690,11 @@
   }
  ],
  "PROTON": [
+  {
+   "device": "Dynamo",
+   "name": "Dynamo",
+   "model": "Dynamo"
+  },
   {
    "device": "Proton_Eagle_X",
    "name": "Eagle X",
@@ -170403,6 +170473,11 @@
    "device": "PrimeTab",
    "name": "PrimeTabP11",
    "model": "PrimeTabP11"
+  },
+  {
+   "device": "PrimeTab",
+   "name": "PrimeTabP9",
+   "model": "PrimeTabP9"
   }
  ],
  "Primebook": [
@@ -173742,6 +173817,11 @@
    "device": "RADDY_JANJA_PRO",
    "name": "RADDY_JANJA_PRO",
    "model": "R-6502"
+  },
+  {
+   "device": "Raddy_Aquamate",
+   "name": "Raddy_Aquamate",
+   "model": "RADDY AQUAMATE"
   }
  ],
  "RAINBOX": [
@@ -216025,6 +216105,11 @@
    "device": "MAX_5",
    "name": "MAX_5",
    "model": "MAX 5"
+  },
+  {
+   "device": "MAX_50",
+   "name": "MAX_50",
+   "model": "MAX 50"
   },
   {
    "device": "MAX_60",
@@ -270412,6 +270497,11 @@
    "device": "MAGNO_R_II",
    "name": "MAGNO_R_II",
    "model": "MAGNO R II"
+  },
+  {
+   "device": "MAGNO_Z",
+   "name": "MAGNO_Z",
+   "model": "MAGNO Z"
   },
   {
    "device": "Magno_Pro",

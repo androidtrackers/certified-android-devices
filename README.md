@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-09
+Last sync is 2026-11-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2050,6 +2050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Anyreal|P5C-AR|P5C-AR|U13|
 |Anyreal|P8-AR|P8-AR|Tab G6 Max|
 |Anyreal|P8S-AR|P8S-AR|Tab G6 Max|
+|Anyreal|S2|S2|S2|
 |Anyreal|T2-AR|T2-AR|U11|
 |Anyreal|T2C-AR|T2C-AR|Tab A9+|
 |Anyreal|T2CS-AR|T2CS-AR|Tab A9 Pro+|
@@ -2651,6 +2652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|JAZZ|Jazz|Jazz|
 |Aspera|Jazz_2|Jazz_2|Jazz 2|
 |Aspera|Nitro2|Nitro2|Nitro2|
+|Aspera|Verve|Verve|Aspera Verve|
 |Aspera|Wren|Wren|Wren|
 |Aspera|e-Chat|e-Chat|e-Chat|
 |Astak|NEOS|Wenu|NEOS|
@@ -3453,6 +3455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BARTEC|Pixavi Phone|PixaviPhone|Pixavi Phone|
 |BARTEC|Pixavi Thermal|PixaviThermal|Pixavi Thermal|
 |BASICS|BT1025SS|BT1025SS|BT1025SS|
+|BASICS|BT1026FW|BT1026FW|BT1026FW|
 |BASICS|BT1124FW|BT1124FW|BT1124FW|
 |BASICS|BT1226SS|BT1226SS|BT1226SS|
 |BATMAN|TM-MID1065BT|TM-MID1065BT|TM-MID1065BT|
@@ -5725,12 +5728,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C75_GL|C75|C75|
 |CHAINWAY|C90|C90|C90|
 |CHAINWAY|C90A|C90A|C90A|
-|CHAINWAY|CHAINWAY_MC80|MC80|MC80|
 |CHAINWAY|MC21|MC21|MC21|
 |CHAINWAY|MC50|MC50|MC50|
 |CHAINWAY|MC51|MC51|MC51|
 |CHAINWAY|MC51S|MC51S|MC51S|
 |CHAINWAY|MC62|MC62|MC62|
+|CHAINWAY|MC80|MC80|MC80|
 |CHAINWAY|MC95|MC95|MC95|
 |CHAINWAY|P100|P100|P100|
 |CHAINWAY|P100S|P100S|P100S|
@@ -7676,6 +7679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cyrus|CS45XA|CS45XA2|CS45XA|
 |Cyrus|CS45XA_EEA|CS45XA2|CS45XA_EEA|
 |Cyrus|CS45XA_EEA|CS45XA_EEA|CS45XA_EEA|
+|Cyrus|CS75XA_EEA|CS75XA|CS75XA|
 |Cyrus|ORSY_Controller|ORSY_Controller|ORSY_Controller|
 |D-Tech|D5L|D5-L|D5-L|
 |D-Tech|D5L|D5L|D5L|
@@ -8096,6 +8100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|Ocean_K10|Ocean_K10|Ocean K10|
 |DOMO|M90|M90|M90|
 |DOMO|SLP36|SLP36|SLP36|
+|DOMO|SSM28|SSM28|SSM28|
 |DOMO|Slate|Slate|Slate|
 |DOMO|Slate|Slate|T115G|
 |DOMO|Slate_F11|Slate_F11|F11|
@@ -17197,6 +17202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|麦芒5|HWMLA|MLA-AL10|
 |Hublot|Big Bang e Gen 3|turbot|BIG BANG e Gen 3|
 |Hublot|Hublot Big Bang e|halibut|Big Bang e|
+|Huion|Huion_Note_E_US|Huion_Note_E|X50|
 |Huion|KT1101|KT1101|Kamvas Slate 11|
 |Huion|KT1101_EEA|KT1101|Kamvas Slate 11|
 |Huion|KT1201|KT1201|Kamvas Slate 13|
@@ -20926,6 +20932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEGEND|J10PRO|J10PRO|J10PRO|
 |LEGEND|NEBULAE|NEBULAE|NEBULAE|
 |LEGEND|X701|LEGEND_X701|X701|
+|LENIX|LENIX MAX|LENIX_MAX|H67A2|
 |LENIX|LENIX Pro|LENIX_Pro|LENIX Pro|
 |LENIX|LENIX Standard|LENIX_Standard|LENIX Standard|
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
@@ -24374,6 +24381,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|M_HORSE_M26|M_HORSE_M26|M26|
 |M-Horse|Note 50 Pro Max|Note_50_Pro_Max|Note 50 Pro Max|
 |M-Horse|P1|P1|P1|
+|M-Horse|POWER_1_Max|POWER_1_Max|POWER_1_Max|
+|M-Horse|POWER_1_Max_RU|POWER_1_Max|POWER_1_Max|
+|M-Horse|POWER_1_Max_US|POWER_1_Max|POWER_1_Max|
 |M-Horse|Pad_17|Pad_17|Pad_17|
 |M-Horse|Pad_17Pro|Pad_17Pro|Pad_17Pro|
 |M-Horse|Pad_17ProMax|Pad_17ProMax|Pad_17ProMax|
@@ -28830,6 +28840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nordic|Funpad-10|Funpad-10|Funpad-10|
 |NorthTech|NT-P70|NT-P70|NT-P70|
 |NorthTech|NT-S10|NT-S10|NT-S10|
+|Noryox|CommercialTerminal|CommercialTerminal|CommercialTerminal|
 |Noryox|Handheld-POS-EEA|Handheld-POS|Handheld-POS|
 |Noryox|Handheld_POS|Handheld_POS|NB55|
 |Nothing|Nothing Phone (1)|Spacewar|A063|
@@ -30154,6 +30165,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Pad 5 Pro|OP6546L1|OPD2511|
 |Oppo|Pad Air5|OP6541L1|OPD2501|
 |Oppo|Pad Air5|OP6541L1|OPD2510|
+|Oppo|Pad Air6|OP6930L1|OPD2613|
+|Oppo|Pad Air6|OP6930L1|OPD2614|
 |Oppo|Pad Mini|OP6548L1|OPD2515|
 |Oppo|Pad Mini|OP657BL1|OPD2516|
 |Oppo|Pad SE|OP6160L1|OPD2417|
@@ -31370,6 +31383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|PrismPlus P4KA|SW6H|PrismPlus P4KA|
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
+|PROTON|Dynamo|Dynamo|Dynamo|
 |PROTON|Eagle X|Proton_Eagle_X|Eagle X|
 |PROTON|Glory_i20|Glory_i20|Glory_i20|
 |PROTON|Glory_i30|Glory_i30|Glory_i30|
@@ -33093,6 +33107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
 |PrimeTab|PrimeTabP11|PrimeTab|PrimeTabP11|
+|PrimeTab|PrimeTabP9|PrimeTab|PrimeTabP9|
 |Primebook|PB1310|PB1310|Primebook Duo Pro|
 |Primebook|PB1380|PB1380|Primebook Duo Max|
 |Primebook|PB1380_US|PB1380|Primebook Duo Max|
@@ -33736,6 +33751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RADDY|A-K1061PRO|A-K1061PRO|A-K1061PRO|
 |RADDY|RADDY_JANJA|RADDY_JANJA|R_6503|
 |RADDY|RADDY_JANJA_PRO|RADDY_JANJA_PRO|R-6502|
+|RADDY|Raddy_Aquamate|Raddy_Aquamate|RADDY AQUAMATE|
 |RAINBOX|K90|K90|K90|
 |RAMTECHNOLOGY|RM-705|RM-705|RM-705|
 |RAMTECHNOLOGY|Star|STAR|STAR|
@@ -42019,6 +42035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|MAX 20|MAX_20|MAX 20|
 |Symphony|MAX 30|MAX_30|MAX 30|
 |Symphony|MAX_5|MAX_5|MAX 5|
+|Symphony|MAX_50|MAX_50|MAX 50|
 |Symphony|MAX_60|MAX_60|MAX 60|
 |Symphony|MAX_70|MAX_70|MAX 70|
 |Symphony|P11|P11|P11|
@@ -52620,6 +52637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO_P1|MAGNO_P1|MAGNO P1|
 |Zuum|MAGNO_P4|MAGNO_P4|MAGNO P4|
 |Zuum|MAGNO_R_II|MAGNO_R_II|MAGNO R II|
+|Zuum|MAGNO_Z|MAGNO_Z|MAGNO Z|
 |Zuum|Magno Pro|Magno_Pro|Magno Pro|
 |Zuum|NOVA_10|NOVA_10|NOVA_10|
 |Zuum|NOVUS_PRO|NOVUS_PRO|NOVUS_PRO|

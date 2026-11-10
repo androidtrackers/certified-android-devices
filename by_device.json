@@ -27625,6 +27625,58 @@
    "model": "Tab G6 Max"
   }
  ],
+ "S2": [
+  {
+   "brand": "Anyreal",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Bluboo",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Cellecor",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "IMO(In My Opinion)",
+   "name": "IMO S2",
+   "model": "IMO S2"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Lexia Mobile",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "MAXHUB",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "MyFon",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Smooth",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Xstar",
+   "name": "S2",
+   "model": "S2"
+  }
+ ],
  "T2-AR": [
   {
    "brand": "Anyreal",
@@ -32545,6 +32597,13 @@
    "brand": "Aspera",
    "name": "Nitro2",
    "model": "Nitro2"
+  }
+ ],
+ "Verve": [
+  {
+   "brand": "Aspera",
+   "name": "Verve",
+   "model": "Aspera Verve"
   }
  ],
  "Wren": [
@@ -38878,6 +38937,13 @@
    "brand": "BASICS",
    "name": "BT1025SS",
    "model": "BT1025SS"
+  }
+ ],
+ "BT1026FW": [
+  {
+   "brand": "BASICS",
+   "name": "BT1026FW",
+   "model": "BT1026FW"
   }
  ],
  "BT1124FW": [
@@ -52928,53 +52994,6 @@
    "model": "S1a"
   }
  ],
- "S2": [
-  {
-   "brand": "Bluboo",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Cellecor",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "IMO(In My Opinion)",
-   "name": "IMO S2",
-   "model": "IMO S2"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Lexia Mobile",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "MAXHUB",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "MyFon",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Smooth",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Xstar",
-   "name": "S2",
-   "model": "S2"
-  }
- ],
  "S3": [
   {
    "brand": "Bluboo",
@@ -55669,13 +55688,6 @@
    "model": "C90A"
   }
  ],
- "MC80": [
-  {
-   "brand": "CHAINWAY",
-   "name": "CHAINWAY_MC80",
-   "model": "MC80"
-  }
- ],
  "MC21": [
   {
    "brand": "CHAINWAY",
@@ -55709,6 +55721,13 @@
    "brand": "CHAINWAY",
    "name": "MC62",
    "model": "MC62"
+  }
+ ],
+ "MC80": [
+  {
+   "brand": "CHAINWAY",
+   "name": "MC80",
+   "model": "MC80"
   }
  ],
  "MC95": [
@@ -69747,6 +69766,13 @@
    "model": "CS45XA_EEA"
   }
  ],
+ "CS75XA": [
+  {
+   "brand": "Cyrus",
+   "name": "CS75XA_EEA",
+   "model": "CS75XA"
+  }
+ ],
  "ORSY_Controller": [
   {
    "brand": "Cyrus",
@@ -72613,6 +72639,13 @@
    "brand": "DOMO",
    "name": "SLP36",
    "model": "SLP36"
+  }
+ ],
+ "SSM28": [
+  {
+   "brand": "DOMO",
+   "name": "SSM28",
+   "model": "SSM28"
   }
  ],
  "Slate": [
@@ -129250,6 +129283,13 @@
    "model": "Big Bang e"
   }
  ],
+ "Huion_Note_E": [
+  {
+   "brand": "Huion",
+   "name": "Huion_Note_E_US",
+   "model": "X50"
+  }
+ ],
  "KT1101": [
   {
    "brand": "Huion",
@@ -150444,6 +150484,13 @@
    "brand": "LEGEND",
    "name": "X701",
    "model": "X701"
+  }
+ ],
+ "LENIX_MAX": [
+  {
+   "brand": "LENIX",
+   "name": "LENIX MAX",
+   "model": "H67A2"
   }
  ],
  "LENIX_Pro": [
@@ -172041,6 +172088,23 @@
    "brand": "M-Horse",
    "name": "Note 50 Pro Max",
    "model": "Note 50 Pro Max"
+  }
+ ],
+ "POWER_1_Max": [
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1_Max",
+   "model": "POWER_1_Max"
+  },
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1_Max_RU",
+   "model": "POWER_1_Max"
+  },
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1_Max_US",
+   "model": "POWER_1_Max"
   }
  ],
  "Pad_17": [
@@ -198805,6 +198869,13 @@
    "model": "NT-S10"
   }
  ],
+ "CommercialTerminal": [
+  {
+   "brand": "Noryox",
+   "name": "CommercialTerminal",
+   "model": "CommercialTerminal"
+  }
+ ],
  "Handheld-POS": [
   {
    "brand": "Noryox",
@@ -206616,6 +206687,18 @@
    "brand": "Oppo",
    "name": "Pad Air5",
    "model": "OPD2510"
+  }
+ ],
+ "OP6930L1": [
+  {
+   "brand": "Oppo",
+   "name": "Pad Air6",
+   "model": "OPD2613"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Pad Air6",
+   "model": "OPD2614"
   }
  ],
  "OP6548L1": [
@@ -214507,6 +214590,13 @@
    "brand": "PROGRACE",
    "name": "K726",
    "model": "K726"
+  }
+ ],
+ "Dynamo": [
+  {
+   "brand": "PROTON",
+   "name": "Dynamo",
+   "model": "Dynamo"
   }
  ],
  "Proton_Eagle_X": [
@@ -224674,6 +224764,11 @@
    "brand": "PrimeTab",
    "name": "PrimeTabP11",
    "model": "PrimeTabP11"
+  },
+  {
+   "brand": "PrimeTab",
+   "name": "PrimeTabP9",
+   "model": "PrimeTabP9"
   }
  ],
  "PB1310": [
@@ -228461,6 +228556,13 @@
    "brand": "RADDY",
    "name": "RADDY_JANJA_PRO",
    "model": "R-6502"
+  }
+ ],
+ "Raddy_Aquamate": [
+  {
+   "brand": "RADDY",
+   "name": "Raddy_Aquamate",
+   "model": "RADDY AQUAMATE"
   }
  ],
  "RM-705": [
@@ -277031,6 +277133,13 @@
    "brand": "Symphony",
    "name": "MAX 30",
    "model": "MAX 30"
+  }
+ ],
+ "MAX_50": [
+  {
+   "brand": "Symphony",
+   "name": "MAX_50",
+   "model": "MAX 50"
   }
  ],
  "MAX_60": [
@@ -336690,6 +336799,13 @@
    "brand": "Zuum",
    "name": "MAGNO_R_II",
    "model": "MAGNO R II"
+  }
+ ],
+ "MAGNO_Z": [
+  {
+   "brand": "Zuum",
+   "name": "MAGNO_Z",
+   "model": "MAGNO Z"
   }
  ],
  "Magno_Pro": [

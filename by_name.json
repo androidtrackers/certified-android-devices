@@ -25345,6 +25345,88 @@
    "model": "Tab G6 Max"
   }
  ],
+ "S2": [
+  {
+   "brand": "Anyreal",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Bluboo",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Cellecor",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "FOSSiBOT",
+   "device": "FOSSiBOT_S2",
+   "model": "S2"
+  },
+  {
+   "brand": "GFF",
+   "device": "StayOnYou-S2",
+   "model": "StayOnYou-S2"
+  },
+  {
+   "brand": "Helio",
+   "device": "WBL7519SY",
+   "model": "S2"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X522",
+   "model": "Infinix S2"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X522",
+   "model": "Infinix S2 Pro"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Lexia Mobile",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "MAXHUB",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "MyFon",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Smooth",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-SA1",
+   "model": "TECNO SA1"
+  },
+  {
+   "brand": "Xstar",
+   "device": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2576",
+   "model": "V2576"
+  }
+ ],
  "T2-AR": [
   {
    "brand": "Anyreal",
@@ -29691,6 +29773,13 @@
    "brand": "Aspera",
    "device": "Nitro2",
    "model": "Nitro2"
+  }
+ ],
+ "Verve": [
+  {
+   "brand": "Aspera",
+   "device": "Verve",
+   "model": "Aspera Verve"
   }
  ],
  "Wren": [
@@ -35595,6 +35684,13 @@
    "brand": "BASICS",
    "device": "BT1025SS",
    "model": "BT1025SS"
+  }
+ ],
+ "BT1026FW": [
+  {
+   "brand": "BASICS",
+   "device": "BT1026FW",
+   "model": "BT1026FW"
   }
  ],
  "BT1124FW": [
@@ -50225,83 +50321,6 @@
    "model": "S1a"
   }
  ],
- "S2": [
-  {
-   "brand": "Bluboo",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Cellecor",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "FOSSiBOT",
-   "device": "FOSSiBOT_S2",
-   "model": "S2"
-  },
-  {
-   "brand": "GFF",
-   "device": "StayOnYou-S2",
-   "model": "StayOnYou-S2"
-  },
-  {
-   "brand": "Helio",
-   "device": "WBL7519SY",
-   "model": "S2"
-  },
-  {
-   "brand": "Infinix",
-   "device": "Infinix-X522",
-   "model": "Infinix S2"
-  },
-  {
-   "brand": "Infinix",
-   "device": "Infinix-X522",
-   "model": "Infinix S2 Pro"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Lexia Mobile",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "MAXHUB",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "MyFon",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Smooth",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Tecno",
-   "device": "TECNO-SA1",
-   "model": "TECNO SA1"
-  },
-  {
-   "brand": "Xstar",
-   "device": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "vivo",
-   "device": "V2576",
-   "model": "V2576"
-  }
- ],
  "S3": [
   {
    "brand": "Bluboo",
@@ -52918,13 +52937,6 @@
    "model": "C90A"
   }
  ],
- "CHAINWAY_MC80": [
-  {
-   "brand": "CHAINWAY",
-   "device": "MC80",
-   "model": "MC80"
-  }
- ],
  "MC21": [
   {
    "brand": "CHAINWAY",
@@ -52958,6 +52970,13 @@
    "brand": "CHAINWAY",
    "device": "MC62",
    "model": "MC62"
+  }
+ ],
+ "MC80": [
+  {
+   "brand": "CHAINWAY",
+   "device": "MC80",
+   "model": "MC80"
   }
  ],
  "MC95": [
@@ -67068,6 +67087,13 @@
    "model": "CS45XA_EEA"
   }
  ],
+ "CS75XA_EEA": [
+  {
+   "brand": "Cyrus",
+   "device": "CS75XA",
+   "model": "CS75XA"
+  }
+ ],
  "ORSY_Controller": [
   {
    "brand": "Cyrus",
@@ -70009,6 +70035,13 @@
    "brand": "DOMO",
    "device": "SLP36",
    "model": "SLP36"
+  }
+ ],
+ "SSM28": [
+  {
+   "brand": "DOMO",
+   "device": "SSM28",
+   "model": "SSM28"
   }
  ],
  "Slate": [
@@ -127608,6 +127641,13 @@
    "model": "Big Bang e"
   }
  ],
+ "Huion_Note_E_US": [
+  {
+   "brand": "Huion",
+   "device": "Huion_Note_E",
+   "model": "X50"
+  }
+ ],
  "KT1101": [
   {
    "brand": "Huion",
@@ -150732,6 +150772,13 @@
    "model": "X701"
   }
  ],
+ "LENIX MAX": [
+  {
+   "brand": "LENIX",
+   "device": "LENIX_MAX",
+   "model": "H67A2"
+  }
+ ],
  "LENIX Pro": [
   {
    "brand": "LENIX",
@@ -170297,6 +170344,27 @@
    "brand": "M-Horse",
    "device": "Note_50_Pro_Max",
    "model": "Note 50 Pro Max"
+  }
+ ],
+ "POWER_1_Max": [
+  {
+   "brand": "M-Horse",
+   "device": "POWER_1_Max",
+   "model": "POWER_1_Max"
+  }
+ ],
+ "POWER_1_Max_RU": [
+  {
+   "brand": "M-Horse",
+   "device": "POWER_1_Max",
+   "model": "POWER_1_Max"
+  }
+ ],
+ "POWER_1_Max_US": [
+  {
+   "brand": "M-Horse",
+   "device": "POWER_1_Max",
+   "model": "POWER_1_Max"
   }
  ],
  "Pad_17": [
@@ -197088,6 +197156,13 @@
    "model": "NT-S10"
   }
  ],
+ "CommercialTerminal": [
+  {
+   "brand": "Noryox",
+   "device": "CommercialTerminal",
+   "model": "CommercialTerminal"
+  }
+ ],
  "Handheld-POS-EEA": [
   {
    "brand": "Noryox",
@@ -204793,6 +204868,18 @@
    "model": "OPD2510"
   }
  ],
+ "Pad Air6": [
+  {
+   "brand": "Oppo",
+   "device": "OP6930L1",
+   "model": "OPD2613"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP6930L1",
+   "model": "OPD2614"
+  }
+ ],
  "Pad Mini": [
   {
    "brand": "Oppo",
@@ -212430,6 +212517,13 @@
    "brand": "PROGRACE",
    "device": "K726",
    "model": "K726"
+  }
+ ],
+ "Dynamo": [
+  {
+   "brand": "PROTON",
+   "device": "Dynamo",
+   "model": "Dynamo"
   }
  ],
  "Eagle X": [
@@ -223353,6 +223447,13 @@
    "model": "PrimeTabP11"
   }
  ],
+ "PrimeTabP9": [
+  {
+   "brand": "PrimeTab",
+   "device": "PrimeTab",
+   "model": "PrimeTabP9"
+  }
+ ],
  "PB1310": [
   {
    "brand": "Primebook",
@@ -227173,6 +227274,13 @@
    "brand": "RADDY",
    "device": "RADDY_JANJA_PRO",
    "model": "R-6502"
+  }
+ ],
+ "Raddy_Aquamate": [
+  {
+   "brand": "RADDY",
+   "device": "Raddy_Aquamate",
+   "model": "RADDY AQUAMATE"
   }
  ],
  "RM-705": [
@@ -275318,6 +275426,13 @@
    "brand": "Symphony",
    "device": "MAX_5",
    "model": "MAX 5"
+  }
+ ],
+ "MAX_50": [
+  {
+   "brand": "Symphony",
+   "device": "MAX_50",
+   "model": "MAX 50"
   }
  ],
  "MAX_60": [
@@ -337238,6 +337353,13 @@
    "brand": "Zuum",
    "device": "MAGNO_R_II",
    "model": "MAGNO R II"
+  }
+ ],
+ "MAGNO_Z": [
+  {
+   "brand": "Zuum",
+   "device": "MAGNO_Z",
+   "model": "MAGNO Z"
   }
  ],
  "Magno Pro": [
