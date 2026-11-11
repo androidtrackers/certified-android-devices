@@ -56170,6 +56170,11 @@
    "device": "P4_2"
   },
   {
+   "brand": "G-Tab",
+   "name": "G11G",
+   "device": "G11G"
+  },
+  {
    "brand": "Laptok",
    "name": "G11",
    "device": "G11"
@@ -60395,6 +60400,13 @@
    "brand": "Coolpad",
    "name": "VodafoneSmart4turbo",
    "device": "VodafoneSmart4turbo"
+  }
+ ],
+ "K29": [
+  {
+   "brand": "Coolpad",
+   "name": "X200",
+   "device": "K29"
   }
  ],
  "X30": [
@@ -75152,6 +75164,13 @@
    "brand": "EARTHTREK",
    "name": "ET_tablet",
    "device": "Byond"
+  }
+ ],
+ "E8600": [
+  {
+   "brand": "EASTCOM",
+   "name": "E8600",
+   "device": "E8600"
   }
  ],
  "EK10": [
@@ -131418,6 +131437,13 @@
    "device": "B866V2Fi"
   }
  ],
+ "B866V2FIX": [
+  {
+   "brand": "IZZI Telecom",
+   "name": "B866V2FIX",
+   "device": "B866V2FIX"
+  }
+ ],
  "HP2714": [
   {
    "brand": "IZZI Telecom",
@@ -140511,6 +140537,13 @@
    "device": "R500_V_US"
   }
  ],
+ "R600_U": [
+  {
+   "brand": "JUEDUR",
+   "name": "R600_U",
+   "device": "R600_U"
+  }
+ ],
  "R700_EEA": [
   {
    "brand": "JUEDUR",
@@ -144954,6 +144987,13 @@
    "brand": "Kalley",
    "name": "Black_G_2",
    "device": "Black_G_2"
+  }
+ ],
+ "Black S2": [
+  {
+   "brand": "Kalley",
+   "name": "Black_S2",
+   "device": "Black_S2"
   }
  ],
  "Black S4": [
@@ -185636,6 +185676,11 @@
    "brand": "Mobiwire",
    "name": "H67A1",
    "device": "H67A1"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Rodiall Pro",
+   "device": "GH67A1"
   }
  ],
  "H6821": [
@@ -186511,6 +186556,28 @@
    "brand": "Morep",
    "name": "Morep Pocket",
    "device": "Morep_Pocket"
+  }
+ ],
+ "V7": [
+  {
+   "brand": "Morep",
+   "name": "Morep_V7G",
+   "device": "V7G"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "V7",
+   "device": "nuclear-M7021"
+  },
+  {
+   "brand": "SparX",
+   "name": "V7",
+   "device": "Sparx_V7"
+  },
+  {
+   "brand": "TOPELOTEK",
+   "name": "V7",
+   "device": "V7"
   }
  ],
  "M521": [
@@ -202159,6 +202226,13 @@
    "brand": "OKAPI",
    "name": "Okapi_Tab8",
    "device": "Okapi_Tab8"
+  }
+ ],
+ "Okapi_Tab_18_Pro": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi_Tab_18_Pro",
+   "device": "Okapi_Tab_18_Pro"
   }
  ],
  "Tab10": [
@@ -219144,6 +219218,13 @@
    "device": "IPHDCK16H"
   }
  ],
+ "H130101": [
+  {
+   "brand": "Pantas",
+   "name": "H130101",
+   "device": "H130101"
+  }
+ ],
  "ADR910L": [
   {
    "brand": "Pantech",
@@ -223523,23 +223604,6 @@
    "brand": "Polaroid",
    "name": "V45M",
    "device": "V45M"
-  }
- ],
- "V7": [
-  {
-   "brand": "Polaroid",
-   "name": "V7",
-   "device": "nuclear-M7021"
-  },
-  {
-   "brand": "SparX",
-   "name": "V7",
-   "device": "Sparx_V7"
-  },
-  {
-   "brand": "TOPELOTEK",
-   "name": "V7",
-   "device": "V7"
   }
  ],
  "midcb232pr": [
@@ -239151,6 +239215,13 @@
    "brand": "SEGO",
    "name": "Smart 20 GO",
    "device": "Smart_20_GO"
+  }
+ ],
+ "Smart20 Pro Max": [
+  {
+   "brand": "SEGO",
+   "name": "Smart20_Pro_Max",
+   "device": "Smart20_Pro_Max"
   }
  ],
  "Smart 10": [
@@ -352513,6 +352584,13 @@
    "brand": "eNOVA",
    "name": "TAE10N13",
    "device": "TAE10N13"
+  }
+ ],
+ "TAE10N14": [
+  {
+   "brand": "eNOVA",
+   "name": "TAE10N14",
+   "device": "TAE10N14"
   }
  ],
  "Emerald": [

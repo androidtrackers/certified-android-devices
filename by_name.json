@@ -64626,6 +64626,18 @@
    "model": "Vodafone Smart 4 turbo"
   }
  ],
+ "X200": [
+  {
+   "brand": "Coolpad",
+   "device": "K29",
+   "model": "K29"
+  },
+  {
+   "brand": "Woxter",
+   "device": "X200",
+   "model": "X200"
+  }
+ ],
  "X30": [
   {
    "brand": "Coolpad",
@@ -80087,6 +80099,13 @@
    "model": "VC5"
   }
  ],
+ "E8600": [
+  {
+   "brand": "EASTCOM",
+   "device": "E8600",
+   "model": "E8600"
+  }
+ ],
  "EK10": [
   {
    "brand": "EASYTECK",
@@ -93545,6 +93564,13 @@
    "brand": "G-Tab",
    "device": "F8_1",
    "model": "F8"
+  }
+ ],
+ "G11G": [
+  {
+   "brand": "G-Tab",
+   "device": "G11G",
+   "model": "G11"
   }
  ],
  "GTAB_P8": [
@@ -131955,6 +131981,13 @@
    "model": "B866V2FI"
   }
  ],
+ "B866V2FIX": [
+  {
+   "brand": "IZZI Telecom",
+   "device": "B866V2FIX",
+   "model": "B866V2FIX"
+  }
+ ],
  "HP2714": [
   {
    "brand": "IZZI Telecom",
@@ -140608,6 +140641,13 @@
    "model": "R500_V_US"
   }
  ],
+ "R600_U": [
+  {
+   "brand": "JUEDUR",
+   "device": "R600_U",
+   "model": "R600_U"
+  }
+ ],
  "R700_EEA": [
   {
    "brand": "JUEDUR",
@@ -145509,6 +145549,13 @@
    "brand": "Kalley",
    "device": "Black_G_2",
    "model": "Black_G_2"
+  }
+ ],
+ "Black_S2": [
+  {
+   "brand": "Kalley",
+   "device": "Black_S2",
+   "model": "Black S2"
   }
  ],
  "Black_S4": [
@@ -182788,6 +182835,13 @@
    "model": "H6733 Pro"
   }
  ],
+ "Rodiall Pro": [
+  {
+   "brand": "Mobiwire",
+   "device": "GH67A1",
+   "model": "H67A1"
+  }
+ ],
  "S26": [
   {
    "brand": "Mobiwire",
@@ -183487,6 +183541,13 @@
    "brand": "Morep",
    "device": "Morep_Pocket",
    "model": "M320"
+  }
+ ],
+ "Morep_V7G": [
+  {
+   "brand": "Morep",
+   "device": "V7G",
+   "model": "V7"
   }
  ],
  "Smart V1": [
@@ -198299,6 +198360,13 @@
    "brand": "OKAPI",
    "device": "Okapi_Tab8",
    "model": "Okapi_Tab8"
+  }
+ ],
+ "Okapi_Tab_18_Pro": [
+  {
+   "brand": "OKAPI",
+   "device": "Okapi_Tab_18_Pro",
+   "model": "Okapi_Tab_18_Pro"
   }
  ],
  "OK17ProMax4G": [
@@ -214963,6 +215031,13 @@
    "brand": "Panodic",
    "device": "IPHDCK16H",
    "model": "IPHDCK16H"
+  }
+ ],
+ "H130101": [
+  {
+   "brand": "Pantas",
+   "device": "H130101",
+   "model": "H130101"
   }
  ],
  "ADR910L": [
@@ -235793,6 +235868,13 @@
    "brand": "SEGO",
    "device": "Smart_20_GO",
    "model": "Smart 20 GO"
+  }
+ ],
+ "Smart20_Pro_Max": [
+  {
+   "brand": "SEGO",
+   "device": "Smart20_Pro_Max",
+   "model": "Smart20 Pro Max"
   }
  ],
  "Smart_10": [
@@ -319595,13 +319677,6 @@
    "model": "X100v3"
   }
  ],
- "X200": [
-  {
-   "brand": "Woxter",
-   "device": "X200",
-   "model": "X200"
-  }
- ],
  "X200_PRO_v2": [
   {
    "brand": "Woxter",
@@ -338767,6 +338842,13 @@
    "brand": "eNOVA",
    "device": "TAE10N13",
    "model": "TAE10N13"
+  }
+ ],
+ "TAE10N14": [
+  {
+   "brand": "eNOVA",
+   "device": "TAE10N14",
+   "model": "TAE10N14"
   }
  ],
  "TAEI0C13": [

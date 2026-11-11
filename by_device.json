@@ -67094,6 +67094,13 @@
    "model": "Vodafone Smart 4 turbo"
   }
  ],
+ "K29": [
+  {
+   "brand": "Coolpad",
+   "name": "X200",
+   "model": "K29"
+  }
+ ],
  "X30": [
   {
    "brand": "Coolpad",
@@ -82193,6 +82200,13 @@
    "model": "VC5"
   }
  ],
+ "E8600": [
+  {
+   "brand": "EASTCOM",
+   "name": "E8600",
+   "model": "E8600"
+  }
+ ],
  "EK10": [
   {
    "brand": "EASYTECK",
@@ -94721,6 +94735,13 @@
    "brand": "G-Tab",
    "name": "G10",
    "model": "G10"
+  }
+ ],
+ "G11G": [
+  {
+   "brand": "G-Tab",
+   "name": "G11G",
+   "model": "G11"
   }
  ],
  "G9": [
@@ -133267,6 +133288,13 @@
    "model": "B866V2FI"
   }
  ],
+ "B866V2FIX": [
+  {
+   "brand": "IZZI Telecom",
+   "name": "B866V2FIX",
+   "model": "B866V2FIX"
+  }
+ ],
  "HPH65": [
   {
    "brand": "IZZI Telecom",
@@ -141983,6 +142011,13 @@
    "model": "R500_V_US"
   }
  ],
+ "R600_U": [
+  {
+   "brand": "JUEDUR",
+   "name": "R600_U",
+   "model": "R600_U"
+  }
+ ],
  "R700_EEA": [
   {
    "brand": "JUEDUR",
@@ -145503,6 +145538,13 @@
    "brand": "Kalley",
    "name": "Black_G_2",
    "model": "Black_G_2"
+  }
+ ],
+ "Black_S2": [
+  {
+   "brand": "Kalley",
+   "name": "Black_S2",
+   "model": "Black S2"
   }
  ],
  "Black_S4": [
@@ -174413,6 +174455,11 @@
    "brand": "MTN",
    "name": "MTNsmart Plus",
    "model": "GH67A1"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Rodiall Pro",
+   "model": "H67A1"
   }
  ],
  "S5012": [
@@ -185080,6 +185127,13 @@
    "brand": "Morep",
    "name": "Morep Pocket",
    "model": "M320"
+  }
+ ],
+ "V7G": [
+  {
+   "brand": "Morep",
+   "name": "Morep_V7G",
+   "model": "V7"
   }
  ],
  "Smart_V1": [
@@ -200116,6 +200170,13 @@
    "brand": "OKAPI",
    "name": "Okapi_Tab8",
    "model": "Okapi_Tab8"
+  }
+ ],
+ "Okapi_Tab_18_Pro": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi_Tab_18_Pro",
+   "model": "Okapi_Tab_18_Pro"
   }
  ],
  "Tab10": [
@@ -216835,6 +216896,13 @@
    "brand": "Panodic",
    "name": "IPHDCK16H",
    "model": "IPHDCK16H"
+  }
+ ],
+ "H130101": [
+  {
+   "brand": "Pantas",
+   "name": "H130101",
+   "model": "H130101"
   }
  ],
  "ADR910L": [
@@ -235513,6 +235581,13 @@
    "brand": "SEGO",
    "name": "Smart 20 GO",
    "model": "Smart 20 GO"
+  }
+ ],
+ "Smart20_Pro_Max": [
+  {
+   "brand": "SEGO",
+   "name": "Smart20_Pro_Max",
+   "model": "Smart20 Pro Max"
   }
  ],
  "Smart_10": [
@@ -338122,6 +338197,13 @@
    "brand": "eNOVA",
    "name": "TAE10N13",
    "model": "TAE10N13"
+  }
+ ],
+ "TAE10N14": [
+  {
+   "brand": "eNOVA",
+   "name": "TAE10N14",
+   "model": "TAE10N14"
   }
  ],
  "SEI500TV": [

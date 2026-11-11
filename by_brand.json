@@ -38162,6 +38162,11 @@
    "model": "X20"
   },
   {
+   "device": "K29",
+   "name": "X200",
+   "model": "K29"
+  },
+  {
    "device": "X30",
    "name": "X30",
    "model": "X30"
@@ -49116,6 +49121,13 @@
    "model": "ATV R2"
   }
  ],
+ "EASTCOM": [
+  {
+   "device": "E8600",
+   "name": "E8600",
+   "model": "E8600"
+  }
+ ],
  "EASYTECK": [
   {
    "device": "EK10",
@@ -59348,6 +59360,11 @@
    "device": "G10_1",
    "name": "G10",
    "model": "G10"
+  },
+  {
+   "device": "G11G",
+   "name": "G11G",
+   "model": "G11"
   },
   {
    "device": "G4",
@@ -92325,6 +92342,11 @@
    "model": "B866V2FI"
   },
   {
+   "device": "B866V2FIX",
+   "name": "B866V2FIX",
+   "model": "B866V2FIX"
+  },
+  {
    "device": "HPH65",
    "name": "HP2714",
    "model": "HP2714"
@@ -99419,6 +99441,11 @@
    "model": "R500_V_US"
   },
   {
+   "device": "R600_U",
+   "name": "R600_U",
+   "model": "R600_U"
+  },
+  {
    "device": "R700_EEA",
    "name": "R700_EEA",
    "model": "R700_EEA"
@@ -103925,6 +103952,11 @@
    "device": "Black_G_2",
    "name": "Black_G_2",
    "model": "Black_G_2"
+  },
+  {
+   "device": "Black_S2",
+   "name": "Black_S2",
+   "model": "Black S2"
   },
   {
    "device": "Black_S4",
@@ -136063,6 +136095,11 @@
    "model": "H6733 Pro"
   },
   {
+   "device": "GH67A1",
+   "name": "Rodiall Pro",
+   "model": "H67A1"
+  },
+  {
    "device": "H5112",
    "name": "S26",
    "model": "S26"
@@ -136664,6 +136701,11 @@
    "device": "Morep_Pocket",
    "name": "Morep Pocket",
    "model": "M320"
+  },
+  {
+   "device": "V7G",
+   "name": "Morep_V7G",
+   "model": "V7"
   },
   {
    "device": "Smart_V1",
@@ -149703,6 +149745,11 @@
    "device": "Okapi_Tab8",
    "name": "Okapi_Tab8",
    "model": "Okapi_Tab8"
+  },
+  {
+   "device": "Okapi_Tab_18_Pro",
+   "name": "Okapi_Tab_18_Pro",
+   "model": "Okapi_Tab_18_Pro"
   },
   {
    "device": "Tab10",
@@ -163678,6 +163725,13 @@
    "device": "IPHDCK16H",
    "name": "IPHDCK16H",
    "model": "IPHDCK16H"
+  }
+ ],
+ "Pantas": [
+  {
+   "device": "H130101",
+   "name": "H130101",
+   "model": "H130101"
   }
  ],
  "Pantech": [
@@ -180990,6 +181044,11 @@
    "device": "Smart_20_GO",
    "name": "Smart 20 GO",
    "model": "Smart 20 GO"
+  },
+  {
+   "device": "Smart20_Pro_Max",
+   "name": "Smart20_Pro_Max",
+   "model": "Smart20 Pro Max"
   },
   {
    "device": "Smart_10",
@@ -271728,6 +271787,11 @@
    "device": "TAE10N13",
    "name": "TAE10N13",
    "model": "TAE10N13"
+  },
+  {
+   "device": "TAE10N14",
+   "name": "TAE10N14",
+   "model": "TAE10N14"
   },
   {
    "device": "TAE10C13",

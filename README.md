@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-10
+Last sync is 2026-11-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7370,6 +7370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|VodafoneSmart4|VodafoneSmart4|Vodafone Smart 4|
 |Coolpad|VodafoneSmart4turbo|VodafoneSmart4turbo|Vodafone Smart 4 turbo|
 |Coolpad|X20|X20|X20|
+|Coolpad|X200|K29|K29|
 |Coolpad|X30|X30|X30|
 |Coolpad|Y72-921|Y72-921|Coolpad Y72-921|
 |Coolpad|Y72-921|Y72_921|Coolpad E571|
@@ -9480,6 +9481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EARTHTREK|ET_tablet|Byond|VC5|
 |EAS ELECTRIC|Android TV|R1|ATV R1|
 |EAS ELECTRIC|Android TV|R2|ATV R2|
+|EASTCOM|E8600|E8600|E8600|
 |EASYTECK|EK10|EK10|EK10|
 |EASYTECK|EK12|EK12|EK12|
 |EBN|NEBUPOS3|UY3A|NEBUPOS3|
@@ -11422,6 +11424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|F8_1|F8_1|F8|
 |G-Tab|G10|G10|G10|
 |G-Tab|G10|G10_1|G10|
+|G-Tab|G11G|G11G|G11|
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
@@ -17877,6 +17880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IXTECH|IX1013|IX1013|IX1013|
 |IXTECH|IX701|IX701|IX701|
 |IZZI Telecom|B866V2FI|B866V2Fi|B866V2FI|
+|IZZI Telecom|B866V2FIX|B866V2FIX|B866V2FIX|
 |IZZI Telecom|HP2714|HPH65|HP2714|
 |IZZI Telecom|HP46A|HP46A|HP4633|
 |IZZI Telecom|Mexico|B820C-A15_ZTE|B820C-A15|
@@ -19263,6 +19267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JUEDUR|R500_U|R500_U|R500_U|
 |JUEDUR|R500_V_EEA|R500_V_EEA|R500_V_EEA|
 |JUEDUR|R500_V_US|R500_V_US|R500_V_US|
+|JUEDUR|R600_U|R600_U|R600_U|
 |JUEDUR|R700_EEA|R700_EEA|R700_EEA|
 |JUEDUR|R700_US|R700_US|R700_US|
 |JUEDUR|R800-EU|R800-EU|R800-EEA|
@@ -20125,6 +20130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black_E2C|Black_E2|Black E2|
 |Kalley|Black_G4|Black_G4|Black G4|
 |Kalley|Black_G_2|Black_G_2|Black_G_2|
+|Kalley|Black_S2|Black_S2|Black S2|
 |Kalley|Black_S4|Black_S4|Black S4|
 |Kalley|Black_S4C|Black_S4|Black S4|
 |Kalley|Black_X|Black_X|Black X|
@@ -26399,6 +26405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|ONE|H5032U|ONE|
 |Mobiwire|Pegasus|Pegasus|Pegasus|
 |Mobiwire|Rodiall|H6733Pro|H6733 Pro|
+|Mobiwire|Rodiall Pro|GH67A1|H67A1|
 |Mobiwire|S26|H5112|S26|
 |Mobiwire|S4040|S4040|S4040|
 |Mobiwire|SEUIC|H6033|H6033|
@@ -26512,6 +26519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Morep|Morep Mavic 20|mavic_20|morep_mavic_20|
 |Morep|Morep Mavic Plus|Mavic_Plus|M610|
 |Morep|Morep Pocket|Morep_Pocket|M320|
+|Morep|Morep_V7G|V7G|V7|
 |Morep|Smart V1|Smart_V1|M521|
 |Morep|V6|V6|V6|
 |Morep|V6_Lite|V6_Lite|V6 Lite|
@@ -29043,6 +29051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKAPI|Okapi16 Rombo Ultra|Okapi16_Rombo_Ultra|Okapi16 Rombo Ultra|
 |OKAPI|Okapi_Tab6|Okapi_Tab6|Okapi_Tab6|
 |OKAPI|Okapi_Tab8|Okapi_Tab8|Okapi_Tab8|
+|OKAPI|Okapi_Tab_18_Pro|Okapi_Tab_18_Pro|Okapi_Tab_18_Pro|
 |OKAPI|Tab10|Tab10|Tab10|
 |OKING|OK17ProMax4G|OK17ProMax4G|OK17ProMax4G|
 |OKSI|GEN-10|GEN-10|GEN-10|
@@ -31776,6 +31785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panavox|fushan_panavox|hamamatsucho|Panavox Android TV|
 |Panavox|xiaoyushan_panavox|xiaoyushan|Panavox Android TV|
 |Panodic|IPHDCK16H|IPHDCK16H|IPHDCK16H|
+|Pantas|H130101|H130101|H130101|
 |Pantech|ADR910L|ADR910L|ADR910L|
 |Pantech|ADR930L|ADR930L|ADR930L|
 |Pantech|AT1|at1|IM-T100K|
@@ -35130,6 +35140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEGO|S_PAD|S_PAD|S_PAD|
 |SEGO|Shark|Shark|Shark|
 |SEGO|Smart 20 GO|Smart_20_GO|Smart 20 GO|
+|SEGO|Smart20_Pro_Max|Smart20_Pro_Max|Smart20 Pro Max|
 |SEGO|Smart_10|Smart_10|Smart 10|
 |SEGO|Smart_20|Smart_20|Smart 20|
 |SEGO|Smart_20x|SEGO_Smart_20x|Smart_20x|
@@ -52868,6 +52879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eNOVA|TAE10N12|TAE10N12|T1081|
 |eNOVA|TAE10N12|TAE10N12|TAE10N12|
 |eNOVA|TAE10N13|TAE10N13|TAE10N13|
+|eNOVA|TAE10N14|TAE10N14|TAE10N14|
 |eNOVA|TAEI0C13|TAE10C13|TAE10C13|
 |eSSL|Emerald|Emerald|Emerald|
 |eSTREAM 4K|EVOPRO|SEI500EV|EVOPRO|
