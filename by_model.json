@@ -3345,6 +3345,13 @@
    "device": "ADVAN_XTAB"
   }
  ],
+ "VX Nova": [
+  {
+   "brand": "ADVAN",
+   "name": "VX Nova",
+   "device": "ADVAN_VX_Nova"
+  }
+ ],
  "X1 NEO": [
   {
    "brand": "ADVAN",
@@ -9595,6 +9602,11 @@
    "brand": "ATMPC",
    "name": "IT-801BA9_EEA",
    "device": "IT-801BA9_EEA"
+  },
+  {
+   "brand": "ATMPC",
+   "name": "IT_801BA9",
+   "device": "IT_801BA9"
   },
   {
    "brand": "ATMPC",
@@ -44704,6 +44716,13 @@
    "device": "G1050"
   }
  ],
+ "B1680W": [
+  {
+   "brand": "Blu",
+   "name": "G85 5G",
+   "device": "B1680"
+  }
+ ],
  "G9": [
   {
    "brand": "Blu",
@@ -45098,6 +45117,28 @@
    "brand": "iBRIT",
    "name": "K2",
    "device": "K2"
+  }
+ ],
+ "K3": [
+  {
+   "brand": "Blu",
+   "name": "K3",
+   "device": "K0270"
+  },
+  {
+   "brand": "KOOLNEE",
+   "name": "K3",
+   "device": "K3"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "Coosea",
+   "device": "K3"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "K3",
+   "device": "K3"
   }
  ],
  "BLU LIFE ONE X": [
@@ -49730,6 +49771,11 @@
    "device": "E30"
   },
   {
+   "brand": "Gevo",
+   "name": "E30",
+   "device": "E30"
+  },
+  {
    "brand": "Inhon",
    "name": "E30",
    "device": "E30"
@@ -50113,6 +50159,13 @@
    "brand": "COOP",
    "name": "SATURNO2",
    "device": "SATURNO2"
+  }
+ ],
+ "URANO": [
+  {
+   "brand": "COOP",
+   "name": "URANO",
+   "device": "URANO"
   }
  ],
  "CP10": [
@@ -63197,6 +63250,13 @@
    "device": "E10_US"
   }
  ],
+ "E11_C": [
+  {
+   "brand": "DEERTiME",
+   "name": "E11_C",
+   "device": "E11_C"
+  }
+ ],
  "E11_E": [
   {
    "brand": "DEERTiME",
@@ -71006,6 +71066,13 @@
    "brand": "DishTV-NZ",
    "name": "SmartVU Freeview Projector | Google TV",
    "device": "tianshan"
+  }
+ ],
+ "CPT06": [
+  {
+   "brand": "Disney",
+   "name": "CPT06",
+   "device": "CPT06"
   }
  ],
  "CTS05": [
@@ -143933,23 +144000,6 @@
    "device": "K1_Trio"
   }
  ],
- "K3": [
-  {
-   "brand": "KOOLNEE",
-   "name": "K3",
-   "device": "K3"
-  },
-  {
-   "brand": "Oukitel",
-   "name": "Coosea",
-   "device": "K3"
-  },
-  {
-   "brand": "Oukitel",
-   "name": "K3",
-   "device": "K3"
-  }
- ],
  "KOOMII A6": [
   {
    "brand": "KOOMII",
@@ -150222,6 +150272,13 @@
    "brand": "LENIX",
    "name": "LENIX MAX",
    "device": "LENIX_MAX"
+  }
+ ],
+ "H67M1": [
+  {
+   "brand": "LENIX",
+   "name": "LENIX Pro",
+   "device": "LENIX_100_Pro"
   }
  ],
  "LENIX Pro": [
@@ -159868,6 +159925,13 @@
    "device": "LOGIC_L55V"
   }
  ],
+ "T10MW": [
+  {
+   "brand": "LOGIC",
+   "name": "LOGIC_T10MW",
+   "device": "LOGIC_T10MW"
+  }
+ ],
  "Logic L67 PRO MAX": [
   {
    "brand": "LOGIC",
@@ -160390,6 +160454,13 @@
    "brand": "LT_Mobile",
    "name": "LT_mobile_S40",
    "device": "LT_mobile_S40"
+  }
+ ],
+ "LT S60": [
+  {
+   "brand": "LT_Mobile",
+   "name": "LT_mobile_S60",
+   "device": "LT_mobile_S60"
   }
  ],
  "siwxxf1x": [
@@ -161843,6 +161914,13 @@
    "brand": "Laser",
    "name": "MID-1090IPS",
    "device": "MID-1090IPS"
+  }
+ ],
+ "MID-10A16B-404": [
+  {
+   "brand": "Laser",
+   "name": "MID-10A16B-404",
+   "device": "MID-10A16B-404"
   }
  ],
  "MID-787": [
@@ -173054,6 +173132,28 @@
    "device": "Note_50_Pro_Max"
   }
  ],
+ "POWER_1": [
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1",
+   "device": "POWER_1"
+  },
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1_EEA",
+   "device": "POWER_1"
+  },
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1_RU",
+   "device": "POWER_1"
+  },
+  {
+   "brand": "M-Horse",
+   "name": "POWER_1_US",
+   "device": "POWER_1"
+  }
+ ],
  "POWER_1_Max": [
   {
    "brand": "M-Horse",
@@ -180712,6 +180812,13 @@
    "brand": "Meswao",
    "name": "MES-B3",
    "device": "MES-B3"
+  }
+ ],
+ "MES-B3Lite": [
+  {
+   "brand": "Meswao",
+   "name": "MES-B3Lite",
+   "device": "MES-B3Lite"
   }
  ],
  "MES-B4": [
@@ -195642,6 +195749,13 @@
    "brand": "NAVA",
    "name": "P68",
    "device": "P68"
+  }
+ ],
+ "N18 Pro": [
+  {
+   "brand": "NAVATAB",
+   "name": "N18_Pro",
+   "device": "N18_Pro"
   }
  ],
  "NID-7011": [
@@ -215496,6 +215610,13 @@
    "brand": "PHILCO (ar)",
    "name": "TP10A664",
    "device": "TP10A664"
+  }
+ ],
+ "F58-8inch": [
+  {
+   "brand": "PHONELINETAB",
+   "name": "F58-8inch",
+   "device": "F58-8inch"
   }
  ],
  "12998-99": [
@@ -237534,6 +237655,13 @@
    "brand": "Renault",
    "name": "OpenR Link",
    "device": "aivi2_r_full_dom"
+  }
+ ],
+ "AIVI2 R FULL EGG": [
+  {
+   "brand": "Renault",
+   "name": "OpenR Link",
+   "device": "aivi2_r_full_egg"
   }
  ],
  "idea_Board": [
@@ -282942,6 +283070,13 @@
    "brand": "Stylo",
    "name": "Ithemba",
    "device": "Ithemba"
+  }
+ ],
+ "Jaguar": [
+  {
+   "brand": "Stylo",
+   "name": "Jaguar",
+   "device": "Jaguar"
   }
  ],
  "DQR22": [
@@ -332223,6 +332358,30 @@
    "device": "X4000"
   }
  ],
+ "XRZ": [
+  {
+   "brand": "XRZ(sz)",
+   "name": "XRZPro_EEA",
+   "device": "Smartphone"
+  }
+ ],
+ "XRZDual2": [
+  {
+   "brand": "XRZDual2",
+   "name": "XRZDual2_A16_EEA",
+   "device": "XRZDual2_A16"
+  },
+  {
+   "brand": "XRZDual2",
+   "name": "XRZDual2_A16_NEU",
+   "device": "XRZDual2_A16"
+  },
+  {
+   "brand": "XRZDual2",
+   "name": "XRZDual2_A16_US",
+   "device": "XRZDual2_A16"
+  }
+ ],
  "XT1": [
   {
    "brand": "XTRA",
@@ -337119,6 +337278,13 @@
    "brand": "ZOOMSMART",
    "name": "ZM800_EEA",
    "device": "ZM800"
+  }
+ ],
+ "S00754": [
+  {
+   "brand": "ZTAP",
+   "name": "S00754",
+   "device": "S00754"
   }
  ],
  "ZTE-RACER": [
@@ -357153,6 +357319,13 @@
    "device": "PM108AK"
   }
  ],
+ "PM116A": [
+  {
+   "brand": "onn.",
+   "name": "PM116A",
+   "device": "PM116A"
+  }
+ ],
  "PM116T": [
   {
    "brand": "onn.",
@@ -357181,6 +357354,13 @@
    "device": "PM82TW"
   }
  ],
+ "PM876A": [
+  {
+   "brand": "onn.",
+   "name": "PM876A",
+   "device": "PM876A"
+  }
+ ],
  "PM876T": [
   {
    "brand": "onn.",
@@ -357193,6 +357373,13 @@
    "brand": "onn.",
    "name": "PP86AK",
    "device": "PP86AK"
+  }
+ ],
+ "PP88AK": [
+  {
+   "brand": "onn.",
+   "name": "PP88AK",
+   "device": "PP88AK"
   }
  ],
  "SL713B1": [
