@@ -27052,6 +27052,11 @@
    "brand": "AngelTech",
    "name": "PRO_MAX_16",
    "model": "PRO_MAX_16"
+  },
+  {
+   "brand": "AngelTech",
+   "name": "PRO_MAX_16_EEA",
+   "model": "PRO_MAX_16"
   }
  ],
  "SWAYTOSH_16": [
@@ -32100,6 +32105,20 @@
    "model": "SP545C"
   }
  ],
+ "SP626W": [
+  {
+   "brand": "Artia",
+   "name": "SP626W",
+   "model": "SP626W"
+  }
+ ],
+ "SP676L": [
+  {
+   "brand": "Artia",
+   "name": "SP676L",
+   "model": "SP676L"
+  }
+ ],
  "SP676W": [
   {
    "brand": "Artia",
@@ -36833,6 +36852,11 @@
   },
   {
    "brand": "Blackview",
+   "name": "A60",
+   "model": "A60"
+  },
+  {
+   "brand": "Cubot",
    "name": "A60",
    "model": "A60"
   },
@@ -60001,6 +60025,11 @@
   },
   {
    "brand": "Mobiwire",
+   "name": "H6032",
+   "model": "H6033"
+  },
+  {
+   "brand": "Mobiwire",
    "name": "H6033",
    "model": "H6033"
   },
@@ -68716,6 +68745,18 @@
    "brand": "OSCAL",
    "name": "C30",
    "model": "C30"
+  }
+ ],
+ "C53": [
+  {
+   "brand": "Cubot",
+   "name": "C53",
+   "model": "C53"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "C53",
+   "model": "C53"
   }
  ],
  "CUBOT_CHEETAH_2": [
@@ -93039,6 +93080,13 @@
    "model": "Foxtel Now box"
   }
  ],
+ "F17": [
+  {
+   "brand": "Franko",
+   "name": "F17",
+   "model": "F17"
+  }
+ ],
  "Franko_A01": [
   {
    "brand": "Franko",
@@ -98351,6 +98399,13 @@
    "brand": "Gigabyte",
    "name": "mexico",
    "model": "iliumPAD"
+  }
+ ],
+ "GIG-X10": [
+  {
+   "brand": "Gigaset",
+   "name": "GIG-X10",
+   "model": "GIG-X10"
   }
  ],
  "GIG-X14": [
@@ -118240,6 +118295,13 @@
    "model": "BSN-NX1"
   }
  ],
+ "HNWKLX": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic9 Pro Max",
+   "model": "WKL-N59"
+  }
+ ],
  "HNROD2-Q": [
   {
    "brand": "Honor",
@@ -119325,11 +119387,25 @@
    "model": "FieldHub1_0"
   }
  ],
+ "L62": [
+  {
+   "brand": "Hosan",
+   "name": "L62",
+   "model": "L62"
+  }
+ ],
  "4G_Smart_Phone": [
   {
    "brand": "Hosan",
    "name": "L67",
    "model": "L67"
+  }
+ ],
+ "L67W": [
+  {
+   "brand": "Hosan",
+   "name": "L67W",
+   "model": "L67W"
   }
  ],
  "H-H101_EEA": [
@@ -176800,6 +176876,20 @@
    "model": "Gravity_7P"
   }
  ],
+ "MX-IN65MM": [
+  {
+   "brand": "Maxwest",
+   "name": "INFINITY F65",
+   "model": "INFINITY F65"
+  }
+ ],
+ "MX-IN67MM": [
+  {
+   "brand": "Maxwest",
+   "name": "INFINITY F67",
+   "model": "INFINITY F67"
+  }
+ ],
  "Black765857703671": [
   {
    "brand": "Maxwest",
@@ -182679,6 +182769,20 @@
   {
    "brand": "Mobicel",
    "name": "F51",
+   "model": "F52"
+  }
+ ],
+ "F52VR": [
+  {
+   "brand": "Mobicel",
+   "name": "F52VR",
+   "model": "F52"
+  }
+ ],
+ "F52VS": [
+  {
+   "brand": "Mobicel",
+   "name": "F52VS",
    "model": "F52"
   }
  ],
@@ -197169,6 +197273,13 @@
    "model": "N90"
   }
  ],
+ "INFINITY_V2": [
+  {
+   "brand": "Nexel",
+   "name": "INFINITY_V2",
+   "model": "INFINITY_V2"
+  }
+ ],
  "Infinity_Lite": [
   {
    "brand": "Nexel",
@@ -208065,6 +208176,20 @@
    "model": "CPH2863"
   }
  ],
+ "OP65AFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno17",
+   "model": "PYK110"
+  }
+ ],
+ "OP669FL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno17 Pro",
+   "model": "PND110"
+  }
+ ],
  "OP4B65L1": [
   {
    "brand": "Oppo",
@@ -209918,13 +210043,6 @@
    "brand": "Oukitel",
    "name": "C51_EEA",
    "model": "C51"
-  }
- ],
- "C53": [
-  {
-   "brand": "Oukitel",
-   "name": "C53",
-   "model": "C53"
   }
  ],
  "C57_Pro": [
@@ -211895,6 +212013,13 @@
    "brand": "PAITANRY",
    "name": "Y85",
    "model": "Y85"
+  }
+ ],
+ "Y85Pro": [
+  {
+   "brand": "PAITANRY",
+   "name": "Y85Pro",
+   "model": "Y85Pro"
   }
  ],
  "Y86": [
@@ -225661,6 +225786,13 @@
    "model": "M10"
   }
  ],
+ "M10_B09_US": [
+  {
+   "brand": "Pritom",
+   "name": "M10_B09_US",
+   "model": "M10"
+  }
+ ],
  "M10_B10": [
   {
    "brand": "Pritom",
@@ -235119,11 +235251,32 @@
    "model": "S6539Z"
   }
  ],
+ "S6712": [
+  {
+   "brand": "Ruio",
+   "name": "S6605",
+   "model": "S6605"
+  }
+ ],
  "S6705": [
   {
    "brand": "Ruio",
    "name": "S6705",
    "model": "S6705"
+  }
+ ],
+ "S6709M": [
+  {
+   "brand": "Ruio",
+   "name": "S6709M",
+   "model": "S6709M"
+  }
+ ],
+ "S6901": [
+  {
+   "brand": "Ruio",
+   "name": "S6901",
+   "model": "S6901"
   }
  ],
  "ZIP_PLUS": [
@@ -299672,6 +299825,18 @@
    "model": "X107"
   }
  ],
+ "X108K": [
+  {
+   "brand": "URAO",
+   "name": "X108K_EEA",
+   "model": "X108K"
+  },
+  {
+   "brand": "URAO",
+   "name": "X108K_G",
+   "model": "X108K"
+  }
+ ],
  "X109K": [
   {
    "brand": "URAO",
@@ -341270,6 +341435,11 @@
    "brand": "iQOO",
    "name": "iQOO Z11 Lite 44W 5G",
    "model": "I2515"
+  },
+  {
+   "brand": "iQOO",
+   "name": "iQOO Z12 Lite 5G",
+   "model": "I2516"
   }
  ],
  "I2501": [
@@ -346232,8 +346402,18 @@
   },
   {
    "brand": "vivo",
+   "name": "T6 Lite 5G",
+   "model": "V2667"
+  },
+  {
+   "brand": "vivo",
    "name": "Y11 5G",
    "model": "V2575"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y11s 5G",
+   "model": "V2669"
   },
   {
    "brand": "vivo",
@@ -346244,6 +346424,11 @@
    "brand": "vivo",
    "name": "Y21 5G",
    "model": "V2554"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y21s 5G",
+   "model": "V2670"
   }
  ],
  "V2529": [
