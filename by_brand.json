@@ -1338,6 +1338,11 @@
    "device": "T7",
    "name": "TSAI",
    "model": "T7"
+  },
+  {
+   "device": "Kiosk",
+   "name": "k22",
+   "model": "Kiosk"
   }
  ],
  "AIPLUS": [

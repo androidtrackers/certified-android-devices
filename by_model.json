@@ -5301,6 +5301,13 @@
    "device": "T7"
   }
  ],
+ "Kiosk": [
+  {
+   "brand": "AIOAPPInc",
+   "name": "k22",
+   "device": "Kiosk"
+  }
+ ],
  "AI+ Nova 1 5G": [
   {
    "brand": "AIPLUS",

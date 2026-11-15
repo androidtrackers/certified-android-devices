@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-14
+Last sync is 2026-11-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -254,6 +254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
 |AIDATA|ADT_1061|ADT_1061|ADT_1061|
 |AIOAPPInc|TSAI|T7|T7|
+|AIOAPPInc|k22|Kiosk|Kiosk|
 |AIPLUS|AI+ Nova 1 5G|Nova_1_5G|AI+ Nova 1 5G|
 |AIPLUS|AI+ Nova 2 5G|Nova_2_5G|AI+ Nova 2 5G|
 |AIPLUS|AI+ Nova 2 Neo|Nova_2_Neo|AI+ Nova 2 Neo|

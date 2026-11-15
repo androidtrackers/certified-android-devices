@@ -5438,6 +5438,13 @@
    "model": "T7"
   }
  ],
+ "Kiosk": [
+  {
+   "brand": "AIOAPPInc",
+   "name": "k22",
+   "model": "Kiosk"
+  }
+ ],
  "Nova_1_5G": [
   {
    "brand": "AIPLUS",
