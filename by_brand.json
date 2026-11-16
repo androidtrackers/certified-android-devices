@@ -26793,6 +26793,11 @@
    "model": "J13"
   },
   {
+   "device": "J0160",
+   "name": "J14",
+   "model": "J14"
+  },
+  {
    "device": "J0210",
    "name": "J5",
    "model": "J5"
@@ -27796,6 +27801,11 @@
    "device": "X0060",
    "name": "X6",
    "model": "X6"
+  },
+  {
+   "device": "X0080",
+   "name": "X7",
+   "model": "X7"
   }
  ],
  "Bluboo": [
@@ -28042,6 +28052,11 @@
    "device": "T30",
    "name": "T30",
    "model": "T30"
+  },
+  {
+   "device": "T40",
+   "name": "T40",
+   "model": "T40"
   },
   {
    "device": "VF550",
@@ -70975,6 +70990,11 @@
    "device": "H72-5G-M60",
    "name": "T-Smart-H72",
    "model": "T-Smart"
+  },
+  {
+   "device": "H72-4G-M50",
+   "name": "T-Smart-H72-4G",
+   "model": "T-Smart"
   }
  ],
  "HUIHUANG": [
@@ -73725,6 +73745,13 @@
    "device": "Yupiroid",
    "name": "Yupiroid",
    "model": "Yupiroid"
+  }
+ ],
+ "Hiroh": [
+  {
+   "device": "HRH_H1",
+   "name": "HRH_H1",
+   "model": "Hiroh H1"
   }
  ],
  "Hisense": [
@@ -80258,6 +80285,11 @@
   }
  ],
  "Hosan": [
+  {
+   "device": "A67U",
+   "name": "A67U",
+   "model": "A67U"
+  },
   {
    "device": "L62",
    "name": "L62",
@@ -90858,6 +90890,11 @@
  ],
  "IIIF150": [
   {
+   "device": "2707",
+   "name": "A8",
+   "model": "2707"
+  },
+  {
    "device": "Action_15",
    "name": "Action 15",
    "model": "Action 15"
@@ -91066,6 +91103,11 @@
    "device": "S2",
    "name": "IMO S2",
    "model": "IMO S2"
+  },
+  {
+   "device": "Q6_Pro",
+   "name": "Q6_Pro",
+   "model": "IMO Q6 Pro"
   }
  ],
  "IMOTOR": [
@@ -117717,6 +117759,11 @@
    "model": "LXX517"
   },
   {
+   "device": "LT4901",
+   "name": "Lava S91",
+   "model": "LAVA LT4901"
+  },
+  {
    "device": "Magnum_Pro",
    "name": "Magnum Pro",
    "model": "Magnum_Pro"
@@ -134077,6 +134124,11 @@
    "model": "MINTT_T11"
   },
   {
+   "device": "M_7",
+   "name": "M_7",
+   "model": "M_7"
+  },
+  {
    "device": "Mintt_M3",
    "name": "MinttM3",
    "model": "Mintt M3"
@@ -141481,6 +141533,11 @@
    "device": "lexl11g_64",
    "name": "LEX L11",
    "model": "LEX L11l"
+  },
+  {
+   "device": "lexl30",
+   "name": "LEX L30",
+   "model": "LEX L30"
   },
   {
    "device": "mkz_sdm660_64",
@@ -160556,6 +160613,11 @@
    "model": "CP10S_Pro"
   },
   {
+   "device": "CP10_ProK",
+   "name": "CP10_ProK",
+   "model": "CP10_Pro"
+  },
+  {
    "device": "CP20SA",
    "name": "CP20SA",
    "model": "CP20"
@@ -160769,6 +160831,11 @@
    "device": "ZB32A",
    "name": "ZB32A",
    "model": "ZB32A"
+  },
+  {
+   "device": "ZB32MiniK",
+   "name": "ZB32MiniK",
+   "model": "ZB32"
   },
   {
    "device": "ZB32ST",
@@ -164359,6 +164426,11 @@
    "model": "OT-310"
   },
   {
+   "device": "PA-115",
+   "name": "PA-115",
+   "model": "PA-115"
+  },
+  {
    "device": "SEI800PNTV",
    "name": "PartnerTV BOX",
    "model": "PartnerTV BOX"
@@ -165698,6 +165770,11 @@
    "device": "M10",
    "name": "M10",
    "model": "M10"
+  },
+  {
+   "device": "M1_P",
+   "name": "M1_P",
+   "model": "M1_P"
   },
   {
    "device": "M3PRO",
@@ -180506,6 +180583,11 @@
    "device": "S6539Z",
    "name": "S6539Z",
    "model": "S6539Z"
+  },
+  {
+   "device": "S6563",
+   "name": "S6563",
+   "model": "S6563"
   },
   {
    "device": "S6712",
@@ -204548,6 +204630,11 @@
    "model": "SH-53F"
   },
   {
+   "device": "Suletta",
+   "name": "AQUOS sense11",
+   "model": "SH-53G"
+  },
+  {
    "device": "MZW-u",
    "name": "AQUOS sense2",
    "model": "SHV43-u"
@@ -209473,6 +209560,11 @@
    "device": "Smarti_Gen_2_Plus",
    "name": "Smarti_Gen_2_Plus",
    "model": "Smarti_Gen_2_Plus"
+  },
+  {
+   "device": "Smarti_S6705",
+   "name": "Smarti_S6705",
+   "model": "Smarti S6705"
   }
  ],
  "Smartron": [
@@ -234041,6 +234133,11 @@
    "device": "P9",
    "name": "P9",
    "model": "P9_arm64"
+  },
+  {
+   "device": "UX",
+   "name": "UX",
+   "model": "UX"
   }
  ],
  "Telus": [
@@ -236714,6 +236811,13 @@
    "device": "MQ703G",
    "name": "MQ703G",
    "model": "MQ703G"
+  }
+ ],
+ "U-TRIBE": [
+  {
+   "device": "U17Pro_Max_4G",
+   "name": "U17Pro_Max_4G",
+   "model": "U17Pro Max 4G"
   }
  ],
  "UAUU": [
@@ -255692,6 +255796,11 @@
    "device": "Smartphone",
    "name": "XRZPro_EEA",
    "model": "XRZ"
+  },
+  {
+   "device": "Smartphone",
+   "name": "XRZPro_NON_EU",
+   "model": "XRZ"
   }
  ],
  "XRZDual2": [
@@ -269482,6 +269591,11 @@
   {
    "device": "TCW01L",
    "name": "TC201",
+   "model": "TC201"
+  },
+  {
+   "device": "TCW01L",
+   "name": "TC201",
    "model": "TC201L"
   },
   {
@@ -276320,6 +276434,11 @@
   {
    "device": "Mercury",
    "name": "Prowise_TSxG4",
+   "model": "LGA311D2"
+  },
+  {
+   "device": "Mercury",
+   "name": "Prowise_TSxG4",
    "model": "TSxG4"
   }
  ],
@@ -279256,6 +279375,11 @@
    "device": "V2576",
    "name": "V80 Lite 5G",
    "model": "V2644"
+  },
+  {
+   "device": "V2576",
+   "name": "V80 Lite 5G",
+   "model": "V2675"
   },
   {
    "device": "V2626",

@@ -45776,6 +45776,11 @@
    "brand": "XRZ(sz)",
    "name": "XRZPro_EEA",
    "model": "XRZ"
+  },
+  {
+   "brand": "XRZ(sz)",
+   "name": "XRZPro_NON_EU",
+   "model": "XRZ"
   }
  ],
  "BigTech_D2": [
@@ -51577,6 +51582,13 @@
    "model": "J13"
   }
  ],
+ "J0160": [
+  {
+   "brand": "Blu",
+   "name": "J14",
+   "model": "J14"
+  }
+ ],
  "J0210": [
   {
    "brand": "Blu",
@@ -52976,6 +52988,13 @@
    "model": "X6"
   }
  ],
+ "X0080": [
+  {
+   "brand": "Blu",
+   "name": "X7",
+   "model": "X7"
+  }
+ ],
  "BLUBOO_D1": [
   {
    "brand": "Bluboo",
@@ -53363,6 +53382,38 @@
    "brand": "Bluebird",
    "name": "ST103",
    "model": "ST103"
+  }
+ ],
+ "T40": [
+  {
+   "brand": "Bluebird",
+   "name": "T40",
+   "model": "T40"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "T40",
+   "model": "Panasonic T40"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T40",
+   "model": "TLA001"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T40_ROW",
+   "model": "TLA001"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "T40",
+   "model": "T40"
+  },
+  {
+   "brand": "Wiko",
+   "name": "WIKO T40",
+   "model": "ArkF-AF00"
   }
  ],
  "VF550": [
@@ -62053,6 +62104,11 @@
    "brand": "Turbopad",
    "name": "Mercury",
    "model": "Mercury"
+  },
+  {
+   "brand": "prowise",
+   "name": "Prowise_TSxG4",
+   "model": "LGA311D2"
   },
   {
    "brand": "prowise",
@@ -90325,6 +90381,11 @@
    "brand": "FOXXD",
    "name": "A67U",
    "model": "A67U"
+  },
+  {
+   "brand": "Hosan",
+   "name": "A67U",
+   "model": "A67U"
   }
  ],
  "A67W": [
@@ -108966,6 +109027,13 @@
    "model": "T-Smart"
   }
  ],
+ "H72-4G-M50": [
+  {
+   "brand": "HUGEROCK",
+   "name": "T-Smart-H72-4G",
+   "model": "T-Smart"
+  }
+ ],
  "E10_A": [
   {
    "brand": "HUIHUANG",
@@ -112000,6 +112068,13 @@
    "brand": "Hipstreet",
    "name": "Yupiroid",
    "model": "Yupiroid"
+  }
+ ],
+ "HRH_H1": [
+  {
+   "brand": "Hiroh",
+   "name": "HRH_H1",
+   "model": "Hiroh H1"
   }
  ],
  "AD683G": [
@@ -131516,6 +131591,13 @@
    "model": "TPSeries_1"
   }
  ],
+ "2707": [
+  {
+   "brand": "IIIF150",
+   "name": "A8",
+   "model": "2707"
+  }
+ ],
  "Action_15": [
   {
    "brand": "IIIF150",
@@ -131731,6 +131813,13 @@
    "brand": "IMO(In My Opinion)",
    "name": "IMO Q5",
    "model": "IMO Q5"
+  }
+ ],
+ "Q6_Pro": [
+  {
+   "brand": "IMO(In My Opinion)",
+   "name": "Q6_Pro",
+   "model": "IMO Q6 Pro"
   }
  ],
  "auto_rk_t60": [
@@ -161937,6 +162026,13 @@
    "model": "LXX517"
   }
  ],
+ "LT4901": [
+  {
+   "brand": "Lava",
+   "name": "Lava S91",
+   "model": "LAVA LT4901"
+  }
+ ],
  "Magnum_Pro": [
   {
    "brand": "Lava",
@@ -181990,6 +182086,13 @@
    "model": "MINTT_T11"
   }
  ],
+ "M_7": [
+  {
+   "brand": "Mintt",
+   "name": "M_7",
+   "model": "M_7"
+  }
+ ],
  "Mintt_M3": [
   {
    "brand": "Mintt",
@@ -190640,6 +190743,13 @@
    "brand": "Motorola Solutions",
    "name": "LEX L11",
    "model": "LEX L11l"
+  }
+ ],
+ "lexl30": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L30",
+   "model": "LEX L30"
   }
  ],
  "mkz_sdm660_64": [
@@ -212808,6 +212918,13 @@
    "model": "CP10S_Pro"
   }
  ],
+ "CP10_ProK": [
+  {
+   "brand": "PEICHENG",
+   "name": "CP10_ProK",
+   "model": "CP10_Pro"
+  }
+ ],
  "CP20SA": [
   {
    "brand": "PEICHENG",
@@ -213080,6 +213197,13 @@
    "brand": "PEICHENG",
    "name": "ZB32A",
    "model": "ZB32A"
+  }
+ ],
+ "ZB32MiniK": [
+  {
+   "brand": "PEICHENG",
+   "name": "ZB32MiniK",
+   "model": "ZB32"
   }
  ],
  "ZB32ST": [
@@ -216977,33 +217101,6 @@
    "model": "Panasonic T33"
   }
  ],
- "T40": [
-  {
-   "brand": "Panasonic",
-   "name": "T40",
-   "model": "Panasonic T40"
-  },
-  {
-   "brand": "Teclast",
-   "name": "T40",
-   "model": "TLA001"
-  },
-  {
-   "brand": "Teclast",
-   "name": "T40_ROW",
-   "model": "TLA001"
-  },
-  {
-   "brand": "Veidoo",
-   "name": "T40",
-   "model": "T40"
-  },
-  {
-   "brand": "Wiko",
-   "name": "WIKO T40",
-   "model": "ArkF-AF00"
-  }
- ],
  "T41": [
   {
    "brand": "Panasonic",
@@ -217734,6 +217831,13 @@
    "brand": "Partner",
    "name": "OT-310",
    "model": "OT-310"
+  }
+ ],
+ "PA-115": [
+  {
+   "brand": "Partner",
+   "name": "PA-115",
+   "model": "PA-115"
   }
  ],
  "SEI800PNTV": [
@@ -219211,6 +219315,13 @@
    "brand": "Phoenix Note",
    "name": "PPS2022-P156",
    "model": "PPS2022-P156"
+  }
+ ],
+ "M1_P": [
+  {
+   "brand": "Phone Max",
+   "name": "M1_P",
+   "model": "M1_P"
   }
  ],
  "M3PRO": [
@@ -235256,6 +235367,13 @@
    "brand": "Ruio",
    "name": "S6539Z",
    "model": "S6539Z"
+  }
+ ],
+ "S6563": [
+  {
+   "brand": "Ruio",
+   "name": "S6563",
+   "model": "S6563"
   }
  ],
  "S6712": [
@@ -263634,6 +263752,13 @@
    "model": "SH-53F"
   }
  ],
+ "Suletta": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense11",
+   "model": "SH-53G"
+  }
+ ],
  "MZW-u": [
   {
    "brand": "Sharp",
@@ -269315,6 +269440,13 @@
    "brand": "Smarti",
    "name": "Smarti_Gen_2_Plus",
    "model": "Smarti_Gen_2_Plus"
+  }
+ ],
+ "Smarti_S6705": [
+  {
+   "brand": "Smarti",
+   "name": "Smarti_S6705",
+   "model": "Smarti S6705"
   }
  ],
  "rimo02a": [
@@ -296752,6 +296884,13 @@
    "model": "Mobile POS"
   }
  ],
+ "UX": [
+  {
+   "brand": "Telpo",
+   "name": "UX",
+   "model": "UX"
+  }
+ ],
  "HMB2213PW22TS": [
   {
    "brand": "Telus",
@@ -299342,6 +299481,13 @@
    "brand": "Tv360 by Metfone",
    "name": "B866V2F",
    "model": "B866V2F"
+  }
+ ],
+ "U17Pro_Max_4G": [
+  {
+   "brand": "U-TRIBE",
+   "name": "U17Pro_Max_4G",
+   "model": "U17Pro Max 4G"
   }
  ],
  "T30_2023": [
@@ -335817,6 +335963,11 @@
   {
    "brand": "Zebra",
    "name": "TC201",
+   "model": "TC201"
+  },
+  {
+   "brand": "Zebra",
+   "name": "TC201",
    "model": "TC201L"
   }
  ],
@@ -346277,6 +346428,11 @@
    "brand": "vivo",
    "name": "V80 Lite 5G",
    "model": "V2644"
+  },
+  {
+   "brand": "vivo",
+   "name": "V80 Lite 5G",
+   "model": "V2675"
   }
  ],
  "PD2464": [
