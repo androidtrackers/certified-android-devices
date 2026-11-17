@@ -41888,6 +41888,27 @@
    "model": "ORBIT_MAX"
   }
  ],
+ "Bmobile_ORION_A2_TG06": [
+  {
+   "brand": "BMobile",
+   "name": "ORION_A2_TG06",
+   "model": "ORION_A2_TG06"
+  }
+ ],
+ "Bmobile_ORION_A2_TG07NI": [
+  {
+   "brand": "BMobile",
+   "name": "ORION_A2_TG07NI",
+   "model": "ORION_A2_TG07NI"
+  }
+ ],
+ "Bmobile_ORION_A3_TG05": [
+  {
+   "brand": "BMobile",
+   "name": "ORION_A3_TG05",
+   "model": "ORION_A3_TG05"
+  }
+ ],
  "Bmobile_ORION_TG05": [
   {
    "brand": "BMobile",
@@ -61981,6 +62002,13 @@
    "model": "CIGSEI100"
   }
  ],
+ "CM25": [
+  {
+   "brand": "Ciontek",
+   "name": "CM25",
+   "model": "CM25"
+  }
+ ],
  "CS20": [
   {
    "brand": "Ciontek",
@@ -63067,7 +63095,7 @@
  "MC8B654B": [
   {
    "brand": "Cloud_Mobile",
-   "name": "MC8B654B100136",
+   "name": "Stratus C8 Prime",
    "model": "MC8B654B"
   }
  ],
@@ -64984,13 +65012,20 @@
   },
   {
    "brand": "ConsumerCellular",
-   "name": "SN512CCM_UM",
-   "model": "SN512CCM"
+   "name": "IRlS Connect 2",
+   "model": "SN512CC"
   },
   {
    "brand": "ConsumerCellular",
    "name": "SpeakEasy Smart",
    "model": "SN512CCM"
+  }
+ ],
+ "PN500CC": [
+  {
+   "brand": "ConsumerCellular",
+   "name": "IRIS Tab",
+   "model": "PN500CC"
   }
  ],
  "CE10402": [
@@ -144190,6 +144225,27 @@
    "model": "101HH1C"
   }
  ],
+ "8HH1A": [
+  {
+   "brand": "KENSHI",
+   "name": "8HH1A",
+   "model": "8HH1A"
+  }
+ ],
+ "8HH1B": [
+  {
+   "brand": "KENSHI",
+   "name": "8HH1B",
+   "model": "8HH1B"
+  }
+ ],
+ "8HZ1A": [
+  {
+   "brand": "KENSHI",
+   "name": "8HZ1A",
+   "model": "8HZ1A"
+  }
+ ],
  "Armor_C1_Max": [
   {
    "brand": "KENSHI",
@@ -199300,6 +199356,13 @@
    "model": "NB55"
   }
  ],
+ "Notch_A100": [
+  {
+   "brand": "Notch",
+   "name": "Notch_A100",
+   "model": "Notch_A100"
+  }
+ ],
  "Spacewar": [
   {
    "brand": "Nothing",
@@ -231739,6 +231802,13 @@
    "model": "AF13_EEA"
   }
  ],
+ "AF14": [
+  {
+   "brand": "RebotAi",
+   "name": "AF14_EEA",
+   "model": "AF14"
+  }
+ ],
  "AF8_EEA": [
   {
    "brand": "RebotAi",
@@ -234794,6 +234864,13 @@
    "model": "R67T"
   }
  ],
+ "R67X": [
+  {
+   "brand": "Rogue mobile Inc",
+   "name": "R67X",
+   "model": "R67X"
+  }
+ ],
  "station2": [
   {
    "brand": "Rokid",
@@ -235381,6 +235458,11 @@
    "brand": "Ruio",
    "name": "S6605",
    "model": "S6605"
+  },
+  {
+   "brand": "Ruio",
+   "name": "S6712",
+   "model": "S6712"
   }
  ],
  "S6705": [
@@ -238928,6 +239010,13 @@
    "brand": "SUAAT",
    "name": "S10_V_US",
    "model": "S10_V_US"
+  }
+ ],
+ "S11_C": [
+  {
+   "brand": "SUAAT",
+   "name": "S11_C",
+   "model": "S11_C"
   }
  ],
  "S11_E": [
@@ -263756,7 +263845,17 @@
   {
    "brand": "Sharp",
    "name": "AQUOS sense11",
+   "model": "A605SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense11",
    "model": "SH-53G"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense11",
+   "model": "SH-M37"
   }
  ],
  "MZW-u": [
@@ -276484,6 +276583,13 @@
    "model": "Sirius Plus Tab 10"
   }
  ],
+ "Stylo_Helix": [
+  {
+   "brand": "Stylo",
+   "name": "Stylo Helix",
+   "model": "Stylo Helix"
+  }
+ ],
  "S40_Vida": [
   {
    "brand": "Stylo",
@@ -276496,6 +276602,13 @@
    "brand": "Stylo",
    "name": "Stylo_521",
    "model": "Stylo_521"
+  }
+ ],
+ "Stylo_Cyber": [
+  {
+   "brand": "Stylo",
+   "name": "Stylo_Cyber",
+   "model": "Stylo Cyber"
   }
  ],
  "Stylo_Viva": [
@@ -299988,6 +300101,11 @@
    "brand": "URAO",
    "name": "X108K_G",
    "model": "X108K"
+  },
+  {
+   "brand": "URAO",
+   "name": "X108K_US",
+   "model": "X108K"
   }
  ],
  "X109K": [
@@ -304049,6 +304167,13 @@
    "brand": "VALE",
    "name": "V12E-LTE",
    "model": "V12E-LTE-8128"
+  }
+ ],
+ "V12E_8128_LTE": [
+  {
+   "brand": "VALE",
+   "name": "V12E_8128_LTE",
+   "model": "V12E_LTE_8128"
   }
  ],
  "M790": [
@@ -346974,6 +347099,11 @@
   },
   {
    "brand": "vivo",
+   "name": "Y05",
+   "model": "V2664"
+  },
+  {
+   "brand": "vivo",
    "name": "Y05i",
    "model": "V2556"
   },
@@ -346981,6 +347111,11 @@
    "brand": "vivo",
    "name": "Y05i",
    "model": "V2650"
+  },
+  {
+   "brand": "vivo",
+   "name": "Y05s",
+   "model": "V2668"
   },
   {
    "brand": "vivo",

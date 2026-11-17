@@ -19910,6 +19910,21 @@
    "model": "ORBIT_MAX"
   },
   {
+   "device": "Bmobile_ORION_A2_TG06",
+   "name": "ORION_A2_TG06",
+   "model": "ORION_A2_TG06"
+  },
+  {
+   "device": "Bmobile_ORION_A2_TG07NI",
+   "name": "ORION_A2_TG07NI",
+   "model": "ORION_A2_TG07NI"
+  },
+  {
+   "device": "Bmobile_ORION_A3_TG05",
+   "name": "ORION_A3_TG05",
+   "model": "ORION_A3_TG05"
+  },
+  {
    "device": "Bmobile_ORION_TG05",
    "name": "ORION_TG05",
    "model": "ORION_TG05"
@@ -34297,6 +34312,11 @@
  ],
  "Ciontek": [
   {
+   "device": "CM25",
+   "name": "CM25",
+   "model": "CM25"
+  },
+  {
    "device": "CS20",
    "name": "CS20",
    "model": "CS20"
@@ -35120,7 +35140,7 @@
   },
   {
    "device": "MC8B654B",
-   "name": "MC8B654B100136",
+   "name": "Stratus C8 Prime",
    "model": "MC8B654B"
   },
   {
@@ -36650,9 +36670,14 @@
    "model": "SN512CC"
   },
   {
+   "device": "PN500CC",
+   "name": "IRIS Tab",
+   "model": "PN500CC"
+  },
+  {
    "device": "SN512CC",
-   "name": "SN512CCM_UM",
-   "model": "SN512CCM"
+   "name": "IRlS Connect 2",
+   "model": "SN512CC"
   },
   {
    "device": "SN512CC",
@@ -101664,6 +101689,21 @@
    "model": "101HH1C"
   },
   {
+   "device": "8HH1A",
+   "name": "8HH1A",
+   "model": "8HH1A"
+  },
+  {
+   "device": "8HH1B",
+   "name": "8HH1B",
+   "model": "8HH1B"
+  },
+  {
+   "device": "8HZ1A",
+   "name": "8HZ1A",
+   "model": "8HZ1A"
+  },
+  {
    "device": "Armor_C1_Max",
    "name": "Armor C1 Max",
    "model": "Armor C1 Max"
@@ -148933,6 +148973,13 @@
    "model": "NB55"
   }
  ],
+ "Notch": [
+  {
+   "device": "Notch_A100",
+   "name": "Notch_A100",
+   "model": "Notch_A100"
+  }
+ ],
  "Nothing": [
   {
    "device": "Spacewar",
@@ -176596,6 +176643,11 @@
    "model": "AF13_EEA"
   },
   {
+   "device": "AF14",
+   "name": "AF14_EEA",
+   "model": "AF14"
+  },
+  {
    "device": "AF8_EEA",
    "name": "AF8_EEA",
    "model": "AF8_EEA"
@@ -180082,6 +180134,11 @@
    "device": "R67T",
    "name": "R67T",
    "model": "R67T"
+  },
+  {
+   "device": "R67X",
+   "name": "R67X",
+   "model": "R67X"
   }
  ],
  "Rokid": [
@@ -180603,6 +180660,11 @@
    "device": "S6709M",
    "name": "S6709M",
    "model": "S6709M"
+  },
+  {
+   "device": "S6712",
+   "name": "S6712",
+   "model": "S6712"
   },
   {
    "device": "S6901",
@@ -183934,6 +183996,11 @@
    "device": "S10_V_US",
    "name": "S10_V_US",
    "model": "S10_V_US"
+  },
+  {
+   "device": "S11_C",
+   "name": "S11_C",
+   "model": "S11_C"
   },
   {
    "device": "S11_E",
@@ -204632,7 +204699,17 @@
   {
    "device": "Suletta",
    "name": "AQUOS sense11",
+   "model": "A605SH"
+  },
+  {
+   "device": "Suletta",
+   "name": "AQUOS sense11",
    "model": "SH-53G"
+  },
+  {
+   "device": "Suletta",
+   "name": "AQUOS sense11",
+   "model": "SH-M37"
   },
   {
    "device": "MZW-u",
@@ -215315,6 +215392,11 @@
    "model": "Sirius Plus Tab 10"
   },
   {
+   "device": "Stylo_Helix",
+   "name": "Stylo Helix",
+   "model": "Stylo Helix"
+  },
+  {
    "device": "S40_Vida",
    "name": "Stylo S40",
    "model": "Stylo S40"
@@ -215323,6 +215405,11 @@
    "device": "Stylo_521",
    "name": "Stylo_521",
    "model": "Stylo_521"
+  },
+  {
+   "device": "Stylo_Cyber",
+   "name": "Stylo_Cyber",
+   "model": "Stylo Cyber"
   },
   {
    "device": "Stylo_Viva",
@@ -237423,6 +237510,11 @@
    "model": "X108K"
   },
   {
+   "device": "X108K",
+   "name": "X108K_US",
+   "model": "X108K"
+  },
+  {
    "device": "X108",
    "name": "X108_EEA",
    "model": "X108"
@@ -240905,6 +240997,11 @@
    "device": "V12E-LTE",
    "name": "V12E-LTE",
    "model": "V12E-LTE-8128"
+  },
+  {
+   "device": "V12E_8128_LTE",
+   "name": "V12E_8128_LTE",
+   "model": "V12E_LTE_8128"
   }
  ],
  "VALERION": [
@@ -279557,6 +279654,11 @@
    "model": "V2565"
   },
   {
+   "device": "V2556",
+   "name": "Y05",
+   "model": "V2664"
+  },
+  {
    "device": "V2606",
    "name": "Y05e",
    "model": "V2606"
@@ -279570,6 +279672,11 @@
    "device": "V2556",
    "name": "Y05i",
    "model": "V2650"
+  },
+  {
+   "device": "V2556",
+   "name": "Y05s",
+   "model": "V2668"
   },
   {
    "device": "V2553",

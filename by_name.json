@@ -38309,6 +38309,27 @@
    "model": "ORBIT_MAX"
   }
  ],
+ "ORION_A2_TG06": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_ORION_A2_TG06",
+   "model": "ORION_A2_TG06"
+  }
+ ],
+ "ORION_A2_TG07NI": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_ORION_A2_TG07NI",
+   "model": "ORION_A2_TG07NI"
+  }
+ ],
+ "ORION_A3_TG05": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_ORION_A3_TG05",
+   "model": "ORION_A3_TG05"
+  }
+ ],
  "ORION_TG05": [
   {
    "brand": "BMobile",
@@ -59284,6 +59305,13 @@
    "model": "CIGSEI100"
   }
  ],
+ "CM25": [
+  {
+   "brand": "Ciontek",
+   "device": "CM25",
+   "model": "CM25"
+  }
+ ],
  "CS20": [
   {
    "brand": "Ciontek",
@@ -60345,7 +60373,7 @@
    "model": "Stratus C9 Prime"
   }
  ],
- "MC8B654B100136": [
+ "Stratus C8 Prime": [
   {
    "brand": "Cloud_Mobile",
    "device": "MC8B654B",
@@ -62590,11 +62618,18 @@
    "model": "SN512CC"
   }
  ],
- "SN512CCM_UM": [
+ "IRIS Tab": [
+  {
+   "brand": "ConsumerCellular",
+   "device": "PN500CC",
+   "model": "PN500CC"
+  }
+ ],
+ "IRlS Connect 2": [
   {
    "brand": "ConsumerCellular",
    "device": "SN512CC",
-   "model": "SN512CCM"
+   "model": "SN512CC"
   }
  ],
  "SpeakEasy Smart": [
@@ -142891,6 +142926,27 @@
    "model": "101HH1C"
   }
  ],
+ "8HH1A": [
+  {
+   "brand": "KENSHI",
+   "device": "8HH1A",
+   "model": "8HH1A"
+  }
+ ],
+ "8HH1B": [
+  {
+   "brand": "KENSHI",
+   "device": "8HH1B",
+   "model": "8HH1B"
+  }
+ ],
+ "8HZ1A": [
+  {
+   "brand": "KENSHI",
+   "device": "8HZ1A",
+   "model": "8HZ1A"
+  }
+ ],
  "Armor C1 Max": [
   {
    "brand": "KENSHI",
@@ -197547,6 +197603,13 @@
    "model": "NB55"
   }
  ],
+ "Notch_A100": [
+  {
+   "brand": "Notch",
+   "device": "Notch_A100",
+   "model": "Notch_A100"
+  }
+ ],
  "Nothing Phone (1)": [
   {
    "brand": "Nothing",
@@ -230611,6 +230674,13 @@
    "model": "AF13_EEA"
   }
  ],
+ "AF14_EEA": [
+  {
+   "brand": "RebotAi",
+   "device": "AF14",
+   "model": "AF14"
+  }
+ ],
  "AF8_EEA": [
   {
    "brand": "RebotAi",
@@ -234987,6 +235057,13 @@
    "model": "R67T"
   }
  ],
+ "R67X": [
+  {
+   "brand": "Rogue mobile Inc",
+   "device": "R67X",
+   "model": "R67X"
+  }
+ ],
  "station2": [
   {
    "brand": "Rokid",
@@ -235618,6 +235695,13 @@
    "brand": "Ruio",
    "device": "S6709M",
    "model": "S6709M"
+  }
+ ],
+ "S6712": [
+  {
+   "brand": "Ruio",
+   "device": "S6712",
+   "model": "S6712"
   }
  ],
  "S6901": [
@@ -239318,6 +239402,13 @@
    "brand": "SUAAT",
    "device": "S10_V_US",
    "model": "S10_V_US"
+  }
+ ],
+ "S11_C": [
+  {
+   "brand": "SUAAT",
+   "device": "S11_C",
+   "model": "S11_C"
   }
  ],
  "S11_E": [
@@ -262240,7 +262331,17 @@
   {
    "brand": "Sharp",
    "device": "Suletta",
+   "model": "A605SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "Suletta",
    "model": "SH-53G"
+  },
+  {
+   "brand": "Sharp",
+   "device": "Suletta",
+   "model": "SH-M37"
   }
  ],
  "AQUOS sense2": [
@@ -274617,6 +274718,13 @@
    "model": "Sirius Plus Tab 10"
   }
  ],
+ "Stylo Helix": [
+  {
+   "brand": "Stylo",
+   "device": "Stylo_Helix",
+   "model": "Stylo Helix"
+  }
+ ],
  "Stylo S40": [
   {
    "brand": "Stylo",
@@ -274629,6 +274737,13 @@
    "brand": "Stylo",
    "device": "Stylo_521",
    "model": "Stylo_521"
+  }
+ ],
+ "Stylo_Cyber": [
+  {
+   "brand": "Stylo",
+   "device": "Stylo_Cyber",
+   "model": "Stylo Cyber"
   }
  ],
  "Stylo_Viva": [
@@ -299566,6 +299681,13 @@
    "model": "X108K"
   }
  ],
+ "X108K_US": [
+  {
+   "brand": "URAO",
+   "device": "X108K",
+   "model": "X108K"
+  }
+ ],
  "X108_EEA": [
   {
    "brand": "URAO",
@@ -303846,6 +303968,13 @@
    "brand": "VALE",
    "device": "V12E-LTE",
    "model": "V12E-LTE-8128"
+  }
+ ],
+ "V12E_8128_LTE": [
+  {
+   "brand": "VALE",
+   "device": "V12E_8128_LTE",
+   "model": "V12E_LTE_8128"
   }
  ],
  "VisionMaster": [
@@ -347723,6 +347852,11 @@
    "brand": "vivo",
    "device": "V2556",
    "model": "V2565"
+  },
+  {
+   "brand": "vivo",
+   "device": "V2556",
+   "model": "V2664"
   }
  ],
  "Y05e": [
@@ -347742,6 +347876,13 @@
    "brand": "vivo",
    "device": "V2556",
    "model": "V2650"
+  }
+ ],
+ "Y05s": [
+  {
+   "brand": "vivo",
+   "device": "V2556",
+   "model": "V2668"
   }
  ],
  "Y11 5G": [
