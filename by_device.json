@@ -27651,58 +27651,6 @@
    "model": "Tab G6 Max"
   }
  ],
- "S2": [
-  {
-   "brand": "Anyreal",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Bluboo",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Cellecor",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "IMO(In My Opinion)",
-   "name": "IMO S2",
-   "model": "IMO S2"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Lexia Mobile",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "MAXHUB",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "MyFon",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Smooth",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
-   "brand": "Xstar",
-   "name": "S2",
-   "model": "S2"
-  }
- ],
  "T2-AR": [
   {
    "brand": "Anyreal",
@@ -36747,6 +36695,13 @@
    "brand": "Aura",
    "name": "Smart_Landline_AC7",
    "model": "Smart Landline AC7 Tablet"
+  }
+ ],
+ "ORBIT_AIO136COBF": [
+  {
+   "brand": "AuraVision",
+   "name": "ORBIT_AIO136COBF",
+   "model": "ORBIT_AIO136COBF"
   }
  ],
  "TB-701": [
@@ -49071,6 +49026,11 @@
    "brand": "ORION",
    "name": "ORION",
    "model": "ORION 2KTV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Thomson",
+   "model": "Thomson2K"
   }
  ],
  "ewha": [
@@ -53096,6 +53056,58 @@
    "brand": "Bluboo",
    "name": "S1a",
    "model": "S1a"
+  }
+ ],
+ "S2": [
+  {
+   "brand": "Bluboo",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Cellecor",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "IMO(In My Opinion)",
+   "name": "IMO S2",
+   "model": "IMO S2"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Lexia Mobile",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "MAXHUB",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "MyFon",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Senifone",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Smooth",
+   "name": "S2",
+   "model": "S2"
+  },
+  {
+   "brand": "Xstar",
+   "name": "S2",
+   "model": "S2"
   }
  ],
  "S3": [
@@ -69962,6 +69974,13 @@
    "brand": "Cyrus",
    "name": "CS75XA_EEA",
    "model": "CS75XA"
+  }
+ ],
+ "CS75XB": [
+  {
+   "brand": "Cyrus",
+   "name": "CS75XB",
+   "model": "CS75XB"
   }
  ],
  "ORSY_Controller": [
@@ -89858,6 +89877,13 @@
    "brand": "FOSSiBOT",
    "name": "C17 SE",
    "model": "C17 SE"
+  }
+ ],
+ "C17_X": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "C17_X_EEA_GO",
+   "model": "C17 X"
   }
  ],
  "DT1_Lite": [
@@ -130690,6 +130716,13 @@
    "model": "10WC1"
   }
  ],
+ "HT10WC1MSG03_EEA": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10WC1MSG03_EEA",
+   "model": "10WC1"
+  }
+ ],
  "HT10WC1MSG03_US": [
   {
    "brand": "Hyundai",
@@ -162160,6 +162193,13 @@
    "brand": "Lava",
    "name": "Smart 4",
    "model": "LAVA LZG414"
+  }
+ ],
+ "LZX422": [
+  {
+   "brand": "Lava",
+   "name": "Smart 4 Pro",
+   "model": "LAVA LZX422"
   }
  ],
  "LTN10RT": [
@@ -195815,6 +195855,13 @@
    "brand": "NOWO",
    "name": "DV 8935 X4",
    "model": "DV 8935 X4"
+  }
+ ],
+ "A18_Pro_Max": [
+  {
+   "brand": "NO_NAME",
+   "name": "A18_Pro_Max",
+   "model": "A18_Pro_Max"
   }
  ],
  "TAB-700": [
@@ -234949,11 +234996,6 @@
    "brand": "RugOne",
    "name": "Xever 7",
    "model": "Xever 7"
-  },
-  {
-   "brand": "RugOne",
-   "name": "Xever 7 Pro",
-   "model": "Xever 7"
   }
  ],
  "GR1000BF1": [
@@ -234963,13 +235005,8 @@
    "model": "Xever 7 Pro"
   },
   {
-   "brand": "RugOne",
-   "name": "Xever 7 Pro Thermal",
-   "model": "Xever 7 Pro"
-  },
-  {
    "brand": "RuggON",
-   "name": "Xever 7 Pro Thermal",
+   "name": "Xever 7 Pro",
    "model": "Xever 7 Pro"
   }
  ],
@@ -239776,6 +239813,13 @@
    "brand": "SVITOO",
    "name": "P10_D_US",
    "model": "P10_D"
+  }
+ ],
+ "P10_T1": [
+  {
+   "brand": "SVITOO",
+   "name": "P10_T1_EEA",
+   "model": "P10_T"
   }
  ],
  "P10_T": [
@@ -291935,6 +291979,13 @@
    "model": "P50T"
   }
  ],
+ "P50_BB_US": [
+  {
+   "brand": "Teclast",
+   "name": "P50_BB_US",
+   "model": "P50_BB_US"
+  }
+ ],
  "P50_B_EEA": [
   {
    "brand": "Teclast",
@@ -342434,6 +342485,13 @@
    "brand": "iWaylink",
    "name": "TC603B_P",
    "model": "TC603B_GWL"
+  }
+ ],
+ "A60_S": [
+  {
+   "brand": "iYOU",
+   "name": "A60_S",
+   "model": "A60S"
   }
  ],
  "iYOU_M1": [

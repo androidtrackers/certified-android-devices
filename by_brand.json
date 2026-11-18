@@ -10720,11 +10720,6 @@
    "model": "Tab G6 Max"
   },
   {
-   "device": "S2",
-   "name": "S2",
-   "model": "S2"
-  },
-  {
    "device": "T2-AR",
    "name": "T2-AR",
    "model": "U11"
@@ -16688,6 +16683,13 @@
    "device": "SMART_LL_AC7",
    "name": "Smart_Landline_AC7",
    "model": "Smart Landline AC7 Tablet"
+  }
+ ],
+ "AuraVision": [
+  {
+   "device": "ORBIT_AIO136COBF",
+   "name": "ORBIT_AIO136COBF",
+   "model": "ORBIT_AIO136COBF"
   }
  ],
  "Auris": [
@@ -39864,6 +39866,11 @@
    "model": "CS75XA"
   },
   {
+   "device": "CS75XB",
+   "name": "CS75XB",
+   "model": "CS75XB"
+  },
+  {
    "device": "ORSY_Controller",
    "name": "ORSY_Controller",
    "model": "ORSY_Controller"
@@ -55462,6 +55469,11 @@
    "device": "C17_SE",
    "name": "C17 SE",
    "model": "C17 SE"
+  },
+  {
+   "device": "C17_X",
+   "name": "C17_X_EEA_GO",
+   "model": "C17 X"
   },
   {
    "device": "DT1_Lite",
@@ -89975,6 +89987,11 @@
    "model": "10WC1"
   },
   {
+   "device": "HT10WC1MSG03_EEA",
+   "name": "HT10WC1MSG03_EEA",
+   "model": "10WC1"
+  },
+  {
    "device": "HT10WC1MSG03_US",
    "name": "HT10WC1MSG03_US",
    "model": "10WC1"
@@ -117874,6 +117891,11 @@
    "model": "LAVA LZG414"
   },
   {
+   "device": "LZX422",
+   "name": "Smart 4 Pro",
+   "model": "LAVA LZX422"
+  },
+  {
    "device": "LTN10RT",
    "name": "T101",
    "model": "LTN10RT"
@@ -145655,6 +145677,13 @@
    "device": "DV8935-KPN",
    "name": "DV 8935 X4",
    "model": "DV 8935 X4"
+  }
+ ],
+ "NO_NAME": [
+  {
+   "device": "A18_Pro_Max",
+   "name": "A18_Pro_Max",
+   "model": "A18_Pro_Max"
   }
  ],
  "NPsystem": [
@@ -180256,16 +180285,6 @@
    "model": "Xever 7 Pro"
   },
   {
-   "device": "GR1000BF2",
-   "name": "Xever 7 Pro",
-   "model": "Xever 7"
-  },
-  {
-   "device": "GR1000BF1",
-   "name": "Xever 7 Pro Thermal",
-   "model": "Xever 7 Pro"
-  },
-  {
    "device": "GR1001TF1",
    "name": "Xever 8",
    "model": "Xever 8"
@@ -180304,7 +180323,7 @@
   },
   {
    "device": "GR1000BF1",
-   "name": "Xever 7 Pro Thermal",
+   "name": "Xever 7 Pro",
    "model": "Xever 7 Pro"
   }
  ],
@@ -184600,6 +184619,11 @@
    "device": "P10_D",
    "name": "P10_D_US",
    "model": "P10_D"
+  },
+  {
+   "device": "P10_T1",
+   "name": "P10_T1_EEA",
+   "model": "P10_T"
   },
   {
    "device": "P10_T",
@@ -203365,6 +203389,13 @@
    "device": "SS10A_EEA",
    "name": "SS10A_EEA",
    "model": "SS10A_EEA"
+  }
+ ],
+ "Senifone": [
+  {
+   "device": "S2",
+   "name": "S2",
+   "model": "S2"
   }
  ],
  "SenlinTech": [
@@ -230170,6 +230201,11 @@
    "model": "P50T"
   },
   {
+   "device": "P50_BB_US",
+   "name": "P50_BB_US",
+   "model": "P50_BB_US"
+  },
+  {
    "device": "P50_B_EEA",
    "name": "P50_B_EEA",
    "model": "P50"
@@ -234879,6 +234915,11 @@
    "device": "TLINK455",
    "name": "TLink 455",
    "model": "TLINK455"
+  },
+  {
+   "device": "dongmae",
+   "name": "Thomson",
+   "model": "Thomson2K"
   },
   {
    "device": "YZF",
@@ -275430,6 +275471,11 @@
    "device": "A30",
    "name": "A30",
    "model": "A30"
+  },
+  {
+   "device": "A60_S",
+   "name": "A60_S",
+   "model": "A60S"
   },
   {
    "device": "iYOU_M1",

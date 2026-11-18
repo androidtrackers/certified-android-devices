@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-17
+Last sync is 2026-11-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2054,7 +2054,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Anyreal|P5C-AR|P5C-AR|U13|
 |Anyreal|P8-AR|P8-AR|Tab G6 Max|
 |Anyreal|P8S-AR|P8S-AR|Tab G6 Max|
-|Anyreal|S2|S2|S2|
 |Anyreal|T2-AR|T2-AR|U11|
 |Anyreal|T2C-AR|T2C-AR|Tab A9+|
 |Anyreal|T2CS-AR|T2CS-AR|Tab A9 Pro+|
@@ -3228,6 +3227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aura|DemoPad|DemoPad|DemoPad|
 |Aura|Lite8|Lite8|Lite8|
 |Aura|Smart_Landline_AC7|SMART_LL_AC7|Smart Landline AC7 Tablet|
+|AuraVision|ORBIT_AIO136COBF|ORBIT_AIO136COBF|ORBIT_AIO136COBF|
 |Auris|TB-701|TB-701|TB-701|
 |Austrostream|TV Box|SEID00ORS|TV Box|
 |Avaya|Vantage|K175|Avaya Vantage|
@@ -7700,6 +7700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cyrus|CS45XA_EEA|CS45XA2|CS45XA_EEA|
 |Cyrus|CS45XA_EEA|CS45XA_EEA|CS45XA_EEA|
 |Cyrus|CS75XA_EEA|CS75XA|CS75XA|
+|Cyrus|CS75XB|CS75XB|CS75XB|
 |Cyrus|ORSY_Controller|ORSY_Controller|ORSY_Controller|
 |D-Tech|D5L|D5-L|D5-L|
 |D-Tech|D5L|D5L|D5L|
@@ -10676,6 +10677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FORCO|K1028G|K1028G|K1028G|
 |FORCO|K8T|K8T|K8T|
 |FOSSiBOT|C17 SE|C17_SE|C17 SE|
+|FOSSiBOT|C17_X_EEA_GO|C17_X|C17 X|
 |FOSSiBOT|DT1 Lite|DT1_Lite|DT1 Lite|
 |FOSSiBOT|DT1_Lite|DT1_Lite|DT1 Lite|
 |FOSSiBOT|DT2|DT2|DT2|
@@ -17431,6 +17433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10WC1MSG01_EEA|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG01_US|HT10WC1MSG01|10WC1|
 |Hyundai|HT10WC1MSG03|HT10WC1MSG03|10WC1|
+|Hyundai|HT10WC1MSG03_EEA|HT10WC1MSG03_EEA|10WC1|
 |Hyundai|HT10WC1MSG03_US|HT10WC1MSG03_US|10WC1|
 |Hyundai|HT7GB1MBK_|HT7GB1MBK_|7GB1|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
@@ -22862,6 +22865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Shark 2 5G|LXX528|LAVA LXX528|
 |Lava|Shark 3 5G|LXX532|LAVA LXX532|
 |Lava|Smart 4|LZG414|LAVA LZG414|
+|Lava|Smart 4 Pro|LZX422|LAVA LZX422|
 |Lava|T101|LTN10RT|LTN10RT|
 |Lava|T101|T101|T101|
 |Lava|T101N|T101N|T101N|
@@ -28273,6 +28277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOWADA|NWD_G5|G5|NWD_G5|
 |NOWO|DV 8535 4K|DV8535-KPN|DV 8535 4K|
 |NOWO|DV 8935 X4|DV8935-KPN|DV 8935 X4|
+|NO_NAME|A18_Pro_Max|A18_Pro_Max|A18_Pro_Max|
 |NPsystem|TAB-700|TAB-700|TAB-700|
 |NSDEVIL|ET1095A|ET1095A|ET1095A|
 |NSPRE|NX-20PRO1|NX-20PRO1|NX-20PRO1|
@@ -34994,8 +34999,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Royqueen|RQ-768|RQ-768|RQ-768|
 |RugOne|Xever 7|GR1000BF2|Xever 7|
 |RugOne|Xever 7 Pro|GR1000BF1|Xever 7 Pro|
-|RugOne|Xever 7 Pro|GR1000BF2|Xever 7|
-|RugOne|Xever 7 Pro Thermal|GR1000BF1|Xever 7 Pro|
 |RugOne|Xever 8|GR1001TF1|Xever 8|
 |RugOne|Xsnap 7 Pro|GR1002AF1|Xsnap 7 Pro|
 |RuggON|MT7030|MT7030|MT7030|
@@ -35003,7 +35006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RuggON|PA501|PA501BW|PA501|
 |RuggON|PA501BGR|PA501BGR|PA501BGR|
 |RuggON|PA501BWR|PA501BWR|PA501BWR|
-|RuggON|Xever 7 Pro Thermal|GR1000BF1|Xever 7 Pro|
+|RuggON|Xever 7 Pro|GR1000BF1|Xever 7 Pro|
 |Ruggear|CP250|cp250_gts|cp250_gts|
 |Ruggear|DEWALT MD501|md501|DeWalt MD501|
 |Ruggear|IMO S|IMO_S|IMO_S|
@@ -35814,6 +35817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_D_EEA|P10_D|P10_D|
 |SVITOO|P10_D_ROW|P10_D|P10_D|
 |SVITOO|P10_D_US|P10_D|P10_D|
+|SVITOO|P10_T1_EEA|P10_T1|P10_T|
 |SVITOO|P10_T_EEA|P10_T|P10_T|
 |SVITOO|P10_T_US|P10_T|P10_T|
 |SVITOO|P10_pro|P10|P10|
@@ -39549,6 +39553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Semeakoko|SS1010|SS1010|SS1010|
 |Semeakoko|SS10A|SS10A|SS10A|
 |Semeakoko|SS10A_EEA|SS10A_EEA|SS10A_EEA|
+|Senifone|S2|S2|S2|
 |SenlinTech|S12_Pro|S12_Pro|S12_Pro|
 |SenlinTech|S12_Pro_EEA|S12_Pro_EEA|S12_Pro|
 |SenlinTech|S30-Pro|S30-Pro|S30-Pro|
@@ -44790,6 +44795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50T_Y_EEA|P50T_Y|P50T|
 |Teclast|P50T_Y_ROW|P50T_Y|P50T|
 |Teclast|P50T_Y_US|P50T_Y|P50T|
+|Teclast|P50_BB_US|P50_BB_US|P50_BB_US|
 |Teclast|P50_B_EEA|P50_B_EEA|P50|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B|
 |Teclast|P50_B_EEA|P50_B_EEA|P50_B_EEA|
@@ -45713,6 +45719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
 |Thomson|THOMSON_TEO10S|TEO10S|TEO10S|
 |Thomson|TLink 455|TLINK455|TLINK455|
+|Thomson|Thomson|dongmae|Thomson2K|
 |Thomson|Thomson 140G|YZF|Thomson 140G|
 |Thomson|Thomson Smart TV|dongnae|Thomson Smart TV|
 |Thomson|Thomson T50|Thomson_T50|Thomson T50|
@@ -53574,6 +53581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC603B_P|TC603B_GWL|TC603B_GWL|
 |iYOU|A10|A10|A10|
 |iYOU|A30|A30|A30|
+|iYOU|A60_S|A60_S|A60S|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |i_con|V1|V1|V1|
 |i_smart|i_smart_Interactive_Whiteboard|oversea_v|ISA_AN15|
