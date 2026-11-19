@@ -99620,6 +99620,11 @@
    "model": "R500_V_US"
   },
   {
+   "device": "R600_C",
+   "name": "R600_C",
+   "model": "R600_C"
+  },
+  {
    "device": "R600_U",
    "name": "R600_U",
    "model": "R600_U"
@@ -103337,6 +103342,11 @@
    "device": "mountbaker",
    "name": "NEXUS",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "templeton",
+   "name": "NITORI",
+   "model": "NITORI SMART TV"
   },
   {
    "device": "elliniko",
@@ -117191,6 +117201,13 @@
    "device": "llium_Pad_L8",
    "name": "llium Pad L8",
    "model": "llium Pad L8"
+  }
+ ],
+ "Lanodo": [
+  {
+   "device": "PT10",
+   "name": "PT10",
+   "model": "PT10"
   }
  ],
  "Laptok": [
@@ -202391,6 +202408,11 @@
    "model": "SAMSUNG-SGH-I997R"
   },
   {
+   "device": "jinju",
+   "name": "Intelligent Eyewear",
+   "model": "SM-O200P"
+  },
+  {
    "device": "j1minivelte",
    "name": "J1 Mini Prime",
    "model": "SM-J106F"
@@ -203307,6 +203329,11 @@
    "device": "polaris",
    "name": "BrailleSense Polaris",
    "model": "BrailleSensePolaris"
+  },
+  {
+   "device": "BrailleSense7",
+   "name": "BrailleSense7",
+   "model": "H732B"
   },
   {
    "device": "BrailleSense7",
@@ -232906,6 +232933,11 @@
    "device": "TECNO-KN4",
    "name": "TECNO SPARK 50/50S",
    "model": "TECNO KN4"
+  },
+  {
+   "device": "TECNO-KO3",
+   "name": "TECNO SPARK 50C",
+   "model": "TECNO KO3"
   },
   {
    "device": "TECNO-KN8s",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-18
+Last sync is 2026-11-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19302,6 +19302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JUEDUR|R500_U|R500_U|R500_U|
 |JUEDUR|R500_V_EEA|R500_V_EEA|R500_V_EEA|
 |JUEDUR|R500_V_US|R500_V_US|R500_V_US|
+|JUEDUR|R600_C|R600_C|R600_C|
 |JUEDUR|R600_U|R600_U|R600_U|
 |JUEDUR|R700_EEA|R700_EEA|R700_EEA|
 |JUEDUR|R700_US|R700_US|R700_US|
@@ -20013,6 +20014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|NEXTSTAR|elliniko|NEXTSTAR SMART TV|
 |KTCtv|NEXUS|lavender|4K SMART TV|
 |KTCtv|NEXUS|mountbaker|2K SMART TV|
+|KTCtv|NITORI|templeton|NITORI SMART TV|
 |KTCtv|ONN|elliniko|4K SMART TV|
 |KTCtv|OZON|stanford|2K SMART TV|
 |KTCtv|OZON|zhongshan|4K SMART TV|
@@ -22727,6 +22729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|ilium_PAD_RX10|RX10V6|Ilium_PAD_RX10V6|
 |Lanix|ilium_S106|Ilium_S106|Ilium S106|
 |Lanix|llium Pad L8|llium_Pad_L8|llium Pad L8|
+|Lanodo|PT10|PT10|PT10|
 |Laptok|G11|G11|G11|
 |Laptok|G11L|G11L|G11L|
 |Laptok|G11L_EEA|G11L|G11L|
@@ -39365,6 +39368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Illusion|SCH-I110|SCH-I110|
 |Samsung|Infuse|SGH-I997|SAMSUNG-SGH-I997|
 |Samsung|Infuse|SGH-I997R|SAMSUNG-SGH-I997R|
+|Samsung|Intelligent Eyewear|jinju|SM-O200P|
 |Samsung|J1 Mini Prime|j1minivelte|SM-J106F|
 |Samsung|Moment|SPH-M900|SPH-M900|
 |Samsung|Montblanc|montblanc3gctc|SM-W2014|
@@ -39537,6 +39541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Selfix|X5|X5|X5|
 |Selfix|X7|X7|X7|
 |Selvas|BrailleSense Polaris|polaris|BrailleSensePolaris|
+|Selvas|BrailleSense7|BrailleSense7|H732B|
 |Selvas|BrailleSense7_EEA|BrailleSense7|H732B|
 |Selvas|BrailleSenseMini|BrailleSenseMini|H620B|
 |Selvas|BrailleSense_EEA|BrailleSense|H632B|
@@ -45336,6 +45341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 50 Pro|TECNO-KO5|TECNO KO5|
 |Tecno|TECNO SPARK 50/50C|TECNO-KN3|TECNO KN3|
 |Tecno|TECNO SPARK 50/50S|TECNO-KN4|TECNO KN4|
+|Tecno|TECNO SPARK 50C|TECNO-KO3|TECNO KO3|
 |Tecno|TECNO SPARK 50S 5G|TECNO-KN8s|TECNO KN8s|
 |Tecno|TECNO SPARK 50T|TECNO-KO5|TECNO KO5|
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|

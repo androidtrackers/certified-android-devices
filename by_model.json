@@ -140801,6 +140801,13 @@
    "device": "R500_V_US"
   }
  ],
+ "R600_C": [
+  {
+   "brand": "JUEDUR",
+   "name": "R600_C",
+   "device": "R600_C"
+  }
+ ],
  "R600_U": [
   {
    "brand": "JUEDUR",
@@ -144715,6 +144722,13 @@
    "brand": "KTCtv",
    "name": "NEXTSTAR",
    "device": "elliniko"
+  }
+ ],
+ "NITORI SMART TV": [
+  {
+   "brand": "KTCtv",
+   "name": "NITORI",
+   "device": "templeton"
   }
  ],
  "RANCON GOOGLE TV": [
@@ -162031,6 +162045,13 @@
    "brand": "Lanix",
    "name": "llium Pad L8",
    "device": "llium_Pad_L8"
+  }
+ ],
+ "PT10": [
+  {
+   "brand": "Lanodo",
+   "name": "PT10",
+   "device": "PT10"
   }
  ],
  "G11L": [
@@ -267900,6 +267921,13 @@
    "device": "SGH-I997R"
   }
  ],
+ "SM-O200P": [
+  {
+   "brand": "Samsung",
+   "name": "Intelligent Eyewear",
+   "device": "jinju"
+  }
+ ],
  "SM-J106F": [
   {
    "brand": "Samsung",
@@ -268945,6 +268973,11 @@
   }
  ],
  "H732B": [
+  {
+   "brand": "Selvas",
+   "name": "BrailleSense7",
+   "device": "BrailleSense7"
+  },
   {
    "brand": "Selvas",
    "name": "BrailleSense7_EEA",
@@ -305780,6 +305813,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 50T",
    "device": "TECNO-KO5"
+  }
+ ],
+ "TECNO KO3": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 50C",
+   "device": "TECNO-KO3"
   }
  ],
  "TECNO KN8s": [
