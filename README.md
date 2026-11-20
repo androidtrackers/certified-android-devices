@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-19
+Last sync is 2026-11-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3610,6 +3610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMAX|I11_Pro|I11_Pro|I11_Pro|
 |BMAX|I11_S|I11_S|I11_S|
 |BMAX|I11_S_EEA|I11_S_EEA|I11_S|
+|BMAX|I11_S_Pro|I11_S_Pro|I11_S_Pro|
 |BMAX|I12_A_Power|I12_A_Power|I12_A_Power|
 |BMAX|I13_LTE|I13_LTE|I13_LTE|
 |BMAX|I14|I14|I14|
@@ -45478,6 +45479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tele2|Mini|Tele2_Mini|Tele2_Mini|
 |Tele2|Mini 1.1|Tele2_Mini_1_1|Tele2_Mini_1.1|
 |Tele2|Mini 1.1|Tele2_Mini_1_1|Tele2_Mini_1_1|
+|Tele2|T2 Mediabox|SEI800TEL2|T2 Mediabox|
 |Tele2|Tele 2 Maxi LTE|Tele2_Maxi_LTE|Tele2_Maxi_LTE|
 |Tele2|Tele2_Midi_2_0|Tele2_Midi_2_0|Tele2_Midi_2_0|
 |Tele2|Tele2fon V4|Tele2fon_v4|Tele2fon v4|

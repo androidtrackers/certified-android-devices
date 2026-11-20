@@ -18714,6 +18714,11 @@
    "model": "I11_S"
   },
   {
+   "device": "I11_S_Pro",
+   "name": "I11_S_Pro",
+   "model": "I11_S_Pro"
+  },
+  {
    "device": "I12_A_Power",
    "name": "I12_A_Power",
    "model": "I12_A_Power"
@@ -233642,6 +233647,11 @@
    "device": "Tele2_Mini_1_1",
    "name": "Mini 1.1",
    "model": "Tele2_Mini_1_1"
+  },
+  {
+   "device": "SEI800TEL2",
+   "name": "T2 Mediabox",
+   "model": "T2 Mediabox"
   },
   {
    "device": "Tele2_Maxi_LTE",

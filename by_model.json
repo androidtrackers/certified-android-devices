@@ -33860,6 +33860,13 @@
    "device": "I11_S_EEA"
   }
  ],
+ "I11_S_Pro": [
+  {
+   "brand": "BMAX",
+   "name": "I11_S_Pro",
+   "device": "I11_S_Pro"
+  }
+ ],
  "I12_A_Power": [
   {
    "brand": "BMAX",
@@ -306652,6 +306659,13 @@
    "brand": "Tele2",
    "name": "Mini 1.1",
    "device": "Tele2_Mini_1_1"
+  }
+ ],
+ "T2 Mediabox": [
+  {
+   "brand": "Tele2",
+   "name": "T2 Mediabox",
+   "device": "SEI800TEL2"
   }
  ],
  "Tele2_Maxi_LTE": [
