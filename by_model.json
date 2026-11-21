@@ -208620,13 +208620,6 @@
    "device": "OP6659L1"
   }
  ],
- "OPG09": [
-  {
-   "brand": "Oppo",
-   "name": "Find X10",
-   "device": "OP6659L1"
-  }
- ],
  "PNA110": [
   {
    "brand": "Oppo",
@@ -286911,18 +286904,6 @@
    "device": "Apollo84GBoostR"
   }
  ],
- "9183W": [
-  {
-   "brand": "TCL",
-   "name": "TBD",
-   "device": "Odin_5G_TMO"
-  },
-  {
-   "brand": "TCL",
-   "name": "TCL TAB 10 5G",
-   "device": "Odin5GACG"
-  }
- ],
  "T790B": [
   {
    "brand": "TCL",
@@ -288586,6 +288567,18 @@
    "brand": "TCT (Alcatel)",
    "name": "Telstra Enhanced Tab 2",
    "device": "Aquaman_10_4G"
+  }
+ ],
+ "9183W": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10 5G",
+   "device": "Odin5GACG"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10 5G",
+   "device": "Odin_5G_TMO"
   }
  ],
  "9161G": [

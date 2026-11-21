@@ -206134,11 +206134,6 @@
    "brand": "Oppo",
    "name": "Find X10",
    "model": "CPH2911"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Find X10",
-   "model": "OPG09"
   }
  ],
  "OP65D7L1": [
@@ -279980,13 +279975,6 @@
    "model": "9132S"
   }
  ],
- "Odin_5G_TMO": [
-  {
-   "brand": "TCL",
-   "name": "TBD",
-   "model": "9183W"
-  }
- ],
  "Seattle": [
   {
    "brand": "TCL",
@@ -282050,6 +282038,13 @@
   }
  ],
  "Odin5GACG": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10 5G",
+   "model": "9183W"
+  }
+ ],
+ "Odin_5G_TMO": [
   {
    "brand": "TCL",
    "name": "TCL TAB 10 5G",

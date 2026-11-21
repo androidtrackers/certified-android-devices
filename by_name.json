@@ -157689,11 +157689,6 @@
    "model": "9132S"
   },
   {
-   "brand": "TCL",
-   "device": "Odin_5G_TMO",
-   "model": "9183W"
-  },
-  {
    "brand": "TCT (Alcatel)",
    "device": "Apollo_8_4G_TMO",
    "model": "9032W"
@@ -204154,11 +204149,6 @@
    "brand": "Oppo",
    "device": "OP6659L1",
    "model": "CPH2911"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP6659L1",
-   "model": "OPG09"
   }
  ],
  "Find X10 E": [
@@ -279880,6 +279870,11 @@
   {
    "brand": "TCL",
    "device": "Odin5GACG",
+   "model": "9183W"
+  },
+  {
+   "brand": "TCL",
+   "device": "Odin_5G_TMO",
    "model": "9183W"
   }
  ],

@@ -154865,11 +154865,6 @@
    "model": "CPH2911"
   },
   {
-   "device": "OP6659L1",
-   "name": "Find X10",
-   "model": "OPG09"
-  },
-  {
    "device": "OP65D7L1",
    "name": "Find X10 E",
    "model": "PNA110"
@@ -218292,11 +218287,6 @@
    "model": "9132S"
   },
   {
-   "device": "Odin_5G_TMO",
-   "name": "TBD",
-   "model": "9183W"
-  },
-  {
    "device": "Seattle",
    "name": "TCL 10 5G",
    "model": "T790B"
@@ -219468,6 +219458,11 @@
   },
   {
    "device": "Odin5GACG",
+   "name": "TCL TAB 10 5G",
+   "model": "9183W"
+  },
+  {
+   "device": "Odin_5G_TMO",
    "name": "TCL TAB 10 5G",
    "model": "9183W"
   },

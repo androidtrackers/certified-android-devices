@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-20
+Last sync is 2026-11-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30045,7 +30045,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X 兰博基尼|PAHM00|PAHM00|
 |Oppo|Find X10|OP659BL1|PMW110|
 |Oppo|Find X10|OP6659L1|CPH2911|
-|Oppo|Find X10|OP6659L1|OPG09|
 |Oppo|Find X10 E|OP65D7L1|PNA110|
 |Oppo|Find X10 Pro Max|OP659FL1|PMX110|
 |Oppo|Find X10 Pro Max|OP665DL1|CPH2913|
@@ -42460,7 +42459,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TAB 10s 4G New|Odin2|9080G|
 |TCL|TAB 10s New|Odin2|9081X|
 |TCL|TBD|Apollo84GBoostR|9132S|
-|TCL|TBD|Odin_5G_TMO|9183W|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
 |TCL|TCL 10 5G|Seattle|T790Y|
@@ -42696,6 +42694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10|Logan|9160G|
 |TCL|TCL TAB 10 4G|Aquaman_10_4G|8094X|
 |TCL|TCL TAB 10 5G|Odin5GACG|9183W|
+|TCL|TCL TAB 10 5G|Odin_5G_TMO|9183W|
 |TCL|TCL TAB 10 FHD|Logan_FHD|9161G|
 |TCL|TCL TAB 10 FHD|Logan_FHD|9461G|
 |TCL|TCL TAB 10 FHD 4G|Aquaman_10_Pro|9060G|
