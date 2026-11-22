@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-21
+Last sync is 2026-11-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18202,6 +18202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 60|Infinix-X6879|Infinix X6879|
 |Infinix|Infinix NOTE 60 Ultra|Infinix-X6877|Infinix X6877|
 |Infinix|Infinix NOTE 7 Lite|Infinix-X656|Infinix X656|
+|Infinix|Infinix NOTE Edge|Infinix-X6887C|Infinix X6887C|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix SMART 10|Infinix-X6725|Infinix X6725|
