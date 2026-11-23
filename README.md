@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-22
+Last sync is 2026-11-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4433,6 +4433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bittium|Mx Smart|adakite_sm|Mx Smart|
 |Bittium|Tough Mobile|granite|Bittium Tough Mobile|
 |Bittium|granite|granite|Bittium Tough Mobile|
+|Bizmo|A11-G99|A11-G99|A11-G99|
 |Bizringer|8BIZ18|8BIZ18|8BIZ18|
 |Blabloo|Space1Blue|Space1Blue|Space1Blue|
 |Black Bear|B6 Master|B6_Master|B6 Master|
@@ -8122,6 +8123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|MID_1099IPS|MID_1099IPS|MID_1099IPS|
 |DOMATON|Ocean_K10|Ocean_K10|Ocean K10|
 |DOMO|M90|M90|M90|
+|DOMO|SLP28|SLP28|SLP28|
 |DOMO|SLP36|SLP36|SLP36|
 |DOMO|SSM28|SSM28|SSM28|
 |DOMO|Slate|Slate|Slate|
@@ -15238,6 +15240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|RT10A|TA60A-L0-C|TA60A|
 |Honeywell|RT10A|TA60A-L1-C|RT10A|
 |Honeywell|RT10A|TA60A-L1-C|TA60A|
+|Honeywell|RT310|RT310|RT310|
 |Honeywell|RT60A|TA60A-L1-C|TA60A|
 |Honeywell|RT710|RT710|RT710|
 |Honeywell|Thor VM1A|VM1A-L0-N|VM1A|
@@ -18622,6 +18625,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Intex|IV0318ND|IV0318ND|IV0318ND|
 |Intex|Indie 22|AQUA_FulVU_e5|INTEX AQUA FulVU e5|
 |Intex|Indie 22|AQUA_FulVU_e5|INTEX IP0518ND|
+|Intex|Intex TV|beomil|Intex TV|
+|Intex|Intex TV|eleonas|Intex TV|
+|Intex|Intex TV|katehaki|Intex TV|
+|Intex|Intex TV FF|eleonas|Intex TV FF|
 |Intex|STAARi 10|AQUA_LIONS_X1_PLUS|INTEX AQUA LIONS X1+|
 |Intex|STAARi 10|AQUA_LIONS_X1_PLUS|INTEX IP0218ND|
 |Intex|STAARi 12|INTEX_ELYT_E6|INTEX ELYT E6|
@@ -19064,6 +19071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A25|itel-L5002R|itel L5002|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L|itel A551L|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L-Pro|itel A551L|
+|Itel|itel A300X|itel-A6613L|itel A6613L|
 |Itel|itel A31|itel_A31|itel A31|
 |Itel|itel A33 Plus|itel-A509WP|itel A509WP|
 |Itel|itel A36|itel-W5505|itel W5505|
@@ -25959,6 +25967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Yutopia|YUTOPIA|YU5050|
 |Micropos|D2|D2|D2|
 |Micropos|P12|P12|P12|
+|Micropos|P15S|P15S|P15S|
 |Microtech|ETL101A_EEA|ETL101A_EEA|ETL101A_EEA|
 |Microtech|ETL101GB|ETL101GB|ETL101GB|
 |Microtech|ETW101GT_C_EEA|ETW101GT_C_EEA|ETW101GT_C|
@@ -27393,6 +27402,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 70 fusion +|marvel|motorola edge 50 ultra|
 |Motorola|motorola edge 70 fusion +|marvel|motorola edge 70 fusion plus|
 |Motorola|motorola edge 70 max|avr|motorola edge 70 max|
+|Motorola|motorola edge 70 neo|stkhlm|motorola edge 70 neo|
+|Motorola|motorola edge 70 plus|stkhlm|motorola edge 70 fusion|
+|Motorola|motorola edge 70 plus|stkhlm|motorola edge 70 plus|
 |Motorola|motorola edge 70 pro|merc|motorola edge 2025|
 |Motorola|motorola edge 70 pro|merc|motorola edge 70 pro|
 |Motorola|motorola edge 70 pro+|merc|motorola edge 2025|
@@ -34301,6 +34313,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RebotAi|AF13Air_US|AF13Air_US|AF13Air_US|
 |RebotAi|AF13_EEA|AF13_EEA|AF13_EEA|
 |RebotAi|AF14_EEA|AF14|AF14|
+|RebotAi|AF14_ROW|AF14|AF14|
+|RebotAi|AF14_US|AF14|AF14|
 |RebotAi|AF8_EEA|AF8_EEA|AF8_EEA|
 |RebotAi|AF8_ROW|AF8_ROW|AF8_ROW|
 |RebotAi|AG11|AG11|AG11|
@@ -35062,9 +35076,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S5518|S5518|S5518|
 |Ruio|S5521|S5521|Orange Kova one|
 |Ruio|S5521|S5521|S5521|
+|Ruio|S5521Q|S5521|IYOU A10|
 |Ruio|S5521Q|S5521|Orange Kova one|
 |Ruio|S5521Q|S5521|S5521|
 |Ruio|S6209|S6209|S6209|
+|Ruio|S6209U|S6209U|S6209U|
 |Ruio|S6501|S6501|S6501|
 |Ruio|S6506|S6506|S6506|
 |Ruio|S6528|S6528|S6528|
@@ -35818,6 +35834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|P10_A_EEA|P10_A|P10_A|
 |SVITOO|P10_B|P10_B|P10_B|
 |SVITOO|P10_B_EEA|P10_B|P10_B|
+|SVITOO|P10_D1_EEA|P10_D1|P10_D|
 |SVITOO|P10_D_EEA|P10_D|P10_D|
 |SVITOO|P10_D_ROW|P10_D|P10_D|
 |SVITOO|P10_D_US|P10_D|P10_D|
@@ -44280,6 +44297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TIM|TIMVISION Box|uzw4054tim|TIMVISION Box|
 |TIM|TIMVISION Box|uzy4087tim|TIMVISION Crystal|
 |TIM|TIMVISION VSB|m393vsb_tim|TIMVISION VSB|
+|TIM|TIMVISION ZENIT|B836CT_tim|TIMVISION ZENIT|
 |TIM|TIMVISIONBOX|m393gena_tim|TIMVISIONBOX|
 |TIM|TIMvision|dwt765ti|skipper|
 |TINSIK|A19_Plus|A19_Plus|A19 Plus|
@@ -44463,6 +44481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TVPLUS|TV PLUS 4K BOX|DV6069Y_TVPLUS|TV PLUS 4K BOX|
 |TVPLUS|TVPLUS|HP4CD-TVplus|HP5432|
 |TVPLUS|TVPLUS BOX|HP44H|TVPLUS BOX|
+|TVS-E|HS65-5G|tvse_hs65_5g|TVSE-HS65-5G|
 |TVT VIET NAM|TVT-T10|TVT-T10|TVT-T10|
 |TVT(A)|TVT-T108|TVT-T108|TVT-T108|
 |TVUp|Denali|Denali_B866V2F|Denali|
@@ -44811,6 +44830,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P50_ROW|P50|P50_ROW|
 |Teclast|P50_ROW|P50_ROW|P50|
 |Teclast|P50_YB_EEA|P50_YB|P50_YB|
+|Teclast|P50_YB_ROW|P50_YB|P50|
+|Teclast|P50_YB_ROW|P50_YB|P50_YB|
+|Teclast|P50_YB_RU|P50_YB|P50_YB|
+|Teclast|P50_YB_US|P50_YB|P50_YB|
 |Teclast|P80T_EEA|P80T|P80T_EEA|
 |Teclast|P80T_ROW|P80T|P80T_ROW|
 |Teclast|P80T_Y_EEA|P80T_Y_EEA|P80T_EEA|
@@ -44924,6 +44947,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T60Ai_EEA|T60Ai|T60Ai_EEA|
 |Teclast|T60Ai_ROW|T60Ai|T60Ai_ROW|
 |Teclast|T60Mini_ROW|T60Mini|T60Mini_ROW|
+|Teclast|T60Mini_Y_EEA|T60Mini_Y|T60Mini_Y_EEA|
+|Teclast|T60Mini_Y_ROW|T60Mini_Y|T60Mini_Y_EEA|
+|Teclast|T60Mini_Y_RUS|T60Mini_Y|T60Mini_Y_EEA|
+|Teclast|T60Mini_Y_US|T60Mini_Y|T60Mini_Y_EEA|
 |Teclast|T60Plus_EEA|T60Plus_EEA|T60Plus_EEA|
 |Teclast|T60Plus_ROW|T60Plus_ROW|T60Plus_ROW|
 |Teclast|T60Pro_A_ROW|T60Pro_A_ROW|T60Pro_A_EEA|
@@ -53497,6 +53524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQOO|iQOO Z11S|PD2603|V2603A|
 |iQOO|iQOO Z11i|PD2559|V2559UA|
 |iQOO|iQOO Z11i AI版|PD2559|V2559UA|
+|iQOO|iQOO Z11i m版 AI版|PD2559|V2559UA|
 |iQOO|iQOO Z11x|PD2532|V2532A|
 |iQOO|iQOO Z11x 5G|I2507|I2507|
 |iQOO|iQOO Z12 Lite 5G|I2510|I2516|

@@ -22981,6 +22981,13 @@
    "model": "Bittium Tough Mobile"
   }
  ],
+ "Bizmo": [
+  {
+   "device": "A11-G99",
+   "name": "A11-G99",
+   "model": "A11-G99"
+  }
+ ],
  "Bizringer": [
   {
    "device": "8BIZ18",
@@ -42058,6 +42065,11 @@
    "device": "M90",
    "name": "M90",
    "model": "M90"
+  },
+  {
+   "device": "SLP28",
+   "name": "SLP28",
+   "model": "SLP28"
   },
   {
    "device": "SLP36",
@@ -78956,6 +78968,11 @@
    "model": "TA60A"
   },
   {
+   "device": "RT310",
+   "name": "RT310",
+   "model": "RT310"
+  },
+  {
    "device": "TA60A-L1-C",
    "name": "RT60A",
    "model": "TA60A"
@@ -96144,6 +96161,26 @@
    "model": "INTEX IP0518ND"
   },
   {
+   "device": "beomil",
+   "name": "Intex TV",
+   "model": "Intex TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "Intex TV",
+   "model": "Intex TV"
+  },
+  {
+   "device": "katehaki",
+   "name": "Intex TV",
+   "model": "Intex TV"
+  },
+  {
+   "device": "eleonas",
+   "name": "Intex TV FF",
+   "model": "Intex TV FF"
+  },
+  {
    "device": "AQUA_LIONS_X1_PLUS",
    "name": "STAARi 10",
    "model": "INTEX AQUA LIONS X1+"
@@ -98374,6 +98411,11 @@
    "device": "itel-A551L-Pro",
    "name": "itel A27(P17 Pro 4G)",
    "model": "itel A551L"
+  },
+  {
+   "device": "itel-A6613L",
+   "name": "itel A300X",
+   "model": "itel A6613L"
   },
   {
    "device": "itel_A31",
@@ -133793,6 +133835,11 @@
    "device": "P12",
    "name": "P12",
    "model": "P12"
+  },
+  {
+   "device": "P15S",
+   "name": "P15S",
+   "model": "P15S"
   }
  ],
  "Microtech": [
@@ -141085,6 +141132,21 @@
    "device": "avr",
    "name": "motorola edge 70 max",
    "model": "motorola edge 70 max"
+  },
+  {
+   "device": "stkhlm",
+   "name": "motorola edge 70 neo",
+   "model": "motorola edge 70 neo"
+  },
+  {
+   "device": "stkhlm",
+   "name": "motorola edge 70 plus",
+   "model": "motorola edge 70 fusion"
+  },
+  {
+   "device": "stkhlm",
+   "name": "motorola edge 70 plus",
+   "model": "motorola edge 70 plus"
   },
   {
    "device": "merc",
@@ -176699,6 +176761,16 @@
    "model": "AF14"
   },
   {
+   "device": "AF14",
+   "name": "AF14_ROW",
+   "model": "AF14"
+  },
+  {
+   "device": "AF14",
+   "name": "AF14_US",
+   "model": "AF14"
+  },
+  {
    "device": "AF8_EEA",
    "name": "AF8_EEA",
    "model": "AF8_EEA"
@@ -180610,6 +180682,11 @@
   {
    "device": "S5521",
    "name": "S5521Q",
+   "model": "IYOU A10"
+  },
+  {
+   "device": "S5521",
+   "name": "S5521Q",
    "model": "Orange Kova one"
   },
   {
@@ -180621,6 +180698,11 @@
    "device": "S6209",
    "name": "S6209",
    "model": "S6209"
+  },
+  {
+   "device": "S6209U",
+   "name": "S6209U",
+   "model": "S6209U"
   },
   {
    "device": "S6501",
@@ -184626,6 +184708,11 @@
    "device": "P10_B",
    "name": "P10_B_EEA",
    "model": "P10_B"
+  },
+  {
+   "device": "P10_D1",
+   "name": "P10_D1_EEA",
+   "model": "P10_D"
   },
   {
    "device": "P10_D",
@@ -227460,6 +227547,11 @@
    "model": "TIMVISION VSB"
   },
   {
+   "device": "B836CT_tim",
+   "name": "TIMVISION ZENIT",
+   "model": "TIMVISION ZENIT"
+  },
+  {
    "device": "m393gena_tim",
    "name": "TIMVISIONBOX",
    "model": "TIMVISIONBOX"
@@ -228473,6 +228565,13 @@
    "device": "HP44H",
    "name": "TVPLUS BOX",
    "model": "TVPLUS BOX"
+  }
+ ],
+ "TVS-E": [
+  {
+   "device": "tvse_hs65_5g",
+   "name": "HS65-5G",
+   "model": "TVSE-HS65-5G"
   }
  ],
  "TVT VIET NAM": [
@@ -230283,6 +230382,26 @@
    "model": "P50_YB"
   },
   {
+   "device": "P50_YB",
+   "name": "P50_YB_ROW",
+   "model": "P50"
+  },
+  {
+   "device": "P50_YB",
+   "name": "P50_YB_ROW",
+   "model": "P50_YB"
+  },
+  {
+   "device": "P50_YB",
+   "name": "P50_YB_RU",
+   "model": "P50_YB"
+  },
+  {
+   "device": "P50_YB",
+   "name": "P50_YB_US",
+   "model": "P50_YB"
+  },
+  {
    "device": "P80T",
    "name": "P80T_EEA",
    "model": "P80T_EEA"
@@ -230846,6 +230965,26 @@
    "device": "T60Mini",
    "name": "T60Mini_ROW",
    "model": "T60Mini_ROW"
+  },
+  {
+   "device": "T60Mini_Y",
+   "name": "T60Mini_Y_EEA",
+   "model": "T60Mini_Y_EEA"
+  },
+  {
+   "device": "T60Mini_Y",
+   "name": "T60Mini_Y_ROW",
+   "model": "T60Mini_Y_EEA"
+  },
+  {
+   "device": "T60Mini_Y",
+   "name": "T60Mini_Y_RUS",
+   "model": "T60Mini_Y_EEA"
+  },
+  {
+   "device": "T60Mini_Y",
+   "name": "T60Mini_Y_US",
+   "model": "T60Mini_Y_EEA"
   },
   {
    "device": "T60Plus_EEA",
@@ -275026,6 +275165,11 @@
   {
    "device": "PD2559",
    "name": "iQOO Z11i AI版",
+   "model": "V2559UA"
+  },
+  {
+   "device": "PD2559",
+   "name": "iQOO Z11i m版 AI版",
    "model": "V2559UA"
   },
   {

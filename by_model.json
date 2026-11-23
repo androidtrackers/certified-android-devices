@@ -39696,6 +39696,13 @@
    "device": "adakite_sm"
   }
  ],
+ "A11-G99": [
+  {
+   "brand": "Bizmo",
+   "name": "A11-G99",
+   "device": "A11-G99"
+  }
+ ],
  "8BIZ18": [
   {
    "brand": "Bizringer",
@@ -62556,6 +62563,11 @@
    "brand": "Teclast",
    "name": "P50_ROW",
    "device": "P50_ROW"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P50_YB_ROW",
+   "device": "P50_YB"
   }
  ],
  "P90": [
@@ -65934,6 +65946,13 @@
    "brand": "MOREFUN",
    "name": "M90",
    "device": "M90"
+  }
+ ],
+ "SLP28": [
+  {
+   "brand": "DOMO",
+   "name": "SLP28",
+   "device": "SLP28"
   }
  ],
  "SLP36": [
@@ -113856,6 +113875,13 @@
    "device": "TA60A-L1-C"
   }
  ],
+ "RT310": [
+  {
+   "brand": "Honeywell",
+   "name": "RT310",
+   "device": "RT310"
+  }
+ ],
  "RT710": [
   {
    "brand": "Honeywell",
@@ -136191,6 +136217,30 @@
    "device": "AQUA_FulVU_e5"
   }
  ],
+ "Intex TV": [
+  {
+   "brand": "Intex",
+   "name": "Intex TV",
+   "device": "beomil"
+  },
+  {
+   "brand": "Intex",
+   "name": "Intex TV",
+   "device": "eleonas"
+  },
+  {
+   "brand": "Intex",
+   "name": "Intex TV",
+   "device": "katehaki"
+  }
+ ],
+ "Intex TV FF": [
+  {
+   "brand": "Intex",
+   "name": "Intex TV FF",
+   "device": "eleonas"
+  }
+ ],
  "INTEX AQUA LIONS X1+": [
   {
    "brand": "Intex",
@@ -139333,6 +139383,13 @@
    "brand": "Itel",
    "name": "itel A27(P17 Pro 4G)",
    "device": "itel-A551L-Pro"
+  }
+ ],
+ "itel A6613L": [
+  {
+   "brand": "Itel",
+   "name": "itel A300X",
+   "device": "itel-A6613L"
   }
  ],
  "itel A31": [
@@ -183083,6 +183140,13 @@
    "device": "PX12"
   }
  ],
+ "P15S": [
+  {
+   "brand": "Micropos",
+   "name": "P15S",
+   "device": "P15S"
+  }
+ ],
  "ETL101A_EEA": [
   {
    "brand": "Microtech",
@@ -192090,6 +192154,11 @@
    "brand": "Motorola",
    "name": "motorola edge 70 fusion",
    "device": "marvel"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 plus",
+   "device": "stkhlm"
   }
  ],
  "motorola edge 70 fusion plus": [
@@ -192104,6 +192173,20 @@
    "brand": "Motorola",
    "name": "motorola edge 70 max",
    "device": "avr"
+  }
+ ],
+ "motorola edge 70 neo": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 neo",
+   "device": "stkhlm"
+  }
+ ],
+ "motorola edge 70 plus": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 70 plus",
+   "device": "stkhlm"
   }
  ],
  "motorola edge 70 pro": [
@@ -234382,6 +234465,16 @@
    "brand": "RebotAi",
    "name": "AF14_EEA",
    "device": "AF14"
+  },
+  {
+   "brand": "RebotAi",
+   "name": "AF14_ROW",
+   "device": "AF14"
+  },
+  {
+   "brand": "RebotAi",
+   "name": "AF14_US",
+   "device": "AF14"
   }
  ],
  "AF8_EEA": [
@@ -238902,11 +238995,25 @@
    "device": "S5521"
   }
  ],
+ "IYOU A10": [
+  {
+   "brand": "Ruio",
+   "name": "S5521Q",
+   "device": "S5521"
+  }
+ ],
  "S6209": [
   {
    "brand": "Ruio",
    "name": "S6209",
    "device": "S6209"
+  }
+ ],
+ "S6209U": [
+  {
+   "brand": "Ruio",
+   "name": "S6209U",
+   "device": "S6209U"
   }
  ],
  "S6506": [
@@ -243558,6 +243665,11 @@
   }
  ],
  "P10_D": [
+  {
+   "brand": "SVITOO",
+   "name": "P10_D1_EEA",
+   "device": "P10_D1"
+  },
   {
    "brand": "SVITOO",
    "name": "P10_D_EEA",
@@ -299084,6 +299196,13 @@
    "device": "m393vsb_tim"
   }
  ],
+ "TIMVISION ZENIT": [
+  {
+   "brand": "TIM",
+   "name": "TIMVISION ZENIT",
+   "device": "B836CT_tim"
+  }
+ ],
  "TIMVISIONBOX": [
   {
    "brand": "TIM",
@@ -300216,6 +300335,13 @@
    "brand": "TVPLUS",
    "name": "TVPLUS BOX",
    "device": "HP44H"
+  }
+ ],
+ "TVSE-HS65-5G": [
+  {
+   "brand": "TVS-E",
+   "name": "HS65-5G",
+   "device": "tvse_hs65_5g"
   }
  ],
  "TVT-T10": [
@@ -302270,6 +302396,21 @@
    "brand": "Teclast",
    "name": "P50_YB_EEA",
    "device": "P50_YB"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P50_YB_ROW",
+   "device": "P50_YB"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P50_YB_RU",
+   "device": "P50_YB"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P50_YB_US",
+   "device": "P50_YB"
   }
  ],
  "P80T_EEA": [
@@ -302956,6 +303097,28 @@
    "brand": "Teclast",
    "name": "T60Mini_ROW",
    "device": "T60Mini"
+  }
+ ],
+ "T60Mini_Y_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "T60Mini_Y_EEA",
+   "device": "T60Mini_Y"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T60Mini_Y_ROW",
+   "device": "T60Mini_Y"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T60Mini_Y_RUS",
+   "device": "T60Mini_Y"
+  },
+  {
+   "brand": "Teclast",
+   "name": "T60Mini_Y_US",
+   "device": "T60Mini_Y"
   }
  ],
  "T60Plus_EEA": [
@@ -356425,6 +356588,11 @@
   {
    "brand": "iQOO",
    "name": "iQOO Z11i AI版",
+   "device": "PD2559"
+  },
+  {
+   "brand": "iQOO",
+   "name": "iQOO Z11i m版 AI版",
    "device": "PD2559"
   }
  ],
