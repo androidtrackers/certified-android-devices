@@ -144648,6 +144648,13 @@
    "device": "BLISS_8"
   }
  ],
+ "Butterfly Smart TV": [
+  {
+   "brand": "KTCtv",
+   "name": "BUTTERFLY",
+   "device": "elliniko"
+  }
+ ],
  "DIGGIO GOOGLE TV 4K": [
   {
    "brand": "KTCtv",
@@ -176308,6 +176315,18 @@
    "device": "KB10"
   }
  ],
+ "KB10T": [
+  {
+   "brand": "MUISOO",
+   "name": "KB10T_E",
+   "device": "KB10T"
+  },
+  {
+   "brand": "MUISOO",
+   "name": "KB10T_US",
+   "device": "KB10T"
+  }
+ ],
  "MULTYNET TV G2K": [
   {
    "brand": "MULTYNET",
@@ -184426,6 +184445,11 @@
    "brand": "Mobicel",
    "name": "F51",
    "device": "F51"
+  },
+  {
+   "brand": "Mobicel",
+   "name": "F52",
+   "device": "F52A"
   },
   {
    "brand": "Mobicel",
@@ -192906,6 +192930,13 @@
    "brand": "Move",
    "name": "MOVE OTT-Box 4",
    "device": "SEID00TKSB"
+  }
+ ],
+ "MOVE OTT-Box 5": [
+  {
+   "brand": "Move",
+   "name": "MOVE OTT-Box 5",
+   "device": "MOVE_B866V6N2"
   }
  ],
  "LX50": [
@@ -215843,6 +215874,13 @@
    "brand": "PEICHENG",
    "name": "P13Ultra",
    "device": "P13Ultra"
+  }
+ ],
+ "PH05": [
+  {
+   "brand": "PEICHENG",
+   "name": "PH05",
+   "device": "PH05"
   }
  ],
  "Q1": [
@@ -333004,6 +333042,13 @@
    "brand": "XPPen",
    "name": "MDP1234_US",
    "device": "MDP1231"
+  }
+ ],
+ "MDP1311": [
+  {
+   "brand": "XPPen",
+   "name": "Magic Pro 13",
+   "device": "MDP1311"
   }
  ],
  "MDP1236": [

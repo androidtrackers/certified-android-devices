@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-23
+Last sync is 2026-11-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19914,6 +19914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|ASAANO|mountbaker|2K SMART TV|
 |KTCtv|BANANA|elliniko|4K SMART TV|
 |KTCtv|BANANA|jagalchi|2K SMART TV|
+|KTCtv|BUTTERFLY|elliniko|Butterfly Smart TV|
 |KTCtv|Banana|stanford|2K SMART TV|
 |KTCtv|Banana|zhongshan|4K SMART TV|
 |KTCtv|CHIMEI|elliniko|4K SMART TV|
@@ -24903,6 +24904,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MU (TH)|mu 1|mu_1|1|
 |MU (TH)|mu6|mu6|mu6|
 |MUISOO|KB10|KB10|KB10|
+|MUISOO|KB10T_E|KB10T|KB10T|
+|MUISOO|KB10T_US|KB10T|KB10T|
 |MUISOO|KB10_EEA|KB10|KB10|
 |MUJENYZ|A9|A9|A9|
 |MULTYNET|MULTYNET TV G2K|dongnae|MULTYNET TV G2K|
@@ -26175,6 +26178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicel|F50|F50|F50|
 |Mobicel|F51|F51|F51|
 |Mobicel|F51|F51|F52|
+|Mobicel|F52|F52A|F52|
 |Mobicel|F52VR|F52VR|F52|
 |Mobicel|F52VS|F52VS|F52|
 |Mobicel|IX PLUS|IX_PLUS|IX_PLUS|
@@ -27528,6 +27532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
 |Move|MOVE OTT-Box 1|DV8919-KSM|MOVE OTT-Box 1|
 |Move|MOVE OTT-Box 4|SEID00TKSB|MOVE OTT-Box 4|
+|Move|MOVE OTT-Box 5|MOVE_B866V6N2|MOVE OTT-Box 5|
 |Moveby|LINNEX|LX50|LX50|
 |Movfast|Ranger2|MFT1522|Ranger2|
 |Movfast|Ranger2 Lite|MFT1621|Ranger2K|
@@ -31231,6 +31236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEICHENG|P13TMax|P13TMax|P13Max|
 |PEICHENG|P13TMax_EEA|P13TMax|P13Max|
 |PEICHENG|P13Ultra|P13Ultra|P13Ultra|
+|PEICHENG|PH05|PH05|PH05|
 |PEICHENG|Q1|Q1|Q1|
 |PEICHENG|Q1|Q1|Q1K|
 |PEICHENG|Q10_Pro|Q10_Pro|Q10|
@@ -49796,6 +49802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XPPen|MDP1232_EEA|MDP1231|MDP1231|
 |XPPen|MDP1233_RU|MDP1231|MDP1231|
 |XPPen|MDP1234_US|MDP1231|MDP1231|
+|XPPen|Magic Pro 13|MDP1311|MDP1311|
 |XPPen|Magic_12|MDP1236|MDP1236|
 |XPPen|Magic_12_EEA|MDP1236|MDP1236|
 |XPPen|Magic_12_RU|MDP1236|MDP1236|

@@ -102846,6 +102846,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "elliniko",
+   "name": "BUTTERFLY",
+   "model": "Butterfly Smart TV"
+  },
+  {
    "device": "stanford",
    "name": "Banana",
    "model": "2K SMART TV"
@@ -128359,6 +128364,16 @@
    "model": "KB10"
   },
   {
+   "device": "KB10T",
+   "name": "KB10T_E",
+   "model": "KB10T"
+  },
+  {
+   "device": "KB10T",
+   "name": "KB10T_US",
+   "model": "KB10T"
+  },
+  {
    "device": "KB10",
    "name": "KB10_EEA",
    "model": "KB10"
@@ -134932,6 +134947,11 @@
   {
    "device": "F51",
    "name": "F51",
+   "model": "F52"
+  },
+  {
+   "device": "F52A",
+   "name": "F52",
    "model": "F52"
   },
   {
@@ -141770,6 +141790,11 @@
    "device": "SEID00TKSB",
    "name": "MOVE OTT-Box 4",
    "model": "MOVE OTT-Box 4"
+  },
+  {
+   "device": "MOVE_B866V6N2",
+   "name": "MOVE OTT-Box 5",
+   "model": "MOVE OTT-Box 5"
   }
  ],
  "Moveby": [
@@ -160871,6 +160896,11 @@
    "device": "P13Ultra",
    "name": "P13Ultra",
    "model": "P13Ultra"
+  },
+  {
+   "device": "PH05",
+   "name": "PH05",
+   "model": "PH05"
   },
   {
    "device": "Q1",
@@ -256066,6 +256096,11 @@
    "device": "MDP1231",
    "name": "MDP1234_US",
    "model": "MDP1231"
+  },
+  {
+   "device": "MDP1311",
+   "name": "Magic Pro 13",
+   "model": "MDP1311"
   },
   {
    "device": "MDP1236",

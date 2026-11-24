@@ -41487,6 +41487,11 @@
    "brand": "BenQ",
    "device": "F52",
    "model": "F52_05"
+  },
+  {
+   "brand": "Mobicel",
+   "device": "F52A",
+   "model": "F52"
   }
  ],
  "F52_09": [
@@ -144389,6 +144394,13 @@
    "model": "2K SMART TV"
   }
  ],
+ "BUTTERFLY": [
+  {
+   "brand": "KTCtv",
+   "device": "elliniko",
+   "model": "Butterfly Smart TV"
+  }
+ ],
  "Banana": [
   {
    "brand": "KTCtv",
@@ -173635,6 +173647,20 @@
    "model": "KB10"
   }
  ],
+ "KB10T_E": [
+  {
+   "brand": "MUISOO",
+   "device": "KB10T",
+   "model": "KB10T"
+  }
+ ],
+ "KB10T_US": [
+  {
+   "brand": "MUISOO",
+   "device": "KB10T",
+   "model": "KB10T"
+  }
+ ],
  "KB10_EEA": [
   {
    "brand": "MUISOO",
@@ -189207,6 +189233,13 @@
    "brand": "Move",
    "device": "SEID00TKSB",
    "model": "MOVE OTT-Box 4"
+  }
+ ],
+ "MOVE OTT-Box 5": [
+  {
+   "brand": "Move",
+   "device": "MOVE_B866V6N2",
+   "model": "MOVE OTT-Box 5"
   }
  ],
  "LINNEX": [
@@ -211715,6 +211748,13 @@
    "brand": "PEICHENG",
    "device": "P13Ultra",
    "model": "P13Ultra"
+  }
+ ],
+ "PH05": [
+  {
+   "brand": "PEICHENG",
+   "device": "PH05",
+   "model": "PH05"
   }
  ],
  "Q1": [
@@ -321737,6 +321777,13 @@
    "brand": "XPPen",
    "device": "MDP1231",
    "model": "MDP1231"
+  }
+ ],
+ "Magic Pro 13": [
+  {
+   "brand": "XPPen",
+   "device": "MDP1311",
+   "model": "MDP1311"
   }
  ],
  "Magic_12": [

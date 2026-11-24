@@ -3406,6 +3406,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "BUTTERFLY",
+   "model": "Butterfly Smart TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "CHIMEI",
    "model": "4K SMART TV"
   },
@@ -94408,6 +94413,11 @@
    "brand": "Fujitsu",
    "name": "arrows NX9 F-52A",
    "model": "F-52A"
+  },
+  {
+   "brand": "Mobicel",
+   "name": "F52",
+   "model": "F52"
   }
  ],
  "arrowsRX": [
@@ -175173,6 +175183,18 @@
    "model": "KB10"
   }
  ],
+ "KB10T": [
+  {
+   "brand": "MUISOO",
+   "name": "KB10T_E",
+   "model": "KB10T"
+  },
+  {
+   "brand": "MUISOO",
+   "name": "KB10T_US",
+   "model": "KB10T"
+  }
+ ],
  "AS01": [
   {
    "brand": "MUNBYN",
@@ -191049,6 +191071,13 @@
    "brand": "Move",
    "name": "MOVE OTT-Box 4",
    "model": "MOVE OTT-Box 4"
+  }
+ ],
+ "MOVE_B866V6N2": [
+  {
+   "brand": "Move",
+   "name": "MOVE OTT-Box 5",
+   "model": "MOVE OTT-Box 5"
   }
  ],
  "LX50": [
@@ -213258,6 +213287,13 @@
    "brand": "PEICHENG",
    "name": "P13Ultra",
    "model": "P13Ultra"
+  }
+ ],
+ "PH05": [
+  {
+   "brand": "PEICHENG",
+   "name": "PH05",
+   "model": "PH05"
   }
  ],
  "Q1": [
@@ -321085,6 +321121,13 @@
    "brand": "XPPen",
    "name": "MDP1234_US",
    "model": "MDP1231"
+  }
+ ],
+ "MDP1311": [
+  {
+   "brand": "XPPen",
+   "name": "Magic Pro 13",
+   "model": "MDP1311"
   }
  ],
  "MDP1236": [
