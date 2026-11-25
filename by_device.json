@@ -45794,6 +45794,11 @@
    "brand": "XRZ(sz)",
    "name": "XRZPro_NON_EU",
    "model": "XRZ"
+  },
+  {
+   "brand": "XRZ(sz)",
+   "name": "XRZPro_USA",
+   "model": "XRZ"
   }
  ],
  "BigTech_D2": [
@@ -97765,6 +97770,13 @@
    "model": "MD_97_S464A"
   }
  ],
+ "T_106": [
+  {
+   "brand": "Gfast",
+   "name": "T_106",
+   "model": "T_106"
+  }
+ ],
  "A7LED2": [
   {
    "brand": "Ghia",
@@ -109230,6 +109242,13 @@
    "brand": "HUIHUANG",
    "name": "T3L2_EEA",
    "model": "T3L2"
+  }
+ ],
+ "TabT10": [
+  {
+   "brand": "HUIHUANG",
+   "name": "TabT10_EEA",
+   "model": "TabT10"
   }
  ],
  "X10S": [
@@ -172620,6 +172639,11 @@
   },
   {
    "brand": "M-Horse",
+   "name": "POWER_1_Max_EEA",
+   "model": "POWER_1_Max"
+  },
+  {
+   "brand": "M-Horse",
    "name": "POWER_1_Max_RU",
    "model": "POWER_1_Max"
   },
@@ -201228,13 +201252,6 @@
    "model": "QuartzT10-3"
   }
  ],
- "TabBoox": [
-  {
-   "brand": "ONYX",
-   "name": "TabBoox",
-   "model": "TabBoox"
-  }
- ],
  "OPEN_PRO": [
   {
    "brand": "OPEN",
@@ -207331,6 +207348,23 @@
    "brand": "Oppo",
    "name": "Pad 5 Pro",
    "model": "OPD2511"
+  }
+ ],
+ "OP692CL1": [
+  {
+   "brand": "Oppo",
+   "name": "Pad 6 F Lite Edition",
+   "model": "OPD2615"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Pad 6 F/Pad 6 F Matte Display Edition",
+   "model": "OPD2604"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Pad 6 F/Pad 6 F Matte Display Edition",
+   "model": "OPD2605"
   }
  ],
  "OP6541L1": [
@@ -239857,6 +239891,13 @@
   {
    "brand": "SVITOO",
    "name": "P08_T",
+   "model": "P08_T"
+  }
+ ],
+ "P08_T1": [
+  {
+   "brand": "SVITOO",
+   "name": "P08_T1",
    "model": "P08_T"
   }
  ],
@@ -278999,6 +279040,13 @@
    "brand": "TABWEE",
    "name": "T80_US",
    "model": "T80"
+  }
+ ],
+ "V20T": [
+  {
+   "brand": "TABWEE",
+   "name": "V20T_US",
+   "model": "V20"
   }
  ],
  "V20_EEA": [
@@ -346679,6 +346727,13 @@
    "model": "VG100"
   }
  ],
+ "VG102": [
+  {
+   "brand": "verifone",
+   "name": "vg102",
+   "model": "VG102"
+  }
+ ],
  "V503630": [
   {
    "brand": "videocon",
@@ -347216,6 +347271,13 @@
    "brand": "vivo",
    "name": "X500 E",
    "model": "V2656"
+  }
+ ],
+ "V2624": [
+  {
+   "brand": "vivo",
+   "name": "V80 FE",
+   "model": "V2624"
   }
  ],
  "PD2436": [

@@ -96471,6 +96471,13 @@
    "model": "MD_97_S464A"
   }
  ],
+ "T_106": [
+  {
+   "brand": "Gfast",
+   "device": "T_106",
+   "model": "T_106"
+  }
+ ],
  "A7LED2": [
   {
    "brand": "Ghia",
@@ -108125,6 +108132,13 @@
    "brand": "HUIHUANG",
    "device": "T3L2",
    "model": "T3L2"
+  }
+ ],
+ "TabT10_EEA": [
+  {
+   "brand": "HUIHUANG",
+   "device": "TabT10",
+   "model": "TabT10"
   }
  ],
  "X10S": [
@@ -170812,6 +170826,13 @@
    "model": "POWER_1_Max"
   }
  ],
+ "POWER_1_Max_EEA": [
+  {
+   "brand": "M-Horse",
+   "device": "POWER_1_Max",
+   "model": "POWER_1_Max"
+  }
+ ],
  "POWER_1_Max_RU": [
   {
    "brand": "M-Horse",
@@ -199439,13 +199460,6 @@
    "model": "QuartzT10-3"
   }
  ],
- "TabBoox": [
-  {
-   "brand": "ONYX",
-   "device": "TabBoox",
-   "model": "TabBoox"
-  }
- ],
  "OPEN_PRO": [
   {
    "brand": "OPEN",
@@ -205472,6 +205486,25 @@
    "brand": "Oppo",
    "device": "OP6546L1",
    "model": "OPD2511"
+  }
+ ],
+ "Pad 6 F Lite Edition": [
+  {
+   "brand": "Oppo",
+   "device": "OP692CL1",
+   "model": "OPD2615"
+  }
+ ],
+ "Pad 6 F/Pad 6 F Matte Display Edition": [
+  {
+   "brand": "Oppo",
+   "device": "OP692CL1",
+   "model": "OPD2604"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP692CL1",
+   "model": "OPD2605"
   }
  ],
  "Pad Air5": [
@@ -240233,6 +240266,13 @@
   {
    "brand": "SVITOO",
    "device": "P08_T",
+   "model": "P08_T"
+  }
+ ],
+ "P08_T1": [
+  {
+   "brand": "SVITOO",
+   "device": "P08_T1",
    "model": "P08_T"
   }
  ],
@@ -277459,6 +277499,13 @@
    "brand": "TABWEE",
    "device": "T90",
    "model": "T90"
+  }
+ ],
+ "V20T_US": [
+  {
+   "brand": "TABWEE",
+   "device": "V20T",
+   "model": "V20"
   }
  ],
  "V20_EEA": [
@@ -321856,6 +321903,13 @@
    "model": "XRZ"
   }
  ],
+ "XRZPro_USA": [
+  {
+   "brand": "XRZ(sz)",
+   "device": "Smartphone",
+   "model": "XRZ"
+  }
+ ],
  "XRZDual2_A16_EEA": [
   {
    "brand": "XRZDual2",
@@ -347745,6 +347799,13 @@
    "model": "VG100"
   }
  ],
+ "vg102": [
+  {
+   "brand": "verifone",
+   "device": "VG102",
+   "model": "VG102"
+  }
+ ],
  "Delite 11": [
   {
    "brand": "videocon",
@@ -348017,6 +348078,13 @@
    "brand": "vivo",
    "device": "V2529",
    "model": "V2637"
+  }
+ ],
+ "V80 FE": [
+  {
+   "brand": "vivo",
+   "device": "V2624",
+   "model": "V2624"
   }
  ],
  "X Fold5": [

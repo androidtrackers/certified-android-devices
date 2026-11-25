@@ -61747,6 +61747,11 @@
    "device": "MD_97_S464A",
    "name": "MD_97_S464A",
    "model": "MD_97_S464A"
+  },
+  {
+   "device": "T_106",
+   "name": "T_106",
+   "model": "T_106"
   }
  ],
  "Ghia": [
@@ -71131,6 +71136,11 @@
    "device": "T3L2",
    "name": "T3L2_EEA",
    "model": "T3L2"
+  },
+  {
+   "device": "TabT10",
+   "name": "TabT10_EEA",
+   "model": "TabT10"
   },
   {
    "device": "X10S",
@@ -125929,6 +125939,11 @@
   },
   {
    "device": "POWER_1_Max",
+   "name": "POWER_1_Max_EEA",
+   "model": "POWER_1_Max"
+  },
+  {
+   "device": "POWER_1_Max",
    "name": "POWER_1_Max_RU",
    "model": "POWER_1_Max"
   },
@@ -150656,11 +150671,6 @@
    "device": "QuartzT10-3",
    "name": "QuartzT10-3",
    "model": "QuartzT10-3"
-  },
-  {
-   "device": "TabBoox",
-   "name": "TabBoox",
-   "model": "TabBoox"
   }
  ],
  "OPEN": [
@@ -155905,6 +155915,21 @@
    "device": "OP6546L1",
    "name": "Pad 5 Pro",
    "model": "OPD2511"
+  },
+  {
+   "device": "OP692CL1",
+   "name": "Pad 6 F Lite Edition",
+   "model": "OPD2615"
+  },
+  {
+   "device": "OP692CL1",
+   "name": "Pad 6 F/Pad 6 F Matte Display Edition",
+   "model": "OPD2604"
+  },
+  {
+   "device": "OP692CL1",
+   "name": "Pad 6 F/Pad 6 F Matte Display Edition",
+   "model": "OPD2605"
   },
   {
    "device": "OP6541L1",
@@ -184657,6 +184682,11 @@
   {
    "device": "P08_T",
    "name": "P08_T",
+   "model": "P08_T"
+  },
+  {
+   "device": "P08_T1",
+   "name": "P08_T1",
    "model": "P08_T"
   },
   {
@@ -217709,6 +217739,11 @@
    "device": "T90",
    "name": "T90_US",
    "model": "T90"
+  },
+  {
+   "device": "V20T",
+   "name": "V20T_US",
+   "model": "V20"
   },
   {
    "device": "V20_EEA",
@@ -256155,6 +256190,11 @@
    "device": "Smartphone",
    "name": "XRZPro_NON_EU",
    "model": "XRZ"
+  },
+  {
+   "device": "Smartphone",
+   "name": "XRZPro_USA",
+   "model": "XRZ"
   }
  ],
  "XRZDual2": [
@@ -279435,6 +279475,11 @@
    "device": "VG100",
    "name": "VG1",
    "model": "VG100"
+  },
+  {
+   "device": "VG102",
+   "name": "vg102",
+   "model": "VG102"
   }
  ],
  "videocon": [
@@ -279724,6 +279769,11 @@
    "device": "V2648",
    "name": "V80",
    "model": "V2649"
+  },
+  {
+   "device": "V2624",
+   "name": "V80 FE",
+   "model": "V2624"
   },
   {
    "device": "V2576",

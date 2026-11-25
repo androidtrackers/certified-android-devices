@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-24
+Last sync is 2026-11-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11869,6 +11869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gevo|V10|Gevo_V10|V10|
 |Gevo|V30|V30|V30|
 |Gfast|MD_97_S464A|MD_97_S464A|MD_97_S464A|
+|Gfast|T_106|T_106|T_106|
 |Ghia|A7LED2|A7LED2|A7LED2|
 |Ghia|A7_3G|A7_3G|A7_3G|
 |Ghia|A7_SLIM|A7_SLIM|A7_SLIM|
@@ -13701,6 +13702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|S90Pro_US|S90Pro|S90Pro|
 |HUIHUANG|T3L2|T3L2|T3L2|
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
+|HUIHUANG|TabT10_EEA|TabT10|TabT10|
 |HUIHUANG|X10S|X10S|X10S|
 |HUIHUANG|X11_US|X11|X11|
 |HUIHUANG|XC70_US|XC70_US|XC70_US|
@@ -24448,6 +24450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|POWER_1|POWER_1|POWER_1|
 |M-Horse|POWER_1_EEA|POWER_1|POWER_1|
 |M-Horse|POWER_1_Max|POWER_1_Max|POWER_1_Max|
+|M-Horse|POWER_1_Max_EEA|POWER_1_Max|POWER_1_Max|
 |M-Horse|POWER_1_Max_RU|POWER_1_Max|POWER_1_Max|
 |M-Horse|POWER_1_Max_US|POWER_1_Max|POWER_1_Max|
 |M-Horse|POWER_1_RU|POWER_1|POWER_1|
@@ -29224,7 +29227,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONYX|BOOX|BOOX|BOOX|
 |ONYX|OnyxBooxII|OnyxBooxII|OnyxBoox II|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
-|ONYX|TabBoox|TabBoox|TabBoox|
 |OPEN|OPEN_PRO|OPEN_PRO|OPEN_PRO|
 |ORBYS|F20|F20|F20|
 |ORBYS|F21|F21|F21|
@@ -30253,6 +30255,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Pad 5|OP6573L1|OPD2502|
 |Oppo|Pad 5|OP6573L1|OPD2503|
 |Oppo|Pad 5 Pro|OP6546L1|OPD2511|
+|Oppo|Pad 6 F Lite Edition|OP692CL1|OPD2615|
+|Oppo|Pad 6 F/Pad 6 F Matte Display Edition|OP692CL1|OPD2604|
+|Oppo|Pad 6 F/Pad 6 F Matte Display Edition|OP692CL1|OPD2605|
 |Oppo|Pad Air5|OP6541L1|OPD2501|
 |Oppo|Pad Air5|OP6541L1|OPD2510|
 |Oppo|Pad Air6|OP6930L1|OPD2613|
@@ -35824,6 +35829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SVITOO|MOMO8-EEA|MOMO8-EEA|MOMO8|
 |SVITOO|P08|P08|P08|
 |SVITOO|P08_T|P08_T|P08_T|
+|SVITOO|P08_T1|P08_T1|P08_T|
 |SVITOO|P108_EEA|P108|P108|
 |SVITOO|P108_R_EEA|P108_R|P108_R|
 |SVITOO|P108_R_ROW|P108_R|P108_R|
@@ -42349,6 +42355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TABWEE|T90_EEA|T90|T90|
 |TABWEE|T90_NEU|T90|T90|
 |TABWEE|T90_US|T90|T90|
+|TABWEE|V20T_US|V20T|V20|
 |TABWEE|V20_EEA|V20_EEA|V20|
 |TABWEE|V20_NEU|V20_NEU|V20|
 |TABWEE|V20_US|V20_US|V20|
@@ -49813,6 +49820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XREAL|Beam Pro|X4000|X4000|
 |XRZ(sz)|XRZPro_EEA|Smartphone|XRZ|
 |XRZ(sz)|XRZPro_NON_EU|Smartphone|XRZ|
+|XRZ(sz)|XRZPro_USA|Smartphone|XRZ|
 |XRZDual2|XRZDual2_A16_EEA|XRZDual2_A16|XRZDual2|
 |XRZDual2|XRZDual2_A16_NEU|XRZDual2_A16|XRZDual2|
 |XRZDual2|XRZDual2_A16_US|XRZDual2_A16|XRZDual2|
@@ -54337,6 +54345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |verifone|IX90_CQA1103|IX90_CQA1103|IX90_CQA1103|
 |verifone|IX90_CQA1103_EEA|IX90_CQA1103_EEA|IX90_CQA1103_EEA|
 |verifone|VG1|VG100|VG100|
+|verifone|vg102|VG102|VG102|
 |videocon|Delite 11|V503630|V503630|
 |videocon|Krypton 22+|V505024|V505024|
 |videocon|Metal Pro 1|V505820|V505820|
@@ -54394,6 +54403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |vivo|V70 Lite 5G|V2529|V2637|
 |vivo|V80|V2648|V2648|
 |vivo|V80|V2648|V2649|
+|vivo|V80 FE|V2624|V2624|
 |vivo|V80 Lite 5G|V2576|V2576|
 |vivo|V80 Lite 5G|V2576|V2643|
 |vivo|V80 Lite 5G|V2576|V2644|
