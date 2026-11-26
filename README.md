@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-25
+Last sync is 2026-11-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -312,6 +312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD7081|MD7081A|MD7081|
 |AMobile|PD470|PD470|PD470|
 |AMobile|PD602|PD602|PD602|
+|AMobile|RT080|RT080|RT080|
 |AMobile|RT101|RT101|RT101|
 |AMobile|TC1560M-G510|tc1560m_g510|TC1560M-G510|
 |ANAM|ANAM|seocho|ANAM 4K Android TV|
@@ -11869,6 +11870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gevo|V10|Gevo_V10|V10|
 |Gevo|V30|V30|V30|
 |Gfast|MD_97_S464A|MD_97_S464A|MD_97_S464A|
+|Gfast|T-104KC|T-104KC|T-104KC|
 |Gfast|T_106|T_106|T_106|
 |Ghia|A7LED2|A7LED2|A7LED2|
 |Ghia|A7_3G|A7_3G|A7_3G|
@@ -27691,6 +27693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO_TERE|WI0C_M10_4G_PRO_TERE|M10_4G_PRO_TERE|
+|Multilaser|M12_4G|ML_BO07_M12_4G|M12 Ultra|
 |Multilaser|M12_4G|ML_BO07_M12_4G|M12_4G|
 |Multilaser|M7 3G|ML-WI1B-M7-3G|M7-3G|
 |Multilaser|M7 3G|ML_JI0N_M7_3G|M7_3G|
@@ -34833,6 +34836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P80_EU|P80_EU|P80|
 |Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
+|Relndoo|P90_A_EEA|P90_A|P90|
 |Relndoo|P90_EEA|P90|P90|
 |Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|P90_US|P90|P90|
@@ -35105,6 +35109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6539Q|S6539Q|VISION|
 |Ruio|S6539Z|S6539Z|S6539Z|
 |Ruio|S6563|S6563|S6563|
+|Ruio|S6571R|S6571R|S6571R|
 |Ruio|S6605|S6712|S6605|
 |Ruio|S6705|S6705|S6705|
 |Ruio|S6709M|S6709M|S6709M|
@@ -40199,6 +40204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|lcd_xxbel7a_c|lcd_xxbel7a_c|LCD-xxBEL7A-C|
 |Sharp|sharp|maniatika|SHARP 4K UHDTV|
 |Sharp|z3|VN3N|FS8009|
+|Sharp|シンプルスマホ8|Ramba|A601SH|
 |Sharp|シンプルスマホ３|SG509SH|509SH|
 |Sharp|シンプルスマホ４|SG704SH|704SH|
 |Sharp|シンプルスマホ５|OI6|A001SH|

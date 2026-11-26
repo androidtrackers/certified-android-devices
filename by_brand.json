@@ -1666,6 +1666,11 @@
    "model": "PD602"
   },
   {
+   "device": "RT080",
+   "name": "RT080",
+   "model": "RT080"
+  },
+  {
    "device": "RT101",
    "name": "RT101",
    "model": "RT101"
@@ -61747,6 +61752,11 @@
    "device": "MD_97_S464A",
    "name": "MD_97_S464A",
    "model": "MD_97_S464A"
+  },
+  {
+   "device": "T-104KC",
+   "name": "T-104KC",
+   "model": "T-104KC"
   },
   {
    "device": "T_106",
@@ -142629,6 +142639,11 @@
   {
    "device": "ML_BO07_M12_4G",
    "name": "M12_4G",
+   "model": "M12 Ultra"
+  },
+  {
+   "device": "ML_BO07_M12_4G",
+   "name": "M12_4G",
    "model": "M12_4G"
   },
   {
@@ -179385,6 +179400,11 @@
    "model": "P80"
   },
   {
+   "device": "P90_A",
+   "name": "P90_A_EEA",
+   "model": "P90"
+  },
+  {
    "device": "P90",
    "name": "P90_EEA",
    "model": "P90"
@@ -180823,6 +180843,11 @@
    "device": "S6563",
    "name": "S6563",
    "model": "S6563"
+  },
+  {
+   "device": "S6571R",
+   "name": "S6571R",
+   "model": "S6571R"
   },
   {
    "device": "S6712",
@@ -206645,6 +206670,11 @@
    "device": "VN3N",
    "name": "z3",
    "model": "FS8009"
+  },
+  {
+   "device": "Ramba",
+   "name": "シンプルスマホ8",
+   "model": "A601SH"
   },
   {
    "device": "SG509SH",

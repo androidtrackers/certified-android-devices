@@ -5804,6 +5804,18 @@
    "device": "PD602"
   }
  ],
+ "RT080": [
+  {
+   "brand": "AMobile",
+   "name": "RT080",
+   "device": "RT080"
+  },
+  {
+   "brand": "Bluebird",
+   "name": "RT080",
+   "device": "RT080"
+  }
+ ],
  "RT101": [
   {
    "brand": "AMobile",
@@ -46998,13 +47010,6 @@
    "device": "RP350"
   }
  ],
- "RT080": [
-  {
-   "brand": "Bluebird",
-   "name": "RT080",
-   "device": "RT080"
-  }
- ],
  "RT103": [
   {
    "brand": "Bluebird",
@@ -62575,6 +62580,11 @@
    "brand": "Cubot",
    "name": "P90",
    "device": "P90"
+  },
+  {
+   "brand": "Relndoo",
+   "name": "P90_A_EEA",
+   "device": "P90_A"
   },
   {
    "brand": "Relndoo",
@@ -91501,6 +91511,13 @@
    "brand": "Gfast",
    "name": "MD_97_S464A",
    "device": "MD_97_S464A"
+  }
+ ],
+ "T-104KC": [
+  {
+   "brand": "Gfast",
+   "name": "T-104KC",
+   "device": "T-104KC"
   }
  ],
  "T_106": [
@@ -193893,6 +193910,13 @@
    "device": "WI0C_M10_4G_PRO_TERE"
   }
  ],
+ "M12 Ultra": [
+  {
+   "brand": "Multilaser",
+   "name": "M12_4G",
+   "device": "ML_BO07_M12_4G"
+  }
+ ],
  "M12_4G": [
   {
    "brand": "Multilaser",
@@ -239162,6 +239186,13 @@
    "device": "S6563"
   }
  ],
+ "S6571R": [
+  {
+   "brand": "Ruio",
+   "name": "S6571R",
+   "device": "S6571R"
+  }
+ ],
  "S6605": [
   {
    "brand": "Ruio",
@@ -273380,6 +273411,13 @@
    "brand": "Sharp",
    "name": "sharp",
    "device": "maniatika"
+  }
+ ],
+ "A601SH": [
+  {
+   "brand": "Sharp",
+   "name": "シンプルスマホ8",
+   "device": "Ramba"
   }
  ],
  "509SH": [
