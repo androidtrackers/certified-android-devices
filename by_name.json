@@ -8288,6 +8288,11 @@
    "model": "X20"
   },
   {
+   "brand": "Bluebird",
+   "device": "X20",
+   "model": "X20"
+  },
+  {
    "brand": "Coolpad",
    "device": "X20",
    "model": "X20"
@@ -13727,6 +13732,20 @@
    "brand": "AVOCOR",
    "device": "S_Series",
    "model": "S_Series"
+  }
+ ],
+ "AWOL Valerion": [
+  {
+   "brand": "AWOL Vision",
+   "device": "fushishan",
+   "model": "AWOL Valerion"
+  }
+ ],
+ "Aetherion": [
+  {
+   "brand": "AWOL Vision",
+   "device": "yanshan",
+   "model": "Aetherion"
   }
  ],
  "AWOW_CreaPad_1001": [
@@ -50388,6 +50407,11 @@
    "model": "D1"
   },
   {
+   "brand": "COMMTEC",
+   "device": "D1",
+   "model": "D1"
+  },
+  {
    "brand": "Dafeng Media Group",
    "device": "DADA_1319D",
    "model": "DADA1319D"
@@ -50822,6 +50846,43 @@
    "brand": "xTouch",
    "device": "S20",
    "model": "S20"
+  }
+ ],
+ "S21": [
+  {
+   "brand": "Bluebird",
+   "device": "S21",
+   "model": "S21"
+  },
+  {
+   "brand": "Cellon",
+   "device": "S21",
+   "model": "Q-Smart S21"
+  },
+  {
+   "brand": "Conquest",
+   "device": "S21",
+   "model": "CONQUEST S21"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-S21",
+   "model": "itel S21"
+  },
+  {
+   "brand": "SEBBE",
+   "device": "S21",
+   "model": "S21_US"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "S21",
+   "model": "S21"
+  },
+  {
+   "brand": "leaderhub",
+   "device": "S21",
+   "model": "S21"
   }
  ],
  "S70": [
@@ -57236,38 +57297,6 @@
    "brand": "Cellon",
    "device": "M8047XT",
    "model": "Q"
-  }
- ],
- "S21": [
-  {
-   "brand": "Cellon",
-   "device": "S21",
-   "model": "Q-Smart S21"
-  },
-  {
-   "brand": "Conquest",
-   "device": "S21",
-   "model": "CONQUEST S21"
-  },
-  {
-   "brand": "Itel",
-   "device": "itel-S21",
-   "model": "itel S21"
-  },
-  {
-   "brand": "SEBBE",
-   "device": "S21",
-   "model": "S21_US"
-  },
-  {
-   "brand": "Vankyo",
-   "device": "S21",
-   "model": "S21"
-  },
-  {
-   "brand": "leaderhub",
-   "device": "S21",
-   "model": "S21"
   }
  ],
  "SI": [
@@ -74118,6 +74147,13 @@
    "model": "Titan 5G"
   }
  ],
+ "Pad12_pro": [
+  {
+   "brand": "DigitEdge",
+   "device": "Pad12_pro",
+   "model": "Pad12_pro"
+  }
+ ],
  "Pad12pro": [
   {
    "brand": "DigitEdge",
@@ -87821,6 +87857,13 @@
    "brand": "FCNT",
    "device": "F53E",
    "model": "F-53E"
+  }
+ ],
+ "F-53G": [
+  {
+   "brand": "FCNT",
+   "device": "F-53G",
+   "model": "F-53G"
   }
  ],
  "MR01": [
@@ -108160,6 +108203,11 @@
    "model": "X10S"
   },
   {
+   "brand": "HUIHUANG",
+   "device": "X10S",
+   "model": "X11"
+  },
+  {
    "brand": "XMART",
    "device": "X10S",
    "model": "X10S"
@@ -115438,6 +115486,13 @@
    "model": "SmartTV 4K"
   }
  ],
+ "LaserTV 4k": [
+  {
+   "brand": "Hisense",
+   "device": "yanshan",
+   "model": "LaserTV 4K"
+  }
+ ],
  "M10-M": [
   {
    "brand": "Hisense",
@@ -115799,6 +115854,13 @@
    "brand": "Hisense",
    "device": "wutaishan",
    "model": "SmartTV 4K FFM"
+  }
+ ],
+ "SmartTV 4K FFM SE": [
+  {
+   "brand": "Hisense",
+   "device": "wutaishan",
+   "model": "SmartTV 4K FFM SE"
   }
  ],
  "SoundTab MA-317": [
@@ -172387,6 +172449,13 @@
    "brand": "MIRAY",
    "device": "sepolia",
    "model": "Miray 4k google tv"
+  }
+ ],
+ "TABM_P1095": [
+  {
+   "brand": "MIRAY",
+   "device": "TABM_P1095",
+   "model": "TABM_P1095"
   }
  ],
  "TM4G_1006": [
@@ -234220,6 +234289,13 @@
   }
  ],
  "P90_A_EEA": [
+  {
+   "brand": "Relndoo",
+   "device": "P90_A",
+   "model": "P90"
+  }
+ ],
+ "P90_A_US": [
   {
    "brand": "Relndoo",
    "device": "P90_A",
@@ -300492,6 +300568,20 @@
    "brand": "Ulefone",
    "device": "GQ5017BF3",
    "model": "Armor 34 Pro"
+  }
+ ],
+ "Armor 36 Pro": [
+  {
+   "brand": "Ulefone",
+   "device": "GQ5022AF4_A17",
+   "model": "Armor 36 Pro"
+  }
+ ],
+ "Armor 36 Ultra": [
+  {
+   "brand": "Ulefone",
+   "device": "GQ5022AF1",
+   "model": "Armor 36 Ultra"
   }
  ],
  "Armor 6": [

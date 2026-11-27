@@ -1719,6 +1719,11 @@
    "model": "X20"
   },
   {
+   "brand": "Bluebird",
+   "name": "X20",
+   "model": "X20"
+  },
+  {
    "brand": "Coolpad",
    "name": "X20",
    "model": "X20"
@@ -12403,6 +12408,30 @@
    "brand": "AVOCOR",
    "name": "S_Series",
    "model": "S_Series"
+  }
+ ],
+ "fushishan": [
+  {
+   "brand": "AWOL Vision",
+   "name": "AWOL Valerion",
+   "model": "AWOL Valerion"
+  },
+  {
+   "brand": "Leica",
+   "name": "Leica Cine Compact 1",
+   "model": "Leica Cine Compact 1"
+  }
+ ],
+ "yanshan": [
+  {
+   "brand": "AWOL Vision",
+   "name": "Aetherion",
+   "model": "Aetherion"
+  },
+  {
+   "brand": "Hisense",
+   "name": "LaserTV 4k",
+   "model": "LaserTV 4K"
   }
  ],
  "AWOW_CreaPad_1001": [
@@ -53411,6 +53440,48 @@
    "model": "S20"
   }
  ],
+ "S21": [
+  {
+   "brand": "Bluebird",
+   "name": "S21",
+   "model": "S21"
+  },
+  {
+   "brand": "Cellon",
+   "name": "S21",
+   "model": "Q-Smart S21"
+  },
+  {
+   "brand": "Conquest",
+   "name": "S21",
+   "model": "CONQUEST S21"
+  },
+  {
+   "brand": "Conquest",
+   "name": "S21_EEA",
+   "model": "CONQUEST S21"
+  },
+  {
+   "brand": "Conquest",
+   "name": "S21_RU",
+   "model": "CONQUEST S21"
+  },
+  {
+   "brand": "SEBBE",
+   "name": "S21",
+   "model": "S21_US"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "S21",
+   "model": "S21"
+  },
+  {
+   "brand": "leaderhub",
+   "name": "S21",
+   "model": "S21"
+  }
+ ],
  "S50": [
   {
    "brand": "Bluebird",
@@ -56780,6 +56851,28 @@
    "model": "C1B"
   }
  ],
+ "D1": [
+  {
+   "brand": "COMMTEC",
+   "name": "D1",
+   "model": "D1"
+  },
+  {
+   "brand": "Maximus",
+   "name": "D1",
+   "model": "Maximus D1"
+  },
+  {
+   "brand": "iLa Mobile",
+   "name": "D1",
+   "model": "D1"
+  },
+  {
+   "brand": "kozen",
+   "name": "D1",
+   "model": "D1"
+  }
+ ],
  "ACE_1s_Pro": [
   {
    "brand": "COMPAX",
@@ -59979,43 +60072,6 @@
    "brand": "Cellon",
    "name": "Q",
    "model": "Q"
-  }
- ],
- "S21": [
-  {
-   "brand": "Cellon",
-   "name": "S21",
-   "model": "Q-Smart S21"
-  },
-  {
-   "brand": "Conquest",
-   "name": "S21",
-   "model": "CONQUEST S21"
-  },
-  {
-   "brand": "Conquest",
-   "name": "S21_EEA",
-   "model": "CONQUEST S21"
-  },
-  {
-   "brand": "Conquest",
-   "name": "S21_RU",
-   "model": "CONQUEST S21"
-  },
-  {
-   "brand": "SEBBE",
-   "name": "S21",
-   "model": "S21_US"
-  },
-  {
-   "brand": "Vankyo",
-   "name": "S21",
-   "model": "S21"
-  },
-  {
-   "brand": "leaderhub",
-   "name": "S21",
-   "model": "S21"
   }
  ],
  "Dream-S1": [
@@ -76603,6 +76659,13 @@
    "model": "Titan 5G"
   }
  ],
+ "Pad12_pro": [
+  {
+   "brand": "DigitEdge",
+   "name": "Pad12_pro",
+   "model": "Pad12_pro"
+  }
+ ],
  "Pad12pro": [
   {
    "brand": "DigitEdge",
@@ -89225,6 +89288,13 @@
    "brand": "FCNT",
    "name": "F-53E",
    "model": "F-53E"
+  }
+ ],
+ "F-53G": [
+  {
+   "brand": "FCNT",
+   "name": "F-53G",
+   "model": "F-53G"
   }
  ],
  "MR01": [
@@ -109270,6 +109340,11 @@
    "model": "X10S"
   },
   {
+   "brand": "HUIHUANG",
+   "name": "X10S",
+   "model": "X11"
+  },
+  {
    "brand": "XMART",
    "name": "X10S",
    "model": "X10S"
@@ -116110,6 +116185,11 @@
    "brand": "Hisense",
    "name": "SmartTV 4K FFM",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "SmartTV 4K FFM SE",
+   "model": "SmartTV 4K FFM SE"
   }
  ],
  "rk3028a": [
@@ -163884,13 +163964,6 @@
    "model": "LGT-08QA-2301"
   }
  ],
- "fushishan": [
-  {
-   "brand": "Leica",
-   "name": "Leica Cine Compact 1",
-   "model": "Leica Cine Compact 1"
-  }
- ],
  "TB-8506N": [
   {
    "brand": "Lenco",
@@ -174047,6 +174120,13 @@
    "model": "MIDM_F10"
   }
  ],
+ "TABM_P1095": [
+  {
+   "brand": "MIRAY",
+   "name": "TABM_P1095",
+   "model": "TABM_P1095"
+  }
+ ],
  "TM4G_1006": [
   {
    "brand": "MIRAY",
@@ -176645,23 +176725,6 @@
    "brand": "Maxfone",
    "name": "Maxfone",
    "model": "Maxfone"
-  }
- ],
- "D1": [
-  {
-   "brand": "Maximus",
-   "name": "D1",
-   "model": "Maximus D1"
-  },
-  {
-   "brand": "iLa Mobile",
-   "name": "D1",
-   "model": "D1"
-  },
-  {
-   "brand": "kozen",
-   "name": "D1",
-   "model": "D1"
   }
  ],
  "D7": [
@@ -234132,6 +234195,11 @@
   {
    "brand": "Relndoo",
    "name": "P90_A_EEA",
+   "model": "P90"
+  },
+  {
+   "brand": "Relndoo",
+   "name": "P90_A_US",
    "model": "P90"
   }
  ],
@@ -300892,6 +300960,20 @@
    "brand": "Ulefone",
    "name": "Armor 34 Pro",
    "model": "Armor 34 Pro"
+  }
+ ],
+ "GQ5022AF4_A17": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 36 Pro",
+   "model": "Armor 36 Pro"
+  }
+ ],
+ "GQ5022AF1": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 36 Ultra",
+   "model": "Armor 36 Ultra"
   }
  ],
  "Armor_6": [

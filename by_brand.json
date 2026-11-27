@@ -3135,6 +3135,18 @@
    "model": "S_Series"
   }
  ],
+ "AWOL Vision": [
+  {
+   "device": "fushishan",
+   "name": "AWOL Valerion",
+   "model": "AWOL Valerion"
+  },
+  {
+   "device": "yanshan",
+   "name": "Aetherion",
+   "model": "Aetherion"
+  }
+ ],
  "AWOW": [
   {
    "device": "AWOW_CreaPad_1001",
@@ -28048,6 +28060,11 @@
    "model": "S20"
   },
   {
+   "device": "S21",
+   "name": "S21",
+   "model": "S21"
+  },
+  {
    "device": "S50",
    "name": "S50",
    "model": "S50"
@@ -28106,6 +28123,11 @@
    "device": "VX500",
    "name": "VX500",
    "model": "VX500"
+  },
+  {
+   "device": "X20",
+   "name": "X20",
+   "model": "X20"
   },
   {
    "device": "X40",
@@ -30431,6 +30453,11 @@
    "device": "C80",
    "name": "C80",
    "model": "C80"
+  },
+  {
+   "device": "D1",
+   "name": "D1",
+   "model": "D1"
   }
  ],
  "COMPAX": [
@@ -44991,6 +45018,11 @@
  ],
  "DigitEdge": [
   {
+   "device": "Pad12_pro",
+   "name": "Pad12_pro",
+   "model": "Pad12_pro"
+  },
+  {
    "device": "Pad12pro",
    "name": "Pad12pro",
    "model": "Pad12pro"
@@ -54952,6 +54984,11 @@
    "device": "F53E",
    "name": "F-53E",
    "model": "F-53E"
+  },
+  {
+   "device": "F-53G",
+   "name": "F-53G",
+   "model": "F-53G"
   },
   {
    "device": "MR01",
@@ -71158,6 +71195,11 @@
    "model": "X10S"
   },
   {
+   "device": "X10S",
+   "name": "X10S",
+   "model": "X11"
+  },
+  {
    "device": "X11",
    "name": "X11_US",
    "model": "X11"
@@ -77090,6 +77132,11 @@
    "model": "SmartTV 4K"
   },
   {
+   "device": "yanshan",
+   "name": "LaserTV 4k",
+   "model": "LaserTV 4K"
+  },
+  {
    "device": "HS9830SP",
    "name": "M10-M",
    "model": "Hisense M10-M"
@@ -77368,6 +77415,11 @@
    "device": "wutaishan",
    "name": "SmartTV 4K FFM",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "device": "wutaishan",
+   "name": "SmartTV 4K FFM SE",
+   "model": "SmartTV 4K FFM SE"
   },
   {
    "device": "rk3028a",
@@ -127289,6 +127341,11 @@
    "device": "R4_GTV",
    "name": "R4_GTV",
    "model": "R4G"
+  },
+  {
+   "device": "TABM_P1095",
+   "name": "TABM_P1095",
+   "model": "TABM_P1095"
   },
   {
    "device": "TM4G_1006",
@@ -179402,6 +179459,11 @@
   {
    "device": "P90_A",
    "name": "P90_A_EEA",
+   "model": "P90"
+  },
+  {
+   "device": "P90_A",
+   "name": "P90_A_US",
    "model": "P90"
   },
   {
@@ -238138,6 +238200,16 @@
    "device": "GQ5017BF3",
    "name": "Armor 34 Pro",
    "model": "Armor 34 Pro"
+  },
+  {
+   "device": "GQ5022AF4_A17",
+   "name": "Armor 36 Pro",
+   "model": "Armor 36 Pro"
+  },
+  {
+   "device": "GQ5022AF1",
+   "name": "Armor 36 Ultra",
+   "model": "Armor 36 Ultra"
   },
   {
    "device": "Armor_6",

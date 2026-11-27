@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2026-11-26
+Last sync is 2026-11-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -581,6 +581,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AVOCOR|A_Series|A_Series|A_Series|
 |AVOCOR|Commercial_Display|S_Series|S_Series|
 |AVOCOR|S_Series|S_Series|S_Series|
+|AWOL Vision|AWOL Valerion|fushishan|AWOL Valerion|
+|AWOL Vision|Aetherion|yanshan|Aetherion|
 |AWOW|AWOW_CreaPad_1001|AWOW_CreaPad_1001|AWOW_CreaPad_1001|
 |AWOW|AWOW_CreaPad_1003|AWOW_CreaPad_1003_EEA|AWOW_CreaPad_1003_EEA|
 |AWOW|CQA1019_EEA|CQA1019_EEA|CQA1019_EEA|
@@ -5440,6 +5442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|RT103|RT103|RT103|
 |Bluebird|S10|S10|S10|
 |Bluebird|S20|S20|S20|
+|Bluebird|S21|S21|S21|
 |Bluebird|S50|S50|S50|
 |Bluebird|S70|S70|S70|
 |Bluebird|SF550|SF550|SF550|
@@ -5452,6 +5455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|VF550|VF550|VF550|
 |Bluebird|VF550|VF550|VF550_RU|
 |Bluebird|VX500|VX500|VX500|
+|Bluebird|X20|X20|X20|
 |Bluebird|X40|X40|X40|
 |Bluedigit|RAVOZ R4|RAVOZ_R4|RAVOZ R4|
 |Bluedigit|RAVOZ R7|RAVOZ_R7|RAVOZ R7|
@@ -5881,6 +5885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COMMTEC|C1|C1|C1|
 |COMMTEC|C1B|C1B|C1B|
 |COMMTEC|C80|C80|C80|
+|COMMTEC|D1|D1|D1|
 |COMPAX|ACE 1s Pro|ACE_1s_Pro|A3-1510P|
 |COMPUMAX|BLUEPAD10|BLUEPAD10|BLUEPAD10|
 |COMPUMAX|BlueS10|COMPUMAX|BlueS10|
@@ -8677,6 +8682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digit|Sonic_Pro|Sonic_pro|Digit Sonic Pro|
 |Digit|Tab2|Tab2|Tab2|
 |Digit|Titan_5G|Titan_5G|Titan 5G|
+|DigitEdge|Pad12_pro|Pad12_pro|Pad12_pro|
 |DigitEdge|Pad12pro|Pad12pro|Pad12pro|
 |DigitEdge|Pad12ultra|Pad12ultra|Pad12ultra|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
@@ -10580,6 +10586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|AW02|AW02|AW02|
 |FCNT|F-52B|F52B|F-52B|
 |FCNT|F-53E|F53E|F-53E|
+|FCNT|F-53G|F-53G|F-53G|
 |FCNT|MR01|MR01|MR01|
 |FCNT|SD01|SD01|SD01|
 |FCNT|arrows Alpha F-51F|F-51F|F-51F|
@@ -13706,6 +13713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HUIHUANG|T3L2_EEA|T3L2|T3L2|
 |HUIHUANG|TabT10_EEA|TabT10|TabT10|
 |HUIHUANG|X10S|X10S|X10S|
+|HUIHUANG|X10S|X10S|X11|
 |HUIHUANG|X11_US|X11|X11|
 |HUIHUANG|XC70_US|XC70_US|XC70_US|
 |HUIHUANG|XC90_US|XC90_US|XC90_US|
@@ -14870,6 +14878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|LT100K6900A|mt5327|LT100K6900A|
 |Hisense|LT610|LT610|LT610|
 |Hisense|Laser TV|wuyishan|SmartTV 4K|
+|Hisense|LaserTV 4k|yanshan|LaserTV 4K|
 |Hisense|M10-M|HS9830SP|Hisense M10-M|
 |Hisense|M20- T|HS8909QC|Hisense M20-T|
 |Hisense|M20-M|HS9830SP|Hisense M20-M|
@@ -14926,6 +14935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|SmartLaser 4K|hengshan|SmartLaser 4K|
 |Hisense|SmartTV 4K|hengshan|SmartTV 4K|
 |Hisense|SmartTV 4K FFM|wutaishan|SmartTV 4K FFM|
+|Hisense|SmartTV 4K FFM SE|wutaishan|SmartTV 4K FFM SE|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -24703,6 +24713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|R3_GTV|R3_GTV|R3G|
 |MIRAY|R4|R4|R4|
 |MIRAY|R4_GTV|R4_GTV|R4G|
+|MIRAY|TABM_P1095|TABM_P1095|TABM_P1095|
 |MIRAY|TM4G_1006|TM4G_1006|TM4G_1006|
 |MIRAY|TM4G_806|TM4G_806|TM4G_806|
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
@@ -34837,6 +34848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Relndoo|P80_EUR|P80|P80|
 |Relndoo|P80_US|P80_US|P80|
 |Relndoo|P90_A_EEA|P90_A|P90|
+|Relndoo|P90_A_US|P90_A|P90|
 |Relndoo|P90_EEA|P90|P90|
 |Relndoo|P90_ROW|P90_ROW|P90|
 |Relndoo|P90_US|P90|P90|
@@ -46322,6 +46334,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 33|GQ5016TF1|Armor 33|
 |Ulefone|Armor 34|GQ5017BF4|Armor 34|
 |Ulefone|Armor 34 Pro|GQ5017BF3|Armor 34 Pro|
+|Ulefone|Armor 36 Pro|GQ5022AF4_A17|Armor 36 Pro|
+|Ulefone|Armor 36 Ultra|GQ5022AF1|Armor 36 Ultra|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor 8|Armor_8|Armor 8|

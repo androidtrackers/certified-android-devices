@@ -2463,6 +2463,11 @@
    "device": "X20"
   },
   {
+   "brand": "Bluebird",
+   "name": "X20",
+   "device": "X20"
+  },
+  {
    "brand": "Coolpad",
    "name": "X20",
    "device": "X20"
@@ -10170,6 +10175,20 @@
    "brand": "AVOCOR",
    "name": "S_Series",
    "device": "S_Series"
+  }
+ ],
+ "AWOL Valerion": [
+  {
+   "brand": "AWOL Vision",
+   "name": "AWOL Valerion",
+   "device": "fushishan"
+  }
+ ],
+ "Aetherion": [
+  {
+   "brand": "AWOL Vision",
+   "name": "Aetherion",
+   "device": "yanshan"
   }
  ],
  "AWOW_CreaPad_1001": [
@@ -46647,6 +46666,11 @@
    "device": "BLUBOO_D1"
   },
   {
+   "brand": "COMMTEC",
+   "name": "D1",
+   "device": "D1"
+  },
+  {
    "brand": "Mobicell",
    "name": "D1",
    "device": "PX12"
@@ -47052,6 +47076,23 @@
    "brand": "xTouch",
    "name": "S20",
    "device": "S20"
+  }
+ ],
+ "S21": [
+  {
+   "brand": "Bluebird",
+   "name": "S21",
+   "device": "S21"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "S21",
+   "device": "S21"
+  },
+  {
+   "brand": "leaderhub",
+   "name": "S21",
+   "device": "S21"
   }
  ],
  "SF550": [
@@ -62588,6 +62629,11 @@
   },
   {
    "brand": "Relndoo",
+   "name": "P90_A_US",
+   "device": "P90_A"
+  },
+  {
+   "brand": "Relndoo",
    "name": "P90_EEA",
    "device": "P90"
   },
@@ -69768,6 +69814,13 @@
    "device": "Titan_5G"
   }
  ],
+ "Pad12_pro": [
+  {
+   "brand": "DigitEdge",
+   "name": "Pad12_pro",
+   "device": "Pad12_pro"
+  }
+ ],
  "Pad12pro": [
   {
    "brand": "DigitEdge",
@@ -71000,6 +71053,11 @@
    "brand": "Doogee",
    "name": "X11",
    "device": "X11"
+  },
+  {
+   "brand": "HUIHUANG",
+   "name": "X10S",
+   "device": "X10S"
   },
   {
    "brand": "HUIHUANG",
@@ -82822,6 +82880,13 @@
    "brand": "FCNT",
    "name": "F-53E",
    "device": "F53E"
+  }
+ ],
+ "F-53G": [
+  {
+   "brand": "FCNT",
+   "name": "F-53G",
+   "device": "F-53G"
   }
  ],
  "MR01": [
@@ -111731,6 +111796,13 @@
    "device": "LT610"
   }
  ],
+ "LaserTV 4K": [
+  {
+   "brand": "Hisense",
+   "name": "LaserTV 4k",
+   "device": "yanshan"
+  }
+ ],
  "Hisense M10-M": [
   {
    "brand": "Hisense",
@@ -112091,6 +112163,13 @@
    "brand": "Hisense",
    "name": "SmartLaser 4K",
    "device": "hengshan"
+  }
+ ],
+ "SmartTV 4K FFM SE": [
+  {
+   "brand": "Hisense",
+   "name": "SmartTV 4K FFM SE",
+   "device": "wutaishan"
   }
  ],
  "Hisense SoundTab MA-317": [
@@ -174965,6 +175044,13 @@
    "brand": "MIRAY",
    "name": "Peru",
    "device": "sepolia"
+  }
+ ],
+ "TABM_P1095": [
+  {
+   "brand": "MIRAY",
+   "name": "TABM_P1095",
+   "device": "TABM_P1095"
   }
  ],
  "TM4G_1006": [
@@ -311733,6 +311819,20 @@
    "device": "GQ5017BF3"
   }
  ],
+ "Armor 36 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 36 Pro",
+   "device": "GQ5022AF4_A17"
+  }
+ ],
+ "Armor 36 Ultra": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 36 Ultra",
+   "device": "GQ5022AF1"
+  }
+ ],
  "Armor_6": [
   {
    "brand": "Ulefone",
@@ -316867,18 +316967,6 @@
    "brand": "Vankyo",
    "name": "S20_EEA",
    "device": "S20_EEA_2020"
-  }
- ],
- "S21": [
-  {
-   "brand": "Vankyo",
-   "name": "S21",
-   "device": "S21"
-  },
-  {
-   "brand": "leaderhub",
-   "name": "S21",
-   "device": "S21"
   }
  ],
  "S21_Plus": [
